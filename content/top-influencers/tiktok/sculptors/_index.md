@@ -1,11 +1,11 @@
 ---
-title: Top 10 Sculptors TikTok Influencers In 2023
+title: Top 10 Sculptors TikTok Influencers In 2024
 description: >-
-  Find top sculptors TikTok influencers in 2023. Most popular hashtags: #sculpture #art #polymerclay #artist.
+  Find top sculptors TikTok influencers in 2024. Most popular hashtags: #sculpture #art #artist #polymerclay.
 platform: TikTok
-hits: 251
-text_top: See the most popular TikTok profiles on inBeat.
-text_bottom: Our search engine has 251 TikTok influencers like this for you to contact.
+hits: 252
+text_top: Discover the top-rated TikTok influencers on inBeat.
+text_bottom: inBeat aggregates 252 TikTok influencers like this for you to collaborate.
 profiles:
   - username: "onni_crafts"
     fullname: >-

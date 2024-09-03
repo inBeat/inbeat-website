@@ -1,11 +1,11 @@
 ---
-title: Top 10 Mma Fighters TikTok Influencers In United States In 2023
+title: Top 10 Mma Fighters TikTok Influencers In United States In 2024
 description: >-
-  Find top mma fighters TikTok influencers in United States in 2023. Most popular hashtags: #fyp #mma #boxing #foryou.
+  Find top mma fighters TikTok influencers in United States in 2024. Most popular hashtags: #fyp #mma #boxing #foryou.
 platform: TikTok
 hits: 11
-text_top: Discover the best TikTok profiles on inBeat.
-text_bottom: inBeat aggregates 11 TikTok influencers like this in United States for you to pitch.
+text_top: Analyze the top-rated TikTok profiles on inBeat.
+text_bottom: Our database holds 11 TikTok influencers like this in United States for you to pitch.
 profiles:
   - username: "mmamyers"
     fullname: >-

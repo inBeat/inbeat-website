@@ -1,48 +1,96 @@
 ---
-title: Top 10 Makeup Instagram Influencers In Argentina In 2023
+title: Top 10 Makeup Instagram Influencers In Argentina In 2024
 description: >-
-  Find top makeup Instagram influencers in Argentina in 2023. Most popular hashtags: #makeup #makeupartist #makeuptutorial.
+  Find top makeup Instagram influencers in Argentina in 2024. Most popular hashtags: #makeup #reels #makeuptutorial.
 platform: Instagram
-hits: 492
-text_top: See the top-rated Instagram profiles on inBeat.
-text_bottom: inBeat aggregates 492 Instagram influencers like this in Argentina for you to pitch.
+hits: 479
+text_top: See the best Instagram profiles on inBeat.
+text_bottom: inBeat has 479 Instagram influencers like this in Argentina for you to contact.
 profiles:
-  - username: "fuckisra"
+  - username: "tatiperez"
     fullname: >-
-      I S R A 🌼
+      Tati Makeup
     bio: >-
-      📍 Madrid 🌈 No tengas miedo a ser distinto 🦄 Makeup drag, glam y artístico ✉ contactwithisra@gmail.com 🎬 Ahora también en Youtube
+      Hair & Makeup Services Owner at @tatimakeupstudio Makeup Classes Beauty, fashion, traveling tips, DIYS, Cooking, Parenting and single momming 🤍
     location: "Argentina"
-    followers: 15179
-    engagement: 2372
-    commentsToLikes: 0.082982
-    id: ck5ci915ms8050i11nzlfgdec
+    followers: 175717
+    engagement: 279
+    commentsToLikes: 0.041520
+    id: ck5ccbnvvh2nx0i11u62wh5wo
     verified: false
-    hashtags: "#explore, #makeup, #tutorial, #kyliejenner"
-  - username: "sashanikyta"
+    hashtags: "#feriadesevilla, #bobatea, #estoymamada, #shameless"
+  - username: "byantofazio"
     fullname: >-
-      Sasha Nikyta✨Pty BeautyVlogger
+      Antonella Fazio
     bio: >-
-      Hellou💕Bienvenidx a mi mundo lleno de Skin care, Makeup, Outfits y Risas. ✨ERES BELLA Y PUNTO✨ Piloto 👩🏻‍✈️
+      Makeup Artist - Cosmetóloga - Lifestyle
     location: "Argentina"
-    followers: 34857
-    engagement: 1368
-    commentsToLikes: 0.144802
-    id: ck8sxgzwrhcy60j78bj0x5e0u
+    followers: 37948
+    engagement: 256
+    commentsToLikes: 0.568961
+    id: ckapcgeid3pg70i78dc8prm2g
     verified: false
-    hashtags: "#shopamorususa, #teamlargo, #narsissist, #plouisebase"
-  - username: "srtaklaha"
+    hashtags: "#plussizebeauty, #makeup, #skinfluencer, #avonultramatte"
+  - username: "nadia.presmanes"
     fullname: >-
-      Señorita Klaha
+      Nadia Presmanes
     bio: >-
-      🇦🇷 📸#Model 👗#Designer 🌱#PoisonIvy 💋#Makeup 🎨#Artist 🔮#Witch 🖤#Gothgirl ****LINKS**** 👇🏻
+      Buenos Aires, Argentina Makeup, Beauty, Lifestyle
     location: "Argentina"
-    followers: 25355
-    engagement: 474
-    commentsToLikes: 0.094175
-    id: ck15pzevl0e270i19qn5e5iyv
+    followers: 33815
+    engagement: 242
+    commentsToLikes: 0.031053
+    id: ck5zkuwikk7bv0i14o80vg4kp
     verified: false
+    hashtags: "#redlips, #protegetuglow, #maclustreglass, #voguecosmeticosar"
+  - username: "luliharg"
+    fullname: >-
+      Lucia Harguintegui
+    bio: >-
+      Fashion Designer & Make up artist Content Creator TikTok 40k @luliharg Lifestyle | Makeup | Beauty Tips Bs.As 🇦🇷
+    location: "Argentina"
+    followers: 100639
+    engagement: 47
+    commentsToLikes: 0.659253
+    id: ck5zwycz96zst0i14ciwhxjv8
+    verified: false
+    hashtags: "#taylorswift, #makeup, #theerastour, #makeupinspo"
+  - username: "pilarrubio"
+    fullname: >-
+      Pilar Rubio
+    bio: >-
+      Mamá 👦🏻🧒🏼🧒🏼👶🏼 Comunicadora con alma rockera⚡ 📺 @elhormiguero @eldesafioa3 #MakeUpStars #DiscoveringCanaryIslands @rakutentv_es 📩 Pilar@thinketers.com
+    location: "Argentina"
+    followers: 11139472
+    engagement: 41
+    commentsToLikes: 0.009476
+    id: ck0tvtudqcrcx0i192scvoisb
+    verified: true
+    hashtags: "#sergiojr, #descubrecetaphil, #ad, #publi"
+  - username: "kahlemakeup"
+    fullname: >-
+      Titi Cleris
+    bio: >-
+      Pro Makeup Artist Yves Saint Laurent Makeup Ambassador welove@kahlemakeup.com/ popup@kahlemakeup.com CURSOS DE MAKEUP ONLINE EN MI NUEVA PLATAFORMA.
+    location: "Argentina"
+    followers: 133535
+    engagement: 41
+    commentsToLikes: 0.038354
+    id: ck6udbbebk4fm0j71e6oezrch
+    verified: true
     hashtags: ""
+  - username: "ninaamateis"
+    fullname: >-
+      Nina Amateis
+    bio: >-
+      ✨Skincare, Makeup, Moda & Deco 🤍 -Consejos de la #NinaGuru del amor y mucho más!
+    location: "Argentina"
+    followers: 272263
+    engagement: 54
+    commentsToLikes: 0.067176
+    id: ck135o6vd2e270i190esdj630
+    verified: false
+    hashtags: "#makeuptip, #nina, #makeup, #tutorialmakeup"
   - username: "joaquinlpatterson"
     fullname: >-
       Joaquin Lopez Patterson
@@ -79,52 +127,4 @@ profiles:
     id: ckap6ik27fzmk0i7867dhkuxv
     verified: false
     hashtags: "#reels, #teamnataliamua, #summermakeup, #cordobamakeup"
-  - username: "danielaair"
-    fullname: >-
-      Daniela Irigoyen
-    bio: >-
-      Makeup lover💄 ❌NO ESTOY INTERESADA EN TRADING❌ GRACIAS POR NO MOLESTAR
-    location: "Argentina"
-    followers: 3185
-    engagement: 990
-    commentsToLikes: 0.146450
-    id: ckaozlcffmdo80i78cn3gj3l1
-    verified: false
-    hashtags: "#makeupartistvzla, #muasupport, #glowskin, #makeupinstagram"
-  - username: "aguscolionimua"
-    fullname: >-
-      Agus
-    bio: >-
-      •Makeup Artist •TikTok: @ aguscolionimua0 •Aguscolioni@gmail.com
-    location: "Argentina"
-    followers: 8719
-    engagement: 616
-    commentsToLikes: 0.101668
-    id: ck0w5zxrx68x50i19d95kyho5
-    verified: false
-    hashtags: "#harrypotter, #bodypaint, #maquillaje, #makeupideas"
-  - username: "giggsymakeup"
-    fullname: >-
-      Majo Rios Gaitán
-    bio: >-
-      ✨ #LunesDeSkincare #SabadosDeMakeup 💄 Makeup Artist @gmakeupstudio 🎬 YouTube +100K ⤵️
-    location: "Argentina"
-    followers: 46422
-    engagement: 207
-    commentsToLikes: 0.049765
-    id: ck15scihgcbfq0i19wdz4faay
-    verified: false
-    hashtags: "#mua, #skincare, #makeup, #skin"
-  - username: "nazarenomakeup"
-    fullname: >-
-      Matias Nazareno
-    bio: >-
-      Nazareno y el Lobo Makeup Artist en Miss Universe 2011 Artista plástico Instructor en @muamakeupartstudio y @dockonce @kryolanargentina
-    location: "Argentina"
-    followers: 28805
-    engagement: 258
-    commentsToLikes: 0.075445
-    id: ck0w34hnprkee0i19stqu8s69
-    verified: false
-    hashtags: "#halloween, #phoshoot, #dragqueen, #terror"
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Health Instagram Influencers In Switzerland In 2023
+title: Top 10 Health Instagram Influencers In Switzerland In 2024
 description: >-
-  Find top health Instagram influencers in Switzerland in 2023. Most popular hashtags: #switzerland #summervibes #travel.
+  Find top health Instagram influencers in Switzerland in 2024. Most popular hashtags: #switzerland #fitness #summervibes #sunnyday.
 platform: Instagram
-hits: 83
-text_top: Discover the top-rated Instagram profiles on inBeat.
-text_bottom: Our platform has 83 Instagram influencers like this in Switzerland for you to collaborate.
+hits: 133
+text_top: Identify the top-rated Instagram influencers on inBeat.
+text_bottom: Our search engine holds 133 Instagram influencers like this in Switzerland for you to pitch.
 profiles:
-  - username: "i_am_birebaumli"
+  - username: "slavia_karlen"
     fullname: >-
-      
+      Slavia Karlen | Blogger and Content Creator
     bio: >-
-      BOOKINGS TEMPORARLY CLOSED Welcome to my portfolio! Based in 🇨🇭 Interested in martial arts 🥊 & fitness, photography, nature, healthy v. food
+      Lifestyle-Blogger womentalk.ch Content Creator Inspiration Testing products Fun & travel & health ü40 🇨🇭 📧 for collaboration: slavia@event-creator.ch
     location: "Switzerland"
-    followers: 6750
-    engagement: 1985
-    commentsToLikes: 0.126511
-    id: ck13d3pg53irf0i190hd1hu57
+    followers: 39333
+    engagement: 525
+    commentsToLikes: 0.020551
+    id: ck15u6q7alol00i19zder1ye4
     verified: false
-    hashtags: "#swissphotographer, #urbexlovers, #lookslikefilm, #thun"
-  - username: "_tamayoga"
+    hashtags: "#zff, #gown, #stadtgefl, #hotelrecap"
+  - username: "melanielaurah"
     fullname: >-
-      Tam | Wellness and Yoga
+      melanie laura
     bio: >-
-      📍GENEVA Sharing my yoga journey to motivate myself and others 🦋 Co-founder of @flowspaceofficial a project to promote health of body and mind ✨
+      lifestyle | health | fashion 🧸 switzerland ☁️ more fun on tiktok
     location: "Switzerland"
-    followers: 23289
-    engagement: 260
-    commentsToLikes: 0.060606
-    id: ck9wewvnmm7gp0j78g4k2bokx
+    followers: 7885
+    engagement: 3776
+    commentsToLikes: 0.029439
+    id: ck8szmubzp19k0j78bv4vo93d
     verified: false
-    hashtags: "#alobouthealth, #alosalutethesun"
-  - username: "friedahodel"
-    fullname: >-
-      F R I E D A   H O D E L
-    bio: >-
-      • Beauty, Body & Shape Expert: 👉🏼@fh.health.and.lifestyle👈🏼 • First🇨🇭Bachelorette 2015🌹 • Mama & Content Creator • ❤️ @fabiozerzuben
-    location: "Switzerland"
-    followers: 37313
-    engagement: 587
-    commentsToLikes: 0.024418
-    id: ckap0qb07rejq0i78ud5qp3yk
-    verified: true
-    hashtags: "#switzerland, #happiness, #travel, #vacation"
-  - username: "massixda"
-    fullname: >-
-      Massimo
-    bio: >-
-      Fashion I Lifestyle I Travel I Beauty I Health 📍Located Zürich 🇨🇭
-    location: "Switzerland"
-    followers: 34356
-    engagement: 350
-    commentsToLikes: 0.075341
-    id: ck6u3kk6tybjm0j71mr7mpp06
-    verified: false
-    hashtags: ""
-  - username: "nicoceps"
-    fullname: >-
-      Nicolas „Nico“ Sandmeier
-    bio: >-
-      fitness, natural bodybuilding & healthy lifestyle zurich, switzerland YT VIDEO ⬇️
-    location: "Switzerland"
-    followers: 47275
-    engagement: 857
-    commentsToLikes: 0.011184
-    id: ck9haymr3em1v0j78kjmpd8xl
-    verified: false
-    hashtags: "#sun, #bodybuilder, #spain, #hollywood"
-  - username: "queen_isabelle8"
-    fullname: >-
-      👑 Hanna Isabelle 👑
-    bio: >-
-      Bag lover ✨ Follow my health journey via my stories😃 Based in Switzerland 🇨🇭 @queen_isabelle8closet Curator of @swiss_streetstyle #queen_isabelle8
-    location: "Switzerland"
-    followers: 146182
-    engagement: 99
-    commentsToLikes: 0.036536
-    id: ck5q64yjvvyrv0i11qirwmt5w
-    verified: false
-    hashtags: "#healthjourney, #joyeuxnoel, #merrychristmas, #myhealth"
-  - username: "melissa_ts_fitness"
-    fullname: >-
-      MELISSA
-    bio: >-
-      📍Zurich | Backup @melissa_ts_fit PERSONAL TRAINER | TransGirl🏳️‍🌈 Fitness | Nutrition | Healthy 100% natural body real stuff👇
-    location: "Switzerland"
-    followers: 24998
-    engagement: 531
-    commentsToLikes: 0.075246
-    id: ckaos0lhupm630i78m43ahae8
-    verified: false
-    hashtags: "#transgenderwoman, #transwoman, #m2f, #mtf"
+    hashtags: "#ad, #scandistyle, #skincare, #zurich"
   - username: "djallyssonluis"
     fullname: >-
       DjAllyssonLuis
     bio: >-
-      DJ Allysson Luis Music is my soul 🎵🎶🎧 Gym 💪🏽 Healthy food 🥦Sports 🥊Travel ✈️ Fight for what you love ! 👊🏾 Soundcloud- Allysson Luis
+      Zurich 📍 DJ&PRODUCER Bookings only by email 👇👉djallyssonluis@gmail.com Music is my soul 🎵🎶🎧 Gym 💪🏽 Healthy food 🥦Sports 🥊Travel ✈️ 🗣🇩🇪🇪🇸🇬🇧🇧🇷🇫🇷
     location: "Switzerland"
-    followers: 80543
-    engagement: 482
-    commentsToLikes: 0.015726
+    followers: 100189
+    engagement: 300
+    commentsToLikes: 0.021857
     id: ck6u341xgvkw30j71gjshii8h
     verified: false
-    hashtags: "#summervibes, #happy, #sol, #summer"
-  - username: "chopsueylee"
+    hashtags: "#happy, #music, #sintra, #djallyssonluis"
+  - username: "santina.malacarne"
     fullname: >-
-      Ai Lee Syarief | Health Coach
+      Santina Malacarne
     bio: >-
-      Lead Master Trainer @wearestrongnation ⁣ Swiss 🇨🇭/ Malaysian 🇲🇾 Workouts @ace.movrs Health Program @healthness.by.ailee ZES @zumba
+      Swiss girl🇨🇭 Chasing life to the fullest ⛷️🏄‍♂️🏋️‍♀️ 🚵‍♀️🔋 Bergstrom Team Rider Mental health matters 🫶🧘‍♀️📚
     location: "Switzerland"
-    followers: 151034
-    engagement: 204
-    commentsToLikes: 0.024348
-    id: ck14ky1norwa00i196e2iko1o
-    verified: true
-    hashtags: "#nutrition, #instafit, #flexibility, #fightingelements"
-  - username: "lisamarilynh"
-    fullname: >-
-      LISA
-    bio: >-
-      👱🏽‍♀️ Swiss girl 🎓 Student 💪🏽 Certified Trainer 🍑 TFIF-Athlete @shapesbysteffy | Discount code : MARILYN10 ｆｉｎｄ ｙｏｕｒ ｆｉｒｅ⚡️
-    location: "Switzerland"
-    followers: 7765
-    engagement: 1474
-    commentsToLikes: 0.081058
-    id: ckapbsp9h17a20i78knwkytik
+    followers: 26022
+    engagement: 280
+    commentsToLikes: 0.050612
+    id: ck0vximnqz2xg0i19myms2zl1
     verified: false
-    hashtags: "#fitnessjourney, #fitnesslifestyle, #benakd, #summervibes"
+    hashtags: "#schweiz, #switzerland, #loveyourself, #mtblove"
+  - username: "gael.clichy"
+    fullname: >-
+      Gaël Clichy
+    bio: >-
+      ⚽️Aspiring coach - UEFA A 👨🏽‍🎓UEFA Pro candidate 💡Continuously stimulate to outperform football with a healthy mindset in a healthy body. 🇫🇷 🇲🇶 ✊🏾 🌱
+    location: "Switzerland"
+    followers: 424051
+    engagement: 211
+    commentsToLikes: 0.002093
+    id: ckaoqxhb0kuyo0i78ovjmxmcl
+    verified: true
+    hashtags: "#coach, #gaelclichy, #porsche, #taycan"
+  - username: "dierdrerae_"
+    fullname: >-
+      Dierdre Rae (DFit) | 🇨🇦🇺🇸🇮🇪
+    bio: >-
+      TRAIN WITH ME: @dfitprograms 🏋️‍♀️Fitness🏋️‍♀️ 🧠Mental health 🧠 💪🏻Body Confidence💪🏻 🥥🫐Nutrition🥥🫐 ⬇️GET STARTED HERE!⬇️
+    location: "Switzerland"
+    followers: 106208
+    engagement: 119
+    commentsToLikes: 0.018347
+    id: ckng6k6p8s93m0j23y03glz9o
+    verified: false
+    hashtags: "#foodiefriday, #letshuku"
+  - username: "thesquatgirl"
+    fullname: >-
+      DORIS HOFER
+    bio: >-
+      Between Istanbul and Zurich • Adventurer • Traveler • Book Author • Healthy Lifestyle Advocate• Vegetarian Foodie • ICF Life Coach • Mom of 2
+    location: "Switzerland"
+    followers: 187414
+    engagement: 62
+    commentsToLikes: 0.037648
+    id: ck5hkq9wtivgo0i11dixp02s6
+    verified: true
+    hashtags: "#ardechetourisme, #ardechesecrete, #dorishofer, #kad"
+  - username: "luca_fithealth"
+    fullname: >-
+      Luca Pasquariello Ⓥ | Plant-Based Nutrition And Fitness
+    bio: >-
+      💊My Lab Tested Supps: @watsonnutrition "Luca" 5% off everything 🌱 I help vegans build muscle so they can live stronger & healthier ↘️ Apply here ↙️
+    location: "Switzerland"
+    followers: 258239
+    engagement: 48
+    commentsToLikes: 0.051887
+    id: ck8t6pf4fed3s0j78ydgy5efd
+    verified: false
+    hashtags: "#plantpowered, #ern, #vegan, #redmeat"
+  - username: "teramedbeauty.ch"
+    fullname: >-
+      TERA MED & BEAUTY
+    bio: >-
+      Medical Treatments: Lymphatic Drainage Klassische Massage Bindegewebes Massage Madero Massage Thermo Shape #spa #wellbeing #healthy Urdorf📍Zürich📍
+    location: "Switzerland"
+    followers: 23532
+    engagement: 43
+    commentsToLikes: 0.066971
+    id: cll8393h589pj0j08ro62b9w2
+    verified: false
+    hashtags: "#newchapter, #caring, #trainingday, #bodyforlife"
+  - username: "scarlett__steiner"
+    fullname: >-
+      formerly known as: Fork & Flower
+    bio: >-
+      #myglowup2024 | health, strength, style Building a capsule wardrobe one step at a time hello@scarlettsteiner.com Zurich, Switzerland
+    location: "Switzerland"
+    followers: 13106
+    engagement: 23
+    commentsToLikes: 0.015414
+    id: clonw4y168i7c0j082fe0s852
+    verified: false
+    hashtags: "#mamablogger, #momlife, #swissmom, #swissfamily"
 ---

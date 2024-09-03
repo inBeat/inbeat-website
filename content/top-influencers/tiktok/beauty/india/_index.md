@@ -1,11 +1,11 @@
 ---
-title: Top 10 Beauty TikTok Influencers In India In 2023
+title: Top 10 Beauty TikTok Influencers In India In 2024
 description: >-
-  Find top beauty TikTok influencers in India in 2023. Most popular hashtags: #tiktokindia #foryoupage #tiktok #foryou.
+  Find top beauty TikTok influencers in India in 2024. Most popular hashtags: #tiktokindia #tiktok #foryoupage #foryou.
 platform: TikTok
 hits: 1040
-text_top: See the best TikTok accounts on inBeat.
-text_bottom: Our search engine aggregates 1040 TikTok influencers like this in India for you to contact.
+text_top: Identify the best TikTok profiles on inBeat.
+text_bottom: inBeat has 1040 TikTok influencers like this in India for you to contact.
 profiles:
   - username: "ss_smita751"
     fullname: >-

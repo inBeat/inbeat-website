@@ -1,24 +1,24 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Chicago In 2023
+title: Top 10 Lifestyle Instagram Influencers In Chicago In 2024
 description: >-
-  Find top lifestyle Instagram influencers in Chicago in 2023. Most popular hashtags: #chicago #chicagogram #travel #chicity.
+  Find top lifestyle Instagram influencers in Chicago in 2024. Most popular hashtags: #chicago #chicagogram #travelblogger #ig.
 platform: Instagram
-hits: 241
-text_top: See the most popular Instagram influencers on inBeat.
-text_bottom: Our search engine aggregates 241 Instagram influencers like this in Chicago, United States for you to work with.
+hits: 351
+text_top: Analyze the top-rated Instagram profiles on inBeat.
+text_bottom: Our database holds 351 Instagram influencers like this in Chicago, United States for you to contact.
 profiles:
-  - username: "melissilvain"
+  - username: "soniaesaucedo"
     fullname: >-
-      MELISSA EMILIA
+      Sonia Elizabeth Saucedo
     bio: >-
-      > 𝑩𝒂𝒔𝒆𝒅 𝒊𝒏 𝑨𝒕𝒍𝒂𝒏𝒕𝒂, 𝑮𝑨 soon, Philly, Boston, NYC, Aruba & Curaçao when I feel like giving up on my dreams, I keep sleeping ✉️ melissilvain@outlook.com
+      Jesus follower. Creator. Advocate ✊🏼. Fiancé 💼 Legislative Affairs | ⚖️ Loyola Chicago Law | 🇲🇽🫀 📧: soniaesaucedo.89@gmail.com
     location: "United States"
-    followers: 3207
-    engagement: 910
-    commentsToLikes: 0.222928
-    id: ckaosy7evtjpt0i784n2wwbnn
+    followers: 7240
+    engagement: 43
+    commentsToLikes: 0.004892
+    id: ckp438c0iw6u50j23xnva21ti
     verified: false
-    hashtags: "#selfcare, #atlanta, #curvy, #music"
+    hashtags: "#chicagoliving, #chicagoblogger, #lawschool, #ditl"
   - username: "dr.sogol.nik"
     fullname: >-
       سوگل 🌸
@@ -31,6 +31,18 @@ profiles:
     id: ck8t5thupb6xd0j78ykwakpum
     verified: false
     hashtags: "#happy, #blogger, #styleblogger, #vlogger"
+  - username: "likechicago"
+    fullname: >-
+      Like Chicago
+    bio: >-
+      Founder: @javierbgd 📸Tag #likechicago 📩 likechicago1@gmail.com 🚀 @likecreativity_
+    location: "United States"
+    followers: 104657
+    engagement: 106
+    commentsToLikes: 0.010987
+    id: ck5znec1noasn0i146zbqa6tf
+    verified: false
+    hashtags: ""
   - username: "thelensoftruth"
     fullname: >-
       Benjamin
@@ -43,30 +55,6 @@ profiles:
     id: ck5c52pm72lyr0i11qtslht4b
     verified: false
     hashtags: "#passionpassport, #chicagogram, #city, #likechicago"
-  - username: "likechicago"
-    fullname: >-
-      Like Chicago
-    bio: >-
-      Founder/Owner: @javierbgd 📸Tag #likechicago 🚀 @likecreativity_
-    location: "United States"
-    followers: 71702
-    engagement: 139
-    commentsToLikes: 0.010846
-    id: ck5znec1noasn0i146zbqa6tf
-    verified: false
-    hashtags: ""
-  - username: "kimlycurry"
-    fullname: >-
-      Lil Miss Foodie
-    bio: >-
-      We love you #scotchtrooper 🖤 Mpls, MN. I'm food-obsessed and I love to eat and travel. @zagat Top 100 Food IGers in the U.S. #lilmissfoodie
-    location: "United States"
-    followers: 51106
-    engagement: 203
-    commentsToLikes: 0.176718
-    id: ck0w09amrd1c40i19hfr90zon
-    verified: false
-    hashtags: "#stpaul, #comfortfood, #tastingtable, #nevada"
   - username: "anotherchicago"
     fullname: >-
       𝐀𝐍𝐎𝐓𝐇𝐄𝐑 𝐂𝐇𝐈𝐂𝐀𝐆𝐎 | Collage Art
@@ -90,41 +78,53 @@ profiles:
     commentsToLikes: 0.017131
     id: ck5q2yd9didcp0i11kxkjc1wh
     verified: false
-    hashtags: "#nycityworld, #florida, #miami, #dream"
-  - username: "joshdixon"
+    hashtags: "#losangeles, #usa, #seeyourcity, #trip"
+  - username: "rachelkawate"
     fullname: >-
-      Josh Dixon
+      Rachel Kawate | TRAVEL & LIFESTYLE | CHICAGO CREATOR
     bio: >-
-      📍SoCal •athlete, entrepreneur, owner @chicagoredstars ⚽️ •alumni: @TeamUSA 🇺🇸 🤸🏽‍♂️ | @stanford 🌲🤓
+      🌎 Helping you plan your next getaway + Chicago life 👍🏽 Travel tips, Experiences, Food, Hotels & more 📍 Chicago | E: rkawate.business@gmail.com
     location: "United States"
-    followers: 238675
-    engagement: 173
-    commentsToLikes: 0.025664
-    id: ck0tzs1csre3b0i19vcydn7vo
-    verified: true
-    hashtags: "#la, #team, #athlete, #tech"
-  - username: "somepopofcolor"
-    fullname: >-
-      Monika | Some Pop Of Color
-    bio: >-
-      • This is my COLOR story 🎨💛 • Fashion/ lifestyle blogger • Chicago • Wife • Homeschooling our boys • Our little backyard farm🐓🐔—> @grunwald.farm
-    location: "United States"
-    followers: 55564
-    engagement: 95
-    commentsToLikes: 0.178173
-    id: ck0twpbbyg9x70i19jthyysdh
+    followers: 34818
+    engagement: 1512
+    commentsToLikes: 0.141782
+    id: clhdzrcdvrcxc0j08dgutd4ks
     verified: false
-    hashtags: "#itsmidaprildamnit, #lakegenevawisconsin, #siblinglove, #socialdistancing"
-  - username: "trendlessblog"
+    hashtags: "#puremichigan, #funnyreels, #travelreels, #sponsored"
+  - username: "mappingourtracks"
     fullname: >-
-      Lisa | Trendless Blog
+      Adri&Kam|Travel & Lifestyle|Chicago Content Creator
     bio: >-
-      Affordable everyday style | Home decor + reno | Lifestyle 📍Chicago, IL 💌 Lisa@trendlessblog.com Shop my feed 👇🏼
+      📍Chicago Based ✈️Discover your next destination with us! 🐺Our Husky @ariathewhitewolf 💌info@mappingourtracks.com
     location: "United States"
-    followers: 53209
-    engagement: 195
-    commentsToLikes: 0.029547
-    id: ck5he4s2fr1xh0i116jgxyb2a
+    followers: 40788
+    engagement: 63
+    commentsToLikes: 0.113835
+    id: ck9wowm8g6w4q0j78h7do5c37
     verified: false
-    hashtags: "#nsale, #expresspartner, #liketkit, #trendlessstyle"
+    hashtags: "#christmastime, #christmasinchicago, #igchicago, #onlyinchicago"
+  - username: "foodguruchicago"
+    fullname: >-
+      Kanchan Garg
+    bio: >-
+      Food, Fitness & Lifestyle in Chicago | Vegetarian 📸 Photos & videos by me 💌 DM/email collab 💃🏽 Tik Tok: FoodGuruChicago
+    location: "United States"
+    followers: 30888
+    engagement: 716
+    commentsToLikes: 0.145751
+    id: ckqxxcvli37r70j23ha41u94w
+    verified: false
+    hashtags: "#eaterchicago, #chicagoexplore, #chicagofoodie, #choosechicago"
+  - username: "walkinginlavender"
+    fullname: >-
+      ʟᴀᴜʀᴀ ᴇᴜɢᴇɴᴇ♡ 최유진
+    bio: >-
+      👩🏻‍⚕️medical ⁣⁣⁣speech pathologist 🪻journaling | stationery | beauty | lifestyle ⁣ 📍Chicago
+    location: "United States"
+    followers: 44224
+    engagement: 261
+    commentsToLikes: 0.011564
+    id: clbew5f6l0x1w0j082djz2so8
+    verified: false
+    hashtags: "#journalcommunity, #minimalbujo, #pdfelement, #bujo"
 ---

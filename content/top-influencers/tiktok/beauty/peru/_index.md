@@ -1,11 +1,11 @@
 ---
-title: Top 10 Beauty TikTok Influencers In Peru In 2023
+title: Top 10 Beauty TikTok Influencers In Peru In 2024
 description: >-
-  Find top beauty TikTok influencers in Peru in 2023. Most popular hashtags: #peru #fyp #foryou #viral.
+  Find top beauty TikTok influencers in Peru in 2024. Most popular hashtags: #fyp #peru #viral #parati.
 platform: TikTok
 hits: 16
-text_top: Identify the most popular TikTok influencers on inBeat.
-text_bottom: Our platform holds 16 TikTok influencers like this in Peru for you to pitch.
+text_top: See the most popular TikTok influencers on inBeat.
+text_bottom: Our database aggregates 16 TikTok influencers like this in Peru for you to contact.
 profiles:
   - username: "mariaclaudia.durand"
     fullname: >-

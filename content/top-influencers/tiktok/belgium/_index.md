@@ -1,11 +1,11 @@
 ---
-title: Top 10 TikTok Influencers In Belgium In 2023
+title: Top 10 TikTok Influencers In Belgium In 2024
 description: >-
-  Find top TikTok influencers in Belgium in 2023. Most popular hashtags: #foryou #foryoupage #fyp #duet.
+  Find top TikTok influencers in Belgium in 2024. Most popular hashtags: #foryou #foryoupage #fyp #duet.
 platform: TikTok
 hits: 722
-text_top: Analyze the top-rated TikTok profiles on inBeat.
-text_bottom: Our search engine holds 722 TikTok influencers like this in Belgium for you to pitch.
+text_top: Analyze the top-rated TikTok influencers on inBeat.
+text_bottom: inBeat aggregates 722 TikTok influencers like this in Belgium for you to pitch.
 profiles:
   - username: "rayane.hbr"
     fullname: >-
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.046931
     id: ck9jv7u7zr1ry0j78t1uihb8v
     verified: false
-    hashtags: "#foryou, #fact, #funfacts, #christmas"
+    hashtags: "#amazingfacts, #fact, #foryou, #fyp"
   - username: "joachimd22"
     fullname: >-
       Joachim Dk

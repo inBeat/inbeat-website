@@ -1,33 +1,117 @@
 ---
-title: Top 10 Vegan Instagram Influencers In Chile In 2023
+title: Top 10 Vegan Instagram Influencers In Chile In 2024
 description: >-
-  Find top vegan Instagram influencers in Chile in 2023. Most popular hashtags: #chile #portraits #crueltyfree.
+  Find top vegan Instagram influencers in Chile in 2024. Most popular hashtags: #chile #vegan #veganoschile.
 platform: Instagram
-hits: 65
-text_top: See the top-rated Instagram accounts on inBeat.
-text_bottom: Our platform holds 65 Instagram influencers like this in Chile for you to pitch.
+hits: 62
+text_top: See the best Instagram accounts on inBeat.
+text_bottom: inBeat has 62 Instagram influencers like this in Chile for you to pitch.
 profiles:
+  - username: "dewii.veg"
+    fullname: >-
+      Dewii
+    bio: >-
+      Nutrition coach | Author of the books “Vegan Guide” and “Eco Guide” | Activist | Nomad 📍 Italy 📩 info@dewi.cz
+    location: "Chile"
+    followers: 88154
+    engagement: 478
+    commentsToLikes: 0.016517
+    id: ck5zpn72zsywl0i148khl2952
+    verified: false
+    hashtags: "#hustleculture, #veganapproved, #vyzvaproprirodu, #afrikaburn"
+  - username: "valegrille"
+    fullname: >-
+      Valentina Grille
+    bio: >-
+      Bailarina, profesora y coreógrafa 🇨🇱 Directora @main_workshopschile y @nucleo.cl 🌐 🌱🌎✈️ Vegana, nerd y viajera #Latina
+    location: "Chile"
+    followers: 24515
+    engagement: 464
+    commentsToLikes: 0.046668
+    id: ck5bx5jgfn1s40i11opkfea9l
+    verified: false
+    hashtags: "#santiago2023, #choreography, #chrisbrown, #panam"
+  - username: "veganoenchile"
+    fullname: >-
+      Cristobal Robles
+    bio: >-
+      Soy @instacristobal, esta es mi forma de contribuir a un futuro libre de maltrato animal. También me encuentras en tiktok VEGANOENCHILE🌱🏳️‍🌈
+    location: "Chile"
+    followers: 244543
+    engagement: 393
+    commentsToLikes: 0.029583
+    id: ckaot6irsulme0i782w8gbup9
+    verified: false
+    hashtags: "#veganlife, #chile, #vegano, #veganfood"
   - username: "basmanicx"
     fullname: >-
-      𝕬𝖓𝖓𝖆 𝕭𝖆𝖑𝖒𝖆𝖓𝖎𝖈𝖆
+      𝕬𝖓𝖓𝖆 𝕭𝖆𝖑𝖒𝖆𝖓𝖎𝖈𝖆 ❤️‍🔥
     bio: >-
-      1991 | Queerdo | Valpo, CL. DM — annabalmanica@gmail.com Cocinerx en @veganayfacil 🌱
+      𝔔ue𝓮rdo (𝓈𝒽ℯ) ✦ #vegan —Val𝔭𝔬, CL ♡ @bstnprz | @ultima_______
     location: "Chile"
-    followers: 28367
-    engagement: 842
-    commentsToLikes: 0.027703
+    followers: 38318
+    engagement: 364
+    commentsToLikes: 0.020773
     id: ck14ld1ovu2340i19wzc6pgep
     verified: false
-    hashtags: "#halloween, #dragqueen, #dragqueenmakeup, #horrorclip"
+    hashtags: "#pride, #muglerhm, #jpglovespride, #makeup"
+  - username: "veganahambrienta"
+    fullname: >-
+      Francisca Valenzuela Silva
+    bio: >-
+      👩🏻‍🦰 como y cocino mucho pero sin animales 🍽️ buscando lugares en la Ruta Vegana 🇨🇱 🇧🇷 TikTok: veganahambrienta
+    location: "Chile"
+    followers: 218456
+    engagement: 184
+    commentsToLikes: 0.015960
+    id: ck5q51d4eqzyz0i11d13t33s0
+    verified: false
+    hashtags: "#vegan, #santiago, #recetasfaciles, #veganoschile"
+  - username: "ignaciauribe"
+    fullname: >-
+      Ignacia Uribe R.
+    bio: >-
+      💚Founder/CEO @Vegetarianos_Hoy 💛Certificación @Vlabel.Latam 🏆Food Heroe 2023 🐷Máster en Derecho Animal 📚Autora de “Cómo Ser Vegan Hoy” ⬇️
+    location: "Chile"
+    followers: 16130
+    engagement: 172
+    commentsToLikes: 0.061391
+    id: ck5q5jnedt7570i11ttmun56a
+    verified: false
+    hashtags: "#publicidad, #clothdiapers, #veganismo, #creemosenloslibros"
+  - username: "tere.abumohor"
+    fullname: >-
+      Tere Abumohor 🪶🌍
+    bio: >-
+      🌍🇨🇱Viajera • Expediciones @salvaje.travel 🐆 Guía Safari en África 🐾Animales y Alma 🐶 📸Fotos @tere.wild 🌈Vegan 🌟ONG @mision.salvaje 👇🏽Viajemos
+    location: "Chile"
+    followers: 55695
+    engagement: 108
+    commentsToLikes: 0.033751
+    id: ck5hofe8gpgr60i111xwygz0x
+    verified: false
+    hashtags: "#africa, #safari, #ecotraining, #wildlife"
+  - username: "elialbasetti"
+    fullname: >-
+      Eliana Albasetti
+    bio: >-
+      Actriz 🎭🇦🇷en🇨🇱 Mamá de Emi y Luján Cocinera 🌱Vegana Cofundadora @santuarioempatia Autora 📚 #NoNacíVegana #LosNiñosNosEnseñanSobreEmpatía
+    location: "Chile"
+    followers: 393867
+    engagement: 32
+    commentsToLikes: 0.020061
+    id: ck5zkv5ibk7r70i14104fbmux
+    verified: true
+    hashtags: "#picoteonavidad, #losni, #focaccia, #mimujereselgasfiter"
   - username: "chknss"
     fullname: >-
-      
+      ʙᴇɴᴊᴀᴍɪɴ ᴠᴀʟᴅɪᴠɪᴀ 🌀
     bio: >-
-      Realizador audiovisual 🎥 Vegan 🥕 Santiago de Chile 📍🇨🇱 ⬇️Cómo hacer un Gif 3D Mura Masa 📸 ⬇️
+      Realizador Audiovisual 🎬 Santiago, Chile 📍🇨🇱 Vegan 🌱 📧 B.valdiviaaudiovisual@gmail.com
     location: "Chile"
-    followers: 22099
-    engagement: 1077
-    commentsToLikes: 0.023971
+    followers: 21720
+    engagement: 1156
+    commentsToLikes: 0.025659
     id: ck0tuku6v7m9s0i19dc091vcm
     verified: false
     hashtags: ""
@@ -43,88 +127,4 @@ profiles:
     id: ck0vw0eibrjnh0i19kuuwf4ew
     verified: false
     hashtags: "#algarrobo, #chilena, #chilevegan, #qu"
-  - username: "palomasurf"
-    fullname: >-
-      ➰Paloma Santos➰
-    bio: >-
-      • VEGAN 🌱 • SURFISTA PROFESIONAL • 2x CAMPEONA NACIONAL🇨🇱 • SUBCAMPEONA LATINA 🥈 #eatplantsnotanimals #nomasplastico #bethechange🌎
-    location: "Chile"
-    followers: 17881
-    engagement: 797
-    commentsToLikes: 0.047586
-    id: ck5hjnd1fgxhn0i110jmvpkne
-    verified: false
-    hashtags: ""
-  - username: "sirenadlr"
-    fullname: >-
-      𝕾IRENA 𝕯LR
-    bio: >-
-      ✍🏽🎙• vegan🌱 • @vandalcrew.cl • @dcshoes_chile • 🦋 EXHALA 🦋
-    location: "Chile"
-    followers: 33515
-    engagement: 710
-    commentsToLikes: 0.019163
-    id: ck5q1zpd5dk1e0i11hx8ujcka
-    verified: false
-    hashtags: "#music, #hiphop, #instachile, #musicachilena"
-  - username: "simonettifiorella"
-    fullname: >-
-      Simona Quintana Silva
-    bio: >-
-      Coach📲🏋🏽‍♂️💪🏼 CrossFit Games Athlete |24🌸 🥇Latam ‘19 🇨🇱 🏆37th Fittest🌎🆙 Artista de amor🪐🐍 🌱Vegana 🦀🕉🧿 🌙@voika.cl ☀️ 🐕@appa.do0 🥰@kdiiiz 👑#GalgoQueen
-    location: "Chile"
-    followers: 41627
-    engagement: 496
-    commentsToLikes: 0.013000
-    id: ck5c4dkhu14jc0i114t9xfbti
-    verified: false
-    hashtags: "#couplegoals, #handstand, #crossfitgirls, #pucon"
-  - username: "antoyanezl"
-    fullname: >-
-      Anto Yáñez Lasalvia
-    bio: >-
-      ￼🏳️‍🌈 VEGAN 🌱
-    location: "Chile"
-    followers: 4657
-    engagement: 1120
-    commentsToLikes: 0.067636
-    id: ck0w1c1asilbj0i19ir9xta0e
-    verified: false
-    hashtags: "#ridewithyourfamily, #veganlife, #veganathlete, #chiledespierto"
-  - username: "franivv"
-    fullname: >-
-      FrÅni Musølinø
-    bio: >-
-      🔹Fotógrafo y Mocatriz🔹 📱Tallerista y Vegan Emprendedor @colorburgerveg Pagame un cafecito 👇🏻@franivv2 @alfalfa.clown
-    location: "Chile"
-    followers: 8312
-    engagement: 749
-    commentsToLikes: 0.027577
-    id: ck5q3ndyelkej0i11aicdfzk0
-    verified: false
-    hashtags: "#portraits, #interact2me, #fotogramarg, #portrait"
-  - username: "elialbasetti"
-    fullname: >-
-      Eliana Albasetti
-    bio: >-
-      🇦🇷 en 🇨🇱 🎭 •Actriz Mamá de Emi y Luján Vegana ❤️ Acá encontrarás #elirecetasveg Belleza #crueltyfree Perris 🐶🐶🐶 Y plantas🪴 Ver🙏 ⬇️
-    location: "Chile"
-    followers: 354010
-    engagement: 187
-    commentsToLikes: 0.042613
-    id: ck5zkv5ibk7r70i14104fbmux
-    verified: true
-    hashtags: "#vegano, #crueltyfree, #vegan, #elirecetasveg"
-  - username: "natalia_hates_you"
-    fullname: >-
-      🌹 Natalia
-    bio: >-
-      Yo vivo en una cáscara de nuez 🌰 🎪 Dance to live, live to dance 🎭 XXI años🔮 CDMX 🏙 Vegan 🌱
-    location: "Chile"
-    followers: 18241
-    engagement: 810
-    commentsToLikes: 0.010287
-    id: ckaoz4v0nkdl40i78p0x3pwaa
-    verified: false
-    hashtags: ""
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Cooking Instagram Influencers In Thailand In 2023
+title: Top 10 Cooking Instagram Influencers In Thailand In 2024
 description: >-
-  Find top cooking Instagram influencers in Thailand in 2023. Most popular hashtags: #thaifood #healthyfood #cleanfood.
+  Find top cooking Instagram influencers in Thailand in 2024. Most popular hashtags: #thaifood #healthyfood #wongnai.
 platform: Instagram
-hits: 26
-text_top: See the most popular Instagram influencers on inBeat.
-text_bottom: inBeat holds 26 Instagram influencers like this in Thailand for you to contact.
+hits: 41
+text_top: See the top-rated Instagram profiles on inBeat.
+text_bottom: Our search engine holds 41 Instagram influencers like this in Thailand for you to pitch.
 profiles:
   - username: "yingkmcn"
     fullname: >-

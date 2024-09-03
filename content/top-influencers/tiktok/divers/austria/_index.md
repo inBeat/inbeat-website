@@ -1,11 +1,11 @@
 ---
-title: Top 10 Divers TikTok Influencers In Austria In 2023
+title: Top 10 Divers TikTok Influencers In Austria In 2024
 description: >-
-  Find top divers TikTok influencers in Austria in 2023. Most popular hashtags: #fyp #foryou #fy #viral.
+  Find top divers TikTok influencers in Austria in 2024. Most popular hashtags: #fyp #fy #foryou #driverslicense.
 platform: TikTok
 hits: 11
-text_top: Discover the most popular TikTok profiles on inBeat.
-text_bottom: Our platform holds 11 TikTok influencers like this in Austria for you to work with.
+text_top: Discover the most popular TikTok influencers on inBeat.
+text_bottom: Our database holds 11 TikTok influencers like this in Austria for you to contact.
 profiles:
   - username: "alainkohl"
     fullname: >-

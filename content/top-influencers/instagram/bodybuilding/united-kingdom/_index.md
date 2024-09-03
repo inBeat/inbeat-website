@@ -1,12 +1,36 @@
 ---
-title: Top 10 Bodybuilding Instagram Influencers In United Kingdom In 2023
+title: Top 10 Bodybuilding Instagram Influencers In United Kingdom In 2024
 description: >-
-  Find top bodybuilding Instagram influencers in United Kingdom in 2023. Most popular hashtags: #bodybuilding #fitness #fit #workout.
+  Find top bodybuilding Instagram influencers in United Kingdom in 2024. Most popular hashtags: #bodybuilding #gymmotivation #fitness #motivation.
 platform: Instagram
-hits: 116
-text_top: See the most popular Instagram influencers on inBeat.
-text_bottom: Our platform aggregates 116 Instagram influencers like this in United Kingdom for you to work with.
+hits: 180
+text_top: See the most popular Instagram profiles on inBeat.
+text_bottom: inBeat has 180 Instagram influencers like this in United Kingdom for you to work with.
 profiles:
+  - username: "bradwillis10"
+    fullname: >-
+      Brad Willis
+    bio: >-
+      🏆 2016 Jr Bodybuilding World Champion 🌍 Transforming physiques is what I do with a sustainable approach. Owner @team_emptythetank Join the team 👇🏽
+    location: "United Kingdom"
+    followers: 132124
+    engagement: 366
+    commentsToLikes: 0.018880
+    id: ck5zr6eynvzru0i14jhiuapbo
+    verified: true
+    hashtags: "#musclebuilding, #gymtips, #bodybuilding, #gym"
+  - username: "revivestronger"
+    fullname: >-
+      Steve Hall | Online Physique Coach
+    bio: >-
+      👨🏻‍💻 Online Coaching >10 years 💪 Natural Bodybuilding >15 years 🎙️ Interview leading experts weekly - @teamrevivestronger @officialcnp ⤵️ Links
+    location: "United Kingdom"
+    followers: 72596
+    engagement: 79
+    commentsToLikes: 0.047190
+    id: ck6u14vi1jlub0j713yam6b0n
+    verified: false
+    hashtags: "#levelup, #bodybuilding, #prep, #bodybuilder"
   - username: "marco_dgo"
     fullname: >-
       Marco DaSquatto
@@ -19,112 +43,88 @@ profiles:
     id: ck5he2verqr3i0i11babd5lzs
     verified: false
     hashtags: "#throwbackthursday, #homeworkout, #rowtillyougrow, #stayathome"
-  - username: "shellyfit_ifbbpro"
+  - username: "isafitlife"
     fullname: >-
-      𝐈𝐅𝐁𝐁 𝐏𝐑𝐎 𝐌𝐈𝐂𝐇𝐄𝐋𝐋𝐄 𝐌𝐄𝐍𝐒𝐀𝐇🇬🇧🇬🇭
+      ISABEL l  ONLINE EXERCISE & NUTRITION
     bio: >-
-      👉🏾Helping you get that dream body|👩🏾‍💻Online Coach ⭕️lympia|5th|’22’ 🏆Arnold Classic UK PRO Fitness Champ 🌎@coached_by_shelly_fit 💥HIT MY LINK👇🏾💥
+      COACHING PAGE @aimhigherforyou BSc (Hons) Nutrition and Exercise currently MSc in Sports Nutrition @ljmu
     location: "United Kingdom"
-    followers: 42093
-    engagement: 708
-    commentsToLikes: 0.067887
-    id: ckf5rif2hcs370j23q1m82xzb
+    followers: 104908
+    engagement: 446
+    commentsToLikes: 0.018065
+    id: ck8t7zjt0ijrw0j78q2sp5ehu
     verified: false
-    hashtags: "#training, #gymlegday, #arnoldbodybuilding, #healthylifestyle"
-  - username: "kd_fitnesscoach"
+    hashtags: "#gymreels, #gym, #glutesworkout, #backworkout"
+  - username: "brayan__lopez__"
     fullname: >-
-      KRISTIE SANDERSON | ONLINE COACH | IFBB PRO
+      Brayan Lopez
     bio: >-
-      💪Online Fitness Coach 👩🏼‍💼Marketing Specialist 💗Content Creator
+      Code: Brayan ↓ @youngla @ghostlifestyle @marcozo 🔱 🇨🇴|🇺🇸
     location: "United Kingdom"
-    followers: 39631
-    engagement: 222
-    commentsToLikes: 0.029064
-    id: ck0w657lb6ybw0i1924p9rkxc
+    followers: 989938
+    engagement: 1117
+    commentsToLikes: 0.002209
+    id: cl6q32v4gm8i80i23eab92grl
     verified: false
-    hashtags: "#musclechicks, #stayhealthy, #bodybuilder, #fitnessmotivation"
-  - username: "jade.marie.wadman"
+    hashtags: "#photodump, #goldenera, #shredded, #physique"
+  - username: "_dermot_"
     fullname: >-
-      Jade Marie Wadman ✨
+      R’UN by Dermot
     bio: >-
-      • ￼Brighton 📍 • Owner of Stars Gymnastics Club 🌟 • Gym girl 🏋🏻‍♀️ DM for collaborations 💌 • Equestrian￼ 🏇🏻 ￼
+      🏳️‍🌈 A gay on whey 🚀 I help you slay your goals 🏋️ Book a free consultation below 💪 Top10 Hand Picked PT: @myprotein 🤤 MyProtein code: DERMOTPT
     location: "United Kingdom"
-    followers: 12221
-    engagement: 1125
-    commentsToLikes: 0.174992
-    id: ck6uh4bbv6wye0j71vrdlo1zc
+    followers: 22359
+    engagement: 649
+    commentsToLikes: 0.026690
+    id: clfb0jqm02jxk0j08f5q107yj
     verified: false
-    hashtags: "#curvygirl, #instafitness, #curves, #healthylifestyle"
-  - username: "amranamariaa"
+    hashtags: "#fit, #model, #scoutme, #gaygym"
+  - username: "theorashon_"
     fullname: >-
-      
+      Theo Rashon
     bio: >-
-      Only good vibes and good vibes only ✖️Empowering people every day. YOU CAN! ✖️Certified personal trainer 📍 LDN
+      ▪️Personal trainer ▪️Liverpool 📍 ▪️ @jdgyms DM for enquiries 🇧🇧 🇯🇲
     location: "United Kingdom"
-    followers: 8328
-    engagement: 146
-    commentsToLikes: 0.082457
-    id: ck8tdi34c3ed60j78931mv32h
+    followers: 29603
+    engagement: 1844
+    commentsToLikes: 0.010077
+    id: cl5fifflz4uhi0i234b9ki8dg
     verified: false
-    hashtags: "#fashionblogger, #woman, #photo, #latina"
-  - username: "bigcradds23"
+    hashtags: "#healthylifestyle, #fitnessjourney, #fitnessmotivation, #jdgyms"
+  - username: "lewisemmanuell"
     fullname: >-
-      LEWIS C
+      Lewis Emmanuell | 21
     bio: >-
-      Kent - UK📍 Model - Fashion | Fitness | lifestyle @efectivnutri - BIGCRADDS40 DM for enquiries 📨
+      ▫️VIDEOGRAPHER | @levisuals._ ▫️ 2x BRITISH champ | 🥇x5 | 🥈x4 | 🗡️ x1 ▫️ THE BLUEPRINT COACH ▫️ @hardbody | EMMANUELL ▫️ @efectivnutri | LEWIS10
     location: "United Kingdom"
-    followers: 39563
-    engagement: 250
-    commentsToLikes: 0.083515
-    id: ck8td0fmv1eia0j78w2fyx43n
+    followers: 9315
+    engagement: 559
+    commentsToLikes: 0.031549
+    id: ckvrvpiaxek0z0j23si6favnp
     verified: false
-    hashtags: "#menswear, #gymjunkie, #motivated, #pumped"
-  - username: "samfitnessgram"
+    hashtags: "#explore, #reels, #classicphysique, #bodybuilding"
+  - username: "ethanfrenchfitness"
     fullname: >-
-      Sam Potter 🇬🇧
+      ETHAN FRENCH
     bio: >-
-      Essex. 📍 Team GB 🇬🇧 Enquires - DM📬 @sampotterfitness My Journey to @mrolympiallc
+      ♦️| Online Coaching DM for details ♦️| @ethanfrenchcoaching ♦️| @htltsupps - Code “Ethan - link in bio ♦️| Supplements 👇 Code: Ethan at checkout
     location: "United Kingdom"
-    followers: 116192
-    engagement: 176
-    commentsToLikes: 0.077042
-    id: ck5zpb1jksc1m0i14sc6vw18x
+    followers: 79325
+    engagement: 1123
+    commentsToLikes: 0.078353
+    id: cknh9ib0ut1pq0j23u5q59ssj
     verified: false
-    hashtags: "#bodybuilder, #fitness, #mensfitness, #gymmotivation"
-  - username: "nicholasc_budd"
+    hashtags: "#fitness, #motivation, #gymmotivation, #bodybuilding"
+  - username: "elmaysah"
     fullname: >-
-      Nicholas
+      Mais Alhajri
     bio: >-
-      🇿🇦📍London, UK 26 | British Champion 🥇🏆 Qualified PT & NHS Frontline 🚨
+      -3/7 The Seven Summits -Adventurer | Mountaineer -NASM Certified Personal Trainer
     location: "United Kingdom"
-    followers: 23596
-    engagement: 1915
-    commentsToLikes: 0.016976
-    id: ckap5fkz7bgft0i78zxb417sh
+    followers: 163978
+    engagement: 438
+    commentsToLikes: 0.022224
+    id: ckf5ldd21p5jv0j23y8fhbrzs
     verified: false
-    hashtags: "#abs, #eliabeach, #beach, #bodybuilding"
-  - username: "md.fitness6"
-    fullname: >-
-      MD
-    bio: >-
-      PT, Natural Bodybuilder 🇹🇷🇬🇧 '16 BRITISH NOVICE 5TH 🏆 '17 HEART OF ENGLAND LW CHAMPION🏆🥇 '18 BRITISH LW 3RD 🏆 #GOATGYMWEAR
-    location: "United Kingdom"
-    followers: 9497
-    engagement: 501
-    commentsToLikes: 0.217742
-    id: ckf5mpjs0uwha0j233ijrubrj
-    verified: false
-    hashtags: "#inspiration, #positivevibes, #positivity, #nature"
-  - username: "paigemawdsley"
-    fullname: >-
-      Paige Marie Mawdsley
-    bio: >-
-      @paige_fitt🍑 Essex/Norwich 📍 UEA 📚 Student Paediatric Nurse 👩🏼‍⚕️
-    location: "United Kingdom"
-    followers: 9894
-    engagement: 1183
-    commentsToLikes: 0.024061
-    id: ckap0z82usg3k0i7843ibr88r
-    verified: false
-    hashtags: "#fit, #train, #fitness, #workout"
+    hashtags: "#gymgirlsdaily, #gymhumor, #gymaddicts, #reels"
 ---

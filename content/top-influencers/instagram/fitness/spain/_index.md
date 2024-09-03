@@ -1,130 +1,130 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Spain In 2023
+title: Top 10 Fitness Instagram Influencers In Spain In 2024
 description: >-
-  Find top fitness Instagram influencers in Spain in 2023. Most popular hashtags: #motivation #verano #fitnessmodel.
+  Find top fitness Instagram influencers in Spain in 2024. Most popular hashtags: #reelsinstagram #workout #recetassaludables.
 platform: Instagram
-hits: 630
-text_top: See the top-rated Instagram influencers on inBeat.
-text_bottom: Our database aggregates 630 Instagram influencers like this in Spain for you to pitch.
+hits: 736
+text_top: See the best Instagram profiles on inBeat.
+text_bottom: Our search engine has 736 Instagram influencers like this in Spain for you to contact.
 profiles:
-  - username: "daiseyodonnell"
+  - username: "tileh_pacbro"
     fullname: >-
-      Daisey O'Donnell
+      Tileh Pacbro
     bio: >-
-      Founder @odollscollection available at @theofficialselfridges Founder @fitnesswithdaisey TikTok @theodolls enquiries contact daisey.od@gmail.com
+      🇰🇪🇪🇸 Dancepreneur | Lifestyle | Fitness . CEO @litdance98 , @98reelz co 🧰80M+ Youtube views 📩deuxoti@gmail.com
     location: "Spain"
-    followers: 1161407
-    engagement: 92
-    commentsToLikes: 0.005298
-    id: ck0uc5ig6g3l20i19fqd1dzau
-    verified: true
-    hashtags: ""
-  - username: "serraalex_"
-    fullname: >-
-      Alex Serra
-    bio: >-
-      Fitness | Lifestyle 📍Ibiza @greatiamwear cod: ALEX @hawkerscrew 📩 serraalexibz@gmail.com
-    location: "Spain"
-    followers: 11225
-    engagement: 1057
-    commentsToLikes: 0.113688
-    id: ckapapl23wznu0i78sl4p70rn
+    followers: 243789
+    engagement: 536
+    commentsToLikes: 0.019998
+    id: ckap2i52wyxnk0i78e5k20j0h
     verified: false
-    hashtags: "#arm, #bodybuilding, #muscle, #gym"
-  - username: "rosasorroche"
+    hashtags: "#rockthatflava, #workoutmotivation, #paidpartnershipwitheabl, #letsbeclear"
+  - username: "jezzifr"
     fullname: >-
-      Fitness & Chicness Blog
+      Jessica Ferreiras
     bio: >-
-      #overforty #overthirty #fashion / #fitness / #beauty / #lifestyleblogger 📍🇪🇸 🌍 📩info@fitnessandchicness.com
+      🇩🇴 | Fitness Coach | Nutrición Deportiva ¡Descubre tu potencial conmigo!
     location: "Spain"
-    followers: 18960
-    engagement: 766
-    commentsToLikes: 0.055894
-    id: ck8szqjrcpch70j78pfaai8rg
+    followers: 624611
+    engagement: 415
+    commentsToLikes: 0.008763
+    id: ck5hd2c2yl5400i113j4g4dda
     verified: false
-    hashtags: "#adoptadog, #summerlook, #fashionreels, #workoutreels"
-  - username: "aleadrete"
+    hashtags: "#healthylifestyle, #funnyvideos, #couplegoals, #pregnant"
+  - username: "sonjaaiello"
     fullname: >-
-      Ale Aldrete
+      SONJA AIELLO 🇫🇮
     bio: >-
-      🇲🇽 en 🇪🇸 •Periodista @realmadridue •Comunicóloga •Modelo•Body positive•Fitness• Love sports• 🔥@sheinofficial 15% of: 4aleadrete🔥
+      Fitness online coach 💖 @teamsonjaaiello
     location: "Spain"
-    followers: 120794
-    engagement: 561
-    commentsToLikes: 0.080687
-    id: ck55pborva8ch0i11w3k9527q
+    followers: 75970
+    engagement: 673
+    commentsToLikes: 0.003538
+    id: ck5qa5wf4epdd0i117jvjyhnj
     verified: false
-    hashtags: "#shein, #sheingals, #sorteo, #donato"
-  - username: "franroxe"
+    hashtags: "#teamsonjaaiello, #icaniwill, #iciw, #selfcareaunday"
+  - username: "benjaminalldis"
     fullname: >-
-      F R A N R O X E
+      Ben Alldis
     bio: >-
-      🌍 Traveller 🐕 Animal lover 🏋🏻‍♂️ Healthy and Fitness life 📍 España 🇪🇸
+      👟@onepeloton Instructor & Training Specialist🇬🇧 🤘🏽Fitness, Nutrition & High Performance Coach 🌃Ex Private Equity Guy Order My Book Below👇🏼
     location: "Spain"
-    followers: 35166
-    engagement: 607
-    commentsToLikes: 0.200806
-    id: ckap0i3ulqe0w0i78zpi9owcb
+    followers: 278910
+    engagement: 503
+    commentsToLikes: 0.016630
+    id: ck5zrr2tfx3th0i148b4ss4em
     verified: false
-    hashtags: "#holzkern, #holzkernwatches, #woodwatches, #relojesdemadera"
-  - username: "markosr6"
+    hashtags: "#quotestagram, #pelotoninstructor, #chronicillness, #podcast"
+  - username: "jaratotto"
     fullname: >-
-      ᗰᗩᖇᑕOᔕ ᗰOI᙭
+      Jara Tottò
     bio: >-
-      🎽fitness | 🏃🏽‍♂️runner | 🏊🏽‍♂️swimmer 📍🅱🅰🆁🅲🅴🅻🅾🅽🅰
+      Maquilladora Pro 🌿 Cuenta Fitness 🏋🏻‍♀️>> @testarossafit Photo & Makeup Lover 🤎 jaram.makeup@gmail.com 📩
     location: "Spain"
-    followers: 5752
-    engagement: 1839
-    commentsToLikes: 0.078950
-    id: ck6tnncn2a6rp0j71hspia1op
+    followers: 11129
+    engagement: 543
+    commentsToLikes: 0.020544
+    id: clo09mm7h9dvd0j08rj7kd1ka
     verified: false
-    hashtags: "#runners, #cycling, #smile, #trailrunning"
-  - username: "nereaherz"
+    hashtags: "#makeupartists, #makeup, #makeupidea, #makeuplovers"
+  - username: "laraibarra_"
     fullname: >-
-      NEREA HERNÁNDEZ MIRA
+      LARA IBARRA
     bio: >-
-      Creative soul & design lover Beauty ✵ Fitness Say HI. nerea.hmira@gmail.com
+      DIETISTA / Ponte en forma conmigo desde una perspectiva de salud y equilibrio 💗 @mioo.fitness Prozis -10% código LARITA
     location: "Spain"
-    followers: 11716
-    engagement: 743
-    commentsToLikes: 0.107660
-    id: ck8tayyhmtnuz0j78vxbqz1zk
+    followers: 231877
+    engagement: 656
+    commentsToLikes: 0.006165
+    id: ck5c3dzi6z4tv0i11r7m8y94k
     verified: false
-    hashtags: "#feelyourbreast"
-  - username: "josegaarcian"
+    hashtags: "#verano2021, #myprotein, #estilodevidasaludable, #recetasfaciles"
+  - username: "_nikol_k"
     fullname: >-
-      J O S E    G A R C Í A
+      Niki z FITFAB Strong
     bio: >-
-      🥇Mister Alicante 2020 💻Asesoramiento online ⚡️38% MYPROTEIN código:JOSEGAARCIANMP 🔝VIDA FITNESS 🎥YOUTUBE
+      O pohybu lidsky a s pořádnou dávkou sarkasmu a reality 🏃🏼‍♀️ Jsem 1/4 týmu @fitfabstrong.cz a fitness trenér
     location: "Spain"
-    followers: 15034
-    engagement: 665
-    commentsToLikes: 0.065729
-    id: ck6u126euj46f0j71nilmooyj
+    followers: 11947
+    engagement: 699
+    commentsToLikes: 0.019164
+    id: ck6ts965u3fw40j71a2o8y36e
     verified: false
-    hashtags: "#verano, #cuerpo, #fitnessmodel, #deporte"
-  - username: "dianaserena_"
+    hashtags: "#reels, #leto, #workout, #fitgirl"
+  - username: "cescescola"
     fullname: >-
-      Diana Serena
+      Cesc Escolà
     bio: >-
-      🏃‍♀️Lic. en Educación Física 💃ZES™ Zumba® Fitness 💪🏻Master Trainer STRONG NATION™ 📬diana.serena@zumbamail.com 🗣🇮🇹🇪🇸🇬🇧🇵🇹 🌟#dianaserena
+      🏋🏼‍♂️ Fitness Trainer Tv Spain 📺 #MuéveteEnCasa #FitMés @elconquis_rtve & #OT2020 📖 Mi libro #MuchoMásQueFitness 📩 fitcesc@gmail.com 🦁 @kiwiescola
     location: "Spain"
-    followers: 134550
-    engagement: 111
-    commentsToLikes: 0.099781
-    id: ck15s66qxbf8k0i19ijdr4c6d
-    verified: true
-    hashtags: "#fitcondianaserena, #sync, #rutinasembarazadas, #zumbacommunity"
-  - username: "martabisshopp"
-    fullname: >-
-      M A R T A  B I S S H O P P
-    bio: >-
-      ▫️ Fitness&Health ▫️ Médico👩🏽‍⚕️🩺 ▫️ @myproteines : BISSHOPP ▫️#naturalbodybuilding
-    location: "Spain"
-    followers: 10487
-    engagement: 856
-    commentsToLikes: 0.014264
-    id: ck8talv1osaqn0j780xyqs5v2
+    followers: 218847
+    engagement: 653
+    commentsToLikes: 0.008097
+    id: ck5zp6rlvs3e90i14iqqe47p9
     verified: false
-    hashtags: "#healthylifestyle, #lifestyle, #health, #train"
+    hashtags: "#muchom, #elconquistador, #love, #coligasfast"
+  - username: "jobstevens"
+    fullname: >-
+      Job Stevens
+    bio: >-
+      Fashion | Fitness | Travel Athlete @bodyandfit_nl | code: job10
+    location: "Spain"
+    followers: 229663
+    engagement: 1258
+    commentsToLikes: 0.008897
+    id: closq438rnijk0j08f46qk7x3
+    verified: false
+    hashtags: "#fallfashion, #ootd, #menwithclass, #outfitinspo"
+  - username: "rvbengarcia"
+    fullname: >-
+      RUBÉN GARCÍA | #elgymyelñam
+    bio: >-
+      🔥 | workouts • recetas • fitness tips 💪🏻 | Mi app: FIT AND DELICIOUS 📲↓Consigue tu cambio físico conmigo 🍌 | @naturitas.es & @prozis 10%: rvbengarcia
+    location: "Spain"
+    followers: 1180356
+    engagement: 519
+    commentsToLikes: 0.014926
+    id: ck0w38xnys6fr0i1975eszffi
+    verified: false
+    hashtags: "#snackfit, #comidafit, #sugarfree, #snacksaludable"
 ---

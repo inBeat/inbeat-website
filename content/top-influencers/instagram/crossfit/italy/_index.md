@@ -1,12 +1,48 @@
 ---
-title: Top 10 Crossfit Instagram Influencers In Italy In 2023
+title: Top 10 Crossfit Instagram Influencers In Italy In 2024
 description: >-
-  Find top crossfit Instagram influencers in Italy in 2023. Most popular hashtags: #love #fitness #crossfit #body.
+  Find top crossfit Instagram influencers in Italy in 2024. Most popular hashtags: #love #crossfit #body #outfit.
 platform: Instagram
-hits: 101
-text_top: Analyze the top-rated Instagram accounts on inBeat.
-text_bottom: Our search engine aggregates 101 Instagram influencers like this in Italy for you to contact.
+hits: 107
+text_top: Analyze the most popular Instagram profiles on inBeat.
+text_bottom: Our database aggregates 107 Instagram influencers like this in Italy for you to work with.
 profiles:
+  - username: "antea111"
+    fullname: >-
+      Antea Longo
+    bio: >-
+      CrossFit . Mom . Box owner 📍2021 Fittest in Italy 🇮🇹 📍 CrossFit L-3 Trainer 📍 @crossfit_ffa 🇮🇹 • ⬇️ all the codes⬇️
+    location: "Italy"
+    followers: 16236
+    engagement: 189
+    commentsToLikes: 0.021589
+    id: ck5c5u5i345mt0i11bbtsmxay
+    verified: false
+    hashtags: "#crossfit, #crossfitgames, #sport, #crossfitffa"
+  - username: "andrea.belussi"
+    fullname: >-
+      Andrea Belu Belussi
+    bio: >-
+      Wine&Food🍾🥩 | CrossFit🏋🏻‍♂️| Travel🌍 💪🏻@gjav_goperformance -10% ➡️ BELU10
+    location: "Italy"
+    followers: 14885
+    engagement: 228
+    commentsToLikes: 0.017103
+    id: ck55p409l9r8b0i11ndmetjwd
+    verified: false
+    hashtags: "#holiday, #foods, #photooftheday, #eat"
+  - username: "nickynellow"
+    fullname: >-
+      Nikola Mičková
+    bio: >-
+      CROSSFIT GIRL @nickynellow.cz 🐰 @playboyczechrepublic ᴄᴏᴠᴇʀ ɢɪʀʟ 11/2020 ▪ ꜰɪᴛɴᴇꜱꜱ ᴛʀᴀɪɴᴇʀ ʟɪᴄᴇɴꜱᴇ ʙ 📖 ᴇ-ʙᴏᴏᴋ: ᴢᴀᴅᴇČᴇᴋ + ɴᴏʜʏ, ʙŘɪᴄʜᴏ ɪ, ɪɪ, ꜰᴜʟʟ ʙᴏᴅʏ
+    location: "Italy"
+    followers: 132726
+    engagement: 76
+    commentsToLikes: 0.067524
+    id: ck6u996crw7570j71whf5lrd2
+    verified: false
+    hashtags: "#bride, #loveit, #love, #style"
   - username: "alessiam__m"
     fullname: >-
       ᗩᒪᙓSSIᗩ ♥️ 𝒯𝑜𝓇𝒾𝓃𝑜-𝒪𝓁𝒷𝒾𝒶 🖤
@@ -43,18 +79,6 @@ profiles:
     id: ckap7a67lj7300i78ksz9oxub
     verified: false
     hashtags: "#castles, #happiness, #igernapoli, #campaniadavivere"
-  - username: "nickynellow"
-    fullname: >-
-      Nikola Kičmerová
-    bio: >-
-      CROSSFIT GIRL 🐰 ᴘʟᴀʏʙᴏʏ 11/2020 ▪ғɪᴛɴᴇss ᴛʀᴀɪɴᴇʀ 📖 ᴇ-ʙᴏᴏᴋ: Zadeček + Nohy, Břicho I, II 📩ᴍᴀɪʟ: ɴɪᴋᴏʟᴀ.ᴋɪᴄᴍᴇʀᴏᴠᴀ@sᴇᴢɴᴀᴍ.ᴄᴢ
-    location: "Italy"
-    followers: 131816
-    engagement: 170
-    commentsToLikes: 0.047550
-    id: ck6u996crw7570j71whf5lrd2
-    verified: false
-    hashtags: "#brunettes, #crossfitcouple, #happy, #czechgirl"
   - username: "lorussofa"
     fullname: >-
       Fabio
@@ -103,28 +127,4 @@ profiles:
     id: ck5bzouwqrkht0i111mhwuamj
     verified: false
     hashtags: "#imbuilt, #bgirl, #builtbar, #soundon"
-  - username: "vero.pala"
-    fullname: >-
-      VERONICA PALADINO
-    bio: >-
-      🇮🇹 CrossFit 📍Milano ⬇️ ＤＩＳＣＯＵＮＴ ＣＯＤＥＳ ⬇️
-    location: "Italy"
-    followers: 17493
-    engagement: 479
-    commentsToLikes: 0.014423
-    id: ck5hr93mquh930i11647cnlo9
-    verified: false
-    hashtags: "#skullfit, #skullfitathlete, #crossfit, #iamxeniosusa"
-  - username: "seretwin"
-    fullname: >-
-      𝓢𝓮𝓻𝓮𝓷𝓪 𝓕𝓮𝓻𝓻𝓲
-    bio: >-
-      🏋🏼‍♀️CFL1-L2 Trainer 💼coach-Progetto Crossfit-Faenza 🐶🐶Kuma&Sexy 👯‍♀️twin sister ♥️love @reebokcrossfitravenna,☀️👙sun&sea, 🙏🏻life #alwayssmile
-    location: "Italy"
-    followers: 4489
-    engagement: 1211
-    commentsToLikes: 0.028864
-    id: ckaowe5j98jda0i78v5kumbxi
-    verified: false
-    hashtags: "#me, #style, #body, #fitness"
 ---

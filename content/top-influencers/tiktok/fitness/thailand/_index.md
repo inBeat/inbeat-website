@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fitness TikTok Influencers In Thailand In 2023
+title: Top 10 Fitness TikTok Influencers In Thailand In 2024
 description: >-
-  Find top fitness TikTok influencers in Thailand in 2023. Most popular hashtags: #fitness #fyp #foryou #thailand.
+  Find top fitness TikTok influencers in Thailand in 2024. Most popular hashtags: #fitness #foryou #fyp #thailand.
 platform: TikTok
 hits: 12
-text_top: Discover the most popular TikTok profiles on inBeat.
-text_bottom: Our platform holds 12 TikTok influencers like this in Thailand for you to contact.
+text_top: Discover the top-rated TikTok profiles on inBeat.
+text_bottom: Our search engine holds 12 TikTok influencers like this in Thailand for you to collaborate.
 profiles:
   - username: "superprosamui"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.004271
     id: ck81q1ta9f94y0j7854zdwbl9
     verified: false
-    hashtags: "#tiktokthailand, #fyp, #muaythaithailand, #muaythai"
+    hashtags: "#muythaitechnique, #muaythaithailand, #foryoupage, #thailand"
   - username: "drtonyhuge"
     fullname: >-
       Tony Huge
@@ -66,7 +66,7 @@ profiles:
     commentsToLikes: 0.005945
     id: ck8scou4mc1t50j785vwrrrz6
     verified: true
-    hashtags: "#fyp, #tiktoktutorial, #learnontiktok, #foryoupage"
+    hashtags: "#tiktoktutorial, #foryoupage, #foryou, #homefitness"
   - username: "dbzytv"
     fullname: >-
       Dunbar
@@ -126,5 +126,5 @@ profiles:
     commentsToLikes: 0.047130
     id: ck9rlkun5yeso0j78qqablyr4
     verified: false
-    hashtags: "#fitgirl, #dress, #swimwear, #beachwear"
+    hashtags: "#swimwear, #beachwear, #style, #fitgirl"
 ---

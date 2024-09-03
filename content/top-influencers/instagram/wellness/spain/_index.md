@@ -1,130 +1,130 @@
 ---
-title: Top 10 Wellness Instagram Influencers In Spain In 2023
+title: Top 10 Wellness Instagram Influencers In Spain In 2024
 description: >-
-  Find top wellness Instagram influencers in Spain in 2023. Most popular hashtags: #wellness #healthylifestyle #fitness.
+  Find top wellness Instagram influencers in Spain in 2024. Most popular hashtags: #wellness #ootd #pilates.
 platform: Instagram
-hits: 56
-text_top: See the most popular Instagram accounts on inBeat.
-text_bottom: Our platform aggregates 56 Instagram influencers like this in Spain for you to pitch.
+hits: 90
+text_top: Discover the top-rated Instagram accounts on inBeat.
+text_bottom: inBeat holds 90 Instagram influencers like this in Spain for you to collaborate.
 profiles:
-  - username: "jezzifr"
+  - username: "tamsenfadal"
     fullname: >-
-      JEZZI
+      Tamsen Fadal
     bio: >-
-      Mamá🤱🏻•BOSS GIRL• Diosa de las diosas "El mundo te mira como tú te miras" | Entrenadora personal 🏋🏻‍♀️ | Atleta campeona | wellness fitness FDF-IFBB
+      🎙️Storyteller, Journalist, Author 💖Midlife | Relationships | Wellness 🎬Menopause Documentary Oct. 2024
     location: "Spain"
-    followers: 592428
-    engagement: 549
-    commentsToLikes: 0.006288
-    id: ck5hd2c2yl5400i113j4g4dda
+    followers: 1347344
+    engagement: 326
+    commentsToLikes: 0.076835
+    id: ck5chj0vhqvay0i115kgacwfp
+    verified: true
+    hashtags: "#womenshistorymonth, #ad, #loveqvc"
+  - username: "laucabral"
+    fullname: >-
+      Laura Cabral
+    bio: >-
+      🧘🏼‍♀️ maestra de yoga | wellness coach 🙏🏼 creadora @thewellnesstribepr 🎙 host @dosisdejuguito 👇🏼 clases de yoga, eventos privados & experiencias
+    location: "Spain"
+    followers: 11261
+    engagement: 320
+    commentsToLikes: 0.048523
+    id: ckwx41c87ws0k0j23jjxagejw
     verified: false
-    hashtags: "#healthylifestyle, #fitnessmotivation, #fitgirls, #fitnesslifestyle"
+    hashtags: "#ovulationphase, #guasha, #flowwithmeinmovement, #wellness"
   - username: "lapaulettefitness"
     fullname: >-
       Maria Paulette IFBB PRO® 🇪🇸
     bio: >-
-      🌐ATHLETE WELLNESS @ifbb_pro_league 📧COACHING ONLINE 🧙🏻TEAM @ricardopannain ◾️@prozis / @ubonlinestore / @irondolls_bikinis MY LINKS ⤵️
+      🌐WELLNESS PRO ⭕️ x2 Olympian @mrolympiallc 🥇EUROPA PRO champion @npceuropean ▪️ @prozis CUPON:PAU ▪️ @ubonlinestore CUPON:PAU10 📧COACHING ONLINE⤵️
     location: "Spain"
-    followers: 329557
-    engagement: 275
-    commentsToLikes: 0.028502
+    followers: 383973
+    engagement: 299
+    commentsToLikes: 0.017994
     id: ck5zm3sodluej0i143g7waslm
     verified: false
-    hashtags: "#recup, #giannikavanagh, #quierete, #perfectlove"
-  - username: "kashwhiteley"
+    hashtags: "#giannikavanagh, #wellness, #ifbbpro, #ifbbproleague"
+  - username: "leannemoorefitness"
     fullname: >-
-      Kashira
+      Leanne Moore Behan
     bio: >-
-      Coach | Speaker | Educator in Personal development | Spirituality | Wellness Doing Life consciously in 📍🇪🇸
+      Motherhood 👸🏼👸🏼/ Fitness / Wellness / Food! Co-owner @gogymfitness_ie Online Classes @liftbyleanne
     location: "Spain"
-    followers: 280878
-    engagement: 53
-    commentsToLikes: 0.020493
-    id: ck5zup4mw2s8d0i14q11278yh
-    verified: false
-    hashtags: "#abundance, #spirituality, #healing, #loveyourplanet"
-  - username: "pattylopezdelac"
-    fullname: >-
-      pattylopezdelac
-    bio: >-
-      TRAVEL || WELLNESS Business: Info@patitofit.com 💌 TIPS @patitofit 🍏 SHOP @amatlan_joyeria @amatlan__men @kali__swim 🌈 PODCAST @telopasoalcosto 🎙
-    location: "Spain"
-    followers: 1989366
-    engagement: 67
-    commentsToLikes: 0.011996
-    id: ck6tuq1k9hqyl0j71kpvxjrjy
+    followers: 54311
+    engagement: 200
+    commentsToLikes: 0.021158
+    id: ck15spkfge6jm0i193e73q8o4
     verified: true
-    hashtags: "#happypatito, #stillstanding, #notetoself, #nofilter"
-  - username: "gabygalvanb"
+    hashtags: "#fullbodyworkout, #liftteam, #workoutidea, #liftbyleanne"
+  - username: "agustinamarzari"
     fullname: >-
-      Gaby Galván Nutrición 🧿
+      Im Queen A 👑
     bio: >-
-      Mty, México 📍 👱🏻‍♀️Lic.Nutrición y Salud⠀ 🥝Wellness.Real food ⠀ 🚴‍♀️ Instructor @siclo 💌Collabs ⚡️Consulta online & Presencial
+      Im a dog lover, wellness enthusiasts I live a mindful life .. I love fashion and I’m my own sugar mommy. I play different roles like design and dj 📍
     location: "Spain"
-    followers: 42236
-    engagement: 159
-    commentsToLikes: 0.030485
-    id: ckaor9safmbze0i7836s0g9nc
+    followers: 104514
+    engagement: 145
+    commentsToLikes: 0.015203
+    id: ck0tu2eih5c2m0i19tsqgbrdm
     verified: false
-    hashtags: "#ejercicio, #quarantine, #saludable, #alimentacionsaludable"
-  - username: "cami_wellness"
+    hashtags: "#campo, #sinodiseanohayverano, #getready, #copenhagen"
+  - username: "jacquiemarquez"
     fullname: >-
-      Camila Gonzalez Muñoz
+      Jacquie Marquez
     bio: >-
-      Miss beautiful internacional 🇨🇴 @megateamcol Manager: @kitosunshine @megateamlatino
+      Building beautiful lives and helping others achieve prosperity ✨ 👧🏻 Mamá de @moetsworld 👩🏻‍🍳 Cooking and Wellness Ebook “Cómetelo sin culpa” GRATIS 👇🏻
     location: "Spain"
-    followers: 74652
-    engagement: 124
-    commentsToLikes: 0.032660
-    id: ck5pw1spmkoth0i110so41477
+    followers: 195386
+    engagement: 67
+    commentsToLikes: 0.040612
+    id: ck5q7mvj42aee0i11r70vjmgg
     verified: false
-    hashtags: "#fotografia, #sexy, #medellin, #camiwellness"
-  - username: "medinamaste"
+    hashtags: "#oiltreatment, #jacquiemarquez, #espa, #chef"
+  - username: "laurarporpo"
     fullname: >-
-      Sarah Medina | Yoga Teacher
+      Laura Restrepo Restrepo🍪
     bio: >-
-      🧘🏼‍♀️ YOGA Teacher 🤸🏽‍♀️ ✨ ThetaHealing 🐛🦋 📚 SPANISH Teacher 👩‍🏫 KS2•GCSE•IB•DELE Private • Events | Adults • Kids 🇪🇸/🇧🇪 in Dubai
+      Economist📈|Content creator 📸|Finding balance through yoga 🧘🏼‍♀️,books 📖 ,traveling ✈️and wellness🤸🏼‍♂️ CEO @_fitsquad_ @tienda_tumejorversion
     location: "Spain"
-    followers: 45840
-    engagement: 244
-    commentsToLikes: 0.088119
-    id: ck0u9m4w2a2nt0i19h677hjcr
+    followers: 485554
+    engagement: 58
+    commentsToLikes: 0.054291
+    id: ck6tp4pswhtkh0j71xhaqcusu
     verified: false
-    hashtags: "#wellbeing, #selflove, #mindbodysoul, #yogalife"
-  - username: "mistercalisthenics"
+    hashtags: "#fitsquad, #publicidad, #bangenergy, #energydrink"
+  - username: "miriamgranado"
     fullname: >-
-      🌍ᎷᎥᏕᏖᏋᏒ🖤
+      𝑀𝐼𝑅𝐼𝐴𝑀 𝐺𝑅𝐴𝑁𝐴𝐷𝑂 🥀
     bio: >-
-      🔥 𝐅𝐮𝐧𝐝𝐚𝐝𝐨𝐫 𝐝𝐞 @barbrothersvlc 💉 𝐓𝐚𝐭𝐮𝐚𝐝𝐨𝐫 @mistertattooskull 💪🏽 𝐏𝐨𝐧𝐭𝐞 𝐞𝐧 𝐟𝐨𝐫𝐦𝐚 𝐜𝐨𝐧𝐦𝐢𝐠𝐨! 𝐏𝐚𝐫𝐚 𝐫𝐮𝐭𝐢𝐧𝐚𝐬 𝐲 𝐜𝐥𝐚𝐬𝐞𝐬 𝐨𝐧-𝐥𝐢𝐧𝐞, 𝐞𝐬𝐜𝐫í𝐛𝐞𝐦𝐞! 📍 𝐕𝐚𝐥𝐞𝐧𝐜𝐢𝐚.
+      🧿 SKINCARE | BEAUTY | WELLNESS 𝘮𝘦𝘥𝘪𝘵𝘢𝘵𝘪𝘰𝘯 𝘤𝘩𝘢𝘯𝘨𝘦𝘥 𝘮𝘺 𝘭𝘪𝘧𝘦 ♓︎ ✨ 📍𝘔𝘢𝘥𝘳𝘪𝘥
     location: "Spain"
-    followers: 16554
-    engagement: 374
-    commentsToLikes: 0.080335
-    id: ck135fir915vb0i19e5e9pjg0
+    followers: 11234
+    engagement: 37
+    commentsToLikes: 0.022313
+    id: ckwef13tymrse0j23awdtz5y7
     verified: false
-    hashtags: "#weightloss, #gym, #strong, #lifestyle"
-  - username: "carlasanchez.well"
+    hashtags: "#ootdstyle, #ootd, #ootdfashion, #fashionblogger"
+  - username: "daniellepeazer"
     fullname: >-
-      Carla Sánchez
+      Danielle
     bio: >-
-      @theholisticconcept & @secretyogaclub.es co-Founder Directos diarios💻 Plataforma #TheHolistic @yoga_en_gaia Ambassador @instylespain Blogger
+      Sharing what makes me feel good wellness | beauty | fitness | fashion @pausebydaniellepeazer
     location: "Spain"
-    followers: 19138
-    engagement: 272
-    commentsToLikes: 0.057003
-    id: ck5qegbpa0ckr0i11oqp6dldh
-    verified: false
-    hashtags: "#lifestyle, #pic, #saludable, #instagood"
-  - username: "adynavarro.g"
+    followers: 1063819
+    engagement: 27
+    commentsToLikes: 0.010814
+    id: ck0tycba1me8x0i19h9djivwb
+    verified: true
+    hashtags: "#pilates, #fitnessjourney, #grwm, #healthylifestyle"
+  - username: "tiposofia"
     fullname: >-
-      Adriana💕Fitness y motivación
+      Sofia Contreras Mora
     bio: >-
-      🔅Mi sonrisa es mi mejor arma🔅 ❤️Self love is the key 📍Mich. Mex🇲🇽 Colaboraciones: ✉️ adriana.ng0111@gmail.com
+      💥 Co-Owner @duoocreativo 🌿 lifestyle, mommy & wellness content 🧿 marketing consultant & public relations 💗 @themommytribe_
     location: "Spain"
-    followers: 61017
-    engagement: 233
-    commentsToLikes: 0.022070
-    id: ck8t5dynh9tag0j785rz45twh
+    followers: 32154
+    engagement: 19
+    commentsToLikes: 0.030059
+    id: ck8sy4yqwjppd0j78j6wps928
     verified: false
-    hashtags: "#ootd, #sunset, #model, #gym"
+    hashtags: "#panamacity, #panama, #selflove, #pty"
 ---

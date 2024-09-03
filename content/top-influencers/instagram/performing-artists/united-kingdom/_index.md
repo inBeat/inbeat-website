@@ -1,36 +1,60 @@
 ---
-title: Top 10 Performing Artists Instagram Influencers In United Kingdom In 2023
+title: Top 10 Performing Artists Instagram Influencers In United Kingdom In 2024
 description: >-
-  Find top performing artists Instagram influencers in United Kingdom in 2023. Most popular hashtags: #dancer #dance #love #performing.
+  Find top performing artists Instagram influencers in United Kingdom in 2024. Most popular hashtags: #fashion #artist #love #dancer.
 platform: Instagram
-hits: 8
-text_top: Identify the top-rated Instagram influencers on inBeat.
-text_bottom: Our platform aggregates 8 Instagram influencers like this in United Kingdom for you to contact.
+hits: 12
+text_top: Discover the top-rated Instagram profiles on inBeat.
+text_bottom: inBeat holds 12 Instagram influencers like this in United Kingdom for you to contact.
 profiles:
-  - username: "adogwanja"
+  - username: "jank_ee"
     fullname: >-
-      Ado Gwanja
+      Jankee Parekh Mehta
     bio: >-
-      PERFORMING ARTIST 🇳🇬☆☆☆☆☆ ACTOR ☆☆☆☆☆ PRODUCER || MOVIE &MUSIC☆☆☆☆☆ For Bookings Contact ☎ 08039198861..08069421046 Yan Mata Official Video 👇🏻
+      Mumma to @babysufim | Vocalist | Performing Artist For Social Media collabs- @rheagupta26 For Gig Bookings & Enquiries - @krinapari www.jank.ee
     location: "United Kingdom"
-    followers: 1136606
-    engagement: 31
-    commentsToLikes: 0.035372
-    id: ck15t8kkcguxp0i19q8rese9j
+    followers: 417335
+    engagement: 908
+    commentsToLikes: 0.012754
+    id: ck0ttri2i407n0i19lv77s7z4
     verified: true
-    hashtags: "#repost"
-  - username: "missjoliepapillon"
+    hashtags: "#raasgarbawithjankee, #montessoritoddler, #sufiandmaa, #montessoriathome"
+  - username: "officialiseoluwaabidemi"
     fullname: >-
-      Jolie 🦋 Burlesque Star
+      OLUWAFUNMILAYO ABIDEMI ISEOLUWA
     bio: >-
-      🌟10yrs International Headliner 🖥️ Virtual Shows 🍸Giant Martini Glass 📖 1:1 Online Coaching 🎭 @ginhouseburlesque 👩🏻‍🎓 @bsmt_bologna FREEBIE 👇
+      Recording/Performing Artist. Founder: @official_funmz Founder: Iseoluwa CRA Foundation. #YESICANALBUM Tiktok @officialiseoluwaabidem
     location: "United Kingdom"
-    followers: 24219
-    engagement: 539
-    commentsToLikes: 0.023280
-    id: ck5pybq37v91b0i115oz0buuj
+    followers: 551514
+    engagement: 51
+    commentsToLikes: 0.037076
+    id: ckf5m3e08s3b50j239wm93bkx
     verified: false
-    hashtags: "#burlesqueartist, #virtualshow, #burlesqueteacher, #giantmartiniglass"
+    hashtags: "#iseoluwa, #biblestudy, #iseoluwaabidemi, #yesican"
+  - username: "iamnaomiachu"
+    fullname: >-
+      NAOMI ACHU
+    bio: >-
+      •👇🏾Stream “Waiting All My Life” now
+    location: "United Kingdom"
+    followers: 1401614
+    engagement: 124
+    commentsToLikes: 0.009902
+    id: ck14l3grfsno60i193bjl9osy
+    verified: true
+    hashtags: "#viralpost, #queenofbamenda, #baddies, #newmusic"
+  - username: "itsvalis"
+    fullname: >-
+      Valis Volkova
+    bio: >-
+      Metal Vocalist | Classical Musician | Glamour Ghoul 🎙️+ 🎹 @shemustburnofficial & @deaddollsuk
+    location: "United Kingdom"
+    followers: 57255
+    engagement: 45
+    commentsToLikes: 1.895388
+    id: ck0w5tzck5fgw0i19xsbtgo3i
+    verified: false
+    hashtags: "#umbramortis, #shemustburnlive, #womenofmetal, #prague"
   - username: "erroldouglas1"
     fullname: >-
       Errol Douglas MBE ™ SRH
@@ -43,6 +67,18 @@ profiles:
     id: ck5chj9ucqvn30i115t9mzb6i
     verified: false
     hashtags: "#thankyou, #sharethehair, #industry, #beautiful"
+  - username: "iammoyah"
+    fullname: >-
+      MoYah
+    bio: >-
+      🇲🇿Rapper •Artistic Curator •Award Winning Interfaith Arts Programmer🥇 •Educator Performing @musicboxlisboa Thursday 9thMarch ⬇️
+    location: "United Kingdom"
+    followers: 10759
+    engagement: 207
+    commentsToLikes: 0.108712
+    id: ck5hjgromglp90i11pka9yc5a
+    verified: false
+    hashtags: "#depression, #bristoltakeover, #meuheroi, #jummah"
   - username: "idalaukkanen"
     fullname: >-
       Ida Laukkanen
@@ -67,6 +103,18 @@ profiles:
     id: ck6tjuvtn3gy40j71tr7p8xp3
     verified: false
     hashtags: "#north, #creatives, #mannyonthemap, #training"
+  - username: "josietruemaisey"
+    fullname: >-
+      Josie True
+    bio: >-
+      ⭐️ Singer ⭐️ Dancer ⭐️Animal Lover
+    location: "United Kingdom"
+    followers: 8550
+    engagement: 350
+    commentsToLikes: 0.095583
+    id: ck139j1dqljq10i19ns6xqdy1
+    verified: false
+    hashtags: "#ilovetosing, #busking, #musicmakesmehappy, #cantantes"
   - username: "officialshin"
     fullname: >-
       Shintastic
@@ -78,29 +126,5 @@ profiles:
     commentsToLikes: 0.091539
     id: ck6txh99qxtrd0j713rsqi5w4
     verified: false
-    hashtags: "#hiphop, #blackmodel, #scoutmemodel, #model"
-  - username: "john.wilding"
-    fullname: >-
-      JOHN WILDING
-    bio: >-
-      London / LA Singer/ Songwriter/Actor/ Wizard Debut EP coming soon...
-    location: "United Kingdom"
-    followers: 5433
-    engagement: 791
-    commentsToLikes: 0.089532
-    id: ckap9c92is2ns0i78a9frf325
-    verified: false
-    hashtags: "#music, #songwriter, #musician, #musiclover"
-  - username: "bunhead1027"
-    fullname: >-
-      Abby C
-    bio: >-
-      Professional Ballerina 🙆🏻‍♀️ Freed of London USA ambassador 🩰 Coffee lover☕️ Dog obsessed 🐾 Walker🚶🏻‍♀️Philippians 4:13 💙
-    location: "United Kingdom"
-    followers: 34013
-    engagement: 602
-    commentsToLikes: 0.013481
-    id: ck0uemj4hlqx00i191b1vlmkm
-    verified: false
-    hashtags: "#saturday, #freedusa, #instamood, #handmade"
+    hashtags: "#scoutme, #2realboyz, #model, #shintastic"
 ---

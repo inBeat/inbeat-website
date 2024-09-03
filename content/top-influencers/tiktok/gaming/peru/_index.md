@@ -1,11 +1,11 @@
 ---
-title: Top 10 Gaming TikTok Influencers In Peru In 2023
+title: Top 10 Gaming TikTok Influencers In Peru In 2024
 description: >-
-  Find top gaming TikTok influencers in Peru in 2023. Most popular hashtags: #fyp #humor #viral #greenscreen.
+  Find top gaming TikTok influencers in Peru in 2024. Most popular hashtags: #fyp #viral #humor #greenscreen.
 platform: TikTok
 hits: 8
-text_top: See the top-rated TikTok profiles on inBeat.
-text_bottom: Our search engine has 8 TikTok influencers like this in Peru for you to contact.
+text_top: Analyze the most popular TikTok influencers on inBeat.
+text_bottom: Our search engine has 8 TikTok influencers like this in Peru for you to collaborate.
 profiles:
   - username: "_tips_historias_detodo_"
     fullname: >-

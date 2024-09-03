@@ -1,24 +1,24 @@
 ---
-title: Top 10 Bodybuilding Instagram Influencers In Poland In 2023
+title: Top 10 Bodybuilding Instagram Influencers In Poland In 2024
 description: >-
-  Find top bodybuilding Instagram influencers in Poland in 2023. Most popular hashtags: #bodybuilding #trening #polishgirl #body.
+  Find top bodybuilding Instagram influencers in Poland in 2024. Most popular hashtags: #bodybuilding #fitness #fit #motivation.
 platform: Instagram
-hits: 203
-text_top: See the best Instagram accounts on inBeat.
-text_bottom: inBeat aggregates 203 Instagram influencers like this in Poland for you to work with.
+hits: 193
+text_top: Discover the top-rated Instagram accounts on inBeat.
+text_bottom: Our database aggregates 193 Instagram influencers like this in Poland for you to collaborate.
 profiles:
   - username: "gainzdesire"
     fullname: >-
-      Mikołaj Żegliński
+      Mikołaj Żegliński - naturalna kulturystyka - szkolenia
     bio: >-
       🥇Mistrz Czech ICN 🏆NATURAL BODYBUILDING COACH 🇵🇱TEAM#gainzdesireteam 📈PROWADZENIE ONLINE 📚INFOGRAFIKI👉🏻 @scidesire 👨🏻‍🏫SZKOLENIE👇🏻
     location: "Poland"
-    followers: 22327
-    engagement: 443
-    commentsToLikes: 0.021114
+    followers: 31720
+    engagement: 279
+    commentsToLikes: 0.027652
     id: ck6tybuep2tmk0j71edexwgya
     verified: false
-    hashtags: "#kreatyna, #trener, #bodybuilding, #treningwdomu"
+    hashtags: "#treningsilowy, #sylwetka, #kulturystykakobiet, #naturalbodybuilding"
   - username: "inspektorin"
     fullname: >-
       Magda 🇪🇺🇵🇱🏳️‍🌈
@@ -43,88 +43,88 @@ profiles:
     id: ck15tcsnkhgrh0i19xwq4vtdv
     verified: false
     hashtags: ""
-  - username: "ela_fab_"
-    fullname: >-
-      Ela🇵🇱
-    bio: >-
-      💪20%https://olimpsport.com/pl/ kod rabat „Elafab” 💪Team @xtreme_fitness_gyms 💪15% Sklep Furia Kod rabat „elafab” www. sklepfuria.pl/
-    location: "Poland"
-    followers: 9191
-    engagement: 1401
-    commentsToLikes: 0.122452
-    id: ck9hbtw96iff10j78lo7v1r3a
-    verified: false
-    hashtags: "#mylife, #motywacja, #muscle, #olimpsportnutrition"
   - username: "kasiula.fit"
     fullname: >-
-      Kasia Dzierżanowska
+      Kasia Dzierżanowska- Trener Personalny Warszawa
     bio: >-
-      ★ 𝘾𝙚𝙧𝙩𝙮𝙛𝙞𝙠𝙤𝙬𝙖𝙣𝙮 𝙩𝙧𝙚𝙣𝙚𝙧 𝙥𝙚𝙧𝙨𝙤𝙣𝙖𝙡𝙣𝙮 ★ —𝔹𝕦𝕕𝕦𝕛𝕖̨ 𝕤𝕪𝕝𝕨𝕖𝕥𝕜𝕚 𝕞𝕒𝕣𝕫𝕖𝕟́— 📩prowadzenie online (DM) ⭐️ @carpatree -20% „KASIULA.FIT” ⭐️ @sklep.sfd-10% „KASIA10”
+      🏋🏻‍♀️Treningi Personalne 👩🏻‍💻Prowadzenie online 📩współpraca: @aestheticunit_ ✨ @myproteinpl „KASIULA”
     location: "Poland"
-    followers: 12169
-    engagement: 988
-    commentsToLikes: 0.035932
+    followers: 13621
+    engagement: 652
+    commentsToLikes: 0.036030
     id: ck8t3q16w41zv0j78akzvxrfv
     verified: false
-    hashtags: "#girl, #carpatree, #bodygoals, #strong"
-  - username: "_szubert_"
+    hashtags: "#sylwetka, #fitgirl, #trenerpersonalnywarszawa, #bulking"
+  - username: "zaanettaa__"
     fullname: >-
-      Wiktoria Szubert
+      Żaneta Lipicka
     bio: >-
-      Studentka dietetyki 👩🏽‍🎓 Kontakt 📧 ➡️wikaszubert@gmail.com
+      Współpraca/ collaboration 📩 kryjom.zaneta@gmail.com / DM
     location: "Poland"
-    followers: 38150
-    engagement: 373
-    commentsToLikes: 0.049886
-    id: ck8t9ohzzore40j78xfxzuqwm
+    followers: 65641
+    engagement: 443
+    commentsToLikes: 0.022216
+    id: ck0w5i4xv3r8b0i19gcy6a2wy
     verified: false
-    hashtags: "#dubaifitness, #vacaymode, #fitwomen, #bikinifitness"
-  - username: "magda_biala"
+    hashtags: "#polishgirl, #session, #makeup, #me"
+  - username: "piszczalllka"
     fullname: >-
-      MAGDALENA BIAŁACHOWSKA🏋️‍♀️
+      Oliwia Mularczyk | Trener Personalny Warszawa
     bio: >-
-      💪 Trener Personalny w Szczecinie ❤️ @rough_radical "Magda15" 🥰 @sklep.sfd "MAGDABIALA10" 🏋️‍♀️ @studio_treningu 🏋️‍♀️ 📪mbialachowska@o2.pl📪
+      NPC Bikini Athlete 💫 Współpraca Trenerska Online 📨 piszczalllka@onet.eu @geniusnutrition.pl -10% „piszczalllka10”
     location: "Poland"
-    followers: 9861
-    engagement: 312
-    commentsToLikes: 0.096806
-    id: ck8t60bm1bt1y0j78ybqk23ci
+    followers: 23343
+    engagement: 722
+    commentsToLikes: 0.019962
+    id: ck9we6kd9iuaf0j78u6s98d0j
     verified: false
-    hashtags: "#las, #crossfit, #shape, #inked"
-  - username: "trener_marcin"
+    hashtags: "#gymglamour, #bikinifitness, #redukcja, #treningpo"
+  - username: "g_kornelia"
     fullname: >-
-      Marcin Krzesiński
+      Kornelia Gołębiewska
     bio: >-
-      💪🏽 Certified PT (Warsaw) 🍎 Student of dietetics 📥 Collaboration: marcinkrzesinski.wspolpraca@gmail 🔑 @dietbox_ kod rabatowy -15%: TRENER_MARCIN
+      ✨,, 𝓩𝔂𝓬𝓲𝓮 𝓽𝓸 𝓹𝓸𝓭𝓻𝓸𝔃, 𝓷𝓲𝓮 𝓬𝓮𝓵.” ✨ 👑𝐅𝐢𝐧𝐚𝐥𝐢𝐬𝐭𝐤𝐚 @miss.polonia 𝟐𝟎𝟐𝟑 🐶 𝐦𝐲 𝐬𝐨𝐮𝐥𝐦𝐚𝐭𝐞 @g_bluee_ 📍📚 𝐆𝐝𝐚𝐧𝐬𝐤| 𝐌𝐨𝐫𝐚𝐠|𝐎𝐥𝐬𝐳𝐭𝐲𝐧|𝐖𝐚𝐫𝐬𝐳𝐚𝐰𝐚 📩𝐢𝐧𝐟𝐨@𝐦𝐢𝐬𝐬𝐩𝐨𝐥𝐨𝐧𝐢𝐚.𝐜𝐨𝐦.𝐩𝐥
     location: "Poland"
-    followers: 8046
-    engagement: 1577
-    commentsToLikes: 0.054989
-    id: ck9hcghkel9y50j78hab2jrkn
+    followers: 15130
+    engagement: 605
+    commentsToLikes: 0.013643
+    id: ck8t30lt91fvi0j78jrozjuud
     verified: false
-    hashtags: "#humanrace, #kateringdietetycznywarszawa, #dieta, #online"
-  - username: "dominika_wisniewska2"
+    hashtags: "#natural, #zakopane, #fashion, #bwphotography"
+  - username: "jay_jlo"
     fullname: >-
-      Dominika Wiśniewska
+      Justyna Zięcina
     bio: >-
-      🇵🇱 Warszawa https://mym.fans/dominika_wisniewska2 Team @real_pharm_nutrition -10% "Domi10" @fitby.nature @gattafashioneurope 🥰
+      IFBB PRO LEAGUE 💪🏼 🏆 World&Polish Champion @kfdnutrition TEAM 💪🏼👻 Kod promo KFD: JLO 📩 justyna.bikini@gmail.com
     location: "Poland"
-    followers: 130140
-    engagement: 461
-    commentsToLikes: 0.053377
-    id: ck8t1rewdwqkv0j78cj59oftk
+    followers: 101183
+    engagement: 580
+    commentsToLikes: 0.020054
+    id: ck8t3s4uv4ac60j788q5pdgc2
     verified: false
-    hashtags: "#lingiere, #body, #czarnulka, #goodnight"
-  - username: "sonrisove"
+    hashtags: "#bodybuilding, #sport, #training, #gym"
+  - username: "barbie_hulk"
     fullname: >-
-      Kinga
+      Nikoletta Karat
     bio: >-
-      -10% na "sonrisove10" u @sklep.sfd @allnutrition ❤️ Oglądnij story 🥰 📝Współpraca: kosowicz.kinga@gmail.com 📥
+      💕Barbie Hulk💕 💎Personal Trainer 💎NPC Bikini Fitness 🥈Open Class H BM 🥈True Begginers ⭕️ 🥉🥉Novice ⭕️& BM 💎Sports Nutritionist 💎Online Collaboration
     location: "Poland"
-    followers: 34757
-    engagement: 349
-    commentsToLikes: 0.065565
-    id: ck5zt5phgzs9f0i14bd8e2veb
+    followers: 21537
+    engagement: 880
+    commentsToLikes: 0.002031
+    id: ckap7e52kjoi30i7837fh1qn0
     verified: false
-    hashtags: "#lifestyle, #polishgirl, #blogger, #girl"
+    hashtags: "#bodybuilding, #gymfreak, #competition, #gymmotivation"
+  - username: "wolski.krystian"
+    fullname: >-
+      IFBB PRO Krystian Wolski
+    bio: >-
+      Owner - @wolskigym #teamstones @fanutrition kod WOLSKI20 -20%💵 @propeptydy kod WOLSKI -5%💵 Coaching: krystian.wolski.kontakt@gmail.com
+    location: "Poland"
+    followers: 25974
+    engagement: 655
+    commentsToLikes: 0.020542
+    id: ck5zt6970ztf00i14s0u02rxd
+    verified: false
+    hashtags: "#fitness, #passion, #wolskigym, #work"
 ---

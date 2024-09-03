@@ -1,11 +1,11 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Konya In 2023
+title: Top 10 Lifestyle Instagram Influencers In Konya In 2024
 description: >-
-  Find top lifestyle Instagram influencers in Konya in 2023. Most popular hashtags: #istanbul #instagram #konya #instagood.
+  Find top lifestyle Instagram influencers in Konya in 2024. Most popular hashtags: #instagram #istanbul #konya #instagood.
 platform: Instagram
 hits: 9
-text_top: Identify the most popular Instagram accounts on inBeat.
-text_bottom: Our database holds 9 Instagram influencers like this in Konya, Turkey for you to connect with.
+text_top: See the most popular Instagram accounts on inBeat.
+text_bottom: Our database holds 9 Instagram influencers like this in Konya, Turkey for you to work with.
 profiles:
   - username: "elisi.bohcasi"
     fullname: >-
@@ -19,18 +19,18 @@ profiles:
     id: ck8t55fku8u8a0j78ivw0olo2
     verified: false
     hashtags: "#ke, #musterimemnuniyeti, #selamunaleykum, #takipedenitakipederim"
-  - username: "oren_eller_"
+  - username: "sarisekersema"
     fullname: >-
-      Sultan
+      Sarı Şeker Sema
     bio: >-
-      Sipariş aliyorum Özenle lifleriniz hazirlanir Kargo aliciya aittir Kapıda ödeme yoktur Lütfen fotoğraflarımı çalmayınız
+      📻 Radyo Programcısı 📺 Tv ve Organizasyon Sunucusu 🎙️ #mc 📀 Dj 👼 Anne #lifestyle
     location: "Turkey"
-    followers: 24022
-    engagement: 226
-    commentsToLikes: 0.050829
-    id: ckaotg1lyvs050i78141jyel6
+    followers: 114494
+    engagement: 10
+    commentsToLikes: 0.000000
+    id: ck0w1we6nlgqy0i19xgm7iqyv
     verified: false
-    hashtags: "#lif, #ceyiz, #gelinbohcasi, #damatbohcasi"
+    hashtags: "#dubai, #yaz, #yurtd, #tbt"
   - username: "pelinburcin"
     fullname: >-
       𝐏𝐞𝐥𝐢𝐧 ༗ 𝐓𝐫𝐚𝐯𝐞𝐥 ༗ 𝐋𝐢𝐟𝐞𝐬𝐭𝐲𝐥𝐞
@@ -115,16 +115,16 @@ profiles:
     id: ckap0hry2qcim0i78k9j24ykv
     verified: false
     hashtags: "#myloves, #pazartesi, #sealife, #tb"
-  - username: "monicaawidy"
+  - username: "hadleyogarro"
     fullname: >-
-      Monica Ayu W 📍 SIDOARJO
+      Hadley Ogarro
     bio: >-
-      ✨ Beauty | Food | Lifestyle 📱 Tiktok : monicaayuww 🧑‍💻 @nyehatpol | @selerakini 📣 business inq? Dm or 👇🏻 📩 monicaayuwidyani08@gmail.com
+      #InHadleyWeTrust 🌍 food, events, fits, lifestyle + travel 📧 hello@hadleyogarro.com 📍 london
     location: "Turkey"
-    followers: 4443
-    engagement: 864
-    commentsToLikes: 0.033954
-    id: ckf5mxv9rvuxm0j23k5swcw7u
+    followers: 15447
+    engagement: 835
+    commentsToLikes: 0.092943
+    id: clivee2x62kfo0j08i3hyv71x
     verified: false
-    hashtags: "#youngleaders, #matchamuhunters, #sepatucatscewek, #serumacne"
+    hashtags: "#celestyaljourney, #londonrestaurants, #celestyal, #wizzair"
 ---

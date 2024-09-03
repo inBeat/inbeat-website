@@ -1,12 +1,60 @@
 ---
-title: Top 10 Athletes Instagram Influencers In Russia In 2023
+title: Top 10 Athletes Instagram Influencers In Russia In 2024
 description: >-
-  Find top athletes Instagram influencers in Russia in 2023. Most popular hashtags: #redbull #youcantstopus #teamnike.
+  Find top athletes Instagram influencers in Russia in 2024. Most popular hashtags: #redbull #amazing #givesyouwings.
 platform: Instagram
-hits: 130
-text_top: See the most popular Instagram influencers on inBeat.
-text_bottom: Our database has 130 Instagram influencers like this in Russia for you to collaborate.
+hits: 132
+text_top: See the best Instagram accounts on inBeat.
+text_bottom: inBeat aggregates 132 Instagram influencers like this in Russia for you to connect with.
 profiles:
+  - username: "jaantastic"
+    fullname: >-
+      Jaan Roose
+    bio: >-
+      🇪🇪Slackline athlete @redbull @gibbonslacklines Stunts at @ghostdivisionstunts Action at @vabadussport
+    location: "Russia"
+    followers: 49545
+    engagement: 14241
+    commentsToLikes: 0.017661
+    id: ck5q2b9wkf5rg0i11hgxizizk
+    verified: false
+    hashtags: "#givesyouwings, #redbull, #timetteleaaali, #slackline"
+  - username: "ya_reliefen"
+    fullname: >-
+      ♛ 𝐕𝐀𝐋𝐄𝐑𝐀 𝐊𝐔𝐙𝐌𝐄𝐍𝐊𝐎 ♛
+    bio: >-
+      😎IFBB Men’s Physique Athlete 🏆Champion of Russia 2022 🥇Absolute Champion 📱Online-ведение 🧾Составление плана питания и тренировок 🇷🇺Moscow
+    location: "Russia"
+    followers: 37274
+    engagement: 1354
+    commentsToLikes: 0.015332
+    id: ck5hobsa9pahi0i11a05ki5u9
+    verified: false
+    hashtags: "#iphoneonly, #nice, #instamood, #sport"
+  - username: "lynnsnel"
+    fullname: >-
+      Lynn Snel 🇳🇱
+    bio: >-
+      Karate Athlete -61kg World Championships 🥉
+    location: "Russia"
+    followers: 108932
+    engagement: 421
+    commentsToLikes: 0.017560
+    id: ck9wcyv6pd9va0j7832clgwsi
+    verified: false
+    hashtags: "#olympics, #teamnl, #roadtothedream, #balance"
+  - username: "ab_aigerimm"
+    fullname: >-
+      Абилкадирова Айгерим Жанатовна
+    bio: >-
+      👑MISS EUROPE CONTINENTAL 🥇GRAPPLING WORLD CHAMPION 🥇JUDO ASIA CHAMPION 🇰🇿Athlete, Actress, Model PR/AD: abilkadirovaaigerim@gmail.com and DIRECT📩
+    location: "Russia"
+    followers: 927571
+    engagement: 363
+    commentsToLikes: 0.018705
+    id: ck9weiwh6kgzk0j78fefbgtuj
+    verified: false
+    hashtags: "#beforeandafter, #reels"
   - username: "krapivnikov11"
     fullname: >-
       Даниил Крапивников
@@ -18,7 +66,7 @@ profiles:
     commentsToLikes: 0.009240
     id: ck6u76zavju7g0j71op94o31x
     verified: false
-    hashtags: "#squad2drots, #wewillrocyou, #goalofthetournament"
+    hashtags: "#wewillrocyou, #goalofthetournament, #squad2drots"
   - username: "nifontova13"
     fullname: >-
       Anastasiya Nifontova
@@ -55,18 +103,6 @@ profiles:
     id: ck6u7fufgl9i70j71aeie1g3q
     verified: true
     hashtags: "#alexandervolkov, #teamstrela, #strelapromotion, #globalfightgym"
-  - username: "ab_aigerimm"
-    fullname: >-
-      Aigerim Abilkadirova
-    bio: >-
-      🥇GRAPPLING WORLD CHAMPION 🥇GRAPPLING ASIA CHAMPION 🥇JUDO ASIA CHAMPION 🇰🇿Athlete, Actress, Model @qamalladin.media Direct
-    location: "Russia"
-    followers: 325150
-    engagement: 218
-    commentsToLikes: 0.047277
-    id: ck9weiwh6kgzk0j78fefbgtuj
-    verified: false
-    hashtags: ""
   - username: "archie.aroyan"
     fullname: >-
       Archie Aroyan
@@ -91,40 +127,4 @@ profiles:
     id: ck55ntger6xvf0i116sz15gzg
     verified: true
     hashtags: "#3pointsinthe, #escapechallenge, #23"
-  - username: "lyakhova.olga.800"
-    fullname: >-
-      Ольга Ляховая💙💛
-    bio: >-
-      Nike athlete European Championship 🥈🥉🥉🥉 2014/2017/2018/2019 Olympic Games 2016 European Games 🥇🥇
-    location: "Russia"
-    followers: 14925
-    engagement: 975
-    commentsToLikes: 0.031083
-    id: ck5q9u60od02v0i11ig29ja1h
-    verified: false
-    hashtags: "#trainingcamp, #lyakhovaolga, #albania, #nikeathlete"
-  - username: "sbolbat50"
-    fullname: >-
-      Sergey Bolbat 🇺🇦
-    bio: >-
-      Football player of @fcshakhtar 🟧⬛️ and @uafukraine 🇺🇦🇺🇦🇺🇦 @nike athlete
-    location: "Russia"
-    followers: 7569
-    engagement: 1409
-    commentsToLikes: 0.021259
-    id: ckapcr0cn4uir0i781invlnd2
-    verified: false
-    hashtags: "#livingroomcup, #nike, #championsleague, #youcantstopus"
-  - username: "umyarov11"
-    fullname: >-
-      Nail Umyarov
-    bio: >-
-      @fcsm_official | @nike athlete
-    location: "Russia"
-    followers: 19585
-    engagement: 1673
-    commentsToLikes: 0.013216
-    id: ck5hjk0p7grkf0i111y3hzf64
-    verified: false
-    hashtags: "#playinside, #nikefootball, #mercurial, #youcantstopus"
 ---

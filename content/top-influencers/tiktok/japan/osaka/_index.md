@@ -1,11 +1,11 @@
 ---
-title: Top 10 TikTok Influencers In Osaka In 2023
+title: Top 10 TikTok Influencers In Osaka In 2024
 description: >-
-  Find top TikTok influencers in Osaka in 2023. Most popular hashtags: #osaka #japan #namba.
+  Find top TikTok influencers in Osaka in 2024. Most popular hashtags: #osaka #japan #namba.
 platform: TikTok
 hits: 22
-text_top: See the best TikTok accounts on inBeat.
-text_bottom: Our search engine holds 22 TikTok influencers like this in Osaka, Japan for you to pitch.
+text_top: Identify the top-rated TikTok influencers on inBeat.
+text_bottom: Our search engine has 22 TikTok influencers like this in Osaka, Japan for you to collaborate.
 profiles:
   - username: "yuruyuru_08"
     fullname: >-

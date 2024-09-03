@@ -1,130 +1,118 @@
 ---
-title: Top 10 Runners Instagram Influencers In Greece in 2023
+title: Top 10 Runners Instagram Influencers In Greece In 2024
 description: >-
-  Find top runners Instagram influencers in Greece in 2023. Most popular hashtags: #greece #running #fitness #runner.
+  Find top runners Instagram influencers in Greece in 2024. Most popular hashtags: #greece #summer #summertime.
 platform: Instagram
-hits: 11
-text_top: Identify the best Instagram influencers on inBeat.
-text_bottom: inBeat holds 11 Instagram influencers like this in Greece for you to collaborate.
+hits: 9
+text_top: Analyze the best Instagram accounts on inBeat.
+text_bottom: inBeat holds 9 Instagram influencers like this in Greece for you to collaborate.
 profiles:
-  - username: "penymetaxa"
-    fullname: >-
-      penymetaxa
-    bio: >-
-      @thelegionmgt 🇬🇷/🇨🇿|1st Runner Up Miss Young 2018
-    location: "Greece"
-    followers: 2528
-    engagement: 2870
-    commentsToLikes: 0.037756
-    id: ck5pvhspahy340i119at8lp6b
-    verified: false
-    hashtags: "#instaphoto, #bridalmakeup, #modeling, #editorial"
   - username: "marina_grigoriou_"
     fullname: >-
-      1st RunnerUp MISS HELLAS 2018👑
+      Marina Grigoriou🧸🎈
     bio: >-
-      🧸1st RUNNER UP MISS HELLAS 2018👑 🧚‍♀️ Journalist💁🏻‍♀️📝 & Professional MUA💄Bridal Makeup✨ •For inquiries dm📩 Latest YouTube Video:⬇️⬇️⬇️🧚🏻‍♀️
+      Owner @medusa_svolou @medusa.kolonaki 💫 🧚‍♀️Journalist💁🏻‍♀️📝 & Professional MUA💄Bridal Makeup✨ 1st RUNNER UP MISS HELLAS 2018👑 •For inquiries dm📩
     location: "Greece"
-    followers: 77987
-    engagement: 810
-    commentsToLikes: 0.005247
+    followers: 111356
+    engagement: 721
+    commentsToLikes: 0.187518
     id: ck5chpx39r8mk0i11a0nhx6ln
     verified: true
-    hashtags: "#danielwellington, #ad, #iconiclinkunitone, #memories"
-  - username: "myperformancepsychologist"
+    hashtags: ""
+  - username: "chefhalaayash"
     fullname: >-
-      Karim Ramadan
+      Hala Ayash هلا عياش
     bio: >-
-      ▪️Ψ MSc Sport & Exercise Psychology ▪️ Mountain Runner 📍Trikala 🇬🇷 | Beirut 🇱🇧 | Drammen 🇳🇴 Supported by @dynafitgreece @bikezonelebanon @nomadhoney
+      @mbc1 صباح الخير ياعرب إفطارنا غير •TV Presenter •Top Chef First Runner Up •Consultant Chef •Traveling •Fitness & Health
     location: "Greece"
-    followers: 3348
-    engagement: 1236
-    commentsToLikes: 0.068067
-    id: ckaoxynymfb910i78mqv9h6e9
-    verified: false
-    hashtags: "#mentaltraining, #running, #overtraining, #trailrunning"
+    followers: 368204
+    engagement: 89
+    commentsToLikes: 0.027294
+    id: ck6u1r87snenl0j71ogfnq5ak
+    verified: true
+    hashtags: "#paros, #japanese, #greece, #topchef"
   - username: "alexpapandreou"
     fullname: >-
       ALEXANDROS PAPANDREOU
     bio: >-
       Greek Chef 🍴Food Explorer 🎬Tv Chef 🎖Marathon runner
     location: "Greece"
-    followers: 37416
-    engagement: 160
-    commentsToLikes: 0.014617
+    followers: 39231
+    engagement: 149
+    commentsToLikes: 0.132307
     id: ck8svsp4scjtk0j78mzx70d9a
     verified: false
-    hashtags: "#pan, #ribellahummus, #healthyfood, #alexpapandreou"
-  - username: "damekellyholmes"
+    hashtags: "#alexpapandreou, #foodiesofinstagram, #instacool, #eats"
+  - username: "agichristine"
     fullname: >-
-      𝐊𝐞𝐥𝐥𝐲 𝐇𝐨𝐥𝐦𝐞𝐬 😁
+      𝐀𝐆𝐍𝐄𝐒 𝐂𝐇𝐑𝐈𝐒𝐓𝐈𝐍𝐄 𝐅𝐈𝐒𝐂𝐇𝐄𝐑
     bio: >-
-      Colonel,Dame, Double Olympic 🥇🥇 Global Transformational and MH Speaker Positivity, Mindest, Fɪᴛɴᴇss Follow @militaryinmotion for workouts 🏋🏽‍♂️💪🏽
+      @bossmodelsa #yoga & #running ☀️ 📍Zurich @agichristine_moves @themixmvmt / #DigitalCreator / @agichristine_creates oh, also love #Mountains 🏔️🏕️
     location: "Greece"
-    followers: 67036
-    engagement: 135
-    commentsToLikes: 0.099824
-    id: ck15rb1e971qp0i199nz0nu6q
-    verified: true
-    hashtags: "#workout, #abs, #strong, #workhard"
-  - username: "eiri_zah"
-    fullname: >-
-      Eirini Zahou 🍋
-    bio: >-
-      🎓𝗣𝗵𝘆𝘀𝗶𝗰𝗮𝗹 𝗲𝗱𝘂𝗰𝗮𝘁𝗶𝗼𝗻 & 𝗦𝗽𝗼𝗿𝘁 𝗦𝗰𝗶𝗲𝗻𝗰𝗲 🏋🏼‍♀️𝗙𝗶𝘁𝗻𝗲𝘀𝘀 & 𝘄𝗲𝗹𝗹𝗻𝗲𝘀𝘀 𝘁𝗿𝗮𝗶𝗻𝗲𝗿 💪🏽@newbalancegreece #teamNB
-    location: "Greece"
-    followers: 13137
-    engagement: 661
-    commentsToLikes: 0.028584
-    id: ck14gii2g5e4t0i19foojsmj3
+    followers: 19125
+    engagement: 155
+    commentsToLikes: 0.046255
+    id: ck5busxzhidu30i1148g98kmn
     verified: false
-    hashtags: "#streetstyle, #running, #indoortraining, #staysafe"
-  - username: "yulia_spirina_fit"
-    fullname: >-
-      Yulia Spirina
-    bio: >-
-      🇷🇺🇬🇷 Personal Trainer Fitness model Online coach QNT Ambassador @qntgreece @qntsportnutrition uliaspirin78@mail.ru📩
-    location: "Greece"
-    followers: 5148
-    engagement: 1081
-    commentsToLikes: 0.047704
-    id: ckap1r9wtvs600i78nrcb5bfy
-    verified: false
-    hashtags: "#fitnessmodel, #personaltrainer, #fitnessjourney, #reinaolga"
+    hashtags: "#snorklingtrip, #adidaswomen, #mermaidlife, #snorkeliningreece"
   - username: "jordigil77"
     fullname: >-
       Jordi Gil
     bio: >-
       Barcelona 📺TV journalist 7x Ironman Finisher 🏊🏽🚴🏽🏃🏽 Twitter: jordigil77
     location: "Greece"
-    followers: 2479
-    engagement: 1560
-    commentsToLikes: 0.058991
+    followers: 2530
+    engagement: 1388
+    commentsToLikes: 0.035305
     id: ck5zj2udcgufh0i14ig7aa1tq
     verified: false
-    hashtags: "#buongiorno, #estiu, #nofilter, #lockdown"
-  - username: "dora_panteli_"
-    fullname: >-
-      Dora Panteli🏀📊🎙🎓🎧✍🏻
-    bio: >-
-      🎥 Bball analyst @novasportsgr 🎙@euroleague 📻Radio @overfmgr 📺Game Time 🏀 @pamestoixima ⛹🏻‍♀️PUMA @sportswind_gr 👩🏻‍🏫Professor @ist_college
-    location: "Greece"
-    followers: 53852
-    engagement: 1012
-    commentsToLikes: 0.005024
-    id: ck6tzs586bjfk0j71umrzvv1k
-    verified: true
-    hashtags: "#bnw, #tvpresenter, #basketball, #olympiacos"
+    hashtags: "#nofilter, #verano, #vacances, #travelphotography"
   - username: "makis_kalaras"
     fullname: >-
       Makis Kalaras
     bio: >-
       🥈Paralympic athens 2004 🥇Europe Champion 🥇🥉World Champion World + Europe record in discus 3 times in Paralympics #athens2004 #beijing2008 #sochi2014
     location: "Greece"
-    followers: 6014
-    engagement: 1270
-    commentsToLikes: 0.025392
+    followers: 6534
+    engagement: 1278
+    commentsToLikes: 0.023353
     id: ck6tiotzo14su0j71s5uunb2e
     verified: false
-    hashtags: "#marathon, #handbike, #herbalife, #spetsesminimarathon"
+    hashtags: "#rushout, #herbalife, #spetsesminimarathon, #marathon"
+  - username: "damekellyholmes"
+    fullname: >-
+      𝐊𝐞𝐥𝐥𝐲 𝐇𝐨𝐥𝐦𝐞𝐬 😁
+    bio: >-
+      Global Inspirational Speaker Bringing Positivity and Energy No matter your age! Colonel,Dame, Double Olympic 🥇🥇 @militaryinmotion for fitness 🏋🏽‍♂️💪🏽
+    location: "Greece"
+    followers: 73484
+    engagement: 169
+    commentsToLikes: 0.065220
+    id: ck15rb1e971qp0i199nz0nu6q
+    verified: true
+    hashtags: "#sunrise, #focus, #alpaca, #follow"
+  - username: "greece_is"
+    fullname: >-
+      Greece Is
+    bio: >-
+      Your trip to Greece starts here. A premium magazine and online travel portal powered by Kathimerini. @ and # us to get reposted.
+    location: "Greece"
+    followers: 37628
+    engagement: 264
+    commentsToLikes: 0.011428
+    id: ck14hsi6zbwpv0i19t84ua20o
+    verified: false
+    hashtags: "#menoumespiti, #greekeaster, #travelphotography, #feedfeed"
+  - username: "officialtamta"
+    fullname: >-
+      Tamta
+    bio: >-
+      Autapati Out Now
+    location: "Greece"
+    followers: 220345
+    engagement: 190
+    commentsToLikes: 0.015011
+    id: ck0w523lx1j5y0i195381bf0q
+    verified: true
+    hashtags: "#fragrance, #hallowqueen, #masastonrythmo, #janoulisbirthdayparty"
 ---

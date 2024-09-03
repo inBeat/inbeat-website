@@ -1,12 +1,24 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Cali In 2023
+title: Top 10 Beauty Instagram Influencers In Cali In 2024
 description: >-
-  Find top beauty Instagram influencers in Cali in 2023. Most popular hashtags: #cali #colombia #beauty #pereira.
+  Find top beauty Instagram influencers in Cali in 2024. Most popular hashtags: #cali #beauty #colombia #fashion.
 platform: Instagram
-hits: 23
-text_top: See the most popular Instagram profiles on inBeat.
-text_bottom: inBeat holds 23 Instagram influencers like this in Cali, Colombia for you to connect with.
+hits: 24
+text_top: See the best Instagram influencers on inBeat.
+text_bottom: inBeat aggregates 24 Instagram influencers like this in Cali, Colombia for you to contact.
 profiles:
+  - username: "marrana.eats"
+    fullname: >-
+      Mariana Arango A
+    bio: >-
+      🌍 𝙫𝙞𝙖𝙟𝙖𝙢𝙤𝙨 𝙥𝙖𝙧𝙖 𝙘𝙤𝙢𝙚𝙧, 𝙘𝙤𝙢𝙚𝙢𝙤𝙨 𝙥𝙖𝙧𝙖 𝙫𝙞𝙖𝙟𝙖𝙧 👩🏼‍🍳chef ✈️ agencia de viajes 🍽 reviews y recetas 📲info
+    location: "Colombia"
+    followers: 62801
+    engagement: 134
+    commentsToLikes: 0.033615
+    id: ck5ch6qvwq7de0i11f0c2mnfo
+    verified: false
+    hashtags: "#viajes, #lima, #restaurantes, #travel"
   - username: "mcamilarodriguezf"
     fullname: >-
       María Camila Rodríguez
@@ -19,6 +31,18 @@ profiles:
     id: ck600tv4he9dz0i14ajb0997s
     verified: false
     hashtags: "#girl, #colombia, #beauty, #lifestyle"
+  - username: "la.sra.celin"
+    fullname: >-
+      CELIN GIRALDO
+    bio: >-
+      𝐀𝐬𝐞𝐬𝐨𝐫𝐚 𝐝𝐞 𝐌𝐨𝐝𝐚 𝐞 𝐈𝐦𝐚𝐠𝐞𝐧 🇨🇴 40% de mi vida ,Trabajo y💃🏼 Entrenamiento 💪🏻en Mis reels @glampingnieblasdedapa @garajede.lasracelin Mamá👧🏻👦🏼🧑🏽‍🦱
+    location: "Colombia"
+    followers: 98161
+    engagement: 83
+    commentsToLikes: 0.316228
+    id: ck5c0phsqtlbp0i113o732qkp
+    verified: true
+    hashtags: "#ootd, #motherhood, #style, #fashion"
   - username: "franciny_bautista"
     fullname: >-
       ╰☆☆ FRANCINY ☆☆╮
@@ -91,18 +115,6 @@ profiles:
     id: ckaozeaaolhsk0i78j6t8nydf
     verified: false
     hashtags: "#ibiza, #funny, #sunday, #colombiana"
-  - username: "marialejamirandap"
-    fullname: >-
-      -M A R I A  A L E J A N D R A-
-    bio: >-
-      📍Cali |Co •ℂ𝕣𝕖𝕒𝕟𝕕𝕠 𝕝𝕒 𝕧𝕚𝕕𝕒 𝕢𝕦𝕖 𝕒𝕞𝕠 • •MIP•|Icesi Creadora de 🧁:@factorycakebymale
-    location: "Colombia"
-    followers: 8470
-    engagement: 510
-    commentsToLikes: 0.041288
-    id: ckaouqrjw1esd0i78decx4wuk
-    verified: false
-    hashtags: "#playa, #picoftheday, #ootd, #repostdolookdodia"
   - username: "jeff_506"
     fullname: >-
       Jefferson Gutiérrez Romero
@@ -115,16 +127,4 @@ profiles:
     id: ck8t2yq1f17rs0j78sgcg99nw
     verified: false
     hashtags: "#bienvenido2021, #yovoy, #bogot, #travel"
-  - username: "urban.mua"
-    fullname: >-
-      Yuri Urbano/ Makeup Artist
-    bio: >-
-      Desarrollo Tecnico en Maquillaje Pro Directora en @tmakeupartist.school En Cali 🌈 Conoce las reglas y aprende como romperlas Mas información👇🏽
-    location: "Colombia"
-    followers: 28254
-    engagement: 170
-    commentsToLikes: 0.047671
-    id: ck5c3akc7ywz40i11kgbntj86
-    verified: false
-    hashtags: "#clasesdemaquillajeprofesional, #makeupartist, #maquillajeprofesional, #limpiezadebrochas"
 ---

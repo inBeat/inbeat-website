@@ -1,11 +1,11 @@
 ---
-title: Top 10 Hypebeast Instagram Influencers In New York In 2023
+title: Top 10 Hypebeast Instagram Influencers In New York In 2024
 description: >-
-  Find top hypebeast Instagram influencers in New York in 2023. Most popular hashtags: #hypebeast #newyork #newyorkcity #ig.
+  Find top hypebeast Instagram influencers in New York in 2024. Most popular hashtags: #hypebeast #newyork #ig #newyorkcity.
 platform: Instagram
-hits: 75
-text_top: See the most popular Instagram profiles on inBeat.
-text_bottom: inBeat aggregates 75 Instagram influencers like this in New York, United States for you to contact.
+hits: 87
+text_top: See the best Instagram profiles on inBeat.
+text_bottom: Our database has 87 Instagram influencers like this in New York, United States for you to collaborate.
 profiles:
   - username: "arley_us"
     fullname: >-
@@ -31,30 +31,30 @@ profiles:
     id: ck9whdjikxd190j78zqfyptur
     verified: false
     hashtags: "#way2ill, #ourmoodydays, #sony, #visualambassadors"
-  - username: "chasestash"
+  - username: "evan_nowak_"
     fullname: >-
-      CHA$E
+      TRAVEL 🌎 EVAN  NOWAK
     bio: >-
-      
+      Oh lawd he do be travelin
     location: "United States"
-    followers: 27494
-    engagement: 464
-    commentsToLikes: 0.022916
-    id: ck5zxy1z38vgr0i14qa5ohtb2
-    verified: true
-    hashtags: "#balenciagatriples, #outfitgrid, #offwhite, #dope"
-  - username: "byflore"
-    fullname: >-
-      Christopher Florentino "Flore"
-    bio: >-
-      New York Artist/Designer featured in @hypebeast & @wwd & @dwellmagazine @nakamurakeithharingcollection 🇺🇸🇮🇹 #ethereum
-    location: "United States"
-    followers: 40684
-    engagement: 86
-    commentsToLikes: 0.023116
-    id: ck5c8gqq89g4q0i11uxpe40a5
+    followers: 3762
+    engagement: 1876
+    commentsToLikes: 0.047982
+    id: ck0u9ga9b9pfh0i19kk5bucoy
     verified: false
-    hashtags: "#wolf, #hypebeastart, #modern, #hypebeast"
+    hashtags: "#pacollective, #pennsylvaniaphotographer, #earth, #fstopcommunity"
+  - username: "__graphic"
+    fullname: >-
+      Meshari ⚡️
+    bio: >-
+      Meshari Alsahli • Saudi Arabia 🇸🇦 • @sonyalpha , @lightroom • cityscape, landscape, coffee, travel ‏
+    location: "United States"
+    followers: 5982
+    engagement: 1486
+    commentsToLikes: 0.142957
+    id: ckaovjarz4srf0i787lukhg09
+    verified: false
+    hashtags: "#splendid, #riyadh, #wildernessculture, #darkmobs"
   - username: "sleepingplanes"
     fullname: >-
       Jeremy Perez-Cruz
@@ -67,30 +67,54 @@ profiles:
     id: ck0w4r144zz2m0i19jhfeepg8
     verified: false
     hashtags: "#street, #zonestreet, #streetleaks, #atlantecollective"
-  - username: "amaarae"
+  - username: "jessewelle"
     fullname: >-
-      at0mic angel
+      Jesse Wellens
     bio: >-
-      Melo Drama Mama. TAYDK Album Out Now.
+      🎬 Award-Winning Filmmaker | 🎥 YouTube Creator 🧬 Biohacking Expert | 💪 Fitness Enthusiast 🌟 Exploring the intersection of cinema, health & technology
     location: "United States"
-    followers: 60079
-    engagement: 1071
-    commentsToLikes: 0.022933
-    id: ck15sf724cpk20i197lpove15
+    followers: 1609381
+    engagement: 201
+    commentsToLikes: 0.010316
+    id: ck0tub2et6elm0i19xp6xrip6
     verified: true
-    hashtags: "#endsars, #endswat, #sarsmustgo, #endsarsnow"
-  - username: "evan_nowak_"
+    hashtags: "#mensfashion, #dog, #funny, #snowboarding"
+  - username: "chasestash"
     fullname: >-
-      TRAVEL 🌎 EVAN  NOWAK
+      CHA$E
     bio: >-
-      Oh lawd he do be travelin
+      
     location: "United States"
-    followers: 3762
-    engagement: 1876
-    commentsToLikes: 0.047982
-    id: ck0u9ga9b9pfh0i19kk5bucoy
+    followers: 27494
+    engagement: 464
+    commentsToLikes: 0.022916
+    id: ck5zxy1z38vgr0i14qa5ohtb2
+    verified: true
+    hashtags: "#mens, #fearofgod, #dope, #sneakerhustle"
+  - username: "hypeart"
+    fullname: >-
+      HypeArt
+    bio: >-
+      Work with us @hypemaker
+    location: "United States"
+    followers: 667216
+    engagement: 29
+    commentsToLikes: 0.019820
+    id: ck0tvndzbc0hc0i19b07u6i4a
+    verified: true
+    hashtags: "#sponsored"
+  - username: "maxloew"
+    fullname: >-
+      Max Loew || Travel, Adventure, Lifestyle, Automotive ||📍SF
+    bio: >-
+      @himaxloew Currently 📍California Teams ➾ @lskd // @polarpro // @bay.shooters ✉️ maxloewphoto@gmail.com
+    location: "United States"
+    followers: 75614
+    engagement: 299
+    commentsToLikes: 0.027789
+    id: ck0tyt3mnnxp30i19okrp31x2
     verified: false
-    hashtags: "#travelphotography, #eclectic, #fstopphotochallenge, #scenicpa"
+    hashtags: "#earth, #adorama, #earthofficial, #createnomatterwhat"
   - username: "karen_myers_"
     fullname: >-
       𝓚𝓪𝓻𝓮𝓷 𝓜𝔂𝓮𝓻𝓼❤️
@@ -103,28 +127,4 @@ profiles:
     id: ck15qwui551450i19ka0i1b8y
     verified: false
     hashtags: "#portrait, #calvinklein, #modellife, #mexicocity"
-  - username: "j2woo"
-    fullname: >-
-      간종우 Jong-woo Kan
-    bio: >-
-      🦦Associate Design Director @esteelauder 🎙#kpop Artist @j2woo.kpop ✨#travelphotographer #lifestyle @j2woo.travel 🍳#foodie in #nyc @j2woo.foodie
-    location: "United States"
-    followers: 42389
-    engagement: 209
-    commentsToLikes: 0.029044
-    id: ck15tyx8bkl8p0i198hpearqj
-    verified: false
-    hashtags: "#artofvisuals, #dirtybootsandmessyhair, #instahusband, #travel"
-  - username: "zimernyc"
-    fullname: >-
-      Zimer
-    bio: >-
-      Full Time Artist: Murals~Design~Architecture~Sculpture. Born and Raised in Queens Ny. Dm for commissions Zimernyc@gmail.com
-    location: "United States"
-    followers: 8139
-    engagement: 335
-    commentsToLikes: 0.066747
-    id: ck13a4nx1om0k0i193mxuw6jf
-    verified: false
-    hashtags: "#spraypaint, #stain, #love, #original"
 ---

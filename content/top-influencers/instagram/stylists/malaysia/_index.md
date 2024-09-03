@@ -1,12 +1,36 @@
 ---
-title: Top 10 Stylists Instagram Influencers In Malaysia In 2023
+title: Top 10 Stylists Instagram Influencers In Malaysia In 2024
 description: >-
-  Find top stylists Instagram influencers in Malaysia in 2023. Most popular hashtags: #throwback #stylist #stayhome.
+  Find top stylists Instagram influencers in Malaysia in 2024. Most popular hashtags: #stylist #gvf2023 #klflorist.
 platform: Instagram
-hits: 15
-text_top: Discover the top-rated Instagram profiles on inBeat.
-text_bottom: Our platform holds 15 Instagram influencers like this in Malaysia for you to work with.
+hits: 16
+text_top: See the best Instagram profiles on inBeat.
+text_bottom: inBeat holds 16 Instagram influencers like this in Malaysia for you to connect with.
 profiles:
+  - username: "euniceeunny"
+    fullname: >-
+      Eunice Martin Lim
+    bio: >-
+      Visual Storyteller Food/Prop Stylist Professional Photographer ✉️ eunice@tmlproduction.co 🇲🇾 KUL/Penang
+    location: "Malaysia"
+    followers: 47624
+    engagement: 82
+    commentsToLikes: 0.046580
+    id: ck14hd5n99q2b0i19gmwncvd3
+    verified: false
+    hashtags: "#cny, #galaxytroop, #cosmiccookware, #galaxys23fe"
+  - username: "alyazulaikha_"
+    fullname: >-
+      Alya.
+    bio: >-
+      • 5' feet petite | a wife, a mommy 🩷 • HIJAB STYLIST @lilitbyalya
+    location: "Malaysia"
+    followers: 94984
+    engagement: 22
+    commentsToLikes: 0.001715
+    id: ckap11f8vspjg0i78w9a11qtb
+    verified: false
+    hashtags: "#frenchtasticprotection, #homesweethome, #homedeco, #nutox"
   - username: "doniaabdelmaboud"
     fullname: >-
       D O N I A  ع M A B O U D
@@ -31,30 +55,6 @@ profiles:
     id: ck0w2djtzntda0i19z3lqfbwc
     verified: false
     hashtags: "#lagucintakita2, #styledbyyumi, #byyumimarina, #shopee1111bigsale"
-  - username: "euniceeunny"
-    fullname: >-
-      Eunice Martin Lim
-    bio: >-
-      Visual Storyteller Food/Prop Stylist Professional Photographer ✉️ admin@throughmylensproduction.com 🇲🇾 KUL/Penang NO REVIEW/PRODUCT SPONSORSHIP
-    location: "Malaysia"
-    followers: 49100
-    engagement: 138
-    commentsToLikes: 0.032068
-    id: ck14hd5n99q2b0i19gmwncvd3
-    verified: false
-    hashtags: "#liverhealth, #newyearnewme, #2021resolutions, #jolokokl"
-  - username: "andraastari"
-    fullname: >-
-      Andra Astari
-    bio: >-
-      Freelance Fashion Stylist I also do daily review of beauty stuff in here 💄✨ Collab/Endorsement: DM or 📩
-    location: "Malaysia"
-    followers: 20070
-    engagement: 266
-    commentsToLikes: 0.017507
-    id: ck6txx2m10csz0j71ftignzp2
-    verified: false
-    hashtags: "#patunganuntukberbagithr, #dirumahaja, #photoshootideas, #andralifehacks"
   - username: "fsstudiodesign"
     fullname: >-
       FLORENCIA  SECCHI
@@ -91,18 +91,30 @@ profiles:
     id: ck5chu1pargne0i11yjfsbt5b
     verified: false
     hashtags: "#stylist, #taipei, #throwback, #abao"
-  - username: "uyainaarshad"
+  - username: "talithabe"
     fullname: >-
-      UA
+      Talitha.
     bio: >-
-      🇲🇾 Actress & TV Host Manager: +60122278539 (Ridzwan) 🤍 @galeriariani 🤍 @prettian.my 🤍 @dyxycosmeticshq
+      📍Bali KL 19/7- 27/7 🏄🏼‍♀️🌊🎸🎶 • • @ripcurlmy “RCTALI” 15% @myprotein “TALITHA” 60% @casetify_my “15TALITHABE”
     location: "Malaysia"
-    followers: 1655470
-    engagement: 128
-    commentsToLikes: 0.006793
-    id: ck134c5q9vq550i19u0xatul8
+    followers: 95854
+    engagement: 315
+    commentsToLikes: 0.015501
+    id: ck5zuafv71zpf0i14vr8q31vk
     verified: true
-    hashtags: "#mua, #stylist, #familiduo, #ratuhijabista"
+    hashtags: "#gvf2023, #mummypleasestay, #talithapleasestay, #galaxyspacemy"
+  - username: "aishahjennifer"
+    fullname: >-
+      Aishah Sinclair
+    bio: >-
+      "My kids are my motivation, not my excuse." Radio announcer & TV host. Student of Life.
+    location: "Malaysia"
+    followers: 325639
+    engagement: 53
+    commentsToLikes: 0.014930
+    id: ckf5ry1gde81d0j23pibwvykc
+    verified: true
+    hashtags: "#mixbreakfast, #hanimokhta, #hanimokhtaraya2024, #hanimokhtaprimadonna"
   - username: "alleyzheng"
     fullname: >-
       Alley Zheng
@@ -115,16 +127,4 @@ profiles:
     id: ck6tmxs3l8qgf0j71xqadatio
     verified: false
     hashtags: "#guerlainmakeup, #louisvuitton, #happyvalentinesday, #poodlecznbd"
-  - username: "skybambi"
-    fullname: >-
-      Journal Scrapbooking | Tersh 🦌
-    bio: >-
-      Welcome to my journaling journey! Traveller: @globalfootprints. Brand: @skybambi_stationery. Sunday Scribbles info & link in bio!
-    location: "Malaysia"
-    followers: 60712
-    engagement: 234
-    commentsToLikes: 0.038940
-    id: ck0vy5ghk2bnb0i19trd8ev0f
-    verified: false
-    hashtags: "#art, #writemore, #scrapbooklayout, #covid19"
 ---

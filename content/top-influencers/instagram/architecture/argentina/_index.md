@@ -1,11 +1,11 @@
 ---
-title: Top 10 Architecture Instagram Influencers In Argentina In 2023
+title: Top 10 Architecture Instagram Influencers In Argentina In 2024
 description: >-
-  Find top architecture Instagram influencers in Argentina in 2023. Most popular hashtags: #architecture #ig #argentina #loves.
+  Find top architecture Instagram influencers in Argentina in 2024. Most popular hashtags: #architecture #buenosaires #arquitectura #ig.
 platform: Instagram
-hits: 63
-text_top: Discover the top-rated Instagram accounts on inBeat.
-text_bottom: Our search engine aggregates 63 Instagram influencers like this in Argentina for you to pitch.
+hits: 65
+text_top: See the top-rated Instagram influencers on inBeat.
+text_bottom: Our database holds 65 Instagram influencers like this in Argentina for you to pitch.
 profiles:
   - username: "alejandronicolascornejo"
     fullname: >-
@@ -31,18 +31,6 @@ profiles:
     id: ck5qbrsgcn3ij0i11sw4sc494
     verified: false
     hashtags: "#catedralmetropolitanadebuenosaires, #buenosairescity, #viajandopelomundo, #revistaviajar"
-  - username: "andregrevex"
-    fullname: >-
-      A N D R E A
-    bio: >-
-      📍 Buenos Aires • Argentina 🇦🇷 ✖️ Everything is about perspective 📷 Architecture | Travel | Interiors
-    location: "Argentina"
-    followers: 25164
-    engagement: 531
-    commentsToLikes: 0.029200
-    id: ck14k4rv3npzj0i19er362clc
-    verified: false
-    hashtags: "#eclipsesolar2020, #buenosaires, #argentina"
   - username: "philmusical"
     fullname: >-
       òscar dalmau
@@ -79,6 +67,54 @@ profiles:
     id: ck5zk10gtimip0i14awulz5be
     verified: false
     hashtags: "#officeinteriors, #offices, #barcelona, #designinspiration"
+  - username: "lorenapedace"
+    fullname: >-
+      Lorena Pedace ▫️Lifestyle&Deco
+    bio: >-
+      🏡Decorando mi casa ambiente por ambiente 🥄Recetas simples y fáciles ☀️Rutinas y día a día ❤️Familia 📍Buenos Aires
+    location: "Argentina"
+    followers: 140535
+    engagement: 35
+    commentsToLikes: 0.015029
+    id: ck6tv897kkqj90j71nbypnwef
+    verified: false
+    hashtags: "#interiordesign, #architecture, #homemade, #myhome"
+  - username: "buenosairestourist"
+    fullname: >-
+      BUENOS  AIRES  TOURIST
+    bio: >-
+      Te invitamos a vivir lo mejor de Buenos Aires 👉🏻 Gastronomía 👉🏻 Agenda cultural 👉🏻 Turismo
+    location: "Argentina"
+    followers: 117610
+    engagement: 116
+    commentsToLikes: 0.011672
+    id: ck6u2kioasc4h0j71xwq3e6yp
+    verified: false
+    hashtags: "#tango, #ig, #bigcity, #wanderlast"
+  - username: "unpapaconbarba"
+    fullname: >-
+      Ale Castagnolo
+    bio: >-
+      Beard wearing two time dad. Coffee person | Argentina ✉️ unpapaconbarba@gmail.com Tomo cafe en @muybueno.co
+    location: "Argentina"
+    followers: 55461
+    engagement: 1
+    commentsToLikes: 0.001667
+    id: ck14lhqbkuqex0i19negd6hy5
+    verified: false
+    hashtags: "#cocktail, #interiordesign, #snow, #coffeeset"
+  - username: "farrearq"
+    fullname: >-
+      Antonio Farré Arquitecto
+    bio: >-
+      Despacho fundado en la Ciudad de México.
+    location: "Argentina"
+    followers: 48611
+    engagement: 97
+    commentsToLikes: 0.004058
+    id: ck5ho1dk0or9c0i11d895rkrh
+    verified: false
+    hashtags: "#design, #instainteriors, #arquitecturacontemporanea, #confort"
   - username: "pablofe70"
     fullname: >-
       Pablo Fernández
@@ -91,40 +127,4 @@ profiles:
     id: ck9wecd9njnyk0j78pvn8qbdx
     verified: false
     hashtags: "#igersbuenosaires, #buenosaires, #bsasfotos, #likebuenosaires"
-  - username: "silviadarava"
-    fullname: >-
-      Silvia
-    bio: >-
-      No te empeñes en ser conocido sino en ser alguien a quien merezca la pena conocer.
-    location: "Argentina"
-    followers: 8146
-    engagement: 917
-    commentsToLikes: 0.158808
-    id: ck6ty9jxv2fmn0j71cfji4cxc
-    verified: false
-    hashtags: "#ilovepiques, #ig, #spain, #bcngaudi"
-  - username: "chu_morr"
-    fullname: >-
-      Chu
-    bio: >-
-      Enamorada del cielo, del mar y de mi tierra.
-    location: "Argentina"
-    followers: 7924
-    engagement: 927
-    commentsToLikes: 0.066271
-    id: ck0tyjc7zn2ka0i196kjhejob
-    verified: false
-    hashtags: "#architecture, #journeysofgirls, #valenciaturisme, #spain"
-  - username: "vale.rampi"
-    fullname: >-
-      Fotografía | Valeria Rampinini
-    bio: >-
-      ⚡ Explorar y crear 📩 valeria.rampinini@gmail.com 🇦🇷 Buenos Aires, Argentina
-    location: "Argentina"
-    followers: 3475
-    engagement: 1593
-    commentsToLikes: 0.105313
-    id: ck136fwc46aqa0i19oi49sq7m
-    verified: false
-    hashtags: "#postales, #hipargentina, #building, #new"
 ---

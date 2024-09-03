@@ -1,24 +1,12 @@
 ---
-title: Top 10 Music TikTok Influencers In Switzerland In 2023
+title: Top 10 Music TikTok Influencers In Switzerland In 2024
 description: >-
-  Find top music TikTok influencers in Switzerland in 2023. Most popular hashtags: #switzerland #foryou #swiss #suisse.
+  Find top music TikTok influencers in Switzerland in 2024. Most popular hashtags: #switzerland #music #fyp #foryou.
 platform: TikTok
-hits: 69
-text_top: Identify the best TikTok profiles on inBeat.
-text_bottom: inBeat holds 69 TikTok influencers like this in Switzerland for you to work with.
+hits: 64
+text_top: Discover the most popular TikTok profiles on inBeat.
+text_bottom: Our database holds 64 TikTok influencers like this in Switzerland for you to contact.
 profiles:
-  - username: "ashleyrdgs"
-    fullname: >-
-      𝘼𝙨𝙝𝙡𝙚𝙮
-    bio: >-
-      || Zurich || || insta ashley_rdgs || || musical.ly og || || Shadowbanned 🤡||
-    location: "Switzerland"
-    followers: 26500
-    engagement: 1177
-    commentsToLikes: 0.053125
-    id: ckck505pxppiq0j23p1v2n1hq
-    verified: false
-    hashtags: "#fy, #foryou, #sad, #zurich"
   - username: "israa_ber"
     fullname: >-
       Isra
@@ -79,18 +67,6 @@ profiles:
     id: ckc1zex1036x20j23jrzcp8bi
     verified: false
     hashtags: "#switzerland, #lanzarote, #2021, #funnyvideos"
-  - username: "andii.schwegler"
-    fullname: >-
-      ANDII🇨🇭SCHWEGLER
-    bio: >-
-      🇨🇭F⃣o⃣l⃣L⃣o⃣w⃣ m⃣e⃣🇨🇭 🇨🇭Gründer von👇🇨🇭 👉#tiktokertriffttiktoker👈
-    location: "Switzerland"
-    followers: 41600
-    engagement: 1388
-    commentsToLikes: 0.153637
-    id: ckbko1hf1i4z90j23lffq1szm
-    verified: false
-    hashtags: "#musiclover, #singer, #schlager, #tiktoktrend"
   - username: "tom.cruise95"
     fullname: >-
       Tom.Cruise95
@@ -127,4 +103,28 @@ profiles:
     id: ckai560c2qsh00i78zj88br4g
     verified: false
     hashtags: "#switzerland, #freediving, #girlswhofreedive, #fun"
+  - username: "myxima"
+    fullname: >-
+      xima
+    bio: >-
+      🇪🇸🇨🇭
+    location: "Switzerland"
+    followers: 23900
+    engagement: 1031
+    commentsToLikes: 0.039785
+    id: ckcdbwyx94u9i0j236o1y6ho3
+    verified: false
+    hashtags: "#rapfr, #fyp, #music, #pourtoii"
+  - username: "asteppiano"
+    fullname: >-
+      Gustav Astep
+    bio: >-
+      🎹 Pianist & Video Creator 🎥 💁‍♂️ Check out my Youtube Channel :)
+    location: "Switzerland"
+    followers: 16900
+    engagement: 1086
+    commentsToLikes: 0.031670
+    id: ck9dvwgl3mnd50j78xuwlihgm
+    verified: false
+    hashtags: "#shirtchange, #loop, #piano, #music"
 ---

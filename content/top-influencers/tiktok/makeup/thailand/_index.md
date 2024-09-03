@@ -1,10 +1,10 @@
 ---
-title: Top 10 Makeup TikTok Influencers In Thailand In 2023
+title: Top 10 Makeup TikTok Influencers In Thailand In 2024
 description: >-
-  Find top makeup TikTok influencers in Thailand in 2023. Most popular hashtags: #makeup #fyp #tiktok #foryou.
+  Find top makeup TikTok influencers in Thailand in 2024. Most popular hashtags: #makeup #fyp #tiktok #makeuptutorial.
 platform: TikTok
 hits: 27
-text_top: Identify the top-rated TikTok accounts on inBeat.
+text_top: Analyze the top-rated TikTok influencers on inBeat.
 text_bottom: Our platform aggregates 27 TikTok influencers like this in Thailand for you to work with.
 profiles:
   - username: "hyunyok"
@@ -102,7 +102,7 @@ profiles:
     commentsToLikes: 0.116282
     id: ckcp9jl5dednv0j23i5y4anmm
     verified: false
-    hashtags: "#tiktok, #misasakipets, #misasakifood, #hillssciencediet"
+    hashtags: "#tiktok, #misasakifood, #misasakipets, #chocolate"
   - username: "guzbell_def.g"
     fullname: >-
       guzbell_defg

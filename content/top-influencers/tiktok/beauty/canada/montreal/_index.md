@@ -1,11 +1,11 @@
 ---
-title: Top 10 Beauty TikTok Influencers In Montreal In 2023
+title: Top 10 Beauty TikTok Influencers In Montreal In 2024
 description: >-
-  Find top beauty TikTok influencers in Montreal in 2023. Most popular hashtags: #montreal #fyp #beauty #foryou.
+  Find top beauty TikTok influencers in Montreal in 2024. Most popular hashtags: #montreal #fyp #beauty #foryou.
 platform: TikTok
 hits: 11
-text_top: Discover the best TikTok influencers on inBeat.
-text_bottom: Our platform holds 11 TikTok influencers like this in Montreal, Canada for you to connect with.
+text_top: Identify the best TikTok profiles on inBeat.
+text_bottom: Our search engine has 11 TikTok influencers like this in Montreal, Canada for you to pitch.
 profiles:
   - username: "sarina.srj"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.036417
     id: ck9dx9akjsciz0j7814mrflao
     verified: false
-    hashtags: "#mua, #foryou, #montreal, #beauty"
+    hashtags: "#fyp, #tiktok, #makeup, #mua"
   - username: "meddexx"
     fullname: >-
       Meddexx 
@@ -78,7 +78,7 @@ profiles:
     commentsToLikes: 0.033204
     id: ck8qe3pseqveb0j7863m12jn0
     verified: false
-    hashtags: "#fragrance, #sexy, #perfume, #parfum"
+    hashtags: "#parfum, #funny, #makeup, #perfume"
   - username: "sonia_ben_dekhil"
     fullname: >-
       Sonia

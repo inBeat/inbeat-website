@@ -1,36 +1,72 @@
 ---
-title: Top 10 Models Instagram Influencers In Madrid In 2023
+title: Top 10 Models Instagram Influencers In Madrid In 2024
 description: >-
-  Find top models Instagram influencers in Madrid in 2023. Most popular hashtags: #madrid #model #modelomadrid #spain.
+  Find top models Instagram influencers in Madrid in 2024. Most popular hashtags: #madrid #model #spain #style.
 platform: Instagram
-hits: 231
-text_top: Analyze the top-rated Instagram profiles on inBeat.
-text_bottom: Our database has 231 Instagram influencers like this in Madrid, Spain for you to pitch.
+hits: 255
+text_top: Analyze the top-rated Instagram accounts on inBeat.
+text_bottom: Our platform holds 255 Instagram influencers like this in Madrid, Spain for you to work with.
 profiles:
-  - username: "josiito.12"
+  - username: "domenikadiana"
     fullname: >-
-      JOSE RUEDA 🌹
+      Diana Titova
     bio: >-
-      📍Madrid, 20. 🎓 Técnico Deportivo. 📩 joserueda00@outlook.com
+      Ukrainian baby🇺🇦 🇪🇦 UNO Models (MA) 🇭🇰 Synergy Models Madrid📍 Business contact: patricia@unomodels.com
     location: "Spain"
-    followers: 130751
-    engagement: 751
-    commentsToLikes: 0.011807
-    id: ck6tzzgrlcrcm0j71nchqj3ki
+    followers: 3040
+    engagement: 867
+    commentsToLikes: 0.047382
+    id: ckap0nufqr43a0i78943v1v3g
     verified: false
-    hashtags: "#malaga, #fuengirola, #spain, #model"
-  - username: "helenwearsit"
+    hashtags: "#ootd, #stradivarius, #stradilooks, #outfits"
+  - username: "issa_cabrera_"
     fullname: >-
-      HELEN ➵ Fashion➵Beauty ➵Inspo
+      Mama De Daniela
     bio: >-
-      ❉ Engineer & Fashion Blogger ✥ Collabs ➵ helenwearsit@hotmail.com ✼Shop my looks ➡️
+      📌 #sevilla CÓDIGO DESCUENTO SHEIN : issacabrera15
     location: "Spain"
-    followers: 40810
-    engagement: 117
-    commentsToLikes: 0.312956
-    id: ck55j699gwd4l0i11n32lvvkq
+    followers: 31342
+    engagement: 400
+    commentsToLikes: 0.181196
+    id: clnc00qxo5wxo0j0898lqcwl3
     verified: false
-    hashtags: "#bohochic, #beautyblogger, #wiwtoday, #zaraoutfit"
+    hashtags: "#vivir, #holiday, #art, #ootd"
+  - username: "salvagrc"
+    fullname: >-
+      𝕾𝖆𝖑𝖛𝖆𝖉𝖔𝖗 𝕲𝖆𝖗𝖈𝖎́𝖆
+    bio: >-
+      🌍| Madrid, España 📩| salvagv31@gmail.com
+    location: "Spain"
+    followers: 26170
+    engagement: 484
+    commentsToLikes: 0.044495
+    id: ck5zzqxsvc9ei0i14j273kmo8
+    verified: false
+    hashtags: "#model, #madrid, #fitness, #spain"
+  - username: "nattvillee"
+    fullname: >-
+      Natalia Villena Núñez *
+    bio: >-
+      - Madrid 📍 - 💌 nataliavillena@rimmeo.com - Soy un verdadero DESASTRE y eso es lo mejor que tengo para ofrecer ✨ 🤪
+    location: "Spain"
+    followers: 81204
+    engagement: 500
+    commentsToLikes: 0.007645
+    id: ckap8jf8qokuv0i788ya6nxyp
+    verified: false
+    hashtags: "#likesforlike, #live, #girls, #model"
+  - username: "micheljaureguiofficial"
+    fullname: >-
+      MICHEL JAUREGUI
+    bio: >-
+      🔸ACTOR Y CANTANTE 🔸 🦁El Rey León España 🇪🇸🇲🇽 🌎Twitter: @JaureguiMich 📍MADRID 📩Contrataciones: DobleM Talent Agency
+    location: "Spain"
+    followers: 8092
+    engagement: 398
+    commentsToLikes: 0.027228
+    id: ck6udnf6wm3fg0j712j2ry5qx
+    verified: false
+    hashtags: "#photooftheday, #mexico, #ibiza, #style"
   - username: "helen_felis"
     fullname: >-
       modelo en españa
@@ -43,6 +79,18 @@ profiles:
     id: ck5pxa29rqszx0i11wjd6ynmd
     verified: false
     hashtags: "#modelsspain, #modelomurcia, #vivo, #modelosalicante"
+  - username: "danielsmithstudio"
+    fullname: >-
+      SMITH FASHION STUDIO
+    bio: >-
+      Madrid Reserva tu sesión por privado 📩 "Activen las notificaciones de publicación" ⚠️
+    location: "Spain"
+    followers: 32433
+    engagement: 150
+    commentsToLikes: 0.032634
+    id: ck6u5jr9ja0yz0j71oz0373el
+    verified: false
+    hashtags: "#portrait, #fashion, #sesiondefotos, #modelo"
   - username: "juandepacheco"
     fullname: >-
       Juande Pacheco
@@ -78,53 +126,5 @@ profiles:
     commentsToLikes: 0.117783
     id: ck6tk3maa3xte0j71siy0i687
     verified: false
-    hashtags: "#madridfoto, #sesiondefotosmadrid, #modelmadrid, #shootingmadrid"
-  - username: "lour_homedes"
-    fullname: >-
-      Lourdes Homedes Ibáñez
-    bio: >-
-      🇪🇸SPANISH MODEL Home Madrid / From Zaragoza 🖥• Economist •Community manager •Web designer 🌈Founder of @mosscomunicacion
-    location: "Spain"
-    followers: 61137
-    engagement: 275
-    commentsToLikes: 0.037962
-    id: ck5hoovdppydn0i11r3krg8ga
-    verified: false
-    hashtags: "#fotografosespa, #instazaragoza, #fotografosespan, #zaragozando"
-  - username: "serendipityando"
-    fullname: >-
-      ⭐VALERIA⭐
-    bio: >-
-      Valeria Ortiz Teen Model 📍Madrid ~Spain 🇪🇦 Colaboraciones 📸 por Mensaje Directo o 💌 yoyva@hotmail.es
-    location: "Spain"
-    followers: 197936
-    engagement: 192
-    commentsToLikes: 0.029091
-    id: ck602sy41iyxs0i14f42h32cj
-    verified: false
-    hashtags: "#pullandbearcommunity, #filomena"
-  - username: "trisha__sg"
-    fullname: >-
-      Trisha/ Mara
-    bio: >-
-      🧜🏻‍♀️MODELO curvy alternativa 📸@maradenche_photo 💄makeup artist 👩‍🎤SG model 📍Madrid
-    location: "Spain"
-    followers: 17145
-    engagement: 254
-    commentsToLikes: 0.075909
-    id: ck6uhiw6i9dq90j71nc1bf885
-    verified: false
-    hashtags: "#sg, #pinkhair, #fantasyhair, #curvymodel"
-  - username: "officialnievesa"
-    fullname: >-
-      Nieves Álvarez
-    bio: >-
-      ▪️M O D E L▫️#FlashModaTVE H O S T ▪️A G E N T▫️SS&M Madrid▫️MUNICH MODELS ▪️F B @OfficialNievesA
-    location: "Spain"
-    followers: 348539
-    engagement: 141
-    commentsToLikes: 0.027350
-    id: ck0w0e0s4dpwk0i195b44wxxx
-    verified: true
-    hashtags: "#moda, #stephanerolland, #hautecouture, #fashion"
+    hashtags: "#madridfoto, #madridmodelo, #modelomadrid, #streetstylemadrid"
 ---

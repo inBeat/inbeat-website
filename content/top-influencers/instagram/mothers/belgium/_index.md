@@ -1,12 +1,24 @@
 ---
-title: Top 10 Mothers Instagram Influencers In Belgium In 2023
+title: Top 10 Mothers Instagram Influencers In Belgium In 2024
 description: >-
-  Find top mothers Instagram influencers in Belgium in 2023. Most popular hashtags: #momsofinstagram #motherhood #fashion.
+  Find top mothers Instagram influencers in Belgium in 2024. Most popular hashtags: #motivation #strong #yalevis.
 platform: Instagram
-hits: 33
-text_top: See the top-rated Instagram accounts on inBeat.
-text_bottom: Our platform has 33 Instagram influencers like this in Belgium for you to pitch.
+hits: 47
+text_top: Analyze the top-rated Instagram accounts on inBeat.
+text_bottom: Our database aggregates 47 Instagram influencers like this in Belgium for you to collaborate.
 profiles:
+  - username: "big_l_fishing"
+    fullname: >-
+      José Luis Mendez Acosta
+    bio: >-
+      1. Fisherman 2. Artist 3. Human being 4. Constantly bad Motherfucker
+    location: "Belgium"
+    followers: 24654
+    engagement: 304
+    commentsToLikes: 0.044403
+    id: ck15rs7ae9flo0i197ugy10fq
+    verified: false
+    hashtags: "#lucio, #brochet, #fishing, #pike"
   - username: "ursulavonderleyen"
     fullname: >-
       Ursula von der Leyen
@@ -43,18 +55,18 @@ profiles:
     id: ck135hbyy1f850i19oaqzxeio
     verified: false
     hashtags: "#sheingals, #ad, #leazboutique, #leazgirlz"
-  - username: "zowiedeville"
+  - username: "theglamrockinmomma"
     fullname: >-
-      Zoë ✨ Zowiedeville
+      Zoë ✨
     bio: >-
-      •Mother of 3 💕 •Mrs. To @dieltches 💍🖤 •Surviving on coffee ☕️ •Belgium 📍 •
+      •It's only rock n roll baby⚡ • •Mother of 3 💕 •Mrs. To @dieltches 💍🖤 •Surviving on coffee ☕️ •Belgium 📍 •
     location: "Belgium"
-    followers: 20081
-    engagement: 341
-    commentsToLikes: 0.029324
+    followers: 19277
+    engagement: 274
+    commentsToLikes: 0.024241
     id: ckaos7w49qi0l0i78x4ecufbc
     verified: false
-    hashtags: "#vintagestyle, #vintageinspired, #dailypinup, #rockabilly"
+    hashtags: "#80s, #mullethairstyle, #70s, #altgirl"
   - username: "tijanadraws"
     fullname: >-
       Tijana Lukovic
@@ -107,24 +119,12 @@ profiles:
     fullname: >-
       maigalal
     bio: >-
-      -Celebrity stylist - Costumes making for movies - Fashion consultant - Personal shopper And a mother to 3 loving angels
+      Costume designer & stylist for the golden parade 🇪🇬 -Celebrity stylist - Costumes making for movies - Fashion consultant And mother to 3 loving angels
     location: "Belgium"
-    followers: 231410
-    engagement: 126
-    commentsToLikes: 0.020112
+    followers: 254675
+    engagement: 83
+    commentsToLikes: 0.018382
     id: ck138ljxigto50i19p20lej33
     verified: false
-    hashtags: "#shootingad, #egyptiancelebrity, #styledbymaigalal, #sahraneen"
-  - username: "carolien.machiels"
-    fullname: >-
-      Carolien machiels
-    bio: >-
-      ♥ Dm for collaboration Mommy of 2 ♥ Eden & Enora ♥ Baby N•3 june 2021
-    location: "Belgium"
-    followers: 3481
-    engagement: 1914
-    commentsToLikes: 0.146514
-    id: ckf5xaqb0v05l0j23z9ykm0jq
-    verified: false
-    hashtags: "#kids, #beautiful, #photooftheday, #children"
+    hashtags: "#egyptiancelebrity, #photoshoot, #fashion, #fashionstylist"
 ---

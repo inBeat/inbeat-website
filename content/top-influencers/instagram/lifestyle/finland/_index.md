@@ -1,130 +1,130 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Finland In 2023
+title: Top 10 Lifestyle Instagram Influencers In Finland In 2024
 description: >-
-  Find top lifestyle Instagram influencers in Finland in 2023. Most popular hashtags: #home #hyvinvointi #finland.
+  Find top lifestyle Instagram influencers in Finland in 2024. Most popular hashtags: #helsinki #suomi #el #kes.
 platform: Instagram
-hits: 105
-text_top: Analyze the top-rated Instagram accounts on inBeat.
-text_bottom: Our database has 105 Instagram influencers like this in Finland for you to connect with.
+hits: 97
+text_top: Identify the top-rated Instagram profiles on inBeat.
+text_bottom: Our database has 97 Instagram influencers like this in Finland for you to work with.
 profiles:
-  - username: "wellness_mia"
+  - username: "iinalaura"
     fullname: >-
-      M i a
+      Iina Hyttinen
     bio: >-
-      Finland /Jns 🇫🇮 Psychologist Active lifestyle, positive mind 📷@miamielonen Sport | Fitness | Wellness | Nature | Outdoors | Modeling
+      👸31 💜Mom of 4 💜 👶👧🏼👩👩 📩 Contact iina.hyttinen@gmail.com or DM 💻Family lifestyle blogger Tiktok @iinalaura
     location: "Finland"
-    followers: 5328
-    engagement: 1657
-    commentsToLikes: 0.082279
-    id: ckaos1gg8pq6x0i78e3kteybb
+    followers: 30002
+    engagement: 521
+    commentsToLikes: 0.037348
+    id: ck138z611iqcr0i19itcqavap
     verified: false
-    hashtags: "#fitnesslifestyle, #workoutoutfit, #tattooedgirls, #strongmindset"
-  - username: "tuuliinalahdensuo"
+    hashtags: "#elokuiset2021, #vauva2021, #perhe, #perheblogit"
+  - username: "empuskaa"
     fullname: >-
-      Tuuliina | Work-OOTD-Lifestyle
+      Emilia Korpela | lifestyle-sisällöntuottaja
     bio: >-
-      Bisnesmimmin arkea ja asuja! 25, ♍️ 📚 BBA Turku UAS/Law TLU 📈 Work life 💃🏼 OOTD 💅🏻 Beauty 🤳🏻 Lifestyle #chicventuresblog
+      💫 perhe - lifestyle tili 📍Oulu ✨storyissa aktiivista arkielämää 📸 @ikuistaenemilia 📧 emiliakorpela@outlook.com
     location: "Finland"
-    followers: 4714
-    engagement: 1053
-    commentsToLikes: 0.119915
-    id: ckaot3v66u9mo0i78nfrfbena
+    followers: 10819
+    engagement: 748
+    commentsToLikes: 0.112067
+    id: ck5zt5v8rzsks0i14hjayymlr
     verified: false
-    hashtags: "#hairstyle, #kela, #kelat, #reels"
-  - username: "oliviavidael"
+    hashtags: "#suomi, #kes, #kotimaanmatkailu, #taapero"
+  - username: "tiinamurro"
     fullname: >-
-      
+      T I I N A 🐆
     bio: >-
-      ⁣⁣⁣ Lifestyle- & kauneusblogi storyhöpöttelyjen kera 👡⁣⁣ ⁣⁣HELSINKI | olivia.bigovic@hotmail.com 📰⁣⁣⁣⁣⁣⁣⁣ ⁣⁣⁣
+      💥Äiti | monialayrittäjä | tekijä 💥Pukeutumisneuvoja | meikkitaiteilija | mainosmalli | korttikuningatar 💥Lifestyleä 💥Lahti 💥tiina.murro@gmail.com
     location: "Finland"
-    followers: 13404
-    engagement: 1721
-    commentsToLikes: 0.012391
-    id: ck6u5i66e9rvl0j713oy1llni
+    followers: 10569
+    engagement: 467
+    commentsToLikes: 0.313799
+    id: ck6tirvbo1ay00j71dqzbf4aa
     verified: false
-    hashtags: "#crueltyfree, #asupostaus, #allergycertified, #ivyaia"
-  - username: "annituuliali"
+    hashtags: "#lifesuomi, #musiikki, #yst, #auroracottage"
+  - username: "anniinajalkanen"
     fullname: >-
-      Anni Lipponen
+      Anniina Jalkanen
     bio: >-
-      🤍 Fitness lifestyle ▪️ @icaniwill -20% ’ANNIL20’ ▪️ @myproteinfi -42% ’ANNIMP’ ▪️ @lohilo -10% ’ANNI’ 📨 Contacts: annilipponen@outlook.com
+      🌊 Muutto saaristoon vanhaan hirsitaloon 🏆 Vuoden Lifestylekanava-20 🐂 @tarinoidentila 📩 anniinajalkanen@gmail.com 🎥 YOUTUBE:
     location: "Finland"
-    followers: 3355
-    engagement: 1430
-    commentsToLikes: 0.111831
-    id: ckap4wbp796e40i788mk2eyzb
+    followers: 49255
+    engagement: 696
+    commentsToLikes: 0.033841
+    id: ck8t6lapye0890j78uktvsk93
     verified: false
-    hashtags: "#lohilo, #lohiloambassador, #idealofsweden, #lohiloaf"
+    hashtags: "#joululahjaidea, #perheel, #el, #it"
+  - username: "anniidaaa"
+    fullname: >-
+      Anni-iida maria
+    bio: >-
+      BEAUTY | FASHION AND LIFESTYLE🤍💙 🤍23 💇🏼‍♀️@hairbyanniiida 🤍Jyväskylä 🤍mom to one👧🏼
+    location: "Finland"
+    followers: 32684
+    engagement: 424
+    commentsToLikes: 0.017847
+    id: ck15t1bbkfuoo0i19781szdiy
+    verified: false
+    hashtags: "#happy, #jyv, #baby, #blondehair"
   - username: "imsagr"
     fullname: >-
-      Sagr Hamdan | صقر حمدان
+      Walid Al-Shahin
     bio: >-
-      🧔🏾 #Influencer | #Menswear | #Lifestyle 📩 DM TO COLLABORATE 🌍 #Finland 🇫🇮 / 📍#Helsinki
+      | Menswear | Fashion | Lifestyle | 🌍 Finland 🇫🇮 | Espoo📍 🏷@pulsnutritionfinland ( CODE : WALID ) -25% ✉️ For business inquiries DM
     location: "Finland"
-    followers: 24738
-    engagement: 241
-    commentsToLikes: 0.261326
+    followers: 12344
+    engagement: 477
+    commentsToLikes: 0.051346
     id: ck0w4e6rey53j0i19svsiy9od
     verified: false
-    hashtags: "#prgifted, #papaya, #tb, #aloevera"
-  - username: "mikaelakosk"
+    hashtags: "#mainos, #menstyle, #suomi, #helsinki"
+  - username: "annimaaninka"
     fullname: >-
-      Mikaela Koskela • Lifestyle
+      Anni Maaninka
     bio: >-
-      Yrittäjä, content creator ja lifestyle-bloggaaja 🕊🌈 Founder: @mk_influence Contact: mikaela.koskela@gmail.com
+      active lifestyle, holistic wellbeing & traveling 🫶🏽 MSc in Economics - social media & influencer marketing consultant business: maaninkaanni@gmail.com
     location: "Finland"
-    followers: 5495
-    engagement: 389
-    commentsToLikes: 0.016636
-    id: ck5zwvke76udp0i143rpfqg9g
+    followers: 20225
+    engagement: 253
+    commentsToLikes: 0.026393
+    id: ck15qovbz3x8z0i190mx0bh4q
     verified: false
-    hashtags: "#myhelsinki, #punavuori, #kes, #helsinkinightlife"
-  - username: "macedo_sofia"
+    hashtags: "#laplandfinland, #grwm, #winterstyle, #mustio"
+  - username: "essimaaninka"
     fullname: >-
-      Sofia Macedo
+      Essi Maria Maaninka
     bio: >-
-      Ｌｉｆｅｓｔｙｌｅ Assessoria: (17) 99737-3973 - Kamila Marca própria - @smbeautyline - @closeetprivysofia
+      Helsinki, Finland 🇫🇮 Event Manager @valve.fi 🤳🏼 Lifestyle, food, travel, sport & adventures 💌 e.maaninka@gmail.com
     location: "Finland"
-    followers: 51975
-    engagement: 142
-    commentsToLikes: 0.153519
-    id: ck6ttr4t8c4s50j711fr0apji
+    followers: 19016
+    engagement: 193
+    commentsToLikes: 0.025427
+    id: ck6tist5n1cts0j71jv2ttqjk
     verified: false
-    hashtags: "#tobackthursday"
-  - username: "janniamanda"
+    hashtags: "#ramsauamdachstein, #esmolomailee, #esmosuosittelee, #austria"
+  - username: "sartorial_finn"
     fullname: >-
-      Janni Keituri
+      The Sartorial Finn || Johan W.
     bio: >-
-      lifestyle • photography • home decor • fashion • travel Content creator from Finland 📸 E-mail: contact@janniehari.fi 💌 @aititreffit Podcast 🎙️🎧
+      ▪️ Menswear & Lifestyle content creator ▪️ Sustainable and timeless style ▪️ I occasionally wear suits
     location: "Finland"
-    followers: 16491
-    engagement: 457
-    commentsToLikes: 0.006261
-    id: ck8szpvh2pa3a0j78ybk8gl9w
+    followers: 113450
+    engagement: 58
+    commentsToLikes: 0.050603
+    id: ck8tdck3y2t650j78rre7ous2
     verified: false
-    hashtags: "#kitchen, #toddlerlife, #valio, #tarramonsteri"
-  - username: "actsoininen"
+    hashtags: "#classicmenswear, #bespoke, #pittiuomo, #styleconsultant"
+  - username: "piiatuuli"
     fullname: >-
-      ACT THANA SOININEN
+      Interior by Piia
     bio: >-
-      Beauty & Lifestyle Espoo, Finland 🇫🇮🤍☃️ Collab: Email or DM
+      interior | lifestyle home in Finland | 📧 piiatuuli@gmail.com
     location: "Finland"
-    followers: 24670
-    engagement: 325
-    commentsToLikes: 0.038747
-    id: ck55oxgc79bxd0i11adu8c7o2
+    followers: 81286
+    engagement: 50
+    commentsToLikes: 0.035896
+    id: ck14losg9vqgw0i19p5ki6pzb
     verified: false
-    hashtags: "#thaiengagement, #ootd, #fall, #finland"
-  - username: "viena_k"
-    fullname: >-
-      Viena
-    bio: >-
-      Helsinki based lifestyle blogger, cake book author, flower lover & musician 📖🍰🌸🎶 luukkuja@gmail.com
-    location: "Finland"
-    followers: 17573
-    engagement: 581
-    commentsToLikes: 0.062534
-    id: ck0ubx861fgqe0i19bnmw8q2g
-    verified: false
-    hashtags: "#yst, #finnishdesign, #gl, #vienakreseptit"
+    hashtags: "#sisustusinspiraatio, #hankolife, #maisema, #tyt"
 ---

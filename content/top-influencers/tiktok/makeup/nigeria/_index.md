@@ -1,11 +1,11 @@
 ---
-title: Top 10 Makeup TikTok Influencers In Nigeria In 2023
+title: Top 10 Makeup TikTok Influencers In Nigeria In 2024
 description: >-
-  Find top makeup TikTok influencers in Nigeria in 2023. Most popular hashtags: #fyp #foryou #foryoupage #duet.
+  Find top makeup TikTok influencers in Nigeria in 2024. Most popular hashtags: #fyp #foryoupage #foryou #duet.
 platform: TikTok
 hits: 12
-text_top: See the most popular TikTok influencers on inBeat.
-text_bottom: Our database aggregates 12 TikTok influencers like this in Nigeria for you to contact.
+text_top: Identify the best TikTok profiles on inBeat.
+text_bottom: inBeat has 12 TikTok influencers like this in Nigeria for you to work with.
 profiles:
   - username: "tinanutcrazy"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.084275
     id: ck90z7dakcup00j782nf3in88
     verified: false
-    hashtags: "#xyzbca, #nails, #fyp, #viral"
+    hashtags: "#makeuptutorial, #beauty, #nails, #foryoupage"
   - username: "deizwa"
     fullname: >-
       Deizwa
@@ -66,7 +66,7 @@ profiles:
     commentsToLikes: 0.198228
     id: ckb19yitvy6e40j23m0gjt1o2
     verified: false
-    hashtags: "#fyp, #longe, #salochallenge, #duet"
+    hashtags: "#duet, #longe, #jhayneey, #fyp"
   - username: "cyrilna_n"
     fullname: >-
       Ndunaka Cynthia

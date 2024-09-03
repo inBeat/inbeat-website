@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fitness TikTok Influencers In Ireland In 2023
+title: Top 10 Fitness TikTok Influencers In Ireland In 2024
 description: >-
-  Find top fitness TikTok influencers in Ireland in 2023. Most popular hashtags: #fitness #fyp #irish #caloriedeficit.
+  Find top fitness TikTok influencers in Ireland in 2024. Most popular hashtags: #fitness #fyp #irish #caloriedeficit.
 platform: TikTok
-hits: 16
-text_top: Discover the top-rated TikTok profiles on inBeat.
-text_bottom: inBeat holds 16 TikTok influencers like this in Ireland for you to work with.
+hits: 17
+text_top: Discover the best TikTok profiles on inBeat.
+text_bottom: Our search engine aggregates 17 TikTok influencers like this in Ireland for you to connect with.
 profiles:
   - username: "shaunasdancefit"
     fullname: >-

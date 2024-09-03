@@ -1,130 +1,130 @@
 ---
-title: Top 10 Crossfit Instagram Influencers In United States In 2023
+title: Top 10 Crossfit Instagram Influencers In United States In 2024
 description: >-
-  Find top crossfit Instagram influencers in United States in 2023. Most popular hashtags: #crossfit #fitness #healthylifestyle.
+  Find top crossfit Instagram influencers in United States in 2024. Most popular hashtags: #crossfit #crossfitgames #fitness.
 platform: Instagram
-hits: 1122
-text_top: See the most popular Instagram profiles on inBeat.
-text_bottom: Our database holds 1122 Instagram influencers like this in United States for you to work with.
+hits: 1166
+text_top: Discover the top-rated Instagram accounts on inBeat.
+text_bottom: Our search engine aggregates 1166 Instagram influencers like this in United States for you to contact.
 profiles:
-  - username: "issavegas"
+  - username: "crossfit"
     fullname: >-
-      Issa Vegas  ✨
+      CrossFit
     bio: >-
-      CROSSFIT-GYM GIRL 🏋🏼‍♀️ DISCIPLINE. DEDICATED. DETERMINATION. Miami📍 Backup @fitmaree
+      For over 20 years, CrossFit has delivered life-changing results to people of all ages and fitness levels. Find a gym near you ↓
     location: "United States"
-    followers: 9140437
-    engagement: 111
-    commentsToLikes: 0.005730
-    id: ckaoztb41nb460i78e330g437
-    verified: true
-    hashtags: "#energydrink, #fashionnovapartner, #bangenergy"
-  - username: "mathewfras"
-    fullname: >-
-      Mathew Fraser
-    bio: >-
-      16-17-18-19-20 CrossFit Games Champ|UVM Mechanical Engineer|@321podium|@Nike|@RogueFitness|@gowod_mobilityfirst|@beam|@athleticbrewing|@hwpotraining
-    location: "United States"
-    followers: 2480480
-    engagement: 75
-    commentsToLikes: 0.004232
-    id: ck0ttrv0t41ze0i19q4poa6g7
-    verified: true
-    hashtags: "#hwpo, #crossfit, #podium, #hwpotraining"
-  - username: "sean_c_larkin"
-    fullname: >-
-      Sean Larkin
-    bio: >-
-      Popo 👮🏻 Part time crossfitter Analyst on A&E TV’s hit show LivePD Host of A&E’s TV show PD CAM #BeAgeless Twitter: @sean_c_larkin
-    location: "United States"
-    followers: 247525
-    engagement: 1053
-    commentsToLikes: 0.026883
-    id: ck55ojy938i1y0i11gp66rlq5
-    verified: true
-    hashtags: "#imasavage, #mycathasissues, #tulsa, #hammeroralladin"
-  - username: "fioredilascio"
-    fullname: >-
-      🧿
-    bio: >-
-      Bailarina. Coreografa. Profesora de baile, ritmos y fitness. Crossfit. Derecho UNT. @frd.dance owner ✨
-    location: "United States"
-    followers: 17836
-    engagement: 672
-    commentsToLikes: 0.045501
-    id: ck6ufuu7hz9g50j71rau3kh9k
+    followers: 1162159
+    engagement: 93
+    commentsToLikes: 0.014129
+    id: ckaos5sp9q7yu0i78vih109h5
     verified: false
-    hashtags: "#tuc, #baile, #26m, #dance"
-  - username: "fitmomof2whojeeps"
+    hashtags: "#crossfit, #health, #fitness, #crossfitgames"
+  - username: "guadimachado"
     fullname: >-
-      Kristen
+      GUADI MACHADO 🐆
     bio: >-
-      Aerial🎪Cooking🍲Comedy🤣Crossfit🏋️‍♀️Dobermans🐶FAMILY💗FRIENDS👭Jeeps🏔Mustangs🏎 Raptors🦖Surfing🏄🏽‍♀️ Snowboarding🏂 Use code: FITMOM20 @detailgarageraleigh
+      CO @fitwaypty Crossfit Regional Athlete 🇦🇷 💪🏽 GUADI10 % @lycanfitnesspa ⚡️ Guadimachado % @bblatino507
     location: "United States"
-    followers: 19033
-    engagement: 1035
-    commentsToLikes: 0.035239
-    id: ck0w59gty2k460i19g26xhiro
+    followers: 21984
+    engagement: 433
+    commentsToLikes: 0.015671
+    id: ck14k8ywpocff0i19ifn6oj4w
     verified: false
-    hashtags: "#bikini, #jeepin, #girlswhodetail, #annamariaislandflorida"
-  - username: "nadja.pries"
+    hashtags: "#art, #atlasnutrition, #nutritionforrealfitness, #nutrici"
+  - username: "nickitee.fit"
     fullname: >-
-      Nadja Pries | Athlete
+      Nicki Torreggiani
     bio: >-
-      A life full of crossfit & downhill ✨former bmx race pro & 🇧🇷 2016 Olympian 🔥@crossfitdistrict18 🎽@renerosa_trikotmanufaktur
+      📍 New York 🗽 🤓 NASM & CF-L1 Trainer 🏋🏻‍♀️ Weightlifting ➡️ CrossFit 💪CrossFit Games Athlete '23 (Team) 🫶🏻 @conquerathlete
     location: "United States"
-    followers: 8122
-    engagement: 984
-    commentsToLikes: 0.028159
-    id: ck5q3an1mk0j60i1196bxnovq
+    followers: 26201
+    engagement: 5489
+    commentsToLikes: 0.037842
+    id: ck8t5yn9zbol10j78vzbc0ker
     verified: false
-    hashtags: "#healthylifestyle, #mtblife, #mtbgirl, #mountainlove"
-  - username: "_brialee"
+    hashtags: "#liftheavy, #crossfitgirls, #olympicweightlifting, #fyp"
+  - username: "rasmuswandersen"
     fullname: >-
-      Bria Lee
+      Rasmus Wisbech Andersen
     bio: >-
-      🌎 EP, Texas 😊 Spread positivity & be kind 📸 Health & Fitness Content Creator 💪🏽 CrossFitter Marketing Manager @macrostax 📧 brialee3@gmail.com
+      5 x CrossFit Games Athlete (14’ Fittest On Earth Team) Working @grownstrong
     location: "United States"
-    followers: 133405
-    engagement: 298
-    commentsToLikes: 0.028375
-    id: ck1354hvrznx70i1955ojh1p3
+    followers: 47539
+    engagement: 458
+    commentsToLikes: 0.011108
+    id: ck0vwej2btc1v0i19vvecfuqm
     verified: false
-    hashtags: "#workout, #snatch, #fullworkout, #fitness"
-  - username: "madfit_lifestyle"
+    hashtags: "#notsponsored, #preworkout, #supergreens, #tbt"
+  - username: "aaleman305"
     fullname: >-
-      María De La Cámara
+      Andres Aleman 🐘
     bio: >-
-      •FitMom Lifestyle •OCR & Triathlon •Crossfit & Climbing •🔜 Maraton •@spartanracees Ambassador 🇪🇸 •@noccospain Athlete •@wodndone •@climbskinspain
+      •MIA🌴 •Olympic Weightlifting Coach •CrossFit L-2 @lululemon - Ambassador #teamSOUL @teamsoulftl & @teamsoulmiami @nocco.usa - Ambassador
     location: "United States"
-    followers: 70582
-    engagement: 214
-    commentsToLikes: 0.049877
-    id: ck5cjzhmnvt6a0i115ka23dhz
+    followers: 5064
+    engagement: 415
+    commentsToLikes: 0.056232
+    id: cl4kuhricsqk60i23vir7vmy3
     verified: false
-    hashtags: "#bluemonday, #stretching, #mobility, #crossfit"
-  - username: "iamdapower"
+    hashtags: "#teamsoul, #thesweatlife, #lululemonambassador, #lululemo"
+  - username: "michellebasnett_"
     fullname: >-
-      Lucas Cancelier
+      Michelle Basnett
     bio: >-
-      PAIN IS TEMPORARY Rugby - Crossfit 🇪🇸 🇦🇷 🇺🇸 📍Delray Beach, FL 📩cancelier.unlp@hotmail.com ———— @epifaniapatagonia
+      🇿🇦🇺🇸 2021 CrossFit Games Athlete @bornprimitive
     location: "United States"
-    followers: 133294
-    engagement: 838
-    commentsToLikes: 0.011928
-    id: ckap3445h1han0i78p3bhs04e
+    followers: 196804
+    engagement: 496
+    commentsToLikes: 0.009207
+    id: ckybz31yknspq0j23u7v31nwz
     verified: false
-    hashtags: "#fl, #delraybeach, #tbt, #throwbackthursday"
-  - username: "eugenechoimd"
+    hashtags: "#iykyk, #thicknoodlesare"
+  - username: "rebeccafuselier"
     fullname: >-
-      Eugene Choi, MD 🇺🇸🇰🇷
+      Rebecca Fuselier
     bio: >-
-      Physician. Princeton 🐯, Cornell MD👨‍⚕️, UCLA-trained CrossFit doctor MD-L1. Promoter of #fitnessforlife
+      ⚡️ BOLT⚡️ @crossfitbolt 2016, 2017, 2022 CrossFit Games Athlete ❤️‍🔥 #BIGBecca - Sponsors: 💦 @go_resn
     location: "United States"
-    followers: 42182
-    engagement: 361
-    commentsToLikes: 0.038358
-    id: ck8sz2lqsmxr60j78jll4icn1
+    followers: 397657
+    engagement: 450
+    commentsToLikes: 0.009146
+    id: cl70rxfdbosog0i23hwjlxxv1
     verified: false
-    hashtags: "#fitspo, #dadbod, #fitdoctorsofinsta, #fitover40"
+    hashtags: "#bigbecca, #ownwhoyouare, #crossfitbolt, #togetherastorm"
+  - username: "shorunke"
+    fullname: >-
+      David Shorunke
+    bio: >-
+      🏃🏽 CrossFit Games Athlete 🇬🇧 2023 UK Fittest Man 📱 @relentlessmethod 🦖 @apex___athletics 🇬🇧 in 🇸🇪 ⚒ #SeeYouAtWork
+    location: "United States"
+    followers: 28668
+    engagement: 693
+    commentsToLikes: 0.009369
+    id: ck15twrnckaov0i192lkb0328
+    verified: false
+    hashtags: "#lhnutrition, #fitaideurope, #seeyouatwork, #jstathlete"
+  - username: "jorgeafernandez"
+    fullname: >-
+      Jorge Fernandez
+    bio: >-
+      3X CrossFit Games Athlete 🥉 Fittest Team 2022 🥇 Fittest Team 2023 @adidas Athlete walk by faith, not by sight Cookeville,TN @labmgmt @bubsnaturals
+    location: "United States"
+    followers: 46322
+    engagement: 582
+    commentsToLikes: 0.006993
+    id: clmeb2vtw3dkh0j08053tg84h
+    verified: false
+    hashtags: "#crossfit, #crossfitmerch, #crossfitathlete, #mayhemathlete"
+  - username: "bayleerayl"
+    fullname: >-
+      Baylee Rayl Christophel
+    bio: >-
+      Christ • 5x CrossFit Games Athlete • Collegiate Golf @nobull @garmin @1stphorm Nutrition Coaching & Home Workouts: @wateringwellness
+    location: "United States"
+    followers: 168680
+    engagement: 460
+    commentsToLikes: 0.004708
+    id: ck135aqzl0k2u0i19pbtycxhm
+    verified: false
+    hashtags: "#forthekingdom, #forhisglory, #mayhemathlete, #mayhemvseverybody"
 ---

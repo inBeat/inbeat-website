@@ -1,72 +1,108 @@
 ---
-title: Top 10 Food Instagram Influencers In Bali In 2023
+title: Top 10 Food Instagram Influencers In Bali In 2024
 description: >-
-  Find top food Instagram influencers in Bali in 2023. Most popular hashtags: #bali #baliindonesia #balilife #lfl.
+  Find top food Instagram influencers in Bali in 2024. Most popular hashtags: #bali #balilife #baliindonesia #food.
 platform: Instagram
-hits: 55
-text_top: Discover the best Instagram influencers on inBeat.
-text_bottom: Our search engine has 55 Instagram influencers like this in Bali, Indonesia for you to pitch.
+hits: 68
+text_top: Identify the top-rated Instagram influencers on inBeat.
+text_bottom: inBeat has 68 Instagram influencers like this in Bali, Indonesia for you to work with.
 profiles:
-  - username: "lisaanggara"
+  - username: "chikaliu_"
     fullname: >-
-      LISA ANGGARA | JAKARTA LIFE🥂
+      Chica Lukman
     bio: >-
-      #TRAVEL | #FASHION | #LIFESTYLE #lisaanggaravisithotel @moosaa.id @botte.id @boluboloo 📍JKT - BALI ✈️ Perth - TBA
+      👱🏻‍♀️ I’m Petite ✈️ JULY • BALI 🏠 @masakini.studio 📸 @kisah.masakini 🪴 @kumakuma_idn 🕯 @hellodearid 🛍️ @zaloraid Code Voc: ZCHIKA
     location: "Indonesia"
-    followers: 98141
-    engagement: 173
-    commentsToLikes: 0.047151
-    id: ck6u0rodvhdmp0j71wgslvkrw
-    verified: false
-    hashtags: "#balilife, #jalanjalan, #wisatamurah, #lfl"
-  - username: "meongculinary"
-    fullname: >-
-      BALI FOODIES  🇮🇩
-    bio: >-
-      🚪INVITATION / ENDORSE ( DM ) 📍 Bali Culinary / Influencer 💌 mculinary2018@gmail.com OHANA, DRKS, SOCIA, CECHA #lemonsquad @lemoninfluencer.id
-    location: "Indonesia"
-    followers: 33079
-    engagement: 115
-    commentsToLikes: 0.610093
-    id: ck5hcm5fciscz0i11t4jtaygh
-    verified: false
-    hashtags: "#baliviral, #kulinerbali, #foodbali, #meongculinary"
-  - username: "soezan85"
-    fullname: >-
-      SUSAN THERESIA || 📍BALI
-    bio: >-
-      FOODIES || LIFESTYLE || INFLUENCER DM ➡️ Endorse/Invitation/Paid Promote
-    location: "Indonesia"
-    followers: 132235
+    followers: 103626
     engagement: 33
-    commentsToLikes: 0.288993
-    id: ck6u0bs6zes990j71ex8chggf
+    commentsToLikes: 0.004135
+    id: ckaor3h76lk810i78uldcl8jg
     verified: false
-    hashtags: "#balifoodies, #baliculinary, #foodbali, #masakanayam"
-  - username: "ikasanz"
+    hashtags: "#fujifilm, #ootdbloggers, #traveljournal, #zaloraid"
+  - username: "adityaagungm"
     fullname: >-
-      Ikasanz Yoe ♠️
+      Aditya Agung M
     bio: >-
-      ●》INFLUENCER《● [ Fitness Enthusiast , Beauty & Healthy Lifestyle ] ENDORSE // COLLABS DM 💌 https://affiliate.shopee.co.id/ 📍 BALI 🥥🌴
+      fulltime daddy & halftime content contributor
     location: "Indonesia"
-    followers: 53312
-    engagement: 224
-    commentsToLikes: 0.142564
-    id: ck9wgk1f5trp10j78o2ldtyun
+    followers: 22387
+    engagement: 105
+    commentsToLikes: 0.040961
+    id: ckap05abiot430i78d95v2gjx
     verified: false
-    hashtags: "#balivibes, #fitnessmom, #styleblogger, #balibible"
+    hashtags: "#lifeyourway, #semarang, #explorebali, #tampildireels"
+  - username: "marisagreiner"
+    fullname: >-
+      Marisa Greiner
+    bio: >-
+      📍 BALI | Model | Photographer | Traveler | Sustainability Advocate | Vegan | Bali Travel Tips @meetmeunderpalmtrees | Work with me📩
+    location: "Indonesia"
+    followers: 21945
+    engagement: 53
+    commentsToLikes: 0.000000
+    id: ckpn0txuo3nbp0j23wrlicxp6
+    verified: false
+    hashtags: "#dronephotography, #dronevideo, #baliindonesia, #travelblogger"
   - username: "kimyogii"
     fullname: >-
       kim Yogi️️️️️️️️️️️
     bio: >-
-      Food Addict 🍕 Business Inquiry: 📩 email : kimyogiofficial@gmail.com Subscribe youtube aku ya ⬇️⬇️
+      Food Addict 🍕 Business Inquiry: 📩 : kimyogiofficial@gmail.com 📱: 081339674175 Subscribe youtube aku ya ⬇️⬇️
     location: "Indonesia"
-    followers: 117300
-    engagement: 509
-    commentsToLikes: 0.018570
+    followers: 117377
+    engagement: 368
+    commentsToLikes: 0.016091
     id: ck0vwm4squh7l0i19m5gcbuz3
     verified: false
-    hashtags: "#ricebowl, #throwback, #2017, #foody"
+    hashtags: "#enakbanget, #makananbali, #vlogger, #ricebowl"
+  - username: "balilifefood"
+    fullname: >-
+      Bali Life Food
+    bio: >-
+      Delicious Food Pictures From Bali, Indonesia 🥂🌴 Contact us: Sales@balilife.com WhatsApp: +62 888 8688 088
+    location: "Indonesia"
+    followers: 125379
+    engagement: 222
+    commentsToLikes: 0.012515
+    id: ck0ud1vlri7vm0i19fzchql7a
+    verified: false
+    hashtags: "#buongiorno, #wanderlusting, #indonesia, #mood"
+  - username: "sharoncb_"
+    fullname: >-
+      Sharon Carmelita🧸
+    bio: >-
+      Fashion • Beauty • Food • Lifestyle 📍Bali - Sby 👕 @hochste.id ~ Psalm 23 : 4 🤍 DM for any business inquiries💌
+    location: "Indonesia"
+    followers: 29311
+    engagement: 43
+    commentsToLikes: 0.000000
+    id: ck9whwoc9ztg30j78hk9aixcr
+    verified: false
+    hashtags: "#influencerbali, #reviewbali, #endorsebali, #bursa"
+  - username: "iva_jeremic"
+    fullname: >-
+      • IVA JEREMIĆ •
+    bio: >-
+      •Fashion, lifestyle & travel blogger 📸 •Owner of @el_yve 🌹 •Sales manager 👩🏽‍💻 •Ivajeremic96@gmail.com 💌
+    location: "Indonesia"
+    followers: 146820
+    engagement: 139
+    commentsToLikes: 0.008468
+    id: ck6008cfxd4q40i14u5gp4m6z
+    verified: false
+    hashtags: "#fashionblogger, #hotelambasador, #fashion, #croatia"
+  - username: "sherlyastono"
+    fullname: >-
+      Sherly Astono
+    bio: >-
+      BA: @beningsclinic_surabaya ✨ Let’s travel together and get lost in beautiful places 🌻 A traveller #SAholiyay 🐎 ⛳️ Mom of @jacob.kylo 👶🏻
+    location: "Indonesia"
+    followers: 51921
+    engagement: 59
+    commentsToLikes: 0.064667
+    id: ck8t0g6bdryca0j78w7ii0scr
+    verified: false
+    hashtags: "#saholiyay, #bali, #plieindonesia, #mynewshape"
   - username: "pesonaputribali"
     fullname: >-
       Pesona Putri Bali
@@ -79,52 +115,16 @@ profiles:
     id: ck9wdm8nfgbf60j787jqal8qi
     verified: false
     hashtags: "#ajegbali, #cantikindonesia, #explorebali, #cantik"
-  - username: "chefpriscilofficial"
+  - username: "misshotrodqueen"
     fullname: >-
-      Priscilya Princessa 🏹
+      Ade Putri Paramadita 🍒
     bio: >-
-      📧 chefpriscilofficial@gmail.com 📍 Living in Bali and always near food, vinyl & jazz 🎶 ⤵️ YouTube channel
+      Wordsmith. Culinary Storyteller ✨ Beer 🍻 Fixed gear 🚲 CrossFit 🏋🏽‍♀️ Mommy @BEERgembira Business enquiry 👉🏼 send e-mail 👇🏼
     location: "Indonesia"
-    followers: 76914
-    engagement: 170
-    commentsToLikes: 0.032441
-    id: ck13cz5xt2uzc0i19o3k5fw2i
-    verified: true
-    hashtags: "#lazadaid, #dirumahaja, #dapurlazada, #ldrstory"
-  - username: "bigguytravels"
-    fullname: >-
-      Bigguytravels | BATAM CULINARY
-    bio: >-
-      🦀 AHH MANTAB!! . Follow @bigguyproduction 🍡 Sharing Good Food 🍔 Ada Cerita di Balik Makanan 🍣 #bigguytravels #yukmakanbos #gara2koko Info Endorse
-    location: "Indonesia"
-    followers: 131659
-    engagement: 31
-    commentsToLikes: 0.124976
-    id: ck6u78asgk1t20j71big4hbq6
+    followers: 63520
+    engagement: 229
+    commentsToLikes: 0.030314
+    id: ck15rgahn7sa40i19frpr1n77
     verified: false
-    hashtags: "#batamtrip, #makananbatam, #kulinerindonesia, #batamfoodie"
-  - username: "sherlyastono"
-    fullname: >-
-      Sherly Astono
-    bio: >-
-      BA: @beningsclinic_surabaya ✨ Let’s travel together and get lost in beautiful places 🌻 A traveller #SAholiyay 🐎 ⛳️
-    location: "Indonesia"
-    followers: 52123
-    engagement: 54
-    commentsToLikes: 0.054746
-    id: ck8t0g6bdryca0j78w7ii0scr
-    verified: false
-    hashtags: "#nihigram, #saholiyay, #nihi, #floatingbreakfast"
-  - username: "mngtiee"
-    fullname: >-
-      🅐🅝🅐🅚 +➏➋
-    bio: >-
-      ᬦᬶ ᬓᭀᬫᬂ ᬲᬸᬯᬃᬡᬶᬗ᭄ᬲᬶᬄ ᬢ᭄ᬭᬶᬬᬲ᭄ᬢᬸᬢᬶ᭟ 📨 @omngsyg 📌 ᴋᴀʀᴀɴɢᴀsᴇᴍ,ʙᴀʟɪ-ɪɴᴅᴏɴᴇsɪᴀ 📍 ᴇᴅɪᴛɪɴɢ,ᴍᴜᴤɪᴄ💙 🐸 Kalo follow jangan lupa like
-    location: "Indonesia"
-    followers: 3302
-    engagement: 1464
-    commentsToLikes: 0.112086
-    id: ck9wgr79vumy20j78vkrdzhr4
-    verified: false
-    hashtags: "#likeforlike, #tflers, #likes, #lfl"
+    hashtags: "#instafood, #masakanrumahan, #foodpics, #indonesia"
 ---

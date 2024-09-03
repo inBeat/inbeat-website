@@ -1,11 +1,11 @@
 ---
-title: Top 10 Outdoors Instagram Influencers In Turkey In 2023
+title: Top 10 Outdoors Instagram Influencers In Turkey In 2024
 description: >-
-  Find top outdoors Instagram influencers in Turkey in 2023. Most popular hashtags: #outdoors #nature #kamp #camping.
+  Find top outdoors Instagram influencers in Turkey in 2024. Most popular hashtags: #outdoors #nature #reels #kamp.
 platform: Instagram
-hits: 153
-text_top: Analyze the top-rated Instagram profiles on inBeat.
-text_bottom: Our platform aggregates 153 Instagram influencers like this in Turkey for you to collaborate.
+hits: 154
+text_top: See the most popular Instagram accounts on inBeat.
+text_bottom: inBeat aggregates 154 Instagram influencers like this in Turkey for you to collaborate.
 profiles:
   - username: "birbasinagezgin"
     fullname: >-
@@ -19,18 +19,78 @@ profiles:
     id: ck5c453y60mqj0i11dfax6brc
     verified: false
     hashtags: "#tbt, #huzur, #bursa, #do"
-  - username: "tekbasinadaolur"
+  - username: "spart4nn"
     fullname: >-
-      Gökhan Konaş - Gezgin / Doğa
+      Cemil Ceylan
     bio: >-
-      Hayatın tadını tek başına da çıkarabilenlere ithafen... @beiniztv - DoğadaKal, Blogger, Yol ve Doğa Tutkunu
+      Küçük ev Kamp ve doğa hayatı🏕 Mutfağımız doğa🔥
     location: "Turkey"
-    followers: 101192
-    engagement: 341
-    commentsToLikes: 0.019775
-    id: ck0w5jsvb3zjq0i19iggs1ok9
+    followers: 1234511
+    engagement: 699
+    commentsToLikes: 0.014158
+    id: ck136l88o71et0i194o9jig5v
     verified: false
-    hashtags: "#an, #tekba, #yoldaolmak, #aniyakala"
+    hashtags: "#woodsman, #spart4nn, #chef, #outdoorcooking"
+  - username: "rosabellaa.__"
+    fullname: >-
+      ﮼روزابيلا 🌸
+    bio: >-
+      ‎Gymrat 🏋🏼🇴🇲 ‎‏﹣ ᴘɪᴄᴛᴜʀᴇs ᴛᴇʟʟ ᴛʜᴇ sᴛᴏʀʏ ✨
+    location: "Turkey"
+    followers: 58649
+    engagement: 906
+    commentsToLikes: 0.057389
+    id: ck8sx8efqgi160j78uffo8ndb
+    verified: false
+    hashtags: "#gym, #instagramreel, #explorepage, #beautiful"
+  - username: "ersinakbas_"
+    fullname: >-
+      🔶ERSİN AKBAŞ🔷
+    bio: >-
+      📸 photographer 🏕 camping 🏍 motorcycles 🌍 travel 🌲 nature 🐢Bıdık 🏕ersinindüşevi 🎭(0\_!_/0) @ersinakbas_ #ersinakbas #camperlife ANKARA
+    location: "Turkey"
+    followers: 25190
+    engagement: 361
+    commentsToLikes: 0.031898
+    id: ck6tllrel671a0j71alaa3lgd
+    verified: false
+    hashtags: "#dagcilikvekamp, #sadecefoto, #ig, #ayigibigez"
+  - username: "istanbul"
+    fullname: >-
+      @istanbul - i̇stanbul  - اسطنبول
+    bio: >-
+      Join us in exploring the enchanting world of Istanbul, where history and culture collide in a unforgettable experience! 🇹🇷 DM for collaboration ✨
+    location: "Turkey"
+    followers: 450676
+    engagement: 330
+    commentsToLikes: 0.011393
+    id: ck0uddpzbivt10i190slk77gz
+    verified: false
+    hashtags: "#istanbul, #spring, #istanbullife, #clouds"
+  - username: "yabandatek"
+    fullname: >-
+      𝐘 𝐀 𝐁 𝐀 𝐍 𝐃 𝐀 𝐓 𝐄 𝐊
+    bio: >-
+      🪓 Bushcraft Wild Camping 🏕️ Outdoor Life 🏹 Bushcraft Techniques Video Content 🔪 Knives and Axes Lover 🪓 📸 All photos are mine 💍 Evli
+    location: "Turkey"
+    followers: 12427
+    engagement: 230
+    commentsToLikes: 0.037091
+    id: ck5ckwmizxrb10i1100o10zi8
+    verified: false
+    hashtags: "#kamp, #kampturkiye, #trekking, #wildcoffee"
+  - username: "yagizderolur"
+    fullname: >-
+      YAĞIZ DEROLUR🌿
+    bio: >-
+      Evet, Soyadım DEROLUR☺️ Tam Zamanlı Doğada Yaşam 🌲 Mühendis 💊 Afet Bilinci Eğitmeni 🎶 Dans Eğitmeni
+    location: "Turkey"
+    followers: 674482
+    engagement: 115
+    commentsToLikes: 0.023472
+    id: ck6u4fo583g1y0j71y42pn4k3
+    verified: false
+    hashtags: "#knot, #outdoor, #outdoorskill, #campinghacks"
   - username: "wildpala"
     fullname: >-
       Fatih Pala
@@ -67,64 +127,4 @@ profiles:
     id: ck8t4ko4u73kw0j78bh5ac2j5
     verified: false
     hashtags: "#portraitphotography, #girls, #wardah, #modelphotography"
-  - username: "drmelikesacan"
-    fullname: >-
-      Melike  🌎Doğa&Gezi&Keşif🌎
-    bio: >-
-      👩🏻‍⚕️ Doctor 👩🏼‍⚕️Fındıklı Devlet Hast 💫68 Cities|7 Countries ✈️ Traveller| ⛺️ Camper🌲🦥🍃 🏡Edirne/Tıp2020🎓 🌎 Storyteller @drsagliklitarifler
-    location: "Turkey"
-    followers: 4967
-    engagement: 965
-    commentsToLikes: 0.008464
-    id: ckaosoliese160i78emr0axhn
-    verified: false
-    hashtags: "#campinglife, #camp, #wild, #trip"
-  - username: "admbrs"
-    fullname: >-
-      Adem Barış
-    bio: >-
-      Traveller Photographer admbaris@gmail.com
-    location: "Turkey"
-    followers: 341910
-    engagement: 301
-    commentsToLikes: 0.035281
-    id: ck134etw8w3o30i19jv8z72cv
-    verified: false
-    hashtags: "#fall, #yedig, #autumn, #travelblogger"
-  - username: "dogayakacanlar"
-    fullname: >-
-      Doğaya Kaçanlar 🌲🏕🏃🏻🏃🏻‍♀️
-    bio: >-
-      👫 Merve & Ulaş Baktığın yer güzel, baktığın yerde olmak daha güzel 🏕 Toprak olmadan doğaya karış 🍃 Just follow your dreams 🎒
-    location: "Turkey"
-    followers: 18559
-    engagement: 775
-    commentsToLikes: 0.056228
-    id: ckaoxqkq9edrw0i78w5yyfp4n
-    verified: false
-    hashtags: "#karadeniz, #photography, #outdoorlife, #nopeople"
-  - username: "____ersin____"
-    fullname: >-
-      🔶ERSİN AKBAŞ🔷
-    bio: >-
-      📸 photographer 🏕 camping 🏍 motorcycles 🌍 travel 🌲 nature 🐢Bıdık 🏕ersinindüşevi 🎭(0\_!_/0) @____ersin____ #ersinakbas #camperlife ANKARA
-    location: "Turkey"
-    followers: 26158
-    engagement: 663
-    commentsToLikes: 0.038481
-    id: ck6tllrel671a0j71alaa3lgd
-    verified: false
-    hashtags: "#gezibaglar, #mountain, #kampingturkiye, #anlatistanbul"
-  - username: "g.kocaturk"
-    fullname: >-
-      Gokhan🌀
-    bio: >-
-      All photos were taken by me. DM for requests, suggestions, presets and photoshoot. @g.kocaturk 🧿 Coffeeholic☕️
-    location: "Turkey"
-    followers: 5182
-    engagement: 764
-    commentsToLikes: 0.021422
-    id: ck0w201stlz7k0i19ni01d7fu
-    verified: false
-    hashtags: "#marmaris, #waterfallsofinstagram, #sunset, #naturelovers"
 ---

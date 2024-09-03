@@ -1,12 +1,24 @@
 ---
-title: Top 10 Lifestyle TikTok Influencers In Denver In 2023
+title: Top 10 Lifestyle TikTok Influencers In Denver In 2024
 description: >-
-  Find top lifestyle TikTok influencers in Denver in 2023. Most popular hashtags: #fyp #duet #greenscreen #foryoupage.
+  Find top lifestyle TikTok influencers in Denver in 2024. Most popular hashtags: #fyp #duet #greenscreen #foryou.
 platform: TikTok
 hits: 4
-text_top: Identify the top-rated TikTok accounts on inBeat.
-text_bottom: inBeat holds 4 TikTok influencers like this in Denver, United States for you to work with.
+text_top: Analyze the top-rated TikTok accounts on inBeat.
+text_bottom: Our database aggregates 4 TikTok influencers like this in Denver, United States for you to connect with.
 profiles:
+  - username: "cookwithcass"
+    fullname: >-
+      Cassandra Cortright
+    bio: >-
+      Cooking & life🥑✨ #souplife @gracefullyfed SIMPLE•(mostly)HEALTHY
+    location: "United States"
+    followers: 34000
+    engagement: 1138
+    commentsToLikes: 0.047609
+    id: ckcpjmxynibpg0j236d09573k
+    verified: false
+    hashtags: "#favoriterecipe, #foodreview, #tiktoktaughtme, #recipes"
   - username: "leisurelylayne"
     fullname: >-
       Emily
@@ -18,7 +30,7 @@ profiles:
     commentsToLikes: 0.114466
     id: ckbf87nk4youw0j23a3nc644v
     verified: false
-    hashtags: "#coloradoadventures, #fyp, #snow, #coloradocheck"
+    hashtags: "#mountains, #flowers, #fyp, #coloradoadventures"
   - username: "happilykenna"
     fullname: >-
       MCKENNA H ASHCROFT
@@ -43,18 +55,6 @@ profiles:
     id: ckbert827a9xs0j232dvvntsl
     verified: false
     hashtags: "#pupperonishuffle, #lifestyle, #colorado, #foryou"
-  - username: "cookwithcass"
-    fullname: >-
-      Cassandra Cortright
-    bio: >-
-      Cooking & life🥑✨ #souplife @gracefullyfed SIMPLE•(mostly)HEALTHY
-    location: "United States"
-    followers: 34000
-    engagement: 1138
-    commentsToLikes: 0.047609
-    id: ckcpjmxynibpg0j236d09573k
-    verified: false
-    hashtags: "#favoriterecipe, #homecook, #foodreview, #wine"
   - username: "lifestylemols"
     fullname: >-
       molly
@@ -66,7 +66,7 @@ profiles:
     commentsToLikes: 0.140218
     id: ckc85eho04zeu0j23vto2avgt
     verified: false
-    hashtags: "#summer, #foryou, #grwm, #daily"
+    hashtags: "#productivity, #summer, #daily, #foryoupage"
   - username: "laynes.life"
     fullname: >-
       ✰ layne ✰
@@ -90,7 +90,7 @@ profiles:
     commentsToLikes: 0.141754
     id: ckd6kv8zcefd10j23rz9rccuk
     verified: false
-    hashtags: "#blackwomen, #duet, #gossipgirlhere, #holdamirrorup"
+    hashtags: "#blacklivesmatter, #completemylook, #gossipgirlhere, #holdamirrorup"
   - username: "hal3ymiller"
     fullname: >-
       Haley
@@ -102,7 +102,7 @@ profiles:
     commentsToLikes: 0.042340
     id: ckcdcyk185awb0j23965mjcaa
     verified: false
-    hashtags: "#aesthetic, #artdirector, #fyp, #forcreatives"
+    hashtags: "#contentcreator, #forcreatives, #photographer, #greenscreen"
   - username: "courtneymcavenia"
     fullname: >-
       Courtney McAvenia
@@ -114,7 +114,7 @@ profiles:
     commentsToLikes: 0.116413
     id: ckdmqww3w9ojt0j23078xgy4l
     verified: false
-    hashtags: "#refundglowup, #momlife, #shadowandbone, #makemomepic"
+    hashtags: "#duet, #makemomepic, #tiktokggt, #shadowandbone"
   - username: "ilabellecosplay"
     fullname: >-
       ilabelle
@@ -126,5 +126,5 @@ profiles:
     commentsToLikes: 0.031862
     id: ck9116ko3kl970j78hxacghvs
     verified: false
-    hashtags: "#foraging, #learnontiktok, #elsa, #frozen"
+    hashtags: "#elsa, #foraging, #learnontiktok, #duet"
 ---

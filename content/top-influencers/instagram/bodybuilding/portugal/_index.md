@@ -1,12 +1,24 @@
 ---
-title: Top 10 Bodybuilding Instagram Influencers In Portugal In 2023
+title: Top 10 Bodybuilding Instagram Influencers In Portugal In 2024
 description: >-
-  Find top bodybuilding Instagram influencers in Portugal in 2023. Most popular hashtags: #workout #fitness #bodybuilding #fitnessmotivation.
+  Find top bodybuilding Instagram influencers in Portugal in 2024. Most popular hashtags: #bodybuilding #workout #fitness #fitnessmotivation.
 platform: Instagram
-hits: 10
-text_top: See the top-rated Instagram influencers on inBeat.
-text_bottom: Our platform has 10 Instagram influencers like this in Portugal for you to contact.
+hits: 12
+text_top: Analyze the top-rated Instagram accounts on inBeat.
+text_bottom: inBeat has 12 Instagram influencers like this in Portugal for you to connect with.
 profiles:
+  - username: "the_moroccan_fit"
+    fullname: >-
+      ||The Warrior - المحاربة||
+    bio: >-
+      •Sports Lawyer ⚖️ •Law&Management 📚 •NASM & EREPS 3 Certified PT 🏋🏻‍♀️ •Certified sport nutritionist 🍏 📨Online Coaching : @coachingbyrajaa
+    location: "Portugal"
+    followers: 46490
+    engagement: 468
+    commentsToLikes: 0.025349
+    id: ck9wf0eygmpq20j78hfeuxp6t
+    verified: false
+    hashtags: "#diet, #legs, #transformation, #discipline"
   - username: "alannimal16"
     fullname: >-
       Ａｌａｎｎａ  M a r i a
@@ -31,18 +43,6 @@ profiles:
     id: ckap3nmgb3rj60i78yk8si2rv
     verified: false
     hashtags: "#academia, #fitnessmodel, #happy, #gym"
-  - username: "zeblackturboofficial"
-    fullname: >-
-      Zé Preto
-    bio: >-
-      🥇World records front lever🥇 🦍 inhumam power ▪️🇨🇻🇵🇹🇺🇲50 years old and still crazy af ◾100% natural strength💪 ◾the strongest core in the world 👽
-    location: "Portugal"
-    followers: 76442
-    engagement: 442
-    commentsToLikes: 0.046478
-    id: ck6tulw93h34k0j71i5ndwdae
-    verified: false
-    hashtags: "#beast, #oldschool, #california, #crossfit"
   - username: "sofia.pires.fitness"
     fullname: >-
       ♥️ Sofia Pires ♥️
@@ -79,6 +79,30 @@ profiles:
     id: ck137ndqvceks0i19qbxxr8zw
     verified: false
     hashtags: "#moon, #portugal, #homeworkout, #bodybuilding"
+  - username: "bruna_danin"
+    fullname: >-
+      Bruna Danin
+    bio: >-
+      📷 photo 👗 fashion and lifestyle 📨 DM for collaboration 📩 Brunadanin@hotmail.com @fitnessup_portugal : UP-BRUNADANIN 15€ desc
+    location: "Portugal"
+    followers: 31785
+    engagement: 210
+    commentsToLikes: 0.020753
+    id: ck5zp7pghs5dl0i14hz9ssf4l
+    verified: false
+    hashtags: "#fashionstyle, #travelphotography, #lookdodia, #excedyourself"
+  - username: "helenasousafitness"
+    fullname: >-
+      Helena Sousa
+    bio: >-
+      🌐|COMPETITION PREP(PRO/AM)🇵🇹🇪🇸🇬🇧 🌐|ONLINE FITNESS COACH(lifestyle & athletes) 👩🏻‍💼|CEO @hsf.team 📩|hsf@helenasousafitness.com 🛍️|@prozis 10%off:HSOUSA
+    location: "Portugal"
+    followers: 24382
+    engagement: 194
+    commentsToLikes: 0.027398
+    id: ckap2eu00yj310i78apnw4jq6
+    verified: false
+    hashtags: "#girlswithmuscle, #gymlifestyle, #entrepeneur, #photoshoot"
   - username: "fit.mom.eli"
     fullname: >-
       Elizabete Amaral Ganhão 🇨🇦🇵🇹🇪🇸
@@ -90,7 +114,7 @@ profiles:
     commentsToLikes: 0.116280
     id: ckap6esq0flje0i783j1tpe3i
     verified: false
-    hashtags: "#blessed, #myworld, #happyheart, #happylife"
+    hashtags: "#myworld, #loveyou, #woman, #love"
   - username: "maurofialho_pro"
     fullname: >-
       IFBB PRO Mauro Fialho
@@ -103,28 +127,4 @@ profiles:
     id: ck6tkqypy58gp0j71t9u83i4y
     verified: false
     hashtags: "#olympia, #ifbbpro, #competition, #posing"
-  - username: "official_amanbilla"
-    fullname: >-
-      Aman Billa
-    bio: >-
-      🏆Mr Sher-e punjab 2019🏅🏆 🏆Mr Punjaab 16,17, 18, 19🥇 🥈Mr.india 2nd 60 🏆Mr.Doaba 🥇2k18 🏅20 times + mr punjab🥇🏅 #trustnone 🙏 👉Paid PT 💵 #wmk🙏
-    location: "Portugal"
-    followers: 48940
-    engagement: 242
-    commentsToLikes: 0.012445
-    id: ckaozcjzml9h90i78lpwdusg8
-    verified: false
-    hashtags: "#kde, #waheguru, #wmk, #life"
-  - username: "dave_mowe"
-    fullname: >-
-      Davide Dave Gioia
-    bio: >-
-      🏋🏽‍♂️Coach & PT 👐🏽Osteopath @mowe_lagrange www.mowelagrange.com CF L.2 Weightlifting Trainer ——————— 📩davigio91@hotmail.com
-    location: "Portugal"
-    followers: 5576
-    engagement: 284
-    commentsToLikes: 0.021869
-    id: ck6txdv3dx9lj0j7153kjm1a3
-    verified: false
-    hashtags: "#crossfit, #lbs, #torino, #primal"
 ---

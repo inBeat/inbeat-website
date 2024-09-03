@@ -1,12 +1,24 @@
 ---
-title: Top 10 Travel Instagram Influencers In Berlin In 2023
+title: Top 10 Travel Instagram Influencers In Berlin In 2024
 description: >-
-  Find top travel Instagram influencers in Berlin in 2023. Most popular hashtags: #berlin #travel #germany #fashion.
+  Find top travel Instagram influencers in Berlin in 2024. Most popular hashtags: #berlin #ig #berlincity #fernsehturmberlin.
 platform: Instagram
-hits: 424
-text_top: See the most popular Instagram influencers on inBeat.
-text_bottom: Our platform holds 424 Instagram influencers like this in Berlin, Germany for you to work with.
+hits: 561
+text_top: Analyze the most popular Instagram accounts on inBeat.
+text_bottom: Our search engine aggregates 561 Instagram influencers like this in Berlin, Germany for you to collaborate.
 profiles:
+  - username: "lisamottl"
+    fullname: >-
+      LISA MOTTL
+    bio: >-
+      fashion | mindset | travel Berlin, Germany ✉️ lisa@tbs-media.de Impr.: @thebrightside.impressum
+    location: "Germany"
+    followers: 62718
+    engagement: 78
+    commentsToLikes: 0.021803
+    id: cl5l330gw95gc0i23fq7599ar
+    verified: false
+    hashtags: ""
   - username: "chrissyladeuxieme"
     fullname: >-
       Christine Pesch
@@ -19,6 +31,42 @@ profiles:
     id: ckaox72o3c2ku0i78i7vkq4i2
     verified: false
     hashtags: "#anajohnson, #bestfriends, #luccacity, #ibiza"
+  - username: "classic_tattoo_berlin"
+    fullname: >-
+      Classic Tattoo Berlin
+    bio: >-
+      Tattoos ▪️ Piercings Walk Ins are welcome ☎ 03054431547 ✉info@classictattooberlin.de 👂🏼piercing@classictattooberlin.de Dircksenstr. 88,10178 Berlin
+    location: "Germany"
+    followers: 40743
+    engagement: 94
+    commentsToLikes: 0.007281
+    id: ck14jrgg7lszj0i19kd5kl1ri
+    verified: false
+    hashtags: "#flowertattoo, #femaleartist, #flowers, #berlintattooartist"
+  - username: "berlin_ickliebedir"
+    fullname: >-
+      BERLIN ICK LIEBE DIR
+    bio: >-
+      🌆 #Berlin Guide & Stadtportal 🥰 #Gastro #Events #Freizeit 💌 Anfragen nur per Mail 👱🏻‍♀️👩🏻 von Judith & Mareike
+    location: "Germany"
+    followers: 69362
+    engagement: 263
+    commentsToLikes: 0.012391
+    id: ck14h0rjq7ytp0i19zflerxt1
+    verified: false
+    hashtags: "#kiezliebe, #berlinlove, #streetshared, #travelberlin"
+  - username: "juliainberlin_"
+    fullname: >-
+      Julia | berlin city • balanced lifestyle
+    bio: >-
+      sharing my love for berlin, food & sport ツ 🌟 berlin tips & balanced lifestyle 🏃🏻‍♀️ currently training for my first HM 💌 management@juliainberlin.com
+    location: "Germany"
+    followers: 36583
+    engagement: 1071
+    commentsToLikes: 0.031659
+    id: ck9we3yvhih790j78s4zbmdak
+    verified: false
+    hashtags: "#berlincity, #beach, #explore, #running"
   - username: "tricktricktravels"
     fullname: >-
       Patrick TrickTrick
@@ -30,7 +78,7 @@ profiles:
     commentsToLikes: 0.180849
     id: ckf5s5i2des1l0j237f5zbmka
     verified: false
-    hashtags: "#slovenia, #35mmstreetphotography, #visitslovenia, #lensonstreets"
+    hashtags: "#irimages, #espa, #streets, #spain"
   - username: "fiona_berlin_based"
     fullname: >-
       Fiona|Berlin|Photographer
@@ -43,18 +91,30 @@ profiles:
     id: ck5zmwpbwnceq0i1491p6h1u5
     verified: false
     hashtags: "#seasonpoetry, #riverside, #noiretblancphotographie, #berlinphotography"
-  - username: "floooh_h"
+  - username: "doitbutdoitnow"
     fullname: >-
-      F L O R I A N  | 📍GERMANY 🇩🇪
+      Claudi
     bio: >-
-      FASHION | LIFESTYLE | TRAVEL 𝚍𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢 𝚒𝚗𝚜𝚝𝚎𝚊𝚍 𝚘𝚏 𝚋𝚘𝚛𝚎𝚍𝚘𝚖 🔜 | Berlin, Mallorca, ... ✉️ | floooh_h@web.de 👨🏼‍💻 | Welcome to my blog ⬇️
+      photographer | interior design | travel 📍Berlin Blogazine ⬇️
     location: "Germany"
-    followers: 112979
-    engagement: 282
-    commentsToLikes: 0.027069
-    id: ck14i5rmsdry30i192ptukofi
+    followers: 61060
+    engagement: 57
+    commentsToLikes: 0.035049
+    id: ck0vuw97zmg6e0i19ugiovazb
     verified: false
-    hashtags: "#santorini, #bucketlist, #mauritius, #traveltheworld"
+    hashtags: "#jlm, #jerusalem, #10, #bedroom"
+  - username: "_yvonne3009_"
+    fullname: >-
+      Yvonne Gertig
+    bio: >-
+      BUNTE_Moments Creator Founder @maedchenkram_berlin & @yvonnes_beautywelt FASHION | LIFESTYLE | TRAVEL 📍🇩🇪BERLIN based 🔜 SYLT 🤶 🌲 🌟
+    location: "Germany"
+    followers: 60067
+    engagement: 14
+    commentsToLikes: 0.026510
+    id: ck6tzk41wa6080j71d7xeyv3c
+    verified: false
+    hashtags: "#hotelneptunschmeckt, #over40fashion, #ostsee, #syltliebe"
   - username: "asek.berlin"
     fullname: >-
       Alex
@@ -66,65 +126,5 @@ profiles:
     commentsToLikes: 0.049383
     id: ck6u4aa2v2lgj0j71dh755i00
     verified: false
-    hashtags: "#minimalism, #vienna, #lookingup, #zcreators"
-  - username: "jennyprimadonna"
-    fullname: >-
-      𝐉𝐄𝐍𝐍𝐘 𝐏𝐑𝐈𝐌𝐀𝐃𝐎𝐍𝐍𝐀 🕊
-    bio: >-
-      Co-Founder @naturalprime_official 📍based in Cologne | Berlin Read my new Blog Post ☟︎
-    location: "Germany"
-    followers: 31412
-    engagement: 224
-    commentsToLikes: 0.043817
-    id: ck6tu2zfve0gf0j71q44r0yvt
-    verified: false
-    hashtags: "#love, #beach, #smile, #tattoo"
-  - username: "leslieangelov"
-    fullname: >-
-      𝗟𝗘𝗦𝗟𝗜𝗘 𝗔𝗡𝗚𝗘𝗟𝗢𝗩 🦅
-    bio: >-
-      —————— ▪ ᴅᴊ & ᴘʀᴏᴅᴜᴄᴇʀ ▪ ʀᴇQᴜᴇsᴛs: ɪɴғᴏ@ᴅᴊʟᴇsʟɪᴇ.ᴅᴇ ▪ ғᴏʟʟᴏᴡ ᴍᴇ ᴏɴ ɪɴsᴛᴀɢʀᴀᴍ & sᴘᴏᴛɪғʏ 📸🎶
-    location: "Germany"
-    followers: 20507
-    engagement: 535
-    commentsToLikes: 0.047829
-    id: ck136i6kq6ltm0i19kdn2dqg3
-    verified: false
-    hashtags: "#leipzig, #zitate, #shooting, #dankbar"
-  - username: "i_am_global"
-    fullname: >-
-      Marc | Daddy & Pilot
-    bio: >-
-      Let me show you my office ✈️ #boeing 🌇 #berlin 🇩🇪 👨🏻‍✈️ #aviation & #travel 👨🏻‍💻 i_am_global@gmx.de
-    location: "Germany"
-    followers: 47241
-    engagement: 402
-    commentsToLikes: 0.063668
-    id: ckap0ck1jpr0y0i788maf25mn
-    verified: false
-    hashtags: "#crew, #berlin, #travel, #fashion"
-  - username: "_arzu___"
-    fullname: >-
-      𝓐   𝓻   𝔃  𝓾  ☀️
-    bio: >-
-      𝙈 𝙊 𝙈 / 𝙁 𝘼 𝙎 𝙃 𝙄 𝙊 𝙉 | 𝙇 𝙄 𝙁 𝙀 𝙎 𝙏 𝙔 𝙇 𝙀 • Mᴀʀʀɪᴇᴅ 👰🏻🤵🏻 • Hᴀᴘᴘʏ 🥰 • Iɴ ʟᴏᴠᴇ ❤️ • ᴍᴏᴍ ᴏғ 2 Boys 🔒 4900
-    location: "Germany"
-    followers: 40044
-    engagement: 330
-    commentsToLikes: 0.075958
-    id: ck0u9ti3uan1i0i19hrp38ohm
-    verified: false
-    hashtags: "#comeasyouare, #kreativ, #hrvatska, #fashion"
-  - username: "vale_piesco"
-    fullname: >-
-      Valentino Piesco
-    bio: >-
-      📷 Canon User - Eos 1300D 🌍 Italy, Fardella - Basilicata 🇮🇹 currently in Berlin 🇩🇪 🏢 Structural Engineer✏💻 ✈ Last trip: Sardegna 🇮🇹
-    location: "Germany"
-    followers: 24202
-    engagement: 574
-    commentsToLikes: 0.030252
-    id: ck6tivexc1i7s0j71sbw6y99i
-    verified: false
-    hashtags: "#algarvecoast, #algarvealive, #weroamgermany, #paris"
+    hashtags: "#geometricclub, #puddlegram, #architecture, #berlinbreeze"
 ---

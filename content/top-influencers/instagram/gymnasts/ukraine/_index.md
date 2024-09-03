@@ -1,12 +1,36 @@
 ---
-title: Top 10 Gymnasts Instagram Influencers In Ukraine In 2023
+title: Top 10 Gymnasts Instagram Influencers In Ukraine In 2024
 description: >-
-  Find top gymnasts Instagram influencers in Ukraine in 2023. Most popular hashtags: #rhythmicgymnastics #gymnastics #teamukraine.
+  Find top gymnasts Instagram influencers in Ukraine in 2024. Most popular hashtags: #gymnastics #rhythmicgymnastics #sport.
 platform: Instagram
-hits: 9
-text_top: Analyze the most popular Instagram influencers on inBeat.
-text_bottom: inBeat aggregates 9 Instagram influencers like this in Ukraine for you to connect with.
+hits: 10
+text_top: Analyze the best Instagram profiles on inBeat.
+text_bottom: Our database aggregates 10 Instagram influencers like this in Ukraine for you to collaborate.
 profiles:
+  - username: "valeriya.khanina"
+    fullname: >-
+      Valeriya Khanina
+    bio: >-
+      • Paris📍RG coach 🌐 •🏅International master of Rhythmic Gymnastics • 🇺🇦 National member team Ukraine 2013-2020
+    location: "Ukraine"
+    followers: 10121
+    engagement: 591
+    commentsToLikes: 0.041547
+    id: ck6u6giwkfgwr0j714alailh0
+    verified: false
+    hashtags: "#harrypotter, #magicalmoments, #happybirthday, #summer"
+  - username: "k_pohranychna"
+    fullname: >-
+      khrystyna pohranychna
+    bio: >-
+      Ukrainian🇺🇦 Rhythmic gymnastics 🥈🥉European Championships 🥈Youth Olympic Games🇦🇷 Finalist of the Olympic Games Tokyo🇯🇵
+    location: "Ukraine"
+    followers: 18548
+    engagement: 1304
+    commentsToLikes: 0.014015
+    id: ck6udz69mnyv30j712qgz5r55
+    verified: false
+    hashtags: "#teamukraine, #ukraine, #tokyo2020, #olympicgames2020"
   - username: "anastasiia_yeliseieva"
     fullname: >-
       N Y
@@ -43,18 +67,6 @@ profiles:
     id: ckap03w5gom790i78enx0zizj
     verified: false
     hashtags: "#grain, #collaborationwork, #cityhowwhy, #bookc"
-  - username: "k_pohranychna"
-    fullname: >-
-      khrystyna pohranychna
-    bio: >-
-      Rhythmic gymnastics Ukraine 🇺🇦 🥈🥈🥈🥉medalist of European Championships 2018 🥈silver medalist at the Youth Olympic Games
-    location: "Ukraine"
-    followers: 12497
-    engagement: 1609
-    commentsToLikes: 0.008034
-    id: ck6udz69mnyv30j712qgz5r55
-    verified: false
-    hashtags: "#rhythmicgymnastics, #teamukrainerg, #teamukraine, #tramukraine"
   - username: "yevameleshchuk"
     fullname: >-
       Yeva Meleshchuk

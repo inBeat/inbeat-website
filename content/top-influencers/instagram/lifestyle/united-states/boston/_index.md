@@ -1,24 +1,24 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Boston In 2023
+title: Top 10 Lifestyle Instagram Influencers In Boston In 2024
 description: >-
-  Find top lifestyle Instagram influencers in Boston in 2023. Most popular hashtags: #boston #lifestyle #mood.
+  Find top lifestyle Instagram influencers in Boston in 2024. Most popular hashtags: #boston #lifestyle #ootd.
 platform: Instagram
-hits: 141
-text_top: Discover the best Instagram influencers on inBeat.
-text_bottom: Our database holds 141 Instagram influencers like this in Boston, United States for you to collaborate.
+hits: 199
+text_top: See the most popular Instagram accounts on inBeat.
+text_bottom: Our database has 199 Instagram influencers like this in Boston, United States for you to connect with.
 profiles:
-  - username: "chelseynicolemodel"
+  - username: "plantifulkimanna"
     fullname: >-
-      Chelsey Nicole
+      kimanna | bsn, rn 🍒
     bio: >-
-      @chelseycatmeow 🐈♐ Maine ⚓️🌲 Florida🌞🌴 Model 🌟👠 Artist 🎼💄@chelseynicoleexclusives 📸🌄 @theessential_collection 👑💍 @cutthegluten 🍞🔞
+      boston | 25 🇻🇳 — wellness, style, my life 💌plantifulkimanna@gmail.com
     location: "United States"
-    followers: 49559
-    engagement: 201
-    commentsToLikes: 0.036729
-    id: ckap6d0dafdkn0i78ezbgkwjh
+    followers: 6364
+    engagement: 506
+    commentsToLikes: 0.401606
+    id: cllewbgb0ulwm0j08ovmij8j5
     verified: false
-    hashtags: "#glamour, #artistsoninstagram, #photoshoot, #merrychristmas"
+    hashtags: "#falloutfits, #veganfoodie, #ootdinspiration, #bostonfoodblogger"
   - username: "mumoo_sissi"
     fullname: >-
       旧金山摄影师Sissi
@@ -31,18 +31,30 @@ profiles:
     id: ck14im489g2kw0i19wqo0oafc
     verified: false
     hashtags: "#travel, #outfit, #lifestyle, #bostonphotographer"
-  - username: "chic.girlie"
+  - username: "brooke_barrera"
     fullname: >-
-      Ritu || Chicgirlie
+      Brookie 🍒
     bio: >-
-      Cooking Fashion with a splash of Makeup and dash of Lifestyle 📍Boston Use #chicgirlie to reveal your glam 💯 South Asian
+      ✨🥭Just a Miami girl, living in a Miami world 🌴✨ Miami’s favorite hype girl 😝
     location: "United States"
-    followers: 31441
-    engagement: 241
-    commentsToLikes: 0.180128
-    id: ck0w237grmem00i1985jtl4ck
+    followers: 11044
+    engagement: 787
+    commentsToLikes: 0.059684
+    id: ck6tyux3q601p0j71raik6ptj
     verified: false
-    hashtags: "#whatshewore, #whatiworetoday, #bostonblogger, #summeroutfits"
+    hashtags: "#beachlife, #prettylittlething, #adventure, #swanmiami"
+  - username: "taylasnts"
+    fullname: >-
+      Tayla Santos | Casual Street Style
+    bio: >-
+      📍BOSTON •Lifestyle driven by faith •casual street & neutral outfit inspo tayla@taylascloset.com
+    location: "United States"
+    followers: 159744
+    engagement: 400
+    commentsToLikes: 0.019160
+    id: ckaors7d3oiij0i78n27itc02
+    verified: false
+    hashtags: "#revolveme, #anthropartner, #lexuspartner, #experienceamazing"
   - username: "lindatenchitran"
     fullname: >-
       Linda | Fashion
@@ -54,7 +66,7 @@ profiles:
     commentsToLikes: 0.096028
     id: ckaouwqye25d80i78ghj8dxwj
     verified: false
-    hashtags: "#hbtsponsored, #zaful, #zafulgirl, #zafulfashion"
+    hashtags: "#hbtsponsored, #zafulgirl, #zafulfashion, #justcbd"
   - username: "mallorycassady"
     fullname: >-
       Mallory Dill Cassady
@@ -67,42 +79,6 @@ profiles:
     id: ck0tz7p8bpdnp0i193sx4srk1
     verified: false
     hashtags: "#ltkhome, #styledbypetalandpup, #diffeyewear, #nutrafolpartner"
-  - username: "polyanablog"
-    fullname: >-
-      Polyana
-    bio: >-
-      ⚡️Beauty ⚡️Fashion ⚡️ Lifestyle 📍#Boston #bostonblogger
-    location: "United States"
-    followers: 15727
-    engagement: 407
-    commentsToLikes: 0.028507
-    id: ckap28wvtxw6p0i78udto1pwm
-    verified: false
-    hashtags: "#skincare, #hbtpress, #octolyfamily, #shoesaddict"
-  - username: "vera.laro"
-    fullname: >-
-      Vera | BSc Chem Eng JD
-    bio: >-
-      💪 Workouts for Everyone & Healthy Lifestyle ✨ Boston, MA 🇺🇸 🇷🇺 🇮🇱 (Previously: Fashioneatstravel)
-    location: "United States"
-    followers: 177849
-    engagement: 143
-    commentsToLikes: 0.057557
-    id: ckf5meq4pth7p0j23iy2cs6k4
-    verified: false
-    hashtags: ""
-  - username: "eastcoastfeastcoast"
-    fullname: >-
-      Lena|Boston’s Garden of Eatin’
-    bio: >-
-      ⚡️food | recipes | luxury travel | lifestyle 📍#boston 💌 eastcoastfeastcoast@gmail.com
-    location: "United States"
-    followers: 161885
-    engagement: 55
-    commentsToLikes: 0.070052
-    id: ck8sxkl19hqkv0j784mbjri7m
-    verified: false
-    hashtags: "#sanfranciscoeats, #sanfranciscofood, #llbeanpartner, #beanoutsiderinthecity"
   - username: "autumninmotherhood"
     fullname: >-
       Autumn
@@ -114,7 +90,7 @@ profiles:
     commentsToLikes: 0.101333
     id: ckf5o6c6012zp0j235ag1sopg
     verified: false
-    hashtags: "#gooutside, #childhoodunplugged, #newhomeadventures, #thisis9"
+    hashtags: "#gooutside, #dreamhome, #iykyk, #mancave"
   - username: "niaraijezie"
     fullname: >-
       NiARA IJEZIE ✨
@@ -126,5 +102,29 @@ profiles:
     commentsToLikes: 0.067523
     id: ck6tifle60mhs0j711ru3rnsr
     verified: false
-    hashtags: "#browngirlbloggers, #chillvibes, #melaninstylediary, #travelandchill"
+    hashtags: "#upintheairlife, #melanintravel, #swipe, #weworktotravel"
+  - username: "erinkeavs"
+    fullname: >-
+      Erin K | Boston Lifestyle
+    bio: >-
+      bringing dreams to life one dress at a time 🌻 create your own sunshine ✨mental health + clean beauty advocate 📍Boston based 👇🏼style, life + adventure
+    location: "United States"
+    followers: 4163
+    engagement: 511
+    commentsToLikes: 0.095778
+    id: ckf5t15khgnqx0j238pa74ag8
+    verified: false
+    hashtags: "#booksparks, #countdowntofireflylane, #ltksalealert, #ad"
+  - username: "sugarandstamps"
+    fullname: >-
+      Shem • Boston Travel Creator
+    bio: >-
+      ✈️ Travel, Food, Lifestyle & Adventure ☕️ Boston based coffee lover ✨ Sharing bucketlist experiences 💌 Collab/PR: info@sugarandstamps.com
+    location: "United States"
+    followers: 35780
+    engagement: 182
+    commentsToLikes: 0.121215
+    id: cli1zodsqjxjd0j08nxfl1tjr
+    verified: false
+    hashtags: "#boston, #visitboston, #bostonsnow, #bostonwinter"
 ---

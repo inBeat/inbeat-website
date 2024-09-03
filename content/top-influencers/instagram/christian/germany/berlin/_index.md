@@ -1,24 +1,12 @@
 ---
-title: Top 10 Christian Instagram Influencers In Berlin In 2023
+title: Top 10 Christian Instagram Influencers In Berlin In 2024
 description: >-
-  Find top christian Instagram influencers in Berlin in 2023. Most popular hashtags: #corona #berlin #editorialmakeup.
+  Find top christian Instagram influencers in Berlin in 2024. Most popular hashtags: #berlin #somewheremagazine #linkinbio.
 platform: Instagram
-hits: 46
-text_top: See the top-rated Instagram accounts on inBeat.
-text_bottom: Our search engine has 46 Instagram influencers like this in Berlin, Germany for you to contact.
+hits: 60
+text_top: Discover the top-rated Instagram profiles on inBeat.
+text_bottom: inBeat has 60 Instagram influencers like this in Berlin, Germany for you to contact.
 profiles:
-  - username: "vanelynnofficial"
-    fullname: >-
-      Vanelynn™️
-    bio: >-
-      #veggie #metalcore #semicolonproject 💎ACTRESS|MODEL|COACH 🇬🇧 @victoriousmgt 🇩🇪 @agentur_publicpeople 🎬 @beautyhorizonfilms
-    location: "Germany"
-    followers: 26324
-    engagement: 268
-    commentsToLikes: 0.473707
-    id: ck5pzsswp2kym0i113a13w52b
-    verified: false
-    hashtags: "#gesundheit, #gemeinsamgegencorona, #scenequeens, #catwalk"
   - username: "evilynfrantic"
     fullname: >-
       Evilyn Frantic
@@ -49,12 +37,12 @@ profiles:
     bio: >-
       🏢 Bundesminister der Finanzen 🤳Chef von @fdp. 🎧 Podcast @spotify: CL+. 📲 christian.lindner@fdp.de 📍 Berlin
     location: "Germany"
-    followers: 364919
-    engagement: 216
-    commentsToLikes: 0.035443
+    followers: 372508
+    engagement: 131
+    commentsToLikes: 0.142731
     id: ck0twafkcemez0i19ne6t0j6h
     verified: true
-    hashtags: "#deutschlandticket, #commonframework, #emsland, #ukraine"
+    hashtags: "#3k24, #weimar, #wettbewerbsf, #clfragt"
   - username: "luise.heyer"
     fullname: >-
       Luise Heyer
@@ -79,52 +67,64 @@ profiles:
     id: ck5hlyvgol3ty0i11jbtkguxg
     verified: false
     hashtags: "#fashionphotography, #berlincitygirl, #modelshoot, #portraitphotography"
-  - username: "christiantorez"
+  - username: "peerkusmagk"
     fullname: >-
-      CHRISTIAN TOREZ
+      peerkusmagk
     bio: >-
-      BERLIN | COLOGNE TIKTOK - 300k+ Founder - @notinlineofficial Impressum - @maui.impressum
+      LIFE COACH | Happiness Trainer MENTOR für Dein glückliches Leben 🤝Mentoring 💫Next Level Transformation
     location: "Germany"
-    followers: 117645
-    engagement: 965
-    commentsToLikes: 0.014168
-    id: ckap02kf5ofot0i78zfx4i0y0
+    followers: 68330
+    engagement: 485
+    commentsToLikes: 0.023118
+    id: ck5hh8aca6wnj0i11tj3v280n
     verified: true
-    hashtags: "#gay, #lgbtq, #ootd"
-  - username: "rick.okon"
+    hashtags: "#32ssw, #glaubenss, #geschwisterliebe, #glu"
+  - username: "kolja.eckert"
     fullname: >-
-      Rick Okon
+      KOLJA ECKERT
     bio: >-
-      Actor Berlin PR: @silviaschumacherpr
+      MGMT BERLIN 🇪🇺 @boschtobanrap
     location: "Germany"
-    followers: 16902
-    engagement: 1765
-    commentsToLikes: 0.029495
-    id: ck0vy48l525xe0i19b7bofu62
+    followers: 71048
+    engagement: 655
+    commentsToLikes: 0.018731
+    id: ck55jnzhfxefh0i11gx5ayhmo
     verified: false
-    hashtags: "#season2, #zdf, #dasboot, #tatort"
-  - username: "paula.kalenberg"
+    hashtags: "#onbooooooom, #thinkverylittle, #verybusymag, #somewheremagazine"
+  - username: "chrisschwarz"
     fullname: >-
-      Paula Kalenberg
+      Chris Schwarz
     bio: >-
-      ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ Berufliche Anfragen bitte an: ◻️ @birnbaum.berlin ◻️ >> siehe Kontakte ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡
+      based in Berlin
     location: "Germany"
-    followers: 11263
-    engagement: 880
-    commentsToLikes: 0.019235
-    id: ck5bxbrywnf540i11payxta6p
+    followers: 15400
+    engagement: 373
+    commentsToLikes: 0.025980
+    id: ck5c4c4ew11hu0i113ohw6yga
     verified: false
-    hashtags: "#joopvintage, #bullerei, #wolfganggross, #jetztgehtslos"
-  - username: "ingajackson"
+    hashtags: "#fpvdrone, #skateboarding, #cowmzuglauben, #eincowfen"
+  - username: "lukas_hof"
     fullname: >-
-      Inga Jackson
+      Lukas
     bio: >-
-      Berlin based
+      Berlin 📍 "Leben über Kopf" 📖🌿🧑🏻‍🎨📚 Ethik | Nachhaltigkeit 📚 Building @bookie.theapp 📸 Fotografie | @lukas_vom_hofe
     location: "Germany"
-    followers: 5220
-    engagement: 1033
-    commentsToLikes: 0.057187
-    id: ck5bvvrp2khy60i11l5kwqswm
+    followers: 261363
+    engagement: 259
+    commentsToLikes: 0.010580
+    id: ck0u04x38sl7o0i19ilc9tr35
     verified: false
-    hashtags: "#hefeweizendurst"
+    hashtags: "#bombay, #stircreativity, #sawthismadethis, #deinebrillefielmann"
+  - username: "johannesvogel"
+    fullname: >-
+      Johannes Vogel
+    bio: >-
+      💛 Stv. Bundesvorsitzender der @fdp 🗽 1. Parlamentarischer Geschäftsführer @fdpbt 📍 Sauerland | Berlin
+    location: "Germany"
+    followers: 15743
+    engagement: 209
+    commentsToLikes: 0.021165
+    id: ck5q1e1deajjx0i115hvcne4n
+    verified: true
+    hashtags: "#wahlkampf, #br, #workworkwork, #politik"
 ---

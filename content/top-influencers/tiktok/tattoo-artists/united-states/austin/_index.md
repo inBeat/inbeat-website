@@ -1,11 +1,11 @@
 ---
-title: Top 10 Tattoo-Artists TikTok Influencers In Austin In 2023
+title: Top 10 Tattoo-Artists TikTok Influencers In Austin In 2024
 description: >-
-  Find top tattoo-artists TikTok influencers in Austin in 2023. Most popular hashtags: #fyp #tattoo #tattooartist #stitch.
+  Find top tattoo-artists TikTok influencers in Austin in 2024. Most popular hashtags: #fyp #tattoo #tattooartist #stitch.
 platform: TikTok
 hits: 5
-text_top: Discover the top-rated TikTok accounts on inBeat.
-text_bottom: inBeat holds 5 TikTok influencers like this in Austin, United States for you to contact.
+text_top: Identify the best TikTok influencers on inBeat.
+text_bottom: Our database holds 5 TikTok influencers like this in Austin, United States for you to connect with.
 profiles:
   - username: "blizzilla"
     fullname: >-
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.031880
     id: ck81qusw8k1cf0j789ym4tgdw
     verified: false
-    hashtags: "#foryou, #new, #fyp, #shoes"
+    hashtags: "#handpainted, #new, #customsneakers, #sneakers"
   - username: "livcharetteofficial"
     fullname: >-
       livcharette
@@ -54,7 +54,7 @@ profiles:
     commentsToLikes: 0.041747
     id: ckd095cktbfv20j232okl2lah
     verified: true
-    hashtags: "#onewordsongchallenge, #singingchallenge, #fidoboostchallenge, #tinymic"
+    hashtags: "#onewordsongchallenge, #fidoboostchallenge, #pickanamechallenge, #singingchallenge"
   - username: "giapupia"
     fullname: >-
       enragedfeminist
@@ -90,7 +90,7 @@ profiles:
     commentsToLikes: 0.058130
     id: ckd6xl5tguj3l0j23b4xeypuj
     verified: false
-    hashtags: "#greenscreenvideo, #inverted, #studioghibli, #fyp"
+    hashtags: "#greenscreen, #greenscreenvideo, #inverted, #studioghibli"
   - username: "mr.tattooguy1"
     fullname: >-
       Everett
@@ -109,12 +109,12 @@ profiles:
     bio: >-
       33 | Tattoo artist, illustrator, emotional about everything. They/Them
     location: "United States"
-    followers: 20600
-    engagement: 1286
-    commentsToLikes: 0.069516
+    followers: 21100
+    engagement: 1397
+    commentsToLikes: 0.080039
     id: ckcjibry2cq620j23eicft11r
     verified: false
-    hashtags: "#elijorgensen, #drawing, #seattletattooartist, #queertattooartist"
+    hashtags: "#queertattooartist, #seattletattooartist, #fyp, #elijorgensen"
   - username: "ceciliamarietattoos"
     fullname: >-
       Cecilia Marie
@@ -126,5 +126,5 @@ profiles:
     commentsToLikes: 0.053516
     id: ckd6wvwcjt4x60j23lbbo8d09
     verified: false
-    hashtags: "#757, #fyp, #ceciliamarietattoos, #witchesoftiktok"
+    hashtags: "#witchesoftiktok, #tattooartistsoftiktok, #757, #fyp"
 ---

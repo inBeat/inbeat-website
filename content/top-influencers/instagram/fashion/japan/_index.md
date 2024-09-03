@@ -1,130 +1,130 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Japan In 2023
+title: Top 10 Fashion Instagram Influencers In Japan In 2024
 description: >-
-  Find top fashion Instagram influencers in Japan in 2023. Most popular hashtags: #ootd #fashion #bike.
+  Find top fashion Instagram influencers in Japan in 2024. Most popular hashtags: #pr #japan #ootd.
 platform: Instagram
-hits: 1061
-text_top: Identify the top-rated Instagram accounts on inBeat.
-text_bottom: Our search engine holds 1061 Instagram influencers like this in Japan for you to collaborate.
+hits: 1087
+text_top: Analyze the top-rated Instagram accounts on inBeat.
+text_bottom: Our database aggregates 1087 Instagram influencers like this in Japan for you to collaborate.
 profiles:
-  - username: "hidehisa0717"
+  - username: "kirahominique"
     fullname: >-
-      Hidehisa🔹Ohtsubo
+      K I R A H O M I N I Q U E
     bio: >-
-      Japan🔘Tokyo⏪️⏩️Fukuoka 🔵に🇮🇹 Fashion Suits or Casual #followme #like4like
+      Beauty | Fashion | Lifestyle 💌 Business Inquires: Contact.mgmt@Kirahominique.com 🎥Youtube: Kirah Ominique
     location: "Japan"
-    followers: 7741
-    engagement: 1516
-    commentsToLikes: 0.199987
-    id: ck13abcdjpk290i19a8dw37a4
+    followers: 409250
+    engagement: 1003
+    commentsToLikes: 0.015449
+    id: ck6tocvqhdd530j71tb8rx7lr
     verified: false
-    hashtags: ""
-  - username: "candy50s"
+    hashtags: "#luxetribes, #luxetribespartner, #luxetribesbrandtrip, #topicalsgonetoghana"
+  - username: "officialmissneko"
     fullname: >-
-      Candy∮♪♦︎
+      Miss Neko
     bio: >-
-      ♦︎♦️♦︎∮Osaka Japan∮♦︎♦️♦︎ Fashion Coordinator Doll「Dragon Comi」Designer 料理研究家HMH所属 Candy Official Blog
+      I'm Johanna 🌸 Japanese fashion 🌸 kawaii culture 🌸 travel 🌎 🌸 大学卒✨日本語OK🇯🇵 my teacup Pom 🐶: @himaripom 🇩🇪->🇯🇵(1 year)->🇺🇸 L.A. 🏝
     location: "Japan"
-    followers: 20640
-    engagement: 2048
-    commentsToLikes: 0.039229
-    id: ckaotw24xxrbh0i78qs0ejjyv
+    followers: 16862
+    engagement: 497
+    commentsToLikes: 0.030662
+    id: cl5jb4nvz7hyq0i230znyrrph
     verified: false
-    hashtags: "#billwallleather, #bikerfashion, #bike, #jeepjapan"
-  - username: "lara_vns"
+    hashtags: "#polylove, #polyamorous, #mymelody, #cosplaygirl"
+  - username: "milez728"
     fullname: >-
-      𝐖𝐨𝐦𝐚𝐧𝐟𝐚𝐬𝐡𝐢𝐨𝐧 | 𝐌𝐨𝐝𝐞𝐥 | 𝐁𝐥𝐨𝐠𝐠𝐞𝐫
+      青山舞莉　MILEY AOYAMA
     bio: >-
-      ———————————————— » Fashion » Fitness » Lifestyle ———————————————— 21 y/o | German | P🌹
+      tokyo & traveling travel fashion makeup waseda お仕事 info@qualiam.com 🇯🇵🇮🇩🇸🇬🇺🇸 @mile_official__ 月1海外旅行に行く人
     location: "Japan"
-    followers: 12770
-    engagement: 786
-    commentsToLikes: 0.136789
-    id: ckap8nya3p6kk0i78tp4nb40s
+    followers: 45914
+    engagement: 430
+    commentsToLikes: 0.001633
+    id: ck8t7wy4ti8x70j78cxqlaynx
     verified: false
-    hashtags: "#saturdayoutfit, #weareallinthistogether, #versacebag, #workingonme"
-  - username: "takuro.ohno"
+    hashtags: "#pr, #lovebonito, #gu, #murua"
+  - username: "weeweefrenchie"
     fullname: >-
-      大野拓朗
+      Wee Wee Frenchie ® - Blogger
     bio: >-
-      TOKYO/NY Actor/Fashion 公式後援会▷▷takutomonokai@gmail.com Twitter▷▷@Takuro_Ohno OFFICIAL WEB SITE▷▷https://ohnotakuro.com/ ▽New Year's Dreamチケット購入▽
+      Seattle’s Fashionable Frenchie Bros Cooper (8Y),Phoenix (6Y),Syre (4Y) . 🤴🏼King P, ‘19 Pup of the Year . ↘️Follow our dog blog. Post every Monday↙️
     location: "Japan"
-    followers: 67292
-    engagement: 588
-    commentsToLikes: 0.044742
-    id: ck15s3xeob3ie0i19iokesmup
+    followers: 18298
+    engagement: 241
+    commentsToLikes: 0.288609
+    id: ck5zxbl4b7pdb0i14q387cf3r
+    verified: false
+    hashtags: "#weeboysyre, #frenchiebulldog, #weebabyphoenix, #dogsmakeeverythingbetter"
+  - username: "guava.chang"
+    fullname: >-
+      拔辣-若茵
+    bio: >-
+      #茵茵隨手寫 💬 photography • fashion • lifestyle • engineering 🚴‍♀️🏋🏻‍♀️ 📸 🥣 🎵 Contact/合作✉️ Email 或 私訊 🐆 @0617prince
+    location: "Japan"
+    followers: 157835
+    engagement: 225
+    commentsToLikes: 0.006575
+    id: ck5q41jkknc0d0i110iylum48
+    verified: false
+    hashtags: "#photography, #happyvalentinesday, #travel, #aquaeveryday"
+  - username: "shirtstuckedin"
+    fullname: >-
+      SHIRTSTUCKEDIN
+    bio: >-
+      driver & photographer. car fashion & accessories shop. 関西奈良県日本、オーストラリア よろしくお願いします SHOP NOW 🌍 X
+    location: "Japan"
+    followers: 182749
+    engagement: 220
+    commentsToLikes: 0.005758
+    id: ck1343djjuhxt0i19ote24aic
+    verified: false
+    hashtags: "#nstyle"
+  - username: "mari_alwayshawaii"
+    fullname: >-
+      
+    bio: >-
+      Osaka city/27old fashion/cafe/travel/WoomyVipInfluencer 🌿🌿🌿 楽天ルームしてます⸜❤︎⸝‍
+    location: "Japan"
+    followers: 34184
+    engagement: 216
+    commentsToLikes: 0.005036
+    id: ckap3e9se2pix0i78zw0khw7o
+    verified: false
+    hashtags: "#baum, #urs, #gu, #pr"
+  - username: "rinrindoll"
+    fullname: >-
+      RinRin 📍 Tokyo
+    bio: >-
+      🇺🇸➡︎🇯🇵 Tokyo-based subculture fashion model 🎵Fantasy Lolita Pop ▶︎ @bonsurinrin 🦋Beauty+Fashion YT 🎤 TV Host 🎀Japanese lolita fashion model 15+ yrs
+    location: "Japan"
+    followers: 187243
+    engagement: 208
+    commentsToLikes: 0.006282
+    id: ck0w64lyn6vsw0i19ex2ooch4
     verified: true
-    hashtags: "#iwc, #tetsuharu, #duke390, #motonavi"
-  - username: "a.asuka.a"
+    hashtags: "#harajuku, #lolitafashion, #rinrindoll, #minorinrin"
+  - username: "amylialoh"
     fullname: >-
-      asuka | Freelance Model
+      AMY LOH
     bio: >-
-      Osaka | Japan Beauty💄Fashion👗Travel🌍 155cmコーデ 撮影等お仕事依頼はDM💌にお願い致します💕
+      ¼ @wearecoex.official 👽 singer • dancer • model • creator fashion | beauty | lifestyle work/collab 💌: dm/email @armanientertainment 🏹: pr@armani.my
     location: "Japan"
-    followers: 39010
-    engagement: 287
-    commentsToLikes: 0.059405
-    id: ck5hiace7cgwh0i11o7iuh993
+    followers: 13521
+    engagement: 180
+    commentsToLikes: 0.028423
+    id: clm70aq1lgk7f0j08qvgkbwta
     verified: false
-    hashtags: "#kuih, #kuihst, #locari, #ac"
-  - username: "pinkgaijin"
+    hashtags: "#amyco, #armanientertainment, #co, #aeg"
+  - username: "mikko1104"
     fullname: >-
-      𝓝𝓲𝓴𝔂 ໒꒱
+      矢野未希子
     bio: >-
-      ☁️ tokyo based / from argentina ໒꒱ 🎀 artist・model・fashion creative 🌸 youtube coming soon! 💌 日本語・english・español
+      fashionmodel Yano Mikiko ceramic🕊@b_pureceramic YouTube⤵︎
     location: "Japan"
-    followers: 11840
-    engagement: 1354
-    commentsToLikes: 0.028818
-    id: ck5zjf5r1hhd40i148bi7rto1
-    verified: false
-    hashtags: "#daiso, #aesthetic, #kawaii, #kawaiifood"
-  - username: "helitiiamaria"
-    fullname: >-
-      𝒯𝒾𝓃𝓀𝑒𝓇𝒷𝑒𝓁𝓁𝒶
-    bio: >-
-      #momlife #kids #fashion #beauty #food #flower #flatlay 👶🏽💗 Rosa 6/20 👶🏽💗 Jade 5/19 👦🏽💗 Lukas 9/12 💌 tinkerbellaheli@gmail.com 💕 Uusin video ⤵️
-    location: "Japan"
-    followers: 16327
-    engagement: 1069
-    commentsToLikes: 0.013703
-    id: ckap3dwfb2ntp0i78htwfh769
-    verified: false
-    hashtags: "#ootd, #makeistukku, #taffelpandashop, #fillerina"
-  - username: "otoshima_risa"
-    fullname: >-
-      音嶋莉沙
-    bio: >-
-      ＝LOVE 🍒Risa🍒 fashion👗make💄pink🎀kawaii💖 tapioca🍹 follow me🦄 twitter👉@otoshima_risa お仕事、メッセージはこちらまで👇💌 info-equal-love@yagnet.jp
-    location: "Japan"
-    followers: 45148
-    engagement: 1207
-    commentsToLikes: 0.018948
-    id: ckaovcxj041sf0i786pq7zkpt
+    followers: 393639
+    engagement: 159
+    commentsToLikes: 0.003219
+    id: ck6tukfxqgulx0j71t01vugf1
     verified: true
-    hashtags: "#oneway, #bubbles, #zacc, #clore"
-  - username: "_maaaiii_1828"
-    fullname: >-
-      Ⓜ︎ai
-    bio: >-
-      ⚀sneakers ⚁fashion ⚂denim ⚃nail ✖️無断転載禁止 ✖️しょーもないDMいりません fashionアカウント ▷▶︎▷▶︎ @_maimai_1828
-    location: "Japan"
-    followers: 10273
-    engagement: 1287
-    commentsToLikes: 0.028993
-    id: ckaowvmgzanh70i78ka3jcz7h
-    verified: false
-    hashtags: "#airmaxkicks, #airforce1, #streetfashion, #kicstagram"
-  - username: "kenken_baaaa"
-    fullname: >-
-      けんけん. Kenta Baba
-    bio: >-
-      ラテアートの先生 @lattepriart 🥇JAPAN MATCHA LATTEART COMPETITION 2020 . Tokyo | Barista | Fashion | Liver Youtube《真夜中の12時》 . ご連絡はDMにお願いします📩 ⠀ ⬇︎生徒さん募集中⬇︎
-    location: "Japan"
-    followers: 72702
-    engagement: 1321
-    commentsToLikes: 0.016580
-    id: ck5cjpl0zv8140i11ztw3v0p3
-    verified: false
-    hashtags: "#misojyu, #vancouvercoffee, #latteart, #a16yokohama"
+    hashtags: "#jccorecollection, #pr"
 ---

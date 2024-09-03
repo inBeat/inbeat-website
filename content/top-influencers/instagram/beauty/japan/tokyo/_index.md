@@ -1,11 +1,11 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Tokyo In 2023
+title: Top 10 Beauty Instagram Influencers In Tokyo In 2024
 description: >-
-  Find top beauty Instagram influencers in Tokyo in 2023. Most popular hashtags: #beauty #fashion #tokyo #cafe.
+  Find top beauty Instagram influencers in Tokyo in 2024. Most popular hashtags: #beauty #fashion #tokyo #japan.
 platform: Instagram
-hits: 164
-text_top: Identify the best Instagram accounts on inBeat.
-text_bottom: inBeat aggregates 164 Instagram influencers like this in Tokyo, Japan for you to contact.
+hits: 171
+text_top: See the top-rated Instagram profiles on inBeat.
+text_bottom: Our database holds 171 Instagram influencers like this in Tokyo, Japan for you to work with.
 profiles:
   - username: "yukikokouyama"
     fullname: >-
@@ -19,18 +19,18 @@ profiles:
     id: ck5zzwpl6cjum0i14ycw664h7
     verified: false
     hashtags: "#love, #foto, #beauty, #tokyo"
-  - username: "megukiss0517"
+  - username: "anshindoyle"
     fullname: >-
-      ˚✧₊⁎M e g u m i˚✧₊⁎
+      Anshin Doyle 💗 M a r i a  G
     bio: >-
-      ・Beauty💅 アドバイザー💓✨ ・Esthetician✨👯‍♀️✨ ・Aroma講師🌈✨ 🐉風水Feng Shui🐉でhappyに💜 💟美容と健康💓Diet🥂✨💟 【お仕事のご依頼はDM下さい💌🙆‍♀️】 💓気軽にfollowプリーズ💓 ‥素敵な情報見てね🥰💋⬇️
+      📍Tokyo, Japan 🇯🇵 YouTube [+233K] 🍡 Pop culture, lifestyle and travel 🍣 🌸 Podcast “Dramas y Sakuras” 💌 hello@anshindoyle.jp
     location: "Japan"
-    followers: 112625
-    engagement: 169
-    commentsToLikes: 0.048997
-    id: ckaosohjtsdjc0i783i505nnd
+    followers: 68589
+    engagement: 279
+    commentsToLikes: 0.028468
+    id: ckap1l7qov0r00i78pimzwh0n
     verified: false
-    hashtags: "#happiness, #xmas, #valentine, #thankyou"
+    hashtags: "#kawaii, #makeup, #comidajaponesa, #tokio"
   - username: "u_tam_"
     fullname: >-
       minami

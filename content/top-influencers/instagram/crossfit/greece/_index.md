@@ -1,11 +1,11 @@
 ---
-title: Top 10 Crossfit Instagram Influencers In Greece In 2023
+title: Top 10 Crossfit Instagram Influencers In Greece In 2024
 description: >-
-  Find top crossfit Instagram influencers in Greece in 2023. Most popular hashtags: #instagood #training #fitness #fitnessmotivation.
+  Find top crossfit Instagram influencers in Greece in 2024. Most popular hashtags: #crossfit #instagood #fitnessmotivation #fitness.
 platform: Instagram
 hits: 10
-text_top: Discover the top-rated Instagram influencers on inBeat.
-text_bottom: Our database aggregates 10 Instagram influencers like this in Greece for you to pitch.
+text_top: Discover the top-rated Instagram accounts on inBeat.
+text_bottom: Our search engine aggregates 10 Instagram influencers like this in Greece for you to connect with.
 profiles:
   - username: "marius.ad.libitum"
     fullname: >-
@@ -31,18 +31,18 @@ profiles:
     id: ck6ubtihpbm480j7100ccqbbw
     verified: false
     hashtags: "#crossfitgirls, #fitgirls, #fitnesswomen, #healthylifestyle"
-  - username: "george_komvokis"
+  - username: "joaannakk"
     fullname: >-
-      George Komvokis | Greece
+      Joanna
     bio: >-
-      Travel | Nature | Outdoor CrossFit Athlete Athens | Lesvos Island Check my IGTV
+      Philology ,@duthgr 🎓 #Greece ॐ Collabs : email 💚
     location: "Greece"
-    followers: 16611
-    engagement: 1283
-    commentsToLikes: 0.061653
-    id: ck6tpxb1qnzo90j710y2w0och
+    followers: 14450
+    engagement: 270
+    commentsToLikes: -0.093464
+    id: cl9k31vd2izfu0i23tba4mg6g
     verified: false
-    hashtags: "#cinematography, #photooftheday, #nikon, #me"
+    hashtags: "#casual, #fashion, #motivation, #stylish"
   - username: "evdoxia_dm"
     fullname: >-
       Evdoxia Dima Xalatsi
@@ -67,6 +67,18 @@ profiles:
     id: ck6ufnr4jy3mu0j71r5snnibe
     verified: false
     hashtags: "#lifestyle, #picoftheday, #funcional, #photooftheday"
+  - username: "marilenaschizodimou"
+    fullname: >-
+      Marilena Schizodimou
+    bio: >-
+      ᴰᵃⁿᵃⁱ'ˢᵐᵒᵐ✨ᶜᵃˡⁱˢᵗʰᵉⁿⁱᶜˢ🤸🏻‍♀️ᵃⁿⁱᵐᵃˡᵐᵒᵛᵉᵐᵉⁿᵗᶜᵒᵃᶜʰ🐆ᵃʳᵗⁱˢᵗ 🎨ᶜʰⁱʳᵒᵖʳᵃᶜᵗᵒʳ 🌐ᵒʷⁿᵉʳᵒᶠ @mst.workout @chromataneochori @hobo_donkey @cadillac_records_bar ˡᵒᵛᵉʳ
+    location: "Greece"
+    followers: 10338
+    engagement: 533
+    commentsToLikes: 0.021057
+    id: ckf5o70de15w00j238ln8ha5b
+    verified: false
+    hashtags: "#msttraining, #chromataneochori, #art, #bohostyle"
   - username: "lia.agapitou"
     fullname: >-
       Lia Agapitou (λια Αγαπητου)💎💎💎
@@ -115,16 +127,4 @@ profiles:
     id: ck5hq8ndesp420i11ujzbs2s7
     verified: false
     hashtags: "#boxing, #vizantinostargetsportclub, #building, #navarinochallenge"
-  - username: "jeremyjauncey"
-    fullname: >-
-      Jeremy Jauncey
-    bio: >-
-      Founder & CEO @beautifuldestinations @beautifulhotels WWF, Gold Standard, Panerai Ambassador @wwf @goldstandard4globalgoals @panerai 🐼🌎😎🤙 #bdteam
-    location: "Greece"
-    followers: 1168709
-    engagement: 636
-    commentsToLikes: 0.007401
-    id: ck0tymyj3nbu20i1920f6wcw4
-    verified: true
-    hashtags: "#beautifuldestinations, #bdteam, #inabudhabi"
 ---

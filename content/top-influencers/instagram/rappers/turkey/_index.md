@@ -1,48 +1,36 @@
 ---
-title: Top 10 Rappers Instagram Influencers In Turkey In 2023
+title: Top 10 Rappers Instagram Influencers In Turkey In 2024
 description: >-
-  Find top rappers Instagram influencers in Turkey in 2023. Most popular hashtags: #like4like #likeforlikes #jennie.
+  Find top rappers Instagram influencers in Turkey in 2024. Most popular hashtags: #rap #rapper #likeforlikes.
 platform: Instagram
-hits: 19
-text_top: Discover the most popular Instagram influencers on inBeat.
-text_bottom: Our search engine holds 19 Instagram influencers like this in Turkey for you to collaborate.
+hits: 18
+text_top: See the most popular Instagram profiles on inBeat.
+text_bottom: Our search engine aggregates 18 Instagram influencers like this in Turkey for you to collaborate.
 profiles:
-  - username: "hamedfard"
+  - username: "tarooq_official"
     fullname: >-
-      Hamed Fard
+      T.M.X🦅
     bio: >-
-      The Official Instagram Account Of Hamed Fard Iranian Rapper
+      🇸🇾🇦🇪 #Rapper + BUSINESS MAN يتحدى المخاطر⚡️ 🔻رابط قناتي الجديدة🔻
     location: "Turkey"
-    followers: 193508
-    engagement: 1248
-    commentsToLikes: 0.097259
-    id: ck9wi5xvq0vxl0j78chkqg10l
+    followers: 161267
+    engagement: 496
+    commentsToLikes: 0.044654
+    id: ck8szgbmxoc2p0j7815s6vury
     verified: false
-    hashtags: "#isfahan, #rapper, #khashayiar, #spotify"
-  - username: "djakman"
-    fullname: >-
-      Osman Kurnaz
-    bio: >-
-      Singer|Rapper|Composer
-    location: "Turkey"
-    followers: 71222
-    engagement: 576
-    commentsToLikes: 0.032273
-    id: ck8wfr7jgg4vv0j78e1dm49sw
-    verified: false
-    hashtags: "#adana, #evdekal, #seninlesondefa, #akman"
+    hashtags: "#963, #soon, #leila, #tmx"
   - username: "ayben"
     fullname: >-
       Ayben
     bio: >-
       Contact:Berfu Merve Bolulu @berfumrvbolulu Mail:bmb@bmbcreative.co Nightwriter🦉 Moonwalker🌙 Rapper👊🎤 #AybenBaşkan "OYUN PARKI" Official Video Out Now
     location: "Turkey"
-    followers: 113634
-    engagement: 970
-    commentsToLikes: 0.019413
+    followers: 106742
+    engagement: 1083
+    commentsToLikes: 0.020559
     id: ck5hsncfgwvke0i11755k28u5
     verified: true
-    hashtags: "#stayhome, #octoberbreastcancerawerenessmonth, #coderedrestart, #saveourstages"
+    hashtags: "#itawtitawapuddytat, #weareevents, #coderedrestart, #womenempoweringwomen"
   - username: "aresraps"
     fullname: >-
       👑ARES RL ONLİNE👑
@@ -127,4 +115,16 @@ profiles:
     id: ck8t35fob1xvu0j78jo055qq3
     verified: false
     hashtags: "#geribass, #follow, #all, #style"
+  - username: "efecanresmi_"
+    fullname: >-
+      Efecan
+    bio: >-
+      @efmproduksiyon Mürsel Nergiz 👇 #Cane Yayında👇
+    location: "Turkey"
+    followers: 114190
+    engagement: 696
+    commentsToLikes: 0.035383
+    id: ckap5lul9c8xd0i78muzzu2g1
+    verified: false
+    hashtags: "#efecan, #rap, #efe, #amed"
 ---

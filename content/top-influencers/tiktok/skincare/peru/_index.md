@@ -1,11 +1,11 @@
 ---
-title: Top 10 Skincare TikTok Influencers In Peru In 2023
+title: Top 10 Skincare TikTok Influencers In Peru In 2024
 description: >-
-  Find top skincare TikTok influencers in Peru in 2023. Most popular hashtags: #foryou #parati #fyp #greenscreen.
+  Find top skincare TikTok influencers in Peru in 2024. Most popular hashtags: #foryou #parati #fyp #peru.
 platform: TikTok
-hits: 10
-text_top: Identify the most popular TikTok accounts on inBeat.
-text_bottom: Our database has 10 TikTok influencers like this in Peru for you to pitch.
+hits: 11
+text_top: Discover the most popular TikTok influencers on inBeat.
+text_bottom: inBeat holds 11 TikTok influencers like this in Peru for you to contact.
 profiles:
   - username: "hannacoreana"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.020490
     id: ckacegpcjmpdv0i78uig42kzh
     verified: false
-    hashtags: "#coreanos, #coreadelsur, #kbeautty, #culturacoreana"
+    hashtags: "#koreantiktok, #coreadelsur, #modacoreana, #kbeautty"
   - username: "dayanazac"
     fullname: >-
       Dayana Zapata 🌸
@@ -115,16 +115,16 @@ profiles:
     id: ckb9rgxr1o30c0j23b3e2xb16
     verified: false
     hashtags: "#travel, #jangmirosa, #hanbok, #korea"
-  - username: "mafer.neyra"
+  - username: "antonellagalvez"
     fullname: >-
-      MAFERNEYRA
+      AntonellaGalvez
     bio: >-
-      New on Tiktok 🦋
+      Cuenta oficial 🇵🇪 Lima, Perú - 24 Periodista 🔎 - Locutora🎙️ LCC Tienda MUA
     location: "Peru"
-    followers: 136600
-    engagement: 484
-    commentsToLikes: 0.005506
-    id: ckdnjd210ir2c0j23g79sw0uw
+    followers: 63800
+    engagement: 399
+    commentsToLikes: 0.076936
+    id: ckbl1z1s9yxqy0j23tpif97ps
     verified: false
-    hashtags: "#pasalabrocha, #songofstyle, #revolvesummer, #denim"
+    hashtags: "#diccion, #lima, #locutora, #diadelamadre"
 ---

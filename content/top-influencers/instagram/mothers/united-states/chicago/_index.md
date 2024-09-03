@@ -1,24 +1,12 @@
 ---
-title: Top 10 Mothers Instagram Influencers In Chicago In 2023
+title: Top 10 Mothers Instagram Influencers In Chicago In 2024
 description: >-
-  Find top mothers Instagram influencers in Chicago in 2023. Most popular hashtags: #chicago #love #family #mother.
+  Find top mothers Instagram influencers in Chicago in 2024. Most popular hashtags: #chicago #family #love #explorepage.
 platform: Instagram
-hits: 57
-text_top: Analyze the top-rated Instagram influencers on inBeat.
-text_bottom: Our search engine aggregates 57 Instagram influencers like this in Chicago, United States for you to contact.
+hits: 68
+text_top: Discover the best Instagram profiles on inBeat.
+text_bottom: Our database aggregates 68 Instagram influencers like this in Chicago, United States for you to collaborate.
 profiles:
-  - username: "zooooobear"
-    fullname: >-
-      Z O Y A
-    bio: >-
-      Chicago blogger sharing fashion, lifestyle, & beauty inspo for empowered, goal oriented women!❤️ 💌: zalam.inquiries@gmail.com Where to shop my posts⤵️
-    location: "United States"
-    followers: 52393
-    engagement: 361
-    commentsToLikes: 0.141302
-    id: ck5q2mmjfgrin0i11uffb9ssr
-    verified: false
-    hashtags: "#momtobe, #chicagobloggers, #pregnantlife, #babycenterbabies"
   - username: "jmilagrosplus"
     fullname: >-
       Jessica Milagros
@@ -31,18 +19,6 @@ profiles:
     id: ck5cb5jc9eru00i11kyn6idcr
     verified: true
     hashtags: "#iamlatina, #plussizefashion, #celebratemysize, #latinx"
-  - username: "angi_lalonde"
-    fullname: >-
-      Angi LaLonde | oak&haven
-    bio: >-
-      ✧ keeping it simple everyday in life, style & home ✧ wife to Dan | mom to AJ ✧ chicago ✧ ✉️: angi@oakandhaven.com ✧ shop my instagram ↴
-    location: "United States"
-    followers: 4981
-    engagement: 270
-    commentsToLikes: 0.147251
-    id: ck8t8o7zdl4260j78e9j3zyit
-    verified: false
-    hashtags: "#ltkunder50, #ajlalonde, #oakandhavenblog, #oakandhaven"
   - username: "teddyandtina"
     fullname: >-
       TeddyAndTinaCampbell
@@ -67,64 +43,88 @@ profiles:
     id: ck8tbklasw08v0j78vllz9be4
     verified: false
     hashtags: "#nursing, #birthday, #love, #hospital"
-  - username: "roxie_cepeda"
+  - username: "therealmarilu"
     fullname: >-
-      Roxy Cepeda
+      Marilu Henner
     bio: >-
-      Outfits+inspirations 😀 •Wife•Momma of 3•Latina•Chicago lover of coffee☕️•fashion💕•Plants🌱wine🍷 Click the link⬇️ to shop my outfits 😀
+      Actress, Author, Mother, Wife, Memory Expert. Catch me on @hallmarkmovie in the Aurora Teagarden series!
     location: "United States"
-    followers: 9174
-    engagement: 616
-    commentsToLikes: 0.041422
-    id: ck6tj3mst1xyz0j714pztvbec
-    verified: false
-    hashtags: "#girl, #photooftheday, #photoshoot, #beauty"
-  - username: "thebrewnette_"
+    followers: 43457
+    engagement: 381
+    commentsToLikes: 0.038257
+    id: ck0vwvl73vsqy0i19pj8hu025
+    verified: true
+    hashtags: "#grease, #taxi, #onewomanshow, #memories"
+  - username: "tmurph"
     fullname: >-
-      
+      T. Murph️️
     bio: >-
-      Emma- Taking each day one beer at a time..sometimes more. 📍Chicagoland area. Untappd-Emily12593
+      Road to 1 Mill Tour Dates Detroit 8/1 Boston 8/3 Fort Wayne 8/4 Tulsa 8/18 OKC 8/29 VA Beach 9/8 Chandler 9/20-21 Chicago 10/5 LA 10/13 Get Tix Here👇🏾
     location: "United States"
-    followers: 14133
-    engagement: 411
-    commentsToLikes: 0.034763
-    id: ckap3298r18sv0i786iznhxhu
+    followers: 371396
+    engagement: 344
+    commentsToLikes: 0.059629
+    id: ckqh1dtdcpoxh0j23r3tp9v9z
     verified: false
-    hashtags: "#craftbeergirl, #brewnette, #ipa, #listermannbrewing"
-  - username: "mamajbirdy"
+    hashtags: "#thingstodoinchicago, #dadlife, #fyp, #viral"
+  - username: "teraohara"
     fullname: >-
-      Jes Ann Hall, RN
+      Tera O'Hara Fashion Model
     bio: >-
-      wife & mother baby girl due January🤰🏼 registered nurse Chicago native @mamajbirdyphotography
+      ( #silverhair Influencer, Mother, Beekeeper, Yogi). Wilhelmina NY 📍Ford Models Chicago📍CGM Miami 📍Mrs Robinson UK 📧For Inquiries: rdeal@fordmodels.com
     location: "United States"
-    followers: 10576
-    engagement: 400
-    commentsToLikes: 0.069291
-    id: ck8tb3phlu5730j7851vys3jz
+    followers: 19711
+    engagement: 313
+    commentsToLikes: 0.126852
+    id: ckx0v0il4zcj30j23x6t2abbs
     verified: false
-    hashtags: "#adayinscrubs, #movementbybuttersoft, #uagiveaways, #mrshall"
-  - username: "stavkb"
+    hashtags: "#silverhair, #bts, #silverhairmodel, #setlife"
+  - username: "melissagilbertofficial"
     fullname: >-
-      Stav Koren
+      Melissa E. Gilbert
     bio: >-
-      Chicago 📍 TLV Beauty blogger 💄 Youtuber 📷 Travel vlogger 🌏 Mother of JOHNNIE 👦🏼 Arya Lea 👧🏼 & KHALEESI 🐈 Vegeterian
+      Actor, advocate, author, wife, mother, grandmother, OG Halfpint
     location: "United States"
-    followers: 5762
-    engagement: 367
-    commentsToLikes: 0.192115
-    id: ckap1k2eouv6y0i78loh9pirq
+    followers: 232925
+    engagement: 297
+    commentsToLikes: 0.052537
+    id: ck8t9jl1koc3g0j78ie9onahj
     verified: false
-    hashtags: "#cliniqueisrael, #terazzo, #avrahamiflowers, #hanukkah"
-  - username: "dibifletcher"
+    hashtags: "#health, #love, #dogsofinstagram, #mri"
+  - username: "heiressthecurvymodel"
     fullname: >-
-      Dibi Fletcher
+      Arris Tolbert
     bio: >-
-      Writer, Artist, Wife, Mother, Magic Women... . Author “Fletcher: A Lifetime in Surf” Published by Rizzoli
+      ➕Published Model •Brand Ambassador •Influencer •Skincare Enthusiast •Reviewer 📍Chicago, Will Travel
     location: "United States"
-    followers: 28231
-    engagement: 110
-    commentsToLikes: 0.087270
-    id: ck5buartchgdg0i11flvba7q6
+    followers: 10787
+    engagement: 268
+    commentsToLikes: 0.131735
+    id: ckprgs0my91480j23s4g5l1yt
     verified: false
-    hashtags: "#sendit, #fullsend, #humor, #dance"
+    hashtags: "#explorepage, #influencer, #hereforit, #plussizemodel"
+  - username: "realalexmeneses"
+    fullname: >-
+      Alex Meneses
+    bio: >-
+      Mother, sister, friend, actress, producer. Follow @lolavomfrankengold @letsbuildone Trustee @childrensla @service_club_of_chicago
+    location: "United States"
+    followers: 57379
+    engagement: 210
+    commentsToLikes: 0.039079
+    id: ck5pw4ug7l3w40i11wuzxy1zs
+    verified: true
+    hashtags: "#work, #babyalex, #alexmeneses, #latina"
+  - username: "itsdeon"
+    fullname: >-
+      Deon 𝒯𝐻𝐸 𝓓𝑜𝓁𝓁
+    bio: >-
+      •The 𝐅𝐀𝐂𝐄 Of Chicago! •Your Favorite Chocolate Beauty Boy™ •Butch Queen Supreme •Mother Of The Dolls •Tutorialist
+    location: "United States"
+    followers: 15717
+    engagement: 187
+    commentsToLikes: 0.108524
+    id: ck0vv83f3nyn90i19fk7d73jl
+    verified: false
+    hashtags: "#skincare, #fashion, #chicagogrammers, #makeupaddict"
 ---

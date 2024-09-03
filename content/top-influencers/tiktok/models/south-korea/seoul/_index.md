@@ -1,11 +1,11 @@
 ---
-title: Top 10 Models TikTok Influencers In Seoul In 2023
+title: Top 10 Models TikTok Influencers In Seoul In 2024
 description: >-
-  Find top models TikTok influencers in Seoul in 2023. Most popular hashtags: #model #korea #fyp #foryou.
+  Find top models TikTok influencers in Seoul in 2024. Most popular hashtags: #model #korea #fyp #foryou.
 platform: TikTok
 hits: 4
-text_top: Identify the best TikTok influencers on inBeat.
-text_bottom: Our search engine holds 4 TikTok influencers like this in Seoul, South Korea for you to contact.
+text_top: Identify the best TikTok profiles on inBeat.
+text_bottom: inBeat aggregates 4 TikTok influencers like this in Seoul, South Korea for you to pitch.
 profiles:
   - username: "ooohrena"
     fullname: >-
@@ -73,12 +73,12 @@ profiles:
     bio: >-
       Hi I'm Hayoung. I'm a pianist, composer, singer and a model. Nice to enter here♡
     location: "South Korea"
-    followers: 8975
-    engagement: 823
-    commentsToLikes: 0.143160
+    followers: 10500
+    engagement: 647
+    commentsToLikes: 0.116691
     id: ck9jzci2g84xk0j78b6giyzxt
     verified: false
-    hashtags: "#model, #foryou, #dance, #singer"
+    hashtags: "#model, #pianist, #funny, #dance"
   - username: "iamalexischang"
     fullname: >-
       Alexis 🧚‍♀️

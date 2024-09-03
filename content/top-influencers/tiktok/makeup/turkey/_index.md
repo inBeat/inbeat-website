@@ -1,11 +1,11 @@
 ---
-title: Top 10 Makeup TikTok Influencers In Turkey In 2023
+title: Top 10 Makeup TikTok Influencers In Turkey In 2024
 description: >-
-  Find top makeup TikTok influencers in Turkey in 2023. Most popular hashtags: #makeup #ke #fyp #kesfet.
+  Find top makeup TikTok influencers in Turkey in 2024. Most popular hashtags: #makeup #fyp #ke #kesfet.
 platform: TikTok
 hits: 47
-text_top: Identify the top-rated TikTok profiles on inBeat.
-text_bottom: Our search engine has 47 TikTok influencers like this in Turkey for you to collaborate.
+text_top: Identify the best TikTok influencers on inBeat.
+text_bottom: inBeat holds 47 TikTok influencers like this in Turkey for you to collaborate.
 profiles:
   - username: "meryemmercann"
     fullname: >-

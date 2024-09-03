@@ -1,11 +1,11 @@
 ---
-title: Top 10 Models Instagram Influencers In Cali In 2023
+title: Top 10 Models Instagram Influencers In Cali In 2024
 description: >-
-  Find top models Instagram influencers in Cali in 2023. Most popular hashtags: #model #cali #makeup #moda.
+  Find top models Instagram influencers in Cali in 2024. Most popular hashtags: #model #cali #moda #makeup.
 platform: Instagram
-hits: 40
-text_top: Identify the best Instagram influencers on inBeat.
-text_bottom: Our database aggregates 40 Instagram influencers like this in Cali, Colombia for you to work with.
+hits: 38
+text_top: Identify the top-rated Instagram influencers on inBeat.
+text_bottom: Our platform aggregates 38 Instagram influencers like this in Cali, Colombia for you to collaborate.
 profiles:
   - username: "calicolfit"
     fullname: >-
@@ -19,18 +19,6 @@ profiles:
     id: ck5zufszw2a0r0i14z8wpyi8c
     verified: false
     hashtags: "#home, #workout, #cale, #legs"
-  - username: "sofiazamolo"
-    fullname: >-
-      Sofia Zamolo
-    bio: >-
-      • Mamá de Cali 👶🏼 • Model • Tv Host • @multitalentoficial contacto—> @ls_loly • Shop my looks ⤵️
-    location: "Colombia"
-    followers: 1050479
-    engagement: 331
-    commentsToLikes: 0.058256
-    id: ck5hpj9bergak0i11xlq0p2z7
-    verified: true
-    hashtags: "#candiceaxn, #comunidadpampers, #39semanas, #39weekspregnant"
   - username: "soyjerrykarth"
     fullname: >-
       Jerry Karth -(C. HUMANOIDE)- 👁
@@ -127,4 +115,16 @@ profiles:
     id: ck5ch3tm2q27j0i11ygxpgho3
     verified: false
     hashtags: "#outfits, #model, #photography, #nails"
+  - username: "jonamontoyazumba"
+    fullname: >-
+      Jonathan Montoya
+    bio: >-
+      “Dreams Come True”🙏🏻 •@zumba Fitness Instructor •International Zumba Fitness Presenter🌎 ✈️ •ZIN Member •Cali Colombia🇨🇴 •Professional Salsa dancer🕺🏼
+    location: "Colombia"
+    followers: 17759
+    engagement: 519
+    commentsToLikes: 0.054934
+    id: ck1396johjs550i19eksedc0q
+    verified: false
+    hashtags: "#dreamscometrue, #baila, #instalike, #motivate"
 ---

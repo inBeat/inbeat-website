@@ -1,10 +1,10 @@
 ---
-title: Top 10 Barbers TikTok Influencers In Los Angeles In 2023
+title: Top 10 Barbers TikTok Influencers In Los Angeles In 2024
 description: >-
-  Find top barbers TikTok influencers in Los Angeles in 2023. Most popular hashtags: #barber #fyp #losangeles #viral.
+  Find top barbers TikTok influencers in Los Angeles in 2024. Most popular hashtags: #barber #fyp #losangeles #viral.
 platform: TikTok
 hits: 12
-text_top: Analyze the top-rated TikTok accounts on inBeat.
+text_top: Discover the best TikTok influencers on inBeat.
 text_bottom: inBeat aggregates 12 TikTok influencers like this in Los Angeles, United States for you to work with.
 profiles:
   - username: "iamsu_binchoi"
@@ -66,7 +66,7 @@ profiles:
     commentsToLikes: 0.008492
     id: ck81s0lddp58d0j788ht4j1yl
     verified: false
-    hashtags: "#makemefamous, #tikttok, #fy, #tiktot"
+    hashtags: "#barbershopconnect, #viral, #fy, #barber"
   - username: "mariscoselpana_"
     fullname: >-
       mariscoselpana_
@@ -126,5 +126,5 @@ profiles:
     commentsToLikes: 0.088563
     id: ck9gkm3w6jydx0j7885r2su20
     verified: false
-    hashtags: "#lasvegas, #elonmusk, #vegas, #share"
+    hashtags: "#share, #dogecoin, #cryptocurrency, #travel"
 ---

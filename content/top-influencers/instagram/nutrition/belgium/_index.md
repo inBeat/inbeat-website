@@ -1,11 +1,11 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In Belgium In 2023
+title: Top 10 Nutrition Instagram Influencers In Belgium In 2024
 description: >-
-  Find top nutrition Instagram influencers in Belgium in 2023. Most popular hashtags: #vegan #cs #venum.
+  Find top nutrition Instagram influencers in Belgium in 2024. Most popular hashtags: #sibo #girlsgoneloavies #sugarfree.
 platform: Instagram
-hits: 8
-text_top: See the top-rated Instagram accounts on inBeat.
-text_bottom: Our database aggregates 8 Instagram influencers like this in Belgium for you to work with.
+hits: 9
+text_top: Identify the best Instagram influencers on inBeat.
+text_bottom: Our search engine aggregates 9 Instagram influencers like this in Belgium for you to pitch.
 profiles:
   - username: "lunalissens"
     fullname: >-
@@ -19,18 +19,6 @@ profiles:
     id: ck8tct1ke0kcw0j788ddfr7w0
     verified: false
     hashtags: "#loavies, #girlsgoneloavies, #offlineshoppen, #waaslandshopping"
-  - username: "jottiverbruggen"
-    fullname: >-
-      ♥ JOTTI VERBRUGGEN
-    bio: >-
-      ⭐️ Professional Freelance Model 🍏 #plantbased #vegan nutritionist to be 🥒🌱 📧 MNGMT: peter@absolutep.com Info@jottiverbruggen.com @absolutepagency
-    location: "Belgium"
-    followers: 27615
-    engagement: 491
-    commentsToLikes: 0.107879
-    id: ck5py0gootqr30i1112cyzzpw
-    verified: false
-    hashtags: "#photoshoot, #modelshoot, #hair, #sony"
   - username: "naturellebynatalia"
     fullname: >-
       Naturelle by Natalia
@@ -42,7 +30,7 @@ profiles:
     commentsToLikes: 0.208017
     id: ck5c0dklqsxlt0i115g2doh5u
     verified: false
-    hashtags: "#beautyofstillmoments, #f52grams, #still, #prettylittlethings"
+    hashtags: "#soapmaking, #eatcaptureshare, #bakeitforward, #foodartproject"
   - username: "arrow_the_pooch"
     fullname: >-
       Arrow 🐾
@@ -55,6 +43,18 @@ profiles:
     id: ck0vzwi69b8er0i19ue8uuuji
     verified: false
     hashtags: ""
+  - username: "coleenaupresent"
+    fullname: >-
+      Coleen Tatti - Naturopathe 🌱
+    bio: >-
+      The REAL Glow✨ Your #bellyqueen I Coach @teamfitbyc 🤍 Bien digérer pour mieux briller ! 💫 Je t'aide à retrouver une digestion royale👑⬇️
+    location: "Belgium"
+    followers: 14976
+    engagement: 259
+    commentsToLikes: 0.136687
+    id: ckaotohaawsbv0i78eba8dnm6
+    verified: false
+    hashtags: "#sansgluten, #colopathie, #colopathiefonctionnelle, #healthylife"
   - username: "jarnebaele"
     fullname: >-
       JARNE BAELE
@@ -67,6 +67,18 @@ profiles:
     id: ck5zx3lqs7a090i14pem36vhr
     verified: false
     hashtags: "#instagramgiveaway, #iskodna, #ad, #ambassadors"
+  - username: "ankatrien"
+    fullname: >-
+      An-Katrien Casselman
+    bio: >-
+      ‘t is die kleurrijke 🌈💕 📍Antwerp 🇧🇪 👧 @mylasplayground ❤️ @vanheurckdries 💉 @dediabeetjes 💌 info@ankatriencasselman.com
+    location: "Belgium"
+    followers: 214535
+    engagement: 51
+    commentsToLikes: 0.057742
+    id: ck136f6bh670f0i19jjum8wk2
+    verified: true
+    hashtags: "#playitsmart, #thefrenchspritz, #lilletspritz, #haartutorial"
   - username: "hennyseroeyen"
     fullname: >-
       WBFF PRO Fitness Model

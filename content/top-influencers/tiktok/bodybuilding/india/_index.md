@@ -1,11 +1,11 @@
 ---
-title: Top 10 Bodybuilding TikTok Influencers In India In 2023
+title: Top 10 Bodybuilding TikTok Influencers In India In 2024
 description: >-
-  Find top bodybuilding TikTok influencers in India in 2023. Most popular hashtags: #foryou #tiktok #bodybuilding #fyp.
+  Find top bodybuilding TikTok influencers in India in 2024. Most popular hashtags: #foryou #bodybuilding #tiktok #foryoupage.
 platform: TikTok
 hits: 171
-text_top: Analyze the top-rated TikTok influencers on inBeat.
-text_bottom: Our search engine has 171 TikTok influencers like this in India for you to connect with.
+text_top: See the best TikTok influencers on inBeat.
+text_bottom: Our search engine aggregates 171 TikTok influencers like this in India for you to collaborate.
 profiles:
   - username: "poojagowda992"
     fullname: >-

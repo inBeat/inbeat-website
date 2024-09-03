@@ -1,12 +1,60 @@
 ---
-title: Top 10 Wellness Instagram Influencers In Brazil In 2023
+title: Top 10 Wellness Instagram Influencers In Brazil In 2024
 description: >-
-  Find top wellness Instagram influencers in Brazil in 2023. Most popular hashtags: #tbt #fitness #bodybuilding.
+  Find top wellness Instagram influencers in Brazil in 2024. Most popular hashtags: #bodybuilding #fitness #wellness.
 platform: Instagram
-hits: 178
-text_top: Analyze the most popular Instagram influencers on inBeat.
-text_bottom: Our search engine aggregates 178 Instagram influencers like this in Brazil for you to connect with.
+hits: 191
+text_top: Identify the most popular Instagram accounts on inBeat.
+text_bottom: Our platform aggregates 191 Instagram influencers like this in Brazil for you to collaborate.
 profiles:
+  - username: "alepierozan"
+    fullname: >-
+      Alessandro Pierozan
+    bio: >-
+      🌿Um mix entre Kurt e Tarzan 👀Vida real de um homem que se cuida 🌍Moda l Auto Estima l Wellness 📩 contatoalepierozan@gmail.com - @mzcreators
+    location: "Brazil"
+    followers: 294449
+    engagement: 393
+    commentsToLikes: 0.041878
+    id: ck8swuz76fc310j78p81nitey
+    verified: true
+    hashtags: "#grwm, #modamasculina, #tatuagem, #cabeludo"
+  - username: "gisellemachadopro"
+    fullname: >-
+      Gisele Machado
+    bio: >-
+      Coach and Business Woman💫 @mrolympiallc wellness 🇧🇷 🐺 @darcsport Giselle10 @yavalabs.official @dan.signature 💍 @willy_coki 👙 @bikinibkb_by_bikinimama
+    location: "Brazil"
+    followers: 464715
+    engagement: 68
+    commentsToLikes: 0.020456
+    id: ck139bj9zkhhe0i19shmalld2
+    verified: false
+    hashtags: "#thebutterfly, #pro, #suplements, #wellness"
+  - username: "minawinkel"
+    fullname: >-
+      mina winkel
+    bio: >-
+      Sport, wellness, social and environmental sustainability. Team @strava ↓
+    location: "Brazil"
+    followers: 410736
+    engagement: 18
+    commentsToLikes: 0.022183
+    id: ck0w3epv8t14e0i19eu4uj3s1
+    verified: false
+    hashtags: "#publicidade, #rotinaplena, #rotina, #sono"
+  - username: "karinaccruz"
+    fullname: >-
+      Karina Cruz
+    bio: >-
+      boho style • beauty tips • wellness • selfcare @studio_boeme @kcruzz.daily Tiktok: ka.cruzz
+    location: "Brazil"
+    followers: 248983
+    engagement: 76
+    commentsToLikes: 0.037598
+    id: ck8t0rw62t2le0j78ultk5xb4
+    verified: false
+    hashtags: "#calzedoniagirls, #publi, #inspo, #countrylife"
   - username: "lorenaallveis"
     fullname: >-
       lorena allveis
@@ -43,18 +91,6 @@ profiles:
     id: ckaowjzax99c50i78ze4uinjx
     verified: false
     hashtags: ""
-  - username: "olena.starodubets"
-    fullname: >-
-      Olena Starodubets🍀 Oficial
-    bio: >-
-      💯% Atleta Natural 🌱 Vegan desde 2017💚 💪 #mamafit 👩‍👧 🏆4 x Campeã Wellness 🔺️ @prozis -10%+🎁 Cupão"OLENA10" 🇺🇦🇵🇹 ☆STAR PHYSIQUE☆ 🎥 YouTube 1M ♡
-    location: "Brazil"
-    followers: 391338
-    engagement: 1026
-    commentsToLikes: 0.022333
-    id: ck8t8yy9bmc9w0j78haonvy8z
-    verified: false
-    hashtags: "#veganpower, #amor, #veganbaby, #veganfamily"
   - username: "joselinepinto19"
     fullname: >-
       Joseline Pinto 🥭
@@ -67,18 +103,6 @@ profiles:
     id: ck5zwhdl964s50i140jm445k1
     verified: false
     hashtags: "#challengecr"
-  - username: "aline_fitness_"
-    fullname: >-
-      ✨Aline Almeida✨
-    bio: >-
-      👙 Atleta Wellness 💪🏼 @adaptogenscience_br 🐶 @cadu_bulldog_ 💌 Parcerias via Direct
-    location: "Brazil"
-    followers: 66781
-    engagement: 156
-    commentsToLikes: 0.120747
-    id: ck5hsbe2wwb0j0i119vueqjqh
-    verified: false
-    hashtags: "#tbt"
   - username: "monique.rizzeto"
     fullname: >-
       Monique Rizzeto
@@ -103,28 +127,4 @@ profiles:
     id: ckap2vzfk0k000i78zbtgdnht
     verified: false
     hashtags: "#tbt, #tksgod, #lifestyle, #myprotein"
-  - username: "brancaoliveiira_"
-    fullname: >-
-      Personal Trainer
-    bio: >-
-      🏆Campeã Sul-Americana 🏆Campeã Brasileira 🏆10 títulos/4x Overall Wellness🇧🇷 📲 Informações sobre a Consultoria Online / Personal Trainer ⬇️
-    location: "Brazil"
-    followers: 14853
-    engagement: 249
-    commentsToLikes: 0.091425
-    id: ck6u0ouvrgxdw0j715tzclc5k
-    verified: false
-    hashtags: "#tbt, #wellness, #rj, #saude"
-  - username: "jessicaolliveira2"
-    fullname: >-
-      Jéssica Oliveira
-    bio: >-
-      Wellness 🇧🇷 ™️ @adaptogen.oficial 🎫 JESSICA10 CONSULTORIA ONLINE 👇
-    location: "Brazil"
-    followers: 280123
-    engagement: 264
-    commentsToLikes: 0.018206
-    id: ck5zydoxx9owi0i14h2q7pyed
-    verified: false
-    hashtags: "#check, #tbt, #boanoite, #offseason"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Models TikTok Influencers In Sydney In 2023
+title: Top 10 Models TikTok Influencers In Sydney In 2024
 description: >-
-  Find top models TikTok influencers in Sydney in 2023. Most popular hashtags: #fyp #australia #model #sydney.
+  Find top models TikTok influencers in Sydney in 2024. Most popular hashtags: #model #australia #fyp #sydney.
 platform: TikTok
 hits: 12
-text_top: See the most popular TikTok influencers on inBeat.
-text_bottom: Our platform has 12 TikTok influencers like this in Sydney, Australia for you to pitch.
+text_top: Analyze the top-rated TikTok influencers on inBeat.
+text_bottom: Our platform aggregates 12 TikTok influencers like this in Sydney, Australia for you to connect with.
 profiles:
   - username: "harleyagsd"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.175877
     id: ck8tpd1hqpz7b0j78jmo3cha1
     verified: false
-    hashtags: "#foryou, #fyp, #gsd, #1video5photos"
+    hashtags: "#fyp, #gsd, #foryou, #arctic"
   - username: "sercss"
     fullname: >-
       Sercan

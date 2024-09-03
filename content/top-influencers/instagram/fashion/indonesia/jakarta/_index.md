@@ -1,12 +1,24 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Jakarta In 2023
+title: Top 10 Fashion Instagram Influencers In Jakarta In 2024
 description: >-
-  Find top fashion Instagram influencers in Jakarta in 2023. Most popular hashtags: #fashion #jakarta #instagram #beautiful.
+  Find top fashion Instagram influencers in Jakarta in 2024. Most popular hashtags: #fashion #ootd #jakarta #love.
 platform: Instagram
-hits: 182
-text_top: See the top-rated Instagram influencers on inBeat.
-text_bottom: Our platform holds 182 Instagram influencers like this in Jakarta, Indonesia for you to connect with.
+hits: 204
+text_top: Analyze the best Instagram influencers on inBeat.
+text_bottom: Our database has 204 Instagram influencers like this in Jakarta, Indonesia for you to pitch.
 profiles:
+  - username: "calistaangelina"
+    fullname: >-
+      CALISTA ANGELINA ✿
+    bio: >-
+      𝐁𝐞𝐚𝐮𝐭𝐲 |𝐅𝐚𝐬𝐡𝐢𝐨𝐧 | 𝐋𝐢𝐟𝐞𝐬𝐭𝐲𝐥𝐞 - 🐻Y 💌 email for business inquiries
+    location: "Indonesia"
+    followers: 111568
+    engagement: 190
+    commentsToLikes: 0.015042
+    id: ck138zkjjisid0i19uf7i7ggm
+    verified: false
+    hashtags: "#beauty, #fashion, #jakartaxbeauty2023, #womensfashion"
   - username: "jepetetew"
     fullname: >-
       재페
@@ -19,6 +31,18 @@ profiles:
     id: ck9whh9kzxuly0j78c31b08z6
     verified: false
     hashtags: "#like4likes, #skyphotography, #quotes, #beranda"
+  - username: "steffisanta"
+    fullname: >-
+      Steffi Santa
+    bio: >-
+      🐿 Fashion Stylist @steffisantaswork / TikTok/Reels Producer (porto di IG highlight) Endorsement: 0878-8369-5662 (Cindy) 💌 steffisantas@gmail.com
+    location: "Indonesia"
+    followers: 15124
+    engagement: 147
+    commentsToLikes: 0.030281
+    id: ck8sx7vvzggci0j78zgcb3gwn
+    verified: false
+    hashtags: "#rodatronton, #ootd, #jfw2024, #lokalbrand"
   - username: "gamisjubaya"
     fullname: >-
       GAMIS ABAYA MURAH DAN NYAMAN
@@ -91,40 +115,16 @@ profiles:
     id: ckaosg8rcrgq50i78xk1ttars
     verified: false
     hashtags: "#jakartaviral, #explorejakarta, #likejakarta, #potopotokota"
-  - username: "mr.njoo"
+  - username: "adiniawrst"
     fullname: >-
-      Chris Njoo
+      adiniawrst
     bio: >-
-      Lifestyle - Fashion - Travel 📍 Jakarta 📩 njooisme@gmail.com 📺 YOUTUBE :
+      @theadiniawirasti for my work in films Contact details @sulunglandung +62 818 06048444
     location: "Indonesia"
-    followers: 83203
-    engagement: 197
-    commentsToLikes: 0.021984
-    id: ck5c42t1r0j440i119yizk5dk
-    verified: false
-    hashtags: "#casetifysea, #valuelifebetter, #ilovecosrx, #temancosrx"
-  - username: "jacob_a_official"
-    fullname: >-
-      Jacob A Couture
-    bio: >-
-      Jakarta based fashion designer Any Enquiries: 087728282823 ( WA only )
-    location: "Indonesia"
-    followers: 144838
-    engagement: 184
-    commentsToLikes: 0.031298
-    id: ck14i7025dyh70i196zah8dh9
-    verified: false
-    hashtags: "#instadaily, #blessed, #stayfit, #stayathome"
-  - username: "yourabellv"
-    fullname: >-
-      Yourabellv
-    bio: >-
-      Influencer : Mom - Lifestyle - Beauty - Healthy - Parenting - Fashion - Food 🌟 Jakarta
-    location: "Indonesia"
-    followers: 115718
-    engagement: 102
-    commentsToLikes: 0.051665
-    id: ck14hv8d2caiv0i19hqgs8fmd
-    verified: false
-    hashtags: "#yourabellvmomreview, #carapintarmam, #yourabellv, #toyskingdom"
+    followers: 539051
+    engagement: 218
+    commentsToLikes: 0.006873
+    id: ck5hfvov9zkwl0i11qqz3vzva
+    verified: true
+    hashtags: "#mendua, #ninthofjune, #sofitelbalinusadua, #wrst"
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Makeup Instagram Influencers In Australia In 2023
+title: Top 10 Makeup Instagram Influencers In Australia In 2024
 description: >-
-  Find top makeup Instagram influencers in Australia in 2023. Most popular hashtags: #makeup #fashion #makeupartist.
+  Find top makeup Instagram influencers in Australia in 2024. Most popular hashtags: #makeup #makeupartist #skincare #beauty.
 platform: Instagram
-hits: 480
-text_top: Identify the top-rated Instagram accounts on inBeat.
-text_bottom: Our platform has 480 Instagram influencers like this in Australia for you to pitch.
+hits: 741
+text_top: Discover the best Instagram influencers on inBeat.
+text_bottom: Our database aggregates 741 Instagram influencers like this in Australia for you to connect with.
 profiles:
+  - username: "julianalat_mua"
+    fullname: >-
+      Julia Nalat
+    bio: >-
+      WA, Perth (📍Aveley ) 1:1 Training | Online Lessons | Events (FB or Dm for an appointment) Business/PR: Julianalat.makeupartist@gmail.com
+    location: "Australia"
+    followers: 100542
+    engagement: 2590
+    commentsToLikes: 0.014845
+    id: cl4f69jt4qbnx0i236unwkgnb
+    verified: false
+    hashtags: "#ballmakeup, #makeuptutorials, #perthmua, #softmakeup"
   - username: "indiraekic"
     fullname: >-
       Indira Ekic
     bio: >-
-      💄 Makeup artist & educator 🔥 MASTERCLASS ličenja za začetnice 👇👇👇👇👇👇👇👇👇👇👇
+      Makeup artist Founder @indybeauty_si 📩 info@indiraekic.com
     location: "Australia"
-    followers: 65839
-    engagement: 705
-    commentsToLikes: 0.136757
+    followers: 74816
+    engagement: 580
+    commentsToLikes: 0.013725
     id: ck5bxqcj8o7u70i11kmn00rfd
     verified: false
-    hashtags: "#saling, #dreams, #nivealuminous630, #indiraekicmasterclass"
-  - username: "desiboy.com.au"
+    hashtags: "#korejskakozmetika, #indybeauty, #erborian, #erborianslovenija"
+  - username: "kellsiebainmakeup"
     fullname: >-
-      R O S H A N N A U S A D
+      KELLSIE BAIN
     bio: >-
-      Makeup Artist | Content Creator | Social Activist Email: For Collaborations | 🇮🇳 🇱🇰 🇳🇵🇵🇰 |They/Them
+      ✈️ International Makeup Artist 📍North America, Mexico + Europe 2024 🎓 Workshops & Resources for Makeup Artists ⬇️
     location: "Australia"
-    followers: 9614
-    engagement: 1255
-    commentsToLikes: 0.065656
-    id: ck0vvl9otpm860i19ghkmtd7b
+    followers: 55935
+    engagement: 1535
+    commentsToLikes: 0.025796
+    id: cliiqriah7maa0j082zqb1gbv
     verified: false
-    hashtags: "#makeup, #diversity, #gay, #queer"
-  - username: "katie_michaelis46"
+    hashtags: "#makeupartist, #destinationwedding, #bridalmakeup, #california"
+  - username: "veryvinca"
     fullname: >-
-      • KATIE MICHAELIS •
+      vinca mika🎀
     bio: >-
-      × 23 | SYD, AUS × YouTube | +180k Subscribers ⇣ Freelance Makeup Artist
+      🪷͙֒a girly girl in melbourne!🇦🇺 🎀͙֒lifestyle, makeup & skincare, fashion inspo♡ ➴DM me for girly adviceଘ(੭•ᴗ•)੭ 💌: 𝐯𝐞𝐫𝐲𝐯𝐢𝐧𝐜𝐚@𝐠𝐦𝐚𝐢𝐥.𝐜𝐨𝐦
     location: "Australia"
-    followers: 61670
-    engagement: 1054
-    commentsToLikes: 0.034652
-    id: ck0vz1x0o6vmk0i19juun2o96
+    followers: 184578
+    engagement: 838
+    commentsToLikes: 0.017226
+    id: cloqu1ntvgwx20j08aoz8rsh5
     verified: false
-    hashtags: ""
-  - username: "makeupbymyke"
+    hashtags: "#outfit, #explorepage, #coquette, #softgirlaesthetic"
+  - username: "leilasmakeupstudio"
     fullname: >-
-      MAKEUP BY MYKE
+      SYDNEY MAKEUP ARTIST
     bio: >-
-      👨🏻‍🎨 I create weird & colourful makeup 🌏 Brisbane, Australia 🖤 Proud Member of #TheList 💸 $5 off Morphe: GLAMFAM403 🗳 michael.republicdesign@gmail.com
+      Bridal & Event Makeup Artist All Bookings | BOOK NOW ↴ OR 0493 106 721 Punchbowl, Sydney Australia Mobile Services Available (4+)
     location: "Australia"
-    followers: 7466
-    engagement: 1343
-    commentsToLikes: 0.109978
-    id: ck5honwdnpwgw0i111y7i3xli
-    verified: false
-    hashtags: "#morphexjamescharles, #abhbrows, #100daysofmakeupchallenge, #quarantine"
-  - username: "jade.syrett"
-    fullname: >-
-      JADE
-    bio: >-
-      @edge_models 🇦🇺 Brisbane / Sunshine Coast/ Gold Coast 🇦🇺 Int. Published 🌏 💋MUA @jade.s.makeupartistry 👙@chixit.swim MODEL
-    location: "Australia"
-    followers: 70078
-    engagement: 140
-    commentsToLikes: 0.127401
-    id: ck13a1y82o8060i19gci5msnb
-    verified: false
-    hashtags: "#agencymodel, #australianmodel, #swimwear, #blackandwhite"
-  - username: "renatameins"
-    fullname: >-
-      Renata Meins
-    bio: >-
-      A elegância nunca sai de moda.Comportamento-Etiqueta-Vestuario Aus🇦🇺📍 MUA and Image Strategist 🎓 Makeup academy founder @makeupacademy_renatameins
-    location: "Australia"
-    followers: 1221076
-    engagement: 273
-    commentsToLikes: 0.017129
-    id: ck14gysg27otx0i1950s86haw
-    verified: true
-    hashtags: "#publi, #lockdown2021, #meinscommenos, #chiccommua"
-  - username: "duckiethot"
-    fullname: >-
-      Duckie Thot
-    bio: >-
-      manager: @ogutuokudo represented by CAA @caafashion L’ORÉAL makeup global ambassador
-    location: "Australia"
-    followers: 1369607
-    engagement: 640
-    commentsToLikes: 0.007029
-    id: ck134wnbpyjuw0i19ki6evl7l
-    verified: true
-    hashtags: "#kenya, #travelafrica, #getsmoooth, #travel"
-  - username: "abbeystojmua"
-    fullname: >-
-      ＡＢＢＥＹ ＳＴＯＪＡＮＯＶＩＣ
-    bio: >-
-      MAKEUP ARTIST | Content Creator BCom Marketing|Finance Student VIC Australia All business inquires - abbeystojmua@gmail.com
-    location: "Australia"
-    followers: 74437
-    engagement: 165
-    commentsToLikes: 0.087749
-    id: ck0w4nt4jzi3f0i19lag2c80o
-    verified: false
-    hashtags: "#naturalbrows, #sosubysj, #meccabeauty, #maybellineau"
-  - username: "saira.95"
-    fullname: >-
-      Saira Hrgić, 25, 🇧🇦 🇩🇪
-    bio: >-
-      🌸 Bachelor of Health Science 🎓 🌸 Makeup Enthusiast 💄 🌸 17.07.2015. ❤🔐
-    location: "Australia"
-    followers: 9460
-    engagement: 1354
-    commentsToLikes: 0.016855
-    id: ckaox6v5nc1iy0i78rbeljqxc
-    verified: false
-    hashtags: "#girlfashions, #strumpfhosen, #blondie, #makeup"
-  - username: "soraya.boularas"
-    fullname: >-
-      Soraya Boularas
-    bio: >-
-      thoughts become things 🤍 mgmt: @everi_body @makeupbysorayax 🇩🇿+🇦🇺 soraya.boularas@hotmail.com
-    location: "Australia"
-    followers: 15165
-    engagement: 434
-    commentsToLikes: 0.042963
-    id: ck5q9juhnbgzj0i11x3to11b4
+    followers: 21639
+    engagement: 1125
+    commentsToLikes: 0.060314
+    id: clp0onqrk8i350j08if54jz3m
     verified: false
     hashtags: ""
+  - username: "minniemakeup_"
+    fullname: >-
+      Minnie | Sydney Beauty Creator
+    bio: >-
+      Glad you’re here 🫶🏻 Acne, Makeup, Skincare & SPF Passionate about women being happy 💌 minnie@whiterabbitsocial.com ✍🏻 @whiterabbitsocial_
+    location: "Australia"
+    followers: 10603
+    engagement: 385
+    commentsToLikes: 0.207268
+    id: cl4f68hoypm1f0i230wxz0l0i
+    verified: false
+    hashtags: "#bts, #skincare, #skincaredaily, #skincarecommunity"
+  - username: "staceycastanha"
+    fullname: >-
+      Stacey Castanha
+    bio: >-
+      #Makeup #Fashion #Travel 🇮🇳🇦🇺 YouTube: Stacey Castanha Business Enquiries:- staceycastanha.business@gmail.com
+    location: "Australia"
+    followers: 17696
+    engagement: 350
+    commentsToLikes: 0.046819
+    id: ckapbquhm0zg10i78o3crd52n
+    verified: false
+    hashtags: "#eyeliner, #youtube, #newsouthwales, #bbloggerau"
+  - username: "lydiasleimanmakeup"
+    fullname: >-
+      Lydia Sleiman Makeup
+    bio: >-
+      Makeup Artist | Bridal | Eyebrow specialist | Educator Currently on Maternity leave until April 🤱🏻 Click the link below to book now
+    location: "Australia"
+    followers: 17935
+    engagement: 822
+    commentsToLikes: 0.025546
+    id: ck13ala63qxk30i19rpc1wwl6
+    verified: false
+    hashtags: "#glam, #makeupartist, #makeup, #bronzeglam"
+  - username: "mellovesthat"
+    fullname: >-
+      Mel | Skincare • Makeup • Beauty
+    bio: >-
+      skincare, makeup & beauty for the acne prone girlies based in Melbourne, Aus enquiries: mellovesthat@outlook.com
+    location: "Australia"
+    followers: 11206
+    engagement: 289
+    commentsToLikes: 0.226959
+    id: cl3w8z4yccoko0i23reqsai1v
+    verified: false
+    hashtags: "#skincareblogger, #acnetreatment, #skincarecommunity, #skincare"
+  - username: "iainjeffery"
+    fullname: >-
+      iain jeffery • skincare educator/makeup artist/beauty writer
+    bio: >-
+      Your tattooed makeup bestie 🦇🏳️‍🌈 Featured in @russhmagazine @popsugarau @fashionjournalmagazine & More! Send Love Notes: iain@mgptalent.com 💌
+    location: "Australia"
+    followers: 6559
+    engagement: 287
+    commentsToLikes: 0.126853
+    id: ck13bgkjcvbkv0i197f75rwza
+    verified: false
+    hashtags: "#skincareroutine, #makeupreel, #skincare, #makeup"
 ---

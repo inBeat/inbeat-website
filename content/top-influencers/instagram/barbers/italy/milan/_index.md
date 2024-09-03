@@ -1,11 +1,11 @@
 ---
-title: Top 10 Barbers Instagram Influencers In Milan In 2023
+title: Top 10 Barbers Instagram Influencers In Milan In 2024
 description: >-
-  Find top barbers Instagram influencers in Milan in 2023. Most popular hashtags: #milano #barber #milan #model.
+  Find top barbers Instagram influencers in Milan in 2024. Most popular hashtags: #milano #barber #art #love.
 platform: Instagram
-hits: 20
-text_top: See the best Instagram accounts on inBeat.
-text_bottom: Our platform has 20 Instagram influencers like this in Milan, Italy for you to collaborate.
+hits: 21
+text_top: Discover the most popular Instagram accounts on inBeat.
+text_bottom: inBeat holds 21 Instagram influencers like this in Milan, Italy for you to work with.
 profiles:
   - username: "antikorpo"
     fullname: >-
@@ -43,30 +43,30 @@ profiles:
     id: ck8wg8x3cgxfa0j78wfkfzphc
     verified: false
     hashtags: "#malemodel, #modeling, #letsgo, #amazing"
-  - username: "iltitanico23"
+  - username: "massimo_sammito"
     fullname: >-
-      Andrea Franchini 🕉
+      Massimosammitoofficial
     bio: >-
-      • Menswear | Lifestyle | Travel • Milan 📍 • Content Creator 📸 • Temptation Island 2016 • andreadsq@icloud.com 📩
+      Milano, 41 anni🇮🇹 @milanocityitalia @milaneseimbruttito . Telegram
     location: "Italy"
-    followers: 212519
-    engagement: 56
-    commentsToLikes: 0.074054
-    id: ck5q94bn79bs10i111lbr7e5k
+    followers: 23206
+    engagement: 166
+    commentsToLikes: 0.043175
+    id: ck8t8x6epm6330j78yzwtcjdp
     verified: false
-    hashtags: "#prozis, #salento, #castro, #lumare"
-  - username: "giuppe_13"
+    hashtags: "#picoftheday, #instagood, #frasi, #astrologia"
+  - username: "salvatorevita"
     fullname: >-
-      🅶 🅸 🆄 🅿 🅿 🅴
+      Salvatore Vita 🇮🇹
     bio: >-
-      🙌🏽 Massaggiatore Olistico freelance 🚪@sosmassaggi My Work Page 📍Milan
+      📍summer in Sicily Sicilian based in Milan 🍝
     location: "Italy"
-    followers: 5472
-    engagement: 1195
-    commentsToLikes: 0.010753
-    id: ck8t7e8dxghb40j78rhor4et3
+    followers: 255513
+    engagement: 98
+    commentsToLikes: 0.013413
+    id: ck5bu2t87h2kk0i11j2ccvdxv
     verified: false
-    hashtags: "#me, #taormina, #sardegna, #friends"
+    hashtags: "#pittiuomo, #hairstyle, #hairstyles, #eyes"
   - username: "academia_milano_models"
     fullname: >-
       Academia Milano Models
@@ -91,18 +91,6 @@ profiles:
     id: ck5zr6ye6w0zr0i14m0ne2jkk
     verified: false
     hashtags: "#christmas, #madeinibs, #barbersocietyrules, #booking"
-  - username: "davide_greco_barber"
-    fullname: >-
-      𝔇𝔞𝔳𝔦𝔡𝔢 𝔊𝔯𝔢𝔠𝔬💈💎
-    bio: >-
-      @scarecrowpomade
-    location: "Italy"
-    followers: 447016
-    engagement: 285
-    commentsToLikes: 0.011388
-    id: ck0vvtvdrqqxt0i19ocvmwbul
-    verified: false
-    hashtags: "#trapani, #barber, #palermo, #genius"
   - username: "filippogalli63"
     fullname: >-
       Filippo Galli
@@ -115,6 +103,18 @@ profiles:
     id: ckap443q45r9q0i78k528r8ib
     verified: true
     hashtags: "#milan, #football, #acmilan, #thisismilan"
+  - username: "luca_belviso"
+    fullname: >-
+      LUCA BELVISO
+    bio: >-
+      DM ME FOR HAIR EDUCATION INQUIRIES 🌍 📍Bari, Italia @belmorestudio ————————— @causeacommotion_ ————————— CONSISTENCY PRACTISE DEDICATION —————————
+    location: "Italy"
+    followers: 14725
+    engagement: 254
+    commentsToLikes: 0.011983
+    id: ck602g0obhbfb0i14p7aoq3ar
+    verified: false
+    hashtags: "#thebarberpost, #art, #barberbari, #barbershopconnect"
   - username: "nirkiopgabriele"
     fullname: >-
       Gabriele Boscaino

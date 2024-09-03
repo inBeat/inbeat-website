@@ -1,11 +1,11 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Turin In 2023
+title: Top 10 Beauty Instagram Influencers In Turin In 2024
 description: >-
-  Find top beauty Instagram influencers in Turin in 2023. Most popular hashtags: #beauty #torino #makeup #girl.
+  Find top beauty Instagram influencers in Turin in 2024. Most popular hashtags: #beauty #torino #turin #makeup.
 platform: Instagram
-hits: 25
-text_top: Identify the top-rated Instagram influencers on inBeat.
-text_bottom: inBeat has 25 Instagram influencers like this in Turin, Italy for you to pitch.
+hits: 26
+text_top: Discover the top-rated Instagram influencers on inBeat.
+text_bottom: inBeat aggregates 26 Instagram influencers like this in Turin, Italy for you to contact.
 profiles:
   - username: "daniela_roncarolo"
     fullname: >-
@@ -35,26 +35,50 @@ profiles:
     fullname: >-
       SERENA FILOMENA ✨
     bio: >-
-      📍Turin, Italy🇮🇹 • Beautician 💆🏻‍♀️ • Beauty & Lifestyle • Travel 🧳 •🔜Cosmoprof Worldwide 💌serenafilomena9@gmail.com
+      📍Turin, Italy🇮🇹 • Beautician 💆🏻‍♀️ • Beauty 💄 & Lifestyle 💌serenafilomena9@gmail.com
     location: "Italy"
-    followers: 17142
-    engagement: 95
-    commentsToLikes: 0.044497
+    followers: 16931
+    engagement: 94
+    commentsToLikes: 0.076680
     id: ck6u6fiztfb4i0j71uwtevple
     verified: false
-    hashtags: "#clothing, #hot, #glam, #cosmetics"
+    hashtags: "#makeupartist, #gift, #adv, #outfit"
+  - username: "ireneflame"
+    fullname: >-
+      𝕴𝖗𝖊𝖓𝖊 𝕲𝖆𝖒𝖆𝖗𝖗𝖆 🔥
+    bio: >-
+      Turin, Italy The only real flame
+    location: "Italy"
+    followers: 14445
+    engagement: 444
+    commentsToLikes: 0.036675
+    id: ck9wf7ukbnla40j78hqa6kz44
+    verified: false
+    hashtags: "#followforlike, #curvywoman, #curvyconfidence, #curvygirlfashion"
   - username: "rita.cap"
     fullname: >-
       Rita Capparelli
     bio: >-
       Italian based in Turin 🥀deeply in love with aesthetics beauty inquiries: rita@sparkleagency.it @thewom contributor my wardrobe ↴
     location: "Italy"
-    followers: 101850
-    engagement: 425
-    commentsToLikes: 0.006343
+    followers: 124167
+    engagement: 3
+    commentsToLikes: 0.000000
     id: ck138l6upgrut0i19o4hxktfz
     verified: false
-    hashtags: "#thursday, #parisianstyle, #saturday, #friday"
+    hashtags: "#torinotoday, #humor, #saturday, #turin"
+  - username: "pininfarina_official"
+    fullname: >-
+      Pininfarina
+    bio: >-
+      Official Instagram account of Italian design house Pininfarina. Design, architecture, bespoke projects Turin | Munich | Shanghai | Miami
+    location: "Italy"
+    followers: 132228
+    engagement: 33
+    commentsToLikes: 0.011331
+    id: ck0w4oynhzob90i1905u9nhzg
+    verified: false
+    hashtags: "#pininfarinadesign, #boatlife, #nautical, #electricvehicles"
   - username: "giulietta_995"
     fullname: >-
       Giulia Caggiano 🐯
@@ -103,28 +127,4 @@ profiles:
     id: ck6u3kocwyc6i0j71dbdaul60
     verified: false
     hashtags: "#glamourstyle, #fashionphotographers, #brunettegirls, #fashionstyle"
-  - username: "risi_mua"
-    fullname: >-
-      IRIS 🌈
-    bio: >-
-      ✨Vali tanto, non dimenticarlo 📍Turin ✍🏻Microblading/Laminazione @iris_microblading 💄Make-up Artist certificate @mba_making_beauty_academy 🥐 Barista
-    location: "Italy"
-    followers: 9659
-    engagement: 470
-    commentsToLikes: 0.058211
-    id: ck0vw52fos50d0i19g23ly9jv
-    verified: false
-    hashtags: "#soufeelnamerings, #soufeeljewelry, #zodiacsigns, #soufeel"
-  - username: "nicole_pinkbow"
-    fullname: >-
-      Nicole Lifestyle Lover
-    bio: >-
-      📍Turin Una normale commessa con la passione per la moda, il beauty e ciò che è #aesthetic✨ Armadioverde⤵️
-    location: "Italy"
-    followers: 4401
-    engagement: 900
-    commentsToLikes: 0.121478
-    id: ck9hat96ie1el0j785128sc9e
-    verified: false
-    hashtags: "#liketime, #thepinkbow, #nicole, #blackfriday"
 ---

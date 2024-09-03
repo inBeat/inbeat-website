@@ -1,24 +1,24 @@
 ---
-title: Top 10 Painters Instagram Influencers In Venezuela In 2023
+title: Top 10 Painters Instagram Influencers In Venezuela In 2024
 description: >-
-  Find top painters Instagram influencers in Venezuela in 2023. Most popular hashtags: #venezuela #caracas #amor #cuarentena.
+  Find top painters Instagram influencers in Venezuela in 2024. Most popular hashtags: #amor #venezuela #cuarentena #pazinterior.
 platform: Instagram
-hits: 15
-text_top: Discover the most popular Instagram influencers on inBeat.
-text_bottom: Our search engine holds 15 Instagram influencers like this in Venezuela for you to contact.
+hits: 12
+text_top: Discover the most popular Instagram profiles on inBeat.
+text_bottom: Our platform holds 12 Instagram influencers like this in Venezuela for you to work with.
 profiles:
-  - username: "danimonacelli"
+  - username: "petitepaulette_"
     fullname: >-
-      Dani Monacelli
+      Petite Paulette | Fashion Blogger & Stylist
     bio: >-
-      🎨 Artista Plastico 🖌Soy de colores 👩🏽‍🎨Custom-Made Art 🧿Pinto todo lo que veo 🌈Mi tienda @arteendoscolores
+      Llena de color🌈 🧥Hago estilismos para foto/video 🤳Creo contenido de moda/lifestyle en Mcbo/Ccs 🎨Ases. de imagen personal 🗺de los sueños Escríbeme💖
     location: "Venezuela"
-    followers: 186328
-    engagement: 344
-    commentsToLikes: 0.201662
-    id: ck5zzogprc4h50i14vp0r459j
+    followers: 28351
+    engagement: 19
+    commentsToLikes: 0.002289
+    id: ck0tuora781lw0i193zuy5afp
     verified: false
-    hashtags: "#art, #arte, #valentines, #artoftheday"
+    hashtags: "#style, #photodump, #fashionblogger, #outfit"
   - username: "billybillon"
     fullname: >-
       brandon🔪
@@ -79,30 +79,6 @@ profiles:
     id: ckaorxxewp9mg0i78jr7ndyzh
     verified: false
     hashtags: "#comedy, #pinterest, #stayathome, #perreo"
-  - username: "petitepaulette_"
-    fullname: >-
-      Stylist | Image Consultant
-    bio: >-
-      Petite Paulette | Fashion & Lifestyle Creo arte, salgo de mi zona de confort y te enseño a lucir bien. Blazer, pants & shoes lover 📍Mcbo/Ccs
-    location: "Venezuela"
-    followers: 18844
-    engagement: 718
-    commentsToLikes: 0.041720
-    id: ck0tuora781lw0i193zuy5afp
-    verified: false
-    hashtags: "#clothing, #style, #imageconsultant, #ootd"
-  - username: "jhonathanmiranda1"
-    fullname: >-
-      Jhonathan Miranda - Birds Vzla
-    bio: >-
-      🦉 Biologist-Ornithologist 💵 Promotion DM 💸Photo Seller 🦉 eBird reviewer 🦅Tour guide 📷 ©️Jhonathan Miranda #canon #avesdevenezuela #birdsofvenezuela
-    location: "Venezuela"
-    followers: 22323
-    engagement: 837
-    commentsToLikes: 0.026062
-    id: ck5qd7yduu9cg0i113q9equnz
-    verified: false
-    hashtags: "#wildlifephotography, #nicebird, #pocket, #elnacionalweb"
   - username: "carlosmarcanoficial"
     fullname: >-
       Carlos Marcano Oficial
@@ -127,4 +103,28 @@ profiles:
     id: ck6031hw7kh1o0i14cw6m7kxa
     verified: false
     hashtags: "#latina, #puertoordaz, #workhard, #ciudadguayana"
+  - username: "mis_pensamientos_compartidos"
+    fullname: >-
+      Mis pensamientos compartidos
+    bio: >-
+      🚀| Imaginando viajarás a Saturno.🪐 🌓| Te sentirás en la luna al leer. 🌋| Frases, poesía y escritura libre.✍🏼 👨‍🚀| Confíame tus letras y las publicaré.
+    location: "Venezuela"
+    followers: 2954
+    engagement: 5658
+    commentsToLikes: 0.080433
+    id: ckaow73137pg90i789h1bbzah
+    verified: false
+    hashtags: "#desamor, #frasesbonitas, #pensamientospositivos, #relaciones"
+  - username: "hermanoscristianos"
+    fullname: >-
+      Palabra De Dios
+    bio: >-
+      Compartiendo el Amor de Dios Con Tips para que puedas #ConectarconDios Te invito a suscribirte En YouTube NEW Videos Semanales
+    location: "Venezuela"
+    followers: 27248
+    engagement: 327
+    commentsToLikes: 0.023536
+    id: ck8t9gf2vnzsr0j78q5tnukgi
+    verified: false
+    hashtags: "#frasescristianas, #versiculo, #oraciones, #bibliaonline"
 ---

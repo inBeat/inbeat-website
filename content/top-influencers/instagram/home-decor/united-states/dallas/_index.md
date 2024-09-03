@@ -1,60 +1,96 @@
 ---
-title: Top 10 Home Decor Instagram Influencers In Dallas In 2023
+title: Top 10 Home Decor Instagram Influencers In Dallas In 2024
 description: >-
-  Find top home decor Instagram influencers in Dallas in 2023. Most popular hashtags: #dallasblogger #homedecor #liketkit #dallas.
+  Find top home decor Instagram influencers in Dallas in 2024. Most popular hashtags: #homedecor #dallastx #dallasblogger #dallas.
 platform: Instagram
-hits: 73
-text_top: Analyze the best Instagram profiles on inBeat.
-text_bottom: Our platform has 73 Instagram influencers like this in Dallas, United States for you to work with.
+hits: 105
+text_top: Identify the best Instagram profiles on inBeat.
+text_bottom: Our database holds 105 Instagram influencers like this in Dallas, United States for you to contact.
 profiles:
-  - username: "nextwithnita"
+  - username: "keyraford"
     fullname: >-
-      Nita Mann
+      Dallas Realtor & Lifestyle Influencer
     bio: >-
-      Law school graduate turned blogger💄 Wifey to @spacemannstudios + mom to Kaiyen 💙 🏡 New Homeowners in Dallas, TX! Animal lover 🐶 shop👇🏼
+      ▫️“Ready To Love” @owntv SZN 8 ▫️ Faith | Confidence Builder | Dancer | & Lifestyle ▫️ Former Dallas Cowboys Cheerleader ⭐️💙 ⬇️ LETS CONNECT ⬇️
     location: "United States"
-    followers: 373410
-    engagement: 68
-    commentsToLikes: 0.114469
-    id: ck0txjdb5jdwt0i19g01yj4d6
-    verified: true
-    hashtags: "#nwnhome, #rescuedog, #babykaiyen, #dogsofinstagram"
+    followers: 11563
+    engagement: 195
+    commentsToLikes: 0.078158
+    id: ckqeisvo2m87w0j23l20mp8ap
+    verified: false
+    hashtags: "#dallashomes, #homedecor, #dallasrealtor, #dreamhome"
+  - username: "mvrubi"
+    fullname: >-
+      Monica Rubi
+    bio: >-
+      ⎯ Hi amigasss 📍TX 💌: monica@sparktalentgroup.com
+    location: "United States"
+    followers: 75443
+    engagement: 597
+    commentsToLikes: 0.020678
+    id: ck55kzcw80f650i11x2s4a41x
+    verified: false
+    hashtags: "#grwmmakeup, #holidaydress, #makeuplooks, #makeuptutorial"
+  - username: "sangiemamadoll"
+    fullname: >-
+      SANGIE
+    bio: >-
+      🇺🇸🇧🇷 #leowife💙 🖤, #girlmom #pregnantwithcancer #ovariancancersurvivor Sharing My Journey “Be Your Own Strength” Sangiemamadoll@gmail.com
+    location: "United States"
+    followers: 52617
+    engagement: 319
+    commentsToLikes: 0.026993
+    id: ck6tqqew1t94c0j71p5kdinh4
+    verified: false
+    hashtags: "#lifeasmama, #thisismotherhood, #momlife, #storytellingmama"
+  - username: "catherinecartie"
+    fullname: >-
+      Catherine Cartie
+    bio: >-
+      🎨Whimsical Watercolor Illustrations and Calligraphy 🦋Spreading color and happiness 🤠Fort Worth, TX and beyond 🌸Shop my artwork below
+    location: "United States"
+    followers: 17842
+    engagement: 118
+    commentsToLikes: 0.070449
+    id: clsv17ur8uivj0k081x6ycd4w
+    verified: false
+    hashtags: "#connectcollaboratecreate, #dallasartist, #homedecor, #fortworthphotographer"
+  - username: "dallas_discovered"
+    fullname: >-
+      Dallas Discovered
+    bio: >-
+      📍 Dallas, TX 💙 All things Dallas + DFW + Texas 📸 Food. Drink. Events. Activities. 📨 contact@dallas-discovered.com Tiktok: dallas_discovered
+    location: "United States"
+    followers: 348779
+    engagement: 77
+    commentsToLikes: 0.400238
+    id: ckzdjnd71cbvi0j23sauz9q28
+    verified: false
+    hashtags: "#visitdallas, #dallasdiscovered, #dfw, #thingstodoindallas"
   - username: "nickievu"
     fullname: >-
-      Nickie Vu
+      Nickie Vu Howard
     bio: >-
-      style inspo for you & your home ✨ neutral style ⨯ fashion ⨯ home decor #inthegreyhome 💍 newlywed 📍 dallas, tx
+      style inspo for you & your home ✨ neutral style ⨯ home ⨯ fashion ⨯ lifestyle 🏡 first time home reno @howardhomeinteriors
     location: "United States"
-    followers: 14949
-    engagement: 177
-    commentsToLikes: 0.206336
+    followers: 51242
+    engagement: 1785
+    commentsToLikes: 0.290224
     id: ckaoqyob6kxxj0i78uw5841qc
     verified: false
-    hashtags: "#walmarthome, #ltkhome, #stayhomewithltk, #liketkit"
-  - username: "lisalovesdecor"
+    hashtags: "#liketkit, #dallasblogger, #dallasbloggers, #ltkhome"
+  - username: "simplylynnblogxo"
     fullname: >-
-      Lisa | Home Decor
+      Lifestyle & Mama blogger
     bio: >-
-      Interior decor, my designs sprinkled with some inspo! 📧Email💌DM for inquiries Dallas,TX ⤵️ shop my post
+      Hi! I’m Lynn | Girl mama x ✌️💓 | Believer in kindness & running off of lattes Mental Health Matters • 📩 simplylynnblogxo@gmail.com
     location: "United States"
-    followers: 15063
-    engagement: 611
-    commentsToLikes: 0.115467
-    id: ck0tzynmus0zw0i19hcfb4lwl
+    followers: 26690
+    engagement: 155
+    commentsToLikes: 0.086428
+    id: ck14jeir6jxgk0i19ny6ysbga
     verified: false
-    hashtags: "#staginghomes, #hogar, #openconcept, #interiorinspo"
-  - username: "dannichick34"
-    fullname: >-
-      Danni  [Texas Fashion Blogger]
-    bio: >-
-      ♡ Dallas Fashion + lifestyle blogger Affordable Everyday Size 4/6 Fashion 💋 💌 DM/Email to work together
-    location: "United States"
-    followers: 9430
-    engagement: 363
-    commentsToLikes: 0.291442
-    id: ck5zk971fj25n0i144lbmf379
-    verified: false
-    hashtags: "#neutrallook, #neutralstyle, #texasfashion, #fashionblogger"
+    hashtags: "#motherhoodunplugged, #momlife, #motherhoodunfiltered, #kansascitymomblogger"
   - username: "thefunkgypsy"
     fullname: >-
       Michele Moss Design
@@ -67,64 +103,28 @@ profiles:
     id: ck0vy969v2u8w0i19k0mgf73x
     verified: false
     hashtags: "#dustyblue, #dfw, #wainscoting, #wainscotting"
-  - username: "emmasthing"
+  - username: "accordingtotia"
     fullname: >-
-      emma golden
+      Tia Davidson
     bio: >-
-      ✨the blog about everything (est. 2010)✨ not a fashion blog but I have style. not a fitness blog but I workout. not a food blog but I love to cook.
+      Luxury Travel, Fashion, & Beauty Enthusiast 📍 Dallas, TX Just a creative girl with expensive taste💕 Serving lewks around the 🌏 🥂 @thefancygirlsociety
     location: "United States"
-    followers: 11925
-    engagement: 445
-    commentsToLikes: 0.054027
-    id: ck0w2l6faowz20i19hs0fabhc
+    followers: 37033
+    engagement: 549
+    commentsToLikes: 0.014645
+    id: ck5cgu2rnpjrl0i11yueer1as
     verified: false
-    hashtags: "#funny, #fyp, #foryoupage, #texassummer"
-  - username: "sharieshine"
+    hashtags: "#blackgirlluxurylifestyle, #dallasinfluencers, #blackgirlluxury, #dallasinfluencer"
+  - username: "kirstie_kayyy"
     fullname: >-
-      Sharie
+      Kirstie Kay | Travel Blogger
     bio: >-
-      📍Dallas, TX| RN BSN💉|Living life abundantly, sharing a glimpse with you| Style•Life•Beauty•Health
+      +🔑: Lifestyle, Mommy & Travel Blogger + 📸: @kirstiekayphotography + 📍: @shareitetx + 💌: PR: kirstie@shareitsister.com
     location: "United States"
-    followers: 3823
-    engagement: 617
-    commentsToLikes: 0.117055
-    id: ckaoukg6v0npd0i78bk7vsclp
+    followers: 25262
+    engagement: 146
+    commentsToLikes: 0.323723
+    id: ck0vzt1vuaro00i198kgo5cln
     verified: false
-    hashtags: "#dallasblogger, #ad, #yesforless, #dallas"
-  - username: "heyprettyblog"
-    fullname: >-
-      Kayley Pate
-    bio: >-
-      🌸 My life through a rose colored lens 🌵 Dallas, TX 👩🏻‍🎓 Texas A&M Alumni 2015 ✉️ heyprettyblog@gmail.com
-    location: "United States"
-    followers: 20779
-    engagement: 266
-    commentsToLikes: 0.048774
-    id: ck5c4vpfq27l30i11stkualjl
-    verified: false
-    hashtags: "#influencer, #pink, #goodnightmacaroon, #liketkit"
-  - username: "beingmarrica"
-    fullname: >-
-      Marrica Calahan
-    bio: >-
-      Join The #InstastoryGang! 👆🏾 @marricaevans here! 📸 👑 Instagram queen. 🎙 Host at @instastorygang ✨ Creator of @thecontentcamp
-    location: "United States"
-    followers: 25771
-    engagement: 1370
-    commentsToLikes: 0.051215
-    id: ck13933u8j9z10i19atn3lgy3
-    verified: false
-    hashtags: "#wedding, #dallastexas, #instastorygang, #aislegowithcalahan"
-  - username: "marypadian"
-    fullname: >-
-      Mary Padian
-    bio: >-
-      MarysFinds.com | Formerly on A&E’s Storage Wars | Dallas, TX
-    location: "United States"
-    followers: 323094
-    engagement: 663
-    commentsToLikes: 0.027466
-    id: ck5bu8iekhc7i0i117gheps9v
-    verified: true
-    hashtags: "#marysfinds, #storagewars, #treasures, #portaransas"
+    hashtags: "#blackandwhite, #accentwall, #blackandwhitebathroom, #bathroominspo"
 ---

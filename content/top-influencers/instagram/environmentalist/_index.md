@@ -1,130 +1,130 @@
 ---
-title: Top 10 Environmental Instagram Influencers In 2023
+title: Top 10 Environmental Instagram Influencers In 2024
 description: >-
-  Find top environmental Instagram influencers in 2023. Most popular hashtags: #climateaction #gaming #gamer.
+  Find top environmental Instagram influencers in 2024. Most popular hashtags: #healthyfood #sustainability #climateweek.
 platform: Instagram
-hits: 243
-text_top: See the best Instagram profiles on inBeat.
-text_bottom: inBeat aggregates 243 Instagram influencers like this for you to collaborate.
+hits: 261
+text_top: Identify the top-rated Instagram accounts on inBeat.
+text_bottom: Our search engine holds 261 Instagram influencers like this for you to work with.
 profiles:
-  - username: "sierra"
+  - username: "lampe23"
     fullname: >-
-      Sierra Quitiquit
+      Erika Lampe
     bio: >-
-      Athlete + Environmentalist 🫶🏼 lover of people + planet 🌎 ▪️ @time.for.better ▪️ @plasticfreefridays ▪️ @protectourwinters ▪️ @light_on_lyme
+      Conserve what you love 🌲🗺🏞 | Traveler | Lake Lover | Golfer | Environmentalist | DSM ——>📍|
     location: "United States"
-    followers: 127087
-    engagement: 63
-    commentsToLikes: 0.366908
-    id: ck0u06g52ssbh0i19l6z2i6ta
-    verified: true
-    hashtags: "#protectthefuture, #lymewarrior, #healing, #willthisigreelbetheendofplasticbags"
-  - username: "leonardodicaprio"
+    followers: 8510
+    engagement: 528
+    commentsToLikes: 0.030308
+    id: ck9hcwgvbn9990j7809vpcqmg
+    verified: false
+    hashtags: "#meow"
+  - username: "kiana.kaz"
     fullname: >-
-      Leonardo DiCaprio
+      kiana kazemi 👩🏽‍🌾
     bio: >-
-      Actor and Environmentalist
+      🌞environmentalist + data scientist 🎨co-founder @joinbeaker + @intersectionalenvironmentalist 🌳 @forbes 30under30 💌hellokianakazemi@gmail.com
+    location: "United States"
+    followers: 12006
+    engagement: 1826
+    commentsToLikes: 0.011354
+    id: ckxleq47w8mty0j236zi8q39s
+    verified: false
+    hashtags: "#sustainability, #sustainablefashion, #techethics, #climatesolutions"
+  - username: "iamexploringworld"
+    fullname: >-
+      Marina - travel🛤️ & protect🌱♻️
+    bio: >-
+      passionate traveler, environmentalist, color addicted photographer, connoisseur 📍Austria🇦🇹 ⏭️ Italy🇮🇹
+    location: "Italy"
+    followers: 6652
+    engagement: 872
+    commentsToLikes: 0.170297
+    id: ck0u1okfgxixy0i19n82l0h0u
+    verified: false
+    hashtags: "#sidewalkerdaily, #travelgirls, #ig, #canon"
+  - username: "nolangould"
+    fullname: >-
+      Nolan Gould
+    bio: >-
+      Smash that unfollow button. Actor/Environmentalist. @free.nolo
+    location: "United States"
+    followers: 1677430
+    engagement: 601
+    commentsToLikes: 0.004777
+    id: ck5zk9wqgj34q0i14c3q6jsgl
+    verified: true
+    hashtags: "#sleepyjoebucket, #wonkamovie, #beautiful, #art"
+  - username: "raerodriguez_"
+    fullname: >-
+      RAE RODRIGUEZ
+    bio: >-
+      🇵🇷 puertorriqueña 🌎 @imgmodels 🌱 imperfect environmentalist - bsc marine
     location: "Australia"
-    followers: 55987738
-    engagement: 27
-    commentsToLikes: 0.014753
-    id: ck0twdnasf1980i190z06xjsd
-    verified: true
-    hashtags: "#cop15, #cop27, #climateaction, #campaignfornature"
-  - username: "naturechola"
-    fullname: >-
-      karen
-    bio: >-
-      🇲🇽🌧👧🏾✨ Orgullosamente: Indígena-Oaxaqueña-ÑuuSavíi-Méxicana & your local #hotcheetogirl /neighborhood chillona 🥲/ Hood Environmentalist ♻️
-    location: "United States"
-    followers: 49942
-    engagement: 1232
-    commentsToLikes: 0.022096
-    id: ck0tvna6wbzyl0i19opq1quae
-    verified: false
-    hashtags: "#gofarfeelgood, #vamosafueraguey, #future50foods, #naturechola"
-  - username: "deric_tv"
-    fullname: >-
-      Skye 📍📺
-    bio: >-
-      📺 Irish TV Broadcaster 💚 Environmentalist 🌈 Ironman, Swimrise & Adventurer ▶️ Content Creator 💡 MC & Collabs 📩 greg@bigandbright.ie
-    location: ""
-    followers: 33295
+    followers: 43308
     engagement: 352
-    commentsToLikes: 0.043945
-    id: ck5zva9gu3uq70i14z01l6azt
+    commentsToLikes: 0.025568
+    id: ck6tpx4glnxjf0j71x53mgyto
     verified: false
-    hashtags: "#heatwave, #ad, #belfast, #swimrise"
-  - username: "nicolepeachyy"
+    hashtags: "#ad, #day12, #buybetter, #woolweek"
+  - username: "barkhasingh0308"
     fullname: >-
-      Nicole 🍑
+      Barkha Singh
     bio: >-
-      Pole Dancer 💃🏻 Gamer 🎮 Environmentalist 💚 Second Account @nicolepeachy1 ✨ Business: nicolestream@gmail.com
-    location: "United States"
-    followers: 57836
-    engagement: 854
-    commentsToLikes: 0.017793
-    id: ck8t64yy4c81i0j78np490owt
-    verified: false
-    hashtags: "#twitchgamer, #twitch, #meow, #gaming"
-  - username: "saber.pix"
-    fullname: >-
-      Saber Ghazi
-    bio: >-
-      Middle East Based Freelance Environmentalist Photographer
-    location: "Iran"
-    followers: 5916
-    engagement: 1544
-    commentsToLikes: 0.036600
-    id: ck6u273rgq3xe0j71wjiqcrrq
-    verified: false
-    hashtags: "#gettyimages, #apfmagazine, #aks, #documentaryphotography"
-  - username: "pattiegonia"
-    fullname: >-
-      Pattie Gonia
-    bio: >-
-      queer environmentalist | professional homosexual | fetus drag queen building community for queer people, allies & our planet. pattiegonia@gmail.com
-    location: "United States"
-    followers: 346400
-    engagement: 778
-    commentsToLikes: 0.029241
-    id: ck14j1le8i6780i19sdldais7
+      Now that you’re here come join the madness 🤗 Actor✨ Travel with me 🌏 Animals ❤ Environmentalist🌿 Carpe diem ✨ New video👇
+    location: "India"
+    followers: 2874450
+    engagement: 344
+    commentsToLikes: 0.002779
+    id: ck5ztqryn0yaq0i149lsvd6bp
     verified: true
-    hashtags: "#bigoil, #death2nature, #reading, #chickfilaprideparter"
-  - username: "kadustuniverse"
+    hashtags: "#travelwithb, #naturallightphotography, #staystylish, #xiaomi14civi"
+  - username: "sara.oteri"
     fullname: >-
-      Isa, Playstation & PC gamer
+      ✖️ S A R A  O T E R I ✖️
     bio: >-
-      Isabelle ✰ Back-end Software Dev ✰ Norway 🇳🇴 ✰ #Environmentalist ✰ Ambassador for @playstationnorge ✰ #MassEffect Queen ______________________________
+      🍓PAINT YOUR INSIDES WITH COLOUR 🍐 👩🏼 Feeder + Ad chick + environmentalist
+    location: "Australia"
+    followers: 33541
+    engagement: 320
+    commentsToLikes: 0.009441
+    id: ck0w5jpgp3yyw0i19ye34hwcp
+    verified: false
+    hashtags: "#uluru, #foodie, #dinnerideas, #winter"
+  - username: "curlyemgabs"
+    fullname: >-
+      Emily Purks ♡ | Travel + Fashion
+    bio: >-
+      ✪ Raleigh, NC ✉︎ emilytitolo97@gmail.com ✈︎ Next Trip: NYC Ocean Lover 𓇼 • Environmentalist • Creativity
+    location: "United States"
+    followers: 38384
+    engagement: 561
+    commentsToLikes: 0.395421
+    id: ck6ts64cd2yyu0j71dk7ctpk9
+    verified: false
+    hashtags: "#northcarolinanature, #thenaturalstate, #dramaticportrait, #ncoutdoor"
+  - username: "bonniethunders"
+    fullname: >-
+      Bonnie Thunders
+    bio: >-
+      Queer world champ roller derby skater Small biz owner @fivestride Feral cat wrangler 🐱 Environmentalist 🐸🍄 Tending land on stolen Clackamas territory
+    location: "United States"
+    followers: 18283
+    engagement: 200
+    commentsToLikes: 0.031358
+    id: ck14lh07qumit0i193dcc7gtl
+    verified: false
+    hashtags: "#pdx, #freddiethunders, #toastedmarshmallowclub, #oneeyedsarah"
+  - username: "gunhild_stordalen"
+    fullname: >-
+      Gunhild A. Stordalen
+    bio: >-
+      Medical doctor & environmentalist working to improve the health of👫&🌎 through better food. Founder & Executive Chair of EAT. Young Global Leader 2015
     location: "Norway"
-    followers: 63444
-    engagement: 797
-    commentsToLikes: 0.032408
-    id: ck0w16s89htx50i198nvhxdgq
-    verified: false
-    hashtags: "#games, #gamingroom, #playstationcommunity, #girlgamer"
-  - username: "selinasinspiration"
-    fullname: >-
-      Selina | Sustainable Fashion 🌾
-    bio: >-
-      ❀ a slower way of life. ➳ Vegan ➵ Eco Travel ➳ Social Media Manager @und_gretel_cosmetics ➵ Environmentalist #fairfashion #sustainablefashion
-    location: "United States"
-    followers: 36721
-    engagement: 410
-    commentsToLikes: 0.044632
-    id: ck5c242wrwi440i11ghathcmi
-    verified: false
-    hashtags: "#slowfashionmovement, #ethicalfashion, #offgridliving, #veganfortheanimals"
-  - username: "nick.vogt00"
-    fullname: >-
-      N I C K   V O G T
-    bio: >-
-      •Follow me on the new IG @nature_nick__ •Model | LA based📍 •Vegan | Environmentalist🌱 •Twitter account: NickVogt17🐦
-    location: "United States"
-    followers: 302408
-    engagement: 608
-    commentsToLikes: 0.014782
-    id: ck5c0bj3wstfk0i115sxbrnw9
-    verified: false
-    hashtags: "#americanboy, #vegan, #reels, #germanboys"
+    followers: 196463
+    engagement: 169
+    commentsToLikes: 0.034351
+    id: ck5zmq1uzn0kg0i147yvuqe2w
+    verified: true
+    hashtags: "#healthyfood, #climatejustice, #plantbased, #climateaction"
 ---

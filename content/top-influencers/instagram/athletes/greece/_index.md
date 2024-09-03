@@ -1,12 +1,60 @@
 ---
-title: Top 10 Athletes Instagram Influencers In Greece In 2023
+title: Top 10 Athletes Instagram Influencers In Greece In 2024
 description: >-
-  Find top athletes Instagram influencers in Greece in 2023. Most popular hashtags: #athlete #2021 #happy #love.
+  Find top athletes Instagram influencers in Greece in 2024. Most popular hashtags: #love #greece #happy #training.
 platform: Instagram
-hits: 38
-text_top: Analyze the best Instagram profiles on inBeat.
-text_bottom: Our database holds 38 Instagram influencers like this in Greece for you to pitch.
+hits: 42
+text_top: See the most popular Instagram profiles on inBeat.
+text_bottom: Our platform has 42 Instagram influencers like this in Greece for you to pitch.
 profiles:
+  - username: "stefanidi_katerina"
+    fullname: >-
+      Katerina Stefanidi
+    bio: >-
+      Olympics🥇 World Championships🥇🥉🥉🥉 European Championships🥇🥇🥇🥈🥈🥈 🇬🇷 Record holder 🔹@adidasrunning athlete 🔹Stoiximan 🔹Toyota 🔹@visagreece
+    location: "Greece"
+    followers: 99160
+    engagement: 816
+    commentsToLikes: 0.007840
+    id: ck0uciqstgzs10i19htnx13fw
+    verified: true
+    hashtags: "#trackandfield, #teamessx, #japan, #tokyo"
+  - username: "anastasia_marinakou_"
+    fullname: >-
+      Anastasia Marinakou
+    bio: >-
+      PROFESSIONAL GREEK ATHLETE🇬🇷 ✨4th European ChampionU20 1500m ✨6x National Record ✨Adidas Athlete ✨sports journalist #impossibleisnothing
+    location: "Greece"
+    followers: 28677
+    engagement: 520
+    commentsToLikes: 0.021211
+    id: ck8svsl71cjgy0j78dqrb3syl
+    verified: false
+    hashtags: "#adidasgr, #nevergiveup, #impossibleisnothing, #summerlife"
+  - username: "nutrify.gr"
+    fullname: >-
+      Dimitris Athanasiadis
+    bio: >-
+      🧬 360° Nutrition + Wellness 🎓 Dietitian, Sports Nutrition MSc. HUA 📍 Glyfada-Chalandri 🥇 Taking professional athletes to the next level of nutrition 📈
+    location: "Greece"
+    followers: 13282
+    engagement: 319
+    commentsToLikes: 0.014552
+    id: ck6tsp5bz614k0j7144nqejsa
+    verified: false
+    hashtags: "#beach, #sea, #elitenutrition, #healthyhabits"
+  - username: "jo_desylla"
+    fullname: >-
+      Ioanna Desylla
+    bio: >-
+      Taekwondo athlete 🥋 Med school- uoa MA:@vnmodels 🇬🇷 @twomanagementcopenhagen 🇩🇰 @twomanagementberlin 🇩🇪 🔸European Champion 2017🥇 🔸GNTM 2018
+    location: "Greece"
+    followers: 25549
+    engagement: 193
+    commentsToLikes: 0.003198
+    id: ck5q8m3qg6uqv0i11fc088y07
+    verified: false
+    hashtags: "#mykonos, #sunset, #elsa"
   - username: "miaevgeniadi"
     fullname: >-
       Miamorethananasana
@@ -19,18 +67,6 @@ profiles:
     id: ckap6tioshczs0i78os1gj7ns
     verified: false
     hashtags: "#likeforlike, #instamood, #traveltheworld, #motd"
-  - username: "jo_desylla"
-    fullname: >-
-      Ioanna Desylla🦋🧿
-    bio: >-
-      •National team member of Greece🇬🇷 •Taekwondo athlete🥋 •European champion🥇 •MA @xraymodels 💁🏻‍♀️ • @onwaymodels •GNTM 1
-    location: "Greece"
-    followers: 29739
-    engagement: 594
-    commentsToLikes: 0.074786
-    id: ck5q8m3qg6uqv0i11fc088y07
-    verified: false
-    hashtags: "#wetlook, #blackandwhite, #happynewyear, #modellife"
   - username: "rafaelaspanoudaki"
     fullname: >-
       Rafaela Spanoudaki
@@ -43,18 +79,6 @@ profiles:
     id: ck5chpvzcr8jb0i11m9nq49id
     verified: false
     hashtags: "#outdoorseason, #200metres, #olympicgames, #rspanoudaki"
-  - username: "anastasia_marinakou_"
-    fullname: >-
-      Anastasia Marinakou
-    bio: >-
-      PROFESSIONAL GREEK ATHLETE🇬🇷 ✨4th-8th European ChampionU20 1500-3000m ✨6xN.Record ✨ Pb 1500m 4"10"63 U23 ✨Adidas Athlete ✨Journalism @iekakmiedu
-    location: "Greece"
-    followers: 26976
-    engagement: 580
-    commentsToLikes: 0.019188
-    id: ck8svsl71cjgy0j78dqrb3syl
-    verified: false
-    hashtags: "#staysafe, #adidasgr, #createdbyfitness, #stayfitness"
   - username: "anna_kiafa"
     fullname: >-
       Anna Kiafa 🌙
@@ -103,28 +127,4 @@ profiles:
     id: ck6tteawta5690j71abbd8foo
     verified: true
     hashtags: "#family, #aek, #mizuno, #aekfamily"
-  - username: "antakar"
-    fullname: >-
-      Anta Karagianni
-    bio: >-
-      Work hard and dream big! Athens Law School🎓 Track&field athlete🏃🏼‍♀️ Tennis player
-    location: "Greece"
-    followers: 5614
-    engagement: 1966
-    commentsToLikes: 0.014504
-    id: ckap89lqwnfbl0i78hnqdwc5i
-    verified: false
-    hashtags: "#athletics, #pursuitofportraits, #red, #beach"
-  - username: "georgia_papadopoulou_"
-    fullname: >-
-      Georgia Papadopoulou
-    bio: >-
-      ➡Personal trainer ➡Group instructor ➡2012-2015 Bikini Fitness Athlete
-    location: "Greece"
-    followers: 5821
-    engagement: 930
-    commentsToLikes: 0.017042
-    id: ck6txhiqjxvd90j71undqgz8k
-    verified: false
-    hashtags: "#fitnessmotivation, #fitnesslife, #gymaddict, #perfit"
 ---

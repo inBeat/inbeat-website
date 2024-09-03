@@ -1,130 +1,130 @@
 ---
-title: Top 10 Food Instagram Influencers In United States In 2023
+title: Top 10 Food Instagram Influencers In United States In 2024
 description: >-
-  Find top food Instagram influencers in United States in 2023. Most popular hashtags: #foodie #foodporn #easyrecipes #dessert.
+  Find top food Instagram influencers in United States in 2024. Most popular hashtags: #momlife #foodblogger #ad #vegan.
 platform: Instagram
-hits: 14860
-text_top: See the top-rated Instagram profiles on inBeat.
-text_bottom: inBeat holds 14860 Instagram influencers like this in United States for you to work with.
+hits: 17960
+text_top: See the most popular Instagram profiles on inBeat.
+text_bottom: Our search engine aggregates 17960 Instagram influencers like this in United States for you to work with.
 profiles:
-  - username: "annierose.nelson"
+  - username: "nomastayinkc"
     fullname: >-
-      Annie Rose Nelson
+      Amanda | KC Blogger
     bio: >-
-      NYC | life, wellness, favs, food tiktok @ annierosenelson ✉️ msannierose@gmail.com meal plan below
+      Yoga teacher 🧘‍♀️| Lover of food & drink 🥂| 🐶 Mom | Deal finder & sharer 🤌 | Kindness always 🙌 | Balanced living 🍪🥗🍷| @lululemon Ambassador 🫶
     location: "United States"
-    followers: 66355
-    engagement: 699
-    commentsToLikes: 0.006191
-    id: cl0cxzu0qgll50i23a9luo6oi
+    followers: 34311
+    engagement: 1989
+    commentsToLikes: 0.199792
+    id: ck5c36n4typ390i11aaijrjdd
     verified: false
-    hashtags: "#workoutroutine, #motivationalquotes, #productive, #healthyliving"
-  - username: "lahbco"
+    hashtags: "#yogainspiration, #momanddad, #gifted, #firsttimeparents"
+  - username: "thetolerantcook"
     fullname: >-
-      Nasim Lahbichi
+      Kristína Suchánková
     bio: >-
-      🍋 if i’m not crying about a boy, i’m making food… hbu? 📲More recipes on TT {525k✨} be kind, inspire, and love
+      mom of a boy and one little babygirl | foodblogger | content creator | foodphoto | recipes for food intolerances | kristina.tomekova@gmail.com
     location: "United States"
-    followers: 344422
-    engagement: 588
-    commentsToLikes: 0.010580
-    id: ckybzmgh5ntya0j23kj9umtzq
+    followers: 22086
+    engagement: 400
+    commentsToLikes: 0.097717
+    id: ck15texg7hqu50i19oxcr63nh
     verified: false
-    hashtags: "#easyveganrecipes, #comfortfood, #holidayrecipes, #plantbasedrecipes"
-  - username: "lifewithashleyann"
+    hashtags: "#foodphoto, #vegan, #xiaomifriends, #funnyreels"
+  - username: "tyra_fisher"
     fullname: >-
-      ashley || chicago creator
+      TYRA FISHER
     bio: >-
-      ✨mom life around chicagoland + beyond • food to eat, places to go, what to wear • ✨lunch packing + recipe reels⬇️ 💌contactlifewithashleyann@gmail.com
+      fashion and food are my aesthetic✌🏾 NYC 🍒 Social @vspink 💌 tyrafisher99@gmail.com
     location: "United States"
-    followers: 36554
-    engagement: 3783
-    commentsToLikes: -0.449386
-    id: cl7i0lxqdtv2n0i23c3joq3hq
+    followers: 8046
+    engagement: 680
+    commentsToLikes: 0.110423
+    id: ckaorkwu3now30i781odcbc8l
     verified: false
-    hashtags: "#luncheazepartner, #christmaspopup, #chicagopopup, #chicagobar"
-  - username: "upbeetanisha"
+    hashtags: "#summerootd, #summeraesthetic, #nycfitcheck, #nycrooftops"
+  - username: "saraahfarrell"
     fullname: >-
-      Anisha
+      Sarah Dawne 🍣
     bio: >-
-      simple plant-based food ✌🏽🌎 newsletter (spice club!) and recipes:
+      🇵🇦 Panameña 🤳🏼Lifestyle • foodie • fitness • playita • travel 👙 @farrellswimwear 🎙️Podcast @cheersamipodcast 👩🏼‍⚖️International Affairs | FSU19👩🏼‍🎓
     location: "United States"
-    followers: 45589
-    engagement: 1118
-    commentsToLikes: 0.087525
-    id: ckmxacukh9l700j23bwnvptt3
+    followers: 43749
+    engagement: 955
+    commentsToLikes: 0.017817
+    id: ck5c26esmwmok0i119o8alrtc
     verified: false
-    hashtags: "#plantbased, #indianstreetfood, #indianfood, #eatplants"
-  - username: "sanjyotkeer"
+    hashtags: "#sorprendentementesuave, #loveyourmarks, #loveyourskin, #loveyourbody"
+  - username: "lemaitravel"
     fullname: >-
-      Sanjyot Keer
+      Mai Le |  ATL Foodie+Lifestyle | UGC Creator
     bio: >-
-      Founder @yourfoodlab, Chef by profession & content creator by destiny, bringing smiles through food videos online. 📧: sanjyotkeer@yourfoodlab.com
+      📍ATL, Georgia (22+Years) ⚡️Follow for food & travel hidden gem 🛬38 destinations 🥾72 hikes 🏋🏻‍♀️PCOS Hypertrophy Training ⬇️ Check out my Porfolio
     location: "United States"
-    followers: 177823
-    engagement: 885
-    commentsToLikes: 0.009212
-    id: ck0vxpugk048s0i19z0hyzvh2
-    verified: true
-    hashtags: "#indiancuisine, #sanjyotkeer, #foodporn, #indianfood"
-  - username: "sabrazaraa"
-    fullname: >-
-      Seattle Lifestyle & Travel | PharmD, MPH, PhC
-    bio: >-
-      🇹🇳🇺🇸 Healthy lifestyle, skincare, food & travel Pharmacist | Researcher Inspiring YOU to be the best version of yourself 💌 Sabra.zaraa@gmail.com
-    location: "United States"
-    followers: 77441
-    engagement: 726
-    commentsToLikes: 0.023415
-    id: ck14lbl7wtu3i0i191qq4vdxr
+    followers: 20833
+    engagement: 922
+    commentsToLikes: 0.083752
+    id: ckap8emtenzhn0i78n8xbb6y1
     verified: false
-    hashtags: "#visittunisia, #seattlewa, #visitdjerba, #skincaretips"
-  - username: "saengdouangdara"
+    hashtags: "#dalatvietnam, #mysecretatlanta, #dalatwonderresort, #budgettraveltips"
+  - username: "celiacandthe6ix"
     fullname: >-
-      Saeng Douangdara
+      Ashley ~ Gluten Free Queen
     bio: >-
-      🏳️‍🌈🇱🇦🇺🇸 Lao Food Instructor | Storyteller | Food Writer | Personal Chef #notlarb #laohot #eatmorelaofood Hey Lao food besties, Recipes & More ⬇️
+      🍽Toronto’s #Celiac Foodie 💕🏡✈️👩‍👧Life, Home, Travel + Motherhood with a #glutenfree twist 👇🏼Join the Gluten Free Mamas Facebook Group
     location: "United States"
-    followers: 93166
-    engagement: 953
-    commentsToLikes: 0.022262
-    id: ck0uacwyhby6l0i19tabj3qsc
+    followers: 10155
+    engagement: 433
+    commentsToLikes: 0.312737
+    id: ck6tzz7h5cpr00j716sem0cpj
     verified: false
-    hashtags: "#asianfood, #laos, #noodles, #foodie"
-  - username: "thehungryytraveler"
+    hashtags: "#glutenfreeaf, #tummylove, #canadianmoms, #glutenfreeeats"
+  - username: "sweetandsavorhie"
     fullname: >-
-      Jenna | The Hungry Traveler✈️🍋
+      s u s a n   r h i e
     bio: >-
-      Foodie with the travel bug🍴🌎✨ 📍 𝐍𝐉 • 𝐍𝐘𝐂 | 𝐅𝐨𝐨𝐝 • 𝐓𝐫𝐚𝐯𝐞𝐥 🥂 @jenna_piemonte 📱Follow me on Tiktok! (20k) 📩thehungryytraveler@gmail.com ✨
+      🍴food, life & motherhood 🙏🏻 Child of God 🎀 founder @everhart_co 🇰🇷girl mama to tay² & dani 👧🏻 👧🏻
     location: "United States"
-    followers: 6775
-    engagement: 497
-    commentsToLikes: 0.362003
-    id: cl7zclq2nzkp80i236r5jx59z
+    followers: 18932
+    engagement: 1614
+    commentsToLikes: 0.078460
+    id: ck0vvafr6o9g40i19a7ydjjew
     verified: false
-    hashtags: "#eatingnj, #drinksofinstagram, #foodreel, #foodlover"
-  - username: "eatingallofny"
+    hashtags: "#ocmoms, #recipeshare, #sisters, #koreanfood"
+  - username: "chelseypecoy"
     fullname: >-
-      EATING ALL OF NYC | NYC Food
+      Chelsey
     bio: >-
-      Yes I’m the foodie friend 👩🏻‍💻 @kat.irene 📍NYC (and sometimes Boston) 🎉DM or email for collabs 📩 eatingallofny@gmail.com
+      🍃 wellness, travel, food, film photography ✨ southern california 👩🏼‍🌾 founder + chef of @lightheartedkitchen
     location: "United States"
-    followers: 33531
-    engagement: 619
-    commentsToLikes: 0.049642
-    id: cl6oixfuslgs80i23l95idj22
+    followers: 44726
+    engagement: 1126
+    commentsToLikes: 0.022427
+    id: ck5zs8ag4y0fv0i14nu27w1lu
     verified: false
-    hashtags: "#westvillage, #uppereastside, #nycfood, #manhattan"
-  - username: "foodwithbros"
+    hashtags: "#fallstyle, #fallfashion, #cabininthewoods, #ad"
+  - username: "momoshares"
     fullname: >-
-      BROS | Food + Travel 🍔 OC & LA
+      Serena | Seattle & Homecook
     bio: >-
-      🙋‍♂️Robert • Kha 👨‍💻Social Media Manager/Content Creator 📧Email: foodwithbros@gmail.com ✉️DM for Collabs/Business Inquiries 📸Rule #1 Camera Eats First
+      A Taiwanese girl living in Seattle, WA. Food is my love language, and this is my diary 📸
     location: "United States"
-    followers: 108553
-    engagement: 1997
-    commentsToLikes: 0.036846
-    id: ckt27ztc4t2wo0j23atl63v2n
+    followers: 27707
+    engagement: 1552
+    commentsToLikes: 0.138712
+    id: ck14koq78qjuj0i19pf1k3fq8
     verified: false
-    hashtags: "#sushitime, #sushiaddict, #deltacopartner, #deltorta"
+    hashtags: "#matcha, #matchalover, #foodphotography, #seattle"
+  - username: "saikofood"
+    fullname: >-
+      NINA SoCal Foodie+Content Creator 🇵🇭
+    bio: >-
+      🍟Local Food Favorites Food Finds | Lifestyle | Travel 💌Collab: ninacsaiko@gmail.com 📍Orange County ↔️ San Diego ↔️ Los Angeles
+    location: "United States"
+    followers: 34948
+    engagement: 5519
+    commentsToLikes: 0.046560
+    id: ckmw1hdp9833a0j23vesrkiov
+    verified: false
+    hashtags: "#filipinofood, #foodfail, #foodvideo, #foodblogger"
 ---

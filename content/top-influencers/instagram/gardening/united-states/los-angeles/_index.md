@@ -1,24 +1,36 @@
 ---
-title: Top 10 Gardening Instagram Influencers In Los Angeles In 2023
+title: Top 10 Gardening Instagram Influencers In Los Angeles In 2024
 description: >-
-  Find top gardening Instagram influencers in Los Angeles in 2023. Most popular hashtags: #losangeles #gardening #garden #love.
+  Find top gardening Instagram influencers in Los Angeles in 2024. Most popular hashtags: #gardening #losangeles #plantbased #plants.
 platform: Instagram
-hits: 20
-text_top: Analyze the top-rated Instagram influencers on inBeat.
-text_bottom: Our search engine has 20 Instagram influencers like this in Los Angeles, United States for you to contact.
+hits: 26
+text_top: See the best Instagram profiles on inBeat.
+text_bottom: Our platform aggregates 26 Instagram influencers like this in Los Angeles, United States for you to connect with.
 profiles:
-  - username: "cerowastecindy"
+  - username: "chixmag"
     fullname: >-
-      Cindy Villaseñor
+      CHIX 📓
     bio: >-
-      🌿Garden Educator / Consultant ♻️ Low Waste lifestyle 🌱Plant-Based Cooking 🍓Gardening + Plant Mama 🌵Camping Adventures 📍Los Angeles, CA
+      💖 Media for a healed future. 🌳 @chicksforclimate was the sapling, Chix is the mother tree. 👇Get curated wisdom straight to your inbox.
     location: "United States"
-    followers: 16705
-    engagement: 588
-    commentsToLikes: 0.033388
-    id: ck8t84kboj2op0j78ofmivfvk
+    followers: 345881
+    engagement: 141
+    commentsToLikes: 0.012182
+    id: cl4co0vwbolrq0i23wakb5bl9
     verified: false
-    hashtags: "#avocadomattress, #gifted, #blazepizza, #partner"
+    hashtags: "#farming, #gardening, #bluelandpartner, #climatejustice"
+  - username: "blackmenwithgardens"
+    fullname: >-
+      Black Men With Gardens
+    bio: >-
+      of fathers & suns sharing unique stories🌻 Founder @zznelsonzz | Los Angeles nelson@plantsandanime.com
+    location: "United States"
+    followers: 151848
+    engagement: 208
+    commentsToLikes: -0.546887
+    id: cl5f5qod64lzz0i23wy8bukew
+    verified: false
+    hashtags: "#blackmen, #sustainable, #blackgirlswithgardens, #creative"
   - username: "brittany_mcgowan"
     fullname: >-
       Brittany McGowan
@@ -30,19 +42,7 @@ profiles:
     commentsToLikes: 0.106417
     id: ck6txhx4mxxp00j7137w6cb1i
     verified: false
-    hashtags: "#makeup, #igtv, #photodump, #natural"
-  - username: "bartdanzig"
-    fullname: >-
-      Bart Danzig
-    bio: >-
-      I’m a little dog with a big personality 🐻 Therapy dog w/ @ucla_pac 🐶 Brussels Griffon/Petit Brabançon 📍Los Angeles
-    location: "United States"
-    followers: 93076
-    engagement: 385
-    commentsToLikes: 0.030865
-    id: ck0w2c8a8nmow0i19tk0r35hb
-    verified: false
-    hashtags: "#dogsofinstagram, #dog, #bartdanzig, #cute"
+    hashtags: "#igtv, #natural, #makeup, #photodump"
   - username: "mybrentwoodgarden"
     fullname: >-
       Cheryl’s Container Garden 👩🏻‍🌾
@@ -67,6 +67,42 @@ profiles:
     id: ck0w3z91aw11t0i198wpxue40
     verified: false
     hashtags: "#backyardgarden, #growyourown, #homegrown, #gardentotable"
+  - username: "el_tragon_de_los_angeles"
+    fullname: >-
+      MEMO TORRES 🌮 | L.A. Taco
+    bio: >-
+      Taco journalist, Third Gen Landscaper, host of Yerbalife & a Dir. for @lataco. On Netflix’s Taco Chronicles, Pressure Cooker, Apple Maps LA food guide
+    location: "United States"
+    followers: 53479
+    engagement: 435
+    commentsToLikes: 0.034271
+    id: cl6nb9xkul0680i23dwzizeho
+    verified: false
+    hashtags: "#lataco, #losangeles, #plants, #rams"
+  - username: "zznelsonzz"
+    fullname: >-
+      Nelson ZêPequéno 🇬🇭
+    bio: >-
+      Founder of @blackmenwithgardens Creative Producer- Experiential | L.A. nelson@sustainingcreative.com
+    location: "United States"
+    followers: 26192
+    engagement: 410
+    commentsToLikes: 0.029011
+    id: ck5hidteaczyu0i11r3nj6f8m
+    verified: false
+    hashtags: "#valentinesgift, #valentinesday, #plantscout, #instaflower"
+  - username: "camilla.marcus"
+    fullname: >-
+      Camilla Ruth Marcus
+    bio: >-
+      chef | activist | entrepreneur | adventurer | mama @westbourne @roar.ny @indprestaurants
+    location: "United States"
+    followers: 35222
+    engagement: 114
+    commentsToLikes: 0.017771
+    id: clm42v7ux5tjk0j08l4sicgnw
+    verified: false
+    hashtags: "#foodies, #losangeleschef, #momof3, #homeinspo"
   - username: "brie.thiele"
     fullname: >-
       Brie Thiele
@@ -91,40 +127,4 @@ profiles:
     id: ck5hqzek3tzy60i11a0etmxt3
     verified: false
     hashtags: "#losangeles, #actorslife, #staydangerous, #staypresent"
-  - username: "goodmorningcactus"
-    fullname: >-
-      Marissa Engoy 🌵🖤 Ecc 3:11
-    bio: >-
-      🙋🏽‍♀️Local Artist, Educator specializing in Succulents, Foliage/Floral Arrangements, Plant 101 🌱 Neighborhood Plant Stop📍Located in @corridor_flow
-    location: "United States"
-    followers: 49907
-    engagement: 111
-    commentsToLikes: 0.019759
-    id: ck8t4gjgz6qa10j78i09c2idp
-    verified: false
-    hashtags: "#plants, #godscreation, #plantsmakepeoplehappy, #community"
-  - username: "suzyamiscameron"
-    fullname: >-
-      Suzy Amis Cameron
-    bio: >-
-      Environmental Advocate, Author & Founder @omd4theplanet, Proud Wife & Mother. The OMD Plan: Now available in paperback.
-    location: "United States"
-    followers: 15759
-    engagement: 136
-    commentsToLikes: 0.044348
-    id: ck0vv7sl2nx6s0i19850vfm6u
-    verified: true
-    hashtags: "#musevirtual, #onlinelearning, #fall2020, #education"
-  - username: "cletabraham"
-    fullname: >-
-      Clet
-    bio: >-
-      Obeying is not a virtue
-    location: "United States"
-    followers: 71086
-    engagement: 721
-    commentsToLikes: 0.012953
-    id: ck0vv63d5npg10i19o4yetyv1
-    verified: false
-    hashtags: "#allyouneedislove, #streetsign, #streetart, #nopolicebrutality"
 ---

@@ -1,12 +1,84 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Russia In 2023
+title: Top 10 Fitness Instagram Influencers In Russia In 2024
 description: >-
-  Find top fitness Instagram influencers in Russia in 2023. Most popular hashtags: #fitnessmodel #fitnessmotivation #fitnessgirl.
+  Find top fitness Instagram influencers in Russia in 2024. Most popular hashtags: #fitnessmotivation #fitnessgirls #turkey.
 platform: Instagram
-hits: 585
-text_top: Discover the top-rated Instagram accounts on inBeat.
-text_bottom: inBeat has 585 Instagram influencers like this in Russia for you to contact.
+hits: 588
+text_top: See the most popular Instagram profiles on inBeat.
+text_bottom: Our search engine holds 588 Instagram influencers like this in Russia for you to work with.
 profiles:
+  - username: "iliyas007"
+    fullname: >-
+      Iliyas Issatayev
+    bio: >-
+      Connecting the dots between psychology, technology and fitness. CEO Invictus Group @invictusfitnesskz @invictusgo Founder and CEO of @herosjourneykz
+    location: "Russia"
+    followers: 21938
+    engagement: 301
+    commentsToLikes: 0.038026
+    id: ck6u4fhby3ezg0j718y12uww2
+    verified: false
+    hashtags: ""
+  - username: "nataly_grayl"
+    fullname: >-
+      ФИТНЕС ТРЕНЕР| МОДЕЛЬ| САМАРА
+    bio: >-
+      👑Создаю красоту изнутри и снаружи в @fitnessboom_avr 👑 🎓 «ШКОЛА СТРОЙНОСТИ» в Telegramm 🌟Лицо с обложки 2017 2019 👗Магазин одежды @gg_showroom63
+    location: "Russia"
+    followers: 197765
+    engagement: 144
+    commentsToLikes: 0.031749
+    id: ck5hco4ihj3io0i1135wksk42
+    verified: false
+    hashtags: "#reelsdance"
+  - username: "timursabirovr"
+    fullname: >-
+      Timur Sabirov
+    bio: >-
+      President UzFBF @uzbekistanfitnessfederation Founder @proform_fitness @generation_iron_centralasia @generationiron_uzbekistan_gym @muskulim_glyukomin
+    location: "Russia"
+    followers: 90227
+    engagement: 121
+    commentsToLikes: 0.046355
+    id: ckap3kz6b3g1w0i78i5kihliv
+    verified: false
+    hashtags: "#kazahstan, #muskulim, #fitness, #russia"
+  - username: "jeshe4ka"
+    fullname: >-
+      Evgeniya Alexandrovich
+    bio: >-
+      Fitness🏋🏼‍♀️мотивирую на 🌰 Twins 👯‍♀️ @odinakovka Наше дело @boginya_volos
+    location: "Russia"
+    followers: 220306
+    engagement: 83
+    commentsToLikes: 0.015960
+    id: ck15qwz6b51r90i19et2pv735
+    verified: false
+    hashtags: "#twins"
+  - username: "_twiggy_13"
+    fullname: >-
+      TATI 🌕 تاتي
+    bio: >-
+      𝐂𝐎𝐍𝐓𝐄𝐍𝐓 𝐂𝐑𝐄𝐀𝐓𝐎𝐑, 𝐁𝐋𝐎𝐆𝐆𝐄𝐑 Personal fitness trainer 🚭🍷❌ Georgian🇬🇪Living in📍Dubai, Uae🇦🇪 👩🏽‍💻@cavodxb @zoloto.dxb @ramee.dream 📩: warmsea13@gmail.com
+    location: "Russia"
+    followers: 127532
+    engagement: 72
+    commentsToLikes: 0.026080
+    id: ck5q5t0nbug340i11jt64sbkc
+    verified: false
+    hashtags: "#uniqlodailylook, #lifewear"
+  - username: "biliana_yotovska"
+    fullname: >-
+      Bilyana Yotovska official ®️
+    bio: >-
+      🏆Bikini fitness champion & Top Model Owner @bilianayotovska_label @bilianayotovska_cosmetics 💪20 years experience in fitness & nutrition 📚Book writer
+    location: "Russia"
+    followers: 134033
+    engagement: 45
+    commentsToLikes: 0.003924
+    id: ck0w3dkbdsupz0i19060wggk6
+    verified: false
+    hashtags: "#bilianayotovskafitness, #dreambibiteam, #4plus, #bilianayotovskalabel"
   - username: "amirakhayy"
     fullname: >-
       Amira Khayrutdinova
@@ -55,76 +127,4 @@ profiles:
     id: ck8t7wav8i6de0j78e36v9pe8
     verified: false
     hashtags: ""
-  - username: "liana_shel"
-    fullname: >-
-      L i a n a   S h e l
-    bio: >-
-      Modeling | Cosmetology | Fitness Самопознание | Трансформация🕊 _______________________________________ Сотрудничество 💌 Портфолио ⤵️
-    location: "Russia"
-    followers: 29510
-    engagement: 171
-    commentsToLikes: 0.050917
-    id: ck6ui7k4gdid70j7167vjraqw
-    verified: false
-    hashtags: "#photoshoot, #lianashel, #photomodel, #photography"
-  - username: "alenaplatoon"
-    fullname: >-
-      Курс ФИТНЕС ПОПА 🍑
-    bio: >-
-      Автор 📚 «Я хочу тебя ИДЕАЛЬНОЕ ТЕЛО» Помогу стать стройной навсегда👙 Вице-чемпионка МО #Fitnessbikini #ifbb🏆 Реклама: 79384715906 На курсы, Книга 🔻🔻🔻
-    location: "Russia"
-    followers: 450320
-    engagement: 152
-    commentsToLikes: 0.028147
-    id: ck14joayald2c0i19xubs1bw0
-    verified: false
-    hashtags: "#fitnessmodel, #fitnessgirl, #fitnessmotivation, #fitnessbikini"
-  - username: "busty_milf_"
-    fullname: >-
-      Tatiana V
-    bio: >-
-      Busty woman from Russia🇷🇺 Fitness 💪🏾 photoshooting 📸 Amazon Wish list⤵️
-    location: "Russia"
-    followers: 222519
-    engagement: 149
-    commentsToLikes: 0.071004
-    id: ck15tfgushtok0i19zus629s8
-    verified: false
-    hashtags: ""
-  - username: "zlatatarasova"
-    fullname: >-
-      Zlata
-    bio: >-
-      Fitness Coach, Moscow #itsallaboutmylegs
-    location: "Russia"
-    followers: 45473
-    engagement: 356
-    commentsToLikes: 0.034320
-    id: ckap1joexuteg0i78cawh1t9t
-    verified: false
-    hashtags: "#fitness, #zlatatarasova, #fitnesstrainer, #itsallaboutmylegs"
-  - username: "anastasia.motorina"
-    fullname: >-
-      Anastasia Motorina
-    bio: >-
-      Russian fitness model. Born July 15, 1975. Natural bodybuilding.
-    location: "Russia"
-    followers: 133767
-    engagement: 511
-    commentsToLikes: 0.018047
-    id: ck5ckforkwrre0i11j6mkr9gm
-    verified: false
-    hashtags: "#anastasiamotorina, #bodybuilding, #fitnessmodel, #gym"
-  - username: "anastezi.cute"
-    fullname: >-
-      Anastezi.cute
-    bio: >-
-      Фитнес-тренер с харизмой🔥Мск ‼️качаю свой🧠и твою🍑 🏋🏻‍♂️персональные/онлайн тренировки и питание 📚B.Weider College of fitness & bodybuilding 👀YouTube⬇️
-    location: "Russia"
-    followers: 47387
-    engagement: 276
-    commentsToLikes: 0.039344
-    id: ck8szh72iofjl0j78vrrazml9
-    verified: false
-    hashtags: "#doberman, #tigerclubmoscow, #fitnessbikini, #ford"
 ---

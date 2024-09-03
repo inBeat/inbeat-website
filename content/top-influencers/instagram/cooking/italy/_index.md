@@ -1,130 +1,130 @@
 ---
-title: Top 10 Cooking Instagram Influencers In Italy In 2023
+title: Top 10 Cooking Instagram Influencers In Italy In 2024
 description: >-
-  Find top cooking Instagram influencers in Italy in 2023. Most popular hashtags: #italianfood #cucinaitaliana #food.
+  Find top cooking Instagram influencers in Italy in 2024. Most popular hashtags: #recipe #gohanthecookbook #masshole.
 platform: Instagram
-hits: 645
-text_top: See the best Instagram profiles on inBeat.
-text_bottom: Our database aggregates 645 Instagram influencers like this in Italy for you to contact.
+hits: 697
+text_top: Identify the most popular Instagram influencers on inBeat.
+text_bottom: Our database holds 697 Instagram influencers like this in Italy for you to collaborate.
 profiles:
-  - username: "stereolady"
+  - username: "theprosciuttopapi"
     fullname: >-
-      StereoLady 🎧❤️
+      Boston Food Recipes & Reviews
     bio: >-
-      Rome 🇮🇹 music 🎵 drums & piano 🥁 cooking 🍽️ walking 🚶 programming 💾 languages 🈴 sharing thoughts & emotions 💭 being awake at night 🌙 astronomy 💫
+      cooking for you is my love language easy meals & food content I am an Irish Italian 📍East Boston MA 📧 theprosciuttopapi@gmail.com
     location: "Italy"
-    followers: 33450
-    engagement: 602
-    commentsToLikes: 0.075964
-    id: ck8tahj87rs2p0j78rh1p3ygr
+    followers: 183977
+    engagement: 425
+    commentsToLikes: 0.031301
+    id: cl1520o6wzy0z0i2385h0drni
     verified: false
-    hashtags: "#pianist, #longhairgirl, #angel, #piano"
-  - username: "andreacoccohirai"
-    fullname: >-
-      Andrea Cocco Hirai
-    bio: >-
-      Actor that loves to cook, check out my cooking profile @coccos_kitchen , now in 🇮🇹 🌐Ambassador arigat-eu Diventa chi sei SHOWREEL e youtube chanel 👇
-    location: "Italy"
-    followers: 34780
-    engagement: 258
-    commentsToLikes: 0.040559
-    id: ck6tkkvqx4wob0j71rl67z4ta
-    verified: true
-    hashtags: "#actor, #andreacoccohirai, #modelwork, #japan"
-  - username: "eleonorabazzonicoach"
-    fullname: >-
-      💎bᥲzzყ rᥙᥒᥒᥱr & ᥴookιᥒg ᥣovᥱr
-    bio: >-
-      👩‍🍳cooking lover 🎓laurea in scienze motorie 🏃‍♀️tecnico Fidal 🇮🇹champion 21k 2009 🔒10km➡️35'15 🔒21,097➡️1h17 🔒42,195➡️2h45 Amb ⚫@volchem_italia
-    location: "Italy"
-    followers: 6044
-    engagement: 765
-    commentsToLikes: 0.043873
-    id: ckap1zzmpwsju0i784qnj14n9
-    verified: false
-    hashtags: "#13point1, #momrunner, #runstrong, #runalways"
-  - username: "isabellapoti"
-    fullname: >-
-      Isabella Potí
-    bio: >-
-      Be Bros’ / Italian & Polish 🐈🍭 My first book Millennial Cooking available on:
-    location: "Italy"
-    followers: 85610
-    engagement: 208
-    commentsToLikes: 0.020324
-    id: ck0tt04me0kue0i19ri5sxwtn
-    verified: true
-    hashtags: "#twinsetladybug, #brothersofitaly, #caff, #juliusmeinl"
-  - username: "cremaschina"
-    fullname: >-
-      Laura Cremaschi
-    bio: >-
-      I’m a lover❤️ Fitness lover 💚 Cooking lover💜 Travel lover🖤 Dog lover 🧡
-    location: "Italy"
-    followers: 1051210
-    engagement: 216
-    commentsToLikes: 0.009164
-    id: ck5q93qvv98nc0i11iopgwlz6
-    verified: true
-    hashtags: "#coffeetime, #coffeelover, #adv, #perfettomoka"
+    hashtags: "#masshole, #massachusettslife, #foodie, #comedy"
   - username: "lericettedimarygio"
     fullname: >-
       Maria Giovanna Staffieri
     bio: >-
-      BRAND AMBASSADOR @tonnomaruzzellaofficial ▶MATERA ▶+25 ▶FoodPorn ▶ Dessert ▶Passion for cooking Amo fare i dolci/salati ♥
+      BRAND AMBASSADOR @tonnomaruzzellaofficial ▶MATERA ▶+28 ▶FoodPorn ▶Ricette alla portata di tutti ▶Passion for cooking Amo fare i dolci/salati ♥
     location: "Italy"
-    followers: 84317
-    engagement: 493
-    commentsToLikes: 0.117895
+    followers: 107157
+    engagement: 399
+    commentsToLikes: 0.083567
     id: ck137arttam8o0i197maup2hn
     verified: false
-    hashtags: "#januarrygoodvibes, #fbebraioinfoto, #tuttiglialtrinehanttrentuno, #februarvyibes"
-  - username: "sister_love67"
+    hashtags: "#lapirmaverastaarrivando, #sacttidiluglio, #officiallyysummer, #jullysummer2k20"
+  - username: "edithxgalvezz"
     fullname: >-
-      𝘼𝙣𝙩𝙤𝙣𝙚𝙡𝙡𝙖
+      EDITH GALVEZ 💓
     bio: >-
-      💘 My loves 💓 Paola & Nicola 👫 Mauro 👩‍❤️‍💋‍👨 Leo 🐇 👩‍🍳Cooking is my passion ☘🌸 🍞 🍰 All food is homemade 👇 #sister_love67
+      wife | mom | cooking | lifestyle 💫 edithxbella@gmail.com ↓my amazon storefront↓
     location: "Italy"
-    followers: 67534
-    engagement: 422
-    commentsToLikes: 0.079357
-    id: ck0u8tj518btf0i19magxzfdw
+    followers: 495189
+    engagement: 364
+    commentsToLikes: 0.005397
+    id: cl4f68c86pimd0i23ufcyj7ll
     verified: false
-    hashtags: "#cibobuono, #solocosebuone, #arancia, #piattiitaliani"
-  - username: "la_cucina_di_imma"
+    hashtags: "#neverhaveiever, #sponsoredbyninja, #ninjaneverhaveiever, #ninjakitchenware"
+  - username: "emikodavies"
     fullname: >-
-      Imma
+      Emiko Davies
     bio: >-
-      I studied #Business, I love #cooking 👉🏻#focaccequadridautore 🔹Passione #cucina #Italia 👩🏼‍🍳🇮🇹 🔹Fatto a #casa 🏠 🔹Buono & Creativo 😋🎨 🔹Dolce & Salato 🍰🧂
+      🇯🇵 🇦🇺 food writer in Tuscany ~ @cook.corriere column; cooking school @enotecamarilu; 6th book #gohanthecookbook out NOW! More here 👇
     location: "Italy"
-    followers: 8251
-    engagement: 926
-    commentsToLikes: 0.323275
-    id: ckap6a1u6f0yj0i78r62fqw14
+    followers: 93601
+    engagement: 257
+    commentsToLikes: 0.046096
+    id: ck5px1rfypoft0i11fef5bl3b
     verified: false
-    hashtags: "#vogliadicheffare, #cucinareitaliano, #italianfood, #foodlover"
-  - username: "laiaia_official"
+    hashtags: "#tortelliniatmidnight, #cinnamonandsaltcookbook, #gohanthecookbook, #acquacottathecookbook"
+  - username: "italyonmymind"
     fullname: >-
-      La Iaia
+      Paola Bacchia
     bio: >-
-      👰WeddingPlanning&Design #laiaia_daicisposiamo 🎉Super Party #laiaia_daifesteggiamo 💥Cooking Classes #laiaia_daicuciniamo 💌 info@laiaia.it
+      Cooking classes in Melbourne Australia Cookbooks: Istria / Italian Street Food / Adriatico / At nonna’s table (2024) @smithstreetbooks
     location: "Italy"
-    followers: 66602
-    engagement: 251
-    commentsToLikes: 0.042186
-    id: ck0u6rism2q6v0i19d0o57982
-    verified: false
-    hashtags: "#suppliedby, #santalucia, #iconicacollection, #laiaiateam"
-  - username: "jakobherrmann"
+    followers: 55067
+    engagement: 232
+    commentsToLikes: 0.067133
+    id: ck600l3radsu60i14zs8ajk0a
+    verified: true
+    hashtags: "#italyonmymind, #traveltuesday"
+  - username: "loulou"
     fullname: >-
-      Jakob Herrmann
+      I'm Lou, I share things.
     bio: >-
-      Austrian Skimountaineerer @heeressportzentrum Hobbies: cooking 🥘, baking 🍰, Hike&fly 😎! Team: @dynafit, @pureathleten @compex.austria
+      Half of @withinmood. I‘m a designer, love the sea, cooking, big cities, passionate people, fresh basil. Quality > quantity. Pisces. Made in 1988.
     location: "Italy"
-    followers: 7339
-    engagement: 870
-    commentsToLikes: 0.015680
-    id: ck6u1u30dnw2i0j71qhq80sbm
+    followers: 244349
+    engagement: 223
+    commentsToLikes: 0.010286
+    id: ck55jmfb0xbdm0i11u2ipso6z
+    verified: true
+    hashtags: "#dermacosmetics, #glowsosweet, #solarescape, #diorsolar"
+  - username: "semidielena"
+    fullname: >-
+      Dietista | Insegnante di cucina veg
+    bio: >-
+      ~ intuitive eating 🌱 master in alimentazione veg ~ consulenze online 👩🏻‍🍳 Vegan cooking lab ~ scrivo tanto, scatto foto, canto anche e mi emoziono
+    location: "Italy"
+    followers: 26582
+    engagement: 163
+    commentsToLikes: 0.077856
+    id: ck9wolt4x5ogc0j78vl1bmo5c
     verified: false
-    hashtags: "#puremoments, #piepsmicro, #hwkskiwachs, #skiaustria"
+    hashtags: "#raccolgoesperienze, #ascolto, #intuitive, #vegan"
+  - username: "julskitchen"
+    fullname: >-
+      Giulia Scarpaleggia
+    bio: >-
+      🖊 Tuscan Food Writer ~ Cookbook author 🍝 Cooking class teacher 📬 Writes Letters from Tuscany on @substackinc 📚Cucina Povera out now
+    location: "Italy"
+    followers: 70746
+    engagement: 137
+    commentsToLikes: 0.040255
+    id: ck0u27zjcz46r0i19bqeo6vfg
+    verified: false
+    hashtags: "#inflorence, #italiancooking, #marketingmentor, #professioniste"
+  - username: "haribeavis"
+    fullname: >-
+      HARI BEAVIS
+    bio: >-
+      Author and Happy foodie, Cooking Comfort Feel Good Recipes you'll actually make! Creator of @thebigtittiecommittee (340K+)
+    location: "Italy"
+    followers: 241737
+    engagement: 130
+    commentsToLikes: 0.024304
+    id: cleed4q2vt6g60j08dgvyyzh5
+    verified: false
+    hashtags: "#creamychicken, #grandetavola, #doughnutrecipe, #comfortfoodrecipes"
+  - username: "maddalenaandmauro"
+    fullname: >-
+      Mauro & Maddalena Castano
+    bio: >-
+      Love at first bite! Babydoll, My love and the whole famiglia cooking up our favorites❤️ for social media channels & partnerships click below
+    location: "Italy"
+    followers: 376761
+    engagement: 83
+    commentsToLikes: 0.023964
+    id: ck6ttacxb9hr40j71fs58vn2o
+    verified: false
+    hashtags: "#recipe, #letseat, #mangia, #foodislove"
 ---

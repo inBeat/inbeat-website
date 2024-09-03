@@ -1,106 +1,130 @@
 ---
-title: Top 10 Chefs Instagram Influencers In Portugal in 2023
+title: Top 10 Chefs Instagram Influencers In Portugal In 2024
 description: >-
-  Find top chefs Instagram influencers in Portugal in 2023. Most popular hashtags: #foodphotography #chef #food #covid.
+  Find top chefs Instagram influencers in Portugal in 2024. Most popular hashtags: #instadaily #food #homemade #delicious.
 platform: Instagram
-hits: 8
-text_top: Analyze the top-rated Instagram accounts on inBeat.
-text_bottom: Our database has 8 Instagram influencers like this in Portugal for you to collaborate.
+hits: 10
+text_top: Discover the best Instagram influencers on inBeat.
+text_bottom: Our search engine holds 10 Instagram influencers like this in Portugal for you to collaborate.
 profiles:
-  - username: "mauro___airosa"
-    fullname: >-
-      Mauro Airosa
-    bio: >-
-      Masterchef 2019 Owner @homechefexperience Executive Chef & Owner @kambarestaurant Executive Chef @docksclub_ CATERING , CONSULTORIA , FORMAÇÕES
-    location: "Portugal"
-    followers: 7146
-    engagement: 316
-    commentsToLikes: 0.041263
-    id: ck5hl69wijn8d0i116ce55vmz
-    verified: false
-    hashtags: "#mauroairosa, #kambarestaurant, #worldfood, #grupokamba"
-  - username: "_oliverpape_"
-    fullname: >-
-      O L I V E R   P A P E
-    bio: >-
-      YOUNG CHEF • nature 🌱 • movement 🧘🏻‍♂️ • create delicious food🔪contact me📩 #jidlojezivot #prostejsem #breathemotherfucker
-    location: "Portugal"
-    followers: 38129
-    engagement: 289
-    commentsToLikes: 0.007338
-    id: ck0u9suw6ajvr0i196blbrfnp
-    verified: false
-    hashtags: "#praha, #dog, #spoluprace, #nature"
   - username: "ruimotaa"
     fullname: >-
       RUI MOTA
     bio: >-
-      👨‍🍳 Chef, Teacher & Food Designer 👨‍🎓 MSc in Gastronomic Sciences | ISA UL 📍 Based in Lisbon | 25 yrs
+      👨‍🍳 Chef, Teacher & Food Designer 👨‍🎓 MSc in Gastronomic Sciences | ISA UL 📍 Based in Lisbon | 28 yrs
     location: "Portugal"
-    followers: 10212
-    engagement: 868
-    commentsToLikes: 0.024177
+    followers: 11025
+    engagement: 866
+    commentsToLikes: 0.232358
     id: ck0u6ea241oge0i19f8i1ndi1
     verified: false
-    hashtags: "#chefsofinstagram, #chefsplating, #catering, #sosaingredientes"
-  - username: "seenlisboa"
+    hashtags: "#chefsofinstagram, #smartwhip, #gourmazing, #gastroart"
+  - username: "miguelrochavieira"
     fullname: >-
-      SEEN Lisboa by Olivier
+      Miguel Rocha Vieira
     bio: >-
-      ~ Temporarily closed ~ Restaurant & Bar With signature from Chef Olivier, Seen Lisboa is the spot to be seen! 🌍 Lisbon • São Paulo • Bangkok
+      Chef 👨🏻‍🍳 and proud dad of two 👨‍👦‍👦 “Eat the best first, cause ya never know…” 😁 @anfibio.lx @docadamarinha.lx
     location: "Portugal"
-    followers: 28994
-    engagement: 122
-    commentsToLikes: 0.018120
-    id: ck5c5lo1g3pi30i115fzt6vnr
-    verified: true
-    hashtags: "#seen, #seenlisboa, #staysafe, #drinksnightshow"
+    followers: 34371
+    engagement: 75
+    commentsToLikes: 0.023523
+    id: ck0vwlbn3ud2k0i19zqwigpt9
+    verified: false
+    hashtags: "#letsdothis, #carnaval, #senadanorioserrasarranja, #timetogohome"
+  - username: "glutenfree.com.paixao"
+    fullname: >-
+      Sofia Paixão
+    bio: >-
+      • Natural Chef • Teacher • Recipe Developer • Health Coach • Mãe x 4 • Book Author ‘Sem Glúten com paixão’ • www.glutenfree.pt • #Natural #GlutenFree
+    location: "Portugal"
+    followers: 40255
+    engagement: 166
+    commentsToLikes: 0.030970
+    id: ck5hj2cd6fvm90i115tvhr29q
+    verified: false
+    hashtags: "#healthyeating, #intuitivecooking, #homemade, #naturalingredients"
+  - username: "go_rambler"
+    fullname: >-
+      Travel fashion inspo
+    bio: >-
+      Rashmi Amit Architect and interior designers. Creative souls-writer,chef,artist and passionate traveller. In mountains for a change 🏔
+    location: "Portugal"
+    followers: 13954
+    engagement: 253
+    commentsToLikes: 0.166829
+    id: ck14j3ujhihwx0i19xv6h0xch
+    verified: false
+    hashtags: "#picoftheweek, #instadaily, #sunset, #dreams"
   - username: "chefchakall"
     fullname: >-
       Chakall
     bio: >-
-      🌎💃✈️🍽️ Dad, traveler & restaurants owner, book writer, TV host 👳 From Tigre...to the end of love. Welcome to my world! 😉🛸
+      • Dad • Traveler • Restaurants owner • Book writer • TV host From Tigre, to the end of love. Welcome to my world! 🌎🌍🌏
     location: "Portugal"
-    followers: 115816
-    engagement: 236
-    commentsToLikes: 0.629192
+    followers: 162289
+    engagement: 285
+    commentsToLikes: 0.012346
     id: ck5chcis8qigt0i11mkghuxfs
     verified: true
-    hashtags: "#foodphoto, #vilamoura, #minicookspot, #chakall"
-  - username: "go_rambler"
+    hashtags: "#chefchakall, #chakall, #food, #continente"
+  - username: "_oliverpape_"
     fullname: >-
-      Rashmi + Amit
+      O L I V E R   P A P E
     bio: >-
-      -Traveller -Poet,architect Paid promotions available! DM for swipe up DM for collab🤗
+      
     location: "Portugal"
-    followers: 11274
-    engagement: 279
-    commentsToLikes: 0.179282
-    id: ck14j3ujhihwx0i19xv6h0xch
+    followers: 38118
+    engagement: 199
+    commentsToLikes: 0.007716
+    id: ck0u9suw6ajvr0i196blbrfnp
     verified: false
-    hashtags: "#familytravel, #cheflife, #covid, #lifestyle"
-  - username: "catarinafurtadooficial"
+    hashtags: "#love, #food, #delicious, #chefsroll"
+  - username: "ljubostanisic"
     fullname: >-
-      Catarina Furtado
+      ljubostanisic
     bio: >-
-      @unfpa Goodwill Ambassador, President of the NGO @coracoescomcoroa, actress, TV host, author of 3 books and mother of 2. ❤️👑
+      @100maneiras_rest (1⭐️ Michelin) / @bistro100maneiras / @carnal.gastrobar Contacto profissional: sandra.faria@fproducao.pt 🛒 @ljubomirstanisicshop
     location: "Portugal"
-    followers: 592667
-    engagement: 165
-    commentsToLikes: 0.022009
-    id: ck5c830bf8o6b0i11brmltd9o
-    verified: true
-    hashtags: "#covid, #direitoshumanos, #adoroaminhaprofissa, #pandemia"
-  - username: "margarits"
-    fullname: >-
-      Margarita Pugovka
-    bio: >-
-      🥉 masterchef pt 2019 💃🏼 model @centralmodels I always have butter in my fridge and sugar in my pantry 💘 pr, digital & brands gustavo@centralmodels.pt
-    location: "Portugal"
-    followers: 17232
-    engagement: 380
-    commentsToLikes: 0.016691
-    id: ck5hl68rejn740i11afuhcd52
+    followers: 261233
+    engagement: 83
+    commentsToLikes: 0.012422
+    id: ck5bzoh05rjqu0i11q6x83n01
     verified: false
-    hashtags: "#doces, #pastry, #pastelaria, #cake"
+    hashtags: "#corac, #100maneiras, #pelaestradafora, #bistro100maneiras"
+  - username: "jmigsimoes"
+    fullname: >-
+      João Miguel Simões
+    bio: >-
+      Creative Mind & Storyteller | hospitality reviews & branded content on demand | 📍Lisboa | #addressbookbyjms | travel • food • menswear • aesthetics
+    location: "Portugal"
+    followers: 104571
+    engagement: 6
+    commentsToLikes: 0.000754
+    id: ck5zzn4bvc1rj0i1453awqb62
+    verified: false
+    hashtags: "#barcavelha, #aoty2024, #daypass, #spartoo"
+  - username: "maariyahscuisine"
+    fullname: >-
+      Maariyah Noor
+    bio: >-
+      Follow for tips and inspiration 👩‍🍳 Recipe developer 🥙 Food stylist 🇲🇿 Recipes in Portuguese and English 🇵🇹 💌 DM for collaboration #maariyahscuisine
+    location: "Portugal"
+    followers: 16710
+    engagement: 437
+    commentsToLikes: 0.097470
+    id: ck9wgf2yet4ua0j78oqkriqu1
+    verified: false
+    hashtags: "#halaalfoodblogger, #foodism, #foodfusion, #foodieworldz"
+  - username: "chefkikomartins"
+    fullname: >-
+      Chef Kiko Martins
+    bio: >-
+      👨‍🍳 Sharing World Cuisine 🍽️ Influencing about Sustainability and Food Waste ✈️ Traveller hunting for food experiences Follow me to get connected 👇
+    location: "Portugal"
+    followers: 141140
+    engagement: 74
+    commentsToLikes: 0.027274
+    id: ck0ubk81femq80i19gad1g9mx
+    verified: false
+    hashtags: "#chefkiko, #acevicheria, #cafenacarta, #nespresso"
 ---

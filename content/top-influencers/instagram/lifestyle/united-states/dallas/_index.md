@@ -1,24 +1,60 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Dallas In 2023
+title: Top 10 Lifestyle Instagram Influencers In Dallas In 2024
 description: >-
-  Find top lifestyle Instagram influencers in Dallas in 2023. Most popular hashtags: #dallas #lifestyle #ootd.
+  Find top lifestyle Instagram influencers in Dallas in 2024. Most popular hashtags: #dallas #lifestyle #dallastexas #travel.
 platform: Instagram
-hits: 223
-text_top: Analyze the top-rated Instagram profiles on inBeat.
-text_bottom: Our database has 223 Instagram influencers like this in Dallas, United States for you to work with.
+hits: 323
+text_top: See the best Instagram profiles on inBeat.
+text_bottom: Our platform has 323 Instagram influencers like this in Dallas, United States for you to pitch.
 profiles:
   - username: "kxosborne"
     fullname: >-
-      Katy Osborne
+      Katherine Osborne
     bio: >-
-      📍 Dallas 💌 team@kxosborne.com
+      Founder @socialdesignfirm 📍 Singaporean in Dallas 💌 team@kxosborne.com
     location: "United States"
-    followers: 8675
-    engagement: 290
-    commentsToLikes: 0.008764
+    followers: 12801
+    engagement: 440
+    commentsToLikes: 0.025272
     id: ckapbis7v01750i78ihq1q5nn
     verified: false
-    hashtags: "#explore, #ootd, #lifestyle, #dallas"
+    hashtags: "#aesthetic, #lifestyle, #dallas, #explore"
+  - username: "mclivinit"
+    fullname: >-
+      MC Solomon
+    bio: >-
+      lost the weight, gained my life #mclivinit 🌹 love| musician | health | travel | life 📍worldwide 📬 mclivinitllc@gmail.com ♫ MCLIVINIT-Spotify ↓ collab
+    location: "United States"
+    followers: 112464
+    engagement: 181
+    commentsToLikes: 0.042490
+    id: ck9hb36r8f76h0j78t1mpcs39
+    verified: false
+    hashtags: "#weightloss, #journey, #rny, #solotravel"
+  - username: "jackiee__lopez"
+    fullname: >-
+      J a c k i e  L o p e z • Dallas Blogger
+    bio: >-
+      💌DM/EMAIL for Collaborations 📍DFW, TX #Lifestyle + #Fashion + #Motherhood #DallasBlogger+ #ContentCreator #fortworthblogger 🧿
+    location: "United States"
+    followers: 17856
+    engagement: 279
+    commentsToLikes: 0.136309
+    id: ck0tznhp4r10b0i19wekrdxra
+    verified: false
+    hashtags: "#lifestyleblogger, #dallasblogger, #dfwblogger, #dallasinfluencer"
+  - username: "fashionablylateboymom"
+    fullname: >-
+      Letty | DFW Influencer
+    bio: >-
+      Fashion + Fitness + Food Obsessed with Tacos&Spicy Margaritas & Working Out 💌 Fashionablylateboymom@gmail.com 📍Dallas Tx
+    location: "United States"
+    followers: 17993
+    engagement: 70
+    commentsToLikes: 0.320487
+    id: ck5qaykpxixhm0i11xg3o2xkk
+    verified: false
+    hashtags: "#travelblogger, #ltkswim, #chicago, #ltk"
   - username: "theclassictx"
     fullname: >-
       Dallas Exotic Car Rentals
@@ -35,14 +71,14 @@ profiles:
     fullname: >-
       Lifestyle Dallas - Fort Worth
     bio: >-
-      Hiiii I’m Jojo! Welcome to snippets of life + style | fitness| dfw foodie| new mom 👧🏻 the party is on stories 🥳
+      Motherhood with a splash of content creation 📸 | Dallas-Fort Worth TX >> let’s collab💓🤝
     location: "United States"
-    followers: 9679
-    engagement: 463
-    commentsToLikes: 0.169570
+    followers: 9193
+    engagement: 270
+    commentsToLikes: 0.088097
     id: ck6u0o6kegts50j71huv2soze
     verified: false
-    hashtags: "#lowcarb, #fableticspartner, #sponsored, #unwashpartner"
+    hashtags: "#pregnancyfashion, #momlife, #dfwblogger, #fableticspartner"
   - username: "evelynfarr_"
     fullname: >-
       Lifestyle Dallas - Fort Worth
@@ -66,65 +102,29 @@ profiles:
     commentsToLikes: 0.065187
     id: ck15rpb8e91ao0i19xr21csk6
     verified: false
-    hashtags: "#weshoplc, #partner, #nationalwellnessmonth, #deliveringjoy"
-  - username: "_vejadu"
+    hashtags: "#deliveringjoy, #partner, #weshoplc, #nationalwellnessmonth"
+  - username: "itsnadialouise"
     fullname: >-
-      Deja
+      nadia louise
     bio: >-
-      Beauty | Fashion | Lifestyle • 📍Dallas, Tx • 🎥YT: Veja Du • 👻SC: Vejadu • 💌Email: dejajohnson7015@gmail.com C.O.Z.Y #DiorFridays LATEST VIDEO: ⬇️
+      faith | fashion | lifestyle | beauty dallas, tx 🤍🫶🏻 ✉️: itsnadialouise@gmail.com fave products & outfits ↓
     location: "United States"
-    followers: 11488
-    engagement: 799
-    commentsToLikes: 0.038766
-    id: ck6uhz20bc33v0j71lj02bm07
+    followers: 66412
+    engagement: 3246
+    commentsToLikes: 0.034354
+    id: cky15p7c1f0to0j23d9bk4zha
     verified: false
-    hashtags: "#photodump"
-  - username: "sosageblog"
+    hashtags: "#morningroutine, #amazonfashion, #versedskincare, #amazonfashionfinds"
+  - username: "stephaniecamillee"
     fullname: >-
-      Sage Coralli Wilson
+      STEPHANIE | THINGS TO DO IN DALLAS, TX 👑
     bio: >-
-      | Fashion • Travel • Lifestyle | 📍: Dallas, TX 🌎 : Next up // TBD 💌 : kora@jabberhaus.com
+      All Things Dallas | Lifestyle | Wellness 🌱 100k + on TikTok 📧 Stephaniecamilleesocial@gmail.com
     location: "United States"
-    followers: 111064
-    engagement: 190
-    commentsToLikes: 0.005320
-    id: ck5zu32dg1l8i0i143fi9hbot
+    followers: 194315
+    engagement: 534
+    commentsToLikes: 0.042662
+    id: clple2zxaxjnb0k08nayk9ggx
     verified: false
-    hashtags: "#24weeks, #sosagetravels, #husbandandwife, #bumpstyle"
-  - username: "parkerjjames"
-    fullname: >-
-      Parker James
-    bio: >-
-      StEvEn is CEO of Dino Club TikTok ~ parker_james parkerjames@outshinetalent.com P.O. Box 64 Lillian,Texas 76061
-    location: "United States"
-    followers: 588422
-    engagement: 469
-    commentsToLikes: 0.004656
-    id: ck0txcwkgis7x0i19eq6chce7
-    verified: false
-    hashtags: "#reels, #dallas, #lifestyle, #music"
-  - username: "jackiee__lopez"
-    fullname: >-
-      J a c k i e  L o p e z • Dallas Blogger
-    bio: >-
-      💌DM/EMAIL for Collaborations 📍DFW, TX #Lifestyle + #Fashion + #Motherhood #DallasBlogger+ #ContentCreator #fortworthblogger 🧿
-    location: "United States"
-    followers: 17856
-    engagement: 279
-    commentsToLikes: 0.136309
-    id: ck0tznhp4r10b0i19wekrdxra
-    verified: false
-    hashtags: "#influencer, #dfwblogger, #datenight, #ad"
-  - username: "neoaffinity"
-    fullname: >-
-      
-    bio: >-
-      Dallas, TX. Lifestyle/Wedding: @neomomento 🚨40% off my editing workflow below!🚨
-    location: "United States"
-    followers: 26629
-    engagement: 857
-    commentsToLikes: 0.065353
-    id: ck136xvmp8sp30i19env7afh5
-    verified: false
-    hashtags: "#feature, #dallasphotographer, #xelfies, #777luckyfish"
+    hashtags: "#choctawcasinospartner, #texashospitality, #favorpartner, #dallasdatenight"
 ---

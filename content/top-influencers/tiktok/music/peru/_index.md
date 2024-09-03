@@ -1,11 +1,11 @@
 ---
-title: Top 10 Music TikTok Influencers In Peru In 2023
+title: Top 10 Music TikTok Influencers In Peru In 2024
 description: >-
-  Find top music TikTok influencers in Peru in 2023. Most popular hashtags: #fyp #peru #viral #parati.
+  Find top music TikTok influencers in Peru in 2024. Most popular hashtags: #fyp #peru #musica #viral.
 platform: TikTok
 hits: 102
-text_top: Discover the top-rated TikTok accounts on inBeat.
-text_bottom: Our search engine aggregates 102 TikTok influencers like this in Peru for you to contact.
+text_top: Analyze the top-rated TikTok accounts on inBeat.
+text_bottom: Our platform holds 102 TikTok influencers like this in Peru for you to connect with.
 profiles:
   - username: "jamilcr16"
     fullname: >-

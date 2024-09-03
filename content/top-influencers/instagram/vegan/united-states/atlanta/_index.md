@@ -1,11 +1,11 @@
 ---
-title: Top 10 Vegan Instagram Influencers In Atlanta In 2023
+title: Top 10 Vegan Instagram Influencers In Atlanta In 2024
 description: >-
-  Find top vegan Instagram influencers in Atlanta in 2023. Most popular hashtags: #vegan #veganfoodshare #govegan.
+  Find top vegan Instagram influencers in Atlanta in 2024. Most popular hashtags: #vegan #atlanta #plantbased #veganfood.
 platform: Instagram
-hits: 65
-text_top: See the best Instagram profiles on inBeat.
-text_bottom: inBeat aggregates 65 Instagram influencers like this in Atlanta, United States for you to collaborate.
+hits: 71
+text_top: Identify the best Instagram influencers on inBeat.
+text_bottom: Our search engine aggregates 71 Instagram influencers like this in Atlanta, United States for you to work with.
 profiles:
   - username: "thefinevegan"
     fullname: >-
@@ -19,42 +19,18 @@ profiles:
     id: ck8t0lmcrshdk0j78zeazdd5z
     verified: false
     hashtags: "#purplecabbage, #vegansofinstagram, #govegan, #blackgirlmagic"
-  - username: "mikerashid"
+  - username: "atlantabestbites"
     fullname: >-
-      Mike Rashid King
+      Atlanta’s Best Bites (ABB) | Sarah
     bio: >-
-      Father Professional Heavyweight Boxer Entrepreneur @the_ambrosia_collective @trifecta @officialsnackhouse @fightcamp 👇🏾Train with me
+      Atlanta Food & Drink Guide 🍕 Content Creator/Influencer 🌮 TikTok and YouTube ⬇️
     location: "United States"
-    followers: 1018251
-    engagement: 83
-    commentsToLikes: 0.020340
-    id: ck6u5t64xbl9f0j71pm5lttim
-    verified: true
-    hashtags: "#cordyceps, #valleyofthebeast, #squats, #legday"
-  - username: "cakesbytimbo"
-    fullname: >-
-      Timbo Sullivan
-    bio: >-
-      Cake, Cookie and Sugar Artist & Instructor. Columbus, OH 4X Food Network Winner! For Class Information and Inquiries, email: CakesByTimbo@Gmail.com
-    location: "United States"
-    followers: 44995
-    engagement: 182
-    commentsToLikes: 0.050621
-    id: ck0vv9bq3o4d90i19pqu240co
+    followers: 38633
+    engagement: 51
+    commentsToLikes: 0.109081
+    id: ckaoqoiu3jmpu0i78wya0t204
     verified: false
-    hashtags: "#cookies, #veganislife, #veganstastebetter, #sluttified"
-  - username: "vegspirationfeed"
-    fullname: >-
-      Vegan Feed | Vegan Recipes
-    bio: >-
-      🍃Healthy & Delicious Vegan Recipes 🍀Tag us to be featured. ❤️Click the link below for all the essentials to living a HEALTHY VEGAN LIFE!❤️
-    location: "United States"
-    followers: 565203
-    engagement: 37
-    commentsToLikes: 0.010906
-    id: ck1384zrfeidw0i19csmevypx
-    verified: false
-    hashtags: "#yummy, #food, #foodblogger, #potato"
+    hashtags: "#decaturga, #atlantasushi, #atlantathingstodo, #atlfoodies"
   - username: "healthyvegancommunity"
     fullname: >-
       HEALTHY VEGAN COMMUNITY
@@ -66,7 +42,7 @@ profiles:
     commentsToLikes: 0.015962
     id: ck5q7rf2e2s9b0i1140of1uox
     verified: false
-    hashtags: "#bestofvegan, #vegandessert, #makesmewhole, #veganfood"
+    hashtags: "#veganfoodporn, #veganbowls, #vegancheese, #veganvideo"
   - username: "chefnikkiinthemix"
     fullname: >-
       Nikki
@@ -91,30 +67,18 @@ profiles:
     id: ck5he4zbar3140i11ya53o8bw
     verified: true
     hashtags: "#kamalaharris, #martinlutherkingjr, #ehxcbd, #mlk"
-  - username: "nolaskinsentials"
+  - username: "supperwithmichelle"
     fullname: >-
-      atlanta vegan skincare 🌱
+      Michelle Braxton
     bio: >-
-      wellness products that empower your face, body and intimate areas 🍒 where skincare is essential 💅🏽 Say ✌🏽 to ingrown hairs with ➡️ Bikini Kit
+      🔸Author of cookbook, SUPPER WITH LOVE 🔸Veggie Enthusiast & Soup Lover 🔸Cookbook and recipes here👇🏾
     location: "United States"
-    followers: 129606
-    engagement: 69
-    commentsToLikes: 0.038382
-    id: ck15r2wn45vf60i19obw6zmhh
+    followers: 74221
+    engagement: 54
+    commentsToLikes: 0.036443
+    id: ckqxxcwqp383o0j2300dcpam0
     verified: false
-    hashtags: "#nolatoldyou"
-  - username: "iamlatocha"
-    fullname: >-
-      LaTocha
-    bio: >-
-      My New Single “Full Time Love” is AVAILABLE NOW at the link below! My cookbook “LaTocha’s Planted Lifestyle” is available at www.latochalifestyle.com
-    location: "United States"
-    followers: 345184
-    engagement: 133
-    commentsToLikes: 0.047916
-    id: ck14gsbcq6s1a0i19lzgriz0n
-    verified: true
-    hashtags: "#selflove, #wendywilliams, #basketball, #beit"
+    hashtags: "#blackauthors, #atlanta, #recipes, #vegan"
   - username: "mwintersviolin"
     fullname: >-
       Michelle Winters
@@ -127,4 +91,40 @@ profiles:
     id: ck15t9nvoh0is0i19o01noqsi
     verified: false
     hashtags: "#violincover, #themusicmovement, #youtube, #electricviolinist"
+  - username: "joethyself"
+    fullname: >-
+      Joe with the Flow☯️
+    bio: >-
+      All is one. All is love🕉 he/him #Vegan Cap☀️ Aqua🌙 Leo↑ Music Monopoly 🎶 Host of @thearlyshow As seen on Netflix R+F 💿 Stream "F.L.O.W.E.R." NOW!
+    location: "United States"
+    followers: 5836
+    engagement: 326
+    commentsToLikes: 0.227407
+    id: ck6tqouv8stoj0j713bz4u013
+    verified: false
+    hashtags: "#flow, #atlanta, #peace, #consciousmusic"
+  - username: "mike_shaw5"
+    fullname: >-
+      Mike Shaw
+    bio: >-
+      •Email or DM For Collabs‼️ •Marketing •Videography & Photography #atlanta #newyork #losangeles #texas
+    location: "United States"
+    followers: 48738
+    engagement: 159
+    commentsToLikes: 0.070999
+    id: ck5zuhtos2dtb0i14caf6r2r3
+    verified: false
+    hashtags: "#atlantarestaurants, #atlfoodblogger, #atlantafood, #atlantastyle"
+  - username: "kennythepoet"
+    fullname: >-
+      kendrick (ACTOR)
+    bio: >-
+      #1000thingskenny #IplayTITUSHUGHES on #AMBITIONS #queensugar #Atl #LA #Sc but made in #Louisville #crossfit #actor #vegan #raw #fruit #poet #WOKE
+    location: "United States"
+    followers: 34989
+    engagement: 117
+    commentsToLikes: 0.116879
+    id: ck0u1c255wi8i0i19sbqku2fj
+    verified: false
+    hashtags: "#staffordshireterrier, #iampositivity, #essenceatkins, #acting"
 ---

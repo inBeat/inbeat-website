@@ -1,12 +1,60 @@
 ---
-title: Top 10 Graphic-Designers Instagram Influencers In France In 2023
+title: Top 10 Graphic-Designers Instagram Influencers In France In 2024
 description: >-
-  Find top graphic-designers Instagram influencers in France in 2023. Most popular hashtags: #style #portrait #photographer #model.
+  Find top graphic-designers Instagram influencers in France in 2024. Most popular hashtags: #photography #photographer #girl.
 platform: Instagram
-hits: 170
-text_top: Discover the top-rated Instagram profiles on inBeat.
-text_bottom: Our platform aggregates 170 Instagram influencers like this in France for you to work with.
+hits: 175
+text_top: Identify the best Instagram accounts on inBeat.
+text_bottom: inBeat holds 175 Instagram influencers like this in France for you to connect with.
 profiles:
+  - username: "vagy_photography"
+    fullname: >-
+      Vivek R Pillai
+    bio: >-
+      Founder @wedvo | Automotive Photographer | Graphic designer | Fashion | Cyber security based | Private @vagy_priv Taken | @his_frame Dm fr paid shoots
+    location: "France"
+    followers: 11980
+    engagement: 2248
+    commentsToLikes: 0.022277
+    id: ck6tzif179w270j712gvx0j14
+    verified: false
+    hashtags: "#dainese, #moodygramkerala, #ns200, #keralatourism"
+  - username: "paulinematy"
+    fullname: >-
+      Pauline Mathiot
+    bio: >-
+      Photographer Creative director Graphic designer ∣ @thesaltysouls • • • 📍 Kenya - March ✈️ Oman - April ✈️ France - May/Oct.
+    location: "France"
+    followers: 15208
+    engagement: 590
+    commentsToLikes: 0.014996
+    id: ck5hqo5fdtfer0i112qqofjp9
+    verified: false
+    hashtags: ""
+  - username: "rmaxplus"
+    fullname: >-
+      Randy Vuillemenot
+    bio: >-
+      RMAXPLUS / LYONZON - PANAME | FR/ENG Graphic Designer & Photographer 🖌️ rmaxplus.fr@gmail.com 📩
+    location: "France"
+    followers: 94321
+    engagement: 342
+    commentsToLikes: 0.015159
+    id: ck0w307zeqz6j0i19ty6ph2m3
+    verified: false
+    hashtags: "#airmaxplus, #niketuned, #airmaxplustn, #niketn"
+  - username: "restyleart"
+    fullname: >-
+      Jan Skácelík
+    bio: >-
+      • Graphic designer, painter, interior design addict • DM for wholesale & collabs • 🖼 check out my art account: @janskacelikart Shop my art prints:
+    location: "France"
+    followers: 299325
+    engagement: 118
+    commentsToLikes: 0.016503
+    id: ck0w5jc363x030i19w2mkxcgq
+    verified: false
+    hashtags: "#midcenturyfurniture, #bohointeriors, #interior123, #bohodecor"
   - username: "shootquality"
     fullname: >-
       S H O O T Q U A L I T Y 📸
@@ -54,19 +102,19 @@ profiles:
     commentsToLikes: 0.082343
     id: ck0tvy4wpdard0i195007lwdu
     verified: false
-    hashtags: "#summer21, #instapic, #inspiration, #instadaily"
+    hashtags: "#photography, #flowers, #beach, #christmasspirit"
   - username: "croquejuju"
     fullname: >-
       croquejuju
     bio: >-
-      📸 YouTuber 53K📍Paris 💼 MAKEUPARTIST / GRAPHIC DESIGNER TikTok : croqjuju ✉ croquejuju@soeuretteproductions.com ⬇ DERNIÈRE VIDÉO ⬇
+      📸 YouTuber 53K📍Paris 💼 MAKEUPARTIST / GRAPHIC DESIGNER TikTok : croqjuju ✉ croquejuju@gmail.com ⬇ DERNIÈRE VIDÉO ⬇
     location: "France"
-    followers: 41059
-    engagement: 608
-    commentsToLikes: 0.017771
+    followers: 37706
+    engagement: 707
+    commentsToLikes: 0.017895
     id: ck5bxdaoani4j0i11v7gcm75i
     verified: false
-    hashtags: "#31daysofhalloween, #halloweenmakeup, #halloweencostume, #facepaint"
+    hashtags: "#yesiamglorious, #ad, #makeup, #kissmasshow"
   - username: "abiparmenter"
     fullname: >-
       Abi
@@ -79,52 +127,4 @@ profiles:
     id: ck6tni2409vvj0j714h6rh592
     verified: false
     hashtags: ""
-  - username: "fghodrat_artwork"
-    fullname: >-
-      F A T E M E  | ARTWORK
-    bio: >-
-      Photographer Student📷 at aui Graphic designer Committed❤️ Portrait photography | Ahwaz
-    location: "France"
-    followers: 2364
-    engagement: 3181
-    commentsToLikes: 0.065871
-    id: ck0u9cawt9l5l0i19vk8ma26m
-    verified: false
-    hashtags: "#photomodel, #boxing, #photograph, #blackandwhite"
-  - username: "fabricefayal"
-    fullname: >-
-      Fabrice Fayal
-    bio: >-
-      Acteur • Modèle • Égérie • Graphic Designer 🇨🇻 🇸🇳 fabricefayal@gmail.com
-    location: "France"
-    followers: 7767
-    engagement: 1240
-    commentsToLikes: 0.028721
-    id: ckap31cjq17aa0i78zyi683ib
-    verified: false
-    hashtags: "#senegal, #pub, #allblack, #style"
-  - username: "lea_binda"
-    fullname: >-
-      Leabidu 🪐✨
-    bio: >-
-      💫 french illustrator & graphic designer 🛸 contact@leabinda.com ✨👇🏻 etsy shop 👇🏻✨
-    location: "France"
-    followers: 9272
-    engagement: 978
-    commentsToLikes: 0.066565
-    id: ck5q1hg4bb06f0i11f6l3z41k
-    verified: false
-    hashtags: ""
-  - username: "kriboute"
-    fullname: >-
-      Kriboute • Illustrations ⭐️
-    bio: >-
-      • Illustratrice • DIY • Scénographie • Graphic Designer • Content Creator • 📍Annecy ⭐️ 💌 marionpisibon@gmail.com
-    location: "France"
-    followers: 20866
-    engagement: 331
-    commentsToLikes: 0.038055
-    id: ck0w1s16ykuh30i19meihcvuc
-    verified: false
-    hashtags: "#sponsoris, #ibisstyles, #culturajubile, #pentel"
 ---

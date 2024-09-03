@@ -1,11 +1,11 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Istanbul In 2023
+title: Top 10 Yoga Instagram Influencers In Istanbul In 2024
 description: >-
-  Find top yoga Instagram influencers in Istanbul in 2023. Most popular hashtags: #yoga #love #istanbul #evdekal.
+  Find top yoga Instagram influencers in Istanbul in 2024. Most popular hashtags: #yoga #istanbul #influencer #evdekal.
 platform: Instagram
-hits: 35
+hits: 40
 text_top: Discover the top-rated Instagram profiles on inBeat.
-text_bottom: Our search engine aggregates 35 Instagram influencers like this in Istanbul, Turkey for you to collaborate.
+text_bottom: inBeat has 40 Instagram influencers like this in Istanbul, Turkey for you to contact.
 profiles:
   - username: "wingchunkungfuclub"
     fullname: >-
@@ -19,18 +19,6 @@ profiles:
     id: ck0txgcjqj0ku0i19vl21kter
     verified: false
     hashtags: "#wingchunkungfu, #ipman, #kungfu, #martialarts"
-  - username: "zeynaum"
-    fullname: >-
-      Zeynep Tokuş Yılmaztürk
-    bio: >-
-      ZeynAum 🕉 online classes @tapasbarre Always a student... Yoga💜Acro yoga💜Kids yoga teacher İstanbul
-    location: "Turkey"
-    followers: 83623
-    engagement: 395
-    commentsToLikes: 0.017412
-    id: ck0w6fr2q8crw0i19n8e4ixuv
-    verified: false
-    hashtags: "#lovemywall, #sevgililergu, #kundinyasana2, #neyaparsanyapsevgiyleyap"
   - username: "easy13"
     fullname: >-
       İzzet🕴🏽🖤🦅
@@ -55,6 +43,18 @@ profiles:
     id: ck5zp3crrrwqc0i14dgu7xc7w
     verified: false
     hashtags: "#evdekal, #merk, #djlifestyle, #deephouse"
+  - username: "betulkarakus"
+    fullname: >-
+      Uzm. Dyt. Betül Karakuş Ateş
+    bio: >-
+      🥕Uzman Diyetisyen 📕 Yeni Nesil Diyet 🌱Sürdürülebilir, Sağlıklı Beslenme ve Yaşam 🌿Bitki bazlı, gezegen dostu tarifler 📍İZMİR #gezegenibesle
+    location: "Turkey"
+    followers: 43963
+    engagement: 128
+    commentsToLikes: 0.074029
+    id: ck15pacd3wvuo0i19m7ymbwzz
+    verified: false
+    hashtags: "#yeninesildiyet, #reklam, #newyork, #izkitap"
   - username: "aysenilsamlioglu"
     fullname: >-
       Aysenil Samlioglu
@@ -67,18 +67,6 @@ profiles:
     id: ck0vz0qaw6prr0i198k1m8scy
     verified: false
     hashtags: "#bayram, #karde, #repost, #ay"
-  - username: "mislingoksoy"
-    fullname: >-
-      Mişlin
-    bio: >-
-      ॐ || 👁 📍Istanbul learning, living & sharing yoga 🌞 Yoga instructor 🏄‍♀️ Jr. Production designer @adcolony ✨ Access bar& facelift 🌀 Bioenergy healer
-    location: "Turkey"
-    followers: 5117
-    engagement: 561
-    commentsToLikes: 0.032703
-    id: ck9habl8ebx6z0j78fzhdtv8s
-    verified: false
-    hashtags: "#yogini, #yoga, #love, #yogi"
   - username: "fitixm"
     fullname: >-
       ❗️Sağlıklı Yaşa FİT Kal❗️
@@ -91,40 +79,52 @@ profiles:
     id: ck8t6nrrxe8la0j780gdobyba
     verified: false
     hashtags: "#healthyfood, #nefisyemektarifleri, #antrenman, #evdesporyap"
-  - username: "gezgincift"
+  - username: "aysekoroglu"
     fullname: >-
-      Orkun Özkaya-Neslihan Özkaya
+      Ayşe Köroğlu
     bio: >-
-      🇹🇷 Now: TR 🌎 Travel, through our eyes 📧 info@gezgincift.com 🎥 Youtube: gezgincift
+      Plantlab 1-2 Raw Cuisine& Culinary Nutrition Dylan Werner YOGA 200 HTT Functional Medicine Coach / IFM İsbirlikleri icin ayseozgurkoroglu@gmail.com
     location: "Turkey"
-    followers: 100870
-    engagement: 207
-    commentsToLikes: 0.016155
-    id: ck6ue71hjp6si0j71x5ae8jtc
+    followers: 136999
+    engagement: 353
+    commentsToLikes: 0.012335
+    id: ck15u5hd0li6f0i198cccjdpk
     verified: false
-    hashtags: "#tatil, #thailand, #karadeniz, #yaz"
+    hashtags: "#lisboa, #reels, #lisbon, #portugal"
+  - username: "vegastories"
+    fullname: >-
+      Vegas The Pomeranian
+    bio: >-
+      My name is Vegas 🔵😜 📍Istanbul - Turkey
+    location: "Turkey"
+    followers: 131505
+    engagement: 1373
+    commentsToLikes: 0.195280
+    id: ck8t8yih1may20j78cc51oghi
+    verified: false
+    hashtags: "#instadog, #dogsofficialdog, #pomeranianofinsta, #pomeranianpuppy"
+  - username: "duygusirkinti"
+    fullname: >-
+      Duygu Sırkıntı
+    bio: >-
+      foodengineer 👩‍🔬 #traveler & #fashionlover 🌍✈👗👠💄👜 sociallatin & tango 💃& yoga 🧘‍♀️ &🏋‍♀️🏊🏻‍♀️🏃‍♀️🚴‍♀️🤸‍♀️ collaboration 👉🏻Dm İstanbul📍
+    location: "Turkey"
+    followers: 12303
+    engagement: 232
+    commentsToLikes: 0.074447
+    id: ckap6ntsdgomq0i78eai70fnp
+    verified: false
+    hashtags: "#microinfluencer, #photography, #influencer, #red"
   - username: "pinars0ylu"
     fullname: >-
       Pınar
     bio: >-
-      Kocaeli - İstanbul📍 Derin'in annesi👧🏻 Türkçe Öğretmeni🎓 Pilates - Fitness Eğitmeni 🌬 📩pinarsoylu@gmail.com Somnio ergo sum..〰
+      Kocaeli - İstanbul📍 Türkçe Öğretmeni🎓 Pilates - Fitness Eğitmeni 🌬 📩pinarsoylu@gmail.com Somnio ergo sum..〰 @eventmag Private Club
     location: "Turkey"
-    followers: 30161
-    engagement: 452
-    commentsToLikes: 0.047462
+    followers: 47355
+    engagement: 140
+    commentsToLikes: 0.017533
     id: ck9wfhzbqowah0j78mguj73sn
     verified: false
-    hashtags: "#throwback, #likeforlikes, #instalike, #tbt"
-  - username: "chrischavezyoga"
-    fullname: >-
-      Chris Chavez
-    bio: >-
-      Global yoga teacher, musician, co-owner of @cihangiryoga creator of The CY Method #liveyourtruth LIVE STREAM CLASS TUES & WED 1830 Istanbul time👇
-    location: "Turkey"
-    followers: 19809
-    engagement: 399
-    commentsToLikes: 0.051423
-    id: ck14hs24fbucv0i1936c7z32v
-    verified: false
-    hashtags: "#gratitude, #yoga, #nike, #loveyou"
+    hashtags: "#tatil, #photooftheday, #holiday, #travel"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Bloggers Instagram Influencers In Dallas In 2023
+title: Top 10 Bloggers Instagram Influencers In Dallas In 2024
 description: >-
-  Find top bloggers Instagram influencers in Dallas in 2023. Most popular hashtags: #dallasblogger #lifestyleblogger #blogger #influencer.
+  Find top bloggers Instagram influencers in Dallas in 2024. Most popular hashtags: #dallasblogger #dallasinfluencer #influencer #texas.
 platform: Instagram
-hits: 115
-text_top: See the top-rated Instagram profiles on inBeat.
-text_bottom: Our database holds 115 Instagram influencers like this in Dallas, United States for you to collaborate.
+hits: 132
+text_top: See the best Instagram accounts on inBeat.
+text_bottom: Our database has 132 Instagram influencers like this in Dallas, United States for you to pitch.
 profiles:
   - username: "iamsarahmize"
     fullname: >-
@@ -13,48 +13,36 @@ profiles:
     bio: >-
       🍸 Full time blogger @dallaslovelist 👩🏻‍💻 Social Media Expert @studiolovelist ✨Founder @citylovelist 🎧 @2chainz 🏈 @vol_sports + 🍕enthusiast
     location: "United States"
-    followers: 22347
-    engagement: 145
-    commentsToLikes: 0.050596
+    followers: 21062
+    engagement: 155
+    commentsToLikes: 0.049941
     id: ck5pxeeu0rdqu0i11cxgny809
     verified: false
-    hashtags: "#drakeoncake, #thegreatamericantakeoutdfw, #costarica, #citylovelist"
-  - username: "what.the.prick"
+    hashtags: "#citylovelist, #wildflower, #sbfunside, #onlylouisiana"
+  - username: "solais2"
     fullname: >-
-      What The Prick! | T1D Blog
+      Jeniffer Solais Ávila López
     bio: >-
-      • Type 1 Diabetes Blog by @sophialivolsi 🩸 • Humor, honesty, & community are the best medicines (well, besides insulin, duh) 💉 • Website below 😊⬇️
+      📍dallas Tx ☕️ lifestyle, fitness, coffee ✉️ solaisavila@gmail.com 🙌🏼 Faith. Grace.
     location: "United States"
-    followers: 10053
-    engagement: 344
-    commentsToLikes: 0.063298
-    id: ckaox4h5zbquu0i78iqjuzd7e
+    followers: 18714
+    engagement: 272
+    commentsToLikes: 0.022565
+    id: ck6ty3xnf1jbg0j71g89ji833
     verified: false
-    hashtags: "#type1diabetes, #teamfreestylelibre, #type1diabetic, #blogger"
-  - username: "heleneinbetween"
+    hashtags: "#nailsart, #music, #dog, #instagood"
+  - username: "wanderabode"
     fullname: >-
-      Helene Sula |Lifestyle Blogger
+      Katie Kubisak
     bio: >-
-      Storyteller. Dallas, TX. Exploring USA via RV w/ 2 pups & 1 husband. #livealittle I travel for fun and blog for a living 🗺 Blog, travel, insta tips⬇️
+      believer | midsize style blogger 📍Dallas, TX 💌 katie@wanderabode.com
     location: "United States"
-    followers: 166899
-    engagement: 291
-    commentsToLikes: 0.047672
-    id: ck0w2u1drq6he0i19k0mvn2ss
+    followers: 24151
+    engagement: 44
+    commentsToLikes: 0.139855
+    id: ck8t5dd0k9qn80j78u8fv8onj
     verified: false
-    hashtags: "#helenelovesdallas, #reels, #helenefortheholidays, #travelblogger"
-  - username: "sparklecates"
-    fullname: >-
-      Taryn Cates || Dallas Blogger
-    bio: >-
-      Hey girl! Glad you’re here💕 Travel and Lifestyle Blogger in Dallas, TX✈️ 🤠 Bride To Be 💍 @hartryanc taryn@taryncates.com💌 NEW YOUTUBE VLOG🎥⬇️
-    location: "United States"
-    followers: 92778
-    engagement: 164
-    commentsToLikes: 0.237216
-    id: ck6tirgio1a5w0j71hs8x0n5o
-    verified: false
-    hashtags: "#sparklecates, #becomethatgirl, #disneyworldtrip, #lifestylebloggers"
+    hashtags: "#dallasblogger, #easterdress, #springdress, #grandmillennialstyle"
   - username: "mattdew121212"
     fullname: >-
       Matthew King
@@ -67,18 +55,42 @@ profiles:
     id: ckap1fy3oufhh0i78vudsyg7e
     verified: false
     hashtags: "#austintexas, #utsa, #explorepage, #austin"
-  - username: "darlenetambien"
+  - username: "scarlethayme"
     fullname: >-
-      DARLENE
+      Scar ⭐️
     bio: >-
-      A highlight reel...
+      CEO- @bloomingfleur_ 🌹 Wedding&Event Planner 👰🏼💍🤵🏻 📍Dallas,TX🇺🇸 📍Jalisco 🇲🇽
     location: "United States"
-    followers: 3208
-    engagement: 771
-    commentsToLikes: 0.068667
-    id: ck5hlapb8jvq40i11fvjwkfv4
+    followers: 3424
+    engagement: 624
+    commentsToLikes: 0.060687
+    id: ck14jyxobmvee0i19dayhbg5a
     verified: false
-    hashtags: "#discoverunder5k, #blessedprotein, #outfits, #whatiwore"
+    hashtags: "#babygirl, #dallasflorist, #babymodel, #babiesofinstagram"
+  - username: "explore.vina"
+    fullname: >-
+      Vina | Dallas Blogger
+    bio: >-
+      ✿ dallas + travel ✈️ food & drinks - unique stays - lifestyle ✉︎ collabs: simply.vina823@gmail.com Tik Tok (49k+)
+    location: "United States"
+    followers: 37001
+    engagement: 1112
+    commentsToLikes: 0.045593
+    id: cl89kv9t02mrp0i23709qd21q
+    verified: false
+    hashtags: "#sidekicks, #ad, #subway, #dfwfood"
+  - username: "marblelouslypetite"
+    fullname: >-
+      abby chhabra | dallas blogger
+    bio: >-
+      AFFORDABLE STYLE・BEAUTY ・HOME DECOR 5'0" petite + midsize brightening your feed with fun pops of colors abby@marblelouslypetite.com shop my looks ⤵
+    location: "United States"
+    followers: 89047
+    engagement: 348
+    commentsToLikes: 0.011269
+    id: ck15ruvrx9tvn0i198lzs99h4
+    verified: false
+    hashtags: "#targetpartner, #target, #liketkit, #ad"
   - username: "jackiee__lopez"
     fullname: >-
       J a c k i e  L o p e z • Dallas Blogger
@@ -90,41 +102,29 @@ profiles:
     commentsToLikes: 0.136309
     id: ck0tznhp4r10b0i19wekrdxra
     verified: false
-    hashtags: "#influencer, #dfwblogger, #datenight, #ad"
-  - username: "camille.elena"
+    hashtags: "#lifestyleblogger, #dallasblogger, #dfwblogger, #dallasinfluencer"
+  - username: "stephiekayetx"
     fullname: >-
-      Camille Elena • Dallas Blogger
+      Stephanie Kaye☆ Dallas Blogger
     bio: >-
-      #MillennialMama | Style + Beauty + Life | Enneagram 5 #Chamoy Candy: @camis.candies TikTok 28k 👉🏼camille.elena 📧: camille.elena.blog@gmail.com
+      🦋Inspiring 𝕙𝕒𝕡𝕡𝕪+𝕙𝕖𝕒𝕝𝕥𝕙𝕪 lives! 💁🏻‍♀️Marketing & Brand Expert 🩷Fashion•Fitness•Travel•Sports•Fun🩷 💌Stephiekayetx@gmail.com 💪🏼@fitnessambassadorshq
     location: "United States"
-    followers: 29847
-    engagement: 98
-    commentsToLikes: 0.197667
-    id: ck0u9ateb9dxr0i19cumubcpe
+    followers: 5202
+    engagement: 249
+    commentsToLikes: 0.090236
+    id: cl8jeaols5doq0i23y5lnj1b7
     verified: false
-    hashtags: "#dfwmommyblogger, #dreamyaesthetic, #fortworthblogger, #dfwlatinabloggers"
-  - username: "marblelouslypetite"
+    hashtags: "#liveyourbestlifenow, #happyrunnergirl, #colormehappy, #dallasinfluencer"
+  - username: "whitecoat.mom"
     fullname: >-
-      Abby | Dallas Blogger
+      Dr. Huda A | Dallas Blogger
     bio: >-
-      AFFORDABLE STYLE・BEAUTY ・HOME DECOR 5'0" petite + curvy brightening your feed with fun and playful colors abby@marblelouslypetite.com shop my looks ⤵
+      🩺Doctor, Mom, Fashionista & Nerd by trait 📝 Journaling thru 📸 👗Chanelling my love for 🇵🇰 clothes 📩whitecoat.mom1@gmail.com
     location: "United States"
-    followers: 60649
-    engagement: 203
-    commentsToLikes: 0.083346
-    id: ck15ruvrx9tvn0i198lzs99h4
+    followers: 20416
+    engagement: 185
+    commentsToLikes: 0.057478
+    id: cks0ckpjgglr30j23rclw8uip
     verified: false
-    hashtags: "#jen7jeans, #vanityfairlingerie, #nintendoswitch, #influencehercollective"
-  - username: "hkcung"
-    fullname: >-
-      HOÀNG-KIM | DALLAS BLOGGER
-    bio: >-
-      Sharing what I love in my everyday life 🤍 engaged to @johnnyhvan & built #HKandJHome youtube.com/HKCung hello@colorandchic.com Blog posts & sources↓
-    location: "United States"
-    followers: 117341
-    engagement: 223
-    commentsToLikes: 0.073940
-    id: ck0w20ancm0ih0i19xwo9uyww
-    verified: false
-    hashtags: "#ltkhome, #ad, #liketkit, #hkandjhome"
+    hashtags: "#muslimom, #petrajordan, #eidaladha2021, #newhairdontcare"
 ---

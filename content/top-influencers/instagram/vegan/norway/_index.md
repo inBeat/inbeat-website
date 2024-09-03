@@ -1,12 +1,24 @@
 ---
-title: Top 10 Vegan Instagram Influencers In Norway In 2023
+title: Top 10 Vegan Instagram Influencers In Norway In 2024
 description: >-
-  Find top vegan Instagram influencers in Norway in 2023. Most popular hashtags: #vegan #godtno #veganfood #5omdagen.
+  Find top vegan Instagram influencers in Norway in 2024. Most popular hashtags: #vegan #veganfood #5omdagen #healthyfood.
 platform: Instagram
-hits: 26
-text_top: See the most popular Instagram profiles on inBeat.
-text_bottom: Our search engine holds 26 Instagram influencers like this in Norway for you to collaborate.
+hits: 27
+text_top: Analyze the top-rated Instagram accounts on inBeat.
+text_bottom: inBeat has 27 Instagram influencers like this in Norway for you to work with.
 profiles:
+  - username: "nixhammer"
+    fullname: >-
+      Nix
+    bio: >-
+      Ⓥ -Professional troublemaker, Oslo ..Stay loyal n' creative, fuck money. -VEGAN POWER💪🏼 -eating meat is animal cruelty.
+    location: "Norway"
+    followers: 77478
+    engagement: 174
+    commentsToLikes: 0.054749
+    id: ckap3vnqk4osg0i78ifdprpwh
+    verified: false
+    hashtags: "#cowboyboots, #nostencil, #digital, #vr"
   - username: "yoga_kaja"
     fullname: >-
       ☾ YOGA KAJA ☼
@@ -31,30 +43,6 @@ profiles:
     id: ck8t075i2r1gc0j78875apnci
     verified: false
     hashtags: "#stthomas, #photooftheday, #usvi, #flor"
-  - username: "drleovenus"
-    fullname: >-
-      Dr. Leo Venus
-    bio: >-
-      M.D. and vegan athlete💪 @Vivolife Ambassador 🌱 Use LEO10 for 10% off 👇
-    location: "Norway"
-    followers: 32758
-    engagement: 374
-    commentsToLikes: 0.041171
-    id: ck5q1gl6vavsi0i11fsdw1pbg
-    verified: false
-    hashtags: "#fortheliving, #norway, #nature, #beauty"
-  - username: "frutimian"
-    fullname: >-
-      Marit Røttingsnes Westlie
-    bio: >-
-      FRU TIMIAN - Matblogg med deilig mat for hele familien! Egen krydderserie 🧂🌱 @go_vegan_nordic ambassadør 🌿 Link til oppskrifter ⬇️
-    location: "Norway"
-    followers: 41066
-    engagement: 97
-    commentsToLikes: 0.013172
-    id: ck13cg0i405lb0i19axb14t61
-    verified: false
-    hashtags: "#denbestematen, #bake, #godtno, #dagensmiddag"
   - username: "vegetarbloggen"
     fullname: >-
       Mari Hult
@@ -67,6 +55,18 @@ profiles:
     id: ck5c1lmwfvfgl0i117bmgm5oz
     verified: false
     hashtags: "#greenfluencer, #nrkmat, #madmedmedf, #fastelavnsboller"
+  - username: "halasz_evi"
+    fullname: >-
+      Farkas-Halász Évi
+    bio: >-
+      🤍Család 🧁Testi&Lelki egészség
+    location: "Norway"
+    followers: 46454
+    engagement: 12
+    commentsToLikes: 0.000306
+    id: ck5q5niigto5q0i11c1aca7rd
+    verified: false
+    hashtags: "#cukormentes, #tudatos, #egeszsegestaplalkozas, #ikozosseg"
   - username: "fr.besic"
     fullname: >-
       Fr. Besic
@@ -103,18 +103,6 @@ profiles:
     id: ckf5n3tzpwmpi0j23d3kc63h2
     verified: false
     hashtags: "#pescetarian, #instafood, #buzzfeedfood, #eatyourveggies"
-  - username: "eatmoreplants.no"
-    fullname: >-
-      Jenny 🌱 Plant-Based Recipes
-    bio: >-
-      Download my recipe app “eatmoreplants”🌱 100+ Recipes in both English & Norwegian 📲 Available on iOS and Android 🙋🏼‍♀️ @jennymtb
-    location: "Norway"
-    followers: 18280
-    engagement: 244
-    commentsToLikes: 0.106561
-    id: ck5hkk46yiket0i11wxhrk0cb
-    verified: false
-    hashtags: "#veganrecipeshare, #plantbasedmeals, #vegan, #plantbasedrecipe"
   - username: "skadal"
     fullname: >-
       MARTIN S. SKADAL 🥷🏻🌱
@@ -127,4 +115,16 @@ profiles:
     id: ck6tro9dh04sa0j71lbcy9xie
     verified: false
     hashtags: "#norge, #govegan, #environmentalism, #environmentalist"
+  - username: "omerzuri"
+    fullname: >-
+      TeamZuri by Omer Zuri
+    bio: >-
+      ​ Fitness Studio in TLV 🧘🏼‍♀️🏋🏻‍♀️ ​ Ⓜ️ MyProtein code OMER​ רוצים להתאמן איתי בת״א? בואו לפה ⬇️
+    location: "Norway"
+    followers: 30838
+    engagement: 184
+    commentsToLikes: 0.058456
+    id: ck13cvvwj2f9g0i19fc593ngo
+    verified: false
+    hashtags: "#teamzuri, #teammyp, #healthy, #tastyvideos"
 ---

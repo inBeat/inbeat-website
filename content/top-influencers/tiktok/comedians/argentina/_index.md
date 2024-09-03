@@ -1,11 +1,11 @@
 ---
-title: Top 10 Comedians TikTok Influencers In Argentina In 2023
+title: Top 10 Comedians TikTok Influencers In Argentina In 2024
 description: >-
-  Find top comedians TikTok influencers in Argentina in 2023. Most popular hashtags: #parati #comedia #humor #comedian.
+  Find top comedians TikTok influencers in Argentina in 2024. Most popular hashtags: #parati #comedia #humor #comedian.
 platform: TikTok
 hits: 288
-text_top: Discover the best TikTok accounts on inBeat.
-text_bottom: Our database aggregates 288 TikTok influencers like this in Argentina for you to connect with.
+text_top: See the best TikTok profiles on inBeat.
+text_bottom: Our search engine aggregates 288 TikTok influencers like this in Argentina for you to collaborate.
 profiles:
   - username: "nahuelivorra"
     fullname: >-
@@ -114,7 +114,7 @@ profiles:
     commentsToLikes: 0.007589
     id: ck9shb2zwsgox0j78zuohs6m1
     verified: true
-    hashtags: "#comedia, #parati, #mudanza, #comedian"
+    hashtags: "#comedian, #comedia, #parati, #mudanza"
   - username: "maxivivero_kb"
     fullname: >-
       Maximiliano Vivero

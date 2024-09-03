@@ -1,12 +1,24 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Sao Paulo In 2023
+title: Top 10 Lifestyle Instagram Influencers In Sao Paulo In 2024
 description: >-
-  Find top lifestyle Instagram influencers in Sao Paulo in 2023. Most popular hashtags: #sp #saopaulo #lifestyle.
+  Find top lifestyle Instagram influencers in Sao Paulo in 2024. Most popular hashtags: #sp #saopaulo #lifestyle #praia.
 platform: Instagram
-hits: 374
-text_top: Analyze the most popular Instagram accounts on inBeat.
-text_bottom: inBeat aggregates 374 Instagram influencers like this in Sao Paulo, Brazil for you to collaborate.
+hits: 385
+text_top: Discover the most popular Instagram profiles on inBeat.
+text_bottom: Our platform has 385 Instagram influencers like this in Sao Paulo, Brazil for you to contact.
 profiles:
+  - username: "_sophiegabriel"
+    fullname: >-
+      Sophie Gabriel
+    bio: >-
+      beauty | festival | lifestyle São Paulo
+    location: "Brazil"
+    followers: 188883
+    engagement: 553
+    commentsToLikes: 0.012093
+    id: ck6u6vi58hysp0j716hj3zqxx
+    verified: false
+    hashtags: "#ravesbr, #love, #tbt, #psytrance"
   - username: "giselerampazzo"
     fullname: >-
       Gisele Rampazzo
@@ -43,18 +55,6 @@ profiles:
     id: ck5c8l2ob9pot0i11iwa8gkd0
     verified: false
     hashtags: "#inspira, #bloggerlife, #sushilovers, #modafemininaonline"
-  - username: "alef.novaes"
-    fullname: >-
-      Alef Novaes
-    bio: >-
-      🏋🏻‍♂️Lifestyle : Dicas de treino, dieta, suplementação, motivação e muito trabalho 📸Modelo 👑 Mister 🤑Cupom EVOALEF20👇🏻
-    location: "Brazil"
-    followers: 21268
-    engagement: 452
-    commentsToLikes: 0.029993
-    id: ck8szfek3o8ai0j78kykxpd5n
-    verified: false
-    hashtags: "#foto, #fotografia, #sp, #shape"
   - username: "allisonmendonca"
     fullname: >-
       Allison Mendonça
@@ -67,18 +67,18 @@ profiles:
     id: ckaos1jdepqks0i78cderdhd5
     verified: false
     hashtags: "#copacabana, #riodejaneiro, #happiness, #fitnessmotivation"
-  - username: "brunaeroles_"
+  - username: "ana.passaretti"
     fullname: >-
-      Bruna Eroles
+      Ana Clara Passaretti
     bio: >-
-      só vida real por aqui! ✨ youtube • moda • beleza • lifestyle • 📍 são paulo 💌contato: assessoriabrunaeroles@gmail.com #brulooks #brueroles
+      🖤 beauty & lifestyle. ⛓️ São Paulo, Brasil. ✉️ anapassaretti@agenciabae.com 🤓 @anaheartbooks
     location: "Brazil"
-    followers: 47333
-    engagement: 697
-    commentsToLikes: 0.042264
-    id: ck6ucltiagczy0j71l7q79bos
+    followers: 139070
+    engagement: 453
+    commentsToLikes: 0.012943
+    id: cl4f68x31pw850i23cjzss9iy
     verified: false
-    hashtags: "#eadunicesumar, #meuproposito"
+    hashtags: "#ttdeye, #ttd"
   - username: "jaovictorphoto"
     fullname: >-
       JAOVICTORPHOTO
@@ -91,30 +91,6 @@ profiles:
     id: ckap9sn5lti2y0i78ywqooxjf
     verified: false
     hashtags: "#moodygrams, #fotografiafeminina, #bravogreatphoto, #olhardevidroph"
-  - username: "eugicarolina"
-    fullname: >-
-      Giovanna Carolina
-    bio: >-
-      🌸 BELEZA • CACHOS • LIFESTYLE 📍São Paulo, 19 Parcerias via direct ou e-mail 💌 giovannacarolina@pgbagency.com TENHO CANAL NO YOUTUBE
-    location: "Brazil"
-    followers: 93848
-    engagement: 218
-    commentsToLikes: 0.041165
-    id: ck0w1mc3sk1jy0i19eoh6wku4
-    verified: false
-    hashtags: "#cachos, #sugarbearsleep, #ad, #publi"
-  - username: "luaralugli"
-    fullname: >-
-      Luara Lugli
-    bio: >-
-      ✨ Lifestyle | 📍São Paulo - SP 🎭 Atriz 💌 luaraluglicomercial@outlook.com 📲 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽 𝗰𝗼𝗺𝗲𝗿𝗰𝗶𝗮𝗹: (11)99497-2914
-    location: "Brazil"
-    followers: 329316
-    engagement: 239
-    commentsToLikes: 0.016745
-    id: ck5zq1280tq9p0i14nrgegvxr
-    verified: false
-    hashtags: "#paz, #amor, #gratidao, #feriadodelicia"
   - username: "eiheld"
     fullname: >-
       Helder Rosa
@@ -127,4 +103,28 @@ profiles:
     id: ckapbouba0qqh0i784l0h57wu
     verified: false
     hashtags: "#meuscachos, #beleza, #cabelocrespo, #homemcrespo"
+  - username: "clecioliveroficial"
+    fullname: >-
+      Clécio Oliver Oficial 💎🥀
+    bio: >-
+      🎙Dancer•Singer•Coreógrafo Compositor•Má Influencia 💋 🕋 TIKTOK:@clecioliveroficial 📨 Parcerias (direct) Acessória: @agenciarising 🌹 Canal 👇🏻
+    location: "Brazil"
+    followers: 24703
+    engagement: 213
+    commentsToLikes: 0.111924
+    id: ckaox8nhvc9k10i78eal4p823
+    verified: false
+    hashtags: "#picture, #lifestyle, #style, #saopaulo"
+  - username: "elvisluzz"
+    fullname: >-
+      💡💡  𝔼𝕝𝕧𝕚𝕤 𝕃𝕦𝕫 💡💡
+    bio: >-
+      “Trabalhando para ser um cara de Sorte” Bem vindo a minha vida: 📍São Paulo ZIN Zumba Instructor Parcerias Via Direct Pai de Molly 🐩 e Mel 🐕 ♋️
+    location: "Brazil"
+    followers: 22516
+    engagement: 143
+    commentsToLikes: 0.353321
+    id: ck8taqnz4soz70j78f08uhh70
+    verified: false
+    hashtags: "#instagay, #zumbacommunity, #photography, #zumbabrasil"
 ---

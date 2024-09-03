@@ -1,11 +1,11 @@
 ---
-title: Top 10 Christian TikTok Influencers In Portugal In 2023
+title: Top 10 Christian TikTok Influencers In Portugal In 2024
 description: >-
-  Find top christian TikTok influencers in Portugal in 2023. Most popular hashtags: #fyp #comedia #fy #portugal.
+  Find top christian TikTok influencers in Portugal in 2024. Most popular hashtags: #fyp #fy #portugal #comedia.
 platform: TikTok
 hits: 8
-text_top: See the most popular TikTok influencers on inBeat.
-text_bottom: Our database has 8 TikTok influencers like this in Portugal for you to pitch.
+text_top: Identify the most popular TikTok accounts on inBeat.
+text_bottom: Our database aggregates 8 TikTok influencers like this in Portugal for you to collaborate.
 profiles:
   - username: "tiagoafferreira"
     fullname: >-

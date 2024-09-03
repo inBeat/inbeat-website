@@ -1,11 +1,11 @@
 ---
-title: Top 10 Beauty TikTok Influencers In Denver In 2023
+title: Top 10 Beauty TikTok Influencers In Denver In 2024
 description: >-
-  Find top beauty TikTok influencers in Denver in 2023. Most popular hashtags: #fyp #beauty #foryou #denver.
+  Find top beauty TikTok influencers in Denver in 2024. Most popular hashtags: #fyp #beauty #foryou #denver.
 platform: TikTok
 hits: 5
-text_top: Discover the most popular TikTok profiles on inBeat.
-text_bottom: inBeat holds 5 TikTok influencers like this in Denver, United States for you to collaborate.
+text_top: Discover the best TikTok profiles on inBeat.
+text_bottom: Our search engine holds 5 TikTok influencers like this in Denver, United States for you to pitch.
 profiles:
   - username: "the.grief.warrior"
     fullname: >-
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.024186
     id: ck94kx9quwxss0j78x38vcv6k
     verified: false
-    hashtags: "#fyp, #greenscreenvideo, #xyzbca, #nailtech"
+    hashtags: "#xyzbca, #greenscreenvideo, #fyp, #tiktoktutorial"
   - username: "katk421"
     fullname: >-
       Kat K
@@ -90,7 +90,7 @@ profiles:
     commentsToLikes: 0.052231
     id: ckc91lm2fronk0j23uo0hgtbd
     verified: false
-    hashtags: "#blackfae, #chicagocheck, #cleargenius, #thesuicidesquadmovie"
+    hashtags: "#chicagocheck, #suicidesquad, #thesuicidesquadmovie, #cleargenius"
   - username: "lexisroc"
     fullname: >-
       ✨Alexis✨
@@ -102,7 +102,7 @@ profiles:
     commentsToLikes: 0.046760
     id: ckbbdo6pn2izp0j2342epu47j
     verified: false
-    hashtags: "#magickingdom, #luca, #callmebyyourname, #disneymovies"
+    hashtags: "#callmebyyourname, #disneypark, #disneymovie, #luca"
   - username: "priyankapahari3"
     fullname: >-
       🔥Prîyàñká🔥
@@ -126,5 +126,5 @@ profiles:
     commentsToLikes: 0.034864
     id: ckbf00b54lem60j23l97kdan5
     verified: false
-    hashtags: "#puppiesoftiktok, #bridetobe, #disneyworld, #vacation"
+    hashtags: "#puppiesoftiktok, #palmsprings, #disneyparks, #weddingvibes"
 ---

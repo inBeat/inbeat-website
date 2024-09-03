@@ -1,130 +1,130 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Turkey In 2023
+title: Top 10 Yoga Instagram Influencers In Turkey In 2024
 description: >-
-  Find top yoga Instagram influencers in Turkey in 2023. Most popular hashtags: #yoga #yogapractice #yogainspiration.
+  Find top yoga Instagram influencers in Turkey in 2024. Most popular hashtags: #yoga #love #reels #yogapractice.
 platform: Instagram
-hits: 131
-text_top: Identify the most popular Instagram profiles on inBeat.
-text_bottom: Our database has 131 Instagram influencers like this in Turkey for you to work with.
+hits: 150
+text_top: Analyze the top-rated Instagram influencers on inBeat.
+text_bottom: Our database has 150 Instagram influencers like this in Turkey for you to pitch.
 profiles:
-  - username: "elvin"
-    fullname: >-
-      Elvin Levinler 🌈
-    bio: >-
-      ◛ elvin@thedigitalnomads.co ➵ London┆Istanbul┆Datça ♡ motivation • yoga • healthy • food • reels #travel #lifestyle #storyteller #reels ✩ new video
-    location: "Turkey"
-    followers: 1185764
-    engagement: 120
-    commentsToLikes: 0.016211
-    id: ck15uwgu4ou830i19ej5guzkx
-    verified: true
-    hashtags: "#relatable, #yogapractice, #trendingreels, #mymarks"
-  - username: "betulily"
-    fullname: >-
-      Lily
-    bio: >-
-      📍 NYC yoga instructor traveler, 60 countries betullily@gmail.com
-    location: "Turkey"
-    followers: 322839
-    engagement: 248
-    commentsToLikes: 0.014464
-    id: ck6u8g9verf650j71z095bjpe
-    verified: false
-    hashtags: ""
-  - username: "cetincetintas"
-    fullname: >-
-      Cetin Cetintas | Yoga
-    bio: >-
-      Yoga⚡️Author 📚 Biologist @yogakiooturkiye @yogakioodergi @kiooretreatcenter @yogakiooyayinlari •7. Kitabım aşağıdaki linkte👇🏻
-    location: "Turkey"
-    followers: 567155
-    engagement: 131
-    commentsToLikes: 0.038561
-    id: ck0u6qx1l2ncd0i19hp9sphks
-    verified: false
-    hashtags: "#yogakiooailesi, #sar, #birayd, #biraydo"
   - username: "tugceinam"
     fullname: >-
-      Tuğçe İnam Zırtıloğlu
+      Tuğçe İnam
     bio: >-
-      Yoga🔮 Yoga Alliance onaylı “200 saatlik Yoga Uzmanlık Programları” için 👉🏼 tuuceinam@gmail.com 🌱
+      Yoga🔮 📍Yoga Alliance Onaylı 200 ve 300 Saatlik Uzmanlık Programları @myottoyoga
     location: "Turkey"
-    followers: 17747
-    engagement: 537
-    commentsToLikes: 0.041840
+    followers: 22437
+    engagement: 559
+    commentsToLikes: 0.042956
     id: ck135h0bs1dfb0i1961jxkwc4
     verified: false
-    hashtags: "#yoga, #yogapractice, #mothernature, #cgjung"
-  - username: "ecetargit"
+    hashtags: "#libernovus, #yoga, #cgjung, #yinyoga"
+  - username: "aysekoroglu"
     fullname: >-
-      Ece Targıt Günşiray
+      Ayşe Köroğlu
     bio: >-
-      Founder @flovstudio yoga+meditation+rituals Podcast Host “Yoldayız Geliyor Musun?” Home @savedforus
+      Plantlab 1-2 Raw Cuisine& Culinary Nutrition Dylan Werner YOGA 200 HTT Functional Medicine Coach / IFM İsbirlikleri icin ayseozgurkoroglu@gmail.com
     location: "Turkey"
-    followers: 180335
-    engagement: 434
-    commentsToLikes: 0.011380
-    id: ck0vzh9mp93bo0i19wfqshltr
+    followers: 136999
+    engagement: 353
+    commentsToLikes: 0.012335
+    id: ck15u5hd0li6f0i198cccjdpk
     verified: false
-    hashtags: "#newchapter, #ecedusunce, #istanbuls, #12saataktif"
-  - username: "ceydasaltadal"
+    hashtags: "#lisboa, #reels, #lisbon, #portugal"
+  - username: "nurayuzunbayiryoga"
     fullname: >-
-      Ceyda Saltadal
+      Nuray Uzunbayır
     bio: >-
-      Nimet Atasoy Management Actress ⭐️ Voice artist ⭐️ Yoga Teacher #ShinyQueen
+      🌿 Yoga Eğitmeni 🌿 🔸️Ryt 280 Yogakioo 🔸️ 🌿 Fly Yoga (aeriel yoga) Eğitmeni 🌿 🔸️Yacep🔸️ 🔸Onlıne Özel & Grup yoga dersleri icin mesaj atabilirsin🔸
     location: "Turkey"
-    followers: 14224
-    engagement: 514
-    commentsToLikes: 0.084348
-    id: ck0u871cn6jwk0i19e14opr13
+    followers: 15692
+    engagement: 341
+    commentsToLikes: 0.017995
+    id: ckaoxx96of5c90i78jy8yut6h
     verified: false
-    hashtags: "#detox, #yogainspiration, #yogi, #ceydaileyoga"
-  - username: "gezginyogini"
+    hashtags: "#nature, #fashiongram, #flowers, #namaste"
+  - username: "zeynaum"
     fullname: >-
-      Burcu Tunca
+      Zeynep Tokuş Yılmaztürk
     bio: >-
-      🕉️Yoga Teacher & Practitioner 🌍Inner Traveler by the Outer Journeys ➡️Özel ve Online dersler için dm (Hatha, Vinyasa, Yin Yoga) 📌Antalya /Konyaaltı
+      ZeynAum 🕉 Yoga,Acroyoga teacher 🧘🏽‍♀️ @tapasbarre
     location: "Turkey"
-    followers: 25165
-    engagement: 167
-    commentsToLikes: 0.056243
-    id: ckf5xaj3xuzge0j23eqvisz1o
+    followers: 117520
+    engagement: 336
+    commentsToLikes: 0.058385
+    id: ck0w6fr2q8crw0i19n8e4ixuv
     verified: false
-    hashtags: "#balance, #yogaantalya, #mudra, #antalyayogae"
-  - username: "pelindindar"
+    hashtags: "#yogaeveryday, #yogapractice, #yoga, #yogainspiration"
+  - username: "guzellik_hemsiresi"
     fullname: >-
-      Pelin Dindar
+      Dilek ESEN
     bio: >-
-      Yoga&Pilates Instructor Youtuber 💌dindarpelin.pr@gmail.com YENİ VİDEO👇🏻
+      Ebe,Yazar,Yoga eğitmeni,Jaas uygulayıcısıyım.Hayatınızı kolaylaştıracak öneriler paylaşıyorum Pr:dilekbilgicesen@gmail.com @birkurtsevdimkitap 52025
     location: "Turkey"
-    followers: 38478
-    engagement: 252
-    commentsToLikes: 0.023073
-    id: ck8t593ls98iy0j78ywz7kzcj
+    followers: 210235
+    engagement: 284
+    commentsToLikes: 0.063125
+    id: ck0uemvkjlsir0i19gcg3jc4l
     verified: false
-    hashtags: "#artibir, #today, #karantina, #yoga"
-  - username: "chrischavezyoga"
+    hashtags: "#kad, #uzunsa, #kapal, #girne"
+  - username: "duygusirkinti"
     fullname: >-
-      Chris Chavez
+      Duygu Sırkıntı
     bio: >-
-      Global yoga teacher, musician, co-owner of @cihangiryoga creator of The CY Method #liveyourtruth LIVE STREAM CLASS TUES & WED 1830 Istanbul time👇
+      foodengineer 👩‍🔬 #traveler & #fashionlover 🌍✈👗👠💄👜 sociallatin & tango 💃& yoga 🧘‍♀️ &🏋‍♀️🏊🏻‍♀️🏃‍♀️🚴‍♀️🤸‍♀️ collaboration 👉🏻Dm İstanbul📍
     location: "Turkey"
-    followers: 19809
-    engagement: 399
-    commentsToLikes: 0.051423
-    id: ck14hs24fbucv0i1936c7z32v
+    followers: 12303
+    engagement: 232
+    commentsToLikes: 0.074447
+    id: ckap6ntsdgomq0i78eai70fnp
     verified: false
-    hashtags: "#gratitude, #yoga, #nike, #loveyou"
-  - username: "sirinkilavuzsevinc"
+    hashtags: "#microinfluencer, #photography, #influencer, #red"
+  - username: "fulyasenasarigul"
     fullname: >-
-      Şirin Kılavuz Sevinç
+      Sénia
     bio: >-
-      Menajer : Neslihan Uzer ➕ Yaprak Atış ................................................................ Yoga eğitmeni ve öğrencisi 📚 #şirinyoga 🕉
+      Bu profilde herhangi bir kaygı güdülmemektedir. #Yogainstructor #Model 📩 fulyassarigul@gmail.com Lawyer Founder @yogabythenature @eventmag Priv club
     location: "Turkey"
-    followers: 32088
-    engagement: 472
-    commentsToLikes: 0.024454
-    id: ck0w1g76jj6p90i19v57rvrq0
+    followers: 12476
+    engagement: 220
+    commentsToLikes: 0.018517
+    id: ckf5rsdl1dr300j23fegcln8j
     verified: false
-    hashtags: "#tb, #yaz, #zeytinligu, #arkada"
+    hashtags: "#healthyfood, #healthylife, #healthylifestyle, #shooting"
+  - username: "berivanaslansungur"
+    fullname: >-
+      Berivan Aslan Sungur
+    bio: >-
+      Yin Yoga 🌱 Kendime Annelik 🌱İşlevsel Yaklaşım 🌱Yoga Anatomisi 🌱Meditasyon 🌱 Yoga Felsefesi 🌱 Sinir sistemine somatik pratikler 🌱hapaka.com
+    location: "Turkey"
+    followers: 23068
+    engagement: 268
+    commentsToLikes: 0.043242
+    id: ck0w4q1n7ztww0i19lvz3kf2w
+    verified: false
+    hashtags: "#iremseckisi, #berivanaslansungurileyoga, #yinyoga, #yan"
+  - username: "cetincetintas"
+    fullname: >-
+      Çetin Çetintaş
+    bio: >-
+      Yoga⚡️Author 📚 Biologist 🐉 @yogakiooturkiye @yogakioodergi @kiooretreatcenter @yogakiooyayinlari •10. Kitabım Duyguların Efendisi satışta👇🏻işbirliği
+    location: "Turkey"
+    followers: 1012581
+    engagement: 156
+    commentsToLikes: 0.017638
+    id: ck0u6qx1l2ncd0i19hp9sphks
+    verified: false
+    hashtags: "#yoga, #yogakioo, #satsang, #yogakioofestival"
+  - username: "mislingoksoy"
+    fullname: >-
+      Mişlin Göksoy Türker
+    bio: >-
+      ॐ || 👁 learning, living & sharing yoga 🤍 @yogawithmishka @mishkadigitalstudio
+    location: "Turkey"
+    followers: 6975
+    engagement: 246
+    commentsToLikes: 0.021761
+    id: ck9habl8ebx6z0j78fzhdtv8s
+    verified: false
+    hashtags: "#yogini, #yoga, #love, #yogi"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Food TikTok Influencers In Seoul In 2023
+title: Top 10 Food TikTok Influencers In Seoul In 2024
 description: >-
-  Find top food TikTok influencers in Seoul in 2023. Most popular hashtags: #fyp #korea #food #asmr.
+  Find top food TikTok influencers in Seoul in 2024. Most popular hashtags: #fyp #korea #food #asmr.
 platform: TikTok
 hits: 4
-text_top: Identify the most popular TikTok accounts on inBeat.
-text_bottom: Our database aggregates 4 TikTok influencers like this in Seoul, South Korea for you to pitch.
+text_top: Identify the most popular TikTok influencers on inBeat.
+text_bottom: inBeat holds 4 TikTok influencers like this in Seoul, South Korea for you to pitch.
 profiles:
   - username: "sophiekim.korea"
     fullname: >-

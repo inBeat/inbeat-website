@@ -1,11 +1,11 @@
 ---
-title: Top 10 Divers TikTok Influencers In Poland In 2023
+title: Top 10 Divers TikTok Influencers In Poland In 2024
 description: >-
-  Find top divers TikTok influencers in Poland in 2023. Most popular hashtags: #dc #dlaciebie #fyp #foryoupage.
+  Find top divers TikTok influencers in Poland in 2024. Most popular hashtags: #dc #fyp #dlaciebie #foryoupage.
 platform: TikTok
 hits: 12
-text_top: Discover the most popular TikTok influencers on inBeat.
-text_bottom: Our database aggregates 12 TikTok influencers like this in Poland for you to pitch.
+text_top: Discover the top-rated TikTok influencers on inBeat.
+text_bottom: Our database holds 12 TikTok influencers like this in Poland for you to pitch.
 profiles:
   - username: "magdaciernicka"
     fullname: >-

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Graphic-Designers TikTok Influencers In United States In 2023
+title: Top 10 Graphic-Designers TikTok Influencers In United States In 2024
 description: >-
-  Find top graphic-designers TikTok influencers in United States in 2023. Most popular hashtags: #fyp #art #graphicdesign #cosplay.
+  Find top graphic-designers TikTok influencers in United States in 2024. Most popular hashtags: #fyp #art #graphicdesign #illustration.
 platform: TikTok
-hits: 907
-text_top: Identify the best TikTok accounts on inBeat.
-text_bottom: Our search engine holds 907 TikTok influencers like this in United States for you to pitch.
+hits: 889
+text_top: Analyze the best TikTok profiles on inBeat.
+text_bottom: Our database has 889 TikTok influencers like this in United States for you to contact.
 profiles:
   - username: "its_memageek"
     fullname: >-
@@ -54,7 +54,7 @@ profiles:
     commentsToLikes: 0.085192
     id: ckav2llyn8qqk0j23vqbjckl5
     verified: false
-    hashtags: "#art, #xxl, #micellarrewind, #fyp"
+    hashtags: "#graphicdesign, #art, #rappers, #popsmoke"
   - username: "ghosttraveler"
     fullname: >-
       Emma Nembs

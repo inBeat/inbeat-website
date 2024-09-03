@@ -1,11 +1,11 @@
 ---
-title: Top 10 Health Instagram Influencers In Ankara In 2023
+title: Top 10 Health Instagram Influencers In Ankara In 2024
 description: >-
-  Find top health Instagram influencers in Ankara in 2023. Most popular hashtags: #turkey #ankara #istanbul #izmir.
+  Find top health Instagram influencers in Ankara in 2024. Most popular hashtags: #turkey #ankara #istanbul #instagram.
 platform: Instagram
-hits: 20
+hits: 15
 text_top: Analyze the best Instagram accounts on inBeat.
-text_bottom: Our platform aggregates 20 Instagram influencers like this in Ankara, Turkey for you to pitch.
+text_bottom: Our database aggregates 15 Instagram influencers like this in Ankara, Turkey for you to work with.
 profiles:
   - username: "profdrhakanyardimci"
     fullname: >-
@@ -43,18 +43,6 @@ profiles:
     id: ck9wexe5xma1y0j787xmw17jf
     verified: false
     hashtags: "#love, #kadrajimdan, #rkiye, #nature"
-  - username: "gocebey"
-    fullname: >-
-      Batın Özen
-    bio: >-
-      Göçebe bir yolculuk🚶🏻‍♂️ Travel 🌍 Nature 🌿 Photography 📸 Göçebe tişörtleri için 👇🏻👇🏻
-    location: "Turkey"
-    followers: 15230
-    engagement: 769
-    commentsToLikes: 0.052330
-    id: ck6uaeufn35u50j71my0iy42d
-    verified: false
-    hashtags: "#backpacker, #travel, #turkey, #mountains"
   - username: "fatih_asci"
     fullname: >-
       Fatih Aşcı
@@ -67,18 +55,6 @@ profiles:
     id: ckapbcb3gzdpk0i78pwuqs5i1
     verified: false
     hashtags: "#gezi, #ultrasonic, #dan, #bas"
-  - username: "drozgurkoldas"
-    fullname: >-
-      Dr. A. Özgür Koldaş
-    bio: >-
-      Allergan/Türkiye Eğitimci Grubu üyesi #Tv8Sunucusu🎬 #çookyaşaprogramı 🎥 #medicalaesthetics #aestheticinjector CallCenter ☎️ 0 850 215 16 16
-    location: "Turkey"
-    followers: 74324
-    engagement: 23
-    commentsToLikes: 0.024440
-    id: ck6ug7pvl1ejk0j71ali6inom
-    verified: false
-    hashtags: "#skinrenewal, #tv8, #medicalaesthetic, #drozgurkoldas"
   - username: "mia_kurtuldu"
     fullname: >-
       Mia KURTULDU
@@ -114,7 +90,7 @@ profiles:
     commentsToLikes: 0.020830
     id: ck5c85sgy8tug0i113furycpo
     verified: true
-    hashtags: "#oilpainting, #day, #devrimerbilresmi, #painting"
+    hashtags: "#devrimerbilato, #bodrumbodrum, #bayram, #art"
   - username: "ucak_medikal"
     fullname: >-
       Uçak Medikal Giyim
@@ -127,4 +103,28 @@ profiles:
     id: ckaowosn79s3z0i78wvn0s8fs
     verified: false
     hashtags: "#paramedik, #indirim, #att, #cerrah"
+  - username: "__misafirimvar__"
+    fullname: >-
+      𝓑𝓾𝓻𝓬𝓾 𝓨𝓛𝓜𝓩
+    bio: >-
+      🄰🄽🄺🄰🅁🄰📍 Reklam, tanıtım, işbirliği için DM 📩 Yemek l Tarif l Sunum l Öneri 💫 2 prens 1 prenses annesi 🤴👸🤴
+    location: "Turkey"
+    followers: 105600
+    engagement: 142
+    commentsToLikes: 0.190562
+    id: ckf5qpg3ma4be0j23mp05kzgm
+    verified: false
+    hashtags: "#misafirimvarhsb, #organik, #sa, #kahvalt"
+  - username: "gezgin_ogretmen09"
+    fullname: >-
+      Gizem Pala Binici
+    bio: >-
+      Gezgin 🚲 Tasarım ✂️ Dekorasyon Fikirleri 🪴
+    location: "Turkey"
+    followers: 58567
+    engagement: 147
+    commentsToLikes: 0.084122
+    id: ck8tdlx1e3uys0j78k7lm76vv
+    verified: false
+    hashtags: "#travel, #tbt, #blogger, #justbaby"
 ---

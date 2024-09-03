@@ -1,36 +1,24 @@
 ---
-title: Top 10 Illustrators Instagram Influencers In Thailand In 2023
+title: Top 10 Illustrators Instagram Influencers In Thailand In 2024
 description: >-
-  Find top illustrators Instagram influencers in Thailand in 2023. Most popular hashtags: #illustration #digitalillustration #digitalpainting.
+  Find top illustrators Instagram influencers in Thailand in 2024. Most popular hashtags: #illustration #illustrator #art #digitalpainting.
 platform: Instagram
-hits: 13
-text_top: See the most popular Instagram profiles on inBeat.
-text_bottom: inBeat has 13 Instagram influencers like this in Thailand for you to contact.
+hits: 12
+text_top: Analyze the best Instagram accounts on inBeat.
+text_bottom: Our platform aggregates 12 Instagram influencers like this in Thailand for you to connect with.
 profiles:
   - username: "faipatthaya"
     fullname: >-
       Fai Patthaya
     bio: >-
-      Designer | Interior designer | Illustrator @a.moments.ago Contact for work via line : patthaya ติดต่องาน 062-494-9583 02-241-4472 ต่อ 6514
+      Artist | Interior designer | Illustrator Contact for work : DM only ติดต่องาน Boxx music 062-494-9583 02-241-4472 ต่อ 6514
     location: "Thailand"
-    followers: 21943
-    engagement: 235
-    commentsToLikes: 0.017297
+    followers: 23593
+    engagement: 139
+    commentsToLikes: 0.010975
     id: ck8sy6fmajvce0j78xz0wfoqi
     verified: false
-    hashtags: "#cafekitsunebangkok, #maisonkisunebangkok, #klaoluck, #longlaileather"
-  - username: "jeepjeep"
-    fullname: >-
-      Jeep Kongdechakul • จี๊ป
-    bio: >-
-      Illustrator #jeepkongdechakul Product : @jeep.kongdechakul Founder : @fac.artcentre Email: jeep.jeep.k@gmail.com Add line@ click link below 👇🏻
-    location: "Thailand"
-    followers: 32120
-    engagement: 147
-    commentsToLikes: 0.019827
-    id: ck55m4r2l37yr0i11aqpncwev
-    verified: false
-    hashtags: "#jeepkongdechakul, #orientalprincessxjeepjeep, #beautifuljourney, #orientalprincess"
+    hashtags: "#gone, #boxxmusic, #faipatthaya, #faiispace"
   - username: "singaraja_design"
     fullname: >-
       SINGARAJA | Logo Designer
@@ -115,6 +103,18 @@ profiles:
     id: ck0u954t891wt0i193m4nq06b
     verified: false
     hashtags: "#winsorandnewtonmarkers, #sketch, #gucci, #digitalfashionillustration"
+  - username: "monsieurpoppi"
+    fullname: >-
+      𝘔𝘖𝘕𝘚𝘐𝘌𝘜𝘙 𝘗𝘖𝘗𝘗𝘐 👨🏻‍🎨
+    bio: >-
+      Illustrator & graphic designer based in Brooklyn, NY Currently📍Brooklyn, NY For commission > monsieurpoppi.studio@gmail.com #monsieurpoppi
+    location: "Thailand"
+    followers: 8539
+    engagement: 350
+    commentsToLikes: 0.034040
+    id: ck0vytixx5p810i19415dqnl9
+    verified: false
+    hashtags: "#mensstyle, #studio54, #artofstyling, #summerstyle"
   - username: "taniagart"
     fullname: >-
       Tania García

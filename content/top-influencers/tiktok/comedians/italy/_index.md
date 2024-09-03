@@ -1,11 +1,11 @@
 ---
-title: Top 10 Comedians TikTok Influencers In Italy In 2023
+title: Top 10 Comedians TikTok Influencers In Italy In 2024
 description: >-
-  Find top comedians TikTok influencers in Italy in 2023. Most popular hashtags: #comedia #comedy #duetto #perte.
+  Find top comedians TikTok influencers in Italy in 2024. Most popular hashtags: #comedia #perte #duetto #comedy.
 platform: TikTok
-hits: 27
-text_top: Identify the best TikTok accounts on inBeat.
-text_bottom: Our search engine holds 27 TikTok influencers like this in Italy for you to pitch.
+hits: 26
+text_top: Analyze the most popular TikTok accounts on inBeat.
+text_bottom: Our database aggregates 26 TikTok influencers like this in Italy for you to connect with.
 profiles:
   - username: "madtrinity"
     fullname: >-
@@ -19,18 +19,6 @@ profiles:
     id: ck9nr20126l9g0j78m4fvp7ka
     verified: false
     hashtags: "#jokerface, #jokerchallenge, #funny, #brother"
-  - username: "paris_andrea_"
-    fullname: >-
-      Andrea Paris
-    bio: >-
-      Magia.... tanti sorrisi! E ANCHE UN PO’ DI LONFO ⬇️Seguitemi anche su YouTube⬇️
-    location: "Italy"
-    followers: 372000
-    engagement: 772
-    commentsToLikes: 0.015455
-    id: ck9nnob2yq3q20j78c0o3gndk
-    verified: false
-    hashtags: "#talent, #grazie, #magic, #bambini"
   - username: "yamadayoko"
     fullname: >-
       Yoko Yamada
@@ -54,7 +42,7 @@ profiles:
     commentsToLikes: 0.021768
     id: ckbl1zikqz0670j23n11ep1ty
     verified: false
-    hashtags: "#foryou, #perte, #ghesboro, #rainbowsixsiege"
+    hashtags: "#veneto, #rainbowsixsiege, #comedia, #rainbowsix"
   - username: "jhonnyhuamani84"
     fullname: >-
       Jhonny Huamani
@@ -90,7 +78,7 @@ profiles:
     commentsToLikes: 0.023255
     id: ckbb5p702vv840j23xzsq5fg9
     verified: false
-    hashtags: "#humor, #lipsync, #tiktoker, #gay"
+    hashtags: "#risas, #hombres, #tiktoker, #enclavedeja"
   - username: "lucreziabramati"
     fullname: >-
       Lucreziabramati
@@ -127,4 +115,16 @@ profiles:
     id: ckdsjdt5lmt4l0j23ppvyu22g
     verified: false
     hashtags: "#neomelodico, #ironia, #greenscreen, #duetto"
+  - username: "saadhay"
+    fullname: >-
+      Saad Hay
+    bio: >-
+      saad❤ bellizzi (sa) 2001😛
+    location: "Italy"
+    followers: 4661
+    engagement: 800
+    commentsToLikes: 0.030595
+    id: ck8kjxgypwq2a0j78z8ilvcn4
+    verified: false
+    hashtags: "#duetto, #perte, #neiperte, #funnymaroc"
 ---

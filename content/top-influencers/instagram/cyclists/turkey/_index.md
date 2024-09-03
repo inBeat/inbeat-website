@@ -1,11 +1,11 @@
 ---
-title: Top 10 Cyclists Instagram Influencers In Turkey In 2023
+title: Top 10 Cyclists Instagram Influencers In Turkey In 2024
 description: >-
-  Find top cyclists Instagram influencers in Turkey in 2023. Most popular hashtags: #cycling #bisiklet #cyclist #bike.
+  Find top cyclists Instagram influencers in Turkey in 2024. Most popular hashtags: #cycling #bisiklet #cyclist #bike.
 platform: Instagram
 hits: 11
-text_top: Discover the top-rated Instagram influencers on inBeat.
-text_bottom: Our database has 11 Instagram influencers like this in Turkey for you to contact.
+text_top: See the top-rated Instagram profiles on inBeat.
+text_bottom: Our search engine aggregates 11 Instagram influencers like this in Turkey for you to collaborate.
 profiles:
   - username: "kadir_kelleci_"
     fullname: >-
@@ -23,14 +23,14 @@ profiles:
     fullname: >-
       Fatih Topçu
     bio: >-
-      Mobilite ile Kanseri yenen Müge Daştan’In Mobilsen Özgürsün hikayesi için linke tıklayın
+      @asladurmateknoloji 5x Ironman 140.6 (PB 10:10) 1xIronman WC Nice (11:23) 10x Ironman 70.3 (PB 4:29) 1xUTMB OCC @cappadociaultratrail 63k(6:40) 🥈AG
     location: "Turkey"
-    followers: 61240
-    engagement: 2967
-    commentsToLikes: 0.611577
+    followers: 88695
+    engagement: 200
+    commentsToLikes: 0.031544
     id: ck5q0wc8s83560i11puc6emor
     verified: false
-    hashtags: "#instarun, #skyrunning, #ironman, #trek"
+    hashtags: "#instarunner, #cyclingphotos, #runnersofinstagram, #asladurma"
   - username: "yucelcakiroglu"
     fullname: >-
       Yücel Çakıroğlu
@@ -97,12 +97,12 @@ profiles:
     bio: >-
       National Team Triathlete 🇹🇷 DEU-Master of Movement and Training Sciences “Follow Your Passions”🦋
     location: "Turkey"
-    followers: 21082
-    engagement: 443
-    commentsToLikes: 0.011435
+    followers: 21802
+    engagement: 463
+    commentsToLikes: 0.014673
     id: ckaoulewf0s050i788lnlgdh6
     verified: false
-    hashtags: "#triathlonlifestyle, #triathalontraining, #triathlonlife, #swimbikerun"
+    hashtags: "#triathlontraining, #swimsuit, #triatlon, #swimwear"
   - username: "rikki.roath"
     fullname: >-
       Rikki Lee Roath

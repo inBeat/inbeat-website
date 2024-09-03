@@ -1,24 +1,36 @@
 ---
-title: Top 10 Comedians Instagram Influencers In Barcelona In 2023
+title: Top 10 Comedians Instagram Influencers In Barcelona In 2024
 description: >-
-  Find top comedians Instagram influencers in Barcelona in 2023. Most popular hashtags: #comedia #humor #love #couplegoals.
+  Find top comedians Instagram influencers in Barcelona in 2024. Most popular hashtags: #barcelona #comedia #humor #summer.
 platform: Instagram
-hits: 8
+hits: 15
 text_top: See the top-rated Instagram accounts on inBeat.
-text_bottom: Our database has 8 Instagram influencers like this in Barcelona, Spain for you to collaborate.
+text_bottom: inBeat aggregates 15 Instagram influencers like this in Barcelona, Spain for you to connect with.
 profiles:
-  - username: "paufus"
+  - username: "danirebomon"
     fullname: >-
-      Paufus
+      ᗪᗩᑎI ᖇEᗷOᒪᒪO
     bio: >-
-      Barcelona & New York Model in @newyorkmodels & @unomodels
+      
     location: "Spain"
-    followers: 53646
-    engagement: 959
-    commentsToLikes: 0.009075
-    id: ck5qbwuh7nrpw0i11ch0l45gt
+    followers: 32489
+    engagement: 408
+    commentsToLikes: 0.013077
+    id: ck5zkjdn1jl550i14rcvg4it0
     verified: false
-    hashtags: "#comedia, #humor, #universidad, #bater"
+    hashtags: "#model, #art, #paugrante, #barcelona"
+  - username: "ingrid_molist"
+    fullname: >-
+      Ingrid 🌿
+    bio: >-
+      🍭Mami dulzona de POL 💌Enamorada de mi familia 👨‍👩‍👦 🐶🐶 🌿Comparto nuestra dulce vida ▪️#lifestyle ▪️#deco▪️#maternidad▪️ 📍#barcelona
+    location: "Spain"
+    followers: 37044
+    engagement: 121
+    commentsToLikes: 0.546894
+    id: ck5hgnndh3rpq0i11uz8t3cqv
+    verified: false
+    hashtags: "#maternidadreal, #diversion, #disfrutona, #micasa"
   - username: "marcfingers"
     fullname: >-
       Marcfingers
@@ -31,6 +43,54 @@ profiles:
     id: ck5c7tf7i85wc0i112huzc7m8
     verified: false
     hashtags: "#dance, #bromas, #comedia, #shuffle"
+  - username: "lydiafairen"
+    fullname: >-
+      LYDIA FAIRÉN
+    bio: >-
+      🗽NYC / Spain 🇪🇸 . ☮️"MARTA" en 🏙 @companyelmusical (Spain 🇪🇸) . 👩‍🏫🗣 Vocal Coach . 🕷️"Miércoles" @la_familiaddams 🇨🇵"Eponine" #LesMiserables
+    location: "Spain"
+    followers: 12609
+    engagement: 753
+    commentsToLikes: 0.133914
+    id: ck5qeilze0oa40i11mrgkfyqo
+    verified: false
+    hashtags: "#espa, #teatrolara, #lallamadaelmusical, #actriz"
+  - username: "pitufollow"
+    fullname: >-
+      SERGIO TURULL
+    bio: >-
+      🦁 Atleta @adidas_es 📩 sergiopitufollow@gmail.com 💪🏼 @prozis & @naturitas.es: ‘pitufollow’ 📖 Autor #Corroporquecaminarmecansa
+    location: "Spain"
+    followers: 321520
+    engagement: 342
+    commentsToLikes: 0.043845
+    id: ck5bz45gnqevz0i11af9b59hl
+    verified: true
+    hashtags: "#runner, #corredores, #amocorrer, #kenya"
+  - username: "nattaliaweberr"
+    fullname: >-
+      Nattalia Weber 🥑 nutrición
+    bio: >-
+      🏋🏽‍♀️Entrenadora personal 👩🏻‍🎓Máster en nutrición deportiva 👩🏻‍⚕️Directora @amazonasteam_ +50 ATLETAS NATURALES 🌱 🥞DTO. prozis y protella: NATTALIA
+    location: "Spain"
+    followers: 20995
+    engagement: 218
+    commentsToLikes: 0.077930
+    id: ck8t4fkoy6lzv0j78j4ltyr7s
+    verified: false
+    hashtags: "#healthy, #fitness, #coach, #amazonasteam"
+  - username: "itziarcastro"
+    fullname: >-
+      Itziar Castro
+    bio: >-
+      📺 #VisAVis #ÉraseUnaVezPeroYaNo @netflixes #XHOXB @skyshowtimees 🎥 #Pieles #Campeones #MatarADios 📕 #ConEl❤️PorDelante @mrediciones ☎️ @bedelkatalent
+    location: "Spain"
+    followers: 399630
+    engagement: 66
+    commentsToLikes: 0.031328
+    id: ck55pu4zbbdsi0i11p1235bye
+    verified: true
+    hashtags: "#trans, #parla, #lgbtq, #rodaje"
   - username: "penos_gussi"
     fullname: >-
       ♤☆RENOS °●GuSSI☆♤🎬₩¥🎥
@@ -43,18 +103,6 @@ profiles:
     id: ckap5wg4mdg8m0i78473x4wcx
     verified: false
     hashtags: "#inspiration, #casablanca, #frases, #youtuber"
-  - username: "nattaliaweberr"
-    fullname: >-
-      Nattalia Weber 🥑 nutrición
-    bio: >-
-      Dietas y entrenos | motivación 🥞 PROZIS CUPÓN: NATTALIA 🍫 PROTELLA CUPÓN: NATTALIA Directora @amazonasteam_ 🇧🇷 viviendo en 🇪🇸 Para contratarme⬇️
-    location: "Spain"
-    followers: 20689
-    engagement: 274
-    commentsToLikes: 0.089874
-    id: ck8t4fkoy6lzv0j78j4ltyr7s
-    verified: false
-    hashtags: "#summer, #diet, #coach, #amazonasteam"
   - username: "cristinabrondo"
     fullname: >-
       Cristina Brondo
@@ -79,52 +127,4 @@ profiles:
     id: ck0vyu7fv5sre0i19m71copxm
     verified: false
     hashtags: "#escoci, #mono, #standup, #comedia"
-  - username: "lesenlovetv"
-    fullname: >-
-      MARTA + CRISTINA
-    bio: >-
-      𝙰𝚖𝚘𝚛 𝚌𝚘𝚗 𝙷𝚞𝚖𝚘𝚛 ʜᴜᴍᴏʀ ┊ ʟɪꜰᴇꜱᴛʏʟᴇ ┊ᴄᴏᴜᴘʟᴇ ┊ꜰᴏᴏᴅɪᴇ • lesenlove@thinketers.com 🎥 ᴛɪᴋ ᴛᴏᴋ ➩ +874k
-    location: "Spain"
-    followers: 46437
-    engagement: 277
-    commentsToLikes: 0.025949
-    id: ck9wfozeipujj0j78mua6yi5v
-    verified: false
-    hashtags: "#lgtb, #couplegoals, #reels, #lesbiancouple"
-  - username: "adrianverduleal"
-    fullname: >-
-      Adrián Verdú Leal
-    bio: >-
-      <<Dancer, Instructor & Choreographer>> 🔹Facebook: Adrián Verdú Dancer 🤣Tiktok: adrianverduleal ⬇️ONLINE COURSE⬇️
-    location: "Spain"
-    followers: 3706
-    engagement: 514
-    commentsToLikes: 0.139858
-    id: ck5cfb8jdmmce0i11znmopoiz
-    verified: false
-    hashtags: "#dance, #adrian, #foryoupage, #family"
-  - username: "aleotero"
-    fullname: >-
-      Alejandra Otero Ramia
-    bio: >-
-      Comediante. TikTok: @soyaleotero. Webshow: @vamosPeloaPelo. Cursos de humor @laescueladehumor ⬇️⬇️⬇️
-    location: "Spain"
-    followers: 231690
-    engagement: 467
-    commentsToLikes: 0.090142
-    id: ck14li9mqutaw0i19ypr498w9
-    verified: false
-    hashtags: "#diadelron, #parecesloco, #callatelajeta, #tbt"
-  - username: "gatoderisa"
-    fullname: >-
-      Jonathan Gato
-    bio: >-
-      Comediante de @comedycentralla Improvisador de moda de famosos Salgo en fotos con famosos pero no soy famoso Runner novato Se parte del #teamgato
-    location: "Spain"
-    followers: 42028
-    engagement: 456
-    commentsToLikes: 0.050617
-    id: ck0vy0lyt1neh0i19kgpjrjvx
-    verified: false
-    hashtags: "#sun, #comedy, #teamgato, #smile"
 ---

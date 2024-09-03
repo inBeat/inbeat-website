@@ -1,130 +1,130 @@
 ---
-title: Top 10 Music Instagram Influencers In Greece In 2023
+title: Top 10 Music Instagram Influencers In Greece In 2024
 description: >-
-  Find top music Instagram influencers in Greece in 2023. Most popular hashtags: #portrait #summer #moodoftheday.
+  Find top music Instagram influencers in Greece in 2024. Most popular hashtags: #crete #greekislands #sun.
 platform: Instagram
-hits: 171
-text_top: Identify the best Instagram accounts on inBeat.
-text_bottom: Our database has 171 Instagram influencers like this in Greece for you to connect with.
+hits: 199
+text_top: Discover the top-rated Instagram profiles on inBeat.
+text_bottom: Our platform aggregates 199 Instagram influencers like this in Greece for you to connect with.
 profiles:
-  - username: "elisavet_dovliatidou_official"
+  - username: "maraveyas"
     fullname: >-
-      Elisavet Dovliatidou 🇬🇷
+      Maraveyas
     bio: >-
-      Survivor girl 2017🤘🌴 Nomads2018 Greek model 5'11'' 15/4♈ Addicted to adventure,music🎵🎶and summer🏖🌞☀️ el2dov@gmail.com
+      Composing & performing music/Love taking pictures/Love making docs & movies/Love life! My links 👇
     location: "Greece"
-    followers: 65240
-    engagement: 521
-    commentsToLikes: 0.513624
-    id: ck0u0b0z2t4z60i197isiuwme
-    verified: false
-    hashtags: "#pregnancy, #moodoftheday, #giveaway, #pregnantbelly"
-  - username: "konstantinos.kazakos"
+    followers: 184880
+    engagement: 430
+    commentsToLikes: 0.007642
+    id: ckaozv8l8njwd0i78xxz44alb
+    verified: true
+    hashtags: "#summertour2023, #summertour2021, #anafi, #comingsoon"
+  - username: "evangelia_tsiorlida"
     fullname: >-
-      Konstantinos kazakos
+      Εvangelia Tsiorlida
     bio: >-
-      Artist #actor #theater #guitarist #music #motorbikes
+      • Journalist • Tv presenter • • Radio Producer on Music 89,2 • • Everyday at 13:00- 16:00 • • @omnibusmusic_ofc • Represented by @saltypr_agency
     location: "Greece"
-    followers: 9063
-    engagement: 1319
-    commentsToLikes: 0.018383
-    id: ck5pvdyexhegi0i113e510lde
+    followers: 54236
+    engagement: 424
+    commentsToLikes: 0.015037
+    id: ck5c5fpy33e330i119hjt6o2u
     verified: false
-    hashtags: "#opentv, #actor, #manousakis, #actorlife"
+    hashtags: "#sealovers, #sun, #mood, #blessed"
+  - username: "chris_idh"
+    fullname: >-
+      CHRIS IDH
+    bio: >-
+      📻 Music89,2 Every Sunday 20:00-21:00 Link in Bio ⬇️
+    location: "Greece"
+    followers: 21989
+    engagement: 887
+    commentsToLikes: 0.040651
+    id: ck6ti75pw05zt0j71tpp42aik
+    verified: false
+    hashtags: "#mykonos, #scorpiosmykonos, #goodvibesonly, #jeddah"
   - username: "voulgaraki_el"
     fullname: >-
-      Εleni Voulgaraki  ✨🦋
+      Εleni Voulgaraki ☆
     bio: >-
-      Monday- Friday 📻 @music89.2 • 🦝 | 07:00- 10:00 Σ/Κ 📺 @opentvgr • “Έλα Χαμογέλα”|09:45- 13:00 Journalist | Digi Girl | 💫
+      Monday- Friday 📻 @music89.2 • 🦝 | 07:00- 10:00 @ant1tv @toprwino_ant1 Journalist | Digi Girl | 💫
     location: "Greece"
-    followers: 47390
-    engagement: 1048
-    commentsToLikes: 0.007507
+    followers: 139165
+    engagement: 589
+    commentsToLikes: 0.010747
     id: ck5pveveyhjhl0i11fxl6hdd5
     verified: false
-    hashtags: "#heybuddy, #alwaysplatinum, #jowae, #skincareharmony"
-  - username: "giangideg"
+    hashtags: "#feelslikeugg, #ad, #dysonairstrait, #sunscreenvelvetspf50"
+  - username: "dpg7000"
     fullname: >-
-      Gianluca
+      dimitris giannakopoulos
     bio: >-
-      Made in Rome 🇮🇹 - I ❤️Football ⚽️ ASROMA - Music-Cinema-Travel ✈️
+      Been everywhere..done everything..doing them all a second time..with knowledge this round !👨🏻‍⚖️ #catpeople😻 #alwaystrustthelight☀️ #musicforlife🎶
     location: "Greece"
-    followers: 226143
-    engagement: 219
-    commentsToLikes: 0.017273
-    id: ckf5qz3ezavnt0j23e4g49kp8
-    verified: false
-    hashtags: "#navajo, #zante, #beach, #blueeyes"
-  - username: "feniazachariou"
-    fullname: >-
-      Fᴇɴɪᴀ Zᴀᴄʜᴀʀɪᴏᴜ ⭐
-    bio: >-
-      🎤 ꜱɪɴɢᴇʀ @heaven_music_official 🎤 @jeunespremiers_fenia ♦️ ꜱɪɴɢᴇʀ | ᴀᴄᴛʀᴇꜱꜱ | ᴘᴇʀꜰᴏʀᴍᴇʀ 👇🏼 ꜰɪɴᴅ ᴍʏ ꜱᴏɴɢ "ᴛᴀɴɢᴏ" ʜᴇʀᴇ
-    location: "Greece"
-    followers: 4443
-    engagement: 916
-    commentsToLikes: 0.071958
-    id: ck8svssb4ck7f0j786w1wnd7s
-    verified: false
-    hashtags: "#newsong, #foslive, #performers, #heavenmusic"
-  - username: "gogodelogianni"
-    fullname: >-
-      Gogo Delogianni
-    bio: >-
-      foodie ° cook ° recipe developer ° music lover ° DIME awards winner 2018 MAD about arts winner 2019 #gogodelogianni #foodloverfoodmaker Recipe link ⤵️
-    location: "Greece"
-    followers: 31703
-    engagement: 579
-    commentsToLikes: 0.005343
-    id: ck55lljyh1usa0i11v3z9inc1
-    verified: false
-    hashtags: "#gogodelogiannifeat, #ad, #lidlhellas, #sundaysbreakfast"
-  - username: "lilatrianti"
-    fullname: >-
-      𝗟𝗜𝗟𝗔
-    bio: >-
-      Artist • Singer • Songwriter 🎤 🇬🇷 new music coming soon 🌹 My latest dance challenge #1brostachallenge 🔻
-    location: "Greece"
-    followers: 27490
-    engagement: 496
-    commentsToLikes: 0.027200
-    id: ck5px2hi5ps2m0i11n1p1kztv
-    verified: false
-    hashtags: "#latino, #newera, #backstage, #style"
-  - username: "aaronmatts"
-    fullname: >-
-      aaronmatts
-    bio: >-
-      Aaron Matts. Englishman living in Paris. I make music and tour the world with Betraying The Martyrs, I love my life.
-    location: "Greece"
-    followers: 39119
-    engagement: 403
-    commentsToLikes: 0.024688
-    id: ck13d5m2s3sbm0i19ewh0y1uj
-    verified: false
-    hashtags: "#breatheinlife, #rapture, #thailand, #kohlanta"
+    followers: 542346
+    engagement: 972
+    commentsToLikes: 0.010439
+    id: ck0w3x6hmvqss0i19h056bnlr
+    verified: true
+    hashtags: "#thebestisyettocome, #onedoorclosesanotheropens, #catpeople, #thetimeisnow"
   - username: "gianaman"
     fullname: >-
       Giannis Amanatidis
     bio: >-
-      🏠 Athens, #Greece 🇬🇷 🎸 Working in music - Promo Manager @minosemi_official / @universalmusicgroup 🌙 Big world, big dreams..!! 🎶🌙
+      📍Currently in Malmö 🇬🇷🎲 #TeamGreece 🎸 Working in music - Public Relations Manager @minosemi_official / @universalmusicgroup
     location: "Greece"
-    followers: 14451
-    engagement: 599
-    commentsToLikes: 0.010352
+    followers: 14467
+    engagement: 497
+    commentsToLikes: 0.019949
     id: ck6tkyukz5o550j71blg6pw9e
     verified: false
-    hashtags: "#tb, #summer, #kimolos, #sifnos"
-  - username: "vthodos"
+    hashtags: "#bdayboy, #happy29, #thanku, #nofilter"
+  - username: "apuflorentin"
     fullname: >-
-      Vangelis
+      Apu Florentin 🧿
     bio: >-
-      Follow my makeup account @vangelisthodos Music junkie, Against Prejudice & Intolerance, Lover not a Fighter, Punk at Heart!
+      📍Mia - NYC 🇵🇾 Paraguay ✨𝘍𝘦𝘦𝘥 𝘵𝘩𝘦 𝘴𝘰𝘶𝘭. 𝘚𝘵𝘢𝘳𝘷𝘦 𝘵𝘩𝘦 𝘦𝘨𝘰.✨ Lawyer | PR l Marketing Yogui | Fitness l Health l Wellness Music lover l Wanderlust
     location: "Greece"
-    followers: 9668
-    engagement: 523
-    commentsToLikes: 0.016980
-    id: ck9wel7f4krga0j78su8do9jj
+    followers: 31097
+    engagement: 388
+    commentsToLikes: 0.077593
+    id: ckap4ha1i7de70i789mi03vmn
     verified: false
-    hashtags: "#cyclades, #holidays, #syrosisland, #syros"
+    hashtags: "#photoshoot, #greece, #buttonschallenge, #pussycatdolls"
+  - username: "toufarovapavla"
+    fullname: >-
+      Pavla Toufarová
+    bio: >-
+      💙 #myboys 🏒👶 Jakub & Jan 👶 🏒 Love my #family #work Enjoying #life #travelling #food #fashion #music #movies Brand Manager @medicomclinic
+    location: "Greece"
+    followers: 40271
+    engagement: 390
+    commentsToLikes: 0.008993
+    id: ck6u5zqy5cpee0j71zueffdj1
+    verified: false
+    hashtags: "#myboys, #vacayvibes, #abudhabi, #beachlife"
+  - username: "fanis_labropoulos"
+    fullname: >-
+      Fanis Labropoulos
+    bio: >-
+      🎙Καθημερινά 7-10 at @music89.2 🌴⬇️Νέο Video ⬇️🌴
+    location: "Greece"
+    followers: 622065
+    engagement: 343
+    commentsToLikes: 0.009104
+    id: ck15red127ije0i19crxc33u3
+    verified: false
+    hashtags: "#bignisfa, #takounavia, #kounavizion, #zozefinis"
+  - username: "fotisvallatos"
+    fullname: >-
+      Fotis Vallatos
+    bio: >-
+      World Traveler / Taste Hunter/ Co-owner @pharaohathens / Travel + Food Editor (Blue Magazine, @aegeanairlines) / Music Director @saristrafestival
+    location: "Greece"
+    followers: 31349
+    engagement: 299
+    commentsToLikes: 0.014273
+    id: ckap75xtpirhy0i78d341o95y
+    verified: false
+    hashtags: "#talisker, #ad, #madebythesea, #pleasedonotforwardtominors"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Turin In 2023
+title: Top 10 Fashion Instagram Influencers In Turin In 2024
 description: >-
-  Find top fashion Instagram influencers in Turin in 2023. Most popular hashtags: #turin #torino #igerstorino #fashion.
+  Find top fashion Instagram influencers in Turin in 2024. Most popular hashtags: #torino #turin #beauty.
 platform: Instagram
 hits: 27
 text_top: Identify the most popular Instagram profiles on inBeat.
-text_bottom: Our database aggregates 27 Instagram influencers like this in Turin, Italy for you to connect with.
+text_bottom: Our platform has 27 Instagram influencers like this in Turin, Italy for you to connect with.
 profiles:
   - username: "carola_bianco_"
     fullname: >-
@@ -19,18 +19,6 @@ profiles:
     id: ck6ufbfr2w2590j71nlmz3inb
     verified: false
     hashtags: "#girlportrait, #girl, #relaxgirl, #portraitgirl"
-  - username: "sarabello_"
-    fullname: >-
-      👠Sara🎓
-    bio: >-
-      •Torino📍 •Fashion •Bride to be💍👰🏽 •Coupon “SV616” -15% su @sheinofficial •Sara-bello96@libero.it 📩
-    location: "Italy"
-    followers: 39482
-    engagement: 234
-    commentsToLikes: 0.010812
-    id: ck0u60fc50jx70i19ka703vcc
-    verified: false
-    hashtags: "#igersitalia, #outfit, #inspiration, #zoom"
   - username: "flo.chiara"
     fullname: >-
       Floriana Chiara
@@ -79,6 +67,18 @@ profiles:
     id: ck55oyuub9fd60i11ih6j7hzh
     verified: false
     hashtags: ""
+  - username: "nicodsn"
+    fullname: >-
+      Nico Schneider Ruatta
+    bio: >-
+      Social Media Strategist, Art Director, Fashion and Wildlife Photographer between Turin and Milan. IED Graduate. Agency @interno9design
+    location: "Italy"
+    followers: 30685
+    engagement: 286
+    commentsToLikes: 0.016274
+    id: ck6txe9cbxc040j71kf61g862
+    verified: false
+    hashtags: "#lasuerte, #mfw, #milan, #fashionweek"
   - username: "daniela_roncarolo"
     fullname: >-
       Dany ✨ Make-up Artist
@@ -103,28 +103,28 @@ profiles:
     id: ck13brp6awuj40i19uxzhcfg4
     verified: false
     hashtags: "#sheisnotlost, #parisienne, #uoonyou, #blondesandcookies"
-  - username: "nicodsn"
+  - username: "giuse_laguardia"
     fullname: >-
-      Nico Schneider Ruatta
+      Giuseppe Laguardia
     bio: >-
-      Social Media Strategist, Art Director, Fashion and Wildlife Photographer between Turin and Milan. IED Graduate.
+      MENS’FASHION / TRAVEL / DADDY @novamen Ambassador @grams28 Ambassador infogiuselaguardia@gmail.com Turin, IT
     location: "Italy"
-    followers: 32483
-    engagement: 132
-    commentsToLikes: 0.019018
-    id: ck6txe9cbxc040j71kf61g862
+    followers: 1230259
+    engagement: 148
+    commentsToLikes: 0.030880
+    id: ck0w73s7mbm150i19o5w1emuh
     verified: false
-    hashtags: "#mfw, #fw2021, #milan, #lasuerte"
-  - username: "ely_2"
+    hashtags: "#gentleman, #matching, #inspiration, #trending"
+  - username: "ireneflame"
     fullname: >-
-      Elisa Chiara ♡
+      𝕴𝖗𝖊𝖓𝖊 𝕲𝖆𝖒𝖆𝖗𝖗𝖆 🔥
     bio: >-
-      📍Italian girl 🇮🇹 Based in Turin Juventus lover 🏳️🏴 @juventus Nessun colore avrà tinte più forti del bianco e nero #adp10 📩 ely.chiara2@gmail.com
+      Turin, Italy The only real flame
     location: "Italy"
-    followers: 35500
-    engagement: 858
-    commentsToLikes: 0.131365
-    id: ck9hb01teesqn0j78wigu0eq5
+    followers: 14445
+    engagement: 444
+    commentsToLikes: 0.036675
+    id: ck9wf7ukbnla40j78hqa6kz44
     verified: false
-    hashtags: "#calcio, #bestjuvefan, #juventusgirl, #curvygirl"
+    hashtags: "#followforlike, #curvywoman, #curvyconfidence, #curvygirlfashion"
 ---

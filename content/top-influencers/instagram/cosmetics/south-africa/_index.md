@@ -1,12 +1,36 @@
 ---
-title: Top 10 Cosmetics Instagram Influencers In South Africa In 2023
+title: Top 10 Cosmetics Instagram Influencers In South Africa In 2024
 description: >-
-  Find top cosmetics Instagram influencers in South Africa in 2023. Most popular hashtags: #makeup #beauty #skincare #ootd.
+  Find top cosmetics Instagram influencers in South Africa in 2024. Most popular hashtags: #ad #sponsored #style.
 platform: Instagram
-hits: 21
-text_top: Identify the top-rated Instagram influencers on inBeat.
-text_bottom: inBeat holds 21 Instagram influencers like this in South Africa for you to pitch.
+hits: 34
+text_top: Identify the best Instagram accounts on inBeat.
+text_bottom: Our database has 34 Instagram influencers like this in South Africa for you to connect with.
 profiles:
+  - username: "gorgeous_mbali"
+    fullname: >-
+      Gorgeous Mbali
+    bio: >-
+      - Jesus Girl 1st - Multi Award winning entrepreneur🏆 - CEO @hermosa_flor_cosmetics - @brandsouthafrica PYP ambassador - Ex Military turned Beauty Boss
+    location: "South Africa"
+    followers: 648586
+    engagement: 197
+    commentsToLikes: 0.011082
+    id: ck15tm7ieirr50i194fmwdp4g
+    verified: false
+    hashtags: "#sheownshersuccess, #skincare, #hyperpigmentation"
+  - username: "mohale_77"
+    fullname: >-
+      Mohale Motaung
+    bio: >-
+      Award winning male personality 🥇 Founder & CEO: @Fusioncocktail_lounge @elahom_cosmetics Face of @laagerrooibostea Bookings: Neo@allinn.co.za
+    location: "South Africa"
+    followers: 1248770
+    engagement: 29
+    commentsToLikes: 2.038190
+    id: ck0w2eqyinzo50i1993dy4jdo
+    verified: true
+    hashtags: "#ad, #siyavannasa, #sponsored, #brandambassadorforhealth"
   - username: "dramiraogunleye"
     fullname: >-
       Doctor Amira
@@ -31,100 +55,76 @@ profiles:
     id: ck0tx4e6ohv2t0i19ze7vedx4
     verified: false
     hashtags: "#melaninmakeupdaily, #makeupforwoc, #melaninqueen, #eyeshadowlooks"
-  - username: "nicole.gibbons"
+  - username: "ifathindes"
     fullname: >-
-      NICOLE | Beauty & Lifestyle
+      Ifat Hindes
     bio: >-
-      Lifestyle & Beauty creator 🦋 Pr/Collabs : Nicolegibbonsbusiness@gmail.com⠀ LLB LAW 👩‍🎓 @tiaan10_stander 🤍⠀ ⠀ ⠀
+      𝘈ward Winning Entrepreneur⁣ 🌟⁣ Photographer 📸⁣ @ikhphotography Epilepsy & Health Awareness 💜⁣ 💌 DM for COLLABS ⁣ Nourish Your Soul 🥰
     location: "South Africa"
-    followers: 12949
-    engagement: 865
-    commentsToLikes: 0.358580
-    id: ck9wfav3fo0v00j782q0ik9xq
+    followers: 28471
+    engagement: 135
+    commentsToLikes: 0.021284
+    id: ck0vv12s4n1uv0i19sjhh4v8i
     verified: false
-    hashtags: "#instadaily, #beauty, #quotes, #lookbook"
+    hashtags: "#hair, #instagood, #cute, #hongkong"
   - username: "bridge5m"
     fullname: >-
-      Bridget Marshall
+      Bridget de Kock (Marshall)
     bio: >-
-      Travel | Lifestyle | Foodie | Fashion 🌍 The World is My Backyard ✉️ bridgemarshall@gmail.com 👩🏼‍💻 Owner - @travelb_comeflywithme
+      Luxury Travel Advisor | Content Creator 📧 bridgemarshall@gmail.com 📍CPT 🔜 🌎 👩🏼‍💻 @travelb_comeflywithme 💍 @kobusdekock15
     location: "South Africa"
-    followers: 40798
-    engagement: 348
-    commentsToLikes: 0.018808
+    followers: 44178
+    engagement: 108
+    commentsToLikes: 0.100286
     id: ckapa21m1uebh0i78996apdj4
     verified: false
-    hashtags: "#food, #holiday, #photooftheday, #smile"
-  - username: "katlego_tefu"
+    hashtags: "#ratherbeinmauritius, #italytravel, #travelmauritius, #beachcomberlife"
+  - username: "yolzchannel"
     fullname: >-
-      Katlego Tefu
+      Yolenda Jawe
     bio: >-
-      Fashion, Beauty, Hair & Everything Else! Collabos : kt@mansamusabrands.co.za Styling : ktefu@yahoo.com New videos weekly 👇🏽
+      Award Winning YouTuber | Big Sis Yolz 🤍 📍Joburg 🇿🇦 Travel🌍 @thejawestravel | MD @yolzbeauty International Public Speaker | 📧yolzchannel@gmail.com
     location: "South Africa"
-    followers: 16874
-    engagement: 394
-    commentsToLikes: 0.033650
-    id: ck6u4o0ti4tlh0j716qfc7snm
+    followers: 125653
+    engagement: 567
+    commentsToLikes: 0.022134
+    id: ck8t07zbpr4wj0j78t5pa8cot
     verified: false
-    hashtags: "#thespot, #styleinspiration, #brunchoutfit, #rotd"
-  - username: "charlixboi"
+    hashtags: "#wholesomesunday, #realmagic, #makotiyolz, #100ksubscribers"
+  - username: "lavanyawiles"
     fullname: >-
-      Charli X Boi
+      Lavanya Wiles
     bio: >-
-      Hello, Hi 👋 I’m Charli and this is my journal filled with #beauty #grooming & #selfcare 🦄 @clicks_sa #clicksbeautysquad 🎬 Director @nimblemediaza
+      〽️Unprofessional MUA 〽️Beauty • Skin • Art • Life 〽️Cape Town, South Africa 🇿🇦
     location: "South Africa"
-    followers: 17123
-    engagement: 63
-    commentsToLikes: 0.170458
-    id: ck5c261ajwlr00i11zda4ydsm
+    followers: 149968
+    engagement: 5258
+    commentsToLikes: 0.014577
+    id: cl48q8xlkm31u0i23f3n8nyh0
     verified: false
-    hashtags: "#makeuplover, #makeuplovers, #face, #sunprotection"
-  - username: "mspaulabee"
+    hashtags: "#creativemakeup, #editorialmakeup, #liquidlatexmakeup, #eyeliner"
+  - username: "azeegreen"
     fullname: >-
-      Ms Paula Bee
+      Az’emahle🦋
     bio: >-
-      Curly-Headed Brown Girl 🦋🇿🇦 Daughter of the King 🕊 Married to @lowdl 👰🏽🤵🏽 TikTok: @mspaulabeee
+      Model 1/2 @talentlesstakes podcast Fashion, Beauty and Health& Wellness. Living Intentionally L&A🤍
     location: "South Africa"
-    followers: 51674
-    engagement: 479
-    commentsToLikes: 0.021501
-    id: ck5hkoywvit0w0i11ghe3b4ww
+    followers: 52053
+    engagement: 408
+    commentsToLikes: 0.023660
+    id: ck6to4jrmc2710j71o2vejsbb
     verified: false
-    hashtags: "#countryroadstyle, #hmsouthafrica, #hmxme, #valentinesday"
-  - username: "merandapillay"
+    hashtags: "#sponsored, #niveasouthafrica, #oilyskin, #mycottonon"
+  - username: "vongai.mapho"
     fullname: >-
-      Meranda Pillay
+      Vongai Mapho
     bio: >-
-      Welcome to a glimpse of my creations 📎 DIY, plant loving, beauty, creative 📍 Cape Town 🇿🇦 🎬 YouTube: Latest video ⬇️
+      •Inspiring others by sharing my experiences •Clothing Brand - @dream.apparell •Home improvement - @byvongai_home
     location: "South Africa"
-    followers: 8506
-    engagement: 433
-    commentsToLikes: 0.238992
-    id: ck6to4q7pc2yq0j718rh58n8p
+    followers: 160562
+    engagement: 294
+    commentsToLikes: 0.029360
+    id: ck5ccz9yzi9gt0i110vnkuwob
     verified: false
-    hashtags: "#nails, #blondes, #tones, #neutrals"
-  - username: "sayladean"
-    fullname: >-
-      S A Y L A 🇿🇦
-    bio: >-
-      Pro Makeup Artist, Beauty Content Creator & Youtuber sayladean77@gmail.com @blaze_thompson98 💍
-    location: "South Africa"
-    followers: 47453
-    engagement: 400
-    commentsToLikes: 0.036568
-    id: ck0u21mp5ylih0i19wt4gk04m
-    verified: false
-    hashtags: "#superlustrousglassshine, #ghdunplugged, #kissmyglass, #toni"
-  - username: "gillian_seetso"
-    fullname: >-
-      Gillian | Hair and Beauty
-    bio: >-
-      •Top 4: #thebachelorsa S2 •Ambassador: @vision_works_dainfern •Model @modelhqsa • @livetalentagency •PR: seetso.gillian@gmail.com YouTube/Tiktok 👇🏾
-    location: "South Africa"
-    followers: 6827
-    engagement: 225
-    commentsToLikes: 0.203074
-    id: ckaor0ry1l7ye0i78r6didvp4
-    verified: false
-    hashtags: "#southafricanbeautyblogger, #gillianwithag, #skininfluencer, #southafricanyoutuber"
+    hashtags: "#hmsouthafrica, #catricecosmetics, #vongaixcatrice, #itsnotmagicitsmakeup"
 ---

@@ -1,24 +1,48 @@
 ---
-title: Top 10 Photographers Instagram Influencers In Mumbai In 2023
+title: Top 10 Photographers Instagram Influencers In Mumbai In 2024
 description: >-
-  Find top photographers Instagram influencers in Mumbai in 2023. Most popular hashtags: #photographers #mumbai #photography #maharashtra.
+  Find top photographers Instagram influencers in Mumbai in 2024. Most popular hashtags: #photography #mumbai #instagram #photographers.
 platform: Instagram
-hits: 592
-text_top: Analyze the best Instagram influencers on inBeat.
-text_bottom: Our platform holds 592 Instagram influencers like this in Mumbai, India for you to pitch.
+hits: 710
+text_top: Identify the best Instagram influencers on inBeat.
+text_bottom: Our database holds 710 Instagram influencers like this in Mumbai, India for you to collaborate.
 profiles:
+  - username: "sadak_chap"
+    fullname: >-
+      PRATIK TALREJA | INDIA 🇮🇳
+    bio: >-
+      📸 Content Creator 🌍 Traveller 🎤 Ted-X Speaker Photographer | Mumbai 📍 #MaiBhiSadakChap
+    location: "India"
+    followers: 171898
+    engagement: 315
+    commentsToLikes: 0.016894
+    id: ck0vvlljmpnop0i19yt1nppub
+    verified: false
+    hashtags: "#instagram, #explore, #reelsindia, #thingstodoinindia"
   - username: "rahuljhangiani"
     fullname: >-
       Rahul Jhangiani
     bio: >-
       Fashion and Celebrity Photographer Mumbai @tc1_ems
     location: "India"
-    followers: 196780
-    engagement: 459
-    commentsToLikes: 0.010512
+    followers: 430900
+    engagement: 199
+    commentsToLikes: 0.012958
     id: ck0w3gyr7tcsb0i19wpzqanix
     verified: true
-    hashtags: "#shotoniphone, #travel, #ananyapandey, #abhishekbachchan"
+    hashtags: "#india, #cricket, #ipl, #sunilsethi"
+  - username: "i_ivin"
+    fullname: >-
+      Ivin Antony
+    bio: >-
+      Photographer @storiesbyjosephradhik Currently Screaming Love You Zindagi as I type this! Travel , Create , Learn , Evolve 25
+    location: "India"
+    followers: 34391
+    engagement: 609
+    commentsToLikes: 0.025378
+    id: ck0vzhym196yy0i19e0y0hda2
+    verified: false
+    hashtags: "#oph, #tamilnadu, #travel, #beautifuldestinations"
   - username: "the_neha_joshi"
     fullname: >-
       Neha Ila Joshi
@@ -31,30 +55,6 @@ profiles:
     id: ck5bxlxz7nz2x0i11d55ttj2b
     verified: false
     hashtags: "#photographers, #mumbai, #modelinmumbai, #portrait"
-  - username: "__baby_girl______"
-    fullname: >-
-      vaibhu mhatre😇
-    bio: >-
-      BROWNGIRL👸 DM FOR PAID PROMOTIONS & COLLABS💌 Follow➡️ @vm_makeovers__
-    location: "India"
-    followers: 61317
-    engagement: 573
-    commentsToLikes: 0.012842
-    id: ck5heqhicu9m50i11ez4w5p06
-    verified: false
-    hashtags: "#sareelove, #marathistatus, #makeupbyme, #photogram"
-  - username: "mr.dreamcatcher_"
-    fullname: >-
-      Shreyas Kadam |India 🇮🇳
-    bio: >-
-      Catching the Dreams. #mr_dreamcatcher Photographer | Learner |Traveler For Collaboration 📩 shrey.artworld01@gmail.com
-    location: "India"
-    followers: 28567
-    engagement: 327
-    commentsToLikes: 0.044901
-    id: ck13801izdunt0i19sj50vm0q
-    verified: false
-    hashtags: "#hellofrom, #photographers, #mumbai, #kidsofinstagram"
   - username: "my_mumbai_my_dream"
     fullname: >-
       🌏 My Mumbai My Dream 🌏
@@ -91,18 +91,18 @@ profiles:
     id: ck8t78e3pfxrl0j78v9ipgun1
     verified: false
     hashtags: "#houseofstreetwear, #bangaloreinfluencer, #bangalore, #mensstyleguide"
-  - username: "pixelpune"
+  - username: "himanshuchwdhary"
     fullname: >-
-      PixelPune Photography 📸
+      Himanshu Choudhary
     bio: >-
-      PHOTOS BY @devendra.one ⠀ 📸 CELEBRITY | FASHION | PORTFOLIO | LIFESTYLE | WEDDING - PRE-WEDDING & MORE 📍 Pune 🇮🇳 📩 info@pixelpune.com
+      🎭 MUMBAI 📍
     location: "India"
-    followers: 32777
-    engagement: 434
-    commentsToLikes: 0.016185
-    id: ck0ucu3hvhn8l0i19buqqemce
+    followers: 68198
+    engagement: 129
+    commentsToLikes: 0.036791
+    id: ckapaz00ky04c0i78xsuuaxro
     verified: false
-    hashtags: "#celebritynews, #actress, #marathimulgi, #indian"
+    hashtags: "#mtv, #modelmakers, #like, #smile"
   - username: "photokatamasha"
     fullname: >-
       PHOTOGRAPHER /MUMBAI /INDIA
@@ -115,16 +115,16 @@ profiles:
     id: ck0w5p99p4rxp0i19pkyapnmk
     verified: false
     hashtags: "#shutterhubindia, #streetphotographyindia, #photokatamasha, #mymumbai"
-  - username: "abys.angle"
+  - username: "meinbhitraveller"
     fullname: >-
-      Aby's Angle
+      ＭＥＧＨＮＡＴＨ  ＭＡＩＴＹ
     bio: >-
-      Abhijeet Kank - Photographer 📷 Mumbai 📍 Arsenal ♥️ Sony A6400 📸 For Paid Collaboration 💌 : abysangleblog@gmail.com or DM
+      📸 Freelancer | Hyperlapse Creator 🌆Cinematographer | Travel Photographer 📍Mumbai | India🇮🇳 | Work 👇 📧meinbhitraveller@gmail.com
     location: "India"
-    followers: 2588
-    engagement: 1022
-    commentsToLikes: 0.118637
-    id: ck6tr8s9hxl740j71e750e07c
+    followers: 68467
+    engagement: 719
+    commentsToLikes: 0.042783
+    id: ck5c79opo73sw0i11zby0s9cp
     verified: false
-    hashtags: "#peachymagazine, #ourportraitsdays, #fashioneditorial, #themanpr0ject"
+    hashtags: "#realmecreatorscamp, #photography, #shotonphone, #shotoniphone"
 ---

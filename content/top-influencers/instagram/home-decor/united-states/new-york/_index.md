@@ -1,11 +1,11 @@
 ---
-title: Top 10 Home Decor Instagram Influencers In New York In 2023
+title: Top 10 Home Decor Instagram Influencers In New York In 2024
 description: >-
-  Find top home decor Instagram influencers in New York in 2023. Most popular hashtags: #homedecor #interiordesign #newyork #fashion.
+  Find top home decor Instagram influencers in New York in 2024. Most popular hashtags: #interiordesign #homedecor #architecture #newyork.
 platform: Instagram
-hits: 173
-text_top: Identify the most popular Instagram profiles on inBeat.
-text_bottom: Our database aggregates 173 Instagram influencers like this in New York, United States for you to pitch.
+hits: 235
+text_top: See the most popular Instagram influencers on inBeat.
+text_bottom: Our search engine holds 235 Instagram influencers like this in New York, United States for you to connect with.
 profiles:
   - username: "jentalbotdesign"
     fullname: >-
@@ -19,30 +19,42 @@ profiles:
     id: ckaoqrxz0k3gu0i7807hbcefm
     verified: false
     hashtags: "#elledecor, #dominomagazine, #modernliving, #masterbedroomdecor"
-  - username: "chens_plate"
+  - username: "brynn_whitfield"
     fullname: >-
-      Chen Kirshenbaum
+      B R Y N N   W H I T F I E L D
     bio: >-
-      ✰ NYC gal trying her best to live a balanced life ✰ self love + body positivity ✰ new YouTube videos every Wed ✌🏻 ↓ recipes, links, work with me!
+      Corporate Comms & Marketing Consultant | RHONY Season 15 🍎 on @bravotv & @peacock |
     location: "United States"
-    followers: 49892
-    engagement: 191
-    commentsToLikes: 0.066147
-    id: ck0ub2or0dncy0i190ugnvk2o
+    followers: 536979
+    engagement: 427
+    commentsToLikes: 0.013593
+    id: clmjcckpnjyy80j085pj45241
     verified: false
-    hashtags: "#dairyfreerecipes, #dairyfree, #glutenfreedairyfree, #foodgasm"
-  - username: "deunivory"
+    hashtags: "#realhousewivesofnewyorkcity, #interiors, #bravotv, #therealhousewives"
+  - username: "feedbacknation"
     fullname: >-
-      deun (dee • yawn) ivory
+      City | Travel | Vacation spot
     bio: >-
-      using design, art + wellness to reimagine a better world for black women. los angeles📍 founder: @thebodyahomeforlove aesthetics • art • activism
+      Awesome touristic and scenic spots 🌉 Travel goals and destination in one place ✈️ Follow us to stay updated on our contents 🌴
     location: "United States"
-    followers: 81462
-    engagement: 416
-    commentsToLikes: 0.029121
-    id: ck0w5bddg2tn70i197lvpk2rp
+    followers: 34665
+    engagement: 48
+    commentsToLikes: 0.014921
+    id: ck0tuegzl6uh30i19sr5v4fk9
     verified: false
-    hashtags: "#vsco, #art, #minimal, #affirmation"
+    hashtags: "#ig, #coupletravel, #iloveny, #topnewyorkphoto"
+  - username: "glamdapper"
+    fullname: >-
+      Rosanna Javier
+    bio: >-
+      Rosanna & Winston | family lifestyle creators Mom & Dad sharing style, parenting and marriage life 📍New York City | PA Collabs: info@glamdapper.com
+    location: "United States"
+    followers: 490648
+    engagement: 137
+    commentsToLikes: 0.005262
+    id: ck0vvoynpq3t10i19q0igdbst
+    verified: false
+    hashtags: "#glamdapperhome, #glamdapper, #dubai, #glamdapperstyle"
   - username: "michaelreynoldsnyc"
     fullname: >-
       Michael Reynolds
@@ -67,64 +79,52 @@ profiles:
     id: ckaox650cby9e0i78hdgd5gud
     verified: false
     hashtags: "#boxbraids, #blacktravelclub, #autumn, #socialdistancing"
-  - username: "monica_ant"
+  - username: "timothygoodman"
     fullname: >-
-      🦋 M O N I C A
+      Timothy Goodman
     bio: >-
-      ▪️Fashion ▪️Travel ▪️Lifestyle ▪️DM for Collabs
+      NYC artist, designer, author Gallery art rep @richardtaittingergallery Co-creator @peopleofcraftsmanship My new graphic memoir!👇
     location: "United States"
-    followers: 35649
-    engagement: 373
-    commentsToLikes: 0.406755
-    id: ckap5fr4gbh940i78h4k0hsmj
-    verified: false
-    hashtags: "#streetstylelook, #dressoftheday, #giveawaygr, #stylishlook"
-  - username: "jasonskeldon"
-    fullname: >-
-      JḀṠṏṆ ṠḲḕḶḊṏṆ. ( Skel Art )
-    bio: >-
-      📍 Tampa, FL (USA) 📍Miami ,FL 🎨 ARTIST 👦 Clients include: Michael Jordan,Kevin Hart , Taylor swift, Hard Rock Casino, Nike ✏️ Email: skelart@yahoo.com
-    location: "United States"
-    followers: 68181
-    engagement: 364
-    commentsToLikes: 0.016999
-    id: ck6tru9sq14dv0j71c6mi438j
+    followers: 200971
+    engagement: 211
+    commentsToLikes: 0.084985
+    id: ck55orct38yn00i119c4ic8s2
     verified: true
-    hashtags: "#skelart, #popart, #contemporaryart, #modernart"
-  - username: "derekzagami"
+    hashtags: "#love, #quotes, #timothygoodmanmurals, #giveaway"
+  - username: "mymodern.interior"
     fullname: >-
-      Derek Zagami
+      Interior Design 🎨
     bio: >-
-      On-Air🎤🎥📺📱On-The Web #RealiTea & #LuxeLifeWithDerekZ 📺 @necntv @nbclx Latest Videos
+      ⊰ Daily interior design & new projects 🌎 ⊰ @Houses media partner 🥇 Owned By @Nima_Keylead ⭐️
     location: "United States"
-    followers: 18628
-    engagement: 168
-    commentsToLikes: 0.029637
-    id: ck14l6gqtt3jl0i195u4vazq0
+    followers: 1142939
+    engagement: 15
+    commentsToLikes: 0.011143
+    id: ck6tvljjhmw580j713xldzt8u
     verified: false
-    hashtags: "#tvhost, #host, #necn, #entertainment"
-  - username: "malene.barnett"
+    hashtags: "#homefurniture, #property, #villa, #homeinteriors"
+  - username: "ozechovoy"
     fullname: >-
-      Malene Barnett
+      Oz Zechovoy
     bio: >-
-      Redefining what it means to be Black and female in the contemporary art world.Together we rise✊🏿 Partner + Invest in @badguild
+      Designer x Builder Cars X Motos X Interiors X Carpentry Tiny homes 🏠 @m.o.v.o_
     location: "United States"
-    followers: 51450
-    engagement: 140
-    commentsToLikes: 0.090207
-    id: ck55ofmpw89es0i1179h65v2t
+    followers: 60896
+    engagement: 19123
+    commentsToLikes: 0.027099
+    id: ckaotj0cqw4ci0i78c378vmly
     verified: false
-    hashtags: "#functionalceramics, #terracotta, #blackempowerment, #ceramicsofinstagram"
-  - username: "cullmankravis"
+    hashtags: "#ducatista, #landroverdefender, #interiordesign, #panama"
+  - username: "marisalynsheldon"
     fullname: >-
-      Cullman & Kravis Associates
+      Marisa | Wife | Mom | Content Creator
     bio: >-
-      Interior Design Firm | AD 100 Hall of Fame • Elle Decor A list Transcending trends and traditions since '84.
+      Sheldon Family♡ ✿ mom life | lifestyle | family ✿ collabs: lincrowcollabs@gmail.com
     location: "United States"
-    followers: 42095
-    engagement: 132
-    commentsToLikes: 0.021971
-    id: ck5c01d0ps8y80i11us6g3h75
+    followers: 10195
+    engagement: 269
+    commentsToLikes: 0.118513
+    id: cl5huuq5o5to80i233ox6g4y4
     verified: false
-    hashtags: "#bedroom, #interiors, #diningroom, #design"
+    hashtags: "#legoland, #summertime, #amusementpark, #ad"
 ---

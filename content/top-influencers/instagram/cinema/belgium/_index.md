@@ -1,130 +1,130 @@
 ---
-title: Top 10 Cinema Instagram Influencers In Belgium in 2023
+title: Top 10 Cinema Instagram Influencers In Belgium In 2024
 description: >-
-  Find top cinema Instagram influencers in Belgium in 2023. Most popular hashtags: #belgium #art #brussels #belgique.
+  Find top cinema Instagram influencers in Belgium in 2024. Most popular hashtags: #summer #brussels #france #photography.
 platform: Instagram
-hits: 11
-text_top: See the most popular Instagram accounts on inBeat.
-text_bottom: Our database aggregates 11 Instagram influencers like this in Belgium for you to work with.
+hits: 14
+text_top: See the best Instagram influencers on inBeat.
+text_bottom: Our database aggregates 14 Instagram influencers like this in Belgium for you to connect with.
 profiles:
   - username: "rodnaima"
     fullname: >-
       Naïma Rodric
     bio: >-
-      Belgian Actress 🎬 Agent Agitateur - Cyril Cannizzo Cinéma / Soon • Music Hole 🎥
+      Belgian Actress 🪐 🎬 Agent Agitateur - Cyril Cannizzo Cinéma / Soon • Music Hole 🎥
     location: "Belgium"
-    followers: 11628
-    engagement: 722
-    commentsToLikes: 0.027230
+    followers: 12405
+    engagement: 712
+    commentsToLikes: 0.043191
     id: ckap3ot603wmv0i78yoz8ogru
     verified: false
-    hashtags: "#belgium, #gobletsreutilisables, #waterfalls"
-  - username: "charmless.charmander"
+    hashtags: "#egotrip"
+  - username: "sepidehfarvardin"
     fullname: >-
-      Charlotte 🇧🇪
+      Sepideh | سپیده
     bio: >-
-      ~ chai ☕ ~ travel 🚃 ~ nature 🌸 ~ animals 🐾 Lived in Sweden🇸🇪, India🇮🇳, Korea🇰🇷, Taiwan🇹🇼
+      • Photographer based in Brussels • Cityscape, Architecture, Portrait, Design & Art • For commissions & art prints: hi@sepidehfarvardin.com
     location: "Belgium"
-    followers: 17386
-    engagement: 867
-    commentsToLikes: 0.031201
-    id: ck13aizjlqlrr0i19x4fab1pn
+    followers: 27371
+    engagement: 221
+    commentsToLikes: 0.018150
+    id: ck5hilxqee7dn0i116bl6ibi5
     verified: false
-    hashtags: "#taiwan, #taipei, #travelgram, #belgium"
-  - username: "tellementlui"
+    hashtags: "#thefilmgang, #disparafilm, #thinkverylittle, #35mmfilm"
+  - username: "eloisebolly"
     fullname: >-
-      Tellementlui
+      Eloïse | 🤍
     bio: >-
-      (LUI)GI,Men's Fashion blogger Since 2012 🇧🇪> #belgianinfluencer 🖋> collaboration: Tellementlui@gmail.com #FOREVERYOUNG
+      Lifestyle | Fashion Currently in 🇪🇸
     location: "Belgium"
-    followers: 67829
-    engagement: 175
-    commentsToLikes: 0.023378
-    id: ck0tt0plz0niw0i19ophwkvva
+    followers: 20077
+    engagement: 883
+    commentsToLikes: 0.575189
+    id: cloxoheqg05xj0j08bqi72tyz
     verified: false
-    hashtags: "#lv, #vuitton, #sneakersaddict, #zebsquad"
-  - username: "aveline_stokart"
+    hashtags: "#nuitinsolite, #blond, #belgianinfluencer, #madrid"
+  - username: "sixobject"
     fullname: >-
-      A V E L I N E   S T O K A R T
+      NOVA W.
     bio: >-
-      Comic artist | Character designer Belgian | ✨👽✨ | Universe lover - www.avelinestokart.com - tutorial ⬇️
+      BA Photography MA Cultural Studies creation + curation 🄾🄱🄹🄴🄲🅃🅂 of my affection & fascination 🤍🪐🍸🐩 ⠀ ✈︎: 37 countries visited
     location: "Belgium"
-    followers: 296382
-    engagement: 1239
-    commentsToLikes: 0.005244
-    id: ck13bh0fjvcx20i19dvxmhc1r
+    followers: 11545
+    engagement: 1328
+    commentsToLikes: 0.225513
+    id: cld8ldtjgdfpj0j08pp9d6g20
     verified: false
-    hashtags: "#characterdesign, #best, #animationart, #comicbookartist"
-  - username: "valescalippens"
+    hashtags: "#love, #aestheticedits, #gemstones, #brusselsexhibition"
+  - username: "funny_love_nanou"
     fullname: >-
-      VALESCA | MOM | LIFESTYLEBLOG
+      Nadia Pirard🔆 | 𝐋𝐢𝐟𝐞𝐬𝐭𝐲𝐥𝐞
     bio: >-
-      📍 Belgium, 36 👩‍👧‍👧 Juliette & Charlotte 🎓 Criminologist 🤒 Fibromyalgia 💌 vallippens@gmail.com
+      ⇢ 𝐅𝐚𝐦𝐢𝐥𝐲 𝐎𝐟 5 𝐟𝐫𝐨𝐦 𝐁𝐞𝐥𝐠𝐢𝐮𝐦 ♡ 𝐑𝐞𝐚𝐥 𝐦𝐨𝐦𝐥𝐢𝐟𝐞 ✸ 𝐆𝐢𝐯𝐞𝐘𝐨𝐮 𝐎𝐧𝐥𝐲 𝐆𝐨𝐨𝐝𝐕𝐢𝐛𝐞𝐬 ▧ @bonjour_maison_k BE 0781.683.111
     location: "Belgium"
-    followers: 10523
-    engagement: 391
-    commentsToLikes: 0.286971
-    id: ck14gs9s26rra0i19yibdt2r0
+    followers: 10810
+    engagement: 352
+    commentsToLikes: 0.096417
+    id: ck8swosm4er1p0j783h0tmnqb
     verified: false
-    hashtags: "#trotsemama, #meisjesmama, #fieremama, #tandenpoetschallenge"
-  - username: "mikaelyanhayk"
+    hashtags: "#mamanbelge, #makeitanoccasion, #jbcfamily, #photodefamille"
+  - username: "deriddersven"
     fullname: >-
-      Hayk Mikaelyan |Հայկ Միքաելյան
+      Sven De Ridder
     bio: >-
-      📽 Content creator from Belgium🇧🇪 27 y/o Armenian🇦🇲 living in Liège
+      Sven De Ridder ® official. 🎭🎞🎬Actor/Writer/Director & father of 3 #svenderidder @svenderiddercompany
     location: "Belgium"
-    followers: 8548
-    engagement: 431
-    commentsToLikes: 0.067327
-    id: ck0w38vcys63f0i19zfqvx7ui
+    followers: 96682
+    engagement: 246
+    commentsToLikes: 0.022136
+    id: ck5zv0ut43dzg0i14l4y512x6
     verified: false
-    hashtags: "#moody, #drawing, #belgianphotographer, #architecture"
-  - username: "mrs.anniemation"
+    hashtags: "#svenderiddercompany, #rip, #descoutsforever, #svensclassicmovies"
+  - username: "nooztech"
     fullname: >-
-      Mrs. Annie Mation
+      Nori Ozawa
     bio: >-
-      Art x Illustration Belgian 🇧🇪 P . O . P . C . U . L . T . U . R . E Commissionstatus: CLOSED 🍿📽💀🤡🎨🍕🍣🍺
+      ◼️ Réalisateur | Tech Enthousiaste | YouTuber ◼️ nooztech@gmail.com
     location: "Belgium"
-    followers: 14537
-    engagement: 605
-    commentsToLikes: 0.019708
-    id: ck6uhcp708cur0j71u2hx4qe3
+    followers: 77701
+    engagement: 131
+    commentsToLikes: 0.056434
+    id: cln6fzql3pg1f0j08ned8t84h
     verified: false
-    hashtags: "#girlsinanimation, #instaartist, #drawthisinyourstyle, #artoftheday"
-  - username: "itsdaphnebitchhh"
-    fullname: >-
-      Daphné Huynh
-    bio: >-
-      Filthy feminist with acting and dancing skills.
-    location: "Belgium"
-    followers: 6167
-    engagement: 586
-    commentsToLikes: 0.050947
-    id: ck6tp2d1chg6r0j71cwu8ah9a
-    verified: false
-    hashtags: "#model, #beach, #contactspectacle, #moon"
+    hashtags: "#newtechnology, #unboxings, #productphotographer, #appleproducts"
   - username: "peepingtomdance"
     fullname: >-
       Peeping Tom
     bio: >-
       Belgian dance & theater company founded by Gabriela Carrizo & Franck Chartier.
     location: "Belgium"
-    followers: 23924
-    engagement: 541
-    commentsToLikes: 0.008231
+    followers: 27618
+    engagement: 567
+    commentsToLikes: 0.007499
     id: ck15tlqhnipae0i193lqw9vyh
     verified: false
-    hashtags: "#dance, #themissingdoor, #thehiddenfloor, #covid19"
-  - username: "andrea_pizzini_photographer"
+    hashtags: "#espa, #london, #movement, #art"
+  - username: "aveline_stokart"
     fullname: >-
-      Andreas Photography world
+      A V E L I N E   S T O K A R T
     bio: >-
-      SonyAlphaRumors 43rumors @cube_stories Admin. Born on the Dolomites lives in Antwerpen.
+      Comic artist | Character designer | 🇧🇪 My comic book "Elle(s)" @lelombard Tutorial 👇🏻 : lighting & shading (use AVELINE2021S to save 10% !)
     location: "Belgium"
-    followers: 67546
-    engagement: 87
-    commentsToLikes: 0.012447
-    id: ck13a0n0fo16m0i19l60c0uxq
+    followers: 323520
+    engagement: 953
+    commentsToLikes: 0.006613
+    id: ck13bh0fjvcx20i19dvxmhc1r
     verified: false
-    hashtags: "#fujifilm, #sonyphotography, #sonyzv1, #sonya7iii"
+    hashtags: "#best, #comicart, #illustrationoftheday, #procreate"
+  - username: "itsdaphnebitchhh"
+    fullname: >-
+      Daphné Huynh
+    bio: >-
+      Une nana qui roule sa bosse. #FreeBritney activist
+    location: "Belgium"
+    followers: 6722
+    engagement: 650
+    commentsToLikes: 0.044894
+    id: ck6tp2d1chg6r0j71cwu8ah9a
+    verified: false
+    hashtags: "#summer, #venice, #holidays, #travel"
 ---

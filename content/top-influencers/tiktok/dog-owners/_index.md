@@ -1,11 +1,11 @@
 ---
-title: Top 10 Dog Owners TikTok Influencers In 2023
+title: Top 10 Dog Owners TikTok Influencers In 2024
 description: >-
-  Find top dog owners TikTok influencers in 2023. Most popular hashtags: #dogsoftiktok #dogowner #fyp #dogs.
+  Find top dog owners TikTok influencers in 2024. Most popular hashtags: #dogsoftiktok #dogowner #fyp #dogs.
 platform: TikTok
 hits: 105
-text_top: See the top-rated TikTok influencers on inBeat.
-text_bottom: Our database aggregates 105 TikTok influencers like this for you to contact.
+text_top: Identify the best TikTok profiles on inBeat.
+text_bottom: inBeat aggregates 105 TikTok influencers like this for you to connect with.
 profiles:
   - username: "mattgeekpride"
     fullname: >-
@@ -97,12 +97,12 @@ profiles:
     bio: >-
       🇨🇦 | 18 | Mom of 2🐶🐶
     location: "Canada"
-    followers: 20300
-    engagement: 905
-    commentsToLikes: 0.041766
+    followers: 20100
+    engagement: 1100
+    commentsToLikes: 0.031218
     id: ck8z2vt1871mg0j78ilk08z7t
     verified: false
-    hashtags: "#dinoday, #fyp, #messymudi, #dogtraining"
+    hashtags: "#dogtrainer, #keepingitcute, #dogowner, #dogtraining"
   - username: "dogs.training"
     fullname: >-
       Dog Training

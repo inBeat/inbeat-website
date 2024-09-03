@@ -1,12 +1,24 @@
 ---
-title: Top 10 Travel Instagram Influencers In Austin In 2023
+title: Top 10 Travel Instagram Influencers In Austin In 2024
 description: >-
-  Find top travel Instagram influencers in Austin in 2023. Most popular hashtags: #travel #austintexas #atx.
+  Find top travel Instagram influencers in Austin in 2024. Most popular hashtags: #austintexas #visitaustin #atx.
 platform: Instagram
-hits: 354
-text_top: Analyze the top-rated Instagram influencers on inBeat.
-text_bottom: inBeat has 354 Instagram influencers like this in Austin, United States for you to collaborate.
+hits: 494
+text_top: Analyze the most popular Instagram influencers on inBeat.
+text_bottom: inBeat aggregates 494 Instagram influencers like this in Austin, United States for you to pitch.
 profiles:
+  - username: "wes_whitlock"
+    fullname: >-
+      John Wesley Whitlock
+    bio: >-
+      Father - Business owner - Entrepreneur- USMC Veteran. Executive Protection Professional. Love Life, lift heavy, art, music, travel. Austin, Tx
+    location: "United States"
+    followers: 300058
+    engagement: 22
+    commentsToLikes: 0.034284
+    id: ck0txx3tyktsb0i1938w94ra5
+    verified: false
+    hashtags: "#forward, #mindset, #entrepreneur, #marines"
   - username: "dianavonrosenberg"
     fullname: >-
       Diana | Tall Style Inspo
@@ -19,54 +31,30 @@ profiles:
     id: ckaosy7wktjr20i78emn6m41t
     verified: false
     hashtags: "#revolvewinter, #revolveme, #liketkit, #breckenridge"
-  - username: "mandiekaii_fit"
+  - username: "dylanguidone"
     fullname: >-
-      MANDIE KAII 🌈
+      Dylan Guidone
     bio: >-
-      ATX • Former Athlete • Love First Here to help women bring out their inner baddie 🎙@thelivefreelypodcast Online Studio, Team Info + Contact Me:
+      🌵 Austin, TX 🌮
     location: "United States"
-    followers: 62117
-    engagement: 447
-    commentsToLikes: 0.017909
-    id: ck5hkch9ui6ka0i11rmhboxm0
+    followers: 20125
+    engagement: 68
+    commentsToLikes: 0.042533
+    id: ck5ch9q13qd470i1137ju7861
     verified: false
-    hashtags: "#married, #femme, #atx, #pride"
-  - username: "jomcintyrehair"
+    hashtags: "#maui, #china, #austin, #texas"
+  - username: "svetlanapustova"
     fullname: >-
-      Jo McIntyre: HAIR + DESIGN
+      Svetlana Pustova
     bio: >-
-      Intuitive Cutting for All Hair Types ▫️Head of Creative @strangebirdsalon ▫️#austinhairstylist ▫️#uxdesign ▫️Accepting New Clients: Book Below
+      ✞ rusa en México + content creator 📍 Mexico City 🔜 Las Vegas 📧 hello@svetlanapustova.com 🚀 desarrollando @crevooapp 🎭 manager actoral @leonor_garzon
     location: "United States"
-    followers: 13226
-    engagement: 133
-    commentsToLikes: 0.048412
-    id: ck5bvdtkvjgis0i11bkw8jkse
+    followers: 172939
+    engagement: 52
+    commentsToLikes: 0.031994
+    id: ck5cf1e04m4s00i11shzehwge
     verified: false
-    hashtags: "#nonbinary, #cleanbeauty, #austinsalon, #organichaircare"
-  - username: "erinelise___"
-    fullname: >-
-      erin elise blog
-    bio: >-
-      sharing cute affordable fashion 💍wife to @cwjohnson19 👶🏼mama 📍austin, tx psalm 46:5 lets collab: erineliseblog@gmail.com ↡ shop my looks
-    location: "United States"
-    followers: 10172
-    engagement: 447
-    commentsToLikes: 0.111869
-    id: ck9hbxfbmiv0x0j78h4svvzs1
-    verified: false
-    hashtags: "#ltktravel, #erinelisebump, #ltkbump, #ltksalealert"
-  - username: "travelandtenacity"
-    fullname: >-
-      Jillian Eppler
-    bio: >-
-      [Alaska Raised🏔TexasLiving🌵] Fire Wife🚒 + Mama to Ryder Jesus follower Daily life on stories travel in pics ✈️
-    location: "United States"
-    followers: 16327
-    engagement: 148
-    commentsToLikes: 0.065812
-    id: ck13bqx5swqve0i1905x0296l
-    verified: false
-    hashtags: "#visitalaska, #dallasblogger, #dfwblogger, #alaskagrown"
+    hashtags: "#chicarusa, #mexico, #svetlanapustova, #rusia"
   - username: "ammietheexplorer"
     fullname: >-
       Ammie ✨
@@ -78,7 +66,7 @@ profiles:
     commentsToLikes: 0.325869
     id: ck6tz31fb7bx00j71097l5sg4
     verified: false
-    hashtags: "#texashillcountry, #welivetotravel, #couplesgoals, #austintx"
+    hashtags: "#girlswhotravel, #travelplanning, #travelgirlshub, #travelblogger"
   - username: "jabegg"
     fullname: >-
       Jenny Abegg
@@ -91,6 +79,42 @@ profiles:
     id: ck55pjl7uap7o0i1105o0vn2r
     verified: false
     hashtags: ""
+  - username: "feedmi_"
+    fullname: >-
+      Mimi | Recipes, Travel, & Austin Food
+    bio: >-
+      ✨ just a girl trying to decide what to eat 😛 austin, tx but will travel for food 💌 mimi@feedmi.org 👇🏼 recipes + more
+    location: "United States"
+    followers: 250610
+    engagement: 931
+    commentsToLikes: 0.028370
+    id: ck0w21z9lm9120i19wtp86r6s
+    verified: false
+    hashtags: "#eatwithme, #asianrecipes, #vietnamesecuisine, #steameddumplings"
+  - username: "yourdailydevin"
+    fullname: >-
+      Yourdailydevin| Austin TX
+    bio: >-
+      Exploring Texas 🤠 Wellness • Travel & Experiences Austin, TX
+    location: "United States"
+    followers: 78148
+    engagement: 291
+    commentsToLikes: 0.005381
+    id: ck6u3jsxzy7aw0j714dbgu4vj
+    verified: false
+    hashtags: "#srsbporkrinds, #bestporkrindsever, #yournewlashroutineishere, #highprotein"
+  - username: "kp.fitstyle"
+    fullname: >-
+      Karishma Patel | self love & fitness
+    bio: >-
+      Self love starts with YOU your daily dose of positivity, style, workouts, & travel 📍Austin living podcast host🎙️ @itsnotselfishpodcast
+    location: "United States"
+    followers: 43465
+    engagement: 152
+    commentsToLikes: 0.146717
+    id: ck9wfxh7yqxzz0j78znkg5b41
+    verified: false
+    hashtags: "#mexicowedding, #junebugvendor, #southasianmagazine, #weddingreel"
   - username: "cjjrphoto"
     fullname: >-
       New Orleans Photographer
@@ -103,28 +127,4 @@ profiles:
     id: ck15syihjfgdn0i191tpb67jk
     verified: false
     hashtags: "#magicallymejia, #jorgegettingmarriedtocrystal, #destinationphotographer, #swipeleft"
-  - username: "ourglobetrotting"
-    fullname: >-
-      Britny & Billy Travel Couple
-    bio: >-
-      ✈️ Luxury Travel 📍 Austin TX 🔜 Mexico ↓ YouTube ↓
-    location: "United States"
-    followers: 14813
-    engagement: 443
-    commentsToLikes: 0.265340
-    id: ck9wcxz0ed5u40j784x8bnjy1
-    verified: false
-    hashtags: "#aspen, #luxwt, #travelgear, #luxuryresorts"
-  - username: "jamieivey"
-    fullname: >-
-      Jamie Ivey
-    bio: >-
-      🎧 Podcaster #happyhourwithjamieivey 📚 Author @ifyouonlyknewbook ❤️ @aaroniveyatx , my kids, food & travel 🌮 Austin, TX.
-    location: "United States"
-    followers: 96314
-    engagement: 129
-    commentsToLikes: 0.158658
-    id: ck0u7jqkd4zxr0i190hczbvwx
-    verified: false
-    hashtags: "#lifelinechildrensservices, #austinstoneworship, #somethinggreater, #lovewithcards"
 ---

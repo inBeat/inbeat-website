@@ -1,11 +1,11 @@
 ---
-title: Top 10 Food TikTok Influencers In Denver In 2023
+title: Top 10 Food TikTok Influencers In Denver In 2024
 description: >-
-  Find top food TikTok influencers in Denver in 2023. Most popular hashtags: #fyp #food #foryoupage #foryou.
+  Find top food TikTok influencers in Denver in 2024. Most popular hashtags: #fyp #food #foryou #foryoupage.
 platform: TikTok
-hits: 27
-text_top: See the most popular TikTok profiles on inBeat.
-text_bottom: inBeat has 27 TikTok influencers like this in Denver, United States for you to pitch.
+hits: 26
+text_top: Identify the top-rated TikTok influencers on inBeat.
+text_bottom: Our platform has 26 TikTok influencers like this in Denver, United States for you to work with.
 profiles:
   - username: "gquebbq"
     fullname: >-
@@ -30,7 +30,19 @@ profiles:
     commentsToLikes: 0.017960
     id: ck8z2opuq68oq0j78iqt32dlt
     verified: false
-    hashtags: "#tiktokfoodie, #foodie, #seafoodboil, #5280"
+    hashtags: "#foryou, #chefcooldre, #denver, #food"
+  - username: "cookwithcass"
+    fullname: >-
+      Cassandra Cortright
+    bio: >-
+      Cooking & life🥑✨ #souplife @gracefullyfed SIMPLE•(mostly)HEALTHY
+    location: "United States"
+    followers: 34000
+    engagement: 1138
+    commentsToLikes: 0.047609
+    id: ckcpjmxynibpg0j236d09573k
+    verified: false
+    hashtags: "#favoriterecipe, #foodreview, #tiktoktaughtme, #recipes"
   - username: "trendkings"
     fullname: >-
       Eric Grant
@@ -102,7 +114,7 @@ profiles:
     commentsToLikes: 0.019711
     id: cka0j3jbpgddv0i78mbtf99py
     verified: false
-    hashtags: "#notonething, #fyp, #foryou, #comedy"
+    hashtags: "#viral, #notfyp, #dontletthisflop, #drive"
   - username: "eateateatstreet"
     fullname: >-
       Eatstreet
@@ -115,16 +127,4 @@ profiles:
     id: ck8kdxm6z7ugr0j78dldi9ubn
     verified: false
     hashtags: "#fun, #sushi, #foryoupage, #colorado"
-  - username: "denverworley"
-    fullname: >-
-      Denver Worley
-    bio: >-
-      Love my outdoors an being Abel to hunt my food love my hounds an my little girl!
-    location: "United States"
-    followers: 215900
-    engagement: 319
-    commentsToLikes: 0.004262
-    id: ck81qwqhakjcq0j78y4377894
-    verified: false
-    hashtags: "#foryoupage, #coonhunter, #plotthound, #foruyou"
 ---

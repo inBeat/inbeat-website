@@ -1,130 +1,130 @@
 ---
-title: Top 10 Models Instagram Influencers In Italy In 2023
+title: Top 10 Models Instagram Influencers In Italy In 2024
 description: >-
-  Find top models Instagram influencers in Italy in 2023. Most popular hashtags: #portrait #model #love.
+  Find top models Instagram influencers in Italy in 2024. Most popular hashtags: #adv #beauty #family.
 platform: Instagram
-hits: 1482
-text_top: Identify the best Instagram accounts on inBeat.
-text_bottom: Our search engine holds 1482 Instagram influencers like this in Italy for you to contact.
+hits: 1534
+text_top: Analyze the most popular Instagram influencers on inBeat.
+text_bottom: Our database holds 1534 Instagram influencers like this in Italy for you to contact.
 profiles:
-  - username: "_sofi_ko"
+  - username: "liciafertz"
     fullname: >-
-      Sofi
+      Buongiorno Nonna
     bio: >-
-      🌿Artist 🎨 🌿Student of @karazinuniver and @khnuvs 📚 🌿Model 👠 @100capri_official 🇧🇱🇫🇷 @whynotmodelistanbul 🇹🇷 @notoysmodels 🇩🇪 MA🇺🇦
+      🦖Accidentally Aged Model & Influencer 👵🏼Mula triestina dal 1930 ⏳NO TIME TO BE SAD 👩‍👦My incredible life with my grandson @elousai ⬇️ Leggi il blog!
     location: "Italy"
-    followers: 13328
-    engagement: 636
-    commentsToLikes: 0.032581
-    id: ckap6ypfhhx350i78u30zolts
+    followers: 231869
+    engagement: 635
+    commentsToLikes: 0.035174
+    id: ck0udckjriqkd0i194s5mm8ad
     verified: false
-    hashtags: ""
-  - username: "118garagediorama"
+    hashtags: "#93yearsyoung, #liciafertz, #92yearsyoung, #family"
+  - username: "taryn_cosplay"
     fullname: >-
-      1:18 Garage Diorama
+      TARYN ☆ タリン・コスプレ
     bio: >-
-      Welcome to diecast model cars world - original 1:18 garage diorama with perfect diecast cars from diecast and resin brands.
+      "Surpass your limits and Go Beyond the Impossible!" Professional Coser - Model - Performer 🌍🎭 FiTnEsS FrEaK Con Booking: events@taryncosplay.com
     location: "Italy"
-    followers: 7372
-    engagement: 230
-    commentsToLikes: 0.044841
-    id: ckapav1l0xkq20i78wu2p6w40
+    followers: 1153334
+    engagement: 399
+    commentsToLikes: 0.009960
+    id: ck13b2pqntef30i19w5calgbk
     verified: false
-    hashtags: "#bmw, #instadiecast, #mercedes, #gle450amg4matic"
-  - username: "patoparodi18"
+    hashtags: "#onepieceanime, #naruto, #taryncosplay, #japan"
+  - username: "iamrebeccad"
     fullname: >-
-      Patricio Parodi Costa
+      Rebecca
     bio: >-
-      Influencer / Model Streamer Tiktok patoparodi18 Working at @estoesguerraperutv @FashionNova Ambassador
+      scottish model MA: @brandmgmt @museactivewear
     location: "Italy"
-    followers: 2538888
-    engagement: 81
-    commentsToLikes: 0.010571
-    id: ck13dc25f4oy70i199yisc54c
-    verified: true
-    hashtags: "#vamosalabodega, #publicidad, #seleccionesmcdonalds, #pringles"
-  - username: "lucaonestini_11"
-    fullname: >-
-      Luca Onestini
-    bio: >-
-      Scent Of Vitality ☀️🌊🌴 Presenter, Model, Actor: Languages 🇮🇹🇪🇸🇬🇧 Collaborations👉✉️ : contact@lucaonestini.com Booking🎧 348 2214308 My TikTok❤️‍🔥👇
-    location: "Italy"
-    followers: 1319453
-    engagement: 36
-    commentsToLikes: 47.725360
-    id: ck8sza9wmnnta0j78afeset1j
-    verified: true
-    hashtags: "#happiness, #one, #onetrend, #onehome"
-  - username: "denise_forma_mentis_"
-    fullname: >-
-      🚫NO DIRECT-DM-CHAT🚫
-    bio: >-
-      #artist #photographer #model #eroticmodel #traveler 📩For collab: deniseformamentisonlybusiness@gmail.com
-    location: "Italy"
-    followers: 29892
-    engagement: 1043
-    commentsToLikes: 0.084006
-    id: ckaou8gnaz9u30i78u2jhseej
+    followers: 323467
+    engagement: 1179
+    commentsToLikes: 0.006328
+    id: ck0u95w3h95qb0i19okrf5got
     verified: false
-    hashtags: "#postureo, #portrait, #bnwpic, #instagood"
-  - username: "vida.de.tyana"
+    hashtags: "#replayjeans, #replay, #rolexmcmasters, #atptour"
+  - username: "alvise_rigo"
     fullname: >-
-      * ☆𝕋𝕐𝔸ℕ𝔸☆*
+      Alvise Rigo
     bio: >-
-      𝕄𝕒𝕞𝕒 @steph.tya ❤️ 🇮🇹 𝕀𝕥𝕒𝕝𝕪 𝔻𝕠𝕟'𝕥 𝕦𝕤𝕖 𝕞𝕪 𝕡𝕚𝕔𝕤 𝕨𝕚𝕥𝕙𝕠𝕦𝕥 𝕥𝕒𝕘 𝕡𝕝𝕖𝕒𝕤𝕖! 📩 𝔻𝕞 𝕗𝕠𝕣 𝕔𝕠𝕝𝕝𝕒𝕓𝕤 @ig_fashionkiddies model 𝕊ℍ𝕆ℙ 𝕎𝕀𝕋ℍ ℂ𝕆𝔻𝔼 𝕋𝕐𝔸ℕ𝔸𝟙𝟝 ⬇️
+      🏃‍♂️Sportman: @gymbeam.it 🏍 Rider: @yamahamotorit 🎭Actor: 🇮🇹 @moviement_agenzia 🇪🇸 @a6cinema 💪 Model: 🇮🇹 @imgmodels
     location: "Italy"
-    followers: 81559
-    engagement: 993
-    commentsToLikes: 0.064919
-    id: ck15qzyzs5g8u0i19u29z3dgg
+    followers: 189070
+    engagement: 432
+    commentsToLikes: 0.012233
+    id: ck600shzwe6pl0i14iz44tc2l
     verified: false
-    hashtags: "#adorable, #fabulous, #hair, #christmas"
-  - username: "davide_phoenix_martini"
+    hashtags: "#mtvcribsitalia, #allagrande, #followtheshark, #adv"
+  - username: "antonella._caruso"
     fullname: >-
-      Davide “Phoenix” Martini
+      Antonellacaruso
     bio: >-
-      ✨ Son of the Sun 🇮🇹 Model 🐺 Wolves whisperer ✈️ Drone pilot
+      Italian Model 🇮🇹 Acting at 🎬 @pigrecoemme
     location: "Italy"
-    followers: 103561
-    engagement: 541
-    commentsToLikes: 0.052250
-    id: ck5zwadhu5rwf0i14x50cxmay
+    followers: 138376
+    engagement: 414
+    commentsToLikes: 0.004973
+    id: ckap4yx3k9fpu0i78r69tnuye
     verified: false
-    hashtags: "#greece, #santorini, #love, #daenerystargaryen"
-  - username: "angelo_conforti"
+    hashtags: "#eivissa, #phototheday, #italiangirl, #hair"
+  - username: "indiramarie"
     fullname: >-
-      Angelo Conforti
+      Indira Vázquez
     bio: >-
-      𝑷𝒆𝒓 𝒂𝒔𝒑𝒆𝒓𝒂 𝒂𝒅 𝒂𝒔𝒕𝒓𝒂✨ •Actor - Model - Writer •Mister Italia Forever Cinema 👑 📩 angconforti97@gmail.com
+      ✨MORE CONTENT AND INFO ✨ ⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️ Model + content creator = 🤝💘 From: 🇵🇷 indiravazquez1919@gmail.com
     location: "Italy"
-    followers: 8279
-    engagement: 986
-    commentsToLikes: 0.110575
-    id: ckap8fjzco3ga0i78m3q64grk
+    followers: 20376
+    engagement: 601
+    commentsToLikes: 0.018020
+    id: ckap6pvzogxeg0i78q0hb1eq1
     verified: false
-    hashtags: "#italianboy, #blackandwhite, #sea, #l4l"
-  - username: "csnvlr"
+    hashtags: "#fitchek, #ootn, #teammaripily, #vlog"
+  - username: "luigi_lauro"
     fullname: >-
-      cesana valeria
+      Luigi Lauro
     bio: >-
-      Acting Academy Model🌷Happy not perfect. #selflove #bodypositive Written & Directed by Woody Allen.📽🎞 #lowofattraction 🪐The world is urs sunshine.
+      Dad and model 🇮🇹 Modern gentleman Leather collection @arpelleshop Tiktok 270k My capsule collection ⬇️
     location: "Italy"
-    followers: 27077
-    engagement: 990
-    commentsToLikes: 0.054203
-    id: ck5znf5j4ocec0i14i0jr2dl9
+    followers: 208138
+    engagement: 402
+    commentsToLikes: 0.037716
+    id: ck15uvq2foqhz0i19j9ks2h2h
     verified: false
-    hashtags: "#nature, #portrait, #portraitphotography, #nakdfashion"
-  - username: "manueldibernardoreal"
+    hashtags: "#amalficoast, #metawatchh1, #summer, #vertu"
+  - username: "legemels"
     fullname: >-
-      𝑴𝑨𝑵𝑼𝑬𝑳 𝑫𝑰 𝑩𝑬𝑹𝑵𝑨𝑹𝑫𝑶 ♛
+      Giulia e Martina🍒
     bio: >-
-      👑 𝟏º 𝒊𝒍 𝒑𝒊𝒖̀ 𝒃𝒆𝒍𝒍𝒐 𝒅’𝑰𝒕𝒂𝒍𝒊𝒂 𝟐𝟎𝟏𝟔/𝟏𝟕 🇮🇹 Model-Influencer-Personal trainer🔥 MGMT: @panamamanagement Conosci il mio instagram ma non conosci me🤫
+      represented by @bold_management model @musetheagency fes@musetheagency.com tiktok: @legemels
     location: "Italy"
-    followers: 216193
-    engagement: 481
-    commentsToLikes: 0.135066
-    id: ck5q94aie9bm50i11wt2u4zwj
+    followers: 101686
+    engagement: 1042
+    commentsToLikes: 0.005108
+    id: clqshehd80enh0k08i05bwuxg
     verified: false
-    hashtags: ""
+    hashtags: "#swarovskixskims, #swarovski, #adv, #dixieclosetconfessions"
+  - username: "sabrina_barca"
+    fullname: >-
+      Sabrina Barca
+    bio: >-
+      🇮🇹 Milan, Italy 📷 Fashion Inspirer | Model | Content Creator 🌹 Aesthete ✉️ sabrinabarca@premiumid.it 🔜 Communication Design @naba
+    location: "Italy"
+    followers: 68591
+    engagement: 662
+    commentsToLikes: 0.012969
+    id: ck5bve5wejh9j0i11vzc3tml9
+    verified: false
+    hashtags: "#minimalstreetstyle, #parisiennestyle, #parisianlife, #minimalmood"
+  - username: "_la_lou"
+    fullname: >-
+      Ludovica Melisurgo
+    bio: >-
+      🇮🇹 Model 📍Based in Milan / Made in Naples 🎀 Giulia and 🐶 @gizmo_mini_dog_ ‘s mom 📩 MGMT • Pietro@pssharing.com
+    location: "Italy"
+    followers: 154909
+    engagement: 943
+    commentsToLikes: 0.003765
+    id: ck6ubaryf8hmq0j71zrrqn4wk
+    verified: false
+    hashtags: "#zalandostyle, #clubc, #tattoo, #reebok"
 ---

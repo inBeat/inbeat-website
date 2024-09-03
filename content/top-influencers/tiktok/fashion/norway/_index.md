@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fashion TikTok Influencers In Norway In 2023
+title: Top 10 Fashion TikTok Influencers In Norway In 2024
 description: >-
-  Find top fashion TikTok influencers in Norway in 2023. Most popular hashtags: #fyp #foryou #norway #fashion.
+  Find top fashion TikTok influencers in Norway in 2024. Most popular hashtags: #fyp #norway #foryou #fashion.
 platform: TikTok
 hits: 14
-text_top: See the top-rated TikTok accounts on inBeat.
-text_bottom: Our search engine aggregates 14 TikTok influencers like this in Norway for you to contact.
+text_top: Discover the top-rated TikTok profiles on inBeat.
+text_bottom: Our database has 14 TikTok influencers like this in Norway for you to collaborate.
 profiles:
   - username: "madde29"
     fullname: >-

@@ -1,12 +1,48 @@
 ---
-title: Top 10 Bloggers Instagram Influencers In Venezuela In 2023
+title: Top 10 Bloggers Instagram Influencers In Venezuela In 2024
 description: >-
-  Find top bloggers Instagram influencers in Venezuela in 2023. Most popular hashtags: #blogger #fashionblogger #bloggerstyle #fashion.
+  Find top bloggers Instagram influencers in Venezuela in 2024. Most popular hashtags: #blogger #venezuela #ootd #lifestyle.
 platform: Instagram
-hits: 25
-text_top: Discover the best Instagram accounts on inBeat.
-text_bottom: Our platform aggregates 25 Instagram influencers like this in Venezuela for you to work with.
+hits: 30
+text_top: Analyze the top-rated Instagram accounts on inBeat.
+text_bottom: inBeat aggregates 30 Instagram influencers like this in Venezuela for you to pitch.
 profiles:
+  - username: "veronicaweffer"
+    fullname: >-
+      Veronica Weffer / Viajando con Vero
+    bio: >-
+      🎓Lic. Comunicación Social ✈️ Viajando con Vero en YouTube 🎥 🌍 Travel blogger ✈️ 👙 Bikini Model
+    location: "Venezuela"
+    followers: 900455
+    engagement: 356
+    commentsToLikes: 0.012617
+    id: ck15tapufh6000i198iul4w5x
+    verified: false
+    hashtags: "#qatar, #fifaworldcup, #travel, #disney"
+  - username: "argentinayelmundo"
+    fullname: >-
+      Argentina y el mundo - viajeros
+    bio: >-
+      👫 Fede & Sol - Una Pareja viajera 📍 Travel Bloggers de Argentina 🇦🇷 🌎 viajes x argentinayelmundo.com ✈️ YouTube: argentinayelmundo
+    location: "Venezuela"
+    followers: 385164
+    engagement: 249
+    commentsToLikes: 0.134068
+    id: ck13brchzwswr0i192xqkrywx
+    verified: false
+    hashtags: "#barbadosbeach, #venezuela, #guatemalaimpresionante, #petrajordan"
+  - username: "nhabyg"
+    fullname: >-
+      NHABYLA SIMONETTE
+    bio: >-
+      Content Creator Fashion, decor, food, travel & lifestyle blogger # EfectoNhaby @inwears
+    location: "Venezuela"
+    followers: 168796
+    engagement: 239
+    commentsToLikes: 0.009151
+    id: ck0tuopg881ee0i192txrnvll
+    verified: false
+    hashtags: "#oneandonly, #mexico, #miaminights, #losroques"
   - username: "giuliomottola"
     fullname: >-
       giulio
@@ -43,88 +79,52 @@ profiles:
     id: ck6ub73fe7vas0j710pcouaqu
     verified: false
     hashtags: "#outfit, #reelsvideo, #makeuptutorial, #marketingdigital"
-  - username: "peireis"
-    fullname: >-
-      Peireis
-    bio: >-
-      Pura inspiración para ti✨ Lo clásico no pasa de moda🍍 Bepeireis@gmail.com 📩💖👀 #peireislook
-    location: "Venezuela"
-    followers: 89641
-    engagement: 176
-    commentsToLikes: 0.041262
-    id: ck5hqxl7ltwlb0i11ag4qryl2
-    verified: false
-    hashtags: "#instablogger, #peireislook, #bloggerstyle, #peireisreels"
-  - username: "ori.ocre"
-    fullname: >-
-      Ori Center
-    bio: >-
-      🐘✨ Club de mamás con Ori 🔜 Pensé que era suerte.
-    location: "Venezuela"
-    followers: 39313
-    engagement: 256
-    commentsToLikes: 0.035674
-    id: ck14lgncoukr20i19u2tz67w0
-    verified: false
-    hashtags: "#mommyblogger, #blogger, #maternidad, #maternidadereal"
-  - username: "mariantoniettacp"
-    fullname: >-
-      𝗠𝗮𝗿𝗶𝗮𝗻𝘁𝗼𝗻𝗶𝗲𝘁𝘁𝗮 𝗽𝗶𝗻𝘁𝗼
-    bio: >-
-      •𝘓𝘪𝘧𝘦𝘴𝘵𝘺𝘭𝘦•𝘔𝘰𝘮• •𝘈𝘥𝘮.𝘦𝘮𝘱𝘳𝘦𝘴𝘢𝘴 ᴠᴇɴᴇᴢᴜᴇʟᴀ📍
-    location: "Venezuela"
-    followers: 7172
-    engagement: 347
-    commentsToLikes: 0.069409
-    id: ckap7ndk7kqqz0i78la6g8tch
-    verified: false
-    hashtags: "#fashionbloggervzla, #bloggerstyle, #maracay, #venezuela"
-  - username: "mariambazzo"
-    fullname: >-
-      MARIAM BAZO
-    bio: >-
-      fashion blogger✨ CEO🛒: @bymariambazo ‎💁‍♀️الصويا العربي🙋‍♀️ https://vm.tiktok.com/ZSf4Nxrd/ Always be you ✨🇻🇪 snap:mariambazox 👻
-    location: "Venezuela"
-    followers: 27314
-    engagement: 360
-    commentsToLikes: 0.030784
-    id: ck0w48b3nxahf0i19q7yf26x0
-    verified: false
-    hashtags: "#followme, #fashion, #colorful, #instagood"
   - username: "ariannapitino"
     fullname: >-
-      AP.
+      piti🫀
     bio: >-
-      11:11🦂✨ Comunicadora Social🎙 〰️Producción II Dirección Creativa || RRSS Relaciones Públicas || Fashion Consultant v e n e z u e l a 📍
+      💫’97 en este perfil creamos contenido .. y hacemos mucho spam🌄 lifestyle | crossfit🏋🏻 | nature | beach veneca🇻🇪
     location: "Venezuela"
-    followers: 66301
-    engagement: 989
-    commentsToLikes: 0.012180
+    followers: 100595
+    engagement: 573
+    commentsToLikes: 0.014012
     id: ck0tw1ckedlh80i19e0e7a89q
     verified: false
-    hashtags: "#campaign, #photoshoot, #modellife, #throwback"
-  - username: "decoloreslavida"
+    hashtags: "#peace, #ad, #cerro, #lifestyleblogger"
+  - username: "palomadelacruz"
     fullname: >-
-      De colores la Vida
+      Lifestyle content trying to be aesthetic 😎
     bio: >-
-      Hola soy Eve y esta soy yo con todos mis colores 💜❤️💙💛 una loca amante de los viajes y las cosas buenas de la vida. Owner: @decolores_giftshop
+      Tengo mucha energía ⚡️la recargo al conectar contigo. Aquí mis días ❤️‍🔥 , #notyourcuratedfeed pero estoy segura en muchos temas coincidimos 😏
     location: "Venezuela"
-    followers: 5390
-    engagement: 1748
-    commentsToLikes: 0.032099
-    id: ck9hbtqrniept0j78i3qiowpx
-    verified: false
-    hashtags: "#593ecuador, #pinkmood, #guayaquil, #guayaquilcity"
-  - username: "eduarlopezf"
+    followers: 217577
+    engagement: 372
+    commentsToLikes: 0.025094
+    id: ck5qbna2rmffu0i11kfz8wxru
+    verified: true
+    hashtags: "#cartadelosmartes, #packingcubes, #notyourcuratedfeed, #fashionhack"
+  - username: "dailizmorillo"
     fullname: >-
-      E D U A R   L Ó P E Z   £.
+      Dailiz | FASHION & LIFESTYLE
     bio: >-
-      Asesor Comercial Bitcoin Cash💲💼💲 Professional #Dancer🔝 /#Model 🇻🇪 Bailarin: @melodiaperfect @nakarynk Ccs-Vzla 🇻🇪 MI NUEVO VIDEO: REIK #raptame
+      #ContentCreator @hesperiawtcvalenciafashionweek • CO Designer @weardestino • Model • Brand Ambassador • PR
     location: "Venezuela"
-    followers: 7586
-    engagement: 623
-    commentsToLikes: 0.086161
-    id: ck5zzol4nc4q00i144orhvhie
+    followers: 45275
+    engagement: 300
+    commentsToLikes: 0.025815
+    id: ck5hr53vaua1f0i11mp4uyxtf
     verified: false
-    hashtags: "#avila, #beard, #caracas, #dance"
+    hashtags: "#style, #contentcreator, #fashionstyle, #outfit"
+  - username: "janinbarboza"
+    fullname: >-
+      Janin Barboza
+    bio: >-
+      Lifestyle sin manual Creadora de #aprendecomojanin Organizo Experiencias: etiqueta y protocolo 👩🏻‍🍳 Cocina, moda 🇪🇸 Madrid Healing Vzla Ambassador
+    location: "Venezuela"
+    followers: 882551
+    engagement: 41
+    commentsToLikes: 0.040509
+    id: ck5q3j0n0kyn80i11h4gxn4za
+    verified: false
+    hashtags: "#madridblogger, #nuevovideo, #aventura, #modalesenlamesa"
 ---

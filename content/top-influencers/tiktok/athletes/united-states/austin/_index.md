@@ -1,11 +1,11 @@
 ---
-title: Top 10 Athletes TikTok Influencers In Austin In 2023
+title: Top 10 Athletes TikTok Influencers In Austin In 2024
 description: >-
-  Find top athletes TikTok influencers in Austin in 2023. Most popular hashtags: #fyp #athlete #foryou #viral.
+  Find top athletes TikTok influencers in Austin in 2024. Most popular hashtags: #fyp #athlete #foryou #stitch.
 platform: TikTok
-hits: 15
-text_top: Discover the most popular TikTok influencers on inBeat.
-text_bottom: Our search engine holds 15 TikTok influencers like this in Austin, United States for you to connect with.
+hits: 17
+text_top: Identify the top-rated TikTok accounts on inBeat.
+text_bottom: Our platform aggregates 17 TikTok influencers like this in Austin, United States for you to work with.
 profiles:
   - username: "swimmysam"
     fullname: >-

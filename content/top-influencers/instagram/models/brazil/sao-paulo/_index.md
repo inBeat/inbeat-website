@@ -1,24 +1,12 @@
 ---
-title: Top 10 Models Instagram Influencers In Sao Paulo In 2023
+title: Top 10 Models Instagram Influencers In Sao Paulo In 2024
 description: >-
-  Find top models Instagram influencers in Sao Paulo in 2023. Most popular hashtags: #model #saopaulo #love #photography.
+  Find top models Instagram influencers in Sao Paulo in 2024. Most popular hashtags: #model #saopaulo #photography.
 platform: Instagram
-hits: 393
-text_top: Identify the top-rated Instagram accounts on inBeat.
-text_bottom: Our platform holds 393 Instagram influencers like this in Sao Paulo, Brazil for you to pitch.
+hits: 395
+text_top: Analyze the most popular Instagram accounts on inBeat.
+text_bottom: inBeat holds 395 Instagram influencers like this in Sao Paulo, Brazil for you to pitch.
 profiles:
-  - username: "laispaggiaro"
-    fullname: >-
-      Lais Paggiaro | Plus Size
-    bio: >-
-      ✨Transformando Moda em Auto Estima 🛼 Gorda saudável sim 📷 Modelo Plus Size 👑 Plus model São Paulo 2018 🤡 palhaça nas horas vagas
-    location: "Brazil"
-    followers: 11885
-    engagement: 264
-    commentsToLikes: 0.273739
-    id: ck8tasghvsvhm0j7820zjs3cn
-    verified: false
-    hashtags: "#amesuascurvas, #plussizebrasil, #plussize, #piracicabaplussize"
   - username: "ronyhernandes"
     fullname: >-
       ＲＯＮＹ ＨＥＲＮＡＮＤＥＳ
@@ -43,18 +31,18 @@ profiles:
     id: ck8t3tvac4h9d0j78dpc5qi4a
     verified: false
     hashtags: "#retouch, #curlyhair, #modelo, #model"
-  - username: "fernandarusveer"
+  - username: "yasmarinho_"
     fullname: >-
-      Fҽɾɳαɳԃα Rυʂʋéҽɾ
+      Yasmin Marinho
     bio: >-
-      Atriz, Lifestyle,YouT + de 90K Jobs: (11) 96576-1482 Empresária: @manuelastein23 YouTube/fernandarusveer RusvéerMusic: https://youtu.be/KcFeuj3KMqQ
+      Beauty| fashion | Model 📍São Paulo 📧 Yasmin@youngdigital.com.br @fordmodelsbrasil
     location: "Brazil"
-    followers: 6839
-    engagement: 268
-    commentsToLikes: 0.148571
-    id: ckf5wfxq0rwoh0j23jej2d0us
+    followers: 61649
+    engagement: 94
+    commentsToLikes: 0.089288
+    id: ck0vz08kn6n9y0i1902wzxfpx
     verified: false
-    hashtags: "#testedeelenco, #model, #saopaulo, #cinemanacional"
+    hashtags: "#travelphotography, #maldivesislands, #dubai, #maldives"
   - username: "pollymcosta"
     fullname: >-
       Polly Mendonça
@@ -103,6 +91,18 @@ profiles:
     id: ck55jccdswqul0i110a5y27hw
     verified: false
     hashtags: "#bailarina, #balletstyle, #mundobailarinistico, #grateful"
+  - username: "linekerlenhard"
+    fullname: >-
+      Ph ᏞᏆNᎬKᎬᎡ ᏞᎬNᎻᎪᎡᎠ 📸 🧿
+    bio: >-
+      📍São Paulo ▪️Fashion and Lifestyle Photographer ▪️StreetStyle Photographer ▪️REELS 🎬 ▪️falecom@linekerlenhard.com 📧
+    location: "Brazil"
+    followers: 70912
+    engagement: 42
+    commentsToLikes: 0.177219
+    id: ck5zjebxphflf0i14bkmhcllu
+    verified: false
+    hashtags: "#fashionshow, #semanademodadeparis, #retouching, #sa"
   - username: "andriadosreis"
     fullname: >-
       Ândria dos Reis

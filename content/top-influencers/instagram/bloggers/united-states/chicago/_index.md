@@ -1,11 +1,11 @@
 ---
-title: Top 10 Bloggers Instagram Influencers In Chicago In 2023
+title: Top 10 Bloggers Instagram Influencers In Chicago In 2024
 description: >-
-  Find top bloggers Instagram influencers in Chicago in 2023. Most popular hashtags: #chicagoblogger #chicagobloggers #ad #liketkit.
+  Find top bloggers Instagram influencers in Chicago in 2024. Most popular hashtags: #fashionblogger #blogger #chicagoblogger #chicagofoodie.
 platform: Instagram
-hits: 104
-text_top: See the best Instagram profiles on inBeat.
-text_bottom: Our database aggregates 104 Instagram influencers like this in Chicago, United States for you to connect with.
+hits: 119
+text_top: Analyze the most popular Instagram influencers on inBeat.
+text_bottom: inBeat holds 119 Instagram influencers like this in Chicago, United States for you to collaborate.
 profiles:
   - username: "somepopofcolor"
     fullname: >-
@@ -18,7 +18,31 @@ profiles:
     commentsToLikes: 0.178173
     id: ck0twpbbyg9x70i19jthyysdh
     verified: false
-    hashtags: "#itsmidaprildamnit, #lakegenevawisconsin, #siblinglove, #socialdistancing"
+    hashtags: "#stayathomespringbreak, #socialdistancing, #gratefulforthelittlethings, #stayinghome"
+  - username: "bakedbrie__"
+    fullname: >-
+      Baked Brie | Chicago foodie
+    bio: >-
+      Life is grate 🧀 Bri 🙋🏼‍♀️ Chicago 📍🏙 All photos by me📸
+    location: "United States"
+    followers: 6490
+    engagement: 615
+    commentsToLikes: 0.242486
+    id: ckap1bz68txgb0i784xnfqml2
+    verified: false
+    hashtags: "#ad, #likefoodchicago, #chicagopatio, #foodgram"
+  - username: "nannymomrhonda"
+    fullname: >-
+      Rhonda
+    bio: >-
+      📍Chicago Lover of Disney, Marvel, & Star Wars 🍷 🥃 ☕️ Wine, Whiskey, & Tea 🪴🌵Plants & Cactus DM for collaborations or email Nannymomrhonda@gmail.com
+    location: "United States"
+    followers: 32868
+    engagement: 171
+    commentsToLikes: 0.072693
+    id: cl87d5ncl1xdf0i23qa3573mr
+    verified: false
+    hashtags: "#holidaygiftguide, #blogger, #chicagokids, #christmastime"
   - username: "elegantlyellery"
     fullname: >-
       Ellery Rogers
@@ -30,101 +54,77 @@ profiles:
     commentsToLikes: 0.184967
     id: ck0twacaselzz0i19hhiyp02s
     verified: false
-    hashtags: "#christmasinchicago, #chicagofashion, #midsizefashion, #christmasdecor"
-  - username: "zooooobear"
+    hashtags: "#holidayfashion, #holidaystyle, #chicagoblogger, #chicagobloggers"
+  - username: "cai.eats.chi"
     fullname: >-
-      Z O Y A
+      Cailynn | Food, Travel, Lifestyle
     bio: >-
-      Chicago blogger sharing fashion, lifestyle, & beauty inspo for empowered, goal oriented women!❤️ 💌: zalam.inquiries@gmail.com Where to shop my posts⤵️
+      Helping you discover your new favorite spots💕 📍Chicago (mostly) TikTok: cai.eats.chi (32k) 💌cai.eats.chi@gmail.com
     location: "United States"
-    followers: 52393
-    engagement: 361
-    commentsToLikes: 0.141302
-    id: ck5q2mmjfgrin0i11uffb9ssr
+    followers: 28595
+    engagement: 516
+    commentsToLikes: 0.105352
+    id: clivw7y1o3v2t0j0848hsps3y
     verified: false
-    hashtags: "#momtobe, #chicagobloggers, #pregnantlife, #babycenterbabies"
-  - username: "jenniferlake"
+    hashtags: "#foodie, #chicagogram, #chicagobucketlist, #ootd"
+  - username: "morganbraastad"
     fullname: >-
-      Jenn Lake
+      Morgan Braastad, Esq.
     bio: >-
-      #HAPA | Public Relations Executive Fashion, Home, Travel Blogger @stylecharade Chicago, Illinois | stylecharade@gmail.com
+      Lawyer Meme lord Ephesians 3:20
     location: "United States"
-    followers: 182851
-    engagement: 127
-    commentsToLikes: 0.073601
-    id: ck0ttmfca3cf60i19aasrrzm3
+    followers: 92748
+    engagement: 732
+    commentsToLikes: 0.003572
+    id: ck9hcgtg8lbj30j786061wnea
     verified: false
-    hashtags: "#liketkit, #nordstrom, #lillypulitzer, #vineyardvines"
-  - username: "lakeshorelady"
+    hashtags: "#instachicago, #fitness, #soulcycle, #independent"
+  - username: "stylingwithnina"
     fullname: >-
-      Lauren | Lake Shore Lady
+      𝓢𝓽𝔂𝓵𝓲𝓷𝓰 𝔀𝓲𝓽𝓱 𝓝𝓲𝓷𝓪
     bio: >-
-      Chicago Blogger • Petite style (5’2”) • Easy recipes • Attainable wellness • Postponed bride 👰🏻‍♀️ 💌 lauren@lakeshorelady.com
+      STYLE ✦ BEAUTY ✦ LIFESTYLE ✨ 𝕋𝕙𝕚𝕟𝕜 𝕡𝕠𝕤𝕚𝕥𝕚𝕧𝕖, 𝕓𝕖 𝕡𝕠𝕨𝕖𝕣𝕗𝕦𝕝 ✨ 📍Boston, MA 💻 LATEST BLOG POST ⇩
     location: "United States"
-    followers: 52986
-    engagement: 176
-    commentsToLikes: 0.048231
-    id: ck138q4h5hgii0i19ch0djlsb
+    followers: 63012
+    engagement: 101
+    commentsToLikes: 0.170166
+    id: ck8svxtysd3k10j785vp3s8f7
     verified: false
-    hashtags: "#lslrecipe, #ltksalealert, #lslgetsmarried, #liketkit"
-  - username: "bakedbrie__"
+    hashtags: "#potd, #fashion, #styleblogger, #wiw"
+  - username: "nishpan"
     fullname: >-
-      Baked Brie | Chicago foodie
+      Nisha Panjabi | Blogger
     bio: >-
-      Life is grate 🧀 Bri 🙋🏼‍♀️ Chicago 📍🏙 All photos by me📸
+      Fashion | Travel | Good Vibes Only 🎧 music is my sanity 🤍 giving is the most pure form of happiness 🍴@nomzfornish
     location: "United States"
-    followers: 5314
-    engagement: 964
-    commentsToLikes: 0.206828
-    id: ckap1bz68txgb0i784xnfqml2
+    followers: 6280
+    engagement: 764
+    commentsToLikes: 0.095461
+    id: ck8t491cm5x080j78qaep3fnb
     verified: false
-    hashtags: "#instayum, #312food, #weekend, #timeoutchicago"
-  - username: "sabrinaendsley"
+    hashtags: "#browngirlbloggers, #igdaily, #kickstagram, #designer"
+  - username: "midwestfoodiegirl"
     fullname: >-
-      Sabrina | Chicago Blogger
+      Michelle Koehn // Chicago Blogger
     bio: >-
-      lifestyle blogger + content creator   fresh grad 👩🏻‍🎓| french fry girl 🍟 | activist 📢 💌 sabrinaendsley@gmail.com explore more on the blog here! ↓
+      💁🏼‍♀️ Just a girl eating my way through the Midwest! 📍CHI, CLE, IND, MKE⁣ and beyond ♾ 📧 Midwestfoodiegirl312@gmail.com 📩 DM to collaborate 💥
     location: "United States"
-    followers: 5214
-    engagement: 642
-    commentsToLikes: 0.257429
-    id: ck55j18w7w0r60i11ube5jroq
+    followers: 18706
+    engagement: 230
+    commentsToLikes: 0.460809
+    id: ckqxyf8xe38xx0j235xsb60zi
     verified: false
-    hashtags: "#ad, #bepresent, #motrinpartner, #sponsored"
-  - username: "somethingwhitty"
+    hashtags: "#nycfoodie, #newyork, #212, #nyceats"
+  - username: "chaimeetstravel"
     fullname: >-
-      Whitney Buha | Chicago Blogger
+      Subanti | Chicago Blogger
     bio: >-
-      Life + style blogger Affordable fashion Splurge worthy staples 📍 Chicago 📩 Partnerships: talent@sparktalentgroup.com
+      Travel🧳| Food🍝 | Lifestyle👒 Next Stop | ✈️ Portugal 🧿 Bangladeshi American🇧🇩🇺🇸 📍Chicago 🔁Atlanta 📩Chaimeetstravel@gmail.com
     location: "United States"
-    followers: 108613
-    engagement: 102
-    commentsToLikes: 0.081209
-    id: ck0u6zn1f3fo80i19f5mctmoy
+    followers: 18257
+    engagement: 174
+    commentsToLikes: 0.103065
+    id: ckr74y5mn9ev70j238nly43eq
     verified: false
-    hashtags: "#chicagobloggers, #spanxleggings, #superdown, #revolveme"
-  - username: "marvelousinthemidwest"
-    fullname: >-
-      CARA ♥︎ Chicago Blogger
-    bio: >-
-      Lifestyle ✿ Fashion ✿ Travel ✿ Mommy & Me 📍Chicago 💍Wife & Mom to 👶🏼🐶 💌: marvelousinthemidwest@gmail.com 🛍Shop ⬇️ Liketoknow.it/marvelousinthemidwest
-    location: "United States"
-    followers: 54460
-    engagement: 127
-    commentsToLikes: 0.073044
-    id: ck0vx7lhmxjlj0i1955h5o41b
-    verified: false
-    hashtags: "#rdbabe, #ootd, #ltkbaby, #chicagoblogger"
-  - username: "lexandthecity____"
-    fullname: >-
-      Lexi Holden | Chicago Blogger
-    bio: >-
-      Your go-to for city life + style 🏙 💍 Engaged to @billandthecity!!! 🏡 Home Decor ✈️ Travel 🐱 Mom 💌: lexi.v.holden@gmail.com
-    location: "United States"
-    followers: 21123
-    engagement: 141
-    commentsToLikes: 0.108586
-    id: ck0tu6sgb5vys0i19g7q5shaq
-    verified: false
-    hashtags: "#seizeyoursummerinchicago, #livinlikeachilocal, #chicagohome, #couplesphotoshoot"
+    hashtags: "#mexicocityofficial, #chicagofoodie, #travelholic, #greece"
 ---

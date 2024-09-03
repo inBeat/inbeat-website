@@ -1,11 +1,11 @@
 ---
-title: Top 10 Barbers Instagram Influencers In Tokyo In 2023
+title: Top 10 Barbers Instagram Influencers In Tokyo In 2024
 description: >-
-  Find top barbers Instagram influencers in Tokyo in 2023. Most popular hashtags: #barber #menshair #barbershop #mensfashion.
+  Find top barbers Instagram influencers in Tokyo in 2024. Most popular hashtags: #barber #japan #mrbrotherscutclub #tokyo.
 platform: Instagram
 hits: 7
-text_top: Discover the top-rated Instagram accounts on inBeat.
-text_bottom: Our platform aggregates 7 Instagram influencers like this in Tokyo, Japan for you to collaborate.
+text_top: Discover the most popular Instagram influencers on inBeat.
+text_bottom: Our database holds 7 Instagram influencers like this in Tokyo, Japan for you to connect with.
 profiles:
   - username: "kenshi098"
     fullname: >-
@@ -91,30 +91,6 @@ profiles:
     id: ck15pkzvhyeht0i19hqavu56a
     verified: false
     hashtags: ""
-  - username: "metanastis_panagiotis"
-    fullname: >-
-      💈♠️𝕿𝖍𝖊 𝕹𝖔𝖙𝖔𝖗𝖎𝖔𝖚𝖘 𝕾𝖈𝖚𝖒𝖇𝖆𝖌♠️💈
-    bio: >-
-      📍Owner @the_rabbit_hole_barber_shop 📍Modern barber
-    location: "Japan"
-    followers: 13556
-    engagement: 691
-    commentsToLikes: 0.025897
-    id: ck9hbhmwygvd10j78k60glzpe
-    verified: false
-    hashtags: "#follow, #art, #mensfashion, #hairdressing"
-  - username: "tufavoritobarber"
-    fullname: >-
-      By: ABEL - Tuty 🇩🇴
-    bio: >-
-      𝐈 𝐥𝐨𝐯𝐞 𝐣𝐞𝐬𝐮𝐬 💎"𝐍𝐮𝐞𝐬𝐭𝐫𝐚 𝐮́𝐧𝐢𝐜𝐚 𝐲 𝐯𝐞𝐫𝐝𝐚𝐝𝐞𝐫𝐚 𝐩𝐫𝐨𝐦𝐨𝐜𝐢𝐨́𝐧 𝐞𝐬 𝐞𝐥 𝐛𝐮𝐞𝐧 𝐭𝐫𝐚𝐛𝐚𝐣𝐨"💈✂️❤️"𝐄𝐥 𝐁𝐚𝐫𝐛𝐞𝐫𝐨 𝐅𝐚𝐯𝐨𝐫𝐢𝐭𝐨 𝐝𝐞 𝐭𝐮 𝐛𝐚𝐫𝐛𝐞𝐫𝐨 𝐅𝐚𝐯𝐨𝐫𝐢𝐭𝐨" 🦍🙏🏻𝟖𝟐𝟗𝟔𝟓𝟐𝟖𝟐𝟗𝟗" 🦍 @lyanjdad
-    location: "Japan"
-    followers: 36242
-    engagement: 202
-    commentsToLikes: 0.063682
-    id: ck0w4qaiszv7x0i19hx38nfq5
-    verified: false
-    hashtags: "#labebe, #barberlove, #barberrespect, #barberporn"
   - username: "mrpotatohead59"
     fullname: >-
       Tomoya Nishimori
@@ -127,4 +103,28 @@ profiles:
     id: ck13cdzcczw2s0i19do8ucedp
     verified: false
     hashtags: "#barber, #menshair, #bloodyangleosakatong, #mizutaniscissors"
+  - username: "kenshi098"
+    fullname: >-
+      Kenshi Shiroma
+    bio: >-
+      MR.BROTHERSCUTCLUB 原宿本店 東京都渋谷区神宮前2-31-8 ☎︎03-6721-1774 @danpachi_kenshi
+    location: "Japan"
+    followers: 35975
+    engagement: 692
+    commentsToLikes: 0.001673
+    id: ck0w56ler257d0i19xusd8f6n
+    verified: false
+    hashtags: "#mrbrothers, #barber, #tokyo, #barberlife"
+  - username: "daiasian"
+    fullname: >-
+      Daia
+    bio: >-
+      FEELBOMB's
+    location: "Japan"
+    followers: 7856
+    engagement: 515
+    commentsToLikes: 0.002836
+    id: ck0w56lyn259z0i19dv4fkjjq
+    verified: false
+    hashtags: "#menshair, #shave, #vintage, #grooming"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Illustrators Instagram Influencers In Switzerland In 2023
+title: Top 10 Illustrators Instagram Influencers In Switzerland In 2024
 description: >-
-  Find top illustrators Instagram influencers in Switzerland in 2023. Most popular hashtags: #illustration #art #illustrationartists #illustrator.
+  Find top illustrators Instagram influencers in Switzerland in 2024. Most popular hashtags: #illustration #art #illustrator #procreate.
 platform: Instagram
-hits: 8
-text_top: Identify the best Instagram influencers on inBeat.
-text_bottom: Our search engine aggregates 8 Instagram influencers like this in Switzerland for you to pitch.
+hits: 9
+text_top: Identify the most popular Instagram profiles on inBeat.
+text_bottom: inBeat has 9 Instagram influencers like this in Switzerland for you to work with.
 profiles:
   - username: "lavater_art"
     fullname: >-
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.035060
     id: ck8szgi1vocu90j78q4ro2cz4
     verified: false
-    hashtags: "#cuteillustration, #digitalillustration, #funnybird, #littlemonster"
+    hashtags: "#nedasadreddin, #tabletdrawing, #cute, #littlemonster"
   - username: "miguelfigueiredoo"
     fullname: >-
       Miguel Figueiredo
@@ -47,14 +47,14 @@ profiles:
     fullname: >-
       FICHTRE !
     bio: >-
-      Mathias Forbach Visual artist, Illustrator & teacher Vevey, Switzerland #fichtre👇🏽
+      Mathias Forbach Swiss visual artist, illustrator & teacher #fichtre👇🏽shop:
     location: "Switzerland"
-    followers: 6536
-    engagement: 403
-    commentsToLikes: 0.037156
+    followers: 7130
+    engagement: 560
+    commentsToLikes: 0.048133
     id: ck5qdm4syw9420i117jyegptx
     verified: false
-    hashtags: "#handdrawn, #printmaking, #sketchbook, #drawings"
+    hashtags: "#dessin, #illustrationwork, #artistoninstagram, #couleur3"
   - username: "isabellefollath"
     fullname: >-
       Isabelle Follath
@@ -73,12 +73,24 @@ profiles:
     bio: >-
       🎨 Illustrator Represented by @jehane_ltd ✉️ info@carolinebonnemuller.com 🐳 Member SCBWI 🍄 co-founder: #folktaleweek Website and shopping:
     location: "Switzerland"
-    followers: 14810
-    engagement: 532
-    commentsToLikes: 0.051174
+    followers: 15086
+    engagement: 358
+    commentsToLikes: 0.041110
     id: ck14htro8c3k10i19pt28ovi1
     verified: false
-    hashtags: "#art, #nederlandseillustratoren, #carolinebonnemuller, #dutch"
+    hashtags: "#picturebookillustrator, #beatrixpotter, #nosycrow, #colouredpencil"
+  - username: "la___aura"
+    fullname: >-
+      𝐋𝐀𝐔𝐑𝐀 𝐇. 𝐑𝐔𝐁𝐈𝐍
+    bio: >-
+      Award-winning digital painter, specializing in realistic portraits.😃🌸 ••• 🖤👇🏻Art Shop, Brushes, Tutorials and More:
+    location: "Switzerland"
+    followers: 806789
+    engagement: 487
+    commentsToLikes: 0.010331
+    id: ck5chwhtsrlak0i11qhqoxcqx
+    verified: false
+    hashtags: "#digitalpainting, #digitalartist, #portrait, #procreateart"
   - username: "boris_zatko"
     fullname: >-
       Boris Zatko

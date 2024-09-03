@@ -1,12 +1,24 @@
 ---
-title: Top 10 Vegan Instagram Influencers In Russia In 2023
+title: Top 10 Vegan Instagram Influencers In Russia In 2024
 description: >-
-  Find top vegan Instagram influencers in Russia in 2023. Most popular hashtags: #travel #vegan #covid.
+  Find top vegan Instagram influencers in Russia in 2024. Most popular hashtags: #vegan #travel #covid.
 platform: Instagram
-hits: 108
-text_top: Identify the best Instagram profiles on inBeat.
-text_bottom: inBeat has 108 Instagram influencers like this in Russia for you to work with.
+hits: 107
+text_top: Analyze the most popular Instagram influencers on inBeat.
+text_bottom: Our search engine aggregates 107 Instagram influencers like this in Russia for you to contact.
 profiles:
+  - username: "sofiakapkovaofficial"
+    fullname: >-
+      Sofia Kapkova
+    bio: >-
+      Dance and theater producer, mom of 3 kids, vegan and immigrant in New York. Founder of @mart.foundation
+    location: "Russia"
+    followers: 13432
+    engagement: 219
+    commentsToLikes: 0.027735
+    id: ckaoqsaiek5al0i78ns5ffp32
+    verified: false
+    hashtags: "#newyorkornowhere, #winnertakenothing, #veganfood, #romainebrooks"
   - username: "lanna_sun_shine"
     fullname: >-
       Ос🪐знанная Life🧘‍♀️ SUN☀️Mood
@@ -115,16 +127,4 @@ profiles:
     id: ck5zyj1ow9z780i14jyyz2qe0
     verified: false
     hashtags: "#covid, #fire, #fashionrevolution, #pandemia"
-  - username: "maladaeva"
-    fullname: >-
-      Victoria Maladaeva
-    bio: >-
-      буряты в Калифорнии🇺🇸 sustainable living🌱 vegan🌿
-    location: "Russia"
-    followers: 8263
-    engagement: 466
-    commentsToLikes: 0.051329
-    id: ck6u75xumjoey0j71fcrmd3ua
-    verified: false
-    hashtags: "#macramewallhanging, #endpolicebrutality, #happyhalloween, #keepbaikalblue"
 ---

@@ -1,24 +1,36 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Berlin In 2023
+title: Top 10 Fashion Instagram Influencers In Berlin In 2024
 description: >-
-  Find top fashion Instagram influencers in Berlin in 2023. Most popular hashtags: #fashion #berlin #ootd #fashionblogger.
+  Find top fashion Instagram influencers in Berlin in 2024. Most popular hashtags: #berlin #fashion #blogger #fashionblogger.
 platform: Instagram
-hits: 656
+hits: 790
 text_top: See the most popular Instagram accounts on inBeat.
-text_bottom: Our search engine holds 656 Instagram influencers like this in Berlin, Germany for you to pitch.
+text_bottom: Our database has 790 Instagram influencers like this in Berlin, Germany for you to contact.
 profiles:
-  - username: "felixgabel_"
+  - username: "misscaterinac"
     fullname: >-
-      Felix Gabel
+      Caterina Catalano 🇮🇹🇩🇪 Digital Creator
     bio: >-
-      Find Your Greatness in Life & Style Fashion Inspiration for Men | Psychology of Success Berlin, Germany ✉️ contact@felixgabel.de
+      ⚜️Fashion ⚜️Photography ⚜️Travel 📍Munich @mytravelartcollection 🗺 @caterinacatalanocollection 📸 💌E-Mail: contact@caterinacatalano.com
     location: "Germany"
-    followers: 42278
-    engagement: 365
-    commentsToLikes: 0.195048
-    id: ck14hp2rcbf1a0i19ar3j318c
+    followers: 67752
+    engagement: 394
+    commentsToLikes: 0.003846
+    id: ck14jfubnk4hq0i19t83aue2i
     verified: false
-    hashtags: "#vintage, #mensfashionblog, #handsomeboy, #fitness"
+    hashtags: "#brandstrategy, #editorial, #mixedmodel, #italia"
+  - username: "leonieloh_"
+    fullname: >-
+      Leonie Lohkamp
+    bio: >-
+      FASHION/ BEAUTY/ LIFESTYLE ▫️modern, classy & feminin fashion ▫️luxury hotels & travel ▫️📩leonie-lohkamp@t-online.de ▫️❤️🐴❤️🐕 ▫️Volljuristin ▫️NRW
+    location: "Germany"
+    followers: 55666
+    engagement: 378
+    commentsToLikes: 0.017545
+    id: ck6u1c5t6kv2j0j71bb2corza
+    verified: false
+    hashtags: "#over40cosplay, #casuallook, #dailylook, #over40"
   - username: "icke_wieder_10777"
     fullname: >-
       Frank ヅ
@@ -31,42 +43,30 @@ profiles:
     id: ckaov8h603i6u0i78ivswwh6l
     verified: false
     hashtags: "#giveaway, #cool, #gay, #gewinnspiel"
-  - username: "vanessa_frr"
+  - username: "lenasfitsecret"
     fullname: >-
-      Vanessa
+      LENA 🦋
     bio: >-
-      ✗ Augsburg ✎ vanessa_frr@web.de Impressum:
+      Dresden - Germany @foodspring 15% off lenafitFSG Red Bull Wing
     location: "Germany"
-    followers: 21562
-    engagement: 613
-    commentsToLikes: 0.034757
-    id: ck0w4xr1x0xi10i19t2j2hju0
+    followers: 56384
+    engagement: 973
+    commentsToLikes: 0.020691
+    id: ck8t6swz1el9f0j78p6spvlh5
     verified: false
-    hashtags: "#springoutfit, #outfitinspiration, #ootdmagazine, #summer"
-  - username: "vannnyvw"
+    hashtags: "#fashion, #berlin, #foodspringfamily, #germany"
+  - username: "sabrinawayneee"
     fullname: >-
-      𝐕 𝐚 𝐧 𝐞 𝐬 𝐬 𝐚
+      𝐒𝐚𝐛𝐫𝐢𝐧𝐚
     bio: >-
-      𝐇 𝐚 𝐦 𝐛 𝐮 𝐫 𝐠 🌑🌘🌗🌖🌕🌔🌓🌒🌑 NURSE 🩺🤍 PODCAST 🍕🔉 It’s not the same without champagne 🥂 Travel | vegetarian | cats
+      𝐃𝐀𝐈𝐋𝐘 𝐌𝐎𝐌 𝐋𝐈𝐅𝐄 | 𝐅𝐀𝐒𝐇𝐈𝐎𝐍 | 𝐅𝐎𝐎𝐃 📍 Berlin, Braunschweig based 💌 Contact: sabrinawayneee@gmail.com Meine Posts enthalten Werbung
     location: "Germany"
-    followers: 7449
-    engagement: 280
-    commentsToLikes: 0.070217
-    id: ck8t3v0nt4lkl0j78y9e14mlr
+    followers: 27383
+    engagement: 236
+    commentsToLikes: 0.071202
+    id: ck6tul76pgyvm0j71vmqcc5jx
     verified: false
-    hashtags: "#hh, #germany, #anajohnson, #love"
-  - username: "floves_"
-    fullname: >-
-      Floves
-    bio: >-
-      content creator | photographer me & my tiny little girlgang #fashion #family #photography
-    location: "Germany"
-    followers: 9882
-    engagement: 375
-    commentsToLikes: 0.049990
-    id: ck13ctxq225750i192tbp4ljt
-    verified: false
-    hashtags: "#makemoments, #instafashion, #outfit, #prettylittleiiinspo"
+    hashtags: "#zoelugirls, #mamablogger, #happyfriday, #quotes"
   - username: "christina._be"
     fullname: >-
       christina 🌸
@@ -79,30 +79,6 @@ profiles:
     id: ck6ufg7kgwv2p0j71v078m3fd
     verified: false
     hashtags: "#happy, #fashioninspo, #selfie, #ootd"
-  - username: "julia.runova"
-    fullname: >-
-      Julietta Runova Leonidovna
-    bio: >-
-      Painter, Model, weirdo Based in Berlin
-    location: "Germany"
-    followers: 7392
-    engagement: 706
-    commentsToLikes: 0.032766
-    id: ckaoqtisqkbgg0i78qmd48omz
-    verified: false
-    hashtags: "#marilynmanson, #boudoir, #creature, #harness"
-  - username: "lil__natalie"
-    fullname: >-
-      Nɑtɑʟıє🌸
-    bio: >-
-      Bloggerin 🎀 ⠀⠀ ⠀⠀ ⠀ ⠀⠀ ⠀⠀ ⠀⠀ ⠀⠀ 💄Beauty & Fashion ⠀ ⠀ 💗Lifestyle & Fitness 🔜✈️🌏 Upcomer 2019 & 2020 💌 DM/E-Mail for Cooperation
-    location: "Germany"
-    followers: 51213
-    engagement: 229
-    commentsToLikes: 0.508958
-    id: ck5zu7zs01utw0i14awg04qxe
-    verified: false
-    hashtags: "#verlosung, #herz, #toofaced, #benefitclubpink"
   - username: "robertrieger"
     fullname: >-
       Robert Rieger
@@ -115,16 +91,40 @@ profiles:
     id: ck6ubh2qx9j5c0j71jqpqlaj0
     verified: false
     hashtags: "#design, #portrait, #interiordesign, #reportage"
-  - username: "misscaterinac"
+  - username: "jobel_mok"
     fullname: >-
-      Caterina 🇮🇹🇩🇪 Digital Creator
+      ☯️Cherry Lee Blossom☯️
     bio: >-
-      ⚜️Fashion ⚜️Photography ⚜️Travel @mytravelartcollection 🗺 @caterinacatalanocollection 📸 📍MUC/Augsburg 🔜🇮🇹🇬🇷 💌E-Mail: contact@caterinacatalano.com
+      Jobel Mokonzi 👩🏾‍🦰 Certified foodblogger @waistbeadsbyfj Sky TnT Serie ,Amazon Prime ,HBO|🔜PARA WIR SIND KING 17.04.23 on Sky Agency @actorsgarden
     location: "Germany"
-    followers: 41805
-    engagement: 491
-    commentsToLikes: 0.016739
-    id: ck14jfubnk4hq0i19t83aue2i
+    followers: 11780
+    engagement: 677
+    commentsToLikes: 0.016334
+    id: ckapbh5dlzu5p0i78vihufrji
     verified: false
-    hashtags: "#bloggeritalia, #outfitdestages, #anajohnson, #albarella"
+    hashtags: "#explore, #fashionweek, #parawirsindking, #reels"
+  - username: "annalenababatz"
+    fullname: >-
+      Anna-Lena | Content & UGC creator | Berlin
+    bio: >-
+      🎀 fashion, beauty, lifestyle, food 💎 germany, berlin 📩 an2406nalena@gmail.com
+    location: "Germany"
+    followers: 15746
+    engagement: 327
+    commentsToLikes: 0.101443
+    id: ckwel0c9xne9w0j23gkzwx2wn
+    verified: false
+    hashtags: "#berlingirl, #contentcreator, #drmartensstyle, #blackboots"
+  - username: "suserlin"
+    fullname: >-
+      SUSERLIN©️Berlin || Lifestyle
+    bio: >-
+      🖤 Fashion, Travel, Food & Lifestyle 🖤 Kooperationen via suserliin@gmail.com 🖤 Berlin
+    location: "Germany"
+    followers: 20347
+    engagement: 262
+    commentsToLikes: 1.184094
+    id: ck5hdxntqpwze0i1126g0ddrq
+    verified: false
+    hashtags: "#outfitinspiration, #portraitphotography, #blogger, #bali"
 ---

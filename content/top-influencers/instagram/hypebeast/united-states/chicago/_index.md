@@ -1,11 +1,11 @@
 ---
-title: Top 10 Hypebeast Instagram Influencers In Chicago In 2023
+title: Top 10 Hypebeast Instagram Influencers In Chicago In 2024
 description: >-
-  Find top hypebeast Instagram influencers in Chicago in 2023. Most popular hashtags: #hypebeast #chicago #ig #portraitphotography.
+  Find top hypebeast Instagram influencers in Chicago in 2024. Most popular hashtags: #hypebeast #chicago #artofchi #sneakerhead.
 platform: Instagram
-hits: 52
-text_top: Analyze the most popular Instagram influencers on inBeat.
-text_bottom: Our database has 52 Instagram influencers like this in Chicago, United States for you to collaborate.
+hits: 57
+text_top: Identify the top-rated Instagram profiles on inBeat.
+text_bottom: Our platform has 57 Instagram influencers like this in Chicago, United States for you to pitch.
 profiles:
   - username: "noserain"
     fullname: >-
@@ -19,6 +19,18 @@ profiles:
     id: ck0u055opsmcx0i19nck4jnul
     verified: false
     hashtags: "#toyphotography, #mandomondays, #hottoys, #themandalorian"
+  - username: "yng.pablo"
+    fullname: >-
+      Vaylen D. Pabón-Moralés️️️️
+    bio: >-
+      𝖕𝖆𝖇𝖑𝖔® 𓆟 . . Dm on custom request
+    location: "United States"
+    followers: 11184
+    engagement: 603
+    commentsToLikes: 0.045066
+    id: ck5qbfgaqlcwz0i1158urjeyk
+    verified: false
+    hashtags: "#shoes, #complexsneakers, #sneakerheads, #af1"
   - username: "az1217_"
     fullname: >-
       YueCheng Zhang
@@ -43,18 +55,30 @@ profiles:
     id: ck5he28eaqned0i11izoki2ly
     verified: false
     hashtags: "#jordan1, #hskicks, #jordan1club, #travisscott"
-  - username: "yng.pablo"
+  - username: "_zannie_"
     fullname: >-
-      Vaylen D. Pabón-Moralés️️️️
+      Zainab Noor
     bio: >-
-      𝖕𝖆𝖇𝖑𝖔® 𓆟 . . Dm on custom request
+      📍Chicago 📷A little bit of everything Fashion | Aesthetic | Beauty | Lifestyle 💌PR/Collab | zannienoor@gmail.com
     location: "United States"
-    followers: 11184
-    engagement: 603
-    commentsToLikes: 0.045066
-    id: ck5qbfgaqlcwz0i1158urjeyk
+    followers: 6868
+    engagement: 218
+    commentsToLikes: 0.167774
+    id: ck9wgi8patja60j78k68wvcda
     verified: false
-    hashtags: "#shoes, #sneakers, #art, #jordan1"
+    hashtags: "#pakistaniblogger, #pakistanibloggers, #outfitofthedaybabe, #pinterestinspired"
+  - username: "ddesigns_"
+    fullname: >-
+      Dennis
+    bio: >-
+      Direction over speed Chicago 📍 ddesignsmultimedia@gmail.com
+    location: "United States"
+    followers: 63103
+    engagement: 97
+    commentsToLikes: 0.054262
+    id: ck14kdxx6p1x30i19e56z550e
+    verified: false
+    hashtags: "#atarithealbum, #xboxpartner, #sponsored"
   - username: "emilygualdoniphoto"
     fullname: >-
       Chicago Fashion Photographer
@@ -78,19 +102,7 @@ profiles:
     commentsToLikes: 0.077064
     id: ck5bznzrhris40i114nqueagf
     verified: true
-    hashtags: "#instadaily, #work, #stylist, #photography"
-  - username: "ddesigns_"
-    fullname: >-
-      Dennis
-    bio: >-
-      Just doing stuff Chicago📍
-    location: "United States"
-    followers: 67874
-    engagement: 163
-    commentsToLikes: 0.037403
-    id: ck14kdxx6p1x30i19e56z550e
-    verified: false
-    hashtags: "#aspenfilm, #shortsfest30, #xboxpartner, #sponsored"
+    hashtags: "#look, #selenagomezstyle, #fashioninspo, #campaign"
   - username: "deftony83"
     fullname: >-
       Charlie 🇵🇦|| Drone Pilot
@@ -115,16 +127,4 @@ profiles:
     id: ckap1k1hnuv4b0i782ztnr0u9
     verified: false
     hashtags: "#synthwave, #bokehlicious, #houseoftones, #shotzdelight"
-  - username: "phildavila1"
-    fullname: >-
-      Phil
-    bio: >-
-      📍Chicago. Featured: @complex @complexmusic @billboardhiphop
-    location: "United States"
-    followers: 5025
-    engagement: 580
-    commentsToLikes: 0.029121
-    id: ck8szlj64owsi0j78uzol07qg
-    verified: false
-    hashtags: "#portraitphotography, #fashion, #luxury, #music"
 ---

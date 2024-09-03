@@ -1,130 +1,130 @@
 ---
-title: Top 10 Music Instagram Influencers In Italy In 2023
+title: Top 10 Music Instagram Influencers In Italy In 2024
 description: >-
-  Find top music Instagram influencers in Italy in 2023. Most popular hashtags: #travelphotography #italy #travelgram.
+  Find top music Instagram influencers in Italy in 2024. Most popular hashtags: #dj #music #twitter.
 platform: Instagram
-hits: 1432
-text_top: Discover the top-rated Instagram accounts on inBeat.
-text_bottom: Our search engine has 1432 Instagram influencers like this in Italy for you to collaborate.
+hits: 1520
+text_top: Analyze the top-rated Instagram influencers on inBeat.
+text_bottom: Our database aggregates 1520 Instagram influencers like this in Italy for you to pitch.
 profiles:
-  - username: "nicholas.baldini"
+  - username: "vincentderobertis"
     fullname: >-
-      Nicholas
+      Vincent De Robertis
     bio: >-
-      ho idee strane che diventano video musicali 🎈 300+ video musicali diretti 2 record mondiali 500+ milioni di visualizzazioni
+      CEO Panorama Festival Guendalina Music Crew Synphonya Festival Music Adventure Puglia Wave @panoramafestival_ @guendalina_music_crew @synphonya
     location: "Italy"
-    followers: 30535
-    engagement: 2531
-    commentsToLikes: 0.084334
-    id: ck5q59dvcrw0p0i1158sv0e79
+    followers: 19240
+    engagement: 755
+    commentsToLikes: 0.042539
+    id: ck13bdybauyrx0i19xs32sand
     verified: false
-    hashtags: "#2020"
-  - username: "stereolady"
+    hashtags: "#guendalinaclub, #resilienza, #musicadventure, #weareinpuglia"
+  - username: "jakewebber9"
     fullname: >-
-      StereoLady 🎧❤️
+      Jake Webber
     bio: >-
-      Rome 🇮🇹 music 🎵 drums & piano 🥁 cooking 🍽️ walking 🚶 programming 💾 languages 🈴 sharing thoughts & emotions 💭 being awake at night 🌙 astronomy 💫
+      youtube videos, rock music, and rotting. I LOVE MY NO NAMES!🖤
     location: "Italy"
-    followers: 33450
-    engagement: 602
-    commentsToLikes: 0.075964
-    id: ck8tahj87rs2p0j78rh1p3ygr
+    followers: 1193498
+    engagement: 915
+    commentsToLikes: 0.007071
+    id: ck13bzobmxxnc0i19spym07qa
     verified: false
-    hashtags: "#pianist, #longhairgirl, #angel, #piano"
-  - username: "bonettimirko"
+    hashtags: "#ad"
+  - username: "diegoleanza"
     fullname: >-
-      Mirko Bonetti
+      Diego Leanza
     bio: >-
-      🦁 Brescia 🇮🇹 Italian 🏋 Fit Life 🎶🎧 Music Collaboration: 📧 mirko.bonetti1613@gmail.com
+      Guitarist / Singer / Producer / Session Man Music 👇
     location: "Italy"
-    followers: 18870
-    engagement: 678
-    commentsToLikes: 0.167708
-    id: ck134zf9uyy1b0i19nnsolon2
+    followers: 76410
+    engagement: 417
+    commentsToLikes: 0.029970
+    id: ckap3ozg53xeh0i78k0ay7lht
     verified: false
-    hashtags: "#maniereitaliane, #intimo, #sustenable, #instatags4likes"
-  - username: "matiascaviglia.mc"
+    hashtags: "#guitarlife, #guitarplayer, #chitarra, #bluesrock"
+  - username: "djmargotofficial"
     fullname: >-
-      Matias Caviglia
+      • 𝗠𝗔𝗥𝗚𝗢𝗧 •
     bio: >-
-      Amo la musica anche se voi non ci credete
+      From 🇺🇦 Based in 🇮🇹 • ＤＥＥＪＡＹ | Producer | HARD Music • BOOKING —> elisa@albertogobbi.com <— RELOAD ANTHEM OUT NOW ⬇️⬇️⬇️
     location: "Italy"
-    followers: 331870
-    engagement: 506
-    commentsToLikes: 0.033144
-    id: ckap6y5oxhurt0i78gqg5iqyo
+    followers: 37357
+    engagement: 468
+    commentsToLikes: 0.017005
+    id: ck5c9wzs8cadk0i114nc1830x
+    verified: false
+    hashtags: "#uefaukraine, #italy, #djmargot, #hardstyle"
+  - username: "efremlamesta"
+    fullname: >-
+      Efrem
+    bio: >-
+      Ciao, I’m Efrem. I make YouTube videos, music and a bunch of other things. 🇮🇹 📍New York City
+    location: "Italy"
+    followers: 69362
+    engagement: 605
+    commentsToLikes: 0.007174
+    id: ck5c16dkaujrw0i1139zuriv7
+    verified: false
+    hashtags: "#semplicementebanca, #aroundforgood, #huaweinova9se, #huaweimatepad2022"
+  - username: "amedeoprecious"
+    fullname: >-
+      Amedeo Preziosi
+    bio: >-
+      Cͨrͬeͤaͣtͭoͦrͬ🎬Cͨoͦmͫeͤdͩiͥaͣn̾🎭S̾iͥn̾g̾eͤrͬ🎤 music: @amedeopreciousmusic Business/info: info@247production.it
+    location: "Italy"
+    followers: 1543854
+    engagement: 514
+    commentsToLikes: 0.001941
+    id: ck0tu1emc57hm0i19w6q643c7
     verified: true
-    hashtags: "#maticavi, #freestyle, #newwave, #soon"
-  - username: "jebusmusic"
-    fullname: >-
-      Jebus
-    bio: >-
-      Haifa Based Musician Working at @maysadaw
-    location: "Italy"
-    followers: 14983
-    engagement: 618
-    commentsToLikes: 0.071684
-    id: ck5zq71zsu2760i14pyfrs9fl
-    verified: false
-    hashtags: "#traveler, #couples, #travelling, #couplegoals"
-  - username: "l0000lita"
-    fullname: >-
-      𝕷𝖔𝖑𝖎𝖙𝖆
-    bio: >-
-      🇷🇸 🇭🇷 🇮🇹 (queenlolita13 on COD) FACCIO MUSICA E FACCIO DISASTRI 💌 nataliakol@libero.it ⬇️ ASCOLTA ORA “CHI “ ⬇️
-    location: "Italy"
-    followers: 139821
-    engagement: 2418
-    commentsToLikes: 0.073113
-    id: ck6uevyente4r0j71wg0a1ih5
-    verified: false
-    hashtags: "#stotornandomerde"
-  - username: "sentichiviaggia"
-    fullname: >-
-      Nicoletta|Travel blogger
-    bio: >-
-      🌎Viaggiatrice con il pallino per la musica 🎸Rock addicted on the road 🚙 viaggi improvvisati ed itinerari musicali⚡️ Un’idea di viaggio per te⬇️
-    location: "Italy"
-    followers: 10109
-    engagement: 691
-    commentsToLikes: 0.193883
-    id: ck0tx23kthl850i196uqd5lcp
-    verified: false
-    hashtags: "#emiliaromagna, #estate2021, #ig, #travelphotography"
-  - username: "cathyboo1"
-    fullname: >-
-      Caterina Amatulli
-    bio: >-
-      Ambassador @mamma_milano @beatotemilano 📍Milan 💬 verbally incontinent 🎥 #Mediaset troublemaker, love sarcasm I believe in karma, music and pizza 🍕
-    location: "Italy"
-    followers: 6966
-    engagement: 778
-    commentsToLikes: 0.249247
-    id: ck8t1smy1wv4i0j78ludw25jw
-    verified: false
     hashtags: ""
-  - username: "maurizio_bignone_official"
+  - username: "strap_ig"
     fullname: >-
-      Maurizio Bignone
+      Il rap è la mia strada
     bio: >-
-      Pianist, Composer, Writer. Discover my music on YouTube channel ⬇️
+      Music & Urban Culture 🗞 📲 • Rimani aggiornato su news e nuove tendenze🌐 • Dm or mail for Promo & Collab 📩🤝
     location: "Italy"
-    followers: 10300
-    engagement: 1004
-    commentsToLikes: 0.076386
-    id: ck13cna8h170k0i19zi2ytxob
+    followers: 183112
+    engagement: 734
+    commentsToLikes: 0.013176
+    id: ck8t7z5c4ii4l0j78tdajz40g
     verified: false
-    hashtags: ""
-  - username: "francesco__capodacqua"
+    hashtags: "#ilrap, #attualit, #rapitaliano, #strap"
+  - username: "stefanofisico"
     fullname: >-
-      FRANCESCO CAPODACQUA
+      Stefano Fisico | Giornalista - Speaker - Dj
     bio: >-
-      📍Roma 🎤🎼🎭Musica&Spettacolo ✈️🏝☀️ Viaggi 🎾Padel 😄Distributore di Sorrisi Sono single perché sicuramente nel mondo siamo dispari.
+      📝Consulenza artistica musicale 🎙️Opinionista sportivo @qsvs_official e @topcalcio24_official 📰 Il mio blog @stefanofisico.it 🐶 Papà di @oliverandig ❤️
     location: "Italy"
-    followers: 22906
-    engagement: 430
-    commentsToLikes: 0.070984
-    id: ck6ubfu119bj60j718vw66fzu
+    followers: 95434
+    engagement: 453
+    commentsToLikes: 0.062510
+    id: ck6tqi5korlsa0j71awbueol1
+    verified: true
+    hashtags: "#billboarditalia, #interview, #dj, #stefanofisico"
+  - username: "nello_taver2"
+    fullname: >-
+      Nello Taver
+    bio: >-
+      Booking: @bombadischi Mgmt:@thamsanqa___ ASCOLTA LA MIA MUSICA GUARDA IL MIO FILM VIENI AGLI SHOW:
+    location: "Italy"
+    followers: 622055
+    engagement: 692
+    commentsToLikes: 0.005732
+    id: clqsheeja0bez0k08hheszm6f
     verified: false
-    hashtags: "#padelmania, #padelmagazine, #padelon, #padelpeople"
+    hashtags: "#news, #mybodymychoice, #fallimento, #movie"
+  - username: "monagocheff"
+    fullname: >-
+      Mona Gocheva
+    bio: >-
+      #Actress🎬 #Vlogger📸 #Musician 🎤 #Proudmommy❤️ #dopwifey 💙 #революцияz #НетакаБрат 🤓 #ПъзелПохитени 🆘 ⬇️Новото видео тук ⬇️
+    location: "Italy"
+    followers: 116969
+    engagement: 464
+    commentsToLikes: 0.080532
+    id: ck8sx4zcyg6hp0j78somhuhjp
+    verified: false
+    hashtags: "#weddingday, #weddingphotography, #funnyreels, #breastfeeding"
 ---

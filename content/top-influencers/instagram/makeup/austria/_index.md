@@ -1,36 +1,48 @@
 ---
-title: Top 10 Makeup Instagram Influencers In Austria In 2023
+title: Top 10 Makeup Instagram Influencers In Austria In 2024
 description: >-
-  Find top makeup Instagram influencers in Austria in 2023. Most popular hashtags: #vienna #makeup #fashion #outfitoftheday.
+  Find top makeup Instagram influencers in Austria in 2024. Most popular hashtags: #makeup #fashion #ootd #vienna.
 platform: Instagram
-hits: 68
-text_top: Identify the most popular Instagram accounts on inBeat.
-text_bottom: inBeat has 68 Instagram influencers like this in Austria for you to pitch.
+hits: 77
+text_top: Analyze the top-rated Instagram profiles on inBeat.
+text_bottom: Our platform holds 77 Instagram influencers like this in Austria for you to collaborate.
 profiles:
-  - username: "sheri_show"
+  - username: "lorenayessir"
     fullname: >-
-      Shqlawa
+      LORENA ANDESSNER
     bio: >-
-      📍 Vienna •Certified MUA •Makeup• Hair •Beauty • Lifestyle •For appointment: +43 681 10884281 •10/192
+      petite fashion, makeup, skincare, tattoos ✨ based in vienna podcast: einer geht noch
     location: "Austria"
-    followers: 61326
-    engagement: 244
-    commentsToLikes: 0.055980
-    id: ck8ta6eejqlzf0j78zskkwc4n
+    followers: 72978
+    engagement: 143
+    commentsToLikes: 0.009851
+    id: ck0vwd4brt5og0i198cha8hmj
     verified: false
-    hashtags: "#vienna, #fashion, #styleblogger, #shein"
-  - username: "natalkadalka"
+    hashtags: "#trending, #tattoos, #girlwithtattoos, #ootd"
+  - username: "giveherglitter"
     fullname: >-
-      NataliaS 💕
+      Ursula Reiter
     bio: >-
-      ~Made in Vienna 🇦🇹 Lives in Warsaw 🇵🇱 ~In love with modeling👱🏻‍♀️, makeup💄, fashion👗and travel🌍✈️ ~Wife&Mom 💍👶🏼 For COLLAB 👉🏻 DM📩❤️
+      makeup | everything beauty | life vienna • linz
     location: "Austria"
-    followers: 43663
-    engagement: 276
-    commentsToLikes: 0.060784
-    id: ck0udkzonjf070i19wxahth7l
+    followers: 17667
+    engagement: 84
+    commentsToLikes: 0.064395
+    id: ck0w3kb2hturt0i19kopndlop
     verified: false
-    hashtags: "#polskakobieta, #shortdress, #beautyqueen, #angelface"
+    hashtags: "#drogerie, #skincare, #naturalmakeup, #hair"
+  - username: "badgalfani"
+    fullname: >-
+      𝑀𝑎𝑘𝑒𝑢𝑝 𝐴𝑟𝑡𝑖𝑠𝑡 | 𝑆𝑖𝑛𝑔𝑒𝑟
+    bio: >-
+      where Langos meets Kaiserschmarrn certified & published Makeup Artist
+    location: "Austria"
+    followers: 40599
+    engagement: 47
+    commentsToLikes: 0.017539
+    id: ck0vzntyqa0sj0i192771b0q2
+    verified: false
+    hashtags: "#ootd, #idealofsweden, #selfie, #vienna"
   - username: "shadesbynina"
     fullname: >-
       nina 🤍 makeup artist
@@ -42,7 +54,7 @@ profiles:
     commentsToLikes: 0.087818
     id: ck8t0ixkis7tt0j7848javd0l
     verified: false
-    hashtags: "#beginnermakeup, #eyemakeupideas, #eyeart, #abhbrows"
+    hashtags: "#makeup4glam, #igersvienna, #muasfam, #eyeartist"
   - username: "model_athraa"
     fullname: >-
       عذراءالـعبيدي||Athraa alobide
@@ -57,16 +69,16 @@ profiles:
     hashtags: ""
   - username: "mattioner"
     fullname: >-
-      ENIGMA
+      Enigma
     bio: >-
-      Mate Szabo® 🇬🇷🇭🇺 | makeup artist | persona Enigma|📍Vienna, Austria
+      Matheos Szabo Half greek half hungarian Freelance makeup artist Drag artist Enigma Content creator 📍Vienna Bookings,PR, Collabs via Mail.
     location: "Austria"
-    followers: 17215
-    engagement: 774
-    commentsToLikes: 0.049725
+    followers: 17132
+    engagement: 355
+    commentsToLikes: 0.015126
     id: ck5hs5l2ow1270i11as5egx90
     verified: false
-    hashtags: "#dragmakeup, #welovequeens, #csala, #vienna"
+    hashtags: "#drag, #dragqueens, #dragqueensofinstagram, #tatt"
   - username: "adi.hasic"
     fullname: >-
       Adi Hasic
@@ -78,7 +90,7 @@ profiles:
     commentsToLikes: 0.032187
     id: ck5cekt64l6xu0i11ixc6oq90
     verified: false
-    hashtags: "#summer, #sun, #hoscos, #hairy"
+    hashtags: "#outfitinspiration, #travelphotography, #beard, #mensstreetstyle"
   - username: "sarah.stormborn"
     fullname: >-
       Sarah Stormborn
@@ -91,40 +103,28 @@ profiles:
     id: ck8t815ukiqas0j7802q56q8b
     verified: false
     hashtags: "#nugoth, #halloweencostume, #gothicstyle, #wearekillstar"
-  - username: "olga_sankin"
+  - username: "tamara_tvl"
     fullname: >-
-      Olga Sankin
+      Tamara
     bio: >-
-      🇰🇿 🇷🇺 Makeup & Opinions 🇩🇪 🇦🇹 Twitter & TikTok: olga_sankin
+      📍Austria 🇦🇹
     location: "Austria"
-    followers: 33130
-    engagement: 514
-    commentsToLikes: 0.086034
-    id: ckap50rbj9o6q0i78fn3bgc30
+    followers: 150202
+    engagement: 538
+    commentsToLikes: 0.013919
+    id: ck8t4we3883cq0j78ghdl5ikv
     verified: false
-    hashtags: "#makeuptutorial, #eyeliner, #oljaljas, #makeuplook"
-  - username: "hellinrojda"
+    hashtags: "#fashionstyle, #photooftheday, #art, #happy"
+  - username: "vanessa.maria.inked"
     fullname: >-
-      HÊLLÎN ROJDA
+      𝐕𝐚𝐧𝐞𝐬𝐬𝐚 Maria
     bio: >-
-      
+      🖤Cars| Lifestyle 🖤Switzerland 🖤 Business ♥️🔒 Love @daniel.jaufenthaler
     location: "Austria"
-    followers: 20229
-    engagement: 1440
-    commentsToLikes: 0.054901
-    id: ck9wdkanzg1f50j78zx2huuhl
+    followers: 45904
+    engagement: 291
+    commentsToLikes: 0.019751
+    id: ck9h9xfhkac840j78i4giq3yf
     verified: false
-    hashtags: "#peja, #turkey, #photooftheday, #zaraoutfit"
-  - username: "austriasginger"
-    fullname: >-
-      Ｈａｎｎａ Ｎｉｅｄｒｉｓｔ
-    bio: >-
-      made in vienna | 2001 🫐Tiktok: austriasginger [243k+] 🔅Moderatorin [certified] ↘️LATEST VIDEO↙️
-    location: "Austria"
-    followers: 24131
-    engagement: 984
-    commentsToLikes: 0.035980
-    id: ck5c862vp8ufb0i11svc3daw5
-    verified: false
-    hashtags: "#makeup, #sky, #trip, #greece"
+    hashtags: "#tattoomodel, #lingeriesensual, #fashion, #inkedlife"
 ---

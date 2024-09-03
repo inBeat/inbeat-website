@@ -1,11 +1,11 @@
 ---
-title: Top 10 Mothers TikTok Influencers In South Africa In 2023
+title: Top 10 Mothers TikTok Influencers In South Africa In 2024
 description: >-
-  Find top mothers TikTok influencers in South Africa in 2023. Most popular hashtags: #duet #fyp #foryou #tiktoksouthafrica.
+  Find top mothers TikTok influencers in South Africa in 2024. Most popular hashtags: #duet #tiktoksouthafrica #fyp #foryou.
 platform: TikTok
 hits: 26
-text_top: Analyze the most popular TikTok influencers on inBeat.
-text_bottom: inBeat has 26 TikTok influencers like this in South Africa for you to connect with.
+text_top: Discover the most popular TikTok accounts on inBeat.
+text_bottom: Our search engine has 26 TikTok influencers like this in South Africa for you to contact.
 profiles:
   - username: "shewolfsa"
     fullname: >-

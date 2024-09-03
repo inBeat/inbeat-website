@@ -1,11 +1,11 @@
 ---
-title: Top 10 Painters TikTok Influencers In Austria In 2023
+title: Top 10 Painters TikTok Influencers In Austria In 2024
 description: >-
-  Find top painters TikTok influencers in Austria in 2023. Most popular hashtags: #fyp #foryou #foryoupage #painting.
+  Find top painters TikTok influencers in Austria in 2024. Most popular hashtags: #fyp #foryou #foryoupage #painting.
 platform: TikTok
 hits: 11
-text_top: Analyze the most popular TikTok profiles on inBeat.
-text_bottom: Our platform has 11 TikTok influencers like this in Austria for you to collaborate.
+text_top: Analyze the top-rated TikTok accounts on inBeat.
+text_bottom: Our search engine has 11 TikTok influencers like this in Austria for you to pitch.
 profiles:
   - username: "kataroushka"
     fullname: >-
@@ -66,7 +66,7 @@ profiles:
     commentsToLikes: 0.023158
     id: ck9gl3et2mcxy0j7824akp7xf
     verified: false
-    hashtags: "#brandyhaul, #foryoupage, #summer, #brandymelville"
+    hashtags: "#brandyhaul, #foryou, #summer, #foryoupage"
   - username: "youresobanana_"
     fullname: >-
       alexandra

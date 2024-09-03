@@ -1,12 +1,48 @@
 ---
-title: Top 10 Graphic-Designers Instagram Influencers In Indonesia In 2023
+title: Top 10 Graphic-Designers Instagram Influencers In Indonesia In 2024
 description: >-
-  Find top graphic-designers Instagram influencers in Indonesia in 2023. Most popular hashtags: #illustration #typegang #ootd.
+  Find top graphic-designers Instagram influencers in Indonesia in 2024. Most popular hashtags: #illustration #artwork #typegang.
 platform: Instagram
-hits: 23
-text_top: Discover the top-rated Instagram influencers on inBeat.
-text_bottom: Our platform has 23 Instagram influencers like this in Indonesia for you to pitch.
+hits: 44
+text_top: Discover the best Instagram profiles on inBeat.
+text_bottom: inBeat aggregates 44 Instagram influencers like this in Indonesia for you to work with.
 profiles:
+  - username: "kevinswork"
+    fullname: >-
+      Kevin Lagona
+    bio: >-
+      Illustrator • Graphic Designer Fashion & lifestyle content creator 📮kevinswrk@gmail.com
+    location: "Indonesia"
+    followers: 52644
+    engagement: 124
+    commentsToLikes: 0.084189
+    id: ck5hieui2d5na0i11e7oxh8c9
+    verified: false
+    hashtags: "#streetfashion, #streetwear, #sneakers, #ootd"
+  - username: "michellindw"
+    fullname: >-
+      Mich
+    bio: >-
+      Fashion | Beauty | Lifestyle @michellin.mua💄 | @michellinshop 👗 Graphic Designer #revu_id_275604a9
+    location: "Indonesia"
+    followers: 81247
+    engagement: 82
+    commentsToLikes: 0.248835
+    id: ck8sxwu5giymm0j78c6ro44am
+    verified: false
+    hashtags: "#charisceleb, #seorina, #acwell, #pinkminumchallenge"
+  - username: "ernandaputra"
+    fullname: >-
+      Ernanda Putra
+    bio: >-
+      Graphic Designer & Maker at @makna group.com
+    location: "Indonesia"
+    followers: 508981
+    engagement: 36
+    commentsToLikes: 0.005153
+    id: ck5chnz64r4xo0i11247bqmdg
+    verified: true
+    hashtags: "#foreverreds, #kawalgaruda, #thevisionist, #ynwa"
   - username: "poseijon"
     fullname: >-
       John Matakena 🔱
@@ -19,54 +55,18 @@ profiles:
     id: ckap1m824v58v0i788zgus23x
     verified: false
     hashtags: "#hidupkansemangatmu"
-  - username: "michellindw"
+  - username: "ganeca__"
     fullname: >-
-      Mich
+      Gavriella Diandra Ganesh
     bio: >-
-      Fashion | Beauty | Lifestyle Makeup Artist @michellin.mua Graphic Designer
+      Illustrator - Graphic Designer / 🇮🇩 / ♈️ / 💚 / @coretan_ganeca 📧 gavriella.diandra.gd@gmail.com Any portofolio and my profile in here
     location: "Indonesia"
-    followers: 50532
-    engagement: 80
-    commentsToLikes: 0.077056
-    id: ck8sxwu5giymm0j78c6ro44am
+    followers: 12418
+    engagement: 582
+    commentsToLikes: 0.011607
+    id: ckaosxjx2th0x0i78jroo3gic
     verified: false
-    hashtags: "#threeunclesgiveaway, #twinsiedress, #idefashion, #shopfromhome"
-  - username: "kevinswork"
-    fullname: >-
-      Kevin Lagona
-    bio: >-
-      Illustrator/ Graphic Designer
-    location: "Indonesia"
-    followers: 43971
-    engagement: 190
-    commentsToLikes: 0.074872
-    id: ck5hieui2d5na0i11e7oxh8c9
-    verified: false
-    hashtags: "#commuterbikeid, #pahi, #simplefits, #istkicks"
-  - username: "ulynovita"
-    fullname: >-
-      Uly Novita Siahaan
-    bio: >-
-      Badut Indonesia 💄Art Makeup 🎤 Singer 🎨 Illustrator-GraphicDesigner Endorsement (DM) @madaugh.kitchen my ART Acc @aquarelly.id Youtube :
-    location: "Indonesia"
-    followers: 138882
-    engagement: 721
-    commentsToLikes: 0.030636
-    id: ck6u7x0lho5ir0j712o3w2czy
-    verified: false
-    hashtags: "#makeup, #emojichallenge, #indovidgram, #tiktokindonesia"
-  - username: "rachelajeng"
-    fullname: >-
-      rachelajengteam@gmail.com
-    bio: >-
-      illustrator & graphic designer no DM; email for inquiries @artcamp_id @printandpattern.id
-    location: "Indonesia"
-    followers: 35983
-    engagement: 449
-    commentsToLikes: 0.025702
-    id: ck0w750xpbsfu0i19rywsher5
-    verified: false
-    hashtags: "#illustration, #painting, #illustrator, #gouachelandscape"
+    hashtags: "#art, #pratice, #illustration, #webinarindonesia"
   - username: "joliecactus"
     fullname: >-
       Joliecactus ©
@@ -103,18 +103,6 @@ profiles:
     id: ck5zirjjzg8qp0i14l123ydc3
     verified: false
     hashtags: "#yukngajionline, #jalankebaikan, #dirumahaja, #hasanahbankingpartner"
-  - username: "ernandaputra"
-    fullname: >-
-      Ernanda Putra
-    bio: >-
-      Dad, Husband, Part-time Graphic Designer & Full-time Learner.
-    location: "Indonesia"
-    followers: 515807
-    engagement: 78
-    commentsToLikes: 0.003773
-    id: ck5chnz64r4xo0i11247bqmdg
-    verified: true
-    hashtags: "#fearless, #quarantinetravelsession, #shotoniphone, #lifematters"
   - username: "millart.said"
     fullname: >-
       Millar
@@ -127,4 +115,16 @@ profiles:
     id: ck5q2d6f0ffg70i11aqyuqlaz
     verified: false
     hashtags: "#hardwork, #choppersmagazine, #millartsaid, #typegang"
+  - username: "arifwhy"
+    fullname: >-
+      Arif Wahyudi
+    bio: >-
+      #Illustrator Pop-Culture and #graphicdesigner Based in Bandung, West java - Indonesia 📩 rievwhy@gmail.com 📱 +6285352713234 #ripcreat #arifwhy
+    location: "Indonesia"
+    followers: 5565
+    engagement: 3970
+    commentsToLikes: 0.039941
+    id: ck13bdl1qux2u0i19gp4m087d
+    verified: false
+    hashtags: "#vector, #illustration, #arifwhy, #illustrator"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Cinema TikTok Influencers In 2023
+title: Top 10 Cinema TikTok Influencers In 2024
 description: >-
-  Find top cinema TikTok influencers in 2023. Most popular hashtags: #duet #fyp #foryou #stitch.
+  Find top cinema TikTok influencers in 2024. Most popular hashtags: #duet #fyp #foryou #stitch.
 platform: TikTok
-hits: 1304
-text_top: See the best TikTok accounts on inBeat.
-text_bottom: Our database aggregates 1304 TikTok influencers like this for you to work with.
+hits: 1315
+text_top: Discover the most popular TikTok profiles on inBeat.
+text_bottom: inBeat aggregates 1315 TikTok influencers like this for you to work with.
 profiles:
   - username: "marciosala6.1"
     fullname: >-
@@ -19,18 +19,6 @@ profiles:
     id: ck94g4j1lea0y0j78vhir66b4
     verified: false
     hashtags: "#harrypotter, #newtscamander, #potterhead, #lufalufa"
-  - username: "jerodyoung52"
-    fullname: >-
-      jerodyoung52
-    bio: >-
-      CEO of making things cinematic 👑 Joined Tik Tok: 5/4/20. Pueblo, Colorado 📍
-    location: "United States"
-    followers: 7741
-    engagement: 2173
-    commentsToLikes: 0.085825
-    id: ckb9feawr3oef0j23arenp0vz
-    verified: false
-    hashtags: "#pueblocolorado, #filmmaking, #transitions, #music"
   - username: "matte.boy"
     fullname: >-
       Matt
@@ -38,11 +26,11 @@ profiles:
       Presented in CinemaScope
     location: "United States"
     followers: 15500
-    engagement: 2042
-    commentsToLikes: 0.052670
+    engagement: 2039
+    commentsToLikes: 0.052640
     id: ckafurqbibqv20i78mi94ihf8
     verified: false
-    hashtags: "#duet, #lalaland, #stitch, #frankocean"
+    hashtags: "#duet, #stitch, #frankocean, #vinyl"
   - username: "jude_thaadikaran"
     fullname: >-
       Dude
@@ -66,7 +54,7 @@ profiles:
     commentsToLikes: 0.160518
     id: ckbkk0i3pctor0j238ycxgy8i
     verified: false
-    hashtags: "#film, #fyp, #anime, #filmtiktok"
+    hashtags: "#anime, #filmtiktok, #film, #fyp"
   - username: "saajancomedystudio"
     fullname: >-
       SAAjan COMedian
@@ -127,4 +115,16 @@ profiles:
     id: ck94g4lxvealj0j780jzpxc5o
     verified: true
     hashtags: "#looksapollo, #apojucca, #ressobrasil, #irm"
+  - username: "shafeekdropz"
+    fullname: >-
+      Shafeek Dropz
+    bio: >-
+      Instagram വായോ 👆🏻🔥 Cinema പ്രാന്തന്🔥 Insta ID shafeekdropzz
+    location: "Saudi Arabia"
+    followers: 105500
+    engagement: 933
+    commentsToLikes: 0.065490
+    id: ck9gr50j5cgg90j781ckmn97i
+    verified: false
+    hashtags: "#malayalam, #saudi, #ksa, #dubai"
 ---

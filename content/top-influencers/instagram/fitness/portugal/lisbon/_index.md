@@ -1,24 +1,12 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Lisbon In 2023
+title: Top 10 Fitness Instagram Influencers In Lisbon In 2024
 description: >-
-  Find top fitness Instagram influencers in Lisbon in 2023. Most popular hashtags: #portugal #fashion #photooftheday #instagood.
+  Find top fitness Instagram influencers in Lisbon in 2024. Most popular hashtags: #portugal #fitness #summer #motivation.
 platform: Instagram
-hits: 7
-text_top: Analyze the most popular Instagram accounts on inBeat.
-text_bottom: inBeat holds 7 Instagram influencers like this in Lisbon, Portugal for you to work with.
+hits: 8
+text_top: Identify the most popular Instagram influencers on inBeat.
+text_bottom: inBeat aggregates 8 Instagram influencers like this in Lisbon, Portugal for you to collaborate.
 profiles:
-  - username: "goncaloasilva"
-    fullname: >-
-      Gonçalo Silva
-    bio: >-
-      Portuguese Photographer #goncalosilva #film #lisbon
-    location: "Portugal"
-    followers: 28937
-    engagement: 160
-    commentsToLikes: 0.017782
-    id: ck6ueo5ois3q90j71b3ki618u
-    verified: false
-    hashtags: "#portra800, #lisbon, #film, #goncalosilva"
   - username: "coach_saraserol"
     fullname: >-
       Sara Serol
@@ -31,6 +19,30 @@ profiles:
     id: ckf5n8h9ix5j30j23bhiyg8gx
     verified: false
     hashtags: "#fitgirl, #ootd, #summer, #water"
+  - username: "the_moroccan_fit"
+    fullname: >-
+      ||The Warrior - المحاربة||
+    bio: >-
+      •Sports Lawyer ⚖️ •Law&Management 📚 •NASM & EREPS 3 Certified PT 🏋🏻‍♀️ •Certified sport nutritionist 🍏 📨Online Coaching : @coachingbyrajaa
+    location: "Portugal"
+    followers: 46490
+    engagement: 468
+    commentsToLikes: 0.025349
+    id: ck9wf0eygmpq20j78hfeuxp6t
+    verified: false
+    hashtags: "#diet, #legs, #transformation, #discipline"
+  - username: "nuno_gemeos_moreira"
+    fullname: >-
+      Nuno Moreira
+    bio: >-
+      CEO - Escola de dança Gémeos Moreira Choreographer at TV show Dancing with the stars Model Twitter: twinfitness1
+    location: "Portugal"
+    followers: 134226
+    engagement: 705
+    commentsToLikes: 0.028998
+    id: ckaozbg76l4od0i782zr49zhr
+    verified: false
+    hashtags: "#andrewchristianmodel, #blacknwhite, #body, #paris"
   - username: "andrerodrigues.oficial"
     fullname: >-
       André Rodrigues
@@ -43,88 +55,76 @@ profiles:
     id: ck8t3nr4e3udw0j787sidv9zu
     verified: false
     hashtags: "#portuguese, #gayman, #follow4follow, #manstyle"
+  - username: "belle_azzure"
+    fullname: >-
+      B E L L E    A Z Z U R E
+    bio: >-
+      By Dearbhla ✨Fitness | Wellbeing | Lifestyle ✨PT🏋🏽‍♀️Pre&Postnatal| Easy Food Recipes🥑⬇️ ✨Digital Marketer @Google | Wife & Mama 💙
+    location: "Portugal"
+    followers: 99125
+    engagement: 315
+    commentsToLikes: 0.149320
+    id: ckap5mij9cbxe0i78crp87bo9
+    verified: false
+    hashtags: "#quickrecipes, #portugal, #glutenfree, #vhiwmm"
+  - username: "chefchakall"
+    fullname: >-
+      Chakall
+    bio: >-
+      • Dad • Traveler • Restaurants owner • Book writer • TV host From Tigre, to the end of love. Welcome to my world! 🌎🌍🌏
+    location: "Portugal"
+    followers: 162289
+    engagement: 285
+    commentsToLikes: 0.012346
+    id: ck5chcis8qigt0i11mkghuxfs
+    verified: true
+    hashtags: "#chefchakall, #chakall, #food, #continente"
   - username: "borrachinhacapoeiramuzenza"
     fullname: >-
       𝙋𝙧𝙤𝙛𝙚𝙨𝙨𝙤𝙧𝙖 𝘽𝙤𝙧𝙧𝙖𝙘𝙝𝙞𝙣𝙝𝙖
     bio: >-
       Capoeira e Personal Trainer 5x🥇World Champ 2x🥇European Champ 🥇Woman’s Fitness 👩‍🎓Licenciada Exercício Bem Estar @goldnutrition_official YOUTUBER CEO
     location: "Portugal"
-    followers: 76619
-    engagement: 324
-    commentsToLikes: 0.017900
+    followers: 82363
+    engagement: 322
+    commentsToLikes: 0.027712
     id: ckaouatudzk7d0i78xnbln1wz
     verified: false
-    hashtags: "#ifbb, #ifbbportugal, #capoeiraarte, #martialarts"
-  - username: "gabrielaxsantos"
+    hashtags: "#personaltrainer, #capoeiragirl, #fitness, #mulhercapoeirista"
+  - username: "nunoferreirapires"
     fullname: >-
-      GABRIELA SANTOS
+      Nuno Ferreira Pires
     bio: >-
-      My life + style in squares ♡ 23 portugal 💌 gabriela.santos97@outlook.pt
+      C.E.O. SPORT•TV (P&G alumni) ⏭ Co-FOUNDER @cpo_chief_portugal_officers 🇵🇹 Elected 1/100 Most Innovative Portuguese by SIC/NOS/Expresso/PT Presidency
     location: "Portugal"
-    followers: 13465
-    engagement: 1473
-    commentsToLikes: 0.059922
-    id: ck8tbun49x7wk0j78ufnfzww2
+    followers: 9420
+    engagement: 703
+    commentsToLikes: 0.079342
+    id: ck5hdt970p9bf0i11wbozazzu
     verified: false
-    hashtags: "#blackdress, #blonde, #coimbra, #porto"
+    hashtags: "#travel, #azores, #sportv, #sporttvportugal"
   - username: "zeblackturboofficial"
     fullname: >-
       Zé Preto
     bio: >-
-      🥇World records front lever🥇 🦍 inhumam power ▪️🇨🇻🇵🇹🇺🇲50 years old and still crazy af ◾100% natural strength💪 ◾the strongest core in the world 👽
+      ➡️🦁inhuman calisthenics 🦁 ➡️☀️52 years old 💪🏿 ➡️💪pro calisthenics 💪 ➡️gravity fitness code: ze10
     location: "Portugal"
-    followers: 76442
-    engagement: 442
-    commentsToLikes: 0.046478
+    followers: 290760
+    engagement: 884
+    commentsToLikes: 0.041959
     id: ck6tulw93h34k0j71i5ndwdae
     verified: false
-    hashtags: "#beast, #oldschool, #california, #crossfit"
-  - username: "luislevylima.art"
+    hashtags: "#finessmotivation, #barflex, #calisthenicstraining, #viralposts"
+  - username: "mikepiekofficial_"
     fullname: >-
-      Luis Levy Lima
+      Mike Piek
     bio: >-
-      Contemporary figurative artist. Represented by @krystelannart_management
+      FITNESS | FASHION | LIFESTYLE 📍Kampen 👨‍💼Owner of @thelifeiliveofficial Collaboration: 📩
     location: "Portugal"
-    followers: 9378
-    engagement: 413
-    commentsToLikes: 0.102149
-    id: ckapagud2w1pc0i78yccwtk07
+    followers: 107943
+    engagement: 539
+    commentsToLikes: 0.115433
+    id: cl1uc0zl4cexg0i23rn0ejegp
     verified: false
-    hashtags: "#marvel, #figurativeart, #portugueseartist, #fit"
-  - username: "im.susanasilva"
-    fullname: >-
-      SUSANA SILVA ♡
-    bio: >-
-      Based in Porto, Portugal Embaixadora @fitnessup_portugal • Code UP-SUSANASILVA 5€ Desconto Hawk da @hawkerscrew • Code HC-SUSANASILVA 20% Desconto
-    location: "Portugal"
-    followers: 14331
-    engagement: 306
-    commentsToLikes: 0.080679
-    id: ckaovkl9a4ys60i787iawknf3
-    verified: false
-    hashtags: "#womanpower, #woman, #photoshoot, #womanfashion"
-  - username: "joliendhoore"
-    fullname: >-
-      Jolien D'hoore
-    bio: >-
-      ▪️Pro cyclist @teamsdworx @sportvlaanderen ▪️Bach physio @ugent ▪️Personal trainer @nasm_fitness ▪️Olympic🥉omnium Rio’16 ▪️Ambassador @sobelgium
-    location: "Portugal"
-    followers: 25283
-    engagement: 652
-    commentsToLikes: 0.013282
-    id: ck5hf9kzzwghk0i11qh02yh9t
-    verified: false
-    hashtags: "#spring, #doit, #wesparksuccess, #tokyo2021"
-  - username: "eumarianajade"
-    fullname: >-
-      Mariana Jade MK - LEWD Cosplay
-    bio: >-
-      👠 NSFW/LEWD Cosplayer🔞 🏋🏽‍♀️ Fitness 💃🏽 Pole Dancer & Belly Dancer 📖 Intérprete 🇧🇷PT/🇮🇹IT/🇺🇲EN/🇪🇸SP 👑 Contato para jobs, feiras e eventos: DM/E-mail
-    location: "Portugal"
-    followers: 3474
-    engagement: 857
-    commentsToLikes: 0.143793
-    id: ckf5tcqynhhei0j23h9yyd7zc
-    verified: false
-    hashtags: "#cosplay, #cosplaygirl, #nightwolf, #cyrax"
+    hashtags: "#dream, #personality, #entrepreneur, #philippines"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Makeup TikTok Influencers In Belgium In 2023
+title: Top 10 Makeup TikTok Influencers In Belgium In 2024
 description: >-
-  Find top makeup TikTok influencers in Belgium in 2023. Most popular hashtags: #makeup #foryou #pourtoi #fyp.
+  Find top makeup TikTok influencers in Belgium in 2024. Most popular hashtags: #makeup #foryou #pourtoi #fyp.
 platform: TikTok
 hits: 46
-text_top: Discover the top-rated TikTok influencers on inBeat.
-text_bottom: inBeat holds 46 TikTok influencers like this in Belgium for you to work with.
+text_top: See the top-rated TikTok accounts on inBeat.
+text_bottom: Our database has 46 TikTok influencers like this in Belgium for you to pitch.
 profiles:
   - username: "elisabruart"
     fullname: >-

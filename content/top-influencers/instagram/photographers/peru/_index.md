@@ -1,24 +1,36 @@
 ---
-title: Top 10 Photographers Instagram Influencers In Peru In 2023
+title: Top 10 Photographers Instagram Influencers In Peru In 2024
 description: >-
-  Find top photographers Instagram influencers in Peru in 2023. Most popular hashtags: #peru #nature #landscape #cuarentena.
+  Find top photographers Instagram influencers in Peru in 2024. Most popular hashtags: #peru #discoversouthamerica #igersperu.
 platform: Instagram
-hits: 44
-text_top: Discover the top-rated Instagram profiles on inBeat.
-text_bottom: inBeat holds 44 Instagram influencers like this in Peru for you to pitch.
+hits: 43
+text_top: Discover the best Instagram profiles on inBeat.
+text_bottom: Our platform holds 43 Instagram influencers like this in Peru for you to collaborate.
 profiles:
-  - username: "marianobreccia"
+  - username: "luis_silvav"
     fullname: >-
-      Mariano Breccia
+      Luis Silva
     bio: >-
-      •Multi-sport Athlete/Multideportista •Photographer/Fotógrafo •Capitán @adidasrunners Lima⚡️ •Sponsored by: @adidasterrex @suunto @scoscheperu
+      📷Photographer || 📹Filmmaker 📍Lima,Perú 📩DM 👇🏻Official Website👇🏻
     location: "Peru"
-    followers: 81381
-    engagement: 458
-    commentsToLikes: 0.035552
-    id: ck6ub4sus7gs20j71ww6ugyp4
-    verified: true
-    hashtags: "#terrex, #gopro, #outdoorlife, #marianobreccia"
+    followers: 20143
+    engagement: 953
+    commentsToLikes: 0.017924
+    id: ck0vvtbj1qo8v0i19sjxkpd7z
+    verified: false
+    hashtags: "#quedateencasa, #kiasportage, #lifestyle, #adidas"
+  - username: "rafabertoriniph"
+    fullname: >-
+      Rafa Bertorini
+    bio: >-
+      | Photographer | { Life + work } ✨✈️ @rafabertorini_wp bertoriniph@gmail.com 📍Based in Lima, Perú
+    location: "Peru"
+    followers: 31344
+    engagement: 268
+    commentsToLikes: 0.023636
+    id: ck5c5h91h3gzr0i11dg86mjl8
+    verified: false
+    hashtags: "#21weeks, #travelphotography, #weddingphotography, #maternity"
   - username: "hannah_mooney_tkd"
     fullname: >-
       Hannah🥋🛹18y/o taekwondo artist
@@ -31,18 +43,6 @@ profiles:
     id: ck5q5f1o8slbb0i11tttta1xu
     verified: false
     hashtags: "#taekwondogirl, #flexibility, #yopchagi, #dollyochagi"
-  - username: "luis_silvav"
-    fullname: >-
-      Luis Silva
-    bio: >-
-      📷Photographer || 📹Filmmaker 📍Lima,Perú 📩Tarifas y colaboraciones al DM 👇🏻Official Website👇🏻
-    location: "Peru"
-    followers: 18015
-    engagement: 716
-    commentsToLikes: 0.022507
-    id: ck0vvtbj1qo8v0i19sjxkpd7z
-    verified: false
-    hashtags: "#sigma, #canon, #cuarentena, #lifestyle"
   - username: "talia.escamilo"
     fullname: >-
       Talia EC | Adventure ✈
@@ -79,18 +79,6 @@ profiles:
     id: ck0vymztj4syd0i19mtqch916
     verified: false
     hashtags: "#shot, #fashion, #model, #editorial"
-  - username: "rafabertoriniph"
-    fullname: >-
-      Rafa Bertorini
-    bio: >-
-      | Photographer, 27 | { Life + work } ✨✈️ 🔸Sony Alpha partner bertoriniph@gmail.com . 📍Based in Lima, Perú
-    location: "Peru"
-    followers: 29614
-    engagement: 187
-    commentsToLikes: 0.017246
-    id: ck5c5h91h3gzr0i11dg86mjl8
-    verified: false
-    hashtags: "#portrait, #portraitphotography, #photography, #bikini"
   - username: "jordantrek"
     fullname: >-
       JORDAN  CÁRDENAS | PERU
@@ -127,4 +115,16 @@ profiles:
     id: ckaowee9n8kk20i78z3km85y7
     verified: false
     hashtags: ""
+  - username: "mauricioephoto"
+    fullname: >-
+      Mauricio Espinoza
+    bio: >-
+      📷 Photographer ⚡️ @elduo_team 🌊 Ocean son Fine Art Prints - DM!
+    location: "Peru"
+    followers: 7949
+    engagement: 553
+    commentsToLikes: 0.036020
+    id: ckap9omvqt0ii0i784jx484bg
+    verified: false
+    hashtags: "#sundayvibe, #waterman, #discoverocean, #theimagined"
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Food Instagram Influencers In Spain In 2023
+title: Top 10 Food Instagram Influencers In Spain In 2024
 description: >-
-  Find top food Instagram influencers in Spain in 2023. Most popular hashtags: #spain #foodie #summer #beach.
+  Find top food Instagram influencers in Spain in 2024. Most popular hashtags: #food #foodie #spain #healthyfood.
 platform: Instagram
-hits: 583
-text_top: Identify the best Instagram accounts on inBeat.
-text_bottom: Our search engine has 583 Instagram influencers like this in Spain for you to work with.
+hits: 702
+text_top: Discover the top-rated Instagram profiles on inBeat.
+text_bottom: Our search engine has 702 Instagram influencers like this in Spain for you to collaborate.
 profiles:
-  - username: "aina.simon"
+  - username: "exploringwithjuan"
     fullname: >-
-      AINA SIMON
+      Juan 🌞 Edinburgh, UK
     bio: >-
-      Fashion • Food • Travel ✈️ | Barcelona - Madrid| 💌 ainasimonm@gmail.com
+      travel • lifestyle • foodie & coffee lover ☕️ content creation & all things social media 📸 📍edinburgh-based / dubai ⇌ spain —— let’s work together! ✉️
     location: "Spain"
-    followers: 332763
-    engagement: 842
-    commentsToLikes: 0.005175
-    id: ck0vyy6sp6d680i19gk2enc5c
+    followers: 8271
+    engagement: 974
+    commentsToLikes: 0.072591
+    id: ck0txy2prkyft0i19zb9qcrtf
     verified: false
-    hashtags: "#primania, #embajadoraprimark, #iworkwithprimark, #adikagirls"
-  - username: "sofiamchef6"
+    hashtags: "#barcelona, #barcelonagram, #spaintravel, #guardiantravelsnaps"
+  - username: "infinityplatter"
     fullname: >-
-      Sofia MasterChef
+      Infinity Platter
     bio: >-
-      Cuenta oficial de Sofia Janer: Food🍳, Reviews📍& Lifestyle📸 Estudiando en @latelierbarcelona✨ Curso online en @theplaycook🍰 Pastelera en @ladramerie❣️
+      Aashritha Daggubati Exploring the world through food💗 Born in 🇮🇳living in Bcn 🇪🇸 New✨@theinfinityretreat YouTube Channel with @allan.rice.lifeandfood
     location: "Spain"
-    followers: 63017
-    engagement: 509
-    commentsToLikes: 0.114771
-    id: ck5cgf7rxopv50i11kd9l8f5f
+    followers: 311170
+    engagement: 406
+    commentsToLikes: 0.008812
+    id: ck0tww3cyh00h0i195d5s6z62
+    verified: false
+    hashtags: "#recipeoftheday, #reels, #delicious, #recipes"
+  - username: "leticiarlsilva"
+    fullname: >-
+      Letícia Silva | Lifestyle & Travel
+    bio: >-
+      ⚡️Makeup artist • Fashion • Explorer • Foodie 💌 leticiasilvacollabs@gmail.com
+    location: "Spain"
+    followers: 21204
+    engagement: 755
+    commentsToLikes: 0.064293
+    id: clnc00swa5ytk0j08o5rsfp8c
+    verified: false
+    hashtags: "#outfitideas, #fashiongram, #ootd, #fashioninspo"
+  - username: "dirty_closet"
+    fullname: >-
+      Olga Victoria 🦄 #DirtyEjercito
+    bio: >-
+      Influencer por sorpresa 🖤 Tiktok +280K Beauty, Moda & Foodie lover 🫰🏻 Contact me: hellodirtycloset@gmail.com 💌
+    location: "Spain"
+    followers: 129210
+    engagement: 469
+    commentsToLikes: 0.115366
+    id: ck13amp38r4ph0i19ixfyh9td
+    verified: false
+    hashtags: "#christmasdecor, #tothemoonandback, #summer2021, #navidad2023"
+  - username: "pilar_rodero_moda"
+    fullname: >-
+      Pilar Rodero.
+    bio: >-
+      👗Fashion💄Beauty 🥗 Food Lifestyle. Brand INFLUENCER 📩 Colaboraciónes ➡️MD 📲 CREADOR DIGITAL ✍️ DESIGNER. 👩‍💻 Imagen Consulting #secretosdeestilo
+    location: "Spain"
+    followers: 98202
+    engagement: 405
+    commentsToLikes: 0.211012
+    id: ck6u70noeisa80j71alzju2t9
+    verified: false
+    hashtags: "#bravogreatphoto, #beauty, #shoes, #invitadaperfecta"
+  - username: "chefbosquet"
+    fullname: >-
+      Roberto ChefBosquet
+    bio: >-
+      CHEF @nakedandsated Recetas fáciles y saludables Best Foodie ‘18/ FORBES 22/23’ 3 LIBROS📕 🍽 📜🧑‍🍳 LeCordon Bleu 🔪CONSEJERO MCHEF VI🔪 @miwirealdrinks
+    location: "Spain"
+    followers: 1663635
+    engagement: 475
+    commentsToLikes: 0.016431
+    id: ck14i3pdtdhkm0i1905h2uszc
     verified: true
-    hashtags: "#recetasfaciles, #sweet, #ad, #chocolate"
-  - username: "hello_nidia"
+    hashtags: "#reelsfoodie, #recetacasera, #chocolate, #videoreceta"
+  - username: "callmequeendasha"
     fullname: >-
-      Nidia | TRAVEL TIPS VIAJES
+      Daria Merzlikina 👸🏼
     bio: >-
-      🌍 Inspiración, fotografías y consejos para tu próximo viaje 🛫 #travelblogger 💫 Inspo Trips Hotels and Food 👇 LINKS Guías | Itinerarios | My Amazon
+      📍Valencia&Calpe 🔁 Ius est ars boni et aequi⚖️ FASHION/LIFESTYLE/FOODIE 😎 🐈‍⬛🐈‍⬛🐈‍⬛
     location: "Spain"
-    followers: 10452
-    engagement: 1047
-    commentsToLikes: 0.425883
-    id: ck8tcdpowz4m30j780nzt6pan
+    followers: 20604
+    engagement: 486
+    commentsToLikes: 0.030470
+    id: closq3yi9nfp80j08wlmszq3l
     verified: false
-    hashtags: "#travelgram, #tulummexico, #quintanaroo, #reels"
-  - username: "pitufollow"
+    hashtags: "#tualbacete, #alicante, #altea, #costablancadreamlife"
+  - username: "maxiaj"
     fullname: >-
-      SERGIO TURULL
+      Maxi AJ
     bio: >-
-      🦁 Adidas Athlete | 🔜 UTMB 170KM 🌱 Foodspring -15%: pitufollowFSG 📩 sergiopitufollow@gmail.com 📖 Autor #Corroporquecaminarmecansa
+      • Content Creator • Foodie • Traveller 📍Madrid 📩 maxi.aj@noatheagency.com
     location: "Spain"
-    followers: 81951
-    engagement: 359
-    commentsToLikes: 0.115300
-    id: ck5bz45gnqevz0i11af9b59hl
-    verified: true
-    hashtags: "#vitaminwell, #sportsmotivation, #athlete, #menorca"
-  - username: "ladanicastror"
-    fullname: >-
-      Dani Castro.
-    bio: >-
-      ✨Good Vibes✨ •Food•Beauty•Deco• @thisisayni Mis libros y AYNI disponibles en mi web 📩 contactodanicastroc@gmail.com 💌 ladanicastror@gmail.com
-    location: "Spain"
-    followers: 829199
-    engagement: 295
-    commentsToLikes: 0.056166
-    id: ck0vz5t4z7gau0i19scx4vb1m
-    verified: true
-    hashtags: "#ad, #mgzs, #alwaysultra, #always3xproteccion"
-  - username: "meigalega"
-    fullname: >-
-      Iria Pereira 💚
-    bio: >-
-      FashionLover👠CatLover😻FoodLover🥑VivaLaVida🌈 📍Vigo Código Shein: IRIA15 👇Mi 21 buttons👇
-    location: "Spain"
-    followers: 10538
-    engagement: 519
-    commentsToLikes: 0.284238
-    id: ck8t9527amx3z0j78ag84l7li
+    followers: 118713
+    engagement: 528
+    commentsToLikes: 0.167178
+    id: ckaouf3euzzzh0i786wy76o17
     verified: false
-    hashtags: "#sea, #sheingals, #sealover, #vegetables"
-  - username: "travelwitheflow"
+    hashtags: "#comidasrapidas, #lifehack, #avena, #healthyfood"
+  - username: "fabi_beneito"
     fullname: >-
-      Dolo🇪🇸&Edgar🇲🇽~Love & Travel
+      Fabian Beneito
     bio: >-
-      ❥ Content Creation | Bloggers ➺ Travel | Lifestyle | Food | Fashion ◉ On #madrid #españa ✎ Travelwitheflow@gmail.com
+      𝗙𝗶𝘁𝘁𝗲𝘀𝘁 𝗶𝗻🇪🇸 𝟮𝟬•𝟮𝟭•𝟮𝟮•𝟮𝟯 @tyrsport Athlete @trainingculture Athlete @picsil_sport @noccospain @fittestfreakest Athlete @foodspring_es @rusterfitness
     location: "Spain"
-    followers: 22458
-    engagement: 250
-    commentsToLikes: 0.067959
-    id: ck0u2882mz5cq0i1972pgzmsy
+    followers: 36759
+    engagement: 630
+    commentsToLikes: 0.007560
+    id: ck5hr9k1uui4k0i11dfgurc7x
     verified: false
-    hashtags: "#beautifuldestinations, #espagne, #spain, #balears"
-  - username: "back_dox"
+    hashtags: "#iamachampion, #crossfitsemifinals, #work, #recoverclean"
+  - username: "veganiacos"
     fullname: >-
-      Back_dox
+      Tono 🌱 Recetas veganas
     bio: >-
-      🇪🇸 Barcelona 🌍 Travel 🌈 ⚡️Lifestyle 🍴Food
+      💚 Cocina fácil, saludable y deliciosa 🏳️‍🌈 Rainbow food 📩 veganiacos@gmail.com
     location: "Spain"
-    followers: 51965
-    engagement: 218
-    commentsToLikes: 0.079298
-    id: ck15q5pbm18c50i19wez82wci
+    followers: 83418
+    engagement: 665
+    commentsToLikes: 0.066376
+    id: closq41ksnhi60j082upbw0ms
     verified: false
-    hashtags: "#hotelesconencanto, #barcelonalovers, #bcnmoltmes, #barcelonaexperience"
-  - username: "soysupersara"
-    fullname: >-
-      Sara Carreño Gutiérrez ®
-    bio: >-
-      💓Si te quieres eres imparable 🧠Bienestar físico/mental 🥗Vida saludable 📍Alicante / Madrid 💰Foodspring 15 % soysupersarafsg Links y descuentos👇🏻
-    location: "Spain"
-    followers: 210304
-    engagement: 233
-    commentsToLikes: 0.156424
-    id: ck5hmt0hhmki70i11fx56hboe
-    verified: false
-    hashtags: "#love, #foodblogger, #summer, #summervibes"
-  - username: "laurarezmasud"
-    fullname: >-
-      Laura Rez Masud
-    bio: >-
-      Mendoza 🍷 Periodista 🎤📹 Canal 9 me gusta compartir 👗moda 💇‍♀️belleza/estética/salud 🍷Food &wine 🌍 mis viajes 🎤 trabajos periodísticos 🏘 decoración
-    location: "Spain"
-    followers: 25284
-    engagement: 320
-    commentsToLikes: 0.096523
-    id: ck5hoezxrpg0l0i11wx77idyl
-    verified: false
-    hashtags: "#dios, #jardin, #puertas, #vino"
+    hashtags: "#desayunosaludable, #cocinasaludable, #recetassingluten, #comesano"
 ---

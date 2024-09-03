@@ -1,11 +1,11 @@
 ---
-title: Top 10 Food TikTok Influencers In India In 2023
+title: Top 10 Food TikTok Influencers In India In 2024
 description: >-
-  Find top food TikTok influencers in India in 2023. Most popular hashtags: #foryou #tiktok #trending #love.
+  Find top food TikTok influencers in India in 2024. Most popular hashtags: #foryou #love #trending #tiktok.
 platform: TikTok
 hits: 841
-text_top: See the top-rated TikTok profiles on inBeat.
-text_bottom: Our search engine aggregates 841 TikTok influencers like this in India for you to work with.
+text_top: Discover the most popular TikTok influencers on inBeat.
+text_bottom: Our database has 841 TikTok influencers like this in India for you to collaborate.
 profiles:
   - username: "the_anu_v"
     fullname: >-

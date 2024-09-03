@@ -1,11 +1,11 @@
 ---
-title: Top 10 Nail Artists TikTok Influencers In United States In 2023
+title: Top 10 Nail Artists TikTok Influencers In United States In 2024
 description: >-
-  Find top nail artists TikTok influencers in United States in 2023. Most popular hashtags: #nails #nailart #fyp #nailartist.
+  Find top nail artists TikTok influencers in United States in 2024. Most popular hashtags: #nails #nailart #nailartist #nailtech.
 platform: TikTok
-hits: 136
-text_top: See the most popular TikTok influencers on inBeat.
-text_bottom: Our search engine aggregates 136 TikTok influencers like this in United States for you to work with.
+hits: 135
+text_top: See the best TikTok profiles on inBeat.
+text_bottom: Our database aggregates 135 TikTok influencers like this in United States for you to pitch.
 profiles:
   - username: "nailthoughts"
     fullname: >-
@@ -91,18 +91,6 @@ profiles:
     id: ckacg26y4tftm0i782gcohyvm
     verified: false
     hashtags: "#nailart, #nailartvideos, #nailtutorial, #nailvideos"
-  - username: "nikipilkington"
-    fullname: >-
-      Niki Pilkington
-    bio: >-
-      CREATOR, ILLUSTRATOR & YOUR NEON BFF ☝️FOLLOW FOR MORE NEON☝️ 👇SHOP MY PRINTS👇
-    location: "United States"
-    followers: 152200
-    engagement: 1841
-    commentsToLikes: 0.012959
-    id: ck83k0z7y8gpd0j780fg5o8nq
-    verified: false
-    hashtags: "#color, #neon, #paintingtutorial, #handlettering"
   - username: "nailartistkim"
     fullname: >-
       NailArtistKim
@@ -114,7 +102,7 @@ profiles:
     commentsToLikes: 0.004166
     id: ck83k0v6i8fof0j785amip488
     verified: false
-    hashtags: "#nailartistkim, #nailartist, #nailsupply, #nailidea"
+    hashtags: "#nailartist, #nailidea, #nailartis, #nailartistkim"
   - username: "nailartips"
     fullname: >-
       Nail Art Tutorial
@@ -127,4 +115,16 @@ profiles:
     id: ckbweqrcz1qvb0j23ufivwn3m
     verified: false
     hashtags: "#nailvideos, #nails, #nailscheck, #naildesigns"
+  - username: "misstunning"
+    fullname: >-
+      Miss Stunning
+    bio: >-
+      For stunning looks
+    location: "United States"
+    followers: 57700
+    engagement: 1351
+    commentsToLikes: 0.004869
+    id: ck95z30w5cru20j78lnfzadpn
+    verified: false
+    hashtags: "#nailtech, #nail, #nailartist, #naildesign"
 ---

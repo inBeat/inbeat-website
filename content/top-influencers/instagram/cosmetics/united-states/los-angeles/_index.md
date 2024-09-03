@@ -1,11 +1,11 @@
 ---
-title: Top 10 Cosmetics Instagram Influencers In Los Angeles In 2023
+title: Top 10 Cosmetics Instagram Influencers In Los Angeles In 2024
 description: >-
-  Find top cosmetics Instagram influencers in Los Angeles in 2023. Most popular hashtags: #losangeles #cosmetics #dentist #beverlyhills.
+  Find top cosmetics Instagram influencers in Los Angeles in 2024. Most popular hashtags: #losangeles #cosmetic #dentist #beforeandafter.
 platform: Instagram
-hits: 93
-text_top: See the best Instagram influencers on inBeat.
-text_bottom: Our search engine has 93 Instagram influencers like this in Los Angeles, United States for you to pitch.
+hits: 107
+text_top: See the top-rated Instagram profiles on inBeat.
+text_bottom: inBeat holds 107 Instagram influencers like this in Los Angeles, United States for you to connect with.
 profiles:
   - username: "facesbyrob"
     fullname: >-
@@ -31,6 +31,18 @@ profiles:
     id: ck14jhhqakdec0i196ituob1m
     verified: false
     hashtags: "#equilibriumskin, #makeupbyme, #curator, #curatedby"
+  - username: "drrachaeleckel"
+    fullname: >-
+      Dr. Rachael Eckel
+    bio: >-
+      🏥 Cosmetic Doctor @theskinhealthinstitute 💉 Injectables • Peels • Lasers 🩺 Medical Advisor @zoskinhealth @coolsculpting ☎️ +1 (868) 622-SKIN
+    location: "United States"
+    followers: 39977
+    engagement: 122
+    commentsToLikes: 0.068968
+    id: ck0u05szdsp8c0i191gce7r3d
+    verified: false
+    hashtags: "#laserhairremoval, #hairremoval, #elevateyourskincare, #cosmeticdermatology"
   - username: "zakhordental"
     fullname: >-
       DR. MANSOUR ZAKHOR & CO.
@@ -43,66 +55,6 @@ profiles:
     id: ck8t8gpifkezu0j78wi8xppim
     verified: false
     hashtags: "#2020, #losangeles, #ladentist, #zakhordental"
-  - username: "officialgabija"
-    fullname: >-
-      Gabija Guzauskaite
-    bio: >-
-      Model, actress, content creator ✨ REMOTE SHOOTS -> @thegabijaagency MA: @suprisemodelmanagement
-    location: "United States"
-    followers: 20079
-    engagement: 271
-    commentsToLikes: 0.137281
-    id: ck14hpzjlbjts0i19bjcmwpet
-    verified: false
-    hashtags: "#photooftheday, #losangeles, #cosmetics, #chicagomodel"
-  - username: "annaguanchemd"
-    fullname: >-
-      𝗗𝗥. 𝗔𝗡𝗡𝗔 𝗚𝗨𝗔𝗡𝗖𝗛𝗘
-    bio: >-
-      𝐁𝐨𝐚𝐫𝐝 𝐂𝐞𝐫𝐭𝐢𝐟𝐢𝐞𝐝 𝐃𝐞𝐫𝐦𝐚𝐭𝐨𝐥𝐨𝐠𝐢𝐬𝐭 Founder @bellaskininstitute Author @sevendaystosexy Creator @bellamiraclecream 📍Calabasas | Beverly Hills
-    location: "United States"
-    followers: 110792
-    engagement: 224
-    commentsToLikes: 0.051558
-    id: ckap2k8otz7710i78iidlj71b
-    verified: true
-    hashtags: "#bellaskin, #dermdreamteam, #goodvibes, #botox"
-  - username: "hollywoodsmilelv"
-    fullname: >-
-      HOLLYWOOD SMILE DENTAL
-    bio: >-
-      Dr. Steve Kim 🔹 Implant & Cosmetic Dentist 🎓 Tufts School of Dental Medicine #lasvegasdentist #lasvegasdentistry #MMA #MMADOC
-    location: "United States"
-    followers: 144688
-    engagement: 378
-    commentsToLikes: 0.002130
-    id: ck15sh283cyod0i19gfb47r8j
-    verified: false
-    hashtags: "#implant, #mmadoc, #implantsurgery, #pflmma"
-  - username: "drmattasaro"
-    fullname: >-
-      Los Angeles Cosmetic Dentist
-    bio: >-
-      🦷 Natural Smile Expert 💎 Porcelain Veneers & Smile Makeovers 📲 323-653-7500 —> to schedule a consultation
-    location: "United States"
-    followers: 42149
-    engagement: 249
-    commentsToLikes: 0.046921
-    id: ck8svzl7sdacj0j781ohulpk7
-    verified: false
-    hashtags: "#porcelainveneers, #dentist, #smile, #smiles"
-  - username: "drandrewordon"
-    fullname: >-
-      Dr. Andrew Ordon
-    bio: >-
-      💉Board Certified Plastic Surgeon ✨Emmy® Nominated TV Host. 📍Practicing in Rancho Mirage and Beverly Hills, California 📞310-248-6250 or 760-568-2211
-    location: "United States"
-    followers: 31212
-    engagement: 103
-    commentsToLikes: 0.056375
-    id: ck15ud4vhmkqe0i19udwdtet2
-    verified: true
-    hashtags: "#breastimplants, #beauty, #botox, #aesthetics"
   - username: "bestofprosth"
     fullname: >-
       The Best Of Prosth
@@ -115,6 +67,30 @@ profiles:
     id: ck0tvpx17cc7z0i190m3dm1kh
     verified: false
     hashtags: "#dentalcare, #dentalstudent, #odontologia, #restorativedentistry"
+  - username: "hollywoodsmilelv"
+    fullname: >-
+      Steve kim
+    bio: >-
+      Dr. Steve Kim 🔹 Implant & Cosmetic Dentist 🎓 Tufts School of Dental Medicine #lasvegasdentist #lasvegasdentistry #MMA #MMADOC #mmadentist
+    location: "United States"
+    followers: 204688
+    engagement: 206
+    commentsToLikes: 0.004177
+    id: ck15sh283cyod0i19gfb47r8j
+    verified: false
+    hashtags: "#dentist, #lasvegas, #korean, #stevekimdental"
+  - username: "shanbensonstudio"
+    fullname: >-
+      LA Beauty Photographer | Shan
+    bio: >-
+      Work with beauty brands to promote healthy skin & textures ✨Booking for August onwards
+    location: "United States"
+    followers: 3202
+    engagement: 534
+    commentsToLikes: 0.080798
+    id: ck8t0mhuqskh30j78cbrpyg60
+    verified: false
+    hashtags: "#beautyshooting, #studioportrait, #laphotographer, #beautyphotoshoot"
   - username: "michellemoniquephoto"
     fullname: >-
       Michelle Monique
@@ -127,4 +103,28 @@ profiles:
     id: ck15qlayy3e120i19kmfwkte2
     verified: false
     hashtags: "#cosmeticsphotographer, #laphotographer, #losangelesphotographer, #newyorkphotographer"
+  - username: "kevinrupard"
+    fullname: >-
+      kevin rupard
+    bio: >-
+      LA | MAKEUP•HAIR Twitter/TikTok - @kevinrupard Email: kprupard@gmail.com
+    location: "United States"
+    followers: 160282
+    engagement: 427
+    commentsToLikes: 0.012992
+    id: ck6ufa37avtkg0j71ae2na8qk
+    verified: false
+    hashtags: "#urbanskinrx, #urbanambassador, #makeup, #ad"
+  - username: "eileenamirian"
+    fullname: >-
+      Eileen Amirian
+    bio: >-
+      Los Angeles | 🇦🇲 beauty • skincare • fashion eileen@underscoretalent.com
+    location: "United States"
+    followers: 103638
+    engagement: 498
+    commentsToLikes: 0.019853
+    id: ck8t0zmwgtx7n0j78if0dkho2
+    verified: false
+    hashtags: "#editorialmakeup, #springmakeup, #creativemakeup, #makeuptutorial"
 ---

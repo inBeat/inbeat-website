@@ -1,12 +1,36 @@
 ---
-title: Top 10 Bodybuilding Instagram Influencers In France In 2023
+title: Top 10 Bodybuilding Instagram Influencers In France In 2024
 description: >-
-  Find top bodybuilding Instagram influencers in France in 2023. Most popular hashtags: #bodybuilding #fitness #workout #training.
+  Find top bodybuilding Instagram influencers in France in 2024. Most popular hashtags: #bodybuilding #fitness #workout #training.
 platform: Instagram
-hits: 233
-text_top: Analyze the top-rated Instagram profiles on inBeat.
-text_bottom: Our database aggregates 233 Instagram influencers like this in France for you to collaborate.
+hits: 217
+text_top: See the best Instagram accounts on inBeat.
+text_bottom: inBeat aggregates 217 Instagram influencers like this in France for you to pitch.
 profiles:
+  - username: "petitpatapon_nunchaku"
+    fullname: >-
+      Pascale Mullor
+    bio: >-
+      Nunchaku🥋Taekwondo🏋🏻‍♀️ Bodybuilding ⬇️ Nunchaku store & Courses ⬇️
+    location: "France"
+    followers: 155488
+    engagement: 638
+    commentsToLikes: 0.040116
+    id: ck15reqik7kg50i1932axptcx
+    verified: false
+    hashtags: "#chinesemartialarts, #blackbelt, #artwork, #training"
+  - username: "grosgui_fit"
+    fullname: >-
+      Guillaume 🇫🇷
+    bio: >-
+      CrossFit, Fitness & Bodybuilding 💪 @mymusclenutrition
+    location: "France"
+    followers: 153757
+    engagement: 55
+    commentsToLikes: 0.008358
+    id: ck5qb9rhqkizs0i11e7z1rsoc
+    verified: false
+    hashtags: "#biceps, #legs, #gymshark, #nolegs"
   - username: "sonnentazz"
     fullname: >-
       𝗙𝗶𝘁𝗻𝗲𝘀𝘀 𝗶𝘀 𝗺𝘆 𝘁𝗵𝗲𝗿𝗮𝗽𝘆 ★
@@ -67,64 +91,40 @@ profiles:
     id: ck9wd3dtzdw3y0j78k2a5xaof
     verified: false
     hashtags: "#functionaltraining, #strictpullups, #lungesandsquats, #girlwholifts"
-  - username: "claudiapersonaltrainer"
+  - username: "velina_n"
     fullname: >-
-      Claudia Modica
+      Velina Nenova 💎
     bio: >-
-      💪Coach sportive & mental🧠 Casseuse de mythes Diplômée d'Etat Certified Bayesian Bodybuilding ⚽️Ex sportive de haut niveau 🤗Distributrice de Good Vibes
+      Bulgaria 🇧🇬 @northstar_diamonds 💎 UK Journalism Graduate ✍🏼🇬🇧
     location: "France"
-    followers: 49767
-    engagement: 255
-    commentsToLikes: 0.022727
-    id: ckf5w8j5lr8nz0j239gbwrj6o
+    followers: 40387
+    engagement: 402
+    commentsToLikes: 0.077180
+    id: ckapb0wvly7o60i78vobkkkvs
     verified: false
-    hashtags: ""
-  - username: "majdoulinsr"
+    hashtags: "#getfit, #diamondjewelry, #bodyfitness, #bootybuilding"
+  - username: "_fit.stys"
     fullname: >-
-      PT & Nutritionist 🍑🇲🇦🇫🇷
+      Lystus Ebosele
     bio: >-
-      Coaching & Transformations @team.happybodies 🍑 Sponsored @happybody.officiel Athlete @myproteinfr ( links )👇🏽
+      🇮🇪| 23 | 84+ Jr. World Champ 2023🏅 @gymshark Athlete || Code “LYSTUS” @myprotein Nutrition || Code “LYSTUS” @avancusofficial Athlete || Code “LYSTUS”
     location: "France"
-    followers: 64535
-    engagement: 257
-    commentsToLikes: 0.025364
-    id: ck6u6kgl5g43p0j71w1wbla9g
+    followers: 63570
+    engagement: 1085
+    commentsToLikes: 0.028814
+    id: cl5fifhte4vxz0i23o8b41usu
     verified: false
-    hashtags: "#leggings, #recipe, #lifestyle, #healthyfood"
-  - username: "assya.grs"
+    hashtags: "#strongwoman, #powerlifting, #powerlifter, #bodybuilding"
+  - username: "jonathan_jablonski_official"
     fullname: >-
-      MOTIVATION|FITNESS|LIFESTYLE
+      Jonathan Jablonski
     bio: >-
-      • 𝟣𝟫 𝒶𝓃𝓈 🌹 • 𝐹𝒾𝓉𝓃𝑒𝓈𝓈 💪 • 𝒢𝒶𝓂𝒾𝓃𝑔 🎮 • 🇧🇪 👉 @healthnutritionbelgium -30% 💥 👉 𝒞𝑜𝒹𝑒 𝓅𝓇𝑜𝓂𝑜 : 𝐀𝐒𝐒𝐘𝐀𝟑𝟎 💥 𝒴𝑜𝓊𝒯𝓊𝒷𝑒 : 𝒜𝓈𝓈𝓎𝒶 𝑔𝓇𝓈 🍿
+      🧑‍🍳Chef & Serial Entrepreneur 😎PDG @factoryandco 🤵🏻Co-Founder @italianqueen_official @heroessuperfood @rocknfreelife @los_pueblos_cartel
     location: "France"
-    followers: 46737
-    engagement: 703
-    commentsToLikes: 0.053948
-    id: ck9hb93x3fv9q0j78ykmv4qoi
+    followers: 100895
+    engagement: 877
+    commentsToLikes: 0.016382
+    id: ck0tzdfufpx8m0i1920ilh9rw
     verified: false
-    hashtags: "#sport, #gymsharkwomen, #teamtrainsweateat, #zyzz"
-  - username: "maevaa_fit"
-    fullname: >-
-      🌺 Maëva
-    bio: >-
-      MA: @enjoymodelsagency ⠀⠀⠀⠀ ⠀ ⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ❝ Be positive, be yourself ❞
-    location: "France"
-    followers: 25273
-    engagement: 621
-    commentsToLikes: 0.260945
-    id: ck13c1yjqy86z0i19hw0sh1rj
-    verified: false
-    hashtags: "#photooftheday, #instagood, #bodybuilding, #ootdmagazine"
-  - username: "alexandra_maia19"
-    fullname: >-
-      Alexandra Maia 🇫🇷
-    bio: >-
-      ❤Boxing 🥊Boxe Anglaise🐝 💘Savate Boxe française👊 🧚‍♀️💃 Pôle dance 💪Fitness🏋️‍♀️ Educateur sportif SBF🥊 Prépa éducateur SF🌞 💑
-    location: "France"
-    followers: 10017
-    engagement: 1617
-    commentsToLikes: 0.072691
-    id: ck8t3yj7z4yew0j78vxrsns3q
-    verified: false
-    hashtags: "#boxe, #smiles, #motivation, #fitfrenchies"
+    hashtags: "#gym, #entrepreneur, #inspiration, #motivation"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Athletes TikTok Influencers In Italy In 2023
+title: Top 10 Athletes TikTok Influencers In Italy In 2024
 description: >-
-  Find top athletes TikTok influencers in Italy in 2023. Most popular hashtags: #foryou #fyp #perte #viral.
+  Find top athletes TikTok influencers in Italy in 2024. Most popular hashtags: #foryou #fyp #calisthenics #perte.
 platform: TikTok
 hits: 20
-text_top: Discover the most popular TikTok profiles on inBeat.
-text_bottom: Our platform has 20 TikTok influencers like this in Italy for you to collaborate.
+text_top: Analyze the most popular TikTok profiles on inBeat.
+text_bottom: Our search engine has 20 TikTok influencers like this in Italy for you to contact.
 profiles:
   - username: "brian_power01"
     fullname: >-
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.030792
     id: ck8se1ilhhv2v0j78gafytg1m
     verified: false
-    hashtags: "#parkour, #marvelcosplay, #foryoupage, #fyp"
+    hashtags: "#markonoctis, #backflip, #cosplay, #fyp"
   - username: "andrea_maranelli"
     fullname: >-
       Andrea Maranelli
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.008966
     id: ckauon89ztp0k0j23qml9qj24
     verified: false
-    hashtags: "#fun, #bike, #mtb, #enduro"
+    hashtags: "#mtb, #mtblife, #wheelie, #foryou"
   - username: "matteo.paolini.88"
     fullname: >-
       Matteo Paolini
@@ -114,7 +114,7 @@ profiles:
     commentsToLikes: 0.009788
     id: cka0wxn3z4slg0i780cwypdkd
     verified: false
-    hashtags: "#perte, #calisthenics, #barsimode, #foryou"
+    hashtags: "#lovedisoloqua, #perte, #barsimode, #viral"
   - username: "jacopo_rocky_sw"
     fullname: >-
       Rocky_SW

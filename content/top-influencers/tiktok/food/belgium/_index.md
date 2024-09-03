@@ -1,11 +1,11 @@
 ---
-title: Top 10 Food TikTok Influencers In Belgium In 2023
+title: Top 10 Food TikTok Influencers In Belgium In 2024
 description: >-
-  Find top food TikTok influencers in Belgium in 2023. Most popular hashtags: #fyp #foryou #food #foryoupage.
+  Find top food TikTok influencers in Belgium in 2024. Most popular hashtags: #foryou #fyp #food #foryoupage.
 platform: TikTok
 hits: 37
-text_top: Identify the most popular TikTok influencers on inBeat.
-text_bottom: Our database holds 37 TikTok influencers like this in Belgium for you to collaborate.
+text_top: Identify the most popular TikTok profiles on inBeat.
+text_bottom: Our platform holds 37 TikTok influencers like this in Belgium for you to collaborate.
 profiles:
   - username: "laithhafez"
     fullname: >-
@@ -90,7 +90,7 @@ profiles:
     commentsToLikes: 0.046931
     id: ck9jv7u7zr1ry0j78t1uihb8v
     verified: false
-    hashtags: "#foryou, #fact, #funfacts, #christmas"
+    hashtags: "#amazingfacts, #fact, #foryou, #fyp"
   - username: "jmxjgk"
     fullname: >-
       ➖ 𝐿𝒶𝓊𝓇𝒶.🪐

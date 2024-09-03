@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Konya In 2023
+title: Top 10 Fashion Instagram Influencers In Konya In 2024
 description: >-
-  Find top fashion Instagram influencers in Konya in 2023. Most popular hashtags: #fashion #love #konya #instalike.
+  Find top fashion Instagram influencers in Konya in 2024. Most popular hashtags: #fashion #love #konya #instagood.
 platform: Instagram
 hits: 22
-text_top: Discover the top-rated Instagram profiles on inBeat.
-text_bottom: Our database has 22 Instagram influencers like this in Konya, Turkey for you to work with.
+text_top: Analyze the most popular Instagram profiles on inBeat.
+text_bottom: Our platform has 22 Instagram influencers like this in Konya, Turkey for you to connect with.
 profiles:
   - username: "songulayhasan"
     fullname: >-
@@ -19,18 +19,6 @@ profiles:
     id: ck8t8w9ccm2wg0j783b92exqt
     verified: false
     hashtags: "#tbt, #happy, #evlat, #anlaml"
-  - username: "bekirsozakphotographr"
-    fullname: >-
-      bekirsozakphotography
-    bio: >-
-      05334567484 #cappadocia
-    location: "Turkey"
-    followers: 85102
-    engagement: 203
-    commentsToLikes: 0.046474
-    id: ck0tywu07oei70i19fx8hvkhu
-    verified: false
-    hashtags: "#gaziantep, #cappadocia, #kapadokya, #turkey"
   - username: "nurayguler___"
     fullname: >-
       ⚜️  Nuray Güler
@@ -43,18 +31,6 @@ profiles:
     id: ckaowf0ha8nca0i78hy9o5d7p
     verified: false
     hashtags: "#inked, #youtuber, #inkmaster, #tattoomag"
-  - username: "bilgehannozdokkylmazz"
-    fullname: >-
-      Bilgehan Özdok Yilmaz
-    bio: >-
-      𝓐♥️𝓑 REKLAM VE İŞBİRLİĞİ İÇİN DM📩 𝟙𝟟.𝟘𝟟.𝟙𝟛👫 𝟙𝟠.𝟙𝟘.𝟙𝟝💍 𝟚𝟡.𝟘𝟟.𝟙𝟡👶🏻 ℍ𝕖𝕣ş𝕖𝕪 𝕊𝕖𝕟𝕚𝕟𝕝𝕖 𝔾ü𝕫𝕖𝕝♥️ 𝔾ü𝕫𝕖𝕝 𝔸𝕟ı𝕝𝕒𝕣 𝔹𝕚𝕣𝕚𝕜𝕥i𝕣𝕚𝕪𝕠𝕣𝕦𝕫💜 𝔸𝕟𝕟𝕖𝕤𝕚𝕟𝕚𝕟 𝕄𝕚𝕟𝕚𝕜 ℙ𝕒𝕟𝕕𝕒𝕤ı🐼 🐼🆂🆂🆈🐼
-    location: "Turkey"
-    followers: 75875
-    engagement: 210
-    commentsToLikes: 0.024318
-    id: ck9wdszq2h5020j78v5s839wj
-    verified: false
-    hashtags: "#tbt, #temizlik, #trabzon, #annebebek"
   - username: "sahanegurme"
     fullname: >-
       Şahanegurme / Muhammed
@@ -67,6 +43,18 @@ profiles:
     id: ck134i8xdwjz80i19d1m3kwg2
     verified: false
     hashtags: "#drink, #lezzet, #binevler, #meat"
+  - username: "zeynepbarker"
+    fullname: >-
+      Zeynep Öğüt ✨
+    bio: >-
+      Hayata kalbiyle poz veren kadın ✨ Her şeyden biraz 🫧 Reklam ve iş birliği için dm 🤝👉🏻
+    location: "Turkey"
+    followers: 56286
+    engagement: 39
+    commentsToLikes: 0.009454
+    id: ck9hb90urfuz50j78hxvapwq5
+    verified: false
+    hashtags: "#naturelovers, #do, #ni, #ke"
   - username: "gizemtolgaozd"
     fullname: >-
       Gizem | Influencer
@@ -91,6 +79,18 @@ profiles:
     id: ckf5o9kbf1fw30j23ni5wf00j
     verified: false
     hashtags: "#kanvas, #knitting, #handmade, #suplamodelleri"
+  - username: "esrinozguler"
+    fullname: >-
+      Esrin Özgüler
+    bio: >-
+      #Sunucu , #influencer ,tercümanlık&halkla ilş.yapan, #uluslararasıilişkiler mezunu🎓Hollanda doğumlu🇳🇱 Eskişehirli🇹🇷Kadıköy' de yaşayan bir martıyım..🕊
+    location: "Turkey"
+    followers: 76114
+    engagement: 78
+    commentsToLikes: 0.040079
+    id: ck0txxwuokxoa0i19p43ot7sd
+    verified: false
+    hashtags: "#mu, #dog, #moda, #ke"
   - username: "1uqba_"
     fullname: >-
       Bremen📍

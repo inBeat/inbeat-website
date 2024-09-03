@@ -1,11 +1,11 @@
 ---
-title: Top 10 Beauty TikTok Influencers In Seattle In 2023
+title: Top 10 Beauty TikTok Influencers In Seattle In 2024
 description: >-
-  Find top beauty TikTok influencers in Seattle in 2023. Most popular hashtags: #fyp #beauty #seattle #foryou.
+  Find top beauty TikTok influencers in Seattle in 2024. Most popular hashtags: #fyp #beauty #seattle #makeup.
 platform: TikTok
 hits: 13
-text_top: Discover the top-rated TikTok profiles on inBeat.
-text_bottom: inBeat aggregates 13 TikTok influencers like this in Seattle, United States for you to pitch.
+text_top: Identify the top-rated TikTok influencers on inBeat.
+text_bottom: inBeat holds 13 TikTok influencers like this in Seattle, United States for you to contact.
 profiles:
   - username: "kathy.nguyen195"
     fullname: >-
@@ -54,7 +54,7 @@ profiles:
     commentsToLikes: 0.028443
     id: ck83k45ao96ld0j78j03rlrab
     verified: false
-    hashtags: "#venom, #cosplayer, #jokermakeup, #creativemakeup"
+    hashtags: "#beauty, #creativemakeup, #venom, #cosplayer"
   - username: "cece.chan"
     fullname: >-
       Cece Chan
@@ -114,7 +114,7 @@ profiles:
     commentsToLikes: 0.006360
     id: ck932idajjn7l0j78nk9obu71
     verified: false
-    hashtags: "#latina, #comida, #fyp, #dessert"
+    hashtags: "#comida, #seafood, #latino, #food"
   - username: "jinathegorgeous"
     fullname: >-
       jina the gorgeous

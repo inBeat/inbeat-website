@@ -1,130 +1,130 @@
 ---
-title: Top 10 Athletes Instagram Influencers In Italy In 2023
+title: Top 10 Athletes Instagram Influencers In Italy In 2024
 description: >-
-  Find top athletes Instagram influencers in Italy in 2023. Most popular hashtags: #fitnessmotivation #fitness #bodybuilding.
+  Find top athletes Instagram influencers in Italy in 2024. Most popular hashtags: #italy #training #italia #love.
 platform: Instagram
-hits: 221
-text_top: Identify the best Instagram accounts on inBeat.
-text_bottom: Our platform holds 221 Instagram influencers like this in Italy for you to collaborate.
+hits: 217
+text_top: Analyze the most popular Instagram accounts on inBeat.
+text_bottom: Our search engine aggregates 217 Instagram influencers like this in Italy for you to connect with.
 profiles:
-  - username: "manuel_caruso_calisthenics"
+  - username: "lucapescollderungg"
     fullname: >-
-      Manuel Caruso
+      LUCA PESCOLLDERUNGG
     bio: >-
-      🤸‍♂️Trainer & performer 📩Coaching Online 🏆Competitive athlete 🎟️Prozis -10% CARUSO10 ⬇️⬇️⬇️⬇️⬇️⬇️
+      🇮🇹MOUNTAIN ATHLETE FROM THE DOLOMITES 🏆 Spartan European Champion ‘23 @lasportivagram @alta_badia_official 📩 lucapescollderungg@yahoo.de
     location: "Italy"
-    followers: 90907
-    engagement: 4096
-    commentsToLikes: 0.009509
-    id: ck14jwjg0mjq00i19kj845qvh
+    followers: 10463
+    engagement: 463
+    commentsToLikes: 0.030383
+    id: ck134dqodvy2z0i19knw3ucn3
     verified: false
-    hashtags: "#milano, #spagna, #funny, #viralreels"
-  - username: "mnedelcu64"
+    hashtags: "#passionedolomiti, #mountainrunning, #newsponsor, #wearemountainrunners"
+  - username: "gaia_sab99"
     fullname: >-
-      𝓜𝓪𝓻𝓲𝓪𝓷𝓮𝓭𝓮𝓵𝓬𝓾
+      Gaia Sabbatini
     bio: >-
-      DYnutrition athlete - Discount code MARIADY10 🏋🏽‍♀️ 🥇National Jr. 2020 🥇2x Balkan Jr. 2020 🥇European Jr. 2021 🥉European Sr. 2021 🥉World Jr.
+      Olympian🦋 🥇🇪🇺U23 🥇x13🇮🇹 @nike Athlete @toyota_italia @technogym @lindahls_it @garminitaly 📩mauriziogalantino@gmail.com TikTok:gaiasabb99
     location: "Italy"
-    followers: 74686
-    engagement: 746
-    commentsToLikes: 0.013632
-    id: ck8t2c4m4yx7r0j78mexntbe0
+    followers: 383074
+    engagement: 423
+    commentsToLikes: 0.010299
+    id: clr3ixyn2lc880k08l020ryw4
     verified: false
-    hashtags: "#yoins, #yoinscollection, #yoinsstyle, #yoinseveryday"
-  - username: "ironlady_bb"
+    hashtags: "#happiness, #sudafrica, #reel, #workout"
+  - username: "greg_palt"
     fullname: >-
-      Lucia Aucelli | BODYBUILDER💫
+      Gregorio Paltrinieri
     bio: >-
-      Class 1998, NAPOLI🇮🇹P.T ISSA EUROPE 📖 • @gorillawear ATHLETE🦍 • @myproteinit ambassador codice:LUCIAMYP📌 COACHING ONLINE⬇️📲
+      Olympic Champion @dao_sport athlete 🏊 @dominatethewater ambassador 🔱 Twitter: greg_palt
     location: "Italy"
-    followers: 33512
-    engagement: 661
-    commentsToLikes: 0.102175
-    id: ckapbon2j0pu40i78gxfglyhf
-    verified: false
-    hashtags: "#italy, #me, #instagram, #summer"
-  - username: "valentinagiacinti"
-    fullname: >-
-      Valentina Giacinti
-    bio: >-
-      Milano📍 Football player @acmilan 🔴⚫️ National team @azzurrefigc 🇮🇹 Atlhete @adidas 👟👕 Athlete @4plusnutrition 🏋🏼‍♂️🔋 Athlete @lierac_italia ☀️
-    location: "Italy"
-    followers: 191435
-    engagement: 1040
-    commentsToLikes: 0.020188
-    id: ck55jxhu8xzwh0i11ilzxgqqx
+    followers: 348599
+    engagement: 688
+    commentsToLikes: 0.006201
+    id: ck8swrkqmezwt0j78mzf6doeu
     verified: true
-    hashtags: "#acmilan, #predator, #vivoazzurro, #danimarcaitalia"
-  - username: "rickymorasca"
+    hashtags: "#paneraisubmersible, #sportwatch, #granarolohighprotein, #gregoriopaltrinieri"
+  - username: "e_veganfit"
     fullname: >-
-      Riccardo Moraschini
+      
     bio: >-
-      ➡️Basketball player @olimpiamilano1936 ➡️Nike athlete @nikebasketball ➡️Twitter: morasca9
+      ⭐️WNBF PROBikini 🥇Bikini World Champion 🌱🌏Vegan 💯Natural Athlete Il nostro programma di allenamento: V-AthletePROGRAM 🔻@v_athlete_official
     location: "Italy"
-    followers: 20065
-    engagement: 1120
-    commentsToLikes: 0.035677
-    id: ck5civ29wtfjr0i11h4alv022
+    followers: 15840
+    engagement: 481
+    commentsToLikes: 0.041254
+    id: ck55nqzd66sog0i11eyq9nnuj
+    verified: false
+    hashtags: ""
+  - username: "francypave"
+    fullname: >-
+      Francesca Marta Pavesi
+    bio: >-
+      💼 Digital Marketing | @socialandvisual 🇮🇹 28 | FWQ athlete 📩DM for collabs and projects
+    location: "Italy"
+    followers: 35755
+    engagement: 418
+    commentsToLikes: 0.032130
+    id: ck5pw16xlklmu0i11q8wtgc6a
+    verified: false
+    hashtags: "#ocean, #videoviral, #montebianco, #ski"
+  - username: "chiarapellacanii"
+    fullname: >-
+      Chiara Pellacani
+    bio: >-
+      📍Miami Italian national diver🇮🇹 2020🇯🇵Olympian @canesswimdive 🙌🏻 European medalist 7x🥇 5x🥈 4x🥉 World medalist 🥈🥈🥉🥉🥉 Dao athlete @dao_sport
+    location: "Italy"
+    followers: 39496
+    engagement: 986
+    commentsToLikes: 0.019894
+    id: ck55lpqsi24fk0i11k68tfz45
+    verified: false
+    hashtags: "#water, #competition, #italy, #diving"
+  - username: "zaynab_dosso"
+    fullname: >-
+      ZD🤍💚
+    bio: >-
+      • Olympian ✨💫 • G.S Fiamme Azzurre👮🏾‍♀️ • @puma athlete 🏃🏾‍♀️ Zaynabdosso99@gmail.com
+    location: "Italy"
+    followers: 35793
+    engagement: 1359
+    commentsToLikes: 0.025220
+    id: ck8tatvz4t1f80j78mon1dbev
+    verified: false
+    hashtags: "#italia, #asicsrunning, #atletica, #skysport"
+  - username: "di__palma"
+    fullname: >-
+      Joseph Naklé
+    bio: >-
+      La mia Dolce Vita Instagrammata 🌎 🇱🇧 🇮🇹 Proud Athlete 🏳️‍🌈🏀 Founder & President of : 🏀 @peacox_basket_milano 🧳 Luxury 📍Milano
+    location: "Italy"
+    followers: 10343
+    engagement: 2124
+    commentsToLikes: 0.034312
+    id: ckf5pwoy77he10j23zcxldaho
+    verified: false
+    hashtags: "#pride, #muscles, #milano, #cute"
+  - username: "samburns66"
+    fullname: >-
+      Sam Burns
+    bio: >-
+      Christ Follower | Professional golfer @callawaygolf @travismathew @mastercard @adp @netjets and @rbc athlete.
+    location: "Italy"
+    followers: 110522
+    engagement: 625
+    commentsToLikes: 0.031695
+    id: ck6tq6euppngv0j7147bxaoil
     verified: true
-    hashtags: "#mambamentality, #ajxxxv, #loveforthegame, #gameday"
-  - username: "immafiume"
+    hashtags: "#travismathew, #ad, #marcosimonemonday, #approachiseverything"
+  - username: "cristianagirelli"
     fullname: >-
-      FITNESS | TATTOO | LIFESTYLE
+      Cristiana Girelli
     bio: >-
-      𝗕𝗢𝗢𝗧𝗬 𝗦𝗣𝗘𝗖𝗜𝗔𝗟𝗜𝗦𝗧 🍑 • @gorillawear ATHLETE • @_bombafit_ IMMA10 • @bodystorewear IMMA5 More content👇🏼🔥
+      Football Player for @juventus ⚪️⚫️ and @azzurrefigc 💙🇮🇹 Athlete @pumafootball ⚽️ 📩 infocristianagirelli@gmail.com represented by @dequastudio
     location: "Italy"
-    followers: 146145
-    engagement: 511
-    commentsToLikes: 0.022502
-    id: ck55la5l414bt0i11bm60kn00
-    verified: false
-    hashtags: "#girlpower, #fitness, #bodygoals, #bodypositive"
-  - username: "paulopez_13"
-    fullname: >-
-      Pau López
-    bio: >-
-      Portiere @officialasroma Adidas Athlete 🧤 From Girona to Roma📍
-    location: "Italy"
-    followers: 130261
-    engagement: 974
-    commentsToLikes: 0.017030
-    id: ck6tw7zx8qhtn0j71sb1wpbry
+    followers: 222642
+    engagement: 380
+    commentsToLikes: 0.013156
+    id: ckap2v4cp0g4p0i78udqddi1z
     verified: true
-    hashtags: "#dajeroma, #uel, #yocorroporti"
-  - username: "ottaviacestonaro"
-    fullname: >-
-      Ottavia Cestonaro
-    bio: >-
-      🇮🇹Pro triplejumper PB 14.18m 🥇U20 European Champion 💪@adidasita athlete 👮@cscarabinieri 🎓Scienze motorie 🎓Scienze forestali 🏃🏼‍♀️Istruttrice FIDAL
-    location: "Italy"
-    followers: 23964
-    engagement: 842
-    commentsToLikes: 0.024641
-    id: ckap9biqkrz6k0i78ah39f7ka
-    verified: false
-    hashtags: "#hometeam, #smile, #adv, #iorestoacasa"
-  - username: "zachhartman1"
-    fullname: >-
-      ZACH HARTMAN
-    bio: >-
-      𝗠𝗼𝗱𝗲𝗹/𝗕𝗼𝘅𝗲𝗿/𝗠𝘂𝘀𝗶𝗰𝗶𝗮𝗻 MA-@unsignedgrp 🇬🇧Nevs Models🇬🇧 @10xathleticusa athlete: Zach10X
-    location: "Italy"
-    followers: 46112
-    engagement: 595
-    commentsToLikes: 0.023011
-    id: ck8sys9jslt700j78d9xp1v8w
-    verified: false
-    hashtags: "#dazn, #ad, #sportsdirect, #everlast"
-  - username: "annaincertimarathon"
-    fullname: >-
-      anna incerti
-    bio: >-
-      Italian athlete 5000m: 15'15" halfmarathon:68'18" marathon: 2h25'32"
-    location: "Italy"
-    followers: 11114
-    engagement: 860
-    commentsToLikes: 0.067824
-    id: ck5qbdsu6l3y00i11d5dfih94
-    verified: false
-    hashtags: "#dolcedomenica, #fvg, #campionatoitaliano, #redcarpet"
+    hashtags: "#euro2022, #holiday, #forzaazzurre, #forzajuve"
 ---

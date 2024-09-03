@@ -1,12 +1,48 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Houston In 2023
+title: Top 10 Fitness Instagram Influencers In Houston In 2024
 description: >-
-  Find top fitness Instagram influencers in Houston in 2023. Most popular hashtags: #fitness #houston #fitnessmotivation #fitnessjourney.
+  Find top fitness Instagram influencers in Houston in 2024. Most popular hashtags: #fitness #houston #fitnessmotivation #fitnessjourney.
 platform: Instagram
-hits: 176
-text_top: See the best Instagram accounts on inBeat.
-text_bottom: inBeat has 176 Instagram influencers like this in Houston, United States for you to collaborate.
+hits: 231
+text_top: Analyze the most popular Instagram profiles on inBeat.
+text_bottom: Our database aggregates 231 Instagram influencers like this in Houston, United States for you to work with.
 profiles:
+  - username: "aaaaayevuh"
+    fullname: >-
+      Ava Bracey🏋🏾‍♂️ | Your Fitness Coach
+    bio: >-
+      @pescience ATHLETE @gymshark @inakapower code ‘AVA’ Collabs 📧 BraceyL.Ava@gmail.com ⬇️ limited 1:1 coaching spots now open
+    location: "United States"
+    followers: 383883
+    engagement: 355
+    commentsToLikes: -3.309670
+    id: cl8balxm23cmd0i239ysp5rkr
+    verified: false
+    hashtags: "#travel, #gymshark, #bodybuilding, #weightlossmotivation"
+  - username: "dulcediana"
+    fullname: >-
+      𝗗𝗶𝗮𝗻𝗮 𝗣𝗮𝗿𝗲𝗷𝗮 | 𝗛𝗼𝘂𝘀𝘁𝗼𝗻 𝗧𝗿𝗮𝗶𝗻𝗲𝗿
+    bio: >-
+      Personal Trainer & Online Coach 🇨🇴 @doubletaketeam Strength•Balance•Movement #IAM1STPHORM Apply for coaching in the link ⤵️
+    location: "United States"
+    followers: 12580
+    engagement: 328
+    commentsToLikes: 0.049491
+    id: ckwx3iv46wlz30j235p34o6w4
+    verified: false
+    hashtags: "#latina, #fitspo, #buildyourbody, #bodybuilding"
+  - username: "taylornbenn"
+    fullname: >-
+      𝐇𝐨𝐮𝐬𝐭𝐨𝐧 𝐦𝐨𝐝𝐞𝐥
+    bio: >-
+      🦋Taylor Bennett 🦋Dm for rates/collabs 🦋Never forget to love yourself 🦋Published model
+    location: "United States"
+    followers: 7541
+    engagement: 1122
+    commentsToLikes: 0.042675
+    id: ck5zkxv5bkd510i14v5blu8vh
+    verified: false
+    hashtags: "#houston, #portraitphotography, #fitness, #houstonmodels"
   - username: "ness.in.the.us"
     fullname: >-
       Vanessa Wilson-Watson
@@ -18,7 +54,19 @@ profiles:
     commentsToLikes: 0.313235
     id: ck8szu0zvppic0j78ftgq2n26
     verified: false
-    hashtags: "#seasonaldecor, #tinyfestivemoments, #festiveblogger, #magicofchristmas"
+    hashtags: "#christmasgram, #nessinthekitchen, #cookingwithme, #magicofchristmas"
+  - username: "sugaa_b"
+    fullname: >-
+      SUGGA B
+    bio: >-
+      21😜 Skylar J Mom💕 Bama raised ✈️ ATL Personal Trainer | Model | Ambassador @_snatchedbysugga
+    location: "United States"
+    followers: 6758
+    engagement: 455
+    commentsToLikes: 0.064576
+    id: ck6u7z2suohvj0j71oua8i46k
+    verified: false
+    hashtags: "#fitnessmodel, #atlanta, #grouptraining, #fitnessjourney"
   - username: "mariafit92_"
     fullname: >-
       Maria Rivera
@@ -31,6 +79,18 @@ profiles:
     id: ckap6dps5fgnd0i78cecdh21z
     verified: false
     hashtags: "#houston, #fitmom, #fitnessmodel, #fitness"
+  - username: "kfoshotya"
+    fullname: >-
+      KFos Photography
+    bio: >-
+      DMV/ATL/MIAMI -NO FREE SHOOTS! -If you don't Like Nudity Unfollow Me -I shoot all sizes of women -I Empower Women With My Art
+    location: "United States"
+    followers: 21565
+    engagement: 605
+    commentsToLikes: 0.031140
+    id: ck5zpp05et2ej0i140tf2ousw
+    verified: false
+    hashtags: "#shotbykfos, #dmvmodels, #beauty, #blackqueen"
   - username: "ramyainti"
     fullname: >-
       Ramya
@@ -42,89 +102,29 @@ profiles:
     commentsToLikes: 0.018247
     id: ck8t8t4xqlpk00j78uclyox52
     verified: false
-    hashtags: "#bikiniseason, #fashionnova, #mondaymotivation, #houstonblogger"
-  - username: "dulcediana"
+    hashtags: "#fitness, #mcm, #fitnessmotivation, #houstonblogger"
+  - username: "shea_jordan"
     fullname: >-
-      𝗗𝗶𝗮𝗻𝗮 𝗣𝗮𝗿𝗲𝗷𝗮 | 𝗛𝗼𝘂𝘀𝘁𝗼𝗻 𝗧𝗿𝗮𝗶𝗻𝗲𝗿
+      Shea Jordan Smith
     bio: >-
-      Personal Trainer & Online Coach 🇨🇴 @doubletaketeam Strength•Balance•Movement #IAM1STPHORM Apply for coaching in the link ⤵️
+      digital political strategist @gmmb pronounced “shay” • UH alumnus
     location: "United States"
-    followers: 12578
-    engagement: 338
-    commentsToLikes: 0.051676
-    id: ckwx3iv46wlz30j235p34o6w4
+    followers: 12561
+    engagement: 372
+    commentsToLikes: 0.044177
+    id: ckq3ii8z7g2jk0j23nedewln3
     verified: false
-    hashtags: "#latina, #gluteworkout, #houston, #legday"
-  - username: "baby_briiiannaa"
+    hashtags: "#reels, #tbt, #fitness, #explore"
+  - username: "megan_renee316"
     fullname: >-
-      •Baby B•💋
+      Megan Reneé Turner
     bio: >-
-      Be the light • 21 •Houston, tx 📍 •fitness, fashion and lifestyle •twitter: baby_briiianna
+      🔥 Train w/ me Online, In-Person or Virtually 🏋🏽‍♀️ @growthbands 🥤 @thevitalcorner 🌱 @the_ambrosia_collective | DC: Megan 👚 @cuban.fit | DC: meganrenee
     location: "United States"
-    followers: 53555
-    engagement: 1208
-    commentsToLikes: 0.029631
-    id: ckap3s4if4bpu0i78rtvjny60
+    followers: 380704
+    engagement: 89
+    commentsToLikes: 0.014472
+    id: ck6u82eclp1gb0j71anev32u4
     verified: false
-    hashtags: "#nightout, #fitnessmotivation, #fitnessjourney, #gym"
-  - username: "shadessofblu"
-    fullname: >-
-      Glamorous Bruja Blu
-    bio: >-
-      Only 1 IG & Snap (iceychick) Bluday 💙🔒 World Explorer 🗺 📍HTX Business Owner / TAX PREP. Follow @shadessoffood 🍽 Spiritual & Crystal Lover 🔮📿
-    location: "United States"
-    followers: 18717
-    engagement: 331
-    commentsToLikes: 0.027722
-    id: ck6u2x4vxuf440j71s0zc5fmq
-    verified: false
-    hashtags: "#houston, #fitness, #crystallover, #adventureseeker"
-  - username: "agentshawn"
-    fullname: >-
-      Trainer/Sports Performance
-    bio: >-
-      🏋🏽‍♂️ Cypherdemics 📐 Engineering Professional 🇺🇸 Houston, TX 📩 mrshawn06@gmail.com #cypherdemics
-    location: "United States"
-    followers: 17305
-    engagement: 143
-    commentsToLikes: 0.195510
-    id: ck6u42nl71c2q0j71qj8wd6mx
-    verified: false
-    hashtags: "#menshealthmag, #bootcamp, #weightlossjourney, #cypherdemics"
-  - username: "morganthebayer"
-    fullname: >-
-      M O R G A I N Z
-    bio: >-
-      Founder // Owner of: @morgainz_collection 💪🏻Online/ Personal Trainer: @bossletics_gym #morgainzmentality ⬇️ SHOP or APPLY for 1:1 Training⬇️
-    location: "United States"
-    followers: 102736
-    engagement: 289
-    commentsToLikes: 0.033707
-    id: ck9hchq38lgcf0j784cyzwzc6
-    verified: false
-    hashtags: ""
-  - username: "ryanweavercountry"
-    fullname: >-
-      🇺🇸🎤Ryan Weaver Official🎤🇺🇸
-    bio: >-
-      Country Music Artist, Motivational Speaker, @turningpointusa Ambassador, Former US Army Blackhawk Aviator
-    location: "United States"
-    followers: 66830
-    engagement: 236
-    commentsToLikes: 0.054748
-    id: ck6tthsr0aoms0j71of1vksnb
-    verified: true
-    hashtags: "#whey, #eatclean, #letstalkaboutheroes, #numismatist"
-  - username: "ciadifference"
-    fullname: >-
-      Ciara
-    bio: >-
-      I Owe God EVERYTHING *Social Media Is Not Real Life* Austin📍 30
-    location: "United States"
-    followers: 3094
-    engagement: 1216
-    commentsToLikes: 0.105534
-    id: ck6u44soh1ope0j71fdk9n5u9
-    verified: false
-    hashtags: "#michaelbjordan, #peace, #ciadifference, #melanin"
+    hashtags: "#houston, #fitness, #fitnessmotivation, #backworkout"
 ---

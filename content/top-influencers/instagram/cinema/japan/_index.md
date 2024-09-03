@@ -1,24 +1,12 @@
 ---
-title: Top 10 Cinema Instagram Influencers In Japan In 2023
+title: Top 10 Cinema Instagram Influencers In Japan In 2024
 description: >-
-  Find top cinema Instagram influencers in Japan in 2023. Most popular hashtags: #streetclassics #streetshared #japan #streetgrammers.
+  Find top cinema Instagram influencers in Japan in 2024. Most popular hashtags: #japan #cinesomnia #running #explorejapan.
 platform: Instagram
-hits: 60
-text_top: See the best Instagram influencers on inBeat.
-text_bottom: Our search engine holds 60 Instagram influencers like this in Japan for you to connect with.
+hits: 68
+text_top: Discover the best Instagram influencers on inBeat.
+text_bottom: Our database holds 68 Instagram influencers like this in Japan for you to connect with.
 profiles:
-  - username: "jonleedisney"
-    fullname: >-
-      Jon Lee
-    bio: >-
-      All photos are mine. Repost with credit (NO ALTERATIONS) WDW CM Disney 📷 Photographer 🎥 Cinematographer Photography page: @jonleephoto Latest Video:
-    location: "Japan"
-    followers: 11239
-    engagement: 729
-    commentsToLikes: 0.012178
-    id: ck0u8wy0i8dmd0i19fkxnjqlp
-    verified: false
-    hashtags: "#disneyworld, #disneyparks, #wdw, #mickeyrr"
   - username: "the_rinayang"
     fullname: >-
       RINA YANG
@@ -67,6 +55,42 @@ profiles:
     id: ck13ber6nv2ni0i19o5zx135e
     verified: false
     hashtags: "#unext, #amazonprime, #netflix, #amazonprimevideo"
+  - username: "tatsu_yamagishi"
+    fullname: >-
+      Tatsu
+    bio: >-
+      LINEskis ｜Freeskier ｜Filmmaker
+    location: "Japan"
+    followers: 6059
+    engagement: 1011
+    commentsToLikes: 0.046152
+    id: ckaorot9lo5uz0i78uidfsm0s
+    verified: false
+    hashtags: "#drinkbutter, #cinematic, #earthfocus, #skicreative"
+  - username: "kotaroji"
+    fullname: >-
+      kotaroji.
+    bio: >-
+      映画の感想は書き換えることが多いです 写真撮って食べる係
+    location: "Japan"
+    followers: 12497
+    engagement: 397
+    commentsToLikes: 0.005861
+    id: ckf5mkl85u8u60j233pjdn6li
+    verified: false
+    hashtags: "#pastry, #mensstyle, #landscapeyokohama, #tarte"
+  - username: "otoshima_risa"
+    fullname: >-
+      音嶋莉沙
+    bio: >-
+      ＝LOVE 🍒 ℝ𝕚𝕤𝕒 🍒 fashion👗make💄pink🎀kawaii💖 お仕事、メッセージはこちらまで👇💌 info-equal-love@yagnet.jp Twitter🐰
+    location: "Japan"
+    followers: 57336
+    engagement: 1148
+    commentsToLikes: 0.017465
+    id: ckaovcxj041sf0i786pq7zkpt
+    verified: true
+    hashtags: "#zara, #risa, #cinema, #niceclaup"
   - username: "hhhhi02"
     fullname: >-
       泉ひかり(Hikari Izumi)
@@ -103,28 +127,4 @@ profiles:
     id: ck5hdcl39mosn0i11gmraymni
     verified: false
     hashtags: "#agameoftones, #creativeoptic, #streetclassics, #globalnightsquad"
-  - username: "laserkola"
-    fullname: >-
-      Lasse Erkola
-    bio: >-
-      Videogame magazine Art Director from Finland. Frequently getting lost somewhere in Japan.
-    location: "Japan"
-    followers: 19261
-    engagement: 1289
-    commentsToLikes: 0.028743
-    id: ck0w6kf1q8zro0i195y86983j
-    verified: false
-    hashtags: "#alley, #cinematic, #helsinki, #woofermagazine"
-  - username: "zurkzenemixa"
-    fullname: >-
-      ⭕️  ᴀʟᴀɴ ᴊɪᴍÉɴᴇᴢ アラン ヒメネス ⭕️
-    bio: >-
-      • ʙᴀꜱᴇᴅ ɪɴ ᴛᴏᴋʏᴏ • ᴅɪᴠᴇʀꜱɪꜰɪᴇᴅ & ᴍᴜʟᴛɪᴄᴏʟᴏʀ ᴘʜᴏᴛᴏɢʀᴀᴘʜɪᴄ ᴄᴏɴᴛᴇɴᴛ • ᴅᴍ ғᴏʀ sʜᴏᴏᴛs • ᴛᴇᴀᴍ @latamambassadors 🇲🇽
-    location: "Japan"
-    followers: 4771
-    engagement: 1147
-    commentsToLikes: 0.315117
-    id: ck5c33xppyk7f0i112y7umahq
-    verified: false
-    hashtags: "#streetmobs, #pr0ject, #ptk, #ourvisualvibes"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Nail Artists Instagram Influencers In Spain In 2023
+title: Top 10 Nail Artists Instagram Influencers In Spain In 2024
 description: >-
-  Find top nail artists Instagram influencers in Spain in 2023. Most popular hashtags: #nails #nailart #makeup #nailsofinstagram.
+  Find top nail artists Instagram influencers in Spain in 2024. Most popular hashtags: #nails #nailsofinstagram #nailart #nailartist.
 platform: Instagram
-hits: 22
-text_top: Analyze the most popular Instagram profiles on inBeat.
-text_bottom: Our platform holds 22 Instagram influencers like this in Spain for you to contact.
+hits: 28
+text_top: See the most popular Instagram influencers on inBeat.
+text_bottom: inBeat has 28 Instagram influencers like this in Spain for you to collaborate.
 profiles:
   - username: "alegria_blanc"
     fullname: >-
@@ -19,6 +19,18 @@ profiles:
     id: ck5zm1uwdlr3v0i144olbcfwj
     verified: false
     hashtags: ""
+  - username: "maynailz"
+    fullname: >-
+      MAY
+    bio: >-
+      ✍🏻nail artist 👽mami de @nailtexstudio ✨🌸💘NAILS BABY🌈🔥💦 ✉️citas al DM💅🏽
+    location: "Spain"
+    followers: 9890
+    engagement: 345
+    commentsToLikes: 0.013590
+    id: ck6tlzq9b6xom0j71txi12n91
+    verified: false
+    hashtags: "#frenchnails, #acrilicnails, #nailsofinstagram, #picoftheday"
   - username: "bebasbeauty_studio_nails"
     fullname: >-
       Nebenka Zaric
@@ -43,6 +55,18 @@ profiles:
     id: ck5ckq1vhxdxd0i11z6493apm
     verified: false
     hashtags: "#nailart, #nailstyle, #glitternails, #viral"
+  - username: "lafamiliajvlog"
+    fullname: >-
+      La Familia J
+    bio: >-
+      Moda, viajes, lifestyle, toda una vlogger Trimadre 👧🏽🧑🏼👧🏽 Te invitamos a que sigas nuestra historia.🥰 🙋🏼‍♂️ JJ @rotulado.es Representante @beshiny__
+    location: "Spain"
+    followers: 58413
+    engagement: 289
+    commentsToLikes: 0.414912
+    id: ckap3hshn31z80i78orirunsj
+    verified: false
+    hashtags: "#foto, #familia, #tipi, #azul"
   - username: "queenofstores"
     fullname: >-
       Cristina ♡
@@ -54,7 +78,19 @@ profiles:
     commentsToLikes: 0.041581
     id: ck8syk3acl1zw0j78jek4j6k2
     verified: false
-    hashtags: "#costadelsol, #apmgirls, #apmmonaco, #functionalart"
+    hashtags: "#apmmonaco, #apmgirls, #costadelsol, #kokun"
+  - username: "pideporesaboca"
+    fullname: >-
+      Sonsoles de la Peña
+    bio: >-
+      Sonsoles de la Peña. Mesa bien puesta, familia contenta. Colaboraciones: 📩 sonsoles@pideporesaboca.com
+    location: "Spain"
+    followers: 63580
+    engagement: 458
+    commentsToLikes: 0.111414
+    id: ck5c4xzj02cnr0i114u4me78u
+    verified: false
+    hashtags: "#plates, #outfit, #ootd, #mesas"
   - username: "penny_nail"
     fullname: >-
       Penny Nail
@@ -78,53 +114,17 @@ profiles:
     commentsToLikes: 0.039869
     id: ck55ob7lk80f70i11z1x7qmbt
     verified: false
-    hashtags: "#creativebeauty, #pridemonth, #pridemakeup, #makeupideas"
+    hashtags: "#makeup, #explorepage, #creativemakeup, #diormakeup"
   - username: "mar.aguiilar"
     fullname: >-
-      MAR | ADVENTURE & LIFESTYLE
+      Mar Aguilar
     bio: >-
-      Born in Panama ♥ Photographer || Adventurer || Food lover| >>Content Creator || Explore often, consume mindfully . Enjoy the ride :) @marr_photo ⛰
+      | Panama || Sharing experiences || Travel || Lifestyle || Beauty || Contact >> 💌 marilyna987@gmail.com @presetsby.mar || @mar.closettsale ✨
     location: "Spain"
-    followers: 17119
-    engagement: 457
-    commentsToLikes: 0.009839
+    followers: 25699
+    engagement: 266
+    commentsToLikes: 0.008857
     id: ck5c6e7dt596b0i11rh38bb7a
     verified: false
-    hashtags: "#moments, #nature, #amazing, #visitpanama"
-  - username: "dailymarjan"
-    fullname: >-
-      Marjan Roshan ✨Art & lifestyle
-    bio: >-
-      Persian-Spanish creative based in Madrid Official Creator on @tiktok (650K+) Editorial Content at @domestika 💼 contactdailymarjan@gmail.com
-    location: "Spain"
-    followers: 18287
-    engagement: 536
-    commentsToLikes: 0.016840
-    id: ckapaiuawwaek0i7804posf65
-    verified: false
-    hashtags: "#watercolor, #arte, #ilustracion, #artistsoninstagram"
-  - username: "carlalopezart"
-    fullname: >-
-      Carla López 🥀
-    bio: >-
-      ♡ Contemporary spanish artist 🎨 📸 ♡ Asturias || Madrid 📍 ♡ DM or mail for collabs and hiring 🌸 ♡ TV/Cine madrid@makingofagency.es
-    location: "Spain"
-    followers: 22174
-    engagement: 476
-    commentsToLikes: 0.069507
-    id: ck0u0r0n6uo2k0i19mnd7ow4l
-    verified: false
-    hashtags: "#alternativestyle, #photoshoot, #fashion, #ttdeye"
-  - username: "tamaramerino.official"
-    fullname: >-
-      Tamara Merino
-    bio: >-
-      CANTANTE/SINGER🎙️ Anteriormente en: Grupo Tekila Orquesta Olympus @lovecandy.Nails
-    location: "Spain"
-    followers: 8302
-    engagement: 1149
-    commentsToLikes: 0.061987
-    id: ck6tk2oh23w050j71zao3jtgm
-    verified: false
-    hashtags: "#singergirl, #asturias, #cover, #litiumrecords"
+    hashtags: "#amazing, #photography, #positivevibes, #sea"
 ---

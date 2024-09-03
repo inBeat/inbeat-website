@@ -1,36 +1,84 @@
 ---
-title: Top 10 Makeup Instagram Influencers In Morocco In 2023
+title: Top 10 Makeup Instagram Influencers In Morocco In 2024
 description: >-
-  Find top makeup Instagram influencers in Morocco in 2023. Most popular hashtags: #love #makeup #maroc.
+  Find top makeup Instagram influencers in Morocco in 2024. Most popular hashtags: #dubai #love #instagood.
 platform: Instagram
-hits: 97
-text_top: See the best Instagram influencers on inBeat.
-text_bottom: inBeat aggregates 97 Instagram influencers like this in Morocco for you to pitch.
+hits: 126
+text_top: See the most popular Instagram accounts on inBeat.
+text_bottom: Our database has 126 Instagram influencers like this in Morocco for you to pitch.
 profiles:
-  - username: "nouhaila_barbie"
+  - username: "hindelmekaoui"
     fullname: >-
-      Nouhaila Barbie l نهيلة باربي
+      Hind Elmekaoui - هند المكاوي
     bio: >-
-      • Owner @imalki_by_nouhaila • Business whatsapp +212661594748 • Nouhailaimalki0@gmail.com • Makeup artist💄/ Model & miss👸🏼 • Snapchat: barbienouhaila
+      Beauty content creator & Makeup trainer & model Official account 💍❤️ 📍Avenue Hassan 2, Rès.Ifrane, Mag N 20 , Agdal , Rabat 0537699407/0537696213
     location: "Morocco"
-    followers: 3653610
-    engagement: 78
-    commentsToLikes: 0.011550
-    id: ck5qaiidygl010i11o20q6p8k
-    verified: true
-    hashtags: "#marrakech"
+    followers: 2079716
+    engagement: 289
+    commentsToLikes: 0.012240
+    id: ck139aw09ke6w0i19zy72phgf
+    verified: false
+    hashtags: "#fiancailles, #goodvibes, #fashion, #uae"
+  - username: "rim_bl"
+    fullname: >-
+      MakeupbyRimBL
+    bio: >-
+      Bridal / Celebrities Makeup artist Beauty Blogger ☎️ +216 50656303 📍 everywhere Personal @itsrimbl Photoshoot @creativerimbl
+    location: "Morocco"
+    followers: 565896
+    engagement: 152
+    commentsToLikes: 0.004916
+    id: ck5hpo2dtrop10i11uapsmhbz
+    verified: false
+    hashtags: ""
+  - username: "reena.abdelrahim"
+    fullname: >-
+      Reena Abdelrahim
+    bio: >-
+      •Bridal Makeup Artist since 2012• •Owner : @reena.glamhouse beauty centre | makeup academy
+    location: "Morocco"
+    followers: 392750
+    engagement: 109
+    commentsToLikes: 0.009469
+    id: ck14huccfc6l60i19n6lupqen
+    verified: false
+    hashtags: "#vlog, #summer, #ootd, #vlogs"
   - username: "sarah_abyak"
     fullname: >-
-      Sarah_abyak
+      Sarah Abyak
     bio: >-
-      📍Casablanca🇲🇦 • Makeup & Beauty For Collaborations & Publicities : 📩saraaakouch25@gmail.com
+      📍Casablanca🇲🇦 • Makeup & Beauty💄 For Collaborations & Publicities : 📩saraaakouch25@gmail.com
     location: "Morocco"
-    followers: 33550
-    engagement: 157
-    commentsToLikes: 0.063435
+    followers: 33523
+    engagement: 89
+    commentsToLikes: 0.039445
     id: ck8taxalwtgj10j78pmcfnlgk
     verified: false
-    hashtags: "#marocco, #marocaine, #maroccangirl, #caftan"
+    hashtags: "#marocco, #caftan, #tangier, #pr"
+  - username: "model.zobayda"
+    fullname: >-
+      ZOBAYDA BENKIRANE
+    bio: >-
+      MAKEUP | LIFESTYLE | SOCIAL MEDIA From : Morocco 🇲🇦 Born : Saudi Arabia 🇸🇦 RIYADH 📍| 22 years old 👸🏻
+    location: "Morocco"
+    followers: 447031
+    engagement: 78
+    commentsToLikes: 0.028596
+    id: ck13628b34e9u0i19xkphvgu0
+    verified: false
+    hashtags: ""
+  - username: "ziana.anouchka"
+    fullname: >-
+      Mouna Anouchka
+    bio: >-
+      Makeup artist 💄negafa# hair # style# 💍🇲🇦
+    location: "Morocco"
+    followers: 401154
+    engagement: 24
+    commentsToLikes: 0.040294
+    id: ck5cib6tasbxm0i11vhgz64xj
+    verified: false
+    hashtags: "#2024, #hairdresser, #dubai, #event"
   - username: "zineb.snihji"
     fullname: >-
       Zineb.Snihji
@@ -55,30 +103,6 @@ profiles:
     id: ck6u2nc53ssz30j715pkvmz4o
     verified: false
     hashtags: "#beautiful, #me, #dubainight, #fashionvlogger"
-  - username: "hindelmekaoui"
-    fullname: >-
-      Hind Elmekaoui • هند المكاوي
-    bio: >-
-      MUA & Hair stylist Bride House / Makeup courses / Beauty center •Influencer •Contact☎️0537699407/0537696213 18AV Hassan2 à 200m de la gare Rabat Agdal
-    location: "Morocco"
-    followers: 541162
-    engagement: 151
-    commentsToLikes: 0.013303
-    id: ck139aw09ke6w0i19zy72phgf
-    verified: false
-    hashtags: "#bridalmakeup, #beforeandafter, #hairstyle, #makeupartist"
-  - username: "rim_bl"
-    fullname: >-
-      Rim BL ريم
-    bio: >-
-      Bridal / Celebrities Makeup artist Beauty Blogger ☎️ +216 50656303 Made in 🇹🇳 📍 everywhere
-    location: "Morocco"
-    followers: 250556
-    engagement: 150
-    commentsToLikes: 0.004707
-    id: ck5hpo2dtrop10i11uapsmhbz
-    verified: false
-    hashtags: "#diafa2020"
   - username: "sheissafae"
     fullname: >-
       S V F V E  |  ْصَ فَ آ ء
@@ -91,18 +115,6 @@ profiles:
     id: ckf5vqsyupknn0j23r3h25orx
     verified: false
     hashtags: "#shein, #makeupartist, #share, #sheissafae"
-  - username: "foufamjk"
-    fullname: >-
-      ⵊⴰⵡⵀⴰⵔⵉ   ⵡⴰⴼⴰ
-    bio: >-
-      • Model 🇲🇦 Amazighia ⵣ Barbie Imazighen • makeupartist •Jeune entrepreneur • For for business inquiries👇🏻 Mjkfoufa@gmail.com • Snapchat(ouafala1)
-    location: "Morocco"
-    followers: 199831
-    engagement: 190
-    commentsToLikes: 0.041948
-    id: ck5pyyjs4yfv00i11gimllxwo
-    verified: false
-    hashtags: "#dontrushchallenge, #quarantine, #mariage, #maroc"
   - username: "yassinebingoo"
     fullname: >-
       Yassinebingo
@@ -115,16 +127,4 @@ profiles:
     id: ck15sk5a5dewq0i19rdeeiktn
     verified: false
     hashtags: ""
-  - username: "makeupbyabrar"
-    fullname: >-
-      Abrar Al-khatem Makeup Artist
-    bio: >-
-      KSA 🇸🇦 ( المنطقه الشرقيه ) For booking whatsapp 0566621612 👻snapchat : brbreeta
-    location: "Morocco"
-    followers: 117235
-    engagement: 192
-    commentsToLikes: 0.081230
-    id: ck5c2e7r3x3180i1181w8mosd
-    verified: false
-    hashtags: "#hudabeauty"
 ---

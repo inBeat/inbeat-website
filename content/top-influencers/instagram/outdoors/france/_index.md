@@ -1,12 +1,36 @@
 ---
-title: Top 10 Outdoors Instagram Influencers In France In 2023
+title: Top 10 Outdoors Instagram Influencers In France In 2024
 description: >-
-  Find top outdoors Instagram influencers in France in 2023. Most popular hashtags: #beautifuldestinations #folkgreen #frenchalps.
+  Find top outdoors Instagram influencers in France in 2024. Most popular hashtags: #agameoftones #folkscenery #beautifuldestinations.
 platform: Instagram
-hits: 675
-text_top: Discover the most popular Instagram influencers on inBeat.
-text_bottom: Our search engine has 675 Instagram influencers like this in France for you to pitch.
+hits: 708
+text_top: See the best Instagram influencers on inBeat.
+text_bottom: Our search engine holds 708 Instagram influencers like this in France for you to connect with.
 profiles:
+  - username: "hej.jade"
+    fullname: >-
+      Jade Stephens
+    bio: >-
+      A vibrant life outdoors Licensing: @withstills 🎞🏔🚴🏼‍♀️☕️
+    location: "France"
+    followers: 49455
+    engagement: 999
+    commentsToLikes: 0.014076
+    id: clnhuf7gmiffi0j08gkczc5gi
+    verified: false
+    hashtags: "#madewithkodak, #35mm, #kodakportra400, #sonyalpha"
+  - username: "jessmegan"
+    fullname: >-
+      Jess
+    bio: >-
+      Mom of two • small moments • outdoors • travels 💌jessmegan.info@gmail.com
+    location: "France"
+    followers: 135007
+    engagement: 173
+    commentsToLikes: 0.011710
+    id: ck0w1u8p6l5x70i19qwdq8tqt
+    verified: false
+    hashtags: "#motherlove, #barcelomayagrandresort, #motherhood, #travel"
   - username: "vero9cah"
     fullname: >-
       PT VERONICA.H 🇳🇴 BERGEN
@@ -31,18 +55,6 @@ profiles:
     id: ck5ztp3w70v0u0i14hd5eq98l
     verified: false
     hashtags: "#florida, #outdoors, #fishing, #sundayfunday"
-  - username: "salmaamahzoune"
-    fullname: >-
-      𝐒𝐚𝐥𝐦𝐚 𝐀𝐦𝐚𝐡𝐳𝐨𝐮𝐧𝐞
-    bio: >-
-      💍 Wife 🏎 Car Fanatic 🏔 Outdoors Enthusiast 📨 Salmaamahzounepro@gmail.com 📍 Morocco 🇲🇦
-    location: "France"
-    followers: 272342
-    engagement: 440
-    commentsToLikes: 0.015161
-    id: ck0vwduaat8tw0i19ed542mr2
-    verified: false
-    hashtags: "#shellmaroc, #shellracing, #classof2020, #proudlyamazigh"
   - username: "ladanivskyy"
     fullname: >-
       Alexander Ladanivskyy | Travel
@@ -54,7 +66,7 @@ profiles:
     commentsToLikes: 0.012183
     id: ck0vwf6odteg20i19qiwrso2g
     verified: false
-    hashtags: "#hellofrom, #egypt"
+    hashtags: "#egypt, #hellofrom"
   - username: "lindalovescycling"
     fullname: >-
       LindaLovesCycling
@@ -66,7 +78,7 @@ profiles:
     commentsToLikes: 0.041518
     id: ck9ham7i2d2f70j78e2mlpniz
     verified: false
-    hashtags: "#lindalovescycling, #linda, #staysafe, #lifestyle"
+    hashtags: "#linda, #staysafe, #lindalovescycling, #lifestyle"
   - username: "bolinlisamarie"
     fullname: >-
       Lisa-Marie Bolin🇸🇪Arctic Drone
@@ -115,16 +127,4 @@ profiles:
     id: ck0udce2gipqd0i19tysyt84u
     verified: false
     hashtags: "#frenchalps, #nightphotography, #sunrise, #mountain"
-  - username: "laura_t85"
-    fullname: >-
-      Laura
-    bio: >-
-      A welsh girl outdoors South Wales 🏴󠁧󠁢󠁷󠁬󠁳󠁿
-    location: "France"
-    followers: 5443
-    engagement: 1294
-    commentsToLikes: 0.036980
-    id: ckf5na9qbxdfx0j23qy01dpg8
-    verified: false
-    hashtags: "#timetoplay, #goodtimes, #throwback"
 ---

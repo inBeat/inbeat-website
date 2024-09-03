@@ -1,11 +1,11 @@
 ---
-title: Top 10 Makeup TikTok Influencers In Miami In 2023
+title: Top 10 Makeup TikTok Influencers In Miami In 2024
 description: >-
-  Find top makeup TikTok influencers in Miami in 2023. Most popular hashtags: #fyp #foryoupage #makeup #miami.
+  Find top makeup TikTok influencers in Miami in 2024. Most popular hashtags: #fyp #miami #makeup #foryoupage.
 platform: TikTok
-hits: 98
-text_top: Analyze the top-rated TikTok accounts on inBeat.
-text_bottom: Our database has 98 TikTok influencers like this in Miami, United States for you to collaborate.
+hits: 97
+text_top: Discover the top-rated TikTok accounts on inBeat.
+text_bottom: inBeat holds 97 TikTok influencers like this in Miami, United States for you to collaborate.
 profiles:
   - username: "yailyphotography"
     fullname: >-
@@ -31,18 +31,30 @@ profiles:
     id: ckb98aj35rgqr0j23qxk86eo1
     verified: false
     hashtags: "#foryoupage, #mrworldwide, #foryou, #pitbull"
-  - username: "devonchristenson"
+  - username: "ariannalyfofficial"
     fullname: >-
-      Devon Christenson
+      Arianna Lyf
     bio: >-
-      Insta @devonchristenson ✨✨✨✨✨✨✨✨
+      i’m just here tah serve looks. gone head and click that link! 👇🏽
     location: "United States"
-    followers: 39500
-    engagement: 866
-    commentsToLikes: 0.012019
-    id: ck80nrfv9e6830j781a03n6gn
+    followers: 32100
+    engagement: 1121
+    commentsToLikes: 0.015317
+    id: ckcv4j9h9ow100j23fbpv908w
     verified: false
-    hashtags: "#2021, #fyp, #trending, #part3"
+    hashtags: "#blacktiktok, #naturalhair, #wig, #lashes"
+  - username: "stephaniecosmopolitan"
+    fullname: >-
+      Steph Cosmopolitan
+    bio: >-
+      Style, beauty and luxury posts. Visit me on IG @stephaniecosmopolitan
+    location: "United States"
+    followers: 13000
+    engagement: 659
+    commentsToLikes: 0.023711
+    id: ck8w59eqa9niq0j78hcqe3odh
+    verified: false
+    hashtags: "#fashioninspo, #luxury, #fy, #photoshootposes"
   - username: "margiesstyle"
     fullname: >-
       Margie
@@ -67,30 +79,6 @@ profiles:
     id: ckan6knmvkbns0i7895p65n33
     verified: true
     hashtags: "#fyp, #alejandraguzman, #parati, #ladooscuro"
-  - username: "emilyanngemma5"
-    fullname: >-
-      EmilyAnnGemma
-    bio: >-
-      Fashion & Beauty Blogger / Pretty obsessed with makeup & my babies!😍
-    location: "United States"
-    followers: 78200
-    engagement: 538
-    commentsToLikes: 0.012335
-    id: ckb9h3tp76h1t0j23fp0bzhuh
-    verified: true
-    hashtags: "#fashion101, #boo, #itbelikethat, #showyourtruecolors"
-  - username: "jinettehilario"
-    fullname: >-
-      J
-    bio: >-
-      Follow your dreams❤️ 🇩🇴 IG: jinettehilario Twitter: jinettehilario
-    location: "United States"
-    followers: 123200
-    engagement: 918
-    commentsToLikes: 0.012388
-    id: ckd5vismlzgoz0j231iapshpf
-    verified: false
-    hashtags: "#trending, #foryou, #4u, #fyp"
   - username: "priricart"
     fullname: >-
       Priricart
@@ -103,6 +91,18 @@ profiles:
     id: ck8s6xrtgmoby0j78d5mzrkz9
     verified: false
     hashtags: "#jinglejanglewithme, #whenwewereyounger, #modeling, #miami"
+  - username: "xobrigetta"
+    fullname: >-
+      Brigetta
+    bio: >-
+      THANK U FOR 22k🥺💕 writing songs in nashville yeehaw
+    location: "United States"
+    followers: 22700
+    engagement: 1320
+    commentsToLikes: 0.104038
+    id: ck9pmq3yaasmj0j789yxtvp19
+    verified: true
+    hashtags: "#songwriter, #music, #songwriting, #funny"
   - username: "nadiasingh_31"
     fullname: >-
       nadiasingh_31

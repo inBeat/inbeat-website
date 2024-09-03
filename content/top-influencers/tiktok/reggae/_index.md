@@ -1,11 +1,11 @@
 ---
-title: Top 10 Reggae TikTok Influencers In 2023
+title: Top 10 Reggae TikTok Influencers In 2024
 description: >-
-  Find top reggae TikTok influencers in 2023. Most popular hashtags: #fyp #reggaeton #mexico #dance.
+  Find top reggae TikTok influencers in 2024. Most popular hashtags: #fyp #reggaeton #mexico #dance.
 platform: TikTok
-hits: 742
-text_top: Analyze the most popular TikTok profiles on inBeat.
-text_bottom: Our search engine has 742 TikTok influencers like this for you to pitch.
+hits: 733
+text_top: Analyze the best TikTok profiles on inBeat.
+text_bottom: inBeat aggregates 733 TikTok influencers like this for you to pitch.
 profiles:
   - username: "elcompajorgeaa"
     fullname: >-
@@ -78,7 +78,7 @@ profiles:
     commentsToLikes: 0.008031
     id: ck8hqbcmk3atp0j78f2mzdhry
     verified: true
-    hashtags: "#problema, #fyp, #problemachallenge, #daddyyankee"
+    hashtags: "#fyp, #elpony, #problema, #devueltapalavuelta"
   - username: "uzielito_mix"
     fullname: >-
       Uzielito Mix
@@ -126,5 +126,5 @@ profiles:
     commentsToLikes: 0.037683
     id: ck9eodcz9ntjt0j78l9268zxh
     verified: true
-    hashtags: "#fun, #novia, #studio, #parati"
+    hashtags: "#novia, #parati, #studio, #fyp"
 ---

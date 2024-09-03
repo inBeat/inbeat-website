@@ -1,12 +1,36 @@
 ---
-title: Top 10 Instagram Influencers In Vancouver In 2023
+title: Top 10 Instagram Influencers In Vancouver In 2024
 description: >-
-  Find top Instagram influencers in Vancouver in 2023. Most popular hashtags: #banff #earthpix #explorebc.
+  Find top Instagram influencers in Vancouver in 2024. Most popular hashtags: #motherhoodlife #vlog #vancouverbc.
 platform: Instagram
-hits: 1071
-text_top: Discover the best Instagram accounts on inBeat.
-text_bottom: inBeat aggregates 1071 Instagram influencers like this in Vancouver, Canada for you to collaborate.
+hits: 1478
+text_top: Discover the top-rated Instagram accounts on inBeat.
+text_bottom: Our search engine has 1478 Instagram influencers like this in Vancouver, Canada for you to pitch.
 profiles:
+  - username: "maiellajackson"
+    fullname: >-
+      maiella jackson
+    bio: >-
+      vancouver
+    location: "Canada"
+    followers: 14702
+    engagement: 1567
+    commentsToLikes: 0.016694
+    id: closmj3lpmxdd0j08zrm5r7p3
+    verified: false
+    hashtags: "#everydaymakeup, #grwm, #skincareroutine, #nofilter"
+  - username: "victoria_verr"
+    fullname: >-
+      Victoria Verreet
+    bio: >-
+      vancouver
+    location: "Canada"
+    followers: 22395
+    engagement: 204
+    commentsToLikes: 0.014141
+    id: ckt1029vdu0zh0j23rohpyyuy
+    verified: false
+    hashtags: "#hvarisland, #splitcroatia, #dubrovnik, #santorinisunset"
   - username: "juliiabroown"
     fullname: >-
       JULIA
@@ -43,6 +67,18 @@ profiles:
     id: ck6tm0ojm6zbg0j71653389cq
     verified: false
     hashtags: ""
+  - username: "emmamisakk"
+    fullname: >-
+      Emma
+    bio: >-
+      Vancouver
+    location: "Canada"
+    followers: 2404
+    engagement: 1772
+    commentsToLikes: 0.056658
+    id: ck5zsyf0czf170i14g6ps8n8g
+    verified: false
+    hashtags: "#straypath, #bgirl, #breaking, #retired"
   - username: "pasha"
     fullname: >-
       Pasha Eshghi
@@ -55,76 +91,40 @@ profiles:
     id: ck0ucoiishc870i19dgp63nj6
     verified: true
     hashtags: ""
-  - username: "lifewithelliott"
+  - username: "danieladibfitness"
     fullname: >-
-      Elliott | Adventure + Travel Photographer †
+      Daniela Dib- DibFit ®
     bio: >-
-      Come travel the world with me 📸🗺 Let’s work together → hello@lifewithelliott.com 👇🏻 My eBooks, courses, presets, vlogs, & more! Next ✈️: Vancouver 🇨🇦
+      🚴🏽 Founder @dibfitcycle - 806 Homer Street, Vancouver- Fitness instructor ⏰ Book your bikes MONDAY at NOON 💪🏼 DibFit apparel available in the studio
     location: "Canada"
-    followers: 112572
-    engagement: 740
-    commentsToLikes: 0.020163
-    id: ck0w2tbypq2x10i19jh48i0fy
+    followers: 30471
+    engagement: 488
+    commentsToLikes: 0.208540
+    id: ck5zns6e5p1xk0i14t0t4wygf
     verified: false
-    hashtags: "#beautifuldestinations, #depthsofearth, #santorini, #hikingadventures"
-  - username: "love.from.steph"
+    hashtags: "#glow, #photography, #styled, #bride"
+  - username: "j.andhercrew"
     fullname: >-
-      Steph | Travel & Photography
+      Jerlyn
     bio: >-
-      ↠ Travel Blogger in Vancouver, BC ⩕ Sharing travel inspo and tips for Canada & US 💌 info@lovefromsteph.com ↡ Travel, Road Trips & Hiking Guides
+      ♡ Motherhood • Lifestyle • Adventures Vancouver, BC 🇨🇦 DM/email for collabs
     location: "Canada"
-    followers: 10264
-    engagement: 415
-    commentsToLikes: 0.180454
-    id: cky7uz2b5kbee0j23q93nqs2e
+    followers: 23352
+    engagement: 437
+    commentsToLikes: 0.503974
+    id: ck0u73zbi3ng00i19hwtcqpw2
     verified: false
-    hashtags: "#vancouvercanada, #vancouverviews, #thingstodoinvancouver, #beautifulbritishcolumbia"
-  - username: "siberian_reinhardt"
+    hashtags: "#joyfulmamas, #momlifeisthebestlife, #motherhoodrising, #mommylife"
+  - username: "foodierrachel"
     fullname: >-
-      𝐑𝐞𝐢𝐧𝐡𝐚𝐫𝐝𝐭 🧶
+      RACHEL ˙ᵕ˙♡ ྀིྀི
     bio: >-
-      ‣ Full-time travel cat ‣ Ft. @perseus_purrs & @alifeonpaws 📍Vancouver, BC 🇨🇦
+      life diaries • food • travel • yap 📍vancouver, bc 💌 foodierrachel@gmail.com
     location: "Canada"
-    followers: 383383
-    engagement: 841
-    commentsToLikes: 0.006631
-    id: ck0w6xg7maq0g0i19rzpeh0oc
+    followers: 37805
+    engagement: 1829
+    commentsToLikes: 0.018267
+    id: ck8sxvoc5iuf30j78wtopnze9
     verified: false
-    hashtags: "#canada, #cutepets, #travelblog, #travelcat"
-  - username: "yakeandmarie"
-    fullname: >-
-      JAKE & MARIE 🇨🇦
-    bio: >-
-      Photographers & travel bloggers from Vancouver, BC ↓ hiking, camping, & road-tripping tips 🏔 ↓ check out the blog & new reels yakeandmarie@gmail.com
-    location: "Canada"
-    followers: 50132
-    engagement: 383
-    commentsToLikes: 0.080729
-    id: ckpn0txlc3n1z0j231bpbkko6
-    verified: false
-    hashtags: "#hikingtheglobe, #luxurytravel, #tourcanada, #optoutside"
-  - username: "theoretically.teddy"
-    fullname: >-
-      Teddy
-    bio: >-
-      🌎🐾😾 The Grumpy Cat Explorer Cat friendly travel and adventures 📍Vancouver, BC 🇨🇦
-    location: "Canada"
-    followers: 65021
-    engagement: 264
-    commentsToLikes: 0.047200
-    id: ck1365v164w8e0i19d4uhfc8k
-    verified: false
-    hashtags: "#theoreticallyteddy, #cutecats, #adventurecats, #explore"
-  - username: "petitelittleseveryday"
-    fullname: >-
-      Melissa Philipchalk
-    bio: >-
-      Top 30 Vancouver Mom Blogger Mama of 4 sharing our adventures! Motherhood and everyday life. DM for collaborations Email petitelittles@gmail.com
-    location: "Canada"
-    followers: 10868
-    engagement: 109
-    commentsToLikes: 0.391781
-    id: ckmw1u11x8mpg0j23xikgaffc
-    verified: false
-    hashtags: "#shelfies, #cbxriflepaperco, #shelfieinspo, #autumndecor"
+    hashtags: "#igvancouver, #vancouverfoodie, #vancouverfood, #discovervancouver"
 ---

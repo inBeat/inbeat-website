@@ -1,11 +1,11 @@
 ---
-title: Top 10 TikTok Influencers In Austria In 2023
+title: Top 10 TikTok Influencers In Austria In 2024
 description: >-
-  Find top TikTok influencers in Austria in 2023. Most popular hashtags: #foryou #fy #fyp #foryoupage.
+  Find top TikTok influencers in Austria in 2024. Most popular hashtags: #foryou #fy #fyp #foryoupage.
 platform: TikTok
 hits: 652
-text_top: Identify the best TikTok accounts on inBeat.
-text_bottom: inBeat aggregates 652 TikTok influencers like this in Austria for you to work with.
+text_top: See the top-rated TikTok profiles on inBeat.
+text_bottom: inBeat has 652 TikTok influencers like this in Austria for you to pitch.
 profiles:
   - username: "paulawwolf"
     fullname: >-

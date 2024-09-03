@@ -1,11 +1,11 @@
 ---
-title: Top 10 Makeup TikTok Influencers In Colombia In 2023
+title: Top 10 Makeup TikTok Influencers In Colombia In 2024
 description: >-
-  Find top makeup TikTok influencers in Colombia in 2023. Most popular hashtags: #makeup #parati #fyp #foryou.
+  Find top makeup TikTok influencers in Colombia in 2024. Most popular hashtags: #makeup #parati #fyp #foryou.
 platform: TikTok
 hits: 65
-text_top: Discover the most popular TikTok influencers on inBeat.
-text_bottom: inBeat holds 65 TikTok influencers like this in Colombia for you to collaborate.
+text_top: See the best TikTok profiles on inBeat.
+text_bottom: inBeat has 65 TikTok influencers like this in Colombia for you to work with.
 profiles:
   - username: "makeupwandre"
     fullname: >-

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Craft Beer Instagram Influencers In 2023
+title: Top 10 Craft Beer Instagram Influencers In 2024
 description: >-
-  Find top craft beer Instagram influencers in 2023. Most popular hashtags: #beer #craftbeer #craftbeerlife #beerselfie.
+  Find top craft beer Instagram influencers in 2024. Most popular hashtags: #craftbeer #beerstagram #beer #beerlover.
 platform: Instagram
-hits: 602
-text_top: Analyze the top-rated Instagram profiles on inBeat.
-text_bottom: Our search engine has 602 Instagram influencers like this for you to connect with.
+hits: 684
+text_top: Identify the best Instagram influencers on inBeat.
+text_bottom: Our database has 684 Instagram influencers like this for you to collaborate.
 profiles:
-  - username: "loutese"
+  - username: "geeks_and_beer"
     fullname: >-
-      
+      Kacie Soler
     bio: >-
-      "loutese10" -10% na produkty SFD 🔥 💻 IT 🤟festivals 🍻 craft beers💃dance 🏋🏻 gym 💌 loutese.ig@gmail.com
-    location: "Poland"
-    followers: 4482
-    engagement: 3391
-    commentsToLikes: 0.100544
-    id: ckapbfnrdzr4p0i78wmi7g3sm
-    verified: false
-    hashtags: "#bestbirpiwo, #beertime, #bestbir, #smakowepiwo"
-  - username: "kara_bo_beer_a"
-    fullname: >-
-      
-    bio: >-
-      wιғey & мoм @kara_bo_uncut Canadian sweetheart 🍻Craft beer sipping 💉Tattoos 😻Professional cat snuggler
-    location: "Canada"
-    followers: 37553
-    engagement: 474
-    commentsToLikes: 0.107454
-    id: ck0u0o9emubo50i19pnxj8t1p
-    verified: false
-    hashtags: "#beergeek, #beerselfie, #ipagirl, #beergirl"
-  - username: "hoppy_face"
-    fullname: >-
-      Hoppy Face
-    bio: >-
-      🙋🏼‍♀️Katie 🎨+🍻Makeup looks inspired by craft beer labels 🍁New Hampshire 📩Collabs DM\Email
+      • Craft Beer Drinker • Star Wars Nerd • Collector • Theme Parks • Gamer • Multi Fandom Geek • Florida Travel ☀️ Orlando, Florida ☀️ ✨ @geeks_and_ears
     location: "United States"
-    followers: 6390
-    engagement: 1464
-    commentsToLikes: 0.059825
-    id: ck0w5kccv42f70i19yjzjwpo0
+    followers: 25656
+    engagement: 566
+    commentsToLikes: 0.027229
+    id: ckwnaxpfmqxit0j23dhrid01g
     verified: false
-    hashtags: "#makeupinspo, #craftbeerisalifestyle, #nyc, #craftbeerlover"
-  - username: "imabeer_ky"
-    fullname: >-
-      Kyla ~ Inspired By Beer
-    bio: >-
-      🏖 San Diego Living ❤️ Craft Beer Lover 🍻 👣 Follow all my adventures @_ky_on_life 🍻 Tavour Code: KYLA 21+ to follow
-    location: "United States"
-    followers: 15121
-    engagement: 1139
-    commentsToLikes: 0.033936
-    id: ck139numdm8t30i1927xnvtcg
-    verified: false
-    hashtags: "#beerlover, #girlswithbeer, #beerporn, #craftbeerlife"
-  - username: "sheknowsbeer"
-    fullname: >-
-      I’m Ava.
-    bio: >-
-      🌲 Portland, Oregon 🍺 20 yr craft beer love 🧢 Founder @skbbrand 💙 Board @withloveoregon
-    location: "United States"
-    followers: 9118
-    engagement: 700
-    commentsToLikes: 0.083870
-    id: ck5zq28wjtsqh0i14kkc1k5zm
-    verified: false
-    hashtags: "#goodpeopledrinkgoodbeer, #craftbeersnob, #allthebeer, #orbeer"
+    hashtags: "#beerbabes, #drinkingdisney, #drinkingaroundtheworldepcot, #craftbeer"
   - username: "the__hoptimist"
     fullname: >-
-      Alice~Hoptimistic beer reviews
+      Alice I Craft beer photos and reviews
     bio: >-
-      Sharing joy and hoptimisim through craft beer. Don't worry, beer happy 😁🍺🇦🇺
+      Follow my beerventures to share in some joy and hoptimisim through craft beer. Don't worry, beer happy 😁🍺🇦🇺
     location: "Australia"
-    followers: 6870
-    engagement: 730
-    commentsToLikes: 0.105681
+    followers: 9654
+    engagement: 446
+    commentsToLikes: 0.044378
     id: ck13azbcxsx7f0i19s7si204x
     verified: false
-    hashtags: "#beerchicksaustralia, #bathbeer"
-  - username: "a.girl.rates.beer"
+    hashtags: "#craftbeer, #beerchicksaustralia, #beer, #dinnerinspo"
+  - username: "beertasting_worldwide"
     fullname: >-
-      Beck | Wisconsin Beer & Travel
+      Beertasting_Worldwide
     bio: >-
-      Wisconsin blogger and creator #chicago #michigan #wisconsin beers are my specialty Craft Beer 🍻| Cicerone® CBS | Travel ✈️ 📍Madison, WI
-    location: "United States"
-    followers: 30299
-    engagement: 427
-    commentsToLikes: 0.052480
-    id: ck0vuvhgemckw0i191mmefl9k
+      🧔🏻36 Steven 🇩🇪Wuppertal, Germany 🍻Craftbeer 🍻Open for every Beer 📬Daily Posts Taggt mich: #beertasting_worldwide DM für Kooperationen & Anfragen
+    location: "Germany"
+    followers: 8591
+    engagement: 564
+    commentsToLikes: 0.227159
+    id: clioorzinixww0j08zznne32s
     verified: false
-    hashtags: "#screaminforthinandcrispy, #screaminsicilian, #walmart, #personapack"
-  - username: "ladyofthehops"
+    hashtags: "#craftbeer, #bierspezialit, #danishbeer, #ipa"
+  - username: "the_real_beer_vixen"
     fullname: >-
-      ʟᴀᴅʏᴏғᴛʜᴇʜᴏᴘs » ʙᴇᴇʀ & ᴛʀᴀᴠᴇʟ
+      The Real Beer Vixen
     bio: >-
-      sᴀᴠ • ɴʏ • ʙᴀʀᴛᴇɴᴅᴇʀ • ᴘʙs • ᴄɪᴄᴇʀᴏɴᴇ ᶜʳᵃᶠᵗ ᵇᵉᵉʳ ᵃⁿᵈ ᵇᵒᵒᶻᵉ ᵃⁿᵈ ᵗʰⁱⁿᵍˢ
+      Miami living 🏝 UF educated 🐊 Craft beer crazy 😝 602 breweries visited 🍻 It’s not alcoholism, it’s a hobby! 💕 Certified Beer Server 🍺 Buy me a beer 😊
     location: "United States"
-    followers: 23241
-    engagement: 1033
-    commentsToLikes: 0.042799
-    id: ckf5rh7t5cnjd0j23v0u3valg
+    followers: 14246
+    engagement: 450
+    commentsToLikes: 0.086304
+    id: ckaoswn07tcpl0i78g8d58ca6
     verified: false
-    hashtags: "#sundress, #miami, #floridabeer, #selfie"
-  - username: "theartofbeers"
+    hashtags: "#summer, #summervibes, #beerandbikinis, #tbt"
+  - username: "ablondewithabrew"
     fullname: >-
-      𝐀𝐦𝐚𝐧𝐝𝐚 | 𝐁𝐞𝐞𝐫𝐬 & 𝐓𝐡𝐢𝐧𝐠𝐬
+      Kate | Craft Beer & Travel 🍺 ✈️
     bio: >-
-      🌵Made in Texas🌵 🍺Craft Beer Connoiseur🍺 🍻Untappd - theartofbeers1🍻
+      Showing you the best #craftbeer in the PNW and beyond ✈️ Always planning my next trip and beer 💻 Beer travel guides 📍PDX 📧 ablondewithabrew@gmail.com
     location: "United States"
-    followers: 19651
-    engagement: 611
-    commentsToLikes: 0.031427
-    id: ck9wex15xm89o0j78t57pg506
+    followers: 9387
+    engagement: 376
+    commentsToLikes: 0.174345
+    id: ckwd00z3plx910j23erepdvli
     verified: false
-    hashtags: "#drinklocal, #socialdistancing, #beer, #craftbeerbabe"
-  - username: "girlfermented"
+    hashtags: "#craftbeer, #beergirls, #portlandbeer, #drinkthorntail"
+  - username: "craftguysi"
     fullname: >-
-      Girl, Fermented
+      simon shearer
     bio: >-
-      🙋🏽‍♀️: Horrific introvert with crushing anxiety 📍: Mid Atlantic | She/Her/Siya 🍻: Seeking the best of high gravity craft beer UNTAPPD: GirlFermented
+      Just a guy who loves craft beer, Photography, films I take the best pictures I can. And give my honest review of them. Also known as stout king 😄😄
     location: "United States"
-    followers: 5644
-    engagement: 792
-    commentsToLikes: 0.148798
-    id: ck6u43j5x1h6a0j71scn0uflj
+    followers: 11872
+    engagement: 376
+    commentsToLikes: 0.016724
+    id: ckf5wa1zxrd4h0j23kirmff90
     verified: false
-    hashtags: ""
+    hashtags: "#usacraftbeer, #hopbomb, #sourfruitedbeer, #fruitbeer"
+  - username: "inkdmomkpg"
+    fullname: >-
+      inkdmomkpg
+    bio: >-
+      O’ahu HI 📍🏝️🇵🇭 Ink • Craft Beer • Food • Wife • Mom 🍻🍒🍑 #hawaiibeer #mombodproud @inkdmomkpg_backup_official
+    location: "United States"
+    followers: 119817
+    engagement: 248
+    commentsToLikes: 0.038038
+    id: ck0w1ieibji2o0i19lcxi4fwb
+    verified: false
+    hashtags: "#supportlocal, #craftbeerbabe, #babesandbeers, #granitebay"
+  - username: "maltymaiden"
+    fullname: >-
+      H E A T H E R
+    bio: >-
+      ➵ The Original MALTY MAIDEN 🍻🧿🍄 ➵ Craft Beer Addict w/ a Fashion Lifestyle * Wife * Mama * Reggae * Camping * CycleBar 📧 heather@maltymaiden.com
+    location: "United States"
+    followers: 30590
+    engagement: 238
+    commentsToLikes: 0.032987
+    id: ck5zr6mglw0890i14z5axnkzo
+    verified: false
+    hashtags: "#doubleipa, #florida, #explorepage, #beergirl"
+  - username: "yoshdee"
+    fullname: >-
+      Denadooda
+    bio: >-
+      Retro video games, PS4, Switch, pins, socks, craft beer, and cats. 🐱🎮🍺🍕 🧦 Level 42 👵🏼 Sock/pin collector
+    location: "United States"
+    followers: 9316
+    engagement: 196
+    commentsToLikes: 0.042336
+    id: ck0vxgn4jystl0i19nifko3br
+    verified: false
+    hashtags: "#nintendo, #colostomy, #nerdlife, #stoma"
+  - username: "beerventurers"
+    fullname: >-
+      beerventurers
+    bio: >-
+      melissa & andrew, craft beer & cat enthusiasts 😻 nj based, 946 breweries visited 🌎📌 @theblackandwhitecatcrew for quality cat content
+    location: "United States"
+    followers: 16737
+    engagement: 171
+    commentsToLikes: 0.036096
+    id: ckwnaxq8kqy300j23qjhotzw5
+    verified: false
+    hashtags: "#instabeer, #beermeme, #beerstagram, #supportlocal"
 ---

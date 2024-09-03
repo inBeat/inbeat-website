@@ -1,12 +1,24 @@
 ---
-title: Top 10 Mothers Instagram Influencers In South Korea In 2023
+title: Top 10 Mothers Instagram Influencers In South Korea In 2024
 description: >-
-  Find top mothers Instagram influencers in South Korea in 2023. Most popular hashtags: #ootd #korean #christmas.
+  Find top mothers Instagram influencers in South Korea in 2024. Most popular hashtags: #mothersday #mother #beauty.
 platform: Instagram
-hits: 32
-text_top: Discover the top-rated Instagram influencers on inBeat.
-text_bottom: Our database has 32 Instagram influencers like this in South Korea for you to collaborate.
+hits: 33
+text_top: Analyze the best Instagram profiles on inBeat.
+text_bottom: inBeat aggregates 33 Instagram influencers like this in South Korea for you to work with.
 profiles:
+  - username: "annagetscozy"
+    fullname: >-
+      Annabelle Wang
+    bio: >-
+      hope, humor, tips, and reality of motherhood raising 2 miracles ✨👧🏻👶🏻 co-founder @cozywarriororg @northstarjt @eatshrimpdaddy @junbimatcha
+    location: "South Korea"
+    followers: 112752
+    engagement: 96
+    commentsToLikes: 0.155634
+    id: ck5c5sg3u42fw0i11u150zldw
+    verified: false
+    hashtags: "#patpat, #patpatpartner, #skylightcalendarpartner, #familyorganization"
   - username: "lovelypeachesmusic100"
     fullname: >-
       Peaches 💖
@@ -18,19 +30,19 @@ profiles:
     commentsToLikes: 0.044890
     id: ck6tohfo7e3rl0j7118qz1deg
     verified: true
-    hashtags: "#yousobad, #whitebugs, #13inch, #oooodaddy"
+    hashtags: "#peachlings, #yousobad, #whitebugs, #13inch"
   - username: "stephanie_molyneaux"
     fullname: >-
       S T E P H ☼
     bio: >-
-      » motherhood • lifestyle • travel » I I MMXV » mama to noémie » corporate m&a attorney » korean-american » miami | d.c.
+      » motherhood • lifestyle • travel » I I MMXV » mama to noémie » korean-american » corporate m&a attorney » miami | d.c.
     location: "South Korea"
-    followers: 5892
-    engagement: 622
-    commentsToLikes: 0.105638
+    followers: 5705
+    engagement: 466
+    commentsToLikes: 0.082655
     id: ck8t0zdh7tw9s0j78xccucuha
     verified: false
-    hashtags: "#dirtybootsmessyhair, #smpweddings, #stylemepretty, #theknot"
+    hashtags: "#dirtybootsmessyhair, #stylemepretty, #theknot, #smpweddings"
   - username: "dasomhahn"
     fullname: >-
       Dasom Han
@@ -55,76 +67,64 @@ profiles:
     id: ck0uax6cbdcr00i19dwmcntsv
     verified: true
     hashtags: "#singer, #etmovie, #mothersday, #mother"
-  - username: "adventuresof_solynoah"
+  - username: "leojmakeup"
     fullname: >-
-      Sol y Noah
+      메이크업 아티스트 레오제이
     bio: >-
-      Adventure seeking, outdoor exploring, nature loving siblings. Currently exploring South Korea. Sibling OOTD~Reels SOL & NOAH are 🇰🇷 🇺🇸 🇬🇹
+      🔥NEW VIDEO🔥
     location: "South Korea"
-    followers: 7984
-    engagement: 685
-    commentsToLikes: 0.137320
-    id: ck6u6ehumf4u10j71c8olyd7v
-    verified: false
-    hashtags: "#momentsinmotherhood, #capturingmoments, #mihija, #misolecito"
-  - username: "thizisdan"
+    followers: 449028
+    engagement: 625
+    commentsToLikes: 0.013151
+    id: ck15s48avb5650i192u45306r
+    verified: true
+    hashtags: "#sphere, #hbd, #mother, #leoj"
+  - username: "jaesukkim"
     fullname: >-
-      강희웅(Danny Kang)🇰🇷
+      Illustrating Susu Girls
     bio: >-
-      Life in Korea @frost_latte @koreangrocerymen
+      SEOUL/SINGAPORE/SYDNEY-BASED FASHION ILLUSTRATOR, CONTENT & ART DIRECTOR - In 🇰🇷 📧: jskillustration@gmail.com
     location: "South Korea"
-    followers: 86804
-    engagement: 324
-    commentsToLikes: 0.040807
-    id: ck136b2hy5mou0i194l0uq5kw
-    verified: false
-    hashtags: "#lifeinkorea, #korealife, #thizisdanhouse, #thiziskorea"
-  - username: "hehejihee"
+    followers: 355418
+    engagement: 360
+    commentsToLikes: 0.018258
+    id: ck0tyw94xobs50i199wiue7gl
+    verified: true
+    hashtags: "#fashionillustrated, #beauty, #fashionillustration, #susugirls"
+  - username: "thekubism"
     fullname: >-
-      Julie Hwang
+      Kübra Khan
     bio: >-
-      Kiwi Korean in Dubai ✨ NEW SKINCARE VIDEO⬇️
+      Managed by : @mintcommpk __________________________________________ Art 🎨| KPOP 🇰🇷 | GamerGirl 🎮|My Soul is in Seoul 🤓 | 🇵🇰🇬🇧
     location: "South Korea"
-    followers: 56787
-    engagement: 522
-    commentsToLikes: 0.012792
-    id: ckaozhqm2lxud0i78ep1u8e99
-    verified: false
-    hashtags: "#serenity, #fashion, #ootd, #travel"
-  - username: "solars_fiance"
+    followers: 3152357
+    engagement: 197
+    commentsToLikes: 0.030533
+    id: ck55owv6v9al30i114coje8dt
+    verified: true
+    hashtags: "#fatimajinnahseries, #pakistan, #hairforthenewera, #tresxlsa"
+  - username: "yesung1106"
     fullname: >-
-      Solar’s Fiance
+      Yesung
     bio: >-
-      MAMAMOO FAN ACCOUNT! Admins: [SF] & [JZY] Let’s gogo, bebe! 🇰🇷♥️🏳️‍🌈 (Cred to respective owners) FOLLOW @solarkeem STREAM AYA 👇
+      🎵
     location: "South Korea"
-    followers: 11306
-    engagement: 1094
-    commentsToLikes: 0.012327
-    id: ck0tuw7038y2x0i19x514ny70
-    verified: false
-    hashtags: "#mamamoowheein, #mamammoohwasa, #hipmamamoo, #moonbyulmamamoo"
-  - username: "blazian_amazon"
+    followers: 6538938
+    engagement: 195
+    commentsToLikes: 0.012206
+    id: ck134wwcjyl5p0i19a4z6s2qz
+    verified: true
+    hashtags: "#unfading, #elf, #floral, #mother"
+  - username: "dr.zionko"
     fullname: >-
-      박경희 Keong-Hee
+      Zion Ko Lamm
     bio: >-
-      Korean, Black & Native American 안녕하세요 O'-Si-Yo' #jetlife #FlightAttendant #FlyGirl #youcantcatchme #Engaged💍💎 #LeiLanisMom
+      👩🏻‍⚕️𝔹𝕠𝕒𝕣𝕕-𝕔𝕖𝕣𝕥𝕚𝕗𝕚𝕖𝕕 𝕀𝕟𝕥𝕖𝕣𝕟𝕒𝕝 𝕄𝕖𝕕𝕚𝕔𝕚𝕟𝕖 🇰🇷<Korean> 𝐒𝐤𝐢𝐧𝐜𝐚𝐫𝐞 x Holistic Wellness x Gut health 📚Featured @vogue @shape @allure ✨ @zionkolamm
     location: "South Korea"
-    followers: 3130
-    engagement: 981
-    commentsToLikes: 0.091682
-    id: ck5c9eytybbae0i112zdu6e7s
+    followers: 640507
+    engagement: 74
+    commentsToLikes: 0.043371
+    id: cl5m5m9dyart10i238p8gsnai
     verified: false
-    hashtags: "#curlyhair, #korean, #melaninpoppin, #hanguksaram"
-  - username: "healthyfoodmakesyoufeelgood"
-    fullname: >-
-      Foodblog Sin
-    bio: >-
-      🤱 Mommy 🌱 Tea lover 🛫 Globetrotter 🍉 World cuisine foodie 🇰🇷 Korean-Belgian blogger 🇧🇪 🏠 Flanders, Belgium
-    location: "South Korea"
-    followers: 3796
-    engagement: 879
-    commentsToLikes: 0.402066
-    id: ck5ho75oap27p0i118v7gt28f
-    verified: false
-    hashtags: "#collab, #gezondeten, #vegan, #foodfotografie"
+    hashtags: "#koreanskincareroutine, #aginggracefully, #skincareroutine, #koreanskincare"
 ---

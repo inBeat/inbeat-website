@@ -1,11 +1,11 @@
 ---
-title: Top 10 Vegan Instagram Influencers In Hamburg In 2023
+title: Top 10 Vegan Instagram Influencers In Hamburg In 2024
 description: >-
-  Find top vegan Instagram influencers in Hamburg in 2023. Most popular hashtags: #vegan #hamburg #veganerezepte #vegandeutschland.
+  Find top vegan Instagram influencers in Hamburg in 2024. Most popular hashtags: #hamburg #vegan #blogger #berlin.
 platform: Instagram
-hits: 61
-text_top: Analyze the best Instagram profiles on inBeat.
-text_bottom: Our platform aggregates 61 Instagram influencers like this in Hamburg, Germany for you to contact.
+hits: 78
+text_top: Identify the most popular Instagram influencers on inBeat.
+text_bottom: Our platform has 78 Instagram influencers like this in Hamburg, Germany for you to contact.
 profiles:
   - username: "anna.elisie"
     fullname: >-
@@ -19,42 +19,30 @@ profiles:
     id: ckf5w4n7mqtzj0j23j6wa6chq
     verified: false
     hashtags: "#vegangermany, #veganfr, #veganvanlife, #wanderlust"
-  - username: "zweidiereisen"
+  - username: "thisisyules"
     fullname: >-
-      zweidiereisen
+      Yules 🤍 food, fits & travel
     bio: >-
-      REISEN / NACHHALTIGKEIT / REZEPTE @lisanovelle & @max_bundaberg ✉️hello@zweidiereisen.de 📖Autoren „Mit Fairgnügen reisen“
+      viel unterwegs. kommst du mit? 💌 Anfragen an hello@yulesy.de ⬇️ Impressum & mehr
     location: "Germany"
-    followers: 89809
-    engagement: 224
-    commentsToLikes: 0.037940
-    id: ck0u15vhivzl00i19fwhxyekh
+    followers: 216828
+    engagement: 344
+    commentsToLikes: 0.005713
+    id: clto0xmvfnmj90k084cksj21n
     verified: false
-    hashtags: "#reisen, #nachhaltigreisen, #besserweiter, #weltkulturerbev"
-  - username: "sorayas_world"
+    hashtags: "#geheimtipp, #tomorrowland, #behindthescenes, #festivalseason"
+  - username: "lydia_geldmacher"
     fullname: >-
-      ⋆ S O R A Y A ⋆
+      Lydia Geldmacher 👩🏼‍💼🏡🛋️ Immobilien / Hamburg
     bio: >-
-      Grateful sunshine soul & yoga teacher✨ Be You. #empowering Testing Vegan Goodies for you 🌱 Hamburg•Mindfulness•Sustainability info@sorayas-world.com
+      Geschäftsführerin 👩🏼‍💻 Haus und Grund GmbH / CEO 👩🏼‍💼 www.finest-art-of-living.com
     location: "Germany"
-    followers: 20495
-    engagement: 252
-    commentsToLikes: 0.040892
-    id: ck6tjjauw2twd0j71s4eikzgm
+    followers: 70068
+    engagement: 208
+    commentsToLikes: 0.014944
+    id: ck5q89ksj53cl0i11mejyhikb
     verified: false
-    hashtags: "#hamburgvoodguide, #hamburgveganfood, #yogapassion, #veganfoodhamburg"
-  - username: "pflanzlich.stark"
-    fullname: >-
-      pflanzlich.stark 🌱💪
-    bio: >-
-      Dein täglicher Input rund um den veganen Lebensstil 📬
-    location: "Germany"
-    followers: 143820
-    engagement: 622
-    commentsToLikes: 0.020731
-    id: ck6u35jz8vucl0j714cafwws4
-    verified: false
-    hashtags: "#gesunderezepte, #pflanzlicheerna, #pflanzenbasiert, #veganleben"
+    hashtags: "#wellness, #esseninhamburg, #interiordesigner, #skylastag"
   - username: "vegantaeglich"
     fullname: >-
       Täglich Fakten für Veganer
@@ -67,18 +55,18 @@ profiles:
     id: ckapadhv0vo430i78llehnvtg
     verified: false
     hashtags: "#veganbacken, #veganvienna, #veganer, #obst"
-  - username: "gymooni"
+  - username: "francialexa"
     fullname: >-
-      Mona |Ernährung&Mindset Coach
+      Franci•Vegan Einstieg•Rezepte
     bio: >-
-      #TEAMROCKA 💚 Ich helfe Frauen dabei, sich langfristig wohlzufühlen ohne strikte Ernährungspläne.🌱 👇🏼 Mein Coaching👇🏼 ✨It all starts WITHIN you✨
+      🌈 Lebensfreude • Nachhaltigkeit • Gesundheit 🌿 Tipps zum veganen Lebensstil 🔜 Vegane Ernährungsberaterin 💌 hello@francialexa.de 🎥YT: Franci Alexa
     location: "Germany"
-    followers: 30394
-    engagement: 164
-    commentsToLikes: 0.159948
-    id: ck6tidu6b0j1w0j71hb7ho7tl
+    followers: 11302
+    engagement: 393
+    commentsToLikes: 0.048263
+    id: ck600od6vdykz0i140dwlox4b
     verified: false
-    hashtags: "#muskelaufbau, #selbstliebelernen, #fettreduzieren, #wohlf"
+    hashtags: "#veganinhamburg, #veganeinstieg, #veganeinkaufen, #hamburgvegan"
   - username: "charlykrueger"
     fullname: >-
       𝙲 𝙷 𝙰 𝚁 𝙻 𝚈
@@ -90,7 +78,7 @@ profiles:
     commentsToLikes: 0.044787
     id: ckap32vta1bmu0i78smcvpfpi
     verified: false
-    hashtags: "#portrait, #blackandwhite, #shooting, #germany"
+    hashtags: "#hamburg, #portrait, #germany, #shooting"
   - username: "katyyys_welt"
     fullname: >-
       ☆KaTi☆
@@ -103,28 +91,40 @@ profiles:
     id: ck6ugqe2m4jm10j71o5phvvtd
     verified: false
     hashtags: "#onlinebusiness, #blogger, #glaubandich, #erfolgistkeingl"
-  - username: "rikexx"
+  - username: "leonieloh_"
     fullname: >-
-      Rikexx
+      Leonie Lohkamp
     bio: >-
-      040 - Erzieherin 📸 Photography-Liebhaberin 🥑 Pfänzle eat-lov-er Mails: Maria.Friederike.Kopper@gmail.com Second account: @rikexx.photography 📷
+      FASHION/ BEAUTY/ LIFESTYLE ▫️modern, classy & feminin fashion ▫️luxury hotels & travel ▫️📩leonie-lohkamp@t-online.de ▫️❤️🐴❤️🐕 ▫️Volljuristin ▫️NRW
     location: "Germany"
-    followers: 27205
-    engagement: 391
-    commentsToLikes: 0.010216
-    id: ck134saf3xydb0i19cur0td6m
+    followers: 55666
+    engagement: 378
+    commentsToLikes: 0.017545
+    id: ck6u1c5t6kv2j0j71bb2corza
     verified: false
-    hashtags: "#inspiration, #croatia, #girlswithtattoos, #beach"
-  - username: "adriaan.vanveen"
+    hashtags: "#over40cosplay, #casuallook, #dailylook, #over40"
+  - username: "larilara_blog"
     fullname: >-
-      ADRIAAN VAN VEEN
+      Isa
     bio: >-
-      🎭 #Schauspieler 🌱 #Vegan 🏌️ #Golf 🤸🏼 #Fitness 🖤 #Techno 📌 #Hannover 🇩🇪🇳🇱 🎬 Agentur @agentur.frehse 📰 PR @newstarmediamuc
+      📍#Hamburg 🌎 #Reisen 🔜 #ITB #München #Dachstein #Salzburg #Warnemünde #Bayern ✏️ selbst. PR-Beraterin 👨‍👩‍👧‍👧 #Familie + 😺😺 💌 #Koop. isa@larilara.de
     location: "Germany"
-    followers: 18483
-    engagement: 93
-    commentsToLikes: 0.028050
-    id: ck8syv0u3m47i0j7850l8c3el
+    followers: 16443
+    engagement: 341
+    commentsToLikes: 0.083193
+    id: clq9hy4vp6bzp0k084px4ngtd
     verified: false
-    hashtags: "#onset, #pixxlounge, #schauspieler, #zdf"
+    hashtags: "#schwanger, #vegan, #mamaleben, #reiseblogger"
+  - username: "miss.puschinella"
+    fullname: >-
+      𝐒𝐭𝐞𝐟𝐟𝐢 • 𝐁𝐞𝐚𝐮𝐭𝐲 | 𝐋𝐢𝐟𝐞𝐬𝐭𝐲𝐥𝐞 | 𝐅𝐨𝐨𝐝 | 𝐅𝐚𝐬𝐡𝐢𝐨𝐧
+    bio: >-
+      📍Ostfriesland 🐑 Content Creator 💌 for collabs: steffis_testwelt@yahoo.com @shape_republic 15% miss.puschinella @manifix.official 25% miss.puschinella
+    location: "Germany"
+    followers: 23739
+    engagement: 333
+    commentsToLikes: 0.034628
+    id: clmugd0v0kpim0j08u3c4ho5v
+    verified: false
+    hashtags: "#style, #blogger, #ootd, #unbezahlt"
 ---

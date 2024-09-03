@@ -1,130 +1,130 @@
 ---
-title: Top 10 Health Instagram Influencers In Indonesia In 2023
+title: Top 10 Health Instagram Influencers In Indonesia In 2024
 description: >-
-  Find top health Instagram influencers in Indonesia in 2023. Most popular hashtags: #bali #summervibes #ootdwithnuabee.
+  Find top health Instagram influencers in Indonesia in 2024. Most popular hashtags: #ootd #family #healthylifestyle.
 platform: Instagram
-hits: 672
-text_top: Discover the top-rated Instagram accounts on inBeat.
-text_bottom: Our database holds 672 Instagram influencers like this in Indonesia for you to work with.
+hits: 675
+text_top: See the most popular Instagram profiles on inBeat.
+text_bottom: Our database holds 675 Instagram influencers like this in Indonesia for you to work with.
 profiles:
-  - username: "nathaniec"
+  - username: "chitrachef"
     fullname: >-
-      Nathanie Christy Krisno, S.Psi
+      Chef Chitra
     bio: >-
-      Makeup , Fashion, Mental Health 🌜🎨 📖 🧘🏼‍♀️🪴 🎞 🌛 Business Inq. 081212922217 (Egi) 🌷@pastelova
+      Holistic Chef Food is Medicine Health Enthusiast Vegan & Gluten Free Recipe YouTube : Chef Chitra
     location: "Indonesia"
-    followers: 111820
-    engagement: 41
-    commentsToLikes: 0.012701
-    id: ck5q0p3zd72810i114v7ffdta
-    verified: false
-    hashtags: "#sipalingbestie, #auteentic, #iamnona, #rawatdiritanpaabaikanbumi"
-  - username: "tengkudewiputri_tdp"
-    fullname: >-
-      TengkuDewiPutri
-    bio: >-
-      Motherhood ,Who's into healthy Lifestyle, Beach Lover BA of @purebaby.id CP ⬇️ Endorsement : 085218311214 WA (Nadya) TV : 081318447677 (Ricco)
-    location: "Indonesia"
-    followers: 889274
-    engagement: 31
-    commentsToLikes: 0.006833
-    id: ck6tqy43vvf8j0j71qil04a1i
+    followers: 100802
+    engagement: 672
+    commentsToLikes: 0.039764
+    id: ck6txw6om07gq0j71zn03ugly
     verified: true
-    hashtags: "#kreasijawaranyachalenge, #poleworkout, #bali, #baliphotographer"
-  - username: "fannytjandra"
+    hashtags: "#podcast, #thespiceguy, #healthyfood, #woman"
+  - username: "chaidirakbar"
     fullname: >-
-      FANNY TJANDRA | USANA MEDAN
+      Chaidir | Sports Life
     bio: >-
-      HEALTH SOLDIER in SUCCESS INTERNATIONAL TEAM INDONESIA BA of @ragel_official | @lecaissya.official Owner of @allurehouse_beauty @madam_rich_kitchen
+      🔅For healthier & happier Indonesia 🎯 Chicago Marathon 🔅 🏃🏽 🚴🏻 private consultation 👇🏻 more stories
     location: "Indonesia"
-    followers: 18440
-    engagement: 107
-    commentsToLikes: 0.045887
-    id: ckf5rlxmod5a20j23r1xcuikz
+    followers: 37402
+    engagement: 526
+    commentsToLikes: 0.044130
+    id: ck5q87wml4v050i11fumfjqpi
     verified: false
-    hashtags: "#keharitsaaja, #go8oppoexperiencestore, #antarisca, #givencyone"
-  - username: "rirymh"
+    hashtags: "#flyhumanfly, #garminid, #anyonecantri, #herbaliferun2024"
+  - username: "drshafira"
     fullname: >-
-      𝓡𝓲𝓻𝔂
+      dr. Shafira Ninditya Aulia, MARS
     bio: >-
-      @healthyy4u 💪🏻 @qa.management__
+      #ShafiraShares 🇮🇩24/7 mother & wife, work-life rhythm kind of person, med doctor, health speaker/educator, hospital digital marketer, LPDP Awardee ‘21
     location: "Indonesia"
-    followers: 8284
-    engagement: 993
-    commentsToLikes: 0.096668
-    id: ck9wh7o6jwmva0j7896swjwcv
+    followers: 64944
+    engagement: 12776
+    commentsToLikes: 0.008491
+    id: ckaovfx1m4gcq0i78q8y7bypc
     verified: false
-    hashtags: "#borntobestrongwomen, #sehatdirumah, #supportlocalbrand, #nuabee"
-  - username: "ikasanz"
+    hashtags: "#lebaranalakami, #yuksekolahlagi, #december17th, #artjakarta"
+  - username: "dithapurwana"
     fullname: >-
-      Ikasanz Yoe ♠️
+      Ditha
     bio: >-
-      ●》INFLUENCER《● [ Fitness Enthusiast , Beauty & Healthy Lifestyle ] ENDORSE // COLLABS DM 💌 https://affiliate.shopee.co.id/ 📍 BALI 🥥🌴
+      Family| Beauty| Health| Traveling 🍃 Mom of 4 Boys 👦 @ranggana.purwana Wife 💍 For Business Enquiries chat 📱 +62 858-7726-1134 ( KeKe )
     location: "Indonesia"
-    followers: 53312
-    engagement: 224
-    commentsToLikes: 0.142564
-    id: ck9wgk1f5trp10j78o2ldtyun
+    followers: 132763
+    engagement: 772
+    commentsToLikes: 0.007871
+    id: ck5q5u5seulq90i11eqquwqoi
     verified: false
-    hashtags: "#balivibes, #fitnessmom, #styleblogger, #balibible"
-  - username: "aemillin"
+    hashtags: "#family, #weekend, #familytime, #weekendvibes"
+  - username: "katenotcate"
     fullname: >-
-      Amalia
+      Kate Hendley, NBC-HWC, INHC
     bio: >-
-      Health&fitness coach with medical education MS of synchronised swimming Take care of u with me @am.healthyclub Life @krohotnaya 📸 @am.pmood No TFP
+      : national board certified health & wellness coach : founder @wellspringbykate 🌿 : a ~realistic~ pov on nutrition, health, ed recovery & lifestyle 💕
     location: "Indonesia"
-    followers: 281772
-    engagement: 707
-    commentsToLikes: 0.008193
-    id: ck5zpi25rsply0i14fklhuoee
+    followers: 2925
+    engagement: 1041
+    commentsToLikes: 0.047237
+    id: clnno1oxn21bz0j08pz5ao4xx
     verified: false
-    hashtags: ""
-  - username: "kamalh24"
+    hashtags: "#mindbodyspirit, #fitnessjourney, #wellness, #balanceiskey"
+  - username: "putubahagiana"
     fullname: >-
-      Kamal hafid
+      I Putu Bahagiana
     bio: >-
-      Food Business @pisangkampret 🍌 ☎ Medi 081280287722 (PM) 📍JAKARTA 🇮🇩 My GYM @kamal.health EMAIL afidkamal24@gmail.com
+      BA @toko_bintangofficial @lantih.id @lantihslim @healthyweight.official @keis.indonesia @operacreative.studio CP : @putupuspaoffice ❤️ @hallopuspa_
     location: "Indonesia"
-    followers: 28049
-    engagement: 521
-    commentsToLikes: 0.031069
-    id: ck6u0ru3ahejt0j71q2wakpei
+    followers: 1094334
+    engagement: 294
+    commentsToLikes: 0.010889
+    id: ck8t0div2rpe40j78jpay7h05
     verified: false
-    hashtags: "#myth, #avengers, #pstore, #football"
-  - username: "drg_oktrimanessa"
+    hashtags: "#sahabatterbaikgadgetkamu, #putupuspa, #reels, #goodbless"
+  - username: "rinaldi_ni"
     fullname: >-
-      drg. Oktri Manessa
+      apt. Rinaldi Nur Ibrahim
     bio: >-
-      Founder of @omdc_official Group Our Brands : OMDC Healthcare, OMDC Dental Clinic, OMDC Kidz, OMDC Shop, OMDC Kitchen, OktriSyariefFoundation
+      Edu,Bisnis,Health,Finance Pendiri @youthranger.id @youtzmedia @bijakobat.id @drugcampaign.id @beasiswarinaldi Kerjasama/ info👇🏻
     location: "Indonesia"
-    followers: 80330
-    engagement: 208
-    commentsToLikes: 0.032048
-    id: ck6u7p8edmv180j717dto3xx1
+    followers: 762671
+    engagement: 294
+    commentsToLikes: 0.015369
+    id: ck5zxv7yw8pzj0i148wymkbmb
     verified: false
-    hashtags: "#thehistoryoftotooktri, #muhammadhabibiesyarief, #mubie, #drgoktrishares"
-  - username: "yessiangg"
+    hashtags: "#anakrantau, #rinaldinuribrahim, #selfimprovement, #selfgrowth"
+  - username: "viankacalista"
     fullname: >-
-      Aku sih Yess..
+      Ravianka Calista
     bio: >-
-      Welcome to 'Crazy City of Jakartans' "MENTAL HEALTH SUFFERERS 0%" 📩 Open PP & Endorsement 🎮 PUBG ID : 551753341 🌈 @inayatullahichsan . Mutualan⤵️
+      MC | SPEAKERS | BEAUTY | HEALTHY 🎓 S.KG. MARS 👑 ᴅᴜᴛᴀ ᴘᴇᴅᴜʟɪ ᴋᴇsᴇʜᴀᴛᴀɴ ᴊɪᴡᴀ 𝟸𝟶𝟸𝟷 @calistaflorist.id @calistadecor @viankabeauty.id 💌 ʙᴜsɪɴᴇss "ᴇᴍᴀɪʟ"
     location: "Indonesia"
-    followers: 89423
-    engagement: 310
-    commentsToLikes: 0.019840
-    id: ck9wopjvg623m0j78b2hfffcp
+    followers: 419725
+    engagement: 282
+    commentsToLikes: 0.012246
+    id: ck8t0dergroxv0j78kyu0ki98
     verified: false
-    hashtags: "#guepersija"
-  - username: "szheerose"
+    hashtags: "#sahabatpegadaian, #garudamendunia, #validnodebat, #wahblewahmewahseries"
+  - username: "paul_cassidy_real"
     fullname: >-
-      
+      Nikolas Levicky
     bio: >-
-      Humanitarian, gym, healthy lifestyle enthusiast & 90% plant-based @loveontheweekend_ @saturn.us____ @menjadiindonesiapintar CP: @talithacasimira
+      My other name is blondiepaul 😜 Traveling, fitness, health 🦁
     location: "Indonesia"
-    followers: 75899
-    engagement: 37
-    commentsToLikes: 0.080509
-    id: ck5hcmh60iu6j0i11cjg9fa18
-    verified: true
-    hashtags: "#timberland, #resepmpasi, #idempasi, #babyfood"
+    followers: 766935
+    engagement: 161
+    commentsToLikes: 0.014345
+    id: ck6uihgm3f40i0j71dq3kknlt
+    verified: false
+    hashtags: "#collabweek"
+  - username: "havenl33"
+    fullname: >-
+      Drg. Indira W. Lee, Sp.Prostho
+    bio: >-
+      Mom of 2 & Wifey💍 Dentistpreneur Health & Beauty 📍Malang @dreamteam_quiaripartners Shop @heavenlee_shop Gym #heavenleeworkout 📩DM for endorsement
+    location: "Indonesia"
+    followers: 30239
+    engagement: 233
+    commentsToLikes: 0.075482
+    id: ck5hpr18rrtrv0i11e8n62faa
+    verified: false
+    hashtags: "#chic, #lifestyle, #styles, #fashion"
 ---

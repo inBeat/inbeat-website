@@ -1,11 +1,11 @@
 ---
-title: Top 10 Architecture TikTok Influencers In United Kingdom In 2023
+title: Top 10 Architecture TikTok Influencers In United Kingdom In 2024
 description: >-
-  Find top architecture TikTok influencers in United Kingdom in 2023. Most popular hashtags: #architecture #fyp #london #foryoupage.
+  Find top architecture TikTok influencers in United Kingdom in 2024. Most popular hashtags: #architecture #london #fyp #foryoupage.
 platform: TikTok
 hits: 24
-text_top: Analyze the best TikTok influencers on inBeat.
-text_bottom: inBeat aggregates 24 TikTok influencers like this in United Kingdom for you to work with.
+text_top: Analyze the top-rated TikTok profiles on inBeat.
+text_bottom: inBeat aggregates 24 TikTok influencers like this in United Kingdom for you to contact.
 profiles:
   - username: "rionwillard"
     fullname: >-
@@ -78,7 +78,7 @@ profiles:
     commentsToLikes: 0.030075
     id: ck8orfaocc25y0j78ljldwpto
     verified: false
-    hashtags: "#pencildrawing, #art, #pencil, #architecture"
+    hashtags: "#illustration, #architecture, #fineart, #pencil"
   - username: "livia_tov"
     fullname: >-
       Livia Tov
@@ -90,7 +90,7 @@ profiles:
     commentsToLikes: 0.032725
     id: ckav0ek1c65dl0j236qmsuxr6
     verified: false
-    hashtags: "#babymama, #parentsoftiktok, #tovfamily, #ad"
+    hashtags: "#tovfam, #babymama, #parentsoftiktok, #ad"
   - username: "frieda_as"
     fullname: >-
       facts/info idk
@@ -109,12 +109,12 @@ profiles:
     bio: >-
       ✨17, Cambs✨ Thanks for 5K!
     location: "United Kingdom"
-    followers: 5809
-    engagement: 1949
-    commentsToLikes: 0.015835
+    followers: 5787
+    engagement: 1940
+    commentsToLikes: 0.015211
     id: ckcp8c6h3dvey0j23fkmjxyjh
     verified: false
-    hashtags: "#gcse2020, #foryoupage, #language, #bi"
+    hashtags: "#russia, #relatable, #gcses, #gcse2020"
   - username: "erocdog"
     fullname: >-
       erocdog
@@ -122,9 +122,9 @@ profiles:
       Eric, aka EROC. Male Dog Skateboarding Love Monster erocdog™️ BoardwallSupply.co
     location: "United Kingdom"
     followers: 1200000
-    engagement: 1318
-    commentsToLikes: 0.013701
+    engagement: 1085
+    commentsToLikes: 0.012282
     id: ck81t2k9quzof0j78y5gvv01h
     verified: false
-    hashtags: "#skate, #london, #love, #erocdog"
+    hashtags: "#skate, #dog, #respair, #love"
 ---

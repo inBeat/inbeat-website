@@ -1,11 +1,11 @@
 ---
-title: Top 10 Gaming TikTok Influencers In Germany In 2023
+title: Top 10 Gaming TikTok Influencers In Germany In 2024
 description: >-
-  Find top gaming TikTok influencers in Germany in 2023. Most popular hashtags: #gaming #viral #fyp #fun.
+  Find top gaming TikTok influencers in Germany in 2024. Most popular hashtags: #gaming #fun #viral #fyp.
 platform: TikTok
 hits: 166
-text_top: Analyze the best TikTok profiles on inBeat.
-text_bottom: inBeat aggregates 166 TikTok influencers like this in Germany for you to connect with.
+text_top: Discover the top-rated TikTok influencers on inBeat.
+text_bottom: inBeat aggregates 166 TikTok influencers like this in Germany for you to work with.
 profiles:
   - username: "lyonbro"
     fullname: >-

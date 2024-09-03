@@ -1,11 +1,11 @@
 ---
-title: Top 10 Graphic-Designers Instagram Influencers In Argentina In 2023
+title: Top 10 Graphic-Designers Instagram Influencers In Argentina In 2024
 description: >-
-  Find top graphic-designers Instagram influencers in Argentina in 2023. Most popular hashtags: #art #artist #arte.
+  Find top graphic-designers Instagram influencers in Argentina in 2024. Most popular hashtags: #art #arte #artist.
 platform: Instagram
-hits: 19
-text_top: Discover the best Instagram accounts on inBeat.
-text_bottom: Our platform aggregates 19 Instagram influencers like this in Argentina for you to collaborate.
+hits: 35
+text_top: Identify the most popular Instagram influencers on inBeat.
+text_bottom: Our platform aggregates 35 Instagram influencers like this in Argentina for you to pitch.
 profiles:
   - username: "csbotti"
     fullname: >-
@@ -43,18 +43,6 @@ profiles:
     id: ck0vvj6ytpdnb0i19wicgli6i
     verified: false
     hashtags: "#totalblack, #hoscos, #gallitociego, #mirrorselfie"
-  - username: "stephbarbudo"
-    fullname: >-
-      Stephania Barbudo
-    bio: >-
-      Fashion & graphic designer Vup 📍 🇨🇴 𝐌𝐨𝐧 𝐩𝐞𝐭𝐢𝐭 𝐥𝐚𝐩𝐢𝐧🐰
-    location: "Argentina"
-    followers: 88438
-    engagement: 1949
-    commentsToLikes: 0.004307
-    id: ck5qd84houa8d0i11lzdawnrr
-    verified: false
-    hashtags: ""
   - username: "catcybul"
     fullname: >-
       Venezuelan @ Chicago📍
@@ -127,4 +115,16 @@ profiles:
     id: ck8sx5i3sg87m0j7864248dhz
     verified: false
     hashtags: "#disen, #dissenygrafic, #inspiration, #disseny"
+  - username: "krayolaplanet"
+    fullname: >-
+      ⚡️🖍KRAYOLA PLANET🖍⚡️
+    bio: >-
+      VE🇻🇪 | COL 🇨🇴 Illustrator/Graphic Designer. Director Creativo en @highbeatsrecords_ 🎬
+    location: "Argentina"
+    followers: 16327
+    engagement: 217
+    commentsToLikes: 0.094506
+    id: ck5butdc4iep20i11wf2oh91s
+    verified: false
+    hashtags: "#dise, #cartoon, #guaracha, #digitalartist"
 ---

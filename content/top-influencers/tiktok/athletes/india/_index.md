@@ -1,11 +1,11 @@
 ---
-title: Top 10 Athletes TikTok Influencers In India In 2023
+title: Top 10 Athletes TikTok Influencers In India In 2024
 description: >-
-  Find top athletes TikTok influencers in India in 2023. Most popular hashtags: #foryoupage #tiktok #viral #swagstepchallenge.
+  Find top athletes TikTok influencers in India in 2024. Most popular hashtags: #foryoupage #tiktok #viral #swagstepchallenge.
 platform: TikTok
 hits: 110
-text_top: Discover the best TikTok accounts on inBeat.
-text_bottom: inBeat aggregates 110 TikTok influencers like this in India for you to work with.
+text_top: Identify the top-rated TikTok profiles on inBeat.
+text_bottom: Our search engine holds 110 TikTok influencers like this in India for you to pitch.
 profiles:
   - username: "vikashkandola16"
     fullname: >-

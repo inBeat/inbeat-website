@@ -1,11 +1,11 @@
 ---
-title: Top 10 Dancers TikTok Influencers In United States In 2023
+title: Top 10 Dancers TikTok Influencers In United States In 2024
 description: >-
-  Find top dancers TikTok influencers in United States in 2023. Most popular hashtags: #duet #fyp #foryou.
+  Find top dancers TikTok influencers in United States in 2024. Most popular hashtags: #duet #fyp #foryou #dancer.
 platform: TikTok
-hits: 2005
-text_top: Identify the most popular TikTok profiles on inBeat.
-text_bottom: inBeat has 2005 TikTok influencers like this in United States for you to contact.
+hits: 2019
+text_top: See the best TikTok profiles on inBeat.
+text_bottom: inBeat has 2019 TikTok influencers like this in United States for you to connect with.
 profiles:
   - username: "_mad__madz_"
     fullname: >-
@@ -61,12 +61,12 @@ profiles:
     bio: >-
       Creator | Dancer | Communicator
     location: "United States"
-    followers: 13600
-    engagement: 1988
-    commentsToLikes: 0.118940
+    followers: 14000
+    engagement: 1894
+    commentsToLikes: 0.152966
     id: ck8p1gau2laoa0j787nvo2dve
     verified: false
-    hashtags: "#fyp, #christian, #makejesusviral, #wifey"
+    hashtags: "#stitch, #jesuscansaveus, #jesusstuff, #jesuscontent22"
   - username: "nitinsonkamble2"
     fullname: >-
       dancer sonu

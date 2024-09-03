@@ -1,11 +1,11 @@
 ---
-title: Top 10 Makeup Instagram Influencers In Tokyo In 2023
+title: Top 10 Makeup Instagram Influencers In Tokyo In 2024
 description: >-
-  Find top makeup Instagram influencers in Tokyo in 2023. Most popular hashtags: #makeup #ootd #tokyo.
+  Find top makeup Instagram influencers in Tokyo in 2024. Most popular hashtags: #tokyo #ootd #makeup #japan.
 platform: Instagram
-hits: 83
-text_top: Analyze the best Instagram profiles on inBeat.
-text_bottom: Our database aggregates 83 Instagram influencers like this in Tokyo, Japan for you to contact.
+hits: 97
+text_top: See the most popular Instagram influencers on inBeat.
+text_bottom: Our platform has 97 Instagram influencers like this in Tokyo, Japan for you to connect with.
 profiles:
   - username: "kagomika"
     fullname: >-
@@ -55,6 +55,18 @@ profiles:
     id: ck5cb54wfer570i118vhylzb5
     verified: false
     hashtags: ""
+  - username: "anshindoyle"
+    fullname: >-
+      Anshin Doyle 💗 M a r i a  G
+    bio: >-
+      📍Tokyo, Japan 🇯🇵 YouTube [+233K] 🍡 Pop culture, lifestyle and travel 🍣 🌸 Podcast “Dramas y Sakuras” 💌 hello@anshindoyle.jp
+    location: "Japan"
+    followers: 68589
+    engagement: 279
+    commentsToLikes: 0.028468
+    id: ckap1l7qov0r00i78pimzwh0n
+    verified: false
+    hashtags: "#kawaii, #makeup, #comidajaponesa, #tokio"
   - username: "poohdisney_love"
     fullname: >-
       プーさん大好き くぼこ🎨
@@ -67,6 +79,18 @@ profiles:
     id: ck6011bejenys0i14niltfvgc
     verified: false
     hashtags: "#disney, #portrait, #picture, #winniethepooh"
+  - username: "sophadophaa_"
+    fullname: >-
+      SOPH 🎀🌷🍵✨🎧
+    bio: >-
+      It’s Sophia not Sophie Founder @allformimi_ 📧 management@sophadopha.com
+    location: "Japan"
+    followers: 575693
+    engagement: 70
+    commentsToLikes: 0.001556
+    id: cloqu0n10gs260j08sqbwvkzt
+    verified: false
+    hashtags: "#ootd, #kyoto, #transition, #tokyo"
   - username: "sayaninja"
     fullname: >-
       sayaninja
@@ -79,6 +103,18 @@ profiles:
     id: ck6ttgta0ajb30j71ockrzuym
     verified: false
     hashtags: "#makeup, #awich, #igotaboomboom, #katyperry"
+  - username: "milez728"
+    fullname: >-
+      青山舞莉　MILEY AOYAMA
+    bio: >-
+      tokyo & traveling travel fashion makeup waseda お仕事 info@qualiam.com 🇯🇵🇮🇩🇸🇬🇺🇸 @mile_official__ 月1海外旅行に行く人
+    location: "Japan"
+    followers: 45914
+    engagement: 430
+    commentsToLikes: 0.001633
+    id: ck8t7wy4ti8x70j78cxqlaynx
+    verified: false
+    hashtags: "#pr, #lovebonito, #gu, #murua"
   - username: "lemipanna"
     fullname: >-
       れみぱん
@@ -91,40 +127,4 @@ profiles:
     id: ck0vw638zs9vm0i197ktp2vez
     verified: false
     hashtags: "#tokyodisneyland, #japanesegirl, #ootd, #disney"
-  - username: "rikariko_official"
-    fullname: >-
-      りかりこ
-    bio: >-
-      Sony Music Artists 🇯🇵twinsmodel／creator 💻TikTok・YouTube 👧🏻りか @ichirika_62 りこ @riko_ichino ✉️sma@sma.co.jp
-    location: "Japan"
-    followers: 77159
-    engagement: 435
-    commentsToLikes: 0.004500
-    id: ck13cipn10jky0i19009tudzj
-    verified: true
-    hashtags: "#abematv, #fashion, #japan, #me"
-  - username: "anna_mysticeyes"
-    fullname: >-
-      🐾Anna🐾
-    bio: >-
-      🇯🇵×🇷🇺 Gunma→Tokyo ⚪︎2000.1.31 ライブ情報やお知らせなどなど
-    location: "Japan"
-    followers: 47612
-    engagement: 693
-    commentsToLikes: 0.009911
-    id: ck9hctq2wmxo20j78zoxqqbqz
-    verified: true
-    hashtags: "#202020, #anna, #21, #girlfriend"
-  - username: "yuriko_model"
-    fullname: >-
-      エレオノーラ “𝘌𝘭𝘦𝘰𝘯𝘰𝘳𝘢”
-    bio: >-
-      イタリア出身モデルとタレント(160位) 撮影とお仕事のご依頼はDMまでお願い致します。（有償です） 中身: @yurikotiger パンクロックが好き。 Italian Model based in Tokyo. CMやイベントなどTWINPLANETまでご連絡下さい。
-    location: "Japan"
-    followers: 19905
-    engagement: 1632
-    commentsToLikes: 0.007159
-    id: ck5hn0twemzrv0i11lt0j3c9j
-    verified: false
-    hashtags: "#rocknroll, #alternativemodel, #rockband, #aestheticoutfit"
 ---

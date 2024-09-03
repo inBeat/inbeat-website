@@ -1,11 +1,11 @@
 ---
-title: Top 10 Beauty TikTok Influencers In Switzerland In 2023
+title: Top 10 Beauty TikTok Influencers In Switzerland In 2024
 description: >-
-  Find top beauty TikTok influencers in Switzerland in 2023. Most popular hashtags: #beauty #foryou #switzerland #fyp.
+  Find top beauty TikTok influencers in Switzerland in 2024. Most popular hashtags: #foryou #fyp #beauty #funny.
 platform: TikTok
-hits: 70
-text_top: Discover the best TikTok accounts on inBeat.
-text_bottom: Our platform holds 70 TikTok influencers like this in Switzerland for you to connect with.
+hits: 73
+text_top: Identify the most popular TikTok influencers on inBeat.
+text_bottom: Our platform holds 73 TikTok influencers like this in Switzerland for you to pitch.
 profiles:
   - username: "mb_inspo"
     fullname: >-
@@ -25,12 +25,12 @@ profiles:
     bio: >-
       Inspiration Reisen
     location: "Switzerland"
-    followers: 2350
-    engagement: 511
-    commentsToLikes: 0.084580
+    followers: 2333
+    engagement: 507
+    commentsToLikes: 0.082576
     id: ckachn2qvzzqo0i78anv2e4e2
     verified: false
-    hashtags: "#thailand, #unterhalteuns, #imbored, #schweiz"
+    hashtags: "#deutschland, #blondgirl, #love, #beautymode"
   - username: "dabrowskaworld"
     fullname: >-
       Dabrowskaworld
@@ -67,18 +67,6 @@ profiles:
     id: ckacklngjc0qk0i78y5cjmqyr
     verified: false
     hashtags: "#fashion, #funny, #couples, #fashiontiktok"
-  - username: "martacastro7"
-    fullname: >-
-      Marta Castro
-    bio: >-
-      🎵🎥✨
-    location: "Switzerland"
-    followers: 2391
-    engagement: 637
-    commentsToLikes: 0.051314
-    id: ckb9pefg4k9ys0j23s62ro45p
-    verified: false
-    hashtags: "#sky, #trend, #acoustic, #songcover"
   - username: "couple.rn"
     fullname: >-
       couple.rn
@@ -127,4 +115,16 @@ profiles:
     id: ck8opwo2g51vy0j78vg0978jg
     verified: false
     hashtags: "#faneilishedit, #billieeilishfan, #bae, #badguy"
+  - username: "suchaprettylie"
+    fullname: >-
+      Kim 🐉
+    bio: >-
+      J’aurai pu être une meuf drôle mais ligaments croisés tu connais 🤡 96k babies ✨
+    location: "Switzerland"
+    followers: 95200
+    engagement: 1553
+    commentsToLikes: 0.016340
+    id: ck8nfkdw2sa4o0j78yeb2h2g6
+    verified: false
+    hashtags: "#harrypotter, #french, #swiss, #fyp"
 ---

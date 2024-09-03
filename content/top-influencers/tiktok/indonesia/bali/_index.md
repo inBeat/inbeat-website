@@ -1,11 +1,11 @@
 ---
-title: Top 10 TikTok Influencers In Bali In 2023
+title: Top 10 TikTok Influencers In Bali In 2024
 description: >-
-  Find top TikTok influencers in Bali in 2023. Most popular hashtags: #fyp #stitch #viral.
+  Find top TikTok influencers in Bali in 2024. Most popular hashtags: #fyp #stitch #viral.
 platform: TikTok
 hits: 100
-text_top: Discover the most popular TikTok influencers on inBeat.
-text_bottom: Our platform aggregates 100 TikTok influencers like this in Bali, Indonesia for you to contact.
+text_top: See the best TikTok influencers on inBeat.
+text_bottom: Our database has 100 TikTok influencers like this in Bali, Indonesia for you to work with.
 profiles:
   - username: "qnoy26official_"
     fullname: >-
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.084258
     id: ckbkn6hu4h5xa0j230hjalzs7
     verified: false
-    hashtags: "#indonesiafyp, #luxuryhotelsandresorts, #fypindo2021, #jakartatiktok"
+    hashtags: "#baliindonesia, #fypindo2021, #luxuryhotel, #luxuryhotelsandresorts"
   - username: "tyoragil1904"
     fullname: >-
       Tyo Ragil🇮🇩
@@ -102,7 +102,7 @@ profiles:
     commentsToLikes: 0.006859
     id: ckc1u5vjzydwb0j23n9nf4pcw
     verified: true
-    hashtags: "#trending, #kojiesanindonesia, #skincareindonesia, #racunskincare"
+    hashtags: "#ilmupediatryoutakbar, #kojiesanindonesia, #skincareindonesia, #viral"
   - username: "diinaariistya"
     fullname: >-
       Ga Pernah FYP!

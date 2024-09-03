@@ -1,11 +1,11 @@
 ---
-title: Top 10 Makeup TikTok Influencers In Canada In 2023
+title: Top 10 Makeup TikTok Influencers In Canada In 2024
 description: >-
-  Find top makeup TikTok influencers in Canada in 2023. Most popular hashtags: #fyp #duet #foryou #makeup.
+  Find top makeup TikTok influencers in Canada in 2024. Most popular hashtags: #fyp #duet #foryou #makeup.
 platform: TikTok
-hits: 780
-text_top: See the most popular TikTok accounts on inBeat.
-text_bottom: Our platform has 780 TikTok influencers like this in Canada for you to contact.
+hits: 775
+text_top: See the most popular TikTok profiles on inBeat.
+text_bottom: Our database has 775 TikTok influencers like this in Canada for you to connect with.
 profiles:
   - username: "adaelizabethh"
     fullname: >-
@@ -43,18 +43,6 @@ profiles:
     id: ckamrt9uon6wt0i78xaompuaz
     verified: false
     hashtags: "#marvel, #share, #catnoir, #mua"
-  - username: "thereal_marnie"
-    fullname: >-
-      Marnie Tyler James
-    bio: >-
-      💍 Mom of adult kids🇨🇦 lip sync ⭐️comedy⭐️CEO of makeup duet fails💋#fivefoot3
-    location: "Canada"
-    followers: 18100
-    engagement: 2557
-    commentsToLikes: 0.705503
-    id: ckcp61qlucz0h0j23ikzudlo0
-    verified: false
-    hashtags: "#momsoftiktok, #duet, #momofadults, #lifewithkids"
   - username: "official_lady_venom"
     fullname: >-
       Makeup . Skincare . Film
@@ -67,18 +55,30 @@ profiles:
     id: ckaif1syquu4c0i780gawybk4
     verified: false
     hashtags: "#fyp, #laughoftheday, #makeup, #alberta"
+  - username: "thereal_marnie"
+    fullname: >-
+      Marnie Tyler James
+    bio: >-
+      💍 Mom of adult kids🇨🇦 lip sync ⭐️comedy⭐️CEO of makeup duet fails💋#fivefoot3
+    location: "Canada"
+    followers: 55900
+    engagement: 1937
+    commentsToLikes: 0.511869
+    id: ckcp61qlucz0h0j23ikzudlo0
+    verified: false
+    hashtags: "#siblingcheck, #momlife, #lifewithkids, #momcontent"
   - username: "shadowshimmer"
     fullname: >-
       Shannon Donnelly
     bio: >-
-      Makeup artist, mama, wifey, 🇨🇦 IG - @shadowshimmershannon
+      Makeup artist, mama, actor/singer, wifey, 🇨🇦 IG - @shadowshimmershannon
     location: "Canada"
-    followers: 13500
-    engagement: 1263
-    commentsToLikes: 0.116115
+    followers: 14400
+    engagement: 1207
+    commentsToLikes: 0.158928
     id: ckcvibh39vbnh0j23atar29zi
     verified: false
-    hashtags: "#curlygirls, #isthisavailable, #fromthistothis, #curlyhairgirl"
+    hashtags: "#tiktokcanadacreates, #stpatricksday, #curlygirls, #gingers"
   - username: "j9homiemakeup"
     fullname: >-
       Celebrity Makeup & Hair Artist
@@ -90,7 +90,7 @@ profiles:
     commentsToLikes: 0.042520
     id: ckb9053ckfx1u0j23bnaax1ni
     verified: false
-    hashtags: "#skincareroutine, #canadianmakeupartist, #sephorasale2021, #promakeupartist"
+    hashtags: "#skincareroutine, #sephorasale2021, #canadianmakeupartist, #promakeupartist"
   - username: "olena_a"
     fullname: >-
       Olena.A

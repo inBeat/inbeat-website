@@ -1,11 +1,11 @@
 ---
-title: Top 10 Boxers Instagram Influencers In Brazil In 2023
+title: Top 10 Boxers Instagram Influencers In Brazil In 2024
 description: >-
-  Find top boxers Instagram influencers in Brazil in 2023. Most popular hashtags: #clubinhodosboxers #photooftheday #pets #puppy.
+  Find top boxers Instagram influencers in Brazil in 2024. Most popular hashtags: #photooftheday #clubinhodosboxers #pets #puppy.
 platform: Instagram
 hits: 43
-text_top: Analyze the most popular Instagram accounts on inBeat.
-text_bottom: Our database aggregates 43 Instagram influencers like this in Brazil for you to pitch.
+text_top: Analyze the most popular Instagram influencers on inBeat.
+text_bottom: Our search engine holds 43 Instagram influencers like this in Brazil for you to pitch.
 profiles:
   - username: "danielbzk_"
     fullname: >-

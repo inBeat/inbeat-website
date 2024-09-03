@@ -1,11 +1,11 @@
 ---
-title: Top 10 Photographers Instagram Influencers In Istanbul In 2023
+title: Top 10 Photographers Instagram Influencers In Istanbul In 2024
 description: >-
-  Find top photographers Instagram influencers in Istanbul in 2023. Most popular hashtags: #istanbul #sunset #turkey.
+  Find top photographers Instagram influencers in Istanbul in 2024. Most popular hashtags: #istanbul #sunset #turkey.
 platform: Instagram
-hits: 261
-text_top: See the top-rated Instagram influencers on inBeat.
-text_bottom: inBeat aggregates 261 Instagram influencers like this in Istanbul, Turkey for you to collaborate.
+hits: 268
+text_top: See the most popular Instagram profiles on inBeat.
+text_bottom: Our database has 268 Instagram influencers like this in Istanbul, Turkey for you to work with.
 profiles:
   - username: "ugurdemir"
     fullname: >-
@@ -13,12 +13,12 @@ profiles:
     bio: >-
       Wedding Photographer ISTANBUL📍
     location: "Turkey"
-    followers: 59892
-    engagement: 947
-    commentsToLikes: 0.020507
+    followers: 57930
+    engagement: 1001
+    commentsToLikes: 0.024936
     id: ck139uhyxn6cj0i19r349dcfa
     verified: false
-    hashtags: "#zoom, #stayhome, #evdekal"
+    hashtags: ""
   - username: "abdullahshhn"
     fullname: >-
       Abdullah Şahin
@@ -115,16 +115,16 @@ profiles:
     id: ck1365bqb4tm30i19jpjgd3s2
     verified: false
     hashtags: "#photographers, #istanbul, #tu, #allshotsturkey"
-  - username: "aozturk.photo"
+  - username: "ihsanmenkuphotography"
     fullname: >-
-      Photographer. Istanbul,Turkey.
+      İhsan Menkü
     bio: >-
-      💃🏼ALSU OZTURK 🏆TOP-10 photographers Turkey according to @35awards 2019. Portrait, kids, mathernity. 📩DM, ozturkalsu@gmail.com
+      2019 YILI EN İYİ ÖDÜLLÜ FOTOGRAF SANATCISI 🏆 Ekip Markamiz: @dugunhatiram Gelinlik markamız: @glamourgelinlik Kuaför: @umitkusur Whatsapp 👇
     location: "Turkey"
-    followers: 8636
-    engagement: 521
-    commentsToLikes: 0.071938
-    id: ck5hp6tq8quoc0i11wfexq2r2
+    followers: 27838
+    engagement: 128
+    commentsToLikes: 0.000939
+    id: ckap5q9s4cpb60i78al2s7p8n
     verified: false
     hashtags: ""
 ---

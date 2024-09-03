@@ -1,11 +1,11 @@
 ---
-title: Top 10 Boxers Instagram Influencers In Indonesia In 2023
+title: Top 10 Boxers Instagram Influencers In Indonesia In 2024
 description: >-
-  Find top boxers Instagram influencers in Indonesia in 2023. Most popular hashtags: #repost #videoviral #beutikcompany #bobotoh.
+  Find top boxers Instagram influencers in Indonesia in 2024. Most popular hashtags: #repost #videoviral #beutikcompany #regrann.
 platform: Instagram
-hits: 8
-text_top: Discover the best Instagram accounts on inBeat.
-text_bottom: Our database aggregates 8 Instagram influencers like this in Indonesia for you to pitch.
+hits: 9
+text_top: Discover the most popular Instagram profiles on inBeat.
+text_bottom: Our search engine has 9 Instagram influencers like this in Indonesia for you to pitch.
 profiles:
   - username: "boxer.bo.od"
     fullname: >-
@@ -19,6 +19,18 @@ profiles:
     id: ckaoym5svi2c80i78rqwr1kti
     verified: false
     hashtags: ""
+  - username: "alfonzheng"
+    fullname: >-
+      Alfon Zheng アルフォン
+    bio: >-
+      💪🏻 Certified Fitness Trainer 📷 🎥 @alfonphotographie & @kalyanastudio 🐹 @boyoon_caviary 🐾 @sachishiba_jakarta Business inquiries : @ricoomodels
+    location: "Indonesia"
+    followers: 16147
+    engagement: 1204
+    commentsToLikes: 0.040048
+    id: ck9whb0ajx3m10j78zg0ij2qr
+    verified: false
+    hashtags: "#tricep, #hot, #vacation, #swimmingpool"
   - username: "jaymes.r"
     fullname: >-
       Jaymes R

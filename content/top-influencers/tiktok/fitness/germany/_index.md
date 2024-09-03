@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fitness TikTok Influencers In Germany In 2023
+title: Top 10 Fitness TikTok Influencers In Germany In 2024
 description: >-
-  Find top fitness TikTok influencers in Germany in 2023. Most popular hashtags: #fitness #fyp #foryou #fy.
+  Find top fitness TikTok influencers in Germany in 2024. Most popular hashtags: #fitness #fyp #foryou #fy.
 platform: TikTok
 hits: 177
-text_top: Discover the most popular TikTok influencers on inBeat.
-text_bottom: Our database has 177 TikTok influencers like this in Germany for you to work with.
+text_top: Identify the top-rated TikTok influencers on inBeat.
+text_bottom: inBeat holds 177 TikTok influencers like this in Germany for you to contact.
 profiles:
   - username: "anabelundmaria"
     fullname: >-
@@ -102,7 +102,7 @@ profiles:
     commentsToLikes: 0.006927
     id: ckbl1blv7y73g0j230qffq4lg
     verified: false
-    hashtags: "#babybelly, #training, #fun, #gymwear"
+    hashtags: "#pregnancy, #babybelly, #gymshark, #mumtobe"
   - username: "pamela_rf"
     fullname: >-
       Pamela Reif

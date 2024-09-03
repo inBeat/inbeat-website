@@ -1,12 +1,24 @@
 ---
-title: Top 10 Boxers TikTok Influencers In Canada In 2023
+title: Top 10 Boxers TikTok Influencers In Canada In 2024
 description: >-
-  Find top boxers TikTok influencers in Canada in 2023. Most popular hashtags: #fyp #boxer #boxing #greenscreen.
+  Find top boxers TikTok influencers in Canada in 2024. Most popular hashtags: #fyp #boxer #boxing #foryou.
 platform: TikTok
-hits: 25
-text_top: Discover the most popular TikTok accounts on inBeat.
-text_bottom: Our platform has 25 TikTok influencers like this in Canada for you to contact.
+hits: 26
+text_top: Identify the best TikTok accounts on inBeat.
+text_bottom: Our platform has 26 TikTok influencers like this in Canada for you to pitch.
 profiles:
+  - username: "packmentality"
+    fullname: >-
+      Magnum The Boxer And Friends
+    bio: >-
+      Veterinary assistant, mother of dawgs. And that f*cking cat. 🙄
+    location: "Canada"
+    followers: 104500
+    engagement: 1905
+    commentsToLikes: 0.073067
+    id: ck9ndea2fcrcw0j78rm7en8pu
+    verified: false
+    hashtags: "#lilratchetkitty, #boxer, #magnumtheboxer, #fyp"
   - username: "viralpanther"
     fullname: >-
       VIRAL PANTHER
@@ -18,7 +30,7 @@ profiles:
     commentsToLikes: 0.205731
     id: ck9go0nkyz0cr0j78k2wdx93f
     verified: false
-    hashtags: "#tysonfury, #miketyson, #blmmovement, #love"
+    hashtags: "#boxingquotes, #love, #punch, #knockout"
   - username: "thenameismichael"
     fullname: >-
       Michael
@@ -43,18 +55,6 @@ profiles:
     id: ck7zo26abh3oh0j7860h3oyla
     verified: false
     hashtags: "#foryoupage, #drill, #training, #boxer"
-  - username: "packmentality"
-    fullname: >-
-      Nik
-    bio: >-
-      @glitterandgore vet assistant, bathbomb maker, mother of dawgs. And cat. 🙄
-    location: "Canada"
-    followers: 69700
-    engagement: 2257
-    commentsToLikes: 0.091450
-    id: ck9ndea2fcrcw0j78rm7en8pu
-    verified: false
-    hashtags: "#valentinesday, #fyp, #horrormovie, #colddays"
   - username: "itzmurdy"
     fullname: >-
       🥵 itzmurdy 🥵
@@ -78,7 +78,7 @@ profiles:
     commentsToLikes: 0.097172
     id: ck8fa3bf441rx0j78adfpygp8
     verified: false
-    hashtags: "#frenchielife, #frenchiesoftiktok, #frenchbulldogsoftiktok, #over40"
+    hashtags: "#teachersoftiktok, #frenchielove, #frenchielife, #over40"
   - username: "golden.gunn3r"
     fullname: >-
       Bomber 🖤 gunner 💀
@@ -103,28 +103,28 @@ profiles:
     id: ckbf3gqhzr6r30j23ucq7s1o4
     verified: false
     hashtags: "#2020wrapped, #messytiktok, #greenscreen, #duet"
-  - username: "mahabellaaa"
+  - username: "ashleybutt17"
     fullname: >-
-      maha
+      Ashley Butt
     bio: >-
-      🇨🇦🌈✨ Toronto • actor • she/they • 21 BBMAHABELLA for 10% off inkbox.com
+      Mama 💝🧒🏼 Wifey💍 Oilfield worker 👷🏻 Canadian 🇨🇦
     location: "Canada"
-    followers: 62600
-    engagement: 1477
-    commentsToLikes: 0.023684
-    id: ck94gbm4uf44v0j78ba8s1tuv
+    followers: 6990
+    engagement: 816
+    commentsToLikes: 0.061224
+    id: ckcp7hn7udkgh0j23e2k5rwhu
     verified: false
-    hashtags: "#greenscreen, #inkbox, #fyp, #lgbtq"
-  - username: "racheim29"
+    hashtags: "#foryoupage, #toddlertok, #duet, #foryou"
+  - username: "sarapuglas"
     fullname: >-
-      Rachel
+      Sara Puglas
     bio: >-
-      🇨🇦❤️ @rachelmannering
+      
     location: "Canada"
-    followers: 2629
-    engagement: 572
-    commentsToLikes: 0.039800
-    id: ckaclzm8mhpj00i78j347p7td
+    followers: 8619
+    engagement: 1454
+    commentsToLikes: 0.043906
+    id: ckbf2sj6uq2gc0j23ynrb7x8p
     verified: false
-    hashtags: "#albumlookalike, #funny, #foryou, #tiktokcanada"
+    hashtags: "#drunk, #foryou, #nativefyp, #stitch"
 ---

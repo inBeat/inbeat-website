@@ -1,130 +1,118 @@
 ---
-title: Top 10 Graphic-Designers Instagram Influencers In Colombia in 2023
+title: Top 10 Graphic-Designers Instagram Influencers In Colombia In 2024
 description: >-
-  Find top graphic-designers Instagram influencers in Colombia in 2023. Most popular hashtags: #illustration #procreate #graphicdesign #design.
+  Find top graphic-designers Instagram influencers in Colombia in 2024. Most popular hashtags: #illustration #bogota #love #fashion.
 platform: Instagram
-hits: 10
-text_top: Identify the most popular Instagram profiles on inBeat.
-text_bottom: inBeat has 10 Instagram influencers like this in Colombia for you to pitch.
+hits: 9
+text_top: Identify the most popular Instagram accounts on inBeat.
+text_bottom: inBeat aggregates 9 Instagram influencers like this in Colombia for you to connect with.
 profiles:
+  - username: "nubikini"
+    fullname: >-
+      Nubia Navarro
+    bio: >-
+      ✶ Graphic designer | Lettering artist ✦ requests: hellonubikini@gmail.com Learn with me 👇🏼
+    location: "Colombia"
+    followers: 54673
+    engagement: 51
+    commentsToLikes: 0.006839
+    id: ck6u1b817kpa20j71hjpjzvh3
+    verified: false
+    hashtags: "#36days, #3ddesign, #cinema4d, #36daysoftype"
   - username: "branorozcom"
     fullname: >-
       Bran Orozco Muñoz
     bio: >-
       • Lifestyle | Graphic Designer • Fotos con iPhone 11 • Ciénaga - Bogotá - Colombia
     location: "Colombia"
-    followers: 16649
-    engagement: 459
-    commentsToLikes: 0.100064
+    followers: 16573
+    engagement: 335
+    commentsToLikes: 0.078741
     id: ck15ux3olox5w0i19y3al30ix
     verified: false
-    hashtags: "#hilton, #santamartaiscrazy, #travel, #colombia"
-  - username: "stephbarbudo"
-    fullname: >-
-      Stephania Barbudo
-    bio: >-
-      Fashion & graphic designer Bog-Vup 📍 🇨🇴 𝐌𝐨𝐧 𝐩𝐞𝐭𝐢𝐭 𝐥𝐚𝐩𝐢𝐧🐰
-    location: "Colombia"
-    followers: 45611
-    engagement: 2103
-    commentsToLikes: 0.007187
-    id: ck5qd84houa8d0i11lzdawnrr
-    verified: false
-    hashtags: "#loveaz"
+    hashtags: "#colombia, #blogger, #colombiatravellers, #cienagamagdalena"
   - username: "ceroker"
     fullname: >-
       CEROKER
     bio: >-
       STREET ARTIST & GRAPHIC DESIGNER For commissions 📩 Ceroker@gmail.com 🔥 @atresmanosestudio 👨🏻‍💻 @severoestudio CURSO DOMESTIKA ⇊
     location: "Colombia"
-    followers: 21472
-    engagement: 552
-    commentsToLikes: 0.052128
+    followers: 22194
+    engagement: 481
+    commentsToLikes: 0.054715
     id: ck6u8yz7cuim70j71rer7sz28
     verified: false
-    hashtags: "#muralism, #love, #typography, #design"
-  - username: "lauradieze"
+    hashtags: "#typography, #quedateencasa, #atr3smanos, #digitalart"
+  - username: "ahernandezflorez"
     fullname: >-
-      Laura Díez Estrada 🌞
+      Andrea Hernández Flórez
     bio: >-
-      Freelance illustrator + Graphic Designer Compra mis productos en @kindlife_shop Medellín | Colombia ♡ Let's work together 💌 lauradieze@gmail.com
+      🌲 Art enthusiast ▪️Occasionally me ▪️Editorial Graphic Designer & Illustrator 🦊 Colombian andreahernandezflorez@hotmail.com
     location: "Colombia"
-    followers: 14762
-    engagement: 561
-    commentsToLikes: 0.012116
-    id: ck138uz31i5os0i1946zr0lxv
+    followers: 5952
+    engagement: 324
+    commentsToLikes: 0.084280
+    id: ck0w6n61m9d600i19vlmrri99
     verified: false
-    hashtags: "#illustree, #girly, #womenillustrators, #doodle"
-  - username: "ginapaola"
-    fullname: >-
-      Gina Barranco🔮
-    bio: >-
-      🌴🇩🇴Caribbean graphic designer / illustrator ⚡️ @losplebeyos 👩🏽‍🔬 @barrancooo 🐶 @mygoldenlupita 🎟 #elbadbitchclub 🍧 #pantoneG
-    location: "Colombia"
-    followers: 12579
-    engagement: 881
-    commentsToLikes: 0.052097
-    id: ck5qbsdbxn6c60i11duhnjvfp
-    verified: false
-    hashtags: "#sevan, #thepirategraphic, #jojorabbit, #movieillustration"
-  - username: "nubikini"
-    fullname: >-
-      Nubia ✧
-    bio: >-
-      ✍🏻 Hand Letterer 🎨 Venezuelan Graphic Designer & Illustrator ✉️ For projects: nubianavarro31@gmail.com 👇🏽Curso Online con #Procreate
-    location: "Colombia"
-    followers: 36093
-    engagement: 384
-    commentsToLikes: 0.037116
-    id: ck6u1b817kpa20j71hjpjzvh3
-    verified: false
-    hashtags: "#togetherchallenge, #quedateencasa, #36days, #dreamhouseplants"
-  - username: "krayolaplanet"
-    fullname: >-
-      👹🖍KRAYOLA PLANET🖍👹
-    bio: >-
-      VE🇻🇪 | COL 🇨🇴 Illustrator/Graphic Designer. ⚡️Director Creativo en HIGH BEATS RECORDS⚡️
-    location: "Colombia"
-    followers: 16071
-    engagement: 151
-    commentsToLikes: 0.115796
-    id: ck5butdc4iep20i11wf2oh91s
-    verified: false
-    hashtags: "#ilustracion, #motiongraphics, #cartoon, #dise"
+    hashtags: "#witchy, #inktober2020, #colombianvibes, #colombia"
   - username: "sasbu.letters"
     fullname: >-
       Saskia Bueno
     bio: >-
-      Graphic Designer and Lettering Artist✏️ I use an iPad Pro and Apple Pencil. #lettering #ipadlettering Barranquilla-Colombia🇨🇴 Visit my online store!
+      ✏️ Graphic Designer and Lettering Artist 📍Barranquilla-Colombia 🇨🇴 Represented by @weareillustrationx Visit my online store!
     location: "Colombia"
-    followers: 7393
-    engagement: 481
-    commentsToLikes: 0.034331
+    followers: 8005
+    engagement: 575
+    commentsToLikes: 0.042977
     id: ck5c018qps8ph0i11fm14nnxq
     verified: false
-    hashtags: "#goodtype, #thegridslife, #inspiration, #lettering"
-  - username: "luluilustraciones"
+    hashtags: "#typeyeah, #painting, #loveesnuestroidioma, #thegridslife"
+  - username: "bymariajoserodriguez"
     fullname: >-
-      Lulú
+      Maria Jose Rodriguez
     bio: >-
-      By @lucilajacob 🇦🇷 Todos los derechos reservados ®️ Hago ilustraciones personalizadas👇🏻❤️
+      Makeup Artist | Hair | Academy ✨APÚNTATE AL MAKECLUB ES GRATIS✨
     location: "Colombia"
-    followers: 129969
-    engagement: 714
-    commentsToLikes: 0.017930
-    id: ck8t5yqo1bov10j783tvz57im
+    followers: 24502
+    engagement: 224
+    commentsToLikes: 0.064234
+    id: ck5hfmngfy7cg0i11axnpyvew
     verified: false
-    hashtags: "#tbt, #feliz, #sonrisas, #webcomic"
+    hashtags: "#bymariajoserodriguez, #maquillaje, #egotyteam, #beauty"
+  - username: "ginapaola"
+    fullname: >-
+      Gina Barranco🔮
+    bio: >-
+      🌴🇩🇴Caribbean Illustrator & Art director 🌟
+    location: "Colombia"
+    followers: 13611
+    engagement: 804
+    commentsToLikes: 0.068955
+    id: ck5qbsdbxn6c60i11duhnjvfp
+    verified: false
+    hashtags: "#supplyanddesign, #drawthisinyourstyle, #ballpitmag, #vaniladesign"
   - username: "vivianpantoja1"
     fullname: >-
       VIVIAN PANTOJA 🇨🇴
     bio: >-
-      ARTIST/ COMMISSIONS /DM💌 COLLAGE WITH YOUR PHOTOS 📷 Worldwide file shipping/ 📠🌎 PayPal payment❤💳 Editorial Illustration.
+      VISUAL ARTIST/ COMMISSIONS DM💌 TODOS LOS DERECHOS REGISTRADOS, RESERVADOS © MIS ILUSTRACIONES EN CAMISETAS 📠🌎 PayPal payment❤💳 Editorial Illustration.
     location: "Colombia"
-    followers: 18831
-    engagement: 294
-    commentsToLikes: 0.023313
+    followers: 33562
+    engagement: 233
+    commentsToLikes: 0.009604
     id: ck8tau28yt2980j788qbgs56d
     verified: false
-    hashtags: "#glitchart, #freelove, #thetaxcollection, #thepinklemonade"
+    hashtags: "#thepinklemonade, #bogota, #ftmedd, #paperprint"
+  - username: "manuela.villada"
+    fullname: >-
+      🧃Manuela Villada
+    bio: >-
+      ✍🏻 Ilustradora y 🔹Motion Designer 👁 Portafolio: manuelavillada.com ✨ @xgoodkidzx 📍Col 🇨🇴
+    location: "Colombia"
+    followers: 10579
+    engagement: 913
+    commentsToLikes: 0.057905
+    id: ck9hbib9kgyfv0j78wiqqsikx
+    verified: false
+    hashtags: "#musictober2020, #drawthisinyourstyle, #artist, #inspo"
 ---

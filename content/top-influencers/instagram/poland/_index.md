@@ -1,130 +1,130 @@
 ---
-title: Top 10 Instagram Influencers In Poland In 2023
+title: Top 10 Instagram Influencers In Poland In 2024
 description: >-
-  Find top Instagram influencers in Poland in 2023. Most popular hashtags: #polska #sukienka #warszawa.
+  Find top Instagram influencers in Poland in 2024. Most popular hashtags: #gdansk #ootd #reklama #podr.
 platform: Instagram
-hits: 6946
-text_top: Analyze the top-rated Instagram profiles on inBeat.
-text_bottom: Our platform holds 6946 Instagram influencers like this in Poland for you to collaborate.
+hits: 7244
+text_top: Discover the best Instagram influencers on inBeat.
+text_bottom: Our search engine holds 7244 Instagram influencers like this in Poland for you to collaborate.
 profiles:
-  - username: "carlita_music"
+  - username: "vlada_vlada"
     fullname: >-
-      C A R L I T A
+      Vlada Karpovich | travel | content creator | worldwide
     bio: >-
-      ⚡Here to make you dance⚡ NA: Andrew@liaisonartists.com Europe: dc@temporary-secretary.net MGMT: M@unreal-mgmt.com Listen to Cinecittà 👇🏼
+      Travel, food & lifestyle • open for collabs Photographer: people, brands, hotels Content creator at @canva 📍Warsaw based and 🌱plant-based | christian
     location: "Poland"
-    followers: 64731
+    followers: 13927
+    engagement: 441
+    commentsToLikes: 0.032339
+    id: ck5zmti2in73o0i149is5ggui
+    verified: false
+    hashtags: "#portugal, #travel, #visitportugal, #visitlisbon"
+  - username: "veggiewayfarer"
+    fullname: >-
+      Caro • Photographer & Travel Writer
+    bio: >-
+      ◇ Award Winning Travel Blog ◇ Sustainable Travel & Lifestyle ◇ Staunch Foodie 📩 Hello@veggiewayfarer.com 📍Belgium // Italy ↡ Travel Blog ↡
+    location: "Poland"
+    followers: 51268
+    engagement: 1646
+    commentsToLikes: 0.118082
+    id: ck0twaa3yelpz0i19qnfb6voo
+    verified: false
+    hashtags: "#eurosummer, #polandsights, #girlsthatwander, #christmas"
+  - username: "helen_maroulis"
+    fullname: >-
+      Helen Maroulis
+    bio: >-
+      @whenwebandtogether @wrestlelikeagirl_ @beatthestreetsnational @dopamineo_world
+    location: "Poland"
+    followers: 224308
+    engagement: 580
+    commentsToLikes: 0.019897
+    id: ck0ucpdiwhg340i19mksfldri
+    verified: true
+    hashtags: "#training, #athletes, #tokyo2020, #japan"
+  - username: "anna_karcz"
+    fullname: >-
+      Anna Karcz
+    bio: >-
+      @tugotujemy @layla.sport
+    location: "Poland"
+    followers: 205232
+    engagement: 703
+    commentsToLikes: 0.014838
+    id: ck14kcn37ov330i19a5bz0peh
+    verified: false
+    hashtags: "#mexico"
+  - username: "marcelaplatzer"
+    fullname: >-
+      Fashion | Lifestyle | Beauty
+    bio: >-
+      📍Wrocław 💌marcela240695@gmail.com 🦀♋️
+    location: "Poland"
+    followers: 4258
     engagement: 463
-    commentsToLikes: 0.033339
-    id: ck55ngzwy672i0i11wktkg47a
+    commentsToLikes: 0.076472
+    id: ck5c5uu1c46tg0i11b6d19g2h
     verified: false
-    hashtags: "#whotels, #wrome, #cercle"
-  - username: "siostry_adihd"
+    hashtags: "#lookuplook, #mirrorselfie, #streetstyle, #fashioninspirationdaily"
+  - username: "lucky_luka_official"
     fullname: >-
-      Ilona i Milena Krawczyńskie
+      LUKA
     bio: >-
-      👯‍♀️ Siostry - nie bliźniaczki ⭐️ Influencerki roku by @ofemininpl ☺️ Ambasadorki @puma 📺 Prowadząca @farmapolsat 📧 kontakt@siostryadihd.pl
+      Currently• Home Business: xluka.management@gmail.com Subscribe My Youtube 680k🫶🏻
     location: "Poland"
-    followers: 291737
-    engagement: 555
-    commentsToLikes: 0.022661
-    id: ck0u0xampv6360i19rgjvx070
+    followers: 781466
+    engagement: 779
+    commentsToLikes: 0.002204
+    id: ck600vc0uecay0i14dnxo1rs4
     verified: false
-    hashtags: "#siostry, #siostryadihd, #nowysacz, #tanieczgwiazdami"
-  - username: "simci.a"
+    hashtags: "#rodzinka, #rtveuroagd, #eurocompl, #reklama"
+  - username: "soniakarman"
     fullname: >-
-      Cozy christmas winter xmass 🎅🏼❄️🎄
+      Sonia Karman
     bio: >-
-      Zakręcona #Włoszka 🇵🇱🇮🇹 #fotografia moja pasja 📸 Zostań ze mną na dłużej 📩Collab.DM /simona979@o2.pl 🥰
+      📍Warsaw, Poland 🎬 YouTube - Sonia Karman✌️ 🎬 @maciej_je YouTube team😋 📩 sonia.karman@gethero.pl ♥️ Podróże, dobre jedzenie, moda, kino, żyćko
     location: "Poland"
-    followers: 10305
-    engagement: 1507
-    commentsToLikes: 0.055238
-    id: ckap528vu9v0o0i78xjvwhocs
+    followers: 32272
+    engagement: 474
+    commentsToLikes: 0.018317
+    id: ck6uescqfst520j716cziyqca
     verified: false
-    hashtags: "#skin, #xmas, #vegan, #body"
-  - username: "wersow"
+    hashtags: "#zakopane, #usaroadtrip, #podr, #usatravel"
+  - username: "rithikapoojary23"
     fullname: >-
-      WERONIKA SOWA
+      Rithika Poojary
     bio: >-
-      INFLUENCER & YOUTUBER 🎬 YouTube: WERSOW (2,3 MLN) 🔺 TikTok: WERSOW (2,8 MLN) 📩 dominik@db4.pl
+      Bachata Dancer | Teacher | Performer Member of @cornelrithika_official 📞+919819878415 📩CornelRithikaofficial@gmail.com
     location: "Poland"
-    followers: 3014302
-    engagement: 465
-    commentsToLikes: 0.002406
-    id: ck15siy8ud8qm0i1949k0y4pm
+    followers: 214441
+    engagement: 532
+    commentsToLikes: 0.009035
+    id: ck15rhb867xil0i19wxw7s4wy
     verified: false
-    hashtags: "#blackopium, #etam, #feelfree, #etamsquad"
-  - username: "jeanetelife"
+    hashtags: "#bachatasensual, #bachata, #conristyle, #trendingreels"
+  - username: "gawe_l"
     fullname: >-
-      Żaneta Ochmańska-Król
+      Gaweł Czajka
     bio: >-
-      mom of Sara & Melisa 🎀 founder 👇🏻 presets @instaksiegarnia planners @allecudo ✺ 🕊 mail: jeanetelife@gmail.com
+      @calygawel  Sopot Every dog has its day, I’m on my way. Współpraca: gawelczajka@gmail.com
     location: "Poland"
-    followers: 220178
-    engagement: 796
-    commentsToLikes: 0.007616
-    id: ck0tz9tinpnvl0i19e4f9183g
+    followers: 63944
+    engagement: 432
+    commentsToLikes: 0.034267
+    id: ck8t6y7ypf26v0j7897f54ywv
     verified: false
-    hashtags: "#jestemwciazy, #jesiennastylizacja, #kochamnadzycie, #jesiennestylizacje"
-  - username: "bvemil"
+    hashtags: "#przepis, #emocje, #dizajn, #calygawel"
+  - username: "knaji"
     fullname: >-
-      𝕊𝕒𝕤𝕙𝕒 𝕋𝕙𝕖 𝕆𝕨𝕟𝕖𝕣
+      Karolina Naji
     bio: >-
-      🎬YouTuber -> 250.000 🇵🇱/🇪🇸 📊Ceo @tokacars 🔰Ceo @bezpieczneautousa 🏁Wicemistrz Polski drag AWD Turbo
+      ✄ Fashion Designer @karolinanaji Represented by @futur.mgmt Contact: knajimgmt@gmail.com 📍Currently: Warsaw, Poland 🇵🇱/🇱🇧
     location: "Poland"
-    followers: 125149
-    engagement: 1251
-    commentsToLikes: 0.004972
-    id: ckaoxu2pver8g0i78awwb41ld
+    followers: 98582
+    engagement: 727
+    commentsToLikes: 0.023990
+    id: ckaovsc0f5xyb0i78db9664kq
     verified: false
-    hashtags: "#mustang, #lubin, #sopot, #toru"
-  - username: "kamerzysta69"
-    fullname: >-
-      Kamerzysta 🎥
-    bio: >-
-      
-    location: "Poland"
-    followers: 1265448
-    engagement: 1304
-    commentsToLikes: 0.023958
-    id: ck1358o6h091b0i19gp3kv8ks
-    verified: false
-    hashtags: "#zadyma, #mma, #freakfight, #primemma"
-  - username: "kasiamvp"
-    fullname: >-
-      _______Kasia
-    bio: >-
-      🫧 „Napad” out now!
-    location: "Poland"
-    followers: 45307
-    engagement: 404
-    commentsToLikes: 0.008743
-    id: ckaowesot8mbq0i78nv71v5rl
-    verified: false
-    hashtags: "#instavacation, #portrait, #wonderfulplaces, #rsa"
-  - username: "kolorowa_dusza"
-    fullname: >-
-      Gabriela Koperska | Stylizacje | Ciekawe miejsca
-    bio: >-
-      #Rzeszów 💌 kontakt@kolorowadusza.com 🙍🏽Blogerka i właścicielka biura @aktowka Pokazuję ciekawe miejsca 🏔 Kocham koty i kwiaty 🌼 💻 Blog
-    location: "Poland"
-    followers: 16735
-    engagement: 431
-    commentsToLikes: 0.063184
-    id: ck5qeiiid0ntk0i1168ysovbv
-    verified: false
-    hashtags: "#weddingblog, #italy, #wakacje, #weddingdress"
-  - username: "sylwiawasik.makeupartist"
-    fullname: >-
-      Sylwia Wąsik Make Up Artist
-    bio: >-
-      Make Up Artist Makijaż, szkolenia indywidualne i grupowe Wierzchowiska pierwsze 42, 27-350 Sienno Oferta szkoleń grupowych w zakładce WYDARZENIA FB
-    location: "Poland"
-    followers: 45739
-    engagement: 402
-    commentsToLikes: 0.014260
-    id: ck6u1out5mzw40j71d7uxub0y
-    verified: false
-    hashtags: "#foxyeyesmakeup, #makeup, #foxy, #mattemakeup"
+    hashtags: "#minimalstyle, #parisianvibe, #classylook, #parisianvibes"
 ---

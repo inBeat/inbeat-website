@@ -1,130 +1,130 @@
 ---
-title: Top 10 Travel Instagram Influencers In Colombia In 2023
+title: Top 10 Travel Instagram Influencers In Colombia In 2024
 description: >-
-  Find top travel Instagram influencers in Colombia in 2023. Most popular hashtags: #travel #travelblogger #publicidad #travelgram.
+  Find top travel Instagram influencers in Colombia in 2024. Most popular hashtags: #colombia #reels #travel.
 platform: Instagram
-hits: 348
-text_top: Discover the best Instagram profiles on inBeat.
-text_bottom: Our platform aggregates 348 Instagram influencers like this in Colombia for you to collaborate.
+hits: 376
+text_top: Analyze the top-rated Instagram accounts on inBeat.
+text_bottom: Our database aggregates 376 Instagram influencers like this in Colombia for you to pitch.
 profiles:
-  - username: "einer_josee"
-    fullname: >-
-      EINER & JOSE
-    bio: >-
-      Colombiano/Español “Juntos conquistando un Mundo” #loveislove #lifestyle #travel
-    location: "Colombia"
-    followers: 72966
-    engagement: 731
-    commentsToLikes: 0.032177
-    id: ckapceafy3gwc0i786g549k99
-    verified: false
-    hashtags: "#gaylove, #mensvows, #gayspain, #cute"
-  - username: "andertripper"
-    fullname: >-
-      Ander | Travelling & sharing
-    bio: >-
-      🇵🇪 Peruano ✈️ Living, Travelling & sharing 🇵🇪🇵🇾🇦🇷🇪🇨🇨🇴🇧🇷🇧🇴🇨🇷🇩🇴🇵🇦🏳️‍🌈
-    location: "Colombia"
-    followers: 12836
-    engagement: 774
-    commentsToLikes: 0.086850
-    id: ck5pv26llfr5t0i11p1dcaalq
-    verified: false
-    hashtags: "#mochileros, #arequipa, #publicidad, #landscapephotography"
-  - username: "pamela.parker"
-    fullname: >-
-      ᏢᎪᎷᎬᏞᎪ ᏢᎪᏒᏦᎬᏒ🌹📍GER
-    bio: >-
-      🇩🇪 German-Colombiana 🇨🇴 🌹Travel ➳Fashion ➳Lifestyle ➳Food 🦋Wifey ➳ITBusiness Owner ➳Bigcitylife 🌹High heels & Sneakers ➳Nice things & magical places
-    location: "Colombia"
-    followers: 5755
-    engagement: 932
-    commentsToLikes: 0.114504
-    id: ck9wevmqcm1hw0j784wmvp9ac
-    verified: false
-    hashtags: "#pinkaesthetic, #prettylittleiiinspo, #blueaesthetic, #luxurylifestyle"
-  - username: "senor.viajero"
-    fullname: >-
-      Señor Viajero
-    bio: >-
-      Recorro los lugares más asombrosos 🏞️ de Colombia 🇨🇴. Viajes Grupales 👥 @nomadaextremo Colombia 📍 #travel
-    location: "Colombia"
-    followers: 26434
-    engagement: 643
-    commentsToLikes: 0.157265
-    id: ck5hrs6icvdyt0i1172mzn954
-    verified: false
-    hashtags: "#travelcolombia, #sky, #visitcolombia, #viajar"
-  - username: "zuzana_klingrova"
-    fullname: >-
-      Zuzana Klingrova
-    bio: >-
-      Yoga teacher & therapist 💛Yoga&travel Autor 📚Jóga po celý rok, Jóga proti úzkosti a strachu Podcast: Povídání nejen o józe
-    location: "Colombia"
-    followers: 33658
-    engagement: 699
-    commentsToLikes: 0.033855
-    id: ck14ilv5yg22q0i19wu5yhqi6
-    verified: false
-    hashtags: "#jogadnes, #joga, #darek, #mixtee"
-  - username: "travel_jcr"
-    fullname: >-
-      Jhonathan ✈️🌎🇨🇴
-    bio: >-
-      📍 De Cali 🇨🇴🕺🏽viviendo en Medellín 🌎 Viajero - Travel blog 📷 Fotógrafo y filmmaker aficionado 👇🏾Aqui solo vas a ver cosas chéveres
-    location: "Colombia"
-    followers: 11556
-    engagement: 745
-    commentsToLikes: 0.186508
-    id: ckf5wgw05rzv80j239j3eb0gf
-    verified: false
-    hashtags: "#riodejaneirotrip, #reelsinstagram, #visitbrazil, #damefotismo"
-  - username: "lorena.luq"
-    fullname: >-
-      lorena luque 🤍
-    bio: >-
-      🍄☘️happiness is a way of travel not a destination. snap: lorena20_x0x0
-    location: "Colombia"
-    followers: 3461
-    engagement: 1981
-    commentsToLikes: 0.110552
-    id: ckf5myp0avz260j23kl3db2hq
-    verified: false
-    hashtags: "#staystrongsingleppl"
-  - username: "svaleroph"
-    fullname: >-
-      Sebastián Valero 📸
-    bio: >-
-      1996 🇨🇴 Bucaramanga📍 Photographer | Filmmaker | Travel 🌵 Collabs | Business: svaleroph@gmail.com 📩
-    location: "Colombia"
-    followers: 93147
-    engagement: 229
-    commentsToLikes: 0.173254
-    id: ck0w0jepsehxe0i19k4z4vl9c
-    verified: false
-    hashtags: "#realmeserie7, #publicidad, #realme7pro, #ad"
-  - username: "fatimakeupstudio"
-    fullname: >-
-      Fatima Mourtada ♡
-    bio: >-
-      Pro Makeup Artist & Beauty Educator ✨Maquillaje social y de Novia ✨Cursos de maquillaje 📍Maicao-Colombia I travel✈️ Info📲 SOLO WHATSAPP 3233909200 ⤵️
-    location: "Colombia"
-    followers: 36670
-    engagement: 592
-    commentsToLikes: 0.034482
-    id: ck15sfs30csp80i19bvsgdqqg
-    verified: false
-    hashtags: "#cutcrease, #goldeneyes, #makeup, #halloween"
   - username: "viajandoconberbeo"
     fullname: >-
       J Berbeo | 🎒Travel + Lifestyle
     bio: >-
-      👔 Quit my Fortune500 job to travel the 🌍 💻✏️ Digital nomad | Nómada digital ☕ 📖 Coffee + Book addict 👇🏼¡Tengo un blog! Anímense
+      👔 Quit my Fortune500 job to travel the 🌍 ☕ 📖 🌱Coffee, books and eco addict ♻️ 💪🏼Sustainable travel & healthy lifestyle 👣 Trying to make an impact
     location: "Colombia"
-    followers: 26128
-    engagement: 1448
-    commentsToLikes: 0.016070
+    followers: 42407
+    engagement: 786
+    commentsToLikes: 0.007597
     id: ckaoxnh5de00g0i78xoctnhoc
     verified: false
-    hashtags: "#pursuitofportrait, #tropicalparadise, #reiseblogger, #allaboutadventures"
+    hashtags: "#earthfocus, #naturelovers, #menandcoffee, #hellofrom"
+  - username: "josesotoval"
+    fullname: >-
+      🦈 Jose Soto | 🤿 DiveMaster
+    bio: >-
+      🌊 Welcome to my #UnderWaterWorld 🌎 🐋 Ocean Passionate | #ScubaDiver 🪸 🐠 @DivingLife.co 👉🏻 Dive, travel & learn with us 🦑
+    location: "Colombia"
+    followers: 53704
+    engagement: 438
+    commentsToLikes: 0.010279
+    id: ck5zxi5yd81y00i14ihu0zis9
+    verified: false
+    hashtags: "#publicidad, #uwphotography, #pulpo, #pezleon"
+  - username: "kimdesutter"
+    fullname: >-
+      Kim De Sutter 🦋
+    bio: >-
+      mom | travel & lifestyle | beauty Management: @matchmgmt
+    location: "Colombia"
+    followers: 158033
+    engagement: 406
+    commentsToLikes: 0.004378
+    id: ck5qd86vouaho0i11hm26wfnt
+    verified: false
+    hashtags: "#beb, #publicidad, #acidmantle, #lorealpariscoloracion"
+  - username: "angela_bonilla_"
+    fullname: >-
+      Angela Bonilla | Dubai Model
+    bio: >-
+      📍 Dubai Model | Plant Based 🌱 @theveganenergy | Traveler From Colombia 🇨🇴 @talentmodelmgmt 🇦🇪 @bareface_model_agency
+    location: "Colombia"
+    followers: 25449
+    engagement: 454
+    commentsToLikes: 0.036914
+    id: ck5pvbheuh2lh0i11cxmrdv0u
+    verified: false
+    hashtags: "#colombia, #model, #makeup, #latina"
+  - username: "viajando_barato_"
+    fullname: >-
+      Juan Pablo Bojacá
+    bio: >-
+      📣Viajar barato no siempre es gastar poco, es gastar inteligentemente!📣 He Viajado x el 🌎 hasta con <$300/mes! Quiero INSPIRARTE A #Viajar #travel
+    location: "Colombia"
+    followers: 169076
+    engagement: 397
+    commentsToLikes: 0.018105
+    id: ck5qbkp6tm2ck0i11a0f8vp8t
+    verified: false
+    hashtags: "#travel, #patrocinado, #viajar, #travelblogger"
+  - username: "andreasbook"
+    fullname: >-
+      ANDREA
+    bio: >-
+      Founder @andreaforsterdesign Lifestyle | Languages | Travel Colombiana🐆 Living in Switzerland🇨🇭 Life through my eyes🤍
+    location: "Colombia"
+    followers: 637650
+    engagement: 320
+    commentsToLikes: 0.018894
+    id: clbncvw2x89nx0j08c3ohnqej
+    verified: false
+    hashtags: "#mylittlefamily, #newhome, #canalesprimevideo, #cocacolaswitzerland"
+  - username: "mercycollazos"
+    fullname: >-
+      𝐌𝐄𝐑𝐂𝐘 𝐂𝐎𝐋𝐋𝐀𝐙𝐎𝐒
+    bio: >-
+      • | sin DIOS, nada soy ♡ • | Fashion | Beauty | Travel Founder @bubblesky_glamping 🏹@mercycollazos.beauty 🖇 Belleza sin corazón, es simple decoración
+    location: "Colombia"
+    followers: 591892
+    engagement: 274
+    commentsToLikes: 0.008412
+    id: ck5zwywji70s00i145ywx3tbh
+    verified: false
+    hashtags: "#colombia, #outfit, #ootd, #style"
+  - username: "sofiamaluk"
+    fullname: >-
+      Sofia Maluk 🍃
+    bio: >-
+      ☼ Actriz - Modelo - Creadora de contenido ☼ Vida saludable - Humor - Travels ☼ Viviendo desde el ♡ ☼ sofia.maluk.bruzzone@gmail.com
+    location: "Colombia"
+    followers: 106372
+    engagement: 188
+    commentsToLikes: 0.037335
+    id: ck5btq0g1ge9h0i11yc7zzej9
+    verified: false
+    hashtags: "#actriz, #risas, #humor, #comedia"
+  - username: "alwayshungrymel"
+    fullname: >-
+      Melissa Rodriguez
+    bio: >-
+      💁🏼‍♀️lifestyle reporter 🍕food, things to do & travel 📍from #miami with colombian & venezuelan roots
+    location: "Colombia"
+    followers: 53000
+    engagement: 186
+    commentsToLikes: 0.011093
+    id: ckmw1aqw25n2u0j23nkz08dfx
+    verified: false
+    hashtags: "#deliciousfood, #delish, #thingstodoinflorida, #sushi"
+  - username: "melytorres0"
+    fullname: >-
+      𝐌 𝐞 𝐥 𝐲 𝐓 𝐨 𝐫 𝐫 𝐞 𝐬
+    bio: >-
+      God fearing🙏🏻 Business/ProMUA @nattypaz0's Wife💍 💙👶🏻👶🏻Mommy Siguiendo el proposito de Dios✨ LifeStyle/Makeup&BeautyTips/Cooking/Travel Hondureña 🇭🇳
+    location: "Colombia"
+    followers: 69054
+    engagement: 187
+    commentsToLikes: 0.033325
+    id: ck6tupvl2hq6d0j71aw434ye0
+    verified: false
+    hashtags: "#glow, #masterclass, #maquillaje, #reels"
 ---

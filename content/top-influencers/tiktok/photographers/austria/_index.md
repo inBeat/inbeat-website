@@ -1,11 +1,11 @@
 ---
-title: Top 10 Photographers TikTok Influencers In Austria In 2023
+title: Top 10 Photographers TikTok Influencers In Austria In 2024
 description: >-
-  Find top photographers TikTok influencers in Austria in 2023. Most popular hashtags: #fyp #vienna #photographer #foryou.
+  Find top photographers TikTok influencers in Austria in 2024. Most popular hashtags: #austria #photographer #foryou #vienna.
 platform: TikTok
 hits: 8
 text_top: Analyze the most popular TikTok profiles on inBeat.
-text_bottom: Our platform has 8 TikTok influencers like this in Austria for you to collaborate.
+text_bottom: inBeat holds 8 TikTok influencers like this in Austria for you to contact.
 profiles:
   - username: "altra_studios"
     fullname: >-

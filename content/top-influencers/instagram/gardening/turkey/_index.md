@@ -1,12 +1,24 @@
 ---
-title: Top 10 Gardening Instagram Influencers In Turkey In 2023
+title: Top 10 Gardening Instagram Influencers In Turkey In 2024
 description: >-
-  Find top gardening Instagram influencers in Turkey in 2023. Most popular hashtags: #garden #love #instagood #gardening.
+  Find top gardening Instagram influencers in Turkey in 2024. Most popular hashtags: #instagood #love #gardening #garden.
 platform: Instagram
-hits: 9
-text_top: See the top-rated Instagram profiles on inBeat.
-text_bottom: Our platform holds 9 Instagram influencers like this in Turkey for you to contact.
+hits: 12
+text_top: See the most popular Instagram profiles on inBeat.
+text_bottom: Our database holds 12 Instagram influencers like this in Turkey for you to contact.
 profiles:
+  - username: "_zariffhanimm"
+    fullname: >-
+      Hilal 🌙
+    bio: >-
+      Bitki | Yaşam | Mutfak 🍃 İleştişim için DM✉️
+    location: "Turkey"
+    followers: 28298
+    engagement: 106
+    commentsToLikes: 0.113342
+    id: ck8t6jhsodv9h0j780jp6dhsz
+    verified: false
+    hashtags: "#trabzon, #cactus, #mardin, #gardening"
   - username: "aydindincaslan"
     fullname: >-
       Aydın DİNÇASLAN
@@ -19,18 +31,42 @@ profiles:
     id: ck9wdek4kfai00j786y0i1k3w
     verified: false
     hashtags: "#flowers, #photographer, #landscaping, #palmtrees"
-  - username: "aycasarc"
+  - username: "dekorzimbirtilari"
     fullname: >-
-      Ayca Sarc
+      Ebru Özyurt
     bio: >-
-      Istanbul, Turkey #yorganlarfora_aycasarc #mehrymuxyorganlarfora Ottoman Empire Tshirts
+      •Dekorasyon •Kendin yap •Bir patili bir bebeli dünyam •Annelik serüvenim 🧚🏻‍♀️ hello@socialmeet.com.tr
     location: "Turkey"
-    followers: 91272
-    engagement: 200
-    commentsToLikes: 0.079074
-    id: ck15q7es41g1k0i19eojewmw5
+    followers: 179945
+    engagement: 996
+    commentsToLikes: 0.015727
+    id: ck6u378l2w4x30j71wdox4len
     verified: false
-    hashtags: "#artisanal, #mehrymuxyorganlarfora, #athome, #cnttraveler"
+    hashtags: "#baby, #sunum, #babygirl, #reklam"
+  - username: "aiser0se"
+    fullname: >-
+      Aysegul Kalender
+    bio: >-
+      Dua Asena 🤍 Azer Alparslan Founder @aiserosecom Patented ✨ Founder @dpurecom ✨ Collabs 📩 aiserosed@outlook.com
+    location: "Turkey"
+    followers: 210223
+    engagement: 171
+    commentsToLikes: 0.072822
+    id: ck6tzhuxt9shu0j71tn7cya9l
+    verified: false
+    hashtags: "#minimalism, #love, #hijab, #home"
+  - username: "kitcheninred"
+    fullname: >-
+      Pınar Özdirim 👨‍👩‍👦‍👦👩🏼‍🌾☕️🍰🐾
+    bio: >-
+      2👦🏻 6 patili annesi🐶🐾🐈 Emekli beyaz yakalı🧑🏻‍💼 ODTÜ Kimya öğrencisi👩🏻‍🔬 @atelierinred Kurucusu
+    location: "Turkey"
+    followers: 105429
+    engagement: 89
+    commentsToLikes: 0.041366
+    id: ck9hc0ngmj8k30j78s2m6h80c
+    verified: false
+    hashtags: "#limonkremas, #summervibes, #recipesinred, #elyaz"
   - username: "photocameramans"
     fullname: >-
       Kişisel Blok
@@ -55,18 +91,6 @@ profiles:
     id: ckaovdxx146q40i78j8ailxye
     verified: false
     hashtags: "#love, #instagram, #photo, #canon"
-  - username: "_zariffhanimmm"
-    fullname: >-
-      Zarifhanım ☁️
-    bio: >-
-      ☁️Bir Karadeniz’linin Doğuya uzanan yolculuğu ☁️Sade bir yaşam ,dingin bir hayat 📸📕🪴☕️ 💌Reklam ve Tanıtım için DM
-    location: "Turkey"
-    followers: 27907
-    engagement: 215
-    commentsToLikes: 0.171348
-    id: ck8t6jhsodv9h0j780jp6dhsz
-    verified: false
-    hashtags: "#kes, #reels, #garden, #interiorlovers"
   - username: "belkis.stam"
     fullname: >-
       belkis st
@@ -79,18 +103,6 @@ profiles:
     id: ck5bw4seil0320i11loyirrza
     verified: false
     hashtags: "#smiley, #lifestyle, #love, #comfort"
-  - username: "enis0kalimashi"
-    fullname: >-
-      
-    bio: >-
-      💸💷💳İLETİŞİM NO 📞0538 616 6870📞SENİN CESARET EDEMEDİĞİNİ YAPANLAR SENİN ÖZENDİĞİN HAYATI YAŞARLAR %100 GÜVEN %100GARANTİ %100 💸
-    location: "Turkey"
-    followers: 28785
-    engagement: 210
-    commentsToLikes: 0.020067
-    id: ck15s77m3bkmk0i19g3b5feiu
-    verified: false
-    hashtags: "#beagleuk, #beagleworld, #walkiestime, #hound"
   - username: "butikevlersapanca"
     fullname: >-
       Butik Evler Sapanca

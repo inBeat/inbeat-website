@@ -1,118 +1,130 @@
 ---
-title: Top 10 Wellness Instagram Influencers In Austria In 2023
+title: Top 10 Wellness Instagram Influencers In Austria In 2024
 description: >-
-  Find top wellness Instagram influencers in Austria in 2023. Most popular hashtags: #visitaustria #austria #austrianblogger #summer.
+  Find top wellness Instagram influencers in Austria in 2024. Most popular hashtags: #wellness #austria #nature #tirol.
 platform: Instagram
-hits: 9
-text_top: Discover the most popular Instagram accounts on inBeat.
-text_bottom: Our platform has 9 Instagram influencers like this in Austria for you to work with.
+hits: 19
+text_top: Discover the top-rated Instagram profiles on inBeat.
+text_bottom: inBeat aggregates 19 Instagram influencers like this in Austria for you to contact.
 profiles:
-  - username: "marieyou__"
+  - username: "susannaamarie"
     fullname: >-
-      Lisa Marie Bicker
+      SUSANNA | MOUNTAIN | HIKE | TIROL
     bio: >-
-      momlife•inspo•home wifey of @dooobi_81 mom to lio matteo 🤍 mom to clea ylvie 🤍 realtalk @marieyouofficial nordrhein-westfalen 📍
+      happiest outdoors 🏔🎿🧗‍♀️🏃🏼‍♀️ • mountains • sports • travelling • from Tirol • Austria • office@susannamarie.at 💌
     location: "Austria"
-    followers: 88106
-    engagement: 93
-    commentsToLikes: 1.068207
-    id: ck0w4kp88z1yx0i19imz8qtt1
+    followers: 34645
+    engagement: 483
+    commentsToLikes: 0.055834
+    id: ck0vwof5fusk50i19y8syluuz
     verified: false
-    hashtags: "#viral, #wellness, #toddler, #schwanger2022"
-  - username: "world.of.melly"
+    hashtags: "#outdoorwomen, #trailrun, #austrianmountaingirls, #mountaingirls"
+  - username: "beate.kie"
     fullname: >-
-      Melanie Friedlein
+      Beate
     bio: >-
-      📍🇦🇹 Schladming #worldofmelly 📸 Photolover ✈️ Travel around the World 🙏🏻 Enjoy the little things
+      from 📍Vienna all around the 🌍 just a girl trying to live her best life ✨️ law 🎓 • fitness 🏋🏼‍♀️• mindset 🌱
     location: "Austria"
-    followers: 858
-    engagement: 2507
-    commentsToLikes: 0.419325
-    id: ck8tagwwqrpdn0j78z5vm223d
+    followers: 11205
+    engagement: 384
+    commentsToLikes: 0.222884
+    id: ck0w5tgn25czz0i19733mgypr
     verified: false
-    hashtags: "#jenny13990, #gl, #konfettiwunder, #redhairflair"
-  - username: "juliexpayr"
+    hashtags: "#fitandhappy, #fitness, #summerdays, #traveldiaries"
+  - username: "leonie_rachel"
     fullname: >-
-      JULIE | a bit of everything ✨
+      Leonie-Rachel Soyel
     bio: >-
-      happy mind, happy life.♡ living in Innsbruck | content creator ✉️ office@fulltimelifeloverblog.com
+      ☾ Mental Health Advocate ☾ für mehr Realität auf Instagram ☾ Podcasterin & Autorin: @couchgefluester.vienna ☾ Creator of Moon Magic Yoga
     location: "Austria"
-    followers: 31088
-    engagement: 340
-    commentsToLikes: 0.030917
-    id: ckap3os2p3whr0i78hj92sxed
+    followers: 34608
+    engagement: 124
+    commentsToLikes: 0.043287
+    id: ck5hfpkufyo0o0i11y78hoxge
     verified: false
-    hashtags: "#bergzeit, #tirol, #visitaustria, #bergwelten"
+    hashtags: "#loveislove, #beweglichkeits, #gesundesessen, #pers"
+  - username: "princess.paranoia"
+    fullname: >-
+      𝒦𝒶𝓉𝒽𝒾
+    bio: >-
+      𝑜𝒽, 𝒽𝒾. ᴠɪᴇɴɴᴀ • ᴛʏʀᴏʟ 🇦🇹 | 🔐 ᴛʀᴀᴠᴇʟ, ғɪᴛɴᴇss & ʟɪғᴇsᴛʏʟᴇ #ᴍᴏᴜɴᴛᴀɪɴʟᴏᴠᴇ ⛰️
+    location: "Austria"
+    followers: 67004
+    engagement: 102
+    commentsToLikes: 0.038916
+    id: ck0vxnehwzrkj0i19aupxyjzg
+    verified: false
+    hashtags: "#l4l, #girlsofinsta, #hello, #visitsouthtyrol"
+  - username: "thepilatesbabe_"
+    fullname: >-
+      Elvira Rumetshofer 🏹
+    bio: >-
+      Pilates Babes Instructor 📍Wien, AT ⚡️weekly ONLINE Classical Pilates via Zoom ⚡️Pilates Retreats & Events ⚡️Youtube: thepilatesbabe BOOK NOW 👇🏼
+    location: "Austria"
+    followers: 100845
+    engagement: 49
+    commentsToLikes: 0.017606
+    id: clny2tei61e660j08bdo14x5r
+    verified: false
+    hashtags: "#effectiveworkouts, #pilateslovers, #pilatesinspiration, #pinterestaesthetic"
+  - username: "jufenalm"
+    fullname: >-
+      JUFENALM ↠ BOHO Hotel
+    bio: >-
+      ✘ First BOHO hotel & restaurant in the ALPS ☾ Bohemian spirit in the alps ★ 5761 Maria Alm ↡ 10% off your winter vacay with our early bird
+    location: "Austria"
+    followers: 156981
+    engagement: 68
+    commentsToLikes: 0.008231
+    id: clq9hybq66k0n0k08sifx6344
+    verified: false
+    hashtags: "#jufenalm, #hoteljufenalm, #spa, #chill"
+  - username: "katimairhofer"
+    fullname: >-
+      Kati Mairhofer
+    bio: >-
+      YOGA & MINDFUL LIVING | Tirol physical, mental & spiritual flexibility and strength through movement RETREATS / EVENTS ⤵️
+    location: "Austria"
+    followers: 101468
+    engagement: 386
+    commentsToLikes: 0.003801
+    id: clfezpnxv76sa0j08khanwmob
+    verified: false
+    hashtags: "#mindfulness, #authenticyou, #yoga, #awakening"
   - username: "andrea.m.schlager"
     fullname: >-
       Andrea Schlager
     bio: >-
-      📩info@andreaschlager.com 📩 📺🏎3.-5.9. I like to talk🎙TV presenter for ⭐️F1🏎⭐️MotoGP🏍⭐️Tennis🎾 ⭐️brand ambassador: @cupra_at ⭐️my normal chaos🐱🐶🐴🏄‍♀️
+      📩info@andreaschlager.com 📩 I like to talk🎙TV presenter for ⭐️F1🏎⭐️MotoGP🏍⭐️Tennis🎾 ⭐️brand ambassador: @cupra_at ⭐️my normal chaos🐱🐶🐴🏄‍♀️
     location: "Austria"
-    followers: 39634
-    engagement: 806
-    commentsToLikes: 0.011675
+    followers: 112595
+    engagement: 364
+    commentsToLikes: 0.009325
     id: ck0tvr8wccikz0i19uz1dq9d4
     verified: false
-    hashtags: "#weekend, #f1, #water, #home"
-  - username: "evajohannaegg"
+    hashtags: "#home, #f1, #cupratribe, #austria"
+  - username: "jfkfeichter"
     fullname: >-
-      Eva Egg
+      JFK Feichter
     bio: >-
-      🇦🇹22/tirol 🎓 Student Msc Information Engineering 📩eva.egg@hotmail.com ⚡️creative mind @lemellau ✨podcast @evaandevy 🖤business @connectat.agency
+      Kaprun / Salzburgerland 🇦🇹 Photographer. 🎼 House & Techno ❤️ @canonaustria | Canon ProForum Speaker
     location: "Austria"
-    followers: 22548
-    engagement: 250
-    commentsToLikes: 0.043153
-    id: ck9wos7j26dzi0j7846hvv2xk
+    followers: 21433
+    engagement: 328
+    commentsToLikes: 0.012280
+    id: ck5bzz3j4s4a30i11miahd1yt
     verified: false
-    hashtags: "#travelphotography, #view, #madeinaustria, #alps"
-  - username: "julia.t.lange"
+    hashtags: "#pinzgau, #planica, #fis, #artofvisual"
+  - username: "kati_bg"
     fullname: >-
-      Julia Lange
+      Kati Bellowitsch
     bio: >-
-      Work @digireich Sport is my biggest passion #unleashyourpotential For requests —> 📩 me
+      Moderatorin/Redakteurin office@bellowitsch.at 💛 Moderatorin 🩷 Podcasterin🎙& Reisejournalistin 💙 FH Wien Lektorin ❤️ Familylife 😍
     location: "Austria"
-    followers: 12493
-    engagement: 501
-    commentsToLikes: 0.014753
-    id: ckf5x8a2zury20j23ci32jovt
-    verified: false
-    hashtags: "#sports, #snow, #outdoors, #allthewayup"
-  - username: "beatravelgirl"
-    fullname: >-
-      Beate
-    bio: >-
-      from 📍Vienna all around the 🌍 90's 👶 • law life 💻 • 💏 taken • 🇵🇱 roots fitness 🏋🏼‍♀️• foodie🍝 • beach girl 🌊
-    location: "Austria"
-    followers: 11158
-    engagement: 512
-    commentsToLikes: 0.152852
-    id: ck0w5tgn25czz0i19733mgypr
-    verified: false
-    hashtags: "#vienna, #girlsborntravel, #urlaubin, #traveller"
-  - username: "fabi.jojo"
-    fullname: >-
-      Fabian & Johanna
-    bio: >-
-      ↠ Travel, Health, Love, Happiness ↠ Adventurous #couple based in #Vienna 🇦🇹 ↠ Sharing meaningful thoughts & creative inspirations ↡Our Blog↡
-    location: "Austria"
-    followers: 30196
-    engagement: 535
-    commentsToLikes: 0.143689
-    id: ckapc3tq02ct10i78n7vlli6m
-    verified: false
-    hashtags: "#reisen, #austrianblogger, #gollingerwasserfall, #austria"
-  - username: "julijasalerart"
-    fullname: >-
-      OwlArt 🦉Abstract & Soulart
-    bio: >-
-      ✨Intuitive ABSTRACTS & SOULPAINTINGS 💫“Catching the WONDERS in simplicity “ ✨Find your true SELF 💫Austria/Vorarlberg ✨Wellness Advocate @oilyowl
-    location: "Austria"
-    followers: 5978
-    engagement: 106
-    commentsToLikes: 0.067162
-    id: ck15t3bsug51a0i19v2fcn24b
-    verified: false
-    hashtags: "#abstractart, #julijasalerart, #artinstallation, #vintagelover"
+    followers: 38226
+    engagement: 206
+    commentsToLikes: 0.039633
+    id: ck6u4jj0z42yn0j71xrzso35r
+    verified: true
+    hashtags: "#sommer, #sheskis, #werzers, #altaussee"
 ---

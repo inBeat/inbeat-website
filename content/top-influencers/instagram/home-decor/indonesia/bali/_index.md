@@ -1,48 +1,12 @@
 ---
-title: Top 10 Home Decor Instagram Influencers In Bali In 2023
+title: Top 10 Home Decor Instagram Influencers In Bali In 2024
 description: >-
-  Find top home decor Instagram influencers in Bali in 2023. Most popular hashtags: #homedecor #homedecoration #homesweethome #bali.
+  Find top home decor Instagram influencers in Bali in 2024. Most popular hashtags: #homedecor #indonesia #bali #interiordesign.
 platform: Instagram
-hits: 19
-text_top: See the best Instagram accounts on inBeat.
-text_bottom: Our database has 19 Instagram influencers like this in Bali, Indonesia for you to collaborate.
+hits: 12
+text_top: See the most popular Instagram profiles on inBeat.
+text_bottom: Our platform has 12 Instagram influencers like this in Bali, Indonesia for you to connect with.
 profiles:
-  - username: "wearedesignassembly"
-    fullname: >-
-      D E S I G N   A S S E M B L Y
-    bio: >-
-      Architecture & Design Studio based in Bali Studio visits by appointment only
-    location: "Indonesia"
-    followers: 10322
-    engagement: 339
-    commentsToLikes: 0.010656
-    id: ck1347ovzv4dd0i193zivdl63
-    verified: false
-    hashtags: "#architecturephotography, #offplan, #architecturelovers, #dreamland"
-  - username: "steffisanta"
-    fullname: >-
-      Steffi Santa
-    bio: >-
-      🐿 Fashion Stylist @steffisantaswork / TikTok/Reels Producer (porto di IG highlight) Endorsement: 0878-8369-5662 (Cindy) 💌 steffisantas@gmail.com
-    location: "Indonesia"
-    followers: 13636
-    engagement: 327
-    commentsToLikes: 0.029745
-    id: ck8sx7vvzggci0j78zgcb3gwn
-    verified: false
-    hashtags: "#ootd, #outfits, #outfitinspo, #ootdindo"
-  - username: "ebi.ebie"
-    fullname: >-
-      Ebi Ebie | Home decor
-    bio: >-
-      🏡 LT/LB: 88/66m (2KT+1, 2KM) 🎥 D'sign Net, DAAITV, MendekorIndonesia 📷 Asrinesia, Tab.Rumah 🌐 IDNTimes Yg punya @kebunebi . http://y2u.be/Jfb6rkgYlSc
-    location: "Indonesia"
-    followers: 42303
-    engagement: 100
-    commentsToLikes: 0.174372
-    id: ck13ar3uprrc50i19d2zuevfr
-    verified: false
-    hashtags: "#idedekorasirumah, #gamirrorreflectiondecoration, #instahome, #endorsement"
   - username: "drg_diahnovi"
     fullname: >-
       diahnovi
@@ -55,30 +19,42 @@ profiles:
     id: ck8t501dg8eh90j78ivdbh0at
     verified: false
     hashtags: "#gamirrorreflectiondecoration, #giveaway, #homedecorloversid, #endorse"
-  - username: "nurrin_nurrinawati"
+  - username: "mochilamonkeys"
     fullname: >-
-      ɴᴜʀʀɪɴᴀᴡᴀᴛɪ
+      Content Creator | BALI
     bio: >-
-      🏡 member of homedecor bandung 🎍 member of upload diy bandung
+      Marco & Erika 🇩🇪 + 🇪🇨 #bali based with @latin.spirit contact@mochilamonkeys.com
     location: "Indonesia"
-    followers: 9531
-    engagement: 341
-    commentsToLikes: 0.311897
-    id: ck8t5048e8eqc0j78a1roxgpt
+    followers: 84723
+    engagement: 106
+    commentsToLikes: 0.061312
+    id: ck0u0k2onu1vg0i19s0mz1tt4
     verified: false
-    hashtags: "#inspirasirumah, #pojokfavorit, #dekorasirumah, #instadecor"
-  - username: "rumahputihabuabu"
+    hashtags: "#earthfocus, #travelnow, #traveldeeper, #wonderfulindonesia"
+  - username: "wearedesignassembly"
     fullname: >-
-      rumahputihabu2
+      D E S I G N   A S S E M B L Y
     bio: >-
-      🏠Dokumentasi putihabu2❤ 👩 yunita👨‍👩‍👧‍👧 By @yunita_widyartanti LT 105m2// LB145m2 Endorse/PP 🔛 DM Produk hdi @hdi_jatiasihbekasi Join member HDI ⬇️
+      Architecture & Design Studio based in Bali Studio visits by appointment only
     location: "Indonesia"
-    followers: 43444
-    engagement: 83
-    commentsToLikes: 0.203988
-    id: ck55odiq285j70i11o7ijy1qq
+    followers: 10636
+    engagement: 302
+    commentsToLikes: 0.015954
+    id: ck1347ovzv4dd0i193zivdl63
     verified: false
-    hashtags: "#rumahkecil, #dekorasi, #kamartidursederhana, #rumahimpian"
+    hashtags: "#furniture, #modernhouse, #interiordesign, #archinesia"
+  - username: "devvyherawati"
+    fullname: >-
+      Devvy Herawati
+    bio: >-
+      🏡 Homedecor #rumahnadhifara #rumahnadhifara2 Endorse ➡️ DM 🎥 T&T DAAI TV eps. 116, IDEA Rumah ⬇️Link Belanja⬇️
+    location: "Indonesia"
+    followers: 11226
+    engagement: 217
+    commentsToLikes: 0.169601
+    id: ck9we5x3liqy20j78pr72lsy3
+    verified: false
+    hashtags: "#diningroom, #inspirasirumahidaman, #ruangmakan, #rumahminimalis"
   - username: "edelmacrame"
     fullname: >-
       edelmac
@@ -103,28 +79,52 @@ profiles:
     id: ck0uabp7fbsqb0i198jsjidga
     verified: false
     hashtags: "#interiordesign, #futurevision, #futurebuilding, #sketchbook"
-  - username: "j_anandary"
+  - username: "tampahhills"
     fullname: >-
-      Jennifer Anandary | Travel Blogger
+      Tampah Hills
     bio: >-
-      travel 🧳• edit 🤳🏽• home decor 🛋 @studiohae_ @presetsbyanandary ✉️ hello@jenniferanandary.com 👇🏼 LINK👇🏼
+      A luxuriant villa resort experience – A sustainable entrepreneur hub – A unique investment opportunity 👇🏼 Join us in Tampah Hills Lombok 🇮🇩👇🏼
     location: "Indonesia"
-    followers: 83001
-    engagement: 96
-    commentsToLikes: 0.025058
-    id: ck0tu4zji5ntm0i19vukfuq8c
+    followers: 53527
+    engagement: 62
+    commentsToLikes: 0.004649
+    id: ck13ctb4321sv0i19mx8lnxt0
     verified: false
-    hashtags: "#wonderfulindonesia, #ayoliburan, #diindonesiaaja, #anandaryjakarta"
-  - username: "ruri_ferori"
+    hashtags: "#villaparadise, #vacation, #design, #interior"
+  - username: "dina_rafasya"
     fullname: >-
-      Inspirasi Rumah Mungil Cilla
+      Inspirasi Rumah Mungil
     bio: >-
-      Random Gallery 🏡home decor enthusiast 💌 DM for Endors/PP Ummi Cilla| ID indonesia| mferori wife Owner @cialiving
+      Wife n Mom Twin's Firsya & Fariel Rumah Sederhana Lt. 77 m2 hook🏡 Homedecorlovers Sukabumi Endorse / PP ➡ DM Just sharing n inspiration
     location: "Indonesia"
-    followers: 12675
-    engagement: 340
-    commentsToLikes: 0.188978
-    id: ck55odh8n85fh0i11vmm0xufx
+    followers: 7543
+    engagement: 577
+    commentsToLikes: 0.643422
+    id: ck55ocnjj83t30i11zd6q6x6c
     verified: false
-    hashtags: "#giveaway, #gatempatkuberdandan, #rumahminimalis, #giveawayindonesia"
+    hashtags: "#pojokfavorit, #rumahcantik, #bedroomideas, #dapurcantik"
+  - username: "susi.pudjiastuti_"
+    fullname: >-
+      Susi Pudjiastuti
+    bio: >-
+      Presdir PT ASI Pudjiastuti Marine Product | Susi Air | Mantan Menteri Perikanan Dan Kelautan RI 20014-2019 | 🌅 #Fansbase | #indonesiaberdaulat 🇮🇩
+    location: "Indonesia"
+    followers: 33481
+    engagement: 466
+    commentsToLikes: 0.055275
+    id: ckapazffmy1q90i78b0xmcxvx
+    verified: false
+    hashtags: "#petaniindonesia, #susipudjiastuti, #pengusaha, #pengusahaindonesia"
+  - username: "bwi.banget"
+    fullname: >-
+      Banyuwangi Banget Official
+    bio: >-
+      Semua tentang Banyuwangi 📸 View 📰 Berita ℹ️ Informasi 📋 Quote # 📍 Follow & tag @suara.idn 🤵 Brother @storybanyuwangi @banyuwangilagi
+    location: "Indonesia"
+    followers: 10970
+    engagement: 543
+    commentsToLikes: 0.003014
+    id: ck8t10f1fu05u0j7898tfepzr
+    verified: false
+    hashtags: "#gunungrantibanyuwangi, #pesonabudaya, #watudodolbeach, #indonesia"
 ---

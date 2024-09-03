@@ -1,11 +1,11 @@
 ---
-title: Top 10 Music TikTok Influencers In Belgium In 2023
+title: Top 10 Music TikTok Influencers In Belgium In 2024
 description: >-
-  Find top music TikTok influencers in Belgium in 2023. Most popular hashtags: #fyp #foryou #music #viral.
+  Find top music TikTok influencers in Belgium in 2024. Most popular hashtags: #fyp #foryou #music #viral.
 platform: TikTok
 hits: 48
-text_top: See the top-rated TikTok influencers on inBeat.
-text_bottom: Our search engine aggregates 48 TikTok influencers like this in Belgium for you to connect with.
+text_top: Identify the most popular TikTok influencers on inBeat.
+text_bottom: Our database holds 48 TikTok influencers like this in Belgium for you to contact.
 profiles:
   - username: "val23ch"
     fullname: >-
@@ -97,12 +97,12 @@ profiles:
     bio: >-
       Bonsoir non
     location: "Belgium"
-    followers: 21500
-    engagement: 1837
-    commentsToLikes: 0.047629
+    followers: 21000
+    engagement: 1834
+    commentsToLikes: 0.046895
     id: ckdi69yqo7mbe0j23mb45mnrs
     verified: false
-    hashtags: "#music, #piano, #pourtoi, #guitar"
+    hashtags: "#piano, #music, #pourtoi, #jojo"
   - username: "jyug0"
     fullname: >-
       Jyug0

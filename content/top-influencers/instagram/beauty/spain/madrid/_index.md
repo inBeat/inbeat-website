@@ -1,12 +1,36 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Madrid In 2023
+title: Top 10 Beauty Instagram Influencers In Madrid In 2024
 description: >-
-  Find top beauty Instagram influencers in Madrid in 2023. Most popular hashtags: #madrid #love #beauty #fashion.
+  Find top beauty Instagram influencers in Madrid in 2024. Most popular hashtags: #madrid #beauty #summer #photography.
 platform: Instagram
-hits: 167
-text_top: Discover the top-rated Instagram accounts on inBeat.
-text_bottom: Our platform holds 167 Instagram influencers like this in Madrid, Spain for you to collaborate.
+hits: 216
+text_top: Discover the most popular Instagram accounts on inBeat.
+text_bottom: inBeat has 216 Instagram influencers like this in Madrid, Spain for you to collaborate.
 profiles:
+  - username: "_estrellasolis"
+    fullname: >-
+      E S T R E L L A  ✨ S O L Í S
+    bio: >-
+      📍 : Madrid ✨ : Actriz • Presentadora • Streamer 📧 : holaestrellasolis@gmail.com 🔥 : PATRONADELMAL - código tienda Epic|Fortnite 🧿 . 🎬 . 🐶 . 🎮 . ✈️
+    location: "Spain"
+    followers: 71200
+    engagement: 117
+    commentsToLikes: 0.019124
+    id: ck5q0j6lh69330i118cku2nq3
+    verified: false
+    hashtags: "#actress, #twitch, #makeup, #photoshoot"
+  - username: "carolpitufina"
+    fullname: >-
+      𝐂𝐚𝐫𝐨𝐥𝐢𝐧𝐚 𝐋𝐨𝐩𝐞𝐳
+    bio: >-
+      📈 𝙰𝚁𝙴𝙰 𝙼𝙰𝙽𝙰𝙶𝙴𝚁 𝚁𝙴𝚃𝙰𝙸𝙻 👗👠 𝙳𝚎𝚜𝚌𝚞𝚋𝚛𝚒𝚎𝚗𝚍𝚘 𝚕𝚊 𝕸𝖆𝖌𝖎𝖆 🧙‍♀️ ✍️ 𝚖𝚒 𝚑𝚒𝚜𝚝𝚘𝚛𝚒𝚊 / ♏️🦂 ᗰᗩᗰᗩ ᗪƐ OᗷƖ 🐶 📍Buscando el mar 🌊 #PitufiExperiencia 💫
+    location: "Spain"
+    followers: 4764
+    engagement: 371
+    commentsToLikes: 0.066490
+    id: ck8tb8agwuoxi0j78hxkda1zl
+    verified: false
+    hashtags: "#frases, #happy, #universo, #paz"
   - username: "palomaszalai"
     fullname: >-
       🕊️
@@ -18,113 +42,89 @@ profiles:
     commentsToLikes: 0.117783
     id: ck6tk3maa3xte0j71siy0i687
     verified: false
-    hashtags: "#madridfoto, #sesiondefotosmadrid, #modelmadrid, #shootingmadrid"
-  - username: "yaniraruiz_"
+    hashtags: "#madridfoto, #madridmodelo, #modelomadrid, #streetstylemadrid"
+  - username: "carlotagrandeb"
     fullname: >-
-      Yanira Ruiz
+      CARLOTA
     bio: >-
-      👩🏼‍🦱 Bailarina/Dancer 🧘🏼‍♀️ YogaLover 📺 "Tu cara me suena" 👩🏼‍💻 @perfordance 📩 yanira@perfordance.com
+      Vigo-Madrid Beauty is in your soul✨🎈 Periodista Yt 🎥 51k Carlotagrandeb@gmail.com
     location: "Spain"
-    followers: 9528
-    engagement: 853
-    commentsToLikes: 0.068683
-    id: ck6u6i4ubfq7p0j71zvkjo6cx
+    followers: 26482
+    engagement: 377
+    commentsToLikes: 0.014286
+    id: clmst1t5qfmac0j08bz3aa902
     verified: false
-    hashtags: "#pregnant, #perfordance, #dancer, #pregnantphotography"
-  - username: "grehiliz"
+    hashtags: "#haulprimark, #pullandbearcommunity, #primarkhome"
+  - username: "aanaestebanb"
     fullname: >-
-      𝑮𝒓𝒆𝒉𝒊𝒍𝒊𝒛 Henriquez
+      Ana Esteban🧚🏼‍♀️
     bio: >-
-      🅿︎🆄🅱︎🅻🅸🅲🅸🅳🅰︎🅳-🅜🅞🅓🅔🅛🅞 ⚖️ 𝔄𝔟𝔬𝔤𝔞𝔡𝔞 🎤 𝔓𝔢𝔯𝔦𝔬𝔡𝔦𝔰𝔱𝔞 🎬𝔗.𝔖.𝔘 𝔐𝔢𝔡𝔦𝔬𝔰 𝔡𝔢.𝔭𝔯𝔬𝔡𝔲𝔠𝔠𝔦𝔬́𝔫 𝔢𝔫 𝔠𝔬𝔪𝔲𝔫𝔦𝔠𝔞𝔠𝔦𝔬́𝔫 𝔰𝔬𝔠𝔦𝔞𝔩 𝔓𝔯𝔢𝔰𝔦𝔡𝔢𝔫𝔱𝔞 @fundacionamorporvenezuela 🇻🇪📍🇪🇸
+      Madrid☀️ Beauty ambassador @pprimor 💄 📩 aanaestebanb1@gmail.com
     location: "Spain"
-    followers: 171244
-    engagement: 144
-    commentsToLikes: 0.116424
-    id: ck9wdf0x3fcwh0j7829eszab0
+    followers: 55118
+    engagement: 68
+    commentsToLikes: 0.004247
+    id: ck5c39k7jyuy00i11a0t8xt9z
     verified: false
-    hashtags: "#trip, #barcelona, #getxo, #areeta"
-  - username: "kattydacosta"
+    hashtags: "#pullandbearcommunity, #kitesurf, #tarifa, #tumbao"
+  - username: "claudiacruzgg"
     fullname: >-
-      Katherin Da costa
+      Claudia Cruz  | Madrid model
     bio: >-
-      Madrid Fashion & LifeStyle Blogger. 23. 📩 Dacostak.98@gmail.com Madrid📍. ⬇️Sigueme en ⬇️
+      📍currently in Madrid PR & Press @suite_agencia
     location: "Spain"
-    followers: 8336
-    engagement: 483
-    commentsToLikes: 0.016286
-    id: ck5hizi4jfqmc0i11kgy7ksub
+    followers: 12441
+    engagement: 360
+    commentsToLikes: 0.022993
+    id: ckw46hee4i2xy0j231dhb0n2u
     verified: false
-    hashtags: "#instafashion, #fun, #currentlywearing, #lookoftheday"
-  - username: "tania.rdg"
+    hashtags: "#contentcreator, #hairstyle, #hair, #fashion"
+  - username: "martamasi5"
     fullname: >-
-      𝑻𝑨𝑵𝑰𝑨 𝑹𝑶𝑫𝑹𝑰
+      MARTA MASI
     bio: >-
-      GAP🎓 𝑴𝒊𝒔𝒔 𝑮𝒐𝒍𝒅 𝑴𝒂𝒅𝒓𝒊𝒅 𝟮𝟬𝟮𝟭 Rumbo a @missgoldspain @seahostbcn
+      💕Soy Farmacéutica, sígueme y descubre cómo cuidarte Co-founder del Club de la Menopausia💪 📍MM Madrid (Glorieta de Bilbao con Sagasta 4,28004Madrid)
     location: "Spain"
-    followers: 10700
-    engagement: 590
-    commentsToLikes: 0.162763
-    id: ck5hr3uo2u7ys0i11ntw0a7bv
+    followers: 200197
+    engagement: 72
+    commentsToLikes: 0.204267
+    id: ck0ublczmes360i19v8cky2jk
     verified: false
-    hashtags: "#strong, #workout, #healthy, #fitnessmodel"
-  - username: "portimismo"
+    hashtags: "#mujer, #martamasi, #mmmadrid, #madrid"
+  - username: "ainhoa_martin_"
     fullname: >-
-      Portimismo (Jen) 👩🏻♻️
+      Ainhoa Martin • 𝐓𝐫𝐚𝐯𝐞𝐥✛𝐅𝐚𝐬𝐡𝐢𝐨𝐧
     bio: >-
-      ❤Recetas fáciles #fit 🍴Los JUEVES te Reto Cooking (destacado RETOS) 📌Lugares y productos de moda ✈️VIAJES diferentes! 👪Mamá #japanlover 💌Colab
+      𝐌𝐚𝐝𝐞 𝐢𝐧 𝐁𝐚𝐫𝐜𝐞𝐥𝐨𝐧𝐚,𝐒𝐩𝐚𝐢𝐧 ✮𝐌𝐨𝐝𝐞𝐥 & 𝐓𝐫𝐚𝐯𝐞𝐥𝐞𝐫✮ 𝐍𝐞𝐰 𝐘𝐨𝐫𝐤 𝐋𝐨𝐯𝐞𝐫♡ ➳ 𝑴𝑨𝑫𝑹𝑰𝑫
     location: "Spain"
-    followers: 9370
-    engagement: 827
-    commentsToLikes: 0.521784
-    id: ckapcpw254q4w0i78s6ozn6k6
+    followers: 8475
+    engagement: 517
+    commentsToLikes: 0.168648
+    id: ck14li87put3e0i19hathoaz1
     verified: false
-    hashtags: "#recetassaludables, #premio, #desayunosaludable, #snacksaludable"
-  - username: "anushkatuska"
+    hashtags: "#hairdressing, #bridalmakeup, #modelphotoshoot, #portrait"
+  - username: "ivanbermejo"
     fullname: >-
-      ANA SÁNCHEZ GALINDO
+      Iván Bermejo
     bio: >-
-      #MOMTOBE 🤰🏽✨✨ 🐣NOLAN💛27 semanas 📍Madrid / Salamanca ⚡️Fashion, beauty, lifestyle & more... 📩anasanchezgalindo@gmail.com
+      ¿Y por qué no? Madrid📍
     location: "Spain"
-    followers: 90168
-    engagement: 173
-    commentsToLikes: 0.062664
-    id: ck6tvayyel6rq0j71gl33pxcn
+    followers: 2939
+    engagement: 1162
+    commentsToLikes: 0.031766
+    id: ckap0cyckpswj0i78df1brqtq
     verified: false
-    hashtags: "#picture, #me, #beautiful, #instagood"
-  - username: "claucienfuegos"
+    hashtags: "#instagood, #madrid, #love, #puestadesol"
+  - username: "myperfectshopper"
     fullname: >-
-      Claudia Cienfuegos ✨
+      Txell Carre
     bio: >-
-      🧜🏻‍♀️Serendipity 🗺 •BEAUTY•LIFESTYLE•TRAVELS 📍#Madrid. •🖥CEO @cienfuegosmarketing 📩cluscornerblog@gmail.com ⬇️Mi web
+      UGC | LIFESTYLE La coach de estilo y personal shopper! ESTILO | MODA | LIFESTYLE Te ayudo a transformar tu estilo con mis asesorías
     location: "Spain"
-    followers: 35004
-    engagement: 164
-    commentsToLikes: 0.100296
-    id: ck55nf1va62iu0i113hkvoya5
+    followers: 174587
+    engagement: 81
+    commentsToLikes: 0.031540
+    id: clp24fbgpcb0n0j08dwfv5hmw
     verified: false
-    hashtags: "#zaraoutfit, #bloggermadrid, #latina, #influencermadrid"
-  - username: "maikshine"
-    fullname: >-
-      Mai | MAIKSHINE blog |
-    bio: >-
-      ☀Fashion, beauty & lifestyle blogger☀ 🌍Madrid ✈️ San Sebastián 📩maikshine.blog@gmail.com 👇🆕 BLOG POST 👇 Tónicos CosRX
-    location: "Spain"
-    followers: 14074
-    engagement: 482
-    commentsToLikes: 0.089066
-    id: ck8tcvwbv0vy40j78xbmzckds
-    verified: false
-    hashtags: "#moda, #love, #igersmadrid, #yesstylereview"
-  - username: "angelina_kidsmodelss"
-    fullname: >-
-      ".ᎯℕᎶℰℒℐℕᎯ . ¸.•*(¸.•*´♥`*•.¸)
-    bio: >-
-      𝑨𝒈𝒆𝒏𝒄𝒚: @happykidsmodels https://juniorstyle.net/editorial-streets-sky-julia-kabelsalat/
-    location: "Spain"
-    followers: 7521
-    engagement: 557
-    commentsToLikes: 0.147169
-    id: ck15u6staloyr0i19zbex1kbo
-    verified: false
-    hashtags: "#love, #kidstyle, #madrid, #happy"
+    hashtags: "#estilo, #mujer, #summer, #fashion"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Mothers TikTok Influencers In Italy In 2023
+title: Top 10 Mothers TikTok Influencers In Italy In 2024
 description: >-
-  Find top mothers TikTok influencers in Italy in 2023. Most popular hashtags: #duetto #perte #viral #fyp.
+  Find top mothers TikTok influencers in Italy in 2024. Most popular hashtags: #duetto #perte #greenscreen #fyp.
 platform: TikTok
-hits: 36
-text_top: Discover the top-rated TikTok influencers on inBeat.
-text_bottom: Our platform has 36 TikTok influencers like this in Italy for you to work with.
+hits: 35
+text_top: Analyze the best TikTok profiles on inBeat.
+text_bottom: Our platform holds 35 TikTok influencers like this in Italy for you to pitch.
 profiles:
   - username: "rainbowsoul.4"
     fullname: >-
@@ -31,18 +31,6 @@ profiles:
     id: ck8ron9v0ia6k0j781s2v9i85
     verified: true
     hashtags: "#woa, #lol, #jerusalemachallenge, #changes"
-  - username: "lorenzo.azzolini"
-    fullname: >-
-      BROCK
-    bio: >-
-      Brock🥦 CEO of Madre - Figlio Dancer and teacher🕺🏻 IG: lorenzo_brock_
-    location: "Italy"
-    followers: 293500
-    engagement: 726
-    commentsToLikes: 0.011236
-    id: ck8f8oajz3k8w0j78sncdv26k
-    verified: false
-    hashtags: "#fy, #motherandson, #brock, #perte"
   - username: "frieza_freezypop"
     fullname: >-
       Frieza_Freezypop
@@ -127,4 +115,16 @@ profiles:
     id: ckavk0pi4srj80j23kyse3omy
     verified: false
     hashtags: "#kakegurui, #midari, #duetto, #greenscreen"
+  - username: "francescamurgiaa"
+    fullname: >-
+      Franci
+    bio: >-
+      🏖Cagliari
+    location: "Italy"
+    followers: 4628
+    engagement: 1326
+    commentsToLikes: 0.034247
+    id: cka6bt08m1ltj0i78wcs9aomn
+    verified: false
+    hashtags: "#doubleyourimpact, #crush, #foryou, #perte"
 ---

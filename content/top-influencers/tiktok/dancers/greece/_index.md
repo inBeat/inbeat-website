@@ -1,11 +1,11 @@
 ---
-title: Top 10 Dancers TikTok Influencers In Greece In 2023
+title: Top 10 Dancers TikTok Influencers In Greece In 2024
 description: >-
-  Find top dancers TikTok influencers in Greece in 2023. Most popular hashtags: #fyp #foryou #viral #foryoupage.
+  Find top dancers TikTok influencers in Greece in 2024. Most popular hashtags: #fyp #viral #tiktokgreece #foryou.
 platform: TikTok
-hits: 14
-text_top: Discover the top-rated TikTok profiles on inBeat.
-text_bottom: Our platform aggregates 14 TikTok influencers like this in Greece for you to connect with.
+hits: 15
+text_top: Analyze the most popular TikTok accounts on inBeat.
+text_bottom: Our database aggregates 15 TikTok influencers like this in Greece for you to connect with.
 profiles:
   - username: "anastasiagiousef.real"
     fullname: >-
@@ -25,12 +25,12 @@ profiles:
     bio: >-
       Twins! Dancers-Choreographers!Greeks🇬🇷SYTYCD winners ! Gr Got Talent finalists
     location: "Greece"
-    followers: 262600
-    engagement: 1486
-    commentsToLikes: 0.032150
+    followers: 271300
+    engagement: 1252
+    commentsToLikes: 0.022371
     id: ck9gko8ahki6r0j784wfosjia
     verified: false
-    hashtags: "#featureme, #twins, #tiktokgreece, #twinsisters"
+    hashtags: "#twinsisters, #tiktokdance, #newdance, #viral"
   - username: "anastasia.giousef"
     fullname: >-
       Αναστασία Γιούσεφ

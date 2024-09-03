@@ -1,60 +1,60 @@
 ---
-title: Top 10 Health Instagram Influencers In Berlin In 2023
+title: Top 10 Health Instagram Influencers In Berlin In 2024
 description: >-
-  Find top health Instagram influencers in Berlin in 2023. Most popular hashtags: #berlin #health #fitness #gesundheit.
+  Find top health Instagram influencers in Berlin in 2024. Most popular hashtags: #berlin #healthy #health #gesundheit.
 platform: Instagram
-hits: 149
-text_top: Identify the best Instagram influencers on inBeat.
-text_bottom: inBeat aggregates 149 Instagram influencers like this in Berlin, Germany for you to contact.
+hits: 180
+text_top: Discover the most popular Instagram influencers on inBeat.
+text_bottom: Our search engine aggregates 180 Instagram influencers like this in Berlin, Germany for you to work with.
 profiles:
-  - username: "fl1nsta"
+  - username: "glitterandfries"
     fullname: >-
-      🌎 • 3️⃣3️⃣ • 🚶🏻Flo
+      Anja | visual diary
     bio: >-
-      
+      Let’s ✨glow✨ together well-being | food | wellness and health Berlin based law student 💌 to glitterandfries@gmx.de
     location: "Germany"
-    followers: 54767
-    engagement: 308
-    commentsToLikes: 0.011032
-    id: ck15u5loaliro0i19cy5q2qeu
+    followers: 46054
+    engagement: 337
+    commentsToLikes: 0.014606
+    id: clcuv3ue23krc0j08gjacowsp
     verified: false
-    hashtags: "#travel, #smile, #style, #glasses"
-  - username: "sylvia_walker"
+    hashtags: "#selfcarereminder, #studieren, #mentalhealth, #reminder"
+  - username: "leonard.freier"
     fullname: >-
-      Sylvia Walker
+      Leonard Freier
     bio: >-
-      👉TV Moderatorin|Sport|Mother of 👧🏼 and 2🐶 📩 k.biermann@signumpr.de Social Media 📧hello@sylviawalker.de 👍http://bit.ly/SylviasShowreel
+      Bachelor 2016, Host @budgetbattle_official , @shoppingqueen.vox , 3rd Dance Dance Dance , Ambassador @kia_motors_deutschland , Entrepreneur & Investor
     location: "Germany"
-    followers: 95089
-    engagement: 203
-    commentsToLikes: 0.031573
-    id: ck5hm963flj370i11v9wjgfqw
+    followers: 64232
+    engagement: 107
+    commentsToLikes: 0.067785
+    id: ck14k2djcndvn0i19nc5xpmba
     verified: true
-    hashtags: "#sylviawalker, #besttime, #vacation, #croatia"
-  - username: "jensspahn"
+    hashtags: "#startup, #bodybuilding, #ma, #gemeinsamgegencorona"
+  - username: "alexavonheyden"
     fullname: >-
-      Jens Spahn
+      Alexa von Heyden
     bio: >-
-      🇩🇪 Bundesminister für Gesundheit ▫️ Mitglied des Deutschen Bundestages ▫️ Stv. Vorsitzender der @cdu ▫️ Westmünsterländer 💬 Team Spahn (TS)
+      Journalistin | Bestseller-Autorin | Podcasterin | Real Talk | Gesundes Leben, Mental Health & Salat 📌 Berlin + BRB 🏡 @villapeng
     location: "Germany"
-    followers: 144397
-    engagement: 138
-    commentsToLikes: 0.316789
-    id: ck0twaf6nemdq0i19q5m6ssl9
+    followers: 34204
+    engagement: 146
+    commentsToLikes: 0.033724
+    id: ckf5njuvmyj750j2340sp7u6g
     verified: true
-    hashtags: "#impfung, #coronapandemie, #zusammengegencorona, #impfstoff"
-  - username: "lauralamode"
+    hashtags: "#universityofale, #diebestebettw, #eschenhofsputendorf, #reiteninbrandenburg"
+  - username: "marisa_dittrich"
     fullname: >-
-      𝐋𝐀𝐔𝐑𝐀. 𝐛𝐥𝐨𝐠𝐠𝐞𝐫 𝐟𝐫𝐨𝐦 𝐛𝐞𝐫𝐥𝐢𝐧.
+      🇩🇪 GERMANY | Allgäu
     bio: >-
-      𝐅𝐈𝐓𝐍𝐄𝐒𝐒. 𝐋𝐈𝐅𝐄𝐒𝐓𝐘𝐋𝐄. 𝐖𝐎𝐑𝐊𝐎𝐔𝐓𝐒. 𝐅𝐀𝐒𝐇𝐈𝐎𝐍. ☽ 𝚒𝚗𝚏𝚘@𝚕𝚊𝚞𝚛𝚊𝚕𝚊𝚖𝚘𝚍𝚎.𝚍𝚎 ☽ 𝚏𝚘𝚘𝚍 𝚊𝚌𝚌𝚘𝚞𝚗𝚝: @lauralovesfitfood ☽ 𝚌𝚊𝚗𝚌𝚎𝚛 𝚏𝚒𝚐𝚑𝚝𝚎𝚛 🎗 𝙷𝚘𝚍𝚐𝚔𝚒𝚗'𝚜 𝙻𝚢𝚖𝚙𝚑𝚘𝚖𝚊
+      📍 Kempten, Bayern 💃🏻 Modelagency in: 🇩🇪🇦🇹🇮🇹🇪🇦 📩 Request per DM: only pay no tfp
     location: "Germany"
-    followers: 44770
-    engagement: 82
-    commentsToLikes: 0.078629
-    id: ck0vzukrqaz1w0i195ybx528c
+    followers: 9114
+    engagement: 703
+    commentsToLikes: 0.057601
+    id: ck6u9ptv1yxup0j71hukdcnb7
     verified: false
-    hashtags: "#munichblogger, #abvdchemo, #beautyproducts, #fitness"
+    hashtags: "#bayern, #photography, #commercial, #sport"
   - username: "twovegayngirls"
     fullname: >-
       LAURA & FABI ⋒
@@ -66,7 +66,7 @@ profiles:
     commentsToLikes: 0.068503
     id: ckf5l0fq6nw9f0j2370ndbxqz
     verified: false
-    hashtags: "#mylove, #gaygirls, #christmaswish, #december"
+    hashtags: "#lesbianlove, #gaygirlgang, #equalityforall, #wlwpride"
   - username: "nadine__gina"
     fullname: >-
       Nadine-Personaltrainer-Berlin
@@ -103,28 +103,28 @@ profiles:
     id: ck8t6gtg4dkwb0j78tin6ph00
     verified: false
     hashtags: "#caloriecounting, #hclf, #kalorienarm, #einfacherezepte"
-  - username: "sarah_schiller_"
+  - username: "joana_health"
     fullname: >-
-      Sarah
+      Joana Link
     bio: >-
-      Fitness • Food • Lifestyle 📍from Cottbus | living in Berlin Glücklich vergeben. ♥️
+      🥔 B E R L I N 💫 Mental Health, Food & Fitness 🌻 #balance Mail: joana_health@foryouagency.de
     location: "Germany"
-    followers: 9471
-    engagement: 1267
-    commentsToLikes: 0.027930
-    id: ck8t9m43qol4j0j78e1w5umtl
+    followers: 79421
+    engagement: 327
+    commentsToLikes: 0.017476
+    id: clmizkry1ircb0j08yft5ktma
     verified: false
-    hashtags: "#shape, #me, #berlin, #instafit"
-  - username: "holababz"
+    hashtags: "#curacao, #balance, #berlin, #goldie"
+  - username: "liz.kova"
     fullname: >-
-      H O L A B A B Z
+      Elizaveta Kovalenko
     bio: >-
-      📍 Berlin | 28 💫 she who dares, wins. #puravida 🌴 💕 @bumbum @rockanutrition 🔍werbung/ Impressum 🛒 ⤵️
+      Mom of 4 ❤️ Travel ✈️ Lifestyle🌸 Alternative medicine🌿 Construction🏗️ 📍Berlin
     location: "Germany"
-    followers: 65022
-    engagement: 142
-    commentsToLikes: 0.052957
-    id: ck0vuytvxmro20i19asdlftnq
+    followers: 215080
+    engagement: 309
+    commentsToLikes: 0.022679
+    id: ckap4bn7e6ma40i78gduz5xhq
     verified: false
-    hashtags: "#snow, #berlin, #carmushka, #mehrlieben"
+    hashtags: "#reisen, #jungle, #alternativemedicine, #wildlife"
 ---

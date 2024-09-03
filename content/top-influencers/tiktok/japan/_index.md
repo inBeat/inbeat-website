@@ -1,11 +1,11 @@
 ---
-title: Top 10 TikTok Influencers In Japan In 2023
+title: Top 10 TikTok Influencers In Japan In 2024
 description: >-
-  Find top TikTok influencers in Japan in 2023. Most popular hashtags: #fyp #duet #felix.
+  Find top TikTok influencers in Japan in 2024. Most popular hashtags: #fyp #foryou #felix.
 platform: TikTok
 hits: 1154
-text_top: Identify the best TikTok profiles on inBeat.
-text_bottom: Our database has 1154 TikTok influencers like this in Japan for you to work with.
+text_top: Discover the most popular TikTok influencers on inBeat.
+text_bottom: Our search engine aggregates 1154 TikTok influencers like this in Japan for you to contact.
 profiles:
   - username: "hina_yshr"
     fullname: >-
@@ -114,7 +114,7 @@ profiles:
     commentsToLikes: 0.021599
     id: ckcejo9vksmzu0j238cnqpazy
     verified: true
-    hashtags: "#letsnacho, #bandidachallenge, #muriyari, #wapchallenge"
+    hashtags: "#fyp, #letsnacho, #tomachallenge, #foryoupage"
   - username: "onenonly_tokyo"
     fullname: >-
       ONE N' ONLY/ワンエンオンリー

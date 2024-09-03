@@ -1,11 +1,11 @@
 ---
-title: Top 10 Makeup TikTok Influencers In Portugal In 2023
+title: Top 10 Makeup TikTok Influencers In Portugal In 2024
 description: >-
-  Find top makeup TikTok influencers in Portugal in 2023. Most popular hashtags: #makeup #fyp #foryou #trend.
+  Find top makeup TikTok influencers in Portugal in 2024. Most popular hashtags: #makeup #fyp #foryou #portugal.
 platform: TikTok
 hits: 26
-text_top: See the top-rated TikTok influencers on inBeat.
-text_bottom: Our platform aggregates 26 TikTok influencers like this in Portugal for you to connect with.
+text_top: Analyze the most popular TikTok accounts on inBeat.
+text_bottom: Our database aggregates 26 TikTok influencers like this in Portugal for you to contact.
 profiles:
   - username: "yasminlaleska"
     fullname: >-
@@ -78,7 +78,7 @@ profiles:
     commentsToLikes: 0.005514
     id: cka6nwrfkd5ft0i782ax1h0xa
     verified: false
-    hashtags: "#fyp, #viral, #makeup, #anime"
+    hashtags: "#alt, #cocoandeve, #anime, #hudabeauty"
   - username: "kimkardashian.westt"
     fullname: >-
       Kim Kardashian

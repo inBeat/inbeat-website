@@ -1,11 +1,11 @@
 ---
-title: Top 10 Models TikTok Influencers In Indonesia In 2023
+title: Top 10 Models TikTok Influencers In Indonesia In 2024
 description: >-
-  Find top models TikTok influencers in Indonesia in 2023. Most popular hashtags: #fyp #model #foryoupage #duet.
+  Find top models TikTok influencers in Indonesia in 2024. Most popular hashtags: #fyp #model #foryoupage #makeup.
 platform: TikTok
 hits: 15
-text_top: See the top-rated TikTok influencers on inBeat.
-text_bottom: Our database holds 15 TikTok influencers like this in Indonesia for you to pitch.
+text_top: See the top-rated TikTok profiles on inBeat.
+text_bottom: inBeat has 15 TikTok influencers like this in Indonesia for you to collaborate.
 profiles:
   - username: "pmanagement"
     fullname: >-

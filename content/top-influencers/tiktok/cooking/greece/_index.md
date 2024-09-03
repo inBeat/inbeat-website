@@ -1,11 +1,11 @@
 ---
-title: Top 10 Cooking TikTok Influencers In Greece In 2023
+title: Top 10 Cooking TikTok Influencers In Greece In 2024
 description: >-
-  Find top cooking TikTok influencers in Greece in 2023. Most popular hashtags: #fyp #foryou #foryoupage #cooking.
+  Find top cooking TikTok influencers in Greece in 2024. Most popular hashtags: #foryou #fyp #foryoupage #cooking.
 platform: TikTok
 hits: 13
-text_top: See the best TikTok profiles on inBeat.
-text_bottom: inBeat aggregates 13 TikTok influencers like this in Greece for you to contact.
+text_top: Analyze the top-rated TikTok influencers on inBeat.
+text_bottom: Our search engine aggregates 13 TikTok influencers like this in Greece for you to contact.
 profiles:
   - username: "spyros_n"
     fullname: >-
@@ -54,7 +54,7 @@ profiles:
     commentsToLikes: 0.179115
     id: ckbabf7fe40gn0j231a599f8n
     verified: false
-    hashtags: "#bookclub, #foryoupage, #glossier, #upclose"
+    hashtags: "#houseoftiktok, #upclose, #grwm, #foryoupage"
   - username: "dimitris_mall"
     fullname: >-
       Dimitris Mall 😎
@@ -102,7 +102,7 @@ profiles:
     commentsToLikes: 0.012485
     id: ck80of4mlhg1r0j786iaxr50w
     verified: true
-    hashtags: "#foryou, #comedy, #model, #boredvibes"
+    hashtags: "#foryou, #boredvibes, #wlyg, #fyp"
   - username: "akis_petretzikis"
     fullname: >-
       Akis Petretzikis

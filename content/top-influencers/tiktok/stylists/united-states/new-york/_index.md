@@ -1,11 +1,11 @@
 ---
-title: Top 10 Stylists TikTok Influencers In New York In 2023
+title: Top 10 Stylists TikTok Influencers In New York In 2024
 description: >-
-  Find top stylists TikTok influencers in New York in 2023. Most popular hashtags: #ootd #fyp #fashion #style.
+  Find top stylists TikTok influencers in New York in 2024. Most popular hashtags: #ootd #style #fashion #fyp.
 platform: TikTok
-hits: 10
-text_top: Analyze the top-rated TikTok profiles on inBeat.
-text_bottom: Our search engine holds 10 TikTok influencers like this in New York, United States for you to connect with.
+hits: 9
+text_top: Analyze the best TikTok influencers on inBeat.
+text_bottom: Our database aggregates 9 TikTok influencers like this in New York, United States for you to work with.
 profiles:
   - username: "popsikleshop"
     fullname: >-
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.046273
     id: ck8j6dpek9eup0j78f3ts2nvb
     verified: true
-    hashtags: "#newyorkcity, #unboxing, #nails, #fashiontok"
+    hashtags: "#springfashion2021, #newyorkcity, #fashiontok, #styleicon"
   - username: "russiaancream"
     fullname: >-
       САНЯ 222
@@ -54,7 +54,7 @@ profiles:
     commentsToLikes: 0.015327
     id: ck8nf4stlq7rz0j78gtouc5xn
     verified: false
-    hashtags: "#fashion, #newyork, #friends, #nobullying"
+    hashtags: "#nostalgia, #fashion, #newyork, #ootd"
   - username: "ageorama"
     fullname: >-
       Adrienne Reau
@@ -66,19 +66,7 @@ profiles:
     commentsToLikes: 0.012764
     id: ck9jvmpn0swur0j78gbrz8ry7
     verified: false
-    hashtags: "#ootd, #haul, #stylish, #ad"
-  - username: "lyonsfeel"
-    fullname: >-
-      Lyons Feel
-    bio: >-
-      outfits, fashion history, and such 21, NYC
-    location: "United States"
-    followers: 20300
-    engagement: 1519
-    commentsToLikes: 0.023221
-    id: ckacgng6mvv230i78sh6kcssp
-    verified: false
-    hashtags: "#emojioutfitchallenge, #fashion, #pinterestoutfit, #college"
+    hashtags: "#ootd, #ad, #haul, #y2k"
   - username: "tyseemarie"
     fullname: >-
       Tys
@@ -90,7 +78,7 @@ profiles:
     commentsToLikes: 0.018153
     id: ck9dyej4qwz2a0j78oggtajqt
     verified: false
-    hashtags: "#swim, #swimwear, #provewhatspossible, #puertorico"
+    hashtags: "#ootd, #provewhatspossible, #newyorkcheck, #fashion"
   - username: "itshuyennguyen"
     fullname: >-
       Huyen Nguyen | NYC
@@ -102,7 +90,7 @@ profiles:
     commentsToLikes: 0.045216
     id: ckdbspcxxclpo0j2348ud9z0c
     verified: false
-    hashtags: "#fashion, #nyc, #greenscreen, #greenscreenvideo"
+    hashtags: "#nyc, #greenscreenvideo, #greenscreen, #fashion"
   - username: "prestonkonrad"
     fullname: >-
       prestonkonrad
@@ -114,7 +102,7 @@ profiles:
     commentsToLikes: 0.027654
     id: ck9k6x6qf2mvc0j782o98k4ac
     verified: false
-    hashtags: "#interiordecor, #goforthehandful, #decorhome, #diyhomedecor"
+    hashtags: "#getcrocd, #hometips, #decor, #apartmentdecor"
   - username: "sandhyapraveen19"
     fullname: >-
       Sandhya Praveen
@@ -126,5 +114,17 @@ profiles:
     commentsToLikes: 0.591705
     id: ckd6whzfcsbvr0j23ops3oydn
     verified: false
-    hashtags: "#telugu, #foryoupage, #loveyou, #bangalore"
+    hashtags: "#telugu, #loveyou, #hindi, #usa"
+  - username: "gramacarolyn"
+    fullname: >-
+      GramaCarolyn
+    bio: >-
+      gramaof3 momof2 hubby42yrs ColorStreet Stylist 💅 #lovegrama 🦄💜 Do you!
+    location: "United States"
+    followers: 29700
+    engagement: 1409
+    commentsToLikes: 0.147461
+    id: ckach281rxlwa0i782m7fh0i3
+    verified: false
+    hashtags: "#drinkresponsibly, #doyou, #danceinpublic, #fabulousat60"
 ---

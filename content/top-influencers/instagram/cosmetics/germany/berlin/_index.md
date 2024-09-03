@@ -1,60 +1,60 @@
 ---
-title: Top 10 Cosmetics Instagram Influencers In Berlin In 2023
+title: Top 10 Cosmetics Instagram Influencers In Berlin In 2024
 description: >-
-  Find top cosmetics Instagram influencers in Berlin in 2023. Most popular hashtags: #love #berlin #makeup #instagood.
+  Find top cosmetics Instagram influencers in Berlin in 2024. Most popular hashtags: #beauty #berlin #makeup #blogger.
 platform: Instagram
-hits: 65
-text_top: Analyze the top-rated Instagram profiles on inBeat.
-text_bottom: Our database aggregates 65 Instagram influencers like this in Berlin, Germany for you to contact.
+hits: 82
+text_top: Identify the best Instagram profiles on inBeat.
+text_bottom: Our database holds 82 Instagram influencers like this in Berlin, Germany for you to work with.
 profiles:
-  - username: "reissmannevelyn"
+  - username: "alexa_zeitel"
     fullname: >-
-      Evelyn Reißmann
+      𝘼𝙡𝙚𝙭𝙖. 𝓈𝒽ℯ/𝒽ℯ𝓇
     bio: >-
-      Bestagermodel 🙋‍♀️ Miss50plusgermany 2019 Mother👩‍❤️‍👩
+      •📍𝓒𝓸𝓵𝓸𝓰𝓷𝓮 /𝓑𝓮𝓻𝓵𝓲𝓷 /𝓛𝓸𝓷𝓭𝓸𝓷 • 💌 ~> 𝔻𝕞 𝕗𝕠𝕣 ℂ𝕠𝕝𝕝𝕒𝕓𝕠𝕣𝕒𝕥𝕚𝕠𝕟 𝕠𝕣 𝕧𝕚𝕒 𝔼-𝕄𝕒𝕚𝕝
     location: "Germany"
-    followers: 39223
-    engagement: 887
-    commentsToLikes: 0.066961
-    id: ck8t26tg1yctg0j78wfmfyfpy
+    followers: 134298
+    engagement: 388
+    commentsToLikes: 0.011021
+    id: ck9wezlcymlmc0j78htdxxg5m
     verified: false
-    hashtags: "#agelesswomen, #bestagermodel50plus, #valentinstag, #woman"
-  - username: "_anna_geddes_"
+    hashtags: "#blackarm, #love, #regalrose, #stomachtattoo"
+  - username: "charlottjosefin"
     fullname: >-
-      Anna Prohodski
+      Charlott Josefin - Model | Coach | Podcasterin
     bio: >-
-      #MRSDeutschland 2020/21🇩🇪🏆 #MRS.#sachsenanhalt 2019/2020⚜️💍 🇩🇪🇷🇺🇬🇧 #missdeutschland #influencer #model#travel#beauty#gourmet #business : direct 📩
+      💫 Ich helfe dir bei der Selbstvermarktung als Model 📸 Als Model arbeiten auch ohne Agentur ⬇️ Klick hier für dein kostenloses Erstgespräch
     location: "Germany"
-    followers: 212601
-    engagement: 250
-    commentsToLikes: 0.080489
-    id: ckapckcwa468w0i78ywoyzusg
+    followers: 14389
+    engagement: 77
+    commentsToLikes: 0.019621
+    id: ck6uaicz93q0r0j713yvadv4o
     verified: false
-    hashtags: "#mrsdeutschland2020, #mrsdeutschland, #missdeutschland, #fashionstyle"
-  - username: "valentinavapaux"
+    hashtags: "#modelfood, #modeltips, #modelcoach, #modelberlin"
+  - username: "newfacesbeauty"
     fullname: >-
-      val
+      Pro MakeUp Artist&Hairstylist
     bio: >-
-      🩰poet & writer ⛲️mexican german fairy @avecnousmgmt
+      ▫️ Work in Berlin|Dubai|Doha|Riyadh|Cairo ▫️ Salon : Brandenburgische Str.39 | 10707 Berlin ▫️ Tel. : +49 163 82 950 75📲
     location: "Germany"
-    followers: 93453
-    engagement: 907
-    commentsToLikes: 0.002244
-    id: ck5btrjchgh3p0i113d8zccy4
+    followers: 111723
+    engagement: 287
+    commentsToLikes: 0.035857
+    id: ck6tid57y0hot0j71opsf47wy
     verified: false
-    hashtags: "#turnuptheheat, #everyloveistruelove, #reels, #keyssoulcarexdouglas"
-  - username: "melissa.swz"
+    hashtags: "#cairomakeupartist, #berlinmakeupartist, #istanbul, #anastasiabeverlyhills"
+  - username: "miss.puschinella"
     fullname: >-
-      Melissa Schwarz
+      𝐒𝐭𝐞𝐟𝐟𝐢 • 𝐁𝐞𝐚𝐮𝐭𝐲 | 𝐋𝐢𝐟𝐞𝐬𝐭𝐲𝐥𝐞 | 𝐅𝐨𝐨𝐝 | 𝐅𝐚𝐬𝐡𝐢𝐨𝐧
     bio: >-
-      ᐯOᗰ ᗷᗩᑌᗴᖇᑎTᖇᗩᗰᑭᗴᒪ 𓃟 ᘔᑌᗰ ᗰOᗪᗴᒪ 𖨆 ⚠️ Wette verloren ~ jetzt bin ich Model 😳⚠️ Begleitet mich und lasst mir gern ein Feedback da. 💭
+      📍Ostfriesland 🐑 Content Creator 💌 for collabs: steffis_testwelt@yahoo.com @shape_republic 15% miss.puschinella @manifix.official 25% miss.puschinella
     location: "Germany"
-    followers: 13804
-    engagement: 956
-    commentsToLikes: 0.094029
-    id: ck0u61pot0poj0i19a8gj5jt6
+    followers: 23739
+    engagement: 333
+    commentsToLikes: 0.034628
+    id: clmugd0v0kpim0j08u3c4ho5v
     verified: false
-    hashtags: "#modellife, #wakeup, #herbst, #herbstshooting"
+    hashtags: "#style, #blogger, #ootd, #unbezahlt"
   - username: "mxs.cavallero"
     fullname: >-
       Jessyca ♥
@@ -66,7 +66,7 @@ profiles:
     commentsToLikes: 0.094666
     id: ckaorf8gcmxyr0i783x46p6gn
     verified: false
-    hashtags: "#breakdown, #geminiseason, #acting, #actingchallenge"
+    hashtags: "#sad, #happy, #staytoxic, #geminiseason"
   - username: "mo.ciftci"
     fullname: >-
       Mo
@@ -78,53 +78,53 @@ profiles:
     commentsToLikes: 0.065260
     id: ck5c196shup3d0i1107dd0vz0
     verified: false
-    hashtags: "#blogger, #cute, #lips, #germany"
-  - username: "pialorenaa"
+    hashtags: "#goodtime, #brush, #beautiful, #beautygirl"
+  - username: "frau_dr_buschmann"
     fullname: >-
-      LORENA TRAVEL FASHION BEAUTY
+      Dr. Alexandra Buschmann
     bio: >-
-      👸🏻LORENA ⚓️HH | Berlin 💃🏻Latina ⠀⠀⠀⠀⠀⠀⠀⠀⠀ contact 💌 lorena@insocial-media.com
+      🎖board certified Plastic Surgeon 📍Berlin, Kurfürstendamm 📞 03088928536 👩🏻‍⚕️Expertin Brust, Bauch, Korrekturen, Bodycontouring, Face modeling
     location: "Germany"
-    followers: 102158
-    engagement: 309
-    commentsToLikes: 0.117751
-    id: ck13cdguyzte80i19v54jfuzi
+    followers: 11722
+    engagement: 467
+    commentsToLikes: 0.074911
+    id: ckf5nzxbb0e400j23prouqhu9
     verified: false
-    hashtags: "#glu, #verlosung, #giveaway, #gewinnspiel"
-  - username: "haticeschmidt"
+    hashtags: "#plastischechirurgieberlin, #beauty, #erfurt, #summerbody"
+  - username: "sadiqdesh"
     fullname: >-
-      Hatice Schmidt
+      sadiq
     bio: >-
-      📍Berlin Founder&Artdirector @haticeschmidtlabs Best-Selling Author: Dein Leben ist kein Zufall ✉️ Mail • hello@haticeschmidt.com Impressum:
+      berlin~london be kind ✨ @kultmodels @models1
     location: "Germany"
-    followers: 269840
-    engagement: 450
-    commentsToLikes: 0.013630
-    id: ck15pjxpsy9150i19y5mot3im
-    verified: true
-    hashtags: "#haticeschmidtlabs, #mygenesis, #teamhatineverstops, #haticeschmidt"
-  - username: "krizzybeauty"
-    fullname: >-
-      🦋 Kristina 🦋
-    bio: >-
-      📍living in berlin city 🌇 do good and good will come to you 🧚🏻 S a b r 🤍 | 1 9 9 5 🖖🏻| с у д ь б а ✨ | 🧿 |
-    location: "Germany"
-    followers: 2659
-    engagement: 2871
-    commentsToLikes: 0.037107
-    id: ckaowhton8zzr0i78j21k4oij
+    followers: 112468
+    engagement: 525
+    commentsToLikes: 0.012047
+    id: ck138pt3rheu60i19er3u45tx
     verified: false
-    hashtags: "#sunday, #girl, #style, #lfl"
-  - username: "beautypalmira"
+    hashtags: "#joopfragrances, #jooppride, #joopneon, #joophomme"
+  - username: "paulasenfkorn"
     fullname: >-
-      ⋆ 𝕻𝖆𝖑𝖒𝖎𝖗𝖆 ⋆ 🦋
+      Paula Senfkorn
     bio: >-
-      ⋆ Certified Creative Makeup Artist ⋆ Retoucher, Photographer ⋆ Berlin, Germany ⋆ PR, Bookings: palmira.ruben@gmail.com ⋆ Bridal Artist @palmira.makeup
+      ☁️ Berlin ✉️ paula@hey-ally.com Impr.: @heyally_impressum
     location: "Germany"
-    followers: 33915
-    engagement: 130
-    commentsToLikes: 0.101257
-    id: ck5q3lqg8lcfr0i11ku117ia8
+    followers: 268334
+    engagement: 279
+    commentsToLikes: 0.039265
+    id: clto0xn29nmlj0k08pc2yepao
     verified: false
-    hashtags: "#sephoradeutschland, #abhbrows, #wakeup2slay, #beautyphotos"
+    hashtags: "#unboxingvideo, #dailyvlog, #paulasenfkorn, #mysterygift"
+  - username: "what_petra_lovesandlikes"
+    fullname: >-
+      Petra Bosch
+    bio: >-
+      Aus Berlin Beauty/Unboxings/Produkttest/Lifestyle Kooperation? Bitte DM oder Mail an petra.bosch@freenet.de 👍 PURISH Code: PETRALOVES10
+    location: "Germany"
+    followers: 24971
+    engagement: 273
+    commentsToLikes: 0.023994
+    id: ck9haga0ecf8s0j788vukmf2u
+    verified: false
+    hashtags: "#lorealistarclub, #beautyblog, #blissim, #adventcalendar"
 ---

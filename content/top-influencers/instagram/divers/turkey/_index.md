@@ -1,11 +1,11 @@
 ---
-title: Top 10 Divers Instagram Influencers In Turkey In 2023
+title: Top 10 Divers Instagram Influencers In Turkey In 2024
 description: >-
-  Find top divers Instagram influencers in Turkey in 2023. Most popular hashtags: #istanbul #fashion #love #scubadiving.
+  Find top divers Instagram influencers in Turkey in 2024. Most popular hashtags: #fashion #scubadiving #love #instagood.
 platform: Instagram
-hits: 20
-text_top: Discover the top-rated Instagram influencers on inBeat.
-text_bottom: Our platform has 20 Instagram influencers like this in Turkey for you to work with.
+hits: 17
+text_top: Discover the top-rated Instagram profiles on inBeat.
+text_bottom: Our search engine aggregates 17 Instagram influencers like this in Turkey for you to collaborate.
 profiles:
   - username: "dr_denizdemirhan"
     fullname: >-
@@ -43,42 +43,18 @@ profiles:
     id: ckapbn8xi0jsc0i78lxp20hk4
     verified: false
     hashtags: "#scubadiver, #diver, #divetrip, #scubapro"
-  - username: "selinyagcioglu"
+  - username: "busrapektass"
     fullname: >-
-      Selin Yağcıoğlu
+      Büşra Pektaş
     bio: >-
-      ✉️ simaykirazlipr@gmail.com 📍İstanbul
+      📩 busrapektas@socialand.com.tr 📌YouTube
     location: "Turkey"
-    followers: 639757
-    engagement: 390
-    commentsToLikes: 0.008764
-    id: ck8t09965r9j50j78tggl6z51
-    verified: true
-    hashtags: "#dysonhealthyhome, #home, #idos, #ak"
-  - username: "tanemsivar"
-    fullname: >-
-      tanemsivar
-    bio: >-
-      lalaland
-    location: "Turkey"
-    followers: 174128
-    engagement: 261
-    commentsToLikes: 0.012705
-    id: ck0u0ccqktadl0i19ygxazz23
+    followers: 164921
+    engagement: 917
+    commentsToLikes: 0.020850
+    id: ck5chru4wrccq0i11ibc4h7sn
     verified: false
-    hashtags: "#is, #sag, #nofilter, #ak"
-  - username: "compass.couple"
-    fullname: >-
-      WES & ENES | Travel Couple
-    bio: >-
-      ✈️ Sold everything we owned to travel the world. 📍 #Istanbul, #Turkey ✉ Partnerships@compasscouple.com 👇 Travel Blog | Media Coverage 🌍
-    location: "Turkey"
-    followers: 9403
-    engagement: 1197
-    commentsToLikes: 0.147632
-    id: ck8t4a91761440j78glp5s3jl
-    verified: false
-    hashtags: "#prettytravelcouples, #penang, #lonelyplanetindia, #exploreasia"
+    hashtags: "#helpturkey, #kireceson, #davet, #trendyol"
   - username: "segunmajo"
     fullname: >-
       MAJO PAIZ
@@ -127,4 +103,28 @@ profiles:
     id: ckap4kyui7rap0i78ttgrv5t0
     verified: false
     hashtags: "#modelmalay, #ke, #makeupideas, #glowymakeup"
+  - username: "sedatturkmen_"
+    fullname: >-
+      Sedat TÜRKMEN
+    bio: >-
+      TSSF/CMAS Eğtmn. TSSF/CMAS Rehber . TSSF/CMAS. Engelli dalış Eğtmn . DİVERAİD Egtmn. UDHB /Prof. balık adam. TSSF/ILS Altın cankurtaran .TINA Egtmn
+    location: "Turkey"
+    followers: 29500
+    engagement: 133
+    commentsToLikes: 0.188638
+    id: ckap8ka3cop660i78m1dwzriv
+    verified: false
+    hashtags: "#evdekalt"
+  - username: "sulezeybek"
+    fullname: >-
+      Şule Zeybek
+    bio: >-
+      ❤ BENİM IÇİN KİM NE DİLERSE, ALLAH BİN KATINI ONA VERSİN ❤
+    location: "Turkey"
+    followers: 43695
+    engagement: 73
+    commentsToLikes: 0.067418
+    id: ck5ca1gc3cizq0i117d1xhyxq
+    verified: false
+    hashtags: "#hepsiburada, #newyear, #turkey, #ceramicart"
 ---

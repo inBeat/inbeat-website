@@ -1,11 +1,11 @@
 ---
-title: Top 10 Travel TikTok Influencers In United Kingdom In 2023
+title: Top 10 Travel TikTok Influencers In United Kingdom In 2024
 description: >-
-  Find top travel TikTok influencers in United Kingdom in 2023. Most popular hashtags: #fyp #london #foryoupage #learnontiktok.
+  Find top travel TikTok influencers in United Kingdom in 2024. Most popular hashtags: #fyp #london #foryou #foryoupage.
 platform: TikTok
-hits: 459
-text_top: Analyze the most popular TikTok accounts on inBeat.
-text_bottom: Our search engine has 459 TikTok influencers like this in United Kingdom for you to contact.
+hits: 462
+text_top: Identify the most popular TikTok profiles on inBeat.
+text_bottom: Our search engine has 462 TikTok influencers like this in United Kingdom for you to pitch.
 profiles:
   - username: "manfromsomewhere"
     fullname: >-
@@ -13,12 +13,24 @@ profiles:
     bio: >-
       Adventurer & Finder of Self Travelling the Healing Path 👇🏽Insta Merch BTS 👇🏽
     location: "United Kingdom"
-    followers: 617800
-    engagement: 1764
-    commentsToLikes: 0.042224
+    followers: 935100
+    engagement: 1709
+    commentsToLikes: 0.041629
     id: ckb17ct34uyv10j23woahhevu
     verified: false
-    hashtags: "#waterfall, #toodlepips, #scotland, #selflove"
+    hashtags: "#toodlepips, #3peaks4sands, #duet, #stitch"
+  - username: "harianalive"
+    fullname: >-
+      Tik Toker
+    bio: >-
+      Hannah 🖤🎙 Singer. Dancer. Travel. Ari tribute act. 🦋
+    location: "United Kingdom"
+    followers: 52600
+    engagement: 1330
+    commentsToLikes: 0.056139
+    id: ckafttagm6ygt0i78shes1y0m
+    verified: false
+    hashtags: "#fullonyoutube, #arianators, #arianatributeshow, #hariana"
   - username: "sadiatumpa23"
     fullname: >-
       Sadia Tumpa 
@@ -49,12 +61,12 @@ profiles:
     bio: >-
       You must be my backyard, cause I really dig you 🤪 📍Travelling the world
     location: "United Kingdom"
-    followers: 460200
-    engagement: 1749
-    commentsToLikes: 0.041986
+    followers: 468100
+    engagement: 1957
+    commentsToLikes: 0.011380
     id: ck9a7j1ln7xcr0j78ooolkcxf
     verified: false
-    hashtags: "#talkingdog, #husky, #fyp, #dogsoftiktok"
+    hashtags: "#dogsoftiktok, #fyp, #cutedogs, #huskiesoftiktok"
   - username: "temp_tation"
     fullname: >-
       David Templer
@@ -66,7 +78,7 @@ profiles:
     commentsToLikes: 0.030152
     id: ck81s3qx4prv40j78hsbaomp6
     verified: true
-    hashtags: "#theshirtlesschef, #learnontiktok, #tempstips, #easyrecipe"
+    hashtags: "#tempstips, #theshirtlesschef, #learnontiktok, #easyrecipe"
   - username: "lottiemaeokill"
     fullname: >-
       ᡕᠵ᠊ᡃ່࡚ࠢ࠘ ⸝່ࠡࠣ᠊߯᠆ࠣ࠘ᡁࠣ࠘᠊᠊ࠢ࠘𐡏~♡
@@ -102,7 +114,7 @@ profiles:
     commentsToLikes: 0.032744
     id: ck80oeuekhe250j78snu7l74p
     verified: false
-    hashtags: "#travellife, #tiktokviral, #goviral, #italy"
+    hashtags: "#tiktokitalia, #tiktokuk, #travellife, #tiktokviral"
   - username: "tattiexo"
     fullname: >-
       tattiexo
@@ -114,17 +126,5 @@ profiles:
     commentsToLikes: 0.054629
     id: ckbf5d98bueoy0j23hdnmrgd3
     verified: false
-    hashtags: "#girlymakeup, #isawitfirst, #iworeitfirst, #petitefashionfinds"
-  - username: "jay.kue"
-    fullname: >-
-      Jay Kue
-    bio: >-
-      6M+ Views😱 CEO of Apres Ski 🍻 Insta Above ☝🏼 Watch my Travel Series below 🌏
-    location: "United Kingdom"
-    followers: 40200
-    engagement: 1174
-    commentsToLikes: 0.068870
-    id: ck98r7rur9e9p0j78vaeck9u1
-    verified: false
-    hashtags: "#uk, #lockdown3uk, #jaykue, #valentines2021"
+    hashtags: "#isawicons, #petitefashionfinds, #girlymakeup, #petitefashion"
 ---

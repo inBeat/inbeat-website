@@ -1,11 +1,11 @@
 ---
-title: Top 10 Mothers TikTok Influencers In Brazil In 2023
+title: Top 10 Mothers TikTok Influencers In Brazil In 2024
 description: >-
-  Find top mothers TikTok influencers in Brazil in 2023. Most popular hashtags: #fyp #foryou #fy #anime.
+  Find top mothers TikTok influencers in Brazil in 2024. Most popular hashtags: #fyp #foryou #fy #anime.
 platform: TikTok
 hits: 33
-text_top: Discover the best TikTok profiles on inBeat.
-text_bottom: inBeat has 33 TikTok influencers like this in Brazil for you to pitch.
+text_top: Identify the top-rated TikTok accounts on inBeat.
+text_bottom: Our database has 33 TikTok influencers like this in Brazil for you to contact.
 profiles:
   - username: "lorenaescriche"
     fullname: >-

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Boxers TikTok Influencers In 2023
+title: Top 10 Boxers TikTok Influencers In 2024
 description: >-
-  Find top boxers TikTok influencers in 2023. Most popular hashtags: #fyp #duet #foryoupage #foryou.
+  Find top boxers TikTok influencers in 2024. Most popular hashtags: #fyp #duet #foryoupage #foryou.
 platform: TikTok
 hits: 445
-text_top: Analyze the top-rated TikTok influencers on inBeat.
-text_bottom: Our platform has 445 TikTok influencers like this for you to connect with.
+text_top: Identify the best TikTok accounts on inBeat.
+text_bottom: Our platform holds 445 TikTok influencers like this for you to work with.
 profiles:
   - username: "boxerjatinmo79"
     fullname: >-
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.075087
     id: ck81s1ikspbwb0j78zwuocgec
     verified: false
-    hashtags: "#funnypets, #tiktokcats, #boopmynose, #catsrule"
+    hashtags: "#catsrule, #sillycat, #tiktokcats, #boopmynose"
   - username: "imbackyerrr"
     fullname: >-
       Cucuy0f1cial

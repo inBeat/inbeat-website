@@ -1,11 +1,11 @@
 ---
-title: Top 10 Vegan TikTok Influencers In Atlanta In 2023
+title: Top 10 Vegan TikTok Influencers In Atlanta In 2024
 description: >-
-  Find top vegan TikTok influencers in Atlanta in 2023. Most popular hashtags: #vegan #atlanta #fyp #foryoupage.
+  Find top vegan TikTok influencers in Atlanta in 2024. Most popular hashtags: #vegan #atlanta #foryoupage #fyp.
 platform: TikTok
 hits: 12
-text_top: Discover the best TikTok accounts on inBeat.
-text_bottom: Our database holds 12 TikTok influencers like this in Atlanta, United States for you to collaborate.
+text_top: See the most popular TikTok profiles on inBeat.
+text_bottom: inBeat aggregates 12 TikTok influencers like this in Atlanta, United States for you to connect with.
 profiles:
   - username: "vinyasavegan"
     fullname: >-
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.085163
     id: ckbfiblkfe3rw0j23ebr838yt
     verified: false
-    hashtags: "#plantbased, #xyzbca, #youshouldknow, #foodie"
+    hashtags: "#wintermagic, #foodie, #xyzbca, #cocinando"
   - username: "jarrett_derryberry"
     fullname: >-
       Jarrett Derryberry

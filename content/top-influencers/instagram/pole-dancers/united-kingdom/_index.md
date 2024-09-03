@@ -1,12 +1,24 @@
 ---
-title: Top 10 Pole Dancers Instagram Influencers In United Kingdom In 2023
+title: Top 10 Pole Dancers Instagram Influencers In United Kingdom In 2024
 description: >-
-  Find top pole dancers Instagram influencers in United Kingdom in 2023. Most popular hashtags: #poledance #poledancer #poledancersofig #poletricks.
+  Find top pole dancers Instagram influencers in United Kingdom in 2024. Most popular hashtags: #poledance #poledancer #poletricks #polefitness.
 platform: Instagram
-hits: 12
-text_top: Discover the top-rated Instagram accounts on inBeat.
-text_bottom: Our platform aggregates 12 Instagram influencers like this in United Kingdom for you to work with.
+hits: 19
+text_top: See the most popular Instagram influencers on inBeat.
+text_bottom: Our platform holds 19 Instagram influencers like this in United Kingdom for you to work with.
 profiles:
+  - username: "movewithtara"
+    fullname: >-
+      Tara Margulies
+    bio: >-
+      ▪️feminist & pole dancer ▪️social media consultant ▪️Ibiza retreats @vidahretreats ▪️campaigns@taramargulies.com ▪️London/Ibiza
+    location: "United Kingdom"
+    followers: 53325
+    engagement: 1216
+    commentsToLikes: 0.027717
+    id: cl088gt1panl10i23ajcx8n1e
+    verified: false
+    hashtags: "#footnote1, #flushfluus, #aboutflushingtime"
   - username: "psyc_grungequeen"
     fullname: >-
       Valkyrie Garcìa sgh
@@ -18,7 +30,19 @@ profiles:
     commentsToLikes: 0.071162
     id: ck15t11hjft860i19dvfg04bm
     verified: false
-    hashtags: "#mua, #pinup, #inkedgirls, #mood"
+    hashtags: "#ukphotography, #pinkeyeshadow, #icequeen, #alternativegirls"
+  - username: "pixieleknot"
+    fullname: >-
+      Pixie Le Knot
+    bio: >-
+      Vegan Animal Rights Activist 🌿 Seen in Game Of Thrones, The Devil Inside, Get Your Act Together, Game Of Talents......
+    location: "United Kingdom"
+    followers: 75780
+    engagement: 84
+    commentsToLikes: 0.043164
+    id: ck15rai9i6ywj0i197f66v5jk
+    verified: false
+    hashtags: "#split, #acroyogalife, #pole, #poleworkout"
   - username: "shevtsova_elizaveta"
     fullname: >-
       Elizaveta Shevtsova
@@ -42,7 +66,7 @@ profiles:
     commentsToLikes: 0.041392
     id: ck6tjs4773bcy0j71f4ns6dsj
     verified: false
-    hashtags: "#poletricks, #handstands, #handbalance, #poleshapes"
+    hashtags: "#poletricks, #motivation, #poledancer, #handstanddrills"
   - username: "marinavish"
     fullname: >-
       Marina Vishniakova
@@ -55,6 +79,18 @@ profiles:
     id: ck14guzpk75w60i196itm17oo
     verified: false
     hashtags: "#shapes, #polephoto, #polemom, #pdspincombo"
+  - username: "the.wrinklephobic"
+    fullname: >-
+      ANITA ARCHEOU 🪩✨
+    bio: >-
+      Beauty product reviews with a side of cute pastel aesthetics 💜☁️🌸✨ For 15% off @avea.life NMN use Anita15 For 20% off @cultbeauty use ANITA20
+    location: "United Kingdom"
+    followers: 29075
+    engagement: 65
+    commentsToLikes: -3.210055
+    id: cl5m5mo03b0ba0i23z9fbmfco
+    verified: false
+    hashtags: "#drunkelephant, #pastelaesthetic, #skincarethatworks, #luxuryskincare"
   - username: "katherinekosma"
     fullname: >-
       Katherine✨
@@ -66,7 +102,7 @@ profiles:
     commentsToLikes: 0.027695
     id: ck5q1bdowa6k00i11h0b4fbay
     verified: false
-    hashtags: "#pvc, #alternativemodel, #gothgirls, #gothgirl"
+    hashtags: "#alternative, #alternativefashion, #gothgirl, #killstar"
   - username: "ria.sangria"
     fullname: >-
       R i a  S a n g r i a  🧋 🍬
@@ -78,53 +114,17 @@ profiles:
     commentsToLikes: 0.146663
     id: ck9wdcq12f2820j78i7psdxhd
     verified: false
-    hashtags: "#lockdown, #tgif, #poledance, #riasangria"
+    hashtags: "#mood, #riasangria, #lockdown, #poledance"
   - username: "alhsnaps"
     fullname: >-
       A L H
     bio: >-
       North London Photographer - Headshots, Dance and Events.
     location: "United Kingdom"
-    followers: 9784
-    engagement: 826
-    commentsToLikes: 0.003569
+    followers: 9707
+    engagement: 925
+    commentsToLikes: 0.003417
     id: ck8svzumodbdp0j78w4n3n9wa
     verified: false
-    hashtags: "#streettogether, #street, #streetmobs, #createcommune"
-  - username: "imogengunter"
-    fullname: >-
-      Imogen Gunter
-    bio: >-
-      BendyFreak My shop: @aerial.inspirations.shop +owner of @aerialinspirations Tutorials: patreon.com/imogengunter Travels 🌍performs 🎪 Website↓
-    location: "United Kingdom"
-    followers: 40902
-    engagement: 246
-    commentsToLikes: 0.023996
-    id: ck13c614kyscx0i19cc0qqm0m
-    verified: false
-    hashtags: "#poledancecombo, #contortion, #workout, #flexibility"
-  - username: "marioncrampe"
-    fullname: >-
-      Marion Crampe
-    bio: >-
-      Museum of a journey ✨ Instructor-Performer-Modeling 🙏🏻 Life/Others-beyond 📌 Earth 📩 For enquiries/online classes, contact marioncrampe@hotmail.fr
-    location: "United Kingdom"
-    followers: 236423
-    engagement: 138
-    commentsToLikes: 0.018341
-    id: ck15sqmbvec020i193gzoyoyr
-    verified: true
-    hashtags: "#identity, #twistyourbody, #marioncrampe, #dreamyart"
-  - username: "amyhazel92"
-    fullname: >-
-      Pole Dancing Unicorn
-    bio: >-
-      👑 Miss Pole Dance Australia 2017 🤸🏼‍♀️Co-owner @blackbirdmelbourne 👶🏼 Mummy to be - Feb 2021💕 🧘‍♀️ Self recovery ED & HA ONLINE TUTORIALS👇🏽
-    location: "United Kingdom"
-    followers: 153465
-    engagement: 60
-    commentsToLikes: 0.017097
-    id: ck8t4oeck7ioo0j78kgtwuau1
-    verified: false
-    hashtags: "#23weekspregnant, #yogaflow, #yogasequence, #poledance"
+    hashtags: "#street, #headshotphotography, #photoshoot, #fuji90mm"
 ---

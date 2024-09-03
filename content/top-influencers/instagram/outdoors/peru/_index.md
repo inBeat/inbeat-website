@@ -1,11 +1,11 @@
 ---
-title: Top 10 Outdoors Instagram Influencers In Peru In 2023
+title: Top 10 Outdoors Instagram Influencers In Peru In 2024
 description: >-
-  Find top outdoors Instagram influencers in Peru in 2023. Most popular hashtags: #outdoors #peru #igersperu #nature.
+  Find top outdoors Instagram influencers in Peru in 2024. Most popular hashtags: #peru #igersperu #travel #outdoors.
 platform: Instagram
-hits: 24
-text_top: Identify the best Instagram profiles on inBeat.
-text_bottom: inBeat has 24 Instagram influencers like this in Peru for you to collaborate.
+hits: 26
+text_top: Identify the best Instagram accounts on inBeat.
+text_bottom: inBeat aggregates 26 Instagram influencers like this in Peru for you to work with.
 profiles:
   - username: "dibujatuviaje"
     fullname: >-
@@ -19,18 +19,6 @@ profiles:
     id: ckapahfdgw4a50i78gy0nhdbv
     verified: false
     hashtags: "#inthowild, #ctperu, #lake, #monta"
-  - username: "marianobreccia"
-    fullname: >-
-      Mariano Breccia
-    bio: >-
-      •Multi-sport Athlete/Multideportista •Photographer/Fotógrafo •Capitán @adidasrunners Lima⚡️ •Sponsored by: @adidasterrex @suunto @scoscheperu
-    location: "Peru"
-    followers: 81381
-    engagement: 458
-    commentsToLikes: 0.035552
-    id: ck6ub4sus7gs20j71ww6ugyp4
-    verified: true
-    hashtags: "#terrex, #gopro, #outdoorlife, #marianobreccia"
   - username: "dibujandomisrutas"
     fullname: >-
       𝗖𝗲́𝘀𝗮𝗿 | 𝗧𝗿𝗮𝘃𝗲𝗹 & 𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝘆
@@ -103,28 +91,40 @@ profiles:
     id: ck8t3idv73ets0j784l8yy5ol
     verified: false
     hashtags: "#intoperu, #visitcusco, #amazingplaces, #visitperu"
-  - username: "heiidilg"
+  - username: "percypls"
     fullname: >-
-      Christiane
+      Percy Pls
     bio: >-
-      мєχι¢αиα 💌 heidit856@gmail.com 🎥YouTube: Nuevo video 📺⬇️
+      Antes era tímido y ahora soy temido 💁🏽‍♂️ 💌 perpomu@hotmail.com
     location: "Peru"
-    followers: 12558
-    engagement: 900
-    commentsToLikes: 0.164620
-    id: ckap4aavo6gl00i78jimkn90o
+    followers: 147357
+    engagement: 512
+    commentsToLikes: 0.007930
+    id: ck5c5y15p4cwa0i11abqyixmg
     verified: false
-    hashtags: "#atardeceresmagicos, #travel, #visitmexico, #spring"
-  - username: "raysalopezg"
+    hashtags: "#lamejorcocacoladetodas, #ad, #noesmitoesciencia, #publicidad"
+  - username: "alxxpaul"
     fullname: >-
-      raysa gabriela
+      Alexander Paul | Digital Creator • Traveler
     bio: >-
-      M I A M I / F L 🛬... lima📍 𝓂𝒶𝒹𝑒 𝒾𝓃 𝒫𝑒𝓇𝓊
+      ⛩️ Founder | @ladobleequis.xx 🎬 Peruvian Film Director | Editor 📩 helloalxxpaul@gmail.com 🌎 Good Times 🥋 BJJ Blue Belt 🎨 Skateboarding 📍Lima | PE
     location: "Peru"
-    followers: 10212
-    engagement: 1482
-    commentsToLikes: 0.041673
-    id: ckf5p16by4l010j23zo4fehag
+    followers: 41905
+    engagement: 3533
+    commentsToLikes: 0.050075
+    id: ck134kxszwxg30i199vqh0gd3
     verified: false
-    hashtags: "#style, #portrait, #ootd, #beach"
+    hashtags: "#publicidad, #reel, #beach, #visualambassadors"
+  - username: "kat_khoroshun"
+    fullname: >-
+      Katia | hiking, travel, outdoors
+    bio: >-
+      📍Alberta, Canada Living my dream life in the #Canadianrockies ⛰️🥾 ✉️ hello@katiakhoroshun.com
+    location: "Peru"
+    followers: 130043
+    engagement: 106
+    commentsToLikes: 0.075538
+    id: ck0u8mahn7r910i19odsxp8cl
+    verified: false
+    hashtags: "#banffnationalpark, #hiking, #perutravel, #hikingadventures"
 ---

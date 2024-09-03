@@ -1,12 +1,60 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Birmingham In 2023
+title: Top 10 Fashion Instagram Influencers In Birmingham In 2024
 description: >-
-  Find top fashion Instagram influencers in Birmingham in 2023. Most popular hashtags: #fashion #styleinspiration #style #styleinspo.
+  Find top fashion Instagram influencers in Birmingham in 2024. Most popular hashtags: #fashion #fashionblogger #ootd #style.
 platform: Instagram
-hits: 32
-text_top: See the top-rated Instagram influencers on inBeat.
-text_bottom: inBeat has 32 Instagram influencers like this in Birmingham, United Kingdom for you to contact.
+hits: 62
+text_top: Identify the top-rated Instagram profiles on inBeat.
+text_bottom: Our database has 62 Instagram influencers like this in Birmingham, United Kingdom for you to connect with.
 profiles:
+  - username: "stylebyjjulia"
+    fullname: >-
+      Julia | outfit inspo
+    bio: >-
+      Outfit inspo | minimalist fashion Birmingham, UK ✉️ juliascreationsss@gmail.com
+    location: "United Kingdom"
+    followers: 36998
+    engagement: 53
+    commentsToLikes: 0.041004
+    id: ckwvisc41voss0j239syqjr6z
+    verified: false
+    hashtags: "#springfashion, #springlook, #neutraloutfit, #easyfashion"
+  - username: "my.mini.girl.squad"
+    fullname: >-
+      my.mini.girl.squad - UK Content Creator
+    bio: >-
+      📍West Midlands Twin Mama 💞🌎 raising 4 girls 🤍 Days out • Family • Fashion & Lifestyle 🌸
+    location: "United Kingdom"
+    followers: 14052
+    engagement: 245
+    commentsToLikes: 0.041864
+    id: ck0ud841dildv0i19y1hnxb94
+    verified: false
+    hashtags: "#fashionstyle, #kidsfashion, #explorepage, #westmidlands"
+  - username: "adventuresoflaurenx"
+    fullname: >-
+      𝘓𝘢𝘶𝘳𝘦𝘯 🌻🖤
+    bio: >-
+      Plus size fashion | Travel | Lifestyle ⬇️Collabs/ PR- email me 💍Happily married- no DM’s. ⛔️MY ONLY ACCOUNT!⛔️ 📍Birmingham London lover❤️
+    location: "United Kingdom"
+    followers: 240386
+    engagement: 101
+    commentsToLikes: 0.057323
+    id: cks22rgxd2h1d0j23ch441tg4
+    verified: false
+    hashtags: "#whatfatgirlsactuallywear, #bopo, #influencer, #plussizefashion"
+  - username: "bronwencarroll"
+    fullname: >-
+      Bronwen Carroll
+    bio: >-
+      🛍️Petite Fashion Blogger 🇬🇧 Birmingham, England 💌 collabs- bronwen_carroll@outlook.com
+    location: "United Kingdom"
+    followers: 10677
+    engagement: 358
+    commentsToLikes: 0.392397
+    id: cliu00vrtzv9z0j08u93rsgh6
+    verified: false
+    hashtags: "#travelblogger, #newlook, #ootdinspo, #ootnfashion"
   - username: "nikesnob01"
     fullname: >-
       Sherri Ragsdale
@@ -19,66 +67,6 @@ profiles:
     id: ckap943ifr2fq0i785kp3b3c0
     verified: false
     hashtags: "#hypebaekicks, #maisonclose, #highsnobietystyle, #streetwear"
-  - username: "lippers01"
-    fullname: >-
-      𝐑𝐨𝐬𝐢𝐞 𝐋𝐢𝐩𝐩𝐦𝐚𝐧𝐧 🇬🇧
-    bio: >-
-      Qualified PT 🥊 🏋🏼‍♀️ #HITCHIN (Herts) JOEY 👦🏼💙 My kitten - @cat_binx01 DM/ 📧 for collaboration (Discount in HL’s)
-    location: "United Kingdom"
-    followers: 15916
-    engagement: 605
-    commentsToLikes: 0.430240
-    id: ck6tlsytd6l160j71fswhqfjb
-    verified: false
-    hashtags: "#spa, #fashionista, #mumsthatlift, #healthylifestyle"
-  - username: "youraverageguystyle"
-    fullname: >-
-      Adam York
-    bio: >-
-      • Fashion Blogger UK 🇬🇧 • Birmingham / London / Scotland ⬆️ Check out my stories!
-    location: "United Kingdom"
-    followers: 62702
-    engagement: 84
-    commentsToLikes: 0.087495
-    id: ck15sohpoe15c0i19fu5td510
-    verified: false
-    hashtags: "#fashionmens, #coupleslove, #details, #mensstyles"
-  - username: "healthymeganbl"
-    fullname: >-
-      𝐌𝐄𝐆𝐀𝐍 🕊
-    bio: >-
-      📍birmingham ☁️ food fashion life home ⚡️ sausage dog mama @mabelthedachshund_ 🏡 @_megsmaison 💌 meganlowe2@googlemail.com 🎥 Tiktok: meganbl (30k)
-    location: "United Kingdom"
-    followers: 31208
-    engagement: 354
-    commentsToLikes: 0.024289
-    id: ck13c6znnywyh0i19hsly6i75
-    verified: false
-    hashtags: "#pupupcafe, #zarabag, #zara, #zarawoman"
-  - username: "sarahlaublogs"
-    fullname: >-
-      Sarah Lauren ✨
-    bio: >-
-      📍Birmingham 💻 midsize fashion & lifestyle blogger 👩🏻‍🏫 digital marketer in training 💌 sarahlaublog@gmail.com ✨ #seethegram
-    location: "United Kingdom"
-    followers: 6504
-    engagement: 527
-    commentsToLikes: 0.152379
-    id: ck9h9vynea6650j78sqzumdxn
-    verified: false
-    hashtags: "#effortlesschic, #stylelookbook, #colourfulstyle, #mentalhealthcheckin"
-  - username: "justyourlittleasianfriend"
-    fullname: >-
-      Birmingham
-    bio: >-
-      ✨Email me for promos✨ ✍🏽 Lash Artist @amilliondollarlashes 💆🏽‍♀️ Clinic Page @amilliondollarlook
-    location: "United Kingdom"
-    followers: 3406
-    engagement: 1336
-    commentsToLikes: 0.104369
-    id: ck9whavtbx3370j78npocmc56
-    verified: false
-    hashtags: "#styleoftheday, #birminghambalyage, #classy, #birmingham"
   - username: "kaprebene"
     fullname: >-
       Kapré Bene
@@ -90,41 +78,53 @@ profiles:
     commentsToLikes: 0.020188
     id: ck602m4zfhy100i140kj2oxji
     verified: false
-    hashtags: "#champagnepapi, #toronto, #asseenonme, #india"
-  - username: "officialshin"
+    hashtags: "#farmers, #singh, #mensootd, #unity"
+  - username: "sarahlaublogs"
     fullname: >-
-      Shintastic
+      Sarah Lauren ✨
     bio: >-
-      Agency Represented 📖 Shintastic2rb@gmail.com 📧
+      📍Birmingham 💻 midsize fashion & lifestyle blogger 👩🏻‍🏫 digital marketer in training 💌 sarahlaublog@gmail.com ✨ #seethegram
     location: "United Kingdom"
-    followers: 3027
-    engagement: 644
-    commentsToLikes: 0.091539
-    id: ck6txh99qxtrd0j713rsqi5w4
+    followers: 6504
+    engagement: 527
+    commentsToLikes: 0.152379
+    id: ck9h9vynea6650j78sqzumdxn
     verified: false
-    hashtags: "#hiphop, #blackmodel, #scoutmemodel, #model"
-  - username: "dina_elkhadem"
+    hashtags: "#simplebeyond, #pinterestaesthetic, #styleinspiration, #thisdelightfullife"
+  - username: "justyourlittleasianfriend"
     fullname: >-
-      D I N A
+      Birmingham
     bio: >-
-      Modest Fashion Stylist 📍 Egyptian in Birmingham, UK 📧 dina.elkhadem@gmail.com
+      ✨Email me for promos✨ ✍🏽 Lash Artist @amilliondollarlashes 💆🏽‍♀️ Clinic Page @amilliondollarlook
     location: "United Kingdom"
-    followers: 81221
-    engagement: 158
-    commentsToLikes: 0.025797
-    id: ck0u8y81w8jld0i19nvz5zkmw
+    followers: 3406
+    engagement: 1336
+    commentsToLikes: 0.104369
+    id: ck9whavtbx3370j78npocmc56
     verified: false
-    hashtags: "#modestfashion, #fashionstyle, #turbanhijab, #modesty"
-  - username: "elizas_everyday"
+    hashtags: "#beforeandafterhair, #summer, #rippedjeans, #softhair"
+  - username: "makeupbysafar"
     fullname: >-
-      Eliza's_everyday
+      Safar Reaz
     bio: >-
-      Birmingham Blogger & host of... #whatweworeonwednesday 💥Fashion 💥Beauty 💥Fitness 💥Mum to 2 gorgeous boys 💥Next travel destination French Alps
+      #BIRMINGHAM 📍 20 🇵🇰 @safxr DM/EMAIL FOR BOOKINGS: MAKEUP ONLY safar_reaz@hotmail.com
     location: "United Kingdom"
-    followers: 21277
-    engagement: 249
-    commentsToLikes: 0.408494
-    id: ck5bw68vel2m20i11vebkj9bq
+    followers: 2905
+    engagement: 1002
+    commentsToLikes: 0.187027
+    id: ck8t2fx36zc9i0j78agbr6dv7
     verified: false
-    hashtags: "#brightcolorsmakemehappy, #over30fashion, #brightcolors, #blue"
+    hashtags: "#makeupforbeginners, #birminghammakeupartist, #anastasiabeverlyhills, #nike"
+  - username: "healthymeganbl"
+    fullname: >-
+      𝐌𝐄𝐆𝐀𝐍 🕊
+    bio: >-
+      📍 birmingham ☁️ life home fitness fashion ⚡️ tiktok: meganbl 💌 meganlowe2@googlemail.com
+    location: "United Kingdom"
+    followers: 30997
+    engagement: 332
+    commentsToLikes: 0.023725
+    id: ck13c6znnywyh0i19hsly6i75
+    verified: false
+    hashtags: "#wakeupwithemma, #emmamattress, #virginexperiencedays"
 ---

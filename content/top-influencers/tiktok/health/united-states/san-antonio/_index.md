@@ -1,11 +1,11 @@
 ---
-title: Top 10 Health TikTok Influencers In San Antonio In 2023
+title: Top 10 Health TikTok Influencers In San Antonio In 2024
 description: >-
-  Find top health TikTok influencers in San Antonio in 2023. Most popular hashtags: #fyp #duet #foryou #sanantonio.
+  Find top health TikTok influencers in San Antonio in 2024. Most popular hashtags: #fyp #duet #foryou #sanantonio.
 platform: TikTok
 hits: 6
-text_top: Identify the most popular TikTok influencers on inBeat.
-text_bottom: Our platform has 6 TikTok influencers like this in San Antonio, United States for you to connect with.
+text_top: Analyze the top-rated TikTok profiles on inBeat.
+text_bottom: Our platform aggregates 6 TikTok influencers like this in San Antonio, United States for you to collaborate.
 profiles:
   - username: "txnat1ve"
     fullname: >-
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.021590
     id: ck9si96p2xqiv0j78seevxa4t
     verified: true
-    hashtags: "#jillbiden, #nurse, #daddy, #vaccination"
+    hashtags: "#daddy, #student, #karen, #covid"
   - username: "anynino"
     fullname: >-
       ANA
@@ -90,7 +90,7 @@ profiles:
     commentsToLikes: 0.041199
     id: ck8savqlr3vd90j78r9uznp9c
     verified: true
-    hashtags: "#wlw, #fyp, #xyzbca, #lgbt"
+    hashtags: "#fyp, #xyzbca, #wlw, #recovery"
   - username: "lexinimmo"
     fullname: >-
       Lexinimmo
@@ -102,7 +102,7 @@ profiles:
     commentsToLikes: 0.301311
     id: ckbwejjfw1nji0j23hi2y641u
     verified: false
-    hashtags: "#thesuicidesquadmovie, #fatpositivty, #fatphobiaisnotcute, #cleargenius"
+    hashtags: "#welcomeback, #fatpositivty, #dontquityourdaydream, #plussizefashion"
   - username: "sunshineceee"
     fullname: >-
       Cee :)

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Health Instagram Influencers In Capetown In 2023
+title: Top 10 Health Instagram Influencers In Capetown In 2024
 description: >-
-  Find top health Instagram influencers in Capetown in 2023. Most popular hashtags: #capetown #southafrica #health #motivation.
+  Find top health Instagram influencers in Capetown in 2024. Most popular hashtags: #capetown #southafrica #health #summer.
 platform: Instagram
-hits: 15
-text_top: Discover the top-rated Instagram accounts on inBeat.
-text_bottom: inBeat aggregates 15 Instagram influencers like this in Capetown, South Africa for you to work with.
+hits: 17
+text_top: See the most popular Instagram profiles on inBeat.
+text_bottom: Our platform aggregates 17 Instagram influencers like this in Capetown, South Africa for you to connect with.
 profiles:
   - username: "daniella_thibault"
     fullname: >-
@@ -19,6 +19,18 @@ profiles:
     id: ck5zm4eyblvn20i149l5nh9oa
     verified: false
     hashtags: "#beauty, #capetown, #2021, #virgo"
+  - username: "katinkadiekat_official"
+    fullname: >-
+      Katinka
+    bio: >-
+      Your favourite relatable Introverted extroverted gal. Who loves fashion and humor My babies: @dearbeb.media @getupgurl_health @casa.amor.mosselbay
+    location: "South Africa"
+    followers: 126979
+    engagement: 141
+    commentsToLikes: 0.011639
+    id: ck6u4ngvu4q9x0j71pvwe3lyn
+    verified: true
+    hashtags: "#garniersa, #garnierhairfood, #wtf, #ad"
   - username: "saskiatopp"
     fullname: >-
       Saskia Jordyn Topp
@@ -31,6 +43,30 @@ profiles:
     id: ck6u2s7s2tmls0j71eprx8zjp
     verified: false
     hashtags: "#capetown, #valentinesday, #chicago, #sunday"
+  - username: "kaminipather"
+    fullname: >-
+      Kamini Like Harmony
+    bio: >-
+      Host of #GirlEatWorldTV @Netflix @MasterChef_SA winner S2 @nutritionschool certified Nutrition & Health Coach Runner. Dog-person.
+    location: "South Africa"
+    followers: 37230
+    engagement: 89
+    commentsToLikes: 0.050337
+    id: ckaost6k2szaw0i78ocytqyhn
+    verified: true
+    hashtags: "#wine, #run, #cooking, #runrunrun"
+  - username: "mandy.liebenberg"
+    fullname: >-
+      Mandy Liebenberg
+    bio: >-
+      Just be kind 🤍 In the Financial Planning World 👩🏽‍💼
+    location: "South Africa"
+    followers: 63045
+    engagement: 52
+    commentsToLikes: 0.016335
+    id: ck8td8odm2cs90j78jig9d71p
+    verified: false
+    hashtags: "#god, #kindness, #smile, #happiness"
   - username: "magaramirezz"
     fullname: >-
       Maria Gabriela Ramirez ⚓️
@@ -42,7 +78,7 @@ profiles:
     commentsToLikes: 0.065761
     id: ckap0qc7qrepz0i78yrvmaxt0
     verified: false
-    hashtags: "#losangeles, #beach, #milan, #shooting"
+    hashtags: "#makeup, #work, #la, #summer"
   - username: "gabriellabenedicte"
     fullname: >-
       FITNESS | MOTHERHOOD
@@ -91,40 +127,4 @@ profiles:
     id: ck14gt3dr6w0f0i190ajb4o76
     verified: false
     hashtags: "#staysafe, #comedy, #southafrica, #zulu"
-  - username: "pashapilates"
-    fullname: >-
-      Pasha's Pilates 🇿🇦
-    bio: >-
-      Certified #Pilates Instructor 💻Private/Group ONLINE Pilates Professional #Dancer #Yoga Practitioner #BodyConditioning Practitioner YouTube👇
-    location: "South Africa"
-    followers: 21796
-    engagement: 266
-    commentsToLikes: 0.058452
-    id: ck6trxxay1pkr0j71e8dr7e73
-    verified: false
-    hashtags: "#glutes, #fitnessmotivation, #fitgirlworkout, #corestability"
-  - username: "porsche_southafrica"
-    fullname: >-
-      Porsche South Africa
-    bio: >-
-      🇿🇦 Official Instagram Page for #PorscheSouthAfrica ⬇️ Virtual tours under ‘About Us’ on each dealer’s website
-    location: "South Africa"
-    followers: 56858
-    engagement: 125
-    commentsToLikes: 0.012670
-    id: ck5c8ikgg9ka00i11nlg7huln
-    verified: false
-    hashtags: "#stayhome, #911gt3, #driving, #nelsonmakamo"
-  - username: "bridge5m"
-    fullname: >-
-      Bridget Marshall
-    bio: >-
-      Travel | Lifestyle | Foodie | Fashion 🌍 The World is My Backyard ✉️ bridgemarshall@gmail.com 👩🏼‍💻 Owner - @travelb_comeflywithme
-    location: "South Africa"
-    followers: 40798
-    engagement: 348
-    commentsToLikes: 0.018808
-    id: ckapa21m1uebh0i78996apdj4
-    verified: false
-    hashtags: "#food, #holiday, #photooftheday, #smile"
 ---

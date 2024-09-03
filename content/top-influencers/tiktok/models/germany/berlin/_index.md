@@ -1,11 +1,11 @@
 ---
-title: Top 10 Models TikTok Influencers In Berlin In 2023
+title: Top 10 Models TikTok Influencers In Berlin In 2024
 description: >-
-  Find top models TikTok influencers in Berlin in 2023. Most popular hashtags: #fyp #foryou #berlin #viral.
+  Find top models TikTok influencers in Berlin in 2024. Most popular hashtags: #fyp #foryou #berlin #viral.
 platform: TikTok
 hits: 13
-text_top: Analyze the most popular TikTok accounts on inBeat.
-text_bottom: Our search engine has 13 TikTok influencers like this in Berlin, Germany for you to collaborate.
+text_top: See the most popular TikTok accounts on inBeat.
+text_bottom: Our platform holds 13 TikTok influencers like this in Berlin, Germany for you to work with.
 profiles:
   - username: "aldinzhc"
     fullname: >-
@@ -31,18 +31,6 @@ profiles:
     id: ck8ncnv7gf93b0j78t9ll0rw0
     verified: false
     hashtags: "#hamburg, #foryoupage, #viral, #fyp"
-  - username: "11sevendome"
-    fullname: >-
-      11sevenDome
-    bio: >-
-      Stay Creative! ✌️ Fotograf/Videograf 📸🎥
-    location: "Germany"
-    followers: 16900
-    engagement: 1020
-    commentsToLikes: 0.032166
-    id: ck9r8vybqe0za0j786indd95h
-    verified: false
-    hashtags: "#fyp, #11sevendome, #photography, #filmmaker"
   - username: "astroo030"
     fullname: >-
       Astroo
@@ -66,7 +54,7 @@ profiles:
     commentsToLikes: 0.050244
     id: ckblf8xxy96n90j23a3hkxmgp
     verified: true
-    hashtags: "#mode, #meinstyle, #style, #styling"
+    hashtags: "#photography, #styling, #style, #meinstyle"
   - username: "dancertascha"
     fullname: >-
       Natascha Gaass
@@ -127,4 +115,16 @@ profiles:
     id: ckbqdnhkrzm450j23he6knfd4
     verified: false
     hashtags: "#trend, #heidiklum, #fyp, #dance"
+  - username: "alamancininkarisi"
+    fullname: >-
+      Alamancinin Karisi
+    bio: >-
+      
+    location: "Germany"
+    followers: 2877
+    engagement: 798
+    commentsToLikes: 0.114306
+    id: ckdbsq17rcm1d0j23hkiv7t2p
+    verified: false
+    hashtags: "#kesfetteyiz, #netflixmas, #marriot, #privatejet"
 ---

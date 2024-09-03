@@ -1,11 +1,11 @@
 ---
-title: Top 10 TikTok Influencers In Poland In 2023
+title: Top 10 TikTok Influencers In Poland In 2024
 description: >-
-  Find top TikTok influencers in Poland in 2023. Most popular hashtags: #foryou #dlaciebie #duet.
+  Find top TikTok influencers in Poland in 2024. Most popular hashtags: #foryou #dlaciebie #duet.
 platform: TikTok
-hits: 1703
-text_top: See the most popular TikTok profiles on inBeat.
-text_bottom: inBeat has 1703 TikTok influencers like this in Poland for you to collaborate.
+hits: 1704
+text_top: Discover the most popular TikTok profiles on inBeat.
+text_bottom: inBeat has 1704 TikTok influencers like this in Poland for you to collaborate.
 profiles:
   - username: "tu_viciia"
     fullname: >-

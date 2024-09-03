@@ -1,130 +1,130 @@
 ---
-title: Top 10 Soccer-Players Instagram Influencers In 2023
+title: Top 10 Soccer-Players Instagram Influencers In 2024
 description: >-
-  Find top soccer-players Instagram influencers in 2023. Most popular hashtags: #love #instagood #tbt.
+  Find top soccer-players Instagram influencers in 2024. Most popular hashtags: #soccer #family #smile.
 platform: Instagram
-hits: 433
-text_top: Discover the most popular Instagram accounts on inBeat.
-text_bottom: Our platform holds 433 Instagram influencers like this for you to connect with.
+hits: 455
+text_top: Discover the top-rated Instagram influencers on inBeat.
+text_bottom: Our search engine has 455 Instagram influencers like this for you to work with.
 profiles:
-  - username: "hossein_kanani6"
+  - username: "nikkiguti7"
     fullname: >-
-      mohammadhosseinkananizadegan
+      Nikki Stanton
     bio: >-
-      Soccer Player ⚽️🇮🇷 @perspolis
-    location: "Iran"
-    followers: 1055139
-    engagement: 2079
-    commentsToLikes: 0.067237
-    id: ck6tnd7f79m1c0j71fjlqvew1
-    verified: false
-    hashtags: ""
-  - username: "mattsheldon23"
-    fullname: >-
-      Matt Sheldon
-    bio: >-
-      Professional Soccer Player for @FCTulsa | @Opsmpro Athlete | NASM Certified Nutrition Coach | Become Elite
+      Professional soccer player for the @olreign #7❤️⚽️ @hochbergsm Costco Executive member 💙
     location: "United States"
-    followers: 49143
-    engagement: 1789
-    commentsToLikes: 0.025394
-    id: ck6ts4of22qrc0j713ffoo8sr
+    followers: 44614
+    engagement: 469
+    commentsToLikes: 0.011210
+    id: ck0tt5vt51ao60i196la738k5
     verified: false
-    hashtags: "#fortulsa, #ad"
-  - username: "omersismanoglu7"
+    hashtags: "#boats, #lexi, #you, #are"
+  - username: "daniweatherholt"
     fullname: >-
-      Ömer Sismanoglu
+      Dani Weatherholt
     bio: >-
-      🇹🇷🇩🇪🏠HH/DÜS/IST ✉️: PR/Business email: omersismanogluofficial@gmail.com! Father of Elias 👶🏼 Professional Soccer Player
+      Pro Soccer Player | @Adidas Athlete | @voiceinsport Mentor All Inquiries- Email below
     location: "United States"
-    followers: 104921
-    engagement: 293
-    commentsToLikes: 0.060295
-    id: ck5ck9yd5wfw40i11aun7lma3
+    followers: 31972
+    engagement: 447
+    commentsToLikes: 0.021180
+    id: ck5qe401bylpf0i11r3kq7rs8
     verified: true
-    hashtags: "#erzurumspor, #nemutlut, #tbt, #love"
-  - username: "dadddymac_"
+    hashtags: "#soccer, #golf, #weatherhoesporvida, #17"
+  - username: "fede_greg"
     fullname: >-
-      
+      Federico Gregucci
     bio: >-
-      She / Her 🌈 Plant-based tomboy Former pro soccer player
-    location: "United States"
-    followers: 34660
-    engagement: 804
-    commentsToLikes: 0.025389
-    id: ckap0ot8pr81i0i782pipclqf
-    verified: false
-    hashtags: "#lesbian, #queer, #tomboystyles, #tomboystyle"
-  - username: "farshiidesmaeili8"
-    fullname: >-
-      Farshid Esmaeiliفرشیداسماعیلی
-    bio: >-
-      welcome to the official instagram page of Farshid Esmaeili 💙⚽️ Iranian soccer player
-    location: "Iran"
-    followers: 868512
-    engagement: 1256
-    commentsToLikes: 0.012394
-    id: ck6ug3ckk0ozd0j711smlr6ww
-    verified: false
-    hashtags: ""
-  - username: "souza0808"
-    fullname: >-
-      Souza
-    bio: >-
-      Posse-Go🏘🇧🇷 || Professional Soccer Player (AG @elenko.sports) 🇸🇦@ettifaq (salmo9️⃣1️⃣🙇). No twitter
-    location: "Brazil"
-    followers: 78269
-    engagement: 238
-    commentsToLikes: 0.060861
-    id: ckaoxdijucssv0i784nnyq1mk
+      📍Milan🇮🇹 Miami🇺🇸 TikTok: fede_greg09 Juventus Academy Miami‘s Personal soccer coach Soccer player Agency 👇🏻
+    location: "Italy"
+    followers: 629830
+    engagement: 481
+    commentsToLikes: 0.003256
+    id: ck8t3mxp13rsh0j780mfo1ckh
     verified: true
-    hashtags: "#ryann11anos"
-  - username: "ayoub_elkaabii"
+    hashtags: "#family, #summer, #marchesucci, #crazy"
+  - username: "melikson24"
     fullname: >-
-      Ayoub El Kaabi
+      Maor Melikson
     bio: >-
-      Joueur international / International Soccer Player🇲🇦
-    location: "Morocco"
-    followers: 155644
-    engagement: 1109
-    commentsToLikes: 0.014304
-    id: ck5hgzr1a5n9r0i113t4sdo46
+      Former Soccer Player | A. Coach | Academy SD Author of two books Father of three angels Part of @hapodium_podcast
+    location: ""
+    followers: 42924
+    engagement: 815
+    commentsToLikes: 0.037947
+    id: ck6ue1swtoecm0j711bxd6oak
+    verified: true
+    hashtags: "#30"
+  - username: "pauli.kllr"
+    fullname: >-
+      Paul-Friedrich Koller
+    bio: >-
+      Soccer player for @scraltach1929 Based in Graz, Austria ✉️ pauli.kllr@martensgarten.com
+    location: "Austria"
+    followers: 79063
+    engagement: 950
+    commentsToLikes: 0.006139
+    id: ckf5skovnfpsi0j23pu2js9q2
     verified: false
-    hashtags: ""
-  - username: "ahmad_mohamadii"
+    hashtags: "#wirsindaltach, #scra, #koller, #kastneroehler"
+  - username: "abbydahlkemper"
     fullname: >-
-      Ahmad Mohamadi
+      Abby Dahlkemper
     bio: >-
-      👆GOD👆is My EVERYTHING🌎 l BeLieVe in GOD eVen WHen He is Silent💎 Thank God☝️ ﮼تو‌خوب‌باش 👇 in love❤️ soccer player ⚽️77 🤟🏻
-    location: "Iran"
-    followers: 8621
-    engagement: 1215
-    commentsToLikes: 0.146858
-    id: ck8sw3uvfdnta0j7866y9tcrq
-    verified: false
-    hashtags: "#photooftheday, #menstylegoals, #modelstyle, #pictures"
-  - username: "lucastaba_"
-    fullname: >-
-      Lucas Taba🇧🇷🎩
-    bio: >-
-      soccer player @flamengo #deusnocomando🙏🏻 📍São Paulo/ SP
-    location: "Brazil"
-    followers: 4642
-    engagement: 1512
-    commentsToLikes: 0.106828
-    id: ck6ugfub72sfj0j718j13u48e
-    verified: false
-    hashtags: ""
-  - username: "tonideion"
-    fullname: >-
-      Toni Deion Pressley 🌱🌙🔮
-    bio: >-
-      Pro soccer player @orlpride Florida State Alumna Breast Cancer Survivor 👩🏽‍🍳 @wearegirlsgoneveg @zoe_zeca_toby
+      Professional soccer player @sandiegowavefc @wasserman
     location: "United States"
-    followers: 101317
-    engagement: 436
-    commentsToLikes: 0.012694
-    id: ck134oolhxg5l0i19f0hb3k59
+    followers: 280737
+    engagement: 275
+    commentsToLikes: 0.005685
+    id: ck134f6qaw5io0i19gxwlpcml
+    verified: true
+    hashtags: "#uswnt"
+  - username: "diegofagundez14"
+    fullname: >-
+      Diego Fagundez
+    bio: >-
+      ‘Professional Soccer Player for LA Galaxy 💛💙. Father to 3 beautiful children, Maria, Liam and Mila.
+    location: "United States"
+    followers: 128138
+    engagement: 263
+    commentsToLikes: 0.029334
+    id: ckppr5rx161up0j23lsdtbwlt
     verified: false
-    hashtags: "#vegan, #vegansofinstagram, #vegetarian, #veganfood"
+    hashtags: "#listo, #family, #believe, #df14"
+  - username: "christhunder"
+    fullname: >-
+      CHRIS FREDERICK
+    bio: >-
+      ⚽️Professional Soccer Player 💰Serial Entrepreneur #PaidToLive 💢Featured:Forbes|CNN|ABC|NBC|FoxNews
+    location: "United States"
+    followers: 3267444
+    engagement: 174
+    commentsToLikes: 0.011706
+    id: ck0uctfaphk680i19qingw8rp
+    verified: true
+    hashtags: "#paidtolive, #thinkwithme, #joinus, #wifimoneyair"
+  - username: "andymusic1"
+    fullname: >-
+      Andymadadian
+    bio: >-
+      Singer/songwriter, actor, soccer player, vegetarian & animal advocate. This page is all about music, peace and love in the world. andy@andymusic.com
+    location: "United States"
+    followers: 1326823
+    engagement: 135
+    commentsToLikes: 0.032279
+    id: ck0vx6n6sxel70i19x6jkab42
+    verified: true
+    hashtags: "#music, #dance, #party, #concert"
+  - username: "acostafitness"
+    fullname: >-
+      Robert Acosta
+    bio: >-
+      Kinda hippie, kinda holy, kinda hood 🙏🏼Faith ❤️Family ⚽Former pro soccer player 🏋🏾‍♂️Fitness 🥗Nutrition PS 37:4✝️ Walk The Talk #iam1stphorm
+    location: "United States"
+    followers: 19396
+    engagement: 57
+    commentsToLikes: 0.074977
+    id: ck9wdremqgx9y0j78vr0kwsvc
+    verified: false
+    hashtags: "#growthmindset, #athlete, #iam1stphorm, #1stphorm"
 ---

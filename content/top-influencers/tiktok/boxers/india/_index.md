@@ -1,11 +1,11 @@
 ---
-title: Top 10 Boxers TikTok Influencers In India In 2023
+title: Top 10 Boxers TikTok Influencers In India In 2024
 description: >-
-  Find top boxers TikTok influencers in India in 2023. Most popular hashtags: #duet #tiktokindia #viral #sharethecare.
+  Find top boxers TikTok influencers in India in 2024. Most popular hashtags: #duet #tiktokindia #viral #sharethecare.
 platform: TikTok
 hits: 25
-text_top: See the best TikTok influencers on inBeat.
-text_bottom: inBeat has 25 TikTok influencers like this in India for you to connect with.
+text_top: Discover the best TikTok profiles on inBeat.
+text_bottom: inBeat holds 25 TikTok influencers like this in India for you to collaborate.
 profiles:
   - username: "boxerjatinmo79"
     fullname: >-

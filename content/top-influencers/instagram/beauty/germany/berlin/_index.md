@@ -1,24 +1,48 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Berlin In 2023
+title: Top 10 Beauty Instagram Influencers In Berlin In 2024
 description: >-
-  Find top beauty Instagram influencers in Berlin in 2023. Most popular hashtags: #beauty #berlin #fashion #ootd.
+  Find top beauty Instagram influencers in Berlin in 2024. Most popular hashtags: #berlin #beauty #love #blogger.
 platform: Instagram
-hits: 383
-text_top: Analyze the most popular Instagram influencers on inBeat.
-text_bottom: Our search engine holds 383 Instagram influencers like this in Berlin, Germany for you to pitch.
+hits: 471
+text_top: Analyze the best Instagram profiles on inBeat.
+text_bottom: Our database aggregates 471 Instagram influencers like this in Berlin, Germany for you to work with.
 profiles:
-  - username: "martinstier"
+  - username: "denise.mski"
     fullname: >-
-      Martin Stier
+      Denise Mski
     bio: >-
-      Photographer 📸 [WERBUNG] Verlinkung von Personen & Marken
+      ☁️ WELCOME TO MY LIFE ✨ deeptalks, mom life & beauty 🫧 berlin, germany
     location: "Germany"
-    followers: 9471
-    engagement: 628
-    commentsToLikes: 0.012405
-    id: ck5zoj0yfqo540i14w4jy4x9k
+    followers: 818796
+    engagement: 244
+    commentsToLikes: 0.017516
+    id: ck5hgfqcv2jb90i11762oj13m
+    verified: true
+    hashtags: "#momlife, #couple, #newhair, #family"
+  - username: "frau_dr_buschmann"
+    fullname: >-
+      Dr. Alexandra Buschmann
+    bio: >-
+      🎖board certified Plastic Surgeon 📍Berlin, Kurfürstendamm 📞 03088928536 👩🏻‍⚕️Expertin Brust, Bauch, Korrekturen, Bodycontouring, Face modeling
+    location: "Germany"
+    followers: 11722
+    engagement: 467
+    commentsToLikes: 0.074911
+    id: ckf5nzxbb0e400j23prouqhu9
     verified: false
-    hashtags: "#foto, #portraitphotography, #shootcamp, #modellife"
+    hashtags: "#plastischechirurgieberlin, #beauty, #erfurt, #summerbody"
+  - username: "interventionrachel"
+    fullname: >-
+      Rachel Intervention
+    bio: >-
+      Drag Queen | Germany 🙆 Lipsyncerin mit Leidenschaft. Stand-Up-Comedian. Moderateuse. Vegan. 📍𝗕𝗘𝗥𝗟𝗜𝗡 Booking: rachelintervention@gmail.com
+    location: "Germany"
+    followers: 4777
+    engagement: 1380
+    commentsToLikes: 0.120139
+    id: ck5bxo9qho3di0i11k1ey65lv
+    verified: false
+    hashtags: "#show, #drag, #follow, #rpdr"
   - username: "matthias_garvelmann_fotografie"
     fullname: >-
       Matthias Garvelmann
@@ -31,30 +55,42 @@ profiles:
     id: ck55jy3duy1e30i11dkx185f4
     verified: false
     hashtags: "#igworldclub, #simplicity, #portraitsmadeingermany, #endlessfaces"
-  - username: "littlemissbubu"
+  - username: "sarah_milka"
     fullname: >-
-      
+      Milka 🍫👮🏼‍♀️
     bio: >-
-      
+      📍KS - BER 🌎 Blog 📩 Sarah-milka@web.de📋 @firstlane.agency 🖤
     location: "Germany"
-    followers: 3
-    engagement: 9417500
-    commentsToLikes: 0.030096
+    followers: 74092
+    engagement: 172
+    commentsToLikes: 0.026591
+    id: ck5ce2bqjk76l0i11tgyypz5n
+    verified: false
+    hashtags: "#berlin, #werbung, #love, #giveaway"
+  - username: "liz.kova"
+    fullname: >-
+      Elizaveta Kovalenko
+    bio: >-
+      Mom of 4 ❤️ Travel ✈️ Lifestyle🌸 Alternative medicine🌿 Construction🏗️ 📍Berlin
+    location: "Germany"
+    followers: 215080
+    engagement: 309
+    commentsToLikes: 0.022679
     id: ckap4bn7e6ma40i78gduz5xhq
     verified: false
-    hashtags: "#spielzeug, #kinder, #2020, #stayhome"
-  - username: "neverbaby_26"
+    hashtags: "#reisen, #jungle, #alternativemedicine, #wildlife"
+  - username: "what_petra_lovesandlikes"
     fullname: >-
-      𝐂𝐄𝐋𝐈𝐍𝐀 🤍
+      Petra Bosch
     bio: >-
-      lifestyle • fashion • beauty germany - berlin 🍸 TikTok: neverbaby26 🕊 contact: celina@himynameis.net 💌 Impressum: @hmni_agency
+      Aus Berlin Beauty/Unboxings/Produkttest/Lifestyle Kooperation? Bitte DM oder Mail an petra.bosch@freenet.de 👍 PURISH Code: PETRALOVES10
     location: "Germany"
-    followers: 166258
-    engagement: 715
-    commentsToLikes: 0.010524
-    id: ck5c04vn3sgdd0i11aef71oz2
+    followers: 24971
+    engagement: 273
+    commentsToLikes: 0.023994
+    id: ck9haga0ecf8s0j788vukmf2u
     verified: false
-    hashtags: "#nails, #nailinspo, #inspo"
+    hashtags: "#lorealistarclub, #beautyblog, #blissim, #adventcalendar"
   - username: "franzy"
     fullname: >-
       FRANZY
@@ -66,7 +102,7 @@ profiles:
     commentsToLikes: 0.079535
     id: ck8t96rgln2gc0j78251fgn90
     verified: false
-    hashtags: "#babyboy, #fashioninspo, #fashionblogger, #blogger"
+    hashtags: "#asaqueen, #zaraoutfit, #fashioninspo, #mitjux"
   - username: "herrhehn"
     fullname: >-
       Sascha | Berlin | Germany
@@ -78,53 +114,17 @@ profiles:
     commentsToLikes: 0.101495
     id: ck134mktdx63y0i19aeno9zva
     verified: false
-    hashtags: "#weloveberlin, #dasechteberlin, #ig, #loves"
-  - username: "maximgiacomo"
+    hashtags: "#dasechteberlin, #exploreberlin, #city, #berlincity"
+  - username: "josephine.krk"
     fullname: >-
-      MAXIM GIACOMO
+      Josephine
     bio: >-
-      🇮🇹🇩🇪 🎥 YouTube • Maxim Giacomo CEO of @ Coming soo 😌 #GIACOMOARMY #makeup #maximgiacomo Impressum via YouTube 📍 Berlin BEAUTY & MAKE UP
+      Welcome to my site 🤍 a mix of beauty, fashion and lifestyle ✉️ josephinekrk@web.de
     location: "Germany"
-    followers: 40295
-    engagement: 592
-    commentsToLikes: 0.167225
-    id: ck5c18z24uomo0i11ism1tg34
+    followers: 14395
+    engagement: 91
+    commentsToLikes: 0.180853
+    id: ck8t3pvbp41d10j78j3duk3wb
     verified: false
-    hashtags: "#weihnachten2020, #cutcrease, #makeuptutorial, #explore"
-  - username: "what_petra_lovesandlikes"
-    fullname: >-
-      Petra Bosch
-    bio: >-
-      Aus Berlin Beauty/Unboxings/Produkttest/Food/Lifestyle . Kooperation? Bitte DM oder Mail an petra.bosch@freenet.de 👍
-    location: "Germany"
-    followers: 9109
-    engagement: 836
-    commentsToLikes: 0.101007
-    id: ck9haga0ecf8s0j788vukmf2u
-    verified: false
-    hashtags: "#pinkbox, #produktfotografie, #mylittlebox, #beautylove"
-  - username: "josily"
-    fullname: >-
-      Josi💗
-    bio: >-
-      📍#Berlin | 20 | 🛳 📱tiktok: josily 👻Snapchat: xjosilyx 📩 josily@beacreator.de
-    location: "Germany"
-    followers: 193469
-    engagement: 153
-    commentsToLikes: 0.020619
-    id: ck6u18vywkata0j71trh5p8o2
-    verified: false
-    hashtags: "#girl, #car, #photo, #beauty"
-  - username: "julia.runova"
-    fullname: >-
-      Julietta Runova Leonidovna
-    bio: >-
-      Painter, Model, weirdo Based in Berlin
-    location: "Germany"
-    followers: 7392
-    engagement: 706
-    commentsToLikes: 0.032766
-    id: ckaoqtisqkbgg0i78qmd48omz
-    verified: false
-    hashtags: "#marilynmanson, #boudoir, #creature, #harness"
+    hashtags: "#tutorial, #fashionblogger, #happy, #blondhair"
 ---

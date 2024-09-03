@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fitness TikTok Influencers In Atlanta In 2023
+title: Top 10 Fitness TikTok Influencers In Atlanta In 2024
 description: >-
-  Find top fitness TikTok influencers in Atlanta in 2023. Most popular hashtags: #fyp #workout #fitness #atlanta.
+  Find top fitness TikTok influencers in Atlanta in 2024. Most popular hashtags: #fyp #fitness #workout #atlanta.
 platform: TikTok
 hits: 23
-text_top: Analyze the top-rated TikTok influencers on inBeat.
-text_bottom: Our database holds 23 TikTok influencers like this in Atlanta, United States for you to connect with.
+text_top: Identify the best TikTok influencers on inBeat.
+text_bottom: Our database holds 23 TikTok influencers like this in Atlanta, United States for you to collaborate.
 profiles:
   - username: "blakedittle"
     fullname: >-
@@ -19,18 +19,6 @@ profiles:
     id: ck8kdbxz558or0j78ufix6xjh
     verified: false
     hashtags: "#conservative, #republican, #gop, #usa"
-  - username: "healthyassets"
-    fullname: >-
-      HealthyAssets
-    bio: >-
-      🇬🇷🇺🇸 Woman Owned Athletic Wear Company SHOP US NOW ⬇️
-    location: "United States"
-    followers: 3247
-    engagement: 555
-    commentsToLikes: 0.052268
-    id: ckdi7lqf59l2h0j23zcnfmgbz
-    verified: false
-    hashtags: "#girlboss, #leggings, #workout, #fitgirls"
   - username: "maxalbertsonn"
     fullname: >-
       Max Albertson
@@ -90,7 +78,7 @@ profiles:
     commentsToLikes: 0.015813
     id: ckafvc583e1gb0i78in6etwhk
     verified: true
-    hashtags: "#goforthehandful, #foryoupage, #baseballszn, #baseball"
+    hashtags: "#4u, #mlb, #fyp, #baseballtiktok"
   - username: "avedarave"
     fullname: >-
       Avery Bartlett
@@ -126,5 +114,17 @@ profiles:
     commentsToLikes: 0.014001
     id: ck8kd2q113wyq0j7872scbdvc
     verified: false
-    hashtags: "#realtorlife, #atlanta, #watchtillend, #dontletthisflop"
+    hashtags: "#foryou, #foryoupage, #fyp, #dontletthisflop"
+  - username: "davidnoorman"
+    fullname: >-
+      David Noorman
+    bio: >-
+      Daytona Beach, FL | 21 🇺🇸 Certified Flight Instructor ✈️
+    location: "United States"
+    followers: 17000
+    engagement: 806
+    commentsToLikes: 0.021488
+    id: ck7zo6w9tid950j78jafir6or
+    verified: false
+    hashtags: "#airport, #michigan, #foryoupage, #aviation"
 ---

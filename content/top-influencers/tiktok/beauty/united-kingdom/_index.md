@@ -1,11 +1,11 @@
 ---
-title: Top 10 Beauty TikTok Influencers In United Kingdom In 2023
+title: Top 10 Beauty TikTok Influencers In United Kingdom In 2024
 description: >-
-  Find top beauty TikTok influencers in United Kingdom in 2023. Most popular hashtags: #foryou #fyp #duet #foryoupage.
+  Find top beauty TikTok influencers in United Kingdom in 2024. Most popular hashtags: #fyp #foryou #duet #foryoupage.
 platform: TikTok
-hits: 734
+hits: 726
 text_top: Discover the most popular TikTok influencers on inBeat.
-text_bottom: Our database has 734 TikTok influencers like this in United Kingdom for you to collaborate.
+text_bottom: Our platform aggregates 726 TikTok influencers like this in United Kingdom for you to connect with.
 profiles:
   - username: "local_bitch_0"
     fullname: >-
@@ -102,7 +102,7 @@ profiles:
     commentsToLikes: 0.188786
     id: cka0tg6sapsxe0i787ggd16ro
     verified: false
-    hashtags: "#makeuptransformation, #learnontiktok, #backtowork, #over40club"
+    hashtags: "#over40club, #35plusclub, #over35club, #makeuptransformation"
   - username: "vijaya0609"
     fullname: >-
       Vijjjj
@@ -126,5 +126,5 @@ profiles:
     commentsToLikes: 0.005281
     id: cka0jj3ufi8420i78xl9qad3z
     verified: false
-    hashtags: "#theinkeylist, #beautyhacks, #foryou, #girltalk"
+    hashtags: "#ad, #foryou, #beautyhacks, #insecurities"
 ---

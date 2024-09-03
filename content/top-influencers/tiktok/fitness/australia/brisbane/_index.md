@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fitness TikTok Influencers In Brisbane In 2023
+title: Top 10 Fitness TikTok Influencers In Brisbane In 2024
 description: >-
-  Find top fitness TikTok influencers in Brisbane in 2023. Most popular hashtags: #fyp #australia #fitness #foryou.
+  Find top fitness TikTok influencers in Brisbane in 2024. Most popular hashtags: #fyp #australia #fitness #foryou.
 platform: TikTok
 hits: 7
-text_top: Analyze the best TikTok influencers on inBeat.
-text_bottom: Our search engine holds 7 TikTok influencers like this in Brisbane, Australia for you to contact.
+text_top: Identify the top-rated TikTok profiles on inBeat.
+text_bottom: Our platform holds 7 TikTok influencers like this in Brisbane, Australia for you to pitch.
 profiles:
   - username: "geekfitpt"
     fullname: >-
@@ -19,18 +19,6 @@ profiles:
     id: ckbl6yhoz4o0g0j23v9h0pqix
     verified: false
     hashtags: "#dramaticmoments, #stepbystep, #feelinggood, #somethingyoulearned"
-  - username: "carbie2barbiee"
-    fullname: >-
-      FinauSuliana
-    bio: >-
-      FOLLOW ME ON INSTA 📸 🇹🇴🇦🇺 𝐅 𝐈 𝐍 𝐀 𝐔 𝐒 𝐔 𝐋 𝐈 𝐀 𝐍 𝐀 🌙
-    location: "Australia"
-    followers: 154200
-    engagement: 531
-    commentsToLikes: 0.042272
-    id: ck8farqus4mkt0j785qqk209v
-    verified: false
-    hashtags: "#trending, #fyp, #f45, #plussize"
   - username: "gorjessss"
     fullname: >-
       Jessie Qua
@@ -79,6 +67,18 @@ profiles:
     id: ckb0rvc49hbeb0j23w4gilt7b
     verified: false
     hashtags: "#fyp, #australia, #couplecomedy, #tiktokaustralia"
+  - username: "carbie2barbiee"
+    fullname: >-
+      FinauSuliana
+    bio: >-
+      FOLLOW ME ON INSTA 📸 🇹🇴🇦🇺 𝐅 𝐈 𝐍 𝐀 𝐔 𝐒 𝐔 𝐋 𝐈 𝐀 𝐍 𝐀 🌙
+    location: "Australia"
+    followers: 154200
+    engagement: 531
+    commentsToLikes: 0.042272
+    id: ck8farqus4mkt0j785qqk209v
+    verified: false
+    hashtags: "#workoutroutine, #trending, #plussizeedition, #weightloss"
   - username: "lovelyoony"
     fullname: >-
       lovelyoony
@@ -102,7 +102,7 @@ profiles:
     commentsToLikes: 0.037595
     id: ck9si9khrxu4z0j78qxqgzuu5
     verified: false
-    hashtags: "#dogs, #babybeagle, #beagle, #puppydog"
+    hashtags: "#dog, #rebelmichelehealth, #womenover40, #over40women"
   - username: "mydebstinations"
     fullname: >-
       Deb | Geek Style in Sydney ✨

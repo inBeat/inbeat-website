@@ -1,11 +1,11 @@
 ---
-title: Top 10 Skincare TikTok Influencers In Canada In 2023
+title: Top 10 Skincare TikTok Influencers In Canada In 2024
 description: >-
-  Find top skincare TikTok influencers in Canada in 2023. Most popular hashtags: #skincare #fyp #skincaretips #skincareroutine.
+  Find top skincare TikTok influencers in Canada in 2024. Most popular hashtags: #skincare #fyp #skincaretips #skincareroutine.
 platform: TikTok
-hits: 425
-text_top: Analyze the most popular TikTok profiles on inBeat.
-text_bottom: Our search engine aggregates 425 TikTok influencers like this in Canada for you to work with.
+hits: 405
+text_top: Discover the most popular TikTok influencers on inBeat.
+text_bottom: Our search engine holds 405 TikTok influencers like this in Canada for you to contact.
 profiles:
   - username: "ryandubs"
     fullname: >-
@@ -51,10 +51,10 @@ profiles:
     location: "Canada"
     followers: 31000
     engagement: 583
-    commentsToLikes: 0.028901
+    commentsToLikes: 0.028900
     id: ckb9m6ptnf2kg0j23rf7vd6nt
     verified: false
-    hashtags: "#foryou, #momlife, #toddler, #foryoupage"
+    hashtags: "#toddlerlife, #fyp, #momlife, #toddlersoftiktok"
   - username: "jackiedymondskin"
     fullname: >-
       Jackiedymond
@@ -90,7 +90,7 @@ profiles:
     commentsToLikes: 0.065228
     id: ckcpe7qytg9uh0j23rkpymbn7
     verified: false
-    hashtags: "#spf, #skincaretips, #theordinary, #theordinaryskincare"
+    hashtags: "#sunscreen, #skincareyesorno, #spf, #ceraveskincare"
   - username: "sunaina.malik15"
     fullname: >-
       Sunaina

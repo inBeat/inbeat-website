@@ -1,24 +1,36 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Birmingham In 2023
+title: Top 10 Fitness Instagram Influencers In Birmingham In 2024
 description: >-
-  Find top fitness Instagram influencers in Birmingham in 2023. Most popular hashtags: #fitness #ootd #style #fashion.
+  Find top fitness Instagram influencers in Birmingham in 2024. Most popular hashtags: #fitness #ootd #fitnessmotivation #gymmotivation.
 platform: Instagram
-hits: 14
-text_top: Discover the best Instagram influencers on inBeat.
-text_bottom: inBeat holds 14 Instagram influencers like this in Birmingham, United Kingdom for you to contact.
+hits: 22
+text_top: See the most popular Instagram profiles on inBeat.
+text_bottom: Our platform has 22 Instagram influencers like this in Birmingham, United Kingdom for you to collaborate.
 profiles:
-  - username: "rehmank19"
+  - username: "kieranqf"
     fullname: >-
-      Rehman Kudia
+      KIERAN QUINLAN | TRANSFORMATION COACH
     bio: >-
-      AR♥️FK 🇮🇳🇬🇧 Snap Chat:- rehmank19
+      ✖CEO @thepitgym_jq | 5000+ TRANSFORMATIONS ✖️INTENSIVE CARE ➡️ MILLIONAIRE 🗡💰 ✖️BUSINESS MAN OF THE YEAR // INSPIRATIONAL PERSON OF THE YEAR 2021
     location: "United Kingdom"
-    followers: 82418
-    engagement: 161
-    commentsToLikes: 0.026070
-    id: ck0uc5wx1g5h30i199cxq3yzg
+    followers: 22538
+    engagement: 1187
+    commentsToLikes: 0.035019
+    id: cl6olxkzrlqsl0i231krh2kqb
     verified: false
-    hashtags: "#staystrong, #lookbook, #motivation, #travelgram"
+    hashtags: "#bodytransformationbirmingham, #pitgang, #inspired, #motivated"
+  - username: "goodlucknic"
+    fullname: >-
+      Nicole✨  Motherhood & Fitness
+    bio: >-
+      The life & Times of Me 🫶🏽 Boy Mom, Navigating Postpartum 🤍 Health & Fitness journey 📍 Birmingham DM to collab
+    location: "United Kingdom"
+    followers: 13670
+    engagement: 323
+    commentsToLikes: 0.038021
+    id: cl088gptjakb60i23tqa63346
+    verified: false
+    hashtags: "#toddlermum, #motherhooduk, #parentingtips, #mumlife"
   - username: "lauradennisonfit"
     fullname: >-
       LAURA. D THE PT ♥️
@@ -31,6 +43,54 @@ profiles:
     id: ckaowaiyw82gw0i78bpzpd3xd
     verified: false
     hashtags: "#gift, #metcons, #mondaymotivation, #fitbitch101"
+  - username: "healthymeganbl"
+    fullname: >-
+      𝐌𝐄𝐆𝐀𝐍 🕊
+    bio: >-
+      📍 birmingham ☁️ life home fitness fashion ⚡️ tiktok: meganbl 💌 meganlowe2@googlemail.com
+    location: "United Kingdom"
+    followers: 30997
+    engagement: 332
+    commentsToLikes: 0.023725
+    id: ck13c6znnywyh0i19hsly6i75
+    verified: false
+    hashtags: "#wakeupwithemma, #emmamattress, #virginexperiencedays"
+  - username: "move.with.mica"
+    fullname: >-
+      MICA ALLEN | MIND. BODY. SOUL 🦋
+    bio: >-
+      Helping women physically & mentally transform💪🏽🧠 Founder: @hghclub_ 🥾 Link below for all services & enquiries⬇️ Birmingham 📍
+    location: "United Kingdom"
+    followers: 5521
+    engagement: 507
+    commentsToLikes: 0.130525
+    id: cl10kpyw1vxtz0i23ivpif5lw
+    verified: false
+    hashtags: "#oneractive, #model, #london, #bts"
+  - username: "bethanygraceshawx"
+    fullname: >-
+      Bethany Grace Shaw
+    bio: >-
+      Outfits | Beauty | Food | Lifestyle ✨ •📍Birmingham, UK • 🪴content creator • 💌 bethanygraceshaw@outlook.com
+    location: "United Kingdom"
+    followers: 5502
+    engagement: 341
+    commentsToLikes: 0.056337
+    id: clple2c29x4sv0k08hjadulq1
+    verified: false
+    hashtags: "#selfie, #me, #birminghaminfluencer, #alternative"
+  - username: "elizas_everyday"
+    fullname: >-
+      Eliza's_everyday
+    bio: >-
+      Birmingham Blogger & host of... #whatweworeonwednesday 💥Fashion 💥Beauty 💥Fitness ✈️ next destination France 🇫🇷
+    location: "United Kingdom"
+    followers: 24476
+    engagement: 136
+    commentsToLikes: 0.513135
+    id: ck5bw68vel2m20i11vebkj9bq
+    verified: false
+    hashtags: "#styleinspo, #streetstyle, #sunnyday, #holidayvibes"
   - username: "juannafitness.2"
     fullname: >-
       Juju 🤍
@@ -43,42 +103,6 @@ profiles:
     id: ckap0okftr6tw0i78m4w9nmto
     verified: false
     hashtags: "#womenwholift, #gymshark, #lift, #gym"
-  - username: "youraverageguystyle"
-    fullname: >-
-      Adam York
-    bio: >-
-      • Fashion Blogger UK 🇬🇧 • Birmingham / London / Scotland ⬆️ Check out my stories!
-    location: "United Kingdom"
-    followers: 62702
-    engagement: 84
-    commentsToLikes: 0.087495
-    id: ck15sohpoe15c0i19fu5td510
-    verified: false
-    hashtags: "#fashionmens, #coupleslove, #details, #mensstyles"
-  - username: "ab_bowen"
-    fullname: >-
-      Alex Bowen
-    bio: >-
-      ▪️All enquiries Freddy@whitelabelmgmt.co.uk ▪️ Fitness page @abx.performance ▪️Owner @exemptsociety
-    location: "United Kingdom"
-    followers: 1612794
-    engagement: 159
-    commentsToLikes: 0.003555
-    id: ck136p5ay7kng0i19o7qs0as9
-    verified: true
-    hashtags: "#ad, #mcdeliveryblankets, #wedare2b, #lonsdale"
-  - username: "elizas_everyday"
-    fullname: >-
-      Eliza's_everyday
-    bio: >-
-      Birmingham Blogger & host of... #whatweworeonwednesday 💥Fashion 💥Beauty 💥Fitness 💥Mum to 2 gorgeous boys 💥Next travel destination French Alps
-    location: "United Kingdom"
-    followers: 21277
-    engagement: 249
-    commentsToLikes: 0.408494
-    id: ck5bw68vel2m20i11vebkj9bq
-    verified: false
-    hashtags: "#brightcolorsmakemehappy, #over30fashion, #brightcolors, #blue"
   - username: "ben.gym.in_"
     fullname: >-
       Benjamin Hutchings 🐢
@@ -103,28 +127,4 @@ profiles:
     id: ckap943ifr2fq0i785kp3b3c0
     verified: false
     hashtags: "#hypebaekicks, #maisonclose, #highsnobietystyle, #streetwear"
-  - username: "peaky.blinders_shelby"
-    fullname: >-
-      Peaky Blinders
-    bio: >-
-      Most interesting and complete #PeakyBlinders page☠️ 🔥Pics and videos 🔥Information 🔥Upgrades 🔥Quotes Birmingham, United Kingdom📍
-    location: "United Kingdom"
-    followers: 10335
-    engagement: 754
-    commentsToLikes: 0.005670
-    id: ck14l40hosqla0i19qzxozxhv
-    verified: false
-    hashtags: "#birmingham, #thomasshelby, #filmquotes, #lovequotes"
-  - username: "lippers01"
-    fullname: >-
-      𝐑𝐨𝐬𝐢𝐞 𝐋𝐢𝐩𝐩𝐦𝐚𝐧𝐧 🇬🇧
-    bio: >-
-      Qualified PT 🥊 🏋🏼‍♀️ #HITCHIN (Herts) JOEY 👦🏼💙 My kitten - @cat_binx01 DM/ 📧 for collaboration (Discount in HL’s)
-    location: "United Kingdom"
-    followers: 15916
-    engagement: 605
-    commentsToLikes: 0.430240
-    id: ck6tlsytd6l160j71fswhqfjb
-    verified: false
-    hashtags: "#spa, #fashionista, #mumsthatlift, #healthylifestyle"
 ---

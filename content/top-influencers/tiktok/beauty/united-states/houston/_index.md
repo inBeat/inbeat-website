@@ -1,11 +1,11 @@
 ---
-title: Top 10 Beauty TikTok Influencers In Houston In 2023
+title: Top 10 Beauty TikTok Influencers In Houston In 2024
 description: >-
-  Find top beauty TikTok influencers in Houston in 2023. Most popular hashtags: #fyp #houston #beauty #foryoupage.
+  Find top beauty TikTok influencers in Houston in 2024. Most popular hashtags: #fyp #houston #beauty #foryoupage.
 platform: TikTok
 hits: 24
-text_top: Discover the most popular TikTok accounts on inBeat.
-text_bottom: inBeat holds 24 TikTok influencers like this in Houston, United States for you to pitch.
+text_top: Discover the most popular TikTok profiles on inBeat.
+text_bottom: Our database aggregates 24 TikTok influencers like this in Houston, United States for you to work with.
 profiles:
   - username: "hala_st"
     fullname: >-
@@ -31,6 +31,18 @@ profiles:
     id: ckbf5tmbov1sc0j23vzzcth9h
     verified: false
     hashtags: "#houston, #fyp, #ombrepowdereyebrows, #ombrepowderbrows"
+  - username: "estefisaavy"
+    fullname: >-
+      Estefania Saavedra
+    bio: >-
+      Anxiety Makes Me Funny 11403 Barker Cypress, Ste J #140 Cypress, TX. 77433 🇪🇨
+    location: "United States"
+    followers: 1400000
+    engagement: 1558
+    commentsToLikes: 0.016005
+    id: ckcejplhusp8u0j235bvlpinz
+    verified: true
+    hashtags: "#trend, #latina, #duet, #greenscreenvideo"
   - username: "mr___fabulous"
     fullname: >-
       MRFABULOUS
@@ -66,7 +78,7 @@ profiles:
     commentsToLikes: 0.057289
     id: ck8rs69unxeww0j78a3ewrvuf
     verified: false
-    hashtags: "#makeup, #makeuphacks, #drugstoremakeup, #foryou"
+    hashtags: "#makeup, #momsoftiktok, #makeuphacks, #drugstoremakeup"
   - username: "ashlynnhirth"
     fullname: >-
       Ashlynn Hirth
@@ -90,7 +102,7 @@ profiles:
     commentsToLikes: 0.032297
     id: ckbl4dmhf1wct0j23diqll2g6
     verified: false
-    hashtags: "#houston, #936, #foryoupage, #texas"
+    hashtags: "#aeriereal, #fyp, #viral, #justaddbriskzero"
   - username: "statickiss"
     fullname: >-
       ⚡️💋Statickiss
@@ -115,16 +127,4 @@ profiles:
     id: cka0kfe7pmebm0i78ye4t7ocm
     verified: false
     hashtags: "#25, #mexico, #norte, #burpees"
-  - username: "domo_arigatoo06"
-    fullname: >-
-      dominiquechilli
-    bio: >-
-      BANNED AT 10k DUET KING IS BACK! JOIN THE DOMOGANG! F.O.E Subscribe to my YT!
-    location: "United States"
-    followers: 37600
-    engagement: 1345
-    commentsToLikes: 0.040002
-    id: ckbf5ti13v19u0j23kc0nfoad
-    verified: false
-    hashtags: "#blacklivesmatter, #weeb, #mom, #india"
 ---

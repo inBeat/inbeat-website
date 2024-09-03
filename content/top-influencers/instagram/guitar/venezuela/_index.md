@@ -1,11 +1,11 @@
 ---
-title: Top 10 Guitar Instagram Influencers In Venezuela In 2023
+title: Top 10 Guitar Instagram Influencers In Venezuela In 2024
 description: >-
-  Find top guitar Instagram influencers in Venezuela in 2023. Most popular hashtags: #venezuela #guitar #music #musica.
+  Find top guitar Instagram influencers in Venezuela in 2024. Most popular hashtags: #venezuela #music #guitar #cuarentena.
 platform: Instagram
-hits: 9
-text_top: Analyze the best Instagram influencers on inBeat.
-text_bottom: Our platform aggregates 9 Instagram influencers like this in Venezuela for you to collaborate.
+hits: 10
+text_top: See the most popular Instagram accounts on inBeat.
+text_bottom: Our database holds 10 Instagram influencers like this in Venezuela for you to contact.
 profiles:
   - username: "lerihenriquez"
     fullname: >-
@@ -115,4 +115,16 @@ profiles:
     id: ck55lh9lq1k6v0i11y9veer8s
     verified: true
     hashtags: "#flute, #flauta, #musica, #evolucionando"
+  - username: "por.fin.mama"
+    fullname: >-
+      Tatiana Rosales | Tips para mamás y actividades para niños
+    bio: >-
+      ⭐️Mi misión es darle un mejor comienzo a los niños y facilitarle la vida a las mamás 📚Autora del libro infantil MIRA TU CACA Conócelo aquí👇
+    location: "Venezuela"
+    followers: 205819
+    engagement: 1078
+    commentsToLikes: 0.089482
+    id: clpfe0kdjj6py0k087j5p0npf
+    verified: false
+    hashtags: "#tip, #instamom, #actividadesparani, #librosinfantiles"
 ---

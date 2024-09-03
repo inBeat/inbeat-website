@@ -1,12 +1,36 @@
 ---
-title: Top 10 Barbers Instagram Influencers In Poland In 2023
+title: Top 10 Barbers Instagram Influencers In Poland In 2024
 description: >-
-  Find top barbers Instagram influencers in Poland in 2023. Most popular hashtags: #polishboy #barber #warszawa #weekend.
+  Find top barbers Instagram influencers in Poland in 2024. Most popular hashtags: #polishboy #polskichlopak #poland #instagood.
 platform: Instagram
-hits: 30
-text_top: Discover the most popular Instagram profiles on inBeat.
-text_bottom: Our search engine holds 30 Instagram influencers like this in Poland for you to collaborate.
+hits: 35
+text_top: Discover the most popular Instagram influencers on inBeat.
+text_bottom: Our search engine has 35 Instagram influencers like this in Poland for you to collaborate.
 profiles:
+  - username: "monia.kulczynska"
+    fullname: >-
+      Monika Kulczyńska
+    bio: >-
+      ғᴀᴍɪʟʏ | ғᴀsʜɪᴏɴ | ʟɪғᴇsᴛʏʟᴇ | ɴᴀɪʟs #momof2girls Kaja👧🏼,Pola👶🏻 Owner @kulczynsky.barbershop Przedstawiciel Hizero @henryczek_mop_bioniczny
+    location: "Poland"
+    followers: 71082
+    engagement: 220
+    commentsToLikes: 0.061194
+    id: ck15tg80phxie0i19zitjiban
+    verified: false
+    hashtags: "#momlife, #zprzymru, #reelspolska, #momof2girls"
+  - username: "olie_siiz"
+    fullname: >-
+      ✤ 𝗢𝗹𝗶𝗲 𝗦𝗶𝗶𝘇 ✤
+    bio: >-
+      ✤ 💙💛 ✤ Warsaw. Pl📍 ✤ Pro team: @eternalink @barber_dts @stencilstuff ✤ oliesiiztattoo@gmail.com ✤ ✤ My shop @siiz.atelier ✤ Private @oliesiiz
+    location: "Poland"
+    followers: 198863
+    engagement: 292
+    commentsToLikes: 0.007096
+    id: ck5hk68ahhv2w0i11f5wa2oqs
+    verified: false
+    hashtags: "#radtattoos, #tatouage, #tattooed, #womantattoo"
   - username: "den_cutting"
     fullname: >-
       𝗗𝗘𝗡𝗜𝗦 𝗡𝗔𝗥𝗬𝗞𝗢𝗩 🦂
@@ -18,19 +42,7 @@ profiles:
     commentsToLikes: 0.005628
     id: ck134f5o8w5ex0i194ryi1y8x
     verified: false
-    hashtags: "#mensworld, #model, #mensfashionpost, #tattooer"
-  - username: "olie_siiz"
-    fullname: >-
-      ❈ 𝗢𝗹𝗶𝗲 𝗦𝗶𝗶𝘇 ❈
-    bio: >-
-      ❈ Tattoo in Warsaw ❈ ❈ My Atelier @siiz.atelier ❈ ❈ oliesiiztattoo@gmail.com ❈ @eternalink @barber_dts @balm_tattoo ❈ Private account @oliesiiz ❈
-    location: "Poland"
-    followers: 184307
-    engagement: 411
-    commentsToLikes: 0.007736
-    id: ck5hk68ahhv2w0i11f5wa2oqs
-    verified: false
-    hashtags: ""
+    hashtags: "#art, #skullhead, #gentleman, #model"
   - username: "niester_house"
     fullname: >-
       𝐃𝐀𝐖𝐈𝐃 𝐍𝐈𝐄𝐒𝐓𝐄𝐑
@@ -43,88 +55,76 @@ profiles:
     id: ck14hsr1iby1d0i19pyo5k9au
     verified: false
     hashtags: "#zdrowywybor, #mensfashion, #beard, #3city"
+  - username: "kakmag"
+    fullname: >-
+      Klaudia Warsaw ♥
+    bio: >-
+      🏆Juror plebiscytu Influencer's Top , ♥️Mama Wiktorii , 🌍podróże
+    location: "Poland"
+    followers: 17473
+    engagement: 750
+    commentsToLikes: 0.033171
+    id: ck6trwxjo1jlt0j71omfh1pqt
+    verified: false
+    hashtags: "#summervibes, #reklama, #dlaniego, #polishgirl"
   - username: "dream_chaser1986"
     fullname: >-
       Przemysław Błędowski
     bio: >-
-      ℙ𝕤𝕖𝕦𝕕o Colab: p.bledowski13@gmail.com #aktor 🎥 #menager 📈 #inwestor 💰 #podróżnik 🌍 #gymfreak 🦸‍♀️
+      
     location: "Poland"
-    followers: 14324
-    engagement: 934
-    commentsToLikes: 0.051677
+    followers: 13903
+    engagement: 570
+    commentsToLikes: 0.031078
     id: ck5cbluw0fp8n0i1147wtwce7
     verified: false
-    hashtags: "#facet, #brodaty, #niedziela, #brodacz"
-  - username: "glodnyswiata"
+    hashtags: "#polishboy, #niedziela, #brodacz, #facet"
+  - username: "jackevening"
     fullname: >-
-      Filip Turowski | GłodnyŚwiata
+      Jacek Wieczorek
     bio: >-
-      Najsmaczniejszy blog o podróżach i jedzeniu | warsztaty i wyjazdy kulinarne | podróż dookoła świata 📍 Madera | 🌎 57 #glodniswiata
+      Living healthy with a smile😊 Join my trainings here⬇️
     location: "Poland"
-    followers: 20343
-    engagement: 491
-    commentsToLikes: 0.057798
-    id: ck0ubgfr6ekly0i19t4yyriph
+    followers: 103014
+    engagement: 927
+    commentsToLikes: 0.021481
+    id: ckf5r3wiabbza0j233job6wab
     verified: false
-    hashtags: "#podr, #podroze, #malefashion, #traveltheworld"
-  - username: "szymanskimma"
+    hashtags: "#gymrat, #goodmorning, #trainer, #outfit"
+  - username: "adamniedzwiedz"
     fullname: >-
-      Roman Szymański
+      Jiu Jitsu | MMA Fighter
     bio: >-
-      @ksw_mma fighter Record 11:4 Czerwony Smok MACACO🐒 Gold Team 👊 BJJ black belt🤙@mariuszlinke 🙏 Co-owner 👉 @fame_tattoo_ Co-owner 👉 @fametattoobarber
+      PRO MMA FIGHTER 8-4-1💪 7 WINS BY SUBMISSION 🐍 BJJ Brownbelt 👊
     location: "Poland"
-    followers: 46210
-    engagement: 526
-    commentsToLikes: 0.009756
-    id: ck0u29adgzair0i19geh8v9pa
+    followers: 82827
+    engagement: 111
+    commentsToLikes: 0.006594
+    id: ck6tptbwzmpmp0j71b2pmg0ce
     verified: false
-    hashtags: "#ksw, #tattoo, #mylife, #mma"
-  - username: "twm_czerwin"
+    hashtags: "#mma, #jiujitsu, #420, #wrestling"
+  - username: "instabaks"
     fullname: >-
-      twm_czerwin™
+      Kamil Baks
     bio: >-
-      ▪️BOOKING: @maciejszulce +48 519 301 907 ▪️MANAGEMENT: +48 508 535 302
+      Rock! Don’t stock Sneakerhead 10.5US👟 Content creator🧙‍♂️ Explore culture of Japan🎌 #InstabaksTALK #TeamKlekt/@klekt
     location: "Poland"
-    followers: 8428
-    engagement: 876
-    commentsToLikes: 0.011225
-    id: ck5hp4eq9qqix0i11e51wsj5f
+    followers: 27391
+    engagement: 100
+    commentsToLikes: 0.075177
+    id: ck14lmslvvgac0i19rir20jvq
     verified: false
-    hashtags: "#parkour, #ciemnastrefamixtape, #bonusrpk, #czerwin"
-  - username: "kuba.kowalewski"
+    hashtags: "#italy, #skies, #maderaisland, #ootdfashion"
+  - username: "style_personal"
     fullname: >-
-      Jakub Kowalewski
+      Mateusz Małkiewicz
     bio: >-
-      ▫️Szczecinek, Poland ▫️@sklep.sfd ➡️ -10% kod: kowalewski10 ᴛᴀᴋᴇ ᴛʜᴇ ʀɪꜱᴋ ᴏʀ ʟᴏꜱᴇ ᴛʜᴇ ᴄʜᴀɴᴄᴇ
+      Współpraca📨 : eledudu159@gmail.com 📍 Gliwice 🚀 Trochę życia, trochę memów! 🚀 Przeplatam trochę życia codziennego z dawka codziennych memów!
     location: "Poland"
-    followers: 13807
-    engagement: 986
-    commentsToLikes: 0.022411
-    id: ckap7cy35jiwp0i78bkowazis
+    followers: 188761
+    engagement: 81
+    commentsToLikes: 0.024326
+    id: ck8sxkycahs1w0j78wxjw8qn5
     verified: false
-    hashtags: "#polishboy, #photoshoot, #koszalin, #wroclaw"
-  - username: "ireneusz_pochwala"
-    fullname: >-
-      Ireneusz Pochwała
-    bio: >-
-      💻 OWNER https://catering-pochwala.com/ 🥇 World champion 2020 Fit-Model Ambasador SOUVRE 💜
-    location: "Poland"
-    followers: 15800
-    engagement: 710
-    commentsToLikes: 0.029167
-    id: ck6tybtey2tgs0j71z4pl36nx
-    verified: false
-    hashtags: "#hair, #nice, #rozw, #gym"
-  - username: "esey_o_silowni"
-    fullname: >-
-      Mateusz Kozłowski
-    bio: >-
-      Kierownik budowy, który wymyślił sobie, że będzie fit! 📧 eseyosilowni@gmail.com - „esey15” na @deadlift.company - „esey_fitmark” na @fitmark_polska _
-    location: "Poland"
-    followers: 16448
-    engagement: 249
-    commentsToLikes: 0.020361
-    id: ck6tx8dk6welf0j71dvkp0fym
-    verified: false
-    hashtags: "#engineers, #remontdomu, #kierownikbudowy, #wiosna"
+    hashtags: "#smiesznefilmiki, #instagood, #slask, #halloweencostume"
 ---

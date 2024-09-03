@@ -1,130 +1,130 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In Montreal in 2023
+title: Top 10 Nutrition Instagram Influencers In Montreal In 2024
 description: >-
-  Find top nutrition Instagram influencers in Montreal in 2023. Most popular hashtags: #fitness #nutrition #montreal #lifestyle.
+  Find top nutrition Instagram influencers in Montreal in 2024. Most popular hashtags: #nutrition #healthylifestyle #gifted #supplements.
 platform: Instagram
-hits: 7
-text_top: Identify the most popular Instagram profiles on inBeat.
-text_bottom: Our database aggregates 7 Instagram influencers like this in Montreal, Canada for you to pitch.
+hits: 4
+text_top: Analyze the best Instagram profiles on inBeat.
+text_bottom: Our platform aggregates 4 Instagram influencers like this in Montreal, Canada for you to connect with.
 profiles:
-  - username: "liliane_mia"
-    fullname: >-
-      Liliane
-    bio: >-
-      Workout ideas & motivation @bnisupplements sponsored athlete @vikings_nutrition 20% OFF "LILY20" @fitboxboutique 20% OFF "LILY20" DM for collabs.
-    location: "Canada"
-    followers: 3187
-    engagement: 1667
-    commentsToLikes: 0.304731
-    id: ckap3d94p2kop0i78eyxe8m97
-    verified: false
-    hashtags: "#bodybuilding, #strengthtraining, #fitnessgoals, #fitspo"
   - username: "roballenfitness"
     fullname: >-
-      Rob Allen | Coach
+      Rob Allen | Fat Loss Coach
     bio: >-
-      🔥 I help people lose weight 💪🏼 BSc. Exercise Science 🍉 Precision Nutrition certified ↘️ Join my free FB group ↙️
+      🔥 I help women over 30 lose fat for good 📲 DM me “LEAN” for more info 👇🏼Apply to work with me
     location: "Canada"
-    followers: 183508
-    engagement: 76
-    commentsToLikes: 0.023718
+    followers: 232241
+    engagement: 99
+    commentsToLikes: 0.018249
     id: ck0txn7lpjq1y0i19meymsmhh
     verified: false
-    hashtags: "#gymlife, #exerciseinfo, #squats, #fatlossprogram"
-  - username: "ahmedkarim94"
+    hashtags: "#workoutideas, #dieter, #fatlosstips, #health"
+  - username: "simplyblushed"
     fullname: >-
-      Ahmed Karim/ احمد كريم
+      LUCY D'ANDREA
     bio: >-
-      Cairo 🇪🇬/ Mtl 🇨🇦 Fitness As a Lifestyle ➡️“Run Your Own Race” The body achieves what the mind beleives⚡️ Online Coaching & Fitness Programs👇
+      BEAUTY | LIFESTYLE | MOTHERHOOD ✉️ PR/Collab. : simplyxblushed@gmail.com 🧸 Momma to Michael (size 9-12months | size 3 diapers) 📍Montreal 🇨🇦
     location: "Canada"
-    followers: 10504
-    engagement: 770
-    commentsToLikes: 0.025571
-    id: ckap3d96x2kpy0i780nzhdp8z
+    followers: 56008
+    engagement: 882
+    commentsToLikes: 0.036153
+    id: ckwzuvk0vymz60j237y7g6bsz
     verified: false
-    hashtags: "#onlinecoaching, #healthy, #egypt, #stayhealthy"
-  - username: "3hellhounds"
+    hashtags: "#makeup, #nourishyourbody, #healthy, #boxycharm"
+  - username: "zelatakogan"
     fullname: >-
-      Ruby•Prince•Damon | Dobermans
+      Zelata Kogan
     bio: >-
-      👤| Mia | 26 | 🧿🇬🇷 🎂| 28.05.14 💎| 30.12.14 👑|12.02.18😈 💌| Let's Collaborate: ⤵️ threehellhounds@gmail.com
+      Montreal (Candiac really)📍⁣⁣ Naturopathic Student N.D 🌿 Integrative Nutrition Health Coach Book a session with me (reiki or health coaching)👇🏻👇🏻
     location: "Canada"
-    followers: 69378
-    engagement: 430
-    commentsToLikes: 0.042566
-    id: ck6u7nfe1mk3z0j71ik9hy2xr
+    followers: 27924
+    engagement: 103
+    commentsToLikes: 0.115165
+    id: ck0w5crhg30dy0i19c333e796
     verified: false
-    hashtags: "#homedecor, #dobermann, #dobermanpinschers, #doberman"
-  - username: "myorganicdiary"
+    hashtags: "#lowcarb, #todaysatkins, #gifted, #atkins"
+  - username: "working_chix"
     fullname: >-
-      Happy Eating + Living 🥑
+      Anna Przezak • Fashion Beauty Lifestyle Blogger
     bio: >-
-      👩🏻‍🔬 Dietetics Student + #IIN Holistic Health Coach 🥑 Anti-Inflammatory #PlantBased Living 📸 Food + Lifestyle Creator 🇫🇷 French Eat-Girl in📍MTL
+      CPA, CA Polish girl from Montreal, living in📍Toronto 📩 workingchix@gmail.com
     location: "Canada"
-    followers: 21304
-    engagement: 305
-    commentsToLikes: 0.041849
-    id: ck6ttj527awby0j7166tt8nbz
+    followers: 30666
+    engagement: 86
+    commentsToLikes: 0.072082
+    id: ck9wh6amgwge60j782z3gl8jx
     verified: false
-    hashtags: "#iinhealthcoach, #foodphotography, #instagood, #healthyfood"
-  - username: "shaksz_3"
+    hashtags: "#foodie, #torontoblogger, #parisianstyle, #homedecor"
+  - username: "julessjacobson"
     fullname: >-
-      Ahmed Mesallati
+      Jules Jacobson | Online Fitness Coach
     bio: >-
-      ▫Mens Physique 🏆 ▫️Actor | Athlete | Architect ▫Toronto | Abu Dhabi | Gold Coast ✖️ 決して満足しない
+      BScHK (Hons), Bodybuilding Specialist 1:1 Coaching (limited spots) 🔗⬇️ @tc.nutrition Jules10 • @vqfit 🔗⬇️
     location: "Canada"
-    followers: 38753
-    engagement: 479
-    commentsToLikes: 0.033904
-    id: ck14jig87kikb0i19w6no7dxd
+    followers: 18819
+    engagement: 1010
+    commentsToLikes: 0.009770
+    id: cl5l2i7ka8e610i23wnr5yqf6
     verified: false
-    hashtags: "#candy, #hollywoodnorth, #motivation, #hulu"
-  - username: "jennydailey88"
+    hashtags: "#backworkout, #legs, #bodybuilding, #bicepsuperset"
+  - username: "thepurrpawsbros"
     fullname: >-
-      Jenny Dailey
+      The Purr Paws Bros
     bio: >-
-      Professional dancer 💃🏻 (Contact @blocla for inquiries)/ Fitness Instructor💪🏽💦/ Twin 👯‍♂️ @thedaileytwins / dog mom to @zoey_la_frenchie/ ✌🏽🌸
+      😻food tips/health nutrition/raw! Coming 🔜 🥩📋🍽️ ⬜️ Leo 🔲 Milo 🟧 Pablo Join our channels! Ambass: @kittytime99 📣 @meowfestival @catfluence @blogto
     location: "Canada"
-    followers: 18054
-    engagement: 208
-    commentsToLikes: 0.042339
-    id: ck55msgll4o0t0i11b7slrary
+    followers: 12841
+    engagement: 632
+    commentsToLikes: 0.078675
+    id: cln7vfw8ktbim0j0825xsi2su
     verified: false
-    hashtags: "#tone, #health, #twinsofinstagram, #choreography"
-  - username: "janellefaithill"
+    hashtags: "#catphoto, #catlovers, #kittensofinstagram, #instagatos"
+  - username: "ashleypantry"
     fullname: >-
-      Janelle Hill 🇨🇦 Fitness
+      Healthy Food Swaps⬇️Carbs🇨🇦YYC
     bio: >-
-      ✖️ AC♡ ✖️ @ryderwear athlete ✨ ✖️ @peachbands | @beaybl ✖️ @tc.nutrition | @popeyeswinnipeg ✖️ @swishmodels | @jed_north ✖️ Kinesiology 📚 ✖️ LINKS⤵️
+      ✏️Recipe Creator🌱Nutritionist✍️Author 🍴Blood Sugar Balance•GF•Low Sugar 🔎Health & Wellness Influencer 💚Nutrition Coaching ⌨️DM to inquire or collab!
     location: "Canada"
-    followers: 25268
-    engagement: 680
-    commentsToLikes: 0.078797
-    id: ck5hlc0uxjy7v0i11cj8b3up1
+    followers: 5551
+    engagement: 916
+    commentsToLikes: 0.742134
+    id: cln1l5z2y8duc0j08zhji87yt
     verified: false
-    hashtags: "#dailygymfits, #ryderwear, #teamryderwear, #winnipeg"
-  - username: "claudia.mars"
+    hashtags: "#selfcarefriday, #bethebestversionofyou, #glutenfreeeats, #pumpkinrecipe"
+  - username: "roxymclachlan"
     fullname: >-
-      Claudia Mars
+      Roxy Mc Lachlan
     bio: >-
-      🦅Founder @riseonline.ca 🎓Certified: nutrition specialist, personal trainer, yoga instructor, genetic-based program designer
+      FAT LOSS & NUTRITION COACH Expect to become strong, sexy & confident - mind & body! View HIGHLIGHTS for lifelong results🫶🏼 Apply for Coaching👇🏽
     location: "Canada"
-    followers: 204739
-    engagement: 206
-    commentsToLikes: 0.046515
-    id: ck0w3ms6tu7eo0i19tni0esca
+    followers: 10225
+    engagement: 348
+    commentsToLikes: 0.120437
+    id: cl5l2ib9e8gir0i23cilpq2wo
     verified: false
-    hashtags: "#letyourselfbloom, #alohababe, #nebbiafamily"
-  - username: "josieargento"
+    hashtags: "#gymtips, #fitnesstoronto, #skyfitness, #coach"
+  - username: "desireenielsenrd"
     fullname: >-
-      Josie Argento
+      Desiree Nielsen RD
     bio: >-
-      25 | Toronto 📍 @hammerfitness bikini athlete @tc.nutrition sponsored athlete | JOSIE10 @firsthealthapparel | @firsthealth_ | JOSIE @cabanapoolbar
+      Plant-based nutrition + flavourful recipes 2x Bestselling 📚 🎧@theallsortspod PREORDER PLANT MAGIC 🪄 today! ⬇️
     location: "Canada"
-    followers: 6789
-    engagement: 1171
-    commentsToLikes: 0.033662
-    id: ck6009u6yd7cu0i1476shklqt
+    followers: 57337
+    engagement: 292
+    commentsToLikes: 0.095262
+    id: ck0vuwz0wmjiq0i19n8tgpge0
     verified: false
-    hashtags: "#25"
+    hashtags: "#plantbasedrecipes, #veganfood, #easyveganrecipes, #plantmagicbook"
+  - username: "ncais_"
+    fullname: >-
+      🇨🇦
+    bio: >-
+      - @gorillajack - @atlasbodybuilding - @tc.nutrition | NATALIE10
+    location: "Canada"
+    followers: 14942
+    engagement: 288
+    commentsToLikes: 0.043062
+    id: ckqqc1559x5490j23jcw0u5bd
+    verified: false
+    hashtags: ""
 ---

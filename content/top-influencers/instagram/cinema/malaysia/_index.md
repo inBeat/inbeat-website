@@ -1,11 +1,11 @@
 ---
-title: Top 10 Cinema Instagram Influencers In Malaysia In 2023
+title: Top 10 Cinema Instagram Influencers In Malaysia In 2024
 description: >-
-  Find top cinema Instagram influencers in Malaysia in 2023. Most popular hashtags: #cinema #love #stayhome.
+  Find top cinema Instagram influencers in Malaysia in 2024. Most popular hashtags: #cinema #malaysia #ootd.
 platform: Instagram
-hits: 11
-text_top: Discover the best Instagram accounts on inBeat.
-text_bottom: inBeat holds 11 Instagram influencers like this in Malaysia for you to contact.
+hits: 22
+text_top: See the top-rated Instagram influencers on inBeat.
+text_bottom: inBeat aggregates 22 Instagram influencers like this in Malaysia for you to work with.
 profiles:
   - username: "doniaabdelmaboud"
     fullname: >-
@@ -19,6 +19,18 @@ profiles:
     id: ck5hcghh1hycf0i11vmb5r5j3
     verified: false
     hashtags: ""
+  - username: "joycebii"
+    fullname: >-
+      yangyang
+    bio: >-
+      #YouTuber #Actress #beauty #Dancer Sponsorship / collaboration kindly DM insta 🎬 YouTube - - joycebii
+    location: "Malaysia"
+    followers: 42802
+    engagement: 153
+    commentsToLikes: 0.006657
+    id: ck5zvth3p4vn00i14uxdu939n
+    verified: false
+    hashtags: "#girl, #shortpants, #sixpack, #satuday"
   - username: "maniratnam_frames"
     fullname: >-
       Mani Ratnam frames
@@ -31,100 +43,88 @@ profiles:
     id: ck8t8ge3rkdgu0j78qcyyr90k
     verified: false
     hashtags: "#kollywood, #indiancinema, #tamillovesongs, #maniratnam"
-  - username: "hana_xinyi"
+  - username: "wingkeh"
     fullname: >-
-      Hana張心怡
+      wingkeh
     bio: >-
-      #YOLO 🤍생존以上생활以下 @8fm881 #NA么十在 10AM-4PM On Air #announcer #radiodj #emcee #voiceover #talent YouTube: Hana心怡 Podcast/spotify : 聽說有讀 🎤📻🤿🧗‍♀️📒💜🍞🍳🍖🥘🍰☕️
+      🏆Hollywood International Independent Woman Filmmaker’18 🎵TikTok All Star Southeast Asia🥇(500k) #wingkehtravel
     location: "Malaysia"
-    followers: 23642
-    engagement: 268
-    commentsToLikes: 0.047831
-    id: ckaordsxumrnb0i78d2bfdawr
+    followers: 26071
+    engagement: 361
+    commentsToLikes: 0.466971
+    id: ck8sy13zwjd850j7803ogdir1
     verified: false
-    hashtags: "#cafehopping, #onefm881, #stayhome, #ootd"
-  - username: "jasonvmedia"
+    hashtags: "#malaysia, #khaoyaitrip, #transition, #positivity"
+  - username: "therealaligulpir"
     fullname: >-
-      Jason Vong
+      Ali Gul Pir
     bio: >-
-      📸 Sony Alpha Hybrid Shooter 💁🏻 Traveling Camera YouTuber 👇 My Latest Videos Linked Here!
+      Rapper, comedian, writer, actor 🎤 Facebook.com/aligulpir CEO @thethirdact.pk www.aligulpir.com Email aligulpir@gmail.com
     location: "Malaysia"
-    followers: 57331
-    engagement: 624
-    commentsToLikes: 0.022440
-    id: ck0ttnobt3ido0i192z8uuyzg
-    verified: false
-    hashtags: "#sonya1, #tech, #camera, #videography"
-  - username: "samguw_bts"
+    followers: 290932
+    engagement: 160
+    commentsToLikes: 0.022207
+    id: ck6u0jex7g1jo0j71vbfa1vhd
+    verified: true
+    hashtags: "#viyathebot, #brobaatcheetbyviya, #titanic, #podcast"
+  - username: "rafzantomomi"
     fullname: >-
-      Samguw_bts | Camera Gear
+      MOMI🦄
     bio: >-
-      Gear account of @samguw @canonmalaysia EOS Youth Ambassador @vaxisglobal ambassador Trying TikTok Poses for Portrait Photography 👇
+      🦄Malaysia's Lifestyle Blogger / Content Creator 🦄Makan Makan at @myjejakrasa 🧁 🦄Blog IG : @momimomo_7 🦄Collab/paid review, please DM/email me 💕
     location: "Malaysia"
-    followers: 61921
-    engagement: 558
-    commentsToLikes: 0.008966
-    id: ck0w2896qn2zn0i19h0anb6hj
+    followers: 23506
+    engagement: 138
+    commentsToLikes: 0.123038
+    id: ck5q81fvm412g0i1113002yxr
     verified: false
-    hashtags: "#canon1dxmarkiii, #eosyouthambassador, #canon5dmarkiv, #canonmalaysia"
-  - username: "rassamfeali"
+    hashtags: "#gdr, #resortsworldcruises, #momi, #jomcruiserwc"
+  - username: "arinna.erin"
     fullname: >-
-      Rassam Feali ™️
+      Arinna Erin 🍉
     bio: >-
-      Award winner #photographer & #filmmaker #visualartist Co-founder 👉@un1que.leather👈 👇🏼My recent video project "Momentary"
+      Model & TVC Talent 🇲🇾 For shoot bookings and inquiries +6017 693 4390 (Jesh) For collab and paid content 📨 sayaarinnaerin@gmail.com 🇵🇸🍉🤍
     location: "Malaysia"
-    followers: 38290
-    engagement: 62
-    commentsToLikes: 0.032332
-    id: ck5zu83291v1i0i140zdklmu9
+    followers: 38262
+    engagement: 52
+    commentsToLikes: 0.001148
+    id: ck6tnrcl7af030j71fabxkvog
     verified: false
-    hashtags: "#anniversary, #life, #love, #nowruz"
-  - username: "winniesquare"
+    hashtags: "#withgalaxy, #tumimy, #tumiasra, #production"
+  - username: "saharulridzwan"
     fullname: >-
-      鄭 婕彤 square
+      Saharul Ridzwan
     bio: >-
-      粉絲團搜尋： 正方形鄭婕彤 工作邀約信箱：winnie52315@hotmail.com 我的穿搭點這裡❤️： @mini__square
+      لا إله إلا الله محمد رسول الله "Engkau akan bersama dengan orang yang engkau cintai" ﷺ ⤵️ 𝗛𝗔𝗕𝗕𝗔𝗣𝗥𝗢 𝗦𝗘𝗥𝗨𝗠 - @qaabila.hq
     location: "Malaysia"
-    followers: 121608
-    engagement: 185
-    commentsToLikes: 0.005976
-    id: ck55mlgrj48970i11evnc12fa
-    verified: false
-    hashtags: "#vemarootd, #charleskeith, #imwithcharleskeith, #vemartw"
-  - username: "pangestu5410"
+    followers: 4024074
+    engagement: 27
+    commentsToLikes: 0.009913
+    id: ck6u10pu3iv3p0j71375dq2z4
+    verified: true
+    hashtags: "#wetakeitseriously, #opshelang, #maritimenation, #apmm"
+  - username: "harminiasokumar"
     fullname: >-
-      Eko Budi Pangestu
+      Harmini Asokumar 🧜🏾‍♀️🌙
     bio: >-
-      Assalammualaikum 😝 tim review newbie:v FOLLBACK? DM . . Wa 0895321245214 Footage ngoyod malam KUPU KUPU AYU BEKASI @official_shadowemperor
+      • Artrepreneur at @deeperthanfashion 🎨 • A little bit Beyoncé, a little bit Buddha 🧿✨
     location: "Malaysia"
-    followers: 14277
-    engagement: 662
-    commentsToLikes: 0.018370
-    id: ck6u8ucy6tqg60j71h54bgc32
+    followers: 25845
+    engagement: 14
+    commentsToLikes: 0.000850
+    id: clm70aq73gkcl0j08bnl2tim5
     verified: false
-    hashtags: "#kupukupuayu, #20thneko, #lfl, #sudirotunggajayafans"
-  - username: "soff.eaa"
+    hashtags: "#malaysianislands, #invitedbymoethennessy, #halloweencocktails, #flavourstudio"
+  - username: "sonymalaysia"
     fullname: >-
-      
+      Sony Malaysia
     bio: >-
-      
+      #SonyMalaysia Official Page. Sony (Malaysia) Sdn. Bhd. 197301002698 (16202-H) 👇🏻Click the link below for more content updates
     location: "Malaysia"
-    followers: 464
-    engagement: 89687
-    commentsToLikes: 0.013645
-    id: ck8t67zw0clj00j78oa11ckos
+    followers: 80961
+    engagement: 39
+    commentsToLikes: 0.007250
+    id: cln6fzlyapcdz0j082g1z44fj
     verified: false
-    hashtags: "#jiwangkarat, #kinemasteredits, #jiwangsedih, #jiwangvideo"
-  - username: "yuszulkifli"
-    fullname: >-
-      Yus Zulkifli 🇲🇾
-    bio: >-
-      Content Creator • Makeup Artist • Photographer/Videographer/Editor • Paid Review • contact/bookings: ⤵️
-    location: "Malaysia"
-    followers: 21896
-    engagement: 558
-    commentsToLikes: 0.086172
-    id: ck13a30pzodsi0i19ip6oqeom
-    verified: false
-    hashtags: "#profiltrpowderfoundation, #kendallxkylie, #sophiathefirst, #melastikkehatimu"
+    hashtags: "#streetgrammer, #sonyalpha, #streetclassics, #sony"
 ---

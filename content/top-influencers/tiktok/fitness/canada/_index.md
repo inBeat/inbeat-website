@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fitness TikTok Influencers In Canada In 2023
+title: Top 10 Fitness TikTok Influencers In Canada In 2024
 description: >-
-  Find top fitness TikTok influencers in Canada in 2023. Most popular hashtags: #fitness #canada #workout #duet.
+  Find top fitness TikTok influencers in Canada in 2024. Most popular hashtags: #fitness #canada #workout #fyp.
 platform: TikTok
-hits: 486
-text_top: Discover the best TikTok profiles on inBeat.
-text_bottom: Our database holds 486 TikTok influencers like this in Canada for you to work with.
+hits: 485
+text_top: Analyze the top-rated TikTok accounts on inBeat.
+text_bottom: inBeat holds 485 TikTok influencers like this in Canada for you to work with.
 profiles:
   - username: "cdnoutlaw"
     fullname: >-
@@ -19,18 +19,6 @@ profiles:
     id: ckbermkcya4nc0j230v8l5i6k
     verified: false
     hashtags: "#duet, #greenscreensticker, #stitch, #toocold"
-  - username: "peakfitmom"
-    fullname: >-
-      Kate
-    bio: >-
-      Online fitness coach & mom of 3 boys💕 loves to laugh & have fun! Insta 4 fitspo
-    location: "Canada"
-    followers: 32000
-    engagement: 955
-    commentsToLikes: 0.146145
-    id: ckc2ydq82pj0t0j23ku6xng7e
-    verified: false
-    hashtags: "#boymom, #winemom, #teenboys, #44andfit"
   - username: "tylersarry"
     fullname: >-
       Fitness & Mental Wellbeing
@@ -42,31 +30,31 @@ profiles:
     commentsToLikes: 0.198070
     id: ckcem2lh5w6mr0j23et3wm83r
     verified: false
-    hashtags: "#fittoker, #fitnessismylife, #torontofitness, #over35club"
+    hashtags: "#fitnessismylife, #torontofitness, #fittoker, #fitnessismypassion"
   - username: "mayobros"
     fullname: >-
       John and Brad
     bio: >-
       We’ll teach you to be fit and flexible! Link below to take our fitness quiz!
     location: "Canada"
-    followers: 611400
-    engagement: 1753
-    commentsToLikes: 0.011278
+    followers: 608100
+    engagement: 1943
+    commentsToLikes: 0.014279
     id: ck806y32qmz7i0j78c1ni1arg
     verified: false
-    hashtags: "#funny, #novascotia, #halifax, #canadiancheck"
+    hashtags: "#canadian, #fitness, #crazy, #winter"
   - username: "kerolintv"
     fullname: >-
       Kerolin
     bio: >-
-      ✨ Mom • Wife • Fitness • Life Talks ✨
+      A Wife + Mom + Coach Sharing Fitness + Life with Anxiety & Depression 🧠
     location: "Canada"
-    followers: 56600
-    engagement: 712
-    commentsToLikes: 0.060532
+    followers: 97100
+    engagement: 951
+    commentsToLikes: 0.051878
     id: ckbfb9o1932no0j23idzp3lbb
     verified: false
-    hashtags: "#over30, #tiktokwellness, #learn, #learnontiktok"
+    hashtags: "#inverted"
   - username: "benjamin_robert_graham"
     fullname: >-
       Benjamin_Graham
@@ -78,7 +66,7 @@ profiles:
     commentsToLikes: 0.053244
     id: ckbqsuhjcdnpr0j23ma7k6vi0
     verified: false
-    hashtags: "#gym, #squat, #relatable, #strength"
+    hashtags: "#muscle, #deadlift, #fitness, #coach"
   - username: "emscourtney"
     fullname: >-
       Emma
@@ -90,7 +78,7 @@ profiles:
     commentsToLikes: 0.088157
     id: ckace9kecltqt0i78fzu4m3f9
     verified: false
-    hashtags: "#tiktokdiy, #catsoftiktok, #xyzabc, #homediy"
+    hashtags: "#xyzabc, #tiktokdiy, #homedecor, #catsoftiktok"
   - username: "andrewpettitt"
     fullname: >-
       Andrew Pettitt
@@ -127,4 +115,16 @@ profiles:
     id: ckbeyetsqiwzn0j23z761z9y4
     verified: false
     hashtags: "#poem, #flexible, #swimsuit, #swimsuitmodel"
+  - username: "rico_fit"
+    fullname: >-
+      Rico
+    bio: >-
+      IG: Ric_Truly Fitness Powerbuilder uWaterloo Accounting & Finance Toronto 🏙
+    location: "Canada"
+    followers: 118900
+    engagement: 838
+    commentsToLikes: 0.032541
+    id: cka0zbxf6ew6l0i788mmmn8eo
+    verified: false
+    hashtags: "#newsong, #microscope, #foryoupage, #braids"
 ---

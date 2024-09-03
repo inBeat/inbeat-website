@@ -1,11 +1,11 @@
 ---
-title: Top 10 Music TikTok Influencers In Turkey In 2023
+title: Top 10 Music TikTok Influencers In Turkey In 2024
 description: >-
-  Find top music TikTok influencers in Turkey in 2023. Most popular hashtags: #fyp #ke #foryou #music.
+  Find top music TikTok influencers in Turkey in 2024. Most popular hashtags: #fyp #ke #foryou #music.
 platform: TikTok
 hits: 88
-text_top: See the most popular TikTok accounts on inBeat.
-text_bottom: Our platform holds 88 TikTok influencers like this in Turkey for you to contact.
+text_top: Discover the most popular TikTok profiles on inBeat.
+text_bottom: Our platform has 88 TikTok influencers like this in Turkey for you to work with.
 profiles:
   - username: "emrealpaslan"
     fullname: >-

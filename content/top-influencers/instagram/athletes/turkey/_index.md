@@ -1,130 +1,130 @@
 ---
-title: Top 10 Athletes Instagram Influencers In Turkey In 2023
+title: Top 10 Athletes Instagram Influencers In Turkey In 2024
 description: >-
-  Find top athletes Instagram influencers in Turkey in 2023. Most popular hashtags: #boxing #cbdoil #powerlifter.
+  Find top athletes Instagram influencers in Turkey in 2024. Most popular hashtags: #reels #kad #champion #ay.
 platform: Instagram
-hits: 50
-text_top: Discover the top-rated Instagram accounts on inBeat.
-text_bottom: Our platform has 50 Instagram influencers like this in Turkey for you to work with.
+hits: 53
+text_top: Discover the most popular Instagram influencers on inBeat.
+text_bottom: Our platform holds 53 Instagram influencers like this in Turkey for you to collaborate.
 profiles:
-  - username: "seymaercan"
+  - username: "krobin32"
     fullname: >-
-      Seyma Ercan
+      KELSEY (ROBINSON) COOK
     bio: >-
-      💫Founder ~ @fiveart.studio 💫 🏐 Volleyball Player ✈Turkish Airlines @thysporkulubu 🇹🇷Turkish National Team @tvforgtr 👟 Asics Athlete @asics
+      2x USA Olympian 🥇🥉 @adidas athlete Co-founder @bythesun_____ 💌 Collab@kelseymarie.co
     location: "Turkey"
-    followers: 45896
-    engagement: 890
-    commentsToLikes: 0.282973
-    id: ck9wgys07vjhm0j785wjsoyao
+    followers: 180856
+    engagement: 875
+    commentsToLikes: 0.007437
+    id: ck15u1i1dkyrx0i198c1i4xf5
     verified: true
-    hashtags: "#throwbackmemories, #throwbacksummer, #happybirthdaybestie, #iloveu"
-  - username: "d.e.r.b.o.s.s._"
+    hashtags: "#reels, #volleyball, #tokyo2020, #olympics"
+  - username: "anzhelika_terliuga"
     fullname: >-
-      Ünsal M. Arık
+      Anzhelika Terliuga
     bio: >-
-      * #Veganathlete 🌱 for #Animals 🐶 * Ambassador @stiftungkinderherz ❤️ * @fitone_germany #Athlete * @topgungermany CODE: #TGARIK 15%
+      Karate athlete🇺🇦 #N1 in the World🌍🔝 🥇WorldGames 2022🇺🇸 🥈OlympicGames 202🦠🇯🇵 🥇EuroGames 2023🇵🇱 🏆5xGrandWinner K1 #Adidasteam @adidasukraine YouTube⬇️
     location: "Turkey"
-    followers: 155657
-    engagement: 726
-    commentsToLikes: 0.032669
-    id: ck5zjq434i1jo0i141p4prphv
-    verified: true
-    hashtags: "#vegan, #cbdoil, #nike, #veganathlete"
+    followers: 158808
+    engagement: 552
+    commentsToLikes: 0.010744
+    id: cl48q9fb4mhqg0i232i6236dv
+    verified: false
+    hashtags: "#teamadidas, #memories, #weddingday, #adidasukraine"
   - username: "makinetalha"
     fullname: >-
       Talha Çetin
     bio: >-
-      Powerlifter 🇹🇷🦾 World Record x2 🏆 Raw Total 800kg@109.2 kg @strongsoon Athlete @bigjoysports @gymholix Strength Coach | YouTube Channel 🎥
+      Powerlifter 🇹🇷 World Record x2 🏆 Raw Total 955kg 🚀 Athlete @take_hiq 𓂀 “𝕞𝕒𝕜𝕚𝕟𝕖𝟙𝟘” 🛠 CEO-Founder @makinegaraj ⚙️ Coach @strongsoon Strength Coach 📈✍🏻
     location: "Turkey"
-    followers: 43940
-    engagement: 1061
-    commentsToLikes: 0.027438
+    followers: 74946
+    engagement: 887
+    commentsToLikes: 0.018703
     id: ck136pxam7oo50i19g9a3r2k6
     verified: false
-    hashtags: "#powerlifter, #strongman, #fyp, #powerlifting"
-  - username: "duyguozlen1"
+    hashtags: "#powerlifter, #fyp, #reels, #powerlifting"
+  - username: "mrymboz"
     fullname: >-
-      Duygu Özlen
+      Meryem Boz
     bio: >-
-      Manager: @selimakar Turvak Cinema- Theatre Model-Tv Host- Actress @arianutritionofficial athlete Reklam ve İş birlikleri Dm
+      @fbvoleybol Olympian |Turkish National Team Athlete |@adidas.turkiye Founder | @bozscoffee Founder | @meryembozsporakademi Contact |info@meryemboz.com
     location: "Turkey"
-    followers: 91972
-    engagement: 265
-    commentsToLikes: 0.058211
-    id: ckap2tz1c0b8s0i78dd78koxa
-    verified: false
-    hashtags: "#shooting, #shootingday, #fashion, #videoedit"
-  - username: "ikiesethelin"
-    fullname: >-
-      Isaac Kiese Thelin
-    bio: >-
-      ✞ = ❤️ Luke 11:9 • Sweden🇸🇪 • Istanbul 🇹🇷 Represented by @footnationfirst @padelonly @nike athlete
-    location: "Turkey"
-    followers: 35764
-    engagement: 738
-    commentsToLikes: 0.018562
-    id: ck8swozs0eroc0j787vnv47mx
+    followers: 544459
+    engagement: 464
+    commentsToLikes: 0.005900
+    id: ck8sythihly3y0j78kdvjwg5w
     verified: true
-    hashtags: "#godisgood, #philipians4, #glorytogod, #thankyoujesus"
-  - username: "gizemorge"
-    fullname: >-
-      Gizem Örge
-    bio: >-
-      •Marmara Üniversitesi 😇📚 •Vakıfbank SK 💫🏆✌️ @vakifbanksk •Mizuno Athlete @mizunoshoptr •Contact & PR : atillaaydin7@hotmail.com 📍
-    location: "Turkey"
-    followers: 38434
-    engagement: 806
-    commentsToLikes: 0.012942
-    id: ck5c5yrhs4e7z0i116nzouw7z
-    verified: true
-    hashtags: "#libero, #lovelytb, #vakifbank, #canlar"
+    hashtags: "#meryemboz, #coffee, #createdwithadidas, #bozscoffee"
   - username: "karagenc3"
     fullname: >-
       Didem Karagenç
     bio: >-
-      🇹🇷 Turkey Women’s National Football Team Captain @millitakimlar 👚 BEŞİKTAŞ JK @bjkkadinfutbol ✍🏻 Team Visa Athlete @visauk
+      🇹🇷National Football Team Captain @millitakimlar ⚽️ @bjkkadinfutbol ✍🏻TeamVisa Athlete @visauk 👚PumaAthlete @pumaturkiye 👉Communication @talent360pro
     location: "Turkey"
-    followers: 17896
-    engagement: 1032
-    commentsToLikes: 0.016366
+    followers: 28414
+    engagement: 477
+    commentsToLikes: 0.011445
     id: ckap29560xxay0i7893n2scls
     verified: true
-    hashtags: "#millitak, #football, #besiktas, #nationelteam"
-  - username: "mandic_milica"
+    hashtags: "#besiktas, #football, #millitak, #be"
+  - username: "benproudswim"
     fullname: >-
-      Milica Mandic
+      Ben Proud
     bio: >-
-      Taekwondo athlete 🥋🇷🇸 OLYMPIC CHAMPION 🥇2012 WORLD CHAMPION 🥇2017 EUROPEAN MEDALIST 🥈🥈🥈🥈🥉
+      Work hard in silence, let success be your noise AirAsia Dream Ambassador @Aquasphere Athlete @energystandard 📍@Gloriasportsarena Contact @fit_mg_uk
     location: "Turkey"
-    followers: 44669
-    engagement: 680
-    commentsToLikes: 0.011621
-    id: ck55lavr6163m0i11qty2exzt
+    followers: 113084
+    engagement: 1062
+    commentsToLikes: 0.006797
+    id: ck5zm32o6lt140i145mq0khyr
     verified: true
-    hashtags: "#energija, #spon, #ovas, #nestlepahuljice"
-  - username: "zehragns18"
+    hashtags: "#teamaquasphere, #swimming, #belimitless, #mizunoeurope"
+  - username: "aysebegumonbasiofficial"
     fullname: >-
-      Zehra Gunes
+      Ayşe Begüm Onbaşı
     bio: >-
-      🏐Vakıfbank SK @vakifbanksk 🇹🇷Turkish National Team @tvforgtr 👟 Mizuno Athlete @mizunoshoptr 📍PR:info@socialsport.biz
+      Aerobic Gymnast 🤸‍♀️ WCH / ECH / World Cup Champion 🥇 National Team / Spor Toto SK 🇹🇷🦾 Adidas Athlete 👟🖤 Business & Communication: @lunarballsports 💌
     location: "Turkey"
-    followers: 246299
-    engagement: 1929
-    commentsToLikes: 0.008501
-    id: ckap5nbhgcf8o0i788bt7sw4k
+    followers: 247321
+    engagement: 382
+    commentsToLikes: 0.008667
+    id: ck5hikmdje06e0i110e5d0myf
     verified: true
-    hashtags: "#womensupportingwomen, #womenempowerment, #formore, #clvolleyw"
+    hashtags: "#ay, #8mart, #worldchampion, #repost"
+  - username: "emrevefagoktas"
+    fullname: >-
+      Emre Vefa Göktaş
+    bio: >-
+      • National Athlete 🇹🇷 • World Champion 🥇 • European Champion 🥇 • Board Member @hisfederasyonu 👔 @torqnutritiontr @enfitonline
+    location: "Turkey"
+    followers: 1110354
+    engagement: 231
+    commentsToLikes: 0.002340
+    id: cl48q92fmm7b70i23ti1721gx
+    verified: false
+    hashtags: "#teamtorq, #evg, #roadtogold, #motivation"
+  - username: "m.y.hulk_"
+    fullname: >-
+      Mustafa Yıldız
+    bio: >-
+      IFBB PRO ATHLETE ⚔️ @begreen_team 👕 @begreenwear | HULK10 🛒 💊@proteinocean|HULK10🛒 DEĞİŞİM HİKAYENİ BİRLİKTE YAZALIM ⚔️ PROFESYONEL DESTEK AL 👇🏽
+    location: "Turkey"
+    followers: 615960
+    engagement: 224
+    commentsToLikes: 0.005667
+    id: ck6u8r01nt5ul0j71nvz6k9hz
+    verified: false
+    hashtags: "#morningformcheck"
   - username: "adem_kilicci"
     fullname: >-
-      Adem Kılıççı
+      Adem KILIÇÇI
     bio: >-
-      🇹🇷Olympic Athlete🇹🇷 📩İletişim : adem@ademkilicci.com 🥊Co-Founder @sportial
+      APB Pro Boxing World Champion 🏆 Beijing & London olympic athlete 🇹🇷 📩İletişim : adem@ademkilicci.com 🥊Co-Founder @sportial #LivelikeaChampion
     location: "Turkey"
-    followers: 559514
-    engagement: 628
-    commentsToLikes: 0.015735
+    followers: 727021
+    engagement: 184
+    commentsToLikes: 0.033431
     id: ck0ub8n1ae0490i19urs8q6eo
     verified: true
-    hashtags: "#balkaymak, #ademkilicci, #sportial, #donetello"
+    hashtags: "#fight, #herkesekitapvakf, #patimuhaf, #petshop"
 ---

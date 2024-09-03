@@ -1,11 +1,11 @@
 ---
-title: Top 10 Photographers Instagram Influencers In Sao Paulo In 2023
+title: Top 10 Photographers Instagram Influencers In Sao Paulo In 2024
 description: >-
-  Find top photographers Instagram influencers in Sao Paulo in 2023. Most popular hashtags: #saopaulo #photographer #photography.
+  Find top photographers Instagram influencers in Sao Paulo in 2024. Most popular hashtags: #saopaulo #photographer #photography.
 platform: Instagram
-hits: 150
-text_top: See the best Instagram profiles on inBeat.
-text_bottom: Our database has 150 Instagram influencers like this in Sao Paulo, Brazil for you to pitch.
+hits: 146
+text_top: See the most popular Instagram influencers on inBeat.
+text_bottom: Our database has 146 Instagram influencers like this in Sao Paulo, Brazil for you to work with.
 profiles:
   - username: "the.lonely.project"
     fullname: >-
@@ -79,18 +79,6 @@ profiles:
     id: ck15q5409155f0i19b8u0svy1
     verified: false
     hashtags: "#deus, #marketingdigital, #guarulhos, #amomuito"
-  - username: "brunogomesph"
-    fullname: >-
-      BRUNO GOMES
-    bio: >-
-      💭Creative Director 👁Fashion Photographer 🔎São Paulo, Brazil 💻brunogomesft@outlook.com
-    location: "Brazil"
-    followers: 37167
-    engagement: 419
-    commentsToLikes: 0.052740
-    id: ck15s6gt5bglk0i199wyqhct5
-    verified: false
-    hashtags: "#reels, #fashionfilmdirector, #creativedirectors"
   - username: "_tombarreto"
     fullname: >-
       ᴛᴏᴍʙᴀʀʀᴇᴛᴏ
@@ -127,4 +115,16 @@ profiles:
     id: ck15sdh0zcga80i19h09n7x3o
     verified: false
     hashtags: "#modelo, #cidadedesaopaulo, #taubate, #fotostumblr"
+  - username: "tom_barreto"
+    fullname: >-
+      ᴛᴏᴍʙᴀʀʀᴇᴛᴏ
+    bio: >-
+      photographer & visual art São Paulo
+    location: "Brazil"
+    followers: 9103
+    engagement: 337
+    commentsToLikes: 0.090451
+    id: ck0u9bw0q9j3u0i19wx6v4pvj
+    verified: false
+    hashtags: ""
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Skincare TikTok Influencers In Milan In 2023
+title: Top 10 Skincare TikTok Influencers In Milan In 2024
 description: >-
-  Find top skincare TikTok influencers in Milan in 2023. Most popular hashtags: #perte #foryou #skincare #neiperte.
+  Find top skincare TikTok influencers in Milan in 2024. Most popular hashtags: #perte #foryou #skincare #milano.
 platform: TikTok
-hits: 8
-text_top: Discover the best TikTok profiles on inBeat.
-text_bottom: Our database has 8 TikTok influencers like this in Milan, Italy for you to pitch.
+hits: 10
+text_top: Identify the top-rated TikTok accounts on inBeat.
+text_bottom: Our search engine aggregates 10 TikTok influencers like this in Milan, Italy for you to connect with.
 profiles:
   - username: "andrea_thecat_"
     fullname: >-
@@ -18,7 +18,19 @@ profiles:
     commentsToLikes: 0.021307
     id: ck9n4l5u84z0e0j789szjlvwt
     verified: false
-    hashtags: "#fyp, #trash, #italia, #trend"
+    hashtags: "#studenti, #trashperte, #trend, #virale"
+  - username: "_domizia"
+    fullname: >-
+      Domi
+    bio: >-
+      romana de Roma a Milano parlo tanto ma non dico “pazzesco” IG: _DOMIZIA
+    location: "Italy"
+    followers: 178500
+    engagement: 976
+    commentsToLikes: 0.004528
+    id: cka67e1u2kpie0i78o5z7svqv
+    verified: false
+    hashtags: "#makeup, #makeuptutorial, #beauty, #hair"
   - username: "elenagonella"
     fullname: >-
       LaGonni😈
@@ -55,6 +67,18 @@ profiles:
     id: ckavn1rt6x5tj0j235qcqlppn
     verified: false
     hashtags: "#fy, #test, #unboxing, #natale"
+  - username: "michelexsimeoni"
+    fullname: >-
+      Michele Simeoni
+    bio: >-
+      Goal 200k ⚠️ Italia 🇮🇹 Dai un’occhiata al mio instagram... 🤯
+    location: "Italy"
+    followers: 131500
+    engagement: 487
+    commentsToLikes: 0.022296
+    id: ck81qvwenkblu0j78mvz71f2j
+    verified: false
+    hashtags: "#getready, #bodygoals, #lookdelgiorno, #perte"
   - username: "cataldibeauty"
     fullname: >-
       Cataldi Beauty
@@ -66,7 +90,7 @@ profiles:
     commentsToLikes: 0.016638
     id: ck8fbwkyt56wl0j78b5g6sa8h
     verified: false
-    hashtags: "#naturopata, #oliessenziali, #cataldibeauty, #duetto"
+    hashtags: "#naturopata, #cataldibeauty, #naturopatia, #cataldi"
   - username: "babyhesse"
     fullname: >-
       Dana Hesse
@@ -103,28 +127,4 @@ profiles:
     id: ckad3curkk2bm0i787v9kraqm
     verified: false
     hashtags: "#covid19, #iostoacasa, #perte, #fsk"
-  - username: "cocolavieenrose"
-    fullname: >-
-      Skincare con Valeria Arizzi
-    bio: >-
-      Consigli BEAUTY e CURA DELLA PELLE🦄 #imparacontiktok SKINCARE 🧴
-    location: "Italy"
-    followers: 20400
-    engagement: 623
-    commentsToLikes: 0.096793
-    id: ck8vsi6p5dp000j78dilpl6bu
-    verified: false
-    hashtags: "#curapelle, #italia, #imparacontiktok, #segretidibellezza"
-  - username: "monique_makeup_"
-    fullname: >-
-      Monica Montagna
-    bio: >-
-      Appassionata di makeup autodidatta💄 Hair stylist✂️ Curly girl👩🏻‍🦱 Skincare🧼
-    location: "Italy"
-    followers: 5959
-    engagement: 1548
-    commentsToLikes: 0.029345
-    id: cka676ojrju080i78tbw22bj5
-    verified: false
-    hashtags: "#makeup, #period, #neiperte, #perte"
 ---

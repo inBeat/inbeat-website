@@ -1,11 +1,11 @@
 ---
-title: Top 10 Graphic-Designers Instagram Influencers In Miami In 2023
+title: Top 10 Graphic-Designers Instagram Influencers In Miami In 2024
 description: >-
-  Find top graphic-designers Instagram influencers in Miami in 2023. Most popular hashtags: #nba #art #graphicdesigner #graphicdesign.
+  Find top graphic-designers Instagram influencers in Miami in 2024. Most popular hashtags: #nba #art #miami #losangeles.
 platform: Instagram
-hits: 28
-text_top: Discover the most popular Instagram influencers on inBeat.
-text_bottom: inBeat has 28 Instagram influencers like this in Miami, United States for you to connect with.
+hits: 29
+text_top: Analyze the most popular Instagram accounts on inBeat.
+text_bottom: inBeat aggregates 29 Instagram influencers like this in Miami, United States for you to connect with.
 profiles:
   - username: "che1ique"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.065934
     id: ck5qb4i8qjroe0i11wubzm7lu
     verified: false
-    hashtags: "#lebron, #miamiheat, #graphicdesigner, #nbaart"
+    hashtags: "#lakers, #suns, #miamiheat, #artists"
   - username: "minnietomyears"
     fullname: >-
       joanna belle
@@ -30,7 +30,19 @@ profiles:
     commentsToLikes: 0.124950
     id: ck6u2km3fscor0j717g41roub
     verified: false
-    hashtags: "#disneylover, #disneyirl, #disneyland, #disneygirl"
+    hashtags: "#ilovedisney, #disneyquarantine, #meangirlsedit, #disneyap"
+  - username: "sicerow"
+    fullname: >-
+      Siciliani Texel
+    bio: >-
+      📸 Photographer 🖥 Graphic Designer ⚠️ Shoots 21+ only 🎙 Vocal Coach 💈 Barber Since ‘86 📷 Other work 👇🏾 @sicerowphotography
+    location: "United States"
+    followers: 18690
+    engagement: 296
+    commentsToLikes: 0.037531
+    id: ck5q70ojozir30i11j6ldgc33
+    verified: false
+    hashtags: "#body, #edit, #photooftheday, #lady"
   - username: "thekylecyr"
     fullname: >-
       Kyle Cyr 𓅓 | 20K 🔜
@@ -54,7 +66,7 @@ profiles:
     commentsToLikes: 0.098177
     id: ck55ppf2db31c0i11su8l5nc5
     verified: false
-    hashtags: "#bennythebutcher, #airjordan1, #hiphop, #northface"
+    hashtags: "#artdetail, #illustration, #griselda, #countingmoney"
   - username: "srelix"
     fullname: >-
       Mikey Halim
@@ -90,7 +102,7 @@ profiles:
     commentsToLikes: 0.102474
     id: ckaow9mli7yf70i78eqzxw53l
     verified: false
-    hashtags: "#glowingskin, #snacktime, #selfdevelopment, #loveyourself"
+    hashtags: "#wifimoney, #secretgarden, #wfh, #wfhlife"
   - username: "hawkedits_"
     fullname: >-
       JH
@@ -102,7 +114,7 @@ profiles:
     commentsToLikes: 0.029166
     id: ck14i3jeudgpd0i19x5n4pl7z
     verified: false
-    hashtags: "#hawkedits, #la, #nba, #lebronjames"
+    hashtags: "#chicagobulls, #bulls, #hawkedits, #nba"
   - username: "carola_deutsch"
     fullname: >-
       Carola Deutsch
@@ -115,16 +127,4 @@ profiles:
     id: ck55ocpah83uc0i1114gyr3x7
     verified: false
     hashtags: "#instaart, #abstracttattoo, #watercolourtattoo, #austrianart"
-  - username: "gillie_edits"
-    fullname: >-
-      GillieEdits
-    bio: >-
-      ✖️Where Sports & Art Collide ✖️ NY based artist 🇺🇸 ✖️self taught ✖️ DM for Custom edits ✖️YouTube 🔻
-    location: "United States"
-    followers: 15772
-    engagement: 1290
-    commentsToLikes: 0.016394
-    id: ck13d16o8357m0i19vxn12x2y
-    verified: false
-    hashtags: "#lakers, #nike, #art, #buffalo"
 ---

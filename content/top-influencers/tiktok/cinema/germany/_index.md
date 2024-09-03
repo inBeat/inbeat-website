@@ -1,11 +1,11 @@
 ---
-title: Top 10 Cinema TikTok Influencers In Germany In 2023
+title: Top 10 Cinema TikTok Influencers In Germany In 2024
 description: >-
-  Find top cinema TikTok influencers in Germany in 2023. Most popular hashtags: #fyp #foryou #viral #fy.
+  Find top cinema TikTok influencers in Germany in 2024. Most popular hashtags: #fyp #foryou #viral #fy.
 platform: TikTok
 hits: 19
-text_top: Identify the top-rated TikTok influencers on inBeat.
-text_bottom: Our search engine has 19 TikTok influencers like this in Germany for you to work with.
+text_top: Analyze the top-rated TikTok profiles on inBeat.
+text_bottom: Our search engine aggregates 19 TikTok influencers like this in Germany for you to connect with.
 profiles:
   - username: "mellifluovs"
     fullname: >-
@@ -66,7 +66,7 @@ profiles:
     commentsToLikes: 0.040535
     id: cka0n1j5dxo4f0i787nse3aa0
     verified: false
-    hashtags: "#fyp, #tiktok, #sun, #fun"
+    hashtags: "#fun, #sun, #fyp, #tiktok"
   - username: "i_am_icko"
     fullname: >-
       Polarity❤🖤
@@ -114,7 +114,7 @@ profiles:
     commentsToLikes: 0.025586
     id: ck8kghyk4ik990j7868m7ztk2
     verified: false
-    hashtags: "#foryou, #rainyday, #aesthetic, #fyp"
+    hashtags: "#aesthetic, #foryou, #rainyday, #fyp"
   - username: "itskimberlysworld"
     fullname: >-
       Kimberly

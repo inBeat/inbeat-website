@@ -1,11 +1,11 @@
 ---
-title: Top 10 Mothers Instagram Influencers In Miami In 2023
+title: Top 10 Mothers Instagram Influencers In Miami In 2024
 description: >-
-  Find top mothers Instagram influencers in Miami in 2023. Most popular hashtags: #miami #quarantinelife #fashion.
+  Find top mothers Instagram influencers in Miami in 2024. Most popular hashtags: #miami #family #love.
 platform: Instagram
-hits: 101
-text_top: Identify the most popular Instagram accounts on inBeat.
-text_bottom: Our database has 101 Instagram influencers like this in Miami, United States for you to collaborate.
+hits: 125
+text_top: Analyze the top-rated Instagram accounts on inBeat.
+text_bottom: inBeat aggregates 125 Instagram influencers like this in Miami, United States for you to contact.
 profiles:
   - username: "paolavdesideri"
     fullname: >-
@@ -18,7 +18,19 @@ profiles:
     commentsToLikes: 0.013306
     id: ck0u07n1rsxye0i19426cras1
     verified: false
-    hashtags: "#worldbreastfeedingweek, #pinterest, #miami, #mia"
+    hashtags: "#miami, #mia, #sorrythemess, #datenight"
+  - username: "everydaymagicwithmercy"
+    fullname: >-
+      Mercy Betancourt | Lifestyle & Travel Blogger
+    bio: >-
+      Travel Addict🧳✈️ MomLife👧🧒👧 Disney Adult 🏰✨Foodie🍤🌮🍔 Style 👗💄 Family Travel 🏖️🎢 Miami & Orlando 📍 Book Your Vacay with @vacationsbymercy
+    location: "United States"
+    followers: 33754
+    engagement: 76
+    commentsToLikes: 0.061882
+    id: ckv8zuoa2346x0j23pse0yr57
+    verified: false
+    hashtags: "#miamiinfluencer, #familyvacation, #travelingfamily, #travelmom"
   - username: "martabez"
     fullname: >-
       Marta Bez
@@ -30,7 +42,43 @@ profiles:
     commentsToLikes: 0.043880
     id: ck0tz192sor870i19zpqu2nvn
     verified: false
-    hashtags: "#tbt, #bunchyoflips, #diadospais"
+    hashtags: "#bunchyoflips, #diadospais, #tbt"
+  - username: "_maramartin_"
+    fullname: >-
+      Mara Martin
+    bio: >-
+      Mom to Aria & Vera | CEO & Founder @vyralpr @wilhelmina.miami Model | UGA alum Went viral for breastfeeding on the runway @savethechildren Cabinet
+    location: "United States"
+    followers: 137167
+    engagement: 30
+    commentsToLikes: 0.014575
+    id: ck0vw6qrkscxm0i19dlkvo70c
+    verified: true
+    hashtags: "#motherhoodunplugged, #pregnancy, #miamiswimweek, #babyaria"
+  - username: "alejo_arse"
+    fullname: >-
+      Kevin Alejandro Ramirez
+    bio: >-
+      Colombiano 🇨🇴 - South Korea 🇰🇷 Natural bodybuilding Full time College Student
+    location: "United States"
+    followers: 6785
+    engagement: 809
+    commentsToLikes: 0.008453
+    id: ck15u0bc2kskd0i19j38kqe3o
+    verified: false
+    hashtags: "#gym, #fitnessmotivation, #supercar, #car"
+  - username: "jinny_torres"
+    fullname: >-
+      Jinny_Torres
+    bio: >-
+      MentalHealthCounselor 📕Nuevo Libro: "SER MAMÁ" Escritora columna "Ser Mamá" de PeopleEspañol Co-autora: "CasadaConmigo" "Ser Mamá" 📕Disponible ya! 👇🏻
+    location: "United States"
+    followers: 26978
+    engagement: 135
+    commentsToLikes: 0.076098
+    id: ckap7edvljpom0i784vnugslv
+    verified: false
+    hashtags: "#repost, #latepost, #sermama, #love"
   - username: "marialouisez"
     fullname: >-
       Maria Zachariassen
@@ -43,6 +91,18 @@ profiles:
     id: ck5bzixfrr8i30i11tgajfp9u
     verified: false
     hashtags: ""
+  - username: "iamnatalieleon"
+    fullname: >-
+      Natalie Leon | My story is my superpower
+    bio: >-
+      Agent of Change 🌀 Mother to Grace ❤️ Mktg. Comms @miamidadecounty We need world leaders that are in love with humanity. 🌎
+    location: "United States"
+    followers: 8401
+    engagement: 194
+    commentsToLikes: 0.134507
+    id: ckql91splt5800j23bvenzaol
+    verified: false
+    hashtags: "#newmom, #resilient, #motherhood, #myworld"
   - username: "anastasia.love.inla"
     fullname: >-
       Anastasia
@@ -55,76 +115,16 @@ profiles:
     id: ck9hbbmuxg5zv0j78yal1z0re
     verified: false
     hashtags: "#mylove, #bloggerstyle, #lagirl, #la"
-  - username: "shyda.mv"
+  - username: "michellecohnb"
     fullname: >-
-      SHYDA
+      Michelle Cohn
     bio: >-
-      🌹A little Techno, a Little Rock n’ Roll 🌹
+      Miss Universe Guatemala 2023🇬🇹 Mother of two 👦🏼👧🏻 Model - TV host - Founder @lucabeachwear Advocate on Women’s Empowerment for Inclusive Development👊🏻
     location: "United States"
-    followers: 3454
-    engagement: 761
-    commentsToLikes: 0.105448
-    id: ck8t2h7vqzhon0j78j0jo0imq
+    followers: 204797
+    engagement: 511
+    commentsToLikes: 0.016742
+    id: ck5btkfqng4lp0i1131iiorv8
     verified: false
-    hashtags: "#miami, #electro, #breakbeats, #acid"
-  - username: "alexiae_says"
-    fullname: >-
-      Alexia Echevarria
-    bio: >-
-      Real Housewives of Miami🎥 Fashionista👗👠 Proud mother of two 👦🏻👦🏼❤️ Owner of Alexia + Frankie’s Beauty Bar 💋💅🏻💄@alexiaandfrankiesbeautybar
-    location: "United States"
-    followers: 110745
-    engagement: 243
-    commentsToLikes: 0.041014
-    id: ck6u5wvwpc80z0j710vobmnn2
-    verified: true
-    hashtags: "#neverforget, #pride2021, #friendsforever, #happybirthday"
-  - username: "rach.danielle"
-    fullname: >-
-      Rach
-    bio: >-
-      Be your best self! 🦋 Mother 👩‍👧‍👦 Nurse 👩‍⚕️ Positivity ☀️ Health & Fitness 🧘‍♀️ Beauty💄 MN
-    location: "United States"
-    followers: 9281
-    engagement: 1131
-    commentsToLikes: 0.043296
-    id: ck9hck33alrpx0j78k99rtm32
-    verified: false
-    hashtags: "#myunsolicitedadvice, #myniece, #miami, #everglades"
-  - username: "patrickcox"
-    fullname: >-
-      Patrick Cox
-    bio: >-
-      Fashion Photographer NYC, London, Paris, LA, Miami, Greenville
-    location: "United States"
-    followers: 50837
-    engagement: 312
-    commentsToLikes: 0.055834
-    id: ck5cjdbieuhq40i11ft1w1bbj
-    verified: false
-    hashtags: "#modeling, #instudio, #model, #bw"
-  - username: "irisddiaz"
-    fullname: >-
-      IRIS
-    bio: >-
-      📍Miami ✈ 🇨🇺 👻 Diaz-Iris
-    location: "United States"
-    followers: 100022
-    engagement: 150
-    commentsToLikes: 0.041023
-    id: ck5hcy0f0kift0i11644737u0
-    verified: false
-    hashtags: "#outfitinspiration, #quarantinelife, #outfitinspo, #outfitideas"
-  - username: "laurendazi"
-    fullname: >-
-      Lauren
-    bio: >-
-      Fit•To•Fly Your favorite flight attendant 👩‍✈️ Miami ☀️ 🏝 CARNIVORE🥓🥩
-    location: "United States"
-    followers: 262260
-    engagement: 60
-    commentsToLikes: 0.064057
-    id: ckap20kezwuzl0i78fvr69yfw
-    verified: false
-    hashtags: "#black, #healthy, #beauty, #ootd"
+    hashtags: "#72stmissuniverse, #missguatemala, #missuniverse, #72missuniverse"
 ---

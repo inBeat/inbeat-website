@@ -1,24 +1,48 @@
 ---
-title: Top 10 Health Instagram Influencers In Russia In 2023
+title: Top 10 Health Instagram Influencers In Russia In 2024
 description: >-
-  Find top health Instagram influencers in Russia in 2023. Most popular hashtags: #giveaway #haircare #joytodorova.
+  Find top health Instagram influencers in Russia in 2024. Most popular hashtags: #recovery #bday #sauna.
 platform: Instagram
-hits: 271
-text_top: See the top-rated Instagram profiles on inBeat.
-text_bottom: Our platform has 271 Instagram influencers like this in Russia for you to collaborate.
+hits: 290
+text_top: Discover the best Instagram profiles on inBeat.
+text_bottom: Our search engine aggregates 290 Instagram influencers like this in Russia for you to pitch.
 profiles:
-  - username: "joytodorova"
+  - username: "vasumittal"
     fullname: >-
-      Radost Todorova
+      Vasu Mittal
     bio: >-
-      👑Miss Universe 🇧🇬 book & food lover📚 🎥Let’s live a happy & healthy life together🐣 🎬 YouTube channel👇
+      On a mission🩸 Founder @projectvmnutrition @trainwithvm Reach top 1% in aesthetics, health and mindset ↓
     location: "Russia"
-    followers: 83877
-    engagement: 497
-    commentsToLikes: 0.138073
-    id: ck6u99hw2w94w0j715q9hp5wb
+    followers: 506499
+    engagement: 538
+    commentsToLikes: 0.007115
+    id: ck8t2q9900c3d0j78f4en6qja
     verified: true
-    hashtags: "#giveaway, #haircare, #joytodorova, #galdini"
+    hashtags: "#trainwithvm, #sauna, #recovery, #elevate"
+  - username: "alinavalova.beautyblog"
+    fullname: >-
+      Бьюти блогер мама 🤍 ОБЗОРЫ / РАСПАКОВКИ
+    bio: >-
+      Алина ✨ Lifestyle Beauty Healthy 🛍️ О самом полезном для мам🌸 SMM, PR @smm_like_shock Сотрудничество/реклама➡️Direct 💌alinavalova96@mail.ru
+    location: "Russia"
+    followers: 132196
+    engagement: 283
+    commentsToLikes: 0.038310
+    id: ck5q56kwbrkqq0i11c7i2z1bz
+    verified: false
+    hashtags: "#mirrolla, #faberlic, #instaclick, #unikit"
+  - username: "stellaaminova"
+    fullname: >-
+      Stella Aminova
+    bio: >-
+      REAL MUM OF SIX KIDS ♥️. Best healthy snack in the world @besnacksy 🌈. @dgkidstlv 💕.
+    location: "Russia"
+    followers: 2433916
+    engagement: 30
+    commentsToLikes: 0.050932
+    id: ckaoqwb1pkpbq0i787znjsain
+    verified: true
+    hashtags: ""
   - username: "married.my.enemy"
     fullname: >-
       УСЫНОВЛЕНИЕ 🍀 БЕРЕМЕННОСТЬ
@@ -43,18 +67,6 @@ profiles:
     id: ckap5qc58cpns0i78x082gi9w
     verified: false
     hashtags: "#valentinovoceviva"
-  - username: "tati_vk"
-    fullname: >-
-      Tatiana Korsakova
-    bio: >-
-      Founder of @vaara_studio ✉️tatiana@vaara.com My health&beauty blog: @myhandbookmag
-    location: "Russia"
-    followers: 875818
-    engagement: 333
-    commentsToLikes: 0.012239
-    id: ck1394fr7jgyy0i19r53kfuto
-    verified: true
-    hashtags: ""
   - username: "chichinaalina"
     fullname: >-
       Alina Chichina
@@ -67,6 +79,18 @@ profiles:
     id: ck5bwfzzmlmsp0i11vjghza30
     verified: false
     hashtags: "#dailiestotal1, #trustyourmamanature"
+  - username: "ollynotes"
+    fullname: >-
+      OLGA BOGDANOVA
+    bio: >-
+      🧘🏼‍♀️Moderately Healthy & Positive lifestyle 🎬 Film industry set life
+    location: "Russia"
+    followers: 25480
+    engagement: 825
+    commentsToLikes: 0.013894
+    id: ckap17330tc0c0i78f24ap5oo
+    verified: false
+    hashtags: "#bday, #happybirthday, #birthdaygirl, #birthday"
   - username: "nastya_konovalova"
     fullname: >-
       Анастасия / Растяжка / Самара
@@ -103,28 +127,4 @@ profiles:
     id: ck6tz7ui9845m0j717js6ufnu
     verified: false
     hashtags: "#schoolmates, #sunset, #lovemywork, #goodvibesonly"
-  - username: "m.a.r.i.a.y.m"
-    fullname: >-
-      М А Р Ь Я М
-    bio: >-
-      Fashion | Lifestyle | Beauty | Health ✉️ direct
-    location: "Russia"
-    followers: 199105
-    engagement: 263
-    commentsToLikes: 0.011950
-    id: ck134evvzw3y30i19ekxs3m0d
-    verified: false
-    hashtags: "#lovemyfamily, #magicmoments, #mybirthdaygirl, #recomended"
-  - username: "y.mind"
-    fullname: >-
-      Снежана Янченко
-    bio: >-
-      inspired by love, nature, holistic health and beauty 🍃
-    location: "Russia"
-    followers: 467588
-    engagement: 382
-    commentsToLikes: 0.004296
-    id: ck0tz3jghp1n10i19byggqdh9
-    verified: true
-    hashtags: "#loverepublic, #lr, #ymind"
 ---

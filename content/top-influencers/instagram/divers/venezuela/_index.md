@@ -1,11 +1,11 @@
 ---
-title: Top 10 Divers Instagram Influencers In Venezuela In 2023
+title: Top 10 Divers Instagram Influencers In Venezuela In 2024
 description: >-
-  Find top divers Instagram influencers in Venezuela in 2023. Most popular hashtags: #venezuela #love #amor #makeup.
+  Find top divers Instagram influencers in Venezuela in 2024. Most popular hashtags: #venezuela #love #makeup #caracas.
 platform: Instagram
-hits: 19
-text_top: Discover the most popular Instagram influencers on inBeat.
-text_bottom: Our search engine holds 19 Instagram influencers like this in Venezuela for you to collaborate.
+hits: 22
+text_top: See the most popular Instagram accounts on inBeat.
+text_bottom: Our platform has 22 Instagram influencers like this in Venezuela for you to connect with.
 profiles:
   - username: "cesar_losroques"
     fullname: >-
@@ -19,6 +19,30 @@ profiles:
     id: ck5hne9n8nms70i11972bacd7
     verified: false
     hashtags: "#scuba, #graciasdios, #skydive, #venezuela"
+  - username: "izamorafit"
+    fullname: >-
+      Izamar Mora
+    bio: >-
+      🌎 Holistic Health🧠🩵🍃 🚘 Imagen @mm4wd 🔩 Venta de vehículos @izamora4wd 🥇 Campeona Bikini Vzla 2015 📍 Venezuela 🇻🇪
+    location: "Venezuela"
+    followers: 532961
+    engagement: 36
+    commentsToLikes: 0.073865
+    id: ck8sztmdbpnys0j78eyamm0nu
+    verified: false
+    hashtags: "#colombia, #venezuela, #apure, #fitnessmotivation"
+  - username: "carabobonoticia"
+    fullname: >-
+      Carabobo Es Noticia
+    bio: >-
+      Página de Carabobo Es Noticia. Noticias Humor Publicidad #Venezuela
+    location: "Venezuela"
+    followers: 128392
+    engagement: 21
+    commentsToLikes: 0.064495
+    id: ck0vxwki913hu0i19sr7nvupn
+    verified: false
+    hashtags: "#lecheria, #valledelapascua, #venezolanosenchile, #puertolacruz"
   - username: "marianavalladaresl"
     fullname: >-
       MARIANA VALLADARES
@@ -79,18 +103,6 @@ profiles:
     id: ck6031kbdkhe50i1406ppoi2n
     verified: false
     hashtags: "#energiaspositivas, #gatavani, #gata, #legsday"
-  - username: "flor.de.essen"
-    fullname: >-
-      Somos Una Familia Que Cocina
-    bio: >-
-      Soy flor, mamá de Lola y Pedro futura contadora,👩🏻‍🎓 Y EMPRESARIA ESSEN 💫‼️‼️ .código de emprendedora: 274378 Súmate a mi equipo 🇦🇷 🇵🇪 🇵🇾
-    location: "Venezuela"
-    followers: 55534
-    engagement: 307
-    commentsToLikes: 0.084263
-    id: ck13495b6vbrz0i19qezo1hfv
-    verified: false
-    hashtags: "#rico, #viernes, #flordeessen, #risas"
   - username: "jenny_vaamond"
     fullname: >-
       Jennifer Vaamonde
@@ -115,16 +127,4 @@ profiles:
     id: ck55lhqc01li70i119oykui6d
     verified: false
     hashtags: "#amor, #happyness, #happy, #viral"
-  - username: "francolsq"
-    fullname: >-
-      Franco | Bellomo
-    bio: >-
-      Parido en el Show Business Crecí siendo Productor Musical Y me desarrollé como Artista ... Así ha sido toda mi vida!
-    location: "Venezuela"
-    followers: 83357
-    engagement: 135
-    commentsToLikes: 0.072252
-    id: ck5hdgopgnc9n0i11dagr49jv
-    verified: false
-    hashtags: "#pontelospatinespaquemealcances, #tbt, #soyfranco, #ciclocerrado"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Bogotá In 2023
+title: Top 10 Fitness Instagram Influencers In Bogotá In 2024
 description: >-
-  Find top fitness Instagram influencers in Bogotá in 2023. Most popular hashtags: #fitness #colombia #fit #tbt.
+  Find top fitness Instagram influencers in Bogotá in 2024. Most popular hashtags: #fitness #colombia #fitnessmotivation #bogota.
 platform: Instagram
 hits: 43
-text_top: See the most popular Instagram profiles on inBeat.
-text_bottom: Our search engine holds 43 Instagram influencers like this in Bogotá, Colombia for you to work with.
+text_top: Analyze the top-rated Instagram profiles on inBeat.
+text_bottom: Our platform aggregates 43 Instagram influencers like this in Bogotá, Colombia for you to work with.
 profiles:
   - username: "lamasmela"
     fullname: >-
@@ -19,6 +19,18 @@ profiles:
     id: ckf5ubzl7kbqe0j23ck7wfskh
     verified: false
     hashtags: "#agustinayguadalupe, #mamadedosprincesas, #afortunada, #diciembrenavidad"
+  - username: "isabellacubillos"
+    fullname: >-
+      Isabella Cubillos
+    bio: >-
+      Founder @symmetric.activewear 📍Bogotá, Colombia / Cali Fitness - Workouts - Lifestyle✨
+    location: "Colombia"
+    followers: 108411
+    engagement: 125
+    commentsToLikes: 0.020116
+    id: ck8t6makke3v20j78m7phwtob
+    verified: false
+    hashtags: "#glutetraining, #cardioworkout, #legs, #postrefit"
   - username: "fredd.linares"
     fullname: >-
       FREDD LINARES
@@ -31,30 +43,6 @@ profiles:
     id: ck13a5q5foqse0i192dpfi21f
     verified: false
     hashtags: ""
-  - username: "danielrestrepogarcia"
-    fullname: >-
-      𝑫𝒂𝒏𝒊𝒆𝒍 𝑹𝒆𝒔𝒕𝒓𝒆𝒑𝒐 I Clavados
-    bio: >-
-      Nos vemos en Francia 🇫🇷 @paris2024 acompáñame a vivir un ciclo olímpico Campeón Panamericano Lima 2019 Campeón olímpico de la juventud 2018
-    location: "Colombia"
-    followers: 19827
-    engagement: 1020
-    commentsToLikes: 0.025376
-    id: ck8sxy4w6j33z0j78bo5e1iqo
-    verified: false
-    hashtags: "#me, #fit, #covid, #workout"
-  - username: "camiloroanutricionista"
-    fullname: >-
-      Dr. Camilo Roa® 👨🏻‍⚕️👱🏻‍♀️✍🏻
-    bio: >-
-      🇨🇴🥇Nutricionista Dietista Coach 💻 Online 🌎 📞+573044713952 🇪🇸Esp.N.Deportiva y Fitness🏃🏻 🇪🇸Esp.Sobrepeso Obesidad🍴 🥗Recomposición Corporal⚙️ 🍔 Hábitos
-    location: "Colombia"
-    followers: 121517
-    engagement: 102
-    commentsToLikes: 0.027509
-    id: ck8sz2favmx340j78unmqz99n
-    verified: false
-    hashtags: "#fitness, #nutri, #bajardepesorapido, #tonificar"
   - username: "juanda_aldana"
     fullname: >-
       RECUERDO DE JUAN DAVID ALDANA
@@ -102,7 +90,7 @@ profiles:
     commentsToLikes: 0.092550
     id: ck14ltbuxwdna0i19naqt0jed
     verified: false
-    hashtags: "#girl, #libertad, #instagood, #colombiana"
+    hashtags: "#libertad, #tiktok, #photography, #emprendedores"
   - username: "maleja__fitness"
     fullname: >-
       ✨MalejaFitness✨
@@ -127,4 +115,16 @@ profiles:
     id: ck8t0qyfwsytv0j7846clzuqm
     verified: false
     hashtags: "#colombiana, #modelosfitness, #manizalesdelalma, #manizalen"
+  - username: "davidcardenass230"
+    fullname: >-
+      David Cárdenas
+    bio: >-
+      Medellin Colombia 🇨🇴 CREE EN TI Y TODO SERÁ POSIBLE 🙏 Viajero colombiano 🇨🇴✈️🗺 Modelo 📸deportista fitness 🏃🏻‍♂️ Tiktok: Davidcardenass230
+    location: "Colombia"
+    followers: 121194
+    engagement: 212
+    commentsToLikes: 0.068045
+    id: ck8t8swuwlom10j78zd0k6o6d
+    verified: false
+    hashtags: "#model, #latino, #fitness, #pereira"
 ---

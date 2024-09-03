@@ -1,11 +1,11 @@
 ---
-title: Top 10 Skincare Instagram Influencers In Milan In 2023
+title: Top 10 Skincare Instagram Influencers In Milan In 2024
 description: >-
-  Find top skincare Instagram influencers in Milan in 2023. Most popular hashtags: #skincare #beauty #love #milano.
+  Find top skincare Instagram influencers in Milan in 2024. Most popular hashtags: #skincare #milano #beauty #outfitoftheday.
 platform: Instagram
-hits: 108
-text_top: Discover the most popular Instagram profiles on inBeat.
-text_bottom: Our search engine has 108 Instagram influencers like this in Milan, Italy for you to pitch.
+hits: 133
+text_top: Analyze the best Instagram influencers on inBeat.
+text_bottom: inBeat aggregates 133 Instagram influencers like this in Milan, Italy for you to contact.
 profiles:
   - username: "miss.mrj"
     fullname: >-
@@ -31,6 +31,18 @@ profiles:
     id: ck5ck7enpwain0i11tdxsqe0m
     verified: false
     hashtags: "#shadow, #portraitphotography, #blackandwhitephotography, #baldandbearded"
+  - username: "robyzavo"
+    fullname: >-
+      𝑹𝒐𝒃𝒆𝒓𝒕𝒂 𝒁𝒂𝒗𝒐𝒊𝒂𝒏𝒏𝒊
+    bio: >-
+      🔬🌱 Biologa Ambientale 👗💄 Fashion & Beauty Addicted 👫 𝟤𝟣/𝟢𝟤/𝟤𝟢𝟣𝟪 ♥️
+    location: "Italy"
+    followers: 46643
+    engagement: 174
+    commentsToLikes: 0.288788
+    id: ckaoxo0qxe2ep0i78yly3wyaf
+    verified: false
+    hashtags: "#outfitoftheday, #summer, #polignano, #blue"
   - username: "angelica_scaglione"
     fullname: >-
       Angelica Scaglione 🌍
@@ -43,6 +55,54 @@ profiles:
     id: ck8t3myy63rzc0j78kt45slxy
     verified: false
     hashtags: "#fashion, #milano, #ad, #sunday"
+  - username: "gessicageon"
+    fullname: >-
+      Gessica Ge🔘
+    bio: >-
+      Torino, Italy 🇮🇹 I’m 22 years old👸🏽 Facebook: Gessica Ge Tiktok:GessicaGe1998 •La vita non è trovare se stessi. La vita è creare se stessi.•
+    location: "Italy"
+    followers: 6434
+    engagement: 488
+    commentsToLikes: 0.013323
+    id: ckf5pw2tc7fb80j23az4wdirz
+    verified: false
+    hashtags: "#artgallery, #relax, #ragazze, #art"
+  - username: "moskinlab"
+    fullname: >-
+      PharmD. Mohammed kanadil | Safety and science of skincare
+    bio: >-
+      Pharmacist | Toxicologist Safety assessor of cosmetics and skincare. 💊 Skincare myth busting ☣️ Safety of skincare ingredients. 📍 Milan 🇮🇹
+    location: "Italy"
+    followers: 16947
+    engagement: 241
+    commentsToLikes: 0.159216
+    id: cl4f68z1ipxji0i2382a25tct
+    verified: false
+    hashtags: "#cosmeticssafety, #cosmeticscience, #cosmeticeducation, #safetytesting"
+  - username: "marta_pezzoni"
+    fullname: >-
+      𝑴𝒂𝒓𝒕𝒂 𝑷𝒆𝒛𝒛𝒐𝒏𝒊 / Networker 📲
+    bio: >-
+      𝐁𝐨𝐬𝐬 𝐠𝐢𝐫𝐥 𝐩𝐫𝐞𝐬𝐬𝐨 𝐓𝐁𝐑👑 🥇 𝐒𝐄𝐍𝐈𝐎𝐑 𝐌𝐀𝐍𝐀𝐆𝐄𝐑 ❤️ Rachele’s Mum 𝑩𝒆𝒂𝒖𝒕𝒚 𝑨𝒎𝒃𝒂𝒔𝒔𝒂𝒅𝒐𝒓 📲 𝑩𝒖𝒔𝒊𝒏𝒆𝒔𝒔 𝑶𝒑𝒑𝒐𝒓𝒕𝒖𝒏𝒊𝒕𝒚
+    location: "Italy"
+    followers: 19263
+    engagement: 114
+    commentsToLikes: 0.113827
+    id: ck9wfr2phq57m0j786nbpd0es
+    verified: false
+    hashtags: "#beautyroutine, #illatodolcedelnetwork, #inthenature, #cinqueterre"
+  - username: "kikomilano"
+    fullname: >-
+      KIKO Milano Official
+    bio: >-
+      Italian make up and skincare brand born in Milan No. 1 Make up brand in Italy Makeup 99% Made in Europe (Ex. Bridgerton that is Made in USA for KIKO)
+    location: "Italy"
+    followers: 6377456
+    engagement: 11
+    commentsToLikes: 0.006903
+    id: cl4f68udfpuej0i23gclq12r0
+    verified: false
+    hashtags: "#summercollection, #lipgloss, #thelittlemermaid, #glossylips"
   - username: "cocochristina_"
     fullname: >-
       Sijia Chen Christina👉🏻Actress
@@ -55,76 +115,16 @@ profiles:
     id: ck5q63msrvtmn0i11co8bpmbp
     verified: false
     hashtags: "#staystrong, #grateful, #donnavventuraitalia, #pigiama"
-  - username: "lorenzo_carone"
+  - username: "eleonoralaurito"
     fullname: >-
-      Lorenzo Carone
+      Eleonora Laurito Valbuzzi
     bio: >-
-      Basketball Player @tumminelliromanabasket 🏀 Digital PR 💼 Membro Attivo di @plasticfreeit Onlus 🌱 from Piedmont to Milan 📩 mngmt.info@gmail.com
+      @crotto_valtellina 🩷💙 Alisea e Elan Gabriele ‘Fa’ attenzione a ciò che chiedi a Dio, perché potresti averlo’
     location: "Italy"
-    followers: 61540
-    engagement: 229
-    commentsToLikes: 0.020570
-    id: ck6u853kbphli0j71b27qe0lc
+    followers: 112628
+    engagement: 506
+    commentsToLikes: 0.013440
+    id: clrjblefbqzqh0k086zent0du
     verified: false
-    hashtags: "#futureoftravel, #photooftheday, #photography, #photo"
-  - username: "magdaknowsit"
-    fullname: >-
-      Magda Pintus
-    bio: >-
-      Make-up Artist 💖🖌💄 From Sardinia with Love ☀️🐬🌺
-    location: "Italy"
-    followers: 12881
-    engagement: 517
-    commentsToLikes: 0.044126
-    id: ck6ti6kq104uj0j71155mzt0q
-    verified: false
-    hashtags: "#blush, #milano, #foundation, #lips"
-  - username: "lady_violante"
-    fullname: >-
-      Lady Violante
-    bio: >-
-      💃🏼I'm your neighbour next door. But better dressed. 💁🏼‍♀️COO & Style Architect @thevicosuite 💻Digital content creator for pleasure and business.
-    location: "Italy"
-    followers: 46965
-    engagement: 98
-    commentsToLikes: 0.053923
-    id: ckap2srul05r10i78hq70bnoi
-    verified: false
-    hashtags: "#rome, #casaviolante, #estateitaliana, #marriedlife"
-  - username: "letofrancesca"
-    fullname: >-
-      Francesca Leto
-    bio: >-
-      ⭐️Tv-Entertainment-Commercials🎬 🌸YOLO💫 Booking & Collabs 📩 press.francescaleto@gmail.com 👇🏻leggi mio blog👇🏻
-    location: "Italy"
-    followers: 120335
-    engagement: 208
-    commentsToLikes: 0.287179
-    id: ck5zp8s6ks7md0i14jfh4yf4x
-    verified: true
-    hashtags: "#francescaleto, #costumidabagno, #outfitinspo, #ootdshare"
-  - username: "alessandraricchizzi"
-    fullname: >-
-      Facialist
-    bio: >-
-      MyManualLifting® Founder @arbeautykit 📧 Press & collaborazioni info.ricchizzi@gmail.com 📞 Contacts on website
-    location: "Italy"
-    followers: 66518
-    engagement: 111
-    commentsToLikes: 0.037879
-    id: ck0uavr4ud6l10i19geyzok6i
-    verified: false
-    hashtags: "#facegym, #arface, #model, #massage"
-  - username: "_andreacimatti"
-    fullname: >-
-      A N D R E A  C I M A T T I
-    bio: >-
-      21, Milan Pro Make-Up Artist Beauty Content Creator 𝘽𝙐𝙎𝙄𝙉𝙀𝙎𝙎: andreacimatti01@gmail.com or DM
-    location: "Italy"
-    followers: 39030
-    engagement: 783
-    commentsToLikes: 0.032357
-    id: ck5zzrcpgca7b0i14bzggkci5
-    verified: false
-    hashtags: "#summermakeup, #pridemonth, #prideseries, #christmasmakeup"
+    hashtags: "#skincare, #mumlife, #altabadia, #notordinarychef"
 ---

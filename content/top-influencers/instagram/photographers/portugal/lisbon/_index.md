@@ -1,24 +1,36 @@
 ---
-title: Top 10 Photographers Instagram Influencers In Lisbon In 2023
+title: Top 10 Photographers Instagram Influencers In Lisbon In 2024
 description: >-
-  Find top photographers Instagram influencers in Lisbon in 2023. Most popular hashtags: #portugal #men #35mm.
+  Find top photographers Instagram influencers in Lisbon in 2024. Most popular hashtags: #portugal #lisboa #travel.
 platform: Instagram
-hits: 16
-text_top: See the most popular Instagram influencers on inBeat.
-text_bottom: inBeat aggregates 16 Instagram influencers like this in Lisbon, Portugal for you to work with.
+hits: 25
+text_top: Identify the most popular Instagram accounts on inBeat.
+text_bottom: Our database aggregates 25 Instagram influencers like this in Lisbon, Portugal for you to pitch.
 profiles:
   - username: "fernandogguerra"
     fullname: >-
       Fernando Guerra
     bio: >-
-      Architectural photographer Lisbon I Canon ambassador Also: @fg_dailydriven @fg_edition Some with iphone, some from assignments, sharing is the point
+      Architectural photographer Lisbon I Canon ambassador +@fg_dailydriven @travellingwithsiza Some with iphone some from assignments, sharing is the point
     location: "Portugal"
-    followers: 236530
-    engagement: 136
-    commentsToLikes: 0.005567
+    followers: 254120
+    engagement: 129
+    commentsToLikes: 0.004945
     id: ck0tu20s15ac40i19jwlvacai
     verified: true
-    hashtags: "#staystrong, #home, #stayhomewithcamera, #staysharp"
+    hashtags: ""
+  - username: "masimmo"
+    fullname: >-
+      Márcia Simões
+    bio: >-
+      Photographer Based in Lisbon, Portugal Contact: marciasimoes@mail.com
+    location: "Portugal"
+    followers: 17201
+    engagement: 187
+    commentsToLikes: 0.036440
+    id: ck5zjwj0nie070i140pj0pjfj
+    verified: false
+    hashtags: "#portrait, #venice, #cinema, #travel"
   - username: "sharonpannen"
     fullname: >-
       Sharon Pannen
@@ -31,30 +43,30 @@ profiles:
     id: ck6tor064fm660j714e8yax87
     verified: false
     hashtags: "#35mm, #kodak"
-  - username: "goncaloasilva"
-    fullname: >-
-      Gonçalo Silva
-    bio: >-
-      Portuguese Photographer #goncalosilva #film #lisbon
-    location: "Portugal"
-    followers: 28937
-    engagement: 160
-    commentsToLikes: 0.017782
-    id: ck6ueo5ois3q90j71b3ki618u
-    verified: false
-    hashtags: "#portra800, #lisbon, #film, #goncalosilva"
   - username: "hugoavidal"
     fullname: >-
       Hugo Vidal
     bio: >-
       📍Exploring Portugal 📷Lisbon based photographer
     location: "Portugal"
-    followers: 7689
-    engagement: 1289
-    commentsToLikes: 0.034536
+    followers: 8088
+    engagement: 923
+    commentsToLikes: 0.036965
     id: ck5cei6iql20k0i119r5mu6di
     verified: false
-    hashtags: "#rsa, #portugueseroamers, #amar, #sharing"
+    hashtags: "#geocaching, #portugueseroamers, #moodygrams, #dronephotography"
+  - username: "diogorcarrilho"
+    fullname: >-
+      DIOGO CARRILHO
+    bio: >-
+      💻Designer, photographer and traveler!🌴 📍lisbon, Portugal
+    location: "Portugal"
+    followers: 13373
+    engagement: 590
+    commentsToLikes: 0.014130
+    id: ck8t6cxj8d5870j78q2eg4tc7
+    verified: false
+    hashtags: "#food, #digsaroundtheworld, #costaalentejana, #colors"
   - username: "henriquesadio"
     fullname: >-
       H E N R I Q U E   S A D I O
@@ -66,19 +78,31 @@ profiles:
     commentsToLikes: 0.077940
     id: ck6tzni0paqyv0j711dovhaoc
     verified: false
-    hashtags: "#bandanas, #bandanastyle, #modafashion, #lisboa"
+    hashtags: "#bandanastyle, #portugal, #men, #lisboa"
   - username: "miguelchocobai"
     fullname: >-
       Choco 🇵🇹
     bio: >-
-      photographer x videographer based in lisbon 🇵🇹 @_negatif
+      photographer x videographer based in lisbon 🇵🇹 Team @_negatif
     location: "Portugal"
-    followers: 2299
-    engagement: 1383
-    commentsToLikes: 0.053286
+    followers: 2469
+    engagement: 1314
+    commentsToLikes: 0.061172
     id: ck8sx5k0rg8f50j78fq5npf51
     verified: false
     hashtags: ""
+  - username: "juliabarminova"
+    fullname: >-
+      Júlia Barminova ⚓️ WATERCOLOUR & SAILING
+    bio: >-
+      🗺️ Visited and painted 145 ports around the globe. More to come! ⛵️ Want to learn how to paint the Sea? Check out the link below! 🔻WORKSHOPS🔻
+    location: "Portugal"
+    followers: 297579
+    engagement: 326
+    commentsToLikes: 0.017303
+    id: ck0vw3yjarzti0i19pg48kle3
+    verified: false
+    hashtags: "#art, #yaht, #oceantravel, #sailing"
   - username: "carlosmuriongo"
     fullname: >-
       MuriongoFilms🎥👍
@@ -91,40 +115,16 @@ profiles:
     id: ck5zpc6gtseg30i14ggbfqtra
     verified: false
     hashtags: "#bigwavesurfing, #xxlbigwaveawards, #surfing, #likeforlikes"
-  - username: "nashdoeswork"
+  - username: "szilagyinora"
     fullname: >-
-      Girl Blunt
+      Szilágyi Nóra
     bio: >-
-      Photographer and content creator. I take pictures, I believe in rainbows and unicorns, and I like to translate that into my work. Based in Lisbon.
+      Photographer ⚫ Confectioner ⚫ Food stylist ⚫ Traveller ⚫ Kettlebell lover ⚫ Work: StreetKitchen 📷👩‍🍳🎂
     location: "Portugal"
-    followers: 10161
-    engagement: 698
-    commentsToLikes: 0.031737
-    id: ck0twu6i7gr290i19s1xtroue
+    followers: 18044
+    engagement: 370
+    commentsToLikes: 0.008473
+    id: ck55o86en7tr90i11xwrzbala
     verified: false
-    hashtags: "#oclube, #nishikan8000, #kodakgold200, #35mm"
-  - username: "ben.pinto"
-    fullname: >-
-      Ben Pinto
-    bio: >-
-      “Have you met Ben?” 🗺 Explorer 🎒 Travel Photographer 🇵🇹 Based in #Portugal
-    location: "Portugal"
-    followers: 57782
-    engagement: 760
-    commentsToLikes: 0.143989
-    id: ck0tv3ulw9tdz0i19t64ys14d
-    verified: false
-    hashtags: "#voyaged, #parismaville, #loveitaly, #sdmtravels"
-  - username: "dvfots"
-    fullname: >-
-      David Velez Fotografia
-    bio: >-
-      FREELANCE PHOTOGRAPHER Seixal, Lisboa, Portugal📍 📸 Portrait/body/fashion/lifestyle Available for work www.top4fans.com/dvfots
-    location: "Portugal"
-    followers: 21178
-    engagement: 313
-    commentsToLikes: 0.007770
-    id: ck0vzoy4ca6ew0i19iqm9bsjn
-    verified: false
-    hashtags: "#testshoot, #model, #story, #sixpack"
+    hashtags: "#foodie, #cake, #lisbon, #portugal"
 ---

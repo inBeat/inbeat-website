@@ -1,11 +1,11 @@
 ---
-title: Top 10 Nail Artists TikTok Influencers In Canada In 2023
+title: Top 10 Nail Artists TikTok Influencers In Canada In 2024
 description: >-
-  Find top nail artists TikTok influencers in Canada in 2023. Most popular hashtags: #fyp #foryou #nails #foryoupage.
+  Find top nail artists TikTok influencers in Canada in 2024. Most popular hashtags: #nails #fyp #foryou #art.
 platform: TikTok
-hits: 16
-text_top: Identify the most popular TikTok profiles on inBeat.
-text_bottom: Our database aggregates 16 TikTok influencers like this in Canada for you to contact.
+hits: 13
+text_top: See the most popular TikTok accounts on inBeat.
+text_bottom: inBeat aggregates 13 TikTok influencers like this in Canada for you to collaborate.
 profiles:
   - username: "live_laugh_learn_nailart"
     fullname: >-
@@ -31,18 +31,18 @@ profiles:
     id: ck8osv4gbigu40j78j43iw1uw
     verified: false
     hashtags: "#nails, #xyzbca, #fyp, #art"
-  - username: "leanaromen"
+  - username: "tanfastic_"
     fullname: >-
-      Leana
+      kylie Saunders
     bio: >-
-      My mom says i’m funny Surrey Insta/Snap: LROMEN
+      Canadian / nail tech / dog mama Nail instagram ⬇️
     location: "Canada"
-    followers: 9023
-    engagement: 764
-    commentsToLikes: 0.021223
-    id: ckbl6bdux40vx0j236wfzqb62
+    followers: 12400
+    engagement: 780
+    commentsToLikes: 0.032623
+    id: ck8osv4oqigws0j78zxzy7uc5
     verified: false
-    hashtags: "#foryoupage, #surreybc, #fy, #surrey"
+    hashtags: "#pressonnailbusiness, #nailsvideos, #fyp, #foryou"
   - username: "pinkmillennial"
     fullname: >-
       pinkmillennial_
@@ -54,19 +54,7 @@ profiles:
     commentsToLikes: 0.091257
     id: ckc3elrwz09v60j23kr335xp7
     verified: false
-    hashtags: "#pinkdress, #pinklover, #tiktokggt, #ootd"
-  - username: "tanfastic_"
-    fullname: >-
-      kylie Saunders
-    bio: >-
-      Canadian / nail tech / dog mama Nail instagram ⬇️
-    location: "Canada"
-    followers: 12200
-    engagement: 551
-    commentsToLikes: 0.026557
-    id: ck8osv4oqigws0j78zxzy7uc5
-    verified: false
-    hashtags: "#frenchbulldog, #nails, #nailvideos, #foryoupage"
+    hashtags: "#springoutfit, #pinkdress, #tiktokggt, #picnicaesthetic"
   - username: "hennabyramnik1"
     fullname: >-
       Ramnik Kaur
@@ -78,7 +66,19 @@ profiles:
     commentsToLikes: 0.009884
     id: ckc35jmt9uqif0j23k4g7kd92
     verified: false
-    hashtags: "#makeuplover, #toronto, #punjabi, #makeup"
+    hashtags: "#indian, #couplegoals, #baby, #makeup"
+  - username: "saltecrafter"
+    fullname: >-
+      NerdEcrafter
+    bio: >-
+      Yes. I'm the real NerdEcrafter on YouTube
+    location: "Canada"
+    followers: 251000
+    engagement: 2627
+    commentsToLikes: 0.013646
+    id: ck8fc0jjz5trd0j78lvt6jc87
+    verified: true
+    hashtags: "#crafts, #unboxing, #diy, #art"
   - username: "thegrimmworkshop"
     fullname: >-
       TheGrimmWorkshop

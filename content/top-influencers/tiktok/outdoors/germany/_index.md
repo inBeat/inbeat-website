@@ -1,11 +1,11 @@
 ---
-title: Top 10 Outdoors TikTok Influencers In Germany In 2023
+title: Top 10 Outdoors TikTok Influencers In Germany In 2024
 description: >-
-  Find top outdoors TikTok influencers in Germany in 2023. Most popular hashtags: #outdoors #foryou #fy #viral.
+  Find top outdoors TikTok influencers in Germany in 2024. Most popular hashtags: #outdoors #foryou #fy #viral.
 platform: TikTok
 hits: 37
-text_top: See the top-rated TikTok accounts on inBeat.
-text_bottom: inBeat holds 37 TikTok influencers like this in Germany for you to work with.
+text_top: Identify the top-rated TikTok accounts on inBeat.
+text_bottom: Our search engine aggregates 37 TikTok influencers like this in Germany for you to collaborate.
 profiles:
   - username: "uwebpt"
     fullname: >-

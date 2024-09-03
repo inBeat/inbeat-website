@@ -1,11 +1,11 @@
 ---
-title: Top 10 TikTok Influencers In Saudi Arabia In 2023
+title: Top 10 TikTok Influencers In Saudi Arabia In 2024
 description: >-
-  Find top TikTok influencers in Saudi Arabia in 2023. Most popular hashtags: #duet #foryoupage #like.
+  Find top TikTok influencers in Saudi Arabia in 2024. Most popular hashtags: #duet #like #foryoupage.
 platform: TikTok
 hits: 1098
-text_top: See the most popular TikTok influencers on inBeat.
-text_bottom: inBeat holds 1098 TikTok influencers like this in Saudi Arabia for you to work with.
+text_top: Discover the top-rated TikTok influencers on inBeat.
+text_bottom: inBeat has 1098 TikTok influencers like this in Saudi Arabia for you to pitch.
 profiles:
   - username: "ya_999965"
     fullname: >-

@@ -1,36 +1,24 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In Venezuela In 2023
+title: Top 10 Nutrition Instagram Influencers In Venezuela In 2024
 description: >-
-  Find top nutrition Instagram influencers in Venezuela in 2023. Most popular hashtags: #fitness #healthylifestyle #love #venezuela.
+  Find top nutrition Instagram influencers in Venezuela in 2024. Most popular hashtags: #healthylifestyle #fitness #nutricion #love.
 platform: Instagram
-hits: 16
-text_top: Analyze the top-rated Instagram accounts on inBeat.
-text_bottom: Our database aggregates 16 Instagram influencers like this in Venezuela for you to contact.
+hits: 15
+text_top: Discover the most popular Instagram profiles on inBeat.
+text_bottom: inBeat aggregates 15 Instagram influencers like this in Venezuela for you to connect with.
 profiles:
-  - username: "moveyourash.fit"
+  - username: "nutrelicious"
     fullname: >-
-      Ashly Prieto Healthy Lifestyle
+      Francis • Nutricionista-Dietista | Alimentación Saludable
     bio: >-
-      🍏 ISSA Fitness nutrition 🏃🏼‍♀️ ISSA Personal Trainer 👩🏼‍💼 CEO @moveyourashstore 👩🏼‍🍳 Recetas 💪🏼 DM para colaboraciones 📧 Asesorías 🔽 Página Web
+      🍋Ayudo a mujeres a mejorar su estilo de vida y lograr un balance hormonal a través de la alimentación. •Asesorías 1:1 💻 Reserva tu cita aquí 👇🏻
     location: "Venezuela"
-    followers: 45808
-    engagement: 300
-    commentsToLikes: 0.031904
-    id: ck5cfpjwwnemm0i11bg26a6ow
-    verified: false
-    hashtags: "#recetamya, #consumoresponsable, #rutinamya"
-  - username: "nosoncaloriass"
-    fullname: >-
-      Nutrición I Saludable
-    bio: >-
-      Francis Carrero 👩🏻‍🎓Lic. Nutrición y Dietética 🔜Nutrition Coach PN1 🥑Programa Club Saludable 🍉Asesorías online 🌱Las calorías no te nutren
-    location: "Venezuela"
-    followers: 50851
-    engagement: 134
-    commentsToLikes: 0.032927
+    followers: 138344
+    engagement: 29
+    commentsToLikes: 0.011090
     id: ck14gwr0o7ezh0i19axdb64qp
     verified: false
-    hashtags: "#foodie, #covid, #fitness, #recetasfaciles"
+    hashtags: "#lifestyle, #lifestyleblogger, #fit, #nutritionist"
   - username: "steffysoccer"
     fullname: >-
       Steffy G. - Coach ⚡️Cachaca
@@ -43,6 +31,18 @@ profiles:
     id: ckap1szetw05m0i78rxbzfs5n
     verified: false
     hashtags: "#reto21, #motivation, #herbalifenutrition, #reto21dias"
+  - username: "cuidartesamarte"
+    fullname: >-
+      Andria Viloria Lubo
+    bio: >-
+      ✨creadora @nyotaskin 🌈holistic health coach 🦋lifestyle, skincare, travel, self-care
+    location: "Venezuela"
+    followers: 190846
+    engagement: 564
+    commentsToLikes: 0.016536
+    id: ck5c6oaaa5ur00i11e4weo1ma
+    verified: false
+    hashtags: "#perfumes, #scentoftheday, #makeup, #consejodehermanamayor"
   - username: "estefaniaramirezmakeup"
     fullname: >-
       Estefanía Ramírez
@@ -67,30 +67,18 @@ profiles:
     id: ck5ch3fvbq1ep0i11vaj6qjub
     verified: false
     hashtags: "#spnutrition, #healthylifestyle, #lovegym, #happyday"
-  - username: "cuidartesamarte"
+  - username: "makeitgrain"
     fullname: >-
-      Andria Viloria Lubo
+      Andrea Sambrano - Nutrición
     bio: >-
-      Holistic Health coach ✨🌈🦋🧖🏽‍♀️🥰 Inspirando Bienestar a través del amor Shop @nyotaskin lifestyle, skincare, wellness, travel, self-care
+      🌶️ te ayudo a llevar una alimentación saludable sin extremismos 🔜 nutrición y dietética - UCV
     location: "Venezuela"
-    followers: 110367
-    engagement: 410
-    commentsToLikes: 0.139324
-    id: ck5c6oaaa5ur00i11e4weo1ma
+    followers: 61964
+    engagement: 246
+    commentsToLikes: 0.025656
+    id: ck15qt0cw4htp0i19o8g6i5dn
     verified: false
-    hashtags: "#cuidartesamarte, #makeup, #skincare, #24"
-  - username: "newmakerq"
-    fullname: >-
-      TV, Entretenimiento y humor🤟🏼
-    bio: >-
-      #NewmakerQuintero #NM♾ 🎙 | TV host @labomba_televen💣 🇻🇪 | Journalist/Periodista 📩 | Contacto: newmakerq@gmail.com 🎶 | TIKTOK🔻
-    location: "Venezuela"
-    followers: 129992
-    engagement: 255
-    commentsToLikes: 0.091296
-    id: ck5hemw8itqqv0i110ws05zqy
-    verified: false
-    hashtags: "#model, #caracas, #televen, #ootd"
+    hashtags: "#nutricionista, #healthy, #recetasfaciles, #saludable"
   - username: "bipsperez"
     fullname: >-
       Belinda Perez
@@ -127,4 +115,16 @@ profiles:
     id: ckap6fmc5fp3w0i78q4bqrmov
     verified: false
     hashtags: "#emprendedores, #viajaresvivir, #wanderlust, #eeuu"
+  - username: "health.yeaah"
+    fullname: >-
+      By ErikA Guillen.
+    bio: >-
+      🔜 functional training coach C.E.O @health.yeaah.food Plan de nutrición y Entrenamiento info al DM. Atleta @metabolicvenezuela Crossfitera 🏋️‍♂️
+    location: "Venezuela"
+    followers: 19928
+    engagement: 442
+    commentsToLikes: 0.030295
+    id: ck6uce1tuf1zx0j7157m3nqe8
+    verified: false
+    hashtags: "#playa, #fuerza, #friday, #saltyhair"
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Models Instagram Influencers In Canada In 2023
+title: Top 10 Models Instagram Influencers In Canada In 2024
 description: >-
-  Find top models Instagram influencers in Canada in 2023. Most popular hashtags: #instagood #love #picoftheday.
+  Find top models Instagram influencers in Canada in 2024. Most popular hashtags: #ootd #sponsored #fyp.
 platform: Instagram
-hits: 320
-text_top: Discover the top-rated Instagram accounts on inBeat.
-text_bottom: Our database has 320 Instagram influencers like this in Canada for you to collaborate.
+hits: 466
+text_top: Identify the most popular Instagram influencers on inBeat.
+text_bottom: Our search engine has 466 Instagram influencers like this in Canada for you to contact.
 profiles:
-  - username: "lexiiwiinters"
+  - username: "vampx13"
     fullname: >-
-      LEXI WINTERS
+      Amanda McKnight
     bio: >-
-      Hi Sexi!! 22. Calgary. Published Model. Tik Tok 412k. The link you want 🔗
+      Actor. Writer. YouTuber. Renegade Games Enthusiast. Cosplay Model. Avid RPGr. 🏳️‍🌈 That nerdy weirdo. 🤓 👇 Other stuff 💕
     location: "Canada"
-    followers: 29811
-    engagement: 396
-    commentsToLikes: 0.060485
-    id: ck8wfuj8mga5t0j78ab5rdqrk
+    followers: 20208
+    engagement: 950
+    commentsToLikes: 0.033934
+    id: ck135cy580ug20i19ij2x33dw
     verified: false
-    hashtags: "#love, #fashion, #trending, #explorepage"
-  - username: "sarahdkxo"
+    hashtags: "#redhair, #cute, #marvelcosplay, #photography"
+  - username: "nickibats"
     fullname: >-
-      Sarah DeMelo✨ creator + mama
+      NICKI BATS
     bio: >-
-      motherhood • midsize fashion • lifestyle 🎗️oncology mom, model + co-founder 💌 sarah.ademelo@gmail.com 🇨🇦 Toronto/Oakville #BennietheBrave
+      Toronto 🦋 Montréal ugc creator • influencer • model collab: contact.nickibats@gmail.com
     location: "Canada"
-    followers: 37441
-    engagement: 69
-    commentsToLikes: 0.098919
-    id: ckq66kj8jh7mf0j23blcd3gi6
+    followers: 6634
+    engagement: 407
+    commentsToLikes: 0.111856
+    id: ckmw1dsgd6qqo0j23kndyy0s0
     verified: false
-    hashtags: "#fuckcancer, #ad, #fightlikeakid, #fucancer"
-  - username: "aslu.ox__"
+    hashtags: "#torontofashion, #selinalife, #millennialmoney, #meetyouthere"
+  - username: "immrfabulous"
     fullname: >-
-      R ⭕ W D Y
+      Mr. Fab
     bio: >-
-      . ALHAMDULLILAAH 💯 . FASHION MODEL . KEEP SMILING 🥀 . ."All my haters , Assemble here "🚀 🍃.. . . CIVILIAN 👷
+      Blogger, Writer, Actor, Model & On-Air Media Personality. LGBTQ Rights Activist 🏳️‍🌈🏳️‍⚧️ Let's chat: ryan@immrfabulous.com
     location: "Canada"
-    followers: 4934
-    engagement: 2678
-    commentsToLikes: 0.178072
-    id: ck9wi95sx19bv0j78s3u61tjk
+    followers: 7347
+    engagement: 560
+    commentsToLikes: 0.303370
+    id: ck6tq007somtz0j719wx6jhcw
     verified: false
-    hashtags: "#instagood, #thrissur, #malayalamcinema, #kerala"
-  - username: "annaliafraser"
+    hashtags: "#cowboy, #ad, #gay, #pride"
+  - username: "marinalayton"
     fullname: >-
-      Annalia Fraser
+      Marina Layton
     bio: >-
-      Tennis Player, Actress, Model Snapchat: annaliafraser 🎾
+      🐴🩷 equestrian, model, graphic design & digital marketing 💌 biz: thepositiveequestrian@gmail.com
     location: "Canada"
-    followers: 24536
-    engagement: 1427
-    commentsToLikes: 0.087217
-    id: ck5hsohlvwxoi0i110y2vgapz
+    followers: 22387
+    engagement: 596
+    commentsToLikes: 0.014631
+    id: clcgsh7b2puff0j08tzo0qblv
     verified: false
-    hashtags: "#happyhalloween, #birthdaygirl, #2021"
-  - username: "cherieleexo"
+    hashtags: "#horsereels, #horsegirlenergy, #saddlepad, #tpetoby"
+  - username: "shahfrank_"
     fullname: >-
-      Chérie | Sure-E
+      SHAH FRANK
     bio: >-
-      📍 NYC 🍩 Part time model, full time donut lover 💌 Cherieleexo@gmail.com
+      • Certified Ride or Die 🏎️🔥🏁 • Montreal | Singer-songwriter • All-Star | @converseallstars 🎧 • Model | Humankind • Catch me on TikTok | @shahfrank_
     location: "Canada"
-    followers: 25678
-    engagement: 464
-    commentsToLikes: 0.108676
-    id: ck14gyvqv7pbf0i19rih1bdkc
+    followers: 8081
+    engagement: 519
+    commentsToLikes: 0.130815
+    id: ckz1x47im37280j23rxurer03
     verified: false
-    hashtags: "#lifehacks"
-  - username: "sabr_22"
+    hashtags: "#sexualit, #phinord, #creativeresidency, #montrealsinger"
+  - username: "hollywolfirl"
     fullname: >-
-      Sabrina Ianniciello
+      Holly Wolf
     bio: >-
-      Model/ Travel / Fitness 🤍 @believesupplements - SAB20 20% DM/Email for collaboration
+      ✨Content Monster✨ 👑 Model.Cosplayer.Gamer. 🇨🇦 🕹️YouTuber 700k ✨ 🪴GARDEN IG @wolfofthewildd 🗝Exclusives & Merch 👇🏼
     location: "Canada"
-    followers: 168235
-    engagement: 374
-    commentsToLikes: 0.039933
-    id: ck5c6boxy540s0i114b27ovck
-    verified: false
-    hashtags: "#missygirl, #missyempire, #missygirls, #cybermonday"
-  - username: "florencemrtl"
+    followers: 255563
+    engagement: 424
+    commentsToLikes: 0.015527
+    id: ck5hegcoqsrhl0i11l8ysg4rd
+    verified: true
+    hashtags: "#finalfantasy, #fallcolors, #fashion, #spookyseason"
+  - username: "constantlll"
     fullname: >-
-      FLORENCE MARTEL
+      Constantlll
     bio: >-
-      Montréal📍 Stay humble, be kind, work hard. ✨ 📥 DM for inquires & collabs Model | Acting 🎭 | Registered Nurse💉
+      Artist/Model / Live action animator/ 𝕆𝕥𝕥𝕒𝕨𝕒,𝕆ℕ🃏TikTok(156k) @Constantlll ON ALL PLATFORMS
     location: "Canada"
-    followers: 6668
-    engagement: 1250
-    commentsToLikes: 0.210518
-    id: ckapbmk5g0gfp0i7814gcjzli
-    verified: false
-    hashtags: "#modelmontreal, #montrealmoments, #montrealartist, #concoursmontreal"
-  - username: "karinacabiling"
-    fullname: >-
-      Karina Cabiling
-    bio: >-
-      Motherhood, self-care & laughs Boy mom x2 Model(Sutherland Toronto|FolioMontreal) Founder @islarosaswim 📧 karina.cabiling@gmail.com
-    location: "Canada"
-    followers: 74242
+    followers: 70783
     engagement: 672
-    commentsToLikes: 0.026977
-    id: ckf5lt8e2qxhe0j23vwo9jcn5
+    commentsToLikes: 0.057889
+    id: ck8werd99ehsk0j78l3hc8h0c
     verified: false
-    hashtags: "#funnyreels, #momsofig, #relatablepost, #momlife"
-  - username: "jinni0911"
+    hashtags: "#bet, #lll, #iii, #constant"
+  - username: "emilyrhiannonmallett"
     fullname: >-
-      金妮Jinni (Ginny)
+      Emily Mallett
     bio: >-
-      加拿大中文電台主持人FM96.1 節目：GIN彩大FUN送 ㄧ到五4PM 主持人🎤素人歌手🎤Model🎤Influencer🎤Youtuber ᴛᴀɪᴡᴀɴᴇsᴇ🇹🇼ᴄᴀɴᴀᴅɪᴀɴ🇨🇦 FB粉專🔍jinni0911 @dakasicanada 加拿大大卡司闆娘 YT溫村生活：新一集👇一日模特-諧星
+      🌸midsize style creator & model 🌷@Knix code EMILYRHIANNONMALLETT_KNIXLOVE 📧 emilyetalblog@gmail.com 📍toronto | kincardine
     location: "Canada"
-    followers: 50265
-    engagement: 245
-    commentsToLikes: 0.066032
-    id: ck6u6tconhlxp0j714m4z7y6f
+    followers: 7408
+    engagement: 365
+    commentsToLikes: 0.196140
+    id: ckzosomfaif340j23rhdkujet
     verified: false
-    hashtags: "#2021, #bjbmw, #bmwm2, #bmwm2cs"
-  - username: "daniella_wackerhagen"
+    hashtags: "#happyanniversary, #august"
+  - username: "ericathegreatish"
     fullname: >-
-      Daniella
+      Erica Em
     bio: >-
-      📍AB Canada Canadian/German 💖Published Model 💖Runway Model
+      Wife | Twin Mama | +Model | Influencer Story Repost Queen Millennial | Fashion | Email/ DM for Collabs
     location: "Canada"
-    followers: 9660
-    engagement: 627
-    commentsToLikes: 0.160085
-    id: ck0u2m56q0bek0i19u0u34mb3
+    followers: 3517
+    engagement: 364
+    commentsToLikes: 0.268016
+    id: cksfogbs8ozdb0j23n4t7ecql
     verified: false
-    hashtags: "#newmodel, #futuremodel, #editorialphotoshoot, #highfashion"
+    hashtags: "#sizeinclusive, #ootd, #pipafashion, #twinmom"
+  - username: "constancelh"
+    fullname: >-
+      Connie Hackett | Abbotsford, BC
+    bio: >-
+      exploring local + social media + body neutrality + a (sometimes) model 🎥41K on TikTok Have a fun idea for a collab? Send me an 💌 clhackett07@gmail.com
+    location: "Canada"
+    followers: 5937
+    engagement: 311
+    commentsToLikes: 0.088649
+    id: ckq6b0hyvis450j23qe93pkt1
+    verified: false
+    hashtags: "#chilliwacksunflowerfest, #fiveacresflowerfarm, #thefraservalley, #tasteofabby"
 ---

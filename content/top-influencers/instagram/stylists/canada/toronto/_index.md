@@ -1,130 +1,130 @@
 ---
-title: Top 10 Stylists Instagram Influencers In Toronto In 2023
+title: Top 10 Stylists Instagram Influencers In Toronto In 2024
 description: >-
-  Find top stylists Instagram influencers in Toronto in 2023. Most popular hashtags: #photography #toronto #love #fashion.
+  Find top stylists Instagram influencers in Toronto in 2024. Most popular hashtags: #toronto #torontoblogger #reelsinstagram.
 platform: Instagram
-hits: 11
-text_top: Analyze the most popular Instagram profiles on inBeat.
-text_bottom: Our platform holds 11 Instagram influencers like this in Toronto, Canada for you to connect with.
+hits: 40
+text_top: Analyze the most popular Instagram accounts on inBeat.
+text_bottom: inBeat aggregates 40 Instagram influencers like this in Toronto, Canada for you to collaborate.
 profiles:
-  - username: "minaj.mp"
+  - username: "sarahmian"
     fullname: >-
-      ♏️inajmp💮
+      Sarah Mian
     bio: >-
-      Fashion Stylist~Model~Beauty pro~ Miss face of humanity 2021👑 I can’t teach anybody anything,I can only make them think.♻️👩‍❤️‍💋‍👨🇨🇦 @unik.models
+      Toronto Stylist see you soon: NYC home @casa.mian
     location: "Canada"
-    followers: 81514
-    engagement: 267
-    commentsToLikes: 0.055639
-    id: ckaotndqcwn0x0i78myma80eh
+    followers: 77779
+    engagement: 93
+    commentsToLikes: 0.003722
+    id: ck5zijevlftmj0i14j0c9woju
     verified: false
-    hashtags: "#fashionshow, #beautiful, #artoftheday, #outfitinspiration"
-  - username: "aliciasmcn"
-    fullname: >-
-      Alicia S Mcnamara
-    bio: >-
-      @etcanada 💕 Be Kind & Hustle 💕
-    location: "Canada"
-    followers: 13478
-    engagement: 536
-    commentsToLikes: 0.277124
-    id: ck138v2jui69c0i19purjhp67
-    verified: false
-    hashtags: "#toronto, #ootd, #wardrobestylist, #love"
-  - username: "terianncarty"
-    fullname: >-
-      Food Photographer + Stylist
-    bio: >-
-      👩🏻‍🍳Vegan Recipe Developer & Food Photographer 📝Contributor @bestofvegan 📷Food stylist 🧘🏻‍♀️Yoga Teacher📍Toronto
-    location: "Canada"
-    followers: 27667
-    engagement: 268
-    commentsToLikes: 0.272545
-    id: ck5zzcswubhtr0i14rz5mp0un
-    verified: false
-    hashtags: "#vegansofig, #easyvegan, #glutenfreevegan, #foodphotography"
+    hashtags: "#fw23, #softglam, #softmakeup, #fashionweek"
   - username: "balloonsbydina"
     fullname: >-
-      Balloons By Dina
+      BALLOONS BY DINA
     bio: >-
-      Leading Balloon Stylist in the GTA Based in Toronto 🇨🇦 ⬇️ ENTER MASTERCLASS ⬇️
+      Leading Balloon Stylist in Toronto Contact by e-mail info@balloonsbydina.com or DM
     location: "Canada"
-    followers: 128238
-    engagement: 153
-    commentsToLikes: 0.016851
+    followers: 219198
+    engagement: 78
+    commentsToLikes: 0.019675
     id: ck13bkejpvu6h0i19hy2en9i2
     verified: false
-    hashtags: "#icecreamtheme, #birthdaybackdrop, #icecreamparty, #icecreamcake"
-  - username: "tynomibanks"
+    hashtags: "#babyshowerideas, #wifey, #babysharkcake, #bayareaeventplanning"
+  - username: "isabel.lately"
     fullname: >-
-      Tynomi Banks
+      Isabel 🕯
     bio: >-
-      I'm the queen I'm Miss Tynomi 👑 when I'm on stage I know you know me 😘 https://linktr.ee/TynomiBanks
+      📍Toronto @aritzia stylist Mom to @mason__makai hi.isabelmangubat@gmail.com CODES + LINKS ↓
     location: "Canada"
-    followers: 86120
-    engagement: 576
-    commentsToLikes: 0.044278
-    id: ck0w4kfcgz0gx0i193nyi3hy5
+    followers: 7322
+    engagement: 223
+    commentsToLikes: 0.069623
+    id: ck6u5xpfpcczb0j715evzo64v
     verified: false
-    hashtags: "#gay, #dragrace, #transformation, #lgbtq"
-  - username: "hairbyestylez"
+    hashtags: "#neutralaesthetic, #minimalstreetstyle, #beautysession, #minimalstyle"
+  - username: "beautycreation1"
     fullname: >-
-      HairByEstylez
+      Beauty Creation💄💋
     bio: >-
-      Hair Stylist : Esther Tutu 😘 WE ONLY BOOK MONTHLY ✨ Hair Orders: Estylezcollection@gmail.com 📆 Book Your Appointment Online ⬇️ NO DMS🚫 Toronto 📍
+      EMAIL: info@beautycreation.ca Hair/MUA Stylist based in Toronto, Canada |🚫 DM
     location: "Canada"
-    followers: 37043
-    engagement: 542
-    commentsToLikes: 0.039512
-    id: ck0u7ugdv5ny90i19do2kzrbf
+    followers: 30927
+    engagement: 153
+    commentsToLikes: 0.036066
+    id: ck0vvr2sgqdtv0i19n1uzt2ad
     verified: false
-    hashtags: ""
-  - username: "timelessbyvinay"
+    hashtags: "#beautiful, #weddingphotography, #torontomakeupartist, #ilovemakeup"
+  - username: "la2_guri"
     fullname: >-
-      Timeless By Vinay 🇨🇦
+      Gurpreet Singh
     bio: >-
-      Certified MUAH based inToronto, Canada Bridal | Makeup | Hair | Saree stylist 📧 timelessbyvinay@gmail.com 🚫NO DMs
+      👔Stylist ||Fashion blogger || influencer 🇨🇦 Toronto 🗺 India.Chandigarh @turban_byguri @bhangrabrigade7 @eye_flick 👻-la2_guri
     location: "Canada"
-    followers: 32416
-    engagement: 221
-    commentsToLikes: 0.024980
-    id: ck0vvr4b1qe3v0i1944i2vt7f
+    followers: 107155
+    engagement: 344
+    commentsToLikes: 0.021136
+    id: ckv1vnchbw6gd0j23aexqqmb8
     verified: false
-    hashtags: "#sareegoals, #makeuplife, #tamilgirl, #weddingidea"
-  - username: "capricestylist"
+    hashtags: "#toronto, #canada, #punjab, #healthylifestyle"
+  - username: "sairahlila_"
     fullname: >-
-      CAPRICE CONNERS
+      S A I
     bio: >-
-      Creative Director | Fashion Stylist Editorial | TV & Film 🎞 Mama to Everly Blue 🦋 For Inquiries & Partnerships 📧 anna@sinclaircreativeagency.com
+      Founder | @alovestoryco Creative Director + Designer
     location: "Canada"
-    followers: 9961
-    engagement: 353
-    commentsToLikes: 0.087705
-    id: ck5c6l8jg5o6t0i11vqijxo04
+    followers: 13761
+    engagement: 795
+    commentsToLikes: 0.057633
+    id: cksiaddn8bpv70j23y1evk9p7
     verified: false
-    hashtags: "#canadafashion, #fashionedit, #streetwearculture, #fashionstylists"
-  - username: "gabrielabellydancer"
+    hashtags: "#vasantipartner, #ourfirsthome, #thesweetlifeofkavandsai, #engagementglam"
+  - username: "torontoplant.girl"
     fullname: >-
-      Gabriela Carnovale
+      Julia | Toronto’s Plant Doctor🌿
     bio: >-
-      💜 Belly dancer 💃🏼 Director @abundancebellydance 🌎 Blessed 📨For bookings: DM or e-mail
+      🪴Toronto Plant Consultant and Stylist 📆 Tap BOOK NOW 🎓 Horticultural Cert. 📰 Seen in @blogto @thetorontostar @ctvtoronto @citynewsto @cbc
     location: "Canada"
-    followers: 26848
-    engagement: 77
-    commentsToLikes: 0.134148
-    id: ck8tax2ogtfl20j78wsc5xugc
+    followers: 92000
+    engagement: 226
+    commentsToLikes: 0.094464
+    id: ck5zij1cvfsx50i14kkqce03u
     verified: false
-    hashtags: "#monday, #model, #torontomodel, #creative"
-  - username: "model_lavin"
+    hashtags: "#crazyplantpeople, #torontocreators, #plantparentcommunity, #torontolife"
+  - username: "dialaskitchen"
     fullname: >-
-      Lavin 👑
+      Diala Canelo
     bio: >-
-      Runway Model#tkfw Account active by mom Tiktok 👉🏻 model.lavin New video on YouTube ⤵️
+      📍Toronto🇩🇴🇨🇦✈️ Food photographer & Stylist | Cookbook Author Plant- Forward & Pescatarian recipes Inspired by home and travel. Available here!👇🏽
     location: "Canada"
-    followers: 317682
-    engagement: 269
-    commentsToLikes: 0.019038
-    id: ck6tkxeq45lbl0j71ebqey78f
+    followers: 155196
+    engagement: 71
+    commentsToLikes: 0.039054
+    id: ck14iscu4gyc40i19nhrpzaz0
     verified: false
-    hashtags: "#patpatshopping, #accessories, #winter, #canada"
+    hashtags: "#summercocktails, #masalaupyourgrill, #toronto, #bestoftoronto"
+  - username: "thichairco"
+    fullname: >-
+      T  H  I  C
+    bio: >-
+      Clean Haircare / Toronto Hair salon / Top Stylists Created by @morganlovely Featured in @refinery29 @ellecanada @fashioncanada @vogue @flaremag
+    location: "Canada"
+    followers: 12538
+    engagement: 65
+    commentsToLikes: 0.114831
+    id: ckmw1dsjf6qrv0j23jyx7q8hb
+    verified: false
+    hashtags: "#hairoil, #torontosalon, #comingsoon, #clawclip"
+  - username: "manesbymell"
+    fullname: >-
+      Melissa Guido
+    bio: >-
+      Pro Stylist〰️Curl Specialist➰E-Educator➿Video Creator 📍Toronto, Ontario🇨🇦 📧 business@manesbymell.com
+    location: "Canada"
+    followers: 373780
+    engagement: 213
+    commentsToLikes: 0.017902
+    id: ck1344v88upph0i19wf7rxlhz
+    verified: false
+    hashtags: "#verbpartner, #manesbymell, #curlyhair, #curlyhairroutine"
 ---

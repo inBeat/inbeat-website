@@ -1,12 +1,24 @@
 ---
-title: Top 10 Rappers Instagram Influencers In Berlin In 2023
+title: Top 10 Rappers Instagram Influencers In Berlin In 2024
 description: >-
-  Find top rappers Instagram influencers in Berlin in 2023. Most popular hashtags: #rapper #deutschrap #berlin #rap.
+  Find top rappers Instagram influencers in Berlin in 2024. Most popular hashtags: #rapper #deutschrap #rap #berlin.
 platform: Instagram
-hits: 35
-text_top: Discover the top-rated Instagram influencers on inBeat.
-text_bottom: inBeat has 35 Instagram influencers like this in Berlin, Germany for you to pitch.
+hits: 37
+text_top: Analyze the best Instagram influencers on inBeat.
+text_bottom: inBeat has 37 Instagram influencers like this in Berlin, Germany for you to contact.
 profiles:
+  - username: "bandita34"
+    fullname: >-
+      Bandita34
+    bio: >-
+      
+    location: "Germany"
+    followers: 2515
+    engagement: 1686
+    commentsToLikes: 0.101174
+    id: ckaosg3n6rg6c0i78lng3dqq2
+    verified: false
+    hashtags: "#newcomer, #beat, #mask, #nrw"
   - username: "aello.offiziell"
     fullname: >-
       Ällo
@@ -43,30 +55,30 @@ profiles:
     id: ck14icfoheq3z0i1931ujm2ln
     verified: false
     hashtags: "#deutschland, #samra, #germanrapper, #tumblr"
-  - username: "sero_138"
+  - username: "tozee_official"
     fullname: >-
-      SERO🌀
+      Toni Zimmermann
     bio: >-
-      ❤️🔒
+      Tozee, positivster Rapper Deutschlands, aus Berlin ! Musik für Kinder und Erwachsene ! Booking: Toni.zimmermann@gmx.net @vanessareich__ ❤️
     location: "Germany"
-    followers: 2198
-    engagement: 2936
-    commentsToLikes: 0.054661
-    id: ckap5va64dbd30i78pg1lmfaj
+    followers: 19444
+    engagement: 307
+    commentsToLikes: 0.052049
+    id: clq9hyhna6r1j0k08ai5okh3d
     verified: false
-    hashtags: "#berlin, #kunst, #rapper, #beats"
-  - username: "sa1bou"
+    hashtags: "#ostern, #rap, #beautiful, #kinder"
+  - username: "fabianstuertz"
     fullname: >-
-      Sa1bou
+      Fabian Stürtz
     bio: >-
-      • @thespoturbanartmovement • Actor/Artist/Dancer/Musician • 👻 sa1bou • Music 🎶 Mgmt @mehrzadmarashi ⬇️MAMACITA YouTube LINK in der BIO ⬇️
+      
     location: "Germany"
-    followers: 119259
-    engagement: 581
-    commentsToLikes: 0.021851
-    id: ck6trmoyqzvj80j71q5cj1uj3
-    verified: true
-    hashtags: "#nevergiveup, #fashionblogger, #lifequotes, #deutschrapnewcomer"
+    followers: 5348
+    engagement: 376
+    commentsToLikes: 0.012455
+    id: ck5cbmxkmfro70i116bupk8lx
+    verified: false
+    hashtags: "#allblackeverything, #canon, #portrait, #streetstyle"
   - username: "sido_shawnstein"
     fullname: >-
       Sido
@@ -79,52 +91,40 @@ profiles:
     id: ckap4jdr07mqx0i78xg7wx3o6
     verified: false
     hashtags: "#fanseite, #hiphop, #rap, #maske"
-  - username: "haki.87"
-    fullname: >-
-      🅷 🟥⬜️
-    bio: >-
-      🔘 Germany /// Kurdi Slemani @ngm_offiziell @danya_offiziell @harmonies.offiziell @eacy.offiziell
-    location: "Germany"
-    followers: 12215
-    engagement: 722
-    commentsToLikes: 0.047050
-    id: ck9wezwammn680j78wupwq8am
-    verified: false
-    hashtags: "#iraq, #ngm, #affa, #bikelife"
-  - username: "bandita34"
-    fullname: >-
-      Bandita34
-    bio: >-
-      
-    location: "Germany"
-    followers: 2515
-    engagement: 1686
-    commentsToLikes: 0.101174
-    id: ckaosg3n6rg6c0i78lng3dqq2
-    verified: false
-    hashtags: "#mask, #bandita34, #newcomer, #ootd"
   - username: "felixgabel_"
     fullname: >-
       Felix Gabel
     bio: >-
       Find Your Greatness in Life & Style Fashion Inspiration for Men | Psychology of Success Berlin, Germany ✉️ contact@felixgabel.de
     location: "Germany"
-    followers: 42278
-    engagement: 365
-    commentsToLikes: 0.195048
+    followers: 51816
+    engagement: 54
+    commentsToLikes: 0.106965
     id: ck14hp2rcbf1a0i19ar3j318c
     verified: false
-    hashtags: "#vintage, #mensfashionblog, #handsomeboy, #fitness"
-  - username: "itsdyma"
+    hashtags: "#menstyling, #mensuitstyle, #suit, #outfitinspiration"
+  - username: "sero_138"
     fullname: >-
-      DYMA
+      sero🌹
     bio: >-
-      📍Berlin 🐣 @enkime.de ⭐️ Tiktok (2,4 Mio) 🎵 „WIE DU“ auf Spotify ⬇️ ✉️ geschäftliche Anfragen: dyma@enkime.de
+      👻:Sero_138
     location: "Germany"
-    followers: 382254
-    engagement: 257
-    commentsToLikes: 0.010141
-    id: ck9hcta0omvlt0j78guvod29u
+    followers: 2365
+    engagement: 2479
+    commentsToLikes: 0.060132
+    id: ckap5va64dbd30i78pg1lmfaj
     verified: false
-    hashtags: "#love, #skate, #rap, #sunset"
+    hashtags: "#love, #stuttgart, #ruhrpott, #musik"
+  - username: "wilson_53_"
+    fullname: >-
+      Wilson53
+    bio: >-
+      Musiker/Songwriter HB/DEL📍 ⬇️ Die aktuelle Single "Leonidas“ ⬇️
+    location: "Germany"
+    followers: 8338
+    engagement: 1236
+    commentsToLikes: 0.145141
+    id: ck8t6u9v7epn10j78schws8dk
+    verified: false
+    hashtags: "#instalife, #hiphop, #instagood, #lana"
 ---

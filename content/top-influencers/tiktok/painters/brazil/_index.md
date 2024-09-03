@@ -1,11 +1,11 @@
 ---
-title: Top 10 Painters TikTok Influencers In Brazil In 2023
+title: Top 10 Painters TikTok Influencers In Brazil In 2024
 description: >-
-  Find top painters TikTok influencers in Brazil in 2023. Most popular hashtags: #fyp #fy #foryou #foryoupage.
+  Find top painters TikTok influencers in Brazil in 2024. Most popular hashtags: #fyp #fy #foryou #foryoupage.
 platform: TikTok
 hits: 55
-text_top: Analyze the top-rated TikTok accounts on inBeat.
-text_bottom: inBeat holds 55 TikTok influencers like this in Brazil for you to connect with.
+text_top: See the top-rated TikTok profiles on inBeat.
+text_bottom: Our database aggregates 55 TikTok influencers like this in Brazil for you to connect with.
 profiles:
   - username: "leoselfee"
     fullname: >-

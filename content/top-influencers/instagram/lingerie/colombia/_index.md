@@ -1,12 +1,24 @@
 ---
-title: Top 10 Lingerie Instagram Influencers In Colombia In 2023
+title: Top 10 Lingerie Instagram Influencers In Colombia In 2024
 description: >-
-  Find top lingerie Instagram influencers in Colombia in 2023. Most popular hashtags: #lingerie #sexy #model #photography.
+  Find top lingerie Instagram influencers in Colombia in 2024. Most popular hashtags: #lingerie #photography #love #model.
 platform: Instagram
-hits: 26
-text_top: See the top-rated Instagram accounts on inBeat.
-text_bottom: Our search engine holds 26 Instagram influencers like this in Colombia for you to work with.
+hits: 28
+text_top: Discover the top-rated Instagram profiles on inBeat.
+text_bottom: inBeat has 28 Instagram influencers like this in Colombia for you to work with.
 profiles:
+  - username: "joha_yepes"
+    fullname: >-
+      Joha Yepes
+    bio: >-
+      mamá perruna, empresaria y creadora 🧘🏼‍♀️ @legacy_esthetic_center @kova.skincare @luxyhaircr @hairpointcr @happyplace.fortuna @moi_moi_lingerie
+    location: "Colombia"
+    followers: 66248
+    engagement: 186
+    commentsToLikes: 0.016754
+    id: ck5pzfadf0oy90i117pvn6tst
+    verified: false
+    hashtags: "#fun, #costarica, #makeup, #reels"
   - username: "majodiag"
     fullname: >-
       María José Díaz G
@@ -79,6 +91,18 @@ profiles:
     id: ckf5wpkwmsu6q0j235p3mptu6
     verified: false
     hashtags: "#sunsetphotography, #macrolove, #macrophotography, #sexy"
+  - username: "lauraolayam"
+    fullname: >-
+      Laura Olaya
+    bio: >-
+      💣/Comunicadora social y periodista 👑/Founder @marla_bylauraolaya ✨ 🤓/Content manager 🔥/Colombian model @Grupo4co 🏃🏼‍♀️/Runner
+    location: "Colombia"
+    followers: 20968
+    engagement: 85
+    commentsToLikes: 0.037418
+    id: ck5c27c4hwoom0i11p7bx6ok6
+    verified: false
+    hashtags: "#photography, #puntacana, #fashion, #grwm"
   - username: "nanis8a"
     fullname: >-
       Nanis Ochoa
@@ -103,28 +127,4 @@ profiles:
     id: ckaoxl48ddqhw0i78i5etyrg4
     verified: false
     hashtags: "#me, #model, #photography, #sexy"
-  - username: "lamadridd"
-    fullname: >-
-      @lamadridd 🇨🇴
-    bio: >-
-      Mis productos ➡️ @shoplamadrid DM colaborations and promotion
-    location: "Colombia"
-    followers: 108177
-    engagement: 102
-    commentsToLikes: 0.042822
-    id: ckf5v58ehncd90j23rxlfjao8
-    verified: false
-    hashtags: "#2021, #covid, #quedateencasa, #baby"
-  - username: "itzmanaponcec"
-    fullname: >-
-      Itz  愛
-    bio: >-
-      Actriz💋 #𝖌𝖎𝖗𝖑𝖕𝖔𝖜𝖊𝖗 💜#ℂ𝕠𝕤𝕡𝕝𝕒𝕪 𝔸𝕟𝕚𝕞𝕖 𝕝𝕠𝕧𝕖𝕣 Gracias por seguir mis locuras Un cachito de mi vida en fotos @itzmana_ponce Contenido exclusivo 👇🏻❤️‍🔥
-    location: "Colombia"
-    followers: 174247
-    engagement: 262
-    commentsToLikes: 0.011865
-    id: ck5ho18j4oqyp0i11bpsevze2
-    verified: false
-    hashtags: "#foryou, #sexy, #cosplaygirl, #model"
 ---

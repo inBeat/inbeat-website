@@ -1,24 +1,24 @@
 ---
-title: Top 10 Mothers Instagram Influencers In Argentina In 2023
+title: Top 10 Mothers Instagram Influencers In Argentina In 2024
 description: >-
-  Find top mothers Instagram influencers in Argentina in 2023. Most popular hashtags: #love #snow #photography.
+  Find top mothers Instagram influencers in Argentina in 2024. Most popular hashtags: #love #tbt #deco.
 platform: Instagram
-hits: 91
-text_top: Analyze the best Instagram profiles on inBeat.
-text_bottom: Our search engine aggregates 91 Instagram influencers like this in Argentina for you to connect with.
+hits: 84
+text_top: Analyze the best Instagram accounts on inBeat.
+text_bottom: inBeat holds 84 Instagram influencers like this in Argentina for you to connect with.
 profiles:
-  - username: "benjamiran"
+  - username: "gino_pasqualini"
     fullname: >-
-      Benjamin Miranda Cosmelli
+      Gino Pasqualini
     bio: >-
-      Aquí pasando el tiempo 📍Chile 🌴Viña del Mar 📈Ing. Comercial UAI 📷Modelo Mother agency: @welovemodels._
+      📍CHILE 🇨🇱 Mother agency: Civiles 🇦🇷
     location: "Argentina"
-    followers: 21836
-    engagement: 1689
-    commentsToLikes: 0.037809
-    id: ck0vxd6gyyb8f0i190i6j34ss
+    followers: 78911
+    engagement: 1378
+    commentsToLikes: 0.009174
+    id: ck6uhqz87aq6k0j71ni9ajvgn
     verified: false
-    hashtags: "#classicleatherlegacy, #perejil, #leche, #cereales"
+    hashtags: "#mrburberry, #212carolinaherrera, #212foreveryoung"
   - username: "leticia_lasose"
     fullname: >-
       Leticia Lasose ✨
@@ -31,18 +31,6 @@ profiles:
     id: ckf5nwbbzzxu00j23m4f7bmsn
     verified: false
     hashtags: "#christmas, #presents, #jolly, #outfit"
-  - username: "sofifernandez2"
-    fullname: >-
-      sofi fernandez
-    bio: >-
-      Mother Agency ~ @dhrmodels
-    location: "Argentina"
-    followers: 195839
-    engagement: 2378
-    commentsToLikes: 0.005563
-    id: ck6030u26kdtl0i14kkcxm3ew
-    verified: false
-    hashtags: "#quinotolovers, #killbill, #dollskill"
   - username: "zetadouka"
     fullname: >-
       Zeta Douka
@@ -103,18 +91,6 @@ profiles:
     id: ck15syfqkffyn0i19logiql4l
     verified: false
     hashtags: ""
-  - username: "dallysferreira"
-    fullname: >-
-      Dallys Ferreira
-    bio: >-
-      🎭Actress: Esc Teatro d Bs As 📺Tv Host: @lmunicanal 📰Journalist Univ. d Palermo Arg 👩‍👧Mother of @indiasporleder
-    location: "Argentina"
-    followers: 518733
-    engagement: 97
-    commentsToLikes: 0.158481
-    id: ck15r9sai6v1s0i199nu4qu02
-    verified: true
-    hashtags: "#rapiditas, #bianca, #tabletasado, #salsadesoja"
   - username: "marlene_mourreau_oficial"
     fullname: >-
       Marlene Mourreau
@@ -127,4 +103,28 @@ profiles:
     id: ck5ztyqwl1d130i145dnj2183
     verified: false
     hashtags: "#makeup, #photo, #jueves18defebrero, #bonjour"
+  - username: "veveyblog"
+    fullname: >-
+      Luti Antelo
+    bio: >-
+      Lifestyle • Deco • Motherhood • Styling Creadora de @tiendavevey 🎙Podcast “Somos tres” 💌 veveyba@gmail.com Bs. As - Argentina #lacasadevevey
+    location: "Argentina"
+    followers: 97325
+    engagement: 132
+    commentsToLikes: 0.133285
+    id: ck5cjj9ajuu370i11wtmqxa7y
+    verified: false
+    hashtags: "#lacasadevevey, #deco, #ba, #dise"
+  - username: "leahremini"
+    fullname: >-
+      Leah Remini
+    bio: >-
+      Mother. Wife. Actress. Author. Producer. Advocate. Intolerant of Bullies, BS & Injustice.
+    location: "Argentina"
+    followers: 2953570
+    engagement: 106
+    commentsToLikes: 0.028265
+    id: ck0tv32n89q3n0i19eu5u0vfb
+    verified: true
+    hashtags: "#peoplepuzzler, #cuttingroomfloor, #tbt, #bstrong"
 ---

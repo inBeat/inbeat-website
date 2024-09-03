@@ -1,130 +1,130 @@
 ---
-title: Top 10 Barbers Instagram Influencers In United States In 2023
+title: Top 10 Barbers Instagram Influencers In United States In 2024
 description: >-
-  Find top barbers Instagram influencers in United States in 2023. Most popular hashtags: #model #barber #barbershop #barberlife.
+  Find top barbers Instagram influencers in United States in 2024. Most popular hashtags: #barber #haircut #menshair #fade.
 platform: Instagram
-hits: 1109
-text_top: Analyze the most popular Instagram influencers on inBeat.
-text_bottom: Our database holds 1109 Instagram influencers like this in United States for you to work with.
+hits: 1132
+text_top: See the most popular Instagram accounts on inBeat.
+text_bottom: Our platform aggregates 1132 Instagram influencers like this in United States for you to pitch.
 profiles:
-  - username: "teoo.amiri"
+  - username: "robtheoriginal"
     fullname: >-
-      Rahro Co.
+      Rob The Original
     bio: >-
-      BARBER🇮🇷
+      📍Los Angeles 💈 @original_barberstudio 🏆 @losangelesbarberfest 🍜 @ezbachi Business inquiries: Robtheoriginalmgmt@gmail.com
     location: "United States"
-    followers: 12804
-    engagement: 1729
-    commentsToLikes: 0.035513
-    id: ck9wia8vx1ef60j78zntdbjns
+    followers: 1787407
+    engagement: 512
+    commentsToLikes: 0.036750
+    id: ck0ty8n6vlxff0i19rqli3dz0
+    verified: true
+    hashtags: "#pesopluma, #robtheoriginal, #suedeart, #barber"
+  - username: "queen_rockabilly"
+    fullname: >-
+      Winnipeg Barber 🇨🇦
+    bio: >-
+      barber at @goodfortunebarbers YouTube channel ⤵️
+    location: "United States"
+    followers: 59186
+    engagement: 736
+    commentsToLikes: 0.013396
+    id: ck5hcemjmho5v0i11kbnp8m76
     verified: false
-    hashtags: "#iran, #modellife, #fashion, #barbershop"
-  - username: "domscirrotto"
+    hashtags: "#hairdresser, #barberworld, #barbershopconnect, #videotutorial"
+  - username: "matsy__"
     fullname: >-
-      Dom Scirrotto
+      Matthew Larkin
     bio: >-
-      💈 Miranos Barbershop 👻 Snap: dscirrotto08
+      🇮🇪Irish tattoo artist @legendarytattoostudio ▪️ @barber_dts ▪️ @eternalink ▪️ @tatsoul ▪️ @yayofamilia ▪️ @criticaltattoosupply
     location: "United States"
-    followers: 63881
-    engagement: 1550
-    commentsToLikes: 0.055448
-    id: ck138wi89icx00i19qoia4xe8
+    followers: 103671
+    engagement: 1337
+    commentsToLikes: 0.030925
+    id: ck0vy4we229750i197orfl6xw
     verified: false
-    hashtags: "#explore, #la, #tiktok, #model"
-  - username: "pirayesh_top_cut"
+    hashtags: "#chestpiece, #besttattoos, #videogametattoo, #tattoo"
+  - username: "_nicolerenae"
     fullname: >-
-      🔱Kianosh solbi🔱
+      𝒩𝒾𝒸𝑜𝓁𝑒 𝑅𝑒𝓃𝒶𝑒💈 ✪
     bio: >-
-      💈Barber💈🇮🇷 The kites always rise with adverse winds 🌐آموزش خصوصی پذیرفته میشود🌐 🔵جهت رزرو نوبت فقط تماس بگیرید📞 @kianosh_solbi.pv Ayda💍Aymah👶 💙👑taji
+      •Owner of @ascensiondynasty 💙💛 •Arizona Barber💈 •@Babyliss4Barbers Educator✈️🌍 •@nopalinda_ Co-Owner🌱 APPT ONLY ⬇️
     location: "United States"
-    followers: 3564
-    engagement: 2232
-    commentsToLikes: 0.279678
-    id: ck9wik1cv2lu90j78ifjzv1bn
+    followers: 164181
+    engagement: 348
+    commentsToLikes: 0.038217
+    id: ck5zt8twfzyew0i1401rrajh0
     verified: false
-    hashtags: "#barber, #mod, #barberworld, #barberlife"
-  - username: "bodiabarber"
+    hashtags: "#tucsonbarber, #arizona, #barberology, #tucsonbarbers"
+  - username: "titan_barber"
     fullname: >-
-      Bogdan Kovch
+      John Carmona
     bio: >-
-      𝕭🅚 LVIV •International educator •TOP barber 🇺🇦 ➖EDUCATION ➖ YouTube 👇👇
+      WAHL ⛓️ STMNT Co. owner @barber.theory “Expression through image” ™️ 📍 Denver Colorado
     location: "United States"
-    followers: 66945
-    engagement: 455
-    commentsToLikes: 0.068249
-    id: ck5cl4m19y8k80i1161gk8f4r
+    followers: 110519
+    engagement: 314
+    commentsToLikes: 0.049616
+    id: ck0w311lar39t0i19lxc6zeq7
     verified: false
-    hashtags: ""
-  - username: "keyvan_barber"
+    hashtags: "#barbershopconnect, #hairbrained, #pixiecut, #denverbarber"
+  - username: "royleethebarber"
     fullname: >-
-      Keyvan barber
+      RoyLeeTheBarber
     bio: >-
-      Official lnstagram page of keyvan Ansari ✂️celebeirty barber and make-up artist+instructor 📍located in tehran_shemiran center 📞+989120296993
+      Roylee’s Barber Studio 💈 Booksy Ambassador @booksybiz Houston Texas 📍 📺 MTV’s The Challenge Book Here 👇🏽👇🏽👇🏽
     location: "United States"
-    followers: 49579
-    engagement: 1147
-    commentsToLikes: 0.024671
-    id: ck8sw3zlkdo8q0j78c5ji36np
+    followers: 271083
+    engagement: 308
+    commentsToLikes: 0.020532
+    id: ckap1gs0ruj2r0i78w29ikf35
     verified: false
-    hashtags: "#perspolis, #keyvanansari, #keyvan, #mohamadnaderi"
-  - username: "xbigwesx"
+    hashtags: "#barbertips, #discoveredonbooksy, #booksyamabassador, #fade"
+  - username: "_southbaychris"
     fullname: >-
-      WES STAUCET 🇺🇸
+      LA Barber Christian Maciel
     bio: >-
-      ROOTS BARBER CO. 🌱 Clifton Park, NY @WAHLPRO SELECT BARBER BTC One Shot Fade Finalist (2x) Husband l Father l Hair l Photo
+      • Los Angeles Barber • Licensed Professional • Haircuts $200 • For Appointments Click The Link Below
     location: "United States"
-    followers: 36133
-    engagement: 210
-    commentsToLikes: 0.085497
-    id: ck0w4qc2kzvff0i1911ve2kyh
-    verified: false
-    hashtags: "#barberlife, #behindthechair, #guyshair, #menshairstyle"
-  - username: "basiccelebrity"
-    fullname: >-
-      BasicCelebrity
-    bio: >-
-      Barber For #1 show on MTV Wild N’ Out, VH1 Hip Hop Squares. Owner of @basiccelebrity_barbershop
-    location: "United States"
-    followers: 6838
-    engagement: 906
-    commentsToLikes: 0.114050
-    id: ck5zrbkspw9w70i14jre8ox24
-    verified: false
-    hashtags: "#basiccelebrity, #barbershopconnect, #barbersinctv, #andis"
-  - username: "realparisprice"
-    fullname: >-
-      Paris Price
-    bio: >-
-      Just a youngin from MD getting it D(M)V | LA 📍 Merch: @thefalseequals 🚷 Barber Page: @thehollywoodfade 💈
-    location: "United States"
-    followers: 20296
-    engagement: 598
-    commentsToLikes: 0.074945
-    id: ck0w2rgb1ptjj0i19y1mv3h0c
+    followers: 157999
+    engagement: 304
+    commentsToLikes: 0.037558
+    id: ck0u1f5s4wmoh0i198dp3px10
     verified: false
     hashtags: ""
-  - username: "gabriell_boss"
+  - username: "hatzianestis_cutz"
     fullname: >-
-      Gabriell Boss
+      Emmanouil Chatzianestis
     bio: >-
-      📍Madrid 💈Barber💈 Underwear Model Co-founder: ⬇️
+      💈 main character of @diss.barbers⚡️& @dissbarbers_hersonissos 🔹 🏆 🇬🇷 award barber/educator 🟣 @lv3pro ambassador & 🟣@babylisspro_barberology
     location: "United States"
-    followers: 15844
-    engagement: 1051
-    commentsToLikes: 0.026620
-    id: ck6tlp2386d6z0j718imm6o92
+    followers: 24300
+    engagement: 521
+    commentsToLikes: 0.015752
+    id: ck15trfqxjigl0i19k5aag3n2
     verified: false
-    hashtags: "#latino, #work, #gabriell, #summer"
-  - username: "beniedei"
+    hashtags: "#fade, #menshair, #sickestbarbers, #100kbarbers"
+  - username: "sicerow"
     fullname: >-
-      🍯 B E N I E  G O R D E ÍII 🍯
+      Siciliani Texel
     bio: >-
-      Savannah Cristina - PValley - Kanye West- LaLa Ri Muse | Choreographer | Fitness atl📍| 94’ class: @baudimovement 💈barber: @beaucuts_
+      📸 Photographer 🖥 Graphic Designer ⚠️ Shoots 21+ only 🎙 Vocal Coach 💈 Barber Since ‘86 📷 Other work 👇🏾 @sicerowphotography
     location: "United States"
-    followers: 23191
-    engagement: 634
-    commentsToLikes: 0.043418
-    id: ckap6obk1gqu40i78552nm0dk
+    followers: 18690
+    engagement: 296
+    commentsToLikes: 0.037531
+    id: ck5q70ojozir30i11j6ldgc33
     verified: false
-    hashtags: "#baudimovement, #pride, #atl, #heels"
+    hashtags: "#body, #edit, #photooftheday, #lady"
+  - username: "blumaan"
+    fullname: >-
+      Joseph Andrews
+    bio: >-
+      🔹️ Los Angeles, CA ☀️ 🔹️My hair product company: @byblumaan 🔹️ Barbershop Co-founder: @aanuko.house 🔹️ Biz: blumaan business@gmail.com #MensHair
+    location: "United States"
+    followers: 185679
+    engagement: 218
+    commentsToLikes: 0.010474
+    id: ck0vvttoiqqmk0i19l5l7j0rs
+    verified: true
+    hashtags: "#mensfashion, #rebound, #hairstyle, #seasaltspray"
 ---

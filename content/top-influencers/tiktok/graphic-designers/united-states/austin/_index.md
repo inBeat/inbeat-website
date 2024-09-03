@@ -1,11 +1,11 @@
 ---
-title: Top 10 Graphic-Designers TikTok Influencers In Austin In 2023
+title: Top 10 Graphic-Designers TikTok Influencers In Austin In 2024
 description: >-
-  Find top graphic-designers TikTok influencers in Austin in 2023. Most popular hashtags: #fyp #graphicdesign #foryou #duet.
+  Find top graphic-designers TikTok influencers in Austin in 2024. Most popular hashtags: #fyp #graphicdesign #duet #viral.
 platform: TikTok
-hits: 31
-text_top: Identify the top-rated TikTok accounts on inBeat.
-text_bottom: inBeat aggregates 31 TikTok influencers like this in Austin, United States for you to work with.
+hits: 32
+text_top: Analyze the top-rated TikTok influencers on inBeat.
+text_bottom: Our platform has 32 TikTok influencers like this in Austin, United States for you to collaborate.
 profiles:
   - username: "thechelseajohnson"
     fullname: >-
@@ -18,7 +18,19 @@ profiles:
     commentsToLikes: 0.035412
     id: ckb9ky81nd3li0j23t2z30wz8
     verified: false
-    hashtags: "#fail, #dog, #duet, #texans"
+    hashtags: "#dog, #fail, #duet, #naturallight"
+  - username: "autsyn"
+    fullname: >-
+      Austyn Hustles
+    bio: >-
+      ⬆️Sub To YouTube⬆️ Owner of @makhaistrength & @makhaigaming 💰$200k+ in sales 17
+    location: "United States"
+    followers: 83300
+    engagement: 1728
+    commentsToLikes: 0.030168
+    id: ckbkrixatm8w70j23r6xy90u0
+    verified: false
+    hashtags: "#hustle, #fliplife, #hustler, #entrepreneur"
   - username: "austin.waldrop"
     fullname: >-
       Austin Waldrop
@@ -115,16 +127,4 @@ profiles:
     id: ckb99j4wdttml0j23tamlckxm
     verified: false
     hashtags: "#duet, #fyp, #viral, #fun"
-  - username: "kellieann21"
-    fullname: >-
-      Kellie Ann
-    bio: >-
-      Cosplayer 🤡 Artist 🌸 Pole 🌻 Insta: swootybooty
-    location: "United States"
-    followers: 3446
-    engagement: 795
-    commentsToLikes: 0.044405
-    id: ckc922hgfseiv0j237fct8803
-    verified: false
-    hashtags: "#thisisbliss, #fyp, #gimmelove, #foryou"
 ---

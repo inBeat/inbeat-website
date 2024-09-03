@@ -1,11 +1,11 @@
 ---
-title: Top 10 Dog Owners Instagram Influencers In Germany In 2023
+title: Top 10 Dog Owners Instagram Influencers In Germany In 2024
 description: >-
-  Find top dog owners Instagram influencers in Germany in 2023. Most popular hashtags: #love #dogsofinstagram #cute #picoftheday.
+  Find top dog owners Instagram influencers in Germany in 2024. Most popular hashtags: #photooftheday #instagood #photography #love.
 platform: Instagram
-hits: 13
-text_top: Identify the best Instagram accounts on inBeat.
-text_bottom: Our database has 13 Instagram influencers like this in Germany for you to pitch.
+hits: 15
+text_top: See the top-rated Instagram profiles on inBeat.
+text_bottom: Our database holds 15 Instagram influencers like this in Germany for you to collaborate.
 profiles:
   - username: "jnnfr2607"
     fullname: >-
@@ -55,76 +55,76 @@ profiles:
     id: ckaotcobpvc6s0i78cez5tsco
     verified: false
     hashtags: "#dailycartoons, #funnycomic, #barkhappy, #webcomicz"
-  - username: "missyminzi"
+  - username: "thats.marley"
     fullname: >-
-      Poms | Happiness | Lifestyle
+      🐾 Dalmatian Marley & Carolina 💁🏻‍♀️
     bio: >-
-      👩‍❤️‍👨 Sandra Andre 🐶 Minzi Monty Maui Maili Murphy Lia Cora Aisha 💗 daily life with 7 fluffs 🌎 Germany ✉️ hello@missyminzi.com
+      ↠ Photography & Daily Life ↠ spotted boy exploring the world 💙 ↠ @thats.carolina capturing memories 📸 ↠ Europe | Germany
     location: "Germany"
-    followers: 202039
-    engagement: 535
-    commentsToLikes: 0.017190
-    id: ck137fkkwba130i199s2p216g
+    followers: 27020
+    engagement: 260
+    commentsToLikes: 0.027751
+    id: ck0w3zyzvw44l0i19898eqbuo
     verified: false
-    hashtags: "#hund, #dogstagram, #comedy, #dogdad"
-  - username: "cigar.dreams"
+    hashtags: "#folkscenery, #christmasdog, #dalmatians, #dalmatiansofinstagram"
+  - username: "igor.explores"
     fullname: >-
-      Ken Stemler
+      ↟ IGOR BUKOVSKY ↟ VANLIFE & GEAR
     bio: >-
-      • Your daily dose of passion • Ken@cigardreams.de or DM • Germany
+      Video- & Fotograf 💍❤️ @brina.explores 🏡 hausumbau 🚌 vanlife 🏕️ adventure 🎒 gear Business Anfragen: igor@explore-the-outdoors.com
     location: "Germany"
-    followers: 31745
-    engagement: 407
-    commentsToLikes: 0.053039
-    id: ck0w6hpkl8mba0i19b0x0kunj
+    followers: 106014
+    engagement: 86
+    commentsToLikes: 0.039554
+    id: cl56a83c01hf70i23ahidymmm
     verified: false
-    hashtags: "#cigarcollector, #cigarsofhabanos, #cigarsofhabanoshk, #zigarren"
-  - username: "amanda__hannover"
+    hashtags: "#campervan, #adventuredog, #vanlifeeurope, #vanlifegermany"
+  - username: "the_sophia_hoffmann"
     fullname: >-
-      ☠Amanda Hard☠
+      Köchin/Autorin/Gastronomin
     bio: >-
-      ⛔ Old Account deleted at 70k ⛔ Owner @hardbullz_germany 🐶 • TV Girl Babestation24 • Stripperin • Tänzerin • Model 📍Hanover 🇩🇪 👩🏼 📩amanda.hard@gmx.de
+      🏳️‍🌈Chef owner @happa_restaurant Dog mum of @ella_hoffmannhauksdottir Author/ speaker #vegan #metoo #feminist #queer
     location: "Germany"
-    followers: 28452
-    engagement: 377
-    commentsToLikes: 0.060937
-    id: ck5bvd2vgjf1h0i114qoz6wkg
+    followers: 35234
+    engagement: 183
+    commentsToLikes: 0.036022
+    id: ck0uct2hfhifz0i19bv6y9glm
     verified: false
-    hashtags: "#inkedlife, #selfie, #beautiful, #lips"
-  - username: "iceiman"
+    hashtags: "#happa, #happarestaurant, #biovegan, #leaftoroot"
+  - username: "silviarausch67"
     fullname: >-
-      Ice & Coco
+      Silvia Rausch *67
     bio: >-
-      follow the story of 2 dogs who explore the beautiful nature in Europe together with their owner Caro, based in Innsbruck, Austria
+      Salon Owner 00497751 /7447 Influencer Dog Mama Cali 🐕 life is a collection of moments www.h5-models.com www.Modelscouting24.de 💌 DM for Cooperation
     location: "Germany"
-    followers: 27283
-    engagement: 271
-    commentsToLikes: 0.040894
-    id: ck8t85evyj5zr0j78kmcood0f
+    followers: 14971
+    engagement: 111
+    commentsToLikes: 0.090089
+    id: cliq4pbmgkwd60j08f00zqef9
     verified: false
-    hashtags: ""
-  - username: "_kevin_haupt_"
+    hashtags: "#fiftyplusandfabulous, #womenover50, #goldendoodlesofinstagram, #over50"
+  - username: "kathikh"
     fullname: >-
-      KEVIN HAUPT
+      Kathi kh
     bio: >-
-      KEVIN HAUPT Owner: @lynalia_official_ @kevinherzblutshop @herzblutfloristen @herzblut_flowers_and_garden_ Management@kevinhaupt.de • IMPRESSUM:
+      roots slovakia & austria | marketing & design owner: @agentur.freiraum @detailverliebtfotografie
     location: "Germany"
-    followers: 160995
-    engagement: 523
-    commentsToLikes: 0.042658
-    id: ck13a9b5wp9fy0i19jffnggyr
+    followers: 10158
+    engagement: 872
+    commentsToLikes: 0.065208
+    id: ck139ivquliyn0i19znhtr9xk
     verified: false
-    hashtags: "#work, #kevin, #love, #flowers"
-  - username: "dog_in_nature"
+    hashtags: "#weekend, #nyc, #palma, #beach"
+  - username: "sophiathomalla"
     fullname: >-
-      Buddy
+      S O P H I A  T H O M A L L A
     bio: >-
-      🏔Our adventure from trips in nature🏔️ I care about protecting our planet🌍 🌎CZ🌎 Ambassador for @hellosandy.cz Owner @natalie.dosedelova
+      Moderatorin, Schauspielerin, Werbegesicht, Berliner Investorin @schuettflix Owner of @hardkorn_spirits Impressum:
     location: "Germany"
-    followers: 5730
-    engagement: 764
-    commentsToLikes: 0.030626
-    id: ck8tcxqp913600j781a0bzfaq
-    verified: false
-    hashtags: "#nature, #travelphotography, #dogphotography, #bordercollie"
+    followers: 1396584
+    engagement: 269
+    commentsToLikes: 0.016901
+    id: ck55nyoys79y70i117styxrrt
+    verified: true
+    hashtags: "#foreveryone, #keinwennkeinaber, #shave, #schmerzlassnach"
 ---

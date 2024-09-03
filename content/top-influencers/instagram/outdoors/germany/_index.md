@@ -1,130 +1,130 @@
 ---
-title: Top 10 Outdoors Instagram Influencers In Germany In 2023
+title: Top 10 Outdoors Instagram Influencers In Germany In 2024
 description: >-
-  Find top outdoors Instagram influencers in Germany in 2023. Most popular hashtags: #weroamgermany #hikingadventures #moodygrams #roamtheplanet.
+  Find top outdoors Instagram influencers in Germany in 2024. Most popular hashtags: #adventure #vanlife #hiking #wanderlust.
 platform: Instagram
-hits: 1594
-text_top: See the best Instagram accounts on inBeat.
-text_bottom: inBeat has 1594 Instagram influencers like this in Germany for you to pitch.
+hits: 1767
+text_top: Discover the most popular Instagram influencers on inBeat.
+text_bottom: Our database aggregates 1767 Instagram influencers like this in Germany for you to contact.
 profiles:
+  - username: "mrs_artemis"
+    fullname: >-
+      🌿Sophia🌿
+    bio: >-
+      Passionate about the outdoors 💚 📩: mrs_artemis@gmx.de
+    location: "Germany"
+    followers: 75255
+    engagement: 435
+    commentsToLikes: 0.012725
+    id: ck9hbbtxhg6ub0j78b7oq2wpl
+    verified: false
+    hashtags: "#lachs, #waidmannsheil, #naturschutz, #whereexcitementstarts"
+  - username: "daniellestrayed"
+    fullname: >-
+      Danielle 🐻 Travel | Outdoor | Norway
+    bio: >-
+      ☽ German girl living in Norway 🇳🇴 ☼ Outdoors, road trips, lifestyle and all things cosy🍂🫎📸 ✎ daniellestrayed@gmx.net ⋒ Datenschutzerklärung+Impressum
+    location: "Germany"
+    followers: 31321
+    engagement: 3300
+    commentsToLikes: 0.054417
+    id: ckwvisdv1vq6p0j23ad3tmvz4
+    verified: false
+    hashtags: "#harrypotter, #travelnorway, #cozyaesthetic, #auswandernnachnorwegen"
+  - username: "jenniferstieler_photography"
+    fullname: >-
+      Jennifer • Wedding Photography
+    bio: >-
+      ❈ Destination wedding & lifestyle photographer who loves sunsets and the great outdoors. ↠ July: 🇦🇹 Karwendel Frankfurt, GER | available worldwide
+    location: "Germany"
+    followers: 9765
+    engagement: 427
+    commentsToLikes: 0.159344
+    id: ck0ubsnrff9sy0i19y5yqmweo
+    verified: false
+    hashtags: "#weddingphotoinspiration, #couplescollective, #wanderingphotographer, #yourdifferencesmakeourworld"
+  - username: "louiswildlife"
+    fullname: >-
+      Louis Wildlife
+    bio: >-
+      🐈 Maine Coon Cat 🏡 Lives outdoors and in a cabin at a river 🌍 kayaking paw patrol for a clean river 📍Berlin, Germany, available worldwide
+    location: "Germany"
+    followers: 126463
+    engagement: 359
+    commentsToLikes: 0.024255
+    id: ck0tzdt65pyz40i194w98c03t
+    verified: false
+    hashtags: "#outdoorcat, #katze, #foxes, #catsofinstagram"
+  - username: "fatmanur"
+    fullname: >-
+      Fatmanur Arslan
+    bio: >-
+      📩- fatmanur@socialvibez.de 📍- nrw, germany 🌿- Only for girls | married outdoors ↟ lifestyle ↟ fashion ↟ interior
+    location: "Germany"
+    followers: 312307
+    engagement: 324
+    commentsToLikes: 0.011562
+    id: clmq0asko46g40j08pp3z8phj
+    verified: false
+    hashtags: "#hijabi, #herbst, #herbstliebe, #wanderfolk"
+  - username: "bikesandbites.de"
+    fullname: >-
+      Christof & Markus
+    bio: >-
+      Living for that #roadtrip life Loving the #outdoors ✉️ hallo@bikesandbites.de latest blog post 👇
+    location: "Germany"
+    followers: 79073
+    engagement: 311
+    commentsToLikes: 0.071681
+    id: ck5hg950q1kum0i11opbgy9ay
+    verified: false
+    hashtags: "#knowthismind, #deinnrw, #wtns, #whimsicalwonderfulwild"
+  - username: "anniigoetze"
+    fullname: >-
+      Anni Götze
+    bio: >-
+      Augsburg | Bavaria 》 either outdoors or teaching at school 》 sports / travel / photography @tatonkacom | @eccogolf
+    location: "Germany"
+    followers: 56663
+    engagement: 287
+    commentsToLikes: 0.050371
+    id: ck5cbzo9vgg850i116e5g2kwl
+    verified: false
+    hashtags: "#bergsommer, #mountains, #wandern, #adventuregirls"
   - username: "frauki"
     fullname: >-
-      Frauke Hameister
+      Frauki
     bio: >-
-      📸 Photographer from Germany 🌿Truly happiest in the great outdoors. 📍based in the Harz mountains ⛰️ Presets and Website:
+      Based in Germany 🏔️✨🏕️ Sharing moments & adventures from the great outdoors 📷 Mobile presets + website:
     location: "Germany"
-    followers: 618850
-    engagement: 167
-    commentsToLikes: 0.010611
+    followers: 598985
+    engagement: 141
+    commentsToLikes: 0.012414
     id: ck0tw2x1ddse50i19x0psssbi
     verified: false
-    hashtags: "#djimini3pro, #kodakportra400, #kodakgold200, #planetearth"
+    hashtags: "#fujifilmx100v"
+  - username: "igor.explores"
+    fullname: >-
+      ↟ IGOR BUKOVSKY ↟ VANLIFE & GEAR
+    bio: >-
+      Video- & Fotograf 💍❤️ @brina.explores 🏡 hausumbau 🚌 vanlife 🏕️ adventure 🎒 gear Business Anfragen: igor@explore-the-outdoors.com
+    location: "Germany"
+    followers: 106014
+    engagement: 86
+    commentsToLikes: 0.039554
+    id: cl56a83c01hf70i23ahidymmm
+    verified: false
+    hashtags: "#campervan, #adventuredog, #vanlifeeurope, #vanlifegermany"
   - username: "brina.explores"
     fullname: >-
-      BRINA | VANLIFE, HIKING & DOGS
+      Sabrina Bukovsky | VANLIFE, HIKING & DOGS
     bio: >-
-      ᨏ Adventures in a yellow van 🚌 ᨏ ❤️💍 Married to @igor.explores 🐺 Dogmom of 2 @gerdaandtildaexplore 🎙Podcast: EXPLORE THE OUTDOORS
+      ᨏ Homebase: Saarland ᨏ 🥾 ✨Outdoor Swiftie ❤️💍 Married to @igor.explores 🐺 Dogmom of 2 @gerdaandtildaexplore 🎙Podcast: EXPLORE THE OUTDOORS
     location: "Germany"
-    followers: 113069
-    engagement: 101
-    commentsToLikes: 0.018836
+    followers: 114966
+    engagement: 50
+    commentsToLikes: 0.063121
     id: ck15uifmmnbuf0i19k3qij7q1
     verified: false
-    hashtags: "#vanlifeeurope, #vanlife, #adoptdontshop, #norway"
-  - username: "susannaamarie"
-    fullname: >-
-      SUSANNA | OUTDOOR ☀️ MOUNTAINS
-    bio: >-
-      happiest outdoors 🏔 ☀️ • mountains | sports | travelling • from Tirol | Austria • contact: office@susannamarie.at 💌
-    location: "Germany"
-    followers: 33171
-    engagement: 750
-    commentsToLikes: 0.033390
-    id: ck0vwof5fusk50i19y8syluuz
-    verified: false
-    hashtags: "#schweiz, #hikingadventures, #tiroleroberland, #running"
-  - username: "luz.jimenez.18"
-    fullname: >-
-      ↟S L o W   T R a V e l ↟
-    bio: >-
-      ↟↟ M i n i M a l i s M ↟↟ 🗻 Outdoors lover ↬ Cologne 🏰
-    location: "Germany"
-    followers: 8675
-    engagement: 889
-    commentsToLikes: 0.061710
-    id: ck5q2nt09gx6l0i1152370ktx
-    verified: false
-    hashtags: "#best, #nrw, #netherlands, #castles"
-  - username: "faaaatmanur_"
-    fullname: >-
-      NATURE ↟ MOTIVATION ↟ HIJAB
-    bio: >-
-      📩- fatmanur@socialvibez.de 📍- nrw, germany 🌿- Only for girls outdoors ↟ lifestyle ↟ fashion ↟ location inspo
-    location: "Germany"
-    followers: 216341
-    engagement: 437
-    commentsToLikes: 0.017113
-    id: ck6tn84bz9bni0j71wsc48s1e
-    verified: false
-    hashtags: "#alhamdulillah, #birthdaygirl, #engagement"
-  - username: "sarah_erkens"
-    fullname: >-
-      ✮ 𝓢 𝓪 𝓻 𝓪 𝓱 ✮
-    bio: >-
-      🇩🇪 Born & raised 📍 The Netherlands 🌳 Mostly outdoors 🌊 💪🏼 Fitness enthusiast 🏃🏼‍♀️ 🌱 Plant based
-    location: "Germany"
-    followers: 23074
-    engagement: 269
-    commentsToLikes: 0.030971
-    id: ck13bbtkjuo9a0i19ytunzwis
-    verified: false
-    hashtags: "#friendship, #girlssquad, #bettertogether"
-  - username: "_anna___19"
-    fullname: >-
-      Anna❤️
-    bio: >-
-      🔹Berge🔹Natur🔹Outdoorsüchtig🔹Mama von drei Jungs❤️❤️❤️🔹🧔🏻❤️💍🔹🐶🐱🔹🇦🇹🧗🏻‍♀️🏃🏻‍♀️🏄🏻‍♀️🧘🏻‍♀️🏋🏻‍♀️🎿
-    location: "Germany"
-    followers: 16028
-    engagement: 578
-    commentsToLikes: 0.021839
-    id: ckaosxpzkthp80i78p9x5a2uo
-    verified: false
-    hashtags: "#momentsofmine, #instagood, #momentsofus, #heimatliebe"
-  - username: "ericfriese"
-    fullname: >-
-      Eric / Saxonyroamers
-    bio: >-
-      Based in DD📍 • Outdoors📌Lifestyle📌Fitness📌create Moments • DJI Mavic Pro Pilot • Sony A7ii 📷 • Saxon Switzerland Specialist
-    location: "Germany"
-    followers: 24755
-    engagement: 1402
-    commentsToLikes: 0.068350
-    id: ck0w1boapijd80i1969hqgq3v
-    verified: false
-    hashtags: "#landscape, #lensbible, #germandrones, #rsa"
-  - username: "sebiluks"
-    fullname: >-
-      Sebastian L. ↟ thewildlenses
-    bio: >-
-      Hi! ☽ • adventure & the great outdoors • Treehugger based in #Tübingen Germany • next stop: #iceland • huge fan of ducks 🦆 #thereisnoplanetb
-    location: "Germany"
-    followers: 19692
-    engagement: 823
-    commentsToLikes: 0.051375
-    id: ck0w1wvg1lja50i19dlpi4x8c
-    verified: false
-    hashtags: "#weroamhome, #moodygrams, #wekeepmoments, #tv"
-  - username: "sebastian.lhe"
-    fullname: >-
-      Sebastian Lehrke Photography
-    bio: >-
-      Award winning photographer @bergwelten 📸 Vanlife @bulli_frieda 🚐 Mostly outdoors 🏔🏕🌊 CGN, Germany
-    location: "Germany"
-    followers: 10570
-    engagement: 1005
-    commentsToLikes: 0.069450
-    id: ck15r0glq5iuu0i196ww3p51u
-    verified: false
-    hashtags: "#landschaftsfotografie, #hellofrom, #julianalps, #exploreiceland"
+    hashtags: "#couplelove, #dogmomproblems, #hundebesitzer, #couplegoals"
 ---

@@ -1,12 +1,48 @@
 ---
-title: Top 10 Rappers Instagram Influencers In Canada In 2023
+title: Top 10 Rappers Instagram Influencers In Canada In 2024
 description: >-
-  Find top rappers Instagram influencers in Canada in 2023. Most popular hashtags: #rapper #hiphop #love #producer.
+  Find top rappers Instagram influencers in Canada in 2024. Most popular hashtags: #rapper #hiphop #newmusic.
 platform: Instagram
-hits: 13
-text_top: Analyze the top-rated Instagram influencers on inBeat.
-text_bottom: Our database aggregates 13 Instagram influencers like this in Canada for you to connect with.
+hits: 22
+text_top: Discover the most popular Instagram influencers on inBeat.
+text_bottom: inBeat has 22 Instagram influencers like this in Canada for you to connect with.
 profiles:
+  - username: "rebelleperle_"
+    fullname: >-
+      Rebelle Perle
+    bio: >-
+      With a mission🔮 Female Rapper | Songwriter | Rule Breaker #rebelleperle DO NO HARM (POW POW) link in my bio‼️🚨 ⬇️➖➖➖➖➖⬇️
+    location: "Canada"
+    followers: 7214
+    engagement: 830
+    commentsToLikes: 0.034864
+    id: ck602lsyyhwoi0i14ghudcl6w
+    verified: false
+    hashtags: "#musiclife, #love, #independentartist, #musicvideo"
+  - username: "sebsan_"
+    fullname: >-
+      SEBSAN
+    bio: >-
+      Producer/Artist/DJ/Local Music Enthusiast I was a rapper im Lowkey just a dj now John 15:18 @hollywoodtheatrevan @tectonicvancouver
+    location: "Canada"
+    followers: 1844
+    engagement: 948
+    commentsToLikes: 0.076478
+    id: ck13avaq8sd820i19w55ugk5h
+    verified: false
+    hashtags: "#coppermoon, #iykyk"
+  - username: "nseeb604"
+    fullname: >-
+      NSEEB⚔️
+    bio: >-
+      🎙: (NO RISK , NO STORY)⛰️🌐. 😈 : THE MOST NOTORIOUS PUNJABI RAPPER 💰 : nseeb097@gmail.com 🌪️: "Anthem Supreme 🎥 " OUT NOW 🔽
+    location: "Canada"
+    followers: 176472
+    engagement: 189
+    commentsToLikes: 0.211141
+    id: ck5zkr8djk0js0i14hoijsqrh
+    verified: false
+    hashtags: "#outnow, #shaketheroom, #nseeb604only, #panjab"
   - username: "iamkingmellow"
     fullname: >-
       Mellow
@@ -19,18 +55,6 @@ profiles:
     id: ck137ifn8bpan0i194soamihe
     verified: false
     hashtags: ""
-  - username: "bostoniftprod"
-    fullname: >-
-      BOSTON IFTPROD
-    bio: >-
-      Singer | Rapper | Songwriter @iftprod 🇬🇧 Facetime Music video :
-    location: "Canada"
-    followers: 14509
-    engagement: 821
-    commentsToLikes: 0.026760
-    id: ck602klzhhq0c0i14ntwmo6lk
-    verified: false
-    hashtags: "#haircut, #annatchi, #leak, #onitsway"
   - username: "officialkien"
     fullname: >-
       KIEN
@@ -43,18 +67,6 @@ profiles:
     id: ck5hk5jsehttc0i115qxn9ud5
     verified: false
     hashtags: "#20daysoffocuschallenge, #hiphop, #yyc, #lifeonpurpose"
-  - username: "deepa_deemc"
-    fullname: >-
-      Deepa Unnikrishnan (Dee MC)
-    bio: >-
-      Rapper, singer-song writer, story teller. #vivalahiphop 🎶✨ * #deemc #indianfemalerapper * 'Dee=MC²' ALBUM OUT * New Music Video "CONFESS" 👇
-    location: "Canada"
-    followers: 27182
-    engagement: 1017
-    commentsToLikes: 0.018629
-    id: ck8szmkb4p0940j78inbytd05
-    verified: false
-    hashtags: "#indianhiphop, #hindirap, #vivalahiphop, #indianfemalerapper"
   - username: "connorprice_"
     fullname: >-
       Connor Price
@@ -66,7 +78,7 @@ profiles:
     commentsToLikes: 0.034572
     id: ck6tlxwmw6u3s0j71vpnndoao
     verified: true
-    hashtags: "#rapper, #reels, #remix, #logic"
+    hashtags: "#reels, #remix, #rapper, #hiphopartist"
   - username: "aamandamanda"
     fullname: >-
       Amanda | Finance - Singer🎙
@@ -78,7 +90,7 @@ profiles:
     commentsToLikes: 0.024739
     id: ck5hct22bjts30i11xgv7u696
     verified: false
-    hashtags: "#sing, #guitar, #rap, #newmusic"
+    hashtags: "#sing, #cover, #youtubemusic, #toronto"
   - username: "shawnwilliambeats"
     fullname: >-
       ShawnWilliamBeats
@@ -91,40 +103,28 @@ profiles:
     id: ck8szve28purn0j788b31rvun
     verified: false
     hashtags: "#beatstars, #rapper, #instrumental, #producer"
-  - username: "weshoothumans"
+  - username: "mamazimanam"
     fullname: >-
-      👽 WE SHOOT HUMANS
+      Mohammadreza gholamifard
     bio: >-
-      ⚡️ Built to inspire & uplift creatives. 👉🏼 Tag #weshoothumans & #ishoothumans
+      Management: @notfound_oma 🔹OMA🔹@oma_culture Founder of @oma_uae SY💙LLKH.LLNT🥀 🇨🇦🇦🇪
     location: "Canada"
-    followers: 71460
-    engagement: 449
-    commentsToLikes: 0.010552
-    id: ck5cgmbe6p4k00i11ptke04z3
+    followers: 70767
+    engagement: 1221
+    commentsToLikes: 0.073386
+    id: ckaosxlzoth9s0i788qle8xui
     verified: false
-    hashtags: "#apricotmagazine, #justpressingabutton, #vibrationsmag, #ishoothumans"
-  - username: "emmkab"
+    hashtags: "#mamazioma, #newsong, #streamingservices, #canadianartist"
+  - username: "haviahmighty"
     fullname: >-
-      Emmanuel Kabongo
+      𝗛𝗔𝗩𝗜𝗔𝗛 𝗠𝗜𝗚𝗛𝗧𝗬
     bio: >-
-      God with us. 🙏🏾 #actorslife
+      Crying Crystals [New Album] 💎 07/14/23
     location: "Canada"
-    followers: 8292
-    engagement: 601
-    commentsToLikes: 0.078227
-    id: ck5zpb8skscgu0i14joey1v2w
+    followers: 35550
+    engagement: 317
+    commentsToLikes: 0.114579
+    id: ck0w4kcw1z0450i192qttvuiu
     verified: true
-    hashtags: "#hollywood, #godfirst, #love, #happybirthday"
-  - username: "tiffyybeans"
-    fullname: >-
-      T I F F 💋
-    bio: >-
-      🇭🇰|🇨🇦 UBC food nutrition and health | AOii Model @thenumanetwork @escapeswimwear code TIFFANY 1 Corinthians 13: 4-8 ⛪️
-    location: "Canada"
-    followers: 10386
-    engagement: 454
-    commentsToLikes: 0.022597
-    id: ck8tbattpuya00j780g1d4ydo
-    verified: false
-    hashtags: "#aestheticfashion, #thevisualmag, #photography, #aesthetica"
+    hashtags: "#newmusic, #torontoevents, #torontoartist, #releaseparty"
 ---

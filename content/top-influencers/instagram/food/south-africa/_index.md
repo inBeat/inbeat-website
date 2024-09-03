@@ -1,130 +1,130 @@
 ---
-title: Top 10 Food Instagram Influencers In South Africa In 2023
+title: Top 10 Food Instagram Influencers In South Africa In 2024
 description: >-
-  Find top food Instagram influencers in South Africa in 2023. Most popular hashtags: #love #summerishere #foodie.
+  Find top food Instagram influencers in South Africa in 2024. Most popular hashtags: #easyrecipes #foodblogger #foodie #homemade.
 platform: Instagram
-hits: 70
-text_top: Identify the most popular Instagram influencers on inBeat.
-text_bottom: inBeat aggregates 70 Instagram influencers like this in South Africa for you to pitch.
+hits: 86
+text_top: See the best Instagram accounts on inBeat.
+text_bottom: Our search engine aggregates 86 Instagram influencers like this in South Africa for you to pitch.
 profiles:
+  - username: "funfoodrecipeworld"
+    fullname: >-
+      Shema's Kitchen
+    bio: >-
+      Food Blogger Recipe Creator 🫰🏻 #shemaskitchen cookbook Dm for Collab/PR❤️ 📍South Africa 🇿🇦 originally from 🇮🇳
+    location: "South Africa"
+    followers: 72537
+    engagement: 433
+    commentsToLikes: 0.037749
+    id: ck9wgfsx6t89h0j789b86ifdl
+    verified: false
+    hashtags: "#eidaladha, #desserts, #ramadan, #foodphotography"
+  - username: "diariesofanislandergirl"
+    fullname: >-
+      𝘇 𝗮 𝗶 𝗻 𝗮 𝗵  ✨
+    bio: >-
+      ✧ food • skincare • makeup • lifestyle 🇲🇺 ✧ shop @_mocouture_ ✧ book acc @diariesofabooknerd ✧ other links ⤵
+    location: "South Africa"
+    followers: 12565
+    engagement: 439
+    commentsToLikes: 0.016002
+    id: ck5hqose9tghk0i11u4gxah0n
+    verified: false
+    hashtags: "#realmagic, #cokefoodfestival, #larocheposay, #diariesofanislandergirl"
+  - username: "chef_amakaa"
+    fullname: >-
+      Chiamaka Nwakalor-Egemba
+    bio: >-
+      I express food uniquely to promote African Heritage, improve wellness &connect people Owner @dishlafrique @chowwithamaka @dlafoodstore @bamwellness_
+    location: "South Africa"
+    followers: 82961
+    engagement: 356
+    commentsToLikes: 0.037897
+    id: cllrlxcri1ov40j08bu7d1t57
+    verified: false
+    hashtags: "#gettoknowme, #jollofwithonga, #zflip5, #zobodrink"
+  - username: "chef_fregz"
+    fullname: >-
+      Gbubemi Fregene
+    bio: >-
+      ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀Private Chef ⠀⠀⠀⠀⠀⠀⠀⠀⠀Passionate about Food and Life ⠀⠀⠀⠀⠀⠀⠀⠀⠀Featured on CNN "African Voices" Bookings and Enquries ➡️Click Email📧
+    location: "South Africa"
+    followers: 157511
+    engagement: 194
+    commentsToLikes: 0.038229
+    id: ck6tu7ebyeqci0j71qk8jlogu
+    verified: true
+    hashtags: "#eatforgood, #naijafood, #explore, #knorrnigeria"
   - username: "fehmz"
     fullname: >-
       Fehmz
     bio: >-
-      Sharing my life adventure with you Lifestyle | Travel | Food | Plus+ Go to > www.fehmz.com JHB, ZA 🇿🇦 #southafrica @halaalgoodsmarket @fehmzmocktails
+      Sharing my life adventure with you Lifestyle | Travel | Food | Plus+ Go to > www.fehmz.com JHB, ZA 🇿🇦 pr@fehmz.com @halaalgoodsmarket @fehmzmocktails
     location: "South Africa"
-    followers: 125944
-    engagement: 313
-    commentsToLikes: 0.015450
+    followers: 274745
+    engagement: 142
+    commentsToLikes: 0.038710
     id: ck0w6espr882r0i19xmu3iovq
     verified: false
-    hashtags: "#fehmzsavoury, #cooking, #fehmzsweet, #fehmz"
-  - username: "diariesofanislandergirl"
+    hashtags: "#easyrecipes, #sandtoncity, #fehmz, #fehmzsavoury"
+  - username: "the_daily_dilemna"
     fullname: >-
-      ZAINAH | LIFESTYLE BLOGGER
+      Haseena
     bio: >-
-      📍 Mauritian 🇲🇺 ♡ owner @_mocouture_ ♡ bookworm @diariesofabooknerd ♡ beauty - skincare - food - fashion ♡ Join my group ‘Lady Loves’ on Facebook!👇
+      OT, wife & mom navigating life a dilemna at a time! Recipe Developer | Content Creator | Food & Lifestyle | Marketing & Advertising Jhb, SA 🇿🇦
     location: "South Africa"
-    followers: 10575
-    engagement: 612
-    commentsToLikes: 0.018917
-    id: ck5hqose9tghk0i11u4gxah0n
+    followers: 76192
+    engagement: 110
+    commentsToLikes: 0.011359
+    id: ck0w49aotxfkf0i195jn44duj
     verified: false
-    hashtags: "#mauritianblogger, #maurice, #mauritius, #lifestyleblogger"
-  - username: "michelle_vanessaa_"
+    hashtags: "#tddrecipes, #beautifulcuisines, #food24, #foodblog"
+  - username: "drizzleanddip"
     fullname: >-
-      Michelle Vanessa
+      Sam Linsell
     bio: >-
-      Miami🏝TV Host🎤Food & Travel Critic🍴✈️ Nicaraguan 🇳🇮 German 🇩🇪 African American 🇺🇸Meme Addict 😆 Dog Lover 🐾 Old Fashion with a Modern Twist
+      Delicious recipes | Cooking & Baking | Food stories | cookbook author | Food photographer & food stylist | Recipe developer | Teaching you to cook
     location: "South Africa"
-    followers: 30778
-    engagement: 465
-    commentsToLikes: 0.120945
-    id: ck6tqe91vqy2q0j71tv5jm53n
+    followers: 67853
+    engagement: 102
+    commentsToLikes: 0.038193
+    id: ck5zryynlxii60i14ronnukt6
     verified: false
-    hashtags: "#miami, #heels, #travel, #wanderlust"
-  - username: "nicola_duplessis"
+    hashtags: "#foodstyling, #appetizers, #provinciallife, #makemoments"
+  - username: "mama_taught_me_well"
     fullname: >-
-      Nicola Tila Du Plessis
+      Ruhana Ebrahim | Food Content Creator
     bio: >-
-      Owner&Director: @acemodels_atlanticseaboard MODEL | Face of @sandybclub @thebayhotel | Foodpage: @nicolascreation BRAND AMBASSADOR: @amazinghairsa
+      📸 Food Styling I Recipe Developer 👩‍💻 Paid Ads & Marketing (Email to Collab) 👩🏻‍🎨 Interior Decorator 👨‍👩‍👧‍👦 Mum of 2 🇿🇦 South Africa
     location: "South Africa"
-    followers: 27191
-    engagement: 373
-    commentsToLikes: 0.176095
-    id: ck14gy3zw7l6g0i19peitarc2
+    followers: 75763
+    engagement: 74
+    commentsToLikes: 0.004123
+    id: ck9wom4uw5prh0j78o9n2wjrp
     verified: false
-    hashtags: "#casting, #amen, #tomanymoretogether, #108kloofstreet"
-  - username: "marisepollard"
+    hashtags: "#recipeoftheday, #foodblogfeed, #bakersofinstagram, #foodstyling"
+  - username: "bycoachvee"
     fullname: >-
-      Marise Pollard
+      Women's Fitness and Wellness Coach
     bio: >-
-      ♥️HP I like to play dress up, unfamiliar places & a l l food. I get really excited when the sky is in pretty colors. Always be kind & say thank you.
+      🔥I boost women's body and self-confidence without limiting their lives or food choices. @thevixenmovement @the_vixenstudio 🦊 Click below to start 👇🏻💓
     location: "South Africa"
-    followers: 55220
-    engagement: 1170
-    commentsToLikes: 0.002316
-    id: ck6u866l7pnuv0j71hspnufg4
+    followers: 29712
+    engagement: 68
+    commentsToLikes: 0.209957
+    id: ck134xcdaynii0i197pvk6juj
     verified: false
-    hashtags: ""
-  - username: "carishmabasday"
+    hashtags: "#healthylifestyle, #healthyliving, #fitnessjourney, #fitlife"
+  - username: "southafricahalaal"
     fullname: >-
-      Carishma Basday ~ Actress
+      South Africa Halaal
     bio: >-
-      Adventure seeking✈️, food loving🍝,yoga doing🧘🏽‍♀️,puppy cuddling🐶, good vibe cultivator💖,magic maker✨,actress/presenter🎬& mama to Ayla Océane 👼🏽
+      Sara #Foodie #Traveller . Email southafricahalaal@gmail.com for ads/collabs. Follow @inafricaandbeyond for travel. Get your free SA bucket list.
     location: "South Africa"
-    followers: 20881
-    engagement: 312
-    commentsToLikes: 0.044449
-    id: ck5c05axash890i11gyh86zop
+    followers: 108979
+    engagement: 32
+    commentsToLikes: 0.012095
+    id: ck9wd6aywe9700j783mdac9zr
     verified: false
-    hashtags: "#skincare, #antioxidantserum, #vitamincserum, #faceserum"
-  - username: "keturah_king"
-    fullname: >-
-      Keturah King
-    bio: >-
-      @masterchefonfox Szn 10 @cnn African Voices Pioneer | Journalist | Thespian | Director |🧿| Food Fanatic | TV Host | Bon Vivant | Erelu 👑 | Nomad ✈️
-    location: "South Africa"
-    followers: 62071
-    engagement: 622
-    commentsToLikes: 0.018268
-    id: ck5zuocrt2qvv0i14ylyuhdrx
-    verified: true
-    hashtags: "#ashortstory, #sp, #maferefunoshun, #tfblackorchid"
-  - username: "zia_suarez"
-    fullname: >-
-      𝙕𝙄𝘼 𝙎𝙐𝘼𝙍𝙀𝙕
-    bio: >-
-      🇿🇦 South African in📍#Barcelona 📩: ziasuarez@gmail.com 🍍 my foodie page @socialbyzia 📱 edit your photos with my presets @presetsbyzia 👇🏽
-    location: "South Africa"
-    followers: 120963
-    engagement: 699
-    commentsToLikes: 0.010644
-    id: ck0tt22xv0tlw0i19puxwwbly
-    verified: false
-    hashtags: "#tropicalvibes, #islandstyle, #surfsession, #islandlife"
-  - username: "bonita_kortjas"
-    fullname: >-
-      BonitaKortjas.sa⚕️
-    bio: >-
-      Main Account . No FB‼️ Model, poet &Foodie🌸 WildnOut : @t_he_booth 🚀💍 Manager : @kids_on_medicine_za DM for paid promos ONLY.
-    location: "South Africa"
-    followers: 71462
-    engagement: 218
-    commentsToLikes: 0.013786
-    id: ck14h6v7f8u3o0i1932ipwp6v
-    verified: false
-    hashtags: "#reebok, #writeyourlegacy"
-  - username: "williamgadney"
-    fullname: >-
-      William Gadney
-    bio: >-
-      🇿🇦🍉 • Educator✌🏻• Liefde Wen ❤️ • Bearded 🐻 • Coffee ☕️ • Foodie 🍔 • Bushveld 🐘🐾 • Gym 🏋🏻‍♂️ • 🇺🇸🥔 (American Potato) •
-    location: "South Africa"
-    followers: 13835
-    engagement: 1156
-    commentsToLikes: 0.011769
-    id: ckaox0pcpb8ye0i789azez2m9
-    verified: false
-    hashtags: "#bears, #aaosawmatap, #capetown2022, #bearscubsnbeards"
+    hashtags: "#repost, #southafrica, #explorepage, #toasttuesday"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Longboard TikTok Influencers In 2023
+title: Top 10 Longboard TikTok Influencers In 2024
 description: >-
-  Find top longboard TikTok influencers in 2023. Most popular hashtags: #longboard #foryou #fyp #skateboard.
+  Find top longboard TikTok influencers in 2024. Most popular hashtags: #longboard #foryou #fyp #skateboard.
 platform: TikTok
 hits: 250
-text_top: Analyze the best TikTok influencers on inBeat.
-text_bottom: inBeat holds 250 TikTok influencers like this for you to collaborate.
+text_top: Identify the most popular TikTok profiles on inBeat.
+text_bottom: inBeat holds 250 TikTok influencers like this for you to contact.
 profiles:
   - username: "tristanrespress"
     fullname: >-

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Marathon TikTok Influencers In 2023
+title: Top 10 Marathon TikTok Influencers In 2024
 description: >-
-  Find top marathon TikTok influencers in 2023. Most popular hashtags: #fyp #running #runner #foryou.
+  Find top marathon TikTok influencers in 2024. Most popular hashtags: #fyp #running #runner #foryou.
 platform: TikTok
-hits: 119
-text_top: See the best TikTok accounts on inBeat.
-text_bottom: Our platform aggregates 119 TikTok influencers like this for you to pitch.
+hits: 120
+text_top: See the most popular TikTok profiles on inBeat.
+text_bottom: inBeat aggregates 120 TikTok influencers like this for you to work with.
 profiles:
   - username: "shakeercheerayi"
     fullname: >-
@@ -126,5 +126,5 @@ profiles:
     commentsToLikes: 0.113154
     id: ckblfmxp09i6z0j237jyt5nbs
     verified: false
-    hashtags: "#gettinginshape, #adventures, #transitionsounds, #marathonrunner"
+    hashtags: "#trainingday, #vacayvibes, #transitionsfashion, #adventures"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Food TikTok Influencers In Philadelphia In 2023
+title: Top 10 Food TikTok Influencers In Philadelphia In 2024
 description: >-
-  Find top food TikTok influencers in Philadelphia in 2023. Most popular hashtags: #fyp #food #foryou #foryoupage.
+  Find top food TikTok influencers in Philadelphia in 2024. Most popular hashtags: #fyp #food #foryou #foryoupage.
 platform: TikTok
 hits: 10
-text_top: Analyze the most popular TikTok accounts on inBeat.
-text_bottom: Our platform aggregates 10 TikTok influencers like this in Philadelphia, United States for you to connect with.
+text_top: Identify the most popular TikTok influencers on inBeat.
+text_bottom: Our platform has 10 TikTok influencers like this in Philadelphia, United States for you to work with.
 profiles:
   - username: "ogvdp"
     fullname: >-
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.019901
     id: ckc8v4mmahs1u0j23brjv4ydg
     verified: false
-    hashtags: "#viral, #foryoupage, #fyp, #foryou"
+    hashtags: "#foryou, #foryoupage, #fyp, #taylorswift"
   - username: "the_reeses_guy"
     fullname: >-
       The Reese's Guy
@@ -66,7 +66,7 @@ profiles:
     commentsToLikes: 0.024636
     id: ck8toyuu5oiqx0j78c4ol0v84
     verified: false
-    hashtags: "#dessert, #usa, #food, #chocolate"
+    hashtags: "#cake, #food, #fyp, #sweet"
   - username: "godfatherofmeat"
     fullname: >-
       Godfather of meat

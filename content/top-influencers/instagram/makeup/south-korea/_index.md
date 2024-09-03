@@ -1,12 +1,48 @@
 ---
-title: Top 10 Makeup Instagram Influencers In South Korea In 2023
+title: Top 10 Makeup Instagram Influencers In South Korea In 2024
 description: >-
-  Find top makeup Instagram influencers in South Korea in 2023. Most popular hashtags: #makeup #koreanmakeup #koreanfashion.
+  Find top makeup Instagram influencers in South Korea in 2024. Most popular hashtags: #makeup #seoul #koreanmakeup.
 platform: Instagram
-hits: 159
-text_top: Identify the top-rated Instagram influencers on inBeat.
-text_bottom: Our search engine has 159 Instagram influencers like this in South Korea for you to connect with.
+hits: 178
+text_top: Identify the best Instagram influencers on inBeat.
+text_bottom: Our database aggregates 178 Instagram influencers like this in South Korea for you to work with.
 profiles:
+  - username: "hehejihee"
+    fullname: >-
+      Julie Hwang
+    bio: >-
+      Kiwi Korean in Dubai 🦋 EMIRATES MAKEUP VIDEO
+    location: "South Korea"
+    followers: 114406
+    engagement: 492
+    commentsToLikes: 0.006724
+    id: ckaozhqm2lxud0i78ep1u8e99
+    verified: false
+    hashtags: "#style, #greece, #mykonos, #korean"
+  - username: "joannaho1122"
+    fullname: >-
+      Joanna 小賀
+    bio: >-
+      KOL/Model/Outfit/Makeup 🩰🤎🦢 合作聯繫📩 joannaho1122@gmail.com @bimo0308 🐱
+    location: "South Korea"
+    followers: 78745
+    engagement: 240
+    commentsToLikes: 0.007902
+    id: ck5hdr1oxoxa90i11bhc2482h
+    verified: false
+    hashtags: "#wear, #outfit, #mood, #seoul"
+  - username: "stacychachki"
+    fullname: >-
+      
+    bio: >-
+      🇨🇳🇰🇷🌈🇳🇿♡ crueltyfree makeup 🌿 art history &criminology BA in pr @evergreenpr.pro / b2b export / co-founder @sensation6_official
+    location: "South Korea"
+    followers: 20303
+    engagement: 293
+    commentsToLikes: 0.007599
+    id: ck5horimaq3fc0i11vdkqq2ue
+    verified: false
+    hashtags: "#nzmua, #explore, #muasupport, #makeuplook"
   - username: "aiden_parkk"
     fullname: >-
       박현호 (AIDEN)
@@ -55,18 +91,6 @@ profiles:
     id: ck5c6zxsp6j810i11mkjac0rp
     verified: false
     hashtags: "#lovesickgirls, #jennie, #youtube, #newvideo"
-  - username: "amelia_tantono"
-    fullname: >-
-      Amelia Tantono
-    bio: >-
-      Indonesian currently living in Seoul, South Korea. 🎥 LUNCH BOX (2015) - Please see Highlight 👇 . CURRENT BODY CARE & DAILY MAKEUP :
-    location: "South Korea"
-    followers: 279184
-    engagement: 1157
-    commentsToLikes: 0.004413
-    id: ck0u0vuthuzuw0i19i7996b5a
-    verified: true
-    hashtags: "#truebeauty, #1212shopeebirthdaysale, #1212shopeeid, #got7"
   - username: "koreanmakeupk"
     fullname: >-
       Korean Make Up/Tutorials 🇰🇷
@@ -103,28 +127,4 @@ profiles:
     id: ck5q45n06nvs10i11hgngg3vl
     verified: false
     hashtags: "#ad, #abhpartner, #yoyo, #makeupsang"
-  - username: "wish.park"
-    fullname: >-
-      소원
-    bio: >-
-      #freelancermakeupartist 🥀@wish.p_makeup 🍕 @wish.foodie contact > DM📩 ⬇️ Travel & Make-up 블로그 🇰🇷🇨🇭🇮🇹🇫🇷🇦🇺🇸🇬🇨🇳🇯🇵
-    location: "South Korea"
-    followers: 12066
-    engagement: 307
-    commentsToLikes: 0.014007
-    id: ck5hntlr8odad0i11z4ntm25w
-    verified: false
-    hashtags: "#uglyshoes, #uglyz, #79, #southkorea"
-  - username: "glee_makeup"
-    fullname: >-
-      글리 glee
-    bio: >-
-      협업문의 gleemakeup@naver.com 글리메이크업 @glee_makeup
-    location: "South Korea"
-    followers: 63997
-    engagement: 204
-    commentsToLikes: 0.009809
-    id: ck14jhftykd3u0i193zey1y1i
-    verified: false
-    hashtags: "#liptint, #coffee, #homecafe, #koreanfood"
 ---

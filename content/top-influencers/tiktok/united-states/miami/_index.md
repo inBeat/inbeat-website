@@ -1,11 +1,11 @@
 ---
-title: Top 10 TikTok Influencers In Miami In 2023
+title: Top 10 TikTok Influencers In Miami In 2024
 description: >-
-  Find top TikTok influencers in Miami in 2023. Most popular hashtags: #fyp #foryou #greenscreen.
+  Find top TikTok influencers in Miami in 2024. Most popular hashtags: #fyp #foryou #greenscreen.
 platform: TikTok
-hits: 1457
-text_top: See the top-rated TikTok accounts on inBeat.
-text_bottom: inBeat aggregates 1457 TikTok influencers like this in Miami, United States for you to work with.
+hits: 1471
+text_top: Discover the top-rated TikTok influencers on inBeat.
+text_bottom: inBeat aggregates 1471 TikTok influencers like this in Miami, United States for you to connect with.
 profiles:
   - username: "kingpang_"
     fullname: >-
@@ -115,16 +115,16 @@ profiles:
     id: ckck6lmxprxl60j23lobo7tkz
     verified: false
     hashtags: "#bustitchallenge"
-  - username: "willmiami6"
+  - username: "angeliqueluvsu"
     fullname: >-
-      Guillermo Morales
+      angelique
     bio: >-
-      🏳️‍🌈 Will in Miami Venmo: willmiami6 because why not 😂 Put you 1st ♥️
+      clearly a leo miami
     location: "United States"
-    followers: 17400
-    engagement: 1836
-    commentsToLikes: 0.115474
-    id: ckac3l4ekblsm0i7823a2pdmx
+    followers: 5095
+    engagement: 1592
+    commentsToLikes: 0.104118
+    id: ckd5pi2kuxfrj0j23rtjy4f8v
     verified: false
-    hashtags: "#gay, #yearontiktok, #stitch, #bitch"
+    hashtags: "#fyp, #hotgirlsummer, #spaday, #duet"
 ---

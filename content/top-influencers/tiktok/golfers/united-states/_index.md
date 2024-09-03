@@ -1,11 +1,11 @@
 ---
-title: Top 10 Golfers TikTok Influencers In United States In 2023
+title: Top 10 Golfers TikTok Influencers In United States In 2024
 description: >-
-  Find top golfers TikTok influencers in United States in 2023. Most popular hashtags: #fyp #foryou #golf #foryoupage.
+  Find top golfers TikTok influencers in United States in 2024. Most popular hashtags: #fyp #foryou #golf #golftiktok.
 platform: TikTok
-hits: 118
-text_top: Analyze the best TikTok influencers on inBeat.
-text_bottom: Our database holds 118 TikTok influencers like this in United States for you to connect with.
+hits: 120
+text_top: See the best TikTok profiles on inBeat.
+text_bottom: Our search engine aggregates 120 TikTok influencers like this in United States for you to connect with.
 profiles:
   - username: "bradycrump1"
     fullname: >-
@@ -66,7 +66,7 @@ profiles:
     commentsToLikes: 0.093149
     id: ck9dv43vyj7mc0j78n79juhun
     verified: false
-    hashtags: "#chipsgottalent, #fyp, #coffee, #waitforit"
+    hashtags: "#waitforit, #coffee, #chipsgottalent, #lovememode"
   - username: "parishilinski"
     fullname: >-
       Taz
@@ -119,12 +119,12 @@ profiles:
     fullname: >-
       Jay_pro22
     bio: >-
-      27 Small town Golfer 📩 jaypro22business@gmail.com Code: Jaypro
+      27 Small town Pro Golfer 📩 jaypro22business@gmail.com
     location: "United States"
-    followers: 12800
-    engagement: 626
-    commentsToLikes: 0.050246
+    followers: 13100
+    engagement: 613
+    commentsToLikes: 0.080853
     id: ckb9gedc75f5h0j232knxgy0e
     verified: false
-    hashtags: "#golf, #foryou, #rukketsports, #trickshot"
+    hashtags: "#fyp, #golftiktok, #viral, #foryoupage"
 ---

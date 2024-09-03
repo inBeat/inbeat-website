@@ -1,12 +1,36 @@
 ---
-title: Top 10 Bloggers Instagram Influencers In Peru In 2023
+title: Top 10 Bloggers Instagram Influencers In Peru In 2024
 description: >-
-  Find top bloggers Instagram influencers in Peru in 2023. Most popular hashtags: #model #photography #blogger #photooftheday.
+  Find top bloggers Instagram influencers in Peru in 2024. Most popular hashtags: #publicidad #ootd #love #blogger.
 platform: Instagram
 hits: 39
-text_top: Analyze the most popular Instagram accounts on inBeat.
-text_bottom: Our database has 39 Instagram influencers like this in Peru for you to connect with.
+text_top: Discover the most popular Instagram accounts on inBeat.
+text_bottom: Our database has 39 Instagram influencers like this in Peru for you to work with.
 profiles:
+  - username: "porsegundavezblog"
+    fullname: >-
+      Jenni Tisnado | Mamá bloguera
+    bio: >-
+      Mamá de 👨‍👦‍👦 lifestyle blogger 🖥️, comparto recetas 🍽️ manualidades 🖌️tips, datos y todo lo que me hace feliz. @bloggerhoodperu
+    location: "Peru"
+    followers: 59884
+    engagement: 370
+    commentsToLikes: 0.054593
+    id: ck55mhqhj3z9z0i119b309r63
+    verified: false
+    hashtags: "#porsegundavezblog, #publicidad, #elpap, #jijimito"
+  - username: "mamiscool"
+    fullname: >-
+      Kristin Morris S.
+    bio: >-
+      [Lifestyle & Mom Blogger 👩‍👧‍👦 love to travel] 🇵🇪❤️ #mamareal✌🏻💚 2 👦🏻👧🏻 💻 Blog: mamiscool.com 👜 @coolconceptpe 📩 @ntc.agency
+    location: "Peru"
+    followers: 44605
+    engagement: 74
+    commentsToLikes: 0.060706
+    id: ck6u1dpt1l4jd0j71i6fgnfd1
+    verified: false
+    hashtags: "#cooltip, #casosdelavidareal, #vidademadres, #publicidad"
   - username: "callme.marla"
     fullname: >-
       ⛓🔗MarLa | Grungeblog🔗⛓
@@ -31,30 +55,6 @@ profiles:
     id: ck9wd6a91e9390j78zl18cwjg
     verified: false
     hashtags: "#monarch, #antheliosshaka, #throwback, #foodie"
-  - username: "porsegundavezblog"
-    fullname: >-
-      Jenni | Mamá bloguera
-    bio: >-
-      Mamá de 👨‍👦‍👦 lifestyle blogger 🖥️, comparto recetas 🍽️ manualidades 🖌️tips, datos y todo lo que me hace feliz. @bloggerhoodperu | Team @huggiesperu
-    location: "Peru"
-    followers: 40104
-    engagement: 368
-    commentsToLikes: 0.232333
-    id: ck55mhqhj3z9z0i119b309r63
-    verified: false
-    hashtags: "#publicidad, #vlogmas2020, #disney, #navidad"
-  - username: "mamiscool"
-    fullname: >-
-      Kristin Morris S.
-    bio: >-
-      [Lifestyle & Mom Blogger 👩‍👧‍👦 Comunicadora] Cool Mom ✌🏻💚 Mamá de dos 👦🏻👧🏻 Kiki 💜 💻 Blog: mamiscool.com 📱Facebook: @mamiscool blog ⤵️Último Video⤵️
-    location: "Peru"
-    followers: 35570
-    engagement: 115
-    commentsToLikes: 0.133272
-    id: ck6u1dpt1l4jd0j71i6fgnfd1
-    verified: false
-    hashtags: "#mamiscool, #vidademadres, #publicidad, #cooltip"
   - username: "pierina_dg"
     fullname: >-
       Pierina De La Borda Gotuzzo
@@ -79,6 +79,42 @@ profiles:
     id: ck8t0zc1ctw5w0j78uuu4eyyb
     verified: false
     hashtags: "#orgullomexicano, #culturamexicana, #culturas, #nuncaolvidestusrai"
+  - username: "daniellaeacosta"
+    fullname: >-
+      Daniella Acosta
+    bio: >-
+      ✨Te comparto los mejores Tips & Datos 🤳🏼Contenido diario de Belleza, Moda y Estilo de vida. 📲 TikTok: daniellaeacosta (+385K) ✝️ Isaías 49:16
+    location: "Peru"
+    followers: 198813
+    engagement: 604
+    commentsToLikes: 0.075468
+    id: ck13d1tzc38n30i19e4v4c15v
+    verified: false
+    hashtags: "#skincare, #outfitinspo, #outfitideas, #bloggerstyle"
+  - username: "_carloste"
+    fullname: >-
+      Carlos Torres
+    bio: >-
+      Contacto carloste409@gmail.com
+    location: "Peru"
+    followers: 54884
+    engagement: 470
+    commentsToLikes: 0.020037
+    id: ckap3pljn402l0i78ddwmpmdt
+    verified: false
+    hashtags: "#blackwidow, #mexico, #starwarscosplay, #ironmantri"
+  - username: "valerialarcog"
+    fullname: >-
+      Valeria Larco Ganoza
+    bio: >-
+      Founder @valmiperu & @redinmobi Contact DM | Valeria_06_99@hotmail.com ✨TIKTOK | 90K - valerialarcog
+    location: "Peru"
+    followers: 49818
+    engagement: 79
+    commentsToLikes: 0.055331
+    id: ckap43td05py50i78wm8zq21q
+    verified: false
+    hashtags: "#portraits, #beauty, #model, #trip"
   - username: "heiidilg"
     fullname: >-
       Christiane
@@ -91,40 +127,4 @@ profiles:
     id: ckap4aavo6gl00i78jimkn90o
     verified: false
     hashtags: "#atardeceresmagicos, #travel, #visitmexico, #spring"
-  - username: "leonardooterom"
-    fullname: >-
-      L E O ⚡️ O T E R O
-    bio: >-
-      ❌Welcome to my world❌ 👨‍✈️|Flight Attendant ✈️ 🎬l TikTok:@Leonardooterom(+500K) ✈️| Embajador e Imagen @ColumbiaPeru 🕺🏼| Bailarín 📍| Lima - Perú
-    location: "Peru"
-    followers: 49097
-    engagement: 929
-    commentsToLikes: 0.032430
-    id: ck6u7eylcl46e0j716bsizkrp
-    verified: false
-    hashtags: "#style, #latin, #peru, #photography"
-  - username: "laura.lebeau_"
-    fullname: >-
-      LAURA
-    bio: >-
-      “El arte de entrar y salir de una realidad”. Actriz en formación 🎭 Agrónoma en proceso 👩🏻‍🌾 19 🍷 📍Trujillo-Perú 💌Colaboraciones al DM.
-    location: "Peru"
-    followers: 6622
-    engagement: 794
-    commentsToLikes: 0.221850
-    id: ck5casawwe12l0i11v8viylhr
-    verified: false
-    hashtags: "#beautybloggers, #likeforlikes, #instalike, #glamour"
-  - username: "rodespino4"
-    fullname: >-
-      Rodrigo Henry Espino Moreno
-    bio: >-
-      - Bailarín profesional🕺🕺🕺🕺 - Comunicación y publicidad👨‍💻 - Made in Perú 🇵🇪🇵🇪 -Tiktok:rodespino4 ( 100k) NUNCA DEJES DE SOÑAR🏳️‍🌈🏳️‍🌈
-    location: "Peru"
-    followers: 3818
-    engagement: 1218
-    commentsToLikes: 0.112354
-    id: ck6u1dz8vl6570j71xwkd9jxk
-    verified: false
-    hashtags: "#reggaeton, #urbanstyle, #influencer, #baile"
 ---

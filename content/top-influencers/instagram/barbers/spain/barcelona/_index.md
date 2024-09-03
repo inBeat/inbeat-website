@@ -1,12 +1,36 @@
 ---
-title: Top 10 Barbers Instagram Influencers In Barcelona In 2023
+title: Top 10 Barbers Instagram Influencers In Barcelona In 2024
 description: >-
-  Find top barbers Instagram influencers in Barcelona in 2023. Most popular hashtags: #barcelona #barber #barbershop #spain.
+  Find top barbers Instagram influencers in Barcelona in 2024. Most popular hashtags: #barcelona #spain #barber #beard.
 platform: Instagram
-hits: 13
-text_top: Discover the most popular Instagram influencers on inBeat.
-text_bottom: Our database holds 13 Instagram influencers like this in Barcelona, Spain for you to pitch.
+hits: 16
+text_top: Analyze the most popular Instagram accounts on inBeat.
+text_bottom: inBeat holds 16 Instagram influencers like this in Barcelona, Spain for you to collaborate.
 profiles:
+  - username: "ggsoaress"
+    fullname: >-
+      Gabriel Soares
+    bio: >-
+      Barcelona Barber | Hairstyles | Mensstyle @gsoaressalon | @soaresmencare
+    location: "Spain"
+    followers: 657214
+    engagement: 210
+    commentsToLikes: 0.011347
+    id: ck5chu0fgrgkm0i11okgs3jdn
+    verified: false
+    hashtags: "#hairstyle, #beard, #philippines, #holidays"
+  - username: "juanjomonje"
+    fullname: >-
+      𝙅𝙐𝘼𝙉𝙅𝙊 𝙈𝙊𝙉𝙅𝙀
+    bio: >-
+      Travel - Lifestyle - Fashion - Fitness | Content Creator 📩 infojuanjomonje@gmail.com 📍Barcelona, Spain
+    location: "Spain"
+    followers: 83436
+    engagement: 385
+    commentsToLikes: 0.096040
+    id: ck8t8zk7jmelj0j788oe1hj9f
+    verified: false
+    hashtags: "#barcelonatips, #barcelonaguide, #madrid, #barcelona"
   - username: "sergi_miro"
     fullname: >-
       𝗦𝗘𝗥𝗚𝗜 𝗠𝗜𝗥𝗢́
@@ -18,7 +42,31 @@ profiles:
     commentsToLikes: 0.014298
     id: ck5c9b794b4i90i11y7et16z6
     verified: false
-    hashtags: "#hoscos, #gym, #beardedmen, #exultis"
+    hashtags: "#hunk, #beardedselfie, #beardisus, #workout"
+  - username: "alexis_zafiro"
+    fullname: >-
+      Alexis ♒️
+    bio: >-
+      🏠Real Estate 📍Barcelona 🗣🇫🇷🇪🇸🇬🇧🇵🇹🇮🇹
+    location: "Spain"
+    followers: 101301
+    engagement: 494
+    commentsToLikes: 0.013002
+    id: ckaovxscv6jqd0i786d59eu3z
+    verified: false
+    hashtags: "#beardedmen, #hairstyle, #men, #swimsuit"
+  - username: "flaaviiioo"
+    fullname: >-
+      FLAVIO ROLLO MIÑANA
+    bio: >-
+      🪩 VIP CONCIERGE BARCELONA IBIZA 💎Owner @enjoytheride.official 🍕@alfredo.bcn 🎙️Founder @nightprojectpodcast 📍Barcelona 🇪🇸 Ibiza 🇪🇸 Roma 🇮🇹
+    location: "Spain"
+    followers: 14661
+    engagement: 163
+    commentsToLikes: 0.035077
+    id: clpovxxyq5obg0k08fn527zp0
+    verified: false
+    hashtags: "#style, #barcelona, #instatagapp, #colorful"
   - username: "brianbarber_"
     fullname: >-
       βrιαη Pεrεz Qυιrσs ✪
@@ -79,52 +127,4 @@ profiles:
     id: ckaovbm103vcs0i78cs9rq3ja
     verified: false
     hashtags: "#barbershop, #haircuts, #wahl, #fashion"
-  - username: "eldeletrista"
-    fullname: >-
-      El Deletrista
-    bio: >-
-      🔥 Sign painting & lettering services 🌍 Based in sunny Barcelona • Available worldwide 📩 el@deletrista.es
-    location: "Spain"
-    followers: 17700
-    engagement: 564
-    commentsToLikes: 0.052142
-    id: ck5q9ggeib0930i11lmhrf3iy
-    verified: false
-    hashtags: "#interiordesign, #barbershop, #handwritten, #signs"
-  - username: "dalmauvives"
-    fullname: >-
-      Dalmau Vives  bARTcelona
-    bio: >-
-      All pictures taken by me with my iPhone. 🚶🏻Art🚶🏻Streetart🚶🏻Travel🚶🏻Culture🚶🏻Architecture🚶🏻Advertising🚶🏻Lifestyle🚶🏻Nature🚶🏻Barcelona 🚶🏻‍♀️🚶🏻
-    location: "Spain"
-    followers: 2650
-    engagement: 1108
-    commentsToLikes: 0.056065
-    id: ck8t5b8729hr20j78aezg5zkw
-    verified: false
-    hashtags: "#graffitiporn, #streetphotography, #architects, #graffitiworld"
-  - username: "filip_gavenda"
-    fullname: >-
-      Filip Gavenda
-    bio: >-
-      📍Roeselare, Belgium Professional volleyball player @knackvolleyroeselare 🇧🇪 Ambassador - @begentleman.sk Slovak national team 🇸🇰 #slovakvolleyball
-    location: "Spain"
-    followers: 3241
-    engagement: 1898
-    commentsToLikes: 0.022873
-    id: ck9hcfa9hl40u0j78w8u4yxga
-    verified: false
-    hashtags: "#ootd, #art, #man, #motivation"
-  - username: "sifercypher"
-    fullname: >-
-      SIFER
-    bio: >-
-      • Popping Dancer | Dance Teacher | Music ❤️ • Calima Team | Men Of Steel👤 • Canarias | Madrid | Spain📍 @sifercypherformacion 📚
-    location: "Spain"
-    followers: 4200
-    engagement: 2034
-    commentsToLikes: 0.139572
-    id: ck55l71fk0wq70i11s77bh8cx
-    verified: false
-    hashtags: "#winner, #popping, #event, #canaryislands"
 ---

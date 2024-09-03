@@ -1,36 +1,72 @@
 ---
-title: Top 10 Vegan Instagram Influencers In Austria In 2023
+title: Top 10 Vegan Instagram Influencers In Austria In 2024
 description: >-
-  Find top vegan Instagram influencers in Austria in 2023. Most popular hashtags: #vegan #veganfood #plantbased #veggie.
+  Find top vegan Instagram influencers in Austria in 2024. Most popular hashtags: #vegan #veganfood #veganrecipes #plantbased.
 platform: Instagram
-hits: 27
-text_top: See the most popular Instagram profiles on inBeat.
-text_bottom: Our platform aggregates 27 Instagram influencers like this in Austria for you to pitch.
+hits: 36
+text_top: Discover the most popular Instagram accounts on inBeat.
+text_bottom: Our search engine aggregates 36 Instagram influencers like this in Austria for you to work with.
 profiles:
-  - username: "paul_unterleitner"
+  - username: "kerstinbrueller"
     fullname: >-
-      PAUL UNTERLEITNER | 🇦🇹 OAK 2.0
+      Kerstin Brueller Ⓥ | Animal Activist
     bio: >-
-      Berlin/Vienna, 23 y/o 🔹Natural Pro Bodybuilder - Vegan 🌱 🔸#TEAMROCKA (Code: PAUL) 🔹Road to IFBB PRO🔥 🔸Training since 2015 🔹Youtuber 🔸192cm, 108kg
+      ✽ Animal Rights & Liberation Activism ✽ Education About Violence Against Animals ✽ Graphic Design @tin.eller | xvx ✽ Vegan Shop @ruleofnines_cltv
     location: "Austria"
-    followers: 453370
-    engagement: 414
-    commentsToLikes: 0.005670
-    id: ck0vyg7xx3tuz0i19oon15579
+    followers: 8179
+    engagement: 424
+    commentsToLikes: 0.105169
+    id: ck14kslhfr3x30i19wh9uymsw
     verified: false
-    hashtags: "#teamrocka, #tabacwildride, #tabacfragrances"
-  - username: "rebeccachelbea"
+    hashtags: ""
+  - username: "veganfindsaustria"
     fullname: >-
-      Rebecca Chelbea
+      veganfindsaustria
     bio: >-
-      I normalize normal things. ▷ selflove, selfworth & boundaries ▷sustainable | vegan | mindful ▷she/her ⚲ living in a 🚗 for a month YouTube ↡
+      🇦🇹 Vegane Fundstücke in Österreich 💚 Produkte, Restaurants & mehr 📍 Zuhause in Wien Kooperationen & Consulting ⬇️ 📩 veganfindsaustria@outlook.at
     location: "Austria"
-    followers: 94530
-    engagement: 745
-    commentsToLikes: 0.016188
-    id: ck6tu7briepxl0j719z690fyo
+    followers: 40039
+    engagement: 257
+    commentsToLikes: 0.042107
+    id: ck5hp3uu5qplv0i115ywwk6bo
     verified: false
-    hashtags: "#vienna, #igersaustria, #selfacceptance, #carlife"
+    hashtags: "#veganleben, #veganbeidm, #veganbeim, #veganin"
+  - username: "betti_licious"
+    fullname: >-
+      Bettina Ganglberger | healthy recipes | start-up life 🙋‍♀️
+    bio: >-
+      🇦🇹Graz | Austria ✨Foodblogger | vegan, veggie & sugarfree 🚀 Head of bettilicious: vegan & sugarfree snacks 💌Contact: hallo@betti-licious.at
+    location: "Austria"
+    followers: 38645
+    engagement: 182
+    commentsToLikes: 0.232087
+    id: ck8syaoc1kak70j78je5k6lp7
+    verified: false
+    hashtags: "#ohnezuckerzusatz, #snackingislife, #vegansnacking, #steiermark"
+  - username: "missevalutz"
+    fullname: >-
+      Eva
+    bio: >-
+      loves fitness, movies, music & vegan food 🌱 ♓️ ✨🤍🧿📍Austria, Linz 📚⚖️👩‍💻 lawyer assistant
+    location: "Austria"
+    followers: 83400
+    engagement: 61
+    commentsToLikes: 0.109531
+    id: ck6tzasl38m4l0j71s1at1ngz
+    verified: false
+    hashtags: "#eyes, #garden, #curves, #beach"
+  - username: "martinsmahel"
+    fullname: >-
+      Martin Šmahel
+    bio: >-
+      •🧽 CLEANCLEAN.SK tepovanie •👫 ♥️ Bea = Lily&Mia&Ema 👱🏼‍♀️👧🏼👶🏼 •💯%natural🇸🇰body •🏐 volleyball&💪fitness🪂 •🏍 Yamaha FJR •🧍‍♂️191cm 91kg 41yo •🌱fit #vegan
+    location: "Austria"
+    followers: 47569
+    engagement: 51
+    commentsToLikes: 0.023100
+    id: ck0w5kf9l42u10i19ht8nudf4
+    verified: false
+    hashtags: "#veganathlete, #motivation, #plantbased, #vegan"
   - username: "melanie.zehner"
     fullname: >-
       Model | Stylist
@@ -42,7 +78,7 @@ profiles:
     commentsToLikes: 0.101776
     id: ck14kfzsypc600i194gkksqo4
     verified: false
-    hashtags: "#fashion, #swissmodel, #fashionweek, #influencermarketing"
+    hashtags: "#mallorcalifestyle, #portraitphotography, #modelsearch, #instagood"
   - username: "addictedtopeas"
     fullname: >-
       ed recovery ✨vegan 🌿 kathy
@@ -55,18 +91,6 @@ profiles:
     id: ck9weyzqhmici0j784u0hwgqx
     verified: false
     hashtags: "#anorexiafighter, #eatingdisorderrecovery, #vegangermany, #veganstudent"
-  - username: "martinsmahel"
-    fullname: >-
-      Martin Šmahel
-    bio: >-
-      •🗣Event moderator, TV host🎙 •🔥💯%natural body 🇸🇰 •👫 loving father 👧🏼👱🏼‍♀️👶🏼 •🏐 volleyball&💪fitness •🧍‍♂️191cm 90kg 38yo •🌱#vegan athlete🌱 (-Jan. 2019)
-    location: "Austria"
-    followers: 36250
-    engagement: 155
-    commentsToLikes: 0.023404
-    id: ck0w5kf9l42u10i19ht8nudf4
-    verified: false
-    hashtags: "#veganfitness, #plantstrong, #plantbasedathlete, #streetworkout"
   - username: "tinera_at"
     fullname: >-
       Tina | Gesundheit & Ernährung
@@ -90,41 +114,17 @@ profiles:
     commentsToLikes: 0.035608
     id: ck5q6g04fx9580i11xha2pz5w
     verified: false
-    hashtags: "#instachef, #vegancheddar, #chefsexcellentplates, #veglife"
-  - username: "majahairlahovic"
+    hashtags: "#vegancheeseplatter, #chefsexcellentplates, #chefstalk, #veganpatisserie"
+  - username: "hank_ge"
     fullname: >-
-      Maja Hairlahovic
+      HANK GE / Vegan Recipes
     bio: >-
-      
+      📍Vienna/ Berlin/ LA 🌱veggie👨‍🍳/🦁 My Brands @bali_curls 🥥@bali_brunch 🍹@fitzcarraldo_bar 🍕 @wolke.vienna 🕺@wildsky_shop 📽️ @bfrndmaterial
     location: "Austria"
-    followers: 7421
-    engagement: 1726
-    commentsToLikes: 0.017971
-    id: ck8t2uwtu0skm0j78f1ha8ex9
+    followers: 402645
+    engagement: 203
+    commentsToLikes: 0.010671
+    id: ck0tym4oxn80x0i194wpl73kr
     verified: false
-    hashtags: "#nature, #graz, #endurogirl, #ktm"
-  - username: "nono_licious"
-    fullname: >-
-      • Nora | Food & Fun •
-    bio: >-
-      Delicious recipes - served with a pinch of sarcasm on the side. Food Styling | Food Photography | Content Creation 📍 Vienna 📫 office@nonolicious.com
-    location: "Austria"
-    followers: 6768
-    engagement: 570
-    commentsToLikes: 0.099788
-    id: ck134pzykxn5c0i19osx6zpz4
-    verified: false
-    hashtags: "#foodie, #dabinichmirsicher, #vegan, #foodblogliebe"
-  - username: "ni.n.a.nu"
-    fullname: >-
-      Nina
-    bio: >-
-      Vienna | Styria | 🇦🇹 Jun. AD | Webdesign | Photography | ich einfach neugierig 🐰🍏
-    location: "Austria"
-    followers: 3883
-    engagement: 1480
-    commentsToLikes: 0.101795
-    id: ckf5sknxqfpm50j2379wmlw1j
-    verified: false
-    hashtags: "#austrianmountaingirls, #dronestagram, #visitvienna, #snow"
+    hashtags: "#veganlife, #vegandinner, #veganrecipe, #rezeptideen"
 ---

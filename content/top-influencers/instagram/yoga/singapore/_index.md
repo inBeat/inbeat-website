@@ -1,72 +1,72 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Singapore In 2023
+title: Top 10 Yoga Instagram Influencers In Singapore In 2024
 description: >-
-  Find top yoga Instagram influencers in Singapore in 2023. Most popular hashtags: #yoga #yogajourney #yogaeverydamnday #yogapractice.
+  Find top yoga Instagram influencers in Singapore in 2024. Most popular hashtags: #yoga #yogagram #yogapractice #yogaeverydamnday.
 platform: Instagram
-hits: 11
-text_top: Discover the most popular Instagram accounts on inBeat.
-text_bottom: Our search engine holds 11 Instagram influencers like this in Singapore for you to collaborate.
+hits: 17
+text_top: Identify the most popular Instagram profiles on inBeat.
+text_bottom: Our platform aggregates 17 Instagram influencers like this in Singapore for you to connect with.
 profiles:
-  - username: "roxannegan_"
+  - username: "evonnz"
     fullname: >-
-      ROXANNE GAN
+      Evonne ★
     bio: >-
-      🇸🇬 Certified Yoga Instructor & PT 📩 hello@roxannegan.com 🎥 YouTube: Roxanne Gan Purchase my Yoga eBook (60 tutorials) 👇🏻
+      Design, PR & Marketing | Aesthetic concierge 💉 🐚 🌊🐰 Follow for updates on beauty, skincare, aesthetic procedures, diving, bunnies, yoga & good food!
     location: "Singapore"
-    followers: 126481
-    engagement: 131
-    commentsToLikes: 0.012749
-    id: ck0vxnqw9zteb0i190sr9gudl
+    followers: 35434
+    engagement: 227
+    commentsToLikes: 0.024063
+    id: ck5q78j7p0eg90i11uml1hz79
     verified: false
-    hashtags: "#pregnancy, #yogajourney, #motherhood, #bumplife"
+    hashtags: "#fujifilmx100vi, #fujifilmsg, #evonnzinjapan, #jeju"
   - username: "supermyca"
     fullname: >-
       SuperMyca
     bio: >-
-      Certified Yoga Teacher Certified Active Lifestyle Motivation Coach @camphealthstyle Discount Codes, Classes and Links👇🏼
+      📍🇸🇬 Yoga | Lifestyle | Fashion
     location: "Singapore"
-    followers: 24016
-    engagement: 184
-    commentsToLikes: 0.077999
+    followers: 26201
+    engagement: 127
+    commentsToLikes: 0.091625
     id: ck6tihorg0qjy0j71x6pj9bke
     verified: false
-    hashtags: "#yogaeverywhere, #thelunaryogis, #igyoga, #yogawithprops"
-  - username: "jyanyoga"
+    hashtags: "#yogaeverydamnday, #namaste, #yogaforhealth, #hipsheatingup"
+  - username: "roxannegan_"
     fullname: >-
-      jyan • jiamin yang
+      ROXANNE GAN
     bio: >-
-      🐒 acro • yoga • dance 🧘🏻‍♀️founder of @jyanyogastudio 💌 jyan.yoga@gmail.com
+      Pre & Post Natal Training/ Yoga hello@roxannegan.com Get your Yoga ebook here ⬇️
     location: "Singapore"
-    followers: 20809
-    engagement: 361
-    commentsToLikes: 0.030261
-    id: ck0vvnusjpyco0i19dezc6waf
+    followers: 126363
+    engagement: 9
+    commentsToLikes: 0.000198
+    id: ck0vxnqw9zteb0i190sr9gudl
     verified: false
-    hashtags: "#madeinjapan, #zeroleakage, #healthiswealth, #sp"
-  - username: "denisekellerofficial"
+    hashtags: "#yogagram, #foxyroxyyoga, #practiceandalliscoming, #enfagrowsingapore"
+  - username: "naomiyhs"
     fullname: >-
-      SgLifestyle Fashion Wellness
+      nayo (杨)
     bio: >-
-      🇸🇬🇩🇪 Discovery Channel Travel Producer/Presenter MTV VJ & Celebrity Yoga Instructor Manduka Ambassador Polar Ambassador
+      🪷 •sic parvis magna• yoga | host-presenter | voiceover artist | actor manager @clickonabby
     location: "Singapore"
-    followers: 64245
-    engagement: 283
-    commentsToLikes: 0.030840
-    id: ck0w5so1j58yz0i190lkimec3
-    verified: true
-    hashtags: "#singaporestyle, #yogaeverydamnday, #yogafam, #singaporeans"
-  - username: "dianaohy"
-    fullname: >-
-      𝔻𝕀𝔸ℕ𝔸 | 𝐭𝐫𝐚𝐯𝐞𝐥 & 𝐟𝐚𝐬𝐡𝐢𝐨𝐧 🌼
-    bio: >-
-      🕊 my | sg 🍒 adventures at #dohyxjb🇲🇾 🌸 preloved at @daintydolce 🧚🏻‍♀️ aerial yoga at @aerialwithdianaohy 🍃 read about my travels here —
-    location: "Singapore"
-    followers: 37847
-    engagement: 182
-    commentsToLikes: 0.017443
-    id: ck5q811fq3zbd0i11p1y7ld5k
+    followers: 69212
+    engagement: 5
+    commentsToLikes: 0.002207
+    id: ck5ho65lyp0ai0i113xx0keq0
     verified: false
-    hashtags: "#dohyintcl, #dohyinohvola, #dohyxjb, #dohyxtiffsnail"
+    hashtags: "#mycalvins, #tommyfamily, #shilladutyfreesg, #andotherstories"
+  - username: "melicacy"
+    fullname: >-
+      Melissa E. K.
+    bio: >-
+      ✨🍴🥂✈️ fine food, fitness, and travel 🏋️‍♀️ @truefitness.sg @tfx.fitness @yogaedition.sg 💆‍♀️ @93lashlounge
+    location: "Singapore"
+    followers: 45066
+    engagement: 7
+    commentsToLikes: 0.003486
+    id: clmumxdtyl8230j08icmf6mer
+    verified: false
+    hashtags: "#carltonexplores, #holibrunch, #fourseasons, #staycation"
   - username: "1.228"
     fullname: >-
       Leong.Jerry
@@ -79,6 +79,18 @@ profiles:
     id: ck6uc6pbmdu6g0j71tmpykdfw
     verified: false
     hashtags: "#yogadaily, #yogalover, #yogaeverywhere, #yogaphotography"
+  - username: "mandithezebra"
+    fullname: >-
+      Mandi Cheung
+    bio: >-
+      Travel | Fitness | Wellness | Mental Health 💚Founder: @thehushretreats 💪🏼Instructor: @r10t.sg @jyanyogastudio
+    location: "Singapore"
+    followers: 12153
+    engagement: 208
+    commentsToLikes: 0.085222
+    id: clm70asdwgm4s0j0896c9n4si
+    verified: false
+    hashtags: "#sgfitness, #fitness, #sp, #newyear"
   - username: "itsmecarlad"
     fullname: >-
       Carla Dunareanu
@@ -91,40 +103,28 @@ profiles:
     id: ck6u6fvskfdad0j713kyrlqud
     verified: true
     hashtags: "#yogamovement, #nike, #kinch5, #ymfam"
-  - username: "seowie"
+  - username: "kanjanii"
     fullname: >-
-      Shaun Michael Seow
+      ん
     bio: >-
-      🇸🇬🇳🇱🏃‍♂️🏋🏼‍♂️ Hybrid Athlete: Run, Lift, Jump 📈 Finance, Trader, DeFi, eComm 📸 Commercial Model 📚 BBA @sgsmu ⬇️ Website/Email for Business
+      only here for a minute 🪬 working on @harshitakanjani 📩 for work
     location: "Singapore"
-    followers: 78971
-    engagement: 61
-    commentsToLikes: 0.009876
-    id: ck8tawy18texb0j783l3vrpsc
+    followers: 10678
+    engagement: 501
+    commentsToLikes: 0.042827
+    id: ck6tr8z57xmek0j71jgpndydk
     verified: false
-    hashtags: "#health, #gym, #fitness, #diet"
-  - username: "aylna"
+    hashtags: "#fitspo, #trendingreels, #beachbum, #goaaesthetics"
+  - username: "j.jaikishan"
     fullname: >-
-      A Y L N A N E O
+      KISHAN
     bio: >-
-      👋🏻안녕| (• ◡•)⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀ ⠀ ⠀ ✉️ Email: AYLNANEO@OUTLOOK.SG ⠀⠀⠀⠀⠀⠀ ⠀ 🌈My baby: @theayl.co ✨#MLBB COLLECTION AVAILABLE NOW👇🏻
+      Behaving in “unpredictable fashion” and 🤪 - Chaos Theory Actor | Host | Dinosaur For more 👇🏽
     location: "Singapore"
-    followers: 122119
-    engagement: 78
-    commentsToLikes: 0.018364
-    id: ck6uc32o5d7q50j711pxlnqp3
+    followers: 23497
+    engagement: 258
+    commentsToLikes: 0.036215
+    id: ck5zvecq142pk0i14zltcvb66
     verified: false
-    hashtags: "#shopeesg1212, #shopeesgbirthdaysale, #sp, #koreabrand"
-  - username: "briebenfell"
-    fullname: >-
-      Brie
-    bio: >-
-      📍 🇸🇬 Mama & Wife • Actress • Model 💌 Bookings@19sixtyfive.com.sg 🎙 Host: @makingofmotherhood 🧘🏼‍♀️ Founder: @brie_fit 🤱🏼 Ambassador: @motherswork
-    location: "Singapore"
-    followers: 16000
-    engagement: 374
-    commentsToLikes: 0.033655
-    id: ck8sy96m0k5u20j78gm9bmlw4
-    verified: false
-    hashtags: "#playtogether, #fullertonmemories, #staycation, #shotoniphone12"
+    hashtags: "#sennheiser, #themoreyouknow, #sgmoji, #mammoth"
 ---

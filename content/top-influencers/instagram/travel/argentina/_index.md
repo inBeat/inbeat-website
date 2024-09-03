@@ -1,130 +1,130 @@
 ---
-title: Top 10 Travel Instagram Influencers In Argentina In 2023
+title: Top 10 Travel Instagram Influencers In Argentina In 2024
 description: >-
-  Find top travel Instagram influencers in Argentina in 2023. Most popular hashtags: #travel #travelphotography #travelblogger #spain.
+  Find top travel Instagram influencers in Argentina in 2024. Most popular hashtags: #argentina #travel #travelblogger.
 platform: Instagram
-hits: 515
-text_top: See the best Instagram profiles on inBeat.
-text_bottom: Our search engine has 515 Instagram influencers like this in Argentina for you to collaborate.
+hits: 528
+text_top: Discover the best Instagram profiles on inBeat.
+text_bottom: inBeat holds 528 Instagram influencers like this in Argentina for you to connect with.
 profiles:
-  - username: "franchubavio"
+  - username: "m.j.fotografia"
     fullname: >-
-      Pancha Bavio
+      Manu & Joaco ® 🌈
     bio: >-
-      Argentina y del 🌍 Fashion & travel blogger Abogada Mis presets🔻
+      ➵ ɢᴇᴍᴇʟᴏs ᴅᴏᴄᴜᴍᴇɴᴛᴀɴᴅᴏ ᴇxᴘᴇʀɪᴇɴᴄɪᴀs ᴀ ᴛʀᴀᴠᴇs ᴅᴇʟ ᴀʀᴛᴇ ➵ Travel, Commercial & Film Photographers Cursos online @fotix.ar
     location: "Argentina"
-    followers: 156731
-    engagement: 291
-    commentsToLikes: 0.019272
-    id: ck0w305eeqywk0i19fv88xz2p
+    followers: 119821
+    engagement: 1771
+    commentsToLikes: 0.013448
+    id: ck6ty9ccb2ec80j71vzra2kaw
     verified: false
-    hashtags: "#palermoba, #palermo, #blogger, #fashion"
-  - username: "viajandoconvero_"
+    hashtags: "#argentina, #bariloche, #mamiya, #120"
+  - username: "tallerdecalu"
     fullname: >-
-      Veronica Weffer
+      Rocío Blanco
     bio: >-
-      Travel Blogger -Asesoría de Viajes, Tips e Información🗺 -Venta de Pasajes Aéreos✈️ -Paquetes a Los Roques🏖 Cuenta oficial @veronicaweffer YouTube👇
+      art | watercolours | travel ✨ tiktok +490k: @tallerdecalu
     location: "Argentina"
-    followers: 92421
-    engagement: 897
-    commentsToLikes: 0.028286
-    id: ck5hoii5hpmk50i11mr22tgt8
+    followers: 117728
+    engagement: 1409
+    commentsToLikes: 0.060214
+    id: ckap4oo1p86w20i78qdshos76
     verified: false
-    hashtags: "#party, #youtuber, #playa, #travel"
-  - username: "_coto22"
+    hashtags: "#asmr, #acuarelabotanica, #watercolour, #watercolorpainting"
+  - username: "tatiperez"
     fullname: >-
-      Erasmo Escobar
+      Tati Makeup
     bio: >-
-      - buena vida❤️ -SOÑADOR🌹⏳❤️ -TRAVEL🌃 -NUNCA AVANDONES UNA META🍹💥
+      Hair & Makeup Services Owner at @tatimakeupstudio Makeup Classes Beauty, fashion, traveling tips, DIYS, Cooking, Parenting and single momming 🤍
     location: "Argentina"
-    followers: 14056
-    engagement: 772
-    commentsToLikes: 0.117630
-    id: ck8tdjdcn3jrq0j782srzt3oe
+    followers: 175717
+    engagement: 279
+    commentsToLikes: 0.041520
+    id: ck5ccbnvvh2nx0i11u62wh5wo
     verified: false
-    hashtags: ""
-  - username: "alejoexplora"
+    hashtags: "#feriadesevilla, #bobatea, #estoymamada, #shameless"
+  - username: "thechaosdiaries"
     fullname: >-
-      A L E J A N D R O   C A M P O
+      Alicia Cooper
     bio: >-
-      Foodie traveler 👨🏼‍🍳 🌎 Pereira - Colombia📍. A bocados por el mundo ✈️🍔🍝🍢🍙🍷🍻 Pregunta por mi Taller de fotografía 📷🎥🎞 Congelando historias 📸📽
+      🧚‍♀️ UK travel blogger & photographer 🍃 Itineraries, travel tips and magical places 💌 alicia@thechaosdiaries.com ↓ Check out my travel guides ↓
     location: "Argentina"
-    followers: 11677
-    engagement: 754
-    commentsToLikes: 0.106938
-    id: ckaor73zfm0810i78tw8f1n2l
+    followers: 293895
+    engagement: 134
+    commentsToLikes: 0.044873
+    id: cled1hfw4r3xq0j088lxt9ya0
     verified: false
-    hashtags: "#travelgram, #fotografo, #bogota, #landscapephotography"
-  - username: "travel.food.myworld"
+    hashtags: "#mexico, #darlingescape, #bayofkotor, #discovertheglobe"
+  - username: "tricocoblog"
     fullname: >-
-      ᴛʀᴀᴠᴇʟ ғᴏᴏᴅ ᴍʏ ᴡᴏʀʟᴅ
+      Somos Sofi Ganuza y Belu Deluca
     bio: >-
-      • 🙋‍♀️✈🧳🍝🌍 • ✈ ᴛɪᴘs ᴅᴇ ᴠɪᴀᴊᴇs • 📸 ᴍɪs ғᴏᴛᴏs sɪɴ ғɪʟᴛʀᴏ • 👩‍💻 ᴛʀᴀᴠᴇʟ ᴘʟᴀɴɴᴇʀ • #travelphotography #travelblogger
+      | Fashion & Travel | 👠💄✈️ | Lic Comunicación social |🎓 <Our brand: @oreko.eyewear 😎> |Más de nosotras en TikTok|
     location: "Argentina"
-    followers: 5331
-    engagement: 889
-    commentsToLikes: 0.152056
-    id: ck0w4kyy2z3cj0i19iye67724
+    followers: 160908
+    engagement: 213
+    commentsToLikes: 0.016224
+    id: ck14hd6xd9qb20i19bduhr7t2
     verified: false
-    hashtags: "#waltdisney, #voyager, #disneyworld, #spain"
-  - username: "melissajnaizzir"
+    hashtags: "#argentina, #barcelona, #look, #travel"
+  - username: "sohotsomealex"
     fullname: >-
-      𝗠𝗲𝗹𝗶𝘀𝘀𝗮 𝗝𝗶𝗺𝗲𝗻𝗲𝘇 𝗡𝗮𝗶𝘇𝘇𝗶𝗿
+      ALEXA CAROLINA
     bio: >-
-      Food|Travel|Livestyle “Nacimos para ser reales no perfectos” 🧿🍽✈️ 📍Colombia
+      📍🇵🇦 & 🇬🇧 RARA! Fashion & Travel Writer, TV Host, Senior Editor @panoramadelasamericas, @cheveningfcdo 21/22 alumni @condenastcollegelondon.
     location: "Argentina"
-    followers: 2293
-    engagement: 1523
-    commentsToLikes: 0.120572
-    id: ckaossnyoswxp0i78vdogv00t
-    verified: false
-    hashtags: "#postres, #postressaludables, #covid, #longhairdocare"
-  - username: "tonydonald"
+    followers: 398467
+    engagement: 91
+    commentsToLikes: 0.020569
+    id: ck5cenorclckt0i11vq1a1z03
+    verified: true
+    hashtags: "#skincare, #pelopantene, #batterseapowerstation, #heinekensilver"
+  - username: "srita_mendez"
     fullname: >-
-      Tony Donald
+      Srita Méndez
     bio: >-
-      Bioquímico🔬 Máster en med. regenerativa👨🏻‍⚕️ Instagramer 📸 Traveller🌍 Storyteller📝Creativo💡Desasastre 💣 Y AHORA TAMBIÉN STREAMER 📍Madrid #KeeperSquad
+      🌍Travel Blogger | Travel Advisor 🗺64 countries ✈️Journeying the World 📍Dubai 💼Expert in Visas & Travel Tips 📧Collabs: sritamendez.pr@gmail.com
     location: "Argentina"
-    followers: 27042
-    engagement: 873
-    commentsToLikes: 0.024642
-    id: ck5ztv9u116tk0i14sy1acv54
+    followers: 50834
+    engagement: 52
+    commentsToLikes: 0.012882
+    id: ck8t5wnkvbhnz0j78nzoluike
     verified: false
-    hashtags: "#lgwing, #daleungiro, #pollopollo, #ad"
-  - username: "la_petite_biere"
+    hashtags: "#citycheckin, #googlemaps, #sunscapecuracao, #disneycelebration"
+  - username: "levoyage_blog"
     fullname: >-
-      Émilie Leclerc
+      Vânia Rothen
     bio: >-
-      Beer🍺+Food🍕+travel✈️+vintage +acting 📍: MTL ✉️: el.petite.biere@gmail.com @cicerone BS Actrice: Agence Bridget Dechene #lapetitebiere #NEIPAmonster
+      Fashion Enthusiast / Eat- Girl Beauty & Lifestyle / Travel Lover Made in Brazil 🇧🇷 /📍Based in Buenos Aires 🇦🇷 📩 vgrothen@hotmail.com
     location: "Argentina"
-    followers: 40746
-    engagement: 448
-    commentsToLikes: 0.035488
-    id: ckaotj129w4f00i78yys0458s
+    followers: 147258
+    engagement: 35
+    commentsToLikes: 0.034987
+    id: ck6tmt35e8hd20j71k9ttqldx
     verified: false
-    hashtags: "#neipamonster, #neipa, #boirelocal, #4origines"
-  - username: "angelescortina"
+    hashtags: "#nightouttfit, #buenosairescity, #lookdujour, #streetstylefashion"
+  - username: "melalcalde"
     fullname: >-
-      Ángeles Cortina🍉 🔅PERIODISTA🔅
+      José-Manuel Alcalde
     bio: >-
-      👩🏻‍🌾 #Reportera en @aquilatierra 📺 @tve_es 🎥#Tv #Journalist 🐣#Huesca & #Soria - 🏕 #Madrid 💚 #Nature 🌍 - #PastaLover 🍝 🤸🏽‍♀️ #Travel ❄️ #Friolera
+      ▪️ Travel Life 🗺 📍Thailand 🇹🇭 ▪️ Contact: melalcalde@gmail.com
     location: "Argentina"
-    followers: 8298
-    engagement: 1282
-    commentsToLikes: 0.082048
-    id: ck5c122huuaxj0i11zgxikx8z
-    verified: false
-    hashtags: "#happy, #naturelovers, #trip, #picoftheday"
-  - username: "sweet_home_anywhere"
+    followers: 394887
+    engagement: 10
+    commentsToLikes: 0.003878
+    id: ck55mly2j492k0i11g385ysex
+    verified: true
+    hashtags: "#ad, #travel, #explorebali, #saveinstyle"
+  - username: "noferstyle"
     fullname: >-
-      Sweet Home Anywhere
+      Nando Nora Escribens
     bio: >-
-      Carla & Pedro Base de operaciones en Granada 👫🐶 🗺Travelholics🗺 🥙 Foodies 🥘 🌎Soñando con nuestro próximo destino!🙌🏻✈️ 🔜 ¿?
+      I’m not getting older, I’m just getting golder Lifestyle | Travel | Food | Fashion Tik Tok +50k 🛍 @shop_noferstyle 🏷 @nofer_closet
     location: "Argentina"
-    followers: 2153
-    engagement: 1397
-    commentsToLikes: 0.121692
-    id: ck6ufkx7rxo7x0j71utbfxodu
+    followers: 32400
+    engagement: 1
+    commentsToLikes: 0.000000
+    id: ckaoyxzq3jiw80i786cbrkdsu
     verified: false
-    hashtags: "#barcelona, #traveladdict, #cyclades, #beautifuldestinations"
+    hashtags: "#argentina, #travel, #demasiadorecomendable, #buenosaires"
 ---

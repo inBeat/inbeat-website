@@ -1,24 +1,12 @@
 ---
-title: Top 10 Djs Instagram Influencers In Indonesia In 2023
+title: Top 10 Djs Instagram Influencers In Indonesia In 2024
 description: >-
-  Find top djs Instagram influencers in Indonesia in 2023. Most popular hashtags: #djstorywa #storywakeren #dj30detik.
+  Find top djs Instagram influencers in Indonesia in 2024. Most popular hashtags: #djstorywa #likeforlikes #tiktok.
 platform: Instagram
-hits: 87
-text_top: Analyze the best Instagram profiles on inBeat.
-text_bottom: inBeat holds 87 Instagram influencers like this in Indonesia for you to connect with.
+hits: 91
+text_top: See the best Instagram influencers on inBeat.
+text_bottom: Our platform aggregates 91 Instagram influencers like this in Indonesia for you to connect with.
 profiles:
-  - username: "bayusaptaji"
-    fullname: >-
-      Bambang Bayu Saptaji
-    bio: >-
-      Part of team @ortuseight athlete @pocarisportid Ambassador @topscoresport & @djsportapparel Kawan @ayo.indonesia 📞+82114211788 @ismipricilla
-    location: "Indonesia"
-    followers: 841697
-    engagement: 566
-    commentsToLikes: 0.029455
-    id: ck13683gv57ff0i19bxdoynws
-    verified: true
-    hashtags: "#aplikasibola, #ayoindonesia, #avoiceforamateurs, #aplikasiayo"
   - username: "dj.sakuraaa"
     fullname: >-
       🌸 SAKURA | 苏樱花🌸
@@ -59,11 +47,11 @@ profiles:
     fullname: >-
       DUUDAA
     bio: >-
-      We are DUUDAA 🎧 DJ Sisters from Amsterdam 🎧 DJ ACT: Sing, Rap, Piano, MC & Dance 🎧 Music: RnB, HipHop, Moomba, House & EDM 🎧
+      🔹Jamie 🔷Singer 🔷DJ 🔷 Amsterdam 🔹
     location: "Indonesia"
-    followers: 35608
-    engagement: 484
-    commentsToLikes: 0.049414
+    followers: 32718
+    engagement: 423
+    commentsToLikes: 0.047863
     id: ck5c1v47zvzhu0i11z2ukayfl
     verified: false
     hashtags: ""
@@ -79,18 +67,30 @@ profiles:
     id: ckaorjagfnhgc0i78vh18tjv9
     verified: false
     hashtags: "#daratlaut, #pejuangldr, #ldrpelaut, #tlp24jam"
-  - username: "djsiskaeenya2"
+  - username: "andinii_ang99"
     fullname: >-
-      DJ SISKAEENYA2
+      𝕬  𝖓  𝖌
     bio: >-
-      ♀️JAVANESE 📩 PP ENDORSE DM ME 🦄 @adiitioo 🎧 JOB DJ(ONLY)HUB@djavumanagement (081333020789) 🔞 @wotofo_indonesia 🔞 @jutajuice.id 🔞 @dailyjuiceindonesia
+      • 𝕱𝖆𝖗𝖗𝖊𝖑🖤🤵🏻 • 𝖘𝖆𝖋𝖎𝐘𝖆𝖍 𝕬𝖋𝖗𝖎𝖟𝖆👶🏻 • 𝖀𝖎𝖗𝖌𝖔 𝟎𝟗𝟗 • 𝖕𝖕 𝕰𝖓𝖉𝖔𝖗𝖘 𝕯𝕸
     location: "Indonesia"
-    followers: 90389
-    engagement: 146
-    commentsToLikes: 0.020417
-    id: ck5zwa1ta5ret0i14ecc9sas7
+    followers: 41283
+    engagement: 418
+    commentsToLikes: 0.015905
+    id: ck8t7mlkehcjl0j78zdgy78k5
     verified: false
-    hashtags: "#furlagoldbatch, #dailyjuiceindonesia, #asignofsuccess, #jutajuice"
+    hashtags: "#likesforlike, #anakhits, #anakhitskekinian, #lfl"
+  - username: "ully_frank"
+    fullname: >-
+      djullyfrank
+    bio: >-
+      🎧 Disc jockey ( DJ ) 💃 Modeling, Presenting, Acting 📽 🎬 @frank_collection99 @popular_multitalenta 📍 JKT
+    location: "Indonesia"
+    followers: 52049
+    engagement: 53
+    commentsToLikes: 0.029725
+    id: ck5zis6zhga1e0i14wttzw65e
+    verified: false
+    hashtags: "#karawanghits, #cute, #instaphoto, #surakartahits"
   - username: "thenay.bekasi_utara"
     fullname: >-
       

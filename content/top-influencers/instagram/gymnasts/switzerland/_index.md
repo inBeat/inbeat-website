@@ -1,12 +1,24 @@
 ---
-title: Top 10 Gymnasts Instagram Influencers In Switzerland In 2023
+title: Top 10 Gymnasts Instagram Influencers In Switzerland In 2024
 description: >-
-  Find top gymnasts Instagram influencers in Switzerland in 2023. Most popular hashtags: #switzerland #calisthenics #gymnastics #workout.
+  Find top gymnasts Instagram influencers in Switzerland in 2024. Most popular hashtags: #gymnastics #calisthenics #switzerland #strength.
 platform: Instagram
-hits: 10
-text_top: Discover the best Instagram accounts on inBeat.
-text_bottom: Our database has 10 Instagram influencers like this in Switzerland for you to connect with.
+hits: 12
+text_top: Analyze the top-rated Instagram accounts on inBeat.
+text_bottom: inBeat aggregates 12 Instagram influencers like this in Switzerland for you to pitch.
 profiles:
+  - username: "tobias.bolliger"
+    fullname: >-
+      Tobias Bolliger
+    bio: >-
+      🇨🇭Handstands, Breakdance, Acrobatics, Calisthenics, Gymnastics, Tutorials, Movement - I like to move it!😊
+    location: "Switzerland"
+    followers: 205444
+    engagement: 357
+    commentsToLikes: 0.019039
+    id: ckaosn6kts7130i78r498tyos
+    verified: false
+    hashtags: "#handstand, #gymnastics, #handstandlove, #calisthenicsworkout"
   - username: "alina.victoria06"
     fullname: >-
       𝑨𝒍𝒊𝒏𝒂 𝑪𝒂𝒓𝒃𝒐𝒏𝒊 🅾︎🅵🅵🅸🅲🅸🅰︎🅻
@@ -30,7 +42,7 @@ profiles:
     commentsToLikes: 0.004356
     id: ck5pxfuumrk7k0i1156khbebx
     verified: false
-    hashtags: "#switzerland, #gymnastics, #worldchampionships, #olympics"
+    hashtags: "#worldchampionships, #gymnastics, #switzerland, #sun"
   - username: "stefy.kiryakova"
     fullname: >-
       Stefani Kiryakova
@@ -43,6 +55,30 @@ profiles:
     id: ck5c15fqyui2v0i11bq5zfwae
     verified: false
     hashtags: "#sofiaworldcup, #mycoach, #togetherforever"
+  - username: "pkg_photography"
+    fullname: >-
+      PKG PHOTOGRAPHY
+    bio: >-
+      📍 RHEINTAL SCHWEIZ🇨🇭 📝 Shooting? Schreib mich an!
+    location: "Switzerland"
+    followers: 37705
+    engagement: 240
+    commentsToLikes: 0.024329
+    id: ck0vvb5reoctz0i19umjy1bqh
+    verified: false
+    hashtags: "#inkedmag, #tattooideas, #inked, #inkedgirls"
+  - username: "leo.moves"
+    fullname: >-
+      Leandro Fornito (LeoMoves)
+    bio: >-
+      🇨🇭Athlete and movement coach 💪🏼 My students reach the best version of their body! ⬇️ MY TRAINING APP (7 day free trial included)⬇️
+    location: "Switzerland"
+    followers: 1397171
+    engagement: 141
+    commentsToLikes: 0.017532
+    id: ck6tyyjzr6lla0j71pset3l6w
+    verified: false
+    hashtags: "#leomoves, #functionaltraining, #bodyawareness, #gymnastics"
   - username: "julian_pagel_gsw"
     fullname: >-
       Julian Pagel
@@ -54,7 +90,7 @@ profiles:
     commentsToLikes: 0.036364
     id: ck5zq94lbu62w0i144159kd5h
     verified: false
-    hashtags: "#frontlever, #mundocaliste, #barzsoul, #barzquad"
+    hashtags: "#mundocaliste, #beast, #barzquad, #freeletics"
   - username: "yannarnophoto"
     fullname: >-
       Yann Arnaud
@@ -78,7 +114,7 @@ profiles:
     commentsToLikes: 0.036176
     id: ck55lgh8q1ic70i11kzf61k4z
     verified: false
-    hashtags: "#pullups, #sw, #skate, #stayhome"
+    hashtags: "#freestyle, #fitgirl, #pullups, #balance"
   - username: "johannes_sam"
     fullname: >-
       nuclear calisthenics ☢️🦍🎼
@@ -91,40 +127,4 @@ profiles:
     id: ckaoxj8x5dide0i781yrhuh8j
     verified: false
     hashtags: "#poetry, #passion, #fitnessmotivation, #coreworkout"
-  - username: "jeroenkampschreur"
-    fullname: >-
-      Jeroen Kampschreur
-    bio: >-
-      Para Alpine Skier❄ Paralympic Gold medallist🔥 Current 5x World Champion🏅 Olympic Centre Papendal 🏋🏽 Dutchie 🦁
-    location: "Switzerland"
-    followers: 2771
-    engagement: 1690
-    commentsToLikes: 0.055296
-    id: ck5zq1dobtqx70i14wtzb1kdx
-    verified: false
-    hashtags: "#paralympic, #crash, #fit, #extreme"
-  - username: "catholicnewsagency"
-    fullname: >-
-      Catholic News Agency
-    bio: >-
-      The Catholic news you need to know #Catholic #Pope
-    location: "Switzerland"
-    followers: 384910
-    engagement: 187
-    commentsToLikes: 0.018928
-    id: ck6tmhi7l7uwk0j71seqdpv6o
-    verified: true
-    hashtags: "#vatican, #hope, #vaticancity, #jpii"
-  - username: "aluarts"
-    fullname: >-
-      Raphael Alù
-    bio: >-
-      Basel, Switzerland. 🇨🇭 Member of @baselswizz Ambassador of @baselswitzerland
-    location: "Switzerland"
-    followers: 5643
-    engagement: 2011
-    commentsToLikes: 0.032240
-    id: ck0ty3e9ylgdf0i19o0x9hk4d
-    verified: false
-    hashtags: "#besteurope, #amazingswitzerland, #basel, #snowy"
 ---

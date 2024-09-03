@@ -1,11 +1,11 @@
 ---
-title: Top 10 Stylists TikTok Influencers In France In 2023
+title: Top 10 Stylists TikTok Influencers In France In 2024
 description: >-
-  Find top stylists TikTok influencers in France in 2023. Most popular hashtags: #foryou #pourtoi #viral #fashion.
+  Find top stylists TikTok influencers in France in 2024. Most popular hashtags: #pourtoi #foryou #viral #fashion.
 platform: TikTok
 hits: 10
 text_top: Identify the best TikTok accounts on inBeat.
-text_bottom: inBeat holds 10 TikTok influencers like this in France for you to work with.
+text_bottom: inBeat has 10 TikTok influencers like this in France for you to work with.
 profiles:
   - username: "ali_.chance"
     fullname: >-
@@ -54,7 +54,7 @@ profiles:
     commentsToLikes: 0.040042
     id: ckc82o34j3dd30j23jnv2bnxz
     verified: false
-    hashtags: "#talent, #fitnessweek, #dancers, #mode"
+    hashtags: "#pourtoi, #fitnessweek, #danettefamilyshow, #fila"
   - username: "therealhoneygirls"
     fullname: >-
       THE REAL HONEY GIRLS

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Pole Dancers Instagram Influencers In Brazil In 2023
+title: Top 10 Pole Dancers Instagram Influencers In Brazil In 2024
 description: >-
-  Find top pole dancers Instagram influencers in Brazil in 2023. Most popular hashtags: #poledancer #poledance #photography.
+  Find top pole dancers Instagram influencers in Brazil in 2024. Most popular hashtags: #poledancer #poledance #photography.
 platform: Instagram
-hits: 63
-text_top: See the most popular Instagram accounts on inBeat.
-text_bottom: Our platform has 63 Instagram influencers like this in Brazil for you to work with.
+hits: 62
+text_top: Discover the most popular Instagram influencers on inBeat.
+text_bottom: Our platform holds 62 Instagram influencers like this in Brazil for you to collaborate.
 profiles:
   - username: "littl3hell"
     fullname: >-
@@ -103,18 +103,6 @@ profiles:
     id: ck6tu546pecv40j71l11iu8of
     verified: false
     hashtags: "#sundaybumday, #exoticpole, #exoticpoledance"
-  - username: "luisachima"
-    fullname: >-
-      Luisa Chimá
-    bio: >-
-      Empresaria exitosa 💵 te enseño todos mis tips para que tu también triunfes💲Esposa 💖 mamá 👶🏻 pole dancer 👯‍♀️
-    location: "Brazil"
-    followers: 237684
-    engagement: 78
-    commentsToLikes: 0.047466
-    id: ck5hohc1ppkdd0i11bb1n493d
-    verified: false
-    hashtags: "#strongisthenewsexy, #poledancecolombia, #strongisthenewpretty, #reelsvideo"
   - username: "limasilveline"
     fullname: >-
       Girl Boss
@@ -127,4 +115,16 @@ profiles:
     id: ck6tu4tf3eb5f0j711lq4fu1l
     verified: false
     hashtags: "#poledancer, #verao, #sol, #empoweringwomen"
+  - username: "exoticsubby"
+    fullname: >-
+      Subby Souza.
+    bio: >-
+      Pole Dancer: @studiometropole @maravilhosascdb Aulas particulares e parcerias via Direct. Co-creator: @exotic.you
+    location: "Brazil"
+    followers: 20786
+    engagement: 337
+    commentsToLikes: 0.094743
+    id: ck6tu54mrecwd0j71o87w83ek
+    verified: false
+    hashtags: "#exoticflow, #exoticoldschool, #pdoldschool, #exoticpole"
 ---

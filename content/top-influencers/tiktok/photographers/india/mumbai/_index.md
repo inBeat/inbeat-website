@@ -1,11 +1,11 @@
 ---
-title: Top 10 Photographers TikTok Influencers In Mumbai In 2023
+title: Top 10 Photographers TikTok Influencers In Mumbai In 2024
 description: >-
-  Find top photographers TikTok influencers in Mumbai in 2023. Most popular hashtags: #tiktokindia #foryou #foryoupage #trending.
+  Find top photographers TikTok influencers in Mumbai in 2024. Most popular hashtags: #tiktokindia #foryoupage #trending #foryou.
 platform: TikTok
 hits: 8
-text_top: Identify the top-rated TikTok accounts on inBeat.
-text_bottom: Our platform aggregates 8 TikTok influencers like this in Mumbai, India for you to connect with.
+text_top: See the most popular TikTok profiles on inBeat.
+text_bottom: Our platform holds 8 TikTok influencers like this in Mumbai, India for you to collaborate.
 profiles:
   - username: "mitz_patil"
     fullname: >-
@@ -49,12 +49,12 @@ profiles:
     bio: >-
       Photographer/Aspiring film maker😎
     location: "India"
-    followers: 141400
-    engagement: 735
-    commentsToLikes: 0.012850
+    followers: 141300
+    engagement: 711
+    commentsToLikes: 0.015437
     id: ck9nqnq414mbg0j78stt3h6yb
     verified: false
-    hashtags: "#tamilsong, #trending, #tamil, #tamilmuser"
+    hashtags: "#jagadeeshravichandran, #trending, #tamilmuser, #foryou"
   - username: "namansrivastava01"
     fullname: >-
       Naman Srivastava

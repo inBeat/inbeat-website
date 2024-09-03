@@ -1,11 +1,11 @@
 ---
-title: Top 10 Mothers TikTok Influencers In Singapore In 2023
+title: Top 10 Mothers TikTok Influencers In Singapore In 2024
 description: >-
-  Find top mothers TikTok influencers in Singapore in 2023. Most popular hashtags: #tiktoksg #fyp #singapore #duet.
+  Find top mothers TikTok influencers in Singapore in 2024. Most popular hashtags: #tiktoksg #fyp #duet #singapore.
 platform: TikTok
 hits: 10
-text_top: Analyze the top-rated TikTok accounts on inBeat.
-text_bottom: Our search engine holds 10 TikTok influencers like this in Singapore for you to collaborate.
+text_top: See the most popular TikTok accounts on inBeat.
+text_bottom: inBeat aggregates 10 TikTok influencers like this in Singapore for you to pitch.
 profiles:
   - username: "sgranjini_andrea"
     fullname: >-

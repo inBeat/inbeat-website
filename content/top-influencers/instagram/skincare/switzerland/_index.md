@@ -1,130 +1,130 @@
 ---
-title: Top 10 Skincare Instagram Influencers In Switzerland In 2023
+title: Top 10 Skincare Instagram Influencers In Switzerland In 2024
 description: >-
-  Find top skincare Instagram influencers in Switzerland in 2023. Most popular hashtags: #skincare #switzerland #nature #beauty.
+  Find top skincare Instagram influencers in Switzerland in 2024. Most popular hashtags: #skincare #skincareroutine #ad #swissinfluencer.
 platform: Instagram
-hits: 21
-text_top: Identify the best Instagram accounts on inBeat.
-text_bottom: Our database has 21 Instagram influencers like this in Switzerland for you to connect with.
+hits: 74
+text_top: See the most popular Instagram accounts on inBeat.
+text_bottom: Our search engine has 74 Instagram influencers like this in Switzerland for you to work with.
 profiles:
-  - username: "sideofstyle"
+  - username: "killiane.hmch"
     fullname: >-
-      l o b s a n g | travel|fashion
+      Killiane
     bio: >-
-      ✰ tibet ☾ wanderlust and city dust ◈ zurich, switzerland based⠀ 💌 lobsang.tadhey@gmail.com⠀⠀⠀⠀⠀⠀⠀
+      Good vibes • lifestyle • food • skincare 🌼💛🌙🍯🍋 Sun & Vitamins killianepro@gmail.com 📍Genève / Lausanne 🇨🇭
     location: "Switzerland"
-    followers: 9486
-    engagement: 772
-    commentsToLikes: 0.065793
-    id: ck1353ozkzjk80i19ei2c3sak
+    followers: 17594
+    engagement: 413
+    commentsToLikes: 0.069606
+    id: cll8394cy8akf0j08gazctyzz
     verified: false
-    hashtags: "#travelspain, #travelswitzerland, #ibizabeach, #winterwonderland"
-  - username: "imagism.studio"
+    hashtags: "#uluwatu, #komodoisland, #geneve, #trionsmieux"
+  - username: "monikabuser"
     fullname: >-
-      Imagism.Studio Mascha Dahan
+      𝐌𝐨𝐧𝐢𝐤𝐚 𝐁𝐮𝐬𝐞𝐫 ❥
     bio: >-
-      Zürich, Switzerland 📍 📷 Photography 🖥 Webdesign 📖 Editor @imagismmagazine
+      ✨ Fashion, Family & Skincare 🤍 New Mama 🌸 Celebrating life’s chic moments & motherhood magic 📸 UGC Creator 📍Basel CH & Dornbirn AT 📩 DM for Collabs
     location: "Switzerland"
-    followers: 21394
-    engagement: 207
-    commentsToLikes: 0.016824
-    id: ck15r14nf5mez0i19kmuec2vn
+    followers: 9199
+    engagement: 2791
+    commentsToLikes: 0.092085
+    id: cll83932e89cw0j08w8ydbo87
     verified: false
-    hashtags: "#highendphotography, #makeuplover, #makeupinspo, #portraitmood"
-  - username: "nikimehra"
+    hashtags: "#ootd, #grwmroutine, #grwm, #mumlife"
+  - username: "ivy.kimbour"
     fullname: >-
-      Niki Mehra Madan
+      Caroline Bourquin | Lifestyle, wellness & adventure 🕯️
     bio: >-
-      A fashion entrepreneur and digital creator 💌: info@nikimehra.com
+      Ici pour t’inspirer, 🦥 Skincare, festival, sport & energy lover 🍸 CH | Jura 🪩 TikTok: ivy.kimbour ✉️ UGC, Collab: caroline.bourquin@gmail.com
     location: "Switzerland"
-    followers: 476565
-    engagement: 186
-    commentsToLikes: 0.008124
-    id: ck0tze6b8q0od0i19vq72jl49
-    verified: true
-    hashtags: "#couple, #fashionreels, #fashionblogger, #swissalps"
-  - username: "_jasmineonajourney_"
-    fullname: >-
-      🅹🅰🆂🅼🅸🅽🅴
-    bio: >-
-      ♥ USA➝ 🇨🇭Zürich ♥ Foodie 🥟(➝ on Story) ♥ Travels ✈️ ♥ GGI CM 👯‍♀️
-    location: "Switzerland"
-    followers: 4365
-    engagement: 1094
-    commentsToLikes: 0.242133
-    id: ckf5q59hi88420j23f92hsiol
+    followers: 16008
+    engagement: 357
+    commentsToLikes: 0.104021
+    id: ck5c0oygrtk6p0i11ajukastd
     verified: false
-    hashtags: "#hikingvibes, #nature, #wintervibes, #snowyday"
-  - username: "carina.raquel_"
+    hashtags: "#apmmonaco, #cultbeauty, #suisseromande, #vibiscumfestival"
+  - username: "the_zlist"
     fullname: >-
-      Carina Raquel
+      Zahara Khan | Miami Blogger
     bio: >-
-      🤎Fashion-beauty & travel lover 👼🏽Girl mama ✌🏽Be positive! Be cool! Be yourself! 📍Based in Switzerland
+      Fashion | Beauty | Skincare Sharing my culture 🇮🇳 Contact: infothezlist@gmail.com
     location: "Switzerland"
-    followers: 8569
-    engagement: 639
-    commentsToLikes: 0.226045
-    id: ckf5vrwhzppp20j23k0eaxt69
+    followers: 92714
+    engagement: 122
+    commentsToLikes: 0.037262
+    id: ck0ucc11mgjll0i193xtclc0j
     verified: false
-    hashtags: "#swissfashionblog, #concourssuisse, #igerssuisse, #noel2020"
-  - username: "lalacla_"
+    hashtags: "#hotrollers, #nordstrombeauty, #target, #targetpartneryes"
+  - username: "drliv"
     fullname: >-
-      Claudia
+      Dr. Liv Kraemer M.D.,PhD
     bio: >-
-      Simplicity is the ultimate sophistication✨ Made in Italy📍Zurich 📚curious |🎢crazy | 🌍empatic |🧘🏻mindfull |🎭Arts |💫Aquarius
+      👩🏻‍⚕️Board-certified dermatologist | Longevity skin care 🍀Helping you to build the best & simplest skincare routine 🌎Founder of @drlivskincare 🇨🇭
     location: "Switzerland"
-    followers: 5442
-    engagement: 2545
-    commentsToLikes: 0.034823
-    id: ck8t6drijd8il0j78i9zqzkcn
+    followers: 39963
+    engagement: 80
+    commentsToLikes: 0.050136
+    id: clp24ilg1cilv0j08bo7tb23d
     verified: false
-    hashtags: "#lago, #swissalps, #lake, #clouds"
-  - username: "geraldine.antoinette"
+    hashtags: "#longevity, #wrinkles, #newyear, #pigmentation"
+  - username: "bysofiaziani"
     fullname: >-
-      Geraldine Antoinette Yoga ૐ
+      Sofia / SZ
     bio: >-
-      • MLaw UZH⚖ • yoga teacher RYT200🕊@indigofitness • @athleticflow.ch instructor 🤸🏻‍♀️ • powered by plants🏃🏻‍♀️🏄🏻‍♀️🏂🌱
+      Skincare | Wellness | Women Empowerment | Communication Consultant Mia’s Mama Keep Growing 💫
     location: "Switzerland"
-    followers: 10834
-    engagement: 714
-    commentsToLikes: 0.098794
-    id: ck5zoznc1rp4w0i14wjljzi0q
+    followers: 18168
+    engagement: 70
+    commentsToLikes: 0.088498
+    id: ckap6ioyig0730i78ce7ompgo
     verified: false
-    hashtags: "#getaway, #positivity, #sun, #happy"
-  - username: "arianazuber"
+    hashtags: "#outfitreel, #ootd, #stylegoals, #summer23"
+  - username: "melanielaurah"
     fullname: >-
-      ARIANA🇨🇭| TRAVEL & LIFESTYLE
+      melanie laura
     bio: >-
-      ✨Currently saying yes to new adventures 📍Switzerland 🇵🇪 Peruvian 🎥 WATCH MY REELS 💙 Thank you, come again
+      lifestyle | health | fashion 🧸 switzerland ☁️ more fun on tiktok
     location: "Switzerland"
-    followers: 2380
-    engagement: 1775
-    commentsToLikes: 0.083599
-    id: ck9hcny3ym8u50j78lemhxppc
+    followers: 7885
+    engagement: 3776
+    commentsToLikes: 0.029439
+    id: ck8szmubzp19k0j78bv4vo93d
     verified: false
-    hashtags: "#voyageursdumonde, #planetgals, #girlsthatwander, #discover"
-  - username: "elainebabo"
+    hashtags: "#ad, #scandistyle, #skincare, #zurich"
+  - username: "seraplicious"
     fullname: >-
-      Elaine Babo
+      Serap Yavuz
     bio: >-
-      🏆2X WBFF Pro Champion 👑European Champion 2019, USA 2017 🇧🇷🇨🇭Fitness|Lifestyle 👊🏽Personal Trainer|Prep & Posing Coach 📧elainebabo.business@gmail.com
+      📺 tv host | moderatorin ✍️🏽 founder @ellesd_agency 📱 social media - & influencer marketing 🏋🏽‍♀️ Sport addicted 💇🏽‍♀️ @perfecthairch Ambassadorin
     location: "Switzerland"
-    followers: 208867
-    engagement: 64
-    commentsToLikes: 0.213347
-    id: ck6u33cvnvghj0j718ms7rd5e
-    verified: true
-    hashtags: "#cacheadas, #wbff, #beauty, #blogger"
-  - username: "happymegy"
-    fullname: >-
-      𝗠𝗲𝗴𝘆
-    bio: >-
-      𝐋𝐢𝐟𝐞𝐬𝐭𝐲𝐥𝐞 -𝐅𝐚𝐬𝐡𝐢𝐨𝐧 - 𝐓𝐫𝐚𝐯𝐞𝐥 - 𝐈𝐧𝐤𝐞𝐝 𝙿𝚑𝚘𝚝𝚘𝚜 𝚋𝚢 @sacha_sanahuja
-    location: "Switzerland"
-    followers: 10952
-    engagement: 339
-    commentsToLikes: 0.274631
-    id: ckap4i7417hkr0i78wcw80qpl
+    followers: 16322
+    engagement: 208
+    commentsToLikes: 0.091286
+    id: ck9hcgsotlbfb0j78qodignbk
     verified: false
-    hashtags: "#autumncolors, #suisseromande, #redheadgirl, #outfit"
+    hashtags: "#ad, #dolcefarniente, #italianwine, #skincare"
+  - username: "madame.caviar"
+    fullname: >-
+      Ophélia 🥐
+    bio: >-
+      Lifestyle & Food ♡ 📍#geneva 🇨🇭 Collab par mail 🤍 opheliacaviar@gmail.com
+    location: "Switzerland"
+    followers: 17418
+    engagement: 149
+    commentsToLikes: 0.288281
+    id: ck5hjzz7qhjr20i11nr78pv3p
+    verified: false
+    hashtags: "#visitnyc, #caviarenvadrouille, #fall, #skincare"
+  - username: "glowforyourskins"
+    fullname: >-
+      Susie  Spring
+    bio: >-
+      💕helping you get glowing skin ✨Harvard Medical school certified 💌 glowforyourskin92@gmail.com 🇨🇭Switzerland
+    location: "Switzerland"
+    followers: 143538
+    engagement: 114
+    commentsToLikes: 0.021730
+    id: cl3w8yzzuck6e0i23urtoed41
+    verified: false
+    hashtags: "#healthyskin, #glowgang, #skincaretips, #oilyskin"
 ---

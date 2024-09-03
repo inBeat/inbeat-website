@@ -1,12 +1,72 @@
 ---
-title: Top 10 Vegan Instagram Influencers In Turkey In 2023
+title: Top 10 Vegan Instagram Influencers In Turkey In 2024
 description: >-
-  Find top vegan Instagram influencers in Turkey in 2023. Most popular hashtags: #vegan #glutensiz #love #reelsinstagram.
+  Find top vegan Instagram influencers in Turkey in 2024. Most popular hashtags: #do #vegan #love.
 platform: Instagram
-hits: 114
-text_top: Analyze the top-rated Instagram profiles on inBeat.
-text_bottom: Our platform aggregates 114 Instagram influencers like this in Turkey for you to collaborate.
+hits: 133
+text_top: Discover the best Instagram accounts on inBeat.
+text_bottom: inBeat aggregates 133 Instagram influencers like this in Turkey for you to work with.
 profiles:
+  - username: "koksalfndk"
+    fullname: >-
+      Köksal Fındık
+    bio: >-
+      Guitarist at @avcikoray #vegan 🌱
+    location: "Turkey"
+    followers: 16742
+    engagement: 732
+    commentsToLikes: 0.031664
+    id: ck5cgb4boohnp0i11t5epwmhf
+    verified: false
+    hashtags: "#australia, #amsterdam, #korayavci, #stage"
+  - username: "sedagazioglu"
+    fullname: >-
+      Seda Gazioglu
+    bio: >-
+      Vegan💫
+    location: "Turkey"
+    followers: 11810
+    engagement: 302
+    commentsToLikes: 0.077753
+    id: ck5hhhpfs8ae70i11jylryoii
+    verified: false
+    hashtags: "#brassskull, #organicsbyredbull, #welding, #metaltree"
+  - username: "tantasci"
+    fullname: >-
+      Tan Taşçı
+    bio: >-
+      #Vegan🌱 Label: @tctvl
+    location: "Turkey"
+    followers: 926256
+    engagement: 247
+    commentsToLikes: 0.018958
+    id: ck139l5owluwr0i19vx2nnhz4
+    verified: true
+    hashtags: "#yokba, #yasay, #katliamaoyumhay, #ya"
+  - username: "tunaapari"
+    fullname: >-
+      TunaApari
+    bio: >-
+      Hakuna Matata Yoga Teacher Model Vegan Underwater 🪸 NFTs 📍Kaş
+    location: "Turkey"
+    followers: 145847
+    engagement: 222
+    commentsToLikes: 0.037069
+    id: ck6tu5311ecnw0j71qcz84e5i
+    verified: false
+    hashtags: "#flexibilitytraining, #handstand, #backbending, #flexibility"
+  - username: "badecanlar"
+    fullname: >-
+      Badecanlar Şefkatli Kozmetik
+    bio: >-
+      Dermatolojik onaylı, şefkatli kozmetik!🌱🐇♻️ #vegan #zehirsiz #sıfıratık 🎯Ürün tavsiyesi: DM&Email 📦Kargo/sipariş soruları WhatsApp: 05345953205 🛒
+    location: "Turkey"
+    followers: 98517
+    engagement: 50
+    commentsToLikes: 0.058988
+    id: ck5zpi96yspwa0i14g7ob908x
+    verified: false
+    hashtags: "#do, #bitkiselkozmetik, #vegankozmetik, #zehirsizev"
   - username: "d.e.r.b.o.s.s._"
     fullname: >-
       Ünsal M. Arık
@@ -31,18 +91,6 @@ profiles:
     id: ck9wdpikcgo6x0j78881flsgn
     verified: false
     hashtags: "#geyikli, #travelovic, #gezi, #istanbuldakar"
-  - username: "cemrekiralioglu"
-    fullname: >-
-      Cemre Kıralioğlu
-    bio: >-
-      Entrepreneur | Musician 🌱 #vegan #cemreniniçsesi #belkidesensin ✉️ cemrekiralioglu@gmail.com SAR BENİ Spotify👇🏼
-    location: "Turkey"
-    followers: 30320
-    engagement: 574
-    commentsToLikes: 0.046879
-    id: ck5zsqv6qz0y30i140m8dnuvm
-    verified: false
-    hashtags: "#womanstyle, #love, #selfie, #ootd"
   - username: "ozguncoban"
     fullname: >-
       Özgün Çoban
@@ -55,42 +103,18 @@ profiles:
     id: ckf5nr2ohzc9u0j233vaoq6oo
     verified: true
     hashtags: "#bouldering, #climbing, #nature, #yosemite"
-  - username: "dilgegokce"
+  - username: "amberco.ist"
     fullname: >-
-      Dilge Gökçe
+      AmberCo
     bio: >-
-      🎈Food Engineer / Gıda Mühendisi 🌈Sugarfree / Glutenfree / Vegan / Raw Alternative Food Ideas #fitfinet
+      Ev yapımı %100 vegan, mis kokulu soya mumları 🕯✨
     location: "Turkey"
-    followers: 44997
-    engagement: 466
-    commentsToLikes: 0.067042
-    id: ckaorlem3nqv30i78vtfhpj1u
+    followers: 26003
+    engagement: 58
+    commentsToLikes: 0.007384
+    id: ck14iigkhfke30i19hmmnxi1h
     verified: false
-    hashtags: "#veganfood, #diyet, #buzzfeast, #fittarifler"
-  - username: "ayse_kadaifci"
-    fullname: >-
-      ayse_kadaifci
-    bio: >-
-      📐Matematik mezunu bir anne👨‍👩‍👧‍👦 📝Sağlıklı ve lezzetli tarifler😋 🌱Tüm tarifler RAFİNE ŞEKERSİZ ve GLUTENSİZ Zaman zaman da RAW ve VEGAN
-    location: "Turkey"
-    followers: 27527
-    engagement: 352
-    commentsToLikes: 0.069452
-    id: ck5q9ypwldok10i11sufgu2be
-    verified: false
-    hashtags: "#glutenfree, #glutensiz, #ays, #ay"
-  - username: "mutfaktayusufvar"
-    fullname: >-
-      Mutfakta Yusuf Var 👨🏻‍🍳
-    bio: >-
-      📝 Sağlıklı Tarif Geliştirici 🌱 #Glutenfree #SugarFree #Vegan #Raw 👨🏻‍🍳 “Herkes yemek yapabilir!” 📩 mutfaktayusufvar@gmail.com
-    location: "Turkey"
-    followers: 354581
-    engagement: 206
-    commentsToLikes: 0.108613
-    id: ckap2pkk4zrk30i78dlrgxpe3
-    verified: false
-    hashtags: "#healthy, #thelifecoshop, #chocolate, #vegan"
+    hashtags: "#home, #homesweethome, #decor, #dekorasyon"
   - username: "sinemumas"
     fullname: >-
       Sinem Umas
@@ -103,28 +127,4 @@ profiles:
     id: ckaoy9t0oglo30i788ngzo7t5
     verified: true
     hashtags: "#atesbarutgercekleri, #repost, #max"
-  - username: "tantasci"
-    fullname: >-
-      Tan Taşçı
-    bio: >-
-      #Vegan🌱 Label: @TCTVL Booking: @ecmelkayahan Marketing @onur.ozisik Press: @zaltincekic Publishing: @floommusic #SözMüzikTanTaşçı albümü dinle 👇🏻
-    location: "Turkey"
-    followers: 371660
-    engagement: 399
-    commentsToLikes: 0.023070
-    id: ck139l5owluwr0i19vx2nnhz4
-    verified: true
-    hashtags: "#so, #evdey, #tb, #vegan"
-  - username: "gurmefoodbox"
-    fullname: >-
-      Gülnihal|Yemek Fotoğrafçısı
-    bio: >-
-      Yemek ve Ürün Fotoğrafçılığı Fit,sağlıklı,lezzetli! Rafine şekersiz,glütensiz,vegan tarifler #tarifgurmeden #foodphotographer #yemekfotografciligi
-    location: "Turkey"
-    followers: 46314
-    engagement: 164
-    commentsToLikes: 0.099852
-    id: ck9wda0m9erp30j78goi3zi6v
-    verified: false
-    hashtags: "#glutensiz, #rawfood, #reelsinstagram, #fotografcilik"
 ---

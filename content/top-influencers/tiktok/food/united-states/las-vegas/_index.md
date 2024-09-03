@@ -1,11 +1,11 @@
 ---
-title: Top 10 Food TikTok Influencers In Las Vegas In 2023
+title: Top 10 Food TikTok Influencers In Las Vegas In 2024
 description: >-
-  Find top food TikTok influencers in Las Vegas in 2023. Most popular hashtags: #fyp #food #lasvegas #vegas.
+  Find top food TikTok influencers in Las Vegas in 2024. Most popular hashtags: #lasvegas #fyp #food #vegas.
 platform: TikTok
-hits: 66
-text_top: Discover the top-rated TikTok accounts on inBeat.
-text_bottom: inBeat aggregates 66 TikTok influencers like this in Las Vegas, United States for you to contact.
+hits: 69
+text_top: Discover the top-rated TikTok profiles on inBeat.
+text_bottom: inBeat has 69 TikTok influencers like this in Las Vegas, United States for you to work with.
 profiles:
   - username: "hailey2turnt"
     fullname: >-
@@ -54,19 +54,19 @@ profiles:
     commentsToLikes: 0.041670
     id: ckcou8mtl8pgq0j233zdgqmol
     verified: false
-    hashtags: "#japanesefood, #beef, #tiktokfood, #chicken"
-  - username: "haleypiacitelli"
+    hashtags: "#tiktokfood, #wow, #japanesefood, #fyp"
+  - username: "explore_sd"
     fullname: >-
-      Haley Piacitelli
+      user7751984492931
     bio: >-
-      Model, Utah Business: haleypiacitelli@gmail.com Venmo: haleypiacitelli
+      Sharing my passion for Food 🍱 Beauty💄Fashion 👗 Lifestyle, single mom 👩‍👦‍👦
     location: "United States"
-    followers: 205000
-    engagement: 704
-    commentsToLikes: 0.022011
-    id: ck9nidqffgry70j78wffr21x0
+    followers: 21300
+    engagement: 560
+    commentsToLikes: 0.077486
+    id: ckcpd8p1mfwz40j233wdcyqu9
     verified: false
-    hashtags: "#fyp, #model, #foryou, #utahmodel"
+    hashtags: "#sandiegoadventures, #sandiegoblogger, #foodie, #lasvegas"
   - username: "taquerialacasadelpastor"
     fullname: >-
       casadelpastor
@@ -79,6 +79,18 @@ profiles:
     id: ckb9c8cviyuj50j23mf5okywr
     verified: false
     hashtags: "#parati, #quesadilla, #food, #taquerialacasadelpastor"
+  - username: "soutsu_luna"
+    fullname: >-
+      Soutsu_Luna
+    bio: >-
+      𝘼𝙞𝙜𝙝𝙩 𝙡𝙚𝙩’𝙨 𝙜𝙤. (Content Creator, Photographer, Homecook, Bartender)
+    location: "United States"
+    followers: 48000
+    engagement: 1028
+    commentsToLikes: 0.036225
+    id: ck81q48jifsx20j78pe0piz2g
+    verified: false
+    hashtags: "#cafe, #coffee, #bartender, #vegas"
   - username: "unlokt"
     fullname: >-
       Unlokt
@@ -90,7 +102,19 @@ profiles:
     commentsToLikes: 0.006745
     id: ck80cr7ftapgm0j78k0k2ta29
     verified: false
-    hashtags: "#foryourpage, #vegastiktok, #viralfood, #fyp"
+    hashtags: "#donutfactory, #zithappens, #vegas, #vegastiktok"
+  - username: "shellzfromhellz"
+    fullname: >-
+      Shelly 
+    bio: >-
+      Oahu > LV 🌺 IG: maharani_shelly YT: Royshell Reyes
+    location: "United States"
+    followers: 12900
+    engagement: 1135
+    commentsToLikes: 0.018497
+    id: cka66ldh7hebu0i78neuppg99
+    verified: false
+    hashtags: "#pocketbully, #xzybca, #foodie, #lasvegas"
   - username: "hungryinvegas"
     fullname: >-
       Vegas baby ✨
@@ -103,28 +127,4 @@ profiles:
     id: cka0m56c8tris0i78qvkldr2t
     verified: false
     hashtags: "#yummy, #vegas, #primerib, #vegasfood"
-  - username: "caseyrosenberg"
-    fullname: >-
-      casey rosenberg
-    bio: >-
-      🧠 Droppin’ knowledge! ❤️ 💌 caseyrayrosenberg@gmail.com 📍 Las Vegas, NV
-    location: "United States"
-    followers: 2800000
-    engagement: 1532
-    commentsToLikes: 0.042067
-    id: ckd6etlmk6h0j0j23upn4ne4n
-    verified: true
-    hashtags: "#psychology, #foodtiktok, #cuisine, #tiktokpartner"
-  - username: "jaaye_m"
-    fullname: >-
-      Jasmin Moreno
-    bio: >-
-      21 ig @jaaye_m Las Vegas
-    location: "United States"
-    followers: 4525
-    engagement: 867
-    commentsToLikes: 0.057917
-    id: ckbfenfr08u440j23txog5bbu
-    verified: false
-    hashtags: "#vegas, #sanluis, #fyp, #food"
 ---

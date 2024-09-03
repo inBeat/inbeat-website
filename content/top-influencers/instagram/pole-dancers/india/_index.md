@@ -1,24 +1,48 @@
 ---
-title: Top 10 Pole Dancers Instagram Influencers In India In 2023
+title: Top 10 Pole Dancers Instagram Influencers In India In 2024
 description: >-
-  Find top pole dancers Instagram influencers in India in 2023. Most popular hashtags: #poledance #poledancer #poledancing #dancer.
+  Find top pole dancers Instagram influencers in India in 2024. Most popular hashtags: #poledance #poledancer #poledancing #pole.
 platform: Instagram
-hits: 18
-text_top: See the most popular Instagram influencers on inBeat.
-text_bottom: Our search engine has 18 Instagram influencers like this in India for you to pitch.
+hits: 20
+text_top: Discover the most popular Instagram accounts on inBeat.
+text_bottom: Our search engine has 20 Instagram influencers like this in India for you to connect with.
 profiles:
-  - username: "zakwanabagban"
+  - username: "eric_matthew_knowles"
     fullname: >-
-      Zakwana Bagban
+      𝐄𝐫𝐢𝐜 𝐌𝐚𝐭𝐭𝐡𝐞𝐰 𝐊𝐧𝐨𝐰𝐥𝐞𝐬
     bio: >-
-      Indian || Aerialist || Pole Dancer || Strength & Flexibility Coach || Performer 🌷 Click below for class details 👇🏻
+      Managed By @emk_networks Certified : Masseuse , Bartender , Event Planner & A Pole Dancer.
     location: "India"
-    followers: 22841
-    engagement: 564
-    commentsToLikes: 0.032759
+    followers: 11030
+    engagement: 588
+    commentsToLikes: 0.017382
+    id: ckv1vnbhjw5b80j23al2cr9cw
+    verified: false
+    hashtags: "#brownmen, #bangkokthailand, #delhi, #hoscos"
+  - username: "zakwanaa"
+    fullname: >-
+      Zakwana🦁
+    bio: >-
+      Founder of @_onaer_ Pole & Aerial Performer & Coach 📍Mumbai, India
+    location: "India"
+    followers: 27839
+    engagement: 271
+    commentsToLikes: 0.037191
     id: ckaorosxlo5r80i78ldii5xyz
     verified: false
-    hashtags: "#poledancersofig, #poledance, #poledancemumbai, #aerialsilks"
+    hashtags: "#mumbai, #onaerbyzakwana, #poledancersofinstagram, #zakwana"
+  - username: "bbhiral"
+    fullname: >-
+      Hiral Bhatia
+    bio: >-
+      #hairbyhiral | TreksnTravel |Treehugger @barefeet_topknot| naturebaby| Artist| pole fitness |Gardening | Dogmom |Mum 📍|armaan@entouragetalents.com
+    location: "India"
+    followers: 95017
+    engagement: 61
+    commentsToLikes: 0.039786
+    id: ck5hfc7wrwsx10i11vi0v5wn4
+    verified: false
+    hashtags: "#polelove, #fitness, #fitnessmotivation, #sonamkapoor"
   - username: "latenighttalesphotography"
     fullname: >-
       LATE NIGHT TALES Photography
@@ -79,6 +103,18 @@ profiles:
     id: ck138jgssgis40i19zpjsiui5
     verified: false
     hashtags: "#bobbisboudoir, #pdspincombination, #homeworkouts, #bobbispolestudioperth"
+  - username: "dancers_production_"
+    fullname: >-
+      Dance Promotion
+    bio: >-
+      HAVE YOU EVER WANTED TO BE ON A BIG PAGE DM TO PROMOTE YOUR VIDEOS🎊 ONLY PAID PROMO USE #dancers_production TURN ON POST NOTIFICATION🔔 FOR DONATION 👇🏻
+    location: "India"
+    followers: 222090
+    engagement: 247
+    commentsToLikes: 0.018302
+    id: ck15s91mrbu9i0i19rog8hspx
+    verified: false
+    hashtags: "#dancelife, #dancehall, #dancevideo, #dancer"
   - username: "evaninja"
     fullname: >-
       EvanNinja
@@ -91,40 +127,4 @@ profiles:
     id: ckf5tq9xaig930j23pba9hcwu
     verified: false
     hashtags: "#plyometricsexercise, #legdayworkout, #mensfitness, #bodyweightexercises"
-  - username: "dancefloorgeneva"
-    fullname: >-
-      Dancefloor
-    bio: >-
-      Official Insta of the million followers page - Dancefloor - Sharing place for inspirational dance https://lc.cx/Pxz6 To be featured: #DancefloorGva
-    location: "India"
-    followers: 203461
-    engagement: 201
-    commentsToLikes: 0.013089
-    id: ck14gnwim65vz0i196lqeceqs
-    verified: false
-    hashtags: "#bestdance, #porte, #hiphopdance, #jazzdance"
-  - username: "kiangupta"
-    fullname: >-
-      Kian
-    bio: >-
-      Dancer | Choreographer | Performer | DM for Collaborations/Bookings! 📍Mumbai
-    location: "India"
-    followers: 7338
-    engagement: 642
-    commentsToLikes: 0.061900
-    id: ck602oruric4y0i141dic2j3t
-    verified: false
-    hashtags: "#model, #tb, #fit, #lfl"
-  - username: "dancers_production_"
-    fullname: >-
-      Dance Promotion
-    bio: >-
-      Use #dancers_production DM TO PROMOTE YOUR VIDEOS🎉 2ND ACCOUNT @dancers_production01 🌈 TURN ON POST NOTIFICATION🔔 FOR DONATION CLICK THE LINK BELOW👇🏻
-    location: "India"
-    followers: 263485
-    engagement: 286
-    commentsToLikes: 0.006376
-    id: ck15s91mrbu9i0i19rog8hspx
-    verified: false
-    hashtags: "#fypage, #reelsinstagram, #dancersofinstagram, #dance"
 ---

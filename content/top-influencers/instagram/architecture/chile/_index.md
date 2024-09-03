@@ -1,11 +1,11 @@
 ---
-title: Top 10 Architecture Instagram Influencers In Chile In 2023
+title: Top 10 Architecture Instagram Influencers In Chile In 2024
 description: >-
-  Find top architecture Instagram influencers in Chile in 2023. Most popular hashtags: #architecture #arquitectura #chile #summer.
+  Find top architecture Instagram influencers in Chile in 2024. Most popular hashtags: #architecture #arquitectura #travel #sunset.
 platform: Instagram
-hits: 20
-text_top: Identify the best Instagram profiles on inBeat.
-text_bottom: Our platform aggregates 20 Instagram influencers like this in Chile for you to work with.
+hits: 21
+text_top: Analyze the best Instagram influencers on inBeat.
+text_bottom: Our platform has 21 Instagram influencers like this in Chile for you to work with.
 profiles:
   - username: "dennysmp"
     fullname: >-
@@ -13,12 +13,24 @@ profiles:
     bio: >-
       . . . . . ⭐ . . . . . Diseñador y Fotógrafo ✈ Canario en Galicia 🏡 @lacarmonahouse 🎥 @sch_lifestylephoto 📷 @sch_architecture
     location: "Chile"
-    followers: 6427
-    engagement: 549
-    commentsToLikes: 0.055796
+    followers: 6446
+    engagement: 622
+    commentsToLikes: 0.040367
     id: ck5zqui6hvbh90i14zx3omw3j
     verified: false
-    hashtags: "#galiciacalidade, #outfit, #portugal, #igportugal"
+    hashtags: "#santiagodecompostela, #galiciacalidade, #ourense, #lapalma"
+  - username: "arquetipoccp"
+    fullname: >-
+      Arquetipo CCP
+    bio: >-
+      Looking for sensations in the everyday 🚀 🌃 Architecture | Nature | Emotions 🧬 📍 From: Concepción - Chile 🇨🇱 📸 Photographer 👉🏼 @sebaguerra
+    location: "Chile"
+    followers: 13319
+    engagement: 1386
+    commentsToLikes: 0.012559
+    id: ck5hs64wfw1zp0i11erd5f7lv
+    verified: false
+    hashtags: "#l4l, #filmdrone, #concegram, #biobio"
   - username: "javieragustinrojas"
     fullname: >-
       Javier Agustín Rojas
@@ -31,30 +43,18 @@ profiles:
     id: ck8sxryx2ig470j78zqyd5cw0
     verified: false
     hashtags: "#pedrolivni, #delarchivo, #rosario, #javieragustinrojas"
-  - username: "jenniferboldt"
+  - username: "d_pinilla"
     fullname: >-
-      J E N N I F E R   B O  L D T
+      Daniel Pinilla • Santiago
     bio: >-
-      🎼 Soprano | Conductora de TV ✉️ jenniferboldt@musica.cl
+      Arquitecto_fotógrafo Santiago
     location: "Chile"
-    followers: 51071
-    engagement: 385
-    commentsToLikes: 0.036498
-    id: ck6ui7194df2p0j71qpnlkj0o
+    followers: 9448
+    engagement: 584
+    commentsToLikes: 0.032647
+    id: ck0u6s3vs2sx10i19bxhoi6pm
     verified: false
-    hashtags: "#arquitectura, #naturaleza, #dise, #ootd"
-  - username: "arquetipoccp"
-    fullname: >-
-      Arquetipo CCP
-    bio: >-
-      Fotógrafo 👉🏼 @sebaguerra . 🌋Naturaleza|🏙Arquitectura|🚀Sensaciones From:📍Concepción - Chile 🇨🇱
-    location: "Chile"
-    followers: 10498
-    engagement: 2259
-    commentsToLikes: 0.025045
-    id: ck5hs64wfw1zp0i11erd5f7lv
-    verified: false
-    hashtags: "#sunset, #dronenerds, #chile, #filmphotography"
+    hashtags: "#visitchile, #yourshotphotographer, #trip, #architecture"
   - username: "bilbaoforever"
     fullname: >-
       BILBAOFOREVER
@@ -90,19 +90,19 @@ profiles:
     commentsToLikes: 0.018809
     id: ck5qahtvfgh4k0i11uavxoj2g
     verified: false
-    hashtags: "#concretearchitecture, #poolhouse, #seaside, #seascape"
+    hashtags: "#arq, #contemporaryarchitecture, #poolhouse, #arquitectura"
   - username: "cazu.zegers"
     fullname: >-
       Cazu Zegers Arquitectura
     bio: >-
-      "El territorio es a América como los monumentos son a Europa” Profesora Invitada de @yalearchitecture
+      "El territorio es a América como los monumentos son a Europa”
     location: "Chile"
-    followers: 26941
-    engagement: 270
-    commentsToLikes: 0.014937
+    followers: 30755
+    engagement: 142
+    commentsToLikes: 0.012019
     id: ck136mujy79rb0i195pn9vtka
     verified: false
-    hashtags: "#arquitecturamadera, #chileanarchitecture, #femalearchitect, #arquitecturaenmadera"
+    hashtags: "#etnoarquitectura, #cazuzegersarquitectura, #andesworkshop, #femalearchitect"
   - username: "carlosjohansisco.arq"
     fullname: >-
       C  A  R  L  E  T  T  O

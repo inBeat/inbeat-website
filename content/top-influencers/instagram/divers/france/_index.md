@@ -1,12 +1,72 @@
 ---
-title: Top 10 Divers Instagram Influencers In France In 2023
+title: Top 10 Divers Instagram Influencers In France In 2024
 description: >-
-  Find top divers Instagram influencers in France in 2023. Most popular hashtags: #automne #frenchmodel #love.
+  Find top divers Instagram influencers in France in 2024. Most popular hashtags: #twins #love #magic.
 platform: Instagram
-hits: 259
-text_top: Identify the top-rated Instagram profiles on inBeat.
-text_bottom: Our search engine has 259 Instagram influencers like this in France for you to contact.
+hits: 271
+text_top: Discover the top-rated Instagram accounts on inBeat.
+text_bottom: inBeat holds 271 Instagram influencers like this in France for you to contact.
 profiles:
+  - username: "faycal.exclu"
+    fullname: >-
+      Binks💧
+    bio: >-
+      → Contenu qualité Netflix🍿 → Vidéos diverses 🌍
+    location: "France"
+    followers: 125871
+    engagement: 1399
+    commentsToLikes: 0.007369
+    id: ck8t6lt7le20m0j78lxe9o587
+    verified: false
+    hashtags: ""
+  - username: "being_fatimah_israa"
+    fullname: >-
+      Fätimã Gül Israã
+    bio: >-
+      🌾Littérature franzozisch🧡 teaching 💼 la diversité est une source de beauté 🇩🇿 Zen with cooking ,triping and living passions !
+    location: "France"
+    followers: 24833
+    engagement: 208
+    commentsToLikes: 0.131107
+    id: ck8ta65x2qkzf0j78w6nzxncp
+    verified: false
+    hashtags: "#photography, #instagood, #homesweethome, #jijel"
+  - username: "ciaracoiffure"
+    fullname: >-
+      Ciara 📍Paris
+    bio: >-
+      Global Hair Stylist & Educator Improving & diversifying Beauty Education Represented by @7evenmanagement
+    location: "France"
+    followers: 18091
+    engagement: 155
+    commentsToLikes: 0.076671
+    id: ck8t8exg0k7a50j78yhla16lh
+    verified: false
+    hashtags: "#hairstylistparis, #parishairstylist, #capri, #haireducator"
+  - username: "lesfrenchtwins"
+    fullname: >-
+      FRENCH TWINS
+    bio: >-
+      Tony & Jordan - Digital Illusionists 2.0 🎬 🏆 America’s Got Talent - France’s Got Talent - Diversion - Marrakech du Rire …
+    location: "France"
+    followers: 41016
+    engagement: 113
+    commentsToLikes: 0.039820
+    id: ck6tkkfgs4vq40j719q5sbs14
+    verified: true
+    hashtags: "#twins, #magic, #digitalshow, #magicians"
+  - username: "blackbeautybag"
+    fullname: >-
+      Fatou N'DIAYE
+    bio: >-
+      • Beauty Blogger & Content creator since 2007 • Beauty • Travel • Fashion • Lifestyle • Advocacy for inclusion & diversity
+    location: "France"
+    followers: 149342
+    engagement: 33
+    commentsToLikes: 0.018587
+    id: ck6ug66et151w0j7178sr7ud8
+    verified: true
+    hashtags: "#holidayinn, #experiencelhg, #poprevolution, #holidayinnnice"
   - username: "downsyndrome_queen"
     fullname: >-
       Enya
@@ -55,42 +115,6 @@ profiles:
     id: ck6u9iqpdxszj0j71lxh63p9o
     verified: false
     hashtags: "#parisblogger, #parisfashionista, #modelparis, #parisactress"
-  - username: "ladeessdiane"
-    fullname: >-
-      Diane 🌈
-    bio: >-
-      Globe-trotter Nutritionniste ~ épicurienne Rescue Diver Genève
-    location: "France"
-    followers: 11847
-    engagement: 367
-    commentsToLikes: 0.126478
-    id: ck8sy8ntok4680j78qt1hx84f
-    verified: false
-    hashtags: "#nutritioncoach, #chanel, #automne, #sezanelovers"
-  - username: "katerinesavard"
-    fullname: >-
-      Katerine Savard
-    bio: >-
-      Actrice dans un🎬à Cannes •Olympic medalist🥉 •World champion🥇 •Commonwealth Gold🥇 •Pan American Gold🥇 •World university Gold🥇 Teacher🍎 Diver🤿🐠 📷👠
-    location: "France"
-    followers: 15238
-    engagement: 834
-    commentsToLikes: 0.024244
-    id: ck6til1900x4r0j71y9i3gf2g
-    verified: true
-    hashtags: "#womeninsport"
-  - username: "jaybrans"
-    fullname: >-
-      Jay Brans | Photographer + MUA
-    bio: >-
-      📸 Photographer @ophelia.portraits 🌈 Makeup Artist ☁️ Female Creator #DiversifyTheLens 📩 info@jaybrans.com 🐱 @ophelia.britishshorthair’s Mom
-    location: "France"
-    followers: 4028
-    engagement: 992
-    commentsToLikes: 0.155057
-    id: ck5hg72pk19bt0i113waycmro
-    verified: false
-    hashtags: "#jewelryshoot, #campaignshoot, #makeupcampaign, #itspink"
   - username: "floraline_angers"
     fullname: >-
       Isabelle Courtois
@@ -103,28 +127,4 @@ profiles:
     id: ck8t5s7l2b26q0j78he5pr7s2
     verified: false
     hashtags: "#aigrettes, #flowerandmacro, #oiseau, #sassy"
-  - username: "blackbeautybag"
-    fullname: >-
-      Fatou N'DIAYE
-    bio: >-
-      • Beauty Blogger & Content creator since 2007 • Beauty • Travel • Fashion • Lifestyle • Advocacy for inclusion & diversity
-    location: "France"
-    followers: 151952
-    engagement: 177
-    commentsToLikes: 0.011613
-    id: ck6ug66et151w0j7178sr7ud8
-    verified: true
-    hashtags: "#claudiepierlot, #liveinlevis, #claudieholiday, #johannaortizxhm"
-  - username: "nahojah"
-    fullname: >-
-      𝑵 𝑨 𝑯 𝑶 𝑱 𝑨 𝑯
-    bio: >-
-      Fashion, Art &. Design | French girl | Unity in diversity inquiries: nahojahpro@gmail.com
-    location: "France"
-    followers: 14730
-    engagement: 408
-    commentsToLikes: 0.261998
-    id: ck5cjschovegt0i119cdeyyhx
-    verified: false
-    hashtags: "#apmmonaco, #influenceuse, #bloggeuse, #influenceusemode"
 ---

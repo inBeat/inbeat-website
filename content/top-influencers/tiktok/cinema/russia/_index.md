@@ -1,11 +1,11 @@
 ---
-title: Top 10 Cinema TikTok Influencers In Russia In 2023
+title: Top 10 Cinema TikTok Influencers In Russia In 2024
 description: >-
-  Find top cinema TikTok influencers in Russia in 2023. Most popular hashtags: #cinema #challenge #magic.
+  Find top cinema TikTok influencers in Russia in 2024. Most popular hashtags: #cinema #c4d #motiondesign.
 platform: TikTok
 hits: 15
-text_top: See the top-rated TikTok influencers on inBeat.
-text_bottom: Our platform aggregates 15 TikTok influencers like this in Russia for you to work with.
+text_top: Discover the best TikTok accounts on inBeat.
+text_bottom: Our search engine holds 15 TikTok influencers like this in Russia for you to contact.
 profiles:
   - username: "6kformat"
     fullname: >-

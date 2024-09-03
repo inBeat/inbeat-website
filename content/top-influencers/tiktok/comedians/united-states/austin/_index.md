@@ -1,11 +1,11 @@
 ---
-title: Top 10 Comedians TikTok Influencers In Austin In 2023
+title: Top 10 Comedians TikTok Influencers In Austin In 2024
 description: >-
-  Find top comedians TikTok influencers in Austin in 2023. Most popular hashtags: #fyp #comedy #comedian #funny.
+  Find top comedians TikTok influencers in Austin in 2024. Most popular hashtags: #fyp #comedy #funny #comedian.
 platform: TikTok
 hits: 19
-text_top: Identify the top-rated TikTok influencers on inBeat.
-text_bottom: Our platform has 19 TikTok influencers like this in Austin, United States for you to work with.
+text_top: Analyze the top-rated TikTok accounts on inBeat.
+text_bottom: Our database holds 19 TikTok influencers like this in Austin, United States for you to connect with.
 profiles:
   - username: "chrislorenc"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.039803
     id: ckdnc8zqvgkox0j23bm66enh1
     verified: false
-    hashtags: "#duet, #chrislorenc, #fyp, #gay"
+    hashtags: "#chrislorenc, #gay, #fyp, #duet"
   - username: "austinnasso"
     fullname: >-
       Austin Nasso
@@ -42,19 +42,19 @@ profiles:
     commentsToLikes: 0.025902
     id: ck8zazs7s3m670j78b28a88u7
     verified: false
-    hashtags: "#comedians, #comedian, #standupcomedy, #comedy"
+    hashtags: "#funny, #standupcomedian, #standupcomedy, #jokes"
   - username: "thegingerrapper"
     fullname: >-
       Susie Reed Comedy
     bio: >-
       Stand up comedian - AC, NJ Not sure what I’m doing, but I’m trying my best
     location: "United States"
-    followers: 307900
-    engagement: 1395
-    commentsToLikes: 0.012607
+    followers: 305800
+    engagement: 1556
+    commentsToLikes: 0.012548
     id: ckbfc9fd54y4o0j23ymb1ni03
     verified: false
-    hashtags: "#joke, #thecoldestwater, #jokes, #standup"
+    hashtags: "#standup, #funny, #thecoldeswater, #comidian"
   - username: "jazzyj100"
     fullname: >-
       Jasmine Robinson165
@@ -114,7 +114,7 @@ profiles:
     commentsToLikes: 0.015803
     id: ck9nr1v6t6jmx0j78g1btvdx0
     verified: true
-    hashtags: "#pitbull, #celebrityinterviewmoment, #athomeworkout, #dontkillme"
+    hashtags: "#bussinchallenge, #gravitychallenge, #justinbieber, #mariamenounos"
   - username: "imjustinrandall"
     fullname: >-
       Justin Randall

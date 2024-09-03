@@ -1,11 +1,11 @@
 ---
-title: Top 10 Runners TikTok Influencers In 2023
+title: Top 10 Runners TikTok Influencers In 2024
 description: >-
-  Find top runners TikTok influencers in 2023. Most popular hashtags: #fyp #duet #greenscreen #foryoupage.
+  Find top runners TikTok influencers in 2024. Most popular hashtags: #fyp #duet #greenscreen #foryoupage.
 platform: TikTok
-hits: 323
-text_top: See the top-rated TikTok influencers on inBeat.
-text_bottom: Our platform aggregates 323 TikTok influencers like this for you to work with.
+hits: 328
+text_top: Analyze the best TikTok profiles on inBeat.
+text_bottom: Our database holds 328 TikTok influencers like this for you to connect with.
 profiles:
   - username: "nativewomanruns"
     fullname: >-
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.053438
     id: ckb9v6l5puaqp0j2329aw7f5t
     verified: false
-    hashtags: "#pcsseason, #camperlife, #over30, #makemomepic"
+    hashtags: "#over30, #camperlife, #millionactsoflove, #greenscreen"
   - username: "youkenzieme"
     fullname: >-
       Kenzie Jacobsen
@@ -102,7 +102,7 @@ profiles:
     commentsToLikes: 0.085163
     id: ckbfiblkfe3rw0j23ebr838yt
     verified: false
-    hashtags: "#plantbased, #xyzbca, #youshouldknow, #foodie"
+    hashtags: "#wintermagic, #foodie, #xyzbca, #cocinando"
   - username: "jeffliuthetiktokgod"
     fullname: >-
       Jeffy
@@ -114,7 +114,7 @@ profiles:
     commentsToLikes: 0.051540
     id: ckav2lxcb8sqa0j231c8da3pb
     verified: false
-    hashtags: "#redsus, #funny, #jeffliuthetiktokgod, #viral"
+    hashtags: "#duet, #foryou, #viral, #redsus"
   - username: "elemental_running"
     fullname: >-
       Josh Slocum
@@ -126,5 +126,5 @@ profiles:
     commentsToLikes: 0.064546
     id: ckamwjpbi8u5r0i786ktr4p8u
     verified: false
-    hashtags: "#runnergirl, #runningcoach, #trailrun, #xc"
+    hashtags: "#timetofly, #xc, #hokaoneone, #mountainrunning"
 ---

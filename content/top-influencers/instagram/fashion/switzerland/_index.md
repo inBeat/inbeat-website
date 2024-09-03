@@ -1,130 +1,130 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Switzerland In 2023
+title: Top 10 Fashion Instagram Influencers In Switzerland In 2024
 description: >-
-  Find top fashion Instagram influencers in Switzerland in 2023. Most popular hashtags: #fashionblogger #sunset #mood.
+  Find top fashion Instagram influencers in Switzerland in 2024. Most popular hashtags: #ootd #grwm #couple.
 platform: Instagram
-hits: 158
-text_top: Analyze the best Instagram accounts on inBeat.
-text_bottom: Our database holds 158 Instagram influencers like this in Switzerland for you to pitch.
+hits: 267
+text_top: Analyze the top-rated Instagram profiles on inBeat.
+text_bottom: inBeat has 267 Instagram influencers like this in Switzerland for you to connect with.
 profiles:
-  - username: "ilaydaserifi"
+  - username: "couple.rn"
     fullname: >-
-      Ilayda Sherifi
+      Njomëza Kastrati
     bio: >-
-      Zurich, Switzerland 🔒turkish albanian @fashionnova ambassador
+      𝐏𝐎𝐒𝐈𝐓𝐈𝐕𝐄 𝐕𝐈𝐁𝐄𝐒 𝐎𝐍𝐋𝐘 Switzerland Fashion • Inspiration • Lifestyle Owner | @nkstudio.ch
     location: "Switzerland"
-    followers: 259071
-    engagement: 311
-    commentsToLikes: 0.005397
-    id: cl5l336a6990r0i23bbvc58sf
+    followers: 354170
+    engagement: 642
+    commentsToLikes: 0.007867
+    id: ck14jhxvnkfpt0i19mtlu5hmj
+    verified: false
+    hashtags: "#party, #beauty, #fyp, #couplegoals"
+  - username: "glamthug"
+    fullname: >-
+      Cerasela📍: Zurich, Switzerland Creator 🇨🇭
+    bio: >-
+      Expat from 🇷🇴-📍: Switzerland 🇨🇭 Travel | Fashion | Lifestyle | glamthug.com since 2012 📜Online Business & Marketing
+    location: "Switzerland"
+    followers: 9601
+    engagement: 729
+    commentsToLikes: 0.161217
+    id: ck9hamoc3d4kp0j787qbcnjp2
+    verified: false
+    hashtags: "#phuket, #thailand, #visitthailand, #mahanakhon"
+  - username: "maixadeline"
+    fullname: >-
+      mai (she/ her)
+    bio: >-
+      lifestyle, fashion based in: switzerland 💌 agency: @lives_luxury
+    location: "Switzerland"
+    followers: 10077
+    engagement: 766
+    commentsToLikes: 0.113330
+    id: clerzfdn8deu40j08sye6g5km
+    verified: false
+    hashtags: "#pinterestinspired, #aesthetic, #femfeed, #pinterestaesthetic"
+  - username: "lunavissers"
+    fullname: >-
+      Luna Vissers
+    bio: >-
+      Belgian harpist living in Switzerland 💃🏻 Using responsable fashion as an outlet🍃 Secondhand/fair fashion inspo✨ Harpist @lunatheharpist🎶
+    location: "Switzerland"
+    followers: 3045
+    engagement: 1096
+    commentsToLikes: 0.286497
+    id: ckf5ojnzb2ixq0j23ut9e0jwk
+    verified: false
+    hashtags: "#responsableshopping, #idealofsweden, #gifted, #secondhandfashion"
+  - username: "melanielaurah"
+    fullname: >-
+      melanie laura
+    bio: >-
+      lifestyle | health | fashion 🧸 switzerland ☁️ more fun on tiktok
+    location: "Switzerland"
+    followers: 7885
+    engagement: 3776
+    commentsToLikes: 0.029439
+    id: ck8szmubzp19k0j78bv4vo93d
+    verified: false
+    hashtags: "#ad, #scandistyle, #skincare, #zurich"
+  - username: "elenabeyens"
+    fullname: >-
+      Elena Beyens
+    bio: >-
+      • Personal stylist • Founder of Style&Fashion club • Digital content creator & storyteller • My creative space 📍 Zürich 🇨🇭 📩 Business inquires
+    location: "Switzerland"
+    followers: 4495
+    engagement: 644
+    commentsToLikes: 0.339288
+    id: ck9wf1jj2mvgv0j788mqbtfeq
     verified: false
     hashtags: ""
-  - username: "irina_cerutti"
+  - username: "monikabuser"
     fullname: >-
-      Irina Cerutti
+      𝐌𝐨𝐧𝐢𝐤𝐚 𝐁𝐮𝐬𝐞𝐫 ❥
     bio: >-
-      📌 ||Based in Zurich 🌍 || Travel Journalist 🏙 || Lifestyle, Food & Fashion 📩 || Contact: Direct Messagel
+      ✨ Fashion, Family & Skincare 🤍 New Mama 🌸 Celebrating life’s chic moments & motherhood magic 📸 UGC Creator 📍Basel CH & Dornbirn AT 📩 DM for Collabs
     location: "Switzerland"
-    followers: 1101853
-    engagement: 217
-    commentsToLikes: 0.006566
-    id: ck15tlswdipln0i19jly1nbbc
+    followers: 9199
+    engagement: 2791
+    commentsToLikes: 0.092085
+    id: cll83932e89cw0j08w8ydbo87
     verified: false
-    hashtags: ""
-  - username: "nikimehra"
+    hashtags: "#ootd, #grwmroutine, #grwm, #mumlife"
+  - username: "carlacrnt"
     fullname: >-
-      Niki Mehra Madan
+      Carla
     bio: >-
-      A fashion entrepreneur and digital creator 💌: info@nikimehra.com
+      Geneva, Switzerland law student and fashion enthusiast inquiries: carlacrnt@gmail.com Shop the clothing I designed ⬇️
     location: "Switzerland"
-    followers: 476565
-    engagement: 186
-    commentsToLikes: 0.008124
-    id: ck0tze6b8q0od0i19vq72jl49
-    verified: true
-    hashtags: "#couple, #fashionreels, #fashionblogger, #swissalps"
-  - username: "koelve"
-    fullname: >-
-      Elvira 🦋
-    bio: >-
-      fashion is my passion 🎀 music inspires me 🎶 🖤sports make me feel
-    location: "Switzerland"
-    followers: 14084
-    engagement: 1918
-    commentsToLikes: 0.187688
-    id: ck0uetn9rm8rc0i19tbe58bm9
+    followers: 869084
+    engagement: 1663
+    commentsToLikes: 0.002023
+    id: clsf0pa5j9anz0k0836ynsy7j
     verified: false
-    hashtags: "#enjoy, #love, #loveit, #dreams"
-  - username: "bisous_marie"
+    hashtags: "#lilysilk, #livespectacularly"
+  - username: "the.swiss.gentleman"
     fullname: >-
-      𝐌𝐀𝐑𝐈𝐄   ♎︎
+      Marvin Walker | Travel • Lifestyle
     bio: >-
-      FASHION • BEAUTY • LIFESTYLE 𖡡 ordinary swiss girl based in Germany🕊 ☁️ get 𝐟𝐞𝐚𝐭𝐮𝐫𝐞𝐝 using by #bisous_marie ✉️ bisous_marie@outlook.de
+      📍 Switzerland 🇨🇭 | Lucerne 🎩👔 all about fashion & style 🎓 MSc Computer Science 🖤 @thechicadvocate 📩 DM for collaboration 🌐 Blog
     location: "Switzerland"
-    followers: 33880
-    engagement: 740
-    commentsToLikes: 0.094556
-    id: ck9hc3nu4jmbx0j788toj5q3w
+    followers: 14117
+    engagement: 388
+    commentsToLikes: 0.276714
+    id: ck55q4wamc2xt0i118wex5hra
     verified: false
-    hashtags: "#liketimegermany, #basel, #saturday, #blogger"
-  - username: "wanderlust_lauraaa"
+    hashtags: "#classy, #suitup, #classic, #bespoke"
+  - username: "jette"
     fullname: >-
-      Laura ✨
+      I‘mJette
     bio: >-
-      🤍 Travel Girl & Fashion lover 📍 France based
+      𝐘𝐨𝐮𝐓𝐮𝐛𝐞 / 𝐈’𝐦𝐉𝐞𝐭𝐭𝐞 🌙 🖌 𝘩𝘪 𝘧𝘳𝘰𝘮 𝘮𝘺 𝘢𝘳𝘵 𝘴𝘵𝘶𝘥𝘪𝘰 🖼 Art, Fashion & Design “Amazing babe” - Taylor Swift about me
     location: "Switzerland"
-    followers: 15281
-    engagement: 831
-    commentsToLikes: 0.117691
-    id: ck8t1jmdrw0vo0j78r0y4opbn
+    followers: 162297
+    engagement: 370
+    commentsToLikes: 0.006396
+    id: ck0tv9z07ai8q0i19h3zv1xdt
     verified: false
-    hashtags: "#summerbody, #spain, #summermood, #landscapephotography"
-  - username: "delaine_mazenauer"
-    fullname: >-
-      ⚜️D E L A I N E⚜️
-    bio: >-
-      Swiss🇨🇭🇵🇭 Filipina ▪️Travel & Fashion ▪️Proud Mom👦🏻❤️M 📍Switzerland | St.Gallen Travel around the world✈️🌍
-    location: "Switzerland"
-    followers: 16317
-    engagement: 683
-    commentsToLikes: 0.076446
-    id: ck13aiqtfqldv0i19kk4vm3c1
-    verified: false
-    hashtags: "#kays, #idealofsweden, #mrc"
-  - username: "hildawestin"
-    fullname: >-
-      HILDA | SWEDE IN SWITZERLAND
-    bio: >-
-      TRAVEL | LIFESTYLE | FASHION 📍Zürich 🇸🇪 → 🇺🇸→🇨🇭
-    location: "Switzerland"
-    followers: 3479
-    engagement: 2801
-    commentsToLikes: 0.080411
-    id: ckf5tdn15hjvk0j23ufl1q9z3
-    verified: false
-    hashtags: "#nakdfashion, #iammightysolo, #stsworldwide, #stsjourney"
-  - username: "doriane_dml"
-    fullname: >-
-      Doriane | Amsterdam Blogger
-    bio: >-
-      + Midsize Fashion & Lifestyle + French Expat in Amsterdam + Marketing & Communication Specialist + Contact: doriane.blog@gmail.com
-    location: "Switzerland"
-    followers: 20299
-    engagement: 356
-    commentsToLikes: 0.114677
-    id: ck6tx8aaqwe0g0j712ueqckkb
-    verified: false
-    hashtags: "#lesbiologiques, #ad, #cliniquefrance, #happyskin"
-  - username: "massixda"
-    fullname: >-
-      Massimo
-    bio: >-
-      Fashion I Lifestyle I Travel I Beauty I Health 📍Located Zürich 🇨🇭
-    location: "Switzerland"
-    followers: 34356
-    engagement: 350
-    commentsToLikes: 0.075341
-    id: ck6u3kk6tybjm0j71mr7mpp06
-    verified: false
-    hashtags: ""
+    hashtags: "#painting, #painter, #artwork, #artoftheday"
 ---

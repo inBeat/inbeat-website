@@ -1,11 +1,11 @@
 ---
-title: Top 10 Runners TikTok Influencers In United States In 2023
+title: Top 10 Runners TikTok Influencers In United States In 2024
 description: >-
-  Find top runners TikTok influencers in United States in 2023. Most popular hashtags: #fyp #duet #greenscreen #foryoupage.
+  Find top runners TikTok influencers in United States in 2024. Most popular hashtags: #fyp #duet #greenscreen #foryoupage.
 platform: TikTok
-hits: 209
-text_top: Discover the top-rated TikTok profiles on inBeat.
-text_bottom: Our database aggregates 209 TikTok influencers like this in United States for you to collaborate.
+hits: 214
+text_top: Identify the top-rated TikTok influencers on inBeat.
+text_bottom: Our database holds 214 TikTok influencers like this in United States for you to work with.
 profiles:
   - username: "nativewomanruns"
     fullname: >-
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.053438
     id: ckb9v6l5puaqp0j2329aw7f5t
     verified: false
-    hashtags: "#pcsseason, #camperlife, #over30, #makemomepic"
+    hashtags: "#over30, #camperlife, #millionactsoflove, #greenscreen"
   - username: "youkenzieme"
     fullname: >-
       Kenzie Jacobsen
@@ -90,7 +90,7 @@ profiles:
     commentsToLikes: 0.085163
     id: ckbfiblkfe3rw0j23ebr838yt
     verified: false
-    hashtags: "#plantbased, #xyzbca, #youshouldknow, #foodie"
+    hashtags: "#wintermagic, #foodie, #xyzbca, #cocinando"
   - username: "jeffliuthetiktokgod"
     fullname: >-
       Jeffy
@@ -102,7 +102,7 @@ profiles:
     commentsToLikes: 0.051540
     id: ckav2lxcb8sqa0j231c8da3pb
     verified: false
-    hashtags: "#redsus, #funny, #jeffliuthetiktokgod, #viral"
+    hashtags: "#duet, #foryou, #viral, #redsus"
   - username: "elemental_running"
     fullname: >-
       Josh Slocum
@@ -114,7 +114,7 @@ profiles:
     commentsToLikes: 0.064546
     id: ckamwjpbi8u5r0i786ktr4p8u
     verified: false
-    hashtags: "#runnergirl, #runningcoach, #trailrun, #xc"
+    hashtags: "#timetofly, #xc, #hokaoneone, #mountainrunning"
   - username: "chadddyboi"
     fullname: >-
       Chad Hughes

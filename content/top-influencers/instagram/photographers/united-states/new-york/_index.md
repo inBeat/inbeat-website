@@ -1,24 +1,24 @@
 ---
-title: Top 10 Photographers Instagram Influencers In New York In 2023
+title: Top 10 Photographers Instagram Influencers In New York In 2024
 description: >-
-  Find top photographers Instagram influencers in New York in 2023. Most popular hashtags: #blacklivesmatter #apricotmagazine #dreamermagazine.
+  Find top photographers Instagram influencers in New York in 2024. Most popular hashtags: #blacklivesmatter #findyourpark #vsco.
 platform: Instagram
-hits: 785
-text_top: Identify the most popular Instagram accounts on inBeat.
-text_bottom: Our platform has 785 Instagram influencers like this in New York, United States for you to connect with.
+hits: 865
+text_top: Identify the most popular Instagram influencers on inBeat.
+text_bottom: inBeat holds 865 Instagram influencers like this in New York, United States for you to pitch.
 profiles:
-  - username: "zaymaverick"
+  - username: "zaksuhar"
     fullname: >-
-      zay maverick
+      ZAK SUHAR
     bio: >-
-      God first. Film photographer. New York
+      zaksuhar@gmail.com Explorer and freelance photographer. New York by way of the Midwest. Your one-stop creative shop ↓
     location: "United States"
-    followers: 20944
-    engagement: 1259
-    commentsToLikes: 0.072351
-    id: ck55lptus24n20i11fbbylx4p
+    followers: 15513
+    engagement: 204
+    commentsToLikes: 0.089504
+    id: ck5bzzm5gs5cy0i11h8woeh5d
     verified: false
-    hashtags: "#blacklivesmatter"
+    hashtags: "#ad, #mazda, #drivemazda, #gilisports"
   - username: "underground_nyc"
     fullname: >-
       Aaron ✊🏾

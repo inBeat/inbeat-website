@@ -1,12 +1,24 @@
 ---
-title: Top 10 Architecture Instagram Influencers In Ukraine In 2023
+title: Top 10 Architecture Instagram Influencers In Ukraine In 2024
 description: >-
-  Find top architecture Instagram influencers in Ukraine in 2023. Most popular hashtags: #architecture #arts #bathroomdesign #bedroomdesign.
+  Find top architecture Instagram influencers in Ukraine in 2024. Most popular hashtags: #architecture #interiordesign #homedecor #design.
 platform: Instagram
-hits: 13
-text_top: Analyze the most popular Instagram profiles on inBeat.
-text_bottom: inBeat holds 13 Instagram influencers like this in Ukraine for you to work with.
+hits: 17
+text_top: Analyze the top-rated Instagram accounts on inBeat.
+text_bottom: inBeat aggregates 17 Instagram influencers like this in Ukraine for you to work with.
 profiles:
+  - username: "makhno_studio"
+    fullname: >-
+      Makhno Studio
+    bio: >-
+      ARCHITECTURE | INTERIOR | PRODUCT DESIGN Offices: Kyiv, NY📍>> Working all over the world 🌎 @makhno_product
+    location: "Ukraine"
+    followers: 223729
+    engagement: 59
+    commentsToLikes: 0.006423
+    id: ck0vz0c4x6nt10i19e4uuf8nm
+    verified: false
+    hashtags: "#artspace, #makhno, #homedecor, #interiordesign"
   - username: "alexander_zhidkov_"
     fullname: >-
       ALEXANDER  ZHIDKOV  ARCHITECT
@@ -31,6 +43,54 @@ profiles:
     id: ck5hceho1hndg0i11jyy6rofe
     verified: false
     hashtags: "#interiordesign, #designinterior, #bathroom, #bedroomdecor"
+  - username: "forever_stu"
+    fullname: >-
+      Anastasiia Reznichenko | Interior design | Animation | Education
+    bio: >-
+      3D artist, patreon creator from Times Square🇺🇦 NFT.NYC23 Visual marketing, interior/product renders I make art, not just pictures. Products ↓
+    location: "Ukraine"
+    followers: 159216
+    engagement: 274
+    commentsToLikes: 0.009321
+    id: ck9h9pkxw9fyh0j78pjm7rhjo
+    verified: false
+    hashtags: "#softminimalism, #3dartist, #architecture, #designmilk"
+  - username: "lviv1256"
+    fullname: >-
+      Так люблю той Львів
+    bio: >-
+      що бракує ми слів :) #lviv1256
+    location: "Ukraine"
+    followers: 105919
+    engagement: 210
+    commentsToLikes: 0.006832
+    id: ck13d29yf3ayy0i19b84e8t7s
+    verified: false
+    hashtags: ""
+  - username: "yod.group"
+    fullname: >-
+      YOD.GROUP
+    bio: >-
+      Creating World-Class Interiors for Restaurants, Hotels, and More. Comprehensive approach to hospitality design. Working worldwide
+    location: "Ukraine"
+    followers: 35927
+    engagement: 96
+    commentsToLikes: 0.013203
+    id: ck5hl7vikjqhb0i11pz351wzs
+    verified: false
+    hashtags: "#interiorsmagazine, #building, #yoddesign, #homedecor"
+  - username: "igor_sirotov_architects"
+    fullname: >-
+      IGOR_SIROTOV_ARCHITECTS
+    bio: >-
+      Worldwide interior and exterior design service. Project support everywhere all over the world. 🇺🇦 +380680001011 (Telegram) 🌍 +380938888001 (WhatsApp)
+    location: "Ukraine"
+    followers: 178274
+    engagement: 95
+    commentsToLikes: 0.010478
+    id: ck13b1q8dt9dx0i19vf5os5z1
+    verified: false
+    hashtags: "#homedecor, #design, #interiordesign, #architecture"
   - username: "godsend_v"
     fullname: >-
       𝓥𝓮𝓻𝓸𝓷𝓲𝓬𝓪 𝓲𝓷 𝓓𝓾𝓫𝓪𝓲
@@ -55,18 +115,6 @@ profiles:
     id: ckaorld1inqnl0i78llvk2zth
     verified: false
     hashtags: "#sivakpartners, #architecturefactor, #architecture, #designers"
-  - username: "lviv1256"
-    fullname: >-
-      Так люблю той Львів,
-    bio: >-
-      що бракує ми слів :) #lviv1256
-    location: "Ukraine"
-    followers: 88293
-    engagement: 499
-    commentsToLikes: 0.004144
-    id: ck13d29yf3ayy0i19b84e8t7s
-    verified: false
-    hashtags: "#oldcity, #streetphotography, #christmas, #snow"
   - username: "lviv_soul"
     fullname: >-
       Львів — місто з душею 🙌
@@ -79,52 +127,4 @@ profiles:
     id: ck13d26ny3ag70i19ec810gta
     verified: false
     hashtags: ""
-  - username: "artpartner_architects"
-    fullname: >-
-      A R T P A R T N E R architects
-    bio: >-
-      Creating your own space. Based in Kyiv • Working Worldwide ▪️interior design ▪️architecture ✉️ artpartnerdesigners@gmail.com
-    location: "Ukraine"
-    followers: 87813
-    engagement: 203
-    commentsToLikes: 0.005195
-    id: ck5ck31o0w11r0i115zdbo4fy
-    verified: false
-    hashtags: "#restlessarch, #designonly, #warminterior, #diningroom"
-  - username: "schoolkrasnov"
-    fullname: >-
-      ШКОЛА АРХИТЕКТУРНОГО РИСУНКА
-    bio: >-
-      КУРСЫ РИСУНКА 🔖Научим строить перспективу 🔖Научим рисовать клаузуры 🔖Научим рисовать наброски 👇👇👇YouTube канал. Уроки!👇👇👇 Только работы наших учеников
-    location: "Ukraine"
-    followers: 27054
-    engagement: 166
-    commentsToLikes: 0.004121
-    id: ckaosnhpqs8l30i788xlkrubm
-    verified: false
-    hashtags: ""
-  - username: "art_mcalister"
-    fullname: >-
-      Artem Shiyan
-    bio: >-
-      Ｓａｌｅ ｏｒｄｅｒ ＤＭ 🌐 Global shipping: DHL, FedEx 💸 Prepayment via Western Union ▫️Ukrainian artist, ᴏᴅᴇꜱꜱᴀ🇺🇦 ▫️ʀᴇᴀʟɪꜱᴛɪᴄ ᴘᴏʀᴛʀᴀɪᴛꜱ ɢʀᴀᴘʜɪᴛᴇ ᴀɴᴅ ᴄʜᴀʀᴄᴏᴀʟ
-    location: "Ukraine"
-    followers: 16237
-    engagement: 1343
-    commentsToLikes: 0.034215
-    id: ck0tv2r6v9oqj0i199v5xo9st
-    verified: false
-    hashtags: "#arts, #drawings, #drawingselfie, #drawingisfun"
-  - username: "yuli_anna_m"
-    fullname: >-
-      Yulianna M.
-    bio: >-
-      🇺🇦 Ukrainian 🇨🇭École hôtelière de Lausanne‘20 📍Cyprus
-    location: "Ukraine"
-    followers: 10982
-    engagement: 444
-    commentsToLikes: 0.019201
-    id: ck6u7q26kn02z0j71pjna5ofu
-    verified: false
-    hashtags: "#youtube, #youtubechannels, #befit, #eathealthy"
 ---

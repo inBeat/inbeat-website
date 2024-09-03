@@ -1,24 +1,48 @@
 ---
-title: Top 10 Graphic-Designers Instagram Influencers In Germany In 2023
+title: Top 10 Graphic-Designers Instagram Influencers In Germany In 2024
 description: >-
-  Find top graphic-designers Instagram influencers in Germany in 2023. Most popular hashtags: #happy #stayandwander #explore.
+  Find top graphic-designers Instagram influencers in Germany in 2024. Most popular hashtags: #earthpix #explore #love.
 platform: Instagram
-hits: 34
-text_top: Identify the most popular Instagram accounts on inBeat.
-text_bottom: inBeat aggregates 34 Instagram influencers like this in Germany for you to collaborate.
+hits: 37
+text_top: Analyze the top-rated Instagram influencers on inBeat.
+text_bottom: Our search engine has 37 Instagram influencers like this in Germany for you to connect with.
 profiles:
+  - username: "clemence_gouy"
+    fullname: >-
+      Clémence Gouy
+    bio: >-
+      French illustrator based in Amsterdam ✸ Agents: @thedifferentfolk 🇬🇧 & @creasenso🇫🇷 💌 hello@clemgouy.com Also graphic designer: @clemgouy
+    location: "Germany"
+    followers: 52010
+    engagement: 300
+    commentsToLikes: 0.030957
+    id: ck6uazxfa6obs0j71djcw5gwe
+    verified: false
+    hashtags: "#art, #procreate, #painting, #mural"
+  - username: "ninaalexandra_"
+    fullname: >-
+      Nina Alexandra l Vienna
+    bio: >-
+      ☾⋆｡𖦹 °✩ outfits, lifestyle & other stuff graphic designer @ng_design_vienna ngd_business@yahoo.com
+    location: "Germany"
+    followers: 11447
+    engagement: 295
+    commentsToLikes: 0.019224
+    id: ck602rhj5ireq0i14npl2uea2
+    verified: false
+    hashtags: "#travelgram, #seoulaesthetic, #southkorea, #amsterdam"
   - username: "bouncing_betti"
     fullname: >-
-      Betti  |  Salzburg
+      Bettina Brunauer
     bio: >-
-      graphic designer with a big passion for • mountains • sports • photography • family member @salewa @atomicski @suunto 📧 bouncing_betti@gmx.at
+      graphic designer with a big passion for • ⛰️ • 🏋🏼‍♀️• 🥊 • content creation • family member @salewa @atomicski 📧 bouncing_betti@gmx.at
     location: "Germany"
-    followers: 21807
-    engagement: 517
-    commentsToLikes: 0.033106
+    followers: 23707
+    engagement: 131
+    commentsToLikes: 0.014654
     id: ck0u1iq3mx26o0i19n7pk3h7y
     verified: false
-    hashtags: "#berchtesgaden, #puremountain, #adventureseeker, #outdooradventures"
+    hashtags: "#lakeview, #girlswhohike, #mountainlife, #trailrunning"
   - username: "vans.blanc"
     fullname: >-
       𝐕 𝐀 𝐍 𝐒
@@ -31,30 +55,6 @@ profiles:
     id: ckaowvcl2am100i78970d3f9f
     verified: false
     hashtags: "#berlin, #girlswithcurls, #curlyhair, #illustration"
-  - username: "maximeee"
-    fullname: >-
-      Maxime Herbord
-    bio: >-
-      Graphic Designer & Flowergirl 🌷 Bachelorette 2021 Germany / Netherlands 🐠 Hello@maximeee.com Impressum: @zalent_
-    location: "Germany"
-    followers: 157705
-    engagement: 563
-    commentsToLikes: 0.009918
-    id: ck13cju440pf10i19tfpneo4s
-    verified: true
-    hashtags: "#ootdinspo, #prettylittleiiinspo, #ootdfashion, #bachelorette2021"
-  - username: "jessyscherl"
-    fullname: >-
-      Bikergirl 🏍 JESSY 💕
-    bio: >-
-      🇩🇪 GERMANY // Bavaria 🏍 KTM 690 SMC R & Triumph Daytona 675 🖥 Graphic designer @dirtbikecustomcollabo ♥️ @v.timo
-    location: "Germany"
-    followers: 17296
-    engagement: 1382
-    commentsToLikes: 0.012748
-    id: ck6ud1fjnikc80j715dl21tll
-    verified: false
-    hashtags: "#bikergirl, #longhair, #tattoos, #happy"
   - username: "_sedaozer_"
     fullname: >-
       Seda Özer
@@ -78,7 +78,7 @@ profiles:
     commentsToLikes: 0.076298
     id: ck5cgoarsp81a0i11wbg37gm2
     verified: false
-    hashtags: "#fiftyshades, #royalsnappingartists, #lensloves, #soft"
+    hashtags: "#ip, #pretty, #colors, #vzcomacro"
   - username: "the_fake_face"
     fullname: >-
       𝒮ℴ𝓅𝒽𝒾ℯ
@@ -102,7 +102,7 @@ profiles:
     commentsToLikes: 0.026864
     id: ckaotpjfnwx2f0i78k0e9c4p5
     verified: false
-    hashtags: "#mensfashion, #cute, #petfluencer, #dachshund"
+    hashtags: "#dachshund, #dudeswithdogs, #doxie, #instadog"
   - username: "katharinawildenhof"
     fullname: >-
       Katharina Wildenhof
@@ -114,7 +114,7 @@ profiles:
     commentsToLikes: 0.035284
     id: ck0w0u5drg1p10i19nrv9leh6
     verified: false
-    hashtags: "#hellofrom, #visualsofeddarth, #longhair, #sjoerdweekly"
+    hashtags: "#earthpix, #fantasticearth, #moodygrams, #ourmoodydays"
   - username: "davidarterd"
     fullname: >-
       D A V I D  A R T E

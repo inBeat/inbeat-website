@@ -1,130 +1,130 @@
 ---
-title: Top 10 Barbers Instagram Influencers In Morocco in 2023
+title: Top 10 Barbers Instagram Influencers In Morocco In 2024
 description: >-
-  Find top barbers Instagram influencers in Morocco in 2023. Most popular hashtags: #fashion #love #lifestyle #instagram.
+  Find top barbers Instagram influencers in Morocco in 2024. Most popular hashtags: #love #fashion #casablanca.
 platform: Instagram
-hits: 13
-text_top: Identify the best Instagram influencers on inBeat.
-text_bottom: Our search engine has 13 Instagram influencers like this in Morocco for you to collaborate.
+hits: 11
+text_top: Identify the top-rated Instagram influencers on inBeat.
+text_bottom: Our database aggregates 11 Instagram influencers like this in Morocco for you to contact.
 profiles:
   - username: "fall_le_maitre_barber"
     fullname: >-
-      Cheikh fall
+      Cheikh Fall
     bio: >-
-      💈LE MAITRE BARBER 🇸🇳 live in 🇲🇦 😂 Humour 100% marocain ✉️ Elcheikhfall11@gmail.com 📺 https://www.younow.com/chiekhfall 👻 cfall2801 👨🏿‍💻 en MP
+      💈LE MAITRE BARBER 🇸🇳 live in 🇲🇦 😂 Humour 100% marocain ✉️ Elcheikhfall11@gmail. ↘️⬇️WhatsApp & Localisation & Application⬇️↙️
     location: "Morocco"
-    followers: 108185
-    engagement: 239
-    commentsToLikes: 0.016227
+    followers: 209736
+    engagement: 247
+    commentsToLikes: 0.019375
     id: ck6tqs832tqvs0j7175vavsuz
     verified: false
-    hashtags: ""
-  - username: "mohamed_zerrouki"
+    hashtags: "#restaurant, #casablanca, #maroc, #cool"
+  - username: "rahimbenaichouba"
     fullname: >-
-      👑Artist 🌍 zerrouki 👑
+      Rahim Benaichouba
     bio: >-
-      📍Morroco🇲🇦 ¶Live every moment like it's the last moment in your life¶ ®Painter🖌️/ barber ✂️//Traveler 🇲🇦🏔️🌍 📸 Photographer 📸 📩Zarouki.art@gmail. com
+      Contact 📧 rahimbenaichouba1@gmail.com
     location: "Morocco"
-    followers: 27157
-    engagement: 375
-    commentsToLikes: 0.039524
-    id: ckaown9k79len0i787tkyogj8
+    followers: 317465
+    engagement: 414
+    commentsToLikes: 0.008835
+    id: ck14h3i7u8d640i199nzl5ksi
     verified: false
-    hashtags: "#trip, #instagood, #instaphoto, #photography"
-  - username: "shadow.barber"
+    hashtags: "#ootd, #fashionblogger, #love, #bhfyp"
+  - username: "yassine_cavalier"
     fullname: >-
-      Shadow barber
+      Wild & free 🪶🇲🇦
     bio: >-
-      💆 To enjoy a high quality shave ✂ All you have to come to us 💺 Book yourself an appointment 👏 The secret of my success is your support. Thank you
+      وَمَنْ يَتَّقِ اللَّهَ يَجْعَلْ لَهُ مَخْرَجًا 🐴 @essaouira_horseride 🚘 @essaouira_prestigecar
     location: "Morocco"
-    followers: 9664
-    engagement: 384
-    commentsToLikes: 0.027679
-    id: ck0w2dvednv0r0i197zm7p7of
+    followers: 608033
+    engagement: 350
+    commentsToLikes: 0.006694
+    id: ck6ui4eond01u0j71ftbr63ta
     verified: false
-    hashtags: ""
-  - username: "mouad.mercado"
+    hashtags: "#marrakech, #horsesofinstagram, #geneve, #oslo"
+  - username: "lsanl7a9_official"
     fullname: >-
-      🥇𝓜𝓸𝓾𝓪𝓭 𝓶𝓸𝓾𝓼𝓳𝓲𝓭🥇
+      Lsan L7a9 / لسان الحق
     bio: >-
-      #sh300i ❤️💉 2ème compte @mousjidmouad 📍 : 𝕮𝖆𝖘𝖆𝖇𝖑𝖆𝖓𝖈𝖆 / 𝐌𝐨𝐫𝐨𝐜𝐜𝐨 🇲🇦 📩 : mouadmousjid58@gmail.com 🔥 :𝑩𝒊𝒌𝒆 𝒍𝒊𝒇𝒆🔥 🎉 : 28/04 ✨ Fb :معاد مسجد
+      - Moroccan Rapper, Songwriter 📝 - Booking : Lsan.L7a9.Manager@gmail.com ✉ - DL4LIFE 🚨Spotify : Lsan L7a9 🚨Youtube : Lsan L7a9 ▪︎Check out new Clip ⬇️
     location: "Morocco"
-    followers: 8481
-    engagement: 1004
-    commentsToLikes: 0.028364
-    id: ckap7kufmki630i784kum0aw0
+    followers: 37576
+    engagement: 394
+    commentsToLikes: 0.024251
+    id: ckf5ueqrqkmw80j23gzvyzr87
     verified: false
-    hashtags: "#wheelies, #polini, #maroc, #lavagemdemoto"
-  - username: "espada.yassinee"
+    hashtags: "#nike, #classic, #dl4life, #lsan"
+  - username: "cravataofficiel"
     fullname: >-
-      Yassine Moussaoui
+      SalimCravata🇲🇦
     bio: >-
-      _2eme: @espadayassinephotography _ambassador : @newchic_asia -📷ArtPhotography -👔Fashion blogger -🏋️‍♂️Fitness - 🤝Collab Dm Me - 🇲🇦 Morocco/Tanger
+      R.I.P. Sharif 👼🤍 Management : @iliana_razzouk
     location: "Morocco"
-    followers: 89588
-    engagement: 252
-    commentsToLikes: 0.042663
-    id: ck6uevi25tbae0j714d36cpnl
-    verified: false
-    hashtags: "#yellowtshirt, #motivation, #fitnessmotivation, #dapperman"
-  - username: "samadiilias"
+    followers: 1258738
+    engagement: 273
+    commentsToLikes: 0.012000
+    id: ck5he1nw9qk5q0i1161vun0ko
+    verified: true
+    hashtags: "#maroctelecom, #ghberti"
+  - username: "salmasalaheddine"
     fullname: >-
-      STYLE YOUR HAIR WITH SAMADI 😅
+      سلمى صلاح الدين ✨
     bio: >-
-      Very grateful for sharing my world with you 🤩. 📌 CEO @hairstyleguys 📍Tangier 🇲🇦 | 🇪🇸
+      For business inquiries & advertising 👇🏻 📩 salaheddine.salma1@gmail.com
     location: "Morocco"
-    followers: 24334
-    engagement: 257
-    commentsToLikes: 0.039615
-    id: ck5chu6htrgx50i11rcmq5alc
+    followers: 2158310
+    engagement: 141
+    commentsToLikes: 0.006767
+    id: ck5hsc9pbwcnd0i11wkfyntrb
     verified: false
-    hashtags: "#hairstyles, #morocco, #summer, #tangier"
-  - username: "assil.amor"
+    hashtags: "#asma, #ibtissamtiskat, #love, #light"
+  - username: "yacinelmnawar"
     fullname: >-
-      • Assil Amor  | أصيل عمور
+      ياسين منور yacine mnor
     bio: >-
-      •Personal trainer 🏋🏻‍♂️ •DOP / Filmmaker 📽 @theaaproduction •Content creator 🔮 • 📩 :amorassil25@gmail.com •LATEST VLOGG SUBSCRIBE👇🏻 🚨
+      Compte Instagram officiel de Yacine lmnawar . Audio producer Manager d’artiste Journaliste conseiller stratégie média
     location: "Morocco"
-    followers: 23416
-    engagement: 238
-    commentsToLikes: 0.021750
-    id: ck14ht85hc0je0i19k2oqy8av
+    followers: 186913
+    engagement: 72
+    commentsToLikes: 0.026252
+    id: ck5c7mdcz7svz0i11t5lmxp52
     verified: false
-    hashtags: "#style, #motorbike, #love, #biker"
-  - username: "samir___fit"
+    hashtags: "#itsmybirthday"
+  - username: "hgfphoto.kerman"
     fullname: >-
-      S A M I R    F T N E S
+      MehrdadMontazer Photography©
     bio: >-
-      🇲🇦𝑤𝑒𝑙𝑐𝑜𝑚𝑒🇪🇺 𝑀𝑦 𝑆𝑛𝑎𝑝𝐶ℎ𝑎𝑇 : 𝑆𝑎𝑚_𝑒𝑙2 𝐹𝑛𝑡𝑛𝑒𝑠 𝐴𝑑𝑑𝑖𝑐𝑡 | 𝑊𝑜𝑅.𝐾𝑜𝑢𝑇🔥 👉🏻𝐹𝑜𝐿𝐿𝑜𝑤 𝑀𝑒 : 50 𝐾 💯 🅹🆄🆂🆃 🆃🆁🆄🆂🆃 🆈🅾︎🆄🆁🆂🅴🅻🅵 💯
+      contact : direct 🇮🇷 تهران-قيطريه كرمان -شفا-كوچه ١٩
     location: "Morocco"
-    followers: 24038
-    engagement: 170
-    commentsToLikes: 0.017952
-    id: ckaox68m8byt10i78w6tz5f44
+    followers: 8240
+    engagement: 952
+    commentsToLikes: 0.014027
+    id: ckaosmi2is3wp0i78prhjpmjv
     verified: false
-    hashtags: "#fes, #taza, #ouajda, #casa"
-  - username: "oussama_mouhabi"
+    hashtags: "#beauty, #fashion, #women, #studio"
+  - username: "salim_kessabi"
     fullname: >-
-      OUSSAMA MOUHABI ®️
+      Salim Kessabi
     bio: >-
-      Official instagram ▪Lifestyle 🕶 ▪Fashion blogger 👕 ▪MoRoccaN 🇲🇦 ▪Follow Me ☝️
+      ⚽ Football Manager⁣⁣ 📱 DM for Info Bookings 🌍 World Traveller⁣⁣ 🚩 Italy • Morocco • Spain
     location: "Morocco"
-    followers: 5690
-    engagement: 633
-    commentsToLikes: 0.018214
-    id: ckf5n65yawxi00j23p363qu6i
+    followers: 36085
+    engagement: 330
+    commentsToLikes: 0.007785
+    id: ck5c7mei57sxk0i11mmkbz91w
     verified: false
-    hashtags: "#casablanca, #blogger, #spain, #followbackinstantly"
-  - username: "mehdinajy"
+    hashtags: "#1stinafrica, #covid"
+  - username: "yasserouaziz"
     fullname: >-
-      Mehdi Najy
+      Yasser Ouaziz - ياسر واعزيز
     bio: >-
-      🔹Moroccan model🇲🇦 🔹Diabétic T1 / TEDx speaker 🎤 🔹Sponspored by @lionzathletics 🔹Coach a @passagefitnessofficial 🔹MA chaîne YouTube 👇
+      With extensive experience in the ad tech and mobile app industry, Yasser is a Moroccan entrepreneur with a passion for tech & innovation.
     location: "Morocco"
-    followers: 50284
-    engagement: 574
-    commentsToLikes: 0.014858
-    id: ck5btskkxgixf0i11f39s3m1e
+    followers: 72471
+    engagement: 579
+    commentsToLikes: 0.014613
+    id: ck5hqv12rtrqy0i11zmj93yb3
     verified: false
-    hashtags: "#moroccanblogger, #love, #follow, #followme"
+    hashtags: "#dollypartonchallenge, #stayhome, #deconfinement"
 ---

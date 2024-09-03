@@ -1,12 +1,60 @@
 ---
-title: Top 10 Cosmetics Instagram Influencers In Canada In 2023
+title: Top 10 Cosmetics Instagram Influencers In Canada In 2024
 description: >-
-  Find top cosmetics Instagram influencers in Canada in 2023. Most popular hashtags: #makeup #cosmetics #beauty #love.
+  Find top cosmetics Instagram influencers in Canada in 2024. Most popular hashtags: #makeup #makeupartist #cosmetics #instamakeup.
 platform: Instagram
-hits: 37
-text_top: Analyze the top-rated Instagram accounts on inBeat.
-text_bottom: Our database holds 37 Instagram influencers like this in Canada for you to contact.
+hits: 86
+text_top: See the top-rated Instagram accounts on inBeat.
+text_bottom: Our search engine aggregates 86 Instagram influencers like this in Canada for you to work with.
 profiles:
+  - username: "dr.bimesl"
+    fullname: >-
+      Hamid Bimesl
+    bio: >-
+      🇨🇦Medical Director @ucclinic 🩺G.P practicing in Cosmetic Dermatology 💉Board Certified Doctor from AAOPM 🎓 Associated Clinical Professor IUHS
+    location: "Canada"
+    followers: 195605
+    engagement: 2079
+    commentsToLikes: 0.022316
+    id: ckaoqz7f3l0fz0i78w8nd9ihr
+    verified: false
+    hashtags: "#1399"
+  - username: "its.pariyaa"
+    fullname: >-
+      Pariya Samadi
+    bio: >-
+      PhD Candidate 💊💉 📍🇨🇦 ‏ Side Passion(Stylist/Designer): @luxiya.design My formulated beauty/cosmetics, Soon: @luxiya.beauty
+    location: "Canada"
+    followers: 41447
+    engagement: 355
+    commentsToLikes: 0.039017
+    id: ck602s7f7iv1h0i14h3g5rmee
+    verified: false
+    hashtags: "#makeuplook, #style, #stylist, #kavyarofficial"
+  - username: "doctormoon.1"
+    fullname: >-
+      Mahnaz Farid Talebnia
+    bio: >-
+      Tehran University of Medical Science🩺 Founder,Doctormoon Aesthetics & Cosmetics Skin🍑Hair👩Health💚lifestyle 👨‍👩‍👦‍👦 ✉️هماهنگی @doctormoon.2
+    location: "Canada"
+    followers: 1314528
+    engagement: 438
+    commentsToLikes: 0.050034
+    id: ck8t3hsrz3cmn0j78loflb7as
+    verified: false
+    hashtags: "#richmondhill"
+  - username: "kennawhitnell"
+    fullname: >-
+      Kenna Whitnell
+    bio: >-
+      👩🏻‍🔬 Cosmetic Chemist 🌎 Global Beauty Brand Strategist @cosmexlink
+    location: "Canada"
+    followers: 13302
+    engagement: 228
+    commentsToLikes: 0.061841
+    id: ck5q9qz4ycjc60i11pnnu02gx
+    verified: false
+    hashtags: "#iaskedinkey, #spotlightingredients, #botox, #neutrogenaca"
   - username: "milanijoymakeup"
     fullname: >-
       MAKEUP ARTIST & EDUCATOR
@@ -18,7 +66,7 @@ profiles:
     commentsToLikes: 0.032055
     id: ck15pik8iy29h0i1902dfst0j
     verified: false
-    hashtags: "#makeupartist, #sydneymakeupartist, #makeup, #milanijoy"
+    hashtags: "#beauty, #ardelllashesaus, #sydneymakeupartist, #makeupbyme"
   - username: "this_is_forty_"
     fullname: >-
       Terah
@@ -30,7 +78,7 @@ profiles:
     commentsToLikes: 0.060644
     id: ck0w6ha6f8k4a0i191beb5hbe
     verified: false
-    hashtags: "#makeup, #blush, #glow, #beauty"
+    hashtags: "#cosmetics, #highlight, #makeupforever, #skincare"
   - username: "hoitattoo"
     fullname: >-
       HOI
@@ -42,7 +90,19 @@ profiles:
     commentsToLikes: 0.671537
     id: ck6ub18r16vq30j716ixdfogp
     verified: false
-    hashtags: "#nanomastery, #singleneedletattoo, #nano, #basixgang"
+    hashtags: "#hoitattoo, #nanobrows, #browtattoo, #tattootraining"
+  - username: "jenevoy_"
+    fullname: >-
+      J E N  E V O Y
+    bio: >-
+      Owner of J E M S: @jenevoymakeupstudio Lover of Beauty💄 Wifey to Ryan 👩‍❤️‍👨 Mama to Scottie 👧 I show it all on here & more!💋 📍Toronto, Canada
+    location: "Canada"
+    followers: 19514
+    engagement: 458
+    commentsToLikes: 0.074659
+    id: ck6u3wz0u0d650j71oyoxi4d7
+    verified: false
+    hashtags: "#makeupbrushes, #makeuplover, #instamakeup, #jems"
   - username: "hai_yun2"
     fullname: >-
       ané 💫
@@ -54,7 +114,7 @@ profiles:
     commentsToLikes: 0.032943
     id: ckap0953xpas10i78j8rg9wn7
     verified: false
-    hashtags: "#catgirl, #pcgaming, #noellegenshinimpact, #ffxivcosplay"
+    hashtags: "#cosplaysexy, #craft, #fyp, #crossplay"
   - username: "model_lavin"
     fullname: >-
       Lavin 👑
@@ -67,64 +127,4 @@ profiles:
     id: ck6tkxeq45lbl0j71ebqey78f
     verified: false
     hashtags: "#patpatshopping, #accessories, #winter, #canada"
-  - username: "lavan_kingdom"
-    fullname: >-
-      Lavan 🐣
-    bio: >-
-      Little Baby 19/8/2019 Just Eating😋 Crying 😢 Sleeping 😴 Account run by mommy I’m not alone, Allah is always with me For collaboration DM 📥me
-    location: "Canada"
-    followers: 56858
-    engagement: 322
-    commentsToLikes: 0.038894
-    id: ck14ju3oim70v0i193dhng9hd
-    verified: false
-    hashtags: "#love, #goodnight, #4momsmamaroo, #levisbaby"
-  - username: "mcleansy"
-    fullname: >-
-      meg
-    bio: >-
-      ☞ PG13 feed | NC17 stories ☞ offensive by nature with a heart of gold ☞ 🇨🇦 born and raised ☞ hair, fashion, jewelry, comedy
-    location: "Canada"
-    followers: 24702
-    engagement: 423
-    commentsToLikes: 0.396831
-    id: ck135rtni2wq30i19cco5eo5a
-    verified: false
-    hashtags: "#tattooedwoman, #girlswithglasses, #ontario, #camera"
-  - username: "lovebtntheracks"
-    fullname: >-
-      Lina Dinh
-    bio: >-
-      🐶 @Taro_Teaba_Inu Garnier hair colour featured model - Bronde B1 Collab: lina.dinh@icloud.com 👇🏻Blog
-    location: "Canada"
-    followers: 25595
-    engagement: 131
-    commentsToLikes: 0.070155
-    id: ck8symjwgl9zy0j78tjj6edn1
-    verified: false
-    hashtags: "#pugliagram, #picoftheday, #taranto, #beautiful"
-  - username: "joecyzhang"
-    fullname: >-
-      𝐉𝐎𝐄𝐂𝐘 🇨🇦 𝐓𝐫𝐚𝐯𝐞𝐥 𝐈𝐧𝐟𝐥𝐮𝐞𝐧𝐜𝐞𝐫
-    bio: >-
-      ♡ The Official #joecyzhang ♡ Fashion | Beauty | Food | Travel ♡ Canada Lifestyle Blogger ♡ Collaboration: joecyzhang@yahoo.com 👠👘🍰🍵🧤👗✈️👖☔️👙
-    location: "Canada"
-    followers: 46592
-    engagement: 212
-    commentsToLikes: 0.417447
-    id: ck5hk2tozhowq0i11ucrjamzm
-    verified: false
-    hashtags: "#torontofoodie, #foodstagram, #instafree, #fashionblogger"
-  - username: "katewhytephoto"
-    fullname: >-
-      𝕂𝕒𝕥𝕖 𝕎𝕙𝕪𝕥𝕖
-    bio: >-
-      Official Canon Ambassador Educator @ Portrait Masters 2020 Vancouver
-    location: "Canada"
-    followers: 33097
-    engagement: 233
-    commentsToLikes: 0.039808
-    id: ck0tzccd1ps540i19z3gh3olz
-    verified: false
-    hashtags: "#beautyshoot, #freshmakeup, #vancouvermua, #retouchingstudio"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Cooking TikTok Influencers In India In 2023
+title: Top 10 Cooking TikTok Influencers In India In 2024
 description: >-
-  Find top cooking TikTok influencers in India in 2023. Most popular hashtags: #tiktokchef #viral #tiktokindia #foryoupage.
+  Find top cooking TikTok influencers in India in 2024. Most popular hashtags: #viral #tiktokchef #handwashchallenge #trending.
 platform: TikTok
 hits: 228
-text_top: Discover the best TikTok profiles on inBeat.
-text_bottom: Our database has 228 TikTok influencers like this in India for you to work with.
+text_top: Discover the best TikTok accounts on inBeat.
+text_bottom: Our database aggregates 228 TikTok influencers like this in India for you to contact.
 profiles:
   - username: "susmi459"
     fullname: >-

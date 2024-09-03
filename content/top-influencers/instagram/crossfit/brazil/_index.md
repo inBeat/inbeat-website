@@ -1,130 +1,130 @@
 ---
-title: Top 10 Crossfit Instagram Influencers In Brazil In 2023
+title: Top 10 Crossfit Instagram Influencers In Brazil In 2024
 description: >-
-  Find top crossfit Instagram influencers in Brazil in 2023. Most popular hashtags: #tbt #crossfit #2021.
+  Find top crossfit Instagram influencers in Brazil in 2024. Most popular hashtags: #crossfit #fitness #reels.
 platform: Instagram
-hits: 504
-text_top: Discover the most popular Instagram influencers on inBeat.
-text_bottom: Our database has 504 Instagram influencers like this in Brazil for you to contact.
+hits: 512
+text_top: Discover the best Instagram accounts on inBeat.
+text_bottom: Our search engine has 512 Instagram influencers like this in Brazil for you to collaborate.
 profiles:
   - username: "biaclementee"
     fullname: >-
       Bia Clemente
     bio: >-
-      Medicina 2/12 ⚕ Crossfit Games Athlete | 9º melhor do MUNDO 🌍 Bicampeã brasileira teen 🥇 @nike | @niketraining Embaixadora @newpen.br
+      👩🏻‍⚕️• Estudante de medicina 🏋🏻‍♀️• Atleta de Crossfit @nike 🌍• Crossfit Games Athlete 🥇• Bicampeã brasileira teen
     location: "Brazil"
-    followers: 29747
-    engagement: 999
-    commentsToLikes: 0.008571
+    followers: 75548
+    engagement: 2759
+    commentsToLikes: 0.015560
     id: ck6u9rtuvz9qv0j71g1mv6v1l
     verified: false
-    hashtags: "#newpen, #newpenfan, #apatroachegou, #crossfit"
-  - username: "eupedrof_"
+    hashtags: "#gymnastics, #cross, #tcb, #fitness"
+  - username: "vanessalino_"
     fullname: >-
-      Pedro Ferreira 🚀
+      Vanessa Lino Zanella
     bio: >-
-      • Fitness & CrossFit | Model | Travel | Medicina • Parcerias: E-mail | Direct 📩 🇧🇷 • Cupom 20%: PEDROEVO20
+      o extraordinário de uma vida comum maternidade, hábitos saudáveis, beleza e rotina crossfit + corrida • hello@vanessalino.com porto alegre, RS
     location: "Brazil"
-    followers: 116734
-    engagement: 601
-    commentsToLikes: 0.150088
-    id: ck0vwml6eujoo0i19rkhnuuk0
+    followers: 425034
+    engagement: 410
+    commentsToLikes: 0.011087
+    id: ck14idmloewbd0i190kf3cf8b
     verified: false
-    hashtags: "#gym, #abs, #treino, #grip"
-  - username: "sufontes"
+    hashtags: "#donadecasa, #limpeza, #rotinadamanh, #morningroutine"
+  - username: "leobenate"
     fullname: >-
-      💕 Su 💕
+      Leo Benate
     bio: >-
-      Fit and healthy over 45y💪 Beauty💄 Motos🏍 Crossfit🏋🏻‍♀️ @eunutrition_pt @cascarija @maisvoce_cabeleireiros @officialcrossgear ‼️DESCONTOS ⬇️‼️
+      Crossfit, gym ,life addicted, plant dad. 🏋🏻‍♂️💪🏼☀️✈️ 🇬🇧🇪🇸🇧🇷 📍SP/RIO Contato: Leo.benate@hotmail.com
     location: "Brazil"
-    followers: 30827
-    engagement: 776
-    commentsToLikes: 0.066660
-    id: ck14i1ox8d84m0i19ztlsj9ap
+    followers: 92805
+    engagement: 1037
+    commentsToLikes: 0.011667
+    id: ck55ixau8vp4g0i1150jcdnyl
     verified: false
-    hashtags: "#bikerlifestyle, #bikeriders, #cute, #girl"
-  - username: "vanessinhasandes"
+    hashtags: "#reelsinstagram, #tbt, #reels, #buzios"
+  - username: "trainermiguel24"
     fullname: >-
-      VANESSA SANDES
+      SÉRGIO MIGUEL | TRANSFORMAÇÃO CORPORAL 🌍👊🏼
     bio: >-
-      +079, Brasil 25 anos Médica ⚕ #crossfit #fashion #healthy
+      Especialista em transformação corporal 🔥 ✍🏻 Protocolo de transformação 21 dias DTC 📲 Envia MP com a palavra “resultados” 🥇 CrossFit Athlete
     location: "Brazil"
-    followers: 29663
-    engagement: 279
-    commentsToLikes: 0.111214
-    id: ckapbsr8417ho0i78icdf52tg
+    followers: 42755
+    engagement: 220
+    commentsToLikes: 0.023625
+    id: ck9whf8vdxlbk0j78aufxpy66
     verified: false
-    hashtags: "#mexico, #mexican, #mexicana, #2021"
-  - username: "eipaulomoreira"
+    hashtags: "#reels, #fit, #fitness, #mindset"
+  - username: "janaborgescorredora"
     fullname: >-
-      Ｐａｕｌｏ  Ｍｏｒｅｉｒａ
+      Janaina Borges 🇧🇷
     bio: >-
-      🌎 Ourinhos-SP 📸 Lifestyle Masculino 🤝 Parcerias via direct Dançarino | Barman | Crossfit 📩 contato.paulomoreira@outlook.com
+      Mãe, Esposa e Corredora Apaixonada❤ 🏃‍♀️|Corrida 90 Pódios 🏋️‍♀️|Crossfit🏆 🏆 🏅3X TOP 💯 Cursando Ed. Física📚 Embaix. @authenbrasil 🔒5K 👣 🔒10K 👣 🔒21K👣
     location: "Brazil"
-    followers: 7536
-    engagement: 1311
-    commentsToLikes: 0.078048
-    id: ck9hclqxplxio0j78urut1uae
+    followers: 30976
+    engagement: 172
+    commentsToLikes: 0.074005
+    id: ck6ua8e9q240a0j71umm10u38
     verified: false
-    hashtags: "#fashion, #moda, #viral, #estilomasculino"
-  - username: "fabioviecelli"
+    hashtags: "#correjana, #corrida, #amocorrer, #vivaoesporte"
+  - username: "dra.andreiacp"
     fullname: >-
-      Fábio Viecelli
+      Andréia Camargo Pinheiro
     bio: >-
-      Ator • Cantor • Sonhador • Crossfiteiro
+      🇧🇷 40 👩‍🔬 PhD Nanoscience 📚 Nutrition/Coach/Personal 🥈 Fittest in the world, CrossfitGames 2023 "A idade é só um número"
     location: "Brazil"
-    followers: 24380
-    engagement: 1151
-    commentsToLikes: 0.022590
-    id: ck5cdygnjk0mg0i1170nk3xfg
+    followers: 138894
+    engagement: 169
+    commentsToLikes: 0.014877
+    id: ck5c98nqkazdk0i112m3d7qkx
     verified: false
-    hashtags: "#tbt"
-  - username: "matheusqueirozr"
+    hashtags: "#crossfit, #calistenia, #muscleup, #tbt"
+  - username: "matheusfromao"
     fullname: >-
-      Matheus Queiroz
+      Matheus Romão •   Ⓜ️
     bio: >-
-      Brasília - DF Bacharel em Direito ⚖️ Crossfit - @centauruscrossfit Embaixador - @soccialmedia_ Tik Tok - + 245K @matheusqueirozr
+      Crossfit | Outfits | Lifestyle 🧿 Ⓜ️
     location: "Brazil"
-    followers: 78729
-    engagement: 727
-    commentsToLikes: 0.015439
-    id: ck8taljpns9hf0j780x67w8cd
+    followers: 25311
+    engagement: 146
+    commentsToLikes: 0.023098
+    id: ck9wec1i0jmbf0j78myd7i3j2
     verified: false
-    hashtags: "#humor, #crossfit, #quinta, #brother"
-  - username: "isadoravicente"
+    hashtags: "#explorepage, #estilo, #explore, #brasil"
+  - username: "arthurpicoli"
     fullname: >-
-      Isadora Vicente
+      Arthur Picoli
     bio: >-
-      📍 Porto Alegre 🇧🇷🇦🇺 🎓 Direito PUCRS 📌 Lifestyle | Makeup | Fitness ♥️ @flexivel.isa 🏋🏻‍♀️ Musculação & Crossfit 💌 Parcerias por email
+      Influencer • Empresário • Crossfiteiro • Flamenguista Publicidade: arthur@mmestrategiadeimagem.com.br Mais informações e redes sociais no link abaixo
     location: "Brazil"
-    followers: 4859
-    engagement: 1674
-    commentsToLikes: 0.074172
-    id: ck8t8xrbem8800j787qnxa809
+    followers: 4135361
+    engagement: 84
+    commentsToLikes: 0.011540
+    id: ckqt1v0ivzo010j23lsegcdz6
     verified: false
-    hashtags: "#beach, #australia, #tbt, #queensland"
-  - username: "renan_souto"
+    hashtags: "#sunset, #publi, #publicidade, #chevroletmontana"
+  - username: "carohobo"
     fullname: >-
-      R E N A N    S O U T O
+      Carolinne Hobo
     bio: >-
-      @casanobrejp 📐 INTERIOR DESIGN 📋 ARCHITECTURE 🏋🏽 CROSSFITTER 🇧🇷 NORDESTINO/PB 🐶 Pai de Frida, Aurora e Maya ♍️ virginiano ❤ PARAÍBA SIM SINHÔ
+      Crossfiter e Empresária Owner @hoboelitenation 👚 Owner @bunker_sampa 📦 Team @integralmedica #Brazilian#God❤ 🏆5XRegionals CF games Sports e Lifestyle
     location: "Brazil"
-    followers: 25028
-    engagement: 229
-    commentsToLikes: 0.072412
-    id: ck14hdr199t6k0i19tpcj2bpq
+    followers: 431525
+    engagement: 79
+    commentsToLikes: 0.016870
+    id: ck0u11ypqvhuf0i19z9b863q7
     verified: false
-    hashtags: "#festaocean, #tbt, #reveillonnoronha, #turmafoda"
-  - username: "oficialnaan"
+    hashtags: "#workout, #training, #rokboxfitness, #fitness"
+  - username: "taysiste"
     fullname: >-
-      NAAN
+      TAY SISTE
     bio: >-
-      sobre rep, coisas de preto e crossfit. faço arte, logo, sou artista. sem vínculo a ninguém, portanto faço o que eu quero. / ouça Blitz 👇🏾
+      Aqui tem a minha rotina, crossfit, receitas, dicas e vários lookinhos 🤳🏼✨ Emagreci 28kg e levo uma vida 80% saudável 🏋🏼‍♀️ ☝🏼O básico, FUNCIONA.
     location: "Brazil"
-    followers: 25773
-    engagement: 513
-    commentsToLikes: 0.062455
-    id: ck6tn0xbr8wyj0j71iftt7ybg
+    followers: 111700
+    engagement: 52
+    commentsToLikes: 0.058979
+    id: ckaoup70i19we0i78jndw3fbo
     verified: false
-    hashtags: "#todasasvidasimportam, #racistasnaopassar, #racismon, #xre1milhao"
+    hashtags: "#motivacaofitness, #crossfitwod, #dicasfit, #vidasaudavelsempre"
 ---

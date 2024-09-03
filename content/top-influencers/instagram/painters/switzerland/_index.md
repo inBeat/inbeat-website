@@ -1,36 +1,36 @@
 ---
-title: Top 10 Painters Instagram Influencers In Switzerland In 2023
+title: Top 10 Painters Instagram Influencers In Switzerland In 2024
 description: >-
-  Find top painters Instagram influencers in Switzerland in 2023. Most popular hashtags: #contemporaryart #acrylicpainting #painting.
+  Find top painters Instagram influencers in Switzerland in 2024. Most popular hashtags: #painting #switzerland #pinterestaesthetic #art.
 platform: Instagram
-hits: 8
-text_top: Identify the most popular Instagram accounts on inBeat.
-text_bottom: Our database aggregates 8 Instagram influencers like this in Switzerland for you to connect with.
+hits: 22
+text_top: Analyze the most popular Instagram influencers on inBeat.
+text_bottom: Our search engine has 22 Instagram influencers like this in Switzerland for you to contact.
 profiles:
-  - username: "anett.climbing"
+  - username: "la___aura"
     fullname: >-
-      Climber⭐travel with dogs🐾🐾👣
+      𝐋𝐀𝐔𝐑𝐀 𝐇. 𝐑𝐔𝐁𝐈𝐍
     bio: >-
-      🧗‍♂️ Rock climber and 👩‍🎨painter @aye_aye.store 🏆 Fit influencer Shape Magazin 🐾 Rollo Swiss Shepherd
+      Award-winning digital painter, specializing in realistic portraits.😃🌸 ••• 🖤👇🏻Art Shop, Brushes, Tutorials and More:
     location: "Switzerland"
-    followers: 34477
-    engagement: 378
-    commentsToLikes: 0.041690
-    id: ck5hhx8nbaivd0i11qqjexow6
+    followers: 806789
+    engagement: 487
+    commentsToLikes: 0.010331
+    id: ck5chwhtsrlak0i11qhqoxcqx
     verified: false
-    hashtags: "#winteriscoming, #holistic, #travelingwithdogs, #beautifuldestination"
-  - username: "anne_marie_fischer"
+    hashtags: "#digitalpainting, #digitalartist, #portrait, #procreateart"
+  - username: "jette"
     fullname: >-
-      Anne-Marie Fischer
+      I‘mJette
     bio: >-
-      Artist | Zurich | Switzerland
+      𝐘𝐨𝐮𝐓𝐮𝐛𝐞 / 𝐈’𝐦𝐉𝐞𝐭𝐭𝐞 🌙 🖌 𝘩𝘪 𝘧𝘳𝘰𝘮 𝘮𝘺 𝘢𝘳𝘵 𝘴𝘵𝘶𝘥𝘪𝘰 🖼 Art, Fashion & Design “Amazing babe” - Taylor Swift about me
     location: "Switzerland"
-    followers: 10048
-    engagement: 1200
-    commentsToLikes: 0.040635
-    id: ck8t4e3ba6g9a0j78lz5acgui
+    followers: 162297
+    engagement: 370
+    commentsToLikes: 0.006396
+    id: ck0tv9z07ai8q0i19h3zv1xdt
     verified: false
-    hashtags: "#woodwork, #woodart, #minimalism, #dailypracticeofpainting"
+    hashtags: "#painting, #painter, #artwork, #artoftheday"
   - username: "dario_desiena"
     fullname: >-
       Painting🎨Artist🖌
@@ -43,18 +43,18 @@ profiles:
     id: ck0w6hlir8lqj0i19c7zbr1dw
     verified: false
     hashtags: "#poparts, #dariodesiena, #contemporarypainting, #contemporaryportrait"
-  - username: "stefankunz"
+  - username: "anne_marie_fischer"
     fullname: >-
-      Stefan - Creative Lettering
+      Anne-Marie Fischer
     bio: >-
-      ✍🏻 Create to inspire others! 📎 Clients: Coca-Cola, Adobe, Pinterest & more 📬 Booking: Mail@stefankunz.com 🎓 Learn with me online 👇🏻
+      Artist | Zurich | Switzerland
     location: "Switzerland"
-    followers: 566824
-    engagement: 370
-    commentsToLikes: 0.013487
-    id: ck0tvjhembmu60i19u2xf5xyf
+    followers: 11645
+    engagement: 963
+    commentsToLikes: 0.048812
+    id: ck8t4e3ba6g9a0j78lz5acgui
     verified: false
-    hashtags: "#engadget, #mkbhd, #painting, #brushlettering"
+    hashtags: "#artoftheday, #collageart, #modernpainting, #interior"
   - username: "yeswhatnails"
     fullname: >-
       Violetta
@@ -67,40 +67,64 @@ profiles:
     id: ck0ucj3teh1ma0i191ou22nmc
     verified: false
     hashtags: ""
-  - username: "putput.dk"
+  - username: "maixadeline"
     fullname: >-
-      PUTPUT
+      mai (she/ her)
     bio: >-
-      We are PUTPUT, a Swiss/Danish artist tandem! Real objects, constructed with care and staged as contemporary still lifes.
+      lifestyle, fashion based in: switzerland 💌 agency: @lives_luxury
     location: "Switzerland"
-    followers: 32559
-    engagement: 322
-    commentsToLikes: 0.009610
-    id: ck6u4ed8r38oq0j714frd80nj
+    followers: 10077
+    engagement: 766
+    commentsToLikes: 0.113330
+    id: clerzfdn8deu40j08sye6g5km
     verified: false
-    hashtags: "#candles, #objectphotography, #putput, #vases"
-  - username: "byenico"
+    hashtags: "#pinterestinspired, #aesthetic, #femfeed, #pinterestaesthetic"
+  - username: "mariwka"
     fullname: >-
-      Nico 👉🏼👈🏼
+      Marina | Fashion, Luxury Travel & Lifestyle
     bio: >-
-      Quotidien de @nicolasstajic 🌻 Photo x Coffee x Fashion 💌 hello@nicolasstajic.com Genève - Paris
+      My Visual Diary of beautiful moments & dreamy places Based in Stockholm 🇸🇪
     location: "Switzerland"
-    followers: 11941
-    engagement: 510
-    commentsToLikes: 0.011318
-    id: ck5qa4n8ceirt0i11f6jt7s2l
+    followers: 212464
+    engagement: 319
+    commentsToLikes: 0.017071
+    id: ck0u04vmrsl060i19qle35a3d
     verified: false
-    hashtags: "#sponsorise, #obsessiondugou, #justforthefeed, #pinterest"
-  - username: "queenkongswitzerland"
+    hashtags: "#pinterestaesthetic, #parisianmood, #parisparis, #parislover"
+  - username: "anaisindra"
     fullname: >-
-      queenkongswitzerland
+      Anaïs Indra
     bio: >-
-      A swiss art-couple that's bringing some banging urban artwork into this planet while mixing up their styles. 👇 Contact: info@queenkong.ch🎨💗 #urbanart
+      Switzerland (Basel/Zürich) based Petite girl from Brazil Contact: anaisindra@outlook.com
     location: "Switzerland"
-    followers: 4006
-    engagement: 831
-    commentsToLikes: 0.061531
-    id: ck5he53olr3qf0i113de5zuds
+    followers: 25640
+    engagement: 150
+    commentsToLikes: 0.245932
+    id: ck5hppilnrraf0i11zqlwvmc6
     verified: false
-    hashtags: "#snart, #passion, #queenkong, #streetart"
+    hashtags: "#90sbabe, #ootd, #aesthetic, #homeshoot"
+  - username: "gigi_schmiitz"
+    fullname: >-
+      GIOVANA SCHMITZ
+    bio: >-
+      ♌︎ Fashion, Beauty & Lifestyle Geneva, Switzerland 🇨🇭 contact@gigischmitz.com
+    location: "Switzerland"
+    followers: 275275
+    engagement: 78
+    commentsToLikes: 0.039447
+    id: cl5l331jb960u0i23d75nafb7
+    verified: false
+    hashtags: "#parisianlook, #parisienne, #fallvibes, #lookoftheday"
+  - username: "genevafoodstories"
+    fullname: >-
+      Geneva Food Stories by Ioanna 🥄
+    bio: >-
+      🥄By Ioanna, lawyer & food enthusiast 🥄Food recos twice a day 🥄About my favourite places in Geneva, in Switzerland and wherever I go
+    location: "Switzerland"
+    followers: 34147
+    engagement: 35
+    commentsToLikes: 0.024728
+    id: clpcfhtymcqc50k08v19uwsb0
+    verified: false
+    hashtags: "#genevalife, #foodporn, #painperdu, #foodblogsschweiz"
 ---

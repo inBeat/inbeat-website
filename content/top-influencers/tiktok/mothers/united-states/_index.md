@@ -1,11 +1,11 @@
 ---
-title: Top 10 Mothers TikTok Influencers In United States In 2023
+title: Top 10 Mothers TikTok Influencers In United States In 2024
 description: >-
-  Find top mothers TikTok influencers in United States in 2023. Most popular hashtags: #duet #fyp #greenscreen #stitch.
+  Find top mothers TikTok influencers in United States in 2024. Most popular hashtags: #duet #greenscreen #fyp.
 platform: TikTok
-hits: 4089
-text_top: Identify the top-rated TikTok influencers on inBeat.
-text_bottom: Our database holds 4089 TikTok influencers like this in United States for you to work with.
+hits: 4184
+text_top: Discover the best TikTok influencers on inBeat.
+text_bottom: Our database has 4184 TikTok influencers like this in United States for you to collaborate.
 profiles:
   - username: "kagonineko"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.060815
     id: ckail7094msgt0i78zholii6r
     verified: false
-    hashtags: "#caincosplay, #quickbooksvictorypose, #cleargenius, #demonoc"
+    hashtags: "#caindeardoor, #caincosplay, #demontime, #femalehowl"
   - username: "jaymyst"
     fullname: >-
       JayMyst
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.560262
     id: ckck5esowqb8l0j23sjrlaa7d
     verified: false
-    hashtags: "#sillyduets, #disney, #funnyduets, #funny"
+    hashtags: "#over30, #duetswithfriends, #funny, #disney"
   - username: "rnete"
     fullname: >-
       Renee
@@ -42,7 +42,19 @@ profiles:
     commentsToLikes: 0.320502
     id: ckd1840uypkb50j23ixhnr14o
     verified: false
-    hashtags: "#funn, #tiktoker, #comedy, #fypsounds"
+    hashtags: "#tiktok, #comedy, #fypage, #funn"
+  - username: "truckerleezah"
+    fullname: >-
+      Leezah422 
+    bio: >-
+      18+only Wife mother trucker artist vocalist musician 🇺🇸Proud American Patriot
+    location: "United States"
+    followers: 32500
+    engagement: 2676
+    commentsToLikes: 0.106915
+    id: cka7or7bz3qu70i78tb2f6v2c
+    verified: false
+    hashtags: "#duet, #greenscreen"
   - username: "kissialot"
     fullname: >-
       Jasmond P. Kisses
@@ -79,18 +91,6 @@ profiles:
     id: ckd6wzujdtcyw0j23mjy04ehx
     verified: false
     hashtags: "#haikyuu, #weeb, #duet, #4upage"
-  - username: "truckerleezah"
-    fullname: >-
-      Leezah422 
-    bio: >-
-      18+only Wife mother trucker artist vocalist musician 🇺🇸Proud American Patriot
-    location: "United States"
-    followers: 31200
-    engagement: 2042
-    commentsToLikes: 0.066920
-    id: cka7or7bz3qu70i78tb2f6v2c
-    verified: false
-    hashtags: "#truckers4life, #womantrucker, #fyp, #truckergirl"
   - username: "abstruce13"
     fullname: >-
       abstruce13
@@ -102,7 +102,7 @@ profiles:
     commentsToLikes: 0.405159
     id: ckahxrq15wekm0i78gi0fr7v0
     verified: false
-    hashtags: "#panafrican, #voiceeffects, #abstruce, #naturalbirth"
+    hashtags: "#abstruce, #problack, #naturalbirth, #blacktiktok"
   - username: "itsmothernurture"
     fullname: >-
       🔥The Hot Healer Tarot🔥
@@ -126,5 +126,5 @@ profiles:
     commentsToLikes: 0.111203
     id: cka0fwhc51m430i78bqndh8zp
     verified: false
-    hashtags: "#bekind, #thickthighs, #rockon, #iloveyou"
+    hashtags: "#thickthighs, #havingfun, #iloveyou, #bekind"
 ---

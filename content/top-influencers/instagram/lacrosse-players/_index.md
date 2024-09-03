@@ -1,12 +1,108 @@
 ---
-title: Top 10 Lacrosse Players Instagram Influencers In 2023
+title: Top 10 Lacrosse Players Instagram Influencers In 2024
 description: >-
-  Find top lacrosse players Instagram influencers in 2023. Most popular hashtags: #pllday #bethebest #team11lax.
+  Find top lacrosse players Instagram influencers in 2024. Most popular hashtags: #aulax #nll #lacrossegear.
 platform: Instagram
-hits: 30
-text_top: See the best Instagram influencers on inBeat.
-text_bottom: Our database has 30 Instagram influencers like this for you to contact.
+hits: 33
+text_top: See the best Instagram profiles on inBeat.
+text_bottom: inBeat has 33 Instagram influencers like this for you to contact.
 profiles:
+  - username: "sammyjotracy13"
+    fullname: >-
+      Sammy Jo Tracy ✨
+    bio: >-
+      Professional Lacrosse Player#13 Athletes Unlimited @auprosports @newbalance and @brinelax Athlete Team Israel 🇮🇱 @israellacrosse Yoga 🧘‍♀️ instructor
+    location: "United States"
+    followers: 17429
+    engagement: 619
+    commentsToLikes: 0.017432
+    id: ck5cere71lk4t0i11dmfprh7h
+    verified: false
+    hashtags: "#gamedayfit, #season2, #gopurple, #newbalance"
+  - username: "cachzurrier"
+    fullname: >-
+      Zach Currier
+    bio: >-
+      Culver ‘13 Princeton ‘17 Pro lacrosse player @nll @pll 🇨🇦 Team @warriorlax | @newbalancelax Business inquiries: @mark_gurenlian
+    location: "Canada"
+    followers: 11164
+    engagement: 642
+    commentsToLikes: 0.009616
+    id: ck5ceqroiliv60i11z72col74
+    verified: true
+    hashtags: "#lacrosse, #lacrossegear, #nll, #nllpa"
+  - username: "mariemccool4"
+    fullname: >-
+      Marie McCool
+    bio: >-
+      Team USA #4 | @uncwlax Assistant Coach |@uncwlax Alum | Professional Lacrosse Player @auprolax | @newbalance @brinelax Athlete⁣
+    location: "United States"
+    followers: 22201
+    engagement: 724
+    commentsToLikes: 0.003962
+    id: ck5c1xmeiw4ib0i11d2kw84a9
+    verified: true
+    hashtags: "#notsomccoolanymore, #6amworkoutclub, #betterneverstops, #aulax"
+  - username: "kylieohlmiller17"
+    fullname: >-
+      kylie ohlmiller
+    bio: >-
+      #17 • Team USA 🇺🇸 • Pro Lacrosse Player @auprolax • @brinelax / @newbalancelax Athlete • @ko17lacrosse • Host @dream_on.pod • @stonybrookwlax
+    location: "United States"
+    followers: 27494
+    engagement: 899
+    commentsToLikes: 0.004612
+    id: ck5c1xl9pw4fe0i11tyhh0phy
+    verified: true
+    hashtags: "#aulax, #beunlimited, #sctop10, #whatsaseawolf"
+  - username: "pll"
+    fullname: >-
+      Premier Lacrosse League
+    bio: >-
+      🌎 Best Lacrosse Players in the World 🥍 8 Teams 📺 Watch on ESPN 🎟️ Tap for tickets
+    location: "United States"
+    followers: 344484
+    engagement: 423
+    commentsToLikes: 0.025176
+    id: ck0twdgzrf0gz0i194owcdy1d
+    verified: true
+    hashtags: "#goalsforcash"
+  - username: "alexaust_"
+    fullname: >-
+      ALEX AUST HOLMAN
+    bio: >-
+      Pro Lacrosse Player #34 Team USA gold medalist @underarmour @gaitlaxofficial athlete👊🏽 Co-owner @finishlinelacrosse Creator of The Sweaat Life⚡️
+    location: "United States"
+    followers: 47200
+    engagement: 229
+    commentsToLikes: 0.005006
+    id: ck0u19aq5w5900i194yb5e2iu
+    verified: false
+    hashtags: "#auprolax, #gaitlacrosse, #makeuproutine, #plunge"
+  - username: "robpannell3"
+    fullname: >-
+      Rob Pannell
+    bio: >-
+      Professional Lacrosse Player
+    location: "France"
+    followers: 108090
+    engagement: 155
+    commentsToLikes: 0.013589
+    id: ck0vvqe1gqakc0i19sw5qgj6u
+    verified: true
+    hashtags: "#k18, #rollwoods, #laketonka, #ferda"
+  - username: "paulrabil"
+    fullname: >-
+      Paul Rabil
+    bio: >-
+      lacrosse player building the @pll watch fate of a sport on @hulu
+    location: "United States"
+    followers: 432821
+    engagement: 152
+    commentsToLikes: 0.001140
+    id: ck0w3cijvspl80i19svpbaek1
+    verified: true
+    hashtags: ""
   - username: "simple__jake"
     fullname: >-
       Jake Froccaro
@@ -31,100 +127,4 @@ profiles:
     id: ck0twdi1rf0lv0i19002l1hqa
     verified: true
     hashtags: "#bethebest, #help, #weflytogether, #thiccboi"
-  - username: "callum10robinson"
-    fullname: >-
-      Callum Robinson
-    bio: >-
-      📍Newport Beach, CA ↔️ Perth, Aus “The Big Koala” Pro Lacrosse Player - @pll Australian🇦🇺
-    location: "Australia"
-    followers: 17557
-    engagement: 993
-    commentsToLikes: 0.017376
-    id: ck5cer7epljrm0i11puikz74l
-    verified: false
-    hashtags: "#diabetesawareness, #lifeprousa, #instalessrich, #diabetic"
-  - username: "dylanmaltz10"
-    fullname: >-
-      Dylan Maltz
-    bio: >-
-      • Professional Lacrosse Player @pll @pllwhipsnakes • Maryland Lacrosse 🐢 #25 @terpsmlax • Team Sales Rep @playtruelax #TeamTRUE
-    location: "United States"
-    followers: 7143
-    engagement: 1114
-    commentsToLikes: 0.032157
-    id: ck5hiijy3dooo0i116a5twk6h
-    verified: false
-    hashtags: "#dayones, #bethebest, #letslive, #stba"
-  - username: "mariemccool4"
-    fullname: >-
-      Marie McCool
-    bio: >-
-      » Team USA » UNC Women’s Lacrosse ‘18 » Professional Lacrosse Player » @newbalance @brinewlax Athlete⁣ »@harlem_lacrosse Associate Board member
-    location: "United States"
-    followers: 18930
-    engagement: 1077
-    commentsToLikes: 0.005021
-    id: ck5c1xmeiw4ib0i11d2kw84a9
-    verified: true
-    hashtags: "#mariemondays, #partnerpassthemic, #ngwsd, #washedup"
-  - username: "alexaust_"
-    fullname: >-
-      A L E X   A U S T
-    bio: >-
-      Proud Thai American Professional Lacrosse Player #34 @si_swimsuit model 🦋 @underarmour athlete 👊🏽 ⚡️Join The Sweaat Life for weekly live workouts!👇🏽
-    location: "United States"
-    followers: 46097
-    engagement: 454
-    commentsToLikes: 0.012000
-    id: ck0u19aq5w5900i194yb5e2iu
-    verified: false
-    hashtags: "#bts, #siswimxtrx, #nowambassador, #sportyspiceforsi"
-  - username: "jsankey11"
-    fullname: >-
-      Joey Sankey
-    bio: >-
-      Maverik Athlete Professional Lacrosse Player @pll @pllarchers UNC class of 2015 Owner of Team 11 Lacrosse Club @team11lax
-    location: "United States"
-    followers: 16609
-    engagement: 730
-    commentsToLikes: 0.012509
-    id: ck5cer670ljoo0i1137kglx2b
-    verified: false
-    hashtags: "#heels, #gdtbath, #team11lax, #laxtryouts"
-  - username: "kylieohlmiller17"
-    fullname: >-
-      kylie ohlmiller
-    bio: >-
-      #17 • Long Island, NY • Stony Brook Women’s Lacrosse ‘18 • Professional Lacrosse Player • Brine/New Balance Athlete • @ko17lacrosse • @dream_on.pod
-    location: "United States"
-    followers: 24422
-    engagement: 758
-    commentsToLikes: 0.005871
-    id: ck5c1xl9pw4fe0i11tyhh0phy
-    verified: true
-    hashtags: "#freeze3, #laxcon2021"
-  - username: "kbernlohr35"
-    fullname: >-
-      Kyle Bernlohr
-    bio: >-
-      Just a kid from Akron, OH | Maryland Terrapin | Professional Lacrosse Player @pll | @pllwhipsnakes | @stxmlax Athlete | founder: @kbgoalieacademy
-    location: "United States"
-    followers: 9506
-    engagement: 865
-    commentsToLikes: 0.013737
-    id: ck0twdha1f0i80i19b2v50jk4
-    verified: false
-    hashtags: "#pllday"
-  - username: "chadtuts12"
-    fullname: >-
-      Chad Tutton
-    bio: >-
-      UNC Alum - Professional Lacrosse Player for the Georgia Swarm (NLL) and the Peterborough Lakers (MSL) - Email: chad.tutton@gmail.com
-    location: "United States"
-    followers: 2316
-    engagement: 1400
-    commentsToLikes: 0.061399
-    id: ck5ceqq5qlis80i110gjozphf
-    verified: false
-    hashtags: "#nite, #jacklake, #bigteamguy, #stayhome"
 ---

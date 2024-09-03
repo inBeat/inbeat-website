@@ -1,12 +1,36 @@
 ---
-title: Top 10 Cooking Instagram Influencers In Malaysia In 2023
+title: Top 10 Cooking Instagram Influencers In Malaysia In 2024
 description: >-
-  Find top cooking Instagram influencers in Malaysia in 2023. Most popular hashtags: #foodporn #foodstagram #foodie #f52grams.
+  Find top cooking Instagram influencers in Malaysia in 2024. Most popular hashtags: #cooking #food #foodporn #dessert.
 platform: Instagram
-hits: 46
-text_top: Analyze the top-rated Instagram profiles on inBeat.
-text_bottom: Our database has 46 Instagram influencers like this in Malaysia for you to work with.
+hits: 56
+text_top: Identify the most popular Instagram profiles on inBeat.
+text_bottom: inBeat holds 56 Instagram influencers like this in Malaysia for you to connect with.
 profiles:
+  - username: "miss_polkadot"
+    fullname: >-
+      Miss Polkadot
+    bio: >-
+      🇸🇬SG Beauty💃🏻Lifestyle🍴Foodie 📩DM for Collabs 🥘Featured on Straits Times 2018 👩🏻‍🍳Cooking & Photography 💃🏻SG Influencer 📸Food & Product Photographer
+    location: "Malaysia"
+    followers: 12715
+    engagement: 455
+    commentsToLikes: 0.180249
+    id: ckaorsspsolg90i78k4bysrn4
+    verified: false
+    hashtags: "#partnership, #mediainvitation, #misspolkadotcooking, #01"
+  - username: "shafiquecute_official"
+    fullname: >-
+      Mohd Shafiq Bin Zulkarnain
+    bio: >-
+      Food & Cooking facebook : mohd shafiq shahfique@gmail.com
+    location: "Malaysia"
+    followers: 530284
+    engagement: 46
+    commentsToLikes: 0.045839
+    id: ck14jbkmvjig90i19nrlx5xas
+    verified: false
+    hashtags: "#love, #instafamily, #cute, #instafamous"
   - username: "wannaeat16"
     fullname: >-
       Shifa Shiwangi|Food&Lifestyle
@@ -31,18 +55,42 @@ profiles:
     id: ckap2hhflyunv0i78z0s207gn
     verified: false
     hashtags: "#asansolcity, #foodpics, #streefoodindia, #reelsinstagram"
-  - username: "aniqclone"
+  - username: "ridhwaniqbal98"
     fullname: >-
-      aniqclone
+      Mohamed Ridhwan
     bio: >-
-      Im just a guy who love to cook and share knowledge about food and cooking 🌻. Hope u enjoy . 🥰 for any paid review kindly DM me.
+      Part-time “ shef “ 👨‍🍳 | 📍 Kuching, Malaysia 🇲🇾
     location: "Malaysia"
-    followers: 68705
-    engagement: 237
-    commentsToLikes: 0.009493
-    id: ck0w4h8w5yk460i19ag7k8ju9
+    followers: 12288
+    engagement: 1161
+    commentsToLikes: 0.009454
+    id: ck9wf45zin4lk0j78aafmaahm
     verified: false
-    hashtags: "#bibimbapbowl, #kari, #korean, #awangbrand"
+    hashtags: "#sweet, #foodies, #drinks, #foodblogger"
+  - username: "zhengchyi"
+    fullname: >-
+      
+    bio: >-
+      🧑🏻‍🍳 𝐍𝐢𝐩𝐩𝐨𝐫𝐢 𝐁𝐨𝐲 🦋 𝐚 𝐬𝐜𝐚𝐫 𝐦𝐞𝐚𝐧𝐬 𝐢 𝐬𝐮𝐫𝐯𝐢𝐯𝐞𝐝 🏊‍♂️ 𝐬𝐰𝐢𝐦𝐦𝐢𝐧𝐠 𝐣𝐮𝐬𝐭 𝐦𝐲 𝐭𝐡𝐢𝐧𝐠𝐲 . .
+    location: "Malaysia"
+    followers: 6155
+    engagement: 971
+    commentsToLikes: 0.030784
+    id: ck5hdxacmpus30i11dsevw6ad
+    verified: false
+    hashtags: "#dinner, #sayyoulovemedancechallenge, #foodie, #cooking"
+  - username: "soheila_ghezelbash"
+    fullname: >-
+      Soheila Ghezelbash
+    bio: >-
+      ‎ فارغ التحصیل آشپزی ملل 👩🏻‍🎓 ‎مشاوره و آموزش منو کافه و رستوران شرایط همکاری👇🏻 @soheilaghezelbash.ads
+    location: "Malaysia"
+    followers: 167724
+    engagement: 424
+    commentsToLikes: 0.033403
+    id: ck139oowtmda60i19drmjnwbr
+    verified: false
+    hashtags: "#dessert, #delish, #cook, #yummy"
   - username: "obentoufood"
     fullname: >-
       喬尹Yin-我可以吃一口你的食物嗎？
@@ -67,64 +115,16 @@ profiles:
     id: ck14gscac6s3s0i19cwhowt79
     verified: true
     hashtags: "#kandi, #cookingwithtamikascott, #singer, #trinabraxton"
-  - username: "sibungbung"
+  - username: "krystonyang"
     fullname: >-
-      Sibungbung|Jkt Food Aficionado
+      Kryston 温杨
     bio: >-
-      ❤️Noodle lover, crazy for eggs, fat addict 🖋Review Zomato & Pergi Kuliner : @sibungbung 🐰@jangkrikkuliner 📩DM for Enquiry
+      📍KL 00’s @goxuan Radio Announcer🎤 【GOXUAN三局三连冠】10am-1pm Host｜Dancer｜Singer｜Actor｜Athlete @te3n.official @pumasportstyle 📮: jacee.dreamax@gmail.com
     location: "Malaysia"
-    followers: 516219
-    engagement: 104
-    commentsToLikes: 0.010941
-    id: ck15unbyyo0bf0i19huyeotb5
+    followers: 35766
+    engagement: 877
+    commentsToLikes: 0.023744
+    id: clm70amw1ghd30j08ew9f2r4h
     verified: false
-    hashtags: "#sibungbung, #foodstyling, #laperbener, #dietmulaibesok"
-  - username: "mama_eatwithme"
-    fullname: >-
-      ℙ𝕝𝕠𝕪 | 𝕃𝕠𝕟𝕕𝕠𝕟 𝕗𝕠𝕠𝕕𝕚𝕖🇬🇧
-    bio: >-
-      🎀 Thai girl in BKK, London and beyond ☆ 🎈 Honest #food review @pploypinn 💌 DM for Collaborations 📮 mama.eatwithme@gmail.com ❤️ Work hard, Eat harder!
-    location: "Malaysia"
-    followers: 8940
-    engagement: 943
-    commentsToLikes: 0.273797
-    id: ck55o6vx37rgg0i11g4m5te7k
-    verified: false
-    hashtags: "#foodiesofinstagram, #brunchlondon, #thailandonly, #timeoutlondon"
-  - username: "maryshappybelly"
-    fullname: >-
-      Mary Tang 🍁 Toronto
-    bio: >-
-      @gustotv @sbsfood TV host/personality Blogger of Chinese/Asian recipes, tasty eats in T.O 🐥, FB, YouTube-maryshappybelly Order #MHBDumplings ⬇️
-    location: "Malaysia"
-    followers: 10346
-    engagement: 196
-    commentsToLikes: 0.265841
-    id: ck6tm3g8274330j71gulhup6t
-    verified: false
-    hashtags: "#goodfoodtoronto, #pictureoftheday, #foodporn, #tobermory"
-  - username: "natalia__ng"
-    fullname: >-
-      Natalia Ng 黄彩菱
-    bio: >-
-      1 Corinthians 13:8 ★ Act ★ Sing ★ Host 🎗@adidasgolf Asia Creator 🎗正典燕窝 Ambassador 🎗Face of Töush @toush_pensonic
-    location: "Malaysia"
-    followers: 60800
-    engagement: 108
-    commentsToLikes: 0.050817
-    id: ck55n9e3h5qk30i111gda8zkr
-    verified: true
-    hashtags: "#mysugarmat, #silverlinings, #cookingtutorial, #ootd"
-  - username: "bonvivant_couple"
-    fullname: >-
-      |indore food blogger|
-    bio: >-
-      Hello foodies 🙋 The couple who eats together stays together 🌸 Zomato level:-9 📩Dm for invites /review.
-    location: "Malaysia"
-    followers: 7357
-    engagement: 542
-    commentsToLikes: 0.300945
-    id: ckap66uoqengu0i78gvd9bctn
-    verified: false
-    hashtags: "#eeeeeats, #foodmaniac, #nomnom24x7, #indorefoodguide"
+    hashtags: "#guy, #goxuan, #challenge, #drama"
 ---

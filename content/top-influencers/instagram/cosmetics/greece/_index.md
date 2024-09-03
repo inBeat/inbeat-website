@@ -1,12 +1,24 @@
 ---
-title: Top 10 Cosmetics Instagram Influencers In Greece In 2023
+title: Top 10 Cosmetics Instagram Influencers In Greece In 2024
 description: >-
-  Find top cosmetics Instagram influencers in Greece in 2023. Most popular hashtags: #cosmetics #beauty #love #giveaway.
+  Find top cosmetics Instagram influencers in Greece in 2024. Most popular hashtags: #summer #cosmetics #skincare #hair.
 platform: Instagram
-hits: 55
-text_top: See the top-rated Instagram influencers on inBeat.
-text_bottom: Our database aggregates 55 Instagram influencers like this in Greece for you to work with.
+hits: 68
+text_top: Analyze the most popular Instagram profiles on inBeat.
+text_bottom: Our database aggregates 68 Instagram influencers like this in Greece for you to work with.
 profiles:
+  - username: "con_ev"
+    fullname: >-
+      Constantina Evripidou
+    bio: >-
+      Content creator specialist @hellocy_mag Radio producer @sferaradio Founder of @ce_fashionworkshop & @2121_cosmetics Mom of 👧🏼🧑🏼‍🦱
+    location: "Greece"
+    followers: 110367
+    engagement: 79
+    commentsToLikes: 0.168499
+    id: ck5ckq9smxeax0i11187lanxn
+    verified: false
+    hashtags: "#newweek, #mare, #ariadne, #nature"
   - username: "alinabbd"
     fullname: >-
       alinabbd
@@ -19,18 +31,6 @@ profiles:
     id: ck15tolx7j4lg0i19dclxv5en
     verified: false
     hashtags: "#beautiful, #hair, #skin, #luxury"
-  - username: "con_ev"
-    fullname: >-
-      Constantina Evripidou
-    bio: >-
-      motherhood | music | sea | fashion | interior FASHION lover• TV presenter • RADIO producer • founder of CEFW @ce_fashionworkshop & @2121_cosmetics💄
-    location: "Greece"
-    followers: 99849
-    engagement: 227
-    commentsToLikes: 0.031077
-    id: ck5ckq9smxeax0i11187lanxn
-    verified: false
-    hashtags: "#mygirl, #lady, #mood, #family"
   - username: "goldenrosegreece"
     fullname: >-
       Golden Rose Greece
@@ -66,19 +66,7 @@ profiles:
     commentsToLikes: 0.432470
     id: ckap4zjlr9ijt0i78gbttbmz9
     verified: false
-    hashtags: "#sea, #jewelry, #ootd, #eyeshadow"
-  - username: "tania_kofinioti"
-    fullname: >-
-      Tania_kofinioti
-    bio: >-
-      @grmystylerocks 👗MISS ELEGANCE INTERNATION 💃WORLD BEAUTY QUEEN 👑STAR GS HELLAS ✌🏼MISS WORLD PEACE 👸🏼MISS TOURISM-PERSONALITY
-    location: "Greece"
-    followers: 22928
-    engagement: 575
-    commentsToLikes: 0.819581
-    id: ckap50cru9mc00i78ps1a43xw
-    verified: false
-    hashtags: "#mystyle, #stayathome, #beauty, #instamodels"
+    hashtags: "#girl, #ig, #eyeshadow, #potd"
   - username: "mua_tania_gkagkali_1985"
     fullname: >-
       𝒯𝒶𝓃𝒾𝒶 𝒢𝓀𝒶ℊ𝓀𝒶𝓁𝒾
@@ -91,18 +79,6 @@ profiles:
     id: ckap50d1q9mf10i78d8301wdl
     verified: false
     hashtags: "#makeup, #makeupjunkies, #liquidlipstick, #mua"
-  - username: "riakonstantatou"
-    fullname: >-
-      eleftheriakonstantatou
-    bio: >-
-      • influencer •Athens, Creece •Youtube channel •radio producer: @freemindwebradio 🎤📻
-    location: "Greece"
-    followers: 71299
-    engagement: 213
-    commentsToLikes: 1.244590
-    id: ck1388yy3f2ni0i19jyy3jy5t
-    verified: false
-    hashtags: "#makeup, #accessories, #sales, #win"
   - username: "avgerinoscosmetics"
     fullname: >-
       Avgerinos Cosmetics
@@ -115,16 +91,40 @@ profiles:
     id: ck5c6cetv55fu0i11adn71zpn
     verified: false
     hashtags: "#beautyproducts, #vegan, #skincare, #body"
-  - username: "delidemie"
+  - username: "mommyjammi.gr"
     fullname: >-
-      🌺 𝓓𝓮𝓶𝓲𝓮 🌺
+      MommyJammi.gr® ᗰᗩᖇY ᒪIOᗪOᑌ
     bio: >-
-      ✨ 𝑰𝒏𝒇𝒍𝒖𝒆𝒏𝒄𝒆𝒓 @liketofollow.gr 🎓 Tourism & Hospitality Management 📩 For #collab DM/email 📍 ΑΤΗ
+      Content Creator☆Digital Marketer~Business Development AdvertisingSales @sugarfreepress ☆Founder & EditorInChief mommyjammi ☆Email:Mommyjammi@gmail.com
     location: "Greece"
-    followers: 27330
-    engagement: 1397
-    commentsToLikes: 1.500055
-    id: ck5q3zyd2n4jv0i11da39iend
+    followers: 24745
+    engagement: 613
+    commentsToLikes: 0.234759
+    id: ckap4zsri9jpy0i78gwa329so
     verified: false
-    hashtags: "#demielicious, #instacooking, #giveawaysgr, #contentcreator"
+    hashtags: "#greeksummer, #summer, #flowers, #kids"
+  - username: "anna_amanatidou"
+    fullname: >-
+      Άννα Αμανατίδου
+    bio: >-
+      𝐎𝐖𝐍𝐄𝐑 @venale.gr 👙 👉🏼𝐓𝐈𝐊 𝐓𝐎𝐊 390 K 🎉: 𝐚𝐧𝐧𝐚_𝐚𝐦𝐚𝐧𝐚𝐭𝐢𝐝𝐨𝐮 🎥𝐘𝐨𝐮𝐭𝐮𝐛𝐞 : 𝐀𝐧𝐧𝐚 𝐀𝐦𝐚𝐧𝐚𝐭𝐢𝐝𝐨𝐮 ⤵️𝐍𝐄𝐖 𝐕𝐈𝐃𝐄𝐎 𝐇𝐄𝐑𝐄 ⤵️
+    location: "Greece"
+    followers: 200967
+    engagement: 390
+    commentsToLikes: 0.307382
+    id: ck5pvimm2i1zd0i11zf8dm1rh
+    verified: true
+    hashtags: "#foryou, #annaamanatidou, #summer, #sisters"
+  - username: "pounentism"
+    fullname: >-
+      Makis Pounentis
+    bio: >-
+      Entrepreneur, Radio/TV host @lampsi923 Daily Morning Show @youtube channel: makattack @tiktok : pounentism
+    location: "Greece"
+    followers: 129330
+    engagement: 195
+    commentsToLikes: 0.517562
+    id: ckaouiqa80g2t0i78bebcrdnu
+    verified: false
+    hashtags: "#books, #love, #plasticfree, #saynotoplastic"
 ---

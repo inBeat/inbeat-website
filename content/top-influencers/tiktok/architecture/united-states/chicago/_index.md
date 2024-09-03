@@ -1,11 +1,11 @@
 ---
-title: Top 10 Architecture TikTok Influencers In Chicago In 2023
+title: Top 10 Architecture TikTok Influencers In Chicago In 2024
 description: >-
-  Find top architecture TikTok influencers in Chicago in 2023. Most popular hashtags: #architecture #chicago #design #architect.
+  Find top architecture TikTok influencers in Chicago in 2024. Most popular hashtags: #architecture #chicago #architect #duet.
 platform: TikTok
 hits: 5
-text_top: Discover the top-rated TikTok accounts on inBeat.
-text_bottom: Our platform aggregates 5 TikTok influencers like this in Chicago, United States for you to contact.
+text_top: Analyze the best TikTok profiles on inBeat.
+text_bottom: Our platform has 5 TikTok influencers like this in Chicago, United States for you to collaborate.
 profiles:
   - username: "agentmitchy"
     fullname: >-

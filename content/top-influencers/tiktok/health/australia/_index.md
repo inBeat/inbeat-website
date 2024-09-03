@@ -1,11 +1,11 @@
 ---
-title: Top 10 Health TikTok Influencers In Australia In 2023
+title: Top 10 Health TikTok Influencers In Australia In 2024
 description: >-
-  Find top health TikTok influencers in Australia in 2023. Most popular hashtags: #fyp #duet #tipsandtricks #love.
+  Find top health TikTok influencers in Australia in 2024. Most popular hashtags: #fyp #duet #love #tipsandtricks.
 platform: TikTok
-hits: 246
-text_top: Identify the most popular TikTok profiles on inBeat.
-text_bottom: inBeat aggregates 246 TikTok influencers like this in Australia for you to pitch.
+hits: 241
+text_top: See the top-rated TikTok influencers on inBeat.
+text_bottom: Our search engine holds 241 TikTok influencers like this in Australia for you to contact.
 profiles:
   - username: "mdmotivator"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.017822
     id: ckb9l7es9dk350j23fb48gn22
     verified: true
-    hashtags: "#anxious, #mentalhealthtiktoks, #tipsandtricks, #mentalhealthmatters"
+    hashtags: "#mental, #mentalhealthtiktoks, #mentalhealth, #relationships"
   - username: "life_of_carolyn"
     fullname: >-
       life_of_carolyn
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.058654
     id: cka0gee5s44rz0i78u1leq44v
     verified: false
-    hashtags: "#washing, #over30, #mumsoftiktok, #duet"
+    hashtags: "#duet, #laundry, #lifewithkids, #laundrytok"
   - username: "kathryn.cakes"
     fullname: >-
       Kathryn w
@@ -66,7 +66,7 @@ profiles:
     commentsToLikes: 0.012459
     id: cka0vtodw01580i78gxrovs6f
     verified: false
-    hashtags: "#vanlife, #vanbuild, #australia, #duet"
+    hashtags: "#vanbuild, #fyp, #australia, #vanlife"
   - username: "nofom0"
     fullname: >-
       Olivia
@@ -90,7 +90,7 @@ profiles:
     commentsToLikes: 0.028554
     id: ck931pligfsl30j784zufx9ds
     verified: false
-    hashtags: "#selfcare, #mobility, #learnwithme, #sheearnedit"
+    hashtags: "#fitnesslife, #selfcare, #chiropractor, #learnwithme"
   - username: "_kim_lawless_"
     fullname: >-
       Kim
@@ -102,7 +102,7 @@ profiles:
     commentsToLikes: 0.048493
     id: cka7o7mp10qyp0i78xk1mluw6
     verified: false
-    hashtags: "#dance, #tune, #tiktok, #foryou"
+    hashtags: "#dance, #fun, #mood, #earphones"
   - username: "leanne_ward_nutrition"
     fullname: >-
       TheFitnessDietitian
@@ -126,5 +126,5 @@ profiles:
     commentsToLikes: 0.005972
     id: ck8w4ufmo923d0j78ujg1ddcp
     verified: true
-    hashtags: "#fyp, #foryoupage, #toddler, #balancechallenge"
+    hashtags: "#fyp, #foryoupage, #toddler, #hearhyfood"
 ---

@@ -1,10 +1,10 @@
 ---
-title: Top 10 Health TikTok Influencers In Singapore In 2023
+title: Top 10 Health TikTok Influencers In Singapore In 2024
 description: >-
-  Find top health TikTok influencers in Singapore in 2023. Most popular hashtags: #fyp #foryou #learningisfun #sgfoodie.
+  Find top health TikTok influencers in Singapore in 2024. Most popular hashtags: #fyp #foryou #learningisfun #sgfoodie.
 platform: TikTok
 hits: 14
-text_top: Analyze the most popular TikTok accounts on inBeat.
+text_top: Identify the best TikTok profiles on inBeat.
 text_bottom: inBeat aggregates 14 TikTok influencers like this in Singapore for you to contact.
 profiles:
   - username: "the_health_bites"
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.029438
     id: ckc8v3lgrhqac0j23ub674npo
     verified: true
-    hashtags: "#fyp, #fitness, #fyppage, #tips"
+    hashtags: "#fyp, #training, #tips, #foryoupage"
   - username: "dearalyne"
     fullname: >-
       Dear Alyne

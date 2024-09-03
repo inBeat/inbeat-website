@@ -1,11 +1,11 @@
 ---
-title: Top 10 Rappers TikTok Influencers In Berlin In 2023
+title: Top 10 Rappers TikTok Influencers In Berlin In 2024
 description: >-
-  Find top rappers TikTok influencers in Berlin in 2023. Most popular hashtags: #foryou #fyp #viral #berlin.
+  Find top rappers TikTok influencers in Berlin in 2024. Most popular hashtags: #foryou #fyp #viral #deutschrap.
 platform: TikTok
 hits: 8
-text_top: See the most popular TikTok accounts on inBeat.
-text_bottom: inBeat holds 8 TikTok influencers like this in Berlin, Germany for you to connect with.
+text_top: Discover the most popular TikTok accounts on inBeat.
+text_bottom: Our platform aggregates 8 TikTok influencers like this in Berlin, Germany for you to connect with.
 profiles:
   - username: "pavilionsexit"
     fullname: >-
@@ -114,7 +114,7 @@ profiles:
     commentsToLikes: 0.018538
     id: cka86wwro4ftk0i78s8gcaom4
     verified: true
-    hashtags: "#schaumichan, #dubistanders, #fero47, #challange"
+    hashtags: "#fero47, #dubistanders, #challange, #schaumichan"
   - username: "kayefofficial"
     fullname: >-
       kayefofficial
@@ -126,5 +126,5 @@ profiles:
     commentsToLikes: 0.017040
     id: ck9m4hrrkkc8v0j78put74nmu
     verified: true
-    hashtags: "#nono, #seitduwegbist, #2uhrnachts, #kayef"
+    hashtags: "#kayef, #nono, #seitduwegbist, #2uhrnachts"
 ---

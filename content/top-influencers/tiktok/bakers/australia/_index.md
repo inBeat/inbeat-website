@@ -1,12 +1,24 @@
 ---
-title: Top 10 Bakers TikTok Influencers In Australia In 2023
+title: Top 10 Bakers TikTok Influencers In Australia In 2024
 description: >-
-  Find top bakers TikTok influencers in Australia in 2023. Most popular hashtags: #fyp #foryou #food #cake.
+  Find top bakers TikTok influencers in Australia in 2024. Most popular hashtags: #fyp #foryou #cake #food.
 platform: TikTok
-hits: 23
-text_top: Analyze the best TikTok accounts on inBeat.
-text_bottom: Our search engine aggregates 23 TikTok influencers like this in Australia for you to connect with.
+hits: 24
+text_top: Discover the top-rated TikTok influencers on inBeat.
+text_bottom: Our search engine holds 24 TikTok influencers like this in Australia for you to connect with.
 profiles:
+  - username: "kamikazedivine4"
+    fullname: >-
+      KAMI
+    bio: >-
+      - 19 - “Bad biscuits make the baker broke, bro.” - Jake the Dog
+    location: "Australia"
+    followers: 17600
+    engagement: 2012
+    commentsToLikes: 0.073178
+    id: ckan0mal0rbc70i78w1vuvop7
+    verified: false
+    hashtags: "#trampoline, #foryou, #fyp, #parkour"
   - username: "winsonnlamm"
     fullname: >-
       Winson no T
@@ -18,7 +30,7 @@ profiles:
     commentsToLikes: 0.011526
     id: ck9m11fl3d48k0j78qf5jdlor
     verified: false
-    hashtags: "#workout, #motivation, #asian, #calisthenics"
+    hashtags: "#motivation, #calisthenics, #asian, #workout"
   - username: "miranda.quirk"
     fullname: >-
       Miranda Quirk
@@ -49,12 +61,12 @@ profiles:
     bio: >-
       Australian Cake Maker 🎂 Dont be shy, add me on Insta I reply to all comments
     location: "Australia"
-    followers: 31100
-    engagement: 654
-    commentsToLikes: 0.013295
+    followers: 33100
+    engagement: 782
+    commentsToLikes: 0.014468
     id: ckbqej6qe0e770j233rbw7bzc
     verified: false
-    hashtags: "#cake, #brisbane, #food, #cakedecorating"
+    hashtags: "#cake, #cakes, #tutorial, #food"
   - username: "cakemecrazy"
     fullname: >-
       CakeMeCrazy
@@ -115,16 +127,4 @@ profiles:
     id: ck9nv7yx2qox30j78np1by6fl
     verified: false
     hashtags: "#fyp, #makemefamous, #farmlife, #johndeere"
-  - username: "wendysiperki"
-    fullname: >-
-      Wendy Siperki
-    bio: >-
-      just an Aussie mum
-    location: "Australia"
-    followers: 13600
-    engagement: 319
-    commentsToLikes: 0.024687
-    id: ckdbrc15ec3jh0j23xy4sgx4e
-    verified: false
-    hashtags: "#threecolours, #chouxpastry, #cakes, #food"
 ---

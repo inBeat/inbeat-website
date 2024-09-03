@@ -1,11 +1,11 @@
 ---
-title: Top 10 Skincare TikTok Influencers In Australia In 2023
+title: Top 10 Skincare TikTok Influencers In Australia In 2024
 description: >-
-  Find top skincare TikTok influencers in Australia in 2023. Most popular hashtags: #skincare #fyp #foryou #skincareroutine.
+  Find top skincare TikTok influencers in Australia in 2024. Most popular hashtags: #skincare #fyp #foryou #skincareroutine.
 platform: TikTok
-hits: 138
-text_top: See the best TikTok influencers on inBeat.
-text_bottom: inBeat holds 138 TikTok influencers like this in Australia for you to work with.
+hits: 137
+text_top: See the top-rated TikTok influencers on inBeat.
+text_bottom: Our search engine has 137 TikTok influencers like this in Australia for you to work with.
 profiles:
   - username: "frankbody"
     fullname: >-
@@ -54,7 +54,7 @@ profiles:
     commentsToLikes: 0.059897
     id: ckbfefhhj8k4k0j23vitvem3b
     verified: false
-    hashtags: "#skincare, #skincareroutine, #skincareproducts, #skin"
+    hashtags: "#skincare, #skintok, #skincareproducts, #skin"
   - username: "madalingiorgetta"
     fullname: >-
       Madalin

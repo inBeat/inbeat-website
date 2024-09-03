@@ -1,24 +1,24 @@
 ---
-title: Top 10 Tattoo-Artists Instagram Influencers In Portugal In 2023
+title: Top 10 Tattoo-Artists Instagram Influencers In Portugal In 2024
 description: >-
-  Find top tattoo-artists Instagram influencers in Portugal in 2023. Most popular hashtags: #tattoo #art #inked #portugal.
+  Find top tattoo-artists Instagram influencers in Portugal in 2024. Most popular hashtags: #tattoo #beach #portugal #art.
 platform: Instagram
 hits: 9
-text_top: Analyze the best Instagram accounts on inBeat.
-text_bottom: Our search engine has 9 Instagram influencers like this in Portugal for you to collaborate.
+text_top: Analyze the best Instagram influencers on inBeat.
+text_bottom: Our search engine holds 9 Instagram influencers like this in Portugal for you to contact.
 profiles:
-  - username: "nelsonsacramento"
+  - username: "decrepit_ef"
     fullname: >-
-      Nelson Sacramento
+      Eduardo Fernandes Tattoo
     bio: >-
-      Realistic & Neotraditional Tattoos 📍@lighthousetattoostudio, Lisbon, Amadora🇵🇹 40x Trophies 🏆🌍 Worldwide @radiantcolorsink @holygrailtattoocartridges
+      Tattoo Artist from Braga, Portugal. Sponsored by: @killerinktattoo @kwadron @balm_tattoo @exink.tattoo 👇🏻Appointments / Contacts:
     location: "Portugal"
-    followers: 104920
-    engagement: 147
-    commentsToLikes: 0.003949
-    id: ck0vyjpyq4c7z0i19dszsjx4w
+    followers: 54395
+    engagement: 1227
+    commentsToLikes: 0.000500
+    id: ck6tz2hqo78r50j715zbm6j7n
     verified: false
-    hashtags: ""
+    hashtags: "#art, #tatuagem, #ink, #tattoo"
   - username: "inkartluis"
     fullname: >-
       LUÍS FIGUEIREDO ART
@@ -37,48 +37,36 @@ profiles:
     bio: >-
       Based in 🇵🇹Portugal/Aveiro Radiantcolours○Magicmoon ○Dermalize○stencilstuff Bookings/Management -Mafalda Silva; emanueloliveiratattooart@hotmail.com
     location: "Portugal"
-    followers: 105729
-    engagement: 133
-    commentsToLikes: 0.019425
+    followers: 105088
+    engagement: 122
+    commentsToLikes: 0.021716
     id: ck6tpgc3ijpko0j715mhhclbn
     verified: false
     hashtags: ""
-  - username: "iljakochan"
+  - username: "khan.ira"
     fullname: >-
-      ILJA KOCHAN
+      Ira Khan
     bio: >-
-      𝗥𝗜𝗦𝗘 𝗔𝗡𝗗 𝗦𝗛𝗜𝗡𝗘. Fɪʟᴍᴍᴀᴋᴇʀ I Dɪʀᴇᴄᴛᴏʀ @weareriseandshine Cʀᴇᴀᴛɪᴠᴇ ᴘʀᴏᴅᴜᴄᴛɪᴏɴ ᴄᴏᴍᴘᴀɴʏ ᴡɪᴛʜ ʟᴏᴠᴇ ғᴏʀ ʜɪɢʜ﹣ϙᴜᴀʟɪᴛʏ ᴠɪᴅᴇᴏ ᴄᴏɴᴛᴇɴᴛ Wᴇʙsɪᴛᴇ ↴
+      @agatsufoundation
     location: "Portugal"
-    followers: 33765
-    engagement: 96
-    commentsToLikes: 0.023924
-    id: ck139fca4l0mb0i19qa33nakm
-    verified: false
-    hashtags: "#mood, #director, #moodoftheday, #photography"
-  - username: "wlk_god"
-    fullname: >-
-      Marcelo Gonçalves
-    bio: >-
-      @wlk.god.tattoo Illustration • Tattoo 𝘉𝘭𝘢𝘤𝘬𝘸𝘰𝘳𝘬•Illustration 𝘗𝘰𝘴𝘵𝘦𝘳𝘴•𝘈𝘳𝘵𝘸𝘰𝘳𝘬 ◽️Contact • wlk.godtattooartist@gmail.com • 𝘊𝘰𝘭𝘭𝘢𝘣𝘴 or 𝘊𝘰𝘮𝘮𝘪𝘴𝘴𝘪𝘰𝘯𝘴 𝘋𝘔.
-    location: "Portugal"
-    followers: 11849
-    engagement: 557
-    commentsToLikes: 0.007158
-    id: ck8tcxgvw12270j781sy5guws
-    verified: false
-    hashtags: "#skullhead, #darksurrealism, #viladoconde, #horrorart"
+    followers: 654896
+    engagement: 255
+    commentsToLikes: 0.009630
+    id: ck55l2xqj0mj00i11frgtnv2b
+    verified: true
+    hashtags: "#mumbai, #mentalhealthawareness, #community, #india"
   - username: "m_inspirada"
     fullname: >-
       Hand-poke tattoo artist
     bio: >-
-      M I speak RUS,ENG LISBON bookings are open for MARCH STUTTGART 6-10 APRIL Booking:inspiradamor@gmail.com or fill out the form on my website
+      Maria 🇵🇹live in Lisbon (bookings are open for September) 🗣RUS/ENG booking through the website
     location: "Portugal"
-    followers: 69729
-    engagement: 282
-    commentsToLikes: 0.006051
+    followers: 79908
+    engagement: 239
+    commentsToLikes: 0.004557
     id: ck9hae3gic7dy0j7888svhq65
     verified: false
-    hashtags: "#handpoke, #handpokedtattoo, #arhive, #handpoked"
+    hashtags: "#handpoked, #handpoke, #handpokedtattoo, #handpiked"
   - username: "karma.is_a.witch_"
     fullname: >-
       JeSs 🦊🔥
@@ -90,7 +78,7 @@ profiles:
     commentsToLikes: 0.058328
     id: ckaosbwdlr0s40i78fdkbcj2g
     verified: false
-    hashtags: "#witchyaesthetic, #bodypainting, #makeupart, #graphicliner"
+    hashtags: "#indie, #fishnets, #indiegirl, #grunge"
   - username: "michal_officiel"
     fullname: >-
       Michal Kwiatkowski
@@ -102,7 +90,19 @@ profiles:
     commentsToLikes: 0.021899
     id: ck8t99lrjnbb50j78rrtu4t2i
     verified: true
-    hashtags: "#bixentesimonet, #vacances, #throwbackthursday, #menstyle"
+    hashtags: "#menstyle, #throwbackthursday, #tbt, #atlanticocean"
+  - username: "nuno_gemeos_moreira"
+    fullname: >-
+      Nuno Moreira
+    bio: >-
+      CEO - Escola de dança Gémeos Moreira Choreographer at TV show Dancing with the stars Model Twitter: twinfitness1
+    location: "Portugal"
+    followers: 134226
+    engagement: 705
+    commentsToLikes: 0.028998
+    id: ckaozbg76l4od0i782zr49zhr
+    verified: false
+    hashtags: "#andrewchristianmodel, #blacknwhite, #body, #paris"
   - username: "pro_puckie"
     fullname: >-
       ProPuckie Photography

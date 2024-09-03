@@ -1,11 +1,11 @@
 ---
-title: Top 10 Bakers Instagram Influencers In Greece In 2023
+title: Top 10 Bakers Instagram Influencers In Greece In 2024
 description: >-
-  Find top bakers Instagram influencers in Greece in 2023. Most popular hashtags: #nature #biker #photography #ktm.
+  Find top bakers Instagram influencers in Greece in 2024. Most popular hashtags: #nature #travel #ktm #biker.
 platform: Instagram
-hits: 22
-text_top: Discover the top-rated Instagram accounts on inBeat.
-text_bottom: inBeat holds 22 Instagram influencers like this in Greece for you to collaborate.
+hits: 20
+text_top: Analyze the most popular Instagram influencers on inBeat.
+text_bottom: inBeat has 20 Instagram influencers like this in Greece for you to contact.
 profiles:
   - username: "akamatra"
     fullname: >-
@@ -103,18 +103,6 @@ profiles:
     id: ck5pviqi9i2me0i11kofw0k6l
     verified: false
     hashtags: "#apriliaracing, #greekvibes, #suitstyle, #greekblogger"
-  - username: "zoevassileiou"
-    fullname: >-
-      Zoi Vasileiou
-    bio: >-
-      My only profile ✨ Mechanical & Environmental Engineer 🛠⚙ Passionate about travels ✈️
-    location: "Greece"
-    followers: 133971
-    engagement: 334
-    commentsToLikes: 1.132415
-    id: ck8tdo1is442u0j788sk3slkp
-    verified: false
-    hashtags: "#jewelrydesigner, #bags, #bagoftheday, #jewelryaddict"
   - username: "korina_koumantaki"
     fullname: >-
       Korina Koumantaki
@@ -127,4 +115,16 @@ profiles:
     id: ck13b37v3tg910i192ek9jjid
     verified: false
     hashtags: "#vacationmode, #greekislands, #holidaysingreece, #kythnos"
+  - username: "bb_mo.ra"
+    fullname: >-
+      Mo.Ra.
+    bio: >-
+      I ❤️ my job, but in my spare time I’m a •Traveler •Foodie •Fashion addict •Beauty junkie •Fitness passionate
+    location: "Greece"
+    followers: 8945
+    engagement: 507
+    commentsToLikes: 0.038149
+    id: ck9hcgl4wlaek0j78wu8yy4o9
+    verified: false
+    hashtags: "#italy, #makeup, #weekendmood, #selfie"
 ---

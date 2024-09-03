@@ -1,12 +1,60 @@
 ---
-title: Top 10 Dog Owners Instagram Influencers In United States In 2023
+title: Top 10 Dog Owners Instagram Influencers In United States In 2024
 description: >-
-  Find top dog owners Instagram influencers in United States in 2023. Most popular hashtags: #covid19 #tbt #stayhomesavelives.
+  Find top dog owners Instagram influencers in United States in 2024. Most popular hashtags: #dogowner #dogmom #dogtraining.
 platform: Instagram
-hits: 187
-text_top: Analyze the top-rated Instagram influencers on inBeat.
-text_bottom: inBeat has 187 Instagram influencers like this in United States for you to pitch.
+hits: 226
+text_top: See the top-rated Instagram profiles on inBeat.
+text_bottom: inBeat aggregates 226 Instagram influencers like this in United States for you to contact.
 profiles:
+  - username: "jamesgunn"
+    fullname: >-
+      James Gunn
+    bio: >-
+      DC Studios co-CEO, #GuardiansoftheGalaxy chief, dog owner, husband, servant to my cat.
+    location: "United States"
+    followers: 2722246
+    engagement: 377
+    commentsToLikes: 0.009926
+    id: ck0tu7ula5z720i19xh8tit0m
+    verified: true
+    hashtags: "#thesuicidesquad, #tsswatchparty, #bluebeetle, #peacemaker"
+  - username: "myboyrudder"
+    fullname: >-
+      MADDIE & RUDDER
+    bio: >-
+      ✨ practical ✨ advice for dog owners ✉️ myboyrudder@gmail.com 👇🏻 codes + favorite products + amazon lists
+    location: "United States"
+    followers: 154647
+    engagement: 240
+    commentsToLikes: 0.049896
+    id: cllz2bvjlokyk0j08yo15comz
+    verified: false
+    hashtags: "#dogtraining, #dogfood, #hikingwithdogs, #dogexercise"
+  - username: "chiffonthemaltipoo"
+    fullname: >-
+      Chiffon the Maltipoo : Dog-friendly lifestyle, dog mom & fashion
+    bio: >-
+      ♡ Maltese + Toy poodle (doodle dog)🐩 ♡ Princess puppy ♡ Cuteness • Fashionista • Dog owner ♡ Organization • Cooking • Pet-friendly home ♡ 📍NY
+    location: "United States"
+    followers: 180629
+    engagement: 176
+    commentsToLikes: 0.097219
+    id: ck15u3hwql8w00i19mn2iy8gt
+    verified: false
+    hashtags: "#grwm, #dogsofig, #puppylife, #dogowner"
+  - username: "dogmommentality"
+    fullname: >-
+      Karoline May 🫶 self care & mental health for dog moms
+    bio: >-
+      found healing through my reactive dog🫶 mid20s + mental health + dog owner 📍touchin trees in kentucky journal & podcast🔗⤵️ 💌collab@dogmommentality.com
+    location: "United States"
+    followers: 13694
+    engagement: 122
+    commentsToLikes: 0.035312
+    id: cl7kdxmquv9lo0i23hb2saefz
+    verified: false
+    hashtags: "#dogmom, #aussiemix, #dogtrainingexperience, #kentuckydog"
   - username: "therealenver"
     fullname: >-
       Enver Gjokaj
@@ -19,6 +67,18 @@ profiles:
     id: ck6tz16cc71yz0j71e9jk5vgd
     verified: true
     hashtags: "#heroeswearmasks"
+  - username: "valdecs"
+    fullname: >-
+      Valdemar Bjørn Vangså
+    bio: >-
+      26 🇩🇰 Professional Counter-Strike player for @ogesports 🕹 Dog owner 🐶 C63S 🏎
+    location: "United States"
+    followers: 33166
+    engagement: 518
+    commentsToLikes: 0.005417
+    id: ck6u4f5sg3d3z0j71a5fyhe81
+    verified: true
+    hashtags: ""
   - username: "emilyhatfield"
     fullname: >-
       Emily Hatfield
@@ -31,18 +91,6 @@ profiles:
     id: ck5zrnfdbwwre0i14wcpfu7mw
     verified: false
     hashtags: "#fuckcancer"
-  - username: "joachim_pastor"
-    fullname: >-
-      Joachim Pastor
-    bio: >-
-      🇫🇷Home of joachim pastor 🔊Electronic music artist 💽Member of @armadamusic 🎛Full analog geek 🏎Car lover 🦅Dog owner 🎧750k monthly spotify auditors
-    location: "United States"
-    followers: 20961
-    engagement: 315
-    commentsToLikes: 0.066414
-    id: ck5bwsoiemc7f0i11v01i4icr
-    verified: false
-    hashtags: "#3danimation, #abletonlive, #studer, #homestudio"
   - username: "carleemcdot"
     fullname: >-
       Carlee McDot (she/her)
@@ -55,18 +103,6 @@ profiles:
     id: ckap7k4ezkevh0i78k32ozpn0
     verified: false
     hashtags: "#truckee, #waltthewienerdog, #optoutside, #laketahoe"
-  - username: "remy.barista"
-    fullname: >-
-      F&B photographer
-    bio: >-
-      📍 | Brussels based 🇧🇪 🥇 | Belgium barista champion 2018 🐶 | Proud Dog Owner @iamgujithecocker 📩 | remy.barista@gmail.com
-    location: "United States"
-    followers: 74996
-    engagement: 61
-    commentsToLikes: 0.124904
-    id: ck5hpqdtxrsul0i11ck3jljs2
-    verified: false
-    hashtags: "#brewmethods, #roasterdaily, #coffeemakesmetravel, #specialtycoffeeroaster"
   - username: "valentimes"
     fullname: >-
       Amanda Valentine
@@ -91,40 +127,4 @@ profiles:
     id: ckap0h7zzq9zw0i787ra3zcy5
     verified: true
     hashtags: "#covid19, #alltogethernm, #stayhomesavelives, #sb11"
-  - username: "jsliceanimation"
-    fullname: >-
-      Joshua Slice
-    bio: >-
-      -Animator -Dog Owner -Creator of Lucas the Spider
-    location: "United States"
-    followers: 165966
-    engagement: 718
-    commentsToLikes: 0.007096
-    id: ck15ugaubn1lz0i19beew9qs7
-    verified: true
-    hashtags: ""
-  - username: "carminedisibio"
-    fullname: >-
-      Carmine Di Sibio
-    bio: >-
-      Dad, dog owner, @nygiants fan and @EY_Global Chairman and CEO
-    location: "United States"
-    followers: 9405
-    engagement: 762
-    commentsToLikes: 0.009099
-    id: ck137e5bdb37m0i19z5ci9vln
-    verified: true
-    hashtags: "#bettertogether, #betterworkingworld, #covid19, #mdw"
-  - username: "greerhendricks"
-    fullname: >-
-      Greer Hendricks
-    bio: >-
-      Mother, wife, dog-owner, runner, multitasker. #1 NYT Bestselling co-author
-    location: "United States"
-    followers: 4634
-    engagement: 353
-    commentsToLikes: 0.060630
-    id: ck6uajkyr3xdq0j71f266d3wk
-    verified: true
-    hashtags: "#bookofthemonth, #authorsofinstagram, #writerwednesday, #booksinthebath"
 ---

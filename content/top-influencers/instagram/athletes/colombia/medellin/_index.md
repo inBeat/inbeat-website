@@ -1,12 +1,24 @@
 ---
-title: Top 10 Athletes Instagram Influencers In Medellín In 2023
+title: Top 10 Athletes Instagram Influencers In Medellín In 2024
 description: >-
-  Find top athletes Instagram influencers in Medellín in 2023. Most popular hashtags: #colombia #medellin #envigado.
+  Find top athletes Instagram influencers in Medellín in 2024. Most popular hashtags: #colombia #medellin #reels #tbt.
 platform: Instagram
-hits: 5
-text_top: Discover the most popular Instagram influencers on inBeat.
-text_bottom: Our search engine holds 5 Instagram influencers like this in Medellín, Colombia for you to collaborate.
+hits: 6
+text_top: See the best Instagram accounts on inBeat.
+text_bottom: inBeat holds 6 Instagram influencers like this in Medellín, Colombia for you to work with.
 profiles:
+  - username: "danielrestrepogarcia"
+    fullname: >-
+      𝑫𝒂𝒏𝒊𝒆𝒍 𝑹𝒆𝒔𝒕𝒓𝒆𝒑𝒐 I Clavados & DJ💿
+    bio: >-
+      Atleta olímpico. Nos vemos en🇫🇷 @paris2024 Dj📀🎧
+    location: "Colombia"
+    followers: 30106
+    engagement: 1610
+    commentsToLikes: 0.019613
+    id: ck8sxy4w6j33z0j78bo5e1iqo
+    verified: false
+    hashtags: "#nea, #atletasenredes, #deporte, #sport"
   - username: "orianavalenti89"
     fullname: >-
       Oriana Valenti | Dentist
@@ -31,18 +43,6 @@ profiles:
     id: ck5q5bhkks4yj0i11prd3sjk9
     verified: false
     hashtags: "#megaplex, #burnerchallenge, #happy, #medellin"
-  - username: "mariaclaraceballos89"
-    fullname: >-
-      Maria Clara Ceballos
-    bio: >-
-      Mamá de Vicente CrossFit Athlete 💼 @Soyhakuna 📱@comunidadnow 🔥@healthysportscolombia 🏋️‍♂️ @lycanfitnesscol 📧 mariaclaraceballos@gmail.com
-    location: "Colombia"
-    followers: 453318
-    engagement: 138
-    commentsToLikes: 0.019026
-    id: ck8sxh8y1hdyg0j78njfdve7w
-    verified: true
-    hashtags: "#maternidad, #mariaclaraceballos, #babyboy, #guerrerahakuna"
   - username: "boykaortiz"
     fullname: >-
       BOYKA ORTIZ®
@@ -55,6 +55,18 @@ profiles:
     id: ck55prkpcb7jh0i11lmkmku91
     verified: true
     hashtags: "#reels, #boykaortiz, #freestyle, #colombia"
+  - username: "denisse_novoa"
+    fullname: >-
+      Denisse “La Pantera” Novoa
+    bio: >-
+      Mgmt: @alepalomera1 @palomeragroup Exatlón Estados Unidos 3 & 5 MX | MIA
+    location: "Colombia"
+    followers: 265597
+    engagement: 310
+    commentsToLikes: 0.027261
+    id: ck5btfgb2fv9m0i11l82efvb9
+    verified: false
+    hashtags: "#travel, #explore, #teamcontentiendes, #telemundo"
   - username: "guffy.ramirez"
     fullname: >-
       Juan Camilo Ramirez
@@ -67,64 +79,52 @@ profiles:
     id: ck6ue4aymor5k0j71bn8ieo5h
     verified: false
     hashtags: "#racing, #colombia, #extremo, #tap"
-  - username: "orianavalenti89"
+  - username: "deshaun"
     fullname: >-
-      Oriana Valenti | Dentist
+      Deshaun Malik (Highler) 🏴‍☠️
     bio: >-
-      ▫️ENDODONCISTA ▫️Medellín - Colombia ▫️Citas (318) 2900517 ▫️@illumidentsas ▫️Pole Athlete
+      Pro G 🪖🏴‍☠️ Watch @lastchanceu on @netflix 🍿 1st Ever Self-Branded NCAA Athlete Sac State ‘22 🎓 Collabs and UGC 📲 deshaunhighler@gmail.com @teamvktry
     location: "Colombia"
-    followers: 31252
-    engagement: 253
-    commentsToLikes: 0.054905
-    id: ckapb0xwdy7t60i78vz5s4wf7
+    followers: 402846
+    engagement: 886
+    commentsToLikes: 0.003805
+    id: clfhg3x7xbuvm0j08fynuhxue
     verified: false
-    hashtags: "#girls, #odontologia, #polefitness, #envigado"
-  - username: "caro_toro"
+    hashtags: "#rockstaroriginal, #lastchanceu, #nba, #ncaa"
+  - username: "santiagoherediao"
     fullname: >-
-      Carolina Toro Raigosa
+      SANTIAGO HEREDIA 🐺
     bio: >-
-      𝒢𝑜𝒹 𝒾𝓈 𝓁𝑜𝓋𝑒 Comunicadora Social Periodista Athlete SMART PRO @dimareswimw
+      Ironman 140.6 Finisher Ironman 70.3 x 3 Marathoner x 3 🏊🏻‍♂️🚴🏼🏃🏼 @underarmourlatam #athlete 🔥 Papá de @bandido_heredia
     location: "Colombia"
-    followers: 193401
-    engagement: 258
-    commentsToLikes: 0.011661
-    id: ck0w3tqyxv87p0i19cy9ozkrz
+    followers: 33889
+    engagement: 1160
+    commentsToLikes: 0.027026
+    id: ck8t01oiaqj6n0j786t7ufmzv
     verified: false
-    hashtags: ""
-  - username: "laura_manrique13"
+    hashtags: "#bestmoments, #training, #sundayrunday, #runningmotivation"
+  - username: "dreathomas"
     fullname: >-
-      Laura Manrique
+      Andrea Thomas
     bio: >-
-      Athlete Bikini Fitness👙 🄲🄾🄰🄲🄷 🄸🄽🅃🄴🅁🄽🄰🄲🄸🄾🄽🄰🄻 🏋🏻‍♂️ 𝔽𝕚𝕥𝕟𝕖𝕤𝕤+𝕙𝕖𝕒𝕝𝕥𝕙𝕪+𝕟𝕦𝕥𝕣𝕚𝕥𝕚𝕠𝕟 𝕔𝕠𝕒𝕔𝕙💚 Colombiana 🇨🇴 @abcfitnesspanama 🛍🛒
+      Making women feel strong & healthy ♡ @allyou + @soliswimwear Founder @bombshellsportswear athlete Management@andrea-thomas.com Get coached by me ✨
     location: "Colombia"
-    followers: 39690
-    engagement: 186
-    commentsToLikes: 0.023365
-    id: ck6tmt8738hn60j71nllvp2a8
+    followers: 1788777
+    engagement: 143
+    commentsToLikes: 0.006760
+    id: cl3dd174q5ncg0i23lcp79fq9
     verified: false
-    hashtags: "#powerwoman, #business, #trabajoenequipo, #sanvalentineday"
-  - username: "suevygramer"
+    hashtags: "#bombshellsportswear, #bombshellsportwear"
+  - username: "mariajosev0908"
     fullname: >-
-      sᴜᴇᴠʏ
+      Maria Jose Vargas
     bio: >-
-      🏃🏼‍♀️Nike Athlete ⚡️ @homeathlete_method 🥑No meat athlete 🌱Plant mami 🐱Cat mom AF @bakerandblair
+      📍 🇺🇸 / 🇨🇴 🇨🇴 National Champ 2023 🌎 CrossFit Games Teen Athlete 2021 🇧🇷 Semifinals Athlete 2023 🏠: @atalantabox 😤: @lycanfitness.co #iam1stphorm
     location: "Colombia"
-    followers: 58030
-    engagement: 103
-    commentsToLikes: 0.015653
-    id: ck6u879q9pudr0j71zonz7f7s
+    followers: 152883
+    engagement: 141
+    commentsToLikes: 0.008596
+    id: ck8sxh7wbhdv30j784xj2aczj
     verified: false
-    hashtags: "#trailrunner, #panama, #trailrun, #nikerunning"
-  - username: "dilian_jurado"
-    fullname: >-
-      Dilian Jurado
-    bio: >-
-      🇵🇦Panamá Hija del Rey #God @bpi_sports athlete @fitnessgamepty athlete Lucas 1:37 ♥️
-    location: "Colombia"
-    followers: 47568
-    engagement: 200
-    commentsToLikes: 0.025363
-    id: ck14gkaeo5nkb0i19z2hym60m
-    verified: false
-    hashtags: "#lovewhatyoudo, #fitnesslifestyle, #focus, #panama"
+    hashtags: "#crossfitgames, #crossfit, #crossfitteens, #iam1stphorm"
 ---

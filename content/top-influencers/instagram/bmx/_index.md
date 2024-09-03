@@ -1,12 +1,24 @@
 ---
-title: Top 10 Bmx Instagram Influencers In 2023
+title: Top 10 Bmx Instagram Influencers In 2024
 description: >-
-  Find top bmx Instagram influencers in 2023. Most popular hashtags: #bmx #bmxallday #bmxfreestyle.
+  Find top bmx Instagram influencers in 2024. Most popular hashtags: #bmx #bmxfreestyle #bmxstreet.
 platform: Instagram
-hits: 1393
-text_top: Discover the most popular Instagram influencers on inBeat.
-text_bottom: Our platform aggregates 1393 Instagram influencers like this for you to collaborate.
+hits: 1418
+text_top: See the most popular Instagram profiles on inBeat.
+text_bottom: Our search engine has 1418 Instagram influencers like this for you to connect with.
 profiles:
+  - username: "bmx"
+    fullname: >-
+      Our BMX
+    bio: >-
+      BMX is tight.
+    location: "United States"
+    followers: 458876
+    engagement: 75
+    commentsToLikes: 0.008227
+    id: ck0ttexcs2f5p0i19li005vri
+    verified: false
+    hashtags: "#bmx, #bmxbikes, #bmxstreet, #mtb"
   - username: "seth_kimbrough"
     fullname: >-
       Seth Kimbrough
@@ -67,18 +79,6 @@ profiles:
     id: ck55l9d18120w0i11mimk1bsl
     verified: false
     hashtags: "#bmx"
-  - username: "bmx"
-    fullname: >-
-      Our BMX
-    bio: >-
-      BMX is tight.
-    location: "United States"
-    followers: 184636
-    engagement: 292
-    commentsToLikes: 0.008629
-    id: ck0ttexcs2f5p0i19li005vri
-    verified: false
-    hashtags: "#ourbmx, #sourcebmx, #bmx, #ourbmxhighlight"
   - username: "bmx4all"
     fullname: >-
       BMX
@@ -91,40 +91,40 @@ profiles:
     id: ckaovblo53v8x0i78mezjo7om
     verified: false
     hashtags: ""
-  - username: "alex_lagutkina"
+  - username: "dannyjosa"
     fullname: >-
-      Sasha Lagutkina 🇷🇺
+      Daniel Josa
     bio: >-
-      🇷🇺 St. Petersburg,Russia↔️Skopje,Mk 🇲🇰 💗BMX rider👑 💗SPBU Faculty of law🏛 💗Partnership: DM me🧸 💗@4130_shop @darebmx⚙️ 🐰Bad ideas make best memories🐾
-    location: "Russia"
-    followers: 14257
-    engagement: 1136
-    commentsToLikes: 0.025276
-    id: ck5zwbwqm5urx0i14hntyfzat
-    verified: false
-    hashtags: "#love, #bmx, #bmxrider, #bmxstyle"
-  - username: "nadja.pries"
-    fullname: >-
-      Nadja Pries | Athlete
-    bio: >-
-      A life full of crossfit & downhill ✨former bmx race pro & 🇧🇷 2016 Olympian 🔥@crossfitdistrict18 🎽@renerosa_trikotmanufaktur
+      Freestyle Bmx | Motorcycles 🤙🏽 Globetrotter | 78 countries+ 🌎✈️ Exatlon Hungary All Star Champion 🏆🔴 dannyjosabmx@gmail.com
     location: "United States"
-    followers: 8122
-    engagement: 984
-    commentsToLikes: 0.028159
-    id: ck5q3an1mk0j60i1196bxnovq
+    followers: 41504
+    engagement: 488
+    commentsToLikes: 0.005071
+    id: ck13cz8lu2vd70i19rd1rn4f1
     verified: false
-    hashtags: "#healthylifestyle, #mtblife, #mtbgirl, #mountainlove"
-  - username: "abmxiclerider"
+    hashtags: "#bmxpov, #bmxdirt, #costarica, #exatlonhungary"
+  - username: "lara_lessmann"
     fullname: >-
-      Jay Dalton
+      Lara Lessmann
     bio: >-
-      A-BMX-icle-rider My name is Jay and I ride small bikes. Contact: jaydaltonbmx@gmail.com
-    location: "United States"
-    followers: 53284
-    engagement: 923
-    commentsToLikes: 0.017589
-    id: ck5c1j67pva9h0i116egl625j
+      BMX athlete🌍🌴 23yo follow your dreams ☾ |olympian WC:3x🥇4x🥈3x🥉WORLDS🥈EC: 2x🥈 @redbullgermany @vans_europe @oakley @totalbmx @ridetsg @kunstformbmxshop
+    location: "Germany"
+    followers: 94219
+    engagement: 815
+    commentsToLikes: 0.011305
+    id: ck0u8lcq07mx10i19iize428i
     verified: false
-    hashtags: "#bmx, #mx, #streetasheck, #sethisalive"
+    hashtags: "#bmxgirl, #bmx, #olympics, #bmxfreestyle"
+  - username: "billyperry631"
+    fullname: >-
+      Billy Perry
+    bio: >-
+      Pro BMX Athlete | FTL 🐘 @ftlbmx @merrittbmx @insta360 📍 NY
+    location: "United States"
+    followers: 404810
+    engagement: 954
+    commentsToLikes: 0.014324
+    id: ck5byhairp55l0i11r5zmagl3
+    verified: true
+    hashtags: "#explore, #volumebikes, #ftlbmx, #bmx"
 ---

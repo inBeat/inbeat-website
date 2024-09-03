@@ -1,11 +1,11 @@
 ---
-title: Top 10 Hair Dressers Instagram Influencers In United Kingdom In 2023
+title: Top 10 Hair Dressers Instagram Influencers In United Kingdom In 2024
 description: >-
-  Find top hair dressers Instagram influencers in United Kingdom in 2023. Most popular hashtags: #hair #behindthechair #hairdressersjournal #haircolor.
+  Find top hair dressers Instagram influencers in United Kingdom in 2024. Most popular hashtags: #hairdressersjournal #hairstylist #ukhairdresser #behindthechair.
 platform: Instagram
-hits: 24
-text_top: Discover the best Instagram accounts on inBeat.
-text_bottom: inBeat has 24 Instagram influencers like this in United Kingdom for you to connect with.
+hits: 33
+text_top: See the most popular Instagram profiles on inBeat.
+text_bottom: Our database holds 33 Instagram influencers like this in United Kingdom for you to collaborate.
 profiles:
   - username: "chanellesmamalife"
     fullname: >-
@@ -19,18 +19,30 @@ profiles:
     id: ckaorlr7onsh50i78174pyt33
     verified: false
     hashtags: "#kiwimum, #nzmumblogger, #nzkids, #nzsummer"
-  - username: "nualamoreysalon"
+  - username: "charliegray248"
     fullname: >-
-      Nuala Morey
+      Charles Gray
     bio: >-
-      🌺Curly Hair & Colour Ambassador for Aveda 🌱Educator For Aveda 🌳Creator of 'The Nuala Morey System' for curly hair 🐰Cruelty Free & Vegan
+      Founder @hairinmotioneducation Ambassador @leafscissors Agency @leftside_creative JOIN OUR ONLINE ACADEMY & DOWNLOAD THE APP
     location: "United Kingdom"
-    followers: 79014
-    engagement: 324
-    commentsToLikes: 0.028913
-    id: ck8t2yh7i16ox0j78ivmkqa7o
+    followers: 203696
+    engagement: 14
+    commentsToLikes: 0.045869
+    id: ck15u3x9tlb2v0i19prfl99fu
     verified: false
-    hashtags: "#aveda, #curlyhairdontcare, #hairdressersjournal, #curlycommunity"
+    hashtags: "#haircutting, #hairacademy, #barbersinctv, #barberingeducation"
+  - username: "unbeweavablehairsalon"
+    fullname: >-
+      CHANTELLE | UNBEWEAVABLE HAIR.
+    bio: >-
+      Hair Extension Specialist Location - Ipswich, creator | unbeweavable products colour specialists info@unbeweavablehairltd.co.uk
+    location: "United Kingdom"
+    followers: 31752
+    engagement: 63
+    commentsToLikes: 0.179808
+    id: ck9wfr67dq5mq0j78jdhrb7co
+    verified: false
+    hashtags: "#haircareproductsthatwork, #russianhairextensions, #ghdhairpro, #weavespecialist"
   - username: "glam.by.heather"
     fullname: >-
       HΔIR ШITCH Heather Mackenzie
@@ -55,18 +67,6 @@ profiles:
     id: ck5byszbcps9t0i114sztfuon
     verified: false
     hashtags: "#toniandguyworld, #awards, #londonhairdresser, #hj"
-  - username: "jackhowardcolor"
-    fullname: >-
-      Balayage by Jack Howard
-    bio: >-
-      Global Commericial Colorist/Podcaster. @colourworlduk Color Communicator Genius 2020 | BHBA Social Stylist 2020-21
-    location: "United Kingdom"
-    followers: 173296
-    engagement: 122
-    commentsToLikes: 0.056514
-    id: ck0u28a9vz5o10i19bd2peh5o
-    verified: false
-    hashtags: ""
   - username: "palmerandcompanyinternational"
     fullname: >-
       PalmerandCompany International
@@ -79,52 +79,52 @@ profiles:
     id: ck6ty2e9i1ae20j71py06vnvw
     verified: false
     hashtags: "#hairdressersjournal, #hairclublive, #estetica, #precisioncuttingchampionship"
-  - username: "eatswithamy_x"
+  - username: "lifeofmummies"
     fullname: >-
-      Amy 🍭Food 🇬🇧 Newcastle/Mcr
+      Holly Gee & Sophie Taylor
     bio: >-
-      💕23 ~ Student 💕 ✨Just your average girl eating a lot✨ 📍North East ~ Currently Darlo based📍 📥 DM/email for enquiries/collabs ~ eatswithamy1@gmail.com📥
+      Best friends Holly & Sophie laughing & crying with you through motherhood and more 🫶🏼 🏆Award winning content creators Represented by @screativeagency
     location: "United Kingdom"
-    followers: 10871
-    engagement: 253
-    commentsToLikes: 0.070776
-    id: ck6uaj1pp3u9t0j71yi28j8pn
+    followers: 82089
+    engagement: 97
+    commentsToLikes: 0.029308
+    id: ckapcr4cv4v1u0i787vyzha8z
     verified: false
-    hashtags: "#porridgebowl, #ukblogger, #oats, #breakfasttime"
-  - username: "kingaroo_x"
+    hashtags: "#sahm, #parenting, #motherhoodunplugged, #mumlife"
+  - username: "ninajoanne_official"
     fullname: >-
-      KINGA
+      N I N A  J O A N N E
     bio: >-
-      📍London 🤤 mad about food Capturing moments & sharing them with you
+      ❤️💍 JR 𝐌 𝐎 𝐃 𝐄 𝐋 💉𝐀𝐄𝐒𝐓𝐇𝐄𝐓𝐈𝐂𝐒, 𝐏𝐌𝐔 & 𝐏𝐈𝐄𝐑𝐂𝐈𝐍𝐆𝐒 @glowupwithnina_ Internationally Published Collabs/Bookings: modelninajoanne@gmail.com
     location: "United Kingdom"
-    followers: 8993
-    engagement: 832
-    commentsToLikes: 0.024853
-    id: ck5c6jghy5kca0i11gwbqoqhq
+    followers: 210393
+    engagement: 89
+    commentsToLikes: 0.006395
+    id: ck0uczf2fhvz10i19b6i1pu1n
     verified: false
-    hashtags: "#mountbrandon, #cookingathome, #supportirishbusiness, #londonlockdown"
-  - username: "cossakkas"
+    hashtags: "#fashioninspo, #tattoostyle, #lovehoneylingerie, #fashionstyle"
+  - username: "holliewilliams_hairextensions"
     fullname: >-
-      CosSakkas
+      The Weave Queen 👑
     bio: >-
-      TONI&GUY International Artistic Director Love Hair & Education 3 x British Hairdresser of the Year Nominee 3 x London Hairdresser of the Year
+      Specialising in Hair Extensions for 13 Years Weaves / Bonds Focused Supplying the most beautiful Wigs @prettylittlewigs_byhollie Wirral Uk🇬🇧🏳️‍🌈
     location: "United Kingdom"
-    followers: 18366
-    engagement: 174
-    commentsToLikes: 0.073729
-    id: ck5bzitx1r8ay0i111sbn7f13
+    followers: 41704
+    engagement: 65
+    commentsToLikes: 0.034846
+    id: ckprgrdkb8akb0j2323ig6086
     verified: false
-    hashtags: "#photography, #me, #editorial, #davidkoma"
-  - username: "m13ky"
+    hashtags: "#30, #hairdressing, #wirral, #content"
+  - username: "remicachet"
     fullname: >-
-      Mick Graham
+      Remi Cachet Hair Extensions
     bio: >-
-      Founder Of “LOCATION” X Studio British Master Barber Of The Year 2016 Specifically Tailored Private 1-1 Or Group Education Days Available via D.M
+      Professional #hairextension brand Trade Accounts for Hair Salons and Stylists Also available @additional_lengths 💇‍♀️ Apply for a Trade Account ⬇️
     location: "United Kingdom"
-    followers: 40211
-    engagement: 367
-    commentsToLikes: 0.014069
-    id: ck5zt8v4kzyik0i146y0441mr
+    followers: 55520
+    engagement: 20
+    commentsToLikes: 0.055561
+    id: ckprgrdnq8ap00j23jtkdgyd1
     verified: false
-    hashtags: "#style, #gentshair, #supreme, #locationx"
+    hashtags: "#hairextensionsalon, #hairextensionspecialists, #prebondedhair, #tapehair"
 ---

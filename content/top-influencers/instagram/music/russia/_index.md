@@ -1,130 +1,130 @@
 ---
-title: Top 10 Music Instagram Influencers In Russia In 2023
+title: Top 10 Music Instagram Influencers In Russia In 2024
 description: >-
-  Find top music Instagram influencers in Russia in 2023. Most popular hashtags: #cover #russia #music.
+  Find top music Instagram influencers in Russia in 2024. Most popular hashtags: #style #reels #dubaimodels.
 platform: Instagram
-hits: 1184
-text_top: Analyze the top-rated Instagram influencers on inBeat.
-text_bottom: Our search engine aggregates 1184 Instagram influencers like this in Russia for you to contact.
+hits: 1187
+text_top: Analyze the most popular Instagram profiles on inBeat.
+text_bottom: Our database has 1187 Instagram influencers like this in Russia for you to work with.
 profiles:
-  - username: "skripka_show"
+  - username: "rahimabramov"
     fullname: >-
-      Арина Дукмасова Скрипка Челны
+      Rakhim
     bio: >-
-      От классики до современной🎵 🍒Мурашки гарантированы😘 Music show on distance 🎼 📞+79179048118 кликай⤵️
+      pr.rakhimabramov@gmail.com Rakhim, Dyce - Dubai Drift(Music Video)
     location: "Russia"
-    followers: 4054
-    engagement: 2439
-    commentsToLikes: 0.162125
-    id: ck5ccour9hqs50i11ij96bp78
+    followers: 6174070
+    engagement: 574
+    commentsToLikes: 0.016480
+    id: ck14ikvctfwze0i19gusfz0u3
     verified: false
-    hashtags: "#violin, #soulmusic, #lyricsvideo, #russia"
-  - username: "mavl.x"
+    hashtags: "#diroldontdrop, #lookatmehabibi, #reactionboi, #talktomenice"
+  - username: "madtwinz"
     fullname: >-
-      Мэвл
+      MAD TWINZ
     bio: >-
-      ГОВОРИ НЕ БОЙСЯ, БОЙСЯ НЕ ГОВОРИТЬ 🦍@legacy_music_to 🦾 💌 booking@musiclegacy.ru | +79959218354 Антон МОЯ БИОГРАФИЯ 👇
+      Music from the mouth🗣️🎶 Champions @jayton_beats & @pash_beat ✉️Inquiries: madtwinzsocial@gmail.com CEO @beatlandbattle
     location: "Russia"
-    followers: 568961
-    engagement: 465
-    commentsToLikes: 0.023186
-    id: ck5q5pxw6u0kw0i11cu4fhdfk
-    verified: true
+    followers: 791084
+    engagement: 1485
+    commentsToLikes: 0.009029
+    id: ck5c46kpi0pio0i11iegko9r3
+    verified: false
+    hashtags: "#beatbox, #mad, #house, #flow"
+  - username: "serhatsengul"
+    fullname: >-
+      Serhat Sengul
+    bio: >-
+      Brandlifter by day @boreal.brandlifting Musician by night #ToiletSeatCovers Gerçek Ol yayında🌹
+    location: "Russia"
+    followers: 16508
+    engagement: 431
+    commentsToLikes: 0.067095
+    id: ck5ch890fqa640i119flkmdgo
+    verified: false
+    hashtags: "#madriddiaries, #ralph, #backstreet, #boy"
+  - username: "katosina"
+    fullname: >-
+      katòs
+    bio: >-
+      dj / director / creative and music producer @zzoloto boss i make mixes and playlists. you can listen it if you want. bye
+    location: "Russia"
+    followers: 23299
+    engagement: 318
+    commentsToLikes: 0.042334
+    id: ck0w1hmzgje6n0i19wll2vu4l
+    verified: false
     hashtags: ""
-  - username: "anna_radchenko"
+  - username: "xenia___official"
     fullname: >-
-      Режиссёрка с Марса 🎬
+      Ksenia | Singer | Actress | Dubai
     bio: >-
-      🎥Клиенты: Nike, Warner music, Vogue 🇬🇧Живу в Лондоне 🤝Знаю, как подружить искусство и 💶 🔥Открыт набор на курс пАРТа 👇🏻
+      ▫️📍Dubai ▫️Mrs. Moscow 👑 ▫️ENTERPREUNER @my_la_dream ▫️My music 👇🏻👇🏻👇🏻
     location: "Russia"
-    followers: 112028
-    engagement: 415
-    commentsToLikes: 0.028471
-    id: ck5pw2dzikrsa0i11jr5l0w8r
+    followers: 123984
+    engagement: 268
+    commentsToLikes: 0.015308
+    id: ck55n4tec5hcc0i11z29b7dzr
     verified: false
-    hashtags: ""
-  - username: "konfuz_music"
+    hashtags: "#mood, #video, #photo, #dress"
+  - username: "kuvshinov_ilya"
     fullname: >-
-      Mishka🧸✝️
+      Ilya Kuvshinov
     bio: >-
-      Booking: +7-995-921-83-54 Антон PR Director: +7-916-823-24-09 Ирина Email: booking@musiclegacy.ru Интервью GQ👇🏻
+      Russian artist / animation director based in Tokyo.♂️ Watch “Let You Down” Music Video here:
     location: "Russia"
-    followers: 263769
-    engagement: 1335
-    commentsToLikes: 0.013944
-    id: ck8t2fuv6zbzi0j78ry2hpp83
+    followers: 1980727
+    engagement: 257
+    commentsToLikes: 0.003637
+    id: ck0tt42i212hq0i19ywqe7t7k
     verified: false
-    hashtags: "#mycalvins, #glamourinfluencersawards"
-  - username: "lizi_kotenok"
+    hashtags: "#gallerynucleus, #tlouday, #outbreakday, #naughtydog"
+  - username: "sokhranova"
     fullname: >-
-      Модель / Model 👸
+      Polina Sokhranova
     bio: >-
-      🤗 Лиза Толмачёва & мама Марина 😉 🎤,💃, 🎨, 📽, 📸, #musicLizi ☝️ Run by mom @marinak_2007 📲 По сотрудничеству➡️Директ 🇷🇺 Москва-СПб МА @macaroniskids
+      Co-founder at @rute.world & journalist / editor [previously at: Cosmopolitan, Interview, Vogue] wellness, fashion & music lover
     location: "Russia"
-    followers: 26377
-    engagement: 486
-    commentsToLikes: 0.151280
-    id: ck6tpc7kaj0wx0j7166iwlr0q
+    followers: 40476
+    engagement: 188
+    commentsToLikes: 0.014498
+    id: ck5hgjntm34ls0i11ieg3b7pz
     verified: false
-    hashtags: "#tacos, #littlebigband, #littlebig, #inthemorning"
-  - username: "veronika.snow"
+    hashtags: "#olgadunina, #islandlife, #paros"
+  - username: "greywiese"
     fullname: >-
-      Your Vintage Soul ❤️
+      Grey Wiese
     bio: >-
-      ✨Vintage girl from Moscow 💄let’s be beautiful together #snow_tutor ⠀ Musicals are literally my life ♥️ ⠀ DM for collaboration👋
+      Сережа Григорьев-Апполонов Music 🎶 Fashion👢Food 🥗 🥇самый популярный русскоязычный блогер в 🇩🇪 бросил карьеру топ-менеджера👨‍💼ради блога и сцены👨‍🎤
     location: "Russia"
-    followers: 7625
-    engagement: 724
-    commentsToLikes: 0.108700
-    id: ck8t28dp1yioh0j78pykrnfga
-    verified: false
-    hashtags: "#vintageautumn, #pinupgal, #vintagelady, #fifties"
-  - username: "hayrzamanov"
-    fullname: >-
-      🎹Альберт Хайрзаманов🎹
-    bio: >-
-      Albert | Professional Musician Booking: +7-919-322-03-42 Pianist🎹 Saxophonist 🎷 Guitar player🎸 Singer🎤
-    location: "Russia"
-    followers: 7934
-    engagement: 703
-    commentsToLikes: 0.101490
-    id: ck6u61dl0cz750j71q05buzr5
-    verified: false
-    hashtags: "#russiansingers, #russia, #music, #tiktok"
-  - username: "yella_kg"
-    fullname: >-
-      Елла 🎙
-    bio: >-
-      Назгуль Токтакунова Победитель проекта «Резидент ТНТ Music» 🇷🇺 Автор песен / Поэт / Исполнитель 🎙 «Пончик» 👇🏻👇🏻👇🏻
-    location: "Russia"
-    followers: 362603
-    engagement: 178
-    commentsToLikes: 0.037088
-    id: ck14hbmwp9i8v0i19uhqvc78x
-    verified: false
-    hashtags: "#myall, #marygu, #cover, #yella"
-  - username: "rinal_mukhametov"
-    fullname: >-
-      Риналь Мухаметов
-    bio: >-
-      Music: RINAL Попечитель фонда @podarizhizn Agent: +79154658009 (Suzanna) rinalmukhametov@gmail.com
-    location: "Russia"
-    followers: 84816
-    engagement: 824
-    commentsToLikes: 0.011354
-    id: ck5btend4ftrf0i1181hdlms8
+    followers: 1017728
+    engagement: 177
+    commentsToLikes: 0.039358
+    id: ck6ttesqha81s0j71kvn53z6q
     verified: true
-    hashtags: "#finolhumaldives, #seasidefinolhu, #finolhu, #cosmopolitanmanawards"
-  - username: "evgenyfist"
+    hashtags: "#pompidou"
+  - username: "davia_music"
     fullname: >-
-      EVGENY FIST
+      Alex Davia
     bio: >-
-      Musician, writer, author of 2 bestsellers Founder @outfofame @hollagallery ✉️ evgenyfist@gmail.com ⬇️⬇️⬇️NEW SONG🔥
+      ⚡️MULTI💽PLATINUM PRODUCER ⚡️DAVIA MUSIC LABEL ⚡️PRODUCER OF @amirchiiik_ Крид,Киркоров,МариКраймбрери,Зиверт,ХамалиНаваи,Jony,Мот,Timati etc..
     location: "Russia"
-    followers: 162820
-    engagement: 373
-    commentsToLikes: 0.026182
-    id: ck13c3ek9yfgg0i19vmpgtqef
+    followers: 205870
+    engagement: 173
+    commentsToLikes: 0.018951
+    id: ck13b6q23ty6q0i19rq4nm5t2
     verified: false
-    hashtags: "#nikesb"
+    hashtags: "#rollsroyce"
+  - username: "kristian_kostov_official"
+    fullname: >-
+      Kristian Kostov
+    bio: >-
+      Singer, songwriter, anime addict, Based in 🇪🇸 More than 2 Billion people heard my music! Inside Beautiful Mess - out now 👇
+    location: "Russia"
+    followers: 302771
+    engagement: 132
+    commentsToLikes: 1.353168
+    id: ck9hcowj7me5m0j788rcytfi3
+    verified: true
+    hashtags: "#musician, #spotify, #reels, #viral"
 ---

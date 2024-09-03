@@ -1,48 +1,24 @@
 ---
-title: Top 10 Cinema Instagram Influencers In Switzerland In 2023
+title: Top 10 Cinema Instagram Influencers In Switzerland In 2024
 description: >-
-  Find top cinema Instagram influencers in Switzerland in 2023. Most popular hashtags: #switzerland #videoediting #portrait.
+  Find top cinema Instagram influencers in Switzerland in 2024. Most popular hashtags: #cinematography #porsche #porsche911.
 platform: Instagram
-hits: 17
-text_top: See the top-rated Instagram accounts on inBeat.
-text_bottom: Our search engine has 17 Instagram influencers like this in Switzerland for you to contact.
+hits: 29
+text_top: Identify the most popular Instagram influencers on inBeat.
+text_bottom: inBeat holds 29 Instagram influencers like this in Switzerland for you to collaborate.
 profiles:
-  - username: "jonglr"
-    fullname: >-
-      J O N   G U L E R
-    bio: >-
-      Cinematographer and photographer based in Switzerland My crew @thealpinists #bealpine I shoot all my pictures with Nikon
-    location: "Switzerland"
-    followers: 42925
-    engagement: 544
-    commentsToLikes: 0.041560
-    id: ck0ttbfxp1zft0i19p0n01kr1
-    verified: false
-    hashtags: "#polestar, #polestar2, #collab, #mywinteredit"
   - username: "zimydakid"
     fullname: >-
       Zimy Da Kid
     bio: >-
-      🏴‍☠️ Pirate ✖️ Cinematographer ✖️ Storyteller 🦈 Born in the Mountains, Raised by the Ocean 📍 Switzerland ⬇️ My videos are better than my photos
+      🏴‍☠️ Pirate ✖️ Cinematographer ✖️ Storyteller 🦈 Born in the Mountains, Raised by the Ocean 🌿 Fighting for the Wild ⬇️ Link to my videos and more
     location: "Switzerland"
-    followers: 48054
-    engagement: 494
-    commentsToLikes: 0.065896
+    followers: 56790
+    engagement: 482
+    commentsToLikes: 0.047099
     id: ck0u0624asqik0i19wdzv51y0
     verified: false
-    hashtags: "#discoverearth, #earthoutdoors, #shark, #freedive"
-  - username: "phonography97"
-    fullname: >-
-      🇨🇭
-    bio: >-
-      📍Zürich Smartphone Photography with #samsunggalaxy Note 10+ 📸 Cinematic Drone Videos 👇🏼👇🏼
-    location: "Switzerland"
-    followers: 10349
-    engagement: 581
-    commentsToLikes: 0.065889
-    id: ckap0lzf4qw3j0i78acgqvlr9
-    verified: false
-    hashtags: "#visitswitzerland, #samsunggalaxy, #swiss, #zhwelt"
+    hashtags: "#costarica, #fightforthewild"
   - username: "blumepictures"
     fullname: >-
       Lukas "Blume" Rösli
@@ -67,18 +43,30 @@ profiles:
     id: ck6u9d12pwuk00j7118o8dobg
     verified: false
     hashtags: "#caionsurfhouse, #rbi19wac, #redbullillume, #westsahara"
-  - username: "dani.portraits"
+  - username: "romanbratschi"
     fullname: >-
-      Daniel Do | 🇨🇭 Swiss Photo-/Videographer
+      Roman Bratschi
     bio: >-
-      🍫 Professional Chocolate Collector 🇨🇭Switzerland, Basel ⬇️ MY PRESETS & TUTORIAL 👨🏻‍🏫 Skype 1on1 Sessions 🚶@dvni.do
+      3D designs made in switzerland Represented by @nerdproductionslondon
     location: "Switzerland"
-    followers: 125555
-    engagement: 209
-    commentsToLikes: 0.033415
-    id: ck9whv1g0zlnb0j784u9osoz3
+    followers: 103545
+    engagement: 698
+    commentsToLikes: 0.011638
+    id: ck13bi84kvj2y0i19jchdcql6
     verified: false
-    hashtags: "#mobileediting, #cinematiclook, #filmmaker, #videotutorial"
+    hashtags: "#design, #cinema4d, #artoftheday, #3dart"
+  - username: "gregorykoefer"
+    fullname: >-
+      Gregory Köfer  | Writer & Director
+    bio: >-
+      Tell Stories. Bend Minds. 🧙‍♂️ Films. Commercials. Narratives. Web3. Based in Dubai | Zurich.
+    location: "Switzerland"
+    followers: 15528
+    engagement: 58
+    commentsToLikes: 0.049263
+    id: ck15rjuga89y30i19fn27sz9v
+    verified: false
+    hashtags: "#shortfilm, #gregorykoefer, #director, #filmmaking"
   - username: "noemiottiliaszabo"
     fullname: >-
       Noémi Ottilia Szabo 🐺
@@ -90,7 +78,7 @@ profiles:
     commentsToLikes: 0.011329
     id: ck0u0q1s7ujk20i19jews70c8
     verified: false
-    hashtags: "#editor, #outtake, #celineschmid, #setdesign"
+    hashtags: "#fashioneditorial, #assistant, #photography, #model"
   - username: "danielilabaca"
     fullname: >-
       D A N I E L   I L A B A C A
@@ -103,28 +91,40 @@ profiles:
     id: ck5bv7etzj4d30i11wxg5q29h
     verified: false
     hashtags: "#explore, #gopromax, #stunt, #inlineskate"
-  - username: "karinefahmyofficial"
+  - username: "planzerfilms"
     fullname: >-
-      Karine Fahmy
+      Marc Planzer
     bio: >-
-      🇪🇬 Miss Egypt 1998 📺 Tv presenter 👩‍🎨Degrees in Makeup/Permanent Makeup 🍏Involved in Fashion &Nutrition 👫A mom of 2🙏
+      Planzerfilms GmbH Creative Direction / Film wedding acc @planzerweddingfilms
     location: "Switzerland"
-    followers: 31751
-    engagement: 177
-    commentsToLikes: 0.070991
-    id: ck15r4x0f660p0i19yb0oexh3
+    followers: 32858
+    engagement: 1248
+    commentsToLikes: 0.022960
+    id: ck0vvb523ocsp0i19t4tgm1hc
     verified: false
-    hashtags: "#mohamedramadan, #love, #happiness, #egypt"
-  - username: "bertiweber"
+    hashtags: "#carsofinstagram, #mercedesbenz, #tuning, #rs6"
+  - username: "storyflow"
     fullname: >-
-      Berti Weber
+      Meli und Flo🇨🇭
     bio: >-
-      ▸ Photo & Film ▸ Founder of @wandermagic.ch ▸ Dancer @ginseng_dance_crew
+      🌍 Reisen & Selbständigkeit 👨‍👩‍👧 Family-Life und Alltag als Content Creator 🔥 Gang use ond schrieb dini eigeti Gschecht!
     location: "Switzerland"
-    followers: 2130
-    engagement: 2918
-    commentsToLikes: 0.176300
-    id: ck6topt5ofey20j71ziy6j8h1
+    followers: 8800
+    engagement: 490
+    commentsToLikes: 0.031427
+    id: ck8svub54cps60j78eo1436ct
     verified: false
-    hashtags: "#igerszurich, #capshop, #sonyvideo, #videoschweiz"
+    hashtags: "#odlo, #zeroexcuses, #onestepahead, #bucketlistlucerne"
+  - username: "carswithluke"
+    fullname: >-
+      Luke Penn
+    bio: >-
+      Based in 🇨🇭 Filmmaker, YouTuber, Artist, stay humble. hello@carswithluke.com
+    location: "Switzerland"
+    followers: 172302
+    engagement: 1526
+    commentsToLikes: 0.006885
+    id: ck13cork41f1b0i19jd556qw6
+    verified: false
+    hashtags: "#992gt3, #porsche911, #gt3, #gt4rs"
 ---

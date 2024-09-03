@@ -1,24 +1,36 @@
 ---
-title: Top 10 Makeup Instagram Influencers In New York In 2023
+title: Top 10 Makeup Instagram Influencers In New York In 2024
 description: >-
-  Find top makeup Instagram influencers in New York in 2023. Most popular hashtags: #makeup #beauty #transformation #nyc.
+  Find top makeup Instagram influencers in New York in 2024. Most popular hashtags: #makeup #makeupartist #beauty #newyork.
 platform: Instagram
-hits: 534
-text_top: Discover the best Instagram accounts on inBeat.
-text_bottom: Our search engine holds 534 Instagram influencers like this in New York, United States for you to pitch.
+hits: 682
+text_top: Discover the best Instagram profiles on inBeat.
+text_bottom: Our search engine has 682 Instagram influencers like this in New York, United States for you to work with.
 profiles:
-  - username: "chrisfucilephotography"
+  - username: "inithershey__"
     fullname: >-
-      Chris Fucile Photography
+      Hershey ✨
     bio: >-
-      Fucile@gmail.com. Published photographer. Message me for rates and bookings. Based in NYC
+      New York Made 🗽 🇬🇲 Bartender 🍾 CEO OF @finebaeboutique 👙👗
     location: "United States"
-    followers: 9536
-    engagement: 834
-    commentsToLikes: 0.021186
-    id: ckaoqwo7akqz90i78bldf640t
+    followers: 4693
+    engagement: 910
+    commentsToLikes: 0.035932
+    id: ck5px0b8yph7l0i11autkibfc
     verified: false
-    hashtags: "#mensphysique, #fashion, #fashioneditorial, #fashionphotography"
+    hashtags: "#money, #miami, #gambian, #hersheyluxury"
+  - username: "rebeccaariv"
+    fullname: >-
+      Double - R Beauty (NY MUA)
+    bio: >-
+      𝙄𝙣𝙦𝙪𝙞𝙧𝙞𝙚𝙨 // 𝙧𝙚𝙗𝙚𝙘𝙘𝙖𝙧𝙞𝙫𝙚𝙧𝙖𝙗𝙚𝙖𝙪𝙩𝙮@𝙜𝙢𝙖𝙞𝙡.𝙘𝙤𝙢 🌾 BOOK WITH ME 👇🏻 ——————————————————
+    location: "United States"
+    followers: 6505
+    engagement: 358
+    commentsToLikes: 0.103879
+    id: ck9h9ry6o9q180j783ig994gr
+    verified: false
+    hashtags: "#doublerbeaury, #makeupbymario, #editorialmakeup, #nymua"
   - username: "geoffreyriot"
     fullname: >-
       Geoffrey Riot
@@ -31,18 +43,18 @@ profiles:
     id: ck15ruyl29ua10i19yo34txqx
     verified: false
     hashtags: "#dccomicscosplay, #jokercosplayer, #jokersmile, #makeup"
-  - username: "kadixhe"
+  - username: "evitascoccia"
     fullname: >-
-      Kadie
+      evita scoccia
     bio: >-
-      
+      Based on a true story Founder @ny.swimweek Event Coordinator @lifetime.nyc Designer @evita.store
     location: "United States"
-    followers: 5134
-    engagement: 523
-    commentsToLikes: 0.111871
-    id: ck9hcgto6lblk0j780y5lvc41
+    followers: 104591
+    engagement: 159
+    commentsToLikes: 0.046549
+    id: ck55p8ow4a1oi0i11hn7i2kuq
     verified: false
-    hashtags: "#explorepage, #bostonfashionblogger, #bostonblogger, #bostonfashionweek"
+    hashtags: "#castingcall, #nyc, #models, #bossbabe"
   - username: "crismarlyqueen"
     fullname: >-
       Crismarly Cruz • Makeup Artist
@@ -66,19 +78,7 @@ profiles:
     commentsToLikes: 0.060591
     id: ck6tmelfb7p9z0j71sdfox43g
     verified: false
-    hashtags: "#weightloss, #beauty, #glam, #weightlossjourney"
-  - username: "celebritydentistry"
-    fullname: >-
-      Celebrity 👄 Dentistry
-    bio: >-
-      🤩 smile care inspo from real dentists
-    location: "United States"
-    followers: 116051
-    engagement: 150
-    commentsToLikes: 0.019337
-    id: ckf5vs2bfpqcw0j23oierzhxe
-    verified: false
-    hashtags: "#transformation, #veneers, #surgery, #dentist"
+    hashtags: "#weightloss, #glam, #bridalhair, #beauty"
   - username: "christina_vannuis"
     fullname: >-
       Christina Van Nuis
@@ -91,18 +91,6 @@ profiles:
     id: ck5bud5owhkda0i11ozxbdq5s
     verified: false
     hashtags: "#nofilter, #swipe, #deciosantos, #mfw"
-  - username: "makeupbymurry"
-    fullname: >-
-      Marisabel Van Der Biest | MUA
-    bio: >-
-      Pro MUA Certified in Makeup Designory, New York. Content creator 💫 Bridal and social artistry ✨ ✉️ Makeupbymurry@gmail.com
-    location: "United States"
-    followers: 21163
-    engagement: 694
-    commentsToLikes: 0.161002
-    id: ck5hjpbahh0x70i111sy5wocl
-    verified: false
-    hashtags: "#ilmakiage, #feathereyebrows, #charlottetilbury, #makeuplook"
   - username: "pattielepugh"
     fullname: >-
       Patrice Pugh
@@ -115,16 +103,28 @@ profiles:
     id: ck0w14awzhhqm0i191dir5j0y
     verified: false
     hashtags: "#makeupbymario, #holidayglam, #blackhistorymonth, #beauty"
-  - username: "inithershey__"
+  - username: "collectivelee"
     fullname: >-
-      Hershey ✨
+      Gina Lee
     bio: >-
-      New York Made 🗽 🇬🇲 Bartender 🍾 CEO OF @finebaeboutique 👙👗
+      💗Sharing my fave things and places with you 💗 Faith>Fear 💗Wife•Mom of✌🏻👧🏻 Long Island, NY 💗The fun and chaos happens in stories 👗Shop below⬇️
     location: "United States"
-    followers: 4693
-    engagement: 910
-    commentsToLikes: 0.035932
-    id: ck5px0b8yph7l0i11autkibfc
+    followers: 17822
+    engagement: 107
+    commentsToLikes: 0.257470
+    id: ckqqc22b2xa2s0j23b3wb3pel
     verified: false
-    hashtags: "#wcw, #hershey, #makeup, #money"
+    hashtags: "#makeup, #whatwinewednesday, #newyorkmom, #longislandmoms"
+  - username: "amiira"
+    fullname: >-
+      Amira Pinheiro
+    bio: >-
+      🇧🇷👣🌎🤎 📍NYC M.A.: @miguelcrispim Elite NYC Contact: austen@elitemodels.com
+    location: "United States"
+    followers: 18522
+    engagement: 668
+    commentsToLikes: 0.079287
+    id: ck137yi91dn2q0i198smuhwkm
+    verified: false
+    hashtags: "#editorial, #queenamira, #harpersbazaar, #bazaarbr"
 ---

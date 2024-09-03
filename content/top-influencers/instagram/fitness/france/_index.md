@@ -1,130 +1,130 @@
 ---
-title: Top 10 Fitness Instagram Influencers In France In 2023
+title: Top 10 Fitness Instagram Influencers In France In 2024
 description: >-
-  Find top fitness Instagram influencers in France in 2023. Most popular hashtags: #love #style #fashion #outfit.
+  Find top fitness Instagram influencers in France in 2024. Most popular hashtags: #ootd #fitnessmotivation #fashion.
 platform: Instagram
-hits: 1358
-text_top: Analyze the top-rated Instagram influencers on inBeat.
-text_bottom: Our platform aggregates 1358 Instagram influencers like this in France for you to work with.
+hits: 1345
+text_top: Analyze the most popular Instagram influencers on inBeat.
+text_bottom: Our search engine holds 1345 Instagram influencers like this in France for you to collaborate.
 profiles:
+  - username: "cleoppatre"
+    fullname: >-
+      Cleopatre 🍭
+    bio: >-
+      Comedy 🤪 Model 💅🏼 Fitness 💪🏽 👻 Cleopatre_off 👻 📧 Cleopatre.pro@outlook.fr
+    location: "France"
+    followers: 200770
+    engagement: 1155
+    commentsToLikes: 0.019949
+    id: ck5c90zphakl60i114077t9r5
+    verified: false
+    hashtags: "#fail, #getoutmore, #naturevalleyaphetor, #salmon"
+  - username: "inchloeslife"
+    fullname: >-
+      Chloé Gavet
+    bio: >-
+      Maman de Marlon - 17/10/2022 lifestyle ,mode, déco ,fitness & mumlife Saint Raphaël - Côte d’Azur Collab : chloe.gavet@gmail.com
+    location: "France"
+    followers: 13855
+    engagement: 487
+    commentsToLikes: 0.262123
+    id: clljcn0gx985b0j08fo902dz4
+    verified: false
+    hashtags: "#giveaway, #momlife, #viral, #jeuxconcours"
+  - username: "dr.athenagrs"
+    fullname: >-
+      Λ T H E N Λ
+    bio: >-
+      👩🏻‍⚕️ MD, Médecin généraliste et esthétique 💉 🏋🏻‍♀️ Fitness | 👩🏻‍🍳 Cuisine | ✈️ Voyage | 📸 Model 📍 Monaco 🇲🇨 𝙼𝙰𝙽𝙶𝙸𝙰 𝙱𝙴𝙽𝙴, 𝚁𝙸𝙳𝙸 𝚂𝙿𝙴𝚂𝚂𝙾, 𝙰𝙼𝙰 𝙼𝙾𝙻𝚃𝙾
+    location: "France"
+    followers: 14723
+    engagement: 723
+    commentsToLikes: 0.092501
+    id: ck6tnuzb5amnl0j713uehxa1k
+    verified: false
+    hashtags: "#fitnessmotivation, #fitgirl, #fitnessgirl, #model"
   - username: "lisadelpiero"
     fullname: >-
       Lisa Del Piero
     bio: >-
-      Fitness is my Passion 🖤 lisadelpiero@getitdone.de @check_my_imprint
+      from skinny to fit 💪 👻 lisadelpiero ✉️ lisadelpiero@getitdone.de Fitnessguides:
     location: "France"
-    followers: 993361
-    engagement: 550
-    commentsToLikes: 0.010625
+    followers: 1755704
+    engagement: 828
+    commentsToLikes: 0.010420
     id: ck6toa8k7cywk0j71u2lvb7gw
     verified: true
-    hashtags: "#beach, #summer, #bikini, #sand"
-  - username: "mitenkakaiya"
+    hashtags: "#ceo, #happyvalentinesday, #gym"
+  - username: "ninacherryoff"
     fullname: >-
-      Miten Says Fitness (MSF)
+      Thanina mahiou
     bio: >-
-      Come learn Everyday Nutrition and Fitness with me.✨ Coached 8000+ Clients ❌Boring Diets! ❌Burnouts! #MSF #MitenSays Early Bird Offer ⬇️
+      🥊 French champion Boxer & Boxing&Fitness Personal Trainer 🎥 TikTok 1,5 Mil Founder & Owner @theadofficiel CEO @efoildubai & @wakesurfdubai
     location: "France"
-    followers: 60354
-    engagement: 64
-    commentsToLikes: 0.016652
-    id: ck602nw17i7el0i14hh6g6euy
+    followers: 177048
+    engagement: 810
+    commentsToLikes: 0.011841
+    id: ck14il5q5fyg00i192iqrftz8
     verified: false
-    hashtags: "#msf, #mitensays, #mitensaysfitness, #miten"
-  - username: "myri_fit"
+    hashtags: "#oldmoneyaesthetic, #outfitideas, #dubaimommyblogger, #ootd"
+  - username: "nathan_zambon"
     fullname: >-
-      Myri | 29
+      ɴᴀᴛʜᴀɴ ᴢᴀᴍʙᴏɴ
     bio: >-
-      Let me inspire you ✨ Mom of ✌🏼 Fitness & Food 💪🏼🥦 💌:Myriam@wantmoreagency.de
+      🔥I FITNESS MOTIVATION 🕰️I 24 ans 🇫🇷
     location: "France"
-    followers: 91593
-    engagement: 22
-    commentsToLikes: 0.004373
-    id: ckaoxo5fbe2zo0i78k2bbhp7g
+    followers: 125119
+    engagement: 433
+    commentsToLikes: 0.013595
+    id: cl9ofgvigkxuu0i23ivq5f90g
     verified: false
-    hashtags: "#instafashion, #styleinspo, #photography, #instagood"
-  - username: "mmjhottie"
+    hashtags: "#coolstuff, #reelcreator, #madewithiphone, #newtrend"
+  - username: "mat.witness"
     fullname: >-
-      • 𝐌𝐌𝐉
+      Mat Witness 🎥
     bio: >-
-      Paris ♡ mode, fitness, beauty 💌 : mmjhottie@gmail.com
+      🎥 | Expert en contenus digitaux 🎞| Ref : @lorealparis @fitnessparkofficiel @jeanlouisdavidfr @boss @ferrerorocherfr ✉️ | Un projet ? ⬇️
     location: "France"
-    followers: 300793
-    engagement: 2
-    commentsToLikes: 0.855556
-    id: ck6tsogr05x3d0j71z20w0bbj
+    followers: 32747
+    engagement: 568
+    commentsToLikes: 0.154683
+    id: ck0w5owu74q2n0i19eo6f8j8l
     verified: false
-    hashtags: "#concours, #giveaway"
-  - username: "claire.frnz"
+    hashtags: "#realisateurfrancais, #coaching, #lookbook, #filmmaker"
+  - username: "saschafitness"
     fullname: >-
-      𝐂𝐥𝐚𝐢𝐫𝐞 Positive
+      Sascha Barboza
     bio: >-
-      ♡ fashion ♡ fitness ♡ frenchie ♡ Déco ♡ Cat: Yumi & Luna ♡ Love: R 〰️ Collaboration Contact Email 📧 Lille 🕊
+      Fitness-Nutrition Coach CEO- Sascha Fitness Corp Book author Mamá I don’t do paid sponsorships @saschafitnessmarket 🛒⬇️Shop
     location: "France"
-    followers: 23004
-    engagement: 1305
-    commentsToLikes: 0.110613
-    id: ckap7dqgkjmk70i786v5wa5vv
-    verified: false
-    hashtags: "#summer, #longhair, #hair, #fashion"
-  - username: "alexandra_maia19"
+    followers: 5715742
+    engagement: 466
+    commentsToLikes: 0.007142
+    id: ck13c63ygyssj0i19zjq0l5d2
+    verified: true
+    hashtags: "#ootd, #wimbledon, #libertadparavenezuela, #turksandcaicos"
+  - username: "marrys_me"
     fullname: >-
-      Alexandra Maia 🇫🇷
+      𝓜𝓐𝓡𝓡𝓨
     bio: >-
-      ❤Boxing 🥊Boxe Anglaise🐝 💘Savate Boxe française👊 🧚‍♀️💃 Pôle dance 💪Fitness🏋️‍♀️ Educateur sportif SBF🥊 Prépa éducateur SF🌞 💑
+      H̶i̶e̶r̶ AUJOURD'HUI D̶e̶m̶a̶i̶n̶ — 𝗥𝗲𝘀𝗽𝗲𝗰𝘁 𝗗𝗲́𝘁𝗲𝗿𝗺𝗶𝗻𝗮𝘁𝗶𝗼𝗻 𝗘́𝗾𝘂𝗶𝗹𝗶𝗯𝗿𝗲 — MOTHER🤱🏻 LIFESTYLE 🫧 FITNESS🏋🏻‍♀️ — Collab : marrys_me@hotmail.com 📍Sud #girl
     location: "France"
-    followers: 10017
-    engagement: 1617
-    commentsToLikes: 0.072691
-    id: ck8t3yj7z4yew0j78vxrsns3q
+    followers: 28972
+    engagement: 424
+    commentsToLikes: 0.198204
+    id: clexewn5wkqv20j08vro6nj6k
     verified: false
-    hashtags: "#boxe, #smiles, #motivation, #fitfrenchies"
-  - username: "laara_o"
+    hashtags: "#girl, #sheingals, #takecare, #shein"
+  - username: "katia_fit_mum"
     fullname: >-
-      L A R A
+      Kat Fitmum
     bio: >-
-      Fashion, Fitness & Authenticity IDE⚕️ 🐚 Biarritz Collab: lara@agencejb.fr
+      Mum of 3 🩵 Inaya Louka & Soah Fitness & travel ✈️ 📍Ma vie entre Nantes 🇫🇷 et la Guadeloupe 🇬🇵 ✏️Fondatrice @k.li_crea 📨 Katia@thepalm-agency.com
     location: "France"
-    followers: 103459
-    engagement: 411
-    commentsToLikes: 0.091903
-    id: ck14lbycwtw3l0i190f6uxxag
+    followers: 27512
+    engagement: 489
+    commentsToLikes: 0.057061
+    id: ck0txnx0wjtgj0i19rs4acz8k
     verified: false
-    hashtags: "#lookoftheday, #insta, #beauty, #style"
-  - username: "tattooedgingerlad"
-    fullname: >-
-      james hinchliffe
-    bio: >-
-      East Mids lad, #bisexual, Travel, fitness & whole lot of ginger 🦊 Run my own business,model sometimes Website below 😉😋🦊
-    location: "France"
-    followers: 63505
-    engagement: 657
-    commentsToLikes: 0.039975
-    id: ck5bzk4sqrb1f0i11xbk3j6lt
-    verified: false
-    hashtags: ""
-  - username: "sandra.beeston"
-    fullname: >-
-      Sandra Beeston 🖤
-    bio: >-
-      🎖 Certified Pole Fitness Instructor from 🇩🇪 📍 Gold Coast, Australia 📩 Dm for Private Pole Lessons 🎥 YouTube: Sandra Beeston
-    location: "France"
-    followers: 13770
-    engagement: 821
-    commentsToLikes: 0.083131
-    id: ck0w3qdvyuqev0i19nlryj2sw
-    verified: false
-    hashtags: "#poleart, #polelove, #stickyleggings, #poledance"
-  - username: "odrey_brook"
-    fullname: >-
-      🌸👑 Odrey Brook® ⚜🌸
-    bio: >-
-      🎤 Host TV - Model 👑 ℳiSs Paris 2017 🏆Casting Director TOP MODEL EUROPE 💫 Inℱluenceuse ⌛ Projet 👉🏼 ℳp #immo #Fitness #Miss #Travel #influencer #model
-    location: "France"
-    followers: 34983
-    engagement: 490
-    commentsToLikes: 0.150821
-    id: ck6tvaefxl39t0j71x5c009wf
-    verified: false
-    hashtags: "#soleil, #longhair, #odreybrook, #style"
+    hashtags: "#fitmom, #teamshape, #fitmaman, #amour"
 ---

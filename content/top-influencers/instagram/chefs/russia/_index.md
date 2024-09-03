@@ -1,12 +1,24 @@
 ---
-title: Top 10 Chefs Instagram Influencers In Russia In 2023
+title: Top 10 Chefs Instagram Influencers In Russia In 2024
 description: >-
-  Find top chefs Instagram influencers in Russia in 2023. Most popular hashtags: #recipes #liketime #baking.
+  Find top chefs Instagram influencers in Russia in 2024. Most popular hashtags: #food #nicolaslambert #fsdubai.
 platform: Instagram
 hits: 141
-text_top: Identify the top-rated Instagram influencers on inBeat.
-text_bottom: Our search engine has 141 Instagram influencers like this in Russia for you to connect with.
+text_top: See the top-rated Instagram accounts on inBeat.
+text_bottom: Our search engine aggregates 141 Instagram influencers like this in Russia for you to connect with.
 profiles:
+  - username: "nicolas_lambert"
+    fullname: >-
+      NICOLAS LAMBERT
+    bio: >-
+      📍@fsdubai & @fsdubaidifc 🏆 Pastry Chef of The Year by @gaultmillauuae 🌏 Asia’s Best Pastry Chef by @theworlds50best
+    location: "Russia"
+    followers: 309313
+    engagement: 138
+    commentsToLikes: 0.038029
+    id: ck0w6ln5z960m0i19qcpe3bfq
+    verified: true
+    hashtags: "#fsdubai, #nicolaslambert, #chef, #fourseasons"
   - username: "tatiana_glonza"
     fullname: >-
       БЬЮТИ БОСС
@@ -103,18 +115,6 @@ profiles:
     id: ck6udz1ikny270j71uzj0mikx
     verified: false
     hashtags: "#gritskevich"
-  - username: "pava_vb"
-    fullname: >-
-      Вадим Бжезинский Пава(Pava)
-    bio: >-
-      •Победитель @masterchefstb •Ambassador @pepsiukraine •Food blogger-2020’21 •сотрудничество(098)125 86 21 Инесса •TikTok 100k •Brand Chef @catdog_kh
-    location: "Russia"
-    followers: 282024
-    engagement: 255
-    commentsToLikes: 0.071948
-    id: ckap85cc5mw6s0i78zqlgq1mb
-    verified: true
-    hashtags: "#pava, #likeforfollow, #liketime, #pavachef"
   - username: "mild_n"
     fullname: >-
       Татьяна Назарук

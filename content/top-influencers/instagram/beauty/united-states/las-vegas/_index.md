@@ -1,12 +1,24 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Las Vegas In 2023
+title: Top 10 Beauty Instagram Influencers In Las Vegas In 2024
 description: >-
-  Find top beauty Instagram influencers in Las Vegas in 2023. Most popular hashtags: #lasvegas #vegas #love.
+  Find top beauty Instagram influencers in Las Vegas in 2024. Most popular hashtags: #beauty #lasvegas #vegas.
 platform: Instagram
-hits: 219
-text_top: Discover the most popular Instagram influencers on inBeat.
-text_bottom: Our database holds 219 Instagram influencers like this in Las Vegas, United States for you to work with.
+hits: 277
+text_top: Identify the most popular Instagram profiles on inBeat.
+text_bottom: Our platform aggregates 277 Instagram influencers like this in Las Vegas, United States for you to connect with.
 profiles:
+  - username: "jennissemakeup"
+    fullname: >-
+      Jennisse 🧿
+    bio: >-
+      🖤 YouTube Partner 🖤 Celebrity Nail Artist 🖤 Microblading Artist 🖤 Business Owner & Entrepreneur
+    location: "United States"
+    followers: 29781
+    engagement: 165
+    commentsToLikes: 0.043492
+    id: ck136pfmq7m5g0i19p1lvcsfw
+    verified: false
+    hashtags: "#happy, #fashion, #vegas, #lashes"
   - username: "elastic.lila"
     fullname: >-
       Lila Woodard
@@ -21,16 +33,40 @@ profiles:
     hashtags: "#contortionist, #amazingkids, #talentedkids, #archery"
   - username: "brittballs"
     fullname: >-
-      Brittney Britania
+      Brittney Britania 🧸
     bio: >-
-      she/her | beauty + lifestyle las vegas
+      beauty + lifestyle Las Vegas 🥂 y mexicana
     location: "United States"
-    followers: 19991
-    engagement: 965
-    commentsToLikes: 0.011637
+    followers: 18938
+    engagement: 606
+    commentsToLikes: 0.008374
     id: ck9wg34xqropw0j78h8fvmr4d
     verified: false
-    hashtags: "#revolveme"
+    hashtags: "#ad, #theadventurechallenge"
+  - username: "trishanicoleee_"
+    fullname: >-
+      Trisha Nicole
+    bio: >-
+      📍Las Vegas 🩺 Nurse in-the-making 🇵🇭 @pinaymagazine 👑 @bp_royalmedspa 💌 DM for bizz/bookings/collab 🧿 only account
+    location: "United States"
+    followers: 37466
+    engagement: 732
+    commentsToLikes: 0.054692
+    id: ckppr5txo63lw0j236smonub2
+    verified: false
+    hashtags: "#influencer, #modelsearch, #pinay, #explore"
+  - username: "jo2therubio"
+    fullname: >-
+      Johanna Rubio-Rubio
+    bio: >-
+      Lifestyle•Beauty•Fashion 📍Las Vegas • Jalisco 💌jo2therubio@gmail.com Have Courage & Be Kind ♐️
+    location: "United States"
+    followers: 10661
+    engagement: 97
+    commentsToLikes: 0.222426
+    id: cks11wp7h3wfl0j23q8c3qopw
+    verified: false
+    hashtags: "#beauty, #reelitfeelit, #makeup, #vegasinfluencer"
   - username: "loverileyrose"
     fullname: >-
       Riley Rose🌹♉️
@@ -54,7 +90,7 @@ profiles:
     commentsToLikes: 0.057766
     id: ck0twhpc6ffic0i198bl6rih8
     verified: false
-    hashtags: "#colorfulmakeup, #cutcrease, #benefitclubpink, #underratedmuas"
+    hashtags: "#colorfulmakeup, #cutcrease, #graphicliner, #blazin"
   - username: "rissrose2"
     fullname: >-
       R I S S
@@ -67,64 +103,28 @@ profiles:
     id: ck6u3xjbs0gjr0j718ar1vmfm
     verified: false
     hashtags: "#girlmom, #lasvegasblogger, #newborn, #newbornclothes"
-  - username: "skincarestandard"
+  - username: "carlascala_r6"
     fullname: >-
-      Rachael
+      👑🖤ADRENALINE QUEEN❤️👑
     bio: >-
-      🇺🇸🇨🇳 skincare + beauty enthusiast in las vegas ✨ inquiries: rachaelfuss@a3artistsagency.com blog, routine, discounts 👇🏻
+      🏎️C8 3LT Z51 🏍R6 Headturners🔥 ✈️🏂🏄🏻‍♂️🪂🏍️ 🦂🔥𝑆𝑜𝑚𝑒 𝑤𝑜𝑚𝑎𝑛 𝑎𝑟𝑒 𝐿𝑜𝑠𝑡 𝑜𝑛 𝐹𝑖𝑟𝑒,𝐼 𝑤𝑎𝑠 𝑏𝑢𝑖𝑙𝑡 𝑓𝑟𝑜𝑚 𝑖𝑡🔥🦂 www.motoridersuniverse.com/app
     location: "United States"
-    followers: 36907
-    engagement: 210
-    commentsToLikes: 0.146909
-    id: ck0vv9cc8o4gw0i19mly65dj9
+    followers: 289062
+    engagement: 133
+    commentsToLikes: 0.041452
+    id: ck6tnco0f9kzm0j717u1w1e5m
     verified: false
-    hashtags: "#bobbibrown, #revolvesummer, #siopartner, #siobeauty"
-  - username: "jennissemakeup"
+    hashtags: "#lifestyle, #paradise, #bikelife, #livelife"
+  - username: "deluxeversionmagazine"
     fullname: >-
-      Jennisse 🧿
+      Deluxe Version Magazine®️
     bio: >-
-      🖤 YouTube Partner 🖤 Celebrity Nail Artist 🖤 Microblading Artist 🖤 Business Owner & Entrepreneur
+      Discover The Best Version Of You. Celebrating A Decade Of Luxury Lifestyle! Now Reading: Issue 25✨
     location: "United States"
-    followers: 29781
-    engagement: 165
-    commentsToLikes: 0.043492
-    id: ck136pfmq7m5g0i19p1lvcsfw
+    followers: 116921
+    engagement: 50
+    commentsToLikes: 0.007075
+    id: ck0vv554onlcy0i197dl8g0bf
     verified: false
-    hashtags: "#sculptednails, #jewelry, #family, #love"
-  - username: "mermaidinheels"
-    fullname: >-
-      Cielo Fronteras
-    bio: >-
-      SHOP SHEIN SALE Now & use my code Q3mermaidin get discounts on your purchase! ⬇️ http://shein.top/10paiue5
-    location: "United States"
-    followers: 85723
-    engagement: 216
-    commentsToLikes: 0.021556
-    id: ck13c1hwxy5uf0i19co3fbycs
-    verified: false
-    hashtags: "#jadore, #sheingals, #lasvegasfoodie, #sponsored"
-  - username: "sierratresslerxo"
-    fullname: >-
-      Sierra Tressler 🖤
-    bio: >-
-      LV📍ATX Caddy @platinumtees ⛳️💗 Venmo @ Sierra-Tressler Coach @jourdanne__ Team @fitbodyfusion This is my ONLY account.
-    location: "United States"
-    followers: 19868
-    engagement: 630
-    commentsToLikes: 0.032935
-    id: ck5qe3u8xykza0i117x8k5mob
-    verified: false
-    hashtags: "#balihaigolfclub, #love, #golfer, #golfgram"
-  - username: "elenasamodanova"
-    fullname: >-
-      ElenaSamodanova
-    bio: >-
-      @prodancela Dance Studio owner💃🏼 @danceonfox 🇺🇸Choreographer #DWTS 🇷🇺 Judge Bookings: elena.samodanova@yahoo.com
-    location: "United States"
-    followers: 29364
-    engagement: 175
-    commentsToLikes: 0.045000
-    id: ck134ei0ow21b0i19g26g28re
-    verified: false
-    hashtags: "#fup, #family, #fyp, #prodancela"
+    hashtags: "#vegas, #miami, #skincare, #beauty"
 ---

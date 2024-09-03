@@ -1,12 +1,24 @@
 ---
-title: Top 10 Lifestyle TikTok Influencers In Las Vegas In 2023
+title: Top 10 Lifestyle TikTok Influencers In Las Vegas In 2024
 description: >-
-  Find top lifestyle TikTok influencers in Las Vegas in 2023. Most popular hashtags: #lasvegas #lifestyle #fyp #foryoupage.
+  Find top lifestyle TikTok influencers in Las Vegas in 2024. Most popular hashtags: #lasvegas #lifestyle #fyp #foryoupage.
 platform: TikTok
-hits: 19
-text_top: See the most popular TikTok profiles on inBeat.
-text_bottom: Our search engine holds 19 TikTok influencers like this in Las Vegas, United States for you to work with.
+hits: 20
+text_top: Identify the most popular TikTok influencers on inBeat.
+text_bottom: Our database holds 20 TikTok influencers like this in Las Vegas, United States for you to work with.
 profiles:
+  - username: "artshestakov"
+    fullname: >-
+      Artem Shestakov
+    bio: >-
+      Fine Art Photographer & Artist
+    location: "United States"
+    followers: 39200
+    engagement: 881
+    commentsToLikes: 0.035883
+    id: ckb9mqml9g69y0j23ub1kozd3
+    verified: true
+    hashtags: "#sportcar, #supercar, #car, #ferrari"
   - username: "lahoriadeep90"
     fullname: >-
       LahoriaDeep🇺🇸
@@ -42,7 +54,7 @@ profiles:
     commentsToLikes: 0.077486
     id: ckcpd8p1mfwz40j233wdcyqu9
     verified: false
-    hashtags: "#sandiegorestaurant, #sandiegoadventures, #sandiegoblogger, #easyrecipes"
+    hashtags: "#sandiegoadventures, #sandiegoblogger, #foodie, #lasvegas"
   - username: "risaarenee"
     fullname: >-
       Risaarenee
@@ -54,7 +66,7 @@ profiles:
     commentsToLikes: 0.063163
     id: ck8qebcsrrvz80j78day3arjt
     verified: false
-    hashtags: "#compositeimage, #hotornot, #hotornotchallenge, #misguidedhaul"
+    hashtags: "#hotornotchallenge, #hotornot, #compositeimage, #fureverbestfriend"
   - username: "lftdxlvld"
     fullname: >-
       lftdxlvld
@@ -78,7 +90,7 @@ profiles:
     commentsToLikes: 0.066255
     id: ck9gtbsham1kk0j78qg3ip3ef
     verified: false
-    hashtags: "#dessert, #sweet, #valentinesdiy, #tiktokfood"
+    hashtags: "#pizza, #foodie, #foodontiktok, #cheese"
   - username: "nikita_teterev"
     fullname: >-
       Nikita
@@ -115,16 +127,4 @@ profiles:
     id: ck7zozd1lmndc0j78az68aded
     verified: false
     hashtags: "#training, #cirquedusoleil, #parkourlife, #parkour"
-  - username: "evgeniykalachev"
-    fullname: >-
-      EvgeniyKalachev
-    bio: >-
-      Worked at Cirque du Soleil🎪 Artist@ Le Reve-The Dream Acrobat 19 years
-    location: "United States"
-    followers: 10400
-    engagement: 1220
-    commentsToLikes: 0.012297
-    id: ckc82wlon3ks50j23cvnlbpes
-    verified: false
-    hashtags: "#featurethis, #fun, #baby, #fyp"
 ---

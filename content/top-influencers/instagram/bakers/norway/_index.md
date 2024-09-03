@@ -1,11 +1,11 @@
 ---
-title: Top 10 Bakers Instagram Influencers In Norway In 2023
+title: Top 10 Bakers Instagram Influencers In Norway In 2024
 description: >-
-  Find top bakers Instagram influencers in Norway in 2023. Most popular hashtags: #julepynt #julestemning #ukebladethjemmet #kj.
+  Find top bakers Instagram influencers in Norway in 2024. Most popular hashtags: #julepynt #ukebladethjemmet #julestemning #norskukeblad.
 platform: Instagram
-hits: 31
-text_top: See the most popular Instagram profiles on inBeat.
-text_bottom: Our search engine has 31 Instagram influencers like this in Norway for you to work with.
+hits: 32
+text_top: Discover the most popular Instagram accounts on inBeat.
+text_bottom: Our database aggregates 32 Instagram influencers like this in Norway for you to pitch.
 profiles:
   - username: "fr.besic"
     fullname: >-
@@ -97,12 +97,12 @@ profiles:
     bio: >-
       🌍 6 months on the road 📍 Currently: Switzerland 👍 📝 #findingneverland 📽 YouTube: Lennart Andreas 🇨🇭 Based in Switzerland 💟 @maias_travels
     location: "Norway"
-    followers: 22509
-    engagement: 578
-    commentsToLikes: 0.019785
+    followers: 23884
+    engagement: 520
+    commentsToLikes: 0.019256
     id: ck5chuvoyrifu0i11kvi9l9cp
     verified: false
-    hashtags: "#motorrad, #advbike, #africa, #grateful"
+    hashtags: "#goprooftheday, #triumphofficial, #fortheride, #earthpix"
   - username: "heidisboble"
     fullname: >-
       Heidis Boble
@@ -115,16 +115,16 @@ profiles:
     id: ckf5lnp9fq7re0j23z1uuj0eb
     verified: false
     hashtags: "#hjemmelaget, #gr, #ukebladethjemmet, #instacakes"
-  - username: "skogmesterboligen"
+  - username: "oyehaug"
     fullname: >-
-      Elisabeth Jensen 🇳🇴 Norway
+      Jørgen Øyehaug
     bio: >-
-      Landlig livsstils glede🏡 ✳️ Reportasje/bilder Lev Landlig, Hjemmet, Norske hjem og God Morgen Norge ✳️ Ambassadør @jettestuen.no https://jettestuen.no
+      - From the the Sunnmøre Alps. - Sharing travel tips and epic activities. - 1.5M followers in total.
     location: "Norway"
-    followers: 29690
-    engagement: 1005
-    commentsToLikes: 0.028205
-    id: ck8t4mrke7c3g0j78bmj9mq7q
+    followers: 213722
+    engagement: 794
+    commentsToLikes: 0.054113
+    id: ck0u19fe2w5tp0i19gffinpup
     verified: false
-    hashtags: "#cottagekitchen, #sm, #landhausdeko, #landliv"
+    hashtags: "#geiranger, #norway, #lofoten, #norge"
 ---

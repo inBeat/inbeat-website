@@ -1,130 +1,130 @@
 ---
-title: Top 10 Athletes Instagram Influencers In Switzerland In 2023
+title: Top 10 Athletes Instagram Influencers In Switzerland In 2024
 description: >-
-  Find top athletes Instagram influencers in Switzerland in 2023. Most popular hashtags: #switzerland #workout #fitness #motivation.
+  Find top athletes Instagram influencers in Switzerland in 2024. Most popular hashtags: #training #motivation #athlete #workout.
 platform: Instagram
-hits: 44
-text_top: See the most popular Instagram profiles on inBeat.
-text_bottom: inBeat holds 44 Instagram influencers like this in Switzerland for you to work with.
+hits: 58
+text_top: Discover the top-rated Instagram influencers on inBeat.
+text_bottom: Our database holds 58 Instagram influencers like this in Switzerland for you to pitch.
 profiles:
-  - username: "lisamarilynh"
+  - username: "thesportyblonde"
     fullname: >-
-      LISA
+      Camille Chenaux
     bio: >-
-      👱🏽‍♀️ Swiss girl 🎓 Student 💪🏽 Certified Trainer 🍑 TFIF-Athlete @shapesbysteffy | Discount code : MARILYN10 ｆｉｎｄ ｙｏｕｒ ｆｉｒｅ⚡️
+      🇨🇭🥉🥈🥈 Swiss ATHLETE ⬇️ 💻 ⭐️ PhD Agency @joydisrl
     location: "Switzerland"
-    followers: 7765
-    engagement: 1474
-    commentsToLikes: 0.081058
-    id: ckapbsp9h17a20i78knwkytik
+    followers: 100216
+    engagement: 591
+    commentsToLikes: 0.028635
+    id: ck0u2nivr0hib0i19j9b8py17
     verified: false
-    hashtags: "#fitnessjourney, #fitnesslifestyle, #benakd, #summervibes"
-  - username: "ajletta"
-    fullname: >-
-      Ajla Del Ponte
-    bio: >-
-      🏃🏼‍♀️ Tokyo 2020 Olympic finalist 🥇European Indoor Champion 60m 🇨🇭 100m and 4x100m national record holder ✨ @puma athlete
-    location: "Switzerland"
-    followers: 50709
-    engagement: 1862
-    commentsToLikes: 0.013584
-    id: ck6tu0dp3dlc70j71nxamwmbp
-    verified: false
-    hashtags: "#onlyseegreat, #strongertogether"
-  - username: "julian_pagel_gsw"
-    fullname: >-
-      Julian Pagel
-    bio: >-
-      📍Switzerland • @GORNATION Pro Athlete • Team @genesis_streetworkout • Swiss National Calisthenics Champion
-    location: "Switzerland"
-    followers: 9040
-    engagement: 1020
-    commentsToLikes: 0.036364
-    id: ck5zq94lbu62w0i144159kd5h
-    verified: false
-    hashtags: "#frontlever, #mundocaliste, #barzsoul, #barzquad"
-  - username: "marie__sw"
-    fullname: >-
-      Marie Pons🌚
-    bio: >-
-      21🌚Frenchgirl🇫🇷 🇨🇭LSN Street Workout🔥Calisthenics ☕️Coffee☕️ @gornation ATHLETE ❤️ MARIE10 🛍 Check this out ⤵️
-    location: "Switzerland"
-    followers: 4983
-    engagement: 1518
-    commentsToLikes: 0.036176
-    id: ck55lgh8q1ic70i11kzf61k4z
-    verified: false
-    hashtags: "#pullups, #sw, #skate, #stayhome"
-  - username: "paulianef"
-    fullname: >-
-      BIKINI IFBB & Coach
-    bio: >-
-      🥈 NPC Europe x3 🥇IFBB Bikini Swiss Champ Snap Pauliane_r @coaching_by_paulianef 🇨🇭 YTB : paulianef @xplodef Athlete @myproteinfr -38% PAULIANE
-    location: "Switzerland"
-    followers: 376736
-    engagement: 368
-    commentsToLikes: 0.007056
-    id: ck0vxecpsyhdz0i19gme5yccf
-    verified: false
-    hashtags: "#bikini, #bodybuilding, #switzerland, #lifestyle"
-  - username: "nicolas_arnoux"
-    fullname: >-
-      Nicolas Arnoux
-    bio: >-
-      📍 Geneva🇨🇭 🏋🏽‍♂️ FITNESS & LIFESTYLE | MOTIVATION ➖ Ambassador @noccoswitzerland ➖ Athlete @tlfapparel & @prozis TLF Discount code: TLF-NICOLAS ⬇️
-    location: "Switzerland"
-    followers: 16324
-    engagement: 309
-    commentsToLikes: 0.095410
-    id: ck0w55vmp21hb0i19allpfrn1
-    verified: false
-    hashtags: "#takelifefurther, #noccoswitzerland, #crossfit, #winter"
-  - username: "gmfit"
-    fullname: >-
-      Gabriel Moreno
-    bio: >-
-      💪🏼Online Coach |🇨🇭 & 🇪🇸 |📍Bern 🦈 @gymshark Athlete ✖️ @hd.muscle (-10% Code: GMFIT) ✖️ @noccoswitzerland 👇🏼Subscribe to my Youtube!
-    location: "Switzerland"
-    followers: 76212
-    engagement: 351
-    commentsToLikes: 0.028601
-    id: ck5hjxr5ahfo00i110s8yglm9
-    verified: false
-    hashtags: ""
+    hashtags: "#fitfam, #nevergiveup, #hardwork, #motivation"
   - username: "kariemhussein"
     fullname: >-
       Kariem Hussein
     bio: >-
-      🇨🇭 Track & Field Athlete  |  Doctor  |  Ambassador Watch my personal statement ⬇️
+      🇨🇭 Athlete  🩺 Doctor  🤳 Ambassador Fakten und Geschichten zum "Kariem" ⤵️
     location: "Switzerland"
-    followers: 17986
-    engagement: 508
-    commentsToLikes: 0.019232
+    followers: 16092
+    engagement: 446
+    commentsToLikes: 0.019660
     id: ck5zoaosiq4u40i149y1oqs1s
     verified: false
-    hashtags: "#work, #performance, #trackandfield, #believe"
-  - username: "carmenbieri_"
+    hashtags: "#motivation, #hurdles, #trackandfield, #workout"
+  - username: "berndwinklermtb"
     fullname: >-
-      Carmen Ramona Bieri 🇨🇭
+      Bernd Winkler
     bio: >-
-      𝐅𝐈𝐓𝐍𝐄𝐒𝐒 • 𝐂𝐎𝐀𝐂𝐇𝐈𝐍𝐆 • 𝐌𝐎𝐓𝐈𝐕𝐀𝐓𝐈𝐎𝐍 @bombshellsportswear Athlete 💕 @bootybuilder.official Athlete 💕
+      Passionate MTB Athlete 🔥
     location: "Switzerland"
-    followers: 300245
-    engagement: 259
-    commentsToLikes: 0.016592
-    id: ck0udjv4yj9mg0i19hequ05l1
+    followers: 16570
+    engagement: 1191
+    commentsToLikes: 0.019849
+    id: ck0w3dmo5sv310i19bcpdpqmi
     verified: false
-    hashtags: "#fitgirls, #bombshellsportswear, #fitness, #mallorca"
-  - username: "kuba_stvrtecky"
+    hashtags: "#mtb, #rosebikes, #abus100, #freeride"
+  - username: "alberto_maffei"
     fullname: >-
-      Jakub Štvrtecký
+      ALBERTO MAFFEI
     bio: >-
-      • 22y.o. 🇨🇿 • Biathlete| member of Czech biathlon team • @fischernordic athlete🎿
+      Athlete of the @aeronautica.militare @burtonsnowboards @cofidisitalia @oakleysnowboarding @campigliodolomiti @thegardensnowboardcamp @newbalance
     location: "Switzerland"
-    followers: 11803
-    engagement: 2989
-    commentsToLikes: 0.007095
-    id: ck6uburqobtmc0j71smny50hl
+    followers: 34712
+    engagement: 460
+    commentsToLikes: 0.007942
+    id: ck5bz31v8qcih0i11r8tuz8jt
     verified: false
-    hashtags: "#sprint, #czechbiathlon, #czechbiathlonteam, #tribunaba"
+    hashtags: "#snowboarding, #snowboardingmakesmehappy, #weridetogether, #snowbaordingmakesmehappy"
+  - username: "fannysmith"
+    fullname: >-
+      Fanny Smith
+    bio: >-
+      Pro Skicross athlete 🇨🇭🎿 Olympic Medalist 🥉🥉 World Champion 🥇🥈🥈🥈🥉🥉 World Cup 31x🥇 25x🥈 13x🥉 3x WorldCup overall 🏆
+    location: "Switzerland"
+    followers: 63072
+    engagement: 444
+    commentsToLikes: 0.013085
+    id: ck55pjrrrapki0i11cldr2meu
+    verified: false
+    hashtags: "#redbullathlete, #worldcup, #fannysmith, #volcano"
+  - username: "angelica_moser_"
+    fullname: >-
+      Angelica Moser
+    bio: >-
+      •Swiss Pole Vaulter 🇨🇭| 4.75m •2-time Olympian •@puma athlete 🐾
+    location: "Switzerland"
+    followers: 115461
+    engagement: 429
+    commentsToLikes: 0.014389
+    id: clp0kew7285f40j08ysamemwf
+    verified: false
+    hashtags: "#vacation, #swissathletics, #worlduniversitygames, #training"
+  - username: "francois_montuori"
+    fullname: >-
+      François Montuori
+    bio: >-
+      Paragliding pilot & Mountain Athlete ⛰️ 🙏🏻 @haglofs @hdry_official @snowleader74 @hagan_ski @atkbindings
+    location: "Switzerland"
+    followers: 29364
+    engagement: 266
+    commentsToLikes: 0.017784
+    id: ck0vy1jo51s9v0i19s4l5m1sm
+    verified: false
+    hashtags: "#hautesavoie, #montblanc, #chamonix, #campcassin"
+  - username: "jannisreichmuth"
+    fullname: >-
+      Jannis Reichmuth
+    bio: >-
+      content creator | athlete work @asapcreative.ch building @saltysportsclub ———
+    location: "Switzerland"
+    followers: 153181
+    engagement: 210
+    commentsToLikes: 0.018627
+    id: clleouy6dtms80j08a52k9yk8
+    verified: false
+    hashtags: "#selfimprovement, #fitness, #running, #selfdevelopment"
+  - username: "leo.moves"
+    fullname: >-
+      Leandro Fornito (LeoMoves)
+    bio: >-
+      🇨🇭Athlete and movement coach 💪🏼 My students reach the best version of their body! ⬇️ MY TRAINING APP (7 day free trial included)⬇️
+    location: "Switzerland"
+    followers: 1397171
+    engagement: 141
+    commentsToLikes: 0.017532
+    id: ck6tyyjzr6lla0j71pset3l6w
+    verified: false
+    hashtags: "#leomoves, #functionaltraining, #bodyawareness, #gymnastics"
+  - username: "7charyl"
+    fullname: >-
+      Charyl Chappuis
+    bio: >-
+      FOOTBALLER⚽️ @chiangmai_fc 🐯💙 @tagency.ch NIKE ATHLETE @nikefootball LIVE A LIFE WORTH LIVING @yeswetrust @capitalperformance.online
+    location: "Switzerland"
+    followers: 1368465
+    engagement: 99
+    commentsToLikes: 0.003234
+    id: ck5qbdnqol32r0i11xbfiyic6
+    verified: true
+    hashtags: "#hb27, #hakunamatata, #liveyourbestlife, #craycray"
 ---

@@ -1,24 +1,12 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In New Delhi In 2023
+title: Top 10 Nutrition Instagram Influencers In New Delhi In 2024
 description: >-
-  Find top nutrition Instagram influencers in New Delhi in 2023. Most popular hashtags: #fitness #instagram #bodybuilding #workout.
+  Find top nutrition Instagram influencers in New Delhi in 2024. Most popular hashtags: #instagram #love #reels #healthylifestyle.
 platform: Instagram
-hits: 7
-text_top: Analyze the most popular Instagram influencers on inBeat.
-text_bottom: Our database aggregates 7 Instagram influencers like this in New Delhi, India for you to connect with.
+hits: 8
+text_top: Identify the most popular Instagram influencers on inBeat.
+text_bottom: Our platform holds 8 Instagram influencers like this in New Delhi, India for you to work with.
 profiles:
-  - username: "palkakhurana"
-    fullname: >-
-      Palka Khurana
-    bio: >-
-      Fashion l Fitness | Traveller | Lifestyle *Mom of 2 Boys* DM/Email for Collabs
-    location: "India"
-    followers: 26467
-    engagement: 217
-    commentsToLikes: 0.095806
-    id: ckap6vk93hixs0i787foe2jbp
-    verified: false
-    hashtags: "#fitnessmotivation, #milohomeground, #fitnesslover, #healthinsideout"
   - username: "ashwaryabhutani"
     fullname: >-
       Aishwarya Bhutani
@@ -43,30 +31,42 @@ profiles:
     id: ck5cbpdjafwwl0i11xafrwr8z
     verified: false
     hashtags: "#yummy, #yummyinmytummy, #instadessert, #foodbloggers"
-  - username: "thakur_jyotii"
+  - username: "food_and_them_"
     fullname: >-
-      JYOTI | ONLINE FITNESS COACH
+      🍔ODISHA FOOD BLOGGERS 🥩
     bio: >-
-      👩🏼‍💻DIET| WORKOUT PLAN| NUTRITION 🌟CHANGING LIVES THROUGH FITNESS. 📧EMAIL/DM FOR ONLINE COACHING. 👩🏻‍💼TEAM ON @optimumnutri_in
+      📍Bhubaneswar||Cuttack‼️ DM For Paid Collabs/Review 🤘 Dentist By Profession,Foodie By Heart❤️ Doc Duo!! Find us Near SUM Hospital Bhubaneswar ✨✨
     location: "India"
-    followers: 105960
-    engagement: 107
-    commentsToLikes: 0.025804
-    id: ck0u69bwh1cpt0i194tcnhlam
+    followers: 17984
+    engagement: 1892
+    commentsToLikes: 0.019399
+    id: ck6ugiwdc3ade0j71p3txx8gm
     verified: false
-    hashtags: "#hiit, #reels, #explore, #homeworkout"
-  - username: "food_mandi"
+    hashtags: "#food, #instafood, #foodporn, #odiafood"
+  - username: "manojpatil_ifbbpro_official"
     fullname: >-
-      Food Mandi🥘🍜🍔
+      IFBB PRO🌐MANOJ D PATIL🇮🇳
     bio: >-
-      Delhi | NCR 🇮🇳 Food | Travel |Product Reviews | Daily Mouthwatering posts🤤 DM for Collab | Invites |Promation| Reviews🤝📩 Admin - @rajput_bhanu1110
+      🕉 सामान्य भारतीय 🇮🇳 TURNING SWEAT INTO GOLD MEDALS 🥇 🏆 🔱Jo Bhi Hai Sab Unka Hai😇👆🏻 Event & collab:7400373414
     location: "India"
-    followers: 4405
-    engagement: 843
-    commentsToLikes: 0.147696
-    id: ck8ta3p70qcnx0j783pemzz94
+    followers: 602829
+    engagement: 127
+    commentsToLikes: 0.005559
+    id: ck5zyaobm9j6p0i14eelsa3l9
     verified: false
-    hashtags: "#delhifoodies, #delhistreetfood, #desifoodie, #foodbloger"
+    hashtags: "#ifbbpro, #mrindia, #abs, #poss"
+  - username: "bharti__attri"
+    fullname: >-
+      Bharti Attri
+    bio: >-
+      INDIA🇮🇳 Fashion Model👠Blogger☘️ Influencer🌏Teacher📚 Fashion|Beauty|Travel|Food|Lifestyle💫 DM/ Work Enquires: @bhartiattri.bkk@gmail.com
+    location: "India"
+    followers: 271693
+    engagement: 21
+    commentsToLikes: 0.087285
+    id: ckvas7grq5mfp0j23gb88ilk5
+    verified: false
+    hashtags: "#enjoy, #natural, #reelitfeelit, #shimla"
   - username: "virus_sharma"
     fullname: >-
       🧿 Vikas Sharma - DELHI FOODIE
@@ -79,52 +79,52 @@ profiles:
     id: ck8t2uger0qzv0j78wm98wp0y
     verified: false
     hashtags: "#foodgasm, #gurgaon, #follow4follow, #sweetbox"
-  - username: "the_indianbodybuilding"
+  - username: "capturedbysimranbhatia"
     fullname: >-
-      Indian Bodybuilding
+      Simran Bhatia🍁
     bio: >-
-      Official Instagram page of Indian Bodybuilding Blog (IBB). Follow us for all the latest in Indian Bodybuilding and Fitness @the_indianbodybuilding
+      Sunshine Girl🇨🇦 |Cricket Fan🇮🇳 Unfiltered Avid ✍️ |Good Food| Travel Look for my posts...until I write again Founder @market_preneurs
     location: "India"
-    followers: 120649
-    engagement: 345
-    commentsToLikes: 0.004448
-    id: ck13bgjh9vbfv0i193avrhy05
+    followers: 23080
+    engagement: 39
+    commentsToLikes: 0.032135
+    id: ck8tas4u6subk0j78n6jqgjqv
     verified: false
-    hashtags: "#fitness, #repost, #bodybuilding, #teambasekofitness"
-  - username: "rohitkhatrifitness"
+    hashtags: "#travel, #capturedbysimranbhatia, #entrepreneur, #tb"
+  - username: "palkakhurana"
     fullname: >-
-      Rohit Khatri
+      Palka Khurana
     bio: >-
-      🔹Sports Science Nutritionist 🔹Brands : rohitkhatribiz@gmail.com 🔹Dm For Paid Online Coaching 📝 🔹India’s No. 1 Fitness Channel (YouTube)
+      Fashion l Fitness | Traveller | Lifestyle *Mom of 2 Boys* DM/Email for Collabs
     location: "India"
-    followers: 614738
-    engagement: 467
-    commentsToLikes: 0.004563
-    id: ck8wd6rbxdgf00j78gz3so4nb
+    followers: 26467
+    engagement: 217
+    commentsToLikes: 0.095806
+    id: ckap6vk93hixs0i787foe2jbp
     verified: false
-    hashtags: "#hotcouples, #bicepsworkout, #rohitsoniya, #motivation"
-  - username: "ifbbpro_jkaliwala"
+    hashtags: "#runnersofinstagram, #gurgaonmoms, #milohomeground, #vocalforlocal"
+  - username: "_mr.lift_"
     fullname: >-
-      Junaid Kaliwala
+      BAJIO MJ | _ MR LIFT_ 🧿
     bio: >-
-      🥇First MP IFBBPRO FROM🇮🇳 ❤️HAPPY, HEALTHY, LOVED 📍BUILDING @sourceofsupplements @dopesports.in @alpinohealthfoods @beyond_gummies @bubble_up_nutrition
+      🇮🇳🇦🇪🇴🇲 Fitness athlete 🏅 Reps Level 4 certified trainer 📚 DM for coaching enquiries GYM |ONLINE COACHING FITNESS, NUTRITION, MINDSET Carpediem!
     location: "India"
-    followers: 333970
-    engagement: 247
-    commentsToLikes: 0.010723
-    id: ck5hrf80lurx60i11laqzr2nh
-    verified: true
-    hashtags: "#gentleman, #health, #calmsekaam, #fitfam"
-  - username: "komalchhikara1"
-    fullname: >-
-      Komal Chhikara Rathi
-    bio: >-
-      Here for some fun 🤩 Physiotherapist | Nutritionist | Yoga Professional | Influencer | Fitness Enthusiast Business 📧: komal.enquiry@gmail.com
-    location: "India"
-    followers: 83159
-    engagement: 344
-    commentsToLikes: 0.013813
-    id: ck9hb43p6fbsm0j78er6ip0aq
+    followers: 29193
+    engagement: 788
+    commentsToLikes: 0.045108
+    id: ck5bxozj1o4yt0i11db31niyo
     verified: false
-    hashtags: "#trendingnow, #bollywood, #fashion, #punjab"
+    hashtags: "#workout, #bodybuilding, #instagram, #mrliftthings"
+  - username: "joravar_singh1"
+    fullname: >-
+      JORAVAR SINGH KALSI
+    bio: >-
+      385k Subscribes on YouTube Email AT Joravarkalsi01@gmail.com Athlete @bigmuscles_nutrition MGMT @sparkupreach
+    location: "India"
+    followers: 347136
+    engagement: 1433
+    commentsToLikes: 0.008289
+    id: ck0ud1v95i7ud0i197cz03exe
+    verified: false
+    hashtags: "#trendingreels, #motivation, #joravarsinghkalsi, #fitness"
 ---

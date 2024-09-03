@@ -1,24 +1,24 @@
 ---
-title: Top 10 Rappers TikTok Influencers In Austin In 2023
+title: Top 10 Rappers TikTok Influencers In Austin In 2024
 description: >-
-  Find top rappers TikTok influencers in Austin in 2023. Most popular hashtags: #fyp #viral #foryou #foryoupage.
+  Find top rappers TikTok influencers in Austin in 2024. Most popular hashtags: #fyp #viral #foryou #foryoupage.
 platform: TikTok
-hits: 28
+hits: 27
 text_top: Analyze the best TikTok accounts on inBeat.
-text_bottom: inBeat has 28 TikTok influencers like this in Austin, United States for you to connect with.
+text_bottom: inBeat holds 27 TikTok influencers like this in Austin, United States for you to connect with.
 profiles:
-  - username: "craignofriday"
+  - username: "travislaflamescott"
     fullname: >-
-      nofridayy
+      Travis Scott
     bio: >-
-      Rapper. 🏳️‍🌈 TEXAS 🤠
+      #1 TRAVIS SCOTT FAN PAGE🔥 CACTUS JACK🌵 REAL RAGERS FOLLOW INSTAGRAM
     location: "United States"
-    followers: 4256
-    engagement: 431
-    commentsToLikes: 0.165938
-    id: ckbq6he0kstac0j23sey4wn0h
+    followers: 87200
+    engagement: 1539
+    commentsToLikes: 0.015166
+    id: ck8key9qcbnc90j78zzs617x6
     verified: false
-    hashtags: "#jinglejanglewithme, #greenscreen, #thechallengeallstars, #fyp"
+    hashtags: "#moshpit, #cacti, #fyp, #musicfestival"
   - username: "jdillachilla"
     fullname: >-
       Jonah Dillon
@@ -31,6 +31,18 @@ profiles:
     id: ckbkzyntuwjc20j23rtrbxgpo
     verified: false
     hashtags: "#february, #why, #words, #dumblyrics"
+  - username: "craignofriday"
+    fullname: >-
+      nofridayy
+    bio: >-
+      Rapper. 🏳️‍🌈 TEXAS 🤠
+    location: "United States"
+    followers: 4256
+    engagement: 431
+    commentsToLikes: 0.165938
+    id: ckbq6he0kstac0j23sey4wn0h
+    verified: false
+    hashtags: "#thechallengeallstars, #greenscreen, #fyp, #texas"
   - username: "chickenfriedweiss1"
     fullname: >-
       jamie weiss
@@ -67,18 +79,6 @@ profiles:
     id: ck9f7u5e7zw2n0j78xxnwyzzm
     verified: false
     hashtags: "#beet, #foryouppage, #foryoupage, #foryou"
-  - username: "travislaflamescott"
-    fullname: >-
-      Travis Scott
-    bio: >-
-      #1 TRAVIS SCOTT FAN PAGE🔥 CACTUS JACK🌵 REAL RAGERS FOLLOW INSTAGRAM
-    location: "United States"
-    followers: 87200
-    engagement: 1539
-    commentsToLikes: 0.015166
-    id: ck8key9qcbnc90j78zzs617x6
-    verified: false
-    hashtags: "#moshpit, #viral, #rap, #houston"
   - username: "papiramses"
     fullname: >-
       Papi
@@ -91,18 +91,6 @@ profiles:
     id: ck90xzc018oys0j7898pagvmw
     verified: false
     hashtags: "#hallucination, #playbyplay, #acidattack, #keepingbusy"
-  - username: "asiaraechavez"
-    fullname: >-
-      𝖺𝗌𝗂𝖺
-    bio: >-
-      𝗎𝗋 𝗅𝗈𝗏𝖾𝖽 𝖻𝗒 𝗆𝖾 𝟣𝟥/𝗍𝖺𝗎𝗋𝗎𝗌 𝗃𝖾𝗌𝗎𝗌 𝗂𝗌 𝗄𝗂𝗇𝗀. 𝖡𝖫𝖬
-    location: "United States"
-    followers: 18000
-    engagement: 2633
-    commentsToLikes: 0.099999
-    id: ckdbxnsnoeeff0j23o1j883a9
-    verified: false
-    hashtags: "#4up, #foryou, #viral, #singers"
   - username: "salo_tv"
     fullname: >-
       SaloTV🇭🇹
@@ -114,7 +102,19 @@ profiles:
     commentsToLikes: 0.061803
     id: ck9gl4g8vmm4w0j78ta3168d5
     verified: false
-    hashtags: "#jersey, #haitian, #haitianhousehold, #twitter"
+    hashtags: "#newjersey, #blacktwitter, #christiantiktok, #haitians"
+  - username: "ashertheproducer"
+    fullname: >-
+      asher
+    bio: >-
+      asher music producer | artist | theorist ⬇️ samples + inquiries
+    location: "United States"
+    followers: 61600
+    engagement: 1158
+    commentsToLikes: 0.077720
+    id: ckbaatxai3h5o0j23oynn1wh1
+    verified: false
+    hashtags: "#musicproduction, #beats, #eq, #musictheory"
   - username: "chronosdiamond"
     fullname: >-
       user6368443336118

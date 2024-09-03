@@ -1,11 +1,11 @@
 ---
-title: Top 10 Beauty TikTok Influencers In 2023
+title: Top 10 Beauty TikTok Influencers In 2024
 description: >-
-  Find top beauty TikTok influencers in 2023. Most popular hashtags: #foryou #duet #fyp.
+  Find top beauty TikTok influencers in 2024. Most popular hashtags: #foryou #duet #fyp.
 platform: TikTok
-hits: 13346
-text_top: Discover the top-rated TikTok profiles on inBeat.
-text_bottom: Our platform holds 13346 TikTok influencers like this for you to pitch.
+hits: 13292
+text_top: Discover the best TikTok profiles on inBeat.
+text_bottom: Our database aggregates 13292 TikTok influencers like this for you to work with.
 profiles:
   - username: "beauty"
     fullname: >-
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.052231
     id: ckc91lm2fronk0j23uo0hgtbd
     verified: false
-    hashtags: "#blackfae, #chicagocheck, #cleargenius, #thesuicidesquadmovie"
+    hashtags: "#chicagocheck, #suicidesquad, #thesuicidesquadmovie, #cleargenius"
   - username: "lexisroc"
     fullname: >-
       ✨Alexis✨
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.046760
     id: ckbbdo6pn2izp0j2342epu47j
     verified: false
-    hashtags: "#magickingdom, #luca, #callmebyyourname, #disneymovies"
+    hashtags: "#callmebyyourname, #disneypark, #disneymovie, #luca"
   - username: "crazy.anne85"
     fullname: >-
       anne
@@ -102,7 +102,7 @@ profiles:
     commentsToLikes: 0.034864
     id: ckbf00b54lem60j23l97kdan5
     verified: false
-    hashtags: "#puppiesoftiktok, #bridetobe, #disneyworld, #vacation"
+    hashtags: "#puppiesoftiktok, #palmsprings, #disneyparks, #weddingvibes"
   - username: "cringytoddler"
     fullname: >-
       TiktokikItSaysToddlerButIm18

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Graphic-Designers TikTok Influencers In India In 2023
+title: Top 10 Graphic-Designers TikTok Influencers In India In 2024
 description: >-
-  Find top graphic-designers TikTok influencers in India in 2023. Most popular hashtags: #tiktokindia #tiktok #foryoupage #foryou.
+  Find top graphic-designers TikTok influencers in India in 2024. Most popular hashtags: #tiktokindia #foryoupage #tiktok #foryou.
 platform: TikTok
 hits: 8
-text_top: Discover the top-rated TikTok influencers on inBeat.
-text_bottom: inBeat holds 8 TikTok influencers like this in India for you to connect with.
+text_top: See the top-rated TikTok accounts on inBeat.
+text_bottom: inBeat has 8 TikTok influencers like this in India for you to collaborate.
 profiles:
   - username: "satwants_virdi"
     fullname: >-

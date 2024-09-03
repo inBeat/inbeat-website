@@ -1,12 +1,24 @@
 ---
-title: Top 10 Djs Instagram Influencers In Nigeria In 2023
+title: Top 10 Djs Instagram Influencers In Nigeria In 2024
 description: >-
-  Find top djs Instagram influencers in Nigeria in 2023. Most popular hashtags: #nigeria #lagos #endsars.
+  Find top djs Instagram influencers in Nigeria in 2024. Most popular hashtags: #endsars #lagos #nigeria.
 platform: Instagram
 hits: 14
-text_top: Analyze the top-rated Instagram accounts on inBeat.
-text_bottom: Our database aggregates 14 Instagram influencers like this in Nigeria for you to collaborate.
+text_top: Analyze the best Instagram influencers on inBeat.
+text_bottom: Our database has 14 Instagram influencers like this in Nigeria for you to work with.
 profiles:
+  - username: "djshampain"
+    fullname: >-
+      SHAMPAIN
+    bio: >-
+      Gaillimh ☘️ @freakmegazine Host of Éire Eile ar @tg4tv Bookings: toby@3feethi.com
+    location: "Nigeria"
+    followers: 17516
+    engagement: 721
+    commentsToLikes: 0.008681
+    id: ck5cfkddfn4vo0i11y4qodr7t
+    verified: false
+    hashtags: ""
   - username: "thefifographer"
     fullname: >-
       Lifestyle Photographer
@@ -91,18 +103,6 @@ profiles:
     id: ckap8gndbo87u0i78bnk94qdl
     verified: false
     hashtags: "#happybirthdaytome, #june19baby, #kinqofqueens, #queenshantel"
-  - username: "obi_cubana"
-    fullname: >-
-      OBI IYIEGBU
-    bio: >-
-      Chairman - Cubana Group God's Favourite Son Positive vibes ONLY! NO TWITTER❌
-    location: "Nigeria"
-    followers: 626350
-    engagement: 324
-    commentsToLikes: 0.024111
-    id: ck5hhgq0d84vc0i1173t7xj63
-    verified: false
-    hashtags: "#abettertimewithdavido, #kings, #abujanightlifestyle, #ijeleafrica"
   - username: "sidwell_n"
     fullname: >-
       SIDWELL

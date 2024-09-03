@@ -1,12 +1,24 @@
 ---
-title: Top 10 Makeup Instagram Influencers In Barcelona In 2023
+title: Top 10 Makeup Instagram Influencers In Barcelona In 2024
 description: >-
-  Find top makeup Instagram influencers in Barcelona in 2023. Most popular hashtags: #barcelona #makeup #model #fashion.
+  Find top makeup Instagram influencers in Barcelona in 2024. Most popular hashtags: #barcelona #makeup #model #moda.
 platform: Instagram
-hits: 85
-text_top: Analyze the best Instagram accounts on inBeat.
-text_bottom: Our search engine aggregates 85 Instagram influencers like this in Barcelona, Spain for you to work with.
+hits: 105
+text_top: See the top-rated Instagram profiles on inBeat.
+text_bottom: Our database has 105 Instagram influencers like this in Barcelona, Spain for you to pitch.
 profiles:
+  - username: "gabriela.mkp"
+    fullname: >-
+      Maquillaje Profesional•Formación
+    bio: >-
+      Especialista en Eyeliner Difuminado Formaciones especializadas Formadora en @naarastudiomakeup Bridal Hair & Makeup @gabriela.brides WhatsApp ⤵️
+    location: "Spain"
+    followers: 13389
+    engagement: 277
+    commentsToLikes: 0.050232
+    id: ck6tqijxuro980j716d5bxte5
+    verified: false
+    hashtags: "#maquillajeprofesional, #eyeliner, #eyeshadow, #eyeshadows"
   - username: "familishome"
     fullname: >-
       F A M I L I ‘ S   H O M E  🌸
@@ -18,67 +30,19 @@ profiles:
     commentsToLikes: 0.234149
     id: ck6u3igg5xz220j715klj0obb
     verified: false
-    hashtags: "#pinkducklondon, #primor, #onlinecosmeticos, #maquillajeespa"
-  - username: "silascalleshablasen"
+    hashtags: "#onlinecosmeticos, #nyxespa, #skinglazing, #beautybaycom"
+  - username: "carol_g_r"
     fullname: >-
-      Alexandra
+      MARIA GERONIMO | MODELO
     bio: >-
-      Alexandra #Socialmediamanager #Contentcreator #Photographer @sch_lifestylephoto #Makeupartist 💌 silascalleshablasen@gmail.com
+      MODELO DE FOTOGRAFÍA, PASARELA, ANUNCIOS Y MÁS 📍BARCELONA COLABORACIONES DM 💌 SEGUNDA CUENTA @maria_geronimorp CUIDA TU PIEL PEDIDOS DIRECTOS AQUÍ ⬇️
     location: "Spain"
-    followers: 32225
-    engagement: 142
-    commentsToLikes: 0.059669
-    id: ck5qe08nyy3js0i11q35qmp4c
+    followers: 14701
+    engagement: 385
+    commentsToLikes: 0.175872
+    id: ckap69pq4ezce0i78j8t9gc5w
     verified: false
-    hashtags: "#hm, #fashionblogger, #ootd, #fashionstyle"
-  - username: "ohh.ginger"
-    fullname: >-
-      wedding+editorial photographer
-    bio: >-
-      Anna⚡️ singing odes to joy and freedom. based out of Barcelona, Spain & Europe. ☄️2021: MEX feb-march, USA, EU
-    location: "Spain"
-    followers: 27417
-    engagement: 522
-    commentsToLikes: 0.030427
-    id: ck5pypnmmx6ot0i113c71derz
-    verified: false
-    hashtags: ""
-  - username: "carmen.antonn"
-    fullname: >-
-      Carmen Antón
-    bio: >-
-      🎞 Actriz:@ocotalent_ rosamaria@ocotalent.com 📸 Moda&Publi: @salvadoragency @salvadormodels 🎬 @elclubdeactores 📍Madrid 👩🏼‍🎓Psychologist
-    location: "Spain"
-    followers: 25312
-    engagement: 241
-    commentsToLikes: 0.041234
-    id: ck6txwt8b0b9u0j71z1sc9vck
-    verified: false
-    hashtags: "#happymonday, #tbt, #positivevibes, #balayagehair"
-  - username: "nuria_tomas"
-    fullname: >-
-      Núria Tomás
-    bio: >-
-      🏛 Apolo’s mom 🚀 Founder @apoloxcommunication 🎬 Actress @macutotalent 🎓 Career @enriquetomas
-    location: "Spain"
-    followers: 45185
-    engagement: 145
-    commentsToLikes: 0.025766
-    id: ck5cfqfuvng4u0i115i3gwy2q
-    verified: false
-    hashtags: "#babyapolo, #pregnant, #nude, #fotografiaembarazo"
-  - username: "andrea_keany"
-    fullname: >-
-      Actriz | Andrea Keany
-    bio: >-
-      Rodando ando...🎬📽 ••••••••••• 🏴󠁧󠁢󠁳󠁣󠁴󠁿🇬🇧🇪🇦
-    location: "Spain"
-    followers: 4766
-    engagement: 997
-    commentsToLikes: 0.318184
-    id: ck6tkabrk4b6y0j71ghskfz4b
-    verified: false
-    hashtags: "#benidorm, #actress, #actriz, #rodaje"
+    hashtags: "#catalu, #barcelonaspain, #lencer, #barcelona"
   - username: "noah_pharrell"
     fullname: >-
       Noah Pharrell | Photographer
@@ -102,7 +66,7 @@ profiles:
     commentsToLikes: 0.023000
     id: ck8t2y7mo15lu0j78vp56caei
     verified: false
-    hashtags: "#beach, #sky, #dior, #spain"
+    hashtags: "#boat, #song, #house, #sky"
   - username: "larochulaloba"
     fullname: >-
       SOY  ROCHU  LA  LOBA 🐺💖
@@ -126,5 +90,41 @@ profiles:
     commentsToLikes: 0.048377
     id: ck5c9tm8bc3n10i11urmbxl88
     verified: false
-    hashtags: "#peoplescreative, #ecoconscious, #couple, #letsgosomewhere"
+    hashtags: "#inspirationwedding, #halloweeninspiration, #hippiebride, #home"
+  - username: "danirull.official"
+    fullname: >-
+      danielrull
+    bio: >-
+      HAIR & MAKEUP ARTIST / DIOR / CREATIVE DIRECTOR / CASTING DIRECTOR Barcelona/Zurich
+    location: "Spain"
+    followers: 19043
+    engagement: 368
+    commentsToLikes: 0.095710
+    id: ck0w0ii8tedh20i19eb5soii8
+    verified: false
+    hashtags: "#creativedirector, #danirull, #fashion, #muscle"
+  - username: "glorirovi"
+    fullname: >-
+      🦁Glorirovi
+    bio: >-
+      📍Barcelona 𝗖𝗘𝗢 @pina_rizada 🌀Recupera y luce tus rizos Con mi método curly ⬇️
+    location: "Spain"
+    followers: 88977
+    engagement: 609
+    commentsToLikes: 0.345555
+    id: ck14jhydbkfsb0i19hgiggb4i
+    verified: false
+    hashtags: "#cocunat, #corte, #cocunatrocks, #naturalcosmetics"
+  - username: "veronicamuresan"
+    fullname: >-
+      𝓥𝓮𝓻𝓸𝓷𝓲𝓬𝓪
+    bio: >-
+      • 𝔹𝕖𝕤𝕥 𝕙𝕒𝕚𝕣 𝕠𝕗 𝕀𝕟𝕤𝕥𝕒𝕘𝕣𝕒𝕞 💇🏻‍♀️😜😂 • Paris/Barcelona
+    location: "Spain"
+    followers: 223067
+    engagement: 622
+    commentsToLikes: 0.009940
+    id: cld6qdj14cd9l0j08csg49ahk
+    verified: false
+    hashtags: "#explorepage, #outfitlook, #streetstyleinspo, #barcelona"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Models TikTok Influencers In Vancouver In 2023
+title: Top 10 Models TikTok Influencers In Vancouver In 2024
 description: >-
-  Find top models TikTok influencers in Vancouver in 2023. Most popular hashtags: #fyp #foryou #model #vancouver.
+  Find top models TikTok influencers in Vancouver in 2024. Most popular hashtags: #fyp #foryou #model #vancouver.
 platform: TikTok
 hits: 7
-text_top: Discover the top-rated TikTok profiles on inBeat.
-text_bottom: Our search engine aggregates 7 TikTok influencers like this in Vancouver, Canada for you to work with.
+text_top: Identify the top-rated TikTok accounts on inBeat.
+text_bottom: Our search engine has 7 TikTok influencers like this in Vancouver, Canada for you to pitch.
 profiles:
   - username: "justpulito"
     fullname: >-
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.014321
     id: ckamxqdm1e6m60i78tfibpown
     verified: false
-    hashtags: "#flawlessskin, #makeupbyfateh, #foryour, #photoshoot"
+    hashtags: "#indiantiktok, #indianjewellery, #photoshoot, #vancouvermakeupartist"
   - username: "2hypevictor"
     fullname: >-
       2hypevictor
@@ -50,11 +50,11 @@ profiles:
       made for the world
     location: "Canada"
     followers: 19500
-    engagement: 1180
-    commentsToLikes: 0.038824
+    engagement: 1175
+    commentsToLikes: 0.038776
     id: ckcp17xg2b4t90j2332yy9pf6
     verified: false
-    hashtags: "#greenscreen, #trending, #fyp, #canada"
+    hashtags: "#comedy, #funny, #vancouver, #fashion"
   - username: "austinottone"
     fullname: >-
       Austin Ottone

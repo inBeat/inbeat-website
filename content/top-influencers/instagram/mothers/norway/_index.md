@@ -1,12 +1,36 @@
 ---
-title: Top 10 Mothers Instagram Influencers In Norway In 2023
+title: Top 10 Mothers Instagram Influencers In Norway In 2024
 description: >-
-  Find top mothers Instagram influencers in Norway in 2023. Most popular hashtags: #motherhood #norway #love #nature.
+  Find top mothers Instagram influencers in Norway in 2024. Most popular hashtags: #motherhood #norway #love #momlife.
 platform: Instagram
-hits: 58
-text_top: Analyze the most popular Instagram influencers on inBeat.
-text_bottom: Our search engine aggregates 58 Instagram influencers like this in Norway for you to pitch.
+hits: 56
+text_top: Identify the best Instagram accounts on inBeat.
+text_bottom: Our platform holds 56 Instagram influencers like this in Norway for you to contact.
 profiles:
+  - username: "ruskicat"
+    fullname: >-
+      Ruski, Evi & Kiara
+    bio: >-
+      😺 𝗥𝘂𝘀𝗸𝗶, mothercat wannabe 😾 𝗘𝘃𝗶, expert purring machine 🐱 𝗞𝗶𝗮𝗿𝗮, chaircat extraordinaire ⚡️ 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 by @eukanubanorge
+    location: "Norway"
+    followers: 41736
+    engagement: 272
+    commentsToLikes: 0.035714
+    id: ck8t59bg099lx0j78x6h6qew7
+    verified: false
+    hashtags: "#sibirkatt, #forestcat, #catsdaily, #catstagram"
+  - username: "acousteau"
+    fullname: >-
+      Alexandra Cousteau
+    bio: >-
+      Ocean lover, Mother, Co-founder of Oceans 2050, Nat Geo Explorer, Young Global Leader WEF, Senior Advisor Oceana, Speaker, Storyteller, Earthling.
+    location: "Norway"
+    followers: 24576
+    engagement: 269
+    commentsToLikes: 0.027016
+    id: ck0u1wiv2y9jv0i19kx6mr58y
+    verified: false
+    hashtags: "#alexandracousteau, #spotlessseptember, #cleanupwithgarnier, #ocean"
   - username: "yogakristine"
     fullname: >-
       Kristine Mikkelsen
@@ -19,18 +43,6 @@ profiles:
     id: ck5zp2b4zruom0i14szyc61c3
     verified: false
     hashtags: "#myyogapractice, #yogainspiration, #yogaselfpractice, #letsdoyoga"
-  - username: "eminesanders"
-    fullname: >-
-      EMINE SANDERS🦧🦧🦧
-    bio: >-
-      gladlaks / mother / livsnjutare og tullemor.
-    location: "Norway"
-    followers: 11206
-    engagement: 476
-    commentsToLikes: 0.040513
-    id: ck14lb71otrww0i19jgk9z3jq
-    verified: false
-    hashtags: "#eboks, #ebokspluss, #digitalpostkasse, #telenornorge"
   - username: "hervisuals"
     fullname: >-
       TRAVEL • ADVENTURE • FREEDOM
@@ -67,18 +79,6 @@ profiles:
     id: ck5q1364791q00i11de3j0rcs
     verified: false
     hashtags: "#norgeimitthjerte, #splendid, #fiftyshades, #heart"
-  - username: "acousteau"
-    fullname: >-
-      Alexandra Cousteau
-    bio: >-
-      Ocean lover, Mother, Co-founder of Oceans 2050, Nat Geo Explorer, Young Global Leader WEF, Senior Advisor Oceana, Speaker, Storyteller, Earthling.
-    location: "Norway"
-    followers: 12250
-    engagement: 493
-    commentsToLikes: 0.033978
-    id: ck0u1wiv2y9jv0i19kx6mr58y
-    verified: false
-    hashtags: "#ocean, #protectwhatyoulove, #oceanlover, #transparency"
   - username: "jilanbaker"
     fullname: >-
       Jilan Baker

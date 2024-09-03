@@ -1,12 +1,48 @@
 ---
-title: Top 10 Music Instagram Influencers In Norway In 2023
+title: Top 10 Music Instagram Influencers In Norway In 2024
 description: >-
-  Find top music Instagram influencers in Norway in 2023. Most popular hashtags: #fashion #style #fashionable.
+  Find top music Instagram influencers in Norway in 2024. Most popular hashtags: #modernart #nature #foodtruck.
 platform: Instagram
-hits: 45
-text_top: Analyze the best Instagram influencers on inBeat.
-text_bottom: Our database aggregates 45 Instagram influencers like this in Norway for you to connect with.
+hits: 51
+text_top: Analyze the best Instagram accounts on inBeat.
+text_bottom: inBeat holds 51 Instagram influencers like this in Norway for you to work with.
 profiles:
+  - username: "thyraherm"
+    fullname: >-
+      Thyra Hermansen
+    bio: >-
+      music marketing 💿 Oslo
+    location: "Norway"
+    followers: 7460
+    engagement: 471
+    commentsToLikes: 0.081775
+    id: ck0tupi0984wb0i197ha1cd1x
+    verified: false
+    hashtags: ""
+  - username: "colorsandthekids"
+    fullname: >-
+      COLORS AND THE KIDS
+    bio: >-
+      We are a creative company specializing in the fields of design, motion, and music.
+    location: "Norway"
+    followers: 32280
+    engagement: 250
+    commentsToLikes: 0.013928
+    id: ck15pz8e20d5p0i195e1sdjg5
+    verified: false
+    hashtags: "#cinema4d, #themixisthefuture, #colorsandthekids, #tv2"
+  - username: "tomvart"
+    fullname: >-
+      Tommy
+    bio: >-
+      📸•Photos from my days on the road 🍻•Value the little things in life ☕️•Coffee addict 👨‍👩‍👧‍👦•Family guy 😈•Sarcasm 🚛•Trucks 🕹•Games 🎶•Music
+    location: "Norway"
+    followers: 135227
+    engagement: 192
+    commentsToLikes: 0.004699
+    id: ck136utif8ddv0i19unz51i12
+    verified: false
+    hashtags: "#clouds, #mountains, #morning, #volvo"
   - username: "henrylemoin"
     fullname: >-
       Henry Lemoin | Norwegian Model
@@ -35,14 +71,14 @@ profiles:
     fullname: >-
       OMAR NOIR
     bio: >-
-      🇬🇲🌐🇳🇴 Artist & Songwriter. Oslo📍||👇🏾New Music
+      🌐🇬🇲🇸🇳🇳🇴 Artist & Songwriter. Oslo📍|| “Deilig”👇🏾Music
     location: "Norway"
-    followers: 4995
-    engagement: 959
-    commentsToLikes: 0.059137
+    followers: 5619
+    engagement: 788
+    commentsToLikes: 0.052104
     id: ck5znr2bwozwa0i14fqywgbvt
     verified: false
-    hashtags: "#waxonwaxoff, #nobodyelse, #fullnelson, #funfact"
+    hashtags: "#aviationtour, #22juli, #bathroomselfie, #linkinbio"
   - username: "charlottedossantos_"
     fullname: >-
       🌬 𝕮𝖍𝖆𝖗𝖑𝖔𝖙𝖙𝖊 𝕯𝖔𝖘 𝕾𝖆𝖓𝖙𝖔𝖘 🌬
@@ -79,30 +115,6 @@ profiles:
     id: ck14iwnyohi8b0i19wt15gift
     verified: false
     hashtags: ""
-  - username: "rybakofficial"
-    fullname: >-
-      🎻 ALEXANDER RYBAK 🎻
-    bio: >-
-      Eurovision winner 🎻🥇 New jazz music! 🎻 I hope you like it 🌹👇🏼
-    location: "Norway"
-    followers: 494689
-    engagement: 850
-    commentsToLikes: 0.013719
-    id: ck13a21lwo8ix0i19xolkfd36
-    verified: true
-    hashtags: "#violin, #jazz, #clarinet, #columbiacollegechicago"
-  - username: "food___passion"
-    fullname: >-
-      Jamilla🇲🇦🇳🇴
-    bio: >-
-      📷 Pictures of my food journey 📍 Based in Oslo, Norway Passion for food, coffee, flowers and music🌸
-    location: "Norway"
-    followers: 49569
-    engagement: 118
-    commentsToLikes: 0.236455
-    id: ck9hccd5fkqrt0j78e6yhqdlh
-    verified: false
-    hashtags: "#fashiondesigner, #fashionblogger, #dessertporn, #fashionshow"
   - username: "producedbymagnus"
     fullname: >-
       MAGNUS
@@ -115,16 +127,4 @@ profiles:
     id: ck14itg5ch33g0i19nopaddpx
     verified: false
     hashtags: "#blackouttuesday"
-  - username: "magnus_klausen"
-    fullname: >-
-      Magnus klausen
-    bio: >-
-      Norwegian. Probably making a riff... Music I listen to 👇
-    location: "Norway"
-    followers: 58545
-    engagement: 397
-    commentsToLikes: 0.034385
-    id: ck6ud1r3wim5o0j71vdhqbj09
-    verified: false
-    hashtags: "#pickupjazz, #soundofguitars, #guitarsarebetter, #drakememes"
 ---

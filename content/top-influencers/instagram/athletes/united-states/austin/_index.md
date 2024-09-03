@@ -1,11 +1,11 @@
 ---
-title: Top 10 Athletes Instagram Influencers In Austin In 2023
+title: Top 10 Athletes Instagram Influencers In Austin In 2024
 description: >-
-  Find top athletes Instagram influencers in Austin in 2023. Most popular hashtags: #workoutmotivation #fitness #workout.
+  Find top athletes Instagram influencers in Austin in 2024. Most popular hashtags: #fitness #training #love.
 platform: Instagram
-hits: 81
-text_top: See the top-rated Instagram profiles on inBeat.
-text_bottom: Our search engine has 81 Instagram influencers like this in Austin, United States for you to pitch.
+hits: 100
+text_top: Identify the best Instagram accounts on inBeat.
+text_bottom: Our platform holds 100 Instagram influencers like this in Austin, United States for you to work with.
 profiles:
   - username: "austinmeadows13"
     fullname: >-
@@ -45,16 +45,16 @@ profiles:
     hashtags: "#rmz450, #motoclimb, #superfly, #bignastyhillclimb"
   - username: "ms_kchambers"
     fullname: >-
-      Kendra Chambers
+      Kendra Coleman
     bio: >-
-      Pro USA Track & Field Athlete | @Oiselle Haute Volée | Univ. Texas at Austin, B.S. | NCU, M.Ed. | Athlete Advocate | Food Enthusiast |
+      Pro USA Track & Field Athlete | @Oiselle Haute Volée | Univ. Texas at Austin, B.S. | NCU, M.Ed. | Athlete Advisory Committee | Food Enthusiast |
     location: "United States"
-    followers: 8016
-    engagement: 821
-    commentsToLikes: 0.071528
+    followers: 8868
+    engagement: 520
+    commentsToLikes: 0.066295
     id: ck6tn5l6796gh0j713obw54p5
     verified: true
-    hashtags: "#onepercentbetter, #strava, #fifteenminutesaday, #ad"
+    hashtags: "#yogaforultrarunners, #selfcare, #selfcaresunday, #engagementphotos"
   - username: "nicolemrauch"
     fullname: >-
       NICOLE
@@ -67,64 +67,64 @@ profiles:
     id: ck8t6xak8ezc20j78ohef7l05
     verified: false
     hashtags: "#honoryourbody, #homeworkouts, #nicolemrauch, #workingoutathome"
-  - username: "primal.swoledier"
+  - username: "mattchoi_6"
     fullname: >-
-      Eric Leija
+      Matt Choi
     bio: >-
-      @onnit athlete Let’s Train On The Primal Fit App IOS & Android 📱 . EricLeija.com to Shop Workout Programs & Primal Gear👇🏽👇🏽 .
+      📱 Video Producer | 🏃🏽‍♂️Athlete 🦿@kanefootwear | @runna Code: “MATT” 🎙️ Host of the @mattchoishow Join @runna 2-week FREE Trial⤵️
     location: "United States"
-    followers: 910481
-    engagement: 18
-    commentsToLikes: 0.024099
-    id: ck0ttznsj50pu0i1920rl13e6
-    verified: true
-    hashtags: "#fitnessmotivation, #kettlebellflow, #bodyweightworkout, #abworkout"
-  - username: "mandiekaii_fit"
-    fullname: >-
-      MANDIE KAII 🌈
-    bio: >-
-      ATX • Former Athlete • Love First Here to help women bring out their inner baddie 🎙@thelivefreelypodcast Online Studio, Team Info + Contact Me:
-    location: "United States"
-    followers: 62117
-    engagement: 447
-    commentsToLikes: 0.017909
-    id: ck5hkch9ui6ka0i11rmhboxm0
+    followers: 369624
+    engagement: 280
+    commentsToLikes: 0.059155
+    id: cl7ldn3nhvl7t0i236dr0h3bq
     verified: false
-    hashtags: "#married, #femme, #atx, #pride"
+    hashtags: "#runners, #content, #austin, #training"
+  - username: "schroederfit"
+    fullname: >-
+      Tyler Schroeder
+    bio: >-
+      𝙔𝙤𝙪𝙧 𝙑𝙞𝙨𝙞𝙤𝙣, 𝙔𝙤𝙪𝙧 𝘿𝙧𝙚𝙖𝙢 💪 Top 3 National Athlete | @evolutionfitnessnd 👨‍🔬 Accelerated Peptides Advisor 📧 < 𝘾𝙤𝙖𝙘𝙝𝙞𝙣𝙜 🎮 Twitch Affiliate Streamer
+    location: "United States"
+    followers: 5514
+    engagement: 2114
+    commentsToLikes: 0.026532
+    id: ckaowlchx9fh00i78gq1jrwgr
+    verified: false
+    hashtags: "#fit, #fitfam, #healthylifestyle, #instafit"
   - username: "ringing65"
     fullname: >-
       Alex Dieringer
     bio: >-
-      3X NCAA Champion at Oklahoma State! 2016 Hodge trophy winner!!!! Doing everything I can to reach greatness! Nike Athlete
+      3X NCAA Champion at Oklahoma State! 2016 Hodge Trophy Winner! 5x National Team Member. Nike Athlete. Cliff Keen Wresting Club 🤼
     location: "United States"
-    followers: 39170
-    engagement: 954
-    commentsToLikes: 0.009633
+    followers: 39547
+    engagement: 901
+    commentsToLikes: 0.011604
     id: ck0u0ock1uc350i19v8lenwop
     verified: true
-    hashtags: "#24, #shesaidyes"
-  - username: "austinhendrick._"
+    hashtags: "#shesaidyes, #79kgworldchamp, #usawrestling, #24"
+  - username: "laurenabraham"
     fullname: >-
-      Austin Hendrick
+      ❄️⛷🏂✈️Lauren Abraham🏄🏽‍♀️🏋🏽‍♀️🧘🏻‍♀️🏊🏼‍♀️💃🏻🚴🏻‍♀️
     bio: >-
-      Gods Work☝🏼|Cincinnati Reds Organization|🎰| #justakidwithabigdream -✊🏼✊🏼🤙🏼🤟🏼| @lexa.paigee | |Colossians 3:23-24| @nike athlete
+      Creator @insiderescape TVHost LiveMC Producer Athlete to: 🚁@seabaheli 🏂@k2.snowboarding ⛷️ @k2.skis 🍷@thehiddenseawine 🦄 Festival Dancer 💪Fitness Buff
     location: "United States"
-    followers: 20911
-    engagement: 2605
-    commentsToLikes: 0.009599
-    id: ck8t0nl27so0y0j788cbhpg4p
-    verified: false
-    hashtags: "#18, #goreds"
-  - username: "aneshea_shali"
+    followers: 562418
+    engagement: 285
+    commentsToLikes: 0.001991
+    id: ckf5lbolxp0v50j239xpyf9vs
+    verified: true
+    hashtags: "#moceanusa, #steinstyle, #deervalley, #chicksthatrip"
+  - username: "austinvanderford"
     fullname: >-
-      Aneshea Shali
+      Austin Vanderford
     bio: >-
-      @corecampchallenge DALLAS, TX📍🤘🏽 @be.empowered.nutrition Athlete @bravosierra_usa Athlete
+      🖕🏻Mr.Vanzant🖕🏻 @monsterenergy Athlete @americantopteam Army @bellatormma Fighter
     location: "United States"
-    followers: 27403
-    engagement: 442
-    commentsToLikes: 0.044598
-    id: ck6ui0kwvccno0j713equ14rl
-    verified: false
-    hashtags: "#speaklife, #fitness, #beempowerednutrition, #checkonyourstrongfriends"
+    followers: 175557
+    engagement: 252
+    commentsToLikes: 2.176526
+    id: ck1362wvu4hwm0i19npq2garg
+    verified: true
+    hashtags: ""
 ---

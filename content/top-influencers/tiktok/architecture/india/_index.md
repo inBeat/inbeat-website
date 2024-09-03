@@ -1,11 +1,11 @@
 ---
-title: Top 10 Architecture TikTok Influencers In India In 2023
+title: Top 10 Architecture TikTok Influencers In India In 2024
 description: >-
-  Find top architecture TikTok influencers in India in 2023. Most popular hashtags: #architecture #foryou #architect #foryoupage.
+  Find top architecture TikTok influencers in India in 2024. Most popular hashtags: #architecture #foryou #architect #foryoupage.
 platform: TikTok
 hits: 9
 text_top: Analyze the top-rated TikTok influencers on inBeat.
-text_bottom: inBeat holds 9 TikTok influencers like this in India for you to collaborate.
+text_bottom: Our search engine has 9 TikTok influencers like this in India for you to work with.
 profiles:
   - username: "shoonya_8007"
     fullname: >-

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Models TikTok Influencers In Bangkok In 2023
+title: Top 10 Models TikTok Influencers In Bangkok In 2024
 description: >-
-  Find top models TikTok influencers in Bangkok in 2023. Most popular hashtags: #fyp #thailand #bangkok #foryou.
+  Find top models TikTok influencers in Bangkok in 2024. Most popular hashtags: #fyp #thailand #bangkok #foryou.
 platform: TikTok
 hits: 5
-text_top: Discover the best TikTok accounts on inBeat.
-text_bottom: Our search engine aggregates 5 TikTok influencers like this in Bangkok, Thailand for you to collaborate.
+text_top: Discover the top-rated TikTok accounts on inBeat.
+text_bottom: inBeat aggregates 5 TikTok influencers like this in Bangkok, Thailand for you to collaborate.
 profiles:
   - username: "rafaelkonell"
     fullname: >-
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.040158
     id: cka5z8kq6lljr0i78himqxnof
     verified: false
-    hashtags: "#duet, #phuket, #foryou, #thailand"
+    hashtags: "#tiktokthailand, #tiktok, #viral, #foryou"
   - username: "princekhan00_official"
     fullname: >-
       𝑷𝒓𝒊𝒏𝒄𝒆𝑲𝒉𝒂𝒏👑
@@ -66,7 +66,7 @@ profiles:
     commentsToLikes: 0.062183
     id: ck9gkot91kncf0j784bq7gc6u
     verified: false
-    hashtags: "#fyp, #tesla, #thai, #modelx"
+    hashtags: "#bkk, #phuket2020, #modelx, #asian"
   - username: "rafaelkonell"
     fullname: >-
       Rafael Konell
@@ -114,7 +114,7 @@ profiles:
     commentsToLikes: 0.047130
     id: ck9rlkun5yeso0j78qqablyr4
     verified: false
-    hashtags: "#fitgirl, #dress, #swimwear, #beachwear"
+    hashtags: "#swimwear, #beachwear, #style, #fitgirl"
   - username: "earnpat"
     fullname: >-
       Earn Pattaravadee B.

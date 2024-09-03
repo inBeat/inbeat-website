@@ -1,60 +1,36 @@
 ---
-title: Top 10 Gaming Instagram Influencers In Miami In 2023
+title: Top 10 Gaming Instagram Influencers In Miami In 2024
 description: >-
-  Find top gaming Instagram influencers in Miami in 2023. Most popular hashtags: #miami #gaming #videogames.
+  Find top gaming Instagram influencers in Miami in 2024. Most popular hashtags: #miami #gaming #gamer #travel.
 platform: Instagram
-hits: 24
-text_top: Analyze the top-rated Instagram influencers on inBeat.
-text_bottom: Our platform holds 24 Instagram influencers like this in Miami, United States for you to pitch.
+hits: 28
+text_top: Discover the best Instagram profiles on inBeat.
+text_bottom: Our search engine holds 28 Instagram influencers like this in Miami, United States for you to pitch.
 profiles:
-  - username: "sgogaming"
+  - username: "scbylynn"
     fullname: >-
       
     bio: >-
-      Use #sgoontherise to get noticed members/affiliated followed gaming /organization #miami
+      🚙Cars 🏍Bikes 🏋🏼‍♀️Gym 🕹Gaming 📸Shootingpics @inkedlynn_ 👾Subaru | Bmw | Aprilia 🥀#untilwemeetagain 🕊
     location: "United States"
-    followers: 71
-    engagement: 279149
-    commentsToLikes: 0.064416
-    id: ck15po7xgyub70i198c767nk7
+    followers: 14970
+    engagement: 548
+    commentsToLikes: 0.032601
+    id: ckaosv2i4t5050i7896ooo4t2
     verified: false
-    hashtags: "#sgoontherise"
-  - username: "jsgcosplay"
-    fullname: >-
-      
-    bio: >-
-      Cosplay - Fitness - Streamer - Funko POPS - Highly Caffeinated 🐦 Twitter - @jsgcosplay 🎧 Twitch - Jsgcosplay
-    location: "United States"
-    followers: 47384
-    engagement: 150
-    commentsToLikes: 0.024597
-    id: ck5zpx3bwtipr0i14hx6u0w3v
-    verified: false
-    hashtags: "#305, #razergaming, #razer, #twitchstreamer"
-  - username: "hypedstreets"
-    fullname: >-
-      HYPEDSTREETS ®
-    bio: >-
-      Best and latest Clothes, Sneakers and Lifestyle posts. Personal : @thehypedkid DM for Business 📩
-    location: "United States"
-    followers: 341648
-    engagement: 72
-    commentsToLikes: 0.004719
-    id: ckaor326jlilk0i78ocvrnrun
-    verified: false
-    hashtags: "#nike, #travisscott, #hypedstreets, #womenswear"
+    hashtags: "#inkedgirls, #aprilia, #photography, #impreza"
   - username: "joblessgarrett"
     fullname: >-
       Garrett
     bio: >-
-      Your Favorite Youtuber & Streamer. 🔥 Miami🔥 Business: JoblessGamers@gmail.com All my Links and Socials:
+      YouTuber, Voice Actor, Media Consultant & Streamer :) 🔥Miami🔥 Business: JoblessGamers@gmail.com 🤫GarrysWorld.com🤫
     location: "United States"
-    followers: 290601
-    engagement: 162
-    commentsToLikes: 0.015719
+    followers: 276527
+    engagement: 89
+    commentsToLikes: 0.004168
     id: ck9hcuetrn0q00j789qeori81
     verified: false
-    hashtags: "#family, #gaming, #happy, #goals"
+    hashtags: "#gaming, #gamers, #changgang, #youtubers"
   - username: "trevor312"
     fullname: >-
       Trevor Silver
@@ -66,19 +42,7 @@ profiles:
     commentsToLikes: 0.000343
     id: ck13bfhb0v6b20i19owck675w
     verified: false
-    hashtags: "#daddyslittlegirl, #pune, #analytics, #kalyaninagar"
-  - username: "pouuuya"
-    fullname: >-
-      Tour Sensei, Aka Bus Dad
-    bio: >-
-      Miami, FL. 🇨🇺+🇮🇷 Allbutsix 🔐 Tour manager for @pouya @yunggravy Gaming IG @allbutsix_gaming
-    location: "United States"
-    followers: 34922
-    engagement: 510
-    commentsToLikes: 0.027945
-    id: ck5c9z232ce9e0i11i3cmbxnc
-    verified: false
-    hashtags: ""
+    hashtags: "#pune, #hudson, #daddydaughtertime, #data"
   - username: "timemachinegaming"
     fullname: >-
       Time Machine Gaming
@@ -91,6 +55,18 @@ profiles:
     id: ck13cd8f6zs780i19sv4mxk7n
     verified: false
     hashtags: "#kakarot, #mar10"
+  - username: "maximemxm"
+    fullname: >-
+      MaximeMXM
+    bio: >-
+      Content Creator 🎥 Racing 🏎 | Gaming 🎮 Positive vibes only 🔥 ✉️ OriginalMXM@gmail.com
+    location: "United States"
+    followers: 43015
+    engagement: 364
+    commentsToLikes: 0.017354
+    id: cln4q7hwyjxru0j08vqjtqvw1
+    verified: false
+    hashtags: "#quadrant, #formula1, #thecrew, #f1"
   - username: "80s_renegade"
     fullname: >-
       🌴📼 80s_RΞNΞGΛDΞ ™ 📼🌴
@@ -103,18 +79,42 @@ profiles:
     id: ck0vyzye06m1n0i19f6o4bx71
     verified: false
     hashtags: "#vintageart, #retrocar, #eighties, #vintagecar"
-  - username: "retrogeist"
+  - username: "andresvidoza"
     fullname: >-
-      80s & 90s Vibes
+      Andres Vidoza
     bio: >-
-      Follow my other page, @commanderlarry , for some old school gaming!
+      🎥 Telling a story with tech 💿 @ankemedia Production 🇨🇦 Montreal, Canada 👇🏽 Tech/Lifestyle videos
     location: "United States"
-    followers: 119504
-    engagement: 293
-    commentsToLikes: 0.011868
-    id: ck15s70rpbjl20i19nytobqpi
+    followers: 333287
+    engagement: 204
+    commentsToLikes: 0.012160
+    id: ck0uctkothksq0i19o5n5afl2
     verified: false
-    hashtags: "#retrogeist, #1990s, #vintagetech, #80s"
+    hashtags: "#life, #living, #gaming, #travel"
+  - username: "jennahleland"
+    fullname: >-
+      ⚡️Jennah Leland🎙
+    bio: >-
+      22, FL/LA, Usually caffeinated, streaming, or golfing⛳️ 🤍Twitch Partner ⚡️Tiktok: @JennahLeland 1.8m+ 📧: jennah@jennahleland.com
+    location: "United States"
+    followers: 108032
+    engagement: 306
+    commentsToLikes: 0.021011
+    id: ckrliokbifauq0j23oap378y2
+    verified: false
+    hashtags: "#golf, #travelreels, #floridakeys, #florida"
+  - username: "tslayz"
+    fullname: >-
+      Taylor Jordn
+    bio: >-
+      Techno DJ • Streamer 📍Detroit // LA 🎧@taylorjordndj 💌 contact@tslayz.com
+    location: "United States"
+    followers: 71269
+    engagement: 150
+    commentsToLikes: 0.059161
+    id: cl85t9p681ruq0i23i6qy5v6w
+    verified: false
+    hashtags: "#detroittechno, #streamer, #chicago, #technomusic"
   - username: "mariatech_"
     fullname: >-
       Maria Tech
@@ -126,5 +126,5 @@ profiles:
     commentsToLikes: 0.103305
     id: ck0vzakf2854w0i193qu3qpjw
     verified: false
-    hashtags: "#webdeveloper, #computerscience, #windows, #womenintech"
+    hashtags: "#softwareengineer, #peoplewhocode, #techgirls, #softwaredeveloper"
 ---

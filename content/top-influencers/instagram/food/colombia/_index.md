@@ -1,12 +1,96 @@
 ---
-title: Top 10 Food Instagram Influencers In Colombia In 2023
+title: Top 10 Food Instagram Influencers In Colombia In 2024
 description: >-
-  Find top food Instagram influencers in Colombia in 2023. Most popular hashtags: #tbt #food #foodporn.
+  Find top food Instagram influencers in Colombia in 2024. Most popular hashtags: #love #pizza #reels.
 platform: Instagram
-hits: 109
-text_top: Analyze the best Instagram profiles on inBeat.
-text_bottom: Our search engine aggregates 109 Instagram influencers like this in Colombia for you to connect with.
+hits: 119
+text_top: Identify the best Instagram profiles on inBeat.
+text_bottom: Our platform holds 119 Instagram influencers like this in Colombia for you to collaborate.
 profiles:
+  - username: "lavozdegoyo"
+    fullname: >-
+      La Voz de Goyo | Santuario de Animales Rescatados en Antioquia
+    bio: >-
+      ✊️Vegano por ellos 🌱 ❗️Cuenta unica donaciones # 31600009930 ahorros bancolombia 📍Restaurante @goyo.food 🧆Productos congelados @goyotodoporellos
+    location: "Colombia"
+    followers: 17905
+    engagement: 439
+    commentsToLikes: 0.058074
+    id: ck5hp09zlqjad0i11g17c4t9j
+    verified: false
+    hashtags: "#lavozdegoyo, #veganlife, #animalesrescatados, #rescateanimal"
+  - username: "angulosaul"
+    fullname: >-
+      Saul Angulo
+    bio: >-
+      PR & Influencer MKT Foodie || LifeStyle Industrial Enginner 📍México City || (Made in Sinaloa).
+    location: "Colombia"
+    followers: 41914
+    engagement: 308
+    commentsToLikes: 0.041209
+    id: ck15pzooq0fdj0i19f9p9wznt
+    verified: false
+    hashtags: "#mensstyle, #vacation, #menstyle, #travel"
+  - username: "alwayshungrymel"
+    fullname: >-
+      Melissa Rodriguez
+    bio: >-
+      💁🏼‍♀️lifestyle reporter 🍕food, things to do & travel 📍from #miami with colombian & venezuelan roots
+    location: "Colombia"
+    followers: 53000
+    engagement: 186
+    commentsToLikes: 0.011093
+    id: ckmw1aqw25n2u0j23nkz08dfx
+    verified: false
+    hashtags: "#deliciousfood, #delish, #thingstodoinflorida, #sushi"
+  - username: "theclub1991"
+    fullname: >-
+      The Club 1991 - Foodies
+    bio: >-
+      👫 Somos Foodies: Kari & Sebas. 🎩 Tu guía para comer rico & preparar recetas fáciles. NO somos un restaurante. 📍 Cali - Medellín.
+    location: "Colombia"
+    followers: 84130
+    engagement: 75
+    commentsToLikes: 0.025296
+    id: ck6u9mpqkyezz0j71p26ise4j
+    verified: false
+    hashtags: "#quehayparahacerencali, #foodiesmedellin, #foodiescali, #calivalle"
+  - username: "santosalexandra"
+    fullname: >-
+      Alexa Santos
+    bio: >-
+      ❤️Amor, Relaciones ☀️♥️ 👦🏻Mamá de Mateo 🎥Journalist | TV Host 🍎Health Coach 🏋🏻🧘‍♀️ Sports & yoga 🍓Food lover 💚Naturaleza 📍Colombia
+    location: "Colombia"
+    followers: 156672
+    engagement: 38
+    commentsToLikes: 0.137227
+    id: ck6uem1snrqe20j71e0aouth1
+    verified: true
+    hashtags: "#hazloreal, #publicidad, #hyundaikona, #amor"
+  - username: "mikevsfood_oficial"
+    fullname: >-
+      MikeVsFood
+    bio: >-
+      Eating Without Limits Food Challenges Embajador @winnergroupoficial Publicidad al DM💥 #132victories #4defeats Second account @mikejake00 💥
+    location: "Colombia"
+    followers: 48489
+    engagement: 25
+    commentsToLikes: 0.008263
+    id: ck0w4u3pm0ffj0i19xnl72mes
+    verified: false
+    hashtags: "#bogot, #viral, #bogota, #tendencia"
+  - username: "alaguapatosrestaurante"
+    fullname: >-
+      Al Agua Patos Tostadas & Café
+    bio: >-
+      Maestros de una nueva categoría de producto, el PATO 🍞. Creadores de una experiencia que invita a vivir en un mundo más positivo. Follow for foodporn.
+    location: "Colombia"
+    followers: 153604
+    engagement: 42
+    commentsToLikes: 0.016265
+    id: cl4co03pso3060i23obco52gy
+    verified: false
+    hashtags: "#uncaninoatodahora, #christmasmood, #siemprehayespacioparaelpostre"
   - username: "giulioiannelli"
     fullname: >-
       Giulio Iannelli
@@ -31,30 +115,6 @@ profiles:
     id: ck0tx48ijhubb0i19y9rokavw
     verified: false
     hashtags: "#muasfeaturing, #makeupartist, #tucomovives, #morphe"
-  - username: "danielabohor"
-    fullname: >-
-      Daniela Bohórquez
-    bio: >-
-      ✨Fashion |Travel | Food Makeup lover💄💖 #ootdanibohor Owner @bohor_ Filipenses 4:13 🙏🏼❣️
-    location: "Colombia"
-    followers: 73533
-    engagement: 547
-    commentsToLikes: 0.011570
-    id: ck5q540fgra840i11cnw458ni
-    verified: false
-    hashtags: "#ootdanibohor, #ootd, #tbt, #diorcafe"
-  - username: "mikevsfood_oficial"
-    fullname: >-
-      MikeVsFood
-    bio: >-
-      Eating Without Limits Food Challenges Brand ambassador #106victories #1defeats
-    location: "Colombia"
-    followers: 24617
-    engagement: 172
-    commentsToLikes: 0.056104
-    id: ck0w4u3pm0ffj0i19xnl72mes
-    verified: false
-    hashtags: "#publicidad, #cocinerosautenticosmiller, #colaboracion, #foodporn"
   - username: "carogene"
     fullname: >-
       Carolina Gene
@@ -67,64 +127,4 @@ profiles:
     id: ck5qcr5v3rxuu0i11ypgwmqkl
     verified: false
     hashtags: ""
-  - username: "juanpatetrae"
-    fullname: >-
-      Juanpatetrae 🔪
-    bio: >-
-      ⬆️ Mira mis historias diarias ⬆️ ⚠️ #fooddaily ⚠️ Quédate y antójate todos los días🤤 Creador y buscador gastronómico 🔥 ✨ #foodlover ✨
-    location: "Colombia"
-    followers: 7934
-    engagement: 277
-    commentsToLikes: 0.118383
-    id: ck9wd786vedof0j78c7w5bgia
-    verified: false
-    hashtags: "#reels, #streetfood, #burgerlover, #cali"
-  - username: "foodiehub_baq"
-    fullname: >-
-      Foodiehub_baq | Food blog
-    bio: >-
-      #LosDelFoodPorn X rated food reviews/Reseñas gastronómicas XXX | RECETAS🔥 🇨🇴BAQ #AyHptaQueRico #foodporn Publicidad al DM
-    location: "Colombia"
-    followers: 8532
-    engagement: 603
-    commentsToLikes: 0.326293
-    id: ck8tae96crejy0j78nosmvr0e
-    verified: false
-    hashtags: "#delivery, #losdelfoodporn, #recipe, #sweettooth"
-  - username: "purpurall"
-    fullname: >-
-      A N D R E
-    bio: >-
-      💜 Mercadóloga y Publicista 🤘🏻Rockanrolera 🥡 Foodie 🌳 Sembremos árboles @1000enundia
-    location: "Colombia"
-    followers: 20963
-    engagement: 698
-    commentsToLikes: 0.037584
-    id: ck0w0n1fzf1aq0i19admo5yvn
-    verified: false
-    hashtags: "#world, #citygrammers, #onlyinsouthamerica, #colombiahd"
-  - username: "soydavidrc"
-    fullname: >-
-      David 🎧
-    bio: >-
-      🎤Radio host, Podcaster, 🎧 @vibra.co @candelaestereo.com #music #travel #food
-    location: "Colombia"
-    followers: 38564
-    engagement: 170
-    commentsToLikes: 0.032016
-    id: ck6ubkk9la4ir0j71expiqoco
-    verified: false
-    hashtags: "#shihtzu, #colombiafood, #streetfood, #seafood"
-  - username: "calicolfit"
-    fullname: >-
-      LUZ MARINA GARCIA A 🐼🦄
-    bio: >-
-      FITNNES Lifestyle 🏋️‍♀️ FOOD👩‍🍳 Abogada 🧑‍⚖️ Mom👩‍👦 Ceo @level_upsport @fitnesspointcali ambassador Distribuidora @bodyrock_fitness
-    location: "Colombia"
-    followers: 43808
-    engagement: 85
-    commentsToLikes: 0.048433
-    id: ck5zufszw2a0r0i14z8wpyi8c
-    verified: false
-    hashtags: "#home, #workout, #cale, #legs"
 ---

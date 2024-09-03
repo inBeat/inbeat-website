@@ -1,12 +1,24 @@
 ---
-title: Top 10 Fashion TikTok Influencers In New York In 2023
+title: Top 10 Fashion TikTok Influencers In New York In 2024
 description: >-
-  Find top fashion TikTok influencers in New York in 2023. Most popular hashtags: #fashion #newyork #fyp #nyc.
+  Find top fashion TikTok influencers in New York in 2024. Most popular hashtags: #fashion #newyork #fyp #nyc.
 platform: TikTok
-hits: 189
-text_top: Identify the top-rated TikTok profiles on inBeat.
-text_bottom: Our platform has 189 TikTok influencers like this in New York, United States for you to connect with.
+hits: 183
+text_top: Identify the most popular TikTok profiles on inBeat.
+text_bottom: Our platform holds 183 TikTok influencers like this in New York, United States for you to collaborate.
 profiles:
+  - username: "paigeywaigey420"
+    fullname: >-
+      paigeywaigey
+    bio: >-
+      nyc @paigemlev
+    location: "United States"
+    followers: 3554
+    engagement: 982
+    commentsToLikes: 0.052201
+    id: ckbf62nnkvgs20j23bikd6o11
+    verified: false
+    hashtags: "#fashion, #newyork, #4u, #fyp"
   - username: "angzel"
     fullname: >-
       Angzel
@@ -18,19 +30,19 @@ profiles:
     commentsToLikes: 0.015327
     id: ck8nf4stlq7rz0j78gtouc5xn
     verified: false
-    hashtags: "#fashion, #newyork, #friends, #nobullying"
+    hashtags: "#nostalgia, #fashion, #newyork, #ootd"
   - username: "nattiescloset"
     fullname: >-
       Nattiescloset
     bio: >-
       More fashion inspo on IG @nattiescloset
     location: "United States"
-    followers: 4211
-    engagement: 410
-    commentsToLikes: 0.069945
+    followers: 4212
+    engagement: 407
+    commentsToLikes: 0.070365
     id: ckbf7yjehy8pk0j234r4qjv1k
     verified: false
-    hashtags: "#foryou, #outfitinspiration, #ootd, #holidaydecor"
+    hashtags: "#thefloralescape, #fyp, #ootd, #outfitideas"
   - username: "juliettesxlife"
     fullname: >-
       Juliette🍓🌵
@@ -67,30 +79,18 @@ profiles:
     id: ck8z5ybnzjsl80j78i6ydrzeh
     verified: false
     hashtags: "#foryoupage, #foru, #fashion, #parsons"
-  - username: "paigeywaigey420"
+  - username: "sarhodgson"
     fullname: >-
-      paigeywaigey
+      Sarah Hodgson
     bio: >-
-      nyc @paigemlev
+      nyc co-host of @cryinginpublicpodcast ig: @sar.hodgson
     location: "United States"
-    followers: 3554
-    engagement: 982
-    commentsToLikes: 0.052201
-    id: ckbf62nnkvgs20j23bikd6o11
+    followers: 195200
+    engagement: 1239
+    commentsToLikes: 0.012266
+    id: ckd6gsbyx93qz0j23gtzk71z2
     verified: false
-    hashtags: "#fyp, #dayinmylife, #fashion, #nyc"
-  - username: "ryan_matta_"
-    fullname: >-
-      Ryan Matta
-    bio: >-
-      Photographer Videographer Drone Pilot. Your Smile Can Change The World!
-    location: "United States"
-    followers: 13700
-    engagement: 438
-    commentsToLikes: 0.039024
-    id: ckcviwwh3w6jq0j23qdokaplg
-    verified: false
-    hashtags: "#slowmo, #drone, #4thofjuly, #friends"
+    hashtags: "#food, #drinks, #bar, #viral"
   - username: "sunainabhagisb"
     fullname: >-
       Sunaina Bhagi
@@ -103,18 +103,6 @@ profiles:
     id: ckbwjfosa3jji0j23kdgxx6ip
     verified: false
     hashtags: "#christmas, #love, #bagelbopscontest, #sky"
-  - username: "brendanfoery"
-    fullname: >-
-      Brendan Foery
-    bio: >-
-      I make music and create stuff. www.brendanfoery.com
-    location: "United States"
-    followers: 10800
-    engagement: 1026
-    commentsToLikes: 0.125106
-    id: ck8w5hsmsa0yi0j78rl2yazr0
-    verified: false
-    hashtags: "#beat, #musicproducer, #duet, #music"
   - username: "ghanaianbabe"
     fullname: >-
       Nannette
@@ -127,4 +115,16 @@ profiles:
     id: ckacvzmhbq7uj0i78so03w7op
     verified: false
     hashtags: "#blackgirlmagic, #travel, #africangirl, #tiktoktravel"
+  - username: "evanhirschfashion"
+    fullname: >-
+      Evan Hirsch Fashion
+    bio: >-
+      Makeup & Fashion Designer from New York 👗 👠 🧵 Transforming Eveningwear
+    location: "United States"
+    followers: 53600
+    engagement: 1415
+    commentsToLikes: 0.094084
+    id: ckcunki38i2pa0j23st3cseqn
+    verified: false
+    hashtags: "#evansmasks, #fashion, #freemask, #giveaway"
 ---

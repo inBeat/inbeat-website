@@ -1,11 +1,11 @@
 ---
-title: Top 10 Dancers TikTok Influencers In Italy In 2023
+title: Top 10 Dancers TikTok Influencers In Italy In 2024
 description: >-
-  Find top dancers TikTok influencers in Italy in 2023. Most popular hashtags: #perte #foryou #trend #dance.
+  Find top dancers TikTok influencers in Italy in 2024. Most popular hashtags: #perte #foryou #trend #dance.
 platform: TikTok
-hits: 102
-text_top: Identify the best TikTok accounts on inBeat.
-text_bottom: Our platform has 102 TikTok influencers like this in Italy for you to connect with.
+hits: 100
+text_top: Analyze the most popular TikTok profiles on inBeat.
+text_bottom: Our database holds 100 TikTok influencers like this in Italy for you to contact.
 profiles:
   - username: "melissamonti2"
     fullname: >-
@@ -54,7 +54,7 @@ profiles:
     commentsToLikes: 0.014964
     id: ck9dtxk51dzvm0j783rmphcfz
     verified: true
-    hashtags: "#dance, #pollydance, #justdance2021, #tiktokita"
+    hashtags: "#dance, #ad, #pollydance, #justdance2021"
   - username: "emmadeltoro"
     fullname: >-
       emmadeltoro
@@ -109,12 +109,12 @@ profiles:
     bio: >-
       DANTE Dancer/Singer CEO of “TU SABE”
     location: "Italy"
-    followers: 336200
-    engagement: 1502
-    commentsToLikes: 0.017701
+    followers: 353400
+    engagement: 1213
+    commentsToLikes: 0.014135
     id: ckb9pypyzlgte0j23bkjkeebp
     verified: false
-    hashtags: "#relazioni, #losapeviche, #italia, #perte"
+    hashtags: "#duetto, #amici20, #amicidimariadefilippi, #perte"
   - username: "francydeltoro"
     fullname: >-
       Francesca del toro

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Cinema Instagram Influencers In 2023
+title: Top 10 Cinema Instagram Influencers In 2024
 description: >-
-  Find top cinema Instagram influencers in 2023. Most popular hashtags: #photography #love #nature.
+  Find top cinema Instagram influencers in 2024. Most popular hashtags: #reels #life #love #instagood.
 platform: Instagram
-hits: 9384
-text_top: Analyze the most popular Instagram accounts on inBeat.
-text_bottom: Our search engine has 9384 Instagram influencers like this for you to connect with.
+hits: 10924
+text_top: Discover the best Instagram profiles on inBeat.
+text_bottom: inBeat holds 10924 Instagram influencers like this for you to pitch.
 profiles:
   - username: "lynncinema"
     fullname: >-
       Cinéma
     bio: >-
-      One of the oldest cinema pages of instagram. You’ll find some personal reviews, facts, quotes and everything cinema-related.
+      A real authentic taste of cinema. I post movie reviews, facts, and everything in between.♥️ @lynnsfeir
     location: "India"
-    followers: 124113
-    engagement: 294
-    commentsToLikes: 0.015809
+    followers: 158709
+    engagement: 869
+    commentsToLikes: 0.006100
     id: ck13440czulad0i19xnj7a4yv
     verified: false
-    hashtags: "#redweapon, #arri, #arrialexamini, #steadicam"
-  - username: "sennabellod"
-    fullname: >-
-      Senna Bellod
-    bio: >-
-      senna@cinemates.amsterdam YouTubekanaal🎥:
-    location: "Netherlands"
-    followers: 311546
-    engagement: 841
-    commentsToLikes: 0.003866
-    id: ck14hti9pc23k0i19f9peeevd
-    verified: false
-    hashtags: "#gekregen"
-  - username: "sjomanart"
-    fullname: >-
-      Jacob Sjoman
-    bio: >-
-      Golf & Travel Inspiration 🌎 International Photographer/Cinematographer Contact: info@sjomanart.com ⛳️GolfWRX🚁📸🎬🎥 YouTube:Jacob Sjoman
-    location: "Sweden"
-    followers: 19472
-    engagement: 393
-    commentsToLikes: 0.043313
-    id: ck0tz6ir3p8980i19s6abva0m
-    verified: false
     hashtags: ""
-  - username: "imshrihan"
+  - username: "vancityh"
     fullname: >-
-      Shrihan
+      Henry | Food & Travel | Visual Storytelling
     bio: >-
-      Na gamyam cinema Respect Women #BB6👁PEOPLE’s Winner shrihanactor@gmail.com Fan of NTR & SURIYA😍 Oct-19🍼
+      Videography | Cinematography | Photography 📸👨‍💻UGC Creator📍Vancouver, BC 📩DM for Collaborations
+    location: "Canada"
+    followers: 50745
+    engagement: 6953
+    commentsToLikes: 0.172176
+    id: ck5qce0ffq3gd0i11e5pix7xa
+    verified: false
+    hashtags: "#japanesefood, #richmondbc, #vancouverfoodie, #ricerolls"
+  - username: "kanikkakapur"
+    fullname: >-
+      Kanikka Kapur
+    bio: >-
+      Rise to grace Dono in cinemas now!
     location: "India"
-    followers: 382629
-    engagement: 2593
-    commentsToLikes: 0.004247
-    id: ck5cch9u8hcwq0i11y585smzz
+    followers: 424381
+    engagement: 692
+    commentsToLikes: 0.020593
+    id: ck8t4ru7z7ss80j784nrg32x5
     verified: false
-    hashtags: "#voteforshrihan, #bbflashback, #wearewithyoushrihan, #supportshrihan"
-  - username: "avidaemsalvador"
+    hashtags: "#krishnasangradha, #krishna, #radha, #vrindavan"
+  - username: "jonnyroams"
     fullname: >-
-      A Vida Em Salvador
+      ᴊᴏɴɴʏ ʜɪʟʟ
     bio: >-
-      👨🏽‍💻 Salvador por Caio Costa - @blogcitario e cinema @cinemaemsalvador 📧 Publicidade: caiovcosta@gmail.com ⬇️ Acesse o blog para + dicas
-    location: "Brazil"
-    followers: 138244
-    engagement: 297
-    commentsToLikes: 0.020931
-    id: ck1342ymxufug0i19lh2bionm
+      🎥 visual storyteller // horizontal is king hello@jonnyhillphoto.com LR presets | Cinematic LUTs👇🏼
+    location: "United States"
+    followers: 94029
+    engagement: 1726
+    commentsToLikes: 0.056419
+    id: ck0w0zqb9gu7x0i192bv5suv0
     verified: false
-    hashtags: "#salvadorbahia, #avidaemsalvador, #salvador, #bahia"
-  - username: "gossiproomoff"
+    hashtags: "#adventure, #freedom, #tetons, #zionnationalpark"
+  - username: "peterk003"
     fullname: >-
-      Gossip Room
+      karthick N
     bio: >-
-      Bienvenue 👋 Twitter et TikTok : GossipRoomOff ✉️ : gossiproom@marmeladz.com #news #travel #food #tv #cinema #media
-    location: "France"
-    followers: 2229913
-    engagement: 392
-    commentsToLikes: 0.005735
-    id: ck15puxoxzr560i19a5btshve
+      Upcoming film 🎥 - Vaazhu Vaazha Vidu Dec -14🎂 சோதனைய தூக்கிப்போடு சாதனைய நோக்கி ஓடு YT page- @seniy.oo Me & Cinema🌍 Collab & Shoot- @spot_lightpr
+    location: "India"
+    followers: 1855637
+    engagement: 856
+    commentsToLikes: 0.005521
+    id: ck0w2kcxwosy60i19wb7u1vqd
+    verified: false
+    hashtags: "#funnyreels, #success, #boyfriend, #dance"
+  - username: "bertiegregory"
+    fullname: >-
+      Bertie Gregory
+    bio: >-
+      Wildlife filmmaker Host of ‘Animals Up Close’ streaming now on @disneyplus Cinematography BAFTA and @nhm_wpy winner @NatGeo Speaker
+    location: "Canada"
+    followers: 951589
+    engagement: 501
+    commentsToLikes: 0.011283
+    id: ck0tw2zpidst50i19kckh5l07
     verified: true
-    hashtags: "#picoftheday, #cinema, #videooftheday, #avengers"
-  - username: "aydavii"
+    hashtags: "#underwater, #scotland, #kelp, #ukdiving"
+  - username: "maxwelhohn"
     fullname: >-
-      Ayda Dehnavi
+      Maxwel Hohn
     bio: >-
-      studied cinema Persian
-    location: "Turkey"
-    followers: 23316
-    engagement: 227
-    commentsToLikes: 0.012234
-    id: ck9wi97g919iv0j78vggdd4vp
+      Emmy Award-Winning Cinematographer ‘Secrets of the Octopus’ coming to Disney+ on Earth Day Diving, Filmmaking, Exploring & Wildlife Conservation
+    location: "Canada"
+    followers: 131437
+    engagement: 677
+    commentsToLikes: 0.020578
+    id: ck0vv6j4qnre20i190yw8a20k
     verified: false
-    hashtags: "#girl, #summer, #blackandwhite, #fashion"
-  - username: "olivertakac"
+    hashtags: "#canada, #pacificocean, #kelpforest, #seaotter"
+  - username: "pixl_1.8"
     fullname: >-
-      Oliver Takáč
+      KUNAL B | TRAVELLER 📍🇮🇳
     bio: >-
-      photographer,colorist,cinematographer born in the shadows of the tallest building takac.oliver@gmail.com
-    location: "United Kingdom"
-    followers: 195510
-    engagement: 217
-    commentsToLikes: 0.007531
-    id: ck0tzzuf6s6ow0i1910yyei2c
+      🎬 Editor | Traveller | Cinematographer | Colorist 🚀 Follow for more Cinematic Feels ⚠️ Creating Unusual’s Usually! 🏴‍☠️ 📩 DM/ Mail for Collabs
+    location: "India"
+    followers: 111489
+    engagement: 5936
+    commentsToLikes: 0.023555
+    id: ck0tvug47cu6s0i19jxd9kxbv
     verified: false
-    hashtags: "#makemomentsmega, #momentbyoliver, #xiaomi12tseries, #horses"
-  - username: "ferryrusli"
+    hashtags: "#galaxys23fe, #photographers, #outofthephone, #samsung"
+  - username: "ameer_sha_amee_"
     fullname: >-
-      Ferry Rusli
+      A J
     bio: >-
-      Cinematographer Godox supported by @doss.id Contact: ferryrusli@ymail.com
-    location: "Indonesia"
-    followers: 24973
-    engagement: 207
-    commentsToLikes: 0.083335
-    id: ck0vxk91ezb3m0i19u0u7eqr1
+      THEATRE 🎭 CINEMA ACTOR.SCRIPTWRITER.DIRECTOR Personal - @ameer_here__ enquiries- shamedia555@gmail.com Founder of _ @sha__media
+    location: "India"
+    followers: 596223
+    engagement: 766
+    commentsToLikes: 0.016117
+    id: ck8wf92qyfcbu0j78nnbaoqqc
     verified: false
-    hashtags: "#kohfersuting, #erafone, #rwsmoments, #masterclassbyerafone"
-  - username: "pattri.lc"
+    hashtags: "#mallu, #explore, #kerala, #fyp"
+  - username: "dushyantravaldz"
     fullname: >-
-      P A T R I C I A   L Ó P E Z
+      DUSHYANT RAVAL PHOTOGRAPHY
     bio: >-
-      📍LC, Galicia, Spain Sonriendo, que es gerundio✨ 📥 p.lcarballeira@gmail.com Youtube Channel & Cinematic Dron Session in Galicia⤵️
-    location: "Spain"
-    followers: 4809
-    engagement: 633
-    commentsToLikes: 0.090978
-    id: ck9hc6zevk1ak0j78buqmc3z5
+      Capturing Unscripted moments Award Winning Cinematography - EMF Other side @thedushyantraval
+    location: "India"
+    followers: 46729
+    engagement: 1061
+    commentsToLikes: 0.012120
+    id: ck0u073vfsviw0i19p38ddosr
     verified: false
-    hashtags: "#landscape, #nature, #shein, #selfie"
+    hashtags: "#my, #soi, #destinationweddingphotographer, #glittermakeup"
 ---

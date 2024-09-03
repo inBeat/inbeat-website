@@ -1,11 +1,11 @@
 ---
-title: Top 10 Music TikTok Influencers In Canada In 2023
+title: Top 10 Music TikTok Influencers In Canada In 2024
 description: >-
-  Find top music TikTok influencers in Canada in 2023. Most popular hashtags: #music #duet #fyp.
+  Find top music TikTok influencers in Canada in 2024. Most popular hashtags: #duet #fyp #music.
 platform: TikTok
-hits: 855
-text_top: Analyze the top-rated TikTok profiles on inBeat.
-text_bottom: Our database has 855 TikTok influencers like this in Canada for you to contact.
+hits: 842
+text_top: See the top-rated TikTok influencers on inBeat.
+text_bottom: Our search engine aggregates 842 TikTok influencers like this in Canada for you to connect with.
 profiles:
   - username: "angeingell"
     fullname: >-
@@ -61,12 +61,12 @@ profiles:
     bio: >-
       For full videos, music and FREE lessons please check my page below 👇🏼
     location: "Canada"
-    followers: 8674
-    engagement: 1470
-    commentsToLikes: 0.149393
+    followers: 8905
+    engagement: 1262
+    commentsToLikes: 0.203704
     id: ckac5svbldkye0i78ggwin3bg
     verified: false
-    hashtags: ""
+    hashtags: "#guit, #guitarcentral, #acoustic, #jazzguitar"
   - username: "kaitlynmusic.ca"
     fullname: >-
       kaitlyn
@@ -79,18 +79,6 @@ profiles:
     id: cka0jrnsqjdaq0i78cv8p34zh
     verified: false
     hashtags: "#music, #attackontitan, #bye2020, #fyp"
-  - username: "roland.prince"
-    fullname: >-
-      Roland Prince
-    bio: >-
-      Audio Engineer, Car enthusiast, Sim Racer 🚗 💨 🇨🇦 Sideways music review 👇🏾
-    location: "Canada"
-    followers: 28700
-    engagement: 1279
-    commentsToLikes: 0.095464
-    id: ck92uxut8o2uj0j78ozj1oz9u
-    verified: false
-    hashtags: "#carguy, #getreadywitholdspice, #projectcar, #lovemycar"
   - username: "tiobandz"
     fullname: >-
       Tio💰
@@ -127,4 +115,16 @@ profiles:
     id: ck90zswc2f6oj0j7846pdk7gy
     verified: false
     hashtags: "#hiphop, #rap, #music, #musicvideo"
+  - username: "london.is.awesome"
+    fullname: >-
+      London
+    bio: >-
+      "live with musical.ly, live passion"
+    location: "Canada"
+    followers: 5997
+    engagement: 1015
+    commentsToLikes: 0.111692
+    id: ckbkzye7lwi4e0j23cdkggohb
+    verified: false
+    hashtags: "#cat, #timewarpscan, #2020wrapped, #fyp"
 ---

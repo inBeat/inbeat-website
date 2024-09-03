@@ -1,11 +1,11 @@
 ---
-title: Top 10 Yoga TikTok Influencers In Germany In 2023
+title: Top 10 Yoga TikTok Influencers In Germany In 2024
 description: >-
-  Find top yoga TikTok influencers in Germany in 2023. Most popular hashtags: #fyp #foryou #yoga #foryoupage.
+  Find top yoga TikTok influencers in Germany in 2024. Most popular hashtags: #fyp #yoga #foryou #comedy.
 platform: TikTok
 hits: 30
-text_top: Identify the best TikTok accounts on inBeat.
-text_bottom: Our database aggregates 30 TikTok influencers like this in Germany for you to pitch.
+text_top: See the top-rated TikTok profiles on inBeat.
+text_bottom: Our platform has 30 TikTok influencers like this in Germany for you to pitch.
 profiles:
   - username: "folienbetrieb.de"
     fullname: >-

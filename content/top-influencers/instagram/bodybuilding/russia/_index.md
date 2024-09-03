@@ -1,11 +1,11 @@
 ---
-title: Top 10 Bodybuilding Instagram Influencers In Russia In 2023
+title: Top 10 Bodybuilding Instagram Influencers In Russia In 2024
 description: >-
-  Find top bodybuilding Instagram influencers in Russia in 2023. Most popular hashtags: #bodybuilding #fitness #motivation #body.
+  Find top bodybuilding Instagram influencers in Russia in 2024. Most popular hashtags: #bodybuilding #motivation #fitness #body.
 platform: Instagram
-hits: 86
-text_top: Analyze the most popular Instagram accounts on inBeat.
-text_bottom: Our database holds 86 Instagram influencers like this in Russia for you to pitch.
+hits: 88
+text_top: Analyze the most popular Instagram profiles on inBeat.
+text_bottom: Our database holds 88 Instagram influencers like this in Russia for you to work with.
 profiles:
   - username: "korableva.10_ifbb_pro"
     fullname: >-
@@ -79,52 +79,52 @@ profiles:
     id: ck5pvkbjziaya0i11heek6eji
     verified: false
     hashtags: "#ufc242, #khabibtime, #khabibnurmagomedov, #ufc"
-  - username: "alexeishredder"
+  - username: "los_strong90"
     fullname: >-
-      Alexei SHREDDER-Klakotsky
+      Евгений Лось 💎⛏️
     bio: >-
-      Провожу персональные тренировки, продаю личную базовую программу тренировок для зала и турников. Живу в Москве
+      🔝all natural #calisthenics 💯 🏆#Guinness World Record Holder 🔴YouTube 2.7🍋 💪 Программы тренировок в директ📄 🔥🚒#firefighter
     location: "Russia"
-    followers: 53999
-    engagement: 539
-    commentsToLikes: 0.045648
-    id: ck0u139zuvnqo0i19z21tu8te
+    followers: 201633
+    engagement: 572
+    commentsToLikes: 0.012410
+    id: ck6u788ock1gm0j71almefgp8
     verified: false
-    hashtags: "#workout, #powerful, #bodybuilding, #naturalbodybuilding"
-  - username: "anikagul"
+    hashtags: "#sea, #physics, #pullups, #mode"
+  - username: "sonyatemnikova"
     fullname: >-
-      𝔸𝕟𝕚𝕜𝕒🌸
+      Sofia Temnikova💙
     bio: >-
-      🌸 ᴄᴏᴍᴇ ᴡɪᴛʜ ᴍᴇ, ɪ’ʟʟ ʀᴜɪɴ ʏᴏᴜʀ ᴍᴏᴏᴅ 🌸 ✊🏻✊🏼✊🏽✊🏾✊🏿🏳️‍🌈🌏❤️ 🌸 Baby🐕 @achi.akita 🌸 RollerClubBaku🛼 @rollerclub.baku 🌸 Barista☕️ @coffeebreak_baku
+      • Автоблогер • Сотрудничество - temnikova.promo@gmail.com • live - @sonyatemnikova_live
     location: "Russia"
-    followers: 2945
-    engagement: 2069
-    commentsToLikes: 0.125458
-    id: ckap257vdxfbe0i78m62qss15
+    followers: 1148506
+    engagement: 344
+    commentsToLikes: 0.009165
+    id: ck0w68n2z7e200i198tgv2k8j
     verified: false
-    hashtags: ""
-  - username: "zlatatarasova"
+    hashtags: "#g63, #carsofinstagram, #sun, #girls"
+  - username: "yaki_ifbbpro"
     fullname: >-
-      Zlata
+      VLADIMIR YAKOVLEV
     bio: >-
-      Fitness Coach, Moscow #itsallaboutmylegs
+      @scitecnutrition @aerofit_professional @master_of_gains 🥦 @yaki_nutrition_plan 🥩 @yaki_coach @realsteel_official VLOG на YouTube
     location: "Russia"
-    followers: 45473
-    engagement: 356
-    commentsToLikes: 0.034320
-    id: ckap1joexuteg0i78cawh1t9t
+    followers: 102530
+    engagement: 285
+    commentsToLikes: 0.023132
+    id: ck14jobv8ld5b0i199r7o3u65
     verified: false
-    hashtags: "#fitness, #zlatatarasova, #fitnesstrainer, #itsallaboutmylegs"
-  - username: "andrey.skala"
+    hashtags: "#bodybuilding, #workout, #gains, #shredded"
+  - username: "timursabirovr"
     fullname: >-
-      Andrey
+      Timur Sabirov
     bio: >-
-      🔝Топ-тренер по фитнесу🔝 🖥Ведение: тренировки/питание🖥 🔺Ambassador Reebok🔺 👨🏻‍🎓IFBB Weider College👨🏻‍🎓 По воросам сотрудничества в Direct.
+      President UzFBF @uzbekistanfitnessfederation Founder @proform_fitness @generation_iron_centralasia @generationiron_uzbekistan_gym @muskulim_glyukomin
     location: "Russia"
-    followers: 4354
-    engagement: 1409
-    commentsToLikes: 0.236494
-    id: ck6u4lua34gaj0j71407tq010
+    followers: 90227
+    engagement: 121
+    commentsToLikes: 0.046355
+    id: ckap3kz6b3g1w0i78i5kihliv
     verified: false
-    hashtags: "#body, #men, #menstyle, #reebokrussia"
+    hashtags: "#kazahstan, #muskulim, #fitness, #russia"
 ---

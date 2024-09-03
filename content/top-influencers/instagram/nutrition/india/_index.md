@@ -1,130 +1,130 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In India In 2023
+title: Top 10 Nutrition Instagram Influencers In India In 2024
 description: >-
-  Find top nutrition Instagram influencers in India in 2023. Most popular hashtags: #lifestyle #fitness #health.
+  Find top nutrition Instagram influencers in India in 2024. Most popular hashtags: #fitness #trending #reels #motivation.
 platform: Instagram
-hits: 194
-text_top: Analyze the best Instagram influencers on inBeat.
-text_bottom: Our platform holds 194 Instagram influencers like this in India for you to collaborate.
+hits: 303
+text_top: Analyze the most popular Instagram influencers on inBeat.
+text_bottom: inBeat has 303 Instagram influencers like this in India for you to work with.
 profiles:
-  - username: "rohitkhatrifitness"
+  - username: "_mr.lift_"
     fullname: >-
-      Rohit Khatri
+      BAJIO MJ | _ MR LIFT_ 🧿
     bio: >-
-      🔹Sports Science Nutritionist 🔹Brands : rohitkhatribiz@gmail.com 🔹Dm For Paid Online Coaching 📝 🔹India’s No. 1 Fitness Channel (YouTube)
+      🇮🇳🇦🇪🇴🇲 Fitness athlete 🏅 Reps Level 4 certified trainer 📚 DM for coaching enquiries GYM |ONLINE COACHING FITNESS, NUTRITION, MINDSET Carpediem!
     location: "India"
-    followers: 614738
-    engagement: 467
-    commentsToLikes: 0.004563
-    id: ck8wd6rbxdgf00j78gz3so4nb
+    followers: 29193
+    engagement: 788
+    commentsToLikes: 0.045108
+    id: ck5bxozj1o4yt0i11db31niyo
     verified: false
-    hashtags: "#hotcouples, #bicepsworkout, #rohitsoniya, #motivation"
-  - username: "ifbbpro_jkaliwala"
+    hashtags: "#workout, #bodybuilding, #instagram, #mrliftthings"
+  - username: "joravar_singh1"
     fullname: >-
-      Junaid Kaliwala
+      JORAVAR SINGH KALSI
     bio: >-
-      🥇First MP IFBBPRO FROM🇮🇳 ❤️HAPPY, HEALTHY, LOVED 📍BUILDING @sourceofsupplements @dopesports.in @alpinohealthfoods @beyond_gummies @bubble_up_nutrition
+      385k Subscribes on YouTube Email AT Joravarkalsi01@gmail.com Athlete @bigmuscles_nutrition MGMT @sparkupreach
     location: "India"
-    followers: 333970
-    engagement: 247
-    commentsToLikes: 0.010723
-    id: ck5hrf80lurx60i11laqzr2nh
-    verified: true
-    hashtags: "#gentleman, #health, #calmsekaam, #fitfam"
-  - username: "komalchhikara1"
-    fullname: >-
-      Komal Chhikara Rathi
-    bio: >-
-      Here for some fun 🤩 Physiotherapist | Nutritionist | Yoga Professional | Influencer | Fitness Enthusiast Business 📧: komal.enquiry@gmail.com
-    location: "India"
-    followers: 83159
-    engagement: 344
-    commentsToLikes: 0.013813
-    id: ck9hb43p6fbsm0j78er6ip0aq
+    followers: 347136
+    engagement: 1433
+    commentsToLikes: 0.008289
+    id: ck0ud1v95i7ud0i197cz03exe
     verified: false
-    hashtags: "#trendingnow, #bollywood, #fashion, #punjab"
-  - username: "manthanpatelia"
+    hashtags: "#trendingreels, #motivation, #joravarsinghkalsi, #fitness"
+  - username: "arshfam"
     fullname: >-
-      Manthan Patelia
+      Adv. Arsh 🧑‍💼
     bio: >-
-      🤾‍♂️ Young hustler filled with positivity 🛩 Globetrotter 🌿 Nutrition & wellness advisor 🕶 Expanding Empire 🎖 Founders Platinum @amway @xsnation
+      BE HONEST ❤️ Cert. Nutritionist 🥗- @proteinandfats 🔐- @nofiltr.group My story & Transformation 👇🏻💪🏻
     location: "India"
-    followers: 7364
-    engagement: 1655
-    commentsToLikes: 0.022419
-    id: ckap586zlam0d0i786uqhgqky
+    followers: 741856
+    engagement: 528
+    commentsToLikes: 0.004055
+    id: ck6tqpd7dsy8l0j71zvdoypvq
     verified: false
-    hashtags: "#jobsearching, #customizeyourlife, #artistry, #nocaption"
-  - username: "roaming_nutritionist"
+    hashtags: "#birbilling, #staysforalifetime, #arsheen, #am"
+  - username: "tejasyadavv"
     fullname: >-
-      Ambika Dutt
+      Tejas Yadav
     bio: >-
-      Nutritionist on tour✈️ 🌍| Content creator| Founder @shapetutor_ Ambassador @sixpack.nutrition Code -AMBIKA Latest vlog 👇🏻
+      📚 ECONOMIST Youtube : 650K 📩 Business: tejascr7@live.com Athlete @bigmuscles_nutrition | Use Code : BMTEJAS
     location: "India"
-    followers: 409128
-    engagement: 509
-    commentsToLikes: 0.014259
-    id: ck138gls5g4vl0i19espus3bq
+    followers: 395251
+    engagement: 1782
+    commentsToLikes: 0.011929
+    id: ckxz7611ydos30j23kv396lua
     verified: false
-    hashtags: "#valentines, #wellness, #energy, #weekend"
+    hashtags: "#explore, #transformation, #fitness, #supplements"
   - username: "hitesh__tekwani_"
     fullname: >-
       Hitesh Tekwani
     bio: >-
-      A software engineer Fitness || Fashion || Lifestyle Jaipur↔️Delhi↔️Mumbai ISSA CERT. Nutritionist Training @hitesh__here_to_train Youtube
+      Lifestyle / Grooming / Fitness Checkout @jewelsbyvj_ ISSA CERT. Nutritionist
     location: "India"
-    followers: 92511
-    engagement: 523
-    commentsToLikes: 0.024640
+    followers: 248744
+    engagement: 422
+    commentsToLikes: 0.003535
     id: ck9hbr488i4d90j78ku43voux
     verified: false
-    hashtags: "#life, #gymlife, #skincare, #influencer"
-  - username: "theaniray"
+    hashtags: "#skincare, #love, #lifestyle, #tips"
+  - username: "parth.fitness.lifestyle"
     fullname: >-
-      THE ANI RAY OFFICIAL
+      Parth Budhiraja
     bio: >-
-      🤵FASHION BLOGGER 📹 INDIAN YOUTUBER (275k +SUBSCRIBERS) 💪FITNESS EXPERT 🥗NUTRITIONIST ✈️TRAVELER 📩Collab flair.ani@gmail.Com
+      •🇮🇳 •Chandigarh|Mumbai|Dubai|London •@issaonline Certified Sports Nutritionist •Macros/Recipes/Workouts/Motivation •Here to Make you❤️➡️🏋️‍♀️
     location: "India"
-    followers: 23958
-    engagement: 115
-    commentsToLikes: 0.112775
-    id: ck5hhym48aq6u0i119j40ehj2
+    followers: 13403
+    engagement: 2057
+    commentsToLikes: 0.021123
+    id: ck5pze1ub0ij40i11sx4ye1hr
     verified: false
-    hashtags: "#lifestyle, #life, #poems, #fashion"
-  - username: "julieebaybee"
+    hashtags: "#reels, #explorer, #fitnessmotivation, #veins"
+  - username: "tomar_puja"
     fullname: >-
-      Julie
+      Puja Tomar
     bio: >-
-      👑 Princess Jasmine ✨ Indian/Dominican 🌺 @lotusinfused 💪🏽 @lionedge_nutrition (Julie10 @ checkout) Student . Model . Bartender . Influencer
+      JESUS👑 1st Indian🇮🇳female @mfn_mma world champion 🏆🥇 WUSHU Gold Medalist 🥇🥇🥇🥇🥇 Contact— poojahk52@gmail.com Fueled by _ @bigmuscles_nutrition 📍Bali
     location: "India"
-    followers: 75853
-    engagement: 634
-    commentsToLikes: 0.023002
-    id: ck6u1nad8mree0j719mhuc2z3
+    followers: 418951
+    engagement: 1456
+    commentsToLikes: 0.010007
+    id: ck5zya13t9hyu0i14zsdgtv54
     verified: false
-    hashtags: "#princess, #fantanas, #flavoredsodas, #whodiditbetter"
-  - username: "sanyogitaghorpade"
+    hashtags: "#pujatomar, #mma, #somafightclub, #mfn"
+  - username: "lovepreet_athlete"
     fullname: >-
-      Sanyogita Ghorpade
+      IFBB PRO LOVEPREET SINGH
     bio: >-
-      Indian Badminton player🇮🇳 Shiv Chatrapati Awardee🏆 Air India athlete✈ Nutrition partner @steadfastnutrition
+      MEN’S PHYSIQUE @ifbbprotaiwan 2023🥉 Overall A.Olympia 🇮🇳2022 Tv 📺 Ptc punjabi Mrpunjab 2016 @one.science.nutrition.in ਪਿੰਡ ਫ਼ੂਲੇਵਾਲ
     location: "India"
-    followers: 11707
-    engagement: 623
-    commentsToLikes: 0.036608
-    id: ck602nooyi6990i14wfqq2pg1
+    followers: 127153
+    engagement: 412
+    commentsToLikes: 0.011250
+    id: ck6u0w4j7i31i0j718wgmqr3p
     verified: false
-    hashtags: "#feels, #happysoul, #badmintongirl, #goodvibes"
-  - username: "chhillar.mohit"
+    hashtags: "#punjab, #updates, #motivation, #beast"
+  - username: "rajat_9629"
     fullname: >-
-      Mohit Chhillar
+      Rajat Dalal
     bio: >-
-      Indian Kabaddi Player.. PKL Season-1 2 3 UMumba ..4 bulls...5 Haryana..6 Panthers..7 Tamil thalivas💪.Wish me on 13 July 🎂Divine Nutrition Athlete🙏
+      BEATABLE LIFTS ,UNBEATABLE MINDSET !!! Management @thechetanjangra @bigmuscles_nutrition code:BMTAGDE
     location: "India"
-    followers: 98996
-    engagement: 527
-    commentsToLikes: 0.006048
-    id: ck0vwenpgtcmp0i199obn64i7
-    verified: true
-    hashtags: "#frnds, #lifefitness, #enjoymarriagefunction, #daughterlove"
+    followers: 969132
+    engagement: 1471
+    commentsToLikes: 0.032513
+    id: ck8szmpoyp0s10j78fxic28kw
+    verified: false
+    hashtags: ""
+  - username: "fitnesspal._"
+    fullname: >-
+      Sakshi Kirpalani
+    bio: >-
+      ⚡️ACSM Trainer & Nutritionist 📍India
+    location: "India"
+    followers: 23363
+    engagement: 2302
+    commentsToLikes: 0.025911
+    id: ckto9uirieyw20j23c38f3d1s
+    verified: false
+    hashtags: "#explore, #trending, #formcheck, #tiktok"
 ---

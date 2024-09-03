@@ -1,24 +1,12 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Tokyo In 2023
+title: Top 10 Yoga Instagram Influencers In Tokyo In 2024
 description: >-
-  Find top yoga Instagram influencers in Tokyo in 2023. Most popular hashtags: #japan #yoga #fashion #ootd.
+  Find top yoga Instagram influencers in Tokyo in 2024. Most popular hashtags: #japan #tokyo #ootd #fashion.
 platform: Instagram
-hits: 25
-text_top: Identify the top-rated Instagram influencers on inBeat.
-text_bottom: Our database aggregates 25 Instagram influencers like this in Tokyo, Japan for you to contact.
+hits: 29
+text_top: Identify the most popular Instagram influencers on inBeat.
+text_bottom: inBeat has 29 Instagram influencers like this in Tokyo, Japan for you to work with.
 profiles:
-  - username: "belleyogatokyo"
-    fullname: >-
-      Jo in Tokyo 🇯🇵
-    bio: >-
-      🧘🏻‍♀️Yoga / Saving the Planet 🌏 🏋🏻Team @allysangels_fitness @liforme -10% code 👉BELLETOKYO 👇Discount links👇
-    location: "Japan"
-    followers: 65284
-    engagement: 115
-    commentsToLikes: 0.058017
-    id: ck0tycg14mewo0i19onieu1ta
-    verified: false
-    hashtags: "#splits, #humpdayvibes, #amamioshima, #yogaonthebeach"
   - username: "saorimahalo"
     fullname: >-
       海  隼人  /  kai hayato
@@ -103,6 +91,18 @@ profiles:
     id: ckaorwsazp3u80i78u2dyb74s
     verified: false
     hashtags: "#cute, #follow, #life, #family"
+  - username: "samanthaausa"
+    fullname: >-
+      Sammy Schultz (Achterberg)
+    bio: >-
+      Olympian • Modern Pentathlon - Personal Trainer, Pilates & Yoga Instructor - Army National Guard - Colorado girl🏔 • Stay Humble•Work Hard•Be Kind•
+    location: "Japan"
+    followers: 14359
+    engagement: 249
+    commentsToLikes: 0.051332
+    id: ck6tpknxfkegs0j7124bhp46n
+    verified: true
+    hashtags: "#coloradosprings, #5uperathlete, #colorado, #wellness"
   - username: "hiromi.tomii"
     fullname: >-
       Hiromi.Tomii

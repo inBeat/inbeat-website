@@ -1,130 +1,130 @@
 ---
-title: Top 10 Travel Instagram Influencers In Singapore In 2023
+title: Top 10 Travel Instagram Influencers In Singapore In 2024
 description: >-
-  Find top travel Instagram influencers in Singapore in 2023. Most popular hashtags: #singapore #travel #hongkong #staysafe.
+  Find top travel Instagram influencers in Singapore in 2024. Most popular hashtags: #sgfoodie #sgfood #sgfoodies #sp.
 platform: Instagram
-hits: 54
-text_top: Analyze the most popular Instagram profiles on inBeat.
-text_bottom: inBeat has 54 Instagram influencers like this in Singapore for you to collaborate.
+hits: 139
+text_top: See the top-rated Instagram profiles on inBeat.
+text_bottom: inBeat has 139 Instagram influencers like this in Singapore for you to work with.
 profiles:
-  - username: "ihikhi"
+  - username: "christps"
     fullname: >-
-      Ikhwan Hidayat
+      Christps
     bio: >-
-      Aviation and Travels • Indonesian • FujiFilm XT3 • iPhone 14pro • All photos and videos were taken by myself unless stated • My YouTube channel:
+      🇲🇾🇸🇬 Travelling|Wonderluster|Foodies|Cooking|Gym Foodies: @chrisfoodies #ctpslog #christps #chrisfoodies
     location: "Singapore"
-    followers: 55067
-    engagement: 391
-    commentsToLikes: 0.027839
-    id: ck5zpjfx6ss2e0i14c4srqzks
+    followers: 5228
+    engagement: 1115
+    commentsToLikes: 0.078763
+    id: ckaoz66itkjqb0i784spydjr4
     verified: false
-    hashtags: "#pilot, #ihikhisq, #singaporeair, #inflightmeal"
-  - username: "whathebronte"
+    hashtags: "#instadaily, #lightroom, #shotoniphone11promax, #exploresg"
+  - username: "jessluvzs"
     fullname: >-
-      Danil Palma
+      𝒥𝑒𝓈𝓈𝒾𝒸𝒶 𝐿𝑒𝑒
     bio: >-
-      ✖️ Lifestyle | Travel | Fitness 📍 Singapore ✉️ contact@danilpalma.com
+      SG Lifestyle | Food | Fashion | Travel ✈️🇹🇭🇹🇷🇨🇳 💜YouTrip Ambassador <JESSL5> 💗Bioderma Creator 💙#joashloon #jonasloon Skaterboys
     location: "Singapore"
-    followers: 78810
-    engagement: 326
-    commentsToLikes: 0.011725
-    id: ck5hdxfebpvl90i11tbrvfx1s
+    followers: 11350
+    engagement: 587
+    commentsToLikes: 0.229463
+    id: clm70ak0kgeu50j08pov34h6m
     verified: false
-    hashtags: "#uipsingapore, #halloween, #halloweenmakeup, #airnzbungychallenge"
-  - username: "tjinlee"
+    hashtags: "#whati8todaysg, #sgfood, #jessicaloon, #sglifestyle"
+  - username: "leslie.koh"
     fullname: >-
-      Tjin Lee
+      Leslie Koh | Food & Travel
     bio: >-
-      Adventurer, Boymama, Home & Travel. Blazing my own trail. Founder/ Creative @mercurysocial Co-founder @lifebeyondgrades @crib_society 🇸🇬
+      📍 Currently Singapore | Japan in May 🛫 Exploring Singapore, Japan & Beyond 🌏 🍜 Food Reviews | 🧳 Travel Guides 📩 DMs Open for Collabs | PR依頼はDMまで
     location: "Singapore"
-    followers: 46150
-    engagement: 82
-    commentsToLikes: 0.019626
-    id: ck6uige5fextx0j71crclrwep
+    followers: 18001
+    engagement: 531
+    commentsToLikes: 0.235401
+    id: clmumxheblb5v0j08ktrkgdhg
     verified: false
-    hashtags: "#sgkids, #sgfamily, #blessed, #mercurysocial"
-  - username: "nattylifts"
-    fullname: >-
-      Natalie | Fitness & Lifestyle
-    bio: >-
-      Creator 🇭🇰🇸🇬 💌nattylifts@gmail.com #workoutwithnatty #tagteamhustle ACE CPT/Bootcamp Travel inspo @slaycaydiaries Link for codes & more info ⬇️
-    location: "Singapore"
-    followers: 28055
-    engagement: 33
-    commentsToLikes: 0.315966
-    id: ck5zzflbdbn510i14q7s295bs
-    verified: false
-    hashtags: "#fitnessmotivation, #travel, #nattyliftsabroad, #fitness"
-  - username: "cpoyee"
-    fullname: >-
-      Poyee C | Content Creator
-    bio: >-
-      Rhea ▫️🇭🇰Hong Kong•Lifestyle•Travel ▫️Contact: Click the email button or by dm♥️ ▫️Creator of @Girlab.hk - ⇩NEW VIDEO☀️成為內容創作者後的6個小改變！⇩
-    location: "Singapore"
-    followers: 19692
-    engagement: 304
-    commentsToLikes: 0.040775
-    id: ckaozf9h0lmlf0i78hys4dhue
-    verified: false
-    hashtags: "#lovebonito, #hongkong, #poyeeslifestyle, #poyeeinhongkong"
+    hashtags: "#kintoone, #carleasing, #foodieadventure, #japaneseseafood"
   - username: "weiloongbrian"
     fullname: >-
       Weiloongbrian | 伟龙
     bio: >-
-      📻Radio DJ| Bilingual host| VO| Modelling| Acting 🎙UFM 100.3《独门秀 Two Men Show》4-8PM Love sports, travel, music, fashion, happiness Wllow@sph.com.sg
+      🇸🇬🎙Former Radio DJ| Bilingual host| VO| Acting 💻weiloongbrian88@gmail.com 🏸Love sports, travel, music, fashion, happiness
     location: "Singapore"
-    followers: 12483
-    engagement: 668
-    commentsToLikes: 0.018262
+    followers: 17754
+    engagement: 524
+    commentsToLikes: 0.023158
     id: ck138ds6ffqzj0i194wd3gepr
     verified: false
-    hashtags: "#mensfashionpost, #shapingsound, #lookgoodfeelgood, #outfitoftheday"
-  - username: "denisekellerofficial"
+    hashtags: "#wherearemyabs, #urbanrevivo, #ootd, #whatiwore"
+  - username: "foodtravelbabe"
     fullname: >-
-      SgLifestyle Fashion Wellness
+      FOODTRAVELBABE by Eunice Lim
     bio: >-
-      🇸🇬🇩🇪 Discovery Channel Travel Producer/Presenter MTV VJ & Celebrity Yoga Instructor Manduka Ambassador Polar Ambassador
+      top restaurants + hotels + travel guides 🗺️ world traveler & food lover 🥂 savor & share my best experiences + tips 💌 hello@foodtravelbabe.com
     location: "Singapore"
-    followers: 64245
-    engagement: 283
-    commentsToLikes: 0.030840
-    id: ck0w5so1j58yz0i190lkimec3
-    verified: true
-    hashtags: "#singaporestyle, #yogaeverydamnday, #yogafam, #singaporeans"
-  - username: "sharmila.logan"
-    fullname: >-
-      Sharmila Logan
-    bio: >-
-      Professional Makeup Artist ♍️ Owner of Mila Cosmetics®️ Singapore 🇸🇬🇮🇳 Traveller ✈️
-    location: "Singapore"
-    followers: 66092
-    engagement: 347
-    commentsToLikes: 0.007426
-    id: ck6ub2oth74c00j71nyzqq1tj
+    followers: 37691
+    engagement: 3031
+    commentsToLikes: 0.066994
+    id: cloxoi27d0fc30j08eq20abnn
     verified: false
-    hashtags: "#dwsingapore, #dwinsg, #ad, #danielwellington"
-  - username: "dianaohy"
+    hashtags: "#jaanbykirkwestaway, #sp, #bali, #michelinguide"
+  - username: "hello.jklm"
     fullname: >-
-      𝔻𝕀𝔸ℕ𝔸 | 𝐭𝐫𝐚𝐯𝐞𝐥 & 𝐟𝐚𝐬𝐡𝐢𝐨𝐧 🌼
+      Karen Ng  SG Mom. Play. Cook.
     bio: >-
-      🕊 my | sg 🍒 adventures at #dohyxjb🇲🇾 🌸 preloved at @daintydolce 🧚🏻‍♀️ aerial yoga at @aerialwithdianaohy 🍃 read about my travels here —
+      Mom of 11Y 👧🏻 & 6Y 👧🏻 Parenting | Food | Lifestyle | Travel
     location: "Singapore"
-    followers: 37847
-    engagement: 182
-    commentsToLikes: 0.017443
-    id: ck5q811fq3zbd0i11p1y7ld5k
+    followers: 12169
+    engagement: 385
+    commentsToLikes: 0.039279
+    id: ckaoxf9rvd0gw0i78m54s1jqx
     verified: false
-    hashtags: "#dohyintcl, #dohyinohvola, #dohyxjb, #dohyxtiffsnail"
-  - username: "fionafussi"
+    hashtags: "#sgfoodtrend, #sgigfood, #sgfoodlover, #sp"
+  - username: "domesticassie"
     fullname: >-
-      FIONA FUSSI 智欣
+      Cassie Lee
     bio: >-
-      Austrian-Hongkie born in Singapore 🛸 International model & actress. traveling, training and eating 🌞 🌐TikTok & FB @fionafussi 📩contact@fionafussi.com
+      💁🏻‍♀️Your go-to girl for honest passionate food reviews🍝 fun dates 👫🏻and travels 🚀
     location: "Singapore"
-    followers: 142608
-    engagement: 280
-    commentsToLikes: 0.017927
-    id: ck15uj1rqneyp0i19v9m9hhk9
+    followers: 14684
+    engagement: 379
+    commentsToLikes: 0.342043
+    id: clmumxi08lbpi0j08ve4e9xr7
+    verified: false
+    hashtags: "#wheretoeatinsingapore, #sgfoodies, #wheretoeatinsg, #wheretoeatsg"
+  - username: "nickk_teo"
+    fullname: >-
+      张奕恺 Nick
+    bio: >-
+      Traveller @mediacorp Artiste managed by @the_celebrityagency For work email xueling@mediacorp.com.sg
+    location: "Singapore"
+    followers: 73843
+    engagement: 310
+    commentsToLikes: 0.025015
+    id: ck15u5n49lj0f0i199udzhmd6
     verified: true
-    hashtags: "#diorskincare, #pomelogirls, #byoc2021, #adidassg"
+    hashtags: "#nhseestheworld, #bulgari, #bzero1, #cozywithemma"
+  - username: "serenefoodology"
+    fullname: >-
+      SG Foodie Lifestyle Cook
+    bio: >-
+      Food♡ Homecooking♡ Lifestyle♡ Fitness♡ Travel Tiktok:Serenefoodology 小红书:新加坡探店Serene #serenefoodologyrecipe #serenefoodologyhomecooking
+    location: "Singapore"
+    followers: 15027
+    engagement: 300
+    commentsToLikes: 0.119124
+    id: clmumxhoalbey0j08bjb4y2kz
+    verified: false
+    hashtags: "#beautyblog, #sgbeauty, #beautysg, #asianbeauty"
+  - username: "peggy.eyes"
+    fullname: >-
+      🅿🅴🅶🅶🆈. 🅴🆈🅴🆂 🇸🇬 🅒🅐🅞
+    bio: >-
+      🎖#NUS Digital Marketing Certificate ✨ #Travel #Beauty #hairdotutorials 📩#Collabs DM 一起成為會打扮+旅遊的時尚達人🫶 旅遊｜美容｜時尚 | 髮型教學 🔎#TikTok.#XHS :Peggy.eyes
+    location: "Singapore"
+    followers: 12176
+    engagement: 408
+    commentsToLikes: 0.491773
+    id: ckqas7zx3ky2a0j23dv1rl2u1
+    verified: false
+    hashtags: "#explorepage, #peggyeyeshoneymoon, #maldives, #intercontinentalmaldives"
 ---

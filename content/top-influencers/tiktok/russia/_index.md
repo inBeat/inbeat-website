@@ -1,11 +1,11 @@
 ---
-title: Top 10 TikTok Influencers In Russia In 2023
+title: Top 10 TikTok Influencers In Russia In 2024
 description: >-
-  Find top TikTok influencers in Russia in 2023. Most popular hashtags: #fyp #foryou #anime.
+  Find top TikTok influencers in Russia in 2024. Most popular hashtags: #fyp #foryou #anime.
 platform: TikTok
 hits: 3739
-text_top: Analyze the most popular TikTok influencers on inBeat.
-text_bottom: Our platform has 3739 TikTok influencers like this in Russia for you to work with.
+text_top: Identify the best TikTok accounts on inBeat.
+text_bottom: Our platform aggregates 3739 TikTok influencers like this in Russia for you to pitch.
 profiles:
   - username: "mirnaya_ru"
     fullname: >-

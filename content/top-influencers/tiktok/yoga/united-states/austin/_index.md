@@ -1,11 +1,11 @@
 ---
-title: Top 10 Yoga TikTok Influencers In Austin In 2023
+title: Top 10 Yoga TikTok Influencers In Austin In 2024
 description: >-
-  Find top yoga TikTok influencers in Austin in 2023. Most popular hashtags: #fyp #yoga #viral #funny.
+  Find top yoga TikTok influencers in Austin in 2024. Most popular hashtags: #fyp #yoga #viral #love.
 platform: TikTok
-hits: 11
-text_top: Analyze the best TikTok profiles on inBeat.
-text_bottom: Our search engine has 11 TikTok influencers like this in Austin, United States for you to collaborate.
+hits: 10
+text_top: Analyze the best TikTok influencers on inBeat.
+text_bottom: Our platform has 10 TikTok influencers like this in Austin, United States for you to pitch.
 profiles:
   - username: "quentin_lifestyle"
     fullname: >-
@@ -31,18 +31,6 @@ profiles:
     id: ckc922hgfseiv0j237fct8803
     verified: false
     hashtags: "#thisisbliss, #fyp, #gimmelove, #foryou"
-  - username: "tessv.flo"
-    fullname: >-
-      TessTok TV 📺
-    bio: >-
-      Filipina-American ⬆️YouTube•IG ➡️Twitch.tv/starforce_stage She/Her 24 | TX
-    location: "United States"
-    followers: 30400
-    engagement: 1126
-    commentsToLikes: 0.050782
-    id: ck9nbu7v7bctq0j78yil3k986
-    verified: false
-    hashtags: "#spacequeen, #aerialarts, #asianamerican, #futuristic"
   - username: "emmyloustew"
     fullname: >-
       Emmy Stewart
@@ -114,7 +102,7 @@ profiles:
     commentsToLikes: 0.025557
     id: ck8j76iqyd16k0j78f0wl2n9v
     verified: false
-    hashtags: "#bts, #fashion, #y2k, #ootd"
+    hashtags: "#ootd, #y2k, #photoshoot, #bts"
   - username: "rachelebrookesmith"
     fullname: >-
       Rachele Brooke Smith
@@ -127,4 +115,16 @@ profiles:
     id: ck9a6qtlm4ebf0j78xi47jnn2
     verified: true
     hashtags: "#viral, #fit, #actors, #funny"
+  - username: "stocksandbabes"
+    fullname: >-
+      YIANNI TSAFONIAS
+    bio: >-
+      Twitch account below @johnnydeep15 👇🏽CLICK THE ROBINHOOD LINK BELOW
+    location: "United States"
+    followers: 35200
+    engagement: 419
+    commentsToLikes: 0.053281
+    id: ckbfhemhyct930j23ue06r0ob
+    verified: false
+    hashtags: "#smh, #viral, #2021, #follow"
 ---

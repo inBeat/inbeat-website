@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Cali In 2023
+title: Top 10 Fashion Instagram Influencers In Cali In 2024
 description: >-
-  Find top fashion Instagram influencers in Cali in 2023. Most popular hashtags: #medellin #fashion #cali #colombia.
+  Find top fashion Instagram influencers in Cali in 2024. Most popular hashtags: #medellin #fashion #colombia #cali.
 platform: Instagram
-hits: 25
-text_top: Discover the top-rated Instagram influencers on inBeat.
-text_bottom: Our database has 25 Instagram influencers like this in Cali, Colombia for you to collaborate.
+hits: 28
+text_top: Identify the best Instagram accounts on inBeat.
+text_bottom: inBeat has 28 Instagram influencers like this in Cali, Colombia for you to collaborate.
 profiles:
   - username: "nicollediez"
     fullname: >-
@@ -43,6 +43,18 @@ profiles:
     id: ck8t8c8q8jwbj0j78rl42t8cp
     verified: false
     hashtags: "#likes, #lamarquesita, #soledad, #danielalvarez"
+  - username: "cali939la"
+    fullname: >-
+      CALI 93.9 🔥🌴
+    bio: >-
+      ¡SIEMPRE DE FIESTA! #Cali939 App 📲 (818) 520-0939
+    location: "Colombia"
+    followers: 68922
+    engagement: 93
+    commentsToLikes: 0.026203
+    id: ck6uhomxsac440j71udc15u0z
+    verified: false
+    hashtags: "#oscars, #pesopluma, #pressplay, #volvi"
   - username: "ramvidzapata"
     fullname: >-
       🆁🅰🅼🆅🅸🅳
@@ -79,6 +91,18 @@ profiles:
     id: ckap1chnntzuz0i7855vdbflp
     verified: false
     hashtags: "#pereira, #yoinscollection, #explorer, #feed"
+  - username: "manuelagiraldod"
+    fullname: >-
+      Manuela Giraldo
+    bio: >-
+      fashion enthusiast co-founder @tersapparel
+    location: "Colombia"
+    followers: 219527
+    engagement: 344
+    commentsToLikes: 0.028523
+    id: ck5c0ps96tlzk0i11e4vwqmd7
+    verified: false
+    hashtags: "#newyearseve, #xmasmakeup, #glittermakeuplook, #modowingo"
   - username: "giannimichielin"
     fullname: >-
       Giannina Michielin Roa
@@ -103,28 +127,4 @@ profiles:
     id: ckap7vyvwlszz0i7805o7f2u5
     verified: false
     hashtags: "#pielsensible, #salud, #cute, #reelsinstagram"
-  - username: "dd.rm"
-    fullname: >-
-      Derly Daniela
-    bio: >-
-      •Owner of: @sebastiano.shop •Tiktok: dd.rm7 164k 💌 Info : ddrm.contacto@gmail.com •@illustrator.ddrm Fashion designer/Model/YouTube #fashionstyle
-    location: "Colombia"
-    followers: 28755
-    engagement: 699
-    commentsToLikes: 0.031405
-    id: ck9has8yzdw4r0j78jiu8f2rf
-    verified: false
-    hashtags: "#modelocolombiana, #blackandwhite, #vestidodeba, #makeup"
-  - username: "marialejamirandap"
-    fullname: >-
-      -M A R I A  A L E J A N D R A-
-    bio: >-
-      📍Cali |Co •ℂ𝕣𝕖𝕒𝕟𝕕𝕠 𝕝𝕒 𝕧𝕚𝕕𝕒 𝕢𝕦𝕖 𝕒𝕞𝕠 • •MIP•|Icesi Creadora de 🧁:@factorycakebymale
-    location: "Colombia"
-    followers: 8470
-    engagement: 510
-    commentsToLikes: 0.041288
-    id: ckaouqrjw1esd0i78decx4wuk
-    verified: false
-    hashtags: "#playa, #picoftheday, #ootd, #repostdolookdodia"
 ---

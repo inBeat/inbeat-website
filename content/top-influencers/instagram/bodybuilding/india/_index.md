@@ -1,24 +1,72 @@
 ---
-title: Top 10 Bodybuilding Instagram Influencers In India In 2023
+title: Top 10 Bodybuilding Instagram Influencers In India In 2024
 description: >-
-  Find top bodybuilding Instagram influencers in India in 2023. Most popular hashtags: #bodybuilding #fitness #workout #health.
+  Find top bodybuilding Instagram influencers in India in 2024. Most popular hashtags: #bodybuilding #fitness #fitnessmotivation #instagram.
 platform: Instagram
-hits: 244
-text_top: Identify the best Instagram profiles on inBeat.
-text_bottom: Our search engine has 244 Instagram influencers like this in India for you to work with.
+hits: 302
+text_top: Identify the most popular Instagram influencers on inBeat.
+text_bottom: Our platform has 302 Instagram influencers like this in India for you to collaborate.
 profiles:
   - username: "dev_lohia"
     fullname: >-
       Dev lohia
     bio: >-
-      Natural bodybuilding, lifelong student of the game. Delhi🇮🇳 Online coach- natural athletes Drug free. Motorcycle enthusiast. Philanthropist.
+      Natural bodybuilding since 2010, lifelong student of the game. Delhi🇮🇳 Online coach- natural athletes For online coaching-Dm/Email Drug free.
     location: "India"
-    followers: 16856
-    engagement: 366
-    commentsToLikes: 0.036049
+    followers: 16192
+    engagement: 238
+    commentsToLikes: 0.024220
     id: ckf5lzgserm960j23wdysmtte
     verified: false
-    hashtags: "#bollywood, #workout, #healthylifestyle, #instagram"
+    hashtags: "#style, #fitnessjourney, #fitlife, #fit"
+  - username: "ankita_extreme"
+    fullname: >-
+      💎 Ankita Singh 💎
+    bio: >-
+      Natural bodybuilding💪 @extreme_bikini 👙 MissIndia2021 fitness🇮🇳 Miss Karnataka18/19/21 Ex S.E Indie🐕mom Anime addict BLR📌 💌ankita.extreme@yahoo.co.in
+    location: "India"
+    followers: 303527
+    engagement: 205
+    commentsToLikes: 0.005267
+    id: ck6tsfmkf4htw0j712ulg009j
+    verified: true
+    hashtags: "#ad, #ankitaextreme, #fitnessforlife, #fitness"
+  - username: "fitfunda_official"
+    fullname: >-
+      Coach Shweta Singh
+    bio: >-
+      🤰 AFPA - Pre & Postnatal Fitness Specialist 💪 ACE CPT & AFPA Sports Nutritionist 💪🏻 ISSA -Bodybuilding Specialist Online Training Program Details👇
+    location: "India"
+    followers: 286331
+    engagement: 117
+    commentsToLikes: 0.022137
+    id: cksa8d4c8sih70j23bu9ktrl8
+    verified: false
+    hashtags: "#pregnancy, #pregnantbelly, #pregnantstyle, #pregnant"
+  - username: "setarehaslani"
+    fullname: >-
+      𝑆𝑒𝑡𝑎𝑟𝑒ℎ𝑎𝑠𝑙𝑎𝑛𝑖
+    bio: >-
+      Fitness instructor (Makebody,Bodybuilding,Fitness,TRX,Functional,EMS) 💫در من هست هزار من،که گر بشکند یک من،زاده شود من دیگری💫
+    location: "India"
+    followers: 21069
+    engagement: 173
+    commentsToLikes: 0.144170
+    id: ck9wik0ct2lo00j78uolutijp
+    verified: false
+    hashtags: "#challengeaccepted, #womensupportingwomen"
+  - username: "the_indianbodybuilding"
+    fullname: >-
+      Indian Bodybuilding
+    bio: >-
+      Official Instagram page of Indian Bodybuilding Blog (IBB). Follow us for all the latest in Indian Bodybuilding and Fitness @the_indianbodybuilding
+    location: "India"
+    followers: 114988
+    engagement: 83
+    commentsToLikes: 0.005400
+    id: ck13bgjh9vbfv0i193avrhy05
+    verified: false
+    hashtags: "#repost, #mrindia2021"
   - username: "vetriselvam_official"
     fullname: >-
       Fitness_Freek
@@ -55,76 +103,28 @@ profiles:
     id: ck5q8v5xe83k70i11073d41xx
     verified: false
     hashtags: "#drtonyhuge, #bodybuilding, #tonyhuge, #anime"
-  - username: "the_indianbodybuilding"
+  - username: "_mr.lift_"
     fullname: >-
-      Indian Bodybuilding
+      BAJIO MJ | _ MR LIFT_ 🧿
     bio: >-
-      Official Instagram page of Indian Bodybuilding Blog (IBB). Follow us for all the latest in Indian Bodybuilding and Fitness @the_indianbodybuilding
+      🇮🇳🇦🇪🇴🇲 Fitness athlete 🏅 Reps Level 4 certified trainer 📚 DM for coaching enquiries GYM |ONLINE COACHING FITNESS, NUTRITION, MINDSET Carpediem!
     location: "India"
-    followers: 120649
-    engagement: 345
-    commentsToLikes: 0.004448
-    id: ck13bgjh9vbfv0i193avrhy05
+    followers: 29193
+    engagement: 788
+    commentsToLikes: 0.045108
+    id: ck5bxozj1o4yt0i11db31niyo
     verified: false
-    hashtags: "#fitness, #repost, #bodybuilding, #teambasekofitness"
-  - username: "rohitkhatrifitness"
+    hashtags: "#workout, #bodybuilding, #instagram, #mrliftthings"
+  - username: "nitinchandila"
     fullname: >-
-      Rohit Khatri
+      NITIN MAHIPAL CHANDILA
     bio: >-
-      🔹Sports Science Nutritionist 🔹Brands : rohitkhatribiz@gmail.com 🔹Dm For Paid Online Coaching 📝 🔹India’s No. 1 Fitness Channel (YouTube)
+      🥇South Asia 2023 🥇Mr Asia 2023-24 🥇Mr India 2022 🥇Mr World 🏋️‍♂️Owner- @fitnessgarage__ Fuel :- @thedrchoice @upakarmaayurveda
     location: "India"
-    followers: 614738
-    engagement: 467
-    commentsToLikes: 0.004563
-    id: ck8wd6rbxdgf00j78gz3so4nb
+    followers: 1466499
+    engagement: 957
+    commentsToLikes: 0.009499
+    id: ck13bgk9wvbid0i19luc5k5yc
     verified: false
-    hashtags: "#hotcouples, #bicepsworkout, #rohitsoniya, #motivation"
-  - username: "akash_d_prabhu"
-    fullname: >-
-      AKASH DINESH PRABHU
-    bio: >-
-      Sky beast 🦁 Fashion and fitness 🦁
-    location: "India"
-    followers: 75729
-    engagement: 460
-    commentsToLikes: 0.008572
-    id: ckap402la59660i78p84xb03x
-    verified: false
-    hashtags: "#explore, #abs, #reels, #love"
-  - username: "ifbbpro_jkaliwala"
-    fullname: >-
-      Junaid Kaliwala
-    bio: >-
-      🥇First MP IFBBPRO FROM🇮🇳 ❤️HAPPY, HEALTHY, LOVED 📍BUILDING @sourceofsupplements @dopesports.in @alpinohealthfoods @beyond_gummies @bubble_up_nutrition
-    location: "India"
-    followers: 333970
-    engagement: 247
-    commentsToLikes: 0.010723
-    id: ck5hrf80lurx60i11laqzr2nh
-    verified: true
-    hashtags: "#gentleman, #health, #calmsekaam, #fitfam"
-  - username: "varunverrma"
-    fullname: >-
-      Varun Verma
-    bio: >-
-      Mr India Supranational’19 Mr Supranational Asia’19 @muscleblaze 💪 @myntra style squad member
-    location: "India"
-    followers: 739950
-    engagement: 220
-    commentsToLikes: 0.004725
-    id: ck55lhxdo1m4x0i11j5fem362
-    verified: true
-    hashtags: "#bodybuilding, #healthy, #health, #varunverma"
-  - username: "sparsh_alawadhi"
-    fullname: >-
-      SPARSH🥂
-    bio: >-
-      23 Fashion / Fitness / Lifestyle 📍| Delhi | India 👻 : sparsh9953 For collaborations 👇 📩 : sparsh.allawadi123456@gmail.com
-    location: "India"
-    followers: 72526
-    engagement: 201
-    commentsToLikes: 0.033284
-    id: ckv1vnc6mw63e0j23hsofahqm
-    verified: false
-    hashtags: "#instagood, #menwithstyle, #sexy, #men"
+    hashtags: "#nitinchandila, #champion, #gujjar, #bodybuilding"
 ---

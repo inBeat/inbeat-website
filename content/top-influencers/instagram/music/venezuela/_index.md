@@ -1,24 +1,48 @@
 ---
-title: Top 10 Music Instagram Influencers In Venezuela In 2023
+title: Top 10 Music Instagram Influencers In Venezuela In 2024
 description: >-
-  Find top music Instagram influencers in Venezuela in 2023. Most popular hashtags: #venezuela #love #venezolana.
+  Find top music Instagram influencers in Venezuela in 2024. Most popular hashtags: #venezuela #caracas #viajaremospronto.
 platform: Instagram
-hits: 109
-text_top: See the most popular Instagram profiles on inBeat.
-text_bottom: Our database holds 109 Instagram influencers like this in Venezuela for you to work with.
+hits: 119
+text_top: Identify the best Instagram profiles on inBeat.
+text_bottom: Our search engine has 119 Instagram influencers like this in Venezuela for you to collaborate.
 profiles:
-  - username: "faduahuespe"
+  - username: "hache_tr"
     fullname: >-
-      Fadua Huespe
+      Hache // Theraccoon 🦝
     bio: >-
-      Tv & Radio Host @VenusMedia 🎙 Licenciada en Relaciones Internacionales. Mi mundo gira alrededor de la música y tanta espontaneidad suele condenarme.
+      Mi música en todas las plataformas digitales 🥷🏼 Yo Te Conozco ❤️‍🩹⬇️
     location: "Venezuela"
-    followers: 26075
-    engagement: 410
-    commentsToLikes: 0.086256
-    id: ckap0mpzgqz7v0i78a6hg18j9
+    followers: 19522
+    engagement: 248
+    commentsToLikes: 0.031729
+    id: ck60301vvk9ku0i145mibeouv
     verified: false
-    hashtags: "#eucerinpy, #epicmoments21, #sonidourbano, #hitsdevenus"
+    hashtags: "#kappa, #kappacol, #222banda, #elpepi"
+  - username: "karenmartello"
+    fullname: >-
+      Karen Martello
+    bio: >-
+      🇻🇪Venezuela 📍Miami 📩Contacto info@mgmartellogroup.com 🎦TVHOST @TVVNetwork ❣️Mamá de morochos 🫵🏼Escucha mi nuevo tema musical #contigo😍
+    location: "Venezuela"
+    followers: 1027176
+    engagement: 64
+    commentsToLikes: 0.016604
+    id: ck15pexr8xjxl0i19uzc3z6k2
+    verified: true
+    hashtags: "#toyotahollywood, #youtube"
+  - username: "soymaleh"
+    fullname: >-
+      Maleh
+    bio: >-
+      𝑪𝒂𝒏𝒕𝒂𝒏𝒕𝒆/𝑨𝒄𝒕𝒓𝒊𝒛 No soy una barbie, soy una BRATZ #LaPetite🧪 Mi música 👇🏻
+    location: "Venezuela"
+    followers: 101613
+    engagement: 19
+    commentsToLikes: 0.010624
+    id: ck5hi920mca8e0i11vru6efmv
+    verified: false
+    hashtags: "#maleh, #galaxyzflip5, #jointheflipside, #samsung"
   - username: "gabylonia"
     fullname: >-
       GABYLONIA
@@ -103,28 +127,4 @@ profiles:
     id: ck0u88eej6q3q0i19xqh2lngk
     verified: false
     hashtags: "#propositos2021, #propositosdea, #viajerosvenezolanos, #viajerovenezolano"
-  - username: "aslyyusney"
-    fullname: >-
-      𝔸𝕤𝕝𝕪 𝕄𝕖𝕛𝕚𝕒
-    bio: >-
-      @bambushop.sc San Cristóbal|Venezuela📍 Música | Tips | Fotos Content Creator🎥 DM for Collabs📮 TikTok: @aslyyusney
-    location: "Venezuela"
-    followers: 12500
-    engagement: 418
-    commentsToLikes: 0.008341
-    id: ck6tk74za44rt0j7170bapcvh
-    verified: false
-    hashtags: "#2021, #valentine, #chicas, #venezolanas"
-  - username: "albymusic"
-    fullname: >-
-      A L B Y
-    bio: >-
-      × 𝑮𝒐𝒅 | 𝑺𝒊𝒏𝒈𝒆𝒓 × 🇻🇪 | XV × @gvoice_music
-    location: "Venezuela"
-    followers: 2887
-    engagement: 2019
-    commentsToLikes: 0.161767
-    id: ck14kz7cxs28e0i19tb3r6uit
-    verified: false
-    hashtags: "#god, #music, #musica, #instacovers"
 ---

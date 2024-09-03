@@ -1,24 +1,36 @@
 ---
-title: Top 10 Chefs Instagram Influencers In Chile In 2023
+title: Top 10 Chefs Instagram Influencers In Chile In 2024
 description: >-
-  Find top chefs Instagram influencers in Chile in 2023. Most popular hashtags: #chef #instagood #cocina #chile.
+  Find top chefs Instagram influencers in Chile in 2024. Most popular hashtags: #cocina #chef #instagood.
 platform: Instagram
-hits: 22
-text_top: See the best Instagram accounts on inBeat.
-text_bottom: Our platform has 22 Instagram influencers like this in Chile for you to collaborate.
+hits: 24
+text_top: Analyze the top-rated Instagram accounts on inBeat.
+text_bottom: inBeat has 24 Instagram influencers like this in Chile for you to work with.
 profiles:
+  - username: "javochef"
+    fullname: >-
+      Javo Muñoz
+    bio: >-
+      🇨🇱 🏳️‍🌈 👦🏻 casi 36 a👨🏻‍🍳cocinando desde 2004 🍽️ Chef Instructor 👨🏻‍🏫💪Emprendedor 👨‍🎓 Estudiante Pedagogía de Estado Educación T.P.
+    location: "Chile"
+    followers: 20812
+    engagement: 194
+    commentsToLikes: 0.022368
+    id: ck8swshrzf2zz0j78h9fp6mlz
+    verified: false
+    hashtags: "#hamburguesa, #chocolate, #ruby, #jengibre"
   - username: "maxalonsor"
     fullname: >-
       Max Alonso
     bio: >-
-      🍰 Mi pastelería @maxideachile 🎂 www.maxidea.cl 📺 Master Chef 🇨🇱4 🎶 +1.7 M TikTok:maxalonsor 📩 maxalonsor@gmail.com ⤵️ Compra aquí ⤵️🎂🍰🍦
+      🍰 Mi pastelería @maxideachile 🎂 www.maxidea.cl 📺 Master Chef 🇨🇱4 🎶 +1.8 M TikTok:maxalonsor 📩 maxalonsor@gmail.com ⤵️ Compra aquí ⤵️🎂🍰🍦
     location: "Chile"
-    followers: 116621
-    engagement: 729
-    commentsToLikes: 0.020779
+    followers: 118064
+    engagement: 711
+    commentsToLikes: 0.024332
     id: ck5q12ioo8yhh0i115jfihhai
     verified: true
-    hashtags: "#instagood, #santiago, #chilegram, #pastelero"
+    hashtags: "#santiago, #chile, #nyc, #instagood"
   - username: "virginiademariaoficial"
     fullname: >-
       Virginia Demaria
@@ -42,7 +54,7 @@ profiles:
     commentsToLikes: 0.012117
     id: ck8tckl0bzq5v0j78hj20spup
     verified: false
-    hashtags: "#nomakeup, #face, #chilegram, #instapic"
+    hashtags: "#face, #instaphoto, #instaphotography, #vi"
   - username: "chinoise"
     fullname: >-
       Carolina Bazan
@@ -79,18 +91,18 @@ profiles:
     id: ck6twqzegtlgh0j71zg7g46vj
     verified: true
     hashtags: "#recetasfaciles, #recetassaludables, #unchefencasa, #carpentiertips"
-  - username: "javochef"
+  - username: "soycienciaycocina"
     fullname: >-
-      Javo
+      Heinz Wuth - Ciencia y Cocina
     bio: >-
-      👨🏻‍🍳Chef 🏳️‍🌈 Taller @javococina Chocolates belga, trufas, Chocolate Party Box! 📬javococina@gmail.com 🚛 despachos a todo Santiago por @bema.logistica
+      🍳 Esto es Ciencia y Cocina! 🔬 Cocinero de Gastronomía Científica ⬇️ Contacto, Colaboraciones y Cursos 🇨🇱
     location: "Chile"
-    followers: 21972
-    engagement: 320
-    commentsToLikes: 0.036744
-    id: ck8swshrzf2zz0j78h9fp6mlz
+    followers: 731752
+    engagement: 307
+    commentsToLikes: 0.016783
+    id: ck5qdhdrevlgy0i11mm2jzy89
     verified: false
-    hashtags: "#sanvalentin, #regalapyme, #pyme, #2020"
+    hashtags: "#cocina, #mayonesa, #ciencia, #carne"
   - username: "istvanmolnarb"
     fullname: >-
       Istvan Molnar
@@ -115,16 +127,4 @@ profiles:
     id: ck5bt9tyrfl070i119czgc2db
     verified: false
     hashtags: "#photography, #tattoo, #plena, #photosession"
-  - username: "imchef7"
-    fullname: >-
-      Heinz Wuth 🧪
-    bio: >-
-      🔬 Te comparto: Ciencia y Cocina 🍳 Contenido Educativo Culinario 👇 Cursos y Promociones aquí!
-    location: "Chile"
-    followers: 52857
-    engagement: 372
-    commentsToLikes: 0.027660
-    id: ck5qdhdrevlgy0i11mm2jzy89
-    verified: false
-    hashtags: "#cheflife, #receta, #sabor, #experiment"
 ---

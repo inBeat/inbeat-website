@@ -1,11 +1,11 @@
 ---
-title: Top 10 Beauty TikTok Influencers In Portugal In 2023
+title: Top 10 Beauty TikTok Influencers In Portugal In 2024
 description: >-
-  Find top beauty TikTok influencers in Portugal in 2023. Most popular hashtags: #fyp #foryoupage #foryou #portugal.
+  Find top beauty TikTok influencers in Portugal in 2024. Most popular hashtags: #fyp #foryou #foryoupage #portugal.
 platform: TikTok
 hits: 16
-text_top: Analyze the most popular TikTok accounts on inBeat.
-text_bottom: Our platform aggregates 16 TikTok influencers like this in Portugal for you to connect with.
+text_top: Discover the most popular TikTok accounts on inBeat.
+text_bottom: inBeat aggregates 16 TikTok influencers like this in Portugal for you to contact.
 profiles:
   - username: "patriciaabreu10"
     fullname: >-
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.019297
     id: ckb9bi6atxu510j237vuuj5hp
     verified: false
-    hashtags: "#foryou, #catlover, #neko, #omg"
+    hashtags: "#fyp, #omg, #foryou, #kinironeko"
   - username: "mcloughlingirls"
     fullname: >-
       Mcloughlin Girls🦋

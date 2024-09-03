@@ -1,130 +1,130 @@
 ---
-title: Top 10 Models Instagram Influencers In South Korea In 2023
+title: Top 10 Models Instagram Influencers In South Korea In 2024
 description: >-
-  Find top models Instagram influencers in South Korea in 2023. Most popular hashtags: #koreanmodel #ootd #bay.
+  Find top models Instagram influencers in South Korea in 2024. Most popular hashtags: #ootd #japan #seoul.
 platform: Instagram
-hits: 172
-text_top: Identify the best Instagram influencers on inBeat.
-text_bottom: Our platform aggregates 172 Instagram influencers like this in South Korea for you to contact.
+hits: 171
+text_top: Identify the most popular Instagram profiles on inBeat.
+text_bottom: Our database aggregates 171 Instagram influencers like this in South Korea for you to work with.
 profiles:
-  - username: "channnv"
+  - username: "xxi_zhen"
     fullname: >-
-      이종찬 (Lee JongChan)
+      시시 CeCe
     bio: >-
-      ･ 오늘에 대해 이야기를 나눠봐요🙂👉🏽 @o_s_t_k ･ Freelancer model ･ LIFEPLUS 앰배서더 5기🏊🏽‍♂️ ･ 촬영 및 광고 문의 DM📩
+      MODEL 🇰🇷 📍Seoul xxizhen816@gmail.com @cecesveu
     location: "South Korea"
-    followers: 123581
-    engagement: 683
-    commentsToLikes: 0.023260
+    followers: 98746
+    engagement: 1269
+    commentsToLikes: 0.004552
+    id: cl4l97e5utvew0i23nx8s5stc
+    verified: false
+    hashtags: "#ukglamorous, #p31, #dubetica, #sculptor"
+  - username: "cornu_ryu"
+    fullname: >-
+      류경아(竜) Ryu’s Penna 류스펜나
+    bio: >-
+      34万 Youtuber & Model 東京に住んでいる韓国人 📍🇰🇷 & 🇯🇵 (Tokyo Now) Contact : DM & Mail 삶을 여행하는 패션유튜버✨💗
+    location: "South Korea"
+    followers: 57758
+    engagement: 467
+    commentsToLikes: 0.009502
+    id: ck8t7c01bg9m30j789rv1p086
+    verified: false
+    hashtags: "#ghibli, #ootd, #fashion, #fashionstyle"
+  - username: "krilovee._"
+    fullname: >-
+      ☆ K r i t i ☆
+    bio: >-
+      クリティです (๑˃̵ᴗ˂̵)♡ creator • model • cosplayer 🇯🇵🇮🇳🇰🇷 | 📍Tokyo YouTube : krilovee | 1 million🩵 For work - kriloveeopen@gmail.com
+    location: "South Korea"
+    followers: 607482
+    engagement: 1330
+    commentsToLikes: 0.012046
+    id: ckaoxzqz4fgat0i786hywaow8
+    verified: false
+    hashtags: "#japan, #explore, #indian, #fyp"
+  - username: "onedohyun"
+    fullname: >-
+      원도현 Won Do Hyun
+    bio: >-
+      Freelancer model / actor Contact DM
+    location: "South Korea"
+    followers: 143952
+    engagement: 487
+    commentsToLikes: 0.024447
     id: ck8t9k361oe210j78d5vanbs0
     verified: false
-    hashtags: "#porschekorea, #taycan, #mycalvins, #ckone"
-  - username: "swk8910"
+    hashtags: "#coupang, #dyson, #flyawaynozzle, #poiret"
+  - username: "celinelingye"
     fullname: >-
-      Sarah🌹
+      Celine Ng
     bio: >-
-      🇰🇷 Korean adoptee 💙 🏳️‍🌈 Queer & proud 🔆 📍Published model ❌ 🌏 6/7 continents traveled ✈️ 💃🏻 Argentine Tango dancer 🌹 📚 B.A., Psychology 📖
+      ♡ fashion | travel | lifestyle 𐙚₊ freelance model / talent 📍KUL (*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ
     location: "South Korea"
-    followers: 2962
-    engagement: 976
-    commentsToLikes: 0.296777
-    id: ck15qv3gf4sco0i19s8hacxqy
+    followers: 16138
+    engagement: 377
+    commentsToLikes: 0.016206
+    id: ck0vz39kw72nk0i197i8xabyc
     verified: false
-    hashtags: "#portraitphotography, #pschallenge, #bravopost, #creativision"
-  - username: "sandra_ssong"
+    hashtags: "#thrift, #outfitideas, #thrifting, #outfitpost"
+  - username: "jovanepjy"
     fullname: >-
-      Sasha Song (모델 사샤)
+      Jovane 彭嘉伊
     bio: >-
-      Seoul / 서울 🇰🇷 Model / 인플루언서 모델 📸💃🏻 광고,촬영문의 / Business- DM 📩
+      actress • model • content creator for work : +60 11-1191 7370 (Sandy) Food Hunting in Seoul Vlog 🇰🇷
     location: "South Korea"
-    followers: 692345
-    engagement: 3617
-    commentsToLikes: 0.011403
-    id: ck8t8gcnikdal0j7833hnrq5k
+    followers: 569070
+    engagement: 362
+    commentsToLikes: 0.002526
+    id: ck5ci51zns1b50i11n7r9ph6w
     verified: false
-    hashtags: "#korea, #lifeinkorea, #russianmodel, #internationalcouple"
-  - username: "whstlskzzz"
+    hashtags: "#macau, #seoulkorea, #opporeno12series5g, #mjdaisy"
+  - username: "wo.0z"
     fullname: >-
-      고현빈
+      김지우
     bio: >-
-      freelancer model 모든 문의는 dm주세요🤟
+      ₊·*♡̷̷̷₊⊹ ₊ 𝙁𝙧𝙚𝙚𝙡𝙖𝙣𝙘𝙚𝙧 𝙢𝙤𝙙𝙚𝙡 ﾟ*♡̷̷̷ ₊⊹ @wo.0z_model
     location: "South Korea"
-    followers: 10122
-    engagement: 908
-    commentsToLikes: 0.069761
-    id: ck55o2fqo7hwn0i11wnabbsxa
+    followers: 73297
+    engagement: 287
+    commentsToLikes: 0.286331
+    id: ckaozhg0plwgu0i783dsoklhy
     verified: false
-    hashtags: ""
-  - username: "kashi_healthy_life"
+    hashtags: "#aldokorea, #hbd, #manyo, #youthbad"
+  - username: "joannaho1122"
     fullname: >-
-      댕댕서진, 결혼 5년차 "운동이 젤 죠앙"
+      Joanna 小賀
     bio: >-
-      🇰🇷 166cm 53kg 20 Bikini 🏆×1 🥇×3 🥈×3 NABBA Classic model PDQ INBA Bikini Pro @f45_pangyo BA🤟🏽 @proteingift_official @barebells.korea #랑콤 #멜키너1기 #루이너스2기
+      KOL/Model/Outfit/Makeup 🩰🤎🦢 合作聯繫📩 joannaho1122@gmail.com @bimo0308 🐱
     location: "South Korea"
-    followers: 32439
-    engagement: 425
-    commentsToLikes: 0.054419
-    id: ck5cjajjcubvj0i11lqx2z76a
+    followers: 78745
+    engagement: 240
+    commentsToLikes: 0.007902
+    id: ck5hdr1oxoxa90i11bhc2482h
     verified: false
-    hashtags: "#f45training, #f45hannam, #f45, #lifechanging"
-  - username: "kang.oliver"
+    hashtags: "#wear, #outfit, #mood, #seoul"
+  - username: "doublesoup"
     fullname: >-
-      강올리버(강희원)
+      김습습 Double Soup スプスプちゃん
     bio: >-
-      korean model 181cm Contact - DM 📸 Canon M6 Mark2, IPhone 11pro
+      @doublesoup_model 🫖 #습습_애프터눈티 ⛳️ #습습_골프 🪐 #습습_비비안웨스트우드 🍽 #습습_다이닝
     location: "South Korea"
-    followers: 49347
-    engagement: 445
-    commentsToLikes: 0.041106
-    id: ck9haoh2fddeo0j78onywc0eb
+    followers: 107411
+    engagement: 155
+    commentsToLikes: 0.011778
+    id: ck5hdph7moo220i11wxcv456f
     verified: false
-    hashtags: "#fashionkorea, #20, #goldendiscawards, #casetify"
-  - username: "otani_emiri"
+    hashtags: "#tiawellnessresort, #newvideo, #intercontinentaldanang, #onlyonedancechallenge"
+  - username: "jennybellycos"
     fullname: >-
-      大谷映美里
+      Jennybelly
     bio: >-
-      💖＝LOVE：イコラブ みりにゃ 🐈 💅🏻 twitter @otani_emiri 👗 bis model 🌸MBSラジオ #アッパレ木 🍜#みりらーめん 🎂 1st写真集「#好きな人」2021.03.15発売 🎂
+      Let's have fun! 💕 Korean Waifu | Cosplay Model | BL Podcast Host
     location: "South Korea"
-    followers: 170320
-    engagement: 717
-    commentsToLikes: 0.012446
-    id: ck0vzd5ls8ihj0i19n7zixo92
-    verified: true
-    hashtags: "#bis, #tittyandco, #happyvalentinesday, #spinns"
-  - username: "y_ar1492"
-    fullname: >-
-      윤롱롱🐶
-    bio: >-
-      Freelancer model
-    location: "South Korea"
-    followers: 124119
-    engagement: 985
-    commentsToLikes: 0.010169
-    id: ck5c3c33rz0c60i11a0b8t7jx
+    followers: 102870
+    engagement: 134
+    commentsToLikes: 0.009353
+    id: ck5hk5rouhu7b0i1121f94med
     verified: false
-    hashtags: "#hbd"
-  - username: "samaralee_etcetc"
-    fullname: >-
-      Samara Lee - Official Account
-    bio: >-
-      Actor/SAG/Model/♓️/Korean Food Lover/ 🎥 Annabelle Creation/Comes Home/Concussion/Indivisible/Last Witch Hunter & more (Acc Managed By Mom)
-    location: "South Korea"
-    followers: 15954
-    engagement: 807
-    commentsToLikes: 0.032962
-    id: ck0w2zuawqxgz0i19p98osggl
-    verified: false
-    hashtags: "#yummy, #melaniemartinez, #samaralee, #nightime"
-  - username: "marianapinam"
-    fullname: >-
-      M A R I A N A   P I Ñ A  🍍
-    bio: >-
-      🇲🇽MA| @capitalmodel 🇺🇸@selectmodellosangeles 🇰🇷 @modeldirectors 🇨🇳 @gfimodels 🇯🇵 @wildflower_model 🇨🇱🇦🇷 @welovemodels._
-    location: "South Korea"
-    followers: 17177
-    engagement: 1392
-    commentsToLikes: 0.009940
-    id: ck5ci5u32s2t90i11x4pt2qpc
-    verified: false
-    hashtags: ""
+    hashtags: "#cosplay, #yostar, #fgo, #azurlane"
 ---

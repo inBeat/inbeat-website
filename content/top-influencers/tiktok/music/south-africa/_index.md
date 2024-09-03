@@ -1,11 +1,11 @@
 ---
-title: Top 10 Music TikTok Influencers In South Africa In 2023
+title: Top 10 Music TikTok Influencers In South Africa In 2024
 description: >-
-  Find top music TikTok influencers in South Africa in 2023. Most popular hashtags: #southafrica #music #comedy #duet.
+  Find top music TikTok influencers in South Africa in 2024. Most popular hashtags: #comedy #southafrica #tiktoksa #duet.
 platform: TikTok
 hits: 58
-text_top: Identify the top-rated TikTok profiles on inBeat.
-text_bottom: Our search engine has 58 TikTok influencers like this in South Africa for you to collaborate.
+text_top: Analyze the most popular TikTok accounts on inBeat.
+text_bottom: Our database aggregates 58 TikTok influencers like this in South Africa for you to contact.
 profiles:
   - username: "herc1987"
     fullname: >-
@@ -31,6 +31,18 @@ profiles:
     id: cka6mwlk991940i786sop5c78
     verified: true
     hashtags: "#tiktokmusicfestival, #musicmachine, #celebrateeaster, #oysters"
+  - username: "miguelpregueiro"
+    fullname: >-
+      Miguel Pregueiro
+    bio: >-
+      Fancy meeting you here 👀 Socials & Music ⬇️
+    location: "South Africa"
+    followers: 171900
+    engagement: 1422
+    commentsToLikes: 0.073361
+    id: ckb9r8kpdnp7z0j23uri5ip53
+    verified: true
+    hashtags: "#loco, #greenscreen, #hola, #faceapp"
   - username: "eugene.zeelie"
     fullname: >-
       Eugene Zeelie😏
@@ -115,16 +127,4 @@ profiles:
     id: ckbbw04tajbil0j235kh2kfsu
     verified: false
     hashtags: "#meanwhile, #drip, #cigg, #class"
-  - username: "itsscandss"
-    fullname: >-
-      Candice ;)
-    bio: >-
-      idk anymore
-    location: "South Africa"
-    followers: 179800
-    engagement: 1704
-    commentsToLikes: 0.023511
-    id: ck978grmd7wvg0j78yyqurpn3
-    verified: true
-    hashtags: "#aesthetic, #photocrop, #vibes, #music"
 ---

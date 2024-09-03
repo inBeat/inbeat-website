@@ -1,11 +1,11 @@
 ---
-title: Top 10 Health TikTok Influencers In Turkey In 2023
+title: Top 10 Health TikTok Influencers In Turkey In 2024
 description: >-
-  Find top health TikTok influencers in Turkey in 2023. Most popular hashtags: #surgery #medical #doctor #medicalfacts.
+  Find top health TikTok influencers in Turkey in 2024. Most popular hashtags: #medical #surgery #doctor #facts.
 platform: TikTok
 hits: 8
-text_top: Discover the best TikTok accounts on inBeat.
-text_bottom: Our platform aggregates 8 TikTok influencers like this in Turkey for you to collaborate.
+text_top: Analyze the top-rated TikTok influencers on inBeat.
+text_bottom: Our platform aggregates 8 TikTok influencers like this in Turkey for you to contact.
 profiles:
   - username: "istanbulbeautycenter"
     fullname: >-

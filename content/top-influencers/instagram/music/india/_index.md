@@ -1,130 +1,130 @@
 ---
-title: Top 10 Music Instagram Influencers In India In 2023
+title: Top 10 Music Instagram Influencers In India In 2024
 description: >-
-  Find top music Instagram influencers in India in 2023. Most popular hashtags: #dance #reels #reelitfeelit #explore.
+  Find top music Instagram influencers in India in 2024. Most popular hashtags: #music #fashion #love #explore.
 platform: Instagram
-hits: 2233
-text_top: Identify the top-rated Instagram accounts on inBeat.
-text_bottom: Our database has 2233 Instagram influencers like this in India for you to work with.
+hits: 2910
+text_top: Analyze the top-rated Instagram influencers on inBeat.
+text_bottom: inBeat has 2910 Instagram influencers like this in India for you to connect with.
 profiles:
-  - username: "alisharajput_22"
+  - username: "ashishbhatiaofficial"
     fullname: >-
-      Chitra singh
+      ASHISH BHATIA
     bio: >-
-      Actor-Influencer-Music Alisha Rajput Production
+      Music • Acting • Fashion Winner of MTV Roadies S18 KASHISH OUT NOW ⤵️
     location: "India"
-    followers: 4248363
-    engagement: 795
-    commentsToLikes: 0.009674
-    id: ck9h9ysh1ai5j0j78gpnw0cx9
-    verified: false
-    hashtags: "#exploremore, #alisharajput, #dance, #explore"
-  - username: "punitjpathakofficial"
-    fullname: >-
-      Punit J Pathak
-    bio: >-
-      NAACH BABY Music video 👇🏽
-    location: "India"
-    followers: 2487707
-    engagement: 568
-    commentsToLikes: 0.003034
-    id: ck0u2euphzpr80i194k66w0np
+    followers: 1180227
+    engagement: 545
+    commentsToLikes: 0.005327
+    id: ck5pwjyhsn6980i11fphvk0bp
     verified: true
-    hashtags: "#husband, #love, #reels, #danceplus6"
-  - username: "shannu_7"
+    hashtags: "#kashishratnani, #musicvideo, #football, #kashish"
+  - username: "shamelessmani"
     fullname: >-
-      Shanmukh Jaswanth Kandregula
+      Shameless Mani
     bio: >-
-      Art | Music | Dance A U S S ❤ Surya Fan 🙂💙 JAANU PROMO
+      DJ & Music Producer Mumbai, India EST: 2000
     location: "India"
-    followers: 2746978
-    engagement: 1149
-    commentsToLikes: 0.003466
-    id: ck9wd6dkee9mt0j783dk5si11
-    verified: false
-    hashtags: "#jaanu, #aasonaha, #shannu, #dance"
-  - username: "sonunigamofficial"
-    fullname: >-
-      Sonu Nigam
-    bio: >-
-      An Entity that Translates Vibrations of the Vacuum into Frequencies of Music. @labelibelievemusic
-    location: "India"
-    followers: 1650348
-    engagement: 215
-    commentsToLikes: 0.008972
-    id: ck0tuv6858tau0i19mu4iokc5
+    followers: 102824
+    engagement: 1354
+    commentsToLikes: 0.021952
+    id: ck0ucog0qhbwy0i19gg2o1ho6
     verified: true
-    hashtags: "#sonunigamlive, #explore, #instadaily, #love"
-  - username: "reubenjames"
+    hashtags: "#shamelessmani, #concert, #summer, #ootd"
+  - username: "realkrsna"
     fullname: >-
-      Reuben James
+      KR$NA
     bio: >-
-      Birmingham, UK 🇬🇧 Grammy award winning musician
+      I make rap music 🇮🇳
     location: "India"
-    followers: 88146
-    engagement: 145
-    commentsToLikes: 0.030676
-    id: ck0tuayhd6e1m0i19xg206f1g
-    verified: false
-    hashtags: "#rufiosessions, #menelik, #independantmusic, #independantartist"
-  - username: "vicky__pedia"
-    fullname: >-
-      Vivek Dadhich
-    bio: >-
-      Choreographer | Creator Mumbai 📍 DM - Collaboration | Classes Music videos | Ad shoots | Films 🎥 Buy my official merchandise 😍👇👇
-    location: "India"
-    followers: 50927
-    engagement: 134
-    commentsToLikes: 0.064773
-    id: ck0udvksjjx2z0i19pdvazhmg
-    verified: false
-    hashtags: "#reelswag, #vickyakku, #tikiapp, #aakankshatripathi"
-  - username: "swalih__sinu"
-    fullname: >-
-      صلح 
-    bio: >-
-      #mallu Boy #food ball lover💞 #Njr uyr💋 #Soul love music🎼 #kl55/Qatar🇮🇳🇶🇦 #Adventure #Bike Rider #First cry on October 20 #Dream boy #Twenty
-    location: "India"
-    followers: 2727
-    engagement: 3780
-    commentsToLikes: 0.210201
-    id: ckf5vzlcbqeks0j2331o40n9s
-    verified: false
-    hashtags: "#ktmindia, #streetbike, #ktmfactoryracing, #sportbikelife"
-  - username: "lakshmi__l_u_x__"
-    fullname: >-
-      Lakshm❗️  Lux
-    bio: >-
-      😇😉😇 Dq 😍🥰😍 --------------------------------- 😀×music 😀×dance 😀×ride
-    location: "India"
-    followers: 37979
-    engagement: 689
-    commentsToLikes: 0.052892
-    id: ck14j5h4yiq750i190rbrg3ll
-    verified: false
-    hashtags: ""
-  - username: "thekylemeagher"
-    fullname: >-
-      Kyle Meagher
-    bio: >-
-      Musician • Actor • Anne with an E on Netflix • STREAM “Know Better’” now!
-    location: "India"
-    followers: 148377
-    engagement: 669
-    commentsToLikes: 0.024535
-    id: ck13cfgh502s30i19hhgrs3em
+    followers: 1123047
+    engagement: 2238
+    commentsToLikes: 0.014755
+    id: ck0w1s6xpkvcm0i19korjl6a4
     verified: true
-    hashtags: "#snow, #acting, #music, #ad"
-  - username: "zeus.arya"
+    hashtags: "#rap, #desihiphop, #desirap, #hiphop"
+  - username: "karaleapior"
     fullname: >-
-      A living meme™
+      Karalea Pior ✨
     bio: >-
-      Jack of all trades🤭 Dance | Art | Music 💙 YTFF 2018 performer✨ - ❤️ @_save.mother.earth_ 📺 Su Kare Che Video↓
+      We like to laugh over here ✌🏼 music | fam stuff | beauty stuff 🫶🏻 @swavpior tiktok 2.2 M | the pior fam
     location: "India"
-    followers: 3305
-    engagement: 2583
-    commentsToLikes: 0.090993
-    id: ck5hibemjcmsn0i110x8vkg0a
+    followers: 377560
+    engagement: 671
+    commentsToLikes: 0.013229
+    id: cl89ky7q32q3o0i23b8dbv10d
     verified: false
-    hashtags: "#zeusaryatravels, #nimitkotianchoreography, #dance, #immabeastdancer"
+    hashtags: "#husbandandwife, #torn, #marriage, #motherhood"
+  - username: "jason_arland"
+    fullname: >-
+      JASON ARLAND
+    bio: >-
+      Fashion |Music| Beauty | Model | Actor #JasonArland BRB , dancing to techno with @netflix_in ! And now on ECEL @netflix_in #TEDX Speaker .
+    location: "India"
+    followers: 14368
+    engagement: 546
+    commentsToLikes: 0.051953
+    id: ck134q6u8xnzo0i191sssi7id
+    verified: false
+    hashtags: "#reels, #jasonarland, #trendingreels, #makeup"
+  - username: "apt_yashomaan"
+    fullname: >-
+      Yashoman Apte
+    bio: >-
+      Actor, singer, percussionist I LOVE Food, movies, series, music, dogs, driving, travelling
+    location: "India"
+    followers: 237720
+    engagement: 858
+    commentsToLikes: 0.007574
+    id: ck0vyglfo3vzg0i19232ncrgs
+    verified: false
+    hashtags: "#rusticholidays, #starpravah, #shubhvivah, #aptyashomaan"
+  - username: "samcsmusic"
+    fullname: >-
+      𝑺𝑨𝑴 𝑪 𝑺
+    bio: >-
+      Music Composer - Song writer - singer - music producer - 🎶 🎹🎼🎵
+    location: "India"
+    followers: 186717
+    engagement: 614
+    commentsToLikes: 0.005327
+    id: ck13a9u0upc2r0i19e6p90ndf
+    verified: true
+    hashtags: "#pianist, #hiphop, #onedirectioninfection, #newmusic"
+  - username: "abhinavmukund"
+    fullname: >-
+      Abhinav Mukund
+    bio: >-
+      Sport, Movies, Comedy, Music, Travel and much more!
+    location: "India"
+    followers: 166031
+    engagement: 624
+    commentsToLikes: 0.002744
+    id: ck0vzt7ceasbo0i197de4j9vr
+    verified: true
+    hashtags: "#tnpl, #cricketchanakyan, #ipl2023, #cricket"
+  - username: "mr.deeofficial"
+    fullname: >-
+      Mr Dee ( Maahir khilaadi )
+    bio: >-
+      🎼Artist/MusicProducer🔈 “ਮਾਝੇ ਵਾਲਾ ਭਾਊ”👑 (Mr.Pendu) 💽Management enquiries👉9803238395 🎧Trap talk (new release) 👇
+    location: "India"
+    followers: 97593
+    engagement: 2682
+    commentsToLikes: 0.025968
+    id: ck0udigkyj33j0i19jj1mnw23
+    verified: false
+    hashtags: "#explorepage, #photography, #india, #likes"
+  - username: "abigail_pande"
+    fullname: >-
+      Abby :))
+    bio: >-
+      Life in a musical ✨
+    location: "India"
+    followers: 491345
+    engagement: 553
+    commentsToLikes: 0.008616
+    id: ck15qp4bl3ykl0i19jyt7goos
+    verified: true
+    hashtags: "#ad, #fitfam, #fitnessmotivation, #iphone14promax"
 ---

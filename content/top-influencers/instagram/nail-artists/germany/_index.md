@@ -1,11 +1,11 @@
 ---
-title: Top 10 Nail Artists Instagram Influencers In Germany In 2023
+title: Top 10 Nail Artists Instagram Influencers In Germany In 2024
 description: >-
-  Find top nail artists Instagram influencers in Germany in 2023. Most popular hashtags: #nailart #nailsofinstagram #nails #nailsonfleek.
+  Find top nail artists Instagram influencers in Germany in 2024. Most popular hashtags: #nailart #nailsofinstagram #nailsonfleek #nails.
 platform: Instagram
-hits: 30
-text_top: Analyze the most popular Instagram influencers on inBeat.
-text_bottom: Our search engine aggregates 30 Instagram influencers like this in Germany for you to contact.
+hits: 34
+text_top: Analyze the most popular Instagram profiles on inBeat.
+text_bottom: Our platform holds 34 Instagram influencers like this in Germany for you to contact.
 profiles:
   - username: "nailfashionbyjenny"
     fullname: >-
@@ -35,14 +35,26 @@ profiles:
     fullname: >-
       🌙🖤 LIZA WINTER 🖤🌙
     bio: >-
-      🌑Nail Artist in Germany / Deutschland🇩🇪 🌘International Trainer & Educator 🌗@glitterbels Ambassador • code: Liza 🌒LOCKDOWN SCHLIEßUNG BIS vsl. 03.03
+      🌑Nail Artist+Trainer&Educator 🌒www.Glitterbels-Germany.de 🌓@glitterbels Ambassador•code:Liza 🌔@glitterbelsgermany💕 🌕 📍Hanau, Deutschland 🇩🇪
     location: "Germany"
-    followers: 104409
-    engagement: 125
-    commentsToLikes: 0.010206
+    followers: 106032
+    engagement: 110
+    commentsToLikes: 0.015478
     id: ck5cie5m2shmv0i11p5li3g06
     verified: false
-    hashtags: "#nailstagram, #nailsofinstagram, #girly, #lifestyle"
+    hashtags: "#nagelstudiofrankfurt, #love, #nailsofinstagram, #glitterbelsgermany"
+  - username: "sandragiera"
+    fullname: >-
+      Nail-flash
+    bio: >-
+      Influencer - Nailartist 💅🏽 #nails #nailinspiration #nailideas
+    location: "Germany"
+    followers: 167829
+    engagement: 581
+    commentsToLikes: 0.011857
+    id: ck6tqzhycvsy00j71lltae1ff
+    verified: false
+    hashtags: "#nailsofinstagram, #nailinspo, #cupionailsgermany, #nailsummer"
   - username: "t.hes_"
     fullname: >-
       🎀 Thes 🎀
@@ -67,6 +79,30 @@ profiles:
     id: ck15ua9o8m6oe0i19h6q2cdwv
     verified: false
     hashtags: "#explorepage, #heartnails, #ombrenails, #summernails"
+  - username: "lina_lackiert"
+    fullname: >-
+      Carolina | Nail polish & Nailart
+    bio: >-
+      Love creating nailart and nail polish swatches Based in Germany 🇩🇪 Hand made press on nails @lina_lackiert_shop 😉
+    location: "Germany"
+    followers: 39401
+    engagement: 915
+    commentsToLikes: 0.030236
+    id: ck5c3c0sgz07q0i11u8krahgm
+    verified: false
+    hashtags: "#kineticscontest, #watermarblenails, #nailpolish, #lclvernis"
+  - username: "mybeauty___place"
+    fullname: >-
+      BEAUTY|FASHION|FOOD|INSPO UVM.
+    bio: >-
+      Hey ich bin Diana 🙋🏻‍♀️ Du findest hier einfach alles! 📍N R W | 🇮🇷 |👫🏻 Bride to be 👰🏻‍♀️💍 Kooperation DM📩 Dauerwerbesendung 📺
+    location: "Germany"
+    followers: 45230
+    engagement: 101
+    commentsToLikes: 0.001915
+    id: ck8t5wp9ybhvg0j78svwqcat4
+    verified: false
+    hashtags: "#frankfurt, #pedicure, #stuttgart, #ny"
   - username: "jenny.jennys"
     fullname: >-
       Jenny
@@ -90,41 +126,5 @@ profiles:
     commentsToLikes: 0.077220
     id: ckf5nqa7jz9g90j23kihssrd1
     verified: false
-    hashtags: "#nailarttutorial, #nails, #na, #easynails"
-  - username: "nailsdid.byginger"
-    fullname: >-
-      ℕ𝕒𝕚𝕝𝕤𝕕𝕚𝕕.𝕓𝕪𝔾𝕚𝕟𝕘𝕖𝕣
-    bio: >-
-      ▪️ 𝙻𝚒𝚌𝚎𝚗𝚜𝚎𝚍 𝙽𝚊𝚒𝚕 𝚃𝚎𝚌𝚑 ▪️ʟᴏɴɢ ʟᴇɴɢᴛʜ+ ᴏɴʟʏ🚨 ▪️Owner @jewelsnottools_ ▪️ＮＯ ＥＸＴＲＡ ＰＥＯＰＬＥ ▪️ 𝙳𝚎𝚙𝚘𝚜𝚒𝚝𝚜 𝚊𝚛𝚎 𝙽𝙾𝙽-𝚁𝙴𝙵𝚄𝙽𝙳𝙰𝙱𝙻𝙴 ▪️ ℝ𝕚𝕧𝕖𝕣𝕤𝕚𝕕𝕖, ℂ𝔸
-    location: "Germany"
-    followers: 9371
-    engagement: 739
-    commentsToLikes: 0.022625
-    id: ckaoru6egorn30i7812wq712a
-    verified: false
-    hashtags: "#ombrenails, #instanails, #swarovski, #gelnails"
-  - username: "janas.polish.art"
-    fullname: >-
-      Tatjana S.
-    bio: >-
-      🇩🇪 - zertifizierte Nageldesignerin 💌 mail for cop Impressum: -> @nailatelier_sommerfeld 🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻 Link zum Trendnails Shop ⤵️
-    location: "Germany"
-    followers: 6435
-    engagement: 821
-    commentsToLikes: 0.036938
-    id: ckap5fgtqbfug0i783ilmjmyf
-    verified: false
-    hashtags: "#nails, #lovenailart, #nailsonpoint, #sch"
-  - username: "chaos_lack"
-    fullname: >-
-      Jenny
-    bio: >-
-      Germany | Bring Farbe in dein Leben 💅🏼 #chaoslackliebtmatt #cl_unserelieblinge Bornprettystore 10%off Code:ZETTX31 BeautyBigBang.com 10%off code:CHA10
-    location: "Germany"
-    followers: 5072
-    engagement: 481
-    commentsToLikes: 0.108656
-    id: ck14h0sle7yy30i194d0zb2ur
-    verified: false
-    hashtags: "#nail, #nagelbilder, #vernis, #nailpage"
+    hashtags: "#flowernails, #nailinspiration, #nailartlove, #studionailart"
 ---

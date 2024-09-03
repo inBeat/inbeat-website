@@ -1,11 +1,11 @@
 ---
-title: Top 10 TikTok Influencers In Birmingham In 2023
+title: Top 10 TikTok Influencers In Birmingham In 2024
 description: >-
-  Find top TikTok influencers in Birmingham in 2023. Most popular hashtags: #fyp #foryoupage #foryou #duet.
+  Find top TikTok influencers in Birmingham in 2024. Most popular hashtags: #fyp #foryoupage #foryou #duet.
 platform: TikTok
-hits: 90
-text_top: Analyze the top-rated TikTok accounts on inBeat.
-text_bottom: Our search engine holds 90 TikTok influencers like this in Birmingham, United Kingdom for you to collaborate.
+hits: 92
+text_top: Identify the best TikTok influencers on inBeat.
+text_bottom: Our database has 92 TikTok influencers like this in Birmingham, United Kingdom for you to pitch.
 profiles:
   - username: "ashvalmont"
     fullname: >-
@@ -13,9 +13,9 @@ profiles:
     bio: >-
       Birmingham, UK (Occasionally 18+) You look lost, follow me. - Socials here:
     location: "United Kingdom"
-    followers: 316300
-    engagement: 2361
-    commentsToLikes: 0.021921
+    followers: 343200
+    engagement: 2020
+    commentsToLikes: 0.017025
     id: ckck2ciz1lpow0j23397rgd26
     verified: false
     hashtags: "#duet, #stitch"

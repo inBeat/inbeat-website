@@ -1,12 +1,24 @@
 ---
-title: Top 10 Food Instagram Influencers In Konya In 2023
+title: Top 10 Food Instagram Influencers In Konya In 2024
 description: >-
-  Find top food Instagram influencers in Konya in 2023. Most popular hashtags: #food #instalike #konya #instagood.
+  Find top food Instagram influencers in Konya in 2024. Most popular hashtags: #food #konya #tatl #yemek.
 platform: Instagram
-hits: 24
-text_top: Analyze the most popular Instagram accounts on inBeat.
-text_bottom: Our search engine aggregates 24 Instagram influencers like this in Konya, Turkey for you to contact.
+hits: 25
+text_top: Identify the best Instagram accounts on inBeat.
+text_bottom: Our platform has 25 Instagram influencers like this in Konya, Turkey for you to contact.
 profiles:
+  - username: "marastanlezzetler"
+    fullname: >-
+      𝗟𝗘𝗭𝗭𝗘𝗧 𝗔𝗩𝗖𝗜𝗟𝗔𝗥𝗜 🐾
+    bio: >-
+      🚹 @kaanokkescimen - 🚹 @fatihinobjektifi Yedek @marastanlezzetlercom Toplumdan ilham aldık ❤️
+    location: "Turkey"
+    followers: 113336
+    engagement: 183
+    commentsToLikes: 0.028521
+    id: ck5zo3qxrpp8a0i14jb3jgnna
+    verified: false
+    hashtags: "#tatl, #yemek, #do, #yemektarifleri"
   - username: "zevkliblog"
     fullname: >-
       Burcu'nun Dünyası 🌼
@@ -67,42 +79,42 @@ profiles:
     id: ck8tap6tbskfd0j78vsh26y53
     verified: false
     hashtags: "#yemek, #mardin, #instagood, #kahvalt"
-  - username: "chefzekikara"
+  - username: "denizligurme"
     fullname: >-
-      Zeki KARA
+      Bülent Vural
     bio: >-
-      𝙼𝚎𝚗𝚞̈ | 𝙼𝚞𝚝𝚏𝚊𝚔 𝙺𝚘𝚗𝚜𝚎𝚙𝚝 𝙳𝚊𝚗𝚒𝚜̧𝚖𝚊𝚗 | 𝙼𝚞𝚕𝚝𝚒𝙵𝚞𝚗𝚌𝚝𝚒𝚘𝚗 𝚂̧𝚎𝚏|𝙰𝚜̧𝚌̧𝚒|𝙼𝚊𝚝𝚋𝚊𝚑 | 𝙴𝚐̆𝚒𝚝𝚒𝚖 |𝙴𝚟𝚎𝚗𝚝 |𝙶𝚊𝚜𝚝𝚛𝚘|𝙼𝚎𝚗𝚞̈|𝙺𝚎𝚎𝚙𝚎𝚛 𝚌𝚘𝚗𝚜𝚞𝚕𝚝𝚒𝚗𝚐 𝚃𝙰𝙵𝙴𝙳 𝚋𝚊𝚜̧𝚔. 𝚢𝚛𝚍𝚌.
+      Denizli Gurme ®️ ✒️Gastronomi ve Mekan Yazarı 📝 @gastrofill_ Haber Müdürü 🎥YouTuber 🤝Davet ve İşbirliği için DM #denizligurme
     location: "Turkey"
-    followers: 38825
-    engagement: 284
-    commentsToLikes: 0.266212
-    id: ck5c5yn0p4dyb0i11h3vhr3d4
+    followers: 49889
+    engagement: 26
+    commentsToLikes: 0.071446
+    id: ckaotisquw3h60i78x7872ftr
     verified: false
-    hashtags: "#instafood, #photooftheday, #dinner, #smile"
-  - username: "yunusemreakkor"
+    hashtags: "#yemek, #her, #foodporn, #yerimsenidenizli"
+  - username: "tadimnotlari"
     fullname: >-
-      Sertabbah
+      tadimnotlari
     bio: >-
-      Ayla’nın babası 💕 TRT 2 ‘de belgeselci,Skylife yazarı,Kültür araştırmacısı, World cookbook awards 2020’de dünyanın en iyisi ödüllü, Zanaatkar aşçıbaşı
+      İletişim için DM Yemek sevdalısı ❤️ Yer Gezer Keşfeder
     location: "Turkey"
-    followers: 180643
-    engagement: 240
-    commentsToLikes: 0.031251
-    id: ck5zo3lkvpov80i1467ijxhnx
-    verified: true
-    hashtags: "#yemek, #dinner, #instagood, #dekahvalt"
-  - username: "meshuryemek"
-    fullname: >-
-      Meşhuryemek
-    bio: >-
-      👉Gurmelik ne haddimize bizimki yemek 'AŞK'ı
-    location: "Turkey"
-    followers: 202785
-    engagement: 105
-    commentsToLikes: 0.019319
-    id: ck1393ph4jd2a0i193ahbgvhc
+    followers: 833416
+    engagement: 11
+    commentsToLikes: 0.014718
+    id: ck0vzy3pvbg950i19mw48lh9j
     verified: false
-    hashtags: "#lezzet, #evdetarifler, #sweet, #yemek"
+    hashtags: "#reklam, #food, #yemek, #mersin"
+  - username: "coskunyayci"
+    fullname: >-
+      Coşkun YAYCI ®️
+    bio: >-
+      @kunefe.han 💚Emek mahallesi /Gaziantep 💚Burger 💚Hasır 💚Dondurmalı Hasır 💚YB&YF 💚Gibi bir çok künefenin AR-GE ve isim sahibi
+    location: "Turkey"
+    followers: 56007
+    engagement: 201
+    commentsToLikes: 0.163213
+    id: ck0vuvg23mcff0i19fjxh8j2j
+    verified: false
+    hashtags: "#izmir, #diyarbak, #edirne, #dubai"
   - username: "katreninguzellikleri"
     fullname: >-
       hatice gks
@@ -115,16 +127,4 @@ profiles:
     id: ckf5uomqclp6y0j233ohnwusq
     verified: false
     hashtags: "#igt, #nofilter, #etkilesimpostu, #anadalugram"
-  - username: "antalyagurmesimurat"
-    fullname: >-
-      Antalya Gurmesi Murat Atay
-    bio: >-
-      👉 @atayname 🇹🇷 ANTALYA Sevdam ➡️ Gurme; Lezzeti keşfetmiş, damak tadına sahip kişi demek. 🎥 Youtuber 👇Abone Ol👇 📲 İletişim için - Mail Lütfen
-    location: "Turkey"
-    followers: 228348
-    engagement: 95
-    commentsToLikes: 0.017229
-    id: ck0uettwjm9n20i19h4a6dn0j
-    verified: false
-    hashtags: "#restaurant, #tahin, #antalyagurmesi, #muratatay"
 ---

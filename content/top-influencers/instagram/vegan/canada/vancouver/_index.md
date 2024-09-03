@@ -1,24 +1,60 @@
 ---
-title: Top 10 Vegan Instagram Influencers In Vancouver In 2023
+title: Top 10 Vegan Instagram Influencers In Vancouver In 2024
 description: >-
-  Find top vegan Instagram influencers in Vancouver in 2023. Most popular hashtags: #vegan #vancouver #vancouverfoodie #yvreats.
+  Find top vegan Instagram influencers in Vancouver in 2024. Most popular hashtags: #vegan #vancouver #vancouverfood #veganvancouver.
 platform: Instagram
-hits: 22
-text_top: Identify the most popular Instagram profiles on inBeat.
-text_bottom: Our search engine aggregates 22 Instagram influencers like this in Vancouver, Canada for you to pitch.
+hits: 36
+text_top: See the most popular Instagram influencers on inBeat.
+text_bottom: Our platform has 36 Instagram influencers like this in Vancouver, Canada for you to work with.
 profiles:
-  - username: "vancity.hungrycouple"
+  - username: "rosslynmaria"
     fullname: >-
-      Alex & Jen | Foodie Couple
+      Rosslyn | Food Photographer 🌱
     bio: >-
-      Vancity’s Foodie Couple 👫 Just your typical hungry couple eating our way through life #nomswithAJ 📍 YVR 🇨🇦, ✈️ CDG 🇫🇷 📬 DM/email for collaborations
+      » easy vegan sweets » cofounder of @foodphotographycorner » vancouver, bc ⇣ recipes + resources⇣
     location: "Canada"
-    followers: 9436
-    engagement: 292
-    commentsToLikes: 0.176243
-    id: ckap9ooirt0q80i78ptyym0fz
+    followers: 22014
+    engagement: 488
+    commentsToLikes: 0.064779
+    id: ck0w0xfjygifp0i19kww4b0om
     verified: false
-    hashtags: "#yvrfoodie, #dessert, #yvreats, #explorevancouver"
+    hashtags: "#vancouvervegan, #chocolatecookies, #ad, #foodvideo"
+  - username: "kaitlyndickie"
+    fullname: >-
+      kaitlyn dickie
+    bio: >-
+      📍 Whistler | Vancouver 🌊 Host: @wanderingwellnessgetaway 🌱 Plant-based 💌 Collabs: hello@kaitlyndickie.com
+    location: "Canada"
+    followers: 11953
+    engagement: 160
+    commentsToLikes: 0.086402
+    id: clpbte3svadbb0k08tdk2ufxj
+    verified: false
+    hashtags: "#women, #santateresa, #travel, #bajamexico"
+  - username: "erinireland"
+    fullname: >-
+      Erin Ireland
+    bio: >-
+      Daily plant-based meal ideas. Discovering vegan food in Vancouver, BC. Owner of @tolivefor.bakery. erin@tolivefor.ca
+    location: "Canada"
+    followers: 205978
+    engagement: 126
+    commentsToLikes: 0.059808
+    id: ck0vxexapykby0i19tw3gytqs
+    verified: true
+    hashtags: "#vegan, #veganrecipes, #plantbased, #veganvancouver"
+  - username: "cheaplazyvegan"
+    fullname: >-
+      Rose 🌹 Cheap Lazy Vegan
+    bio: >-
+      🎥 YouTube.com/cheaplazyvegan 🍴 My Vegan Cafe @savegyyc 🎤 Podcast @thesavegpodcast 🥰 Personal @therosatron 👇RECIPES & LINKS 😍
+    location: "Canada"
+    followers: 202021
+    engagement: 77
+    commentsToLikes: 0.023917
+    id: ck136n1357aob0i199kseyulp
+    verified: false
+    hashtags: "#cheapvegan, #cheaplazyvegan, #easyrecipe, #vegansofig"
   - username: "dari_eats"
     fullname: >-
       Darius • Vancouver Foodie
@@ -30,19 +66,31 @@ profiles:
     commentsToLikes: 0.291190
     id: ck6tm0thd6zkb0j71lhlg1p3f
     verified: false
-    hashtags: "#vancouverkoreanfood, #foodintheair, #yvrfoodie, #604eats"
-  - username: "purelycristina"
+    hashtags: "#richmondeats, #vancouverfoodie, #koreanfoodlover, #foodmemes"
+  - username: "vancityeats"
     fullname: >-
-      Cristina🦋Purely Plant Powered
+      VANCOUVER FOOD SCENE
     bio: >-
-      wellness, health, lifestyle 22 | Vancouver 💌 cristina.delmaestro@gmail.com 🧬BSc Molecular Biology & Biochemistry Student
+      😋The most delicious meals of Vancouver ‼️Giveaways to the best restaurants 🤳Providing marketing services for local restaurants
     location: "Canada"
-    followers: 7242
-    engagement: 1751
-    commentsToLikes: 0.165954
-    id: ck6trzfcy1yrf0j71r5m0osjh
+    followers: 46093
+    engagement: 119
+    commentsToLikes: 0.475269
+    id: ck0typscwnp620i197njk8u3q
     verified: false
-    hashtags: "#proteinsmoothie, #healthysmoothies, #wellnessaesthetic, #greensmoothierecipe"
+    hashtags: "#yvr, #vancityeats, #vancouvereats, #vancouver"
+  - username: "passionegelatoyvr"
+    fullname: >-
+      Passione Gelato Artigianale
+    bio: >-
+      🍨 Microbatch handcrafted gelato 📜 There’s a story behind every flavour… 📍Located by Parq Casino
+    location: "Canada"
+    followers: 20791
+    engagement: 96
+    commentsToLikes: 0.033764
+    id: ckyecgv9kpz5t0j23364wrlk0
+    verified: false
+    hashtags: "#italiangelato, #icecreamtime, #gelatoartigianale, #gelatotime"
   - username: "naomikingofficial"
     fullname: >-
       Naomi King
@@ -67,64 +115,16 @@ profiles:
     id: ck15rr0s299i70i19ochgo0fz
     verified: false
     hashtags: "#plantbased, #govegan, #foodforthought, #vancouveractress"
-  - username: "chase.teron"
+  - username: "__sugar.plum.chumm__"
     fullname: >-
-      Chase Teron
+      SWF ✨
     bio: >-
-      @articaphototours + @ultimatephotocourse Photographer & Instructor Vancouver Island Vegan Sign Up 10 Day Print Selling Challenge March 3-13↓
+      Living the✨Life 🇨🇦 Lifestyle Influencer Fashion|Skincare|Food|Travel|Lifestyle & everything nice!
     location: "Canada"
-    followers: 10645
-    engagement: 522
-    commentsToLikes: 0.029521
-    id: ck6uf379culxh0j71pbvaltll
+    followers: 19842
+    engagement: 6
+    commentsToLikes: 0.005440
+    id: ckto9ubmrer2w0j23l60i6ifc
     verified: false
-    hashtags: "#natgeotravel, #visitsvalbard, #groenland, #greenland"
-  - username: "cococakeland"
-    fullname: >-
-      Lyndsay
-    bio: >-
-      🎂Baker, 👵blogger + author of #cococakelandbook! 🌈💕✨ 📍Vancouver, Canada
-    location: "Canada"
-    followers: 98222
-    engagement: 151
-    commentsToLikes: 0.038231
-    id: ck5zvxmin53p10i146b3gyu1h
-    verified: false
-    hashtags: "#vegancake, #plantbasedcake, #cococakelandbook, #plantbased"
-  - username: "hc.drew"
-    fullname: >-
-      Heather Drew
-    bio: >-
-      Unity Tattoo | Vancouver, BC 🥑Vegan Tattoos🥑 No DMs Please Books Closed
-    location: "Canada"
-    followers: 7356
-    engagement: 242
-    commentsToLikes: 0.019913
-    id: ck9haue4fe6gt0j78oojfee0b
-    verified: false
-    hashtags: "#vancouver, #vancouvertattooartist, #cattoo, #blackandgreytattoo"
-  - username: "anna.pelzer"
-    fullname: >-
-      Anna Pelzer
-    bio: >-
-      Vegan food photographer in North Vancouver, BC. Selected as #One2Watch by @CanonCanada. Foodie stop motion videos and lots of avocado!
-    location: "Canada"
-    followers: 44331
-    engagement: 251
-    commentsToLikes: 0.133768
-    id: ck0vyfh7h3pxd0i19f9anakj4
-    verified: false
-    hashtags: "#eattherainbow, #eatyourcolors, #whatveganseat, #vegansofcanada"
-  - username: "squeezemytofu"
-    fullname: >-
-      Squeezemytofu
-    bio: >-
-      🥗Vegan cooking & dining 📍Amsterdam, Netherlands 🇰🇷Seoul 🇨🇦Vancouver 🇺🇸NYC 📚Economist 📩squeezemytofu@gmail.com
-    location: "Canada"
-    followers: 20523
-    engagement: 373
-    commentsToLikes: 0.033080
-    id: ck55m4g6a37640i11wyppy3hq
-    verified: false
-    hashtags: "#instafood, #veganfoodshared, #veganfoodshare, #plantbased"
+    hashtags: "#christmas, #holidayseason, #torontochristmas, #torontofoodie"
 ---

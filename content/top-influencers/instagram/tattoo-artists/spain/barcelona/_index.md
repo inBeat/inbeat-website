@@ -1,24 +1,36 @@
 ---
-title: Top 10 Tattoo-Artists Instagram Influencers In Barcelona In 2023
+title: Top 10 Tattoo-Artists Instagram Influencers In Barcelona In 2024
 description: >-
-  Find top tattoo-artists Instagram influencers in Barcelona in 2023. Most popular hashtags: #barcelona #tattoo #tattooartist #barcelonatattoo.
+  Find top tattoo-artists Instagram influencers in Barcelona in 2024. Most popular hashtags: #tattoo #tattooartist #barcelona #barcelonatattoo.
 platform: Instagram
-hits: 29
-text_top: Discover the most popular Instagram influencers on inBeat.
-text_bottom: Our search engine has 29 Instagram influencers like this in Barcelona, Spain for you to work with.
+hits: 28
+text_top: Analyze the most popular Instagram influencers on inBeat.
+text_bottom: Our platform aggregates 28 Instagram influencers like this in Barcelona, Spain for you to contact.
 profiles:
   - username: "lea_ht2"
     fullname: >-
       ⚜️LEA⚜️ NEOUVEAU TATTOOS⚜️
     bio: >-
-      @blackship.bcn Barcelona, Spain. ➖BOOKINGS OPEN➖ @inkjecta@meaculpairons@sumuntattoo@noequintillan 📩 leahtattooerinfo@gmail.com
+      @blackship.bcn Open bookings: DM / leahtattooerinfo@gmail.com Barcelona/Spain Sponsors @inkjecta @emalla_official @sumuntattoo @noequintillan
     location: "Spain"
-    followers: 87950
-    engagement: 226
-    commentsToLikes: 0.018757
+    followers: 91104
+    engagement: 359
+    commentsToLikes: 0.022036
     id: ck0u7ovsj5ayk0i19bdou97e6
     verified: false
-    hashtags: "#mallorcatattoo, #fox, #meaculpairons, #inkjecta"
+    hashtags: "#ornamenttattoo, #tattoos, #artnoveau, #inkjectapro"
+  - username: "corehlopez"
+    fullname: >-
+      COREH LÓPEZ
+    bio: >-
+      @intenzetattooink @aloetattoo @hardcraftcompany MasterCourse: Realistic Tattooing 👇🏻
+    location: "Spain"
+    followers: 128595
+    engagement: 247
+    commentsToLikes: 0.021737
+    id: ck8svtmxocnbm0j782kvdpyjo
+    verified: true
+    hashtags: "#tattoo, #intenzeink, #lips, #hardcraftco"
   - username: "maruhrz"
     fullname: >-
       𝙈𝙖𝙧𝙪 𝙍𝙯 ✨
@@ -55,18 +67,6 @@ profiles:
     id: ck0u61cie0o4a0i19ea9yqndi
     verified: false
     hashtags: ""
-  - username: "orditattoo"
-    fullname: >-
-      Ordi オルディBarcelona Irezumi
-    bio: >-
-      Tattooing at @blackrosetattoobcn ⚫️Citas DM📩
-    location: "Spain"
-    followers: 18318
-    engagement: 382
-    commentsToLikes: 0.017060
-    id: ck8tdbub42q260j78xhvcr829
-    verified: false
-    hashtags: "#tattooartist, #flower, #tiger, #flashtattoo"
   - username: "tattoosbykike"
     fullname: >-
       tattoosbykike
@@ -79,18 +79,6 @@ profiles:
     id: ck15r8ej66nv80i19mmisofsk
     verified: false
     hashtags: "#dotwork, #tattooist, #tattooinspiration, #tattoo"
-  - username: "cynthiaoficial_"
-    fullname: >-
-      Cynthia Martinez
-    bio: >-
-      🎙Presentadora/Colab Tv 🎬Actriz 👗MissBcn2007 C.E.O @cynthia_microbeauty Micropigmentadora TikTok cynthiamartinez19 📩 Contrataciones 649950297(Tatiana)
-    location: "Spain"
-    followers: 82109
-    engagement: 258
-    commentsToLikes: 0.051750
-    id: ckap0nsjbr3w10i78xs5sqft0
-    verified: true
-    hashtags: "#madrid, #influencer, #photooftheday, #model"
   - username: "albaprietotattooart"
     fullname: >-
       Alba Prieto
@@ -102,19 +90,19 @@ profiles:
     commentsToLikes: 0.030509
     id: ck55pki3tar1b0i11xr12j3a6
     verified: false
-    hashtags: "#tattoos, #skinart, #art, #artistasdeltatuaje"
+    hashtags: "#barcelonatattoo, #tattoo, #art, #thebesttattooartists"
   - username: "esmeraldaink"
     fullname: >-
-      𝔼𝕤𝕞𝕖𝕣𝕒𝕝𝕕𝕒𝕚𝕟𝕜𝕋𝕒𝕥𝕥𝕠𝕠𝕊𝕥𝕦𝕕𝕚𝕠
+      𝕋𝕒𝕥𝕥𝕠𝕠 𝕊𝕥𝕦𝕕𝕚𝕠
     bio: >-
-      📍 Barcelona (Spain) Artists & Resident Staff @esmeralda.a.c13 @hectormateostattoo @juls.tattoo @joankaveli StudioSponsor @balm_tattoo
+      Barcelona (Spain)📍 Resident Artists @esmeralda.a.c13 @juls.tattoo @hectormateostattoo Staff & Piercer @joankaveli Sponsor Studio @balm_tattoo
     location: "Spain"
-    followers: 29682
-    engagement: 144
-    commentsToLikes: 0.094573
+    followers: 29613
+    engagement: 156
+    commentsToLikes: 0.085593
     id: ck0tyioawmzn10i192bgfsn0m
     verified: false
-    hashtags: "#tatuadora, #firsttattoo, #realistictattoo, #balmtattoo"
+    hashtags: "#ink, #tattooart, #realistictattoo, #thebesttattooartist"
   - username: "leonka.art"
     fullname: >-
       LeonKa
@@ -127,4 +115,16 @@ profiles:
     id: ck15tttb4jv5o0i19yjavax55
     verified: false
     hashtags: "#hermetica, #barcelona, #alchemy, #barcelonatattoo"
+  - username: "cosafina_tattoo"
+    fullname: >-
+      CosaFinaTattoo
+    bio: >-
+      •Estudio de tatuaje artístico en Barcelona •Consulta y pide tu cita en: ✉️ info@cosafinatattoo.com ✉️ 📞 937130096 / 626730846
+    location: "Spain"
+    followers: 42391
+    engagement: 212
+    commentsToLikes: 0.010808
+    id: ck0w432mwwk8n0i19k4sgzqfw
+    verified: false
+    hashtags: "#realistictattoo, #carlosfabra, #tattooink, #adrianhidalgo"
 ---

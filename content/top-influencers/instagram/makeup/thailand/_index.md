@@ -1,24 +1,48 @@
 ---
-title: Top 10 Makeup Instagram Influencers In Thailand In 2023
+title: Top 10 Makeup Instagram Influencers In Thailand In 2024
 description: >-
-  Find top makeup Instagram influencers in Thailand in 2023. Most popular hashtags: #makeup #makeupartist #fashion.
+  Find top makeup Instagram influencers in Thailand in 2024. Most popular hashtags: #makeup #makeupartist #thailand.
 platform: Instagram
-hits: 98
+hits: 102
 text_top: Identify the best Instagram accounts on inBeat.
-text_bottom: inBeat has 98 Instagram influencers like this in Thailand for you to contact.
+text_bottom: Our search engine holds 102 Instagram influencers like this in Thailand for you to contact.
 profiles:
+  - username: "pearypie"
+    fullname: >-
+      Amata Chittasenee
+    bio: >-
+      Former Makeup Artist Thailand Culture Maker #pearypiewearsthaifabric Bangkok Rooftop Farmer Environmental Advocate #chiangdaoclassroom
+    location: "Thailand"
+    followers: 1478865
+    engagement: 122
+    commentsToLikes: 0.004474
+    id: ck6tpsbi1me9g0j719mz87zss
+    verified: true
+    hashtags: "#pearypiegoesgreen, #pearypiearoundtheworld, #pearypiewearsthaifabric, #amsterdam"
+  - username: "lucidstyle_official"
+    fullname: >-
+      Lucia Sladeckova
+    bio: >-
+      📍 Koh Samui Thai/SVK •ASEA• Makeup & hair 1st 🥇 Social Awards 🇸🇰’20 1st 🥇 Social Awards 🇸🇰’22 @lucidloveslydia @whitecat_thai @lucidstylebeauty
+    location: "Thailand"
+    followers: 300571
+    engagement: 112
+    commentsToLikes: 0.011472
+    id: ck0vvp0y9q4570i19vxj3092n
+    verified: false
+    hashtags: "#thailand, #lucidstyle, #hair, #makeupartist"
   - username: "applebehappy"
     fullname: >-
-      ปั้น
+      Rinpapak Sookariyakul ปั้น
     bio: >-
-      ช่างแต่งหน้า | MAKEUP ARTIST DM & Line id: Rinpapak @applebehappymakeup #applebehappymakeup #applebehappysworld
+      ช่างแต่งหน้า makeup artist DM / Line ID: rinpapak @applebehappymakeup #applebehappymakeup #HOBBY @cactusbehappy #cactusbehappy 🌵#applebehappysworld
     location: "Thailand"
-    followers: 49704
-    engagement: 98
-    commentsToLikes: 0.027948
+    followers: 48726
+    engagement: 136
+    commentsToLikes: 0.030153
     id: ck6u3m9f9ylgh0j7183wg5naa
     verified: false
-    hashtags: "#makeupartist, #thaimakeupartist, #wedding, #socialdistancing"
+    hashtags: "#cosmetics, #cactusbehappy, #makeupartist, #actress"
   - username: "aniqausmanofficial"
     fullname: >-
       Aniqa Usman
@@ -103,28 +127,4 @@ profiles:
     id: ck5zimpykfzxp0i14loneapgy
     verified: false
     hashtags: "#bride, #makeuptalk, #makeuplover, #makeupartistthailand"
-  - username: "dieu_nhiii"
-    fullname: >-
-      🍒 Diệu Nhi  🍒
-    bio: >-
-      🎬 Actress in VietNam 🎬 💕Fanpage : https://facebook.com/xdieunhix/ 💕 ⭐️For Work : dieunhiofficial1@gmail.com ⭐️ 🔥 My Channel 🔥👇👇👇👇👇👇👇👇👇
-    location: "Thailand"
-    followers: 3768461
-    engagement: 126
-    commentsToLikes: 0.003100
-    id: ck0w0iq0veeo30i19oy3s9cjr
-    verified: true
-    hashtags: "#photographer, #reels, #die, #stylist"
-  - username: "app.coll"
-    fullname: >-
-      App.Coll
-    bio: >-
-      👩‍🎓Law| 👩‍💻#realestate|#travel 🇮🇩🇱🇦🇸🇬🇰🇭🇭🇰🇻🇳🇲🇾🇩🇪🇨🇿🇧🇪🇳🇱🇪🇸🇵🇹🇬🇷🇦🇹🇮🇹🇨🇭🇫🇷🇹🇷🇵🇱🇭🇺🇷🇸 Check my👇 🏡 @rightkeyestate 🛒🍷@wine_all_day 🛒 👗@spritz_clothing 🎈#Bangkok
-    location: "Thailand"
-    followers: 20325
-    engagement: 1396
-    commentsToLikes: 0.059246
-    id: ckaoxrshcegax0i78l9dyxfyz
-    verified: false
-    hashtags: "#asiangirl, #makeup, #holiday, #weekend"
 ---

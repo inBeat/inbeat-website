@@ -1,11 +1,11 @@
 ---
-title: Top 10 Vegan TikTok Influencers In Dallas In 2023
+title: Top 10 Vegan TikTok Influencers In Dallas In 2024
 description: >-
-  Find top vegan TikTok influencers in Dallas in 2023. Most popular hashtags: #vegan #fyp #duet #veganfood.
+  Find top vegan TikTok influencers in Dallas in 2024. Most popular hashtags: #vegan #fyp #duet #veganfood.
 platform: TikTok
 hits: 7
-text_top: See the most popular TikTok influencers on inBeat.
-text_bottom: Our database holds 7 TikTok influencers like this in Dallas, United States for you to work with.
+text_top: Analyze the top-rated TikTok accounts on inBeat.
+text_bottom: Our database has 7 TikTok influencers like this in Dallas, United States for you to work with.
 profiles:
   - username: "paigealwayswright"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.014029
     id: ckcpcatkpfjje0j23hwjzog88
     verified: false
-    hashtags: "#marriedlife, #cooking, #food, #pregnant"
+    hashtags: "#healthyfood, #recipes, #pregnant, #cooking"
   - username: "hunuhh"
     fullname: >-
       Hannah Gebert
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.087091
     id: ckcjh5h6sc18q0j23zdctpowc
     verified: false
-    hashtags: "#fyp, #veganfood, #sleflove, #weightloss"
+    hashtags: "#plantbased, #selflove, #veganfood, #trending"
   - username: "parul.nagpal"
     fullname: >-
       Purukitchen
@@ -90,7 +90,7 @@ profiles:
     commentsToLikes: 0.021395
     id: ck806w30kmh5u0j78f9a4heoe
     verified: false
-    hashtags: "#rap, #hiphop, #fyp, #boxing"
+    hashtags: "#fyp, #funny, #boxing, #hoodcomedy"
   - username: "veganlesbianrepublicans"
     fullname: >-
       Eve & Das
@@ -114,7 +114,7 @@ profiles:
     commentsToLikes: 0.137265
     id: ckdi698kc7kx40j23kfpcva2q
     verified: false
-    hashtags: "#stitch, #vegan, #plantbased, #leftist"
+    hashtags: "#stitch, #plantbased, #leftist, #vegan"
   - username: "veganmumu"
     fullname: >-
       Shannon
@@ -126,5 +126,5 @@ profiles:
     commentsToLikes: 0.401234
     id: ckavlfj1duq540j237nx3htr9
     verified: false
-    hashtags: "#mom, #davematthewsband, #floridavegan, #heal"
+    hashtags: "#heal, #cats, #animallover, #nontoxic"
 ---

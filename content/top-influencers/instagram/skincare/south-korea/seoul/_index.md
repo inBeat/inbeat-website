@@ -1,36 +1,72 @@
 ---
-title: Top 10 Skincare Instagram Influencers In Seoul In 2023
+title: Top 10 Skincare Instagram Influencers In Seoul In 2024
 description: >-
-  Find top skincare Instagram influencers in Seoul in 2023. Most popular hashtags: #makeup #skincare #ootd #beauty.
+  Find top skincare Instagram influencers in Seoul in 2024. Most popular hashtags: #skincare #seoul #korea #kbeauty.
 platform: Instagram
-hits: 9
-text_top: See the top-rated Instagram influencers on inBeat.
-text_bottom: Our search engine aggregates 9 Instagram influencers like this in Seoul, South Korea for you to connect with.
+hits: 14
+text_top: Analyze the top-rated Instagram influencers on inBeat.
+text_bottom: Our search engine aggregates 14 Instagram influencers like this in Seoul, South Korea for you to collaborate.
 profiles:
-  - username: "taelaraa"
+  - username: "nataliaa_garza"
     fullname: >-
-      Dilara ILGAZ
+      Natalia Garza
     bio: >-
-      #모델 #model 촬영문의 ⤵️ 📩 이메일:anj-ent@naver.com ☎️연락처 (백철호): +82 010-7455-0175
+      📮 seoul 📊 working in the skincare industry👩🏻‍💻 🩵 realistic & romanticized korea content 💌 natalia.garza.sns@gmail.com
     location: "South Korea"
-    followers: 7566
-    engagement: 1016
-    commentsToLikes: 0.029799
-    id: ck8t2ajzoyqub0j78rmpoc531
+    followers: 30404
+    engagement: 351
+    commentsToLikes: 0.019938
+    id: ckv9fma2z3wwe0j235j0ieq53
     verified: false
-    hashtags: "#girl, #me, #makeup, #taelara"
-  - username: "thruhelenslens"
+    hashtags: "#seoul, #sunscreen, #korea, #skincare"
+  - username: "euniunni"
     fullname: >-
-      HELEN LIAO
+      Euniunni 유니언니
     bio: >-
-      ☕️ seoul ✉️ summer@sparktalentgroup.com skincare & vlogs on TikTok / YouTube
+      Seoul🇰🇷 LA🇺🇸 Euniunni05@gmail.com
     location: "South Korea"
-    followers: 26726
-    engagement: 749
-    commentsToLikes: 0.136993
-    id: ckf5mrpx7v4hu0j23zntbbl6c
+    followers: 101075
+    engagement: 170
+    commentsToLikes: 0.064251
+    id: cl48q91ebm6hf0i23qcxjt953
     verified: false
-    hashtags: "#iopeus, #iopegiftedme, #seoultosephora, #aveneusa"
+    hashtags: "#seoul, #koreanskincare, #kbeauty, #skincare"
+  - username: "cog.j_92"
+    fullname: >-
+      Cog(코그) | 이정환
+    bio: >-
+      💌 cog7226@naver.com 테무 신규 가입자 90%코드: DKN2625 (검색창에 입력)
+    location: "South Korea"
+    followers: 401195
+    engagement: 122
+    commentsToLikes: 0.006335
+    id: ck8t3zxzp532s0j78rti68rb2
+    verified: false
+    hashtags: "#dwquadro, #elevation, #dwinkorea, #ut"
+  - username: "namu_bear"
+    fullname: >-
+      Mina 🧿
+    bio: >-
+      i like art & music | based in Seoul 🇰🇷 (🇪🇸) ✉️ PR/협찬 문의: DM/e-mail code NAMUBEAR for 10% off Cokodive
+    location: "South Korea"
+    followers: 87894
+    engagement: 252
+    commentsToLikes: 0.014552
+    id: ck0u1firwwog80i19o855g17q
+    verified: false
+    hashtags: "#kpopcollection, #bt21merch, #btsmerchandise, #btsroom"
+  - username: "beautyofjoseon_official"
+    fullname: >-
+      Hanbang Skincare : BOJ
+    bio: >-
+      📍Flagship store : 82, Samcheong-ro, Jongno-gu, Seoul, Republic of Korea ✨Hanbang + modern ingredients ✨Cruelty-free ✨Beauty in Relief
+    location: "South Korea"
+    followers: 497028
+    engagement: 48
+    commentsToLikes: 0.027298
+    id: ckwaq2z00kiwu0j23auoanj61
+    verified: false
+    hashtags: "#boj, #beautyofjoseon, #glassskin"
   - username: "d2nasoaring"
     fullname: >-
       Dina 디나 Mujanović
@@ -43,18 +79,6 @@ profiles:
     id: ck6tvpzpwnm7r0j718srk9qrl
     verified: false
     hashtags: "#selfie, #skincare, #koreanbeauty, #koreanskincare"
-  - username: "hehejihee"
-    fullname: >-
-      Julie Hwang
-    bio: >-
-      Kiwi Korean in Dubai ✨ NEW SKINCARE VIDEO⬇️
-    location: "South Korea"
-    followers: 56787
-    engagement: 522
-    commentsToLikes: 0.012792
-    id: ckaozhqm2lxud0i78ep1u8e99
-    verified: false
-    hashtags: "#serenity, #fashion, #ootd, #travel"
   - username: "naina_thapa"
     fullname: >-
       Naina ★네나★🧿
@@ -66,19 +90,31 @@ profiles:
     commentsToLikes: 0.051511
     id: ck6uevqevtcty0j718rd4gh5w
     verified: false
-    hashtags: "#photooftheday, #fashionista, #beauty, #makeup"
-  - username: "lapaisible_ss"
+    hashtags: "#bhfyp, #style, #instagood, #art"
+  - username: "mounecasta"
     fullname: >-
-      라파지블 플로리스트 자매 Florist sisters
+      Mounia Djillar
     bio: >-
-      플라워 디자인 라파지블 Florist @lapaisible_sh @lapaisible_sm KakaoID : lapaisible 2, Ogin 3-gil, Jongno-gu, Seoul, Korea 02 734 1205 lapaisibleflower@gmail.com
+      ☆ @newme.in.korea
     location: "South Korea"
-    followers: 40045
-    engagement: 159
-    commentsToLikes: 0.014216
-    id: ck14grffa6ndm0i190n7yseu8
+    followers: 61232
+    engagement: 217
+    commentsToLikes: 0.021593
+    id: ckf5tntk7i9xo0j23olqhf879
     verified: false
-    hashtags: "#florist, #lapaisible, #lapaisibleflower, #koreaflower"
+    hashtags: "#seoul, #alger, #paris, #love"
+  - username: "lalakanoha"
+    fullname: >-
+      𝙇𝙖𝙡𝙖 𝘽𝙖𝙚𝙠  🦋🌙
+    bio: >-
+      📍 𝙇𝙞𝙛𝙚 𝙞𝙣 𝙆𝙤𝙧𝙚𝙖 🇰🇷🇺🇦 ♡ 모델 & 인플루언서. TikTok 125K ♡ 📌 광고문의 , 협찬 collab 𝐃𝐌
+    location: "South Korea"
+    followers: 117840
+    engagement: 39
+    commentsToLikes: 0.010823
+    id: ck9wecq92jpp80j780zp6c5hq
+    verified: false
+    hashtags: "#koreanbeauty, #ulzzangfashion, #koreanstyle, #koreangirl"
   - username: "welcometothepanoptico"
     fullname: >-
       세바 ~ (SHIPPO-YO) 📹
@@ -91,40 +127,4 @@ profiles:
     id: ck5pw4bzyl1bn0i11a94fpj2o
     verified: false
     hashtags: "#instamood, #snow, #urbanbike, #bts"
-  - username: "glee_makeup"
-    fullname: >-
-      글리 glee
-    bio: >-
-      협업문의 gleemakeup@naver.com 글리메이크업 @glee_makeup
-    location: "South Korea"
-    followers: 63997
-    engagement: 204
-    commentsToLikes: 0.009809
-    id: ck14jhftykd3u0i193zey1y1i
-    verified: false
-    hashtags: "#liptint, #coffee, #homecafe, #koreanfood"
-  - username: "hanna.co.kr"
-    fullname: >-
-      Hanna Kim 김한나
-    bio: >-
-      아나운서 / 성우 / 행사MC / 릴리맘 TV Presenter Radio DJ 📻 @thescoop1013 Voice Actress 2018 Pyeongchang Olympics MC 2018 Winter Paralympics MC 🌸🌼🌺
-    location: "South Korea"
-    followers: 38082
-    engagement: 186
-    commentsToLikes: 0.007883
-    id: ck5zm77ftm18b0i145hym7m16
-    verified: false
-    hashtags: "#ootd, #nikegolf, #golf, #golflife"
-  - username: "hehejihee"
-    fullname: >-
-      Julie Hwang
-    bio: >-
-      Kiwi Korean in Dubai ✨ NEW SKINCARE VIDEO⬇️
-    location: "South Korea"
-    followers: 56787
-    engagement: 522
-    commentsToLikes: 0.012792
-    id: ckaozhqm2lxud0i78ep1u8e99
-    verified: false
-    hashtags: "#serenity, #fashion, #ootd, #travel"
 ---

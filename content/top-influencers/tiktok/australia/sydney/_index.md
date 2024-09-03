@@ -1,11 +1,11 @@
 ---
-title: Top 10 TikTok Influencers In Sydney In 2023
+title: Top 10 TikTok Influencers In Sydney In 2024
 description: >-
-  Find top TikTok influencers in Sydney in 2023. Most popular hashtags: #fyp #duet #tiktok #foryoupage.
+  Find top TikTok influencers in Sydney in 2024. Most popular hashtags: #fyp #duet #foryoupage #tiktok.
 platform: TikTok
-hits: 470
-text_top: Discover the best TikTok profiles on inBeat.
-text_bottom: Our platform has 470 TikTok influencers like this in Sydney, Australia for you to contact.
+hits: 471
+text_top: See the best TikTok accounts on inBeat.
+text_bottom: Our platform holds 471 TikTok influencers like this in Sydney, Australia for you to contact.
 profiles:
   - username: "manny_randhawa"
     fullname: >-
@@ -54,7 +54,7 @@ profiles:
     commentsToLikes: 0.175877
     id: ck8tpd1hqpz7b0j78jmo3cha1
     verified: false
-    hashtags: "#foryou, #fyp, #gsd, #1video5photos"
+    hashtags: "#fyp, #gsd, #foryou, #arctic"
   - username: "tarlatrent"
     fullname: >-
       Tarlatrent

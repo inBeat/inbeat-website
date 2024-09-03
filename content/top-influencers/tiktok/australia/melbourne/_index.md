@@ -1,11 +1,11 @@
 ---
-title: Top 10 TikTok Influencers In Melbourne In 2023
+title: Top 10 TikTok Influencers In Melbourne In 2024
 description: >-
-  Find top TikTok influencers in Melbourne in 2023. Most popular hashtags: #fyp #melbourne #foryou.
+  Find top TikTok influencers in Melbourne in 2024. Most popular hashtags: #fyp #foryou #melbourne.
 platform: TikTok
-hits: 450
-text_top: Identify the best TikTok accounts on inBeat.
-text_bottom: inBeat aggregates 450 TikTok influencers like this in Melbourne, Australia for you to work with.
+hits: 448
+text_top: Discover the most popular TikTok accounts on inBeat.
+text_bottom: Our platform has 448 TikTok influencers like this in Melbourne, Australia for you to collaborate.
 profiles:
   - username: "sonusivia5"
     fullname: >-

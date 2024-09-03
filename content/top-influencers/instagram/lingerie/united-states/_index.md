@@ -1,130 +1,130 @@
 ---
-title: Top 10 Lingerie Instagram Influencers In United States In 2023
+title: Top 10 Lingerie Instagram Influencers In United States In 2024
 description: >-
-  Find top lingerie Instagram influencers in United States in 2023. Most popular hashtags: #photography #model #portraitphotography.
+  Find top lingerie Instagram influencers in United States in 2024. Most popular hashtags: #reels #plussizefashion #plussizelingerie.
 platform: Instagram
-hits: 1230
-text_top: Identify the most popular Instagram influencers on inBeat.
-text_bottom: Our database has 1230 Instagram influencers like this in United States for you to contact.
+hits: 1260
+text_top: Discover the best Instagram accounts on inBeat.
+text_bottom: Our platform holds 1260 Instagram influencers like this in United States for you to work with.
 profiles:
-  - username: "bella_rosa_x"
+  - username: "kittyk_katt"
     fullname: >-
-      🌹Bella_Rosa🌹
+      Kathryn Kilfoil
     bio: >-
-      👙 Bikini & Lingerie 🌹 Maxim Model 🏋️‍♂️ Fitness 💄Beauty 🎥 Music Videos 📸 Photo Shoots 🌎 Traveler 📍Vienna 📧 Email: office.bellarosa@gmail.com
+      📸Content Creator 🎓FIT Grad 📧Dm/Email for PR/Collabs💄Makeup🍃CBD🧼Skincare👗Fashion👛Accessories💅Nails📦Unboxing🎨Swatches👙Lingerie 👁Lashes👀Contact Lenses
     location: "United States"
-    followers: 35391
-    engagement: 542
-    commentsToLikes: 0.068579
-    id: ck5hd63swlosh0i1100chcpbp
+    followers: 76219
+    engagement: 535
+    commentsToLikes: 0.012512
+    id: ckprgrt618ts10j23gvds3scu
     verified: false
-    hashtags: "#bikinigirls, #underwear, #empoweringwomen, #bodypositivity"
-  - username: "lifeinbeverlyheels"
-    fullname: >-
-      Beverly Beal 💋
-    bio: >-
-      Fashion Blogger @lifeinbeverlyheels Legal Slayer @beverlybeallaw Lingerie Maker @guiltyintimates Contract Creator @thecontractcollection DC|NY|ATL
-    location: "United States"
-    followers: 43023
-    engagement: 347
-    commentsToLikes: 0.061730
-    id: ck5cbh77effal0i11tgdava76
-    verified: false
-    hashtags: "#ad, #liketkit, #lifeinbeverlyheels, #blackowned"
-  - username: "cuckou"
-    fullname: >-
-      Cuckou Luxury Lingerie
-    bio: >-
-      Lingerie connoisseur empowering women to tap into their inner goddess Business only via email Business | Mindset | Confidence Get your FREE EBOOK:
-    location: "United States"
-    followers: 94779
-    engagement: 626
-    commentsToLikes: 0.044282
-    id: ck5q5srlguf5u0i1138vhmx23
-    verified: false
-    hashtags: "#reelsvideo, #reelsexplore, #explorepage, #lacelingerie"
-  - username: "onlynastie"
-    fullname: >-
-      Anastasia
-    bio: >-
-      Model • Artist • Photographer #model #girl #lingerie #fitnessgirl #onlyNastie
-    location: "United States"
-    followers: 3074
-    engagement: 4381
-    commentsToLikes: 0.040108
-    id: ckap6xa0thqnv0i787lv3h83f
-    verified: false
-    hashtags: "#boudoirphotography, #modeling, #girl, #boudoirinspiration"
+    hashtags: "#productphotography, #krissysfashionplanet, #litteblackdress, #pr"
   - username: "siem_devos"
     fullname: >-
       Siem Devos
     bio: >-
       Mother of Hazel, Magnus, & Rover | Owner of @bustique_lingerie & @oostentique | Love to surround myself with beautiful things 👉🏻 siem.devos@gmail.com
     location: "United States"
-    followers: 9193
-    engagement: 679
-    commentsToLikes: 0.014239
+    followers: 10743
+    engagement: 477
+    commentsToLikes: 0.023675
     id: ck6tx1v7uvdmr0j71a1p7pvid
     verified: false
-    hashtags: "#throwback, #siblings, #oostendestadaanzee, #mythreemonkeys"
-  - username: "curvyelle"
+    hashtags: "#oostendestadaanzee, #roverliefde, #kidsroom, #ditisereentjevan"
+  - username: "catvondia"
     fullname: >-
-      ᴇʟʟᴇ | ᴘʟᴜs ᴍᴏᴅᴇʟ
+      Diana Drozdova
     bio: >-
-      ↠ SINGER PAGE: @ellevalera ↠ @bicoastalmgmt + @breakwallwest ↠ dorky for pinup, lingerie, +swimwear
+      ✿ Lingerie model & self photographer ➸ DM / email for collabs (LV/RU/EN) ♥ My ONLY 2nd acc: @catvondiana Catvondia©️ is a registered brand More of me🖤
     location: "United States"
-    followers: 30330
-    engagement: 300
-    commentsToLikes: 0.037238
-    id: ck6u7paqpmvei0j719710s7lr
+    followers: 215445
+    engagement: 511
+    commentsToLikes: 0.056297
+    id: ck6u59sdg8dtj0j71joe8pgox
     verified: false
-    hashtags: "#mondaymorningdaydreaming"
-  - username: "olya_seteykina"
+    hashtags: "#ootd, #giftedbydose, #angelenergy, #tanned"
+  - username: "thelingerieaddict"
     fullname: >-
-      𝓞𝓵𝓰𝓪 𝓢𝓮𝓽𝓮𝔂𝓴𝓲𝓷𝓪
+      Cora Harrington
     bio: >-
-      Lingerie model @olya_seteykina_ 📍Phuket
+      Lingerie Expert✨Jem & The Holograms Fan✨ Founder + EIC: The Lingerie Addict✨Author: In Intimate Detail: How to Choose, Wear & Love Lingerie✨Queer 🌈
     location: "United States"
-    followers: 646660
-    engagement: 158
-    commentsToLikes: 0.022838
-    id: ck15ukq2cnnnr0i19x24heffx
+    followers: 83768
+    engagement: 389
+    commentsToLikes: 0.022269
+    id: ck13593n30bej0i19cvrj0yjm
+    verified: true
+    hashtags: "#titania, #fairyqueen, #chartreuse, #frenchlace"
+  - username: "itsme_lacie"
+    fullname: >-
+      Lacie Doll | Beauty😍Writer✍🏾Film Maker🎬Actress🎭
+    bio: >-
+      GENIE IN A BOTTLE 🧞‍♀️✨ 💄CEO @fakebeautybylaciedoll 💋Laced by Lacie lingerie 📖@unclassified_media 🎙Host #LACIEOLOGY 🎬lacieandfreshieproductions
+    location: "United States"
+    followers: 21237
+    engagement: 179
+    commentsToLikes: 0.036526
+    id: ckposp8gm4zdn0j237zrgmpgm
+    verified: false
+    hashtags: "#promoteyourbusiness, #reels, #lacieology, #podcast"
+  - username: "xxcnicolexx"
+    fullname: >-
+      Christine Nicole | Curly & Curvy | Model & Influencer
+    bio: >-
+      Plus Size Fashion | Lingerie | Beauty Perfect no matter what size 💕 PR/Collab Email: xxcnicolexx@icloud.com Charlotte📍
+    location: "United States"
+    followers: 13940
+    engagement: 93
+    commentsToLikes: 0.026488
+    id: cksfogbn7oz880j23cxdqyw6e
+    verified: false
+    hashtags: "#amazoninfluencer, #willyscouts, #skimsdupe, #amazonmusthaves"
+  - username: "vana.thom"
+    fullname: >-
+      Savanna Thompson | Model + Creator
+    bio: >-
+      🇲🇰 🇳🇬 🏳️‍🌈 NYC model ✵ lingerie & style lover 🖤 skincare ✵ curls ✵ body neutrality adhd & mental health advocate 🧠 💌 info@savannathompson.com
+    location: "United States"
+    followers: 44451
+    engagement: 66
+    commentsToLikes: 0.066643
+    id: clbew5etl0ws80j087xocv1dy
+    verified: false
+    hashtags: "#texturetuesday, #mudmask, #skincare, #patchology"
+  - username: "katstroudofficial"
+    fullname: >-
+      Kat Stroud 💋 Petite Plus
+    bio: >-
+      Plus Size Model Lingerie Blogger Fat Positive Self Love Enthusiast Mom,Wife 🏳️‍🌈BiSexual Believe.in.your.curves@gmail.com Back up IG katstroudxo
+    location: "United States"
+    followers: 22477
+    engagement: 63
+    commentsToLikes: 0.041017
+    id: ckoz62a6yuklg0j23imnd0x4f
+    verified: false
+    hashtags: "#katstroud, #pmmlovemybody, #plussizedresses, #plussizelingerie"
+  - username: "audreyxaudrey"
+    fullname: >-
+      Audrey Lim
+    bio: >-
+      I make lingerie at @shopaire.me & I make clothes come alive here 👚👡 & yes, I have vitiligo ♡ penny’s mommy ☼ singapore ↠ audreylimlj@gmail.com
+    location: "United States"
+    followers: 82977
+    engagement: 23
+    commentsToLikes: 0.040927
+    id: ck0tzek6eq2hd0i1987rsrfm4
     verified: false
     hashtags: ""
-  - username: "chaantellie"
+  - username: "gabriellarachel"
     fullname: >-
-      CHANTELLE ✨
+      GABRIELLA RACHEL
     bio: >-
-      Curvy Baddie Model | Lingerie Slanger LA 📍 Owner : @sensualselflingerie
+      𝒎𝒂𝒅𝒆 𝒐𝒇 𝒍𝒐𝒗𝒆 & 𝒍𝒊𝒈𝒉𝒕 ✨ sharing laughs & lingerie owner of @IXMUSESLINGERIE 🏹 came from heaven ☁️ landed in NYC
     location: "United States"
-    followers: 92161
-    engagement: 486
-    commentsToLikes: 0.028663
-    id: ck0w38h1ss4180i19xxc4ebi1
-    verified: false
-    hashtags: "#naturalhairstyles, #permrods, #curlyhair, #flexirodset"
-  - username: "jakedupree"
-    fullname: >-
-      Jake DuPree
-    bio: >-
-      -Boylesque Babe. Fitness Host & Instructor. Lingerie Lover. Dancer. -WEEKLY AT HOME WORKOUTS AT LINK BELOW⬇️
-    location: "United States"
-    followers: 98449
-    engagement: 494
-    commentsToLikes: 0.023185
-    id: ck0u1hmmawx5f0i19nhkx8ygr
-    verified: true
-    hashtags: "#transdayofvisibility"
-  - username: "petit_trefle"
-    fullname: >-
-      ☘ Clover ☘
-    bio: >-
-      Lingerie enthusiast • Video game nerd • Crazy cat lady • Gemini • I'm Canadian, eh My main account: @petit_trefle.xo Back up: @petit_trefle_
-    location: "United States"
-    followers: 58862
-    engagement: 447
-    commentsToLikes: 0.013349
-    id: ck8syuejrm1nt0j78dez0fxad
+    followers: 87771
+    engagement: 24
+    commentsToLikes: 0.012131
+    id: ckq66kkv7h9020j23cr8fck6r
     verified: false
     hashtags: ""
 ---

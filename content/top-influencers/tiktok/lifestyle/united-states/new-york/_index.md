@@ -1,24 +1,12 @@
 ---
-title: Top 10 Lifestyle TikTok Influencers In New York In 2023
+title: Top 10 Lifestyle TikTok Influencers In New York In 2024
 description: >-
-  Find top lifestyle TikTok influencers in New York in 2023. Most popular hashtags: #fyp #newyork #foryou #nyc.
+  Find top lifestyle TikTok influencers in New York in 2024. Most popular hashtags: #fyp #lifestyle #newyork #nyc.
 platform: TikTok
 hits: 38
-text_top: Discover the most popular TikTok influencers on inBeat.
-text_bottom: Our search engine has 38 TikTok influencers like this in New York, United States for you to contact.
+text_top: See the best TikTok influencers on inBeat.
+text_bottom: Our database holds 38 TikTok influencers like this in New York, United States for you to connect with.
 profiles:
-  - username: "soxsoul"
-    fullname: >-
-      _SOXSOUL _
-    bio: >-
-      Instagram Soxsoul Inquiries👇🏽 Soxsoul.666@gmail.com
-    location: "United States"
-    followers: 532700
-    engagement: 1074
-    commentsToLikes: 0.019270
-    id: ck8kexmqdbh960j786rpvtn14
-    verified: true
-    hashtags: "#motivation, #nyc, #parkour, #mimariela"
   - username: "leepetropoulos"
     fullname: >-
       Lee Petropoulos 
@@ -30,7 +18,43 @@ profiles:
     commentsToLikes: 0.125242
     id: ckbf38wsvqujy0j236hzy9vhs
     verified: false
-    hashtags: "#lifestyle, #makemomepic, #newyork, #michigan"
+    hashtags: "#lifestyle, #newyork, #michigan, #makemomepic"
+  - username: "ageorama"
+    fullname: >-
+      Adrienne Reau
+    bio: >-
+      ADRIENNE REAU 🦋welcome to my wardrobe🦋 regan@nextcollectiveagency.com
+    location: "United States"
+    followers: 258900
+    engagement: 1765
+    commentsToLikes: 0.012764
+    id: ck9jvmpn0swur0j78gbrz8ry7
+    verified: false
+    hashtags: "#ootd, #ad, #haul, #y2k"
+  - username: "beautiful_wreck_"
+    fullname: >-
+      Today’sTrends
+    bio: >-
+      fashion⚜️glam⚜️aesthetic⚜️inspo follow insta & DM for business
+    location: "United States"
+    followers: 11900
+    engagement: 1760
+    commentsToLikes: 0.005656
+    id: ckbwimmx437p40j23iz8bfov1
+    verified: false
+    hashtags: "#europe, #italy, #beach, #beachhouse"
+  - username: "soxsoul"
+    fullname: >-
+      _SOXSOUL _
+    bio: >-
+      Instagram Soxsoul Inquiries👇🏽 Soxsoul.666@gmail.com
+    location: "United States"
+    followers: 532700
+    engagement: 1074
+    commentsToLikes: 0.019270
+    id: ck8kexmqdbh960j786rpvtn14
+    verified: true
+    hashtags: "#itbelikethat, #youshouldknow, #pufik, #newyork"
   - username: "unknownparkour"
     fullname: >-
       The Unknown Project
@@ -55,6 +79,18 @@ profiles:
     id: ckbf9dt0l0d3g0j23szdeyotc
     verified: false
     hashtags: "#fyp, #humor, #2021, #dad"
+  - username: "ejay.ramos21"
+    fullname: >-
+      your lord and savior
+    bio: >-
+      dm on insta sc & venmo: ejayr21 cuse 🍊 shop my amazon list ▼
+    location: "United States"
+    followers: 17600
+    engagement: 1035
+    commentsToLikes: 0.080830
+    id: ck9n7861h7ohl0j7883cgtyrj
+    verified: false
+    hashtags: "#syracuseu, #myprimestudent, #newseries, #xyzbca"
   - username: "daniellexvictoria"
     fullname: >-
       Danielle Victoria
@@ -78,7 +114,7 @@ profiles:
     commentsToLikes: 0.015698
     id: ck8ronp44idxg0j786sefw4wx
     verified: false
-    hashtags: "#sheckwes, #nyc, #concert, #mobamba"
+    hashtags: "#concert, #travisscott, #tombrady, #superbowl"
   - username: "eliteluxurynyc"
     fullname: >-
       Francisco
@@ -91,40 +127,4 @@ profiles:
     id: ck8s7q9eiqa1k0j78xo8pdbw5
     verified: false
     hashtags: "#newyorkapartments, #myguy, #newyorker, #fyp"
-  - username: "pramiti._"
-    fullname: >-
-      𝐩𝐫𝐚𝐦𝐢𝐭𝐢✰
-    bio: >-
-      new york
-    location: "United States"
-    followers: 8624
-    engagement: 1691
-    commentsToLikes: 0.077024
-    id: ckb9asrvpw12h0j23g4y9oepc
-    verified: false
-    hashtags: "#hijabi, #newyork, #thebronx, #arab"
-  - username: "chinatownphil"
-    fullname: >-
-      Chinatown Phil
-    bio: >-
-      I film New York 🎥 Follow me on instagram: chinatown_phil
-    location: "United States"
-    followers: 42500
-    engagement: 361
-    commentsToLikes: 0.038692
-    id: cka6pco31j40t0i78x3bfgwer
-    verified: false
-    hashtags: "#fyp, #summer2021, #puppy, #foryourpage"
-  - username: "lifestylesoqhia"
-    fullname: >-
-      sophia 💐
-    bio: >-
-      lifestyle, fashion + selflove🎨 follow insta,let’s b friends!🌷 john 13:7✞🤍
-    location: "United States"
-    followers: 436100
-    engagement: 1494
-    commentsToLikes: 0.019340
-    id: ck85cqo9w32lv0j78vl3zb2r3
-    verified: false
-    hashtags: "#fy, #pinterestaesthetic, #whatieatinaday, #viralvid"
 ---

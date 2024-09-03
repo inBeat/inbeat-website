@@ -1,11 +1,11 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Atlanta In 2023
+title: Top 10 Beauty Instagram Influencers In Atlanta In 2024
 description: >-
-  Find top beauty Instagram influencers in Atlanta in 2023. Most popular hashtags: #beauty #atlanta #explorepage #fashion.
+  Find top beauty Instagram influencers in Atlanta in 2024. Most popular hashtags: #beauty #atlanta #fashion #explorepage.
 platform: Instagram
-hits: 331
-text_top: See the top-rated Instagram accounts on inBeat.
-text_bottom: Our search engine holds 331 Instagram influencers like this in Atlanta, United States for you to work with.
+hits: 410
+text_top: See the most popular Instagram profiles on inBeat.
+text_bottom: Our database aggregates 410 Instagram influencers like this in Atlanta, United States for you to collaborate.
 profiles:
   - username: "_xaboveaveragex_"
     fullname: >-
@@ -55,18 +55,18 @@ profiles:
     id: ck5c9q9oobwlp0i114idt3s8l
     verified: false
     hashtags: "#love, #nycmodels, #style, #fashion"
-  - username: "artistryofjazzhorn"
+  - username: "adrianalately"
     fullname: >-
-      Jazzmeia Horn
+      Adriana Lately • Atlanta Blogger
     bio: >-
-      CEO @empresslegacyrecords APTTMH 🙌🏾 Vocalist 2X Grammy Nominated Artist NAACP Image Award Winning Artist Artist, Arranger, Author, Activist
+      · lifestyle | beauty | travel blogger · atlanta, georgia · visit my blog + shop my looks ↓
     location: "United States"
-    followers: 23311
-    engagement: 312
-    commentsToLikes: 0.055374
-    id: ck5qdtf5wx9160i118bg0989q
-    verified: true
-    hashtags: "#vocalists, #jazzhands, #blackwomanmagic, #jazzrock"
+    followers: 123428
+    engagement: 190
+    commentsToLikes: 0.066607
+    id: ck5zv2j663h470i14vrshtqz5
+    verified: false
+    hashtags: "#atlantablogger, #styleinspo, #styleblogger, #florida"
   - username: "pinkraye"
     fullname: >-
       Raven Alyssia Brown
@@ -102,19 +102,7 @@ profiles:
     commentsToLikes: 0.323823
     id: ck8tadrkprcli0j78kuu9cifg
     verified: false
-    hashtags: "#reelsviralvideo, #fashionbloggers, #styleblogger, #atlantablogger"
-  - username: "anilasajja"
-    fullname: >-
-      ANILA SAJJA | Atlanta Blogger
-    bio: >-
-      Official Cast Member of BravoTV’s Married to Medicine #married2med 📺 @bravotv Fashion|Lifestyle|Beauty|🧿 #AtlantaBlogger 📧peplumnbubblegum@gmail.com
-    location: "United States"
-    followers: 73923
-    engagement: 298
-    commentsToLikes: 0.042385
-    id: ck13bqo5uwpos0i19mlv91rbm
-    verified: false
-    hashtags: "#styleinspo, #married2medicine, #beautyblogger, #atlblogger"
+    hashtags: "#indianfashionblogger, #styleblogger, #indianblogger, #reelsviralvideo"
   - username: "jadacook"
     fullname: >-
       jada
@@ -126,5 +114,17 @@ profiles:
     commentsToLikes: 0.076588
     id: ck6ugadet1ue40j71mgn10m6z
     verified: false
-    hashtags: "#outfit, #grwmmakeup, #beauty, #meritbeauty"
+    hashtags: "#grwmmakeup, #outfit, #gifted, #explore"
+  - username: "annalouisewolfe"
+    fullname: >-
+      Anna-Louise Louise WOLFE
+    bio: >-
+      Southern Interior Designer, Dog Lover, Appreciator of beauty 💙 Atlanta & Montgomery
+    location: "United States"
+    followers: 19391
+    engagement: 329
+    commentsToLikes: 0.028121
+    id: ckaor7yy5m40v0i781w0hbc8p
+    verified: false
+    hashtags: "#friyay, #interiordesign, #gooddesignisforever, #blueandwhiteforever"
 ---

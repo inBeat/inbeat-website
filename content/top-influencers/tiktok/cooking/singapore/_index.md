@@ -1,11 +1,11 @@
 ---
-title: Top 10 Cooking TikTok Influencers In Singapore In 2023
+title: Top 10 Cooking TikTok Influencers In Singapore In 2024
 description: >-
-  Find top cooking TikTok influencers in Singapore in 2023. Most popular hashtags: #fyp #cooking #foryou #food.
+  Find top cooking TikTok influencers in Singapore in 2024. Most popular hashtags: #fyp #cooking #foryou #foryoupage.
 platform: TikTok
 hits: 8
-text_top: Discover the top-rated TikTok profiles on inBeat.
-text_bottom: Our platform aggregates 8 TikTok influencers like this in Singapore for you to work with.
+text_top: Identify the most popular TikTok influencers on inBeat.
+text_bottom: Our database has 8 TikTok influencers like this in Singapore for you to contact.
 profiles:
   - username: "emmskitchen"
     fullname: >-

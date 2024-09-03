@@ -1,24 +1,12 @@
 ---
-title: Top 10 Skincare Instagram Influencers In New York In 2023
+title: Top 10 Skincare Instagram Influencers In New York In 2024
 description: >-
-  Find top skincare Instagram influencers in New York in 2023. Most popular hashtags: #skincare #beauty #newyork #fashion.
+  Find top skincare Instagram influencers in New York in 2024. Most popular hashtags: #skincare #newyork #fashion #newyorkcity.
 platform: Instagram
-hits: 200
-text_top: See the best Instagram influencers on inBeat.
-text_bottom: Our database holds 200 Instagram influencers like this in New York, United States for you to work with.
+hits: 327
+text_top: See the top-rated Instagram accounts on inBeat.
+text_bottom: Our platform has 327 Instagram influencers like this in New York, United States for you to collaborate.
 profiles:
-  - username: "mrkbay"
-    fullname: >-
-      Mark Bay
-    bio: >-
-      Lifestyle | Wellness | Menswear 📍 New York themarkbay@gmail.com
-    location: "United States"
-    followers: 106015
-    engagement: 52
-    commentsToLikes: 0.056848
-    id: ck5cgiw7toxyn0i11se5oq9x2
-    verified: false
-    hashtags: "#outfitinspiration, #skincare, #newyork, #coffee"
   - username: "alkaneminphotography"
     fullname: >-
       Alkan Emin Photography
@@ -31,6 +19,42 @@ profiles:
     id: ck0ueln47lmj80i19z48m6e73
     verified: false
     hashtags: "#art, #skincare, #newyork, #womensbeauty"
+  - username: "69.views"
+    fullname: >-
+      Folajimi
+    bio: >-
+      Photographer | Content Creator | Retouching Enthusiast 📍New York 🗽 Click the link to 📖
+    location: "United States"
+    followers: 26865
+    engagement: 519
+    commentsToLikes: 0.046476
+    id: ck0ueaokul08u0i19tsuxn5gz
+    verified: false
+    hashtags: "#beautyphotography, #nycphotography, #repost, #njphotographer"
+  - username: "jessicadover"
+    fullname: >-
+      JESS DOVER
+    bio: >-
+      Social- IMG abigail.mariner@img.com Model- stephanie@thetalentburo.com.au Co-host @motheringonmyown.podcast Just trying to do my best 🫶🏽
+    location: "United States"
+    followers: 106383
+    engagement: 223
+    commentsToLikes: 0.021503
+    id: ck0tvik62bifr0i194nl8a6xr
+    verified: false
+    hashtags: "#skincare, #newyork, #firstbuild, #blacktiewedding"
+  - username: "jajkosadzone"
+    fullname: >-
+      Julia Wityńska
+    bio: >-
+      🤳🏻 social media girl ✨ 🍜 foodie 🍱 🏠 Warsaw, Poland @juliawitynska 😎
+    location: "United States"
+    followers: 28011
+    engagement: 2
+    commentsToLikes: 0.008764
+    id: ck5c1disxuyhw0i11cswtrrv6
+    verified: false
+    hashtags: "#factory, #newyork, #reklama, #nyc"
   - username: "callmeflakaa_"
     fullname: >-
       Dhara🌙🦋✨
@@ -43,18 +67,6 @@ profiles:
     id: ck5q53l9mr9230i115mra2dnb
     verified: false
     hashtags: "#callmeflakaa, #curlyhair, #egoshoes, #model"
-  - username: "damn.davie"
-    fullname: >-
-      YOUTUBE: D A V I E  M U A
-    bio: >-
-      two toned brows r kinda my thing 🚨 #blacklivesmatter 💄 NC MUA ☎️ PR/ BUSINESS: damn.davie@gmail.com
-    location: "United States"
-    followers: 15861
-    engagement: 988
-    commentsToLikes: 0.026543
-    id: ck9wf04k1moa90j78n1l6zk9v
-    verified: false
-    hashtags: "#gayboy, #milanicosmetics, #anastasiabeverlyhills, #travel"
   - username: "myskinincolor"
     fullname: >-
       Amna
@@ -67,64 +79,52 @@ profiles:
     id: ckf5nenx9xxwh0j23223649ov
     verified: false
     hashtags: "#livetinted, #minimalstreetstyle, #moodboardaesthetic, #desifashionista"
-  - username: "thejenniferdoll"
+  - username: "thatboy.cz"
     fullname: >-
-      Jennifer Doll 🍒
+      Adrian
     bio: >-
-      Just a girl that doesn't know what to do with her hands in pictures travel•lifestyle 🍎NYC 📸 @gofginc @gofgincstaff 💌 jenniferkarenhing@gmail.com
+      let’s be happy before we die PURE MODEL management @puremodel
     location: "United States"
-    followers: 59504
-    engagement: 297
-    commentsToLikes: 0.006761
-    id: ckap20n9ywvel0i78094xj0hn
+    followers: 55446
+    engagement: 176
+    commentsToLikes: 0.007447
+    id: ck0w6h6sn8jlz0i19179tsiqg
     verified: false
-    hashtags: "#nyceats, #summerofnyc, #revolveme, #notmilk"
-  - username: "nicoleservinis"
+    hashtags: "#skincare, #jenprodospele, #newyork, #transformation"
+  - username: "samara.maloney"
     fullname: >-
-      Nicole Servinis
+      Samara Maloney
     bio: >-
-      📍| Toronto 🎥| Host/ Reporter/ Producer 🐤| @nicole.servinis 🤷🏼‍♀️| tiktok @nicole.servinis Email for inquiries!
+      Beauty | Fashion | Travel & Lifestyle Partnerships|PR: samarazmaloney@gmail.com YT: SamaraMaloney Founder: @identity.designs | @crema.ponchedecreme
     location: "United States"
-    followers: 22453
-    engagement: 1167
-    commentsToLikes: 0.064556
-    id: ck5c9425jaqpv0i11xibcuz39
+    followers: 33604
+    engagement: 570
+    commentsToLikes: 0.023784
+    id: ck5hgxgyd5a5p0i11hjf7j4kk
     verified: false
-    hashtags: "#mentalhealth, #clean, #mfmexperiencebox, #skincare"
-  - username: "clarissalunanyc"
+    hashtags: "#newyorkcity, #newyork, #newyorklife, #simpleliving"
+  - username: "jasminewithawhy"
     fullname: >-
-      CLARISSA LUNA
+      Yasmine McBride
     bio: >-
-      Celebrity Makeup 💫 Beauty Brand PD Consultant 💄🎨 she•her 🙋🏻‍♀️ Indigenous 🍎NY • LA☀️ Bookings/Partnerships: Bryan@uncommon-artists.com
+      Beauty | Fashion | Lifestyle UGC CREATOR 📍Atlanta, GA 📧 hello@jasminewithawhy.com
     location: "United States"
-    followers: 40664
-    engagement: 110
-    commentsToLikes: 0.102085
-    id: ck8swkw4gefjc0j78yu06a7v6
-    verified: true
-    hashtags: "#makeup, #queen, #love, #linkinbio"
-  - username: "cathdanneskiold"
-    fullname: >-
-      Cath A. Danneskiold-Samsøe
-    bio: >-
-      ◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️ Content Creation & some moments in btw ◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️
-    location: "United States"
-    followers: 23948
-    engagement: 280
-    commentsToLikes: 0.026933
-    id: ck13cv1n62b2e0i19ohrdpdc6
+    followers: 17708
+    engagement: 327
+    commentsToLikes: 0.037339
+    id: ckz3u2y9y5ztm0j239913x9v8
     verified: false
-    hashtags: "#positivity, #people, #success, #fashionable"
-  - username: "patrick_xiong"
+    hashtags: "#summervibes, #dayinmylife, #renaissanceworldtour, #lifestylevlog"
+  - username: "vancityvogue"
     fullname: >-
-      Patrick Xiong
+      VAN CITY VOGUE
     bio: >-
-      Photographer
+      Fashion, Beauty & Wellness 🤍Your beautiful escape ✨New drops every Monday 🌎 Worldwide Shipping
     location: "United States"
-    followers: 30923
-    engagement: 207
-    commentsToLikes: 0.015595
-    id: ck5bxhtcbnr5k0i11qhzwupgs
+    followers: 51860
+    engagement: 11
+    commentsToLikes: 0.004176
+    id: ckapavjicxmec0i788ohb1deq
     verified: false
-    hashtags: "#thewowmag, #diversity, #film, #nyc"
+    hashtags: "#londonfashion, #parisfashion, #selfcare, #haileybieber"
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Music Instagram Influencers In Australia In 2023
+title: Top 10 Music Instagram Influencers In Australia In 2024
 description: >-
-  Find top music Instagram influencers in Australia in 2023. Most popular hashtags: #ootd #musician #musicvideo.
+  Find top music Instagram influencers in Australia in 2024. Most popular hashtags: #love #australia #reels.
 platform: Instagram
-hits: 293
-text_top: Identify the top-rated Instagram influencers on inBeat.
-text_bottom: Our database holds 293 Instagram influencers like this in Australia for you to contact.
+hits: 431
+text_top: See the top-rated Instagram influencers on inBeat.
+text_bottom: Our database has 431 Instagram influencers like this in Australia for you to work with.
 profiles:
-  - username: "savannah.clarke"
+  - username: "innogenga"
     fullname: >-
-      S A V A N N A H ➕ C L A R K E
+      Inno Genga
     bio: >-
-      🇦🇺@nowunited KCA 💥 Aussie/ Kiwi Legend of the Year 2021 🙏🏼 - Uniters we landed this 1️⃣ together 😜 💥 Global Music Star nominated ⬇️CLICK BELOW⬇️
+      Music Director/Playback Singer. (currently in 🇯🇵) Hoyna Hoyna - Unnaal Penne - Ullaallaa - Amigo - Kannamma Bookings: info@innogenga.co.uk
     location: "Australia"
-    followers: 3942740
-    engagement: 292
-    commentsToLikes: 0.140672
-    id: ck14gj04u5gt20i19qqsabu3z
+    followers: 149408
+    engagement: 4247
+    commentsToLikes: 0.005226
+    id: ck13a9t4bpbyw0i19uv26yr3h
     verified: false
-    hashtags: "#teengirl, #fireengine, #livingthedream, #shoeshopping"
-  - username: "curlyhendo"
+    hashtags: "#reels, #anirudh, #dhanush, #reelsindia"
+  - username: "ashkaykal"
     fullname: >-
-      C U R L Y
+      KASH KAL
     bio: >-
-      ✖️Musician ✖️Bass player 🎸🎹 ✖️Session/Touring Musician 🌎 ✖️Endorsed by: @alperiouspickguard @grbass_amps Any enquires please email me
+      “FAST MONEY” Music Video Out Now @ashkayclothing
     location: "Australia"
-    followers: 11532
-    engagement: 1305
-    commentsToLikes: 0.042752
-    id: ck6tj6jy623uf0j71eak8m90p
+    followers: 9968
+    engagement: 777
+    commentsToLikes: 0.160107
+    id: ck1389hppf5gu0i19jivu7st7
     verified: false
-    hashtags: "#sadowskybass, #69mustang, #curlyhendo"
-  - username: "mitchellblack78"
+    hashtags: "#ftp, #sydemons"
+  - username: "crystals_of_australia"
     fullname: >-
-      Mitchell Black | SUSPYRIA
+      Patrick Gundersen
     bio: >-
-      ◾️Lead Guitarist 🎸 @suspyria.official 🎶 ◾️Melbourne 🇦🇺 ◾️Music, Merch and Show dates 👇🎶
+      ◈ Crystal Finder ◍ Artist and musician ☾ Creative Spark 📍Far North Queensland, Australia 🌿
     location: "Australia"
-    followers: 27321
-    engagement: 385
-    commentsToLikes: 0.115722
+    followers: 350294
+    engagement: 1381
+    commentsToLikes: 0.051427
+    id: ck6u7zy2komou0j71jk4jhy2u
+    verified: false
+    hashtags: "#amethyst, #crystalenergy, #cristais, #meditation"
+  - username: "mitchellblack11"
+    fullname: >-
+      Mitchell Black
+    bio: >-
+      ◾️Guitarist - @melroseavenueband 🎶 ◾️Australian 🇦🇺 Bunny Dad 🐰 ◾️Music & Merch 👇 🗡️
+    location: "Australia"
+    followers: 439658
+    engagement: 1306
+    commentsToLikes: 0.011978
     id: ck6twicsjs5mt0j711gtxwsse
     verified: false
-    hashtags: "#bvbarmy, #metalfashion, #guitarsolo, #metal"
-  - username: "evolahsilassim"
+    hashtags: "#rabbit, #pets, #metal, #bunnyrabbit"
+  - username: "elizajaneface"
     fullname: >-
-      The Quantum Goddess 👑
+      Eliza Taylor
     bio: >-
-      ❤️🧡💛🏳️‍🌈💚💙💜 Music is the rhythm Art is the passion Life is our subject Personal: @missalishalove Back up: @evolahsilassim_backup ⬇️😇 EXTRAS 😈⬇️
+      Aussie Actress, Mama Bear, Director of Music Videos, Producer of Films, Lover of Food 🇦🇺🍼🎬🥑
     location: "Australia"
-    followers: 60525
-    engagement: 305
-    commentsToLikes: 0.051706
-    id: ck5zwlhz66c2n0i14c0auu5to
+    followers: 2890798
+    engagement: 472
+    commentsToLikes: 0.004657
+    id: ck0tvbhotapa80i19s18gyjxg
+    verified: true
+    hashtags: "#the100, #elizataylor, #tasyateles, #fableticspartner"
+  - username: "littlesknow"
+    fullname: >-
+      Morgan Sknow
+    bio: >-
+      @taliamar333 🔐 NPC’s Music Video ⤵️
+    location: "Australia"
+    followers: 37092
+    engagement: 386
+    commentsToLikes: 0.022507
+    id: ck5canq89drho0i115x06dlm5
     verified: false
-    hashtags: "#sagittariusseason"
-  - username: "iamsoundcheck"
+    hashtags: "#burncity, #lilsknow, #melbrap, #weneedhumanity"
+  - username: "janesaddiction"
     fullname: >-
-      SOUNDCHECK
+      Jane’s Addiction
     bio: >-
-      🎧 #1 EDM DJ in 🇦🇺 ✈️ Touring Artist 🎶 Music Producer 📝 Songwriter ⬇️ Get On Up - OUT NOW ⬇️
+      Been Caught Stealing since ‘86 🎸 Official Jane’s Addiction account Music | Merch | Tour Dates👇🏻
     location: "Australia"
-    followers: 107928
-    engagement: 214
-    commentsToLikes: 0.119547
-    id: ck6u6jdyjfxhx0j71qu74xe32
+    followers: 141611
+    engagement: 336
+    commentsToLikes: 0.024769
+    id: ck6twtgj0tztl0j71ushq0wg2
+    verified: true
+    hashtags: "#janesaddiction, #ericavery, #stephenperkins, #joshklinghoffer"
+  - username: "des.helu"
+    fullname: >-
+      Des Helu PT
+    bio: >-
+      @lesmills @reebok ✌️ Personal Trainer LM Auckland City Online PT @red11models Co-F @1percentbetternz Music 🎵 📥deshelu@gmail.com
+    location: "Australia"
+    followers: 12431
+    engagement: 558
+    commentsToLikes: 0.025624
+    id: ck6to56r5c5pg0j71ogjzbxwv
+    verified: false
+    hashtags: "#reebok, #lesmillsgrit, #nanoseries, #lesmills"
+  - username: "facemelts"
+    fullname: >-
+      F A C E M E L T S
+    bio: >-
+      Psych/Indie feed: Tame Impala, Mac DeMarco, King Gizzard, Khruangbin. DM to promote your music November Playlist ⬇️
+    location: "Australia"
+    followers: 209671
+    engagement: 1844
+    commentsToLikes: 0.017227
+    id: ck0w1uikxl7ao0i19xk7r1mng
     verified: false
     hashtags: ""
-  - username: "jamie_tkalcevic"
+  - username: "denaamy"
     fullname: >-
-      Jamie Tkalcevic
+      Dena Amy
     bio: >-
-      🌴 Travel - Film - Music 🌴 • Music: @torakai_music 🎶 Youtube: Jamie TK 📷 • Watch my new video here:
+      🎵 music maker 🎞 role player 🍑 creator @twerkafterwerk 🧠 mental health advocate 🤰 mama to Maya Eve, Stormi & Teddy 🏠 home design and lifestyle lover
     location: "Australia"
-    followers: 9822
-    engagement: 911
-    commentsToLikes: 0.054201
-    id: ck139bbmwkgd20i19w97zz19p
+    followers: 196412
+    engagement: 413
+    commentsToLikes: 0.010493
+    id: cks1re214s4b60j23376reikz
     verified: false
-    hashtags: ""
-  - username: "danielshawmusic"
-    fullname: >-
-      DANIEL SHAW
-    bio: >-
-      I sing and play piano 🎹 Follow for new music👇
-    location: "Australia"
-    followers: 71846
-    engagement: 188
-    commentsToLikes: 0.050928
-    id: ck5hqyd6cty100i11990du7bj
-    verified: true
-    hashtags: "#musicforlife, #melbourne, #musicianslife, #danielshaw"
-  - username: "jacintagee"
-    fullname: >-
-      Jacinta Gulisano (SINTA)
-    bio: >-
-      “Singfluencer” • ✌🏼The Voice 2018 #TeamDelta Live Finalist • 🎤LIVE MUSIC BOOKINGS 👉🏽@saintsoundentertainment • TikTok: sintasings STAX PSF CAMPAIGN👇🏼
-    location: "Australia"
-    followers: 49012
-    engagement: 132
-    commentsToLikes: 0.062616
-    id: ck5c4mver1ocz0i11twv9d10c
-    verified: true
-    hashtags: "#sydneylivemusic, #livemusic, #ootd, #beforeandafter"
-  - username: "tawnykofficial"
-    fullname: >-
-      Tawny K 💋
-    bio: >-
-      Australian Singer/Songwriter New Music Coming in 2021 🎉
-    location: "Australia"
-    followers: 34569
-    engagement: 139
-    commentsToLikes: 0.144295
-    id: ckap4tcug8sbq0i788w2t57ud
-    verified: false
-    hashtags: "#reconnectthischristmas, #holidaymusic, #foryou, #fyp"
-  - username: "torilevett"
-    fullname: >-
-      Tori Levett
-    bio: >-
-      Making music n shit 🖤🇦🇺🎶 Torilevett@hotmail.com Tori@zooz.com.au
-    location: "Australia"
-    followers: 133490
-    engagement: 108
-    commentsToLikes: 0.046881
-    id: ck5c0znmyu5qg0i11suugfw4v
-    verified: true
-    hashtags: "#ad, #smirnoffseltzerpatyyard, #drinkresponsibly, #findyourquays"
+    hashtags: "#interiordesign, #collab, #gift, #missamaraloves"
 ---

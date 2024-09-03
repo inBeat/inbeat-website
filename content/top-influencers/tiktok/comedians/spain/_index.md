@@ -1,11 +1,11 @@
 ---
-title: Top 10 Comedians TikTok Influencers In Spain In 2023
+title: Top 10 Comedians TikTok Influencers In Spain In 2024
 description: >-
-  Find top comedians TikTok influencers in Spain in 2023. Most popular hashtags: #parati #fyp #comedia #humor.
+  Find top comedians TikTok influencers in Spain in 2024. Most popular hashtags: #parati #fyp #humor #comedia.
 platform: TikTok
 hits: 356
-text_top: Analyze the best TikTok accounts on inBeat.
-text_bottom: inBeat holds 356 TikTok influencers like this in Spain for you to collaborate.
+text_top: See the best TikTok influencers on inBeat.
+text_bottom: Our search engine aggregates 356 TikTok influencers like this in Spain for you to pitch.
 profiles:
   - username: "luisiooo"
     fullname: >-
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.007413
     id: ck9f23naabgr70j78cmf12419
     verified: false
-    hashtags: "#viral, #parati, #fyp, #tiktokspain"
+    hashtags: "#spain, #viral, #parati, #foryoupage"
   - username: "emily_blondie"
     fullname: >-
       Emily Rose Ingram

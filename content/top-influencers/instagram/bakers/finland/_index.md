@@ -1,11 +1,11 @@
 ---
-title: Top 10 Bakers Instagram Influencers In Finland In 2023
+title: Top 10 Bakers Instagram Influencers In Finland In 2024
 description: >-
-  Find top bakers Instagram influencers in Finland in 2023. Most popular hashtags: #twowheels #biker #sportbike.
+  Find top bakers Instagram influencers in Finland in 2024. Most popular hashtags: #makersgonnamake #twowheels #moto.
 platform: Instagram
-hits: 8
-text_top: Identify the most popular Instagram influencers on inBeat.
-text_bottom: Our search engine has 8 Instagram influencers like this in Finland for you to pitch.
+hits: 10
+text_top: Discover the most popular Instagram profiles on inBeat.
+text_bottom: Our database has 10 Instagram influencers like this in Finland for you to contact.
 profiles:
   - username: "inanen"
     fullname: >-
@@ -23,38 +23,26 @@ profiles:
     fullname: >-
       álvaro
     bio: >-
-      sixteen! <3 mallorca, spain
+      de mi parte ☽ mallorca, spain
     location: "Finland"
-    followers: 21475
-    engagement: 1458
-    commentsToLikes: 0.038584
+    followers: 20580
+    engagement: 1055
+    commentsToLikes: 0.026970
     id: ck0w2mga6p4270i19qs71sgsm
     verified: false
     hashtags: ""
-  - username: "hafsahdabiri"
-    fullname: >-
-      H A F S A H   D A B I R I
-    bio: >-
-      👣 Director @dabirigroup 🖥 Editor in Chief @mvslim ✨ 📚 Award Winning Author @basirahsworld 📈 Consultant & Strategist 🎥 Presenter+Speaker
-    location: "Finland"
-    followers: 10158
-    engagement: 389
-    commentsToLikes: 0.045306
-    id: ck5q3exhrkg5d0i1191yoi6ka
-    verified: false
-    hashtags: "#samebutdifferent, #toiletselfie, #wearebasirah"
   - username: "lettileipuri"
     fullname: >-
       Marjut | Braid baker
     bio: >-
-      📍Tampere, Finland 🇫🇮 ♦️Soon to be a M. Sc👩🏻‍💻 ♦️Timma-tilille 5€ koodilla DSQPMQ ❗️No custom hairstyles/Ei tilauskampauksia
+      📍Tampere, Finland 🇫🇮 ♦️Sudio -15% ➡️ sudiolei ❗️No custom hairstyles/Ei tilauskampauksia
     location: "Finland"
-    followers: 17642
-    engagement: 181
-    commentsToLikes: 0.063556
+    followers: 17223
+    engagement: 143
+    commentsToLikes: 0.066218
     id: ck6ucnk0sgmc20j71mzjcqy84
     verified: false
-    hashtags: "#americansalon, #sudiomoments, #fl, #pinnilehti"
+    hashtags: "#braids, #braidstyles, #tampere, #pitk"
   - username: "sajith_njr10"
     fullname: >-
       #💟𝕊𝕒𝕛𝕚𝕥𝕙 𝕛𝕣  1️⃣0️⃣ 🇧🇷
@@ -66,31 +54,67 @@ profiles:
     commentsToLikes: 0.126429
     id: ckapbf9wizplq0i78nemhswnc
     verified: false
-    hashtags: "#ktmduke250, #rider, #motorcyclesofinstagram, #twowheels"
+    hashtags: "#moto, #dominar400, #keralagram, #ktmindia"
   - username: "julezz_official"
     fullname: >-
       -Julezz_Official
     bio: >-
-      Ducati Hypermotard 950 black neon(19) Königspython (smaug) @miss_julezz ❤
+      Ducati Hypermotard 950 black neon(19) Bmw G450X Supermoto (08) Königspython (smaug) @miss_julezz ❤
     location: "Finland"
-    followers: 9548
-    engagement: 592
-    commentsToLikes: 0.012322
+    followers: 9216
+    engagement: 573
+    commentsToLikes: 0.013911
     id: ck6tncmcd9kvv0j71yqtzcy4o
     verified: false
-    hashtags: "#supermotogame, #beauty, #ducatinsta, #supermotard"
+    hashtags: "#ducati, #fridaysforfuture, #speedphotography, #939"
+  - username: "oliviavidael"
+    fullname: >-
+      
+    bio: >-
+      ⁣⁣⁣⁣⁣⁣⁣⁣ Lifestyle- & kauneusblogi 🤍⁣⁣ 📰 olivia.bigovic@hotmail.com⁣⁣⁣ [tutoriaalit, arkiset höpöttelystoryt + inspo 💅🏻]
+    location: "Finland"
+    followers: 15246
+    engagement: 1188
+    commentsToLikes: 0.040680
+    id: ck6u5i66e9rvl0j713oy1llni
+    verified: false
+    hashtags: "#kosmetiikka, #kauneusbloggaaja, #kes, #lifestyleblogi"
+  - username: "bauerhockeyfinland"
+    fullname: >-
+      BAUER Hockey Finland
+    bio: >-
+      Maailman johtava jääkiekkovarusteiden valmistaja ja suunnittelija. Customoi HyperLite #MyBauer mailasi 👇🏼
+    location: "Finland"
+    followers: 28829
+    engagement: 431
+    commentsToLikes: 0.014982
+    id: ck5bw13k3ksik0i11baue6kvg
+    verified: true
+    hashtags: "#nhlplayoffs, #cantbeathockey, #hyperlite, #bauergoalie"
+  - username: "hannanen_crafts"
+    fullname: >-
+      Hanna
+    bio: >-
+      Knit, eat, sleep, repeat 🤎
+    location: "Finland"
+    followers: 10081
+    engagement: 692
+    commentsToLikes: 0.017111
+    id: ck14k784ro31y0i19x9jo22qz
+    verified: false
+    hashtags: "#strikk, #knittersofinstagram, #knittedfashion, #instaknitters"
   - username: "anjuknits"
     fullname: >-
       ᗩ ᑎ ᑎ ᗩ
     bio: >-
-      33 I Tampere, Finland 🇫🇮 anjuknits@outlook.com
+      Tampere, Finland 🇫🇮 anjuknits@outlook.com
     location: "Finland"
-    followers: 9393
-    engagement: 685
-    commentsToLikes: 0.016002
+    followers: 10583
+    engagement: 626
+    commentsToLikes: 0.017115
     id: ck5znevl8obxz0i14d17e2bta
     verified: false
-    hashtags: "#handknitted, #pilkkupipo, #vauvanneule, #clotildesweater"
+    hashtags: "#babyknits, #anjuknits, #knitting, #neulominen"
   - username: "nordiccrafter"
     fullname: >-
       Irina 🔸

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Beauty TikTok Influencers In Russia In 2023
+title: Top 10 Beauty TikTok Influencers In Russia In 2024
 description: >-
-  Find top beauty TikTok influencers in Russia in 2023. Most popular hashtags: #beauty #makeup #love.
+  Find top beauty TikTok influencers in Russia in 2024. Most popular hashtags: #beauty #makeup #modeling.
 platform: TikTok
 hits: 58
-text_top: See the most popular TikTok profiles on inBeat.
-text_bottom: Our platform aggregates 58 TikTok influencers like this in Russia for you to collaborate.
+text_top: Analyze the top-rated TikTok profiles on inBeat.
+text_bottom: Our platform has 58 TikTok influencers like this in Russia for you to collaborate.
 profiles:
   - username: "av.coleman"
     fullname: >-

@@ -1,24 +1,24 @@
 ---
-title: Top 10 Gardening Instagram Influencers In Italy In 2023
+title: Top 10 Gardening Instagram Influencers In Italy In 2024
 description: >-
-  Find top gardening Instagram influencers in Italy in 2023. Most popular hashtags: #gardening #nature #garden #giardino.
+  Find top gardening Instagram influencers in Italy in 2024. Most popular hashtags: #gardening #garden #gardendesign #italy.
 platform: Instagram
-hits: 42
-text_top: Analyze the top-rated Instagram profiles on inBeat.
-text_bottom: Our platform has 42 Instagram influencers like this in Italy for you to contact.
+hits: 51
+text_top: Identify the top-rated Instagram profiles on inBeat.
+text_bottom: Our platform holds 51 Instagram influencers like this in Italy for you to pitch.
 profiles:
-  - username: "gomiero__farm"
+  - username: "ricominciodaquattro"
     fullname: >-
-      Gomiero Farm
+      Adriana Fusè
     bio: >-
-      ITALIAN FARM 🇮🇹 NO farmers NO food ☠️ Stories and posts from a (crazy) farm 🎵🎉
+      Mamma di 4, home organizer, autrice. La mia azienda agricola @cascinaroncagliabio Ultimo libro x Gribaudo: “Tutto. Molto. Semplice.” 📍Brescia
     location: "Italy"
-    followers: 107306
-    engagement: 598
-    commentsToLikes: 0.001875
-    id: ck6ttmxwvbhm60j714o5yrx5s
+    followers: 41419
+    engagement: 26
+    commentsToLikes: 0.016125
+    id: ck0w4e6ejy5100i19iy4yvr2f
     verified: false
-    hashtags: "#farmingsimulator, #homegrown, #global, #countryandwestern"
+    hashtags: "#puliziediprimavera, #primavera, #puliziedicasa, #garden"
   - username: "francescarchibugi"
     fullname: >-
       Francesca Archibugi
@@ -91,40 +91,40 @@ profiles:
     id: ck0w28sszn5r40i19l106qbad
     verified: true
     hashtags: ""
-  - username: "clara_bona"
+  - username: "midas_mami"
     fullname: >-
-      Clara Bona
+      Katrin - #iLoveToEntertainYou
     bio: >-
-      Architect and Journalist
+      Mehr News? Schaut einfach mal in meine Story. Komme aus Ironien, das liegt am Sarkastischen Meer 😏wenn ihr meine Sprache sprecht: 💖lich Willkommen!
     location: "Italy"
-    followers: 30905
-    engagement: 631
-    commentsToLikes: 0.067701
-    id: ck5hi0086axty0i11mh8o9r44
+    followers: 91333
+    engagement: 786
+    commentsToLikes: 0.087413
+    id: ck8svu1c1corp0j78404w798c
     verified: false
-    hashtags: "#ristrutturarecasa, #interiorstyle, #interiortips, #interiorideas"
-  - username: "whosdaf"
+    hashtags: "#memes, #instagood, #lebenmitkindern, #spa"
+  - username: "basilgreenpencil"
     fullname: >-
-      Dario Fattore
+      Basil Green Pencil | Maykol Andreotti
     bio: >-
-      🇮🇹LifeStyle Blogger since 2012 🎓Marketing, Communication, DigitalMedia 👨🏻‍💻 Social Media Manager & DigitalPR 💼 Founder of @whos_digital Agency
+      Parlo di design, anche quando viaggio 🌱 #DesignTastesGood il gusto che fa la differenza 📍 Milano
     location: "Italy"
-    followers: 265824
-    engagement: 299
-    commentsToLikes: 0.025395
-    id: ckf5meolmth3h0j23l0jelqnp
-    verified: true
-    hashtags: "#natale2020, #christmas2020, #christmas, #napoli"
-  - username: "matthew.marionette"
-    fullname: >-
-      Matthew Marionette
-    bio: >-
-      🌿 Creatura Selvatica. 🌿 Fata Guardiana della Natura. 🌿 Sardegna, 05/02/1995.
-    location: "Italy"
-    followers: 11419
-    engagement: 532
-    commentsToLikes: 0.014315
-    id: ckf5wepozrtsv0j23l8fjpt9f
+    followers: 29258
+    engagement: 361
+    commentsToLikes: 0.040961
+    id: ck6txne86yrrn0j71sdt0kd3h
     verified: false
-    hashtags: "#atmosphere, #sardiniangirl, #casualoutfit, #genderfluid"
+    hashtags: "#postitfortheaesthetic, #plantslover, #designtastesgood, #interior4all"
+  - username: "nicola_bertellotti"
+    fullname: >-
+      Nicola Bertellotti
+    bio: >-
+      Award winning fine art photographer Pietrasanta / Italy
+    location: "Italy"
+    followers: 68180
+    engagement: 895
+    commentsToLikes: 0.042595
+    id: ck6u8lants9450j716n4uo530
+    verified: false
+    hashtags: "#luoghiabbandonati, #pietrasanta, #elledecor, #atlasobscura"
 ---

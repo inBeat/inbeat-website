@@ -1,60 +1,48 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In Los Angeles In 2023
+title: Top 10 Nutrition Instagram Influencers In Los Angeles In 2024
 description: >-
-  Find top nutrition Instagram influencers in Los Angeles in 2023. Most popular hashtags: #healthylifestyle #nutrition #losangeles #healthy.
+  Find top nutrition Instagram influencers in Los Angeles in 2024. Most popular hashtags: #nutrition #fitness #losangeles.
 platform: Instagram
-hits: 61
-text_top: Discover the best Instagram accounts on inBeat.
-text_bottom: Our search engine holds 61 Instagram influencers like this in Los Angeles, United States for you to connect with.
+hits: 79
+text_top: See the most popular Instagram accounts on inBeat.
+text_bottom: inBeat has 79 Instagram influencers like this in Los Angeles, United States for you to collaborate.
 profiles:
-  - username: "lindanyvltova"
+  - username: "ladanceproject"
     fullname: >-
-      Linda Nyvltova
+      L.A. Dance Project
     bio: >-
-      YOGA TEACHER | E-RYT 800 | FRC ✨🤸🏻🧘🏻‍♀️✨ DM me for Zoom classes Model @lamodels Online yoga & mobility @sequentialbody
+      A boundary expanding dance company led by @BenjaminMillepied. 10 outstanding dancers + an innovative repertory + #LADPdigital dance platform. See us👇🏼
     location: "United States"
-    followers: 17715
-    engagement: 158
-    commentsToLikes: 0.063169
-    id: ck5zugn5g2bn10i14bdvwp7zb
-    verified: false
-    hashtags: "#movement, #spine, #yoga, #onlineyoga"
-  - username: "thetrailtohealth"
+    followers: 51088
+    engagement: 112
+    commentsToLikes: 0.023831
+    id: ck0twy6o4h95e0i198plsl2i6
+    verified: true
+    hashtags: "#new, #danceisthehealer, #archive, #dancephotography"
+  - username: "charlesgalanismd"
     fullname: >-
-      Erika Schlick
+      Charles Galanis MD
     bio: >-
-      Health Coach, Blogger & Cookbook Author of Wandering Palate⁣ 𝘗𝘢𝘭𝘦𝘰 𝘙𝘦𝘤𝘪𝘱𝘦𝘴, 𝘎𝘭𝘶𝘵𝘦𝘯𝘍𝘳𝘦𝘦 𝘛𝘳𝘢𝘷𝘦𝘭 & 𝘓𝘺𝘮𝘦 𝘋𝘪𝘴𝘦𝘢𝘴𝘦 𝘙𝘦𝘮𝘪𝘴𝘴𝘪𝘰𝘯 ⁣ 📍 LA Based⁣ 👇 𝗕𝗹𝗼𝗴/𝗥𝗲𝗰𝗶𝗽𝗲𝘀
+      📃| Board Certified Plastic Surgeon 😷| Breast and Body Specialist 📍| Beverly Hills | Dubai 💣| Before and Afters: @galanisplasticsurgery
     location: "United States"
-    followers: 78558
-    engagement: 259
-    commentsToLikes: 0.045156
-    id: ckap2lb00zbzd0i7870sfzz80
+    followers: 68882
+    engagement: 26
+    commentsToLikes: 0.010046
+    id: cl83do0k91coj0i23z9wqk46y
     verified: false
-    hashtags: "#autoimmune, #recipes, #whole30, #autoimmunepaleo"
-  - username: "plantbasedben"
+    hashtags: "#tummytuck, #beforeandafter, #surgery, #implants"
+  - username: "eqvisions"
     fullname: >-
-      Plant Based Ben Ⓥ
+      Video Production
     bio: >-
-      🙋🏽‍♂️| Bonus Account @ben.raue 🥷🏽| Plant Based Fitness 📗| Free Transformation Guide 👇🏽 🔊| Speaking Up for Freedom 📪| Join My Telegram
+      🎥Director | Creator 🎬 @bluelabelproductions ⬇️Recent Work
     location: "United States"
-    followers: 142636
-    engagement: 172
-    commentsToLikes: 0.045836
-    id: ck0w2ymzqqrbx0i198u0z6281
+    followers: 3757
+    engagement: 295
+    commentsToLikes: 0.116785
+    id: ck6tvzf3rp53g0j71166gqob6
     verified: false
-    hashtags: "#healthyfood, #foodie, #healthiswealth, #vegansofig"
-  - username: "amitissdds"
-    fullname: >-
-      Dr. Amitiss Nasiri D.D.S.
-    bio: >-
-      Cosmetic Dentistry🦷 Smile With Confidence Certified dental provider for US Military Service🇺🇸 📍Beverly Hills, California
-    location: "United States"
-    followers: 42057
-    engagement: 209
-    commentsToLikes: 0.013708
-    id: ck14iue6mh7s00i19vd0lubdl
-    verified: false
-    hashtags: "#green, #thankful, #smile, #moments"
+    hashtags: "#bakersfieldvideographer, #losangelesvideographer, #ironrebel, #gymmotivation"
   - username: "rodriguechesnier"
     fullname: >-
       IFBB PRO Rodrigue Chesnier
@@ -79,42 +67,54 @@ profiles:
     id: ck5zz9df4bbre0i14p0hs01zh
     verified: false
     hashtags: ""
-  - username: "ladanceproject"
+  - username: "nutritionbykylie"
     fullname: >-
-      L.A. Dance Project
+      Kylie, MS, RD | Dietitian
     bio: >-
-      A boundary expanding dance company led by @BenjaminMillepied. 10 outstanding dancers + an innovative repertory + #LADPdigital dance platform. See us👇🏼
+      Making healthy living fun, easy, and realistic Inquiries: kyliesakaida@select.co 📍 Los Angeles
     location: "United States"
-    followers: 51088
-    engagement: 112
-    commentsToLikes: 0.023831
-    id: ck0twy6o4h95e0i198plsl2i6
-    verified: true
-    hashtags: "#wellness, #ladp, #ladanceproject, #danceforfitness"
-  - username: "kim_strother"
-    fullname: >-
-      Kim Strother
-    bio: >-
-      Celebrity Trainer & Yoga Instructor Healing through holistic nutrition & mindfulness. Let’s create your own integrative health plan. 📍Los Angeles CA
-    location: "United States"
-    followers: 26499
-    engagement: 124
-    commentsToLikes: 0.086633
-    id: ck0vy0qgv1nzc0i191977v1hz
+    followers: 1606562
+    engagement: 577
+    commentsToLikes: 0.005275
+    id: ckywz3loe067z0j23z6tkfqq2
     verified: false
-    hashtags: "#yogasculpt, #workoutmotivation, #getoutside, #yogaglo"
-  - username: "stuartbrazell"
+    hashtags: "#easyrecipes, #mealprep, #easymeal, #snackideas"
+  - username: "dontaecatlett"
     fullname: >-
-      Stuart Brazell
+      Dontae Catlett
     bio: >-
-      Wife + Boy Mom x2 👶 Los Angeles Based TV + Digital Host / Producer • Content Creator • #MomLife #travelblogger Twitter + TikTok @stuartbrazell 🔗⬇️
+      📱 Video Producer // Digital Strategist 📸 Photographer @catlettz 📍 Los Angeles // 🇵🇭 ⬇️ My Essentials
     location: "United States"
-    followers: 145322
-    engagement: 131
-    commentsToLikes: 0.060131
-    id: ck14hrajcbqgn0i19w1g7yekv
-    verified: true
-    hashtags: "#styledbystuart, #revolvesummer, #stuartsbucketlist, #stuartsays"
+    followers: 414872
+    engagement: 822
+    commentsToLikes: 0.026965
+    id: ckyu5nxbkxiwy0j23gc0iv8r3
+    verified: false
+    hashtags: "#asmr, #travelreels, #chicago, #speaking"
+  - username: "katb_fit"
+    fullname: >-
+      Kat B | Home Workouts
+    bio: >-
+      Get fit with my 💥FREE 20 MIN WORKOUTS at home! Food & Nutrition Tips in Stories Former Gymnast, RN & Mama to 👧🏼👶🏼 📍Los Angeles 📧 katbfit@select.co
+    location: "United States"
+    followers: 730264
+    engagement: 127
+    commentsToLikes: 0.015727
+    id: ckn77eu25hl9p0j23zp8j2rml
+    verified: false
+    hashtags: "#busymomworkout, #workoutsathome, #fitathome, #nogymneeded"
+  - username: "alliepullen"
+    fullname: >-
+      Alexandra Pullen, MA🪬
+    bio: >-
+      wellness without the bs. #balance ♥ recipes, beauty hacks + my life✨ therapist intern, former ballerina, yogi 📍los angeles + elsewhere ✈️ ↓ links ↓
+    location: "United States"
+    followers: 111909
+    engagement: 1
+    commentsToLikes: 0.000000
+    id: ck13bjyxavs0j0i19ouknj7a5
+    verified: false
+    hashtags: "#trolls, #tea, #glutenfree, #instagood"
   - username: "siennaskelly"
     fullname: >-
       Sienna Ann Skelly
@@ -126,5 +126,5 @@ profiles:
     commentsToLikes: 0.098157
     id: ck0udq3b6jniz0i19ov35liew
     verified: false
-    hashtags: "#linkinbio, #beauty, #ad, #ootd"
+    hashtags: "#discountcode, #ad, #linkinbio, #ootd"
 ---

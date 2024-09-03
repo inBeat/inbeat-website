@@ -1,11 +1,11 @@
 ---
-title: Top 10 Lifestyle TikTok Influencers In India In 2023
+title: Top 10 Lifestyle TikTok Influencers In India In 2024
 description: >-
-  Find top lifestyle TikTok influencers in India in 2023. Most popular hashtags: #foryoupage #foryou #trending #tiktokindia.
+  Find top lifestyle TikTok influencers in India in 2024. Most popular hashtags: #foryoupage #foryou #trending #tiktok.
 platform: TikTok
 hits: 185
-text_top: Analyze the best TikTok influencers on inBeat.
-text_bottom: Our database holds 185 TikTok influencers like this in India for you to connect with.
+text_top: Analyze the top-rated TikTok influencers on inBeat.
+text_bottom: Our search engine has 185 TikTok influencers like this in India for you to contact.
 profiles:
   - username: "_aman_mehra"
     fullname: >-
@@ -54,7 +54,7 @@ profiles:
     commentsToLikes: 0.066529
     id: ckb0pcaz6f9in0j23xlsatb93
     verified: false
-    hashtags: "#fashion, #styleindia, #fashionblogger, #trending"
+    hashtags: "#fashionblogger, #fyp, #trending, #styleindia"
   - username: "sharma_saksh"
     fullname: >-
       Sakshi Sharma

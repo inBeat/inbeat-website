@@ -1,130 +1,130 @@
 ---
-title: Top 10 Fitness Instagram Influencers In United Arab Emirates In 2023
+title: Top 10 Fitness Instagram Influencers In United Arab Emirates In 2024
 description: >-
-  Find top fitness Instagram influencers in United Arab Emirates in 2023. Most popular hashtags: #fitness #love #dubai.
+  Find top fitness Instagram influencers in United Arab Emirates in 2024. Most popular hashtags: #fitness #workout #dubai.
 platform: Instagram
-hits: 138
-text_top: Discover the best Instagram accounts on inBeat.
-text_bottom: Our database holds 138 Instagram influencers like this in United Arab Emirates for you to collaborate.
+hits: 163
+text_top: See the top-rated Instagram accounts on inBeat.
+text_bottom: Our platform has 163 Instagram influencers like this in United Arab Emirates for you to work with.
 profiles:
-  - username: "keyvanshahgholi.ifbbpro"
+  - username: "benyaminjahromi"
     fullname: >-
-      keyvanshahgholi.ifbbpro
+      Benyamin Ahmad khajehJahromi
     bio: >-
-      Dimond cup champion 2016 🥇 Fitness expo dubai 2016 🥈 Iranian physique Overall 2017 🥇 Mr olympia India Overall 2017 🥇
+      Fitness - Music Founder @morabiman 📍Dubai
     location: "United Arab Emirates"
-    followers: 18306
-    engagement: 1156
-    commentsToLikes: 0.053774
-    id: ck0w2ejvtnyn20i19oi4pzls5
+    followers: 409274
+    engagement: 481
+    commentsToLikes: 0.013126
+    id: ck5znbrs3o5qq0i14nfe9427s
     verified: false
-    hashtags: "#ifbbpro, #ifbbproleague, #ifbb, #fitness"
-  - username: "bilalmehsen"
+    hashtags: "#fitness, #benyaminjahromi, #fitnessmotivation, #gymmotivation"
+  - username: "alexia.berton"
     fullname: >-
-      BILAL  MEHSEN
+      Alexia Berton | Comissária de Voo
     bio: >-
-      📍DUBAI PASSIONATE ABOUT LUXURY BRANDS , STYLE , TRAVEL & FITNESS LIFE.
+      viagem • moda • lifestyle • fitness vida sem rotina em Dubai e pelo mundo
     location: "United Arab Emirates"
-    followers: 27725
-    engagement: 449
-    commentsToLikes: 0.120846
-    id: ckap8o2cpp7650i78j964gf3u
+    followers: 19724
+    engagement: 503
+    commentsToLikes: 0.016727
+    id: ck0u2fnr1zte00i19vlhcvpfe
     verified: false
-    hashtags: "#birkenstocknaturalskincare, #styled, #dubai, #fit"
-  - username: "arthur_london"
+    hashtags: "#femaletravelblogger, #wanderlust, #dicasdeviagem, #travelbook"
+  - username: "maxkieser_"
     fullname: >-
-      Arthur Rodrigues
+      M A X I M I L I A N
     bio: >-
-      Dubai | Personal | Online fitness coaching 🏋🏻‍♂️💪🏼 Food Supplied by @pura.ae 💚
+      Fitness creator 🇿🇦 Personal trainer - Dubai Palm Jumeirah/Marina📍
     location: "United Arab Emirates"
-    followers: 15981
-    engagement: 692
-    commentsToLikes: 0.032576
-    id: ckf5nb7rtxief0j23nlyx7a1v
+    followers: 75172
+    engagement: 717
+    commentsToLikes: 0.010214
+    id: ckaosdiohr6ni0i78xqytqkbl
     verified: false
-    hashtags: "#love, #dubaipt, #ootd, #instamood"
-  - username: "madhuri.chavan7"
+    hashtags: "#photographerdubai, #fitnessdubai"
+  - username: "primal_fitness"
     fullname: >-
-      Madhuri Chavan
+      Rafal Motloch-Online Coach
     bio: >-
-      DANCER | PERSONAL TRAINER | FITNESS MODEL Ex Performer at @universal_studios_japan & @dubaiparksresorts Subscribe my channel below👇
+      📍🧿 Dubai🇦🇪 Poland 🇵🇱 Spain 🇪🇸 Sweden 🇸🇪 Fitness Entrepreneur Founder @_primalfitapp & @reebokhybrid +15 years of experience E-mail For collaboration
     location: "United Arab Emirates"
-    followers: 7241
-    engagement: 628
-    commentsToLikes: 0.078376
-    id: ck15q0f1p0hzj0i197nafgoir
+    followers: 152318
+    engagement: 333
+    commentsToLikes: 0.053758
+    id: ck5q5h1rpsu9y0i116mk1jzdo
     verified: false
-    hashtags: "#howyoulikethat, #dncracademy, #dancecovercontest, #dance"
-  - username: "somaiah_wbffpro"
+    hashtags: "#health, #faith, #coach, #personaltrainer"
+  - username: "anna_marisax"
     fullname: >-
-      Somaiah WBFF PRO
+      ANNA_MARISAX
     bio: >-
-      🔸️Passion for fitness and fashion 🔸️Founder, creator @maeyaclothing 🔸️Pro fitness athlete @wbffentertainment 📍Dubai, UAE
+      YouTuber 300 million views✨🎬 Published author ✍🏻 📖 @anna_marisax_show @fitness_annamarisax @kingdom_of_millardia Polish in Dubai & Miami 🏡
     location: "United Arab Emirates"
-    followers: 20558
-    engagement: 382
-    commentsToLikes: 0.090070
-    id: ck6u3399bvfvi0j71o1d7mdu9
+    followers: 367437
+    engagement: 266
+    commentsToLikes: 0.037821
+    id: ckap56hvxae6v0i78v4oewxyu
     verified: false
-    hashtags: "#tb, #werkit, #workit, #inspirational"
-  - username: "ommie10"
+    hashtags: "#dubaimall, #abudhabi, #atlantis, #dubailife"
+  - username: "coachmeddydubai"
     fullname: >-
-      Omarion Ryan
+      𝐂𝐎𝐀𝐂𝐇 𝐌𝐄𝐃𝐃𝐘
     bio: >-
-      ‪🤴🏾‬ IFBB MP Pro @ifbb_pro_league 🌐 ‪Fitness Model 📸‬ ‬Online PT 📧‬ ‪ Dubai 🇦🇪
+      Celebrity Trainer #Football #Fitness #Coach ⚽️ #TLNA : BE FIT IN 29 days👇🏽 PT🥇🥊 Consultant 📊 #Lifestyle 🌐 VIP Host 🔑 📍#Dubai Monaco #TLNA 🆕👇🏽#Anelka
     location: "United Arab Emirates"
-    followers: 87663
-    engagement: 248
-    commentsToLikes: 0.029757
-    id: ck5btbjdpfo770i11rv0md767
-    verified: false
-    hashtags: "#fitnessaddict, #fitspiration, #muscles, #pump"
-  - username: "fionaerdmann"
-    fullname: >-
-      Fiona Erdmann (CEO)
-    bio: >-
-      Inhaltl. Verantwortl.: siehe Impressum 🇩🇪German Model / fitness model & tv personality and mommy 👨‍👩‍👦💕 based in Dubai 🇦🇪 Anzeige ⬇️
-    location: "United Arab Emirates"
-    followers: 262120
-    engagement: 398
-    commentsToLikes: 0.012604
-    id: ck8t9mz3wonxb0j78x27z7rvu
+    followers: 2040077
+    engagement: 258
+    commentsToLikes: 0.010475
+    id: ck6ugie8s37440j71csrnc89p
     verified: true
-    hashtags: "#teamfabletics, #fableticsde, #wickeltasche, #momtobe2020"
-  - username: "maxwyatt_"
+    hashtags: "#fashion, #football, #influencer, #ad"
+  - username: "seanclancy_ko8"
     fullname: >-
-      Max Wyatt
+      Sean Clancy
     bio: >-
-      Living in Dubai / travel / fitness / YouTube🌴
+      Ex Pro Athlete Co-owner @ko8_fitness & @ko8_dubai Health & Fitness tips + Inspiration 📍Dubai 🇦🇪 🌎 #1 Functional Training System 💪🏻
     location: "United Arab Emirates"
-    followers: 847322
-    engagement: 262
-    commentsToLikes: 0.015180
-    id: ck5c4yhlw2dog0i11xxm6w385
+    followers: 6704
+    engagement: 257
+    commentsToLikes: 0.148953
+    id: ck5zk5rm1iv6j0i14971e3qvt
     verified: false
-    hashtags: ""
-  - username: "shawna_craig"
+    hashtags: "#tashkent, #ko8, #hyroxme, #ocr"
+  - username: "felycel"
     fullname: >-
-      Shawna Craig
+      Felicia Luta
     bio: >-
-      🎞/📺 •Actress/TV Personality• •Fitness • Travel • Creative • Empath• 📍Los Angeles | Las Vegas | Abu Dhabi | Dubai
+      Be Kind. Stay Humble. Work Hard. Fitness & Lifestyle 🤍
     location: "United Arab Emirates"
-    followers: 23090
-    engagement: 150
-    commentsToLikes: 0.098634
-    id: ck6tskr2z5bi20j713f5vx6g2
+    followers: 51018
+    engagement: 236
+    commentsToLikes: 0.061654
+    id: ckf5rdf4ccahr0j23wccvawds
+    verified: false
+    hashtags: "#surfboardart, #dubaipalm, #amazingdubai, #fitnessvlogger"
+  - username: "hgabr"
+    fullname: >-
+      Hassan Gabr - The Gorilla
+    bio: >-
+      🦍Inspiring Healthier Lives 🍕Daily Food & Fitness Tips 🏆 Egypt Fittest Man | 🥈🥉Classic Physique 🦾Ambassador @limitlessalpha.eg 👇🏼Gorilla Fitness App
+    location: "United Arab Emirates"
+    followers: 530144
+    engagement: 207
+    commentsToLikes: 0.026371
+    id: ck0u05vklspnc0i1967761nme
     verified: true
-    hashtags: "#beautiful, #latina, #flashbackfriday, #adventure"
-  - username: "joyceamil"
+    hashtags: "#wheyprotein, #readytolead, #alphasquad, #limitlessalpha"
+  - username: "mohak.narang"
     fullname: >-
-      J O Y C E
+      Mohak Narang
     bio: >-
-      💃🏽 Dancer • Choreographer • Creative Director 👗 Fashion Stylist 🎙 Host “Real Talk With Joyce” (On IGTV) 🏋🏼‍♀️ Fitness Enthusiast 📩 amiljoyce@gmail.com
+      Fashion | Travel | Lifestyle | Fitness 📩 Connect2mohak@gmail.com
     location: "United Arab Emirates"
-    followers: 9049
-    engagement: 424
-    commentsToLikes: 0.112380
-    id: ck9wehingkaki0j78v3lv8ojc
+    followers: 3534230
+    engagement: 119
+    commentsToLikes: 0.007042
+    id: ck13cw0x22fx70i19kzqiw183
     verified: false
-    hashtags: "#realtalkwithjoyce, #nike, #dancer, #nikesportswear"
+    hashtags: "#narcoticdelight, #nothingbutkind, #mostadvancedsuv, #inabudhabi"
 ---

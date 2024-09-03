@@ -1,11 +1,11 @@
 ---
-title: Top 10 Olympian Athletes Instagram Influencers In United Kingdom In 2023
+title: Top 10 Olympian Athletes Instagram Influencers In United Kingdom In 2024
 description: >-
-  Find top olympian athletes Instagram influencers in United Kingdom in 2023. Most popular hashtags: #athlete #running #fitness.
+  Find top olympian athletes Instagram influencers in United Kingdom in 2024. Most popular hashtags: #olympics #fitness #athlete.
 platform: Instagram
-hits: 20
-text_top: Identify the most popular Instagram influencers on inBeat.
-text_bottom: Our platform holds 20 Instagram influencers like this in United Kingdom for you to pitch.
+hits: 26
+text_top: Analyze the best Instagram accounts on inBeat.
+text_bottom: Our platform holds 26 Instagram influencers like this in United Kingdom for you to work with.
 profiles:
   - username: "alannakennedy"
     fullname: >-
@@ -19,6 +19,18 @@ profiles:
     id: ck5c4nnl41q1r0i11kcdnozt1
     verified: true
     hashtags: "#together"
+  - username: "lutalomuhammad"
+    fullname: >-
+      Lutalo | Olympic Taekwondo Athlete & Sport s Presenter
+    bio: >-
+      Olympic Medallist London🥉Rio🥈 Discipline > Motivation Online Fitness Community Coming Soon! DM for 1:1 Consultations, Seminars & Public Speaking
+    location: "United Kingdom"
+    followers: 31199
+    engagement: 91
+    commentsToLikes: 0.017840
+    id: ckap2gz1fys9k0i78ev6h6mhl
+    verified: false
+    hashtags: "#tkd, #martialarts, #taekwondo, #blessed"
   - username: "caitlinfoord"
     fullname: >-
       Caitlin Foord
@@ -31,6 +43,18 @@ profiles:
     id: ck5hphnovrdlq0i114qcn9nwz
     verified: true
     hashtags: "#coyg, #daznuwcl, #withmoreeyes, #tokyo2020"
+  - username: "shaunacoxsey"
+    fullname: >-
+      Shauna Coxsey
+    bio: >-
+      Professional Climber, Olympian, Mama @redbulluk & @adidasterrex athlete. For media or commercial enquiries please contact hello@bandofbirds.co.uk
+    location: "United Kingdom"
+    followers: 445306
+    engagement: 380
+    commentsToLikes: 0.004887
+    id: ck0ttpsvn3ryn0i19vku64sfb
+    verified: true
+    hashtags: ""
   - username: "kevans26"
     fullname: >-
       Kyle Evans
@@ -43,6 +67,30 @@ profiles:
     id: ck5bvbtb3jcun0i11etpumj5i
     verified: true
     hashtags: "#211, #150, #ckcontractors, #tbt"
+  - username: "jakeswightman"
+    fullname: >-
+      Jake Wightman
+    bio: >-
+      🇬🇧 800m | 1500m athlete 2022 World Champ 🌍 Olympian @newbalance @puresport 📩 hugo@ignite-sports.co.uk
+    location: "United Kingdom"
+    followers: 66178
+    engagement: 659
+    commentsToLikes: 0.006444
+    id: ck0tuk8wt7jhs0i192vwyyb1d
+    verified: true
+    hashtags: "#thankstoyou"
+  - username: "kristina_stuy"
+    fullname: >-
+      Кристина Стуй
+    bio: >-
+      Mother | Wife | Professional @puma athlete| Personal coach 3 х Olympian, London 2012🥉 2 x European medalist 🥈🥈 World medalist 🥉 God knows my name 🙏❤️
+    location: "United Kingdom"
+    followers: 6954
+    engagement: 959
+    commentsToLikes: 0.025490
+    id: ck8t54a5h8q0i0j78cpldlbm4
+    verified: false
+    hashtags: "#abs, #london2012, #mother, #pumaukraine"
   - username: "micamcneill"
     fullname: >-
       MicaMcNeill
@@ -55,76 +103,28 @@ profiles:
     id: ck8t3tcd84f5f0j78f9qgokk8
     verified: true
     hashtags: "#bobsleigh, #fireonice, #gymlife, #lifting"
-  - username: "roarfitnessgirl"
-    fullname: >-
-      Sarah Lindsay
-    bio: >-
-      •3x Olympian •Owner @roarfitnessldn gyms 🇬🇧 🇦🇪 •Founder @roarclasses •Sports Pundit @bbc •Personal Trainer •Nutrition coach •Public Speaker
-    location: "United Kingdom"
-    followers: 90402
-    engagement: 117
-    commentsToLikes: 0.083805
-    id: ck5px3kjrpxhe0i11y2wwn406
-    verified: true
-    hashtags: "#positivemindset, #personaltrainer, #fitness, #dubai"
-  - username: "moonieckm"
-    fullname: >-
-      Moonie Chu 朱嘉望
-    bio: >-
-      Athlete | OOTD | Beauty | Girl Talk 🇭🇰HK Team Fencer 🌟Tokyo 2020 Olympian 🥉Asian Games Medalist 2014 & 2018 💌 Job enquiries: moonieckmjobs@gmail.com
-    location: "United Kingdom"
-    followers: 129411
-    engagement: 511
-    commentsToLikes: 0.014637
-    id: ckap3g2tc2v4q0i78x2u9n98y
-    verified: false
-    hashtags: "#hkootd, #summerootd, #tokyoolympics, #travelhk"
-  - username: "eilishmccolgan"
-    fullname: >-
-      Eilish McColgan
-    bio: >-
-      Scottish 5000m runner. Double Olympian Travelling the world to run in circles🌎 European Medalist @asicseurope Head coach at @teamrunningmadeeasy
-    location: "United Kingdom"
-    followers: 81192
-    engagement: 460
-    commentsToLikes: 0.024346
-    id: ck0w0ifmred2g0i19se7sj5v4
-    verified: true
-    hashtags: "#run, #running, #trackandfield, #training"
   - username: "callumrhawkins"
     fullname: >-
       Callum Hawkins
     bio: >-
       New Balance athlete Scottish Marathon (2:08.14)& Half Marathon (60:00) record holder Olympian
     location: "United Kingdom"
-    followers: 25899
-    engagement: 1309
-    commentsToLikes: 0.011719
+    followers: 27823
+    engagement: 928
+    commentsToLikes: 0.010468
     id: ck55l3ylx0p5x0i11c3kh25cm
     verified: false
-    hashtags: "#nbrunning, #runnersofinstagram, #garmin, #running"
+    hashtags: "#running, #ad, #newbalance, #marathonrunner"
   - username: "shanazereade"
     fullname: >-
-      Shanaze Reade
+      Shanaze Reade 🏳️‍🌈
     bio: >-
-      🇬🇧 2 x Olympic Athlete 🥇 7 x BMX & Track World Champion ✉️ Enquiries: Jim@offlimitsentertainment.com 🌈
+      🇬🇧 2 x Olympic Athlete 🥇 7 x BMX & Track World Champion 📺 Celeb SAS: Who Dares Wins ✉️ Enquiries: jason@offlimitssport.com
     location: "United Kingdom"
-    followers: 17723
-    engagement: 531
-    commentsToLikes: 0.026584
+    followers: 19648
+    engagement: 370
+    commentsToLikes: 0.024296
     id: ck15rjg4m87vp0i19q00x9jzr
     verified: false
-    hashtags: "#sunshine, #olympian, #strongnotskinny, #worldchampion"
-  - username: "natalyacoyle"
-    fullname: >-
-      Natalya Coyle
-    bio: >-
-      🇮🇪 Olympian - 9th in London - 6th in Rio. Multiple world medalist @insideindeed @libertyirl ambassador Any questions just ask ⬇️ @navybluesports
-    location: "United Kingdom"
-    followers: 5559
-    engagement: 614
-    commentsToLikes: 0.016554
-    id: ck6017cf8ezcm0i1426oeijr0
-    verified: true
-    hashtags: "#olympics, #tokyo, #scherma, #fencing"
+    hashtags: "#london, #olympian, #newchapter, #strongnotskinny"
 ---

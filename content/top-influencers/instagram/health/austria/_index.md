@@ -1,12 +1,60 @@
 ---
-title: Top 10 Health Instagram Influencers In Austria In 2023
+title: Top 10 Health Instagram Influencers In Austria In 2024
 description: >-
-  Find top health Instagram influencers in Austria in 2023. Most popular hashtags: #viennablogger #vienna #austrianblogger.
+  Find top health Instagram influencers in Austria in 2024. Most popular hashtags: #austria #vienna #wien.
 platform: Instagram
-hits: 69
-text_top: See the top-rated Instagram accounts on inBeat.
-text_bottom: Our search engine aggregates 69 Instagram influencers like this in Austria for you to contact.
+hits: 92
+text_top: See the most popular Instagram accounts on inBeat.
+text_bottom: Our database has 92 Instagram influencers like this in Austria for you to work with.
 profiles:
+  - username: "laraselina"
+    fullname: >-
+      Lara Selina
+    bio: >-
+      mental health & positive mindset Ernährungs- & Mentaltrainerin 💭 𖤥 Vienna | Content Creatorin ✉️ lara@brainandbabes.com
+    location: "Austria"
+    followers: 94034
+    engagement: 296
+    commentsToLikes: 0.015955
+    id: ck8tdae412jqv0j78vgdje576
+    verified: false
+    hashtags: "#girlswholift, #vienna, #viennablogger, #austrianblogger"
+  - username: "leonie_rachel"
+    fullname: >-
+      Leonie-Rachel Soyel
+    bio: >-
+      ☾ Mental Health Advocate ☾ für mehr Realität auf Instagram ☾ Podcasterin & Autorin: @couchgefluester.vienna ☾ Creator of Moon Magic Yoga
+    location: "Austria"
+    followers: 34608
+    engagement: 124
+    commentsToLikes: 0.043287
+    id: ck5hfpkufyo0o0i11y78hoxge
+    verified: false
+    hashtags: "#loveislove, #beweglichkeits, #gesundesessen, #pers"
+  - username: "herbackcountrylife"
+    fullname: >-
+      Sabine 🐝 OÖ 🇦🇹⛰️ Molln
+    bio: >-
+      Nature 🌱 Happiness&Health Hiking junkie 🧗‍♂️ Travelholic 🌍
+    location: "Austria"
+    followers: 100259
+    engagement: 114
+    commentsToLikes: 0.020520
+    id: ck0ubmkw5exp20i194xtpav41
+    verified: false
+    hashtags: "#runninggirl, #pillerseetal, #landliebe, #blondesandcookies"
+  - username: "verena_katrien"
+    fullname: >-
+      VERENA-KATRIEN GAMLICH
+    bio: >-
+      🇦🇹 VIE ❥ here to inspire and be inspired ❖ lifestyle | fit & healthy | travel • Owner of @peacox.marketing • Athlete @biotechusa_de | VERENA15
+    location: "Austria"
+    followers: 167493
+    engagement: 37
+    commentsToLikes: 0.009207
+    id: ck5c8wpnyaclj0i11be6r2ole
+    verified: false
+    hashtags: "#redhaired, #portraitphotography, #austriangirl"
   - username: "victoriahubacek"
     fullname: >-
       Vɪᴄᴛᴏʀɪᴀ Hᴜʙᴀᴄᴇᴋ
@@ -31,66 +79,18 @@ profiles:
     id: ckf5qlnhw9s0x0j23u26ublip
     verified: false
     hashtags: "#lockdown, #lockdownworkout, #workout, #legdayworkout"
-  - username: "virginia.rox"
-    fullname: >-
-      Virginia Rox🧞‍♀️
-    bio: >-
-      🇦🇹 ginny 🇵🇭 The magic of an active & conscious life, mental health, self development & compassion ✨ ❤️ @philippknefz 🌱 @foodspring “vroxFSG”
-    location: "Austria"
-    followers: 43855
-    engagement: 276
-    commentsToLikes: 0.054560
-    id: ck6ui8b8udn0n0j718tccz8d4
-    verified: false
-    hashtags: "#foodspringfamily, #couplegoals, #graz, #anzeige"
   - username: "melanie_lechner"
     fullname: >-
       𝔐𝔢𝔩𝔞𝔫𝔦𝔢 𝔏𝔢𝔠𝔥𝔫𝔢𝔯
     bio: >-
-      •Dipl. Health Trainerin •IFBB Bikini Fitness Champion 🏆🥇 •AnoVona ————————
+      •Dipl. Health Trainerin | CEO •IFBB Bikini Fitness Champion 🏆🥇 •AnoVona ————————
     location: "Austria"
-    followers: 14906
-    engagement: 238
-    commentsToLikes: 0.091919
+    followers: 14371
+    engagement: 224
+    commentsToLikes: 0.047007
     id: ck9wf3dljn3sc0j78f00ublil
     verified: false
-    hashtags: "#brotherandsister, #girlstrip, #einzigenmitsoundboxunterwegs"
-  - username: "laraselina"
-    fullname: >-
-      LARA | LIFE & POSITIVITY
-    bio: >-
-      healthy mind & life | positive mindset 𖤥 V I E N N A | Content Creator & Ernährungscoach ✉️ contact@laraselina.com 📖 shop my book
-    location: "Austria"
-    followers: 48931
-    engagement: 675
-    commentsToLikes: 0.040828
-    id: ck8tdae412jqv0j78vgdje576
-    verified: false
-    hashtags: "#portraitphotography, #cyprus, #cyprusisland, #springoutfit"
-  - username: "jasminspanitz"
-    fullname: >-
-      MORE THAN YOGA
-    bio: >-
-      ☼☽ Inspiring you to start moving - your MIND and BODY. ⋒ Life & Motherhood ⚘ Holistic Approach to Health | YOGA • Founder of @yogabrunchvienna
-    location: "Austria"
-    followers: 9574
-    engagement: 477
-    commentsToLikes: 0.031416
-    id: ckaordh7umq390i78qm8lts3r
-    verified: false
-    hashtags: "#standingdesk, #yogamom, #croatia, #yaasa"
-  - username: "jolie_janine"
-    fullname: >-
-      fashion| travel |food| inspo
-    bio: >-
-      healthy life 🤍 daily food inspo 🤍 travel love 🤍 📍Vienna, Austria 📩 joliejaninevienna@gmail.com
-    location: "Austria"
-    followers: 89687
-    engagement: 161
-    commentsToLikes: 0.015167
-    id: ckaoxrw55egwb0i786dr6d23f
-    verified: false
-    hashtags: "#greece, #viennablogger, #sunkissed, #ootdfashion"
+    hashtags: "#girlstrip, #einzigenmitsoundboxunterwegs, #tbibiza"
   - username: "fabi.jojo"
     fullname: >-
       Fabian & Johanna

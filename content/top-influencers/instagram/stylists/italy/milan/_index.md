@@ -1,11 +1,11 @@
 ---
-title: Top 10 Stylists Instagram Influencers In Milan In 2023
+title: Top 10 Stylists Instagram Influencers In Milan In 2024
 description: >-
-  Find top stylists Instagram influencers in Milan in 2023. Most popular hashtags: #igersitalia #milano #stilllife.
+  Find top stylists Instagram influencers in Milan in 2024. Most popular hashtags: #stylist #hair #makeup.
 platform: Instagram
-hits: 78
-text_top: Discover the best Instagram influencers on inBeat.
-text_bottom: inBeat holds 78 Instagram influencers like this in Milan, Italy for you to pitch.
+hits: 86
+text_top: See the top-rated Instagram profiles on inBeat.
+text_bottom: Our platform holds 86 Instagram influencers like this in Milan, Italy for you to pitch.
 profiles:
   - username: "abrilcassella"
     fullname: >-
@@ -25,24 +25,48 @@ profiles:
     bio: >-
       Fashion Stylist. Milano/ Los Angeles valeriatrsemu@gmail.com
     location: "Italy"
-    followers: 24740
-    engagement: 107
-    commentsToLikes: 0.017806
+    followers: 25293
+    engagement: 146
+    commentsToLikes: 0.016755
     id: ck15rzrbcaimf0i19hqz930c4
     verified: false
-    hashtags: "#backstage, #ferragamo, #fittings"
-  - username: "lauracaldarola"
+    hashtags: "#wildrider, #backstage"
+  - username: "pierpaololaihair"
     fullname: >-
-      Laura Caldarola
+      Pier Paolo Lai
     bio: >-
-      Mother of two • Italian in Spain • Author of “En Marzo se peinan las brujas” • Elle España blogger “Mamma Mía” • TV host • Stylist 📍Madrid - Milán
+      Hairstylist
     location: "Italy"
-    followers: 35225
-    engagement: 313
-    commentsToLikes: 0.053639
-    id: ck134yeqiysmw0i19gecpq6p1
+    followers: 30812
+    engagement: 326
+    commentsToLikes: 0.045785
+    id: ck6tnkdd3a0se0j715ds34tth
     verified: false
-    hashtags: "#ad, #cuidarteestuplacer, #vitalidadzespri, #enmarzosepeinanlasbrujas"
+    hashtags: "#workinglate, #fashionstylist, #hairstylist, #hairart"
+  - username: "elisabettagregoracireal"
+    fullname: >-
+      Elisabetta Gregoraci
+    bio: >-
+      TV personality, Actress, I live for my incredible son,black belt in karate,I love chocolate • Lunedì #MadInItaly su #Rai2 #BattitiLive 🫶🏻
+    location: "Italy"
+    followers: 2016426
+    engagement: 106
+    commentsToLikes: 0.033356
+    id: ck0tv2gsq9nib0i19b2tdcktk
+    verified: true
+    hashtags: "#adv, #madinitaly, #rai2, #sanvalentino"
+  - username: "danilov.viktor_"
+    fullname: >-
+      𝐕𝐢𝐜𝐭𝐨𝐫 𝐃𝐚𝐧𝐢𝐥𝐨𝐯
+    bio: >-
+      📍Milano photographer • stylist 📩 cooperation.danilovviktor@gmail.com
+    location: "Italy"
+    followers: 1879912
+    engagement: 80
+    commentsToLikes: 0.002059
+    id: ck0w4b15mxoo80i19dm0s8fr5
+    verified: false
+    hashtags: "#danilovviktorwork, #sttropez, #paris, #mfw"
   - username: "giovannahoang"
     fullname: >-
       Giovanna Hoang
@@ -55,42 +79,18 @@ profiles:
     id: ck14kcku3ouqk0i19wftk94cn
     verified: false
     hashtags: "#chefwords, #ricettefacili, #cucinaitaliana, #tualmeglio"
-  - username: "simonafloresta"
-    fullname: >-
-      𝐒𝐢𝐦𝐨𝐧𝐚 𝐅𝐥𝐨𝐫𝐞𝐬𝐭𝐚
-    bio: >-
-      Fashion Stylist ☉libra ↑libra ☾pisces 𝐋𝐨𝐯𝐞𝐫 𝐨𝐟 𝐚𝐞𝐬𝐭𝐡𝐞𝐭𝐢𝐜𝐬 𝐚𝐧𝐝 𝐚𝐫𝐭 📍Milan 𝐛𝐮𝐭 𝐰𝐢𝐭𝐡 𝐦𝐢𝐧𝐝 𝐨𝐧 𝐭𝐡𝐞 𝐦𝐨𝐨𝐧 🌙 @revolve Ambassador 💌 simoflore.sf@gmail.com
-    location: "Italy"
-    followers: 27904
-    engagement: 411
-    commentsToLikes: 0.097558
-    id: ck13anyzorbj00i19iew4d4pd
-    verified: false
-    hashtags: "#apmgirls, #vintageoutfit, #princessaesthetic, #darkacademiafashion"
   - username: "yleniapuglia"
     fullname: >-
-      Y&P Consulting
+      YP
     bio: >-
-      ⠀ 😎Fashion stylist / Fashion consultant ⠀📍Milano ⠀💌 info@yleniapuglia.com ⠀🕶 Co - owner @gspectacles_eyewear
+      ⠀ 🐯Fashion stylist / Fashion consultant ⠀📍Milano ⠀💌 yleniapuglia@gmail.com ⠀🕶 Co - owner @gspectacles_eyewear
     location: "Italy"
-    followers: 28636
-    engagement: 311
-    commentsToLikes: 0.021152
+    followers: 26498
+    engagement: 74
+    commentsToLikes: 0.027125
     id: ck55oprxq8v670i11kozx433f
     verified: false
-    hashtags: ""
-  - username: "micolgarden"
-    fullname: >-
-      Aygiz Rebelle
-    bio: >-
-      Stylist/Columnist/Creator Based in Milano aygizrebelle@gmail.com
-    location: "Italy"
-    followers: 96811
-    engagement: 134
-    commentsToLikes: 0.030583
-    id: ck5hinbdceee70i11sri6r9m8
-    verified: false
-    hashtags: "#milano"
+    hashtags: "#michelemorrone, #iammichelemorroneofficial, #pushme"
   - username: "riccardomariachiacchio"
     fullname: >-
       Riccardo Maria Chiacchio
@@ -103,28 +103,28 @@ profiles:
     id: ck0vwfx1sthv60i19xx5nydbf
     verified: false
     hashtags: "#southernboy, #pisellino, #mandarino, #southerntherapy"
-  - username: "davidvanchieri"
+  - username: "annabellahilal"
     fullname: >-
-      David Vanchieri
+      Annabella Hilal
     bio: >-
-      🇮🇹 #italian #hairstylist 💇🏼‍♀️ for @aldocoppola 🌹 #mediaset 📺 and #celebrities ⭐️ My FB account 👤 David Vanchieri 🎤 study #sing 🌎✈️ i love #traveling
+      TV Presenter on @mbc1 & @mtvlebanon with a PhD in Law Lover to all things fashion & beauty ❤️ Snapchat: Annabellahilals
     location: "Italy"
-    followers: 10044
-    engagement: 172
-    commentsToLikes: 0.048660
-    id: ck0tuisbx7ck10i196n9q8s77
+    followers: 7310367
+    engagement: 129
+    commentsToLikes: 0.001337
+    id: cl4co03zmo36a0i23qwr024hi
     verified: false
-    hashtags: "#venice, #veneziagram, #infusion, #davidvanchieri"
-  - username: "marialudovicacampana"
+    hashtags: "#makeup, #hair, #outfit, #tweets"
+  - username: "simonafloresta"
     fullname: >-
-      𝐌𝐀𝐑𝐈𝐀 𝐋𝐔𝐃𝐎𝐕𝐈𝐂𝐀 𝐂𝐀𝐌𝐏𝐀𝐍𝐀
+      Simona Floresta | Stylist
     bio: >-
-      Fashion Stylist from Istituto Marangoni Founder & Designer @amoure_swimwear 🕊 Based in Milan
+      Fashion Stylist ☉libra ↑libra ☾pisces 🏹 𝐀𝐦𝐚𝐧𝐭𝐞 𝐝𝐞𝐥𝐥’𝐚𝐫𝐭𝐞 📍Milano 𝐦𝐚 𝐜𝐨𝐧 𝐥𝐚 𝐭𝐞𝐬𝐭𝐚 𝐬𝐮𝐥𝐥𝐚 𝐥𝐮𝐧𝐚 🌙 @revolve Ambassador 💌 simoflore.sf@gmail.com
     location: "Italy"
-    followers: 43873
-    engagement: 439
-    commentsToLikes: 0.088286
-    id: ckaotob5cwre70i78i0ljm4je
+    followers: 28004
+    engagement: 290
+    commentsToLikes: 0.091133
+    id: ck13anyzorbj00i19iew4d4pd
     verified: false
-    hashtags: "#press, #newsyettocome, #ludovicacampana, #swimwear"
+    hashtags: "#revolver, #stylepost, #revolveambassador, #frenchgirldaily"
 ---

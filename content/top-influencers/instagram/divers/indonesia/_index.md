@@ -1,130 +1,130 @@
 ---
-title: Top 10 Divers Instagram Influencers In Indonesia In 2023
+title: Top 10 Divers Instagram Influencers In Indonesia In 2024
 description: >-
-  Find top divers Instagram influencers in Indonesia in 2023. Most popular hashtags: #wonderfulindonesia #diindonesiaaja #terbangaman.
+  Find top divers Instagram influencers in Indonesia in 2024. Most popular hashtags: #oceanlife #underwater #wonderfulindonesia.
 platform: Instagram
-hits: 89
-text_top: See the top-rated Instagram profiles on inBeat.
-text_bottom: inBeat holds 89 Instagram influencers like this in Indonesia for you to pitch.
+hits: 85
+text_top: See the top-rated Instagram accounts on inBeat.
+text_bottom: Our search engine holds 85 Instagram influencers like this in Indonesia for you to work with.
 profiles:
-  - username: "satyawinnie"
+  - username: "cungkring"
     fullname: >-
-      Satya Winnie
+      Dimas Cungkring
     bio: >-
-      An adventurous Paraglider, Hiker, Diver + Travel Blogger from Indonesia 🇲🇨🌏🌊🌋 📍Bali, Indonesia 🎥: youtube.com/satyawinnie 📬: satyawinnie@gmail.com
+      @PADItv Dive Master & IANTD Cave Diver living on the Island 🏝 Founder of @sightsea Expeditions Part of @garminid team Trip Enquiries: +62-817-554-111
     location: "Indonesia"
-    followers: 35028
-    engagement: 429
-    commentsToLikes: 0.098660
-    id: ck138jc7ggi650i19vaskllcv
+    followers: 31935
+    engagement: 673
+    commentsToLikes: 0.017021
+    id: ck0tzyzm1s2iw0i199xvb4znw
     verified: false
-    hashtags: "#pesonaindonesia, #terbangaman, #wonderfulindonesia, #explorebali"
-  - username: "agus_syach"
+    hashtags: "#eranyagarmin, #uractivelifestyle, #garminid, #urlifestyle"
+  - username: "clarestaufan"
     fullname: >-
-      Agus Syach
+      Clarésta Taufan Kusumarina
     bio: >-
-      🇮🇩Specialty Scuba Diver PADI Rescue Diver - SSI Master Diver Chief of Bogor City Municipal Police & Fire Fighters
+      Karate Black Belt Dan-III • PADI Advanced & Nitrox Scuba Diver • @coralcatch Ambassador 📲 +6281211519119
     location: "Indonesia"
-    followers: 7149
-    engagement: 833
-    commentsToLikes: 0.205255
-    id: ck5ci2sbcrwqy0i11tnxi57dl
+    followers: 166318
+    engagement: 271
+    commentsToLikes: 0.011830
+    id: ck13477xtv1v40i19bl0ij8nt
     verified: false
-    hashtags: "#satgascovid19, #indonesianfirefighter, #indonesiandiver, #padangbai"
+    hashtags: "#pichousefilms, #mdpictures, #clockworkfilms, #guttobegutsy"
+  - username: "anggid7"
+    fullname: >-
+      Anggi DJ I MC, Moderator, TV Host
+    bio: >-
+      📍Jakarta, ID • News Presenter @tvrinasional • Advanced Open Water Diver 🤿 • “𝐏𝐥𝐚𝐲 𝐇𝐚𝐫𝐝 𝐚𝐧𝐝 𝐒𝐭𝐚𝐲 𝐇𝐮𝐦𝐛𝐥𝐞” • 𝘋𝘔 𝘍𝘰𝘳 𝘣𝘶𝘴𝘪𝘯𝘦𝘴𝘴 !! #AnggiDJourney
+    location: "Indonesia"
+    followers: 19494
+    engagement: 229
+    commentsToLikes: 0.028346
+    id: ck5c9cprhb77c0i11eqk12pkz
+    verified: false
+    hashtags: "#wonderfulindonesia, #mcwedding, #mcpalembang, #anggidjourney"
+  - username: "fadelaustyn"
+    fullname: >-
+      AUSTYN
+    bio: >-
+      🏊🏼‍♂️🚴🏼🏃🏽|Rescue Diver🤿 🏝️ @thisis.vibez @easysunday.ina 🤝@toko_bintangofficial @gallery.phone @seadoosafarimakassar @delicatesociety_ 💍@wayanindahhh
+    location: "Indonesia"
+    followers: 62974
+    engagement: 193
+    commentsToLikes: 0.011287
+    id: ck5zis9y5ga5d0i14c7sp0p1n
+    verified: false
+    hashtags: "#srcfams, #sundayrunningclub, #easysunday, #longmian"
+  - username: "scubadiverlife"
+    fullname: >-
+      Scuba Diver Life
+    bio: >-
+      is a leading global digital media company and publication that informs, inspires and entertains scuba divers and ocean enthusiasts.
+    location: "Indonesia"
+    followers: 368855
+    engagement: 87
+    commentsToLikes: 0.016315
+    id: ck0w1n6c5k5tu0i19i54f9jxj
+    verified: false
+    hashtags: "#sealife, #frogfish, #blue, #wildlife"
+  - username: "harivalzayuka"
+    fullname: >-
+      Harival Zayuka| Travel Blogger
+    bio: >-
+      Hi, It’s me Val. 📚Travel Blogger 🐋 Scuba Diver/Freediver 🏠 @casavalliving 📲 +6281220237217 ✉️ contact@harivalzayuka.com
+    location: "Indonesia"
+    followers: 93341
+    engagement: 86
+    commentsToLikes: 0.001394
+    id: ck0uehemrlh6d0i19p2hms9lx
+    verified: false
+    hashtags: "#sobattiket, #semuaadatiketnya, #bali, #cimematicvideo"
   - username: "marischkaprue"
     fullname: >-
       Marischka Prudence
     bio: >-
       Travel Blogger & a Happy Diver 😃 Living in Paradise: Indonesia 🇮🇩 📍Indonesia 🌞🌿⬇️
     location: "Indonesia"
-    followers: 112344
-    engagement: 153
-    commentsToLikes: 0.075212
+    followers: 111174
+    engagement: 77
+    commentsToLikes: 0.051553
     id: ck55mmcer49py0i110n8pwtbc
     verified: true
-    hashtags: "#loccitaneid, #smartertechnologyforall, #pakairyzenradeon, #benerancepat"
-  - username: "xdiaryrtiar"
-    fullname: >-
-      PENIKMAT SENJA
-    bio: >-
-      🇲🇨 Unity in Diversity ✨ Communication Science - Universitas Indonesia 2014 👩🏻‍🎓 Management - Binus 2018 📚 📍Jakarta, ID 🎬🎬 VLOG PENDAKIAN TERBARU 👇🏻👇🏻
-    location: "Indonesia"
-    followers: 12145
-    engagement: 740
-    commentsToLikes: 0.024659
-    id: ckf5ldwe2p7uz0j23da40fg5e
-    verified: false
-    hashtags: "#hidupgakcumatentanghariini, #ayotambahuntuktumbuh"
-  - username: "wiiiiza"
-    fullname: >-
-      Farwiza Farhan
-    bio: >-
-      • forest conservationist • scuba diver • PhD candidate at @radboud_uni • chairperson of @haka_sumatra • 2016 @whitleyawards • 2017 @ffnfoundation •
-    location: "Indonesia"
-    followers: 8389
-    engagement: 1035
-    commentsToLikes: 0.037878
-    id: ck5pzm7981nyz0i11bew290o1
-    verified: false
-    hashtags: "#throwback, #jerukbalipreset, #womeninconservation, #mothersday"
+    hashtags: "#nespressoid, #gentingskyworlds, #resortsworldgenting, #welcometomyworld"
   - username: "mrizag"
     fullname: >-
-      Rizal Agustin
+      Rizal Agustin | Travel Blogger
     bio: >-
-      Mountaineer . AOW Diver . Indonesian I am not an adventurer by choice but by fate. Man behind @T_OURJOURNEYS | @poqu.official 📩 agustinrizal@gmail.com
+      Mountaineer . AOW diver . Travel Blogger Indonesia 📍JKT,ID ✈️ South Korea 🇰🇷 25-30 March
     location: "Indonesia"
-    followers: 55871
-    engagement: 101
-    commentsToLikes: 0.075250
+    followers: 54811
+    engagement: 14
+    commentsToLikes: 0.012973
     id: ck0vxl7m8zg5t0i19ly1nmrdz
     verified: true
-    hashtags: "#pesonaindonesia, #westnusatenggara, #terbangaman, #diindonesiaaja"
-  - username: "serafhinz"
+    hashtags: "#bikinlebih, #mrizagjapan, #japan, #mrizagsouthkorea"
+  - username: "magdaleneid"
     fullname: >-
-      Serafhinz
+      Magdalene
     bio: >-
-      Scuba Diver x Actress x Tv Host 🎬 #seradexplorer Abs Workout Video👇🏻
+      Supporting diversity, empowering minds “You matter”
     location: "Indonesia"
-    followers: 23707
-    engagement: 278
-    commentsToLikes: 0.021516
-    id: ck5pv1qp0foq00i11lsbgb9xw
+    followers: 108617
+    engagement: 114
+    commentsToLikes: 0.027015
+    id: ck0w6l8b593ya0i19lzowtyiw
     verified: false
-    hashtags: "#diindonesiaaja, #wonderfulindonesia, #seradexplorer, #serasadilaut"
-  - username: "rafdyfauzan"
+    hashtags: "#bintangbersamabijak, #khitanperempuan, #hormatitubuhperempuan, #tolakp2gp"
+  - username: "catwomanizer"
     fullname: >-
-      𝗠𝘂𝗵𝗮𝗺𝗺𝗮𝗱 𝗥𝗮𝗳𝗱𝘆 𝗙𝗮𝘂𝘇𝗮𝗻
+      ANDREA GUNAWAN 🧜🏻‍♀️
     bio: >-
-      "a marine science student who spends 5% to Studying 95% to Enjoying Life” Adventure Seeker | Scientific Divers Any Collabs : 📩muh.rafdyf@gmail.com
+      @filmorepharma for better feminine health🩸 Babypreneur, Hiker, Diver, Globetrotter 🌎 👇🏻 For product reco and Q&A re Boob Job pls click the link below
     location: "Indonesia"
-    followers: 6360
-    engagement: 692
-    commentsToLikes: 0.085650
-    id: ck0vwpfx6uxtk0i19s6z865ye
-    verified: false
-    hashtags: "#everydayissunday, #baltaclaudi, #wearbaltaclaudi, #baltaclaudiindonesia"
-  - username: "chantfelicia"
-    fullname: >-
-      Chant Felicia
-    bio: >-
-      🤿 PADI SCUBA DIVER @chantdive 📲 ENDORSEMENT +6287772956280 (ᴇꜱʜᴀ) ❣️𝒲𝒽𝒶𝓉'𝓈 𝒻𝑜𝓇 𝓂𝑒 𝓌𝒾𝓁𝓁 𝒶𝓁𝓌𝒶𝓎𝓈 𝒷𝑒 𝒻𝑜𝓇 𝓂𝑒❣️ 👇🏻 GO JOIN 👇🏻
-    location: "Indonesia"
-    followers: 1228876
-    engagement: 142
-    commentsToLikes: 0.006831
-    id: ck5zimzvmg0kb0i14mbq5lom9
+    followers: 225791
+    engagement: 3
+    commentsToLikes: 0.000000
+    id: ck5c59yu531zq0i11ech4pazz
     verified: true
-    hashtags: "#bandaraman, #prediksitogel, #togelonline, #bandarterbaik"
-  - username: "macroalit"
-    fullname: >-
-      Macroalit
-    bio: >-
-      ✉ Official™ ✏Sharing All Kind Diversity Around the World ® Follow @macroalit And Be Surely Use Our Hashtag #macro_alit For A Chance To Be Featured©
-    location: "Indonesia"
-    followers: 48738
-    engagement: 593
-    commentsToLikes: 0.009982
-    id: ck5bvv7kpkgpx0i1145jo0kzi
-    verified: false
-    hashtags: "#arthopoda, #coleoptera, #gf, #beetle"
+    hashtags: "#ctwmnzrtweets, #fujixseries, #fujifilmxt2, #23mm"
 ---

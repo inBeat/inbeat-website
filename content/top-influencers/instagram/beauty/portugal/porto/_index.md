@@ -1,48 +1,72 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Porto In 2023
+title: Top 10 Beauty Instagram Influencers In Porto In 2024
 description: >-
-  Find top beauty Instagram influencers in Porto in 2023. Most popular hashtags: #portugal #outfitoftheday #photography #lookoftheday.
+  Find top beauty Instagram influencers in Porto in 2024. Most popular hashtags: #beauty #portugal #porto #photography.
 platform: Instagram
-hits: 6
-text_top: Analyze the best Instagram accounts on inBeat.
-text_bottom: Our database holds 6 Instagram influencers like this in Porto, Portugal for you to connect with.
+hits: 9
+text_top: Identify the best Instagram accounts on inBeat.
+text_bottom: Our platform aggregates 9 Instagram influencers like this in Porto, Portugal for you to work with.
 profiles:
-  - username: "alicefcnunes"
+  - username: "anitadacosta"
     fullname: >-
-      Alice Nunes ✨
+      Anita Da Costa Castanheira
     bio: >-
-      💄Fashion Enthusiast from Porto 🎓 Social Education Student ✉️ Brands: alicenunes_123@hotmail.com
+      📍Porto | Portuguese • Fashion, beauty, lifestyle and gorgeous views @cubufitnessboutique
     location: "Portugal"
-    followers: 7231
-    engagement: 604
-    commentsToLikes: 0.081193
-    id: ck9hc85qyk6z00j78p5eawpc1
+    followers: 268568
+    engagement: 146
+    commentsToLikes: 0.003996
+    id: ck0ub9f3le3pr0i19okrw0b44
     verified: false
-    hashtags: "#portuguesegirl, #porto, #portugal, #igers"
-  - username: "helenamota6"
+    hashtags: "#isto, #pub, #nespressocaliforniadream, #assobio"
+  - username: "martacyrnecarvalho"
     fullname: >-
-      H e l e n a   M o t a 🌷
+      Marta Cyrne Carvalho
     bio: >-
-      25 Paredes, Porto 🇵🇹 ✨ Founder @kalinoa.com.pt 📩 Collabs: hellenacmm@hotmail.com “Everything happens for a reason”
+      Family life 〰️ Mother of 3 Beauty Consultant | Online Skincare Plans Founder of @beautyboxmcc
     location: "Portugal"
-    followers: 16183
-    engagement: 553
-    commentsToLikes: 0.497726
-    id: ck1374c4h9pnz0i19iiwzxyiw
+    followers: 55991
+    engagement: 239
+    commentsToLikes: 0.006716
+    id: ck6u4knjk49al0j7148a8d9r3
     verified: false
-    hashtags: "#exceedyourself, #pub, #prozis, #prozisteam"
-  - username: "beatrizlpmaia_"
+    hashtags: "#beauty, #savills, #matosinhos, #natura"
+  - username: "joaocerqueira30"
+    fullname: >-
+      João Cerqueira
+    bio: >-
+      Fashion & Beauty content creator TikTok (31k): joaocerqueira30 📩 joaocerqueira.30@hotmail.com maysa@wosagency.pt
+    location: "Portugal"
+    followers: 18945
+    engagement: 44
+    commentsToLikes: 0.001839
+    id: ck5zrbvylwaj10i14a03212hr
+    verified: false
+    hashtags: "#photodump, #vlog, #grwmoutfit, #diacomigo"
+  - username: "pinkieloveforever"
+    fullname: >-
+      Inês Silva | Lifestyle & Travel
+    bio: >-
+      📍Porto, Portugal 📎 Master Designer & Pro Makeup Artist 📸 Lifestyle • Travel • Beauty • Food • Fashion Encontra-me Aqui👇🏻
+    location: "Portugal"
+    followers: 19074
+    engagement: 29
+    commentsToLikes: 0.000000
+    id: ck0w4205xweo30i19lqchjlwe
+    verified: false
+    hashtags: "#tophamburgueria, #viajar, #adulting, #blogdebeleza"
+  - username: "beatrizlpmaia"
     fullname: >-
       Beatriz Maia
     bio: >-
-      Porto, PT
+      Porto, PT ✉️ beatrizlpmaia@gmail.com
     location: "Portugal"
-    followers: 12945
-    engagement: 2968
-    commentsToLikes: 0.007932
+    followers: 12646
+    engagement: 1275
+    commentsToLikes: 0.013770
     id: ck8td5oyc1znw0j78mmxhro23
     verified: false
-    hashtags: "#face, #beauty, #summervibes, #jeans"
+    hashtags: "#girlpower, #photography, #details, #white"
   - username: "adivadarechousa"
     fullname: >-
       CATARINA NORA
@@ -78,53 +102,29 @@ profiles:
     commentsToLikes: 0.034095
     id: ck0u82uor6dra0i19ynn0yreo
     verified: false
-    hashtags: "#men, #bloggerstyle, #outfitoftheday, #cover"
-  - username: "marianacardia"
+    hashtags: "#foto, #uk, #modelo, #hairstyle"
+  - username: "marianabventura"
     fullname: >-
-      Mαяιαηα 🌹
+      𝐌𝐀𝐑𝐈𝐀𝐍𝐀
     bio: >-
-      📍Lisbon 🇵🇹 👩🏼‍🎓:ciências da comunicação 💖: Beauty - Fashion - Travel 💓 📩: prettyinpinkgeral@gmail.com 🖥: www.prettyinpink.pt⠀ ⠀⠀⠀🛍⠀@dailypinkootd
+      Just me myself and I ✨ 📩Marianaventurawork@gmail.com or Marianaventura@all-in-fluencers.com
     location: "Portugal"
-    followers: 16563
-    engagement: 540
-    commentsToLikes: 0.089691
-    id: ck8t6uh2eeqch0j78kg2sj6w0
+    followers: 44333
+    engagement: 618
+    commentsToLikes: 0.020018
+    id: cl1uc22r6cfv90i23ojte2bsk
     verified: false
-    hashtags: "#dresslily, #dresses, #dresslilyfashion, #newdresses"
-  - username: "__barbaragoncalves"
+    hashtags: "#viral, #giveawayportugal, #lashes, #volumebrasileiro"
+  - username: "torysmithphoto"
     fullname: >-
-      Bárbara Gonçalves 🐆
+      T O R Y S M I T H - Director, Videographer & Photographer
     bio: >-
-      🌍 Portuguese in Luxembourg 🇵🇹🇱🇺 ✨ Beauty and Makeup ✨ 💌 Collaborations DM or E-mail ↓ 💄💅🏼 @barbarag_beauty
+      Fashion & Beauty #Videographer #Director #Photographer 📍London | Cotswolds
     location: "Portugal"
-    followers: 41822
-    engagement: 249
-    commentsToLikes: 0.283557
-    id: ck8t51hvi8j7h0j78n01d89hg
+    followers: 17017
+    engagement: 243
+    commentsToLikes: 0.067108
+    id: ck6tp7i5ri9bf0j71cfhdud4a
     verified: false
-    hashtags: "#outfitoftheday, #ootd, #photography, #look"
-  - username: "adivadarechousa"
-    fullname: >-
-      CATARINA NORA
-    bio: >-
-      ⋒ fashion trends | beauty tips ⊪ skincare consulting & makeup artist 〈@catarinanora_mua〉 ↷ social network management ◠ Blog:
-    location: "Portugal"
-    followers: 10436
-    engagement: 520
-    commentsToLikes: 0.389037
-    id: ck8t5v72nbcwr0j78c21xhpra
-    verified: false
-    hashtags: "#wednesdayoutfit, #hat, #presentesdenatal, #momoutfit"
-  - username: "alicetrewinnard"
-    fullname: >-
-      Alice Trewinnard
-    bio: >-
-      From Lisbon, Portugal @tarwifoods Fashion, beauty & healthy living Represented by @Notable.pt YouTube Channel
-    location: "Portugal"
-    followers: 269425
-    engagement: 1129
-    commentsToLikes: 0.006114
-    id: ck134v13sybqz0i19a00owtxx
-    verified: true
-    hashtags: "#anossahistoriachegouaosim, #pub, #cas, #wearetarwi"
+    hashtags: "#chanelmakeup, #fashionfilm, #beautyeditorial, #femalephotographers"
 ---

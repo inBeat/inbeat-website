@@ -1,12 +1,36 @@
 ---
-title: Top 10 Crossfit Instagram Influencers In Colombia In 2023
+title: Top 10 Crossfit Instagram Influencers In Colombia In 2024
 description: >-
-  Find top crossfit Instagram influencers in Colombia in 2023. Most popular hashtags: #crossfit #smile #motivation.
+  Find top crossfit Instagram influencers in Colombia in 2024. Most popular hashtags: #crossfit #motivacion #tbt.
 platform: Instagram
-hits: 37
+hits: 40
 text_top: Identify the most popular Instagram influencers on inBeat.
-text_bottom: Our database has 37 Instagram influencers like this in Colombia for you to pitch.
+text_bottom: Our database has 40 Instagram influencers like this in Colombia for you to connect with.
 profiles:
+  - username: "mariajosev0908"
+    fullname: >-
+      Maria Jose Vargas
+    bio: >-
+      📍 🇺🇸 / 🇨🇴 🇨🇴 National Champ 2023 🌎 CrossFit Games Teen Athlete 2021 🇧🇷 Semifinals Athlete 2023 🏠: @atalantabox 😤: @lycanfitness.co #iam1stphorm
+    location: "Colombia"
+    followers: 152883
+    engagement: 141
+    commentsToLikes: 0.008596
+    id: ck8sxh7wbhdv30j784xj2aczj
+    verified: false
+    hashtags: "#crossfitgames, #crossfit, #crossfitteens, #iam1stphorm"
+  - username: "mariaclaraceballos89"
+    fullname: >-
+      Maria Clara Ceballos
+    bio: >-
+      Mamá de Vicente y Cristobal CrossFit Athlete 💼 @Soyhakuna 📱@comunidadnow 📧 mariaclaraceballos@gmail.com
+    location: "Colombia"
+    followers: 444938
+    engagement: 37
+    commentsToLikes: 0.015840
+    id: ck8sxh8y1hdyg0j78njfdve7w
+    verified: true
+    hashtags: "#blw, #mariaclaraceballos, #vicenteycristobal, #maternidad"
   - username: "yenny.alvarez95"
     fullname: >-
       YENNY ALVAREZ
@@ -103,28 +127,4 @@ profiles:
     id: ck8sxha8vhe4p0j78applpxe1
     verified: false
     hashtags: "#crossfitcolombia, #crossfit, #crossfitmedellin, #twins"
-  - username: "mariaclaraceballos89"
-    fullname: >-
-      Maria Clara Ceballos
-    bio: >-
-      Mamá de Vicente CrossFit Athlete 💼 @Soyhakuna 📱@comunidadnow 🔥@healthysportscolombia 🏋️‍♂️ @lycanfitnesscol 📧 mariaclaraceballos@gmail.com
-    location: "Colombia"
-    followers: 453318
-    engagement: 138
-    commentsToLikes: 0.019026
-    id: ck8sxh8y1hdyg0j78njfdve7w
-    verified: true
-    hashtags: "#maternidad, #mariaclaraceballos, #babyboy, #guerrerahakuna"
-  - username: "bestospina"
-    fullname: >-
-      Esteban Ospina
-    bio: >-
-      Son of God 🙏🏻🦁 Phillippians 4:13 CrossFit 🏋🏼 @bangenergy 𝖘♡
-    location: "Colombia"
-    followers: 351460
-    engagement: 296
-    commentsToLikes: 0.006238
-    id: ck5ci7ulbs6gs0i11s7mz76xw
-    verified: false
-    hashtags: "#bangenergy, #energydrink"
 ---

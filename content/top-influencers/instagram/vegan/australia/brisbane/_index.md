@@ -1,24 +1,48 @@
 ---
-title: Top 10 Vegan Instagram Influencers In Brisbane In 2023
+title: Top 10 Vegan Instagram Influencers In Brisbane In 2024
 description: >-
-  Find top vegan Instagram influencers in Brisbane in 2023. Most popular hashtags: #vegan #plantbased #veganfood #brisbane.
+  Find top vegan Instagram influencers in Brisbane in 2024. Most popular hashtags: #vegan #brisbane #ad #veganfood.
 platform: Instagram
-hits: 12
-text_top: See the best Instagram profiles on inBeat.
-text_bottom: Our search engine holds 12 Instagram influencers like this in Brisbane, Australia for you to pitch.
+hits: 15
+text_top: Discover the top-rated Instagram accounts on inBeat.
+text_bottom: Our search engine aggregates 15 Instagram influencers like this in Brisbane, Australia for you to work with.
 profiles:
-  - username: "candice3lise__"
+  - username: "leangreenie"
     fullname: >-
-      CANDICE 🌻
+      Stacey Parish
     bio: >-
-      🇦🇺 Brisbane, AU 📩 candiceelis3@gmail.com 👄 @envyaesthetics___ $20off ‘CANDICE’ 💆🏼‍♀️ @skin.enhance 20% off 👁 @lashesby_sb @thebasehairstudio
+      Bris, Australia 🇦🇺 🎬 Vegan meme creator > 𝗥𝗲𝗲𝗹𝘀 💪Strength training programs > 𝗟𝗶𝗻𝗸 𝗶𝗻 𝗯𝗶𝗼 💚Vegan 💫Starseed 💜Empath/HSP 🧘‍♀️Vipassana 🌱Ayahuasca
     location: "Australia"
-    followers: 14287
-    engagement: 800
-    commentsToLikes: 0.314172
-    id: ckap42c1b5j8i0i78100qqryc
+    followers: 24281
+    engagement: 196
+    commentsToLikes: 0.034229
+    id: ckap98q1brmmh0i78lcgntkqc
     verified: false
-    hashtags: "#winter, #sunshinecoast, #fashionblogger, #captionsforinsta"
+    hashtags: "#animallovers, #govegan, #plantfood, #veganforlife"
+  - username: "the_iuli_clique"
+    fullname: >-
+      Brisbane Foodie | Content Creator
+    bio: >-
+      👋🏼Alex & Sharissa | Brisbane 🇦🇺 👌🏼Easy Food & Drink Reels 🫶🏼Follow for #easyrecipes 👇🏼GreenPan Padova Cookware Set
+    location: "Australia"
+    followers: 16846
+    engagement: 42
+    commentsToLikes: 0.012723
+    id: ck6u3hmgkxu0q0j71lpq7tmaw
+    verified: false
+    hashtags: "#aldipartner, #ad, #brisbanefoodie, #bettycrocker"
+  - username: "chef_adrian_richardson"
+    fullname: >-
+      Adrian Richardson ‘Richo’
+    bio: >-
+      🧂Salt loves meat & meat loves salt 🍸La Luna Bistro & Bouvier Bar & Grill 🥃BOS Brisbane 🍾Gallery @ Marvel Stadium 😇 Good Chef Bad Chef?
+    location: "Australia"
+    followers: 25551
+    engagement: 201
+    commentsToLikes: 0.038622
+    id: ckaoqub1okfmz0i78cso8r8ef
+    verified: false
+    hashtags: "#staysafe, #tasty, #bos, #brisbane"
   - username: "kelly_mcquirktattoo"
     fullname: >-
       Kelly McQuirk
@@ -43,18 +67,30 @@ profiles:
     id: ck14i66todu8p0i193ju1jbdb
     verified: false
     hashtags: "#animallovers, #birds, #birdkeeping, #whatsinmybirdbowl"
-  - username: "lalasplate"
+  - username: "aussiefoodiefamily"
     fullname: >-
-      Lara De Bruyne
+      Aussie Foodie Family | HEALTHY | EASY RECIPES
     bio: >-
-      you are loved ✞ Healthy(ish) food, lifestyle + wellness 🍉🍓🍒🌸 Brisbane, Australia ♡ hello@lalasplate.com ☻
+      Food photography & recipes creator Eating out - Sunshine Coast & Brisbane 📬 foodieconscious@yahoo.com
     location: "Australia"
-    followers: 45930
-    engagement: 864
-    commentsToLikes: 0.026087
-    id: ck15tte3pjswb0i19uj4bboe5
+    followers: 9601
+    engagement: 344
+    commentsToLikes: 0.236248
+    id: clpny4fx647ik0k088gnufoxb
     verified: false
-    hashtags: "#healthybreakfast, #nicecream, #fooddiary, #chocolate"
+    hashtags: "#buzzfeast, #huffposttaste, #sunshinecoastfoodie, #ad"
+  - username: "candice3lise__"
+    fullname: >-
+      CANDICE 🌻
+    bio: >-
+      🇦🇺 Brisbane, AU 📩 candiceelis3@gmail.com 👄 @envyaesthetics___ $20off ‘CANDICE’ 💆🏼‍♀️ @skin.enhance 20% off 👁 @lashesby_sb @thebasehairstudio
+    location: "Australia"
+    followers: 14287
+    engagement: 800
+    commentsToLikes: 0.314172
+    id: ckap42c1b5j8i0i78100qqryc
+    verified: false
+    hashtags: "#instagram, #australia, #captions, #brisbane"
   - username: "whatsnextjake"
     fullname: >-
       J.A.K.E
@@ -67,64 +103,28 @@ profiles:
     id: ck5zkcsocj8qh0i14r9ic6ynp
     verified: false
     hashtags: "#rawvegan, #fitnessmotivation, #movestowin, #veganfood"
-  - username: "run2food"
+  - username: "ekats"
     fullname: >-
-      Vegan Recipes | Michelle 🌱
+      Ekat’s Couture Cakes
     bio: >-
-      Easy | Tasty | Healthy(ish) ✨ Dentist 🦷| Brisbane, AUS 🇦🇺 📩michelle-hc@hotmail.com @macr0mike discount code “amb-chen”
+      Ekaterina Haute couture cake designer. Online school. @ekatsweddings @ekatschocolate cakes@ekats.com.au Australia. Brisbane
     location: "Australia"
-    followers: 55329
-    engagement: 530
-    commentsToLikes: 0.121028
-    id: ck0tx137fhgrw0i19w8b4sprl
+    followers: 112787
+    engagement: 175
+    commentsToLikes: 0.022480
+    id: ck5hlqpw3koid0i11vqshbosa
     verified: false
-    hashtags: "#coconutbowls, #naturescharmau, #naturescharm, #run2food"
-  - username: "the_iuli_clique"
-    fullname: >-
-      Foodie.Content Creator.Life
-    bio: >-
-      👉🏼Sharissa 👋🏼Brisbane family 👍🏼What we eat, drink & do! 🙏🏼#God1st 🌊☀️🧁🥂🥗 👇🏼Discounts & Website Links
-    location: "Australia"
-    followers: 14706
-    engagement: 307
-    commentsToLikes: 0.147822
-    id: ck6u3hmgkxu0q0j71lpq7tmaw
-    verified: false
-    hashtags: "#aunznetwork, #thekokosamoa, #gifted, #aldipartner"
-  - username: "leangreenie"
-    fullname: >-
-      Stacey Parish 💚 Vegan
-    bio: >-
-      Brisbane
-    location: "Australia"
-    followers: 24316
-    engagement: 276
-    commentsToLikes: 0.039238
-    id: ckap98q1brmmh0i78lcgntkqc
-    verified: false
-    hashtags: "#vegan, #animallovers, #veganforlife, #animalrights"
-  - username: "rhiannondarney"
-    fullname: >-
-      Rhi
-    bio: >-
-      KINDNESS, REALNESS, GRATITUDE E ∞ | vegan for the animals 🌱 @studiowinklashes | @geminilashes.com.au
-    location: "Australia"
-    followers: 444855
-    engagement: 113
-    commentsToLikes: 0.012213
-    id: ck5qdkiu8w0u90i11q67gy4pr
-    verified: false
-    hashtags: ""
+    hashtags: "#brisbanewedding, #chocolate, #weddingaustralua, #cakedesign"
   - username: "veganonthegc"
     fullname: >-
-      Jane | vegan on the Gold Coast | vegan recipes
+      Jane - Vegan on the GC
     bio: >-
-      Reels |Recipes |Reviews 📧 15% @froothie VeganontheGC15 10% @plantbasedhamperco VEGANONTHEGC 10% @candyqueensau VEGANONTHEGC
+      📍Gold Coast 🌱 - passionately creating Reels | Recipes | Reviews for Vegan business’s - 📧for rates & let’s encourage change for a compassionate future
     location: "Australia"
-    followers: 11469
-    engagement: 174
-    commentsToLikes: 0.230583
+    followers: 11544
+    engagement: 144
+    commentsToLikes: 0.190867
     id: cl48q93z8m8mt0i23e4ed1q9s
     verified: false
-    hashtags: "#veganfoodporn, #vegano, #brisbanevegans, #burgerporn"
+    hashtags: "#recipe, #veganfoodie, #recipeoftheday, #summervibes"
 ---

@@ -1,12 +1,24 @@
 ---
-title: Top 10 Gardening Instagram Influencers In Spain In 2023
+title: Top 10 Gardening Instagram Influencers In Spain In 2024
 description: >-
-  Find top gardening Instagram influencers in Spain in 2023. Most popular hashtags: #gardeninspiration #gardendesign #plantlover #nature.
+  Find top gardening Instagram influencers in Spain in 2024. Most popular hashtags: #gardeninspiration #garden #terraza #myhome.
 platform: Instagram
-hits: 8
-text_top: Identify the top-rated Instagram profiles on inBeat.
-text_bottom: inBeat aggregates 8 Instagram influencers like this in Spain for you to connect with.
+hits: 13
+text_top: See the best Instagram influencers on inBeat.
+text_bottom: Our database has 13 Instagram influencers like this in Spain for you to collaborate.
 profiles:
+  - username: "rutadvinska"
+    fullname: >-
+      Rūta Dvinska
+    bio: >-
+      📺 TV host/journalist @tv3_latvia | 📻 radio DJ @starfmlatvia |📱content creator | 👧🏼👧🏼👧🏼 mom | 🌱urban gardening | 🐓 chicken owner | 🎙podcast FUNKTIERIS
+    location: "Spain"
+    followers: 35539
+    engagement: 864
+    commentsToLikes: 0.008372
+    id: ck15ujvpxnj9d0i19encni7nf
+    verified: false
+    hashtags: "#tenerifephotography, #tenerifephoto, #familyphotoshoot, #pregnancyphotoschoot"
   - username: "a.casas.r"
     fullname: >-
       Amparo Casas
@@ -19,18 +31,30 @@ profiles:
     id: ckaos9zowqs6j0i78ks6irly8
     verified: false
     hashtags: "#houseplantsofinstagram, #urbanjungle, #houseplantclub, #plant"
-  - username: "dannyprague"
+  - username: "gr3gi"
     fullname: >-
-      Danny
+      Gregor - Travel | Style | Fitness
     bio: >-
-      Life begins after 40, continues after 45 🤣 LIFE | LOVE | LIVE dogs - English pointer & Labrador 🇨🇿 & 🇪🇺 Living in Prague - Traveling the World
+      📍#madrid #spain E-mail for collaboration: ✉️ gregor@gr3gi.com
     location: "Spain"
-    followers: 14722
-    engagement: 728
-    commentsToLikes: 0.021691
-    id: ckf5s6ukrew3a0j233oe6f8un
+    followers: 192565
+    engagement: 274
+    commentsToLikes: 0.022793
+    id: ck5cdxzpbjzpg0i11k0fgphld
     verified: false
-    hashtags: "#lycramen, #gaymodel, #menfashionblogger, #thebeardedway"
+    hashtags: "#ibiza, #travel, #travelblog, #espa"
+  - username: "vanessabreuer1"
+    fullname: >-
+      Vanessa Breuer
+    bio: >-
+      Mother of 3, model, wife to Oddy 📍Ibiza For model bookings @one.1models @boundarylondon For social requests pls contact vbpartnerships@gmail.com
+    location: "Spain"
+    followers: 123155
+    engagement: 11
+    commentsToLikes: 0.003141
+    id: ck0vxjujxz8zf0i19lervhvvv
+    verified: false
+    hashtags: "#metime, #breastfeeding, #mother, #family"
   - username: "atipicassuculentas"
     fullname: >-
       Atípicas Suculentas
@@ -55,6 +79,30 @@ profiles:
     id: ckf5vhomron6y0j23jh9pdoro
     verified: false
     hashtags: "#bonsaistyle, #brazilbonsai, #treestand, #bonsaibrasil"
+  - username: "estelamaca"
+    fullname: >-
+      Estela Martin Cardona
+    bio: >-
+      🌲 Deco & Lifestyle Me apasiona la decoración, soy adicta al chocolate y creo en el amor sobre todas las cosas. VÍDEOS CADA SEMANA EN YOUTUBE 👇🏼
+    location: "Spain"
+    followers: 69107
+    engagement: 348
+    commentsToLikes: 0.078126
+    id: ck6tsa9ns3mn20j71tjzqg63y
+    verified: false
+    hashtags: "#deco, #livingroomdetails, #instahome, #arboldenavidad"
+  - username: "kiaritahome"
+    fullname: >-
+      Kiara
+    bio: >-
+      MY HOME 🏡 DECO 🌺 MATERNITY🍼 🌸Decoración romántica🌸 🍼Mamá de Daniel 💖Inmensamente feliz💖 🌴Islas Canarias 🌴 ⬇️Recomendaciones deco⬇️
+    location: "Spain"
+    followers: 43046
+    engagement: 152
+    commentsToLikes: 0.098658
+    id: ck5pvp6hwiyxd0i11e31vgn3o
+    verified: false
+    hashtags: "#outdoordecor, #homesweethome, #interior2you, #cocina"
   - username: "amparo_lasnubes"
     fullname: >-
       amparo_lasnubes
@@ -66,19 +114,7 @@ profiles:
     commentsToLikes: 0.021297
     id: ck5ca5qm6cqxi0i11pq74rxlc
     verified: false
-    hashtags: "#decommunity, #homewithrue, #piscinas, #livinginspiring"
-  - username: "kiaritahome"
-    fullname: >-
-      Kiara
-    bio: >-
-      MY HOME 🏡 DECO 🌺 MATERNITY🍼 🌸Decoración romántica🌸 🍼Mamá de Daniel 💖Inmensamente feliz💖 🌴Islas Canarias 🌴 ⬇️Recomendaciones deco⬇️
-    location: "Spain"
-    followers: 41672
-    engagement: 186
-    commentsToLikes: 0.092955
-    id: ck5pvp6hwiyxd0i11e31vgn3o
-    verified: false
-    hashtags: "#romanticdecor, #compartemiestilowestwing, #whitedecor, #casasreales"
+    hashtags: "#exteriordesign, #terraza, #homewithrue, #mynordicroomoutdoor"
   - username: "motherofcrasas"
     fullname: >-
       Ente•◡•botánico®
@@ -91,16 +127,4 @@ profiles:
     id: ck0vw6po9sctv0i1990q6lgxt
     verified: false
     hashtags: "#urbanjunglebloggers, #gardeninspiration, #terracota, #terrazas"
-  - username: "karen_around_the_world"
-    fullname: >-
-      Karen Baumgarte
-    bio: >-
-      Pharmacist. Left my heart in NYC and love to travel. 40% discount code: KAREN40 @ewelyniofficial
-    location: "Spain"
-    followers: 9610
-    engagement: 650
-    commentsToLikes: 0.119551
-    id: ck9hc6loqjzk20j78uorm8fbe
-    verified: false
-    hashtags: "#greece, #holidaymood, #labellevue, #travelpic"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Food TikTok Influencers In Milan In 2023
+title: Top 10 Food TikTok Influencers In Milan In 2024
 description: >-
-  Find top food TikTok influencers in Milan in 2023. Most popular hashtags: #perte #food #fyp #funny.
+  Find top food TikTok influencers in Milan in 2024. Most popular hashtags: #perte #food #fyp #italy.
 platform: TikTok
-hits: 19
-text_top: See the top-rated TikTok influencers on inBeat.
-text_bottom: Our search engine has 19 TikTok influencers like this in Milan, Italy for you to connect with.
+hits: 18
+text_top: See the best TikTok accounts on inBeat.
+text_bottom: inBeat aggregates 18 TikTok influencers like this in Milan, Italy for you to work with.
 profiles:
   - username: "matthewita"
     fullname: >-
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.010864
     id: ck8vv7suel1710j78ea4s9hf3
     verified: false
-    hashtags: "#gelatoalcioccolato, #italia, #cioccolato, #fyp"
+    hashtags: "#viral, #tiktokitalia, #pistacchio, #icecream"
   - username: "martinapezzuti0"
     fullname: >-
       Martinapezzuti
@@ -102,7 +102,7 @@ profiles:
     commentsToLikes: 0.007445
     id: ck8f8vjo63mkk0j78jjed68rf
     verified: false
-    hashtags: "#macro, #flattummyapp, #summer, #homeworkout"
+    hashtags: "#macro, #ad, #homeworkout, #eyes"
   - username: "leodonofrio"
     fullname: >-
       Leonardo D’Onofrio

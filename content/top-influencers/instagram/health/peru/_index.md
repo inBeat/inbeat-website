@@ -1,12 +1,36 @@
 ---
-title: Top 10 Health Instagram Influencers In Peru In 2023
+title: Top 10 Health Instagram Influencers In Peru In 2024
 description: >-
-  Find top health Instagram influencers in Peru in 2023. Most popular hashtags: #peru #love #girl #photoshoot.
+  Find top health Instagram influencers in Peru in 2024. Most popular hashtags: #peru #running #ootd.
 platform: Instagram
-hits: 43
-text_top: See the most popular Instagram profiles on inBeat.
-text_bottom: Our database aggregates 43 Instagram influencers like this in Peru for you to pitch.
+hits: 41
+text_top: See the most popular Instagram influencers on inBeat.
+text_bottom: inBeat aggregates 41 Instagram influencers like this in Peru for you to contact.
 profiles:
+  - username: "aleventuro"
+    fullname: >-
+      Alexandra Venturo
+    bio: >-
+      Aria's & Aissa's Mom 🧸 Pastelera y Cocinera Fundadora y Creadora de @laneverafit Healthy Lifestyle⚖️ ♏️ Scorpio 👁
+    location: "Peru"
+    followers: 650079
+    engagement: 901
+    commentsToLikes: 0.013090
+    id: ck6tisb7j1bsv0j718bgp7ozy
+    verified: false
+    hashtags: "#publicidad, #babygirl, #peru, #mancora"
+  - username: "alexandrabalarezo"
+    fullname: >-
+      Alexandra Balarezo
+    bio: >-
+      Canadian/Française/Peruana Healthy lifestyle • travel • fashion 📍Madrid/ Miami Alexandrabalarezo@perleinfluence.com @perleinfluence 🇫🇷
+    location: "Peru"
+    followers: 564760
+    engagement: 560
+    commentsToLikes: 0.009690
+    id: ck14hu3zyc5d70i19qmanungd
+    verified: false
+    hashtags: "#missuniverse, #portadacosasnow, #portadadigital, #lanzamiento"
   - username: "claudialb01"
     fullname: >-
       Maria Claudia Lastarria
@@ -19,18 +43,6 @@ profiles:
     id: ck8tczb9i19h00j785npmxguo
     verified: false
     hashtags: "#cancun, #mexico2020"
-  - username: "aleventuro"
-    fullname: >-
-      Alexandra Venturo
-    bio: >-
-      Mami de Aria 👼🏽💓 Pastelera y Cocinera Fundadora y Creadora de @laneverafit Healthy Lifestyle💚 ♏️ Scorpio 👁
-    location: "Peru"
-    followers: 47453
-    engagement: 290
-    commentsToLikes: 0.010655
-    id: ck6tisb7j1bsv0j718bgp7ozy
-    verified: false
-    hashtags: "#blessed, #mybaby, #beach, #babygirl"
   - username: "limiley"
     fullname: >-
       F E R L I M A🤍
@@ -67,64 +79,52 @@ profiles:
     id: ck8t7wjili7d60j78hvg9rvy0
     verified: false
     hashtags: "#karateshotokan, #peru, #peace, #femalekata"
-  - username: "andrearecetas"
-    fullname: >-
-      Andrea Amatte. Cocinera
-    bio: >-
-      Cocinera y mamá x 3!🇦🇷en LA🇺🇸 Te enseño a cocinar rico! Clases gratis x stories a diario Healthy recipes @andreaamatte Youtube Recetarios y más👇
-    location: "Peru"
-    followers: 632962
-    engagement: 232
-    commentsToLikes: 0.522838
-    id: ck8t6bi8pcz9t0j78l8k78wc7
-    verified: false
-    hashtags: "#budin, #quequedechocolate, #chocolatecake, #pasteldechocolate"
   - username: "healthy_pleasure"
     fullname: >-
       𝗦𝘆𝗹𝘃𝗶𝗮 𝗥𝗼𝗱𝗿𝗶𝗴𝘂𝗲𝘇 𝗩𝗲𝗹𝗲𝘇
     bio: >-
-      Nutricionista, Raw food chef Plant based diet & Healthy lifestyle🌱 y ✈️ 🇵🇪 Consultas online w e b ￬
+      Nutricionista plant based✨ • Consultas online • El verdadero placer a un estilo de vida saludable de manera fácil y con ciencia @laveganeria.pe
     location: "Peru"
-    followers: 58358
-    engagement: 137
-    commentsToLikes: 0.113241
+    followers: 152628
+    engagement: 183
+    commentsToLikes: 0.013591
     id: ck5zlrnnbl9gc0i14k1khb4zx
     verified: true
-    hashtags: "#dieta, #foodfight, #healthy, #peru"
-  - username: "veggienellaa"
+    hashtags: "#publicidad, #healthypleasure, #nutricionista, #running"
+  - username: "antonellaamasse"
     fullname: >-
       Antonella Massé
     bio: >-
-      Estilo de vida saludable || Med student Miss Teen Sudamerica Internacional 3ra ed. Miss Teen Sudamerica Perú 2018
+      | 𝙼𝚎𝚍𝚒𝚌𝚒𝚗𝚊 𝚑𝚞𝚖𝚊𝚗𝚊 ⚕️👩🏽‍⚕️ | 𝘐𝘚𝘚𝘈 𝘤𝘦𝘳𝘵𝘪𝘧𝘪𝘦𝘥-𝘱𝘦𝘳𝘴𝘰𝘯𝘢𝘭 𝘵𝘳𝘢𝘪𝘯𝘦𝘳-𝘯𝘶𝘵𝘳𝘪𝘤𝘪𝘰𝘯 | 𝘔𝘪𝘴𝘴 𝘛𝘦𝘦𝘯 𝘚𝘶𝘥. 𝘐𝘯𝘵 👑 | 𝘚𝘢𝘭𝘶𝘥 𝘮𝘦𝘯𝘵𝘢𝘭 𝘺 𝘦𝘴𝘵𝘪𝘭𝘰 𝘥𝘦 𝘷𝘪𝘥𝘢 🏋🏻‍♀️🧠 | 𝘛𝘪𝘬 𝘵𝘰𝘬+700𝘬
     location: "Peru"
-    followers: 19926
-    engagement: 634
-    commentsToLikes: 0.018418
+    followers: 26587
+    engagement: 437
+    commentsToLikes: 0.021268
     id: ck5q3ih2vkw4r0i118c32t6ll
     verified: false
-    hashtags: "#gym, #fitness, #girl, #peru"
-  - username: "adrianajch"
+    hashtags: "#gimnasio, #postre, #workout, #entrenar"
+  - username: "natconsuegra"
     fullname: >-
-      •Adriana Jimenez Chiang•
+      Natalie | Lifestyle + Wellness
     bio: >-
-      🍃 Estilo de vida saludable 💪🏻 Fitness girl 💫 Modelo publicitaria 👑 Miss Teen Sudamérica Internacional 2E 👑 MTS Perú 2017 ✨ Tik tok(25k+)
+      × life | wellness | mini vlogs × nataliemaria.collabs@gmail.com ↓ start your UGC journey
     location: "Peru"
-    followers: 6121
-    engagement: 575
-    commentsToLikes: 0.050870
-    id: ckaorjxlbnkhy0i78esgx0q6w
+    followers: 9842
+    engagement: 195
+    commentsToLikes: 0.046477
+    id: ckn9aygchmc4k0j2318io9tkm
     verified: false
-    hashtags: "#mindset, #marcosalbercaencasa, #tweegram, #follow4follow"
-  - username: "nosoyunaflor"
+    hashtags: "#jewelry, #healthyliving, #morningroutine, #summer"
+  - username: "elbebegourmet"
     fullname: >-
-      Rosa R.
+      El Bebe Gourmet
     bio: >-
-      ☝🏻Tips & points 🍃Comparto mi nuevo estilo de vida 💎Owner @extravaganza.pe 📍Lima, Perú
+      Soy Nati, mamá de Benja (el bebé gourmet) y Santi (el anti gourmet 😂) 👩🏼‍🍳Recetas fáciles y saludables + maternidad real 🛍 @latiendadelbebegourmet
     location: "Peru"
-    followers: 11358
-    engagement: 118
-    commentsToLikes: 0.087448
-    id: ck1397nqbjy0n0i190jnhffk9
+    followers: 175980
+    engagement: 92
+    commentsToLikes: 0.049362
+    id: ck5btup60gn5q0i11ned3m4kh
     verified: false
-    hashtags: "#l4l, #instagramer, #picoftheday, #tagsforlikesapp"
+    hashtags: "#ebg6meses, #alimentacioncomplementaria, #blw, #recetasfaciles"
 ---

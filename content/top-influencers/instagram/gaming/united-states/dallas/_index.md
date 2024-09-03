@@ -1,12 +1,24 @@
 ---
-title: Top 10 Gaming Instagram Influencers In Dallas In 2023
+title: Top 10 Gaming Instagram Influencers In Dallas In 2024
 description: >-
-  Find top gaming Instagram influencers in Dallas in 2023. Most popular hashtags: #gaming #dallas #gamer #reels.
+  Find top gaming Instagram influencers in Dallas in 2024. Most popular hashtags: #gaming #dallas #gamer #twitch.
 platform: Instagram
 hits: 17
-text_top: Identify the most popular Instagram influencers on inBeat.
-text_bottom: Our search engine has 17 Instagram influencers like this in Dallas, United States for you to pitch.
+text_top: Analyze the top-rated Instagram accounts on inBeat.
+text_bottom: Our platform has 17 Instagram influencers like this in Dallas, United States for you to contact.
 profiles:
+  - username: "infernotheconnect"
+    fullname: >-
+      Robert Rangel
+    bio: >-
+      DJ Inferno | Music Curator | Producer
+    location: "United States"
+    followers: 61257
+    engagement: 29
+    commentsToLikes: 0.059008
+    id: ck5zsy6cazeh70i14elah1q07
+    verified: false
+    hashtags: "#valorantbrasil, #valorantgame, #valorantgameplay, #valorantcosplay"
   - username: "aanderson300"
     fullname: >-
       Andrew Anderson
@@ -42,19 +54,7 @@ profiles:
     commentsToLikes: 0.038538
     id: ck9woutks6oht0j7844ceidvo
     verified: false
-    hashtags: "#videogameart, #zelda, #finalfantasy7, #gameart"
-  - username: "scootermagruder"
-    fullname: >-
-      Scooter Magruder | Sports Guy
-    bio: >-
-      I love Jesus • I’m a @GrownMan | Content Creator 🎮 Gaming IG: @ScooterGaming Podcast: @dywttai Business only: info@scootermagruder.com
-    location: "United States"
-    followers: 236762
-    engagement: 501
-    commentsToLikes: 0.016260
-    id: ck1374e7m9pz80i19vcyvqg6l
-    verified: true
-    hashtags: "#nbahouse, #thatsgame, #magruderfamilyvacation, #dallascowboys"
+    hashtags: "#playstation, #artistsoninstagram, #zelda, #instaart"
   - username: "widowontwitch"
     fullname: >-
       widow
@@ -66,7 +66,7 @@ profiles:
     commentsToLikes: 0.046961
     id: ckrzf012qlltp0j23jel4lp82
     verified: false
-    hashtags: "#rocketleaguestreamer, #gamer, #rocketleagueclips, #rocketleaguebrasil"
+    hashtags: "#twitchstreamer, #twitch, #rocketleaguememes, #streamsetup"
   - username: "mistress_chief"
     fullname: >-
       🌺Mistress Chief🌺
@@ -91,18 +91,6 @@ profiles:
     id: ck0txcwkgis7x0i19eq6chce7
     verified: false
     hashtags: "#reels, #dallas, #lifestyle, #music"
-  - username: "thebentistofficial"
-    fullname: >-
-      TheBentist
-    bio: >-
-      TheBentist on TIKTOK (7.6M 🎉)🔥 🦷🎮 Twitch.tv/ThaBentist!! Owner @thesomethingniceco BUY MY TOOTHBRUSH HERE ! ⬇️❤️
-    location: "United States"
-    followers: 390571
-    engagement: 1360
-    commentsToLikes: 0.006273
-    id: ck8wdanpvdkm60j78zhh8htij
-    verified: false
-    hashtags: "#teeth, #health, #funfacts, #invisalign"
   - username: "vonterashaad"
     fullname: >-
       Prince Of The South 👑, B.S.
@@ -121,10 +109,22 @@ profiles:
     bio: >-
       All DreamHack CS:GO action all the time! #DHOpen #DHMasters #DHShowdown
     location: "United States"
-    followers: 41609
-    engagement: 294
-    commentsToLikes: 0.008901
+    followers: 44270
+    engagement: 308
+    commentsToLikes: 0.010908
     id: ck0tudto56rii0i19w0gzp3bb
     verified: true
-    hashtags: "#dreamhackcsgo, #dh, #dreamhack, #counterstrike"
+    hashtags: "#dh, #gaming, #esports, #dreamhackcsgo"
+  - username: "thetaffetadarling"
+    fullname: >-
+      Taffeta Darling🖤🦇💛
+    bio: >-
+      She/Her Fangirls Live Streams Internationally Published Comic Cataloger Cosplay Rad Shirts Faves: #Tolkien #Batman #KurtRussell Latest video linked 👇
+    location: "United States"
+    followers: 7183
+    engagement: 637
+    commentsToLikes: 0.064559
+    id: ck8t4buzy67b80j78ymajjgzf
+    verified: false
+    hashtags: "#girlsinglasses, #christmasmovie, #cosplaylove, #hello"
 ---

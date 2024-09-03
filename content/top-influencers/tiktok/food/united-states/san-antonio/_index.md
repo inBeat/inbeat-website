@@ -1,11 +1,11 @@
 ---
-title: Top 10 Food TikTok Influencers In San Antonio In 2023
+title: Top 10 Food TikTok Influencers In San Antonio In 2024
 description: >-
-  Find top food TikTok influencers in San Antonio in 2023. Most popular hashtags: #fyp #texas #sanantonio #food.
+  Find top food TikTok influencers in San Antonio in 2024. Most popular hashtags: #fyp #sanantonio #texas #food.
 platform: TikTok
-hits: 20
-text_top: Analyze the top-rated TikTok influencers on inBeat.
-text_bottom: Our platform has 20 TikTok influencers like this in San Antonio, United States for you to collaborate.
+hits: 18
+text_top: Discover the top-rated TikTok influencers on inBeat.
+text_bottom: Our database holds 18 TikTok influencers like this in San Antonio, United States for you to contact.
 profiles:
   - username: "chris.tinap"
     fullname: >-
@@ -61,12 +61,12 @@ profiles:
     bio: >-
       Titan Factory Direct 📍1950 SW Loop 410, San Antonio, Texas 78227 🇺🇸
     location: "United States"
-    followers: 3653
-    engagement: 658
-    commentsToLikes: 0.016438
+    followers: 3642
+    engagement: 620
+    commentsToLikes: 0.014757
     id: ck982luyfgo4x0j7883ch2su6
     verified: false
-    hashtags: "#swimming, #housechallenge, #hawaii, #fyp"
+    hashtags: "#foryoupage, #swimming, #life, #maui"
   - username: "sparky32377"
     fullname: >-
       UnionSparky
@@ -78,7 +78,7 @@ profiles:
     commentsToLikes: 0.113497
     id: ckcj15oai3q8j0j23mavqpci9
     verified: false
-    hashtags: "#trump, #food, #son, #dadsoftiktok"
+    hashtags: "#fdt, #food, #selfcare, #trump"
   - username: "alyssaannofficial"
     fullname: >-
       AlyssaAnn
@@ -90,7 +90,7 @@ profiles:
     commentsToLikes: 0.088869
     id: ckbkzr1gjwc7p0j23qxyu69g3
     verified: false
-    hashtags: "#tiktok, #texas, #featureme, #lipsync"
+    hashtags: "#trend, #transition, #duet, #feature"
   - username: "kaydrauhl"
     fullname: >-
       Kaylee Baker
@@ -115,16 +115,16 @@ profiles:
     id: ckcjnjbfzfgh20j23qbruse9r
     verified: false
     hashtags: "#foryoupage, #texas, #4u, #viral"
-  - username: "sebastian_arellano_"
+  - username: "zrickyb"
     fullname: >-
-      Sebas✨
+      Brian Rodriguez
     bio: >-
-      El Paso TX 18🥂
+      See the world from my eyes.
     location: "United States"
-    followers: 42400
-    engagement: 1661
-    commentsToLikes: 0.111455
-    id: ck963njatvmmo0j78oje2oajb
+    followers: 209200
+    engagement: 1868
+    commentsToLikes: 0.006959
+    id: ck9n9cocf9d0x0j78tth27aei
     verified: false
-    hashtags: "#elpaso, #foryoupage, #frenchie, #texas"
+    hashtags: "#fy, #fyp, #selenanetflix, #vegas"
 ---

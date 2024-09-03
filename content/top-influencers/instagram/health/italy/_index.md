@@ -1,24 +1,48 @@
 ---
-title: Top 10 Health Instagram Influencers In Italy In 2023
+title: Top 10 Health Instagram Influencers In Italy In 2024
 description: >-
-  Find top health Instagram influencers in Italy in 2023. Most popular hashtags: #goodvibes #homesweethome #redhairdontcare.
+  Find top health Instagram influencers in Italy in 2024. Most popular hashtags: #birthday #easymakeup #ttts.
 platform: Instagram
-hits: 846
-text_top: Analyze the best Instagram accounts on inBeat.
-text_bottom: inBeat aggregates 846 Instagram influencers like this in Italy for you to contact.
+hits: 911
+text_top: Identify the best Instagram accounts on inBeat.
+text_bottom: Our database aggregates 911 Instagram influencers like this in Italy for you to contact.
 profiles:
-  - username: "itstheskinyourein"
+  - username: "alessiasodi"
     fullname: >-
-      Serena✨beauty content creator - UGC
+      Alessia Sodi | Fitness & Lifestyle
     bio: >-
-      YOUR skin, YOUR rules ✨ Beauty enthusiast • health • lifestyle TikTok, Pinterest, discount codes and links below✨
+      workouts + mindset & more 🌿 disciplined & focused 🐺 health, fitness and travel lover ☁️ gym sis @rebeccasodi ♡ from 📍Italy // dreamin’ 🇺🇸
     location: "Italy"
-    followers: 36489
-    engagement: 1556
-    commentsToLikes: 0.159760
-    id: ck8tdo5fr44kc0j78ws6cotly
+    followers: 103524
+    engagement: 522
+    commentsToLikes: 0.002791
+    id: ck0w5aagi2ogd0i19s91zxm28
     verified: false
-    hashtags: "#drugstoremakeup, #christmasmakeup, #selfcaresunday, #glowymakeup"
+    hashtags: "#winterfashion, #mondaymotivation, #suppliedby, #frontlevertuck"
+  - username: "federica.scagnetti"
+    fullname: >-
+      Federica Scagnetti
+    bio: >-
+      consigli moda e beauty 💄 Idee outfit 👗 Fitness and healthy life hacks 🏋️‍♀️ Vlog personale 🤳 📩 management@federicascagnetti.it tik tok ✨2.7 M✨
+    location: "Italy"
+    followers: 881164
+    engagement: 841
+    commentsToLikes: 0.001879
+    id: clrjbldp0qz930k08anx2evut
+    verified: false
+    hashtags: "#transition, #tryonhaul, #haul, #zaratryonhaul"
+  - username: "superbabekillah"
+    fullname: >-
+      KARLA CROFT
+    bio: >-
+      Creator/muse/mental health fairy •I don’t fit in, so I stand out• ⚡️ELLE Style Awards Influencer of the year ⚡️AY Awards Style finalist 22’
+    location: "Italy"
+    followers: 33723
+    engagement: 508
+    commentsToLikes: 0.018862
+    id: ck5c0jaydt8v40i11np84ltak
+    verified: false
+    hashtags: "#heinekensilver, #mugler, #muglerofficial, #mugleralien"
   - username: "mamastateofmind"
     fullname: >-
       Ashley Ager ☾
@@ -31,100 +55,76 @@ profiles:
     id: ck0w5lkj248tg0i191ytcpnpg
     verified: false
     hashtags: "#twentynine, #lastyearofmytwenties, #family, #dallas"
-  - username: "paolafreeman"
+  - username: "vittoria.buondonno"
     fullname: >-
-      Paula Freimane
+      𝓥𝓲𝓽𝓽𝓸𝓻𝓲𝓪 𝓑𝓾𝓸𝓷𝓭𝓸𝓷𝓷𝓸
     bio: >-
-      📚Author of two best-seller healthy cookbooks 💜Zelta Sastāvdaļa 🧡Zelta Sastāvdaļa 2 📩freimane.paula@gmail.com ⬇️iegādājies Zelta Sastāvdaļa⬇️
+      🍋 Health&beauty 1*premio “beauty&SPA” jr ambassador Italy Ambassador Awards Per collab. DM o email. Affiliata Amazon. Guadagno sugli acquisti idonei
     location: "Italy"
-    followers: 121890
-    engagement: 780
-    commentsToLikes: 0.177274
-    id: ck0vv4f4anhzj0i19bhlmg690
+    followers: 51648
+    engagement: 591
+    commentsToLikes: 0.088992
+    id: ckxr7wu74be560j23rorp8zm4
+    verified: false
+    hashtags: "#lamoda, #giftedbyapotecanatura, #mydigestivo, #yepoda"
+  - username: "daniellebiancabenn"
+    fullname: >-
+      Danielle Bianca
+    bio: >-
+      ✨ LESS PLANS MORE TRUST✨ Growing in health, wealth & happiness Intuitive Mama to 👧🏽+👧🏽👧🏽
+    location: "Italy"
+    followers: 5408
+    engagement: 430
+    commentsToLikes: 0.096142
+    id: ck14lbyz6tw7c0i19pn7jzdmq
+    verified: false
+    hashtags: "#mcdatwingirls, #gettingbetterafterbirth, #pregnancychoices, #twinpregnancyjourney"
+  - username: "mendozamirela"
+    fullname: >-
+      Mirela Mendoza
+    bio: >-
+      Mamá de dos✨ Health Coach/ IIN @nutritionschool Siempre da lo mejor de ti #beextraordinary Comienza tu transformación #betterthanever
+    location: "Italy"
+    followers: 172209
+    engagement: 403
+    commentsToLikes: 0.016414
+    id: ck6txb4wlwtya0j717w7cyr5z
     verified: true
-    hashtags: "#rekla, #olbaltumvielambagats, #vicisurimi, #pokebowl"
-  - username: "nerinafrancesca"
+    hashtags: "#viajeextraordinario, #beextraordinary, #france, #capri"
+  - username: "mariainesjg"
     fullname: >-
-      💎 Francesca Nerina 💎
+      Maria Inês Gonçalves
     bio: >-
-      HEALTH | FITNESS | LIFESTYLE 💪 Italy 🇮🇹 Brand Ambassador My only backup @francescanerinaa
+      Lisboa, PT Outfits, Health, Food & Lifestyle Marketing & Communication 🥰 Podcast 🎙️: Uma Loucura de Podcast
     location: "Italy"
-    followers: 528497
-    engagement: 680
-    commentsToLikes: 0.048623
-    id: ck8t5753n90v00j78mkte5hhx
+    followers: 13285
+    engagement: 324
+    commentsToLikes: 0.030351
+    id: cl9ktuwaojdo70i23jt7uykjv
     verified: false
-    hashtags: "#selfie, #heels, #dress, #homesweethome"
-  - username: "aurilion_"
+    hashtags: "#dysonhome, #zarasale, #zaradaily, #kerastase"
+  - username: "courtneykiing"
     fullname: >-
-      𝓐𝓾𝓻𝓸𝓻𝓪 🐆
+      Courtney Alexis King
     bio: >-
-      🇮🇹 Milan 📚 Health Care Assistant UniMi 📩collab/events: moroniofficial@gmail.com
+      health | fitness | lifestyle @alphalete - ‘courtney' @givrpodcast
     location: "Italy"
-    followers: 16821
-    engagement: 690
-    commentsToLikes: 0.093104
-    id: ckap5am87awas0i786flt3d6h
+    followers: 1278613
+    engagement: 738
+    commentsToLikes: 0.002772
+    id: ckaorz9j3pfr30i788qqqb72y
     verified: false
-    hashtags: "#eyewear, #mykonos, #modadonna, #vacanze"
-  - username: "remalda"
+    hashtags: "#legdayworkout, #legday, #gluteworkout, #fitnessmotivation"
+  - username: "itstheskinyourein"
     fullname: >-
-      Travel/Fashion/motherhood🇦🇱🇮🇹
+      Serena✨beauty content creator - UGC
     bio: >-
-      📍Italy Modern motherhood/Healthy lifestyle/plant based/coffee lover🌱 Umbria’s travel guide 🌎 👀 my stories🙏 ✝️=💜 📨livetoinspireblog@gmail.com Nixplay
+      YOUR skin, YOUR rules ✨ Beauty enthusiast • health • lifestyle TikTok, Pinterest, discount codes and links below✨
     location: "Italy"
-    followers: 12910
-    engagement: 463
-    commentsToLikes: 0.128079
-    id: ck5zmzotkni710i1426xyuqcp
+    followers: 36597
+    engagement: 214
+    commentsToLikes: 0.217771
+    id: ck8tdo5fr44kc0j78ws6cotly
     verified: false
-    hashtags: "#enjoylife, #visitalbania, #espa, #girlswhotravel"
-  - username: "andreapetagna"
-    fullname: >-
-      ANDREA PETAGNA
-    bio: >-
-      Football player @officialsscnapoli Co-founder @healthycolor_it BULLDOZER 🚜
-    location: "Italy"
-    followers: 504125
-    engagement: 1068
-    commentsToLikes: 0.014402
-    id: ck137on0icla00i19ej2aukdx
-    verified: true
-    hashtags: "#backtowork, #forzanapolisempre, #realsociedadnapoli, #diego"
-  - username: "emilyrosecolangelo"
-    fullname: >-
-      Emily Rose Colangelo
-    bio: >-
-      Irish Dancer World Champion👑 🇮🇪/🇮🇹 @d.d.c.t.d | @healthy_cave emilyrosecolangelo1@gmail.com 👻- emilyrose_c04
-    location: "Italy"
-    followers: 11240
-    engagement: 1900
-    commentsToLikes: 0.035453
-    id: ck5c05ty8si3c0i11dmb9qjnw
-    verified: false
-    hashtags: "#sportsmodel, #gymsharkwomen, #worldchampion, #irishdancer"
-  - username: "giuliacastronovi"
-    fullname: >-
-      GIULIA STELLA CASTRONOVI
-    bio: >-
-      🌪 22 y/o 📍Milan 🇮🇹 Model 📚 Business Communications ☀️Positive Vibes 🍒Healthy lifestyle “Amare se stessi è l’inizio di una lunga storia d’amore”
-    location: "Italy"
-    followers: 31521
-    engagement: 289
-    commentsToLikes: 0.065269
-    id: ck5chokjyr6550i11e740ehei
-    verified: false
-    hashtags: ""
-  - username: "qu33nth3"
-    fullname: >-
-      Valentina Di Iorio
-    bio: >-
-      Sardinian redhead 👩🏻‍🦰🐚 ~ happy mum of Baballuco + two cats ~ This is my simple real healthy (not too much) lifestyle 🌱 ~ Ce la faremooo..(Forse!)
-    location: "Italy"
-    followers: 5714
-    engagement: 1668
-    commentsToLikes: 0.036004
-    id: ckf5ryovbeakn0j23toc6ct5z
-    verified: false
-    hashtags: "#redheadfitness, #redhairdontcare, #gingerhead, #portraitfeed"
+    hashtags: "#christmasmakeup, #makeupreels, #makeupreview, #christmas2022"
 ---

@@ -1,24 +1,24 @@
 ---
-title: Top 10 Painters Instagram Influencers In Finland In 2023
+title: Top 10 Painters Instagram Influencers In Finland In 2024
 description: >-
-  Find top painters Instagram influencers in Finland in 2023. Most popular hashtags: #artistsoninstagram #scandinavianstyle #helsinki.
+  Find top painters Instagram influencers in Finland in 2024. Most popular hashtags: #artistsoninstagram #pinterestaesthetic #buyartfromartists #partnerincrime.
 platform: Instagram
-hits: 9
-text_top: Identify the best Instagram influencers on inBeat.
-text_bottom: Our platform has 9 Instagram influencers like this in Finland for you to contact.
+hits: 12
+text_top: Identify the best Instagram accounts on inBeat.
+text_bottom: Our database has 12 Instagram influencers like this in Finland for you to collaborate.
 profiles:
   - username: "laluuna"
     fullname: >-
       Laila Lindqvist
     bio: >-
-      Professional skyline painter who loves fashion&vintage. Familylife in Hel. laila.lindqvist@hotmail.com
+      Professional skyline painter who loves things vintage. Familylife in Hel. Interests: fashion, art, interiors, wellbeing laila.lindqvist@hotmail.com
     location: "Finland"
-    followers: 8148
-    engagement: 675
-    commentsToLikes: 0.022890
+    followers: 11933
+    engagement: 264
+    commentsToLikes: 0.021930
     id: ck5hhj9pu8iq90i115zdazcbv
     verified: false
-    hashtags: "#taukodesign, #aureliamaximekko, #sustainablefashion, #betterbasics"
+    hashtags: "#luomitarkastus, #luomet, #tutkitutaluomesi, #melanooma"
   - username: "ida_elina"
     fullname: >-
       IDA ELINA
@@ -35,38 +35,38 @@ profiles:
     fullname: >-
       Carolina Grunér
     bio: >-
-      Painting landscapes of the soul. Writing stories of the heart. Self-taught. Hoping to empower you with vulnerability. Finland 📍
+      Painting landscapes of the soul. ✨💫 Contact: hello@carolinagruner.com 💌 Worldwide shipping. 📦 Self-taught. 🌸🔮 Location: Finland. 💕
     location: "Finland"
-    followers: 44853
-    engagement: 147
-    commentsToLikes: 0.046951
+    followers: 44833
+    engagement: 183
+    commentsToLikes: 0.042431
     id: ck8t6k3m7dxn90j78nesm19zx
     verified: false
-    hashtags: "#consciousliving, #starseed, #artforsalebyartist, #starseeds"
-  - username: "ennikoistisesi"
+    hashtags: "#finnishart, #artgallery, #smallart, #abstractart"
+  - username: "pinkkupinsku"
     fullname: >-
-      Enni Koistinen
+      Pinja Sanaksenaho🤠
     bio: >-
-      🤠 graphic designer & podcast host @tuplakaakpodcast 🌝 Contributor for @musla.fi 🧀 Co-founder of Eläinvideokerho 🐱 Helsinki, Finland.
+      snapchat, tik tok, pinterest @pinkkupinsku 21 ⬇️osta liput mun bileisiin⬇️
     location: "Finland"
-    followers: 19581
-    engagement: 1381
-    commentsToLikes: 0.005885
-    id: ck6uc8o4me55f0j71wcskz5xp
-    verified: false
-    hashtags: "#benecol, #helppotapa, #oletmit, #syo"
-  - username: "david_popa_art"
+    followers: 292344
+    engagement: 317
+    commentsToLikes: 0.006482
+    id: ck5c0v5o5twma0i113jjqg8f1
+    verified: true
+    hashtags: "#selviytyj, #10yearsofpinkkupinsku, #nelonen, #luokkakuva"
+  - username: "sandraemiliah"
     fullname: >-
-      D A V I D  P O P A
+      SandraEmilia- Fashion & Content Tips- UGC
     bio: >-
-      🌳Nature Art murals painted with all natural, biodegradable pigments 🌑 New Course “The Smart Portrait” on my portrait process is now available 👇🏼
+      Scandinavian style & summer outfit inspo Aesthetic travel stories UGC & content creation tips Founder @vogastyling 🇫🇮🇸🇪
     location: "Finland"
-    followers: 10568
-    engagement: 831
-    commentsToLikes: 0.078418
-    id: ck6twtpgxu1bs0j71emm6af8p
+    followers: 33604
+    engagement: 57
+    commentsToLikes: 0.137133
+    id: ck15szq4kfmvh0i19uw8xqwdt
     verified: false
-    hashtags: "#mural, #portrait, #em, #newbornchild"
+    hashtags: "#scandisummer, #midsommar, #pinterestaesthetic, #midsummer"
   - username: "lhuin"
     fullname: >-
       Johanna Tarkela
@@ -79,6 +79,42 @@ profiles:
     id: ck136fjk368vz0i198yvkj4y1
     verified: false
     hashtags: "#bookcover, #imaginefx, #illustration, #africanwilddog"
+  - username: "rantaaho.alisa"
+    fullname: >-
+      Alisa Ranta-aho
+    bio: >-
+      Elävä sketsi-hahmo💁🏻‍♀️ Sprinkle sprinkle🤌🏼✨ Tiktok:alisarantaaho (+113K) ✉️ collabs.alisarantaaho@gmail.com @someayrityksille
+    location: "Finland"
+    followers: 67006
+    engagement: 867
+    commentsToLikes: 0.021233
+    id: ck5hfm9yiy5fp0i11mem5n1pl
+    verified: false
+    hashtags: "#yhteisty, #comedy, #couplehumor, #partnerincrime"
+  - username: "oliviavidael"
+    fullname: >-
+      
+    bio: >-
+      ⁣⁣⁣⁣⁣⁣⁣⁣ Lifestyle- & kauneusblogi 🤍⁣⁣ 📰 olivia.bigovic@hotmail.com⁣⁣⁣ [tutoriaalit, arkiset höpöttelystoryt + inspo 💅🏻]
+    location: "Finland"
+    followers: 15246
+    engagement: 1188
+    commentsToLikes: 0.040680
+    id: ck6u5i66e9rvl0j713oy1llni
+    verified: false
+    hashtags: "#kosmetiikka, #kauneusbloggaaja, #kes, #lifestyleblogi"
+  - username: "kims.fashionable.life"
+    fullname: >-
+      𝙵𝙾𝙻𝙻𝙾𝚆𝙴𝚁 𝙾𝙵 𝙷𝙰𝙿𝙿𝙸𝙽𝙴𝚂𝚂 ♡︎
+    bio: >-
+      __________ 𝙻𝙴𝚃 𝙼𝙴 𝚂𝙷𝙾𝚆 𝚈𝙾𝚄 𝚃𝙷𝙴 𝚆𝙾𝚁𝙻𝙳 𝚃𝙷𝚁𝙾𝚄𝙶𝙷 𝙼𝚈 𝙴𝚈𝙴𝚂 _____________________________________ ☞︎ 𝚄𝚂𝙴 𝙼𝚈 𝙷𝙰𝚂𝙷𝚃𝙰𝙶 ☞︎ 𝙺𝙸𝙼-𝚂𝙸𝙴𝚅𝙴𝚁𝚂@𝙷𝙾𝚃𝙼𝙰𝙸𝙻.𝙳𝙴 ☞ ︎𝙱𝙻𝙾𝙶☟︎
+    location: "Finland"
+    followers: 12404
+    engagement: 260
+    commentsToLikes: 0.172596
+    id: ck8t3azza2l4z0j78ca9n1ms6
+    verified: false
+    hashtags: "#inspogram, #tezzaapp, #springingermany, #anajohnson"
   - username: "somejaakko"
     fullname: >-
       Sami-Jaakko Konttas
@@ -91,28 +127,4 @@ profiles:
     id: ck6tt02cu7t3v0j71ym6zva7h
     verified: false
     hashtags: "#vaasa, #ylikivatkodit, #sisustus, #vaasavasa"
-  - username: "sandraemiliah"
-    fullname: >-
-      SandraEmilia- Fashion Stylist
-    bio: >-
-      ➖ Collecting & selling vintage clothes #vintage ➖ Mixing new & old ➖ #DIY ➖ Ootd & styling hack videos 🇫🇮 ➖ Renovating dream apartment ➖ @vogastyling
-    location: "Finland"
-    followers: 17798
-    engagement: 434
-    commentsToLikes: 0.047936
-    id: ck15szq4kfmvh0i19uw8xqwdt
-    verified: false
-    hashtags: "#thrifting, #falloutfit, #winteroutfit, #ootd"
-  - username: "jussi69official"
-    fullname: >-
-      Jussi69official
-    bio: >-
-      
-    location: "Finland"
-    followers: 46525
-    engagement: 297
-    commentsToLikes: 0.017854
-    id: ck5q80yfo3yw30i110f17w3db
-    verified: true
-    hashtags: "#jussi69, #instagood, #rock, #helsinkivampires"
 ---

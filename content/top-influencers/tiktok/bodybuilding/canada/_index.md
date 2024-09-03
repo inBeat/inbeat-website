@@ -1,11 +1,11 @@
 ---
-title: Top 10 Bodybuilding TikTok Influencers In Canada In 2023
+title: Top 10 Bodybuilding TikTok Influencers In Canada In 2024
 description: >-
-  Find top bodybuilding TikTok influencers in Canada in 2023. Most popular hashtags: #bodybuilding #fyp #fitness #gym.
+  Find top bodybuilding TikTok influencers in Canada in 2024. Most popular hashtags: #bodybuilding #fyp #fitness #bodybuilder.
 platform: TikTok
 hits: 28
-text_top: Identify the top-rated TikTok accounts on inBeat.
-text_bottom: Our search engine aggregates 28 TikTok influencers like this in Canada for you to work with.
+text_top: See the top-rated TikTok accounts on inBeat.
+text_bottom: Our platform holds 28 TikTok influencers like this in Canada for you to contact.
 profiles:
   - username: "deltabolic"
     fullname: >-
@@ -31,18 +31,6 @@ profiles:
     id: ckbkutf29q0vk0j23f3jmtjtk
     verified: false
     hashtags: "#gymrush, #covid19, #celebratedoctors, #killcovid19"
-  - username: "yourdailyfit"
-    fullname: >-
-      Isaac Besse
-    bio: >-
-      Come for the Comedy, Stay for the Advice
-    location: "Canada"
-    followers: 11700
-    engagement: 897
-    commentsToLikes: 0.051876
-    id: ckcp3509abtg40j23loaijn5x
-    verified: false
-    hashtags: "#strengthaddicts, #bodybuilding, #getfit, #oneminutefitness"
   - username: "dtrenmuscle"
     fullname: >-
       Devin Trenholm
@@ -127,4 +115,16 @@ profiles:
     id: ck9gkpdlxksh40j784pcr6hkl
     verified: false
     hashtags: "#muscle, #reallifeathome, #beastmode, #hairymen"
+  - username: "fitethan"
+    fullname: >-
+      Ethan Riley
+    bio: >-
+      CHECK THE INSTA⤴️ YouTube, socials below 18
+    location: "Canada"
+    followers: 5616
+    engagement: 746
+    commentsToLikes: 0.069736
+    id: ckbqv9692fjsw0j23dftt8gmw
+    verified: false
+    hashtags: "#fyp, #fittok, #bodybuilder, #foryou"
 ---

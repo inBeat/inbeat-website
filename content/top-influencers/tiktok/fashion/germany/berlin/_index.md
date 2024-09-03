@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fashion TikTok Influencers In Berlin In 2023
+title: Top 10 Fashion TikTok Influencers In Berlin In 2024
 description: >-
-  Find top fashion TikTok influencers in Berlin in 2023. Most popular hashtags: #fashion #berlin #fyp #foryou.
+  Find top fashion TikTok influencers in Berlin in 2024. Most popular hashtags: #fashion #berlin #fyp #foryou.
 platform: TikTok
 hits: 28
-text_top: Analyze the most popular TikTok accounts on inBeat.
-text_bottom: Our database has 28 TikTok influencers like this in Berlin, Germany for you to contact.
+text_top: Discover the best TikTok profiles on inBeat.
+text_bottom: Our database holds 28 TikTok influencers like this in Berlin, Germany for you to pitch.
 profiles:
   - username: "hannah.louisaa"
     fullname: >-
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.016320
     id: ck9nbgnozb1rl0j78lq2d5ain
     verified: false
-    hashtags: "#ootd, #viral, #fashion, #berlin"
+    hashtags: "#berlin, #fashion, #fyp, #ootd"
   - username: "bolzplatzkind_official"
     fullname: >-
       Bolzplatzkind
@@ -43,18 +43,6 @@ profiles:
     id: cka0oddkg381n0i78um6d3z9x
     verified: false
     hashtags: "#foryou, #comedy, #leben, #nachhaltigkeit"
-  - username: "mitharabui"
-    fullname: >-
-      Mithara Bui
-    bio: >-
-      turning travel into aesthetic
-    location: "Germany"
-    followers: 124700
-    engagement: 1341
-    commentsToLikes: 0.010481
-    id: cka0k7js1levm0i78k3od7gv7
-    verified: false
-    hashtags: "#berlin, #aestheticjapan, #japan, #aesthetic"
   - username: "hashtagdaily"
     fullname: >-
       Hashtag Daily
@@ -91,6 +79,18 @@ profiles:
     id: ck8rrj376unza0j7873nhjfbm
     verified: false
     hashtags: "#dance, #berlin, #tutorial, #fashion"
+  - username: "fromyenn"
+    fullname: >-
+      Yenn
+    bio: >-
+      LOVE PEOPLE LOVE GOD 🤍 Fashion & a little bit of ✨spice✨
+    location: "Germany"
+    followers: 12000
+    engagement: 944
+    commentsToLikes: 0.087911
+    id: ckbeymy2kj7zw0j23ls333ojh
+    verified: false
+    hashtags: "#style, #springoutfit, #fashiontiktok, #grwm"
   - username: "fuerstwiacek"
     fullname: >-
       FUERST WIACEK
@@ -103,6 +103,18 @@ profiles:
     id: ck9dpiy4jw3t70j78hclmklfk
     verified: false
     hashtags: "#craftbeer, #fuerstwiacek, #ipa, #craftbeerlife"
+  - username: "mitharabui"
+    fullname: >-
+      Mithara Bui
+    bio: >-
+      turning travel into aesthetic
+    location: "Germany"
+    followers: 124700
+    engagement: 1341
+    commentsToLikes: 0.010481
+    id: cka0k7js1levm0i78k3od7gv7
+    verified: false
+    hashtags: "#japan, #berlin, #tokyo, #aesthetic"
   - username: "iloka_"
     fullname: >-
       ilo
@@ -115,16 +127,4 @@ profiles:
     id: ckcosv89j84lr0j23ivcg2mer
     verified: false
     hashtags: "#essen, #german, #zara, #berlin"
-  - username: "fromyenn"
-    fullname: >-
-      Yenn
-    bio: >-
-      LOVE PEOPLE LOVE GOD 🤍 Fashion & a little bit of ✨spice✨
-    location: "Germany"
-    followers: 12000
-    engagement: 944
-    commentsToLikes: 0.087911
-    id: ckbeymy2kj7zw0j23ls333ojh
-    verified: false
-    hashtags: "#fitcheck, #berlinstyle, #style, #springoutfit"
 ---

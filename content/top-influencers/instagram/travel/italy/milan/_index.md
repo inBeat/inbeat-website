@@ -1,36 +1,24 @@
 ---
-title: Top 10 Travel Instagram Influencers In Milan In 2023
+title: Top 10 Travel Instagram Influencers In Milan In 2024
 description: >-
-  Find top travel Instagram influencers in Milan in 2023. Most popular hashtags: #milano #travel #love #beautiful.
+  Find top travel Instagram influencers in Milan in 2024. Most popular hashtags: #travel #milano #love #summer.
 platform: Instagram
-hits: 466
-text_top: Analyze the best Instagram influencers on inBeat.
-text_bottom: Our database aggregates 466 Instagram influencers like this in Milan, Italy for you to work with.
+hits: 538
+text_top: See the top-rated Instagram influencers on inBeat.
+text_bottom: Our database aggregates 538 Instagram influencers like this in Milan, Italy for you to contact.
 profiles:
   - username: "iltitanico23"
     fullname: >-
       Andrea Franchini 🕉
     bio: >-
-      • Menswear | Lifestyle | Travel • Milan 📍 • Content Creator 📸 • Temptation Island 2016 • andreadsq@icloud.com 📩
+      • Menswear | Lifestyle | Travel • Milan 📍 • Content Creator 📸 • Temptation Island 2016 🌴 • andreadsq@icloud.com 📩
     location: "Italy"
-    followers: 212519
-    engagement: 56
-    commentsToLikes: 0.074054
+    followers: 179651
+    engagement: 1
+    commentsToLikes: 0.005618
     id: ck5q94bn79bs10i111lbr7e5k
     verified: false
-    hashtags: "#prozis, #salento, #castro, #lumare"
-  - username: "gianmariasainato"
-    fullname: >-
-      Gian Maria Sainato
-    bio: >-
-      FASHION - LIFESTYLE - TRAVELS Milan, Italy info@gianmariasainato.com
-    location: "Italy"
-    followers: 578567
-    engagement: 120
-    commentsToLikes: 0.025020
-    id: ck0vxng79zrua0i19lyb65x8t
-    verified: true
-    hashtags: "#feeltheflip, #squadonamission, #sponsoredbybreitling, #razr"
+    hashtags: "#pantelleria, #travelblogger, #goldenhour, #menwithstreetstyle"
   - username: "veronicapagani__"
     fullname: >-
       Veronica Pagani 👑
@@ -127,4 +115,16 @@ profiles:
     id: ckf5n7u9bx23s0j2358r0ki9z
     verified: false
     hashtags: "#relax, #panorama, #natura, #lake"
+  - username: "alegiorgini"
+    fullname: >-
+      Ale Giorgini
+    bio: >-
+      Another beardy illustrator
+    location: "Italy"
+    followers: 48028
+    engagement: 227
+    commentsToLikes: 0.007958
+    id: ck6tlnp1e6apq0j71avf1tz2n
+    verified: false
+    hashtags: "#artprint, #pop, #alegiorgini, #food"
 ---

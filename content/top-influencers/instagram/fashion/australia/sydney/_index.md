@@ -1,48 +1,72 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Sydney In 2023
+title: Top 10 Fashion Instagram Influencers In Sydney In 2024
 description: >-
-  Find top fashion Instagram influencers in Sydney in 2023. Most popular hashtags: #fashion #sydney #love #photoshoot.
+  Find top fashion Instagram influencers in Sydney in 2024. Most popular hashtags: #ootd #sydney #fashion #fashionblogger.
 platform: Instagram
-hits: 96
-text_top: Identify the top-rated Instagram profiles on inBeat.
-text_bottom: Our database has 96 Instagram influencers like this in Sydney, Australia for you to collaborate.
+hits: 220
+text_top: Analyze the best Instagram influencers on inBeat.
+text_bottom: inBeat has 220 Instagram influencers like this in Sydney, Australia for you to work with.
 profiles:
-  - username: "kymberleestreet"
+  - username: "sydneyhills_mummyblogger"
     fullname: >-
-      Kymberlee Street 🇵🇭🇦🇺
+      Shereen H
     bio: >-
-      📍Sydney, Australia ✨ Explore~Dream~Discover ❤️ Co-Founder @defenceskincare 👑 @royallemodelling
+      Content Creator | Sydney AUS 🙎🏻‍♀️ Wife & Mother 📸 🎥 Fashion-Beauty-Lifestyle DM or 📧 for Collaborations TikTok Sydneyhillsmummyblogger
     location: "Australia"
-    followers: 7309
-    engagement: 524
-    commentsToLikes: 0.184868
-    id: ck6uc5o3ldo1l0j71qlkhqrmo
+    followers: 15570
+    engagement: 25
+    commentsToLikes: 0.000000
+    id: cloqu0a8hglsi0j08h7285k05
     verified: false
-    hashtags: "#wanderlust, #friyay, #beautyofnature, #wintersun"
-  - username: "iamshimakhosravi"
+    hashtags: "#stylish, #sydneymums, #sheingoodfinds, #instafashion"
+  - username: "stephanieshae"
     fullname: >-
-      shima khosravi
+      steph harper
     bio: >-
-      Model, Actress, Stylist, Makeup artist,📍SYDNEY.🇭🇲 @shimakhosravimua @stylebyshima
+      gold coast/sydney 🌼 ✉️charley@neonmodelmanagement.com
     location: "Australia"
-    followers: 16116
-    engagement: 230
-    commentsToLikes: 0.134970
-    id: ck6tq2ll0p2040j71ojmm7o19
+    followers: 12364
+    engagement: 299
+    commentsToLikes: 0.119870
+    id: cknebqdvrqv5w0j23ek3jboi8
     verified: false
-    hashtags: "#makeuplook, #beauty, #photoshoot, #beautiful"
+    hashtags: "#dailyoutfitinspo, #bucketlisttravel, #byronbay, #somewhereiwouldliketolive"
+  - username: "isabellaamia"
+    fullname: >-
+      Isabella
+    bio: >-
+      sydney, aus contactisabellamia@gmail.com
+    location: "Australia"
+    followers: 12503
+    engagement: 178
+    commentsToLikes: 0.055447
+    id: clb3mox753h2x0i23e9trx929
+    verified: false
+    hashtags: "#thatssofetch, #ootd, #princesspollyboutique, #peppermayo"
   - username: "chloe.a.reid"
     fullname: >-
       C H L O E
     bio: >-
-      
+      📍Sydney #chloecreative
     location: "Australia"
-    followers: 6496
-    engagement: 466
-    commentsToLikes: 0.251295
+    followers: 6441
+    engagement: 405
+    commentsToLikes: 0.231623
     id: ck6tknarz51ii0j71u9cwrn4m
     verified: false
-    hashtags: "#tezzaapp, #airbnbaustralia, #sydneylux, #tossitlikepaige"
+    hashtags: "#sydneystyle, #bts, #nswtravel, #airbnbaustralia"
+  - username: "shirleyyin_"
+    fullname: >-
+      Shirley Yin
+    bio: >-
+      petite fashion girl — sydney ✉️ connectwithshirley@outlook.com
+    location: "Australia"
+    followers: 2709
+    engagement: 568
+    commentsToLikes: 0.002910
+    id: cloqu008hggey0j082dz12kle
+    verified: false
+    hashtags: "#mejuri, #finejewellery, #mejuripartner, #goldjewellery"
   - username: "congcongh"
     fullname: >-
       子时当归
@@ -54,77 +78,53 @@ profiles:
     commentsToLikes: 0.009122
     id: ck14k2cb0ndpe0i19l3fyji0s
     verified: false
-    hashtags: "#sydneylockdown, #ootd, #ootdfashion, #celine"
+    hashtags: "#toteme, #celine, #proenzaschouler, #ootd"
   - username: "nawalsari"
     fullname: >-
       NAWAL
     bio: >-
       Redefining Modest Fashion | #nawalsari Sydney, Australia kat@mgmt.com.au
     location: "Australia"
-    followers: 211521
-    engagement: 389
-    commentsToLikes: 0.011606
+    followers: 232819
+    engagement: 314
+    commentsToLikes: 0.008048
     id: ck13bmrnsw6e60i19yj7boh5o
     verified: false
-    hashtags: "#shopbop, #fashion, #reel, #sp"
+    hashtags: "#ad, #toryburchaustralia, #hemphydration, #thebodyshop"
   - username: "sogoonoo_o"
     fullname: >-
-      Not ur typical Asian GIRL 🔥🖕🏻🖤
+      Sogoonoo
     bio: >-
-      @dollskill @ohpolly ‘ambassador 【FUN】 Street fashion|blogger Tiktok +127k Shoes Us 5|6.5 Dm for collab 📩 🇦🇺🇲🇳
+      
     location: "Australia"
-    followers: 39650
-    engagement: 590
-    commentsToLikes: 0.009297
+    followers: 62019
+    engagement: 224
+    commentsToLikes: 0.006047
     id: ckaos86jeqjiv0i78eyjwkvsd
     verified: false
-    hashtags: "#instagood, #ad, #mongoliangirl, #influencer"
-  - username: "what_brooke_wore"
+    hashtags: "#instameetulaanbaatar, #mongolia, #sneakerhead, #streetwear"
+  - username: "itsbasra"
     fullname: >-
-      Brooke Falvey
+      BASRA AJEH
     bio: >-
-      WRITER | STYLIST | OUTFIT REELS | WORKSHOPS Lover of colour & cocktails || #DopamineDressing @australianstyleinstitute 2020 Stylist of the Year.
+      🌷🌼🌊🍉❤️‍🔥 Sydney, Australia 💌 claudia@daymgmt.com.au
     location: "Australia"
-    followers: 41727
-    engagement: 145
-    commentsToLikes: 0.089938
-    id: ck5cgl5owp2a50i11j6s9mo5j
+    followers: 28840
+    engagement: 134
+    commentsToLikes: 0.004767
+    id: ck6tte4yba4620j71d89ao3n8
     verified: false
-    hashtags: "#howtostyle, #colourpop, #over30style, #bopo"
-  - username: "lyndlkean"
+    hashtags: "#hijab, #ootd, #viral, #streetwear"
+  - username: "avaaninandan"
     fullname: >-
-      Lyndl Kean
+      AVAAANI NANDAN
     bio: >-
-      Are you crazy? Me too🤗 📍Sydney Content creator 👉🏼 Reels + TikToks Socials - IMG Engage TikTok - LyndlKean Model Agency - Wink Models Miss Earth🇦🇺2016
+      📍melbs/syd Travel • Fashion • Fitness 🦦 💌Collabs: avaani@indesign.com.au 🇦🇺•🇮🇳•🇫🇯•🇸🇬
     location: "Australia"
-    followers: 61379
-    engagement: 112
-    commentsToLikes: 0.044397
-    id: ck5cfcpcimp5o0i1126g1yq8u
-    verified: true
-    hashtags: "#gifted, #asos, #reels, #dailyfashion"
-  - username: "pettifleur"
-    fullname: >-
-      Pettifleur Berenger
-    bio: >-
-      Currently on S7 of @imacelebrityau @channel10au #imacelebrityau #celebpettifleur Seen on RHOMelbourne, Hell’s Kitchen. Property Developer & Author.
-    location: "Australia"
-    followers: 58129
-    engagement: 139
-    commentsToLikes: 0.073257
-    id: ck5q5qqnhu4tr0i11nhnu4oor
-    verified: true
-    hashtags: "#imacelebrityau, #love, #flashbackfriday, #flashback"
-  - username: "ali.baxter"
-    fullname: >-
-      
-    bio: >-
-      
-    location: "Australia"
-    followers: 5
-    engagement: 4843333
-    commentsToLikes: 0.071596
-    id: ck55p98zta30w0i1149zym1du
+    followers: 12879
+    engagement: 30
+    commentsToLikes: 0.014446
+    id: clp0onnmu8h4l0j085pd60xbd
     verified: false
-    hashtags: "#ryderwearwomen, #thatssofetch, #ryderwear, #teamryderwear"
+    hashtags: "#model, #beautywithapurpose, #fyp, #ootd"
 ---

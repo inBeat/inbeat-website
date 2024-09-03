@@ -1,12 +1,96 @@
 ---
-title: Top 10 Health Instagram Influencers In Colombia In 2023
+title: Top 10 Health Instagram Influencers In Colombia In 2024
 description: >-
-  Find top health Instagram influencers in Colombia in 2023. Most popular hashtags: #fitness #smile #motivation.
+  Find top health Instagram influencers in Colombia in 2024. Most popular hashtags: #vida #love #motivacion.
 platform: Instagram
-hits: 110
-text_top: Identify the best Instagram accounts on inBeat.
-text_bottom: Our platform has 110 Instagram influencers like this in Colombia for you to collaborate.
+hits: 129
+text_top: See the most popular Instagram influencers on inBeat.
+text_bottom: Our platform has 129 Instagram influencers like this in Colombia for you to connect with.
 profiles:
+  - username: "viajandoconberbeo"
+    fullname: >-
+      J Berbeo | 🎒Travel + Lifestyle
+    bio: >-
+      👔 Quit my Fortune500 job to travel the 🌍 ☕ 📖 🌱Coffee, books and eco addict ♻️ 💪🏼Sustainable travel & healthy lifestyle 👣 Trying to make an impact
+    location: "Colombia"
+    followers: 42407
+    engagement: 786
+    commentsToLikes: 0.007597
+    id: ckaoxnh5de00g0i78xoctnhoc
+    verified: false
+    hashtags: "#earthfocus, #naturelovers, #menandcoffee, #hellofrom"
+  - username: "caromejiaaraujo"
+    fullname: >-
+      Caro Mejía Araújo
+    bio: >-
+      @reebokcolombia ambassador healthy lifestyle | outfits | baile Co founder @calu_resortwear @blendsmoothies.co 📍Bogotá
+    location: "Colombia"
+    followers: 75563
+    engagement: 381
+    commentsToLikes: 0.060049
+    id: ck5hj6hllg3cw0i118da5szy1
+    verified: false
+    hashtags: "#outfits, #fashion, #videosdebaile, #cartagena"
+  - username: "pameperez.p"
+    fullname: >-
+      Pame Perez
+    bio: >-
+      Mamá de MARIANO 💙 Co-Founder @pamelas.wellnessfood Founder @by.pameperez IIN Health Coach Fitness Enthusiast LiveHealthy-LiveLonger
+    location: "Colombia"
+    followers: 45351
+    engagement: 225
+    commentsToLikes: 0.040558
+    id: ck13c63keysra0i19xh0geu5r
+    verified: false
+    hashtags: "#saludable, #marianopelaezperez, #21diasconpameperez, #creandohabitos"
+  - username: "dreathomas"
+    fullname: >-
+      Andrea Thomas
+    bio: >-
+      Making women feel strong & healthy ♡ @allyou + @soliswimwear Founder @bombshellsportswear athlete Management@andrea-thomas.com Get coached by me ✨
+    location: "Colombia"
+    followers: 1788777
+    engagement: 143
+    commentsToLikes: 0.006760
+    id: cl3dd174q5ncg0i23lcp79fq9
+    verified: false
+    hashtags: "#bombshellsportswear, #bombshellsportwear"
+  - username: "adrisilvac"
+    fullname: >-
+      ADRIANA SILVA
+    bio: >-
+      Actriz 🇨🇴🎭 Amante del Yoga🕉️ Con alma sin límites y Dios en mi💖 FB:Adriana Silva Actriz #adrisilvac @akka.health.bienestar @vivealamar
+    location: "Colombia"
+    followers: 144035
+    engagement: 69
+    commentsToLikes: 0.030270
+    id: ck6tvbw7tlchz0j71eoccuwmz
+    verified: true
+    hashtags: "#exploradoradeconsciencia, #happyadri, #respeto, #homemade"
+  - username: "santosalexandra"
+    fullname: >-
+      Alexa Santos
+    bio: >-
+      ❤️Amor, Relaciones ☀️♥️ 👦🏻Mamá de Mateo 🎥Journalist | TV Host 🍎Health Coach 🏋🏻🧘‍♀️ Sports & yoga 🍓Food lover 💚Naturaleza 📍Colombia
+    location: "Colombia"
+    followers: 156672
+    engagement: 38
+    commentsToLikes: 0.137227
+    id: ck6uem1snrqe20j71e0aouth1
+    verified: true
+    hashtags: "#hazloreal, #publicidad, #hyundaikona, #amor"
+  - username: "melipelaezo"
+    fullname: >-
+      Meli Peláez O.
+    bio: >-
+      Fitness & Health Coach @asics_colombia 🏃🏻‍♀️✨ Bien Estar #podcast🎧💜
+    location: "Colombia"
+    followers: 242369
+    engagement: 13
+    commentsToLikes: 0.002383
+    id: ck5c2x8ffy66g0i11mgnbz7el
+    verified: true
+    hashtags: "#muevetumenteconasics, #cumulus26, #mentesanaencuerposano, #publicidad"
   - username: "the_runaddict"
     fullname: >-
       George | Running & Tri Junkie
@@ -43,88 +127,4 @@ profiles:
     id: ckapbottv0qp30i78foawh7df
     verified: false
     hashtags: "#saturdaynight"
-  - username: "serg2210"
-    fullname: >-
-      Sergio
-    bio: >-
-      Colombian 🇨🇴 West Hollywood. Men’s health PA-C
-    location: "Colombia"
-    followers: 4791
-    engagement: 2089
-    commentsToLikes: 0.028853
-    id: ck5c77vu56zz10i11u03xym2o
-    verified: false
-    hashtags: "#riodejaneiro, #rionewyears2019, #rionewyearsparty, #colombianboy"
-  - username: "camicartagena6"
-    fullname: >-
-      Camila Cartagena
-    bio: >-
-      Desafío SR 2019 Entrenadora⚡️ Atleta de Crossfit🇨🇴 Embajadora @healthysportscolombia 📍Medellín. ✉️ camilacarta6@gmail.com
-    location: "Colombia"
-    followers: 121058
-    engagement: 311
-    commentsToLikes: 0.010310
-    id: ck6tn8if39cd20j71zhwra4mo
-    verified: false
-    hashtags: "#crossfit, #camilacartagena, #smile, #dios"
-  - username: "fanny.fitt"
-    fullname: >-
-      Fanny.fitt
-    bio: >-
-      Católica, enamorada de Papá Dios 🙏🏻🤍✨ Healthy & fitness life style 🍃🏋🏻‍♀️💕 Comunicación 🎥📸 📍🇲🇽
-    location: "Colombia"
-    followers: 85139
-    engagement: 919
-    commentsToLikes: 0.008798
-    id: ck0vw6km4sc3m0i19h6ap1gtq
-    verified: false
-    hashtags: "#fitfanny, #fitspiration, #modafitness, #instafitness"
-  - username: "baki_aponte"
-    fullname: >-
-      Héctor
-    bio: >-
-      Hijo de Dios🙏🏽☝🏽 Health & Fitness Enthusiast🏋🏻🏃🏻 CROSSFIT IDGT HWPO #BBN @farmaciasfeliciano
-    location: "Colombia"
-    followers: 10978
-    engagement: 220
-    commentsToLikes: 0.044629
-    id: ck6u6gzi9fjgq0j71phn7qbve
-    verified: false
-    hashtags: "#famfriday"
-  - username: "paulinaortizj"
-    fullname: >-
-      P A U L I N A • O R T I Z
-    bio: >-
-      Viniste a ser feliz. Health Coach @nutritionschool Jiujitsu @fightsportsmiami 23 • 🇨🇴 Colombian
-    location: "Colombia"
-    followers: 12581
-    engagement: 550
-    commentsToLikes: 0.014782
-    id: ck5cb0sidei1g0i11xfkaz9h9
-    verified: false
-    hashtags: "#jiujitsulifestyle, #ibjjfgirls, #absworkouts, #motivation"
-  - username: "davidarenaseljach"
-    fullname: >-
-      David Arenas Eljach
-    bio: >-
-      La Agencia Batalla de Modelos MISTER SUPRANATIONAL COLOMBIA 2020 Embajador : @healthysportscolombia Deportista, entrenador Modelo Profesional
-    location: "Colombia"
-    followers: 67081
-    engagement: 481
-    commentsToLikes: 0.010013
-    id: ck5qadxf6fw2h0i11tt1zorx6
-    verified: false
-    hashtags: "#photography, #workout, #photo, #fitness"
-  - username: "pameperez.p"
-    fullname: >-
-      Pame Perez
-    bio: >-
-      💥@by.pameperez 🛒 @market.bypameperez 🍴#RecetasPamePerez ❣️IIN Health Coach 💪🏼FitnessEnthusiast 🍏LiveHealthy-LiveLonger 🎨Diseñadora
-    location: "Colombia"
-    followers: 23142
-    engagement: 835
-    commentsToLikes: 0.102992
-    id: ck13c63keysra0i19xh0geu5r
-    verified: false
-    hashtags: "#rainbowbaby, #marianopelaezperez, #recetaspameperez, #happy2months"
 ---

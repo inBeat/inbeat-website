@@ -1,36 +1,84 @@
 ---
-title: Top 10 Models Instagram Influencers In Nigeria In 2023
+title: Top 10 Models Instagram Influencers In Nigeria In 2024
 description: >-
-  Find top models Instagram influencers in Nigeria in 2023. Most popular hashtags: #fashion #explore #black.
+  Find top models Instagram influencers in Nigeria in 2024. Most popular hashtags: #explore #explorepage #reels.
 platform: Instagram
-hits: 64
-text_top: See the best Instagram influencers on inBeat.
-text_bottom: Our search engine holds 64 Instagram influencers like this in Nigeria for you to work with.
+hits: 73
+text_top: See the most popular Instagram accounts on inBeat.
+text_bottom: Our platform holds 73 Instagram influencers like this in Nigeria for you to work with.
 profiles:
-  - username: "maliyaofficial"
+  - username: "bella.bear.pom"
     fullname: >-
-      Maliya Michael
+      🅱🅴🅻🅻🅰
     bio: >-
-      Model | Influencer Bookings: Maliyamgt@gmail.com
+      my hair is the crown I never take off @maggieand.co model 🌸 birthday April 4th 🌸 gotcha May 28th #pomeranian #dogmodel SAVINGS CODES ⬇️
     location: "Nigeria"
-    followers: 340279
-    engagement: 565
-    commentsToLikes: 0.024631
-    id: ck135nhdj2aeb0i19u8z1kr7u
+    followers: 15380
+    engagement: 479
+    commentsToLikes: 0.108245
+    id: ck5c238ogwgoj0i11t38lprsc
     verified: false
-    hashtags: "#funnyfails, #airbnblagos, #dubaitour, #lagosbabes"
-  - username: "hameedah_xx"
+    hashtags: "#puppylove, #explorepage, #sassywoofxpetsmart, #twinningwithmaggie"
+  - username: "katheryn_"
     fullname: >-
-      Hammed Hamidat Oyindamola
+      Katherine
     bio: >-
-      MODEL beauty & brand influencer Content creator/promotion manager Dm for bookings
+      •Fashion/Commercial Model •Beauty/Brand influencer •DM for promotion/ Paid collaboration
     location: "Nigeria"
-    followers: 11437
-    engagement: 1361
-    commentsToLikes: 0.050829
-    id: ck5q769s9057p0i116byq3ebi
+    followers: 22398
+    engagement: 672
+    commentsToLikes: 0.043508
+    id: ckap8ggzuo7d10i78zq2that3
     verified: false
-    hashtags: "#selflove, #happyvalentinesday"
+    hashtags: "#explorepage, #explore, #exploremore, #explormore"
+  - username: "jessicaorishane"
+    fullname: >-
+      JESSIKOKO
+    bio: >-
+      Actor| Plus-size Model | Content Creator •Fashion •Skits •Games Miss Endowd/ Founder @endowd.ng 𝖉𝖒/𝖊𝖒𝖆𝖎𝖑 𝖋𝖔𝓻 𝖇𝖔𝖔𝒌𝖎𝖓𝖌𝖘, 𝖕𝖗𝖔𝖒𝖔𝖘 𝖆𝖓𝖉 𝖆𝖉𝒗𝖊𝖗𝖙𝖘
+    location: "Nigeria"
+    followers: 75310
+    engagement: 356
+    commentsToLikes: 0.036694
+    id: ck6u7zbm1ojbl0j71flky98t7
+    verified: false
+    hashtags: "#instagramreels, #explore, #explorepage, #plussizefashion"
+  - username: "queen_winifred"
+    fullname: >-
+      Winifred Uduimoh
+    bio: >-
+      • Award Winning Beauty Queen 👸 • 3 times Ex Beauty Queen 👸 • Nigerian Queen 2016/17👑 • CEO @winnieeventplanning • Actor 🎥 • Model /Influencer📸
+    location: "Nigeria"
+    followers: 19085
+    engagement: 176
+    commentsToLikes: 0.068039
+    id: ck8sw2azjdjdq0j78ozaavag9
+    verified: false
+    hashtags: "#lovetda23, #aseobibella, #asoebistyles, #fyp"
+  - username: "iamlucyedet"
+    fullname: >-
+      Grill Boss 1 of Nigeria
+    bio: >-
+      Owner @lucianas_grill @lucys.grooming.bar Actor, Model, Reality TV star, Brand influencer, host lucyedetofficial@gmail.com for bookings.
+    location: "Nigeria"
+    followers: 822924
+    engagement: 121
+    commentsToLikes: 0.020009
+    id: ck1385c5dek2k0i193w6sc0q6
+    verified: false
+    hashtags: "#juicylucy31, #lagosnightlife, #hammer, #lovingrona"
+  - username: "mychaskia"
+    fullname: >-
+      BARR. OMOREGIE PRECIOUS_O
+    bio: >-
+      • follower of christ 👼 • WINNER NEXT BIG TRENDER AFRICA • LAWYER ; LLB , BL ACarb @opsolictors • INFLUENCER 🔌/ MODEL • YOUTUBER 👇🏼
+    location: "Nigeria"
+    followers: 45286
+    engagement: 164
+    commentsToLikes: 0.029667
+    id: ck8sy6zqhjxlu0j78wekn0ard
+    verified: false
+    hashtags: "#saturdayvibes, #ad, #blessed, #plussize"
   - username: "ronke_pekun"
     fullname: >-
       Ronk$$$ Pek$
@@ -79,52 +127,4 @@ profiles:
     id: ck0vw03lcri9p0i19m7rr73g4
     verified: false
     hashtags: "#ex, #sarsmustend, #endpolicebrutality"
-  - username: "khrayyy"
-    fullname: >-
-      Khersie☁️
-    bio: >-
-      •Model •Brand Ambassador •Brand Influencer •Forex trader📈 Twitter :khrayyy 📍Italy🇮🇹/Nigeria🇳🇬
-    location: "Nigeria"
-    followers: 25419
-    engagement: 847
-    commentsToLikes: 0.034597
-    id: ckf5m4z53s9mo0j23u8hj3w1p
-    verified: false
-    hashtags: "#naturalbody, #healthyfoodie, #waisttrainers, #exerciseathome"
-  - username: "ay.grace"
-    fullname: >-
-      Ayodele Arowojobe 🦄
-    bio: >-
-      Singer|Songwriter Model|Designer CEO @graceempireofficial @gracerepublic_
-    location: "Nigeria"
-    followers: 18828
-    engagement: 444
-    commentsToLikes: 0.149409
-    id: ck55nh2a5678r0i115u93szke
-    verified: false
-    hashtags: "#madeinnigeria, #black, #endsars, #endpolicebrutality"
-  - username: "dammy_adesh"
-    fullname: >-
-      Dammy Adesh
-    bio: >-
-      Nigerian 🇳🇬 Ex Beauty Queen👸🏽 Model 💄 Activist 💪🏾 Interview with Vanguard 👇 Snapchat:Dharmiz Business page : @thedammy_adesh
-    location: "Nigeria"
-    followers: 15944
-    engagement: 376
-    commentsToLikes: 0.059257
-    id: ck8swldxdehbj0j78v827guy6
-    verified: false
-    hashtags: ""
-  - username: "leemarh_"
-    fullname: >-
-      Bamidele Halima
-    bio: >-
-      🔶Muslimah 🔸Proud Chemist 🔸Pro Makeup Artist 🎨 @ara__grande 🔸Fashion Designer💃🏼💃🏼💃🏼 🔸Face Model 😎😎
-    location: "Nigeria"
-    followers: 13263
-    engagement: 1111
-    commentsToLikes: 0.051417
-    id: ck15qtox14lcu0i1957ru7sx4
-    verified: false
-    hashtags: "#makeupbrushchallenge, #thebsaffairs21, #dontrushchallenge"
 ---

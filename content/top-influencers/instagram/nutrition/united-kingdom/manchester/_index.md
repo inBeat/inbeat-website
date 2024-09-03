@@ -1,24 +1,36 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In Manchester In 2023
+title: Top 10 Nutrition Instagram Influencers In Manchester In 2024
 description: >-
-  Find top nutrition Instagram influencers in Manchester in 2023. Most popular hashtags: #nutrition #healthylifestyle #fitness #healthyeating.
+  Find top nutrition Instagram influencers in Manchester in 2024. Most popular hashtags: #nutrition #healthyeating #fitness #gymgirl.
 platform: Instagram
-hits: 5
-text_top: Discover the best Instagram accounts on inBeat.
-text_bottom: inBeat aggregates 5 Instagram influencers like this in Manchester, United Kingdom for you to work with.
+hits: 6
+text_top: Analyze the most popular Instagram accounts on inBeat.
+text_bottom: Our search engine aggregates 6 Instagram influencers like this in Manchester, United Kingdom for you to connect with.
 profiles:
+  - username: "isafitlife"
+    fullname: >-
+      ISABEL l  ONLINE EXERCISE & NUTRITION
+    bio: >-
+      COACHING PAGE @aimhigherforyou BSc (Hons) Nutrition and Exercise currently MSc in Sports Nutrition @ljmu
+    location: "United Kingdom"
+    followers: 104908
+    engagement: 446
+    commentsToLikes: 0.018065
+    id: ck8t7zjt0ijrw0j78q2sp5ehu
+    verified: false
+    hashtags: "#gymreels, #gym, #glutesworkout, #backworkout"
   - username: "danhotchocolate"
     fullname: >-
       Danny Roberts
     bio: >-
-      🇬🇧🇺🇸 🥊 @UFC Fighter 📧 Business Enquiries: @yurijavier @bossmodelmanagement / Manchester @soulartistmgmt / NYC
+      🇬🇧🇺🇸 🥊 @UFC Fighter 📧 Business Enquiries: @yurijavier @bossmodelmanagement / Manchester @soulartistmgmt / NYC Find me on Cameo
     location: "United Kingdom"
-    followers: 36677
-    engagement: 359
-    commentsToLikes: 0.024395
+    followers: 36503
+    engagement: 296
+    commentsToLikes: 0.030926
     id: ck55ps7kzb9jq0i1190mmngd0
     verified: true
-    hashtags: "#ukmma, #fighter, #ufc, #savage"
+    hashtags: "#nutrition, #mixedmartialarts, #sanfordmma, #ko"
   - username: "_.naomifit_"
     fullname: >-
       NAOMI ARMSTRONG // FITNESS
@@ -30,7 +42,7 @@ profiles:
     commentsToLikes: 0.143158
     id: ckaospetishrs0i78ym7428rz
     verified: false
-    hashtags: "#newpost, #fitnessuk, #fitfamuk, #gsfamily"
+    hashtags: "#fitgirls, #newweeknewgoals, #girlswholift, #fitnessblogger"
   - username: "eatswithamy_x"
     fullname: >-
       Amy 🍭Food 🇬🇧 Newcastle/Mcr
@@ -42,19 +54,19 @@ profiles:
     commentsToLikes: 0.070776
     id: ck6uaj1pp3u9t0j71yi28j8pn
     verified: false
-    hashtags: "#porridgebowl, #ukblogger, #oats, #breakfasttime"
-  - username: "jordanthomaskarate"
+    hashtags: "#porridgeideas, #porridgeoats, #healthyideas, #northeast"
+  - username: "harrylancaster"
     fullname: >-
-      Jordan Thomas
+      Harry Lancaster
     bio: >-
-      GB Karate Athlete🇬🇧 🥇World Champion 🥇European Champion @oprogroup Ambassador Team @combatsportsaddict
+      📸Running Content Creator | Lake District 🇬🇧 🤩runharrylancaster@gmail.com 🏃🏻‍♂️2:27 Marathoner | 69:12 Half | 15:23 5K
     location: "United Kingdom"
-    followers: 11868
-    engagement: 582
-    commentsToLikes: 0.028085
-    id: ck5zo4ha1pqs90i145k0hys30
+    followers: 81138
+    engagement: 438
+    commentsToLikes: 0.050770
+    id: ckap76w63ivjk0i78k8h499pp
     verified: false
-    hashtags: "#adidaskarate, #karate, #inspired, #motivation"
+    hashtags: "#couchto5k, #ad, #longdistancerunner, #londonmarathon"
   - username: "akeemojuko"
     fullname: >-
       Akeem Ojuko
@@ -67,6 +79,18 @@ profiles:
     id: ck6turtwli1hp0j71m6ho28cs
     verified: false
     hashtags: "#cheekysport, #superrep, #niketraining, #hackneymoves"
+  - username: "isafitlife"
+    fullname: >-
+      ISABEL l  ONLINE EXERCISE & NUTRITION
+    bio: >-
+      COACHING PAGE @aimhigherforyou BSc (Hons) Nutrition and Exercise currently MSc in Sports Nutrition @ljmu
+    location: "United Kingdom"
+    followers: 104908
+    engagement: 446
+    commentsToLikes: 0.018065
+    id: ck8t7zjt0ijrw0j78q2sp5ehu
+    verified: false
+    hashtags: "#gymreels, #gym, #glutesworkout, #backworkout"
   - username: "amanda_strachan"
     fullname: >-
       AMANDA STRACHAN
@@ -78,53 +102,29 @@ profiles:
     commentsToLikes: 0.014126
     id: ck0vv2h8dn8kb0i199rg3n3qx
     verified: false
-    hashtags: "#simplerecipes, #healthyrecipes, #nutrition, #mindfulness"
-  - username: "jacobcollier"
+    hashtags: "#healthyrecipes, #mindfulness, #easyrecipes, #nutrition"
+  - username: "_emilysworld"
     fullname: >-
-      Jacob Collier
+      Emily Solman
     bio: >-
-      Quester of delicion and nutrition ☃️
+      Registered Nutritionist specialising in disordered eating Let’s discover the happiest, healthiest version of YOU!! 🎧🎙️ @navigatingwomanhoodpod
     location: "United Kingdom"
-    followers: 1971478
-    engagement: 783
-    commentsToLikes: 0.006086
-    id: ck0vy477k25qn0i19tjgji8cx
-    verified: true
-    hashtags: "#15, #19, #23"
-  - username: "roarfitnessgirl"
+    followers: 209349
+    engagement: 1449
+    commentsToLikes: 0.007202
+    id: ck0vzcw488h390i19jaaxce21
+    verified: false
+    hashtags: "#mealprep, #highfibre, #breakfastinspo, #selfcare"
+  - username: "kimgfit_"
     fullname: >-
-      Sarah Lindsay
+      KIMIA GHANIAN
     bio: >-
-      •3x Olympian •Owner @roarfitnessldn gyms 🇬🇧 🇦🇪 •Founder @roarclasses •Sports Pundit @bbc •Personal Trainer •Nutrition coach •Public Speaker
+      all for Gods glory BSc (Hons) Nutritionist🍎 📩 simon@wmgmt.co.uk ONLINE COACHING LINK 🔽
     location: "United Kingdom"
-    followers: 90402
-    engagement: 117
-    commentsToLikes: 0.083805
-    id: ck5px3kjrpxhe0i11y2wwn406
-    verified: true
-    hashtags: "#positivemindset, #personaltrainer, #fitness, #dubai"
-  - username: "ciaralondon"
-    fullname: >-
-      BODY BY CIARA
-    bio: >-
-      London 📍 @bodybyciaraapp Online Training & Nutrition📱 @bodybyciarahq Gym & Real Life Training🏠 ⬇️LINKS TO EVERYTHING⬇️
-    location: "United Kingdom"
-    followers: 132382
-    engagement: 127
-    commentsToLikes: 0.435709
-    id: ck6tnvx80aokp0j71yfzhdj21
+    followers: 97392
+    engagement: 643
+    commentsToLikes: 0.004993
+    id: clfw1dugyylhy0j08ufty6msl
     verified: false
     hashtags: ""
-  - username: "jodiewood_"
-    fullname: >-
-      Jodie Matthews (Lawson-Wood)
-    bio: >-
-      Fashion, Beauty & Lifestyle MSc Nutrition Work enquiries ~ influencers@andrea.ie Shop my jewelry line
-    location: "United Kingdom"
-    followers: 72179
-    engagement: 457
-    commentsToLikes: 0.035153
-    id: ck5c301niybu70i11uia8230y
-    verified: true
-    hashtags: "#puenteromano, #marbella, #couple, #outfitinspiration"
 ---

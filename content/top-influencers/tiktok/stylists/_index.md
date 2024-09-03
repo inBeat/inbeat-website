@@ -1,11 +1,11 @@
 ---
-title: Top 10 Stylists TikTok Influencers In 2023
+title: Top 10 Stylists TikTok Influencers In 2024
 description: >-
-  Find top stylists TikTok influencers in 2023. Most popular hashtags: #fyp #fashion #ootd #duet.
+  Find top stylists TikTok influencers in 2024. Most popular hashtags: #fyp #ootd #fashion #foryou.
 platform: TikTok
-hits: 498
-text_top: Identify the top-rated TikTok influencers on inBeat.
-text_bottom: Our database aggregates 498 TikTok influencers like this for you to work with.
+hits: 499
+text_top: Identify the best TikTok accounts on inBeat.
+text_bottom: inBeat aggregates 499 TikTok influencers like this for you to pitch.
 profiles:
   - username: "gramacarolyn"
     fullname: >-
@@ -66,7 +66,7 @@ profiles:
     commentsToLikes: 0.050905
     id: ck8vtijhbgby80j78ng3gjcha
     verified: false
-    hashtags: "#makeup, #vintagevibes, #merrychristmas, #cosplay"
+    hashtags: "#vintagefashion, #vintagevibes, #merrychristmas, #vintagestyle"
   - username: "evertonrizze"
     fullname: >-
       Everton rizze
@@ -83,14 +83,14 @@ profiles:
     fullname: >-
       Beebins 
     bio: >-
-      Hair stylist,Green Cheek Conure mommy to Piper! In memory of my parakeet, Kevin
+      Hair stylist, Bird mommy!!
     location: "United States"
-    followers: 33500
-    engagement: 1188
-    commentsToLikes: 0.076545
+    followers: 33400
+    engagement: 1276
+    commentsToLikes: 0.094251
     id: ckae4h3et2e2d0i78fsjwbszv
     verified: false
-    hashtags: "#blackstock37, #chuuby, #disney, #sunconure"
+    hashtags: "#chuuby, #disney, #sunconure"
   - username: "carmaheartsyou"
     fullname: >-
       🧸🎀⛓𝖈𝖆𝖗𝖒𝖆 ⛓🎀🧸
@@ -126,5 +126,5 @@ profiles:
     commentsToLikes: 0.066677
     id: ckb9my5cdge2o0j23czireqt8
     verified: false
-    hashtags: "#nycstylist, #summer2020, #morph, #fashion"
+    hashtags: "#nycfashionstylist, #nycfashionblogger, #nycinfluencer, #morph"
 ---

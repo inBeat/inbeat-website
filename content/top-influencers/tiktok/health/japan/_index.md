@@ -1,11 +1,11 @@
 ---
-title: Top 10 Health TikTok Influencers In Japan In 2023
+title: Top 10 Health TikTok Influencers In Japan In 2024
 description: >-
-  Find top health TikTok influencers in Japan in 2023. Most popular hashtags: #foryou #fashion #fish #smallbusiness.
+  Find top health TikTok influencers in Japan in 2024. Most popular hashtags: #foryou #fish #fashion #beauty.
 platform: TikTok
 hits: 8
-text_top: Analyze the top-rated TikTok accounts on inBeat.
-text_bottom: Our database has 8 TikTok influencers like this in Japan for you to connect with.
+text_top: Analyze the top-rated TikTok influencers on inBeat.
+text_bottom: Our platform holds 8 TikTok influencers like this in Japan for you to collaborate.
 profiles:
   - username: "hailicare"
     fullname: >-

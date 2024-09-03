@@ -1,11 +1,11 @@
 ---
-title: Top 10 TikTok Influencers In Indonesia In 2023
+title: Top 10 TikTok Influencers In Indonesia In 2024
 description: >-
-  Find top TikTok influencers in Indonesia in 2023. Most popular hashtags: #fyp #duet #sahabatenergiku #mulaidari100.
+  Find top TikTok influencers in Indonesia in 2024. Most popular hashtags: #duet #fyp #sahabatenergiku #mulaidari100.
 platform: TikTok
 hits: 1791
-text_top: Discover the most popular TikTok influencers on inBeat.
-text_bottom: Our database holds 1791 TikTok influencers like this in Indonesia for you to pitch.
+text_top: Identify the best TikTok profiles on inBeat.
+text_bottom: Our database aggregates 1791 TikTok influencers like this in Indonesia for you to collaborate.
 profiles:
   - username: "hendrysaputra82"
     fullname: >-

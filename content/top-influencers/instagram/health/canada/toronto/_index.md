@@ -1,12 +1,36 @@
 ---
-title: Top 10 Health Instagram Influencers In Toronto In 2023
+title: Top 10 Health Instagram Influencers In Toronto In 2024
 description: >-
-  Find top health Instagram influencers in Toronto in 2023. Most popular hashtags: #health #toronto #flexibility.
+  Find top health Instagram influencers in Toronto in 2024. Most popular hashtags: #health #toronto #workout.
 platform: Instagram
-hits: 43
-text_top: Analyze the top-rated Instagram profiles on inBeat.
-text_bottom: Our platform holds 43 Instagram influencers like this in Toronto, Canada for you to connect with.
+hits: 90
+text_top: See the most popular Instagram profiles on inBeat.
+text_bottom: Our platform aggregates 90 Instagram influencers like this in Toronto, Canada for you to connect with.
 profiles:
+  - username: "hellosylviaa"
+    fullname: >-
+      SYLVIA JADE 💎
+    bio: >-
+      👩🏻‍💻 tech ops + content creator (180k+ youtube subs ♡) 🤰🏻 mama-to-be fashion/beauty, food, & mental health ottawa/toronto | sylviajadeta@gmail.com
+    location: "Canada"
+    followers: 46826
+    engagement: 123
+    commentsToLikes: 0.074886
+    id: ck5hk2jxchodz0i112tr2cr25
+    verified: true
+    hashtags: "#closetorganization, #closet, #davidsbridal, #ad"
+  - username: "brooxe"
+    fullname: >-
+      Brooke Stilla
+    bio: >-
+      singing & dancing bb 🇦🇺🇨🇦 sweat with @skipsisters ❤️‍🔥 when it rains look for rainbows 🌈 when it’s dark look for the stars ✨
+    location: "Canada"
+    followers: 14550
+    engagement: 190
+    commentsToLikes: 0.069737
+    id: ck8wfr5rmg4u10j7847arbnh3
+    verified: false
+    hashtags: "#love, #motivation, #fitness, #jumpropeworkout"
   - username: "jakeyr_dance"
     fullname: >-
       JakeyR
@@ -19,18 +43,6 @@ profiles:
     id: ckaounbyn10pd0i78s30ic99s
     verified: false
     hashtags: "#maledancer, #ottawadance, #boysdancetoo, #albertaballet"
-  - username: "lucybasso_welcomeangels"
-    fullname: >-
-      Psychic Medium/Reiki Master
-    bio: >-
-      👼Welcome Angels Wellness Centre Inc.👼 Private Sessions/Events/Workshops/Classes/Grief Support Specializing in Assisting Spiritually Gifted Children
-    location: "Canada"
-    followers: 6443
-    engagement: 486
-    commentsToLikes: 0.117899
-    id: ckapaljcqwl9f0i78joelelaz
-    verified: false
-    hashtags: "#psychicmedium, #lifecoach, #welcomeangels, #welcomeangelswellnesscentre"
   - username: "thecurvymariah"
     fullname: >-
       Mariah • Plus Size Fashion
@@ -54,19 +66,43 @@ profiles:
     commentsToLikes: 0.250462
     id: ckaorspayol0x0i78xnu5d8er
     verified: false
-    hashtags: "#picnicparty, #stopasianhate, #sourmelonbitescanada, #quarantinebirthday"
-  - username: "vanessatiiu"
+    hashtags: "#stopasianhate, #hateisavirus, #brunchparty, #brunchathome"
+  - username: "valtee"
     fullname: >-
-      Vanessa Tiiu
+      Valerie Tiu
     bio: >-
-      toronto, on that health obsessed girl who does fashion founder @syrsedawn & @thehealthcafe.co 🎬 youtube 180k+ 💌 contact@tablerockmanagement.com
+      🇵🇭🇨🇦 📍YYZ 🧘‍♀️ @lululemon Ambassador #thesweatlife ☁️ Curator @_softlandings_ @mosaicyogato @wearejaybird @thevillij @sweatandtonic @levelbyoxford
     location: "Canada"
-    followers: 30105
-    engagement: 1244
-    commentsToLikes: 0.032832
-    id: ck9wfcecso8ta0j78uytxjx0e
+    followers: 3556
+    engagement: 613
+    commentsToLikes: 0.076618
+    id: cljrsl3pvvr040j085mcyqm17
     verified: false
-    hashtags: "#summervibe, #influencersinthewild, #streetwearbabe, #neutralfashion"
+    hashtags: "#yogacanada, #acroyoga, #valteeyoga, #yogaasana"
+  - username: "lucybasso_welcomeangels"
+    fullname: >-
+      Psychic Medium/Reiki Master
+    bio: >-
+      👼Welcome Angels Wellness Centre Inc.👼 Private Sessions/Events/Workshops/Classes/Grief Support Specializing in Assisting Spiritually Gifted Children
+    location: "Canada"
+    followers: 6443
+    engagement: 486
+    commentsToLikes: 0.117899
+    id: ckapaljcqwl9f0i78joelelaz
+    verified: false
+    hashtags: "#lifecoach, #welcomeangelswellnesscentre, #welcomeangels, #psychicmedium"
+  - username: "alanaahewitt"
+    fullname: >-
+      Alana Hewitt
+    bio: >-
+      Beauty, lifestyle & mental health🦋🌞🌈 📍 Toronto/GTA 📩 alanahewitt@hotmail.com
+    location: "Canada"
+    followers: 10038
+    engagement: 64
+    commentsToLikes: 0.022595
+    id: ckmw1dxlx6t200j23y2to48h3
+    verified: false
+    hashtags: "#bitebeautyambassador, #crystalmeditation, #lorealparis, #blacktourmaline"
   - username: "goodhealthprettylife"
     fullname: >-
       NICOLE.
@@ -79,42 +115,6 @@ profiles:
     id: ckf5m1tv0rxyx0j23rd5kanul
     verified: false
     hashtags: "#partner, #ad, #vistaambassador, #vistamagazine"
-  - username: "her.healthful"
-    fullname: >-
-      arasteh
-    bio: >-
-      toronto ph.d student into health n’ wellness
-    location: "Canada"
-    followers: 42776
-    engagement: 535
-    commentsToLikes: 0.038281
-    id: ck9hb5tkffiio0j78mwrkqm7m
-    verified: false
-    hashtags: "#freepeoplepartner, #selflove, #healthforall, #collegehealthyeating"
-  - username: "ricardomarmitte"
-    fullname: >-
-      Ricardo Marmitte
-    bio: >-
-      👦🏿Big hair ♥️Owner @dancepassionfitnessstudio 🎽Official distributor @zumbawearcanada 😁DM for collaborations
-    location: "Canada"
-    followers: 74249
-    engagement: 103
-    commentsToLikes: 0.057206
-    id: ck5zjcku9hcse0i141ocibu74
-    verified: false
-    hashtags: "#ricardomarmitte, #family, #zumbanation, #mauritius"
-  - username: "vampx13"
-    fullname: >-
-      Amanda McKnight
-    bio: >-
-      YouTuber @top10nerdofficial . Renegade Games Enthusiast. Avid RPGr. Actress. Cosplay model. Writer. 🏳️‍🌈 That nerdy weirdo. 🤓 👇 Other stuff 💕
-    location: "Canada"
-    followers: 16200
-    engagement: 1149
-    commentsToLikes: 0.034217
-    id: ck135cy580ug20i19ij2x33dw
-    verified: false
-    hashtags: "#torontocosplayer, #redhair, #cosplay, #photography"
   - username: "optimize.physiotherapy"
     fullname: >-
       Optimize Physiotherapy
@@ -126,5 +126,5 @@ profiles:
     commentsToLikes: 0.014260
     id: ck0u2ehwfzo740i191mmr2y3b
     verified: false
-    hashtags: "#physiotherapy, #movement, #toronto, #yoga"
+    hashtags: "#rehab, #ottawalife, #exercise, #stretch"
 ---

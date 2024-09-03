@@ -1,12 +1,24 @@
 ---
-title: Top 10 Boxers Instagram Influencers In Spain In 2023
+title: Top 10 Boxers Instagram Influencers In Spain In 2024
 description: >-
-  Find top boxers Instagram influencers in Spain in 2023. Most popular hashtags: #boxer #boxing #dog #boxerdog.
+  Find top boxers Instagram influencers in Spain in 2024. Most popular hashtags: #boxer #boxing #doglover #dog.
 platform: Instagram
-hits: 30
-text_top: Identify the top-rated Instagram accounts on inBeat.
-text_bottom: inBeat has 30 Instagram influencers like this in Spain for you to contact.
+hits: 31
+text_top: Discover the top-rated Instagram profiles on inBeat.
+text_bottom: Our database aggregates 31 Instagram influencers like this in Spain for you to pitch.
 profiles:
+  - username: "rachel.luba"
+    fullname: >-
+      RACHEL LUBA (レイチェル・ルーバ)
+    bio: >-
+      ⚾️MLB Player-Agent /Attorney⚖️ ⋯former UCLA Gymnast/competitive boxer ✧Forbes 30Under30 ➟ceo: @luba_sports ➟twitter: @agentrachelluba ◉⃤ @the.lubanati
+    location: "Spain"
+    followers: 121226
+    engagement: 257
+    commentsToLikes: 0.009978
+    id: ckap6f3ugfmue0i781re9wnzd
+    verified: false
+    hashtags: "#npb, #kingofjuco, #trevorbauer, #baueroutage"
   - username: "maravillaalonso"
     fullname: >-
       Jonathan Maravilla Alonso
@@ -18,19 +30,19 @@ profiles:
     commentsToLikes: 0.009717
     id: ck55ls2172a5c0i118ej755l7
     verified: true
-    hashtags: "#fitness, #summer, #model, #friends"
+    hashtags: "#model, #friends, #fitness, #tattoo"
   - username: "jennifitbox"
     fullname: >-
       Jennifer ‘Bam Bam’ Fernández
     bio: >-
-      🥊 National team boxer -57kgs 🇪🇸 Spain championship x4🥇 🇪🇺 5 º place European championship 2019 ▫️Odivelas cup 2019🥇 ▫️Boxam x2🥉x1🥈 🇪🇸Roadtotokyo2020🇯🇵
+      🥊 National team boxer -57kgs 🇪🇸 Spain championship x6🥇 🇪🇺 5 º place European championship 2019 ▫️Boxam x2🥉x1🥈 📍Madrid /Granada 🇪🇸 #JJOOParis2024🇫🇷
     location: "Spain"
-    followers: 6943
-    engagement: 956
-    commentsToLikes: 0.048149
+    followers: 8414
+    engagement: 946
+    commentsToLikes: 0.043535
     id: ck9hbpj3ehwsp0j78t7vmv8dx
     verified: false
-    hashtags: "#smile, #redcorner, #amateurboxing, #sportoutfit"
+    hashtags: "#boxingamateur, #espa, #verano, #boxeoolimpico"
   - username: "ariginal_boxer"
     fullname: >-
       📸ARI and TANGO📸
@@ -54,7 +66,7 @@ profiles:
     commentsToLikes: 0.024095
     id: ck136r6hp7uwx0i1998fptvpv
     verified: false
-    hashtags: "#boxerlove, #doglover, #boxerdogs, #boxerdogfans"
+    hashtags: "#doglover, #boxeraddict, #boxerfan, #boxerpuppy"
   - username: "katharina_thanderz"
     fullname: >-
       Katharina E. Thanderz
@@ -71,26 +83,26 @@ profiles:
     fullname: >-
       NEKA | TrastoNeka 🚍
     bio: >-
-      🐕 Neka, Andrea y Sergio 👩🏽‍🤝‍👨🏼 📸 Capturando momentos 🌿 Movimiento #limpiatuparaiso 🐾 Tips del día a día con tu perro
+      📸 Capturando momentos 🐾 Tips del día a día con tu perro 🐶 Viajes y sitios PetFriendly
     location: "Spain"
-    followers: 13577
-    engagement: 646
-    commentsToLikes: 0.113691
+    followers: 18412
+    engagement: 3421
+    commentsToLikes: 0.038348
     id: ck5zt2b9ezlx80i14h5ihltmf
     verified: false
-    hashtags: "#boxer, #boxerlife, #travel, #turismo"
-  - username: "paulaellisfit"
+    hashtags: "#petfriendly, #dog, #dogslover, #boxerlover"
+  - username: "marcelgonzalezc"
     fullname: >-
-      PAULA ELLIS
+      𝐌 𝐀 𝐑 𝐂 𝐄 𝐋  𝐆 𝐎 𝐍 𝐙 𝐀 𝐋 𝐄 𝐙
     bio: >-
-      CEO @myfitlife.es 📲Asesorías Online Psicóloga Salud&Deporte🧠 Máster Nutrición-Entreno🍏 Máster Dirección Deportiva🏋🏼‍♀️ 💌paulaellisfit@gmail.com
+      📍TF 𝙉𝙀𝙑𝙀𝙍 𝙎𝙏𝙊𝙋 𝙁𝙄𝙂𝙃𝙏𝙄𝙉𝙂. 𝙑𝙞𝙙𝙖 𝙨𝙖𝙣𝙖, 𝙢𝙚𝙣𝙩𝙚 𝙨𝙖𝙣𝙖.
     location: "Spain"
-    followers: 62735
-    engagement: 306
-    commentsToLikes: 0.056789
-    id: ck5hcfoq0hu560i11nl5nt23b
+    followers: 6589
+    engagement: 725
+    commentsToLikes: 0.022425
+    id: ck5zrpcadx0hv0i144rf031r6
     verified: false
-    hashtags: "#brilla, #bestrong, #nutricion, #fight"
+    hashtags: "#boxing, #muaythailavictoria, #muaythailife, #gym"
   - username: "delprado.sergio"
     fullname: >-
       Sergio
@@ -115,16 +127,4 @@ profiles:
     id: ck8t4g6rk6opj0j78wn8wp05h
     verified: false
     hashtags: "#bordercollielovers, #hiking, #bordercolliegram, #pasion"
-  - username: "gianmarco.onestini"
-    fullname: >-
-      GIANMARCO ONESTINI
-    bio: >-
-      📩 info@gianmarcoonestini.com
-    location: "Spain"
-    followers: 732924
-    engagement: 227
-    commentsToLikes: 0.182081
-    id: ck9h9qjdi9kdj0j7803sqd5u8
-    verified: true
-    hashtags: "#italy, #espa, #mexico, #chile"
 ---

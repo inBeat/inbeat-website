@@ -1,11 +1,11 @@
 ---
-title: Top 10 TikTok Influencers In Turkey In 2023
+title: Top 10 TikTok Influencers In Turkey In 2024
 description: >-
-  Find top TikTok influencers in Turkey in 2023. Most popular hashtags: #ke #fyp #csfc.
+  Find top TikTok influencers in Turkey in 2024. Most popular hashtags: #ke #fyp #csfc.
 platform: TikTok
 hits: 3661
-text_top: See the most popular TikTok profiles on inBeat.
-text_bottom: inBeat holds 3661 TikTok influencers like this in Turkey for you to pitch.
+text_top: Identify the top-rated TikTok profiles on inBeat.
+text_bottom: Our search engine aggregates 3661 TikTok influencers like this in Turkey for you to work with.
 profiles:
   - username: "ruzgarlive"
     fullname: >-

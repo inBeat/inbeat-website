@@ -1,24 +1,24 @@
 ---
-title: Top 10 Vegan Instagram Influencers In Tokyo In 2023
+title: Top 10 Vegan Instagram Influencers In Tokyo In 2024
 description: >-
-  Find top vegan Instagram influencers in Tokyo in 2023. Most popular hashtags: #vegan #feedfeed #organic #foodphotography.
+  Find top vegan Instagram influencers in Tokyo in 2024. Most popular hashtags: #vegan #sustainable #tokyo #japan.
 platform: Instagram
-hits: 11
-text_top: Identify the top-rated Instagram accounts on inBeat.
-text_bottom: Our search engine holds 11 Instagram influencers like this in Tokyo, Japan for you to pitch.
+hits: 14
+text_top: Analyze the top-rated Instagram profiles on inBeat.
+text_bottom: Our search engine holds 14 Instagram influencers like this in Tokyo, Japan for you to connect with.
 profiles:
-  - username: "meyou.mae"
+  - username: "lisainjapan"
     fullname: >-
-      Miyu 🦋Tokyo Vegan Girl みゆ
+      Lisa
     bio: >-
-      🪴 サステナブルライフクリエイター🕊 🌏 地球＆人＆動物、そして自分にも優しく。 🎥 YouTubeで社会問題解説&エコな生き方を発信中💡 👗 モデル／PRは、未来に残って欲しい物だけお受けしてます。 📝 気候変動 / SDGs / エシカルファッション / ヴィーガンコスメ…etc
+      Curious things for curious people Digital Content Manager at @tokyoweekender
     location: "Japan"
-    followers: 16238
-    engagement: 847
-    commentsToLikes: 0.018491
-    id: ck0txuox7kifh0i19d2ja2pxe
+    followers: 79865
+    engagement: 186
+    commentsToLikes: 0.012751
+    id: clple2or4xclg0k08yavi110l
     verified: false
-    hashtags: "#moodyport, #bravogreatphoto, #theworldofportraits, #tokyophotography"
+    hashtags: "#visitjapan, #discovertokyo, #afarmag, #nikonz6"
   - username: "tanno_wagashi.hk"
     fullname: >-
       たんの和菓子店・丹野ひかり
@@ -31,6 +31,30 @@ profiles:
     id: ckaozuj9wngc70i78yj9whzq6
     verified: false
     hashtags: "#japanesesweets, #chadou, #wagashi, #tokyo"
+  - username: "tokyovegangirl_miyu"
+    fullname: >-
+      Miyu🌱前本美結 Sustainable Life Creator
+    bio: >-
+      Sustainability ✴︎ Human rights ✴︎ Vegan 💁🏻‍♀️ サステナブルライフクリエイター🪄model✨ 🌱 地球と人と動物に優しい生活を発信 🧡 『できる人ができることをできるだけ』 🌏 100年後の未来に残って欲しいモノだけ 💭 @umtokyo manager
+    location: "Japan"
+    followers: 17515
+    engagement: 647
+    commentsToLikes: 0.014034
+    id: ck0txuox7kifh0i19d2ja2pxe
+    verified: false
+    hashtags: "#japan, #ftwotw, #featuremeseas, #bravogreatphoto"
+  - username: "whyte_shiori"
+    fullname: >-
+      中島潮里 Shiori Nakajima
+    bio: >-
+      Vegan Beauty salon & Vegan cafe「whyte」 Top Stylist✂︎ 海を守る為のサスティナブルアンバサダー🌍 ELLEスタイルインサイダー 自然由来で身体にも環境にも優しいコスメで自然体に過ごせるスタイルを提案🌿 #オーガニックコスメだけでメイク
+    location: "Japan"
+    followers: 66340
+    engagement: 130
+    commentsToLikes: 0.000424
+    id: ck15paft8wwc60i19jyal9jpm
+    verified: false
+    hashtags: "#celvoke, #bob, #sustainablebeauty, #veganbeauty"
   - username: "himawari_emi"
     fullname: >-
       emi
@@ -103,28 +127,4 @@ profiles:
     id: ck0vzceq68ep60i19638qqorb
     verified: true
     hashtags: "#cosmetics, #flowers, #organic, #sawai"
-  - username: "miku_colors"
-    fullname: >-
-      miku_colors
-    bio: >-
-      パンとうつわとおうちカフェ、 チョコレートを愛する食いしんぼうです。 撮影などご用の方はDMかメールにて お願いします。 Hyogo, JAPAN ☕️楽天ROOMはこちらから↓
-    location: "Japan"
-    followers: 185487
-    engagement: 109
-    commentsToLikes: 0.019680
-    id: ckaoqw5d2kok40i78fojxcazi
-    verified: false
-    hashtags: "#igersjp, #foodstagram, #onthetable, #feedfeed"
-  - username: "yutaokashi"
-    fullname: >-
-      ユータ🍪
-    bio: >-
-      ▶︎お家でお菓子ばっか焼いてる人 ▶︎不定期インスタLIVE配信中⚡ @ellegourmetjp FDC１期生 🤝アンバサダー活動↓ @foodietable.jp 🍪 @1883_jp 🍹@andersen_official_jp 🥐 & REGALO🍝 ↓簡単に作れるお菓子レシピを毎月紹介↓
-    location: "Japan"
-    followers: 33909
-    engagement: 519
-    commentsToLikes: 0.022163
-    id: ck55pl4fiasc10i11mbu9wop9
-    verified: false
-    hashtags: "#finditliveit, #mybaking, #ellegourmet, #foodforfoodies"
 ---

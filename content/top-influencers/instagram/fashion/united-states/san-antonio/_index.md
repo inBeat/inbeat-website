@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fashion Instagram Influencers In San Antonio In 2023
+title: Top 10 Fashion Instagram Influencers In San Antonio In 2024
 description: >-
-  Find top fashion Instagram influencers in San Antonio in 2023. Most popular hashtags: #fashion #sanantonio #texas #love.
+  Find top fashion Instagram influencers in San Antonio in 2024. Most popular hashtags: #texas #sanantonio #satx #fashion.
 platform: Instagram
-hits: 48
-text_top: See the best Instagram profiles on inBeat.
-text_bottom: Our database has 48 Instagram influencers like this in San Antonio, United States for you to collaborate.
+hits: 68
+text_top: Identify the top-rated Instagram profiles on inBeat.
+text_bottom: Our database aggregates 68 Instagram influencers like this in San Antonio, United States for you to connect with.
 profiles:
   - username: "brysanicks"
     fullname: >-
@@ -18,19 +18,31 @@ profiles:
     commentsToLikes: 0.066849
     id: ckf5wms83skn30j23o004u0zm
     verified: false
-    hashtags: "#satx, #rings, #londonraginternational, #londonrag"
-  - username: "isabella_radovan"
+    hashtags: "#engagementrings, #londonraginternational, #sanantoniohairstylist, #londonrag"
+  - username: "gutierrezfamilysa"
     fullname: >-
-      Isabella Radovan
+      Priscilla Gutierrez
     bio: >-
-      • Owner: @shopsayge • Sports Reporter 🎥 • 1st runner up Miss Texas USA • 1 Peter 5:7 • Texas A&M Alum
+      FASHION |TRAVEL |LIFESTYLE #sanantonioblogger www.priscillagutierrez.com Youtube.com/PriscillaGutierrez Collabs: priscillagutierrezllc@gmail.com
     location: "United States"
-    followers: 6984
-    engagement: 1058
-    commentsToLikes: 0.106733
-    id: ck5zsbcf2y6el0i143za2i7a8
+    followers: 10704
+    engagement: 208
+    commentsToLikes: 0.231941
+    id: ckt27zsxst2na0j23pgt1rygj
     verified: false
-    hashtags: "#hairstyles, #womensfashion, #photoshoot, #spring"
+    hashtags: "#space, #satx, #sanantonio, #texasbucketlist"
+  - username: "jung_sanam"
+    fullname: >-
+      Sanam Jung
+    bio: >-
+      Houston🇺🇸 KHI 🇵🇰 Actor-Host-Entrepreneur YouTube: SanamJungOfficial Work🇺🇸 : teamsanamj@gmail.com
+    location: "United States"
+    followers: 2308075
+    engagement: 85
+    commentsToLikes: 0.005833
+    id: ck13476gmv1md0i19u0xhfbui
+    verified: true
+    hashtags: "#houston, #sanamjung, #2023, #usa"
   - username: "nilaya_xoxo"
     fullname: >-
       Nilaya
@@ -42,7 +54,7 @@ profiles:
     commentsToLikes: 0.050782
     id: ck5cdapfmiu0v0i11gh5ajy5c
     verified: false
-    hashtags: "#wakeupandmakeup, #makeuptransitions, #dragcostume, #lgbtq"
+    hashtags: "#blendtherules, #birthdaybehavior, #abhcosmetics, #dragunbeautyprlist"
   - username: "lilyenxo"
     fullname: >-
       Lilyen 🙃
@@ -55,6 +67,18 @@ profiles:
     id: ck13ayv4dsuxx0i198si2dw89
     verified: false
     hashtags: "#texas, #satx, #hats, #mudvillegang"
+  - username: "oh.victoriia"
+    fullname: >-
+      Oh.Victoriia • Content Creator
+    bio: >-
+      Lifestyle + fashion y mucho mas 🤍 San Antonio, TX 💌 : partnerwithoh.victoria@gmail.com
+    location: "United States"
+    followers: 7545
+    engagement: 915
+    commentsToLikes: 0.617581
+    id: clubpiq36if930k08cuzcomkg
+    verified: false
+    hashtags: "#fashionblogger, #satxbloggers, #pinkoutfit, #sanantonioriverwalk"
   - username: "john_rozco"
     fullname: >-
       John Rozco
@@ -67,64 +91,40 @@ profiles:
     id: ck55jy586y1hy0i11g1t7njjo
     verified: false
     hashtags: "#theportraitpr0ject, #sanantoniomodel, #sonya7riv, #portraitvisuals"
-  - username: "subie.tay"
+  - username: "amaya.raeeee"
     fullname: >-
-      Tay
+      Amaya Rae 🕊
     bio: >-
-      Not fast, just furious. Twitch.tv/Subietay
+      💌 email: amayaraeh@gmail.com tiktok: @amaya.raeeee
     location: "United States"
-    followers: 6056
-    engagement: 492
-    commentsToLikes: 0.054598
-    id: ckap4fmgx75z50i78o4zoka1s
+    followers: 9188
+    engagement: 461
+    commentsToLikes: 0.056713
+    id: ck14hvol9ccyd0i19lzcmo7ip
     verified: false
-    hashtags: "#twitch, #egirl, #codmobile, #onlyfanz"
-  - username: "marilynchihuahua"
+    hashtags: "#outfitideas, #monatpartner, #monatcurls, #curlyhair"
+  - username: "heyitsrubee"
     fullname: >-
-      Marilyn Chihuahua
+      Ruby Frias
     bio: >-
-      Fashion | Canine Enrichment | Training Tips 📍San Antonio Local 🏅 Trick dog ⬇️Join me on my adventures
+      🎀 fashion + motherhood + everyday life 🎀 📍san antonio, tx ✉️ hey.itsrubee@yahoo.com shop my outfits ⬇️ discount codes
     location: "United States"
-    followers: 6785
-    engagement: 564
-    commentsToLikes: 0.078113
-    id: ck9h9o3jf99la0j78ir8c0nhm
+    followers: 77473
+    engagement: 97
+    commentsToLikes: 0.045280
+    id: ck0tvj2gzbkux0i19dw871myi
     verified: false
-    hashtags: "#nationalhotcocoaday, #inthistogether, #tongueouttuesday"
-  - username: "pick_fitness"
+    hashtags: "#cowgirlstyle, #westernoutfit, #momlife, #cowgirlchic"
+  - username: "texan_belle"
     fullname: >-
-      Pick Fitness - Will Pickering
+      Kelsey Campbell
     bio: >-
-      💪🏼 Increase Fitness & Overall Health 🌽 NE >>> 🤠 San Antonio, TX 👇🏼| Join My Free FB Group
+      »»——⍟——«« Everyday Extra ✧ Fashion ✧ Travel ✧ Lifestyle ✧ San Antonio, Texas DM or E-Mail KJ@texanbelle.com
     location: "United States"
-    followers: 7226
-    engagement: 541
-    commentsToLikes: 0.023869
-    id: ck9we8zsoj7140j78go2xl6sa
+    followers: 31291
+    engagement: 87
+    commentsToLikes: 0.124664
+    id: cl8h9c10p4u5h0i23oryykgpo
     verified: false
-    hashtags: "#fitspiration, #workoutvideo, #fitfam, #changinglives"
-  - username: "mamacita__marie"
-    fullname: >-
-      Marie 🇵🇹
-    bio: >-
-      ONLY ACCOUNT‼️ 📍San Antonio, TX Army-Career Counselor 🇺🇸 #californiaraised I ❤️ #memes ~in my story
-    location: "United States"
-    followers: 14806
-    engagement: 715
-    commentsToLikes: 0.067654
-    id: ck8taordusj2a0j78k07r24nz
-    verified: false
-    hashtags: "#quarantinelife, #fitness, #goals, #instagood"
-  - username: "dgafpanda"
-    fullname: >-
-      Alex Lee Charles
-    bio: >-
-      🔹 San Antonio, TX 🤠 🔹 Freelance #MUA 💄 🔹 468k+ Views on Youtube 🎥
-    location: "United States"
-    followers: 19801
-    engagement: 723
-    commentsToLikes: 0.018003
-    id: ck6toys5tguxm0j71s4gc4hbv
-    verified: false
-    hashtags: "#hypnaughtypower, #makeupartistworldwide, #makeuptutorial, #love"
+    hashtags: "#exploretexas, #gigipip, #satx, #sansabatx"
 ---

@@ -1,24 +1,12 @@
 ---
-title: Top 10 Painters Instagram Influencers In Ukraine In 2023
+title: Top 10 Painters Instagram Influencers In Ukraine In 2024
 description: >-
-  Find top painters Instagram influencers in Ukraine in 2023. Most popular hashtags: #pinterest #ukraine #art #photo.
+  Find top painters Instagram influencers in Ukraine in 2024. Most popular hashtags: #ukraine #pinterest #spring #makeup.
 platform: Instagram
-hits: 8
-text_top: Discover the best Instagram accounts on inBeat.
-text_bottom: Our database holds 8 Instagram influencers like this in Ukraine for you to connect with.
+hits: 9
+text_top: Analyze the best Instagram profiles on inBeat.
+text_bottom: inBeat holds 9 Instagram influencers like this in Ukraine for you to connect with.
 profiles:
-  - username: "annarozputnia"
-    fullname: >-
-      Анна Розпутняя
-    bio: >-
-      Painter, Actress, Singer✨ Artworks @rozputniaartworks My music ROZPUTNIA Fresh video on YouTube page⬇️
-    location: "Ukraine"
-    followers: 32804
-    engagement: 117
-    commentsToLikes: 0.073165
-    id: ck5bvysmlko0c0i11elsl34ti
-    verified: false
-    hashtags: "#painter, #closeup, #lizaonair, #rozputniaartworks"
   - username: "sadova_art"
     fullname: >-
       IRYNA SADOVA®
@@ -67,6 +55,18 @@ profiles:
     id: ck9wfxqlwqz7d0j78gnkrflws
     verified: false
     hashtags: "#instacrochet, #grannysquare, #shawl, #lovecrochet"
+  - username: "anamarkovych"
+    fullname: >-
+      Ana Markovych
+    bio: >-
+      ✨there is a hidden beauty in every moment; the trick is to see it. montreal 🇨🇦 anamarkovych.pr@gmail.com my lightroom presets here ↓
+    location: "Ukraine"
+    followers: 118249
+    engagement: 1954
+    commentsToLikes: 0.010271
+    id: ck0w4i0abynva0i19dbrkq8ll
+    verified: false
+    hashtags: "#softgirl, #parisianlook, #apartmenttherapy, #softgirlaesthetic"
   - username: "mrz_viktoriya_"
     fullname: >-
       KARMA IS A BITCH😈💔🔥
@@ -91,6 +91,18 @@ profiles:
     id: ck8t95piumz050j785trkvvxg
     verified: false
     hashtags: "#pinterestaesthetic, #pinterestaesthetics, #pinterest, #07"
+  - username: "daryatutova"
+    fullname: >-
+      Darya Tutova
+    bio: >-
+      • visual aesthetic | lifestyle | photography • founder @the101notes • Ukrainian 🇺🇦 | Dubai based
+    location: "Ukraine"
+    followers: 651
+    engagement: 802
+    commentsToLikes: 0.045878
+    id: ck5hsqe27x0mz0i11o8pzco1j
+    verified: false
+    hashtags: "#dubaistreetstyle, #dubailifestyle, #mydubai, #dubaiphotography"
   - username: "janna_evstafeva"
     fullname: >-
       ЖАННА ЕВСТАФЬЕВА

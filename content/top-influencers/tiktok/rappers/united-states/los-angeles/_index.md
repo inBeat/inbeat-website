@@ -1,11 +1,11 @@
 ---
-title: Top 10 Rappers TikTok Influencers In Los Angeles In 2023
+title: Top 10 Rappers TikTok Influencers In Los Angeles In 2024
 description: >-
-  Find top rappers TikTok influencers in Los Angeles in 2023. Most popular hashtags: #fyp #losangeles #viral #foryou.
+  Find top rappers TikTok influencers in Los Angeles in 2024. Most popular hashtags: #fyp #losangeles #foryou #viral.
 platform: TikTok
 hits: 16
-text_top: Analyze the top-rated TikTok influencers on inBeat.
-text_bottom: Our platform holds 16 TikTok influencers like this in Los Angeles, United States for you to collaborate.
+text_top: See the most popular TikTok accounts on inBeat.
+text_bottom: Our search engine has 16 TikTok influencers like this in Los Angeles, United States for you to work with.
 profiles:
   - username: "tiktoksecurityguard0"
     fullname: >-
@@ -43,18 +43,18 @@ profiles:
     id: ckbf85xb3yh310j23bb0b7ijl
     verified: false
     hashtags: "#funny, #notviral, #fyp, #miami"
-  - username: "mcbreeezy84"
+  - username: "tennbuick"
     fullname: >-
-      4pf Mar 💵
+      Tenn Buick
     bio: >-
-      Comedian, dancer, rapper, trapper Sponsored by ADIDAS
+      I’m your favorite rapper, you just don’t know it yet Tip Tip Barsa Paani 🌧👇🏽
     location: "United States"
-    followers: 24400
-    engagement: 1406
-    commentsToLikes: 0.119702
-    id: ckd17b2deoi9w0j23f9754p3k
+    followers: 165300
+    engagement: 890
+    commentsToLikes: 0.058270
+    id: ckavrnqc83pba0j23vdgzeajd
     verified: false
-    hashtags: "#school, #213, #bayarea, #mcbreeezy84"
+    hashtags: "#90skid, #millennial, #misunderstanding, #westindies"
   - username: "starrlyfe247"
     fullname: >-
       Starr Lyfe
@@ -78,7 +78,7 @@ profiles:
     commentsToLikes: 0.080133
     id: ckb9b632wx2c10j23x2v4wu9y
     verified: false
-    hashtags: "#raptiktok, #wordsofwisdom, #blacktiktok, #jokes"
+    hashtags: "#blacktiktok, #wordsofwisdom, #lildurk, #california"
   - username: "ithinkmylifeisadream"
     fullname: >-
       mim1018
@@ -102,7 +102,7 @@ profiles:
     commentsToLikes: 0.146111
     id: cka9kqriq0wm80i78uso2lhyg
     verified: false
-    hashtags: "#foryourpage, #viral, #sport, #girl"
+    hashtags: "#workout, #4u, #hiphop, #fyp"
   - username: "chlorofella"
     fullname: >-
       Brandon Brown
@@ -114,7 +114,7 @@ profiles:
     commentsToLikes: 0.052302
     id: ck8qmy95ss97w0j78oho86rq4
     verified: false
-    hashtags: "#artistsoftiktok, #blacklivesmatter, #fyp, #viral"
+    hashtags: "#art, #blacklivesmatter, #whitetiktok, #comedy"
   - username: "shotbyjuliann"
     fullname: >-
       Young Legend

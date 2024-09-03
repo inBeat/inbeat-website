@@ -1,11 +1,11 @@
 ---
-title: Top 10 Health Instagram Influencers In Osaka In 2023
+title: Top 10 Health Instagram Influencers In Osaka In 2024
 description: >-
-  Find top health Instagram influencers in Osaka in 2023. Most popular hashtags: #pr #instafashion #ootd.
+  Find top health Instagram influencers in Osaka in 2024. Most popular hashtags: #ootd #tokyo #pr.
 platform: Instagram
-hits: 4
-text_top: Identify the best Instagram accounts on inBeat.
-text_bottom: Our platform holds 4 Instagram influencers like this in Osaka, Japan for you to contact.
+hits: 5
+text_top: Discover the top-rated Instagram profiles on inBeat.
+text_bottom: Our search engine holds 5 Instagram influencers like this in Osaka, Japan for you to connect with.
 profiles:
   - username: "__nnm09"
     fullname: >-
@@ -19,6 +19,18 @@ profiles:
     id: ck15qqovh46ri0i1994uowwk2
     verified: false
     hashtags: "#l4l, #lawgy, #fff, #instagood"
+  - username: "nhkworldjapan"
+    fullname: >-
+      NHK WORLD-JAPAN
+    bio: >-
+      Follow us for the latest from Japan! Official account of NHK, Japan’s public broadcaster. Terms: www3.nhk.or.jp/nhkworld/en/terms 👇 Link of the Month👇
+    location: "Japan"
+    followers: 337612
+    engagement: 97
+    commentsToLikes: 0.011497
+    id: ck5qatz4ii8mr0i11wtwk7vgx
+    verified: true
+    hashtags: "#learnjapanese, #animeartist, #japaneseanime, #traveljapan"
   - username: "shin_kuroobisan"
     fullname: >-
       黒帯さん^ ^
@@ -55,18 +67,42 @@ profiles:
     id: ck0w6lg5c950l0i19ivtszcm3
     verified: false
     hashtags: "#livethelittlethings, #flowerpower, #still, #love"
+  - username: "tabesugita"
+    fullname: >-
+      PIO・ピオ
+    bio: >-
+      designer @2098.official director @sukisugita mental health advocate Player 2 OUT NOW!
+    location: "Japan"
+    followers: 19349
+    engagement: 349
+    commentsToLikes: 0.013533
+    id: ckf5vv4aoq0dp0j23f2jgilm7
+    verified: false
+    hashtags: ""
   - username: "gabrielasage"
     fullname: >-
       Gabby Sage Masuda
     bio: >-
-      Japanese American Model Represented by @minellimanagement Mindful living Mental Health Advocate
+      Japanese American 🌈 Represented by @minellimanagement Mindful living Mental Health Advocate 🫶🏻 Gabby.masuda@gmail.com
     location: "Japan"
-    followers: 25194
-    engagement: 344
-    commentsToLikes: 0.029850
+    followers: 24531
+    engagement: 216
+    commentsToLikes: 0.012930
     id: ck14jntl0lafx0i19ix71idmh
     verified: false
-    hashtags: "#lavendarhair, #lavendarroots, #sundayrileypartner, #sundayswap"
+    hashtags: "#sundayrileypartner, #sundayswap, #skinbysunday, #supergooppartner"
+  - username: "daianaanghel"
+    fullname: >-
+      DAIANA Anghel
+    bio: >-
+      • Communication & Brand Strategy • Skincare Expert • Elle New Media Awards 2020 winner 🏆- Beauty & Health • 0 tolerance for haters
+    location: "Japan"
+    followers: 222031
+    engagement: 196
+    commentsToLikes: 0.013405
+    id: ck5bzyq7ss3jf0i110q4wly88
+    verified: false
+    hashtags: "#winter, #powercouple, #powercoupleromania, #skincaretips"
   - username: "xobearhugs"
     fullname: >-
       🐻🌱🌸💕
@@ -79,18 +115,6 @@ profiles:
     id: ck5q69hddwix00i11rfuqbahr
     verified: false
     hashtags: ""
-  - username: "taylor_lovee"
-    fullname: >-
-      TAYLOR LOVE |Love Inside & Out
-    bio: >-
-      👋🏻🤍sharing daily style, beauty, & wellness to inspire love from the inside-out! holistic health & living fully 💍@dyl.jp + Bozeman, MT🏔+ 🐶🐶💕 blog👇🏻
-    location: "Japan"
-    followers: 117005
-    engagement: 204
-    commentsToLikes: 0.040832
-    id: ck0w2og84peih0i19iayfjkxx
-    verified: false
-    hashtags: "#ad, #montanasummer, #liketkit, #wedding"
   - username: "kuuu.kumiko"
     fullname: >-
       Kumiko Suzuki  鈴木久美子
@@ -103,28 +127,4 @@ profiles:
     id: ckap4ky277r6y0i78yzmchql7
     verified: false
     hashtags: "#lifestyle, #fashion, #beautiful, #health"
-  - username: "daianaanghel"
-    fullname: >-
-      DAIANA Anghel
-    bio: >-
-      • Communication & Brand Strategy • Skincare Advisor • Elle New Media Awards 2020 winner 🏆- Beauty & Health
-    location: "Japan"
-    followers: 199705
-    engagement: 515
-    commentsToLikes: 0.006491
-    id: ck5bzyq7ss3jf0i110q4wly88
-    verified: false
-    hashtags: "#toplineromania, #ad, #makelifebetterathome, #skincarefirst"
-  - username: "moeoshikiri"
-    fullname: >-
-      Moe Oshikiri.   押切もえ
-    bio: >-
-      モデル・文筆家 お仕事のご依頼は所属事務所（株）pearl へお願いします。 Fashion&Beauty, Cooking,Art,Healthy&natural lifestyle YouTube↓ 資格…#ワインエキスパート #アスリートフードマイスター
-    location: "Japan"
-    followers: 109708
-    engagement: 174
-    commentsToLikes: 0.022739
-    id: ck0vzceq68ep60i19638qqorb
-    verified: true
-    hashtags: "#cosmetics, #flowers, #organic, #sawai"
 ---

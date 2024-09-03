@@ -1,130 +1,130 @@
 ---
-title: Top 10 Models Instagram Influencers In Switzerland In 2023
+title: Top 10 Models Instagram Influencers In Switzerland In 2024
 description: >-
-  Find top models Instagram influencers in Switzerland in 2023. Most popular hashtags: #switzerland #portrait #photoshoot #model.
+  Find top models Instagram influencers in Switzerland in 2024. Most popular hashtags: #switzerland #summer #ootd #love.
 platform: Instagram
-hits: 85
-text_top: Identify the top-rated Instagram accounts on inBeat.
-text_bottom: Our search engine aggregates 85 Instagram influencers like this in Switzerland for you to work with.
+hits: 111
+text_top: See the best Instagram profiles on inBeat.
+text_bottom: Our database aggregates 111 Instagram influencers like this in Switzerland for you to work with.
 profiles:
-  - username: "flawenty"
+  - username: "thib_magnin"
     fullname: >-
-      Angelina Lau 福
+      THIBAULT MAGNIN
     bio: >-
-      model | social media marketing ✘ lemme be yo manager @creation.more ceo | founder @flamore.ch @rauch2000
+      TROPICAL WINTER Professional Skier | Olympian | Model Made In Spain & Swiss @Quiksilver @rfedinv @Movementskis @Audispain @Movistar_es @girosnow 🌴
     location: "Switzerland"
-    followers: 44561
-    engagement: 244
-    commentsToLikes: 0.016384
-    id: ck8wg7mnpgv6l0j787e3hnkxk
+    followers: 69047
+    engagement: 1166
+    commentsToLikes: 0.010813
+    id: ck5c5x6vf4b4n0i11o9zvf7dt
+    verified: true
+    hashtags: "#rd, #freeskiing, #lasterrenas, #tropicalwinter"
+  - username: "itsmarinasummer"
+    fullname: >-
+      Marina
+    bio: >-
+      Swiss Model📍ZH | Marketing @arosakulmhotel etc.✨| Brand ambassador @lancomeofficial @kerastase_official @any_di_munich @pkz.ch
+    location: "Switzerland"
+    followers: 11227
+    engagement: 325
+    commentsToLikes: 0.158856
+    id: ck6u73ygljc490j71wr063xg4
     verified: false
-    hashtags: "#sunday, #thatslaw, #zurichfilmfestival, #movingfast"
-  - username: "angelsaurora"
+    hashtags: "#swissmodel, #esteelauderswitzerland, #fashion, #makeup"
+  - username: "ninaburriofficial"
     fullname: >-
-      𝐀𝐮𝐫𝐨𝐫𝐚
+      Nina Burri
     bio: >-
-      From Switzerland🇨🇭| TI Swiss girl | Model 1,78 m
+      Contortionist 🐍 Actress 🎥 Model 📸 „Wetterfee“ / Swiss TV weather presenter 📺 Based in Switzerland 🇨🇭 ninaburri.com Bookings: ninaburri@gmail.com
     location: "Switzerland"
-    followers: 40202
-    engagement: 600
-    commentsToLikes: 0.425843
-    id: ckap24mwwxcl10i78d4d1wte6
-    verified: false
-    hashtags: "#brunette, #swimsuit, #fashiondiaries, #instafit"
-  - username: "alina.victoria06"
+    followers: 30406
+    engagement: 303
+    commentsToLikes: 0.030532
+    id: ck8swefjsdv840j789xz7y932
+    verified: true
+    hashtags: "#ninaburri, #schlangenfrau, #sicily, #flexible"
+  - username: "jangudde"
     fullname: >-
-      𝑨𝒍𝒊𝒏𝒂 𝑪𝒂𝒓𝒃𝒐𝒏𝒊 🅾︎🅵🅵🅸🅲🅸🅰︎🅻
+      🌿 J A N  G U D D E 🌿
     bio: >-
-      💥Model, Dancer, gymnast💥 🥇Swiss champion RG2019🥇 Ambassador @balletclub_ Agency @hip4kidz I speak 🇫🇷 🇬🇧 🇷🇺 🇩🇪 (little) Member @teamsportgala
+      📍SWISS/ DUTCH 🇨🇭🇳🇱 🍼 FATHER OF ZAYA MABLE 📸 FASHION MODEL ⚡️ AMBASSADOR @opel.ch 📽 ACTOR @modelsandfriends2018 🪚 OWNER OF JG FURNITURE
     location: "Switzerland"
-    followers: 40560
-    engagement: 794
-    commentsToLikes: 0.065101
-    id: ck8tb3u7vu5pa0j785agbvrb4
-    verified: false
-    hashtags: "#mytravelalina, #internationalteenmodels, #wlyg, #tsga"
-  - username: "model_dg_"
-    fullname: >-
-      FASHION | BEAUTY | PORTRAIT
-    bio: >-
-      📸 @facesmodels_ ©️ @bali_brunchsuisse 📍 St. Gallen | Zürich | München 💻 daniela.graf.model@gmail.com
-    location: "Switzerland"
-    followers: 19338
-    engagement: 389
-    commentsToLikes: 0.145294
-    id: ck13c1wyky7zh0i190aek2hfv
-    verified: false
-    hashtags: "#urbex, #swissmodel, #munichgermany, #sensual"
-  - username: "josevitari"
-    fullname: >-
-      Josevi Tari
-    bio: >-
-      🇪🇸Spanish Model 📍 Zurich, Switzerland🇨🇭 📸 Men's Fashion & Lifestyle 🌍 Love Travelling around the world. photographer:📸📲📩
-    location: "Switzerland"
-    followers: 43474
+    followers: 57635
     engagement: 249
-    commentsToLikes: 0.360018
-    id: ck5hjldijgtwo0i114h28ac9n
+    commentsToLikes: 0.113954
+    id: ck5pwssmpof1p0i11o9igo68a
     verified: false
-    hashtags: "#dapperlydone, #dappermen, #menfashiontips, #tailoredsuit"
-  - username: "trillprime"
+    hashtags: "#mensstyle, #migroschind, #malemodel, #berge"
+  - username: "dr_laetitiaguarino"
     fullname: >-
-      FASHION BLOGGER
+      𝐃𝐫. 𝐋𝐚𝐞𝐭𝐢𝐭𝐢𝐚 𝐆𝐮𝐚𝐫𝐢𝐧𝐨
     bio: >-
-      🇨🇩🇦🇴 📩 david.ndala444@gmail.com Dm for Collaboration 📍Zürich Switzerland 📸Model
+      Medical Doctor | 🇨🇭🇮🇹🦂 𝑃𝑙𝑎𝑠𝑡𝑖𝑐 & 𝑅𝑒𝑐𝑜𝑛𝑠𝑡𝑟𝑢𝑐𝑡𝑖𝑣𝑒 𝑠𝑢𝑟𝑔𝑒𝑟𝑦 𝑅𝑒𝑠𝑖𝑑𝑒𝑛𝑡 Miss Switzerland 2015 | Model 𝘚𝘦𝘵 𝘨𝘰𝘢𝘭𝘴, 𝘴𝘢𝘺 𝘱𝘳𝘢𝘺𝘦𝘳𝘴, 𝘸𝘰𝘳𝘬 𝘩𝘢𝘳𝘥.
     location: "Switzerland"
-    followers: 16279
-    engagement: 1694
-    commentsToLikes: 0.040912
-    id: ck6tmv4al8laf0j71jxpa9d41
+    followers: 21954
+    engagement: 228
+    commentsToLikes: 0.011703
+    id: ck6ufo6wny6700j71lqyqgx7g
     verified: false
-    hashtags: "#zalando, #nike, #hhstyle, #laflame"
-  - username: "marieschoenmann"
+    hashtags: "#quote, #switzerland, #milano, #italiansummer"
+  - username: "sherryforeign"
     fullname: >-
-      Marie Schönmann| Actress Model
+      Sherry Foreign
     bio: >-
-      International Model/Actress/⛸FigureSkater/🧜Swimmer📍🇨🇭 12yo ✝️ 🗣️🇫🇷🇬🇧🇩🇪 Agency @kidslondon @modamodakids @onetreeplanted ambassador Run by my parents
+      Model | Actress Miami | New York | Los Angeles | Zurich jbpbookings@gmail.com
     location: "Switzerland"
-    followers: 107425
-    engagement: 308
-    commentsToLikes: 0.048172
-    id: ck5bxdvbynjax0i11zxm24ise
+    followers: 107190
+    engagement: 128
+    commentsToLikes: 0.047735
+    id: ckqq5z4nuwqvk0j23xs041igb
     verified: false
-    hashtags: "#purpledress, #bareface, #makeupfree, #blueeyedbeauty"
-  - username: "shunsukecos"
+    hashtags: "#miamimua, #makeupartist, #signaturlook, #novababe"
+  - username: "scooby75"
     fullname: >-
-      Shunsuke
+      MICHAEL WALTER 🇨🇭SCHWEIZ
     bio: >-
-      Model, Coser and Self-photographer | 23 | 🇨🇭
+      ★ Grüezi aus der #schweiz 🇨🇭Swiss Entrepreneur & #worldtraveller 📸 Model & Content Creator 📍 #schaffhausen
     location: "Switzerland"
-    followers: 269637
-    engagement: 1427
-    commentsToLikes: 0.004861
-    id: ck6twj3c2sa8p0j71w4rrad8q
+    followers: 179765
+    engagement: 84
+    commentsToLikes: 0.083349
+    id: ck8t3j2lr3fbg0j784b4pbtbi
     verified: false
-    hashtags: "#naruto, #toxic, #sasuke, #britneyspears"
-  - username: "lucy_zzz"
+    hashtags: "#menstyle, #malemodels, #shooting, #couplegoals"
+  - username: "coccoslife_"
     fullname: >-
-      ✨LU✨
+      Cocco
     bio: >-
-      💙Eyeballtattoo Tattoomodel 🖤 Erotic Model Bookings per DM Adult videos on “Of” dm=link Dieser Körper ist die Vase meiner Seele🔮
+      👩 SUI🇨🇭 | 29 y. | 1.77 ♎️ libra ✈️ travel @coccos_travelblog 📸 model 💬 DM for shot (Fotoshooting) / Collab or Mail
     location: "Switzerland"
-    followers: 28097
-    engagement: 347
-    commentsToLikes: 0.032923
-    id: ck5bvc1pajdcf0i11s89j9r47
+    followers: 77651
+    engagement: 49
+    commentsToLikes: 0.016907
+    id: ck8t2u5wz0py50j78egbg8owv
     verified: false
-    hashtags: "#italia, #bluesky, #milano, #mountains"
-  - username: "francesca_dmodel"
+    hashtags: "#2023, #december, #model, #winter"
+  - username: "stevenepprecht"
     fullname: >-
-      Francesca
+      Steven Epprecht
     bio: >-
-      Pro Photomodel Based in Zürich📍 For bookings: DM/email📩 Agency @creative.models.agency @modelsklickofficial
+      model, content creator & entrepreneur 📝 co-founder @social_leaders.ch 📍 zurich🇨🇭 📩 management@social-leaders.ch
     location: "Switzerland"
-    followers: 40599
-    engagement: 207
-    commentsToLikes: 0.029447
-    id: ckf5lxc6lrejq0j23fklw7sao
+    followers: 287564
+    engagement: 34
+    commentsToLikes: 0.001415
+    id: ck0vw48zes1a00i1911sf0zrz
     verified: false
-    hashtags: "#photography, #portrait, #model, #photoshoot"
+    hashtags: "#mensfashion, #ootd, #capetown, #greece"
+  - username: "simona.sgier"
+    fullname: >-
+      Simona Sgier
+    bio: >-
+      Based in Switzerland🇨🇭 Influencer | Model | UGC | Content Creator | Brand Ambassador for @mercedesbenzvans_ch @lidlch @garmin_beatyesterday
+    location: "Switzerland"
+    followers: 24476
+    engagement: 11
+    commentsToLikes: 0.004018
+    id: ck14l0usksb0i0i19wy6nj75o
+    verified: false
+    hashtags: "#wearetravelgirls, #reels, #winterinswitzerland, #swiss"
 ---

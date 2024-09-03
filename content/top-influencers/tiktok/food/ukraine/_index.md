@@ -1,11 +1,11 @@
 ---
-title: Top 10 Food TikTok Influencers In Ukraine In 2023
+title: Top 10 Food TikTok Influencers In Ukraine In 2024
 description: >-
-  Find top food TikTok influencers in Ukraine in 2023. Most popular hashtags: #food #funny #yummy #dessert.
+  Find top food TikTok influencers in Ukraine in 2024. Most popular hashtags: #food #funny #dessert.
 platform: TikTok
 hits: 17
-text_top: See the most popular TikTok influencers on inBeat.
-text_bottom: Our database has 17 TikTok influencers like this in Ukraine for you to connect with.
+text_top: Analyze the most popular TikTok profiles on inBeat.
+text_bottom: Our platform holds 17 TikTok influencers like this in Ukraine for you to connect with.
 profiles:
   - username: "kukhtin.pro"
     fullname: >-

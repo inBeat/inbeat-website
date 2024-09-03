@@ -1,11 +1,11 @@
 ---
-title: Top 10 Gymnasts TikTok Influencers In Brazil In 2023
+title: Top 10 Gymnasts TikTok Influencers In Brazil In 2024
 description: >-
-  Find top gymnasts TikTok influencers in Brazil in 2023. Most popular hashtags: #foryou #gymnastics #fyp #fy.
+  Find top gymnasts TikTok influencers in Brazil in 2024. Most popular hashtags: #foryou #gymnastics #fyp #fy.
 platform: TikTok
 hits: 19
-text_top: Identify the most popular TikTok profiles on inBeat.
-text_bottom: inBeat aggregates 19 TikTok influencers like this in Brazil for you to work with.
+text_top: Discover the most popular TikTok accounts on inBeat.
+text_bottom: Our search engine holds 19 TikTok influencers like this in Brazil for you to work with.
 profiles:
   - username: "aninhabaracho"
     fullname: >-

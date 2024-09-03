@@ -1,12 +1,60 @@
 ---
-title: Top 10 Health Instagram Influencers In Melbourne In 2023
+title: Top 10 Health Instagram Influencers In Melbourne In 2024
 description: >-
-  Find top health Instagram influencers in Melbourne in 2023. Most popular hashtags: #melbourne #australia #health #love.
+  Find top health Instagram influencers in Melbourne in 2024. Most popular hashtags: #reels #health #melbourne #fitness.
 platform: Instagram
-hits: 29
-text_top: Identify the best Instagram accounts on inBeat.
-text_bottom: inBeat aggregates 29 Instagram influencers like this in Melbourne, Australia for you to contact.
+hits: 51
+text_top: Discover the most popular Instagram profiles on inBeat.
+text_bottom: Our platform aggregates 51 Instagram influencers like this in Melbourne, Australia for you to collaborate.
 profiles:
+  - username: "eatoutwithjo"
+    fullname: >-
+      Jo | Melbourne Foodie | 🇦🇺
+    bio: >-
+      💌 DM for Collabs/Invites
+    location: "Australia"
+    followers: 8953
+    engagement: 459
+    commentsToLikes: 0.264503
+    id: ck5zsfy6pyf7g0i14jsqqyod4
+    verified: false
+    hashtags: "#melbourne, #homecookingrocks, #melbournelife, #foodieheaven"
+  - username: "taylorkenz_"
+    fullname: >-
+      Taylor / lifestyle & Fitness
+    bio: >-
+      Australia Love sharing my passion for health, fitness, and lifestyle @ryderwear - ‘TAYLOR’ Freelance Model J🤍
+    location: "Australia"
+    followers: 26330
+    engagement: 170
+    commentsToLikes: 0.017218
+    id: clb7mp0rx6c4i0i2391ez3jqr
+    verified: false
+    hashtags: "#activewear, #athleisure, #bikini, #photoshoot"
+  - username: "nikitomic"
+    fullname: >-
+      NIKOLINA TOMIĆ
+    bio: >-
+      Everything happens for a reason ✨ @rent.anoutfit
+    location: "Australia"
+    followers: 94375
+    engagement: 776
+    commentsToLikes: 0.007236
+    id: cloqu3lkch3c50j0864h303dk
+    verified: false
+    hashtags: "#reels, #girl, #fitcheck, #luxurylifestyle"
+  - username: "ateaspoonofstyle"
+    fullname: >-
+      Tanaka Tarou
+    bio: >-
+      👦 Short Asian trying to be stylish but really just eating away his feelings 📷 Lifestyle/Fashion/Food/Content Creation 📍 SYD,🇦🇺 ✉️DM or Email to collab
+    location: "Australia"
+    followers: 30201
+    engagement: 175
+    commentsToLikes: 0.218128
+    id: ck15seuspcnp30i19ut0843ge
+    verified: false
+    hashtags: "#foodstyling, #sydneybars, #sydneylocal, #dapper"
   - username: "janinacorsi"
     fullname: >-
       ✨ 𝕵𝖆𝖓𝖎𝖓𝖆 𝖈𝖔𝖗𝖘𝖎 🌹🦋
@@ -18,7 +66,19 @@ profiles:
     commentsToLikes: 0.032121
     id: ckap90tueqq8n0i78yengt8y3
     verified: false
-    hashtags: "#dye, #dyebreeze, #dyeexcel, #doyoueven"
+    hashtags: "#dyethankyousale, #dye, #dyebreeze, #dyeexcel"
+  - username: "therealfrequentflyer"
+    fullname: >-
+      Guy Dupuy 6"3 🇫🇷🇸🇳🇺🇸🇦🇺
+    bio: >-
+      Athlete 🦄| ceo of no.rest.for.greatness.llc @pacificdreamscollective @pro_ball_today_ac 📍MIA | melb🦘| Paris93
+    location: "Australia"
+    followers: 160830
+    engagement: 57
+    commentsToLikes: 0.004334
+    id: ck5zr7grhw1ys0i14036bac4e
+    verified: true
+    hashtags: "#nbl1, #bigv, #nike, #australia"
   - username: "ivan_krslovic"
     fullname: >-
       Ivan Krslovic
@@ -31,100 +91,40 @@ profiles:
     id: ck0tvihwrbi5r0i19vhu60xzb
     verified: false
     hashtags: "#grateful, #happy, #fit, #health"
-  - username: "angelius_wings"
+  - username: "doctor_karl"
     fullname: >-
-      ANGELIUS WINGS/ ADVENTURER
+      Dr Karl Kruszelnicki
     bio: >-
-      MY ADVENTURES AROUND THE 🌏 📍Melbourne,Australia🇦🇺 GOOD VIBES...ONLY MENTAL HEALTH ADVOCATE 👂🏽 ITA - SPA -ENG -FREN
+      Australian science broadcaster & author Dr Karl Kruszelnicki: “The Rule used to be 'f8, Kodachrome and Be There'. Now it's just 'Be There'.”
     location: "Australia"
-    followers: 49787
-    engagement: 276
-    commentsToLikes: 0.368757
-    id: ck8wfd7eyfjz70j78ylwed4s8
+    followers: 111526
+    engagement: 153
+    commentsToLikes: 0.040545
+    id: ck8szohw3p55p0j78solpsavj
     verified: false
-    hashtags: "#adventure, #hike, #beautifulplaces, #destinations"
-  - username: "kiara.paige"
+    hashtags: "#geekprideday, #turbiditycurrent, #michaeljordan, #greatestmomentsinscience"
+  - username: "milesfyfe__"
     fullname: >-
-      ＫＩＡＲＡ ＰＡＩＧＥ 🕊𝑀𝑜𝒹𝑒𝓁
+      Miles 🦋
     bio: >-
-      ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯ 🤍 | Passion for Fashion, Fitness & Beauty 🖤 | Melbourne ~ Australia 🤍 | Agent Danielle @ikonickids
+      MOTHERHOOD | KIDS | FASHION | MENTAL HEALTH 🦋 real motherhood 🦋 four kids 👧🏼👧🏼👧🏼👦💍 MELBOURNE VIC - DM TO COLLAB
     location: "Australia"
-    followers: 11891
-    engagement: 558
-    commentsToLikes: 0.195636
-    id: ck13chikg0dfi0i19k7otgu8m
+    followers: 40346
+    engagement: 2348
+    commentsToLikes: 0.086638
+    id: clnhuj1emij530j08tbchu5aa
     verified: false
-    hashtags: "#melbournemodel, #goldenhour, #australianmodel, #blondemodel"
-  - username: "sarahjaneroza"
+    hashtags: "#reelvideo, #reels, #mumlife, #honestmum"
+  - username: "chloesacco.cmc"
     fullname: >-
-      SARAH ROZA
+      Chloe Sacco
     bio: >-
-      🎥TV+Radio 🎤Host 🌟Brand Ambassador #Hair #Beauty #Fashion #Makeup #Health #Mafs 📍Melb, AUS 🇦🇺 📧For Collaborations please email below⬇️ 📺YouTube Channel
+      🎀 Girly Mumma: Cassia, Charlize, Myla 💫 Founder/Creator @cmc.gold ™️ 📍 Melbourne, Aus
     location: "Australia"
-    followers: 371172
-    engagement: 168
-    commentsToLikes: 0.032323
-    id: ck5cl1ocoy2jm0i112ylzgnqh
-    verified: true
-    hashtags: "#fun, #cosmetics, #queen, #curvy"
-  - username: "sincerelynursejen"
-    fullname: >-
-      Jen, B.N, RN, MACN👩‍⚕️
-    bio: >-
-      📍| melbourne, australia || she/her 🩺| grad registered nurse || #healthcareteammate 🫀| 1st rotation: cardiology 🌟| @bodybuddiesau ambassador
-    location: "Australia"
-    followers: 30850
-    engagement: 188
-    commentsToLikes: 0.034546
-    id: ck8t1itrfvxs40j78gja7l3f0
+    followers: 22382
+    engagement: 376
+    commentsToLikes: 0.129680
+    id: cksjxnq4actjb0j23t0ofm0vw
     verified: false
-    hashtags: "#inspiration, #womeninmedicine, #studyblr, #studycommunity"
-  - username: "julianaandrea_m"
-    fullname: >-
-      Juliana Mendoza Australia
-    bio: >-
-      #Mum | #Travel Joy, fun & Nature addict. #Health lover. Come laugh with me Let’s talk 👇🏽 📧 julianamonline@gmail.com 🇦🇺🇨🇴
-    location: "Australia"
-    followers: 92253
-    engagement: 41
-    commentsToLikes: 0.090387
-    id: ck5qa6fxsesdp0i1117dfro1o
-    verified: false
-    hashtags: "#australiatrip, #dametraveler, #sydneyblogger, #nt"
-  - username: "farhanamuna"
-    fullname: >-
-      Munatic
-    bio: >-
-      Mental health advocate & conscious comedian who talks about hard things I influence women to fuck the patriarchy ❤️Love, light & badass-ery 🎥 2M+Views
-    location: "Australia"
-    followers: 36576
-    engagement: 269
-    commentsToLikes: 0.021122
-    id: ck8t7hw00gv3d0j784ulpwaam
-    verified: false
-    hashtags: "#lovereading, #bookstagram, #grateful, #food"
-  - username: "jennybeeen"
-    fullname: >-
-      Jenny Blenk | Content Creator
-    bio: >-
-      German living in Brisbane || 22🤍 Naturally introverted, selectively extroverted “JENNYB20” 20% off @princesspollyboutique 💌jenny.em.blenk@gmail.com
-    location: "Australia"
-    followers: 8147
-    engagement: 644
-    commentsToLikes: 0.205182
-    id: ck5honakipv940i114q4oggvy
-    verified: false
-    hashtags: "#ootd, #goldcoast, #fashiondiares, #health"
-  - username: "eatoutwithjo"
-    fullname: >-
-      Jo | Melbourne Foodie |
-    bio: >-
-      💌 DM/Email for Collabs/Invites 📷 Photos/videos by @some.wisdom & myself Happy to f4f just DM me 💞 will unfollow if you unfollow 😆
-    location: "Australia"
-    followers: 8265
-    engagement: 622
-    commentsToLikes: 0.262668
-    id: ck5zsfy6pyf7g0i14jsqqyod4
-    verified: false
-    hashtags: "#delish, #melbournefoodblogger, #melbournefood, #melbournecafe"
+    hashtags: "#baby, #pregnant, #gifted, #daughters"
 ---

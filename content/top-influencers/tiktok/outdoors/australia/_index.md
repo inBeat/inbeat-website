@@ -1,10 +1,10 @@
 ---
-title: Top 10 Outdoors TikTok Influencers In Australia In 2023
+title: Top 10 Outdoors TikTok Influencers In Australia In 2024
 description: >-
-  Find top outdoors TikTok influencers in Australia in 2023. Most popular hashtags: #australia #outdoors #fyp #travel.
+  Find top outdoors TikTok influencers in Australia in 2024. Most popular hashtags: #australia #outdoors #fyp #travel.
 platform: TikTok
 hits: 29
-text_top: Identify the most popular TikTok profiles on inBeat.
+text_top: Analyze the most popular TikTok influencers on inBeat.
 text_bottom: Our platform has 29 TikTok influencers like this in Australia for you to work with.
 profiles:
   - username: "mattheffer"
@@ -102,7 +102,7 @@ profiles:
     commentsToLikes: 0.061961
     id: ckcdzwbnjhfw20j23ejp3heyt
     verified: false
-    hashtags: "#duet, #fallowdeer, #thataussieguy, #single"
+    hashtags: "#tassie, #duet, #fallowdeer, #tasmania"
   - username: "cambostock"
     fullname: >-
       Cam Bostock
@@ -126,5 +126,5 @@ profiles:
     commentsToLikes: 0.068408
     id: ck977bnu23lx30j7889za75v1
     verified: false
-    hashtags: "#adventure, #brisbane, #queensland, #australia"
+    hashtags: "#brisbane, #newzealand, #qld, #goldcoast"
 ---

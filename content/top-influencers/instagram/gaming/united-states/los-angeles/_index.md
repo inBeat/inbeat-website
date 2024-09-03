@@ -1,48 +1,24 @@
 ---
-title: Top 10 Gaming Instagram Influencers In Los Angeles In 2023
+title: Top 10 Gaming Instagram Influencers In Los Angeles In 2024
 description: >-
-  Find top gaming Instagram influencers in Los Angeles in 2023. Most popular hashtags: #gaming #losangeles #gamer #photography.
+  Find top gaming Instagram influencers in Los Angeles in 2024. Most popular hashtags: #gaming #losangeles #gamer #games.
 platform: Instagram
-hits: 57
-text_top: Identify the most popular Instagram accounts on inBeat.
-text_bottom: Our database holds 57 Instagram influencers like this in Los Angeles, United States for you to pitch.
+hits: 62
+text_top: See the best Instagram influencers on inBeat.
+text_bottom: Our search engine holds 62 Instagram influencers like this in Los Angeles, United States for you to connect with.
 profiles:
-  - username: "marios_gavrilis_official"
+  - username: "unsealedgames"
     fullname: >-
-      Marios Gavrilis
+      Unsealed Games
     bio: >-
-      ▪️Actor•Voice Actor•Comedian ▪️German voice of Denver in “La Casa De Papel“, Batman in “Gotham Knights“, Alexios in “AC:OD“ 🏅Voice Arts Awards Winner
+      • Video Games and more! 🎮 🏎 🕺🏻 • Founder/CEO/Cook/Cashier @breadandbreakfastla 🌯
     location: "United States"
-    followers: 72807
-    engagement: 496
-    commentsToLikes: 0.024948
-    id: ck9whi84nxz320j7852rfvtz1
+    followers: 1990
+    engagement: 1687
+    commentsToLikes: 0.402730
+    id: ck8t6ugb4eq9e0j78s1khybtd
     verified: false
-    hashtags: "#actor, #deathstranding, #voiceactor, #award"
-  - username: "brettian_"
-    fullname: >-
-      Brett Ian
-    bio: >-
-      Professional Bullsh**ter ⚡️ Actor | Twitch Affiliate | 80’s Vibes Los Angeles, CA
-    location: "United States"
-    followers: 12607
-    engagement: 3501
-    commentsToLikes: 0.021519
-    id: ck9ha2r8mawe80j78bjlzc98k
-    verified: false
-    hashtags: "#80s, #gamer, #kyloren, #twitch"
-  - username: "ericanagashima"
-    fullname: >-
-      Erica Nagashima
-    bio: >-
-      🎙Vocalist, Twitch partner, gamer, model, #hapa and human Gudetama 🍳🎶🎮 Queen 👑 @queensgg Booking@ericanagashima.com
-    location: "United States"
-    followers: 162164
-    engagement: 214
-    commentsToLikes: 0.037465
-    id: ck0u20xjnyij20i19fu1hu5q1
-    verified: true
-    hashtags: "#savagexfenty, #swipeleft, #throwback, #itsanyonesgame"
+    hashtags: "#finalfantasyremake, #gamingdancer, #thedancinggamer, #ff7remake"
   - username: "ladndsociety"
     fullname: >-
       L.A. Dungeons&Dragons Society
@@ -54,19 +30,19 @@ profiles:
     commentsToLikes: 0.037543
     id: ck6to6uj8cfcw0j71ouxm6n5v
     verified: false
-    hashtags: "#dungeonsanddragons, #minis, #dnd, #gaming"
-  - username: "unsealedgames"
+    hashtags: "#games, #ttrpg, #minis, #dungeonsanddragons"
+  - username: "choibites"
     fullname: >-
-      The Dancing Gamer
+      Esther Choi
     bio: >-
-      • #Art 😎 • #Sega 🖤 • #Xbox 💚 • #Nintendo ❤ • #Playstation 💙 • #TheDancingGamer 🕺🏻 • #ToLiveandGameinLA 🎮 • @breadandbreakfastla 🍞🍳
+      I’ma chef & entrepreneur. @mokbar_nyc @gahmnyc @ms.yoo Co-Host #24in24 @foodnetwork Host #HeatEaters @firstwefeast
     location: "United States"
-    followers: 2141
-    engagement: 1549
-    commentsToLikes: 0.378365
-    id: ck8t6ugb4eq9e0j78s1khybtd
-    verified: false
-    hashtags: "#dancinwithretros, #retropopthursday, #dancingwithgames, #maildancer"
+    followers: 375443
+    engagement: 223
+    commentsToLikes: 0.016276
+    id: ck5hp5sibqsvl0i11ifdwf86k
+    verified: true
+    hashtags: "#24in24, #cheflife, #foodnetwork, #cookingcompetition"
   - username: "cff_gta"
     fullname: >-
       CF_GTA
@@ -79,18 +55,54 @@ profiles:
     id: ck9wetnmzlrvk0j78srcterhm
     verified: false
     hashtags: "#game, #customcarsofgta, #carguy, #gta5"
-  - username: "poly_tattoo"
+  - username: "nikki_trinidad_"
     fullname: >-
-      TATTOO ARTIST PARIS 🇫🇷
+      Nikki Trinidad
     bio: >-
-      @or_noir_tattoo ✨ Info, rdv uniquement par mail 💌poly.tatouage@gmail.com
+      📍DTLA , Los Angeles ▫️Filipina | Latina ▫️Travel • Fashion • Bikini LOVER ✨ ▫️M/A @leo.alderman @lsamanagement 📩NikkiTrinidadBookings@gmail.com
     location: "United States"
-    followers: 70439
-    engagement: 266
-    commentsToLikes: 0.036941
-    id: ck15r07m15hjk0i19cdh2vtk3
+    followers: 99625
+    engagement: 183
+    commentsToLikes: 0.062052
+    id: ck5c31ejdyetf0i1104rbc0oc
     verified: false
-    hashtags: "#inkedgirl, #realistictattoo, #inkedmag, #blackandgreytattoo"
+    hashtags: "#ad, #ohpolly, #ohpollyswim, #boohoo"
+  - username: "retrogamingdays"
+    fullname: >-
+      PlayStation 🎮 Nintendo🕹Xbox🌀SEGA
+    bio: >-
+      Living in Los Angeles, California 🇺🇸
+    location: "United States"
+    followers: 161361
+    engagement: 2116
+    commentsToLikes: 0.005543
+    id: cliftj8wb3pkj0j080jzcgs4e
+    verified: false
+    hashtags: "#playstation3, #ps2, #psvita, #gameboy"
+  - username: "aceof_spadess"
+    fullname: >-
+      (THE)Ace of Spades♠
+    bio: >-
+      Los Angeles 🙄 I’m Hoping to make a difference and aiming to be a inspiration @jlabaudio ambassador Tiktok:5 million🙏🙏 NJ✈️✈️LA Click that link 👇👇👇
+    location: "United States"
+    followers: 334679
+    engagement: 310
+    commentsToLikes: 0.006468
+    id: ckvrf2ezrdj2y0j235rk291r4
+    verified: false
+    hashtags: "#comedyreels, #relatable, #comedy, #lol"
+  - username: "draynilla"
+    fullname: >-
+      Andre Snellbaker
+    bio: >-
+      SoaR Dray 🎮🎯 The Booty President 🍑 Los Angeles, CA 🌴 Apex Legends Content Creator for @soargaming Business Inquiries: draynilla@afkcreators.com
+    location: "United States"
+    followers: 40903
+    engagement: 248
+    commentsToLikes: 0.079456
+    id: cldgp8lryn3jo0j08l2lra942
+    verified: false
+    hashtags: "#apexclips, #apexlegendsmemes, #apexlegends, #apexmemes"
   - username: "mrleozombie"
     fullname: >-
       Leo Camacho
@@ -103,18 +115,6 @@ profiles:
     id: ck1384tk0ei850i19lgfgjg9k
     verified: true
     hashtags: "#photoshop, #scifi, #cyberpunk, #sponsoredbyhbomax"
-  - username: "nikki_trinidad_"
-    fullname: >-
-      Nikki Trinidad
-    bio: >-
-      📍DTLA , Los Angeles ▫️Filipina | Latina ▫️Travel • Fashion • Bikini LOVER ✨ ▫️M/A @leo.alderman @lsamanagement 📩NikkiTrinidadBookings@gmail.com
-    location: "United States"
-    followers: 99625
-    engagement: 183
-    commentsToLikes: 0.062052
-    id: ck5c31ejdyetf0i1104rbc0oc
-    verified: false
-    hashtags: "#ad, #ohpollyswim, #ohpolly, #sportswear"
   - username: "moesph_oreo"
     fullname: >-
       Mohamed Ouedraogo

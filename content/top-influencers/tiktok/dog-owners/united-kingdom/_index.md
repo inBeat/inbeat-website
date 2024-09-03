@@ -1,11 +1,11 @@
 ---
-title: Top 10 Dog Owners TikTok Influencers In United Kingdom In 2023
+title: Top 10 Dog Owners TikTok Influencers In United Kingdom In 2024
 description: >-
-  Find top dog owners TikTok influencers in United Kingdom in 2023. Most popular hashtags: #fyp #duet #dogs #viral.
+  Find top dog owners TikTok influencers in United Kingdom in 2024. Most popular hashtags: #fyp #dogs #viral #foryoupage.
 platform: TikTok
-hits: 13
-text_top: See the most popular TikTok profiles on inBeat.
-text_bottom: Our platform has 13 TikTok influencers like this in United Kingdom for you to collaborate.
+hits: 12
+text_top: Identify the most popular TikTok accounts on inBeat.
+text_bottom: Our search engine holds 12 TikTok influencers like this in United Kingdom for you to contact.
 profiles:
   - username: "mattgeekpride"
     fullname: >-
@@ -55,18 +55,6 @@ profiles:
     id: ckcprku12lfku0j23vm0zb9tf
     verified: false
     hashtags: "#reallife, #bobbyball, #openthedoor, #datingredflags"
-  - username: "curvyblackwitchreacts"
-    fullname: >-
-      J.Rochelle
-    bio: >-
-      🇯🇲32🇬🇧 🏳️‍🌈 She/Her🏳️‍🌈 Ca$h@pp-Curvyblackwitch Laughs and Truths 💙
-    location: "United Kingdom"
-    followers: 82500
-    engagement: 2419
-    commentsToLikes: 0.152304
-    id: ckb19cjw6xd3k0j234jell84n
-    verified: false
-    hashtags: "#trend, #food, #jokes, #spiritualtok"
   - username: "aaliy0h_"
     fullname: >-
       aaliy0h_
@@ -78,7 +66,7 @@ profiles:
     commentsToLikes: 0.015442
     id: ckbw90aotzfmm0j23c85fvbg7
     verified: false
-    hashtags: "#idothisformysquadidothisformygang, #idothisformysquad, #girlsnightout, #oneforthegals"
+    hashtags: "#oneforthegals, #idothisformysquadidothisformygang, #idothisformysquad, #tweetoftheday"
   - username: "danika_does_makeup"
     fullname: >-
       Danika Dixon
@@ -127,4 +115,16 @@ profiles:
     id: ckbasjj5ej5w60j23frpghjkg
     verified: false
     hashtags: "#fyp, #tiktok, #foryoupage, #businessowner"
+  - username: "thejamalsworld"
+    fullname: >-
+      Jamal Greaves
+    bio: >-
+      ✨ Fashion Blogger ✨ 🍭 Sweet Shop Owner 🍭 👀 King of surprises 👀
+    location: "United Kingdom"
+    followers: 23100
+    engagement: 1382
+    commentsToLikes: 0.085688
+    id: ck8koi9wfhugv0j78lvtq5i8g
+    verified: false
+    hashtags: "#kylieskin, #viral, #foryoupage, #giveaway"
 ---

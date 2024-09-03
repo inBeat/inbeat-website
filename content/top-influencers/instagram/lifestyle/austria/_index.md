@@ -1,130 +1,130 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Austria In 2023
+title: Top 10 Lifestyle Instagram Influencers In Austria In 2024
 description: >-
-  Find top lifestyle Instagram influencers in Austria in 2023. Most popular hashtags: #vienna #ootd #fashion #makeup.
+  Find top lifestyle Instagram influencers in Austria in 2024. Most popular hashtags: #inspo #mamaalltag #aesthetic #motivation.
 platform: Instagram
-hits: 70
-text_top: Discover the best Instagram influencers on inBeat.
-text_bottom: Our search engine aggregates 70 Instagram influencers like this in Austria for you to work with.
+hits: 109
+text_top: Discover the top-rated Instagram influencers on inBeat.
+text_bottom: Our database has 109 Instagram influencers like this in Austria for you to collaborate.
 profiles:
-  - username: "sweetlifefitlife"
+  - username: "sona.grant"
     fullname: >-
-      SweetlifeFitlife
+      Sona Grant
     bio: >-
-      👸 AGNIESZKA 👸 👱‍♀️ Polish Girl 👱‍♀️ 💪 Fit Lifestyle 💪 👟 Classy Look 👟 💃 Sassy Mood 💃 🇦🇹 Vienna 🇦🇹 🤙YOLO 🤙 📥 sweetlifefitlife@op.pl 📥
+      vienna 🪻 lifestyle • music • home 💌 management@sonagrant.com
     location: "Austria"
-    followers: 34608
-    engagement: 813
-    commentsToLikes: 0.113885
-    id: ckaovirdf4q6y0i7802di5s71
+    followers: 153014
+    engagement: 1132
+    commentsToLikes: 0.018765
+    id: ck6ttk1gcb1sv0j712v9qsnje
     verified: false
-    hashtags: "#dziewczynazpolski, #hello, #haveaniceday, #itsme"
-  - username: "sheri_show"
+    hashtags: "#deutsch, #haus, #vienna, #familie"
+  - username: "iweirddo"
     fullname: >-
-      Shqlawa
+      Emma • اِما
     bio: >-
-      📍 Vienna •Certified MUA •Makeup• Hair •Beauty • Lifestyle •For appointment: +43 681 10884281 •10/192
+      Singer • Songwriter • Living a HAM-y Lifestyle 🐭 📍Vienna YouTube channel 👇🏼
     location: "Austria"
-    followers: 61326
-    engagement: 244
-    commentsToLikes: 0.055980
-    id: ck8ta6eejqlzf0j78zskkwc4n
+    followers: 445683
+    engagement: 1598
+    commentsToLikes: 0.016957
+    id: ck9wpah438hr00j78d6h768jq
     verified: false
-    hashtags: "#vienna, #fashion, #styleblogger, #shein"
-  - username: "victoriahubacek"
+    hashtags: "#21"
+  - username: "die_kollands"
     fullname: >-
-      Vɪᴄᴛᴏʀɪᴀ Hᴜʙᴀᴄᴇᴋ
+      Karina kolland .29 🇦🇹
     bio: >-
-      Austrian, based in Vienna 🇦🇹 model, actress, entrepreneur healthy lifestyle 🌱
+      ⋙ LIFESTYLE | FITNESS | BEAUTY | #realtalk 🎥 📍 Österreich - In der schönen Steiermark 📩 Karina-kolland@gmx.at 📺 Dauerwerbesendung
     location: "Austria"
-    followers: 39719
-    engagement: 601
-    commentsToLikes: 0.036220
-    id: ck15ptwvszlr70i19gq8mvm1u
+    followers: 15801
+    engagement: 345
+    commentsToLikes: 0.084452
+    id: ck5c60n5n4hin0i11h13uw7iz
     verified: false
-    hashtags: ""
-  - username: "hank_ge"
+    hashtags: "#einbisschengl, #momof3, #cutie, #contentcreator"
+  - username: "violetfleur_com"
     fullname: >-
-      HANK GE
+      Nadja | Mamablog
     bio: >-
-      📍Vienna/ Berlin Food, Fashion, lifestyle 🌱veggie My boho brand @wildsky_shop Restaurants @bali_brunch& @bali_babecreamery
+      FAMILY • BEAUTY • LIFESTYLE Mom of ✌🏻👨‍👩‍👧‍👦 🐰 12/20 🐭 10/23 ✉️ info@violetfleur.com 📍Vienna, Austria 🇦🇹
     location: "Austria"
-    followers: 372061
-    engagement: 309
-    commentsToLikes: 0.005107
-    id: ck0tym4oxn80x0i194wpl73kr
+    followers: 10081
+    engagement: 318
+    commentsToLikes: 0.018670
+    id: ckf5vrh77pnmv0j23mtcw56ov
     verified: false
-    hashtags: "#kappaperfumes, #foamieplasticfreechallenge, #foamie, #foamiemen"
-  - username: "davidxperic"
+    hashtags: "#bubenmama, #instamamas, #geplanterkaiserschnitt, #mamaleben"
+  - username: "vanessa.maria.inked"
     fullname: >-
-      𝐃 𝐀 𝐕 𝐈 𝐃  𝐏 𝐄 𝐑 𝐈 𝐂
+      𝐕𝐚𝐧𝐞𝐬𝐬𝐚 Maria
     bio: >-
-      • Vienna, Austria 🌍 • Fashion & Lifestyle ✉️ pericdadi@gmail.com
+      🖤Cars| Lifestyle 🖤Switzerland 🖤 Business ♥️🔒 Love @daniel.jaufenthaler
     location: "Austria"
-    followers: 74995
-    engagement: 246
-    commentsToLikes: 0.053605
-    id: ck5bw3cpgkx320i118l83lvi1
+    followers: 45904
+    engagement: 291
+    commentsToLikes: 0.019751
+    id: ck9h9xfhkac840j78i4giq3yf
     verified: false
-    hashtags: "#millenniumcity, #millenniumcitywien, #millenniuminsider, #millenniumshopping"
-  - username: "verena_katrien"
+    hashtags: "#tattoomodel, #lingeriesensual, #fashion, #inkedlife"
+  - username: "missesclementi"
     fullname: >-
-      INSPO | LIFESTYLE | TRAVEL
+      MRS CLEMENTI | Content Creator
     bio: >-
-      • Vienna | Austria • ❥ daily Stories & Posts ✶ founder of @peacox.marketing ❖ lifestyle | empowerment | body & mind ✈ travel lover ↓ Youtube
+      fashion | beauty | interior | lifestyle | kidsinspo | momlife ✉️ inquiries | clementi@ikbnet.at 🏳️ based in AUSTRIA | I n n s b r u c k
     location: "Austria"
-    followers: 151501
-    engagement: 298
-    commentsToLikes: 0.034709
-    id: ck5c8wpnyaclj0i11be6r2ole
+    followers: 50204
+    engagement: 215
+    commentsToLikes: 0.082990
+    id: ck0ty4gydll9x0i198nmr9vg8
     verified: false
-    hashtags: "#blondegirl, #joalimaldives, #greeneyes, #homeshooting"
-  - username: "annaburgstaller"
+    hashtags: "#babyroomideas, #babyroomdecoration, #babyzimmerinspiration, #mamaleben"
+  - username: "bellastudies"
     fullname: >-
-      Anna Maria Burgstaller
+      BELLA STUDIES
     bio: >-
-      Active Lifestyle, based in 🇦🇹 Sports, Nature and Mountainlover » Straight A⁺ Student
+      vienna 🌴 lifestyle + student tips 📨 bellastudies@digitalstreamers.com
     location: "Austria"
-    followers: 10878
-    engagement: 1225
-    commentsToLikes: 0.026524
-    id: ckaotbsitv7v20i78ecftme0u
+    followers: 133949
+    engagement: 215
+    commentsToLikes: 0.007842
+    id: clnrydxjqf1pz0j08lplq7s7i
     verified: false
-    hashtags: "#thoughts, #sportsbra, #gymwear, #omega1"
-  - username: "mariahoeflriesch"
+    hashtags: "#bellastudies, #setup, #university, #universitylife"
+  - username: "fabiankitzweger"
     fullname: >-
-      Maria Höfl-Riesch
+      FABIAN KITZWEGER
     bio: >-
-      - former alpine ski racer⛷ - 3 times Olympic Champion🥇 - expert for skiing, fitness, motivation💪🏼 - food and fashion lover🥗👗 - travel and lifestyle🚗💃🏼
+      🇦🇹Fitness | Travel | Lifestyle 🙋🏻‍♂️Chemical Engineer | Mister Austria
     location: "Austria"
-    followers: 52119
-    engagement: 301
-    commentsToLikes: 0.021132
-    id: ck5hl1hafjegl0i11yw7zuld4
+    followers: 211563
+    engagement: 191
+    commentsToLikes: 0.061824
+    id: ck0ttcmlx259p0i19vzjjjii6
     verified: true
-    hashtags: "#instafashion, #nomination, #staypositive, #fashiongirl"
-  - username: "tamara_tvl"
+    hashtags: "#fitcouple, #gymgirl, #gymmemes, #fitnesscouple"
+  - username: "lukasmuelr"
     fullname: >-
-      Tamara Tvaliashvili
+      Lukas Müller
     bio: >-
-      📍Austria | BGLD Fashion | Fitness | Lifestyle @naturtheke.official - „Tamara10“ 📧office@mgmt-ajguapo.com
+      Lifestyle & Fitness unhealthy obsession with running @saltysportsclub
     location: "Austria"
-    followers: 165008
-    engagement: 679
-    commentsToLikes: 0.020231
-    id: ck8t4we3883cq0j78ghdl5ikv
+    followers: 202277
+    engagement: 187
+    commentsToLikes: 0.019987
+    id: clpwuj1l7l9v20k08svrhx03p
     verified: false
-    hashtags: "#photooftheday, #instagood, #bhfyp, #makeup"
-  - username: "meanwhileinawesometown"
+    hashtags: "#health, #75hard, #fitness, #selfimprovement"
+  - username: "mario_schafzahl"
     fullname: >-
-      manuel
+      Mario Schafzahl | Vienna, Austria
     bio: >-
-      People who take themselves too seriously, should not be taken too seriously! 🤓 🌍 Vienna | Europe 🇪🇺 📸 menswear, lifestyle, travel, food & politics
+      📍Vienna 🇦🇹 Sport | Lifestyle | Travel @endur.app co-founder & head coach
     location: "Austria"
-    followers: 32856
-    engagement: 163
-    commentsToLikes: 0.045530
-    id: ck0ua7ukbbpqe0i19200400ij
+    followers: 313817
+    engagement: 247
+    commentsToLikes: 0.016146
+    id: ck6trfz6yyrlc0j713z54t7ny
     verified: false
-    hashtags: "#outfitideasforyou, #pauseshots, #nclgallery, #classyvision"
+    hashtags: "#workout, #sunday, #reel, #vibes"
 ---

@@ -1,24 +1,12 @@
 ---
-title: Top 10 Yoga TikTok Influencers In Los Angeles In 2023
+title: Top 10 Yoga TikTok Influencers In Los Angeles In 2024
 description: >-
-  Find top yoga TikTok influencers in Los Angeles in 2023. Most popular hashtags: #fyp #losangeles #yoga #love.
+  Find top yoga TikTok influencers in Los Angeles in 2024. Most popular hashtags: #fyp #losangeles #yoga #love.
 platform: TikTok
 hits: 14
-text_top: Identify the top-rated TikTok accounts on inBeat.
-text_bottom: Our database has 14 TikTok influencers like this in Los Angeles, United States for you to contact.
+text_top: Identify the most popular TikTok accounts on inBeat.
+text_bottom: Our database holds 14 TikTok influencers like this in Los Angeles, United States for you to collaborate.
 profiles:
-  - username: "mulletedmadman"
-    fullname: >-
-      Saul Trujillo
-    bio: >-
-      Stand up comedian and kissing booth inspector.
-    location: "United States"
-    followers: 9789
-    engagement: 1050
-    commentsToLikes: 0.035510
-    id: ckbam3u4hd15a0j23lflq1s4z
-    verified: false
-    hashtags: "#fyp, #funny, #standup, #standupcomedy"
   - username: "kerttukaron"
     fullname: >-
       Kerttu Karon
@@ -31,6 +19,18 @@ profiles:
     id: ckb9jh2woas0b0j23o7p8yczf
     verified: false
     hashtags: "#la, #hotyoga, #yogateacher, #christmas"
+  - username: "mulletedmadman"
+    fullname: >-
+      Saul Trujillo
+    bio: >-
+      Stand up comedian and kissing booth inspector.
+    location: "United States"
+    followers: 9789
+    engagement: 1050
+    commentsToLikes: 0.035510
+    id: ckbam3u4hd15a0j23lflq1s4z
+    verified: false
+    hashtags: "#foryoupage, #standupcomedy, #comedy, #fyp"
   - username: "tiktoktatertotz"
     fullname: >-
       Tate
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.019711
     id: cka0j3jbpgddv0i78mbtf99py
     verified: false
-    hashtags: "#notonething, #fyp, #foryou, #comedy"
+    hashtags: "#viral, #notfyp, #dontletthisflop, #drive"
   - username: "cuppinglosangeles"
     fullname: >-
       Cupping Los Angeles
@@ -66,7 +66,7 @@ profiles:
     commentsToLikes: 0.153556
     id: ckd1a96yjs7k70j23qgzx832a
     verified: false
-    hashtags: "#la, #finnish, #girl, #modelgirl"
+    hashtags: "#model, #gym, #finnish, #modelgirl"
   - username: "ithinkmylifeisadream"
     fullname: >-
       mim1018

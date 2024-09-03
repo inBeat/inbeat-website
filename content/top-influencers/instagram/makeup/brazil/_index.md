@@ -1,130 +1,130 @@
 ---
-title: Top 10 Makeup Instagram Influencers In Brazil In 2023
+title: Top 10 Makeup Instagram Influencers In Brazil In 2024
 description: >-
-  Find top makeup Instagram influencers in Brazil in 2023. Most popular hashtags: #make #challenge #maquiagembrasil.
+  Find top makeup Instagram influencers in Brazil in 2024. Most popular hashtags: #makeup #reels #maquiagembrasil #makeuptutorial.
 platform: Instagram
-hits: 5118
-text_top: See the top-rated Instagram accounts on inBeat.
-text_bottom: Our platform holds 5118 Instagram influencers like this in Brazil for you to collaborate.
+hits: 5092
+text_top: Discover the top-rated Instagram accounts on inBeat.
+text_bottom: Our search engine holds 5092 Instagram influencers like this in Brazil for you to work with.
 profiles:
-  - username: "helenacoelhooo"
+  - username: "isabelatesch"
     fullname: >-
-      𝐇 𝐄 𝐋 𝐄 𝐍 𝐀  𝐂 𝐎 𝐄 𝐋 𝐇 𝐎
+      Isabela Theodorovicz Tesch
     bio: >-
-      💄 Makeup | Fitness | Lifestyle | Motherhood 📍 Lisboa, Portugal 💌 lenacoelho.o@gmail.com
+      Fashion • Lifestyle • Makeup Parcerias|Jobs: Direct Medicina veterinária🐾_ UniCesumar Cristã Maringá_PR📍
     location: "Brazil"
-    followers: 620096
-    engagement: 1287
-    commentsToLikes: 0.295236
-    id: ck0u0az0ut4qf0i19ylg3kdyp
+    followers: 18423
+    engagement: 1914
+    commentsToLikes: 0.046571
+    id: ck8tb5lxkudpc0j78p4iaq51p
     verified: false
-    hashtags: "#lactacyd, #lactacydportugal, #higieneintima, #pub"
-  - username: "jessycabarby"
+    hashtags: "#makebeauty, #parana, #lehpequenomakeup, #modelofotografica"
+  - username: "anaveigga"
     fullname: >-
-      Jessy Barby
+      Ana Veiga
     bio: >-
-      📸 •Modelo Fotográfica 💌• Parceria via direct📩 🎓• Téc em Radiologia 💄•CEO: @jb_makeupoficial
+      💄 Makeup Educator 🎨 Presente em todas as áreas da maquiagem 🎓 +20mil alunos ao redor do 🌎 🔐 Assessoria: @the.beclub 👇🏻 Publicidade • Cursos • Contato
     location: "Brazil"
-    followers: 22177
-    engagement: 1634
-    commentsToLikes: 5.603794
-    id: ckapbkhnz07yw0i78wo5536t1
+    followers: 505085
+    engagement: 1143
+    commentsToLikes: 0.027404
+    id: ck0ubkepienm20i19jwftaqhr
     verified: false
-    hashtags: "#recife, #fotografia, #instagram, #lookdodia"
-  - username: "anacely_nogueira"
+    hashtags: "#maquiagembrasil, #maquiadoresdadepressao, #makeupartist, #newfacebrushes"
+  - username: "g.ullit"
     fullname: >-
-      Ana Nogueira 💕
+      Gullit Almeida
     bio: >-
-      João 13:35 🖤 • Publicidade +55 77 991895189 @anacely_makeup
+      Ele/Dele | He/Him Maquiador | Makeup Artist. Criador de conteúdo digital | Digital content creator.
     location: "Brazil"
-    followers: 17990
-    engagement: 884
-    commentsToLikes: 1.314957
-    id: ck0u1976xw4ri0i19hqjbjmcu
+    followers: 64850
+    engagement: 625
+    commentsToLikes: 0.096076
+    id: ck9wdgb9lfi370j78qzrjfk21
     verified: false
-    hashtags: "#maquiadora, #loucaspormaquiagem, #bhfyp, #makeuptutorial"
-  - username: "dudaparpineli"
+    hashtags: "#makeup, #androgynousfashion, #shoes, #nails"
+  - username: "vrgvan"
     fullname: >-
-      duda parpineli
+      vanessa rodrigues ✦
     bio: >-
-      | Maquiadora @makeup_parpineli | Canceriana 🦀 | Nova esperança pr
+      Makeup & Hairstyle 🤎 ꩜ | alma grata exala paz. 📧jobs: nessarrodrigues11@gmail.com
     location: "Brazil"
-    followers: 31730
-    engagement: 654
-    commentsToLikes: 0.738061
-    id: ck8tbmv9ywag20j78437840xy
+    followers: 75834
+    engagement: 686
+    commentsToLikes: 0.027101
+    id: ck8tauiqxt45u0j78j2wrvief
     verified: false
-    hashtags: "#tbt"
-  - username: "babiilacet"
+    hashtags: "#grwm, #ombrelips, #boxbraids, #reels"
+  - username: "recarmona.makeup"
     fullname: >-
-      Bárbara Alencar Lacet
+      Renata Carmona
     bio: >-
-      This is me. — Lifestyle,fashion&makeup. Odontologia⚕ Independent model Madrinha Matbel CPOR 2020🔰 @odontobybabi Job|Contato: direct ou e-mail.
+      • tutoriais, dicas e resenhas (o makeup do @ é autoexplicativo né?) • contato: contatorecarmona@gmail.com 📍 ABC - SP
     location: "Brazil"
-    followers: 6620
-    engagement: 1070
-    commentsToLikes: 0.268197
-    id: ckf5s7rekeyeh0j23v4n827t8
+    followers: 11782
+    engagement: 945
+    commentsToLikes: 0.157613
+    id: ckaovqkwr5q2g0i78s9h504x6
     verified: false
-    hashtags: "#tbt"
-  - username: "_laahcamargo"
+    hashtags: "#maquiagembrasil, #tutorial, #tutorialdemaquiagem, #trend"
+  - username: "mariirodrgues"
     fullname: >-
-      𝗟𝗮𝗿𝗮 𝗖𝗮𝗺𝗮𝗿𝗴𝗼
+      marii rodrigues
     bio: >-
-      SE LIGUEM NOS STORIES ‼️‼️ 📍GO Leonina que coleciona momentos🔥 Modelo Fotográfica Modelo de Makeup Provadores Fashion Parcerias tratar pelo direct 📩
+      ⭑ about fashion & makeup 📍belo horizonte 📧mariirodriguescontato@gmail.com
     location: "Brazil"
-    followers: 24455
-    engagement: 588
-    commentsToLikes: 0.116512
-    id: ck8sx9y6ogn2p0j78icb5tl6j
+    followers: 90843
+    engagement: 1874
+    commentsToLikes: 0.051129
+    id: ck9wfr9u5q65p0j78jutu5bv5
     verified: false
-    hashtags: "#bronzeamentonatural, #bronze, #naturephotography"
-  - username: "nickoly_almeida"
+    hashtags: "#yoins, #blocodourso, #carnaval, #yoinsstyle"
+  - username: "carolinegarciiia"
     fullname: >-
-      Almeida
+      Carol Garcia
     bio: >-
-      🤳🏻 Digital influencer 🦷❤️3/10 📲Parceria via Direct/ @niickmodas @pousada_badejo 💄: @niicks.makeup
+      -Apresentadora/Cobertura de eventos -Publis/Rodeios/ lifestyle country/Makeup - @renan.aalmeida ❤️ ❌ESTAMOS SEM ASSESSORIA❌
     location: "Brazil"
-    followers: 12679
-    engagement: 913
-    commentsToLikes: 0.116412
-    id: ck9hc7j6wk3uv0j78dwpl82iq
+    followers: 136416
+    engagement: 576
+    commentsToLikes: 0.060688
+    id: ck9hb3av6f7nz0j78tyntsu8c
     verified: false
-    hashtags: "#sol, #foto, #japaratinga, #alagoas"
-  - username: "euanarodrigues__"
+    hashtags: "#yellowstone, #grwm, #toystory, #asmr"
+  - username: "cepantz"
     fullname: >-
-      ANA RODRIGUES✨
+      Cepantz ❥
     bio: >-
-      ✨| OIII GENTEE!! 📍| MG - 17 anos 🎓| Modelo•Lifestyle•Makeup• 🎥|+de 40 milhões de visualizações no reels 📩|Assessoria👇🏼
+      ▫️ Cosplay • Makeup 🚨 LIKE SPAM = BLOCK! ▫️ São Paulo ▫️ Jobs/Partnerships: direct
     location: "Brazil"
-    followers: 79452
-    engagement: 1159
-    commentsToLikes: 0.032105
-    id: ck8t6cd50d2yh0j78ntmc9gp5
+    followers: 14748
+    engagement: 940
+    commentsToLikes: 0.032104
+    id: ckap1lxj2v3z30i786zk5o0z4
     verified: false
-    hashtags: "#modoturbo, #explore, #memesbrasil, #olhoclassicoesfumado"
-  - username: "unicorngalaxy__"
+    hashtags: "#wbpictures, #reels, #margotrobbie, #arlequina"
+  - username: "halessia"
     fullname: >-
-      𝕄𝕚𝕝𝕖𝕟𝕒 𝕃𝕚𝕣𝕒🦄✨
+      HALESSIA
     bio: >-
-      🦋Constante Evolução🦋 🐞Influencer/Makeup artist/Model🐞 🤰🏼 @babyunicorngalaxy__ 🛍@unicorngalaxybazar 💄@unicorngalaxymakeup 👇🏻Parcerias no watts
+      The Queen, Fashion Model, DJ, Makeup Artist and Founder of: @rockerperucas Ad: comercial@waystar.com.br Bookings: contatohalessia@gmail.com
     location: "Brazil"
-    followers: 16571
-    engagement: 1148
-    commentsToLikes: 2.989552
-    id: ck9wh5xu4weq70j78jljq2zff
+    followers: 824970
+    engagement: 326
+    commentsToLikes: 0.057788
+    id: ck0tthc9g2pvz0i1982yrtdgj
     verified: false
-    hashtags: "#nails, #nailsdesign, #nailsart"
-  - username: "yanpradomakeup"
+    hashtags: "#pubiicidade, #publiker, #publi, #bailedavogue2024"
+  - username: "saynaramakeup"
     fullname: >-
-      𝐘𝐀𝐍 𝐏𝐑𝐀𝐃𝐎
+      Saynara | Maquiadora em Salvador
     bio: >-
-      MakeupArtist|SJRP-SP|@espacogiquintino|Brasil CursosVip - Formandas - Noivas 📧yanpradomakeup@icloud.com 🙏🏻Blessed By God🙏🏻 +Info Atendimento/Curso⬇️
+      🔎 Makeup social e art CEO: @saynaraabeauty ⚡️Ministro CURSOS de MAQUIAGEM! 🎓+900 alunos formados 📩contatosaynaraa@gmail.com Cursos e agendamentos⤵️
     location: "Brazil"
-    followers: 13540
-    engagement: 1182
-    commentsToLikes: 0.047387
-    id: ck5pvygc3k89c0i11lu6hcbn6
+    followers: 88726
+    engagement: 314
+    commentsToLikes: 0.098340
+    id: ck8t18nlwuth80j7852hxmsh3
     verified: false
-    hashtags: "#blendthatshit, #maquiagembrasil, #makelove, #challenge"
+    hashtags: "#makeup, #saypor7dias, #challenge, #makeuptutorial"
 ---

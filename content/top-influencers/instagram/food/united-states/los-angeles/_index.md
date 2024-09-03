@@ -1,12 +1,24 @@
 ---
-title: Top 10 Food Instagram Influencers In Los Angeles In 2023
+title: Top 10 Food Instagram Influencers In Los Angeles In 2024
 description: >-
-  Find top food Instagram influencers in Los Angeles in 2023. Most popular hashtags: #losangeles #food #foodporn #foodie.
+  Find top food Instagram influencers in Los Angeles in 2024. Most popular hashtags: #food #losangeles #fashion #foodie.
 platform: Instagram
-hits: 357
-text_top: Discover the best Instagram influencers on inBeat.
-text_bottom: Our database holds 357 Instagram influencers like this in Los Angeles, United States for you to collaborate.
+hits: 515
+text_top: Discover the most popular Instagram profiles on inBeat.
+text_bottom: Our database holds 515 Instagram influencers like this in Los Angeles, United States for you to collaborate.
 profiles:
+  - username: "imhungry"
+    fullname: >-
+      imhungry
+    bio: >-
+      i just really like eating good food los angeles, ca collabs: imhungryla@gmail.com 🍩 #imhungryla
+    location: "United States"
+    followers: 190940
+    engagement: 75
+    commentsToLikes: 0.005113
+    id: ck55lwt412mnq0i11zz7b7g4y
+    verified: false
+    hashtags: "#burger, #dessert, #explore, #restaurant"
   - username: "bby.bruh"
     fullname: >-
       morgan
@@ -19,18 +31,6 @@ profiles:
     id: ck6ugqxir4n0u0j713gjm7ie4
     verified: false
     hashtags: "#ad"
-  - username: "imhungry"
-    fullname: >-
-      imhungry
-    bio: >-
-      i just really like eating good food los angeles, ca collabs: imhungryla@gmail.com 🍩 #imhungryla
-    location: "United States"
-    followers: 204888
-    engagement: 90
-    commentsToLikes: 0.016117
-    id: ck55lwt412mnq0i11zz7b7g4y
-    verified: false
-    hashtags: "#la, #dessert, #losangeles, #food"
   - username: "roscoesofficial"
     fullname: >-
       Roscoe's Chicken & Waffles™️
@@ -43,18 +43,18 @@ profiles:
     id: ck0uajq2dcf550i19rn2owajo
     verified: true
     hashtags: "#lafood, #delivery, #yummy, #vscofood"
-  - username: "hungryempire"
+  - username: "yummertime"
     fullname: >-
-      Pratik Bhakta | HungryEmpire
+      Yummertime®
     bio: >-
-      🎥: Tiktok (hungryempire) 📩: iefoodieinfo@gmail.com 🍽: Theme of the week: Red curry paste 📍 LA
+      husbands renovating our dream home in LA ✨ design • beauty • food • life by Brock + Chris Lin
     location: "United States"
-    followers: 51300
-    engagement: 1665
-    commentsToLikes: 0.040578
-    id: ck14gzmhu7t630i19ung01mo8
-    verified: false
-    hashtags: "#vegan, #eat, #vegetarian, #foodnetwork"
+    followers: 329517
+    engagement: 457
+    commentsToLikes: 0.016853
+    id: ck55kkh4uziwv0i11jdazjr44
+    verified: true
+    hashtags: "#recipe, #holidays, #vitalproteins, #vitalpartner"
   - username: "kfashion__s"
     fullname: >-
       📩 FOR PROMOTION
@@ -67,18 +67,18 @@ profiles:
     id: ck14jz9humx5o0i190tdvyojw
     verified: false
     hashtags: "#bhfyp, #koreanfashion, #ulzzangboy, #ulzzang"
-  - username: "emhail_"
+  - username: "_patrykwlodarczyk_"
     fullname: >-
-      EmHail
+      Patryk Włodarczyk
     bio: >-
-      Emma 🦄Gamer/Fitness Streamer (263K FansLM) 🦄Baby Hailey💙 🦄twitch.tv/emhail & Mixer.com/emhail 🦄TechniSportUSA VerifiedLM
+      📍LA 🕺🏼Dancer 🐎 Horse Rider - jumper at @bittar_stables @cwd_socal_la @cavalleriatoscana @bemer.horse.polska 📤wlodarczyk.patryk98@gmail.com
     location: "United States"
-    followers: 23807
-    engagement: 456
-    commentsToLikes: 0.036984
-    id: ck6tx7xd1wbxl0j717nxz6guc
+    followers: 11857
+    engagement: 361
+    commentsToLikes: 0.040869
+    id: ck0u1huehwy5o0i19fz49t1og
     verified: false
-    hashtags: "#gym, #anime, #workout, #tattoo"
+    hashtags: "#hunterjumpersofinstagram, #portraits, #nature, #horsephotography"
   - username: "jo.jerusalem"
     fullname: >-
       Jo
@@ -91,40 +91,40 @@ profiles:
     id: ck5zvwybb528f0i14m45diys1
     verified: false
     hashtags: "#paintingoftheday, #artist, #artistsoninstagram, #explorepage"
+  - username: "hungrymaeum"
+    fullname: >-
+      Maeum Lin
+    bio: >-
+      My name is Evan Maeum Lin. I am the newest member of @hungry_fam! NOONA // @hungrysarang UMMA // @juliehlin APPA // @hungryoc
+    location: "United States"
+    followers: 211538
+    engagement: 61
+    commentsToLikes: 0.009319
+    id: ckaos2pu9pwav0i78p1r0dvmz
+    verified: false
+    hashtags: "#foodstragram, #appa, #eeeats, #foodietribe"
   - username: "boldaslauren"
     fullname: >-
       lauren trenkle
     bio: >-
       yoga sculpt instructor 🤘🏼 health enthusiast | real food | fitness | los angeles boldaslauren@gmail.com
     location: "United States"
-    followers: 4949
-    engagement: 794
-    commentsToLikes: 0.053321
+    followers: 4581
+    engagement: 847
+    commentsToLikes: 0.053017
     id: ck0tztsakrlwi0i193u5cczp4
     verified: false
-    hashtags: "#sponsored, #ad, #vitalinfluencer, #stayvital"
-  - username: "lafoodjunkie"
+    hashtags: "#sponsored, #ad, #vitalinfluencer, #together"
+  - username: "stayingmindfull"
     fullname: >-
-      LA Food Junkie 🍕🌭🍟🌯🍔🍺🍸
+      devon
     bio: >-
-      Best Food In Los Angeles #️⃣ #lafoodjunkie 🇺🇸 🇦🇲🙅🏻‍♂️ @foodjunkie 🗣📬 DM or Email Me Business Inquiries 📩LAFOODJUNKIE@gmail.com 📩 🍔🍕🍟🍖🍛🍦🍝
+      finding happiness in the little things wellness, good food, reads los angeles
     location: "United States"
-    followers: 355034
-    engagement: 70
-    commentsToLikes: 0.019465
-    id: ck15tpz68jbnq0i19vgkw457f
+    followers: 6375
+    engagement: 463
+    commentsToLikes: 0.029436
+    id: cks7gu7i62ft30j23nvx2ux45
     verified: false
-    hashtags: "#lafoodie, #foodie, #burger, #pizza"
-  - username: "rocknrollfoodie"
-    fullname: >-
-      Rocknrollfoodie 🤘🏼
-    bio: >-
-      Food Enthusiast with a little bit of rock n roll 🤘🏼 Best food in Los Angeles & beyond 🗺 Food is the way to my 🖤 Email/DM for business inquires.
-    location: "United States"
-    followers: 17351
-    engagement: 196
-    commentsToLikes: 0.035981
-    id: ck8t5taweb66e0j78dolj4utz
-    verified: false
-    hashtags: "#crepes, #foodvibes, #foodgasm, #feedthefeed"
+    hashtags: "#londres, #london, #uk, #mindfuleating"
 ---

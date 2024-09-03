@@ -1,24 +1,24 @@
 ---
-title: Top 10 Gardening Instagram Influencers In Miami In 2023
+title: Top 10 Gardening Instagram Influencers In Miami In 2024
 description: >-
-  Find top gardening Instagram influencers in Miami in 2023. Most popular hashtags: #gardening #miami #fashion #reels.
+  Find top gardening Instagram influencers in Miami in 2024. Most popular hashtags: #gardening #miami #fashion #family.
 platform: Instagram
-hits: 8
-text_top: Analyze the best Instagram accounts on inBeat.
-text_bottom: Our platform holds 8 Instagram influencers like this in Miami, United States for you to work with.
+hits: 10
+text_top: See the best Instagram influencers on inBeat.
+text_bottom: Our database aggregates 10 Instagram influencers like this in Miami, United States for you to contact.
 profiles:
-  - username: "analuciatejeira10"
+  - username: "wildgina"
     fullname: >-
-      Ana Lucia Tejeira Healy 🍃🇵🇦
+      gina nicole 🍋
     bio: >-
-      Reina de Festival del Sombrero Pintao 🎩 Diseñadora de Interiores 👷🏼‍♀️ @lateralstudio.interiors Señorita Panamá 2019
+      🌼 cozy diaries of a wild botanical artist 〰️ nature photographer ✿ sci-artist 🔎 🍃 my tiny garden life in san francisco 💌 partnerships@wildgina.com
     location: "United States"
-    followers: 10080
-    engagement: 875
-    commentsToLikes: 0.056566
-    id: ck0vxd0isyai90i19vnbxu3yq
+    followers: 115197
+    engagement: 557
+    commentsToLikes: 0.061139
+    id: ck8swhyrte5gq0j78k59qz3fr
     verified: false
-    hashtags: "#beach, #miami, #paradise, #europe"
+    hashtags: "#landscapephotography, #explorepage, #naturelovers, #roadtrip"
   - username: "superflexstudio"
     fullname: >-
       SUPERFLEX
@@ -43,6 +43,42 @@ profiles:
     id: ck8sxd2mogy7x0j78fhdw4fmv
     verified: true
     hashtags: "#architecturelovers, #architect, #house, #countryliving"
+  - username: "_missy_lynn_"
+    fullname: >-
+      Missy
+    bio: >-
+      Shooter. Prepper. Conspiracy Theorist. Momma Bear. Firearms Instructor. Texas.
+    location: "United States"
+    followers: 175204
+    engagement: 353
+    commentsToLikes: 0.020304
+    id: ck15qwhbl4z9c0i19zyfxiwel
+    verified: false
+    hashtags: "#hunting, #sagerat, #subscribe, #prepper"
+  - username: "cutlerbaysocial"
+    fullname: >-
+      Cutler Bay | Palmetto Bay | Pinecrest
+    bio: >-
+      𝗦𝗼𝘂𝘁𝗵 𝗗𝗮𝗱𝗲☀️🐊 Local Biz, Events & News Network: 300K+ 📶 𝙔𝙊𝙐𝙍 𝙇𝙊𝘾𝘼𝙇 𝙎𝙊𝘾𝙄𝘼𝙇 ⬇️Tap link below to visit us on other platforms!
+    location: "United States"
+    followers: 41433
+    engagement: 820
+    commentsToLikes: 0.052223
+    id: ckqt1viny00vi0j23a2d6t87f
+    verified: false
+    hashtags: "#cutlerbaysocial, #cbs, #free, #goulds"
+  - username: "isajaimel"
+    fullname: >-
+      Isabel Jaime de Perusquia
+    bio: >-
+      🇲🇽+🇫🇷 happy wife, fashion model, fashion enthusiast, mommy of Ana Isabel & @duquesapjaime!⭐️CONTACT:glassorigami.mx@gmail.com⭐️
+    location: "United States"
+    followers: 501423
+    engagement: 182
+    commentsToLikes: 0.018279
+    id: ck0vxdljnydj20i190kn1so4y
+    verified: false
+    hashtags: "#family, #ootd, #momanddaughter, #pascua"
   - username: "brie.thiele"
     fullname: >-
       Brie Thiele
@@ -78,7 +114,7 @@ profiles:
     commentsToLikes: 0.118953
     id: ckf5xkkt8vz660j23lyueslo2
     verified: false
-    hashtags: "#podcastforwomen, #family, #liketkit, #womenontop"
+    hashtags: "#motherhood, #daughters, #womenontopnation, #kids"
   - username: "samchampion"
     fullname: >-
       Sam Champion
@@ -91,40 +127,4 @@ profiles:
     id: ck15uvkbmopnw0i19grc22bdg
     verified: true
     hashtags: "#roses, #rooftopgarden, #nyc, #bringcoffee"
-  - username: "angieknowsthetruth"
-    fullname: >-
-      Angie 𝕩 Cincinnati Influencer
-    bio: >-
-      🙋‍♀️Angie Haering 📍Cincinnati, OH 🏝 @bythebeachandbay 🏚 @madeirahomemakeover 🌃 @cincinnatiinfluencers
-    location: "United States"
-    followers: 11890
-    engagement: 245
-    commentsToLikes: 0.122767
-    id: ck1389k5vf5tz0i196f048p8p
-    verified: false
-    hashtags: "#cincinnatimom, #cincinnatibloggers, #angieknowsthetruth, #gulfofmexico"
-  - username: "northwoodsfolk"
-    fullname: >-
-      Sunny // Folk Living                                       🌲MN🌲
-    bio: >-
-      nature-inspired mother + maker sharing the beauty of slow, seasonal living diy • recipes • gardening • home-ed • adventure 🌙 🌿 🐌 🍄🌲🧺 ✨
-    location: "United States"
-    followers: 131357
-    engagement: 474
-    commentsToLikes: 0.067900
-    id: ckx3j50xwzxpa0j2331ss8l9z
-    verified: false
-    hashtags: "#wildcraftwednesday, #nobuydiy, #thehandcraftedholiday"
-  - username: "laurenselfblogs"
-    fullname: >-
-      Lauren
-    bio: >-
-      mama x 4! low tox living | gardening + chicken mom | macrame 🌿oil IG: @oilyselfblogs 🌞 Etsy link ↓
-    location: "United States"
-    followers: 18656
-    engagement: 1858
-    commentsToLikes: 0.022000
-    id: ck8t1vbnlx6dp0j782ei1ya9s
-    verified: false
-    hashtags: "#fromwhereiwork, #smallshop, #protectbreastfeeding, #reels"
 ---

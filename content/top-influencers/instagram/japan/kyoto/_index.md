@@ -1,11 +1,11 @@
 ---
-title: Top 10 Instagram Influencers In Kyoto In 2023
+title: Top 10 Instagram Influencers In Kyoto In 2024
 description: >-
-  Find top Instagram influencers in Kyoto in 2023. Most popular hashtags: #pr #japan #ootd.
+  Find top Instagram influencers in Kyoto in 2024. Most popular hashtags: #pr #japan #ootd.
 platform: Instagram
-hits: 417
+hits: 448
 text_top: See the best Instagram profiles on inBeat.
-text_bottom: inBeat holds 417 Instagram influencers like this in Kyoto, Japan for you to collaborate.
+text_bottom: Our search engine has 448 Instagram influencers like this in Kyoto, Japan for you to connect with.
 profiles:
   - username: "stefatty_"
     fullname: >-
@@ -67,18 +67,6 @@ profiles:
     id: ck138y1viikwq0i19qtl7tnic
     verified: false
     hashtags: "#followalways, #pr, #mapiful, #mapifuljapan"
-  - username: "wawasewa"
-    fullname: >-
-      Sarah Hemi • ヘミ　セーラ
-    bio: >-
-      I write songs in my bedroom Maori 🇳🇿 + Japanese 🇯🇵 |📍Kyoto, Japan STREAM SPRING & WATERFALLS 💦💦
-    location: "Japan"
-    followers: 13504
-    engagement: 641
-    commentsToLikes: 0.029638
-    id: ck55ombin8ncx0i11hmw9bcyl
-    verified: false
-    hashtags: "#popmusic, #kyotomodel, #acousticcover, #clairo"
   - username: "eikino.__"
     fullname: >-
       hitomi☁︎ .｡•⁎
@@ -127,4 +115,16 @@ profiles:
     id: ck6tttkxmcib00j71virik66v
     verified: false
     hashtags: "#jalanjala, #fujifilm, #hueart, #daily"
+  - username: "hiromi.tomii"
+    fullname: >-
+      Hiromi.Tomii
+    bio: >-
+      #Tokyo ⇔ #kyoto⇔#yamaguchi #社会福祉士#精神保健福祉士　#MSW #スキューバダイビングインストラクター #ルーシーダットンインストラクター #インナービューティーダイエットアドバイザー #FiNCアンバサダー @finc_app
+    location: "Japan"
+    followers: 96973
+    engagement: 73
+    commentsToLikes: 0.017546
+    id: ck5zsd9a9yaaz0i14aci63ntu
+    verified: false
+    hashtags: "#golfstagram, #golfswing, #yoga, #ootd"
 ---

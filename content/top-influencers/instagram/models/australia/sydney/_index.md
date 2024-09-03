@@ -1,11 +1,11 @@
 ---
-title: Top 10 Models Instagram Influencers In Sydney In 2023
+title: Top 10 Models Instagram Influencers In Sydney In 2024
 description: >-
-  Find top models Instagram influencers in Sydney in 2023. Most popular hashtags: #sydney #softglam #model.
+  Find top models Instagram influencers in Sydney in 2024. Most popular hashtags: #model #photoshoot #beauty.
 platform: Instagram
-hits: 70
-text_top: See the best Instagram accounts on inBeat.
-text_bottom: Our database aggregates 70 Instagram influencers like this in Sydney, Australia for you to connect with.
+hits: 96
+text_top: Discover the top-rated Instagram profiles on inBeat.
+text_bottom: inBeat holds 96 Instagram influencers like this in Sydney, Australia for you to collaborate.
 profiles:
   - username: "ashley_oh_wilson"
     fullname: >-
@@ -19,6 +19,66 @@ profiles:
     id: ckapb6trsyscg0i78oz6duaym
     verified: false
     hashtags: "#girlsontour"
+  - username: "kara_aus"
+    fullname: >-
+      KARA | Import Model • Cars • Sydney Australia
+    bio: >-
+      Australian model in Sydney Australia passionate about cars, automotive events & fashion Sharing her lifestyle as an import model at car events
+    location: "Australia"
+    followers: 16882
+    engagement: 593
+    commentsToLikes: 0.020696
+    id: ck14lmkqfvf4m0i19logfnzgc
+    verified: false
+    hashtags: "#australiangirl, #babesofinsta, #australianinfluencer, #schassisloyalty"
+  - username: "janetnimundele"
+    fullname: >-
+      JANET NIMUNDELE 🌺| Style inspo
+    bio: >-
+      🇨🇩🇲🇾 Freelance Model 📍Sydney, Aus
+    location: "Australia"
+    followers: 10359
+    engagement: 900
+    commentsToLikes: 0.141547
+    id: cl9k31kpgisof0i231ovhxdzs
+    verified: false
+    hashtags: "#christmas, #christmastime, #beysisofficial, #fion"
+  - username: "ashleyrose.harris"
+    fullname: >-
+      Ashley Rose
+    bio: >-
+      |22|Sydney|Model|Dancer|Educator| Enquires: ashleyyrose.harris@gmail.com
+    location: "Australia"
+    followers: 77519
+    engagement: 114
+    commentsToLikes: 0.029242
+    id: cl9jojwytilk50i23b33tn7wp
+    verified: false
+    hashtags: "#instamood, #whitefox, #pinterest, #beauty"
+  - username: "iamshimakhosravi"
+    fullname: >-
+      shima khosravi farahani
+    bio: >-
+      🌱Fashion|Beauty CC| Model, Actress IMDb | love🎹🎤 Bookings: Shimakhosraviofficial@gmail.com Persian live 🇦🇺 🇺🇲 @shimathelabel
+    location: "Australia"
+    followers: 39157
+    engagement: 192
+    commentsToLikes: 0.032677
+    id: ck6tq2ll0p2040j71ojmm7o19
+    verified: false
+    hashtags: "#fitness, #fashionmodel, #love, #beautiful"
+  - username: "tomgayusa"
+    fullname: >-
+      Tom Gay
+    bio: >-
+      Below Deck Down Under S1⚓️ Thor 4 ❤️&⚡️ Actor, Model, TV Personality Email: Tomgay520@gmail.com
+    location: "Australia"
+    followers: 32974
+    engagement: 55
+    commentsToLikes: 0.014209
+    id: ck5q0bv1i58pv0i11z2zgn73z
+    verified: false
+    hashtags: "#model, #friends, #sydney, #actor"
   - username: "makeupbyelana__"
     fullname: >-
       PRO MAKEUP ARTIST
@@ -30,43 +90,7 @@ profiles:
     commentsToLikes: 0.120971
     id: ckaoszz9strfl0i789o5ot9i5
     verified: false
-    hashtags: "#reelsinstagram, #halloween, #smokeyeye, #glamour"
-  - username: "kara_aus"
-    fullname: >-
-      KARA カラ Sydney Tattooed Model
-    bio: >-
-      DJ & Model 📍Sydney Australia Miss @hotimportnights.au Booking Kara_alcorn@hotmail.com ❤️ @zlrgram ❤️
-    location: "Australia"
-    followers: 18013
-    engagement: 937
-    commentsToLikes: 0.037129
-    id: ck14lmkqfvf4m0i19logfnzgc
-    verified: false
-    hashtags: "#australianmodel, #inkedbeauty, #jdmgirl, #girlswholikecars"
-  - username: "taliarichman"
-    fullname: >-
-      T-Rich 👼✨💸
-    bio: >-
-      Australia/ NYC ✨ @chroniclesofbliss 🎞 @honeycoconutmilk_ 💭 Social inquiries 💌 kat@mgmt.com.au ▪️ Chic Model Management Sydney/Brisbane ▪️
-    location: "Australia"
-    followers: 231584
-    engagement: 166
-    commentsToLikes: 0.028345
-    id: ck0tzluz8qtgk0i19cv6dmi6i
-    verified: true
-    hashtags: "#bondiboost, #ad"
-  - username: "jaydeheiser"
-    fullname: >-
-      Jayde Heiser
-    bio: >-
-      Spread love and kindness only 🌼💕💓✨🌸🌈 Australian Model 🇦🇺 @scoopmanagement Sydney 📍 @jd_creates for all my cooking 👩‍🍳
-    location: "Australia"
-    followers: 200853
-    engagement: 114
-    commentsToLikes: 0.028953
-    id: ck5c6qx7460ab0i11hhr5jhqy
-    verified: false
-    hashtags: "#amore, #love, #happiness, #valentines"
+    hashtags: "#makeupartist, #underratedmuas, #sydneymua, #glam"
   - username: "matthewmitcham88"
     fullname: >-
       Matt(hew) Mitcham
@@ -79,6 +103,18 @@ profiles:
     id: ck5q3swjcmaeb0i11t3zdadog
     verified: false
     hashtags: "#lgbt, #lgbtqia, #grancanaria, #holiday"
+  - username: "annhassarati"
+    fullname: >-
+      ANN HASSARATI MAKEUP
+    bio: >-
+      Makeup Artist & Educator Owner of @_ahcosmetics Creative Team: @ah_creativeteam EMAIL: PR / Inquiries / Bookings HILLS DISTRICT NSW SHOP 👇🏼
+    location: "Australia"
+    followers: 45671
+    engagement: 157
+    commentsToLikes: 0.035900
+    id: ck0w6l5w993li0i19gm680pqw
+    verified: false
+    hashtags: "#weddingday, #brushes, #makeupartistry, #lips"
   - username: "tasha_rossxx"
     fullname: >-
       SYDNEY MODEL & MUA
@@ -91,40 +127,4 @@ profiles:
     id: ck5hsevcawhdv0i110l2fvf1e
     verified: false
     hashtags: "#skincareroutine, #livani, #awakenthesenses, #endometriosisawareness"
-  - username: "ashleighmenin"
-    fullname: >-
-      ASH MENIN
-    bio: >-
-      🇮🇹 Sydney, Aus Model Bookings: ashleighmenin@gmail.com Social: ashleigh@maxconnectors.com.au @maxconnectors
-    location: "Australia"
-    followers: 226717
-    engagement: 231
-    commentsToLikes: 0.013430
-    id: ck55l3anw0nh70i11bb01jddm
-    verified: false
-    hashtags: "#ad"
-  - username: "alexandratalifero"
-    fullname: >-
-      Alexandra Talifero
-    bio: >-
-      📍 Sydney * Wink Models * The Talent Society
-    location: "Australia"
-    followers: 68639
-    engagement: 287
-    commentsToLikes: 0.029929
-    id: ck0w0a2drd5ls0i19zen0nljo
-    verified: false
-    hashtags: ""
-  - username: "jessienorbz"
-    fullname: >-
-      J E S S I E
-    bio: >-
-      ✨ Sydney Based Model & YouTuber 🥑 Nutritionist | JORDI 🤍 🌿 Ryderwear | JESSIE10 ⬇️ MY WORKOUT & RECIPE EBOOK 🐶 Mamma to @thesimbadavis
-    location: "Australia"
-    followers: 22984
-    engagement: 480
-    commentsToLikes: 0.053697
-    id: ck13c71xkyxbe0i19kvzguau6
-    verified: false
-    hashtags: "#fitness, #lockdown, #coffee, #ad"
 ---

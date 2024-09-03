@@ -1,11 +1,11 @@
 ---
-title: Top 10 Cooking TikTok Influencers In United Kingdom In 2023
+title: Top 10 Cooking TikTok Influencers In United Kingdom In 2024
 description: >-
-  Find top cooking TikTok influencers in United Kingdom in 2023. Most popular hashtags: #learnontiktok #fyp #foryoupage #foryou.
+  Find top cooking TikTok influencers in United Kingdom in 2024. Most popular hashtags: #foryoupage #foryou #fyp #learnontiktok.
 platform: TikTok
 hits: 317
-text_top: Discover the top-rated TikTok accounts on inBeat.
-text_bottom: Our search engine aggregates 317 TikTok influencers like this in United Kingdom for you to contact.
+text_top: See the top-rated TikTok accounts on inBeat.
+text_bottom: inBeat holds 317 TikTok influencers like this in United Kingdom for you to contact.
 profiles:
   - username: "sanctuaryvegan"
     fullname: >-
@@ -42,19 +42,7 @@ profiles:
     commentsToLikes: 0.028282
     id: ckcdfr5em6s7f0j23gqpnroox
     verified: false
-    hashtags: "#mentalhealthawarness, #outfittransition, #brits2021, #letsplay"
-  - username: "ollie_eats"
-    fullname: >-
-      ollieeats
-    bio: >-
-      🎥 Showcasing home cooking hacks and amazing products from the food industry🍩
-    location: "United Kingdom"
-    followers: 266500
-    engagement: 922
-    commentsToLikes: 0.019120
-    id: ck8kh4nchlb3u0j78wbuus6kb
-    verified: false
-    hashtags: "#learnontik, #ad, #learnontiktok, #shoulditsandwich"
+    hashtags: "#brits2021, #foodscience, #berightbackworld, #garniermaskmoment"
   - username: "yasmine_eex"
     fullname: >-
       yasmine_eex
@@ -114,7 +102,7 @@ profiles:
     commentsToLikes: 0.009882
     id: ckbadr5j4628f0j23hmeqi79d
     verified: true
-    hashtags: "#easyrecipe, #happyeaster, #didyouknow, #learnontiktok"
+    hashtags: "#didyouknow, #learnontiktok, #easyrecipe, #happyeaster"
   - username: "zubyskitchen"
     fullname: >-
       Zuby’s Kitchen
@@ -127,4 +115,16 @@ profiles:
     id: cka0kek7zm7dg0i78kqmsjizw
     verified: false
     hashtags: "#tiktokchef, #desi, #myclub, #superiorsnack"
+  - username: "hbas22"
+    fullname: >-
+      Bindiya
+    bio: >-
+      Instagram-: cookingheaven2212
+    location: "United Kingdom"
+    followers: 141000
+    engagement: 283
+    commentsToLikes: 0.009323
+    id: ck9616zmqldi60j78goc5hgsx
+    verified: false
+    hashtags: "#foodie, #foodies, #tiktok, #foryoupage"
 ---

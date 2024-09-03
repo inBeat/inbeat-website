@@ -1,11 +1,11 @@
 ---
-title: Top 10 Comedians TikTok Influencers In United Kingdom In 2023
+title: Top 10 Comedians TikTok Influencers In United Kingdom In 2024
 description: >-
-  Find top comedians TikTok influencers in United Kingdom in 2023. Most popular hashtags: #fyp #foryou #comedy #ukcomedy.
+  Find top comedians TikTok influencers in United Kingdom in 2024. Most popular hashtags: #fyp #foryou #comedy #ukcomedy.
 platform: TikTok
-hits: 80
-text_top: Analyze the top-rated TikTok profiles on inBeat.
-text_bottom: Our database holds 80 TikTok influencers like this in United Kingdom for you to contact.
+hits: 83
+text_top: Identify the top-rated TikTok influencers on inBeat.
+text_bottom: Our platform aggregates 83 TikTok influencers like this in United Kingdom for you to pitch.
 profiles:
   - username: "thebenlangleyshow"
     fullname: >-
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.038392
     id: ck8ndr8hfk9580j78qxu5m24u
     verified: true
-    hashtags: "#acting, #london, #actress, #comedy"
+    hashtags: "#ukcomedy, #futuretheatrefund, #diy, #london"
   - username: "sofie.hagen"
     fullname: >-
       Sofie Hagen
@@ -66,7 +66,7 @@ profiles:
     commentsToLikes: 0.024075
     id: ckb9cyjbozyal0j23n5zcfhno
     verified: false
-    hashtags: "#braidedwig, #toilethack, #duet, #azspltd"
+    hashtags: "#cosoriairfryer, #toilethack, #azspltd, #nerridofoods"
   - username: "olaffalafel"
     fullname: >-
       Olaf Falafel

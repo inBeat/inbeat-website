@@ -1,12 +1,24 @@
 ---
-title: Top 10 Cosmetics Instagram Influencers In Austin In 2023
+title: Top 10 Cosmetics Instagram Influencers In Austin In 2024
 description: >-
-  Find top cosmetics Instagram influencers in Austin in 2023. Most popular hashtags: #fashion #cosmetics #mua #austin.
+  Find top cosmetics Instagram influencers in Austin in 2024. Most popular hashtags: #fashion #austin #explorepage #atx.
 platform: Instagram
-hits: 26
-text_top: Analyze the top-rated Instagram profiles on inBeat.
-text_bottom: Our platform holds 26 Instagram influencers like this in Austin, United States for you to connect with.
+hits: 31
+text_top: See the best Instagram profiles on inBeat.
+text_bottom: Our platform holds 31 Instagram influencers like this in Austin, United States for you to contact.
 profiles:
+  - username: "jannaortiz1"
+    fullname: >-
+      𝙅𝘼𝙉𝙉𝘼 𝙊𝙍𝙏𝙄𝙕
+    bio: >-
+      Filipina 🇵🇭 Austin TX Twitter: Jannaortiz1
+    location: "United States"
+    followers: 3504
+    engagement: 1522
+    commentsToLikes: 0.074640
+    id: ck5q6e1jrx0dy0i11ssc44sp5
+    verified: false
+    hashtags: "#thriftingfinds, #swimsuit, #atx, #ootd"
   - username: "nailed_by_becky"
     fullname: >-
       BECKY WITH THE GOOD NAILS™️
@@ -19,42 +31,78 @@ profiles:
     id: ck6tk5n3o41r70j71oizdxx9j
     verified: false
     hashtags: "#nailart, #acrylicnailsdesign, #coffinnails, #quarantine"
-  - username: "melu103"
+  - username: "sorellawaxbar"
     fullname: >-
-      𝘔𝘦𝘭𝘪𝘯𝘢 ❥
+      Brow lamination • waxing • lash lifts
     bio: >-
-      📍❘ ⁣𝙰𝚞𝚜𝚝𝚒𝚗, 𝚃𝚇 🌎❘ 𝐦𝐚𝐝𝐞 𝐢𝐧 𝙰𝚛𝚐𝚎𝚗𝚝𝚒𝚗𝚊 🇦🇷⁣ 💻❘ Social Media Content Creator
+      Waxing LA since 2014🤎 #1 wax bar in the valley • 📍 𝑾𝑶𝑶𝑫𝑳𝑨𝑵𝑫 𝑯𝑰𝑳𝑳𝑺 𝑪𝑨 EMAIL sorellawaxbar@gmail.com FOR TRAINING INFORMATION Click link to book ⬇️
     location: "United States"
-    followers: 9331
-    engagement: 256
-    commentsToLikes: 0.104617
-    id: ck6ua4ehe1f2h0j719d0ie3wx
+    followers: 18446
+    engagement: 319
+    commentsToLikes: 0.019416
+    id: ckpz2a1idcg9j0j230k302jom
     verified: false
-    hashtags: "#staymotivated, #healthy, #eatright, #fatloss"
-  - username: "jannaortiz1"
+    hashtags: "#sorellabrows"
+  - username: "skindrreed"
     fullname: >-
-      𝙅𝘼𝙉𝙉𝘼 𝙊𝙍𝙏𝙄𝙕
+      Kellie Reed, MD, FAAD
     bio: >-
-      Filipina 🇵🇭 Austin TX Twitter: Jannaortiz1
+      Board-certified dermatologist Westlake Dermatology Far West 📍Austin TX ✨Skin expert ✨Medical/cosmetic dermatology ✨#austindermatologist
     location: "United States"
-    followers: 3504
-    engagement: 1522
-    commentsToLikes: 0.074640
-    id: ck5q6e1jrx0dy0i11ssc44sp5
+    followers: 17224
+    engagement: 119
+    commentsToLikes: 0.096977
+    id: ckmw1blj05zra0j23bsekwxsk
     verified: false
-    hashtags: "#fashion, #fashionista, #officialfuegobabe, #mua"
-  - username: "lisajmakeup"
+    hashtags: "#sunprotection, #skincare, #yourdermatologistknows, #dermatologist"
+  - username: "alli_loves_skincare"
     fullname: >-
-      Lisa J
+      Allison ✨ Skincare Consultant
     bio: >-
-      Creator & Founder @thebkbeauty Passion for Beauty. Mission to Inspire Kindness 💜 YouTube 🎥 LisaJMakeup Austin, TX
+      Austin Based Lover & Reviewer of All Things Beauty Ingredient Focused solutions to slow down the signs of aging Makeup Addict and pretty packaging
     location: "United States"
-    followers: 33784
-    engagement: 264
-    commentsToLikes: 0.070886
-    id: ck5hdvxqgpn2v0i11p2gl121l
+    followers: 26021
+    engagement: 482
+    commentsToLikes: 0.086993
+    id: clr5xsptgsfoo0k08u3nqttdz
     verified: false
-    hashtags: "#liketkit, #kendrascott, #ad, #ltkbeauty"
+    hashtags: "#skincareroutine, #cleanatsephora, #makeupreel, #skincarereels"
+  - username: "angeschka"
+    fullname: >-
+      Angelica Nyqvist
+    bio: >-
+      Swede living in Austin, TX 🇸🇪🇺🇸 Youtuber - Angelica Nyqvist 🎥 Owner of @singe_beauty Links/Codes marked 'affiliated' earn me a comission
+    location: "United States"
+    followers: 71867
+    engagement: 135
+    commentsToLikes: 0.018212
+    id: ck0w1bhmdiiep0i191f6ob9us
+    verified: false
+    hashtags: "#newmakeup, #bellabeautebar, #makeupinspo, #eyeshadowswatches"
+  - username: "drkristinacollins"
+    fullname: >-
+      Kristina Collins, MD FAAD
+    bio: >-
+      Harvard trained, double board certified dermatologist & surgeon Founder @love.foy Co-founder @austinskinphysicians On a mission to uplift & empower
+    location: "United States"
+    followers: 111283
+    engagement: 153
+    commentsToLikes: 0.028340
+    id: ckf5mzqz9w4jo0j23nmz03qh4
+    verified: false
+    hashtags: "#laser, #austintexas, #skincare, #sunprotection"
+  - username: "makeupbypita"
+    fullname: >-
+      Lupita
+    bio: >-
+      welcome to my life bestie💗🍓🎀✨🩰 Austin,Tx TikTok & YT: Makeupbypita 💌Makeupbypita@bowie-talent.com LINKS TO ALL MY FAVS BELOW
+    location: "United States"
+    followers: 162368
+    engagement: 1
+    commentsToLikes: 0.000000
+    id: ck0vv5hz8nn3i0i19n3s9ejgo
+    verified: false
+    hashtags: "#couple, #newhome, #home, #familia"
   - username: "chelseasmakeup"
     fullname: >-
       Chelsea Tresidder
@@ -79,52 +127,4 @@ profiles:
     id: ck5hfgoatxe0w0i119ltgerzp
     verified: false
     hashtags: "#drag, #dragqueen, #dragmakeup, #transformation"
-  - username: "lovelyysamantha"
-    fullname: >-
-      Samantha Nguyen
-    bio: >-
-      Austin, Tx Don’t be the reason you don’t reach your goals ✨ Family 💕
-    location: "United States"
-    followers: 8354
-    engagement: 524
-    commentsToLikes: 0.051323
-    id: ck5pzv63a2wlv0i119dagil0g
-    verified: false
-    hashtags: "#makeuptutorial, #makeup, #makeuplooks, #austinmakeupartist"
-  - username: "realself"
-    fullname: >-
-      RealSelf
-    bio: >-
-      Factual, unbiased info on cosmetic procedures. Find a doctor for an in-person or virtual consult👇
-    location: "United States"
-    followers: 229639
-    engagement: 45
-    commentsToLikes: 0.032925
-    id: ck5q2wui7i63k0i113wv9eemy
-    verified: true
-    hashtags: ""
-  - username: "cutenailstudio"
-    fullname: >-
-      Cute Nail Studio
-    bio: >-
-      🌈 lgbtqia+ safe space // manis and pedis // nail art // waxing // skincare // tattoos // currently building out our second location // we love you 🌙
-    location: "United States"
-    followers: 59413
-    engagement: 199
-    commentsToLikes: 0.010520
-    id: ck0vwjxn4u6a80i197t7nuiqq
-    verified: false
-    hashtags: "#austin, #valentinesnails, #nailpolishaddict, #cutecult"
-  - username: "alaia_mcbroom__"
-    fullname: >-
-      🦋Alaia Marie Mcbroom🦋
-    bio: >-
-      Business inquires: helloletscollaborate@gmail.com 💜💙 Positive mind | Positive vibe | Positive life Be the reason someone smile today!!
-    location: "United States"
-    followers: 24161
-    engagement: 241
-    commentsToLikes: 0.003417
-    id: ckf5xm2c6w5os0j239tgw4iph
-    verified: false
-    hashtags: "#theacefamily, #catherinemcbroom, #ellemcbroom, #family"
 ---

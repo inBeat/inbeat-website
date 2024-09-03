@@ -1,108 +1,48 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Los Angeles In 2023
+title: Top 10 Fashion Instagram Influencers In Los Angeles In 2024
 description: >-
-  Find top fashion Instagram influencers in Los Angeles in 2023. Most popular hashtags: #fashion #losangeles #model #photography.
+  Find top fashion Instagram influencers in Los Angeles in 2024. Most popular hashtags: #losangeles #fashion #la #photoshoot.
 platform: Instagram
-hits: 1212
-text_top: Discover the top-rated Instagram influencers on inBeat.
-text_bottom: inBeat holds 1212 Instagram influencers like this in Los Angeles, United States for you to contact.
+hits: 1494
+text_top: See the best Instagram accounts on inBeat.
+text_bottom: Our search engine aggregates 1494 Instagram influencers like this in Los Angeles, United States for you to pitch.
 profiles:
-  - username: "hellolyndon"
-    fullname: >-
-      L Y N D O N   S M I T H
-    bio: >-
-      Actress + Advocate of Sustainable Fashion Los Angeles⁣ hellolyndonsmith@gmail.com
-    location: "United States"
-    followers: 62189
-    engagement: 202
-    commentsToLikes: 0.051369
-    id: ck0u740ji3nl00i19ddzvv3vz
-    verified: true
-    hashtags: ""
   - username: "peixotodust"
     fullname: >-
-      Jennifer Peixoto
+      Jennifer Mejia
     bio: >-
-      @heruniverse, @boxlunchgifts, @oliveandjune Ambassador 4’11” Fashion Los Angeles 🌅 Mental Health Advocate 💞 Fandoms. Faithtrustpeixotodust@gmail.com
+      Pop Culture| Fandom Fashion| Los Angeles| Bookish Soul: @cozywithjennifer | Mental Health Advocate|Faithtrustpeixotodust@gmail.com
     location: "United States"
-    followers: 18943
-    engagement: 157
-    commentsToLikes: 0.196333
+    followers: 17810
+    engagement: 48
+    commentsToLikes: 0.110847
     id: ckaoxxmvwf6zm0i78c6ui92n4
     verified: false
-    hashtags: "#htfandom, #downtowndisney, #huambassador, #boxlunch"
-  - username: "bhavna_popli_"
+    hashtags: "#husponsored, #boxlunchgifts, #flauntyourworld, #mickeypumpkin"
+  - username: "jackiegansky"
     fullname: >-
-      𝓑𝓱𝓪𝓿𝓷𝓪🦋
+      Jackie Gansky
     bio: >-
-      °` 🎀 𝒟𝑒𝓁𝒽𝒾 🎀 `° 𝓢𝓖𝓖𝓢𝓒𝓒 ||𝓓𝓤|| 👻- bhavnapopli15 🎂- 29 feb ♥️💯 𝐹𝒶𝓈𝒽𝒾𝑜𝓃 ||𝐹𝑜𝑜𝒹 ||𝐿𝐼𝐹𝐸𝒮𝒯𝒴𝐿𝐸
+      TikTok @jackiegansky 3.5 million
     location: "United States"
-    followers: 3300
-    engagement: 1711
-    commentsToLikes: 0.100220
-    id: ck8t1mvjqwaff0j78977hc5rh
+    followers: 189004
+    engagement: 58
+    commentsToLikes: 0.021363
+    id: ck6ugjik03e640j71sgwc1iaf
     verified: false
-    hashtags: "#popxofashion, #cutest, #fashionista, #converse"
-  - username: "sandrazuri411"
+    hashtags: "#tryonhaul, #revolveme, #ootd, #grwm"
+  - username: "nadiaperixo"
     fullname: >-
-      Sandra Zuri
+      N A D I A  P E R I 🦚
     bio: >-
-      💕@SZ411adventures 📸@916.aestheticz 👑@GoddessZuri411 🌎 916, CALIFORNIA ART▪︎CARS▪︎FASHION▪︎INK
+      🇮🇷🇬🇧🇵🇱🇮🇪 born in 🇦🇺🐨 @bicoastalmgmt 📍LA Model/Content creator Beauty + Fashion || 🎗️Leukaemia survivor 📧nadiapericontact@gmail.com faves ⬇️
     location: "United States"
-    followers: 5324
-    engagement: 1372
-    commentsToLikes: 0.080427
-    id: ck5q81t4q42860i111ux54kb1
+    followers: 27013
+    engagement: 39
+    commentsToLikes: 0.032036
+    id: ck15q4qdz13970i1945z2p7hy
     verified: false
-    hashtags: "#portrait, #life, #goth, #fashion"
-  - username: "courtney_lanexo"
-    fullname: >-
-      Courtney Newman 👑
-    bio: >-
-      🦋 LA Beauty + Fashion Blogger @lasmilespecialists Collabs: emailcourtneynewman@gmail.com
-    location: "United States"
-    followers: 43151
-    engagement: 175
-    commentsToLikes: 0.066313
-    id: ck5c7gz6i7iqo0i11zhpejmov
-    verified: false
-    hashtags: "#fashion, #losangeles, #ootd, #hairgoals"
-  - username: "cmyemima"
-    fullname: >-
-      💋سيندي
-    bio: >-
-      👸🏻World Beauty Queen Indonesia'15 ⠀ ⠀ ⠀⠀ ⠀ ⠀ ⠀ ⠀⠀ ⠀ 👸🏻1st RU MISS ASIA USA'16 ⠀ ⠀⠀ ⠀ ⠀⠀ 🇮🇩🇸🇬🇦🇺🇺🇸 FIDM🎓Designer @houseofcn @prestigiousmodels
-    location: "United States"
-    followers: 35812
-    engagement: 216
-    commentsToLikes: 0.080013
-    id: ckap1tgmaw2ix0i78ai3bmrkr
-    verified: false
-    hashtags: "#photography, #streetstyle, #photoshoot, #modeling"
-  - username: "alexstergios"
-    fullname: >-
-      Alexandra Stergios
-    bio: >-
-      📍LA/MX #Periodista 📽 Host @canalestrellatv 📺 12pm & 5pm @noticias62tv Cronista Deportivo⚽️🏈🏀 Nací en 🇩🇰, soy 🇲🇽 Twitter: @alexs265
-    location: "United States"
-    followers: 81287
-    engagement: 207
-    commentsToLikes: 0.069340
-    id: ck0u6237a0ra10i19mfvmctui
-    verified: false
-    hashtags: "#fashion, #losangeles, #makeup, #outfit"
-  - username: "emzcurry"
-    fullname: >-
-      Emma Currington
-    bio: >-
-      Bixby, Ok Agency: @tabbmodels • @sterlingimagesmodelandtalent • @kimdawsonagency • @avalonartists_youth Snap:emmaacurryy👻 TikTok: emmaacurryy
-    location: "United States"
-    followers: 20700
-    engagement: 244
-    commentsToLikes: 0.096465
-    id: ck8weou9lee0i0j78uus8w8ko
-    verified: false
-    hashtags: "#strong, #chic, #scout, #hairgoals"
+    hashtags: "#persian, #meshki, #lamodels, #fashioninspo"
   - username: "makenzie__coleman"
     fullname: >-
       Kenz
@@ -127,4 +67,64 @@ profiles:
     id: ck6tyxxui6hv30j71ajhglz2r
     verified: false
     hashtags: "#photography, #la, #ootd, #fashion"
+  - username: "goopmassta"
+    fullname: >-
+      GoopMassta©
+    bio: >-
+      An iconic character #GoopMassta your froggy friend 🐸💦 goopmasstamgmt@gmail.com
+    location: "United States"
+    followers: 28412
+    engagement: 61
+    commentsToLikes: 0.056169
+    id: ck5bx57ncn14k0i117h06c109
+    verified: false
+    hashtags: "#urbanartist, #goop, #toycollector, #tokoyo"
+  - username: "tikoarmani"
+    fullname: >-
+      
+    bio: >-
+      ▫️ LA🌴🌊 / OH❄️ ▪️ Exotic Car Rentals ▫️@addisonguerra ▪️ tikoarmani 👻 ▫️Armenian🇦🇲
+    location: "United States"
+    followers: 34271
+    engagement: 349
+    commentsToLikes: 0.015181
+    id: ck5zsa0r7y3je0i14vwtg734d
+    verified: false
+    hashtags: "#newyork, #entrepreneur, #success, #stlylist"
+  - username: "j_uniqueeye"
+    fullname: >-
+      Jermaine Gibbs
+    bio: >-
+      - 📸 DMV, NYC, LA, Africa - Traveler - Founder of @hopemissionsghana - Influencer
+    location: "United States"
+    followers: 63765
+    engagement: 390
+    commentsToLikes: 0.014564
+    id: ck6u4jkuw43ab0j71dj0evjju
+    verified: false
+    hashtags: "#model, #lifeisgood, #suits, #mensfashion"
+  - username: "oxanaalexphotography"
+    fullname: >-
+      Oxana Alex
+    bio: >-
+      Los Angeles. Published Photographer Fashion @oxanaalexfashionphoto
+    location: "United States"
+    followers: 105953
+    engagement: 52
+    commentsToLikes: 0.023673
+    id: ck5cfdtnkmr6z0i11lhhlhewl
+    verified: false
+    hashtags: "#maternityphotoshoot, #losangeles, #lamaternity, #lamoms"
+  - username: "miles.minnick"
+    fullname: >-
+      Miles Minnick
+    bio: >-
+      It’s bigger than we thought 🪩🏴 @christlikecollection @the.glocollective Inquires: minnickinfo@gmail.com
+    location: "United States"
+    followers: 261797
+    engagement: 420
+    commentsToLikes: 0.050906
+    id: ckmw1balt5v1f0j23dcbatact
+    verified: false
+    hashtags: "#christianrap, #fyp, #christian, #chh"
 ---

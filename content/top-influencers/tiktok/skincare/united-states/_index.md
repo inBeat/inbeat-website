@@ -1,11 +1,11 @@
 ---
-title: Top 10 Skincare TikTok Influencers In United States In 2023
+title: Top 10 Skincare TikTok Influencers In United States In 2024
 description: >-
-  Find top skincare TikTok influencers in United States in 2023. Most popular hashtags: #duet #skincare #makeup #ootd.
+  Find top skincare TikTok influencers in United States in 2024. Most popular hashtags: #skincare #duet #makeup #foryou.
 platform: TikTok
-hits: 3615
-text_top: Analyze the top-rated TikTok profiles on inBeat.
-text_bottom: Our platform has 3615 TikTok influencers like this in United States for you to connect with.
+hits: 3579
+text_top: See the top-rated TikTok accounts on inBeat.
+text_bottom: Our search engine holds 3579 TikTok influencers like this in United States for you to connect with.
 profiles:
   - username: "allthingscloseup"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.151081
     id: ckbbpkbd9dfjp0j23g7rkokkx
     verified: false
-    hashtags: "#grwm, #upclose, #closeups, #aesthetic"
+    hashtags: "#routine, #trendy, #closeup, #ootd"
   - username: "jc.dombrowski"
     fullname: >-
       J.C. Dombrowski
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.010895
     id: ck80obynrgodq0j786z4nwcq0
     verified: true
-    hashtags: "#fyp, #scary, #ocean, #edutok"
+    hashtags: "#wtf, #lifehacks, #funny, #ocean"
   - username: "avecnou"
     fullname: >-
       Minou
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.151162
     id: ckbfflxyvae6l0j23v9fyz53x
     verified: false
-    hashtags: "#skincareroutine, #ootd, #makeuptutorial, #makeuptips"
+    hashtags: "#casualoutfits, #ootd, #glowymakeuptutorial, #asianmakeuptutorial"
   - username: "seechelleflow"
     fullname: >-
       Lynn
@@ -78,19 +78,19 @@ profiles:
     commentsToLikes: 0.076720
     id: ck92xai6sxwye0j787t00wjw0
     verified: false
-    hashtags: "#headbandwig, #naturalhair, #naturalhairstyles, #foryou"
+    hashtags: "#foryou, #naturalhairstyles, #naturalhair, #type4hair"
   - username: "idewcare"
     fullname: >-
       I Dew Care
     bio: >-
       CEO of Seriously Fun Skincare! 😜 Available @amazon + @ultabeauty + @target.com
     location: "United States"
-    followers: 433900
-    engagement: 2053
-    commentsToLikes: 0.011121
+    followers: 439500
+    engagement: 1868
+    commentsToLikes: 0.012916
     id: ck8hp39u4xu430j78n2c207u3
     verified: true
-    hashtags: "#skincare101, #asmr, #closeup, #ulta"
+    hashtags: "#amazonfinds, #ultabeauty, #skincare, #asmr"
   - username: "morgan__jane"
     fullname: >-
       MJ
@@ -114,7 +114,7 @@ profiles:
     commentsToLikes: 0.038757
     id: ckbf1csw4nf6p0j23ih0cto3m
     verified: false
-    hashtags: "#spfeveryday, #tiktokggt, #skiptherinse, #doritosduetroulette"
+    hashtags: "#wearsunscreendaily, #tiktokggt, #shadowandbone, #doritosduetroulette"
   - username: "joshpusateri"
     fullname: >-
       Josh Pusateri

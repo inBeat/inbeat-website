@@ -1,12 +1,24 @@
 ---
-title: Top 10 Crossfit Instagram Influencers In Portugal In 2023
+title: Top 10 Crossfit Instagram Influencers In Portugal In 2024
 description: >-
-  Find top crossfit Instagram influencers in Portugal in 2023. Most popular hashtags: #crossfit #workout #fitness #bodybuilding.
+  Find top crossfit Instagram influencers in Portugal in 2024. Most popular hashtags: #crossfit #workout #fitnessmotivation #bodybuilding.
 platform: Instagram
 hits: 10
-text_top: Discover the most popular Instagram influencers on inBeat.
-text_bottom: Our platform has 10 Instagram influencers like this in Portugal for you to pitch.
+text_top: See the most popular Instagram influencers on inBeat.
+text_bottom: Our search engine aggregates 10 Instagram influencers like this in Portugal for you to connect with.
 profiles:
+  - username: "zeblackturboofficial"
+    fullname: >-
+      Zé Preto
+    bio: >-
+      ➡️🦁inhuman calisthenics 🦁 ➡️☀️52 years old 💪🏿 ➡️💪pro calisthenics 💪 ➡️gravity fitness code: ze10
+    location: "Portugal"
+    followers: 290760
+    engagement: 884
+    commentsToLikes: 0.041959
+    id: ck6tulw93h34k0j71i5ndwdae
+    verified: false
+    hashtags: "#finessmotivation, #barflex, #calisthenicstraining, #viralposts"
   - username: "alannimal16"
     fullname: >-
       Ａｌａｎｎａ  M a r i a
@@ -30,19 +42,7 @@ profiles:
     commentsToLikes: 0.041959
     id: ckap9t0mgtjb50i78b1t0xl9h
     verified: false
-    hashtags: "#crossfitfrance, #qntsportnutrition, #summervibes, #crossfitbelgium"
-  - username: "zeblackturboofficial"
-    fullname: >-
-      Zé Preto
-    bio: >-
-      🥇World records front lever🥇 🦍 inhumam power ▪️🇨🇻🇵🇹🇺🇲50 years old and still crazy af ◾100% natural strength💪 ◾the strongest core in the world 👽
-    location: "Portugal"
-    followers: 76442
-    engagement: 442
-    commentsToLikes: 0.046478
-    id: ck6tulw93h34k0j71i5ndwdae
-    verified: false
-    hashtags: "#beast, #oldschool, #california, #crossfit"
+    hashtags: "#nutrition, #abdos, #beachlife, #nutritionsportive"
   - username: "sofia.pires.fitness"
     fullname: >-
       ♥️ Sofia Pires ♥️
@@ -66,7 +66,7 @@ profiles:
     commentsToLikes: 0.004110
     id: ck135sml231120i199ktzjhbc
     verified: false
-    hashtags: "#football, #halamadrid, #laliga, #fifa18"
+    hashtags: "#sportingcp, #cr7underwear, #ronaldo, #amazing"
   - username: "inkartluis"
     fullname: >-
       LUÍS FIGUEIREDO ART
@@ -90,7 +90,19 @@ profiles:
     commentsToLikes: 0.021869
     id: ck6txdv3dx9lj0j7153kjm1a3
     verified: false
-    hashtags: "#crossfit, #lbs, #torino, #primal"
+    hashtags: "#kettlebellworkout, #torino, #trainingday, #fitnessmotivation"
+  - username: "catmeffan"
+    fullname: >-
+      CAT MEFFAN | Embodied Movement, Sound + Breath 🌷
+    bio: >-
+      🧘🏼‍♀️ Yoga & Retreats: @MySoulSanctuary 🏡 Home: @CatandLuke 💥👇🏼 NEW Portugal September Retreat👇🏼💥
+    location: "Portugal"
+    followers: 205792
+    engagement: 4
+    commentsToLikes: 0.000606
+    id: ck0u0ypd1vcct0i19hwapj8sk
+    verified: true
+    hashtags: "#yogaretreat, #yogainspiration, #freemovement, #yoga"
   - username: "fit_with_lia"
     fullname: >-
       🇱​🇮​🇦
@@ -115,16 +127,4 @@ profiles:
     id: ck5q7hr271ml50i11u38vvdvu
     verified: false
     hashtags: "#placetobe, #timanfaya, #mountains, #landscapephotography"
-  - username: "rastobaranek36"
-    fullname: >-
-      Rasto Baranek
-    bio: >-
-      25 | Slovakia 🇸🇰 | basically riding bikes 🚴‍♂️ Kellys Factory Team | #bikerasto @bike.mission rastobaranek@gmail.com 📩
-    location: "Portugal"
-    followers: 6339
-    engagement: 861
-    commentsToLikes: 0.011368
-    id: ck5zw9m0g5qkd0i14cwmq0oz3
-    verified: false
-    hashtags: "#theos, #slovakia, #cycling, #bikelife"
 ---

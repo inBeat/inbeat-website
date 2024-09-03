@@ -1,130 +1,130 @@
 ---
-title: Top 10 Fitness Instagram Influencers In India In 2023
+title: Top 10 Fitness Instagram Influencers In India In 2024
 description: >-
-  Find top fitness Instagram influencers in India in 2023. Most popular hashtags: #fitness #fashion #reels #explorepage.
+  Find top fitness Instagram influencers in India in 2024. Most popular hashtags: #fitness #fitnessmotivation #travel #reels.
 platform: Instagram
-hits: 1503
-text_top: Analyze the most popular Instagram accounts on inBeat.
-text_bottom: inBeat has 1503 Instagram influencers like this in India for you to work with.
+hits: 1854
+text_top: Discover the top-rated Instagram influencers on inBeat.
+text_bottom: Our search engine holds 1854 Instagram influencers like this in India for you to collaborate.
 profiles:
-  - username: "rohitkhatrifitness"
+  - username: "kuldepsethi"
     fullname: >-
-      Rohit Khatri
+      Kuldep Sethi
     bio: >-
-      🔹Sports Science Nutritionist 🔹Brands : rohitkhatribiz@gmail.com 🔹Dm For Paid Online Coaching 📝 🔹India’s No. 1 Fitness Channel (YouTube)
+      Celebrity fitness trainer/ life coach Certified by ACSM, CSCS ,TRX ,IKFF START YOUR FITNESS JOURNEY NOW 👇🏼
     location: "India"
-    followers: 614738
-    engagement: 467
-    commentsToLikes: 0.004563
-    id: ck8wd6rbxdgf00j78gz3so4nb
+    followers: 91642
+    engagement: 2936
+    commentsToLikes: 0.025148
+    id: ck0tvksn7bsu20i19j4obmpgq
     verified: false
-    hashtags: "#hotcouples, #bicepsworkout, #rohitsoniya, #motivation"
-  - username: "apoorvaalex"
+    hashtags: "#reelitfeelit, #workoutvideos, #tollywood, #reelkarofeelkaro"
+  - username: "i_want_dush"
     fullname: >-
-      𝘼𝙥𝙤𝙤𝙧𝙫𝙖 𝘼𝙡𝙚𝙭 💕
+      Dushyant Jadaun
     bio: >-
-      Fashion | Fitness Ordinary girl with big dreams ✨ YouTube link
+      Grooming • Fashion • Lifestyle • Fitness धीरे-धीरे अपने सारे सपने सच कर रहा हूँ ।
     location: "India"
-    followers: 781730
-    engagement: 740
-    commentsToLikes: 0.011592
-    id: ckvbtb4xz6dpb0j2345pxwuk7
+    followers: 371297
+    engagement: 769
+    commentsToLikes: 0.053126
+    id: ck9wh6rchwihj0j78cmrk87ty
     verified: false
-    hashtags: "#positivevibe, #girlwholift, #gym, #love"
-  - username: "thefitvogue"
+    hashtags: "#mybharat, #perfumelovers, #fragrancecollection, #zudio"
+  - username: "urspratyusha"
     fullname: >-
-      Yash Pal Singh
+      Pratyusha P
     bio: >-
-      ▪️ : Menswear | Lifestyle | Fitness 📩 : thefitvogue@gmail.com 👻 : thefitvogue 📍 : Mumbai / Delhi 🇮🇳 Dm / Email for Collaboration⤵️ Living the dream…
+      🎂 04/02 📍Vizag Acting 🤍 Fashion 👗 Lifestyle 🍀 Fitness 💪 Inquiries : pratyushaofficial@gmail.com
     location: "India"
-    followers: 106636
-    engagement: 632
-    commentsToLikes: 0.014788
-    id: ck6uevdl2takk0j71845dh2us
+    followers: 311199
+    engagement: 402
+    commentsToLikes: 0.007419
+    id: ckf5tq0tsiftv0j234yd8597r
     verified: false
-    hashtags: "#styling, #thefitvogue, #fashion, #explore"
-  - username: "akash_d_prabhu"
+    hashtags: "#wawaforyou, #mee, #meepratyusha, #hellopratyu"
+  - username: "shwetaapal"
     fullname: >-
-      AKASH DINESH PRABHU
+      Shweta Pal || Fitness&Fashion
     bio: >-
-      Sky beast 🦁 Fashion and fitness 🦁
+      Fashion| Fitness| Lifestyle| Travel JaiGuruJi ૐ @acruxgym @fitindiaoff Ambassador🇮🇳 @asitisnutrition"Shwetapalasitis" 📧: contactshwetaapal@gmail.com
     location: "India"
-    followers: 75729
-    engagement: 460
-    commentsToLikes: 0.008572
-    id: ckap402la59660i78p84xb03x
+    followers: 614140
+    engagement: 505
+    commentsToLikes: 0.006677
+    id: ck136k80i6woy0i19r5wxuqig
     verified: false
-    hashtags: "#explore, #abs, #reels, #love"
-  - username: "zaveri_dhaval"
+    hashtags: "#delhifashion, #fitgirlindia, #aestheticoutfit, #fitgirlinspire"
+  - username: "_mr.lift_"
     fullname: >-
-      Dhaval Zaveri
+      BAJIO MJ | _ MR LIFT_ 🧿
     bio: >-
-      Digital Content Creator👤 Traveller 🗺| Lifestyle/Fashion🕴| Food | Motivation | #Mumbai #Lifestyle #Fashion #Sports #Fitness #Motivation #Comedy #Tech
+      🇮🇳🇦🇪🇴🇲 Fitness athlete 🏅 Reps Level 4 certified trainer 📚 DM for coaching enquiries GYM |ONLINE COACHING FITNESS, NUTRITION, MINDSET Carpediem!
     location: "India"
-    followers: 109230
-    engagement: 283
-    commentsToLikes: 0.059515
-    id: ck8tc5m6jyd1v0j787w66w34t
+    followers: 29193
+    engagement: 788
+    commentsToLikes: 0.045108
+    id: ck5bxozj1o4yt0i11db31niyo
     verified: false
-    hashtags: "#dhavalzaveri, #respectallbandhans, #2023, #trending"
-  - username: "anupriyakapur"
+    hashtags: "#workout, #bodybuilding, #instagram, #mrliftthings"
+  - username: "alphayash"
     fullname: >-
-      Anupriya
+      Yash Sharma
     bio: >-
-      Single Mom | Blogger | Co-founder @imbuenatural Fitness. Lifestyle. Travel. Relatable Fashion.
+      🇮🇳 Co-Founder @1rmofficial 🎥 YouTube: YASH SHARMA FITNESS
     location: "India"
-    followers: 238882
-    engagement: 204
-    commentsToLikes: 0.029517
-    id: ck13bcdbvuqyd0i19b00ekhkl
-    verified: true
-    hashtags: "#shotoniphone14promax, #ad, #srilanka, #fitover40"
-  - username: "sparsh_alawadhi"
-    fullname: >-
-      SPARSH🥂
-    bio: >-
-      23 Fashion / Fitness / Lifestyle 📍| Delhi | India 👻 : sparsh9953 For collaborations 👇 📩 : sparsh.allawadi123456@gmail.com
-    location: "India"
-    followers: 72526
-    engagement: 201
-    commentsToLikes: 0.033284
-    id: ckv1vnc6mw63e0j23hsofahqm
+    followers: 104686
+    engagement: 736
+    commentsToLikes: 0.010053
+    id: ck8t0ziamtwq00j78vh1sdk7d
     verified: false
-    hashtags: "#instagood, #menwithstyle, #sexy, #men"
-  - username: "ajayjeswani88official"
+    hashtags: "#1repmore, #onerepmore, #alphayash, #stayhard"
+  - username: "odysseyoftwo"
     fullname: >-
-      Ajay Jeswani
+      Rebecca Roy | Gowthaman ilambarathi
     bio: >-
-      FITNESS INFLUENCERS personal trainer Wish me 25 march Dm for brand collaborations contact
+      📹Capturing Life and Travel Tales 🗺Destinations| Lifestyle| Fashion| Fitness #52 FORBES 🇮🇳 Digital ⭐s @canonindia_official EOS influencer 📍from Chennai
     location: "India"
-    followers: 81448
-    engagement: 163
-    commentsToLikes: 0.026058
-    id: ck8wesk0tejw70j78qfocfgwn
+    followers: 310059
+    engagement: 401
+    commentsToLikes: 0.008425
+    id: ck8t30co31ets0j78gsnaw7wi
     verified: false
-    hashtags: "#instagood, #lifestyle, #fitnessmodel, #asitisnutrition"
-  - username: "thepinkumbrella_diaries"
+    hashtags: "#indiantravelblogger, #chennaiblogger, #travelingram, #indianblogger"
+  - username: "dr.chaithra_shetty"
     fullname: >-
-      Neha Modi Jalan
+      Chaithra R Shetty |Yoga|Travel |Parenting|
     bio: >-
-      Life full of beautiful colors 🦋💕 | Fashion | Fitness | Beauty | Lifestyle | 💌 @thepinkumbrella10@gmail.com 📍Mumbai-Delhi 🇮🇳
+      NATUROPATHY & YOGA DOCTOR❤️|CHILDBIRTH EDUCATOR FITNESS|HEALTH|TRAVEL|PARENTING|BABY FOOD| -Pre&Postnatal Expert DM for Online Yoga&fitness sessions.
     location: "India"
-    followers: 101705
-    engagement: 140
-    commentsToLikes: 0.077030
-    id: ckaoumefp0wq10i78fhftflfb
+    followers: 25994
+    engagement: 2007
+    commentsToLikes: 0.019986
+    id: ck13cao4wzf370i19e4dv3gzb
     verified: false
-    hashtags: "#reelstrending, #reelsvideo, #reelitin, #reels"
-  - username: "harman_fitness_mommy"
+    hashtags: "#yogaleggings, #yogaeveryday, #pregnantlife, #yogachallenge"
+  - username: "mohak.manghani"
     fullname: >-
-      Harman Sidhu
+      𝗠𝗢𝗛𝗔𝗞 𝗠𝗔𝗡𝗚𝗛𝗔𝗡𝗜
     bio: >-
-      • Mom 🇮🇳 • Postpartum fitness influencer . Collaboration Brands events Pr : 📧 . harmansidhu1705@gmail.com . 📲 9041101099 . Coach @puneetbigguy
+      Lifestyle | Fitness | Fashion 📍Mumbai, India
     location: "India"
-    followers: 328705
-    engagement: 60
-    commentsToLikes: 0.040862
-    id: ck6ueijgfr4qu0j71kxmhbqym
+    followers: 250836
+    engagement: 1042
+    commentsToLikes: 0.018045
+    id: ck0w2yaqrqptd0i19y4eqyrfa
     verified: false
-    hashtags: "#pregnancyjourney, #whatiwore, #pregnancyworkout, #momlife"
+    hashtags: "#mohakmanghani, #mohfam, #relatable, #fitness"
+  - username: "swethaa_naidu"
+    fullname: >-
+      Swetha Naidu
+    bio: >-
+      Dance || Fashion || Singing || Fitness “Dhee Celebrity Special” Runner Up ✨ Founder - @dancing.divas01 @moonshine_pets Snap ID - swethaanaidu
+    location: "India"
+    followers: 804807
+    engagement: 431
+    commentsToLikes: 0.003150
+    id: ck5cchjdjhdio0i11y16b7bky
+    verified: false
+    hashtags: "#instafashion, #kaadhalkurise, #fashioninfluencer, #fashion"
 ---

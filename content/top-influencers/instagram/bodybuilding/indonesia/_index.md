@@ -1,11 +1,11 @@
 ---
-title: Top 10 Bodybuilding Instagram Influencers In Indonesia In 2023
+title: Top 10 Bodybuilding Instagram Influencers In Indonesia In 2024
 description: >-
-  Find top bodybuilding Instagram influencers in Indonesia in 2023. Most popular hashtags: #bodybuilding #fitness #fitnessmotivation #fitnessmodel.
+  Find top bodybuilding Instagram influencers in Indonesia in 2024. Most popular hashtags: #bodybuilding #fitness #gym #fitnessmotivation.
 platform: Instagram
-hits: 33
-text_top: Identify the most popular Instagram profiles on inBeat.
-text_bottom: Our search engine has 33 Instagram influencers like this in Indonesia for you to pitch.
+hits: 49
+text_top: See the top-rated Instagram accounts on inBeat.
+text_bottom: inBeat holds 49 Instagram influencers like this in Indonesia for you to pitch.
 profiles:
   - username: "rotan.photo"
     fullname: >-
@@ -19,6 +19,102 @@ profiles:
     id: ck6u7whpqo20h0j719cs23ocf
     verified: false
     hashtags: "#mensfitness, #binaragaindonesia, #fitnessmodel, #sportsmodel"
+  - username: "melvinzhang_"
+    fullname: >-
+      Melvin Zhang
+    bio: >-
+      𝗜𝗙𝗕𝗕 𝗠𝗲𝗻’𝘀 𝗣𝗵𝘆𝘀𝗶𝗾𝘂𝗲 | 27 🌐 1 ON 1 @mzcoaching_ 🧬 Team @rivalnutritionindonesia
+    location: "Indonesia"
+    followers: 21328
+    engagement: 415
+    commentsToLikes: 0.022899
+    id: ck6uf2sxnujcu0j7105jmissm
+    verified: false
+    hashtags: "#indofitness, #modelindonesia, #workout, #dietsehat"
+  - username: "miska_kanuscakova"
+    fullname: >-
+      Fitness Coach & IFBB Bikini
+    bio: >-
+      👶FitMom, 🍏💪🏼Fitnesscoach #mishelfitteam #profitacademy @scitecnutrition @timme.shop 🥈🥉2x European 2x Slovak 🥇& 2x Word 4th 🏆Champ SLUŽBY, CENNÍK 📩👉
+    location: "Indonesia"
+    followers: 39675
+    engagement: 356
+    commentsToLikes: 0.010760
+    id: ck0vx5ksfx8zw0i19vhqju03o
+    verified: false
+    hashtags: "#muscle, #fitnessmom, #onlinecoaching, #nutritioncoach"
+  - username: "noviawijayantiii"
+    fullname: >-
+      novia wijayanti 🇮🇩
+    bio: >-
+      #icnbikiniPRO 🥇bikini champ 🏋️‍♀️ BA : @ansperformanceindonesia 👩‍💻 Nutrition student @teamatlasmtl
+    location: "Indonesia"
+    followers: 116849
+    engagement: 259
+    commentsToLikes: 0.019629
+    id: ck5c7loxn7ric0i11nbq7tu1a
+    verified: false
+    hashtags: "#gym, #gymmotivation, #fitnessmotivation, #gymlife"
+  - username: "bodybuilder.id"
+    fullname: >-
+      Bodybuilder.id
+    bio: >-
+      Indonesian bodybuilder 🇮🇩 capturing the best moment Fitness Photography Photoshoot and Endorsement/Paid Promote..DM📞
+    location: "Indonesia"
+    followers: 37568
+    engagement: 197
+    commentsToLikes: 0.009269
+    id: ck5pvuhiajp310i11wdji6qsm
+    verified: false
+    hashtags: "#fitnessmotivation, #muscle, #bodybuilding, #fitness"
+  - username: "bobbyida"
+    fullname: >-
+      ⏩2Ninefit Indonesia⏪
+    bio: >-
+      Youtube 🇮🇩 2NINEFIT INDONESIA 🇮🇩 Model / Athlete / Content Creator ANS Performance Athlete Bali | Indonesia Inspire 🔥 | Motivate 🚀 | Transform 🔁
+    location: "Indonesia"
+    followers: 562616
+    engagement: 168
+    commentsToLikes: 0.040239
+    id: ck5zkkpwyjno50i14s7rwxzhi
+    verified: true
+    hashtags: "#beratbadanideal, #tipsfitness, #turunbb, #makanandiet"
+  - username: "benbrayy_newgen"
+    fullname: >-
+      BEN BRAY | ONLINE COACH 🇬🇧🇦🇪
+    bio: >-
+      ➖| Founder @newgencoaching ➖| 2000+ Transformations 🔪🚀 ➖| Coaching Enquiries 👇🏻
+    location: "Indonesia"
+    followers: 101338
+    engagement: 102
+    commentsToLikes: 0.034642
+    id: cl4kugxfvsov00i234vyn89xw
+    verified: false
+    hashtags: "#bodybuilder, #fitnessjourney, #mensphysique, #bodybuilding"
+  - username: "ikasanz"
+    fullname: >-
+      Kartika Dewi Suryani ♠️
+    bio: >-
+      𝑩𝑨 : @muscletech 💪, @cocoonmedicalspabali ✨️( 𝑼𝒔𝒆 𝒄𝒐𝒅𝒆 "𝑰𝑲𝑨𝑺𝑨𝑵𝒁" 𝒈𝒆𝒕 𝒅𝒊𝒔𝒄 𝒂𝒍𝒍 𝒕𝒓𝒆𝒂𝒕𝒎𝒆𝒏𝒕 ) 🏋 : @degymplatinum.kerobokan 𝔽𝕚𝕥𝕟𝕖𝕤𝕤 𝕚𝕟𝕗𝕝𝕦𝕖𝕟𝕔𝕖𝕣 📍𝐁άĹเ🌴
+    location: "Indonesia"
+    followers: 60423
+    engagement: 95
+    commentsToLikes: 0.058761
+    id: ck9wgk1f5trp10j78o2ldtyun
+    verified: false
+    hashtags: "#fitness, #vapor, #platinumcreatine, #brunch"
+  - username: "efaldy"
+    fullname: >-
+      Faldy Efadua
+    bio: >-
+      🏋🏻🇮🇩 Powerbodybuilder S : 180kg | B : 130kg | D : 200kg . Build @zerousid #createHero . ✉️ : efaldy.efadua@gmail.com
+    location: "Indonesia"
+    followers: 60282
+    engagement: 25
+    commentsToLikes: 0.024027
+    id: ck13bpqp9wkwn0i1976lnfus4
+    verified: false
+    hashtags: "#underarmourid, #willsquatforgorengan, #bodybuilding, #underarmour"
   - username: "wachclaude"
     fullname: >-
       
@@ -31,100 +127,4 @@ profiles:
     id: ck5zyadrm9ioa0i14sj2vp53m
     verified: false
     hashtags: "#fit, #motivation, #wachclaude, #tattoo"
-  - username: "pinkmheni"
-    fullname: >-
-      Mheni Pink
-    bio: >-
-      @vectorlabsofficial & @maxsproteinindonesia sponsored athlete
-    location: "Indonesia"
-    followers: 4285
-    engagement: 665
-    commentsToLikes: 0.075940
-    id: ck6u7wfp3o1mw0j71rl7ogvmd
-    verified: false
-    hashtags: "#bodybuilding, #kekar, #shredded, #maxsnutrition"
-  - username: "fenfitlicious"
-    fullname: >-
-      🇲🇨 Fᴇɴ Fᴇɴ Lɪᴜ 🇮🇩
-    bio: >-
-      ꧁ Nʏʟᴀ Lɪᴜ ꧂ 🅵🅸🆃 + 🆂🆃🆁🅾︎🅽🅶 = 🆂🅴🆇🆈 Sᴘᴏʀᴛ Mᴏᴅᴇʟ ANS Pᴇʀғᴏʀᴍᴀɴᴄᴇ Aᴛʜʟᴇᴛᴇ Fɪᴛɴᴇss & Hᴇᴀʟᴛʜʏ Lɪғᴇsᴛʏʟᴇ Iɴғʟᴜᴇɴᴄᴇʀ Fᴏᴜɴᴅᴇʀ : @fitbymeal @ayofitindonesia
-    location: "Indonesia"
-    followers: 56698
-    engagement: 510
-    commentsToLikes: 0.010943
-    id: ck5zytas4ahr00i143qk465my
-    verified: false
-    hashtags: "#womenfitness, #fitforlife, #bodybuilding, #femalefitness"
-  - username: "bodybuilder.id"
-    fullname: >-
-      Bodybuilder.id
-    bio: >-
-      Indonesian bodybuilder 🇮🇩 capturing the best moment Fitness Photography Photoshoot and Endorsement/Paid Promote..DM📞 ⏬watch & subscribe our channel
-    location: "Indonesia"
-    followers: 30273
-    engagement: 174
-    commentsToLikes: 0.016412
-    id: ck5pvuhiajp310i11wdji6qsm
-    verified: false
-    hashtags: "#bodygoal, #menshealth, #fitnessmania, #gymmotivation"
-  - username: "igedz_executioner"
-    fullname: >-
-      Igede Dharma Susila
-    bio: >-
-      💪Indonesian heavyweight bodybuilder champion 🇲🇨🥇 💪UNCLE_SARMS 💪@igedz_xcn_apparel 💪PABBSI JATIM 🤙+6281297169598 📋183cm, ⬆️⬇️130kg
-    location: "Indonesia"
-    followers: 82208
-    engagement: 404
-    commentsToLikes: 0.022668
-    id: ck5hks4sviype0i1119bzz709
-    verified: false
-    hashtags: "#igedzfit, #igedz, #executedreams, #bodybuilding"
-  - username: "kaanakinciofficial"
-    fullname: >-
-      Kaan Akıncı
-    bio: >-
-      〽️Mister Europe Euro Turkey 2017🇹🇷 〽️Manager: @cllerbs / @selcukakabasindanismani 〽️Beykent Unv/San Diego Unv/Oxford British Center
-    location: "Indonesia"
-    followers: 21106
-    engagement: 207
-    commentsToLikes: 0.073455
-    id: ck6u6mk7fgh4j0j716ic3bxsw
-    verified: false
-    hashtags: "#like, #bespokesherwani, #stylish, #mensfastion"
-  - username: "tonygoat_taveras"
-    fullname: >-
-      IFBB Classic Physique Pro 🌐
-    bio: >-
-      The Goat 🐐 Universe CP Overall ⭐️🏆⭐️ @oldschoollabs {TONYGOAT} @chulastylz_ {GOAT10} @iconmeals {GOAT10} Managing Partner Linear Roofing 👷🏽‍♂️
-    location: "Indonesia"
-    followers: 108389
-    engagement: 279
-    commentsToLikes: 0.019923
-    id: ck5bu8r6rhcms0i111dr31xi9
-    verified: false
-    hashtags: "#thegoat, #classicphysiquepro, #ifbbproleague, #bodybuilding"
-  - username: "bobbyida"
-    fullname: >-
-      ⏩2Ninefit Indonesia⏪
-    bio: >-
-      Indonesian Fitness Youtuber 🇮🇩 Model / IFBB Athlete / Content Creator ANS Performance Athlete WALKING ON WATER 🌊 MAT 14:22-33 🙏 Bali | Indonesia
-    location: "Indonesia"
-    followers: 270989
-    engagement: 186
-    commentsToLikes: 0.013609
-    id: ck5zkkpwyjno50i14s7rwxzhi
-    verified: true
-    hashtags: "#suamiistri, #asians, #fam, #dirumahaja"
-  - username: "aw.jaya"
-    fullname: >-
-      𝐀𝐠𝐮𝐧𝐠 𝐖𝐢𝐫𝐚 𝐉𝐚𝐲𝐚
-    bio: >-
-      - 𝐌𝐢𝐬𝐭𝐞𝐫 𝐔𝐧𝐢𝐯𝐞𝐫𝐬𝐚𝐥 𝐀𝐦𝐛𝐚𝐬𝐬𝐚𝐝𝐨𝐫 𝟏𝐬𝐭 𝐑𝐔 𝟐𝟎𝟏𝟖 - 𝐌𝐢𝐬𝐭𝐞𝐫 𝐈𝐧𝐝𝐨𝐧𝐞𝐬𝐢𝐚 𝟏𝐬𝐭 𝐑𝐔 𝟐𝟎𝟏𝟕 - @dni_id 𝐓𝐞𝐚𝐦 𝐀𝐭𝐡𝐥𝐞𝐭𝐞 🇲🇨 - Order @duniawi.supplement 👇🏾𝐅𝐈𝐓𝐍𝐄𝐒𝐒 & 𝐋𝐈𝐅𝐄𝐒𝐓𝐘𝐋𝐄🎬
-    location: "Indonesia"
-    followers: 57877
-    engagement: 100
-    commentsToLikes: 0.030757
-    id: ck5bwhqkelq2q0i11tsqupsvw
-    verified: false
-    hashtags: "#sportmotivation, #muscleup, #healthylifestyle, #motivation"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Beauty TikTok Influencers In Germany In 2023
+title: Top 10 Beauty TikTok Influencers In Germany In 2024
 description: >-
-  Find top beauty TikTok influencers in Germany in 2023. Most popular hashtags: #foryou #viral #fyp #fy.
+  Find top beauty TikTok influencers in Germany in 2024. Most popular hashtags: #foryou #viral #fyp #fy.
 platform: TikTok
 hits: 334
-text_top: Identify the top-rated TikTok influencers on inBeat.
-text_bottom: Our database aggregates 334 TikTok influencers like this in Germany for you to connect with.
+text_top: Discover the top-rated TikTok profiles on inBeat.
+text_bottom: inBeat has 334 TikTok influencers like this in Germany for you to pitch.
 profiles:
   - username: "gamanderlopez"
     fullname: >-
@@ -102,7 +102,7 @@ profiles:
     commentsToLikes: 0.011354
     id: ck904uw1aejzd0j78alqn0x49
     verified: false
-    hashtags: "#comedy, #lustig, #diy, #fyp"
+    hashtags: "#realit, #foryou, #lustig, #diy"
   - username: "mireeeeym"
     fullname: >-
       Mireeeeym 👀
@@ -126,5 +126,5 @@ profiles:
     commentsToLikes: 0.021146
     id: ck932ozdbkdyx0j78xa2xzoky
     verified: false
-    hashtags: "#hollywood, #viral, #fashiontiktok, #fyp"
+    hashtags: "#lernenauftiktok, #fyp, #hollywood, #viral"
 ---

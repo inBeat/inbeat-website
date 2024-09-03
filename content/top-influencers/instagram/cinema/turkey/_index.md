@@ -1,12 +1,24 @@
 ---
-title: Top 10 Cinema Instagram Influencers In Turkey In 2023
+title: Top 10 Cinema Instagram Influencers In Turkey In 2024
 description: >-
-  Find top cinema Instagram influencers in Turkey in 2023. Most popular hashtags: #reels #summer #makeupartist.
+  Find top cinema Instagram influencers in Turkey in 2024. Most popular hashtags: #reels #photooftheday #photography.
 platform: Instagram
-hits: 251
-text_top: See the most popular Instagram profiles on inBeat.
-text_bottom: inBeat aggregates 251 Instagram influencers like this in Turkey for you to collaborate.
+hits: 268
+text_top: See the top-rated Instagram influencers on inBeat.
+text_bottom: inBeat aggregates 268 Instagram influencers like this in Turkey for you to collaborate.
 profiles:
+  - username: "tepesiatanadam"
+    fullname: >-
+      Tahir Canlı
+    bio: >-
+      (Director of photography) Member of Cinematographers Association of Turkey. 📍Toronto🇨🇦 ofiscreative.com Contact:tahircanli27@gmail.com 🏄‍♂️ 🪂 🏁 🏂 🤙🏻
+    location: "Turkey"
+    followers: 109814
+    engagement: 301
+    commentsToLikes: 0.029165
+    id: ck1379izzag2n0i19ear4i6wu
+    verified: false
+    hashtags: "#cinematographer, #ruhunduymaz, #cinematography, #directorofphotography"
   - username: "aydavii"
     fullname: >-
       Ayda Dehnavi
@@ -19,6 +31,42 @@ profiles:
     id: ck9wi97g919iv0j78vggdd4vp
     verified: false
     hashtags: "#girl, #summer, #blackandwhite, #fashion"
+  - username: "senelfoto"
+    fullname: >-
+      Ali Şenel
+    bio: >-
+      Photographer Cinematographer, @anadolukadimdoga Filmmaker @zienmedya www.alisenel.com
+    location: "Turkey"
+    followers: 61777
+    engagement: 169
+    commentsToLikes: 0.042476
+    id: ck0u070ccsv1e0i19ykj76520
+    verified: false
+    hashtags: "#sonya7s3, #wildlife, #senelfoto, #wildlifephotography"
+  - username: "halilbekar"
+    fullname: >-
+      Halil Bekar
+    bio: >-
+      Cinematographer & Traveler @showmeturkiye founder Based in Istanbul
+    location: "Turkey"
+    followers: 234107
+    engagement: 118
+    commentsToLikes: 0.015303
+    id: ck0tw0xsudjmh0i19e9a7grxc
+    verified: false
+    hashtags: "#nepal, #showmeturkiye, #widenyourworld, #alt"
+  - username: "ozturk.motionpictures"
+    fullname: >-
+      Serdar Ozturk
+    bio: >-
+      International Cinematographer | StoryTeller | Filmmaker Bookings 2023 - 2024 +31 641963315
+    location: "Turkey"
+    followers: 89849
+    engagement: 115
+    commentsToLikes: 0.037212
+    id: ck14hauo69ey30i19hn9o7r6r
+    verified: false
+    hashtags: "#love, #dugunumuzvar, #bruiloft, #dugundernek"
   - username: "lorinleylas"
     fullname: >-
       Leyla Süner🌻
@@ -31,30 +79,18 @@ profiles:
     id: ckaorgf12n3jk0i78kjfv6bct
     verified: false
     hashtags: "#aslihangunerteam, #kuzeyy, #makeupartist, #kayd"
-  - username: "ezgikasapoglu"
-    fullname: >-
-      Ezgi Kasapoğlu 🦄
-    bio: >-
-      🏡 London | Istanbul 💌 ezgi@imagean.com 🎙TV Presenter | Ezgi ile Şehrin Renkleri 👩🏼‍💻Content Creator | Lifestyle fashion beauty 🎓I.U Cinematic Arts
-    location: "Turkey"
-    followers: 69916
-    engagement: 207
-    commentsToLikes: 0.077981
-    id: ck14i1kxcd7k70i193ihucwkk
-    verified: false
-    hashtags: "#reels, #reelsinstagram, #is, #helpturkey"
   - username: "duyguozlen1"
     fullname: >-
       Duygu Özlen
     bio: >-
-      Manager: @selimakar Turvak Cinema- Theatre Model-Tv Host- Actress @arianutritionofficial athlete Reklam ve İş birlikleri Dm
+      Official İnstagram Account Manager: @selimakar Turvak Cinema- Theatre Model-Tv Host- Actress Reklam ve İş birlikleri Dm
     location: "Turkey"
-    followers: 91972
-    engagement: 265
-    commentsToLikes: 0.058211
+    followers: 109218
+    engagement: 462
+    commentsToLikes: 0.020668
     id: ckap2tz1c0b8s0i78dd78koxa
     verified: false
-    hashtags: "#shooting, #shootingday, #fashion, #videoedit"
+    hashtags: ""
   - username: "semasarmis"
     fullname: >-
       JACKSON
@@ -91,40 +127,4 @@ profiles:
     id: ckap3hdyl30bx0i78z906u0ki
     verified: false
     hashtags: "#chef, #danilozanna, #yemektarifleri, #mehmetyalc"
-  - username: "volkankocaturk"
-    fullname: >-
-      Kocaturk A.Volkan
-    bio: >-
-      Director & Cinematographer
-    location: "Turkey"
-    followers: 20321
-    engagement: 2190
-    commentsToLikes: 0.175979
-    id: ck5hkqxu2iwrd0i11z2xpi2qg
-    verified: false
-    hashtags: "#zekoia, #azize, #directorofphotography, #sak"
-  - username: "ozlemadasahin"
-    fullname: >-
-      Özlem Ada Sahin
-    bio: >-
-      Arya & Zeynep Mira’s Mom🌞 Baby🐇Aria @babyariacom Yeditepe University Cinema Tv 📩 hiperaktifmenajerlik@gmail.com
-    location: "Turkey"
-    followers: 766582
-    engagement: 452
-    commentsToLikes: 0.003998
-    id: ck15u4bxmld540i19mo0zssmw
-    verified: false
-    hashtags: "#instylehome, #iyipazarlardiliyoruz, #elsevedreamlong, #ruhunudinlendir"
-  - username: "tepesiatanadam"
-    fullname: >-
-      Tahir Canlı
-    bio: >-
-      (Director of photography) Görüntü Yönetmeni Member of Cinematographers Association of Turkey. İş birlikleri: Toprak Medya Ajans 05312330576
-    location: "Turkey"
-    followers: 81610
-    engagement: 237
-    commentsToLikes: 0.017172
-    id: ck1379izzag2n0i19ear4i6wu
-    verified: false
-    hashtags: ""
 ---

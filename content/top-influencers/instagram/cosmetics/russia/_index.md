@@ -1,12 +1,48 @@
 ---
-title: Top 10 Cosmetics Instagram Influencers In Russia In 2023
+title: Top 10 Cosmetics Instagram Influencers In Russia In 2024
 description: >-
-  Find top cosmetics Instagram influencers in Russia in 2023. Most popular hashtags: #lvmh #beautyblog #harrypotter.
+  Find top cosmetics Instagram influencers in Russia in 2024. Most popular hashtags: #dreambibiteam #4plus #universalstudios.
 platform: Instagram
-hits: 573
-text_top: See the most popular Instagram profiles on inBeat.
-text_bottom: Our platform holds 573 Instagram influencers like this in Russia for you to pitch.
+hits: 567
+text_top: Discover the most popular Instagram accounts on inBeat.
+text_bottom: Our database holds 567 Instagram influencers like this in Russia for you to contact.
 profiles:
+  - username: "katyaa_golden"
+    fullname: >-
+      Kat Golden
+    bio: >-
+      Founder @luvu.cosmetics PR: Юнус +7 985 012 67 02
+    location: "Russia"
+    followers: 790864
+    engagement: 388
+    commentsToLikes: 0.003126
+    id: ck0u7cjbf4e410i199eoeoh2x
+    verified: false
+    hashtags: ""
+  - username: "sasha_nikolina"
+    fullname: >-
+      MAKEUP ARTIST
+    bio: >-
+      💄Мой бренд @sasha.cosmetics
+    location: "Russia"
+    followers: 351238
+    engagement: 129
+    commentsToLikes: 0.014812
+    id: ck5hggwff2pa70i11rn7cfdcu
+    verified: false
+    hashtags: ""
+  - username: "biliana_yotovska"
+    fullname: >-
+      Bilyana Yotovska official ®️
+    bio: >-
+      🏆Bikini fitness champion & Top Model Owner @bilianayotovska_label @bilianayotovska_cosmetics 💪20 years experience in fitness & nutrition 📚Book writer
+    location: "Russia"
+    followers: 134033
+    engagement: 45
+    commentsToLikes: 0.003924
+    id: ck0w3dkbdsupz0i19060wggk6
+    verified: false
+    hashtags: "#bilianayotovskafitness, #dreambibiteam, #4plus, #bilianayotovskalabel"
   - username: "daria_prybylova"
     fullname: >-
       🌏 Travel, Beauty & Lifestyle
@@ -91,40 +127,4 @@ profiles:
     id: ck5c3cvqwz28b0i11835e8dzn
     verified: true
     hashtags: "#kerastase, #blondabsolu, #moments, #kerasraseblondabsolu"
-  - username: "tamunatsiklauri"
-    fullname: >-
-      Tamuna Tsiklauri
-    bio: >-
-      Ambassador @sensai_cosmetics_russia 🤍 Founder @__simplify ✉️ Tamuna-t@hotmail.com
-    location: "Russia"
-    followers: 357362
-    engagement: 325
-    commentsToLikes: 0.015612
-    id: ck5c4j5111gqc0i110xq1v23i
-    verified: false
-    hashtags: "#uniqloplusj, #uniqlo"
-  - username: "ekamaksi"
-    fullname: >-
-      🌟Екатерина Максимова
-    bio: >-
-      🏆Продюсер года 2019 🏆Бренд года 2020 🌟Agent models Основатель: @cmg.russia 140 ф-лов @cmg_cosmetics Кастинг директор: @alexander_syutkin_production
-    location: "Russia"
-    followers: 223687
-    engagement: 20
-    commentsToLikes: 0.068966
-    id: ck6u3zb6j0rex0j714t6osqfi
-    verified: false
-    hashtags: ""
-  - username: "tehila_ushkats"
-    fullname: >-
-      🧿YᗩSᗩ🧿
-    bio: >-
-      @yasa_cosmetic 💅🏻/לק ג׳ל ידיים רגליים מניקור\ ראשון לציון .
-    location: "Russia"
-    followers: 25145
-    engagement: 188
-    commentsToLikes: 0.054286
-    id: ck6u1044virfy0j71qn4whzep
-    verified: false
-    hashtags: "#dior, #forevermine"
 ---

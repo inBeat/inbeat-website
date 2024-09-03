@@ -1,11 +1,11 @@
 ---
-title: Top 10 Architecture TikTok Influencers In Miami In 2023
+title: Top 10 Architecture TikTok Influencers In Miami In 2024
 description: >-
-  Find top architecture TikTok influencers in Miami in 2023. Most popular hashtags: #miami #architecture #fyp #art.
+  Find top architecture TikTok influencers in Miami in 2024. Most popular hashtags: #architecture #miami #fyp #art.
 platform: TikTok
 hits: 7
-text_top: Identify the most popular TikTok accounts on inBeat.
-text_bottom: inBeat holds 7 TikTok influencers like this in Miami, United States for you to collaborate.
+text_top: Discover the top-rated TikTok influencers on inBeat.
+text_bottom: Our search engine aggregates 7 TikTok influencers like this in Miami, United States for you to contact.
 profiles:
   - username: "debbie.perez"
     fullname: >-
@@ -25,12 +25,12 @@ profiles:
     bio: >-
       IG:@francenehalili
     location: "United States"
-    followers: 5120
-    engagement: 799
-    commentsToLikes: 0.027543
+    followers: 5110
+    engagement: 789
+    commentsToLikes: 0.027043
     id: ckd0blnmscf5n0j23god7ugdl
     verified: false
-    hashtags: "#foryourpage, #tiktokdiy, #puppies, #tiktokph"
+    hashtags: "#fashionweek, #fyp, #foryoupage, #abg"
   - username: "karlapohlmann"
     fullname: >-
       Karla Pohlmann
@@ -66,7 +66,7 @@ profiles:
     commentsToLikes: 0.006575
     id: ckb9mfm08fiae0j23ns0kxde7
     verified: false
-    hashtags: "#semperart, #art, #rap, #sculpture"
+    hashtags: "#uk, #music, #esculturas, #semperart"
   - username: "eamm97"
     fullname: >-
       Ernesto Medina

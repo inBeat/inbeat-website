@@ -1,11 +1,11 @@
 ---
-title: Top 10 Instagram Influencers In Birmingham In 2023
+title: Top 10 Instagram Influencers In Birmingham In 2024
 description: >-
-  Find top Instagram influencers in Birmingham in 2023. Most popular hashtags: #gifted #morphebabes #fitnessgoals.
+  Find top Instagram influencers in Birmingham in 2024. Most popular hashtags: #recipes #explore #plantbased.
 platform: Instagram
-hits: 287
-text_top: See the most popular Instagram profiles on inBeat.
-text_bottom: Our database aggregates 287 Instagram influencers like this in Birmingham, United Kingdom for you to collaborate.
+hits: 397
+text_top: See the most popular Instagram accounts on inBeat.
+text_bottom: inBeat aggregates 397 Instagram influencers like this in Birmingham, United Kingdom for you to work with.
 profiles:
   - username: "super___freak"
     fullname: >-
@@ -19,112 +19,112 @@ profiles:
     id: ck5ckqa91xecm0i114zbuqpyx
     verified: false
     hashtags: ""
-  - username: "healthymeganbl"
+  - username: "sambentley"
     fullname: >-
-      𝐌𝐄𝐆𝐀𝐍 🕊
+      Sam | Sustainable Living
     bio: >-
-      📍birmingham ☁️ food fashion life home ⚡️ sausage dog mama @mabelthedachshund_ 🏡 @_megsmaison 💌 meganlowe2@googlemail.com 🎥 Tiktok: meganbl (30k)
+      ☼ I make content about sustainable living and good news you may not have heard about ⧇ sam@sambentley.co.uk ↓ Pre-order my book! ♡ vegan ⌂ birmingham
     location: "United Kingdom"
-    followers: 31208
-    engagement: 354
-    commentsToLikes: 0.024289
-    id: ck13c6znnywyh0i19hsly6i75
-    verified: false
-    hashtags: "#pupupcafe, #zarabag, #zara, #zarawoman"
-  - username: "benfrancis"
-    fullname: >-
-      Ben Francis
-    bio: >-
-      Gymshark Owner Birmingham 🇬🇧 NEW YT VIDEO CLICK HERE 👇🏼
-    location: "United Kingdom"
-    followers: 289714
-    engagement: 1073
-    commentsToLikes: 0.022032
-    id: ck0u2d0ufzhbp0i19gpvfuqkc
+    followers: 803096
+    engagement: 1135
+    commentsToLikes: 0.013101
+    id: ck5bt9hucfkmh0i11wby8wlz3
     verified: true
-    hashtags: "#nhssweatyselfie"
-  - username: "ivisanchez23"
+    hashtags: "#zerowaste, #saveourplanet, #sustainability, #plasticpollution"
+  - username: "vegangirlboss"
     fullname: >-
-      Ivan Sanchez Aguayo
+      Adina Akhmetova
     bio: >-
-      ⚽️Jugador del @bcfc 📍 Birmingham
+      → FEEL GOOD VEGAN FOOD + lifestyle vegan recipes, health & wellness, daily routines 📍 Birmingham, UK ✉️ vegangirlboss@gmail.com
     location: "United Kingdom"
-    followers: 11652
-    engagement: 1649
-    commentsToLikes: 0.056200
-    id: ck13aaecrpf3v0i199u6ggjac
-    verified: true
-    hashtags: "#eternamenteagradecido, #muchoelche, #blackouttuesday, #lapelotasiempreal10"
-  - username: "makeuppbycharlie"
-    fullname: >-
-      ♡𝓬𝓱𝓪𝓻𝓵𝓲𝓮♡
-    bio: >-
-      self taught makeup artist💗 𝑒𝓂𝒶𝒾𝓁 𝑜𝓇 𝒹𝓂 𝒻𝑜𝓇 𝒸𝑜𝓁𝓁𝒶𝒷𝑜𝓇𝒶𝓉𝒾𝑜𝓃𝓈♡ birmingham, uk🤍 shop now @blissbeautyuk ♡
-    location: "United Kingdom"
-    followers: 4958
-    engagement: 1460
-    commentsToLikes: 0.182145
-    id: ckap8u5bbpwgs0i78vstoe2t1
+    followers: 203651
+    engagement: 963
+    commentsToLikes: 0.073660
+    id: ck55jt4dyxorw0i11bzuauype
     verified: false
-    hashtags: "#glitter, #staymatte, #powder, #glam"
-  - username: "burkesmith_"
+    hashtags: "#habits, #motivation, #recipes, #toast"
+  - username: "grillodesigns"
     fullname: >-
-      B U R K E S M I T H
+      Medina Grillo
     bio: >-
-      !! YEA GIRL. 📍birmingham, al ⚡️ bama chi o @burkesmith_creative
+      Achievable home styling tips & hacks New home owner Collabs: info@grillo-designs.com 📍 Birmingham, UK
     location: "United Kingdom"
-    followers: 2151
-    engagement: 3193
-    commentsToLikes: 0.084420
-    id: ck5zjf8rdhhjd0i14ebk6iqw3
+    followers: 854669
+    engagement: 488
+    commentsToLikes: 0.021789
+    id: ck55mc91s3n9o0i11oa45hj5z
     verified: false
-    hashtags: "#krazy, #always, #season, #cowbells"
-  - username: "munchterrdoll"
+    hashtags: "#newhome, #hometour, #inteirordesign, #interiordesign"
+  - username: "kodiemurphy"
     fullname: >-
-      𝑨𝒏𝒈𝒆𝒍𝒊𝒏𝒆 𝑽𝒊𝒍𝒍𝒂𝒆𝒔𝒕𝒊𝒗𝒂
+      Kodie Murphy
     bio: >-
-      Birmingham UK ⋄ 🇵🇭 𝐦𝐠𝐦𝐭: @aksinfluencermgmt 📩 email for any enquiries
+      Love Island Season 10🫶🏝️ Birmingham 📍 📧 - Contactkodie@yahoo.com
     location: "United Kingdom"
-    followers: 5510
-    engagement: 1619
-    commentsToLikes: 0.196871
-    id: ck5c74vuj6tg00i11z9vktwsc
+    followers: 113995
+    engagement: 699
+    commentsToLikes: 0.008004
+    id: cliu00yszzxjv0j08mvzgka1p
     verified: false
-    hashtags: "#missbehaved, #katchme, #prettyinparisian, #powerpony"
-  - username: "juannafitness.2"
+    hashtags: "#explore, #explorepage, #ad, #mensfashion"
+  - username: "farahmehnaz0"
     fullname: >-
-      Juju 🤍
+      Farah 🌼| UK Travel & Motherhood
     bio: >-
-      📚Student 📍Birmingham ✨nothing fancy
+      👶 In my motherhood era ✨toddler favs, recipes, family travel 💕372k on Facebook, 122k on YouTube 👩‍⚕️ Psychologist 📍Birmingham, UK
     location: "United Kingdom"
-    followers: 5712
-    engagement: 1691
-    commentsToLikes: 0.125138
-    id: ckap0okftr6tw0i78m4w9nmto
+    followers: 11583
+    engagement: 502
+    commentsToLikes: 0.044875
+    id: ckaoxl9modr4u0i78w17pzhnr
     verified: false
-    hashtags: "#womenwholift, #gymshark, #lift, #gym"
-  - username: "tashadamsx"
+    hashtags: "#babyproducts, #swansea, #toddlertoys, #toddlermum"
+  - username: "charstape"
     fullname: >-
-      Tash Adams 🌸
+      Char Stape
     bio: >-
-      23 | Birmingham
+      🎧 Stadium DJ @wembleystadium 📻 Presenter @reprezentradio 🔊 Freelance Assistant Producer @birminghamcg22 @wembleystadium @thehundred
     location: "United Kingdom"
-    followers: 21805
-    engagement: 470
-    commentsToLikes: 0.066565
-    id: ck0u640uh106v0i1984sapuos
+    followers: 5876
+    engagement: 570
+    commentsToLikes: 0.037688
+    id: cl0ktbh59m5nd0i23cryrmv55
     verified: false
     hashtags: ""
-  - username: "fred_goudie"
+  - username: "move.with.mica"
     fullname: >-
-      Fred Goudie
+      MICA ALLEN | MIND. BODY. SOUL 🦋
     bio: >-
-      London//University of Birmingham • 22yrs//6ft3//History Student • @vqfit Athlete • Business//TikTok//VQ Link:
+      Helping women physically & mentally transform💪🏽🧠 Founder: @hghclub_ 🥾 Link below for all services & enquiries⬇️ Birmingham 📍
     location: "United Kingdom"
-    followers: 80572
-    engagement: 1195
-    commentsToLikes: 0.016149
-    id: ck9we44fjihuz0j7877sfy89m
+    followers: 5521
+    engagement: 507
+    commentsToLikes: 0.130525
+    id: cl10kpyw1vxtz0i23ivpif5lw
     verified: false
-    hashtags: ""
+    hashtags: "#oneractive, #model, #london, #bts"
+  - username: "shadi_faleel"
+    fullname: >-
+      Fathima Yusuf (Shadiya)
+    bio: >-
+      Say YES to simple cooking.. Ex-banker turned #contentcreator Email for PR/Paid Collaborations 📍#birmingham
+    location: "United Kingdom"
+    followers: 1074449
+    engagement: 505
+    commentsToLikes: 0.022550
+    id: clqxropvk8mtm0k086o7o5e34
+    verified: false
+    hashtags: "#chickenrecipes, #mealprep, #biryani, #recipes"
+  - username: "bitesfrombrum"
+    fullname: >-
+      soph | brum food blogger
+    bio: >-
+      📍 - Birmingham and beyond 🍔 - Honest foodie reviews ❤️ - Parmesan, Greggs and hot choccys 💌 - DM for queries/collabs
+    location: "United Kingdom"
+    followers: 3488
+    engagement: 1899
+    commentsToLikes: 0.067758
+    id: ckzbixk8lao1i0j23xomzhvfw
+    verified: false
+    hashtags: "#chiangmaicafe, #birminghamdrinks, #birminghamuk, #birminghamfoodie"
 ---

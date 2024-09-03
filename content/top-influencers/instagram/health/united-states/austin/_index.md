@@ -1,24 +1,36 @@
 ---
-title: Top 10 Health Instagram Influencers In Austin In 2023
+title: Top 10 Health Instagram Influencers In Austin In 2024
 description: >-
-  Find top health Instagram influencers in Austin in 2023. Most popular hashtags: #workout #fitness #fitnessmotivation #health.
+  Find top health Instagram influencers in Austin in 2024. Most popular hashtags: #health #texas #austintexas #austin.
 platform: Instagram
-hits: 147
-text_top: See the top-rated Instagram influencers on inBeat.
-text_bottom: Our search engine aggregates 147 Instagram influencers like this in Austin, United States for you to contact.
+hits: 191
+text_top: See the most popular Instagram profiles on inBeat.
+text_bottom: Our platform has 191 Instagram influencers like this in Austin, United States for you to pitch.
 profiles:
-  - username: "onebalancedlife"
+  - username: "landry.davis"
     fullname: >-
-      Taylor Dadds
+      L A N D R Y   D A V I S
     bio: >-
-      creating simple, delicious recipes meal prep tips & tricks balanced lifestyle | health coach 📍Austin, TX
+      | Health | Fitness | Fashion | The Joy of the Lord is my strength! TCU ‘24 ΔΓ • Miss Texas Teen USA 2021
     location: "United States"
-    followers: 161852
-    engagement: 78
-    commentsToLikes: 0.045145
-    id: ck0u18vqtw3c90i199mavywgz
+    followers: 244790
+    engagement: 41
+    commentsToLikes: 0.002959
+    id: ckap2ctfkyasq0i78rlp125pv
     verified: false
-    hashtags: "#insidetrackerpartner, #tastepurenature, #ad, #naturemadepartner"
+    hashtags: "#sherrihill, #springbreak, #explorepage, #westernstyle"
+  - username: "rylie_fitzcello"
+    fullname: >-
+      Rylie Harrod-Corral | Cellist
+    bio: >-
+      Educator, Freelance Cellist, ATX 🎓Royal Acad, ASU, UTexas🤓 DM/email for gigs/session work YA Div. Dir. of @tx.stringsfest
+    location: "United States"
+    followers: 14639
+    engagement: 767
+    commentsToLikes: 0.030755
+    id: ck5hpf4y4r9530i11jcp1qvn6
+    verified: false
+    hashtags: "#cellist, #classicalmusic, #violincello, #violoncello"
   - username: "leomanzano"
     fullname: >-
       Leo Manzano
@@ -30,19 +42,31 @@ profiles:
     commentsToLikes: 0.019860
     id: ck0vv3rqeneqm0i198qiwqyw0
     verified: true
-    hashtags: "#mondaymotivation, #repost, #motivationmonday, #runrunrun"
-  - username: "subie.tay"
+    hashtags: "#motivationmonday, #mondaymotivation, #repost, #happyvalentinesday"
+  - username: "austin_head"
     fullname: >-
-      Tay
+      Austin Head
     bio: >-
-      Not fast, just furious. Twitch.tv/Subietay
+      💙ELI Lifetime Performer💙 @lifetime.life @lifetime.nyc 🎉30th BIRTHDAY ROOFTOP WORKOUT PARTY 👇🏻
     location: "United States"
-    followers: 6056
-    engagement: 492
-    commentsToLikes: 0.054598
-    id: ckap4fmgx75z50i78o4zoka1s
+    followers: 5088
+    engagement: 628
+    commentsToLikes: 0.092447
+    id: ckqyz40v640dk0j23hfrwk0qr
     verified: false
-    hashtags: "#twitch, #egirl, #codmobile, #onlyfanz"
+    hashtags: "#newyorkcity, #nycfitness, #groupfitness, #nyc"
+  - username: "sierratresslerxo"
+    fullname: >-
+      Sierra Tressler 🖤
+    bio: >-
+      LV📍ATX Caddy @platinumtees ⛳️💗 Venmo @ Sierra-Tressler Coach @jourdanne__ Team @fitbodyfusion This is my ONLY account.
+    location: "United States"
+    followers: 19868
+    engagement: 630
+    commentsToLikes: 0.032935
+    id: ck5qe3u8xykza0i117x8k5mob
+    verified: false
+    hashtags: "#golfaddict, #golfing, #girlsthatgolf, #instagood"
   - username: "heyclairewyckoff"
     fullname: >-
       Claire Wyckoff
@@ -54,19 +78,31 @@ profiles:
     commentsToLikes: 0.084252
     id: ck1360j9045m20i19y15hq3vi
     verified: false
-    hashtags: "#blacklivesmatter, #dickrunning, #nikeplus, #election2020"
+    hashtags: "#covid19, #blacklivesmatter, #fucktrump, #comedy"
+  - username: "sewstratton"
+    fullname: >-
+      Erin Dudley | Photographer ATX🌵Content Creator
+    bio: >-
+      📸 Commercial & Lifestyle Photographer 🌈 I help bloggers, personal brands & businesses create unique content 🧂Postural Orthostatic Tachycardia
+    location: "United States"
+    followers: 11970
+    engagement: 293
+    commentsToLikes: 0.278981
+    id: ck8swix99e8ow0j784h5szbhf
+    verified: false
+    hashtags: "#potsie, #healingjourney, #potsawareness, #ad"
   - username: "dylanbenjam"
     fullname: >-
       Austin, TX - Entrepreneur
     bio: >-
       Entrepreneur, Dad, Health Nut - Husband of @LeeAnneBenjamin, Austin, TX
     location: "United States"
-    followers: 49198
-    engagement: 172
-    commentsToLikes: 0.074528
+    followers: 45272
+    engagement: 193
+    commentsToLikes: 0.070721
     id: ck5hj79v1g4wc0i11cb649qzd
     verified: false
-    hashtags: "#galaxybookflex, #projectathena, #ad, #morethan"
+    hashtags: "#ad, #liketkit, #ltkmens, #projectathena"
   - username: "kaylinpyles"
     fullname: >-
       Online Fitness Coach + CEO
@@ -79,52 +115,16 @@ profiles:
     id: ck0w367zzrset0i19cq7xn6er
     verified: false
     hashtags: "#goals, #transformation, #texas, #fitness"
-  - username: "alyssamagnum"
+  - username: "blair.rachel.jones"
     fullname: >-
-      Alyssa Mangum✈️
+      Blair Rachel Jones
     bio: >-
-      Fishing🎣 • Hunting🏹 • Modeling📸 • EMS🚑 • Traveling 🇺🇸🇲🇽🇰🇷🇨🇼🇦🇼🇰🇳🇻🇮🏴󠁧󠁢󠁥󠁮󠁧󠁿🇬🇧🏴󠁧󠁢󠁷󠁬󠁳󠁿🇫🇷🇩🇪🇮🇹🇻🇦🇮🇪🇸🇰🇪🇸🏴󠁧󠁢󠁳󠁣󠁴󠁿🇩🇰🇭🇷🇵🇹🇳🇱🇭🇺🇲🇹🇵🇱🇦🇹🇷🇴🇨🇷• For inquiries: Email ⬇️
+      From Broke Bartender& Banker to World Changer 🌎 Here for health, love, and leaving a legacy ❤️ ⤵️Join our MAY Sacred Self-Care Retreat
     location: "United States"
-    followers: 48651
-    engagement: 510
-    commentsToLikes: 0.027308
-    id: ck5hk8kzqhz9u0i11arddip3r
+    followers: 33215
+    engagement: 575
+    commentsToLikes: 0.033421
+    id: ck5hfjujjxtc20i11nv3ynn4x
     verified: false
-    hashtags: "#ufc, #offshore, #blog, #girl"
-  - username: "primal.methods"
-    fullname: >-
-      Primal.Methods
-    bio: >-
-      ⚡️Official Instagram for #PrimalMethods ⚡️Primal Fitness Training & Movement Practice ⚡️Kettlebell | Bodyweight Program👇
-    location: "United States"
-    followers: 200894
-    engagement: 113
-    commentsToLikes: 0.015063
-    id: ckap90b1dqo2n0i78alspalfi
-    verified: false
-    hashtags: "#bodyweightexercises, #kettlebellworkouts, #workout, #fitnessmotivation"
-  - username: "sierratresslerxo"
-    fullname: >-
-      Sierra Tressler 🖤
-    bio: >-
-      LV📍ATX Caddy @platinumtees ⛳️💗 Venmo @ Sierra-Tressler Coach @jourdanne__ Team @fitbodyfusion This is my ONLY account.
-    location: "United States"
-    followers: 19868
-    engagement: 630
-    commentsToLikes: 0.032935
-    id: ck5qe3u8xykza0i117x8k5mob
-    verified: false
-    hashtags: "#balihaigolfclub, #love, #golfer, #golfgram"
-  - username: "eatoutloseweight"
-    fullname: >-
-      Lindsay Smith RD • Dietitian
-    bio: >-
-      Helping post-grads lose weight while eating out 🍱 Healthy swaps at restaurants 💻 eatoutloseweight.com/blog FREE Top 10 Weight Loss Tips ↙️
-    location: "United States"
-    followers: 39832
-    engagement: 124
-    commentsToLikes: 0.023334
-    id: ck13c5e4ryp6f0i193c7nrrgw
-    verified: false
-    hashtags: "#ww, #lilyschocolate, #pizzatime, #quickrecipe"
+    hashtags: "#austintexas, #austinfamilyphotographer, #austinphotographer, #atx"
 ---

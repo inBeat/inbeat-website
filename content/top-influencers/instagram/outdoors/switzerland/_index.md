@@ -1,12 +1,24 @@
 ---
-title: Top 10 Outdoors Instagram Influencers In Switzerland In 2023
+title: Top 10 Outdoors Instagram Influencers In Switzerland In 2024
 description: >-
-  Find top outdoors Instagram influencers in Switzerland in 2023. Most popular hashtags: #switzerland #nature #mountains #inlovewithswitzerland.
+  Find top outdoors Instagram influencers in Switzerland in 2024. Most popular hashtags: #switzerland #inlovewithswitzerland #swissalps #outdoors.
 platform: Instagram
-hits: 140
-text_top: Identify the most popular Instagram influencers on inBeat.
-text_bottom: inBeat has 140 Instagram influencers like this in Switzerland for you to work with.
+hits: 184
+text_top: Identify the best Instagram profiles on inBeat.
+text_bottom: Our database has 184 Instagram influencers like this in Switzerland for you to contact.
 profiles:
+  - username: "phil_wenger"
+    fullname: >-
+      Phil Wenger Photography
+    bio: >-
+      photo & video small weddings & elopements married and father of 4 girls lover of adventures and the outdoors 📸 @phil_presets 🖤 @reallifelovers.ch
+    location: "Switzerland"
+    followers: 13121
+    engagement: 302
+    commentsToLikes: 0.014782
+    id: ck5byfpqsp2710i118cmkswuv
+    verified: false
+    hashtags: "#analogcamera, #analogmonday, #weddingphotography, #intimatewedding"
   - username: "dedalnok"
     fullname: >-
       MICHEL DE DÁLNOK 🇭🇺
@@ -18,31 +30,31 @@ profiles:
     commentsToLikes: 0.124511
     id: ck14jdnyljtj60i19p5r0cuvv
     verified: false
-    hashtags: "#alsace, #dolomiti, #southtyrol, #inlovewithswitzerland"
-  - username: "phil_wenger"
-    fullname: >-
-      Phil Wenger Photography
-    bio: >-
-      . family man . feels alive and inspired when traveling . loves human connection . obsessed with the great outdoors . elopement and weddings . swiss
-    location: "Switzerland"
-    followers: 12304
-    engagement: 614
-    commentsToLikes: 0.018757
-    id: ck5byfpqsp2710i118cmkswuv
-    verified: false
-    hashtags: "#adventurouselopements, #intimateweddingphotographer, #fotografie, #love"
+    hashtags: "#alsace, #southtyrol, #inlovewithswitzerland, #switzerland"
   - username: "wunschengel"
     fullname: >-
       Julia // #intensifyinglife ✌🏼
     bio: >-
-      Making the most of now | Passion for the outdoors & photography |📍Zurich🇨🇭| Founder @swissmountaingirls I 📷 Olympus M1 Mark III | Work with me👇🏼
+      Making the most of now | Passion for the outdoors & photography |📍Zurich🇨🇭| Founder @swissmountaingirls | SOM strategy & content | Work with me👇🏼
     location: "Switzerland"
-    followers: 7401
-    engagement: 852
-    commentsToLikes: 0.050978
+    followers: 7748
+    engagement: 677
+    commentsToLikes: 0.053073
     id: ck0vximf6z2w30i19xxw3r4rg
     verified: false
-    hashtags: "#outdoorwomen, #pureoutdoorpassion, #visitswitzerland, #alpensucht"
+    hashtags: "#alpinemodern, #outdoortones, #swissalps, #lifeinswitzerland"
+  - username: "phil_suarez"
+    fullname: >-
+      ph!l suarez 📍 switzerland
+    bio: >-
+      📷 #landscape | #outdoors | #portrait 🎞 founder | curator @slvrfeed 📮 contact@philsuarez.com . ZERMATT workshop and more👇🏻
+    location: "Switzerland"
+    followers: 8039
+    engagement: 615
+    commentsToLikes: 0.072186
+    id: ck5cksdmdximi0i11i4bjgy01
+    verified: false
+    hashtags: "#feelthealps, #inlovewithswitzerland, #landscapephotography, #zermatt"
   - username: "luna_anita_engadin"
     fullname: >-
       I'm Luna🐶💗living in the🇨🇭Alps
@@ -55,76 +67,64 @@ profiles:
     id: ck5ccsz9phyjw0i115fcn3cvn
     verified: false
     hashtags: "#engadinstmoritz, #engadin, #westie, #inlovewithswitzerland"
-  - username: "kate.happens"
+  - username: "dominik.kobler"
     fullname: >-
-      Kate
+      Dominik from Switzerland 🇨🇭 Nature & landscape Photography
     bio: >-
-      •Be humble, act humble, stay humble• ❣️ ✖️25 ✖️Switzerland, AG ✖️Shooting? -> DM
+      it's the addiction to hold on the moment⠀ | Creator of @planetopedia | mountains | Graubünden | Appenzell | Switzerland | Sony Alpha ||| l Nikon Z7
     location: "Switzerland"
-    followers: 8030
-    engagement: 1662
-    commentsToLikes: 0.048781
-    id: ck9h9o4ll99qa0j78faj1lbd5
+    followers: 25091
+    engagement: 810
+    commentsToLikes: 0.067674
+    id: ck0ttnekf3h530i19i1q7rmzg
     verified: false
-    hashtags: "#carchicks, #fitbody, #lingerie, #tshirt"
-  - username: "tur.bine"
+    hashtags: "#exploretocreate, #earthoutdoors, #sunset, #mountains"
+  - username: "richardamacker"
     fullname: >-
-      Pilot.Bine✈️
+      Richard Amacker
     bio: >-
-      ->👩🏻‍✈️✈️🌍 -> 🇩🇪 living in 🇨🇭 next to the beloved mountains. 🏔🏂⛷🧗🏼‍♀️🚴🏼‍♀️🥾 ->🛫📸 were taken during NON-critical phases of flight!
+      Freeskier•SkiCoach•Conferences
     location: "Switzerland"
-    followers: 13639
-    engagement: 828
-    commentsToLikes: 0.033165
-    id: ck0vwbm62sysi0i19rtscs14m
+    followers: 57033
+    engagement: 868
+    commentsToLikes: 0.007810
+    id: ck5pz9j5xzvsd0i110du9u826
     verified: false
-    hashtags: "#aviationwomen, #friendshipgoals, #crewlove, #schneeverliebt"
-  - username: "amelie_stiefvatter"
+    hashtags: "#artistic, #fun, #freeskiing, #alpinskiing"
+  - username: "swissaround"
     fullname: >-
-      Amelie Stiefvatter
+      Markus Manfredi 🇨🇭
     bio: >-
-      🎤 Freelance Host 🎥 Freelance Producer // AMOVIE // 📍BERLIN | SALZBURG 📩 info@schoenhauser-promotion.de
+      🏔️ Landscape Video Creator 🇨🇭 Home in Switzerland 📬 info@swissaround.ch 📱 All Social Media 🔀 swissaround
     location: "Switzerland"
-    followers: 12589
-    engagement: 573
-    commentsToLikes: 0.037196
-    id: ck139gq5fl7np0i19yze23szg
+    followers: 2977668
+    engagement: 851
+    commentsToLikes: 0.007113
+    id: ck0w1yrx2lsu90i19sjdq1jgu
     verified: false
-    hashtags: "#adventure, #host, #love, #travel"
-  - username: "watschinger_lukas"
+    hashtags: "#landscape, #photooftheday, #swissalps, #switzerlandmountains"
+  - username: "detojan"
     fullname: >-
-      Lukas Watschinger
+      Dejan Tosetti
     bio: >-
-      Landscape Photographer 📷 Based in the Dolomites/Southtyrol 🇮🇹🦅
+      photographer x filmmaker let my photography inspire you contact@detojan.art Based in Switzerland
     location: "Switzerland"
-    followers: 27423
-    engagement: 1050
-    commentsToLikes: 0.030141
-    id: ck134ee0pw1et0i1915l7yboi
+    followers: 220903
+    engagement: 1706
+    commentsToLikes: 0.053788
+    id: ck0twuxz5gur00i19tiwsf4i1
     verified: false
-    hashtags: "#planetearth, #magicdolomites, #landscapephotography, #alpen"
-  - username: "aerial__photography"
+    hashtags: "#thecreative, #dubailife, #wonderfulindonesia, #dji"
+  - username: "aventouro"
     fullname: >-
-      Frédéric Terrettaz
+      AVENTOURO / Juerg Hostettler🇨🇭
     bio: >-
-      25 years old | Valais, Switzerland ↟ Aerial Landscape Photographer ↟ ↬ DM for prints ↡ @nomadict Interview ↡
+      ↟ Travel Tipps for Switzerland & abroad ↟ Photography / Private Tours ↟ More for YOU:
     location: "Switzerland"
-    followers: 2587
-    engagement: 2465
-    commentsToLikes: 0.070144
-    id: ckap6f7v7fnde0i7898n5c014
+    followers: 125206
+    engagement: 83
+    commentsToLikes: 0.014316
+    id: ck0tw8lb6edt50i19i4of4sns
     verified: false
-    hashtags: "#bergpic, #visualofearth, #lifeofadventure, #earthfocus"
-  - username: "schessyca"
-    fullname: >-
-      Jessi
-    bio: >-
-      German Girl I wish I knew how it would feel to be free 🗺 Member of @yellowroamers 💛 Travel buddy @peppas.journey 🐾
-    location: "Switzerland"
-    followers: 4795
-    engagement: 986
-    commentsToLikes: 0.169484
-    id: ck14hnu59b9gq0i19btdyj2f8
-    verified: false
-    hashtags: "#outdoortones, #folkgreen, #fantasticearth, #atlastrails"
+    hashtags: "#swissxplorers, #oeschinensee, #exploreswitzerland, #swissaround"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Tattoo-Artists TikTok Influencers In Canada In 2023
+title: Top 10 Tattoo-Artists TikTok Influencers In Canada In 2024
 description: >-
-  Find top tattoo-artists TikTok influencers in Canada in 2023. Most popular hashtags: #fyp #tattooartist #tattoo #tattoos.
+  Find top tattoo-artists TikTok influencers in Canada in 2024. Most popular hashtags: #fyp #foryou #tattoo #duet.
 platform: TikTok
-hits: 32
-text_top: Discover the most popular TikTok accounts on inBeat.
-text_bottom: inBeat has 32 TikTok influencers like this in Canada for you to collaborate.
+hits: 31
+text_top: Discover the best TikTok profiles on inBeat.
+text_bottom: Our database has 31 TikTok influencers like this in Canada for you to contact.
 profiles:
   - username: "foxy_boots"
     fullname: >-
@@ -13,36 +13,36 @@ profiles:
     bio: >-
       🇨🇦 tattoo artist / Atheist / 🏳️‍🌈 Ally / BLM - link to buy shirts below vvvv
     location: "Canada"
-    followers: 23800
-    engagement: 1458
-    commentsToLikes: 0.162153
+    followers: 24800
+    engagement: 1438
+    commentsToLikes: 0.124065
     id: ck9skix0v8z0r0j788n9r3406
     verified: false
-    hashtags: "#duet, #greenscreen, #tattoos, #stitch"
+    hashtags: "#stitch, #cult45, #duet, #photographytricks"
   - username: "mr.koo"
     fullname: >-
       Mr.koo
     bio: >-
       MR.KOO TORONTO TATTOO ARTIST IG: @release852
     location: "Canada"
-    followers: 5375
-    engagement: 1325
-    commentsToLikes: 0.193304
+    followers: 5364
+    engagement: 1314
+    commentsToLikes: 0.186678
     id: cka0l394npdzo0i78e23fbh2z
     verified: false
-    hashtags: "#tattoolover, #money, #hustle, #handtattoo"
+    hashtags: "#hustle, #tattoochick, #money, #tattooed"
   - username: "betty_byford_22"
     fullname: >-
       BettyByford22
     bio: >-
-      Mom of 3🥓Cook🥓Tattoo Artist 🖤😈🖤 #qlms🧩🇨🇦🥓🖤📲 🇨🇦#LegendaryOutsiders🥓
+      Ontario, Canada Mom of 3🥓Cook🥓Tattoo Artist 🇨🇦#LegendaryOutsiders🥓
     location: "Canada"
-    followers: 16900
-    engagement: 1033
-    commentsToLikes: 0.036184
+    followers: 17300
+    engagement: 806
+    commentsToLikes: 0.129598
     id: ck9gpbtry4e1m0j78slw8ygwe
     verified: false
-    hashtags: "#foryou, #fyp, #duet, #foryoupage"
+    hashtags: "#duet, #inverted, #foryou, #removal"
   - username: "branime.co"
     fullname: >-
       Branden Burness
@@ -79,18 +79,6 @@ profiles:
     id: ck9fdr1lkptdv0j78wt6u60ft
     verified: false
     hashtags: "#tattootalk, #fyp, #foryoupage, #tattooartist"
-  - username: "your.nightmar3"
-    fullname: >-
-      YOURxxNIGHTMAR3
-    bio: >-
-      ⛧Tatwiz🇨🇦Gamer⛧ 💍Aeon.Slaughter🧡 Diehardhepburn 💀Wifey💀 Pooka💚Ghoulbagel
-    location: "Canada"
-    followers: 15600
-    engagement: 1811
-    commentsToLikes: 0.095035
-    id: ck8p18q0rkbe50j78lp3ujk8h
-    verified: false
-    hashtags: "#wee, #fyp, #blindreact, #yyc"
   - username: "handpushed"
     fullname: >-
       melina
@@ -126,5 +114,17 @@ profiles:
     commentsToLikes: 0.023819
     id: ckb8zmqjpf0rq0j23dr0i5x7z
     verified: false
-    hashtags: "#singlelife, #couples, #afterparty, #dating"
+    hashtags: "#coupleschallenge, #single, #persiantok, #dating"
+  - username: "shelteredhoodrat"
+    fullname: >-
+      MaeBae
+    bio: >-
+      Voice Actor Artist Tattoo Apprentice ADHD Shelteredhoodrat@gmail.com
+    location: "Canada"
+    followers: 571800
+    engagement: 1484
+    commentsToLikes: 0.012871
+    id: ckal4yar54l760i789exvv5zr
+    verified: false
+    hashtags: "#voiceactor, #duet, #stitch, #anime"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fitness TikTok Influencers In Singapore In 2023
+title: Top 10 Fitness TikTok Influencers In Singapore In 2024
 description: >-
-  Find top fitness TikTok influencers in Singapore in 2023. Most popular hashtags: #fyp #foryou #fitness #tiktoksg.
+  Find top fitness TikTok influencers in Singapore in 2024. Most popular hashtags: #fyp #foryou #fitness #tiktoksg.
 platform: TikTok
 hits: 10
-text_top: See the best TikTok influencers on inBeat.
-text_bottom: inBeat has 10 TikTok influencers like this in Singapore for you to contact.
+text_top: Identify the best TikTok profiles on inBeat.
+text_bottom: Our platform has 10 TikTok influencers like this in Singapore for you to connect with.
 profiles:
   - username: "arasi_10"
     fullname: >-
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.011434
     id: ck83zqodv25o90j78tiv4r6l0
     verified: false
-    hashtags: "#duet, #fyp, #foryou, #prrrumchallenge"
+    hashtags: "#fyp, #duet, #foryou, #bangbangbang"
   - username: "thebuffessor"
     fullname: >-
       The Buffessor 🇸🇬
@@ -54,7 +54,7 @@ profiles:
     commentsToLikes: 0.029438
     id: ckc8v3lgrhqac0j23ub674npo
     verified: true
-    hashtags: "#fyp, #fitness, #fyppage, #tips"
+    hashtags: "#fyp, #training, #tips, #foryoupage"
   - username: "graceglazee"
     fullname: >-
       Graceglazee
@@ -102,7 +102,7 @@ profiles:
     commentsToLikes: 0.039402
     id: ckai9nfjt8zda0i78a5ynjnp9
     verified: false
-    hashtags: "#foryou, #tiktoksg, #xyzbca, #foryoupage"
+    hashtags: "#tiktoksg, #fyp, #foryou, #xyzbca"
   - username: "missfitfi"
     fullname: >-
       Miss FITFI

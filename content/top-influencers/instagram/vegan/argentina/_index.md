@@ -1,12 +1,48 @@
 ---
-title: Top 10 Vegan Instagram Influencers In Argentina In 2023
+title: Top 10 Vegan Instagram Influencers In Argentina In 2024
 description: >-
-  Find top vegan Instagram influencers in Argentina in 2023. Most popular hashtags: #fitness #vegangains #dancer.
+  Find top vegan Instagram influencers in Argentina in 2024. Most popular hashtags: #vegan #govegan #veganfood.
 platform: Instagram
-hits: 153
-text_top: See the most popular Instagram influencers on inBeat.
-text_bottom: Our platform aggregates 153 Instagram influencers like this in Argentina for you to connect with.
+hits: 145
+text_top: Analyze the best Instagram accounts on inBeat.
+text_bottom: Our search engine has 145 Instagram influencers like this in Argentina for you to connect with.
 profiles:
+  - username: "soykikipetrone"
+    fullname: >-
+      K I K I   P E T R O N E
+    bio: >-
+      🎙 Locutor. Actor. Stand Up. 🌱 Vegan. 👨🏽‍🍳 Emprendedor @tauro.veganfood 📲 Streaming @monotributistas_ 📺 TV @canalnetar 📻 Radio @dsportsradio
+    location: "Argentina"
+    followers: 110968
+    engagement: 357
+    commentsToLikes: 0.152226
+    id: ck0w30pzfr1po0i19jd78v0ij
+    verified: false
+    hashtags: "#standup, #soon, #musik, #musica"
+  - username: "familia_nomade"
+    fullname: >-
+      Andrea~Lórien~Osiris~Jere
+    bio: >-
+      🇦🇷Familia Viajera ✈️🌎 ⏳Más de 8 años viajando sin parar 🌎 9 países 🥑Vegan 💥💣SUSCRIBITE AL CANAL👇
+    location: "Argentina"
+    followers: 32856
+    engagement: 96
+    commentsToLikes: 0.046839
+    id: ck0w5qdkx4wz30i199clq4mmc
+    verified: false
+    hashtags: "#familiaviajera, #deviaje, #viajeros, #youtube"
+  - username: "veganfitfluencer"
+    fullname: >-
+      MARTINA CIANO
+    bio: >-
+      Autora de “Rico, Sano y Vegano”
+    location: "Argentina"
+    followers: 61027
+    engagement: 60
+    commentsToLikes: 0.012971
+    id: ck137ag2yakyf0i19qm9at7n4
+    verified: true
+    hashtags: "#cleaneating, #veganfood, #vegan, #healthy"
   - username: "angiemonasterio"
     fullname: >-
       Angie Monasterio
@@ -79,18 +115,6 @@ profiles:
     id: ck6u5vygmc2co0j71fjuw1f48
     verified: false
     hashtags: "#tulummexico, #tulum, #sefeliz, #goodvibes"
-  - username: "ibai_vegan"
-    fullname: >-
-      🌱 IBAI
-    bio: >-
-      🌿 Vegano 📢 Activista por los derechos de los animales 📃 Abogado 🌍 👇Última entrevista a Jenny (soyveganajenny)
-    location: "Argentina"
-    followers: 60215
-    engagement: 1838
-    commentsToLikes: 0.027372
-    id: ck135e6xe0zen0i19issuk5v9
-    verified: false
-    hashtags: "#seraley"
   - username: "fernandosuarezok"
     fullname: >-
       Fernando Suárez
@@ -103,28 +127,4 @@ profiles:
     id: ck5pwnnj0nowx0i11qzpbz82b
     verified: false
     hashtags: ""
-  - username: "la_luna_en_mi_"
-    fullname: >-
-      ☪ MARIANA
-    bio: >-
-      Ilustrador de mi vida. Vegan 🍃 @thebeat_mexico Yo soy ✨
-    location: "Argentina"
-    followers: 60574
-    engagement: 135
-    commentsToLikes: 0.021051
-    id: ck6u2l6xwsfxe0j714nmscsbh
-    verified: false
-    hashtags: "#selfiesplayeras, #selfies"
-  - username: "lupejelena"
-    fullname: >-
-      Lupe Jelena
-    bio: >-
-      Photographer, balletomane, dancer, youtuber, polerina, vegan, educator, TKD ITF From BA🇦🇷 see me dancing at @balletographer 📧 info@lupejelena.com.ar
-    location: "Argentina"
-    followers: 19973
-    engagement: 279
-    commentsToLikes: 0.052826
-    id: ck6031e63kgku0i14ihaxj0qa
-    verified: false
-    hashtags: "#overhead, #dancer, #lingerie, #selfportrait"
 ---

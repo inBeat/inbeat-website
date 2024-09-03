@@ -1,11 +1,11 @@
 ---
-title: Top 10 Beauty TikTok Influencers In Italy In 2023
+title: Top 10 Beauty TikTok Influencers In Italy In 2024
 description: >-
-  Find top beauty TikTok influencers in Italy in 2023. Most popular hashtags: #perte #fyp #makeup #duetto.
+  Find top beauty TikTok influencers in Italy in 2024. Most popular hashtags: #perte #fyp #duetto #makeup.
 platform: TikTok
-hits: 188
-text_top: Identify the best TikTok accounts on inBeat.
-text_bottom: Our search engine aggregates 188 TikTok influencers like this in Italy for you to contact.
+hits: 186
+text_top: See the top-rated TikTok profiles on inBeat.
+text_bottom: inBeat has 186 TikTok influencers like this in Italy for you to connect with.
 profiles:
   - username: "terry.lozano"
     fullname: >-
@@ -66,7 +66,7 @@ profiles:
     commentsToLikes: 0.036048
     id: ckbqhuqmi35g20j23n5xz53kx
     verified: false
-    hashtags: "#makeup, #lipstick, #beauty, #skincare"
+    hashtags: "#makeuphacks, #essencecosmetics, #beauty, #lipstick"
   - username: "cocolavieenrose"
     fullname: >-
       Skincare con Valeria Arizzi

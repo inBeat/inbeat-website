@@ -1,24 +1,12 @@
 ---
-title: Top 10 Bmx Instagram Influencers In Italy in 2023
+title: Top 10 Bmx Instagram Influencers In Italy In 2024
 description: >-
-  Find top bmx Instagram influencers in Italy in 2023. Most popular hashtags: #bmx #sport #gopro #skate.
+  Find top bmx Instagram influencers in Italy in 2024. Most popular hashtags: #bmx #motorsport #style.
 platform: Instagram
-hits: 9
-text_top: Identify the best Instagram accounts on inBeat.
-text_bottom: Our search engine aggregates 9 Instagram influencers like this in Italy for you to contact.
+hits: 8
+text_top: Analyze the top-rated Instagram accounts on inBeat.
+text_bottom: inBeat aggregates 8 Instagram influencers like this in Italy for you to connect with.
 profiles:
-  - username: "brigantetattoo"
-    fullname: >-
-      Brigantetattoo
-    bio: >-
-      BOOKING OPEN FOR MILANO - OCTOBER / NOVEMBER - 2020 -
-    location: "Italy"
-    followers: 302649
-    engagement: 83
-    commentsToLikes: 0.007802
-    id: ck5hj85h0g6k40i11yk9qdpfe
-    verified: false
-    hashtags: "#font, #bmx, #skateboard, #hate"
   - username: "artemkarpov492"
     fullname: >-
       18 y.o
@@ -30,31 +18,7 @@ profiles:
     commentsToLikes: 0.024335
     id: ck9we7713ixlb0j780xz3624e
     verified: false
-    hashtags: "#bmx, #scooter, #ridescooter, #style"
-  - username: "ziliandre"
-    fullname: >-
-      Andrea Ziliani
-    bio: >-
-      No Bike no Life!!! 😎🤘🏻 YouTuber // Creator for @redbullitalia // rider for @supernovagang
-    location: "Italy"
-    followers: 11054
-    engagement: 810
-    commentsToLikes: 0.007013
-    id: ck8t033djqo170j78fr6v2imx
-    verified: false
-    hashtags: "#bicycle, #freeride, #sport, #mtblifestyle"
-  - username: "lele.aspro"
-    fullname: >-
-      Lele Aspro
-    bio: >-
-      Creativity Creator 📸 Gopro Founder: @herosquadvt Admin: @gosoulcommunity 🌐 Sponsor: Bluefin - Blueprint WonkyBoard - Ruroc 📩 Sponsorship: Email o Dm
-    location: "Italy"
-    followers: 6114
-    engagement: 647
-    commentsToLikes: 0.033575
-    id: ck5zsnlxcyufy0i14r4achfp4
-    verified: false
-    hashtags: "#paddleboard, #cycling, #photooftheday, #surf"
+    hashtags: "#ethicdtc, #belarus, #ethicdtcscooters, #sport"
   - username: "e30queen"
     fullname: >-
       CT
@@ -66,53 +30,77 @@ profiles:
     commentsToLikes: 0.019742
     id: ck13aa4e2pdku0i197t4n2wp2
     verified: false
-    hashtags: "#c141ret, #e30, #cardrawing, #caricature"
+    hashtags: "#c141ret, #classiccars, #carcaricature, #e30lifestyle"
+  - username: "kristine.garklava"
+    fullname: >-
+      KRISTINE GARKLAVA
+    bio: >-
+      🇱🇻🇺🇦TV ANCHOR, PUBLIC FIGURE. World Wildlife Fund ambassador. 🐻‍❄️Winner of #maskedsinger2023 Latvia. DM: Kristine.Garklava@gmail.com
+    location: "Italy"
+    followers: 72751
+    engagement: 333
+    commentsToLikes: 0.010090
+    id: ck5hkkmt8ilcs0i11pi11y5fx
+    verified: false
+    hashtags: "#tenerife, #love, #sadarb, #rekl"
+  - username: "nickpescetto"
+    fullname: >-
+      Nick Pescetto
+    bio: >-
+      M̷ᴏᴠᴇᶜᴿᴱᴬᵀᴱC̷ᴏɴɴᴇᴄᴛ 📍Ericeira 📸 @nickpescettopresets 🎥 @yourcreativeacademy
+    location: "Italy"
+    followers: 335292
+    engagement: 108
+    commentsToLikes: 0.014026
+    id: ck0ub1igbdi1k0i191xfalm92
+    verified: true
+    hashtags: "#gopro, #morocco, #ericeira, #marocco"
   - username: "dilettacurra"
     fullname: >-
       •🔥•DC•🔥•
     bio: >-
       Dile ❤ Bratislava🇸🇰Wien🇦🇹Italy(Calabria)🇮🇹 @dilettacurra
     location: "Italy"
-    followers: 7585
-    engagement: 798
-    commentsToLikes: 0.017194
+    followers: 7458
+    engagement: 805
+    commentsToLikes: 0.017173
     id: ck9hahvx2clw70j78m2iibib5
     verified: false
-    hashtags: "#tulerthecreator, #kcco, #armani, #african"
-  - username: "samuele_zuccali"
+    hashtags: "#likesforlikes, #africa, #bmx, #melbourne"
+  - username: "ivop26"
     fullname: >-
-      Samuele Zuccali
+      ivo pasquettin
     bio: >-
-      // Italian Freestyle TRIAL Rider // Rider for #circustrialtour Freestyle Team
+      🇮🇹 ITALIAN DIRT JUMP CHAMPION 2019 Como, 25 Sponsored: @fornlab @bulk @switch_components ULTIMO VIDEO 👇🏻
     location: "Italy"
-    followers: 16862
-    engagement: 372
-    commentsToLikes: 0.010250
-    id: ck5qe71gnz17d0i112m1r1kx8
+    followers: 20869
+    engagement: 1141
+    commentsToLikes: 0.013422
+    id: ck6u9e2xbx0ox0j71bfwr3v6v
     verified: false
-    hashtags: "#freestyle, #circustrialtour, #trialfreestyle, #samuelezuccali"
-  - username: "suarezlegroupe"
+    hashtags: "#motocross, #barspin, #2020, #backflip"
+  - username: "andervalentin"
     fullname: >-
-      SUAREZ
+      Ander Valentin
     bio: >-
-      Nouvel album le 4/9/20 🔥🔥DISPO ICI👇👇
+      Piloto Motocross MX1 - MXGP •🥇🥈🥉🥉Cto. Esp. MX1 •🥇🥇🥈Cto. Esp. MX2 •🥇 Trofeo nacional Sub-18 MX2 •🥇 Promesas 85cc •🥈 Alevin 65cc •🥉 Europeo Mx2 Italia
     location: "Italy"
-    followers: 11073
-    engagement: 597
-    commentsToLikes: 0.045683
-    id: ck5q0z38r8gou0i1180acd6sv
-    verified: true
-    hashtags: "#tasvumabulle, #vivant, #sarapechetiamo"
-  - username: "giulio_carusosurf"
-    fullname: >-
-      Giulio Caruso
-    bio: >-
-      Surfer🇮🇹 Cagliari, ITA📍 Traveller🌎 Whatever it takes!💪🏼 giulio.caruso2001@gmail.com 📧 🔗CNS LINK🔗
-    location: "Italy"
-    followers: 2605
-    engagement: 1525
-    commentsToLikes: 0.056847
-    id: ck5cgkxb8p1t20i11gpf991mn
+    followers: 14170
+    engagement: 737
+    commentsToLikes: 0.016137
+    id: ck5c68sx64ye40i11t6p7ec5n
     verified: false
-    hashtags: "#wanderlust, #gopro, #sardegna, #surfboard"
+    hashtags: "#offroad, #dirt, #fxr, #fourstroke"
+  - username: "legorcicli"
+    fullname: >-
+      Legor Cicli
+    bio: >-
+      Framebuilder, i check my account 1time for week, email if you want contact with me:📩 info@legorcicli.it carrer pere IV 29/35 2-5 08018 barcelona spain
+    location: "Italy"
+    followers: 19739
+    engagement: 376
+    commentsToLikes: 0.017642
+    id: ck0vzu1lrawhy0i19j5d3izph
+    verified: false
+    hashtags: "#iridelegor, #gravelbike, #gravelgrinder, #framebuilderlife"
 ---

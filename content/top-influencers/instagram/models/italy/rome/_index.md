@@ -1,12 +1,24 @@
 ---
-title: Top 10 Models Instagram Influencers In Rome In 2023
+title: Top 10 Models Instagram Influencers In Rome In 2024
 description: >-
-  Find top models Instagram influencers in Rome in 2023. Most popular hashtags: #model #rome #fashion #style.
+  Find top models Instagram influencers in Rome in 2024. Most popular hashtags: #model #rome #fashion #photography.
 platform: Instagram
-hits: 122
-text_top: Discover the best Instagram influencers on inBeat.
-text_bottom: Our database aggregates 122 Instagram influencers like this in Rome, Italy for you to connect with.
+hits: 121
+text_top: See the best Instagram influencers on inBeat.
+text_bottom: Our database holds 121 Instagram influencers like this in Rome, Italy for you to pitch.
 profiles:
+  - username: "diletta.ferretti_"
+    fullname: >-
+      DILETTA FERRETTI  | Lifestyle
+    bio: >-
+      Inspired by fashion and aesthetic La vie est belle 🌈 📍Cardano al Campo (VA)
+    location: "Italy"
+    followers: 17726
+    engagement: 344
+    commentsToLikes: 0.143055
+    id: ck6ualkaa48gn0j714ob46501
+    verified: false
+    hashtags: "#bionell, #freshlycosmetics, #outfitideas, #influencerswanted"
   - username: "dami_riz"
     fullname: >-
       Damiano Rizzeri 🔥
@@ -19,18 +31,18 @@ profiles:
     id: ck8t1e1aoverl0j78ok3bswrw
     verified: false
     hashtags: "#men, #followthemovement, #mood, #ph"
-  - username: "elisadospina"
+  - username: "gianmarcopetrelli"
     fullname: >-
-      Elisa D'Ospina
+      GIANMARCO
     bio: >-
-      👗 Founder @elisadospinacollection 📺 In tv Rai1 e Rai2 📷 Top model #curvy 👠 ⭐️Collaborazioni: pr@elisadospina.com Tv Agency: VEGASTAR
+      #Amici22 Dancer, Creative, Model 📍 Milan // Rome ✉️ gianmarco.petrelli@goldensabre.it
     location: "Italy"
-    followers: 336116
-    engagement: 195
-    commentsToLikes: 0.036665
-    id: ck14jv77pmcpv0i199nd3uzc7
-    verified: true
-    hashtags: "#loveyourself, #bodypositive, #elisadospinacollection, #ad"
+    followers: 163351
+    engagement: 1776
+    commentsToLikes: 0.008193
+    id: ck5zy12if91ag0i1412clod6q
+    verified: false
+    hashtags: "#adv, #alessandraamoroso, #amici22, #australia"
   - username: "vittoriabelvedere"
     fullname: >-
       Vittoria Belvedere
@@ -55,18 +67,18 @@ profiles:
     id: ck6u9m92gyc5f0j71a3s6o2q9
     verified: false
     hashtags: "#photography, #modeling, #rome, #glamour"
-  - username: "nicolebuttafoco"
+  - username: "mariemsabbagh"
     fullname: >-
-      ⭐Nicole Buttafoco⭐
+      Mariem Sabbagh
     bio: >-
-      #Hairstylist #Fashion Fashion-editor @nonsololook #nicole⭐ Per info e collaborazioni 👉🏻Direct/Email 📧 @instagram
+      📍|UAE🇦🇪-QAR🇶🇦-BEL🇧🇪-TUN🇹🇳 💎|ɪɴғʟᴜᴇɴᴄᴇʀ 👩🏼‍🎓|ғɪɴᴇ ᴀʀᴛs 📸|ᴄʀᴇᴀᴛɪᴠᴇ ᴅɪʀᴇᴄᴛᴏʀ 📺|ᴛᴠ ʜᴏsᴛ
     location: "Italy"
-    followers: 29699
-    engagement: 795
-    commentsToLikes: 0.084975
-    id: ck6uekji2rgvg0j71lc35gyi8
+    followers: 322959
+    engagement: 168
+    commentsToLikes: 0.004634
+    id: ck0ucosnlhdgp0i19kykzvziq
     verified: false
-    hashtags: "#bellezza, #makeup, #likesforlike, #instagram"
+    hashtags: "#mashallah, #endlesslove, #husbandandwife, #birthdayparty"
   - username: "saralabidi28"
     fullname: >-
       Sara Labidi
@@ -115,16 +127,4 @@ profiles:
     id: ck5heaz35rze20i11km3xilvt
     verified: false
     hashtags: "#portrait, #beautydish, #beautyphotographer, #beautyphotography"
-  - username: "big_frontinaa"
-    fullname: >-
-      Giulia Biagioli
-    bio: >-
-      Model and mua Based in rome 🇮🇹 12-14/12 milan 🇮🇹18-20/12 veneto For collab dm-mail
-    location: "Italy"
-    followers: 45025
-    engagement: 761
-    commentsToLikes: 0.019713
-    id: ck5zyfpp39sw60i14rwmgal1t
-    verified: false
-    hashtags: ""
 ---

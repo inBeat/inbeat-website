@@ -1,12 +1,60 @@
 ---
-title: Top 10 Music Instagram Influencers In Portugal In 2023
+title: Top 10 Music Instagram Influencers In Portugal In 2024
 description: >-
-  Find top music Instagram influencers in Portugal in 2023. Most popular hashtags: #pub #music #love.
+  Find top music Instagram influencers in Portugal in 2024. Most popular hashtags: #throwbackthursday #recap #musician.
 platform: Instagram
-hits: 47
-text_top: See the top-rated Instagram profiles on inBeat.
-text_bottom: Our platform aggregates 47 Instagram influencers like this in Portugal for you to contact.
+hits: 52
+text_top: Analyze the best Instagram profiles on inBeat.
+text_bottom: Our search engine holds 52 Instagram influencers like this in Portugal for you to work with.
 profiles:
+  - username: "charliebrownbeats"
+    fullname: >-
+      Charlie Beats
+    bio: >-
+      #Composer/#MusicProducer/#SoundEngineer ⬇2022_RECAP⬇️
+    location: "Portugal"
+    followers: 19265
+    engagement: 305
+    commentsToLikes: 0.023846
+    id: ck5c1gfukv55d0i110nqniv7s
+    verified: true
+    hashtags: "#regula, #producer, #vblock, #mixingengineer"
+  - username: "comedyportuguese"
+    fullname: >-
+      Ben Fate 🐉⚽🩵
+    bio: >-
+      🇵🇹 Luso Açoriano Portuguese Canadian 🇨🇦 📸 Memes, Videos, Music Parodies & Remixes🎵 🔞 Mature Portuguese Comedy 👀 🌍 For Booking Inquiries & Merch 👇
+    location: "Portugal"
+    followers: 50027
+    engagement: 229
+    commentsToLikes: 0.030333
+    id: ck6ugjx5j3gtm0j71lgnmnd3z
+    verified: false
+    hashtags: "#bateopefriday, #siusaturdays, #theunfilteredcomedyshow, #throwbackthursday"
+  - username: "joaokopke"
+    fullname: >-
+      João Kopke | Surf Storytelling
+    bio: >-
+      Proving depth and curiosity can be exciting. Surf storytelling, music and meaningful adventures. Join me to live experiences and break stereotypes!
+    location: "Portugal"
+    followers: 28704
+    engagement: 325
+    commentsToLikes: 0.020578
+    id: ck5zs0l7rxll20i1470zawngs
+    verified: false
+    hashtags: "#intimissimiuomo, #summermoda, #namibia, #emboacompanhia"
+  - username: "pequena_soraia"
+    fullname: >-
+      Soraia Tavares
+    bio: >-
+      Acting: @carrelosquad Music: @sonsemtransito PR & Brands: @connosco.pt
+    location: "Portugal"
+    followers: 142653
+    engagement: 129
+    commentsToLikes: 0.016499
+    id: ck0vzd8ha8izo0i19rb5hbtb8
+    verified: true
+    hashtags: "#carrelosquad, #actress, #oclube, #optosic"
   - username: "pipa__music"
     fullname: >-
       Pipa
@@ -18,19 +66,7 @@ profiles:
     commentsToLikes: 0.047979
     id: ck6tmy3ba8r5j0j71buykwkbb
     verified: false
-    hashtags: "#songs, #thevoice2019, #thevoicept, #singer"
-  - username: "hyndia"
-    fullname: >-
-      Rita Pereira
-    bio: >-
-      Portuguese Actress 🏹 🎬 @tvioficial 💌 @notable.pt Adidas Ambassador Forbes Cover #traveller #doghorselover #basket #cheeseplease #dance #music
-    location: "Portugal"
-    followers: 1512549
-    engagement: 316
-    commentsToLikes: 0.016831
-    id: ck5q5k99ktaa40i11q6q92qzx
-    verified: true
-    hashtags: "#health, #boy, #goodvibes, #ootd"
+    hashtags: "#singer, #musician, #jorjasmith, #dontwatchmecry"
   - username: "luispires2b"
     fullname: >-
       Luís Pires
@@ -41,30 +77,6 @@ profiles:
     engagement: 409
     commentsToLikes: 0.092677
     id: ck0w452k0wun10i19s2xiq98s
-    verified: false
-    hashtags: ""
-  - username: "miguellluz"
-    fullname: >-
-      Miguel Luz
-    bio: >-
-      🎸 Musician & Creative director @natadellanata 🏖 Podcast Janela Aberta booking: vascoferreira@faded.pt brands: hugonobrega@h2n.pt
-    location: "Portugal"
-    followers: 142976
-    engagement: 937
-    commentsToLikes: 0.001747
-    id: ckap8ap1bnkc10i785xk7aguw
-    verified: false
-    hashtags: "#pub, #wookmeup"
-  - username: "mellodj"
-    fullname: >-
-      MELLO
-    bio: >-
-      🏆 #18 TOP30 DJ Portugal 2019/20 (@deejay.pt) 📩 info@mellodj.pt 👇🏼Spotify Mello Music👇🏼
-    location: "Portugal"
-    followers: 19112
-    engagement: 324
-    commentsToLikes: 0.046703
-    id: ckapbb8k2z9hu0i78hkwkiame
     verified: false
     hashtags: ""
   - username: "michal_officiel"
@@ -78,7 +90,7 @@ profiles:
     commentsToLikes: 0.021899
     id: ck8t99lrjnbb50j78rrtu4t2i
     verified: true
-    hashtags: "#bixentesimonet, #vacances, #throwbackthursday, #menstyle"
+    hashtags: "#menstyle, #throwbackthursday, #tbt, #atlanticocean"
   - username: "martamendess"
     fullname: >-
       Marta Mendes
@@ -90,7 +102,7 @@ profiles:
     commentsToLikes: 0.081068
     id: ck0u7ux4f5ptr0i19jn5mgo3x
     verified: false
-    hashtags: "#vilamoura, #happyinternationalwomensday, #hairtransformation, #bomdiavilamoura"
+    hashtags: "#glowup, #tothesalon, #vacations, #vm"
   - username: "veddermandenis"
     fullname: >-
       Daniel Marques
@@ -107,24 +119,12 @@ profiles:
     fullname: >-
       Tio Jel
     bio: >-
-      🎙Comediante 🎶Músico🕺Bailarino👳‍♂️Guru maildojel@gmail.com📧booking@wearemusic.pt
+      🎙Comediante 🎶Músico🕺Bailarino👳‍♂️Guru Espectáculos: pedro@gigsonmars.com Parcerias: maildojel@gmail.com ⬇️ Nova Música - Deixa-os Falar ⬇️
     location: "Portugal"
-    followers: 142155
-    engagement: 216
-    commentsToLikes: 0.023765
+    followers: 149655
+    engagement: 236
+    commentsToLikes: 0.027945
     id: ck0w59tmn2m1v0i190o731onx
     verified: false
-    hashtags: "#sicradical2006, #byetrump, #otiofazanos, #colheitade74"
-  - username: "rawar.lurker"
-    fullname: >-
-      Rawar Helder
-    bio: >-
-      Rawar its the artist name of the Portuguese electronic musicien Helder Amaral. Rawar project is directed to eletronic psychedelic music lovers.
-    location: "Portugal"
-    followers: 19416
-    engagement: 529
-    commentsToLikes: 0.009443
-    id: ck5qdn3suwe0d0i11m2voqacu
-    verified: false
-    hashtags: "#producerlife, #psychedelic, #dj, #newrelease"
+    hashtags: "#alive2008, #parab, #recordar, #deixaosfalar"
 ---

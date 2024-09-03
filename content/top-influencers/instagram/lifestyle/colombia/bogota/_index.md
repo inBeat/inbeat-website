@@ -1,24 +1,12 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Bogotá In 2023
+title: Top 10 Lifestyle Instagram Influencers In Bogotá In 2024
 description: >-
-  Find top lifestyle Instagram influencers in Bogotá in 2023. Most popular hashtags: #colombia #bogota #lifestyle #photooftheday.
+  Find top lifestyle Instagram influencers in Bogotá in 2024. Most popular hashtags: #colombia #lifestyle #bogota #medellin.
 platform: Instagram
-hits: 57
-text_top: See the best Instagram influencers on inBeat.
-text_bottom: Our database aggregates 57 Instagram influencers like this in Bogotá, Colombia for you to contact.
+hits: 59
+text_top: Discover the top-rated Instagram influencers on inBeat.
+text_bottom: Our database has 59 Instagram influencers like this in Bogotá, Colombia for you to connect with.
 profiles:
-  - username: "marialejamirandap"
-    fullname: >-
-      -M A R I A  A L E J A N D R A-
-    bio: >-
-      📍Cali |Co •ℂ𝕣𝕖𝕒𝕟𝕕𝕠 𝕝𝕒 𝕧𝕚𝕕𝕒 𝕢𝕦𝕖 𝕒𝕞𝕠 • •MIP•|Icesi Creadora de 🧁:@factorycakebymale
-    location: "Colombia"
-    followers: 8470
-    engagement: 510
-    commentsToLikes: 0.041288
-    id: ckaouqrjw1esd0i78decx4wuk
-    verified: false
-    hashtags: "#playa, #picoftheday, #ootd, #repostdolookdodia"
   - username: "lucius.ph"
     fullname: >-
       ・ＬＵＣＩＵＳ •
@@ -31,18 +19,6 @@ profiles:
     id: ck5zknppsjtci0i149c4cckq6
     verified: false
     hashtags: "#swag, #lifestyle, #bogota, #the35mmdiary"
-  - username: "marrana.eats"
-    fullname: >-
-      MARRANA EATS Miami
-    bio: >-
-      𝗜 𝘁𝗿𝗮𝘃𝗲𝗹, 𝗜 𝗲𝗮𝘁, 𝗜 𝗯𝗹𝗼𝗴⁣ 🌎🍴 📍 MIAMI⁣⁣ FAT & FIT Chef @gatodumascol Personal acc @marianaarra ORDER YOUR @jarsbymarrana.eats 👇🏼
-    location: "Colombia"
-    followers: 27175
-    engagement: 454
-    commentsToLikes: 0.405245
-    id: ck5ch6qvwq7de0i11f0c2mnfo
-    verified: false
-    hashtags: "#fries, #foodblog, #diy, #hungry"
   - username: "maestrosommelier"
     fullname: >-
       ℂ𝕙𝕣𝕚𝕤𝕥𝕚𝕒𝕟 🔹𝔹𝕠𝕘𝕠𝕥𝕒 ℂ𝕚𝕘𝕒𝕣𝕤 ℂ𝕝𝕦𝕓🔹
@@ -55,18 +31,18 @@ profiles:
     id: ck8t8bgdzjszz0j78qs8alzbf
     verified: false
     hashtags: "#fumadoresdepurosenbogota, #bogotacigarsclub, #coffee, #villigercigars"
-  - username: "danielrestrepogarcia"
+  - username: "mariamanugomez"
     fullname: >-
-      𝑫𝒂𝒏𝒊𝒆𝒍 𝑹𝒆𝒔𝒕𝒓𝒆𝒑𝒐 I Clavados
+      MARIA MANU | actriz
     bio: >-
-      Nos vemos en Francia 🇫🇷 @paris2024 acompáñame a vivir un ciclo olímpico Campeón Panamericano Lima 2019 Campeón olímpico de la juventud 2018
+      📍bogotá lifestyle content creator • actress manager:@itmjoserivera 28y
     location: "Colombia"
-    followers: 19827
-    engagement: 1020
-    commentsToLikes: 0.025376
-    id: ck8sxy4w6j33z0j78bo5e1iqo
+    followers: 252158
+    engagement: 5
+    commentsToLikes: 0.000413
+    id: ck6ub4hbn7ert0j716ukoso9s
     verified: false
-    hashtags: "#me, #fit, #covid, #workout"
+    hashtags: "#relationships, #instarelatable, #adayinthelife, #relatable"
   - username: "21pics__"
     fullname: >-
       Alejo Lezcano / Fotografo
@@ -91,30 +67,54 @@ profiles:
     id: ck9wfzooir8l00j780njrajve
     verified: false
     hashtags: "#lifestyleblogger, #glampingcolombia, #travelblogger, #traveling"
+  - username: "danielrestrepogarcia"
+    fullname: >-
+      𝑫𝒂𝒏𝒊𝒆𝒍 𝑹𝒆𝒔𝒕𝒓𝒆𝒑𝒐 I Clavados & DJ💿
+    bio: >-
+      Atleta olímpico. Nos vemos en🇫🇷 @paris2024 Dj📀🎧
+    location: "Colombia"
+    followers: 30106
+    engagement: 1610
+    commentsToLikes: 0.019613
+    id: ck8sxy4w6j33z0j78bo5e1iqo
+    verified: false
+    hashtags: "#nea, #atletasenredes, #deporte, #sport"
+  - username: "angela_bonilla_"
+    fullname: >-
+      Angela Bonilla | Dubai Model
+    bio: >-
+      📍 Dubai Model | Plant Based 🌱 @theveganenergy | Traveler From Colombia 🇨🇴 @talentmodelmgmt 🇦🇪 @bareface_model_agency
+    location: "Colombia"
+    followers: 25449
+    engagement: 454
+    commentsToLikes: 0.036914
+    id: ck5pvbheuh2lh0i11cxmrdv0u
+    verified: false
+    hashtags: "#colombia, #model, #makeup, #latina"
   - username: "_omnia.x"
     fullname: >-
       O M N I A
     bio: >-
-      Contacto y publicidad DM📩 ✖ Portraits, Lifestyle, Fashion ✖ 📍 Bogotá 🇨🇴
+      Sesiones y contacto DM📩 ✖ Portraits, Lifestyle, Fashion ✖ 📍 Bogotá 🇨🇴 By: @itsmelbournee @losspotsdemartin
     location: "Colombia"
-    followers: 102604
-    engagement: 459
-    commentsToLikes: 0.120064
+    followers: 88892
+    engagement: 450
+    commentsToLikes: 0.204840
     id: ck55kllvdzlpk0i1159j074ii
     verified: false
-    hashtags: "#vibetones, #sonyalphacolombia, #insomniamag, #777luckyfish"
-  - username: "danielirizarryoficial"
+    hashtags: "#thefilmmagazine, #sonyalpha, #realismag, #editorials"
+  - username: "loboartt"
     fullname: >-
-      Daniel Irizarry
+      Stives Contreras
     bio: >-
-      🎭🎬 🇵🇷Born in Puerto Rico 🇨🇴 Disfrutando de Colombia 🏋️‍♂️🧘🏼‍♂️Embajador @clubbodytech @informamodels
+      Arte y escultura @artbylobo__ Micro & fine line @finelinebyloboartt Cuenta personal @soyloboart Mi tienda @lobotattoostudio
     location: "Colombia"
-    followers: 13134
-    engagement: 346
-    commentsToLikes: 0.024392
-    id: ck5pw1ngbko0k0i1198fm671g
+    followers: 124099
+    engagement: 42
+    commentsToLikes: 0.093558
+    id: ck5caah71d18g0i11lbq1tlx3
     verified: false
-    hashtags: "#puertorico, #picoftheday, #justme, #miami"
+    hashtags: "#besttattoos, #lifestyletattoo, #besttattooartist, #realistic"
   - username: "leidygomez063"
     fullname: >-
       ⚜️ 𝐋𝐞𝐢𝐢𝐝𝐲 𝐆𝐨́𝐦𝐞𝐳  ⚜️

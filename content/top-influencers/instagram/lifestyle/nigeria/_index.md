@@ -1,130 +1,130 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Nigeria In 2023
+title: Top 10 Lifestyle Instagram Influencers In Nigeria In 2024
 description: >-
-  Find top lifestyle Instagram influencers in Nigeria in 2023. Most popular hashtags: #naturalhair #blackgirlmagic #explore.
+  Find top lifestyle Instagram influencers in Nigeria in 2024. Most popular hashtags: #grwm #dettydecember #iphone.
 platform: Instagram
-hits: 36
-text_top: Discover the best Instagram accounts on inBeat.
-text_bottom: inBeat holds 36 Instagram influencers like this in Nigeria for you to collaborate.
+hits: 57
+text_top: See the most popular Instagram profiles on inBeat.
+text_bottom: Our platform holds 57 Instagram influencers like this in Nigeria for you to work with.
 profiles:
-  - username: "happycurlhappygirl"
+  - username: "victoire_mahounou"
     fullname: >-
-      Rayna
+      Victoire |Content creator
     bio: >-
-      curls • beauty • family • lifestyle 🤍 los angeles rayna@cfg.co 220K+ youtube subbies • 190K+ tik tok
+      My name’s Victoire not Victoria Lifestyle Content Creator Vlogs | Storytelling | Beauty MGMT @stellarinhouse 📧 victoire@stellarinhouse.com
     location: "Nigeria"
-    followers: 155677
-    engagement: 808
-    commentsToLikes: 0.028313
-    id: ck5ccz2wbi91n0i11r5ffjtz4
+    followers: 31414
+    engagement: 614
+    commentsToLikes: 0.046912
+    id: cl8balz7c3dhe0i23236o6ewg
     verified: false
-    hashtags: "#marriedlife, #momlife, #ariesseason, #husbandandwife"
-  - username: "beautyw.cat"
+    hashtags: "#dettydecember, #vitamilkbanana, #ad, #vlogmas"
+  - username: "chinyereabang"
     fullname: >-
-      Cat with a C
+      Chichi | Lifestyle Content Creator
     bio: >-
-      Beauty•Hair•Lifestyle Manifesting my reality ✨ Lover of all things beautiful 🌻 3 million+ YouTube views 45K+ subbies NEW VIDEO BELOW
+      womanhood • motherhood • lifestyle 👧🏾Girl Mum x 3 🎓 YouTube Black Voices Class of '22 📩 workwithchinyereabang@gmail.com I share amazing stuff here 👇🏾
     location: "Nigeria"
-    followers: 15980
-    engagement: 1575
-    commentsToLikes: 0.079823
-    id: ck14gqruh6ksi0i19m3bsv1rt
+    followers: 32613
+    engagement: 572
+    commentsToLikes: 0.065655
+    id: cl0drim7cgy930i23e21fdkly
     verified: false
-    hashtags: "#lacefrontunit, #thecrayoncase, #lacefrontwigs, #ootd"
-  - username: "thejennjackson"
+    hashtags: "#blulagos, #mothersdaymemories, #loveandlaughter, #radissonbluanchoragehotel"
+  - username: "quick_steph"
     fullname: >-
-      Jenn Jackson | Influencer
+      MSQUICK🇦🇺🇳🇬
     bio: >-
-      ➿ Your favourite natural hair guru sharing beauty, skincare and lifestyle tips! ➿ 🎬YouTube: 135k+ 💌 jenn@itsjennj.com ✨ 👇🏽Get your self-care box👇🏽✨
+      • ɢᴏᴅ 👑 🌏: @msquickofficial MEDIA PERSONALITY | BEAUTY | LIFESTYLE | TRAVEL 📧: 𝐁𝐨𝐨𝐤𝐢𝐧𝐠𝐬.𝐪𝐮𝐢𝐜𝐤𝐬𝐭𝐞𝐩𝐡@𝐠𝐦𝐚𝐢𝐥.𝐜𝐨𝐦 ᴄᴀᴛᴄʜ ᴍᴇ ᴏɴ ʏᴏᴜᴛᴜʙᴇ 👇🏻
     location: "Nigeria"
-    followers: 30472
-    engagement: 406
-    commentsToLikes: 0.053406
-    id: ck14h8hhb92fw0i19a6im80f2
+    followers: 156187
+    engagement: 767
+    commentsToLikes: 0.012977
+    id: ck5hg8n5y1i6r0i11qldvz7qf
     verified: false
-    hashtags: "#4chairchicks, #blacklifestyleblogger, #naturalhairloves, #4cnaturalhair"
-  - username: "superstarace"
+    hashtags: "#girlstrip, #morocco, #grwm, #styleinspiration"
+  - username: "charcoalshade"
     fullname: >-
-      Superstar Ace
+      ONYINYE | CONTENT CREATOR
     bio: >-
-      Zaddy, Music, Entertainment & Premium Lifestyle Entrepreneur + I’m Witty With It! 😂 Features & MGMT: team@glitteratihouse.co
+      BEAUTY|HAIR|LIFESTYLE Queen of Colors 🌈 Email:Charcoalshade@gmail.com for Promo/Collab 🎵Tiktok 70k+ Shop my Palette ⬇️ Use “CHARCOALARMY” for 💸 off
     location: "Nigeria"
-    followers: 43670
-    engagement: 432
-    commentsToLikes: 0.065702
-    id: ck5zuog9d2r3d0i140568yt3f
-    verified: true
-    hashtags: "#lifestyle, #lifestylezaddy, #musiclifestyleprenuer, #edennightslagos"
-  - username: "_sunkissedcurls"
-    fullname: >-
-      Kim 🌻
-    bio: >-
-      🙌🏽GOD 🌴Miami Natural Hair + Lifestyle + Fitness Wife 💍 Mommy to @jaxsonmylo 👶🏽 📧 sunkissedcurlsmgmt@gmail.com for business LATEST VIDEO⤵️
-    location: "Nigeria"
-    followers: 42473
-    engagement: 284
-    commentsToLikes: 0.059122
-    id: ck5zjzxxeiknk0i141we5iwzb
+    followers: 50914
+    engagement: 328
+    commentsToLikes: 0.042875
+    id: ckqquvn94xssf0j23napw8i07
     verified: false
-    hashtags: "#reelsinstagram, #ufdincvs, #reels, #unclefunkysdaughter"
-  - username: "yeh_mah"
+    hashtags: "#blackgirlwiththeblackgirlhairchallenge, #tiktokchallenge, #bleachedbrows, #tiktokviral"
+  - username: "yhemo_lee"
     fullname: >-
-      Yehmah Areh🇳🇬
+      YL ✨
     bio: >-
-      •Content Creator | Youtuber •Beauty| Fashion | Lifestyle 📍Lagos, Nigeria 📩| Yehmaha@gmail.com
+      Event Host/Nigerian Actor/ Nightlife Enthusiast/Lifestyle & Social media influencer /A & R ❤️.
     location: "Nigeria"
-    followers: 3336
-    engagement: 1425
-    commentsToLikes: 0.104038
-    id: ck0w0w7p7gc1m0i195tsaz1br
+    followers: 1425078
+    engagement: 530
+    commentsToLikes: 0.012562
+    id: ck15q0s0r0jsf0i19d1qpk70d
     verified: false
-    hashtags: "#aestheticsfeed, #minimalist, #slowandsteady, #life"
+    hashtags: "#lagosnightlife, #yl, #londoneditorial, #ashluxe"
+  - username: "vivianokezie"
+    fullname: >-
+      Vivikoks ♡ | Content Creator & Youtuber
+    bio: >-
+      Hi! Find me on YouTube and TikTok too! Beauty | Travel | Lifestyle @vivikokskitchen 📧| vivianokeziemgt@gmail.com
+    location: "Nigeria"
+    followers: 59193
+    engagement: 264
+    commentsToLikes: 0.023671
+    id: ck134jvqvwsgw0i19r0gwr8hf
+    verified: false
+    hashtags: "#weeklyvlog, #tulipbodycare, #skincare, #selfcare"
+  - username: "stevechuks_"
+    fullname: >-
+      Steve Chuks
+    bio: >-
+      🇳🇬 God is good Actor • Host • Content creator • Lifestyle Prod/Dir - @ibemantheplay #CleopatraLiveNight Bookings :Email below👇🏽 #AMVCA9 Nominee
+    location: "Nigeria"
+    followers: 523244
+    engagement: 248
+    commentsToLikes: 0.029368
+    id: ck0tvv246cwxx0i19slro2syw
+    verified: false
+    hashtags: "#lightscameranaija, #netflixnaija"
+  - username: "whyifeoma"
+    fullname: >-
+      ps: Ifeoma not Ify
+    bio: >-
+      Style | Marketing | Lifestyle ✉️ ifeomasamadi@gmail.com 📍London, United Kingdom Blog👇🏾
+    location: "Nigeria"
+    followers: 10714
+    engagement: 224
+    commentsToLikes: 0.029026
+    id: cl0driov7h0d10i23z8aurstr
+    verified: false
+    hashtags: "#thriftflip, #upcycledfashion, #visualdiary, #weekendvlog"
   - username: "horlaroflagos"
     fullname: >-
       Bolarinwa Y.O
     bio: >-
-      OLOUNJE EKO 🤟🏾 Local Guide 🥇 Photographer 🥈 Lifestyle|Fashion|Food Enthusiast 🥉 Media Strategist • Photography + Lifestyle = 💯😍❤️
+      NO🥇LIFESTYLE PHOTOGRAPHER IN 🇳🇬 Sneakerhead 👟 (Check my REELS)
     location: "Nigeria"
-    followers: 27542
-    engagement: 588
-    commentsToLikes: 0.036266
+    followers: 73830
+    engagement: 307
+    commentsToLikes: 0.027059
     id: ck5c9qdqzbwuz0i111eypf4jw
     verified: false
-    hashtags: "#fakelife, #badcommentsthemovie, #calltobar"
-  - username: "thelolawilliams"
+    hashtags: "#calltobar, #badcommentsthemovie, #number1"
+  - username: "uchekush_"
     fullname: >-
-      Lola Williams MD🇳🇬
+      Okafor Uchenna Oluwafemi 🇳🇬
     bio: >-
-      Natural hair • Lifestyle • Wellness 👩🏾‍⚕️| Medical Doctor 📍| Abuja, Nigeria 🎥| Check out my Youtube👇🏾
+      visual storyteller. tech. lifestyle. creative: @visualsbykush new content creation tutorial 👇🏾
     location: "Nigeria"
-    followers: 27956
-    engagement: 507
-    commentsToLikes: 0.048652
-    id: ck5hixy3jfnwn0i11yrt0n301
+    followers: 61221
+    engagement: 169
+    commentsToLikes: 0.098354
+    id: ck5ho9t6tp6xu0i11mfz7zwh5
     verified: false
-    hashtags: "#kinkyhair, #luvyourmane, #sleekbun, #naturalhair"
-  - username: "austa_xxo"
-    fullname: >-
-      QUEEN NEFERTITI
-    bio: >-
-      For bookings 📧onuwaausta@gmail.com •Beauty, fashion and lifestyle influencer
-    location: "Nigeria"
-    followers: 92996
-    engagement: 451
-    commentsToLikes: 0.030305
-    id: ck5zzdsmobjq60i14tra16q5a
-    verified: false
-    hashtags: "#explorepage, #purpledress, #cornrows, #braids"
-  - username: "hayoor"
-    fullname: >-
-      PHOTOGRAPHER || SHOOTMEHAYOOR
-    bio: >-
-      Beauty || Fashion || lifestyle || Events 📞 : 08147497239 📧 : Ayodeleadebunmi015@gmail.com
-    location: "Nigeria"
-    followers: 16177
-    engagement: 571
-    commentsToLikes: 0.066618
-    id: ck0w0vz1zgar60i198oda8ib1
-    verified: false
-    hashtags: "#explore, #lagosnigeria, #lagosphotographer, #explorepage"
+    hashtags: "#techtricks, #redmi12c, #iphonetips, #tech"
 ---

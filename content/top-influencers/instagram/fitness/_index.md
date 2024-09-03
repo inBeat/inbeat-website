@@ -1,130 +1,130 @@
 ---
-title: Top 10 Fitness Instagram Influencers In 2023
+title: Top 10 Fitness Instagram Influencers In 2024
 description: >-
-  Find top fitness Instagram influencers in 2023. Most popular hashtags: #fitness #gym #gymmotivation.
+  Find top fitness Instagram influencers in 2024. Most popular hashtags: #fitness #ootd #fitnessmotivation.
 platform: Instagram
-hits: 47225
-text_top: Identify the top-rated Instagram influencers on inBeat.
-text_bottom: Our platform aggregates 47225 Instagram influencers like this for you to work with.
+hits: 49919
+text_top: Analyze the top-rated Instagram profiles on inBeat.
+text_bottom: inBeat aggregates 49919 Instagram influencers like this for you to work with.
 profiles:
-  - username: "berma.fit"
+  - username: "camillia_lee"
     fullname: >-
-      Fitness
+      Cam Lee | Vancouver, Canada
     bio: >-
-      Natural physical and mental fitness 23Yrs old 1,82m
+      Fitness • Health • Wellness • Mom • Blogger Chinese • Malaysian • Canadian 👉@camleeyoga for my other account ✉️ bycamlee@gmail.com
     location: "United States"
-    followers: 9584
-    engagement: 1195
-    commentsToLikes: 0.033182
-    id: ck6tum2mph47f0j713g2vc5t2
+    followers: 19017
+    engagement: 14679
+    commentsToLikes: 0.352205
+    id: ck5q17zv59pbd0i11r2350xna
     verified: false
-    hashtags: "#fitnessmotivation, #workout, #lafitness, #selfimprovement"
-  - username: "filipexferreira"
+    hashtags: "#motherhoodinspired, #hbd, #motherhoodmoments, #vegansnacks"
+  - username: "saraahfarrell"
     fullname: >-
-      Fitness
+      Sarah Dawne 🍣
     bio: >-
-      🇧🇷 #lifestyle #fun #teambro #motivation #fitness
+      🇵🇦 Panameña 🤳🏼Lifestyle • foodie • fitness • playita • travel 👙 @farrellswimwear 🎙️Podcast @cheersamipodcast 👩🏼‍⚖️International Affairs | FSU19👩🏼‍🎓
+    location: "United States"
+    followers: 43749
+    engagement: 955
+    commentsToLikes: 0.017817
+    id: ck5c26esmwmok0i119o8alrtc
+    verified: false
+    hashtags: "#sorprendentementesuave, #loveyourmarks, #loveyourskin, #loveyourbody"
+  - username: "nessa_smalls"
+    fullname: >-
+      Vanessa Espinoza
+    bio: >-
+      Twin Mama | Lifestyle | Fitness | Fashion | † LA | Podcast 🎙@teawbestie Email 📩 collab+nessa@a-listme.com
+    location: "United States"
+    followers: 92583
+    engagement: 829
+    commentsToLikes: 0.003385
+    id: ck5hed8blsaub0i11dpokgseg
+    verified: false
+    hashtags: "#familytime, #motherhood, #fitnessmotivation, #ymijeans"
+  - username: "paopati"
+    fullname: >-
+      Paola Castellano
+    bio: >-
+      💎 beauty • lifestyle • fashion • fitness 🎨 @paopatimakeup ORLANDO & MIAMI FL special needs mom 🤍 @babynoahatencio ✨ i n s p o w e r
+    location: "United States"
+    followers: 64140
+    engagement: 430
+    commentsToLikes: 0.031218
+    id: ck5q7n2hy2b6n0i11uxtiyf14
+    verified: false
+    hashtags: "#partydecorations, #partyideas, #vivo1diaalavez, #avatarmovie"
+  - username: "funfitnessfam"
+    fullname: >-
+      Darla Slade
+    bio: >-
+      NJ>FL>MD🗺Travel Addict•Fitness Instructor Runner•Former Disney•ADHD Mom•Plant-Based 🌱 Email to collab⬇️
+    location: "United States"
+    followers: 19073
+    engagement: 561
+    commentsToLikes: 0.076917
+    id: cl7zcllo4zik00i23vxwcv5vm
+    verified: false
+    hashtags: "#mdinfocus, #newport, #familymovienight, #momlife"
+  - username: "taylorchapman__"
+    fullname: >-
+      ｔａｙｌｏｒｃｈａｐｍａｎ
+    bio: >-
+      👮🏻‍♂️WIFE + BOY MAMA 📍CA → TX hair | fitness | motherhood | pregnancy Building our dream life with God, caffeine and hard work
+    location: "United States"
+    followers: 26744
+    engagement: 636
+    commentsToLikes: 0.034893
+    id: ck6udme44lx4s0j71v1co7kfm
+    verified: false
+    hashtags: "#contentcreator, #momswithcameras, #hairstylist, #copwife"
+  - username: "nicole.luckic"
+    fullname: >-
+      n i c o l e 🫶🏼
+    bio: >-
+      welcome to my digital diary 🫶🏼 m 🧸 fitness | fashion | lifee? ______________________
     location: "Germany"
-    followers: 65609
-    engagement: 622
-    commentsToLikes: 0.006658
-    id: ck9hctx2cmyit0j78mqxuciyl
+    followers: 115760
+    engagement: 1473
+    commentsToLikes: 0.006705
+    id: ckap45vdo5z9m0i783zdhwwkn
     verified: false
-    hashtags: "#halloween"
-  - username: "leanadeebb"
+    hashtags: "#fitness, #ootd, #fashion, #bodypositivity"
+  - username: "chasewodtke"
     fullname: >-
-      Leana Deeb
+      CHASE WODTKE
     bio: >-
-      SWEAT WITH ME 🇵🇸 🇺🇾 all praise is due to the most high @liftwleana fitness app @gymshark athlete Leana@genflow.com
-    location: "United Kingdom"
-    followers: 4076888
-    engagement: 994
-    commentsToLikes: 0.001935
-    id: cl07ix7bj9frt0i23lvf896ab
-    verified: false
-    hashtags: "#airuppartner"
-  - username: "tomas.coach"
-    fullname: >-
-      TOMAS COACH
-    bio: >-
-      MORDOR FITNESS Osobne treningy: BA - @365fitco.sk /Sered - @365gymsered / Praha - @onegymcz Treningove plany:Direct MERCH: @mordorfitness
+      ♡ fashion, fitness & fun ♡ oil painter | BFA ♡ LA/OC 💌 chase.collabs@gmail.com
     location: "United States"
-    followers: 527988
-    engagement: 624
-    commentsToLikes: 0.003695
-    id: ck5zro043wxxl0i14iuwdxs6v
+    followers: 39858
+    engagement: 785
+    commentsToLikes: 0.086743
+    id: cl430i42dh7jc0i23kkhf1qnf
     verified: false
-    hashtags: "#nopainnogain, #gymmotivation, #gym, #mordorfitness"
-  - username: "tingmystyle"
+    hashtags: "#vivrellepartner"
+  - username: "mrod.riguez"
     fullname: >-
-      Ting Ma
+      Monique
     bio: >-
-      Fashion🎸Fitness🎸Beauty #thisis52 #proaging Aging is a privilege ! 📍Chicago/San Diego 📧: tingmystyle168@gmail.com
+      WIFE | MAMA X 2 | FITNESS | STYLE | BEAUTY pr: mrod.riguez@yahoo.com
     location: "United States"
-    followers: 137144
-    engagement: 613
-    commentsToLikes: 0.084561
-    id: ck0w49r7mxhxq0i198zn6sfa8
+    followers: 22068
+    engagement: 444
+    commentsToLikes: 0.056924
+    id: cl2uhrx59uadb0i23k1mgr31b
     verified: false
-    hashtags: "#over50fitness, #over50women, #absworkout, #over50andfit"
-  - username: "sorayanar"
+    hashtags: "#26weekspregnant, #24weekspregnant, #20weekspregnant, #40weekspregnant"
+  - username: "josiahkhong"
     fullname: >-
-      Soraya Yanar Dávila ♡
+      Josiah Khong
     bio: >-
-      ✰ eptx, jmu alumna ✞ faith | lifestyle | fitness @morenamiaamx 🦋💫
+      💼 Young Entrepreneur 📖 Monash Uni Alumni 🏋🏻 Fitness Coach 🌱 Certified Nutrition Expert 💡 Managed by @alyfegroup Collab: josiahkhong@hotmail.com
     location: "United States"
-    followers: 11222
-    engagement: 858
-    commentsToLikes: 0.112581
-    id: ck6u6c7d1er2p0j71d3sgll1i
+    followers: 35880
+    engagement: 6355
+    commentsToLikes: 0.013761
+    id: ck8sy1fvcjef00j785sax5769
     verified: false
-    hashtags: "#fyp, #dallasphotodump, #swipeleft, #healthylifestyle"
-  - username: "avital"
-    fullname: >-
-      AVITAL COHEN
-    bio: >-
-      ✡️ #FitnessQueen I’m just a GIRL BOSS that’s building MY NEW EMPIRE. Contact 📧 avitalcollab@gmail.com
-    location: "Greece"
-    followers: 2050482
-    engagement: 451
-    commentsToLikes: 0.007396
-    id: ck15td53hhioh0i19e1gsq2mv
-    verified: true
-    hashtags: "#mood, #ad, #bangenergy, #healthylifehappylife"
-  - username: "meg.boggs"
-    fullname: >-
-      Meg Boggs
-    bio: >-
-      🏋🏽‍♀️ powerlifter. author. self-lover. mother. ✨ confidence + fitness + wellness 📖 #fitnessforeverybody | #thankyoubody 📍 DFW 💌hello@megboggs.com
-    location: "United States"
-    followers: 442726
-    engagement: 871
-    commentsToLikes: 0.011689
-    id: ck0w5n1yw4gk00i19u62dqgfa
-    verified: true
-    hashtags: "#healthierhappenstogether, #ivfjourney, #cvspartner, #fitnessforeverybody"
-  - username: "rohitkhatrifitness"
-    fullname: >-
-      Rohit Khatri
-    bio: >-
-      🔹Sports Science Nutritionist 🔹Brands : rohitkhatribiz@gmail.com 🔹Dm For Paid Online Coaching 📝 🔹India’s No. 1 Fitness Channel (YouTube)
-    location: "India"
-    followers: 614738
-    engagement: 467
-    commentsToLikes: 0.004563
-    id: ck8wd6rbxdgf00j78gz3so4nb
-    verified: false
-    hashtags: "#hotcouples, #bicepsworkout, #rohitsoniya, #motivation"
-  - username: "amanikiivikas"
-    fullname: >-
-      Christin-Amani
-    bio: >-
-      📍 🇪🇪/🇫🇮 IFBB Bikini Fitness 🏋🏼‍♀️ Personal trainer 👶🏼Mom 🏡 Lifestyle #teamkiivikas ✉amani.kiivikas@gmail.com
-    location: ""
-    followers: 14871
-    engagement: 1246
-    commentsToLikes: 0.066484
-    id: ck5q2baa3f5ul0i11lhr0auv5
-    verified: false
-    hashtags: "#teamkiivikas, #koost, #fitness, #luminescencecollection"
+    hashtags: "#geekfitlab, #alaska, #amwaymy, #gym"
 ---

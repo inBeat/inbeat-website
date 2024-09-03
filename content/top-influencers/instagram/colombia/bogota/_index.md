@@ -1,130 +1,130 @@
 ---
-title: Top 10 Instagram Influencers In Bogotá In 2023
+title: Top 10 Instagram Influencers In Bogotá In 2024
 description: >-
-  Find top Instagram influencers in Bogotá in 2023. Most popular hashtags: #colombia #bogota #fashion.
+  Find top Instagram influencers in Bogotá in 2024. Most popular hashtags: #publicidad #fashion #pursuitofportraits.
 platform: Instagram
-hits: 430
-text_top: See the best Instagram influencers on inBeat.
-text_bottom: inBeat has 430 Instagram influencers like this in Bogotá, Colombia for you to work with.
+hits: 470
+text_top: See the most popular Instagram accounts on inBeat.
+text_bottom: Our platform aggregates 470 Instagram influencers like this in Bogotá, Colombia for you to contact.
 profiles:
+  - username: "juanmiclott"
+    fullname: >-
+      Juan Miclott
+    bio: >-
+      @miclottdesign @valentinoelgalgo 🐭 📍Bogotá
+    location: "Colombia"
+    followers: 23717
+    engagement: 617
+    commentsToLikes: 0.008722
+    id: ck0w3fydat7bl0i19if6h03p3
+    verified: false
+    hashtags: "#colombiamoda2021, #spotifyparati, #publi"
   - username: "lauramooora"
     fullname: >-
       Laura Mora
     bio: >-
-      Productora audiovisual Fundadora de @tienda3o BOGOTÁ - COLOMBIA
+      Productora audiovisual BOGOTÁ - COLOMBIA
     location: "Colombia"
-    followers: 9009
-    engagement: 1766
-    commentsToLikes: 0.808315
+    followers: 56579
+    engagement: 1489
+    commentsToLikes: 0.406134
     id: ck9wfz23yr5hs0j78jcmcri6g
     verified: false
     hashtags: "#nosestanmatando"
-  - username: "heavy_rada"
-    fullname: >-
-      𝙃 𝙀 𝘼 𝙑 𝙔   𝙍 𝘼 𝘿 𝘼 💜
-    bio: >-
-      📍Bogota,Colombia🇨🇴 📩 Soyheavyrada@gmail.com REP:@Trendsetters.ok 🎵TikTok: heavy_rada +2M
-    location: "Colombia"
-    followers: 24640
-    engagement: 506
-    commentsToLikes: 0.039435
-    id: ck0w3ll1wu0zb0i19ln6iuvj4
-    verified: false
-    hashtags: "#reels, #colombia, #comedia, #tiktok"
-  - username: "youjuand"
-    fullname: >-
-      𝑱𝒖𝒂𝒏 𝒅𝒂 👼🏻
-    bio: >-
-      📍•Bogotá, Colombia 🤍•YouTube: YouJuand 📩•publicidad al Dm
-    location: "Colombia"
-    followers: 221128
-    engagement: 1724
-    commentsToLikes: 0.054839
-    id: ck9wfzzv6ra2l0j78m1zhfwp7
-    verified: false
-    hashtags: "#blackouttuesday"
   - username: "_omnia.x"
     fullname: >-
       O M N I A
     bio: >-
-      Contacto y publicidad DM📩 ✖ Portraits, Lifestyle, Fashion ✖ 📍 Bogotá 🇨🇴
+      Sesiones y contacto DM📩 ✖ Portraits, Lifestyle, Fashion ✖ 📍 Bogotá 🇨🇴 By: @itsmelbournee @losspotsdemartin
     location: "Colombia"
-    followers: 102604
-    engagement: 459
-    commentsToLikes: 0.120064
+    followers: 88892
+    engagement: 450
+    commentsToLikes: 0.204840
     id: ck55kllvdzlpk0i1159j074ii
     verified: false
-    hashtags: "#vibetones, #sonyalphacolombia, #insomniamag, #777luckyfish"
-  - username: "davidvisuals_ph"
+    hashtags: "#thefilmmagazine, #sonyalpha, #realismag, #editorials"
+  - username: "caromejiaaraujo"
     fullname: >-
-      David Pinilla
+      Caro Mejía Araújo
     bio: >-
-      ❌PHOTOGRAPHY❌ 📍Bogotá, Colombia 🇨🇴 PORTRAITS, LIFE STYLE, FASHION, BEAUTY AND CELEBRITY PHOTOGRAPHER SESIONES-COLABORACIONES AL DM📸
+      @reebokcolombia ambassador healthy lifestyle | outfits | baile Co founder @calu_resortwear @blendsmoothies.co 📍Bogotá
     location: "Colombia"
-    followers: 51747
-    engagement: 827
-    commentsToLikes: 0.034807
-    id: ck5hmy57bmuih0i11uont2ws2
+    followers: 75563
+    engagement: 381
+    commentsToLikes: 0.060049
+    id: ck5hj6hllg3cw0i118da5szy1
     verified: false
-    hashtags: "#tips, #tipsfoto, #vivov20, #ma"
-  - username: "juanda_aldana"
+    hashtags: "#outfits, #fashion, #videosdebaile, #cartagena"
+  - username: "lucerozuluagarubiano"
     fullname: >-
-      RECUERDO DE JUAN DAVID ALDANA
+      lucerito
     bio: >-
-      🎬 Actor & Modelo 🏋🏻‍♂️ Deportista y Entrenador 📌 Bogota/Colombia
+      Bogotá, Colombia @informamodels @clubhipicoelrancho 🐎
     location: "Colombia"
-    followers: 354913
-    engagement: 850
-    commentsToLikes: 0.017801
-    id: ck5ci7d94s5ie0i11plstqfw8
-    verified: false
-    hashtags: "#leon, #guerrero, #fitness, #energydrink"
-  - username: "juanpablosocarras"
-    fullname: >-
-      Juan Pablo Socarrás Yani.
-    bio: >-
-      Diseñador 📍#Bogotá Diseño con propósito. Consultor| Emprendedor social | Creativo | Socarrás | Historias hechas a mano | ///
-    location: "Colombia"
-    followers: 33543
-    engagement: 310
-    commentsToLikes: 0.094952
-    id: ckap8vohnq3nm0i78y80kpg6a
-    verified: false
-    hashtags: "#lookdodia, #colombia, #modamasculina, #fashionstyle"
-  - username: "andresbarbosaa"
-    fullname: >-
-      Andrés Barbosa
-    bio: >-
-      B I E N V E N I D O S 💚🐺 Tik Tok: andres_barbosaa (+80K) 📍| Bogota - Colombia 🇨🇴
-    location: "Colombia"
-    followers: 6075
-    engagement: 1718
-    commentsToLikes: 0.033294
-    id: ckap1ciqsu0000i78v07bp98w
-    verified: false
-    hashtags: "#urban, #boy, #bogota, #pic"
-  - username: "mariaapaulavaz"
-    fullname: >-
-      María Paula Vázquez
-    bio: >-
-      Such an enthusiastic blondie Virgo 🐉 Bogotá | U. Sabana @stockmodels
-    location: "Colombia"
-    followers: 13890
-    engagement: 1267
-    commentsToLikes: 0.011436
-    id: ck5pwp6yunwks0i11j1d6axko
+    followers: 13594
+    engagement: 365
+    commentsToLikes: 0.017272
+    id: ck6uadqfj2zgx0j713fnfzhvx
     verified: false
     hashtags: ""
-  - username: "sebaztian_maranta"
+  - username: "juanismolina"
     fullname: >-
-      KE$LA
+      Juanita Molina 🎬🎥
     bio: >-
-      ✖️AGENDA ABIERTA✖️ BOGOTÁ / MEDELLIN 👇🏿GET MY BRUSHES SET NOW
+      Una Paisa viviendo en Bogotá Manager: @carolinaurregotm
     location: "Colombia"
-    followers: 27008
-    engagement: 729
-    commentsToLikes: 0.017077
-    id: ck5ho6b9lp0lr0i11bgsiu6s5
+    followers: 310375
+    engagement: 330
+    commentsToLikes: 0.025219
+    id: ckf5sae8hf3p80j233ydiy5yt
     verified: false
-    hashtags: "#sebaztianmaranta, #art, #empireinksproteam, #besttattooartist"
+    hashtags: "#concursocolombia, #boyacaesparavivirla, #rominapoderosa, #lareinadelflow2"
+  - username: "provocador.cultural"
+    fullname: >-
+      🔥Provocador • Fotografía • Video • Creatividad📸
+    bio: >-
+      Soy Jaír 🤍 📸 Fotógrafo 👌 PR • Talent Manager • Influencer Marketing 🔥TikTok: @ provocador (530k+) ✌🏼Colaboraciones al DM o Correo 📍Bogota 🇨🇴
+    location: "Colombia"
+    followers: 19090
+    engagement: 320
+    commentsToLikes: 0.028729
+    id: ck9wfzp5cr8ni0j78w669e1ya
+    verified: false
+    hashtags: "#retratolatino, #portraitmood, #fotografoslatinoss, #model"
+  - username: "alebananaa"
+    fullname: >-
+      𝑴𝒂𝒓𝒊𝒂 𝑨𝒍𝒆𝒋𝒂𝒏𝒅𝒓𝒂 𝑴𝒂𝒄𝒊𝒂𝒔 𝑴𝒐𝒓𝒂
+    bio: >-
+      2.5 M en YouTube 8.2 M en TikTok 📍Bogotá
+    location: "Colombia"
+    followers: 443901
+    engagement: 308
+    commentsToLikes: 0.004637
+    id: cl3cuhiov4y910i23ogh3jhu1
+    verified: false
+    hashtags: "#vegano, #cook, #coachellaonyoutube, #medium"
+  - username: "zionhwang_"
+    fullname: >-
+      Zion 🇰🇷
+    bio: >-
+      📍Bogota Propietario: @time_korea_ Restaurante Koreano 🇰🇷 👇🏻Culpa de @jessiuribe3 ✨Culpa de Quién Remix✨
+    location: "Colombia"
+    followers: 2306134
+    engagement: 272
+    commentsToLikes: 0.016276
+    id: ck8swy3nafm620j78p48wknlf
+    verified: false
+    hashtags: "#undialohare, #reggaeton, #coreano, #kpop"
+  - username: "1991.ink"
+    fullname: >-
+      1991INK | JUAN PEDROZA
+    bio: >-
+      Tatuajes con Amor 💛 ✨Pregúntame por DM✨ • Bogotá 🇨🇴 Miami - NYC 🇺🇸 • 🫠 @by1991ink
+    location: "Colombia"
+    followers: 208349
+    engagement: 263
+    commentsToLikes: 0.039151
+    id: ck5zmpjbfmzmd0i147oakcyuj
+    verified: false
+    hashtags: "#tattoos, #tatuajespeque, #tattoolove, #tattoolife"
 ---

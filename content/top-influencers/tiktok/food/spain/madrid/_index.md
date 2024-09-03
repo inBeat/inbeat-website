@@ -1,11 +1,11 @@
 ---
-title: Top 10 Food TikTok Influencers In Madrid In 2023
+title: Top 10 Food TikTok Influencers In Madrid In 2024
 description: >-
-  Find top food TikTok influencers in Madrid in 2023. Most popular hashtags: #fyp #parati #foryou #food.
+  Find top food TikTok influencers in Madrid in 2024. Most popular hashtags: #fyp #foryou #parati #food.
 platform: TikTok
 hits: 6
 text_top: Identify the top-rated TikTok profiles on inBeat.
-text_bottom: inBeat has 6 TikTok influencers like this in Madrid, Spain for you to pitch.
+text_bottom: Our platform has 6 TikTok influencers like this in Madrid, Spain for you to work with.
 profiles:
   - username: "robertolucich"
     fullname: >-
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.021178
     id: ckb9r74lbni1d0j234q6cbxc1
     verified: false
-    hashtags: "#lipedema, #fyp, #japan, #parati"
+    hashtags: "#japan, #lipedema, #canaima, #parati"
   - username: "crissancupcakes"
     fullname: >-
       Crissan Cupcakes
@@ -114,7 +114,7 @@ profiles:
     commentsToLikes: 0.021178
     id: ckb9r74lbni1d0j234q6cbxc1
     verified: false
-    hashtags: "#lipedema, #fyp, #japan, #parati"
+    hashtags: "#japan, #lipedema, #canaima, #parati"
   - username: "aigostar_"
     fullname: >-
       Best food share

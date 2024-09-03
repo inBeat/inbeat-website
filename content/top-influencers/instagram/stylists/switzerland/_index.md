@@ -1,48 +1,60 @@
 ---
-title: Top 10 Stylists Instagram Influencers In Switzerland In 2023
+title: Top 10 Stylists Instagram Influencers In Switzerland In 2024
 description: >-
-  Find top stylists Instagram influencers in Switzerland in 2023. Most popular hashtags: #switzerland #editorial #zurich.
+  Find top stylists Instagram influencers in Switzerland in 2024. Most popular hashtags: #zurich #editorial #switzerland #stylist.
 platform: Instagram
-hits: 21
-text_top: Identify the top-rated Instagram profiles on inBeat.
-text_bottom: Our search engine holds 21 Instagram influencers like this in Switzerland for you to collaborate.
+hits: 35
+text_top: Identify the best Instagram profiles on inBeat.
+text_bottom: Our database holds 35 Instagram influencers like this in Switzerland for you to pitch.
 profiles:
   - username: "elenabeyens"
     fullname: >-
       Elena Beyens
     bio: >-
-      • Fashion stylist • Founder of Style&Fashion club • Digital content creator • Influencer 📍 Zürich 🇨🇭 📩 Business inquires
+      • Personal stylist • Founder of Style&Fashion club • Digital content creator & storyteller • My creative space 📍 Zürich 🇨🇭 📩 Business inquires
     location: "Switzerland"
-    followers: 3629
-    engagement: 1025
-    commentsToLikes: 0.353788
+    followers: 4495
+    engagement: 644
+    commentsToLikes: 0.339288
     id: ck9wf1jj2mvgv0j788mqbtfeq
     verified: false
     hashtags: ""
-  - username: "daniela__correia"
+  - username: "martinafaron"
     fullname: >-
-      DANIELA CORREIA
+      Martina Faron
     bio: >-
-      Fashion Stylist Inquiries: management@danielacorreia.com Zürich | Lausanne
+      Swiss Stylist #ü50 & Bunte Moments Creator Founder by @petite_women_show 📧 info@martinafaron.com - book your appointment
     location: "Switzerland"
-    followers: 32041
-    engagement: 87
-    commentsToLikes: 0.087569
-    id: ckap52r649xig0i78d4rntwoi
+    followers: 21965
+    engagement: 26
+    commentsToLikes: 0.448846
+    id: cll8393oz89wp0j0861y2hhlv
     verified: false
-    hashtags: "#styledbydanielacorreia, #dosenbach, #ad, #puma"
+    hashtags: "#stylecoach, #swissstylist, #swissfashionblogger, #otherstories"
+  - username: "sorayabakhtiar"
+    fullname: >-
+      SORAYA BAKHTIAR-GHANDOUR
+    bio: >-
+      🌈 ❤️ 🧿 🌞 🪩 🧡 🍄 🌻 Influencer, Stylist & Buyer @caravana_conceptstore Rep by @egoandeast 💌 Soraya@egoandeast.co
+    location: "Switzerland"
+    followers: 124539
+    engagement: 1
+    commentsToLikes: 0.000000
+    id: ck136j52e6qtw0i19c5el9tia
+    verified: true
+    hashtags: "#nfdhoneys"
   - username: "soulofsoraya"
     fullname: >-
       Soul of Soraya
     bio: >-
-      Content Creator, with a passion for Travel Swiss based Fashion Stylist 📍Zurich, Switzerland ✈️ ✉️ soulofsoraya@gmail.com
+      Content Creator, with a passion for Travel Swiss based Fashion Stylist 📍Zurich, Switzerland ✈️ next: Ibiza ✉️ soulofsoraya@gmail.com
     location: "Switzerland"
-    followers: 14312
-    engagement: 325
-    commentsToLikes: 0.083153
+    followers: 14027
+    engagement: 319
+    commentsToLikes: 0.085245
     id: ck9wf1h52mv4d0j78uvgwzvxv
     verified: false
-    hashtags: "#zuri, #switzerlandpictures, #capetownlove, #travelto"
+    hashtags: "#placestovisit, #anzeige, #summeroutfits, #streetstyled"
   - username: "ira_zlatev"
     fullname: >-
       Irina
@@ -55,18 +67,6 @@ profiles:
     id: ck14kj8ekprtg0i19p64v9vh0
     verified: false
     hashtags: "#thebakefeed, #swissblogger, #schweizerfoodblog, #onthetable"
-  - username: "minluna"
-    fullname: >-
-      #MINLUNAONSET
-    bio: >-
-      The filtered life of a swiss army knife ON & OFF set Creative Director • Fashion Stylist • Costume Designer • #KLFashionPolice 📬minlunaonset@gmail.com
-    location: "Switzerland"
-    followers: 55204
-    engagement: 106
-    commentsToLikes: 0.023999
-    id: ck6tz86mk866k0j71yle6egpb
-    verified: false
-    hashtags: "#uniqlomy, #kitajagakita, #schwarzkopfpromy, #mykiehls"
   - username: "danielstjerne"
     fullname: >-
       Daniel Stjerne
@@ -90,19 +90,31 @@ profiles:
     commentsToLikes: 0.013944
     id: ck5bvuda5kex40i11g3tr4moo
     verified: false
-    hashtags: "#style, #colours, #parisfashion, #switzerland"
-  - username: "nikimehra"
+    hashtags: "#zurichsilkassociationzsig, #fashion, #fashionshow, #campaign"
+  - username: "anna_zesiger_photography"
     fullname: >-
-      Niki Mehra Madan
+      Anna Zesiger
     bio: >-
-      A fashion entrepreneur and digital creator 💌: info@nikimehra.com
+      📍Switzerland. Workshops @anna_zesiger_workshops www.annazesiger-workshops.ch
     location: "Switzerland"
-    followers: 476565
-    engagement: 186
-    commentsToLikes: 0.008124
-    id: ck0tze6b8q0od0i19vq72jl49
+    followers: 11671
+    engagement: 134
+    commentsToLikes: 0.028167
+    id: clonw521b8k740j08mkx852ea
+    verified: false
+    hashtags: "#bern, #test, #lofficiel, #fashion"
+  - username: "agnesavuthaj"
+    fullname: >-
+      Agnesa Vuthaj
+    bio: >-
+      @agnesavuthajbrand 🍒 | Desire Beauty ~ Embrace Authenticity |
+    location: "Switzerland"
+    followers: 242228
+    engagement: 1
+    commentsToLikes: 0.003476
+    id: ck6tjvhav3i440j71qamd2acj
     verified: true
-    hashtags: "#couple, #fashionreels, #fashionblogger, #swissalps"
+    hashtags: "#skinexpert, #agnesavuthaj, #comingsoon, #skinspecialist"
   - username: "chandoerikluna"
     fullname: >-
       Therealchandoerikluna
@@ -114,17 +126,5 @@ profiles:
     commentsToLikes: 0.260582
     id: ck5hk1f43hmdp0i11i818lxtq
     verified: false
-    hashtags: "#zurich, #muscle, #blond, #greyeyes"
-  - username: "nawelbouchoucha"
-    fullname: >-
-      nawelbouchoucha
-    bio: >-
-      peace and love ;) + my favorite option on instagram 🔛"BLOCK" 😉🖒 fashion🧚‍♀️🧚‍♀️- Traveler💫lifestyle🧚‍♀️🧞‍♀️ 👱‍♀️💅💝👗👜💫 Média 🎥📺📷🎬
-    location: "Switzerland"
-    followers: 112782
-    engagement: 289
-    commentsToLikes: 0.012672
-    id: ck0u7k9ip52qj0i19igo97o77
-    verified: false
-    hashtags: "#bouchouchastyle, #nawelbouchoucha, #switzerland, #dz"
+    hashtags: "#chandoerikluna, #switzerland, #greyeyes, #me"
 ---

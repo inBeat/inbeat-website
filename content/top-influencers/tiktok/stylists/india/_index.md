@@ -1,11 +1,11 @@
 ---
-title: Top 10 Stylists TikTok Influencers In India In 2023
+title: Top 10 Stylists TikTok Influencers In India In 2024
 description: >-
-  Find top stylists TikTok influencers in India in 2023. Most popular hashtags: #foryou #tiktokindia #fyp #tiktok.
+  Find top stylists TikTok influencers in India in 2024. Most popular hashtags: #foryou #tiktokindia #fyp #tiktok.
 platform: TikTok
-hits: 109
-text_top: See the most popular TikTok profiles on inBeat.
-text_bottom: Our database holds 109 TikTok influencers like this in India for you to connect with.
+hits: 110
+text_top: Analyze the most popular TikTok influencers on inBeat.
+text_bottom: inBeat has 110 TikTok influencers like this in India for you to contact.
 profiles:
   - username: "bishnubhattrarai5268"
     fullname: >-
@@ -102,7 +102,7 @@ profiles:
     commentsToLikes: 0.009558
     id: cka0r7kitftmk0i78e5jenq56
     verified: true
-    hashtags: "#vlog, #bollywoodmakeupartist, #shaanmuontiktok, #cannesfilmfestival2019"
+    hashtags: "#lifebeforecorona, #cannesfilmfestival2019, #shaan, #shaanmu"
   - username: "this_is_anilbabu"
     fullname: >-
       Anilbabu

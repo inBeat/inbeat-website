@@ -1,11 +1,11 @@
 ---
-title: Top 10 Djs TikTok Influencers In 2023
+title: Top 10 Djs TikTok Influencers In 2024
 description: >-
-  Find top djs TikTok influencers in 2023. Most popular hashtags: #foryou #fyp #greenscreen #duet.
+  Find top djs TikTok influencers in 2024. Most popular hashtags: #foryou #fyp #greenscreen.
 platform: TikTok
-hits: 271
-text_top: Identify the most popular TikTok accounts on inBeat.
-text_bottom: inBeat aggregates 271 TikTok influencers like this for you to pitch.
+hits: 272
+text_top: Discover the most popular TikTok accounts on inBeat.
+text_bottom: Our search engine aggregates 272 TikTok influencers like this for you to pitch.
 profiles:
   - username: "michellemccormick19"
     fullname: >-

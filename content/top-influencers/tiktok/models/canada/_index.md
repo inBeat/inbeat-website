@@ -1,11 +1,11 @@
 ---
-title: Top 10 Models TikTok Influencers In Canada In 2023
+title: Top 10 Models TikTok Influencers In Canada In 2024
 description: >-
-  Find top models TikTok influencers in Canada in 2023. Most popular hashtags: #fyp #foryoupage #model #foryou.
+  Find top models TikTok influencers in Canada in 2024. Most popular hashtags: #fyp #foryou #foryoupage #model.
 platform: TikTok
-hits: 204
-text_top: Identify the top-rated TikTok accounts on inBeat.
-text_bottom: Our search engine has 204 TikTok influencers like this in Canada for you to collaborate.
+hits: 203
+text_top: See the top-rated TikTok accounts on inBeat.
+text_bottom: Our search engine aggregates 203 TikTok influencers like this in Canada for you to contact.
 profiles:
   - username: "nehchalb"
     fullname: >-
@@ -102,7 +102,7 @@ profiles:
     commentsToLikes: 0.041706
     id: ck806vqz3me7r0j78bxtikj1s
     verified: false
-    hashtags: "#greenscreenvideo, #blackcat, #kitten, #model"
+    hashtags: "#greenscreenvideo, #kitten, #model, #blackcat"
   - username: "nicoleleblond"
     fullname: >-
       nicoleleblond

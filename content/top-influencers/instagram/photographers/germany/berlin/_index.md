@@ -1,12 +1,36 @@
 ---
-title: Top 10 Photographers Instagram Influencers In Berlin In 2023
+title: Top 10 Photographers Instagram Influencers In Berlin In 2024
 description: >-
-  Find top photographers Instagram influencers in Berlin in 2023. Most popular hashtags: #berlin #portraitart #makeup.
+  Find top photographers Instagram influencers in Berlin in 2024. Most popular hashtags: #portraitart #berlin #portrait.
 platform: Instagram
-hits: 217
-text_top: Discover the top-rated Instagram accounts on inBeat.
-text_bottom: inBeat has 217 Instagram influencers like this in Berlin, Germany for you to contact.
+hits: 253
+text_top: Discover the best Instagram profiles on inBeat.
+text_bottom: Our platform holds 253 Instagram influencers like this in Berlin, Germany for you to contact.
 profiles:
+  - username: "heks_one"
+    fullname: >-
+      Heks Sascha Haubold
+    bio: >-
+      📸 Photographer | Berlin 📍 The Heks Laboratory 👩🏻‍💻 Booking: janine@heks.biz
+    location: "Germany"
+    followers: 14822
+    engagement: 640
+    commentsToLikes: 0.029147
+    id: ck0vwh1zstpsd0i1975la6h3z
+    verified: false
+    hashtags: "#makeuplover, #avantgarde, #gothmakeup, #cyberpunk"
+  - username: "anna.cor"
+    fullname: >-
+      ANNA COR
+    bio: >-
+      INTERIOR Stylist & Photographer | Berlin apartment & old schoolhouse from 1887 | more work >> @studioannacor ✉️ studio@annacor.com
+    location: "Germany"
+    followers: 49205
+    engagement: 131
+    commentsToLikes: 0.196954
+    id: ck5hn4ts7n7gi0i111gpzb5vu
+    verified: false
+    hashtags: "#interiordecorating, #modernfarmhouse, #einrichtung, #interior"
   - username: "1st.sholo"
     fullname: >-
       Louis Schulz
@@ -19,18 +43,6 @@ profiles:
     id: ck0vz79ia7nu40i19driw489y
     verified: false
     hashtags: ""
-  - username: "heks_one"
-    fullname: >-
-      Heks Sascha Haubold
-    bio: >-
-      📸 Photographer | Berlin 📍 The Heks Laboratory 👩🏻‍💻 Booking: janine@heks.biz
-    location: "Germany"
-    followers: 15324
-    engagement: 630
-    commentsToLikes: 0.026876
-    id: ck0vwh1zstpsd0i1975la6h3z
-    verified: false
-    hashtags: "#cyberpunk, #darkartist, #makeuplover, #cyberpunkaesthetic"
   - username: "s_wilbo"
     fullname: >-
       Swilbo
@@ -54,7 +66,7 @@ profiles:
     commentsToLikes: 0.008905
     id: ck15qwwu551di0i19utetwwzr
     verified: false
-    hashtags: "#laufen, #curacao, #trondheim, #berlinmarathon"
+    hashtags: "#tspdiy, #berlin, #erlebeesselbst, #geilballern"
   - username: "beautypalmira"
     fullname: >-
       ⋆ 𝕻𝖆𝖑𝖒𝖎𝖗𝖆 ⋆ 🦋
@@ -91,27 +103,15 @@ profiles:
     id: ck5ckq49jxe2i0i11031p4qiv
     verified: false
     hashtags: "#120mm, #chemnitz, #editiondrei, #10"
-  - username: "lovisworld"
-    fullname: >-
-      Lovis Ostenrik
-    bio: >-
-      Creative Director & Photographer Berlin based. Equality Advocate. Get in touch for commissions or collaborations.
-    location: "Germany"
-    followers: 8658
-    engagement: 948
-    commentsToLikes: 0.015960
-    id: ck0u62tma0una0i195pvxe89l
-    verified: false
-    hashtags: ""
   - username: "anthonymolina"
     fullname: >-
       A N T H O N Y
     bio: >-
       // Director & Photographer // Berlin | Germany // email@anthonymolina.de // Represented by froehlich management
     location: "Germany"
-    followers: 19447
-    engagement: 676
-    commentsToLikes: 0.015452
+    followers: 18559
+    engagement: 437
+    commentsToLikes: 0.033400
     id: ck5c4c4qm11j60i11akuczhdt
     verified: false
     hashtags: "#milkychance, #fado, #fifa20"

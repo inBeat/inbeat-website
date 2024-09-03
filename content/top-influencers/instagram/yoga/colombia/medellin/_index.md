@@ -1,11 +1,11 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Medellín In 2023
+title: Top 10 Yoga Instagram Influencers In Medellín In 2024
 description: >-
-  Find top yoga Instagram influencers in Medellín in 2023. Most popular hashtags: #yoga #love #colombia.
+  Find top yoga Instagram influencers in Medellín in 2024. Most popular hashtags: #yoga #colombia #love #medellin.
 platform: Instagram
-hits: 7
-text_top: Analyze the top-rated Instagram influencers on inBeat.
-text_bottom: Our database aggregates 7 Instagram influencers like this in Medellín, Colombia for you to collaborate.
+hits: 8
+text_top: Discover the best Instagram influencers on inBeat.
+text_bottom: inBeat holds 8 Instagram influencers like this in Medellín, Colombia for you to pitch.
 profiles:
   - username: "layogini"
     fullname: >-
@@ -79,6 +79,18 @@ profiles:
     id: ck8t1veuhx6sp0j7825w41la7
     verified: false
     hashtags: "#shredded, #colombianwomen, #fitnessmotivation, #physique"
+  - username: "dondeesta_kelly"
+    fullname: >-
+      Kelly 🐿 Just A Travel Squirrel
+    bio: >-
+      ✨Visual Storyteller ✈ Travel ~ Photography 🛸 I’ve a drone De bocas libres & pies pa’ caminar✨ #viajar #creatividad #fotografia #colombia🇨🇴
+    location: "Colombia"
+    followers: 29681
+    engagement: 369
+    commentsToLikes: 0.109696
+    id: ck0w5qet44x4b0i19672e02td
+    verified: false
+    hashtags: "#viajar, #nomad, #islandlife, #nature"
   - username: "chispastrack"
     fullname: >-
       Fabian Puerta
@@ -91,40 +103,28 @@ profiles:
     id: ck5pwqnpgo3zr0i11owei079t
     verified: true
     hashtags: "#pwrparatodos, #powerclub, #boxclub, #yoga"
-  - username: "ania17art"
-    fullname: >-
-      ania17art.yoga
-    bio: >-
-      @panamaluxurygardens Alma libre💚 Yoga / Recetas / naturaleza /jardinería
-    location: "Colombia"
-    followers: 9945
-    engagement: 959
-    commentsToLikes: 0.089889
-    id: ckaoyhmybhke40i78yljrwual
-    verified: false
-    hashtags: "#sol, #instagood, #instapanama, #delicious"
   - username: "zuzana_klingrova"
     fullname: >-
       Zuzana Klingrova
     bio: >-
-      Yoga teacher & therapist 💛Yoga&travel Autor 📚Jóga po celý rok, Jóga proti úzkosti a strachu Podcast: Povídání nejen o józe
+      Yoga therapist, Ayurveda specialist Knihy:Jóga po celý rok,Jóga proti úzkosti a strach,Jóga pro hubnutí a očistu, Ájurvéda a jóga pro ženy 11/2023
     location: "Colombia"
-    followers: 33658
-    engagement: 699
-    commentsToLikes: 0.033855
+    followers: 38030
+    engagement: 319
+    commentsToLikes: 0.024259
     id: ck14ilv5yg22q0i19wu5yhqi6
     verified: false
-    hashtags: "#jogadnes, #joga, #darek, #mixtee"
-  - username: "deluzsemilla"
+    hashtags: "#studiumjogy, #prirodnipeceoplet, #ajurvedskamedicina, #czechyoga"
+  - username: "adrisilvac"
     fullname: >-
-      cyan 🌙ॐ ~ yoga & bienestar
+      ADRIANA SILVA
     bio: >-
-      ✨Profesora de Kundalini Yoga✨ ~ Yoga | Plantas | Bienestar ~ mamá de Sue 🌞 mi sol ✨⬇️LINK APP DE MEDITACIÓN GUIADA⬇️🌞
+      Actriz 🇨🇴🎭 Amante del Yoga🕉️ Con alma sin límites y Dios en mi💖 FB:Adriana Silva Actriz #adrisilvac @akka.health.bienestar @vivealamar
     location: "Colombia"
-    followers: 61381
-    engagement: 1715
-    commentsToLikes: 0.013835
-    id: ck6u1ajahkl4f0j7175jmootb
-    verified: false
-    hashtags: "#dreamself, #yogacolombia, #diainternacionaldelyoga, #saludmental"
+    followers: 144035
+    engagement: 69
+    commentsToLikes: 0.030270
+    id: ck6tvbw7tlchz0j71eoccuwmz
+    verified: true
+    hashtags: "#exploradoradeconsciencia, #happyadri, #respeto, #homemade"
 ---

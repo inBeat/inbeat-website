@@ -1,11 +1,11 @@
 ---
-title: Top 10 TikTok Influencers In Medellín In 2023
+title: Top 10 TikTok Influencers In Medellín In 2024
 description: >-
-  Find top TikTok influencers in Medellín in 2023. Most popular hashtags: #foryou #parati #foryoupage.
+  Find top TikTok influencers in Medellín in 2024. Most popular hashtags: #parati #foryou #foryoupage.
 platform: TikTok
 hits: 98
-text_top: See the most popular TikTok influencers on inBeat.
-text_bottom: Our platform aggregates 98 TikTok influencers like this in Medellín, Colombia for you to contact.
+text_top: Analyze the top-rated TikTok profiles on inBeat.
+text_bottom: Our database has 98 TikTok influencers like this in Medellín, Colombia for you to connect with.
 profiles:
   - username: "cristhian.mora"
     fullname: >-
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.020029
     id: ckb1bygb20nbh0j23v28nh6od
     verified: true
-    hashtags: "#lulu99, #challenge, #viral, #comedia"
+    hashtags: "#risa, #transformation, #viral, #comedia"
   - username: "santivelezs"
     fullname: >-
       Santiago Velez

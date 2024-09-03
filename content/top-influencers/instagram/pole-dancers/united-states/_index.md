@@ -1,24 +1,48 @@
 ---
-title: Top 10 Pole Dancers Instagram Influencers In United States In 2023
+title: Top 10 Pole Dancers Instagram Influencers In United States In 2024
 description: >-
-  Find top pole dancers Instagram influencers in United States in 2023. Most popular hashtags: #fitness #poledancer #poledance.
+  Find top pole dancers Instagram influencers in United States in 2024. Most popular hashtags: #poledance #poledancing #poledancer.
 platform: Instagram
-hits: 201
-text_top: Identify the best Instagram profiles on inBeat.
-text_bottom: Our database holds 201 Instagram influencers like this in United States for you to contact.
+hits: 208
+text_top: Discover the top-rated Instagram accounts on inBeat.
+text_bottom: Our database holds 208 Instagram influencers like this in United States for you to work with.
 profiles:
   - username: "marymargonzalez"
     fullname: >-
-      Maria Del Mar
+      Maria Del Mar Gonzalez
     bio: >-
-      Actress / Pole Dancer / Lifter / Fitness Instructor Legit: Prestige Management NYC Commercial: @a3artistsagency 🇵🇷 Boricua based in NYC 📍
+      Actress / Pole Dancer / Lifter / Dancer Legit: Prestige Management NYC @a3artistsagency 🇵🇷 Multi-Hyphenate artist / NYC / PR📍
     location: "United States"
-    followers: 36314
-    engagement: 1219
-    commentsToLikes: 0.026346
+    followers: 135234
+    engagement: 586
+    commentsToLikes: 0.021955
     id: ck0uelcolll6s0i1967pwwwht
     verified: false
-    hashtags: "#milakrasna, #boudoir, #girlswholift, #weightlifting"
+    hashtags: "#strongwomen, #puertorico, #palazzo, #italy"
+  - username: "estefjimpa"
+    fullname: >-
+      ESTEFANIAJIMENEZ_OldSchoolPole
+    bio: >-
+      •Old school Pole Dancer• •Leg movement connoisseur• •Your everyday rockstar• ⚡️Wild as all the love that you lost 🎶
+    location: "United States"
+    followers: 52922
+    engagement: 296
+    commentsToLikes: 0.032175
+    id: ck6u2kon8sd3d0j71n2qfn48e
+    verified: false
+    hashtags: "#pdmarlosplit, #sinsandstilettos"
+  - username: "misshuyendinh"
+    fullname: >-
+      Huyen Dinh | Pink Specialist
+    bio: >-
+      🇻🇳 #lettering #mural #illustration 🌟 Pole dancer @misshuyendinh_pole 👇 Paid Partnership Guide
+    location: "United States"
+    followers: 73520
+    engagement: 156
+    commentsToLikes: 0.021257
+    id: ck0tyu5reo2gb0i19nxxda9t8
+    verified: false
+    hashtags: "#letteringdesign, #procreatelettering, #selfgrowth, #smallbiz"
   - username: "nicolepeachyy"
     fullname: >-
       Nicole 🍑
@@ -30,7 +54,7 @@ profiles:
     commentsToLikes: 0.017793
     id: ck8t64yy4c81i0j78np490owt
     verified: false
-    hashtags: "#twitchgamer, #twitch, #meow, #gaming"
+    hashtags: "#girl, #twitchgirls, #twitch, #sunny"
   - username: "pieceofcakeee_"
     fullname: >-
       cherry🍒jayne
@@ -55,18 +79,6 @@ profiles:
     id: ck0ubyfjcfm8h0i19v6v85iyf
     verified: false
     hashtags: "#aestheticpale, #tumblroutfit, #sustainablefashion, #90soutfits"
-  - username: "acrodave"
-    fullname: >-
-      Davide Zongoli
-    bio: >-
-      Poledancer•aerialist•dancer• @atomicsaloonshow artist• PayPal/Venmo/CashApp: ACRODAVEXXX 📍LAS VEGAS📍 🇬🇧🇪🇸🇮🇹 👨🏼‍🤝‍👨🏿@mrjebfit
-    location: "United States"
-    followers: 360308
-    engagement: 371
-    commentsToLikes: 0.020124
-    id: ck0vyhe8g409l0i197i2j8zp6
-    verified: true
-    hashtags: "#acrodave, #instamusclehot, #men, #poledancer"
   - username: "seansellek"
     fullname: >-
       Sean Sellek
@@ -102,7 +114,7 @@ profiles:
     commentsToLikes: 0.043134
     id: ck5c7x1mr8crv0i11fzl6sn6d
     verified: false
-    hashtags: "#artbykaro, #artist, #photoshootideas, #shotoniphone"
+    hashtags: "#artist, #artbykaro, #photoshootideas, #vintagestyling"
   - username: "russian.r3d"
     fullname: >-
       Jessica Bogdanov
@@ -115,16 +127,4 @@ profiles:
     id: ck55lhhum1kw60i11pull8qzf
     verified: false
     hashtags: "#theweeknd, #blackouttuesday"
-  - username: "shar_zayn"
-    fullname: >-
-      𝑆𝐻𝐸-𝐻𝑈𝐿𝐾 🇵🇷 🇨🇺🇪🇸🔥
-    bio: >-
-      I AM ENERGY 🧿1222🧿 ENTERTAINER OF THE YEAR 2021 @ed_publications Pole enthusiastic Aerial performance Professional Exotic Poledancer 📍 Miami,FL
-    location: "United States"
-    followers: 249730
-    engagement: 297
-    commentsToLikes: 0.042064
-    id: ck5q6yvnnzc3n0i11g8ey5284
-    verified: false
-    hashtags: "#shehulk, #massage, #miami, #sharzayn"
 ---

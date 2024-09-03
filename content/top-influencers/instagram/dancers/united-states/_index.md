@@ -1,12 +1,24 @@
 ---
-title: Top 10 Dancers Instagram Influencers In United States In 2023
+title: Top 10 Dancers Instagram Influencers In United States In 2024
 description: >-
-  Find top dancers Instagram influencers in United States in 2023. Most popular hashtags: #dance #reels #throwback.
+  Find top dancers Instagram influencers in United States in 2024. Most popular hashtags: #dance #dancer #explorepage #reels.
 platform: Instagram
-hits: 5220
-text_top: Identify the top-rated Instagram influencers on inBeat.
-text_bottom: Our database has 5220 Instagram influencers like this in United States for you to work with.
+hits: 5358
+text_top: Discover the top-rated Instagram accounts on inBeat.
+text_bottom: Our search engine has 5358 Instagram influencers like this in United States for you to pitch.
 profiles:
+  - username: "alessandraferriofficial_"
+    fullname: >-
+      Alessandra Ferri
+    bio: >-
+      Dancer
+    location: "United States"
+    followers: 71811
+    engagement: 445
+    commentsToLikes: 0.023603
+    id: ck8szjs31opwd0j78kibhu0yj
+    verified: true
+    hashtags: "#dancefestival, #hamburgcity, #staatsoperhamburg, #twomore"
   - username: "gigi.dancing"
     fullname: >-
       Dancer
@@ -18,19 +30,7 @@ profiles:
     commentsToLikes: 0.093167
     id: ck6ubpvkhb0240j71bb0xfton
     verified: false
-    hashtags: "#orlando, #latin, #bachata, #dancing"
-  - username: "alessandraferriofficial_"
-    fullname: >-
-      Alessandra Ferri
-    bio: >-
-      Dancer
-    location: "United States"
-    followers: 44645
-    engagement: 729
-    commentsToLikes: 0.023055
-    id: ck8szjs31opwd0j78kibhu0yj
-    verified: true
-    hashtags: "#rolandpetit, #savethearts, #hamburgballet, #dontrushchallenge"
+    hashtags: "#loveyou, #dancer, #dancers, #amazing"
   - username: "kiransolanki141"
     fullname: >-
       Kiran Solanki
@@ -47,84 +47,84 @@ profiles:
     fullname: >-
       Nicole Laeno
     bio: >-
-      dancer | youtuber | @nicolelaenoxx business: lindalaeno@yahoo.com VLOGMAS ‘22 MERCH ⤵️🎄
+      18 | dancer & youtuber | @thelaenofamily business: lindalaeno@yahoo.com STAY POSITIVE💗
     location: "United States"
-    followers: 1703070
-    engagement: 822
-    commentsToLikes: 0.003498
+    followers: 1841305
+    engagement: 742
+    commentsToLikes: 0.002956
     id: ck0ttb3gq1xrs0i19jo59fsbj
     verified: true
-    hashtags: "#dkspartner, #hichewreducedsugar, #hichewbetterforchew, #youdotyou"
-  - username: "baffmasta"
+    hashtags: "#hiphop, #dance, #explorepage, #18"
+  - username: "marymargonzalez"
     fullname: >-
-      Baff
+      Maria Del Mar Gonzalez
     bio: >-
-      Actor | Entertainer | Dancer
+      Actress / Pole Dancer / Lifter / Dancer Legit: Prestige Management NYC @a3artistsagency 🇵🇷 Multi-Hyphenate artist / NYC / PR📍
     location: "United States"
-    followers: 168537
-    engagement: 308
-    commentsToLikes: 0.034479
-    id: ck1399866k5fj0i19x27xf8va
+    followers: 135234
+    engagement: 586
+    commentsToLikes: 0.021955
+    id: ck0uelcolll6s0i1967pwwwht
     verified: false
-    hashtags: "#ghana, #baffmasta, #clarence, #comedy"
-  - username: "dimitra_zachop"
+    hashtags: "#strongwomen, #puertorico, #palazzo, #italy"
+  - username: "alpha_clasher"
     fullname: >-
-      Dimitra Zachopoulou
+      Pratik Jogia
     bio: >-
-      Dione’s mom 👧 Former professional dancer💃🏼 Founder of #barreMethod®️byDimitra🩰 Owner #StudioBarre71#mypinkworld Ballet teacher🎀 Book worm 📚Art lover💫
+      • Gamer | Vlogger | Dancer 🕺 • Content Creator for @revenantesports.gg • Managed by : @8bit_thug @8bit_creatives • My Channels! 👇
     location: "United States"
-    followers: 103982
-    engagement: 245
-    commentsToLikes: 0.053401
-    id: ck8t0bfmbrhun0j7879xkasky
+    followers: 260751
+    engagement: 1542
+    commentsToLikes: 0.008066
+    id: ck8td588y1xit0j78ni6ydpv7
     verified: false
-    hashtags: "#ballet, #bandworkout, #healthylifestyle, #barreworkout"
-  - username: "shanudrie"
+    hashtags: "#india, #alphaclasher, #navratri, #garba"
+  - username: "kgj.14"
     fullname: >-
-      Shanudrie Priyasad
+      K E N S L E Y
     bio: >-
-      Facebook : Shanudrie Priyasad Sri Lankan Actress | Singer | Dancer | YouTuber | Media Personal Founder @priya_by_shanudrie හතේ හත♥️👇🏼🎬
+      💕Kensley's Show💕 City Girl with a Country Girl VIBE 📍SC, USA ===>Dancer ===>Influencer ===>Reviewer Mom @yolanflem
     location: "United States"
-    followers: 1048630
-    engagement: 236
-    commentsToLikes: 0.013691
-    id: ck0w10wr0h0dk0i19dj9e2ji8
+    followers: 25506
+    engagement: 445
+    commentsToLikes: 0.063368
+    id: cl7ivx8djudk40i23g4k8u4vt
     verified: false
-    hashtags: "#2023, #instagood, #instafashion, #ootn"
-  - username: "breekoegel"
+    hashtags: "#pastrypremierambassador, #adayouknow, #sundayfunday, #girlsfashioninspo"
+  - username: "bluebannister"
     fullname: >-
-      Bree Branker Koegel 💫
+      🦋SKYE EDITH BANNISTER🦋
     bio: >-
-      broadway dancer ➡️ fitness trainer & law school mom unc law • harvard | 1908
+      🌻𝐒𝐮𝐧𝐬𝐡𝐢𝐧𝐞 𝐁𝐚𝐛𝐲🌻 //LA 🌱model/actor/dancer/creative 🌱 ✨𝐦𝐲 𝐥𝐢𝐭𝐭𝐥𝐞 𝐜𝐨𝐫𝐧𝐞𝐫 𝐨𝐟 𝐉𝐎𝐘✨ LA- @minellimanagement @lemonlimeagency #cultivatingjoywithskye
     location: "United States"
-    followers: 24289
-    engagement: 305
-    commentsToLikes: 0.039169
-    id: ck15ssjbcelyc0i194o8yfz67
+    followers: 4924
+    engagement: 447
+    commentsToLikes: 0.100657
+    id: ckq0ivv4ddvhi0j23zos1rmvp
     verified: false
-    hashtags: "#gthc, #grateful, #family, #jumpstarter"
-  - username: "alyssamarielowe"
+    hashtags: "#glowymakeuplook, #cultivatingjoywithskye, #makeuphaul, #thatgirl"
+  - username: "sydneymesher"
     fullname: >-
-      L Y S S 🦋🌙✨🌸🐚🌈🍄
+      Sydney Mesher
     bio: >-
-      A.S Tarot reader • 444 Multifaceted lightworker. A wild 90s goth💀🔮⛓🌌💜🌊 Writer, dancer, model, basshead. Give it all to the universe & trust ☽˚｡⋆
+      Dancer, Model, Author, Actor, and Disability Advocate Dance @cleartalentgroup NY+LA || @therockettes Model @zebedeetalent Management @c_talent_
     location: "United States"
-    followers: 6439
-    engagement: 613
-    commentsToLikes: 0.482424
-    id: ck55o76aa7s4f0i11g1sntfps
+    followers: 8129
+    engagement: 511
+    commentsToLikes: 0.057007
+    id: ck14iy7xahpm60i199xsh2yws
     verified: false
-    hashtags: "#alterego, #writersofinstagram, #writer, #spiritualbeing"
-  - username: "amelie.anstett"
+    hashtags: "#aholidayspectacular, #rockettes, #limbloss, #limbdifference"
+  - username: "sadeckwaff"
     fullname: >-
-      Amelie Anstett
+      Sadeck Berrabah
     bio: >-
-      livehappy:) mta/dtteam sadie on @brat chicken girls justinbieber @Purposetour dancer #TIGRL @tigerfriday #drewcrew @iafmentorship ejimoo:amelieanstett
+      Contact : sadeckbooking@gmail.com Murmuration 🕊 💡Dancer 💡Choreographer 💡Artistic Director God☝🏼
     location: "United States"
-    followers: 109529
-    engagement: 670
-    commentsToLikes: 0.080095
-    id: ckap93itpqzxt0i78xngyi8y2
+    followers: 905277
+    engagement: 3937
+    commentsToLikes: 0.013636
+    id: ck0vxjrzyz8o30i19epuma9md
     verified: false
-    hashtags: "#reels, #siblings, #oscarweekend, #beoriginal"
+    hashtags: "#popping, #poppingdance, #tutting, #fashionweek"
 ---

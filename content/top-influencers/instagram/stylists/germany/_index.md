@@ -1,130 +1,130 @@
 ---
-title: Top 10 Stylists Instagram Influencers In Germany In 2023
+title: Top 10 Stylists Instagram Influencers In Germany In 2024
 description: >-
-  Find top stylists Instagram influencers in Germany in 2023. Most popular hashtags: #summer #fashionblogger #vacation.
+  Find top stylists Instagram influencers in Germany in 2024. Most popular hashtags: #fashion #styling #fashionblogger.
 platform: Instagram
-hits: 281
-text_top: See the best Instagram accounts on inBeat.
-text_bottom: Our platform aggregates 281 Instagram influencers like this in Germany for you to connect with.
+hits: 352
+text_top: Analyze the top-rated Instagram influencers on inBeat.
+text_bottom: Our platform aggregates 352 Instagram influencers like this in Germany for you to pitch.
 profiles:
-  - username: "justustoussis"
+  - username: "styling_monika"
     fullname: >-
-      Justus Toussis
+      Monika Heursen-Gerhard
     bio: >-
-      Luxury Lifestyle Blogger/ Influencer/ Celebrity Stylist/ Shop Owner/ 📍Germany/ PR: justusundluca@gmail.com
+      Hi I‘m Moni, 49 years Lifestyle-Fashion Influencer Personal Stylist - Make-up Artist Stylingtipps - Daily Outfits One base - 3 Outfits Every week
     location: "Germany"
-    followers: 51706
-    engagement: 307
-    commentsToLikes: 0.024847
-    id: ck6ub9dn188zz0j710o5rmbo0
+    followers: 25559
+    engagement: 831
+    commentsToLikes: 0.232446
+    id: clilkx9u8cwje0j08zke5dkfx
     verified: false
-    hashtags: "#versacepride21, #gucci"
-  - username: "fashionaddictedhellas"
+    hashtags: "#over40woman, #fashionable, #womenstyle, #streetstyle"
+  - username: "happy_henni"
     fullname: >-
-      Mitsi Siouta
+      H e n n i  Schaefer
     bio: >-
-      🇬🇷 Fashion stylist & blogger Based in 🇧🇪 Travel addict 🌍 fashionaddicted.com.gr YouTube:Fashion Addicted ✉ info@fashionaddicted.com.gr Latest Post
+      your daily fashion inspo cologne stylist | fashion journalism & communication Imprint/Kontakt
     location: "Germany"
-    followers: 33292
-    engagement: 330
-    commentsToLikes: 0.049933
-    id: ckapbxvaj1p870i78r4mim56q
+    followers: 21772
+    engagement: 417
+    commentsToLikes: 0.016566
+    id: clt4fsi5ee7ba0k08dwf41pz0
     verified: false
-    hashtags: "#style, #rules"
-  - username: "alina_kossan"
+    hashtags: "#summerlook, #tattooart, #styling, #stylinghelp"
+  - username: "elenaricciardi_com"
     fullname: >-
-      Аlina
+      Elena Ricciardi
     bio: >-
-      STYLIST/ MODEL/ SOCIAL MEDIA MANAGER Berlin based @vivamodelsberlin content creation inquiries: alina_kossan@gmx.de
+      Personal brand & image strategist Stylist 📍Italy/Germany 💌contact@elenaricciardi.com
     location: "Germany"
-    followers: 30279
-    engagement: 685
-    commentsToLikes: 0.008981
-    id: ck0tyvhcro8ab0i19l6fl771l
+    followers: 53932
+    engagement: 732
+    commentsToLikes: 0.001834
+    id: ckwzuvh70yjja0j233rb8l0od
     verified: false
-    hashtags: "#ad, #filaeurope, #realitytoideaxhavaianas, #zalandostyle"
-  - username: "larinabeauty"
+    hashtags: ""
+  - username: "our.homeliving"
     fullname: >-
-      Irina Zeiser
+      Sandra | Interior & Lifestyle
     bio: >-
-      #Beauty #Hairstyles #Fashion My Work as Stylist 👸🏼 ⬇️ [Impressum] @bellerine_beauty Shop my PRESETS↩️
+      🙋🏾‍♀️ Blogger | Stylist | Creator 🏛 Hamburg based ✉️ our.homeliving@web.de
     location: "Germany"
-    followers: 119131
-    engagement: 235
-    commentsToLikes: 0.032991
-    id: ck13ch7ii0bwa0i19mdzn7ai7
+    followers: 131036
+    engagement: 407
+    commentsToLikes: 0.078854
+    id: clmizkqmhiq1u0j085s9ag0ow
     verified: false
-    hashtags: "#snowflakes, #cutehairstyle, #winterwonderland, #itscoldoutside"
-  - username: "thedaydreamings"
+    hashtags: "#danishdesign, #hygge, #mynordichome, #homedesign"
+  - username: "jujuuking"
     fullname: >-
-      Viktoria
+      JULIEN
     bio: >-
-      Blogger • Stylist //fashion 👠 //beauty💄//travels✈// food 🍵// @thedaydreamings #baby2021 📍 Germany based E-Mail: thedaydreamings@gmail.com
+      Creative/ Stylist/ Content Creator TikTok: jujuuking_ (+200k) / 📍Cologne 🇩🇪 Inquiries via 📧 julien@thepauseagency.com
     location: "Germany"
-    followers: 338160
-    engagement: 141
-    commentsToLikes: 0.076037
-    id: ck55khoyjzbmd0i11tnwkumx0
+    followers: 79245
+    engagement: 730
+    commentsToLikes: 0.017851
+    id: ck0vvc3l6oh8h0i19tsb3jvmr
     verified: false
-    hashtags: "#myjoolz, #momtobe"
-  - username: "emmy.vogler"
+    hashtags: "#explore, #fashion, #menswear, #mensfashion"
+  - username: "_learh"
     fullname: >-
-      𝐄𝐌𝐌𝐘 𝐕𝐎𝐆𝐋𝐄𝐑 💙
+      lea rohe 🫴🏼🦋
     bio: >-
-      ✈️ STEWARDESS & content creator 🌎 ♥️ lash stylist: @emmy.vogler.lashes 💌 emmy.vogler@web.de 💌 📍 Wiesbaden | Dresden ❣️ @impressum_emmy.vogler 🤍
+      semi-private camera roll of a personal stylist, yoga guide and coach that sells vintage & talks on a podcast for fun,too.🌻 represented by @rsa.mgmt 💌
     location: "Germany"
-    followers: 178936
-    engagement: 42
-    commentsToLikes: 0.167244
-    id: ck8tb783yukpw0j78mqosxv3u
+    followers: 17525
+    engagement: 300
+    commentsToLikes: 0.033185
+    id: clipg9nngjzp30j08fyzt83t2
     verified: false
-    hashtags: "#bikini, #sunset, #greece, #happyplace"
-  - username: "rachelaffaqui"
+    hashtags: "#stylingcowboyboots, #stylingcardigans, #stylinglatesummeroutfits, #glambou"
+  - username: "aenna_xoxo"
     fullname: >-
-      Rachel 🌻 | Fashion & Lifestyle
+      Anna-Lena Hasken
     bio: >-
-      Jesús first ✞ 🌻Rachel Barrios Affaqui ✨ Fashion Designer | Fashion Stylist 📍VE 🇻🇪
+      Enthusiastic Interior Stylist⠀⠀⠀ Pug Mom & Marble Lover ⠀⠀ ✉⠀aennaxoxo.business@gmail.com⠀⠀⠀
     location: "Germany"
-    followers: 8085
-    engagement: 825
-    commentsToLikes: 0.042903
-    id: ck5hiky1fe1xp0i116pg0ldrb
+    followers: 115881
+    engagement: 284
+    commentsToLikes: 0.031897
+    id: ck6tvlni3mwub0j713em1e3um
     verified: false
-    hashtags: "#blogger, #travelblogger, #summer, #2021"
-  - username: "anabacinger"
+    hashtags: "#poolbau, #einrichtung, #gartengestaltung, #griechenland"
+  - username: "fashioneiress"
     fullname: >-
-      Ana Bacinger
+      Sonam Babani
     bio: >-
-      journalist/stylist/content creator blogger since 2010 Elle Style Awards Best Fashion Blogger 2015 owner @lfp_collection
+      👸🏼🐝 of Luxury & Wellness Celebrity Stylist | Luxury Consultant GQ 100 Best Dressed Luxebook 50 Most Powerful Women
     location: "Germany"
-    followers: 20479
-    engagement: 241
-    commentsToLikes: 0.021281
-    id: ck0w3ut5vve3m0i1917espjim
+    followers: 210735
+    engagement: 173
+    commentsToLikes: 0.008161
+    id: ck0vzgp0690gv0i197a6q0qnf
     verified: false
-    hashtags: "#summertime, #summer2021, #fashionblogger, #summervibes"
-  - username: "jana_katharina"
+    hashtags: "#fashioneiressinspain, #fashioneiress, #wellnesswithfashioneiress, #fashioneiressinparis"
+  - username: "delfinacarmona"
     fullname: >-
-      Jana-Katharina
+      Delfina Carmona
     bio: >-
-      • Closet Account @janakatharinacloset • Some outfit inspo @stylistbyjk ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ✉️ Contact: jana-katharina@outlook.com or DM
+      〰️ Photographer, Photo Stylist & Art Director 📍Based in Berlin, Germany From 🇦🇷 💌 carmonadelfina@gmail.com
     location: "Germany"
-    followers: 25005
-    engagement: 171
-    commentsToLikes: 0.055008
-    id: ckaotxd9mxxdr0i78egwg7m2v
+    followers: 259064
+    engagement: 168
+    commentsToLikes: 0.003566
+    id: ck0txy7wakz5e0i194bic86gw
     verified: false
-    hashtags: "#streetstyle, #inspiration, #paris, #munich"
-  - username: "tine.siepmann"
+    hashtags: "#newfurniture, #decor, #interiors, #interiorstyling"
+  - username: "lynnsstyle"
     fullname: >-
-      Tine Siepmann
+      Lynn Schmidt
     bio: >-
-      🌺Cologne/Stylist/Fashion/Germany/TV/Travel/Rider/Horselover🐴
+      Fashion Director @instylegermany freelance Fashion Stylist & Consultant
     location: "Germany"
-    followers: 15524
-    engagement: 630
-    commentsToLikes: 0.064747
-    id: ck6uba9a08eea0j71cjz37mwk
+    followers: 12601
+    engagement: 159
+    commentsToLikes: 0.034082
+    id: ck55jcsejwrt80i11p6essmpo
     verified: false
-    hashtags: "#styling, #staysafe, #horselover, #ridinggirl"
+    hashtags: "#editorial, #fashionstyle, #shooting, #thefrankieshop"
 ---

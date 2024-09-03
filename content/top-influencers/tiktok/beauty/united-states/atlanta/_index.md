@@ -1,11 +1,11 @@
 ---
-title: Top 10 Beauty TikTok Influencers In Atlanta In 2023
+title: Top 10 Beauty TikTok Influencers In Atlanta In 2024
 description: >-
-  Find top beauty TikTok influencers in Atlanta in 2023. Most popular hashtags: #fyp #atlanta #beauty #foryoupage.
+  Find top beauty TikTok influencers in Atlanta in 2024. Most popular hashtags: #fyp #atlanta #beauty #foryoupage.
 platform: TikTok
 hits: 16
-text_top: Analyze the top-rated TikTok profiles on inBeat.
-text_bottom: Our platform holds 16 TikTok influencers like this in Atlanta, United States for you to work with.
+text_top: Discover the most popular TikTok influencers on inBeat.
+text_bottom: Our platform holds 16 TikTok influencers like this in Atlanta, United States for you to pitch.
 profiles:
   - username: "catoura"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.031828
     id: ck9fmlkpyu1l50j78kh09jpkd
     verified: false
-    hashtags: "#thingstodoinatlanta, #travelblogger, #greenscreen, #atlantablogger"
+    hashtags: "#greenscreen, #fyp, #travelblogger, #atlantageorgia"
   - username: "dyetta"
     fullname: >-
       Donyetta Edwards
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.085058
     id: cka9m457h3ram0i78lv3uvff2
     verified: false
-    hashtags: "#fyp, #workfromhome, #zoom, #funny"
+    hashtags: "#workfromhome, #zoom, #fyp, #funny"
   - username: "beautyofaboymom"
     fullname: >-
       BeautyofBoyMom
@@ -66,7 +66,7 @@ profiles:
     commentsToLikes: 0.073422
     id: ckai28ufgetyv0i78ajo0mcl4
     verified: false
-    hashtags: "#photography, #viral, #tiktokggt, #atlanta"
+    hashtags: "#viral, #atlanta, #tiktokggt, #fyp"
   - username: "wfpbjosh"
     fullname: >-
       Josh Wayne

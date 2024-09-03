@@ -1,36 +1,48 @@
 ---
-title: Top 10 Christian Instagram Influencers In Indonesia In 2023
+title: Top 10 Christian Instagram Influencers In Indonesia In 2024
 description: >-
-  Find top christian Instagram influencers in Indonesia in 2023. Most popular hashtags: #indomusikgram #dirumahaja #vokalplus #collabjauh.
+  Find top christian Instagram influencers in Indonesia in 2024. Most popular hashtags: #dirumahaja #tuhanyesusmemberkati #trackeasy.
 platform: Instagram
-hits: 144
-text_top: See the top-rated Instagram profiles on inBeat.
-text_bottom: Our platform holds 144 Instagram influencers like this in Indonesia for you to connect with.
+hits: 158
+text_top: See the top-rated Instagram accounts on inBeat.
+text_bottom: Our search engine has 158 Instagram influencers like this in Indonesia for you to collaborate.
 profiles:
-  - username: "tiffofili"
+  - username: "jordanvincenntt"
     fullname: >-
-      Tiffany Porter
+      Vincentius jordan
     bio: >-
-      Christian. Wife. Mother. 2 x Olympian. Pharmacist. AKA 💗💚 #Blessed Snapchat 👻: tiffporter
+      BA @beningsclinic_jakarta @bioaquabeautyofficial inquiries: 081380318765 ( christian ) @vbimanagement_
     location: "Indonesia"
-    followers: 26424
-    engagement: 189
-    commentsToLikes: 0.100032
-    id: ck5qeiv2b0ph90i115lq1vpx7
-    verified: true
-    hashtags: "#mommyandme, #teamporter, #60meterhurdles, #chichimama"
-  - username: "chindymariad"
-    fullname: >-
-      𝘾𝙝𝙞𝙣𝙙𝙮𝙢𝙖𝙧𝙞𝙖𝙙💙
-    bio: >-
-      Psalm 145:17 BA🦋 Job/Endorse, Christian ‪+62 896‑9066‑7399‬ @aritmatika.ordinate @auctionbrave @slimbeautycare
-    location: "Indonesia"
-    followers: 438122
-    engagement: 255
-    commentsToLikes: 0.006976
-    id: ckaoxuh03et2d0i78q004aumk
+    followers: 213843
+    engagement: 801
+    commentsToLikes: 0.013239
+    id: ckaoxac27ch6j0i787yeszes8
     verified: false
-    hashtags: "#helwa, #creamhelwa, #helwabeautycare, #creamarab"
+    hashtags: "#bioaquadancechallenge, #skincareboyfriend, #bioaquatheboyssquad, #comingsoon"
+  - username: "allfauzn"
+    fullname: >-
+      Alfauzan Praditya
+    bio: >-
+      🇮🇩Putera Kebudayaan Jawa Barat ²³ #allfor1mission law student ²² | Indonesian Christian University Pp/Endorsement/Business (DM)
+    location: "Indonesia"
+    followers: 19024
+    engagement: 1038
+    commentsToLikes: 0.012218
+    id: ck8t73r62fjq50j78wbzaftey
+    verified: false
+    hashtags: "#tiktokofficialindonesia, #tiktokers, #tiktokindonesia, #view"
+  - username: "rizasyah_14"
+    fullname: >-
+      Riza Syah
+    bio: >-
+      soon @dusunkonco Business Inquiries : 081380318765 (christian wijaya)
+    location: "Indonesia"
+    followers: 1538874
+    engagement: 119
+    commentsToLikes: 0.003555
+    id: ck5q5u89oum2u0i11m8rqqzjf
+    verified: true
+    hashtags: "#guribee, #segitukrispinya, #guribeelayers, #makechange"
   - username: "hi.selinahalim"
     fullname: >-
       Baby Selina Halim 💖
@@ -55,18 +67,6 @@ profiles:
     id: ck9haglv2cggc0j78z17lpmbi
     verified: false
     hashtags: "#imgxlangitmusik, #indomusikgram, #collabjauh, #indomusikteam"
-  - username: "gme_id"
-    fullname: >-
-      GOOD MORNING EVERYONE
-    bio: >-
-      Contact Person: 082173342354 Tian Email: christian.sipassy@sonymusic.com @diorsani / @danielbelzaa / @yuliperkasa / @erwinhadinata.gme / @kunyixkriboo
-    location: "Indonesia"
-    followers: 20416
-    engagement: 527
-    commentsToLikes: 0.010733
-    id: ck0vxu12x0q9o0i19y253zdza
-    verified: false
-    hashtags: "#gmeteamup, #selamatpagi, #goodmorningeveryone, #virtualconcert"
   - username: "katakataiman"
     fullname: >-
       KATA KATA IMAN KRISTEN
@@ -79,18 +79,42 @@ profiles:
     id: ckap1msifv8260i787eqcytbt
     verified: false
     hashtags: "#anakmudakristen, #quoteskristen, #anaktuhanyesus, #berjalanbersamayesus"
-  - username: "evoleneofficial"
+  - username: "luminousdreamsphotoworks"
     fullname: >-
-      Evolene - PROVEN FITNESS SUPPS
+      Luminousdreamsphotoworks
     bio: >-
-      🔥SIMPLIFY FITNESS BY BUILDING YOUR MUSCLE #ThatsMyEvolution Founded by @christiandicky +628119298893 Promo surplus kalori / 15 days challenge👇
+      Potrait . Beauty . Commercial Photographer, @ItsMeTeguh @mas_christian_ Traveller, Food Lover Jakarta Indonesia
     location: "Indonesia"
-    followers: 76933
-    engagement: 93
-    commentsToLikes: 0.033775
-    id: ck0vvg15eoz4k0i19c6rpxboj
+    followers: 20516
+    engagement: 319
+    commentsToLikes: 0.107182
+    id: ck5zj65d4h0hy0i148ptafesh
     verified: false
-    hashtags: "#dirumahaja, #teamsurpluskalori, #timsurpluskalori"
+    hashtags: "#bbg, #male, #bodygoals, #asian"
+  - username: "christiankuria"
+    fullname: >-
+      Christian Kuria
+    bio: >-
+      STREAM ‘SUSPENSION OF DISBELIEF’ 🎭
+    location: "Indonesia"
+    followers: 64410
+    engagement: 1038
+    commentsToLikes: 0.025010
+    id: ck1389nasf69k0i19858u0dxj
+    verified: false
+    hashtags: ""
+  - username: "monica_christiana"
+    fullname: >-
+      monica
+    bio: >-
+      Lagu “Malam Tak Berjudul” sudah bisa didengarkan!👇🏻 cp +628990001181 —selvi
+    location: "Indonesia"
+    followers: 56855
+    engagement: 2661
+    commentsToLikes: 0.007953
+    id: ck5zsmq4vysse0i14act4ghdk
+    verified: false
+    hashtags: "#akustik, #indie, #lilinkecil, #malamtakberjudul"
   - username: "christiany_eugenia_paruntu"
     fullname: >-
       Christiany E. Tetty Paruntu
@@ -103,28 +127,4 @@ profiles:
     id: ck6tsby4m3w7w0j717uya6f4m
     verified: true
     hashtags: "#missyouhf, #pilkadasulut2020, #lovecep, #cepgubernursulut"
-  - username: "monica_christiana"
-    fullname: >-
-      𝐌𝐨𝐧𝐢𝐜𝐚
-    bio: >-
-      🌙 @youngveins.id The Voice Kids S1 CP / Endorse : +6285100065550 (Selvi) “Drivers License” cover👇🏻
-    location: "Indonesia"
-    followers: 11610
-    engagement: 533
-    commentsToLikes: 0.022627
-    id: ck5zsmq4vysse0i14act4ghdk
-    verified: false
-    hashtags: "#indomusikgram, #cover, #frescollaboration, #acoustic"
-  - username: "jeffry_bucex_christian"
-    fullname: >-
-      𝚃𝚑𝚎 𝚊𝚚𝚞𝚊𝚝𝚒𝚌 𝚏𝚛𝚎𝚊𝚔
-    bio: >-
-      More info : WA/Call 082217013338
-    location: "Indonesia"
-    followers: 49988
-    engagement: 274
-    commentsToLikes: 0.016550
-    id: ck15tlpenip450i19yj3o06mi
-    verified: false
-    hashtags: "#aquascape, #paludarium, #aquariums, #4viewpludarium"
 ---

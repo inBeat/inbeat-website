@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Atlanta In 2023
+title: Top 10 Fitness Instagram Influencers In Atlanta In 2024
 description: >-
-  Find top fitness Instagram influencers in Atlanta in 2023. Most popular hashtags: #fashion #fitness #ootd #atlanta.
+  Find top fitness Instagram influencers in Atlanta in 2024. Most popular hashtags: #atlanta #fitness #atlantanightlife #gymmotivation.
 platform: Instagram
-hits: 225
-text_top: Analyze the top-rated Instagram influencers on inBeat.
-text_bottom: Our database aggregates 225 Instagram influencers like this in Atlanta, United States for you to collaborate.
+hits: 273
+text_top: Discover the best Instagram profiles on inBeat.
+text_bottom: Our search engine has 273 Instagram influencers like this in Atlanta, United States for you to work with.
 profiles:
   - username: "the_templebuilder"
     fullname: >-
@@ -19,42 +19,42 @@ profiles:
     id: ckap1cqb8u12v0i788bg96jbb
     verified: false
     hashtags: "#love, #blacklove, #family, #blessed"
-  - username: "andzelika_bobrova"
+  - username: "danifernandez.go"
     fullname: >-
-      Andzelika
+      Dani Fernandez 🦋
     bio: >-
-      
+      📍25. Atlanta, GA. 🇺🇸 💅 books, food, self love, positivity 🐛 💌 dani.fernandez98@outlook.com
     location: "United States"
-    followers: 31977
-    engagement: 369
-    commentsToLikes: 0.040896
-    id: ck8sxf0emh5s40j78hce8tuqa
+    followers: 40097
+    engagement: 371
+    commentsToLikes: 0.015132
+    id: cl0ld58bcmj1z0i23qnaz3b7v
     verified: false
-    hashtags: "#losangelesmodel, #atlantamua, #fashionphotographer, #actress"
-  - username: "anissa.mendez"
+    hashtags: "#edrecovery, #foodie, #bodylove, #healingjourney"
+  - username: "shotbydcastro"
     fullname: >-
-      Anissa Mendez✨
+      D Castro 🐐🔌🏆
     bio: >-
-      •Miss Texas Teen USA 2020👑 •@misstxteenusa 💛 •Model Management @nymmg •@sweetsweat Ambassador •%code: ANISSA10
+      Entrepreneur / Influencer / Media / Consultant / Mentor Owner / CEO: @CastroEnterpriseGroup Creator of Industry Connect | #1 Clubhouse Room DM To Book
     location: "United States"
-    followers: 10876
-    engagement: 870
-    commentsToLikes: 0.022081
-    id: ck6u68e5de3sz0j71rbyke5df
+    followers: 46668
+    engagement: 152
+    commentsToLikes: 0.128472
+    id: ck5zvywzi561c0i14bavcg2cj
     verified: false
-    hashtags: "#spreadlove, #confidentlybeautiful, #2021, #happy"
-  - username: "mannequinbody_"
+    hashtags: "#industryconnect, #ifb, #sfs, #hot1079"
+  - username: "where2atlanta"
     fullname: >-
-      Mannequin Body Studio ✨
+      Sean | ATL Experiences
     bio: >-
-      📍Atlanta, GA 🌟 Lipo Cavitation & Laser Lipo 🌟 Vacuum Therapy Butt & Breast Lift 🌟 Cellulite Treatment 🌟 Skin Tightening @miniactivewear MBODY20
+      𝗦𝗵𝗼𝘄𝗰𝗮𝘀𝗶𝗻𝗴 𝗼𝗽𝘁𝗶𝗼𝗻𝘀 𝗮𝗿𝗼𝘂𝗻𝗱 𝗔𝘁𝗹𝗮𝗻𝘁𝗮 📸 Events | Experiences | Lifestyle 📧where2atlanta@gmail.com
     location: "United States"
-    followers: 6075
-    engagement: 22
-    commentsToLikes: 0.163967
-    id: ck15t1nwcfwcl0i19wwhnc6qc
+    followers: 76928
+    engagement: 309
+    commentsToLikes: 0.120513
+    id: cllxbdbg9h1jy0j08fhfhtuqm
     verified: false
-    hashtags: "#drmiami, #laserlipo, #postpartum, #drdowback"
+    hashtags: "#buckhead, #atlrestaurants, #valentinesday2024, #atldatenight"
   - username: "maiyamay_"
     fullname: >-
       Maiya May
@@ -66,7 +66,7 @@ profiles:
     commentsToLikes: 0.052559
     id: ck0ttvpg34ioo0i19yly0mbhj
     verified: false
-    hashtags: "#climatecrisis, #gsfamilyfaces, #fitnessmotivation, #legworkout"
+    hashtags: "#gymshark, #gsfamilyfaces, #gainsongains, #gymmotivation"
   - username: "chris_vxa"
     fullname: >-
       Chris Veliz-Arias
@@ -78,53 +78,53 @@ profiles:
     commentsToLikes: 0.056296
     id: ck6ucfswefcfz0j718pd3zioc
     verified: false
-    hashtags: "#2xu, #motivation, #trails, #ironwars"
-  - username: "mayaprosser"
+    hashtags: "#godfirst, #personaltraining, #hiking, #ironwars"
+  - username: "fitwithcj"
     fullname: >-
-      Maya Prosser🇭🇹
+      👨🏾‍💻CJ The Creator 🎥🏋🏽‍♂️
     bio: >-
-      | God | YouTube | Fashion | mayaprosserpromo@gmail.com for promo inquiries. New video is out now:
+      🔵 Me: #1 Social Media & Content Coach for the #fitpros Creator of: @arubafitcation @fitnessonlineuniversity 🎬 @ebonyfitweekend Creative Director
     location: "United States"
-    followers: 35145
-    engagement: 1086
-    commentsToLikes: 0.013760
-    id: ck5q25f39ecva0i11aehuz9c8
+    followers: 14324
+    engagement: 51
+    commentsToLikes: 0.105471
+    id: ckqhmpcv5q7a10j23t6dwnydj
     verified: false
-    hashtags: "#ootd, #youtube, #styleblogger, #fyp"
-  - username: "king_bashel"
+    hashtags: "#fusiongyms, #gymventures, #igreels, #pelotonstudio"
+  - username: "andzelika_bobrova"
     fullname: >-
-      B-Dolla 💵
+      Andzelika
     bio: >-
-      🎨 Magic World of Color & Fashion 🤴🏾 #BlackBoyJoy | 👨🏾‍💻 #LifestyleBlogger New blog post on Wednesday’s:⬇️
+      
     location: "United States"
-    followers: 4550
-    engagement: 1640
-    commentsToLikes: 0.117538
-    id: ck6trywt11vkn0j7139nilrhn
+    followers: 31977
+    engagement: 369
+    commentsToLikes: 0.040896
+    id: ck8sxf0emh5s40j78hce8tuqa
     verified: false
-    hashtags: "#iginfluencer, #blackblogger, #lifestyleblogger, #blackbloggers"
-  - username: "ga_peach713"
+    hashtags: "#atlantaphotographer, #fitness, #photographer, #ovmeofficial"
+  - username: "atlantabestbites"
     fullname: >-
-      Abby and Sammi 🐾
+      Atlanta’s Best Bites (ABB) | Sarah
     bio: >-
-      Tik-Tok: GaPeach713 Fitness: Ga_PeachFit #ATLantaReign
+      Atlanta Food & Drink Guide 🍕 Content Creator/Influencer 🌮 TikTok and YouTube ⬇️
     location: "United States"
-    followers: 9805
-    engagement: 886
-    commentsToLikes: 0.023994
-    id: ck9hcudzcn0ni0j78km1vyq4i
+    followers: 38633
+    engagement: 51
+    commentsToLikes: 0.109081
+    id: ckaoqoiu3jmpu0i78wya0t204
     verified: false
-    hashtags: ""
-  - username: "labellatl"
+    hashtags: "#decaturga, #atlantasushi, #atlantathingstodo, #atlfoodies"
+  - username: "bebetv__"
     fullname: >-
-      🦋 LISA BELL
+      💴
     bio: >-
-      📍 Atlanta, GA⁣ Weightlifter, Occasional Powerlifter 63kg @avatarnutrition - ‘LISA’ 10% off! More of me 👇🏼
+      “Don’t Make Excuses, Make Moves” BCU Alum 🐯|GSU Alum🐾|1 9 0 8 💕🐸|Atlanta📍
     location: "United States"
-    followers: 290280
-    engagement: 410
-    commentsToLikes: 0.024085
-    id: ck6tjf98r2lqu0j71qvyv3h65
+    followers: 6377
+    engagement: 695
+    commentsToLikes: 0.033657
+    id: ckaozgri1ltjv0i78jnzrr6xj
     verified: false
-    hashtags: "#bornprimitive, #fashionblogger, #pltstyle, #fitnessgirl"
+    hashtags: "#fashionnova, #fashionstyle, #explorepage, #nike"
 ---

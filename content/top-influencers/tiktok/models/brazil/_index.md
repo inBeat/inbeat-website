@@ -1,11 +1,11 @@
 ---
-title: Top 10 Models TikTok Influencers In Brazil In 2023
+title: Top 10 Models TikTok Influencers In Brazil In 2024
 description: >-
-  Find top models TikTok influencers in Brazil in 2023. Most popular hashtags: #foryou #fyp #fy #viral.
+  Find top models TikTok influencers in Brazil in 2024. Most popular hashtags: #foryou #fyp #fy #viral.
 platform: TikTok
 hits: 153
-text_top: Analyze the top-rated TikTok profiles on inBeat.
-text_bottom: Our search engine has 153 TikTok influencers like this in Brazil for you to pitch.
+text_top: Analyze the best TikTok accounts on inBeat.
+text_bottom: Our database has 153 TikTok influencers like this in Brazil for you to connect with.
 profiles:
   - username: "marcela.thome"
     fullname: >-
@@ -97,12 +97,12 @@ profiles:
     bio: >-
       Brazilian model 🇧🇷 SEGUE NO INSTA🔥
     location: "Brazil"
-    followers: 25900
-    engagement: 1023
-    commentsToLikes: 0.009224
+    followers: 25700
+    engagement: 1053
+    commentsToLikes: 0.010661
     id: ckai5ctkfrkb60i78wqr29b7b
     verified: false
-    hashtags: "#tiktok, #foryou, #for, #fy"
+    hashtags: "#foryourpage, #for, #you, #foryou"
   - username: "anaantonello"
     fullname: >-
       Ana Antonello

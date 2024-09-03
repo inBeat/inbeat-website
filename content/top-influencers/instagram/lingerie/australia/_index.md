@@ -1,24 +1,24 @@
 ---
-title: Top 10 Lingerie Instagram Influencers In Australia In 2023
+title: Top 10 Lingerie Instagram Influencers In Australia In 2024
 description: >-
-  Find top lingerie Instagram influencers in Australia in 2023. Most popular hashtags: #lingerie #beauty #model #photography.
+  Find top lingerie Instagram influencers in Australia in 2024. Most popular hashtags: #lingerie #model #photoshoot #photography.
 platform: Instagram
-hits: 40
-text_top: Discover the best Instagram profiles on inBeat.
-text_bottom: inBeat has 40 Instagram influencers like this in Australia for you to collaborate.
+hits: 56
+text_top: Analyze the most popular Instagram profiles on inBeat.
+text_bottom: Our platform holds 56 Instagram influencers like this in Australia for you to pitch.
 profiles:
-  - username: "kissenundkarma"
+  - username: "aleishagraceofficial"
     fullname: >-
-      Corinna
+      Aleisha Balfoort
     bio: >-
-      a more sustainable lifestyle ♡ Gründerin von @coco_malou_ethical_lingerie #fairfashionblogger #plantbased KEINE NEUEN KOOPS 🌱 aus Stuttgart
+      BoyMom👩‍👦‍👦111👼 Lash Queen @thelashdolllounge Bachelors BioMed🧬 @dauntlesstan AG10 @theblackmarket_lingerieandswim ALEISHA20 @mobileivdrip ALEISHA50
     location: "Australia"
-    followers: 57542
-    engagement: 640
-    commentsToLikes: 0.016879
-    id: ck5bzcdp0qv9m0i117u6ee6ag
+    followers: 80913
+    engagement: 52
+    commentsToLikes: 0.142609
+    id: ckf5nwpsazzrf0j23q1zqfrol
     verified: false
-    hashtags: "#reusereducerecycle, #slowdownfashion, #fairfashion, #slowfashioninspo"
+    hashtags: "#libraenergy, #sundaysessions, #mondaybunday, #appreciateyourself"
   - username: "elishajanesxx"
     fullname: >-
       ❣🔥 𝗘𝗹𝗶𝘀𝗵𝗮 - 𝗝𝗮𝗻𝗲🔥❣
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.011951
     id: ck6ucqbhsh0160j7173xaufdl
     verified: false
-    hashtags: "#twitch, #ginger, #videogames, #youtube"
+    hashtags: "#redhair, #videogames, #youtube, #cosplaygirl"
   - username: "tempest.hurricane"
     fullname: >-
       Tempest Hurricane
@@ -43,18 +43,6 @@ profiles:
     id: ck5zn3277norg0i14ywo44uvx
     verified: false
     hashtags: "#hopelesslingerie, #howdy, #lefttoyourowndevices, #indigenouslivesmatter"
-  - username: "alicia.parr_"
-    fullname: >-
-      Alicia ❃
-    bio: >-
-      📍Sydney Owner @keepthatpump @the_supplement_stop ALICIA10 Modelling/Shoot bookings @stillandmotionproductions
-    location: "Australia"
-    followers: 709636
-    engagement: 196
-    commentsToLikes: 0.020539
-    id: ck55q9ugucmm20i11zogsdlab
-    verified: false
-    hashtags: "#beach, #beauty, #eyes, #happy"
   - username: "crankphotography"
     fullname: >-
       C.Rankin
@@ -66,7 +54,7 @@ profiles:
     commentsToLikes: 0.011591
     id: ck5hn3bt9n4nf0i110bw6195b
     verified: false
-    hashtags: "#sunshinestate, #2instagoodportraitlove, #sigmausa, #slimthick"
+    hashtags: "#bodysuit, #2instagoodportraitlove, #sigma85mmdgdn, #lumixs1"
   - username: "dibbleprime"
     fullname: >-
       MARCUS DIBBLE
@@ -78,7 +66,7 @@ profiles:
     commentsToLikes: 0.007083
     id: ck5cjzc22vsuq0i1125heufy4
     verified: false
-    hashtags: "#babe, #blonde, #marcusdibblemedia, #scxnsor"
+    hashtags: "#model, #scxnsor, #blonde, #blondesdoitbetter"
   - username: "_nattestid_"
     fullname: >-
       Nattestid
@@ -127,4 +115,16 @@ profiles:
     id: ck6tiy9dx1nsh0j71a4xiywr5
     verified: false
     hashtags: "#fashionphotography, #southaustralianphotographer, #portrait, #boudoirphotography"
+  - username: "playboymagaustralia"
+    fullname: >-
+      Playboy Australia
+    bio: >-
+      Australian edition of Playboy magazine. Entertainment for all since 1953. www.playboymagaustralia.com
+    location: "Australia"
+    followers: 155842
+    engagement: 36
+    commentsToLikes: 0.105077
+    id: ck5c00p8os7jx0i11uhzogtza
+    verified: false
+    hashtags: ""
 ---

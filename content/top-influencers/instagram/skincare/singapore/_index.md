@@ -1,24 +1,84 @@
 ---
-title: Top 10 Skincare Instagram Influencers In Singapore In 2023
+title: Top 10 Skincare Instagram Influencers In Singapore In 2024
 description: >-
-  Find top skincare Instagram influencers in Singapore in 2023. Most popular hashtags: #skincare #beauty #sp.
+  Find top skincare Instagram influencers in Singapore in 2024. Most popular hashtags: #skincare #sheinforall #ootd.
 platform: Instagram
-hits: 18
+hits: 62
 text_top: See the most popular Instagram accounts on inBeat.
-text_bottom: inBeat aggregates 18 Instagram influencers like this in Singapore for you to work with.
+text_bottom: inBeat aggregates 62 Instagram influencers like this in Singapore for you to collaborate.
 profiles:
+  - username: "bubblymichelle"
+    fullname: >-
+      bubblymichelle
+    bio: >-
+      🇸🇬 Luxury Makeup & Skincare Beauty Awards judge Harpers Bazaar Singapore 2023, 2018, 2017, 2016
+    location: "Singapore"
+    followers: 66386
+    engagement: 537
+    commentsToLikes: 0.073545
+    id: ck8t3u09w4hop0j78yebricm9
+    verified: false
+    hashtags: "#summerlipstick, #welovecoco, #lipstickswatch, #sephorasg"
+  - username: "evonnz"
+    fullname: >-
+      Evonne ★
+    bio: >-
+      Design, PR & Marketing | Aesthetic concierge 💉 🐚 🌊🐰 Follow for updates on beauty, skincare, aesthetic procedures, diving, bunnies, yoga & good food!
+    location: "Singapore"
+    followers: 35434
+    engagement: 227
+    commentsToLikes: 0.024063
+    id: ck5q78j7p0eg90i11uml1hz79
+    verified: false
+    hashtags: "#fujifilmx100vi, #fujifilmsg, #evonnzinjapan, #jeju"
   - username: "sugar73"
     fullname: >-
-      ELAINE🦄 Sugar73 // SG Mum of 2
+      Woo Elaine
     bio: >-
-      🦄Only one account🔝Colourful vibes🌈✨ 👦🏻Elroy & 👶🏻 Elric ❤️ 🥂Bubbly💋Skincare🏋️‍♀️Spin #Sugar73Bento 🍕 ✨We are all made of stardust✨// LeicaQ2 📸
+      🦄Only one account🔝Colourful vibes🌈✨ 🥂Bubbly💋Skincare🏋️‍♀️Spin #Sugar73Bento 🍕 🏅BWL Gold Director// Skin Buddy✨// LeicaQ3📸 👦🏻Elroy & 👶🏻 Elric ❤️
     location: "Singapore"
-    followers: 21488
-    engagement: 265
-    commentsToLikes: 0.768648
+    followers: 22006
+    engagement: 141
+    commentsToLikes: 0.165261
     id: ck5hivwhffk4c0i11ezduhnrk
     verified: false
-    hashtags: "#sp, #truestory, #swipe, #pawpatrol"
+    hashtags: "#sheinkids, #b2, #sheinforall, #sheinsg"
+  - username: "skin.ken"
+    fullname: >-
+      Ken | 𝚂𝚔𝚒𝚗𝚌𝚊𝚛𝚎 𝙹𝚞𝚗𝚔𝚒𝚎
+    bio: >-
+      🤡 guy with an obsession for skincare 🍃brutally honest reviews 🧏🏻‍♂️ Oily | Dehydrated | Sensitive | Acne-prone 🇸🇬 based | DM or email 📧
+    location: "Singapore"
+    followers: 89107
+    engagement: 112
+    commentsToLikes: 0.057803
+    id: cl3w8ynn2c9yx0i23jpz34bfu
+    verified: false
+    hashtags: "#ecoluxebeauty, #laneigesg, #dermacosmetics, #dermatologistrecommened"
+  - username: "babykyliee"
+    fullname: >-
+      Kylie | Skinfluencer & Fashion Content Creator 🇸🇬
+    bio: >-
+      Simplifying skincare & fashion styling tips 🧏🏻‍♀️A dry combi skin girlie from Singapore Host | Live Streamer | UGC creator 👇🏼Check out my portfolio
+    location: "Singapore"
+    followers: 9263
+    engagement: 64
+    commentsToLikes: 0.069781
+    id: clmumxdpal7xh0j08n1o841jk
+    verified: false
+    hashtags: "#skincarerecommendations, #under10k, #fashioncontentcreator, #micasgal"
+  - username: "eexuanng"
+    fullname: >-
+      Xuan
+    bio: >-
+      +65🇸🇬 🐶🐾 @princessfifing Shoots/ads/business enquires - 📧📧eexuan91@live.com.sg Baking/ Cooking/ Food/ Fashion/ Makeup/ Skincare/ Travel💋
+    location: "Singapore"
+    followers: 39925
+    engagement: 8
+    commentsToLikes: 0.002227
+    id: clm70ahktgcpz0j08w2hef87j
+    verified: false
+    hashtags: "#ootd, #dressthebump, #38weeks, #cny2024"
   - username: "moana.indonesia"
     fullname: >-
       MOANA Skin Indonesia
@@ -31,100 +91,40 @@ profiles:
     id: ck8tbvnxfxbud0j780k3twih7
     verified: false
     hashtags: ""
-  - username: "adlinaanis"
+  - username: "sherriashlee"
     fullname: >-
-      Adlina Anis
+      Sherri Ashlee Toh
     bio: >-
-      Designer, Skincare Addict Be kind, stay humble. SG base 🇸🇬 Official acct @adlinaanisofficial FB: Adlina Anis � youtube.com/adlinaanis #adlinaanis
+      Co-founder | @plugged.sg Furkids | @ellienemma 💌 | sherriashlee@gmail.com 🎥 | Tiktok @sherriashlee Child of @wahbananasg 🍌
     location: "Singapore"
-    followers: 40872
-    engagement: 60
-    commentsToLikes: 0.013344
-    id: ck5qap49nhjp40i11izi0ar1p
+    followers: 41140
+    engagement: 319
+    commentsToLikes: 0.033535
+    id: ck0ucnk6rh7o00i1968rvktt5
     verified: false
-    hashtags: "#fit, #korangok, #hpbsg, #shesmytrueinstragamhusbandphotographer"
-  - username: "jwanting"
+    hashtags: "#maxicashsg, #fashion, #evianxsnoopy, #peanuts"
+  - username: "aditi_bhatia4"
     fullname: >-
-      Joyce Ng 黄琬婷 | Artiste
+      Aditi
     bio: >-
-      🎞 Actor | Emcee #JwantingReel Notable Works: #Pich5 #Togglesilo ✨Creatives l @j.origins 🌻Boss | @blushhousebridal @asianfoodnetwork SG ♥️Phil 4:13
+      building my dream life 🤍
     location: "Singapore"
-    followers: 17817
-    engagement: 358
-    commentsToLikes: 0.034931
-    id: ck5cgzvgdpuhs0i1109nrjrc9
-    verified: false
-    hashtags: "#skincareroutine, #asianskinsolutions, #asianskinsolution, #skinroutine"
-  - username: "beautifulbuns_sg"
-    fullname: >-
-      Cheryl 세린 🙋🏻
-    bio: >-
-      Editor, Ex-journalist, Multi-award-winning beauty blogger HerWorld Beauty Awards Judge HerWorldPlus SMA Beauty Winner ‘16 Most Popular Beauty Blog ‘15
-    location: "Singapore"
-    followers: 35044
-    engagement: 103
-    commentsToLikes: 0.083201
-    id: ck5cb6rp1euka0i11zuuwh70y
-    verified: false
-    hashtags: "#pink, #beauty, #makeup, #cosmeticos"
-  - username: "jmeteo"
-    fullname: >-
-      Jaime Teo
-    bio: >-
-      Digital Content Creator Fitness/Arts Enthusiast Entrepreneur For enquiries pls email thisisjmeteo@gmail.com
-    location: "Singapore"
-    followers: 117482
-    engagement: 120
-    commentsToLikes: 0.023081
-    id: ck8wgf87dh8on0j78z4hexpjv
+    followers: 6491043
+    engagement: 190
+    commentsToLikes: 0.008060
+    id: ck1369vlu5grj0i19w0zx1v9s
     verified: true
-    hashtags: "#schoolhols, #tokyo, #fun, #feelingblessed"
-  - username: "fivefootten"
+    hashtags: "#skincare, #bethepro, #facelikebodyglow, #smoothskinreveal"
+  - username: "liveloveatwithjie"
     fullname: >-
-      𝕵𝖎𝖆 𝖍𝖆𝖔
+      𝒳𝒾𝒶𝑜 𝒥𝒾𝑒 - food 🍱/beauty 🌹
     bio: >-
-      Chief Boomer 🧜🏻‍♂️ at @lucidsocial
+      Proverbs 31:25✨ 💇🏻‍♀️ @organicexpresshaircolorlab @gentlebeauty.sg ambassador 🖋Collabs/DM xiaojie112@live.com
     location: "Singapore"
-    followers: 13425
-    engagement: 819
-    commentsToLikes: 0.038968
-    id: ckap4o207841u0i78xyr2cmrl
+    followers: 18629
+    engagement: 154
+    commentsToLikes: 0.497986
+    id: cllzvyxgws1il0j08uuu9xd8z
     verified: false
-    hashtags: "#greatsingaporesale, #refasg, #bepartofxtra, #synagiekol"
-  - username: "sherbabes"
-    fullname: >-
-      Sheryl🌻
-    bio: >-
-      ✉️ sherbabes@hotmail.com
-    location: "Singapore"
-    followers: 16149
-    engagement: 189
-    commentsToLikes: 0.135895
-    id: ck6u2qex3tbuw0j71geskhi5c
-    verified: false
-    hashtags: "#watsonssg, #sofitelsingaporesentosa, #sp, #danielwellington"
-  - username: "921karenl"
-    fullname: >-
-      Karen Law 羅堃尉
-    bio: >-
-      📺 <美少女日本民宿> <美女廚房> 美女學徒 . Home Kong +852 HK : DM please 📍 SG : @basicmodels . Starbucks collector | 2nd Feb 2015 #茄雲愛夢遊 #karenstarbuckscollection
-    location: "Singapore"
-    followers: 32825
-    engagement: 253
-    commentsToLikes: 0.027645
-    id: ck5hdr1fiox7k0i11sz8hr6lx
-    verified: false
-    hashtags: "#themills, #instadaily, #leegarden3, #instahk"
-  - username: "aaronlin_monroe"
-    fullname: >-
-      a a r o n  | 凌
-    bio: >-
-      co-founder & md of @headquartors brand ambassador of @virginactivesg
-    location: "Singapore"
-    followers: 49145
-    engagement: 415
-    commentsToLikes: 0.008521
-    id: ck5zvf68r44bm0i14hnl35ocd
-    verified: false
-    hashtags: "#hmsingapore, #bluebellsg, #hm, #asicskltwintowers"
+    hashtags: "#sgfoodlover, #sgfood, #sgfooddiary, #sgfoodporn"
 ---

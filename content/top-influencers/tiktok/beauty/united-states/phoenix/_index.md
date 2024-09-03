@@ -1,11 +1,11 @@
 ---
-title: Top 10 Beauty TikTok Influencers In Phoenix In 2023
+title: Top 10 Beauty TikTok Influencers In Phoenix In 2024
 description: >-
-  Find top beauty TikTok influencers in Phoenix in 2023. Most popular hashtags: #beauty #fyp #vacation #comedy.
+  Find top beauty TikTok influencers in Phoenix in 2024. Most popular hashtags: #fyp #beauty #love #duet.
 platform: TikTok
-hits: 5
-text_top: Analyze the best TikTok profiles on inBeat.
-text_bottom: inBeat holds 5 TikTok influencers like this in Phoenix, United States for you to pitch.
+hits: 6
+text_top: See the best TikTok influencers on inBeat.
+text_bottom: inBeat has 6 TikTok influencers like this in Phoenix, United States for you to connect with.
 profiles:
   - username: "racecartruckers"
     fullname: >-
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.019513
     id: ckbfe4e1p7smb0j23cxo452zv
     verified: false
-    hashtags: "#hair, #hairtransformation, #hairtutorials, #curlyhair"
+    hashtags: "#hairtips, #hairtransformation, #curls, #hair"
   - username: "_silver_phoenix_"
     fullname: >-
       Silver Phoenix
@@ -42,7 +42,19 @@ profiles:
     commentsToLikes: 0.085109
     id: ck9107hpqgor80j78e2vlc4nj
     verified: false
-    hashtags: "#single, #wow, #mask, #motivation"
+    hashtags: "#vacation, #kids, #2020, #girl"
+  - username: "therollinggoddess"
+    fullname: >-
+      𝑨𝒏𝒈𝒆𝒍𝒂 𝑹𝒐𝒄𝒌𝒘𝒐𝒐𝒅
+    bio: >-
+      Hi!❤️IG⤴ Paralyzed but not broken DISABILITY•LIFE•MOTIVATION•EMPOWER
+    location: "United States"
+    followers: 11800
+    engagement: 1342
+    commentsToLikes: 0.135229
+    id: ckbff3x1c9i160j23ahvmvgj0
+    verified: false
+    hashtags: "#fyp, #style, #lifecoach, #cozyathome"
   - username: "littlewendizzle"
     fullname: >-
       LittleWendizzle
@@ -66,7 +78,7 @@ profiles:
     commentsToLikes: 0.068320
     id: ckbqnjll18cg30j23xix0qwcr
     verified: false
-    hashtags: "#canam, #atv, #mudding, #wheelies"
+    hashtags: "#mudding, #wheelies, #swamplife, #atv"
   - username: "beauty"
     fullname: >-
       beauty
@@ -90,7 +102,7 @@ profiles:
     commentsToLikes: 0.052231
     id: ckc91lm2fronk0j23uo0hgtbd
     verified: false
-    hashtags: "#blackfae, #chicagocheck, #cleargenius, #thesuicidesquadmovie"
+    hashtags: "#chicagocheck, #suicidesquad, #thesuicidesquadmovie, #cleargenius"
   - username: "lexisroc"
     fullname: >-
       ✨Alexis✨
@@ -102,7 +114,7 @@ profiles:
     commentsToLikes: 0.046760
     id: ckbbdo6pn2izp0j2342epu47j
     verified: false
-    hashtags: "#magickingdom, #luca, #callmebyyourname, #disneymovies"
+    hashtags: "#callmebyyourname, #disneypark, #disneymovie, #luca"
   - username: "priyankapahari3"
     fullname: >-
       🔥Prîyàñká🔥
@@ -115,16 +127,4 @@ profiles:
     id: ckb15qst8t0eq0j2352o68sgn
     verified: false
     hashtags: "#tiktok, #foryou, #duet, #tidelagaodaaghatao"
-  - username: "missyonmadison"
-    fullname: >-
-      missyonmadison
-    bio: >-
-      ✨Blogger + CEO✨ 💍Engaged || LA ⭐️Disney, Fashion, Beauty 💖IG @missyonmadison
-    location: "United States"
-    followers: 55500
-    engagement: 1026
-    commentsToLikes: 0.034864
-    id: ckbf00b54lem60j23l97kdan5
-    verified: false
-    hashtags: "#puppiesoftiktok, #bridetobe, #disneyworld, #vacation"
 ---

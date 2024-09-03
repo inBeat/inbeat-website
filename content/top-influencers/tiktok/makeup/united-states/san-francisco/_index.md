@@ -1,11 +1,11 @@
 ---
-title: Top 10 Makeup TikTok Influencers In San Francisco In 2023
+title: Top 10 Makeup TikTok Influencers In San Francisco In 2024
 description: >-
-  Find top makeup TikTok influencers in San Francisco in 2023. Most popular hashtags: #makeup #fyp #sanfrancisco #foryou.
+  Find top makeup TikTok influencers in San Francisco in 2024. Most popular hashtags: #fyp #makeup #sanfrancisco #foryou.
 platform: TikTok
-hits: 16
-text_top: See the best TikTok accounts on inBeat.
-text_bottom: Our platform has 16 TikTok influencers like this in San Francisco, United States for you to collaborate.
+hits: 18
+text_top: See the best TikTok influencers on inBeat.
+text_bottom: inBeat aggregates 18 TikTok influencers like this in San Francisco, United States for you to work with.
 profiles:
   - username: "yogirl_14"
     fullname: >-
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.025176
     id: ck9857ob2rfvd0j7859vsfbn9
     verified: false
-    hashtags: "#foryou, #diy, #style, #fashion"
+    hashtags: "#diy, #quarantine, #fashion, #couple"
   - username: "stylisto"
     fullname: >-
       Kyle Candler
@@ -78,7 +78,7 @@ profiles:
     commentsToLikes: 0.025899
     id: ck8vwbpxbnyws0j78fqiy90dc
     verified: false
-    hashtags: "#fyp, #goldenhour, #makeuptutorial, #makeup"
+    hashtags: "#makeuptutorial, #fyp, #goldenhour, #makeup"
   - username: "shanberries"
     fullname: >-
       Shan Berries
@@ -90,7 +90,7 @@ profiles:
     commentsToLikes: 0.054632
     id: ck9dwochnpuyu0j78kfzjezg9
     verified: false
-    hashtags: "#makeup, #foryou, #fyp, #cooking"
+    hashtags: "#makeup, #labradoodle, #foryoupage, #cooking"
   - username: "ericsin07"
     fullname: >-
       Eric Fuentes
@@ -115,16 +115,16 @@ profiles:
     id: ckb9mhl4lfscs0j238imcj0x7
     verified: false
     hashtags: "#dogs, #photography, #meetmypet, #doggy"
-  - username: "canyousignmyyearbook"
+  - username: "prince.of.stitches"
     fullname: >-
-      Kayla Freitas
+      Prince 
     bio: >-
-      ❤️ Please join me on inst & Youtube❤️ want to help support our content? ✨👇🏻✨
+      Etsy- Prince.of.stitches Amazon wish list linked
     location: "United States"
-    followers: 124200
-    engagement: 1485
-    commentsToLikes: 0.019627
-    id: ckbqwjn91gp070j23frmv0ccx
+    followers: 32100
+    engagement: 1814
+    commentsToLikes: 0.059002
+    id: ck8s4wdjpd6bg0j78wkh12hiz
     verified: false
-    hashtags: "#1940s, #morningcheer, #family, #oldyearbooks"
+    hashtags: "#pup, #skull, #leather, #art"
 ---

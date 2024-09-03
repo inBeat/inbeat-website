@@ -1,11 +1,11 @@
 ---
-title: Top 10 Mma Fighters TikTok Influencers In 2023
+title: Top 10 Mma Fighters TikTok Influencers In 2024
 description: >-
-  Find top mma fighters TikTok influencers in 2023. Most popular hashtags: #fyp #mma #boxing #foryou.
+  Find top mma fighters TikTok influencers in 2024. Most popular hashtags: #fyp #mma #boxing #foryou.
 platform: TikTok
 hits: 14
-text_top: See the top-rated TikTok influencers on inBeat.
-text_bottom: Our platform holds 14 TikTok influencers like this for you to contact.
+text_top: Analyze the most popular TikTok accounts on inBeat.
+text_bottom: Our search engine aggregates 14 TikTok influencers like this for you to work with.
 profiles:
   - username: "mmamyers"
     fullname: >-

@@ -1,36 +1,108 @@
 ---
-title: Top 10 Divers Instagram Influencers In Germany In 2023
+title: Top 10 Divers Instagram Influencers In Germany In 2024
 description: >-
-  Find top divers Instagram influencers in Germany in 2023. Most popular hashtags: #instagood #beautiful #nature #summer.
+  Find top divers Instagram influencers in Germany in 2024. Most popular hashtags: #sunset #vacation #nature #travelphotography.
 platform: Instagram
-hits: 199
-text_top: Identify the most popular Instagram accounts on inBeat.
-text_bottom: Our database holds 199 Instagram influencers like this in Germany for you to collaborate.
+hits: 241
+text_top: See the most popular Instagram influencers on inBeat.
+text_bottom: Our database holds 241 Instagram influencers like this in Germany for you to work with.
 profiles:
+  - username: "siebenkilopaket"
+    fullname: >-
+      Dani 🌈 Regenbogenfamilie
+    bio: >-
+      🌈 Zwei Mamas für zwei Jungs 💫 Diversität & Inklusion 💁🏻‍♀️ #LGBTQ Lifestyle 📍 HH 💌 info@siebenkilopaket.de 🍭 Mach dein #Familienleben bunter
+    location: "Germany"
+    followers: 12601
+    engagement: 474
+    commentsToLikes: 0.051368
+    id: ckox6ux44tl7w0j230s1y4qkm
+    verified: false
+    hashtags: "#lebenmitbehindertemkind, #familienalltag, #regenbogenfamilie, #pflegendeangeh"
+  - username: "the_zuckergoscherl"
+    fullname: >-
+      Mareike Fallwickl
+    bio: >-
+      schreibt / liest / spricht auf jedem Kanal und jeder Bühne über weibliche und diverse Erzählstimmen / arbeitet mit daran, the patriarchy zu smashen.
+    location: "Germany"
+    followers: 19922
+    engagement: 429
+    commentsToLikes: 0.021421
+    id: ck14hg9jva6gp0i198xabph92
+    verified: false
+    hashtags: "#travelling, #frauenlesen, #bookstagram, #lesen"
+  - username: "robertmarclehmann"
+    fullname: >-
+      Robert Marc Lehmann
+    bio: >-
+      🦈 Marine Biologist & Scientific Diver 🎥 Photographer & Filmmaker 🌿 Conservationist & Adventurer 💚 www.MissionErde.shop 📸 Canon Ambassador
+    location: "Germany"
+    followers: 425661
+    engagement: 896
+    commentsToLikes: 0.012977
+    id: ck8svyuz8d7kk0j78lvzfhmlk
+    verified: true
+    hashtags: "#stranding, #rescue, #southamerica, #schwertwal"
+  - username: "joana_alina"
+    fullname: >-
+      Joana Alina | Travel
+    bio: >-
+      📸 Photographer | Traveller | Diver 🌎 collecting moments around the world 📍 based in Hamburg, Germany
+    location: "Germany"
+    followers: 10806
+    engagement: 686
+    commentsToLikes: 0.067784
+    id: ckf5q0s0v7tqq0j23at11mqag
+    verified: false
+    hashtags: "#maldivesisland, #travelgram, #islasbaleares, #dhigurah"
+  - username: "herbertgroenemeyer"
+    fullname: >-
+      Herbert Grönemeyer
+    bio: >-
+      Für „40 Jahre -4630 Bochum“ Konzerte, „Das ist los“ Album, „Was Herbert hört“-Playlist und diverse Links, bitte hier entlang:
+    location: "Germany"
+    followers: 139192
+    engagement: 301
+    commentsToLikes: 0.045706
+    id: ck0w0cw5mdjxf0i1922l4ee7h
+    verified: true
+    hashtags: "#herbertgr, #gelsenkirchen, #herbertgroenemeyer, #live2024"
+  - username: "dasha_rush_official"
+    fullname: >-
+      Dasha Rush
+    bio: >-
+      Hyperactive & Neurotic, like science and art. Connecting sounds to diverse media.
+    location: "Germany"
+    followers: 52642
+    engagement: 243
+    commentsToLikes: 0.032894
+    id: ck0vyqrdw5by20i19qtunlqn9
+    verified: false
+    hashtags: "#dasharush, #ambient, #music, #alexguevara"
   - username: "kurvenrausch"
     fullname: >-
-      TANJA MARFO | PLUS SIZE SISTER
+      Tanja Marfo
     bio: >-
-      💥VERSTECKEN WAR GESTERN 💛CURVILICIOUS • MODEL 🧡 #Mindset #Beauty #Kaffee ✍🏻Autorin #SizeEgal 👩‍💼FOUNDER @diversity_fashion_days 📖 Workbook⬇️
+      Curves|Fashion|Weightloss|Selflove🦋 #sleeve Jan23 | - 67Kg Autorin @sizeegal.de & @diversity_fashion_days Talent @bitstreammedia 📍Hamburg
     location: "Germany"
-    followers: 44569
-    engagement: 119
-    commentsToLikes: 0.044958
+    followers: 81562
+    engagement: 180
+    commentsToLikes: 0.043725
     id: ck13bpo9xwkiw0i19ae5r0vyp
     verified: true
-    hashtags: "#happymoments, #umzug, #curvilicious, #mindset"
+    hashtags: "#magenverkleinerung, #changes, #schlauchmagen, #byebyepanzer"
   - username: "siegismund"
     fullname: >-
       Fabian Siegismund
     bio: >-
       ALLES HIER IST WERBUNG (finden diverse deutsche Gerichte). Impressum in meinem Youtube-Kanal:
     location: "Germany"
-    followers: 59776
-    engagement: 571
-    commentsToLikes: 0.012405
+    followers: 58981
+    engagement: 590
+    commentsToLikes: 0.011349
     id: ck0vx4wjbx5oa0i1956nv4fzk
     verified: true
-    hashtags: "#urlaub, #curacao, #teampixel, #kinder"
+    hashtags: "#urlaub, #curacao, #teampixel, #turtle"
   - username: "kris_on_the_road"
     fullname: >-
       Kristina
@@ -55,76 +127,4 @@ profiles:
     id: ckap4tfg98sq00i78pyub4ns0
     verified: false
     hashtags: "#gaymer, #gayguy, #gaymersww, #gaymersofinstagram"
-  - username: "saraychachay"
-    fullname: >-
-      Saray Chachay
-    bio: >-
-      •Just a girl born and raised in Costa Rica🦋 •Pilot, diver, biologist, model •Intent on not being in one place for too long! •Photography page:
-    location: "Germany"
-    followers: 29102
-    engagement: 271
-    commentsToLikes: 0.031679
-    id: ck55liqgq1o5y0i1170atwymc
-    verified: false
-    hashtags: "#colorbundlegiveaway, #girl, #model, #naturephotography"
-  - username: "mobile_spielecke_warendorf_"
-    fullname: >-
-      Mobile Spielecke 💞
-    bio: >-
-      💞Handmade Schmuckdesign besondere Ohrring Unikate mit diversen Details 📍Kontakt über PN & Email
-    location: "Germany"
-    followers: 7196
-    engagement: 494
-    commentsToLikes: 0.141307
-    id: ckaosns78sa140i78c4dgzp64
-    verified: false
-    hashtags: "#warendorf, #ko, #girl, #goldenearing"
-  - username: "125ccm_family"
-    fullname: >-
-      125ccm Family 🇩🇪
-    bio: >-
-      》 Folge @125ccmfamilie Wir bauen eine rein deutschsprachige aktive Community auf! 🇩🇪 Dort erwarten dich demnächst diverse hilfreiche Formate. 💪🏻
-    location: "Germany"
-    followers: 11959
-    engagement: 780
-    commentsToLikes: 0.021406
-    id: ck8taj2lyrz240j78wtk9gs0z
-    verified: false
-    hashtags: "#astrastattcorona, #125ccmfamily, #125ccm, #125ccmfamilie"
-  - username: "janinakugel"
-    fullname: >-
-      Janina Kugel
-    bio: >-
-      Woman and mother. Passion for leadership, education, diversity & inclusion and humans in general. Former CHRO. Love for sports and fashion.
-    location: "Germany"
-    followers: 7977
-    engagement: 736
-    commentsToLikes: 0.051592
-    id: ck5zs2fgkxp1e0i147lbx5oja
-    verified: true
-    hashtags: "#newnow, #hiking, #family, #summer"
-  - username: "r.bayer_photography"
-    fullname: >-
-      Raphael Bayer
-    bio: >-
-      🇩🇪 Germany | 28 🦈💙 Passionate Scuba Diver & Underwater Photographer 🌞⚡️Entrepreneur & Engineer for Management of Renewable Energy, M. Sc.
-    location: "Germany"
-    followers: 13292
-    engagement: 866
-    commentsToLikes: 0.011190
-    id: ck6tosh6tfuny0j71znr2nc64
-    verified: false
-    hashtags: "#underwaterlife, #duiken, #soviet, #colours"
-  - username: "bernardlooney_bp"
-    fullname: >-
-      Bernard Looney
-    bio: >-
-      👷 Proud @bp_plc employee, 🧠 diversity and mental health champion, 🛠 engineer, CEO. (For transparency: a team at bp help me)
-    location: "Germany"
-    followers: 11905
-    engagement: 562
-    commentsToLikes: 0.029051
-    id: ck6txwnbc0a7r0j71dnd8dwtv
-    verified: true
-    hashtags: "#throwbackthursday, #us, #energy, #bpnetzero"
 ---

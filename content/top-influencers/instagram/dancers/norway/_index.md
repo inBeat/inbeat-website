@@ -1,11 +1,11 @@
 ---
-title: Top 10 Dancers Instagram Influencers In Norway In 2023
+title: Top 10 Dancers Instagram Influencers In Norway In 2024
 description: >-
-  Find top dancers Instagram influencers in Norway in 2023. Most popular hashtags: #dancer #dancers #dance #oslo.
+  Find top dancers Instagram influencers in Norway in 2024. Most popular hashtags: #dancer #dance #oslo #love.
 platform: Instagram
-hits: 13
-text_top: Identify the top-rated Instagram influencers on inBeat.
-text_bottom: Our platform aggregates 13 Instagram influencers like this in Norway for you to work with.
+hits: 12
+text_top: See the top-rated Instagram accounts on inBeat.
+text_bottom: Our database aggregates 12 Instagram influencers like this in Norway for you to connect with.
 profiles:
   - username: "monaberntsen"
     fullname: >-
@@ -103,18 +103,6 @@ profiles:
     id: ck8t4gcpn6pfs0j78jnxwvyhp
     verified: false
     hashtags: "#male, #like, #ballet, #photo"
-  - username: "gaticadance"
-    fullname: >-
-      ＧＡＴＩＣＡ
-    bio: >-
-      Fᴇᴇʟ ɪᴛ - Bʀᴇᴀᴛʜᴇ ɪᴛ - Dᴀɴᴄᴇ ɪᴛ Teaching live and recorded online classes 👇🏼New live classes every Sunday
-    location: "Norway"
-    followers: 97759
-    engagement: 123
-    commentsToLikes: 0.052229
-    id: ck136a30l5hs80i19eybz6jwf
-    verified: false
-    hashtags: "#womenmovementbygatica, #sensuality, #reel, #bachatavibe"
   - username: "irlinradix"
     fullname: >-
       🦁 IRLIN 🌿 DANCER & LIFELOVER 🎉
@@ -127,4 +115,16 @@ profiles:
     id: ck5qa5ymzepqg0i11eaou99km
     verified: false
     hashtags: "#valentine, #home, #smile, #oslo"
+  - username: "malin_moeneeraas"
+    fullname: >-
+      Malin Moe Neeraas
+    bio: >-
+      👩🏽‍💻 @abel.health
+    location: "Norway"
+    followers: 5363
+    engagement: 684
+    commentsToLikes: 0.137505
+    id: ck14jdqpajtzf0i19bbujnyiv
+    verified: false
+    hashtags: "#norge, #bhfyp, #fit, #gym"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Runners Instagram Influencers In Argentina In 2023
+title: Top 10 Runners Instagram Influencers In Argentina In 2024
 description: >-
-  Find top runners Instagram influencers in Argentina in 2023. Most popular hashtags: #running #instarunners #run.
+  Find top runners Instagram influencers in Argentina in 2024. Most popular hashtags: #running #run #marathon #runner.
 platform: Instagram
-hits: 43
-text_top: Discover the top-rated Instagram influencers on inBeat.
-text_bottom: Our platform holds 43 Instagram influencers like this in Argentina for you to pitch.
+hits: 42
+text_top: Discover the most popular Instagram profiles on inBeat.
+text_bottom: inBeat has 42 Instagram influencers like this in Argentina for you to pitch.
 profiles:
   - username: "catubonadeo"
     fullname: >-
@@ -19,18 +19,6 @@ profiles:
     id: ck5zjbxd4hbhx0i141kuxpma7
     verified: true
     hashtags: "#forerunner645music, #healthylifestyle, #incansable, #refugiofrey"
-  - username: "micavazquezok"
-    fullname: >-
-      Mica Vazquez
-    bio: >-
-      Social Media @bullmediagroup Actriz - Conductora - Capitana adidas Runners 🇦🇷 y Maratonista x 2 😜🏃🏻‍♀️🏅
-    location: "Argentina"
-    followers: 1081545
-    engagement: 605
-    commentsToLikes: 0.004758
-    id: ck15pfz0mxold0i19i2s72bxi
-    verified: true
-    hashtags: "#adidasrunning, #readyforsport, #adidasrunnersbsas, #adidaswomen"
   - username: "gaucho.runner"
     fullname: >-
       Lucas Báez 🇦🇷
@@ -49,12 +37,12 @@ profiles:
     bio: >-
       ▫️Photographer & Content Creator. Runner. Chef. Traveler. Lover of sunset. Son of God. ✉ ema.blom@outlook.com.ar Cordobés #cordobaargentina 🇦🇷
     location: "Argentina"
-    followers: 20509
-    engagement: 473
-    commentsToLikes: 0.017425
+    followers: 21856
+    engagement: 438
+    commentsToLikes: 0.014598
     id: ckaoy84euged10i78cjgwynlf
     verified: false
-    hashtags: "#cordobaargentina, #nuevacordoba, #ciudaddecba, #guiaprofesional"
+    hashtags: "#cordobaargentina, #cordoba, #argentina, #cordobacapital"
   - username: "iloverunn"
     fullname: >-
       Iloverunn.com ™️ 🔵
@@ -103,6 +91,30 @@ profiles:
     id: ck8szpdrap8gg0j784ksiikl7
     verified: false
     hashtags: "#mujer, #woman, #worldrunners, #maraton"
+  - username: "andre_kerner_"
+    fullname: >-
+      Andre 🏃‍♀️🦋🇦🇷
+    bio: >-
+      Motivación, Actitud, Pasión 🔥100% @newbalance @mervicklab @prorun_plantillasdeportivas 🏆Maratones x 8 👊 SixMajor x 4 🏅 42,195 kms PB 3.42.56🔒o
+    location: "Argentina"
+    followers: 17366
+    engagement: 342
+    commentsToLikes: 0.133937
+    id: ck6tsqy756bzs0j71pk6xu3nn
+    verified: false
+    hashtags: "#motivaterunner, #runninglife, #runforlife, #streching"
+  - username: "yosoypelaez"
+    fullname: >-
+      Peláez
+    bio: >-
+      Conductor de @elgrancheffamosos.tv 🤩📺 Comparto BUENA VIBRA y #APasoGacela 🏃‍♂️👋 #GACELASPODCAST en YT 👇
+    location: "Argentina"
+    followers: 239120
+    engagement: 320
+    commentsToLikes: 0.028733
+    id: ckf5sq6qag2ra0j239ugulwnu
+    verified: false
+    hashtags: "#adidas, #instagramrunners, #gacelizada, #runnersofinstagram"
   - username: "agustinaalvarez"
     fullname: >-
       Agus Alvarez |ASICSFrontRunner
@@ -115,16 +127,4 @@ profiles:
     id: ck5hjhp34gney0i11vt37h637
     verified: false
     hashtags: "#running, #iloverunn, #run, #sunrisemind"
-  - username: "andre_kerner_"
-    fullname: >-
-      Andre 🏃‍♀️🦋
-    bio: >-
-      𝗦𝗶 𝗽𝘂𝗲𝗱𝗲𝘀 𝗦𝗢𝗡̃𝗔𝗥𝗟𝗢 𝗽𝘂𝗲𝗱𝗲𝘀 𝗛𝗔𝗖𝗘𝗥𝗟𝗢 Inspirar Motivar Contagiar 🏃‍♀️😃 ❤ 🏃‍♀️#maratonista 42,195 k PB 3.47 🔒 ⛰#trailrunning 💪#fitness 👊 #motivation
-    location: "Argentina"
-    followers: 7429
-    engagement: 1073
-    commentsToLikes: 0.120005
-    id: ck6tsqy756bzs0j71pk6xu3nn
-    verified: false
-    hashtags: "#mujeresquecorren, #runhappy, #positiva, #noche"
 ---

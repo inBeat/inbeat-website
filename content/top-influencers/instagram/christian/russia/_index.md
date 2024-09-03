@@ -1,12 +1,24 @@
 ---
-title: Top 10 Christian Instagram Influencers In Russia In 2023
+title: Top 10 Christian Instagram Influencers In Russia In 2024
 description: >-
-  Find top christian Instagram influencers in Russia in 2023. Most popular hashtags: #model #dubai2020 #wow.
+  Find top christian Instagram influencers in Russia in 2024. Most popular hashtags: #christianlouboutin #faberlic #faberlicinfluencer.
 platform: Instagram
-hits: 88
-text_top: Discover the best Instagram accounts on inBeat.
-text_bottom: inBeat has 88 Instagram influencers like this in Russia for you to work with.
+hits: 90
+text_top: Discover the top-rated Instagram influencers on inBeat.
+text_bottom: Our search engine has 90 Instagram influencers like this in Russia for you to pitch.
 profiles:
+  - username: "natalitsa"
+    fullname: >-
+      Gordienko Natalia
+    bio: >-
+      Singer,tv host,model and mum of a beautiful boy @christianciuhrii 💙 Management Kate +79636502073 Премьера Новой Песни #ЯСчастливая ⬇️⬇️⬇️
+    location: "Russia"
+    followers: 281825
+    engagement: 222
+    commentsToLikes: 0.019503
+    id: ck8t3dz0c2wl80j786e2ar7xj
+    verified: true
+    hashtags: "#eurovision2023, #summervibes, #gomoldova, #moldova"
   - username: "makarychevaar"
     fullname: >-
       𝗔𝗿𝗶𝗻𝗮 𝗠𝗮𝗸𝗮𝗿𝘆𝗰𝗵𝗲𝘃𝗮
@@ -103,28 +115,16 @@ profiles:
     id: ck0w3h02btcz80i19ge42qult
     verified: false
     hashtags: "#dubai2020, #orangemood, #madinatjumeirah, #hermes"
-  - username: "svetlanapustova"
+  - username: "serbian.orthodox"
     fullname: >-
-      Svetlana Pustova
+      SERBIAN ORTHODOX
     bio: >-
-      ✞ Russian / 📍Austin, TX ⇢ #quienmatoasara #netflix 🎬 ⇢ actress, youtuber, traveler ⇢ be brave and unique 🌻 ⇢ svetpustovalova@gmail.com
+      connecting people through faith.
     location: "Russia"
-    followers: 27931
-    engagement: 285
-    commentsToLikes: 0.030084
-    id: ck5cf1e04m4s00i11shzehwge
+    followers: 386373
+    engagement: 1328
+    commentsToLikes: 0.001883
+    id: ck14i9wfzecm80i19qogdifs3
     verified: false
-    hashtags: "#svetlana, #rusaenmexico, #model, #russianmodel"
-  - username: "karinchistyakova"
-    fullname: >-
-      Karin Chistyakova (18+)
-    bio: >-
-      Producer & Creative director Ex Vogue, Glamour & InStyle Russia ✶ В чем сила, брат? Dagestani 👁 Ally 🌱
-    location: "Russia"
-    followers: 10547
-    engagement: 827
-    commentsToLikes: 0.038312
-    id: ck0ty8kwclx6o0i19yrygkp22
-    verified: false
-    hashtags: "#ugg, #breannataylor, #christiancooper, #spiritday2020"
+    hashtags: "#pravoslavlje, #georgia, #faith, #vencanje"
 ---

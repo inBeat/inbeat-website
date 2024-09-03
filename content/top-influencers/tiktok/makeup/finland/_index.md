@@ -1,11 +1,11 @@
 ---
-title: Top 10 Makeup TikTok Influencers In Finland In 2023
+title: Top 10 Makeup TikTok Influencers In Finland In 2024
 description: >-
-  Find top makeup TikTok influencers in Finland in 2023. Most popular hashtags: #foryou #makeup #fyp #suomi.
+  Find top makeup TikTok influencers in Finland in 2024. Most popular hashtags: #foryou #makeup #fyp #suomi.
 platform: TikTok
-hits: 22
-text_top: Identify the most popular TikTok profiles on inBeat.
-text_bottom: Our search engine aggregates 22 TikTok influencers like this in Finland for you to work with.
+hits: 23
+text_top: Discover the top-rated TikTok accounts on inBeat.
+text_bottom: inBeat holds 23 TikTok influencers like this in Finland for you to work with.
 profiles:
   - username: "asoothesizzler"
     fullname: >-
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.015798
     id: cka0nxx3u1b560i78kuy5mfp6
     verified: false
-    hashtags: "#gothstyle, #rock, #spooky, #funny"
+    hashtags: "#gootti, #rock, #comedy, #alternative"
   - username: "floweryghost"
     fullname: >-
       🌸 floweryghost 🌸
@@ -54,7 +54,7 @@ profiles:
     commentsToLikes: 0.064548
     id: ck9rm6x3m1iti0j78a6kpfp4g
     verified: false
-    hashtags: "#veetimoment, #foryou, #foryoupage, #makeup"
+    hashtags: "#foryou, #makeup, #foryoupage, #veetimoment"
   - username: "jassuuus"
     fullname: >-
       Babygurl
@@ -90,7 +90,7 @@ profiles:
     commentsToLikes: 0.041730
     id: ck9r3mkekqkm00j78pyksfh4q
     verified: false
-    hashtags: "#bi, #suomitiktok, #suomi, #foryou"
+    hashtags: "#lgbtq, #bi, #suomitiktok, #foryou"
   - username: "mikaaneiolemahdotonta"
     fullname: >-
       🥰
@@ -115,16 +115,16 @@ profiles:
     id: ckbf5dsrvuhqj0j23pc6y9bdx
     verified: false
     hashtags: "#babyboy, #maldives, #baby2021, #pregnancy"
-  - username: "yourlocalabortionist"
+  - username: "ttinjaa"
     fullname: >-
-      sofia
+      Tinja Höglund
     bio: >-
-      
+      Collabs: tinja.hoglund@gmail.com 17/03🏳️‍🌈 Kuuntele mun biisit linkistä!😍👇🏻
     location: "Finland"
-    followers: 8883
-    engagement: 465
-    commentsToLikes: 0.055816
-    id: ckbks65gcmw990j23necbqv5a
+    followers: 56000
+    engagement: 1051
+    commentsToLikes: 0.017943
+    id: ckavonyukzjsl0j23ha67l4vy
     verified: false
-    hashtags: "#suomi, #fyp, #finland, #fry"
+    hashtags: "#finland, #hospital, #fyp, #foryou"
 ---

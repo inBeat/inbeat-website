@@ -1,11 +1,11 @@
 ---
-title: Top 10 Nail Artists TikTok Influencers In 2023
+title: Top 10 Nail Artists TikTok Influencers In 2024
 description: >-
-  Find top nail artists TikTok influencers in 2023. Most popular hashtags: #nails #nailart #fyp #pressonnails.
+  Find top nail artists TikTok influencers in 2024. Most popular hashtags: #nails #nailart #fyp #pressonnails.
 platform: TikTok
-hits: 243
-text_top: See the top-rated TikTok profiles on inBeat.
-text_bottom: Our platform has 243 TikTok influencers like this for you to collaborate.
+hits: 239
+text_top: Analyze the best TikTok influencers on inBeat.
+text_bottom: inBeat aggregates 239 TikTok influencers like this for you to work with.
 profiles:
   - username: "nailthoughts"
     fullname: >-
@@ -78,7 +78,7 @@ profiles:
     commentsToLikes: 0.013248
     id: ck8vshz1ddnla0j78p1xr9czv
     verified: false
-    hashtags: "#nailscheck, #nailart, #miriananailartist, #nailchallenge"
+    hashtags: "#nailblog, #nailtutorial, #nailart, #nailchallenge"
   - username: "zolotova96"
     fullname: >-
       Anastasiia Zolotova

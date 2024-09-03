@@ -1,11 +1,11 @@
 ---
-title: Top 10 Theater TikTok Influencers In 2023
+title: Top 10 Theater TikTok Influencers In 2024
 description: >-
-  Find top theater TikTok influencers in 2023. Most popular hashtags: #duet #fyp #foryou #foryoupage.
+  Find top theater TikTok influencers in 2024. Most popular hashtags: #duet #fyp #foryou #foryoupage.
 platform: TikTok
-hits: 1642
-text_top: Discover the most popular TikTok influencers on inBeat.
-text_bottom: Our database holds 1642 TikTok influencers like this for you to contact.
+hits: 2258
+text_top: See the best TikTok accounts on inBeat.
+text_bottom: Our database aggregates 2258 TikTok influencers like this for you to contact.
 profiles:
   - username: "matpatgt"
     fullname: >-
@@ -54,7 +54,7 @@ profiles:
     commentsToLikes: 0.028717
     id: ck9gq569u84yz0j78lligmji7
     verified: false
-    hashtags: "#offbroadway, #lgbt, #musicaltheater, #theaterkid"
+    hashtags: "#lgbtqai, #fup, #theater, #broadway"
   - username: "shaunlandry"
     fullname: >-
       Shaun Landry

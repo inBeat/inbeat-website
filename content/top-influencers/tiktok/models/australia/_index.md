@@ -1,11 +1,11 @@
 ---
-title: Top 10 Models TikTok Influencers In Australia In 2023
+title: Top 10 Models TikTok Influencers In Australia In 2024
 description: >-
-  Find top models TikTok influencers in Australia in 2023. Most popular hashtags: #fyp #foryou #foryoupage.
+  Find top models TikTok influencers in Australia in 2024. Most popular hashtags: #fyp #foryou #foryoupage.
 platform: TikTok
 hits: 113
-text_top: Identify the most popular TikTok influencers on inBeat.
-text_bottom: Our database holds 113 TikTok influencers like this in Australia for you to collaborate.
+text_top: Discover the best TikTok accounts on inBeat.
+text_bottom: Our search engine has 113 TikTok influencers like this in Australia for you to contact.
 profiles:
   - username: "harleyagsd"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.175877
     id: ck8tpd1hqpz7b0j78jmo3cha1
     verified: false
-    hashtags: "#foryou, #fyp, #gsd, #1video5photos"
+    hashtags: "#fyp, #gsd, #foryou, #arctic"
   - username: "harveypetito"
     fullname: >-
       Harvey Petito
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.017162
     id: ck8ae6fuja7n90j789i9qv37h
     verified: true
-    hashtags: "#stitch, #culturekings"
+    hashtags: "#culturekings, #stitch"
   - username: "issy_dawson.official"
     fullname: >-
       Issy Dawson ✨

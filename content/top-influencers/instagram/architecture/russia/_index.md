@@ -1,12 +1,60 @@
 ---
-title: Top 10 Architecture Instagram Influencers In Russia In 2023
+title: Top 10 Architecture Instagram Influencers In Russia In 2024
 description: >-
-  Find top architecture Instagram influencers in Russia in 2023. Most popular hashtags: #architecture #sketch #sovietarchitecture.
+  Find top architecture Instagram influencers in Russia in 2024. Most popular hashtags: #interiordesign #homedesign #livingroomdesign.
 platform: Instagram
-hits: 154
-text_top: See the most popular Instagram profiles on inBeat.
-text_bottom: Our search engine aggregates 154 Instagram influencers like this in Russia for you to connect with.
+hits: 156
+text_top: Analyze the top-rated Instagram influencers on inBeat.
+text_bottom: Our search engine holds 156 Instagram influencers like this in Russia for you to work with.
 profiles:
+  - username: "viktorkyslyi"
+    fullname: >-
+      Viktor Kyslyi Photographer Dubai • Retoucher • Обучение ретуши
+    bio: >-
+      📍NOW IN DUBAI 📸 ✍🏻КУРС РЕТУШИ @retouch.architecture 🚀01.07 📸КУРС СЪЕМКА @shooting.architecture 🚀01.06 📳ИНТЕНСИВ REELS 20.07🔥 ⬇️ЗАНЯТЬ МЕСТО⬇️
+    location: "Russia"
+    followers: 131691
+    engagement: 93
+    commentsToLikes: 0.013385
+    id: ck0ue2ulqkfcw0i19io389k8z
+    verified: false
+    hashtags: "#portraitretouch, #retoucher, #retouched, #beautyretoucher"
+  - username: "studia_54"
+    fullname: >-
+      DESIGN | ART | ARCHITECTURE
+    bio: >-
+      - Interior Design - Architecture - Construction work office in St. Petersburg - Dubai
+    location: "Russia"
+    followers: 1723281
+    engagement: 52
+    commentsToLikes: 0.007341
+    id: ck0tz6ce4p7f80i19n9c0zuwy
+    verified: false
+    hashtags: "#designideas, #interiordesign, #homedesign, #worldwidedesign"
+  - username: "hotwalls"
+    fullname: >-
+      Hot Walls®
+    bio: >-
+      Offices: Dubai • Moscow • Spain • Paris • World Wide Interior Design and Architecture
+    location: "Russia"
+    followers: 130326
+    engagement: 137
+    commentsToLikes: 0.008961
+    id: ck6ts860d3ajt0j7122vvca5a
+    verified: false
+    hashtags: "#coronarender, #interiordesign, #livingroomideas, #minimalism"
+  - username: "adrianamoyacr"
+    fullname: >-
+      A D R I A N A M O Y A
+    bio: >-
+      👑Miss Grand Costa Rica 2021 🇺🇳 Architecture-UN• 🌍 @talentmodelmgmt 🇨🇷 @id_mgmt
+    location: "Russia"
+    followers: 19144
+    engagement: 787
+    commentsToLikes: 0.046709
+    id: ck134l95cwz430i196cqv9pi6
+    verified: false
+    hashtags: "#mgi, #beautypageant, #missgrandinternational, #missgrand"
   - username: "kamillahanapova"
     fullname: >-
       Photographer
@@ -79,52 +127,4 @@ profiles:
     id: ck0tyw9qsobvw0i19ckudfq3h
     verified: false
     hashtags: "#artandarq, #tomsk, #sketchwalker, #archisketcher"
-  - username: "madebyvadim"
-    fullname: >-
-      Vadim Sherbakov
-    bio: >-
-      🎥 Award winning aerial videographer 📸 Architecture & cityscape photographer 🎞 Work featured in HBO • Netflix • Showtime • DJI • Irix • PolarPro New🎥⤵️
-    location: "Russia"
-    followers: 30324
-    engagement: 415
-    commentsToLikes: 0.034541
-    id: ck0u9obicacp20i19nbrq6x5o
-    verified: false
-    hashtags: "#landscape, #worldneedsmorespiralstaircases, #beautifuldestinations, #reflection"
-  - username: "kot_h"
-    fullname: >-
-      Konstantin
-    bio: >-
-      @brutalistbeton Living in Saint-Petersburg, Russia. Photos of brutalist and modernist architecture. #brutalism #socialistmodernism #architecture
-    location: "Russia"
-    followers: 9622
-    engagement: 853
-    commentsToLikes: 0.011728
-    id: ck0w1rtxmkte60i1966rb2mmi
-    verified: false
-    hashtags: "#spb, #peterburg, #socialistmodernism, #concretearchitecture"
-  - username: "aysyluuu"
-    fullname: >-
-      Айсылу Зарипова
-    bio: >-
-      ✏️artist and illustrator ✏️pencil | watercolor | ink pen ✏️student of architecture | KSUAE ✏️kazan | russia
-    location: "Russia"
-    followers: 40347
-    engagement: 459
-    commentsToLikes: 0.006338
-    id: ck6u7aamtkcq20j71fue94eqf
-    verified: false
-    hashtags: "#3dfedor, #3dsmax, #visualisation, #coronarender"
-  - username: "mox.design"
-    fullname: >-
-      Moxarchitects
-    bio: >-
-      Award-winning landscape architects offering an end-to-end architecture and construction landscaping service across Russia and abroad.
-    location: "Russia"
-    followers: 15507
-    engagement: 647
-    commentsToLikes: 0.010011
-    id: ck5zwneh16fn50i14chw34s12
-    verified: false
-    hashtags: "#madebymox"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Christian TikTok Influencers In Turkey In 2023
+title: Top 10 Christian TikTok Influencers In Turkey In 2024
 description: >-
-  Find top christian TikTok influencers in Turkey in 2023. Most popular hashtags: #ke #cristiano #foryou #fenerbah.
+  Find top christian TikTok influencers in Turkey in 2024. Most popular hashtags: #ke #cristiano #foryou #fenerbah.
 platform: TikTok
 hits: 8
-text_top: Discover the most popular TikTok influencers on inBeat.
-text_bottom: Our platform aggregates 8 TikTok influencers like this in Turkey for you to connect with.
+text_top: Identify the most popular TikTok influencers on inBeat.
+text_bottom: Our platform aggregates 8 TikTok influencers like this in Turkey for you to contact.
 profiles:
   - username: "zeboum_"
     fullname: >-

@@ -1,12 +1,108 @@
 ---
-title: Top 10 Instagram Influencers In Osaka In 2023
+title: Top 10 Instagram Influencers In Osaka In 2024
 description: >-
-  Find top Instagram influencers in Osaka in 2023. Most popular hashtags: #fishing #selfie #bike.
+  Find top Instagram influencers in Osaka in 2024. Most popular hashtags: #pr #ootd #tokyo.
 platform: Instagram
-hits: 483
-text_top: Discover the most popular Instagram profiles on inBeat.
-text_bottom: Our platform aggregates 483 Instagram influencers like this in Osaka, Japan for you to collaborate.
+hits: 515
+text_top: See the best Instagram influencers on inBeat.
+text_bottom: Our database aggregates 515 Instagram influencers like this in Osaka, Japan for you to contact.
 profiles:
+  - username: "amitwinsworld"
+    fullname: >-
+      𝐚𝐦𝐢 - 𝚏𝚞𝚖𝚒𝚊𝚖𝚒 -
+    bio: >-
+      ∇ Osaka | YouTube | 149cm | 女の子ママ ∇ Twins @fumitwinsworld ∇ Founder @jumelle_jp ∇ Family @se_ya0910 @as22_0817
+    location: "Japan"
+    followers: 140093
+    engagement: 452
+    commentsToLikes: 0.003006
+    id: ck9hau19ze4w70j78dcdvkzui
+    verified: false
+    hashtags: "#amitwinsworld, #stokke, #pr, #twins"
+  - username: "bloodywood"
+    fullname: >-
+      Bloodywood
+    bio: >-
+      @karankatiyar.in @jayant_bhadula @raoul.kerr | Nuremberg and Osaka JUNE 2023 TICKETS 👇
+    location: "Japan"
+    followers: 54969
+    engagement: 370
+    commentsToLikes: 0.022211
+    id: ck6tolhc0eqi80j71pqy11sek
+    verified: false
+    hashtags: "#edinburgh, #newdelhi, #debutalbum, #nuremberg"
+  - username: "non_la_non"
+    fullname: >-
+      のん𓅱 発酵食と季節の仕込みもの
+    bio: >-
+      Osaka,Japan #心はぐくむごはん #のん発酵と季節の仕込みものレシピ帖 🔹発酵食スペシャリスト🔹みそソムリエ 🔹腸育コンシェルジュ🔹クラシルクリエイター 📒発酵連載レシピはこちら↓
+    location: "Japan"
+    followers: 55699
+    engagement: 307
+    commentsToLikes: 0.023753
+    id: ck5hfjurcxtdb0i11ldlvi1qi
+    verified: false
+    hashtags: "#breakfast, #instafood, #igersjp, #wp"
+  - username: "sealbank"
+    fullname: >-
+      金セアル KIM SEAL 김새알
+    bio: >-
+      OSAKA⇆TOKYO ⇆SEOUL SEALBANK Communications INC. CEO 내 이름 ”새알”은 "새로운 것을 낳는 알" 라는 뜻. 私の名前セアルは、新しいことを生み出す卵という意味。
+    location: "Japan"
+    followers: 41897
+    engagement: 213
+    commentsToLikes: 0.010431
+    id: ck55m6is93bx60i11rgtz1w1s
+    verified: false
+    hashtags: "#diptyque, #pr, #bag, #sealinseoul"
+  - username: "mari_alwayshawaii"
+    fullname: >-
+      
+    bio: >-
+      Osaka city/27old fashion/cafe/travel/WoomyVipInfluencer 🌿🌿🌿 楽天ルームしてます⸜❤︎⸝‍
+    location: "Japan"
+    followers: 34184
+    engagement: 216
+    commentsToLikes: 0.005036
+    id: ckap3e9se2pix0i78zw0khw7o
+    verified: false
+    hashtags: "#baum, #urs, #gu, #pr"
+  - username: "___ponmk2___"
+    fullname: >-
+      𝐦𝐢𝐤𝐮𝐩𝐨𝐧 🌿
+    bio: >-
+      osaka ⇒ tokyo @okome0210 @chenedemaison_official ⁡▼ my link 🎧🪩♡
+    location: "Japan"
+    followers: 101817
+    engagement: 174
+    commentsToLikes: 0.001188
+    id: ckap6zjqri0wv0i78f7dlhahz
+    verified: false
+    hashtags: "#ootd, #code, #pic, #outfit"
+  - username: "ymmty30"
+    fullname: >-
+      yui
+    bio: >-
+      osaka⇔tokyo nailist/salon owner ♡ @sasayui_family 💅 @yui.su___ @su___.horie_ @su__.yoyogi @su___.shinmachi @woljoie_shop.su___ お仕事のご依頼はメールにお願いします✉️
+    location: "Japan"
+    followers: 214720
+    engagement: 151
+    commentsToLikes: 0.003032
+    id: ckf5rv205dyfe0j2390iptltg
+    verified: false
+    hashtags: "#douxarchives, #nostalgiajp, #leather, #newopen"
+  - username: "suzuno_sakon"
+    fullname: >-
+      Suzuno Sakon
+    bio: >-
+      '95 / osaka 165cm 🤍 お仕事DM返せません。 ご依頼はメールにてお願いいたします📧
+    location: "Japan"
+    followers: 170124
+    engagement: 130
+    commentsToLikes: 0.004958
+    id: ck55m6jc43bzs0i112burxwq3
+    verified: false
+    hashtags: "#kobelettuce, #rolex, #suzuno, #konacoffee"
   - username: "emilijaagate"
     fullname: >-
       Emīlija Agate Palina
@@ -31,100 +127,4 @@ profiles:
     id: ck9hb5mvofhkw0j78x7l8mym4
     verified: false
     hashtags: "#seabream, #fishing, #squidfishing, #jiggingfishing"
-  - username: "candy50s"
-    fullname: >-
-      Candy∮♪♦︎
-    bio: >-
-      ♦︎♦️♦︎∮Osaka Japan∮♦︎♦️♦︎ Fashion Coordinator Doll「Dragon Comi」Designer 料理研究家HMH所属 Candy Official Blog
-    location: "Japan"
-    followers: 20640
-    engagement: 2048
-    commentsToLikes: 0.039229
-    id: ckaotw24xxrbh0i78qs0ejjyv
-    verified: false
-    hashtags: "#billwallleather, #bikerfashion, #bike, #jeepjapan"
-  - username: "cc_junpei_"
-    fullname: >-
-      JUNPEI (羽柴 純平)【COLOR CREATION】
-    bio: >-
-      COLOR CREATION(カラークリエイション) ・JPN🇯🇵Osaka.Tokyo ・Singer ・06.09 ビデオ通話を通して僕と会話できるオンラインミーティングが開催中です👏 下のページからご予約出来るので俺と話したいなーって思ってくれたみんなは是非参加してみて下さい😎
-    location: "Japan"
-    followers: 6864
-    engagement: 1360
-    commentsToLikes: 0.114717
-    id: ck9wgn9vyu42o0j78qx97xqa1
-    verified: true
-    hashtags: "#tiktok, #shes, #chelmico, #novelbright"
-  - username: "a.asuka.a"
-    fullname: >-
-      asuka | Freelance Model
-    bio: >-
-      Osaka | Japan Beauty💄Fashion👗Travel🌍 155cmコーデ 撮影等お仕事依頼はDM💌にお願い致します💕
-    location: "Japan"
-    followers: 39010
-    engagement: 287
-    commentsToLikes: 0.059405
-    id: ck5hiace7cgwh0i11o7iuh993
-    verified: false
-    hashtags: "#kuih, #kuihst, #locari, #ac"
-  - username: "miyastagram__"
-    fullname: >-
-      MIYAKO
-    bio: >-
-      ♬Band : LOVEBITES (@lovebites_jp) 🎶Guitar and Piano player ♫Composer & Arranger ♬Japan Osaka→Tokyo #lovebites #miyako
-    location: "Japan"
-    followers: 20362
-    engagement: 1577
-    commentsToLikes: 0.024095
-    id: ck1346u9guzyd0i19p9fmi3qx
-    verified: false
-    hashtags: "#metal, #clockworkimmortality, #electricpentagram, #lovebites"
-  - username: "yutahirop1"
-    fullname: >-
-      yuyu
-    bio: >-
-      OSAKA🇯🇵JAPAN #関西フォトライダース （member） ★バイクと風景を切り取るフォトライダー 🏍油冷カタナ/水冷黒刀 📷Canon eos8000D/Fuji X30 #イチガン倶楽部 #ライダーポートレート 基本。フォローさせて頂いてる方以外のＤＭは見ませんっ🙇‍♂️
-    location: "Japan"
-    followers: 10658
-    engagement: 2121
-    commentsToLikes: 0.023185
-    id: ck6tov4ksg9y90j71dntznmk2
-    verified: false
-    hashtags: "#kadoyaleather, #ss, #motorcycle, #motorbike"
-  - username: "ami_kisaki"
-    fullname: >-
-      綺咲 あみ(杏海)💋 Kisaki Ami
-    bio: >-
-      OSAKA♥タレントモデル 📺KTV 真夜中市場 🌸撮影・モデル・TV出演 🌸MC.ナレーション❤ ଘ(੭*ˊᵕˋ)੭ ੈ✩ お仕事のご依頼・ご相談はDMにて🙏✉📬 ⚠️お仕事以外のDMは返信不可❌ ⏬楽天ルーム🛋
-    location: "Japan"
-    followers: 4805
-    engagement: 735
-    commentsToLikes: 0.166966
-    id: ck8sy2huxji6l0j78x6khcr5g
-    verified: false
-    hashtags: "#loft, #tiffany, #curry, #12"
-  - username: "_miuinoue_"
-    fullname: >-
-      海羽(みう)
-    bio: >-
-      2000 ｜ 20y ｜ fashion ｜ osaka tiktok m1uchan 基本dm返してまセン☀︎
-    location: "Japan"
-    followers: 52909
-    engagement: 756
-    commentsToLikes: 0.010886
-    id: ck0twcbzuev120i19iswb882f
-    verified: false
-    hashtags: "#fashion, #miucode, #coordinate, #selfie"
-  - username: "tsubasa.toshimizu"
-    fullname: >-
-      利水 つばさ toshimizu tsubasa
-    bio: >-
-      エージェント リンク所属⭐️ 👗 #𝕞𝕠𝕕𝕖𝕝 ⭐️ #𝕒𝕔𝕥𝕣𝕖𝕤𝕤 🎣 #釣りガール #taiwan 🇹🇼▷ #kobe ▷ #osaka ▷ #tokyo 🗼
-    location: "Japan"
-    followers: 27201
-    engagement: 1200
-    commentsToLikes: 0.012916
-    id: ckapazmsyy2ng0i78zetrkucd
-    verified: false
-    hashtags: "#shooting, #autumn, #ootd, #angler"
 ---

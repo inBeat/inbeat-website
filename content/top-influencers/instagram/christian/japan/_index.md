@@ -1,11 +1,11 @@
 ---
-title: Top 10 Christian Instagram Influencers In Japan In 2023
+title: Top 10 Christian Instagram Influencers In Japan In 2024
 description: >-
-  Find top christian Instagram influencers in Japan in 2023. Most popular hashtags: #ootd #pr #zara.
+  Find top christian Instagram influencers in Japan in 2024. Most popular hashtags: #christianlouboutin #pr #ootd.
 platform: Instagram
-hits: 62
-text_top: Identify the most popular Instagram influencers on inBeat.
-text_bottom: Our search engine aggregates 62 Instagram influencers like this in Japan for you to work with.
+hits: 72
+text_top: Identify the best Instagram accounts on inBeat.
+text_bottom: Our platform has 72 Instagram influencers like this in Japan for you to collaborate.
 profiles:
   - username: "wimpievdwalt"
     fullname: >-
@@ -43,18 +43,6 @@ profiles:
     id: ck13b5op6tsxv0i19lr7w8iq9
     verified: false
     hashtags: ""
-  - username: "aqua"
-    fullname: >-
-      Aqua Parios
-    bio: >-
-      African American/Japanese 🇯🇵 Model/Actress NYC Bookings: G.Barone@w360management.com @pencilsofpromise Ambassador @revolve ambassador
-    location: "Japan"
-    followers: 118950
-    engagement: 82
-    commentsToLikes: 0.023565
-    id: ck0u67ry815fs0i197271fjjg
-    verified: false
-    hashtags: "#aliceandolivia, #christiancowan, #glam, #nyfw"
   - username: "roland_0fficial"
     fullname: >-
       【ROLAND】ローランド
@@ -67,64 +55,76 @@ profiles:
     id: ck6ttsydkcfap0j710gkir9lf
     verified: true
     hashtags: "#christianroland, #youtube, #roland, #drive"
-  - username: "eri_t28"
+  - username: "riisa1018naka"
     fullname: >-
-      Eri Takakura   高倉 絵理
+      仲里依紗 RIISA NAKA
     bio: >-
-      TRAVEL / BEAUTY / FASHION / GOURMET 1977 / 北海道→東京 BYRON @byron_t28 FiNCアンバサダー @finc_app
+      長生きしたい ❤️🧡💛💚💙💜 🌈洋服屋🌈@re._oyoufukuyasan_ ⭐️YouTube⭐️仲里依紗です。 👇RE.通販サイトリンク👇
     location: "Japan"
-    followers: 181412
-    engagement: 140
-    commentsToLikes: 0.038776
-    id: ck6ugl5kf3obs0j71ffwwh3t3
-    verified: false
-    hashtags: "#hermes, #40, #malibuhotel, #shoes"
-  - username: "an.naomi"
+    followers: 3463084
+    engagement: 318
+    commentsToLikes: 0.002066
+    id: ck0w5z7gg652x0i19xys23gpp
+    verified: true
+    hashtags: "#diordesignerofdreams, #dior, #netflix, #lvxyayoikusama"
+  - username: "aoiyamada0624"
     fullname: >-
-      an.naomi
+      アオイヤマダ(Aoi Yamada)
     bio: >-
-      NAOMI 🄻🄾🅅🄴 🅕🅐🅢🅗🅘🅞🅝🖤 🅒🅞🅞🅚🅘🅝🅖 🖤 🅒🅞🅢🅜🅔 🖤 𝓟𝓡🖤𝔀𝓻𝓲𝓽𝓮𝓻🖤 鳥取 岡山 大阪 東京🖤 𝟛児のママです•*¨*•.¸¸♪ ﻿ フォロー&いいねありがとございます♡﻿ ◼️お仕事依頼はDMへお願いいたします
+      Artist 🍱OBENTO @obentonooto 🫚Curry @currynooto 🔴 #TOKYOQQQ (tokyo thankyou) 🥕　#YASAIDANCE #野菜ダンス Hadoo📩Infoaoiyamada@gmail.com
     location: "Japan"
-    followers: 77561
-    engagement: 100
-    commentsToLikes: 0.058321
-    id: ck5q2ioudg7ke0i11wkeshybz
+    followers: 120586
+    engagement: 292
+    commentsToLikes: 0.005039
+    id: ck0vv7248ntxn0i19en2o72zz
     verified: false
-    hashtags: "#outfit, #cica, #photo, #nomonday"
-  - username: "airigramxx"
+    hashtags: "#nylonmagazine, #wassai, #obentonote, #nylon"
+  - username: "taotsuchiya_official"
     fullname: >-
-      Airi
+      土屋太鳳
     bio: >-
-      JPN⚑︎⚐︎ hyogo→osaka26age ➤➤ #trip /#fashion /#make 🕊🕊 ▫️▫️ 𝒇𝒓𝒆𝒆 𝒍𝒂𝒏𝒄𝒆 𝒎𝒐𝒅𝒆𝒍 ▫️▫️ 撮影.お仕事依頼はDMまでお願いします✉
+      ■映画「マッチング」主演 2024年公開 ■Netflix「今際の国のアリス」シーズン1、2配信中 ■Netflix「今際の国のアリス」シーズン3制作決定！
     location: "Japan"
-    followers: 46887
-    engagement: 355
-    commentsToLikes: 0.022841
-    id: ck8tc22gly0830j78japxctix
-    verified: false
-    hashtags: "#ootd, #chanel, #shorttrip, #funtotrip"
-  - username: "aimin_official"
+    followers: 2958729
+    engagement: 285
+    commentsToLikes: 0.004827
+    id: ck0w31ermr5740i19na0pph03
+    verified: true
+    hashtags: "#teamred, #red, #aliceinborderland3, #netflixjp"
+  - username: "hiroakikato39"
     fullname: >-
-      愛美
+      Hiroaki Kato #SatuHati
     bio: >-
-      #AIMI（1991/12/25） #VoiceActress / #Singer / #aimoriginal/#Youtuber/#158cm
+      Japanese singer/talent/actor in Indonesia🎙 Fanbase @superhiros_official CP: @arasuuu Please check my latest single!↓
     location: "Japan"
-    followers: 194317
-    engagement: 858
-    commentsToLikes: 0.004325
-    id: ck8t345nw1s990j78zb2yybz0
-    verified: false
-    hashtags: "#zara, #dholic, #r4g, #aimoriginal"
-  - username: "seeeeiiiiraaaa"
+    followers: 76807
+    engagement: 198
+    commentsToLikes: 0.023016
+    id: ck0w46v1yx44m0i19d8u0aq45
+    verified: true
+    hashtags: "#hiroakikato, #jepang, #singer, #goplay"
+  - username: "___ponmk2___"
     fullname: >-
-      岩崎静羅 美容/プチプラコーデ/ゴルフ/旅行
+      𝐦𝐢𝐤𝐮𝐩𝐨𝐧 🌿
     bio: >-
-      **宮古島大使に就任しました** 155cm Sサイズモデル WEB広告に多数出演中 *Me+ Producer* @nugu__official 宅地建物取引士,フードアナリスト パーソナルカラーアドバイザーなど ⛳️BEST: 🔴78 ⚪️86
+      osaka ⇒ tokyo @okome0210 @chenedemaison_official ⁡▼ my link 🎧🪩♡
     location: "Japan"
-    followers: 27042
-    engagement: 306
-    commentsToLikes: 0.036424
-    id: ckf5uukuome850j23xokhvqy8
+    followers: 101817
+    engagement: 174
+    commentsToLikes: 0.001188
+    id: ckap6zjqri0wv0i78f7dlhahz
     verified: false
-    hashtags: "#jimmychoo, #golfwear, #155cm, #grl"
+    hashtags: "#ootd, #code, #pic, #outfit"
+  - username: "mys_nanami"
+    fullname: >-
+      Nanami
+    bio: >-
+      📍Tokyo MA @bazooka_mgmt info@bazookamgmt.com Freelance PR casting / Social media marketer nanami1111offi@gmail.com
+    location: "Japan"
+    followers: 17157
+    engagement: 163
+    commentsToLikes: 0.007794
+    id: ck13b3uphtjeg0i19y3d734vm
+    verified: false
+    hashtags: "#ootd, #jeanpaulgaultier, #collinastradaxdesigual, #giftedbyceline"
 ---

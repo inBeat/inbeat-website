@@ -1,11 +1,11 @@
 ---
-title: Top 10 Outdoors Instagram Influencers In Colombia In 2023
+title: Top 10 Outdoors Instagram Influencers In Colombia In 2024
 description: >-
-  Find top outdoors Instagram influencers in Colombia in 2023. Most popular hashtags: #colombia #outdoors #travel #picoftheday.
+  Find top outdoors Instagram influencers in Colombia in 2024. Most popular hashtags: #colombia #picoftheday #outdoors #nature.
 platform: Instagram
 hits: 21
-text_top: See the top-rated Instagram accounts on inBeat.
-text_bottom: Our platform holds 21 Instagram influencers like this in Colombia for you to work with.
+text_top: See the top-rated Instagram influencers on inBeat.
+text_bottom: Our search engine aggregates 21 Instagram influencers like this in Colombia for you to connect with.
 profiles:
   - username: "locombia"
     fullname: >-
@@ -43,18 +43,6 @@ profiles:
     id: ck8svreu0cf850j78ppu4394m
     verified: false
     hashtags: "#somosuno, #libertad, #skydive, #kitesurf"
-  - username: "charlie_salinas"
-    fullname: >-
-      🇧🇴Charlie Salinas🇺🇲
-    bio: >-
-      Captura Momentos|Comparte La Vida📷 BienvenidoMundo🌎 @GoPro Family😎 @HuaweiMobileBo Embajador📱 Positivismo Ante Todo🤙🏼 👨🏻‍💻Contacto✉️ @michelleaaranda
-    location: "Colombia"
-    followers: 34167
-    engagement: 282
-    commentsToLikes: 0.023939
-    id: ck6ucvdybhou00j71wxnsxsnn
-    verified: false
-    hashtags: "#travel, #love, #instagood, #goproambassador"
   - username: "stefschreier"
     fullname: >-
       Stefan Schreier
@@ -71,14 +59,26 @@ profiles:
     fullname: >-
       J Berbeo | 🎒Travel + Lifestyle
     bio: >-
-      👔 Quit my Fortune500 job to travel the 🌍 💻✏️ Digital nomad | Nómada digital ☕ 📖 Coffee + Book addict 👇🏼¡Tengo un blog! Anímense
+      👔 Quit my Fortune500 job to travel the 🌍 ☕ 📖 🌱Coffee, books and eco addict ♻️ 💪🏼Sustainable travel & healthy lifestyle 👣 Trying to make an impact
     location: "Colombia"
-    followers: 26128
-    engagement: 1448
-    commentsToLikes: 0.016070
+    followers: 42407
+    engagement: 786
+    commentsToLikes: 0.007597
     id: ckaoxnh5de00g0i78xoctnhoc
     verified: false
-    hashtags: "#pursuitofportrait, #tropicalparadise, #reiseblogger, #allaboutadventures"
+    hashtags: "#earthfocus, #naturelovers, #menandcoffee, #hellofrom"
+  - username: "acardonat"
+    fullname: >-
+      Andrés Cardona T
+    bio: >-
+      Yo propongo. Ustedes disponen. 🤵🏻‍♂️Luxury Wedding & Event Planning | RRPP | Lifestyle @casadenoviasbaq @cdn.eventos 🌎 Colombia
+    location: "Colombia"
+    followers: 16450
+    engagement: 291
+    commentsToLikes: 0.038072
+    id: ck5hrz5tivqb20i117nmc1vbd
+    verified: false
+    hashtags: "#weddingdecor, #weddingplanner, #luxuryweddingcolombia, #luxurywedding"
   - username: "twowheelzrider"
     fullname: >-
       David Restrepo 🌍🚴🏻‍♂️💨
@@ -91,18 +91,6 @@ profiles:
     id: ck6uelkc7rndy0j71vg37n6zz
     verified: false
     hashtags: "#mtb, #epicevo, #unicycle, #thisisgoingtobeepic"
-  - username: "acardonat"
-    fullname: >-
-      Andrés Cardona T
-    bio: >-
-      Yo propongo. Ustedes disponen. 🤵🏻‍♂️Luxury Wedding & Event Planning | RRPP | Lifestyle @casadenoviasbaq @cdn.eventos 🌎 Colombia
-    location: "Colombia"
-    followers: 9507
-    engagement: 418
-    commentsToLikes: 0.035417
-    id: ck5hrz5tivqb20i117nmc1vbd
-    verified: false
-    hashtags: "#weddingplanner, #weddingplannercolombia, #luxuryweddingcolombia, #bodasdelujo"
   - username: "elcompagotzy"
     fullname: >-
       🦖
@@ -127,4 +115,16 @@ profiles:
     id: ckap6u5yqhd950i78w728uazu
     verified: false
     hashtags: "#mysantorini, #greeksummer, #bogotacolombia, #thira"
+  - username: "caro_sure"
+    fullname: >-
+      Carolina Segura
+    bio: >-
+      |La Cumbre es tan solo la mitad del camino| 📍Garzón • Huila • Colombia 🇨🇴
+    location: "Colombia"
+    followers: 6985
+    engagement: 961
+    commentsToLikes: 0.043640
+    id: ck8t816v5iqei0j78wgea2590
+    verified: false
+    hashtags: "#runner, #mountainclimbing, #allyouneedislove, #family"
 ---

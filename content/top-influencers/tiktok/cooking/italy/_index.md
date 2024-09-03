@@ -1,11 +1,11 @@
 ---
-title: Top 10 Cooking TikTok Influencers In Italy In 2023
+title: Top 10 Cooking TikTok Influencers In Italy In 2024
 description: >-
-  Find top cooking TikTok influencers in Italy in 2023. Most popular hashtags: #cooking #foryou #food #foodie.
+  Find top cooking TikTok influencers in Italy in 2024. Most popular hashtags: #cooking #foryou #food #foodie.
 platform: TikTok
 hits: 61
-text_top: Identify the top-rated TikTok profiles on inBeat.
-text_bottom: Our platform aggregates 61 TikTok influencers like this in Italy for you to connect with.
+text_top: Analyze the most popular TikTok influencers on inBeat.
+text_bottom: inBeat has 61 TikTok influencers like this in Italy for you to pitch.
 profiles:
   - username: "roccobuffone"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.009841
     id: ck92xosu1zjd70j78jp5i3r6t
     verified: false
-    hashtags: "#like, #italia, #delicious, #ita"
+    hashtags: "#viral, #italia, #foodies, #delicious"
   - username: "fra.mess"
     fullname: >-
       Fra.mess
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.026976
     id: ck9k5y1q1ymx40j78k010rfya
     verified: false
-    hashtags: "#italianfood, #cookigvideo, #tastyfood, #risotto"
+    hashtags: "#pasta, #ravioli, #foodie, #homecooking"
   - username: "itz_bikram85"
     fullname: >-
       Bikramjit 
@@ -90,7 +90,7 @@ profiles:
     commentsToLikes: 0.008626
     id: ck9du530iezqq0j78clvjkl0p
     verified: true
-    hashtags: "#imparacontiktok, #recipe, #tricks, #cooking"
+    hashtags: "#sweet, #food, #chef, #imparacontiktok"
   - username: "fionashealth"
     fullname: >-
       Fiona Gray

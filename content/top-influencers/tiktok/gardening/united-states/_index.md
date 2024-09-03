@@ -1,11 +1,11 @@
 ---
-title: Top 10 Gardening TikTok Influencers In United States In 2023
+title: Top 10 Gardening TikTok Influencers In United States In 2024
 description: >-
-  Find top gardening TikTok influencers in United States in 2023. Most popular hashtags: #gardening #fyp #plants #garden.
+  Find top gardening TikTok influencers in United States in 2024. Most popular hashtags: #gardening #fyp #plants #garden.
 platform: TikTok
-hits: 566
-text_top: See the top-rated TikTok influencers on inBeat.
-text_bottom: Our platform aggregates 566 TikTok influencers like this in United States for you to work with.
+hits: 572
+text_top: Identify the most popular TikTok profiles on inBeat.
+text_bottom: Our search engine aggregates 572 TikTok influencers like this in United States for you to work with.
 profiles:
   - username: "growingthroughtheweeds"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.309111
     id: ckc8xfm28lcen0j23p1lup6zq
     verified: false
-    hashtags: "#gardening, #garden, #summer, #growfoodnow"
+    hashtags: "#growfoodnow, #gardening, #vacation, #garden"
   - username: "wholesomeroots"
     fullname: >-
       WholesomeRoots
@@ -37,12 +37,12 @@ profiles:
     bio: >-
       🪴Steph🪴 cottagecore gardening and travel ‼️Taxidermist‼️ Insta: nirian_vigora
     location: "United States"
-    followers: 3683
-    engagement: 2029
-    commentsToLikes: 0.034276
+    followers: 3804
+    engagement: 2044
+    commentsToLikes: 0.029445
     id: ckb10ql6ep92k0j2385rk4qy2
     verified: false
-    hashtags: "#frogtiktok, #plants, #frog, #lgbt"
+    hashtags: "#cottagecore, #lgbt, #frog, #frogtiktok"
   - username: "levelupirl"
     fullname: >-
       levelupirl
@@ -102,7 +102,7 @@ profiles:
     commentsToLikes: 0.018940
     id: ck95z2qyycphe0j78ctyuczdr
     verified: false
-    hashtags: "#gardenproject, #gardening101, #gardening, #gardener"
+    hashtags: "#fyp, #vegan, #harvest, #gardener"
   - username: "woodlandcravings"
     fullname: >-
       Woodland Cravings

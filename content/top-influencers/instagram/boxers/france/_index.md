@@ -1,24 +1,36 @@
 ---
-title: Top 10 Boxers Instagram Influencers In France In 2023
+title: Top 10 Boxers Instagram Influencers In France In 2024
 description: >-
-  Find top boxers Instagram influencers in France in 2023. Most popular hashtags: #boxing #fight #boxe.
+  Find top boxers Instagram influencers in France in 2024. Most popular hashtags: #boxing #training #fight.
 platform: Instagram
-hits: 66
-text_top: Analyze the top-rated Instagram accounts on inBeat.
-text_bottom: Our search engine has 66 Instagram influencers like this in France for you to connect with.
+hits: 65
+text_top: Identify the top-rated Instagram profiles on inBeat.
+text_bottom: Our platform has 65 Instagram influencers like this in France for you to pitch.
 profiles:
-  - username: "wilsonvarela.off"
+  - username: "ninacherryoff"
     fullname: >-
-      Wilson Varela
+      Thanina mahiou
     bio: >-
-      Kick-boxer / MMA fighter and content creator - Partenaire @sport2000plandecampagne -10% - @elgatoFRA - MANAGEMENT @managementfactory
+      🥊 French champion Boxer & Boxing&Fitness Personal Trainer 🎥 TikTok 1,5 Mil Founder & Owner @theadofficiel CEO @efoildubai & @wakesurfdubai
     location: "France"
-    followers: 112141
-    engagement: 459
-    commentsToLikes: 0.009725
-    id: ck9wgba8csnpe0j786x214dw5
+    followers: 177048
+    engagement: 810
+    commentsToLikes: 0.011841
+    id: ck14il5q5fyg00i192iqrftz8
     verified: false
-    hashtags: "#vamos, #nubai, #vamoscomtudo, #gladiator"
+    hashtags: "#oldmoneyaesthetic, #outfitideas, #dubaimommyblogger, #ootd"
+  - username: "simon.adde"
+    fullname: >-
+      Simon Adde-Ngijol
+    bio: >-
+      🥊 ABO light heavyweight 👑 ✈️ Paris ➡️ LA Pro boxer Model with @williamsagency @lamodelsmen Sponsors : @spvie.assurances
+    location: "France"
+    followers: 19837
+    engagement: 159
+    commentsToLikes: 0.022685
+    id: ck5c2v2cuy1on0i11y59l86zk
+    verified: false
+    hashtags: "#training, #france, #boxing, #losangeles"
   - username: "icejetaime"
     fullname: >-
       ice | boxer dog in Paris
@@ -115,16 +127,4 @@ profiles:
     id: ck6tyibsv3waa0j71wzr8cwnq
     verified: true
     hashtags: "#champions, #boxer, #france, #family"
-  - username: "edwige_ahonto"
-    fullname: >-
-      Edwige
-    bio: >-
-      @nike Trainer Coach @lecercleboxing Athletic model @sportmodelsparis Cross Training || Boxe || MMA 🇹🇬 🇧🇪
-    location: "France"
-    followers: 3369
-    engagement: 1896
-    commentsToLikes: 0.126224
-    id: ck6udhog7l68f0j71fgmgb0n4
-    verified: false
-    hashtags: "#hiit, #nike, #athletics, #fitfrenchies"
 ---

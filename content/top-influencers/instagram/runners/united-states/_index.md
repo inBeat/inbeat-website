@@ -1,130 +1,130 @@
 ---
-title: Top 10 Runners Instagram Influencers In United States In 2023
+title: Top 10 Runners Instagram Influencers In United States In 2024
 description: >-
-  Find top runners Instagram influencers in United States in 2023. Most popular hashtags: #trailrunning #fashion #runner.
+  Find top runners Instagram influencers in United States in 2024. Most popular hashtags: #marathontraining #running #runnergirl.
 platform: Instagram
-hits: 1323
-text_top: Identify the most popular Instagram accounts on inBeat.
-text_bottom: inBeat aggregates 1323 Instagram influencers like this in United States for you to contact.
+hits: 1505
+text_top: Discover the most popular Instagram accounts on inBeat.
+text_bottom: Our platform holds 1505 Instagram influencers like this in United States for you to collaborate.
 profiles:
-  - username: "jonalbon"
+  - username: "funfitnessfam"
     fullname: >-
-      Jonathan Albon
+      Darla Slade
     bio: >-
-      Runner
+      NJ>FL>MD🗺Travel Addict•Fitness Instructor Runner•Former Disney•ADHD Mom•Plant-Based 🌱 Email to collab⬇️
     location: "United States"
-    followers: 23234
-    engagement: 370
-    commentsToLikes: 0.008799
-    id: ck1398ub1k3h70i19mezqsoxx
+    followers: 19073
+    engagement: 561
+    commentsToLikes: 0.076917
+    id: cl7zcllo4zik00i23vxwcv5vm
     verified: false
-    hashtags: "#skyrunning, #trailrunning, #obstaclecourseracing, #onthisday"
-  - username: "runmeb"
+    hashtags: "#mdinfocus, #newport, #familymovienight, #momlife"
+  - username: "kat_shultis"
     fullname: >-
-      Meb Keflezighi
+      Kathryn Shultis
     bio: >-
-      Boston Marathon Champion NYC Marathon Champion Olympic Silver Medalist Runner
+      •author, runner, & wife to @caseyshultis14 💍 • @kathrynsdaily 💪🏼🏃‍♀️
     location: "United States"
-    followers: 121595
-    engagement: 110
-    commentsToLikes: 0.014903
-    id: ck135pf092kqw0i19i7ellh3i
-    verified: true
-    hashtags: "#worldsfastest5k, #medalmonday, #carlsbad5000, #runtowin"
-  - username: "jaclynmisch"
-    fullname: >-
-      𝐉𝐀𝐂𝐋𝐘𝐍 𝐌𝐈𝐒𝐂𝐇
-    bio: >-
-      Wine Educator🍷 @napavalleywineacademy Culinary Inst. Master’s in Wine🔜DipWSET CBS Survivor29 runner-up🌴 #RoadtoBabyMisch 🌈#MRKH | IVF | Surrogacy
-    location: "United States"
-    followers: 57707
-    engagement: 837
-    commentsToLikes: 0.373606
-    id: ck135i1eu1j390i19iujfadya
+    followers: 76084
+    engagement: 682
+    commentsToLikes: 0.010709
+    id: ckqu7spfo12po0j23iz7jwomr
     verified: false
-    hashtags: "#ad, #roadtobabymisch, #12daysofchrismisch, #mrkh"
-  - username: "dj_raiden_"
+    hashtags: "#slacking, #cleaning, #cleaningmotivation, #morningroutine"
+  - username: "katierunsthings"
     fullname: >-
-      Raiden
+      Katie | Miles & Motherhood 🏃‍♀️
     bio: >-
-      "RUNNER" out now
+      Sharing my journey from #DeliverytoDopey 🤱💎 Mama | Runner | Dreamer | Motivator Marathon x1 | Dopey DNF '23 💌 Katierunsthings@gmail.com
     location: "United States"
-    followers: 229543
-    engagement: 2374
-    commentsToLikes: 0.029193
-    id: ck5zss8bbz3f20i141b7hg3k3
-    verified: true
-    hashtags: "#runner, #t1win, #raiden, #baekhyun"
-  - username: "nicolabechynova"
-    fullname: >-
-      NIKOLA BECHYŇOVÁ
-    bio: >-
-      ✨Model|Traveler|Mom👶🏼🤍Wife to be💍 ✨3rd runner-upMiss Global'16 ✨2nd runner-upMissCzechRepublic’15 @beautycornerbyniky 🎀
-    location: "United States"
-    followers: 71580
-    engagement: 254
-    commentsToLikes: 0.007812
-    id: ck55lnn6g1zzh0i11d78fmga6
+    followers: 9089
+    engagement: 620
+    commentsToLikes: 0.058478
+    id: ckap200pzwsov0i784m9erqk4
     verified: false
-    hashtags: "#samuel, #follow, #czechgirls, #zara"
-  - username: "thereal_traveler"
+    hashtags: "#runnerlife, #inspiringwomenrunners, #winterrunning, #philadelphiamarathon"
+  - username: "em_durgin"
     fullname: >-
-      𝓒𝓪𝓻𝓸𝓵 𝓝𝓸𝓿𝓲
+      EMILY DURGIN
     bio: >-
-      🌎 Empowering women through travel 🙋‍♀️ 🇮🇩 Runner|Traveler|The Blues 💙 ✈️ 21 Countries 📍 Bali #carolnovitrip
+      Professional Runner for @adidasrunning /// Former UCONN Husky 17’ 🐾 ||🄼🄰🄸🄽🄴🅁||
     location: "United States"
-    followers: 11158
-    engagement: 978
-    commentsToLikes: 0.087790
-    id: ckap5p3eqckb80i78e69veq13
+    followers: 26627
+    engagement: 495
+    commentsToLikes: 0.013467
+    id: ck5bvpar8k48j0i11v2g12i85
     verified: false
-    hashtags: "#takemeback, #boracay, #followme"
-  - username: "the_lucky_woman_"
+    hashtags: "#toronto, #maine, #marathon, #running"
+  - username: "aprils_hr"
     fullname: >-
-      E l i s a🍀
+      April Simpkins
     bio: >-
-      🏃🏽‍♀️ Runner and handstand lover 🤸🏽‍♀️ 📸 Are taken by my husband ❣️ 💪🏼 Mom of two 👬 🏁 10k 36’28”• 21k 1h 20’58”• 42k 🔜 👟 Asics Frontrunner Spain 🇪🇸
+      Mental Health Advocate. Mom of 6, wife, runner, encourager, and follower of Christ’s teachings.❤️ Inquiries: Assistant@AprilSimpkins.com
     location: "United States"
-    followers: 132501
-    engagement: 496
-    commentsToLikes: 0.038765
-    id: ck0u2nigi0hft0i19v7mpmiwj
+    followers: 24185
+    engagement: 553
+    commentsToLikes: 0.066575
+    id: cl4kuhwksstk20i23z5lddcjc
     verified: false
-    hashtags: "#outdoorwoman, #halfmarathoner, #megustacorrer, #soundbodysoundmind"
-  - username: "isabella_radovan"
+    hashtags: "#chesliekryst, #iloveyou, #mentalhealthawareness, #esa"
+  - username: "isabelseidel"
     fullname: >-
-      Isabella Radovan
+      Izzy seidel
     bio: >-
-      • Owner: @shopsayge • Sports Reporter 🎥 • 1st runner up Miss Texas USA • 1 Peter 5:7 • Texas A&M Alum
+      Average runner with above average outfits 📍nyc @sadgirltrackclub team captain 🦝 💖 hello.izzyseidel@gmail.com More chaotic on TikTok @izzyinthecity_
     location: "United States"
-    followers: 6984
-    engagement: 1058
-    commentsToLikes: 0.106733
-    id: ck5zsbcf2y6el0i143za2i7a8
+    followers: 24310
+    engagement: 556
+    commentsToLikes: 0.008385
+    id: cl00uqpk65ub40i23b0jy0d34
     verified: false
-    hashtags: "#hairstyles, #womensfashion, #photoshoot, #spring"
-  - username: "pinkironlady"
+    hashtags: "#running, #nyc, #nycstreetstyle, #onrunning"
+  - username: "keiradamato"
     fullname: >-
-      💖Shelley💖
+      Keira D'Amato
     bio: >-
-      3 X IRONMAN 🏃🏼‍♀️ 8 X IRONMAN 70.3🚴🏻‍♀️ IM70.3 WorldChampionships, France🌟 Masters Swimmer 🏊🏻‍♀️ Marathon Runner 🏃🏼‍♀️ 💓LOVES PINK & 👙 💓
+      Pro Runner for @nike + @flynnsports Fueled by @genucan One time, I broke the Marathon American Record: 2:19:12 …and another time, the Half: 66:39
     location: "United States"
-    followers: 9155
-    engagement: 913
-    commentsToLikes: 0.050239
-    id: ck6u6qndbh5rf0j71ty2dlh9t
+    followers: 80464
+    engagement: 585
+    commentsToLikes: 0.025614
+    id: ckmw1i3ls8awe0j238e7gc51z
     verified: false
-    hashtags: "#fitnessgirl, #instarunner, #bikinifitness, #swim"
-  - username: "anna.the.runner"
+    hashtags: "#olympicmarathontrials, #olympicmarathon, #goteamusa, #teamnike"
+  - username: "aliontherun1"
     fullname: >-
-      Anna H
+      Ali Feller — Ali on the Run
     bio: >-
-      Runner 🏃🏻‍♀️ ‘Glorious Nutter’ (thanks @BryonyGordon ❤️) Seeking adventure 🌎 Hooman to @sprocker.spaniel.ralph 💙 🐾
+      🎙 Host, Ali on the Run Show podcast 🎤 Race announcer 🏃🏼‍♀️ Runner with Crohn's disease 👧🏼 Annie 🐶 Ellie
     location: "United States"
-    followers: 15179
-    engagement: 1111
-    commentsToLikes: 0.037002
-    id: ck5ca5v7gcr9b0i11cmtgemhr
+    followers: 74336
+    engagement: 1034
+    commentsToLikes: 0.017088
+    id: ck5zstqgyz67d0i146gon93mq
     verified: false
-    hashtags: "#trailrunning, #ramsayround, #intothethickofit, #quarantinetoqualifer"
+    hashtags: ""
+  - username: "turnurr"
+    fullname: >-
+      Matt Turner
+    bio: >-
+      🎨 I make things ✨ Building @PlantBasedLoft 🔑 Second Runner-Up @BigBrotherCBS
+    location: "United States"
+    followers: 287616
+    engagement: 1189
+    commentsToLikes: 0.009863
+    id: clbew5goh0y2e0j088tm88bgl
+    verified: false
+    hashtags: "#interiordesign, #mcm, #diy, #woodworking"
+  - username: "reneeenoe"
+    fullname: >-
+      Reneé Maudlena Noe
+    bio: >-
+      model, runner, wife & follower of Christ ♡ CA / UT @noebadvibes @wilhelminamodels usa @churchofjesuschrist 🇦🇲/🇸🇪
+    location: "United States"
+    followers: 276903
+    engagement: 1254
+    commentsToLikes: 0.016205
+    id: clb1yb2vl1ryf0i237esci2jz
+    verified: false
+    hashtags: "#hokaflyrun, #hokapartner, #dovepartner, #doveselfesteemproject"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Golfers TikTok Influencers In United Kingdom In 2023
+title: Top 10 Golfers TikTok Influencers In United Kingdom In 2024
 description: >-
-  Find top golfers TikTok influencers in United Kingdom in 2023. Most popular hashtags: #golf #fyp #golfer #foryou.
+  Find top golfers TikTok influencers in United Kingdom in 2024. Most popular hashtags: #golf #fyp #golfer #foryou.
 platform: TikTok
 hits: 13
-text_top: Identify the top-rated TikTok profiles on inBeat.
-text_bottom: Our database has 13 TikTok influencers like this in United Kingdom for you to collaborate.
+text_top: See the top-rated TikTok accounts on inBeat.
+text_bottom: Our database holds 13 TikTok influencers like this in United Kingdom for you to work with.
 profiles:
   - username: "alexelwick"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.032610
     id: ck9f9rm7x85280j783alkac9p
     verified: false
-    hashtags: "#fypgolf, #golftok, #fyp, #golfer"
+    hashtags: "#usafyp, #foryoupage, #golf, #golfer"
   - username: "canyoumakeapar"
     fullname: >-
       canyoumakeapar
@@ -90,7 +90,7 @@ profiles:
     commentsToLikes: 0.011476
     id: ckaifnjs5xoq80i78xqe24zch
     verified: false
-    hashtags: "#relatable, #foryou, #uk, #lol"
+    hashtags: "#uk, #relatable, #foryou, #ukcomedy"
   - username: "olipetrides"
     fullname: >-
       Oli Petrides

@@ -1,11 +1,11 @@
 ---
-title: Top 10 TikTok Influencers In Jakarta In 2023
+title: Top 10 TikTok Influencers In Jakarta In 2024
 description: >-
-  Find top TikTok influencers in Jakarta in 2023. Most popular hashtags: #fyp #foryoupage #duet #foryou.
+  Find top TikTok influencers in Jakarta in 2024. Most popular hashtags: #fyp #foryoupage #duet #foryou.
 platform: TikTok
 hits: 103
-text_top: See the most popular TikTok influencers on inBeat.
-text_bottom: inBeat has 103 TikTok influencers like this in Jakarta, Indonesia for you to contact.
+text_top: Discover the top-rated TikTok accounts on inBeat.
+text_bottom: Our search engine aggregates 103 TikTok influencers like this in Jakarta, Indonesia for you to work with.
 profiles:
   - username: "imho_deep"
     fullname: >-

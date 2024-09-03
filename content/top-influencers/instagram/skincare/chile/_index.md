@@ -1,72 +1,96 @@
 ---
-title: Top 10 Skincare Instagram Influencers In Chile In 2023
+title: Top 10 Skincare Instagram Influencers In Chile In 2024
 description: >-
-  Find top skincare Instagram influencers in Chile in 2023. Most popular hashtags: #makeup #skincare #beauty.
+  Find top skincare Instagram influencers in Chile in 2024. Most popular hashtags: #maquillaje #chile #probandoproductos.
 platform: Instagram
-hits: 41
-text_top: Discover the top-rated Instagram accounts on inBeat.
-text_bottom: Our platform holds 41 Instagram influencers like this in Chile for you to work with.
+hits: 53
+text_top: Identify the top-rated Instagram accounts on inBeat.
+text_bottom: Our database aggregates 53 Instagram influencers like this in Chile for you to connect with.
 profiles:
-  - username: "valemiaaaaau"
-    fullname: >-
-      Valentina Leni 💕
-    bio: >-
-      Cosmetologa, MUA & Beauty blogger 🇨🇱 Maquillaje/ Skincare/ Cabello/ Reseñas💘 Psicologa y mamá de Vicente👩‍👦 valentina.leni@live.com 💌 Stgo, Chile📍
-    location: "Chile"
-    followers: 23799
-    engagement: 427
-    commentsToLikes: 0.401485
-    id: ck1382qs7e85m0i19qjp0c1lo
-    verified: false
-    hashtags: "#benebabe, #bloggerchilena, #influencerchilena, #muachilena"
-  - username: "geekandchic"
-    fullname: >-
-      Geek and chic
-    bio: >-
-      Angélica angelica@Geekandchic.cl Estudiante cosmetología Tecnología,skincare #kbeauty maquillaje GEEKANDCHIC® #geekandchic Podcast @revolucionskincare
-    location: "Chile"
-    followers: 43155
-    engagement: 393
-    commentsToLikes: 0.053994
-    id: ck5znzy6rphct0i14gyknirp3
-    verified: false
-    hashtags: "#onthespot, #applewatchs6, #revolucionskincare, #rutinacoreana"
-  - username: "valerialunacs"
-    fullname: >-
-      Valeria Luna
-    bio: >-
-      “La Guía Para la Vida de las Amikas” ya en librerías✨ #ConLaAyudaDeMisAmikas #AlCineConLasAmikas #SkincareParaPrincipiantes y más!
-    location: "Chile"
-    followers: 50437
-    engagement: 867
-    commentsToLikes: 0.031574
-    id: ck15so06xdykx0i193ne9b4ig
-    verified: false
-    hashtags: "#colaboracioneucerin, #liderbelleza"
-  - username: "mrslana.banana"
-    fullname: >-
-      ✿ C a t a ✿ Makeup Artist
-    bio: >-
-      📍SCL • 💋 Makeup Artist • lashes by @_perezocils Reseñas ☆ Tutoriales ☆ Makeup 🧖🏻‍♀️Skincare ♡ t a g s: #reviewithcat #lookbycat #skincarebycat
-    location: "Chile"
-    followers: 8117
-    engagement: 478
-    commentsToLikes: 0.173046
-    id: ck8t9yqalpu4g0j78h1nok7j2
-    verified: false
-    hashtags: "#makeupchile, #makeupchilean, #makeupinspo, #bluemakeuplook"
   - username: "eluniverso.defran"
     fullname: >-
-      ☆ FRAN ☆
+      FRANCISCA TAPIA P.
     bio: >-
-      YouTuber #beauty #skincare #vlogs 🇨🇱 ↳ ElUniversodeFRAN | Fran y Chris CEO @manevi.cl 🔮 👇🏻CÓMO COMPRAR AL EXTRANJERO?👇🏻
+      Bonito día! Aquí amamos las risas 💖 y te enseño sobre makeup, skincare, uñas y mi vida en 🇪🇸 🔮 @eluniversodefran.tarot // 🎁 @lovingbox.cl 🇨🇱
     location: "Chile"
-    followers: 47054
-    engagement: 937
-    commentsToLikes: 0.031828
+    followers: 77768
+    engagement: 541
+    commentsToLikes: 0.021131
     id: ck15uhpufn8vk0i190wuu7ja5
     verified: false
-    hashtags: "#rarebeauty, #selenagomez, #glowyskin, #makeupnomakeup"
+    hashtags: "#barbie, #makeupbarbie, #sheglam, #probandoproductos"
+  - username: "danielisima__"
+    fullname: >-
+      Dani 🌱 Cruelty Free Beauty & LifeLovers ♡
+    bio: >-
+      Hola✌🏻 Me gusta tomar fotos y Te Muestro mí Día Random en Historias✨️ Comparto👇🏻 MakeUp • SkinCare • Datos • Naturaleza & + 📍Punta Arenas | Chile.
+    location: "Chile"
+    followers: 6814
+    engagement: 328
+    commentsToLikes: 0.380146
+    id: ck6uc7208dwbx0j71o8zhoau5
+    verified: false
+    hashtags: "#skincareroutine, #crueltyfree, #crueltyfreebeauty, #glammakeup"
+  - username: "cata.slanyon"
+    fullname: >-
+      C a t a • MakeupArtist 💖
+    bio: >-
+      🇨🇱 | contenido de maquillaje, moda, skincare y tips! 💋Makeup Artist - Cotiza en @dearbeauty.cl 🩷códigos de dcto dbs y fashionspark ⬇️
+    location: "Chile"
+    followers: 8080
+    engagement: 246
+    commentsToLikes: 0.110265
+    id: ck8t9yqalpu4g0j78h1nok7j2
+    verified: false
+    hashtags: "#maquillajechile, #maquilladorachile, #chilemakeup, #influencerchile"
+  - username: "barby_hdez"
+    fullname: >-
+      Bárbara 🖤TIPS Y DATOS
+    bio: >-
+      🌎|Chile FAMILIA•OOTD•SKINCARE•MATERNIDAD•DECO• LIFESTYLE•MAKE UP y + de todo un poco para nosotras y los peques Código20%dcto corona.cl 👉🏻barbyhdez
+    location: "Chile"
+    followers: 56973
+    engagement: 132
+    commentsToLikes: 0.081527
+    id: ck5pvh1l3hudz0i11gmys6lkl
+    verified: false
+    hashtags: "#familia, #outfit, #datos, #tips"
+  - username: "geekandchic"
+    fullname: >-
+      Angelica Figueroa
+    bio: >-
+      Cosmetologa/Diseñadora angelica@geekandchic.cl • Aprende a cuidar tu piel #skincare #kbeauty • Podcast @revolucionskincare • Datos y tips #tech #geek
+    location: "Chile"
+    followers: 52512
+    engagement: 80
+    commentsToLikes: 0.079898
+    id: ck5znzy6rphct0i14gyknirp3
+    verified: false
+    hashtags: "#kbeauty, #kdrama, #geekandchic, #dermocosmeticos"
+  - username: "manecitasilva"
+    fullname: >-
+      Mane Silva Fernández
+    bio: >-
+      Soy la amiga que siempre quisiste tener. Humor, makeup, skincare, datos Espontánea x naturaleza 🤪 Comunicadora🎙Maquilladora💋 Colaboraciones mail
+    location: "Chile"
+    followers: 46998
+    engagement: 79
+    commentsToLikes: 0.329988
+    id: clpfe0jwlj6ep0k08t0n63iiz
+    verified: false
+    hashtags: "#chile, #probandoproductos, #probandohueas, #manesilvamakeup"
+  - username: "mmayte_rodriguez"
+    fullname: >-
+      Mayte Rodriguez
+    bio: >-
+      Actriz. Life makes no mistakes. COVA @cova_cl SkinCare @auramay.cl 🇨🇱 @versusmanagement 🇦🇷 @chekkabuenosaires
+    location: "Chile"
+    followers: 1032041
+    engagement: 60
+    commentsToLikes: 0.010263
+    id: ck135qrwt2rxi0i19t3ds1kgd
+    verified: true
+    hashtags: "#dogma, #mineral89probioticfractions, #probioticos, #micasamisreglas"
   - username: "marianna.gl"
     fullname: >-
       MariannaGL
@@ -79,52 +103,28 @@ profiles:
     id: ck5can51odq970i11yyuee6no
     verified: false
     hashtags: "#fiat500, #oto, #osquad, #cleanbody"
-  - username: "nicoledegiorgis"
+  - username: "jesudelahorra.estudio"
     fullname: >-
-      ➖Nico DGR➖Maquillaje➖Peinados➖
+      Jesu De la Horra ♡
     bio: >-
-      • #BeautyTips • #SkinCare • #Mamadesanti • #Godfirst • #Novias • #MyLife •🇨🇱 Para información de clases automaquillaje y reservar horas Whatssapp👇🏻
+      Psicóloga, Maquilladora y Asesora de Imagen Contenido de skincare, maquillaje, moda y de todo lo que ayude a fomentar el autocuidado y amorpropio♡
     location: "Chile"
-    followers: 102084
-    engagement: 225
-    commentsToLikes: 0.056836
-    id: ck5ccpgzehrwe0i1157acfpqw
+    followers: 29085
+    engagement: 451
+    commentsToLikes: 0.112063
+    id: ck5hs6ro7w3300i11v75ign7u
     verified: false
-    hashtags: "#ndgmakeupstudioscl, #mua, #santiselmandegiorgis, #love"
-  - username: "leslie.fredes"
+    hashtags: "#tipjesu, #tipsdebelleza, #maquillajechile, #moda2021"
+  - username: "dianellacoppo"
     fullname: >-
-      𝑳𝒆𝒔𝒍𝒊𝒆 𝑭𝒓𝒆𝒅𝒆𝒔 ❀
+      diane🤍
     bio: >-
-      ➵ Stgo, Chile 🇨🇱 Ser genuinos es el camino para encontrar nuestra felicidad ♥️✨
+      🎥 Humor, Lifestyle & more 📩 dianellacontacto@gmail.com ✨ Tiktok: dianecoppo +460K 🐕 Mi perrita se llama Gigi
     location: "Chile"
-    followers: 162184
-    engagement: 234
-    commentsToLikes: 0.036638
-    id: ck15ucqhwmimn0i19jmkfeel1
+    followers: 109838
+    engagement: 1478
+    commentsToLikes: 0.013061
+    id: clpfe0d7vj1pa0k08lllss4es
     verified: false
-    hashtags: "#likeforlikes, #loveyourself, #girl, #reels"
-  - username: "breakeven18"
-    fullname: >-
-      Fran Yañez 🎀
-    bio: >-
-      Lifestyle & Beauty Lover 💄 Kiki & Coco 🐥♥️🐥 EN Translator & Interpreter / Mktg
-    location: "Chile"
-    followers: 3744
-    engagement: 626
-    commentsToLikes: 0.076044
-    id: ckapazph3y2yt0i787gakuarg
-    verified: false
-    hashtags: "#makeup, #beauty, #colorfulmakeup, #makeupartist"
-  - username: "estiloemily"
-    fullname: >-
-      EMILY PÉREZ
-    bio: >-
-      Soy periodista y hablo de beauty Piel mixta a grasa + acné ✉️ hello@estiloemily.com 📍 Santiago, Chile Podcast La Hora Beauty 👇🏻
-    location: "Chile"
-    followers: 38270
-    engagement: 157
-    commentsToLikes: 0.155389
-    id: ckap54v3da7lp0i78jnf2xgur
-    verified: false
-    hashtags: "#narschile, #lahorabeauty, #lifestyle, #beauty"
+    hashtags: "#humor, #trend, #frases, #comedia"
 ---

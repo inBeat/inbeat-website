@@ -1,48 +1,108 @@
 ---
-title: Top 10 Athletes Instagram Influencers In Malaysia In 2023
+title: Top 10 Athletes Instagram Influencers In Malaysia In 2024
 description: >-
-  Find top athletes Instagram influencers in Malaysia in 2023. Most popular hashtags: #malaysia #athlete #fitness #champion.
+  Find top athletes Instagram influencers in Malaysia in 2024. Most popular hashtags: #malaysia #love #throwback #fitness.
 platform: Instagram
-hits: 11
-text_top: See the top-rated Instagram profiles on inBeat.
-text_bottom: Our search engine holds 11 Instagram influencers like this in Malaysia for you to connect with.
+hits: 17
+text_top: Discover the best Instagram profiles on inBeat.
+text_bottom: inBeat has 17 Instagram influencers like this in Malaysia for you to pitch.
 profiles:
+  - username: "krystonyang"
+    fullname: >-
+      Kryston 温杨
+    bio: >-
+      📍KL 00’s @goxuan Radio Announcer🎤 【GOXUAN三局三连冠】10am-1pm Host｜Dancer｜Singer｜Actor｜Athlete @te3n.official @pumasportstyle 📮: jacee.dreamax@gmail.com
+    location: "Malaysia"
+    followers: 35766
+    engagement: 877
+    commentsToLikes: 0.023744
+    id: clm70amw1ghd30j08ew9f2r4h
+    verified: false
+    hashtags: "#guy, #goxuan, #challenge, #drama"
+  - username: "adligoldenboy"
+    fullname: >-
+      Adli Goldenboy
+    bio: >-
+      PROFESSIONAL BOXER 🇲🇾 WBC,WBA ASIA, UBO WORLD 🥊 🏆 SEA GAMES MEDALIST 🥈 COACH @goldenboxingclub2023_ Athlete @underarmoursoutheastasia @polarmalaysia
+    location: "Malaysia"
+    followers: 43027
+    engagement: 815
+    commentsToLikes: 0.013807
+    id: ck5q3jm14l1p30i11z5ppw3z6
+    verified: false
+    hashtags: "#agh, #underarmourmy, #champ, #fnc"
+  - username: "peterhughdavis"
+    fullname: >-
+      🇲🇾 Pistol Pete 🇬🇧
+    bio: >-
+      👨‍🏫Actor 🎤 Emcee 🤸Athlete 🤜MMA/BJJ 🚴‍♂️Road700c "🍜 Plant Based" 👇 @fuel.tjc YouTube👇
+    location: "Malaysia"
+    followers: 43916
+    engagement: 497
+    commentsToLikes: 0.088342
+    id: ck134fmy3w77o0i194nv4in5z
+    verified: true
+    hashtags: "#backtowork, #girocycling, #suuntomalaysia, #xyzbca"
+  - username: "gohsoonhuat"
+    fullname: >-
+      Goh Soon Huat
+    bio: >-
+      Athlete🇲🇾 •Professional XD 🏸 player Partner @shevonlai For collab - mkt@thecover.asia •Sea games ✌️🥈 🇩🇪 open 🥇 🇸🇬 open 🥇 • highest🆙 world rank ~6
+    location: "Malaysia"
+    followers: 51115
+    engagement: 560
+    commentsToLikes: 0.010342
+    id: ck14i3g0ldg6m0i19s10zfrm7
+    verified: false
+    hashtags: "#hangzhouchina, #gohsoonhuat, #phitenbracelet, #allthebest"
+  - username: "welsonsim"
+    fullname: >-
+      Welson Sim
+    bio: >-
+      National swimmer 🏊🏼‍♂️🇲🇾 2 x Olympian 🇧🇷🇯🇵 Milo, Usana Athlete 🏆 For collabs: mkt@thecover.asia 📩
+    location: "Malaysia"
+    followers: 244924
+    engagement: 810
+    commentsToLikes: 0.202937
+    id: ck5cj3p8ztwz30i110n9ce7dw
+    verified: true
+    hashtags: "#leavenomarksbehind, #seikomy, #seikomalaysia, #prospex"
+  - username: "muhaizarmohamad"
+    fullname: >-
+      Muhaizar Mohamad
+    bio: >-
+      • 🇲🇾Athlete • FM 2:26:21 HM 1:10:34 10KM 32:40 5KM 15:50 •🥉SG17🥉SG19 • PCOTD/21GGK • @asicsmalaysia @garminmalaysia @sportsaddict.my @jomrun.official
+    location: "Malaysia"
+    followers: 25665
+    engagement: 335
+    commentsToLikes: 0.016553
+    id: ck55o208n7gzd0i11ph6rya45
+    verified: false
+    hashtags: "#kitajagakita, #asicsmetatimetrialsmalaysia, #pusatcemerlangolahragatd, #asicsmalaysia"
   - username: "dennisyin"
     fullname: >-
       Dennis Yin
     bio: >-
       LIVE.LOVE.LIFE @catx.global Chief Brand Officer 🚀 @malayaapeclub 🦧 @houseofchampionsmy Owner 🏋🏻‍♂️ @adidas Creator 👟 @myproteinmy Athlete 💪🏼
     location: "Malaysia"
-    followers: 102777
-    engagement: 184
-    commentsToLikes: 0.012610
+    followers: 102364
+    engagement: 131
+    commentsToLikes: 0.014390
     id: ck5hnu5uvoec30i117cztpcwm
     verified: true
-    hashtags: "#tastethegoodtimes, #celebrateresponsibly, #connorsmy, #newstartahead"
-  - username: "kirtanraj"
+    hashtags: "#btgmy, #battlegroundmalaysia, #celcomdigi, #widest"
+  - username: "thierrychanthabin"
     fullname: >-
-      Kirtanraj 💀
+      Thierry Chantha Bin
     bio: >-
-      Creating Something ⚡️ @myproteinmy athlete // fitness & lifestyle // kindness TikTok : kirtanrajfitness Online coaching / YouTube / MyProtein 👇🏽
+      Professional footballer 🇰🇭⚔️🔵 Impossible is nothing🙏 @athlete_trainoff🛡️⚽ @katesutherlnd 👶👶👸❤
     location: "Malaysia"
-    followers: 29648
-    engagement: 921
-    commentsToLikes: 0.012064
-    id: ck6u83d2kp76j0j71cpuan8ab
-    verified: false
-    hashtags: "#tiktok, #km4l, #fitness, #fatloss"
-  - username: "peterhughdavis"
-    fullname: >-
-      🇲🇾 Pistol Pete 🇬🇧
-    bio: >-
-      ♥ Athlete 🤸‍♂️ Unemployed Actor 😜 MMA/BJJ 👊 Ride 🚴‍♂️ Fuel ⛽ Lifestyle 🛀 Travel ✈️ Pescatarian 🍜 ⬇️Michelin⬇️
-    location: "Malaysia"
-    followers: 39700
-    engagement: 180
-    commentsToLikes: 0.074088
-    id: ck134fmy3w77o0i194nv4in5z
+    followers: 126609
+    engagement: 19
+    commentsToLikes: 0.005797
+    id: ck5zt7jq0zvsd0i14fch3bkj9
     verified: true
-    hashtags: "#flightjacket, #roadslikethese, #goprofamily, #roadcycling"
+    hashtags: "#phnompenh, #cambodia, #love, #family"
   - username: "thewebbieshow"
     fullname: >-
       Mark Webb
@@ -55,76 +115,16 @@ profiles:
     id: ck5c730s66pqt0i117qjhrkrw
     verified: true
     hashtags: "#totalbmx, #wheeliebike, #bmxlife, #bikelifeuk"
-  - username: "sjsomerville"
+  - username: "colleenaugustinmma"
     fullname: >-
-      Samuel Jacob Somerville
+      Colleen Augustin | MMA Fighter
     bio: >-
-      Professional Footballer | @PenangFCOfficial. Director | @SJSGoalkeeping .
+      Kasun J. Botheju 💍❤️ @belifmalaysia “BELIFCOLL” @myprotein “COLLEEN” @samsungmalaysia “CAUGW5”
     location: "Malaysia"
-    followers: 19711
-    engagement: 631
-    commentsToLikes: 0.029552
-    id: ck5c62ts34lpz0i11cj1ht7xd
+    followers: 11479
+    engagement: 470
+    commentsToLikes: 0.021778
+    id: ck0u22cyoyooh0i19ffdyivtt
     verified: false
-    hashtags: "#malaysia, #superleague, #malaysiafootball, #penang"
-  - username: "adligoldenboyhafidz"
-    fullname: >-
-      adli 'goldenboy' hafidz
-    bio: >-
-      Malaysian boxer 🇲🇾 SEA Games medalist FORMER WBC & WBA ASIA 🥇 MALAYSIA AMBASSADOR : @underarmoursoutheastasia @usanainc @anytimefitness.sunwaybigbox
-    location: "Malaysia"
-    followers: 21082
-    engagement: 955
-    commentsToLikes: 0.015293
-    id: ck5q3jm14l1p30i11z5ppw3z6
-    verified: false
-    hashtags: "#fnc, #boxer, #usanaathlete, #roadtohistory"
-  - username: "iamshahrulnizam"
-    fullname: >-
-      Shahrul Nizam.
-    bio: >-
-      نور عينا عزو ♥️ 🏆1st place Asia SW Championship 17 🇸🇬 🥉2nd runner up jitra SW professional 18 🇲🇾 🏆1st Malaysia Champion 🇲🇾
-    location: "Malaysia"
-    followers: 12209
-    engagement: 1188
-    commentsToLikes: 0.032159
-    id: ck0u138ravnkf0i19kf48ppxy
-    verified: false
-    hashtags: "#malaysiastreetworkout, #kbsmalaysia, #barganuzz, #modernvision"
-  - username: "hossein_salimzadeh"
-    fullname: >-
-      Hossein Salimzadeh
-    bio: >-
-      ♛𝙆𝙐𝙍𝘿🦅 🔹️ 2nd MEN OF STEEL MALAYSIA 2019🥈 🔹️Junior(age 23)iran champion🥇 🔹Online coaching🌏 🔹️Olympia Gym 🔹️دریافت برنامه تمرینی و غذایی دایرکت👇
-    location: "Malaysia"
-    followers: 4685
-    engagement: 1080
-    commentsToLikes: 0.089408
-    id: ck5q33mrvj27u0i11myxyywt3
-    verified: false
-    hashtags: "#kurd, #kurdish, #bodybuilding, #oman"
-  - username: "shevonlai"
-    fullname: >-
-      🌹 Jemie 🌹
-    bio: >-
-      •Professional XD badminton player 🏸• Partner @gohsoonhuat •SEA games 🥈• •Highest⬆️rank~6 • •🍖🍛🍱🍜🍝 lover • Trust in the Lord 👼🏻🙏🏻
-    location: "Malaysia"
-    followers: 22883
-    engagement: 478
-    commentsToLikes: 0.013147
-    id: ck14i3fgjdg5d0i19ewie032z
-    verified: false
-    hashtags: "#somethingaboutyou, #throwback, #teamwork, #pandoramy"
-  - username: "thierrychanthabin"
-    fullname: >-
-      Thierry Chantha Bin
-    bio: >-
-      BA @adidascambodia_store @casio_cambodia @mont.blanccambodia @nwcambodia Professional Footballer at @visakhafc_official 🇰🇭 @katesutherlnd Iman👶👨‍👩‍👧❤
-    location: "Malaysia"
-    followers: 71714
-    engagement: 288
-    commentsToLikes: 0.012306
-    id: ck5zt7jq0zvsd0i14fch3bkj9
-    verified: true
-    hashtags: "#happy, #love, #family, #adidascambodia"
+    hashtags: "#gym, #throwback, #fitness, #girlswhofight"
 ---

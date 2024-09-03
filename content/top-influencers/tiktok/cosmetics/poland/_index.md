@@ -1,11 +1,11 @@
 ---
-title: Top 10 Cosmetics TikTok Influencers In Poland In 2023
+title: Top 10 Cosmetics TikTok Influencers In Poland In 2024
 description: >-
-  Find top cosmetics TikTok influencers in Poland in 2023. Most popular hashtags: #dlaciebie #cosmetics #foryou #makeup.
+  Find top cosmetics TikTok influencers in Poland in 2024. Most popular hashtags: #dlaciebie #foryou #cosmetics #makeup.
 platform: TikTok
 hits: 14
-text_top: Discover the best TikTok influencers on inBeat.
-text_bottom: inBeat aggregates 14 TikTok influencers like this in Poland for you to contact.
+text_top: Discover the top-rated TikTok influencers on inBeat.
+text_bottom: Our search engine has 14 TikTok influencers like this in Poland for you to collaborate.
 profiles:
   - username: "wicia04072000"
     fullname: >-

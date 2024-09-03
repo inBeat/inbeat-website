@@ -1,11 +1,11 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Ankara In 2023
+title: Top 10 Lifestyle Instagram Influencers In Ankara In 2024
 description: >-
-  Find top lifestyle Instagram influencers in Ankara in 2023. Most popular hashtags: #lifestyle #blogger #ankara #instagram.
+  Find top lifestyle Instagram influencers in Ankara in 2024. Most popular hashtags: #lifestyle #instagood #instagram #ankara.
 platform: Instagram
-hits: 64
-text_top: Identify the top-rated Instagram profiles on inBeat.
-text_bottom: Our platform aggregates 64 Instagram influencers like this in Ankara, Turkey for you to connect with.
+hits: 58
+text_top: Discover the most popular Instagram profiles on inBeat.
+text_bottom: Our platform has 58 Instagram influencers like this in Ankara, Turkey for you to connect with.
 profiles:
   - username: "selensegmenblog"
     fullname: >-
@@ -19,18 +19,6 @@ profiles:
     id: ck600rq3ae54m0i14elrwjdmx
     verified: false
     hashtags: "#makyajblogger, #blogger, #bloggerturkiye, #cekilisvar"
-  - username: "burcusavasciofficial"
-    fullname: >-
-      Burcu Savaşçı
-    bio: >-
-      Yemek yapmaya,fotoğraflamaya aşık bir yemek tutkunu .Ankara da mekan gezer,yorumlar . Tanıtım ve davetler için DM&mail 💌 ✨İnfluencer ✨Blogger
-    location: "Turkey"
-    followers: 69773
-    engagement: 115
-    commentsToLikes: 0.303250
-    id: ck5cezhcgm0xf0i11xysp3pw1
-    verified: false
-    hashtags: "#karantina, #kahvalt, #foodlover, #foodblogger"
   - username: "poncikeliz"
     fullname: >-
       Cansu EROL
@@ -42,7 +30,7 @@ profiles:
     commentsToLikes: 0.015333
     id: ckap26p3gxlzk0i78ycxsx65a
     verified: false
-    hashtags: "#babygirl, #iyigeceler, #hm, #zarakids"
+    hashtags: "#baby, #iyigeceler, #annebebek, #hmkids"
   - username: "esracablogculuk"
     fullname: >-
       Esra Öcal
@@ -83,14 +71,14 @@ profiles:
     fullname: >-
       Selin
     bio: >-
-      İletişim mail & DM 📧 hnd.sln.ttk@hotmail.com 📍Ankara #makeup #lifestyle #blog
+      İletişim DM 📍Ankara #makeup #lifestyle #blog
     location: "Turkey"
-    followers: 20525
-    engagement: 309
-    commentsToLikes: 0.029195
+    followers: 20206
+    engagement: 248
+    commentsToLikes: 0.051189
     id: ck15t9977gyfo0i19dkx9e6yg
     verified: false
-    hashtags: "#loreal, #sa, #nyxcosmetics, #concealer"
+    hashtags: "#ruj, #loreal, #ciltbak, #suncream"
   - username: "haticerkaya"
     fullname: >-
       Hatice
@@ -103,28 +91,40 @@ profiles:
     id: ckf5lbhb5p0810j23aoosfqdc
     verified: false
     hashtags: "#art, #instaphoto, #ke, #bursa"
-  - username: "gulsahsenalpsevinc"
+  - username: "tugcedemiraallll"
     fullname: >-
-      𝗚𝘂𝗹𝘀𝗮𝗵 𝗦𝗲𝗻𝗮𝗹𝗽 𝗦𝗲𝘃i𝗻𝗰
+      Tugce DEMİRAL
     bio: >-
-      🌏Travel / 🍽🥤Food&Drink /YouTube JoyfulCampers/ PR:gulsahsenalp@gmail.com
+      Güzellik | Moda | Lifestyle ✉️tuqce21@hotmail.com Bitlis | Ankara
     location: "Turkey"
-    followers: 15021
-    engagement: 649
-    commentsToLikes: 0.051012
-    id: ckaoyf7emh9pn0i78g75bpriq
+    followers: 105737
+    engagement: 45
+    commentsToLikes: 0.018473
+    id: ck8tbm7r0w7iy0j783rvzy3g2
     verified: false
-    hashtags: "#youtube, #gezginler, #karavanturkiye, #hu"
-  - username: "radmehrbrothers"
+    hashtags: "#istanbul, #instagram, #instagood, #nature"
+  - username: "pelincukurcaoglu"
     fullname: >-
-      Mobin_mohamad
+      Pelin Çukurcaoğlu Gül
     bio: >-
-      🔱 Efsaneikizler .📍🇹🇷 Ankara 🔶Member of Muay Thai National Team 2015 🔶Muay Thai 2016 Champion 🔶Kick Box 2017 Champion
+      pelincukurcaoglu@gmail.com TR , Kocaeli "Create memories that last forever" #wanderlust 🛸
     location: "Turkey"
-    followers: 37072
-    engagement: 580
-    commentsToLikes: 0.141342
-    id: ck1399rmkk8at0i19eybkxyr1
+    followers: 58740
+    engagement: 141
+    commentsToLikes: 0.019161
+    id: ck13b2w86tfcu0i19egu9qvvd
     verified: false
-    hashtags: "#survivor2021, #acunmedya, #strong, #tv8"
+    hashtags: "#traveladdict, #travel, #noel, #france"
+  - username: "burcununkitaplari"
+    fullname: >-
+      Burcugül Durmaz ( kitapsever)
+    bio: >-
+      Keyfime göre kitabımı okur , filmimi , dizimi izler, oyunumu oynarım. Tanıtım veya reklam sayfası değildir.
+    location: "Turkey"
+    followers: 17120
+    engagement: 489
+    commentsToLikes: 0.035604
+    id: ck5c87bqu8x0i0i11c79babku
+    verified: false
+    hashtags: "#bookworm, #kitapo, #kitapyorumu, #tavsiye"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Makeup TikTok Influencers In France In 2023
+title: Top 10 Makeup TikTok Influencers In France In 2024
 description: >-
-  Find top makeup TikTok influencers in France in 2023. Most popular hashtags: #makeup #fyp #duo.
+  Find top makeup TikTok influencers in France in 2024. Most popular hashtags: #makeup #fyp #duo.
 platform: TikTok
-hits: 401
-text_top: Identify the top-rated TikTok profiles on inBeat.
-text_bottom: Our database has 401 TikTok influencers like this in France for you to collaborate.
+hits: 403
+text_top: See the most popular TikTok accounts on inBeat.
+text_bottom: Our platform has 403 TikTok influencers like this in France for you to collaborate.
 profiles:
   - username: "enzo_tout_seul"
     fullname: >-
@@ -66,7 +66,7 @@ profiles:
     commentsToLikes: 0.017111
     id: ck9er9znz0wgj0j787wcqrihp
     verified: false
-    hashtags: "#minaashido, #leagueofvillains, #minaashidocosplay, #bakusquad"
+    hashtags: "#bakusquad, #bnhacosplay, #himikotoga, #weeb"
   - username: "perrinebeautyaddict"
     fullname: >-
       Perrine BeautyAddict
@@ -90,7 +90,7 @@ profiles:
     commentsToLikes: 0.009818
     id: ck9r9udj4i6bu0j78lsimq01p
     verified: false
-    hashtags: "#creepypasta, #creepy, #paranormal, #history"
+    hashtags: "#creepy, #paranormal, #history, #fyp"
   - username: "venusxgbc"
     fullname: >-
       𝔪𝔬𝔯𝔤𝔞𝔫𝔢🦇

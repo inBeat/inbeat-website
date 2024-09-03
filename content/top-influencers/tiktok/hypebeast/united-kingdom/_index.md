@@ -1,11 +1,11 @@
 ---
-title: Top 10 Hypebeast TikTok Influencers In United Kingdom In 2023
+title: Top 10 Hypebeast TikTok Influencers In United Kingdom In 2024
 description: >-
-  Find top hypebeast TikTok influencers in United Kingdom in 2023. Most popular hashtags: #hypebeast #fyp #foryou #sneakers.
+  Find top hypebeast TikTok influencers in United Kingdom in 2024. Most popular hashtags: #hypebeast #fyp #sneakers #foryou.
 platform: TikTok
 hits: 21
-text_top: Analyze the best TikTok profiles on inBeat.
-text_bottom: Our search engine aggregates 21 TikTok influencers like this in United Kingdom for you to connect with.
+text_top: Identify the best TikTok profiles on inBeat.
+text_bottom: Our database holds 21 TikTok influencers like this in United Kingdom for you to pitch.
 profiles:
   - username: "sandtrek"
     fullname: >-
@@ -49,12 +49,12 @@ profiles:
     bio: >-
       Can you follow so I can see what this creator fund is about 🤷🏽‍♂️
     location: "United Kingdom"
-    followers: 4290
-    engagement: 707
-    commentsToLikes: 0.035899
+    followers: 4289
+    engagement: 720
+    commentsToLikes: 0.033492
     id: ckbffdyuaa3a80j23k8humtr6
     verified: false
-    hashtags: "#foryou, #hypebeast, #fyp, #dog"
+    hashtags: "#supreme, #puppy, #ice, #snow"
   - username: "aripetrou"
     fullname: >-
       Ari Petrou
@@ -66,7 +66,7 @@ profiles:
     commentsToLikes: 0.014165
     id: ck8orefs6bvhn0j7895uwqhco
     verified: true
-    hashtags: "#fashion, #tiktokfashion, #sneaker, #sneakers"
+    hashtags: "#4u, #foryoupage, #fyp, #nike"
   - username: "vivianfranklondon"
     fullname: >-
       Vivian Frank
@@ -78,7 +78,7 @@ profiles:
     commentsToLikes: 0.036055
     id: ck81qzsrila2r0j78k6ip1t0i
     verified: false
-    hashtags: "#cars, #porsche, #sneakers, #hypebeast"
+    hashtags: "#fyp, #foryoupage, #cars, #hypebeast"
   - username: "shoyushaikh"
     fullname: >-
       Uzair

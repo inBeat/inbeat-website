@@ -1,36 +1,48 @@
 ---
-title: Top 10 Instagram Influencers In Konya In 2023
+title: Top 10 Instagram Influencers In Konya In 2024
 description: >-
-  Find top Instagram influencers in Konya in 2023. Most popular hashtags: #konya #kesfet #ke.
+  Find top Instagram influencers in Konya in 2024. Most popular hashtags: #konya #ke #kesfet.
 platform: Instagram
-hits: 298
-text_top: Identify the top-rated Instagram accounts on inBeat.
-text_bottom: inBeat aggregates 298 Instagram influencers like this in Konya, Turkey for you to work with.
+hits: 315
+text_top: See the top-rated Instagram profiles on inBeat.
+text_bottom: Our search engine aggregates 315 Instagram influencers like this in Konya, Turkey for you to pitch.
 profiles:
   - username: "konya"
     fullname: >-
-      Konya
+      KONYA
     bio: >-
-      Konya Resmi İnstagram Sayfası ©️ Official page of #Konya / #Turkey 📩Mail to: sehrimkonya@gmail.com Telegram kanalımıza abone olmak için 👇
+      Konya İnstagram Sayfası ©️ Official page of #Konya / #Türkiye
     location: "Turkey"
-    followers: 66940
-    engagement: 278
-    commentsToLikes: 0.012532
+    followers: 145087
+    engagement: 140
+    commentsToLikes: 0.012926
     id: ck9wivume44o10j78a9gedkww
     verified: false
-    hashtags: "#sille, #konya, #mevlana, #aziziye"
+    hashtags: "#konya, #gokonya, #sille, #gezg"
+  - username: "konyasosyal"
+    fullname: >-
+      KONYA SOSYAL ® 🇹🇷
+    bio: >-
+      Konya’nın Kalesi 😎 İç Anadolu’nun “Marka Tescilli” En Büyük Hesabı! Etkili Reklam, İşbirliği, Via ve İletişim İçin Mesaj Gönderebilirsiniz 💬
+    location: "Turkey"
+    followers: 393476
+    engagement: 45
+    commentsToLikes: 0.078872
+    id: ckap6nzlsgpgg0i78ltdvby6k
+    verified: false
+    hashtags: "#reels, #bey, #reklam, #konya"
   - username: "alperuludag_"
     fullname: >-
       Alper Uludağ
     bio: >-
       @konyaspor Powered by @Players.id_ www.uludagfood.be / @uludagfood
     location: "Turkey"
-    followers: 37543
-    engagement: 456
-    commentsToLikes: 0.043001
+    followers: 31654
+    engagement: 528
+    commentsToLikes: 0.042770
     id: ckap4ju667ovz0i78qxjmfsvz
     verified: true
-    hashtags: "#au25, #konyaspor, #konyasporgeliyorbak, #manieredevoir"
+    hashtags: "#eidmubarak, #daughter, #ramazanbayraminizm, #rome"
   - username: "xgamzeli_4242"
     fullname: >-
       gamze
@@ -55,30 +67,18 @@ profiles:
     id: ck14i5wm8dspp0i19pg393bww
     verified: false
     hashtags: ""
-  - username: "gezginyogini"
-    fullname: >-
-      Burcu Tunca
-    bio: >-
-      🕉️Yoga Teacher & Practitioner 🌍Inner Traveler by the Outer Journeys ➡️Özel ve Online dersler için dm (Hatha, Vinyasa, Yin Yoga) 📌Antalya /Konyaaltı
-    location: "Turkey"
-    followers: 25165
-    engagement: 167
-    commentsToLikes: 0.056243
-    id: ckf5xaj3xuzge0j23eqvisz1o
-    verified: false
-    hashtags: "#balance, #yogaantalya, #mudra, #antalyayogae"
   - username: "theunver"
     fullname: >-
       Mehmet Ali Ünve️r
     bio: >-
-      📍İstanbul | Konya Best Model Of Turkey 2016 Semi F. 📩iletisim@mehmetaliunver.com
+      📍İstanbul | Konya Best Model of Turkey 2016 Semi F. 📩iletisim@mehmetaliunver.com
     location: "Turkey"
-    followers: 48665
-    engagement: 334
-    commentsToLikes: 0.010321
+    followers: 48674
+    engagement: 344
+    commentsToLikes: 0.012766
     id: ckap6m0cpgfz70i78kpyqe1nm
     verified: false
-    hashtags: ""
+    hashtags: "#birlikteg, #sosyalmedyan, #wine, #beforeafter"
   - username: "orgu_hazinesi_42"
     fullname: >-
       ÖRGÜ _ HAZINESI 🌟

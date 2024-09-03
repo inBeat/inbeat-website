@@ -1,24 +1,12 @@
 ---
-title: Top 10 Nail Artists Instagram Influencers In Brazil In 2023
+title: Top 10 Nail Artists Instagram Influencers In Brazil In 2024
 description: >-
-  Find top nail artists Instagram influencers in Brazil in 2023. Most popular hashtags: #nailartist #nails #nailart #unhasdegel.
+  Find top nail artists Instagram influencers in Brazil in 2024. Most popular hashtags: #nails #nailartist #nailart #unhasdecoradas.
 platform: Instagram
-hits: 46
-text_top: See the best Instagram accounts on inBeat.
-text_bottom: Our platform holds 46 Instagram influencers like this in Brazil for you to work with.
+hits: 54
+text_top: Identify the most popular Instagram profiles on inBeat.
+text_bottom: inBeat holds 54 Instagram influencers like this in Brazil for you to work with.
 profiles:
-  - username: "barbien2115"
-    fullname: >-
-      Bárbara Neto
-    bio: >-
-      👻 barbara_neto 💅🏽 Certified Nail Artist @babinailsartist 📩 barbaradasilvaneto122@hotmail.com or DM
-    location: "Brazil"
-    followers: 119930
-    engagement: 460
-    commentsToLikes: 0.020397
-    id: ck5bv23ljiura0i11g8df4jr7
-    verified: false
-    hashtags: "#ootdfashion, #ohpolly, #instagood, #leopard"
   - username: "danimoraesx"
     fullname: >-
       ⠀⠀⠀⠀⠀⠀⠀ Dani Moraes
@@ -127,4 +115,16 @@ profiles:
     id: ck134y0bvyqmd0i19c3d3lisy
     verified: false
     hashtags: "#coimbra, #carlasofianails, #nailartist, #tummytox"
+  - username: "stefani.beauty"
+    fullname: >-
+      Stefani Beauty
+    bio: >-
+      ✨Viva a história que você quer contar✨ 📍| Várzea Grande/Cuiabá 👩🏼‍💻| Parceria via direct 💄| Curso de automaquiagem 📲| Agende sua data 👇🏼
+    location: "Brazil"
+    followers: 45083
+    engagement: 414
+    commentsToLikes: 0.027018
+    id: ck8t1hhl2vsfd0j7810q7giru
+    verified: false
+    hashtags: "#dropfailchallenge, #challenge, #euphoriachallenge, #roupa"
 ---

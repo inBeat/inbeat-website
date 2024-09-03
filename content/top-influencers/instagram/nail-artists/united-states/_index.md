@@ -1,24 +1,84 @@
 ---
-title: Top 10 Nail Artists Instagram Influencers In United States In 2023
+title: Top 10 Nail Artists Instagram Influencers In United States In 2024
 description: >-
-  Find top nail artists Instagram influencers in United States in 2023. Most popular hashtags: #nailart #nails #greece.
+  Find top nail artists Instagram influencers in United States in 2024. Most popular hashtags: #nailart #nails #bluenails #ombrenails.
 platform: Instagram
-hits: 484
-text_top: See the top-rated Instagram profiles on inBeat.
-text_bottom: Our platform aggregates 484 Instagram influencers like this in United States for you to contact.
+hits: 503
+text_top: Discover the most popular Instagram profiles on inBeat.
+text_bottom: Our platform aggregates 503 Instagram influencers like this in United States for you to work with.
 profiles:
-  - username: "amyle.nails"
+  - username: "tiararkelly"
     fullname: >-
-      Amy Le
+      Tiara "Barbie" Kelly
     bio: >-
-      — nails • beauty • jewelry editorial/ campaign nail artist — hello@amylenails.com 🤍 LA • @amyle.jpg she/her
+      LA | they/them🏳️‍⚧️ Non Binary ICON • Model • Dancer • Influencer • Press-on Nail Artist 📥 DM to order Brand Partnerships/Bookings: bbentonn@gmail.com
     location: "United States"
-    followers: 259446
-    engagement: 492
-    commentsToLikes: 0.006899
-    id: ck0tupbps84460i19s2n693v1
+    followers: 28647
+    engagement: 404
+    commentsToLikes: 0.023167
+    id: ck0u7iz0x4weg0i19kn4duuxv
     verified: false
-    hashtags: "#sinfulcolorspartner, #xoxosinfulcolors, #celebratetheexperts, #tweezermanpartner"
+    hashtags: "#greece, #nonbinary, #dancer, #fyp"
+  - username: "nailson7th"
+    fullname: >-
+      Jenny bui
+    bio: >-
+      Celebrity Nail Artist Nail Artist of the year winner AIA award BRAND/PR : jennybuiteam@gmail.com
+    location: "United States"
+    followers: 1350698
+    engagement: 558
+    commentsToLikes: 0.009921
+    id: ck14i7udbe2qc0i199jwmfbxd
+    verified: true
+    hashtags: "#nails, #queenofbling, #fashion, #apresgelx"
+  - username: "chaunlegend"
+    fullname: >-
+      Chaun Legend
+    bio: >-
+      ▪️Celebrity Nail Artist 🇰🇭 ▪️LosAngeles ▪️ @chaunlegendnails 7/1/24 ▪️Agent:Jose@theonly.agency
+    location: "United States"
+    followers: 1146817
+    engagement: 250
+    commentsToLikes: 0.063219
+    id: ck0tw1lhidmnq0i197m7mcdq0
+    verified: false
+    hashtags: "#chaunlegend, #zara, #zarabeauty, #thereisnobeautyonlybeauties"
+  - username: "hnnailsbyhoney"
+    fullname: >-
+      Honey Phan
+    bio: >-
+      CEO/Founder of @honeysnailsecret Georgia USA Nail Educator Nail Artist Nail Supply Distributors NOT ACCEPTING CLIENTS
+    location: "United States"
+    followers: 383129
+    engagement: 220
+    commentsToLikes: 0.007247
+    id: ck0tzerb1q3f40i1941rp2fwe
+    verified: false
+    hashtags: "#squarenails, #nailsof2021, #bluenails, #discogel"
+  - username: "thenailconnection"
+    fullname: >-
+      The Nail Connection
+    bio: >-
+      Where nail lovers link up 💅🏾🔗💕 Featuring nail artists & nail ideas daily ✨ Tag us to be featured ✨ Visit our site for promo info ⤵️
+    location: "United States"
+    followers: 279259
+    engagement: 46
+    commentsToLikes: 0.003417
+    id: ck9we2g0iiacs0j78ak29wqvu
+    verified: false
+    hashtags: "#nailtrends, #ombrenails, #nailart, #gelnails"
+  - username: "taryns.nails"
+    fullname: >-
+      Taryn VanAlfen
+    bio: >-
+      ✨️@lightelegancehq Educator 🩵Gel Nail Artist 🫶🏼Inspired? Tag @taryns.nails 🩷16 Years of practice 🩶Utah
+    location: "United States"
+    followers: 26065
+    engagement: 142
+    commentsToLikes: 0.068200
+    id: ckapbnhf60kt10i78oa82zumh
+    verified: false
+    hashtags: "#nailinspo, #prettynails, #nailartist, #gelnails"
   - username: "blakejael"
     fullname: >-
       blake jael 💫✨
@@ -54,7 +114,7 @@ profiles:
     commentsToLikes: 0.029664
     id: ck55l2xap0mhr0i11s6dhsjvh
     verified: false
-    hashtags: "#neutralnails, #nailart, #fallnails, #rainbownails"
+    hashtags: "#nails, #essielove, #ombrenails, #neutralnails"
   - username: "ninanailedit"
     fullname: >-
       Nina Park
@@ -67,64 +127,4 @@ profiles:
     id: ck14igo6bfb3s0i19891ip51j
     verified: false
     hashtags: "#ad, #licensedtocreate, #40yearsofcolor, #opi40xcosmoprof"
-  - username: "tiararkelly"
-    fullname: >-
-      Tiara "Barbie" Kelly
-    bio: >-
-      LA | they/them🏳️‍⚧️ Non Binary ICON | Model | Dancer | Actress | Influencer | 420 🧚‍♀️ Nail Artist | Bookings: bbentonn@gmail.com Shop Merch & Nails
-    location: "United States"
-    followers: 29408
-    engagement: 510
-    commentsToLikes: 0.028508
-    id: ck0u7iz0x4weg0i19kn4duuxv
-    verified: false
-    hashtags: "#vacation, #greece, #mykonos, #fyp"
-  - username: "missladyfinger"
-    fullname: >-
-      taryn granados
-    bio: >-
-      💅🏽nail artist 🤍 mama to luca bea @littleladyfinger 📱digital + integrated comms ⚡️regina phalange enthusiast
-    location: "United States"
-    followers: 30222
-    engagement: 226
-    commentsToLikes: 0.049688
-    id: ck5qe1hamy9md0i11o3d3ktlz
-    verified: true
-    hashtags: "#bandier, #babygirl, #mycalvins, #39weekspregnant"
-  - username: "facebydom"
-    fullname: >-
-      dom ♡
-    bio: >-
-      nail artist : @nailzbydom . personal account : @_thelifeofdom .
-    location: "United States"
-    followers: 6339
-    engagement: 1379
-    commentsToLikes: 0.083075
-    id: ck139pmfdmics0i1994hjlara
-    verified: false
-    hashtags: "#benefitcosmetics, #cutcrease, #abhxamrezy, #wakeup2slay"
-  - username: "amyytran"
-    fullname: >-
-      Amy Tran
-    bio: >-
-      nail artist | food | travel 📧 amyytran18@gmail.com accepting new clients 📍 boston, ma
-    location: "United States"
-    followers: 129868
-    engagement: 135
-    commentsToLikes: 0.025282
-    id: ck13ashm8rykk0i19ait92n39
-    verified: false
-    hashtags: "#nailtutorial, #nailvideos, #brightnails, #nailarttutorial"
-  - username: "misspopnails"
-    fullname: >-
-      Miss Pop
-    bio: >-
-      🗽New York City-based Editorial Nail Artist 💅 I'm not done till my nails are. @misspopnailsofficial on TikTok
-    location: "United States"
-    followers: 49761
-    engagement: 84
-    commentsToLikes: 0.067110
-    id: ck5c6z5gp6hr30i11ukwf22wh
-    verified: true
-    hashtags: "#pinknails, #bluenails, #nails, #nailart"
 ---

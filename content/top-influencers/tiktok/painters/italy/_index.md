@@ -1,11 +1,11 @@
 ---
-title: Top 10 Painters TikTok Influencers In Italy In 2023
+title: Top 10 Painters TikTok Influencers In Italy In 2024
 description: >-
-  Find top painters TikTok influencers in Italy in 2023. Most popular hashtags: #art #perte #foryou #painting.
+  Find top painters TikTok influencers in Italy in 2024. Most popular hashtags: #art #perte #foryou #painting.
 platform: TikTok
 hits: 36
-text_top: Analyze the most popular TikTok influencers on inBeat.
-text_bottom: Our database aggregates 36 TikTok influencers like this in Italy for you to connect with.
+text_top: See the best TikTok accounts on inBeat.
+text_bottom: Our database aggregates 36 TikTok influencers like this in Italy for you to contact.
 profiles:
   - username: "_labruni"
     fullname: >-
@@ -85,12 +85,12 @@ profiles:
     bio: >-
       Artist 👨🏻‍🎨 and national team swimmer 🏊🏼‍♂️🇮🇹 Instagram: zazzax & zazzart
     location: "Italy"
-    followers: 178500
-    engagement: 1335
-    commentsToLikes: 0.012587
+    followers: 176800
+    engagement: 1175
+    commentsToLikes: 0.011906
     id: ck81qqqibj1m80j78l9gqz2lr
     verified: false
-    hashtags: "#arttiktok, #realism, #colors, #art"
+    hashtags: "#art, #perte, #realisticart, #arte"
   - username: "marco.grassi.painter"
     fullname: >-
       Marco Grassi

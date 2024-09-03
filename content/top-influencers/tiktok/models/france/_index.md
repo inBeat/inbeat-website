@@ -1,11 +1,11 @@
 ---
-title: Top 10 Models TikTok Influencers In France In 2023
+title: Top 10 Models TikTok Influencers In France In 2024
 description: >-
-  Find top models TikTok influencers in France in 2023. Most popular hashtags: #foryou #pourtoi #model #transformation.
+  Find top models TikTok influencers in France in 2024. Most popular hashtags: #foryou #pourtoi #transformation #model.
 platform: TikTok
 hits: 97
-text_top: Identify the top-rated TikTok accounts on inBeat.
-text_bottom: Our search engine holds 97 TikTok influencers like this in France for you to connect with.
+text_top: Discover the best TikTok profiles on inBeat.
+text_bottom: inBeat aggregates 97 TikTok influencers like this in France for you to contact.
 profiles:
   - username: "zachkitorogoff86"
     fullname: >-
@@ -66,7 +66,7 @@ profiles:
     commentsToLikes: 0.043153
     id: ckc8ycr0fmt930j23d53q34j6
     verified: false
-    hashtags: "#foryou, #model, #pourtoi, #viral"
+    hashtags: "#pourtoi, #model, #foryou, #masque"
   - username: "raphaelsay"
     fullname: >-
       Raphael Say
@@ -78,7 +78,7 @@ profiles:
     commentsToLikes: 0.009142
     id: ck9fc83o9iodv0j78m0ocddxm
     verified: false
-    hashtags: "#model, #fashion, #jeanpaulgaultier, #transformation"
+    hashtags: "#jeanpaulgaultier, #transformation, #model, #fashion"
   - username: "imgmodels.jenirose"
     fullname: >-
       imgmodels.JENI ROSE
@@ -114,7 +114,7 @@ profiles:
     commentsToLikes: 0.010849
     id: ck9enulrpkx2p0j785tcdg2ju
     verified: false
-    hashtags: "#bordeaux, #dogs, #bear, #americanakita"
+    hashtags: "#bear, #doggy, #dogs, #akitaamericain"
   - username: "mariannefonseca_"
     fullname: >-
       marianne_fonseca

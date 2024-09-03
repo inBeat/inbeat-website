@@ -1,12 +1,36 @@
 ---
-title: Top 10 Cooking Instagram Influencers In Argentina In 2023
+title: Top 10 Cooking Instagram Influencers In Argentina In 2024
 description: >-
-  Find top cooking Instagram influencers in Argentina in 2023. Most popular hashtags: #cooking #recetas #food #instafood.
+  Find top cooking Instagram influencers in Argentina in 2024. Most popular hashtags: #cooking #food #recetas #receta.
 platform: Instagram
-hits: 47
-text_top: See the most popular Instagram influencers on inBeat.
-text_bottom: Our platform aggregates 47 Instagram influencers like this in Argentina for you to collaborate.
+hits: 46
+text_top: Discover the most popular Instagram influencers on inBeat.
+text_bottom: Our platform aggregates 46 Instagram influencers like this in Argentina for you to pitch.
 profiles:
+  - username: "tatiperez"
+    fullname: >-
+      Tati Makeup
+    bio: >-
+      Hair & Makeup Services Owner at @tatimakeupstudio Makeup Classes Beauty, fashion, traveling tips, DIYS, Cooking, Parenting and single momming 🤍
+    location: "Argentina"
+    followers: 175717
+    engagement: 279
+    commentsToLikes: 0.041520
+    id: ck5ccbnvvh2nx0i11u62wh5wo
+    verified: false
+    hashtags: "#feriadesevilla, #bobatea, #estoymamada, #shameless"
+  - username: "lagloriavegana"
+    fullname: >-
+      Gloria Carrión▫️Recetas Veganas
+    bio: >-
+      👩🏻‍🍳Recetas, Tips y Batch cooking 🌱Cocina Plant-Based
+    location: "Argentina"
+    followers: 1060668
+    engagement: 158
+    commentsToLikes: 0.080107
+    id: ck13508gtz2co0i19mbx2f1mo
+    verified: true
+    hashtags: "#plantbased, #batchcooking, #recetas, #mealprepping"
   - username: "agusshilton"
     fullname: >-
       A G U S T I N A  S H I L T O N
@@ -19,18 +43,54 @@ profiles:
     id: ck0w30723qz1u0i19pkcz457n
     verified: false
     hashtags: "#qarentena"
-  - username: "cris_baez"
+  - username: "salvalacocina"
     fullname: >-
-      Cristina Báez de Cid
+      Salvador Mazzocchi
     bio: >-
-      Cocina • Tips • Hogar • Maternidad Me gusta cocinar y lo comparto en @cookingwithcrisdr 🍳
+      👨‍🏭Fabrico y uso mis elementos de cocina 📸 Contenido propio 👉 #salvalacocina
     location: "Argentina"
-    followers: 53264
-    engagement: 198
-    commentsToLikes: 0.022782
-    id: ck5zx3v4a7aj80i145kz5raum
+    followers: 3441610
+    engagement: 291
+    commentsToLikes: 0.011325
+    id: ck5c6vjbu6aax0i11h73z4qy0
     verified: false
-    hashtags: "#productosconstanza, #apoyalonuestro, #cookingwithcrisdr, #crisbaezhogar"
+    hashtags: "#food, #matambre, #asmr, #potato"
+  - username: "elclub_delasado"
+    fullname: >-
+      𝔼𝕝 ℂ𝕝𝕦𝕓 𝔻𝕖𝕝 𝔸𝕤𝕒𝕕𝕠
+    bio: >-
+      🔥| Cᴏɴ ʟᴀ ᴍɪꜱɪÓɴ ᴅᴇ ᴅɪꜰᴜɴᴅɪʀ ɴᴜᴇꜱᴛʀᴀ ᴍÁꜱ ʟɪɴᴅᴀ ᴛʀᴀᴅɪᴄɪóɴ 🥩🍷 🔥| ℝ𝕖𝕔𝕖𝕥𝕒𝕤 𝕤𝕚𝕞𝕡𝕝𝕖𝕤 🔥| 𝔼𝕍𝔼ℕ𝕋𝕆𝕊 ℙℝ𝕀𝕍𝔸𝔻𝕆𝕊 / ℂ𝕠𝕟𝕤𝕦𝕝𝕥𝕒𝕤 𝕡𝕠𝕣 𝕄D 📌| ʙᴜᴇɴᴏs ᴀɪʀᴇs🇦🇷
+    location: "Argentina"
+    followers: 770843
+    engagement: 144
+    commentsToLikes: 0.010662
+    id: ck9hbq0uihz5f0j78bziv6lqv
+    verified: false
+    hashtags: "#cocinar, #asadores, #queso, #matambre"
+  - username: "lorenapedace"
+    fullname: >-
+      Lorena Pedace ▫️Lifestyle&Deco
+    bio: >-
+      🏡Decorando mi casa ambiente por ambiente 🥄Recetas simples y fáciles ☀️Rutinas y día a día ❤️Familia 📍Buenos Aires
+    location: "Argentina"
+    followers: 140535
+    engagement: 35
+    commentsToLikes: 0.015029
+    id: ck6tv897kkqj90j71nbypnwef
+    verified: false
+    hashtags: "#interiordesign, #architecture, #homemade, #myhome"
+  - username: "milhojasbydaph"
+    fullname: >-
+      Daphne Vignoni
+    bio: >-
+      🇦🇷 Diseñadora gráfica UBA 📷 Fotografía & video 🌎 Experiencias @daphydie 📩 daphnevignoni@gmail.com
+    location: "Argentina"
+    followers: 340000
+    engagement: 24
+    commentsToLikes: 0.011988
+    id: ck5byk3y3pax30i11lt620m9j
+    verified: false
+    hashtags: "#recipes, #dulcedeleche, #receta, #dulce"
   - username: "lulilapri"
     fullname: >-
       Laura Laprida | Actress 🎬
@@ -43,18 +103,6 @@ profiles:
     id: ck14jk0f6kqyr0i19dmvi4quv
     verified: true
     hashtags: "#madrid, #stepbystep, #tutorial, #cooking"
-  - username: "lourdesanchezok"
-    fullname: >-
-      Lourdes Sánchez
-    bio: >-
-      Management: @vanepellizzeri ——————————————————— 👩🏻‍🍳 #lulúcocinerita 🔥 #lulúglowlumiere👇🏼
-    location: "Argentina"
-    followers: 2721824
-    engagement: 72
-    commentsToLikes: 0.029914
-    id: ck5cbj86tfjhz0i1108dcgl44
-    verified: true
-    hashtags: "#cooking, #lul, #cocina, #lulu"
   - username: "michaelmchef8"
     fullname: >-
       Michael MasterChef 8
@@ -79,52 +127,4 @@ profiles:
     id: ck6tvh7c0m7ms0j71vmiyu8vy
     verified: false
     hashtags: "#comidacasera, #recetasaludable, #recetas, #cocinafacil"
-  - username: "lorenapedace"
-    fullname: >-
-      Lorena Pedace ✨ Lifestyle Deco
-    bio: >-
-      ▫️En Obra, compartiendo mucha info! ▫️Decoración ▫️Recetas #lorenapedaceobra #lorenapedacerecetas
-    location: "Argentina"
-    followers: 70518
-    engagement: 222
-    commentsToLikes: 0.072239
-    id: ck6tv897kkqj90j71nbypnwef
-    verified: false
-    hashtags: "#kitchendesign, #sunnyislesbeach, #playa, #viajes"
-  - username: "maxiaj"
-    fullname: >-
-      Maximiliano Aurellio Jurado
-    bio: >-
-      • Argentino 🇦🇷 • Lifestyle & Menswear • Foodie 📍Madrid 👉🏼 Collect Moments Not Things 🏠 Club House : maxiaj
-    location: "Argentina"
-    followers: 14563
-    engagement: 435
-    commentsToLikes: 0.246624
-    id: ckaouf3euzzzh0i786wy76o17
-    verified: false
-    hashtags: "#realfoodeer, #recetasaludable, #fit, #realfood"
-  - username: "lucasescobareok"
-    fullname: >-
-      Lucas Escobar
-    bio: >-
-      Creador y dueño de el @refugiodelasador 🔥🥩🔪 Cocinero y Parrillero 🇦🇷🔥🔪 Conductor de Cucinare 📺 🥇Campeón 🇦🇷 Asadores 2019🏆 🥇América 2019🏆en 🇨🇱
-    location: "Argentina"
-    followers: 64964
-    engagement: 179
-    commentsToLikes: 0.061126
-    id: ck5zjbniihayy0i14ick7ekig
-    verified: false
-    hashtags: "#instapic, #cooklover, #cocinaale, #cooking"
-  - username: "salvalacocina"
-    fullname: >-
-      SalvaLaCocina
-    bio: >-
-      Soy Salvador🔥Recetas y tips para que puedas cocinar rico con cosas que tenemos en casa 🔥Fabrico mis elementos de cocina👨🏼‍🏭 📸: propio 👉#salvalacocina
-    location: "Argentina"
-    followers: 276336
-    engagement: 216
-    commentsToLikes: 0.031695
-    id: ck5c6vjbu6aax0i11h73z4qy0
-    verified: false
-    hashtags: "#foodlover, #bbqbrasil, #wine, #vino"
 ---

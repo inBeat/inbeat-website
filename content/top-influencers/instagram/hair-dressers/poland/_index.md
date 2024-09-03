@@ -1,11 +1,11 @@
 ---
-title: Top 10 Hair Dressers Instagram Influencers In Poland In 2023
+title: Top 10 Hair Dressers Instagram Influencers In Poland In 2024
 description: >-
-  Find top hair dressers Instagram influencers in Poland in 2023. Most popular hashtags: #style #beauty #polskadziewczyna #hair.
+  Find top hair dressers Instagram influencers in Poland in 2024. Most popular hashtags: #hair #dress #style #love.
 platform: Instagram
-hits: 12
-text_top: See the top-rated Instagram accounts on inBeat.
-text_bottom: Our database has 12 Instagram influencers like this in Poland for you to contact.
+hits: 19
+text_top: Discover the best Instagram influencers on inBeat.
+text_bottom: Our search engine holds 19 Instagram influencers like this in Poland for you to pitch.
 profiles:
   - username: "jacek_bystryofficial"
     fullname: >-
@@ -19,6 +19,18 @@ profiles:
     id: ckaotpg16wwo40i78nf8lcwbv
     verified: false
     hashtags: "#white, #konie, #nauka, #love"
+  - username: "ladycroft7777"
+    fullname: >-
+      🔪KLAUDIA🔪
+    bio: >-
+      Collab 👉🏻 📸📥 PolishBiker💨 HondaCBR600f🏍 TattooLover😈 Football⚽️ Motorcycles🏍 Cars🏎
+    location: "Poland"
+    followers: 172194
+    engagement: 58
+    commentsToLikes: 0.009676
+    id: ck5cc0f24ghli0i11ocm7rytf
+    verified: true
+    hashtags: "#tanskin, #heels, #view, #olavoga"
   - username: "simci.a"
     fullname: >-
       Cozy christmas winter xmass 🎅🏼❄️🎄
@@ -31,6 +43,42 @@ profiles:
     id: ckap528vu9v0o0i78xjvwhocs
     verified: false
     hashtags: "#skin, #xmas, #vegan, #body"
+  - username: "izabelajanachowska"
+    fullname: >-
+      Izabela Janachowska
+    bio: >-
+      Party & Wedding Expert | Kreatorka stylu TV Host: Polsat, Polsat Cafe, WDTV.PL Editor-in-Chief @janachowskapl 👗#newdrop dostępny online ↓
+    location: "Poland"
+    followers: 491722
+    engagement: 208
+    commentsToLikes: 0.039090
+    id: ck0w36dz3rt7p0i196rviv7wj
+    verified: true
+    hashtags: "#hair, #joke, #trip, #vacation"
+  - username: "00martinka"
+    fullname: >-
+      𝓜𝓪𝓻𝓽𝔂𝓷𝓪 ✨
+    bio: >-
+      Jeśli czytasz mój opis chcę CI tylko przekazać - miłego dnia, uśmiechnij się!✨🐞 @madelinefashion.pl - najpiękniejsze sukienki, tylko tutaj perełki! 🦋
+    location: "Poland"
+    followers: 84609
+    engagement: 145
+    commentsToLikes: 0.015102
+    id: ck9hbify9gz280j78ahhoel7t
+    verified: false
+    hashtags: "#sunny, #holiday, #holidayvibes, #hellofrom"
+  - username: "veronicafritsch_"
+    fullname: >-
+      🖤⚜️𝓥𝓮𝓻𝓸𝓷𝓲𝓬𝓪 𝓕𝓻𝓲𝓽𝓼𝓬𝓱⚜️🖤
+    bio: >-
+      ✨EXCLUSIVE PERMANENT MAKEUP FROM MALLORCA✨ 🏆Certified permanent makeup trainer 📍MALLORCA | ADDITIONALLY KATOWICE I speak in: 🇬🇧English 🇵🇱Polish
+    location: "Poland"
+    followers: 14525
+    engagement: 379
+    commentsToLikes: 0.038830
+    id: ck8t3dj012uun0j787b4dte23
+    verified: false
+    hashtags: "#fashion, #stuttgart, #makijazpermanentny, #makeup"
   - username: "renata_molenda"
     fullname: >-
       Renata Molenda Official💎
@@ -43,18 +91,6 @@ profiles:
     id: ck9we4ty4ilio0j78d3l9oun7
     verified: false
     hashtags: "#style, #love, #photography, #happy"
-  - username: "00martinka"
-    fullname: >-
-      Martynka 😍
-    bio: >-
-      💙 Martyna 🌺 ❤ 19 💙 Jeśli już to czytasz to życzę Ci miłego dnia 😇🌼
-    location: "Poland"
-    followers: 87176
-    engagement: 233
-    commentsToLikes: 0.043058
-    id: ck9hbify9gz280j78ahhoel7t
-    verified: false
-    hashtags: "#selfiegram, #brown, #girly, #kobieta"
   - username: "kobieta_w_wojsku"
     fullname: >-
       
@@ -67,64 +103,28 @@ profiles:
     id: ck8swh64fe2u90j78kuv38vcw
     verified: false
     hashtags: "#hair, #makeup, #polskadziewczyna, #women"
-  - username: "goshie.s"
+  - username: "sylwiabomba"
     fullname: >-
-      Gosia - Fashion ° Style
+      Sylwia Bomba
     bio: >-
-      Fashion inspo | Lifestyle | Travel 📍UK ' 87 🇵🇱 Polish DM | Email for collab
+      Warszawa Gogglebox Fotograf Magister Sztuki po Szkole Filmowej Telewizyjnej i Teatralnej w Łodzi Collaboration 👉🏻sylwia.bomba@gmail.com
     location: "Poland"
-    followers: 3366
-    engagement: 1354
-    commentsToLikes: 0.234685
-    id: ckapcgio73q0j0i78umcjfhhz
-    verified: false
-    hashtags: "#fashion, #winterfashion, #beauty, #girl"
-  - username: "mymanialife"
+    followers: 899008
+    engagement: 293
+    commentsToLikes: 0.021224
+    id: ck15rqgie96mf0i19gesq78ze
+    verified: true
+    hashtags: "#video, #gogglebox, #together, #body"
+  - username: "sylwia_peretti"
     fullname: >-
-      Fitz
+      Sylwia Peretti
     bio: >-
-      Tęsknota Oglądaj story 🥀⚡ 2 acc @fikcyjnie 📫Collab dm 🙋‍♀️ 18 📧agatafic749@gmail.com 26.06.2019 🔐💑
+      Manag. Adam Zajkowski - 📧 management.sylwiaperetti@gmail.com 🚗 Motomaniac 📺 Królowe Życia 9/10 💣 @grupa_geofusion 🎁 #paczkaperetki
     location: "Poland"
-    followers: 25677
-    engagement: 327
-    commentsToLikes: 0.047039
-    id: ck5qdwjhgxmtr0i11zn8gphuc
+    followers: 424440
+    engagement: 268
+    commentsToLikes: 0.013716
+    id: ckaou0q0qya2e0i787ke1uj7n
     verified: false
-    hashtags: "#artistic, #goth, #alternativestyle, #makeup"
-  - username: "judie__"
-    fullname: >-
-      Julia Rompalska
-    bio: >-
-      Freelance Model Poland❤Gdynia / Warsaw Collaboration: DM 💌 juliarompalska@gmail.com
-    location: "Poland"
-    followers: 45160
-    engagement: 749
-    commentsToLikes: 0.030220
-    id: ck136ooih7i8q0i1918jdbb53
-    verified: false
-    hashtags: "#sand, #makeuplook, #photoshoot, #sun"
-  - username: "monikachwajol_official"
-    fullname: >-
-      Monika Chwajoł 👑
-    bio: >-
-      ⚜️Singer🎤 ⚜️Fashion Designer MCPremium®️ MC1978®️ ⚜️Businesswoman ⚜️Reality Show Współpraca: monikachwajolmusic@gmail.com Mój kanał na YouTube⬇️⬇️
-    location: "Poland"
-    followers: 87038
-    engagement: 580
-    commentsToLikes: 0.019046
-    id: ck5q5g8gpsqws0i11f07dvys1
-    verified: false
-    hashtags: "#friday, #sun, #weekend, #wear"
-  - username: "mrs_xo_oficjalnie"
-    fullname: >-
-      Sylwia ⭐
-    bio: >-
-      Snapczaty 👉 sylaaa010 👻 ♡🌞💃🤳👅👙👑💎 🦊🍩🧸 29.10🎂🎁
-    location: "Poland"
-    followers: 5932
-    engagement: 1429
-    commentsToLikes: 0.011165
-    id: ckf5ui0l1l08h0j23oytlfth9
-    verified: false
-    hashtags: "#lookatme, #lookoftheday, #follow4followback, #instamood"
+    hashtags: "#rolex, #look, #montecarlo, #bluesky"
 ---

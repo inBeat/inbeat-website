@@ -1,12 +1,36 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Vancouver In 2023
+title: Top 10 Lifestyle Instagram Influencers In Vancouver In 2024
 description: >-
-  Find top lifestyle Instagram influencers in Vancouver in 2023. Most popular hashtags: #explorebc #vancouverblogger #beautifuldestinations.
+  Find top lifestyle Instagram influencers in Vancouver in 2024. Most popular hashtags: #vancouverblogger #vancouverbc #explorepage #canadianblogger.
 platform: Instagram
-hits: 78
-text_top: Analyze the most popular Instagram accounts on inBeat.
-text_bottom: Our search engine has 78 Instagram influencers like this in Vancouver, Canada for you to pitch.
+hits: 178
+text_top: See the best Instagram profiles on inBeat.
+text_bottom: Our database has 178 Instagram influencers like this in Vancouver, Canada for you to collaborate.
 profiles:
+  - username: "brittanyng"
+    fullname: >-
+      brittany ng 🍒
+    bio: >-
+      my digital outfit diary | fashion • lifestyle • vancouver, bc • tiktok: brrrittanyng 💌 hello@sobrittany.com
+    location: "Canada"
+    followers: 17982
+    engagement: 312
+    commentsToLikes: 0.209793
+    id: ck14itm82h3xd0i196d7aac9k
+    verified: false
+    hashtags: "#vancouverstyle, #petitestyle, #pintereststyle, #scandimuses"
+  - username: "jaccirai"
+    fullname: >-
+      Jacci Rai
+    bio: >-
+      video editor | fashion reels | lifestyle vancouver 🦋 ✉️: jaccirai@gmail.com
+    location: "Canada"
+    followers: 13628
+    engagement: 364
+    commentsToLikes: 0.068210
+    id: ck6tozft1gyxb0j7183i1xr8a
+    verified: false
+    hashtags: "#bolero, #canadianblogger, #femalestreetwear, #reelinspo"
   - username: "eyeroam"
     fullname: >-
       Sterling Lorence
@@ -19,112 +43,88 @@ profiles:
     id: ck0tt3olf10pz0i19hk925e8i
     verified: false
     hashtags: "#sportsphotography, #outsideculture, #explorebc, #hellobc"
-  - username: "rubygillett"
+  - username: "magda_trueliving"
     fullname: >-
-      RUBY GILLETT
+      Magda Bitoiu- Midlife Fashion | Travel | Lifestyle
     bio: >-
-      Fashion • Beauty • Lifestyle 📍Vancouver, BC 🇨🇦
+      👋 CONTENT CREATOR 📍VANCOUVER BC 👋Let’s embrace our age with grace and gusto. Women over 50, we possess a reservoir of wisdom, resilience, and style!
     location: "Canada"
-    followers: 10527
-    engagement: 278
-    commentsToLikes: 0.111067
-    id: ck5zk4ycdithz0i14mci6hlj1
+    followers: 25636
+    engagement: 155
+    commentsToLikes: 0.788423
+    id: clzj0rwpcz3nu0k08qlgookpg
     verified: false
-    hashtags: "#founditonamazon, #gifted, #amazonassociate, #ad"
-  - username: "jessica.bate_"
+    hashtags: "#over50influencer, #influencerover50, #over50style, #over50andfabulous"
+  - username: "j.andhercrew"
     fullname: >-
-      PHOTOGRAPHER | VICTORIA, BC
+      Jerlyn
     bio: >-
-      Jessica Bate brand, lifestyle + portrait Vancouver & Victoria, BC and beyond keeping it dreamy ✨ PORTFOLIO & BOOKINGS ↓
+      ♡ Motherhood • Lifestyle • Adventures Vancouver, BC 🇨🇦 DM/email for collabs
     location: "Canada"
-    followers: 7426
-    engagement: 416
-    commentsToLikes: 0.079613
-    id: ck5znzaswpfz50i14lbzgf2sz
+    followers: 23352
+    engagement: 437
+    commentsToLikes: 0.503974
+    id: ck0u73zbi3ng00i19hwtcqpw2
     verified: false
-    hashtags: "#gopro"
-  - username: "bethanygillatt"
+    hashtags: "#joyfulmamas, #momlifeisthebestlife, #motherhoodrising, #mommylife"
+  - username: "itszoe.z"
     fullname: >-
-      Beth Gillatt
+      Zoe 🦋
     bio: >-
-      fashion, beauty & lifestyle 📍Vancouver Island, Canada ✉️ bethpgillatt@gmail.com
+      fashion & lifestyle inspo vancouver, bc ✉️ contactzoezhou@gmail.com
     location: "Canada"
-    followers: 10970
-    engagement: 607
-    commentsToLikes: 0.102583
-    id: ckap3j6nq37ul0i785qhyveeh
+    followers: 7847
+    engagement: 747
+    commentsToLikes: 0.170230
+    id: ckxtmj486cppf0j23k944skpd
     verified: false
-    hashtags: "#princesspolly, #vitaeapparel, #vitaebabe, #vitaebabes"
-  - username: "blueroseartistry"
+    hashtags: "#outfitblogger, #minimalstyledaily, #falloutfits, #effortlesschic"
+  - username: "chclaireh"
     fullname: >-
-      Sohal Grewal 🤍
+      claire
     bio: >-
-      Makeup artist | lifestyle | weddings Vancouver Canada 📍available for travel 🌎 Email for Bookings & brand partnerships 🤍 info@blueroseartistry.com 📧
+      Wellness lifestyle + Motivation @ Vancouver 📹: Mind dumping my thoughts on life ✉️: chclaireh@gmail.com
     location: "Canada"
-    followers: 190805
-    engagement: 104
-    commentsToLikes: 0.045754
-    id: ck14kquldqust0i19sz4cqggu
+    followers: 52265
+    engagement: 970
+    commentsToLikes: 0.011928
+    id: clo3xnailm9on0j08e44bzhk4
     verified: false
-    hashtags: "#blueroseartistry"
-  - username: "lifeisbetterathome"
-    fullname: >-
-      Judy - Life Is Better At Home
-    bio: >-
-      Home + Family + Lifestyle 🤍 Vancouver, BC
-    location: "Canada"
-    followers: 31853
-    engagement: 58
-    commentsToLikes: 0.204188
-    id: ck6twb2j8qzys0j71kt49btll
-    verified: false
-    hashtags: "#myhgtv, #thedelightofdecor, #homedecorideas, #simplystyleyourspace"
+    hashtags: "#mindset, #healing, #mindsetmatters, #mentalhealth"
   - username: "itsbigben"
     fullname: >-
       Benjamin Prescott
     bio: >-
-      Adventure Lifestyle Photographer Vancouver Canada
+      Adventure Lifestyle Photographer Vancouver BC based @benandtiana
     location: "Canada"
-    followers: 424884
-    engagement: 207
-    commentsToLikes: 0.014263
+    followers: 407855
+    engagement: 366
+    commentsToLikes: 0.024454
     id: ck0tvpilrcabk0i19v1younls
     verified: false
-    hashtags: "#35mm, #35mmfilm, #fieldstories"
-  - username: "wong.jpg"
+    hashtags: "#torresdelpaine, #patagonia, #wtrek, #refugiopainegrande"
+  - username: "shewearslove"
     fullname: >-
-      Michelle
+      Amrit Heer
     bio: >-
-      content creator fashion / travel / lifestyle 🏴 vancouver, canada ✉️ wongjpg@gmail.com
+      •Vancouver🇨🇦 Lifestyle •Inspiring you to follow your dreams while raising your little babes🤍 •Model @lizbellagency ↓Read the Blog↓
     location: "Canada"
-    followers: 26895
-    engagement: 78
-    commentsToLikes: 0.032131
-    id: ck138ado3fa5n0i19m5gbbukv
+    followers: 27299
+    engagement: 272
+    commentsToLikes: 0.899124
+    id: ck6u7wih6o2720j717p2096ha
     verified: false
-    hashtags: "#adidasfalcon, #aritzia, #missygirls, #cosstores"
-  - username: "twiiler"
+    hashtags: "#canadianblogger, #604now, #vancouvermom, #vancouverbc"
+  - username: "micjanee"
     fullname: >-
-      Tyler White
+      M I C H A E L A J A N E
     bio: >-
-      Based in Vancouver Lifestyle | Travel | Product Ambassador - @jlabaudio | @fstopgear > collab@ashmincommunications.com
+      fashion • beauty • lifestyle • fitness vancouver + la based 💌 micjanee.k@gmail.com / @jabberhaus
     location: "Canada"
-    followers: 39202
-    engagement: 169
-    commentsToLikes: 0.045625
-    id: ck0w4rufo03kt0i19zkaljq5x
+    followers: 136939
+    engagement: 136
+    commentsToLikes: 0.057982
+    id: ck0vw34ekrvwi0i19p5yqtkgk
     verified: false
-    hashtags: "#winter, #beautifuldestinations, #thegreatplanet, #adventurenthusiasts"
-  - username: "purelycristina"
-    fullname: >-
-      Cristina🦋Purely Plant Powered
-    bio: >-
-      wellness, health, lifestyle 22 | Vancouver 💌 cristina.delmaestro@gmail.com 🧬BSc Molecular Biology & Biochemistry Student
-    location: "Canada"
-    followers: 7242
-    engagement: 1751
-    commentsToLikes: 0.165954
-    id: ck6trzfcy1yrf0j71r5m0osjh
-    verified: false
-    hashtags: "#proteinsmoothie, #healthysmoothies, #wellnessaesthetic, #greensmoothierecipe"
+    hashtags: "#cleaningasmr, #lovelulus, #vacationinspiration, #cleanwithme"
 ---

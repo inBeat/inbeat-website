@@ -1,130 +1,130 @@
 ---
-title: Top 10 Cinema Instagram Influencers In Brazil In 2023
+title: Top 10 Cinema Instagram Influencers In Brazil In 2024
 description: >-
-  Find top cinema Instagram influencers in Brazil in 2023. Most popular hashtags: #cinema #reels #filmes.
+  Find top cinema Instagram influencers in Brazil in 2024. Most popular hashtags: #meme #filme #homemaranha.
 platform: Instagram
-hits: 679
-text_top: Identify the best Instagram accounts on inBeat.
-text_bottom: Our database aggregates 679 Instagram influencers like this in Brazil for you to connect with.
+hits: 731
+text_top: Analyze the most popular Instagram profiles on inBeat.
+text_bottom: inBeat has 731 Instagram influencers like this in Brazil for you to work with.
 profiles:
-  - username: "avidaemsalvador"
+  - username: "breno.aceti"
     fullname: >-
-      A Vida Em Salvador
+      Breno Aceti
     bio: >-
-      👨🏽‍💻 Salvador por Caio Costa - @blogcitario e cinema @cinemaemsalvador 📧 Publicidade: caiovcosta@gmail.com ⬇️ Acesse o blog para + dicas
+      ⚡️| Ator e Atleta 🎥| Conto histórias unindo esporte e cinema 🥇| @mithoficial 🏷️ACETI 🚀| @adaptogen.oficial 🏷️ACETI15 📩| brenoaceticomercial@gmail.com
     location: "Brazil"
-    followers: 138244
-    engagement: 297
-    commentsToLikes: 0.020931
-    id: ck1342ymxufug0i19lh2bionm
+    followers: 207378
+    engagement: 770
+    commentsToLikes: 0.052996
+    id: ck5znycyape3f0i143vliyujd
     verified: false
-    hashtags: "#salvadorbahia, #avidaemsalvador, #salvador, #bahia"
-  - username: "adriano.occulto"
+    hashtags: "#humorfitness, #viral, #com, #humorbrasil"
+  - username: "matheusjucinsky"
     fullname: >-
-      Adriano Occulto
+      Matheus Jucinsky
     bio: >-
-      Italy 🇮🇹 CINEMA / TV : @cdastudiodinardo 📈: adrianoocculto@cdastudiodinardo.com
+      🎥 Conteúdo sobre Cinema e Animações ▶️ 2 milhões no Youtube - Projeto Corneta 📩 contato@projetocorneta.com 📺 Viagem no Tempo… 📘
     location: "Brazil"
-    followers: 352388
-    engagement: 1289
-    commentsToLikes: 0.029532
-    id: ck0w70msab5zt0i19kbqcw87x
-    verified: true
-    hashtags: "#christmas, #mybirthday, #spain, #bodytransformation"
-  - username: "euanapaulasantosreal"
-    fullname: >-
-      Ana Paula Santos
-    bio: >-
-      🙋🏾‍♂️ Mãe 📽 Jornalista 🎬Pós-graduada em Cinema Documentário ☀️ Sou do dia @redeglobo
-    location: "Brazil"
-    followers: 20993
-    engagement: 760
-    commentsToLikes: 0.081091
-    id: ck15sbxkac8dq0i1912wvzaip
+    followers: 120674
+    engagement: 1155
+    commentsToLikes: 0.021967
+    id: ck5q4u2nsq95a0i11vq1cm7s4
     verified: false
-    hashtags: "#anapaulasantos, #juntosnaglobo, #profissaoreporter, #consci"
-  - username: "isaquejuniorfilm"
+    hashtags: "#curiosidades, #vcsabia, #tudumnetflix, #dublagem"
+  - username: "eolor"
     fullname: >-
-      ISAQUE JUNIOR
+      ARTH
     bio: >-
-      Retrato & Cinematografia 📍São Luís, BR 🗓 Marc RJ/BH
+      Oi, sou o ARTH, aqui você encontra muito entretenimento 🤩 Vem comigo! 🥇 Música | Cinema | Televisão conteudoarth@gmail.com
     location: "Brazil"
-    followers: 8994
-    engagement: 667
-    commentsToLikes: 0.092791
-    id: ck6ufyhevzvqf0j71w69lol62
+    followers: 246749
+    engagement: 470
+    commentsToLikes: 0.029354
+    id: ckap4qygr8h610i78o115mjxh
     verified: false
-    hashtags: "#theportraitpr0ject, #moodyports, #headspacemag, #fujifilmxt3"
-  - username: "dududaibert"
+    hashtags: "#emalta, #anitta, #beyonce, #marifernandez"
+  - username: "mayarabertolini"
     fullname: >-
-      Eduardo Daibert
+      Mayara Bertolini | Atriz e influenciadora
     bio: >-
-      Faço uns vídeos pra internet 😜 Teatro e Cinema clica ai vai 👇🏻
+      🎭 DRT: 0058423/RJ 🧑🏻‍🎓 Formada em Rádio e tv 🎬 Filme Nada a Perder - CINEMA/NETFLIX 📍 Osasco / SP
     location: "Brazil"
-    followers: 18872
-    engagement: 6727
-    commentsToLikes: 0.027553
-    id: ck9whfugmxnt70j788t7id7ur
+    followers: 100574
+    engagement: 434
+    commentsToLikes: 0.014643
+    id: ck8t35ytj20c10j78x94e8nu8
     verified: false
-    hashtags: "#mansao, #diva, #love, #explore"
-  - username: "tainabastosphoto"
+    hashtags: "#shein99, #sheinforall, #sheinpartner, #reels"
+  - username: "officialmumbo"
     fullname: >-
-      Tainá Bastos
+      Oli Brotherhood
     bio: >-
-      Bem-vinda ao nível mais alto da sua autoestima ✨ 📍Do Rio pro mundo • Formada em Cinema • AGENDA 2021 ABERTA • Por @tainabastos
+      Photo’s from a Minecraft playing filmmaker. Cinematography: @oli.brotherhood ✌️❤️🌱
     location: "Brazil"
-    followers: 20961
-    engagement: 323
-    commentsToLikes: 0.156490
-    id: ck602sg5xiwq20i145k4uqn1y
+    followers: 274716
+    engagement: 580
+    commentsToLikes: 0.004690
+    id: ckapa99glv8xj0i78uflqk8l6
     verified: false
-    hashtags: ""
-  - username: "selmalopesoficial"
+    hashtags: "#dp, #drivetastefully, #x100, #strongisland"
+  - username: "mundodeconforto"
     fullname: >-
-      Selma Lopes
+      Mundo de Conforto | Filmes, Séries e Música
     bio: >-
-      Dublagem 🎙️ Cinema🎬🎥 Teatro 🎭 Rádio 🎧 Voz oficial da Whoopi Goldberg no Brasil🇧🇷 Voz oficial da Marge Simpson no Brasil 🇧🇷
+      Tudo sobre o mundo de conforto do Cinema, das Séries de TV e da Cultura Pop em geral 💙 ⠀ 🔔 Notícias 📃 Listas 🍿 Indicações ☂️ e Muito Mais!
     location: "Brazil"
-    followers: 7450
-    engagement: 1299
-    commentsToLikes: 0.069400
-    id: ck5q4u8jbq9si0i11eeu4dlbw
+    followers: 725939
+    engagement: 407
+    commentsToLikes: 0.017812
+    id: ck8t6gthndkx10j788hxdzy6s
     verified: false
-    hashtags: "#filmes, #selmalopesoficial, #cinema, #radio"
-  - username: "gihvalentino"
+    hashtags: "#publicidade, #dungeonsanddragons"
+  - username: "logicanerd"
     fullname: >-
-      Giovanna Valentino
+      Lógica Nerd
     bio: >-
-      Modelo👠 Atriz🎭 dancer💃Influencer⭐️ Cursando 7°ano de cinema ,teatro e TV / Tiktok: Giovannavalentino (160K+) Trabalhos direct
+      🥇| N1° de Pernambuco 📩|comercial@logicanerd.com 🍿|O DEMÔNIO DOS MARES 👇🏻|Hoje nos cinemas
     location: "Brazil"
-    followers: 97464
-    engagement: 264
-    commentsToLikes: 0.036863
-    id: ck5hiwfnvfl2j0i1122mllfpq
+    followers: 357200
+    engagement: 813
+    commentsToLikes: 0.015491
+    id: ckaoyl2j2hxgc0i7867pxk5eb
     verified: false
-    hashtags: "#reels, #explore, #explorar, #explorepage"
-  - username: "bfaulin"
+    hashtags: "#marvelcomics, #milesmorales, #geek, #homemaranha"
+  - username: "historianopaint"
     fullname: >-
-      Bruno Faulin
+      Leandro Marin
     bio: >-
-      📍 São Paulo - SP 🍿 Apaixonado pelo mundo do #Entretenimento! 🎬 Comunicólogo pós graduado em #Cinema 📫 bfaulin@gmail.com Meu canal no Youtube! ⤵️
+      ☕️Humanidades - cinema - literatura - opiniões impopulares no geral 💬Comercial: historianopaint@vaideonda.com.br
     location: "Brazil"
-    followers: 22924
-    engagement: 236
-    commentsToLikes: 0.100208
-    id: ck15pircfy39q0i199gpozacp
+    followers: 623026
+    engagement: 371
+    commentsToLikes: 0.014265
+    id: ck15u9eyfm2hp0i19wgrdcv5m
     verified: false
-    hashtags: "#brunofaulin, #ccxpworlds, #geekbrasil, #netflixbrasil"
-  - username: "viagensliterarias_"
+    hashtags: "#adiaenem"
+  - username: "nerdonautas"
     fullname: >-
-      Monique Braga | Rennan Gardini
+      Nerdonautas
     bio: >-
-      📚 Produtores de Conteúdo 🌟 Livros, Cinema, Quadrinhos e Cultura Pop 📌 Manaus - Am 👇Se inscreve no Canal
+      Nós trazemos as principais notícias da cultura pop, cinema, hq's, séries de TV, games e muito mais, com muito bom humor. Acesse nossas redes:
     location: "Brazil"
-    followers: 14669
-    engagement: 339
-    commentsToLikes: 0.068458
-    id: ck8t8pos6lagk0j78zzv2vgrk
+    followers: 98589
+    engagement: 263
+    commentsToLikes: 0.007685
+    id: ck0u15nc6vykr0i19yhinf3sh
     verified: false
-    hashtags: "#reels, #bookstagram, #instagramliterario, #reelsliterario"
+    hashtags: "#naughtydog, #tlou, #henry, #joel"
+  - username: "pinheirocamila"
+    fullname: >-
+      CAMILA PINHEIRO
+    bio: >-
+      Bass @shileperhigh Apaixonada por rock e cinema🤘🎥 DEI UM PAU NA PORRA DO CÂNCER!👊 Idealizadora do #MexeuComAMinaErrada cpinheiro.assessoria@gmail.com
+    location: "Brazil"
+    followers: 295036
+    engagement: 212
+    commentsToLikes: 0.025786
+    id: ck0ttyohh4w7u0i19o8v4znio
+    verified: false
+    hashtags: "#cervejablackprincess, #bebacomsabedoria, #barbie, #tbt"
 ---

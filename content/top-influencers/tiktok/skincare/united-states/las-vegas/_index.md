@@ -1,12 +1,24 @@
 ---
-title: Top 10 Skincare TikTok Influencers In Las Vegas In 2023
+title: Top 10 Skincare TikTok Influencers In Las Vegas In 2024
 description: >-
-  Find top skincare TikTok influencers in Las Vegas in 2023. Most popular hashtags: #fyp #skincare #foryou #lasvegas.
+  Find top skincare TikTok influencers in Las Vegas in 2024. Most popular hashtags: #fyp #skincare #foryou #lasvegas.
 platform: TikTok
-hits: 12
-text_top: Discover the top-rated TikTok profiles on inBeat.
-text_bottom: Our search engine holds 12 TikTok influencers like this in Las Vegas, United States for you to work with.
+hits: 13
+text_top: See the most popular TikTok accounts on inBeat.
+text_bottom: Our platform holds 13 TikTok influencers like this in Las Vegas, United States for you to pitch.
 profiles:
+  - username: "kianachampion"
+    fullname: >-
+      Kiana Champion 
+    bio: >-
+      Christian🙌🏼 23 IG:Green_eyedmermaid🧜🏻‍♀️ Collabs⬇️ Kianachampion@Tiktal.co
+    location: "United States"
+    followers: 263500
+    engagement: 585
+    commentsToLikes: 0.022505
+    id: ck83zsic72nyq0j78mfmy070h
+    verified: false
+    hashtags: "#weddings, #weddingtiktok, #weddingtips, #wedding"
   - username: "allrealallthetime"
     fullname: >-
       Terry Lashley
@@ -19,30 +31,18 @@ profiles:
     id: ck9v9snojezog0j78sjgrh2cw
     verified: false
     hashtags: "#fyp, #fatherdaughter, #foryou, #girldad"
-  - username: "kianachampion"
-    fullname: >-
-      Kiana Champion 
-    bio: >-
-      Christian🙌🏼 23 IG:Green_eyedmermaid🧜🏻‍♀️ Collabs⬇️ Kianachampion@Tiktal.co
-    location: "United States"
-    followers: 263500
-    engagement: 585
-    commentsToLikes: 0.022505
-    id: ck83zsic72nyq0j78mfmy070h
-    verified: false
-    hashtags: "#fyp, #comedy, #weddings, #weddingtips"
   - username: "zedelen"
     fullname: >-
       zachary.
     bio: >-
-      🖤🦋loverboy🦋🖤 las vegas
+      🖤🦋loverboy🦋🖤 las vegas ♊️
     location: "United States"
-    followers: 14100
-    engagement: 675
-    commentsToLikes: 0.063777
+    followers: 14000
+    engagement: 793
+    commentsToLikes: 0.073234
     id: ckaikeqavj5hz0i78cre8zzb4
     verified: false
-    hashtags: "#whatsyourpower, #duet, #fyp, #skincare"
+    hashtags: "#duet, #fyp, #whatsyourpower, #biorenosestrip"
   - username: "lizandmargaret"
     fullname: >-
       Liz + Margaret | 50 Plus Style
@@ -66,7 +66,7 @@ profiles:
     commentsToLikes: 0.010057
     id: ck9fmallys3810j78tozkgj3a
     verified: false
-    hashtags: "#foryou, #makeup, #fyp, #foru"
+    hashtags: "#fyp, #foru, #makeup, #foryou"
   - username: "timmyhanlon"
     fullname: >-
       Timmy Hanlon
@@ -78,7 +78,7 @@ profiles:
     commentsToLikes: 0.058138
     id: ck8f8vyvn3orc0j7831ayl1ob
     verified: false
-    hashtags: "#duet, #photographer, #lasvegas, #fyp"
+    hashtags: "#lasvegas, #artober, #fyp, #duet"
   - username: "trishrave"
     fullname: >-
       Trishrave
@@ -102,7 +102,7 @@ profiles:
     commentsToLikes: 0.030483
     id: ckfpluq4f0wfs0j2355fq1p5m
     verified: false
-    hashtags: "#skincare, #sunny, #vlog, #sunset"
+    hashtags: "#vlog, #sunny, #sunset, #skincare"
   - username: "nikahola"
     fullname: >-
       Niklas Ahola
@@ -126,5 +126,5 @@ profiles:
     commentsToLikes: 0.078674
     id: ck81qyg6fky730j78kx9ipiqh
     verified: false
-    hashtags: "#dapper, #teacher, #bowtie, #recycle"
+    hashtags: "#cleaningstrike, #teacherlife, #teacherappreciationweek, #fyp"
 ---

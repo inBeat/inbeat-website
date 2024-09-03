@@ -1,130 +1,130 @@
 ---
-title: Top 10 Bloggers Instagram Influencers In Poland In 2023
+title: Top 10 Bloggers Instagram Influencers In Poland In 2024
 description: >-
-  Find top bloggers Instagram influencers in Poland in 2023. Most popular hashtags: #kosmetyki #wakacje #summer.
+  Find top bloggers Instagram influencers in Poland in 2024. Most popular hashtags: #wsp #skincare #kosmetyki #polishgirl.
 platform: Instagram
-hits: 416
-text_top: Analyze the best Instagram accounts on inBeat.
-text_bottom: Our database has 416 Instagram influencers like this in Poland for you to work with.
+hits: 402
+text_top: See the most popular Instagram profiles on inBeat.
+text_bottom: Our search engine has 402 Instagram influencers like this in Poland for you to contact.
 profiles:
-  - username: "klaudia_cukierpuder"
+  - username: "studio_pieknaa"
     fullname: >-
-      Klaudia Łańcucka
+      Paula Zaprasza! :)
     bio: >-
-      💄 Makeup Artist & Beauty Blogger from Poland 🇵🇱 🎬 YouTube - KlaudiaCukierPuder 🔥 Kontakt: wspolpraca@klaudiacukierpuder.pl 👇🏻Bądź pierwszy👇🏻
+      Beauty Blogger ♥ Makeup | Beauty | Lifestyle COLLAB/PR: studio_pieknaa@wp.pl or DM 📥 Zakaz kopiowania zdjęć !
     location: "Poland"
-    followers: 80544
-    engagement: 503
-    commentsToLikes: 0.024974
-    id: ck0udksxmje6g0i19nktkpvoc
+    followers: 28730
+    engagement: 559
+    commentsToLikes: 0.029404
+    id: ck8t83f65iyq40j78y0dnm7d2
     verified: false
-    hashtags: "#ootd, #springvibes, #makeuplover, #nowo"
-  - username: "sylka_ciekawska"
+    hashtags: "#polecam, #nowosci, #pielegnacjatwarzy, #rozdanie"
+  - username: "patrykbieganski"
     fullname: >-
-      Sylka Ciekawska
+      Patryk Biegański | Travel Photography
     bio: >-
-      Contact-Collab : igielskaa1@gmail.com 💄 INFLUENCER 🌺 LIFESTYLE BLOGGER Love travel ;) PL✈UK
+      🏔 Landscape & Cityscape Photographer 🌍 Traveler • Travel Blogger 🪐 Content Creator 📷 Sigma • Marumi Ambassador
     location: "Poland"
-    followers: 56964
-    engagement: 378
-    commentsToLikes: 0.031483
-    id: ck5hq3ep7sfg40i114bf1a39q
+    followers: 17837
+    engagement: 1264
+    commentsToLikes: 0.046029
+    id: ck5bx6w32n4ai0i11sspu3u97
     verified: false
-    hashtags: "#sheingals, #kosmetyki, #pielegnacja, #flatlaystyle"
-  - username: "gabrielajaworska"
-    fullname: >-
-      Gabriela Jaworska
-    bio: >-
-      Blogger Wyprzedaż szafy - @szafagabi2000 Ambasadorka - @tally_weijl „gabrielatwgang” @sklep.sfd „GABI10” 💌 gabriela911@wp.pl or DM
-    location: "Poland"
-    followers: 24067
-    engagement: 660
-    commentsToLikes: 0.077157
-    id: ck0w3mdsuu56m0i1985vik417
-    verified: false
-    hashtags: "#polishbody, #sunglasses, #mood, #gymset"
-  - username: "solecka_p"
-    fullname: >-
-      𝓟𝓪𝓾𝓵𝓪 𝓢𝓸𝓵𝓮𝓬𝓴𝓪
-    bio: >-
-      🎈05041998 🌹blogger/phototographer 🇵🇱Warsaw 📩Collab: DM/e-mail 📸@solecka_photography #warszawa #fashionblogger #bloggerstyle
-    location: "Poland"
-    followers: 15799
-    engagement: 611
-    commentsToLikes: 0.075808
-    id: ckf5p2yf04r6b0j230qutwjor
-    verified: false
-    hashtags: "#ambasador, #polskierozdanie, #mamawdwupaku, #positivevibes"
-  - username: "superstylerblog"
-    fullname: >-
-      Marta Lech-Maciejewska
-    bio: >-
-      Lifestyle, fashion, beauty & parenting blogger 🏖👗💄👶🏼 Matka Założycielka @spadiora 🎀 Twórca planszówki RODZICE ROKU ⏰
-    location: "Poland"
-    followers: 156762
-    engagement: 265
-    commentsToLikes: 0.035980
-    id: ck0u2987wzaa00i19rcggyqex
-    verified: true
-    hashtags: "#superstyler, #disneylandparis, #bracia, #madera"
+    hashtags: "#discover, #uniladadventure, #sunsetlovers, #worldclassshots"
   - username: "ulaasi"
     fullname: >-
       by Ula Lazarenko
     bio: >-
-      ✩ photographer & fashion blogger ✩ @lazarenko_photo ✩ hello@caremore.pl
+      photographer & fashion blogger basic outfits | casual style | fashion reels @lazarenko_photo ✉️ urszula.sitarz@gmail.com Warsaw based
     location: "Poland"
-    followers: 13470
-    engagement: 535
-    commentsToLikes: 0.100943
+    followers: 13657
+    engagement: 398
+    commentsToLikes: 0.150868
     id: ck8t4azl663z40j78v3icw9bw
     verified: false
-    hashtags: "#cccshoesbags, #jennyfairy, #basiclab, #eobuwie"
-  - username: "ptysiablog"
+    hashtags: "#adidassamba, #minimalisticstyle, #streetstylelook, #wasalaa"
+  - username: "agabil1"
     fullname: >-
-      Patrycja Hoffmann
+      Agnieszka Bil
     bio: >-
-      Fashion blogger / insta blogger👗👛👒 Zielona Góra / Wolsztyn / Poznań patrycja.hoffmann@gmail.com 💻 ❤️❤️❤️
+      blogger photographer lifestyle stylist florist makeupartist Collab ➡️ mail 📩 or direct 📥 My dogs 🐶 @kudly_forever agabj1@gmail.com
     location: "Poland"
-    followers: 7112
-    engagement: 1152
-    commentsToLikes: 0.069580
-    id: ck5zzj8vjbtur0i14nl3lleyh
+    followers: 20741
+    engagement: 614
+    commentsToLikes: 0.022179
+    id: ck13bc9tvuqi40i19fttlmsiw
     verified: false
-    hashtags: "#moda, #mariezelie, #aliexpress, #stylizacja"
-  - username: "misslilith"
+    hashtags: "#bag, #dryskin, #fashionstyles2me, #zakupyonline"
+  - username: "milena_blog"
     fullname: >-
-      𝐌 𝐈 𝐒 𝐒 𝐋 𝐈 𝐋 𝐈 𝐓 𝐇
+      Milena
     bio: >-
-      Beauty Blogger 🌸 Jeśli Cię do czegoś zainspirowałam, oznacz zdjęcie #MISSINSPIRUJE 📩 misslilith91@gmail.com 🌸BLOG🌸
+      📌Blogger since 2010 ▪️Tiktok 140k
     location: "Poland"
-    followers: 30098
-    engagement: 874
-    commentsToLikes: 0.022332
-    id: ck5c5oc5v3upd0i11rthi2we2
+    followers: 244174
+    engagement: 419
+    commentsToLikes: 0.037301
+    id: ck0vx63ovxbsf0i197rf1dk3e
     verified: false
-    hashtags: "#muasfeaturing, #bperfectcarnivalpalette, #colorfulmakeup, #makijazoczu"
-  - username: "paula_jagodzinska"
+    hashtags: "#grwm, #winteroutfit, #getreadywithme, #stylizacjanadzi"
+  - username: "imdollka"
     fullname: >-
-      Paula Jagodzińska
+      Kamila Piestrzyńska - Dollka
     bio: >-
-      My life, my motivation ✨❤️ Travel girl 🌍 Fashion blogger 💁🏼‍♀️ Adventure lover 💪🏼 Contact: jagodzinska.paulina@gmail.com 📩 Blog:
+      👾▪︎lvl 24▪︎All photos are mine.▪︎🇵🇱🇩🇪🇨🇭 #Blogger #Dubstep #Art #Beauty
     location: "Poland"
-    followers: 359866
-    engagement: 357
-    commentsToLikes: 0.017900
-    id: ck13bt723x1pz0i19dhdi2jqd
+    followers: 15270
+    engagement: 421
+    commentsToLikes: 0.011367
+    id: ck5zp7qnqs5g30i14jm560cac
     verified: false
-    hashtags: "#beautifuldestinations, #ootdinspo, #naturelovers, #naturephotography"
-  - username: "charlizemystery"
+    hashtags: "#polishboy, #artwork, #freetime, #hobby"
+  - username: "klaudia_cukierpuder"
     fullname: >-
-      Karolina Gliniecka
+      Klaudia Łańcucka
     bio: >-
-      ◾️Fashion and Lifestyle Blogger since 2008 📩 contact@charlizemystery.com 📍Warsaw
+      💄 Makeup Artist & Beauty Blogger from Poland 🇵🇱 🎬 YouTube - KlaudiaCukierPuder 🔥 Kontakt: cukierpuder@troyann.pl 👇🏻Bądź pierwszy👇🏻
     location: "Poland"
-    followers: 67134
-    engagement: 217
-    commentsToLikes: 0.050045
-    id: ck15u7ac9lrfu0i19e9139skq
+    followers: 105227
+    engagement: 322
+    commentsToLikes: 0.041460
+    id: ck0udksxmje6g0i19nktkpvoc
     verified: false
-    hashtags: "#timeyoudoyou, #prawdziweprosecco, #mionettotime, #pandorapolska"
+    hashtags: "#taniepere, #magicmoments, #nawil, #roz"
+  - username: "kamilakalinczak"
+    fullname: >-
+      Kamila Kalińczak
+    bio: >-
+      #ĄĘ wtorek czwartek - Facetka od polskiego TVN24BiS Radio ZET „Odkrycie roku 2022” - @see_bloggers #hosting #szkolenia kamila.kalinczak@gmail.com
+    location: "Poland"
+    followers: 374866
+    engagement: 315
+    commentsToLikes: 0.014289
+    id: ckaos2ou9pw5v0i78racemajw
+    verified: false
+    hashtags: "#italy, #tips, #fun, #edu"
+  - username: "omatkoicorko"
+    fullname: >-
+      O Matko I Córko!!!
+    bio: >-
+      🏆YouTuberki Roku 2022 wg. @see_bloggers Córka @paulina.bledowska Mama @kasia_i_tomek_ 📚Autorki OMatkoiCórko /YT / TT 📩omatkoicorkooo@gmail.com
+    location: "Poland"
+    followers: 390968
+    engagement: 262
+    commentsToLikes: 0.007052
+    id: ck5bx7vbtn6b90i11rf4m98fc
+    verified: false
+    hashtags: "#familyphotography, #wsp, #besties, #bettertogether"
+  - username: "gabrielajaworska"
+    fullname: >-
+      Gabriela Jaworska
+    bio: >-
+      Blogger @sheinofficial -15 % „GJ15” @czasnabutypl -20 % „gabrielajaworska” @real_pharm_nutrition -20 % „Gabi20” 💌 gabriela911@wp.pl or DM
+    location: "Poland"
+    followers: 26396
+    engagement: 209
+    commentsToLikes: 0.017099
+    id: ck0w3mdsuu56m0i1985vik417
+    verified: false
+    hashtags: "#blogerka, #meeting, #sheinquickship, #pakuten"
 ---

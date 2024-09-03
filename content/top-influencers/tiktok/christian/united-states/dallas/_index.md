@@ -1,11 +1,11 @@
 ---
-title: Top 10 Christian TikTok Influencers In Dallas In 2023
+title: Top 10 Christian TikTok Influencers In Dallas In 2024
 description: >-
-  Find top christian TikTok influencers in Dallas in 2023. Most popular hashtags: #fyp #christian #duet #foryou.
+  Find top christian TikTok influencers in Dallas in 2024. Most popular hashtags: #fyp #christian #duet #dallas.
 platform: TikTok
 hits: 16
-text_top: See the most popular TikTok profiles on inBeat.
-text_bottom: inBeat has 16 TikTok influencers like this in Dallas, United States for you to work with.
+text_top: Analyze the best TikTok influencers on inBeat.
+text_bottom: Our platform aggregates 16 TikTok influencers like this in Dallas, United States for you to collaborate.
 profiles:
   - username: "jeanineamapola"
     fullname: >-
@@ -18,19 +18,19 @@ profiles:
     commentsToLikes: 0.020707
     id: ck8070i3onn080j78jrgz5fh8
     verified: true
-    hashtags: "#jesus, #christian, #datingadvice, #fyp"
-  - username: "kaitlynlunaa"
+    hashtags: "#christiantiktok, #dating, #jesus, #fyp"
+  - username: "mak__miller"
     fullname: >-
-      Kaitlyn Luna
+      mak__miller
     bio: >-
-      I’m a little stitious
+      25 / DTX ballin on a budget
     location: "United States"
-    followers: 9619
-    engagement: 1738
-    commentsToLikes: 0.022554
-    id: ckb9bh8j0xqda0j237f455xex
+    followers: 2822
+    engagement: 1174
+    commentsToLikes: 0.057531
+    id: ckdnu5t3mmpdu0j234n7v6qq9
     verified: false
-    hashtags: "#mentalhealthmatters, #chipsgottalent, #chrisevans, #loml"
+    hashtags: "#foryou, #fyp, #fashion, #xyzbca"
   - username: "adwithit"
     fullname: >-
       adwitdacontent
@@ -103,18 +103,18 @@ profiles:
     id: ckal8linmk3ka0i78rijhpewx
     verified: false
     hashtags: "#single, #funny, #fyp, #foryourpage"
-  - username: "mak__miller"
+  - username: "kaitlynlunaa"
     fullname: >-
-      mak__miller
+      Kaitlyn Luna
     bio: >-
-      25 / DTX ballin on a budget
+      I’m a little stitious
     location: "United States"
-    followers: 2822
-    engagement: 1174
-    commentsToLikes: 0.057531
-    id: ckdnu5t3mmpdu0j234n7v6qq9
+    followers: 9619
+    engagement: 1738
+    commentsToLikes: 0.022554
+    id: ckb9bh8j0xqda0j237f455xex
     verified: false
-    hashtags: "#foryou, #fashion, #fyp, #xyzbca"
+    hashtags: "#mentalhealthmatters, #chipsgottalent, #chrisevans, #blackwidow"
   - username: "christiancaniff"
     fullname: >-
       Christian Caniff
@@ -126,5 +126,5 @@ profiles:
     commentsToLikes: 0.011684
     id: ck9flohwnp6hw0j78yaie5kw3
     verified: false
-    hashtags: "#foryoupage, #prank, #fyp, #mexicanjose"
+    hashtags: "#foryoupage, #prank, #fyp, #christiancaniff"
 ---

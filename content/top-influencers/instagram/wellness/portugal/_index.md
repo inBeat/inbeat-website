@@ -1,48 +1,36 @@
 ---
-title: Top 10 Wellness Instagram Influencers In Portugal In 2023
+title: Top 10 Wellness Instagram Influencers In Portugal In 2024
 description: >-
-  Find top wellness Instagram influencers in Portugal in 2023. Most popular hashtags: #fitness #instagood #motivation #healthylifestyle.
+  Find top wellness Instagram influencers in Portugal in 2024. Most popular hashtags: #wellness #training #fitness #fitnessmotivation.
 platform: Instagram
-hits: 9
-text_top: Discover the best Instagram profiles on inBeat.
-text_bottom: Our platform has 9 Instagram influencers like this in Portugal for you to work with.
+hits: 14
+text_top: Analyze the most popular Instagram profiles on inBeat.
+text_bottom: Our platform has 14 Instagram influencers like this in Portugal for you to connect with.
 profiles:
-  - username: "daphnemoreau"
+  - username: "alexandracortereal_"
     fullname: >-
-      Daphné Moreau (Mode&TheCity)
+      ® Alexandra Corte Real ✨
     bio: >-
-      ✨ Sharing everyday things that make me happy : wellness, conscious fashion, #cleanbeauty & home decor 🔑 @daphnesdreamhome 💌 daphne@modeandthecity.net
+      • 🇵🇹Oporto • WELLNESS ATHLETE ✨ • @prozis code - ALEXANDRA 💥 • 📥 ➡️alexandracortereal.instagram@gmail.com
     location: "Portugal"
-    followers: 188900
-    engagement: 242
-    commentsToLikes: 1.439422
-    id: ck0tu50yq5o140i19dtvus4cs
-    verified: true
-    hashtags: "#preppyfashion, #parisianstyle, #gossipgirl, #homerenovation"
-  - username: "rafaelaalexandra0"
-    fullname: >-
-      Rafaela Duarte | Healthy 💫
-    bio: >-
-      🌱 wellness | food | lifestyle 📖 Marketing e Publicidade 📍 Lisboa, Portugal 😋 PROZIS: RAFAELADUARTE 💻 @ellephant.pt 💫YouTube
-    location: "Portugal"
-    followers: 55768
-    engagement: 522
-    commentsToLikes: 0.029931
-    id: ckapbzw1a1xic0i78r1nx98i6
+    followers: 112867
+    engagement: 332
+    commentsToLikes: 0.007913
+    id: ck6to63qxcb9d0j71awwiv9m3
     verified: false
-    hashtags: "#healthychoices, #veganfood, #eathealthy, #healthylifestyle"
-  - username: "martinaaitolehtiofficial"
+    hashtags: "#prozis, #cupaoprozis, #sotembraba, #braba"
+  - username: "rosaliasoaresdacosta"
     fullname: >-
-      Martina Aitolehti
+      Rosália da Costa Alves
     bio: >-
-      • PT, Wellness & Nutrition coach • @superdry Triathlete • @mwebstorefi ➡️ koodilla MARTINA -10% ONLINE COACHING 👇🏽
+      Finding joy, balance & wellness ✨ Founder @zesty.pt
     location: "Portugal"
-    followers: 146224
-    engagement: 185
-    commentsToLikes: 0.006643
-    id: ck139zvzznxgw0i19wf8kx5t9
-    verified: true
-    hashtags: "#21pa, #21p, #maybeauty, #trainingwithmartina"
+    followers: 36236
+    engagement: 268
+    commentsToLikes: 0.019066
+    id: clogkxx0hrqhq0j082bzgakwu
+    verified: false
+    hashtags: "#mevsdarkspots, #forher, #healthylifestyles, #pub"
   - username: "fit_with_lia"
     fullname: >-
       🇱​🇮​🇦
@@ -55,6 +43,18 @@ profiles:
     id: ckap3nmgb3rj60i78yk8si2rv
     verified: false
     hashtags: "#academia, #fitnessmodel, #happy, #gym"
+  - username: "chrisingramrally"
+    fullname: >-
+      Chris Ingram
+    bio: >-
+      First British driver to become FIA European Rally Champion in 52 years 🏆 🌍
+    location: "Portugal"
+    followers: 42446
+    engagement: 252
+    commentsToLikes: 0.017302
+    id: ck0tzclogptcv0i19j2lznr1k
+    verified: false
+    hashtags: "#ad, #sealionswellness, #wellnesswellpriced, #protec"
   - username: "dave_mowe"
     fullname: >-
       Davide Dave Gioia
@@ -66,53 +66,65 @@ profiles:
     commentsToLikes: 0.021869
     id: ck6txdv3dx9lj0j7153kjm1a3
     verified: false
-    hashtags: "#crossfit, #lbs, #torino, #primal"
-  - username: "lifewithjad_"
+    hashtags: "#kettlebellworkout, #torino, #trainingday, #fitnessmotivation"
+  - username: "caatarinavieira"
     fullname: >-
-      🇱🇧JAD ASSI|Marketer|LEBANON|PT
+      Catarina Vieira | Travel
     bio: >-
-      🤸‍♂️PT 🕉Digital Marketer/content creator 🇱🇧Tour guide/event planner 👨‍🍳@fitnomzz 🍻ambassador @domaine_wardy @boomboom.leb 📲Book your Trips& sessions👇
+      ✈ Travel & Experiences 📷 Follow for daily travel content, unique stays and good food 🎓 Materials Engineer, based in Lisbon 🇵🇹
     location: "Portugal"
-    followers: 48670
-    engagement: 320
-    commentsToLikes: 0.277115
-    id: ck55oqxri8xqf0i11i2j7s0g7
+    followers: 22726
+    engagement: 346
+    commentsToLikes: 0.104730
+    id: ck8t0zgd2twjt0j78n5wk5dts
     verified: false
-    hashtags: "#beirut, #beautiful, #art, #follow"
-  - username: "elisalecce"
+    hashtags: "#visitcinqueterre, #florence, #firenze, #cinqueterre"
+  - username: "patriciamamona"
     fullname: >-
-      Pᴇʀsᴏɴᴀʟ Tʀᴀɪɴᴇʀ
+      PATRÍCIA MAMONA
     bio: >-
-      📍Mɪʟᴀɴ 🎓Sᴘᴏʀᴛ Sᴄɪᴇɴᴄᴇ 💻Oɴʟɪɴᴇ Pᴇʀsᴏɴᴀʟ Tʀᴀɪɴᴇʀ 🔥Aᴍʙᴀssᴀᴅᴏʀ @adidasita 🏋🏼‍♀️PT & GʀT @virginactiveit ⚽️Fᴏᴏᴛʙᴀʟʟ Pʟᴀʏᴇʀ @asd_riozzese_1964
+      🥈OLYMPIC SILVER MEDALIST 🥇🥇🥈🥈🥉EUROPEAN SCP & PUMA athlete 🇵🇹🇦🇴 @polarissports Have fun with my filter ⬇️⬇️⬇️
     location: "Portugal"
-    followers: 21668
-    engagement: 219
-    commentsToLikes: 0.017909
-    id: ckaosq70vslgu0i78exoatyi4
-    verified: false
-    hashtags: "#fitness, #personaltrainer, #virginactive, #adv"
-  - username: "elizabethshealthylife"
+    followers: 327774
+    engagement: 151
+    commentsToLikes: 0.011404
+    id: ck0u1mi21x9cs0i19pjweajll
+    verified: true
+    hashtags: "#athlete, #pilates, #visitmadeira, #feeling"
+  - username: "thobi_rose"
     fullname: >-
-      Elizabeth
+      Thobeka Mthembu
     bio: >-
-      💍 👦🏻 👦🏻🤱🏼🐶. Healthy, easy, family recipes always dairy-free. Fitness/Motivation. Pilates Instructor & PT MI. Spinal fusion and chronic pain recovery.
+      Travel + Lifestyle creator ✈️ | sharing other parts of my life | Changing the face of Travel | @postcardsfromthetribe 📧 hello@thobirose.com
     location: "Portugal"
-    followers: 5413
-    engagement: 810
-    commentsToLikes: 0.650059
-    id: ck14hyk16cs900i19y1cf1hu2
+    followers: 91972
+    engagement: 112
+    commentsToLikes: 0.067448
+    id: ck5hfk8v4xv5b0i11k697q0ml
     verified: false
-    hashtags: "#kidfriendly, #applegateambassador, #sponsor, #nopreservatives"
-  - username: "caykuijpers"
+    hashtags: "#nhhotelsandresorts, #zanzibar, #ad, #paje"
+  - username: "tothepointenutrition"
     fullname: >-
-      Cay | International Host
+      Rachel Fine
     bio: >-
-      Cert 3 & 4 PT Academy Australia Plant Queen 🌿 @tulliaindoorplants Fitness and Healthy Mind Advocate 👶 @iammagnusorion
+      MS RD CDN CEDS Dietitian for dancers🩰 Performance Nutrition + Intuitive Eating 🙋🏻‍♀️@dance_masterclass ✍🏼Dance Media The Healthy Dancer® 🔗 FREE TRIAL
     location: "Portugal"
-    followers: 66519
-    engagement: 114
-    commentsToLikes: 0.074643
-    id: ck0vws98ovcnv0i1927mqzo5g
+    followers: 39163
+    engagement: 162
+    commentsToLikes: 0.014918
+    id: ck6tkfn344lx00j714kteow87
     verified: false
-    hashtags: "#harleydavidsonroadking, #girlswhorun, #cruiserbike, #nature"
+    hashtags: "#yagp, #ballerinasofinstagram, #dancertips, #dancecompetition"
+  - username: "yogawith.iva"
+    fullname: >-
+      ivazanotte
+    bio: >-
+      🇵🇹🇧🇷 💪instructor stretching 👖yoga model 👉IVA20 my code for discount 👇 🧘‍♂️@yantraconnection Embassador 👵grandmother 👩‍👧‍👧mother of 2 @yoga.feminine
+    location: "Portugal"
+    followers: 18296
+    engagement: 302
+    commentsToLikes: 0.286324
+    id: ckapauezvxic70i78ot2ctr0a
+    verified: false
+    hashtags: "#twist, #yogagirl, #yoga, #yogapose"
 ---

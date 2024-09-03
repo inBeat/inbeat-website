@@ -1,130 +1,130 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Canada In 2023
+title: Top 10 Lifestyle Instagram Influencers In Canada In 2024
 description: >-
-  Find top lifestyle Instagram influencers in Canada in 2023. Most popular hashtags: #ad #christmas2022 #torontoblogger #homedecor.
+  Find top lifestyle Instagram influencers in Canada in 2024. Most popular hashtags: #toronto #style #fashion.
 platform: Instagram
-hits: 319
-text_top: Analyze the most popular Instagram influencers on inBeat.
-text_bottom: Our search engine aggregates 319 Instagram influencers like this in Canada for you to connect with.
+hits: 911
+text_top: Discover the best Instagram profiles on inBeat.
+text_bottom: inBeat aggregates 911 Instagram influencers like this in Canada for you to contact.
 profiles:
-  - username: "virginiepilotte"
+  - username: "karishmajashani"
     fullname: >-
-      VIRGINIE
+      Karishma Jashani
     bio: >-
-      mama de Thomas 🤍 ( & Mico 🐶 ) lifestyle, fashion, home decor québec, canada ✉️ viirg03@hotmail.ca ♡ partenaire @charlotteetcharlie
+      luxury beauty & lifestyle as a working mama 👩🏽‍💻🐣🧿 📍Singapore 💌karishmajashani@gmail.com
     location: "Canada"
-    followers: 32541
-    engagement: 593
-    commentsToLikes: 0.059708
-    id: ck55ppopob3mx0i11k0dp0cdv
+    followers: 25634
+    engagement: 442
+    commentsToLikes: 0.019334
+    id: ck15uiuqzne1u0i19vl98atrd
     verified: false
-    hashtags: "#sunsets, #sunset, #bikinis, #bikinigirl"
-  - username: "mommas_gang"
+    hashtags: "#baby, #haircare, #newborn, #beautytips"
+  - username: "scarlett_morse"
     fullname: >-
-      SAMMY
+      Scarlett Morse
     bio: >-
-      Momma x5 Motherhood | Autism Mom x2 | Lifestyle | Fashion Inquiries: sammybarcelos@icloud.com
+      Easy plant based recipes 🥑 Healthy lifestyle & good vibes 🌿 Mamma to ✌💕 10% @coconutbowls: Use SCARLETTCOCOBOWLS10
     location: "Canada"
-    followers: 30491
-    engagement: 1265
-    commentsToLikes: 0.020403
-    id: ck5zijlgfftz90i14vjkufxsl
+    followers: 7454
+    engagement: 1079
+    commentsToLikes: 0.142211
+    id: ck5c5wj3h49z30i11ma5vs87k
     verified: false
-    hashtags: "#shoppingdate, #catlover, #familyof7, #twinning"
-  - username: "twourism"
+    hashtags: "#nicecream, #smoothierecipe, #vegandesserts, #mycbsmoothiebowl"
+  - username: "vivianwong_"
     fullname: >-
-      A & M - Toronto Foodies
+      V
     bio: >-
-      Eats 🍔| Travels ✈️| Lifestyle👫🏽l Newly weds💍 🚨Sharing the best deals 🎥 Tiktok: 9.2k 💌 DM/Email to collab or to say hi! #torontofoodie #toronto #halal
+      Lifestyle, fashion, travel… It’s just my life 🥀 @yegcycle ambassador 🚲 @socialties.ca 🌙 ✉️ hello@vivian-wong.ca
     location: "Canada"
-    followers: 12221
-    engagement: 724
-    commentsToLikes: 0.226612
-    id: ck6ubkqqma5jw0j718b18nc2f
+    followers: 50406
+    engagement: 670
+    commentsToLikes: 0.014720
+    id: ck0vww6iuvvt90i19rap5fjx1
     verified: false
-    hashtags: "#torontoeats, #mississaugafood, #pakistanifashion, #torontobride"
-  - username: "hh.hager"
+    hashtags: "#travelgram, #workoutwithme, #style, #ootd"
+  - username: "azarialuvsu"
     fullname: >-
-      Hager Hanawy | Toronto creator
+      A Z A R I A
     bio: >-
-      Fashion / Makeup & lifestyle 💌 hagerhanawy@outlook.com 💌 hager@levenagency.co Tiktok: hagerhanawy (155k+)
+      Lifestyle ★ Beauty ★ Wellness ★ Travel ★ Self Love 📍Toronto -> Currently: NC 💌 azarialuvsu@gmail.com CEO & Founder @digitaleyesinc
     location: "Canada"
-    followers: 37108
-    engagement: 777
-    commentsToLikes: 0.008507
-    id: cl13ex4h0z55j0i23b9m02d4x
+    followers: 22050
+    engagement: 15756
+    commentsToLikes: 0.236991
+    id: ck5zp4iyjrz710i14hd8ttob6
     verified: false
-    hashtags: "#fashionblogger, #explorepage, #pinterest, #torontoblogger"
-  - username: "bonjour.jasmine"
+    hashtags: "#torontoblogger, #torontostyle, #canadianblogger, #styleoftheday"
+  - username: "j.andhercrew"
     fullname: >-
-      Jasmine |  East Coast Lawyer
+      Jerlyn
     bio: >-
-      Empowering Women • Adventure • Lifestyle 🇨🇦 ⤷Balancing motherhood + hustle, while I try to remain (sorta)sane Creator @kuppajoespressobar
+      ♡ Motherhood • Lifestyle • Adventures Vancouver, BC 🇨🇦 DM/email for collabs
     location: "Canada"
-    followers: 17216
-    engagement: 384
-    commentsToLikes: 0.432251
-    id: ckxhnsjiw67az0j23b4qekky9
+    followers: 23352
+    engagement: 437
+    commentsToLikes: 0.503974
+    id: ck0u73zbi3ng00i19hwtcqpw2
     verified: false
-    hashtags: "#womeninlaw, #princeedwardisland, #pei, #eastcoast"
-  - username: "saralevs"
+    hashtags: "#joyfulmamas, #momlifeisthebestlife, #motherhoodrising, #mommylife"
+  - username: "shaunawaye"
     fullname: >-
-      SARA LEVITT
+      shauna waye
     bio: >-
-      montreal fashion | lifestyle | home eCommerce manager @noizeoriginal
+      fashion + lifestyle 🦋🌸 toronto 🤍 Email: shaunawaye1@gmail.com TikTok: shaunawaye Pinterest: shaunawaye_
     location: "Canada"
-    followers: 5963
-    engagement: 295
-    commentsToLikes: 0.075173
-    id: ckaoszed3towd0i78ukl5z3y1
+    followers: 21842
+    engagement: 6226
+    commentsToLikes: 0.045524
+    id: ckwu9i0gbuu3o0j23041guztl
     verified: false
-    hashtags: "#lacucina"
-  - username: "choudhurydib"
+    hashtags: "#ardenelove, #ardenebabe"
+  - username: "drashleytop"
     fullname: >-
-      Dibya | Fashion && Lifestyle
+      Dr. Ashley
     bio: >-
-      Fashion && Mamma Lifestyle 📍Toronto, CA 🇨🇦 🇺🇸 🇮🇳 Collab: choudhurydibya@gmail.com Shoedazzle👇
+      wife, mama, & dentist.🤍 lifestyle, motherhood, style + weekly dental tips. sk, canada ♾️ shop my favs & discount codes below
     location: "Canada"
-    followers: 23419
-    engagement: 287
-    commentsToLikes: 0.415016
-    id: ck8tbjidovy1i0j78zwxaohqd
+    followers: 16168
+    engagement: 412
+    commentsToLikes: 0.143696
+    id: ckqeisl1slykj0j239y5ck9pe
     verified: false
-    hashtags: "#exploretoronto, #ad, #shoedazzlesquad, #sponsored"
-  - username: "nnekaelliott"
+    hashtags: "#baby, #babyteeth, #christmas, #mom"
+  - username: "annesha.adams"
     fullname: >-
-      Nneka Elliott
+      ANNESHA ADAMS
     bio: >-
-      Lifestyle | Motherhood |📺 Segments @themarilyndenisshow expert 🇨🇦🇻🇨 Partnerships: olivias@doubleshotagency.com Also @nnekaonscreen More 👇🏾
+      I create lifestyle videos on Youtube & TikTok! ⁣⁣ 💌 hello@anneshaadams.com⁣ 📍 Toronto
     location: "Canada"
-    followers: 14998
-    engagement: 278
-    commentsToLikes: 0.089605
-    id: ckrxec5ybpgxt0j23vtjukamh
+    followers: 34327
+    engagement: 1079
+    commentsToLikes: 0.032514
+    id: ck135iepe1kux0i19xoihkvj0
     verified: false
-    hashtags: "#christmas2022, #ad, #toddlermom, #tiff22"
-  - username: "meligatorr"
+    hashtags: "#hairtransformation, #hairgoals, #sewinweave, #anneshaadams"
+  - username: "ajthetechnologist"
     fullname: >-
-      Melisa | Montreal
+      AJ
     bio: >-
-      〰️contactmeligatorr@gmail.com 📩 〰️Co-founder @lemonseedmedia 🍋 〰️Lifestyle, self care and little fragments of life🌿
+      Lifestyle~Beauty~Foodie Toronto Content Creator Digital Marketing Strategist PR/Collabs💌: technologist.aj@gmail.com
     location: "Canada"
-    followers: 28302
-    engagement: 274
-    commentsToLikes: 0.320554
-    id: ck5bz30vkqch20i11r2q74r5z
+    followers: 8709
+    engagement: 482
+    commentsToLikes: 0.198115
+    id: ck55mbg5r3lh60i11t01c2jsx
     verified: false
-    hashtags: "#frenchvibes, #decor, #aestheticreels, #neutralstyle"
-  - username: "teachme_style"
+    hashtags: "#torontolife, #toronto, #torontobeauty, #torontoblogger"
+  - username: "sabmoldenhauer"
     fullname: >-
-      Holly Forsberg
+      Sabrina
     bio: >-
-      Dane’s Mom 👶🏼 💙 @lee_forsberg 💍 Sunny + Witt’s Fur Mama 🐶🐶 Teacher📚 | Lifestyle Blogger💻 Inquiries 💌 holly@infagency.com
+      toronto ✰ creative ✰ lifestyle ✰ fashion sabmoldenhauer3@gmail.com
     location: "Canada"
-    followers: 65995
-    engagement: 232
-    commentsToLikes: 0.025825
-    id: ck5c8ew099bv80i11x8ny5s63
+    followers: 39783
+    engagement: 619
+    commentsToLikes: 0.041400
+    id: cl0ir9uodk8rf0i233tizoqy6
     verified: false
-    hashtags: "#ad, #shopteach, #christmas, #weddingdecor"
+    hashtags: "#pandorapartner, #belove, #chattershairsalon, #hairhack"
 ---

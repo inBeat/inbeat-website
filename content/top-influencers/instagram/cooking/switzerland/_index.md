@@ -1,12 +1,24 @@
 ---
-title: Top 10 Cooking Instagram Influencers In Switzerland In 2023
+title: Top 10 Cooking Instagram Influencers In Switzerland In 2024
 description: >-
-  Find top cooking Instagram influencers in Switzerland in 2023. Most popular hashtags: #cooking #foodporn #foodlover #couplegoals.
+  Find top cooking Instagram influencers in Switzerland in 2024. Most popular hashtags: #cooking #foodie #food #zurich.
 platform: Instagram
-hits: 59
-text_top: Analyze the most popular Instagram accounts on inBeat.
-text_bottom: Our database has 59 Instagram influencers like this in Switzerland for you to work with.
+hits: 79
+text_top: See the top-rated Instagram influencers on inBeat.
+text_bottom: Our platform aggregates 79 Instagram influencers like this in Switzerland for you to work with.
 profiles:
+  - username: "swahilifood"
+    fullname: >-
+      Vanessa Loy-Mehri
+    bio: >-
+      Passionate about cooking and creating videos 🍳🎥 Swiss-born, Kenyan-raised, and currently living in Oman 🌍
+    location: "Switzerland"
+    followers: 191890
+    engagement: 132
+    commentsToLikes: 0.046484
+    id: ck5bv68i9j2fd0i11l3show99
+    verified: false
+    hashtags: "#recipes, #chapati, #food, #swahilifood"
   - username: "familie_putzer"
     fullname: >-
       Sonja
@@ -18,31 +30,19 @@ profiles:
     commentsToLikes: 0.048973
     id: ck0w5o54s4lzs0i19763ip2pf
     verified: false
-    hashtags: "#irishsetter, #rezeptef, #zitateundspr, #swissmom"
-  - username: "futurecuisine_lauren_wildbolz"
-    fullname: >-
-      FUTURE CUISINE
-    bio: >-
-      PLANT-BASED EXPERT I GASTRONOMY CONSULTING I COOKING TEACHER I OFFERING HIGH END CATERINGS AND PLANTBASED PASTRY
-    location: "Switzerland"
-    followers: 24623
-    engagement: 1087
-    commentsToLikes: 0.005272
-    id: ck0w3mcjmu5010i193qsxytcs
-    verified: false
-    hashtags: "#laurenwildbolz, #veganjanuary2021, #plantboxch, #frauenstreikkollektivz"
+    hashtags: "#kitten, #lecker, #gl, #mamaleben"
   - username: "ready4meat"
     fullname: >-
       Patrick Manhard
     bio: >-
-      🍴Passionated Food-Blogger 🥩Meat Specialist / Butcher 🇨🇭St. Gallen / Switzerland 💯% Selfmade Content 📸Food Photographer 📩Requests / Mail
+      Schweizer #Foodblogger 🍽️ Gelernter Metzger 🥩 Professionelle Fotos, Videos und Rezepte 📸 Hochwertiger, leidenschaftlicher Fleisch- und Food-Content 🍗
     location: "Switzerland"
-    followers: 9766
-    engagement: 1033
-    commentsToLikes: 0.108700
+    followers: 15289
+    engagement: 455
+    commentsToLikes: 0.144529
     id: ckaorrt35ogm10i78pzf4t1f1
     verified: false
-    hashtags: "#charcoalgrill, #grill, #cookingmypassion, #germancuisine"
+    hashtags: "#beaf, #homechef, #moremeat, #rezept"
   - username: "yummyfood_foryouu"
     fullname: >-
       
@@ -54,7 +54,7 @@ profiles:
     commentsToLikes: 0.009616
     id: ck133yfcoucn70i19lqunrvxy
     verified: false
-    hashtags: "#chefgram, #foodie, #michelinstar, #foodlover"
+    hashtags: "#kuliner, #eater, #beef, #picoftheday"
   - username: "bmqmag"
     fullname: >-
       BMQ
@@ -66,65 +66,65 @@ profiles:
     commentsToLikes: 0.084861
     id: ck6u72olpj4ha0j713zo7661i
     verified: false
-    hashtags: "#culinaryart, #bmagazine, #lifestyle, #bmqmagazine"
-  - username: "naughty.feelings"
+    hashtags: "#sport, #beauty, #foodart, #living"
+  - username: "flootograph"
     fullname: >-
-      naughty.feelings
+      F l o r i a n
     bio: >-
-      🔞Inspiration 🖊Tag us 📥Surprise me 📍Based in Switzerland
+      📍Switzerland 🇨🇭 📸 Adventures | Weddings | Events 📩 dm for more #adventureofflo
     location: "Switzerland"
-    followers: 47575
-    engagement: 135
-    commentsToLikes: 0.005645
-    id: ckap9ffo2sg9u0i780xzk6tw1
+    followers: 12763
+    engagement: 570
+    commentsToLikes: 0.032925
+    id: ck0u1vtxgy6ij0i19m10jkm1m
     verified: false
-    hashtags: "#couple, #love, #stayhome, #bae"
-  - username: "georgeandsebbie"
+    hashtags: "#lensbible, #earthpix, #myswitzerland, #folkgood"
+  - username: "grossfamilienkarussell"
     fullname: >-
-      George and Sebastian
+      annemal.vier
     bio: >-
-      Just a big guy and a little guy from the Swiss Alps who broke the mould and made a sea change 🐻🐻
+      𝚗𝚘 𝚖𝚢 𝚗𝚊𝚖𝚎 𝚒𝚜 𝚗𝚘𝚝 𝚊𝚗𝚗𝚎, 𝚊𝚗𝚗𝚎 𝚖𝚎𝚊𝚗𝚜 𝚖𝚘𝚖 𝚖𝚘𝚖 𝚘𝚏 𝟺 𝚒𝚗 𝚕𝚘𝚟𝚎 𝚠𝚒𝚝𝚑 𝚖𝚢 𝚒𝚗𝚌𝚛𝚎𝚍𝚒𝚋𝚕𝚎 𝚌𝚘𝚘𝚕 𝚑𝚞𝚋𝚋𝚢
     location: "Switzerland"
-    followers: 7228
-    engagement: 542
-    commentsToLikes: 0.007577
-    id: ckapb36dvyeln0i78poo2ze97
+    followers: 11715
+    engagement: 541
+    commentsToLikes: 0.071421
+    id: ck6tpadicipn30j71hobfm939
     verified: false
-    hashtags: "#bernesemountaindog, #christmas, #christmasdog, #halloweencostume"
-  - username: "golangurfinkel"
+    hashtags: "#kidsdecor, #interiorinspo, #woodentoys, #mamablogger"
+  - username: "_antimodel_"
     fullname: >-
-      Golan Gurfinkel
+      Юлия Петрова
     bio: >-
-      Dallal restaurant - bakery. Shabazi 10 st. Tel aviv
+      📸 Expat, writer and not-your-average-kind-of Influencer 🇨🇭 Based in Zurich 🚴‍♀️🧘‍♀️🏍🍏☕ 📰 Link to support my charity foundation @gf4ua ⬇️
     location: "Switzerland"
-    followers: 7363
-    engagement: 230
-    commentsToLikes: 0.088310
-    id: ck6tjjr012um50j71hyv3hevz
+    followers: 53519
+    engagement: 347
+    commentsToLikes: 0.112387
+    id: ck9hb9ozifxy70j78r8rpbt2q
     verified: false
-    hashtags: "#nevezedek, #tlv, #freshfish, #bakery"
-  - username: "comewithus_2"
+    hashtags: "#instantlyathome, #coliving, #zurich, #suisse"
+  - username: "livia.benito"
     fullname: >-
-      Lui & Steffi
+      LIVIA BENITO| LIFESTYLE/TRAVEL/DANCE/LOVE
     bio: >-
-      🚚 𝚅𝚊𝚗𝚕𝚒𝚏𝚎𝚛, 𝙱𝚞𝚌𝚑𝚊𝚞𝚝𝚘𝚛𝚎𝚗, 𝚈𝚘𝚞𝚃𝚞𝚋𝚎𝚛 👩‍❤️‍👨 𝙽𝚊𝚝𝚞𝚛𝚔𝚒𝚗𝚍𝚎𝚛, 𝙰𝚋𝚎𝚗𝚝𝚎𝚞𝚛𝚎𝚛 🇪🇺 45/47 𝙻𝚊̈𝚗𝚍𝚎𝚛 𝙴𝚞𝚛𝚘𝚙𝚊𝚜 𝚋𝚎𝚛𝚎𝚒𝚜𝚝 📍 Home #𝚎𝚞𝚛𝚘𝚙𝚊𝚒𝚜𝚝𝚐𝚎𝚒𝚕
+      Smalltown girl trying to become a star⭐️ Collabs 💌 livia@4clout.ch @asdallstarz | SINGING @livia.benito_ 🎤
     location: "Switzerland"
-    followers: 10410
-    engagement: 499
-    commentsToLikes: 0.043794
-    id: ck6tltuvv6mm30j711hozqenm
+    followers: 11373
+    engagement: 2021
+    commentsToLikes: 0.052696
+    id: clp24imoccj1h0j08gtj0pvlf
     verified: false
-    hashtags: "#itsvanlife, #landscapeporn, #vanlifeideas, #wohnmobil"
-  - username: "uhc_uster"
+    hashtags: "#travel, #love, #reelsinstagram, #relatable"
+  - username: "womantakesworld"
     fullname: >-
-      UHC Uster
+      Gretchen | LUXURY TRAVEL✈️💫
     bio: >-
-      🇨🇭 Swiss National League A Team 🇨🇭#Unihockey | #Floorball | #Innebandy | #Salibandy | #uhcuster | #usterpower
+      LA-Based Globe Trotter + Bon Vivant Life is short, book the trip… ✈️🏝️⛷️ 📩 Email: womantakesworld@gmail.com
     location: "Switzerland"
-    followers: 5842
-    engagement: 511
-    commentsToLikes: 0.005813
-    id: ck5hol5hgpr770i11ee8vu6z0
+    followers: 83279
+    engagement: 224
+    commentsToLikes: 0.007338
+    id: ck0vy6vmr2irk0i1942u8x67s
     verified: false
-    hashtags: "#game, #otherswillfollow, #comment, #uster"
+    hashtags: "#istanbullife, #bestbeachesintheworld, #ugccreator, #girlslovetravel"
 ---

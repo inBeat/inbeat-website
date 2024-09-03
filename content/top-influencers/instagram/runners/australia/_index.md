@@ -1,24 +1,84 @@
 ---
-title: Top 10 Runners Instagram Influencers In Australia In 2023
+title: Top 10 Runners Instagram Influencers In Australia In 2024
 description: >-
-  Find top runners Instagram influencers in Australia in 2023. Most popular hashtags: #cleaneating #fitnessfreak #track.
+  Find top runners Instagram influencers in Australia in 2024. Most popular hashtags: #workoutplan #runhappy #weighttraining.
 platform: Instagram
-hits: 47
-text_top: Analyze the most popular Instagram accounts on inBeat.
-text_bottom: Our database has 47 Instagram influencers like this in Australia for you to contact.
+hits: 61
+text_top: Analyze the top-rated Instagram profiles on inBeat.
+text_bottom: Our search engine holds 61 Instagram influencers like this in Australia for you to connect with.
 profiles:
+  - username: "jessicaahull"
+    fullname: >-
+      Jessica Hull OLY
+    bio: >-
+      🇦🇺 Olympian | Professional Runner for NIKE Australian Record Holder Mile | 3,000m | 5,000m
+    location: "Australia"
+    followers: 106285
+    engagement: 821
+    commentsToLikes: 0.006944
+    id: ck0twbuczesvk0i19vgbkjco6
+    verified: false
+    hashtags: "#livingthedream, #wabudapest23, #thisisathletics, #letsgo"
+  - username: "daveridley"
+    fullname: >-
+      Dave Ridley
+    bio: >-
+      🏃🏼 Runner | 2:17 Marathon ~ 64:43 Half 🗣️ @nikerunning @nikewellcollective ⏱️ @apple 🥤@ScienceInSport 🕶️ @we_are_sungod 👣 Coaching | runpro.com.au
+    location: "Australia"
+    followers: 11756
+    engagement: 368
+    commentsToLikes: 0.019251
+    id: ckaovcele3zc30i78nugzw4m3
+    verified: false
+    hashtags: ""
   - username: "fitfastfoods"
     fullname: >-
-      CAROLENA KOSTAS
+      CAROLENA
     bio: >-
-      Runner 🏃‍♀️| Fit & Fast Recipes 👩‍🍳 | Sydney 🇦🇺 | 💌 fitfastfoods@yahoo.com.au @viciswim Athlete “FITFAST10” 🏊‍♀️ @workoutmeals “CAROLENA10” 💪
+      🏃‍♀️ Middle Distance Runner ⁣⁣👩‍🍳 Fit & Fast Recipes ⁣ ⁣⁣🇦🇺 Sydney
     location: "Australia"
-    followers: 28876
-    engagement: 691
-    commentsToLikes: 0.061729
+    followers: 29049
+    engagement: 257
+    commentsToLikes: 0.017648
     id: ck5hn62z0n9y20i11te9pamgm
     verified: false
-    hashtags: "#partner"
+    hashtags: "#ad, #liveuplifted, #soundmindsoundbody, #asicsfrontrunner2022"
+  - username: "doctorizzyksmith"
+    fullname: >-
+      Dr Izzy Smith
+    bio: >-
+      Doctor(Endocrinology) Runner🏃🏼‍♀️ 👩🏼‍⚕️ for @femmi.co 💛 Movember ambassador👨🏻 Tasmanian in Sydney🇦🇺 doctorizzysmith@gmail.com for media enquiries😎
+    location: "Australia"
+    followers: 34081
+    engagement: 316
+    commentsToLikes: 0.061554
+    id: ck8szhhf5ogr80j7857q39i9k
+    verified: false
+    hashtags: ""
+  - username: "mayamariahxx"
+    fullname: >-
+      ᴅᴊ ᴍᴀʏᴀ ᴍᴀʀɪᴀʜ
+    bio: >-
+      🪩Open Format DJ, Wellness and Spirituality 🦋2022 Runner Up Alizé stage @yourshotau 🎓GradCertCounselling 🩷Commercial 🤝 Rave
+    location: "Australia"
+    followers: 36532
+    engagement: 72
+    commentsToLikes: 0.021584
+    id: ck8t4f8fz6knv0j786zbyhouv
+    verified: true
+    hashtags: "#selfcareissacred, #djmayamariah, #photography, #rave"
+  - username: "shayellelajoie"
+    fullname: >-
+      Surf, sweat, yoga retreats 🤸🏾‍♂️🥦🌞
+    bio: >-
+      @survivorau (2022) runner up 🐒 @nikewellcollective instructor USC BioMed student 📖🧪🦠
+    location: "Australia"
+    followers: 60440
+    engagement: 146
+    commentsToLikes: 0.018357
+    id: ck55ohf4g8d070i11v6e8zla4
+    verified: false
+    hashtags: "#ad, #rebelsport, #sportiscalling, #nikewellcollective"
   - username: "lixsanyee"
     fullname: >-
       Alex Yee
@@ -30,7 +90,7 @@ profiles:
     commentsToLikes: 0.029354
     id: ck0ttv1bv4flo0i19h7qtlbb0
     verified: false
-    hashtags: "#dontregretit, #iswearyoudotriathlon, #deaddip, #homeadvantage"
+    hashtags: "#sharpcutsharpness, #scenario7, #imember, #dontregretit"
   - username: "ollihoare"
     fullname: >-
       Oliver Hoare
@@ -54,77 +114,17 @@ profiles:
     commentsToLikes: 0.036547
     id: ck6tkbrlt4e180j712l4163n0
     verified: false
-    hashtags: "#runnerscommunity, #runhappy, #runningcoach, #strengthcoach"
+    hashtags: "#marathontraining, #trailrunning, #runitfast, #lifestylechanges"
   - username: "georgia_dsmith"
     fullname: >-
       G E O R G I A
     bio: >-
-      19 | Perth | @nickmitic_ ❤️ Paris 📍 Moulin Rouge 💃🏽 Freelance model - dm/email me💋 Runner up Miss World Australia ✨
+      20 | Perth | @nickmitic_ ❤️ Paris 📍 @moulinrougeofficiel 💃🏽 Freelance model - dm/email me💋 Runner up Miss World Australia ✨
     location: "Australia"
-    followers: 4684
-    engagement: 1463
-    commentsToLikes: 0.026428
+    followers: 5433
+    engagement: 1365
+    commentsToLikes: 0.031407
     id: ck6tv0s47jj0x0j71n7i5z5o9
     verified: false
-    hashtags: "#spiltdrinks, #goals, #eletricbike"
-  - username: "heidisee_"
-    fullname: >-
-      HEIDI SEE
-    bio: >-
-      Aussie living in San Diego 🇦🇺🇺🇸 Pro runner @2xu / @goldencoasttc 🏃🏻‍♀️ Founder @boho_kitty 👸🏻 travel • fitness • design • food
-    location: "Australia"
-    followers: 38014
-    engagement: 327
-    commentsToLikes: 0.012103
-    id: ck138apwkfbtv0i19wim9q33h
-    verified: false
-    hashtags: "#ttty, #2xu, #thankful, #loveyou"
-  - username: "bubblesprouse"
-    fullname: >-
-      Charlotte Olivia Prouse
-    bio: >-
-      • @unmloboxctf / MS student in Health ED • 2x NCAA Runner-Up, 5x All-American, Junior Western Hemisphere Steeple Record Holder • Team Canada Steepler
-    location: "Australia"
-    followers: 4974
-    engagement: 1610
-    commentsToLikes: 0.016495
-    id: ck55jsy46xoa20i1177sf95kf
-    verified: false
-    hashtags: "#backtoittomorrow, #canadaday, #moscowmolly, #rodeoinrodeo"
-  - username: "gengen_lacaze"
-    fullname: >-
-      Genevieve Gregson née LaCaze
-    bio: >-
-      Professional Runner 2 x Olympic Finalist 2 x World Champs Finalist AUSTRALIAN RECORD HOLDER Fueled by @mymusclechef
-    location: "Australia"
-    followers: 139274
-    engagement: 364
-    commentsToLikes: 0.008343
-    id: ck5zsqctsyzvx0i1448qn9d9j
-    verified: true
-    hashtags: "#tracktuesday, #track, #roadracing, #10km"
-  - username: "markjdavidson"
-    fullname: >-
-      Mark Davidson | Melbourne
-    bio: >-
-      ⇲ radio producer • photographer ⍟ Runner-up Australian Photography Awards 2020 ⍟ Runner-up Mono Awards 2020
-    location: "Australia"
-    followers: 4552
-    engagement: 1859
-    commentsToLikes: 0.074074
-    id: ckf5oe3qe1w6l0j23aj508m1f
-    verified: false
-    hashtags: ""
-  - username: "morganmcdonald__"
-    fullname: >-
-      chicken boy morgs
-    bio: >-
-      professional runner for @underarmour ⠀ 4xncaa champ ⠀ aussie in Boulder, CO [team Boss pledge] gotta risk it for the biscuit ⠀ TBTC
-    location: "Australia"
-    followers: 18301
-    engagement: 2035
-    commentsToLikes: 0.013454
-    id: ck0vvsdxwqjpc0i19xxum1y2p
-    verified: true
-    hashtags: "#sponsored, #theonlywayisthrough"
+    hashtags: "#20, #whataview"
 ---

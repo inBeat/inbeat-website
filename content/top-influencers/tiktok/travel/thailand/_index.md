@@ -1,11 +1,11 @@
 ---
-title: Top 10 Travel TikTok Influencers In Thailand In 2023
+title: Top 10 Travel TikTok Influencers In Thailand In 2024
 description: >-
-  Find top travel TikTok influencers in Thailand in 2023. Most popular hashtags: #thailand #travel #fyp.
+  Find top travel TikTok influencers in Thailand in 2024. Most popular hashtags: #travel #thailand #fyp.
 platform: TikTok
-hits: 35
-text_top: Analyze the top-rated TikTok accounts on inBeat.
-text_bottom: Our search engine aggregates 35 TikTok influencers like this in Thailand for you to pitch.
+hits: 36
+text_top: Analyze the most popular TikTok influencers on inBeat.
+text_bottom: inBeat holds 36 TikTok influencers like this in Thailand for you to collaborate.
 profiles:
   - username: "trashbagtraveller"
     fullname: >-
@@ -54,7 +54,7 @@ profiles:
     commentsToLikes: 0.068001
     id: ck8qncm2du17e0j786xa1vfzn
     verified: false
-    hashtags: "#luxury, #phuket, #tiktokthailand, #foryoupage"
+    hashtags: "#chiangmai, #foryoupage, #thailand, #fyp"
   - username: "newzysan"
     fullname: >-
       NewZy San
@@ -66,7 +66,7 @@ profiles:
     commentsToLikes: 0.047130
     id: ck9rlkun5yeso0j78qqablyr4
     verified: false
-    hashtags: "#fitgirl, #dress, #swimwear, #beachwear"
+    hashtags: "#swimwear, #beachwear, #style, #fitgirl"
   - username: "buddy_1988"
     fullname: >-
       Buddy

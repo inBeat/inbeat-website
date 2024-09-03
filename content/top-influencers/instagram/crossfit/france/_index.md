@@ -1,12 +1,96 @@
 ---
-title: Top 10 Crossfit Instagram Influencers In France In 2023
+title: Top 10 Crossfit Instagram Influencers In France In 2024
 description: >-
-  Find top crossfit Instagram influencers in France in 2023. Most popular hashtags: #fitness #fitnessmotivation #crossfit #summer.
+  Find top crossfit Instagram influencers in France in 2024. Most popular hashtags: #crossfit #crossfitfrance #training #gymnastics.
 platform: Instagram
 hits: 213
-text_top: See the most popular Instagram accounts on inBeat.
-text_bottom: inBeat holds 213 Instagram influencers like this in France for you to connect with.
+text_top: Identify the top-rated Instagram influencers on inBeat.
+text_bottom: Our search engine has 213 Instagram influencers like this in France for you to connect with.
 profiles:
+  - username: "lhz_perf"
+    fullname: >-
+      🇫🇷 Lucas Heuzé 🦁
+    bio: >-
+      2x Games Athlete @crossfitgenas Coach @fitprocess.prog 📈 . @purvitae.fr @fitandrack @unchained_fr @monka_france
+    location: "France"
+    followers: 12740
+    engagement: 738
+    commentsToLikes: 0.011571
+    id: cktoaa8fbf7jz0j23m32l0iwl
+    verified: false
+    hashtags: "#crossfitfrance, #blackandwhite, #crossfit, #unjouronfera120sousfatigue"
+  - username: "romainfellonneau"
+    fullname: >-
+      Romain
+    bio: >-
+      SPP 👨🏻‍🚒🚒 / CrossFit 🏋🏻‍♂️🇫🇷 / BDX @virusintl FELLONNEAU10 @wodabox WODAROMAIN @nutrimuscle @fitaideurope @eleikofrance @greenfitrecovery 📈⬇️
+    location: "France"
+    followers: 45126
+    engagement: 435
+    commentsToLikes: 0.010608
+    id: ck0vwe4data6o0i194436yvkg
+    verified: false
+    hashtags: "#snatch, #squat, #pictures, #fun"
+  - username: "lola_rossi_"
+    fullname: >-
+      Lola Rossi
+    bio: >-
+      📱Travel, Fashion, Family & Crossfit 💫 📍 Ajaccio, Corsica. 🌴 ✨Founder @machalorent 📩 contact@lola-rossi.com
+    location: "France"
+    followers: 420175
+    engagement: 318
+    commentsToLikes: 0.009113
+    id: ck13cxanm2mb70i19nf1oq7om
+    verified: false
+    hashtags: "#familytrip, #finland, #lapland, #visitlapland"
+  - username: "irisb119"
+    fullname: >-
+      IRIS BEL | CROSSFIT 🏋️‍♀️
+    bio: >-
+      20y | Coach sportif 👩‍🎓 Crossfiteuse passionnée 🌟 Weightlifting -55kg 🥈🇫🇷 🔥 @onrushers_team 🏡 @crossfit_tanka 🏋️‍♀️ @6.sur.6 ⬇️ Lien code promo ⬇️
+    location: "France"
+    followers: 14465
+    engagement: 261
+    commentsToLikes: 0.016072
+    id: cl3w8zwuhdd4w0i23j779j6mg
+    verified: false
+    hashtags: "#trainhard, #intelligently, #inspiring, #crossfitaddict"
+  - username: "mariine.lucas"
+    fullname: >-
+      MARINE LUCAS
+    bio: >-
+      🇫🇷 Crossfit coach 🇫🇷 🔥Training motivation🔥 🍴@rpstrength athlète 📍South of France, Toulon.
+    location: "France"
+    followers: 111146
+    engagement: 129
+    commentsToLikes: 0.007258
+    id: cktoaa8oif7ul0j23qwz7x9x6
+    verified: false
+    hashtags: "#dietfood, #dietplan, #train, #getfit"
+  - username: "marieemiliemontagut"
+    fullname: >-
+      Marie-Emilie Montagut
+    bio: >-
+      ➡️ Coach sportif 🏋️‍♀️ Trainings et compétitions CrossFit 👶 Romy 24/11/20 👶 Paulin 11/02/2023 Athlète @crossfitgames 2018 SPONSORS ⬇️
+    location: "France"
+    followers: 35570
+    engagement: 89
+    commentsToLikes: 0.023073
+    id: ck6u6s07zhdl00j71avvjb5du
+    verified: false
+    hashtags: "#crossfitpostpartum, #crossfit, #fitmumlife, #postpartum"
+  - username: "grosgui_fit"
+    fullname: >-
+      Guillaume 🇫🇷
+    bio: >-
+      CrossFit, Fitness & Bodybuilding 💪 @mymusclenutrition
+    location: "France"
+    followers: 153757
+    engagement: 55
+    commentsToLikes: 0.008358
+    id: ck5qb9rhqkizs0i11e7z1rsoc
+    verified: false
+    hashtags: "#biceps, #legs, #gymshark, #nolegs"
   - username: "vero9cah"
     fullname: >-
       PT VERONICA.H 🇳🇴 BERGEN
@@ -43,88 +127,4 @@ profiles:
     id: ck55n6a7s5koh0i11mwtyi0xl
     verified: false
     hashtags: "#bowmargiveaway, #livelife, #gympost, #gymbeast"
-  - username: "pamthorburn"
-    fullname: >-
-      Pam Thorburn
-    bio: >-
-      • Ski Cross/ Freeride • British Champion • Athlete/ Coach • Crossfit L2 • 🏴󠁧󠁢󠁳󠁣󠁴󠁿 🇳🇱 Nocco Head Ski Ellis Brigham Rocktape
-    location: "France"
-    followers: 6243
-    engagement: 1000
-    commentsToLikes: 0.052627
-    id: ck5hf6be5w02h0i11fqlrgth2
-    verified: false
-    hashtags: "#worldanimalday, #tothekore, #extremepaddleboarding, #allinthistogether"
-  - username: "peerezjustine"
-    fullname: >-
-      Justine Perez ✨
-    bio: >-
-      Sport • Lifestyle 🇫🇷 | Paris 🏋🏻‍♀️ | Crossfit 💪🏼 | Team #GoSportCrew ♡ 👩🏻‍💻 | PR & Influence @agencetrendsparis —— 💌 peerezjustine@gmail.com
-    location: "France"
-    followers: 11491
-    engagement: 566
-    commentsToLikes: 0.087780
-    id: ck134dwmhvyxl0i199a16bs3m
-    verified: false
-    hashtags: "#yogagirl, #sunset, #crossfit, #ootd"
-  - username: "loriane_nuixa"
-    fullname: >-
-      Loriane 🌹
-    bio: >-
-      Coach apprenti @crossfit.illiberis 🏋🏻‍♀️ Tiktok: 275k d’amour 🧡! 📩: loriane@hotmango.fr 24 years Perpignan📍🇫🇷 💍: @sebastiensanyas 💞
-    location: "France"
-    followers: 21926
-    engagement: 1473
-    commentsToLikes: 0.008819
-    id: ck8wgiyfqhfu00j787vu6p871
-    verified: false
-    hashtags: "#model, #mood, #sheingals, #shein"
-  - username: "jc_gmr"
-    fullname: >-
-      Jean-Christophe
-    bio: >-
-      🐻 French 🇫🇷 | Portuguese 🇵🇹 🏠 France, Strasbourg 🥨 / Paris 🥐 🏋🏻 Crossfit Addict @crossfit_67 🎼 Chorus member @pelicanto
-    location: "France"
-    followers: 9052
-    engagement: 1014
-    commentsToLikes: 0.035949
-    id: ck5q1env7amqv0i11irzx0u7e
-    verified: false
-    hashtags: "#couple, #portrait, #hotguys, #tattoed"
-  - username: "lesfitkho"
-    fullname: >-
-      FitKho
-    bio: >-
-      🤷🏻‍♀️🤷🏻‍♂️2 Siblings 👨🏻‍⚕️ Doctor 👼🏻🤸🏽Illy’S x Drogo ￼🐶Mum / Crossfit Trainer 💃🏻 Fun🔺Food🔺Health🔺 📍🇲🇦🇫🇷🇧🇪
-    location: "France"
-    followers: 20978
-    engagement: 505
-    commentsToLikes: 0.145316
-    id: ck5hp9bxsqywa0i11d9217mwu
-    verified: false
-    hashtags: "#fitness, #cute, #baby, #kids"
-  - username: "roxanebust"
-    fullname: >-
-      Roxane Bfit
-    bio: >-
-      Coach sportive diplômée 🎓 CrossFit Level 1 Trainer Lyon 📍 @womensbest Athlete ℂ𝕠𝕕𝕖𝕤 𝕡𝕣𝕠𝕞𝕠 𝕖𝕥 𝕝𝕚𝕖𝕟𝕤 ⤵️
-    location: "France"
-    followers: 131586
-    engagement: 200
-    commentsToLikes: 0.015152
-    id: ckap236fbx6g70i7863a9n3ln
-    verified: false
-    hashtags: "#sportwear, #cocker, #fitnessgirl, #swimwear"
-  - username: "m_coaching"
-    fullname: >-
-      Emeric D’azevedo 🏋️
-    bio: >-
-      Emeric D’azevedo🇫🇷/ 28 ans 🏋️coach sportif Marié 💍 et Papa👶🏼 Coaching :💥Message privé💥 Passion:fitness,crossfit 🏋🏼‍♀️
-    location: "France"
-    followers: 5317
-    engagement: 546
-    commentsToLikes: 0.088340
-    id: ck9wou1zd6lny0j78mzxv4uy7
-    verified: false
-    hashtags: "#coach, #competition, #training, #fitfrenchies"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Health TikTok Influencers In Spain In 2023
+title: Top 10 Health TikTok Influencers In Spain In 2024
 description: >-
-  Find top health TikTok influencers in Spain in 2023. Most popular hashtags: #healthy #fyp #chocolate #love.
+  Find top health TikTok influencers in Spain in 2024. Most popular hashtags: #healthy #fyp #chocolate #love.
 platform: TikTok
 hits: 34
-text_top: Analyze the best TikTok accounts on inBeat.
-text_bottom: Our database holds 34 TikTok influencers like this in Spain for you to pitch.
+text_top: Identify the top-rated TikTok influencers on inBeat.
+text_bottom: Our search engine holds 34 TikTok influencers like this in Spain for you to collaborate.
 profiles:
   - username: "healthbossbabes"
     fullname: >-
@@ -114,7 +114,7 @@ profiles:
     commentsToLikes: 0.023362
     id: ckb97tiz6qud50j235k7dc5gf
     verified: true
-    hashtags: "#libro, #poemas, #voluntaria, #poes"
+    hashtags: "#goyavisavis, #vacuna, #humor, #vaccine"
   - username: "paulasurfer"
     fullname: >-
       Paulasurfer

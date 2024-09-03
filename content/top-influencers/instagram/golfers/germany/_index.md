@@ -1,12 +1,24 @@
 ---
-title: Top 10 Golfers Instagram Influencers In Germany In 2023
+title: Top 10 Golfers Instagram Influencers In Germany In 2024
 description: >-
-  Find top golfers Instagram influencers in Germany in 2023. Most popular hashtags: #golf #golferslife #golflifestyle #golflife.
+  Find top golfers Instagram influencers in Germany in 2024. Most popular hashtags: #golf #golfswing #golflife #golferslife.
 platform: Instagram
-hits: 11
-text_top: Discover the best Instagram profiles on inBeat.
-text_bottom: Our database aggregates 11 Instagram influencers like this in Germany for you to work with.
+hits: 17
+text_top: Identify the top-rated Instagram accounts on inBeat.
+text_bottom: Our search engine aggregates 17 Instagram influencers like this in Germany for you to collaborate.
 profiles:
+  - username: "freezy.187"
+    fullname: >-
+      
+    bio: >-
+      VS187🏆PRIVATIER🪦57ZOO🎲GOLFER🏌🏼
+    location: "Germany"
+    followers: 125886
+    engagement: 585
+    commentsToLikes: 0.003220
+    id: ck6trdt16yer00j71jlzrtkki
+    verified: false
+    hashtags: ""
   - username: "annicahansen"
     fullname: >-
       OFFICIAL PAGE • ANNICA HANSEN
@@ -18,7 +30,7 @@ profiles:
     commentsToLikes: 0.016495
     id: ck5c4ssjd20yn0i11wu6vamgl
     verified: true
-    hashtags: "#ootd, #instagood, #blondie, #countrylife"
+    hashtags: "#equestrian, #pferdem, #dowhatyoulove, #vichy"
   - username: "lisamariegolf"
     fullname: >-
       Lisa Marie Brantly
@@ -55,6 +67,54 @@ profiles:
     id: ck0ubked3eniz0i19umdd8xm9
     verified: true
     hashtags: "#matthiaskilling, #podcast, #sat1fr, #ranformele"
+  - username: "kacykatharina"
+    fullname: >-
+      Kacy Katharina
+    bio: >-
+      📍Munich • Golf ⛳️• Ski ⛷• Lifestyle @gcmaxlrain @jucad_international 📧 Kooperationen : info@kacykatharina.com
+    location: "Germany"
+    followers: 46266
+    engagement: 460
+    commentsToLikes: 0.002557
+    id: clq9hye2m6mtx0k08h82giqwp
+    verified: false
+    hashtags: "#mountains, #weekend, #liketime, #sun"
+  - username: "miss.fraenzis"
+    fullname: >-
+      Franzi | GolfGirl
+    bio: >-
+      Golfgirl l Golflover l Teacher 🤝🏻 @jlindebergofficial @ticad_trolleys @vicegolf @adidasgolf
+    location: "Germany"
+    followers: 34590
+    engagement: 317
+    commentsToLikes: 0.036914
+    id: ckaormf4jnvqk0i78kds1ddts
+    verified: false
+    hashtags: "#golferslife, #golfvideo, #golftraining, #golffashion"
+  - username: "good_sundays"
+    fullname: >-
+      Goodsundays.com
+    bio: >-
+      is the visual testimony of one man’s passion for #Golf. It is about the emotion and style that this amazingly rewarding sport has to offer. #travel
+    location: "Germany"
+    followers: 31886
+    engagement: 48
+    commentsToLikes: 0.036166
+    id: ck5hmxscqmtth0i11l5hbjfnx
+    verified: false
+    hashtags: "#golffun, #mygiantadventure, #instagolf, #slovenia"
+  - username: "tobisgolfblog"
+    fullname: >-
+      Tobias Lehmann | Golf | Content for golfers
+    bio: >-
+      ⛳️ GOLF LOVER AND BLOGGER FROM 🇩🇪 🏌🏼‍♂️ EQUIPMENT | FASHION | TRAVEL | LIFESTYLE 🫵🏻 FOLLOW MY GOLF JOURNEY
+    location: "Germany"
+    followers: 34875
+    engagement: 24
+    commentsToLikes: 0.006159
+    id: ckap0vb10ryp90i78nharvzn3
+    verified: false
+    hashtags: "#golfswing, #pumagolf, #ilovegolf, #golfersofinstagram"
   - username: "golfpeaches.anne"
     fullname: >-
       Anne Golfpeaches
@@ -67,64 +127,4 @@ profiles:
     id: ckaotcqo9vcei0i78oo6rcupr
     verified: false
     hashtags: "#golfaddict, #golftraining, #par, #lovegolf"
-  - username: "tobisgolfblog"
-    fullname: >-
-      Tobias Lehmann | Golf
-    bio: >-
-      GOLF LOVER AND BLOGGER FROM GERMANY. CONTENT IN 🇬🇧 🇩🇪 EQUIPMENT, FASHION, TRAVEL, FRIENDS & LIFESTYLE DM|EMAIL TO COLLAB @golfgeblubber PODCAST
-    location: "Germany"
-    followers: 26446
-    engagement: 250
-    commentsToLikes: 0.055249
-    id: ckap0vb10ryp90i78nharvzn3
-    verified: false
-    hashtags: "#golfmental, #instagolfing, #golferslife, #golfinglife"
-  - username: "elke_july"
-    fullname: >-
-      🌞Elke🌞
-    bio: >-
-      《𝐖𝐞𝐫 𝐬𝐜𝐡𝐨̈𝐧 𝐬𝐞𝐢𝐧 𝐰𝐢𝐥𝐥, 𝐦𝐮𝐬𝐬 𝐥𝐚𝐜𝐡𝐞𝐧》 Fashion▪︎Lifestyle▪︎Travel▪︎Sports Mein Herz schlägt bayerisch🏞 📩 elke_july@web.de Copyright by me Impressum ⬇️
-    location: "Germany"
-    followers: 38987
-    engagement: 210
-    commentsToLikes: 0.177177
-    id: ck8t4xqzm875a0j78nq37avnt
-    verified: false
-    hashtags: "#christmasdress, #fashioninspo, #outfitpost, #blonde"
-  - username: "adriaan.vanveen"
-    fullname: >-
-      ADRIAAN VAN VEEN
-    bio: >-
-      🎭 #Schauspieler 🌱 #Vegan 🏌️ #Golf 🤸🏼 #Fitness 🖤 #Techno 📌 #Hannover 🇩🇪🇳🇱 🎬 Agentur @agentur.frehse 📰 PR @newstarmediamuc
-    location: "Germany"
-    followers: 18483
-    engagement: 93
-    commentsToLikes: 0.028050
-    id: ck8syv0u3m47i0j7850l8c3el
-    verified: false
-    hashtags: "#onset, #pixxlounge, #schauspieler, #zdf"
-  - username: "sven.sonn.pictures"
-    fullname: >-
-      Sven Sonnenberg | Fotograf
-    bio: >-
-      📸 Sony A7 III | Dji Mavic Pro 2 🚁 Portrait I Hochzeitsfotograf | Drohnenfotografie ▶️Member of @raw_community 📍Magdeburg 🇩🇪
-    location: "Germany"
-    followers: 4060
-    engagement: 1102
-    commentsToLikes: 0.029958
-    id: ck6txg5o2xnci0j717vmiitvb
-    verified: false
-    hashtags: "#djimavicpro2, #elbe, #magdeburgerkind, #batpix"
-  - username: "danielbuder"
-    fullname: >-
-      Daniel Buder
-    bio: >-
-      | Agency:@sainoutalent @crush.agency.berlin PR:Carolin Nünemann|@idasimpressions ⬇️ www.danielbuder.de ⬇️ Founder -> @celebritygolfcamp
-    location: "Germany"
-    followers: 15887
-    engagement: 205
-    commentsToLikes: 0.048126
-    id: ck5c4b5yy0zdu0i11nijb34la
-    verified: true
-    hashtags: "#podcast, #daddyblogger, #schauspieler, #papapodcast"
 ---

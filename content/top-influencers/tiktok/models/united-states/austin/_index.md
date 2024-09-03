@@ -1,11 +1,11 @@
 ---
-title: Top 10 Models TikTok Influencers In Austin In 2023
+title: Top 10 Models TikTok Influencers In Austin In 2024
 description: >-
-  Find top models TikTok influencers in Austin in 2023. Most popular hashtags: #fyp #model #duet #austin.
+  Find top models TikTok influencers in Austin in 2024. Most popular hashtags: #fyp #model #duet #foryou.
 platform: TikTok
 hits: 51
-text_top: Identify the top-rated TikTok profiles on inBeat.
-text_bottom: Our platform has 51 TikTok influencers like this in Austin, United States for you to pitch.
+text_top: Discover the best TikTok profiles on inBeat.
+text_bottom: Our platform aggregates 51 TikTok influencers like this in Austin, United States for you to collaborate.
 profiles:
   - username: "badblue_tundra_andmia"
     fullname: >-
@@ -90,7 +90,7 @@ profiles:
     commentsToLikes: 0.050195
     id: ck9nhf644fz3g0j78osemjvf2
     verified: false
-    hashtags: "#blushmarksquad, #chicago, #tiktokdance, #foxyeyes"
+    hashtags: "#chicago, #transformation, #taylorswift, #transition"
   - username: "imgmodels"
     fullname: >-
       IMGmodels
@@ -109,12 +109,12 @@ profiles:
     bio: >-
       I make noises and voices and art and take photos for a living 23 TX
     location: "United States"
-    followers: 43600
-    engagement: 1882
-    commentsToLikes: 0.044649
+    followers: 43100
+    engagement: 1977
+    commentsToLikes: 0.054972
     id: ck95z2w6ycqpd0j78ogjs7muy
     verified: false
-    hashtags: "#harmony, #sing, #duet, #fyp"
+    hashtags: "#photoshoot, #fy, #model, #fyp"
   - username: "kaydrauhl"
     fullname: >-
       Kaylee Baker

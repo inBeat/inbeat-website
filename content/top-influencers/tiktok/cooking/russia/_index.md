@@ -1,11 +1,11 @@
 ---
-title: Top 10 Cooking TikTok Influencers In Russia In 2023
+title: Top 10 Cooking TikTok Influencers In Russia In 2024
 description: >-
-  Find top cooking TikTok influencers in Russia in 2023. Most popular hashtags: #cooking #fyp #food #recipe.
+  Find top cooking TikTok influencers in Russia in 2024. Most popular hashtags: #cooking #fyp #food #recommendations.
 platform: TikTok
 hits: 18
-text_top: Identify the top-rated TikTok profiles on inBeat.
-text_bottom: Our platform aggregates 18 TikTok influencers like this in Russia for you to collaborate.
+text_top: Identify the best TikTok accounts on inBeat.
+text_bottom: inBeat holds 18 TikTok influencers like this in Russia for you to collaborate.
 profiles:
   - username: "fun_can"
     fullname: >-

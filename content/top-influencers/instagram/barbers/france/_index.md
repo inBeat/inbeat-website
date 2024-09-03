@@ -1,12 +1,48 @@
 ---
-title: Top 10 Barbers Instagram Influencers In France In 2023
+title: Top 10 Barbers Instagram Influencers In France In 2024
 description: >-
-  Find top barbers Instagram influencers in France in 2023. Most popular hashtags: #barber #barbershop #barbers #fadegame.
+  Find top barbers Instagram influencers in France in 2024. Most popular hashtags: #barber #barbers #fadegame #barberlove.
 platform: Instagram
-hits: 141
-text_top: Analyze the best Instagram influencers on inBeat.
-text_bottom: Our search engine aggregates 141 Instagram influencers like this in France for you to pitch.
+hits: 150
+text_top: Identify the best Instagram profiles on inBeat.
+text_bottom: Our platform has 150 Instagram influencers like this in France for you to collaborate.
 profiles:
+  - username: "nando.quaranta"
+    fullname: >-
+      Nando Quaranta
+    bio: >-
+      Barber 🇮🇹 International Champion 🏆 @Barbermatch Sede Aversa @labarbieriadelseggio Ambassador @nishmanitaly @gammapiu_barber @barberapp.official
+    location: "France"
+    followers: 58430
+    engagement: 285
+    commentsToLikes: 0.014010
+    id: ck5byp2napkdc0i117bx1abfi
+    verified: false
+    hashtags: "#naples, #italia, #calcio, #football"
+  - username: "kevinplane_tattooer"
+    fullname: >-
+      Kévin Plane △⃒⃘
+    bio: >-
+      Autiste Tattooer @electricpizza_bsa Aix en Provence, France🇫🇷 NO DM🚫 booking: kevinmarc.pro@gmail.com Pro Team @barber_dts
+    location: "France"
+    followers: 125858
+    engagement: 178
+    commentsToLikes: 0.011388
+    id: ck135lrce21f10i19ypmclbng
+    verified: false
+    hashtags: "#design, #videogamestatts, #pocketmonster, #blackink"
+  - username: "sachamass"
+    fullname: >-
+      La  M A S S
+    bio: >-
+      Barber | Hair | Grooming Represented by @7evenmanagement
+    location: "France"
+    followers: 14395
+    engagement: 127
+    commentsToLikes: 0.016317
+    id: ck55iy8ngvrtf0i11bnol5lhq
+    verified: false
+    hashtags: "#7evenparis, #mfw, #lancomexjoy, #ambassador"
   - username: "sael_timall"
     fullname: >-
       👾. Saël .👾
@@ -31,18 +67,6 @@ profiles:
     id: ck1363cxm4k8z0i19q3h6laiz
     verified: false
     hashtags: "#barbershop, #caio, #manicpanic, #color"
-  - username: "nando.quaranta_barber"
-    fullname: >-
-      Nando Quaranta
-    bio: >-
-      Barber 🇮🇹 International Champion 🏆 @Barbermatch Sede Aversa @labarbieriadelseggio Ambassador @barberapp.official Co_partner @luigididomenic
-    location: "France"
-    followers: 56055
-    engagement: 297
-    commentsToLikes: 0.017196
-    id: ck5byp2napkdc0i117bx1abfi
-    verified: false
-    hashtags: "#napoli, #razorfade, #calcio, #barber"
   - username: "fardin_madani_"
     fullname: >-
       فردین مدنی
@@ -79,18 +103,6 @@ profiles:
     id: ck6tn3ruj92rp0j7132tr1j24
     verified: false
     hashtags: "#trump, #lereglement, #putaindepoque, #1minute2rap"
-  - username: "bledbarber"
-    fullname: >-
-      European In Canada 🇦🇱🇨🇦📍
-    bio: >-
-      MASTER BARBER PROPRIÉTAIRE DES BARBERSHOPS BLEDART à Ste-Foy et Stoneham💈prenez rendez-vous sur le site ici👇🏼
-    location: "France"
-    followers: 17781
-    engagement: 119
-    commentsToLikes: 0.060265
-    id: ck5znjc0yokwg0i14tabbjxib
-    verified: false
-    hashtags: "#styleblogger, #fjwatches, #barbershop, #barber"
   - username: "yanielbarber"
     fullname: >-
       𝐒𝐂𝐀𝐋𝐏 𝐌𝐈𝐂𝐑𝐎𝐏𝐈𝐆𝐌𝐄𝐍𝐓𝐀𝐓𝐈𝐎𝐍
@@ -115,16 +127,4 @@ profiles:
     id: ck15uc2x4mf6w0i19y1fregmz
     verified: false
     hashtags: "#crispylineup, #addictedtodopecutz, #caracascity, #sharpfade"
-  - username: "theladiesonwheels"
-    fullname: >-
-      Biker Girls 🇵🇹🇧🇷
-    bio: >-
-      🏍 Zx10R KRT 2020 ➕ MT125 2020 📍 Paris / From 🇧🇷🇵🇹 💈 Barber ✂️ ✏️👕Stickers and Custom 👉🏻@blacksheepstickers4u👈🏻 ⬇️ Watch my channel ⬇️7k 🔐 10k 🔓
-    location: "France"
-    followers: 24867
-    engagement: 129
-    commentsToLikes: 0.019598
-    id: ckf5t55ddgyq00j23n039ignw
-    verified: false
-    hashtags: "#superbikers, #kawasakimotors, #superbikesgram, #2wheels"
 ---

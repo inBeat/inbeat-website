@@ -1,24 +1,72 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Atlanta In 2023
+title: Top 10 Fashion Instagram Influencers In Atlanta In 2024
 description: >-
-  Find top fashion Instagram influencers in Atlanta in 2023. Most popular hashtags: #atlanta #fashion #fashionblogger #miami.
+  Find top fashion Instagram influencers in Atlanta in 2024. Most popular hashtags: #atlanta #fashion #love #artist.
 platform: Instagram
-hits: 453
-text_top: Discover the best Instagram influencers on inBeat.
-text_bottom: Our platform has 453 Instagram influencers like this in Atlanta, United States for you to work with.
+hits: 554
+text_top: Analyze the top-rated Instagram accounts on inBeat.
+text_bottom: inBeat aggregates 554 Instagram influencers like this in Atlanta, United States for you to collaborate.
 profiles:
-  - username: "skoobi.e"
+  - username: "emmaaodell"
     fullname: >-
-      Skoobie 🇯🇲🇭🇹🇨🇳
+      EMMA O'DELL
     bio: >-
-      𝑷𝒓𝒐𝒇𝒆𝒔𝒔𝒊𝒐𝒏𝒂𝒍 𝑫𝒂𝒏𝒄𝒆𝒓/𝑪𝒉𝒐𝒓𝒆𝒐𝒈𝒓𝒂𝒑𝒉𝒆𝒓 Academy Of Phresh @iamphresh_ Member of @dwpacademy.usa ℕ𝕐🗽↔️ 𝔻𝔼🌲
+      life! friends! fashion! atlanta + milly @28rowcreators 💌 odellemmag@gmail.com
     location: "United States"
-    followers: 8964
-    engagement: 427
-    commentsToLikes: 0.113703
-    id: ck6u3cav5wzah0j7138yc37yg
+    followers: 6178
+    engagement: 658
+    commentsToLikes: -0.551737
+    id: cl7vvzgovyn0w0i23rgj38ggb
     verified: false
-    hashtags: "#philly, #melanin, #afrohiphop, #blackexcellence"
+    hashtags: "#ad, #gifted, #sponsored, #grwm"
+  - username: "tiffany_laryn"
+    fullname: >-
+      Tiffany La’Ryn
+    bio: >-
+      YouTuber 🎥 @tiffanylaryn_ent 🎙️ @take2withtiff NEW VIDEO OUT NOW! 👇🏽
+    location: "United States"
+    followers: 102793
+    engagement: 526
+    commentsToLikes: 0.044188
+    id: ckprir2sn95fn0j23pru1d6f9
+    verified: false
+    hashtags: "#comedyvideos, #funnyvideos, #contentcreator, #thickwomen"
+  - username: "atl_honey"
+    fullname: >-
+      HONEY🧿
+    bio: >-
+      INFLUENCER; Lifestyle + Entertainment ▪️CEO @ShopThePinkZebra 📍 ATL 📧 All business inquiries ThePinkZebrainfo@gmail.com
+    location: "United States"
+    followers: 87140
+    engagement: 29
+    commentsToLikes: 0.094794
+    id: ckqrmaxe9yoqg0j23oetukz02
+    verified: false
+    hashtags: "#atlantaboutiques, #fashion, #atlanta, #promotions"
+  - username: "nepthys_thegoddess"
+    fullname: >-
+      
+    bio: >-
+      Eclectic•MUA•Model•Influencer Content creator Creator of “𝕮𝖊𝖑𝖊𝖘𝖙𝖎𝖆𝖑 𝕭𝖗𝖔𝖜” #celestialbrow Neffthegodbookings@gmail.com
+    location: "United States"
+    followers: 170728
+    engagement: 734
+    commentsToLikes: 0.011220
+    id: ck5bzh1wxr4kq0i11v1isgz3g
+    verified: false
+    hashtags: "#brandambassador, #model, #glam, #mua"
+  - username: "jamaljosef"
+    fullname: >-
+      Jamal Josef
+    bio: >-
+      Choreographer•Dancer Beyoncé(choreography) Da Baby. N.E.R.D.,Jordin Sparks. Raphael Saadiq. Buddy. Faith Evans & more Wrote: Black Boys Dance Too ΑΦΑ
+    location: "United States"
+    followers: 10431
+    engagement: 681
+    commentsToLikes: 0.092630
+    id: ck5zo7yugpys40i14e1q0m8dc
+    verified: false
+    hashtags: "#losangeles, #hbcu, #dancer, #creativedirector"
   - username: "iambarbielee"
     fullname: >-
       B A R B I E   L E E  🏳️‍🌈
@@ -43,6 +91,18 @@ profiles:
     id: ck15u9w0ym4z50i1964go9iod
     verified: false
     hashtags: "#magazine, #management, #peace, #god"
+  - username: "ashleystastee"
+    fullname: >-
+      Ashley Clayborne
+    bio: >-
+      📍ATL | Content Creator Bringing you the best✨ DM for Collabs 📱 Text: 404-500-9058 Let’s Work!
+    location: "United States"
+    followers: 79646
+    engagement: 340
+    commentsToLikes: 0.058804
+    id: cksfn3zs5nodb0j23r2aq2wvr
+    verified: false
+    hashtags: "#atlantarealestate, #atl, #atlantainfluencers, #thingstodoinatlanta"
   - username: "rileysrampage"
     fullname: >-
       Riley Weidman
@@ -55,76 +115,16 @@ profiles:
     id: ck8t2v03j0sx50j78sn5mpbsz
     verified: false
     hashtags: "#dh, #crankworxinnsbruck, #girlswhoshred, #travel"
-  - username: "elizadonahue"
+  - username: "ayannaofficial"
     fullname: >-
-      É L I Z A    D O N A H U E 🦋
+      Ayanna
     bio: >-
-      (Lie-zuh) 🇵🇭 Xcel Talent Agency IN/ATL 📍#502mademe
+      🍑🎤✍🏽🎶⭐️
     location: "United States"
-    followers: 5070
-    engagement: 851
-    commentsToLikes: 0.110378
-    id: ck14kvoc5rjjo0i19pc697hgx
+    followers: 6591
+    engagement: 691
+    commentsToLikes: 0.127081
+    id: ck6u1i88flvvp0j71l8s7l3yx
     verified: false
-    hashtags: "#atlanta, #explorepage, #dance, #inspire"
-  - username: "winnnterrr"
-    fullname: >-
-      Winter Williams
-    bio: >-
-      atlanta // fashion i love clothes welcome to my life
-    location: "United States"
-    followers: 67139
-    engagement: 91
-    commentsToLikes: 0.011441
-    id: ck9weaq7ujfsj0j78r4a2n5mz
-    verified: false
-    hashtags: "#fashion, #prettylittlething, #style, #streetstyle"
-  - username: "adrianalately"
-    fullname: >-
-      Adriana | Atlanta Blogger
-    bio: >-
-      lifestyle • beauty • fashion • travel atlanta 🍑 • boy mom 💙 sharing real life on stories 💁🏽‍♀️ check out my latest blog post ↓↓
-    location: "United States"
-    followers: 75761
-    engagement: 138
-    commentsToLikes: 0.043058
-    id: ck5zv2j663h470i14vrshtqz5
-    verified: false
-    hashtags: "#styleblogger, #familytravel, #familytravelblogger, #styleoftheday"
-  - username: "city.peach"
-    fullname: >-
-      Mireille (Mir-ay) | City Peach
-    bio: >-
-      Style | Motherhood | & Having Both Atlanta fashion blogger + wardrobe stylist Living a stylish motherhood one chaotic day at a time est.2014
-    location: "United States"
-    followers: 96564
-    engagement: 155
-    commentsToLikes: 0.022296
-    id: ck0tuofbw80450i198l2zl5uu
-    verified: false
-    hashtags: "#mommyandme, #ltkunder100, #summerstyle, #motherhood"
-  - username: "justaurmaria"
-    fullname: >-
-      A U R M A R I A  シ
-    bio: >-
-      LA 📍DETROIT | CHICAGO | ATLANTA Fashion | Lifestyle | Beauty TikTok: Justaurmaria 𝒜𝓁𝑒𝓍𝒶, Tell Jesus I love him
-    location: "United States"
-    followers: 7534
-    engagement: 493
-    commentsToLikes: 0.088793
-    id: ckaorh8l8n7e90i78khdcbd5p
-    verified: false
-    hashtags: "#texasmodel, #protectivestyle, #quarantine, #atlantamodels"
-  - username: "strawberrychicxo"
-    fullname: >-
-      Amanda | Atlanta Youtuber
-    bio: >-
-      Atlanta Fashion Youtuber New Mama to Josie 🎀 Influencer mentor @theprofitableinfluencer 👇🏼click to shop my feed
-    location: "United States"
-    followers: 68200
-    engagement: 194
-    commentsToLikes: 0.056033
-    id: ck5hf1vqvvj680i11fmkrntxm
-    verified: false
-    hashtags: "#ltkbump, #ad, #nsale, #liketkit"
+    hashtags: "#passion, #liveshow, #6flow, #artist"
 ---

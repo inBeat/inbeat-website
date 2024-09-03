@@ -1,11 +1,11 @@
 ---
-title: Top 10 Vegan TikTok Influencers In Montreal In 2023
+title: Top 10 Vegan TikTok Influencers In Montreal In 2024
 description: >-
-  Find top vegan TikTok influencers in Montreal in 2023. Most popular hashtags: #vegan #fyp #foryoupage #plantbased.
+  Find top vegan TikTok influencers in Montreal in 2024. Most popular hashtags: #vegan #fyp #foryoupage #plantbased.
 platform: TikTok
 hits: 4
-text_top: Identify the best TikTok profiles on inBeat.
-text_bottom: Our platform aggregates 4 TikTok influencers like this in Montreal, Canada for you to connect with.
+text_top: Discover the best TikTok influencers on inBeat.
+text_bottom: Our search engine has 4 TikTok influencers like this in Montreal, Canada for you to collaborate.
 profiles:
   - username: "alyssafontainerd"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.016851
     id: ckdi7lrxy9l840j23yas7vbmy
     verified: false
-    hashtags: "#easyvegan, #vegansnack, #veganmeat, #vegandietitian"
+    hashtags: "#vegansnack, #easyvegan, #vegandietitian, #veganmeat"
   - username: "gen_laforce"
     fullname: >-
       Geneviève✨
@@ -90,7 +90,7 @@ profiles:
     commentsToLikes: 0.023828
     id: ckbl76zw44zl80j23em4x9ron
     verified: false
-    hashtags: "#smoothie, #fitness, #beach, #man"
+    hashtags: "#workout, #smoothie, #beach, #man"
   - username: "jasonfonger"
     fullname: >-
       Jason Fonger
@@ -126,5 +126,5 @@ profiles:
     commentsToLikes: 0.016851
     id: ckdi7lrxy9l840j23yas7vbmy
     verified: false
-    hashtags: "#easyvegan, #vegansnack, #veganmeat, #vegandietitian"
+    hashtags: "#vegansnack, #easyvegan, #vegandietitian, #veganmeat"
 ---

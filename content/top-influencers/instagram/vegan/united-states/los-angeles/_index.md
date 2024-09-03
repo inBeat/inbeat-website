@@ -1,12 +1,48 @@
 ---
-title: Top 10 Vegan Instagram Influencers In Los Angeles In 2023
+title: Top 10 Vegan Instagram Influencers In Los Angeles In 2024
 description: >-
-  Find top vegan Instagram influencers in Los Angeles in 2023. Most popular hashtags: #vegan #losangeles #love #veganfood.
+  Find top vegan Instagram influencers in Los Angeles in 2024. Most popular hashtags: #losangeles #vegan #veganlosangeles #plantbased.
 platform: Instagram
-hits: 190
-text_top: Analyze the best Instagram profiles on inBeat.
-text_bottom: Our database holds 190 Instagram influencers like this in Los Angeles, United States for you to collaborate.
+hits: 228
+text_top: See the top-rated Instagram profiles on inBeat.
+text_bottom: Our database holds 228 Instagram influencers like this in Los Angeles, United States for you to work with.
 profiles:
+  - username: "lydiamok"
+    fullname: >-
+      Lydia 🌱 The Vegan Strong Girl
+    bio: >-
+      🌱 Your vegan bestie - ask me for recommendations! Climbing, weights and vegan dates! 🐻Community Director @wonderyoutdoors 🇬🇧British Asian🇭🇰 in LA🌴
+    location: "United States"
+    followers: 21394
+    engagement: 797
+    commentsToLikes: 0.073690
+    id: ckaovcndh40j50i780gwsj5ce
+    verified: false
+    hashtags: "#grrrlarmy, #veganathlete, #vegansaresexy, #vegansofig"
+  - username: "tatyanafigueiredo"
+    fullname: >-
+      Tatyana Figueiredo
+    bio: >-
+      Brasil🇧🇷| Los Angeles🇺🇸| Latina Actress . Fashion . Traveler Vegan Recipes: 🌱 @tatytable Couple: 🗺 @tatyanandilmar Cats: 😸 @apolloandphoenix
+    location: "United States"
+    followers: 91975
+    engagement: 87
+    commentsToLikes: 0.145046
+    id: ckray9cedb5ap0j23nu3x4sdm
+    verified: false
+    hashtags: "#actorslife, #actress, #california, #discoverunder200k"
+  - username: "lifeveganized"
+    fullname: >-
+      𝐒𝐭𝐞𝐟𝐚𝐧𝐢𝐞 𝐒𝐭𝐞𝐯𝐞𝐧𝐬 🌱 𝐋𝐢𝐟𝐞, 𝑽𝒆𝒈𝒂𝒏𝒊𝒛𝒆𝒅
+    bio: >-
+      Vegan recipes, products + pro tips to make your plant-based journey easier 💚 Los Angeles ☀️🌴 DM or email for collab 💬
+    location: "United States"
+    followers: 15567
+    engagement: 118
+    commentsToLikes: 0.215546
+    id: cl1sypsuubnd90i23gzuuo1m9
+    verified: false
+    hashtags: "#veganfood, #plantbased, #veganrecipes, #giveaway"
   - username: "camly.me"
     fullname: >-
       Camly
@@ -18,7 +54,43 @@ profiles:
     commentsToLikes: 0.200859
     id: ck0u9haha9u5y0i190xcaa6ko
     verified: false
-    hashtags: "#larestaurants, #eaterla, #lafoodscene, #hairmakeover"
+    hashtags: "#larestaurants, #lafoodscene, #eaterla, #boudoirphotography"
+  - username: "allveganfranks"
+    fullname: >-
+      VEGAN STREET FOOD
+    bio: >-
+      🎪 10/21 @vegasvegfest 🎪 10/28 @vegandale
+    location: "United States"
+    followers: 13207
+    engagement: 462
+    commentsToLikes: 0.070826
+    id: clnab8feyzqhn0j08u2g6p63k
+    verified: false
+    hashtags: "#vegansofig, #losangeles, #vegan, #whatveganseat"
+  - username: "lizzkimkim"
+    fullname: >-
+      💖🌸LIZZ 🌸💖
+    bio: >-
+      🌴LA📍 ♡ Food-obsessed DJ and Opera Singer ♡ Spotify Lizz Kim Kim and Ni Oko ♡ TT: Lizzkimkim ♡ 📧 lizzkimcollabs@gmail.com on @datingnofilter @buzzfeed
+    location: "United States"
+    followers: 27435
+    engagement: 251
+    commentsToLikes: 0.116515
+    id: ck0tygsm6mr7g0i19dlmjunlg
+    verified: false
+    hashtags: "#losangelesbucketlist, #bucketlist, #losangelesfood, #sponsoredbyht"
+  - username: "veggiekins"
+    fullname: >-
+      Remy Morimoto Park | Vegan
+    bio: >-
+      🫛 vegan cookbook author + wellness in la/nyc 🍵 @matchamommyy @frauth 🌿 remy@veggiekinsblog.com ✉️ @next luisv@nextmanagement.com
+    location: "United States"
+    followers: 216044
+    engagement: 149
+    commentsToLikes: 0.022992
+    id: ck0tuwuxm916o0i19b6xg53zx
+    verified: true
+    hashtags: "#smallbusiness, #asmr, #matchalover, #asianownedbusiness"
   - username: "hauntinglyalex"
     fullname: >-
       Alex | 🎃✌🏼🧡 | She/Her
@@ -30,101 +102,29 @@ profiles:
     commentsToLikes: 0.032029
     id: ck8tbk8n4vyuw0j78fka93cli
     verified: false
-    hashtags: "#halloween365, #halloween, #spooky, #awakenthespirits"
-  - username: "sweetsimplevegan"
+    hashtags: "#halloween, #spooky, #horror, #spookyseason"
+  - username: "lexinicolex"
     fullname: >-
-      Jasmine Briones
+      Lexi Lutz
     bio: >-
-      • vegan recipe creator 🇪🇨🇵🇭 • mama to @berryandlouie • youtube: Sweet Simple Vegan • email: jasmine@sweetsimplevegan.com • ebook ↴
+      @youngla | @younglaforher | ‘LEXI’ vegan ㅤᵕ̈ los angeles 💌 socials.mgmt.ln@gmail.com
     location: "United States"
-    followers: 268751
-    engagement: 184
-    commentsToLikes: 0.084567
-    id: ck0w2gvgsob2m0i19duxlkl6t
+    followers: 89846
+    engagement: 383
+    commentsToLikes: 0.023234
+    id: cl85udnto1u4t0i23heu5dqcz
     verified: false
-    hashtags: "#veganchicken, #vegan, #ad, #vegancheese"
-  - username: "erin_micklow"
+    hashtags: "#6weeksout"
+  - username: "ceorbread"
     fullname: >-
-      Erin Micklow
+      CÉOR
     bio: >-
-      That spikey haired girl 🤷‍♀️ @sovereigntalentgroup Subscribe 👉ERIN MICKLOW on YouTube 300+ #punkrock videos-band interviews/shows 2.8+Million views
+      bread reimagined. Organic. Naturally leavened. Vegan. Kosher. Serving Los Angeles. #breadcouture
     location: "United States"
-    followers: 119873
-    engagement: 172
-    commentsToLikes: 0.020229
-    id: ck138k2fwglzs0i19u44fj8kx
-    verified: true
-    hashtags: "#punkmusic, #reggae, #punkfashion, #killstar"
-  - username: "vida_miaa"
-    fullname: >-
-      A N N A  L O P E Z  || 🇮🇹🇫🇷🇲🇽
-    bio: >-
-      CEO - Founder @naiadehair VIRGINIA 📍 Family first 👪❤ Military Wife🔒💑 GYM THERAPY💪🏽🍑 Collab 📧 : annaiklopez@gmail.com VEGETARIAN🌿
-    location: "United States"
-    followers: 21655
-    engagement: 387
-    commentsToLikes: 0.065970
-    id: ck8t26ianybk80j787q1ou1rg
+    followers: 64100
+    engagement: 126
+    commentsToLikes: 0.021660
+    id: ck0ucna6jh6bb0i19v7q6rtin
     verified: false
-    hashtags: "#gymmotivation, #fit, #squats, #healthylifestyle"
-  - username: "michaelawitter"
-    fullname: >-
-      𝑴𝒊𝒄𝒉𝒂𝒆𝒍𝒂 🤍
-    bio: >-
-      Los Angeles | vegan
-    location: "United States"
-    followers: 19222
-    engagement: 633
-    commentsToLikes: 0.036529
-    id: ck6u6olb5gtdp0j7184tocu25
-    verified: false
-    hashtags: "#nails, #frenchtipnails, #nailart, #shein"
-  - username: "eatswithkayla"
-    fullname: >-
-      Kayla Hurtienne
-    bio: >-
-      𝒉𝒆𝒂𝒍𝒕𝒉𝒚 𝒆𝒂𝒕𝒔 | 𝒇𝒊𝒏𝒅𝒊𝒏𝒈 𝒃𝒂𝒍𝒂𝒏𝒄𝒆 | 𝒘𝒆𝒍𝒍𝒏𝒆𝒔𝒔 💌 eatswithkayla@gmail.com 📍 Manhattan Beach, CA ✨ personal: @itskayluuh
-    location: "United States"
-    followers: 2067
-    engagement: 3122
-    commentsToLikes: 0.398857
-    id: ck8t1jr03w1fs0j78rcqf1ncp
-    verified: false
-    hashtags: "#cleaneating, #foodisfuel, #goodmoodfood, #feedfeed"
-  - username: "souleyvegan"
-    fullname: >-
-      SOULEY VEGAN
-    bio: >-
-      EST. 2006 We are a Vegan Louisiana Creole restaurant in Oakland Ca Known 4 Bold approach to the vegan industry. Visit our website for locations!
-    location: "United States"
-    followers: 41535
-    engagement: 660
-    commentsToLikes: 0.013168
-    id: ck8szxanrq2cm0j78ugwn24sh
-    verified: false
-    hashtags: "#vegansofla, #souleyveganla, #crueltyfree, #veganofig"
-  - username: "veganexchangela"
-    fullname: >-
-      Vegan Exchange LA
-    bio: >-
-      CANCELLED UNTIL FURTHER NOTICE 100% Vegan Weekly Market ☀️Every Sunday except 9/6 11am-5pm | Now thru 5/31 & 10/4-3/21/21 4-10pm | 6/7-9/27 FREE ENTRY
-    location: "United States"
-    followers: 35898
-    engagement: 121
-    commentsToLikes: 0.027998
-    id: ck14iua87h7br0i19dnea993k
-    verified: false
-    hashtags: "#vsfnights, #saferathome, #staycation"
-  - username: "luparkerla"
-    fullname: >-
-      Lu Parker
-    bio: >-
-      📺 Emmy Award Winning News Anchor @ktla5news 💜 Founder of @bekindandco 🎤 Inspirational Speaker 👑 Former Miss USA 🐶 Mom to @moosedogla 👇🏼 Shop is open!✨
-    location: "United States"
-    followers: 18851
-    engagement: 356
-    commentsToLikes: 0.079668
-    id: ck1390u3uiyzr0i19n6ze8aev
-    verified: true
-    hashtags: "#fun, #thankyou, #bekindandco, #kindnesswins"
+    hashtags: "#sourdough, #bread, #breadcouture, #crumb"
 ---

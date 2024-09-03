@@ -1,12 +1,36 @@
 ---
-title: Top 10 Models TikTok Influencers In Toronto In 2023
+title: Top 10 Models TikTok Influencers In Toronto In 2024
 description: >-
-  Find top models TikTok influencers in Toronto in 2023. Most popular hashtags: #model #toronto #foryoupage #fyp.
+  Find top models TikTok influencers in Toronto in 2024. Most popular hashtags: #model #toronto #fyp #canada.
 platform: TikTok
 hits: 37
-text_top: Analyze the top-rated TikTok influencers on inBeat.
-text_bottom: Our search engine has 37 TikTok influencers like this in Toronto, Canada for you to contact.
+text_top: See the most popular TikTok profiles on inBeat.
+text_bottom: inBeat holds 37 TikTok influencers like this in Toronto, Canada for you to contact.
 profiles:
+  - username: "laurenmmoore"
+    fullname: >-
+      Lauren Moore
+    bio: >-
+      🇨🇦🌈 Toronto! Follow my insta! Business only: LMVids@hotmail.com
+    location: "Canada"
+    followers: 99300
+    engagement: 1782
+    commentsToLikes: 0.028114
+    id: ck806yxusn7ai0j786qnkldml
+    verified: false
+    hashtags: "#workout, #funny, #fitness, #running"
+  - username: "lunalindsay"
+    fullname: >-
+      lunalindsay
+    bio: >-
+      boho style child🌸✌🏼 plant mom🌿🌵 follow me on ig: @luna.lindsay🌛
+    location: "Canada"
+    followers: 25700
+    engagement: 1039
+    commentsToLikes: 0.033881
+    id: ckd621x5a1opf0j23eg3bjs9s
+    verified: false
+    hashtags: "#fyp, #plantmom, #hellospring, #bohohome"
   - username: "visualslxyer"
     fullname: >-
       Basit sultani 
@@ -18,7 +42,7 @@ profiles:
     commentsToLikes: 0.074229
     id: ck8j8zavrl1f90j78no9lmptc
     verified: false
-    hashtags: "#canada, #4u, #portrait, #photoshoot"
+    hashtags: "#videographer, #photo, #foryoupage, #fyp"
   - username: "abbieoliveira"
     fullname: >-
       Abbie
@@ -30,7 +54,7 @@ profiles:
     commentsToLikes: 0.029455
     id: ck9k6x6082mn90j780ysvbt16
     verified: false
-    hashtags: "#modelskincare, #skincareroutine, #model, #skincare101"
+    hashtags: "#skincare101, #model, #skincareroutine, #modelskincare"
   - username: "devisathi"
     fullname: >-
       DeviSathi
@@ -55,6 +79,18 @@ profiles:
     id: ckcem06piw3n10j234wmi8r81
     verified: false
     hashtags: "#fyp, #brand, #viral, #xyzbca"
+  - username: "dillon.kydd"
+    fullname: >-
+      dillon 
+    bio: >-
+      Photographer / Graphic Designer Toronto 🇨🇦 Let’s make something amazing
+    location: "Canada"
+    followers: 10500
+    engagement: 1258
+    commentsToLikes: 0.007622
+    id: ck8kg0jx5ge3w0j78himdm2ky
+    verified: false
+    hashtags: "#new, #vogue, #portrait, #graphicdesign"
   - username: "dilraazsidhu"
     fullname: >-
       Dilraz Sidhu
@@ -78,7 +114,7 @@ profiles:
     commentsToLikes: 0.106789
     id: ckce5mg0lk4sj0j2340wos554
     verified: false
-    hashtags: "#tiktokggt, #girl, #makeup, #glowup"
+    hashtags: "#makeup, #fashion, #tiktokggt, #foryou"
   - username: "markus_hogg"
     fullname: >-
       Markus
@@ -91,40 +127,4 @@ profiles:
     id: ck9go0dcyywrs0j78azr9qnsy
     verified: true
     hashtags: "#qualitytime, #beforeidie, #mybucketlist, #model"
-  - username: "shaquoneblake"
-    fullname: >-
-      𝐒𝐡𝐚𝐪¹
-    bio: >-
-      🇨🇦 IG: @onceaking__ ⇧ Published Model🦋 CEO of Tarquin 😳📚
-    location: "Canada"
-    followers: 232500
-    engagement: 1529
-    commentsToLikes: 0.063308
-    id: cka6j90wtttl10i78f49cq7e3
-    verified: false
-    hashtags: "#xyzbca, #duet, #bisexual, #lgbt"
-  - username: "saramazz919"
-    fullname: >-
-      💋 Sara Mazz
-    bio: >-
-      🇨🇦35•🔐wifey💍toronto•sassy🇮🇹 18+ 🔞 💜 fibromyalgia warrior 💜 cat mom 😻
-    location: "Canada"
-    followers: 52000
-    engagement: 1219
-    commentsToLikes: 0.207152
-    id: ckbw0204tvqle0j23zxg89b8w
-    verified: false
-    hashtags: "#foryou, #foryoupage, #blindduet, #stitch"
-  - username: "laurenmmoore"
-    fullname: >-
-      Lauren Moore
-    bio: >-
-      🇨🇦🌈 Toronto! Follow my insta! Business only: LMVids@hotmail.com
-    location: "Canada"
-    followers: 99300
-    engagement: 1782
-    commentsToLikes: 0.028114
-    id: ck806yxusn7ai0j786qnkldml
-    verified: false
-    hashtags: "#relatable, #funny, #workout, #joke"
 ---

@@ -1,12 +1,84 @@
 ---
-title: Top 10 Stylists Instagram Influencers In Brazil In 2023
+title: Top 10 Stylists Instagram Influencers In Brazil In 2024
 description: >-
-  Find top stylists Instagram influencers in Brazil in 2023. Most popular hashtags: #fashion #boxbraidsbrasil #boxbraids.
+  Find top stylists Instagram influencers in Brazil in 2024. Most popular hashtags: #praia #boxbraids #lavidaesbella.
 platform: Instagram
-hits: 303
-text_top: Discover the best Instagram profiles on inBeat.
-text_bottom: Our database aggregates 303 Instagram influencers like this in Brazil for you to contact.
+hits: 302
+text_top: Identify the most popular Instagram profiles on inBeat.
+text_bottom: Our database has 302 Instagram influencers like this in Brazil for you to work with.
 profiles:
+  - username: "vicmoulin"
+    fullname: >-
+      ✿℘ victoria moulin ๑*✩
+    bio: >-
+      from rj • stylist @adorofarm • @contraste.mgt sp • @workshopmodels rj • @moulinverso @modrecompany 💌 vicmoulincontato@gmail.com
+    location: "Brazil"
+    followers: 13587
+    engagement: 1169
+    commentsToLikes: 0.047998
+    id: ck5zu58fv1pdb0i14au8i9xoy
+    verified: false
+    hashtags: "#clayrings, #unhas, #sheinbrasil, #sheinforall"
+  - username: "priyankarkapadia"
+    fullname: >-
+      Priyanka Kapadia Badani
+    bio: >-
+      Creative Director | Stylist Former Fashion Director @vogueindia
+    location: "Brazil"
+    followers: 183441
+    engagement: 631
+    commentsToLikes: 0.009131
+    id: ck0twqcv6gev50i19eb9edxqh
+    verified: false
+    hashtags: "#madeinindia, #sabyasachixhm, #hmxme, #hmindia"
+  - username: "geisavitorinoreal"
+    fullname: >-
+      Geisa
+    bio: >-
+      Collector of incredible moments ! Stylist @misswellness @misswellnesschampionship @nikalury Brazilian🇧🇷 Traveler 🇦🇪🇧🇭🇬🇷🇪🇸🇺🇾🇬🇧🇫🇷🇱🇷🇮🇹🇲🇨
+    location: "Brazil"
+    followers: 1139376
+    engagement: 151
+    commentsToLikes: 0.014986
+    id: ck0w5wx7i5u2h0i19jkyr9nfs
+    verified: false
+    hashtags: "#62, #buzios, #enjoy, #enjoyyourlife"
+  - username: "krisna"
+    fullname: >-
+      KRISNA
+    bio: >-
+      Makeup Artist - Hair Stylist @krisnatricks ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀ Contact Thati Cayres
+    location: "Brazil"
+    followers: 149792
+    engagement: 133
+    commentsToLikes: 0.044035
+    id: ck55ndfhx5z0p0i11l10k0zy6
+    verified: false
+    hashtags: "#anitta, #grazimassafera, #sabrinasato, #thassianaves"
+  - username: "natcarvalho"
+    fullname: >-
+      NATÁLIA CARVALHO
+    bio: >-
+      stylist, makeup, diretora criativa invento artes, modas, magias e temperos. founder of @iambrava 💌 nataliacarvalho@sideco.com.br
+    location: "Brazil"
+    followers: 119114
+    engagement: 168
+    commentsToLikes: 0.033372
+    id: ck14if5ekf47y0i19vgdhpwo3
+    verified: false
+    hashtags: "#ncstyle, #beatszodiac, #bebacommodera"
+  - username: "merygaravilla"
+    fullname: >-
+      Mery Garavilla
+    bio: >-
+      F a s h i o n • L i f e S t y l e • T r a v e l Fashion Designer & Stylist 🏹🤍 Content Creator
+    location: "Brazil"
+    followers: 72213
+    engagement: 46
+    commentsToLikes: 0.077066
+    id: ck602nfqli52q0i14393krnpt
+    verified: false
+    hashtags: "#camparitonic, #prixbaronb, #festivaldeverano"
   - username: "le__verissimo"
     fullname: >-
       Leticia Verissimo🌻
@@ -55,76 +127,4 @@ profiles:
     id: ck5cdjwgfjaq70i11jvubej30
     verified: false
     hashtags: ""
-  - username: "rainhafavelada"
-    fullname: >-
-      RF
-    bio: >-
-      Stylist / Artista Visual
-    location: "Brazil"
-    followers: 7452
-    engagement: 1486
-    commentsToLikes: 0.035902
-    id: ck5hqrvq7tm760i11nlk0dgng
-    verified: false
-    hashtags: "#tbt"
-  - username: "lorysl"
-    fullname: >-
-      Lorena Loschi
-    bio: >-
-      Brazilian/Italian 📍🇧🇷 Model 🇺🇸 🇨🇱 🇮🇹 🇳🇴 🇲🇽 Fashion Design 🎓 - creator - stylist 🧥@brecholorys MA @jem.models MX @fragmentosmodelmanagement
-    location: "Brazil"
-    followers: 16930
-    engagement: 400
-    commentsToLikes: 0.087916
-    id: ck6ueabu9pqy80j71q7wsx4m9
-    verified: false
-    hashtags: "#queroesseestagio, #exponhasuascores, #tb"
-  - username: "weuquens"
-    fullname: >-
-      Weuquens Queiroz
-    bio: >-
-      • Cearense • Living In Natal • Stylist • Designer de Moda • Style Director @romancebrazil_oficial • Gerente de MKT e Vendas @modadroff • Virginiano
-    location: "Brazil"
-    followers: 40095
-    engagement: 246
-    commentsToLikes: 0.093461
-    id: ck8t0k9jvscjp0j78aghitxaq
-    verified: false
-    hashtags: "#homensdebarba, #pipa, #campaign, #summer"
-  - username: "costaafe_"
-    fullname: >-
-      Fernanda Costa.
-    bio: >-
-      🦋🌈🦄🌻💅🏾🌸✨🐳💘👽 “do PPG para o MUNDO!” Hair stylist- @planet_haiir ✨
-    location: "Brazil"
-    followers: 28270
-    engagement: 734
-    commentsToLikes: 0.016373
-    id: ck6tx1n7rvcdd0j71rzh5j2zp
-    verified: false
-    hashtags: ""
-  - username: "marilia.oliveira_"
-    fullname: >-
-      MARILIA OLIVEIRA
-    bio: >-
-      ✂️hair stylist • criador de conteúdo digital •EMBAIXADORA DA @sermulherfibras Dona do Espaço Marília Oliveira / RJ Clica no link👇🏽
-    location: "Brazil"
-    followers: 46483
-    engagement: 385
-    commentsToLikes: 0.040290
-    id: ck15tnap1ixjr0i19sv4kwlef
-    verified: false
-    hashtags: "#tran, #crespasecacheadas, #boxbraidstyles, #sermulherfibras"
-  - username: "filipeferreiraof"
-    fullname: >-
-      Filp
-    bio: >-
-      ⚠️Assistam os STOREIS⚠️ • Makeup Artist • Hair Stylist • RIO DE JANEIRO VOCÊ VAI CHEGAR LÁ ★
-    location: "Brazil"
-    followers: 52039
-    engagement: 183
-    commentsToLikes: 0.142695
-    id: ck602e0m1h7me0i14uzrjhfno
-    verified: false
-    hashtags: "#lisa, #makeup, #novidades, #afazenda12"
 ---

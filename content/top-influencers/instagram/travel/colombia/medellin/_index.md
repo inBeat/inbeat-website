@@ -1,24 +1,12 @@
 ---
-title: Top 10 Travel Instagram Influencers In Medellín In 2023
+title: Top 10 Travel Instagram Influencers In Medellín In 2024
 description: >-
-  Find top travel Instagram influencers in Medellín in 2023. Most popular hashtags: #medellin #colombia #travel #antioquiacolombia.
+  Find top travel Instagram influencers in Medellín in 2024. Most popular hashtags: #colombia #medellin #travel #colombiatravel.
 platform: Instagram
-hits: 52
-text_top: See the most popular Instagram profiles on inBeat.
-text_bottom: Our search engine holds 52 Instagram influencers like this in Medellín, Colombia for you to connect with.
+hits: 55
+text_top: Analyze the most popular Instagram influencers on inBeat.
+text_bottom: Our database has 55 Instagram influencers like this in Medellín, Colombia for you to pitch.
 profiles:
-  - username: "juantrotamundos"
-    fullname: >-
-      Juan🏃 Trotamundos 🌎
-    bio: >-
-      🇨🇴 Viajero colombiano 🇨🇴 Comparto lo que veo y aprendo💭 Fan #1 de la aventura! 🤘🏻Doy tips 🕺 Filosofeo ✨ Amo que estés aquí ♥️
-    location: "Colombia"
-    followers: 196478
-    engagement: 392
-    commentsToLikes: 0.280019
-    id: ck0vx2jlewtqw0i19exnqrrki
-    verified: false
-    hashtags: "#colombia, #medellintravel, #paisa, #naturaleza"
   - username: "jh_vahos"
     fullname: >-
       ⓙⓗⓞⓝ  ⓥⓐⓗⓞⓢ 🔥
@@ -31,6 +19,18 @@ profiles:
     id: ck8t8sxu2lop50j78nutkgfcx
     verified: false
     hashtags: "#coments, #goodvibes, #like, #gay"
+  - username: "dondeesta_kelly"
+    fullname: >-
+      Kelly 🐿 Just A Travel Squirrel
+    bio: >-
+      ✨Visual Storyteller ✈ Travel ~ Photography 🛸 I’ve a drone De bocas libres & pies pa’ caminar✨ #viajar #creatividad #fotografia #colombia🇨🇴
+    location: "Colombia"
+    followers: 29681
+    engagement: 369
+    commentsToLikes: 0.109696
+    id: ck0w5qet44x4b0i19672e02td
+    verified: false
+    hashtags: "#viajar, #nomad, #islandlife, #nature"
   - username: "jsebas.saldarriaga"
     fullname: >-
       Sebas Saldarriaga
@@ -55,30 +55,6 @@ profiles:
     id: ckf5v3f2sn6ah0j233cyxbk6t
     verified: false
     hashtags: "#soyturistaenpr, #puertoricogram, #enjoypuertorico, #deaquipapuertorico"
-  - username: "travel_jcr"
-    fullname: >-
-      Jhonathan ✈️🌎🇨🇴
-    bio: >-
-      📍 De Cali 🇨🇴🕺🏽viviendo en Medellín 🌎 Viajero - Travel blog 📷 Fotógrafo y filmmaker aficionado 👇🏾Aqui solo vas a ver cosas chéveres
-    location: "Colombia"
-    followers: 11556
-    engagement: 745
-    commentsToLikes: 0.186508
-    id: ckf5wgw05rzv80j239j3eb0gf
-    verified: false
-    hashtags: "#riodejaneirotrip, #reelsinstagram, #visitbrazil, #damefotismo"
-  - username: "danielrestrepogarcia"
-    fullname: >-
-      𝑫𝒂𝒏𝒊𝒆𝒍 𝑹𝒆𝒔𝒕𝒓𝒆𝒑𝒐 I Clavados
-    bio: >-
-      Nos vemos en Francia 🇫🇷 @paris2024 acompáñame a vivir un ciclo olímpico Campeón Panamericano Lima 2019 Campeón olímpico de la juventud 2018
-    location: "Colombia"
-    followers: 19827
-    engagement: 1020
-    commentsToLikes: 0.025376
-    id: ck8sxy4w6j33z0j78bo5e1iqo
-    verified: false
-    hashtags: "#me, #fit, #covid, #workout"
   - username: "nickgrafia"
     fullname: >-
       Nicolás | Naturaleza
@@ -91,6 +67,30 @@ profiles:
     id: ck0w75b12btv60i19y3f6zn7z
     verified: false
     hashtags: "#lomejordecolombia, #colombiaesincreible, #colombia, #ig"
+  - username: "angulosaul"
+    fullname: >-
+      Saul Angulo
+    bio: >-
+      PR & Influencer MKT Foodie || LifeStyle Industrial Enginner 📍México City || (Made in Sinaloa).
+    location: "Colombia"
+    followers: 41914
+    engagement: 308
+    commentsToLikes: 0.041209
+    id: ck15pzooq0fdj0i19f9p9wznt
+    verified: false
+    hashtags: "#mensstyle, #vacation, #menstyle, #travel"
+  - username: "juantrotamundos"
+    fullname: >-
+      Juan José López Chica
+    bio: >-
+      🇨🇴 Viajero colombiano 🇨🇴 Comparto lo que veo, siento y aprendo💭 Les muestro nuevos lugares 🌍 Fan #1 de la aventura! 🤘🏻 ✨ Amo que estés aquí 😬
+    location: "Colombia"
+    followers: 287303
+    engagement: 124
+    commentsToLikes: 0.040272
+    id: ck0vx2jlewtqw0i19exnqrrki
+    verified: false
+    hashtags: "#londres, #viajesinolvidables, #antioquia, #antioquiacolombia"
   - username: "andresagudelo"
     fullname: >-
       Andres Agudelo
@@ -103,28 +103,28 @@ profiles:
     id: ck6u3pc0pz3kq0j71njrcq23m
     verified: false
     hashtags: "#ride, #stravacycling, #tourthefrance, #ciclismoderuta"
-  - username: "theonlysanto"
+  - username: "loboartt"
     fullname: >-
-      SANTO
+      Stives Contreras
     bio: >-
-      Fashion Designer Dancer Art Director “The power of create is as perfect as a Diamond”
+      Arte y escultura @artbylobo__ Micro & fine line @finelinebyloboartt Cuenta personal @soyloboart Mi tienda @lobotattoostudio
     location: "Colombia"
-    followers: 38120
-    engagement: 300
-    commentsToLikes: 0.015112
-    id: ck6uap9z14uuf0j71kyp6z5b1
+    followers: 124099
+    engagement: 42
+    commentsToLikes: 0.093558
+    id: ck5caah71d18g0i11lbq1tlx3
     verified: false
-    hashtags: "#fitnesslife, #showproduction, #style, #queerart"
-  - username: "estefaburi"
+    hashtags: "#besttattoos, #lifestyletattoo, #besttattooartist, #realistic"
+  - username: "colombiaentusojos"
     fullname: >-
-      Estefania Buriticá♡
+      Turismo en Colombia 🇨🇴
     bio: >-
-      📸 | Model @estefaburi_ 📚 | Psicología UdeA 📖 🎶 | TikTok : @estefaburii +474k🔝 📍 | Medellín,Col 🇨🇴 •Publicidad :+573123333160
+      🇨🇴 Sígueme y descubre nuevos lugares de Colombia ✨ Te muestro dónde serán tus próximas vacaciones y dónde hospedarte Soy @padondespues Publicidad 👇🏽
     location: "Colombia"
-    followers: 323651
-    engagement: 100
-    commentsToLikes: 0.026933
-    id: ck5pw1txekozp0i11027gjnxl
+    followers: 111606
+    engagement: 111
+    commentsToLikes: 0.149987
+    id: ckap8ds6mnvxg0i78wnupluqx
     verified: false
-    hashtags: "#funtime, #blue, #simplythebest, #vibes"
+    hashtags: "#santamarta, #colombiaentusojosfood, #colombiaentusojos, #viaje"
 ---

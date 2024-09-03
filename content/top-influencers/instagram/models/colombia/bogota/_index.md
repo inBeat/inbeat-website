@@ -1,11 +1,11 @@
 ---
-title: Top 10 Models Instagram Influencers In Bogotá In 2023
+title: Top 10 Models Instagram Influencers In Bogotá In 2024
 description: >-
-  Find top models Instagram influencers in Bogotá in 2023. Most popular hashtags: #colombia #model #bogota #fashion.
+  Find top models Instagram influencers in Bogotá in 2024. Most popular hashtags: #model #colombia #bogota #makeup.
 platform: Instagram
-hits: 66
-text_top: Discover the most popular Instagram accounts on inBeat.
-text_bottom: Our platform aggregates 66 Instagram influencers like this in Bogotá, Colombia for you to work with.
+hits: 64
+text_top: Identify the top-rated Instagram accounts on inBeat.
+text_bottom: inBeat holds 64 Instagram influencers like this in Bogotá, Colombia for you to collaborate.
 profiles:
   - username: "leidygomez063"
     fullname: >-
@@ -67,6 +67,30 @@ profiles:
     id: ckf5wpkwmsu6q0j235p3mptu6
     verified: false
     hashtags: "#sunsetphotography, #macrolove, #macrophotography, #sexy"
+  - username: "angela_bonilla_"
+    fullname: >-
+      Angela Bonilla | Dubai Model
+    bio: >-
+      📍 Dubai Model | Plant Based 🌱 @theveganenergy | Traveler From Colombia 🇨🇴 @talentmodelmgmt 🇦🇪 @bareface_model_agency
+    location: "Colombia"
+    followers: 25449
+    engagement: 454
+    commentsToLikes: 0.036914
+    id: ck5pvbheuh2lh0i11cxmrdv0u
+    verified: false
+    hashtags: "#colombia, #model, #makeup, #latina"
+  - username: "provocador.cultural"
+    fullname: >-
+      🔥Provocador • Fotografía • Video • Creatividad📸
+    bio: >-
+      Soy Jaír 🤍 📸 Fotógrafo 👌 PR • Talent Manager • Influencer Marketing 🔥TikTok: @ provocador (530k+) ✌🏼Colaboraciones al DM o Correo 📍Bogota 🇨🇴
+    location: "Colombia"
+    followers: 19090
+    engagement: 320
+    commentsToLikes: 0.028729
+    id: ck9wfzp5cr8ni0j78w669e1ya
+    verified: false
+    hashtags: "#retratolatino, #portraitmood, #fotografoslatinoss, #model"
   - username: "camilacruzg1"
     fullname: >-
       CAMILA
@@ -103,28 +127,4 @@ profiles:
     id: ckap1ciqsu0000i78v07bp98w
     verified: false
     hashtags: "#urban, #boy, #bogota, #pic"
-  - username: "tatiana_romero11"
-    fullname: >-
-      Tatiana Romero
-    bio: >-
-      😍🌸 @taked_storee @laagenciabatallademodelos #2019 🇨🇴 M O D E L O Bogota @grupo4co Cali @elmolinoagencia 22 Arquitectura 😍 🔨🔧🏢
-    location: "Colombia"
-    followers: 20696
-    engagement: 386
-    commentsToLikes: 0.047095
-    id: ck5zzyi59cmwl0i14c11dq376
-    verified: false
-    hashtags: "#misstopontheworld, #mode, #vibrapatprimo, #se"
-  - username: "ramvidzapata"
-    fullname: >-
-      🆁🅰🅼🆅🅸🅳
-    bio: >-
-      📦@mrboxmen @mystere.co ©𝓜á𝓷𝓪𝓰𝓮𝓻 ✳️ @andrewchristianintl Ambassador 🌈♂️ 🍑@jjmalibu Ambassasor 🇻🇪Living in Bogota🇻🇪
-    location: "Colombia"
-    followers: 65605
-    engagement: 280
-    commentsToLikes: 0.016344
-    id: ck6u070hhdyy10j71x6lygpcd
-    verified: false
-    hashtags: "#men, #photography, #inkedmen, #medellin"
 ---

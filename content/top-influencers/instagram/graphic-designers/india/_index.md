@@ -1,24 +1,36 @@
 ---
-title: Top 10 Graphic-Designers Instagram Influencers In India In 2023
+title: Top 10 Graphic-Designers Instagram Influencers In India In 2024
 description: >-
-  Find top graphic-designers Instagram influencers in India in 2023. Most popular hashtags: #kerala #india #mallu #photography.
+  Find top graphic-designers Instagram influencers in India in 2024. Most popular hashtags: #kerala #mallu #india #photography.
 platform: Instagram
-hits: 50
-text_top: Discover the best Instagram accounts on inBeat.
-text_bottom: Our platform aggregates 50 Instagram influencers like this in India for you to pitch.
+hits: 60
+text_top: See the best Instagram profiles on inBeat.
+text_bottom: Our search engine has 60 Instagram influencers like this in India for you to contact.
 profiles:
-  - username: "ishamultani"
+  - username: "thrissurkaranphotography"
     fullname: >-
-      Isha Multani Daftary
+      Krishnaprasad
     bio: >-
-      🧿 Social Media Strategist | Instagram Marketing | Content Creation | Graphic Designer | Freelance Consultant | Luxury Bridal Blogger 🍪 • 🦄 • 🐶 • 🎼 • 👰
+      📍Kerala | bangalore | mumbai Founder- @tkweddingstories Wedding | Fashion| commercial Graphic designer |viscom 🧑‍🎓
     location: "India"
-    followers: 38952
-    engagement: 2878
-    commentsToLikes: 0.008845
-    id: ck6ugoxnl4aj30j715ijahz7t
+    followers: 37041
+    engagement: 1287
+    commentsToLikes: 0.021051
+    id: ck8t5req4az860j78zzn2l9wy
     verified: false
-    hashtags: "#tistheseason, #daffykoishqhua, #cheenuforlife, #hima"
+    hashtags: "#instagood, #keralagodsowncountry, #kochi, #mollywood"
+  - username: "thebigfatminimalist"
+    fullname: >-
+      Aniruddh Mehta
+    bio: >-
+      Graphic Designer / Visual Artist Founder, @studiobigfat Mumbai, India
+    location: "India"
+    followers: 53361
+    engagement: 151
+    commentsToLikes: 0.024607
+    id: ck5pwhzk1mw9j0i11iv1w84aq
+    verified: true
+    hashtags: "#liveinlevis, #screenprinting, #lollapalooza, #lollapaloozaindia"
   - username: "hamza.visuals"
     fullname: >-
       HAMZA KHAN | حمزہ خان
@@ -91,18 +103,6 @@ profiles:
     id: ckaovgcx94iif0i7804thfk8p
     verified: false
     hashtags: "#india, #mollywood, #vibes, #mallu"
-  - username: "vagy_photography"
-    fullname: >-
-      Vivek R pillai
-    bio: >-
-      Founder @wedvo | Automotive Photographer | Graphic designer | Concepts | Fashion | Taken | @his_frame Dm for paid shoots and editz
-    location: "India"
-    followers: 13974
-    engagement: 2467
-    commentsToLikes: 0.043536
-    id: ck6tzif179w270j712gvx0j14
-    verified: false
-    hashtags: "#godsowncountry, #keralaattraction, #malayalamtypography, #india"
   - username: "airphish"
     fullname: >-
       Smriti Choudhary

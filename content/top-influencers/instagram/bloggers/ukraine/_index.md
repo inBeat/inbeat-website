@@ -1,12 +1,48 @@
 ---
-title: Top 10 Bloggers Instagram Influencers In Ukraine In 2023
+title: Top 10 Bloggers Instagram Influencers In Ukraine In 2024
 description: >-
-  Find top bloggers Instagram influencers in Ukraine in 2023. Most popular hashtags: #fun #travel #nature.
+  Find top bloggers Instagram influencers in Ukraine in 2024. Most popular hashtags: #travel #fun #ukraine.
 platform: Instagram
-hits: 51
-text_top: See the top-rated Instagram profiles on inBeat.
-text_bottom: Our search engine aggregates 51 Instagram influencers like this in Ukraine for you to connect with.
+hits: 55
+text_top: Identify the best Instagram influencers on inBeat.
+text_bottom: inBeat has 55 Instagram influencers like this in Ukraine for you to contact.
 profiles:
+  - username: "baba.aghayev"
+    fullname: >-
+      Baba Aghayev
+    bio: >-
+      Travel Blogger 70 countries so far 🌎✈️ All photos are taken with Samsung S23 Ultra. Based in Dubai 🇦🇪📍
+    location: "Ukraine"
+    followers: 29192
+    engagement: 925
+    commentsToLikes: 0.026281
+    id: ckaou4s4rysp90i785rhna4h1
+    verified: false
+    hashtags: "#travelbloggers, #tribes, #travelmore, #gezeyenler"
+  - username: "mariia_arsentieva"
+    fullname: >-
+      Mariia Arsentieva
+    bio: >-
+      Ukrainian Creative diary | Blogger | model Ambassador:@guess @fableticseu, @ironmaxx_nutrition @hunkemoller @mariia.arsentieva_pr my second page
+    location: "Ukraine"
+    followers: 1030283
+    engagement: 89
+    commentsToLikes: 0.006787
+    id: ck8swy6pbfme20j78nuvlwx92
+    verified: false
+    hashtags: ""
+  - username: "nastia_tsvetaeva"
+    fullname: >-
+      Anastasia Tsvetaeva
+    bio: >-
+      Slavic Woman in the Middle East🇮🇱 Influencer•blogger•artist•mother Co-founder @see_with_us_tlv Coop: @pr_nastia_tsvetaeva My projects:
+    location: "Ukraine"
+    followers: 1256346
+    engagement: 38
+    commentsToLikes: 0.021583
+    id: ck1376tl2a2uk0i19zdw9ujom
+    verified: true
+    hashtags: "#stopwarinukraine, #stopwarinukrain"
   - username: "mariana_oleksik"
     fullname: >-
       Mariana Oleksik
@@ -41,18 +77,6 @@ profiles:
     engagement: 586
     commentsToLikes: 0.100119
     id: ck9hbr5aii4ji0j78hy5zibns
-    verified: false
-    hashtags: ""
-  - username: "verbaaa"
-    fullname: >-
-      YULIA VERBYNETS
-    bio: >-
-      Та сама Верба😈 ⠀ 👩🏼‍🦰 рижі коси у відпустці ⠀ 📊 FORBES TOP 30 🥇 БЛОГЕР РОКУ 2020 🏆 LIFESTYLE BLOGGER 2019 ⠀ 📮 реклама @verbaaa_cooperation
-    location: "Ukraine"
-    followers: 3002488
-    engagement: 780
-    commentsToLikes: 0.008697
-    id: ck6tv30k2jvue0j71kj73mbne
     verified: false
     hashtags: ""
   - username: "sofiafashionicone"
@@ -103,28 +127,4 @@ profiles:
     id: ck8t52d7r8lk80j78syfa5bet
     verified: false
     hashtags: "#latvia, #blonde, #uzbekistan, #latviatravel"
-  - username: "dushnaandriana"
-    fullname: >-
-      У 18, відкрила фотостудію💗
-    bio: >-
-      📸Моя @bloggers__studio 📱Крамничка @bloggers_case_drogobych 🎥Знімаю ТікТок ⠀ Дівчина найкращого @m_o_t_r_y_c_h_ #dushnaandriana_навігація 📩Співпраця
-    location: "Ukraine"
-    followers: 61902
-    engagement: 81
-    commentsToLikes: 0.015898
-    id: ck0w1vkw7lcge0i19tkg05ex0
-    verified: false
-    hashtags: "#hookahplace, #liketime, #dushnaandriana, #he"
-  - username: "joinerdennis"
-    fullname: >-
-      Денис Столяров
-    bio: >-
-      ㊙️ BMX rider since 2008 🥗 Vegan, blogger, PC Gamer ⚙️ Support & friends: @enjoy_bmxstore 📡 Найбільший україномовний BMX канал ⤵️ Perfluence
-    location: "Ukraine"
-    followers: 15318
-    engagement: 1251
-    commentsToLikes: 0.036202
-    id: ckap7mqezknut0i78pgc1hk5p
-    verified: false
-    hashtags: ""
 ---

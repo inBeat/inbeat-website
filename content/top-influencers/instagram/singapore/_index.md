@@ -1,130 +1,130 @@
 ---
-title: Top 10 Instagram Influencers In Singapore In 2023
+title: Top 10 Instagram Influencers In Singapore In 2024
 description: >-
-  Find top Instagram influencers in Singapore in 2023. Most popular hashtags: #sp #adidassg #nocapfootballfiesta.
+  Find top Instagram influencers in Singapore in 2024. Most popular hashtags: #singapore #sgfood #sp.
 platform: Instagram
-hits: 460
-text_top: Identify the top-rated Instagram accounts on inBeat.
-text_bottom: Our search engine has 460 Instagram influencers like this in Singapore for you to contact.
+hits: 766
+text_top: Analyze the top-rated Instagram accounts on inBeat.
+text_bottom: inBeat holds 766 Instagram influencers like this in Singapore for you to work with.
 profiles:
-  - username: "tonisiaa"
+  - username: "lauren__burke"
     fullname: >-
-      Toni Sia
+      lauren
     bio: >-
-      inquire.tonisia@gmail.com recos here:
+      new york founder @cafesocietynewyork
     location: "Singapore"
-    followers: 419852
-    engagement: 812
-    commentsToLikes: 0.004102
-    id: ck5caz90qeeug0i11d407k9hq
+    followers: 45655
+    engagement: 924
+    commentsToLikes: 0.009434
+    id: ck5c6wybv6df80i11wwvpwvzg
     verified: false
-    hashtags: "#pondsserumduo, #sheinph, #jamesonph, #jamesondistillerymanila"
-  - username: "tiffanysoetanto"
+    hashtags: ""
+  - username: "christps"
     fullname: >-
-      tiffany joy s. poernomo
+      Christps
     bio: >-
-      Life with my boys 🙎🏻‍♂️ @arnoldpo 👶🏻 @arthurmiles.po 🐶 @butterpo 🍦@bebinigelati 💋 info.teamtiff@gmail.com
+      🇲🇾🇸🇬 Travelling|Wonderluster|Foodies|Cooking|Gym Foodies: @chrisfoodies #ctpslog #christps #chrisfoodies
     location: "Singapore"
-    followers: 325224
-    engagement: 628
-    commentsToLikes: 0.049390
-    id: ck5cj4q8jtz7k0i11y7dudt77
-    verified: true
-    hashtags: "#karenakeluargasangatberharga, #38weeks, #boyok, #kerokooxtiffany"
-  - username: "annettelee"
-    fullname: >-
-      Annette Lee 李安
-    bio: >-
-      just here to tell stories + send u memes✨ musician | filmmaker | actor-host 🎵🎬🇸🇬 @theannandbenshow @asianbillionaires.series ⬇️ 𝐧𝐞𝐰 𝐯𝐢𝐝𝐞𝐨 𝐨𝐮𝐭 𝐧𝐨𝐰! ⬇️
-    location: "Singapore"
-    followers: 165711
-    engagement: 778
-    commentsToLikes: 0.011989
-    id: ck5cl5vkxyb0y0i11sbbihduv
-    verified: true
-    hashtags: "#asianparenttings, #chatswithchantelle, #annetteandaccents, #canoneosm50markii"
-  - username: "zhaisiming"
-    fullname: >-
-      ZHAI SIMING翟思铭
-    bio: >-
-      Managed by Mediacorp, The Celebrity Agency. For work: yizhenngoh@mediacorp.com.sg More updates on @flywithsiming
-    location: "Singapore"
-    followers: 24071
-    engagement: 569
-    commentsToLikes: 0.038688
-    id: ck5qd7dsqu6aj0i11zhf8lr4p
+    followers: 5228
+    engagement: 1115
+    commentsToLikes: 0.078763
+    id: ckaoz66itkjqb0i784spydjr4
     verified: false
-    hashtags: "#fredjewelry, #justforlaughs, #filming, #skit"
-  - username: "fandiahmadofficial"
+    hashtags: "#instadaily, #lightroom, #shotoniphone11promax, #exploresg"
+  - username: "jeffreyngai"
     fullname: >-
-      Fandi Ahmad
+      Jeffrey Ngai 魏浚笙
     bio: >-
-      📧fandiahmadofficial17@gmail.com | @adidasfootball 👇Fandi:Honour & Sacrifice
+      Jeffrey Ngai 魏浚笙第六首派台作品《老積》MV
     location: "Singapore"
-    followers: 37382
-    engagement: 542
-    commentsToLikes: 0.008766
-    id: ck5qd74smu4uk0i1125pfj7dp
+    followers: 476736
+    engagement: 426
+    commentsToLikes: 0.005340
+    id: ck0w0bqakddwa0i19285a55j1
     verified: false
-    hashtags: "#scsmvc, #sgmarathon, #scsm2022, #fandiahmad"
-  - username: "jacob.mahler"
+    hashtags: "#imax, #tastetherealmoment, #neo, #cushion"
+  - username: "kyung.2k"
     fullname: >-
-      JM6
+      KYUNGHOON 경훈
     bio: >-
-      🇸🇬🇩🇰 @yglions @adidasfootball @adidassg mahlerjacob8@gmail.com
+      2K 🇰🇷🇸🇬 @fakyu_sg I create content too ✨ #FKBN #Kyungsmen @sejongkorean Dance • Beatbox • Emcee • Translate • Act Danzppl • Courses • Collab [DM]
     location: "Singapore"
-    followers: 14566
-    engagement: 1899
-    commentsToLikes: 0.011216
-    id: ckaou5mvuywmz0i78wqbo76rf
+    followers: 36322
+    engagement: 844
+    commentsToLikes: 0.031956
+    id: ck5zk5xluivka0i14hn9ylz5f
     verified: false
-    hashtags: "#nocapfootballfiesta, #adidasfootball, #adidasxgucci, #adidassg"
-  - username: "ihikhi"
+    hashtags: "#learnkoreanwithfenandmok, #igsg, #singapore, #dance"
+  - username: "sarawongg"
     fullname: >-
-      Ikhwan Hidayat
+      Sara ꪔ̤̥
     bio: >-
-      Aviation and Travels • Indonesian • FujiFilm XT3 • iPhone 14pro • All photos and videos were taken by myself unless stated • My YouTube channel:
+      you're loved & worthy 🖤 TikTok: 43k 💌 sarawong28@gmail.com
     location: "Singapore"
-    followers: 55067
-    engagement: 391
-    commentsToLikes: 0.027839
-    id: ck5zpjfx6ss2e0i14c4srqzks
+    followers: 11552
+    engagement: 479
+    commentsToLikes: 0.073501
+    id: ckf5oib3r2ctv0j231r9s9h3g
     verified: false
-    hashtags: "#pilot, #ihikhisq, #singaporeair, #inflightmeal"
-  - username: "whathebronte"
+    hashtags: "#sponsored, #saraxsp, #beautybloggersg, #koreanbrush"
+  - username: "tomoyama32"
     fullname: >-
-      Danil Palma
+      Tomohiro Yamashita (山下智央)
     bio: >-
-      ✖️ Lifestyle | Travel | Fitness 📍 Singapore ✉️ contact@danilpalma.com
+      Nihongo Mantappu, Tomohiro Yamashita Channel ←Waseda University Business : +6251-7525-3060 Email for partnership 🇮🇩🇺🇸 企業案件はメールで🙏(日本語もOK)
     location: "Singapore"
-    followers: 78810
-    engagement: 326
-    commentsToLikes: 0.011725
-    id: ck5hdxfebpvl90i11tbrvfx1s
+    followers: 1472575
+    engagement: 999
+    commentsToLikes: 0.004111
+    id: ck0u2fh37zsoe0i19vcavnler
     verified: false
-    hashtags: "#uipsingapore, #halloween, #halloweenmakeup, #airnzbungychallenge"
-  - username: "lennardy"
+    hashtags: "#mantappujiwa, #nihongomantappu, #wasedaboys, #tomo"
+  - username: "kyrakillaa"
     fullname: >-
-      Lennard Yeong
+      KYRA キラ
     bio: >-
-      Once an engineer, now on a journey to learn about food In-house chef at Miele Singapore
+      東京 <> LA I create Visuals and Music🥽🔬 Work inquiry: artist@kyrakilla.com
     location: "Singapore"
-    followers: 171893
-    engagement: 327
-    commentsToLikes: 0.014721
-    id: ck6tm39k773pc0j71b2kzsii9
+    followers: 190412
+    engagement: 1722
+    commentsToLikes: 0.009064
+    id: ck9wgqgsgujb70j7867o8e4na
     verified: false
-    hashtags: "#authenticteahouse, #recipeideas, #omelette, #easyrecipes"
-  - username: "naomineo_"
+    hashtags: "#ad"
+  - username: "peroro_"
     fullname: >-
-      Naomi Neo 梁文珊
+      ⋆·˚ ༘ * Persie Y  ੈ✩‧₊˚
     bio: >-
-      @nnchantedofficial @nnpower.co_
+      ♡ Lifestyle, Health,Motherhood,Food,Beauty,Fashion ҉ therealpersie@gmail.com ＊*✩˚ interior designer ✩ boy mum @bbbhung_ ☽ SG ˚｡⋆
     location: "Singapore"
-    followers: 688137
-    engagement: 573
-    commentsToLikes: 0.123407
-    id: ck1348l6av90j0i193ojublmf
-    verified: true
-    hashtags: "#dwsingapore, #dwinsg, #danielwellington, #popmart"
+    followers: 19155
+    engagement: 441
+    commentsToLikes: 0.072755
+    id: clm70aj3igdys0j08urosqknx
+    verified: false
+    hashtags: "#newborn, #thingstodo, #baby, #sp"
+  - username: "jessluvzs"
+    fullname: >-
+      𝒥𝑒𝓈𝓈𝒾𝒸𝒶 𝐿𝑒𝑒
+    bio: >-
+      SG Lifestyle | Food | Fashion | Travel ✈️🇹🇭🇹🇷🇨🇳 💜YouTrip Ambassador <JESSL5> 💗Bioderma Creator 💙#joashloon #jonasloon Skaterboys
+    location: "Singapore"
+    followers: 11350
+    engagement: 587
+    commentsToLikes: 0.229463
+    id: clm70ak0kgeu50j08pov34h6m
+    verified: false
+    hashtags: "#whati8todaysg, #sgfood, #jessicaloon, #sglifestyle"
+  - username: "vensroom"
+    fullname: >-
+      ven 🐥
+    bio: >-
+      i pet cats 🫳🏼🐈✨ on patreon & twitch shop OPEN
+    location: "Singapore"
+    followers: 84273
+    engagement: 465
+    commentsToLikes: 0.010033
+    id: cl2zr7fx1x2qk0i23gr732st1
+    verified: false
+    hashtags: "#vroomies"
 ---

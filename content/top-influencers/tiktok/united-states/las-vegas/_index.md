@@ -1,24 +1,24 @@
 ---
-title: Top 10 TikTok Influencers In Las Vegas In 2023
+title: Top 10 TikTok Influencers In Las Vegas In 2024
 description: >-
-  Find top TikTok influencers in Las Vegas in 2023. Most popular hashtags: #duet #fyp #greenscreen #lasvegas.
+  Find top TikTok influencers in Las Vegas in 2024. Most popular hashtags: #duet #greenscreen #fyp #lasvegas.
 platform: TikTok
-hits: 615
-text_top: Analyze the most popular TikTok accounts on inBeat.
-text_bottom: inBeat has 615 TikTok influencers like this in Las Vegas, United States for you to contact.
+hits: 621
+text_top: Analyze the top-rated TikTok influencers on inBeat.
+text_bottom: inBeat has 621 TikTok influencers like this in Las Vegas, United States for you to connect with.
 profiles:
   - username: "andrew.c08"
     fullname: >-
       Andrew.c08
     bio: >-
-      18 an entity 👁👄👁 Las Vegas My playlist on SoundCloud because I broke
+      18 an entity 👁👄👁 Las Vegas
     location: "United States"
-    followers: 7055
-    engagement: 2990
-    commentsToLikes: 0.128015
+    followers: 6949
+    engagement: 2165
+    commentsToLikes: 0.099783
     id: cka6obakler3f0i78l9otvr6h
     verified: false
-    hashtags: "#xyzbca, #fyp, #imbored, #oldtiktok"
+    hashtags: "#imbored, #fyp, #jokes, #joke"
   - username: "caseyrosenberg"
     fullname: >-
       casey rosenberg
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.042067
     id: ckd6etlmk6h0j0j23upn4ne4n
     verified: true
-    hashtags: "#psychology, #foodtiktok, #cuisine, #tiktokpartner"
+    hashtags: "#learnontiktok, #psychology, #cuisine, #food"
   - username: "whiskeytango85"
     fullname: >-
       Laura
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.153064
     id: ckae7qagpi9k40i784wxfi36c
     verified: false
-    hashtags: "#stitch, #greenscreen, #lasvegas, #duet"
+    hashtags: "#military, #foryoupage, #stitch, #greenscreenvideo"
   - username: "rolitacouture"
     fullname: >-
       Rolita Couture
@@ -66,19 +66,19 @@ profiles:
     commentsToLikes: 0.115823
     id: ck8hpa3dcykuo0j780dz3p4u8
     verified: false
-    hashtags: "#ifeelweightless, #millionactsoflove, #refundglowup, #twospirit"
+    hashtags: "#refundglowup, #afroindigenous, #duet, #yfwolfnation"
   - username: "kanipark"
     fullname: >-
       Connie
     bio: >-
       Mom of 2 👦🏻👧🏻 Lots of Crafting Things to do in Las Vegas & ranDUMBness 😜
     location: "United States"
-    followers: 22800
-    engagement: 1374
-    commentsToLikes: 0.109171
+    followers: 30400
+    engagement: 1216
+    commentsToLikes: 0.132776
     id: ckbkrqpanmgpa0j23r846ezob
     verified: false
-    hashtags: "#lunarnewyear, #happylunarnewyear, #chinesesuperstition, #chinesetradition"
+    hashtags: "#lasvegastiktok, #lasvegas, #learningontiktok, #vegaslocal"
   - username: "kingqueengaming"
     fullname: >-
       QueenTrishy
@@ -126,5 +126,5 @@ profiles:
     commentsToLikes: 0.078486
     id: ck9skq8uia0s30j78m0k9koyu
     verified: false
-    hashtags: "#spideydad3, #duet, #makeitmagical, #happyholidays"
+    hashtags: "#spideydad3, #happyholidays, #duet, #besties"
 ---

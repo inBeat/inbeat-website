@@ -1,11 +1,11 @@
 ---
-title: Top 10 TikTok Influencers In Ukraine In 2023
+title: Top 10 TikTok Influencers In Ukraine In 2024
 description: >-
-  Find top TikTok influencers in Ukraine in 2023. Most popular hashtags: #fyp #ukraine #meme.
+  Find top TikTok influencers in Ukraine in 2024. Most popular hashtags: #ukraine #fyp #kyiv.
 platform: TikTok
 hits: 779
-text_top: Discover the most popular TikTok accounts on inBeat.
-text_bottom: Our database has 779 TikTok influencers like this in Ukraine for you to collaborate.
+text_top: Identify the best TikTok profiles on inBeat.
+text_bottom: Our search engine holds 779 TikTok influencers like this in Ukraine for you to pitch.
 profiles:
   - username: "lisjart"
     fullname: >-

@@ -1,24 +1,36 @@
 ---
-title: Top 10 Instagram Influencers In Durban In 2023
+title: Top 10 Instagram Influencers In Durban In 2024
 description: >-
-  Find top Instagram influencers in Durban in 2023. Most popular hashtags: #durbansouthafrica #durban #southafricanfashion.
+  Find top Instagram influencers in Durban in 2024. Most popular hashtags: #durban #instagood #african.
 platform: Instagram
-hits: 35
-text_top: Analyze the most popular Instagram influencers on inBeat.
-text_bottom: Our search engine aggregates 35 Instagram influencers like this in Durban, South Africa for you to contact.
+hits: 45
+text_top: Discover the most popular Instagram influencers on inBeat.
+text_bottom: inBeat aggregates 45 Instagram influencers like this in Durban, South Africa for you to contact.
 profiles:
   - username: "txshriq"
     fullname: >-
-      tashriq 🧿
+      tashriq 🧿 fashion | styling | lifestyle
     bio: >-
-      he/him fashion student 18 | durban, south africa dm/email for promos/collabs
+      👨🏽‍🎓 fashion student @tashriq.sa 📩 txshriq@gmail.com 🌍 durban, south africa SHOP MY CLOSET ⬇️
     location: "South Africa"
-    followers: 7242
-    engagement: 3287
-    commentsToLikes: 0.201601
+    followers: 9772
+    engagement: 2390
+    commentsToLikes: 0.182737
     id: ckap8rm6spkdg0i78v6ljb65s
     verified: false
-    hashtags: "#lockdown, #18, #diwali2020, #explore"
+    hashtags: "#thefixdrip, #tfgrewards, #swipeandsave, #superbme"
+  - username: "amandajingela"
+    fullname: >-
+      Belinda
+    bio: >-
+      📍Durban | 🎓Environmentalist | Beauty Enthusiast | Brand Influencer | YouTube channel ⬇️
+    location: "South Africa"
+    followers: 202495
+    engagement: 116
+    commentsToLikes: 0.013406
+    id: ck14ik1lgfst40i19ze5nyz1l
+    verified: false
+    hashtags: "#lorealproza, #ceravepartner, #jimmychoo, #darkandlovelymaintenancerange"
   - username: "itszaraleahsmith"
     fullname: >-
       𝐙 𝐀 𝐑 𝐀  🦋⚡️🖤
@@ -43,18 +55,6 @@ profiles:
     id: ckf5mazsvt0dy0j23xlzias79
     verified: false
     hashtags: ""
-  - username: "treven_moodley"
-    fullname: >-
-      Your indian Boy 🏄🏽‍♂️  Durban
-    bio: >-
-      I am cool but global warming made me HOT 🥵 -Architect 🏄🏽‍♂️ Durban | Cape Town 📩 tmoodley103@gmail.com
-    location: "South Africa"
-    followers: 18800
-    engagement: 319
-    commentsToLikes: 0.035679
-    id: ck6u0k2klg5gz0j7150u2jdzy
-    verified: false
-    hashtags: "#durban, #umhlangarocks, #durbansouthafrica, #symphonyoftheseas"
   - username: "tanika_hoffman"
     fullname: >-
       Tanika Hoffman
@@ -91,18 +91,6 @@ profiles:
     id: ck5zu2r2e1km00i14450k4dm8
     verified: false
     hashtags: "#blackwomen, #potrait, #culture, #bantuknot"
-  - username: "shaaista_kathree"
-    fullname: >-
-      Shaa'ista Kathree
-    bio: >-
-      • Kale munching modest dresser • Inspiring and being inspired • Gateway Ambassador ‘19/‘20 • 💍 @pupu15 , 👦🏻👧🏻🐕🦛 • Durban, South Africa
-    location: "South Africa"
-    followers: 9576
-    engagement: 451
-    commentsToLikes: 0.032706
-    id: ck136ii0q6ncj0i19hotk0q93
-    verified: false
-    hashtags: "#futurelifebeautifood, #ad, #mygateway"
   - username: "the_foodpassionista"
     fullname: >-
       нαѕєєηα
@@ -127,4 +115,16 @@ profiles:
     id: ck8syix6akye60j7880vawr81
     verified: true
     hashtags: "#durbangen, #nelisiwesibiya, #ndlunkulu, #african"
+  - username: "lifeofyuvik"
+    fullname: >-
+      Yuveer Karunchund
+    bio: >-
+      CEO of @kuratedcollective & @kapturestudio 🚀 Published in Vogue, Harpers Bazaar, NatGeo & more. Creative Director & Photographer 📸 @yuvikphoto
+    location: "South Africa"
+    followers: 17758
+    engagement: 315
+    commentsToLikes: 0.024804
+    id: ckaoqm6uhjcag0i78zf6owfrw
+    verified: false
+    hashtags: "#yuvik, #wethebest, #djkhaled, #florida"
 ---

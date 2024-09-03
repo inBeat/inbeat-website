@@ -1,11 +1,11 @@
 ---
-title: Top 10 TikTok Influencers In South Africa In 2023
+title: Top 10 TikTok Influencers In South Africa In 2024
 description: >-
-  Find top TikTok influencers in South Africa in 2023. Most popular hashtags: #duet #fyp #greenscreen #southafrica.
+  Find top TikTok influencers in South Africa in 2024. Most popular hashtags: #duet #fyp #greenscreen #southafrica.
 platform: TikTok
 hits: 738
-text_top: See the top-rated TikTok profiles on inBeat.
-text_bottom: inBeat has 738 TikTok influencers like this in South Africa for you to connect with.
+text_top: Analyze the best TikTok profiles on inBeat.
+text_bottom: inBeat has 738 TikTok influencers like this in South Africa for you to pitch.
 profiles:
   - username: "lu_i_am"
     fullname: >-
@@ -126,7 +126,7 @@ profiles:
     commentsToLikes: 0.023511
     id: ck978grmd7wvg0j78yyqurpn3
     verified: true
-    hashtags: "#aesthetic, #photocrop, #vibes, #music"
+    hashtags: "#fy, #vibes, #pinterest, #colorcustomizer"
 cities:
   - name: Capetown
     link: /tiktok/south-africa/capetown

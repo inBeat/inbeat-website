@@ -1,11 +1,11 @@
 ---
-title: Top 10 Lifestyle TikTok Influencers In Spain In 2023
+title: Top 10 Lifestyle TikTok Influencers In Spain In 2024
 description: >-
-  Find top lifestyle TikTok influencers in Spain in 2023. Most popular hashtags: #lifestyle #fyp #espa #viral.
+  Find top lifestyle TikTok influencers in Spain in 2024. Most popular hashtags: #lifestyle #fyp #viral #espa.
 platform: TikTok
 hits: 26
-text_top: Discover the top-rated TikTok profiles on inBeat.
-text_bottom: Our search engine aggregates 26 TikTok influencers like this in Spain for you to connect with.
+text_top: See the most popular TikTok profiles on inBeat.
+text_bottom: inBeat aggregates 26 TikTok influencers like this in Spain for you to collaborate.
 profiles:
   - username: "annersite"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.010609
     id: ck904fvc3e8110j78ehh8w2o5
     verified: true
-    hashtags: "#tutorial, #makeupartist, #ad, #elinternadolascumbres"
+    hashtags: "#publi, #maquillaje, #elinternadolascumbres, #tutorial"
   - username: "paulamayool"
     fullname: >-
       Paula Mayol

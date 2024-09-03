@@ -1,11 +1,11 @@
 ---
-title: Top 10 Guitar TikTok Influencers In France In 2023
+title: Top 10 Guitar TikTok Influencers In France In 2024
 description: >-
-  Find top guitar TikTok influencers in France in 2023. Most popular hashtags: #guitare #pourtoi #fyp #guitar.
+  Find top guitar TikTok influencers in France in 2024. Most popular hashtags: #guitare #pourtoi #fyp #music.
 platform: TikTok
-hits: 39
-text_top: See the most popular TikTok influencers on inBeat.
-text_bottom: inBeat aggregates 39 TikTok influencers like this in France for you to connect with.
+hits: 38
+text_top: Discover the best TikTok influencers on inBeat.
+text_bottom: inBeat holds 38 TikTok influencers like this in France for you to collaborate.
 profiles:
   - username: "_kerya_cosplay_"
     fullname: >-
@@ -13,12 +13,12 @@ profiles:
     bio: >-
       cosplayer👆 Draw🖍️ guitar player 🎸 Love japan🇯🇵
     location: "France"
-    followers: 8179
-    engagement: 2960
-    commentsToLikes: 0.075252
+    followers: 8309
+    engagement: 2818
+    commentsToLikes: 0.070252
     id: ck9sl4qy4c2wi0j78j4y7jv5j
     verified: false
-    hashtags: "#erzascarlet, #erzascarlettcosplay, #duo, #fairytail"
+    hashtags: "#fairytail, #duo, #fairytailcosplay, #mangafan"
   - username: "bovvary"
     fullname: >-
       Bovvary
@@ -47,14 +47,14 @@ profiles:
     fullname: >-
       Smooth'n'Sour
     bio: >-
-      H e l l o , f r i e n d Ça va péter ⚡
+      𝑺 𝒎 𝒐 𝒐 𝒕 𝒉 '𝒩 ⵢ ꮻ ꮜ ʁ
     location: "France"
-    followers: 4316
-    engagement: 1533
-    commentsToLikes: 0.230174
+    followers: 4333
+    engagement: 1609
+    commentsToLikes: 0.210640
     id: ckd16pufcnqwc0j23tsfupiz1
     verified: false
-    hashtags: "#guitare, #duo, #fyp, #metal"
+    hashtags: "#duo, #smoothnsour, #music, #pourtoi"
   - username: "dylanlapassadeoff"
     fullname: >-
       Dylan Lapassade off
@@ -102,19 +102,19 @@ profiles:
     commentsToLikes: 0.012552
     id: ckbfbij033j4p0j2358k5ckxw
     verified: false
-    hashtags: "#drole, #pourtoi, #chill, #gf"
+    hashtags: "#trend, #girlfriend, #ete, #fun"
   - username: "saults_music"
     fullname: >-
       Saultsmusic 
     bio: >-
       📍London 🇫🇷 Pop band 📀 Listen here 👇🏻
     location: "France"
-    followers: 11700
-    engagement: 761
-    commentsToLikes: 0.080998
+    followers: 13400
+    engagement: 507
+    commentsToLikes: 0.088211
     id: ckavc0tmmjs4e0j23avlf393v
     verified: false
-    hashtags: "#fyp, #guitarsolo, #musician, #coversong"
+    hashtags: "#foryou, #humor, #fyp, #daychallenge"
   - username: "anthonybeymusic"
     fullname: >-
       AnthonyBeyMusic

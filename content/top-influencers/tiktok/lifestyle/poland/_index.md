@@ -1,11 +1,11 @@
 ---
-title: Top 10 Lifestyle TikTok Influencers In Poland In 2023
+title: Top 10 Lifestyle TikTok Influencers In Poland In 2024
 description: >-
-  Find top lifestyle TikTok influencers in Poland in 2023. Most popular hashtags: #dc #dlaciebie #foryou #foryoupage.
+  Find top lifestyle TikTok influencers in Poland in 2024. Most popular hashtags: #dc #dlaciebie #foryou #foryoupage.
 platform: TikTok
-hits: 20
-text_top: Discover the most popular TikTok accounts on inBeat.
-text_bottom: Our search engine holds 20 TikTok influencers like this in Poland for you to work with.
+hits: 19
+text_top: Analyze the top-rated TikTok influencers on inBeat.
+text_bottom: inBeat holds 19 TikTok influencers like this in Poland for you to pitch.
 profiles:
   - username: "gooldb3rry"
     fullname: >-
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.037516
     id: ck9npgx0qywqr0j78rh52bg3w
     verified: false
-    hashtags: "#autumn, #polishgirl, #vlog, #goodvibes"
+    hashtags: "#goodvibes, #vlog, #beautifulday, #autumn"
   - username: "sarastaniszek"
     fullname: >-
       Sara Solarek

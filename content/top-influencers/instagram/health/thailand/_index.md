@@ -1,12 +1,72 @@
 ---
-title: Top 10 Health Instagram Influencers In Thailand In 2023
+title: Top 10 Health Instagram Influencers In Thailand In 2024
 description: >-
-  Find top health Instagram influencers in Thailand in 2023. Most popular hashtags: #cleanfood #healthyfood #thaifood #healthy.
+  Find top health Instagram influencers in Thailand in 2024. Most popular hashtags: #healthylifestyle #healthyfood #cleanfood #breakfast.
 platform: Instagram
-hits: 64
-text_top: See the most popular Instagram accounts on inBeat.
-text_bottom: Our database holds 64 Instagram influencers like this in Thailand for you to pitch.
+hits: 73
+text_top: See the best Instagram influencers on inBeat.
+text_bottom: inBeat aggregates 73 Instagram influencers like this in Thailand for you to contact.
 profiles:
+  - username: "pimwa"
+    fullname: >-
+      Pimwa Ouilapan
+    bio: >-
+      Health, Lifestyle & Music 🐈🤍 For Work : pimwa.o@gmail.com K. Korn 0922540208 🎬✨ตะลุยร้านเนื้อตัวท็อปโตเกียว 2024 🥩✨
+    location: "Thailand"
+    followers: 88747
+    engagement: 403
+    commentsToLikes: 0.006505
+    id: ckap93crwqz7q0i782h3x2tlw
+    verified: false
+    hashtags: "#thisisforeveryone, #sasixoxonext, #maybelline127, #secondschallenge"
+  - username: "yoyossavadee"
+    fullname: >-
+      YOYO 👑
+    bio: >-
+      Health/Beauty Certified Personal trainer Certified Weight loss specialist @golden.hour88 @qlique_studio Full Ironman-70.3 📲 For work> DM
+    location: "Thailand"
+    followers: 603768
+    engagement: 211
+    commentsToLikes: 0.004659
+    id: ck5ztt2dl12n90i14ntakv3hj
+    verified: true
+    hashtags: "#trainhard, #cycling, #fitwithyo, #wakesurf"
+  - username: "healthh.me"
+    fullname: >-
+      #healthhme trying… ♡
+    bio: >-
+      ♡ I’m Mickie ♡ #healthhme ♡ Healthy ♡ Workout ♡ 163cm.|Start 67 kg | Now 53 kg |🔻14 kg ♡ DM for work ♡ พิกัดกด Bio 👇🏻
+    location: "Thailand"
+    followers: 93706
+    engagement: 202
+    commentsToLikes: 0.013054
+    id: ck14ig5rpf8hl0i19y66eicfi
+    verified: false
+    hashtags: "#gymmotivation, #backworkout, #healthhme, #thaifood"
+  - username: "jamaporn"
+    fullname: >-
+      Jamaporn Saengthong
+    bio: >-
+      🌈 Work:0855951949 Line : jah.ja 🥕Asc90|Cu ARTS74|CUBAND 🎤 Singer 🌸Asian cover🎈Entrepreneur 💖Flexible Diet 🇦🇺🇺🇸🇩🇪 Eat well,Stay healthy,Plant based🥗
+    location: "Thailand"
+    followers: 76460
+    engagement: 77
+    commentsToLikes: 0.021144
+    id: ck9wgar6bslfy0j78w5jnls8e
+    verified: false
+    hashtags: "#7dayshealthysocialchallenge, #dwinth, #danielwellington, #dwelevation"
+  - username: "healthydiarywithme"
+    fullname: >-
+      ms.self-love, hdwm ✨
+    bio: >-
+      👩🏻‍⚕️Physiotherapist 🌈Heathy(physical&mental health)diary ✨Self-improvement, Healthy Lifestyle 🤍@plamilland 💌for work: DM or click
+    location: "Thailand"
+    followers: 108868
+    engagement: 14
+    commentsToLikes: 0.021293
+    id: ck6u78urfk4u80j71j3hadb2i
+    verified: false
+    hashtags: "#asics, #gourmetmarketthailand, #asicsth, #themallgroup"
   - username: "emilysfooddiaryyy"
     fullname: >-
       
@@ -23,14 +83,14 @@ profiles:
     fullname: >-
       DaisyDiiva
     bio: >-
-      I'm DAY Owner : @wearevery.day Healthy Life Diary, Flexible Diet , Eat Well & Exercise, I Love Workout Thailand 🇹🇭
+      I'm DAY Healthy Life Diary, Flexible Diet , Eat Well & Exercise, I Love Workout TH🇹🇭 Owner : @heaven.flavor @wearevery.day
     location: "Thailand"
-    followers: 52405
-    engagement: 99
-    commentsToLikes: 0.112820
+    followers: 62003
+    engagement: 214
+    commentsToLikes: 0.055912
     id: ck5pv3e8pfxef0i11go96lpmt
     verified: false
-    hashtags: "#healthy, #eatclean, #fitness, #diet"
+    hashtags: "#healthyfood, #goodhealth, #fitmommyof2, #flexibledieting"
   - username: "on_lyy13"
     fullname: >-
       Gin Gub ON 🇹🇭 food lover
@@ -67,64 +127,4 @@ profiles:
     id: ckaov4dob2zwp0i78ccb36dgc
     verified: false
     hashtags: "#ueeliciouseating, #ueeliciouscuisine, #happyuee, #ueelicious"
-  - username: "candyhealthy"
-    fullname: >-
-      candyhealthy
-    bio: >-
-      ความสุขเกิดขึ้นได้ทุกวัน 💄🍰🐱🍻🍳📷 Healthy food | Easy cooking🌈🍓🌽🐣🍏🍇🍌🍊🌈 Workout💪💪 🚫ห้ามนำรูปไปใช้โดยไม่ได้รับอนุญาตนะคะ ยกเว้นเจ้าของผลิตภัณฑ์ค่ะ❌❌
-    location: "Thailand"
-    followers: 68198
-    engagement: 128
-    commentsToLikes: 0.087540
-    id: ck0txojdyjwca0i19b9op92d1
-    verified: false
-    hashtags: "#snack, #dinner, #fitterfoodth, #thaifood"
-  - username: "pang.edener"
-    fullname: >-
-      Pang HealthyRoutine
-    bio: >-
-      God’s favorite❣️ 🍎 Founder of @edenerjuice Organic ColdpressedJuice & Almond milk 💕 Essential Oil 📚 Integrative Health Coach IIN New Video👇🏻
-    location: "Thailand"
-    followers: 33733
-    engagement: 82
-    commentsToLikes: 0.038938
-    id: ck5zkbfezj64g0i14gtq5brqw
-    verified: false
-    hashtags: "#youngliving, #panghealthyroutine, #phuketthailand, #vegan"
-  - username: "pansakul_pb"
-    fullname: >-
-      Pansakul_PB
-    bio: >-
-      🏠Chiang Mai 🇹🇭Thailand 🧏🏻‍♀️อายุ38ปี/โสด 🌱ดูแลสุขภาพ/ควบคุมน้ำหนัก 🌱เลือกทานอาหาร 🌱Healthy 🌱คลีนสายกลาง 📌จากน้ำหนัก68 📌ตอนนี้45 📌สูง150
-    location: "Thailand"
-    followers: 42882
-    engagement: 82
-    commentsToLikes: 0.024580
-    id: ck0txojufjwfx0i19deeens7j
-    verified: false
-    hashtags: "#thaifood, #diet, #breakfast, #cleanfood"
-  - username: "healthh.me"
-    fullname: >-
-      мɪcкɪᴇ's ʜᴇɑʟтʜу ɒɪɑʀу
-    bio: >-
-      ⓛ ʜᴇɑʟтʜу ⓞ cʟᴇɑɴғooɒ ⓥ woʀкoυт ⓔ ʟɪғᴇsтуʟᴇs ♡ sтɑʀ 01.01.19 |мɑу 1989 ♡ 163cм |sтɑʀт 67 кɢ |ɴᴏw 57 кɢ |🔻10 кɢ ♡ тʜx ғoʀ ғoʟʟow мᴇ ♡ #healthhme ʕ•ᴥ•ʔ
-    location: "Thailand"
-    followers: 37963
-    engagement: 151
-    commentsToLikes: 0.014346
-    id: ck14ig5rpf8hl0i19y66eicfi
-    verified: false
-    hashtags: "#healthyfood, #health, #cleanfood, #thaifood"
-  - username: "healthydiarywithme"
-    fullname: >-
-      Pla, hdwm ✨
-    bio: >-
-      👩🏻‍⚕️Physiotherapist #ถามมาปลาตอบ 🌈Heathy Tips for HAPPY Lifestyle 📲Work:dm, line:Placatorys 👩🏻‍💻FB,IG,YT: healthydiarywithme ⬇️30days No sugar
-    location: "Thailand"
-    followers: 103475
-    engagement: 111
-    commentsToLikes: 0.010308
-    id: ck6u78urfk4u80j71j3hadb2i
-    verified: false
-    hashtags: "#healthy, #hdwmworkout, #tips, #morethanpureflavor"
 ---

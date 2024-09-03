@@ -1,36 +1,36 @@
 ---
-title: Top 10 Boxers Instagram Influencers In Turkey In 2023
+title: Top 10 Boxers Instagram Influencers In Turkey In 2024
 description: >-
-  Find top boxers Instagram influencers in Turkey in 2023. Most popular hashtags: #boxer #follow #mastiff #bulldog.
+  Find top boxers Instagram influencers in Turkey in 2024. Most popular hashtags: #boxer #bullterrier #kangal #staffy.
 platform: Instagram
-hits: 14
-text_top: Discover the top-rated Instagram influencers on inBeat.
-text_bottom: Our platform aggregates 14 Instagram influencers like this in Turkey for you to contact.
+hits: 12
+text_top: Analyze the best Instagram profiles on inBeat.
+text_bottom: Our platform aggregates 12 Instagram influencers like this in Turkey for you to collaborate.
 profiles:
+  - username: "alierendemirezen"
+    fullname: >-
+      Ali Eren Demirezen
+    bio: >-
+      🇹🇷Heavyweight Boxer 🏫Balıkesir University
+    location: "Turkey"
+    followers: 63945
+    engagement: 357
+    commentsToLikes: 0.034527
+    id: ck6txg042xmdk0j71hykf9b4q
+    verified: true
+    hashtags: ""
   - username: "denizkozig01"
     fullname: >-
       Deniz Közig️️️️️️️
     bio: >-
       Deniz “ADANALI” Közig ▪️Athlete 🇹🇷 / 🇳🇱 ▪️Professional Boxer 6-0-0 (6 KO’s) ▪️#AdanaDemirSpor 🔵⚫️ ▪️ Manager @ilkerfurat
     location: "Turkey"
-    followers: 75736
-    engagement: 249
-    commentsToLikes: 0.019957
+    followers: 129181
+    engagement: 241
+    commentsToLikes: 0.013956
     id: ckaoxukdoethi0i78t6hhw5kg
     verified: false
-    hashtags: "#adanaboks, #adanali, #hay, #adanaprofboks"
-  - username: "emrecukur"
-    fullname: >-
-      Emre Cukur
-    bio: >-
-      ➸ Professional Boxer ➸ Personal Trainer ➸ munich📍 ➸ istanbul📍 ➸ emre.cukur@lionssportpromotion.de
-    location: "Turkey"
-    followers: 38232
-    engagement: 383
-    commentsToLikes: 0.012692
-    id: ck6txg3cyxmz80j711s09pnuw
-    verified: true
-    hashtags: "#repost, #art, #family, #photo"
+    hashtags: "#adanademirspor, #boxing, #adanaprofboks, #adanaboks"
   - username: "nikostzotzos"
     fullname: >-
       Nikos Tzotzos 🇬🇷
@@ -103,28 +103,28 @@ profiles:
     id: ck0u7i9nj4t2g0i19vh4d33vt
     verified: false
     hashtags: "#browsonpoint, #makeupaddict, #makeuponfleek, #makeupobsessed"
-  - username: "cobraperviz"
-    fullname: >-
-      Parviz Abdullayev
-    bio: >-
-      🇦🇿 Kickboxer 🏆 6 Times World Champion 🇹🇷 Survivor Turkey 2020 Menajer: +905312748901 @manager.com.tr Kickboxer trainer için (DM)
-    location: "Turkey"
-    followers: 311872
-    engagement: 580
-    commentsToLikes: 0.010691
-    id: ck8t2agl6yqlk0j78zh36ozoo
-    verified: false
-    hashtags: "#istanbul, #karabakhisazerbaijan, #baku, #cobraperviz"
   - username: "radmehrbrothers"
     fullname: >-
-      Mobin_mohamad
+      Radmehrbrothers official
     bio: >-
-      🔱 Efsaneikizler .📍🇹🇷 Ankara 🔶Member of Muay Thai National Team 2015 🔶Muay Thai 2016 Champion 🔶Kick Box 2017 Champion
+      💣Personal training🥊 .📍🇹🇷 İstanbul 🔰 trainer 🔰 online coaching 🔰 lose weight gain weight 🔰 fitness,kickboxing,muay thai 🥈wako europa cup champion
     location: "Turkey"
-    followers: 37072
-    engagement: 580
-    commentsToLikes: 0.141342
+    followers: 51643
+    engagement: 261
+    commentsToLikes: 0.039943
     id: ck1399rmkk8at0i19eybkxyr1
     verified: false
-    hashtags: "#survivor2021, #acunmedya, #strong, #tv8"
+    hashtags: "#kingradmehrbrothers, #fight, #spor, #crazy"
+  - username: "cemokamizah_"
+    fullname: >-
+      🌐Cemoka passion🇹🇷
+    bio: >-
+      ♣️Life steyle blogger♣️ 🌍 Dünyadan videolar🎥
+    location: "Turkey"
+    followers: 6324
+    engagement: 1928
+    commentsToLikes: 0.019081
+    id: ck8taxceutgp90j78xazxdtva
+    verified: false
+    hashtags: "#mercedes, #apple, #sanayi, #enginering"
 ---

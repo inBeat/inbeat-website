@@ -1,12 +1,36 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Izmir In 2023
+title: Top 10 Yoga Instagram Influencers In Izmir In 2024
 description: >-
-  Find top yoga Instagram influencers in Izmir in 2023. Most popular hashtags: #izmir #istanbul #turkey #yoga.
+  Find top yoga Instagram influencers in Izmir in 2024. Most popular hashtags: #izmir #naturephotography #yoga #istanbul.
 platform: Instagram
-hits: 10
-text_top: Analyze the top-rated Instagram profiles on inBeat.
-text_bottom: Our platform has 10 Instagram influencers like this in Izmir, Turkey for you to connect with.
+hits: 14
+text_top: Discover the top-rated Instagram accounts on inBeat.
+text_bottom: Our database aggregates 14 Instagram influencers like this in Izmir, Turkey for you to collaborate.
 profiles:
+  - username: "betulkarakus"
+    fullname: >-
+      Uzm. Dyt. Betül Karakuş Ateş
+    bio: >-
+      🥕Uzman Diyetisyen 📕 Yeni Nesil Diyet 🌱Sürdürülebilir, Sağlıklı Beslenme ve Yaşam 🌿Bitki bazlı, gezegen dostu tarifler 📍İZMİR #gezegenibesle
+    location: "Turkey"
+    followers: 43963
+    engagement: 128
+    commentsToLikes: 0.074029
+    id: ck15pacd3wvuo0i19m7ymbwzz
+    verified: false
+    hashtags: "#yeninesildiyet, #reklam, #newyork, #izkitap"
+  - username: "doc.dr.bugracoskun"
+    fullname: >-
+      Doç.Dr. Buğra COŞKUN
+    bio: >-
+      Gebelik ve Kadın Sağlığı ve Tüp Bebek @bb.clinic.ankara ☎️: 0 (312) 577 88 88 📱: 0 (530) 566 36 11 📍 Koç İkiz Kuleleri B Blok No:29-32 Ankara
+    location: "Turkey"
+    followers: 78247
+    engagement: 192
+    commentsToLikes: 0.016189
+    id: ckap83h0pmnx20i78m54tk3uf
+    verified: false
+    hashtags: "#drbugracoskun, #livhospitalankara, #ankarado, #sezaryen"
   - username: "senolacan"
     fullname: >-
       Şenol Can
@@ -19,6 +43,30 @@ profiles:
     id: ck5zmck8zmbil0i141kqnxtjl
     verified: false
     hashtags: "#manzarafotog, #turkey, #biga, #naturephotography"
+  - username: "duygusirkinti"
+    fullname: >-
+      Duygu Sırkıntı
+    bio: >-
+      foodengineer 👩‍🔬 #traveler & #fashionlover 🌍✈👗👠💄👜 sociallatin & tango 💃& yoga 🧘‍♀️ &🏋‍♀️🏊🏻‍♀️🏃‍♀️🚴‍♀️🤸‍♀️ collaboration 👉🏻Dm İstanbul📍
+    location: "Turkey"
+    followers: 12303
+    engagement: 232
+    commentsToLikes: 0.074447
+    id: ckap6ntsdgomq0i78eai70fnp
+    verified: false
+    hashtags: "#microinfluencer, #photography, #influencer, #red"
+  - username: "pilates.hulyabkr"
+    fullname: >-
+      Hülya Bakir
+    bio: >-
+      ✨Kişiye özel egzersiz ❣️ONLİNE DERS İCİN 💌hulyabkr35@hotmail.com 📍İZMİR 🗣Ems Trainer 🗣Pilates Reformer 🗣Mat Pilates 🗣Hamile Pilates 🗣Hamile Yoga
+    location: "Turkey"
+    followers: 100808
+    engagement: 74
+    commentsToLikes: 0.208132
+    id: ckf5vc5cno3200j23gjxjaijf
+    verified: false
+    hashtags: "#egzersiz, #gununegzersizi, #evdespor, #kar"
   - username: "iremhpylmz"
     fullname: >-
       Op. Dr. İrem Hepyılmaz
@@ -35,26 +83,26 @@ profiles:
     fullname: >-
       Çiğdem Kuzucu
     bio: >-
-      BİLİMLE KALIN Türkçe Öğretmeni🇹🇷 YOGA 🧘🏻‍♀️ Gayem insanlğa faydalı,ülkesini,doğayı seven,bilimle uğraşan🧪üreten,çevreci🌳DÜRÜST insan yetiştirmek
+      BİLİMLE KALIN Türkçe Öğretmeni🇹🇷 Çevreci,YOGA 🧘🏻‍♀️ Gayem insanlğa faydalı,ülkesini seven,bilimle uğraşan🧪üreten,çevreci🌳DÜRÜST insan yetiştirmek
     location: "Turkey"
-    followers: 23225
-    engagement: 295
-    commentsToLikes: 0.018273
+    followers: 32402
+    engagement: 299
+    commentsToLikes: 0.018339
     id: ck5q1qooscaxe0i11bi1u49c1
     verified: false
-    hashtags: "#evdekalt, #gurme, #fantasticolours, #sport"
-  - username: "pinars0ylu"
+    hashtags: "#hayatakarken, #corona, #izmir, #covid"
+  - username: "mineyilmazbilek"
     fullname: >-
-      Pınar
+      Yılmazbilek Mine
     bio: >-
-      Kocaeli - İstanbul📍 Derin'in annesi👧🏻 Türkçe Öğretmeni🎓 Pilates - Fitness Eğitmeni 🌬 📩pinarsoylu@gmail.com Somnio ergo sum..〰
+      @nike Global NIKE Trainer @iyiyasa.app Ambassador Cosmo Energetica(Dr. Petrov Ekolü) ⚡️Master 🪄Magister 〰️ Chutta 🔥Zoroaster @kozmik_algi
     location: "Turkey"
-    followers: 30161
-    engagement: 452
-    commentsToLikes: 0.047462
-    id: ck9wfhzbqowah0j78mguj73sn
+    followers: 40937
+    engagement: 43
+    commentsToLikes: 0.012002
+    id: ck6u8r4sft6ot0j71f6j4ixmq
     verified: false
-    hashtags: "#throwback, #likeforlikes, #instalike, #tbt"
+    hashtags: "#smile, #sun, #workout, #summer"
   - username: "xphalitxp"
     fullname: >-
       Temizkan_halidd
@@ -79,52 +127,4 @@ profiles:
     id: ckapb6kejyr5h0i78v3qx8bvh
     verified: false
     hashtags: "#bikini, #yoga, #losangelesphotographer, #portrait"
-  - username: "yasammimariyiz"
-    fullname: >-
-      DENGELİ YAŞAM
-    bio: >-
-      @yasammimariyiz 👈♥️
-    location: "Turkey"
-    followers: 208631
-    engagement: 99
-    commentsToLikes: 0.019756
-    id: ck8t1kl21w4kw0j78o7vc3jtv
-    verified: false
-    hashtags: "#followme, #osho, #yas, #terapi"
-  - username: "gezgincift"
-    fullname: >-
-      Orkun Özkaya-Neslihan Özkaya
-    bio: >-
-      🇹🇷 Now: TR 🌎 Travel, through our eyes 📧 info@gezgincift.com 🎥 Youtube: gezgincift
-    location: "Turkey"
-    followers: 100870
-    engagement: 207
-    commentsToLikes: 0.016155
-    id: ck6ue71hjp6si0j71x5ae8jtc
-    verified: false
-    hashtags: "#tatil, #thailand, #karadeniz, #yaz"
-  - username: "fitixm"
-    fullname: >-
-      ❗️Sağlıklı Yaşa FİT Kal❗️
-    bio: >-
-      🌿 Sağlıklıbeslenme ve spor günlüğüm 🌿 Fittarifler ve Fittabaklar 💫#fitixm Daha az ye,daha çok su iç daha çok hareket et!
-    location: "Turkey"
-    followers: 14646
-    engagement: 545
-    commentsToLikes: 0.107329
-    id: ck8t6nrrxe8la0j780gdobyba
-    verified: false
-    hashtags: "#healthyfood, #nefisyemektarifleri, #antrenman, #evdesporyap"
-  - username: "eraykilic"
-    fullname: >-
-      Eray Kılıç🍴Yemek & Gastronomi
-    bio: >-
-      😋 Lokanta ~ Restoran “YE-RİM” 🇹🇷 Yeni Lezzetler İçin “SEYYAH” 🍽 Gastro “PR” | “JÜRİ” | “YAZAR”
-    location: "Turkey"
-    followers: 220024
-    engagement: 91
-    commentsToLikes: 0.022659
-    id: ck0vzprmhaajg0i19u3648hjf
-    verified: false
-    hashtags: "#tarif, #gastronomia, #restoran, #lezzetli"
 ---

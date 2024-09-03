@@ -1,11 +1,11 @@
 ---
-title: Top 10 Cyclists Instagram Influencers In Japan In 2023
+title: Top 10 Cyclists Instagram Influencers In Japan In 2024
 description: >-
-  Find top cyclists Instagram influencers in Japan in 2023. Most popular hashtags: #cyclist #roadbike #cyclinglife #cycling.
+  Find top cyclists Instagram influencers in Japan in 2024. Most popular hashtags: #cyclist #roadbike #cycling #fashion.
 platform: Instagram
 hits: 10
-text_top: Discover the best Instagram influencers on inBeat.
-text_bottom: Our search engine has 10 Instagram influencers like this in Japan for you to work with.
+text_top: See the most popular Instagram accounts on inBeat.
+text_bottom: Our database has 10 Instagram influencers like this in Japan for you to pitch.
 profiles:
   - username: "bennetcoblinerphotography"
     fullname: >-
@@ -91,6 +91,18 @@ profiles:
     id: ck8t4q1xa7o650j78xkdfm5bs
     verified: false
     hashtags: "#bikelife, #happy, #like, #training"
+  - username: "tripmoment"
+    fullname: >-
+      TripMoment 時刻旅行
+    bio: >-
+      休假日的出遊靈感✨一起時刻旅行 📍標註 @tripmoment與我們分享 #時刻景點 👉快速查 #時刻走走 #時刻美食 #時刻攻略 #一按就出發 👇更多旅行攻略、資訊、 影片
+    location: "Japan"
+    followers: 87727
+    engagement: 35
+    commentsToLikes: 0.004124
+    id: ck14laxqgtqhe0i19bjk627bk
+    verified: false
+    hashtags: "#popdaily, #exploretaiwan, #landscape, #likefourlike"
   - username: "amuaiamu"
     fullname: >-
       AMU
@@ -115,16 +127,4 @@ profiles:
     id: ck6tpjl10k8bi0j71vwmqabnh
     verified: false
     hashtags: "#alpineclimber, #mountainlovers, #mountaineering, #snowmountain"
-  - username: "nhkworldjapan"
-    fullname: >-
-      NHK WORLD-JAPAN
-    bio: >-
-      Follow us for the latest from Japan! Official account of NHK, Japan’s public broadcaster. #nhkworldjapan Terms: www3.nhk.or.jp/nhkworld/en/terms
-    location: "Japan"
-    followers: 145074
-    engagement: 155
-    commentsToLikes: 0.020476
-    id: ck5qatz4ii8mr0i11wtwk7vgx
-    verified: true
-    hashtags: "#socialdistancing, #discoverjapan, #oishii, #soapandwater"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Atlanta In 2023
+title: Top 10 Lifestyle Instagram Influencers In Atlanta In 2024
 description: >-
-  Find top lifestyle Instagram influencers in Atlanta in 2023. Most popular hashtags: #atlanta #lifestyle #model.
+  Find top lifestyle Instagram influencers in Atlanta in 2024. Most popular hashtags: #atlanta #lifestyle #motivation.
 platform: Instagram
-hits: 271
-text_top: Analyze the best Instagram accounts on inBeat.
-text_bottom: inBeat holds 271 Instagram influencers like this in Atlanta, United States for you to connect with.
+hits: 376
+text_top: Discover the top-rated Instagram profiles on inBeat.
+text_bottom: Our platform holds 376 Instagram influencers like this in Atlanta, United States for you to work with.
 profiles:
   - username: "chrisandregtravel"
     fullname: >-
@@ -30,43 +30,43 @@ profiles:
     commentsToLikes: 0.009708
     id: ck0ua7h36bnzw0i19woeqezvt
     verified: false
-    hashtags: "#teamipartner, #splitendmender, #ad, #reel"
-  - username: "jyoungmdk"
+    hashtags: "#reel, #bussit, #asiampartner, #curlcolor"
+  - username: "mydear_ariane"
     fullname: >-
-      🆈🅾🆄🅽🅶
+      Ariane Ellsberry, REALTOR®️
     bio: >-
-      𝐁𝐨𝐨𝐤𝐢𝐧𝐠𝐬@𝐉𝐲𝐨𝐮𝐧𝐠𝐌𝐃𝐊.𝐜𝐨𝐦 50 🆂🅾🅽🅶🆂 50 🆆🅴🅴🅺🆂 3 🅰🅻🅱🆄🅼🆂 AQUA | BLACK | WHITE “The App That Stole Christmas” On Netflix @beforeigohollywood
+      Multi-Million Dollar Atlanta Realtor Specializing in Atlanta's Luxury Real Estate #TheArianeEllsberryTeam ✨ Mommy to Jackson🤍 Wife to @murseellsberry💍
     location: "United States"
-    followers: 407096
-    engagement: 396
-    commentsToLikes: 0.016388
-    id: ck15tq0j2jbtz0i192e2lx2ck
-    verified: true
-    hashtags: "#repost, #3albums3months, #lasvegas, #happyvalentinesday"
-  - username: "austin.d.samuel"
-    fullname: >-
-      Austin D.H Samuel
-    bio: >-
-      A wise man once said nothing🤫#moveinsilence Gods Will🏗🏚
-    location: "United States"
-    followers: 3006
-    engagement: 1730
-    commentsToLikes: 0.071109
-    id: ck6u45k8t1tc00j71e01uz3cf
+    followers: 73460
+    engagement: 463
+    commentsToLikes: 0.033308
+    id: ck8t7k2e5h3n30j78gd0h7dtx
     verified: false
-    hashtags: "#columbia, #realestate, #hamiltonhomes, #morelife"
+    hashtags: "#realestate, #luxuryrealestate, #entrepreneur, #dreamjob"
+  - username: "taylormadegq"
+    fullname: >-
+      Teferi Taylor
+    bio: >-
+      Streetwear Fashion & Lifestyle 📍: Atlanta, GA 🎥: @HatClub ReCap Host 🧢: @HatClub Ambassador 🎙️: Host (@FitTalkFridays) 📸: Photographer (@Tektography)
+    location: "United States"
+    followers: 56043
+    engagement: 213
+    commentsToLikes: 0.047789
+    id: clfhg3ypjbvvn0j08qzz90qku
+    verified: false
+    hashtags: "#grwmreels, #mensstreetstyle, #hatclub, #hypebeaststyle"
   - username: "laurenlefevre"
     fullname: >-
-      Lauren Lefevre•Edit by Lauren
+      Lauren Lefevre
     bio: >-
-      👗👠💄🏠 Fashion, Clean Beauty, Home Decor & Lifestyle 📍Atlanta 🍑 👫 Mama of boy/girl twins 💻 Blog :: www.editbylauren.com SHOP MY OUTFITS ⬇️
+      👗💄🏠 Fashion, Clean Beauty, Home & Lifestyle 📍Atlanta 🍑 👫 Mom of boy/girl twins 💻 Blog : editbylauren.com 👛 Shop : laurenlily.com SHOP MY OUTFITS ⬇️
     location: "United States"
-    followers: 117500
-    engagement: 56
-    commentsToLikes: 0.058784
+    followers: 113439
+    engagement: 57
+    commentsToLikes: 0.138534
     id: ck15ruwtd9u1w0i19ublnncme
     verified: false
-    hashtags: "#spring2021, #atlantaopen, #ad, #nsale"
+    hashtags: "#undeniablydowntownduluth, #elguapopartner, #discovermaurices, #feelgooddenim"
   - username: "mcmbrownfield"
     fullname: >-
       Mary Catherine Brownfield
@@ -90,19 +90,19 @@ profiles:
     commentsToLikes: 0.131510
     id: ck8tdrj8p4iia0j78oalebhat
     verified: false
-    hashtags: "#atlantamodel, #lifestyleblogger, #atlantafashion, #fashionweek"
-  - username: "fashionado"
+    hashtags: "#atlantamodels, #magazine, #designer, #runwaymodel"
+  - username: "emily_plajer"
     fullname: >-
-      Fashionado
+      Emily Plajer 🦋
     bio: >-
-      Host & Anchor of the @art_institutes AILIVE and creator of FASHIONADO.net -a fashion & lifestyle brand. Founder: DOTC Foundation @doggiesonthecatwalk
+      IFBB Bikini Pro ⭕️lympian 🏠 @welcometoourboathouse 🛥️ @tidewell.co 🪦 @_deaddadsociety 💪🏼 @pfc_coaching Athlete & Trainer #pewpewlife
     location: "United States"
-    followers: 8189
-    engagement: 192
-    commentsToLikes: 0.026186
-    id: ck5c55fmu2ro20i11x8gpfuaj
+    followers: 26106
+    engagement: 43
+    commentsToLikes: 0.015194
+    id: ck6u83ugup9vl0j710ja8omkt
     verified: false
-    hashtags: "#nyfw, #linkinbio, #model, #artinstitute"
+    hashtags: "#evlsports, #ifbbbikini, #tallgirlgang, #girlswithmuscle"
   - username: "malaysiafari"
     fullname: >-
       M A L A Y S I A
@@ -115,16 +115,16 @@ profiles:
     id: ck5q6ez2hx4fn0i118fkn8lad
     verified: false
     hashtags: "#malaysiafari, #noactright, #21andhavingfun, #blackouttuesday"
-  - username: "candyrichards__"
+  - username: "cybertronicband"
     fullname: >-
-      Candy Richards
+      The Cybertronic Spree
     bio: >-
-      🎬 i act & sometimes i act a fool😜 VH1 Reality TV Veteran 📺 📍 NC 🚘 ATL 🇱🇷 Liberian Girl CEO: @crichcollection_ ❤️ WSSU Alum • MBA🎓 MGNT: @ludiamonds
+      Your rockstars in disguise. We perform whatever we want! On tour this fall: www.thecybertronicspree.com
     location: "United States"
-    followers: 20488
-    engagement: 257
-    commentsToLikes: 0.091752
-    id: ck5hrkhwkv0mv0i11infjvvw6
+    followers: 17984
+    engagement: 716
+    commentsToLikes: 0.023250
+    id: ck6tu1k33ds0h0j7180sjo5gp
     verified: false
-    hashtags: "#explorepage, #contentcreator, #model, #atlphotography"
+    hashtags: "#mixology, #friday, #rock, #80s"
 ---

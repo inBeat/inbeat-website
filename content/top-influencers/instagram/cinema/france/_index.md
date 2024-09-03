@@ -1,130 +1,130 @@
 ---
-title: Top 10 Cinema Instagram Influencers In France In 2023
+title: Top 10 Cinema Instagram Influencers In France In 2024
 description: >-
-  Find top cinema Instagram influencers in France in 2023. Most popular hashtags: #photography #love #fashion.
+  Find top cinema Instagram influencers in France in 2024. Most popular hashtags: #paris #feminineenergy #mcu.
 platform: Instagram
-hits: 537
-text_top: Analyze the top-rated Instagram profiles on inBeat.
-text_bottom: Our search engine aggregates 537 Instagram influencers like this in France for you to pitch.
+hits: 590
+text_top: Identify the best Instagram profiles on inBeat.
+text_bottom: Our platform has 590 Instagram influencers like this in France for you to connect with.
 profiles:
-  - username: "gossiproomoff"
+  - username: "gabrielrippe"
     fullname: >-
-      Gossip Room
+      𝖌𝖆𝖇𝖗𝖎𝖊𝖑 𝖗𝖎𝖕𝖕𝖊
     bio: >-
-      Bienvenue 👋 Twitter et TikTok : GossipRoomOff ✉️ : gossiproom@marmeladz.com #news #travel #food #tv #cinema #media
+      De l’or dans les mains / ambassadeur @samsungfrance ✨️ Made in France ✨️ Self tattoo / Vlog / Cinematic / Outfits ✉️ gabriel@soeuretteproductions.com
     location: "France"
-    followers: 2229913
-    engagement: 392
-    commentsToLikes: 0.005735
-    id: ck15puxoxzr560i19a5btshve
+    followers: 92608
+    engagement: 522
+    commentsToLikes: 0.008344
+    id: ck15txzt1kgh30i19yrk78qn3
+    verified: false
+    hashtags: "#skatepark, #scootering, #sk8life, #tattooed"
+  - username: "roman_doduik"
+    fullname: >-
+      Roman Doduik
+    bio: >-
+      ✉️Contact Pro : roman@storyz.fr 📷 Impresario : Stéphane Cohen 🎬 Agent Cinéma : Beatrice Hall @agencevma Mon spectacle en tournée :
+    location: "France"
+    followers: 504776
+    engagement: 1104
+    commentsToLikes: 0.004398
+    id: ckaowil1i93ds0i78sosshy0g
+    verified: false
+    hashtags: "#dals, #enjoyitfromeurope, #collaborationcommerciale, #casting"
+  - username: "pierreniney"
+    fullname: >-
+      Pierre Niney
+    bio: >-
+      Edmond Dantes. ———————————— MONTECRISTO au CINÉMA ! 👇🎟️ TES Places ici 🎟️ 👇
+    location: "France"
+    followers: 1975707
+    engagement: 664
+    commentsToLikes: 0.007481
+    id: ck0vzr21sahk10i19jv89vxka
     verified: true
-    hashtags: "#picoftheday, #cinema, #videooftheday, #avengers"
+    hashtags: "#collaborationcommerciale, #paidpartnership, #montecristolefilm, #aexandredumas"
   - username: "tarekboudali"
     fullname: >-
       Tarek Boudali
     bio: >-
-      Agent cinéma : Adequat Agent image : @nextmodelsparis
+      Agent cinéma: Adequat
     location: "France"
-    followers: 690380
-    engagement: 1223
-    commentsToLikes: 0.017585
+    followers: 704573
+    engagement: 453
+    commentsToLikes: 0.011896
     id: ck0vw756tsey40i19gftf5qii
     verified: true
-    hashtags: "#30jours, #restonscheznous, #babysitting, #selfou"
-  - username: "marie_cornillon"
+    hashtags: "#25octobre, #tarekcruise, #lolfrance, #lolquiritsort"
+  - username: "sarahperles"
     fullname: >-
-      Marie Cornillon
+      Sarah Perles | سارة بيرليس 🧿
     bio: >-
-      🎬 Cinema | agent : Chantal Philippart @agence_aml 🎞 Social media | agent : Hector @prestige.agency 💌 Contact | marie.c@prestige-agency.fr
+      Actress who makes videos for fun 🎈 Agence Adequat A6 Cinema ✨
     location: "France"
-    followers: 191606
-    engagement: 420
-    commentsToLikes: 0.018355
-    id: ck0vzibqr98tz0i193zqept2w
-    verified: false
-    hashtags: ""
-  - username: "willy_rovelli_"
-    fullname: >-
-      Willy Rovelli
-    bio: >-
-      🎭|One-Man-Show 📺|Tv Host 📻|Radio Host 🎬|Comedien 💌|contact@willyrovelli.fr 🤪Theatre, cinéma, food, travel, lifestyle, positive attitude 🤪
-    location: "France"
-    followers: 37576
-    engagement: 492
-    commentsToLikes: 0.031917
-    id: ck5q6stryyp6l0i119e42dkvo
+    followers: 1007292
+    engagement: 777
+    commentsToLikes: 0.007723
+    id: ck14kez83p74p0i1957uwebvz
     verified: true
-    hashtags: "#fortboyard, #game, #summer, #saturday"
-  - username: "karlbernier"
+    hashtags: "#eyegotthepower, #fyp, #nature, #casablanca"
+  - username: "piomarmai"
     fullname: >-
-      Karl Artist Manager/Producer
+      pio marmaï
     bio: >-
-      Lively by an endless Artist(ic) soul. Manager of @barbara_stratford Official Ambassador for @modelmanagement Modeling/Music/Cinéma/Arts
+      Cinéma : Agence Zelig - Véronique Bouffard Presse / Image : @_matthieuderrien @agencecontact owner of @mrpicklesmotorcycles
     location: "France"
-    followers: 21780
-    engagement: 503
-    commentsToLikes: 0.035595
-    id: ckap4fee274z90i78gxc14yxm
-    verified: false
-    hashtags: "#model, #photography, #karlbernierpresents, #artistic"
-  - username: "bouchra_hraich"
-    fullname: >-
-      Bouchra hraich بشرى اهريش
-    bio: >-
-      Personnalité publique Actrice / théâtre, Cinéma et télé 🎬📺📽🎞🎥 Animatrice Tv 🎙 📧 bhraich@gmail.com
-    location: "France"
-    followers: 557839
-    engagement: 295
-    commentsToLikes: 0.016584
-    id: ckapabba9vetm0i78m4m1hp3w
+    followers: 134392
+    engagement: 530
+    commentsToLikes: 0.019702
+    id: ck5bwzir3mptl0i112kohsyz1
     verified: true
-    hashtags: ""
-  - username: "leilaboumedjane"
+    hashtags: "#dartagnan, #louisgarrel, #lestroismousquetaireslesfilms, #roshdyzem"
+  - username: "prettylittlefawn"
     fullname: >-
-      Leila Boumedjane
+      Courtney Halverson
     bio: >-
-      Actrice, scénariste, théâtre & cinéma 🎬 chant 🎼 Netflix: Mauvaises herbes 🎞
+      Actress + Blogger | NY “You’ll never regret romanticizing your life.” cinematic, romantic, & dreamy @maisonmiette | courtney@prettylittlefawn.com
     location: "France"
-    followers: 8001
-    engagement: 630
-    commentsToLikes: 0.071069
-    id: ck8tcq12f08pq0j7853algep8
+    followers: 450366
+    engagement: 388
+    commentsToLikes: 0.025899
+    id: ck0ttlrii39nx0i19htkv6vf1
+    verified: true
+    hashtags: "#parisianstyle, #feminineenergy, #romanticstyle, #darkacademia"
+  - username: "julienpestel"
+    fullname: >-
+      Julien Pestel
+    bio: >-
+      🎬 Acteur - Agence Adéquat Y’A PAS DE RÉSEAU en tournage SUPER PAPA le 7 août au cinéma DEUX ANGES en 2025 au cinéma Moitié de @creustel
+    location: "France"
+    followers: 38368
+    engagement: 350
+    commentsToLikes: 0.020934
+    id: ck5ca2dvocked0i11jtjgs986
     verified: false
-    hashtags: "#split, #jenosepasfairedeparalleleavecafidaturnerdepeurquellemetombedessus, #freeuyghur, #vivelaculture"
-  - username: "depontearnaud"
+    hashtags: "#trouville, #studio, #com, #marieannechazel"
+  - username: "cinebreakfr"
     fullname: >-
-      Arnaud de Ponte | blogger
+      CINÉ BREAK FR
     bio: >-
-      🎬 Cinema | Travel | Fashion 📩 depontearnaud@gmail.com 📍Paris
+      💾 Anciennement DISNEYFLIXFR 🗞️ Actualité de vos séries et films préférés 🎬 Disney, Netflix, Prime Video, Cinéma 📥 contact.cinebreakfr@gmail.com
     location: "France"
-    followers: 29406
+    followers: 244453
     engagement: 339
-    commentsToLikes: 0.078799
-    id: ck13ci3n80gj00i19ey6cjm1t
+    commentsToLikes: 0.002917
+    id: ck9wor7qc69el0j784kgzuc5m
     verified: false
-    hashtags: "#noel2020, #concours, #concoursinstagram, #jeuconcours"
-  - username: "khosrowart"
+    hashtags: "#netflix, #amazon, #marvel, #primevideo"
+  - username: "jeremyferrarioff"
     fullname: >-
-      👑 KHOSRO PHOTOGRAPHY
+      Jeremy Ferrari
     bio: >-
-      📸 Photographer & Graphic Designer 🎭 Art School of Broadcasting Cinema & Animation 🏡 Faculty of Art & Architecture 🛠 Industrial Designer 📬 DM For Work
+      "Anesthésie Générale", tournée et Accor Arena (Bercy) complets. Assistez à l'ultime représentation au cinéma le 10/03 à 17h en direct de Bercy.
     location: "France"
-    followers: 12241
-    engagement: 769
-    commentsToLikes: 0.035758
-    id: ck5zjpqupi0t70i14487e84xh
-    verified: false
-    hashtags: "#retouch, #tehrantimes, #vatani, #retouching"
-  - username: "khadim8657"
-    fullname: >-
-      Khadim Gaye
-    bio: >-
-      SENEGAL 🇸🇳🇸🇳/Dakar Khadim Gaye model Shooting/Défilé/Pub/Cinema Facebook / khadim gaye E-mail:Gkhadim440@gmail.com Whatshap +221///////
-    location: "France"
-    followers: 10427
-    engagement: 599
-    commentsToLikes: 0.039461
-    id: ck6txz0bk0oi90j71ihypp0h2
-    verified: false
-    hashtags: "#become, #fashion, #passion, #shoot"
+    followers: 402140
+    engagement: 312
+    commentsToLikes: 0.021842
+    id: ck5zvw86650uq0i14k0u68jzw
+    verified: true
+    hashtags: "#fullstanding, #anesthesiegenerale, #tourneedutrio, #jeremyferrariaucinema"
 ---

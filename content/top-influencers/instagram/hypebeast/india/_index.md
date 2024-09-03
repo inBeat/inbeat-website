@@ -1,24 +1,48 @@
 ---
-title: Top 10 Hypebeast Instagram Influencers In India In 2023
+title: Top 10 Hypebeast Instagram Influencers In India In 2024
 description: >-
-  Find top hypebeast Instagram influencers in India in 2023. Most popular hashtags: #hypebeast #photography #instagood #model.
+  Find top hypebeast Instagram influencers in India in 2024. Most popular hashtags: #hypebeast #instagood #photography #photooftheday.
 platform: Instagram
-hits: 55
+hits: 54
 text_top: See the most popular Instagram accounts on inBeat.
-text_bottom: inBeat has 55 Instagram influencers like this in India for you to collaborate.
+text_bottom: Our search engine aggregates 54 Instagram influencers like this in India for you to connect with.
 profiles:
-  - username: "karankhatriofficial"
+  - username: "lune_vanila"
     fullname: >-
-      Karan Khatri
+      Lune Vanila
     bio: >-
-      YouTube - New Video👇
+      🪷 लोकः समस्ताः सुखिनो भवन्तु 🪷 🌏Travel🔥Lifestyle ❄️Journal 📸 🌱Adding life to my time ⏳
     location: "India"
-    followers: 70960
-    engagement: 483
-    commentsToLikes: 0.029459
-    id: ck601wv2wgbo30i14lw9ixgiz
+    followers: 260837
+    engagement: 1334
+    commentsToLikes: 0.029114
+    id: ck0uc56j3g2260i19nyvdne93
     verified: false
-    hashtags: "#hsstyle, #sneakerhead, #nikedunk, #sneakersaddict"
+    hashtags: "#photooftheday, #art, #black, #love"
+  - username: "jerry____shaz"
+    fullname: >-
+      S A H L A S A D I K H
+    bio: >-
+      |fashion blogger | DM for paid collaborations | |Learning to love myself + others better🍸
+    location: "India"
+    followers: 134926
+    engagement: 3261
+    commentsToLikes: 0.008983
+    id: ckxz763lhdqwo0j23o2vchs5c
+    verified: false
+    hashtags: "#instagram, #reelsvideo, #insta, #fashionstyle"
+  - username: "ace_rege"
+    fullname: >-
+      Archit Rege
+    bio: >-
+      Director | Creator | Producer | DOP Work :@urbexindia @socialdonut.co As Seen on @viceindia | @mensxpofficial Ideas come at a Price. 📍 Bombay | India
+    location: "India"
+    followers: 14878
+    engagement: 268
+    commentsToLikes: 0.058787
+    id: ck5pzcjdj0az00i11wn7axibk
+    verified: false
+    hashtags: "#superkicksindia, #goprofusion, #vaporwave, #vaporwaveaesthetics"
   - username: "sidy.maurya"
     fullname: >-
       SIDY_MAURYA🖤
@@ -31,18 +55,6 @@ profiles:
     id: ck8t45sq05lvw0j78eimy78tt
     verified: false
     hashtags: "#kochi, #garrybruh, #travel, #likeforlikes"
-  - username: "mr_aashii"
-    fullname: >-
-       💥Mr محمد عاشق👽🍁آشي💫mraashii
-    bio: >-
-      αℓнαм∂υℓιℓℓα 💫 《ɪ VɪʙE DFʀɴT》 ▪ 🔞 follow on your own risk 😈 ▪《memes💯🎭》 ▪《വണ്ടി stuffᏕ🔩🛠》 ▪《DucY》🔥 @club_piston_headz ▪《ms8 》💥 ▪ᏕᏂᎧᏒᏖ ɴD ʜᏗᎮᎮᎩ😏 ▪💚KSA
-    location: "India"
-    followers: 14409
-    engagement: 824
-    commentsToLikes: 0.026015
-    id: ck9wgxok0vfgb0j78kiwh500a
-    verified: false
-    hashtags: "#kasargod, #ktmduke390, #bleachmyfilm, #lotsabraids"
   - username: "eshaangirri"
     fullname: >-
       E S H A A N  G I R R I
@@ -91,30 +103,6 @@ profiles:
     id: ck9wh86uxwpf10j78ly0xlbrr
     verified: false
     hashtags: "#postmoreportraits, #peoplecreatives, #bleachmyfilm, #artifvisuals"
-  - username: "iamprabhatchaudhary"
-    fullname: >-
-      Prabhat Chaudhary
-    bio: >-
-      • Actor | Men's Fashion influencer | lifestyle | Luxury • DM For promotion and collaboration 📩
-    location: "India"
-    followers: 355552
-    engagement: 286
-    commentsToLikes: 0.010117
-    id: ck14h3jg68ddm0i19lnir4lzx
-    verified: false
-    hashtags: "#menwithclassandstyle, #classyoutfit, #onelifebaby, #formalstyle"
-  - username: "happyboy._"
-    fullname: >-
-      J.E.F.F.R.E.Y  
-    bio: >-
-      📍🇨🇦 || MODEL || || OWNER || @happyboy_shop || FASHION LOVER || || DM FOR COLLABORATION ||
-    location: "India"
-    followers: 151441
-    engagement: 97
-    commentsToLikes: 0.062835
-    id: ck8t784gvfws90j78kzcntaus
-    verified: false
-    hashtags: "#nclgallery, #ootdmen, #pauseshots, #fitness"
   - username: "sreelekshmi_achu"
     fullname: >-
       sree🧚
@@ -127,4 +115,16 @@ profiles:
     id: ck8tc5u50ydz70j78sf1cswi2
     verified: false
     hashtags: "#artofvisuals, #photooftheday, #visualart, #keralagodsowncountry"
+  - username: "mohitbhardwajphotography"
+    fullname: >-
+      Mohit Bhardwaj
+    bio: >-
+      Wedding profile : @red_veds Celebrity Photographer| 📸 Paid Collaborations D R E A M E R|| B E L I E V E R||❣️
+    location: "India"
+    followers: 20349
+    engagement: 297
+    commentsToLikes: 0.024885
+    id: ck6u24c8rpmv90j71i2vkx49k
+    verified: false
+    hashtags: "#love, #glam, #photography, #destinationweddingphotographer"
 ---

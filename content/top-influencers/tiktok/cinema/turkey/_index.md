@@ -1,11 +1,11 @@
 ---
-title: Top 10 Cinema TikTok Influencers In Turkey In 2023
+title: Top 10 Cinema TikTok Influencers In Turkey In 2024
 description: >-
-  Find top cinema TikTok influencers in Turkey in 2023. Most popular hashtags: #ke #cinema4d #pubg #art.
+  Find top cinema TikTok influencers in Turkey in 2024. Most popular hashtags: #ke #cinema4d #pubg #fyp.
 platform: TikTok
 hits: 15
-text_top: Identify the top-rated TikTok influencers on inBeat.
-text_bottom: inBeat holds 15 TikTok influencers like this in Turkey for you to pitch.
+text_top: Analyze the most popular TikTok profiles on inBeat.
+text_bottom: Our platform has 15 TikTok influencers like this in Turkey for you to work with.
 profiles:
   - username: "viboisvicre"
     fullname: >-

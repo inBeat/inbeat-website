@@ -1,12 +1,24 @@
 ---
-title: Top 10 Soccer-Players Instagram Influencers In Italy In 2023
+title: Top 10 Soccer-Players Instagram Influencers In Italy In 2024
 description: >-
-  Find top soccer-players Instagram influencers in Italy in 2023. Most popular hashtags: #soccer #soccerlife #football #soccerplayer.
+  Find top soccer-players Instagram influencers in Italy in 2024. Most popular hashtags: #soccer #football #training #sport.
 platform: Instagram
-hits: 24
-text_top: Identify the best Instagram accounts on inBeat.
-text_bottom: inBeat aggregates 24 Instagram influencers like this in Italy for you to pitch.
+hits: 22
+text_top: See the best Instagram influencers on inBeat.
+text_bottom: Our search engine has 22 Instagram influencers like this in Italy for you to collaborate.
 profiles:
+  - username: "fede_greg"
+    fullname: >-
+      Federico Gregucci
+    bio: >-
+      📍Milan🇮🇹 Miami🇺🇸 TikTok: fede_greg09 Juventus Academy Miami‘s Personal soccer coach Soccer player Agency 👇🏻
+    location: "Italy"
+    followers: 629830
+    engagement: 481
+    commentsToLikes: 0.003256
+    id: ck8t3mxp13rsh0j780mfo1ckh
+    verified: true
+    hashtags: "#family, #summer, #marchesucci, #crazy"
   - username: "nirkiopgabriele"
     fullname: >-
       Gabriele Boscaino
@@ -31,18 +43,6 @@ profiles:
     id: ck5bzndglrhgc0i11aayz9ziz
     verified: true
     hashtags: "#acmilan, #snow, #seriea, #fiorentinamilan"
-  - username: "fede_greg"
-    fullname: >-
-      Federico Gregucci
-    bio: >-
-      📍Miami🇺🇸 Roma🇮🇹 TikTok: fede_greg09 Juventus Academy Miami‘s Personal soccer coach Soccer player Agency 👇🏻
-    location: "Italy"
-    followers: 665943
-    engagement: 405
-    commentsToLikes: 0.002492
-    id: ck8t3mxp13rsh0j780mfo1ckh
-    verified: true
-    hashtags: "#marchesucci, #family, #style, #nevergiveup"
   - username: "elenapisani23"
     fullname: >-
       Elena Pisani
@@ -115,16 +115,16 @@ profiles:
     id: ckf5lzecurlza0j232m3w49t5
     verified: false
     hashtags: "#mariannavertolaofficial, #sscnapoli, #sportitaliamercato, #europei"
-  - username: "italianfootballtv"
+  - username: "fantacalcista"
     fullname: >-
-      Italian Football TV (IFTV)
+      Fantacalcista
     bio: >-
-      🇮🇹🌐 Connecting the world to calcio 🛍️ Our Clothing Brand --> @calciobyiftv 📥 DM us to talk Calcio 👥 @iftvmarco @iftvmike 💥 APRIL MERCH DROP LIVE 👇
+      ⚠️ | CONSIGLI per L'ASTA PERFETTA‼️ 🔥 | SUGGERIAMO chi SCHIERARE 💣 | AGGIORNAMENTI sul fantacalcio H24💥 - ⬇️ | I nostri canali YOUTUBE e TELEGRAM
     location: "Italy"
-    followers: 92572
-    engagement: 388
-    commentsToLikes: 0.025304
-    id: ck5zpx199tiji0i14rd3lhsxg
+    followers: 41240
+    engagement: 535
+    commentsToLikes: 0.132157
+    id: ck8t9uvp9pfz00j78e00ujn8i
     verified: false
-    hashtags: "#italy, #ronaldo, #cr7, #totssf"
+    hashtags: "#fantaeuropeo, #calciomercato, #polonia, #inter"
 ---

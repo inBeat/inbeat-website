@@ -1,24 +1,60 @@
 ---
-title: Top 10 Instagram Influencers In Saudi Arabia In 2023
+title: Top 10 Instagram Influencers In Saudi Arabia In 2024
 description: >-
-  Find top Instagram influencers in Saudi Arabia in 2023. Most popular hashtags: #ksa #draw #saudiarabia.
+  Find top Instagram influencers in Saudi Arabia in 2024. Most popular hashtags: #saudiarabia #fashion #saudi.
 platform: Instagram
 hits: 24
 text_top: Identify the best Instagram influencers on inBeat.
-text_bottom: Our database has 24 Instagram influencers like this in Saudi Arabia for you to pitch.
+text_bottom: Our platform has 24 Instagram influencers like this in Saudi Arabia for you to connect with.
 profiles:
   - username: "nesmaelgoharyofficial"
     fullname: >-
-      Nesma Elgohary نسمه الجوهرى
+      Nesma Elgohary  نسمه الجوهرى
     bio: >-
-      Fashion | Stylist | Travel | life style Your vision ترخيص اعلامى : 84947
+      موثوق 450397🇸🇦 Fashion | Stylist | Travel | life style Assistant Director⬇️
     location: "Saudi Arabia"
-    followers: 4770149
-    engagement: 130
-    commentsToLikes: 0.012098
+    followers: 5444833
+    engagement: 100
+    commentsToLikes: 0.007769
     id: ck0w4skli07cw0i1951n4i8a4
     verified: false
-    hashtags: "#pink, #dresses, #dress, #collage"
+    hashtags: "#shopping, #hypermarket, #supermarket, #saudiarabia"
+  - username: "to"
+    fullname: >-
+      
+    bio: >-
+      . ᴹᴶᴱᴱᴰ . 🇸🇦 ★ @j1 . Personal account 2023 . 👻@messi .
+    location: "Saudi Arabia"
+    followers: 16763
+    engagement: 2015
+    commentsToLikes: 0.021924
+    id: ck0vzsw0far130i19dozqgime
+    verified: false
+    hashtags: "#joker"
+  - username: "yasiralsaggaf"
+    fullname: >-
+      ياسر السقاف
+    bio: >-
+      #Hublot #AttarUnited #Samsung Ambassador Champions "Movie"🇸🇦 The voice MBC1 Wheel of fortune فالك طيب MBC1 Bilal "Movie"🇸🇦
+    location: "Saudi Arabia"
+    followers: 414942
+    engagement: 38
+    commentsToLikes: 0.023681
+    id: ck0w0e2qjdq7o0i192qedb9e7
+    verified: true
+    hashtags: "#joyawards, #galaxyzfold4, #ad, #teamgalaxy"
+  - username: "waadmakeupartist"
+    fullname: >-
+      Waad Altarki- وعد التركي
+    bio: >-
+      Riyadh 🇸🇦 fully booked • ‎‏snapchat: waadmakeup‎ MORNING PERSON 🧸 وعد التركي 🎀🪞🪄
+    location: "Saudi Arabia"
+    followers: 2928662
+    engagement: 59
+    commentsToLikes: 0.600158
+    id: ck1355fr2zsxj0i195wy6yhyr
+    verified: true
+    hashtags: ""
   - username: "dhay.xx"
     fullname: >-
       ضي الهلالي | Dhay
@@ -55,18 +91,6 @@ profiles:
     id: ck0w3jedjtpw80i19saw1fvz4
     verified: false
     hashtags: "#eyedrawing, #eyeofdrawing, #portrait, #draw"
-  - username: "yasiralsaggaf"
-    fullname: >-
-      ياسر السقاف
-    bio: >-
-      TV host @mbcthevoiceinsta
-    location: "Saudi Arabia"
-    followers: 406934
-    engagement: 53
-    commentsToLikes: 0.026851
-    id: ck0w0e2qjdq7o0i192qedb9e7
-    verified: true
-    hashtags: "#themaskedsinger, #mbcthevoicesenior, #thevoicesenior, #styledbyced"
   - username: "irashedz"
     fullname: >-
       راشد | Rashed
@@ -101,30 +125,6 @@ profiles:
     engagement: 157
     commentsToLikes: 0.029598
     id: ck0u7wwhx5z100i198ch2w31r
-    verified: false
-    hashtags: ""
-  - username: "artist.ola"
-    fullname: >-
-      𝕃𝕆𝕃𝕆 🌸🎨
-    bio: >-
-      Drawing is another way to write notes..🕊 ﮼رَسّـــآَمـــةٰ ♡ ﮼الرسم،ليس،فن،فقط،بل،تفسير،ما،بداخلي 🌈 17 year بداياتي بـ 2017 ما أستقبل طلبات رسم ‏🇸🇦
-    location: "Saudi Arabia"
-    followers: 18650
-    engagement: 525
-    commentsToLikes: 0.061941
-    id: ck0w21oxsm7hu0i19c0fp59z1
-    verified: false
-    hashtags: "#artistola, #my, #your, #draw"
-  - username: "laaggi"
-    fullname: >-
-      Lina Alahmari - لينا الأحمري
-    bio: >-
-      Al Khobar 🇸🇦 Snapchat : laaggismakeup 📩 : Linalbfa1@hotmail.com 📞: 053 891 9447
-    location: "Saudi Arabia"
-    followers: 154863
-    engagement: 104
-    commentsToLikes: 0.082033
-    id: ck0u1vhjxy4ym0i19sfoztsw4
     verified: false
     hashtags: ""
 ---

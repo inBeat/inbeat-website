@@ -1,11 +1,11 @@
 ---
-title: Top 10 Makeup TikTok Influencers In Italy In 2023
+title: Top 10 Makeup TikTok Influencers In Italy In 2024
 description: >-
-  Find top makeup TikTok influencers in Italy in 2023. Most popular hashtags: #makeup #makeupartist #perte #foryoupage.
+  Find top makeup TikTok influencers in Italy in 2024. Most popular hashtags: #makeup #makeupartist #perte #duetto.
 platform: TikTok
-hits: 268
-text_top: Discover the best TikTok profiles on inBeat.
-text_bottom: Our platform has 268 TikTok influencers like this in Italy for you to contact.
+hits: 271
+text_top: Identify the best TikTok profiles on inBeat.
+text_bottom: Our platform holds 271 TikTok influencers like this in Italy for you to pitch.
 profiles:
   - username: "morgana.makeup"
     fullname: >-
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.014593
     id: cka67dx6ukoko0i78ytnhhw4z
     verified: false
-    hashtags: "#fantasy, #mermaid, #marvel, #viral"
+    hashtags: "#bodypaint, #makeup, #fantasy, #marvel"
   - username: "elioicon"
     fullname: >-
       Elio ICON
@@ -54,7 +54,7 @@ profiles:
     commentsToLikes: 0.098056
     id: cka67dy0mkosq0i788ujecrz5
     verified: false
-    hashtags: "#egirlmakeup, #makeupartist, #transition, #makeup"
+    hashtags: "#transition, #makeup, #makeupartist, #egirlmakeup"
   - username: "zuccherinomakeup_"
     fullname: >-
       ZuccherinoMakeUp
@@ -78,7 +78,7 @@ profiles:
     commentsToLikes: 0.011280
     id: ck9exykiztg1p0j78a14qtzib
     verified: false
-    hashtags: "#originalsuprema1, #pov, #spiritualsuprema, #blushberry"
+    hashtags: "#pov, #spiritualsuprema, #originalsuprema1, #blushberry"
   - username: "arienne.makeup"
     fullname: >-
       Arianna
@@ -102,7 +102,7 @@ profiles:
     commentsToLikes: 0.048572
     id: ckdtdtmoxvhtj0j23ofol1ykd
     verified: false
-    hashtags: "#perte, #emojichallenge, #neiperte, #makeupartist"
+    hashtags: "#mua, #flowermakeup, #artisticmakeup, #fyp"
   - username: "xlipsaddictedx"
     fullname: >-
       Dalila Dell’Amura
@@ -114,7 +114,7 @@ profiles:
     commentsToLikes: 0.059694
     id: ckbf1cr09neli0j23s4ozpjpt
     verified: false
-    hashtags: "#caffesospeso, #stopanimalsabuse, #crueltyfree, #crueltyfreemakeup"
+    hashtags: "#crueltyfreebeauty, #caffesospeso, #stopanimaltesting, #stopanimalsabuse"
   - username: "martina4you"
     fullname: >-
       𝕸𝖆𝖗𝖙𝖎𝖓𝖆🧸🤍

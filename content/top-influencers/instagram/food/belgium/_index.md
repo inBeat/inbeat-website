@@ -1,12 +1,108 @@
 ---
-title: Top 10 Food Instagram Influencers In Belgium In 2023
+title: Top 10 Food Instagram Influencers In Belgium In 2024
 description: >-
-  Find top food Instagram influencers in Belgium in 2023. Most popular hashtags: #brussels #girlsgoneloavies #belgianblogger #ootd.
+  Find top food Instagram influencers in Belgium in 2024. Most popular hashtags: #belgianblogger #advertentie #foodblogger.
 platform: Instagram
-hits: 40
-text_top: See the best Instagram profiles on inBeat.
-text_bottom: Our platform holds 40 Instagram influencers like this in Belgium for you to connect with.
+hits: 60
+text_top: Analyze the top-rated Instagram profiles on inBeat.
+text_bottom: Our database holds 60 Instagram influencers like this in Belgium for you to collaborate.
 profiles:
+  - username: "nathaliemeskensofficial"
+    fullname: >-
+      Nathalie Meskens/MSKNS
+    bio: >-
+      Belgian Actress, singer-songwriter, tv host, travel lover, a foodie and mom of the 2most amazing kids in the world❤️
+    location: "Belgium"
+    followers: 262133
+    engagement: 466
+    commentsToLikes: 0.019395
+    id: ck15q8ikm1ls10i1929c6dm67
+    verified: false
+    hashtags: "#newsingle, #music, #mskns, #holiday"
+  - username: "maddensfien"
+    fullname: >-
+      Fien Maddens
+    bio: >-
+      ⚡️ 25, Kaster, Digital Marketeer 👩🏼‍🍳 Passionate foodie @foodbyfien ♡ @iserbyteli
+    location: "Belgium"
+    followers: 12152
+    engagement: 997
+    commentsToLikes: 0.034973
+    id: ckap4yte99f510i78g8x8mret
+    verified: false
+    hashtags: "#feedthemfeelgood, #civilwedding"
+  - username: "nuria_glztnva"
+    fullname: >-
+      Nuria Glztnva
+    bio: >-
+      Blind Getrouwd met mijn❣️ Gek op #momlife sinds 2018 Ik deel MIJN 🌍 met de 🌐 Food, lifestyle, good vibes only💖 💌nuria.gilizintinova@gmail.com 🇧🇪📍8500
+    location: "Belgium"
+    followers: 47514
+    engagement: 315
+    commentsToLikes: 0.015210
+    id: ck6u603stcrkh0j71ljd25yw4
+    verified: false
+    hashtags: "#koksijde, #advertentie, #th, #marriedatfirstsight"
+  - username: "hap_en_tap"
+    fullname: >-
+      Myriam Minne l Culi blogger
+    bio: >-
+      ➢ 🇧🇪 Foodblog Award Winner Best Baking & Sweets ➢ Ambassador @falconbelgium @robthegourmetsmarket ➢ FCB 💙🖤 ➢ Check my FREE recipes 👇
+    location: "Belgium"
+    followers: 36385
+    engagement: 242
+    commentsToLikes: 0.128358
+    id: ck8tdpvji4by00j78iaoi24rt
+    verified: false
+    hashtags: "#foodlover, #foodphotography, #summerbaking, #homecook"
+  - username: "tiffany_vanhille"
+    fullname: >-
+      𝓣𝓲𝓯𝓯𝓪𝓷𝔂 𝓥𝓪𝓷𝓱𝓲𝓵𝓵𝓮
+    bio: >-
+      🌈 Owner of @nailicious_bytiffany ღ 23 | Belgium | Student Crimi ღ Fashion & Food Lover Collabs: DM or Mail
+    location: "Belgium"
+    followers: 5371
+    engagement: 173
+    commentsToLikes: 0.428498
+    id: ckqas82j5l0kj0j23qmzbulnr
+    verified: false
+    hashtags: "#fashionblogger, #ghent, #fashionstyle, #gent"
+  - username: "kokerellen"
+    fullname: >-
+      Ellen Van Gool | Kokerellen.be
+    bio: >-
+      👩🏼‍🍳 Ik help je stressvrij, evenwichtig koken 🍎 full time foodie 📗 Gezellig Kokerellen, nu in de boekhandel! ⤵️ Ontdek 600+ gratis recepten
+    location: "Belgium"
+    followers: 36888
+    engagement: 73
+    commentsToLikes: 0.054626
+    id: ckaor0wt6l8lc0i78ol0jwnws
+    verified: false
+    hashtags: "#advertentie, #suikervrij, #ontbijt, #zondagbakdag"
+  - username: "beauty_yous"
+    fullname: >-
+      Yousra Jay-Yufi
+    bio: >-
+      📍Brussels Collab : Beauty_yous@talentsquad.be Other : perledu1000@hotmail.com Compte Food : @cooking.with.yous Alpro Ambassador 2023
+    location: "Belgium"
+    followers: 66822
+    engagement: 71
+    commentsToLikes: 0.041209
+    id: cloxohfn6066p0j08dip8wozc
+    verified: false
+    hashtags: "#belgique, #belgium, #publicit, #belgiuminfluencer"
+  - username: "annabelpesant"
+    fullname: >-
+      Annabel Pesant
+    bio: >-
+      Fashion, food & family | Belgium Annabel@listheagency.com
+    location: "Belgium"
+    followers: 118525
+    engagement: 26
+    commentsToLikes: 0.036716
+    id: ck14gwhy27dp10i19dzj95sy7
+    verified: false
+    hashtags: "#bourjoisparis, #themagicaleveryday, #belgi, #gillettelabs"
   - username: "lunalissens"
     fullname: >-
       Luna Lissens
@@ -19,18 +115,6 @@ profiles:
     id: ck8tct1ke0kcw0j788ddfr7w0
     verified: false
     hashtags: "#loavies, #girlsgoneloavies, #offlineshoppen, #waaslandshopping"
-  - username: "nathaliemeskensofficial"
-    fullname: >-
-      Nathalie Meskens
-    bio: >-
-      Belgian Actress, singer, tv host, travel lover and a foodie
-    location: "Belgium"
-    followers: 245865
-    engagement: 901
-    commentsToLikes: 0.026324
-    id: ck15q8ikm1ls10i1929c6dm67
-    verified: false
-    hashtags: "#spon, #lima, #pampersbe, #weledamommy"
   - username: "celinemaufor"
     fullname: >-
       Céline Maufor
@@ -43,88 +127,4 @@ profiles:
     id: ck14gsa5r6rv10i198hq8u1pl
     verified: false
     hashtags: "#ootd, #contest, #giveaway, #explore"
-  - username: "katiadellafaille"
-    fullname: >-
-      Katia della Faille
-    bio: >-
-      💥FIT@50💥 🥑Age well- Feel well 🔥Cycling 🥚Clean food ❤ visit sick- eldery : volunteering 📍www.park7.be
-    location: "Belgium"
-    followers: 7379
-    engagement: 803
-    commentsToLikes: 0.067489
-    id: ck5hde0gvmwvf0i11kruz2zq5
-    verified: false
-    hashtags: "#ibiza, #bbf, #sportmotivation, #geduld"
-  - username: "lafilleagateaux"
-    fullname: >-
-      Kristel - Travel Blogger
-    bio: >-
-      Travel, lifestyle & food blogger 🌍 Content Creator | Story Teller | 📍Bxl but wanderlust spirit 🗺 Spending summer in #italy
-    location: "Belgium"
-    followers: 33641
-    engagement: 254
-    commentsToLikes: 0.035338
-    id: ck13anyz9rbif0i198idr8gqq
-    verified: false
-    hashtags: "#shein, #food, #cotebelge, #brussels"
-  - username: "lauralynnsworld"
-    fullname: >-
-      LAURA ✌🏼 HAPPY VIBES
-    bio: >-
-      sharing my life in antwerp and abroad ✈️✨ 🌼psychologist - fashioniable foodie 🔜 USA 🌊@wave_socials 🍋@laurashappyfood 👋🏼lauralynnjoosten@yahoo.be
-    location: "Belgium"
-    followers: 37613
-    engagement: 165
-    commentsToLikes: 0.085559
-    id: ck5zsblasy6uy0i149dirvmoh
-    verified: false
-    hashtags: "#woensdag, #zonnetje, #travelspain, #outfitreels"
-  - username: "glennverledens"
-    fullname: >-
-      G L E N N   V E R L E D E N S
-    bio: >-
-      Belgian Foodie(Ronse)🇧🇪. Only 2 or 3 pics of delicious homemade food a week😉📱📸iphone 💯% HOMEMADE FOOD‼️BenkokGlenn👨🏼‍🍳🙂
-    location: "Belgium"
-    followers: 5331
-    engagement: 2286
-    commentsToLikes: 0.176642
-    id: ckaozpct4mt6n0i78n3z42m0w
-    verified: false
-    hashtags: "#tomato, #mayo, #homemade, #chives"
-  - username: "chlovdw"
-    fullname: >-
-      Chloë Van de Walle
-    bio: >-
-      FIERCE FASHION & FOOD LOVER ♡ ➵ Belgium based | 90’s kid ➵ Wifey of @debackerjerre 💍 ➵ Proud (plus)mommy of Ariane & Emma 💕
-    location: "Belgium"
-    followers: 4668
-    engagement: 296
-    commentsToLikes: 0.182215
-    id: ck0vvf3s5ouu00i19aeaq98gh
-    verified: false
-    hashtags: "#vlaamseblogger, #bunintheoven, #firstborn, #preggobelly"
-  - username: "elinea.fit"
-    fullname: >-
-      E L I N E
-    bio: >-
-      Here to inspire, help & motivate others. ✨Fitness. Food. Mental health.✨ BALANCED & FIT lifestyle 🍪🥑 ⬇️Personal training website💓
-    location: "Belgium"
-    followers: 2021
-    engagement: 1267
-    commentsToLikes: 0.160223
-    id: ckap0ovu7r8fh0i78v9jrmoem
-    verified: false
-    hashtags: "#quads, #proud, #gymwomen, #lockdown"
-  - username: "lwbh"
-    fullname: >-
-      LWBH (Ellen Salomé)
-    bio: >-
-      𝕃𝕚𝕗𝕖 𝕎𝕚𝕥𝕙 𝔹𝕝𝕠𝕟𝕕 ℍ𝕒𝕚𝕣 🇧🇪 Belgian📍Brussels 👉 #Brussels #Travels #Restaurants #Food #Pets #Dance
-    location: "Belgium"
-    followers: 7543
-    engagement: 695
-    commentsToLikes: 0.098774
-    id: ck9we4xuwim2w0j78v0vej6vh
-    verified: false
-    hashtags: "#pinksky, #belgiangirl, #europefinest, #grandplacebrussels"
 ---

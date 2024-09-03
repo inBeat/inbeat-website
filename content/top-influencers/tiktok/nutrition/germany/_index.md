@@ -1,11 +1,11 @@
 ---
-title: Top 10 Nutrition TikTok Influencers In Germany In 2023
+title: Top 10 Nutrition TikTok Influencers In Germany In 2024
 description: >-
-  Find top nutrition TikTok influencers in Germany in 2023. Most popular hashtags: #viral #foryou #fyp #fitness.
+  Find top nutrition TikTok influencers in Germany in 2024. Most popular hashtags: #viral #foryou #fitness #fyp.
 platform: TikTok
 hits: 8
-text_top: Analyze the top-rated TikTok influencers on inBeat.
-text_bottom: Our database has 8 TikTok influencers like this in Germany for you to work with.
+text_top: Discover the top-rated TikTok profiles on inBeat.
+text_bottom: Our search engine aggregates 8 TikTok influencers like this in Germany for you to contact.
 profiles:
   - username: "ruya.ari"
     fullname: >-
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.064508
     id: ck9c7pidks6ey0j78c6qweuav
     verified: false
-    hashtags: "#calisthenics, #cardio, #workout, #outdoorworkout"
+    hashtags: "#fit, #outdoorworkout, #calisthenics, #nature"
   - username: "luca.vss"
     fullname: >-
       Luca Voß
@@ -54,7 +54,7 @@ profiles:
     commentsToLikes: 0.056192
     id: ckbqdwgkozuv30j23ej39xkqn
     verified: false
-    hashtags: "#foryoupage, #flirt, #healthy, #trend"
+    hashtags: "#coronavirus, #fitness, #fy, #comedy"
   - username: "dietetyka"
     fullname: >-
       Małgorzata Ziewiec
@@ -90,7 +90,7 @@ profiles:
     commentsToLikes: 0.011764
     id: cka62t8eu1cd80i7895ky59xw
     verified: false
-    hashtags: "#couplegoals, #fitness, #essen, #abnehmen"
+    hashtags: "#duett, #couplegoals, #fitness, #abnehmen"
   - username: "nikcoltro"
     fullname: >-
       Nik Coltro

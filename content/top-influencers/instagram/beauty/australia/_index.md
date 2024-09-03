@@ -1,24 +1,84 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Australia In 2023
+title: Top 10 Beauty Instagram Influencers In Australia In 2024
 description: >-
-  Find top beauty Instagram influencers in Australia in 2023. Most popular hashtags: #fashion #ootd #style.
+  Find top beauty Instagram influencers in Australia in 2024. Most popular hashtags: #skincaretips #skincareroutine #trendingreels.
 platform: Instagram
-hits: 759
-text_top: See the best Instagram accounts on inBeat.
-text_bottom: Our database aggregates 759 Instagram influencers like this in Australia for you to contact.
+hits: 1138
+text_top: Identify the top-rated Instagram accounts on inBeat.
+text_bottom: inBeat aggregates 1138 Instagram influencers like this in Australia for you to pitch.
 profiles:
-  - username: "byemmaleah"
+  - username: "tinatanakaharris"
     fullname: >-
-      Em | skincare + beauty
+      Tina Tanaka Harris
     bio: >-
-      sydney, aus 📍 skincare / hair / beauty + everyday life 🤍 💌: emilia@cloutcommunications.com.au
+      Japanese Aussie passionate about beauty✨ 📍Melbourne, AUS 💗J+K Beauty 💦Dry/Dehydrated Skin ▶️YouTube Channel (170k+♥️) + more ↓
     location: "Australia"
-    followers: 15952
-    engagement: 1913
-    commentsToLikes: 0.112932
-    id: cl4l962k3t1en0i232ak4mtb9
+    followers: 36795
+    engagement: 842
+    commentsToLikes: 0.013259
+    id: cl3w8yyw3cjbu0i23dwh147jh
     verified: false
-    hashtags: "#aveneau, #personalbestskin, #tymodryer, #tymobeauty"
+    hashtags: "#oliveyoung, #skincareaddict, #jbeauty, #kbeautyblogger"
+  - username: "teresaaj"
+    fullname: >-
+      TERESA
+    bio: >-
+      creative • style • beauty sydney, australia 💌: hello.teresaaj@gmail.com
+    location: "Australia"
+    followers: 7453
+    engagement: 591
+    commentsToLikes: 0.081726
+    id: cldhoqr9qnt9y0j08wxg0ne2f
+    verified: false
+    hashtags: "#pinterestinspired, #aestheticfeed, #minimalstyle, #mycottonon"
+  - username: "theamyclark"
+    fullname: >-
+      Amy Clark
+    bio: >-
+      No BS beauty reviews! Beauty Editor | Journalist | Content Creator 💥 Formerly Adore Beauty, Mamamia/You Beauty.
+    location: "Australia"
+    followers: 15564
+    engagement: 495
+    commentsToLikes: 0.051759
+    id: cks1re31us59f0j23oj7712eg
+    verified: false
+    hashtags: "#emmamattress, #awakenyourbest"
+  - username: "isobel_larkin"
+    fullname: >-
+      Isobel Larkin
+    bio: >-
+      Freelance fashion & beauty editor, bride-to-be, dreamer 🤍 @the_glowfiles hello@isobellarkin.com Gadigal land | Sydney
+    location: "Australia"
+    followers: 8083
+    engagement: 408
+    commentsToLikes: 0.192717
+    id: cl3w8z5cncovq0i23h94v850l
+    verified: false
+    hashtags: "#summer2023, #europeansummer, #shonajoy, #sydneystyle"
+  - username: "paulyloz"
+    fullname: >-
+      Paulyloz | ADVENTURE x TRAVEL
+    bio: >-
+      📸 Capturing the beauty of this 🌎 📍 Australia 📧 paul.lojszczyk@gmail.com
+    location: "Australia"
+    followers: 54842
+    engagement: 3742
+    commentsToLikes: 0.032879
+    id: ck5cl18w7y1mv0i11hflkq7dv
+    verified: false
+    hashtags: "#adventuretravel, #trendingreels, #adventuretravels, #travelvideography"
+  - username: "ughsy"
+    fullname: >-
+      siew yong 🤍
+    bio: >-
+      Singapore 🇸🇬 | Fashion, Beauty & Lifestyle 👩🏻‍🎓NTU Banking & Finance 💌: ughsy00@gmail.com 🎥 TikTok: ughsy (38K)
+    location: "Australia"
+    followers: 56769
+    engagement: 2619
+    commentsToLikes: 0.009842
+    id: clmumxct6l79p0j08uxk8chi7
+    verified: false
+    hashtags: "#sg, #sgig, #trending, #trendingreels"
   - username: "editionalbeauty"
     fullname: >-
       ⚡️editional beauty⚡️
@@ -30,101 +90,41 @@ profiles:
     commentsToLikes: 0.155522
     id: ck5c05d2hsh9m0i11o1yt0e9n
     verified: false
-    hashtags: "#meccamoment, #luxuryfragrance, #fragrancecollection, #skincareroutine"
-  - username: "theamyclark"
+    hashtags: "#perfumecollections, #perfumebottle, #luxuryskincare, #beautyfavorites"
+  - username: "erinrummins"
     fullname: >-
-      Amy Clark
+      E R I N   R U M M I N S
     bio: >-
-      No BS beauty reviews! Beauty Editor | Journalist | Content Creator 💥 Formerly Adore Beauty, Mamamia/You Beauty.
+      mum life • real life • lifestyle • beauty 🌸 wife to Ben + mumma to Lucy 🎧 my podcast - @btw.thepodcast 📧 hello@thesocialtouch.com.au
     location: "Australia"
-    followers: 14564
-    engagement: 511
-    commentsToLikes: 0.057139
-    id: cks1re31us59f0j23oj7712eg
+    followers: 64070
+    engagement: 899
+    commentsToLikes: 0.018168
+    id: ck15t1ijbfvno0i19xh9klttd
     verified: false
-    hashtags: "#loveyourskin, #simpleisbeautiful, #skincare, #frenchbeauty"
-  - username: "emilyskyefit"
+    hashtags: "#amazonprimeday, #gifted, #ad, #giesenwines"
+  - username: "freyahaley"
     fullname: >-
-      Emily Skye
+      frey ᚠ
     bio: >-
-      Fitness ♡ Wellness ♡ Beauty @james_cosmetics Owner @womensbest partner 50% off my FIT APP 12m plan - tap here ⬇️
+      Seeing beauty in everything Bundjalung country 💌hello@freyahaley.com 💌
     location: "Australia"
-    followers: 2723386
-    engagement: 87
-    commentsToLikes: 0.024309
-    id: ck136fczj67xj0i19enbq3wrk
-    verified: true
-    hashtags: "#soblessed, #bodyappreciation, #parentlife, #langhamgala"
-  - username: "kellympreston"
-    fullname: >-
-      Kelly Preston
-    bio: >-
-      🏋🏻‍♀️ EHP Labs - Discount code: KMP10 📥 contact@kellympreston.com 📍 Sydney 🇦🇺 🎓 UNSW B.I.Arch (Hons), 🎓 M.P.D 💪🏼 Fitness | 🍔 Food | 💋 Beauty
-    location: "Australia"
-    followers: 160384
-    engagement: 503
-    commentsToLikes: 0.028158
-    id: ck0u1bzaxwhw00i199j4biujl
+    followers: 104488
+    engagement: 910
+    commentsToLikes: 0.008970
+    id: ck5c1lzmxvgav0i11imjftmrj
     verified: false
-    hashtags: "#fit, #bodyinspo, #hairstyle, #makeup"
-  - username: "love.christina.xo"
+    hashtags: "#voidmeme, #chvoid, #meme"
+  - username: "jazhand"
     fullname: >-
-      ✨Christina✨
+      JAZ HAND
     bio: >-
-      🌟Digital creator & photographer 💫Travel, fashion, beauty, health & lifestyle ✨WINK model: info@winkmodels.com.au or hello@lovechristinaxo.com
+      🍒💅🏼👩🏼‍💻🤸🏼‍♂️💌🍦🎀 Lifestyle, Fashion, Beauty & Travel @JAZHANDMADE @colourtone.app Gold Coast | Australia
     location: "Australia"
-    followers: 280068
-    engagement: 382
-    commentsToLikes: 0.080138
-    id: ck13c84lqz1y50i192xk9bkvq
+    followers: 139580
+    engagement: 423
+    commentsToLikes: 0.056587
+    id: clan8va5pvvu80i23hc2z0r9i
     verified: false
-    hashtags: "#wearingtoday, #macquariepassnationalpark, #outfitshot, #editorialfashion"
-  - username: "austenharvey"
-    fullname: >-
-      A U S T E N  H A R V E Y
-    bio: >-
-      Style | Beauty | Wellness Aussie gal livin in, OC, CA🕊 Click the link to shop my bikini collab💕
-    location: "Australia"
-    followers: 10066
-    engagement: 788
-    commentsToLikes: 0.067388
-    id: ck137b474anvo0i19e9c2jcnn
-    verified: false
-    hashtags: "#pacpartner, #glassons, #pacsunswim, #pacfamily"
-  - username: "she.isamy"
-    fullname: >-
-      Amy
-    bio: >-
-      Content creator ✨ Beauty. Fashion. Travel DM or email to work together 🤍
-    location: "Australia"
-    followers: 33828
-    engagement: 288
-    commentsToLikes: 0.300074
-    id: ck0w0n5ovf1ul0i19gwdrag4c
-    verified: false
-    hashtags: "#mynaturealbase, #nudebynaturepartner, #ad, #zenasalonexperience"
-  - username: "taylavvilson"
-    fullname: >-
-      ＴＡＹＬＡ  ＷＩＬＳＯＮ
-    bio: >-
-      ➤ 🌊 Gold Coast ➤ 💼 @beautybyyuni ➤ 👟@ryderwear Athlete: % code ‘𝘛𝘈𝘠𝘞10’ ➤ 💪🏽Team ON @optimumnutrition.ausnz
-    location: "Australia"
-    followers: 27999
-    engagement: 430
-    commentsToLikes: 0.042113
-    id: ck6tshzh54v9j0j71piw43km2
-    verified: false
-    hashtags: "#teamon, #teamryderwear, #optimumnutrition, #ad"
-  - username: "nadiaperixo"
-    fullname: >-
-      N A D I A  P E R I 🦚
-    bio: >-
-      Aussie 🐨 in📍LA Leukaemia Survivor🇮🇷🏴󠁧󠁢󠁥󠁮󠁧󠁿🇵🇱🇮🇪 BEAUTY || FASHION Content Creator 📧nadiapericontact@gmail.com 📧rebecca@bellamanagement.com.au DONATE⬇️
-    location: "Australia"
-    followers: 28165
-    engagement: 166
-    commentsToLikes: 0.085589
-    id: ck15q4qdz13970i1945z2p7hy
-    verified: false
-    hashtags: "#dior, #whatiwore, #persian, #laevents"
+    hashtags: "#activewearoutfits, #ad, #ausopen, #canggu"
 ---

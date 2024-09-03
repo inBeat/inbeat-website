@@ -1,12 +1,72 @@
 ---
-title: Top 10 Bloggers Instagram Influencers In Austria In 2023
+title: Top 10 Bloggers Instagram Influencers In Austria In 2024
 description: >-
-  Find top bloggers Instagram influencers in Austria in 2023. Most popular hashtags: #ootd #blogger #vienna #wien.
+  Find top bloggers Instagram influencers in Austria in 2024. Most popular hashtags: #vienna #wien #fashion #ootd.
 platform: Instagram
-hits: 58
-text_top: Analyze the most popular Instagram influencers on inBeat.
-text_bottom: Our database has 58 Instagram influencers like this in Austria for you to contact.
+hits: 66
+text_top: See the best Instagram influencers on inBeat.
+text_bottom: Our database has 66 Instagram influencers like this in Austria for you to work with.
 profiles:
+  - username: "sommertageblog"
+    fullname: >-
+      Kathi & Romeo
+    bio: >-
+      ➳ Travel Bloggers based in Vienna 🇦🇹 ➳ Official creators for @visitaustria ⛰️ ➳ ⇩ Visit our blog 💌 ⇩
+    location: "Austria"
+    followers: 26541
+    engagement: 340
+    commentsToLikes: 0.074318
+    id: ck0ttnc5p3gsl0i19v2t7jwjf
+    verified: false
+    hashtags: "#burgenland, #beautifuldestinations, #visitaustria, #wilderkaiser"
+  - username: "menawox"
+    fullname: >-
+      MAGDALENA WÖCKINGER
+    bio: >-
+      DIY·INTERIOR·UPCYCLING ✐Award winning DIY Blogger/TikToker ✁DIY Workshop leader ✑DIY book author ✎Interior Designer @einzigartig.wohnen ⌖Vienna
+    location: "Austria"
+    followers: 389037
+    engagement: 47
+    commentsToLikes: 0.018360
+    id: cl9k31ogmiv150i2397zeumr2
+    verified: false
+    hashtags: "#moodboard, #creative, #ikeahackers, #interiorarchitecture"
+  - username: "natalie.metzinger"
+    fullname: >-
+      Natalie Metzinger
+    bio: >-
+      Consulting @boydenaustria @boydensearch Vienna based Lifestyle & Travel Blogger 🇦🇹
+    location: "Austria"
+    followers: 45417
+    engagement: 27
+    commentsToLikes: 0.036595
+    id: ck0w54uj51wo80i19yjsaxs8x
+    verified: false
+    hashtags: "#vienna, #executivesearch, #lookoftheday, #officelook"
+  - username: "love_fashionandlife"
+    fullname: >-
+      Lifestyle||Travel⭐️Inspo
+    bio: >-
+      Austrian Blogger 🇦🇹 Fashion/Lifestyle/Travel #inspo
+    location: "Austria"
+    followers: 35790
+    engagement: 21
+    commentsToLikes: 0.006889
+    id: ck55on5yj8pbw0i1150w6vh89
+    verified: false
+    hashtags: "#austrianblogger, #visitbudapest, #travelinitaly, #travelanddestinations"
+  - username: "carina_berry"
+    fullname: >-
+      Carina Baier I Fitness Food
+    bio: >-
+      🕵🏼‍♀️ Food Blogger & Restaurant Tester from 🇦🇹 📍Vienna ⚡️1,3M on Tiktok 💌 carina@carinaberry.com ⬇️ travel dress restock now!
+    location: "Austria"
+    followers: 117581
+    engagement: 16
+    commentsToLikes: 0.010627
+    id: ck5hf9r3wwhaw0i11wt4lpo1m
+    verified: false
+    hashtags: "#verlobung, #sommerrezepte, #biotechusa, #engagement"
   - username: "gohar.beauty"
     fullname: >-
       Gohar - Beauty | Fashion | Mom
@@ -18,19 +78,7 @@ profiles:
     commentsToLikes: 0.020536
     id: ck15rsxyu9jjl0i19zaep5f62
     verified: false
-    hashtags: "#discoverunder100k, #sealife, #viennablogger, #antalya"
-  - username: "descude.simona"
-    fullname: >-
-      Simona Nemțanu
-    bio: >-
-      🌿Fashion & Beauty Blogger since 2011 👧🏻Mommy to #babyOlivia 🇷🇴România • Iași 🖌Contact: simonanemtanu@yahoo.com 🔎Blog:
-    location: "Austria"
-    followers: 18018
-    engagement: 219
-    commentsToLikes: 0.050255
-    id: ck6u11bmniyx70j71i4rahh33
-    verified: false
-    hashtags: "#bonprixbloggers, #inspiratiepepco, #bonprix, #bonprixitsme"
+    hashtags: "#parisianchic, #aestheticvideos, #wien, #viennablogger"
   - username: "laelae.life"
     fullname: >-
       Laura Zöhrer 🌿Lälä
@@ -42,31 +90,7 @@ profiles:
     commentsToLikes: 0.093497
     id: ck5zp0aecrqib0i143wm04kc4
     verified: false
-    hashtags: "#fashion, #gehtimmer, #inspo, #ootd"
-  - username: "bitsandbobsbyeva"
-    fullname: >-
-      𝐄𝐯𝐚 // 𝐋𝐢𝐟𝐞𝐬𝐭𝐲𝐥𝐞 𝐁𝐥𝐨𝐠 𝐚𝐮𝐬 𝐋𝐢𝐧𝐳
-    bio: >-
-      blogger & digital content creator💭 ⇢ based in Austria | Linz 🌿 #goodvibesonly 🐣 dieses Profil enthält Werbung 💻 Stylische Loungewear ↓
-    location: "Austria"
-    followers: 37562
-    engagement: 335
-    commentsToLikes: 0.016336
-    id: ckapax275xsi20i78vfa56e5a
-    verified: false
-    hashtags: "#desenio, #mairaa, #cantwaitforspring, #christmasgifts"
-  - username: "sommertageblog"
-    fullname: >-
-      Kathi & Romeo
-    bio: >-
-      ➳ Travel Bloggers based in Vienna 🇦🇹 ➳ Official creators for @visitaustria ⛰️ ➳ ⇩ Visit our blog 💌 ⇩
-    location: "Austria"
-    followers: 24235
-    engagement: 529
-    commentsToLikes: 0.059577
-    id: ck0ttnc5p3gsl0i19v2t7jwjf
-    verified: false
-    hashtags: "#inlovewithswitzerland, #visitaustria, #graub, #reiseblogger"
+    hashtags: "#youvegotmini, #kleinaberoho, #fashion, #outfitinspiration"
   - username: "the.shishaholic"
     fullname: >-
       Thomas
@@ -79,30 +103,6 @@ profiles:
     id: ckap0e3appvj40i78m66r373p
     verified: false
     hashtags: "#brasil, #potd, #photography, #shisha"
-  - username: "heartblood"
-    fullname: >-
-      Raphaela Fuchs, MA
-    bio: >-
-      Vienna based Blogger Mail: raphaela@followaustria.management 🎤 Podcast: „Hart aber Herzlich“ 🎬 TikTok: Helloheartblood & Clubhouse: heartblood
-    location: "Austria"
-    followers: 44074
-    engagement: 171
-    commentsToLikes: 0.063570
-    id: ck8tcz88p191w0j780bgjf2gy
-    verified: false
-    hashtags: "#outfitinspo, #interior, #autumnoutfit, #fashioninspo"
-  - username: "doboagi"
-    fullname: >-
-      Agnes dr Dobo
-    bio: >-
-      ANYA❤️ FAMILY LIFESTYLE YouTuber🎥+blogger📝 Konyhafőnök👩🏻‍🍳 MissWorld H 2010👑 Az oldalam reklámot is tartalmazhat 📧: agi@doboagi.hu Legújabb VLOG 😊👇🏼
-    location: "Austria"
-    followers: 176948
-    engagement: 238
-    commentsToLikes: 0.017932
-    id: ck55o7pod7t430i11dckpgfpf
-    verified: false
-    hashtags: "#reklam, #lenor, #freshaireffect, #afrisslevegoillata"
   - username: "mylittlezagreb"
     fullname: >-
       L i d i j a
@@ -115,16 +115,16 @@ profiles:
     id: ck135wxm73nlr0i19m8zuw92u
     verified: false
     hashtags: "#zagrebcroatia, #aesthetically, #adayinthelife, #reelsvideo"
-  - username: "simply_lenny"
+  - username: "anacepec"
     fullname: >-
-      LENNY💋✌🏼
+      𝚂𝚘𝚌𝚒𝚊𝚕 𝙼𝚎𝚍𝚒𝚊 𝚁𝚎𝚋𝚎𝚕
     bio: >-
-      Lenny‘s Little World of 🧘🏻‍♀️#yoga 🤸🏼‍♀️#fashion 💄 #traval ✈️ & #foodlover🍜
+      • 𝟸 𝚡 𝚊𝚠𝚊𝚛𝚍𝚎𝚍 𝚂𝚘𝚌𝚒𝚊𝚕 𝙼𝚎𝚍𝚒𝚊 𝙼𝚊𝚗𝚊𝚐𝚎𝚛, AR Filter Creating with @arbenjahiri 📸 🌸 Food blogger & multistan in free time 💜🌸 🌸 Easy recipes 📍Graz, Austria
     location: "Austria"
-    followers: 1406
-    engagement: 4049
-    commentsToLikes: 0.510271
-    id: ckap52mut9wvu0i78iu0g9589
+    followers: 15942
+    engagement: 237
+    commentsToLikes: 0.033792
+    id: ck6u6ocq8grxo0j71uarv86ch
     verified: false
-    hashtags: "#modeblogger, #potd, #reminder, #travelgoals"
+    hashtags: "#yummy, #yummyfood, #bodytransformation, #easyrecipesathome"
 ---

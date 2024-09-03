@@ -1,11 +1,11 @@
 ---
-title: Top 10 Instagram Influencers In Croatia In 2023
+title: Top 10 Instagram Influencers In Croatia In 2024
 description: >-
-  Find top Instagram influencers in Croatia in 2023. Most popular hashtags: #croatia #love #hrvatska.
+  Find top Instagram influencers in Croatia in 2024. Most popular hashtags: #croatia #love #hrvatska.
 platform: Instagram
-hits: 13
-text_top: Discover the best Instagram accounts on inBeat.
-text_bottom: Our platform has 13 Instagram influencers like this in Croatia for you to collaborate.
+hits: 12
+text_top: Analyze the most popular Instagram accounts on inBeat.
+text_bottom: Our database aggregates 12 Instagram influencers like this in Croatia for you to contact.
 profiles:
   - username: "8rasta9"
     fullname: >-
@@ -91,18 +91,6 @@ profiles:
     id: ck0vv6ct3nqjt0i19in84gipo
     verified: false
     hashtags: "#comics, #punchline, #captainamerica, #futurestate"
-  - username: "defectedcroatia"
-    fullname: >-
-      Defected Croatia
-    bio: >-
-      5,000 like minded house heads & 80+ DJs gather for 6 days of House Music Hedonism...❤️ —— 🗓 August 5th - 10th, 2021...🇭🇷 #DefectedCroatia
-    location: "Croatia"
-    followers: 33651
-    engagement: 181
-    commentsToLikes: 0.054337
-    id: ck0tuw0tj8xco0i199zg2quam
-    verified: false
-    hashtags: "#defectedcroatia, #playlist, #housemusicalllifelong, #housemusic"
   - username: "ivanabrozovicc"
     fullname: >-
       Ivana Brozovic
@@ -127,4 +115,16 @@ profiles:
     id: ck0tz9zj5poqu0i196u0rjre3
     verified: true
     hashtags: "#croatia, #love, #travel, #ashbo"
+  - username: "truck.eu"
+    fullname: >-
+      
+    bio: >-
+      ▪️ Croatian instagramer 🇭🇷 ▪ For any form of cooperation please contact at DM📥 ▪@file_rii & @karlo.rebic 😊 ▪️ 11.12.2015🎂
+    location: "Croatia"
+    followers: 133396
+    engagement: 107
+    commentsToLikes: 0.001940
+    id: ck14i5cj3dpsk0i19q0ihs5yi
+    verified: false
+    hashtags: ""
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Cooking TikTok Influencers In Austria In 2023
+title: Top 10 Cooking TikTok Influencers In Austria In 2024
 description: >-
-  Find top cooking TikTok influencers in Austria in 2023. Most popular hashtags: #fyp #viral #wien #austria.
+  Find top cooking TikTok influencers in Austria in 2024. Most popular hashtags: #fyp #viral #austria #wien.
 platform: TikTok
 hits: 20
-text_top: Discover the most popular TikTok profiles on inBeat.
-text_bottom: Our search engine holds 20 TikTok influencers like this in Austria for you to connect with.
+text_top: Identify the best TikTok accounts on inBeat.
+text_bottom: Our platform aggregates 20 TikTok influencers like this in Austria for you to pitch.
 profiles:
   - username: "dannyoncanvas"
     fullname: >-
@@ -90,7 +90,7 @@ profiles:
     commentsToLikes: 0.041544
     id: ck81s7m58qlry0j78xv2r2uin
     verified: false
-    hashtags: "#filmmaker, #austria, #sportwagen, #jungs"
+    hashtags: "#viral, #sportwagen, #jungsfakten, #spielberg"
   - username: "austriasginger"
     fullname: >-
       Austriasginger

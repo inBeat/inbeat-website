@@ -1,24 +1,12 @@
 ---
-title: Top 10 Models Instagram Influencers In Montreal In 2023
+title: Top 10 Models Instagram Influencers In Montreal In 2024
 description: >-
-  Find top models Instagram influencers in Montreal in 2023. Most popular hashtags: #model #montreal #vancouver #beauty.
+  Find top models Instagram influencers in Montreal in 2024. Most popular hashtags: #model #montreal #ootd #fashion.
 platform: Instagram
-hits: 26
-text_top: Identify the most popular Instagram accounts on inBeat.
-text_bottom: inBeat aggregates 26 Instagram influencers like this in Montreal, Canada for you to pitch.
+hits: 40
+text_top: Identify the best Instagram accounts on inBeat.
+text_bottom: Our platform has 40 Instagram influencers like this in Montreal, Canada for you to collaborate.
 profiles:
-  - username: "chelseyboll"
-    fullname: >-
-      Chelsey
-    bio: >-
-      🏳️‍🌈 She/they Photographer & model 🇨🇦 Montreal @plutinomodels @housmanagement 📸 For more photography follow @chelseyshoots
-    location: "Canada"
-    followers: 24356
-    engagement: 452
-    commentsToLikes: 0.025977
-    id: ck14hulfoc7xx0i196wyvjqwn
-    verified: false
-    hashtags: "#3dart, #mentalhealthmonday, #bpd, #bpdthings"
   - username: "krygerconnor"
     fullname: >-
       Connor Kryger
@@ -31,30 +19,18 @@ profiles:
     id: ck5hdo97bohna0i11niqmil6y
     verified: false
     hashtags: "#lamodels, #saintlaurent, #blackandwhite, #attempt"
-  - username: "florencemrtl"
+  - username: "meemiegosselin"
     fullname: >-
-      FLORENCE MARTEL
+      Meemie Gosselin | Mom Boss ✨
     bio: >-
-      Montréal📍 Stay humble, be kind, work hard. ✨ 📥 DM for inquires & collabs Model | Acting 🎭 | Registered Nurse💉
+      Be U, Be Unique is my phrase ✨ Authenticity level 1000 💯 Owner of @dammyawear 👙 Mom of soon to be three 👨‍👩‍👧‍👦🤰🏻
     location: "Canada"
-    followers: 6668
-    engagement: 1250
-    commentsToLikes: 0.210518
-    id: ckapbmk5g0gfp0i7814gcjzli
+    followers: 38702
+    engagement: 25
+    commentsToLikes: 0.007706
+    id: ckaorahrnmf6t0i78s8y4ilvx
     verified: false
-    hashtags: "#modelmontreal, #montrealmoments, #montrealartist, #concoursmontreal"
-  - username: "inked.barbie"
-    fullname: >-
-      𝐈𝐧𝐤𝐞𝐝 𝐁𝐚𝐫𝐛𝐢𝐞
-    bio: >-
-      Owner of @agsupply_ DJ / MODEL / ACTRESS Barmaids TV reality show season 2 @summummagazine DreamTeam 2021
-    location: "Canada"
-    followers: 70580
-    engagement: 254
-    commentsToLikes: 0.024005
-    id: ck601sohkg3p00i14so4muyla
-    verified: false
-    hashtags: "#poisonivy, #diy, #ad, #montreal"
+    hashtags: "#beubeunique, #picoftheday, #bodypositive, #outfitoftheday"
   - username: "ginger_rox"
     fullname: >-
       Roxanne
@@ -66,19 +42,55 @@ profiles:
     commentsToLikes: 0.033331
     id: ck5hgv0ql4wus0i11jihf4yd5
     verified: false
-    hashtags: "#gingerlife, #folktravel, #bwportrait, #gingergirl"
+    hashtags: "#redheadmodel, #instagoodmyphoto, #thepeoplescreatives, #instagood"
+  - username: "stinakayy"
+    fullname: >-
+      𝐒𝐓𝐈𝐍𝐀 𝐊𝐀𝐘𝐘
+    bio: >-
+      𝗦𝗽𝗮𝗿𝘁𝗮𝗻, 𝗚𝗿𝗲𝗲𝗸 𝐆𝐨𝐝𝐝𝐞𝐬𝐬 📌 𝗶𝗻𝗾𝘂𝗶𝗿𝗶𝗲𝘀 -> 𝘀𝘁𝗶𝗶𝗻𝗮𝗮𝗸𝗮𝘆@𝗴𝗺𝗮𝗶𝗹.𝗰𝗼𝗺 📌 𝗧𝗶𝗸𝗧𝗼𝗸 & 𝗧𝘄𝗶𝘁𝘁𝗲𝗿 -> 𝗦𝘁𝗶𝗻𝗮𝗞𝗮𝘆𝘆 (3.2M) https://linktr.ee/stinakayy
+    location: "Canada"
+    followers: 720126
+    engagement: 218
+    commentsToLikes: 0.007791
+    id: ck8wd0i0nd8v60j78oy7m0q5r
+    verified: false
+    hashtags: "#style, #ootd, #styleinspo, #puppy"
+  - username: "florencemrtl"
+    fullname: >-
+      FLORENCE MARTEL
+    bio: >-
+      Montréal📍 Stay humble, be kind, work hard. ✨ 📥 DM for inquires & collabs Model | Acting 🎭 | Registered Nurse💉
+    location: "Canada"
+    followers: 6668
+    engagement: 1250
+    commentsToLikes: 0.210518
+    id: ckapbmk5g0gfp0i7814gcjzli
+    verified: false
+    hashtags: "#montreal, #montrealphotography, #gingermodel, #fallvibes"
+  - username: "mariechristinelab"
+    fullname: >-
+      Marie-Christine Labonté
+    bio: >-
+      PR girl • model @humankindmgmt • @cgmmodels between Montréal & Nashville 📩 mariechristinelabonte@gmail.com
+    location: "Canada"
+    followers: 12062
+    engagement: 545
+    commentsToLikes: 0.077700
+    id: ck5c1p2rgvmxi0i11viuoppwe
+    verified: false
+    hashtags: "#jwpei, #montreal, #ootd, #fitcheck"
   - username: "billiebopbillie"
     fullname: >-
       B I L L I E ☾
     bio: >-
-      Model • MTL Paid bookings only Tiktok: billiebopbillie YouTube channel ☟︎
+      Owner @sheermagazine Tattoo @billietats YouTube & podcast ☟︎
     location: "Canada"
-    followers: 20494
-    engagement: 527
-    commentsToLikes: 0.014954
+    followers: 32989
+    engagement: 343
+    commentsToLikes: 0.010200
     id: ck5hcjwwwigby0i11bcu7r0b9
     verified: false
-    hashtags: "#followme, #photograph, #girl, #like4like"
+    hashtags: "#bae, #like4like, #models, #girlmodel"
   - username: "sofiacretaro"
     fullname: >-
       𝖘 🍓 𝖋 𝖎 𝖆
@@ -91,40 +103,28 @@ profiles:
     id: ck5c4j1yb1gia0i111b8xxlay
     verified: false
     hashtags: "#miamiswimweek, #charlottetilbury, #maccosmetics, #montreal"
-  - username: "allisonelang"
+  - username: "nickibats"
     fullname: >-
-      ALLISON E. LANG
+      NICKI BATS
     bio: >-
-      amputee & body inclusivity advocate 🇨🇦 educator | athlete | model | traveler | jokester rep by @agencelasuite 𖤥 mtl subscribe to my YouTube⤵
+      Toronto 🦋 Montréal ugc creator • influencer • model collab: contact.nickibats@gmail.com
     location: "Canada"
-    followers: 9872
-    engagement: 501
-    commentsToLikes: 0.099625
-    id: ckap3rwrc4ar60i78z29q3lf1
+    followers: 6634
+    engagement: 407
+    commentsToLikes: 0.111856
+    id: ckmw1dsgd6qqo0j23kndyy0s0
     verified: false
-    hashtags: "#ardenelove, #sponsored, #ardenebabe, #ad"
-  - username: "joaohguedes"
+    hashtags: "#torontofashion, #selinalife, #millennialmoney, #meetyouthere"
+  - username: "virushigaasrikumar"
     fullname: >-
-      Joao Guedes
+      Viruu | content creator
     bio: >-
-      Intimate Portrait Photographer Photography Educator Ottawa | Montreal | Vancouver Booking April 2021
+      📍montréal • South Asian • Tamil Dance • Lifestyle • Beauty Tiktok : @virushigaasrikuma1 ( 55K+ ) 📧 : virushigaa.srikumar@gmail.com
     location: "Canada"
-    followers: 59921
-    engagement: 323
-    commentsToLikes: 0.021439
-    id: ck5q6dcmywy5a0i11ddpbgnxw
+    followers: 108545
+    engagement: 510
+    commentsToLikes: 0.016420
+    id: ckqeixj0xmusc0j239g5934qe
     verified: false
-    hashtags: "#lifestyle, #chasinglight, #model, #vancouver"
-  - username: "angharada.model"
-    fullname: >-
-      𝒜 𝓃 𝑔 𝒽 𝒶 𝓇 𝒶 𝒹 𝒶
-    bio: >-
-      •Time Traveling Model• The Past Will Be My Future • Celtic/Baltic• Professional Model- available to hire in Vancouver, Canada. •OFFERING REMOTE SHOOTS
-    location: "Canada"
-    followers: 32592
-    engagement: 448
-    commentsToLikes: 0.042615
-    id: ck15tn028ivx00i19vaaw8j0q
-    verified: false
-    hashtags: "#orange, #beautiful, #fantasyart, #travelphotography"
+    hashtags: "#mtl, #model, #photoshoot, #chennai"
 ---

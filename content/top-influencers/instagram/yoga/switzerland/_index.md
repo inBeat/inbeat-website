@@ -1,24 +1,60 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Switzerland In 2023
+title: Top 10 Yoga Instagram Influencers In Switzerland In 2024
 description: >-
-  Find top yoga Instagram influencers in Switzerland in 2023. Most popular hashtags: #yoga #switzerland #beach #yogainspiration.
+  Find top yoga Instagram influencers in Switzerland in 2024. Most popular hashtags: #switzerland #nature #yoga.
 platform: Instagram
-hits: 29
-text_top: See the most popular Instagram accounts on inBeat.
-text_bottom: Our database has 29 Instagram influencers like this in Switzerland for you to connect with.
+hits: 43
+text_top: Identify the top-rated Instagram influencers on inBeat.
+text_bottom: Our database holds 43 Instagram influencers like this in Switzerland for you to work with.
 profiles:
-  - username: "anina.gepp"
+  - username: "annedubndidu"
     fullname: >-
-      Anina 🦋
+      Anne&Dubndidu 🍍 #DubndiduCrew
     bio: >-
-      ☼ gesund, bewusst & im Moment leben ☼ sharing my passion for yoga, poems & food ☼ yoga teacher & author📍Tenerife ☼ Januar-Retreat - jetzt anmelden ⇣
+      🌈Founder of @dubndiduatelier 🏃🏼‍♀️Sports & Outdoor Enthusiast🌍 💦Personal trainer & Yoga teacher🧘🏼‍♀️ 📝Content creator 🤜🏼Active Feminist 🍃Veggie Woman
     location: "Switzerland"
-    followers: 98250
-    engagement: 249
-    commentsToLikes: 0.034483
-    id: ck0vyo0mf4y1v0i19m1bn9fbo
+    followers: 147202
+    engagement: 490
+    commentsToLikes: 0.022535
+    id: ck0w09cr5d1ph0i19tpjjgusi
+    verified: true
+    hashtags: "#livcycling, #exploreperfection, #veloderoute, #trailrunning"
+  - username: "melalelou"
+    fullname: >-
+      MEL | Lyrics Artworks 🎶
+    bio: >-
+      🇨🇭 Art Director ※ 🎶🌴🏋🏼‍♀️✏️🎨💓 🧘🏻‍♀️ drawing letters is my yoga 🎨 Creative head @the.jessos
+    location: "Switzerland"
+    followers: 3152
+    engagement: 572
+    commentsToLikes: 0.050684
+    id: ck9wel2b8kqq10j78bz74lvez
     verified: false
-    hashtags: "#gl, #selbstf, #bewusstleben, #gutertag"
+    hashtags: "#sketch, #garrix, #stmpdrcrdsartwork, #lyricsnletters"
+  - username: "jeannette.ruh_"
+    fullname: >-
+      J E A N N E T T E  R U H
+    bio: >-
+      ⋉ natürlich gesund ☾ basische Ernährung ⋒ ebv recovery ⋔ doTERRA Beraterin und Businessaufbau ⋉ Numerologie 6/33 @the_numerologista ⋋ 500h yoga tt
+    location: "Switzerland"
+    followers: 25292
+    engagement: 88
+    commentsToLikes: 0.071086
+    id: ck5hk9z6ni1tm0i11pl6v05aa
+    verified: false
+    hashtags: "#vegan, #solchetage, #foodphotography, #food"
+  - username: "_sylwina_"
+    fullname: >-
+      Sylwina
+    bio: >-
+      Moderatorin & #sichtbar Macherin 🤍 Jiu Jitsu 🔵 | Yoga 🧘‍♀️ | Health Nerd 🧠 Life in Zurich, Switzerland 🇨🇭
+    location: "Switzerland"
+    followers: 52420
+    engagement: 4
+    commentsToLikes: 0.000962
+    id: ck136j3aa6qkj0i19oo5v1ydz
+    verified: false
+    hashtags: "#bodycompositionanalysis, #greencurry, #bluebelt, #jiujitsu"
   - username: "_tamayoga"
     fullname: >-
       Tam | Wellness and Yoga
@@ -42,19 +78,7 @@ profiles:
     commentsToLikes: 0.098794
     id: ck5zoznc1rp4w0i14wjljzi0q
     verified: false
-    hashtags: "#getaway, #positivity, #sun, #happy"
-  - username: "chloe_sillieres"
-    fullname: >-
-      Chloé Sillieres
-    bio: >-
-      ☽ Since 1998 ❆ Snowboarder ღ Yoga teacher (RYT) @kloe_yoga ✩ World traveler, Life lover ↬ @mckoutdoorexperiences
-    location: "Switzerland"
-    followers: 6432
-    engagement: 425
-    commentsToLikes: 0.038580
-    id: ck6u7ujkxnq5v0j71cso5ggke
-    verified: false
-    hashtags: "#ridingisthereason, #rideonjake, #nobadtrips, #swipeleft"
+    hashtags: "#smiles, #weekendgetaway, #zurich, #nature"
   - username: "maria_nathan2008"
     fullname: >-
       Maria Mosso
@@ -79,52 +103,28 @@ profiles:
     id: ck137jug6bwly0i19bkgwqwvp
     verified: false
     hashtags: "#backyarddropzone, #sunset, #skydive"
-  - username: "majus.k"
+  - username: "yogabylarissa"
     fullname: >-
-      HeavenlYoga
+      Y O G A  B Y  L A R I S S A  🜁
     bio: >-
-      
+      ⌇ t e a c h e r ⌇ c r e a t o r 🜄 z u g
     location: "Switzerland"
-    followers: 11548
-    engagement: 982
-    commentsToLikes: 0.013588
-    id: ck14k2g2jne9e0i196bkciktq
+    followers: 109181
+    engagement: 215
+    commentsToLikes: 0.023695
+    id: clin42gdwfo210j08dw3u9y8g
     verified: false
-    hashtags: "#insta, #slovakgirl, #inspiration, #photooftheday"
-  - username: "fabiohayoz"
+    hashtags: "#meditation, #yogi, #yogazurich, #heartopener"
+  - username: "tobias.bolliger"
     fullname: >-
-      Fabio Hayoz
+      Tobias Bolliger
     bio: >-
-      🥇SNBF 2018 Swiss-Champion 📍CH🇨🇭 🏢 @hf.werbetechnik 💪 @coach__bruno ❤️ @jasmine.gsell ‼️SPONSORED BY‼️ @extrifitschweiz - Fabio10 @autocenterhalten
+      🇨🇭Handstands, Breakdance, Acrobatics, Calisthenics, Gymnastics, Tutorials, Movement - I like to move it!😊
     location: "Switzerland"
-    followers: 10459
-    engagement: 290
-    commentsToLikes: 0.029399
-    id: ck8svr3moce3r0j78a3lf79cp
+    followers: 205444
+    engagement: 357
+    commentsToLikes: 0.019039
+    id: ckaosn6kts7130i78r498tyos
     verified: false
-    hashtags: "#yoga, #photooftheday, #fitnessathlete, #fitfam"
-  - username: "eddymarkaj"
-    fullname: >-
-      Eddy Markaj | BBoy | Travel
-    bio: >-
-      | Organizer of #DPCJam | BBoy at @d.point.c | Founder and Teacher @dpcacademy | 🤍 @bergitamarper | Engineer & Architect @bhochegu
-    location: "Switzerland"
-    followers: 35802
-    engagement: 164
-    commentsToLikes: 0.024423
-    id: ck5catsj5e48w0i11t17d3eey
-    verified: false
-    hashtags: "#myswitzerland, #switzerland, #zurich, #galaxys20fe"
-  - username: "luviyo"
-    fullname: >-
-      L U V I Y O
-    bio: >-
-      🧘‍♀️ Premium 𝐘𝐨𝐠𝐚 𝐌𝐚𝐭𝐬 & 𝐀𝐜𝐜𝐞𝐬𝐬𝐨𝐫𝐢𝐞𝐬 🌿 Eco-Friendly, Natural Rubber, Non Slip 📦 We ship EU - Wide 🐘 We donate 10% for elephants in need
-    location: "Switzerland"
-    followers: 46979
-    engagement: 65
-    commentsToLikes: 0.073332
-    id: ck8tc4pi9ya0t0j7897zq68re
-    verified: false
-    hashtags: "#mindset, #travelmat, #yogaatthebeach, #iloveyoga"
+    hashtags: "#handstand, #gymnastics, #handstandlove, #calisthenicsworkout"
 ---

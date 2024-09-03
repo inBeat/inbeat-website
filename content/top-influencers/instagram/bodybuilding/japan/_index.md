@@ -1,12 +1,60 @@
 ---
-title: Top 10 Bodybuilding Instagram Influencers In Japan In 2023
+title: Top 10 Bodybuilding Instagram Influencers In Japan In 2024
 description: >-
-  Find top bodybuilding Instagram influencers in Japan in 2023. Most popular hashtags: #bodybuilding #fitness #workout #gym.
+  Find top bodybuilding Instagram influencers in Japan in 2024. Most popular hashtags: #bodybuilding #fitness #gym #workout.
 platform: Instagram
-hits: 13
-text_top: Discover the most popular Instagram profiles on inBeat.
-text_bottom: Our database has 13 Instagram influencers like this in Japan for you to connect with.
+hits: 18
+text_top: Discover the top-rated Instagram profiles on inBeat.
+text_bottom: Our database aggregates 18 Instagram influencers like this in Japan for you to pitch.
 profiles:
+  - username: "leohazzzard"
+    fullname: >-
+      Levon Hovhannisyan
+    bio: >-
+      🔴 Classic Bodybuilding Overall Champion (IFBB) 🔴 The Best Person Of The Year 🔴 Fitness Guru & The Game Changer
+    location: "Japan"
+    followers: 31765
+    engagement: 243
+    commentsToLikes: 0.036846
+    id: ck6ueb320pvn40j71a1xhc34x
+    verified: false
+    hashtags: ""
+  - username: "popaisekine"
+    fullname: >-
+      IFBB PRO Joji Sekine ポパイ関根
+    bio: >-
+      みんなポパイにしちゃうよ 🇯🇵Bodybuilder 🏋️Personal trainer 👕@popaiday オリジナルアパレル 💊iherb code【NNW512】
+    location: "Japan"
+    followers: 58076
+    engagement: 523
+    commentsToLikes: 0.008738
+    id: ck5qcep11q7440i11b8kd0xgp
+    verified: false
+    hashtags: "#herogym, #fitness, #bodybuilding, #work"
+  - username: "aesthetic_ys"
+    fullname: >-
+      Yuki Sorci
+    bio: >-
+      ◽️CEO @evolifeapparel ◾️USBB All Japan Mens Physique Overall🏆 ◽️Fmr Pro MMA Fighter👊🏼 ◾️Trader📈 🔹@vqfit 🔹@yavalabs.official 🔹@mycookiedealer
+    location: "Japan"
+    followers: 347088
+    engagement: 247
+    commentsToLikes: 0.004277
+    id: ck5qcepneq7670i11a2jqf9am
+    verified: false
+    hashtags: "#pt, #fitspo, #muscle, #tokyo"
+  - username: "jordanyeohfitness"
+    fullname: >-
+      Jordan Yeoh
+    bio: >-
+      Fitness Made Simple FB: 8M | YT: 3.8M 🙏 Download my training APP here 👇
+    location: "Japan"
+    followers: 1250361
+    engagement: 116
+    commentsToLikes: 0.000508
+    id: ck0w05rumcih70i198g619l9t
+    verified: true
+    hashtags: "#bodybuilding, #homeworkout, #fitness, #trainwithjordanapp"
   - username: "tarokenful1"
     fullname: >-
       Kentaro Kuramochi
@@ -79,52 +127,4 @@ profiles:
     id: ck0w0g840e1dk0i19u73nwpqk
     verified: false
     hashtags: "#fitness, #functionaltraining, #spartanracejp, #teddysbonds"
-  - username: "nanafujna1"
-    fullname: >-
-      
-    bio: >-
-      ファッション、コスメ、美容、スポーツ好き😍雑誌、TV 、Web、Instagram等お仕事頂き感謝してます。出逢いを大切にしてます。お気軽にフォロー、コメントよろしくお願いします☺️
-    location: "Japan"
-    followers: 27738
-    engagement: 362
-    commentsToLikes: 0.119066
-    id: ck5zsd79iya5z0i14o6h05q1q
-    verified: false
-    hashtags: "#ponte, #40, #fashiongram, #fashion"
-  - username: "megugumigumi"
-    fullname: >-
-      羽瀬萌はせめぐむ
-    bio: >-
-      羽瀬萌【はせめぐむ】 ′20#カロッツェリアサポートガール ‘20#美食女子 ‘19’20#チャンピオンガール ‪’19SGT#auサーキットクイーン 東京/管理栄養士/モデル/❤️グミ、読書/料理/旅行★twitter★@hasemegu01231 お仕事依頼はDM✉️で😁#うさまる
-    location: "Japan"
-    followers: 30218
-    engagement: 388
-    commentsToLikes: 0.022361
-    id: ck14gdyjq4qhc0i192n0ncq8k
-    verified: false
-    hashtags: "#pr, #superformula, #kcmg, #carrozzeriateamkcmg"
-  - username: "felix.turem"
-    fullname: >-
-      Felix Turem
-    bio: >-
-      👋 Cypriot/Japanese 🤙 From sydney 👊 Love muay thai 👌 Travel for growth 👉 Model for work ✌ Pursuit of happiness 📍 Palawan 🎬 Reco modeling
-    location: "Japan"
-    followers: 9402
-    engagement: 744
-    commentsToLikes: 0.017972
-    id: ck134iekiwkuh0i19uagdb429
-    verified: false
-    hashtags: "#tribal, #beautiful, #outdoors, #eurasian"
-  - username: "mana.amanda"
-    fullname: >-
-      MANA_official
-    bio: >-
-      ▫️CEO & gym owner💪 ▫️IFBB Pro league judge 👙 ▫️Team Pro Tan® @vqfit athlete👚 ▫️NPC Bikini LA CAMP🎖🇺🇸 @mjdiva_apparel
-    location: "Japan"
-    followers: 63472
-    engagement: 335
-    commentsToLikes: 0.009766
-    id: ck5hopyiwq0gw0i1112z6185o
-    verified: false
-    hashtags: "#americanstyle, #bootyworkout, #gymgirl, #booty"
 ---

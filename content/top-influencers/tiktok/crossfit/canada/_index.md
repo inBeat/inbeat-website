@@ -1,11 +1,11 @@
 ---
-title: Top 10 Crossfit TikTok Influencers In Canada In 2023
+title: Top 10 Crossfit TikTok Influencers In Canada In 2024
 description: >-
-  Find top crossfit TikTok influencers in Canada in 2023. Most popular hashtags: #crossfit #fyp #foryou #fitness.
+  Find top crossfit TikTok influencers in Canada in 2024. Most popular hashtags: #crossfit #fyp #foryou #fitness.
 platform: TikTok
-hits: 13
-text_top: Identify the most popular TikTok influencers on inBeat.
-text_bottom: Our platform holds 13 TikTok influencers like this in Canada for you to pitch.
+hits: 14
+text_top: Analyze the best TikTok profiles on inBeat.
+text_bottom: Our platform aggregates 14 TikTok influencers like this in Canada for you to connect with.
 profiles:
   - username: "alexxmont"
     fullname: >-
@@ -23,11 +23,11 @@ profiles:
     fullname: >-
       Eric Thibault
     bio: >-
-      Snap👻 thunderbutt666 Email 2fastthibault@gmail.com 18🇨🇦
+      Snap👻 thunderbutt666 Email 2fastthibault@gmail.com 18🇨🇦 ⬛️🟧
     location: "Canada"
-    followers: 26700
-    engagement: 1261
-    commentsToLikes: 0.024951
+    followers: 26400
+    engagement: 1176
+    commentsToLikes: 0.031694
     id: ckcpubrx3pdqr0j234nj2myia
     verified: false
     hashtags: "#xyzbca, #crossfit, #fyp, #duet"
@@ -54,7 +54,7 @@ profiles:
     commentsToLikes: 0.053048
     id: ckcpu43wnp1010j23k8qt2ymf
     verified: false
-    hashtags: "#summer2020, #crossfit, #body, #balance"
+    hashtags: "#musclegirl, #love, #legday, #abworkout"
   - username: "supersingh1crossfitter"
     fullname: >-
       Super Singh 
@@ -90,7 +90,7 @@ profiles:
     commentsToLikes: 0.085221
     id: ck8hphkjazhze0j78slf7i6rc
     verified: false
-    hashtags: "#fyp, #tiktoktravel, #gymnastics, #mykonos"
+    hashtags: "#japan, #fyp, #sunset, #travel"
   - username: "struckbyluck"
     fullname: >-
       Luc H.

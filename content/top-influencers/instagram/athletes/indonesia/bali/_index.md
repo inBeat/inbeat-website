@@ -1,12 +1,36 @@
 ---
-title: Top 10 Athletes Instagram Influencers In Bali In 2023
+title: Top 10 Athletes Instagram Influencers In Bali In 2024
 description: >-
-  Find top athletes Instagram influencers in Bali in 2023. Most popular hashtags: #bali #fit #workout #indonesia.
+  Find top athletes Instagram influencers in Bali in 2024. Most popular hashtags: #bali #indonesia #canggu #baliindonesia.
 platform: Instagram
-hits: 16
-text_top: See the most popular Instagram influencers on inBeat.
-text_bottom: inBeat aggregates 16 Instagram influencers like this in Bali, Indonesia for you to work with.
+hits: 14
+text_top: Analyze the best Instagram influencers on inBeat.
+text_bottom: inBeat aggregates 14 Instagram influencers like this in Bali, Indonesia for you to connect with.
 profiles:
+  - username: "bobbyida"
+    fullname: >-
+      ⏩2Ninefit Indonesia⏪
+    bio: >-
+      Youtube 🇮🇩 2NINEFIT INDONESIA 🇮🇩 Model / Athlete / Content Creator ANS Performance Athlete Bali | Indonesia Inspire 🔥 | Motivate 🚀 | Transform 🔁
+    location: "Indonesia"
+    followers: 562616
+    engagement: 168
+    commentsToLikes: 0.040239
+    id: ck5zkkpwyjno50i14s7rwxzhi
+    verified: true
+    hashtags: "#beratbadanideal, #tipsfitness, #turunbb, #makanandiet"
+  - username: "toniwiththetats"
+    fullname: >-
+      Toni Mosche-Callahan
+    bio: >-
+      creatives head • photographer • trans athlete 22 • Bali 🔜 NYC/NJ taking L’s so you don’t have to x 🩶
+    location: "Indonesia"
+    followers: 10161
+    engagement: 115
+    commentsToLikes: 0.059238
+    id: ck5c2gdqwx7i50i11r8a3o8a0
+    verified: false
+    hashtags: "#reels, #indonesia, #bali, #balifitness"
   - username: "lerby12"
     fullname: >-
       Lerby eliandry pong babu
@@ -19,6 +43,42 @@ profiles:
     id: ck5cedoi9ktto0i11nn2pyg97
     verified: false
     hashtags: "#bluetooth, #halamadrid, #familytime, #myfamily"
+  - username: "taniarasidi"
+    fullname: >-
+      Tania Rasidi
+    bio: >-
+      You get served what you deserve Business: rasiditania@gmail.com 📍@pebasketkembar
+    location: "Indonesia"
+    followers: 8090
+    engagement: 592
+    commentsToLikes: 0.015753
+    id: ck6tjfcq92lys0j71qmt351nb
+    verified: false
+    hashtags: "#generasitrading, #fbstrade, #twins, #copytrade"
+  - username: "arlenws"
+    fullname: >-
+      Arie Febrian Hutajulu
+    bio: >-
+      @fortis.calisthenics Athlete @reebokindonesia Philippians 4 : 13 Calisthenics
+    location: "Indonesia"
+    followers: 10881
+    engagement: 809
+    commentsToLikes: 0.040693
+    id: ck5hks2bkiyms0i11jpehatcy
+    verified: false
+    hashtags: "#fortiscalisthenics, #teammass, #teammuscletech, #teammuscletechindonesia"
+  - username: "xtinmilan"
+    fullname: >-
+      Christin Wijaya
+    bio: >-
+      Triathlete | Ultra Endurance Athlete l i 🖤 sports (lg suka gunung) Mom of Milan & 5 of 🐱#xtinmilan @cannondale.id @wahoofitness.id @ @oakley
+    location: "Indonesia"
+    followers: 20879
+    engagement: 166
+    commentsToLikes: 0.097473
+    id: ck5q87wwv4v2i0i11xfedvjy3
+    verified: false
+    hashtags: "#elevaterope, #mommystrong, #momlife, #mom"
   - username: "hijrah_bara"
     fullname: >-
       hijrah bara
@@ -31,90 +91,6 @@ profiles:
     id: ckaounl5d11yo0i78ozdy9amh
     verified: false
     hashtags: "#sahabatbening, #beningsekarang, #skintreatment, #oaseindonesia1212"
-  - username: "x.t.i.n_m.i.l.a.n"
-    fullname: >-
-      Christin Wijaya
-    bio: >-
-      Triathlete | Ultra Endurance Athlete Mom of Milan #xtinmilan BA of @cannondale.id @wahoofitness.id @proactionbikes @oakley
-    location: "Indonesia"
-    followers: 12990
-    engagement: 294
-    commentsToLikes: 0.115628
-    id: ck5q87wwv4v2i0i11xfedvjy3
-    verified: false
-    hashtags: "#xtinmilan, #gakrecehgakasik, #gowes, #jumpropeworkout"
-  - username: "danielvertiz"
-    fullname: >-
-      Daniel Vertiz | Bali
-    bio: >-
-      Photographer, athlete, adventure seeker My handmade jewelry @almiawithlove Follow along as I share my life and stories through my photos
-    location: "Indonesia"
-    followers: 32882
-    engagement: 273
-    commentsToLikes: 0.020901
-    id: ck0u19ferw5uu0i192qw551fb
-    verified: false
-    hashtags: "#worldviewmag, #portraitfestival, #travel, #dreamermagazine"
-  - username: "nicolasiong"
-    fullname: >-
-      Nicolas Iong Lee 🇰🇷🇨🇭
-    bio: >-
-      📍Bali 🏝🇮🇩 🏆1 x MM® World Champion 🏆2 x MM® Europe Champion ◽️Ambassador @boohoomanofficial ◽️Athlete @ehplabs
-    location: "Indonesia"
-    followers: 770877
-    engagement: 218
-    commentsToLikes: 0.007200
-    id: ck13aaerrpf6d0i1928vu3lf5
-    verified: false
-    hashtags: "#life, #workout, #bali, #ehplabs"
-  - username: "teponisius"
-    fullname: >-
-      Teguh Priyanton
-    bio: >-
-      CEO Athlete Pansos! #Tepokepo #Tepoinfo Purwokerto, Indonesia ✉ Teponisius@gmail.com
-    location: "Indonesia"
-    followers: 9658
-    engagement: 332
-    commentsToLikes: 0.068181
-    id: ckap05a16ot270i78satc83rl
-    verified: false
-    hashtags: "#shootfilmeveryday, #shootfilmmag, #hellofrom, #diindonesiaaja"
-  - username: "bobbyida"
-    fullname: >-
-      ⏩2Ninefit Indonesia⏪
-    bio: >-
-      Indonesian Fitness Youtuber 🇮🇩 Model / IFBB Athlete / Content Creator ANS Performance Athlete WALKING ON WATER 🌊 MAT 14:22-33 🙏 Bali | Indonesia
-    location: "Indonesia"
-    followers: 270989
-    engagement: 186
-    commentsToLikes: 0.013609
-    id: ck5zkkpwyjno50i14s7rwxzhi
-    verified: true
-    hashtags: "#suamiistri, #asians, #fam, #dirumahaja"
-  - username: "emilianovanv"
-    fullname: >-
-      Emilia Nova
-    bio: >-
-      🥇 Sea Games 2019 🥈Asian Games 2018 🥈Sea Games 2017 National 🇮🇩 Record Holder of Heptathlon|100m Hurdles Nike Athlete Endorsement/CP: +6281310443732
-    location: "Indonesia"
-    followers: 21310
-    engagement: 622
-    commentsToLikes: 0.009015
-    id: ck6u36au3vz3j0j711okry650
-    verified: false
-    hashtags: "#nikewomen, #hurdler, #fit, #bali"
-  - username: "axelschura"
-    fullname: >-
-      Axel Schurawlow 🥑
-    bio: >-
-      Mindset | Health | Nutrition 🌱@vivolife Athlete CODE “SHMONKEY“ 🎶 JOIN 340 000 ON TIKTOK! 📸 Youtube/axelschura 🎙 Podcast 📍 Bali - All my channels👇
-    location: "Indonesia"
-    followers: 28434
-    engagement: 370
-    commentsToLikes: 0.041371
-    id: ck0ttg7i12ksr0i195fpjvruy
-    verified: false
-    hashtags: "#dairy, #vegansofig, #vegangains, #fitfam"
   - username: "danielhasulyo"
     fullname: >-
       Daniel Hasulyo
@@ -127,4 +103,28 @@ profiles:
     id: ck0u8luc37p6a0i19jiynfink
     verified: false
     hashtags: "#timotrunks, #danielhasulyo, #canggu, #bali"
+  - username: "karinamanik"
+    fullname: >-
+      A.A.Istri Karina Manik S.Sn
+    bio: >-
+      🇲🇨 Miss Universe Indonesia favorite 2011 🇲🇨 Miss Bali 2011 🇲🇨 3RU Miss Harmony World2017 @theavocadofactory @bb52burgers @hippiefishbali @theshadypig
+    location: "Indonesia"
+    followers: 32367
+    engagement: 217
+    commentsToLikes: 0.012883
+    id: ck0w1ekbaiy730i1988s3qbd1
+    verified: false
+    hashtags: "#success, #bali, #stage, #island"
+  - username: "simi.kowalski"
+    fullname: >-
+      SIMIKOWALSKI
+    bio: >-
+      🌈🦋🦁 EQUALITY #keepshining Model |Artist | Actor | Former Athlete | TV- Face | Yoga-Teacher 🔥 collab: 📧simikowalski44@gmail.com
+    location: "Indonesia"
+    followers: 176756
+    engagement: 370
+    commentsToLikes: 0.011450
+    id: ck5c3vy9l05s70i11m4z99p4e
+    verified: true
+    hashtags: "#movement, #moveyourbody, #awareness, #si90dayschallenge"
 ---

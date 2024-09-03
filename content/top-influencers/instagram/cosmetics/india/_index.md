@@ -1,130 +1,130 @@
 ---
-title: Top 10 Cosmetics Instagram Influencers In India In 2023
+title: Top 10 Cosmetics Instagram Influencers In India In 2024
 description: >-
-  Find top cosmetics Instagram influencers in India in 2023. Most popular hashtags: #makeup #beauty #hudabeauty #reels.
+  Find top cosmetics Instagram influencers in India in 2024. Most popular hashtags: #love #makeuptutorial #makeup #instagood.
 platform: Instagram
-hits: 147
-text_top: Discover the top-rated Instagram accounts on inBeat.
-text_bottom: Our search engine has 147 Instagram influencers like this in India for you to collaborate.
+hits: 179
+text_top: Identify the most popular Instagram profiles on inBeat.
+text_bottom: inBeat holds 179 Instagram influencers like this in India for you to pitch.
 profiles:
-  - username: "mendywhitehair"
+  - username: "janvimendirattaa"
     fullname: >-
-      ↠MENDY WITHAAR↞ HAIR 'ND MUA
+      Janvi Mendiratta| Makeup Artist and Educator
     bio: >-
-      Owner of @whitehaircreations Beauty content creator ×Commercial ×Film ×Photo ×Wedding | Ambassadrice of @finnleys @remington.benelux @pune_cosmetics
+      Celebrity Makeup Artist, Educator Studio & Academy @m3makeupartistry Cosmetic brand @m3luxecosmetics Learning never ends 📍Delhi Works 🌎
     location: "India"
-    followers: 17526
-    engagement: 222
-    commentsToLikes: 0.206399
-    id: ck55mjdkv43dh0i11nnhpc9ls
+    followers: 13086
+    engagement: 638
+    commentsToLikes: 0.048370
+    id: ckmw1d74z6jmx0j234mloc7dw
     verified: false
-    hashtags: "#ladyboss, #leukstebaanvannederland, #setwork, #remingtonbenelux"
-  - username: "ashish_rughoobur"
+    hashtags: "#photography, #success, #motivation, #selflove"
+  - username: "junaid__rehman"
     fullname: >-
-      Ashish Rughoobur | Barbie
+      Ahammed Junaid MA
     bio: >-
-      💄Makeup artist - M•A•C Cosmetics Indian Ocean 🇲🇺Mauritian 🌴 👢Fashion enthusiast, beauty & lifestyle 🌀L’Occitane En Provence Ambassador
+      📖 ▶️….🚼 🇮🇳 🇦🇪 🇴🇲 🇸🇦 🪦….⏹ @jr_cosmeticss
     location: "India"
-    followers: 9739
-    engagement: 599
-    commentsToLikes: 0.014412
-    id: ck6toynzkgucf0j71ympulsog
+    followers: 159150
+    engagement: 1282
+    commentsToLikes: 0.009042
+    id: ck9wg54jdrxro0j78hnzr82bp
     verified: false
-    hashtags: "#backstageawards2020, #mauritius, #maccosmeticsmauritius, #hedevil"
-  - username: "makeupwithjah"
+    hashtags: "#newtojrfam, #alhamdulillah, #royalwedding, #groom"
+  - username: "basheer_bashi"
     fullname: >-
-      Makeup Artist and Educator
+      Basheer Bashi
     bio: >-
-      NO DMs for bookings 👩‍🎨 @jahmakeupstudio my studio @jahcosmetics_ to buy cosmetics Email for bookings: Info@makeupwithjah.com Sydney AU📍
+      Bigg Boss Malayalam S - 1 @bb1988_cosmetics , @bb1988__stepintostyle 🛍️ @basheer_bashi_productions 🎥🎬 Director Of BBGOC PVT LTD 1.12M On YouTube
     location: "India"
-    followers: 420707
-    engagement: 134
-    commentsToLikes: 0.014326
-    id: ck13abtc6pmjs0i192tckyowj
-    verified: false
-    hashtags: "#cutcrease, #clientelepalette, #hudabeauty, #makeup"
-  - username: "megha_sidharth"
-    fullname: >-
-      Megha Sidharth
-    bio: >-
-      Fashion.Fitness.Travel Cosmetic dentist #bangalorebloggers DM for paid collaboration or mail me at drmeghasmiles@gmail.com
-    location: "India"
-    followers: 84510
-    engagement: 80
-    commentsToLikes: 0.083551
-    id: ck9wft9yoqfvl0j784vrjgwoo
-    verified: false
-    hashtags: "#outfitoftheday, #whatiwore, #reelsindia, #outfitinspo"
-  - username: "lilrocket"
-    fullname: >-
-      NAVREET JOSAN
-    bio: >-
-      India’s 1st IFBB Fitness Bikini Pro National Artist,MAC Cosmetics India @reet.makeup
-    location: "India"
-    followers: 84704
-    engagement: 132
-    commentsToLikes: 0.050039
-    id: ck6tyb3l52p3c0j717nowjsd7
+    followers: 623654
+    engagement: 344
+    commentsToLikes: 0.004564
+    id: ck8t38bob2ao30j78badizgzu
     verified: true
-    hashtags: "#purenutrition, #cvit, #shotoniphone, #womensday2021"
-  - username: "natasha.moor"
+    hashtags: "#comedy, #webseries, #bb1988cosmetics, #skincream"
+  - username: "srishtinagpalmua"
     fullname: >-
-      Natasha Moor
+      Srishti Nagpal | Makeup Artist
     bio: >-
-      Award Winning Make Up Artist & Cosmetic Innovator || Chief Empowerment Officer & Founder of @natashamoorcosmetics available on @sephora SEA & @macys💋
+      💄Professional Makeup artist•educator 👗Lifestyle•beauty•cosmetics 🏆WINNER OF @gksd2.0 📍Dm or mail for bookings/PR/collaboration/class 🌎FREELANCER
     location: "India"
-    followers: 78865
-    engagement: 69
-    commentsToLikes: 0.058859
-    id: ck0tw29ncdpj80i198srpy9wn
+    followers: 182342
+    engagement: 336
+    commentsToLikes: 0.076489
+    id: ckto9ujwhf07a0j23xplwus5o
+    verified: false
+    hashtags: "#bridalmakeupartist, #engagementbride, #snmbride, #bridalmakeupandhair"
+  - username: "minas_secrets"
+    fullname: >-
+      Maacha Amina
+    bio: >-
+      Founder of @minyas_cosmetics Phytothérapeute 🌿 & Cosmétologue 🧪
+    location: "India"
+    followers: 434408
+    engagement: 316
+    commentsToLikes: 0.019962
+    id: ck15sbha5c61z0i1947ryn5ya
+    verified: false
+    hashtags: "#hijabfashion, #blogger, #algerienne, #hijab"
+  - username: "charvi.patil"
+    fullname: >-
+      𝐂𝐇𝐀𝐑𝐕𝐈 𝐏𝐀𝐓𝐈𝐋
+    bio: >-
+      𝐶𝑜𝑛𝑡𝑒𝑛𝑡 𝐶𝑟𝑒𝑎𝑡𝑜𝑟 📸 | 𝐵𝑟𝑖𝑑𝑎𝑙 𝑀𝑎𝑘𝑒𝑢𝑝 𝐴𝑟𝑡𝑖𝑠𝑡 🧿 Collab : DM/Email-makeupbycharvi@gmail.com Owner @charvi.cosmetics @theluxury_nail
+    location: "India"
+    followers: 100227
+    engagement: 190
+    commentsToLikes: 0.054310
+    id: ckaos4oahq2ls0i78x6ulqzof
+    verified: false
+    hashtags: "#makeupreels, #purpleeyemakeup, #smokeyliner, #makeupdummy"
+  - username: "shalushamu"
+    fullname: >-
+      ❣️ ஷாலு ஷம்மு ❣️
+    bio: >-
+      ⚡️Executive Director @suhaacosmeticclinic @suhaa_cosmetic_clinic_studio Vvs, Thegidi, Tn1a, Thirutupayaley 2, Mr.local, TT DM for Paid COLLAB &Events
+    location: "India"
+    followers: 906982
+    engagement: 155
+    commentsToLikes: 0.005610
+    id: ck0vvk8e8pi240i19ykb6o8t6
+    verified: false
+    hashtags: "#candid, #theme, #suhaacosmeticclinic, #black"
+  - username: "sunnyleone"
+    fullname: >-
+      Sunny Leone
+    bio: >-
+      Owner of StarStruck Cosmetics ! @starstruckbysl and much more 🙃 No time to DM, inquiries- connect@suncityent.com
+    location: "India"
+    followers: 56181262
+    engagement: 44
+    commentsToLikes: 0.006563
+    id: ck0tyfuf4mn070i1964x0k3ro
     verified: true
-    hashtags: "#moorthanmakeup, #moorpower, #cosmetics, #beauty"
-  - username: "atiqahhasiholan"
+    hashtags: "#exsqueezemeplease, #mtvsplitsvilla, #quotationgang, #sunnyleone"
+  - username: "valaaribyinnayat"
     fullname: >-
-      atiqah hasiholan
+      MAKEUP ARTIST | INNAYAT TREHAN
     bio: >-
-      Actress UNAIDS Indonesia Goodwill Ambassador VENUS COSMETIC Brand Ambassador a short film - POSI(+)IF by Atiqah Hasiholan 👇
+      International Makeup Artist Cosmetic Innovator & Educator🇮🇳|🇳🇿 Delhi/Available Worldwide🌍 Delhi Master-Course: 20th-25th May For bookings DM/Whatsapp
     location: "India"
-    followers: 2125458
-    engagement: 66
-    commentsToLikes: 0.004740
-    id: ck6tnso3bahuk0j71bj195yxy
-    verified: true
-    hashtags: "#banggabuatanindonesia, #bts, #whiterajah, #budayasaya"
-  - username: "dr.poorvashah"
-    fullname: >-
-      Dr. Poorva Shah
-    bio: >-
-      Cosmetic Dermatologist | Kathak Dancer | Classical singer | YouTuber | Reader | Seeker | Food lover | Traveller Use this life to make a difference !
-    location: "India"
-    followers: 10882
-    engagement: 348
-    commentsToLikes: 0.031050
-    id: ck9wfwo2hqu3r0j78mpxflmcu
+    followers: 56996
+    engagement: 36
+    commentsToLikes: 0.052184
+    id: ckto9ui6mey790j23qt50w7re
     verified: false
-    hashtags: "#drpoorvashah, #dermatologist, #dermacentre, #feelitreelit"
-  - username: "paragon.id"
+    hashtags: "#luxuryweddinga, #delhimua, #partylook, #valaaribride"
+  - username: "mehakkawatramakeupartist"
     fullname: >-
-      Paragon Tech. and Innovation
+      𝐌𝐄𝐇𝐀𝐊 𝐊𝐀𝐖𝐀𝐓𝐑𝐀
     bio: >-
-      Paragon Technology and Innovation is the company behind the largest national skin care & cosmetics brands Wardah, Make Over, Emina, Putri, and Kahf
+      Makeup | Academy | Mehba Cosmetics Pro Course 👉 MAR 27th (4 weeks) Self Course 👉 MAR 21,22,23 Mehak Kawatra📱8906777770 Studio📱9145377777 Ludhiana
     location: "India"
-    followers: 69822
-    engagement: 100
-    commentsToLikes: 0.005109
-    id: ck5qa06ridw550i112ko4bth9
+    followers: 692066
+    engagement: 18
+    commentsToLikes: 0.039350
+    id: ckv3qh2iuyr8n0j23v9jdxej0
     verified: false
-    hashtags: "#paragonsalingjaga, #innovateforthegreatergood, #penggerakkebaikan, #paratalk"
-  - username: "baemiya__"
-    fullname: >-
-      Maleeha Mehboob💫
-    bio: >-
-      Mua 🎨 Dm for Pr/collaboration ⚡️ All about fashion, makeup and skin care 💯 Your one stop simplest fashion blog 🌍 Islamabad 🇵🇰
-    location: "India"
-    followers: 9373
-    engagement: 332
-    commentsToLikes: 0.386472
-    id: ck9wgj2bvtnfx0j78sd1x8fwn
-    verified: false
-    hashtags: "#enticecosmetics, #skincare, #anastasiabeverlyhills, #fashionblogger"
+    hashtags: "#bestbridalmakeupartist, #mehakkawatramakeupartist, #engagementmakeuplook, #ludhianamakeupartist"
 ---

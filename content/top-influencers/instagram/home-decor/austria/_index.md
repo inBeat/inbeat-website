@@ -1,12 +1,36 @@
 ---
-title: Top 10 Home Decor Instagram Influencers In Austria In 2023
+title: Top 10 Home Decor Instagram Influencers In Austria In 2024
 description: >-
-  Find top home decor Instagram influencers in Austria in 2023. Most popular hashtags: #homedecor #interior #interiordesign #vienna.
+  Find top home decor Instagram influencers in Austria in 2024. Most popular hashtags: #homedecor #interiordesign #homesweethome #interior.
 platform: Instagram
 hits: 20
-text_top: See the best Instagram influencers on inBeat.
-text_bottom: Our database aggregates 20 Instagram influencers like this in Austria for you to work with.
+text_top: See the most popular Instagram profiles on inBeat.
+text_bottom: Our database has 20 Instagram influencers like this in Austria for you to contact.
 profiles:
+  - username: "seelensachen"
+    fullname: >-
+      Nora Mayrhofer-Kadlicz
+    bio: >-
+      🪴 HOMEDECOR INTERIOR FLOWERS & GARDEN 🪴 Fotografin und Interiorstylistin Autorin Patchworkfamilie | Landhaus | DIY & Tipps 🏡
+    location: "Austria"
+    followers: 29078
+    engagement: 309
+    commentsToLikes: 0.077508
+    id: ck0tt52zf16zv0i19sv8mgi16
+    verified: false
+    hashtags: "#landhausstyle, #seelensachenwohnzimmer, #landlust, #mycountryhome"
+  - username: "theflyingdress"
+    fullname: >-
+      Iris
+    bio: >-
+      📍 based in Vienna, Austria 👩🏼‍💻 Traveling with a full-time job 🌍 Inspo & Tips for Europe trips ⤵️ find more specific tips here
+    location: "Austria"
+    followers: 94497
+    engagement: 1114
+    commentsToLikes: 0.092408
+    id: ck0w74t5ibre20i19j6ddt4hi
+    verified: false
+    hashtags: "#christmas, #christmasdecor, #home, #weihnachten"
   - username: "valentina.layr"
     fullname: >-
       VALENTINA | Vintage heart 🤍
@@ -18,19 +42,7 @@ profiles:
     commentsToLikes: 0.067847
     id: ckap1tyjfw4w40i78ajfnglm9
     verified: false
-    hashtags: "#wien, #homedecor, #vienna, #flohmarktfund"
-  - username: "theflyingdress"
-    fullname: >-
-      Iris 🤍
-    bio: >-
-      🌍 life is short & the world is wide 💫 📍 based in Vienna, Austria 💌 theflyingdress@outlook.com
-    location: "Austria"
-    followers: 3667
-    engagement: 561
-    commentsToLikes: 0.117959
-    id: ck0w74t5ibre20i19j6ddt4hi
-    verified: false
-    hashtags: "#weihnachtszauber, #dubrovnikoldtown, #christmas, #weihnachten"
+    hashtags: "#wien, #homedecor, #vienna, #thriftrip"
   - username: "alesandrion.artist"
     fullname: >-
       ALESANDRION
@@ -42,7 +54,7 @@ profiles:
     commentsToLikes: 0.060867
     id: ck9hb692afkbf0j78xunto4ul
     verified: false
-    hashtags: "#mural, #pillows, #interiorblogger, #cushions"
+    hashtags: "#interiordecor, #homedecoration, #cushions, #scarf"
   - username: "dora_maria_satora"
     fullname: >-
       Dora Maria Satora
@@ -54,19 +66,7 @@ profiles:
     commentsToLikes: 0.025742
     id: ck8t7xg71iazp0j782a1yi8u4
     verified: false
-    hashtags: "#interiorinspo, #interior2you, #easterdecor, #kitchendesign"
-  - username: "heartblood"
-    fullname: >-
-      Raphaela Fuchs, MA
-    bio: >-
-      Vienna based Blogger Mail: raphaela@followaustria.management 🎤 Podcast: „Hart aber Herzlich“ 🎬 TikTok: Helloheartblood & Clubhouse: heartblood
-    location: "Austria"
-    followers: 44074
-    engagement: 171
-    commentsToLikes: 0.063570
-    id: ck8tcz88p191w0j780bgjf2gy
-    verified: false
-    hashtags: "#outfitinspo, #interior, #autumnoutfit, #fashioninspo"
+    hashtags: "#easter, #osterinspiration, #kitchendecor, #osterdeko"
   - username: "mysparklygreyhome"
     fullname: >-
       
@@ -85,12 +85,12 @@ profiles:
     bio: >-
       🖤 Kat - Métis Mama & Wife 🖤 Chasing around Vienna & Charley 🖤 Grade 2 Teacher
     location: "Austria"
-    followers: 10223
-    engagement: 524
-    commentsToLikes: 0.079958
+    followers: 10908
+    engagement: 484
+    commentsToLikes: 0.094417
     id: ck8tbw2hyxdeo0j788fmmtc2v
     verified: false
-    hashtags: "#winterwreath, #momtotwo, #momoftwo, #familyadventures"
+    hashtags: "#momoftwo, #fuzzyrug, #winterwreath, #giftideas"
   - username: "demets_life"
     fullname: >-
       𝒟𝑒𝓂𝑒𝓉
@@ -115,16 +115,16 @@ profiles:
     id: ckap12wmssw570i7883mymbjx
     verified: false
     hashtags: "#photooftheday, #momlife, #love, #myworld"
-  - username: "stefanie.cebis"
+  - username: "grilogang"
     fullname: >-
-      FASHION & INSPO 𝖻𝗒 𝖲𝗍𝖾𝖿𝖿𝗂
+      Nina Grilc
     bio: >-
-      austrian content creator 📸 social collabs: stefanie.cebis@gmx.at use #stefaniecebis
+      MG4EVR @grilo 🤍 @griloproduction @burton @burtoneurope @gopro @bmwslovenija @absolutpark @moonboot @triglavgroup @ikea.slovenija @larocheposay
     location: "Austria"
-    followers: 8591
-    engagement: 466
-    commentsToLikes: 0.102430
-    id: ckaoxuuazeure0i78m49ld09u
+    followers: 102013
+    engagement: 332
+    commentsToLikes: 0.015241
+    id: ck5q1b8oza5v00i115katkqqh
     verified: false
-    hashtags: "#enjoylife, #bikini, #outfitinspiration, #springvibes"
+    hashtags: "#burton, #griloforever, #rideon, #missyou"
 ---

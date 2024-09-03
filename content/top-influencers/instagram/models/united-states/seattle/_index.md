@@ -1,11 +1,11 @@
 ---
-title: Top 10 Models Instagram Influencers In Seattle In 2023
+title: Top 10 Models Instagram Influencers In Seattle In 2024
 description: >-
-  Find top models Instagram influencers in Seattle in 2023. Most popular hashtags: #model #seattle #pnwphotographer.
+  Find top models Instagram influencers in Seattle in 2024. Most popular hashtags: #model #seattle #pnw.
 platform: Instagram
-hits: 94
-text_top: Analyze the most popular Instagram profiles on inBeat.
-text_bottom: inBeat has 94 Instagram influencers like this in Seattle, United States for you to pitch.
+hits: 112
+text_top: Identify the best Instagram influencers on inBeat.
+text_bottom: Our platform has 112 Instagram influencers like this in Seattle, United States for you to collaborate.
 profiles:
   - username: "tcarstens09"
     fullname: >-
@@ -19,6 +19,18 @@ profiles:
     id: ckap758woiooh0i786ma66ros
     verified: false
     hashtags: "#halfdome, #nurse, #stayhome, #yosemite"
+  - username: "msshaylevine"
+    fullname: >-
+      Sʜᴀʏ Lᴇᴠɪɴᴇ
+    bio: >-
+      𝐂ᴏɴᴛᴇɴᴛ 𝐂ʀᴇᴀᴛᴏʀ-𝐈𝐧𝐟𝐥𝐮𝐞𝐧𝐜𝐞𝐫-𝐌𝐨𝐝𝐞𝐥-𝐃𝐚𝐧𝐜𝐞𝐫 ♡𝐒𝐨𝐜𝐢𝐚𝐥 𝐌𝐞𝐝𝐢𝐚 𝐌𝐚𝐧𝐚𝐠𝐞r-𝐈𝐧𝐟𝐥𝐮𝐞𝐧𝐜𝐞𝐫 𝐂𝐨𝐚𝐜𝐡𝐢𝐧𝐠 ♡𝐖ɴʙᴀ 𝐒ᴛᴏʀᴍ 𝐃ᴀɴᴄᴇ 𝐃ɪʀᴇᴄᴛᴏʀ-𝐘ᴇᴀʀ 𝟏𝟎 𝐅ᴇᴍɪɴɪ𝐬ᴛ-𝐌ᴇɴᴛᴀʟʜᴇᴀʟᴛʜ-𝐀ɴᴛɪ𝐑ᴀᴄɪ𝐬ᴛ
+    location: "United States"
+    followers: 164504
+    engagement: 268
+    commentsToLikes: 0.001037
+    id: ckzybdmb640vg0i237ztvzsj4
+    verified: false
+    hashtags: "#seattlemodel, #pnwmodel, #seattle, #photooftheday"
   - username: "darinblainewilkens"
     fullname: >-
       DBW
@@ -43,6 +55,18 @@ profiles:
     id: ck0w0updwg4jd0i19cpz48jtd
     verified: false
     hashtags: ""
+  - username: "makeupnad"
+    fullname: >-
+      Nad 🇱🇧
+    bio: >-
+      | celebrity bridal Pro-travel makeup artist | @makeupnad_
+    location: "United States"
+    followers: 235835
+    engagement: 218
+    commentsToLikes: 0.031131
+    id: ck8sx8l6zginm0j78ku4ifhou
+    verified: false
+    hashtags: "#hudabeauty, #makeup, #miami, #taurus"
   - username: "sailor_marimoon"
     fullname: >-
       Mariana pronounced MA-di-ana
@@ -91,40 +115,16 @@ profiles:
     id: ckaot19oztx8o0i78snk3zyxz
     verified: false
     hashtags: "#socal, #dfw, #dtx, #athomephotoshoot"
-  - username: "aelflaedxo"
+  - username: "iamzenais"
     fullname: >-
-      Aelflaed
+      Z E N A I S (zen-nay)
     bio: >-
-      (elf-led) Seattle. Cosplayer. Performer. Model. LARPer. Twitch Affiliate. Community Manager @ StreamElements. Follow my tiny gremlins @kleekaicryptids
+      🌿🌱🌿🌱 𝔻𝕠 𝕨𝕙𝕒𝕥 𝕪𝕠𝕦 𝕝𝕠𝕧𝕖. @heffnermanagement / @lrjmgmt ➪ Click below to listen / watch the Just Friends official music video out now!! 💖💫
     location: "United States"
-    followers: 24635
-    engagement: 292
-    commentsToLikes: 0.015614
-    id: ck15pbp22x2vl0i195l2aksta
+    followers: 114893
+    engagement: 238
+    commentsToLikes: 0.084854
+    id: ck0ttrdk73zne0i199kqx8hmh
     verified: false
-    hashtags: "#twitch, #makeup, #pcgaming, #steampunk"
-  - username: "3colorfulyorkies"
-    fullname: >-
-      Rylee • Zoey • Kyra
-    bio: >-
-      MODELS|PUPFLUENCER|TRAVELSIZE 📍Seattle,WA 🐶𝙆𝙮𝙧𝙖 6•𝟣𝟫• 𝟢𝟫 🐶𝙍𝙮𝙡𝙚𝙚 𝟤•𝟣𝟧•𝟣𝟨 🐶𝙕𝙤𝙚𝙮 𝟩•𝟣𝟢•𝟣7 Seen in @vogue @fashionweekonline @thedailybeast 🛍 @pawpup_shop
-    location: "United States"
-    followers: 22211
-    engagement: 668
-    commentsToLikes: 0.234225
-    id: ck0u1chxnwkau0i193iqjwjhr
-    verified: false
-    hashtags: "#fridayfashion, #dogsofig, #fashionfriday, #seattledoggos"
-  - username: "michaellantphotography"
-    fullname: >-
-      Michael Lant
-    bio: >-
-      Auburn / Seattle Photographer / Videographer / Model Portrait / Wedding / Event / Product / Film DM / Email for Inquires personal: @themichaellant
-    location: "United States"
-    followers: 5926
-    engagement: 148
-    commentsToLikes: 0.023056
-    id: ck14gm6f45wok0i1924afar8s
-    verified: false
-    hashtags: "#photographer, #fashion, #eventphotographer, #seattlephotographer"
+    hashtags: "#bikini, #shtf, #riskswim, #skinnymintcom"
 ---

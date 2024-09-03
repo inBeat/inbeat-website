@@ -1,12 +1,24 @@
 ---
-title: Top 10 Gardening Instagram Influencers In Norway In 2023
+title: Top 10 Gardening Instagram Influencers In Norway In 2024
 description: >-
-  Find top gardening Instagram influencers in Norway in 2023. Most popular hashtags: #gardeninspiration #hageinspirasjon #gardendesign #garden.
+  Find top gardening Instagram influencers in Norway in 2024. Most popular hashtags: #gardeninspiration #garden #gardendesign #gardening.
 platform: Instagram
-hits: 16
-text_top: See the most popular Instagram accounts on inBeat.
-text_bottom: inBeat aggregates 16 Instagram influencers like this in Norway for you to work with.
+hits: 15
+text_top: Discover the most popular Instagram profiles on inBeat.
+text_bottom: Our platform aggregates 15 Instagram influencers like this in Norway for you to connect with.
 profiles:
+  - username: "lenespedersen"
+    fullname: >-
+      Lene S. Pedersen
+    bio: >-
+      🔹Interiør/Hagedesign/Foto 🔹Årets baderom 2022 🔹FinalenVixenAwards 2021 🔹Årets kjøkken 2020 🔹Finalist Gullfjæren 2018/19/20/21,22 🔹2. pl2017 Sandefjord
+    location: "Norway"
+    followers: 87083
+    engagement: 60
+    commentsToLikes: 0.152676
+    id: ck6u9f7ckx7rw0j71ubtvgeai
+    verified: false
+    hashtags: "#bedroom, #bedroominspo, #balkonginspiration, #baderomsinspirasjon"
   - username: "cathrinedoreen"
     fullname: >-
       𝘎𝘢𝘳𝘥𝘦𝘯, 𝘪𝘯𝘵𝘦𝘳𝘪𝘰𝘳 & 𝘯𝘢𝘵𝘶𝘳𝘦 📷
@@ -43,6 +55,18 @@ profiles:
     id: ck6twaz7yqzek0j71lal8z7ot
     verified: false
     hashtags: "#homestyle, #design, #interiorinspo, #terrasseliv"
+  - username: "anettevs"
+    fullname: >-
+      Anette Veronica 🇳🇴 Homedecor | Travelling| Lifes moments
+    bio: >-
+      Just a girl capturing her home and life in squares💗 Lover of home & garden, animals, God, travelling and all things pink🌸
+    location: "Norway"
+    followers: 11934
+    engagement: 133
+    commentsToLikes: 0.377402
+    id: ck0ty9wkwm3230i19mrwfkgyc
+    verified: false
+    hashtags: "#finehjem, #julepynt, #juletr, #interior"
   - username: "villakildal"
     fullname: >-
       Birthe | Interiørdesigner
@@ -55,18 +79,6 @@ profiles:
     id: ck6tp7dl3i8ik0j71edl35sm0
     verified: false
     hashtags: "#gardeninspiration, #hagedesign, #archilovers, #architecture"
-  - username: "lenespedersen"
-    fullname: >-
-      Lene S. Pedersen
-    bio: >-
-      🔹Renovating house/garden🔨 🔹Winner of Gullfjæren, Årets kjøkken 2020🎉 🔹 Finalist Gullfjæren 2018, 2019, 2020🎉 🔹2.pl. Awards 2017🎉
-    location: "Norway"
-    followers: 50591
-    engagement: 156
-    commentsToLikes: 0.129745
-    id: ck6u9f7ckx7rw0j71ubtvgeai
-    verified: false
-    hashtags: "#finahem, #soveromsinspo, #inspirasjonsguidennorge, #interiordesignideas"
   - username: "holstedhanne"
     fullname: >-
       Hanne - Hage & Interiør & Diy
@@ -103,18 +115,6 @@ profiles:
     id: ck5bwnx9um2c10i11008773os
     verified: false
     hashtags: "#hagelivoguterom, #gardeninspiration, #garden, #kj"
-  - username: "ingridivarson"
-    fullname: >-
-      Ingrid Suhr Olsen
-    bio: >-
-      Norwegian living in Copenhagen🇳🇴🇩🇰 Proud dog-mom of Leopold 🐶 Welcome to my world of: Fashion👗 Interior🏡 Travel✈️ ✉️ ingridivarson@hotmail.com
-    location: "Norway"
-    followers: 14818
-    engagement: 251
-    commentsToLikes: 0.059799
-    id: ck0vwbsv4szr10i192bnfjexo
-    verified: false
-    hashtags: "#girlstraveleurope, #tuscany, #elegantwoman, #zarawoman"
   - username: "interiormerete"
     fullname: >-
       Merete Jæger

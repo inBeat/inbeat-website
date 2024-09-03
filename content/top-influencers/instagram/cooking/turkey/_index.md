@@ -1,24 +1,24 @@
 ---
-title: Top 10 Cooking Instagram Influencers In Turkey In 2023
+title: Top 10 Cooking Instagram Influencers In Turkey In 2024
 description: >-
-  Find top cooking Instagram influencers in Turkey in 2023. Most popular hashtags: #food #cooking #foodporn #yummy.
+  Find top cooking Instagram influencers in Turkey in 2024. Most popular hashtags: #cooking #food #foodie #sunum.
 platform: Instagram
-hits: 148
-text_top: Discover the best Instagram profiles on inBeat.
-text_bottom: Our database holds 148 Instagram influencers like this in Turkey for you to pitch.
+hits: 165
+text_top: Identify the best Instagram influencers on inBeat.
+text_bottom: Our database holds 165 Instagram influencers like this in Turkey for you to collaborate.
 profiles:
-  - username: "ayiyemegi"
+  - username: "nurlu"
     fullname: >-
-      Ayı Yemeği ®
+      Nurşen Aksoy-Nurlu
     bio: >-
-      ⛺️ cooking menu 🐻 şeflerin kamp menüsü 🔥 baş yiyici ve emekleri değerli şeflerin dağda, taşta, kampta yaptığı örnek yemekler paylaşılır
+      NURŞEN AKSOY 🏅Chain des Rotisseurs Member Adana 👩‍🍳Cooking 🍽Table Styling 🧑🏻‍🍳Recipie developer 🍽️Food Writer 👩‍🍳Adaper www.nurlumutfakta.com
     location: "Turkey"
-    followers: 84052
-    engagement: 374
-    commentsToLikes: 0.149952
-    id: ckaoxtwjjeqdz0i78y9p5w9h1
+    followers: 140802
+    engagement: 115
+    commentsToLikes: 0.025599
+    id: ck13483iav6h60i19obg1fvm1
     verified: false
-    hashtags: "#food, #ay, #ayiyemegi, #chef"
+    hashtags: "#salatalar, #ke, #men, #nurlu"
   - username: "sholeninthekitchen"
     fullname: >-
       Şölen Bazoğlu
@@ -31,54 +31,30 @@ profiles:
     id: ck8td8srt2dad0j78czek0ne6
     verified: false
     hashtags: "#yemekfotograf, #pratikyemekler, #brightfoodies, #foodphotographer"
-  - username: "nurlu"
+  - username: "gacemerburak"
     fullname: >-
-      Mother & Wife & Food Blogger
+      Burak Gacemer
     bio: >-
-      NURŞEN AKSOY 🏅Chain des Rotisseurs Member Adana 👩‍🍳Cooking&Baking 🍽Table Styling 💻Hürriyet Yazar K. Yazarı 💻Favori Lezzetler www.nurlumutfakta.com
+      📬 𝐬𝐞𝐫𝐜𝐚𝐧@𝐛𝐮𝐛𝐛𝐥𝐞-𝐩𝐫𝐨𝐣𝐞𝐜𝐭.𝐜𝐨𝐦
     location: "Turkey"
-    followers: 117634
-    engagement: 224
-    commentsToLikes: 0.038130
-    id: ck13483iav6h60i19obg1fvm1
-    verified: false
-    hashtags: "#tarifler, #sag, #myopenkitchen, #instagood"
-  - username: "chefzekikara"
+    followers: 910320
+    engagement: 107
+    commentsToLikes: 0.004637
+    id: ck9hd13q8nq0s0j789cg1j6b6
+    verified: true
+    hashtags: "#food, #recipeoftheday, #recipe, #cooking"
+  - username: "chefaysha"
     fullname: >-
-      Zeki KARA
+      Aysha AlObeidli عائشة العبيدلي
     bio: >-
-      𝙼𝚎𝚗𝚞̈ | 𝙼𝚞𝚝𝚏𝚊𝚔 𝙺𝚘𝚗𝚜𝚎𝚙𝚝 𝙳𝚊𝚗𝚒𝚜̧𝚖𝚊𝚗 | 𝙼𝚞𝚕𝚝𝚒𝙵𝚞𝚗𝚌𝚝𝚒𝚘𝚗 𝚂̧𝚎𝚏|𝙰𝚜̧𝚌̧𝚒|𝙼𝚊𝚝𝚋𝚊𝚑 | 𝙴𝚐̆𝚒𝚝𝚒𝚖 |𝙴𝚟𝚎𝚗𝚝 |𝙶𝚊𝚜𝚝𝚛𝚘|𝙼𝚎𝚗𝚞̈|𝙺𝚎𝚎𝚙𝚎𝚛 𝚌𝚘𝚗𝚜𝚞𝚕𝚝𝚒𝚗𝚐 𝚃𝙰𝙵𝙴𝙳 𝚋𝚊𝚜̧𝚔. 𝚢𝚛𝚍𝚌.
+      أصغر شيف إماراتية #Chopped Champion 🏆 2021 Winner Kidzania #MiniChef 2018 Studying @iccadubai_iccaabudhabi 👩‍🍳 Business 》WhatsApp Licensed #influencer
     location: "Turkey"
-    followers: 38825
-    engagement: 284
-    commentsToLikes: 0.266212
-    id: ck5c5yn0p4dyb0i11h3vhr3d4
+    followers: 164278
+    engagement: 98
+    commentsToLikes: 0.023241
+    id: ck5zv4d1x3kgw0i14qi4bdk7f
     verified: false
-    hashtags: "#instafood, #photooftheday, #dinner, #smile"
-  - username: "ariferdogann"
-    fullname: >-
-      Arif Erdoğan 👨🏽‍🍳
-    bio: >-
-      Babaanne mutfağında erişilebilir lezzetler 😋👨🏽‍🍳❤️ Lazanya 🧀🥩👇👇
-    location: "Turkey"
-    followers: 477384
-    engagement: 989
-    commentsToLikes: 0.039036
-    id: ckf5p4tmw4z9w0j230xgbkj9i
-    verified: false
-    hashtags: "#homecooking, #chef, #homecookedfood, #food"
-  - username: "orman_lezzetleri"
-    fullname: >-
-      Orman Lezzetleri
-    bio: >-
-      ➡️Çağatay MUTLU @mutlucagatay ➡️Murat AKAY @akay_murat Ateşin ve suyun bulunduğu her yer bizim için mutfak sayılır.
-    location: "Turkey"
-    followers: 336926
-    engagement: 433
-    commentsToLikes: 0.018544
-    id: ck0uetr8km98u0i195r366r67
-    verified: false
-    hashtags: "#breakfast, #meat, #campcooking, #hindi"
+    hashtags: "#abudhabi, #uae, #foodie, #cooking"
   - username: "colourfulkitchen_"
     fullname: >-
       colourfulkitchen_
@@ -103,6 +79,18 @@ profiles:
     id: ck9wfl4k8pbzg0j78yy584g6g
     verified: false
     hashtags: "#yemek, #yemektarifleri, #kahvalt, #lezzetrium"
+  - username: "yabandakiturk"
+    fullname: >-
+      H.İbrahim YILDIRIM 🌲🦂 🇹🇷
+    bio: >-
+      🍂Neden yağmur sonrası hep toprak kokusu sever insan!
+    location: "Turkey"
+    followers: 34479
+    engagement: 215
+    commentsToLikes: 0.021293
+    id: ck8t4bduw65mu0j783kvz2h81
+    verified: false
+    hashtags: "#staywild, #wildcamping, #mountainman, #campfire"
   - username: "chefmehmetgokkk"
     fullname: >-
       Mehmet Gök
@@ -127,4 +115,16 @@ profiles:
     id: ck1393r6ejdb10i19ektqb5fa
     verified: false
     hashtags: "#peynir, #du, #tasty, #dinner"
+  - username: "cem.sef.inspire"
+    fullname: >-
+      Cem Aydoğdu
+    bio: >-
+      © 4 elements ©
+    location: "Turkey"
+    followers: 6369
+    engagement: 566
+    commentsToLikes: 0.026403
+    id: ck0vwjagru31o0i191iz717x5
+    verified: false
+    hashtags: "#gastronomy, #cusine, #foodscience, #beef"
 ---

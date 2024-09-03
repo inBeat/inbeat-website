@@ -1,12 +1,24 @@
 ---
-title: Top 10 Rappers Instagram Influencers In New York In 2023
+title: Top 10 Rappers Instagram Influencers In New York In 2024
 description: >-
-  Find top rappers Instagram influencers in New York in 2023. Most popular hashtags: #rapper #newyork #model #love.
+  Find top rappers Instagram influencers in New York in 2024. Most popular hashtags: #newyork #rapper #love #rap.
 platform: Instagram
-hits: 96
-text_top: Discover the most popular Instagram influencers on inBeat.
-text_bottom: Our database holds 96 Instagram influencers like this in New York, United States for you to work with.
+hits: 105
+text_top: Identify the top-rated Instagram influencers on inBeat.
+text_bottom: Our platform has 105 Instagram influencers like this in New York, United States for you to connect with.
 profiles:
+  - username: "nrmn.music"
+    fullname: >-
+      N.R.M.N
+    bio: >-
+      TC & CB 🌹. JP 🌹. Creative making music and staying out the way.
+    location: "United States"
+    followers: 2568
+    engagement: 1267
+    commentsToLikes: 0.208491
+    id: ckf5wzdwltrnj0j238d9rsrj8
+    verified: false
+    hashtags: "#rap, #hiphop, #artist, #music"
   - username: "jamelshabazz"
     fullname: >-
       Jamel Shabazz
@@ -19,30 +31,6 @@ profiles:
     id: ck0ub1e36dhit0i19mog7hq5w
     verified: true
     hashtags: "#photography, #posing, #jamelshabazzarchive, #backintheday"
-  - username: "lilcrawfishh"
-    fullname: >-
-      Lil Craw
-    bio: >-
-      Mgmt @durtyweed NLMB😤 Over 200k streams across all streaming platforms and still counting 📊 look up @lilcrawfishh on Spotify,YouTube, & Apple Music
-    location: "United States"
-    followers: 14606
-    engagement: 673
-    commentsToLikes: 0.010855
-    id: ck8t2ejizz6me0j78mtyx6j7i
-    verified: false
-    hashtags: "#musicengineer, #fashionblogger, #sb53, #probowl"
-  - username: "officialandrewconn"
-    fullname: >-
-      AndrewConn
-    bio: >-
-      Go sub to my youtube channel for full vidoes!!
-    location: "United States"
-    followers: 121715
-    engagement: 131
-    commentsToLikes: 0.040833
-    id: ck15qws7d50qq0i19i2jy6j18
-    verified: false
-    hashtags: "#catfishcooley, #funny, #andrewconn, #lmao"
   - username: "power_ghost_"
     fullname: >-
       james st Patrick
@@ -55,6 +43,18 @@ profiles:
     id: ckaownl6k9mky0i786j935oko
     verified: false
     hashtags: "#omarihardwick, #ghost, #teamghost, #lelaloren"
+  - username: "trustn"
+    fullname: >-
+      𝗧𝗵𝗲 𝗟𝗼𝘀𝘁 𝗕𝗼𝘆®🗡
+    bio: >-
+      ➼ LA📌 ➼ Chairman of @lboyholdings🎒 ➼ Publicity | Branding | Digital Marketing | Ecom📧 ➼ Words @forbes @entrepreneur📝
+    location: "United States"
+    followers: 135000
+    engagement: 469
+    commentsToLikes: 0.023206
+    id: ck15pdrwvxdv20i19efy32sj1
+    verified: true
+    hashtags: "#artist, #pr, #lostboys, #photography"
   - username: "tonyglausi"
     fullname: >-
       Tony Glausi
@@ -79,30 +79,30 @@ profiles:
     id: ck5hczi1hkpsf0i111udrrj8d
     verified: true
     hashtags: "#448, #empire, #getupboosie, #saycheese"
-  - username: "noelashman"
+  - username: "gsteezybeats"
     fullname: >-
-      noel ashman
+      G-STEEZY BEATS
     bio: >-
-      Multi-Award winning Film Producer..Gotti ..Never Again.. Reprisal..The Row..etc../Club Owner..Veruka..NA..Studio 54..The Plumm..Leonora etc
+      UNSIGNED MUSIC PRODUCER FROM THE BAY 💣Hiphop/Rap/RnB💣 🔥Mission District, SF, CA🔥 🌊Made radio waves #2019🌊 🧿Link is 👇🏼 below for purchase🧿
     location: "United States"
-    followers: 258361
-    engagement: 174
-    commentsToLikes: 0.018135
-    id: ck5pwr0dyo5yt0i11y8f1npkf
-    verified: true
-    hashtags: "#noelashmanentertainment, #nycpics, #noelashmanprojects, #noelpics"
-  - username: "ttvisuals"
-    fullname: >-
-      “Trust The Visuals”🎬
-    bio: >-
-      •HTX📍 •Industry Standard Quality🎥 •Music Videos, Commercials & more! •DM To Book📲 •Deposit Required🔒
-    location: "United States"
-    followers: 76520
-    engagement: 81
-    commentsToLikes: 0.069651
-    id: ck6ui09rucav50j71k4kvddrr
+    followers: 2642
+    engagement: 1814
+    commentsToLikes: 0.023949
+    id: ck13b72hmu02c0i19krh423sy
     verified: false
-    hashtags: "#musicvideo, #wshh, #houston, #videographer"
+    hashtags: "#productionstudio, #atlanta, #needbeats, #musicproducer"
+  - username: "indiachristin"
+    fullname: >-
+      India Christin Lane
+    bio: >-
+      Beauty | Wellness | Fashion | Hair | Music @k.i.n_music @wilhelminamodels TikTok: indiachristin1
+    location: "United States"
+    followers: 24120
+    engagement: 99
+    commentsToLikes: 0.047063
+    id: ck1356ecfzy2q0i19ezu55z34
+    verified: false
+    hashtags: "#foryou, #fyp, #music, #singersongwriter"
   - username: "iam_mansha1"
     fullname: >-
       Μαƞσհα Ʃυλταƞ🔥🖤
@@ -115,16 +115,16 @@ profiles:
     id: ck8wf1svxezfa0j78npu1ljph
     verified: false
     hashtags: "#featureme, #laraibfam, #mjfam, #ttfamalia"
-  - username: "iamprettylyon"
+  - username: "jazzysworldtv"
     fullname: >-
-      Lyon the Don
+      Jazlyn aka Jazzy 🇺🇸🇵🇦
     bio: >-
-      King’s MuVa 💙 Recording Artist 👑🦁 Certified Body Sculptor💰Bookprettylyon@gmail.com💜💪🏽 Owner of @milfyme_ & @sowaistedllc 🔥🔥
+      Bushwick, Brooklyn 🗽🍎 Reporter/Actress Acct. Managed by/Inquiries: @ninovaldes Tiktok: @iamjazzysworldtv
     location: "United States"
-    followers: 33144
-    engagement: 128
-    commentsToLikes: 0.164973
-    id: ck5c6ohwq5v7j0i114h9dvcze
+    followers: 893256
+    engagement: 309
+    commentsToLikes: 0.019403
+    id: ckwvisahbvni90j23fcbnjl9h
     verified: false
-    hashtags: "#milleniumtour, #applemusic, #music, #atlantarappers"
+    hashtags: "#queens, #harlem, #nyc, #love"
 ---

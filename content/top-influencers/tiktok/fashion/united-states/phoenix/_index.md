@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fashion TikTok Influencers In Phoenix In 2023
+title: Top 10 Fashion TikTok Influencers In Phoenix In 2024
 description: >-
-  Find top fashion TikTok influencers in Phoenix in 2023. Most popular hashtags: #fashion #fyp #phoenix #photoshoot.
+  Find top fashion TikTok influencers in Phoenix in 2024. Most popular hashtags: #fashion #phoenix #fyp #photoshoot.
 platform: TikTok
-hits: 9
-text_top: Identify the best TikTok influencers on inBeat.
-text_bottom: Our platform holds 9 TikTok influencers like this in Phoenix, United States for you to connect with.
+hits: 11
+text_top: Identify the best TikTok profiles on inBeat.
+text_bottom: Our search engine holds 11 TikTok influencers like this in Phoenix, United States for you to pitch.
 profiles:
   - username: "_chikis"
     fullname: >-
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.052245
     id: ckck2p6dtm80v0j23a4ispsu8
     verified: false
-    hashtags: "#albumcoverchallenge, #fyp, #blackgirl, #21"
+    hashtags: "#howdeep, #blackgiirl, #singing, #posing"
   - username: "aieshabeasley"
     fullname: >-
       Aiesha 
@@ -54,7 +54,19 @@ profiles:
     commentsToLikes: 0.024758
     id: ckamwbx9o7rej0i78thso8hoq
     verified: false
-    hashtags: "#arizonahype, #arizona, #brunch, #gilbert"
+    hashtags: "#tucson, #arizona, #az, #hiddengems"
+  - username: "closetcandy"
+    fullname: >-
+      Closet Candy Boutique
+    bio: >-
+      Women’s Clothing Boutique Free Shipping from Phoenix! www.closetcandy.com
+    location: "United States"
+    followers: 15000
+    engagement: 407
+    commentsToLikes: 0.024235
+    id: ck9fipyajc2y50j7885lmxrul
+    verified: false
+    hashtags: "#doitbold, #ootd, #outfitideas, #paradise"
   - username: "bachatawithbain"
     fullname: >-
       bachatawithbain
@@ -85,12 +97,12 @@ profiles:
     bio: >-
       Photography and modeling meets/meetups IG: @LadyMehanPhoto
     location: "United States"
-    followers: 18400
-    engagement: 364
-    commentsToLikes: 0.021689
+    followers: 18300
+    engagement: 406
+    commentsToLikes: 0.024785
     id: ck8trb4gqqwyi0j78q14euf2r
     verified: false
-    hashtags: "#fashion, #california, #momsoftiktok, #model"
+    hashtags: "#women, #posing, #tiktok, #foryou"
   - username: "dome_moon_art"
     fullname: >-
       Domė Moon Artist
@@ -102,29 +114,17 @@ profiles:
     commentsToLikes: 0.089183
     id: ck806uuybm6v30j782zatbke9
     verified: false
-    hashtags: "#spiritualtok, #arttok, #smallbusiness, #visionaryart"
-  - username: "thestylishstylist"
+    hashtags: "#spiritualtok, #visionaryart, #smallbusiness, #customjacket"
+  - username: "therollinggoddess"
     fullname: >-
-      TheStylishStylist 
+      𝑨𝒏𝒈𝒆𝒍𝒂 𝑹𝒐𝒄𝒌𝒘𝒐𝒐𝒅
     bio: >-
-      Shoot Me A Dm On IG For Free Clothes @lifeofpeck
+      Hi!❤️IG⤴ Paralyzed but not broken DISABILITY•LIFE•MOTIVATION•EMPOWER
     location: "United States"
-    followers: 74300
-    engagement: 1175
-    commentsToLikes: 0.051743
-    id: ckae0xavjm0ss0i78neci5sdu
+    followers: 11800
+    engagement: 1342
+    commentsToLikes: 0.135229
+    id: ckbff3x1c9i160j23ahvmvgj0
     verified: false
-    hashtags: "#smallbiz, #screenprinting, #whatilearned, #clothingline"
-  - username: "andrewkwon_official"
-    fullname: >-
-      Andrew Kwon 엔드류 권
-    bio: >-
-      Fashion Designer ANDREW KWON Instagram: andrewkwon_official 권 앤드류. NYC
-    location: "United States"
-    followers: 9403
-    engagement: 1620
-    commentsToLikes: 0.067943
-    id: ckce3zwyhjcwm0j237bod4grp
-    verified: false
-    hashtags: "#france, #kpop, #nyc, #andrewkwon"
+    hashtags: "#fyp, #style, #lifecoach, #cozyathome"
 ---

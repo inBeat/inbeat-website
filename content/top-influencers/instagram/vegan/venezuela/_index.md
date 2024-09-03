@@ -1,24 +1,48 @@
 ---
-title: Top 10 Vegan Instagram Influencers In Venezuela in 2023
+title: Top 10 Vegan Instagram Influencers In Venezuela In 2024
 description: >-
-  Find top vegan Instagram influencers in Venezuela in 2023. Most popular hashtags: #tbt #venezuela #goodvibes #healthylifestyle.
+  Find top vegan Instagram influencers in Venezuela in 2024. Most popular hashtags: #saludable #caracas #tbt #glutenfree.
 platform: Instagram
 hits: 9
-text_top: See the top-rated Instagram profiles on inBeat.
-text_bottom: inBeat holds 9 Instagram influencers like this in Venezuela for you to collaborate.
+text_top: See the best Instagram influencers on inBeat.
+text_bottom: inBeat has 9 Instagram influencers like this in Venezuela for you to collaborate.
 profiles:
+  - username: "johasolano"
+    fullname: >-
+      Johanna Solano
+    bio: >-
+      ✨Sólo buenas energías!✨ - Atleta vegana 🌱 y TV host. 🇨🇷 - @sessions.fit ⚡️ - Campeona Nacional Máster (Ruta y TT) 2022 🚴🏽‍♀️💨 - Caninetrovert. 🐶
+    location: "Venezuela"
+    followers: 645584
+    engagement: 111
+    commentsToLikes: 0.006298
+    id: ck5ccsc7jhx9l0i117hyx3r4v
+    verified: true
+    hashtags: "#pausaespower, #ad"
+  - username: "kathysaenzh"
+    fullname: >-
+      Kathy
+    bio: >-
+      Actriz, Vegana, Amor y Naturaleza. Creadora de la línea de Bienestar “PureBeauty” @bykathysaenz En este link de Whatssapp puedes hacer tu compra👇🏼
+    location: "Venezuela"
+    followers: 1219755
+    engagement: 131
+    commentsToLikes: 0.023244
+    id: ckaoyxmmvjheh0i7875oukfre
+    verified: true
+    hashtags: "#purebeauty, #bienestar, #aceitesesenciales, #publicidad"
   - username: "adrianlarat"
     fullname: >-
-      Adrián Lara Torres
+      Adrián Eduardo Lara Torres
     bio: >-
-      Presentador de TV @masplusoficial Comunicador Social / Vegano🌱/ 1.85 cm 2da Temp ⬇️ INSTINTOS DIGITALES
+      Comunicador Social Vegano🌱 1.85 cm
     location: "Venezuela"
-    followers: 163607
-    engagement: 131
-    commentsToLikes: 0.017770
+    followers: 169255
+    engagement: 128
+    commentsToLikes: 0.028824
     id: ck5cgf62poprd0i11oq8h08ay
     verified: true
-    hashtags: "#venezuela, #tbt, #tvhost, #sanvalentin"
+    hashtags: "#hechoenvenezuela, #venezuela, #caracas, #britodios"
   - username: "el.juanba"
     fullname: >-
       ⚡JUAN BAUTISTA⚡Actor
@@ -30,79 +54,43 @@ profiles:
     commentsToLikes: 0.086579
     id: ck5cdm3ewje1c0i11st1nzlf5
     verified: false
-    hashtags: "#actor, #tbt, #danzateatro, #microteatro"
-  - username: "alejandro_otero"
+    hashtags: "#tbt, #danzateatro, #actor, #microteatro"
+  - username: "cottyconcha"
     fullname: >-
-      Alejandro Otero
+      Constanza Concha
     bio: >-
-      Actor Venezolano residenciado en Colombia Contacto: manager@talentonacional.tv Twitter: @Alejandro_otero
+      ✨️AMOR PROPIO Y BODY CONFIDENCE 💌Contact: cottyconcha@gmail.com COME AND TRAVEL WITH ME! 🩷📣👇
     location: "Venezuela"
-    followers: 376375
-    engagement: 265
-    commentsToLikes: 0.013466
-    id: ck6tngccl9sa20j719gn1vili
+    followers: 82346
+    engagement: 5962
+    commentsToLikes: 0.018236
+    id: ck14hkb1taqql0i19bjkj6wyd
     verified: false
-    hashtags: "#beard, #realfitness, #tbt, #terapiasexual"
-  - username: "elmundo_de_sandrita"
+    hashtags: "#feminism, #positivity, #selfcare, #makeup"
+  - username: "bi_saludable"
     fullname: >-
-      ⭐PIEL DE ALMA⭐
+      Health Coach Billy 🍃 Virginia
     bio: >-
-      COLAB.➡️mimundoenig@gmail.com 📚T.sup dietetica @institutomedac 👩‍🎓ADE @ufvmadrid @apartamentoslaurellarioja @txebiko COD. DESCUENTO "PIELDEALMA" ⬇️⬇️
+      🌱Cocinando un estilo de vida Saludable🌱
     location: "Venezuela"
-    followers: 25229
-    engagement: 534
-    commentsToLikes: 0.034084
-    id: ck8tdk91t3ngb0j784m6axp6f
+    followers: 103747
+    engagement: 170
+    commentsToLikes: 0.022659
+    id: ck5c8ykxwag1w0i11owt0x8mv
     verified: false
-    hashtags: "#larioja, #nuevasemana, #resultados, #mundowers"
-  - username: "petitepaulette_"
-    fullname: >-
-      Petite | Fashion & Lifestyle
-    bio: >-
-      Personal Stylist and Fashion Blogger🌹 Content creator | Collage Artist ⏰#Team5am info 👉🏻 @petiteat5 📍Mcbo/Ccs - No es lo que usas, es cómo lo luces.
-    location: "Venezuela"
-    followers: 12638
-    engagement: 695
-    commentsToLikes: 0.079386
-    id: ck0tuora781lw0i193zuy5afp
-    verified: false
-    hashtags: "#photography, #fashionblogger, #fashion, #art"
-  - username: "health.yeaah"
-    fullname: >-
-      By ErikA Guillen.
-    bio: >-
-      🔜 functional training coach C.E.O @health.yeaah.food Plan de nutrición y Entrenamiento info al DM. Atleta @metabolicvenezuela Crossfitera 🏋️‍♂️
-    location: "Venezuela"
-    followers: 18541
-    engagement: 409
-    commentsToLikes: 0.034242
-    id: ck6uce1tuf1zx0j7157m3nqe8
-    verified: false
-    hashtags: "#crossfitgirl, #healthylifestyle, #domingo, #beach"
+    hashtags: "#recetassaludables, #glutenfree, #saludable, #vegano"
   - username: "veremayer"
     fullname: >-
       Vere
     bio: >-
       Del mundo de la moda a la cocina saludable! Te invito a ver y seguir mis recetas .link en mi bio
     location: "Venezuela"
-    followers: 149769
-    engagement: 98
-    commentsToLikes: 0.077603
+    followers: 133229
+    engagement: 44
+    commentsToLikes: 0.095404
     id: ck5zjfwd9himd0i14ebo0ef79
     verified: false
-    hashtags: "#glutenfree, #bodypositive, #miami, #saludable"
-  - username: "morellafitness"
-    fullname: >-
-      Morella Potolicchio Villalba
-    bio: >-
-      👣 #HealthyMom @bemorechiara 👩🏻‍🍳Chef Saludable Certificada 💡Content Creator & Recipe Developer 🍞Healthy Bakery @eatmorefit 🏆6ta BikiniWorldRanking 17’
-    location: "Venezuela"
-    followers: 41215
-    engagement: 241
-    commentsToLikes: 0.122747
-    id: ck15sckg2cbp50i19o02ptrgu
-    verified: false
-    hashtags: "#healthylifestyle, #notellamf, #embarazosaludable, #momlife"
+    hashtags: "#lowcarb, #ricoysano, #shooting, #glutenfree"
   - username: "pranajuicebar"
     fullname: >-
       PRANA JUICE BAR
@@ -114,5 +102,17 @@ profiles:
     commentsToLikes: 0.021512
     id: ck8t307ce1e3j0j78bpdy5knb
     verified: false
-    hashtags: "#chacao, #makeitburger, #pranajuicebar, #deliverycaracas"
+    hashtags: "#coldpressed, #caracas, #healthy, #chacao"
+  - username: "jorgetorrealba"
+    fullname: >-
+      Jorge Torrealba /El Niño
+    bio: >-
+      Caricaturista 🤣👨🏻‍🎨 artista #descuentoparafeos 🌍 🐐🇻🇪 millonario de creatividad ⭐️ ya casi estrenamos en youtube👇 suscribete 👇 coming soon👇
+    location: "Venezuela"
+    followers: 76564
+    engagement: 205
+    commentsToLikes: 0.038254
+    id: ck5hqvp1dtt050i11vxsbljel
+    verified: false
+    hashtags: "#noviembre, #paraqueporfa, #descuentoparafeos, #torrealba"
 ---

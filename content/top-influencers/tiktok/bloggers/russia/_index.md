@@ -1,11 +1,11 @@
 ---
-title: Top 10 Bloggers TikTok Influencers In Russia In 2023
+title: Top 10 Bloggers TikTok Influencers In Russia In 2024
 description: >-
-  Find top bloggers TikTok influencers in Russia in 2023. Most popular hashtags: #moscow #pov #moscowcity.
+  Find top bloggers TikTok influencers in Russia in 2024. Most popular hashtags: #pov #moscow #mood.
 platform: TikTok
 hits: 23
-text_top: See the best TikTok influencers on inBeat.
-text_bottom: inBeat has 23 TikTok influencers like this in Russia for you to connect with.
+text_top: Analyze the top-rated TikTok accounts on inBeat.
+text_bottom: Our platform has 23 TikTok influencers like this in Russia for you to pitch.
 profiles:
   - username: "katrinhot"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.084907
     id: ckbkvy7opriol0j23gn3hcqw9
     verified: false
-    hashtags: "#desertcraft, #kissme, #model, #kiss"
+    hashtags: "#desertcraft, #model, #sexymodel, #kiss"
   - username: "ksyu_mk"
     fullname: >-
       Ксю💖

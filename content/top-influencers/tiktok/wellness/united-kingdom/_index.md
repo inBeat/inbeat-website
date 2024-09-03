@@ -1,11 +1,11 @@
 ---
-title: Top 10 Wellness TikTok Influencers In United Kingdom In 2023
+title: Top 10 Wellness TikTok Influencers In United Kingdom In 2024
 description: >-
-  Find top wellness TikTok influencers in United Kingdom in 2023. Most popular hashtags: #fyp #fitness #foryoupage #wellness.
+  Find top wellness TikTok influencers in United Kingdom in 2024. Most popular hashtags: #fyp #fitness #wellness #foryoupage.
 platform: TikTok
 hits: 16
-text_top: Identify the top-rated TikTok accounts on inBeat.
-text_bottom: Our platform has 16 TikTok influencers like this in United Kingdom for you to work with.
+text_top: Discover the top-rated TikTok profiles on inBeat.
+text_bottom: Our search engine has 16 TikTok influencers like this in United Kingdom for you to connect with.
 profiles:
   - username: "chrisbell151"
     fullname: >-
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.017892
     id: ck81s4wanq05f0j780nfsm23r
     verified: false
-    hashtags: "#foryoupage, #family, #foryou, #fyp"
+    hashtags: "#fyp, #momlife, #family, #foryoupage"
   - username: "alicesantos0204"
     fullname: >-
       alicesantos0204
@@ -85,12 +85,12 @@ profiles:
     bio: >-
       ❗️👇🏻GRAB YOUR DIY KITS BELOW👇🏻❗️
     location: "United Kingdom"
-    followers: 596400
-    engagement: 2159
-    commentsToLikes: 0.018185
+    followers: 587500
+    engagement: 1908
+    commentsToLikes: 0.014965
     id: ck8oreubbby9t0j788ezcsi5f
     verified: false
-    hashtags: "#homemade, #icecream, #dessert, #tiktokkitchen"
+    hashtags: "#icecream, #fyp, #viral, #easter"
   - username: "chloekourga"
     fullname: >-
       chloekourga
@@ -114,7 +114,7 @@ profiles:
     commentsToLikes: 0.022139
     id: ck8oretapbxyd0j780avku19x
     verified: false
-    hashtags: "#london, #ukfashion, #novakids, #babiesoftiktok"
+    hashtags: "#fyp, #london, #ukfashion, #babygirl"
   - username: "amberteeisme"
     fullname: >-
       amberteeisme

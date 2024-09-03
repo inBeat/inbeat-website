@@ -1,12 +1,60 @@
 ---
-title: Top 10 Crossfit Instagram Influencers In Spain In 2023
+title: Top 10 Crossfit Instagram Influencers In Spain In 2024
 description: >-
-  Find top crossfit Instagram influencers in Spain in 2023. Most popular hashtags: #crossfit #photography #spain #crossfitgirls.
+  Find top crossfit Instagram influencers in Spain in 2024. Most popular hashtags: #crossfit #fitness #travel #espa.
 platform: Instagram
-hits: 99
-text_top: Analyze the best Instagram accounts on inBeat.
-text_bottom: inBeat has 99 Instagram influencers like this in Spain for you to contact.
+hits: 121
+text_top: Identify the best Instagram accounts on inBeat.
+text_bottom: inBeat has 121 Instagram influencers like this in Spain for you to work with.
 profiles:
+  - username: "marttaa21"
+    fullname: >-
+      MARTA MORENO
+    bio: >-
+      |🐯♡| ° @prozis MARTTAA21 ° @protella MARTA ° coach @crossfitlambda 🏋🏽‍♀️ ASESORÍAS 📩 marttaa21@hotmail.com ENTRENA CONMIGO 19€ TODO UN AÑO📲
+    location: "Spain"
+    followers: 42707
+    engagement: 760
+    commentsToLikes: 0.009292
+    id: ck0uabytqbtwu0i194oax69fw
+    verified: false
+    hashtags: "#fitspo, #fitspiration, #mindfulness, #fitnessmotivation"
+  - username: "davidmata91"
+    fullname: >-
+      David Mata
+    bio: >-
+      • 2018 CrossFit Games Athlete • Owner @crossfit_berkana • @mayhemathlete • Fittest Freakest Crew @fittestfreakest
+    location: "Spain"
+    followers: 17719
+    engagement: 618
+    commentsToLikes: 0.013838
+    id: ck5hr9dxruht70i11lj5ifnzb
+    verified: false
+    hashtags: "#training, #hardwork, #weightlifting, #strength"
+  - username: "the_world_with_u"
+    fullname: >-
+      Carlos
+    bio: >-
+      📌Madrid 🇪🇸 🐶 & me 📷GoPro & CrossFit CEO @lof4fud 🍴🍔🍕🍣😋 Ambassador @thundernoise_brand 👕 @77feettraining 🏋🏻‍♂️💪🏼
+    location: "Spain"
+    followers: 62589
+    engagement: 175
+    commentsToLikes: 0.038488
+    id: ck0u6yt653c0h0i19erdtk05i
+    verified: false
+    hashtags: "#prozis, #you, #photooftheday, #streetmarket"
+  - username: "francabello_78"
+    fullname: >-
+      Fran Cabello
+    bio: >-
+      Me encanta comer CEO en @envanvoy Mis perritos @thor_el_gran_minibull 🏋‍💪 CrossFit L-1 Trainer
+    location: "Spain"
+    followers: 371948
+    engagement: 37
+    commentsToLikes: 0.240022
+    id: ck8t8ozhql7fu0j78dkz1l2hc
+    verified: false
+    hashtags: "#terrassa, #huevos, #dulces, #queso"
   - username: "chamborodriguez"
     fullname: >-
       Salvador Rodríguez de Burgos
@@ -18,7 +66,7 @@ profiles:
     commentsToLikes: 0.071229
     id: ck5hgukm64u670i11r19vmbf9
     verified: false
-    hashtags: "#europa, #amoviajar, #naturaleza, #atardecer"
+    hashtags: "#viajar, #travel, #globetrotter, #playa"
   - username: "fransiela_jimenezg"
     fullname: >-
       Fransiela Jiménez
@@ -30,7 +78,7 @@ profiles:
     commentsToLikes: 0.007488
     id: ck15ul8hqnqc40i19ykbbas2s
     verified: false
-    hashtags: "#training, #crossfit, #fitness, #weightlifting"
+    hashtags: "#crossfit, #weightlifting, #training, #fitness"
   - username: "ritagarciaherrera"
     fullname: >-
       Rita Garcia
@@ -54,19 +102,19 @@ profiles:
     commentsToLikes: 0.181113
     id: ckap0aoy3pi220i78g0bsz0w8
     verified: false
-    hashtags: "#zaraoutfit, #swissgirl, #mallorca, #summerholidays"
+    hashtags: "#bohemestyle, #zaraaddict, #mallorca, #holidays"
   - username: "karontte"
     fullname: >-
       Daniel Pardeiro
     bio: >-
-      📍Madrid 💪🏼CrossFit 🏋🏻‍♂️Weightlifting 🚵🏼‍♂️Mtb ✈️Travel 🎮videogames 🐶Animals ❌No grindr,scruff or similar.If u see a pic of me there,report
+      📍Madrid💪🏼CrossFit🏋🏻‍♂️Weightlifting🚵🏼‍♂️Mtb ✈️Travel🎮videogames🐶Animals ❌No grindr,scruff or similar.If u see a pic of me there,report
     location: "Spain"
-    followers: 28052
-    engagement: 865
-    commentsToLikes: 0.035158
+    followers: 30346
+    engagement: 1107
+    commentsToLikes: 0.033962
     id: ckap6khqzg8e80i78nsco9ayv
     verified: false
-    hashtags: "#gayvisibility, #gayalicante, #gaymadrid, #gaymadridcentro"
+    hashtags: "#gaybeardedmen, #beardedstyle, #gayalicante, #hunk"
   - username: "carolinapshopper"
     fullname: >-
       Carolina De Souza
@@ -79,52 +127,4 @@ profiles:
     id: ck6u71xgcizzc0j71c98cprdk
     verified: false
     hashtags: "#morgandetoi, #fashionstyle, #style, #lookoftheday"
-  - username: "the_world_with_u"
-    fullname: >-
-      Carlos
-    bio: >-
-      📌🇪🇸 🐶 & me 📷GoPro & CrossFit Ambassador @banbroken CrossFit outfit 💪🏼 @77feettraining mejor programación @nu_bear pole @prozisespana CODE10%:THEWORLD
-    location: "Spain"
-    followers: 49305
-    engagement: 306
-    commentsToLikes: 0.065113
-    id: ck0u6yt653c0h0i19erdtk05i
-    verified: false
-    hashtags: "#instagood, #lavanda, #2020, #happybirthday"
-  - username: "mobilla01"
-    fullname: >-
-      🇪🇸 🄹🄰🅅🄸🄴🅁 🄰🄱🄰🄳 🇪🇸
-    bio: >-
-      🏡 Ponferrada (El Bierzo) 🏋️ Crossfit Athlete 📟 Informático
-    location: "Spain"
-    followers: 13436
-    engagement: 982
-    commentsToLikes: 0.015599
-    id: ckap3v7sz4mq30i78d6g9q0vq
-    verified: false
-    hashtags: "#photography, #crossfit, #crossfiter, #photooftheday"
-  - username: "laurafitness.trainer"
-    fullname: >-
-      ~ Laura FitnessTrainer ~
-    bio: >-
-      👩🏼‍⚕️| Dietista - Nutrición Deportiva 🏋🏼‍♀️| Entrenadora - Crossfit por las venas 🔹| Código 𝐋𝐀𝐔𝐑𝐀𝐅𝐈𝐓 @myproteines 📩| ASESORÍAS + info en ⤵️
-    location: "Spain"
-    followers: 5356
-    engagement: 790
-    commentsToLikes: 0.056787
-    id: ck8tbrtlewvkx0j78a4pjvrgy
-    verified: false
-    hashtags: "#workout, #aputotope, #photography, #goals"
-  - username: "jim6157d"
-    fullname: >-
-      Jim 🇫🇷🇪🇸🇬🇧
-    bio: >-
-      • Project manager • Gay & proud 🏳️‍🌈 • From Toulouse • Barcelona📍 • Crossfit - swimming - running 🏋️‍♀️ 🦄 Mama says I’m Special 😅
-    location: "Spain"
-    followers: 2523
-    engagement: 3225
-    commentsToLikes: 0.015095
-    id: ck8t8z9ynmdj40j78oyxbbt96
-    verified: false
-    hashtags: "#gayspanish, #mequedoencasa, #gaysports, #spanishgay"
 ---

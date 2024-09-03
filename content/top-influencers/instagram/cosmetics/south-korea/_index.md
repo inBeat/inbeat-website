@@ -1,12 +1,24 @@
 ---
-title: Top 10 Cosmetics Instagram Influencers In South Korea In 2023
+title: Top 10 Cosmetics Instagram Influencers In South Korea In 2024
 description: >-
-  Find top cosmetics Instagram influencers in South Korea in 2023. Most popular hashtags: #cosmetics #kbeauty #makeup #beauty.
+  Find top cosmetics Instagram influencers in South Korea in 2024. Most popular hashtags: #cosmetics #makeup #kbeauty #beauty.
 platform: Instagram
 hits: 65
-text_top: Identify the most popular Instagram accounts on inBeat.
-text_bottom: Our database has 65 Instagram influencers like this in South Korea for you to contact.
+text_top: Analyze the most popular Instagram profiles on inBeat.
+text_bottom: inBeat holds 65 Instagram influencers like this in South Korea for you to work with.
 profiles:
+  - username: "franchekal"
+    fullname: >-
+      Fran Chekal
+    bio: >-
+      🇰🇷🇨🇱 T!kt0k: Franchekal (2.5M) ✨@catrice_cosmetics.latam ✨ Franchekalc@gmail.com
+    location: "South Korea"
+    followers: 201754
+    engagement: 1237
+    commentsToLikes: 0.005905
+    id: ckap8vhytq2u40i78bx1fcnj0
+    verified: false
+    hashtags: "#samsungunpacked, #teamgalaxy, #sumatealmodoflip, #hmchile"
   - username: "drtoledoph"
     fullname: >-
       Librado Toledo Jr MD
@@ -91,40 +103,28 @@ profiles:
     id: ck0tv45en9uuh0i193v4a1qvi
     verified: false
     hashtags: "#cosmetics, #makeuptutorialvideo, #celefit, #koreabeauty"
-  - username: "lalakanoha"
+  - username: "jiyoon_jeong125"
     fullname: >-
-      𝐋𝐚𝐥𝐚 𝐋𝐚𝐧𝐝 라라 랜드 🪐💜
+      정지윤
     bio: >-
-      🔗서울에 사는 프리랜서 모델 & 배우. 협력 DM 𝙇𝙞𝙫𝙚 𝙞𝙣 𝙆𝙤𝙧𝙚𝙖 🇰🇷🇺🇦 🔗 Все о жизни в Корее 🇰🇷 💛реклама в лс / 𝙘𝙤𝙡𝙡𝙖𝙗𝙤𝙧𝙖𝙩𝙞𝙤𝙣 𝙞𝙣 𝙙𝙞𝙧𝙚𝙘𝙩 💛
+      Sharing favorite moments🤍
     location: "South Korea"
-    followers: 16648
-    engagement: 603
-    commentsToLikes: 0.042266
-    id: ck9wecq92jpp80j780zp6c5hq
+    followers: 21096
+    engagement: 364
+    commentsToLikes: 0.039410
+    id: ckapc3pfm2cas0i782neqvnl5
     verified: false
-    hashtags: "#koreanmodel, #koreancouple, #koreanfashion, #koreanstreetstyle"
-  - username: "iam.fleur"
+    hashtags: "#ootd, #seoul, #travel, #workout"
+  - username: "mounecasta"
     fullname: >-
-      플뢰르
+      Mounia Djillar
     bio: >-
-      ɪᴀᴍ.ғʟᴇᴜʀ • 플뢰르 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ 📩 ғʟᴇᴜʀʜᴡᴀ@ɴᴀᴠᴇʀ.ᴄᴏᴍ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ 🖥 ʙʟᴏɢ
+      ☆ @newme.in.korea
     location: "South Korea"
-    followers: 80877
-    engagement: 255
-    commentsToLikes: 0.022624
-    id: ck0tyniuvnekq0i19kqbfkaml
+    followers: 61232
+    engagement: 217
+    commentsToLikes: 0.021593
+    id: ckf5tntk7i9xo0j23olqhf879
     verified: false
-    hashtags: "#eyewish, #16, #skincare, #kbeauty"
-  - username: "ooi_uoo"
-    fullname: >-
-      뉴미
-    bio: >-
-      
-    location: "South Korea"
-    followers: 30376
-    engagement: 220
-    commentsToLikes: 0.021780
-    id: ck8t1ho6jvt5z0j78czzqtu57
-    verified: false
-    hashtags: "#ootd, #dailylook, #selfie, #photooftheday"
+    hashtags: "#seoul, #alger, #paris, #love"
 ---

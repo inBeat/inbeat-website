@@ -1,24 +1,12 @@
 ---
-title: Top 10 Skincare TikTok Influencers In Montreal In 2023
+title: Top 10 Skincare TikTok Influencers In Montreal In 2024
 description: >-
-  Find top skincare TikTok influencers in Montreal in 2023. Most popular hashtags: #skincare #montreal #canada #fyp.
+  Find top skincare TikTok influencers in Montreal in 2024. Most popular hashtags: #skincare #montreal #canada #fyp.
 platform: TikTok
 hits: 7
-text_top: See the best TikTok accounts on inBeat.
-text_bottom: Our search engine aggregates 7 TikTok influencers like this in Montreal, Canada for you to collaborate.
+text_top: Discover the top-rated TikTok influencers on inBeat.
+text_bottom: Our database aggregates 7 TikTok influencers like this in Montreal, Canada for you to pitch.
 profiles:
-  - username: "katiecung"
-    fullname: >-
-      katiecung
-    bio: >-
-      🇨🇦🇻🇳 just trying to keep up with the trends 🤷🏻‍♀️
-    location: "Canada"
-    followers: 34600
-    engagement: 692
-    commentsToLikes: 0.045092
-    id: ck9v8tefjb49r0j78t713sdez
-    verified: false
-    hashtags: "#styletips, #howto, #fyp, #bts"
   - username: "lucamuzzoo"
     fullname: >-
       lucamuzzo
@@ -78,7 +66,19 @@ profiles:
     commentsToLikes: 0.009710
     id: ckbfgxw5sc65s0j23ak1uu80w
     verified: false
-    hashtags: "#training, #ad, #canada, #workout"
+    hashtags: "#workoutathome, #workout, #canada, #quarantine"
+  - username: "katiecung"
+    fullname: >-
+      katiecung
+    bio: >-
+      🇨🇦🇻🇳 just trying to keep up with the trends 🤷🏻‍♀️
+    location: "Canada"
+    followers: 34600
+    engagement: 692
+    commentsToLikes: 0.045092
+    id: ck9v8tefjb49r0j78t713sdez
+    verified: false
+    hashtags: "#outfitinspo, #photomagic, #bts, #fyp"
   - username: "marguerite_2718"
     fullname: >-
       Miss Natacha🌹🌿✨
@@ -90,7 +90,7 @@ profiles:
     commentsToLikes: 0.080741
     id: ckdbv8ka9dh5z0j23cpsdccfz
     verified: false
-    hashtags: "#canadianscare, #roomaesthetic, #duo, #vibewithus"
+    hashtags: "#tiktokcooks, #rememberwhy, #cooking, #beconvincing"
   - username: "ryandubs"
     fullname: >-
       Ryan Dubs

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Chefs Instagram Influencers In Germany In 2023
+title: Top 10 Chefs Instagram Influencers In Germany In 2024
 description: >-
-  Find top chefs Instagram influencers in Germany in 2023. Most popular hashtags: #happy #pasta #lecker #kochen.
+  Find top chefs Instagram influencers in Germany in 2024. Most popular hashtags: #hamburg #happy #chefslife #berlin.
 platform: Instagram
-hits: 94
-text_top: See the most popular Instagram accounts on inBeat.
-text_bottom: Our database has 94 Instagram influencers like this in Germany for you to contact.
+hits: 102
+text_top: Analyze the most popular Instagram influencers on inBeat.
+text_bottom: Our database aggregates 102 Instagram influencers like this in Germany for you to collaborate.
 profiles:
   - username: "corneliapoletto"
     fullname: >-
@@ -19,112 +19,112 @@ profiles:
     id: ck13550ahzqlk0i19fook9pfy
     verified: true
     hashtags: "#altonaerkinderkrankenhaus, #pflege, #beatmung, #medizin"
+  - username: "dominik.kaeppeler"
+    fullname: >-
+      Dominik Käppeler
+    bio: >-
+      Michelin Star Chef 👨‍🍳| Munich 🏬| Foodlover 🍝| Restaurant @showroom.restaurant|
+    location: "Germany"
+    followers: 23706
+    engagement: 505
+    commentsToLikes: 0.018279
+    id: ck5c5lube3py20i113ie04orc
+    verified: false
+    hashtags: "#feinschmecker, #guidemichelin, #michelinguide, #showroomrestaurant"
+  - username: "thomasmartin.official"
+    fullname: >-
+      Thomas Martin
+    bio: >-
+      👨🏻‍🍳 Chef de Cuisine 🏨 Louis C. Jacob ⭐️⭐️ Guide Michelin
+    location: "Germany"
+    followers: 20675
+    engagement: 486
+    commentsToLikes: 0.040489
+    id: cliq4pdmhky020j08o6yr9osn
+    verified: false
+    hashtags: "#foodlovers, #zuhausekochen, #instafood, #homemadefood"
+  - username: "donlou_life"
+    fullname: >-
+      Streetwear ❤️‍🔥 Sneakerhead
+    bio: >-
+      #Fashion N #Sneaker's Chef Cooking Inspiration @donlou.pia Inquiries Only Email 📧 Content Creator 📸 Sneaker Seller Born 🇵🇹, 📍🇩🇪
+    location: "Germany"
+    followers: 7427
+    engagement: 6413
+    commentsToLikes: 0.141621
+    id: ck8tbs4ilwwx00j78ngjl8do6
+    verified: false
+    hashtags: "#kickserd, #ootdfashion, #sneakerhead, #kicksonflre"
+  - username: "daliaskitchen"
+    fullname: >-
+      Dalia  داليا
+    bio: >-
+      daughter of immigrants, mother of dragons travelling chef & cookbook author @harpersbazaararabia food editor
+    location: "Germany"
+    followers: 154206
+    engagement: 628
+    commentsToLikes: 0.031777
+    id: ck6tr9s4axqx20j71vbkgq6gi
+    verified: true
+    hashtags: "#morocco, #berlin"
+  - username: "janaxnell"
+    fullname: >-
+      nello
+    bio: >-
+      chef von @lovescars @yungnelloo IMPRESSUM: @smhagency
+    location: "Germany"
+    followers: 263811
+    engagement: 337
+    commentsToLikes: 0.002605
+    id: ck15s97fabv600i197nropcut
+    verified: false
+    hashtags: "#zalandostyle, #zalandosquad, #asyoudreamit, #thriftstorefinds"
+  - username: "kevin_fehling"
+    fullname: >-
+      Kevin Fehling
+    bio: >-
+      ⭐⭐⭐ Michelin Stars ● Owner of The Table Kevin Fehling / Puzzle Bar ● Chef of THE GLOBE by Kevin Fehling on MS Europa
+    location: "Germany"
+    followers: 24952
+    engagement: 318
+    commentsToLikes: 0.019367
+    id: ck5zs4cguxsuq0i140i5g73zy
+    verified: false
+    hashtags: "#foodporn, #hamburg, #hamburghafencity, #puzzlebar"
+  - username: "the_sophia_hoffmann"
+    fullname: >-
+      Köchin/Autorin/Gastronomin
+    bio: >-
+      🏳️‍🌈Chef owner @happa_restaurant Dog mum of @ella_hoffmannhauksdottir Author/ speaker #vegan #metoo #feminist #queer
+    location: "Germany"
+    followers: 35234
+    engagement: 183
+    commentsToLikes: 0.036022
+    id: ck0uct2hfhifz0i19bv6y9glm
+    verified: false
+    hashtags: "#happa, #happarestaurant, #biovegan, #leaftoroot"
+  - username: "janhartwig_official"
+    fullname: >-
+      Jan Hartwig
+    bio: >-
+      📍München Chef 👨‍🍳
+    location: "Germany"
+    followers: 111618
+    engagement: 146
+    commentsToLikes: 0.011953
+    id: ck0vwtiy5vj680i19xuplqhp9
+    verified: true
+    hashtags: "#3michelinstars, #restaurantjan, #caviar, #starter"
   - username: "christianlindner"
     fullname: >-
       Christian Lindner
     bio: >-
       🏢 Bundesminister der Finanzen 🤳Chef von @fdp. 🎧 Podcast @spotify: CL+. 📲 christian.lindner@fdp.de 📍 Berlin
     location: "Germany"
-    followers: 364919
-    engagement: 216
-    commentsToLikes: 0.035443
+    followers: 372508
+    engagement: 131
+    commentsToLikes: 0.142731
     id: ck0twafkcemez0i19ne6t0j6h
     verified: true
-    hashtags: "#deutschlandticket, #commonframework, #emsland, #ukraine"
-  - username: "kaktuspoooo"
-    fullname: >-
-      Lisa
-    bio: >-
-      Was mich ausmacht ist meine Art! 👉Racehorses, Chef, Shootings👈 🖤 Dinge erleben, auf mich zukommen lassen, Situationen nutzen, lachen! 🖤 NRW Girl
-    location: "Germany"
-    followers: 5873
-    engagement: 718
-    commentsToLikes: 0.033902
-    id: ck5hd61etloj30i11cmcienl9
-    verified: false
-    hashtags: "#this, #weekend, #happy, #like"
-  - username: "sofuckindelicious"
-    fullname: >-
-      Michael Frisch
-    bio: >-
-      👨‍🍳 Chef 🥩 Grill verrückt 🍸 Gin Liebhaber #sofuckindelicious #gintasting #grillverrückt #gourmet #feinschmecker
-    location: "Germany"
-    followers: 12582
-    engagement: 712
-    commentsToLikes: 0.053111
-    id: ck8t6i5bddq530j78yyuljce0
-    verified: false
-    hashtags: "#pulpo, #wagyubeef, #sauerteig, #cafedeparis"
-  - username: "woid.kitchen"
-    fullname: >-
-      Natalie | 30 🐶🏡👩🏽‍❤️‍👨🏼👶🏻
-    bio: >-
-      ▫️einfache Rezepte❤️ ▫️mit und ohne Thermomix & Pampered Chef ▫️dahoam im bayerischen Woid 🌿 ▫️Rabattcodes, Impressum & Blog⬇️
-    location: "Germany"
-    followers: 38256
-    engagement: 369
-    commentsToLikes: 0.029226
-    id: ck8swtx4af82c0j78pqa1piu7
-    verified: false
-    hashtags: "#unter30minuten, #thermomixdeutschland, #pamperedchefdeutschland, #vegetarischerezepte"
-  - username: "roland_trettl"
-    fullname: >-
-      Roland Trettl
-    bio: >-
-      Chef Foodvictim First Dates Gastgeber
-    location: "Germany"
-    followers: 348283
-    engagement: 207
-    commentsToLikes: 0.042894
-    id: ck5hgmgzn3kqf0i119pcj6rsl
-    verified: true
-    hashtags: "#liebe, #werbung, #vox, #firstdateshotelvox"
-  - username: "chefmoebetta"
-    fullname: >-
-      Chef MoeBetta
-    bio: >-
-      Owner @streetcornerkitchen Season 1 “Insta Chef”👇🏾
-    location: "Germany"
-    followers: 88004
-    engagement: 801
-    commentsToLikes: 0.008861
-    id: ck0ubek17ec9j0i191dnl1we4
-    verified: false
-    hashtags: "#alfredo, #candiedyams, #nyc, #chickenwings"
-  - username: "paulcooks.de"
-    fullname: >-
-      Paul Cooks | 🥩👨🏻‍🍳🤳📸
-    bio: >-
-      🙋🏻‍♂️ | Self-taught Chef, Not Vegan at all 📍 | Based in Dortmund - Germany 🇩🇪 📬 | Anfragen ➡️ hello@paulcooks.de
-    location: "Germany"
-    followers: 45780
-    engagement: 289
-    commentsToLikes: 0.019420
-    id: ck6tw6ybxqc590j71d7d5uq66
-    verified: false
-    hashtags: "#roastbeef, #paulcooks, #steaklovers, #flapmeat"
-  - username: "chefsstuff.de"
-    fullname: >-
-      ChefsStuff - Der Kochkanal
-    bio: >-
-      ELENA & SIMON - Rezeptvideos auf YOUTUBE - ContentCreator @maly_story Mediengestalterin @simon_chef_story Küchenmeister ⬇️VIDEOS⬇️
-    location: "Germany"
-    followers: 3529
-    engagement: 963
-    commentsToLikes: 0.061103
-    id: ckaowdsjr8hon0i7869puwdjj
-    verified: false
-    hashtags: "#nudelliebe, #kochenmitherz, #fleischliebe, #grillen"
-  - username: "soschmecktliebe"
-    fullname: >-
-      Luisa Zerbo
-    bio: >-
-      Chef & Pastry Chef | The Taste Finalistin 2017 mails: luisa@soschmecktliebe.de Koch-& Backbuch Autorin So schmeckt Liebe
-    location: "Germany"
-    followers: 11651
-    engagement: 493
-    commentsToLikes: 0.052589
-    id: ck6tzkcnya7jb0j712oq3w5r1
-    verified: false
-    hashtags: "#ownyourspace, #bambihilftkindern, #fuerdengutenzweck, #macaronvideo"
+    hashtags: "#3k24, #weimar, #wettbewerbsf, #clfragt"
 ---

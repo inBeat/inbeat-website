@@ -1,11 +1,11 @@
 ---
-title: Top 10 Yoga TikTok Influencers In London In 2023
+title: Top 10 Yoga TikTok Influencers In London In 2024
 description: >-
-  Find top yoga TikTok influencers in London in 2023. Most popular hashtags: #yoga #fyp #london #fitness.
+  Find top yoga TikTok influencers in London in 2024. Most popular hashtags: #yoga #fyp #fitness #london.
 platform: TikTok
 hits: 4
-text_top: Discover the best TikTok accounts on inBeat.
-text_bottom: inBeat aggregates 4 TikTok influencers like this in London, United Kingdom for you to connect with.
+text_top: Identify the best TikTok accounts on inBeat.
+text_bottom: Our search engine holds 4 TikTok influencers like this in London, United Kingdom for you to pitch.
 profiles:
   - username: "ashlyraeceo"
     fullname: >-
@@ -90,7 +90,7 @@ profiles:
     commentsToLikes: 0.047119
     id: cka6j1um1t09c0i78py3ys5s0
     verified: false
-    hashtags: "#fashion, #yoga, #fyp, #workout"
+    hashtags: "#workout, #yoga, #fyp, #fashion"
   - username: "chloekourga"
     fullname: >-
       chloekourga
@@ -114,7 +114,7 @@ profiles:
     commentsToLikes: 0.058843
     id: ckcuy5lqomaiz0j23u68cihos
     verified: false
-    hashtags: "#foryou, #dancing, #didyouknow, #dance"
+    hashtags: "#foryou, #goviral, #fyp, #handstand"
   - username: "gluteywear"
     fullname: >-
       Glutey Wear

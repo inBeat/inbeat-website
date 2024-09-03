@@ -1,11 +1,11 @@
 ---
-title: Top 10 Dancers TikTok Influencers In Indonesia In 2023
+title: Top 10 Dancers TikTok Influencers In Indonesia In 2024
 description: >-
-  Find top dancers TikTok influencers in Indonesia in 2023. Most popular hashtags: #fyp #dance #foryoupage.
+  Find top dancers TikTok influencers in Indonesia in 2024. Most popular hashtags: #fyp #dance #foryoupage.
 platform: TikTok
 hits: 24
-text_top: Analyze the best TikTok influencers on inBeat.
-text_bottom: Our platform holds 24 TikTok influencers like this in Indonesia for you to collaborate.
+text_top: Identify the top-rated TikTok influencers on inBeat.
+text_bottom: Our search engine aggregates 24 TikTok influencers like this in Indonesia for you to contact.
 profiles:
   - username: "hendrysaputra82"
     fullname: >-

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Stylists Instagram Influencers In Turkey In 2023
+title: Top 10 Stylists Instagram Influencers In Turkey In 2024
 description: >-
-  Find top stylists Instagram influencers in Turkey in 2023. Most popular hashtags: #fashion #stylish #hairstyle.
+  Find top stylists Instagram influencers in Turkey in 2024. Most popular hashtags: #reklam #istanbul #ootd.
 platform: Instagram
-hits: 138
-text_top: Analyze the best Instagram influencers on inBeat.
-text_bottom: Our database has 138 Instagram influencers like this in Turkey for you to pitch.
+hits: 144
+text_top: Discover the top-rated Instagram accounts on inBeat.
+text_bottom: Our database holds 144 Instagram influencers like this in Turkey for you to work with.
 profiles:
-  - username: "alpkavasoglu"
+  - username: "sidikabal_"
     fullname: >-
-      Alp Kavasoglu
+      Sıdıka Bal
     bio: >-
-      Makeup artist & Hair Stylist Maybelline NY makeup artist Youtube: Maybelline New York Türkiye İletişim: alpkavasoglu@gmail.com
+      📍 Now @qesmawnaseeb ♥️ Fashion Editor & Stylist | Founder @duagency_ Check 📧 for PR & Collab
     location: "Turkey"
-    followers: 111690
-    engagement: 294
-    commentsToLikes: 0.025563
-    id: ck5btv8j7go720i11boqyfyfr
-    verified: true
-    hashtags: "#dysonhairpro"
-  - username: "summer.shaker"
-    fullname: >-
-      سمر شاكر Summer Shaker
-    bio: >-
-      • Modest lifestyle | stylist | engineer • founder of @summerbreeze.ar • WhatsApp +9647705806498 business inquiries
-    location: "Turkey"
-    followers: 2026335
-    engagement: 203
-    commentsToLikes: 0.014483
-    id: ck5zt3f8ozo7m0i141c1dqmv8
-    verified: true
-    hashtags: "#mydubai, #love, #oman, #hijabfashion"
-  - username: "yukselozgur"
-    fullname: >-
-      Ozgur Yuksel
-    bio: >-
-      Co-founder & Designer of @yuxelleofficial @hadodesignofficial Celebrity fashion stylist
-    location: "Turkey"
-    followers: 26635
-    engagement: 518
-    commentsToLikes: 0.025058
-    id: ck15u0e51kszd0i19dt5bl977
+    followers: 315522
+    engagement: 217
+    commentsToLikes: 0.044836
+    id: ck5btvk2wgoql0i119vy9ac34
     verified: false
-    hashtags: "#fallwinter, #yuxelle, #newlook, #newseason"
-  - username: "f.busrattt"
-    fullname: >-
-      B Ü Ş R A N U R
-    bio: >-
-      Ankara-İstanbul Freelance Stylist busranur@keepstar.co 📩
-    location: "Turkey"
-    followers: 233848
-    engagement: 293
-    commentsToLikes: 0.012047
-    id: ck0vwv0movqdo0i1909z5opti
-    verified: false
-    hashtags: "#modanisa"
-  - username: "nafisehkamkar"
-    fullname: >-
-      Nafiseh Kamkar
-    bio: >-
-      Founder of @nafisehkamkarofficial ‘ ✨BE A QUEEN WITH ME ✨ ‘ Fashion Designer| Stylist| Production Designer| Pro Makeup Artist| ‘ 📍Dᴜʙᴀɪ
-    location: "Turkey"
-    followers: 59315
-    engagement: 660
-    commentsToLikes: 0.061140
-    id: ck0w0vfm8g7yf0i19laejweug
-    verified: false
-    hashtags: "#stylish, #fashionstyle, #nafisehkamkar, #fashion"
+    hashtags: "#outfit, #davet, #istanbul, #influencerstyle"
   - username: "ecemarda_"
     fullname: >-
       Ecem Arda
     bio: >-
-      Food and tableware stylist | Mom’s journal Ela’nın oyuncakları listesi:
+      Food and tableware stylist | Mom’s journal ecem@dasspace.co
     location: "Turkey"
-    followers: 31334
-    engagement: 927
-    commentsToLikes: 0.415851
+    followers: 68560
+    engagement: 190
+    commentsToLikes: 0.062880
     id: ck5zpiffhsqap0i147bqk7cju
     verified: false
-    hashtags: "#hmbringonthefuture, #goodnightkiss, #ecorecycle, #annelik"
-  - username: "ilkerbilgi"
+    hashtags: "#a101, #temizbirnefesal, #grwmhair, #ramazan"
+  - username: "nilninat"
     fullname: >-
-      𝚒𝚕𝚔𝚎𝚛 𝚋𝚒𝚕𝚐𝚒
+      Nil Ninat
     bio: >-
-      Menajer Moda Tasarımcısı Stylist Fashion account @ilkerbilgifashion www.facebook.com/ilkerbilgi ilkerbilgi & cuneytsayil menajerlik
+      👽• Stylist | Digital Creator
     location: "Turkey"
-    followers: 85520
-    engagement: 461
-    commentsToLikes: 0.038033
-    id: ck6u96yylvv1y0j71s5ikyp43
+    followers: 80114
+    engagement: 189
+    commentsToLikes: 0.021472
+    id: ck0u1am7ywbgu0i19y8g51rqw
     verified: false
-    hashtags: "#ayselg, #italy, #14subat, #oktayrifat"
-  - username: "mustinnn"
+    hashtags: "#hmstudio, #youareon, #streetstyle, #summernights"
+  - username: "manaltabanii"
     fullname: >-
-      MUSTAFA AKKUŞ
+      Manal Ali Shaikh
     bio: >-
-      Saç Stilisti Renk Kesim Uzmanı & Danışmanı -Hair Stylist Coloring Expert - Randevu -Appointment 📲( 0530 640 41 41 ) Founder @garageacibadem 🇹🇷🌍
+      Dm for collab •fashion stylist • 📧manaltabani32@gmail.com @lamour.world
     location: "Turkey"
-    followers: 141613
-    engagement: 101
-    commentsToLikes: 0.005129
-    id: ck138oa93h7e40i19q29p2iyk
+    followers: 78137
+    engagement: 182
+    commentsToLikes: 0.023160
+    id: ck9wgr77dumww0j7804uc9it2
     verified: false
-    hashtags: ""
-  - username: "yusufcandirik"
+    hashtags: "#outfitinspiration, #manaltabanii, #fashion, #stylefile"
+  - username: "aylarabid"
     fullname: >-
-      Yusuf Can Dirik
+      A Y L A R
     bio: >-
-      Celebrity Fashion Stylist / Stil Danışmanı
+      Stylist ▫️ Fashion consultant PR- aylarabidteam@gmail.com Manager 📞+994502615535 📍Baku | Istanbul
     location: "Turkey"
-    followers: 27332
-    engagement: 467
-    commentsToLikes: 0.009282
-    id: ck0w0709acp6s0i19mdx9bwi1
+    followers: 81918
+    engagement: 137
+    commentsToLikes: 0.019096
+    id: ck0w67l7u795w0i198jlp827x
     verified: false
-    hashtags: "#paris, #missing, #tbt, #kalptekalanlar"
-  - username: "rutkayozis"
+    hashtags: "#lotd, #bodrum2021, #summervibes, #ootd"
+  - username: "summer.shaker"
     fullname: >-
-      Rutkay ÖZİŞ®
+      سمر شاكر Summer Shaker
     bio: >-
-      Stil Danışmanı / Stylist
+      Modest lifestyle, Stylist Founder @summerbreeze.ar WhatsApp +971581907733 business Business@summershaker.info
     location: "Turkey"
-    followers: 156572
-    engagement: 371
-    commentsToLikes: 0.015577
-    id: ck15u0g4akt9d0i19nhh5tx3j
+    followers: 2372379
+    engagement: 103
+    commentsToLikes: 0.010680
+    id: ck5zt3f8ozo7m0i141c1dqmv8
+    verified: true
+    hashtags: "#shangrilamauritius, #findyourshangrila, #samsmemories, #mauritius"
+  - username: "yukselozgur"
+    fullname: >-
+      Ozgur Yuksel
+    bio: >-
+      Co-founder & Designer of @yuxelleofficial Celebrity Stylist Lecturer at @istanbulmodaakademisi / Design and Styling Courses 🪡
+    location: "Turkey"
+    followers: 39347
+    engagement: 84
+    commentsToLikes: 0.025262
+    id: ck15u0e51kszd0i19dt5bl977
     verified: false
-    hashtags: ""
+    hashtags: "#havadanm, #homecoming, #dump, #marni"
+  - username: "ece.zaim"
+    fullname: >-
+      Ece Zaim
+    bio: >-
+      Chef | Cookbook Author | Food Stylist | Founder @simplepleasuresofeveryday
+    location: "Turkey"
+    followers: 416578
+    engagement: 76
+    commentsToLikes: 0.014041
+    id: ck0w3nn40ubvc0i19ghhyaf48
+    verified: false
+    hashtags: "#reklam, #zaiming, #tarif, #ecezaimtarifi"
+  - username: "nazlikayran"
+    fullname: >-
+      nazlıkayran
+    bio: >-
+      -Fashion Director @instyleturkiye -Fashion Director @marieclairetr -Owner/ full time stylist @ KayranStyling
+    location: "Turkey"
+    followers: 43056
+    engagement: 28
+    commentsToLikes: 0.013983
+    id: ck0u0any4t3do0i19vj5y949s
+    verified: false
+    hashtags: "#instyleturkiye, #1piece5styles, #reklam, #stylingtips"
+  - username: "canerilgun"
+    fullname: >-
+      CANER İLGÜN
+    bio: >-
+      Colour educator A creative hair stylist 📍Founder @hairstylecraft
+    location: "Turkey"
+    followers: 83938
+    engagement: 127
+    commentsToLikes: 0.003588
+    id: ckap0b1m5pjo80i78r8z0i9z7
+    verified: false
+    hashtags: "#haircut, #dubai, #qatar, #sa"
 ---

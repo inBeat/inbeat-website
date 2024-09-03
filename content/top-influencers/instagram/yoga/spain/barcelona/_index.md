@@ -1,36 +1,60 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Barcelona In 2023
+title: Top 10 Yoga Instagram Influencers In Barcelona In 2024
 description: >-
-  Find top yoga Instagram influencers in Barcelona in 2023. Most popular hashtags: #yogabarcelona #yogainspiration #yoga #lifestyle.
+  Find top yoga Instagram influencers in Barcelona in 2024. Most popular hashtags: #yogabarcelona #yogainspiration #yoga #yogaespa.
 platform: Instagram
-hits: 18
-text_top: See the most popular Instagram profiles on inBeat.
-text_bottom: Our database holds 18 Instagram influencers like this in Barcelona, Spain for you to connect with.
+hits: 27
+text_top: Identify the best Instagram accounts on inBeat.
+text_bottom: inBeat holds 27 Instagram influencers like this in Barcelona, Spain for you to pitch.
 profiles:
-  - username: "esteryoga"
-    fullname: >-
-      ⒺⓈⓉⒺⓇ • Yogini • Barcelona
-    bio: >-
-      🛍️Discount codes: @liquidoactive ESTERLIQUIDO @myga_yoga ESTER15 @vayumudra ESTER15 @omstarsofficial ESTERYOGA More ⤵️
-    location: "Spain"
-    followers: 56028
-    engagement: 155
-    commentsToLikes: 0.061045
-    id: ck136knyk6z3f0i19nijvanju
-    verified: false
-    hashtags: "#motherhood, #backbending, #2monthspostpartum, #inversionaddict"
   - username: "absmo"
     fullname: >-
       ALESSANDRA ORAM - YOGA
     bio: >-
-      Co-Owner👩🏽‍🤝‍👨🏻of @ma.na_yogaloft🏛 #GirlBOSS of @recklessred_om Senior Alumni Teacher🧘🏽‍♀️of @navakarana vinyāsa @oysho Ambassador Barcelona 📍 •
+      Co-Owner👩🏽‍🤝‍👨🏻of @ma.na_yogaloft My retreats @ma.na_retreats Senior Alumni of Navakaraṇa vinyāsa Yoga Mats @recklessred_om Kiwi, British, Filipina
     location: "Spain"
-    followers: 73363
-    engagement: 302
-    commentsToLikes: 0.018540
+    followers: 87580
+    engagement: 200
+    commentsToLikes: 0.020488
     id: ck0tyjan5n2cs0i19pxkoz4eh
     verified: false
-    hashtags: "#yogabarcelona, #navakara, #oysho, #yogaformacion"
+    hashtags: "#manayogaloft, #navakara, #yogamadrid, #yogabarcelona"
+  - username: "kaitlynpatrizia"
+    fullname: >-
+      Kaitlyn Patrizia
+    bio: >-
+      Psiconeuroinmunóloga Functional Mind, Movement & Medicine Aerial Silks Artist + Coach 📩 kaitlynpatrizia@gmail.com 📍BCN
+    location: "Spain"
+    followers: 26327
+    engagement: 94
+    commentsToLikes: 0.065998
+    id: ck136klx26ysm0i19b7brmqcl
+    verified: false
+    hashtags: "#yogabcn, #yogaparatodos, #yogabeginners, #intelligenceemotionnelle"
+  - username: "esteryoga"
+    fullname: >-
+      ⒺⓈⓉⒺⓇ • Yogini • Barcelona
+    bio: >-
+      🛍️Discount codes: @zencoreyoga ESTER15 DISCOUNTS ⤵️
+    location: "Spain"
+    followers: 55211
+    engagement: 86
+    commentsToLikes: 0.078108
+    id: ck136knyk6z3f0i19nijvanju
+    verified: false
+    hashtags: "#intothewoods, #goinggreenwithliquido, #heartchakra, #yogaparatodos"
+  - username: "galaortin"
+    fullname: >-
+      Gala Ortin
+    bio: >-
+      𝖸𝗈𝗀𝖺 | 𝖶𝖾𝗅𝗅𝗇𝖾𝗌𝗌 | 𝖬𝗂𝗇𝖽𝖿𝗎𝗅𝗇𝖾𝗌𝗌 | 𝖡𝗋𝖾𝖺𝗍𝗁𝗐𝗈𝗋𝗄 𝗧𝗵𝗲 𝗬𝗼𝗴𝗮 𝗖𝗹𝘂𝗯 𝖻𝗒 𝖦𝖺𝗅𝖺 @aloyoga 𝘢𝘥𝘷𝘰𝘤𝘢𝘵𝘦 Represented by @unikomodels
+    location: "Spain"
+    followers: 105007
+    engagement: 17
+    commentsToLikes: 0.015174
+    id: ck6ucbt37eokn0j71o426lpul
+    verified: false
+    hashtags: "#yogainstructor, #inmyalo, #alojourneytoself, #yogalifestyle"
   - username: "albafityoga"
     fullname: >-
       Alba Fit Yoga 🤸🏽‍♀️
@@ -43,88 +67,64 @@ profiles:
     id: ck13bfdf6v5r20i1970j9ei5p
     verified: false
     hashtags: "#lavueltabravista, #skandasana, #yogabarcelona, #alomyogaday"
-  - username: "galaortin"
-    fullname: >-
-      Gala Ortin
-    bio: >-
-      Yoga Teacher E-RYT •Vinyasa•Core Vinyasa•Hatha & Mindfulness @aloyoga @alomoves @wanderlust__spain @freskincare @philipstein 📍Represented @unikomodels
-    location: "Spain"
-    followers: 25648
-    engagement: 200
-    commentsToLikes: 0.076456
-    id: ck6ucbt37eokn0j71o426lpul
-    verified: false
-    hashtags: "#aloyogachallenge, #france, #yogalifestyle, #yogachallenge"
   - username: "claudiaariasyoga"
     fullname: >-
       Claudia Arias
     bio: >-
-      Vinyasa | Dharma Yoga | Yin Yoga | Acroyoga Ashtanga YTT in India. ▫️ Clases Online en la SHALA. ▫️ Retiros. 👇🏾 Clases Presenciales y Eventos.
+      Dharma, Yin, Vinyasa, Ashtanga YTT in India. 📿 Nuevo Curso: Chakras 🧘🏾‍♀️ Clases Presenciales 👇🏾 Clases Online en la @shala.online
     location: "Spain"
-    followers: 20263
-    engagement: 287
-    commentsToLikes: 0.090603
+    followers: 25184
+    engagement: 177
+    commentsToLikes: 0.125851
     id: ck0vyy3lj6cqj0i190v297a9g
     verified: false
-    hashtags: "#girona, #yogaasana, #beguresautentic, #emporda"
-  - username: "pau_inspirafit"
+    hashtags: "#yoga, #yogaencasa, #handstandtraining, #yogaflexibility"
+  - username: "seayoubarcelona"
     fullname: >-
-      Paula Butragueño
+      SEA YOU 🌴 SURF CLUB
     bio: >-
-      🏃🏽‍♀️Nike Master Trainer 🤸🏽‍♀️Jivamukti Yoga Teacher 🧘🏼‍♀️Mindfulness Coach 🥇 #forbesbestinfluencers 💌 inspirafit.info@gmail.com
+      📍 Based in 🏄🏽‍♂️Paseo del mare Nostrum 14, +34661673702 🌮🧘‍♀️Gran Via 640 🥙🏄🏽‍♂️Paseo marítimo 5 , Badalona Info@seayoubarcelona.com Link eventos
     location: "Spain"
-    followers: 117071
-    engagement: 110
-    commentsToLikes: 0.028105
-    id: ck55lyfqi2r8k0i11qtnwn24f
-    verified: true
-    hashtags: "#entrenaencasa, #meditacion, #mindfulness, #running"
-  - username: "blondysisters"
-    fullname: >-
-      Jennifer & Annais
-    bio: >-
-      🌎 Barcelona ✈️ w a n d e r l u s t 🌈 v i v i r c o n e n t u s i a s m o 👭 m y h a l f ✂️ @salon_delarco
-    location: "Spain"
-    followers: 14568
-    engagement: 266
-    commentsToLikes: 0.032197
-    id: ck6tm2zs8737x0j71gccbkzin
+    followers: 14369
+    engagement: 189
+    commentsToLikes: 0.034023
+    id: ckwnjkohhrea70j230t6ikoa1
     verified: false
-    hashtags: "#castelldefels, #beach, #winteroutfit, #womenday8march"
-  - username: "laura.blancafort"
+    hashtags: "#yoga, #paddlesurf, #barcelona, #wingfoil"
+  - username: "fabiandomenech"
     fullname: >-
-      Laura Blancafort
+      Fabian Domenech
     bio: >-
-      📍Dubai | Barcelona
+      Barcelona @nikewellcollective | @nike Yoga teacher / Ceramist Psychoneuroimmunology student
     location: "Spain"
-    followers: 2531
-    engagement: 1936
-    commentsToLikes: 0.065729
-    id: ck5hr3tfju7wa0i112hnsk08c
+    followers: 54710
+    engagement: 217
+    commentsToLikes: 0.025992
+    id: ck14irwwhgwtm0i19eq27d8fe
     verified: false
-    hashtags: "#nature, #peace, #landscapephotography, #yomequedoencasa"
-  - username: "veggie_sweet"
+    hashtags: "#fabithepotter, #handmade, #ceramics, #joy"
+  - username: "amaiaarrazola"
     fullname: >-
-      Alex🌷 Vegana & Realfooder🐰
+      amaiaarrazola
     bio: >-
-      💉 Enfermera 📍 Barcelona 🦋 También soy @sweet_alexitta 🌼 Nuestro reto Vegan☘ @losmartesvegan
+      I do funny stuff🍑. Based in 🌊Barcelona🌈 Illustration, murals & books. Represented by 🍄 The Mushroom Company. New book !!!👇🏻👇🏻 *^^TOTORO Y YO^^*👇🏻👇🏻👇🏻
     location: "Spain"
-    followers: 18299
-    engagement: 811
-    commentsToLikes: 0.584254
-    id: ck5q7h2r11j7l0i11j1kfd0zv
+    followers: 57991
+    engagement: 116
+    commentsToLikes: 0.027518
+    id: ck5q4ggjaoyf70i11cqga1l7n
     verified: false
-    hashtags: "#realfooding, #dietasana, #sorteo, #losmartesvegan"
-  - username: "penos_gussi"
+    hashtags: "#fuenlabrada, #amaiaarrazola, #amaiawashere, #simonelcamaleon"
+  - username: "clodi.yogini"
     fullname: >-
-      ♤☆RENOS °●GuSSI☆♤🎬₩¥🎥
+      Clodi
     bio: >-
-      ♤Español🇪🇸Morocco 🇲🇦✴💯 @🗼Madrid 》《t...z ☆ ■ Instagram ♧ Facebook 01♥️🗼 @ Official_account$•°HD ☆📲+°°.•••••••••****** @ ADD FOLLOW Me🙋‍♂️
+      Yoga • trainings & retreats coaching nutricional 🧑‍🎓 🤸‍♂️aeroyoga TT100hrs YACEP ¡Feb ‘24! 🇮🇳🇳🇵India Nepal Oct‘24 retreat @yogaloft.mx @munabeachwear
     location: "Spain"
-    followers: 10733
-    engagement: 333
-    commentsToLikes: 0.125766
-    id: ckap5wg4mdg8m0i78473x4wcx
+    followers: 46584
+    engagement: 100
+    commentsToLikes: 0.011575
+    id: ck6u9arncwgn80j7105zcnylb
     verified: false
-    hashtags: "#inspiration, #casablanca, #frases, #youtuber"
+    hashtags: "#yogaloft, #yogamexico, #nayarit, #yogacdmx"
 ---

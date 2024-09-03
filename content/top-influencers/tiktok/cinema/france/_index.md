@@ -1,11 +1,11 @@
 ---
-title: Top 10 Cinema TikTok Influencers In France In 2023
+title: Top 10 Cinema TikTok Influencers In France In 2024
 description: >-
-  Find top cinema TikTok influencers in France in 2023. Most popular hashtags: #foryou #pourtoi #fyp #cinema.
+  Find top cinema TikTok influencers in France in 2024. Most popular hashtags: #foryou #pourtoi #cinema #fyp.
 platform: TikTok
 hits: 35
 text_top: Discover the best TikTok accounts on inBeat.
-text_bottom: Our platform aggregates 35 TikTok influencers like this in France for you to contact.
+text_bottom: Our platform holds 35 TikTok influencers like this in France for you to work with.
 profiles:
   - username: "souleymanesurtiktok"
     fullname: >-
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.097213
     id: ckacmczk5j73r0i78io7vwmni
     verified: false
-    hashtags: "#followparty, #drole, #foryou, #zgary93"
+    hashtags: "#fyp, #drole, #stop, #amour"
   - username: "allocine"
     fullname: >-
       AlloCiné
@@ -54,7 +54,7 @@ profiles:
     commentsToLikes: 0.004627
     id: ck999tza7ef2f0j78go481vsk
     verified: true
-    hashtags: "#fauxraccord, #cinema, #effetspeciaux, #topfilms"
+    hashtags: "#cinema, #fauxraccord, #effetspeciaux, #topfilms"
   - username: "fais_interessant_tiktok"
     fullname: >-
       Fais intéressent

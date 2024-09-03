@@ -1,24 +1,120 @@
 ---
-title: Top 10 Comedians Instagram Influencers In Australia In 2023
+title: Top 10 Comedians Instagram Influencers In Australia In 2024
 description: >-
-  Find top comedians Instagram influencers in Australia in 2023. Most popular hashtags: #comedy #straya #standupcomedy.
+  Find top comedians Instagram influencers in Australia in 2024. Most popular hashtags: #comedy #reels #standupcomedy.
 platform: Instagram
-hits: 16
-text_top: Identify the top-rated Instagram profiles on inBeat.
-text_bottom: inBeat has 16 Instagram influencers like this in Australia for you to contact.
+hits: 23
+text_top: See the top-rated Instagram profiles on inBeat.
+text_bottom: Our database has 23 Instagram influencers like this in Australia for you to connect with.
 profiles:
-  - username: "georgia_productions"
+  - username: "nikkiosborneofficial"
     fullname: >-
-      G E O R G I A
+      Nikki Osborne
     bio: >-
-      21, Aussie 🇦🇺, Self proclaimed YouTube “Comedian”
+      Comedian. Bush Barbie. Actor. Writer. National Columnist. Comedian torn between respect and pretty dresses. Currently abroad. Tour coming.
     location: "Australia"
-    followers: 287838
-    engagement: 1100
-    commentsToLikes: 0.005331
-    id: ck0vwprw5uzfi0i19s45ave2r
+    followers: 163167
+    engagement: 639
+    commentsToLikes: 0.032789
+    id: ck5cl1n60y2i10i11u15hjj31
+    verified: false
+    hashtags: "#nikkiosborne, #reels, #comedian, #funny"
+  - username: "spicyjohnston"
+    fullname: >-
+      BELLA JOHNSTON⚡️
+    bio: >-
+      Comedian girly, cancer survivor, oysters ❤️‍🔥 @onenightstandpod out on Spotify 💅🏼 TikTok 🌶️ spicyjohnston MGMT 💌 lucinda@baylypr.com 📍 Sydney, AU
+    location: "Australia"
+    followers: 13495
+    engagement: 1604
+    commentsToLikes: 0.038425
+    id: cliu00w1hzvgk0j08yrevl5z5
+    verified: false
+    hashtags: "#datingmemes, #makeuptutorial, #notajoketho, #pov"
+  - username: "dilrukj"
+    fullname: >-
+      Dilruk Jayasinha
+    bio: >-
+      🇱🇰 🇦🇺 Logie award winning Sri Lankan born Aussie Stand Up comedian & actor. New 2024 tour PRELOVED on sale;
+    location: "Australia"
+    followers: 51474
+    engagement: 5155
+    commentsToLikes: 0.034108
+    id: ck5zo88shpzf30i14c6jzog95
+    verified: false
+    hashtags: "#victoriouslion, #matthewlenevez, #imax, #podcast"
+  - username: "droubeidallah"
+    fullname: >-
+      Oubeid Hlal - عبيد هلال 🇲🇦 🇲🇫
+    bio: >-
+      Cardiologist - Comedian - Producer
+    location: "Australia"
+    followers: 1415210
+    engagement: 273
+    commentsToLikes: 0.015393
+    id: ck8t61xskby600j78pmer3y6n
+    verified: false
+    hashtags: "#droubeidallah, #syndey, #2m, #quotes"
+  - username: "alrighthey"
+    fullname: >-
+      Matt Hey ✨(Alright, Hey!)
+    bio: >-
+      💥 IT’S A BIG SHOW LUV! 💥 ✨Australia’s Biggest Glamazon✨ ⚠️ #FatAndFabulous ⚠️ 💎 Comedian • Podcaster • Digital Creator 💎 🏷 Any Pronouns
+    location: "Australia"
+    followers: 84541
+    engagement: 240
+    commentsToLikes: 0.025965
+    id: ck5zvucnh4xcj0i14cvf6zurv
+    verified: false
+    hashtags: "#sydneyworldpride, #sydney, #imacelebrityau, #ad"
+  - username: "thebuttsmarn"
+    fullname: >-
+      Isaac Butterfield
+    bio: >-
+      Australian Comedian & Worldwide DILF
+    location: "Australia"
+    followers: 379336
+    engagement: 188
+    commentsToLikes: 0.015203
+    id: ck13808whdvq60i199qdfd93e
     verified: true
-    hashtags: "#yourmoneywellspent, #glowupwitholay, #ad, #officeworkscreate"
+    hashtags: "#standup, #carersfoundation, #standupcomedy"
+  - username: "merrickwatts"
+    fullname: >-
+      Merrick Watts
+    bio: >-
+      Comedian Head Clown @grapesofmirth WSET 3. Barossa Master. Also have a JetSki license, so…you know.
+    location: "Australia"
+    followers: 41859
+    engagement: 123
+    commentsToLikes: 0.036941
+    id: ck0w3q8jsupml0i19dyskis5w
+    verified: false
+    hashtags: "#newhorizons, #10, #seesouthaustralia, #newbeginnings"
+  - username: "tanhennessy"
+    fullname: >-
+      T A N Y A  H E N N E S S Y
+    bio: >-
+      Comedian • TV Presenter • Radio Announcer @novaentaus • 5 x Best Selling Author • Sitter • @pricelineau Ambassador • Sexy • 💖 📍Gadigal
+    location: "Australia"
+    followers: 237920
+    engagement: 113
+    commentsToLikes: 0.035088
+    id: ck5c0tusitu420i11h7xudwkw
+    verified: true
+    hashtags: "#modelsprefer, #makeup, #limitededition, #stanleyiceflow"
+  - username: "junior_giti"
+    fullname: >-
+      Junior Kimizi Mirefu
+    bio: >-
+      -Comedian -CEO; Giti Business Group🏠, -Rwanda’s Best Movie Interpreter Awards Winner🌍, -Music Manager @chrisseazy_ 😋 -Brand Manager @rufe_fred 🗣🎙
+    location: "Australia"
+    followers: 550942
+    engagement: 96
+    commentsToLikes: 0.014434
+    id: ck14ka1daoi5p0i195i7gjusk
+    verified: false
+    hashtags: ""
   - username: "jimrossington"
     fullname: >-
       Jim
@@ -30,101 +126,5 @@ profiles:
     commentsToLikes: 0.025581
     id: ck9ha2sbxawj80j78sg36hpki
     verified: false
-    hashtags: "#ad, #smirnoffseltzer, #comedy, #hayfever"
-  - username: "megmckeeverr"
-    fullname: >-
-      M E G G Y
-    bio: >-
-      eighteen & a full time comedian🤌🏼
-    location: "Australia"
-    followers: 11544
-    engagement: 628
-    commentsToLikes: 0.017683
-    id: ck6toa145cxmt0j71jtiz21wm
-    verified: false
-    hashtags: "#formal2020"
-  - username: "jimeoinmckeown"
-    fullname: >-
-      Jimeoin Mckeown
-    bio: >-
-      Irish / Australian comedian on tour near you soon! www.jimeoin.com
-    location: "Australia"
-    followers: 26797
-    engagement: 214
-    commentsToLikes: 0.064974
-    id: ckaorztvqpid00i78ie95k57y
-    verified: false
-    hashtags: "#bonville, #comedy, #stralya"
-  - username: "nikkiosborneofficial"
-    fullname: >-
-      Nikki Osborne
-    bio: >-
-      Comedian. Writer. Adequate mother. Host of Just For Laughs-Ch10. Bush Barbie. Bird on the Tele. Scotch enthusiast. Drunk Historian. Jungle evictee.
-    location: "Australia"
-    followers: 40343
-    engagement: 192
-    commentsToLikes: 0.061451
-    id: ck5cl1n60y2i10i11u15hjj31
-    verified: false
-    hashtags: "#goodtimes, #olympics, #dingers, #safesex"
-  - username: "adrian.alaberg"
-    fullname: >-
-      Adrian Alaberg
-    bio: >-
-      Comedian-Streamer-TV man 🎥 I make short videos 🎥 ⬇️ 🔥 LIVE ON TWITCH EVERY WEEKDAY🔥 ⬇️ _________
-    location: "Australia"
-    followers: 16632
-    engagement: 281
-    commentsToLikes: 0.027597
-    id: ck6ttrwqnc8yj0j71swuuoeuu
-    verified: false
-    hashtags: "#fyp, #straya, #aussie, #perth"
-  - username: "jjpantano"
-    fullname: >-
-      JJ Pantano ⭐️ #AGT Champions
-    bio: >-
-      ⭐️Youngest Comedian In 🌎⭐️140 million views ⭐️Actor⭐️Comedian⭐️Singer MGT: 🇦🇺🇺🇸 management@jjpantano.com.au ⭐️IG by Parents
-    location: "Australia"
-    followers: 28722
-    engagement: 352
-    commentsToLikes: 0.035361
-    id: ck5zxo1vf8ct90i14dotxyovi
-    verified: true
-    hashtags: "#kidcomedian, #a3artistsagency, #jjpantano, #simoncowell"
-  - username: "joelcreasey"
-    fullname: >-
-      Joel Creasey
-    bio: >-
-      TV presenter, comedian, fashion enthusiast, radio chatterbox and total mole.
-    location: "Australia"
-    followers: 156462
-    engagement: 433
-    commentsToLikes: 0.033906
-    id: ck55kao78yvlz0i11ykcktifp
-    verified: true
-    hashtags: "#arias, #thestarsydney, #amazonprime, #deliveringsmiles"
-  - username: "adamraycomedy"
-    fullname: >-
-      Adam Ray
-    bio: >-
-      Comedian. Actor. Voice Over guy. ICEBREAKERS podcast. ALN podcast. Ruben on CROSSING SWORDS on Hulu
-    location: "Australia"
-    followers: 143521
-    engagement: 53
-    commentsToLikes: 0.025194
-    id: ck1385489ej110i19gg5m3pag
-    verified: true
-    hashtags: "#alnpodcast, #adamraycomedy, #standupcomedy, #comedy"
-  - username: "dilrukj"
-    fullname: >-
-      Dilruk Jayasinha
-    bio: >-
-      🇱🇰 🇦🇺 Logie award winning Sri Lankan born Aussie Stand Up comedian & actor. One hour comedy special “Bundle Of Joy” now streaming on Amazon Prime
-    location: "Australia"
-    followers: 19400
-    engagement: 206
-    commentsToLikes: 0.030426
-    id: ck5zo88shpzf30i14c6jzog95
-    verified: false
-    hashtags: "#grapesofmirth, #laugh, #wine, #orange360"
+    hashtags: "#covid, #growthbomb, #smirnoffseltzer, #reels"
 ---

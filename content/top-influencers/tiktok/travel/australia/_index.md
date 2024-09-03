@@ -1,11 +1,11 @@
 ---
-title: Top 10 Travel TikTok Influencers In Australia In 2023
+title: Top 10 Travel TikTok Influencers In Australia In 2024
 description: >-
-  Find top travel TikTok influencers in Australia in 2023. Most popular hashtags: #australia #tiktoktravel #fyp #travel.
+  Find top travel TikTok influencers in Australia in 2024. Most popular hashtags: #australia #fyp #travel #tiktoktravel.
 platform: TikTok
-hits: 278
-text_top: Identify the top-rated TikTok accounts on inBeat.
-text_bottom: Our platform holds 278 TikTok influencers like this in Australia for you to connect with.
+hits: 280
+text_top: Identify the most popular TikTok influencers on inBeat.
+text_bottom: inBeat aggregates 280 TikTok influencers like this in Australia for you to work with.
 profiles:
   - username: "jordentually"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.045857
     id: ck80org8njipp0j7867c629qy
     verified: true
-    hashtags: "#cruise, #travel, #travellife, #food"
+    hashtags: "#swiss, #tiktokusa, #traveldiaries, #tbilisi"
   - username: "spaitgirl"
     fullname: >-
       #SPAITGIRL Travel
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.013335
     id: cka0ppso29by50i78i80k52y3
     verified: true
-    hashtags: "#melbournefood, #melbourne, #traveling, #weebsociety"
+    hashtags: "#melbournefood, #placestovisit, #otakus, #animelovers"
   - username: "aquariustraveller"
     fullname: >-
       Aquarius Traveller / Chris Fry
@@ -54,7 +54,7 @@ profiles:
     commentsToLikes: 0.068408
     id: ck977bnu23lx30j7889za75v1
     verified: false
-    hashtags: "#adventure, #brisbane, #queensland, #australia"
+    hashtags: "#brisbane, #newzealand, #qld, #goldcoast"
   - username: "natashagallier"
     fullname: >-
       Natasha Gallier
@@ -66,7 +66,7 @@ profiles:
     commentsToLikes: 0.101569
     id: ckbf1tl2eo91j0j23ipuftglm
     verified: false
-    hashtags: "#broome, #honeymoon, #sunset, #friends"
+    hashtags: "#sunset, #broome, #honeymoon, #perthwa"
   - username: "lukedamant"
     fullname: >-
       Luke Damant

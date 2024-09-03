@@ -1,24 +1,24 @@
 ---
-title: Top 10 Guitar Instagram Influencers In Norway In 2023
+title: Top 10 Guitar Instagram Influencers In Norway In 2024
 description: >-
-  Find top guitar Instagram influencers in Norway in 2023. Most popular hashtags: #norway #metal #guitar #blackmetal.
+  Find top guitar Instagram influencers in Norway in 2024. Most popular hashtags: #norway #metal #guitar #norwegian.
 platform: Instagram
 hits: 8
-text_top: See the most popular Instagram accounts on inBeat.
-text_bottom: inBeat holds 8 Instagram influencers like this in Norway for you to contact.
+text_top: Discover the best Instagram influencers on inBeat.
+text_bottom: Our search engine holds 8 Instagram influencers like this in Norway for you to collaborate.
 profiles:
   - username: "teloch.mayhem"
     fullname: >-
       Morten Bergeton Iversen
     bio: >-
-      Norwegian guitarist in : @thetruemayhem @nidingr_norway #umoral
+      Norwegian metal guitarist/composer. I’m on YouTube, doing my own clothing brand and also do some untz untzing. 👇🏻 - Links to everything I’m doing
     location: "Norway"
-    followers: 51094
-    engagement: 434
-    commentsToLikes: 0.022798
+    followers: 78580
+    engagement: 347
+    commentsToLikes: 0.031428
     id: ck5zj95unh65i0i142d852jh8
     verified: true
-    hashtags: "#helvete, #mayhem, #blackmetal, #repost"
+    hashtags: "#telochmayhem, #teloch, #repost, #blackmetal"
   - username: "keveneknes"
     fullname: >-
       Keven Eknes
@@ -31,18 +31,6 @@ profiles:
     id: ck0tybpmymblc0i190dnksnh4
     verified: false
     hashtags: "#fender, #victoryamps, #fractalaudio, #shredguitar"
-  - username: "martine_roenning"
-    fullname: >-
-      Martine Rønning
-    bio: >-
-      Artist/model - Norway🇧🇻 Singer at @playagencyofficial🎤 Model at @ebmodels📷 Booking DM/email ❣️
-    location: "Norway"
-    followers: 13218
-    engagement: 1402
-    commentsToLikes: 0.268635
-    id: ck55k7pvwyokz0i110g2y9sgs
-    verified: false
-    hashtags: "#christmas, #photoshoot, #instacover, #cover"
   - username: "magnus_klausen"
     fullname: >-
       Magnus klausen
@@ -55,6 +43,18 @@ profiles:
     id: ck6ud1r3wim5o0j71vdhqbj09
     verified: false
     hashtags: "#pickupjazz, #soundofguitars, #guitarsarebetter, #drakememes"
+  - username: "martine_roenning"
+    fullname: >-
+      Martine Rønning
+    bio: >-
+      
+    location: "Norway"
+    followers: 12261
+    engagement: 1118
+    commentsToLikes: 0.257446
+    id: ck55k7pvwyokz0i110g2y9sgs
+    verified: false
+    hashtags: "#musician, #gigs, #beautiful, #summer"
   - username: "henrylemoin"
     fullname: >-
       Henry Lemoin | Norwegian Model

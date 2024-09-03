@@ -1,24 +1,12 @@
 ---
-title: Top 10 TikTok Influencers In Los Angeles In 2023
+title: Top 10 TikTok Influencers In Los Angeles In 2024
 description: >-
-  Find top TikTok influencers in Los Angeles in 2023. Most popular hashtags: #fyp #foryou #stitch #duet.
+  Find top TikTok influencers in Los Angeles in 2024. Most popular hashtags: #fyp #foryou #stitch #duet.
 platform: TikTok
-hits: 1206
-text_top: Identify the most popular TikTok influencers on inBeat.
-text_bottom: Our platform holds 1206 TikTok influencers like this in Los Angeles, United States for you to work with.
+hits: 1217
+text_top: See the top-rated TikTok influencers on inBeat.
+text_bottom: Our platform aggregates 1217 TikTok influencers like this in Los Angeles, United States for you to pitch.
 profiles:
-  - username: "fairyjew"
-    fullname: >-
-      celine !!! <3333 ♐️🌈
-    bio: >-
-      sagittarius autistic dyk e XDDD she/her los angeles / germany 🧚🏻🍭🌟🌈🔯
-    location: "United States"
-    followers: 6647
-    engagement: 1961
-    commentsToLikes: 0.180833
-    id: ckdn2sl3gdlz40j23gsq4j7p9
-    verified: false
-    hashtags: "#duet, #foryou, #alt, #fyp"
   - username: "waltzb7"
     fullname: >-
       Waltz B.
@@ -30,7 +18,19 @@ profiles:
     commentsToLikes: 0.109629
     id: ckbr93e2antvo0j23qz0cc0jj
     verified: false
-    hashtags: "#latine, #fyp, #latino, #mexican"
+    hashtags: "#latino, #lgbtq, #fyp, #alphabetmafia"
+  - username: "faeriejew"
+    fullname: >-
+      celine !!! <3333 ♐️🌈
+    bio: >-
+      autistic lesb0 🌷 she/her los angeles / germany 🧚🏻🍭🌟🌈🔯
+    location: "United States"
+    followers: 6549
+    engagement: 1825
+    commentsToLikes: 0.165422
+    id: ckdn2sl3gdlz40j23gsq4j7p9
+    verified: false
+    hashtags: "#duet, #foryou, #fyp, #lgbt"
   - username: "nathanhurdcomedy"
     fullname: >-
       Nathan Hurd
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.022426
     id: ck9e0flve5u4m0j78hflwv6xu
     verified: false
-    hashtags: "#laugh, #fyp, #comedy, #jokes"
+    hashtags: "#questions, #fyp, #laugh, #nathanhurdcomedy"
   - username: "rowanxrice"
     fullname: >-
       Rowan X Rice
@@ -66,7 +66,7 @@ profiles:
     commentsToLikes: 0.051513
     id: ckbqq869qb5st0j23riiw0pyq
     verified: true
-    hashtags: "#soccergirl, #fyp, #soccer, #fifa21"
+    hashtags: "#soccer, #foryou, #fifa, #soccergirl"
   - username: "jonathangio"
     fullname: >-
       Jonathan Gio 
@@ -78,7 +78,7 @@ profiles:
     commentsToLikes: 0.079888
     id: ck933w0crpy8y0j789zq9dvey
     verified: false
-    hashtags: "#foryoupage, #foryou, #tiktok, #love"
+    hashtags: "#tiktok, #foryoupage, #foryou, #movies"
   - username: "dakotarescuedog"
     fullname: >-
       JDog Rescue
@@ -102,7 +102,7 @@ profiles:
     commentsToLikes: 0.055568
     id: ck92t5ijvgdau0j789gch9gr7
     verified: false
-    hashtags: "#hekinhenry, #animalsoftiktok, #viral, #puppycheck"
+    hashtags: "#viral, #hekinhenry, #moodboost, #aussie"
   - username: "stuberryblue"
     fullname: >-
       stuberryblue

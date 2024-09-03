@@ -1,11 +1,11 @@
 ---
-title: Top 10 Photographers TikTok Influencers In Australia In 2023
+title: Top 10 Photographers TikTok Influencers In Australia In 2024
 description: >-
-  Find top photographers TikTok influencers in Australia in 2023. Most popular hashtags: #fyp #australia #photography #travel.
+  Find top photographers TikTok influencers in Australia in 2024. Most popular hashtags: #fyp #australia #photography #travel.
 platform: TikTok
 hits: 55
-text_top: See the top-rated TikTok accounts on inBeat.
-text_bottom: Our platform aggregates 55 TikTok influencers like this in Australia for you to work with.
+text_top: Analyze the most popular TikTok influencers on inBeat.
+text_bottom: Our search engine aggregates 55 TikTok influencers like this in Australia for you to pitch.
 profiles:
   - username: "christian_shay"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.017162
     id: ck8ae6fuja7n90j789i9qv37h
     verified: true
-    hashtags: "#stitch, #culturekings"
+    hashtags: "#culturekings, #stitch"
   - username: "demas"
     fullname: >-
       Demas Rusli

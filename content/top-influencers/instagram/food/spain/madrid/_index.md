@@ -1,12 +1,24 @@
 ---
-title: Top 10 Food Instagram Influencers In Madrid In 2023
+title: Top 10 Food Instagram Influencers In Madrid In 2024
 description: >-
-  Find top food Instagram influencers in Madrid in 2023. Most popular hashtags: #madrid #restaurantesmadrid #foodporn #foodiesmadrid.
+  Find top food Instagram influencers in Madrid in 2024. Most popular hashtags: #foodmadrid #madrid #restaurantesmadrid #madridfood.
 platform: Instagram
-hits: 87
-text_top: Identify the best Instagram profiles on inBeat.
-text_bottom: inBeat aggregates 87 Instagram influencers like this in Madrid, Spain for you to connect with.
+hits: 112
+text_top: Discover the top-rated Instagram influencers on inBeat.
+text_bottom: Our database holds 112 Instagram influencers like this in Madrid, Spain for you to connect with.
 profiles:
+  - username: "sushiguidemadrid"
+    fullname: >-
+      SUSHI GUIDE MADRID
+    bio: >-
+      🥢 Guía de Restaurantes para amantes de la gastronomía japonesa y fusión. 🍣 Provocándote ganas de sushi 🤤 📍 Madrid y resto de España
+    location: "Spain"
+    followers: 13506
+    engagement: 323
+    commentsToLikes: 0.043971
+    id: ckw46he5ii2ng0j23jz3ct1du
+    verified: false
+    hashtags: "#sushiguidemadridlelong, #sushiguidemadrid, #sushimadrid, #sushiaddict"
   - username: "madrid_foodies"
     fullname: >-
       Madrid Foodies
@@ -19,112 +31,100 @@ profiles:
     id: ck8t1guqsvpvy0j78zb16w7uh
     verified: false
     hashtags: "#elbuencomer, #madridfoodguide, #huevosfritosconpatatas, #tortiglioni"
-  - username: "madridcongusto"
+  - username: "madridencerocoma"
     fullname: >-
-      Sonia 🙋🏼‍♀️ | Madrid con Gusto
+      Noe❤️🌇
     bio: >-
-      🔥Sólo recomendaciones🔥 📍Madrid, Viajes & Productos ✍🏼: hola@madridcongusto.com
+      📍 〽️𝕒𝕕𝕣𝕚𝕕 ⚡️Planazos, viajes ¡y buen rollo✌🏻! ✍🏻lanoe80.rivas@hotmail.com
     location: "Spain"
-    followers: 16665
-    engagement: 413
-    commentsToLikes: 0.161356
-    id: ck15uihjync3u0i1951m0xz6z
+    followers: 10144
+    engagement: 306
+    commentsToLikes: 0.118075
+    id: ckf5wpj6gsu200j235od16ar9
     verified: false
-    hashtags: "#parrilla, #carnealabrasa, #hamburguesas, #madriz"
-  - username: "sarareyfdez"
+    hashtags: "#planesmadrid, #madridsecreto, #restaurantesmadrid, #igersmadrid"
+  - username: "belenapar"
     fullname: >-
-      SARA REY
+      Belén Aparicio
     bio: >-
-      🍕 Foodie 👠 Fashion/Beauty lover 🌎 Traveller 🚩 Madrid - Sevilla
+      🔸Graphic Designer, Illustrator, Creative 🔸Photography/Travel/Lifestyle 🔸My art account @belenaparte 📍Madrileña en Madrid ✈️ + de 30 países
     location: "Spain"
-    followers: 11010
-    engagement: 500
-    commentsToLikes: 0.083566
-    id: ck8t12zirua4b0j78byyk2xu2
+    followers: 16901
+    engagement: 251
+    commentsToLikes: 0.108613
+    id: ck14grpdg6ot40i19ygsoaeuq
     verified: false
-    hashtags: "#madridlovers, #madridfans, #madrid, #restaurantesmadrid"
-  - username: "purogocheo"
-    fullname: >-
-      Dani 🔄 PUROGOCHEO
-    bio: >-
-      🍔Comer, como estilo de vida 🕺 💯Opiniones sinceras 📩 purogocheo@gmail.com📩 📸Todas las fotos son mías y ha pasado por mi estómago 🤰 📌 Madrid y el 🌍
-    location: "Spain"
-    followers: 13222
-    engagement: 540
-    commentsToLikes: 0.231789
-    id: ck14jypldmu7s0i19037hl1r9
-    verified: false
-    hashtags: "#smokehouse, #restaurantesmadrid, #hamburguesas, #cheese"
-  - username: "carlospalop_"
-    fullname: >-
-      Carlos Palop
-    bio: >-
-      🍃 Life is beautiful 🍃 👥 Digital PR en @keeperexperience 📌 Madrid-Valencia 📫 cpalopsoriano@gmail.com
-    location: "Spain"
-    followers: 26233
-    engagement: 483
-    commentsToLikes: 0.018714
-    id: ck9hbckvhgady0j78hl6v2hxi
-    verified: false
-    hashtags: "#madridcity, #plantasdecasa, #oto, #filomena"
-  - username: "sara_buzon"
-    fullname: >-
-      Sara Buzón
-    bio: >-
-      Luz, textura y sabor. ❤️♥️♥️ Fotógrafa y estilista gastronómica. info@sarabuzon.com . @sarabuzon_retratos
-    location: "Spain"
-    followers: 26366
-    engagement: 564
-    commentsToLikes: 0.112481
-    id: ck6tmic507wl00j7189kwukn9
-    verified: false
-    hashtags: "#foodstagram, #foodphoto, #foodporn, #restaurantesdemadrid"
+    hashtags: "#madridspain, #dametraveler, #ociomadrid, #veranoconfidential"
   - username: "detapaspormadrid"
     fullname: >-
       RufoSegovia | DeTapasPorMadrid
     bio: >-
-      🏅| Tu guía con los mejores bares y restaurantes de #Madrid 🌟| Del bar de la esquina a restaurantes con estrella 🍻| #DeTapasPorMadrid
+      🍽| Descubriendo #Madrid y #España a través de su gastronomía 🌟| Del bar de la esquina a restaurantes con estrella 😜| ¿Me acompañas en este viaje? 👇🏻👇🏻
     location: "Spain"
-    followers: 33381
-    engagement: 208
-    commentsToLikes: 0.147094
+    followers: 186098
+    engagement: 73
+    commentsToLikes: 0.044440
     id: ck8szp30xp7ch0j78v3pgo78m
     verified: false
-    hashtags: "#igersmadrid, #detapaspormadrid, #pizza, #madridfoodies"
-  - username: "momosfoodmadrid"
+    hashtags: "#instaeats, #tapeo, #foodmadrid, #madridfood"
+  - username: "sarareyfdez"
     fullname: >-
-      Momo's Food Madrid
+      SARA
     bio: >-
-      🍽 FOOD BLOGGERS 📍Madrid 💌Colaboraciones: momosfoodmadrid@gmail.com 👫 Marta y Sergio ➕ Paula y Cecilia ➕ Ana y Edu ⬇ BLOG
+      🍕 Foodie 🌍 Traveller 👠 Fashion/Beauty lover 🐶 Mum of @pomerania_maximo
     location: "Spain"
-    followers: 56664
-    engagement: 371
-    commentsToLikes: 0.049227
-    id: ck6u9c7zmwpet0j71zud4ekjk
+    followers: 11352
+    engagement: 238
+    commentsToLikes: 0.054684
+    id: ck8t12zirua4b0j78byyk2xu2
     verified: false
-    hashtags: ""
-  - username: "madridseduce"
+    hashtags: "#ububbali, #cumplea, #balitravel, #visitbali"
+  - username: "comunidad_comida"
     fullname: >-
-      Madrid Seduce
+      Pedro | ComunidadComida
     bio: >-
-      ❤ Experiencias 🔝 Lugares 📸 #Fotos 🍽 #Gastronomía 🔥 #Tendencias ☀ #Madrid con amor y con los 5 sentidos 💡 Colaboraciones 💻 Web ⤵️
+      🍴 Visito restaurantes y te lo cuento 🎥 TikTok (+38.000) 🍩 YouTube (+19.000) LOS MEJORES HELADOS 👇👇
     location: "Spain"
-    followers: 119992
-    engagement: 145
-    commentsToLikes: 0.279939
-    id: ck0u6miz22evx0i19tu4ase72
+    followers: 83898
+    engagement: 594
+    commentsToLikes: 0.071417
+    id: ckw46he13i2hm0j23a41nv7th
     verified: false
-    hashtags: "#mycity, #madrid, #foodies, #ig"
-  - username: "alberto_deluna"
+    hashtags: "#foodie, #comida, #restaurantes, #madrid"
+  - username: "come__me"
     fullname: >-
-      ALBERTO_DELUNA
+      Come-Me 🌎 Cuenta Oficial
     bio: >-
-      La vida es demasiado corta como para no disfrutarla comiendo, bebiendo y viajando. La verdad de los restaurantes conmigo. Socio de @dlm_abogados
+      ❤️Apasionados por la #gastronomía 🔝Restaurantes de moda y productos gourmet 📷Captando sabores 📍#restaurantesmadrid y #mundo 📩 hola@come-me.com
     location: "Spain"
-    followers: 56496
-    engagement: 156
-    commentsToLikes: 0.023016
-    id: ck5zvvqul4zy10i14x5gv6e4k
+    followers: 33659
+    engagement: 47
+    commentsToLikes: 0.042096
+    id: ck5zyeymr9rk10i145bahj8xm
     verified: false
-    hashtags: "#lunas, #albertodeluna, #madridrestaurants, #fayermad"
+    hashtags: "#restaurantesgranada, #instapic, #foodiesmadrid, #restaurantestop"
+  - username: "madridcongusto"
+    fullname: >-
+      Sonia 🙋🏼‍♀️ | Madrid con Gusto
+    bio: >-
+      🔥Sólo recomendaciones🔥 📍Madrid: Restaurantes, Viajes & Productos 📍Valencia en @valenciacongusto ✍🏼: hola@madridcongusto.com
+    location: "Spain"
+    followers: 98970
+    engagement: 260
+    commentsToLikes: 0.057353
+    id: ck15uihjync3u0i1951m0xz6z
+    verified: false
+    hashtags: "#meatporn, #terraza, #arroz, #madridburger"
+  - username: "viajaresvivir__"
+    fullname: >-
+      VIAJAR ES VIVIR ® Tamara Belén Panet & Lucas Paulos
+    bio: >-
+      🟨 Tami, Lucas, India 🐾 🟩 Inspiración y viajes por el 🌍 🟪 somosviajaresvivir@gmail.com 🟥 Madrid, España
+    location: "Spain"
+    followers: 233520
+    engagement: 117
+    commentsToLikes: 0.176677
+    id: ck14k75v2o2pg0i19m5cmu1fc
+    verified: false
+    hashtags: "#viajaresvivir, #escapadasdeverano, #frasesinspiradoras, #azores"
 ---

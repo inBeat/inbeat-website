@@ -1,11 +1,11 @@
 ---
-title: Top 10 Skincare TikTok Influencers In France In 2023
+title: Top 10 Skincare TikTok Influencers In France In 2024
 description: >-
-  Find top skincare TikTok influencers in France in 2023. Most popular hashtags: #skincare #makeup #pourtoi #foryou.
+  Find top skincare TikTok influencers in France in 2024. Most popular hashtags: #skincare #makeup #pourtoi #foryou.
 platform: TikTok
-hits: 60
-text_top: Discover the best TikTok profiles on inBeat.
-text_bottom: inBeat aggregates 60 TikTok influencers like this in France for you to work with.
+hits: 61
+text_top: Discover the top-rated TikTok accounts on inBeat.
+text_bottom: inBeat holds 61 TikTok influencers like this in France for you to collaborate.
 profiles:
   - username: "roselucyy"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.006639
     id: ckb18k088wgl00j23n9dqzlwk
     verified: true
-    hashtags: "#beauty, #duo, #asmr, #skincare"
+    hashtags: "#beauty, #skincare, #duo, #asmr"
   - username: "act.st.ing1"
     fullname: >-
       💕Act.st.ing1 💕danse/actings
@@ -126,5 +126,5 @@ profiles:
     commentsToLikes: 0.011813
     id: ckaiev072u0nq0i78uyatm5q7
     verified: false
-    hashtags: "#skincare, #ootd, #outfitideas, #pourtoi"
+    hashtags: "#outfit, #beauty, #outfitideas, #pourtoi"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Mothers Instagram Influencers In Las Vegas In 2023
+title: Top 10 Mothers Instagram Influencers In Las Vegas In 2024
 description: >-
-  Find top mothers Instagram influencers in Las Vegas in 2023. Most popular hashtags: #lasvegas #explorepage #vegasliving #lasvegaslife.
+  Find top mothers Instagram influencers in Las Vegas in 2024. Most popular hashtags: #lasvegas #momlife #funny #vegas.
 platform: Instagram
-hits: 37
-text_top: Analyze the top-rated Instagram accounts on inBeat.
-text_bottom: Our platform holds 37 Instagram influencers like this in Las Vegas, United States for you to contact.
+hits: 45
+text_top: Analyze the most popular Instagram accounts on inBeat.
+text_bottom: Our platform has 45 Instagram influencers like this in Las Vegas, United States for you to connect with.
 profiles:
   - username: "cigarswithcc"
     fullname: >-
@@ -18,7 +18,19 @@ profiles:
     commentsToLikes: 0.045719
     id: ckaotdytavii30i78a7mdyot7
     verified: false
-    hashtags: "#vegasliving, #cigaraficianado, #puro, #girlswhokissgirls"
+    hashtags: "#cigarfamily, #instacigar, #alwaysclassy, #intelligentwoman"
+  - username: "theofficialaddison"
+    fullname: >-
+      Addison
+    bio: >-
+      🌈 GayDHD | Nurse 💉 🤣 TikTok/Twitch: @big_daddy_addie 🎥 🔥 Merch below 👇🏼
+    location: "United States"
+    followers: 152461
+    engagement: 4580
+    commentsToLikes: 0.011152
+    id: clrxjqfobwcgn0k08wll0jj1b
+    verified: false
+    hashtags: "#funny, #onethingstraight, #hospital, #gay"
   - username: "emily.the.fae"
     fullname: >-
       Emily Fae
@@ -31,6 +43,18 @@ profiles:
     id: ck0vz5vlr7goz0i19ipvahymw
     verified: false
     hashtags: "#sugarthrillz, #dollskill"
+  - username: "miss.jayza"
+    fullname: >-
+      J A Y Z A L Y N
+    bio: >-
+      HI. Las Vegas | RRT | Filipina | @jruealan #fashion #beauty #momlife COLLABS/PR 📩: jayzalynsomera@gmail.com
+    location: "United States"
+    followers: 13030
+    engagement: 227
+    commentsToLikes: 0.090771
+    id: ck55p4ebw9s4c0i11mttdxfpa
+    verified: false
+    hashtags: "#asian, #reel, #family, #kids"
   - username: "ronin314"
     fullname: >-
       JAV - Masterless Photographer
@@ -43,18 +67,30 @@ profiles:
     id: ck6tprevam3k30j71j8oit2fy
     verified: false
     hashtags: "#themandalorian, #mercphoto, #deathwatch, #thebookofbobafett"
-  - username: "hanginwithhaley"
+  - username: "heathercrock"
     fullname: >-
-      Hangin with Haley
+      Heather Crockett Oram
     bio: >-
-      Product Reviews / Home Improvement and Decor / Foodie / Las Vegas, NV / Real Estate
+      • Tattooed mother of 5 with infertility • Adoption • Weight loss -124 lbs after vsg • Nurse Practitioner • World Traveler 📧 Email to collab
     location: "United States"
-    followers: 107928
-    engagement: 100
-    commentsToLikes: 1.004439
-    id: ckaowh7ag8xed0i78xv5ayoi4
+    followers: 328413
+    engagement: 64
+    commentsToLikes: 0.022967
+    id: ckzrlvyye0t310i23mg0cq4nl
     verified: false
-    hashtags: "#vegasfoodie, #lasvegasliving, #lasvegaslocal, #vegaslife"
+    hashtags: "#openadoption, #weightloss, #weightlossjourney, #love"
+  - username: "dr.lindaparra"
+    fullname: >-
+      Linda Parra
+    bio: >-
+      Mother, wife, dentist, at @drparraimplantcenter VP at @wildandwhimsyfoundation and a straight up G 😎 #thister #thisters
+    location: "United States"
+    followers: 107976
+    engagement: 25
+    commentsToLikes: 0.001822
+    id: ck0w3j0aytnt70i193oudefp2
+    verified: false
+    hashtags: "#chanel, #cabo, #glammedupvegas, #poweredbypangaia"
   - username: "iamthaprettygangsta"
     fullname: >-
       🥰 Prettyme.05 👄
@@ -78,53 +114,17 @@ profiles:
     commentsToLikes: 0.045119
     id: ck5bz4re4qgat0i11yk8twxks
     verified: false
-    hashtags: "#girlstrip, #bravo, #momlife, #momstyle"
-  - username: "_liv_fashionably"
+    hashtags: "#ootd, #momstyle, #bravo, #girlstrip"
+  - username: "halfcrazymama"
     fullname: >-
-      Liv
+      Emelia Cellura
     bio: >-
-      Mother of 2 💗💙 Living my life fashionably ✨
+      An active mother's guide to life. Runner, mother, travel obsessed, and avid reader. Follow along with my journey. 😊
     location: "United States"
-    followers: 6440
-    engagement: 1556
-    commentsToLikes: 0.074708
-    id: ck8t30cpx1ev10j78ki5aqwaa
+    followers: 26497
+    engagement: 73
+    commentsToLikes: 0.032356
+    id: ckaovn4c75akv0i78g7z1k50p
     verified: false
-    hashtags: "#raleighhairstylist, #charlottebraider, #braidstyles, #braidstyle"
-  - username: "oliviacaridi"
-    fullname: >-
-      Olivia Caridi
-    bio: >-
-      📍NYC NYU Grad Student Mouthing Off Podcast Mother to @gemmagcrestie
-    location: "United States"
-    followers: 199419
-    engagement: 375
-    commentsToLikes: 0.025289
-    id: ck6tlodvq6c2o0j71iws3i7ai
-    verified: true
-    hashtags: "#fabfitfunpartner, #nyc, #newyorkcity, #bondiboost"
-  - username: "ashleymborrome"
-    fullname: >-
-      𝐀𝐬𝐡𝐥𝐞𝐲 𝐌𝐚𝐫𝐢𝐞𝐥 𝐁𝐨𝐫𝐫𝐨𝐦𝐞
-    bio: >-
-      A Gemini. Under maintenance. Deleting everyone and their mother.
-    location: "United States"
-    followers: 13348
-    engagement: 298
-    commentsToLikes: 0.052760
-    id: ck15ricrb82yx0i19uxipnci2
-    verified: false
-    hashtags: "#tiktok, #quarantine, #explorepage, #makeup"
-  - username: "thaqueenmv"
-    fullname: >-
-      Martha Vargas
-    bio: >-
-      👑 to the Champ & Blessed mother of 4
-    location: "United States"
-    followers: 51628
-    engagement: 340
-    commentsToLikes: 0.042065
-    id: ck6tpkks5ke1b0j71m6kcaftr
-    verified: false
-    hashtags: "#nomeserajar, #boxing, #prodebut, #babydaddy"
+    hashtags: "#nycmarathon, #momlife, #womensrunningcommunity, #rundisney"
 ---

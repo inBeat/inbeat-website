@@ -1,11 +1,11 @@
 ---
-title: Top 10 Painters TikTok Influencers In Germany In 2023
+title: Top 10 Painters TikTok Influencers In Germany In 2024
 description: >-
-  Find top painters TikTok influencers in Germany in 2023. Most popular hashtags: #fyp #fy #foryou #artist.
+  Find top painters TikTok influencers in Germany in 2024. Most popular hashtags: #fyp #fy #foryou #art.
 platform: TikTok
 hits: 43
-text_top: Discover the best TikTok profiles on inBeat.
-text_bottom: inBeat aggregates 43 TikTok influencers like this in Germany for you to collaborate.
+text_top: Identify the best TikTok influencers on inBeat.
+text_bottom: Our platform has 43 TikTok influencers like this in Germany for you to work with.
 profiles:
   - username: "annamarysol"
     fullname: >-

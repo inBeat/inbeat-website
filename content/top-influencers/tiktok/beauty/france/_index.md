@@ -1,11 +1,11 @@
 ---
-title: Top 10 Beauty TikTok Influencers In France In 2023
+title: Top 10 Beauty TikTok Influencers In France In 2024
 description: >-
-  Find top beauty TikTok influencers in France in 2023. Most popular hashtags: #pourtoi #beauty #makeup #skincare.
+  Find top beauty TikTok influencers in France in 2024. Most popular hashtags: #pourtoi #beauty #fyp #makeup.
 platform: TikTok
-hits: 234
-text_top: Identify the best TikTok accounts on inBeat.
-text_bottom: Our platform has 234 TikTok influencers like this in France for you to work with.
+hits: 235
+text_top: Discover the most popular TikTok accounts on inBeat.
+text_bottom: Our platform has 235 TikTok influencers like this in France for you to collaborate.
 profiles:
   - username: "roselucyy"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.006639
     id: ckb18k088wgl00j23n9dqzlwk
     verified: true
-    hashtags: "#beauty, #duo, #asmr, #skincare"
+    hashtags: "#beauty, #skincare, #duo, #asmr"
   - username: "dreamygeek"
     fullname: >-
       Dreamy Giirl
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.021478
     id: ckajjtpadmvuf0i788hpgjh69
     verified: false
-    hashtags: "#challenge, #foryou, #tiktok, #pourtoi"
+    hashtags: "#pourtoi, #tiktok, #challenge, #foryou"
   - username: "grainedemagie"
     fullname: >-
       Mélaine
@@ -102,7 +102,7 @@ profiles:
     commentsToLikes: 0.011813
     id: ckaiev072u0nq0i78uyatm5q7
     verified: false
-    hashtags: "#skincare, #ootd, #outfitideas, #pourtoi"
+    hashtags: "#outfit, #beauty, #outfitideas, #pourtoi"
   - username: "yeya_beauty"
     fullname: >-
       Léa Sabatier
@@ -115,16 +115,16 @@ profiles:
     id: ckcdy0ym4gegm0j23wgcu209c
     verified: false
     hashtags: "#foryou, #pourtoi, #makeup, #make"
-  - username: "noem.musik"
+  - username: "tallissa"
     fullname: >-
-      Noem Off
+      Issa Tall
     bio: >-
-      Artiste Chanteuse🎼🎶 Insta//Noem_officiel Snap//Noem_officiel Play on SPOTIFY
+      Photographer - Director Contact : Issa@issatall.com
     location: "France"
-    followers: 124300
-    engagement: 1770
-    commentsToLikes: 0.067932
-    id: ckc7skrx9xcl80j23h6qzk876
-    verified: true
-    hashtags: "#pourtoi, #talent, #chanteuse, #studio"
+    followers: 26900
+    engagement: 2332
+    commentsToLikes: 0.008303
+    id: ck90tr5cmtq8c0j78a3lxcsyb
+    verified: false
+    hashtags: "#foryou, #splash, #beauty, #lockdown"
 ---

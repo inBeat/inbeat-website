@@ -1,11 +1,11 @@
 ---
-title: Top 10 Models Instagram Influencers In 2023
+title: Top 10 Models Instagram Influencers In 2024
 description: >-
-  Find top models Instagram influencers in 2023. Most popular hashtags: #photoshoot #picoftheday #style.
+  Find top models Instagram influencers in 2024. Most popular hashtags: #model #prettygirls #summer2021.
 platform: Instagram
-hits: 75123
-text_top: Discover the top-rated Instagram accounts on inBeat.
-text_bottom: inBeat has 75123 Instagram influencers like this for you to contact.
+hits: 52917
+text_top: Identify the best Instagram profiles on inBeat.
+text_bottom: Our search engine holds 52917 Instagram influencers like this for you to collaborate.
 profiles:
   - username: "laurenharlee"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.041609
     id: ckaosrgwlsrv30i783es965cl
     verified: false
-    hashtags: "#dancevideos, #boyslie, #lipsync, #likee"
+    hashtags: "#lipsync, #likee, #dancevideos, #boyslie"
   - username: "diana_poli5"
     fullname: >-
       Diana
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.281219
     id: ckf5qj7sp9j8a0j237biufl96
     verified: false
-    hashtags: "#modelwanted, #fashionlook, #fashionissue, #photomodel"
+    hashtags: "#style, #beautygirl, #beautymakeup, #fashionlooks"
   - username: "nasynest"
     fullname: >-
       Анастасия Вертелецкая
@@ -43,18 +43,6 @@ profiles:
     id: ck6tzd4n0904o0j71alo5sjr9
     verified: false
     hashtags: "#model"
-  - username: "rupsasaha20"
-    fullname: >-
-      Rupsa Saha
-    bio: >-
-      Model
-    location: ""
-    followers: 430769
-    engagement: 435
-    commentsToLikes: 0.020145
-    id: ck8sx3ko9g3gt0j78l55lewy5
-    verified: false
-    hashtags: ""
   - username: "gabriela.prisacariu"
     fullname: >-
       Gabriela Prisacariu 🙈🙊💃🐒
@@ -67,64 +55,76 @@ profiles:
     id: ck5qej2bi0qh40i11uziu4pta
     verified: false
     hashtags: "#fairytail, #gymtimebaby, #campaign, #winterfashion"
-  - username: "imgiuliacocola"
+  - username: "laurenluto"
     fullname: >-
-      Giulia Cocola
+      Lauren Lutostanski
     bio: >-
-      🇮🇹Model
+      pink fits & style tips 🎀 Los Angeles laurenluto@gmail.com @metricmodels @luxefitagency fit model, print, commercial
     location: "United States"
-    followers: 62346
-    engagement: 199
-    commentsToLikes: 0.036464
-    id: ck5hcenmzhodg0i11cuv1mehs
-    verified: false
-    hashtags: "#adv, #tb"
-  - username: "larabocci"
-    fullname: >-
-      Lara Bocci
-    bio: >-
-      🇦🇷Model
-    location: "Argentina"
-    followers: 72750
-    engagement: 813
-    commentsToLikes: 0.005591
-    id: ck14lninrvjy90i1957pktxqj
+    followers: 21063
+    engagement: 742
+    commentsToLikes: 0.205789
+    id: cl30eeq5vxaw70i23yhpy1kb9
     verified: false
     hashtags: ""
-  - username: "rj_yuvraaj"
+  - username: "emyreyes"
     fullname: >-
-      RJ Yuvraaj
+      Emy Reyes
     bio: >-
-      Fittest💪 | Digital Head @radioonefm95📻 | (Ex RJ) . Actor🎭 | Model🎬 | Host🎙| Artist🎨 #artist #calisthenics #creative
-    location: "India"
-    followers: 59444
-    engagement: 1849
-    commentsToLikes: 0.023350
-    id: ck6tqpfl2sywy0j71t7qo6xf6
-    verified: false
-    hashtags: "#amdavad, #classic, #bhavnagar, #workout"
-  - username: "diana_eneje"
-    fullname: >-
-      Diana Eneje
-    bio: >-
-      •Model|Influencer •Most Influential & Fashionable 🥇 💕 Shop @theshinecartel 📧management@dianaeneje.com
+      🪬Actress/Model 💌Emykreyes@gmail.com 📍Los Angeles
     location: "United States"
-    followers: 881412
-    engagement: 609
-    commentsToLikes: 0.010877
-    id: ck8syqlu2lmpq0j78qrada67j
+    followers: 55289
+    engagement: 1378
+    commentsToLikes: 0.043017
+    id: ck0tzqnzdr7r00i19cyunjzit
     verified: false
-    hashtags: "#completefreshprotection, #reels, #closeupnigeria, #maldives"
-  - username: "i.am.chanice"
+    hashtags: "#blogger, #beach, #collabs, #fashion"
+  - username: "xomissdanielle"
     fullname: >-
-      I Am Chanice
+      Danielle Perry
     bio: >-
-      Content Creator | Model | Hair Stylist | Makeup Artist 🇬🇧 London, UK ✉️ Email for PR/Collabs i.am.chanice1@gmail.com
-    location: "United Kingdom"
-    followers: 37872
-    engagement: 545
-    commentsToLikes: 0.049951
-    id: ck6u5qez8b4pa0j71cg1x0l13
+      Danielle Victoria ↟Northern California heart ☼Southern California dwelling ☾Content creator & published model
+    location: "United States"
+    followers: 349853
+    engagement: 1132
+    commentsToLikes: 0.006493
+    id: ck0ud7tsuik7e0i19biiz3ipc
     verified: false
-    hashtags: "#blackhaircare, #lacefront, #congolaise, #rdcongo"
+    hashtags: "#bathandbodyworks, #paidlink, #liketkit, #athenaclub"
+  - username: "loveronnie"
+    fullname: >-
+      Ronnie Howard | Philly Influencer
+    bio: >-
+      ❤️ Lifestyle | Family | Fashion | Wellness ⭐️ Macy’s Style Crew 2024 📧 info@ronniehoward.com 📸 Real Life Model
+    location: "United States"
+    followers: 49537
+    engagement: 543
+    commentsToLikes: 0.099967
+    id: ck5bxe82xnjwd0i111mh7rwqk
+    verified: false
+    hashtags: "#macyspartner, #macysstylecrew, #mahoganymarriage, #inmyheyday"
+  - username: "nicolexashleyy"
+    fullname: >-
+      Nicole Ashley
+    bio: >-
+      Content Creator | Model | Stylist Mama to be💙 ☼Florida @nicolexashley_photo
+    location: "United States"
+    followers: 16120
+    engagement: 641
+    commentsToLikes: 0.012971
+    id: ck0ty0bzxl29c0i19k6gkqqlp
+    verified: false
+    hashtags: ""
+  - username: "taraturnure"
+    fullname: >-
+      TARA TURNURE / THE MODEL MAMA™
+    bio: >-
+      Founder of THE MODEL MAMA™ Mama • Model • Wifey • TV Host NTA | BRAND | HEFFNER MGMT Mama to Henry👦🏼 + Brooks 👶🏼 & Charlotte 👶🏼🎀 #twinmama
+    location: "United States"
+    followers: 110419
+    engagement: 543
+    commentsToLikes: 0.017282
+    id: ck6006vnbd2410i143658kspo
+    verified: false
+    hashtags: "#surfandsandresort, #missamericana, #happybirthdayamerica, #reset"
 ---

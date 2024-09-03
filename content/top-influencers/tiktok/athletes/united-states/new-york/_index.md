@@ -1,11 +1,11 @@
 ---
-title: Top 10 Athletes TikTok Influencers In New York In 2023
+title: Top 10 Athletes TikTok Influencers In New York In 2024
 description: >-
-  Find top athletes TikTok influencers in New York in 2023. Most popular hashtags: #fyp #foryou #athlete #funny.
+  Find top athletes TikTok influencers in New York in 2024. Most popular hashtags: #fyp #foryou #athlete #football.
 platform: TikTok
 hits: 14
-text_top: Analyze the best TikTok accounts on inBeat.
-text_bottom: Our platform has 14 TikTok influencers like this in New York, United States for you to contact.
+text_top: Discover the best TikTok influencers on inBeat.
+text_bottom: Our database aggregates 14 TikTok influencers like this in New York, United States for you to pitch.
 profiles:
   - username: "alexandertheswag"
     fullname: >-
@@ -54,7 +54,7 @@ profiles:
     commentsToLikes: 0.073986
     id: cka9kz60b17ur0i782wbhmp7m
     verified: false
-    hashtags: "#nfl, #billsmafia, #nyc, #607"
+    hashtags: "#wny, #607, #315, #716"
   - username: "sports_memers"
     fullname: >-
       Sports Memers

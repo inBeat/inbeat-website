@@ -1,11 +1,11 @@
 ---
-title: Top 10 Christian Instagram Influencers In South Korea In 2023
+title: Top 10 Christian Instagram Influencers In South Korea In 2024
 description: >-
-  Find top christian Instagram influencers in South Korea in 2023. Most popular hashtags: #bible #popvinyls #kpopmusic.
+  Find top christian Instagram influencers in South Korea in 2024. Most popular hashtags: #bible #f5p #vinylpop.
 platform: Instagram
-hits: 16
-text_top: Analyze the top-rated Instagram accounts on inBeat.
-text_bottom: inBeat aggregates 16 Instagram influencers like this in South Korea for you to connect with.
+hits: 15
+text_top: Analyze the best Instagram profiles on inBeat.
+text_bottom: Our search engine aggregates 15 Instagram influencers like this in South Korea for you to contact.
 profiles:
   - username: "kisungkoh"
     fullname: >-
@@ -13,12 +13,12 @@ profiles:
     bio: >-
       고기성/Koh,Christian,husband,dad, Toronto🇨🇦 from Seoul🇰🇷 ,nature,animallover,painter/ \<•>. /inquiry : kohkikoh@gmail.com
     location: "South Korea"
-    followers: 12411
-    engagement: 540
-    commentsToLikes: 0.029157
+    followers: 12831
+    engagement: 421
+    commentsToLikes: 0.030227
     id: ck134ijbawlig0i19c5l32vrm
     verified: false
-    hashtags: "#wip, #tbt, #yuri, #dorothycircusgallery"
+    hashtags: "#wip, #tbt, #rhino, #dorothycircusgallery"
   - username: "awesomejosephhwang"
     fullname: >-
       Joseph  Hwang
@@ -43,6 +43,18 @@ profiles:
     id: ckaot8860uqu10i7827aqr0kc
     verified: false
     hashtags: "#calligraphy, #handwriting, #bible, #ipadpro"
+  - username: "crisxt20"
+    fullname: >-
+      Christian Burgos [크리스티안 부르고스]
+    bio: >-
+      최초 외국인 전문 MC 🇲🇽🇰🇷 Vivo en Corea del Sur trabajando como el primer conductor extranjero en medios televisivos y de entretenimiento; embajador cultural
+    location: "South Korea"
+    followers: 855352
+    engagement: 1099
+    commentsToLikes: 0.010273
+    id: ck0w44d8rwr140i19b4z2vc81
+    verified: true
+    hashtags: "#samsungunpacked, #teamgalaxy, #jointheflipside, #galaxyunpacked"
   - username: "leitochun"
     fullname: >-
       Leo Chun | 천지훈
@@ -55,30 +67,6 @@ profiles:
     id: ckaotpv6cwyns0i789yq8fp4b
     verified: false
     hashtags: "#bible, #believer, #greenhillchurch, #christ"
-  - username: "aboutjulian"
-    fullname: >-
-      Julian Quintart 줄리안 퀸타르트
-    bio: >-
-      Based in Seoul, made in Belgium. DJ // Deluxe Seoul // B&B Entertainment // Non Summit // 법무부 사회통합 멘토단
-    location: "South Korea"
-    followers: 162458
-    engagement: 409
-    commentsToLikes: 0.038323
-    id: ck5bvk8o7jtdk0i11791z4sd7
-    verified: true
-    hashtags: "#kf, #f4, #formula, #koreaformula"
-  - username: "holland_vvv"
-    fullname: >-
-      HOLLAND
-    bio: >-
-      
-    location: "South Korea"
-    followers: 938791
-    engagement: 778
-    commentsToLikes: 0.007998
-    id: ck55j4edew8ou0i112l9kcb1h
-    verified: true
-    hashtags: "#thankyouholland, #hollandweek, #holland, #christianlouboutin"
   - username: "miroo_f"
     fullname: >-
       Michela Ferraro
@@ -125,6 +113,18 @@ profiles:
     engagement: 1261
     commentsToLikes: 0.008360
     id: ck5q9r34xcjxk0i11lu7q3nyr
+    verified: false
+    hashtags: ""
+  - username: "yongsungkimartist"
+    fullname: >-
+      Yongsung  Kim
+    bio: >-
+      Biblical Christain Korean artist http://www.taemen.co.kr
+    location: "South Korea"
+    followers: 7500
+    engagement: 1110
+    commentsToLikes: 0.027788
+    id: ck138s010hqfy0i19f1fuj0f6
     verified: false
     hashtags: ""
 ---

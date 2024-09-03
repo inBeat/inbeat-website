@@ -1,11 +1,11 @@
 ---
-title: Top 10 Vegan TikTok Influencers In Australia In 2023
+title: Top 10 Vegan TikTok Influencers In Australia In 2024
 description: >-
-  Find top vegan TikTok influencers in Australia in 2023. Most popular hashtags: #fyp #foryou #vegan #foryoupage.
+  Find top vegan TikTok influencers in Australia in 2024. Most popular hashtags: #fyp #foryou #vegan #food.
 platform: TikTok
-hits: 76
-text_top: See the top-rated TikTok profiles on inBeat.
-text_bottom: inBeat has 76 TikTok influencers like this in Australia for you to work with.
+hits: 77
+text_top: Discover the best TikTok influencers on inBeat.
+text_bottom: Our platform aggregates 77 TikTok influencers like this in Australia for you to pitch.
 profiles:
   - username: "llilipuff"
     fullname: >-
@@ -54,7 +54,7 @@ profiles:
     commentsToLikes: 0.022172
     id: ck9eljnpvawgh0j78xraao218
     verified: false
-    hashtags: "#zodiac, #smallbusiness, #soapclay, #soap"
+    hashtags: "#soapclay, #zodiac, #astrology, #soap"
   - username: "littlemissbec"
     fullname: >-
       💗 Bec 💗

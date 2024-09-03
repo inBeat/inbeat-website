@@ -1,11 +1,11 @@
 ---
-title: Top 10 Photographers Instagram Influencers In Izmir In 2023
+title: Top 10 Photographers Instagram Influencers In Izmir In 2024
 description: >-
-  Find top photographers Instagram influencers in Izmir in 2023. Most popular hashtags: #izmir #instagood #photographer #photooftheday.
+  Find top photographers Instagram influencers in Izmir in 2024. Most popular hashtags: #izmir #istanbul #photo #photooftheday.
 platform: Instagram
-hits: 85
-text_top: Identify the best Instagram profiles on inBeat.
-text_bottom: Our platform has 85 Instagram influencers like this in Izmir, Turkey for you to pitch.
+hits: 84
+text_top: Discover the most popular Instagram influencers on inBeat.
+text_bottom: Our database holds 84 Instagram influencers like this in Izmir, Turkey for you to connect with.
 profiles:
   - username: "kadirarmanphoto"
     fullname: >-
@@ -25,12 +25,12 @@ profiles:
     bio: >-
       📷 "Photographer" 📍 İzmir , TURKEY İletişim 📩 📮 mcbilal83@hotmail.com
     location: "Turkey"
-    followers: 50811
-    engagement: 318
-    commentsToLikes: 0.036117
+    followers: 48675
+    engagement: 240
+    commentsToLikes: 0.022824
     id: ck5q5c89ss7nb0i11pthgn5vk
     verified: false
-    hashtags: "#architecture, #kordon, #uncubozk, #izmir"
+    hashtags: "#ala, #happy, #bornova, #retro"
   - username: "dszgn"
     fullname: >-
       Deniz SEZGİN
@@ -43,6 +43,18 @@ profiles:
     id: ck9hbt3usibwo0j78r1etvy9n
     verified: false
     hashtags: "#turkey, #friends, #traveleurope, #rize"
+  - username: "cekimecikiyoruz"
+    fullname: >-
+      Çekime Çıkıyoruz
+    bio: >-
+      
+    location: "Turkey"
+    followers: 84167
+    engagement: 396
+    commentsToLikes: 0.012575
+    id: ck14i9fqaea8b0i19qzx2sapn
+    verified: false
+    hashtags: "#sizinkareleriniz, #hayatakarken, #canon, #turkkshutter"
   - username: "blackjacckk"
     fullname: >-
       Mutluluk içimde onu yedim😊
@@ -103,28 +115,16 @@ profiles:
     id: ck8tdjyq83maa0j78vgho790i
     verified: false
     hashtags: ""
-  - username: "aslimsariofficial"
+  - username: "tatil_delisi"
     fullname: >-
-      ASLI M. SARI / GAZETECİ-YAZAR
+      Tatil Delisi / İzmir
     bio: >-
-      RESMİ / OFFİCİAL ▪Milliyet içerik yazar✒ ▪Şiir✒ ▪Gazette Köşe📰 ▪Önce Vatan Gazetesi Makale✒ ▪Röportaj🎤 ▪ANT MEDİA✒ ▪Spiker-Sunucu🎤 ▪Kelam-ı Aslı✒
+      Travel Blogger 🌍✈️🛵 Digital Sosyal Medya Uzmanı Gastronomi Turkey Dergisi Reklam Uzmanı Fotoğrafçı📷 Motosiklet aşığı Ressam🎨
     location: "Turkey"
-    followers: 10568
-    engagement: 719
-    commentsToLikes: 0.114417
-    id: ck139l4x0lutk0i19auq57zx2
+    followers: 23962
+    engagement: 207
+    commentsToLikes: 0.155943
+    id: ck6ue5avzowjr0j71t8oqh52t
     verified: false
-    hashtags: "#kas, #bestoftheday, #lol, #instagood"
-  - username: "demirsema18"
-    fullname: >-
-      Sema❣️Demir
-    bio: >-
-      3️⃣1️⃣1️⃣2️⃣2️⃣0️⃣1️⃣8️⃣🌓 PAÜ 👇
-    location: "Turkey"
-    followers: 8621
-    engagement: 535
-    commentsToLikes: 0.139519
-    id: ck8t9f1hhnul90j78ikxi3tbh
-    verified: false
-    hashtags: "#sevgi, #nailpolish, #goodnight, #wedding"
+    hashtags: "#ilioxeniahotelchios, #nefisyemektarifleri, #do, #instafollow"
 ---

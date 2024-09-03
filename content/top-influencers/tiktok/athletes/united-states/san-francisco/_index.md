@@ -1,11 +1,11 @@
 ---
-title: Top 10 Athletes TikTok Influencers In San Francisco In 2023
+title: Top 10 Athletes TikTok Influencers In San Francisco In 2024
 description: >-
-  Find top athletes TikTok influencers in San Francisco in 2023. Most popular hashtags: #fyp #workout #athlete #foryou.
+  Find top athletes TikTok influencers in San Francisco in 2024. Most popular hashtags: #fyp #workout #athlete #foryou.
 platform: TikTok
 hits: 5
-text_top: See the most popular TikTok profiles on inBeat.
-text_bottom: Our platform has 5 TikTok influencers like this in San Francisco, United States for you to work with.
+text_top: Discover the best TikTok profiles on inBeat.
+text_bottom: Our search engine has 5 TikTok influencers like this in San Francisco, United States for you to connect with.
 profiles:
   - username: "wericobear"
     fullname: >-
@@ -54,7 +54,7 @@ profiles:
     commentsToLikes: 0.038530
     id: ck9k6pqfe1q040j78yfcivzxe
     verified: false
-    hashtags: "#champion, #velo, #bicyclefilmfestival, #cycling"
+    hashtags: "#bicycle, #fixedgear, #champion, #bicyclefilmfestival"
   - username: "mkagentofchaos"
     fullname: >-
       Mike in LA
@@ -90,7 +90,7 @@ profiles:
     commentsToLikes: 0.014502
     id: ck94l48tmxpge0j7838if7uw2
     verified: true
-    hashtags: "#foryoupage, #foryou, #viral, #fyp"
+    hashtags: "#foryoupage, #fyp, #foryou, #viral"
   - username: "dylan_lambert"
     fullname: >-
       Dylanlambert

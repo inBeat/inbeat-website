@@ -1,11 +1,11 @@
 ---
-title: Top 10 Models TikTok Influencers In Thailand In 2023
+title: Top 10 Models TikTok Influencers In Thailand In 2024
 description: >-
-  Find top models TikTok influencers in Thailand in 2023. Most popular hashtags: #fyp #thailand #tiktokthailand #bangkok.
+  Find top models TikTok influencers in Thailand in 2024. Most popular hashtags: #fyp #thailand #tiktokthailand #model.
 platform: TikTok
 hits: 19
-text_top: See the top-rated TikTok profiles on inBeat.
-text_bottom: Our database has 19 TikTok influencers like this in Thailand for you to collaborate.
+text_top: See the most popular TikTok accounts on inBeat.
+text_bottom: Our platform aggregates 19 TikTok influencers like this in Thailand for you to pitch.
 profiles:
   - username: "rafaelkonell"
     fullname: >-
@@ -54,7 +54,7 @@ profiles:
     commentsToLikes: 0.047130
     id: ck9rlkun5yeso0j78qqablyr4
     verified: false
-    hashtags: "#fitgirl, #dress, #swimwear, #beachwear"
+    hashtags: "#swimwear, #beachwear, #style, #fitgirl"
   - username: "earnpat"
     fullname: >-
       Earn Pattaravadee B.
@@ -126,5 +126,5 @@ profiles:
     commentsToLikes: 0.040158
     id: cka5z8kq6lljr0i78himqxnof
     verified: false
-    hashtags: "#duet, #phuket, #foryou, #thailand"
+    hashtags: "#tiktokthailand, #tiktok, #viral, #foryou"
 ---

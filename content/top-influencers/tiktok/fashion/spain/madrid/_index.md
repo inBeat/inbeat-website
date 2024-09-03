@@ -1,24 +1,12 @@
 ---
-title: Top 10 Fashion TikTok Influencers In Madrid In 2023
+title: Top 10 Fashion TikTok Influencers In Madrid In 2024
 description: >-
-  Find top fashion TikTok influencers in Madrid in 2023. Most popular hashtags: #fashion #fyp #humor #madrid.
+  Find top fashion TikTok influencers in Madrid in 2024. Most popular hashtags: #fashion #fyp #humor #parati.
 platform: TikTok
 hits: 8
-text_top: Analyze the top-rated TikTok accounts on inBeat.
-text_bottom: Our search engine has 8 TikTok influencers like this in Madrid, Spain for you to connect with.
+text_top: See the top-rated TikTok influencers on inBeat.
+text_bottom: Our platform has 8 TikTok influencers like this in Madrid, Spain for you to contact.
 profiles:
-  - username: "vanillaattack"
-    fullname: >-
-      Teresa Sala
-    bio: >-
-      Follow me on Instagram @vanillaattack
-    location: "Spain"
-    followers: 27900
-    engagement: 490
-    commentsToLikes: 0.042937
-    id: ck90267agc6lk0j784gec8o5n
-    verified: false
-    hashtags: "#barcelona, #fyp, #pregnant, #embarazo"
   - username: "nachogonzalezrico"
     fullname: >-
       Nacho González Rico
@@ -91,6 +79,18 @@ profiles:
     id: cka67km4xlblv0i78yeyasilb
     verified: false
     hashtags: "#cuba, #havefunn, #cubanosporelmundo, #family"
+  - username: "vanillaattack"
+    fullname: >-
+      Teresa Sala
+    bio: >-
+      Follow me on Instagram @vanillaattack
+    location: "Spain"
+    followers: 27900
+    engagement: 490
+    commentsToLikes: 0.042937
+    id: ck90267agc6lk0j784gec8o5n
+    verified: false
+    hashtags: "#fyp, #pregnancyannouncement, #cuarentena, #foryourpage"
   - username: "marlenemourreau"
     fullname: >-
       Marlène Perso

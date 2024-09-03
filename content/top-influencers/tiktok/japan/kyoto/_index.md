@@ -1,11 +1,11 @@
 ---
-title: Top 10 TikTok Influencers In Kyoto In 2023
+title: Top 10 TikTok Influencers In Kyoto In 2024
 description: >-
-  Find top TikTok influencers in Kyoto in 2023. Most popular hashtags: #kyoto #tiktok #japan.
+  Find top TikTok influencers in Kyoto in 2024. Most popular hashtags: #kyoto #tiktok #japan.
 platform: TikTok
 hits: 12
-text_top: Identify the most popular TikTok profiles on inBeat.
-text_bottom: Our database aggregates 12 TikTok influencers like this in Kyoto, Japan for you to contact.
+text_top: Identify the top-rated TikTok influencers on inBeat.
+text_bottom: inBeat aggregates 12 TikTok influencers like this in Kyoto, Japan for you to contact.
 profiles:
   - username: "chibi.tanpopo"
     fullname: >-

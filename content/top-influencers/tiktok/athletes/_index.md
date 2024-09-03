@@ -1,11 +1,11 @@
 ---
-title: Top 10 Athletes TikTok Influencers In 2023
+title: Top 10 Athletes TikTok Influencers In 2024
 description: >-
-  Find top athletes TikTok influencers in 2023. Most popular hashtags: #fyp #viral #foryoupage #trending.
+  Find top athletes TikTok influencers in 2024. Most popular hashtags: #fyp #viral #foryoupage #trending.
 platform: TikTok
-hits: 1272
-text_top: Identify the most popular TikTok accounts on inBeat.
-text_bottom: inBeat holds 1272 TikTok influencers like this for you to work with.
+hits: 1282
+text_top: See the best TikTok accounts on inBeat.
+text_bottom: inBeat has 1282 TikTok influencers like this for you to collaborate.
 profiles:
   - username: "vikashkandola16"
     fullname: >-
@@ -54,7 +54,7 @@ profiles:
     commentsToLikes: 0.014502
     id: ck94l48tmxpge0j7838if7uw2
     verified: true
-    hashtags: "#foryoupage, #foryou, #viral, #fyp"
+    hashtags: "#foryoupage, #fyp, #foryou, #viral"
   - username: "dylan_lambert"
     fullname: >-
       Dylanlambert

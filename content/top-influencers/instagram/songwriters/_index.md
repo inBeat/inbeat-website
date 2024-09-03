@@ -1,24 +1,12 @@
 ---
-title: Top 10 Songwriters Instagram Influencers In 2023
+title: Top 10 Songwriters Instagram Influencers In 2024
 description: >-
-  Find top songwriters Instagram influencers in 2023. Most popular hashtags: #bhushankumar #anactionhero #krishankumar.
+  Find top songwriters Instagram influencers in 2024. Most popular hashtags: #singersongwriter #music #musician.
 platform: Instagram
-hits: 4170
-text_top: Identify the most popular Instagram profiles on inBeat.
-text_bottom: Our database holds 4170 Instagram influencers like this for you to contact.
+hits: 4335
+text_top: See the top-rated Instagram accounts on inBeat.
+text_bottom: inBeat has 4335 Instagram influencers like this for you to contact.
 profiles:
-  - username: "prateekkuhad"
-    fullname: >-
-      prateekkuhad
-    bio: >-
-      songwriter
-    location: "United States"
-    followers: 536484
-    engagement: 755
-    commentsToLikes: 0.004506
-    id: ck0ttriq0408w0i19eysvqmny
-    verified: true
-    hashtags: "#todayatappleindia, #wynkstage, #mysingaporeconnect, #mismatched"
   - username: "noahgundersen"
     fullname: >-
       Noah Gundersen
@@ -55,76 +43,88 @@ profiles:
     id: ck5zio9ypg2yx0i14vf91rqok
     verified: false
     hashtags: "#whattheworldneedsnow, #single2"
-  - username: "griffenpalmer"
+  - username: "milenasanchezx"
     fullname: >-
-      griffen palmer
+      Milena Sanchez🇨🇴🏳️‍🌈
     bio: >-
-      Songwriter.
-    location: "United States"
-    followers: 6671
-    engagement: 1803
-    commentsToLikes: 0.084888
-    id: ckap8tjdlpthl0i788zku8uup
+      •1/3 of the award winning podcast @thereceiptspodcast •Sunday Times best selling author •Singer/Songwriter
+    location: "United Kingdom"
+    followers: 47899
+    engagement: 816
+    commentsToLikes: 0.013192
+    id: ck8t9a7s7ndho0j78pl0jmvca
     verified: false
-    hashtags: "#songland, #partyshirt"
-  - username: "aliciamoffet"
+    hashtags: "#thewomanking"
+  - username: "queencarlyy"
     fullname: >-
-      Moff
+      Carly Lind 👸🏼🖤👑
     bio: >-
-      mama-singer-songwriter @amcollectionz
+      ✨ Singer-songwriter ✨ Sound bath practitioner ✨ World Traveler ✨ Plant medicine advocate
+    location: "United States"
+    followers: 37372
+    engagement: 1424
+    commentsToLikes: 0.152434
+    id: ck0w3qpe4us190i19xxew5769
+    verified: false
+    hashtags: "#hrdrvchallenge, #healingjourney, #music, #dancer"
+  - username: "alittlesounduk"
+    fullname: >-
+      A Lιттle Soυɴd
+    bio: >-
+      Songwriter / Vocalist / DJ MGMT: jb@insanity.com / jk@insanity.com Bookings: louis@mbartists.co.uk
+    location: "United Kingdom"
+    followers: 81075
+    engagement: 851
+    commentsToLikes: 0.028215
+    id: ckf5pwy377hyj0j23awxzoted
+    verified: false
+    hashtags: "#dnb360, #alittlesounduk, #alittlesound, #sonymusic"
+  - username: "unicornriverchild"
+    fullname: >-
+      Dust Cwaine
+    bio: >-
+      Non-Binary Aromantic Drag Ghost Singer Songwriter • Ex-Mermaid My debut studio album ✨Arcana✨ is available now More details👇🏻
     location: "Canada"
-    followers: 433082
-    engagement: 675
-    commentsToLikes: 0.006691
-    id: ck5pyqt32xcd50i11u56zd8tr
-    verified: true
-    hashtags: "#evive, #cinnamoncookie, #silkcanada"
-  - username: "laceyvjames"
-    fullname: >-
-      LACEY JAMES
-    bio: >-
-      22 ♫ singer/songwriter @evolve.models
-    location: "United States"
-    followers: 80978
-    engagement: 1844
-    commentsToLikes: 0.007071
-    id: ck5cjhjjauqi30i11c3hkwrzp
+    followers: 12306
+    engagement: 864
+    commentsToLikes: 0.028254
+    id: ck6tv6kakkgtv0j71ytu0k46b
     verified: false
-    hashtags: "#comfortmadesexy, #toofacedpartner, #toofaced, #splathaircolor"
-  - username: "yohanimusic"
+    hashtags: "#portraitphotography, #love, #beardclub, #naturephotography"
+  - username: "zoeferguson"
     fullname: >-
-      Yohani
+      zoëferguson
     bio: >-
-      🇱🇰 Singer / Songwriter/ Rapper / Producer 📍Mumbai 🇮🇳. #TuSaamneAaye Song Out Now 👇👇👇
+      singer & songwriter snapchat @ zoezferg (570k) 💌 zoefergusonmgmt@gmail.com 📍pdx
+    location: "United States"
+    followers: 32724
+    engagement: 1407
+    commentsToLikes: 0.022264
+    id: cl48q9bj1meax0i23vn5ukr1j
+    verified: false
+    hashtags: "#outfitinspo, #discoverunder50k, #fallfashion2021, #summerfashion"
+  - username: "tanzeel_khan03"
+    fullname: >-
+      T A N Z E E L™
+    bio: >-
+      Songwriter/Singer 📍BOMBAY 👕: @pauseplaybytk
     location: "India"
-    followers: 1045729
-    engagement: 393
-    commentsToLikes: 0.007020
-    id: ck5hq87x4soe50i11p0e4r04q
+    followers: 846099
+    engagement: 568
+    commentsToLikes: 0.022772
+    id: ck137ftk3bb9l0i19ls04ikyn
     verified: false
-    hashtags: "#krishankumar, #jehdanasha, #bhushankumar, #anactionhero"
-  - username: "agatha_chelsea"
+    hashtags: "#prague, #pehlapyaar, #tanzeelkhan, #airbnb"
+  - username: "claudiahoyser"
     fullname: >-
-      Agatha Chelsea
+      CLAUDIA HOYSER
     bio: >-
-      unimelb BSc, singer-songwriter, entrepreneur @terryandco.id | @herbyagathachelsea |@lovinglivinglearning BA of @knaturalwhite & @greeindonesia
-    location: "Indonesia"
-    followers: 1680959
-    engagement: 237
-    commentsToLikes: 0.003242
-    id: ck15rtag39lei0i19ym7n3jir
-    verified: true
-    hashtags: "#breathethelove, #stopoverthinkingstartcreating, #duetjinglebube, #21"
-  - username: "autumnknight_"
-    fullname: >-
-      AUTUMN KNIGHT
-    bio: >-
-      singer | songwriter | actor nashville, tn 🤍 los angeles, ca shop my merch store 🌸 stream ✨ christmas without you
+      Country singer songwriter made of coffee and whiskey. Come see me on the breathing smoke acoustic tour! ☕️🥃 HCB Coffee & Drunken Bean @hoysercountry
     location: "United States"
-    followers: 50412
-    engagement: 224
-    commentsToLikes: 0.031580
-    id: ck14kmlhwq9dq0i19kwot314q
+    followers: 43604
+    engagement: 468
+    commentsToLikes: 0.064410
+    id: ck5qagyiogcfp0i114bys8tz2
     verified: false
-    hashtags: "#radio, #london, #radiostation, #livefromlondon"
+    hashtags: "#claudiahoyser, #rltg, #country, #countrymusic"
 ---

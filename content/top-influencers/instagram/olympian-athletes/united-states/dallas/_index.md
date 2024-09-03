@@ -1,12 +1,36 @@
 ---
-title: Top 10 Olympian Athletes Instagram Influencers In Dallas In 2023
+title: Top 10 Olympian Athletes Instagram Influencers In Dallas In 2024
 description: >-
-  Find top olympian athletes Instagram influencers in Dallas in 2023. Most popular hashtags: #fitness #athlete #trackandfield #motivation.
+  Find top olympian athletes Instagram influencers in Dallas in 2024. Most popular hashtags: #athlete #fitness #motivation #gym.
 platform: Instagram
-hits: 4
-text_top: Discover the best Instagram accounts on inBeat.
-text_bottom: Our database holds 4 Instagram influencers like this in Dallas, United States for you to connect with.
+hits: 9
+text_top: See the top-rated Instagram influencers on inBeat.
+text_bottom: Our platform has 9 Instagram influencers like this in Dallas, United States for you to pitch.
 profiles:
+  - username: "dusan.bulut"
+    fullname: >-
+      Dušan Domović-Bulut
+    bio: >-
+      @redbull Athlete Founder of Team Novi Sad 3x3 Decorated Olympian 🥉 @thebig3 - Team Aliens 👽
+    location: "United States"
+    followers: 62167
+    engagement: 908
+    commentsToLikes: 0.006408
+    id: ck0tx7w3ii5l60i19jkutmh5k
+    verified: true
+    hashtags: "#srbija, #ball, #ballislife, #serbia"
+  - username: "brad_betts_"
+    fullname: >-
+      Brad Betts
+    bio: >-
+      coo @thewooworldwide #IFBBPro 4x olympian 2x Mr. Dallas 2x Arnold Classic 🥉
+    location: "United States"
+    followers: 14235
+    engagement: 257
+    commentsToLikes: 0.051704
+    id: cks7gu7mk2fxs0j23bdoymji6
+    verified: false
+    hashtags: "#exercise, #olympian, #workhard, #diet"
   - username: "hancockphoto"
     fullname: >-
       Andrew Hancock
@@ -18,7 +42,43 @@ profiles:
     commentsToLikes: 0.034898
     id: ck8sydqobkiyn0j78ioa2ek8j
     verified: false
-    hashtags: "#indiana, #portrait, #gym, #basketball"
+    hashtags: "#gym, #basketball, #indiana, #nikonambassador"
+  - username: "shotdiva"
+    fullname: >-
+      Michelle Carter • Olympic Gold Medalist & Speaker
+    bio: >-
+      🎤 Motivational Speaker ❤️ I build Confident Mindsets in Female Athletes 💁🏾‍♀️ Founder of @YouThrowGirl 💥 Entrepreneur
+    location: "United States"
+    followers: 73730
+    engagement: 150
+    commentsToLikes: 0.051940
+    id: ck5hsbo8dwbje0i11uqknbkin
+    verified: true
+    hashtags: "#michellecarter, #olympics, #shotdiva, #youthrowgirl"
+  - username: "danitzad"
+    fullname: >-
+      Danitza Freigher
+    bio: >-
+      Mama 💗 @globalformulas code Danitza @legendaryfoods code DANITZA @Muscleegg /Devotion Athlete Danitzafreigher.com
+    location: "United States"
+    followers: 18078
+    engagement: 103
+    commentsToLikes: 0.130417
+    id: cl6kwobq3jxpo0i23eundu5zx
+    verified: false
+    hashtags: "#fitmom, #girlswholift, #gymgirlthings, #dontquit"
+  - username: "thebikinibuilder"
+    fullname: >-
+      Christina Heath
+    bio: >-
+      ⭐️ IFBB Bikini Pro, CPT, RRT-NPS ⭐️ Bikini Competition and Lifestyle Coach ⭐️ @legion supps “CHRISTINA” ⭐️ @officialbetterbodies Athlete “CHRISTINA”
+    location: "United States"
+    followers: 16125
+    engagement: 116
+    commentsToLikes: 0.082910
+    id: cl4kuhud3ss7s0i23gcnqczt8
+    verified: false
+    hashtags: "#birthdaygirl, #relationshipgoals, #athlete, #healthyswaps"
   - username: "ishak_ishak"
     fullname: >-
       Ishak Ishak 🐦 CISSN, CPT
@@ -30,19 +90,7 @@ profiles:
     commentsToLikes: 0.065505
     id: ck6u3anjmwp590j71ax83ujmb
     verified: false
-    hashtags: "#gym, #sports, #hawkfit, #exercise"
-  - username: "mrolympiallc"
-    fullname: >-
-      Mr. Olympia LLC
-    bio: >-
-      Official IG of the fitness industry’s most prestigious event. - Orlando, FL / Oct 7-10 / Order Tickets Now at MrOlympia.com #Olympia21
-    location: "United States"
-    followers: 3164859
-    engagement: 37
-    commentsToLikes: 0.007184
-    id: ck0tsrxwj0c9n0i196kprceh8
-    verified: true
-    hashtags: "#fitness, #ifbbproleague, #ifbbpro, #olympia2021"
+    hashtags: "#resistancetraining, #nutrition, #fitness, #contestprep"
   - username: "flygirl93"
     fullname: >-
       Anicka Newell
@@ -55,6 +103,18 @@ profiles:
     id: ck5cjbzwvuf1g0i11woybi7kd
     verified: true
     hashtags: "#ad, #athlete, #turnupfortokyo, #vaultdayyy"
+  - username: "tawnaeubanksmccoy"
+    fullname: >-
+      tawna mccoy
+    bio: >-
+      i workout & play dress up! ▫️5 x olympian | 3 x cover model ▫️owner @hidden_gym ▫️athlete @kaged 📩 tawnaeubanksmccoy@gmail.com
+    location: "United States"
+    followers: 100549
+    engagement: 1170
+    commentsToLikes: 0.072416
+    id: ck5pyjne6wc5v0i11r2d7gr4q
+    verified: false
+    hashtags: "#kagedsupps, #fitnessmotivation, #healthylifestyle, #fitnessmodel"
   - username: "lalahurdles2"
     fullname: >-
       LaVonne Idlette
@@ -67,64 +127,4 @@ profiles:
     id: ck5pz3yn6z3tx0i1186rjj3os
     verified: false
     hashtags: "#travellife, #realestateinvesting, #duediligence, #happynewyear"
-  - username: "devonallen13"
-    fullname: >-
-      Devon Allen
-    bio: >-
-      Olympian. NIKE athlete. 3x US/NCAA champ 110HH. Twitter-DevonAllen13
-    location: "United States"
-    followers: 69576
-    engagement: 573
-    commentsToLikes: 0.007803
-    id: ck6tpfr94jm3n0j71i0impjy0
-    verified: true
-    hashtags: "#haywardfield, #sonya6400, #usatf, #track"
-  - username: "nooralotta"
-    fullname: >-
-      NOORALOTTA NEZIRI
-    bio: >-
-      🇫🇮🇦🇱 @puma ATHLETE. @foodin & @fitnessfirstfi ATHLETE. OLYMPIAN. PB 12.81 & 7.91 (NR). Master of Economic Sciences.👩🏽‍🎓
-    location: "United States"
-    followers: 49672
-    engagement: 710
-    commentsToLikes: 0.022803
-    id: ck5q08yuw4tz90i11lm8d1uxm
-    verified: true
-    hashtags: "#puma, #heloglobal, #pumawomen, #femmegang"
-  - username: "anderson_peters1"
-    fullname: >-
-      Anderson Peters
-    bio: >-
-      Tokyo 2021 Olympian 🇬🇩 Pro athlete @adidasrunning 2019 Javelin World Champion 🥇 2019 Pan am games champion & record holder 2x NCAA Champ🥇🏆 Believer🙏🏿
-    location: "United States"
-    followers: 12874
-    engagement: 1097
-    commentsToLikes: 0.020054
-    id: ck55n3p4d5eh60i11lrbkgz29
-    verified: false
-    hashtags: "#trackandfield, #sport, #javelinthrower, #strength"
-  - username: "marinarosauce1"
-    fullname: >-
-      Michael Marinaro
-    bio: >-
-      2018 Olympian 🇨🇦 @canfund Athlete
-    location: "United States"
-    followers: 8798
-    engagement: 1235
-    commentsToLikes: 0.020436
-    id: ck5c9wgobc98h0i11nc546tms
-    verified: true
-    hashtags: "#teamcanada, #skating, #creatinghistory, #figureskating"
-  - username: "typicalpen"
-    fullname: >-
-      penny oleksiak
-    bio: >-
-      team CAN swimmer four time olympic medalist rbc olympian asics athlete vichy lover
-    location: "United States"
-    followers: 91822
-    engagement: 689
-    commentsToLikes: 0.009515
-    id: ck55o0s2w7e830i11kj8h78gr
-    verified: true
-    hashtags: "#ad, #marathonofsport, #nogoodway, #runtofeel"
 ---

@@ -1,24 +1,24 @@
 ---
-title: Top 10 Olympian Athletes Instagram Influencers In 2023
+title: Top 10 Olympian Athletes Instagram Influencers In 2024
 description: >-
-  Find top olympian athletes Instagram influencers in 2023. Most popular hashtags: #trackandfield #track #motivation #2021.
+  Find top olympian athletes Instagram influencers in 2024. Most popular hashtags: #track #trackandfield #roadtotokyo.
 platform: Instagram
-hits: 402
-text_top: Identify the most popular Instagram accounts on inBeat.
-text_bottom: Our platform aggregates 402 Instagram influencers like this for you to work with.
+hits: 480
+text_top: Discover the most popular Instagram influencers on inBeat.
+text_bottom: Our database aggregates 480 Instagram influencers like this for you to pitch.
 profiles:
   - username: "benjaminmace_"
     fullname: >-
       Benjamin Mace
     bio: >-
-      2 x Olympian Athlete Lifestyle / sport / travel @underarmourfr athlète 🏃‍♂️ATTEINS TON OBJECTIF ICI👇
+      2 x Olympian Athlete speed skating Lifestyle / sport / travel 🏃‍♂️ATTEINS TON OBJECTIF ICI👇
     location: "France"
-    followers: 38968
-    engagement: 410
-    commentsToLikes: 0.028661
+    followers: 40445
+    engagement: 273
+    commentsToLikes: 0.012784
     id: ck5hd2hgcl5vj0i11dnalwqoq
     verified: false
-    hashtags: "#dubailife, #fitnessmodel, #lifestyle, #homeworkout"
+    hashtags: "#absworkout, #malemodel, #trainingathome, #homeworkout"
   - username: "sonia.malavisi"
     fullname: >-
       Sonia Malavisi
@@ -79,52 +79,52 @@ profiles:
     id: ck6tpfr94jm3n0j71i0impjy0
     verified: true
     hashtags: "#haywardfield, #sonya6400, #usatf, #track"
-  - username: "nooralotta"
+  - username: "corymcgeeruns"
     fullname: >-
-      NOORALOTTA NEZIRI
+      Cory Ann McGee
     bio: >-
-      🇫🇮🇦🇱 @puma ATHLETE. @foodin & @fitnessfirstfi ATHLETE. OLYMPIAN. PB 12.81 & 7.91 (NR). Master of Economic Sciences.👩🏽‍🎓
+      Olympian. Track athlete repping New Balance. Southern girl training in Boulder, CO. #TeamUSA #FloridaGator #TeamBoss 🇺🇸
     location: "United States"
-    followers: 49672
-    engagement: 710
-    commentsToLikes: 0.022803
-    id: ck5q08yuw4tz90i11lm8d1uxm
+    followers: 152714
+    engagement: 443
+    commentsToLikes: 0.007077
+    id: ck0u1mh7px9aa0i19b3n2l6a7
     verified: true
-    hashtags: "#puma, #heloglobal, #pumawomen, #femmegang"
-  - username: "anderson_peters1"
+    hashtags: "#teamusa, #teamboss, #veryfunjob, #track"
+  - username: "jpegula"
     fullname: >-
-      Anderson Peters
+      Jessie Pegula
     bio: >-
-      Tokyo 2021 Olympian 🇬🇩 Pro athlete @adidasrunning 2019 Javelin World Champion 🥇 2019 Pan am games champion & record holder 2x NCAA Champ🥇🏆 Believer🙏🏿
+      @adidastennis athlete // @yonex_tennis // @ready_nutrition athlete // Olympian Tokyo 2020 // founder @readytwentyfour & @alendingpawcharity
     location: "United States"
-    followers: 12874
-    engagement: 1097
-    commentsToLikes: 0.020054
-    id: ck55n3p4d5eh60i11lrbkgz29
-    verified: false
-    hashtags: "#trackandfield, #sport, #javelinthrower, #strength"
-  - username: "marinarosauce1"
+    followers: 188640
+    engagement: 438
+    commentsToLikes: 0.013590
+    id: ck0tux22t92150i19c6iy5rau
+    verified: true
+    hashtags: "#charlestonopen, #rolandgarros, #sandiegoopen, #pegula"
+  - username: "cfrannykg"
     fullname: >-
-      Michael Marinaro
+      CAYLA GEORGE
     bio: >-
-      2018 Olympian 🇨🇦 @canfund Athlete
+      🇦🇺 • Australian Opal #104 • ✌🏽x Olympian @underarmourau Athlete
+    location: "Australia"
+    followers: 29321
+    engagement: 460
+    commentsToLikes: 0.018458
+    id: ck6trvn311cmb0j7169fwxz46
+    verified: true
+    hashtags: "#lashtastic, #sportiscalling, #usuallyilookatthefloorbeforeishoot, #maybeididalready"
+  - username: "carlilloyd3"
+    fullname: >-
+      Carli Lloyd
+    bio: >-
+      Mom Olympian @leagueonevolleyball Athlete Council Passing on what I’ve learned to the next generation of 🏐 dreamers 👇🏻
     location: "United States"
-    followers: 8798
-    engagement: 1235
-    commentsToLikes: 0.020436
-    id: ck5c9wgobc98h0i11nc546tms
+    followers: 68357
+    engagement: 698
+    commentsToLikes: 0.018112
+    id: ck5c98hlnayzm0i117lh2t8sj
     verified: true
-    hashtags: "#teamcanada, #skating, #creatinghistory, #figureskating"
-  - username: "darkredgrape"
-    fullname: >-
-      Anna Seidel 🕊
-    bio: >-
-      2 times olympian + @redbull athlete short-track ⋮💫 #teamtoyota @axelent_sverige ❁❁❁
-    location: "Germany"
-    followers: 32723
-    engagement: 821
-    commentsToLikes: 0.012171
-    id: ck15t92dbgxgk0i19myxzl950
-    verified: true
-    hashtags: "#givesyouwings, #grateful, #europeanchampionship, #silver"
+    hashtags: "#youdontknow, #crisscrosshotsauce, #lovbforlife, #3monthsold"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Food TikTok Influencers In San Diego In 2023
+title: Top 10 Food TikTok Influencers In San Diego In 2024
 description: >-
-  Find top food TikTok influencers in San Diego in 2023. Most popular hashtags: #fyp #food #sandiego #foryou.
+  Find top food TikTok influencers in San Diego in 2024. Most popular hashtags: #fyp #food #sandiego #foryou.
 platform: TikTok
-hits: 42
-text_top: Discover the top-rated TikTok accounts on inBeat.
-text_bottom: Our platform has 42 TikTok influencers like this in San Diego, United States for you to work with.
+hits: 43
+text_top: Discover the top-rated TikTok influencers on inBeat.
+text_bottom: Our platform aggregates 43 TikTok influencers like this in San Diego, United States for you to work with.
 profiles:
   - username: "reynapizarro"
     fullname: >-
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.077486
     id: ckcpd8p1mfwz40j233wdcyqu9
     verified: false
-    hashtags: "#sandiegorestaurant, #sandiegoadventures, #sandiegoblogger, #easyrecipes"
+    hashtags: "#sandiegoadventures, #sandiegoblogger, #foodie, #lasvegas"
   - username: "the_beason_family"
     fullname: >-
       Jesse Beason
@@ -43,18 +43,18 @@ profiles:
     id: ck9v516m8wc4e0j78rf5xs5nx
     verified: false
     hashtags: "#fyp, #baby, #babygirl, #foryoupage"
-  - username: "diana81garrido"
+  - username: "adam_lovick"
     fullname: >-
-      diana garrido
+      Adam Lovick
     bio: >-
-      
+      For the common traveler, by the common traveler Travel stories 📔 Firstclassjerk
     location: "United States"
-    followers: 26600
-    engagement: 1361
-    commentsToLikes: 0.011101
-    id: ckd6q5ibil4p70j237ez5zdo3
+    followers: 119800
+    engagement: 952
+    commentsToLikes: 0.022827
+    id: ck9fg841s0nhs0j781eoxxmyr
     verified: false
-    hashtags: "#ketorecipes, #yum, #fyp, #foryoupagechallege"
+    hashtags: "#yasclean, #hotel, #sheesh, #travel"
   - username: "esquer_fam"
     fullname: >-
       Esquer Fam
@@ -67,6 +67,18 @@ profiles:
     id: ckaj9ud8rg3zt0i78ccls4hqn
     verified: false
     hashtags: "#sandiego, #fyp, #fire, #food"
+  - username: "theglamghoul"
+    fullname: >-
+      Ashley Marie
+    bio: >-
+      Plus Size Middle Eastern 🇮🇶 Fly Girl from San Diego IG: @glamghoul
+    location: "United States"
+    followers: 8929
+    engagement: 585
+    commentsToLikes: 0.022593
+    id: ck9nbut3bbfnv0j78axdppvm5
+    verified: false
+    hashtags: "#morph, #thick, #foryou, #gordita"
   - username: "nataliatoma"
     fullname: >-
       Nataliaaa
@@ -91,6 +103,18 @@ profiles:
     id: ckcdko62c9dis0j23co77ob9h
     verified: false
     hashtags: "#explore, #fyp, #explorepage, #lmao"
+  - username: "clarkadilla"
+    fullname: >-
+      Clark
+    bio: >-
+      San Diego M.F.A. Music Theory/Performance Vocal coach Professionally awkward
+    location: "United States"
+    followers: 38400
+    engagement: 939
+    commentsToLikes: 0.070502
+    id: ck81qux7yk2g90j78lumyshvb
+    verified: false
+    hashtags: "#food, #duet, #challenge, #fyp"
   - username: "chefonlyphans"
     fullname: >-
       phan
@@ -102,29 +126,5 @@ profiles:
     commentsToLikes: 0.008437
     id: ckbqbxl0rxzug0j23tn66539s
     verified: false
-    hashtags: "#krakboba, #fyp, #boba, #barista"
-  - username: "keepingitketosd"
-    fullname: >-
-      Keepingitketosd
-    bio: >-
-      Just a girl from San Diego keepingitketo 🥑 Down 100lbs 💪🏻
-    location: "United States"
-    followers: 25300
-    engagement: 763
-    commentsToLikes: 0.042439
-    id: cka0x4ogq5ijh0i78kzhv070a
-    verified: false
-    hashtags: "#keepingitketo, #weightlossprogress, #omad, #latina"
-  - username: "nutritionwithles"
-    fullname: >-
-      Leslie gonzalez
-    bio: >-
-      HELLLOO 🤍 Future RD 🔜 Realistic nutrition 🥑 San Diego📍 / SDSU 📚 / 20
-    location: "United States"
-    followers: 6073
-    engagement: 802
-    commentsToLikes: 0.041750
-    id: ckcuyupu6mjd10j23llt9kvil
-    verified: false
-    hashtags: "#health, #nutrition, #thatwitch, #rd2b"
+    hashtags: "#barista, #krakboba, #boba, #fyp"
 ---

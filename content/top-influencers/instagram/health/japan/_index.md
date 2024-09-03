@@ -1,24 +1,48 @@
 ---
-title: Top 10 Health Instagram Influencers In Japan In 2023
+title: Top 10 Health Instagram Influencers In Japan In 2024
 description: >-
-  Find top health Instagram influencers in Japan in 2023. Most popular hashtags: #fashion #instadaily #healthylifestyle.
+  Find top health Instagram influencers in Japan in 2024. Most popular hashtags: #ootd #healthyfood #organic.
 platform: Instagram
-hits: 173
-text_top: Analyze the top-rated Instagram influencers on inBeat.
-text_bottom: Our search engine holds 173 Instagram influencers like this in Japan for you to collaborate.
+hits: 181
+text_top: Identify the most popular Instagram accounts on inBeat.
+text_bottom: Our search engine has 181 Instagram influencers like this in Japan for you to work with.
 profiles:
+  - username: "tabesugita"
+    fullname: >-
+      PIO・ピオ
+    bio: >-
+      designer @2098.official director @sukisugita mental health advocate Player 2 OUT NOW!
+    location: "Japan"
+    followers: 19349
+    engagement: 349
+    commentsToLikes: 0.013533
+    id: ckf5vv4aoq0dp0j23f2jgilm7
+    verified: false
+    hashtags: ""
   - username: "gabrielasage"
     fullname: >-
       Gabby Sage Masuda
     bio: >-
-      Japanese American Model Represented by @minellimanagement Mindful living Mental Health Advocate
+      Japanese American 🌈 Represented by @minellimanagement Mindful living Mental Health Advocate 🫶🏻 Gabby.masuda@gmail.com
     location: "Japan"
-    followers: 25194
-    engagement: 344
-    commentsToLikes: 0.029850
+    followers: 24531
+    engagement: 216
+    commentsToLikes: 0.012930
     id: ck14jntl0lafx0i19ix71idmh
     verified: false
-    hashtags: "#lavendarhair, #lavendarroots, #sundayrileypartner, #sundayswap"
+    hashtags: "#sundayrileypartner, #sundayswap, #skinbysunday, #supergooppartner"
+  - username: "daianaanghel"
+    fullname: >-
+      DAIANA Anghel
+    bio: >-
+      • Communication & Brand Strategy • Skincare Expert • Elle New Media Awards 2020 winner 🏆- Beauty & Health • 0 tolerance for haters
+    location: "Japan"
+    followers: 222031
+    engagement: 196
+    commentsToLikes: 0.013405
+    id: ck5bzyq7ss3jf0i110q4wly88
+    verified: false
+    hashtags: "#winter, #powercouple, #powercoupleromania, #skincaretips"
   - username: "xobearhugs"
     fullname: >-
       🐻🌱🌸💕
@@ -31,18 +55,6 @@ profiles:
     id: ck5q69hddwix00i11rfuqbahr
     verified: false
     hashtags: ""
-  - username: "taylor_lovee"
-    fullname: >-
-      TAYLOR LOVE |Love Inside & Out
-    bio: >-
-      👋🏻🤍sharing daily style, beauty, & wellness to inspire love from the inside-out! holistic health & living fully 💍@dyl.jp + Bozeman, MT🏔+ 🐶🐶💕 blog👇🏻
-    location: "Japan"
-    followers: 117005
-    engagement: 204
-    commentsToLikes: 0.040832
-    id: ck0w2og84peih0i19iayfjkxx
-    verified: false
-    hashtags: "#ad, #montanasummer, #liketkit, #wedding"
   - username: "kuuu.kumiko"
     fullname: >-
       Kumiko Suzuki  鈴木久美子
@@ -55,18 +67,6 @@ profiles:
     id: ckap4ky277r6y0i78yzmchql7
     verified: false
     hashtags: "#lifestyle, #fashion, #beautiful, #health"
-  - username: "daianaanghel"
-    fullname: >-
-      DAIANA Anghel
-    bio: >-
-      • Communication & Brand Strategy • Skincare Advisor • Elle New Media Awards 2020 winner 🏆- Beauty & Health
-    location: "Japan"
-    followers: 199705
-    engagement: 515
-    commentsToLikes: 0.006491
-    id: ck5bzyq7ss3jf0i110q4wly88
-    verified: false
-    hashtags: "#toplineromania, #ad, #makelifebetterathome, #skincarefirst"
   - username: "moeoshikiri"
     fullname: >-
       Moe Oshikiri.   押切もえ

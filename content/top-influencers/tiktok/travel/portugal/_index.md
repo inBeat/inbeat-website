@@ -1,11 +1,11 @@
 ---
-title: Top 10 Travel TikTok Influencers In Portugal In 2023
+title: Top 10 Travel TikTok Influencers In Portugal In 2024
 description: >-
-  Find top travel TikTok influencers in Portugal in 2023. Most popular hashtags: #travel #fyp #foryou #portugal.
+  Find top travel TikTok influencers in Portugal in 2024. Most popular hashtags: #travel #fyp #foryou #portugal.
 platform: TikTok
-hits: 21
-text_top: Discover the best TikTok accounts on inBeat.
-text_bottom: Our database has 21 TikTok influencers like this in Portugal for you to collaborate.
+hits: 22
+text_top: Analyze the top-rated TikTok influencers on inBeat.
+text_bottom: inBeat holds 22 TikTok influencers like this in Portugal for you to connect with.
 profiles:
   - username: "crank_lauren"
     fullname: >-
@@ -115,16 +115,16 @@ profiles:
     id: ck8tsesphradk0j780yyxql22
     verified: true
     hashtags: "#foryou, #fyp, #viral, #texttospeechtrend"
-  - username: "vanilda331"
+  - username: "rivel_mozart"
     fullname: >-
-      Vanilda😷💓
+      ʀɪᴠᴇʟ ᴍᴏᴢᴀʀᴛ
     bio: >-
-      👌💉🚑💯🙏
+      💚 18yo 💚 Um brazucca em Portugal🇵🇹 Parcerias DM do Instagram 📥 Carneiro ♈️
     location: "Portugal"
-    followers: 10200
-    engagement: 958
-    commentsToLikes: 0.020211
-    id: cka7npamhxxlb0i78bmm5k18w
+    followers: 246700
+    engagement: 1656
+    commentsToLikes: 0.008279
+    id: ck83zbrfzzhif0j78nikbix47
     verified: false
-    hashtags: "#covid19, #vaificartudobem, #ly, #coronareport"
+    hashtags: "#sozinhoemcasa, #bbb21, #brasil, #travel"
 ---

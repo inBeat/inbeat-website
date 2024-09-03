@@ -1,12 +1,24 @@
 ---
-title: Top 10 Painters Instagram Influencers In Poland In 2023
+title: Top 10 Painters Instagram Influencers In Poland In 2024
 description: >-
-  Find top painters Instagram influencers in Poland in 2023. Most popular hashtags: #art #painter #painting #portrait.
+  Find top painters Instagram influencers in Poland in 2024. Most popular hashtags: #art #painting #painter #sztuka.
 platform: Instagram
-hits: 201
-text_top: See the best Instagram influencers on inBeat.
-text_bottom: inBeat has 201 Instagram influencers like this in Poland for you to pitch.
+hits: 272
+text_top: Discover the top-rated Instagram accounts on inBeat.
+text_bottom: Our database aggregates 272 Instagram influencers like this in Poland for you to connect with.
 profiles:
+  - username: "eva_minge"
+    fullname: >-
+      Ewa Minge
+    bio: >-
+      CONTACT: barbara.ozog@minge.team 💌 Owner of @evamingeofficial 🕶️ Fashion and Luxury Goods designer, painter, sculptor, author of books ♥️ Last book ⬇️
+    location: "Poland"
+    followers: 168990
+    engagement: 78
+    commentsToLikes: 0.029403
+    id: ck15tjs6qifoc0i19mmijkoms
+    verified: true
+    hashtags: "#filmmakerlife, #pink, #fashion, #design"
   - username: "kajaakarina"
     fullname: >-
       kajaakarina
@@ -67,64 +79,52 @@ profiles:
     id: ckap4fmyw761r0i78l610tg56
     verified: false
     hashtags: "#digitaldrawing, #digitalpaint, #semirealism, #arts"
-  - username: "julciajedrzejec"
+  - username: "n.mielnik"
     fullname: >-
-      julcia
+      Natalia Mielnik | oboi.st
     bio: >-
-      ♏️🧚🏻‍♀️🌸🧁🤍
+      Owner&founder of @oboi.st I will show you how to make good reeds and be better at playing oboe! 📍 Cracow, Poland
     location: "Poland"
-    followers: 11205
-    engagement: 906
-    commentsToLikes: 0.020116
-    id: ck6tssqyy6n5u0j71l6zbyjxv
+    followers: 7870
+    engagement: 1584
+    commentsToLikes: 0.030611
+    id: ckaovwh6n6e570i78nyodrkn8
     verified: false
-    hashtags: "#bookstagram, #julciapresets, #studygrampolska, #polskadziewczyna"
-  - username: "radekswiatkowski"
+    hashtags: "#oboereedmaking, #dailymusicians, #practicemakesbetter, #cyprusphotographer"
+  - username: "angelika.ryt"
     fullname: >-
-      Radek Świątkowski
+      Angela ☽
     bio: >-
-      Photographer & Cosmos Enthusiast
+      𝕯𝖔𝖓'𝖙 𝖜𝖔𝖗𝖗𝖞 𝖆𝖇𝖔𝖚𝖙 𝖒𝖊 ☾ ≏ A.rytkowska@wp.pl
     location: "Poland"
-    followers: 13457
-    engagement: 782
-    commentsToLikes: 0.022430
-    id: ck0w3cbz6sok30i19nib391r2
+    followers: 100402
+    engagement: 258
+    commentsToLikes: 0.020743
+    id: ck5znsl8yp2qj0i149uae2d2o
     verified: false
-    hashtags: "#blackandwhite, #monaco, #daylight, #itiswhatitis"
-  - username: "nefka_color_show"
+    hashtags: "#alternative, #fashionbloger, #chooker, #brunetka"
+  - username: "pejczi"
     fullname: >-
-      🌞🇴
+      Ola
     bio: >-
-      💙💜❤💚💛 Gouache 💚⚡💚 Coloredpencils / comish animal portraits📒📥
+      artist, witch and wanderer from Warsaw, Poland booking info below - in the pinned posts ⬇️
     location: "Poland"
-    followers: 10329
-    engagement: 744
-    commentsToLikes: 0.041589
-    id: ckap5cx9mb4030i78tjd16fyo
+    followers: 41284
+    engagement: 90
+    commentsToLikes: 0.015349
+    id: ck0w6u8zqabma0i19xusa5037
     verified: false
-    hashtags: "#wildlifedrawing, #instadraw, #gouachepainting, #watercolorsketch"
-  - username: "painted.corpse"
+    hashtags: "#fernlover, #fernlovers, #tattooer, #dotworktattoo"
+  - username: "madelinegavi"
     fullname: >-
-      Dominika Lipowa
+      Madeline Gavi
     bio: >-
-      📍Leszno 🇵🇱 PL 💄MUA 💌 PR & collaboration: painted.corpse@gmail.com #makijaż #makeup #makeuplover
+      👩🏼Magdalena Gawęcka 🎨Ręcznie malowane obrazy na zamówienie 🇵🇱Polish Artist/Model/YTber Contact: madelinegavi@gmail.com
     location: "Poland"
-    followers: 15089
-    engagement: 663
-    commentsToLikes: 0.073036
-    id: ck13909w1iw9l0i193zifh1yo
+    followers: 94971
+    engagement: 60
+    commentsToLikes: 0.020393
+    id: ck0vw1t0trq0e0i192ll60red
     verified: false
-    hashtags: "#abhprsearch, #dailymakeup, #makeuplover, #jeffreestarcosmetics"
-  - username: "_gelcoco"
-    fullname: >-
-      gelcoco
-    bio: >-
-      gel polish hand painted nail art 👩🏽‍🎨 DM for info | currently all booked (No New Clients) 📍Las Piedras, PR 🇵🇷 | @dlizbeautylounge
-    location: "Poland"
-    followers: 36804
-    engagement: 496
-    commentsToLikes: 0.033832
-    id: ck15radqz6ya10i19k4cz1btz
-    verified: false
-    hashtags: "#complex, #nailsmagazine, #instanails, #nailpro"
+    hashtags: "#sztuka, #obrazolejny, #wsp, #reklama"
 ---

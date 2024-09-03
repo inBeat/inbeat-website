@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fashion TikTok Influencers In Australia In 2023
+title: Top 10 Fashion TikTok Influencers In Australia In 2024
 description: >-
-  Find top fashion TikTok influencers in Australia in 2023. Most popular hashtags: #fyp #fashion #duet #brisbane.
+  Find top fashion TikTok influencers in Australia in 2024. Most popular hashtags: #fyp #fashion #brisbane #duet.
 platform: TikTok
-hits: 272
-text_top: Identify the most popular TikTok influencers on inBeat.
-text_bottom: inBeat has 272 TikTok influencers like this in Australia for you to pitch.
+hits: 271
+text_top: Discover the top-rated TikTok accounts on inBeat.
+text_bottom: inBeat aggregates 271 TikTok influencers like this in Australia for you to pitch.
 profiles:
   - username: "melgreenwood_83"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.053472
     id: ckavl8jv6uhc00j23km13rv7h
     verified: false
-    hashtags: "#specialneeds, #mymotivation, #inclusion, #colorcustomizer"
+    hashtags: "#specialneeds, #mymotivation, #questions, #poselikeamodel"
   - username: "natashagallier"
     fullname: >-
       Natasha Gallier
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.101569
     id: ckbf1tl2eo91j0j23ipuftglm
     verified: false
-    hashtags: "#broome, #honeymoon, #sunset, #friends"
+    hashtags: "#sunset, #broome, #honeymoon, #perthwa"
   - username: "tonyozkan"
     fullname: >-
       Tony
@@ -54,7 +54,7 @@ profiles:
     commentsToLikes: 0.019919
     id: ckbwggorn2jsu0j23k2m5zjt6
     verified: false
-    hashtags: "#dragqueen, #diy, #septum, #dragracedownunder"
+    hashtags: "#dragracedownunder, #dragqueen, #diy, #drag"
   - username: "rybkatwinsofficial"
     fullname: >-
       The Rybka Twins

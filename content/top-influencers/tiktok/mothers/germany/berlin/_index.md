@@ -1,11 +1,11 @@
 ---
-title: Top 10 Mothers TikTok Influencers In Berlin In 2023
+title: Top 10 Mothers TikTok Influencers In Berlin In 2024
 description: >-
-  Find top mothers TikTok influencers in Berlin in 2023. Most popular hashtags: #foryou #fyp #duett #viral.
+  Find top mothers TikTok influencers in Berlin in 2024. Most popular hashtags: #foryou #fyp #viral #comedy.
 platform: TikTok
 hits: 4
-text_top: Analyze the best TikTok profiles on inBeat.
-text_bottom: Our platform aggregates 4 TikTok influencers like this in Berlin, Germany for you to connect with.
+text_top: Discover the most popular TikTok accounts on inBeat.
+text_bottom: Our platform has 4 TikTok influencers like this in Berlin, Germany for you to pitch.
 profiles:
   - username: "rinzzler1337"
     fullname: >-
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.027107
     id: ckb9asykcw1il0j23v3jvj38v
     verified: false
-    hashtags: "#comedy, #rezept, #tutorial, #bubbletea"
+    hashtags: "#rezept, #tutorial, #bubbletea, #comedy"
   - username: "belledara"
     fullname: >-
       belle.dara
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.026814
     id: ckbl1qujwymv30j23mczhkvbm
     verified: false
-    hashtags: "#germany, #pinkhair, #friends, #fyp"
+    hashtags: "#pokemon, #foryou, #foryoupage, #stitch"
   - username: "aminqee"
     fullname: >-
       am ina
@@ -102,7 +102,7 @@ profiles:
     commentsToLikes: 0.007814
     id: ckbl3hh4f0uv60j23r17hiooo
     verified: true
-    hashtags: "#fyp, #foryou, #motheranddaughter, #fcbayern"
+    hashtags: "#fyp, #foryou, #motheranddaughter, #howlongcanyougo"
   - username: "nadine.kl85"
     fullname: >-
       Nadine

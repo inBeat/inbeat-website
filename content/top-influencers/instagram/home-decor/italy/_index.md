@@ -1,12 +1,24 @@
 ---
-title: Top 10 Home Decor Instagram Influencers In Italy In 2023
+title: Top 10 Home Decor Instagram Influencers In Italy In 2024
 description: >-
-  Find top home decor Instagram influencers in Italy in 2023. Most popular hashtags: #homedecor #casadolcecasa #homesweethome #interiordesign.
+  Find top home decor Instagram influencers in Italy in 2024. Most popular hashtags: #homedecor #interiordesign #casadolcecasa #homesweethome.
 platform: Instagram
-hits: 316
-text_top: Discover the best Instagram accounts on inBeat.
-text_bottom: Our search engine holds 316 Instagram influencers like this in Italy for you to pitch.
+hits: 337
+text_top: See the best Instagram influencers on inBeat.
+text_bottom: Our platform holds 337 Instagram influencers like this in Italy for you to contact.
 profiles:
+  - username: "camilla.bellini"
+    fullname: >-
+      Camilla Bellini
+    bio: >-
+      Faccio progetti ✍️ Provo prodotti di #homedecor #design tra spazi di lifestyle, outfit e tips ✉️ camilla@camillabellini.com
+    location: "Italy"
+    followers: 88913
+    engagement: 127
+    commentsToLikes: 0.093311
+    id: ck9hacd2nc0as0j786oechjco
+    verified: false
+    hashtags: "#designtips, #homedecor, #design, #placetogo"
   - username: "trilliletty_shabbychic_"
     fullname: >-
       Letty🌹
@@ -42,31 +54,19 @@ profiles:
     commentsToLikes: 0.057604
     id: ck8tce9gez6an0j78ioh2s03p
     verified: false
-    hashtags: "#bathroominspiration, #livingroomdecor, #ristrutturazione, #ingresso"
-  - username: "mumisthemum"
-    fullname: >-
-      Giulia pettinato
-    bio: >-
-      Mumisthemum / La mamma è la mamma Motherhood |Homedecor| Lifestyle ~ CONTENT CREATOR ~ creo contenuti per aziende 💌 @giuliapettinato92_
-    location: "Italy"
-    followers: 20274
-    engagement: 359
-    commentsToLikes: 0.063750
-    id: ckaosn5tws6w30i781vpmxo83
-    verified: false
-    hashtags: "#interior4all, #instamamme, #decorarecasa, #kidsroom"
+    hashtags: "#arredare, #arredarecasa, #whitehome, #kitchens"
   - username: "valentinarizzello"
     fullname: >-
       Valentina Rizzello 🌷🎠
     bio: >-
-      Collazionatrice seriale💫Nata al nord,sangue salentino e romana d’adozione. Homedecor | lifestyle | travel | fashion | beauty 🏡 Roma
+      Collezionatrice seriale💫Nata al nord,sangue salentino e romana d’adozione. Homedecor | lifestyle | travel | fashion | beauty 🏡 Roma
     location: "Italy"
-    followers: 17286
-    engagement: 202
-    commentsToLikes: 0.070450
+    followers: 21785
+    engagement: 117
+    commentsToLikes: 0.048572
     id: ck5q94v699ek60i11dfzlenog
     verified: false
-    hashtags: "#sissithewestie, #thecolvinco, #amoredellazia, #immacolata"
+    hashtags: "#puglia, #salento, #bibiezia, #3anni"
   - username: "shabby_chic_lov3"
     fullname: >-
       🌸🎀Veronica🎀🌸 shabby chic <3 🌸
@@ -79,52 +79,52 @@ profiles:
     id: ck13952vpjkh70i19i9zkaz8h
     verified: false
     hashtags: "#decorazioninatalizie, #homesweethome, #shabbychicstyle, #miseenplace"
-  - username: "chiara_sui_libri"
+  - username: "historyinhighheels"
     fullname: >-
-      Chiara- Libri,Podcast a Berlin
+      History in High Heels
     bio: >-
-      • Fagocito libri e podcast •⁣ Adoro i treni e le bici Gruppo di lettura #fridaysforfuturebooks ⁣⁣ #podcast ⁣ Ve ne parlo qui ⬇️
+      Florida Native 🐊 📍D.C. But my 💕is always in 🇮🇹 📚 PhD in History and headband enthusiast
     location: "Italy"
-    followers: 26639
-    engagement: 607
-    commentsToLikes: 0.057033
-    id: ck9h9v9bma3eq0j78eszggqih
+    followers: 97071
+    engagement: 1226
+    commentsToLikes: 0.037439
+    id: ck5zugwz82c8a0i14lyyyee9i
     verified: false
-    hashtags: "#leggendo, #annakarenina, #libridaleggere, #librisulibri"
-  - username: "robertaruiu"
+    hashtags: "#apartmenttherapy, #winterfashion, #dametraveler, #ladolcevita"
+  - username: "la_pauselli"
     fullname: >-
-      Roberta Ruiu
+      𝐆𝐢𝐮𝐥𝐢𝐚 𝐏𝐚𝐮𝐬𝐞𝐥𝐥𝐢
     bio: >-
-      • Ambassador @pomellato • Global Ambassador of St.Moritz • Contact : robertaruiu.roberta@gmail.com
+      𝗗𝗮𝗻𝗰𝗲𝗿 @amiciufficiale 𝘼𝙣𝙣 𝘼𝙩𝙤𝙢𝙞𝙘 𝙖𝙩 @crazyhorseparis_official 𝙂𝙧𝙖𝙙𝙪𝙖𝙩𝙚𝙙 𝙖𝙩 @teatroallascala 𝙏𝙖𝙡𝙚𝙣𝙩 @wannabemgmt 👶🏼Romeo’s mom ♾️@marcellosacchetta
     location: "Italy"
-    followers: 86409
-    engagement: 196
-    commentsToLikes: 0.045635
-    id: ck0ud5shiib1e0i199g7atk2o
+    followers: 486148
+    engagement: 408
+    commentsToLikes: 0.005708
+    id: ck5c2dmm2x1vx0i11f9n3wroe
     verified: true
-    hashtags: "#interiordesign, #photography, #seventyvenezia, #westwing"
-  - username: "kettyraimondo"
+    hashtags: "#interiordesign, #adv, #homedesign, #ad"
+  - username: "martapareccini"
     fullname: >-
-      Ketty 🎀
+      Marta Pareccini
     bio: >-
-      Made in Sicily 🍋🍊🌞🌊🌋 INSPO / FASHION / HOME Spunti outfit & Home decor 👗👠🏡🖼
+      Sto ristrutturando casa. Ho tempo solo per la skincare 📍Brescia marta.pareccini@gmail.com Vi aspetto su TikTok per parlare di beauty
     location: "Italy"
-    followers: 87936
-    engagement: 109
-    commentsToLikes: 0.146438
-    id: ck6uail9o3rds0j71fw39apth
+    followers: 98487
+    engagement: 694
+    commentsToLikes: 0.022004
+    id: ck15qgx7r2s8r0i19vrxsl3aw
     verified: false
-    hashtags: "#outfitfashion, #ootdgoals, #selfie, #selfieallospecchio"
-  - username: "giulia_mammacheavventura"
+    hashtags: "#ideeregalo, #kitchenideas, #bathroominspo, #christmastime"
+  - username: "larissaeremeeva"
     fullname: >-
-      Giulia Proietti L💛FamilyTravel
+      Larissa Eremeeva | Artist
     bio: >-
-      ♡ Viaggiamo per lavoro e per passione Vi racconto le avventure da mamma e dei viaggi #mammacheavventura 👩‍👦‍👦🗺 e ve le mostro con le foto ♡ 📍Roma
+      ▫️Evocative abstract ▫️Ideas made emotion, expressed by texture & rhythm▫️Based in Italy▫️More info and to buy 👉
     location: "Italy"
-    followers: 10502
-    engagement: 335
-    commentsToLikes: 0.519523
-    id: ckf5r47vsbcyi0j23wr40nppq
+    followers: 56533
+    engagement: 592
+    commentsToLikes: 0.028863
+    id: cl6okxobwlkou0i2310a82usv
     verified: false
-    hashtags: "#dicembre, #inverno2021, #xmasdecor, #january2021"
+    hashtags: "#artcontemporain, #artoninstagram, #abstractartists, #buyart"
 ---

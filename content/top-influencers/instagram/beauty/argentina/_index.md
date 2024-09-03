@@ -1,130 +1,130 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Argentina In 2023
+title: Top 10 Beauty Instagram Influencers In Argentina In 2024
 description: >-
-  Find top beauty Instagram influencers in Argentina in 2023. Most popular hashtags: #makeup #ootd #maquillaje.
+  Find top beauty Instagram influencers in Argentina in 2024. Most popular hashtags: #makeup #lifestyle #beauty.
 platform: Instagram
-hits: 393
-text_top: Discover the best Instagram profiles on inBeat.
-text_bottom: inBeat holds 393 Instagram influencers like this in Argentina for you to work with.
+hits: 413
+text_top: Discover the top-rated Instagram accounts on inBeat.
+text_bottom: Our platform has 413 Instagram influencers like this in Argentina for you to contact.
 profiles:
-  - username: "camiverdugo"
+  - username: "mimilandtv"
     fullname: >-
-      CAMI VERDUGO 🤎
+      Mimi Land
     bio: >-
-      ✧ Beauty Content Creator ✧ › maquillaje, lifestyle & outfits › camila.verdugo@gmail.com › santiago, chile
+      Humor • Lifestyle • Beauty 💜 5M Landers en Youtube ✨ 📍🇺🇸 Made in USA con padres 🇦🇷🇻🇪 Cuenta manejada por un adulto
     location: "Argentina"
-    followers: 25098
-    engagement: 621
-    commentsToLikes: 0.049426
-    id: ck5q5jx7jt8nx0i11amep8d5v
+    followers: 1028878
+    engagement: 872
+    commentsToLikes: 0.010833
+    id: ck135mn3e25x00i1974rjmope
     verified: false
-    hashtags: "#maquillaje, #maquillajeojos, #colourpopme, #chilemakeup"
-  - username: "florafotografia"
+    hashtags: "#relatable, #mimiland, #adolescencia, #humor"
+  - username: "melanibellov"
     fullname: >-
-      ▼ Flora Fotografía ▲
+      Melani Bello
     bio: >-
-      ★ Directora de Fotografía 📷 Bs. As, Arg 🇦🇷 ★ Beauty - Books/Tests - Retoque digital ★ Fotog. Moda Editorial - Campañas ★ Inscribite en la Master ⬇️
+      Lifestyle, fashion & beauty tips Asesora de imagen Founder @isidorapy_
     location: "Argentina"
-    followers: 9674
-    engagement: 612
-    commentsToLikes: 0.149346
-    id: ck6u9o6idynqo0j718w18bnjc
+    followers: 91215
+    engagement: 331
+    commentsToLikes: 0.054885
+    id: ckap6q5m4gyi80i78lrnpyi4c
     verified: false
-    hashtags: "#fotograf, #luzdura, #fot, #35mm"
-  - username: "hollyradio"
+    hashtags: "#armariocapsulaverano, #grwmforpilates, #hairstylist, #unboxing"
+  - username: "gissellalavabeauty"
     fullname: >-
-      Superholly
+      𝔾𝕚𝕤𝕤𝕖𝕝𝕝𝕒 𝔸𝕝𝕒𝕧𝕒 𝔹𝕖𝕒𝕦𝕥𝕪 ®
     bio: >-
-      De aquí y de allá 🌵🌴 Beauty is everywhere ✨ Hija del mar 🌊🌊🌊 4M de sensatos ❤️
+      | 🇪🇨 | Inf 📩 gissellaalavabeauty@hotmail.com Cuenta laboral @beautycentergissellalava Link directo a WhatsApp ⤵️
     location: "Argentina"
-    followers: 792597
-    engagement: 808
-    commentsToLikes: 0.007614
-    id: ck0vvielcpa170i19fmhiduan
-    verified: true
-    hashtags: "#hollyandbentravels, #hollyandbencalendar, #hollycalendar, #casatuggyvargas"
-  - username: "joaquinlpatterson"
-    fullname: >-
-      Joaquin Lopez Patterson
-    bio: >-
-      👳🏻‍♂️#BeautyGuru International Makeup Artist based in Argentina 🇦🇷 Powered by 💮 @shiseido
-    location: "Argentina"
-    followers: 35790
-    engagement: 188
-    commentsToLikes: 0.124952
-    id: ck5q37t6jjmov0i117h0urd59
+    followers: 23192
+    engagement: 461
+    commentsToLikes: 0.116735
+    id: ckaousxic1odb0i78bo4el82w
     verified: false
-    hashtags: "#shiseido, #xmasmakeup, #udargentina, #brunette"
-  - username: "thisispaulopolis"
+    hashtags: "#photooftheday, #photo, #ecuador, #sunglasses"
+  - username: "tatiperez"
     fullname: >-
-      Paulova Palacios ⚡️
+      Tati Makeup
     bio: >-
-      Paulova Palacios Style Creator #lifestyle | #hair | #Chihuahuas Owner of Paulova Palacios Beauty Atelier
+      Hair & Makeup Services Owner at @tatimakeupstudio Makeup Classes Beauty, fashion, traveling tips, DIYS, Cooking, Parenting and single momming 🤍
     location: "Argentina"
-    followers: 43364
-    engagement: 645
-    commentsToLikes: 0.015948
-    id: ck9wp1ayu7d6z0j78yyvf1vgj
+    followers: 175717
+    engagement: 279
+    commentsToLikes: 0.041520
+    id: ck5ccbnvvh2nx0i11u62wh5wo
     verified: false
-    hashtags: "#tb"
-  - username: "sosa_sabri"
+    hashtags: "#feriadesevilla, #bobatea, #estoymamada, #shameless"
+  - username: "martubajko"
     fullname: >-
-      S͙A͙B͙R͙I͙N͙A͙ S͙O͙S͙A͙
+      mar | content creator
     bio: >-
-      Conductora de Estilo Chic (canal Vive y Tendencias Prime) +Fit, Beauty, Unlok, encuentralo en este link! 😉
+      🤍 content creator | lifestyle-fashion-beauty community manager | social media strategist +60k- tik tok sedalo handball
     location: "Argentina"
-    followers: 654361
-    engagement: 323
-    commentsToLikes: 0.010425
-    id: ck6u6xnc2ibck0j71kg86p7gm
-    verified: true
-    hashtags: "#havaianascl, #yo, #havaianaschile"
-  - username: "andreabfuentes"
-    fullname: >-
-      ᴀɴᴅʀᴇᴀ ʙᴇʟᴇɴ ғᴜᴇɴᴛᴇs ᴇʟᴇᴀs
-    bio: >-
-      ✨me encanta hacer trenzas✨ 👉🏼 @_beauty.looks 👈🏼 💃🏻Bailarina, coreógrafa, docente 📱Community Manager 📍Tucumán, argentina
-    location: "Argentina"
-    followers: 7194
-    engagement: 760
-    commentsToLikes: 0.037799
-    id: ck8t2e708z5de0j787d4cx8sa
+    followers: 10103
+    engagement: 196
+    commentsToLikes: 0.023951
+    id: ck5c7d8mf7bdt0i11bpbuj629
     verified: false
-    hashtags: "#picsart, #dance, #reggaeton, #makeup"
-  - username: "malcattalini"
-    fullname: >-
-      malcattalini
-    bio: >-
-      𝐂𝐨𝐫𝐞𝐨𝐠𝐫𝐚𝐟𝐚 /𝐁𝐚𝐢𝐥𝐚𝐫𝐢𝐧𝐚 /𝐂𝐨𝐚𝐜𝐡 𝐒𝐡𝐨𝐰 𝐌𝐚𝐭𝐜𝐡 𝐃𝐢𝐫𝐞𝐜𝐭𝐨𝐫𝐚 𝐝𝐞 @dancingqueendevoto 𝗔𝗽𝗮𝘀𝗶𝗼𝗻𝗮𝗱𝗮 𝗽𝗼𝗿 𝗹𝗮 𝗺𝗼𝗱𝗮 𝐲 𝐥𝐨𝐬 𝐯𝐢𝐚𝐣𝐞𝐬 𝐁𝐞𝐥𝐥𝐞𝐳𝐚 𝐲 𝘀𝗮𝗹𝘂𝗱 👉🏼 @catta.beautyok
-    location: "Argentina"
-    followers: 210014
-    engagement: 146
-    commentsToLikes: 0.041188
-    id: ck0w60sev6d5u0i19vwxh9wt9
-    verified: false
-    hashtags: "#showmatch, #fashionstyle, #coreografa, #bailarines"
+    hashtags: "#inspofashion, #foto, #fitness, #beautiful"
   - username: "katymenocal"
     fullname: >-
       Katy Menocal
     bio: >-
-      Beauty & make up blogger/vlogger💄💋 Pin Up Model 🍒 Mexicanita 🌵 #katyps #katymenocal Visita mi canal de Youtube 👇 Katymenocal@outlook.com
+      Beauty & make up blogger/vlogger💄💋 Me gustan los años viejos ❤️ Tiktok +500K 🫰🏻 Mexicanita 🌵 Katymenocal@outlook.com
     location: "Argentina"
-    followers: 31069
-    engagement: 414
-    commentsToLikes: 0.023254
+    followers: 87179
+    engagement: 144
+    commentsToLikes: 0.019169
     id: ck15radam6y5i0i19amxvv4k3
     verified: false
-    hashtags: "#vintagestyle, #pinupstyle, #pinupclothing, #pinupmexicana"
-  - username: "marumaruela"
+    hashtags: "#vintage, #pinupstyle, #pinupmexicana, #lifestyle"
+  - username: "nadia.presmanes"
     fullname: >-
-      Maru 🌸
+      Nadia Presmanes
     bio: >-
-      Mi intención era hablarles del mundo beauty pero se desvirtuó Livin' la vida rosa 🎀 📍Montevideo 🇺🇾 ⬇️ MI CANAL DE YOUTUBE ⬇️
+      Buenos Aires, Argentina Makeup, Beauty, Lifestyle
     location: "Argentina"
-    followers: 5224
-    engagement: 370
-    commentsToLikes: 0.074220
-    id: ck6tmwys18ou60j71kswybf39
+    followers: 33815
+    engagement: 242
+    commentsToLikes: 0.031053
+    id: ck5zkuwikk7bv0i14o80vg4kp
     verified: false
-    hashtags: "#uruguaya, #montevideo, #uruguay, #noespubli"
+    hashtags: "#redlips, #protegetuglow, #maclustreglass, #voguecosmeticosar"
+  - username: "vaniayoanda_"
+    fullname: >-
+      VANIA YOANDA
+    bio: >-
+      Beauty & Lifestyle . MasyaAllah TabarakAllah @zhaffronofficial . 📍Yogyakarta 🔽 Contact / Endorsement
+    location: "Argentina"
+    followers: 80624
+    engagement: 87
+    commentsToLikes: 0.071968
+    id: ckap524gr9ufe0i78hx81cjf9
+    verified: false
+    hashtags: "#kbeauty, #belgleam, #bodylotionmelembabkan, #promojogja"
+  - username: "luliharg"
+    fullname: >-
+      Lucia Harguintegui
+    bio: >-
+      Fashion Designer & Make up artist Content Creator TikTok 40k @luliharg Lifestyle | Makeup | Beauty Tips Bs.As 🇦🇷
+    location: "Argentina"
+    followers: 100639
+    engagement: 47
+    commentsToLikes: 0.659253
+    id: ck5zwycz96zst0i14ciwhxjv8
+    verified: false
+    hashtags: "#taylorswift, #makeup, #theerastour, #makeupinspo"
+  - username: "ildabejleri"
+    fullname: >-
+      Ilda Bejleri
+    bio: >-
+      •founder @ilspahammam.al “Beauty, Cosmetic & Personal Care, Hammam” •tvhost/sport journalist/producer •t’ka mami yll⭐️•rikthimiidallendysheve•sport
+    location: "Argentina"
+    followers: 412289
+    engagement: 41
+    commentsToLikes: 1.405208
+    id: ck135hmnm1gtr0i192dipvjq7
+    verified: false
+    hashtags: "#eventdesign, #florals, #party, #besojinimetemireve"
 ---

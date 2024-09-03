@@ -1,11 +1,11 @@
 ---
-title: Top 10 Rappers TikTok Influencers In New York In 2023
+title: Top 10 Rappers TikTok Influencers In New York In 2024
 description: >-
-  Find top rappers TikTok influencers in New York in 2023. Most popular hashtags: #foryou #fyp #newyork #foryoupage.
+  Find top rappers TikTok influencers in New York in 2024. Most popular hashtags: #fyp #foryou #newyork #music.
 platform: TikTok
-hits: 25
-text_top: See the best TikTok influencers on inBeat.
-text_bottom: Our database aggregates 25 TikTok influencers like this in New York, United States for you to contact.
+hits: 24
+text_top: Identify the most popular TikTok profiles on inBeat.
+text_bottom: Our database aggregates 24 TikTok influencers like this in New York, United States for you to connect with.
 profiles:
   - username: "ianconnorslawyer"
     fullname: >-
@@ -19,18 +19,30 @@ profiles:
     id: ckb9in7w795b70j23yqzywbrq
     verified: false
     hashtags: "#tylerthecreator, #asapmob, #rnb, #rap"
-  - username: "mr.ott"
+  - username: "brendanfoery"
     fullname: >-
-      Poppa👁👄👁
+      Brendan Foery
     bio: >-
-      Ryan CT
+      I make music and create stuff. www.brendanfoery.com
     location: "United States"
-    followers: 23900
-    engagement: 1297
-    commentsToLikes: 0.036252
-    id: ckauzl2in53g00j23mdbwdrgx
+    followers: 10800
+    engagement: 1026
+    commentsToLikes: 0.125106
+    id: ck8w5hsmsa0yi0j78rl2yazr0
     verified: false
-    hashtags: "#foryou, #memes, #greenscreensticker, #wallpapers"
+    hashtags: "#music, #duet, #beat, #musicproducer"
+  - username: "mydripdifferent"
+    fullname: >-
+      Maccaveli 🖤
+    bio: >-
+      6’4 LA 🌴
+    location: "United States"
+    followers: 7513
+    engagement: 1423
+    commentsToLikes: 0.080133
+    id: ckb9b632wx2c10j23x2v4wu9y
+    verified: false
+    hashtags: "#blacktiktok, #wordsofwisdom, #lildurk, #california"
   - username: "tiktoksecurityguard0"
     fullname: >-
       Tik Toker
@@ -43,18 +55,6 @@ profiles:
     id: ckc7wqx8zzslw0j23u8btma58
     verified: false
     hashtags: "#blacklivesmatter, #foryou, #foryoupage, #blm"
-  - username: "quickvic"
-    fullname: >-
-      Quick
-    bio: >-
-      Manager Instagram: @quickvic $Mainevent002
-    location: "United States"
-    followers: 32200
-    engagement: 1225
-    commentsToLikes: 0.146111
-    id: cka9kqriq0wm80i78uso2lhyg
-    verified: false
-    hashtags: "#foryourpage, #viral, #sport, #girl"
   - username: "yuhcarrot"
     fullname: >-
       29
@@ -103,18 +103,6 @@ profiles:
     id: ckb1arv2hz8rq0j23vxqshac1
     verified: false
     hashtags: "#newyork, #lgbt, #onmefreestyle, #godisgood"
-  - username: "mydripdifferent"
-    fullname: >-
-      Maccaveli 🖤
-    bio: >-
-      6’4 LA 🌴
-    location: "United States"
-    followers: 7513
-    engagement: 1423
-    commentsToLikes: 0.080133
-    id: ckb9b632wx2c10j23x2v4wu9y
-    verified: false
-    hashtags: "#raptiktok, #wordsofwisdom, #blacktiktok, #jokes"
   - username: "officialks11"
     fullname: >-
       Therapist〽️
@@ -127,4 +115,16 @@ profiles:
     id: ckb9v5ju6u4w10j23g77t0vim
     verified: false
     hashtags: "#6ix9ine, #rapperstoknow, #chicago, #texas"
+  - username: "k_to_the"
+    fullname: >-
+      K2DA
+    bio: >-
+      🎙 Welcome to #KaiNation
+    location: "United States"
+    followers: 43900
+    engagement: 1101
+    commentsToLikes: 0.028963
+    id: ck83ywfxkwcs50j78zbnupanr
+    verified: false
+    hashtags: "#oldschoolhiphop, #eminemtoktik, #eminem, #hiphop"
 ---

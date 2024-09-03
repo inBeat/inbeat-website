@@ -1,11 +1,11 @@
 ---
-title: Top 10 Cyclists TikTok Influencers In 2023
+title: Top 10 Cyclists TikTok Influencers In 2024
 description: >-
-  Find top cyclists TikTok influencers in 2023. Most popular hashtags: #cyclist #cycling #fyp #rider.
+  Find top cyclists TikTok influencers in 2024. Most popular hashtags: #cyclist #cycling #fyp #rider.
 platform: TikTok
 hits: 28
-text_top: See the top-rated TikTok influencers on inBeat.
-text_bottom: Our platform holds 28 TikTok influencers like this for you to collaborate.
+text_top: Identify the top-rated TikTok accounts on inBeat.
+text_bottom: Our platform aggregates 28 TikTok influencers like this for you to pitch.
 profiles:
   - username: "esther_bike7"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.035940
     id: ck9v90z4gc1ls0j78o248lp0s
     verified: false
-    hashtags: "#cycling, #roadbike, #bikeride, #cycliste"
+    hashtags: "#velo, #bike, #foryou, #cycliste"
   - username: "journey_on_2wheels"
     fullname: >-
       Thippesha H P

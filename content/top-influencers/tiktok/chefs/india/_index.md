@@ -1,11 +1,11 @@
 ---
-title: Top 10 Chefs TikTok Influencers In India In 2023
+title: Top 10 Chefs TikTok Influencers In India In 2024
 description: >-
-  Find top chefs TikTok influencers in India in 2023. Most popular hashtags: #tiktokchef #tiktok #foryou #tiktokindia.
+  Find top chefs TikTok influencers in India in 2024. Most popular hashtags: #tiktokchef #tiktok #foryou #foryoupage.
 platform: TikTok
 hits: 89
-text_top: Analyze the most popular TikTok accounts on inBeat.
-text_bottom: inBeat has 89 TikTok influencers like this in India for you to pitch.
+text_top: See the best TikTok accounts on inBeat.
+text_bottom: Our platform has 89 TikTok influencers like this in India for you to connect with.
 profiles:
   - username: "rahul.arora.1982"
     fullname: >-

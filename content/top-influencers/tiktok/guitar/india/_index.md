@@ -1,10 +1,10 @@
 ---
-title: Top 10 Guitar TikTok Influencers In India In 2023
+title: Top 10 Guitar TikTok Influencers In India In 2024
 description: >-
-  Find top guitar TikTok influencers in India in 2023. Most popular hashtags: #foryou #guitar #edutok #duet.
+  Find top guitar TikTok influencers in India in 2024. Most popular hashtags: #foryou #guitar #edutok #duet.
 platform: TikTok
 hits: 69
-text_top: Discover the most popular TikTok influencers on inBeat.
+text_top: Discover the best TikTok profiles on inBeat.
 text_bottom: inBeat has 69 TikTok influencers like this in India for you to pitch.
 profiles:
   - username: "rohithsmadhu"

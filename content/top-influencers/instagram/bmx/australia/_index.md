@@ -1,48 +1,36 @@
 ---
-title: Top 10 Bmx Instagram Influencers In Australia In 2023
+title: Top 10 Bmx Instagram Influencers In Australia In 2024
 description: >-
-  Find top bmx Instagram influencers in Australia in 2023. Most popular hashtags: #bmx #bmxracing #australia.
+  Find top bmx Instagram influencers in Australia in 2024. Most popular hashtags: #bmx #colonybmx #mtb.
 platform: Instagram
-hits: 33
-text_top: Discover the most popular Instagram profiles on inBeat.
-text_bottom: Our platform aggregates 33 Instagram influencers like this in Australia for you to work with.
+hits: 34
+text_top: Discover the top-rated Instagram profiles on inBeat.
+text_bottom: inBeat holds 34 Instagram influencers like this in Australia for you to contact.
 profiles:
   - username: "cbuchanan68"
     fullname: >-
-      Caroline Buchanan Athlete
+      CAROLINE  BUCHANAN • ATHLETE
     bio: >-
-      | 8 x BMX & Mountainbike World Champion | 2 x Australian Olympian | @krave.frenchies | @twopalmsmedia ea@carolinebuchanan.com
+      • 8 x BMX & Mountainbike World Champion • 2 x Australian Olympian • @krave.frenchies • @twopalmsmedia ea@carolinebuchanan.com
     location: "Australia"
-    followers: 171019
-    engagement: 291
-    commentsToLikes: 0.013072
+    followers: 171348
+    engagement: 259
+    commentsToLikes: 0.011260
     id: ck0u0p1uyuf3k0i194jn4hrjk
     verified: true
-    hashtags: "#squishyface, #ride, #frenchie, #cbr"
-  - username: "jyehombsch"
-    fullname: >-
-      JYE HOMBSCH
-    bio: >-
-      Gold Coast, Aus - - - - - - - - - - - - - - bmx race @dkbicycles.australia
-    location: "Australia"
-    followers: 7685
-    engagement: 815
-    commentsToLikes: 0.015154
-    id: ck5ckzbqtxx5t0i111g8xhvog
-    verified: false
-    hashtags: "#bmx, #race, #travel, #europe"
+    hashtags: "#fordranger, #pbwmn, #freeride, #pruttiville"
   - username: "laurenreynolds"
     fullname: >-
       Lauren Reynolds
     bio: >-
-      Pro BMX / 2 x Olympian Australian 🇦🇺 San Diego📍 👟 @puma | @ssquaredbicycles| @meloveloau ☕️@ryy_car & @mrwinston_dood 🤎 📧 jonesy@my-manager.com.au
+      BMX racer 3x Olympic athlete 💍💕 @ryy_car Australian living in USA 🐶Doodle mum to @mrwinston_dood 📧 jonesy@my-manager.com.au
     location: "Australia"
-    followers: 37878
-    engagement: 481
-    commentsToLikes: 0.018861
+    followers: 40693
+    engagement: 692
+    commentsToLikes: 0.018383
     id: ck6tp5h7xhy4v0j71gkp60lad
     verified: true
-    hashtags: "#greatestraceonearth, #ssquaredbicycles, #answerbmx, #recovery"
+    hashtags: "#tokyo, #kleanathlete, #ad, #tokyo2020"
   - username: "brandontehiko247"
     fullname: >-
       ATHLETE ➕
@@ -127,4 +115,16 @@ profiles:
     id: ck5qcq22zrsej0i1171j577ru
     verified: false
     hashtags: "#kaifight77, #bmx, #sakakibarabmx, #jersey"
+  - username: "sylvainandrebmx"
+    fullname: >-
+      Sylvain André
+    bio: >-
+      ➖Pro BMX Racer from 🇫🇷 ➖ 2018 World Champion 🥇 ➖2017 World Cup overall winner 🥇 ➖2017, 18 & 19 Worlds medalist ➖ Dad of Loulou
+    location: "Australia"
+    followers: 34863
+    engagement: 763
+    commentsToLikes: 0.004320
+    id: ck0twxqr1h73n0i19z9yjaaza
+    verified: false
+    hashtags: "#sqy, #liamsmafia, #jaspersplyomans, #tangentproducts"
 ---

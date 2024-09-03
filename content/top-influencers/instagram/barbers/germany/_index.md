@@ -1,12 +1,24 @@
 ---
-title: Top 10 Barbers Instagram Influencers In Germany In 2023
+title: Top 10 Barbers Instagram Influencers In Germany In 2024
 description: >-
-  Find top barbers Instagram influencers in Germany in 2023. Most popular hashtags: #barber #barbershop #berlin #fashion.
+  Find top barbers Instagram influencers in Germany in 2024. Most popular hashtags: #barber #barbershop #fashion #instagood.
 platform: Instagram
-hits: 75
-text_top: Analyze the most popular Instagram influencers on inBeat.
-text_bottom: inBeat holds 75 Instagram influencers like this in Germany for you to pitch.
+hits: 90
+text_top: Identify the top-rated Instagram accounts on inBeat.
+text_bottom: inBeat aggregates 90 Instagram influencers like this in Germany for you to work with.
 profiles:
+  - username: "jentonic"
+    fullname: >-
+      Jen Tonic
+    bio: >-
+      Lüneburg | GER @the.evergreen.garden 🍃 💌 Jentonic.booking@gmail.com (No DMs) Sponsored by: @cheyenne_tattooequipment @tattooarmourpro @barber_dts
+    location: "Germany"
+    followers: 337035
+    engagement: 202
+    commentsToLikes: 0.006412
+    id: ck8t4ha6e6tcl0j780d34uw77
+    verified: false
+    hashtags: "#ornaments, #backpiece, #cheyennetattooequipment, #chestflowers"
   - username: "julian.siebert"
     fullname: >-
       Corpsepainter
@@ -31,18 +43,6 @@ profiles:
     id: ck5c4mzmo1om00i11x4jgwym5
     verified: false
     hashtags: "#coop, #staystrong, #harleydavidson, #stayhealthy"
-  - username: "beatseb"
-    fullname: >-
-      Sebastian
-    bio: >-
-      Be the best version of yourself Travel & Fitness addicted guy Creating life with @corihueb 📍 Köln, Germany
-    location: "Germany"
-    followers: 131637
-    engagement: 540
-    commentsToLikes: 0.016096
-    id: ck13avw1ssg9c0i19j1gac348
-    verified: false
-    hashtags: "#beardstyle, #fitness, #bart, #frankfurt"
   - username: "luxsface"
     fullname: >-
       Makeup & Hair Styling Hamburg
@@ -54,7 +54,7 @@ profiles:
     commentsToLikes: 0.114066
     id: ck5q70wudzjfw0i119dp4ljxi
     verified: false
-    hashtags: "#farsi, #bhfyp, #photooftheday, #visagistinhamburg"
+    hashtags: "#hairstyling, #hairstyle, #hairtutorial, #mua"
   - username: "nurii_b"
     fullname: >-
       𝖓𝖚𝖗𝖎•𝕭
@@ -115,16 +115,16 @@ profiles:
     id: ck5zwbtvn5ulo0i14p577edgm
     verified: false
     hashtags: "#cut, #barbershop, #shaving, #firstclass"
-  - username: "muhammedyue"
+  - username: "marvinknoll"
     fullname: >-
-      Muhammed | Kiel | GoodLifeCrew
+      Marvin Knoll
     bio: >-
-      Snapchat : muhammedyue 👻 YouTuber : GoodLifeCrew 🎥
+      📍Hamburg / Berlin / Duisburg ~ My Official Instagram Page
     location: "Germany"
-    followers: 17065
-    engagement: 1359
-    commentsToLikes: 0.029772
-    id: ck14hcljb9n7u0i1952k4qqo5
-    verified: false
-    hashtags: "#comedy, #lustig, #ootd, #hamburg"
+    followers: 16607
+    engagement: 1195
+    commentsToLikes: 0.029265
+    id: ck0u9hwzb9x3j0i19mkrqq2zl
+    verified: true
+    hashtags: "#soccer, #kiezkicker, #memories, #enjoylife"
 ---

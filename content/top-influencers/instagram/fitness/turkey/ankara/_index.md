@@ -1,36 +1,12 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Ankara In 2023
+title: Top 10 Fitness Instagram Influencers In Ankara In 2024
 description: >-
-  Find top fitness Instagram influencers in Ankara in 2023. Most popular hashtags: #ankara #fitness #istanbul #turkey.
+  Find top fitness Instagram influencers in Ankara in 2024. Most popular hashtags: #ankara #fitness #istanbul #instagram.
 platform: Instagram
-hits: 35
-text_top: Analyze the best Instagram influencers on inBeat.
-text_bottom: inBeat aggregates 35 Instagram influencers like this in Ankara, Turkey for you to connect with.
+hits: 32
+text_top: Analyze the most popular Instagram accounts on inBeat.
+text_bottom: Our database holds 32 Instagram influencers like this in Ankara, Turkey for you to contact.
 profiles:
-  - username: "__bojanarmandic__"
-    fullname: >-
-      Bojana Rmandic
-    bio: >-
-      Social Media influencer 👩‍💻 Montenegro based 🇲🇪 Istanbul 🇹🇷 Collaboration dm /email 📩
-    location: "Turkey"
-    followers: 57512
-    engagement: 191
-    commentsToLikes: 0.112405
-    id: ck5hdenmtn0t40i11goxclfwg
-    verified: false
-    hashtags: "#instalike, #photoshoot, #me, #followme"
-  - username: "aysegunduzgunes"
-    fullname: >-
-      Ayşe Gündüz Güneş
-    bio: >-
-      🥑 Dengeli Yaşam | Motivasyon | Sağlıklı Tarifler 💫 Mühendis | Yaşam Koçu | Spor Eğitmeni 📩 Reklam ve iş birlikleri için aysegunduzgunes@gmail.com
-    location: "Turkey"
-    followers: 45865
-    engagement: 214
-    commentsToLikes: 0.563812
-    id: ckap7qotgl5380i78mpjbap8t
-    verified: false
-    hashtags: "#ramazantatl, #reelsindia, #sekersiztarifler, #ingilizceo"
   - username: "yenilgiimsin"
     fullname: >-
       Sevipte Sevilmeyen 🥀
@@ -69,16 +45,16 @@ profiles:
     hashtags: "#venezuela, #beautiful, #seferli, #fashionista"
   - username: "radmehrbrothers"
     fullname: >-
-      Mobin_mohamad
+      Radmehrbrothers official
     bio: >-
-      🔱 Efsaneikizler .📍🇹🇷 Ankara 🔶Member of Muay Thai National Team 2015 🔶Muay Thai 2016 Champion 🔶Kick Box 2017 Champion
+      💣Personal training🥊 .📍🇹🇷 İstanbul 🔰 trainer 🔰 online coaching 🔰 lose weight gain weight 🔰 fitness,kickboxing,muay thai 🥈wako europa cup champion
     location: "Turkey"
-    followers: 37072
-    engagement: 580
-    commentsToLikes: 0.141342
+    followers: 51643
+    engagement: 261
+    commentsToLikes: 0.039943
     id: ck1399rmkk8at0i19eybkxyr1
     verified: false
-    hashtags: "#survivor2021, #acunmedya, #strong, #tv8"
+    hashtags: "#kingradmehrbrothers, #fight, #spor, #crazy"
   - username: "profdrhakanyardimci"
     fullname: >-
       Prof. Dr. Hakan YARDIMCI
@@ -91,6 +67,42 @@ profiles:
     id: ckap95wr0rag70i786fydzrut
     verified: false
     hashtags: "#gata, #catsofinstagram, #gato, #gatos"
+  - username: "ertugrulgazisener"
+    fullname: >-
+      Ertuğrul Gazi Şener
+    bio: >-
+      Founder of EGS Beauty Cosmetics 💄 @ertugrulgazisener1
+    location: "Turkey"
+    followers: 1003085
+    engagement: 112
+    commentsToLikes: 0.012081
+    id: ckapadupgvplg0i78cu15cst7
+    verified: false
+    hashtags: "#fyp, #bodybuilding, #fitness, #motivasyon"
+  - username: "sinanguleryuzofficial"
+    fullname: >-
+      Sinan Guleryuz
+    bio: >-
+      KıZBaBaSı👶🏼 Menajer: @ilsmusicmanagement Organizasyonlar: @exenexclusivegroup Dijital: alevaktas@kronosiletisim.com.tr
+    location: "Turkey"
+    followers: 295370
+    engagement: 69
+    commentsToLikes: 0.033446
+    id: ck55jkribx83m0i119ok3gd20
+    verified: true
+    hashtags: "#sinanguleryuz, #fashionmodel, #livemusic, #love"
+  - username: "figenyilmazwellness"
+    fullname: >-
+      Figen Yılmaz
+    bio: >-
+      @figenyilmazacademy 🍀Mutlu Kadınlar,Mutlu Yarınlar 👩🏻‍🎓Akademisyen 🏃🏻‍♀️Spor Bil. ve Egz.Uzmanı 🏅Başkent Üniv. Yaşam Koçu ⚕️Tıbbi Beslenme Danışmanı
+    location: "Turkey"
+    followers: 592505
+    engagement: 58
+    commentsToLikes: 0.047177
+    id: ck9hbc8ndg8tn0j786fyvhnqt
+    verified: false
+    hashtags: "#incir, #antiaging, #istanbul, #kiloverme"
   - username: "ilkerinanoglu"
     fullname: >-
       Ilker Inanoglu
@@ -115,16 +127,4 @@ profiles:
     id: ckaotc48gv9jw0i782fx3zf6e
     verified: false
     hashtags: "#kahkaha, #kastamonu, #kastamonua, #komik"
-  - username: "fitixm"
-    fullname: >-
-      ❗️Sağlıklı Yaşa FİT Kal❗️
-    bio: >-
-      🌿 Sağlıklıbeslenme ve spor günlüğüm 🌿 Fittarifler ve Fittabaklar 💫#fitixm Daha az ye,daha çok su iç daha çok hareket et!
-    location: "Turkey"
-    followers: 14646
-    engagement: 545
-    commentsToLikes: 0.107329
-    id: ck8t6nrrxe8la0j780gdobyba
-    verified: false
-    hashtags: "#healthyfood, #nefisyemektarifleri, #antrenman, #evdesporyap"
 ---

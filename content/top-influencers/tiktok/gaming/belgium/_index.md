@@ -1,10 +1,10 @@
 ---
-title: Top 10 Gaming TikTok Influencers In Belgium In 2023
+title: Top 10 Gaming TikTok Influencers In Belgium In 2024
 description: >-
-  Find top gaming TikTok influencers in Belgium in 2023. Most popular hashtags: #fyp #gaming #foryou #pourtoi.
+  Find top gaming TikTok influencers in Belgium in 2024. Most popular hashtags: #fyp #foryou #gaming #pourtoi.
 platform: TikTok
 hits: 10
-text_top: See the most popular TikTok profiles on inBeat.
+text_top: Identify the most popular TikTok profiles on inBeat.
 text_bottom: Our platform has 10 TikTok influencers like this in Belgium for you to connect with.
 profiles:
   - username: "realdriftparadise"
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.035282
     id: ckdhqrfqg1un60j23lni2fhqs
     verified: false
-    hashtags: "#wendyadriaens, #cute, #velociraptor, #rescuebird"
+    hashtags: "#family, #funnyanimals, #rescuebird, #velociraptor"
   - username: "jenthe.smisdom"
     fullname: >-
       Smissy
@@ -102,7 +102,7 @@ profiles:
     commentsToLikes: 0.014260
     id: ckb91uvw8hs360j23mkoltz3w
     verified: false
-    hashtags: "#keansuspensions, #ferrari, #pourtoi, #fyp"
+    hashtags: "#supercar, #pantera, #pourtoi, #foryou"
   - username: "yoxeu"
     fullname: >-
       Yoxeu

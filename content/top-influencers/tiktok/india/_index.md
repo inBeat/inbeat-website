@@ -1,11 +1,11 @@
 ---
-title: Top 10 TikTok Influencers In India In 2023
+title: Top 10 TikTok Influencers In India In 2024
 description: >-
-  Find top TikTok influencers in India in 2023. Most popular hashtags: #duet #tik #photomagic.
+  Find top TikTok influencers in India in 2024. Most popular hashtags: #duet #tik #photomagic.
 platform: TikTok
-hits: 18821
-text_top: See the most popular TikTok influencers on inBeat.
-text_bottom: inBeat holds 18821 TikTok influencers like this in India for you to connect with.
+hits: 18840
+text_top: See the most popular TikTok profiles on inBeat.
+text_bottom: Our search engine holds 18840 TikTok influencers like this in India for you to pitch.
 profiles:
   - username: "simmylanda"
     fullname: >-

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Food Instagram Influencers In Sao Paulo In 2023
+title: Top 10 Food Instagram Influencers In Sao Paulo In 2024
 description: >-
-  Find top food Instagram influencers in Sao Paulo in 2023. Most popular hashtags: #saopaulo #food #instafood #foodstyling.
+  Find top food Instagram influencers in Sao Paulo in 2024. Most popular hashtags: #saopaulo #comida #food #brasil.
 platform: Instagram
 hits: 69
-text_top: See the most popular Instagram accounts on inBeat.
-text_bottom: inBeat has 69 Instagram influencers like this in Sao Paulo, Brazil for you to connect with.
+text_top: Analyze the top-rated Instagram profiles on inBeat.
+text_bottom: inBeat aggregates 69 Instagram influencers like this in Sao Paulo, Brazil for you to collaborate.
 profiles:
   - username: "dutokushima"
     fullname: >-
@@ -19,18 +19,18 @@ profiles:
     id: ck5c8lkhf9qsq0i119d55jkpu
     verified: false
     hashtags: "#sdd, #backbypopulardemand"
-  - username: "priscilastuckynacozinha"
+  - username: "chefantoniomaiolica"
     fullname: >-
-      Priscila Stucky
+      Antonio Maiolica
     bio: >-
-      👩‍🍳Receitas de Chef para Todos 📸Food Stylist 🥗Inspirações Gastronômicas Produção de Conteúdo Curso de Food Styling São Paulo - Brasil
+      Salerno 🇱🇻🇮🇹São Paulo🇧🇷 🇮🇹@temperanicucina 🇬🇷@miirooftop 🍕🍕 @gambero_rosso 2023 e 2024 🏆 Melhor Trattoria Veja São Paulo 2019
     location: "Brazil"
-    followers: 75118
-    engagement: 29
-    commentsToLikes: 0.182250
-    id: ckf5ovz1m40710j23wo0zyb5f
+    followers: 614539
+    engagement: 377
+    commentsToLikes: 0.031480
+    id: ck5zkl2asjob70i14bb6ox383
     verified: false
-    hashtags: "#foodstyling, #foodstylist, #fotodecomida, #rap10resolvebonito"
+    hashtags: "#cheflife, #nuovacucinaitaliana, #massa, #chefoninstagram"
   - username: "sou.silverio"
     fullname: >-
       Sou Silverio
@@ -91,18 +91,18 @@ profiles:
     id: ck0vwezrstdnn0i19n6y6kgyn
     verified: false
     hashtags: "#book, #indaiatuba, #comida, #vinhedo"
-  - username: "chefantoniomaiolica"
+  - username: "gordooriginalbr"
     fullname: >-
-      Antonio Maiolica
+      Rafael Aiello
     bio: >-
-      From Salerno 🇮🇹 São Paulo 🇧🇷 "Think global. Eat local" 🐃 @bufala_almeida_prado @pop_up_cucina 🏆 Melhor Trattoria Veja São Paulo 2019
+      🍔 Blogueiro Muso Fatness 🍕 Youtube.com/GordoOriginal 🍟 Contato: umhomemdepeso@gmail.com 🥤 Refil
     location: "Brazil"
-    followers: 17133
-    engagement: 164
-    commentsToLikes: 0.030744
-    id: ck5zkl2asjob70i14bb6ox383
+    followers: 30340
+    engagement: 244
+    commentsToLikes: 0.060412
+    id: ck6tx2maivi3o0j71jz1toem2
     verified: false
-    hashtags: "#italy, #jardins, #higienopolis, #saopaulo"
+    hashtags: "#publi, #tbt, #publicidade, #burrito"
   - username: "myketakashi"
     fullname: >-
       Myke Takashi

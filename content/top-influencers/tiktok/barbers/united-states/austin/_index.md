@@ -1,11 +1,11 @@
 ---
-title: Top 10 Barbers TikTok Influencers In Austin In 2023
+title: Top 10 Barbers TikTok Influencers In Austin In 2024
 description: >-
-  Find top barbers TikTok influencers in Austin in 2023. Most popular hashtags: #fyp #barber #foryou #viral.
+  Find top barbers TikTok influencers in Austin in 2024. Most popular hashtags: #fyp #barber #foryou #viral.
 platform: TikTok
 hits: 13
-text_top: Identify the best TikTok profiles on inBeat.
-text_bottom: inBeat has 13 TikTok influencers like this in Austin, United States for you to collaborate.
+text_top: Identify the most popular TikTok profiles on inBeat.
+text_bottom: inBeat holds 13 TikTok influencers like this in Austin, United States for you to contact.
 profiles:
   - username: "manuelosuna63"
     fullname: >-
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.026239
     id: ckbqglj5d248z0j23gno2752y
     verified: false
-    hashtags: "#katespadestrawberry, #katespade, #greenscreen, #facebookmarketplace"
+    hashtags: "#katespade, #katespadestrawberry, #greenscreen, #aritzia"
   - username: "kareem_grimes"
     fullname: >-
       Kareem Grimes
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.026248
     id: ckb1akegvyylq0j23vkfcvlin
     verified: false
-    hashtags: "#fyp, #preach, #allamerican, #coop"
+    hashtags: "#preach, #coop, #fyp, #allamerican"
   - username: "idustinb"
     fullname: >-
       Dustin Bryant
@@ -90,7 +90,7 @@ profiles:
     commentsToLikes: 0.031880
     id: ck81qusw8k1cf0j789ym4tgdw
     verified: false
-    hashtags: "#foryou, #new, #fyp, #shoes"
+    hashtags: "#handpainted, #new, #customsneakers, #sneakers"
   - username: "jcthebarber__"
     fullname: >-
       jcthebarber__

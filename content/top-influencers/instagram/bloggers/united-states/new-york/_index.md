@@ -1,84 +1,48 @@
 ---
-title: Top 10 Bloggers Instagram Influencers In New York In 2023
+title: Top 10 Bloggers Instagram Influencers In New York In 2024
 description: >-
-  Find top bloggers Instagram influencers in New York in 2023. Most popular hashtags: #newyork #blogger #nyc #newyorkcity.
+  Find top bloggers Instagram influencers in New York in 2024. Most popular hashtags: #newyork #blogger #newyorkcity #nyc.
 platform: Instagram
-hits: 291
-text_top: See the top-rated Instagram accounts on inBeat.
-text_bottom: Our search engine holds 291 Instagram influencers like this in New York, United States for you to connect with.
+hits: 339
+text_top: Analyze the best Instagram influencers on inBeat.
+text_bottom: Our search engine holds 339 Instagram influencers like this in New York, United States for you to work with.
 profiles:
-  - username: "blindfoxart"
+  - username: "jessvanzalen"
     fullname: >-
-      Ҍӏíղժ Ƒօ×
+      Jessie van Zalen 🦋
     bio: >-
-      ⱭɾԵÍՏԵ • 𝔐𝔲𝔰𝔢 • Nefelibata ✖️ 𝙰𝚕𝚕 𝚘𝚛𝚒𝚐𝚒𝚗𝚊𝚕 𝚙𝚊𝚒𝚗𝚝𝚒𝚗𝚐𝚜 𝚊𝚗𝚍 𝚙𝚛𝚒𝚗𝚝𝚜✖️ BOSTON based, NYC and LA rooted ✖️ ɪɴᴛᴇʀɴᴀᴛɪᴏɴᴀʟ ᴀʀᴛɪsᴛ ✖️Sales@BlindFoxArt.com
+      Jessie.van.zalen@gmail.com La Vie en Rose 🌹 Snapchat: jessiex_xo Student Communication 📚 Amsterdam, Netherlands
     location: "United States"
-    followers: 18194
-    engagement: 524
-    commentsToLikes: 0.023564
-    id: ck5ztx91z1adr0i14rm2ji6dq
+    followers: 6882
+    engagement: 1364
+    commentsToLikes: 0.088065
+    id: ckap563gqacsi0i78hptlpb35
     verified: false
-    hashtags: "#mural, #design, #bostonigers, #art"
-  - username: "emmy_milan"
+    hashtags: "#lifestylephotography, #comfy, #lifestyle, #milano"
+  - username: "amanda_brandalise"
     fullname: >-
-      Emmy Milan ⋆ᴛʀᴀᴠᴇʟ⋆ʟɪꜰᴇꜱᴛʏʟᴇ⋆
+      Amanda Brandalise
     bio: >-
-      -🙏🏾God is Within Her,She Will Not Fail! -🌎Travel:Lifestyle:Visionary -🧘🏽‍♀️Visualize your highest self -📸 Creator
+      👑 Miss Teen Paraná 2018 Contato 👉🏻 direct 🇧🇷PR 🇺🇸CT
     location: "United States"
-    followers: 16732
-    engagement: 506
-    commentsToLikes: 0.061293
-    id: ck14lev6bub340i199hl0lh9a
+    followers: 11082
+    engagement: 864
+    commentsToLikes: 0.076861
+    id: ck8t800bbilo20j78u3qt57da
     verified: false
-    hashtags: "#positivevibes, #blacktravelclub, #brooklyn, #prosperity"
-  - username: "keytherestevez_"
+    hashtags: "#beachday, #outfits, #nyc, #influencer"
+  - username: "yuliyaivan"
     fullname: >-
-      KEYTHER ESTÉVEZ 🇩🇴
+      YULIYA IVAN
     bio: >-
-      FASHION STYLIST / DOMINICAN FASHION DESIGNER ◽️CREATIVE DIRECTOR @keytherestevezstudio ◽️FOUNDER @dominicanafashionawards
+      Human Bean⚡Better yourself, the Earth, and the people around you 🌱@yuliyaivanart
     location: "United States"
-    followers: 48837
-    engagement: 76
-    commentsToLikes: 0.022392
-    id: ck5ccbvweh2wx0i11fqmujlbd
-    verified: true
-    hashtags: "#keytherestevezstudio, #menwithclass, #premiojuventud2021, #filmmaker"
-  - username: "fitbeep"
-    fullname: >-
-      blair | fitness coach
-    bio: >-
-      NYC ✩ 𝗂 𝗁𝖾𝗅𝗉 𝗉𝖾𝗈𝗉𝗅𝖾 𝖼𝗋𝗎𝗌𝗁 𝗍𝗁𝖾𝗂𝗋 𝗀𝗈𝖺𝗅𝗌 & 𝗀𝖺𝗂𝗇 𝖻𝗈𝖽𝗒 𝖼𝗈𝗇𝖿𝗂𝖽𝖾𝗇𝖼𝖾 ✩ ᴄᴏ-ғᴏᴜɴᴅᴇʀ @shapesinthecity_ 𝟣:𝟣 online fitness coach☟︎ NASM CPT
-    location: "United States"
-    followers: 111727
-    engagement: 224
-    commentsToLikes: 0.030343
-    id: ck5hk4y9xhsp00i113a0h2qh1
+    followers: 61211
+    engagement: 163
+    commentsToLikes: 0.036541
+    id: ck0twcjf4evyt0i19euddlo16
     verified: false
-    hashtags: "#footwork, #coach, #shuffledance, #festival"
-  - username: "qpmag"
-    fullname: >-
-      QP FASHION MAGAZINE
-    bio: >-
-      📍Los Angeles based fashion magazine. 📲www.qpmag.com | Online and Print 💥New issue out - Cover girl @aika_iskak ❤️
-    location: "United States"
-    followers: 21317
-    engagement: 110
-    commentsToLikes: 0.065094
-    id: ck0tzxlnsrvrv0i19gfr6g7xm
-    verified: false
-    hashtags: "#lamakeupartist, #photoshoot, #editorial, #pretty"
-  - username: "urszulala"
-    fullname: >-
-      Urszula Makowska
-    bio: >-
-      Native New Yorker 🇵🇱 Blogger & Actress 📍San Diego | NYC | LA 🔜 NYC Tiktok: urszulala Mommy @bropompoms 🐶 💌 murszulaa@gmail.com
-    location: "United States"
-    followers: 257032
-    engagement: 120
-    commentsToLikes: 0.024720
-    id: ck5hg52zc0ymg0i11htdz42kh
-    verified: true
-    hashtags: "#sdblogger, #nycstyleblogger, #nyc, #ad"
+    hashtags: "#fashionblogger, #sunny, #utah, #instagood"
   - username: "thegirlwithapassport"
     fullname: >-
       A v a n t i k a
@@ -91,6 +55,30 @@ profiles:
     id: ckap4g4gf789g0i780tt6qwt7
     verified: false
     hashtags: "#foodblogger, #wineoclock, #goodfood, #foodlover"
+  - username: "everything_ravish"
+    fullname: >-
+      Ravishing.ravish
+    bio: >-
+      Mrs.Pakistan World 2020 🌎 Pakistani-American lifestyle influencer. For all inquiries kindly DM me or email me 💌 ravishzahidthomas@gmail.com
+    location: "United States"
+    followers: 87236
+    engagement: 413
+    commentsToLikes: 0.098707
+    id: ck13cieil0i200i19qxnhzinu
+    verified: false
+    hashtags: "#paidpromo, #mrspakistanuniverse, #paid, #misspakistanworld"
+  - username: "safi_shadman"
+    fullname: >-
+      شادمان صفی
+    bio: >-
+      Welcome To The Blog Of An Itinerant ! ✨ Qatar🇶🇦 | USA🇺🇸 | India🇮🇳
+    location: "United States"
+    followers: 11561
+    engagement: 504
+    commentsToLikes: 0.041858
+    id: ck136ixr36pq90i19ea3ezt0k
+    verified: false
+    hashtags: "#goldenhour, #girlswhotraveltheworld, #travel, #georgiatravel"
   - username: "anchorslife"
     fullname: >-
       
@@ -127,4 +115,16 @@ profiles:
     id: ckaot0y1vtvws0i78x5nxbl1q
     verified: false
     hashtags: "#traveling, #natgeo, #natur, #wonderfulplaces"
+  - username: "arley_us"
+    fullname: >-
+      αяℓєу ιѕ му ηαмє
+    bio: >-
+      ⋙ ƒαмιℓу - вαяçα -тяανєℓ ⋙ 📍 🇲🇽🇲🇽  ƒσℓℓσω αη∂ тαg υѕ тσ вє ƒєαтυяє∂📌 ꜰᴜᴛᴜʀᴇ ɪɴᴅᴜꜱᴛʀɪᴀʟ ᴇɴɢɪɴᴇᴇʀ 💡 #ꜰᴄʙᴀʀᴄᴇʟᴏɴᴀ ❤💙 ɴᴇxᴛ ᴘᴏꜱᴛ 📸: #ꜰᴇʙʀᴜᴀʀʏ 03
+    location: "United States"
+    followers: 8071
+    engagement: 302
+    commentsToLikes: 0.047041
+    id: ckaoswwg8te030i78tk6ogd25
+    verified: false
+    hashtags: "#newyorkstate, #newyorkcity, #newyorkmets, #vacation"
 ---

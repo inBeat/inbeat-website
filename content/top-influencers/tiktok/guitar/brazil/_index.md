@@ -1,11 +1,11 @@
 ---
-title: Top 10 Guitar TikTok Influencers In Brazil In 2023
+title: Top 10 Guitar TikTok Influencers In Brazil In 2024
 description: >-
-  Find top guitar TikTok influencers in Brazil in 2023. Most popular hashtags: #guitar #fyp #foryou #fy.
+  Find top guitar TikTok influencers in Brazil in 2024. Most popular hashtags: #guitar #fyp #foryou #fy.
 platform: TikTok
 hits: 38
-text_top: See the most popular TikTok influencers on inBeat.
-text_bottom: Our database holds 38 TikTok influencers like this in Brazil for you to contact.
+text_top: See the best TikTok influencers on inBeat.
+text_bottom: Our search engine holds 38 TikTok influencers like this in Brazil for you to collaborate.
 profiles:
   - username: "rodaum"
     fullname: >-
@@ -19,18 +19,18 @@ profiles:
     id: cka0kn15dnc5m0i788vfcyvm6
     verified: false
     hashtags: "#sertanejo, #violaofingerstyle, #cover, #fingerstyleguitar"
-  - username: "themyung"
+  - username: "__myung__"
     fullname: >-
       Myung
     bio: >-
-      17 •twitter: @the_myung SPOTIFY, INSTA, YOUTUBE, ETC NO LINK ABAIXO
+      artista independente OUÇA MEUS SONS E VIDEOCLIPE DA SUPERFICIALLY NESSE LINK ⬇️
     location: "Brazil"
-    followers: 64600
-    engagement: 2262
-    commentsToLikes: 0.027414
+    followers: 84000
+    engagement: 2352
+    commentsToLikes: 0.033889
     id: ckbwa1mm300jj0j23s831oyln
     verified: false
-    hashtags: "#fyp, #duet, #guitar, #indio"
+    hashtags: "#fy, #music, #fyp, #guitar"
   - username: "voutentarnaoflopar"
     fullname: >-
       Dultra
@@ -85,12 +85,12 @@ profiles:
     bio: >-
       I LOVE JESUS ❤️
     location: "Brazil"
-    followers: 15900
-    engagement: 682
-    commentsToLikes: 0.029281
+    followers: 16300
+    engagement: 454
+    commentsToLikes: 0.035151
     id: ckcpa78f6eo3y0j233v9x0dau
     verified: false
-    hashtags: "#vascodagama, #vasco, #guitar, #music"
+    hashtags: "#happy, #guitar, #news, #gospel"
   - username: "bandadongodongo"
     fullname: >-
       Dongo Dongo

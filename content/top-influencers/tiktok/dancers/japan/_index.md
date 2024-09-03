@@ -1,11 +1,11 @@
 ---
-title: Top 10 Dancers TikTok Influencers In Japan In 2023
+title: Top 10 Dancers TikTok Influencers In Japan In 2024
 description: >-
-  Find top dancers TikTok influencers in Japan in 2023. Most popular hashtags: #dance #fyp #dancer #foryoupage.
+  Find top dancers TikTok influencers in Japan in 2024. Most popular hashtags: #dance #fyp #dancer #foryoupage.
 platform: TikTok
 hits: 18
-text_top: See the top-rated TikTok accounts on inBeat.
-text_bottom: Our search engine aggregates 18 TikTok influencers like this in Japan for you to pitch.
+text_top: Identify the top-rated TikTok influencers on inBeat.
+text_bottom: Our database holds 18 TikTok influencers like this in Japan for you to pitch.
 profiles:
   - username: "kotaroide"
     fullname: >-

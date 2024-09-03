@@ -1,130 +1,130 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Toronto In 2023
+title: Top 10 Yoga Instagram Influencers In Toronto In 2024
 description: >-
-  Find top yoga Instagram influencers in Toronto in 2023. Most popular hashtags: #yoga #toronto #strength #photography.
+  Find top yoga Instagram influencers in Toronto in 2024. Most popular hashtags: #yoga #toronto #torontoblogger #torontoyoga.
 platform: Instagram
-hits: 11
-text_top: Analyze the most popular Instagram influencers on inBeat.
-text_bottom: Our platform aggregates 11 Instagram influencers like this in Toronto, Canada for you to contact.
+hits: 22
+text_top: See the best Instagram profiles on inBeat.
+text_bottom: Our database aggregates 22 Instagram influencers like this in Toronto, Canada for you to connect with.
 profiles:
-  - username: "sidafz"
+  - username: "valtee"
     fullname: >-
-      Sidrah | Toronto Blogger
+      Valerie Tiu
     bio: >-
-      Lifestyle & Travel blogger📍Toronto Sharing my child's autism journey Follow for kids inclusive activities Work with me: DM / 📧 siddyusman@gmail.com
+      🇵🇭🇨🇦 📍YYZ 🧘‍♀️ @lululemon Ambassador #thesweatlife ☁️ Curator @_softlandings_ @mosaicyogato @wearejaybird @thevillij @sweatandtonic @levelbyoxford
     location: "Canada"
-    followers: 13878
-    engagement: 115
-    commentsToLikes: 0.669998
-    id: cks8aqhhiupz50j23q90dq3w1
+    followers: 3556
+    engagement: 613
+    commentsToLikes: 0.076618
+    id: cljrsl3pvvr040j085mcyqm17
     verified: false
-    hashtags: "#love, #torontocontentcreator, #muslimblogger, #canadianblogger"
-  - username: "optimize.physiotherapy"
+    hashtags: "#yogacanada, #acroyoga, #valteeyoga, #yogaasana"
+  - username: "vesic_jelena"
     fullname: >-
-      Optimize Physiotherapy
+      Jelena Vesić
     bio: >-
-      Clinic • Virtual Physiotherapy • Education 🤸‍♂️Movement + Strength + Health 🇨🇦 Ottawa (2 locations) 🏃‍♂️ Physiotherapy & Sport Medicine 🌎 Workshops
+      Ashtanga Yoga Student & Teacher 📍Toronto & @ashtangatoronto #adoptdontshop mom to Boksi & Khani 🦁🐭 Online Courses ⤸
     location: "Canada"
-    followers: 122343
-    engagement: 68
-    commentsToLikes: 0.014260
-    id: ck0u2ehwfzo740i191mmr2y3b
+    followers: 250112
+    engagement: 440
+    commentsToLikes: 0.016403
+    id: ck14h1oih83oj0i19t52yay6c
     verified: false
-    hashtags: "#physiotherapy, #movement, #toronto, #yoga"
+    hashtags: "#yogaalignment, #movingmeditation, #ashtanga, #learnyoga"
+  - username: "thekarinasmith"
+    fullname: >-
+      Karina Smith
+    bio: >-
+      Motherhood | Wellness | Fashion My yoga IG @karinayogatoronto 📧 themodernentity@gmail.com 🇨🇦
+    location: "Canada"
+    followers: 10635
+    engagement: 160
+    commentsToLikes: 0.144030
+    id: ckt8qolz6687m0j23j6d43ex6
+    verified: false
+    hashtags: "#torontomom, #torontomomblogger, #sahm, #torontoblogger"
+  - username: "kirstdarryl"
+    fullname: >-
+      Kirsten Darryl Weiss
+    bio: >-
+      toronto fits, life bits & everything in-between 💌 kirstdarryl@gmail.com
+    location: "Canada"
+    followers: 12154
+    engagement: 77
+    commentsToLikes: 0.017082
+    id: cktdxnz778ml60j23upyssva8
+    verified: false
+    hashtags: "#torontoblogger, #torontocontentcreator, #torontolife, #fallstyleinspo"
+  - username: "bchanwarrior"
+    fullname: >-
+      Brian
+    bio: >-
+      Yoga nerd. Warrior. Dude. 🙏 bchanwarrior@gmail.com
+    location: "Canada"
+    followers: 26078
+    engagement: 128
+    commentsToLikes: 0.033787
+    id: ck8szhhabogpz0j78zqultghj
+    verified: false
+    hashtags: "#yogalife, #yogaaddict, #yogaformen, #yogaeveryday"
+  - username: "lena_yewon"
+    fullname: >-
+      Lena Joo 🖤 Toronto | fashion • lifestyle
+    bio: >-
+      💌PR/Collabs : dpdlena5016@gmail.com ⬇️More Links⬇️
+    location: "Canada"
+    followers: 98038
+    engagement: 699
+    commentsToLikes: 0.007285
+    id: cky3njes8gwjq0j23kw7qg8k1
+    verified: false
+    hashtags: "#cottage, #dailylook, #cozy, #cute"
   - username: "asanavanessa"
     fullname: >-
       • vanessa •
     bio: >-
-      🇨🇦🇱🇧 500 RYT | Body Positivity | Active Flexibility FTW 💁🏻‍♀️ 90's child 📍Toronto
+      🇨🇦🇱🇧 500 RYT | Body Positivity | Active Flexibility FTW 📍Toronto
     location: "Canada"
-    followers: 161094
-    engagement: 226
-    commentsToLikes: 0.038722
+    followers: 166282
+    engagement: 113
+    commentsToLikes: 0.076965
     id: ck0u7h3pv4nlj0i19aa55avic
     verified: false
-    hashtags: "#backbends, #aloonyou, #flexibility, #aloyoga"
-  - username: "curtmontgomerytattoos"
+    hashtags: "#aloyoga, #backbends, #holbox, #wheelpose"
+  - username: "shayla0h"
     fullname: >-
-      Curt Montgomery
+      Shayla Oulette Stonechild
     bio: >-
-      Tattoo Artist = Honey Badger Hero He who dares wins yo Inside Out Toronto curtmontgomerytattoos@gmail.com
+      Founder •🎙Host @matriarch.movement 🦅 ambassador @lululemon • Toronto 🌍 meditation • movement • medicine 💌 shaylastonechild@gmail.com
     location: "Canada"
-    followers: 430661
-    engagement: 252
-    commentsToLikes: 0.003392
-    id: ck136mgxd77s10i19q23xulh4
-    verified: true
-    hashtags: "#tattoos, #tattooartist, #safestsex, #toronto"
-  - username: "vancouversveryown"
-    fullname: >-
-      Brandon Nair | DJ Nizzy 🇫🇯🌺
-    bio: >-
-      🏋🏽‍♀️Athlete @aviiti.inc “NAIR10” 🏋🏽‍♀️Athlete @popeyessupplements 👕Ambassador @_lyftlyfe “NAIR10” ⚽️Team BC Athlete 💪🏽Personal Trainer 🎧DJ
-    location: "Canada"
-    followers: 7165
-    engagement: 736
-    commentsToLikes: 0.068972
-    id: ck13b1trvt9wo0i19cb8j91bu
+    followers: 101030
+    engagement: 96
+    commentsToLikes: 0.003837
+    id: ckqgne153pf2k0j2399krttd1
     verified: false
-    hashtags: "#exercise, #fitnessmotivation, #getfit, #health"
-  - username: "gabrielabellydancer"
+    hashtags: "#matriarchmovement, #indigenousrising, #meditation, #indigenoustourismalberta"
+  - username: "diannebondyyogaofficial"
     fullname: >-
-      Gabriela Carnovale
+      Dianne Bondy
     bio: >-
-      💜 Belly dancer 💃🏼 Director @abundancebellydance 🌎 Blessed 📨For bookings: DM or e-mail
+      🇧🇧🇨🇦Author, Speaker, Educator, Equity Advocate, Podcaster, Yoga for All creator, Disruptor, To book/collabs/ OBM Julie@diannebondyyoga.com
     location: "Canada"
-    followers: 26848
-    engagement: 77
-    commentsToLikes: 0.134148
-    id: ck8tax2ogtfl20j78wsc5xugc
+    followers: 277744
+    engagement: 13
+    commentsToLikes: 0.029858
+    id: ckr71htx7980c0j23wtln8pma
     verified: false
-    hashtags: "#monday, #model, #torontomodel, #creative"
-  - username: "alissesfitness"
+    hashtags: "#diannebondyyoga, #yoga, #accessibleyoga, #connection"
+  - username: "thatsosona"
     fullname: >-
-      Alisse | Health & Fitness
+      sonakshi sharma | style inspo
     bio: >-
-      
+      toronto 🇮🇳🇨🇦 style, skin, haircare conscious lifestyle 💌 thestylepixels@gmail.com links 🔗
     location: "Canada"
-    followers: 4484
-    engagement: 1007
-    commentsToLikes: 0.354554
-    id: ck8t4fmvv6m7d0j783a7wisfe
+    followers: 43730
+    engagement: 22
+    commentsToLikes: 0.021397
+    id: ck6twsj46tuaa0j71li7f5e84
     verified: false
-    hashtags: "#gainsville, #chestworkout, #eattogrow, #plantpowered"
-  - username: "vampx13"
-    fullname: >-
-      Amanda McKnight
-    bio: >-
-      YouTuber @top10nerdofficial . Renegade Games Enthusiast. Avid RPGr. Actress. Cosplay model. Writer. 🏳️‍🌈 That nerdy weirdo. 🤓 👇 Other stuff 💕
-    location: "Canada"
-    followers: 16200
-    engagement: 1149
-    commentsToLikes: 0.034217
-    id: ck135cy580ug20i19ij2x33dw
-    verified: false
-    hashtags: "#torontocosplayer, #redhair, #cosplay, #photography"
-  - username: "kiana_ng"
-    fullname: >-
-      KIANA NG | Yoga + Handstands
-    bio: >-
-      ✨Yoga Teacher & Handstand Coach✨ • creator @bodytosoulmovement • dm for 1:1 sessions • handstand workshops • online classes ⭣ practice w/ me ⤵️
-    location: "Canada"
-    followers: 47188
-    engagement: 306
-    commentsToLikes: 0.041026
-    id: ckaorab4mmedq0i78tall95aa
-    verified: false
-    hashtags: "#photoshoot, #innerthighs, #yogapose, #yogalove"
-  - username: "maxwithme"
-    fullname: >-
-      Max
-    bio: >-
-      2021 July ♾Taipei Summer 預約中 Director at @maxwithmestudio hairstylist/storyteller based in Taipei🇹🇼. Traveler🇬🇧🇫🇷🇬🇷🇨🇦🇵🇹🇭🇰🇺🇸🇯🇵🇸🇬🇦🇺🇪🇸🇳🇱🇮🇹🇨🇳🇲🇾🇲🇴
-    location: "Canada"
-    followers: 30796
-    engagement: 778
-    commentsToLikes: 0.001423
-    id: ck5hs0hz2vsco0i11qwrerut8
-    verified: false
-    hashtags: "#travelgram, #canada, #taiwan, #lategram"
+    hashtags: "#sezane, #grwm, #styleinspiration, #dynamitestyle"
 ---

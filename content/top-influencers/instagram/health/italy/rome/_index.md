@@ -1,11 +1,11 @@
 ---
-title: Top 10 Health Instagram Influencers In Rome In 2023
+title: Top 10 Health Instagram Influencers In Rome In 2024
 description: >-
-  Find top health Instagram influencers in Rome in 2023. Most popular hashtags: #health #rome #italy #nature.
+  Find top health Instagram influencers in Rome in 2024. Most popular hashtags: #italy #health #fitness #rome.
 platform: Instagram
-hits: 33
-text_top: See the top-rated Instagram accounts on inBeat.
-text_bottom: Our search engine aggregates 33 Instagram influencers like this in Rome, Italy for you to connect with.
+hits: 42
+text_top: Analyze the best Instagram profiles on inBeat.
+text_bottom: Our search engine has 42 Instagram influencers like this in Rome, Italy for you to contact.
 profiles:
   - username: "omar.fiore"
     fullname: >-
@@ -31,18 +31,30 @@ profiles:
     id: ck6uav7a85uuz0j713111dnv0
     verified: false
     hashtags: "#lingerie, #nomakeup, #vintage, #photography"
-  - username: "vanessacesari"
+  - username: "giangideg"
     fullname: >-
-      Vanessa Cesari🦋
+      Gianluca
     bio: >-
-      📍Rome 👩🏻‍🎓Graduated in Business Administration 💌For collaboration: direct or cesarivanessa@gmail.com
+      Made in Rome 🇮🇹 - I ❤️ ⚽️ ✈️
     location: "Italy"
-    followers: 43011
-    engagement: 175
-    commentsToLikes: 0.110784
-    id: ck135ub7l39uz0i19c3c6k7i2
+    followers: 223470
+    engagement: 178
+    commentsToLikes: 0.017913
+    id: ckf5qz3ezavnt0j23e4g49kp8
     verified: false
-    hashtags: "#health, #adv, #blackfriday, #agebalance"
+    hashtags: "#gay, #gayboy, #healthy, #fitness"
+  - username: "bibbideg"
+    fullname: >-
+      Bibbi Deg 🧿
+    bio: >-
+      🔹Happily Married 💍 🔹Med.Speciality in Clinical Pathology💉🧬 🔹Animal Lover 🐶🐢🐔🫶🏼 📍Based in Rome 🏳️‍🌈188cm x 94kg ♊️
+    location: "Italy"
+    followers: 568391
+    engagement: 127
+    commentsToLikes: 0.024419
+    id: ck8wf2p49f12y0j78ew0wb5o2
+    verified: false
+    hashtags: "#fitness, #instagood, #palestraitalia, #muscled"
   - username: "sabrina.sc_"
     fullname: >-
       Sabrina🌸
@@ -79,6 +91,18 @@ profiles:
     id: ck600sf29e6ir0i14avcrvrji
     verified: false
     hashtags: "#madeinitaly, #flower, #model, #fitness"
+  - username: "mariofarulla"
+    fullname: >-
+      Mario Farulla
+    bio: >-
+      Founder @wearecringecompany 🍸♻️ Co-Founder @liquid.design.agency 🇦🇪 Owner @dirty_milano 😈🫒
+    location: "Italy"
+    followers: 115084
+    engagement: 168
+    commentsToLikes: 0.067747
+    id: ck0vw90aasn4l0i19zjt78lx4
+    verified: false
+    hashtags: "#roma, #bartending, #michelecrocco, #50bestbars"
   - username: "alessandragiubilato"
     fullname: >-
       Alessandra Giubilato - blog🎤🎶📸
@@ -103,28 +127,4 @@ profiles:
     id: ck137c1gmasir0i19l01qyrq1
     verified: false
     hashtags: "#exercise, #olympia, #supplement, #lastyle"
-  - username: "rowen024"
-    fullname: >-
-      Rowen Muscat
-    bio: >-
-      Footballer
-    location: "Italy"
-    followers: 16337
-    engagement: 302
-    commentsToLikes: 0.006087
-    id: ck5zpdgv6sh7s0i147thgepsm
-    verified: false
-    hashtags: "#energy, #league, #hudson, #valletta"
-  - username: "viaggiandoindue"
-    fullname: >-
-      a Family Trip | travelers
-    bio: >-
-      👫 Follow us in our trip adventures Now in 🇮🇹 . @monticelli.giorgio @viaggiandoinfamiglia
-    location: "Italy"
-    followers: 593
-    engagement: 16178
-    commentsToLikes: 0.065869
-    id: ck0u9n4tna7920i19sin7mb6z
-    verified: false
-    hashtags: "#trip, #ilikeitaly, #island, #italian"
 ---

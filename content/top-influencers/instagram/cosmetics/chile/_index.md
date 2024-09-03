@@ -1,11 +1,11 @@
 ---
-title: Top 10 Cosmetics Instagram Influencers In Chile In 2023
+title: Top 10 Cosmetics Instagram Influencers In Chile In 2024
 description: >-
-  Find top cosmetics Instagram influencers in Chile in 2023. Most popular hashtags: #makeup #chile #makeupchile #maquillaje.
+  Find top cosmetics Instagram influencers in Chile in 2024. Most popular hashtags: #makeup #maquillaje #likesforlike.
 platform: Instagram
-hits: 30
-text_top: Discover the best Instagram influencers on inBeat.
-text_bottom: inBeat aggregates 30 Instagram influencers like this in Chile for you to pitch.
+hits: 43
+text_top: See the best Instagram accounts on inBeat.
+text_bottom: Our database holds 43 Instagram influencers like this in Chile for you to collaborate.
 profiles:
   - username: "franjavieraa"
     fullname: >-
@@ -19,6 +19,18 @@ profiles:
     id: ck5zucl2m23oc0i14d5qqvona
     verified: false
     hashtags: "#challegeaccepted, #fds"
+  - username: "_zerokarma_69"
+    fullname: >-
+      Liam.
+    bio: >-
+      ↬Cosplayer. ㅤ★Embajador en: ↷ Make·˚ ༘ @k_osmeticos .°୭̥ Hair. ˚ ༘ @astrostudio_.°୭ Mer· ˚ ༘ @la_geek_store .°୭ ★CatLover. ☆Boy/BL ★Redes:
+    location: "Chile"
+    followers: 14811
+    engagement: 790
+    commentsToLikes: 0.035686
+    id: ck13avdn2sdmo0i19svf8jjoc
+    verified: false
+    hashtags: "#bluelock, #duo, #gambarefest, #genshinimpact"
   - username: "krissandovalk"
     fullname: >-
       🌸🌸K R I S H N A 🌸🌸
@@ -43,88 +55,76 @@ profiles:
     id: ck138jzncglk00i19l1dknk4s
     verified: false
     hashtags: "#maquillaje, #anastasiabeverlyhills, #makeuplooks, #makeupchile"
-  - username: "nicoebner.b"
+  - username: "jennylorenamakeup"
     fullname: >-
-      ℕ𝕚𝕔𝕠
+      Jenny Cordova Orellana
     bio: >-
-      ℂ𝕙𝕚𝕝𝕖📍Catlover 🐈 Nike Run Club. 🏃‍♀️🏃‍♂️Entrenamiento personalizado con coaches. inscripción gratis ⬇️
+      •𝘔𝘢𝘲𝘶𝘪𝘭𝘭𝘢𝘥𝘰𝘳𝘢 •𝘔𝘢𝘯𝘪𝘤𝘶𝘳𝘪𝘴𝘵𝘢 •𝘌𝘴𝘵𝘦𝘵𝘪𝘤𝘪𝘴𝘵𝘢 𝘐𝘯𝘵𝘦𝘨𝘳𝘢𝘭 •𝘋𝘪𝘴𝘦𝘯̃𝘢𝘥𝘰𝘳𝘢 𝘤𝘢𝘱𝘪𝘭𝘢𝘳 •𝘔𝘢𝘲𝘶𝘪𝘭𝘭𝘢𝘫𝘦 𝘤𝘰𝘯 𝘢𝘦𝘳𝘰𝘨𝘳𝘢𝘧𝘰 . 📲 ᴊᴇɴɴʏʟᴏʀᴇɴᴀ.ᴄᴏ@ɢᴍᴀɪʟ.ᴄᴏᴍ
     location: "Chile"
-    followers: 15692
-    engagement: 598
-    commentsToLikes: 0.172488
-    id: ck0tt3ekl0zgz0i195fuwe8ea
+    followers: 27358
+    engagement: 23
+    commentsToLikes: 0.047673
+    id: ck6ti6a1b049c0j71uhgkd9q5
     verified: false
-    hashtags: "#nikerunning, #nike, #chile, #santiagodechile"
-  - username: "luxmua_"
+    hashtags: "#manicureadomicilio, #lifting, #esmaltepermanente, #limpiezafacial"
+  - username: "manu_manriquez"
     fullname: >-
-      𝑳𝒖𝒊𝒔𝒂 𝑽𝒂𝒍𝒆𝒏𝒄𝒊𝒂
+      Manuela Francisca Manriquez
     bio: >-
-      𝟐𝟏 🇨🇱 𝑪𝒉𝒊𝒍𝒆 || 𝑴𝒂𝒒𝒖𝒊𝒍𝒍𝒂𝒅𝒐𝒓𝒂 𝑷𝒓𝒐𝒇𝒆𝒔𝒊𝒐𝒏𝒂𝒍 ✨💄 𝑨𝒎𝒐 𝒉𝒂𝒄𝒆𝒓 𝒍𝒐𝒐𝒌𝒔 𝒄𝒐𝒍𝒐𝒓𝒊𝒅𝒐𝒔🌈🔥 𝑷𝑹/ 💌 𝑫𝒎 𝒐 𝑳𝒖𝒊𝒔𝒂𝒇𝒗𝒓9@𝒈𝒎𝒂𝒊𝒍.𝒄𝒐𝒎 @luxvall
+      Tapando traumas con glitters y tecitos ✨🤝🌈
     location: "Chile"
-    followers: 5634
-    engagement: 1098
-    commentsToLikes: 0.130821
-    id: ck5c1f90mv2ky0i114uit2rf8
+    followers: 27383
+    engagement: 563
+    commentsToLikes: 0.147947
+    id: ck6ti5u6203hh0j71b2bom307
     verified: false
-    hashtags: "#makeupartist, #beautycreations, #maquillajechile, #muachile"
-  - username: "valemiaaaaau"
+    hashtags: "#whosthatpokemon, #nakedpalette, #pincoya, #granhermanochv"
+  - username: "valesanchezh"
     fullname: >-
-      Valentina Leni 💕
+      valesanchezh
     bio: >-
-      Cosmetologa, MUA & Beauty blogger 🇨🇱 Maquillaje/ Skincare/ Cabello/ Reseñas💘 Psicologa y mamá de Vicente👩‍👦 valentina.leni@live.com 💌 Stgo, Chile📍
+      📍NICARAGUA🇳🇮 🎥trabajé como TV y Radio host 📻 👨‍👩‍👧‍👦 esposa y mamá ⛪️ católica 😎 ahora trabajo en publicidad
     location: "Chile"
-    followers: 23799
-    engagement: 427
-    commentsToLikes: 0.401485
-    id: ck1382qs7e85m0i19qjp0c1lo
+    followers: 169248
+    engagement: 580
+    commentsToLikes: 0.009451
+    id: ck0u6kcje250c0i19cxz24wac
     verified: false
-    hashtags: "#benebabe, #bloggerchilena, #influencerchilena, #muachilena"
-  - username: "angielistica"
+    hashtags: "#nicaragua, #earthday, #tb, #guaynaa"
+  - username: "minkiah"
     fullname: >-
-      ✧ a n g i e ✧
+      Steffi Teppola
     bio: >-
-      abogada • make up artist ♡ #crueltyfree • vegetariana ♡ pr: angielistica@gmail.com
+      ᴋ-sᴛᴜғғ ★ Fin • CL Steffiteppola@gmail.com
     location: "Chile"
-    followers: 20425
-    engagement: 1279
-    commentsToLikes: 0.131540
-    id: ck5zyem3c9qsw0i14p6g8wtvd
+    followers: 95690
+    engagement: 2109
+    commentsToLikes: 0.005593
+    id: ckap9byrls1cj0i784ev7yc02
     verified: false
-    hashtags: "#motd, #instachile, #maquillaje, #fadeintohue"
-  - username: "pascalealvo_makeup"
+    hashtags: "#publicidad, #makebeautyfun, #lovestay, #straykids"
+  - username: "eluniverso.defran"
     fullname: >-
-      Pascale Alvo Makeup
+      FRANCISCA TAPIA P.
     bio: >-
-      Makeup NO DM ✖️ info a pascalealvomakeup@gmail.com @bigg.fitcl 🏋️‍♀️ 🇨🇱STGO Beauty content creator #maquillaje
+      Bonito día! Aquí amamos las risas 💖 y te enseño sobre makeup, skincare, uñas y mi vida en 🇪🇸 🔮 @eluniversodefran.tarot // 🎁 @lovingbox.cl 🇨🇱
     location: "Chile"
-    followers: 24636
-    engagement: 287
-    commentsToLikes: 0.185983
-    id: ck5pwoyabnvbo0i11jzwapkl0
+    followers: 77768
+    engagement: 541
+    commentsToLikes: 0.021131
+    id: ck15uhpufn8vk0i190wuu7ja5
     verified: false
-    hashtags: "#maquilladorachilena, #inglotchile, #beautiful, #inbeautmag"
-  - username: "diegopvtricio"
+    hashtags: "#barbie, #makeupbarbie, #sheglam, #probandoproductos"
+  - username: "danielisima__"
     fullname: >-
-      DIEGO PATRICIO
+      Dani 🌱 Cruelty Free Beauty & LifeLovers ♡
     bio: >-
-      Fotógrafo / Videógrafo
+      Hola✌🏻 Me gusta tomar fotos y Te Muestro mí Día Random en Historias✨️ Comparto👇🏻 MakeUp • SkinCare • Datos • Naturaleza & + 📍Punta Arenas | Chile.
     location: "Chile"
-    followers: 19995
-    engagement: 431
-    commentsToLikes: 0.056333
-    id: ck14h4hz88hj20i19fzihvi0d
+    followers: 6814
+    engagement: 328
+    commentsToLikes: 0.380146
+    id: ck6uc7208dwbx0j71o8zhoau5
     verified: false
-    hashtags: "#tb, #justiciaparaantonia, #pradenasviolador"
-  - username: "niloalexis"
-    fullname: >-
-      𝑫𝑨𝑵𝑰𝑳𝑶 𝑴𝑷 💫
-    bio: >-
-      ✨Me gusta bailar, maquillarme y confeccionar ropita ⚡️Embajadore de @lolita.pelucas y @m00n.sstore ❤️
-    location: "Chile"
-    followers: 2846
-    engagement: 1360
-    commentsToLikes: 0.105433
-    id: ckf5olnns2s3f0j23842xchi9
-    verified: false
-    hashtags: "#2020, #style, #l4l, #me"
+    hashtags: "#skincareroutine, #crueltyfree, #crueltyfreebeauty, #glammakeup"
 ---

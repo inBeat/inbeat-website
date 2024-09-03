@@ -1,130 +1,130 @@
 ---
-title: Top 10 Food Instagram Influencers In Brazil In 2023
+title: Top 10 Food Instagram Influencers In Brazil In 2024
 description: >-
-  Find top food Instagram influencers in Brazil in 2023. Most popular hashtags: #publi #love #tbt.
+  Find top food Instagram influencers in Brazil in 2024. Most popular hashtags: #love #instagram #apple.
 platform: Instagram
-hits: 940
-text_top: Analyze the most popular Instagram accounts on inBeat.
-text_bottom: inBeat holds 940 Instagram influencers like this in Brazil for you to pitch.
+hits: 951
+text_top: Analyze the best Instagram accounts on inBeat.
+text_bottom: Our database aggregates 951 Instagram influencers like this in Brazil for you to connect with.
 profiles:
+  - username: "thee_burger_dude"
+    fullname: >-
+      Thee Burger Dude
+    bio: >-
+      Watson - Vegan Home Cook Author of “VEGAN FAST FOOD” YouTube, Blog & Book ⤵️
+    location: "Brazil"
+    followers: 207424
+    engagement: 480
+    commentsToLikes: 0.020866
+    id: ck15rhv7t80gz0i19624o2mab
+    verified: false
+    hashtags: "#ad, #followyourheartpartner"
+  - username: "oncejapanatime"
+    fullname: >-
+      Esra - エスラです
+    bio: >-
+      🥷🏼 Japonya Hikayem Zumba Instructor • Amateur Photographer • Adventurer • Food Addict • Coffee Lover
+    location: "Brazil"
+    followers: 19961
+    engagement: 252
+    commentsToLikes: 0.054056
+    id: ckap3aza22al00i78ie8bf4cy
+    verified: false
+    hashtags: "#kanazawasakura, #livejapan, #lovers, #tankensurujapan"
+  - username: "tarinegulusian"
+    fullname: >-
+      Tarine Gulusian
+    bio: >-
+      Mãe solo dos Bs por Opção ✨Há 8 anos criando conteúdo✨ ✈️ Viagens.🤍Família . 🍣Food + 1 MILHÃO DE SEGUIDORES 📦Postal:80148 cep:03195000 📍SP-MOOCA
+    location: "Brazil"
+    followers: 386184
+    engagement: 210
+    commentsToLikes: 0.049672
+    id: ck60166jqewp70i14m9xq8qq2
+    verified: true
+    hashtags: "#maternidade, #singlemom, #maesolo, #trend"
+  - username: "joshvargas.s"
+    fullname: >-
+      Joshua Vargas S🧿
+    bio: >-
+      Un Día a La Vez | Tiktok:(+110,2k) Fitness 🦁| LifeStyle🔑| Motivación🎙 Travel & Food: @joshylu_ @activatelapaz 🥤 Quieres bajar peso? HAZ CLICK↙️
+    location: "Brazil"
+    followers: 39597
+    engagement: 199
+    commentsToLikes: 0.024723
+    id: ck9hachxrc0uh0j78o1x3mhvc
+    verified: false
+    hashtags: "#reels, #love, #bolivia, #humor"
+  - username: "tammelo_"
+    fullname: >-
+      Tamires Melo
+    bio: >-
+      Brazilian based in chicago • wifey & cat mom • chicago spots + lifestyle • foodie e-mail for partnerships! ✉️ #chicagoblogger
+    location: "Brazil"
+    followers: 86018
+    engagement: 134
+    commentsToLikes: 0.001257
+    id: ck55ol00l8ka00i11kkkb2ewh
+    verified: false
+    hashtags: "#christmastime, #chicagodatenight, #chicagoblogger, #chicagocheck"
+  - username: "therezachammas"
+    fullname: >-
+      Thereza Chammas
+    bio: >-
+      🦞 fashion | beauty | decor | foodie | mom 〰️ Pensando moda no @fashionismo desde 2008 📍 Feito no Rio
+    location: "Brazil"
+    followers: 105413
+    engagement: 126
+    commentsToLikes: 0.024773
+    id: ckapax6cwxt040i78qxtcqw5k
+    verified: true
+    hashtags: "#fashionismo, #dudadodia, #maternidadereal, #publi"
+  - username: "dimas_arv"
+    fullname: >-
+      Dimas Rodrigues
+    bio: >-
+      📝 Autor Best-Seller 🧠Especialista em caos emocional 💼 @food4fit 📕Livros / Mentorias👇🏻
+    location: "Brazil"
+    followers: 1770284
+    engagement: 107
+    commentsToLikes: 0.041542
+    id: ck6tqkhlarypb0j71v6wszrd7
+    verified: false
+    hashtags: ""
+  - username: "crazyforlondon"
+    fullname: >-
+      CrazyforLondon🇬🇧🇧🇷
+    bio: >-
+      🇧🇷Brazilian in London -🙋🏼‍♀️Dalila @doidaporlondres 🇧🇷 🇬🇧The best of London+Food & World🇬🇧 Contact 📩crazyforlondonuk@gmail.com
+    location: "Brazil"
+    followers: 40580
+    engagement: 63
+    commentsToLikes: 0.085876
+    id: ck0w1tlcfl30c0i192ezbin09
+    verified: false
+    hashtags: "#londonsbest, #trip, #uk, #london"
+  - username: "julianabaleia"
+    fullname: >-
+      Juliana Ferreira
+    bio: >-
+      🌸 fashion | beauty | trip | food | equestrian | médica veterinária 💌 publicidade: assessoriajulianabaleia@gmail.com 👇🏽 cupons e informações no link
+    location: "Brazil"
+    followers: 32844
+    engagement: 59
+    commentsToLikes: 0.066108
+    id: ckf5vmqh5p5fr0j23pqm0nuoa
+    verified: false
+    hashtags: "#shooting, #saintgermainbrand, #ciamaritimabeachwear, #ribeiraoshopping"
   - username: "luciano"
     fullname: >-
       Luciano Bruno
     bio: >-
-      •Nutricionista | Palestrante | Escritor •PhD em Food Science - Cornell University •Doutor e Mestre •Faça parte do meu clube! ✨🖥️📚⤵️
+      •Palestrante | Escritor | Empreendedor •PhD Food Science Cornell University USA •Doutor e Mestre em Nutrição BR Faça parte do meu Clube 📲⤵️
     location: "Brazil"
-    followers: 1129979
-    engagement: 106
-    commentsToLikes: 0.051716
+    followers: 1421779
+    engagement: 55
+    commentsToLikes: 0.049067
     id: ck0w1p4udkfy90i199i57wm0k
     verified: true
-    hashtags: "#nutricaoeficiente"
-  - username: "vinibuttel"
-    fullname: >-
-      Vini Büttel
-    bio: >-
-      @mtvbrasil Lifestyle | Food | Sports | Travel 📫vinibuttel@hotmail.com
-    location: "Brazil"
-    followers: 203845
-    engagement: 471
-    commentsToLikes: 0.025213
-    id: ckf5q484584s60j23doxiyshz
-    verified: false
-    hashtags: "#choramimizento, #2905, #frangoprateado, #quarentenamaldita"
-  - username: "lastlostlovers"
-    fullname: >-
-      𝓟𝓪𝓽𝓻𝓲𝓬𝓲𝓪 ♥ 𝓔𝓶𝓪𝓷𝓾𝓮𝓵®
-    bio: >-
-      ⚤ from Portugal ≏ @loversphilosophycaffe ❥ love | photography | travel | food 𖡡 #pontedelima
-    location: "Brazil"
-    followers: 18603
-    engagement: 529
-    commentsToLikes: 0.169712
-    id: ck0w5yxue63si0i19taqdsp0f
-    verified: false
-    hashtags: "#traveltheworld, #pontedelima, #philippines, #couples"
-  - username: "lyviaroberta_"
-    fullname: >-
-      Lyvia Roberta 💕
-    bio: >-
-      💍| Lucas ✨| 18 anos 🌳| Arapiraca-AL 🙌🏼| Daughter of God 📌| Dailylife-blogger-beauty-food 🦋| Vivendo em constante metamorfose.
-    location: "Brazil"
-    followers: 8775
-    engagement: 884
-    commentsToLikes: 0.153379
-    id: ck8tauhayt3yc0j78f10meouk
-    verified: false
-    hashtags: "#tumblrgirl, #fotografia, #newpost, #mensagens"
-  - username: "euannaliima"
-    fullname: >-
-      𝘼𝙣𝙣𝙖 💕
-    bio: >-
-      •lifestyle | dicas | filmes,séries | rotina | food | criativo -🚨perfil monitorado🚨 -Araras-SP -parcerias/trabalhos @euannaliima (direct)📩
-    location: "Brazil"
-    followers: 6677
-    engagement: 867
-    commentsToLikes: 0.207624
-    id: ckap73tlhiiid0i78nflx1q50
-    verified: false
     hashtags: ""
-  - username: "myketakashi"
-    fullname: >-
-      Myke Takashi
-    bio: >-
-      ▪️ Jornalismo | Marketing e comunicação 📍 São Paulo - Curitiba ✨ Saúde | lifestyle | food | autocuidado✨
-    location: "Brazil"
-    followers: 17512
-    engagement: 752
-    commentsToLikes: 0.063914
-    id: ckap1g78xugko0i78k3czew7o
-    verified: false
-    hashtags: "#lagoaazul, #tbt, #blackouttuesday"
-  - username: "laylyne_"
-    fullname: >-
-      Laylyne Lopes
-    bio: >-
-      Make • Look • Food • Viagens 🦋 🛍 @glowmakeslz 👩🏻‍🎓 Fisioterapia ⚡️🐍 📍São Luís-MA
-    location: "Brazil"
-    followers: 16530
-    engagement: 521
-    commentsToLikes: 0.098927
-    id: ck8tal8zts8aa0j782lmfcp8f
-    verified: false
-    hashtags: "#aerolook, #publi, #reels, #makeup"
-  - username: "ana_gregory"
-    fullname: >-
-      Ana Gregory
-    bio: >-
-      • lifestyle •travel • fashion •food •makeup - modelo fotográfica - @foodpelomundo Whatsapp da Assessoria: (85) 996296748 COMPRA DO MEU PRESET 👇🏻
-    location: "Brazil"
-    followers: 157368
-    engagement: 511
-    commentsToLikes: 0.029915
-    id: ck0vw54z1s5cv0i19d0u46j2y
-    verified: false
-    hashtags: "#publi"
-  - username: "sarabodowsky"
-    fullname: >-
-      Sara Bodowsky
-    bio: >-
-      🚗 on the road ✈️ travel 🍛 food 🍷 wine&drinks 🤷🏻‍♀️ matters o’life 🎙@102.3oficial 🗞 @gauchazh 🏢 @grupo_rbs Mais em @RoteirodaSara
-    location: "Brazil"
-    followers: 52334
-    engagement: 254
-    commentsToLikes: 0.063615
-    id: ckapb46h5yifa0i780gsd6y5f
-    verified: true
-    hashtags: "#saranaestrada, #tb, #tbt, #2018"
-  - username: "brendamelos_"
-    fullname: >-
-      Brenda Melo ✨✌🏼
-    bio: >-
-      JESUS 📍MG • life style • fashion • makeup • food • tips • Compartilhando minhas escolhas e experiências. 👇🏼Minha loja de calçados @usebetashoes 👡✨
-    location: "Brazil"
-    followers: 44460
-    engagement: 272
-    commentsToLikes: 0.132045
-    id: ck8tal7m7s81k0j78ophujcu2
-    verified: false
-    hashtags: "#lookcomlingerie, #lookdeaniversario, #mulhermaravilhafitness, #crossfiteiras"
 ---

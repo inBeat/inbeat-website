@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fitness TikTok Influencers In United Arab Emirates In 2023
+title: Top 10 Fitness TikTok Influencers In United Arab Emirates In 2024
 description: >-
-  Find top fitness TikTok influencers in United Arab Emirates in 2023. Most popular hashtags: #fitness #fyp #workout #dubai.
+  Find top fitness TikTok influencers in United Arab Emirates in 2024. Most popular hashtags: #fitness #fyp #dubai #workout.
 platform: TikTok
 hits: 28
-text_top: Discover the best TikTok profiles on inBeat.
-text_bottom: Our database aggregates 28 TikTok influencers like this in United Arab Emirates for you to connect with.
+text_top: See the best TikTok influencers on inBeat.
+text_bottom: inBeat holds 28 TikTok influencers like this in United Arab Emirates for you to pitch.
 profiles:
   - username: "kriskrsticfit"
     fullname: >-

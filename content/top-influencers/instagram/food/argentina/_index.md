@@ -1,12 +1,84 @@
 ---
-title: Top 10 Food Instagram Influencers In Argentina In 2023
+title: Top 10 Food Instagram Influencers In Argentina In 2024
 description: >-
-  Find top food Instagram influencers in Argentina in 2023. Most popular hashtags: #traveladdict #travelphotography #travelblogger.
+  Find top food Instagram influencers in Argentina in 2024. Most popular hashtags: #argentina #buenosaires #travel.
 platform: Instagram
-hits: 282
-text_top: See the best Instagram profiles on inBeat.
-text_bottom: Our search engine aggregates 282 Instagram influencers like this in Argentina for you to work with.
+hits: 286
+text_top: Identify the most popular Instagram influencers on inBeat.
+text_bottom: Our database holds 286 Instagram influencers like this in Argentina for you to collaborate.
 profiles:
+  - username: "i.am.kenzy"
+    fullname: >-
+      𝐊𝐄𝐍𝐙𝐘
+    bio: >-
+      🎤 1/4 de @wearemegara 🏳️‍🌈 BOSS en @covenbykenzy 🤟🏻 Salgo en @metalovision 🎸 Artista de @cream.guitars 📩 kenzy@covenbykenzy.com 🐷 Friends not food
+    location: "Argentina"
+    followers: 31155
+    engagement: 445
+    commentsToLikes: 0.019364
+    id: ck5q1krblbgpy0i117mcks77s
+    verified: false
+    hashtags: "#benidormfest, #fantasyhair, #metallife, #crueltyfree"
+  - username: "tuguiabuenosaires"
+    fullname: >-
+      Buenos Aires | Turismo | Creación de Contenido
+    bio: >-
+      👋🏻 Soy Alex y te muestro lo mejor de Bsas y Argentina! 💬 Únete a mi Canal para actividades y sorteos! 🍕 Cuenta foodie: @comeryrockear
+    location: "Argentina"
+    followers: 75088
+    engagement: 1057
+    commentsToLikes: 0.067547
+    id: ck6todk27dh290j71vqulxrfa
+    verified: false
+    hashtags: "#visitargentina, #streetgrammer, #argentina, #argentina360"
+  - username: "merakio"
+    fullname: >-
+      
+    bio: >-
+      El Argentino de Madrid 🇦🇷📍🇪🇸 #Comediante🎤#Actor🎬 #foodie🍔 Un MILLÓN Y MEDIO en YouTube Mi show en ARG 🇦🇷 👇🏻 Comercial merakioteama@gmail.com
+    location: "Argentina"
+    followers: 465508
+    engagement: 336
+    commentsToLikes: 0.073188
+    id: ck0w6uzrvaeio0i19ofr1e0ph
+    verified: true
+    hashtags: "#igersmadrid, #podcast, #madrid, #merakio"
+  - username: "sophielachef"
+    fullname: >-
+      Sophia Rodriguez Mata
+    bio: >-
+      Chef, comunicadora, empresaria, mamá de Juli Dueña en @kahlicr 🍽👩🏼‍🍳 Presentadora TV🇨🇷 YT: Chef Sophia 🎙 La Cartulina Podcast 👕 @foodiefashioncr
+    location: "Argentina"
+    followers: 326027
+    engagement: 294
+    commentsToLikes: 0.059115
+    id: ck5q0q2wq774s0i11tnvu876w
+    verified: false
+    hashtags: "#chifa, #chaufaperuano, #latincuisine, #infinitereasons"
+  - username: "agustinneglia"
+    fullname: >-
+      Agustín Neglia
+    bio: >-
+      Modo Selfie 🤳🏻 domingos 23.59hs Modo Foodie 🥘 sábados 00.30hs por America ✉️: agustin@buena-estrella.com.ar 7 años ininterrumpidos al aire
+    location: "Argentina"
+    followers: 329238
+    engagement: 38
+    commentsToLikes: 0.019571
+    id: ck134dy5wvz420i19dg3jy6gi
+    verified: true
+    hashtags: "#modoselfie, #animalkingdom, #disney, #modofoodie"
+  - username: "noferstyle"
+    fullname: >-
+      Nando Nora Escribens
+    bio: >-
+      I’m not getting older, I’m just getting golder Lifestyle | Travel | Food | Fashion Tik Tok +50k 🛍 @shop_noferstyle 🏷 @nofer_closet
+    location: "Argentina"
+    followers: 32400
+    engagement: 1
+    commentsToLikes: 0.000000
+    id: ckaoyxzq3jiw80i786cbrkdsu
+    verified: false
+    hashtags: "#argentina, #travel, #demasiadorecomendable, #buenosaires"
   - username: "alejoexplora"
     fullname: >-
       A L E J A N D R O   C A M P O
@@ -31,18 +103,6 @@ profiles:
     id: ckaossnyoswxp0i78vdogv00t
     verified: false
     hashtags: "#postres, #postressaludables, #covid, #longhairdocare"
-  - username: "la_petite_biere"
-    fullname: >-
-      Émilie Leclerc
-    bio: >-
-      Beer🍺+Food🍕+travel✈️+vintage +acting 📍: MTL ✉️: el.petite.biere@gmail.com @cicerone BS Actrice: Agence Bridget Dechene #lapetitebiere #NEIPAmonster
-    location: "Argentina"
-    followers: 40746
-    engagement: 448
-    commentsToLikes: 0.035488
-    id: ckaotj129w4f00i78yys0458s
-    verified: false
-    hashtags: "#neipamonster, #neipa, #boirelocal, #4origines"
   - username: "sweet_home_anywhere"
     fullname: >-
       Sweet Home Anywhere
@@ -67,64 +127,4 @@ profiles:
     id: ck9wczegwdcg10j78v7spui9q
     verified: false
     hashtags: "#rockyokix, #complexsneakers, #christmas, #dunksbornothing"
-  - username: "sabryrodriguezcuack"
-    fullname: >-
-      Sabry Rodriguez Cuack 🐥♐️💙💛💙
-    bio: >-
-      Asesora de Bares 💛 Adm. Gastronómica 🍸Bartender Profesional Owner: @thegarnishbar ✨ 📍Mendoza🍷 #CuackStyle 📸 📺@estrictamendoza 📝@foodloversmdz @mdzol
-    location: "Argentina"
-    followers: 20397
-    engagement: 555
-    commentsToLikes: 0.032939
-    id: ck5znhkd6oh6b0i14f0s1rra5
-    verified: false
-    hashtags: "#bartenderlife, #chinchin, #cuackstyle, #espectacular"
-  - username: "foodiction.vlc"
-    fullname: >-
-      Foodiction
-    bio: >-
-      Mar Bellver 🌱Disfruto en la cocina. 🍒Innovar con comida real. ✨Recetas Sin complicaciones FOODICTION - 10% @frutosecoonline FOODMP 38% @myproteines
-    location: "Argentina"
-    followers: 49250
-    engagement: 478
-    commentsToLikes: 0.074748
-    id: ckap1riryvtag0i78h4vqr1do
-    verified: false
-    hashtags: "#keto, #comidareal, #recetasfaciles, #gastronomia"
-  - username: "instafoodperu"
-    fullname: >-
-      Instafood Perú
-    bio: >-
-      👉🏻Comunidad de FOODLOVERS 👈🏻 🌏¿Quieres ser parte de la comunidad? 💌 Etiquétanos en tus 📸 y sigue a #instafoodperu 📌@hiromi_kudo @chichasour
-    location: "Argentina"
-    followers: 120166
-    engagement: 250
-    commentsToLikes: 0.138404
-    id: ck15qse6e4end0i19vdt5b7b6
-    verified: false
-    hashtags: "#instafoodperu"
-  - username: "daliiatorres"
-    fullname: >-
-      Bunny Princess 🐰👑
-    bio: >-
-      Actriz IMDb | LifeStyle | DisneyPrincess | Gryffindor | Foodie | Maestra Pokémon
-    location: "Argentina"
-    followers: 33449
-    engagement: 84
-    commentsToLikes: 0.035675
-    id: ck8tagic8rnlk0j78lq355ky9
-    verified: false
-    hashtags: "#fashion, #goodvibes, #beauty, #blessed"
-  - username: "olga_vila"
-    fullname: >-
-      Olga Vila | Food Stylist
-    bio: >-
-      Food & drink Stylist | Recipe developer Mis trabajos en @olga_foodstyler Mis servicios Olgavila.com. Mis recetas pepitagreens.com
-    location: "Argentina"
-    followers: 12466
-    engagement: 511
-    commentsToLikes: 0.128107
-    id: ck5zu96tf1x310i14wlra1gbu
-    verified: false
-    hashtags: "#pepitagreens, #foodfluffer, #foodstyling, #cookmagazine"
 ---

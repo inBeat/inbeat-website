@@ -1,12 +1,24 @@
 ---
-title: Top 10 Lingerie Instagram Influencers In Russia In 2023
+title: Top 10 Lingerie Instagram Influencers In Russia In 2024
 description: >-
-  Find top lingerie Instagram influencers in Russia in 2023. Most popular hashtags: #leatherdress #blackleatherpants #blackleather.
+  Find top lingerie Instagram influencers in Russia in 2024. Most popular hashtags: #photographercannesfilmfestival #liquidleggings #leggingslove.
 platform: Instagram
-hits: 175
+hits: 166
 text_top: See the top-rated Instagram accounts on inBeat.
-text_bottom: inBeat aggregates 175 Instagram influencers like this in Russia for you to work with.
+text_bottom: inBeat aggregates 166 Instagram influencers like this in Russia for you to collaborate.
 profiles:
+  - username: "irina.averina.photo"
+    fullname: >-
+      Iryna Moisieienko
+    bio: >-
+      Made in Ukraine and stand with Ukraine🇺🇦 Paris-Cannes-Nice 🇫🇷 Now in Paris 📍 My lingerie brand @averina.lingerie
+    location: "Russia"
+    followers: 55945
+    engagement: 230
+    commentsToLikes: 0.015066
+    id: ck55jzi2sy4o20i11otpze1b9
+    verified: false
+    hashtags: "#photographerparis, #photographercannesfilmfestival, #photographernice, #photographercannes"
   - username: "viktorovich_9541"
     fullname: >-
       Svetlana
@@ -43,18 +55,6 @@ profiles:
     id: ck5pwvfdwosrb0i11w0c68ozs
     verified: false
     hashtags: "#gorbachevva, #photoshoot, #backstage, #jomalonelondon"
-  - username: "irina.averina.photo"
-    fullname: >-
-      Irina Averina
-    bio: >-
-      Photographer from Moscow🔞 Animal lover 😻 My brand of lingerie @averina.lingerie Резервный аккаунт @irina.averina.ph Обучение ретуши Now in Moscow 📍
-    location: "Russia"
-    followers: 46648
-    engagement: 430
-    commentsToLikes: 0.018310
-    id: ck55jzi2sy4o20i11otpze1b9
-    verified: false
-    hashtags: "#luxxusmagazine, #lingerie, #averinalingerie, #blackfriday"
   - username: "loren_music_official"
     fullname: >-
       Лорен Тирольская

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Food TikTok Influencers In Austria In 2023
+title: Top 10 Food TikTok Influencers In Austria In 2024
 description: >-
-  Find top food TikTok influencers in Austria in 2023. Most popular hashtags: #fyp #wien #vienna #food.
+  Find top food TikTok influencers in Austria in 2024. Most popular hashtags: #fyp #wien #vienna #food.
 platform: TikTok
 hits: 42
-text_top: Analyze the most popular TikTok influencers on inBeat.
-text_bottom: Our search engine holds 42 TikTok influencers like this in Austria for you to contact.
+text_top: See the top-rated TikTok influencers on inBeat.
+text_bottom: Our database has 42 TikTok influencers like this in Austria for you to pitch.
 profiles:
   - username: "cookingnicky"
     fullname: >-

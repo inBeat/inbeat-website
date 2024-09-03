@@ -1,12 +1,24 @@
 ---
-title: Top 10 Cinema Instagram Influencers In South Africa In 2023
+title: Top 10 Cinema Instagram Influencers In South Africa In 2024
 description: >-
-  Find top cinema Instagram influencers in South Africa in 2023. Most popular hashtags: #capetown #photography #instagood.
+  Find top cinema Instagram influencers in South Africa in 2024. Most popular hashtags: #surfing #capetown #surf.
 platform: Instagram
-hits: 16
-text_top: Analyze the most popular Instagram accounts on inBeat.
-text_bottom: Our platform aggregates 16 Instagram influencers like this in South Africa for you to work with.
+hits: 19
+text_top: Identify the best Instagram accounts on inBeat.
+text_bottom: Our platform aggregates 19 Instagram influencers like this in South Africa for you to contact.
 profiles:
+  - username: "rogerhorrocks"
+    fullname: >-
+      Roger Horrocks
+    bio: >-
+      Ocean Lover and Wildlife Cinematographer My Octopus Teacher | Blue Planet 2 | Our Planet BBC | Netflix | Apple TV Bringing the Natural World Home
+    location: "South Africa"
+    followers: 6625
+    engagement: 474
+    commentsToLikes: 0.067026
+    id: ck5zt4hkmzpzz0i145rq883xu
+    verified: false
+    hashtags: "#wildlife, #nauticam, #nauticamsa, #cinematography"
   - username: "sandilem_"
     fullname: >-
       Sandile Mahlangu
@@ -79,52 +91,40 @@ profiles:
     id: ck5hhab6w77rh0i11t8sqocca
     verified: false
     hashtags: "#tv, #love, #art, #actor"
-  - username: "kevinlutolf"
+  - username: "marisa"
     fullname: >-
-      Kevin Lütolf
+      marisa | creativity & travel
     bio: >-
-      🌍 🇨🇭Zurich 🎬 Model, Entrepreneur, ContentCreator 🖤 Brand Ambassador @breitling, @mini_switzerland & @nespresso.ch 🎥 Co-Founder @kompleazy
+      virtual illusion of marisa hampe. ❝ I enjoy unique things. ❞ ↓ so, if you have a unique idea you know where to slide. marisa@tbs-media.de | 🇩🇪
     location: "South Africa"
-    followers: 909219
-    engagement: 505
-    commentsToLikes: 0.018946
-    id: ck5bzxktzs13r0i11vh8beq2d
-    verified: false
-    hashtags: "#surfing, #italien, #summer, #nature"
-  - username: "apolloyaffes"
+    followers: 176425
+    engagement: 744
+    commentsToLikes: 0.009225
+    id: ck0twv4ybgvnr0i19nq99df4i
+    verified: true
+    hashtags: "#wanderlust, #explore, #naturelovers, #cinematic"
+  - username: "adinmasencamp"
     fullname: >-
-      APOLLO GABRIEL YAFFES 🧿
+      Adin Masencamp
     bio: >-
-      Son Of Zeus 🧞‍♂️ * Video Creator * DM/Email For Bookings ✖️ * Latest YouTube Video 👇
+      Professional Surfer @wsl Africa Champion 2021/2022 @wetsuitwarehouseza @isdinsouthafrica @jrsurfboards @darcs_eyewear @lapointcamps
     location: "South Africa"
-    followers: 3663
-    engagement: 1681
-    commentsToLikes: 0.035553
-    id: ck5cdvsq2jvg60i113lvspk2u
+    followers: 14304
+    engagement: 391
+    commentsToLikes: 0.038585
+    id: ck0w4p21wzoqe0i19s5warjr7
     verified: false
-    hashtags: "#southafrica, #tablemountain, #capetown, #fitness"
-  - username: "mattsiebert_"
+    hashtags: "#capetown, #athlete, #australia, #wsl"
+  - username: "deanherb_"
     fullname: >-
-      Matt Stryder Siebert
+      D E A N
     bio: >-
-      Creative director ☕️ Forex trading ^ NEW VIDEO OUT NOW!☕️📹
+      Fashion | Lifestyle Cape Town 🌴 📧 dherbert10@outlook.com
     location: "South Africa"
-    followers: 18585
-    engagement: 91
-    commentsToLikes: 0.022448
-    id: ck5c9ayn2b41f0i1121cg4xum
+    followers: 15930
+    engagement: 425
+    commentsToLikes: 0.066779
+    id: ck5caa5kcd0kt0i111702vezs
     verified: false
-    hashtags: "#director, #beach, #sunset, #photography"
-  - username: "ilkoilliliev"
-    fullname: >-
-      Ilko Iliev
-    bio: >-
-      💥 DISASTER ARTS 🎬 Stuntman, filmmaker, FPV pilot, piece of 💩 🎞 @007 Stunt Crew 🤙 @flytheearthparagliding Team
-    location: "South Africa"
-    followers: 8707
-    engagement: 641
-    commentsToLikes: 0.029460
-    id: ck5he877zrk2n0i118hxhzmc0
-    verified: false
-    hashtags: "#paraglide, #bulgaria, #3rs, #tricks"
+    hashtags: "#ad, #reeloftheday, #reels, #igreels"
 ---

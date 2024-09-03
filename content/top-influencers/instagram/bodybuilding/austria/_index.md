@@ -1,11 +1,11 @@
 ---
-title: Top 10 Bodybuilding Instagram Influencers In Austria In 2023
+title: Top 10 Bodybuilding Instagram Influencers In Austria In 2024
 description: >-
-  Find top bodybuilding Instagram influencers in Austria in 2023. Most popular hashtags: #bodybuilding #fitness #workout #gym.
+  Find top bodybuilding Instagram influencers in Austria in 2024. Most popular hashtags: #fitness #bodybuilding #workout #vienna.
 platform: Instagram
 hits: 9
-text_top: See the most popular Instagram accounts on inBeat.
-text_bottom: Our platform has 9 Instagram influencers like this in Austria for you to collaborate.
+text_top: Discover the most popular Instagram profiles on inBeat.
+text_bottom: Our search engine has 9 Instagram influencers like this in Austria for you to work with.
 profiles:
   - username: "anika_isabella"
     fullname: >-
@@ -31,6 +31,30 @@ profiles:
     id: ck6tk415z3ypw0j71w4n23zzd
     verified: false
     hashtags: "#fitnessaddict, #instafitness, #fitness, #quotes"
+  - username: "hoffelnerfitness"
+    fullname: >-
+      Markus Hoffelner
+    bio: >-
+      ☞ @erfolgsernaehrung 🌱🧠 TEAM ☞ @atombody @loewenanteil ↘️ ERSTELLE DEINE COACHING-APP
+    location: "Austria"
+    followers: 13450
+    engagement: 178
+    commentsToLikes: 0.051112
+    id: ck6ttcy639x1s0j71qk9c5vj9
+    verified: false
+    hashtags: "#blueeyes, #sea, #love, #atombody"
+  - username: "missevalutz"
+    fullname: >-
+      Eva
+    bio: >-
+      loves fitness, movies, music & vegan food 🌱 ♓️ ✨🤍🧿📍Austria, Linz 📚⚖️👩‍💻 lawyer assistant
+    location: "Austria"
+    followers: 83400
+    engagement: 61
+    commentsToLikes: 0.109531
+    id: ck6tzasl38m4l0j71s1at1ngz
+    verified: false
+    hashtags: "#eyes, #garden, #curves, #beach"
   - username: "teresawallerberger"
     fullname: >-
       Mindset 💯 | Vegan 🌱 | Earth 🌎
@@ -42,7 +66,7 @@ profiles:
     commentsToLikes: 0.108142
     id: ck8t0yee3tskt0j78ki6x79jx
     verified: false
-    hashtags: "#nocco, #vienna, #icaniwill, #noccoathleteaustria"
+    hashtags: "#vienna, #erna, #noccoathleteaustria, #nocco"
   - username: "marcello.bravo"
     fullname: >-
       Marcello Bravo
@@ -54,7 +78,7 @@ profiles:
     commentsToLikes: 0.024040
     id: ck5hrv9zkvjft0i11xiouay8v
     verified: false
-    hashtags: "#marcellobravo, #littlecaprice, #healthyfood, #production"
+    hashtags: "#healthyfood, #production, #marcellobravo, #littlecaprice"
   - username: "zj.rob"
     fullname: >-
       R O B
@@ -66,31 +90,19 @@ profiles:
     commentsToLikes: 0.036813
     id: ck5q29gtbewo10i11pg9ly5dh
     verified: false
-    hashtags: "#beachvibes, #beachlover, #picoftheday, #photooftheday"
+    hashtags: "#sea, #travelling, #beachlover, #workout"
   - username: "pavlina_valigurova"
     fullname: >-
       ❣️ FIT IS A LIFE STYLE ❣️
     bio: >-
-      BUĎ SÁM SEBOU A DĚLEJ, CO TĚ BAVÍ. 👫🏼S @radekkrenek jsme vytvořili @sportcentrum_liftandfit ❤️ #family 🏋🏻‍♂️ 📩 pavlinavaligurova@seznam.cz
+      BUĎ SÁM SEBOU A DĚLEJ, CO TĚ BAVÍ. 💪Kondiční trenér 👫🏼S @radekkrenek jsme vytvořili @sportcentrum_liftandfit ❤️ 📩 pavlinavaligurova@seznam.cz
     location: "Austria"
-    followers: 7900
-    engagement: 504
-    commentsToLikes: 0.009829
+    followers: 7857
+    engagement: 483
+    commentsToLikes: 0.011483
     id: ck5q08fku4r5x0i11uufdm660
     verified: false
-    hashtags: "#gym, #fitnessmotivation, #fitness, #happy"
-  - username: "principessa_ninie"
-    fullname: >-
-      ▫️Ninie Rosenfeld- Di Lenardo
-    bio: >-
-      ▫️Real Estate TU Vie🎓 ▫️Dancer 🎶 ▫️Actress 🎬 🇦🇹🇮🇹 📍Vienna / Graz
-    location: "Austria"
-    followers: 9296
-    engagement: 269
-    commentsToLikes: 0.085180
-    id: ck5c8ho739i810i1152ogla2a
-    verified: false
-    hashtags: "#sun, #pictureoftheday, #photo, #sea"
+    hashtags: "#focus, #fit, #happy, #fitnessmotivation"
   - username: "coachalexanderkrump"
     fullname: >-
       Alexander Krump
@@ -102,17 +114,5 @@ profiles:
     commentsToLikes: 0.040004
     id: ck6u14tvajlj70j71c671ih47
     verified: false
-    hashtags: "#krafttraining, #physiqueprep, #nacktgutaussehen, #vienna"
-  - username: "tavicastro"
-    fullname: >-
-      TΛVI
-    bio: >-
-      THE ALCHEMIST MIND ✖️ BODY ✖️ SPIRIT - Founder @bodyengineers - @ruleoneproteins athlete Online Mentoring | Youtube | Music ⬇️
-    location: "Austria"
-    followers: 3098902
-    engagement: 141
-    commentsToLikes: 0.006776
-    id: ck139ex0akzbp0i191uw6guyk
-    verified: true
-    hashtags: "#birthday, #r1athlete, #beherenow, #hercules"
+    hashtags: "#transformation, #abgerechnetwirdaufderb, #austria, #physiqueprep"
 ---

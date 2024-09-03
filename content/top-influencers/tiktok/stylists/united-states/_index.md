@@ -1,11 +1,11 @@
 ---
-title: Top 10 Stylists TikTok Influencers In United States In 2023
+title: Top 10 Stylists TikTok Influencers In United States In 2024
 description: >-
-  Find top stylists TikTok influencers in United States in 2023. Most popular hashtags: #fyp #ootd #fashion #duet.
+  Find top stylists TikTok influencers in United States in 2024. Most popular hashtags: #fyp #fashion #ootd #makeup.
 platform: TikTok
-hits: 200
-text_top: Identify the best TikTok accounts on inBeat.
-text_bottom: Our database holds 200 TikTok influencers like this in United States for you to connect with.
+hits: 198
+text_top: Analyze the most popular TikTok influencers on inBeat.
+text_bottom: Our database has 198 TikTok influencers like this in United States for you to connect with.
 profiles:
   - username: "gramacarolyn"
     fullname: >-
@@ -54,19 +54,19 @@ profiles:
     commentsToLikes: 0.050905
     id: ck8vtijhbgby80j78ng3gjcha
     verified: false
-    hashtags: "#makeup, #vintagevibes, #merrychristmas, #cosplay"
+    hashtags: "#vintagefashion, #vintagevibes, #merrychristmas, #vintagestyle"
   - username: "beebins"
     fullname: >-
       Beebins 
     bio: >-
-      Hair stylist,Green Cheek Conure mommy to Piper! In memory of my parakeet, Kevin
+      Hair stylist, Bird mommy!!
     location: "United States"
-    followers: 33500
-    engagement: 1188
-    commentsToLikes: 0.076545
+    followers: 33400
+    engagement: 1276
+    commentsToLikes: 0.094251
     id: ckae4h3et2e2d0i78fsjwbszv
     verified: false
-    hashtags: "#blackstock37, #chuuby, #disney, #sunconure"
+    hashtags: "#chuuby, #disney, #sunconure"
   - username: "carmaheartsyou"
     fullname: >-
       🧸🎀⛓𝖈𝖆𝖗𝖒𝖆 ⛓🎀🧸
@@ -102,7 +102,7 @@ profiles:
     commentsToLikes: 0.066677
     id: ckb9my5cdge2o0j23czireqt8
     verified: false
-    hashtags: "#nycstylist, #summer2020, #morph, #fashion"
+    hashtags: "#nycfashionstylist, #nycfashionblogger, #nycinfluencer, #morph"
   - username: "justbeingbella"
     fullname: >-
       bella diako
@@ -114,7 +114,7 @@ profiles:
     commentsToLikes: 0.026724
     id: ck80705m2njb80j78lg22a5p0
     verified: true
-    hashtags: "#clueless, #mexico, #tulum, #cluelessoutfits"
+    hashtags: "#mexico, #tulummexico, #cluelessoutfits, #clueless"
   - username: "alieshalynne18"
     fullname: >-
       Aliesha Lynne

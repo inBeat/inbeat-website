@@ -1,11 +1,11 @@
 ---
-title: Top 10 Mothers Instagram Influencers In New York In 2023
+title: Top 10 Mothers Instagram Influencers In New York In 2024
 description: >-
-  Find top mothers Instagram influencers in New York in 2023. Most popular hashtags: #mother #repost #throwback.
+  Find top mothers Instagram influencers in New York in 2024. Most popular hashtags: #mother #repost #stayhome.
 platform: Instagram
-hits: 118
-text_top: Analyze the most popular Instagram profiles on inBeat.
-text_bottom: Our database has 118 Instagram influencers like this in New York, United States for you to collaborate.
+hits: 189
+text_top: See the best Instagram influencers on inBeat.
+text_bottom: Our search engine has 189 Instagram influencers like this in New York, United States for you to connect with.
 profiles:
   - username: "rachelbayjones"
     fullname: >-
@@ -66,7 +66,7 @@ profiles:
     commentsToLikes: 0.066080
     id: ck14l2ejasi7x0i192qk03brw
     verified: false
-    hashtags: "#farmfresh, #vegetarianfoodshare, #inseason, #saladbowl"
+    hashtags: "#feedfeed, #eattherainbow, #healthy, #vegetarianfoodshare"
   - username: "mikabrzezinski"
     fullname: >-
       Mika (Brzezinski) Scarborough
@@ -91,6 +91,18 @@ profiles:
     id: ck5c2l08exgjs0i11fkw9en9l
     verified: true
     hashtags: "#seenequalssaved, #repost, #adoptdontshop, #cantwait"
+  - username: "sabina.kravchenko"
+    fullname: >-
+      Sabina Averianova (Kravchenko)
+    bio: >-
+      Model, mother, businesswoman Los Angeles / New York Founder of @becomeamodelusa Co-founder of @genetictalent Collaboration: @sabinakrav.pr
+    location: "United States"
+    followers: 69706
+    engagement: 423
+    commentsToLikes: 0.024729
+    id: ck5bxt1m5od0i0i11hbpr36ve
+    verified: false
+    hashtags: ""
   - username: "nina0621"
     fullname: >-
       Nina
@@ -115,16 +127,4 @@ profiles:
     id: ck6tlfvpt5ztc0j71c9izcvas
     verified: false
     hashtags: "#lives, #positivevibes, #arrogance, #happy"
-  - username: "biok_travel"
-    fullname: >-
-      Iosune&Haritz + little M👶🏼
-    bio: >-
-      ↣ Padres primerizos 👶🏻🍼 ↣ Travel family 👇🏼DESCUENTO SEGURO VIAJE👇🏼
-    location: "United States"
-    followers: 3180
-    engagement: 1210
-    commentsToLikes: 0.269543
-    id: ck14kgtvqpgc90i19bv94q3v4
-    verified: false
-    hashtags: "#waitingyoulittlem, #vietnam, #espa, #pregnantphotography"
 ---

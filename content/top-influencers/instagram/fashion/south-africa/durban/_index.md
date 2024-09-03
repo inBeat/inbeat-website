@@ -1,24 +1,24 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Durban In 2023
+title: Top 10 Fashion Instagram Influencers In Durban In 2024
 description: >-
-  Find top fashion Instagram influencers in Durban in 2023. Most popular hashtags: #fashion #southafrica #durban #summer.
+  Find top fashion Instagram influencers in Durban in 2024. Most popular hashtags: #fashion #durban #southafrica #beauty.
 platform: Instagram
-hits: 13
-text_top: See the top-rated Instagram influencers on inBeat.
-text_bottom: Our platform has 13 Instagram influencers like this in Durban, South Africa for you to pitch.
+hits: 16
+text_top: Analyze the best Instagram accounts on inBeat.
+text_bottom: inBeat holds 16 Instagram influencers like this in Durban, South Africa for you to work with.
 profiles:
-  - username: "txshriq"
+  - username: "nomps_mathebula"
     fullname: >-
-      tashriq 🧿
+      Nompi Mathebula
     bio: >-
-      he/him fashion student 18 | durban, south africa dm/email for promos/collabs
+      Loving the life that I am living 🤍 Lifestyle | Mom | A Plug ＮＥＦＥＲＴＩＴＩ
     location: "South Africa"
-    followers: 7242
-    engagement: 3287
-    commentsToLikes: 0.201601
-    id: ckap8rm6spkdg0i78v6ljb65s
+    followers: 19952
+    engagement: 541
+    commentsToLikes: 0.042874
+    id: ck5ho39z9ouqm0i11pqodxlpl
     verified: false
-    hashtags: "#lockdown, #18, #diwali2020, #explore"
+    hashtags: "#foryourshadeofbeautiful, #nivearadiantandbeauty, #radiantskinwithnivea, #durban"
   - username: "dainogulu"
     fullname: >-
       Dainamiaro
@@ -31,18 +31,18 @@ profiles:
     id: ckaor925xm8r70i78qr61uy1y
     verified: false
     hashtags: "#fashion, #ekasi, #ootdmens, #ootdfashion"
-  - username: "kaminipather"
+  - username: "kunene_ayanda"
     fullname: >-
-      Kamini Like Harmony
+      Ayanda Kunene
     bio: >-
-      Host of #GirlEatWorldTV @Netflix SAFTA winner @MasterChef_SA winner S2. Runner.
+      South African 🇿🇦 Twin: @amanda_Kunene 📍 CPT: @20modelmanagement 📍 DBN: @bossmodelsdbn
     location: "South Africa"
-    followers: 36569
-    engagement: 148
-    commentsToLikes: 0.144325
-    id: ckaost6k2szaw0i78ocytqyhn
-    verified: true
-    hashtags: "#food, #supportlocal, #win, #competition"
+    followers: 5804
+    engagement: 252
+    commentsToLikes: 0.067949
+    id: ck138fd3bfyxf0i199d208qt8
+    verified: false
+    hashtags: "#fashion, #southafrica, #likeforlikes, #safari"
   - username: "withlovebloomingrose"
     fullname: >-
       Aminah Gallie
@@ -55,6 +55,18 @@ profiles:
     id: ck136p5yx7ksg0i19ai5exdqp
     verified: false
     hashtags: "#houseplants, #plantsmakepeoplehappy, #girlswithplants, #capetown"
+  - username: "txshriq"
+    fullname: >-
+      tashriq 🧿 fashion | styling | lifestyle
+    bio: >-
+      👨🏽‍🎓 fashion student @tashriq.sa 📩 txshriq@gmail.com 🌍 durban, south africa SHOP MY CLOSET ⬇️
+    location: "South Africa"
+    followers: 9772
+    engagement: 2390
+    commentsToLikes: 0.182737
+    id: ckap8rm6spkdg0i78v6ljb65s
+    verified: false
+    hashtags: "#thefixdrip, #tfgrewards, #swipeandsave, #superbme"
   - username: "innographer"
     fullname: >-
       Innographer
@@ -67,6 +79,30 @@ profiles:
     id: ck5zu2r2e1km00i14450k4dm8
     verified: false
     hashtags: "#blackwomen, #potrait, #culture, #bantuknot"
+  - username: "katlego_tefu"
+    fullname: >-
+      Katlego Tefu
+    bio: >-
+      Fashion, Beauty, Hair & Everything Else! Collabos : kt@mansamusabrands.co.za Styling : ktefu@yahoo.com New videos weekly 👇🏽
+    location: "South Africa"
+    followers: 17493
+    engagement: 191
+    commentsToLikes: 0.038249
+    id: ck6u4o0ti4tlh0j716qfc7snm
+    verified: false
+    hashtags: "#fashionstyle, #casualstyle, #fashiongram, #reelsinstagram"
+  - username: "hausofkendy"
+    fullname: >-
+      Kendra | Lifestyle | UGC
+    bio: >-
+      📸 Beauty, Fashion & Lifestyle Content Creator ✨ 📧 admin@hausofkendy.co.za 📍 Jhb TFG Rewards Gamification👇🏽
+    location: "South Africa"
+    followers: 38566
+    engagement: 96
+    commentsToLikes: 0.053076
+    id: ck14kwq4zrpa10i19wbo1w3rh
+    verified: false
+    hashtags: "#hausofkendy, #southafricanstyle, #undiscoveredunder50k, #beautyblogger"
   - username: "thatdamnvandal"
     fullname: >-
       DAMN VANDAL
@@ -79,52 +115,16 @@ profiles:
     id: ck8svw1i4cwto0j785pmqao89
     verified: false
     hashtags: "#shaunoakley, #design, #mural, #durban"
-  - username: "kunene_ayanda"
-    fullname: >-
-      Ayanda Kunene
-    bio: >-
-      South African 🇿🇦 Twin: @amanda_Kunene 📍DBN: @imodelmngt 📍CPT: @20modelmanagement
-    location: "South Africa"
-    followers: 4206
-    engagement: 738
-    commentsToLikes: 0.064269
-    id: ck138fd3bfyxf0i199d208qt8
-    verified: false
-    hashtags: "#explorepage, #reels, #milkmodelsearch, #editorial"
-  - username: "ciara_tay_kruger"
-    fullname: >-
-      Ciara Taylor Kruger💋
-    bio: >-
-      •Cape Town, South Africa •Bcom student • Twenty • Aries •Model @covermodelscpt ——————————————
-    location: "South Africa"
-    followers: 5624
-    engagement: 1387
-    commentsToLikes: 0.111456
-    id: ckapbizlf021z0i78vsf48vsh
-    verified: false
-    hashtags: "#modeling, #tanning, #swimsuit, #vacation"
   - username: "kajalbagwandeen"
     fullname: >-
       Kajal Bagwandeen
     bio: >-
-      
+      @thek3company @honeymoonmovie streaming on Amazon Prime Video @imagineworx Agent: @mla.est1974
     location: "South Africa"
-    followers: 34662
-    engagement: 466
-    commentsToLikes: 0.024560
+    followers: 39170
+    engagement: 232
+    commentsToLikes: 0.041114
     id: ck5zwx9uf6xtp0i148j6e9kj1
     verified: true
-    hashtags: "#motherhood, #diwali, #adoptdontshop, #woolworths"
-  - username: "wadinepe"
-    fullname: >-
-      Itumeleng
-    bio: >-
-      A CREATIVE Portrait Events & fashion photographer 🇿🇦 Johannesburg
-    location: "South Africa"
-    followers: 11353
-    engagement: 677
-    commentsToLikes: 0.041071
-    id: ck8swja6cea080j78q6ijxr2w
-    verified: false
-    hashtags: ""
+    hashtags: "#primevideoza, #girlstrip, #redcarpet, #besties"
 ---

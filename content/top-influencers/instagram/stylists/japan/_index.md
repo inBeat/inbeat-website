@@ -1,36 +1,60 @@
 ---
-title: Top 10 Stylists Instagram Influencers In Japan In 2023
+title: Top 10 Stylists Instagram Influencers In Japan In 2024
 description: >-
-  Find top stylists Instagram influencers in Japan in 2023. Most popular hashtags: #pr #ootd #synek.
+  Find top stylists Instagram influencers in Japan in 2024. Most popular hashtags: #pr #ootd #hermes.
 platform: Instagram
-hits: 103
-text_top: Discover the most popular Instagram profiles on inBeat.
-text_bottom: Our search engine holds 103 Instagram influencers like this in Japan for you to collaborate.
+hits: 90
+text_top: See the most popular Instagram accounts on inBeat.
+text_bottom: Our database holds 90 Instagram influencers like this in Japan for you to connect with.
 profiles:
-  - username: "hironamarubayashi"
+  - username: "dodo_chiharu"
     fullname: >-
-      丸林広奈
+      百々千晴
     bio: >-
-      Stylist
+      Stylist and / @theshishikui
     location: "Japan"
-    followers: 101703
-    engagement: 159
-    commentsToLikes: 0.007253
-    id: ck0tv5h1ia0q50i194s274j37
+    followers: 175251
+    engagement: 163
+    commentsToLikes: 0.002273
+    id: ck5hlq4avkn7s0i11ctvr7clr
     verified: false
-    hashtags: "#zanchetti, #totebag, #hairstyle, #fashion"
-  - username: "joana_gorska"
+    hashtags: "#skii, #pr, #obagi, #reversostories"
+  - username: "ayaaa0707"
     fullname: >-
-      Joanna ♡
+      ayakaneko
     bio: >-
-      🤰🏼 Mama Franka 08.01.2020 🛍 @frankowaszafa 💉 Cosmetologist/Lashes Stylist @skincentrumkosmetologii 🏠 Koszalin ✉️ Współpraca: gorska-joanna@wp.pl
+      fashion stylist tokyo YouTube↓
     location: "Japan"
-    followers: 16644
-    engagement: 428
-    commentsToLikes: 0.029933
-    id: ckf5vjxjnoudk0j235zhdqz5e
+    followers: 202033
+    engagement: 132
+    commentsToLikes: 0.001488
+    id: ck134x22lylyc0i197ev8c69o
     verified: false
-    hashtags: "#magicznyczas, #nazawszerazem, #mamaisyn, #mamaisynek"
+    hashtags: "#mywork, #stylingbyme, #shootingday, #ootd"
+  - username: "kawaiiconic.ali"
+    fullname: >-
+      アリ
+    bio: >-
+      🎀𝒫.𝒾.𝓃.𝓀 𝒾𝒸𝑜𝓃🎀 ⭐️Voice Talent/Stylist⭐️ 🌸 Stockholm, Sweden📍🇸🇪 🌸@endigopink's Daddy💋💕 🌸💋English•日本語 💌Business inquiries💌 operafashionista@gmail.com
+    location: "Japan"
+    followers: 38455
+    engagement: 124
+    commentsToLikes: 0.036253
+    id: ckapbqu780zes0i78ys8drptq
+    verified: false
+    hashtags: "#allpinkeverything, #kawaii, #kawaiistyle, #pinkmakeup"
+  - username: "mademoiselle_yulia"
+    fullname: >-
+      マドモアゼル・ユリア
+    bio: >-
+      🇮🇹10th-12th Oct, 🇸🇬13th DJ/KIMONO STYLIST等 YouTube「ゆりあの部屋」毎週更新 DJ booking djbooking@mademoiselleyulia.com Kimono botankimono@mademoiselleyulia.com
+    location: "Japan"
+    followers: 167641
+    engagement: 53
+    commentsToLikes: 0.003635
+    id: ck0ue3obvkj420i19mpnakson
+    verified: true
+    hashtags: "#onebypenfolds, #paris, #pfw, #antiquekimono"
   - username: "sakuraan"
     fullname: >-
       💎Sakura Nakamura💎
@@ -61,36 +85,12 @@ profiles:
     bio: >-
       stylist ゆりかでん スタイリングのご依頼はLOVABLEまでお願いします #ゆりかでんのバッグ @curlychou_
     location: "Japan"
-    followers: 20124
-    engagement: 578
-    commentsToLikes: 0.002658
+    followers: 21643
+    engagement: 382
+    commentsToLikes: 0.001162
     id: ck15qj8a634010i19sq0ldalb
     verified: false
-    hashtags: "#ootd, #curlychou, #youtube, #mywork"
-  - username: "awatsumai"
-    fullname: >-
-      あわつまい
-    bio: >-
-      27歳 / HOLIDAY所属 / スニーカー / 保護猫🐈🐈 #MAI_SNEAKER_LIFE @pocher_official STYLIST
-    location: "Japan"
-    followers: 93253
-    engagement: 147
-    commentsToLikes: 0.014689
-    id: ck8szz3dfq9xt0j78gm4gjx4x
-    verified: true
-    hashtags: "#vocemagazine, #mai, #goodal, #pr"
-  - username: "miyutomii88"
-    fullname: >-
-      とみい
-    bio: >-
-      カラオケ、歯科衛生士、ちゃちゃまる @chachamalu88 YouTubeやってます。 とみいちゃんねる twitter→miyutomii88 Tik Tok→miyutomii stylist @pocher_official
-    location: "Japan"
-    followers: 108977
-    engagement: 313
-    commentsToLikes: 0.002958
-    id: ck5zreix5wfqt0i14pkar844t
-    verified: false
-    hashtags: "#tigora, #pr, #perverze, #adidas"
+    hashtags: "#mywork, #ootd, #flowers, #oriens"
   - username: "naokookusa"
     fullname: >-
       Naoko Okusa_official

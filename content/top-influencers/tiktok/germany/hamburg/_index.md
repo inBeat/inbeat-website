@@ -1,11 +1,11 @@
 ---
-title: Top 10 TikTok Influencers In Hamburg In 2023
+title: Top 10 TikTok Influencers In Hamburg In 2024
 description: >-
-  Find top TikTok influencers in Hamburg in 2023. Most popular hashtags: #fyp #hamburg #fy #foryou.
+  Find top TikTok influencers in Hamburg in 2024. Most popular hashtags: #fy #hamburg #fyp #viral.
 platform: TikTok
 hits: 160
-text_top: Discover the best TikTok profiles on inBeat.
-text_bottom: inBeat aggregates 160 TikTok influencers like this in Hamburg, Germany for you to contact.
+text_top: See the most popular TikTok influencers on inBeat.
+text_bottom: Our platform has 160 TikTok influencers like this in Hamburg, Germany for you to collaborate.
 profiles:
   - username: "cel1na.09"
     fullname: >-

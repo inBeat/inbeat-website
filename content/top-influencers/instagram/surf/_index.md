@@ -1,11 +1,11 @@
 ---
-title: Top 10 Surf Instagram Influencers In 2023
+title: Top 10 Surf Instagram Influencers In 2024
 description: >-
-  Find top surf Instagram influencers in 2023. Most popular hashtags: #sponsored #travel #surflife.
+  Find top surf Instagram influencers in 2024. Most popular hashtags: #surf #ocean #surfing.
 platform: Instagram
-hits: 8293
-text_top: See the top-rated Instagram profiles on inBeat.
-text_bottom: Our search engine has 8293 Instagram influencers like this for you to contact.
+hits: 8868
+text_top: Discover the best Instagram influencers on inBeat.
+text_bottom: inBeat aggregates 8868 Instagram influencers like this for you to contact.
 profiles:
   - username: "raonimonteirooficial"
     fullname: >-
@@ -25,9 +25,9 @@ profiles:
     bio: >-
       Bits & pieces from Aus' original digi surf mag. We're an electronic sea, inspired by swell, straight outta Currumbin. DM for private water photog sesh
     location: "Australia"
-    followers: 72989
-    engagement: 253
-    commentsToLikes: 0.010536
+    followers: 73733
+    engagement: 241
+    commentsToLikes: 0.007546
     id: ck0txat4qiiw00i19k8s1lo5t
     verified: false
     hashtags: ""
@@ -43,88 +43,88 @@ profiles:
     id: ck14lqq72w0l80i19nle0kkip
     verified: false
     hashtags: ""
-  - username: "lauremyr"
+  - username: "sophiachiara__"
     fullname: >-
-      ▲▽ Laure Myr ▽▲
+      S O P H I A 🌙
     bio: >-
-      Raised in the Basque Country, living in Bundjalung Country 🇦🇺 Owner of @loreofthesea 🌊 Supported by @oxbow_elle @nettleton_surfboards @evolve_byronbay
-    location: "Australia"
-    followers: 29746
-    engagement: 399
-    commentsToLikes: 0.019602
-    id: ck0ub7ktwdv8u0i19uup11ysz
+      🌎 between slow living and adventures 🌺 best things in life are free 🌱 nature & animal lover 📍 Australia 🇦🇺 🌊 surf, skate & deep thoughts
+    location: "United States"
+    followers: 357733
+    engagement: 1589
+    commentsToLikes: 0.004738
+    id: ck6u9oh9mypjo0j71g0md7296
     verified: false
-    hashtags: "#roadtrip, #sansebastian, #surfingwomen, #behindthescenes"
-  - username: "caleyvanular"
+    hashtags: "#trend, #hiking, #beach, #happy"
+  - username: "tinyspikeymikey"
     fullname: >-
-      Caley Vanular
+      👑 Spikey Mikey Official
     bio: >-
-      snowboard | photo | surf | travel | culture 📩 contact@caleyvanular.com ☀️ @fforahh 🎞 @cahhhley 🌀 @billabongwomens @k2.snowboarding
-    location: "Canada"
-    followers: 70137
-    engagement: 171
-    commentsToLikes: 0.050948
-    id: ck0ubyzxkfoyb0i19efj88wa4
+      🐾 Maltese 😎 Pupfluencer 🎧 Dj Mikey @djmikey_party 🎉 Book Dj by DM 🏍 Biker President @ruffridersbikerclub 😇🌈 Flofy Tiny Surfer 🏄‍♀️☁️
+    location: "United States"
+    followers: 23064
+    engagement: 470
+    commentsToLikes: 0.135014
+    id: ck5q0lguj6ks60i11j9tvvlzo
     verified: false
-    hashtags: "#contaxt2, #fj62, #bcday, #desolationsound"
-  - username: "monique_bodycraft"
+    hashtags: "#tiger, #vegasnightlife, #reelsinstagram, #gabrielfeitosa"
+  - username: "kaleighgilchrist"
     fullname: >-
-      M O N I Q U E  C R A F T
+      Kaleigh Gilchrist
     bio: >-
-      🌊☀️ 🌎 † 👟 🍉✨💪🏽 🌻 🌈 A fitness coach, presenter, support worker, & model; who’s obsessed with sunshine, surfing & smiling! (And seeing you smile too ♡ )
-    location: "Australia"
-    followers: 24458
-    engagement: 147
-    commentsToLikes: 0.121995
-    id: ck5c390dsyttq0i1111pgiigf
+      @teamusa @usawp 🇺🇸 Rio 🥇🇧🇷 Tokyo 🥇🇯🇵 Pro Surfer🏄🏼‍♀️ @westcoastuniversity🏄🏼‍♀️🤽🏻‍♀️ Mamba 🐍 @usc_athletics @imisssouthcentral✌🏼 @tgehret11 💍 8.24.24
+    location: "United States"
+    followers: 23668
+    engagement: 482
+    commentsToLikes: 0.031474
+    id: ck5qcqnlervi90i117cgnqurn
+    verified: true
+    hashtags: "#mambamission, #gameday, #lfg, #tgif"
+  - username: "nico_ger7"
+    fullname: >-
+      NICO PRIEN
+    bio: >-
+      ⚡️ Co-Owner: @surfcenter_com 🌊 Windsurfing | Traveling | YouTube YouTube 55k ↓ ☝️ profile with advertising
+    location: "Germany"
+    followers: 32009
+    engagement: 1475
+    commentsToLikes: 0.007437
+    id: ck135fywx18730i19xt06ch20
     verified: false
-    hashtags: "#comvitaaustralia, #run, #timelesswellness, #letsgo"
-  - username: "xococoho"
+    hashtags: "#jpaustralia, #windsurfer, #windsurfing, #pwaworldtour"
+  - username: "nicvonrupp"
     fullname: >-
-      Coco Ho
+      Nic von Rupp
     bio: >-
-      Professional Surfer from Hawaii 🕊 Co Owner of @pirettebeach Trust.Honor.Loyalty.Love.
-    location: "United States"
-    followers: 687524
-    engagement: 144
-    commentsToLikes: 0.006872
-    id: ck0tum6wd7q8k0i19il15ps1a
+      Big wave surfer 21 most influential surfers of 21 by @stab 1st Place @wsl Tudor Nazaré Challenge 22 3x Perfect Chapter Winner 23 Alaia Bay video 👇🏻
+    location: "Indonesia"
+    followers: 203119
+    engagement: 659
+    commentsToLikes: 0.016937
+    id: ck0u1gwb5wu5y0i1917962c4g
     verified: true
-    hashtags: "#ad, #proteamsummit2022, #intothenowvr, #hero11"
-  - username: "meg_haywoodsullivan"
+    hashtags: "#surfing, #kandui, #surf, #javier"
+  - username: "amandadjerf"
     fullname: >-
-      MEG Haywood Sullivan
+      Amanda Djerf
     bio: >-
-      ➕ Sustainability Strategist ➕ Photographer + Artist ➕ Ambassador @harvard @the_explorers_club @plasticfreefridays @protectourwinters @surfrider
-    location: "United States"
-    followers: 33057
-    engagement: 111
-    commentsToLikes: 0.035660
-    id: ck1350y99z54t0i196pgpd431
-    verified: true
-    hashtags: "#conservation, #adventure, #climateweeknyc, #fall"
-  - username: "bethanyhamilton"
+      Surf Retreat @BONANZACOLLECTIVE Biarritz / Stockholm amandadjerf@gmail.com
+    location: "Sweden"
+    followers: 194523
+    engagement: 602
+    commentsToLikes: 0.003223
+    id: ck5q6gcrxxadm0i11n2in3u4s
+    verified: false
+    hashtags: "#sezanelovers, #sezane"
+  - username: "sofia_surferss"
     fullname: >-
-      Bethany Hamilton
+      🦁Sofia Moreno🦁
     bio: >-
-      Faith•Family•Surf @ohanaexperiences Mom+Daughter Mentorship, motivational speaking, blog & more! @unstoppablethefilm #SoulSurfer #BITCOIN John 16:33
-    location: "United States"
-    followers: 2124071
-    engagement: 107
-    commentsToLikes: 0.007594
-    id: ck0tt4tek15qv0i19irqje3qb
-    verified: true
-    hashtags: "#ohanaexperiences, #primalkitchen, #bhohanaexperience, #sponsored"
-  - username: "lauraenever"
-    fullname: >-
-      LAURA ENEVER
-    bio: >-
-      professional surfer @undonefilm @billabongwomens @hard_fizz
-    location: "United States"
-    followers: 402068
-    engagement: 87
-    commentsToLikes: 0.011502
-    id: ck0ublkebet1k0i19ekee1qu6
-    verified: true
-    hashtags: "#ad, #vanspipemasters, #sponsored, #billabongsurfcapsule"
+      🌍SPAIN 🌹|Tik Tok : @ sofiamoreno_ 💜|Twitch:sofia_surferss CANAL YOUTUBE👇🏻
+    location: "Spain"
+    followers: 1467255
+    engagement: 666
+    commentsToLikes: 0.002869
+    id: ck55kt9x201t50i11vs3fkqnh
+    verified: false
+    hashtags: "#shotforpandora, #rabannemakeup, #primarkxdisney, #foreveryonewholoveslikeamum"
 ---

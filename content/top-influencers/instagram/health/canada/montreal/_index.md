@@ -1,12 +1,84 @@
 ---
-title: Top 10 Health Instagram Influencers In Montreal In 2023
+title: Top 10 Health Instagram Influencers In Montreal In 2024
 description: >-
-  Find top health Instagram influencers in Montreal in 2023. Most popular hashtags: #montreal #canada #health.
+  Find top health Instagram influencers in Montreal in 2024. Most popular hashtags: #montreal #health #workout.
 platform: Instagram
-hits: 8
-text_top: Analyze the most popular Instagram accounts on inBeat.
-text_bottom: Our search engine has 8 Instagram influencers like this in Montreal, Canada for you to connect with.
+hits: 29
+text_top: Identify the most popular Instagram influencers on inBeat.
+text_bottom: Our platform holds 29 Instagram influencers like this in Montreal, Canada for you to contact.
 profiles:
+  - username: "cathbastien"
+    fullname: >-
+      Cath Bastien
+    bio: >-
+      Montreal📍Passionate about health, yoga & my dog. Yes I’m 5 ft tall. co host @un.ptit.talk @rise code cath french @cathbastienfr
+    location: "Canada"
+    followers: 169876
+    engagement: 90
+    commentsToLikes: 0.010038
+    id: ck5znjb01okv30i14jltdgoej
+    verified: false
+    hashtags: "#fitnessgirl, #healthy, #fitnessmotivation, #fitgirl"
+  - username: "kgmtl"
+    fullname: >-
+      Katherine Garbarino
+    bio: >-
+      founder- @girlslivingwell @kasics 👩🏽‍🤝‍👩🏻 Your virtual BFF Health & Wellness ✨Beauty & Skincare ✨Daily Tips Montreal ❤️ Miami 💌 ashley@kg-mtl.com
+    location: "Canada"
+    followers: 110323
+    engagement: 193
+    commentsToLikes: 0.039988
+    id: ck55ke17yz3wj0i11cnnamu23
+    verified: false
+    hashtags: "#trending, #matcha, #radiantskin, #gifted"
+  - username: "emmaa_studies"
+    fullname: >-
+      Emma | studygram & lifestyle 🍃
+    bio: >-
+      👩🏻‍💻Public health master student | 24 years old ✨Living my best life 📖 Study tips, daily life and more 🤍
+    location: "Canada"
+    followers: 47363
+    engagement: 115
+    commentsToLikes: 0.003643
+    id: cl83do09d1cja0i23hh2e7z7o
+    verified: false
+    hashtags: "#dayinmylifevlog, #mastersstudent, #studytips, #gradstudentlife"
+  - username: "zelatakogan"
+    fullname: >-
+      Zelata Kogan
+    bio: >-
+      Montreal (Candiac really)📍⁣⁣ Naturopathic Student N.D 🌿 Integrative Nutrition Health Coach Book a session with me (reiki or health coaching)👇🏻👇🏻
+    location: "Canada"
+    followers: 27924
+    engagement: 103
+    commentsToLikes: 0.115165
+    id: ck0w5crhg30dy0i19c333e796
+    verified: false
+    hashtags: "#lowcarb, #todaysatkins, #gifted, #atkins"
+  - username: "farahxkamal"
+    fullname: >-
+      𝗙𝗔𝗥𝗔𝗛 | 𝗙𝗔𝗦𝗛𝗜𝗢𝗡 • 𝗕𝗘𝗔𝗨𝗧𝗬 • UGC CREATOR •
+    bio: >-
+      Welcome to my mood-board ↪︎ sharing all things fashion, beauty and lifestyle♡. ✿ Collabs/pr : farahxkamal@gmail.com 📍Montreal
+    location: "Canada"
+    followers: 35176
+    engagement: 69
+    commentsToLikes: 0.000000
+    id: ckt436o1l4jtt0j23ck98kp81
+    verified: false
+    hashtags: "#springstyle, #mtlfashionbloggers, #outfitdujour, #effortlesschic"
+  - username: "sarahostiguy"
+    fullname: >-
+      Sarah Ostiguy
+    bio: >-
+      🏠 Montreal (sometimes TO + NYC) 💫 fashion is for everybody + every body 💌 sarah@hermanaagency.com 💖 style, self love, mental health ✨ swiftie ↓ links
+    location: "Canada"
+    followers: 132346
+    engagement: 70
+    commentsToLikes: 0.034272
+    id: ckn9aygu6mcr00j2349m1wa0x
+    verified: false
+    hashtags: "#movingoutbefore30, #beautyofbeing, #revolveme, #tmi"
   - username: "florencemrtl"
     fullname: >-
       FLORENCE MARTEL
@@ -18,7 +90,7 @@ profiles:
     commentsToLikes: 0.210518
     id: ckapbmk5g0gfp0i7814gcjzli
     verified: false
-    hashtags: "#modelmontreal, #montrealmoments, #montrealartist, #concoursmontreal"
+    hashtags: "#montreal, #montrealphotography, #gingermodel, #fallvibes"
   - username: "marieelysenantel"
     fullname: >-
       🌸MARIE-ELYSE
@@ -42,89 +114,17 @@ profiles:
     commentsToLikes: 0.037345
     id: ck601tcd3g4vt0i14dqtejepg
     verified: false
-    hashtags: "#workout, #judo, #boxeo, #fighter"
-  - username: "matthew.giuffrida"
+    hashtags: "#boxer, #mma, #boxinggym, #champion"
+  - username: "valtee"
     fullname: >-
-      Matthew Giuffrida
+      Valerie Tiu
     bio: >-
-      𝗣𝘂𝘁𝘁𝗶𝗻𝗴 𝘀𝗺𝗶𝗹𝗲𝘀 𝗼𝗻 𝗳𝗮𝗰𝗲𝘀 𝘀𝗶𝗻𝗰𝗲 𝟭𝟵𝟵𝟲! Tik Tok | Youtube | Facebook | Instagram •Email For Business/Collaboration Inquiries• Valentines Day Giveaway ⬇️❤️
+      🇵🇭🇨🇦 📍YYZ 🧘‍♀️ @lululemon Ambassador #thesweatlife ☁️ Curator @_softlandings_ @mosaicyogato @wearejaybird @thevillij @sweatandtonic @levelbyoxford
     location: "Canada"
-    followers: 40018
-    engagement: 301
-    commentsToLikes: 0.040931
-    id: ck6ug7d0g1ceu0j71i3rml2sf
+    followers: 3556
+    engagement: 613
+    commentsToLikes: 0.076618
+    id: cljrsl3pvvr040j085mcyqm17
     verified: false
-    hashtags: "#montreal, #laval, #mcgregor, #mtl"
-  - username: "leylaisonfire"
-    fullname: >-
-      Leyla Ghobadi
-    bio: >-
-      🇮🇷 DJ & Multidisciplinary Artist 🎨 🇨🇦 Art teacher & PHI eyebrows coming soon @leylaisonfireart for quotes & orders 🌎 I ship worldwide 🔥
-    location: "Canada"
-    followers: 20062
-    engagement: 109
-    commentsToLikes: 0.032871
-    id: ck5q0b1tb54tp0i111575i9hk
-    verified: false
-    hashtags: "#techno, #interiordesign, #collageart, #persiangirl"
-  - username: "eatingwithkirby"
-    fullname: >-
-      Kirby 🙋‍♀️ Vancouver Foodie
-    bio: >-
-      🍉 is there going to be food? Ok I'll come 🙋‍♀️ 🌿 looking for plant based inspo 🖊️ eatingwithkirby@gmail.com 📍vancouver 🇨🇦 #vancouverfoodie
-    location: "Canada"
-    followers: 30955
-    engagement: 268
-    commentsToLikes: 0.423962
-    id: ck5qcebafq4x80i11mg3l30nd
-    verified: false
-    hashtags: "#40, #fallingforsummer, #jellycake, #ad"
-  - username: "cbcnews"
-    fullname: >-
-      CBC News
-    bio: >-
-      Images through the Canadian lens curated by the team at CBC News
-    location: "Canada"
-    followers: 594518
-    engagement: 58
-    commentsToLikes: 0.053730
-    id: ck0u6mtr42gcf0i1913zojzob
-    verified: true
-    hashtags: "#cbcnews, #tokyo2020, #ontario, #canada"
-  - username: "labluesy"
-    fullname: >-
-      Kimberly Lallouz
-    bio: >-
-      ✨Travelling chef, TV host, activist & nature lover ✨ my restaurants @misspretamanger🥗 @lebirdbar🍗@restobarmonsieur🍷 @restaurantdumac🔚 @hendenmtl 🥃
-    location: "Canada"
-    followers: 36360
-    engagement: 208
-    commentsToLikes: 0.014821
-    id: ck0w4nntizhb80i19530ckwar
-    verified: true
-    hashtags: "#femalechef, #escolablues, #ottawa, #tvhost"
-  - username: "maddison.noel"
-    fullname: >-
-      Maddison | Travel & Adventure
-    bio: >-
-      HAVE THE BEST DAY EVER ▾ Encouraging you - because you’re worth it ↟ CPT + Health Coach ⋙ owner @_mylesfitness
-    location: "Canada"
-    followers: 117368
-    engagement: 327
-    commentsToLikes: 0.011174
-    id: ck15pveawztko0i19qnk287xo
-    verified: false
-    hashtags: "#travelalberta, #explorealberta, #travelnevada, #travelusa"
-  - username: "melsays"
-    fullname: >-
-      MELSAYS
-    bio: >-
-      Bilingual TV/Podcast Host | Writer 🗣✍🏻 @theoffners Productions 📺 CPT/FNS Cancer survivor 💪🏻 Mental & physical health advocate 🧠🏃🏼‍♀️
-    location: "Canada"
-    followers: 14373
-    engagement: 141
-    commentsToLikes: 0.144922
-    id: ckpn0tv8z3kfb0j235ms3mo84
-    verified: false
-    hashtags: "#snowboard, #vancouverisland, #museum, #pcr"
+    hashtags: "#yogacanada, #acroyoga, #valteeyoga, #yogaasana"
 ---

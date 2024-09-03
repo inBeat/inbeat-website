@@ -1,11 +1,11 @@
 ---
-title: Top 10 Gaming Instagram Influencers In Russia In 2023
+title: Top 10 Gaming Instagram Influencers In Russia In 2024
 description: >-
-  Find top gaming Instagram influencers in Russia in 2023. Most popular hashtags: #gaming #game #games #gamer.
+  Find top gaming Instagram influencers in Russia in 2024. Most popular hashtags: #gaming #game #csgo #pubgmobile.
 platform: Instagram
-hits: 26
-text_top: Discover the top-rated Instagram profiles on inBeat.
-text_bottom: Our platform aggregates 26 Instagram influencers like this in Russia for you to connect with.
+hits: 30
+text_top: See the top-rated Instagram accounts on inBeat.
+text_bottom: Our database aggregates 30 Instagram influencers like this in Russia for you to contact.
 profiles:
   - username: "i_chios"
     fullname: >-
@@ -19,6 +19,54 @@ profiles:
     id: ck8t85rojj7jb0j783gul8asg
     verified: false
     hashtags: "#cosplaymakeup, #cosplay, #cosplayer, #animecosplay"
+  - username: "palad1n"
+    fullname: >-
+      Andrey palad1n
+    bio: >-
+      👨🏻‍💻PC Engineer and blogger 🕹My Setup and me #PALAD1N 🛠PC Build Advice and collaboration! 📩Сотрудничество по бартеру и PC консультации в Direct!
+    location: "Russia"
+    followers: 49094
+    engagement: 826
+    commentsToLikes: 0.102221
+    id: ck13bmzxgw7ks0i19s1hkqlfe
+    verified: false
+    hashtags: "#hototools, #hotohack, #hotolife, #pcbuilds"
+  - username: "natusvincere_csgo"
+    fullname: >-
+      Natus Vincere CS:GO
+    bio: >-
+      ☝️Лучшие моменты Natus Vincere CS:GO в инстаграме 😆Отличное место, чтобы поднять настроение
+    location: "Russia"
+    followers: 32093
+    engagement: 540
+    commentsToLikes: 0.015906
+    id: ck8t19k20ux1o0j78usp85pb9
+    verified: false
+    hashtags: ""
+  - username: "esuba_eu"
+    fullname: >-
+      eSuba
+    bio: >-
+      Nejúspěšnější esport tým 🇨🇿/🇸🇰 CS:GO | LoL | Rocket League | HS | Wild Rift 🎮 #modrakrev
+    location: "Russia"
+    followers: 29518
+    engagement: 211
+    commentsToLikes: 0.014253
+    id: ck5q08n6z4s8a0i11ipkjvv5s
+    verified: false
+    hashtags: "#lolesports, #gaming, #esuba, #volby2023"
+  - username: "kaddicosplay"
+    fullname: >-
+      Kaddi 🐾
+    bio: >-
+      × Cosplaymodel and Twitch Partner ✨️ × Business E-mail: Kaddicosplay@ins.gg × from Germany 💕 × 20th April 🎉 × Russian-Kazakh
+    location: "Russia"
+    followers: 170655
+    engagement: 205
+    commentsToLikes: 2.474427
+    id: ck15s55cob9yz0i19f5sxts3b
+    verified: false
+    hashtags: "#cosplaygirl, #anyaforger, #cosplayofinstagram, #genshinshenhe"
   - username: "rgtcandy"
     fullname: >-
       Galina Zhukovskaya
@@ -55,18 +103,6 @@ profiles:
     id: ck8t18t73uu0n0j78rss4ikix
     verified: false
     hashtags: ""
-  - username: "natusvincere_csgo"
-    fullname: >-
-      Natus Vincere CS:GO
-    bio: >-
-      ☝️Лучшие моменты Natus Vincere CS:GO в инстаграме 😆Отличное место, чтобы поднять настроение 🔥Подписывайся на наш Telegram, ссылка ниже
-    location: "Russia"
-    followers: 29030
-    engagement: 674
-    commentsToLikes: 0.012463
-    id: ck8t19k20ux1o0j78usp85pb9
-    verified: false
-    hashtags: ""
   - username: "igromemch"
     fullname: >-
       💙🅣🅗🅔 💙 🅟🅞🅢🅗🅛🅨🅨 💙 🅖🅐🅜🅔🅡 💙 🅗🅔🅡🅔💙
@@ -91,40 +127,4 @@ profiles:
     id: ckapcke9v46ho0i78z8ky8yo5
     verified: false
     hashtags: "#pubgmeme, #pubgmalaysia, #pubg, #iamsoul"
-  - username: "s1mple_fanpage"
-    fullname: >-
-      🇺🇦Na'Vi.s1mple Фан-Клуб №1
-    bio: >-
-      🥇 Лучший игрок CS:GO в 2018 🥇 🥈 Топ-2 игрок CS:GO в 2019 🥈 🏅Двухкратный финалист Major’a🏅 🖤💛Сотрудничество - Директ 🖤💛
-    location: "Russia"
-    followers: 20372
-    engagement: 574
-    commentsToLikes: 0.006348
-    id: ck9wdo9fhghxi0j78btwpou9k
-    verified: false
-    hashtags: "#natusvincere, #awp, #globaloffensive, #s1mple"
-  - username: "nice.minecraft"
-    fullname: >-
-      MINECRAFT NICE PARADISE
-    bio: >-
-      Топчик со всего мира Майнкрафт 🔥 Подписывайся! Paradise for your eyes 🤩 Follow & inspire! ⠀ МОЙ СЕРВЕР / MY SERVER:
-    location: "Russia"
-    followers: 21648
-    engagement: 2349
-    commentsToLikes: 0.004246
-    id: ck8t91hxqmm7z0j78iokfs0vv
-    verified: false
-    hashtags: "#gaming, #minecraftbuildings, #minecraftideas, #minecrafthouse"
-  - username: "_brawl.stars.ukr"
-    fullname: >-
-      BRAWL STARS UKR [18k🌀20k]
-    bio: >-
-      💫МЕМЫ , АРТЫ И КОНКУРСЫ💫 💫Наш клуб : UkraineGang [#2G2COLLR]💫 💫Funny moments в Актуальном)💫 ⚡ПОДПИШИСЬ 😏♥️⚡
-    location: "Russia"
-    followers: 19338
-    engagement: 385
-    commentsToLikes: 0.040559
-    id: ck8t18sruutze0j78g978okjm
-    verified: false
-    hashtags: "#clashroyale, #mobilegame, #brawlmemes, #brawlstarsandroid"
 ---

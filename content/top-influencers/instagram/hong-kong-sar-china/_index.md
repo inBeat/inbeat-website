@@ -1,130 +1,130 @@
 ---
-title: Top 10 Instagram Influencers In Hong Kong Sar China In 2023
+title: Top 10 Instagram Influencers In Hong Kong Sar China In 2024
 description: >-
-  Find top Instagram influencers in Hong Kong Sar China in 2023. Most popular hashtags: #lisa #cosplayer #ishtercosplay.
+  Find top Instagram influencers in Hong Kong Sar China in 2024. Most popular hashtags: #workout #hkig #ootd.
 platform: Instagram
-hits: 46
-text_top: See the top-rated Instagram profiles on inBeat.
-text_bottom: Our platform has 46 Instagram influencers like this in Hong Kong SAR China for you to collaborate.
+hits: 45
+text_top: Discover the top-rated Instagram accounts on inBeat.
+text_bottom: inBeat aggregates 45 Instagram influencers like this in Hong Kong SAR China for you to collaborate.
 profiles:
-  - username: "hristov_sw"
-    fullname: >-
-      𝕯𝖆𝖓𝖎𝖊𝖑  20 yo🇧🇬
-    bio: >-
-      03.12.2018 @a_shmnv 🔒 🥈World Cup SUPER FINAL🇭🇰2019 🥇+🥈World Championship🇷🇺2019 🥇National Champion🇧🇬2020 📍YOUTUBE channel⬇️
-    location: "Hong Kong SAR China"
-    followers: 21696
-    engagement: 1990
-    commentsToLikes: 0.015246
-    id: ck13a0hyko0gd0i19gy3s8jua
-    verified: false
-    hashtags: "#beast, #world, #spfbulgaria, #workoutforlife"
-  - username: "heidilau0905"
-    fullname: >-
-      ♥ 劉海琦 Heidi Lau
-    bio: >-
-      𝑀𝑜𝒹𝑒𝓁 · 𝒦𝒪𝐿 · 𝐵𝑒𝒶𝓊𝓉𝓎 · 𝐹𝑜𝑜𝒹𝒾𝑒 💌 heidilau0905@gmail.com 🇭🇰 Hong Kong 💃🏻Height 170 #hkmodel #beautybloggers
-    location: "Hong Kong SAR China"
-    followers: 22091
-    engagement: 412
-    commentsToLikes: 0.039774
-    id: ck0uawzpudbv10i19vr8el6q5
-    verified: false
-    hashtags: "#popupstore, #lcx, #life, #dct"
   - username: "kankantai"
     fullname: >-
-      Shelley Tai
+      Shelley Tai 🇭🇰🇸🇬
     bio: >-
-      🇭🇰🇸🇬 @nutmegandclove 2019 Diageo World Class HK & Macau Bartender of the year 2019 @worldclass global finalist
+      📍 • Hong Kong • Singapore • 🥃 @nutmegandclove @lastwordsg 2019 Diageo World Class HK & Macau Bartender of the year 2019 @worldclass global finalist
     location: "Hong Kong SAR China"
-    followers: 18034
-    engagement: 610
-    commentsToLikes: 0.021286
+    followers: 20405
+    engagement: 572
+    commentsToLikes: 0.017453
     id: ck0u0hlk3tpxv0i19qafpqao7
     verified: false
-    hashtags: "#whatmakesmen, #hennessy, #hennessymyway, #dioramour"
-  - username: "blairbeebee"
+    hashtags: "#dioramour, #dior"
+  - username: "hristov_sw"
     fullname: >-
-      黃苡澄 Blair🐝
+      Daniel Hristov
     bio: >-
-      💌blairbeewong@gmail.com
+      Elite Calisthenics Athlete | Coach 4 times Calisthenics WORLD CHAMPION🏆 @gornation athlete / “HRISTOV” for 10% OFF ⬇️GET MY PROGRAMS⬇️
     location: "Hong Kong SAR China"
-    followers: 35141
-    engagement: 290
-    commentsToLikes: 0.023878
-    id: ck14kknv7pz9d0i19bcfy1kfs
+    followers: 201555
+    engagement: 505
+    commentsToLikes: 0.008135
+    id: ck13a0hyko0gd0i19gy3s8jua
     verified: false
-    hashtags: "#bye2020, #happychinesenewyear, #birhdaywishes, #pinkchristmastree"
-  - username: "jessica.hoyee"
+    hashtags: "#power, #inspiration, #sport, #workout24"
+  - username: "jack.2c"
     fullname: >-
-      ☘️陳顥怡 Jessica Chan
+      Jack Chu ｜ Hong Kong
     bio: >-
-      📈財經主播主 ⚖️股票分析師協會成員 📓東區青少年發展協會委員 🏆MAPI 2019 跨平台女神獎 👇🏻投資Tg group link👇🏻
+      🇭🇰 HongKong ©️ @sony 🚶🏻‍♂️ Flow 👨🏻‍🚀HKU | Msc - Space Science
     location: "Hong Kong SAR China"
-    followers: 21468
-    engagement: 405
-    commentsToLikes: 0.022606
-    id: ck0vy8jj12qw60i19ppqb1c1z
+    followers: 6206
+    engagement: 471
+    commentsToLikes: 0.028189
+    id: ck0tv9jtkag8z0i19250v071f
     verified: false
-    hashtags: "#kiplinghk, #kiplinglivelight, #riri, #blue"
-  - username: "swtttt_"
-    fullname: >-
-      🧡𝐸𝐿𝐿𝐼𝐸 🍉
-    bio: >-
-      | 𝐇𝐊 🇭🇰 | ♊️ | 📸 | 廢青蛙🦖｜ 📨 𝐬𝐰𝐭𝐬𝐰𝐭𝐭𝐬𝐰𝐭𝐭𝐭𝐬𝐰𝐭𝐭𝐭𝐭@𝐠𝐦𝐚𝐢𝐥.𝐜𝐨𝐦
-    location: "Hong Kong SAR China"
-    followers: 39051
-    engagement: 319
-    commentsToLikes: 0.013975
-    id: ck13b9cfyucis0i1902xohhaa
-    verified: false
-    hashtags: "#aexme, #americaneaglehk, #tstexmas2020, #ownthemoment"
-  - username: "giiovo"
-    fullname: >-
-      ᴳᴵᴵᴼⱽᴼ
-    bio: >-
-      🇭🇰🇬🇧
-    location: "Hong Kong SAR China"
-    followers: 15566
-    engagement: 625
-    commentsToLikes: 0.012302
-    id: ck0vwn8obumx50i19lh1smjb0
-    verified: false
-    hashtags: "#jisoo, #blackpink, #kdance, #kpopdancecover"
+    hashtags: "#voyaged, #winalpha7c, #beautifuldestinations, #bealpha"
   - username: "manthachan"
     fullname: >-
-      ᴍ ᴀ ɴ ᴛ ʜ ᴀ   ᴄ ʜ ᴀ ɴ
+      Mantha Chan 🤎
     bio: >-
-      💛 ꜰ ᴏ ᴜ ɴ ᴅ ᴇ ʀ ᴏ ꜰ @dear.mm 🏄🏻‍♀️ ᴡ ᴀ ᴋ ᴇ ꜱ ᴜ ʀ ꜰ ᴇ ʀ﻿ 🐾 ᴅ ᴏ ɢ ʟ ᴏ ᴠ ᴇ ʀ ﻿ 🇭🇰 ʜ ᴏ ɴ ɢ ᴋ ᴏ ɴ ɢ
+      // 𝘉𝘦𝘢𝘶𝘵𝘺 // 𝘓𝘪𝘧𝘦𝘴𝘵𝘺𝘭𝘦 // 𝘛𝘳𝘢𝘷𝘦𝘭 // 🌼 𝘞𝘢𝘳𝘥𝘳𝘰𝘣𝘦 @dear.mm 📍 𝘏𝘰𝘯𝘨 𝘒𝘰𝘯𝘨
     location: "Hong Kong SAR China"
-    followers: 21477
-    engagement: 272
-    commentsToLikes: 0.024272
+    followers: 21810
+    engagement: 284
+    commentsToLikes: 0.023554
     id: ck15tkshgik5p0i19ibrk18br
     verified: false
-    hashtags: "#mullitover, #advancednightrepair, #5g, #jamieson"
-  - username: "wawaclarawong"
+    hashtags: "#04, #lovephilosophy, #ghdpink, #b20"
+  - username: "tiff.tsoi"
     fullname: >-
-      Be a Stronger Clara🌻
+      𝓣𝓲𝓯𝓯  𝓣𝓼𝓸𝓲
     bio: >-
-      Bikini Fitness🇭🇰 一對一私人教練📨 @teamjoined clara05 @Pogocbd.us CLARA CBD @rankingdakhk clarawong20/clarawong30 @mealthy_food Clara10 @bcshop_hk Athlete
+      🇭🇰 ʜᴏɴɢ ᴋᴏɴɢ | ᴀǫᴜᴀʀɪᴜs | 🐱@gulu.mochi 📩 ᴅᴍ / ᴛɪғғᴛsᴏɪ0131@ɢᴍᴀɪʟ.ᴄᴏᴍ 📹 ʏᴏᴜᴛᴜʙᴇ: ᴛɪғғ ᴛsᴏɪ 🍿️YouTube新片🔥6個女仔去曼谷🇹🇭 ⬇️
     location: "Hong Kong SAR China"
-    followers: 20052
-    engagement: 478
-    commentsToLikes: 0.019426
-    id: ck14jb4a9jg370i19k300mpm4
+    followers: 59603
+    engagement: 273
+    commentsToLikes: 0.013873
+    id: ck0ub24cedknk0i191xi7rw68
     verified: false
-    hashtags: "#workhardpaysoff, #teamjoinedwomen, #beastrongerclara, #dreamcometrue"
-  - username: "miyabi_yume"
+    hashtags: "#onehome, #linkinbio, #samsung, #hkhandmade"
+  - username: "jumbotsang"
     fullname: >-
-      Miyabi紫雅＊夢の國度
+      jumbo tsang曾淑雅
     bio: >-
-      高冷傲嬌系貓女(｡ì ω í｡)✨ 🇭🇰 HK cosplayer | Miyabi Yume 📣小雅路線🔜 24/7 ACG 🗂工商可聯繫page信箱/DM ⚠️不接任何私影！🚫 🎀Welcome to follow‼️ 📬FB page+Twitter✨👉🏻Miyabiloveyume 👇🏻
+      Be true be yourself♌️🦁 ❤️Simple.Life👧🏻🏠🐶⛰🏃🏻‍♀️ 🇭🇰Artist 🧘🏻‍♀️Pilates matwork instructor Job enquiry🌟 Shun : 9377 7618 ⬇️合歡山hike⛰Vlog
     location: "Hong Kong SAR China"
-    followers: 22337
+    followers: 558160
     engagement: 234
-    commentsToLikes: 0.019693
-    id: ck136m7mq76dt0i19mw5n3brc
+    commentsToLikes: 0.009823
+    id: ck15tz0y3klsp0i19vdjuwbmx
     verified: false
-    hashtags: "#cosplayer, #nekogirl, #selfies, #selfie"
+    hashtags: "#mumtobe, #maternityphotography, #maternityportrait, #maternity"
+  - username: "alexto"
+    fullname: >-
+      Alex To
+    bio: >-
+      Hong Kong CHINA 🇭🇰 Owner of Samoyed boy, Coby and Shiba Inu girl, Aki. Live in the moment, respect life🙏, love animals❤️.
+    location: "Hong Kong SAR China"
+    followers: 62796
+    engagement: 304
+    commentsToLikes: 0.006164
+    id: ck139iq84li8a0i19t6oi03nh
+    verified: false
+    hashtags: ""
+  - username: "keithleefitness"
+    fullname: >-
+      Keith Lee 李浩泓
+    bio: >-
+      Lawyer Gym Co-Founder @twopercentfitness Contact: lhw.keith@gmail.com Email / DM for personal training / collaboration
+    location: "Hong Kong SAR China"
+    followers: 103820
+    engagement: 162
+    commentsToLikes: 0.009705
+    id: ck0txxzkdky0t0i199t3j77bc
+    verified: false
+    hashtags: "#hkfoodie, #ootd, #jkthetwopercenters, #fitfam"
+  - username: "mayaoo"
+    fullname: >-
+      馬天佑
+    bio: >-
+      @fameglory @musetv_hk @fashionfarmfoundation @gymtown_fitness dm to collab
+    location: "Hong Kong SAR China"
+    followers: 228637
+    engagement: 73
+    commentsToLikes: 0.003291
+    id: ck14ge5iy4rhl0i190nisgwgr
+    verified: true
+    hashtags: "#miumiu, #donjuliohk, #ferragamofw23, #gentlehighschool"
+  - username: "hkfoodie_yum"
+    fullname: >-
+      Foodieyum伏迪音
+    bio: >-
+      🔹Foodaholic🇭🇰 🔹Food + Lifestyle + Travel💕 🔹since April 2️⃣0️⃣1️⃣5️⃣ 📩: hkfoodieyum@gmail.com// IG DM
+    location: "Hong Kong SAR China"
+    followers: 25875
+    engagement: 65
+    commentsToLikes: 0.009791
+    id: ck0vwkij5u91j0i19ygi95wzi
+    verified: false
+    hashtags: "#foodieyum"
 ---

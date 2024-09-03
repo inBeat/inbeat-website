@@ -1,11 +1,11 @@
 ---
-title: Top 10 Travel TikTok Influencers In Dallas In 2023
+title: Top 10 Travel TikTok Influencers In Dallas In 2024
 description: >-
-  Find top travel TikTok influencers in Dallas in 2023. Most popular hashtags: #fyp #dallas #travel #foryou.
+  Find top travel TikTok influencers in Dallas in 2024. Most popular hashtags: #fyp #travel #dallas #foryou.
 platform: TikTok
 hits: 40
-text_top: Discover the best TikTok influencers on inBeat.
-text_bottom: inBeat aggregates 40 TikTok influencers like this in Dallas, United States for you to work with.
+text_top: Identify the most popular TikTok influencers on inBeat.
+text_bottom: Our database holds 40 TikTok influencers like this in Dallas, United States for you to pitch.
 profiles:
   - username: "laceyeloisa"
     fullname: >-
@@ -31,18 +31,6 @@ profiles:
     id: ckbw4wzayxsv00j23s3pvp01g
     verified: false
     hashtags: "#beer, #buschlight, #horse, #fyp"
-  - username: "jatsiveh"
-    fullname: >-
-      Jatsive
-    bio: >-
-      Living life at 35,000ft✈️✈️✈️ Views are my own not my employers
-    location: "United States"
-    followers: 110500
-    engagement: 1051
-    commentsToLikes: 0.016178
-    id: ckbqu63cheoje0j231lqlmjf6
-    verified: false
-    hashtags: "#foryou, #traveltiktok, #fy, #travel"
   - username: "morgansargentt"
     fullname: >-
       morgan
@@ -55,18 +43,18 @@ profiles:
     id: ckb9cr02bzpwy0j23evlih9aq
     verified: false
     hashtags: "#fyp, #greenscreen, #interview, #4u"
-  - username: "littlemixico"
+  - username: "jatsiveh"
     fullname: >-
-      Dani Rios
+      Jatsive
     bio: >-
-      CDMX + Dallas My kinda boujee life IG @littlemixico Day In My Life Vlog👇🏼
+      Living life at 35,000ft✈️✈️✈️ Views are my own not my employers
     location: "United States"
-    followers: 174900
-    engagement: 850
-    commentsToLikes: 0.014491
-    id: ckav66pvjcvsu0j23vk6tjocs
+    followers: 110500
+    engagement: 1051
+    commentsToLikes: 0.016178
+    id: ckbqu63cheoje0j231lqlmjf6
     verified: false
-    hashtags: "#fyp, #beautyguru, #mexicana, #oaxaca"
+    hashtags: "#joblife, #travel, #cabincrewlife, #aviation"
   - username: "alcocercarlos"
     fullname: >-
       Cadillac Los
@@ -114,17 +102,29 @@ profiles:
     commentsToLikes: 0.015448
     id: ck9r4pppvw3w40j78eaqb58ui
     verified: false
-    hashtags: "#stayhome, #travel, #fyp, #quarantine"
-  - username: "amberleybradleyy"
+    hashtags: "#fyp, #quarantine, #realestate, #sunset"
+  - username: "evanmbeaver"
     fullname: >-
-      Amberley Bradley
+      Evan Beaver
     bio: >-
-      Texas gal ☆ let’s be friends Insta: @amberleybradley
+      Pilot Dallas, TX 20
     location: "United States"
-    followers: 267000
-    engagement: 1803
-    commentsToLikes: 0.023856
-    id: ck83zu6y833xu0j78tcehhm6f
+    followers: 3144
+    engagement: 1181
+    commentsToLikes: 0.041096
+    id: cka84qwmmuyer0i78ap0c5ujo
     verified: false
-    hashtags: "#dallastx, #stitch, #love, #teacher"
+    hashtags: "#pilot, #cessna, #nonrev, #fyp"
+  - username: "7ven11ven_"
+    fullname: >-
+      DREAMRR
+    bio: >-
+      I get to do hella cool stuff. Travel Supercars Race cars
+    location: "United States"
+    followers: 21600
+    engagement: 975
+    commentsToLikes: 0.036802
+    id: ck9v18bzpfzpm0j7825dqfovc
+    verified: false
+    hashtags: "#mx, #jeeplife, #snowstorm, #488gtb"
 ---

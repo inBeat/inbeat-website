@@ -1,48 +1,108 @@
 ---
-title: Top 10 Mothers Instagram Influencers In Berlin In 2023
+title: Top 10 Mothers Instagram Influencers In Berlin In 2024
 description: >-
-  Find top mothers Instagram influencers in Berlin in 2023. Most popular hashtags: #berlin #love #family #happy.
+  Find top mothers Instagram influencers in Berlin in 2024. Most popular hashtags: #berlin #love #happy #fashion.
 platform: Instagram
-hits: 21
-text_top: See the top-rated Instagram influencers on inBeat.
-text_bottom: inBeat aggregates 21 Instagram influencers like this in Berlin, Germany for you to pitch.
+hits: 33
+text_top: See the most popular Instagram profiles on inBeat.
+text_bottom: Our database aggregates 33 Instagram influencers like this in Berlin, Germany for you to connect with.
 profiles:
-  - username: "tayganegehankaplan64"
+  - username: "ssena_53"
     fullname: >-
-      Taygan Kaplan T E K 64
+      S E N A
     bio: >-
-      Name: @tayganegehankaplan64 👦🏻 Profession: Youth Soccer Player DSC99 ⚽️ official account 🥅 #tek64 Tiger 🐅🧿 #düsseldorf #ratingen #uerdingen #uşak
+      @mihsinefe ♡ | 🔜 👩🏽‍🏫 📥 collab.sena53@gmail.com
     location: "Germany"
-    followers: 2783
-    engagement: 827
-    commentsToLikes: 0.105543
-    id: ck9wej65nkias0j783qlt3lwc
+    followers: 92494
+    engagement: 10025
+    commentsToLikes: 0.026331
+    id: clmq0asdm469c0j08val5l6b3
     verified: false
-    hashtags: "#ratingen, #akita, #akitainu, #ag"
-  - username: "reissmannevelyn"
+    hashtags: "#hennainspire, #makeup, #kina, #henna"
+  - username: "jeanusch_"
     fullname: >-
-      Evelyn Reißmann
+      Jeannine langen
     bio: >-
-      Bestagermodel 🙋‍♀️ Miss50plusgermany 2019 Mother👩‍❤️‍👩
+      𝙱𝚎𝚊𝚞𝚝𝚢 ★ 𝙼𝚘𝚖𝚕𝚒𝚏𝚎, 𝙻𝚒𝚏𝚎𝚜𝚝𝚢𝚕𝚎 ★ 𝙵𝚊𝚜𝚑𝚒𝚘𝚗 ★ ↠ Berlin 💌 business & inqueries: info@riegel-management.de ↠ always K♥️💍 ↠ MIA ♡ ⚜️ CHOGAN Duftliste per DM
     location: "Germany"
-    followers: 39223
-    engagement: 887
-    commentsToLikes: 0.066961
-    id: ck8t26tg1yctg0j78wfmfyfpy
+    followers: 37119
+    engagement: 103
+    commentsToLikes: 0.013582
+    id: clny2taha1btn0j08xzu8wby5
     verified: false
-    hashtags: "#agelesswomen, #bestagermodel50plus, #valentinstag, #woman"
-  - username: "iamfabsi"
+    hashtags: "#holidays, #woman, #titanichotel, #summer"
+  - username: "corinnezhh_family"
     fullname: >-
-      Fabsi Berlin Blogger
+      🌸Corinne🌸
     bio: >-
-      Ironie und schlechter Humor sind Programm 21 jahre alt Mother of Zuckerpüppchen Founder @vandalize.de Impressum:
+      𝙵𝚊𝚖𝚒𝚕𝚢/ 𝙼𝚘𝚖𝚕𝚒𝚏𝚎/ 𝙱𝚞𝚜𝚒𝚗𝚎𝚜𝚜 🌸 Chogan - Network Marketing 🌸 chogan@bluewin.ch 🌸 Bestellung per DM 🌸 Paypal / Twint / Überweisung
     location: "Germany"
-    followers: 91989
-    engagement: 1070
-    commentsToLikes: 0.020063
-    id: ck134yy6fyvhz0i19armuwlzq
+    followers: 10834
+    engagement: 752
+    commentsToLikes: 0.008823
+    id: ck55oao927z6k0i11tjtwmbj4
     verified: false
-    hashtags: "#myuntoldstory, #pride, #gapxzalando, #beigeaesthetic"
+    hashtags: "#familie, #mutter, #liebe, #happy"
+  - username: "daliaskitchen"
+    fullname: >-
+      Dalia  داليا
+    bio: >-
+      daughter of immigrants, mother of dragons travelling chef & cookbook author @harpersbazaararabia food editor
+    location: "Germany"
+    followers: 154206
+    engagement: 628
+    commentsToLikes: 0.031777
+    id: ck6tr9s4axqx20j71vbkgq6gi
+    verified: true
+    hashtags: "#morocco, #berlin"
+  - username: "gesine_cukrowski"
+    fullname: >-
+      Gesine Cukrowski
+    bio: >-
+      Mother | Actress | Activist | Auf YouTube: #piaundgesine 👭@schlag_agentur @welthungerhilfe
+    location: "Germany"
+    followers: 21840
+    engagement: 621
+    commentsToLikes: 0.071545
+    id: clo6b7oiswmhk0j08bthvic86
+    verified: false
+    hashtags: "#gesinecukrowski, #repost, #sichtbarkeit47plus, #letschangethepicture"
+  - username: "mariavschimanski"
+    fullname: >-
+      Maria Schimanski
+    bio: >-
+      tiktok: mariavschi mother tongue: sign language ma: @modelwerk @thesynergybymw booking: sylvia@modelwerk.de
+    location: "Germany"
+    followers: 108953
+    engagement: 287
+    commentsToLikes: 0.002511
+    id: cl9ktuq83j94r0i23yedwi6tg
+    verified: false
+    hashtags: "#girls, #fashion, #love, #sport"
+  - username: "new2berlin"
+    fullname: >-
+      FAMILY | FASHION | INTERIOR | LIFESTYLE
+    bio: >-
+      ABOUT LIFE 40+ 🤍 3 Kids 📍 Berlin ✉️ DM für IG Coaching & Workshops
+    location: "Germany"
+    followers: 38027
+    engagement: 226
+    commentsToLikes: 0.098230
+    id: ck0tvttp3craf0i195wq4h7yh
+    verified: false
+    hashtags: "#sommermode, #sommeroutfit, #reisenmitkindern, #ootd"
+  - username: "eggersandrea"
+    fullname: >-
+      Andrea Eggers
+    bio: >-
+      • Fashion | Beauty | Travel • Ü50 Model | Germany • Mediakit -> Mail or DM • Mother of @eddaophelia @writtenbyalmaeggers
+    location: "Germany"
+    followers: 112798
+    engagement: 26
+    commentsToLikes: 0.041743
+    id: ck15sbunac7zz0i19jk3d4edk
+    verified: false
+    hashtags: "#ootd, #autumnlook, #streetphotography, #styleover40"
   - username: "rafaellanussbaum"
     fullname: >-
       Rafaella Nussbaum💥
@@ -66,65 +126,5 @@ profiles:
     commentsToLikes: 0.033702
     id: ck55nh4qz67dr0i11k9yoo5xv
     verified: true
-    hashtags: "#nature, #mindfulliving, #summer, #lovemyjob"
-  - username: "sylvia_walker"
-    fullname: >-
-      Sylvia Walker
-    bio: >-
-      👉TV Moderatorin|Sport|Mother of 👧🏼 and 2🐶 📩 k.biermann@signumpr.de Social Media 📧hello@sylviawalker.de 👍http://bit.ly/SylviasShowreel
-    location: "Germany"
-    followers: 95089
-    engagement: 203
-    commentsToLikes: 0.031573
-    id: ck5hm963flj370i11v9wjgfqw
-    verified: true
-    hashtags: "#sylviawalker, #besttime, #vacation, #croatia"
-  - username: "dana200701"
-    fullname: >-
-      Dana
-    bio: >-
-      von Berlin 🇩🇪 nach Bern🇨🇭 Mutzi🐱unvergessen🌈❤️ Bruna🐶❤️
-    location: "Germany"
-    followers: 2272
-    engagement: 2271
-    commentsToLikes: 0.328386
-    id: ck55q9mizcjd30i11bffxgpil
-    verified: false
-    hashtags: "#freitag, #schmeckt, #tierliebe, #leckerschmecker"
-  - username: "bonnie.the.bullweiler"
-    fullname: >-
-      Bonnie
-    bio: >-
-      🐶 Rottweiler - American Bulldog 🎂 21. November 2017 📍 Leipzig 📸 Sony Alpha Bonnie-10: 10% bei @pache_berlin
-    location: "Germany"
-    followers: 4493
-    engagement: 522
-    commentsToLikes: 0.091060
-    id: ck0u7drrv4jzi0i19q8f89zk2
-    verified: false
-    hashtags: "#herzenshund, #sonyalpha6000, #petfluencer, #pacheberlin"
-  - username: "j.lamotta.suzume"
-    fullname: >-
-      Suzume
-    bio: >-
-      אר אנד בי בעברית? סינגל ראשון כבר בחוץ! האזינו לשיר החדש שלי ״לנשום את זה״ My first single in my mother-tongue “Breathe It” is OUT NOW🔥
-    location: "Germany"
-    followers: 9381
-    engagement: 610
-    commentsToLikes: 0.040587
-    id: ck14ite1mh2s70i19821vrmpl
-    verified: false
-    hashtags: "#new, #dancers, #jlamotta, #musicvideo"
-  - username: "zianiarubi"
-    fullname: >-
-      𝐙𝐈𝐀𝐍𝐈𝐀 𝐑𝐔𝐁𝐈
-    bio: >-
-      •𝙵𝚊𝚖𝚒𝚕𝚢 𝚏𝚒𝚛𝚜𝚝 •𝙿𝚛𝚎𝚐𝚗𝚊𝚗𝚝 𝚠𝚒𝚝𝚑 𝙱𝚊𝚋𝚢 𝙽𝚘. 𝟸 ✎ 𝙶𝚎𝚛𝚖𝚊𝚗, 𝚜𝚙𝚊𝚗𝚒𝚜𝚑, 𝚎𝚗𝚐𝚕𝚒𝚜𝚑 𝙴-𝙼𝚊𝚒𝚕 𝚏𝚘𝚛 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚒𝚘𝚗𝚜
-    location: "Germany"
-    followers: 43889
-    engagement: 525
-    commentsToLikes: 0.024985
-    id: ck0w75zs9bxid0i19rs77zqzn
-    verified: false
-    hashtags: "#bigsister, #eltern, #newborn, #baby"
+    hashtags: "#mindfulness, #mindfulliving, #summer, #weather"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Comedians TikTok Influencers In Toronto In 2023
+title: Top 10 Comedians TikTok Influencers In Toronto In 2024
 description: >-
-  Find top comedians TikTok influencers in Toronto in 2023. Most popular hashtags: #comedy #toronto #canada #fyp.
+  Find top comedians TikTok influencers in Toronto in 2024. Most popular hashtags: #comedy #toronto #canada #fyp.
 platform: TikTok
 hits: 7
-text_top: See the best TikTok accounts on inBeat.
-text_bottom: inBeat holds 7 TikTok influencers like this in Toronto, Canada for you to work with.
+text_top: Discover the best TikTok accounts on inBeat.
+text_bottom: inBeat aggregates 7 TikTok influencers like this in Toronto, Canada for you to pitch.
 profiles:
   - username: "sicko2005"
     fullname: >-
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.009470
     id: ck9a64s9i1njz0j78nijs4gdr
     verified: false
-    hashtags: "#goldenretriever, #dogsoftiktok, #cute, #sillydog"
+    hashtags: "#sillydog, #cute, #goldenretriever, #dogsoftiktok"
   - username: "cringekev"
     fullname: >-
       Cringe Kev
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.036334
     id: ck90r2c2kktgx0j78fv2tcwgq
     verified: false
-    hashtags: "#america, #toronto, #republican, #fyp"
+    hashtags: "#standupcomedy, #comedy, #democrat, #republican"
   - username: "funnyarmenian"
     fullname: >-
       FunnyArmenian
@@ -54,7 +54,7 @@ profiles:
     commentsToLikes: 0.115505
     id: ckdhnub6q0q5u0j23n3jteg0w
     verified: false
-    hashtags: "#armenianmom, #armenian, #armos, #lebanese"
+    hashtags: "#armo, #arab, #armenianmom, #armenian"
   - username: "therealjohnpasha"
     fullname: >-
       Ｊｏｈｎ   Ｐａｓｈａ
@@ -126,5 +126,5 @@ profiles:
     commentsToLikes: 0.044238
     id: ckahyj8plzkhj0i7833fnclib
     verified: false
-    hashtags: "#comedy, #joke, #goofy, #funny"
+    hashtags: "#silly, #funny, #hair, #goofy"
 ---

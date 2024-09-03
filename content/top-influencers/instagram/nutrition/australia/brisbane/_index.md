@@ -1,11 +1,11 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In Brisbane In 2023
+title: Top 10 Nutrition Instagram Influencers In Brisbane In 2024
 description: >-
-  Find top nutrition Instagram influencers in Brisbane in 2023. Most popular hashtags: #fitness #health #fitnessmotivation #brisbane.
+  Find top nutrition Instagram influencers in Brisbane in 2024. Most popular hashtags: #brisbane #fitness #fitnessmotivation #nutrition.
 platform: Instagram
-hits: 10
-text_top: See the best Instagram accounts on inBeat.
-text_bottom: Our search engine holds 10 Instagram influencers like this in Brisbane, Australia for you to connect with.
+hits: 13
+text_top: Analyze the top-rated Instagram influencers on inBeat.
+text_bottom: inBeat holds 13 Instagram influencers like this in Brisbane, Australia for you to connect with.
 profiles:
   - username: "raimeeleigh.fitfood"
     fullname: >-
@@ -43,6 +43,18 @@ profiles:
     id: ck15sjsfvdd2y0i19ktzuvwgz
     verified: false
     hashtags: "#calories, #powerlifting, #brisbane, #diet"
+  - username: "megsutherland"
+    fullname: >-
+      MEG MARTIN
+    bio: >-
+      HYBRID | Hyrox Worlds 2024 ⚡️ @thisism3ga | @themegarun 🏃🏽‍♀️ HYROX & Run Programs @trainedtogosquad 📚 B. Exercise & Nutrition Sciences † Phil 4:13
+    location: "Australia"
+    followers: 57502
+    engagement: 200
+    commentsToLikes: 0.029089
+    id: ck55ixysrvr1d0i11rs98sxhg
+    verified: false
+    hashtags: "#discipline, #fitnessmotivation, #healthandfitness, #motivation"
   - username: "jennybeeen"
     fullname: >-
       Jenny Blenk | Content Creator
@@ -54,7 +66,7 @@ profiles:
     commentsToLikes: 0.205182
     id: ck5honakipv940i114q4oggvy
     verified: false
-    hashtags: "#ootd, #goldcoast, #fashiondiares, #health"
+    hashtags: "#healthylifestyle, #streetstyleluxe, #lifestyle, #australia"
   - username: "whatsnextjake"
     fullname: >-
       J.A.K.E
@@ -67,30 +79,6 @@ profiles:
     id: ck5zkcsocj8qh0i14r9ic6ynp
     verified: false
     hashtags: "#rawvegan, #fitnessmotivation, #movestowin, #veganfood"
-  - username: "kate.the.vet"
-    fullname: >-
-      DR KATE BRUCE
-    bio: >-
-      #Veterinarian at a specialist hospital in Brisbane, Australia 🐾 ⇢ @pigeonhousereno ⇢ drkatebruce@gmail.com ⇢ http://drkate.vet/
-    location: "Australia"
-    followers: 34227
-    engagement: 403
-    commentsToLikes: 0.028153
-    id: ckaox4jb7br3q0i783jwrq2c2
-    verified: false
-    hashtags: "#vetnurse, #vet, #selfie, #cutepuppy"
-  - username: "megsutherland"
-    fullname: >-
-      MEG SUTHERLAND
-    bio: >-
-      🏃🏽‍♀️ @themegarun 🦈 GYMSHARK Athlete 💪🏼 Personal Trainer @actvstrengthco 🌿 B. Exercise & Nutrition Sciences ✨ Tik Tok: megsutherlandd
-    location: "Australia"
-    followers: 27816
-    engagement: 550
-    commentsToLikes: 0.019446
-    id: ck55ixysrvr1d0i11rs98sxhg
-    verified: false
-    hashtags: "#healthylifestyle, #fitgirls, #handstand, #gymnastics"
   - username: "jess_treloar"
     fullname: >-
       J ＥＳＳＩＥ   ＴＲＥＬＯＡ R
@@ -103,28 +91,40 @@ profiles:
     id: ck0tvnxgac3230i19d92kh66l
     verified: false
     hashtags: "#birthday, #photography, #portraitphotography, #fitnessmotivation"
-  - username: "dani_byrnes"
+  - username: "lalasplate"
     fullname: >-
-      Dani
+      Lara De Bruyne
     bio: >-
-      Mum to Jordy & Max 👶🏼🐶 Content Creator for brands Daily life in Stories | work with me 👇 📧 info@daniellebyrnes.com.au
+      22 | 🇦🇺 / 🇧🇪 i like to make food & travel
     location: "Australia"
-    followers: 22980
-    engagement: 136
-    commentsToLikes: 0.094239
+    followers: 47674
+    engagement: 242
+    commentsToLikes: 0.013457
+    id: ck15tte3pjswb0i19uj4bboe5
+    verified: false
+    hashtags: "#healthyrecipes, #healthybreakfast, #healthyfood, #breakfastideas"
+  - username: "anna.davey"
+    fullname: >-
+      Anna Davey
+    bio: >-
+      Personal Trainer 🇦🇺 Certified in BFR YouTuber Online Climbing Coach @myproteinau Code ANNADAVEY @scarpa_australia @rocktapeaustralia @monkey.hands
+    location: "Australia"
+    followers: 112125
+    engagement: 219
+    commentsToLikes: 0.034884
+    id: ck55n54mi5hx70i117e9jf9yz
+    verified: false
+    hashtags: "#climbing, #fitnessreels, #bouldern, #reels"
+  - username: "_danislade_"
+    fullname: >-
+      D A N I E L L E
+    bio: >-
+      wife + aussie mama x 2 👨🏻👦👶🏼🐶 fam. fitness. lifestyle + me 📍Gold Coast
+    location: "Australia"
+    followers: 21979
+    engagement: 100
+    commentsToLikes: 0.079684
     id: ck8wggdjghb370j78993mys1i
     verified: false
-    hashtags: "#airliebeach, #queensland, #northqueensland, #brisbane"
-  - username: "eddiejowilliams"
-    fullname: >-
-      Eddie Williams
-    bio: >-
-      SINGING STRONGMAN 🏆 2 x Australia’s Strongest Man 17,18 🏆 SH STRONGEST MAN ✝️ SAVED @kindafitkindafat_apparel Get 10% off use my code: CHUBZ
-    location: "Australia"
-    followers: 53470
-    engagement: 180
-    commentsToLikes: 0.021084
-    id: ck135pai02k1s0i197qafhsmy
-    verified: false
-    hashtags: "#lol, #instafit, #weightlifting, #ipf"
+    hashtags: "#northqueensland, #airliebeach, #queensland, #babyonaplane"
 ---

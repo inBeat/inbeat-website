@@ -1,11 +1,11 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Bali In 2023
+title: Top 10 Beauty Instagram Influencers In Bali In 2024
 description: >-
-  Find top beauty Instagram influencers in Bali in 2023. Most popular hashtags: #bali #beauty #balilife.
+  Find top beauty Instagram influencers in Bali in 2024. Most popular hashtags: #bali #beauty #indonesia.
 platform: Instagram
-hits: 110
-text_top: Analyze the most popular Instagram accounts on inBeat.
-text_bottom: Our platform has 110 Instagram influencers like this in Bali, Indonesia for you to contact.
+hits: 130
+text_top: See the most popular Instagram influencers on inBeat.
+text_bottom: Our platform holds 130 Instagram influencers like this in Bali, Indonesia for you to collaborate.
 profiles:
   - username: "nindypricilia"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.008867
     id: ckf5n443hwnvy0j23xdzcol5h
     verified: false
-    hashtags: "#kebayabali, #repost, #bornpinkworldtour, #bali"
+    hashtags: "#bornpinkworldtour, #bornpinkworldtourbangkok, #bisadiatur, #repost"
   - username: "sarikayana_wedding"
     fullname: >-
       Sarikayana Wedding Organizer
@@ -31,100 +31,100 @@ profiles:
     id: ck5bzrjb8rplh0i11o7dbrbvv
     verified: false
     hashtags: "#salondibali, #muabali, #makeupbali, #fiting"
-  - username: "ikasanz"
-    fullname: >-
-      Ikasanz Yoe ♠️
-    bio: >-
-      ●》INFLUENCER《● [ Fitness Enthusiast , Beauty & Healthy Lifestyle ] ENDORSE // COLLABS DM 💌 https://affiliate.shopee.co.id/ 📍 BALI 🥥🌴
-    location: "Indonesia"
-    followers: 53312
-    engagement: 224
-    commentsToLikes: 0.142564
-    id: ck9wgk1f5trp10j78o2ldtyun
-    verified: false
-    hashtags: "#balivibes, #fitnessmom, #styleblogger, #balibible"
-  - username: "gekanikesnawa_"
-    fullname: >-
-      m s.   G E K✨
-    bio: >-
-      “a dreamer with a million symphony in her mind”
-    location: "Indonesia"
-    followers: 3254
-    engagement: 1462
-    commentsToLikes: 0.035450
-    id: ck13cx75w2ltp0i19otxp81hs
-    verified: false
-    hashtags: "#bali, #baliisland, #kintamani, #balitravel"
-  - username: "alffy_rev"
-    fullname: >-
-      Awwalur Rizqi Al-firori
-    bio: >-
-      Music & Visual Story Teller Head of @rev.production | @rev_apparel.id | @rumahsenjapagi Business Contact - 0821-4361-9691 Beauty Of Bali 👇🏻
-    location: "Indonesia"
-    followers: 756413
-    engagement: 428
-    commentsToLikes: 0.007790
-    id: ck0w6t66ja6n60i19fj3fuj18
-    verified: true
-    hashtags: "#iceperience, #dirumahaja, #novation, #alffyrev"
-  - username: "aliissyandewi"
-    fullname: >-
-      𝒩𝒾 𝓂𝒶𝒹𝑒 𝒶𝓁𝒾𝓈𝓈𝓎𝒶𝓃 𝒹𝑒𝓌𝒾 ✨🌈🌹
-    bio: >-
-      ♉||18✨🦋 🚩BALI @satucwofixs
-    location: "Indonesia"
-    followers: 33834
-    engagement: 420
-    commentsToLikes: 0.016667
-    id: ckaozs3ivn5qr0i78k6h2hbt1
-    verified: false
-    hashtags: "#nailart, #moveonchallenge, #eyelashextensions, #balinews"
-  - username: "kd233_"
-    fullname: >-
-      🦋
-    bio: >-
-      @shirta.skin @shirta.beautybar @beauty_bykdijah @shirtaofficial_bali Order / Daftar Reseller : ‪+62 853‑4155‑6029‬ WA
-    location: "Indonesia"
-    followers: 22440
-    engagement: 811
-    commentsToLikes: 0.005300
-    id: ck9wgmjs1u0iy0j78j3xbe1yf
-    verified: false
-    hashtags: "#22birthday"
-  - username: "cindythefannie"
-    fullname: >-
-      Cindy Thyssen
-    bio: >-
-      Wife, Content Creator-Beauty & Lifestyle 📍Bali @thethyssen Business 📞Jeff +62 817‑9844‑055‬ endorsement line@cindythefannie cindythefannie2@gmail.com
-    location: "Indonesia"
-    followers: 116639
-    engagement: 307
-    commentsToLikes: 0.022653
-    id: ck13a88d5p40o0i19t6lmj43d
-    verified: true
-    hashtags: "#seodalmi, #12weekspregnant, #startup, #baliindonesia"
   - username: "aryasanjaya20"
     fullname: >-
       arya sanjaya
     bio: >-
-      Line : arya20 📷 🎥📱👓 #photographer #photographerbali Owner AA Photography - @aa_baliphotography @lidahpedasbali_
+      Co-Owner & CEO of @aa_baliphotography Line : arya20 📷 🎥📱👓 #aaphotography #photographerbali Owner AA Photography @lidahpedasbali_
     location: "Indonesia"
-    followers: 10469
-    engagement: 675
-    commentsToLikes: 0.003106
+    followers: 10090
+    engagement: 371
+    commentsToLikes: 0.010485
     id: ck6tqu9xnucv40j71vijzy2eu
     verified: false
-    hashtags: "#campinaheart, #waktunyagombal, #eskrimheart, #campina"
-  - username: "methadellaa"
+    hashtags: "#dirtybootsandmessyhair, #waktunyagombal, #eskrimheart, #beauty"
+  - username: "ikasanz"
     fullname: >-
-      Metha Della
+      Kartika Dewi Suryani ♠️
     bio: >-
-      REAL ACCOUNT • Ambassador @bullsmafioso.bali @051juice_corner • Kids Piano Teacher • Bachelor of Music UPI • Endorse/Paid Promote: DM Bali, Indonesia
+      𝑩𝑨 : @muscletech 💪, @cocoonmedicalspabali ✨️( 𝑼𝒔𝒆 𝒄𝒐𝒅𝒆 "𝑰𝑲𝑨𝑺𝑨𝑵𝒁" 𝒈𝒆𝒕 𝒅𝒊𝒔𝒄 𝒂𝒍𝒍 𝒕𝒓𝒆𝒂𝒕𝒎𝒆𝒏𝒕 ) 🏋 : @degymplatinum.kerobokan 𝔽𝕚𝕥𝕟𝕖𝕤𝕤 𝕚𝕟𝕗𝕝𝕦𝕖𝕟𝕔𝕖𝕣 📍𝐁άĹเ🌴
     location: "Indonesia"
-    followers: 114312
-    engagement: 367
-    commentsToLikes: 0.018071
-    id: ckap7ymnfm5he0i78hsu25a7h
+    followers: 60423
+    engagement: 95
+    commentsToLikes: 0.058761
+    id: ck9wgk1f5trp10j78o2ldtyun
     verified: false
-    hashtags: "#supportlocalbusiness, #spreadlove"
+    hashtags: "#fitness, #vapor, #platinumcreatine, #brunch"
+  - username: "laelypassions"
+    fullname: >-
+      Laely Indah Lestari d.f
+    bio: >-
+      Culture Traveller, Photographer, Writer Author of 📚: “Baby & Kids Photography”, “Still Life Photography”, “Buku Saku Photography”
+    location: "Indonesia"
+    followers: 5986
+    engagement: 1081
+    commentsToLikes: 0.283619
+    id: ck5c9byuzb5s90i11nsa7sok7
+    verified: false
+    hashtags: "#indramayu, #topengkelana, #laelydiindramayu, #laelyculturetraveller"
+  - username: "mellypratama"
+    fullname: >-
+      Melly Pratama 🌙
+    bio: >-
+      🛍 @zaloraid 22% off code “ZLRMELLY” Business Inquiries: @wasabi.management
+    location: "Indonesia"
+    followers: 105755
+    engagement: 17
+    commentsToLikes: 0.012517
+    id: ck139nnwhm7sl0i19jv0fjwdi
+    verified: false
+    hashtags: "#portraitcosplay, #cosplayindonesia, #beneranbisa, #good"
+  - username: "gekmahaa"
+    fullname: >-
+      ida ayu maha
+    bio: >-
+      Fashion • Beauty • Lifestyle Bali . gusurya — business inquiries : click ⤵️
+    location: "Indonesia"
+    followers: 72727
+    engagement: 23
+    commentsToLikes: 0.013643
+    id: ck13a2g2moar60i19gz34zgog
+    verified: false
+    hashtags: "#uniqlotshirt, #adahargaadakualitas, #skincarebalm, #bestmattelipproducts"
+  - username: "alffy_rev"
+    fullname: >-
+      Awwalur Rizqi Al-firori
+    bio: >-
+      Music & Visual Story Teller Head of @rev.production | @dewatlantis.studios | @rev_apparel.id Business Contact 0821-4361-9691 The Beauty Of Bali 👇🏻
+    location: "Indonesia"
+    followers: 833751
+    engagement: 696
+    commentsToLikes: 0.015734
+    id: ck0w6t66ja6n60i19fj3fuj18
+    verified: true
+    hashtags: "#officialtrailer, #teaser, #harikebangsaan, #sampaijumpadiagustus"
+  - username: "divamartinaa"
+    fullname: >-
+      Tina | Travel Creator✨
+    bio: >-
+      • @dinamicts • Photography & Videography • Bali & Indonesia Tourism Ambassador • Email : tinadewi2001@gmail.com
+    location: "Indonesia"
+    followers: 10273
+    engagement: 155
+    commentsToLikes: 0.042422
+    id: ck136tn9n879j0i19rujhtqr0
+    verified: false
+    hashtags: "#sonya7ii, #photooftheday, #culture, #explorekalimantan"
+  - username: "prathphotobali"
+    fullname: >-
+      Prewedding Service
+    bio: >-
+      Prewedding yuk Jadikan kenangan terindah dlm hidupmu abadi selamanya @prathweddingbali @prathvideobali 🏠 (By APPOINTMENT) Wa/📞👇 081338338845
+    location: "Indonesia"
+    followers: 32314
+    engagement: 120
+    commentsToLikes: 0.014506
+    id: ck5hm0iygl6jk0i11akpnk5hl
+    verified: false
+    hashtags: "#preweddingdibali, #denpasar, #model, #museumbali"
 ---

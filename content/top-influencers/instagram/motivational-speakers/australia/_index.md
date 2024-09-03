@@ -1,12 +1,24 @@
 ---
-title: Top 10 Motivational Speakers Instagram Influencers In Australia In 2023
+title: Top 10 Motivational Speakers Instagram Influencers In Australia In 2024
 description: >-
-  Find top motivational speakers Instagram influencers in Australia in 2023. Most popular hashtags: #happy #love #australia.
+  Find top motivational speakers Instagram influencers in Australia in 2024. Most popular hashtags: #love #australia #motivation.
 platform: Instagram
-hits: 9
-text_top: See the best Instagram profiles on inBeat.
-text_bottom: inBeat holds 9 Instagram influencers like this in Australia for you to collaborate.
+hits: 11
+text_top: See the top-rated Instagram accounts on inBeat.
+text_bottom: inBeat aggregates 11 Instagram influencers like this in Australia for you to connect with.
 profiles:
+  - username: "rockstararms"
+    fullname: >-
+      Natalie Dau
+    bio: >-
+      GUINNESS WORLD RECORD HOLDER Motivational Speaker-Media-UltraRunner-Mum 🇦🇺🇸🇬 BRANDS @asics @garmin @drinkag1 MONDAY’S @kiss92fm MORE INFO👇🏽
+    location: "Australia"
+    followers: 537239
+    engagement: 327
+    commentsToLikes: 0.003856
+    id: ck6tynvwj4tu90j71zwzv9blx
+    verified: true
+    hashtags: "#asicssg, #soundmindsoundbody, #project1000, #garmin"
   - username: "irenne_njuguna"
     fullname: >-
       Jesus girl😇
@@ -66,53 +78,53 @@ profiles:
     commentsToLikes: 0.080430
     id: ckf5pbki55lnu0j2352fznkkb
     verified: true
-    hashtags: "#injuryprevention, #prehab, #resilience, #positive"
-  - username: "felicityegginton"
+    hashtags: "#workout, #strength, #fitness, #stability"
+  - username: "dokic_jelena"
     fullname: >-
-      Felicity Egginton 🌻✨🙏🏻
+      JELENA DOKIC 🇦🇺🇦🇺🇦🇺
     bio: >-
-      💫Mental Health Advocate 🌻 @thepositivitymovementau 👩🏼‍🤝‍👨🏻 @jjhenry26 ♐️ Sagittarius 🌴@Survivorau 💛 @cupidsundierunoz 💪🏻 @f45_training_palmbeach
+      🎾World #4 tennis player 🎤Speaker, @tedx_official speaker 🎥TV @channel9 @wwos 📚#1 author of ‘unbreakable’ and ‘fearless’ @imgtalent
     location: "Australia"
-    followers: 22866
-    engagement: 297
-    commentsToLikes: 0.046255
-    id: ck6tshyee4v4d0j71vu7nvqd6
+    followers: 208424
+    engagement: 533
+    commentsToLikes: 0.025259
+    id: cloqu04iagitv0j083k8ak818
     verified: false
-    hashtags: "#support, #healthy, #noalcohol, #2021goals"
-  - username: "santina.malacarne"
+    hashtags: "#rodlaverarena, #summer, #bestsellingauthor, #commentator"
+  - username: "hestonrussell"
     fullname: >-
-      Santina Swiss Mountain Girl
+      Heston Russell
     bio: >-
-      🚴‍♀️ #lifeontwowheels @bergstrombike 🤘@zimtstern_europe @hilx 💻 #webprojectmanagerin @glitgmbh 🌸 @burgerstein_vitamine ambassador
+      Aussie 🇦🇺 🗣️Public Speaker & Veterans Advocate 🛡️Founder: @vsf.org.au & @veterangames_ 🐶@copper_the_sausage_dog 🫱🏼‍🫲🏽Management: @thefordhamcompany
     location: "Australia"
-    followers: 24829
-    engagement: 237
-    commentsToLikes: 0.041411
-    id: ck0vximnqz2xg0i19myms2zl1
+    followers: 148167
+    engagement: 103
+    commentsToLikes: 0.028055
+    id: ck8szjknqop0j0j780ygm0ae8
     verified: false
-    hashtags: "#hilx, #dopesnow, #swissrider, #davosklostersmountains"
-  - username: "samar.cheemaa"
+    hashtags: "#hestonrussell, #coachella, #voav, #motivation"
+  - username: "luccas.football"
     fullname: >-
-      Samar Cheema
+      Luccas Pereira 🇧🇷🇦🇺
     bio: >-
-      Home - DIY - Lifestyle - Recipes - Travel - YouTuber 📍Melbourne, Australia Youtube Channel Link👇
+      Football & Performance Coach Strength & Conditioning Public Speaker ᴀᴍʙᴀꜱꜱᴀᴅᴏʀ: @googlepixel @mizunosportsaus Book Your Session - IN PERSON/ONLINE 👉🏼
     location: "Australia"
-    followers: 26517
-    engagement: 298
-    commentsToLikes: 0.205256
-    id: ck9wgdwwpszro0j78wjhm0yfu
+    followers: 35990
+    engagement: 195
+    commentsToLikes: 0.031960
+    id: ck6ts92th3fdt0j71dspr0oxt
     verified: false
-    hashtags: "#hyderabadpakistan, #pakistanidresses, #viralreelsvideo, #bloggersofpakistan"
-  - username: "balaluke"
+    hashtags: "#couplegoals, #giftfromgoogle, #footballlife, #sydney"
+  - username: "annameares"
     fullname: >-
-      Luke Currie-Richardson
+      Anna Meares
     bio: >-
-      Aboriginal & Torres Strait Islander FOR MY PEOPLE Photographer @bl_snaps Management @youngwolf_mgmt 🐺
+      Mum Chef de Mission @ausolympicteam Commentator @am_pottery_and_art @icmi_speakersandentertainers Author ‘NOW’
     location: "Australia"
-    followers: 22899
-    engagement: 988
-    commentsToLikes: 0.068008
-    id: ck5q14frx985h0i11kufdlyns
+    followers: 30466
+    engagement: 272
+    commentsToLikes: 0.022625
+    id: ck0w35bpqro1a0i19ktc2dp0h
     verified: false
-    hashtags: "#indigenousaustralian, #cultural, #torresstraitislander, #indigenouslivesmatter"
+    hashtags: "#paris2024, #allezaus, #cdmeares, #womenleaders"
 ---

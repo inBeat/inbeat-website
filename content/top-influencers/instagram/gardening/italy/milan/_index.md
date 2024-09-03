@@ -1,11 +1,11 @@
 ---
-title: Top 10 Gardening Instagram Influencers In Milan In 2023
+title: Top 10 Gardening Instagram Influencers In Milan In 2024
 description: >-
-  Find top gardening Instagram influencers in Milan in 2023. Most popular hashtags: #gardening #garden #nature #decor.
+  Find top gardening Instagram influencers in Milan in 2024. Most popular hashtags: #gardening #italy #beauty #garden.
 platform: Instagram
-hits: 4
-text_top: Analyze the top-rated Instagram accounts on inBeat.
-text_bottom: Our platform has 4 Instagram influencers like this in Milan, Italy for you to contact.
+hits: 6
+text_top: Analyze the best Instagram accounts on inBeat.
+text_bottom: Our database has 6 Instagram influencers like this in Milan, Italy for you to pitch.
 profiles:
   - username: "raw_milano"
     fullname: >-
@@ -31,18 +31,42 @@ profiles:
     id: ck5zsvbr9z91w0i14ce2yn0lj
     verified: false
     hashtags: "#quarantine, #artporn, #digitalpainting, #surreal"
-  - username: "clara_bona"
+  - username: "nicola_bertellotti"
     fullname: >-
-      Clara Bona
+      Nicola Bertellotti
     bio: >-
-      Architect and Journalist
+      Award winning fine art photographer Pietrasanta / Italy
     location: "Italy"
-    followers: 30905
-    engagement: 631
-    commentsToLikes: 0.067701
-    id: ck5hi0086axty0i11mh8o9r44
+    followers: 68180
+    engagement: 895
+    commentsToLikes: 0.042595
+    id: ck6u8lants9450j716n4uo530
     verified: false
-    hashtags: "#ristrutturarecasa, #interiorstyle, #interiortips, #interiorideas"
+    hashtags: "#luoghiabbandonati, #pietrasanta, #elledecor, #atlasobscura"
+  - username: "antonella_ts_"
+    fullname: >-
+      Antonella
+    bio: >-
+      Trieste (Italy) @shein_it @sheinofficial 🎁 SMDantonellats 🎁 per ottenere il 15% senza una spesa minima ⬇️
+    location: "Italy"
+    followers: 75620
+    engagement: 170
+    commentsToLikes: 0.063233
+    id: ck13aj5zfqmpi0i190mm1880s
+    verified: false
+    hashtags: "#ad, #svapolusso, #strawberryicecream, #pod"
+  - username: "mariaelenamonegofficial"
+    fullname: >-
+      Maria Elena Monego
+    bio: >-
+      Starring The Fishing Beauty on @primevideoit Owner of @socialdistrict_ch Project Manager Selfmade SA📍Lugano
+    location: "Italy"
+    followers: 100152
+    engagement: 40
+    commentsToLikes: 0.020462
+    id: cl4f69obrqeuw0i239b3zc954
+    verified: false
+    hashtags: "#party, #fashion, #picoftheday, #nature"
   - username: "cami_delai"
     fullname: >-
       Camilla Delai 🌹
@@ -55,18 +79,18 @@ profiles:
     id: ck600sf29e6ir0i14avcrvrji
     verified: false
     hashtags: "#madeinitaly, #flower, #model, #fitness"
-  - username: "gomiero__farm"
+  - username: "ricominciodaquattro"
     fullname: >-
-      Gomiero Farm
+      Adriana Fusè
     bio: >-
-      ITALIAN FARM 🇮🇹 NO farmers NO food ☠️ Stories and posts from a (crazy) farm 🎵🎉
+      Mamma di 4, home organizer, autrice. La mia azienda agricola @cascinaroncagliabio Ultimo libro x Gribaudo: “Tutto. Molto. Semplice.” 📍Brescia
     location: "Italy"
-    followers: 107306
-    engagement: 598
-    commentsToLikes: 0.001875
-    id: ck6ttmxwvbhm60j714o5yrx5s
+    followers: 41419
+    engagement: 26
+    commentsToLikes: 0.016125
+    id: ck0w4e6ejy5100i19iy4yvr2f
     verified: false
-    hashtags: "#farmingsimulator, #homegrown, #global, #countryandwestern"
+    hashtags: "#puliziediprimavera, #primavera, #puliziedicasa, #garden"
   - username: "francescarchibugi"
     fullname: >-
       Francesca Archibugi
@@ -103,28 +127,4 @@ profiles:
     id: ck5zszd84zgnt0i14g2py5ozv
     verified: false
     hashtags: "#porcelain, #gardentools, #moodoftheday, #rawbrera"
-  - username: "gardenia_magazine"
-    fullname: >-
-      Gardenia
-    bio: >-
-      Spunti e racconti dalla redazione di Gardenia: cultura botanica, novità dai vivai, mostre. Per condividere la passione del giardinaggio. 🌱🇮🇹🌷🪴🌳
-    location: "Italy"
-    followers: 68300
-    engagement: 130
-    commentsToLikes: 0.013355
-    id: ck6u7tia0nkw00j714q3e7rnz
-    verified: false
-    hashtags: "#ilmiogiardino, #gardeningtips, #gardeniamagazine, #daffodil"
-  - username: "husqvarna_italy"
-    fullname: >-
-      Husqvarna Italy
-    bio: >-
-      👋 Benvenuto! Non perderti neanche un aggiornamento 📸 Canale Ufficiale Instagram Husqvarna Bosco e Giardino 🇮🇹
-    location: "Italy"
-    followers: 20869
-    engagement: 158
-    commentsToLikes: 0.002141
-    id: ck5zovfejrf7b0i14157fiu37
-    verified: false
-    hashtags: "#madewithhusqvarna, #outdoorpowerequipment, #ecologia, #giardinaggiochepassione"
 ---

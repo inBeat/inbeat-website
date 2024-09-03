@@ -1,36 +1,36 @@
 ---
-title: Top 10 Travel Instagram Influencers In Chiang Mai In 2023
+title: Top 10 Travel Instagram Influencers In Chiang Mai In 2024
 description: >-
-  Find top travel Instagram influencers in Chiang Mai in 2023. Most popular hashtags: #thailand #bangkok #travel #chiangmai.
+  Find top travel Instagram influencers in Chiang Mai in 2024. Most popular hashtags: #thailand #thailandtravel #chiangmai #amazingthailand.
 platform: Instagram
-hits: 6
-text_top: Analyze the best Instagram profiles on inBeat.
-text_bottom: Our search engine holds 6 Instagram influencers like this in Chiang mai, Thailand for you to work with.
+hits: 10
+text_top: Analyze the best Instagram influencers on inBeat.
+text_bottom: Our platform holds 10 Instagram influencers like this in Chiang mai, Thailand for you to collaborate.
 profiles:
-  - username: "nutapiwich"
-    fullname: >-
-      Apiwich Ektarawong
-    bio: >-
-      Nut 😁😋 ✈️ Food Travel & Skincare 👦🏻 AC | BBA CU
-    location: "Thailand"
-    followers: 56201
-    engagement: 659
-    commentsToLikes: 0.006235
-    id: ck14jgxgzkaec0i19ee0rnrog
-    verified: false
-    hashtags: "#panpuri, #mrt, #cpbrand, #futurelabth"
   - username: "seelautravel"
     fullname: >-
       Christopher Lau
     bio: >-
-      Escaped the 9-5 🌴 YouTube, Travel, Foodie, Tennis Let’s chat: seelautravel@gmail.com Come learn: @seelautravelmentorprogram 🤓 📍Phuket 🏝 🎥 CLICK HERE👇🏾
+      Escaped the 9-5 🌴 YouTube / Travel / Tennis / Travel Conf Director Come learn: @seelautravelmentorprogram 🤓 📍Michigan 🇺🇸 🎥 CLICK HERE👇🏾
     location: "Thailand"
-    followers: 53573
-    engagement: 585
-    commentsToLikes: 0.056406
+    followers: 91247
+    engagement: 336
+    commentsToLikes: 0.070581
     id: ck8wgax82h12b0j780okfeyv9
     verified: false
-    hashtags: "#travel, #youtube, #beautifuldestinations, #familytravel"
+    hashtags: "#thailand, #beautifulhotels, #explore, #orlandoforall"
+  - username: "ya.stacey"
+    fullname: >-
+      Stacey 스테이시 🩵
+    bio: >-
+      Trying to sprinkle some positivity on your feed🪄 travel - fashion - lifestyle - posotivity
+    location: "Thailand"
+    followers: 286949
+    engagement: 15
+    commentsToLikes: 0.003994
+    id: ck5zthwkh0fxn0i14vt65gptk
+    verified: false
+    hashtags: "#chiangmai, #chiangmaihotel, #thailandhotel, #loveshein"
   - username: "davidnakamurah"
     fullname: >-
       David
@@ -43,6 +43,42 @@ profiles:
     id: ck5zxvzre8rpc0i14hz5xswtf
     verified: false
     hashtags: "#cafehoppingcnx, #bangkok, #thailand, #cafehopping"
+  - username: "the_wanderlustboy"
+    fullname: >-
+      The Wanderlust Boy
+    bio: >-
+      - into cafe, lifestyle and travel 7824,4159 📍Based in Bangkok, Thailand 📩DM for work
+    location: "Thailand"
+    followers: 27337
+    engagement: 178
+    commentsToLikes: 0.031279
+    id: ckap8fk8jo3i10i78nvrumj71
+    verified: false
+    hashtags: "#homecafe, #thewanderlustboyxcnx, #thewanderlustboyxbkk, #cafeathome"
+  - username: "poppanupongs"
+    fullname: >-
+      Panupong Srirattanapong
+    bio: >-
+      For work : Please DM Cats 🐈 : @berlinandgodzilla
+    location: "Thailand"
+    followers: 72621
+    engagement: 1076
+    commentsToLikes: 0.007244
+    id: cloxofu9tzi8s0j08ghicl52w
+    verified: false
+    hashtags: "#reviewthailand, #camping, #amazingthailand, #reviewchiangmai"
+  - username: "deeristravelling"
+    fullname: >-
+      AON & LAN ✈️ travel hubbies 🌴
+    bio: >-
+      ✈ intergaycial wanderlusts ✈ LGBTQ × adventures × positive vibes 📍Bangkok ↓ check our blog, TikTok, YouTube and more ↓
+    location: "Thailand"
+    followers: 43633
+    engagement: 282
+    commentsToLikes: 0.107925
+    id: ck6ue6v1tp5ns0j71drzmgqhx
+    verified: false
+    hashtags: "#chiangmaitravel, #gayasian, #thailandtravel, #gaytravel"
   - username: "sawyeremmy"
     fullname: >-
       Emmy Kym Sawyer
@@ -79,52 +115,16 @@ profiles:
     id: ck9wf8n5jnp6x0j78jn302wm8
     verified: false
     hashtags: "#doiphulangka, #chiangmai, #hikingadventures, #amazingthailand"
-  - username: "app.coll"
+  - username: "amazingthailand"
     fullname: >-
-      App.Coll
+      Thailand
     bio: >-
-      👩‍🎓Law| 👩‍💻#realestate|#travel 🇮🇩🇱🇦🇸🇬🇰🇭🇭🇰🇻🇳🇲🇾🇩🇪🇨🇿🇧🇪🇳🇱🇪🇸🇵🇹🇬🇷🇦🇹🇮🇹🇨🇭🇫🇷🇹🇷🇵🇱🇭🇺🇷🇸 Check my👇 🏡 @rightkeyestate 🛒🍷@wine_all_day 🛒 👗@spritz_clothing 🎈#Bangkok
+      🇹🇭 We Celebrate Thailand Best Places🇹🇭 📸 Use #Amazingthailand to be featured on our account By @patoss 📍รวมสถานที่ที่ดีที่สุดของประเทศไทย
     location: "Thailand"
-    followers: 20325
-    engagement: 1396
-    commentsToLikes: 0.059246
-    id: ckaoxrshcegax0i78l9dyxfyz
+    followers: 425128
+    engagement: 175
+    commentsToLikes: 0.014299
+    id: ck5hlpgfeklyz0i11fiwot4hd
     verified: false
-    hashtags: "#asiangirl, #makeup, #holiday, #weekend"
-  - username: "yuvalohayonn"
-    fullname: >-
-      𝕐𝕦𝕧𝕒𝕝, 𝕋𝕖𝕝-𝔸𝕧𝕚𝕧, 𝟛𝟘
-    bio: >-
-      LIFESTYLE ▪️TRAVELS▪️STYLING Fitness💪🏽 Travels ✈️ Men fashion 🕴🏼 Modeling 📷 Married @doc.koren 👬 My next trips —> ? ? ? My wish list(;
-    location: "Thailand"
-    followers: 17841
-    engagement: 2072
-    commentsToLikes: 0.085500
-    id: ck14lovy8vqz90i192uov048r
-    verified: false
-    hashtags: "#beardselfie, #malemodelshoot, #scruffybeard, #gaytelaviv"
-  - username: "nanna.phatt"
-    fullname: >-
-      Nanna.phat💋
-    bio: >-
-      📍Cabin crew at Bangkok Airways 📖 Interior Architecture from Chulalongkorn 🏡 Bangkok, Thailand 💕 Design and life style travel are my happiness
-    location: "Thailand"
-    followers: 5137
-    engagement: 1709
-    commentsToLikes: 0.030837
-    id: ck8szpn0lp9ab0j78dovmsv8x
-    verified: false
-    hashtags: ""
-  - username: "journeytojunipero"
-    fullname: >-
-      Journey to Junipero
-    bio: >-
-      Mirko roaming Southeast Asia Travel Photography + Writing 📍Bangkok, Thailand hello@journeytojunipero.com
-    location: "Thailand"
-    followers: 11411
-    engagement: 479
-    commentsToLikes: 0.126435
-    id: ck6tlnucq6b0z0j71568uu1dq
-    verified: false
-    hashtags: "#femaleportraits, #cebuph, #discoverph, #bacc"
+    hashtags: "#earthpix, #wanderlust, #instatraveling, #vacations"
 ---

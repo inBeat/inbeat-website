@@ -1,11 +1,11 @@
 ---
-title: Top 10 Yoga TikTok Influencers In France In 2023
+title: Top 10 Yoga TikTok Influencers In France In 2024
 description: >-
-  Find top yoga TikTok influencers in France in 2023. Most popular hashtags: #yoga #pourtoi #foryou #fitness.
+  Find top yoga TikTok influencers in France in 2024. Most popular hashtags: #yoga #pourtoi #foryou #fitness.
 platform: TikTok
 hits: 23
-text_top: Discover the best TikTok accounts on inBeat.
-text_bottom: Our database holds 23 TikTok influencers like this in France for you to work with.
+text_top: Analyze the most popular TikTok profiles on inBeat.
+text_bottom: Our platform has 23 TikTok influencers like this in France for you to collaborate.
 profiles:
   - username: "the_tiny_yogini"
     fullname: >-
@@ -78,7 +78,7 @@ profiles:
     commentsToLikes: 0.063573
     id: ckc1ucyygylmv0j239h6a7jth
     verified: false
-    hashtags: "#instagramtips, #humourfrancais, #drole, #vegan"
+    hashtags: "#instagramtips, #vegan, #humourfrancais, #drole"
   - username: "wespiserd"
     fullname: >-
       Delphine Wespiser 
@@ -126,5 +126,5 @@ profiles:
     commentsToLikes: 0.006121
     id: ck8sf82zen0lz0j78swho5bt8
     verified: true
-    hashtags: "#udpp, #diner, #lmad, #humour"
+    hashtags: "#diner, #lmad, #fun, #humour"
 ---

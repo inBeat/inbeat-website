@@ -1,12 +1,96 @@
 ---
-title: Top 10 Christian Instagram Influencers In United Kingdom In 2023
+title: Top 10 Christian Instagram Influencers In United Kingdom In 2024
 description: >-
-  Find top christian Instagram influencers in United Kingdom in 2023. Most popular hashtags: #smile #salvation #instadaily.
+  Find top christian Instagram influencers in United Kingdom in 2024. Most popular hashtags: #fashion #streetwear #london.
 platform: Instagram
-hits: 217
-text_top: Identify the top-rated Instagram influencers on inBeat.
-text_bottom: Our search engine aggregates 217 Instagram influencers like this in United Kingdom for you to connect with.
+hits: 315
+text_top: Discover the most popular Instagram profiles on inBeat.
+text_bottom: Our database holds 315 Instagram influencers like this in United Kingdom for you to collaborate.
 profiles:
+  - username: "dorothy_______"
+    fullname: >-
+      Dorothy Tamuno
+    bio: >-
+      Christian • Wife • Yummy Mummy • Founder | @manyrooms_studios Asst. Pastor | @croydonvineyard
+    location: "United Kingdom"
+    followers: 11812
+    engagement: 725
+    commentsToLikes: 0.038934
+    id: ck0u12eo7vjux0i199uxt5h48
+    verified: false
+    hashtags: "#5years"
+  - username: "karlobaker"
+    fullname: >-
+      Karlo Baker
+    bio: >-
+      📸 My Story Through The Lens Of My Phone ✈️ Luxury Travel & Events Concierge 🗣 Motivational Speaker ✝️ Christian 📍 London 🇬🇧 📞 Connect With Me
+    location: "United Kingdom"
+    followers: 50761
+    engagement: 354
+    commentsToLikes: 0.020531
+    id: ck6tpfsiyjmb60j71epp6drpu
+    verified: false
+    hashtags: "#lifelessons, #love, #italy"
+  - username: "morenikemolehin"
+    fullname: >-
+      Renny|Lifestyle content 🇳🇬
+    bio: >-
+      Christian lifestyle influencer 🌏 ELOY ENTREPRENEUR OF THE YEAR 2023 CEO @oakandteak Founder @oakandteakfoundation
+    location: "United Kingdom"
+    followers: 75948
+    engagement: 305
+    commentsToLikes: 0.047902
+    id: ck9wd7itpefbu0j78x1y6u262
+    verified: false
+    hashtags: "#fun, #faith, #family, #winningwoman"
+  - username: "fireandice"
+    fullname: >-
+      FIRE & ICE
+    bio: >-
+      🗺 Global Wedding Photography & Films 🔥 Owned by @christianjoreilly 🤝 Ambassador for @rotolight | @vidflow.co | @musicbedwedding
+    location: "United Kingdom"
+    followers: 185385
+    engagement: 2539
+    commentsToLikes: 0.036943
+    id: ck15sat21c2hq0i19m2vkkm23
+    verified: false
+    hashtags: "#photocomposition, #celebritywedding, #rockmywedding, #weddingfilm"
+  - username: "christianptty"
+    fullname: >-
+      Christian Petty
+    bio: >-
+      london contact: christianptty@gmail.com outfit links below ~
+    location: "United Kingdom"
+    followers: 42881
+    engagement: 289
+    commentsToLikes: 0.043726
+    id: clpwuix4il6xd0k0853q4xwsy
+    verified: false
+    hashtags: "#mensfashion, #fashion, #minimalstyle, #mensstyle"
+  - username: "christianarciga_"
+    fullname: >-
+      Christian Arciga
+    bio: >-
+      Berlin/ LA @thepauseagency 📧: christian@thepauseagency.com
+    location: "United Kingdom"
+    followers: 100947
+    engagement: 90
+    commentsToLikes: 0.001156
+    id: cl93u92tmdbso0i23pktm7z3z
+    verified: false
+    hashtags: "#barcelona, #switzerland, #blackfriday, #ootd"
+  - username: "dior"
+    fullname: >-
+      Dior Official
+    bio: >-
+      "Women, with their intuitive instinct, understood that I dreamed not only of making them more beautiful, but happier too." Christian Dior
+    location: "United Kingdom"
+    followers: 46450057
+    engagement: 11
+    commentsToLikes: 0.005062
+    id: cl48q8b5vlkf10i23vg0s8j6m
+    verified: false
+    hashtags: "#diorparfums, #dioroblique, #diorforever, #diorbeauty"
   - username: "femiondrums"
     fullname: >-
       Femi Koleoso
@@ -43,88 +127,4 @@ profiles:
     id: ck55jjsrvx6de0i11a2mzg04i
     verified: false
     hashtags: "#bayakickboxing, #getfitwithchris, #abslikebaya, #bayathaiboxing"
-  - username: "_diana_yy"
-    fullname: >-
-      Diana✨
-    bio: >-
-      •from 🇺🇦, now in 🇩🇪 •christian •traveler «I can do all things through Him who strengthens me.» Philippians 4:13 for all requests: dia-j@outlook.com
-    location: "United Kingdom"
-    followers: 5561
-    engagement: 454
-    commentsToLikes: 0.094164
-    id: ck1380w52dyht0i19iw546amz
-    verified: false
-    hashtags: "#blogger, #photooftheday, #amazing, #smile"
-  - username: "officialnoreenkhan"
-    fullname: >-
-      Noreen Khan
-    bio: >-
-      Radio DJ on BBC ASIAN NETWORK, host and stand-up comedian. Spend a lot of my time doing yoga! email: Christian@bluebookam.com
-    location: "United Kingdom"
-    followers: 87539
-    engagement: 193
-    commentsToLikes: 0.033450
-    id: ck0w0r9xwfn6f0i19tnf6ysgk
-    verified: true
-    hashtags: "#sideplankvariation, #fitness, #yogapractice, #motivation"
-  - username: "dailytestament"
-    fullname: >-
-      Daily Testament // Bible
-    bio: >-
-      #1 Christian page on Instagram Follow for more Bible verses 😇 DM/Email for business enquiries
-    location: "United Kingdom"
-    followers: 175390
-    engagement: 350
-    commentsToLikes: 0.029293
-    id: ck0w74aj2bomh0i1911t2jjcm
-    verified: false
-    hashtags: ""
-  - username: "gymnast_emily10"
-    fullname: >-
-      @gymnast_emily10™
-    bio: >-
-      A work in progress Emily 16 N.Ireland Christian Run by mum
-    location: "United Kingdom"
-    followers: 135327
-    engagement: 186
-    commentsToLikes: 0.017308
-    id: ck14go4fe672h0i19otm70tzb
-    verified: false
-    hashtags: "#fall, #oops, #forcefieldactivated, #airtrackfactory"
-  - username: "blessedcamp"
-    fullname: >-
-      Blessed Camp
-    bio: >-
-      #1 Christian Lifestyle Retail Chain The ONLY real Christian Brand, Follow our Brand Reps 🙌🏽🙏 International Shipping DM for Customer Service
-    location: "United Kingdom"
-    followers: 48152
-    engagement: 76
-    commentsToLikes: 0.112182
-    id: ck8t0wahstki90j78wn73iwk0
-    verified: false
-    hashtags: "#blessed, #salvation, #christian, #biblia"
-  - username: "lesswastelaura"
-    fullname: >-
-      Laura Young🌿
-    bio: >-
-      ✦ tips for living sustainably @tedx_official speaker @bbcthesocial creator ✞ Christian Glasgow she/her ✎ MSc Environmental Protection and Management
-    location: "United Kingdom"
-    followers: 40652
-    engagement: 171
-    commentsToLikes: 0.039518
-    id: ck13c4fo9ykgg0i1920inltvy
-    verified: false
-    hashtags: "#zerowasteliving, #choosetorefuse, #oootd, #plasticfree"
-  - username: "lajuiren"
-    fullname: >-
-      The Lord’s Storyteller
-    bio: >-
-      #DatingIntelligently 🏆BestsellingAuthor 📔No. 1 BookWritingCoach 🎬Film Maker @lajuirenfilms Fdr @christianstorytellerprize Iyawo @pst_iren 👇🏾
-    location: "United Kingdom"
-    followers: 42197
-    engagement: 318
-    commentsToLikes: 0.015717
-    id: ck5c9qtfzbxsw0i11q1xkjqzq
-    verified: false
-    hashtags: "#hunger, #lagoslockdown, #thecourtshipcode, #loveisastar"
 ---

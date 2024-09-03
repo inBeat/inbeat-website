@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fashion TikTok Influencers In Brazil In 2023
+title: Top 10 Fashion TikTok Influencers In Brazil In 2024
 description: >-
-  Find top fashion TikTok influencers in Brazil in 2023. Most popular hashtags: #fyp #fashion #fy #foryou.
+  Find top fashion TikTok influencers in Brazil in 2024. Most popular hashtags: #fyp #fashion #fy #foryou.
 platform: TikTok
-hits: 156
-text_top: Discover the top-rated TikTok accounts on inBeat.
-text_bottom: Our platform has 156 TikTok influencers like this in Brazil for you to connect with.
+hits: 155
+text_top: Identify the best TikTok accounts on inBeat.
+text_bottom: Our database aggregates 155 TikTok influencers like this in Brazil for you to work with.
 profiles:
   - username: "lanaacessoriosmanuais"
     fullname: >-

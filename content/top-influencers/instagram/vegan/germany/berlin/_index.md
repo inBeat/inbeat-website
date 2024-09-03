@@ -1,12 +1,48 @@
 ---
-title: Top 10 Vegan Instagram Influencers In Berlin In 2023
+title: Top 10 Vegan Instagram Influencers In Berlin In 2024
 description: >-
-  Find top vegan Instagram influencers in Berlin in 2023. Most popular hashtags: #veganberlin #vegandeutschland #veganerezepte #veganbacken.
+  Find top vegan Instagram influencers in Berlin in 2024. Most popular hashtags: #veganberlin #vegan #veganbacken #vegandeutschland.
 platform: Instagram
-hits: 148
-text_top: See the best Instagram influencers on inBeat.
-text_bottom: Our search engine holds 148 Instagram influencers like this in Berlin, Germany for you to collaborate.
+hits: 169
+text_top: Identify the top-rated Instagram accounts on inBeat.
+text_bottom: Our platform holds 169 Instagram influencers like this in Berlin, Germany for you to collaborate.
 profiles:
+  - username: "younghearted.tattoo"
+    fullname: >-
+      Felix Seele
+    bio: >-
+      vegan BERLIN | NYC owner of @der_grimm_tattoo @younghearted.cl #darklettering #darkmandala @cheyenne_tattooequipment @eclipse.tattooink
+    location: "Germany"
+    followers: 181171
+    engagement: 358
+    commentsToLikes: 0.004661
+    id: ck14gqg4u6j560i19b6vrg86c
+    verified: false
+    hashtags: "#letteringtattoo, #youngheartedtattoo, #lettering, #felixseele"
+  - username: "the_sophia_hoffmann"
+    fullname: >-
+      Köchin/Autorin/Gastronomin
+    bio: >-
+      🏳️‍🌈Chef owner @happa_restaurant Dog mum of @ella_hoffmannhauksdottir Author/ speaker #vegan #metoo #feminist #queer
+    location: "Germany"
+    followers: 35234
+    engagement: 183
+    commentsToLikes: 0.036022
+    id: ck0uct2hfhifz0i19bv6y9glm
+    verified: false
+    hashtags: "#happa, #happarestaurant, #biovegan, #leaftoroot"
+  - username: "monawitt_"
+    fullname: >-
+      Mona Witt | Ernährungscoach | Intuitiv & Vegan 🌱
+    bio: >-
+      🌱 Gesunde Ernährung ohne Verbote 💪🏼 Handstand x Fitness 🤝🏼 Als Team mit deinem Körper ➡️ Coaching Anfragen: @theframeofyou
+    location: "Germany"
+    followers: 32499
+    engagement: 96
+    commentsToLikes: 0.064194
+    id: ck6tidu6b0j1w0j71hb7ho7tl
+    verified: false
+    hashtags: "#mindset, #gewinnspiel, #wohlf, #eiwei"
   - username: "ohsweetcoco"
     fullname: >-
       Cᴏᴄᴏ | auf dem Weg zum Glück𖥸
@@ -18,7 +54,7 @@ profiles:
     commentsToLikes: 0.171247
     id: ck13b3u59tjby0i193gl2mggm
     verified: false
-    hashtags: "#mahlzeit, #rezeptidee, #schoko, #ostereier"
+    hashtags: "#veganberlin, #verdauung, #ern, #veganerezepte"
   - username: "foodreich"
     fullname: >-
       Joana | Healthy Vegan Food
@@ -43,18 +79,6 @@ profiles:
     id: ckaovho1z4lb00i785qxtaajo
     verified: false
     hashtags: "#veganefoodblogger, #vegankochen, #veganuary, #veganebackrezepte"
-  - username: "yolcsita_eats"
-    fullname: >-
-      Yoli
-    bio: >-
-      Main Account: @yoli.dawson Vegan Content Creator Feminist❤️ Breaking taboos Foodie🥦🍊🍎
-    location: "Germany"
-    followers: 266
-    engagement: 15916
-    commentsToLikes: 0.082891
-    id: ck0vwpj40uy880i196z1j0qw8
-    verified: false
-    hashtags: "#ohnezucker, #veganesfr, #bewusstessen, #haferflocken"
   - username: "superfoodsberlin"
     fullname: >-
       SUPERFOODS & ORGANIC LIQUIDS
@@ -67,6 +91,18 @@ profiles:
     id: ck600odqidym80i14pfka90px
     verified: false
     hashtags: "#vegan, #superfoods, #veganfood, #veganberlin"
+  - username: "hungry_in_berlin"
+    fullname: >-
+      Ilaria 🇮🇹 Berlin Food Blogger
+    bio: >-
+      🍝Delicious Images from all Berlin Postcodes 👩🏻‍💻Hospitality Marketing Consultant @gourmetric.agency 🍴I Help Restaurants with Marketing
+    location: "Germany"
+    followers: 11334
+    engagement: 131
+    commentsToLikes: 0.109387
+    id: clilkx9mpcwcg0j089njpdnnh
+    verified: false
+    hashtags: "#berlinfoodbloggers, #berlinfoodspots, #berlinbrunch, #hungryinberlin"
   - username: "julius_friedrich97"
     fullname: >-
       Julius (er/ihm) 🏳️‍🌈
@@ -91,40 +127,4 @@ profiles:
     id: ckapadhv0vo430i78llehnvtg
     verified: false
     hashtags: "#veganbacken, #veganvienna, #veganer, #obst"
-  - username: "gymooni"
-    fullname: >-
-      Mona |Ernährung&Mindset Coach
-    bio: >-
-      #TEAMROCKA 💚 Ich helfe Frauen dabei, sich langfristig wohlzufühlen ohne strikte Ernährungspläne.🌱 👇🏼 Mein Coaching👇🏼 ✨It all starts WITHIN you✨
-    location: "Germany"
-    followers: 30394
-    engagement: 164
-    commentsToLikes: 0.159948
-    id: ck6tidu6b0j1w0j71hb7ho7tl
-    verified: false
-    hashtags: "#muskelaufbau, #selbstliebelernen, #fettreduzieren, #wohlf"
-  - username: "healthy_vegan_story"
-    fullname: >-
-      SelbstFürsorge mit 𝐒𝐚𝐫𝐚𝐡 ♡
-    bio: >-
-      Mentoring ✨ Für deine Seelenmission 𓆃 ThetaHealing® Practitioner ♡ ich begleite dich zu deinem inneren Glück 𓆸 ganzheitliches Ernährungscoaching
-    location: "Germany"
-    followers: 3260
-    engagement: 687
-    commentsToLikes: 0.076518
-    id: ckapc75zx2que0i78bw557tk4
-    verified: false
-    hashtags: "#heilung, #selbstf, #gesunderezepte, #liebe"
-  - username: "veganstars"
-    fullname: >-
-      Patricia Schillaci
-    bio: >-
-      Vegane Rezeptentwicklerin & Ernährungsberaterin | Business-Mentorin für Visionäre, Weltverbesserer & Grenzensprenger @veganconsultingnet ANGEBOTE⬇️
-    location: "Germany"
-    followers: 20169
-    engagement: 362
-    commentsToLikes: 0.113333
-    id: ckaow8isi7tlw0i78ohr6fmaw
-    verified: false
-    hashtags: "#veganberlin, #gesundeerna, #laktosefrei, #abnehmen"
 ---

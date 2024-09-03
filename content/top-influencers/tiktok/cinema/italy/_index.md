@@ -1,11 +1,11 @@
 ---
-title: Top 10 Cinema TikTok Influencers In Italy In 2023
+title: Top 10 Cinema TikTok Influencers In Italy In 2024
 description: >-
-  Find top cinema TikTok influencers in Italy in 2023. Most popular hashtags: #cinema #perte #duetto #film.
+  Find top cinema TikTok influencers in Italy in 2024. Most popular hashtags: #cinema #duetto #perte #film.
 platform: TikTok
-hits: 54
-text_top: Identify the best TikTok influencers on inBeat.
-text_bottom: Our search engine has 54 TikTok influencers like this in Italy for you to collaborate.
+hits: 56
+text_top: See the best TikTok accounts on inBeat.
+text_bottom: Our database aggregates 56 TikTok influencers like this in Italy for you to connect with.
 profiles:
   - username: "sixthlens"
     fullname: >-

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Food TikTok Influencers In Istanbul In 2023
+title: Top 10 Food TikTok Influencers In Istanbul In 2024
 description: >-
-  Find top food TikTok influencers in Istanbul in 2023. Most popular hashtags: #food #istanbul #yemek #kebap.
+  Find top food TikTok influencers in Istanbul in 2024. Most popular hashtags: #food #istanbul #yemek #kebap.
 platform: TikTok
 hits: 10
-text_top: Analyze the most popular TikTok profiles on inBeat.
-text_bottom: inBeat has 10 TikTok influencers like this in Istanbul, Turkey for you to collaborate.
+text_top: Discover the top-rated TikTok accounts on inBeat.
+text_bottom: Our database aggregates 10 TikTok influencers like this in Istanbul, Turkey for you to work with.
 profiles:
   - username: "gorkem0007"
     fullname: >-
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.017671
     id: ck9r8i9o1cel50j783ykaic9r
     verified: false
-    hashtags: "#amore, #style, #istanbul, #fashionista"
+    hashtags: "#couplecomedy, #tiktokindia, #cute, #fashionista"
   - username: "mr.taster"
     fullname: >-
       mr.taster

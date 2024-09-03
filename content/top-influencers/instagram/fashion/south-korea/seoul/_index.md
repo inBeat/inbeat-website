@@ -1,24 +1,12 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Seoul In 2023
+title: Top 10 Fashion Instagram Influencers In Seoul In 2024
 description: >-
-  Find top fashion Instagram influencers in Seoul in 2023. Most popular hashtags: #fashion #editorial #ootd #seoul.
+  Find top fashion Instagram influencers in Seoul in 2024. Most popular hashtags: #fashion #ootd #seoul #style.
 platform: Instagram
-hits: 26
-text_top: Analyze the best Instagram accounts on inBeat.
-text_bottom: Our platform holds 26 Instagram influencers like this in Seoul, South Korea for you to connect with.
+hits: 29
+text_top: Discover the most popular Instagram accounts on inBeat.
+text_bottom: Our database has 29 Instagram influencers like this in Seoul, South Korea for you to connect with.
 profiles:
-  - username: "kangdm"
-    fullname: >-
-      Domenico Kang / 강동민
-    bio: >-
-      📍Seoul Fashion Stylist & Consultant based in Milan Creative director of @pap_magazine Work @altakappa
-    location: "South Korea"
-    followers: 6733
-    engagement: 494
-    commentsToLikes: 0.021884
-    id: ck5cbw7a2g9zw0i11svi61ehv
-    verified: false
-    hashtags: "#marceloburlon, #papmagazine, #pfw, #prada"
   - username: "koreanootdig"
     fullname: >-
       Koreanootdig
@@ -43,30 +31,30 @@ profiles:
     id: ckapci17r3vvy0i78g6rq43vf
     verified: false
     hashtags: "#editorial, #a9ii, #sony, #magazine"
-  - username: "kassieyeung"
+  - username: "niko_seoul"
     fullname: >-
-      KASSIE YEUNG 楊嘉恩
+      니코
     bio: >-
-      Currently in 서울 Seoul, South Korea Dancer on @grvdnc Business Inquires: kassiemontero@gmail.com TikTok: @kassieyeung (300k+)
+      FREELANCER living in Seoul 🇰🇷 #모델문의 DM ✍🏼 #프리랜서모델니코
     location: "South Korea"
-    followers: 46391
-    engagement: 2189
-    commentsToLikes: 0.027142
-    id: ckap1by77txck0i78m1mk8cme
+    followers: 5372
+    engagement: 501
+    commentsToLikes: 0.027126
+    id: ckap57qwfajx70i78ox45r9x5
     verified: false
-    hashtags: "#seoul, #seoulkorea, #travel, #datingapps"
+    hashtags: "#fashion, #barbie, #roadcycling, #namsantower"
   - username: "jaesukkim"
     fullname: >-
       Illustrating Susu Girls
     bio: >-
       SEOUL/SINGAPORE/SYDNEY-BASED FASHION ILLUSTRATOR, CONTENT & ART DIRECTOR - In 🇰🇷 📧: jskillustration@gmail.com
     location: "South Korea"
-    followers: 243806
-    engagement: 114
-    commentsToLikes: 0.012211
+    followers: 355418
+    engagement: 360
+    commentsToLikes: 0.018258
     id: ck0tyw94xobs50i199wiue7gl
     verified: true
-    hashtags: "#flowerstagram, #flowers, #illustrator, #illustration"
+    hashtags: "#fashionillustrated, #beauty, #fashionillustration, #susugirls"
   - username: "charmstudio_official"
     fullname: >-
       참스튜디오
@@ -79,18 +67,54 @@ profiles:
     id: ckaoxl203dq910i789j9avwet
     verified: false
     hashtags: "#charmstudio, #piercing, #uniquepiercings, #nosepiercing"
-  - username: "dearnessie"
+  - username: "hehejihee"
     fullname: >-
-      nessie
+      Julie Hwang
     bio: >-
-      🌿 sydney, beijing, seoul ✉️ hello@dearnessie.com
+      Kiwi Korean in Dubai 🦋 EMIRATES MAKEUP VIDEO
     location: "South Korea"
-    followers: 69925
-    engagement: 1617
-    commentsToLikes: 0.010016
-    id: ck0w5k87l41t00i198tg5ht02
+    followers: 114406
+    engagement: 492
+    commentsToLikes: 0.006724
+    id: ckaozhqm2lxud0i78ep1u8e99
     verified: false
-    hashtags: "#coles, #berconiafoods, #coeliacaus, #mummtoast"
+    hashtags: "#style, #greece, #mykonos, #korean"
+  - username: "shinsama422"
+    fullname: >-
+      Shinsama 신사마(신재윤)
+    bio: >-
+      Happy virus~😁 🇰🇷 Hello~👋🏻 Nice to meet you TikTok:신사마shinsama 📩shinsama422@naver.com
+    location: "South Korea"
+    followers: 1043813
+    engagement: 103
+    commentsToLikes: 0.013651
+    id: ck8wfjxwfftoo0j78sogug71o
+    verified: false
+    hashtags: "#shinsama, #selfie, #daily, #fashion"
+  - username: "sandra_ssong"
+    fullname: >-
+      Sasha Song 모델|유튜버🇰🇷
+    bio: >-
+      서울/Seoul 🇰🇷📍 290만명 유튜버 ,모델 📸 광고,촬영문의 / Business ⬇️ sasha_song@naver.com
+    location: "South Korea"
+    followers: 686415
+    engagement: 599
+    commentsToLikes: 0.008739
+    id: ck8t8gcnikdal0j7833hnrq5k
+    verified: false
+    hashtags: "#koreanstyle, #koreanmodel, #model, #osaka"
+  - username: "jiyoungkim6364"
+    fullname: >-
+      김지영
+    bio: >-
+      Lifestyle Creator Living in Art, Fashion & Love Former <Vogue Korea> Digital Director Contact: jiyoung6364@gmail.com 📍Seoul, Korea
+    location: "South Korea"
+    followers: 108035
+    engagement: 42
+    commentsToLikes: 0.009142
+    id: ck0ub7zv2dx5l0i19fzgjqf0x
+    verified: false
+    hashtags: "#panachefine, #thecreamthatworks, #augustinusbader, #ab"
   - username: "naina_thapa"
     fullname: >-
       Naina ★네나★🧿
@@ -102,29 +126,5 @@ profiles:
     commentsToLikes: 0.051511
     id: ck6uevqevtcty0j718rd4gh5w
     verified: false
-    hashtags: "#photooftheday, #fashionista, #beauty, #makeup"
-  - username: "mjiart"
-    fullname: >-
-      Jihyun han
-    bio: >-
-      Concept artist🎨For Animation and Games /Seoul
-    location: "South Korea"
-    followers: 39630
-    engagement: 1597
-    commentsToLikes: 0.006985
-    id: ckaox0e32b7cp0i78ii333bzu
-    verified: false
-    hashtags: "#drawing, #procreate, #art, #artstation"
-  - username: "f22lmin"
-    fullname: >-
-      Mingyu Lee
-    bio: >-
-      fashion stylist @firestudio_official
-    location: "South Korea"
-    followers: 7456
-    engagement: 408
-    commentsToLikes: 0.035587
-    id: ck0u0ugd5utnk0i19gkxhc15v
-    verified: false
-    hashtags: "#sanghunlee, #berluti, #driesvannoten, #andriyskrynnyk"
+    hashtags: "#bhfyp, #style, #instagood, #art"
 ---

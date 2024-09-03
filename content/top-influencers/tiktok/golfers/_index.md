@@ -1,11 +1,11 @@
 ---
-title: Top 10 Golfers TikTok Influencers In 2023
+title: Top 10 Golfers TikTok Influencers In 2024
 description: >-
-  Find top golfers TikTok influencers in 2023. Most popular hashtags: #fyp #foryou #golf #foryoupage.
+  Find top golfers TikTok influencers in 2024. Most popular hashtags: #fyp #foryou #golf #foryoupage.
 platform: TikTok
-hits: 162
+hits: 164
 text_top: Discover the most popular TikTok influencers on inBeat.
-text_bottom: inBeat has 162 TikTok influencers like this for you to collaborate.
+text_bottom: Our database aggregates 164 TikTok influencers like this for you to pitch.
 profiles:
   - username: "bradycrump1"
     fullname: >-
@@ -78,7 +78,7 @@ profiles:
     commentsToLikes: 0.093149
     id: ck9dv43vyj7mc0j78n79juhun
     verified: false
-    hashtags: "#chipsgottalent, #fyp, #coffee, #waitforit"
+    hashtags: "#waitforit, #coffee, #chipsgottalent, #lovememode"
   - username: "parishilinski"
     fullname: >-
       Taz

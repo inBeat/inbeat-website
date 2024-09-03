@@ -1,130 +1,130 @@
 ---
-title: Top 10 Skincare Instagram Influencers In France In 2023
+title: Top 10 Skincare Instagram Influencers In France In 2024
 description: >-
-  Find top skincare Instagram influencers in France in 2023. Most popular hashtags: #makeup #cheveux #skincareroutine.
+  Find top skincare Instagram influencers in France in 2024. Most popular hashtags: #skincare #skincareroutine #skin #skincaretips.
 platform: Instagram
-hits: 467
-text_top: See the best Instagram profiles on inBeat.
-text_bottom: Our platform holds 467 Instagram influencers like this in France for you to connect with.
+hits: 669
+text_top: Analyze the most popular Instagram accounts on inBeat.
+text_bottom: Our platform has 669 Instagram influencers like this in France for you to work with.
 profiles:
-  - username: "romy"
+  - username: "theprettyusmu"
     fullname: >-
-      Romane, pour les intimes*
+      Le monde de Soline - Distributrice de good vibes☀️
     bio: >-
-      + fashion, animals, skincare and icetea lover + Founder @glace.studio <3 + Tiktok 1,1M + Collab: romy@foll-ow.com
+      🫶 Je parle de tout ce qui me passionne 🤓 Overthinkeuse Lifestyle - Skincare - Capillaire - Makeup #atypique #multipotentiel Concentré d’amour 🤍👇
     location: "France"
-    followers: 1579517
-    engagement: 298
-    commentsToLikes: 0.039484
-    id: ck137hymebn330i19kosyybke
-    verified: true
-    hashtags: "#clubglace, #gifting, #fashion, #giftmagic"
-  - username: "naturellement_lyla"
-    fullname: >-
-      NATURELLEMENT LYLA
-    bio: >-
-      #HairCare #SkinCare #CleanBeauty • Fondatrice de @nl.et.sens • Autrice de « Masques de beauté »
-    location: "France"
-    followers: 117934
-    engagement: 233
-    commentsToLikes: 0.094649
-    id: ck14h3ujn8ezw0i196blhke88
+    followers: 47485
+    engagement: 656
+    commentsToLikes: 0.027051
+    id: ck6u08gn6e7lx0j71m69oko8n
     verified: false
-    hashtags: "#haircare, #naturellementlyla, #naturel, #nletsens"
-  - username: "_irishbella_"
+    hashtags: "#mamanheureuse, #theprettyusmu, #mamande2, #cnis"
+  - username: "leahherbert7"
     fullname: >-
-      Irish Bella
+      Leah Herbert
     bio: >-
-      is Fulfilling her dreams✨ @owhbaby.id 👶🏼 @setara.bethemiracle Skincare @helwabeautycare Contact👇🏻
+      📦Collaborations: leahherbert7891@gmail.com Beauty . Skincare . Lifestyle . Motherhood
     location: "France"
-    followers: 21910231
-    engagement: 19
-    commentsToLikes: 0.006808
-    id: ck0vveouroswt0i19qtkx4mb7
-    verified: true
-    hashtags: "#mybabymomunity, #mybabymomsknowbest, #racunshampoo, #bukabritamajamannow"
-  - username: "ivy.kimbour"
-    fullname: >-
-      Caroline Bourquin 🤍
-    bio: >-
-      🥥 Ici pour t’inspirer au quotidien 🧖🏽‍♀️ Skincare & lifestyle content creator 🤍 Swiss | JU ✉️ Pr, collab: caroline.bourquin@gmail.com
-    location: "France"
-    followers: 15812
-    engagement: 438
-    commentsToLikes: 0.118016
-    id: ck5c0oygrtk6p0i11ajukastd
+    followers: 11703
+    engagement: 432
+    commentsToLikes: 0.028899
+    id: ckv3du31oyokc0j2303ena1ms
     verified: false
-    hashtags: "#swissinfluencer, #swissblogger, #swissbeautybloggers, #swissinfluencers"
-  - username: "lavieenlucie"
+    hashtags: "#theskinlabtt, #ad, #endperiodpoverty, #newhair"
+  - username: "itsheavenista"
     fullname: >-
-      La vie en Lucie ✨
+      Heaven | Cheveux crépus
     bio: >-
-      🌿Skincare addict 🥰Bien-être & self-love 🍫Pâtissière du dimanche 📍PARIS 💻 Chef de projet influence 💌 lavieenlucie@gmail.com Blogueuse depuis 2013 ⬇️
+      ✨ God 1st ➿Haircare | Skincare | Acceptation de soi 💻 @lestudiodheaven 💌 itsheavenista@gmail.com Liens utiles ⬇️
     location: "France"
-    followers: 30966
-    engagement: 221
-    commentsToLikes: 0.090567
-    id: ck5hp7ufgqwc70i117kuq0gzk
+    followers: 6082
+    engagement: 1002
+    commentsToLikes: 0.134357
+    id: clpjh7mprs0wp0k087tv3y5ix
     verified: false
-    hashtags: "#wearejolies, #bodypositive, #promod, #promodaddict"
-  - username: "thehhadeell"
+    hashtags: "#cheveuxcrepus, #cheveuxafro, #explore, #peaunoire"
+  - username: "leanne_page_"
     fullname: >-
-      ʜᴀᴅᴇᴇʟ 🦋
+      Leanne page
     bio: >-
-      @hilmihumeid ❦ Hijab modest ♡ Fashion - skincare ☻ Software engineer ♙ You tuber ☈
+      One girl, a lot of skincare 🤍 TikTok: leanne_page (1.7 million) Contact: contact@leannepage.co.uk Uk 📍
     location: "France"
-    followers: 59158
-    engagement: 440
-    commentsToLikes: 0.043334
-    id: ck9wfap5nnzyv0j78fbt77rf1
+    followers: 349742
+    engagement: 408
+    commentsToLikes: 0.005952
+    id: ck0w17ll0hy2u0i19uul2v8so
     verified: false
-    hashtags: "#explorer, #explore, #exploremore, #explorepage"
-  - username: "marina.razman.real"
+    hashtags: "#makeuptutorial, #skincareroutine, #skincareasmr, #grwmmakeup"
+  - username: "leonardmzr"
     fullname: >-
-      ℳ𝒶𝓇𝒾𝓃𝒶  ℛ𝒶𝓏𝓂𝒶𝓃
+      Léonard Mazzara
     bio: >-
-      • 🆂🅷🅾🅿 🅾🅽🅻🅸🅽🅴 • @plantifique_skincare • ՏϴᏞᎪᎡᎬ • ᏢᎪᏃᏃᎪ • ᎪႮͲϴᏆᎡϴΝᏆᏟᎪ • ᎬХ ᎷᏆՏՏ ᏆͲᎪᏞᏆᎪ ΝᎬᏞ ᎷϴΝᎠϴ (1️⃣ ҒᏆΝᎪᏞᏆՏͲᎪ)
+      🧴 skincare, makeup, lifestyle 👨‍🔬 founder @focusskincare.fr 🎬 tiktok : 600k 💌 contact@leonardmzr.com 📍 Paris
     location: "France"
-    followers: 35863
-    engagement: 251
-    commentsToLikes: 0.155718
-    id: ck6u6lkmmgb3i0j71b1rju0v4
+    followers: 73417
+    engagement: 582
+    commentsToLikes: 0.039778
+    id: cl1uc0zsycf2f0i23fjixg7om
     verified: false
-    hashtags: "#fashionstyle, #cigliaperfette, #intimo, #ciglia"
-  - username: "monique_makeup_"
+    hashtags: "#skinreset, #skincarebarbe, #uriagefrance, #soinspeau"
+  - username: "ericamonteiro"
     fullname: >-
-      𝐌𝐨𝐧𝐢𝐜𝐚 •𝐌𝐀𝐊𝐄𝐔𝐏 •𝐇𝐀𝐈𝐑 •𝐒𝐊𝐈𝐍𝐂𝐀𝐑𝐄
+      Erica Monteiro Makeup Artist
     bio: >-
-      Appassionata di makeup autodidatta 💄 Curly girl 👩🏻‍🦱 In fissa con la skincare 🧼 Tik Tok 🎶 monique_makeup_ 🎥 ULTIMO VIDEO YOUTUBE ⤵️
+      Global Beauty Artist Learn Effortless Makeup & Skincare Retail Education & Engagement Manager @sundayriley @beautyqlick.official Shop Fav
     location: "France"
-    followers: 2964
-    engagement: 886
-    commentsToLikes: 0.216592
-    id: ck8taae7sqzm20j78s21u0p52
+    followers: 31253
+    engagement: 378
+    commentsToLikes: 0.018357
+    id: ck0w75yi6bxao0i19pv0m190t
     verified: false
-    hashtags: "#bperfectcarnivalpalette, #bellhypoallergenic, #mualinksearch, #carnivallovetahiti"
+    hashtags: "#diorbeautylovers, #parisfashion, #parisfashionweek, #sainttropez"
+  - username: "selflove_aida"
+    fullname: >-
+      Aïda Kihal
+    bio: >-
+      ❤️ Selflove, skincare, makeup & fun 🇫🇷 Paris oui oui 💌 PR • Collabs • UGC : selflove.aida@gmail.com
+    location: "France"
+    followers: 114775
+    engagement: 289
+    commentsToLikes: 0.046556
+    id: cl3w8zb2bcts90i23zayx7vwx
+    verified: false
+    hashtags: "#pimple, #progress, #positivity, #skincareroutine"
+  - username: "maggykloset"
+    fullname: >-
+      Marguerite Dieunie Kilama
+    bio: >-
+      ✧Youtuber 239K+ ✧ Miss 🇨🇲🇨🇦 2017 ✧ CEO of @maggyklosetbeauty Skincare & @maggyklosetshop Lace wigs
+    location: "France"
+    followers: 86587
+    engagement: 261
+    commentsToLikes: 0.013566
+    id: ckaoula020rd30i78qj3v6yyf
+    verified: false
+    hashtags: "#vlog, #dayinmylife, #missuniversecanada, #nomakeup"
   - username: "biotenaturelle"
     fullname: >-
-      🌸 Bioté Naturelle
+      Bioté Naturelle - Aline
     bio: >-
-      🌿 skincare & diy beauté 🧵 créations zéro déchet 💖 FAQ conseils tous les mercredis ✊ photos douces mais meuf sans tabou
+      🌸 Tes conseils beauté supplément skincare 🌿 Avec option naturelle + scientifique 🔍 Je t’explique les dessous de tes produits 🧚‍♀️ @zed.atelier
     location: "France"
-    followers: 48990
-    engagement: 374
-    commentsToLikes: 0.067159
+    followers: 50924
+    engagement: 257
+    commentsToLikes: 0.049276
     id: ckaozsk8wn7s10i78mekx0dn5
     verified: false
-    hashtags: "#beautenaturelle, #beautebio, #faitmain, #slowcosmetique"
-  - username: "dellawidyasari"
+    hashtags: "#cosmetiquenaturelle, #cosmetiquesbio, #soindelapeau, #soinvisage"
+  - username: "akasa.skincare"
     fullname: >-
-      del
+      Maria Valeria Guerra
     bio: >-
-      BA Skincare @dr.lestari.skincare BA Body & Makeup @msglowstockistpekanbaru Owner @adproperty1 @adcollectionnn1 @galeryremajapekanbaru 👋 Endorse?👇
+      Cosmetóloga, internacionalista y beauty blogger Te doy tips sobre belleza y bienestar Beauty traveler Info akasa.skincare@gmail.com
     location: "France"
-    followers: 17782
-    engagement: 310
-    commentsToLikes: 0.101336
-    id: ckapcd0w93bmy0i78oiumug1c
+    followers: 157593
+    engagement: 235
+    commentsToLikes: 0.073725
+    id: ck5qad0cvfr7d0i110kzww7ch
     verified: false
-    hashtags: "#hits, #girl, #cafepekanbaru, #hijab"
+    hashtags: "#tipsdebelleza, #cuidadodelapiel, #cuidadofacial, #reelitfeelit"
 ---

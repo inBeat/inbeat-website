@@ -1,11 +1,11 @@
 ---
-title: Top 10 Skincare TikTok Influencers In Germany In 2023
+title: Top 10 Skincare TikTok Influencers In Germany In 2024
 description: >-
-  Find top skincare TikTok influencers in Germany in 2023. Most popular hashtags: #skincare #fyp #foryou #foryoupage.
+  Find top skincare TikTok influencers in Germany in 2024. Most popular hashtags: #skincare #fyp #foryou #foryoupage.
 platform: TikTok
 hits: 56
-text_top: Analyze the most popular TikTok profiles on inBeat.
-text_bottom: Our platform has 56 TikTok influencers like this in Germany for you to connect with.
+text_top: Analyze the most popular TikTok accounts on inBeat.
+text_bottom: Our platform aggregates 56 TikTok influencers like this in Germany for you to connect with.
 profiles:
   - username: "yeauty_official"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.060289
     id: ckd66j13n37ca0j23mu4f0q2p
     verified: false
-    hashtags: "#yeauty, #comedy, #eyepadmask, #winwinwin"
+    hashtags: "#yeauty, #verlosung, #skincare, #gewinnspiel"
   - username: "...florence...by...mills"
     fullname: >-
       💜🐳
@@ -102,7 +102,7 @@ profiles:
     commentsToLikes: 0.016192
     id: ck83k09nx8azf0j78zelmrlyv
     verified: false
-    hashtags: "#asmrskincare, #skincare, #makeupartist, #makeuptransformation"
+    hashtags: "#skincare, #asmrskincare, #makeuptransformation, #skincareroutine"
   - username: "tumblrxlife"
     fullname: >-
       🪐✨
@@ -114,7 +114,7 @@ profiles:
     commentsToLikes: 0.009497
     id: ckbf61pj3vbjb0j23y2ab8fdi
     verified: false
-    hashtags: "#routine, #besalted, #fy, #blog"
+    hashtags: "#grwm, #tumblr, #raybanelevatordance, #fy"
   - username: "charlotteschueler"
     fullname: >-
       Charlotte Schüler
@@ -126,5 +126,5 @@ profiles:
     commentsToLikes: 0.010745
     id: ckb9vnwocv2bd0j23dnv1ctyn
     verified: true
-    hashtags: "#plastikfrei, #umweltschutz, #naturkosmetik, #fyp"
+    hashtags: "#lernenmittiktok, #umweltschutz, #fyp, #plastikfrei"
 ---

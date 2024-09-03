@@ -1,12 +1,72 @@
 ---
-title: Top 10 Food Instagram Influencers In Toronto In 2023
+title: Top 10 Food Instagram Influencers In Toronto In 2024
 description: >-
-  Find top food Instagram influencers in Toronto in 2023. Most popular hashtags: #tastetoronto #cravethe6ix #toronto #yyzeats.
+  Find top food Instagram influencers in Toronto in 2024. Most popular hashtags: #torontofoodie #tastetoronto #toronto #torontofood.
 platform: Instagram
-hits: 70
-text_top: Identify the best Instagram profiles on inBeat.
-text_bottom: inBeat holds 70 Instagram influencers like this in Toronto, Canada for you to connect with.
+hits: 209
+text_top: Identify the best Instagram accounts on inBeat.
+text_bottom: Our platform holds 209 Instagram influencers like this in Toronto, Canada for you to connect with.
 profiles:
+  - username: "micheatsmuch"
+    fullname: >-
+      Michelle • Toronto Food Blog
+    bio: >-
+      🍜exploring food in Toronto and Markham 👩🏻‍💻accountant by day, foodie by night 💌dm / email for tasty partnerships
+    location: "Canada"
+    followers: 11063
+    engagement: 557
+    commentsToLikes: 0.169255
+    id: clb9x52ur7oa90i23zjtnfn90
+    verified: false
+    hashtags: "#torontoeats, #torontofoodies, #yyzeats, #foodgasm"
+  - username: "bigbellymel"
+    fullname: >-
+      BIG BELLY MEL🧋
+    bio: >-
+      📍Scarborough, ON — Food • Travel • Lifestyle — Always thinking about my next bite! — TikTok: bigbellymel 💌 Bigbellymel@gmail.com
+    location: "Canada"
+    followers: 14392
+    engagement: 629
+    commentsToLikes: 0.145280
+    id: clnjn0qxno8rs0j08fr3hyxuq
+    verified: false
+    hashtags: "#torontofood, #worldfoodie, #scarboroughfoodie, #cewm"
+  - username: "toronto_foodiediary"
+    fullname: >-
+      🇨🇦Toronto Foodie Diary #CANADA
+    bio: >-
+      👫@toronto_foodiediary |📸Original content 📍Greater #TORONTO Area & beyond 💌torontofoodiediary2018@gmail.com 🍳🍰🥞🍣🍕🌮🍜🥘🍗🍵🧋 ©️2018TFD. All rights reserved
+    location: "Canada"
+    followers: 19798
+    engagement: 257
+    commentsToLikes: 0.191372
+    id: ck9wdviv0hge20j78hvnkml86
+    verified: false
+    hashtags: "#noodle, #torontofoodie, #torontorestaurants, #instalike"
+  - username: "torontomunching"
+    fullname: >-
+      3 Hungry Sisters・Toronto Food & Lifestyle
+    bio: >-
+      🇨🇦 Toronto | Markham | GTA 💗 Want to collab? DM or email us! 💌 tomunching@gmail.com 🍰 @tiffaanylai, @miche.msl, with a @xchera on top
+    location: "Canada"
+    followers: 13174
+    engagement: 147
+    commentsToLikes: 0.453575
+    id: ckyecgv2lpyyj0j233qdcm0c1
+    verified: false
+    hashtags: "#torontofood, #torontorestaurants, #torontoeats, #chinesefood"
+  - username: "grandmalovesyoutoronto"
+    fullname: >-
+      Grandma Loves You
+    bio: >-
+      📍1084 Yonge street 📍111 Richmond Street W 100 Top places to eat in Canada by Yelp 2022/2023
+    location: "Canada"
+    followers: 37432
+    engagement: 192
+    commentsToLikes: 0.059263
+    id: cks86fq6gr5v50j238dhkkpt9
+    verified: false
+    hashtags: "#instadaily, #food, #torontofood, #torontofoodie"
   - username: "isaiahishungry"
     fullname: >-
       Isaiah's Eats N Sips
@@ -19,112 +79,52 @@ profiles:
     id: ck8syvvtbm7py0j780m6htocr
     verified: false
     hashtags: "#yorkdalestyle, #tastethesix, #isaiahishungry, #japanesefood"
-  - username: "claudioaprile1"
-    fullname: >-
-      Claudio Aprile
-    bio: >-
-      @masterchefcda Judge. #Chef Media requests please contact cassie@northpr.ca. Sponsorship opportunities please contact lorraine.quartaro@sympatico.ca
-    location: "Canada"
-    followers: 33306
-    engagement: 307
-    commentsToLikes: 0.027086
-    id: ck0vv56zxnlmc0i199eyo11u0
-    verified: true
-    hashtags: "#masterchefcanada, #competition, #canada, #food"
   - username: "nourishingmegan"
     fullname: >-
-      ᴍᴇɢᴀɴ | ᴠᴇɢᴇᴛᴀʀɪᴀɴ ꜰᴏᴏᴅɪᴇ 🇰🇷🌿
+      megan | vegetarian foodie 🌱
     bio: >-
-      〰️ ur one n only giveaway queen 📍mississauga | toronto | @megannkim 💌 dm/email for collabs ☻︎
+      if it involves brunch or pretty drinks count me in ☁️ toronto | lifestyle ↠ @megannkim 🍵 dm/email for collabs ☻︎
     location: "Canada"
-    followers: 8690
-    engagement: 485
-    commentsToLikes: 0.478054
+    followers: 9606
+    engagement: 297
+    commentsToLikes: 0.401599
     id: ckxlebfeo7ydq0j23c0wvcpyg
     verified: false
-    hashtags: "#bestoftoronto, #foodie, #dishedto, #torontofoodies"
-  - username: "smileey.lucy"
+    hashtags: "#plantbased, #wtftoronto, #dishedto, #tastetoronto"
+  - username: "tastesbyjade"
     fullname: >-
-      Lucy📍Toronto Foodie Mommy
+      Sarah Jade Amaya 🇵🇭🇨🇦
     bio: >-
-      ✨Foodie mom explores & makes deliciousness 👩‍🍳Restaurant | Recipe | Beverage &Drink 🥰DM/Email Collabs 合作🇨🇦GTA Toronto Markham 📧smileey.lucy@gmail.com
+      Urbanite, writer, creator, cook. Raising the next gen. tastesbyjade@gmail.com
     location: "Canada"
-    followers: 17338
-    engagement: 213
-    commentsToLikes: 0.358781
-    id: ckrvnl3i3ktft0j23oqa3s2mu
+    followers: 20780
+    engagement: 80
+    commentsToLikes: 0.061437
+    id: ckryuuzmx2j9u0j239512alut
     verified: false
-    hashtags: "#canadianbloggers, #ottawafoodies, #foodto, #homemade"
-  - username: "canspiceitup"
+    hashtags: "#thankyoutoronto, #6ixwalks, #cravethe6ix, #foodpornto"
+  - username: "soceelicious"
     fullname: >-
-      Toronto Foodies
+      Cee ♡  Toronto | KW foodie
     bio: >-
-      📍Greater Toronto Area ⬅️Lived in Montreal🇨🇦, Chicago🇺🇸 & India🇮🇳 👫a foodie couple on a mission to discover food spots 📩DM for collabs/invites
+      📍GTA | cambridge | toronto | waterloo 🎈come eat with me! 💌dm/ email for inquiries ❤️soceelicious@gmail.com
     location: "Canada"
-    followers: 6162
-    engagement: 795
-    commentsToLikes: 0.498971
-    id: ck0u9tffgamnr0i192jiattus
+    followers: 12244
+    engagement: 627
+    commentsToLikes: 0.168816
+    id: cln1l5x608c560j08wsea3hei
     verified: false
-    hashtags: "#phoneeatsfirst, #scarborougheats, #invite, #summervibes"
-  - username: "ladyofrandomnessto"
+    hashtags: "#torontoblogger, #yyzdateideas, #narcitytoronto, #saugacity"
+  - username: "cravingthis1"
     fullname: >-
-      Lady Of Randomness To 💙
+      𝗥𝗨𝗕𝗬 💜 Food Blogger | Toronto | GTA
     bio: >-
-      Tia 👌Vibe Approver 🍡Foodie Lover 😜Being Random One Day At A Time 🎥Content Creator 🔥Dopamine Dealer 📧 Ladyofrandomness@hotmail.com
+      🖊️ Food, Restaurant, Product Reviewer ✍🏼 Yelp Elite Gold | Google LG L8 🚨 PERMISSION REQUIRED to Repost 📧 Work with me via DM or Email
     location: "Canada"
-    followers: 17124
-    engagement: 175
-    commentsToLikes: 0.557627
-    id: ck134od81xeii0i19nwpjlp6o
+    followers: 14084
+    engagement: 527
+    commentsToLikes: 0.263018
+    id: clfb7s3o62ywv0j08f3mmz27w
     verified: false
-    hashtags: "#torontofoodblogger, #streetsoftoronto, #lick, #foodie"
-  - username: "crashadamsmusic"
-    fullname: >-
-      CRASH ADAMS 🚀
-    bio: >-
-      Listen to “Give Me A Kiss” & “Destination Freestyle (feat. @realkingvvibe)” below👇🏼🏝
-    location: "Canada"
-    followers: 1225086
-    engagement: 1116
-    commentsToLikes: 0.008763
-    id: ck8wdcr15dnf30j78ev4a9dlh
-    verified: false
-    hashtags: "#musiciansofig, #reels, #cravethe6ix, #diymusician"
-  - username: "simransaahni"
-    fullname: >-
-      Simran | Adventure + Travel ✈︎
-    bio: >-
-      Content Creator, Photographer and Educator ⫸ @jimmyandsimran @simransahniphoto ⫸ pr/collabs: simransahni@outlook.com ⫸ toronto, canada socials ⤵
-    location: "Canada"
-    followers: 4663
-    engagement: 1377
-    commentsToLikes: 0.119137
-    id: ckaou8f6nz9nq0i7829wbd8cr
-    verified: false
-    hashtags: "#traveldreamseekers, #explorecanada, #simransahni, #thewanderingtourist"
-  - username: "eat.with.evie"
-    fullname: >-
-      Evie | Toronto Content Creator
-    bio: >-
-      💌 Eat.with.eviee@gmail.com 🇨🇦 #Toronto Food, Fashion and Female Empowerment I love to help microinfluencers ⬆️ ❤️ 2 Chronicles 15:7
-    location: "Canada"
-    followers: 9236
-    engagement: 544
-    commentsToLikes: 0.360144
-    id: ckaor4892lnko0i789faij58s
-    verified: false
-    hashtags: "#reelsinstagram, #socialmediamanager, #discoverunder10k, #vancouver"
-  - username: "boltonsbites"
-    fullname: >-
-      TORONTO FOOD by Mike Bolton
-    bio: >-
-      🇨🇦 Toronto Food Blogger 📲 Social Media for Restaurants 📬 Contact via Email/DM 👇 Links Below👇
-    location: "Canada"
-    followers: 32393
-    engagement: 206
-    commentsToLikes: 0.086703
-    id: ck0txm2wdjkyd0i19z3yjkxcu
-    verified: false
-    hashtags: "#burgers, #torontofood, #torontoeats, #foodpornography"
+    hashtags: "#ayce, #hotpot, #torontofoodies, #chinesehotpot"
 ---

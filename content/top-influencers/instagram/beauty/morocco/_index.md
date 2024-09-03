@@ -1,130 +1,130 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Morocco In 2023
+title: Top 10 Beauty Instagram Influencers In Morocco In 2024
 description: >-
-  Find top beauty Instagram influencers in Morocco in 2023. Most popular hashtags: #fashion #makeup #fashionstyle.
+  Find top beauty Instagram influencers in Morocco in 2024. Most popular hashtags: #fashion #love #beautiful #summer.
 platform: Instagram
-hits: 134
-text_top: Identify the most popular Instagram influencers on inBeat.
-text_bottom: Our platform aggregates 134 Instagram influencers like this in Morocco for you to connect with.
+hits: 180
+text_top: Discover the top-rated Instagram profiles on inBeat.
+text_bottom: inBeat has 180 Instagram influencers like this in Morocco for you to pitch.
 profiles:
-  - username: "randdalati"
+  - username: "ajai_guyot"
     fullname: >-
-      The Datis 🌸 رند دالاتي • Dubai Influencer
+      Ajai Guyot
     bio: >-
-      👩🏼Licensed Content Creator in Dubai • Journalist • Youtuber 👗Snapchat & Tiktok: Randdalati 👢Beauty | Fashion | Lifestyle 📧: rand.dalati@gmail.com
+      Inspiring practical beauty. Interiors / DIY / Fashion / Mama / Wife 💌: ajaiguyotcollective@gmail.com 📍Los Angeles 👇🏽Links
     location: "Morocco"
-    followers: 1637216
-    engagement: 208
-    commentsToLikes: 0.040509
-    id: ckap1n9hmva2a0i78fhcftoiq
+    followers: 36832
+    engagement: 1086
+    commentsToLikes: 0.029766
+    id: ckmylqj3fajr40j23x90ujrew
     verified: false
-    hashtags: "#makeup, #outfit, #worldcup, #qatar"
-  - username: "marwahassan"
+    hashtags: "#kitchendecor, #neutraldecor, #kitchenstorage, #smallspaceliving"
+  - username: "wydad_chak"
     fullname: >-
-      Marwa Hassan مروة حسن
+      Wydad Chakir | وداد شكير
     bio: >-
-      Fashion • Beauty • Travel Info.marwahassan@gmail.com @marwa 👘 @youssefandomar mum 👨‍👩‍👦‍👦 Cofounder @lyoscarfs | @montessorieducationaltoys
+      Moroccan model and blogger 🇲🇦 I share with you my lifestyle and everything related to fashion and beauty ✨ 📩 Wydadchakir0@gmail.com 📍 Based in 🇦🇪
     location: "Morocco"
-    followers: 2645433
-    engagement: 56
-    commentsToLikes: 0.005567
-    id: ck0tv6mfha5xw0i1977h5qc7v
-    verified: true
-    hashtags: "#trending, #sleem, #otrivinairbubble, #firsttimeinegypt"
-  - username: "sfatimazahraa"
-    fullname: >-
-      Fatimazahra Sel 🇲🇦
-    bio: >-
-      💄/ Fashion beauty & lifestyle 🕊/ hijab 📍/ RABAT 📥/ For collaborations fatimazohra.selhami@gmail.com
-    location: "Morocco"
-    followers: 47021
-    engagement: 393
-    commentsToLikes: 0.034769
-    id: ckaoult3v0tp10i78ezrrkgyz
+    followers: 261935
+    engagement: 1044
+    commentsToLikes: 0.011371
+    id: ck14kbu4noqtn0i194gh7jfwh
     verified: false
-    hashtags: "#fashionista, #hijabsyari, #fashiongram, #muslim"
-  - username: "safae.ntifi.benchrif"
+    hashtags: ""
+  - username: "instamarrakech"
     fullname: >-
-      🎀 Safae / صفاء 🎀
+      Instamarrakech
     bio: >-
-      إهتمِي بنفسِك وكُوني أقوى مما يظنونْ، فكيُدك عظيّم 👸 ❤ Influencer ❤ Blogueur ❤ beauty ❤lifestyle
+      Showing people around the world the beauty of Marrakech, and inspiring them to visit it. 🔻 Book our services 🔻
     location: "Morocco"
-    followers: 257391
-    engagement: 64
-    commentsToLikes: 0.032900
-    id: ck134hn56wgqz0i19hkp8umfn
+    followers: 183432
+    engagement: 609
+    commentsToLikes: 0.020354
+    id: ck15pwktezzru0i19fpep9x7i
     verified: false
-    hashtags: "#outfitoftheday, #fashionaddict, #fashionmodel, #blogger"
-  - username: "oumaima_elghachi"
+    hashtags: "#marrakesh, #travelblogger, #travelreels, #moroccovacations"
+  - username: "lara.tareq40"
     fullname: >-
-      Hijab Modest
+      Lara Tareq
     bio: >-
-      🇲🇦 أُمَيمَة الغَاشِي @qafilaanamaak profile supporter Fashion•beauty•lifestyle #beautiful_in_hijab 💜
+      Fashion & beauty, 🇯🇴 No- Snapchat: Lara.Tareq40 Founder: @larabride.jo For business : +962796048458 كونكَ حقيقاً . افضل من كونك انيقاً بشكل زائف✨
     location: "Morocco"
-    followers: 826208
-    engagement: 310
-    commentsToLikes: 0.005391
-    id: ck15tt47rjrfp0i19lj8f0fus
+    followers: 682009
+    engagement: 652
+    commentsToLikes: 0.015639
+    id: ck0tvj03dbkif0i19gdowknbo
     verified: false
-    hashtags: "#maybellinesquad2021, #maybelline"
-  - username: "feda_mak"
+    hashtags: "#fashion, #friends, #hijabers, #hijab"
+  - username: "nouhailalarabiofficiel"
     fullname: >-
-      FEDA MAHMOUD  |  فداء محمود
+      Nouhaila Larabi Benjama
     bio: >-
-      Interior Architect 📐 Beauty-Fashion-lifestyle 📍living in Jerusalem -القدس Jordanian 🇯🇴 🇵🇸married💍 Snapchat: Feda_mak Working at @JACCO_autism
+      Founder & ceo @noha_cosmetics Content creator & Beauty expert ✉️ larabinouhaila@gmail.com For collabs : +212 6 61 06 28 02
     location: "Morocco"
-    followers: 84024
-    engagement: 198
-    commentsToLikes: 0.195604
-    id: ck13655vr4sss0i19cn2wpfmj
+    followers: 590548
+    engagement: 262
+    commentsToLikes: 0.026659
+    id: ck6uc606cdq5f0j712nt83wz7
     verified: false
-    hashtags: "#qatar, #explore, #instagood, #ootd"
-  - username: "sarah_abyak"
+    hashtags: "#30weekspregnant, #rayban, #raybanreverse, #bali"
+  - username: "najwa_aburbean"
     fullname: >-
-      Sarah_abyak
+      Najwa Aburbean-نجوى أبو ربيعان
     bio: >-
-      📍Casablanca🇲🇦 • Makeup & Beauty For Collaborations & Publicities : 📩saraaakouch25@gmail.com
+      •🇯🇴🇶🇦 •Qatar📍🇶🇦 •Model - Beauty blogger •snapchat : Najwa_aburbean👻 •For business inquires 💌 dm ( direct massage )
     location: "Morocco"
-    followers: 33550
-    engagement: 157
-    commentsToLikes: 0.063435
-    id: ck8taxalwtgj10j78pmcfnlgk
+    followers: 52945
+    engagement: 211
+    commentsToLikes: 0.011678
+    id: ck14hubgnc6hf0i19igot8s1c
     verified: false
-    hashtags: "#marocco, #marocaine, #maroccangirl, #caftan"
-  - username: "fashionmintea"
+    hashtags: "#bahrain, #explorepage, #instagram, #makeuptutorial"
+  - username: "kghoumary"
     fullname: >-
-      Yasmina Olfi
+      𝒦𝑒𝓃𝓏𝒶 𝑔𝒽𝑜𝓊𝓂𝒶𝓇𝓎  ♛
     bio: >-
-      Moroccan digital entrepreneur🇲🇦Fashion ,Beauty, Travel & Lifestyle 🧿🌴 Current location:📍Morocco Contact : fashionmintea@gmail.com​ TED speaker 🔊
+      Moroccan🇲🇦 Content creator📹 Lifestyle & beauty🧚‍♀️ For Business inquiries: 📩ghoumaryk@gmail.com Welcome to my journey🌹
     location: "Morocco"
-    followers: 230094
-    engagement: 190
-    commentsToLikes: 0.015014
-    id: ck6ub14qk6v2m0j71ictzdlvl
-    verified: true
-    hashtags: "#revolveme, #revolvewinter, #goodgirlcarolinaherrera, #marrakech"
-  - username: "dalalid"
-    fullname: >-
-      Dalal AlDoub 🕊
-    bio: >-
-      Fashion & Beauty, Kuwait Snapchat : Dalalid 📧 Info@dalalid.com 🌱 @vterrakw 🧥 @tresbeige ⚖️ @lawyer_aljawhra ⤵️ New video
-    location: "Morocco"
-    followers: 2843630
-    engagement: 114
-    commentsToLikes: 0.014362
-    id: ck5zteltq099p0i145z5whspd
-    verified: true
-    hashtags: "#friday, #getyourglowon, #confidenceinabottle, #louisvuitton"
-  - username: "amall.channel"
-    fullname: >-
-      Amal Channel 🌸
-    bio: >-
-      - Moroccan Youtubeur - Beauty💄,Lifestyle🎀 -Youtube 🎬 Amal Channel
-    location: "Morocco"
-    followers: 53282
-    engagement: 128
-    commentsToLikes: 0.063471
-    id: ck8t1qtmwwob50j7881n2tr8r
+    followers: 653750
+    engagement: 194
+    commentsToLikes: 0.017005
+    id: ck8t5xajibk2d0j78x14fqo3q
     verified: false
-    hashtags: "#moroccan, #family, #couplegoals, #love"
+    hashtags: "#casa, #fashionblogger, #girl, #loveyourself"
+  - username: "hindelmekaoui"
+    fullname: >-
+      Hind Elmekaoui - هند المكاوي
+    bio: >-
+      Beauty content creator & Makeup trainer & model Official account 💍❤️ 📍Avenue Hassan 2, Rès.Ifrane, Mag N 20 , Agdal , Rabat 0537699407/0537696213
+    location: "Morocco"
+    followers: 2079716
+    engagement: 289
+    commentsToLikes: 0.012240
+    id: ck139aw09ke6w0i19zy72phgf
+    verified: false
+    hashtags: "#fiancailles, #goodvibes, #fashion, #uae"
+  - username: "marouwa"
+    fullname: >-
+      Maroua
+    bio: >-
+      Here to give you tips ✨ Bons plans | beauty | outfits •📍Tangier •📩 marouwa.ig@gmail.com •👶🏻 & 🐶 mommy
+    location: "Morocco"
+    followers: 67465
+    engagement: 154
+    commentsToLikes: 0.042728
+    id: ck8tdcl8s2tce0j78ce1q5198
+    verified: false
+    hashtags: "#tiktok, #insta, #tanger, #trend"
+  - username: "ghazichaimaee"
+    fullname: >-
+      Chaimae Ghazi🪬
+    bio: >-
+      𝑪𝒉𝒂𝒊𝒎𝒂𝒆🤎 • Software Engineer • Owner of @lemsahouse • FASHION | LIFESTYLE | BEAUTY 📩 For business: ghazichaimae@gmail.com
+    location: "Morocco"
+    followers: 769540
+    engagement: 152
+    commentsToLikes: 0.002947
+    id: ck14hlrxrayhm0i19tjofs0x3
+    verified: false
+    hashtags: "#hijabootd, #amazing, #hijabista, #instagramanet"
 ---

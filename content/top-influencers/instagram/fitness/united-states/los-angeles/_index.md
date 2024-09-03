@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Los Angeles In 2023
+title: Top 10 Fitness Instagram Influencers In Los Angeles In 2024
 description: >-
-  Find top fitness Instagram influencers in Los Angeles in 2023. Most popular hashtags: #fitness #losangeles #love #fashion.
+  Find top fitness Instagram influencers in Los Angeles in 2024. Most popular hashtags: #fitness #losangeles #california #explore.
 platform: Instagram
-hits: 585
-text_top: Analyze the top-rated Instagram influencers on inBeat.
-text_bottom: Our search engine has 585 Instagram influencers like this in Los Angeles, United States for you to contact.
+hits: 677
+text_top: Analyze the most popular Instagram profiles on inBeat.
+text_bottom: Our database holds 677 Instagram influencers like this in Los Angeles, United States for you to collaborate.
 profiles:
   - username: "boldaslauren"
     fullname: >-
@@ -13,48 +13,48 @@ profiles:
     bio: >-
       yoga sculpt instructor 🤘🏼 health enthusiast | real food | fitness | los angeles boldaslauren@gmail.com
     location: "United States"
-    followers: 4949
-    engagement: 794
-    commentsToLikes: 0.053321
+    followers: 4581
+    engagement: 847
+    commentsToLikes: 0.053017
     id: ck0tztsakrlwi0i193u5cczp4
     verified: false
-    hashtags: "#sponsored, #ad, #vitalinfluencer, #stayvital"
-  - username: "zack_palmisano"
+    hashtags: "#sponsored, #ad, #vitalinfluencer, #together"
+  - username: "ericrzep"
     fullname: >-
-      Zack Palmisano
+      
     bio: >-
-      😊 Happy people are the most attractive people! 🌱 Vegan Watch My Highlight! 🔥 OF + Coaching Below! 💪 Competitive Bodybuilder 🌆 LA. @suvihannaa 💍
+      REAL ESTATE DEVELOPMENT | MARKETING | SALES WHARTON ALUM CA 📍
     location: "United States"
-    followers: 120052
-    engagement: 159
-    commentsToLikes: 0.017215
-    id: ckaowywakb2vg0i78qtu3ntrd
+    followers: 10211
+    engagement: 1055
+    commentsToLikes: 0.038288
+    id: ck5zp5j57s0vx0i1455ijpokf
     verified: false
-    hashtags: "#vegangains, #vegan, #gymrat, #dyel"
-  - username: "ritzjwill"
+    hashtags: "#puppy, #fitness, #losangeles, #biceps"
+  - username: "ktbrealty"
     fullname: >-
-      RITZ WILLIAMS⚡️
+      Kyle Blevins
     bio: >-
-      i think I fell in love with growth 🌱
+      Founder/Agent: @ktbrealtygroup Real Estate 🏘| Fitness🏃🏻| Lifestyle 🌎 📍Santa Monica, Brentwood, Pacific Palisades
     location: "United States"
-    followers: 20120
-    engagement: 456
-    commentsToLikes: 0.098677
-    id: ck5zsgxssyh5e0i147qsnfygc
+    followers: 11860
+    engagement: 238
+    commentsToLikes: 0.075547
+    id: ck0vxh3c5yv600i19rpu02jka
     verified: false
-    hashtags: "#fitness, #losangeles, #love, #fun"
-  - username: "nikki_trinidad_"
+    hashtags: "#ktbrealtygroup, #motivation, #santamonicarealestate, #sunsetparkktb"
+  - username: "aniuta_777"
     fullname: >-
-      Nikki Trinidad
+      Policarpova Anna 💃
     bio: >-
-      📍DTLA , Los Angeles ▫️Filipina | Latina ▫️Travel • Fashion • Bikini LOVER ✨ ▫️M/A @leo.alderman @lsamanagement 📩NikkiTrinidadBookings@gmail.com
+      Chicago 🇺🇸 - based📍Fitness coach, beautician esthete, Mom of 4 girls👩 aniutapolicarpova@gmail.com
     location: "United States"
-    followers: 99625
-    engagement: 183
-    commentsToLikes: 0.062052
-    id: ck5c31ejdyetf0i1104rbc0oc
+    followers: 41420
+    engagement: 240
+    commentsToLikes: 0.044571
+    id: ck0u0w6llv1be0i19v5dbv1iw
     verified: false
-    hashtags: "#ad, #ohpollyswim, #ohpolly, #sportswear"
+    hashtags: "#momlife, #lovemylife, #lovemyworld, #fitness"
   - username: "jorgioblamo"
     fullname: >-
       Jorge Blamo 🇬🇭🇵🇹
@@ -66,19 +66,19 @@ profiles:
     commentsToLikes: 0.069638
     id: ckapci5wo3wgy0i787hom7xij
     verified: false
-    hashtags: "#leadyourlife, #jb, #throughthistogether, #throughthemind"
-  - username: "drewlip"
+    hashtags: "#throughthistogether, #throughthemind, #grindsmartbegreat, #leadyourlife"
+  - username: "jessejconrad"
     fullname: >-
-      Andrew B Lipson
+      J E S S E   C O N R A D
     bio: >-
-      Actor ~ Barman 🍎🍕🗽—> 🎭🌮🕶
+      Manager Jim Jordan info@whitecrossmanagement.com Apex Pred GT: buddhaJess
     location: "United States"
-    followers: 2675
-    engagement: 1163
-    commentsToLikes: 0.096086
-    id: ck13akxjgqvs00i197wewjjb6
+    followers: 19078
+    engagement: 1277
+    commentsToLikes: 0.012355
+    id: ck5q77bry09gn0i11f38r3m7m
     verified: false
-    hashtags: "#actor, #me, #bar, #acting"
+    hashtags: "#easter, #model, #actor, #fitness"
   - username: "dr.cracks"
     fullname: >-
       Dr.Ali Cracks
@@ -103,28 +103,28 @@ profiles:
     id: ckap5u7jnd6od0i783ojpxebi
     verified: false
     hashtags: "#whitetoes, #photography, #latina, #fashion"
-  - username: "sonnymatson1"
+  - username: "performix_house"
     fullname: >-
-      Sonny Matson
+      Performix House
     bio: >-
-      Born in Australia | Living in LA Snapchat | sonnymatson sonnymatson@hotmail.com🌴 My photography page @sonnychaotic Fashion magazine • Uncensored
+      At the House you can train like an athlete and recover like a professional. For inquiries please reach out to info@performixhouse.com. ——————— NYC+LA
     location: "United States"
-    followers: 33795
-    engagement: 278
-    commentsToLikes: 0.023262
-    id: ck55kozf6zsfg0i119i3ta8o8
+    followers: 21673
+    engagement: 199
+    commentsToLikes: 0.018536
+    id: ck5hfde52wyea0i11ej95ogjz
     verified: false
-    hashtags: "#fitness, #hair, #losangeles, #beauty"
-  - username: "hellgoth6"
+    hashtags: "#training, #wellness, #stayactive, #westhollywood"
+  - username: "erin_micklow"
     fullname: >-
-      𖤐    𝐻𝐸𝐿𝐿 𝐻𝐸𝑅𝐸       𖤐
+      Erin Micklow
     bio: >-
-      𖤐 𝐆𝐎𝐓𝐇 / 𝐆𝐑𝐔𝐍𝐆𝐄 𝐈𝐍𝐒𝐏𝐈𝐑𝐀𝐓𝐈𝐎𝐍 𖤐 ᴰᴹ / ᴱᴹᴬᴵᴸ ᶠᴼᴿ ᴾᴬᴵᴰ ᴾᴿᴼᴹᴼˢ 𖤐 𝘛𝘈𝘎 𝘔𝘌 𝘛𝘖 𝘎𝘌𝘛 𝘍𝘌𝘈𝘛𝘜𝘙𝘌𝘋
+      📸 Model/Actress 🎥 SUBSCRIBE to LAST ROCKERS TV on YouTube, Spotify, Apple Podcasts + Amazon Music🤘 Owner: @glampinghollywoodhills
     location: "United States"
-    followers: 11586
-    engagement: 383
-    commentsToLikes: 0.021371
-    id: ckaovg1ry4gz40i78eh00678d
-    verified: false
-    hashtags: "#darkfashion, #gothicfashion, #gothgirls, #gothfashion"
+    followers: 175329
+    engagement: 53
+    commentsToLikes: 0.019384
+    id: ck138k2fwglzs0i19u44fj8kx
+    verified: true
+    hashtags: "#punkmusic, #sheintrendy, #outfit, #youtube"
 ---

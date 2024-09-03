@@ -1,11 +1,11 @@
 ---
-title: Top 10 Instagram Influencers In Chiang Mai In 2023
+title: Top 10 Instagram Influencers In Chiang Mai In 2024
 description: >-
-  Find top Instagram influencers in Chiang Mai in 2023. Most popular hashtags: #adayinthailand #chiangmai #thailand.
+  Find top Instagram influencers in Chiang Mai in 2024. Most popular hashtags: #thailandtravel #reviewchiangmai #chiangmai.
 platform: Instagram
-hits: 34
-text_top: Analyze the top-rated Instagram influencers on inBeat.
-text_bottom: Our platform holds 34 Instagram influencers like this in Chiang mai, Thailand for you to collaborate.
+hits: 35
+text_top: Identify the top-rated Instagram profiles on inBeat.
+text_bottom: Our platform aggregates 35 Instagram influencers like this in Chiang mai, Thailand for you to connect with.
 profiles:
   - username: "smallroom007"
     fullname: >-
@@ -13,9 +13,9 @@ profiles:
     bio: >-
       Chiang Mai,Thailand🇹🇭 street photo35mm
     location: "Thailand"
-    followers: 7219
-    engagement: 1400
-    commentsToLikes: 0.031601
+    followers: 6897
+    engagement: 1490
+    commentsToLikes: 0.031203
     id: ck8sz6wsjnbls0j788nsmqxj5
     verified: false
     hashtags: ""
@@ -73,12 +73,12 @@ profiles:
     bio: >-
       Chiangmai |Thailand | Sacred Heart College | Management CMRU Thanks for follow me ♡
     location: "Thailand"
-    followers: 16700
-    engagement: 421
-    commentsToLikes: 0.004201
+    followers: 16269
+    engagement: 306
+    commentsToLikes: 0.003189
     id: ck13ay9c1srxw0i19w02n7o8u
     verified: false
-    hashtags: ""
+    hashtags: "#smeconnextmarket, #smeearlystage"
   - username: "mintminter"
     fullname: >-
       Parichat Glangchai
@@ -103,28 +103,28 @@ profiles:
     id: ck0ucougchdqp0i191cm40qwp
     verified: false
     hashtags: "#dever, #deverenergygel, #iam, #eto"
-  - username: "alelironi"
+  - username: "poppanupongs"
     fullname: >-
-      Aleliro
+      Panupong Srirattanapong
     bio: >-
-      Lake Como | Bangkok. Creator of @webangkok.
+      For work : Please DM Cats 🐈 : @berlinandgodzilla
     location: "Thailand"
-    followers: 10174
-    engagement: 641
-    commentsToLikes: 0.070089
-    id: ck0tvufavcu3o0i19nupvpik5
+    followers: 72621
+    engagement: 1076
+    commentsToLikes: 0.007244
+    id: cloxofu9tzi8s0j08ghicl52w
     verified: false
-    hashtags: "#maekampong, #thailand, #bangkok, #kohchang"
-  - username: "banksjourney"
+    hashtags: "#reviewthailand, #camping, #amazingthailand, #reviewchiangmai"
+  - username: "deeristravelling"
     fullname: >-
-      Bank Purint
+      AON & LAN ✈️ travel hubbies 🌴
     bio: >-
-      Galaxy NOTE20+ 📷 SONY A7c 💼Work: Photographer&Blogger 🗺Page: Bank's journey 🅱️YOUTUBE: BANK’s JOURNEY 🗞Email: banksjourney1@gmail.com
+      ✈ intergaycial wanderlusts ✈ LGBTQ × adventures × positive vibes 📍Bangkok ↓ check our blog, TikTok, YouTube and more ↓
     location: "Thailand"
-    followers: 64261
-    engagement: 636
-    commentsToLikes: 0.010737
-    id: ck8t03apnqorj0j786ck659pg
+    followers: 43633
+    engagement: 282
+    commentsToLikes: 0.107925
+    id: ck6ue6v1tp5ns0j71drzmgqhx
     verified: false
-    hashtags: "#songkhla, #roadtrip, #chiangmai, #reviewchiangmai"
+    hashtags: "#chiangmaitravel, #gayasian, #thailandtravel, #gaytravel"
 ---

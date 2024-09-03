@@ -1,130 +1,130 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Singapore In 2023
+title: Top 10 Beauty Instagram Influencers In Singapore In 2024
 description: >-
-  Find top beauty Instagram influencers in Singapore in 2023. Most popular hashtags: #sp #jumpeatcry #sggiveaway.
+  Find top beauty Instagram influencers in Singapore in 2024. Most popular hashtags: #partipost #sp #singapore.
 platform: Instagram
-hits: 68
-text_top: See the most popular Instagram influencers on inBeat.
-text_bottom: Our search engine holds 68 Instagram influencers like this in Singapore for you to contact.
+hits: 152
+text_top: Discover the most popular Instagram accounts on inBeat.
+text_bottom: Our platform aggregates 152 Instagram influencers like this in Singapore for you to connect with.
 profiles:
-  - username: "lihuijapanlove"
+  - username: "peroro_"
     fullname: >-
-      Lihui利慧| Singapore新加坡🇸🇬
+      ⋆·˚ ༘ * Persie Y  ੈ✩‧₊˚
     bio: >-
-      Food | Fashion | Beauty | Lifestyle 🏅Top 100 SG Lifestyle Blogger Founder of @creativeinfluencermedia 📩Collab/工作/代言: lihuijapanlove@gmail.com
+      ♡ Lifestyle, Health,Motherhood,Food,Beauty,Fashion ҉ therealpersie@gmail.com ＊*✩˚ interior designer ✩ boy mum @bbbhung_ ☽ SG ˚｡⋆
     location: "Singapore"
-    followers: 41454
-    engagement: 208
-    commentsToLikes: 0.075530
-    id: ckaotr1v0x4230i78w5diw0tm
+    followers: 19155
+    engagement: 441
+    commentsToLikes: 0.072755
+    id: clm70aj3igdys0j08urosqknx
     verified: false
-    hashtags: "#kbeauty, #koreanbeauty, #atomekittens, #tmgmgroup"
-  - username: "germaineleonora"
+    hashtags: "#newborn, #thingstodo, #baby, #sp"
+  - username: "pegzohpegz"
     fullname: >-
-      Germaine Leonora Tan
+      Peggy 🇸🇬 Content / UGC.sg Creator
     bio: >-
-      radio dj @987fm | host | voiceovers definitely shorter than u think beauty: @onlyaestheticssg say hi ➡️ Germaine.Tan@mediacorp.com.sg
+      ✨ Lifestyle | Parenting | Food | Beauty | Home 📍 Singapore
     location: "Singapore"
-    followers: 14045
-    engagement: 644
-    commentsToLikes: 0.044566
-    id: ck6ub2zn075yq0j71sxcdn3fh
+    followers: 9049
+    engagement: 554
+    commentsToLikes: 0.051523
+    id: clmumxih3lc3k0j0879lm2o6u
     verified: false
-    hashtags: "#shotoniphone12pro, #giveawaysg, #sggiveaway, #airpodsmax"
-  - username: "itsmjq_"
+    hashtags: "#sgfaves, #sp, #partipost, #mazesoba"
+  - username: "naploes"
     fullname: >-
-      𝐌𝐀𝐆𝐆𝐈𝐄 𝐌𝐉𝐐
+      natalie ꒰ •ᴗ•｡꒱
     bio: >-
-      8 years of Beauty experience Business Mentor | Content Strategist Dm for sponsorship/collaboration - 𝐅𝐎𝐔𝐍𝐃𝐄𝐑 𝐎𝐅 𝐒𝐇𝐎𝐘𝐎™ 𝐒𝐈𝐍𝐆𝐀𝐏𝐎𝐑𝐄 @mizshoyo_official
+      📍 Singapore 🎬 Beauty, Fashion & Lifestyle on the clock app [77k] 💌 natalienaploes@gmail.com
     location: "Singapore"
-    followers: 7934
-    engagement: 688
-    commentsToLikes: 0.037751
-    id: ck0w2p1bcph7d0i19dy7i8gd3
+    followers: 11684
+    engagement: 10034
+    commentsToLikes: 0.002207
+    id: clmumxdk2l7tv0j086e1fgh67
     verified: false
-    hashtags: "#mizshoyosingapore, #glowicofficial, #shoyosingapore, #shoyoxsg"
-  - username: "aimeechengbradshaw"
+    hashtags: "#singapore, #travel, #explore, #reels"
+  - username: "bubblymichelle"
     fullname: >-
-      Aimee Cheng-Bradshaw
+      bubblymichelle
     bio: >-
-      ✨British-Chinese 🐝Fashion, beauty, fitness ⭒☽ mental health | psychology 🧠
+      🇸🇬 Luxury Makeup & Skincare Beauty Awards judge Harpers Bazaar Singapore 2023, 2018, 2017, 2016
     location: "Singapore"
-    followers: 114797
-    engagement: 311
-    commentsToLikes: 0.011660
-    id: ck55jn7nsxd3r0i11s2wl5m3n
-    verified: true
-    hashtags: "#ad, #ilovesilkygirl, #sp, #diorholidays"
-  - username: "syliviasebastian_bebwa"
-    fullname: >-
-      Miss Tanzania 2019👑
-    bio: >-
-      MISS WORLD TANZANIA 2019/2021👑🇹🇿 Beauty is respect. AKG7437SG834 Psalm 23
-    location: "Singapore"
-    followers: 48373
-    engagement: 547
-    commentsToLikes: 0.020674
-    id: ck13441c3ulfc0i190rv19hu3
+    followers: 66386
+    engagement: 537
+    commentsToLikes: 0.073545
+    id: ck8t3u09w4hop0j78yebricm9
     verified: false
-    hashtags: "#sometimesitbelikethat, #artwork, #azishe, #thesilvia"
-  - username: "rachelwongggg"
+    hashtags: "#summerlipstick, #welovecoco, #lipstickswatch, #sephorasg"
+  - username: "g.ella__"
     fullname: >-
-      Rachel Wong
+      GRACE MICHELLA | SG ♛
     bio: >-
-      💜 BEAUTY . FITNESS . LIFESTYLE . DOGS 🐾 〰️ Host | Livestream ✉️ rachelwongg@hotmail.com
+      beauty & lifestyle 🐚 ☾ *･゜ﾟ ♡: brand ambassador @sigiskin @93lashlounge ♡: gtoh1811@gmail.com for work ♡: codes & links ⬇️
     location: "Singapore"
-    followers: 41430
-    engagement: 224
-    commentsToLikes: 0.017592
-    id: ck5zvedfd42qt0i140vr1e7tp
+    followers: 10736
+    engagement: 343
+    commentsToLikes: 0.204195
+    id: clmumxfbhl9ce0j08iettdmbh
     verified: false
-    hashtags: "#sato, #johnfriedasg, #hairmeout, #folligrow"
-  - username: "nishakumarofficial"
+    hashtags: "#sgrenovationideas, #hangzhou, #niveasg, #livingforestglobal"
+  - username: "peggy.eyes"
     fullname: >-
-      Nisha Satyamorthi
+      🅿🅴🅶🅶🆈. 🅴🆈🅴🆂 🇸🇬 🅒🅐🅞
     bio: >-
-      →Miss Malaysia Pancontinental 2015 👑 →Miss Universe Malaysia top 10 2015 → Beauty queen. Model. ACTRESS (🇸🇬SG) 📍Singapore ⬇️⬇️⬇️ Watch MITARA
+      🎖#NUS Digital Marketing Certificate ✨ #Travel #Beauty #hairdotutorials 📩#Collabs DM 一起成為會打扮+旅遊的時尚達人🫶 旅遊｜美容｜時尚 | 髮型教學 🔎#TikTok.#XHS :Peggy.eyes
     location: "Singapore"
-    followers: 31514
-    engagement: 451
-    commentsToLikes: 0.018243
-    id: ck6ub2r1474pk0j71be3pm4x7
+    followers: 12176
+    engagement: 408
+    commentsToLikes: 0.491773
+    id: ckqas7zx3ky2a0j23dv1rl2u1
     verified: false
-    hashtags: "#instasg, #outfitoftheday, #preggystyle, #sginsta"
+    hashtags: "#explorepage, #peggyeyeshoneymoon, #maldives, #intercontinentalmaldives"
+  - username: "jo_keting"
+    fullname: >-
+      Joann Keting
+    bio: >-
+      Klook 5%-JOANN5OFF Beauty|Lifestyle|Food & Google Reviewer lvl 6 DM for collabs🇸🇬 Photographer wanna be Undomesticated series #thebakkwagirl fragrance
+    location: "Singapore"
+    followers: 10525
+    engagement: 287
+    commentsToLikes: 0.075145
+    id: clm70akrjgfiy0j087ya6r3pe
+    verified: false
+    hashtags: "#sgbeautybloggers, #newyorkskinsolutions, #sgkols, #sgfood"
   - username: "evonnz"
     fullname: >-
       Evonne ★
     bio: >-
-      Beauty/Aesthetic, Design, Diving, Bunnies and Taugeh-less meals🐚 Mother Hen @mizuaesthetic @aeras.sg
+      Design, PR & Marketing | Aesthetic concierge 💉 🐚 🌊🐰 Follow for updates on beauty, skincare, aesthetic procedures, diving, bunnies, yoga & good food!
     location: "Singapore"
-    followers: 30021
-    engagement: 141
-    commentsToLikes: 0.023139
+    followers: 35434
+    engagement: 227
+    commentsToLikes: 0.024063
     id: ck5q78j7p0eg90i11uml1hz79
     verified: false
-    hashtags: "#harrythejerseywooly, #rabbitsofinstagram, #rabbitsofrhq, #clearturn28days"
-  - username: "eileenmak"
+    hashtags: "#fujifilmx100vi, #fujifilmsg, #evonnzinjapan, #jeju"
+  - username: "wordweed"
     fullname: >-
-      Eileen Mak
+      Brenda Tan
     bio: >-
-      sg | fashion, beauty, travel ☁️ a wanderlust soul & creative eileenmak@live.com
+      multi-passionate creative 🪩🌈🌵🐣🌶️ home, life, beauty & crafts @chillipadistudio 🎨 + @wordweedhomes 🏡 reach out — wordweed@gmail.com new vids👇🏻
     location: "Singapore"
-    followers: 28775
-    engagement: 195
-    commentsToLikes: 0.048086
-    id: ck0vyssa75lxw0i19j3aa6znk
+    followers: 19784
+    engagement: 213
+    commentsToLikes: 0.009962
+    id: cldob9r82xkb70j08auyb1ibm
     verified: false
-    hashtags: "#02, #maxhappiness, #lazadaxmediacorp, #ad"
-  - username: "sodapopp"
+    hashtags: "#sgforsale, #preeminentgroup, #kennyneodivisions, #yeosdrinkablegarden"
+  - username: "meggychiaaaa"
     fullname: >-
-      j a n 🌹
+      Megan Chia 🌙 谢理曦
     bio: >-
-      SG // Mummy to #JanNicJunior ✨Fashion Beauty Lifestyle✨ 💇‍♀️ @chezvoushair 👀 @kiramesg
+      busy creating new worlds ♥️ bilingual actress & host 🪩 @backofthepartychat 🪐 fashion, beauty, lifestyle 🌞 meiyi on #mediacorpsunnysideup ↓ MY WORKS
     location: "Singapore"
-    followers: 20408
-    engagement: 212
-    commentsToLikes: 0.086330
-    id: ck15uiz6sneol0i19ba9g5cnf
+    followers: 15457
+    engagement: 209
+    commentsToLikes: 0.028835
+    id: ck6u1f8zyldop0j71uft6d41p
     verified: false
-    hashtags: "#beautyblogger, #jannicjunior, #shopperboard, #lechicsg"
+    hashtags: "#hairtransformation, #22, #zappywipenwin, #liveinlevis"
 ---

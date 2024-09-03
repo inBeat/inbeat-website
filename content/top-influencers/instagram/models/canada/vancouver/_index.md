@@ -1,12 +1,24 @@
 ---
-title: Top 10 Models Instagram Influencers In Vancouver In 2023
+title: Top 10 Models Instagram Influencers In Vancouver In 2024
 description: >-
-  Find top models Instagram influencers in Vancouver in 2023. Most popular hashtags: #model #vancouver #photography #canada.
+  Find top models Instagram influencers in Vancouver in 2024. Most popular hashtags: #model #photography #vancouver #fashion.
 platform: Instagram
-hits: 66
-text_top: Identify the most popular Instagram influencers on inBeat.
-text_bottom: Our search engine has 66 Instagram influencers like this in Vancouver, Canada for you to collaborate.
+hits: 76
+text_top: See the top-rated Instagram influencers on inBeat.
+text_bottom: Our platform aggregates 76 Instagram influencers like this in Vancouver, Canada for you to work with.
 profiles:
+  - username: "yee_carly"
+    fullname: >-
+      Carly Yee
+    bio: >-
+      ♡, 𝑪𝒂𝒓𝒍𝒔
+    location: "Canada"
+    followers: 39781
+    engagement: 177
+    commentsToLikes: 0.038420
+    id: ck6to5zfccaio0j71fi1speuh
+    verified: false
+    hashtags: "#model, #vancouver, #portrait, #potd"
   - username: "joaohguedes"
     fullname: >-
       Joao Guedes
@@ -19,18 +31,6 @@ profiles:
     id: ck5q6dcmywy5a0i11ddpbgnxw
     verified: false
     hashtags: "#lifestyle, #chasinglight, #model, #vancouver"
-  - username: "pareshbhalla"
-    fullname: >-
-      Paresh | photography
-    bio: >-
-      ❌ 📍 #vancouver 🛫 ➡? 🌍Aspiring travel photographer 📸#urbanscape #landscape #portrait 📬 DM me for shoot or print inquiries
-    location: "Canada"
-    followers: 3215
-    engagement: 1295
-    commentsToLikes: 0.360449
-    id: ck6tkf04u4kk90j716fz1wnge
-    verified: false
-    hashtags: "#moody, #igtones, #capturecalgary, #photography"
   - username: "heatherlmacgregor"
     fullname: >-
       Heather L Macgregor
@@ -42,7 +42,19 @@ profiles:
     commentsToLikes: 0.195440
     id: ckaow97e77woc0i78qlskt7nx
     verified: false
-    hashtags: "#silvermodel, #maturemodel, #grayhair, #lifestyle"
+    hashtags: "#silverhairmodel, #grayhair, #naturallygrey, #havaneselove"
+  - username: "simrangillfilm"
+    fullname: >-
+      Simran Gill Films🎬
+    bio: >-
+      📍Canada 🇨🇦 Mumbai 🇮🇳 𝗗𝗶𝗿𝗲𝗰𝘁𝗼𝗿-𝗗𝗢𝗣-𝗘𝗱𝗶𝘁𝗶𝗼𝗿🖥 𝗖𝗼𝗻𝘁𝗮𝗰𝘁 𝗳𝗼𝗿 𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝘆 📸 @simrangill_photography
+    location: "Canada"
+    followers: 16053
+    engagement: 157
+    commentsToLikes: 0.016130
+    id: ck8tatznkt1vi0j78e151gws7
+    verified: false
+    hashtags: "#star, #music, #video, #videoshoot"
   - username: "vancouversveryown"
     fullname: >-
       Brandon Nair | DJ Nizzy 🇫🇯🌺
@@ -54,19 +66,7 @@ profiles:
     commentsToLikes: 0.068972
     id: ck13b1trvt9wo0i19cb8j91bu
     verified: false
-    hashtags: "#exercise, #fitnessmotivation, #getfit, #health"
-  - username: "joetuliao"
-    fullname: >-
-      Joe Tuliao
-    bio: >-
-      Vancouver | Los Angeles Choreographer • Actor • Performer 🇨🇦 @dacosta_talent 🇺🇸 @blocla 🙇🏽‍♂️ @strangeragency ♾ @jtcreatives___
-    location: "Canada"
-    followers: 20009
-    engagement: 306
-    commentsToLikes: 0.112778
-    id: ck5cj48tsty650i11zjl7t4ir
-    verified: false
-    hashtags: "#photography, #dancer, #choreographer, #artist"
+    hashtags: "#me, #photography, #gym, #fitness"
   - username: "kingklement"
     fullname: >-
       Clement
@@ -79,6 +79,30 @@ profiles:
     id: ck6uh8a2x7li70j71nqudh5t8
     verified: false
     hashtags: "#losangeleseats, #losangelesdodgers, #torontoisawesome, #losangeleslakers"
+  - username: "jamie_mann"
+    fullname: >-
+      J A M i E  M A N N 📸
+    bio: >-
+      VANCOUVER 🏳️‍🌈 info@jamiemann.ca
+    location: "Canada"
+    followers: 15689
+    engagement: 298
+    commentsToLikes: 0.028794
+    id: ck5c756ld6u5k0i112632qki5
+    verified: false
+    hashtags: "#styling, #fashioneditorial, #modelagency, #assistant"
+  - username: "lexiiwiinters"
+    fullname: >-
+      LEXI WINTERS
+    bio: >-
+      All natural. It’s a cherry themed summer🍒
+    location: "Canada"
+    followers: 79682
+    engagement: 104
+    commentsToLikes: 0.037545
+    id: ck8wfuj8mga5t0j78ab5rdqrk
+    verified: false
+    hashtags: "#summer, #explore, #calgarylife, #calgaryalberta"
   - username: "veronica_latexdoll"
     fullname: >-
       Veronica Doll
@@ -91,40 +115,16 @@ profiles:
     id: ck8swso3hf3ml0j78dfh9yycs
     verified: false
     hashtags: "#fetishmodels, #latexgear, #rubberdolls, #latexfashion"
-  - username: "alliewiebe"
+  - username: "kjhaver"
     fullname: >-
-      Allie Wiebe
+      Karishma Jhaver 🤍
     bio: >-
-      Vancouver, BC Key Models courtenay@keymodelmgmt.com
+      🎀👜🍸💐🧸💭💅🏽 toronto • vancouver | 🩺💉 💌 karishma.jhaver@gmail.com
     location: "Canada"
-    followers: 6082
-    engagement: 710
-    commentsToLikes: 0.022059
-    id: ck5hj690ng2x70i1153b7oj1u
+    followers: 114485
+    engagement: 15
+    commentsToLikes: 0.346287
+    id: ck5bz9cgzqp2u0i119q0zfzso
     verified: false
-    hashtags: ""
-  - username: "theferrera"
-    fullname: >-
-      KATIA DES-FERRERA
-    bio: >-
-      🧿 Vancouver Russian/French Model Entrepreneur Artist Actress Playboy Playmate🐇
-    location: "Canada"
-    followers: 150692
-    engagement: 262
-    commentsToLikes: 0.033270
-    id: ck5zno40wotxa0i14y9muxorf
-    verified: false
-    hashtags: "#katiaferrera, #watchshoppingcom, #michaelkorswatch"
-  - username: "hairwitch_x"
-    fullname: >-
-      † Alison Alexander †
-    bio: >-
-      ✨ Make Art ✨ Victoria ↔ Vancouver Wife • HMUA • Model • Artist Work Portfolio: @hairwitch_yyj
-    location: "Canada"
-    followers: 6446
-    engagement: 474
-    commentsToLikes: 0.035263
-    id: ck5c6w6696bqr0i1146mczvjo
-    verified: false
-    hashtags: "#yyjmodel, #yvr, #yyjphotographer, #studiophotography"
+    hashtags: "#la, #sheinforall, #sheingoodfinds, #vancouver"
 ---

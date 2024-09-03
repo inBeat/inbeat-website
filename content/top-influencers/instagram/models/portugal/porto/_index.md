@@ -1,24 +1,12 @@
 ---
-title: Top 10 Models Instagram Influencers In Porto In 2023
+title: Top 10 Models Instagram Influencers In Porto In 2024
 description: >-
-  Find top models Instagram influencers in Porto in 2023. Most popular hashtags: #portugal #porto #outfitoftheday #photography.
+  Find top models Instagram influencers in Porto in 2024. Most popular hashtags: #portugal #porto #model #body.
 platform: Instagram
 hits: 6
-text_top: Identify the most popular Instagram profiles on inBeat.
-text_bottom: Our database aggregates 6 Instagram influencers like this in Porto, Portugal for you to work with.
+text_top: Analyze the most popular Instagram profiles on inBeat.
+text_bottom: Our search engine holds 6 Instagram influencers like this in Porto, Portugal for you to pitch.
 profiles:
-  - username: "iamfabioteles"
-    fullname: >-
-      F A B I O • T E L E S
-    bio: >-
-      - @centralmodels 🇵🇹 @nevsmodels 🇬🇧 For model, Digital & Brands: • Gustavo@centralmodels.pt (manager) - @myproteinpt Ambassador
-    location: "Portugal"
-    followers: 219684
-    engagement: 369
-    commentsToLikes: 0.011520
-    id: ck5qdynmfxw7z0i118o9xwukj
-    verified: false
-    hashtags: "#porto, #lisboa, #algarve, #outfit"
   - username: "aaron_gqs"
     fullname: >-
       Aaron Gabriel
@@ -30,31 +18,43 @@ profiles:
     commentsToLikes: 0.034095
     id: ck0u82uor6dra0i19ynn0yreo
     verified: false
-    hashtags: "#men, #bloggerstyle, #outfitoftheday, #cover"
-  - username: "valtinhodelcampo"
+    hashtags: "#foto, #uk, #modelo, #hairstyle"
+  - username: "callme.saarah"
     fullname: >-
-      Valter Silva
+      𝙎 𝘼 𝙍 𝘼  𝙇 𝙊 𝙋 𝙀 𝙎  🦊
     bio: >-
-      Brands and Digital: 📩 (MA) Agency: @blast_models @blast_actors Engineer, Project Manager, New Business Developer, Model and Traveler 🇵🇹🇬🇧🇦🇷
+      Nothing is more sexy than confidence ✨@dontcall.us From Porto, Portugal Lingerie model Vegetarian Email me for collaborations
     location: "Portugal"
-    followers: 60463
-    engagement: 272
-    commentsToLikes: 0.014376
-    id: ck0w683gp7bn10i19a0rux850
+    followers: 48338
+    engagement: 262
+    commentsToLikes: 0.017266
+    id: ck6tlwvd36s720j718aonun1v
     verified: false
-    hashtags: "#seiko5, #visitmadeira, #madeirano, #showyourstyle"
+    hashtags: "#body, #travelgram, #animalprint, #douro"
+  - username: "nuno_gemeos_moreira"
+    fullname: >-
+      Nuno Moreira
+    bio: >-
+      CEO - Escola de dança Gémeos Moreira Choreographer at TV show Dancing with the stars Model Twitter: twinfitness1
+    location: "Portugal"
+    followers: 134226
+    engagement: 705
+    commentsToLikes: 0.028998
+    id: ckaozbg76l4od0i782zr49zhr
+    verified: false
+    hashtags: "#andrewchristianmodel, #blacknwhite, #body, #paris"
   - username: "hugomigstos"
     fullname: >-
-      Hugo Santos 🦦
+      Hugo 🦦
     bio: >-
       
     location: "Portugal"
-    followers: 5783
-    engagement: 1366
-    commentsToLikes: 0.007698
+    followers: 5998
+    engagement: 1351
+    commentsToLikes: 0.008249
     id: ckf5m4640s63x0j23ynrpnn2h
     verified: false
-    hashtags: "#allinshooters, #photography, #cute, #instacute"
+    hashtags: "#allinshooters, #porto, #stylish, #gayboy"
   - username: "marcos_carvalho_27"
     fullname: >-
       Menfashion | Lifestyle
@@ -79,52 +79,52 @@ profiles:
     id: ck137ndqvceks0i19qbxxr8zw
     verified: false
     hashtags: "#moon, #portugal, #homeworkout, #bodybuilding"
-  - username: "tiago.mmteixeira"
+  - username: "gwenpique"
     fullname: >-
-      Tiago Teixeira
+      Gwen Piqué
     bio: >-
-      Model ,, Drummer ,, Athlete PR , Digital & Brands : gustavo@centralmodels.pt 🇵🇹: @centralmodels 🌍: @sugar__kids
+      @platformagencyamsterdam @models1
     location: "Portugal"
-    followers: 20341
-    engagement: 815
-    commentsToLikes: 0.208951
-    id: ck6uco3lzgp0c0j71bqxh1rn9
+    followers: 5487
+    engagement: 526
+    commentsToLikes: 0.035949
+    id: ckw9lqbf1jwgm0j238o6pauei
     verified: false
-    hashtags: "#dejavu, #dejavucover, #drums, #peaches"
-  - username: "phoenix.vida"
+    hashtags: ""
+  - username: "nuno_gemeos_moreira"
     fullname: >-
-      Art♥Beauty♥Lifestyle♥Fashion
+      Nuno Moreira
     bio: >-
-      Educator｜Artist｜#HKKOL Portuguese mixed🇵🇹 #influencer #Model 👉🏻𝘔𝘢𝘨𝘢𝘻𝘪𝘯𝘦, 𝘚𝘶𝘯𝘥𝘢𝘺𝘒𝘪𝘴𝘴, 𝘏𝘢𝘱𝘱𝘺𝘱𝘢𝘮𝘢 𝘦𝘵𝘤 📩Please DM for JoB／Collab
+      CEO - Escola de dança Gémeos Moreira Choreographer at TV show Dancing with the stars Model Twitter: twinfitness1
     location: "Portugal"
-    followers: 20301
-    engagement: 422
-    commentsToLikes: 0.087758
-    id: ckf5vfj3loeqa0j23pi7yo2fw
+    followers: 134226
+    engagement: 705
+    commentsToLikes: 0.028998
+    id: ckaozbg76l4od0i782zr49zhr
     verified: false
-    hashtags: "#vidadephoenix, #beautyshare, #hkfoodie, #naturalbeauty"
-  - username: "yogawith.iva"
+    hashtags: "#andrewchristianmodel, #blacknwhite, #body, #paris"
+  - username: "jani_gabriel"
     fullname: >-
-      ivazanotte
+      Jani
     bio: >-
-      🇵🇹 💪instructor stretching 👚👖yoga model 👉IVA20 my code for discount 👇 🧘‍♂️@yantraconnection Embassador 👵grandmother 👩‍👧‍👧mother of 2 @yoga.feminine
+      🧿 hello.janigabriel@gmail.com Model & TV Host /Apresentadora TV 🎤 Psychology 🧠 Clinical Neuropsychology student 🤓 Management @glam.celebrity
     location: "Portugal"
-    followers: 16826
-    engagement: 331
-    commentsToLikes: 0.304315
-    id: ckapauezvxic70i78ot2ctr0a
-    verified: false
-    hashtags: "#yogafeature, #yogasanas, #pilateiras, #faroalgarveportugal"
-  - username: "_raquelsampaio_"
-    fullname: >-
-      𝐑𝐚𝐪𝐮𝐞𝐥 𝐒𝐚𝐦𝐩𝐚𝐢𝐨
-    bio: >-
-      Asian | African | European • Model @lagence_lisboa • TV Host @famashowoficial • Engineer to be 📩 sarasaavedra@lagence.pt
-    location: "Portugal"
-    followers: 82721
-    engagement: 715
-    commentsToLikes: 0.004114
-    id: ck5zoglckqiti0i14hnigyifg
+    followers: 77943
+    engagement: 345
+    commentsToLikes: 0.010749
+    id: ck5q5msaitkpm0i11zh2ki7ye
     verified: true
-    hashtags: "#sensibio, #1down100togo, #lorealparispub, #pub"
+    hashtags: "#bali, #indonesia, #uluwatu, #makeup"
+  - username: "sandra_ramos_fernandes"
+    fullname: >-
+      Sandra Fer
+    bio: >-
+      Face Models My booker: pedro@facemodels.pt CC
+    location: "Portugal"
+    followers: 10220
+    engagement: 972
+    commentsToLikes: 0.025373
+    id: ck5zx3flt79sj0i14yz5yp1i3
+    verified: false
+    hashtags: "#wlyg, #prozisportugal, #prozis, #excedeyourself"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fitness TikTok Influencers In Italy In 2023
+title: Top 10 Fitness TikTok Influencers In Italy In 2024
 description: >-
-  Find top fitness TikTok influencers in Italy in 2023. Most popular hashtags: #fitness #allenamento #perte #personaltrainer.
+  Find top fitness TikTok influencers in Italy in 2024. Most popular hashtags: #fitness #perte #informacontiktok #allenamento.
 platform: TikTok
 hits: 116
-text_top: Analyze the most popular TikTok influencers on inBeat.
-text_bottom: inBeat has 116 TikTok influencers like this in Italy for you to contact.
+text_top: See the best TikTok influencers on inBeat.
+text_bottom: Our platform aggregates 116 TikTok influencers like this in Italy for you to connect with.
 profiles:
   - username: "stormy_seaa"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.095751
     id: ckagedcqqkine0i785q52mkz7
     verified: false
-    hashtags: "#bassdadada, #video, #reaction, #instagramfilters"
+    hashtags: "#goku, #bassdadada, #effettivocali, #nomi"
   - username: "emanuele_zzz"
     fullname: >-
       emanuele_zzz
@@ -85,12 +85,12 @@ profiles:
     bio: >-
       Torino, Italia 🇮🇹 01/01/98 ♑️ Fitness 💪🏼🍑 Seguitemi su Instagram ❤️
     location: "Italy"
-    followers: 59000
-    engagement: 762
-    commentsToLikes: 0.027828
+    followers: 59200
+    engagement: 751
+    commentsToLikes: 0.027098
     id: ck8w4fs458fik0j78day4fyol
     verified: false
-    hashtags: "#disney, #fitnessmotivation, #gymgirl, #fitnessitalia"
+    hashtags: "#duetto, #fitnessmotivation, #fitnessgirl, #aladdin"
   - username: "gigifarne"
     fullname: >-
       gigif_62
@@ -115,16 +115,16 @@ profiles:
     id: ckb9id1r48kc50j23w6pjqysr
     verified: false
     hashtags: "#fit, #imparacontiktok, #fitnessitalia, #allenamento"
-  - username: "informaconfederica"
+  - username: "deborahfashionsport"
     fullname: >-
-      Federica Saccone
+      Deborah Spinelli
     bio: >-
-      Chi è Federica? 👉🏻 Educatrice alimentare e fitness coach 👇🏻👇🏻
+      Triathlon | Fitness | Inspiration Instagram 👉🏻 @deborahfashionsport
     location: "Italy"
-    followers: 51900
-    engagement: 676
-    commentsToLikes: 0.000000
-    id: ckb9bg05xxkoi0j23m5uqd730
+    followers: 31200
+    engagement: 503
+    commentsToLikes: 0.023361
+    id: cka6e6xx2alj30i784l33iico
     verified: false
-    hashtags: "#fitipsbyfederica, #ledietenonservono, #informaconfederica, #informasenzadieta"
+    hashtags: "#triathlontraining, #running, #runninggirl, #deborahfashionsport"
 ---

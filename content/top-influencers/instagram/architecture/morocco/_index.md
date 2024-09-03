@@ -1,24 +1,84 @@
 ---
-title: Top 10 Architecture Instagram Influencers In Morocco In 2023
+title: Top 10 Architecture Instagram Influencers In Morocco In 2024
 description: >-
-  Find top architecture Instagram influencers in Morocco in 2023. Most popular hashtags: #morocco #marrakech #photography #travelphotography.
+  Find top architecture Instagram influencers in Morocco in 2024. Most popular hashtags: #morocco #travelphotography #maroc #visitmorocco.
 platform: Instagram
-hits: 11
-text_top: See the best Instagram profiles on inBeat.
-text_bottom: inBeat has 11 Instagram influencers like this in Morocco for you to work with.
+hits: 19
+text_top: Analyze the top-rated Instagram profiles on inBeat.
+text_bottom: Our database holds 19 Instagram influencers like this in Morocco for you to connect with.
 profiles:
+  - username: "aida.benchemsi"
+    fullname: >-
+      Aïda Benchemsi
+    bio: >-
+      •Welcome to my journey ☀️ •Visual diary 📸📽 •Master degree in Architecture & Photography •📍Morocco-Canada •Content creator
+    location: "Morocco"
+    followers: 195857
+    engagement: 90
+    commentsToLikes: 0.009250
+    id: ck6u2mz7isqns0j712q3pz7s3
+    verified: false
+    hashtags: "#architecture, #videooftheday, #moment, #mum"
+  - username: "allthewildair"
+    fullname: >-
+      GIGI ALY
+    bio: >-
+      architecture | interiors | travel allthewildair@gmail.com 📷 @crofthousela Los Angeles, CA 🇪🇬
+    location: "Morocco"
+    followers: 17223
+    engagement: 175
+    commentsToLikes: 0.022682
+    id: ck5hmrng9mhsd0i11mn457wlm
+    verified: false
+    hashtags: "#beigeaesthetic, #mytinyatlas, #iamtb, #theslowdowncollective"
   - username: "andrevicentegoncalves"
     fullname: >-
       Andre Goncalves
     bio: >-
       Documenting architecture and my daily travel adventures! FB: andrevgoncalves | Email: andre@andrevicentegoncalves.com | Windows of the World Prints:
     location: "Morocco"
-    followers: 15481
-    engagement: 564
-    commentsToLikes: 0.014922
+    followers: 15282
+    engagement: 628
+    commentsToLikes: 0.014631
     id: ck6txdyj3xa690j71eqkcflom
     verified: false
-    hashtags: ""
+    hashtags: "#brokenpistonsmc, #picosdeeuropa"
+  - username: "souhail_aouin"
+    fullname: >-
+      🇲🇦🖤📸 🆂🅾🆄🅷🅰🅸🅻🦁🅰🅾🆄🅸🅽 📸🖤🇲🇦
+    bio: >-
+      انا تيعجبني نصور ونعدل تصاور هاد تصاور لي حاط مصورهم ومعدلهم انا نتمنا اعجبكم هادشي لي تنحط وشكرا على دعم 🖤🖤🖤🙏🏻
+    location: "Morocco"
+    followers: 1827
+    engagement: 415
+    commentsToLikes: 0.053999
+    id: ckf5uook5lpbl0j23fhojkmv7
+    verified: false
+    hashtags: "#streetphotography, #flowerphotography, #likeforlikes, #musician"
+  - username: "luciedvorakovaphoto"
+    fullname: >-
+      Lucie Dvorakova
+    bio: >-
+      Photographer portrait/emotion/fashion/wedding🤍 Brno, Praha, anywhere and worldwide email: luciedvorakovaphoto@gmail.com
+    location: "Morocco"
+    followers: 12091
+    engagement: 98
+    commentsToLikes: 0.011515
+    id: ck5cee5h6kumb0i11bl4hq2zl
+    verified: false
+    hashtags: "#artportrait, #artphotography, #portretnifotografie, #bnwportrait"
+  - username: "riadlovers"
+    fullname: >-
+      Travel / Morocco / Riad
+    bio: >-
+      ✨RIAD INSPO since 2017 ✨ Creating content for riads! Do you want to be featured? 🌟DM US FOR MORE🌟 👉🏼 #riadlovers
+    location: "Morocco"
+    followers: 150789
+    engagement: 159
+    commentsToLikes: 0.021107
+    id: ck5qb7k6gk7p80i11sezt6qh1
+    verified: false
+    hashtags: "#discovermorocco, #exploremorocco, #moroccogram, #moroccotrip"
   - username: "oujador"
     fullname: >-
       𝗔𝗬𝗢𝗨𝗕 𝗢𝗨𝗝𝗔𝗗𝗢𝗥 🎬
@@ -67,64 +127,4 @@ profiles:
     id: ckaown91v9lde0i78e5ktlx30
     verified: false
     hashtags: "#marruecos, #beautifulmorocco, #magicalmorocco, #riad"
-  - username: "basmaelbachyry"
-    fullname: >-
-      Basma El Bachyry
-    bio: >-
-      Soul of an artist🖤 Moroccan MODEL 🇲🇦 Branding l Content creator l Storyteller
-    location: "Morocco"
-    followers: 7022
-    engagement: 647
-    commentsToLikes: 0.091586
-    id: ck14hgx96a9w10i197ogczvn0
-    verified: false
-    hashtags: "#morocco, #marrakech, #maroc, #naturelmakeup"
-  - username: "luciedvorakovaphoto"
-    fullname: >-
-      Lucie Dvorakova
-    bio: >-
-      Photographer Czech republic email: luciedvorakovaphoto@gmail.com
-    location: "Morocco"
-    followers: 9170
-    engagement: 573
-    commentsToLikes: 0.036348
-    id: ck5cee5h6kumb0i11bl4hq2zl
-    verified: false
-    hashtags: "#artphoto, #summerphotos, #brnogirls, #fashionphotographer"
-  - username: "iam.moustache"
-    fullname: >-
-      
-    bio: >-
-      Menswear l Blogger l Model
-    location: "Morocco"
-    followers: 19972
-    engagement: 424
-    commentsToLikes: 0.110913
-    id: ck0w2k53xorwi0i19tq7m1up9
-    verified: false
-    hashtags: "#style, #777luckyfish, #doubleyedge, #fashionstyle"
-  - username: "yasmine__rei"
-    fullname: >-
-      𝕵𝖆𝖟 ☯︎︎
-    bio: >-
-      •Social activist🔗| Law Student ⚖️ If i was a writer I would have a better Instagram bio quote 🤪
-    location: "Morocco"
-    followers: 7688
-    engagement: 598
-    commentsToLikes: 0.039232
-    id: ckaotuejhxkep0i78w1wvvvqo
-    verified: false
-    hashtags: "#morocco, #bloggerstyle, #love, #stylish"
-  - username: "aliceoutthere1"
-    fullname: >-
-      Alice  Morrison
-    bio: >-
-      Explorer. TV Presenter. Podcaster. Blogger. Bestselling Author. Inspiring Speaker. Just walked x Morocco. @psychologiesmagazine in-house Adventurer
-    location: "Morocco"
-    followers: 9800
-    engagement: 485
-    commentsToLikes: 0.028986
-    id: ck8t02j3bqm4m0j78we3a11xi
-    verified: false
-    hashtags: "#saharadesert, #earthpix, #atlasexpedition, #adventureawaits"
 ---

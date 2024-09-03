@@ -1,24 +1,12 @@
 ---
-title: Top 10 Architecture Instagram Influencers In Montreal In 2023
+title: Top 10 Architecture Instagram Influencers In Montreal In 2024
 description: >-
-  Find top architecture Instagram influencers in Montreal in 2023. Most popular hashtags: #architecture #montreal #canada #instagood.
+  Find top architecture Instagram influencers in Montreal in 2024. Most popular hashtags: #architecture #montreal #canada #mtlmoments.
 platform: Instagram
 hits: 11
-text_top: Identify the top-rated Instagram accounts on inBeat.
-text_bottom: Our database has 11 Instagram influencers like this in Montreal, Canada for you to connect with.
+text_top: Analyze the top-rated Instagram profiles on inBeat.
+text_bottom: inBeat aggregates 11 Instagram influencers like this in Montreal, Canada for you to connect with.
 profiles:
-  - username: "lashedarchitecture"
-    fullname: >-
-      la Shed architecture
-    bio: >-
-      Info@lashedarchitecture.com
-    location: "Canada"
-    followers: 18197
-    engagement: 391
-    commentsToLikes: 0.007220
-    id: ck5qbsn39n7p80i11s7jhsjy2
-    verified: false
-    hashtags: "#archdaily, #montr, #architecturephotography, #qu"
   - username: "vfal_00"
     fullname: >-
       Vincent
@@ -35,14 +23,26 @@ profiles:
     fullname: >-
       tom stockdale
     bio: >-
-      Montreal Arch 📷...photos are mine...if you're not checking my STORIES then you're only getting half the story☕☕😁 thomas.stockdale@sympatico.ca
+      Montreal Arch 📷...photos are mine...if you're not checking my STORIES then you're only getting half the story🤭☕
     location: "Canada"
-    followers: 15472
-    engagement: 182
-    commentsToLikes: 0.036244
+    followers: 15325
+    engagement: 194
+    commentsToLikes: 0.041919
     id: ck13b1pg1t9a60i19ouz9oxgz
     verified: false
-    hashtags: "#arkiromantix, #geometrygrammer, #skyscraping, #architecture"
+    hashtags: "#lookingup, #arquitecturamx, #montrealarchitecture, #montreal"
+  - username: "steven.davignon"
+    fullname: >-
+      STEVEN D’AVIGNON
+    bio: >-
+      PHOTO | VIDEO | CONTENT CREATOR 🇨🇦 Québec, Canada 📸 Landscape, Portrait, Brand 📧 stevendavignonmedia@gmail.com 🌅 Prints and course available now !!!
+    location: "Canada"
+    followers: 9301
+    engagement: 654
+    commentsToLikes: 0.038626
+    id: ckaoqr57qjzfb0i784pn0dqml
+    verified: false
+    hashtags: "#chateaufrontenac, #quebecvisuals, #djiofficial, #visualambasadors"
   - username: "mhacalaki"
     fullname: >-
       Mustafa Hacalaki
@@ -54,7 +54,7 @@ profiles:
     commentsToLikes: 0.015897
     id: ck15s9fq4bw8o0i196f7zzyxd
     verified: false
-    hashtags: "#fujifilmxseries, #xe4, #xf27, #gominimalmag"
+    hashtags: "#subjectivelyobjective, #fujifilmxseries, #cinematic, #makemeseemag"
   - username: "adrienwilliamsphotos"
     fullname: >-
       Adrien Williams
@@ -67,6 +67,42 @@ profiles:
     id: ck5caj5lzdi9o0i1141pmt06f
     verified: false
     hashtags: "#architecturephotography, #canoncanada, #instagood, #rogertaillibert"
+  - username: "m.toninterieur"
+    fullname: >-
+      M ton intérieur—Studio Design
+    bio: >-
+      — Design | Architecture — Agrandissement | Conception de plans — Au-delà du décor - Podcast
+    location: "Canada"
+    followers: 24034
+    engagement: 245
+    commentsToLikes: 0.079717
+    id: ckaorx2y0p5ci0i78c12iqc2f
+    verified: false
+    hashtags: "#interiorarchitecture, #designstyle, #interiordetails, #interiordesigner"
+  - username: "lashedarchitecture"
+    fullname: >-
+      la Shed architecture
+    bio: >-
+      Info@lashedarchitecture.com
+    location: "Canada"
+    followers: 26504
+    engagement: 300
+    commentsToLikes: 0.007259
+    id: ck5qbsn39n7p80i11s7jhsjy2
+    verified: false
+    hashtags: "#qu, #architecture, #architecturephotography, #archdaily"
+  - username: "oben_design"
+    fullname: >-
+      OBEN Design
+    bio: >-
+      Architectural and civil engineering company We build your dream. Toronto, Canada YouTube: #obendesign
+    location: "Canada"
+    followers: 193840
+    engagement: 53
+    commentsToLikes: 0.021277
+    id: ck0vz4h0g79cn0i192bx6wy9g
+    verified: false
+    hashtags: "#architecturelife, #instagram, #toronto, #britishcolumbia"
   - username: "blythescottartist"
     fullname: >-
       𝐁𝐋𝐘𝐓𝐇𝐄 𝐒𝐂𝐎𝐓𝐓
@@ -78,7 +114,7 @@ profiles:
     commentsToLikes: 0.062435
     id: ck13bzs71xy5n0i19rjv6v3qn
     verified: false
-    hashtags: "#focalpoint, #vendu, #arty, #instaart"
+    hashtags: "#artinsitu, #artistepeintre, #colourful, #finishingtouches"
   - username: "julienglobe"
     fullname: >-
       𝙹𝚞𝚕𝚒𝚎𝚗  𝙲𝚘𝚝𝚎
@@ -90,41 +126,5 @@ profiles:
     commentsToLikes: 0.025437
     id: ckap73w4tiivm0i781jwxnn2s
     verified: false
-    hashtags: "#cottagelife, #goodday, #instanature, #beautifulbc"
-  - username: "sidafz"
-    fullname: >-
-      Sidrah | Toronto Blogger
-    bio: >-
-      Lifestyle & Travel blogger📍Toronto Sharing my child's autism journey Follow for kids inclusive activities Work with me: DM / 📧 siddyusman@gmail.com
-    location: "Canada"
-    followers: 13878
-    engagement: 115
-    commentsToLikes: 0.669998
-    id: cks8aqhhiupz50j23q90dq3w1
-    verified: false
-    hashtags: "#love, #torontocontentcreator, #muslimblogger, #canadianblogger"
-  - username: "roderikopop"
-    fullname: >-
-      Roderiko Pop
-    bio: >-
-      Singer Songwriter #traveler #boy 🎠⛵✈🚀 Pictures by me without flash 📸 LISTEN TO MY MUSIC 👇🏻
-    location: "Canada"
-    followers: 30575
-    engagement: 272
-    commentsToLikes: 0.040830
-    id: ckap2r4o8zyh40i78kd9g0zv6
-    verified: false
-    hashtags: "#mood, #instagood, #monday, #pop"
-  - username: "yourdappergoals"
-    fullname: >-
-      Midhvan Gulati
-    bio: >-
-      •MENSWEAR• Use #yourdappergoals Businessman/Blogger/Student Based📍- British Columbia, Canada🇨🇦 SNAPCHAT👻- midhvan28
-    location: "Canada"
-    followers: 47354
-    engagement: 266
-    commentsToLikes: 0.031125
-    id: ck5hqblkfsu3o0i11qym0xxbb
-    verified: false
-    hashtags: "#reelsindia, #happy, #beautiful, #black"
+    hashtags: "#lakehouse, #doberman, #mtl, #throwback"
 ---

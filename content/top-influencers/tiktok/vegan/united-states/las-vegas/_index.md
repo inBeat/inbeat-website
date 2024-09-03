@@ -1,11 +1,11 @@
 ---
-title: Top 10 Vegan TikTok Influencers In Las Vegas In 2023
+title: Top 10 Vegan TikTok Influencers In Las Vegas In 2024
 description: >-
-  Find top vegan TikTok influencers in Las Vegas in 2023. Most popular hashtags: #vegan #lasvegas #fyp #duet.
+  Find top vegan TikTok influencers in Las Vegas in 2024. Most popular hashtags: #vegan #lasvegas #duet #fyp.
 platform: TikTok
 hits: 6
-text_top: Analyze the top-rated TikTok influencers on inBeat.
-text_bottom: inBeat holds 6 TikTok influencers like this in Las Vegas, United States for you to pitch.
+text_top: See the best TikTok profiles on inBeat.
+text_bottom: Our database aggregates 6 TikTok influencers like this in Las Vegas, United States for you to pitch.
 profiles:
   - username: "jessicagolich"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.062348
     id: ck8hk5rm6cjeo0j78s2q7szjd
     verified: true
-    hashtags: "#fyp, #relatablecontent, #nature, #naturevibes"
+    hashtags: "#la, #rawvegan, #relatablecontent, #californiahiddengems"
   - username: "motdcosmetics"
     fullname: >-
       Chantal • CEO MOTD Cosmetics
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.087654
     id: ck8kditls616f0j78xtjct7yh
     verified: false
-    hashtags: "#hotels, #vegas, #easyrecipes, #learnontiktok"
+    hashtags: "#homeimprovement, #learnontiktok, #easyrecipes, #vegas"
   - username: "allie.eats"
     fullname: >-
       Allie Eats
@@ -54,7 +54,7 @@ profiles:
     commentsToLikes: 0.031815
     id: ckd6evi5r6jvm0j230rrgy6m3
     verified: false
-    hashtags: "#sanfrancisco, #quickrecipe, #noodles, #foodinfluencer"
+    hashtags: "#howto, #instaworthy, #lasvegas, #easyrecipe"
   - username: "thelasvegasfoodie"
     fullname: >-
       Lindsay Stewart
@@ -102,7 +102,7 @@ profiles:
     commentsToLikes: 0.137265
     id: ckdi698kc7kx40j23kfpcva2q
     verified: false
-    hashtags: "#stitch, #vegan, #plantbased, #leftist"
+    hashtags: "#stitch, #plantbased, #leftist, #vegan"
   - username: "veganmumu"
     fullname: >-
       Shannon
@@ -114,17 +114,17 @@ profiles:
     commentsToLikes: 0.401234
     id: ckavlfj1duq540j237nx3htr9
     verified: false
-    hashtags: "#mom, #davematthewsband, #floridavegan, #heal"
-  - username: "kawaiikingb"
+    hashtags: "#heal, #cats, #animallover, #nontoxic"
+  - username: "giuliasabatinoo"
     fullname: >-
-      MJ Cobra
+      giulia
     bio: >-
-      (๑˃ᴗ˂)◜✧˖° MJ ♡ The Banana King 👑 キラ キラ Energy 100%! 25 ☆ Bigender ☆ Vegan
+      vegan 🌱✨ (we’re not all like the vegan teacher i promise)
     location: "United States"
-    followers: 4459
-    engagement: 2638
-    commentsToLikes: 0.068353
-    id: ckav30jp99aym0j2355hwtnvy
+    followers: 21800
+    engagement: 1629
+    commentsToLikes: 0.306454
+    id: ckbevm1ivf82w0j239aiiq4na
     verified: false
-    hashtags: "#foryoupage, #decora, #harajukuboy, #decorafashion"
+    hashtags: "#fyp, #duet, #greenscreen, #veganteacher"
 ---

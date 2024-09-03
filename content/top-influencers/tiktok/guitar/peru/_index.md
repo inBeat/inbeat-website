@@ -1,11 +1,11 @@
 ---
-title: Top 10 Guitar TikTok Influencers In Peru In 2023
+title: Top 10 Guitar TikTok Influencers In Peru In 2024
 description: >-
-  Find top guitar TikTok influencers in Peru in 2023. Most popular hashtags: #fyp #foryou #parati #peru.
+  Find top guitar TikTok influencers in Peru in 2024. Most popular hashtags: #fyp #foryou #parati #peru.
 platform: TikTok
 hits: 12
-text_top: See the best TikTok accounts on inBeat.
-text_bottom: Our platform aggregates 12 TikTok influencers like this in Peru for you to connect with.
+text_top: Analyze the best TikTok accounts on inBeat.
+text_bottom: Our platform has 12 TikTok influencers like this in Peru for you to work with.
 profiles:
   - username: "classicrockandpop"
     fullname: >-
@@ -13,24 +13,24 @@ profiles:
     bio: >-
       ⭐Classic Rock & Pop⭐
     location: "Peru"
-    followers: 15600
-    engagement: 1442
-    commentsToLikes: 0.151526
+    followers: 15500
+    engagement: 1408
+    commentsToLikes: 0.150592
     id: ckbewm4dvg85l0j231kekggu3
     verified: false
-    hashtags: "#musicrock, #doloresoriordan, #amywinehouse, #80srock"
+    hashtags: "#doloresoriordan, #gunsnroses, #90srock, #soul"
   - username: "rock_psychedelic"
     fullname: >-
       Psychedelic Rock
     bio: >-
       LA California
     location: "Peru"
-    followers: 8987
-    engagement: 1054
-    commentsToLikes: 0.010160
+    followers: 8985
+    engagement: 1042
+    commentsToLikes: 0.009940
     id: ckbewmtskgceg0j2304le3zrz
     verified: false
-    hashtags: "#70s, #80srock, #60s, #blues"
+    hashtags: "#bohemianrhapsody, #bluesrock, #guitar, #queenband"
   - username: "ronald.sanchez"
     fullname: >-
       R O N A L D 😎

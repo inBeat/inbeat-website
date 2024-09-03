@@ -1,11 +1,11 @@
 ---
-title: Top 10 Makeup TikTok Influencers In Norway In 2023
+title: Top 10 Makeup TikTok Influencers In Norway In 2024
 description: >-
-  Find top makeup TikTok influencers in Norway in 2023. Most popular hashtags: #fyp #makeup #foryou #foryoupage.
+  Find top makeup TikTok influencers in Norway in 2024. Most popular hashtags: #fyp #makeup #foryou #foryoupage.
 platform: TikTok
 hits: 28
-text_top: Identify the best TikTok accounts on inBeat.
-text_bottom: inBeat aggregates 28 TikTok influencers like this in Norway for you to collaborate.
+text_top: Identify the most popular TikTok accounts on inBeat.
+text_bottom: inBeat has 28 TikTok influencers like this in Norway for you to connect with.
 profiles:
   - username: "facebymalin"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.029668
     id: ck9epn7tdtbzx0j78v1kj69ap
     verified: false
-    hashtags: "#tiktoknorge, #fyp, #prunboxing, #lashes"
+    hashtags: "#tiktoknorge, #prunboxing, #fyp, #transitiontrend"
   - username: "renzate"
     fullname: >-
       renate
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.038927
     id: ck8nk9ffje5u80j78k3n5tgcp
     verified: false
-    hashtags: "#foru, #transformation, #zodiac, #foryou"
+    hashtags: "#viral, #foryou, #transformation, #makeup"
   - username: "idaekker"
     fullname: >-
       Ida Ekker
@@ -54,7 +54,7 @@ profiles:
     commentsToLikes: 0.027314
     id: ck81sbf3nrg2t0j78d094b618
     verified: false
-    hashtags: "#foryou, #callme, #sminke, #fyp"
+    hashtags: "#fyp, #makeup, #callme, #sminke"
   - username: "mayamonaa"
     fullname: >-
       Maya Mona
@@ -78,7 +78,7 @@ profiles:
     commentsToLikes: 0.072340
     id: ckd06mk0bab3k0j23frdieg8m
     verified: false
-    hashtags: "#gay, #lgbtqi, #wlw, #viking"
+    hashtags: "#lgbt, #norway, #norse, #trend"
   - username: "vikkzy"
     fullname: >-
       Vikkzy
@@ -102,7 +102,7 @@ profiles:
     commentsToLikes: 0.012565
     id: ckd62zifr1yeb0j23o6rdpl56
     verified: false
-    hashtags: "#makeup, #sminke, #foryou, #halloweenmakeup"
+    hashtags: "#sminke, #makeup, #sminketips, #foryou"
   - username: "not.madeleine"
     fullname: >-
       if you know me, leave

@@ -1,21 +1,45 @@
 ---
-title: Top 10 Divers Instagram Influencers In Australia In 2023
+title: Top 10 Divers Instagram Influencers In Australia In 2024
 description: >-
-  Find top divers Instagram influencers in Australia in 2023. Most popular hashtags: #nature #natgeowild #fashion.
+  Find top divers Instagram influencers in Australia in 2024. Most popular hashtags: #nature #natgeowild #photooftheday.
 platform: Instagram
-hits: 45
-text_top: See the top-rated Instagram profiles on inBeat.
-text_bottom: Our database holds 45 Instagram influencers like this in Australia for you to pitch.
+hits: 86
+text_top: Discover the best Instagram profiles on inBeat.
+text_bottom: Our database aggregates 86 Instagram influencers like this in Australia for you to pitch.
 profiles:
+  - username: "elliagreen"
+    fullname: >-
+      Ellia Green
+    bio: >-
+      Olympic gold medallist | Speaker & Advocate for Diversity & Inclusion | Raise Ambassador | Adopt Change Ambassador Waitui’s papa 👶🏾 Nessy’s fiancé 💍
+    location: "Australia"
+    followers: 49066
+    engagement: 682
+    commentsToLikes: 0.010838
+    id: ck0w6tn9ba8va0i19nsthnpvx
+    verified: false
+    hashtags: "#sponsoredad, #mymokos, #heatcamp, #putyourselffirst"
+  - username: "sam.fricker"
+    fullname: >-
+      Sam Fricker
+    bio: >-
+      🇦🇺 Australian Olympic Diver 💦 🎙 Host Diving Deep with Sam Fricker 🍀CEO of @sams.straws @thegiftedgroupco
+    location: "Australia"
+    followers: 122475
+    engagement: 621
+    commentsToLikes: 0.017316
+    id: ck8wfzr7qgihs0j781nvn2t77
+    verified: false
+    hashtags: "#australia, #diving, #japan, #channel9"
   - username: "brittany.obrien"
     fullname: >-
       Brittany O’Brien
     bio: >-
-      Australian Diver & Olympian @dracojewellery
+      Australian Diver 🐬 Commonwealth Medallist / Olympian Tiktok: brittanyobrienn @thegiftedgroupco
     location: "Australia"
-    followers: 16792
-    engagement: 770
-    commentsToLikes: 0.019895
+    followers: 110256
+    engagement: 314
+    commentsToLikes: 0.011667
     id: ck9ha10luargr0j78u5531hs0
     verified: true
     hashtags: ""
@@ -25,12 +49,12 @@ profiles:
     bio: >-
       AUS 💕Body Diversity 💕 Mum|Wife|Plus-Size Woman| Email for promotion enquiries 📧plusnataliblog@gmail.com
     location: "Australia"
-    followers: 34160
-    engagement: 109
-    commentsToLikes: 0.074955
+    followers: 34127
+    engagement: 116
+    commentsToLikes: 0.086269
     id: ck5q50woyqy4q0i11bkg6v1gt
     verified: false
-    hashtags: "#plussizefashion, #curvystyle, #curvyfashion, #selflovesunday"
+    hashtags: "#curvystyle, #selflovesunday, #curvyblog, #plussizeootd"
   - username: "chrisdavidphoto"
     fullname: >-
       Chris David
@@ -103,28 +127,4 @@ profiles:
     id: ck0w19nygi8vk0i19tz7osdth
     verified: false
     hashtags: ""
-  - username: "desiboy.com.au"
-    fullname: >-
-      R O S H A N N A U S A D
-    bio: >-
-      Makeup Artist | Content Creator | Social Activist Email: For Collaborations | 🇮🇳 🇱🇰 🇳🇵🇵🇰 |They/Them
-    location: "Australia"
-    followers: 9614
-    engagement: 1255
-    commentsToLikes: 0.065656
-    id: ck0vvl9otpm860i19ghkmtd7b
-    verified: false
-    hashtags: "#makeup, #diversity, #gay, #queer"
-  - username: "edgar_pacific_photography"
-    fullname: >-
-      D A V I D  •  E D G A R
-    bio: >-
-      Underwater Photographer 🐋 Please PM/Email for prints/whale swim 🧜🏼‍♀️ @littleseapanda
-    location: "Australia"
-    followers: 35122
-    engagement: 317
-    commentsToLikes: 0.016763
-    id: ck0tv8svbacyl0i195n5sw4pf
-    verified: false
-    hashtags: "#humpback, #humpbackwhale, #onebreath, #diving"
 ---

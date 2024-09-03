@@ -1,36 +1,24 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Istanbul In 2023
+title: Top 10 Beauty Instagram Influencers In Istanbul In 2024
 description: >-
-  Find top beauty Instagram influencers in Istanbul in 2023. Most popular hashtags: #beauty #istanbul #photooftheday #nature.
+  Find top beauty Instagram influencers in Istanbul in 2024. Most popular hashtags: #beauty #istanbul #photooftheday #instalike.
 platform: Instagram
-hits: 191
-text_top: Discover the best Instagram accounts on inBeat.
-text_bottom: Our database holds 191 Instagram influencers like this in Istanbul, Turkey for you to work with.
+hits: 195
+text_top: See the top-rated Instagram influencers on inBeat.
+text_bottom: Our database holds 195 Instagram influencers like this in Istanbul, Turkey for you to collaborate.
 profiles:
-  - username: "ceernkaya"
+  - username: "nazgol_mostafavi"
     fullname: >-
-      Ceren Kaya ♡
+      🧚🏻‍♀️𝐍𝐚𝐳𝐠𝐨𝐥 𝐌𝐨𝐬𝐭𝐚𝐟𝐚𝐯𝐢🧚🏻‍♀️
     bio: >-
-      Fashion, Lifestyle & Beauty Istanbul
+      Hair @nazgolhairtherapist 🧝🏻‍♀️ • 𝘍𝘢𝘴𝘩𝘪𝘰𝘯 | 𝘉𝘦𝘢𝘶𝘵𝘺 | 𝘓𝘪𝘧𝘦𝘴𝘵𝘺𝘭𝘦 • 𝘐𝘛 𝘦𝘯𝘨𝘪𝘯𝘯𝘦𝘳 |📍🇹🇷 @dot_moda 👗
     location: "Turkey"
-    followers: 284188
-    engagement: 276
-    commentsToLikes: 0.014497
-    id: ck0u61xoo0qnj0i19w444z9wa
+    followers: 61701
+    engagement: 217
+    commentsToLikes: 0.101683
+    id: ck602dz4ph7in0i14m3dijj6m
     verified: false
-    hashtags: "#hairinspo, #nails, #nailinspo"
-  - username: "elkphotographer"
-    fullname: >-
-      ikï hayat bir kare
-    bio: >-
-      Akatlar Mah. 8.Gazeteciler Sitesi Yıldırım Oğuz Göker sk. A4/4 No:96 34225 Beşiktaş Istanbul, Turkey. 🇹🇷☎️: 90 212 258 07 99
-    location: "Turkey"
-    followers: 19577
-    engagement: 1512
-    commentsToLikes: 0.032423
-    id: ck602e4vnh7we0i14gziumf1e
-    verified: false
-    hashtags: "#portrait, #weddingdress, #dresses, #photographer"
+    hashtags: "#girl, #trend, #stylist, #makeup"
   - username: "dilaraalisaa"
     fullname: >-
       Dilara Alisa
@@ -55,18 +43,6 @@ profiles:
     id: ck8sz6uf2nbbs0j78i9ayetuk
     verified: false
     hashtags: "#kadrajimdan, #instamood, #naturephotography, #sonbahar"
-  - username: "dua.mnalla"
-    fullname: >-
-      Dua Mnalla Alrayess
-    bio: >-
-      Married💍 @saadalrayess #fashionblogger #fashion #beauty #hijab •İstanbul 🇹🇷 •Certified Makeup artist •Fashion •Lifestyle •Beauty
-    location: "Turkey"
-    followers: 64045
-    engagement: 447
-    commentsToLikes: 0.041409
-    id: ckapaz0bay07a0i782q8gesvd
-    verified: false
-    hashtags: "#hijabi, #istanbul, #saudiarabia, #hijabstyle"
   - username: "karachka_magic"
     fullname: >-
       Karine Amatuni
@@ -79,18 +55,6 @@ profiles:
     id: ck6u8ozxhsuqh0j71h67or8s9
     verified: false
     hashtags: "#maxxroyalkemer, #maxxroyal, #kartalkaya, #bolu"
-  - username: "kardenizkilic"
-    fullname: >-
-      KAR❄️DENIZ🌊
-    bio: >-
-      Influencer | Fashion, Beauty 📍İstanbul
-    location: "Turkey"
-    followers: 351999
-    engagement: 306
-    commentsToLikes: 0.006256
-    id: ck5qb84hnkamk0i116lg7acvr
-    verified: false
-    hashtags: "#look, #ootd, #fitness, #girlpower"
   - username: "caliskantugced"
     fullname: >-
       Tuğçe Çalışkan
@@ -103,18 +67,6 @@ profiles:
     id: ck9hc50s8jtib0j78dq5ix26h
     verified: false
     hashtags: "#muadil, #avonturkiye, #newwellmakeup, #caliskantugced"
-  - username: "__bojanarmandic__"
-    fullname: >-
-      Bojana Rmandic
-    bio: >-
-      Social Media influencer 👩‍💻 Montenegro based 🇲🇪 Istanbul 🇹🇷 Collaboration dm /email 📩
-    location: "Turkey"
-    followers: 57512
-    engagement: 191
-    commentsToLikes: 0.112405
-    id: ck5hdenmtn0t40i11goxclfwg
-    verified: false
-    hashtags: "#instalike, #photoshoot, #me, #followme"
   - username: "cananphotos"
     fullname: >-
       
@@ -127,4 +79,52 @@ profiles:
     id: ckap6loufgecs0i78b7bxk1sx
     verified: false
     hashtags: "#instaflower, #objektifimden, #fotografvakti, #streetstyle"
+  - username: "_karayemis_"
+    fullname: >-
+      Aslıhan Olgun
+    bio: >-
+      Marmara University Volvo Trabzon, Turkey
+    location: "Turkey"
+    followers: 43532
+    engagement: 265
+    commentsToLikes: 0.024380
+    id: ckf5qi4ut9g1d0j23m3lvjtmr
+    verified: false
+    hashtags: "#mountains, #flowers, #artvin, #karadeniz"
+  - username: "goktuggokhanyuksel"
+    fullname: >-
+      Göktuğ Gökhan Yüksel
+    bio: >-
+      Before the pandemic,was the Freelance Makeup Artist but now wants to be called Owner and Founder of @nounchecom 📩gokhan@nounche.com
+    location: "Turkey"
+    followers: 19451
+    engagement: 217
+    commentsToLikes: 0.000000
+    id: ck5hkr0mwiwxm0i11skb1vpnn
+    verified: false
+    hashtags: "#makeupartist, #makyaj, #makeup, #mua"
+  - username: "cerenkulahli"
+    fullname: >-
+      Ceren Külahlı
+    bio: >-
+      📸Makeup | Beauty | Lifestyle 📍İstanbul 🦆Twitter: cerenkulahli 📩PR: cerenkulahli2@gmail.com
+    location: "Turkey"
+    followers: 87751
+    engagement: 167
+    commentsToLikes: 0.025207
+    id: ck8t09eaxra4i0j78w6hhxucx
+    verified: false
+    hashtags: "#snow, #winter, #winterfashion, #ootd"
+  - username: "edailemakyajj"
+    fullname: >-
+      Eᴅᴀ ʙʟᴏɢ’s
+    bio: >-
+      📸Makeup/ beauty 💄 📍İstanbul 🎓 Uluslararası Ticaret ve Lojistik Yön. Pr, Reklam ve işbirlikler için DM 📩
+    location: "Turkey"
+    followers: 27438
+    engagement: 291
+    commentsToLikes: 0.020825
+    id: ck8t4rlf47sc10j783f2ar8us
+    verified: false
+    hashtags: "#go, #all, #oje, #ojesergisi"
 ---

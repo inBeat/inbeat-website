@@ -1,12 +1,24 @@
 ---
-title: Top 10 Graphic-Designers Instagram Influencers In Poland In 2023
+title: Top 10 Graphic-Designers Instagram Influencers In Poland In 2024
 description: >-
-  Find top graphic-designers Instagram influencers in Poland in 2023. Most popular hashtags: #polishgirl #ootd #selfie #girl.
+  Find top graphic-designers Instagram influencers in Poland in 2024. Most popular hashtags: #art #illustration #graphicdesign #fashion.
 platform: Instagram
-hits: 14
-text_top: Analyze the most popular Instagram profiles on inBeat.
-text_bottom: Our database has 14 Instagram influencers like this in Poland for you to pitch.
+hits: 18
+text_top: Identify the most popular Instagram accounts on inBeat.
+text_bottom: Our platform aggregates 18 Instagram influencers like this in Poland for you to work with.
 profiles:
+  - username: "wrocenska"
+    fullname: >-
+      Zuzanna Wrocenska
+    bio: >-
+      Graphic Designer 📍NYC/PL @geneticsmgmt @glowmodel.management @unique_agency
+    location: "Poland"
+    followers: 30010
+    engagement: 32
+    commentsToLikes: 1.629538
+    id: ck5ho1az4or3p0i115xdpmbph
+    verified: false
+    hashtags: "#nycphotographers, #nychairstylists, #nycphotostudio, #nycmodeling"
   - username: "lil.marvels"
     fullname: >-
       
@@ -91,40 +103,28 @@ profiles:
     id: ck9wp1i8n7e800j78klx6hvo0
     verified: false
     hashtags: "#positions, #graphicdesign, #arianagrande, #albumcover"
-  - username: "cinnam.mon"
+  - username: "imdollka"
     fullname: >-
-      Cinnam.mon | Artist
+      Kamila Piestrzyńska - Dollka
     bio: >-
-      ⚜️ Tattoo apprentice ⚜️ Lifestyle @cinnamio ✉️ cinnam.insta@gmail.com YouTube below
+      👾▪︎lvl 24▪︎All photos are mine.▪︎🇵🇱🇩🇪🇨🇭 #Blogger #Dubstep #Art #Beauty
     location: "Poland"
-    followers: 3065
-    engagement: 1087
-    commentsToLikes: 0.093355
-    id: ck8wg43j8gpd40j78hgw2r5m0
+    followers: 15270
+    engagement: 421
+    commentsToLikes: 0.011367
+    id: ck5zp7qnqs5g30i14jm560cac
     verified: false
-    hashtags: "#tattooapprentice, #tatuaze, #rysunek, #polishartist"
-  - username: "lackoronski"
+    hashtags: "#polishboy, #artwork, #freetime, #hobby"
+  - username: "krol.jpg"
     fullname: >-
-      Koni Lackoronski
+      Mateusz Król — krol.jpg
     bio: >-
-      „𝚄𝚠𝚊ż𝚊𝚖 𝚜𝚒ę 𝚣𝚊 𝚘𝚜𝚘𝚋ę 𝚒𝚗𝚝𝚛𝚘𝚠𝚎𝚛𝚝𝚢𝚌𝚣𝚗ą, 𝚔𝚝ó𝚛𝚊 𝚗𝚊𝚐𝚕𝚎 𝚣𝚘𝚜𝚝𝚊ł𝚊 𝚠𝚛𝚣𝚞𝚌𝚘𝚗𝚊 𝚍𝚘 𝚎𝚔𝚜𝚝𝚛𝚊𝚠𝚎𝚛𝚝𝚢𝚌𝚣𝚗𝚎𝚐𝚘 ś𝚠𝚒𝚊𝚝𝚊” 🧛🏻‍♀️ 𝚟𝚊𝚖𝚙𝚒𝚛𝚎. 🔮 𝚖𝚊𝚐𝚒𝚊. ✝️ #𝚡𝚡𝚡𝚟 📍𝚆𝚊𝚛𝚜𝚊𝚠, 𝙿𝚘𝚕𝚊𝚗𝚍
+      Filling the gap between real and surreal. Based in 🇵🇱 Warsaw. #3dartist — Enquiries to: me@mateuszkrol.com
     location: "Poland"
-    followers: 5353
-    engagement: 428
-    commentsToLikes: 0.060152
-    id: ck600wxf5effv0i14xwkafg94
+    followers: 28626
+    engagement: 1333
+    commentsToLikes: 0.032902
+    id: ck0u74grr3pn00i19iaw6pz9p
     verified: false
-    hashtags: "#beautiful, #blondegirl, #selfportrait, #blondynka"
-  - username: "katarzyna_ucherska"
-    fullname: >-
-      Katarzyna Ucherska
-    bio: >-
-      Agent: Magdalena Privitera 501 795 614‬
-    location: "Poland"
-    followers: 9165
-    engagement: 1030
-    commentsToLikes: 0.016868
-    id: ck5c9bujdb5js0i1131t0nacd
-    verified: false
-    hashtags: "#tatu, #polishactresses, #polishactor, #polishphotographer"
+    hashtags: "#space, #c4d, #withgalaxy, #octanerender"
 ---

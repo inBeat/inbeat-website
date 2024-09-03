@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fashion TikTok Influencers In Capetown In 2023
+title: Top 10 Fashion TikTok Influencers In Capetown In 2024
 description: >-
-  Find top fashion TikTok influencers in Capetown in 2023. Most popular hashtags: #fashion #fyp #tiktoksouthafrica #capetown.
+  Find top fashion TikTok influencers in Capetown in 2024. Most popular hashtags: #fashion #fyp #tiktoksouthafrica #capetown.
 platform: TikTok
 hits: 4
-text_top: See the top-rated TikTok influencers on inBeat.
-text_bottom: inBeat aggregates 4 TikTok influencers like this in Capetown, South Africa for you to connect with.
+text_top: See the best TikTok influencers on inBeat.
+text_bottom: inBeat has 4 TikTok influencers like this in Capetown, South Africa for you to work with.
 profiles:
   - username: "audrey_lunda"
     fullname: >-
@@ -126,5 +126,5 @@ profiles:
     commentsToLikes: 0.028305
     id: ck9gtpy8qnsyb0j78js37bl1k
     verified: false
-    hashtags: "#dancechallenge, #rakeitup, #foryou, #dance"
+    hashtags: "#dance, #foryou, #dancechallenge, #fyp"
 ---

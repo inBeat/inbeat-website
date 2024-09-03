@@ -1,130 +1,130 @@
 ---
-title: Top 10 Wellness Instagram Influencers In United Kingdom In 2023
+title: Top 10 Wellness Instagram Influencers In United Kingdom In 2024
 description: >-
-  Find top wellness Instagram influencers in United Kingdom in 2023. Most popular hashtags: #glutes #motivation #workout.
+  Find top wellness Instagram influencers in United Kingdom in 2024. Most popular hashtags: #wellness #healthylifestyle #selfcare #skincareroutine.
 platform: Instagram
-hits: 198
-text_top: Identify the most popular Instagram profiles on inBeat.
-text_bottom: Our platform aggregates 198 Instagram influencers like this in United Kingdom for you to collaborate.
+hits: 467
+text_top: Analyze the best Instagram accounts on inBeat.
+text_bottom: inBeat holds 467 Instagram influencers like this in United Kingdom for you to pitch.
 profiles:
+  - username: "lisablane.nutrition_wellness"
+    fullname: >-
+      Wellness Coach - Lisa Blane
+    bio: >-
+      Helping you create a healthy lifestyle beyond the plate. Author of ‘The Wellness Mindset’ - now available on Amazon! ⬇️
+    location: "United Kingdom"
+    followers: 67057
+    engagement: 170
+    commentsToLikes: 0.067230
+    id: ck15utzumoixi0i19k4w95ai3
+    verified: false
+    hashtags: "#wellness"
+  - username: "twiggyjalloh"
+    fullname: >-
+      Time To Become Your Best Self.
+    bio: >-
+      🏳️‍🌈 👽 •A Neurodivergent Babe •Award-winning Beauty & Wellness Journalist @britishvogue •Self Dev + Wellness Podcast Host @taketenwithtwiggy
+    location: "United Kingdom"
+    followers: 11149
+    engagement: 557
+    commentsToLikes: 0.083121
+    id: ck5zvcurm3znh0i1456rsi431
+    verified: false
+    hashtags: "#lumene, #blackout, #cannes, #canneslions"
   - username: "georgie.crawford"
     fullname: >-
       Georgie Crawford
     bio: >-
-      @thegoodglow.ie Podcast & Online Wellness Course Mum & wife to my true loves Health & Wellness Speaker Fitbit Ambassador
+      Health Coach & Wellness Speaker Mum & Wife To My True Loves #1 bestselling author of Glow Proud BA for @lexus_ireland
     location: "United Kingdom"
-    followers: 86557
-    engagement: 279
-    commentsToLikes: 0.046770
+    followers: 111182
+    engagement: 522
+    commentsToLikes: 0.017367
     id: ck15uuoaeolez0i190z7ag7pz
     verified: true
-    hashtags: "#sp, #selflove, #wellness, #selfcare"
-  - username: "leoniealert"
+    hashtags: "#selfcare, #ad, #georgia, #wellness"
+  - username: "vegangirlboss"
     fullname: >-
-      Leonie Alert
+      Adina Akhmetova
     bio: >-
-      Fitness • Wellness • Positive vibes  ▪️Co-founder of @lavalifestyle  ▪️London based Fire performer & marketing/events manager
+      → FEEL GOOD VEGAN FOOD + lifestyle vegan recipes, health & wellness, daily routines 📍 Birmingham, UK ✉️ vegangirlboss@gmail.com
     location: "United Kingdom"
-    followers: 18712
-    engagement: 585
-    commentsToLikes: 0.109974
-    id: ck15pwhvrzze30i19375dvg9e
+    followers: 203651
+    engagement: 963
+    commentsToLikes: 0.073660
+    id: ck55jt4dyxorw0i11bzuauype
     verified: false
-    hashtags: "#lockdown, #workout, #glutes, #strong"
-  - username: "indira.badia"
+    hashtags: "#habits, #motivation, #recipes, #toast"
+  - username: "thetypethat_"
     fullname: >-
-      Indira Badia Fonseca
+      Jasmine Jaffar
     bio: >-
-      🇪🇸IFBB PRO•FIRST UK WELLNESS🇬🇧 @fueledbodies Founder @indira.badia Tiktok @vedgenutrition @rawgear Booty Builder🍑 Plant Based🌱 Married 💍 Mum👩‍👦
+      🪩 intentional life, style & beauty 🦋t1d & chronic illness advocate 💌 wellness in all its forms
     location: "United Kingdom"
-    followers: 236969
-    engagement: 538
-    commentsToLikes: 0.024271
-    id: ck5cbzfd2gfuc0i11u7ir14sj
+    followers: 6546
+    engagement: 769
+    commentsToLikes: 0.105911
+    id: cl088gqsqal9x0i23t1n5ducg
     verified: false
-    hashtags: "#workout, #motivation, #legs, #glutes"
-  - username: "coral_pearl_"
+    hashtags: "#selfcompassion, #outfitinspo, #sunandsea, #europeansummer"
+  - username: "coralie_vdb_"
     fullname: >-
-      Coral Golding
+      Coralie Van den Bossche
     bio: >-
-      Parenting • Lifestyle • Fashion • Wellness Home schooling mama of ✌🏽 Co founder of @42Juice 📍 Brighton, UK ✉️ Coral@42juice.com
+      @FashionNova ambassador 🎧 gym | wellness | cute outfits ↓ my program ↓ @space_booty_ ✧˚
     location: "United Kingdom"
-    followers: 35518
-    engagement: 175
-    commentsToLikes: 0.067881
-    id: ck136j1ua6qbt0i19yfaj71of
+    followers: 151322
+    engagement: 583
+    commentsToLikes: 0.006955
+    id: ck9wdjpx9fyhr0j78yjarlkst
     verified: false
-    hashtags: "#youcanbeanything, #veryuk, #barbie, #5amclub"
-  - username: "gabriela.pauluss"
+    hashtags: "#thatgirlaesthetic, #flatbelly, #upperglutes, #couplereels"
+  - username: "thechiderapeters"
     fullname: >-
-      G A B R I E L A
+      Chidera Peters - The Money Wife
     bio: >-
-      Latvian girl living in London 🇱🇻/ 🇬🇧/ 🇷🇺 Fitness/wellness
+      💷Helping women to be financially smart and confident. 🤝 Self-Improvement | Fitness 🌿Mindful living + PCOS wellness ✨
     location: "United Kingdom"
-    followers: 4012
-    engagement: 954
-    commentsToLikes: 0.122849
-    id: ck137gvkibh340i19zc6gh4rd
+    followers: 14357
+    engagement: 450
+    commentsToLikes: 0.043074
+    id: cllok6vtkrpqh0j088c2v8irb
     verified: false
-    hashtags: "#gymaddicts, #squatspo, #gyminspiration, #itsmeagain"
-  - username: "sallyfazeli_lifestyle"
+    hashtags: "#menstrualhealth, #personalfinanceforwomen, #pressplay, #fitness"
+  - username: "amber.annabella"
     fullname: >-
-      Lifestyle & Wellness
+      amber annabella george
     bio: >-
-      Family 👨‍👩‍👦‍👦 Baby on the way 🤰🏻 Pregnancy & Wellness Journey @sallyfazeli If you can be anything...be kind ✨❤️ Interiors @sallyfazelihome
+      just a girl who loves skincare, makeup, wellness and romanticising my life! 🌸 uk based ☁️ amber@intheknowglobal.com
     location: "United Kingdom"
-    followers: 47253
-    engagement: 155
-    commentsToLikes: 0.077031
-    id: ck0w30oa5r1fg0i196vnn0sgv
+    followers: 26549
+    engagement: 6773
+    commentsToLikes: 0.178763
+    id: ckxu3hedzcx3t0j23urjwuzp4
     verified: false
-    hashtags: "#wellkid, #mywellkid, #vitabiotics, #nhs"
-  - username: "facesbygrace23"
+    hashtags: "#skincareroutine, #pinkmakeup, #summermakeup, #summerskin"
+  - username: "balancewithcarys"
     fullname: >-
-      𝘎𝘙𝘈𝘊𝘌 𝘔𝘖𝘕𝘎𝘌𝘠
+      carys 🕊health and wellness
     bio: >-
-      Beauty • Wellness • Lifestyle • Interiors 🏡 @fbghome @graces_little_garden 👩🏻‍🌾 BA @womensbest 🧘🏻‍♀️
+      🧘🏼‍♀️ realistic wellness, fashion and lifestyle content 🩺 future health psychologist 💌: beautyinbalanceuk@gmail.com
     location: "United Kingdom"
-    followers: 168104
-    engagement: 261
-    commentsToLikes: 0.035149
-    id: ck5zpglfdsmmu0i14lvq78j4r
-    verified: true
-    hashtags: "#3amstartsarenotok, #gleniffhorseshoe, #discoverireland, #inthestylexterriemcevoy"
-  - username: "dudu_kgoebane"
-    fullname: >-
-      Dr. Dudu Kgoebane-Masoeu🇿🇦
-    bio: >-
-      💉: Dr K 🧖🏽‍♀️: Skinfluencer, Wellness & Lifestyle 📧 PR/Enquires: info@dudukgoebane.co.za 🎥 YouTube: Dudu Kgoebane
-    location: "United Kingdom"
-    followers: 28442
-    engagement: 996
-    commentsToLikes: 0.053866
-    id: ckaoxnbfedzjm0i78oxk23tbu
+    followers: 12869
+    engagement: 489
+    commentsToLikes: 0.035615
+    id: clibdat2jw8w80j08umyfx8z2
     verified: false
-    hashtags: "#ad, #makeup, #brunch, #bareskin"
-  - username: "maikenf"
+    hashtags: "#fashion, #skincareproducts, #thatgirl, #skincare"
+  - username: "leannes_beauty_spot"
     fullname: >-
-      Maiken Ariana | Travel & Yoga
+      Leanne | Skincare & Beauty
     bio: >-
-      @w_modelmgmt Luxury travel + Wellness creator Yoga For Athletes Cert. Bookings: hannah@wmodel.co.uk @barebells.uk ambassador 📍 Sussex, UK
+      🇬🇧 34, Girl mum 🤍 Skincare | Haircare | Makeup | Wellness 💌 dm or email leannesbeautyspot@gmail.com 👇 Discount codes
     location: "United Kingdom"
-    followers: 47560
-    engagement: 261
-    commentsToLikes: 0.042720
-    id: ck0w2vujmqf210i1923poyurn
+    followers: 3617
+    engagement: 391
+    commentsToLikes: 0.507796
+    id: cl088hk8aatar0i23djzggxtc
     verified: false
-    hashtags: "#traveltheworld, #ukheatwave, #luxurydestinations, #siauibiza"
-  - username: "emilylouisejeal"
-    fullname: >-
-      Emily Louise ❁ Life & Style
-    bio: >-
-      ❁ Snapshots of my life in #Norfolk ❁ Chatty Stories ❁ Motherhood | Fashion | Wellness ❁ Join in with my hashtag #styleherhappy
-    location: "United Kingdom"
-    followers: 6492
-    engagement: 846
-    commentsToLikes: 0.244499
-    id: ckaoqyrnhkyfw0i7812z4wh0z
-    verified: false
-    hashtags: "#rainbowfeed, #thursdayvibes, #whatmamaworemonday, #beigepalette"
+    hashtags: "#skincareroutine, #loveelemis, #elemisskinsider, #acneproneskin"
 ---

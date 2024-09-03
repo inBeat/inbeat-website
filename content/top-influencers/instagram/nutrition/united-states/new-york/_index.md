@@ -1,11 +1,11 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In New York In 2023
+title: Top 10 Nutrition Instagram Influencers In New York In 2024
 description: >-
-  Find top nutrition Instagram influencers in New York in 2023. Most popular hashtags: #nutrition #fitness #love #fitnessmotivation.
+  Find top nutrition Instagram influencers in New York in 2024. Most popular hashtags: #nutrition #fitness #newyork #motivation.
 platform: Instagram
-hits: 52
-text_top: Identify the best Instagram accounts on inBeat.
-text_bottom: inBeat holds 52 Instagram influencers like this in New York, United States for you to pitch.
+hits: 72
+text_top: Analyze the most popular Instagram accounts on inBeat.
+text_bottom: Our database has 72 Instagram influencers like this in New York, United States for you to connect with.
 profiles:
   - username: "sizzletalk"
     fullname: >-
@@ -31,18 +31,42 @@ profiles:
     id: ck5zwjf3v688z0i14aeba9ply
     verified: false
     hashtags: "#workout, #fitness, #inspire, #wrrshow"
-  - username: "plantbasedben"
+  - username: "nycmuncher"
     fullname: >-
-      Plant Based Ben Ⓥ
+      Simone | NYC Food & Fitness
     bio: >-
-      🙋🏽‍♂️| Bonus Account @ben.raue 🥷🏽| Plant Based Fitness 📗| Free Transformation Guide 👇🏽 🔊| Speaking Up for Freedom 📪| Join My Telegram
+      Currently running to every NYC Zip Code to find the most notable 🍕 in each one! Completed 110+ marathons/ultras 📩 NYCmuncher@gmail.com
     location: "United States"
-    followers: 142636
-    engagement: 172
-    commentsToLikes: 0.045836
-    id: ck0w2ymzqqrbx0i198u0z6281
+    followers: 17227
+    engagement: 354
+    commentsToLikes: 0.111409
+    id: ckap4e66b6ylq0i78e8x7f4yy
     verified: false
-    hashtags: "#healthyfood, #foodie, #healthiswealth, #vegansofig"
+    hashtags: "#nycfoodie, #nycdining, #brunchnyc, #pizzagirl"
+  - username: "__noahjr__"
+    fullname: >-
+      𝐍𝐨𝐚𝐡
+    bio: >-
+      ꜰɪᴛɴᴇꜱꜱ | ɴᴜᴛʀɪᴛɪᴏɴ | ʟɪꜰᴇꜱᴛʏʟᴇ 📍 ʟᴏɴᴅᴏɴ 🇺🇸🇬🇧🇫🇷 ✉️ ɴᴊʀ.ᴄᴏʟʟᴀʙꜱ@ɢᴍᴀɪʟ.ᴄᴏᴍ 💪🏽 ᴛʀᴀɪɴɪɴɢ @noahjrfit
+    location: "United States"
+    followers: 914487
+    engagement: 1019
+    commentsToLikes: 1.021931
+    id: ck6ubrovqbbat0j71xjevm645
+    verified: false
+    hashtags: "#fitness, #reels, #goodvibes, #getfit"
+  - username: "onceuponapumpkin"
+    fullname: >-
+      Maggie Michalczyk, RDN
+    bio: >-
+      Attainable nutrition & wellness for millennial women Helping you have more food confidence 💥
+    location: "United States"
+    followers: 106992
+    engagement: 56
+    commentsToLikes: 0.058956
+    id: ck0twrw56gleb0i19bk54yiru
+    verified: true
+    hashtags: "#italytrip, #pumpkineverything, #highproteinsnacks, #magicshellyogurtcup"
   - username: "adriano_sosa"
     fullname: >-
       Adriano Sosa 🇩🇴
@@ -55,18 +79,42 @@ profiles:
     id: ck13bz3qcxumx0i19wrzz28zw
     verified: false
     hashtags: "#beastmode, #comfy, #zumbalove, #dance"
-  - username: "johnnyprimecc"
+  - username: "nurse_social"
     fullname: >-
-      Johnny Prime™
+      Nurse Social
     bio: >-
-      Carnivore Connoisseur & Beef Expert Author: "The Beef Bible" I write about, shoot photos of, and sell #steak www.johnnyprimesteaks.com (blog)
+      A NYC nurse promoting community, lifestyle, and humor 😬😂
     location: "United States"
-    followers: 57248
-    engagement: 121
-    commentsToLikes: 0.041781
-    id: ck5bwy2msmmy90i11ekrtstdd
+    followers: 245862
+    engagement: 375
+    commentsToLikes: 0.022424
+    id: clgd5az1pl69x0j08qixrulur
     verified: false
-    hashtags: "#ribsteak, #foodporn, #steaks, #healthy"
+    hashtags: "#nycmoment, #fitness, #nycthings, #weightloss"
+  - username: "c0ralista_"
+    fullname: >-
+      Lea Beltran (Leianne)
+    bio: >-
+      🐠Aquarium Hobbyist📍Central NJ 📸 Blogging 📝 Product Reviews 🚧 Builds 👇 Link for more info / Highlights for current collabs
+    location: "United States"
+    followers: 16014
+    engagement: 626
+    commentsToLikes: 0.051503
+    id: ck6uekpu5ri060j71zievcvlh
+    verified: false
+    hashtags: "#aquascape, #picotank, #coralreeftank, #freshwateraquarium"
+  - username: "pilotmagdyali"
+    fullname: >-
+      Magdy Ali
+    bio: >-
+      Catch Me If You Can
+    location: "United States"
+    followers: 1115716
+    engagement: 115
+    commentsToLikes: 0.009864
+    id: ckap5go4eblsi0i786h3o3f88
+    verified: false
+    hashtags: "#photography, #airport, #lifestyle, #traveldeeper"
   - username: "thepunjabilion"
     fullname: >-
       ROBO The Punjabi Lion
@@ -79,52 +127,4 @@ profiles:
     id: ck0u0d52rte9o0i199aero61o
     verified: false
     hashtags: "#robokdm, #styleblogger, #positivevibes, #viralvideos"
-  - username: "planejanedrag"
-    fullname: >-
-      Plane Jane
-    bio: >-
-      It’s Plane like airplanes ✈️ Профессиональная клоунесса👑 Home base: Boston Venmo: @ peanutbuttr
-    location: "United States"
-    followers: 3389
-    engagement: 1382
-    commentsToLikes: 0.075933
-    id: ck5cd31bkig800i11tjt1pxoh
-    verified: false
-    hashtags: "#meninmakeup, #rupaulsdragrace, #makeup, #welovequeens"
-  - username: "kevinhubsmith"
-    fullname: >-
-      Kevin Hubsmith
-    bio: >-
-      📍New York City Rollin on two wheels @iamspecialized @we_are_sungod @blacksheepcycling @nocco & @barebells Athlete
-    location: "United States"
-    followers: 27178
-    engagement: 197
-    commentsToLikes: 0.025157
-    id: ck5zzp1uxc5pg0i14xsehosjd
-    verified: false
-    hashtags: "#roadcycling, #cyclingphotos, #iamspecialized, #specializedcrux"
-  - username: "dianna_k_"
-    fullname: >-
-      ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀  DESPINA KARAVAS ®
-    bio: >-
-      Pro fighter 📍New York 📅 next fight : 🇬🇷🇨🇴
-    location: "United States"
-    followers: 10969
-    engagement: 594
-    commentsToLikes: 0.041034
-    id: ck8sx7jt8gf5x0j78s1yh3enb
-    verified: false
-    hashtags: "#tritonfights, #kickboxing, #bjj, #wmma"
-  - username: "georgefarah_guru"
-    fullname: >-
-      George Farah
-    bio: >-
-      Pro Maker BHS Bachelor in Holistic Health Sciences Sport Nutrition consultant. NPC/IFBB Pro League. #TeamFarah. gvfarah@yahoo.com
-    location: "United States"
-    followers: 274547
-    engagement: 253
-    commentsToLikes: 0.052487
-    id: ck139j0uoljl50i19uxydo4qs
-    verified: true
-    hashtags: "#family, #dreammaker, #dreamdocometrue, #2021"
 ---

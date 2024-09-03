@@ -1,130 +1,130 @@
 ---
-title: Top 10 Bloggers Instagram Influencers In Indonesia In 2023
+title: Top 10 Bloggers Instagram Influencers In Indonesia In 2024
 description: >-
-  Find top bloggers Instagram influencers in Indonesia in 2023. Most popular hashtags: #wonderfulindonesia #kulinerjakarta #skincare #jktfoodies.
+  Find top bloggers Instagram influencers in Indonesia in 2024. Most popular hashtags: #bali #travel #beach.
 platform: Instagram
-hits: 173
+hits: 163
 text_top: Identify the most popular Instagram accounts on inBeat.
-text_bottom: Our database aggregates 173 Instagram influencers like this in Indonesia for you to connect with.
+text_bottom: Our search engine has 163 Instagram influencers like this in Indonesia for you to work with.
 profiles:
+  - username: "erryandriyati"
+    fullname: >-
+      Erry Andriyati
+    bio: >-
+      Mommy Blogger, Kdramalover, Kpoper email : erryandriyati@gmail.com
+    location: "Indonesia"
+    followers: 25116
+    engagement: 1275
+    commentsToLikes: 0.081369
+    id: ckaow3sph7amu0i78kqfzhgan
+    verified: false
+    hashtags: "#dramakorea, #kdrama, #nevertheless, #koreandrama"
+  - username: "stafanacharis"
+    fullname: >-
+      Stafa ✿
+    bio: >-
+      #reviewbystafana Beauty | Food | Lifestyle Blogger Dry - Sensitive Skin | Acne Prone Business Inquiries ⬇️ Admin : (081392774596)
+    location: "Indonesia"
+    followers: 20044
+    engagement: 396
+    commentsToLikes: 0.038138
+    id: ck9wi8dgd15ww0j78o98zkh7h
+    verified: false
+    hashtags: "#beautycollabid, #jogjabloggirls, #reviewbystafana, #bloggersolo"
   - username: "agusmagelangan"
     fullname: >-
       Agus Mulyadi
     bio: >-
-      Kadang blogger, kadang netizen, kadang nulis buku | Pesan buku “Sebuah Seni untuk Memahami Kekasih”, klik link di bio ⬇️⬇️⬇️ | CP: 087722271000 (WA)
+      🧑🏽‍💻 Blogger, penulis buku, netizen pada umumnya 🌟 Bergembira di @akalbuku dan @kecapmbahjoyo 🤝 Endorse dan kerja sama: 087722271000 (WA)
     location: "Indonesia"
-    followers: 101444
-    engagement: 564
-    commentsToLikes: 0.027556
+    followers: 159707
+    engagement: 337
+    commentsToLikes: 0.036572
     id: ck134ojqpxfhi0i19k1ydm0k6
     verified: false
-    hashtags: "#mancing, #pdip, #bakso, #creatoracademygusdurian"
-  - username: "christina_chandraa"
+    hashtags: ""
+  - username: "bilalchaudhery"
     fullname: >-
-      𝓒𝓱𝓻𝓲𝓼𝓽𝓲𝓷𝓪 𝓬𝓱𝓪𝓷𝓭𝓻𝓪
+      Bilal Chaudhery
     bio: >-
-      📍 Jakarta,Indonesia. Lifestyle blogger & full time mom #christinachandraareview ✨ business inquiries 💌 Tap here 🫶🏼 👇🏼
+      Blogger | Content Creator | influencer 🇵🇰 ~ 🇦🇪 🎬 tiktok:bilalchaudhery Subscribe My Youtube Channel 🔔⬇️
     location: "Indonesia"
-    followers: 104042
-    engagement: 138
-    commentsToLikes: 0.085619
-    id: ck8t0gbe7rytw0j78yib1ck3c
+    followers: 47663
+    engagement: 309
+    commentsToLikes: 0.010742
+    id: ck9wgtp0tuy0j0j781p5qek0i
     verified: false
-    hashtags: "#momlife, #traveling, #lifestyleblogger, #skincare"
-  - username: "hendry.jonathan"
+    hashtags: "#uae, #insta, #instagood, #ootd"
+  - username: "wing__21"
     fullname: >-
-      Kuliner Viral Indonesia | Food Content Creator
+      Marianna Kokchyan
     bio: >-
-      Food Blogger, Gym Enthusiast, Sales Manager Tiktok: Kuliner Viral Indonesia (folls: 425k) Youtube: Hendry Jonathan (90k subscribers) Invite,Endorse:DM
+      • paradise bird 🪶 • travel blogger • joint action: @prwing21 • founder: @wingfactory.agency
     location: "Indonesia"
-    followers: 131422
-    engagement: 97
-    commentsToLikes: 0.032913
-    id: ck5q0p6m172n30i118qao3xy3
+    followers: 281164
+    engagement: 301
+    commentsToLikes: 0.003935
+    id: ck15r87bp6mtm0i197fvrafxk
     verified: false
-    hashtags: "#kulinerjakartabarat, #jktfoodblogger, #kulinerjakarta, #kulinerlegendjakarta"
-  - username: "heytheresia"
+    hashtags: ""
+  - username: "yessayanphoto"
     fullname: >-
-      Tere ☘
+      Yessayanphoto 💙 Photographer
     bio: >-
-      🔍 Top 10 Food Bloggers - Indonesia Tatler 🔍 Influence Asia Food 2015 🎥 video producer of @73studio.id 🍵 @itoenindonesia
+      Личный фотограф Невесты Based in EVN/ available in Europe & LA 🇺🇸✈️ First Armenian Wedding Blogger 📸Engagement | Wedding | content-maker
     location: "Indonesia"
-    followers: 81728
-    engagement: 70
-    commentsToLikes: 0.156774
-    id: ck6tpsz9qmls80j71wwsmukh8
+    followers: 204989
+    engagement: 244
+    commentsToLikes: 0.004905
+    id: ck5q2uy59hx7c0i11ku0mn5nz
     verified: false
-    hashtags: "#kulinerserpong, #jakartafood, #heytheresia, #kulinerjakarta"
-  - username: "satyawinnie"
+    hashtags: "#justengaged"
+  - username: "leonard_c4me"
     fullname: >-
-      Satya Winnie
+      C4ME
     bio: >-
-      An adventurous Paraglider, Hiker, Diver + Travel Blogger from Indonesia 🇲🇨🌏🌊🌋 📍Bali, Indonesia 🎥: youtube.com/satyawinnie 📬: satyawinnie@gmail.com
+      @apiaward Ambassador 2023 🔹 Enterpreneur, Travel Blogger, Hotel Reviewer, Fuji Film + Sony
     location: "Indonesia"
-    followers: 35028
-    engagement: 429
-    commentsToLikes: 0.098660
-    id: ck138jc7ggi650i19vaskllcv
+    followers: 21967
+    engagement: 200
+    commentsToLikes: 0.231626
+    id: ck0vx06gfwgx70i19m1aargum
     verified: false
-    hashtags: "#pesonaindonesia, #terbangaman, #wonderfulindonesia, #explorebali"
-  - username: "ribkahaprilia"
+    hashtags: "#infohotel, #alam, #museumkeramik, #nature"
+  - username: "cintacharoselinaa"
     fullname: >-
-      RIBKAH | BLOGGER
+      Cintacha Roselina
     bio: >-
-      🌼 BEAUTY || LIFESTYLE BLOGGER 📍SBY 🛍️ Sociolla Diskon : SBN04ED84 ❤️ K-Lovers , Food lovers Post 👇
+      Beauty Enthusiast/Vlogger/Blogger Email : Cintacharoselina22@gmail.com Youtube channel: Cintacha Roselina
     location: "Indonesia"
-    followers: 12324
-    engagement: 1288
-    commentsToLikes: 0.037910
-    id: ck9wp2m717j470j78ilsszbqy
+    followers: 48575
+    engagement: 156
+    commentsToLikes: 0.019982
+    id: ck5c3ra3wzwhb0i11pxos2zvj
     verified: false
-    hashtags: "#selfcare, #selfietime, #raikubeauty, #quotesaboutlife"
-  - username: "elinivana"
+    hashtags: "#reviewbenings, #beningsekarang, #beningsetiaphari, #baliindonesia"
+  - username: "iva_jeremic"
     fullname: >-
-      Elin Ivana
+      • IVA JEREMIĆ •
     bio: >-
-      a Beauty Blogger, not a Love Expert. 💌 hi.elinivana@gmail.com
+      •Fashion, lifestyle & travel blogger 📸 •Owner of @el_yve 🌹 •Sales manager 👩🏽‍💻 •Ivajeremic96@gmail.com 💌
     location: "Indonesia"
-    followers: 55747
-    engagement: 308
-    commentsToLikes: 0.070129
-    id: ck6tlph9i6e5i0j71vfug15ik
+    followers: 146820
+    engagement: 139
+    commentsToLikes: 0.008468
+    id: ck6008cfxd4q40i14u5gp4m6z
     verified: false
-    hashtags: "#koreanmakeup, #shotoniphone11, #koreanaesthetic, #beautybloggerindonesia"
-  - username: "el.journeys"
+    hashtags: "#fashionblogger, #hotelambasador, #fashion, #croatia"
+  - username: "trinitytraveler"
     fullname: >-
-      Endah L || Travel Enthusiast
+      Trinity
     bio: >-
-      ☔ BOGOR 📹Travel Blogger | Vlogger | Co.Creator 🎬 YouTube : el journeys 📝 Blog http://eljourneys.blogspot.com/ 📮 DM For Business
+      Indonesia's leading travel writer, author of 15 best-selling books incl #thenakedtraveler series that became movies, blogger since 2005.
     location: "Indonesia"
-    followers: 10865
-    engagement: 676
-    commentsToLikes: 0.153297
-    id: ck5c1aff1urtf0i11xo5z8r3g
-    verified: false
-    hashtags: "#newnormal, #myperfectcompanion, #tanpakeluh2020, #ichoosedigimap"
-  - username: "alidabdul"
-    fullname: >-
-      Alid Abdul
-    bio: >-
-      From Jombang with Love | An Indonesian | A Blogger | A Traveler | A Backpacker | A Failed YouTuber | A Model Wannabe
-    location: "Indonesia"
-    followers: 2287
-    engagement: 1492
-    commentsToLikes: 0.176002
-    id: ck6udm7vmlvyx0j71cf1h4gb2
-    verified: false
-    hashtags: "#pesonaindonesia, #pendakiindonesia, #instanusantara, #pendakikeren"
-  - username: "marischkaprue"
-    fullname: >-
-      Marischka Prudence
-    bio: >-
-      Travel Blogger & a Happy Diver 😃 Living in Paradise: Indonesia 🇮🇩 📍Indonesia 🌞🌿⬇️
-    location: "Indonesia"
-    followers: 112344
-    engagement: 153
-    commentsToLikes: 0.075212
-    id: ck55mmcer49py0i110n8pwtbc
+    followers: 124454
+    engagement: 115
+    commentsToLikes: 0.057795
+    id: ck9wp32zo7lef0j78z1cbmrz9
     verified: true
-    hashtags: "#loccitaneid, #smartertechnologyforall, #pakairyzenradeon, #benerancepat"
+    hashtags: "#tnttips, #lebanon, #tokyo, #thenakedtraveler"
 ---

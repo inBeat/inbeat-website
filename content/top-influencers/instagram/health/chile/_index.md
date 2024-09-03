@@ -1,11 +1,11 @@
 ---
-title: Top 10 Health Instagram Influencers In Chile In 2023
+title: Top 10 Health Instagram Influencers In Chile In 2024
 description: >-
-  Find top health Instagram influencers in Chile in 2023. Most popular hashtags: #chile #fitness #healthy.
+  Find top health Instagram influencers in Chile in 2024. Most popular hashtags: #chile #fitness #love.
 platform: Instagram
-hits: 46
-text_top: Discover the best Instagram influencers on inBeat.
-text_bottom: Our database has 46 Instagram influencers like this in Chile for you to collaborate.
+hits: 48
+text_top: Discover the most popular Instagram influencers on inBeat.
+text_bottom: Our platform has 48 Instagram influencers like this in Chile for you to work with.
 profiles:
   - username: "fermadridc"
     fullname: >-
@@ -31,18 +31,6 @@ profiles:
     id: ckap2vdr60hcg0i78umdgcgle
     verified: false
     hashtags: "#favorxfavor"
-  - username: "micamurua"
-    fullname: >-
-      
-    bio: >-
-      📌BsAs, Argentina Model / Holistic Health / Beauty New York @emg_models CL @elitemodel_chile MEX @baxtmodels Student INN @nutritionschool 📚
-    location: "Chile"
-    followers: 23851
-    engagement: 336
-    commentsToLikes: 0.145892
-    id: ck139t27qmz500i19t1yqfv2v
-    verified: false
-    hashtags: "#stbarths, #goldenhour, #stbarth, #lookoftheday"
   - username: "nachovelascoh"
     fullname: >-
       Nacho
@@ -61,12 +49,12 @@ profiles:
     bio: >-
       ⚡️Nuevo Instagram 🙏🏼 GOD is my guide 🏃🏼‍♀️ Preparador físico 💚 LIVE - HEALTHY 📍 Stgo, Chile
     location: "Chile"
-    followers: 2646
-    engagement: 865
-    commentsToLikes: 0.023858
+    followers: 6906
+    engagement: 1684
+    commentsToLikes: 0.023515
     id: ckapcawgj32yc0i785e7x3mqo
     verified: false
-    hashtags: ""
+    hashtags: "#cerrosancristobal, #kelly, #adara, #yorkshire"
   - username: "minrebolledo"
     fullname: >-
       Yasmin Rebolledo Kawas
@@ -114,17 +102,29 @@ profiles:
     commentsToLikes: 0.041294
     id: ckf5p1i8h4mqw0j23jce2j3t9
     verified: false
-    hashtags: "#love, #fitness, #vacations, #paradise"
+    hashtags: "#paradiseisland, #fitness, #healthylifestyle, #vacations"
   - username: "fabysanhueza"
     fullname: >-
-      ~ • F  A  B  Y 🌿
+      ✨Faby Sanhueza / Entrena conmigo 🏋🏻‍♀️
     bio: >-
-      Fitness | Recetas | Maternidad Fitness Personal Trainer🏋🏻‍♀️ 💪🏻 Mamá de 👧🏻 👶🏼❤️ 📩Asesoriasfabysanhueza@gmail.com M O T I V A D O R A 💪🏻
+      Fitness | Recetas | Maternidad Fitness Personal Trainer🏋🏻‍♀️ HOME GYM📍PEÑAFLOR ASESORÍAS ONLINE 💻👇🏻 📩Asesoriasfabysanhueza@gmail.com
     location: "Chile"
-    followers: 14953
-    engagement: 472
-    commentsToLikes: 0.050325
+    followers: 25979
+    engagement: 864
+    commentsToLikes: 0.043536
     id: ck8t0cxbprn390j78ya086cyp
     verified: false
-    hashtags: "#summer, #happy, #disfrutemosjugosquillayes, #healthyfood"
+    hashtags: "#puconchile, #recetasfabysanhueza, #happy, #gratitud"
+  - username: "soficfit"
+    fullname: >-
+      Sofía Cavallini
+    bio: >-
+      Wellness Lifestyle Motivo, entreno & reflexionó TikTok (+215 k) Atleta @nikerunning Owner @this.sofit @sc.estudio 💌: scavallini@uc.cl
+    location: "Chile"
+    followers: 101022
+    engagement: 1694
+    commentsToLikes: 0.006033
+    id: clnbn6qx63z7x0j08dufw5ne5
+    verified: false
+    hashtags: "#wellness, #frases, #soficfitchallenge, #motivacion"
 ---

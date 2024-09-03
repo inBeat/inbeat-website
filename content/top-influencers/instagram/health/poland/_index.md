@@ -1,130 +1,130 @@
 ---
-title: Top 10 Health Instagram Influencers In Poland In 2023
+title: Top 10 Health Instagram Influencers In Poland In 2024
 description: >-
-  Find top health Instagram influencers in Poland in 2023. Most popular hashtags: #polskadziewczyna #style #smile #polishgirl.
+  Find top health Instagram influencers in Poland in 2024. Most popular hashtags: #reklama #wroc #ootd #family.
 platform: Instagram
-hits: 635
-text_top: Discover the most popular Instagram accounts on inBeat.
-text_bottom: inBeat aggregates 635 Instagram influencers like this in Poland for you to collaborate.
+hits: 649
+text_top: See the top-rated Instagram influencers on inBeat.
+text_bottom: Our database aggregates 649 Instagram influencers like this in Poland for you to contact.
 profiles:
-  - username: "tati_tastes"
+  - username: "alicjaostolska_"
     fullname: >-
-      Tati
+      Alicja Ostolska 🤍
     bio: >-
-      Life & Food Stories Good things take time @healthlabs_pl „TATI10” -10% tatiyesayan@gmail.com
+      nice to see U actrees | lifeStyle influencer 💌jpawlowska@healthygroup.pl
     location: "Poland"
-    followers: 19741
-    engagement: 1175
-    commentsToLikes: 0.046339
-    id: ck5q6g5tkx9p40i11j90fuzzb
+    followers: 68164
+    engagement: 599
+    commentsToLikes: 0.010867
+    id: ckf5m3kd5s40n0j23qu76784p
     verified: false
-    hashtags: "#dzi, #zdrowystylzycia, #odpolskiegodostawcy, #kochammojelumene"
-  - username: "wolna.jagoda"
+    hashtags: "#gdansk, #makeup, #lorealtelescopiclift, #reklama"
+  - username: "agata_rubik"
     fullname: >-
-      Jagoda
+      Agata Rubik
     bio: >-
-      @malowane.kadrem 📷 My photo diary Healthylifestyle 🏃🚴🖤 Poznań
+      Travel and healthy food lover, Mum 👩‍👧‍👧 @piotr_rubik ‘s wife. ✉️ współpraca ➡️ ａｇａｔａ@ｒｕｂｉｋ. p l
     location: "Poland"
-    followers: 6367
-    engagement: 1080
-    commentsToLikes: 0.110710
-    id: ck6ugsqom4y700j71lfstdqww
+    followers: 181120
+    engagement: 319
+    commentsToLikes: 0.022767
+    id: ck13bm9qpw3tc0i19ty537zh7
     verified: false
-    hashtags: "#rozdanie, #wygraj, #prezent, #miedzyzdroje"
-  - username: "kaaaro_wu"
+    hashtags: "#sydney, #family, #newchapter, #szkolypelnetalentow"
+  - username: "jackevening"
     fullname: >-
-      Karolina Walawko
+      Jacek Wieczorek
     bio: >-
-      📍Warsaw 🇵🇱 . •Fitness • Health • Fashion • Skin Care . 💌 kaaaro.wu@gmail.com
+      Living healthy with a smile😊 Join my trainings here⬇️
     location: "Poland"
-    followers: 20684
-    engagement: 454
-    commentsToLikes: 0.078143
-    id: ck15qb5cc1zsm0i19nwb10g5b
+    followers: 103014
+    engagement: 927
+    commentsToLikes: 0.021481
+    id: ckf5r3wiabbza0j233job6wab
     verified: false
-    hashtags: "#beauty, #stylefashion, #polskadziewczyna, #motywacja"
-  - username: "weroviko"
+    hashtags: "#gymrat, #goodmorning, #trainer, #outfit"
+  - username: "aleksandrags"
     fullname: >-
-      Viko
+      Aleksandrags Aleksandra Gasior
     bio: >-
-      🧶 @wiko_handmade Ultra and marathon runner 🏃‍♀️ 110km⛰ 50+km⛰ 42,195km *7 Healthy lifestyle🤸‍♀️ Mountains #SeeYouLaterTeam 📩 weroviko(at)op.pl
+      PR Girl | Obserwuj moje story - info o premierach 👟 Vinted: kreolcia16 Jedzenie: @healthy_aleksandrags 1/3 @girlstalkpl
     location: "Poland"
-    followers: 3940
-    engagement: 3226
-    commentsToLikes: 0.077378
-    id: ckap4qhso8f0a0i782vs00mf7
+    followers: 52201
+    engagement: 529
+    commentsToLikes: 0.043177
+    id: ck5hkm57piobh0i11eypyw559
     verified: false
-    hashtags: "#polkasport, #run, #moments, #runandfun"
-  - username: "bozenaskarbek"
+    hashtags: "#streetstyle, #zalandopl, #streetwear, #mcdonalds"
+  - username: "dominikagrosicka"
     fullname: >-
-      Bożena Skarbek
+      Dominika Grosicka
     bio: >-
-      Nie zadawalaj innych kosztem siebie! Nigdy nie mów o sobie źle! Fashion,beauty,healthy food,positive energy lover🥰 Cancer survivor💪🏻 📩bena3@o2.pl priv
+      Make Up Artist✨💄 Gym Lover 💪🏼🤸🏼‍♂️ Healthy Lifestyle 🌱🍋🌶 Contact🌎dominikagrosicka@gmail.com
     location: "Poland"
-    followers: 16660
-    engagement: 469
-    commentsToLikes: 0.130150
-    id: ckap1f2d2ubon0i78jlzqejtd
+    followers: 144586
+    engagement: 158
+    commentsToLikes: 0.010343
+    id: cl5l32we9931s0i23n66aff8t
     verified: false
-    hashtags: "#jewerly, #stylizacjadnia, #zainspirujsie, #neon"
-  - username: "colovista"
+    hashtags: "#sun, #happybirthday, #loveit, #chill"
+  - username: "asiicca"
     fullname: >-
-      Anna Pichl
+      𝓙𝓸𝓪𝓷𝓷𝓪
     bio: >-
-      Fashion&Beauty&Lifestyle Live healthy and colorful Anna/46+ Master of hairdressing✂️ Makeup artist 🍃 Dog Maltese-Indi🐾 🍃 Email: anna-pichl@t-online.de
+      ———————————- Stałe współprace: @healthlabs_pl -10% kod: asiicca10 @kuchniavikinga -15% kod: ASIICCA15
     location: "Poland"
-    followers: 6103
-    engagement: 591
-    commentsToLikes: 0.394088
-    id: ck6trx1xn1k8e0j71k0xn8qqg
+    followers: 202724
+    engagement: 135
+    commentsToLikes: 0.001143
+    id: ck0vwue6nvn8b0i194lietzz8
     verified: false
-    hashtags: "#instabeauty, #face, #twarz, #girl"
-  - username: "fit_malosci"
+    hashtags: "#daughter, #wroc, #polskakobieta, #goodday"
+  - username: "travelwithherstyle"
     fullname: >-
-      
+      Adriana Kucia
     bio: >-
-      🌿Amelia🍃🌿Łódź, Poland🌿 🍃🍉Healthylifestyle🍉🍃 🍃🏋🏻‍♀️Gym lover🏋🏻‍♀️🍃
+      📧 adriana@travelwithherstyle.com 📍Austin, TX 🇺🇸 3D printed home 🏡 ✈️ Traveling the world 🌍 50 countries 🧳 🌿 Healthy lifestyle ❌ gluten & dairy free
     location: "Poland"
-    followers: 11558
-    engagement: 999
-    commentsToLikes: 0.062969
-    id: ck9hai33ncmty0j78nenusg02
+    followers: 322627
+    engagement: 118
+    commentsToLikes: 0.066259
+    id: ckaov97103ksf0i78156favts
     verified: false
-    hashtags: "#healthyfood, #fit, #yummy, #zdroweprzepisy"
-  - username: "dagawu"
+    hashtags: "#travelwithherstyle, #texascontentcreator, #austinblogger, #ad"
+  - username: "boogiesilver"
     fullname: >-
-      Dagmara Wawrzyniak
+      Paula Boogiesilver ➡️ Białystok
     bio: >-
-      @underarmour Ambassador @endorfina.shop ⚡️ #CARDIOMASAKRA ® training program 🔥 🦌 Healthy mind & body #TEAMSARENKI 📖 MOJE-BOOKI ⬇️
+      🚀150K+ SUBS ON YOUTUBE 🍳Ebook -Moja historia i Dieta🍊 🌿Styl życia , piękno , zdrowie 🌸Lifestyle,Beauty,Health 💌Contact:boogiesilver@gmail.com
     location: "Poland"
-    followers: 107739
-    engagement: 386
-    commentsToLikes: 0.025719
-    id: ck8t0y9e5tryr0j78s37ww1zg
+    followers: 98101
+    engagement: 93
+    commentsToLikes: 0.021051
+    id: ck5zpgwl0sn600i14gpun584a
     verified: false
-    hashtags: "#teamsarenki, #cardiomasakra, #dagawu, #theonlywayisthrough"
-  - username: "kasiaharmony"
+    hashtags: "#wsp, #klubmilakamien, #klubmila, #zaproszenie"
+  - username: "tojafrycz"
     fullname: >-
-      Kasia Harmony
+      Olga Frycz
     bio: >-
-      • healthyfood • natural medicine • vegetarian lifestyle 🌱 #doterra wellness advocate, join me 👉 9448371 📍 Warszawa/ Poland 📮Kasia@harmonylife.style
+      @healthlabs_pl OLGA10 @lecollet OLGA10 📧wspolpraca.olga@wp.pl
     location: "Poland"
-    followers: 46761
-    engagement: 371
-    commentsToLikes: 0.040780
-    id: ck5zx2fe577tv0i1434us37ir
-    verified: false
-    hashtags: "#wsp, #podk, #ksi, #coreczkamamusi"
-  - username: "roverova_girl"
+    followers: 342770
+    engagement: 83
+    commentsToLikes: 0.024559
+    id: ck15tjus5ig230i19sf0zkafe
+    verified: true
+    hashtags: "#colgatemaxwhiteultra, #cocacolapolska, #westwingcomolakeexperience, #fotomonta"
+  - username: "healthynatasha"
     fullname: >-
-      Justyna 🇵🇱
+      Natalia Pieloch
     bio: >-
-      #bikegirl 🚴🏻‍♀️ #mtbgirl 🤙🏻 #onealriderspl 😎 #healthylifestyle 🥦 My ❤️ @pa3k_dirtybikes
+      𝐅𝐢𝐭𝐧𝐞𝐬𝐬 𝐓𝐫𝐚𝐢𝐧𝐞𝐫 𝐢𝐧 𝐚 𝐝𝐫𝐞𝐬𝐬 💫 Moja Platforma Treningowa @domfitnessu_online 👙 𝐁𝐈𝐊𝐈𝐍𝐈 𝐏𝐑𝐎𝐉𝐄𝐊𝐓 - 𝐰𝐲𝐳𝐰𝐚𝐧𝐢𝐞 dołącz teraz 📩 healthynatasha@gmail.com
     location: "Poland"
-    followers: 8436
-    engagement: 1400
-    commentsToLikes: 0.035408
-    id: ckap584p4als00i78ufngwstf
+    followers: 50821
+    engagement: 71
+    commentsToLikes: 0.109647
+    id: ckaoqtyz8kdv60i78tdf4kstg
     verified: false
-    hashtags: "#spring, #toru, #girlride, #instabike"
+    hashtags: "#trenujewdomu, #cwiczenianabrzuch, #bali, #cwiczeniawdomu"
 ---

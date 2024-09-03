@@ -1,130 +1,130 @@
 ---
-title: Top 10 Vegan Instagram Influencers In Italy In 2023
+title: Top 10 Vegan Instagram Influencers In Italy In 2024
 description: >-
-  Find top vegan Instagram influencers in Italy in 2023. Most popular hashtags: #sea #sun #summer.
+  Find top vegan Instagram influencers in Italy in 2024. Most popular hashtags: #veganfood #vegan #ricettevegane #veganrecipes.
 platform: Instagram
-hits: 401
-text_top: See the most popular Instagram influencers on inBeat.
-text_bottom: inBeat holds 401 Instagram influencers like this in Italy for you to work with.
+hits: 440
+text_top: Discover the most popular Instagram profiles on inBeat.
+text_bottom: Our database holds 440 Instagram influencers like this in Italy for you to collaborate.
 profiles:
-  - username: "giudychan"
+  - username: "denisa.vysnovska"
     fullname: >-
-      Giudy-Chan
+      Denisa "DeDe" Vysnovska
     bio: >-
-      GIUDY-CHAN SWEET COSPLAY ✨🐰🐇❤ Italian Cosplayer 🇮🇹 Artist 🎨 Vegan 💚 Illustrator ✏️
+      Smiech LIEČI ❤️ •Slovakia •Forbes 🇸🇰 TOP influenceri 2022 & 2023 •zábava/móda/cestovanie/vegan/eko TikTok: denisa.vysnovska Youtube: Denisa Vyšňovská
     location: "Italy"
-    followers: 34297
-    engagement: 212
-    commentsToLikes: 0.057950
-    id: ckaozlsdxmfhj0i784daz7tkk
-    verified: false
-    hashtags: "#ahricosplay, #fantasy, #cyberpunk, #modelpose"
-  - username: "max_veganfit"
-    fullname: >-
-      Massimo Brunaccioni
-    bio: >-
-      ★ WNBF Pro Men’s Physique 🥇Men’s Physique World Champion ‘19 🌱 Vegan ☆ Fitness & nutrition coach ☆ Natural bodybuilding coach 📚Author VEGAN COACH
-    location: "Italy"
-    followers: 50394
-    engagement: 501
-    commentsToLikes: 0.028855
-    id: ck55nqzsp6srp0i11usfdcaq8
+    followers: 170312
+    engagement: 602
+    commentsToLikes: 0.013328
+    id: ck0vx5nj5x9ez0i190yzhewqk
     verified: true
-    hashtags: "#severomagiusto"
-  - username: "elisa.donatini"
+    hashtags: "#zilina, #bratislava, #memeczsk, #instasvk"
+  - username: "ginni_fit"
     fullname: >-
-      Elisa Donatini 💎🧛🏻‍♀️🧚🏻‍♀️
+      Melissa • Cucina sana & Fitness
     bio: >-
-      Sometimes to stay alive you got to kill your mind. Family first❤️ #journalist #tvpresenter @sportitalia_official 🏎⚽️ #vegan 🌱 #womanpower #Depecher
+      🧁 Le ricette sane ma golose che stavi cercando 🌱 Anche vegan•senza glutine•low fodmap 👶🏻 La fit-mom della palestra accanto 👩‍💻 Content creator
     location: "Italy"
-    followers: 25892
-    engagement: 1032
-    commentsToLikes: 0.029287
-    id: ckaowb5j8858e0i78hir7j2k9
+    followers: 45890
+    engagement: 485
+    commentsToLikes: 0.083654
+    id: ckaorbe7pmjik0i78uqzdyuu0
     verified: false
-    hashtags: "#colors, #mare, #picoftheday, #estate"
-  - username: "marta__milani"
-    fullname: >-
-      Marta | a green life 🌿
-    bio: >-
-      [she/her] studentessa di medicina che ama le piante e le cose semplici 💫 | vegan yoga e ricette vegane 🌱
-    location: "Italy"
-    followers: 41058
-    engagement: 238
-    commentsToLikes: 0.043776
-    id: ck0u9oucsaf5q0i19o25nc1cc
-    verified: false
-    hashtags: "#formaggiovegano, #ad, #dolcivegani, #dolci"
+    hashtags: "#videoricetta, #ricetteproteiche, #ricettevegane, #fitnessmotivation"
   - username: "e_veganfit"
     fullname: >-
       
     bio: >-
-      ⭐️WNBF PRO Bikini 🥇Bikini World Champion 2018 🌱🌏Vegan 💯Natural Athlete
+      ⭐️WNBF PROBikini 🥇Bikini World Champion 🌱🌏Vegan 💯Natural Athlete Il nostro programma di allenamento: V-AthletePROGRAM 🔻@v_athlete_official
     location: "Italy"
-    followers: 10172
-    engagement: 654
-    commentsToLikes: 0.048772
+    followers: 15840
+    engagement: 481
+    commentsToLikes: 0.041254
     id: ck55nqzd66sog0i11eyq9nnuj
     verified: false
-    hashtags: "#worldveganday"
-  - username: "mercivanity"
+    hashtags: ""
+  - username: "benve.nuti"
     fullname: >-
-      Mercede
+      Lorenzo Nuti
     bio: >-
-      🚀Santiago’s mom 🌱Vegan 📍Una sarda in giro per il mondo 🍭Storie di una mamma felice 🍀Innamorata della vita e di te @lesacrelinee
+      Milanese, vegano e aspirante ingegnere @polimi lorenzo@gammarey.it
     location: "Italy"
-    followers: 16639
-    engagement: 193
-    commentsToLikes: 0.051030
-    id: ck5zq8uaau5m30i14rppufbhc
+    followers: 28040
+    engagement: 1686
+    commentsToLikes: 0.011810
+    id: ck9wfyr3qr43d0j78i5r2sibl
     verified: false
-    hashtags: "#santiago, #mumandson, #loveyou, #escifuoricrescidentro"
-  - username: "ania.alexandrovna"
+    hashtags: "#pride, #mfw"
+  - username: "world.of.lina"
     fullname: >-
-      Ania Alexandrovna
+      Alina Schweiger
     bio: >-
-      🌁 Based in Milan 👩 Book a shooting ➡ email 📮 ania.alexandrovna95@gmail.com 🌱 Vegan 👇 Subscribe for uncensored pictures
+      Professional Travel Blogger & Vegan Food Lover 🔜🇬🇷🇦🇱 📖 seen in @originmagazine & @voyagelamag Blog ⬇️
     location: "Italy"
-    followers: 17802
-    engagement: 467
-    commentsToLikes: 0.031836
-    id: ck0tzxzjerxlg0i19gvh8ee8h
+    followers: 7029
+    engagement: 583
+    commentsToLikes: 0.197259
+    id: ck0w2w701qguk0i196l77s0wx
     verified: false
-    hashtags: "#braviragazziruit"
-  - username: "qam00000"
+    hashtags: "#italyiloveyou, #travelinbetween, #veniceitaly, #visitgreece"
+  - username: "max_veganfit"
     fullname: >-
-      cam cinco ceros
+      Massimo Brunaccioni
     bio: >-
-      ✨ 1995 • buenos aires 𝗡𝗨𝗗𝗘&𝗮𝗿𝘁𝗶𝘀𝘁𝗶𝗰 freelance model 💍 @canallaggtattoo's BRAT ♡ . vegan transition 🌱 . 🔥 valar morghulis . NO utilizo redes XXX 🚫
+      🥇Campione 🌎 natural bodybuilding WNBF PRO 🌱Vegan da 12 anni 💪🏼Fitness & nutrition coach @myproteinit Su @v_athlete_official parlo di allenamento
     location: "Italy"
-    followers: 11764
-    engagement: 663
-    commentsToLikes: 0.014980
-    id: ck5pwmcapnieg0i11imnpxx73
-    verified: false
-    hashtags: "#blackandwhite, #javieralejandroromig, #javierromig, #portraits"
-  - username: "lindymei"
+    followers: 74313
+    engagement: 347
+    commentsToLikes: 0.019097
+    id: ck55nqzsp6srp0i11usfdcaq8
+    verified: true
+    hashtags: "#bodybuilding, #veganbodybuilding, #veganprotein, #fulldayofeating"
+  - username: "dott.martamilani"
     fullname: >-
-      Lift with Lindy
+      Medica 👩🏻‍⚕️
     bio: >-
-      🇹🇼 Taiwanese/Italian 📍San Francisco 💪Model turned Personal trainer-Functional strength coach 📷 Come for fitness, stay for memes 🥬Vegan
+      medica vegana, può capitare che parli di percorso universitario e salute mentale
     location: "Italy"
-    followers: 83636
-    engagement: 397
-    commentsToLikes: 0.013130
-    id: ck6tyb3a62oza0j71oj7njqgi
+    followers: 37669
+    engagement: 309
+    commentsToLikes: 0.037409
+    id: ck0u9oucsaf5q0i19o25nc1cc
     verified: false
-    hashtags: "#marlowepartner, #marloweskin"
-  - username: "chiara_collizzolli_veg"
+    hashtags: "#greensquad, #stinggreenchallenge, #stinggreenboxchallenge, #vegan"
+  - username: "barbarellagreenchef"
     fullname: >-
-      Chiara Collizzolli
+      Barbarella (creator & CEO)
     bio: >-
-      @bws.gallery New York City I love to share my painting&drawing techniques in my stories 😊 (I'm italian and vegan for animals)
+      👩‍🍳 Vegan Chef (Matthew Kenney 2011) 👩‍💼CEO & restaurant owner 🌱Barbarella PLANT & 🌱Barbarella JUICEBAR 📚3 Cookbooks content @hoferslo @hoferat
     location: "Italy"
-    followers: 70906
-    engagement: 1315
-    commentsToLikes: 0.093646
-    id: ck6tv4nnrk5sx0j714arz29dk
+    followers: 9524
+    engagement: 399
+    commentsToLikes: 0.030404
+    id: ck6u6oaqqgrmf0j716it426nl
     verified: false
-    hashtags: "#pencildrawing, #realisticdrawing, #pencilportrait, #hyperrealism"
+    hashtags: "#plantbased, #veganlife, #barbarellagchef, #veganfoodshare"
+  - username: "laricettaveg"
+    fullname: >-
+      Marica 🌿 Cucina sana e vegana
+    bio: >-
+      🥦 Ti aiuto a mangiare vegan facile 🌎 Parlo anche di sostenibilità 💅 Ogni corpo vale ♻️ Co-founder @arthole.it 🎧 Host @mentremorivo_podcast
+    location: "Italy"
+    followers: 68456
+    engagement: 379
+    commentsToLikes: 0.053269
+    id: clqshe8qz053u0k08adr50ssr
+    verified: false
+    hashtags: "#cucinandoarte, #dolcitentazioni, #veganfood, #cucinaveganacolori"
+  - username: "the_messy_cheffy"
+    fullname: >-
+      Ali Daly NZ Food-photographer
+    bio: >-
+      •Irish chef 👩‍🍳 • Vegan, vegetarian & plant based recipes •Food photographer / Video creator 📍Tauranga New Zealand Email: messycheffy89@gmail.com
+    location: "Italy"
+    followers: 8853
+    engagement: 242
+    commentsToLikes: 0.126871
+    id: ckaornksno0tv0i78xj0uhgyz
+    verified: false
+    hashtags: "#newzealandfood, #nzfoodies, #saladinspo, #nzfoodie"
 ---

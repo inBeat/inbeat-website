@@ -1,11 +1,11 @@
 ---
-title: Top 10 Environmental TikTok Influencers In 2023
+title: Top 10 Environmental TikTok Influencers In 2024
 description: >-
-  Find top environmental TikTok influencers in 2023. Most popular hashtags: #climatechange #environmentalist #stitch #ecotok.
+  Find top environmental TikTok influencers in 2024. Most popular hashtags: #climatechange #environmentalist #stitch #ecofriendly.
 platform: TikTok
-hits: 33
-text_top: Analyze the best TikTok accounts on inBeat.
-text_bottom: inBeat aggregates 33 TikTok influencers like this for you to pitch.
+hits: 38
+text_top: See the best TikTok profiles on inBeat.
+text_bottom: Our database has 38 TikTok influencers like this for you to pitch.
 profiles:
   - username: "kweenwerk"
     fullname: >-
@@ -43,6 +43,18 @@ profiles:
     id: ck8ou4l9fo4af0j78fxlrppgb
     verified: false
     hashtags: "#edutok, #climatechange, #education, #radiation"
+  - username: "imperfecttreehugger"
+    fullname: >-
+      Maja
+    bio: >-
+      Imperfect Let’s all save this floating rock together 🏳️‍🌈🍃 23/she/her
+    location: "Canada"
+    followers: 23000
+    engagement: 1393
+    commentsToLikes: 0.089329
+    id: ckb9rzaoloz890j23yaw81cy8
+    verified: false
+    hashtags: "#earthmonth, #fyp, #environmentalist, #veganrecipes"
   - username: "sabrina.sustainable.life"
     fullname: >-
       Sabrina
@@ -102,7 +114,7 @@ profiles:
     commentsToLikes: 0.251774
     id: ck9rmkrdk3b8d0j78sv3l9ht6
     verified: false
-    hashtags: "#america, #christian, #scripture, #bible"
+    hashtags: "#america, #justice, #christian, #scripture"
   - username: "antheiamae"
     fullname: >-
       mae mae
@@ -114,17 +126,5 @@ profiles:
     commentsToLikes: 0.137265
     id: ckdi698kc7kx40j23kfpcva2q
     verified: false
-    hashtags: "#stitch, #vegan, #plantbased, #leftist"
-  - username: "littlegreenpanda_"
-    fullname: >-
-      Little Green Panda 🌱🥤
-    bio: >-
-      Yay! Welcome to EcoTok ♻️ We make Straws Designed To Disappear IG 👉+ eco tips
-    location: "Australia"
-    followers: 7911
-    engagement: 1608
-    commentsToLikes: 0.079168
-    id: ckdhxmh114kva0j23germn7sr
-    verified: false
-    hashtags: "#ecopackaging, #plantsoverplastic, #paperstrawsaregross, #melbournecafe"
+    hashtags: "#stitch, #plantbased, #leftist, #vegan"
 ---

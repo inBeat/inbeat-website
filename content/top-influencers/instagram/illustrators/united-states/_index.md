@@ -1,11 +1,11 @@
 ---
-title: Top 10 Illustrators Instagram Influencers In United States In 2023
+title: Top 10 Illustrators Instagram Influencers In United States In 2024
 description: >-
-  Find top illustrators Instagram influencers in United States in 2023. Most popular hashtags: #illustration #drawing #digitalart.
+  Find top illustrators Instagram influencers in United States in 2024. Most popular hashtags: #illustration #characterdesign #conceptart.
 platform: Instagram
-hits: 1847
-text_top: Identify the most popular Instagram influencers on inBeat.
-text_bottom: Our search engine has 1847 Instagram influencers like this in United States for you to work with.
+hits: 1872
+text_top: Discover the top-rated Instagram accounts on inBeat.
+text_bottom: Our search engine has 1872 Instagram influencers like this in United States for you to connect with.
 profiles:
   - username: "kodone"
     fullname: >-
@@ -31,100 +31,100 @@ profiles:
     id: ck8sxr8eaida50j780mt2lj7f
     verified: false
     hashtags: ""
-  - username: "littlepatterns"
+  - username: "helloqori"
     fullname: >-
-      Maggie Enterrios | Illustrator
+      QORI B. | Creative Genius
     bio: >-
-      Commercial Illustrator | Packaging Artist My coloring books: @colorflowerscape 🤘
+      📍ATL/NYC ⚡️Art Dir., Illustrator + Brand Design 💫 My lifestyle as a creator, hip-hop fan, & lowkey comedian 🍒🦉 Qori@HelloQori.com
     location: "United States"
-    followers: 86870
-    engagement: 149
-    commentsToLikes: 0.027949
-    id: ck0w4uzfm0j7f0i19e79kkwwc
+    followers: 23674
+    engagement: 1673
+    commentsToLikes: 0.033561
+    id: ckzrlo3vp0hy20i23eo09w1nu
     verified: false
-    hashtags: "#packagingdesign, #drawing, #procreate, #graphicdesign"
-  - username: "tobiberta"
+    hashtags: "#omfambassador, #itsyourjourney, #hyundaipartner, #omf23"
+  - username: "mamobot"
     fullname: >-
-      Andrea Tobar ❣️
+      MAMO
     bio: >-
-      Freelance Illustrator • Small Business owner • Lifestyle & travels Take a look at my shop ⬇️
+      ✦ Illustrator & Designer ✦ Shop & Pin Club ↓
     location: "United States"
-    followers: 44034
-    engagement: 463
-    commentsToLikes: 0.059862
-    id: ck6uddbyrkg810j71coz3q7dr
+    followers: 137770
+    engagement: 1654
+    commentsToLikes: 0.012794
+    id: ck8t45a4u5jzm0j78ex6a9f37
     verified: false
-    hashtags: "#colors, #photooftheday, #products, #work"
-  - username: "theindependentsprinkle"
+    hashtags: "#conceptart, #fashionillustration, #characterdesign, #magicalgirl"
+  - username: "gretlusky"
     fullname: >-
-      Samantha | Disney Lifestyle
+      Gretel Lusky
     bio: >-
-      WDW Local & AP💕 Disney Foodie🍩 Illustrator & Designer ✏️ Jaw Correction Journey Completed! 😄 Come along and explore the magic✨ #theindependentsprinkle
+      Illustrator & comic artist 🦋 WAYFINDER now up for pre-order! 🦋 ✨ YouTube || Patreon || Shop ✨↓links below 🌸 Personal acc: @gretel.lusky
     location: "United States"
-    followers: 4408
-    engagement: 1153
-    commentsToLikes: 0.249060
-    id: ck8szs1u0pi4e0j780i8v1gq3
+    followers: 775241
+    engagement: 509
+    commentsToLikes: 0.005401
+    id: ck9hb0yyiewxy0j78li78ny2j
     verified: false
-    hashtags: "#ultimateprincesscelebration, #gifted"
-  - username: "evaaphrodite"
+    hashtags: "#traditionalart, #witch, #witchyvibes, #pastelcolors"
+  - username: "rachelraisin"
     fullname: >-
-      Eva Aphrodite Katerina
+      Rachel Raisin - Sustainability
     bio: >-
-      - Fine Artist, Graphic Designer, Illustrator - PhD Central Saint Martins, University of the Arts - My Art PRINTED on various products @REDBUBBLE
+      🌎 Climate Advocate & Illustrator 🎨 ♻️ Low waste & secondhand 📍Seattle, WA ~ Inquiries: contact@rachraisin.com
     location: "United States"
-    followers: 9918
-    engagement: 753
-    commentsToLikes: 0.100602
-    id: ck14lj4mruy2v0i19vqh2i2w2
+    followers: 14428
+    engagement: 534
+    commentsToLikes: 0.043128
+    id: ckp4auyrewe7t0j23bdzsnuhc
     verified: false
-    hashtags: "#reddresses, #butterflies, #butterfliesofinstagram, #butterflyart"
-  - username: "x718_"
+    hashtags: "#thredupambassador, #weareallbirds, #allbirdsaffiliate"
+  - username: "elainafagandesign"
     fullname: >-
-      Gabriella D.
+      Elaina Fagan Darden
     bio: >-
-      Mystic Artist, Illustrator 🪞 *commissions open* ￼Business ￼inquiries: Gabriellax718@gmail.com Personal account: @_718x
+      Interior Designer. Textile Designer. Illustrator. Lover of floral prints and flowy dresses. Founder of Elaina Fagan Design & @florettastudio
     location: "United States"
-    followers: 35563
-    engagement: 330
-    commentsToLikes: 0.059827
-    id: ck6tnszfvaiif0j71kokb36ez
+    followers: 19323
+    engagement: 816
+    commentsToLikes: 0.013173
+    id: clftks2glueki0j08bjv5iwin
     verified: false
-    hashtags: "#patreon, #art, #animation, #cocoa"
-  - username: "brandochiesa"
+    hashtags: "#pinkdress, #wallpaperwednesday, #pinkfashion, #hibarbie"
+  - username: "mint.tan"
     fullname: >-
-      Brando Chiesa
+      mint-tan
     bio: >-
-      💖pastel gore💖X🔥Animetal🔥 🇮🇹 @tattoodo ambassador Tattoo artist and illustrator based in Florence Italy 📩brandochiesa01@gmail.com📩
+      freelance illustrator For comms/business inquiries: mi.nt@yahoo.com
     location: "United States"
-    followers: 908866
-    engagement: 854
-    commentsToLikes: 0.009147
-    id: ck55pdbauabl20i11jqqhap9a
-    verified: true
-    hashtags: "#darlinginthefranxx, #totoro, #bratz, #sailormoon"
-  - username: "kim_haren"
-    fullname: >-
-      HAREN
-    bio: >-
-      🎈Illustrator/ Vintage Enthusiast/ 「아틈」 강사 🧸Vintage style art inspired by 1920-1940’s 💡「아틈」 수강생 모집중 ✏️[디지털 일러스트, 드로잉, 온라인1:1]
-    location: "United States"
-    followers: 15562
-    engagement: 790
-    commentsToLikes: 0.010669
-    id: ck0w2bgvpnis40i195rfpb1lx
+    followers: 177956
+    engagement: 1212
+    commentsToLikes: 0.003193
+    id: ck5zprxpmt8fe0i14dajrrr0q
     verified: false
-    hashtags: "#30s, #vintage, #40s, #drawing"
-  - username: "aakanshapushp"
+    hashtags: "#hoyofair, #genshinimpact, #genshin, #xiao"
+  - username: "andrecaceresg"
     fullname: >-
-      Aakansha
+      Andrea Cáceres
     bio: >-
-      Illustrator, Designer, Anchor @scoopwhoopoktested and ready to pay people to talk about my Dog
+      Illustrator|Art Director Meta,Microsoft,BlckAmbition My Dog Just Speaks Spanish - May 9th ✨ For Books|Rebecca Sherman Anything|hello@andreacaceres.com
     location: "United States"
-    followers: 72311
-    engagement: 1852
-    commentsToLikes: 0.014311
-    id: ck6ucj0xcfw1b0j715enqywqr
+    followers: 82539
+    engagement: 1659
+    commentsToLikes: 0.025604
+    id: ck0tzglbiqc9g0i197j9abyxv
     verified: false
-    hashtags: "#mazaak, #desimoms, #firstworldproblems, #indianmom"
+    hashtags: "#ladogs, #illustration, #horoscope, #dogs"
+  - username: "wonderfall"
+    fullname: >-
+      sarah beth morgan
+    bio: >-
+      + freelance director / illustrator ⚡️ + skillshare top teacher + cleveland, OH + repped by @hellohornet
+    location: "United States"
+    followers: 103098
+    engagement: 507
+    commentsToLikes: 0.025643
+    id: ck6tzo304auin0j71l8nd9t9j
+    verified: false
+    hashtags: "#frognog, #protectourplanet, #mydribbblecharacter"
 ---

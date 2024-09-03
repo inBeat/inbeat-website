@@ -1,11 +1,11 @@
 ---
-title: Top 10 Bmx TikTok Influencers In United Kingdom In 2023
+title: Top 10 Bmx TikTok Influencers In United Kingdom In 2024
 description: >-
-  Find top bmx TikTok influencers in United Kingdom in 2023. Most popular hashtags: #bmx #viral #bike #skatepark.
+  Find top bmx TikTok influencers in United Kingdom in 2024. Most popular hashtags: #bmx #viral #skatepark #bike.
 platform: TikTok
 hits: 13
-text_top: See the best TikTok influencers on inBeat.
-text_bottom: Our search engine has 13 TikTok influencers like this in United Kingdom for you to connect with.
+text_top: Discover the top-rated TikTok accounts on inBeat.
+text_bottom: inBeat aggregates 13 TikTok influencers like this in United Kingdom for you to collaborate.
 profiles:
   - username: "n0grpesleft"
     fullname: >-
@@ -54,7 +54,7 @@ profiles:
     commentsToLikes: 0.106812
     id: ckcjhhvwdc9oi0j23ifnjat80
     verified: false
-    hashtags: "#bmx, #loop, #getdownonit, #nowlookatthis"
+    hashtags: "#getdownonit, #loop, #bmx, #elastigirl"
   - username: "mafiamedia"
     fullname: >-
       Mafiabikes

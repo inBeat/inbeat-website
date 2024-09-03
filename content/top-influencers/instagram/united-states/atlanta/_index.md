@@ -1,24 +1,24 @@
 ---
-title: Top 10 Instagram Influencers In Atlanta In 2023
+title: Top 10 Instagram Influencers In Atlanta In 2024
 description: >-
-  Find top Instagram influencers in Atlanta in 2023. Most popular hashtags: #fashion #ad #portraits.
+  Find top Instagram influencers in Atlanta in 2024. Most popular hashtags: #weloveatl #instagood #exploregeorgia.
 platform: Instagram
-hits: 3604
-text_top: Analyze the top-rated Instagram influencers on inBeat.
-text_bottom: Our platform has 3604 Instagram influencers like this in Atlanta, United States for you to work with.
+hits: 4130
+text_top: Discover the most popular Instagram accounts on inBeat.
+text_bottom: Our search engine holds 4130 Instagram influencers like this in Atlanta, United States for you to work with.
 profiles:
   - username: "jensiewright"
     fullname: >-
-      jensie kersten
+      jensie wright
     bio: >-
-      // atlanta
+      atlanta
     location: "United States"
-    followers: 21620
-    engagement: 334
-    commentsToLikes: 0.029972
+    followers: 20087
+    engagement: 256
+    commentsToLikes: 0.029366
     id: ck5hha84h77db0i11enxgh5iw
     verified: false
-    hashtags: "#vacationstyle, #capesanblas, #cabosanlucas, #chanel"
+    hashtags: "#chanel, #chaneltote, #graciegirl, #liketkit"
   - username: "23joyy"
     fullname: >-
       
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.155852
     id: ckap7hhebk3j10i784o521i0j
     verified: false
-    hashtags: "#robloxedits, #customhair, #bloxburg, #art"
+    hashtags: "#dontsteal, #roadto9k, #robloxgfx, #rblxgfx"
   - username: "stanjohnson.co"
     fullname: >-
       Stan Johnson
@@ -55,76 +55,76 @@ profiles:
     id: ckap14l3ut3kb0i788pco2gcq
     verified: false
     hashtags: "#rolltide"
-  - username: "nazjaa"
+  - username: "goanniewhere"
     fullname: >-
-      nazjaa
+      Annie Wanyi Jiang ✈ Travel Creator
     bio: >-
-      stanford university | atlanta nazjaa@genflow.com ☆
+      ✨Your guide to USA Travel & must-visit destinations around the world 🍑 #Atlanta based traveler + creative 💌 hellogoanniewhere@gmail.com
     location: "United States"
-    followers: 144527
-    engagement: 814
-    commentsToLikes: 0.004348
-    id: ckqv6pusu23n70j23tb0nwsq2
+    followers: 477325
+    engagement: 561
+    commentsToLikes: 0.049090
+    id: ck0vv6mcpnrvk0i19li0avmw3
     verified: false
-    hashtags: "#fashion, #ad, #builtfordproud, #wedo"
-  - username: "onroadwithsivasharan"
+    hashtags: "#ustravel, #catchflightsnotfeelings, #travelawesome, #wanderlust"
+  - username: "gourmetangiie"
     fullname: >-
-      Siva(Her) & Sharan(Him)
+      Gourmetangiie | Atlanta foodie
     bio: >-
-      🌤 Family of 4 having fun in reels 👨‍👩‍👦 + 🐶 🌤 Relatable couple content | Travel | Fam entertainment 📍Atlanta
+      Atl Food Influencer 🍴 Private Chef 👩‍🍳 🍽 Professional Taster Restaurant booking Collabs, Private Chef Inquires ➡️ 📧 #atlfoodie #atlantachef 🇯🇲🇬🇾
     location: "United States"
-    followers: 54459
-    engagement: 2617
-    commentsToLikes: 0.022313
-    id: cl6nb9wjnkzn70i2340x1makg
+    followers: 41015
+    engagement: 431
+    commentsToLikes: 0.046511
+    id: ck5px2vkjptw90i110zd5bgz0
     verified: false
-    hashtags: "#marriagehumor, #couplegoal, #howweroll, #funnyvideo"
-  - username: "weluvche"
+    hashtags: "#downtownatlanta, #atlantafoodies, #atlbrunch, #atlanta"
+  - username: "paytonmckena"
     fullname: >-
-      Untouchable ✨
+      Payton Strickland
     bio: >-
-      Book me to host your event/party 🤯🔋 🎙(email sticker below) 🎙 Princess of Atlanta ✨ One of the last REAL talents on here💅🏾
+      🎥 Lifestyle | Motherhood 💌 paystrickland@gmail.com 📍Atlanta, GA
     location: "United States"
-    followers: 506603
-    engagement: 372
-    commentsToLikes: 0.014895
-    id: ckapbfo45zr6u0i781wc37d3l
+    followers: 15518
+    engagement: 664
+    commentsToLikes: 0.009935
+    id: ckv3bq5deyasp0j23fy4jpcww
     verified: false
-    hashtags: "#hisfault, #maninhob, #hipthing, #clappin"
-  - username: "treybryantstyle"
+    hashtags: "#sponsored, #clifkidcrew, #flavorsoffall, #cherylscookies"
+  - username: "iamchelsiejanea"
     fullname: >-
-      TREY BRYANT | Men’s Style
+      C H E L S I E 🤎
     bio: >-
-      📍Atlanta,GA 👔Mens Style Tips | Outfits | Lifestyle 📧Email-Treybryant027@gmail.com 🎥 1.2M on @tiktok | 27K on @youtube
+      Atlanta Based Iamchelsiejanea@gmail.com
     location: "United States"
-    followers: 212246
-    engagement: 206
-    commentsToLikes: 0.023209
-    id: cl7irro44u7k50i23jkj6w405
+    followers: 47636
+    engagement: 1211
+    commentsToLikes: 0.027927
+    id: ckpnwg6274hkq0j23qoejvqlg
     verified: false
-    hashtags: "#fashionreels, #lifestyleoftb, #mensfashion, #ad"
-  - username: "winnnterrr"
+    hashtags: "#milkmakeuppartner, #liveyourlook, #futurefluid, #supergooppartner"
+  - username: "mrsshelbycarr"
     fullname: >-
-      Winter Williams
+      Shelby Carr
     bio: >-
-      atlanta // fashion i love clothes welcome to my life
+      📍 Atlanta/Athens,GA 💍 @offroadcarr88 |Mama👧🏼👶🏼|There’s like a lot of animals here. 📧socialmedia@mrsshelbycarr.com Owner of B&D Marketing LLC
     location: "United States"
-    followers: 67139
-    engagement: 91
-    commentsToLikes: 0.011441
-    id: ck9weaq7ujfsj0j78r4a2n5mz
+    followers: 77806
+    engagement: 418
+    commentsToLikes: 0.024153
+    id: ck5c10r8mu8390i11y6ejanbj
     verified: false
-    hashtags: "#fashion, #prettylittlething, #style, #streetstyle"
-  - username: "timcaver"
+    hashtags: "#giftsformom, #chocolatelover, #springtime, #mothersday"
+  - username: "darbyfallonclark"
     fullname: >-
-      Tim Caver
+      Darby Clark
     bio: >-
-      🏰 Atlanta, Georgia 👨🏾‍💻 Content Creator 💍 @vicktracy 🐕 @foxcubluna ⬇️ Download my IG Presets!! ⬇️
+      Atlanta-based Tastemaker 💌: darbyfallonclark@gmail.com
     location: "United States"
-    followers: 39367
-    engagement: 909
-    commentsToLikes: 0.074474
-    id: ck0udph1kjknz0i19ua0t5i13
+    followers: 62648
+    engagement: 436
+    commentsToLikes: 0.047351
+    id: ckx4eejzz07lr0j230ado0ffs
     verified: false
-    hashtags: "#portraitpage, #portraitmood, #xelfies, #atlantaphotographer"
+    hashtags: "#heidicareydesign, #thestregisatlanta, #stregis, #ltkholiday"
 ---

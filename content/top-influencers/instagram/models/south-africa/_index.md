@@ -1,130 +1,130 @@
 ---
-title: Top 10 Models Instagram Influencers In South Africa In 2023
+title: Top 10 Models Instagram Influencers In South Africa In 2024
 description: >-
-  Find top models Instagram influencers in South Africa in 2023. Most popular hashtags: #capetown #model #southafrica #fashion.
+  Find top models Instagram influencers in South Africa in 2024. Most popular hashtags: #ad #grwm #mensfashion.
 platform: Instagram
-hits: 139
-text_top: Analyze the most popular Instagram profiles on inBeat.
-text_bottom: Our platform holds 139 Instagram influencers like this in South Africa for you to work with.
+hits: 142
+text_top: Discover the best Instagram accounts on inBeat.
+text_bottom: Our search engine holds 142 Instagram influencers like this in South Africa for you to collaborate.
 profiles:
-  - username: "ciara_tay_kruger"
+  - username: "nikitajoshua"
     fullname: >-
-      Ciara Taylor Kruger💋
+      NIKITA JOSHUA
     bio: >-
-      •Cape Town, South Africa •Bcom student • Twenty • Aries •Model @covermodelscpt ——————————————
+      Momma | digital content creator | model | pro makeup artist beauty | fashion | lifestyle owner @prettybishbeauty co-founder @shopcalnik Cape Town
     location: "South Africa"
-    followers: 5624
-    engagement: 1387
-    commentsToLikes: 0.111456
-    id: ckapbizlf021z0i78vsf48vsh
+    followers: 34639
+    engagement: 610
+    commentsToLikes: 0.025989
+    id: ck5q1k1wmbddf0i113a465475
     verified: false
-    hashtags: "#modeling, #tanning, #swimsuit, #vacation"
-  - username: "magaramirezz"
+    hashtags: "#gifted, #parentstobe, #colorstay, #vanityline"
+  - username: "lukegoliath"
     fullname: >-
-      Maria Gabriela Ramirez ⚓️
+      @Lukegoliath
     bio: >-
-      Venezuelan model 🇻🇪 Currently in 🌍 📍🇿🇦 Cape Town, South Africa.
+      💿 Multi-platinum/diamond Dj/Producer. 🏆 SAMA Winner. 🚫 I Ain’t no Role Model.
     location: "South Africa"
-    followers: 6782
-    engagement: 1415
-    commentsToLikes: 0.065761
-    id: ckap0qc7qrepz0i78yrvmaxt0
+    followers: 21449
+    engagement: 629
+    commentsToLikes: 0.463259
+    id: ckf5rj6vlcv0p0j236h85nyyv
     verified: false
-    hashtags: "#losangeles, #beach, #milan, #shooting"
-  - username: "yassahlake14"
+    hashtags: "#guitar, #music, #musician, #bhfyp"
+  - username: "kgothiiman"
     fullname: >-
-      Yassah Lake Pierce
+      Kgothatso Dithebe
     bio: >-
-      25💕 @anthemsales Fitness model💪🏾 West African🇱🇷 Hubby @bradpierce32 💍
+      Supermodel signed with Ice Model JHB/CPT #modelwithamark . Beauty || Home content || Lifestyle Law👩🏽‍🎓. Mom to @kagi_iman 💙. KD Foundation.
     location: "South Africa"
-    followers: 19476
-    engagement: 675
-    commentsToLikes: 0.118077
-    id: ck6u32vmfvdu90j71ixp591ck
+    followers: 82672
+    engagement: 538
+    commentsToLikes: 0.013278
+    id: ck14hvzjacemg0i19n7itts8h
     verified: false
-    hashtags: "#selflove, #confidence, #atlanta, #fitfam"
-  - username: "footmistressza"
+    hashtags: "#modelwithamark, #embraceyourfuture, #misssa2021, #babyk"
+  - username: "nicolasvangraan"
     fullname: >-
-      Foot Mistress
+      NICOLAS VAN GRAAN 🦋
     bio: >-
-      South African foot model 👣 🇿🇦 UK 4.5/ US 6.5 A woman with pretty feet who ❤️’s spoils Backup: @footsiemistress
+      Dubai currently📍from Cape Town 📷: @nic_snipes •🇿🇦 @20modelmanagement •🇦🇪 @bareface_model_agency •🇺🇸 @twomanagement LA @marilynagencynyscouting NY
     location: "South Africa"
-    followers: 35182
-    engagement: 1614
-    commentsToLikes: 0.028277
-    id: ck8td7vy929co0j78g0rxef98
-    verified: false
-    hashtags: "#staysafe, #pinknails, #mondaymood, #bluenails"
-  - username: "kevinlutolf"
-    fullname: >-
-      Kevin Lütolf
-    bio: >-
-      🌍 🇨🇭Zurich 🎬 Model, Entrepreneur, ContentCreator 🖤 Brand Ambassador @breitling, @mini_switzerland & @nespresso.ch 🎥 Co-Founder @kompleazy
-    location: "South Africa"
-    followers: 909219
-    engagement: 505
-    commentsToLikes: 0.018946
-    id: ck5bzxktzs13r0i11vh8beq2d
-    verified: false
-    hashtags: "#surfing, #italien, #summer, #nature"
-  - username: "olivermatthieu"
-    fullname: >-
-      Oliver Matthieu
-    bio: >-
-      Child Model & Actor 112cm / 18.5kg Chinese-Indonesian🇮🇩 & South African🇿🇦 Cape Town, South Africa🇿🇦 Account managed by dad DM for collaboration
-    location: "South Africa"
-    followers: 5393
-    engagement: 1299
-    commentsToLikes: 0.091890
-    id: ck15pkwu6ye0b0i19o3n9yx4s
-    verified: false
-    hashtags: "#childmodel, #friendship, #boy, #schoolboy"
-  - username: "carissaswart"
-    fullname: >-
-      Carissa💋
-    bio: >-
-      Model based in Capetown📍📍 Mother agency : @syncmodels_
-    location: "South Africa"
-    followers: 5173
-    engagement: 1413
-    commentsToLikes: 0.073638
-    id: ckf5o137d0ih40j23h5hkt3vo
-    verified: false
-    hashtags: "#follow, #photooftheday, #portrait, #music"
-  - username: "frema.mensah"
-    fullname: >-
-      🇬🇭Frema Mensah🇬🇭
-    bio: >-
-      Model | Fashion | Beauty | lifestyle 📧 fremamensah95@gmail.com @topcomodels cpt 🇿🇦 @fabulousdotcom_models Jhb 🇿🇦 Cape Town 📍
-    location: "South Africa"
-    followers: 7981
+    followers: 16309
     engagement: 721
-    commentsToLikes: 0.085715
-    id: ck55mwkjc4zg40i11b4gc4y7d
+    commentsToLikes: 0.028670
+    id: ck6u2e7fxrazh0j71sd6y71mt
     verified: false
-    hashtags: "#bluesky, #blackgirl, #melaninqueen, #afrohairstyles"
-  - username: "katrynkruger"
+    hashtags: "#niveamenrapidpimpleclear, #itstheclearskinforme, #niveamen, #rebelking"
+  - username: "azeegreen"
     fullname: >-
-      Katryn Kruger
+      Az’emahle🦋
     bio: >-
-      Model @imgmodels 🌸 KOFFIE MET KATRYN 🌸 + motiveringspreker, hondemamma, koffie drinker, boekwurm, kyk herhaaldelik Friends 📍Kaapstad Links:
+      Model 1/2 @talentlesstakes podcast Fashion, Beauty and Health& Wellness. Living Intentionally L&A🤍
     location: "South Africa"
-    followers: 16934
-    engagement: 370
-    commentsToLikes: 0.141230
-    id: ckaor8w80m86z0i78j1fsawhm
+    followers: 52053
+    engagement: 408
+    commentsToLikes: 0.023660
+    id: ck6to4jrmc2710j71o2vejsbb
     verified: false
-    hashtags: "#vrouebemagtiging, #vakansie, #mode, #kmk"
-  - username: "young_stilo_"
+    hashtags: "#sponsored, #niveasouthafrica, #oilyskin, #mycottonon"
+  - username: "tamaramoeng"
     fullname: >-
-      BLOODY YS
+      .✮ ☆°。*✧･ tamara pusetso moeng
     bio: >-
-      Creative director | Model FOR BOOKINGS: INKEDPHOTOGRAPHY51@GMAIL.COM
+      model • stylist ‎ info@tamaramoeng.com 📍𝘴𝘰𝘶𝘵𝘩 𝘢𝘧𝘳𝘪𝘤𝘢
     location: "South Africa"
-    followers: 122636
-    engagement: 1039
-    commentsToLikes: 0.011869
-    id: ck14k22zunca50i190v391cby
+    followers: 32889
+    engagement: 636
+    commentsToLikes: 0.006666
+    id: ck0w5b9oj2t4i0i195ntl6yg4
     verified: false
-    hashtags: "#insidelife, #majorleaguexmoziak"
+    hashtags: "#galaxybuds, #galaxywatch5, #samsungqled, #samsungwasheranddryer"
+  - username: "tracymokgopo"
+    fullname: >-
+      ☆
+    bio: >-
+      a south african non-binary model + set designer. photographer. occasionally human.
+    location: "South Africa"
+    followers: 13166
+    engagement: 1640
+    commentsToLikes: 0.039926
+    id: ck5c5gopf3fzp0i11syxw5cdh
+    verified: false
+    hashtags: "#gqbestdressed, #lampostpeople, #uniquelytalentedandbeautiful, #lpfam"
+  - username: "deborah__darling"
+    fullname: >-
+      Deborah Chambers
+    bio: >-
+      L￼ate-blossoming silver model and show-off. Embracing my age and all that goes with it. I’m 61. Tag your do #deborahdoo
+    location: "South Africa"
+    followers: 113018
+    engagement: 266
+    commentsToLikes: 0.068654
+    id: ck6u4nfny4q2i0j71lc5gp4dt
+    verified: false
+    hashtags: "#silverhair, #over60andfabulous, #deborahdarling, #nevertooold"
+  - username: "audrey_lunda"
+    fullname: >-
+      Audrey Lunda
+    bio: >-
+      Inspiring Guys To Dress Better Model | Aspiring actor | Men’s Lifestyle | Photographer @NovaMen Ambassador 📩 : audreylunda1@gmail.com 📍 :CPT&JHB
+    location: "South Africa"
+    followers: 478243
+    engagement: 252
+    commentsToLikes: 0.013697
+    id: ck5caa309d0du0i11f2eppcjt
+    verified: false
+    hashtags: "#streetwear, #mensfashion, #casualstyle, #styleiswhat"
+  - username: "themodelanextdoor"
+    fullname: >-
+      Lehlohonolo Kwape
+    bio: >-
+      • @bossmodelsjhb • Model • Influencer • Content Strategist
+    location: "South Africa"
+    followers: 15887
+    engagement: 245
+    commentsToLikes: 0.037679
+    id: ckap2mplxzigg0i786vcv9xff
+    verified: false
+    hashtags: "#influencerdigital, #ootd, #influencerlife, #grwm"
 ---

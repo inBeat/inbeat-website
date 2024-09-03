@@ -1,24 +1,48 @@
 ---
-title: Top 10 Food Instagram Influencers In Bogotá In 2023
+title: Top 10 Food Instagram Influencers In Bogotá In 2024
 description: >-
-  Find top food Instagram influencers in Bogotá in 2023. Most popular hashtags: #colombia #food #bogota #love.
+  Find top food Instagram influencers in Bogotá in 2024. Most popular hashtags: #bogota #food #colombia #comida.
 platform: Instagram
 hits: 16
-text_top: Discover the top-rated Instagram influencers on inBeat.
-text_bottom: inBeat holds 16 Instagram influencers like this in Bogotá, Colombia for you to work with.
+text_top: Analyze the top-rated Instagram accounts on inBeat.
+text_bottom: inBeat has 16 Instagram influencers like this in Bogotá, Colombia for you to connect with.
 profiles:
+  - username: "iroramirezs"
+    fullname: >-
+      Iro Ramirez
+    bio: >-
+      🇨🇴 VideoBlogger Colombiano 🎬 Comelón y Contador de historias 🍔 Solo publico lo que me gusta 😎 📧 WhatsApp (+57) 322-9503651
+    location: "Colombia"
+    followers: 304410
+    engagement: 257
+    commentsToLikes: 0.019894
+    id: ck55pkldyarck0i114soiugjc
+    verified: false
+    hashtags: "#colombia, #comidacolombiana, #riohacha, #comidacallejera"
+  - username: "marrana.eats"
+    fullname: >-
+      Mariana Arango A
+    bio: >-
+      🌍 𝙫𝙞𝙖𝙟𝙖𝙢𝙤𝙨 𝙥𝙖𝙧𝙖 𝙘𝙤𝙢𝙚𝙧, 𝙘𝙤𝙢𝙚𝙢𝙤𝙨 𝙥𝙖𝙧𝙖 𝙫𝙞𝙖𝙟𝙖𝙧 👩🏼‍🍳chef ✈️ agencia de viajes 🍽 reviews y recetas 📲info
+    location: "Colombia"
+    followers: 62801
+    engagement: 134
+    commentsToLikes: 0.033615
+    id: ck5ch6qvwq7de0i11f0c2mnfo
+    verified: false
+    hashtags: "#viajes, #lima, #restaurantes, #travel"
   - username: "somoslosinsaciables"
     fullname: >-
-      LOS INSACIABLES
+      LOS INSACIABLES | FOODIES
     bio: >-
-      🚶🏼🚶🏾 2 tipos que comemos con $45.000 COP (15 dólares) 🍔 Te ayudamos a comer rico gastando lo justo🍕🍖🍗 Mostramos restaurantes bacanos
+      🌭 Buscamos los platos más auténticos y originales porque #TodosSomosInsaciables 🍔 🟢No vendemos reseñas a restaurantes🟢 🔺Guía de restaurantes ⬇️
     location: "Colombia"
-    followers: 142485
-    engagement: 208
-    commentsToLikes: 0.079736
+    followers: 378620
+    engagement: 60
+    commentsToLikes: 0.033321
     id: ck6ubkjmda4fm0j7160zj7vqq
     verified: false
-    hashtags: "#losinsaciables, #food, #bogota, #foodiescolombia"
+    hashtags: "#food, #losinsaciables, #compensar, #publicidad"
   - username: "aliriohernandez7"
     fullname: >-
       Alirio Enrique Hernandez
@@ -31,6 +55,42 @@ profiles:
     id: ck5ch46ikq2xl0i11cqp52glz
     verified: false
     hashtags: "#picoftheday, #venezuela, #friends, #workout"
+  - username: "caromejiaaraujo"
+    fullname: >-
+      Caro Mejía Araújo
+    bio: >-
+      @reebokcolombia ambassador healthy lifestyle | outfits | baile Co founder @calu_resortwear @blendsmoothies.co 📍Bogotá
+    location: "Colombia"
+    followers: 75563
+    engagement: 381
+    commentsToLikes: 0.060049
+    id: ck5hj6hllg3cw0i118da5szy1
+    verified: false
+    hashtags: "#outfits, #fashion, #videosdebaile, #cartagena"
+  - username: "alebananaa"
+    fullname: >-
+      𝑴𝒂𝒓𝒊𝒂 𝑨𝒍𝒆𝒋𝒂𝒏𝒅𝒓𝒂 𝑴𝒂𝒄𝒊𝒂𝒔 𝑴𝒐𝒓𝒂
+    bio: >-
+      2.5 M en YouTube 8.2 M en TikTok 📍Bogotá
+    location: "Colombia"
+    followers: 443901
+    engagement: 308
+    commentsToLikes: 0.004637
+    id: cl3cuhiov4y910i23ogh3jhu1
+    verified: false
+    hashtags: "#vegano, #cook, #coachellaonyoutube, #medium"
+  - username: "mikevsfood_oficial"
+    fullname: >-
+      MikeVsFood
+    bio: >-
+      Eating Without Limits Food Challenges Embajador @winnergroupoficial Publicidad al DM💥 #132victories #4defeats Second account @mikejake00 💥
+    location: "Colombia"
+    followers: 48489
+    engagement: 25
+    commentsToLikes: 0.008263
+    id: ck0w4u3pm0ffj0i19xnl72mes
+    verified: false
+    hashtags: "#bogot, #viral, #bogota, #tendencia"
   - username: "annyriveraduque"
     fullname: >-
       Anny Rivera
@@ -55,30 +115,6 @@ profiles:
     id: ck5zufszw2a0r0i14z8wpyi8c
     verified: false
     hashtags: "#home, #workout, #cale, #legs"
-  - username: "marrana.eats"
-    fullname: >-
-      MARRANA EATS Miami
-    bio: >-
-      𝗜 𝘁𝗿𝗮𝘃𝗲𝗹, 𝗜 𝗲𝗮𝘁, 𝗜 𝗯𝗹𝗼𝗴⁣ 🌎🍴 📍 MIAMI⁣⁣ FAT & FIT Chef @gatodumascol Personal acc @marianaarra ORDER YOUR @jarsbymarrana.eats 👇🏼
-    location: "Colombia"
-    followers: 27175
-    engagement: 454
-    commentsToLikes: 0.405245
-    id: ck5ch6qvwq7de0i11f0c2mnfo
-    verified: false
-    hashtags: "#fries, #foodblog, #diy, #hungry"
-  - username: "marialejamirandap"
-    fullname: >-
-      -M A R I A  A L E J A N D R A-
-    bio: >-
-      📍Cali |Co •ℂ𝕣𝕖𝕒𝕟𝕕𝕠 𝕝𝕒 𝕧𝕚𝕕𝕒 𝕢𝕦𝕖 𝕒𝕞𝕠 • •MIP•|Icesi Creadora de 🧁:@factorycakebymale
-    location: "Colombia"
-    followers: 8470
-    engagement: 510
-    commentsToLikes: 0.041288
-    id: ckaouqrjw1esd0i78decx4wuk
-    verified: false
-    hashtags: "#playa, #picoftheday, #ootd, #repostdolookdodia"
   - username: "juandaimond"
     fullname: >-
       JUANDAIMOND
@@ -91,40 +127,4 @@ profiles:
     id: ck6u91mx3uyoz0j71kuvli029
     verified: false
     hashtags: "#lovetodance, #dancefloor, #bailar, #dancer"
-  - username: "soy.hache"
-    fullname: >-
-      Heverth Aponte
-    bio: >-
-      #Actor viajando como #Mochilero He mochileado en 17 países Escribo para @historiasconhache Hago fotos para @lacalleconhache
-    location: "Colombia"
-    followers: 29445
-    engagement: 232
-    commentsToLikes: 0.026484
-    id: ckap8jpsmomb80i789r3f2etq
-    verified: false
-    hashtags: "#viaje, #colombia, #love, #mexico"
-  - username: "leococinero"
-    fullname: >-
-      Leonardo Moran
-    bio: >-
-      Chef y presentador 🍽👨🏻‍🍳🔪🥢 Ganador de Master Chef Colombia 2016 Embajador Adidas🥇@adidasco Contacto: lina.coralrestrepo@gmail.com
-    location: "Colombia"
-    followers: 211033
-    engagement: 71
-    commentsToLikes: 0.036990
-    id: ck136xdv48qa10i19fm2liv12
-    verified: true
-    hashtags: "#bienestar, #chefinstagram, #chefplateform, #alimentacionsaludable"
-  - username: "diegotrujillo"
-    fullname: >-
-      Diego Trujillo
-    bio: >-
-      Actor colombiano.
-    location: "Colombia"
-    followers: 279864
-    engagement: 157
-    commentsToLikes: 0.037752
-    id: ck14jjfwdknwx0i19yzrzsopj
-    verified: true
-    hashtags: "#love, #happy, #picoftheday, #destapandoollas"
 ---

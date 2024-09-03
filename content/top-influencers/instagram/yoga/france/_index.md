@@ -1,130 +1,130 @@
 ---
-title: Top 10 Yoga Instagram Influencers In France In 2023
+title: Top 10 Yoga Instagram Influencers In France In 2024
 description: >-
-  Find top yoga Instagram influencers in France in 2023. Most popular hashtags: #love #yoga #happy.
+  Find top yoga Instagram influencers in France in 2024. Most popular hashtags: #yoga #travel #backbend.
 platform: Instagram
-hits: 356
-text_top: See the most popular Instagram accounts on inBeat.
-text_bottom: inBeat has 356 Instagram influencers like this in France for you to collaborate.
+hits: 385
+text_top: Identify the best Instagram profiles on inBeat.
+text_bottom: Our platform has 385 Instagram influencers like this in France for you to pitch.
 profiles:
-  - username: "kinzingertonya"
+  - username: "anjawk"
     fullname: >-
-      Tonya KINZINGER
+      Anja Winkelmann
     bio: >-
-      🎬 Actrice Franco-Américaine 🧘‍♀️ Diplômée de Yoga 💃 Passionnée de danse 📩tonyakinzinger.pro@yahoo.com
+      𓇢𓆸 yoga teacher creative director @anjawkfilm @waketalents @premium_models upcoming retreats ⭣
     location: "France"
-    followers: 50395
-    engagement: 449
-    commentsToLikes: 0.060180
-    id: ck5c7o0l47vuq0i11l539xjdv
+    followers: 203886
+    engagement: 446
+    commentsToLikes: 0.009537
+    id: ckap8odgwp8ow0i7819eptcsn
+    verified: false
+    hashtags: "#asanapractice, #retraiteyoga, #movementheals, #yogaasana"
+  - username: "loupbouquin"
+    fullname: >-
+      Charlotte Bouteloup
+    bio: >-
+      🤸🏼‍♀️📚 Un bouquin dans une main. Un orteil dans l’autre. 👩🏼‍💻 Consultante Digital 🧘‍♀️ Yoga Vinyasa (200H YTT) @arlesyoga / visio 🖋📚 Chroniques
+    location: "France"
+    followers: 5571
+    engagement: 650
+    commentsToLikes: 0.094271
+    id: ck6u3m771yl3m0j71enjm6yui
+    verified: false
+    hashtags: "#bookstagram, #booklover, #bookporn, #bookaddict"
+  - username: "dontkjoanne"
+    fullname: >-
+      末羊子 dontkjoanne
+    bio: >-
+      想要簡單生活的女生，陪你一起斷捨離🌼 50萬Youtuber ｜克拉💎 迷戀空中運動中： @dontkjoanne_yoga 整理服務：@relife_tw 合作聯繫：dontkjoanne@gmail.com 精選動態有很多你想問的😳 Youtube / 線上課程 / 出書等👇
+    location: "France"
+    followers: 124108
+    engagement: 440
+    commentsToLikes: 0.020543
+    id: ck5q15m2b9ebg0i11m5at520k
+    verified: false
+    hashtags: "#12, #panasonic, #ih, #jurlique"
+  - username: "fredvaudroz"
+    fullname: >-
+      Fred Vaudroz
+    bio: >-
+      Photographe et vidéaste Co-fondateur AF Yoga @afyogastudio Perso @iamfredvaudroz Montreux, Switzerland
+    location: "France"
+    followers: 11856
+    engagement: 695
+    commentsToLikes: 0.066533
+    id: ck0vuvc5mmbzi0i19bppich89
+    verified: false
+    hashtags: "#iloveswitzerland, #natureshooters, #polesport, #yogaeveryday"
+  - username: "alisoncossenet"
+    fullname: >-
+      Alison Cossenet🌱
+    bio: >-
+      Mama , Mannequin & Yoga 📍 Marseille & Paris alison@ouimademoiselle.fr ✨ @weekend_detente
+    location: "France"
+    followers: 32954
+    engagement: 311
+    commentsToLikes: 0.030107
+    id: ck5cex0aflvri0i11kop262aj
+    verified: false
+    hashtags: "#bijouxcreateur, #yogatacher, #bijouxhautefantaisie, #bijouxstyle"
+  - username: "camillecmp"
+    fullname: >-
+      Camille CMP
+    bio: >-
+      Coach Sportive & Yoga Teacher Positive life, Sport, projets Founder @beactiveandpositive @leloftdinan @studiobeactive Marathon NYC x1 / MDS finisher
+    location: "France"
+    followers: 152044
+    engagement: 464
+    commentsToLikes: 0.022202
+    id: ck8t9f2pqnup00j784r0g900x
+    verified: false
+    hashtags: "#espressosenseo, #senseotourdefrance, #senseocaf, #happykid"
+  - username: "tatianayoga"
+    fullname: >-
+      Tatiana AvilaBouru✨YogaTeacher
+    bio: >-
+      ✨Yoga teacher in Paris And online 🦄 Online studio @yogawithalexandtatiana 🧘‍♀️I teach 200h yoga teacher training in Paris as well as yoga retreats
+    location: "France"
+    followers: 76633
+    engagement: 298
+    commentsToLikes: 0.032928
+    id: ck5pwzmcvpdox0i112sp3m0ue
+    verified: false
+    hashtags: "#love, #franceyoga, #outdooryoga, #parisyoga"
+  - username: "evedumon"
+    fullname: >-
+      Eve • Wellness, motivation, lifestyle
+    bio: >-
+      🌱I want to live 120y, in good health 🎙️Podcast #feelgood every monday 🧘‍♀️Vinyasa Yoga teacher 🏃‍♀️Running 👇 Prends enfin un temps pour ton bien-être
+    location: "France"
+    followers: 269596
+    engagement: 250
+    commentsToLikes: -0.750468
+    id: cl9ofgwhxkyl80i23u1gn8t8k
+    verified: false
+    hashtags: "#morningmotivation, #sant, #bienetreauquotidien, #challengepersonnel"
+  - username: "arianebrodier"
+    fullname: >-
+      Ariane Brodier
+    bio: >-
+      | Maman mais aussi : • Comédienne & Auteur • Prof de yoga 🧘‍♀️ | TikTok @Arianebrodierofficiel 💌 Laurette@poulmaire.com
+    location: "France"
+    followers: 1011280
+    engagement: 233
+    commentsToLikes: 0.011744
+    id: ck14geqs84ump0i1931hrgqqg
     verified: true
-    hashtags: "#happy, #loveit, #unsigrandsoleil, #grateful"
-  - username: "happycoachbyaurelie"
+    hashtags: "#humour, #family, #holidays, #arianebrodier"
+  - username: "inesduhard"
     fullname: >-
-      Aurélie EDMOND - Happy Coach
+      Ines Duhard Gaggini 🌞🌻🌓
     bio: >-
-      ⭐️ Coach diplômée: fitness 💪🏼🏋🏽 - yoga 🙏🏼 - pilates 🎽 🎥 Chaîne YT: Happy Coach 📩 Contact@happy-coach.fr 🚨 PROGRAMME 28JPS ⬇️⬇️⬇️
+      ↠ Founder @vibesdigitales & @vibesnomades ☾ Auteure Oracle “No bad days” ❊ Gypsy, yoga, mindset, travel, beach, vanlife, vintage ❥ Cannes / Hossegor
     location: "France"
-    followers: 22464
-    engagement: 634
-    commentsToLikes: 0.046626
-    id: ckf5m1xiiry7n0j23p8s0anrk
+    followers: 104244
+    engagement: 180
+    commentsToLikes: 0.058302
+    id: ck14gu92l722g0i19b5w5ankp
     verified: false
-    hashtags: "#yoga, #salutationausoleil, #bienetre, #sante"
-  - username: "xomerlissa"
-    fullname: >-
-      Merlissa
-    bio: >-
-      🐚 Mermaid | Blogger - 🧜🏻‍♀️ Beauty | Lifestyle | Travel | Vegan | Yoga 💕 Backup account: @merlissastyles 📍NYC | LA | CHI
-    location: "France"
-    followers: 50653
-    engagement: 263
-    commentsToLikes: 0.129709
-    id: ck137t5dfd8rt0i194y9hxxvm
-    verified: false
-    hashtags: "#refreshmentspartner, #colourpop, #naturalskincareproducts, #ecofriendly"
-  - username: "santamila_"
-    fullname: >-
-      SantaMila - Laure B.
-    bio: >-
-      ✨Happy & Salty Vibes✨ Girlboss - Ocean Lover - Yoga Teacher 🌊 My Ocean Retreats @myoceantherapy My book 📖Ocean Therapy 📍Pays Basque
-    location: "France"
-    followers: 18948
-    engagement: 424
-    commentsToLikes: 0.032189
-    id: ck5byntbfpi6u0i11a5ckzaxh
-    verified: false
-    hashtags: "#mumtobe, #happyandsaltyvibes, #myoceantherapy, #oceanlover"
-  - username: "fannyveyrac_huget"
-    fullname: >-
-      Fanny 🖤 Holistic Health
-    bio: >-
-      •Yoga Teacher for life, model for fun🤍 « I dream of making people happy » • Book your private Yoga session @rymastudioparis 📍Ibiza based
-    location: "France"
-    followers: 67413
-    engagement: 185
-    commentsToLikes: 0.028856
-    id: ck55nr88n6tf50i11tkflchxs
-    verified: false
-    hashtags: "#yogapractice, #lifestyle, #swimwear, #viepositive"
-  - username: "calimoralesofficiel"
-    fullname: >-
-      Cali Morales
-    bio: >-
-      ☀️ Journaliste Météo @m6officiel @w9lachaine @6ter 👨‍👩‍👧‍👧 Maman de deux beautés 💕 🧘🏽‍♀️ Yoga Lover - Sport Addict 🏃🏽‍♀️ 💃🏽 Épicurienne
-    location: "France"
-    followers: 16799
-    engagement: 1096
-    commentsToLikes: 0.059959
-    id: ck0u1ha1pwvl70i190lyon6uc
-    verified: false
-    hashtags: "#weather, #soleil, #weekend, #m6"
-  - username: "annedubndidu"
-    fullname: >-
-      Anne&Dubndidu 🍍 #DubndiduCrew
-    bio: >-
-      🌈Founder of @dubndiduatelier 🏃🏼‍♀️Sports & Outdoor Enthusiast🌍 💦Personal trainer & Yoga teacher🧘🏼‍♀️ 📝Content creator 🤜🏼Active Feminist 🍃Veggie Woman
-    location: "France"
-    followers: 115213
-    engagement: 214
-    commentsToLikes: 0.029207
-    id: ck0w09cr5d1ph0i19tpjjgusi
-    verified: true
-    hashtags: "#runstoppable, #igrunneuses, #instarunfrance, #igrunners"
-  - username: "thebrunein"
-    fullname: >-
-      Christelle.
-    bio: >-
-      French Riviera girl, mum of two & yoga teacher. • Less is more • RYT 200h Yoga Teacher RYT 30h Mandala Vinyasa
-    location: "France"
-    followers: 27031
-    engagement: 197
-    commentsToLikes: 0.082840
-    id: ck5hgp3cd3zha0i11svlx0vbd
-    verified: false
-    hashtags: "#lessismore, #home, #molli1886, #homesweethome"
-  - username: "anickdumontet"
-    fullname: >-
-      Anick Dumontet
-    bio: >-
-      Tv host ⭐️ Anime la Roue de Fortune ✨💰 Hockey mom 💛 Beauty junky 🌼 Gym, course, yoga ☀️ Bouffe bio🍋 Toujours de plus en plus verte 🌻
-    location: "France"
-    followers: 35514
-    engagement: 349
-    commentsToLikes: 0.041332
-    id: ck5zxzjbf8yh80i14lfzk8os2
-    verified: false
-    hashtags: "#winterlandscape, #skiing, #comfyoutfit, #winterincanada"
-  - username: "jasmine_poletastix"
-    fullname: >-
-      ⭐Jasmine PoletastiX ⭐
-    bio: >-
-      Owner&Trainer @poletastix_dusseldorf 🇩🇪 Yoga💖Poledance💖Fitness💖 hello@poletastix.com
-    location: "France"
-    followers: 45341
-    engagement: 98
-    commentsToLikes: 0.221305
-    id: ck8t1xuhzxh5l0j78d6eb2t5m
-    verified: false
-    hashtags: "#motivation, #quotes, #tbt, #yoga"
+    hashtags: "#nouvellecaledonie, #christmas, #happy, #blessed"
 ---

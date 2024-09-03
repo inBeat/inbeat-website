@@ -1,11 +1,11 @@
 ---
-title: Top 10 Zumba TikTok Influencers In 2023
+title: Top 10 Zumba TikTok Influencers In 2024
 description: >-
-  Find top zumba TikTok influencers in 2023. Most popular hashtags: #fyp #duet #foryou #dancechallenge.
+  Find top zumba TikTok influencers in 2024. Most popular hashtags: #fyp #duet #foryou #dancechallenge.
 platform: TikTok
-hits: 150
-text_top: Analyze the top-rated TikTok accounts on inBeat.
-text_bottom: Our database holds 150 TikTok influencers like this for you to pitch.
+hits: 155
+text_top: Discover the best TikTok accounts on inBeat.
+text_bottom: Our platform holds 155 TikTok influencers like this for you to contact.
 profiles:
   - username: "zumba"
     fullname: >-

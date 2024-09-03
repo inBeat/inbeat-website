@@ -1,11 +1,11 @@
 ---
-title: Top 10 Runners TikTok Influencers In Canada In 2023
+title: Top 10 Runners TikTok Influencers In Canada In 2024
 description: >-
-  Find top runners TikTok influencers in Canada in 2023. Most popular hashtags: #runner #fyp #ncaa #running.
+  Find top runners TikTok influencers in Canada in 2024. Most popular hashtags: #fyp #runner #ncaa #dogsoftiktok.
 platform: TikTok
 hits: 9
-text_top: Discover the best TikTok influencers on inBeat.
-text_bottom: Our database aggregates 9 TikTok influencers like this in Canada for you to collaborate.
+text_top: See the most popular TikTok influencers on inBeat.
+text_bottom: Our search engine holds 9 TikTok influencers like this in Canada for you to contact.
 profiles:
   - username: "brecarperuns"
     fullname: >-
@@ -25,12 +25,12 @@ profiles:
     bio: >-
       Native horseman, fancy dancer, gamer, and free runner
     location: "Canada"
-    followers: 45100
-    engagement: 1759
-    commentsToLikes: 0.012491
+    followers: 45000
+    engagement: 1743
+    commentsToLikes: 0.012319
     id: ckacg8yt6u6wv0i78bkw6s212
     verified: false
-    hashtags: "#native, #horsevideo, #powwow, #horsemanship"
+    hashtags: "#horsemanship, #native, #powwow, #dance"
   - username: "iamsauced"
     fullname: >-
       Aleeya Hutchins
@@ -43,18 +43,6 @@ profiles:
     id: ckbw64oa7yafz0j23a3ccm1zv
     verified: false
     hashtags: "#xyzbca, #runner, #ncaa, #wakeforest"
-  - username: "karlykrupka"
-    fullname: >-
-      Karly
-    bio: >-
-      bc canada | 23
-    location: "Canada"
-    followers: 9462
-    engagement: 825
-    commentsToLikes: 0.037518
-    id: ckb9p6x8bk2yf0j23kbmxjyya
-    verified: false
-    hashtags: "#skilledtrades, #runner, #electrician, #bluecollar"
   - username: "itsjondesouza"
     fullname: >-
       Jon DeSouza
@@ -79,6 +67,18 @@ profiles:
     id: ckamnpino5qn40i78ofzvkdyg
     verified: false
     hashtags: "#college, #track, #trackandfield, #running"
+  - username: "bo.and.lo"
+    fullname: >-
+      Lo 🥀
+    bio: >-
+      🇨🇦🇨🇦🇨🇦 All about my 2 golden angels Bohdi+Lucy say TYSM for 8k+ 🥺🐶
+    location: "Canada"
+    followers: 8470
+    engagement: 1463
+    commentsToLikes: 0.049930
+    id: ck806wecumk0u0j78qi72ixno
+    verified: false
+    hashtags: "#cute, #dog, #goldenretrieverlife, #xyzbca"
   - username: "youthin.asia"
     fullname: >-
       Rebecca-jo Dunham-Baruchel
@@ -90,29 +90,29 @@ profiles:
     commentsToLikes: 0.067725
     id: ckcp6hugmd3na0j230co6nfw5
     verified: false
-    hashtags: "#comedy, #marriedlife, #couplecomedy, #tiktokggt"
+    hashtags: "#tiktokggt, #couplecomedy, #bestievibesonly, #marriage"
   - username: "sandstorm79"
     fullname: >-
       user4117610412925
     bio: >-
       
     location: "Canada"
-    followers: 6790
-    engagement: 242
-    commentsToLikes: 0.001825
+    followers: 6750
+    engagement: 228
+    commentsToLikes: 0.001255
     id: ckc7gqpawp7j50j23gv82m83k
     verified: false
-    hashtags: "#fitness, #fyp, #duet, #runningintheheat"
+    hashtags: "#duet, #fyp, #fitness, #fitchicks"
   - username: "runnersclubhoops"
     fullname: >-
       nothingbuthoopz
     bio: >-
       You Like Basketball & I Like Basketball. Road To 20K ✅ Basketball In 1 Minute🏀
     location: "Canada"
-    followers: 13600
-    engagement: 722
-    commentsToLikes: 0.027242
+    followers: 13500
+    engagement: 748
+    commentsToLikes: 0.024475
     id: ck90r28hwksd30j78h9zlc9mf
     verified: false
-    hashtags: "#happyathome, #toronto, #basketball, #onlineclass"
+    hashtags: "#shaq, #nba, #espn, #basketball"
 ---

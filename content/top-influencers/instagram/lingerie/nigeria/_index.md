@@ -1,93 +1,81 @@
 ---
-title: Top 10 Lingerie Instagram Influencers In Nigeria in 2023
+title: Top 10 Lingerie Instagram Influencers In Nigeria In 2024
 description: >-
-  Find top lingerie Instagram influencers in Nigeria in 2023. Most popular hashtags: #explore #explorepage #endsars #fashion.
+  Find top lingerie Instagram influencers in Nigeria in 2024. Most popular hashtags: #explore #explorepage #blackgirlmagic #black.
 platform: Instagram
 hits: 8
-text_top: See the top-rated Instagram profiles on inBeat.
-text_bottom: Our search engine has 8 Instagram influencers like this in Nigeria for you to contact.
+text_top: Identify the most popular Instagram influencers on inBeat.
+text_bottom: Our search engine holds 8 Instagram influencers like this in Nigeria for you to contact.
 profiles:
-  - username: "yes_iam_vinah"
+  - username: "yomi.visuals"
     fullname: >-
-      Omo Calabar Toh Badt🇳🇬 🌈
+      ONALARU ABAYOMI 😎🇳🇬
     bio: >-
-      NOT ON FACEBOOK❌ BEWARE 💰INFLUENCER 👩‍💻CEO @let_me_style_you_ @Vinahs_glow @scent_of_fame @vinahs_lingeries 👻Snap: Myzvinah8 Twitter: @vinahlam
+      Fine Boy Photographer😎🇳🇬 Beauty | Portrait | Retoucher Wedding page: @yv.weddings NO REFUND! Yomi Photography and Visuals art studio✨ #yomivisuals
     location: "Nigeria"
-    followers: 167398
-    engagement: 296
-    commentsToLikes: 0.013534
-    id: ck134mqc1x6yf0i197h09jeol
+    followers: 13668
+    engagement: 567
+    commentsToLikes: 0.048310
+    id: ck8t6bjezczgq0j78wjy57fs5
     verified: false
-    hashtags: ""
-  - username: "realsophy"
+    hashtags: "#explorepage, #icreate, #lagosphotographer, #blackexcellence"
+  - username: "beautyw.cat"
     fullname: >-
-      SHADES OF SOPHIA ♉️
+      Cat with a C
     bio: >-
-      👩‍🍳Chef @tastewithsophy ✈️Tourist 👻Real_sophy Twitter: Realsophy
+      Beauty•Hair•Lifestyle Manifesting my reality ✨ Lover of all things beautiful 🌻 3 million+ YouTube views 45K+ subbies NEW VIDEO BELOW
     location: "Nigeria"
-    followers: 72133
-    engagement: 616
-    commentsToLikes: 0.079455
-    id: ck5hrhn71uw9s0i11uinjrqi5
+    followers: 15980
+    engagement: 1575
+    commentsToLikes: 0.079823
+    id: ck14gqruh6ksi0i19m3bsv1rt
     verified: false
-    hashtags: "#video, #wig, #realsophy, #africa"
-  - username: "swinny_vanora"
+    hashtags: "#lacefrontunit, #thecrayoncase, #lacefrontwigs, #ootd"
+  - username: "cymbeart"
     fullname: >-
-      Vanora
+      Sadiq Abidemi Simbiat
     bio: >-
-      Realist ..strong woman... M.A @modelacademyagency 🇮🇹 @loysmodels 🇿🇦 💌 swininga@gmail.com Art @melano_blvck @vanora_official @_vanoraa #swinny_vanora
+      I'm ART Photo Model 📸|| Editorial || Commercial || High Fashion || Video Vixen 🎥 Baldie🖤(by choice) For Bookings:CLICK EMAIL ⬇️
     location: "Nigeria"
-    followers: 8287
-    engagement: 424
-    commentsToLikes: 0.098845
-    id: ck6tn2lf590bj0j71wboa9big
+    followers: 5286
+    engagement: 704
+    commentsToLikes: 0.111392
+    id: ck5c4rmzv1yfg0i113viuwl70
     verified: false
-    hashtags: "#fashionmodel, #darknlovely, #blackgoddess, #darkskinwomen"
-  - username: "__stephaaany"
+    hashtags: "#photography, #editorialphotography, #melaninpoppin, #fashionstyle"
+  - username: "hayoor"
     fullname: >-
-      Stephanie Onyenso
+      PHOTOGRAPHER || SHOOTMEHAYOOR
     bio: >-
-      🐣-@__Stephaaany 👻-mzz_steph98 •Brand influencer •Actress •Model •Vixen✨ Growing And Glowing at Godspeed🙏✨
+      Beauty || Fashion || lifestyle || Events 📞 : 08147497239 📧 : Ayodeleadebunmi015@gmail.com
     location: "Nigeria"
-    followers: 5126
-    engagement: 880
-    commentsToLikes: 0.082112
+    followers: 16177
+    engagement: 571
+    commentsToLikes: 0.066618
+    id: ck0w0vz1zgar60i198oda8ib1
+    verified: false
+    hashtags: "#lagosphotographer, #photography, #blackgirlmagic, #exploremore"
+  - username: "__inedoye"
+    fullname: >-
+      Inedoye Adanne Onyenso
+    bio: >-
+      🐣-@__Inedoye 👻-mzz_steph98 •Scriptwriter •Actress •Model •Businesswoman Growing And Glowing at Godspeed🙏✨
+    location: "Nigeria"
+    followers: 5008
+    engagement: 957
+    commentsToLikes: 0.080417
     id: ck5hg5h6210rv0i11hvegsk2n
     verified: false
-    hashtags: "#wednesday, #braids, #mondaymotivation, #explorepage"
-  - username: "oduoladamola"
-    fullname: >-
-      Oduola Damola Photography
-    bio: >-
-      Portrait | Weddings Enquiries and Bookings 08125092910 Bookings@oduoladamola.com
-    location: "Nigeria"
-    followers: 105015
-    engagement: 50
-    commentsToLikes: 0.025693
-    id: ck8tbliobw4f00j78iyajd3tm
-    verified: false
-    hashtags: "#weddingphotography, #photography, #wedding, #oduoladamola"
-  - username: "kythegod__"
-    fullname: >-
-      ★彡 𝐵𝒜𝑅𝐵𝐼𝐸 𝒟𝒪𝐿𝐿 彡★
-    bio: >-
-      𝟏𝟗 🤟 𝐂𝐞𝐥𝐞𝐛𝐫𝐢𝐭𝐲 𝐕𝐢𝐝𝐞𝐨 𝐕𝐢𝐱𝐞𝐧 𝐁𝐞𝐚𝐮𝐭𝐲•𝐅𝐚𝐬𝐡𝐢𝐨𝐧•𝐋𝐢𝐟𝐞𝐬𝐭𝐲𝐥𝐞•𝐓𝐫𝐚𝐯𝐞𝐥 @faceofafricaorg @ky.closette @ky.beaute @kykorner @letusgain_ @kyinteriors.ng
-    location: "Nigeria"
-    followers: 17134
-    engagement: 552
-    commentsToLikes: 0.104996
-    id: ck5hrhtjfuwl10i11tteb56zq
-    verified: false
-    hashtags: "#skin, #roadtonigerianqueen2020, #skincare, #exploremore"
+    hashtags: "#mondaymood, #leopardprint, #mondaymotivation, #fridayvibes"
   - username: "elyeanur_"
     fullname: >-
       eleanor🌺
     bio: >-
-      👻: elyeanor. 🐥: elyeanor1 . Learn to mind the business that pays you💆‍♀️⁉️. I am more than what you see here💯. 🇳🇬🇹🇭
+      👻: elyeanor. Learn to mind the business that pays you💆‍♀️. I am more than what you see here💯. 🇳🇬🇹🇭
     location: "Nigeria"
-    followers: 6356
-    engagement: 2207
-    commentsToLikes: 0.060589
+    followers: 9512
+    engagement: 1481
+    commentsToLikes: 0.059005
     id: ck6tvgnjum4im0j71wudsyvzx
     verified: false
     hashtags: "#explore, #explorepage, #deletingsoon, #bodybuilding"
@@ -95,12 +83,24 @@ profiles:
     fullname: >-
       Khersie☁️
     bio: >-
-      •Model •Brand Ambassador @luxebyglamoholic •Brand Influencer •Forex trader📈 Twitter :khrayyy 📍Italy🇮🇹/Nigeria🇳🇬
+      •Model •Brand Ambassador •Brand Influencer •Forex trader📈 Twitter :khrayyy 📍Italy🇮🇹/Nigeria🇳🇬
     location: "Nigeria"
-    followers: 25084
-    engagement: 820
-    commentsToLikes: 0.034678
+    followers: 25419
+    engagement: 847
+    commentsToLikes: 0.034597
     id: ckf5m4z53s9mo0j23u8hj3w1p
     verified: false
-    hashtags: "#naturalhaircommunity, #waist, #naturalbodycare, #naturalhairjourney"
+    hashtags: "#naturalbody, #healthyfoodie, #waisttrainers, #exerciseathome"
+  - username: "courtneycoacoa"
+    fullname: >-
+      Courtney Robinson-Banks
+    bio: >-
+      God 1st Director of @theladiesroomlv | @theladieslv 👠 Choreographer | Creative of anything Bad Bitch’n💅🏾 I💖pink LV | AZ CSUN t&f Alum 👩🏽‍🎓
+    location: "Nigeria"
+    followers: 3810
+    engagement: 973
+    commentsToLikes: 0.128268
+    id: ck5cj40ydtxm70i11vifq6i6g
+    verified: false
+    hashtags: "#vegasdancers, #lasvegasdanceclass, #theladiesroomlv, #choreographer"
 ---

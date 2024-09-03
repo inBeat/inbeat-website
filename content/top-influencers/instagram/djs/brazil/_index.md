@@ -1,11 +1,11 @@
 ---
-title: Top 10 Djs Instagram Influencers In Brazil In 2023
+title: Top 10 Djs Instagram Influencers In Brazil In 2024
 description: >-
-  Find top djs Instagram influencers in Brazil in 2023. Most popular hashtags: #tbt #dj #djlife.
+  Find top djs Instagram influencers in Brazil in 2024. Most popular hashtags: #tbt #dj #party.
 platform: Instagram
-hits: 130
-text_top: Discover the best Instagram influencers on inBeat.
-text_bottom: Our database has 130 Instagram influencers like this in Brazil for you to pitch.
+hits: 136
+text_top: See the top-rated Instagram influencers on inBeat.
+text_bottom: Our database holds 136 Instagram influencers like this in Brazil for you to contact.
 profiles:
   - username: "beacastrof"
     fullname: >-
@@ -43,18 +43,6 @@ profiles:
     id: ck5heaot9rxth0i11vvrxb3b7
     verified: false
     hashtags: "#silhuoettechallenge, #silhuetachallenge"
-  - username: "blastoyz"
-    fullname: >-
-      BLΔSTOYZ
-    bio: >-
-      ✖️Artist • Producer • DJ • World Traveller ✖️ DJ MAG TOP 100 DJ’s #97
-    location: "Brazil"
-    followers: 173255
-    engagement: 204
-    commentsToLikes: 0.056402
-    id: ck0w41l6pwc950i19y3ibnfs3
-    verified: true
-    hashtags: "#97, #djmag, #viral, #dj"
   - username: "allinonemusics"
     fullname: >-
       All In One Music (Official)
@@ -127,4 +115,16 @@ profiles:
     id: ck6u5v1subx5s0j71at1gitzg
     verified: false
     hashtags: "#barseuantoniomarista, #setormarista, #goiania, #feitocomamor"
+  - username: "bruninhamanager"
+    fullname: >-
+      Bruninha Barbosa
+    bio: >-
+      @happen.br ⚡️ Faço acontecer sonhos, festas e DJ's 🎧@jetlagmusic @djsamhara @doublemzk 🎪@stories.party @festa4usoficial @oshuaparty @morning___party
+    location: "Brazil"
+    followers: 23196
+    engagement: 128
+    commentsToLikes: 0.084561
+    id: ck5qbdks3l2ld0i11bma0z7n4
+    verified: false
+    hashtags: "#tbt, #chihuahua, #chihuahualove, #oshowtemquecontinuar"
 ---

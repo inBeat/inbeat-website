@@ -1,11 +1,11 @@
 ---
-title: Top 10 Tattoo-Artists TikTok Influencers In France In 2023
+title: Top 10 Tattoo-Artists TikTok Influencers In France In 2024
 description: >-
-  Find top tattoo-artists TikTok influencers in France in 2023. Most popular hashtags: #drawing #foryou #pourtoi #artist.
+  Find top tattoo-artists TikTok influencers in France in 2024. Most popular hashtags: #drawing #foryou #pourtoi #artist.
 platform: TikTok
 hits: 8
-text_top: Identify the best TikTok profiles on inBeat.
-text_bottom: Our search engine holds 8 TikTok influencers like this in France for you to contact.
+text_top: Analyze the most popular TikTok profiles on inBeat.
+text_bottom: Our search engine has 8 TikTok influencers like this in France for you to connect with.
 profiles:
   - username: "gabrielrippe"
     fullname: >-
@@ -90,7 +90,7 @@ profiles:
     commentsToLikes: 0.021903
     id: ckd6z6t93xxf80j23exnegtbs
     verified: false
-    hashtags: "#liveforthechallenge, #respect, #tiktok, #serpent"
+    hashtags: "#respect, #tiktok, #liveforthechallenge, #collage"
   - username: "mcgraphalex"
     fullname: >-
       AlexMcGraph

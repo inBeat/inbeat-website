@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fitness TikTok Influencers In Philadelphia In 2023
+title: Top 10 Fitness TikTok Influencers In Philadelphia In 2024
 description: >-
-  Find top fitness TikTok influencers in Philadelphia in 2023. Most popular hashtags: #fyp #fitness #workout #foryou.
+  Find top fitness TikTok influencers in Philadelphia in 2024. Most popular hashtags: #fyp #fitness #foryou #foryoupage.
 platform: TikTok
 hits: 7
-text_top: Identify the most popular TikTok influencers on inBeat.
-text_bottom: Our search engine holds 7 TikTok influencers like this in Philadelphia, United States for you to work with.
+text_top: See the top-rated TikTok influencers on inBeat.
+text_bottom: Our platform has 7 TikTok influencers like this in Philadelphia, United States for you to connect with.
 profiles:
   - username: "markbullet"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.123626
     id: ckb96zn1ap9h50j23p5nxhv5e
     verified: false
-    hashtags: "#fyp, #duet, #1975, #matthealy"
+    hashtags: "#matthealy, #duet, #1975, #fyp"
   - username: "chrisfralinger"
     fullname: >-
       chrisfralinger
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.019901
     id: ckc8v4mmahs1u0j23brjv4ydg
     verified: false
-    hashtags: "#viral, #foryoupage, #fyp, #foryou"
+    hashtags: "#foryou, #foryoupage, #fyp, #taylorswift"
   - username: "jordanmcmeans"
     fullname: >-
       Jordan McMeans
@@ -73,12 +73,12 @@ profiles:
     bio: >-
       that one asian guy #marinecorps .. p;s follow me on instagram @jimmac__
     location: "United States"
-    followers: 14200
-    engagement: 622
-    commentsToLikes: 0.011281
+    followers: 14300
+    engagement: 585
+    commentsToLikes: 0.009987
     id: ckb9vetynumvt0j23qra4qe9c
     verified: false
-    hashtags: "#viral, #foryou, #foryoupage, #usmc"
+    hashtags: "#workout, #military, #marinecorps, #foryou"
   - username: "nfl"
     fullname: >-
       NFL
@@ -103,6 +103,18 @@ profiles:
     id: ckbb1sa6us5u20j23qu23dv7k
     verified: false
     hashtags: "#foryou, #foryoupage, #fitness, #fyp"
+  - username: "fitwithdawn"
+    fullname: >-
+      Dawn | PT and LifeCoach
+    bio: >-
+      ✨Positivity/Motivation👟Fitness 💪🏻Wellness 🤪Fun #mylifeonTikTok #beretlady
+    location: "United States"
+    followers: 10600
+    engagement: 3024
+    commentsToLikes: 0.701530
+    id: ckcptslsjomg90j23hh5c4bxu
+    verified: false
+    hashtags: "#welcomeback, #summermashup, #choosehappy, #quickbooksvictorypose"
   - username: "justakayday"
     fullname: >-
       Kay Mejia
@@ -115,16 +127,4 @@ profiles:
     id: ckbace1l04urc0j23dv1mpj5m
     verified: false
     hashtags: "#stitch, #single, #fyp, #storytime"
-  - username: "cupcakesandbarbells"
-    fullname: >-
-      cupcakesandbarbells
-    bio: >-
-      Fitness pro helping people understand food and exercise
-    location: "United States"
-    followers: 59000
-    engagement: 1896
-    commentsToLikes: 0.068913
-    id: ckcdysmz1gux80j23xk4mflco
-    verified: false
-    hashtags: "#fitness, #gym, #pistolsquats, #workout"
 ---

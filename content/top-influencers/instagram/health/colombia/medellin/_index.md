@@ -1,36 +1,24 @@
 ---
-title: Top 10 Health Instagram Influencers In Medellín In 2023
+title: Top 10 Health Instagram Influencers In Medellín In 2024
 description: >-
-  Find top health Instagram influencers in Medellín in 2023. Most popular hashtags: #medellin #fitness #health #colombia.
+  Find top health Instagram influencers in Medellín in 2024. Most popular hashtags: #fitness #medellin #colombia #health.
 platform: Instagram
-hits: 7
-text_top: Identify the top-rated Instagram influencers on inBeat.
-text_bottom: Our platform aggregates 7 Instagram influencers like this in Medellín, Colombia for you to contact.
+hits: 6
+text_top: Identify the top-rated Instagram accounts on inBeat.
+text_bottom: Our search engine holds 6 Instagram influencers like this in Medellín, Colombia for you to collaborate.
 profiles:
   - username: "rolando_posada"
     fullname: >-
-      Rolando A. Posada F.
+      Rolando Posada, MD, PhD.
     bio: >-
-      Medicina Interna. Nutrición/Farmacología/Fisiología rolandoposada2004@gmail.com @sindy_mena 👰🏻💍
+      Specialist Physician Internal Medicine/ICU Pharmacology/Physiology Co-Founder @connect.humans Medical Counselor @theheavyunit_ Married 💍 @sindy_mena
     location: "Colombia"
-    followers: 31588
-    engagement: 247
-    commentsToLikes: 0.054658
+    followers: 55150
+    engagement: 147
+    commentsToLikes: 0.049382
     id: ck5c102oqu6nm0i11nt7jqqw1
     verified: false
-    hashtags: "#anabolicdoc, #medellin, #healthylifestyle, #salud"
-  - username: "chdermatologia"
-    fullname: >-
-      CLAUDIA HERNÁNDEZ
-    bio: >-
-      МD.Derмaтologιѕт •Injector💉•KOL🌎•Research 🔬 Anti-aging & beauty strategies 📍Medellín-Colombia🇨🇴 📲574-4443072-3006413849
-    location: "Colombia"
-    followers: 93179
-    engagement: 192
-    commentsToLikes: 0.016119
-    id: ck0w71ryubc2d0i19xvjyd5io
-    verified: false
-    hashtags: "#fillers, #envejecimiento, #beauty, #skincare"
+    hashtags: "#eaa, #health, #salud, #medellin"
   - username: "changeyourlifewmel"
     fullname: >-
       Melissa 🌶
@@ -43,30 +31,30 @@ profiles:
     id: ck8t1veuhx6sp0j7825w41la7
     verified: false
     hashtags: "#shredded, #colombianwomen, #fitnessmotivation, #physique"
-  - username: "_zackmorris"
+  - username: "doc.cardenas"
     fullname: >-
-      Zack Morris
+      Oscar Cardenas
     bio: >-
-      🦁🇨🇦 I Ride Bikes 🚴🏻‍♂️ & Build Brands 👨🏻‍💻 Follow 👉🏻 @teamnoexcusestv
+      𝗖𝗲𝗿𝘁𝗶𝗳𝗶𝗲𝗱 𝗜𝗻𝘁𝗲𝗻𝘀𝗶𝘃𝗶𝘀𝘁-𝗖𝗿𝗼𝘀𝘀𝗙𝗶𝘁𝘁𝗲𝗿🧔🏻‍♂️(Simulation||ACLS||FCCS||𝗣𝗢𝗖𝗨𝗦 🔜 𝐌𝐞𝐝𝐢𝐜𝐢𝐧𝐞 𝐏𝐫𝐨𝐟𝐞𝐬𝐬𝐨𝐫)||Editor: @cardiointermed 𝑺𝒕𝒖𝒅𝒚𝒊𝒏𝒈 𝒇𝒐𝒓 𝒕𝒉𝒆 𝑼𝑺𝑴𝑳𝑬 𝑺𝒕𝒆𝒑 𝟏🇺🇸
     location: "Colombia"
-    followers: 32138
-    engagement: 395
-    commentsToLikes: 0.008565
-    id: ck14kg6lopd3w0i19ilj9s7vi
+    followers: 33796
+    engagement: 272
+    commentsToLikes: 0.196553
+    id: ckaotdff3vfzl0i78fgroq4ji
     verified: false
-    hashtags: "#cinchform, #cycling, #cinchcycling, #cyclinglife"
-  - username: "lindapalma"
+    hashtags: "#criticalcaremedicine, #medicinacritica, #internalmedicine, #infectologia"
+  - username: "valeriaduqueh"
     fullname: >-
-      LindaPalma ❤️😜🌴
+      VALERIA DUQUE 🔱
     bio: >-
-      Presentadora TV. Colombiana 🇨🇴 Embajadora @adidasco 💜La Vida es linda💜 #LaVidaEslinda 💌 linda@lindapalma.com
+      📩 valeriaduquehcontacto@gmail.com Desafío Súper Humanos XV Comunicadora Social, periodista Fitness lifestyle✨ Modelo ✨Content creator
     location: "Colombia"
-    followers: 1608225
-    engagement: 84
-    commentsToLikes: 0.012483
-    id: ck13c5up2yrg40i19srua000u
-    verified: true
-    hashtags: "#creadoconadidas, #tbt, #lavidaeslinda, #healthylifestyle"
+    followers: 1702864
+    engagement: 314
+    commentsToLikes: 0.017060
+    id: ck0w71qvgbbwr0i19etl210f3
+    verified: false
+    hashtags: "#fitness, #fitnesslifestyle, #barbiegirl, #fitnessmodel"
   - username: "leidysolis76kg"
     fullname: >-
       𝐋𝐞𝐢𝐝𝐲 𝐒𝐨𝐥𝐢𝐬
@@ -91,40 +79,52 @@ profiles:
     id: ck6u91mx3uyoz0j71kuvli029
     verified: false
     hashtags: "#lovetodance, #dancefloor, #bailar, #dancer"
-  - username: "the_runaddict"
+  - username: "viajandoconberbeo"
     fullname: >-
-      George | Running & Tri Junkie
+      J Berbeo | 🎒Travel + Lifestyle
     bio: >-
-      ‣ Marketing | Triathlon & running coach 👉🏻 @aethosport ‣ Health & wellness motivation. ‣ 4 major marathons ⭐️ (so far).
+      👔 Quit my Fortune500 job to travel the 🌍 ☕ 📖 🌱Coffee, books and eco addict ♻️ 💪🏼Sustainable travel & healthy lifestyle 👣 Trying to make an impact
     location: "Colombia"
-    followers: 10343
-    engagement: 534
-    commentsToLikes: 0.112158
-    id: ckaozhml1lxdo0i78gltg1vkd
+    followers: 42407
+    engagement: 786
+    commentsToLikes: 0.007597
+    id: ckaoxnh5de00g0i78xoctnhoc
     verified: false
-    hashtags: "#runningmotivation, #runningcolombia, #iloverunning, #nbrunning"
-  - username: "kevincardenas__"
+    hashtags: "#earthfocus, #naturelovers, #menandcoffee, #hellofrom"
+  - username: "caromejiaaraujo"
     fullname: >-
-      Kevin Cardenas 🇨🇴
+      Caro Mejía Araújo
     bio: >-
-      🔥 desafío súper regiones 2019 #cafetero Embajador @healthysportscolombia 📝admon de negocios internacionales 📸modelo 🏋🏻 CrossFit
+      @reebokcolombia ambassador healthy lifestyle | outfits | baile Co founder @calu_resortwear @blendsmoothies.co 📍Bogotá
     location: "Colombia"
-    followers: 61512
-    engagement: 471
-    commentsToLikes: 0.026606
-    id: ckapckj38474m0i788cgi5sma
+    followers: 75563
+    engagement: 381
+    commentsToLikes: 0.060049
+    id: ck5hj6hllg3cw0i118da5szy1
     verified: false
-    hashtags: "#fitness, #smile, #mensfashion, #photography"
-  - username: "valentinathorne"
+    hashtags: "#outfits, #fashion, #videosdebaile, #cartagena"
+  - username: "pameperez.p"
     fullname: >-
-      Valentina
+      Pame Perez
     bio: >-
-      Thornemvalentina@gmail.com📩 Embajadora: @healthysportscolombia @amarte.sw Diseñadora 👩‍🎨
+      Mamá de MARIANO 💙 Co-Founder @pamelas.wellnessfood Founder @by.pameperez IIN Health Coach Fitness Enthusiast LiveHealthy-LiveLonger
     location: "Colombia"
-    followers: 162947
-    engagement: 603
-    commentsToLikes: 0.016221
-    id: ckapbottv0qp30i78foawh7df
+    followers: 45351
+    engagement: 225
+    commentsToLikes: 0.040558
+    id: ck13c63keysra0i19xh0geu5r
     verified: false
-    hashtags: "#saturdaynight"
+    hashtags: "#saludable, #marianopelaezperez, #21diasconpameperez, #creandohabitos"
+  - username: "dreathomas"
+    fullname: >-
+      Andrea Thomas
+    bio: >-
+      Making women feel strong & healthy ♡ @allyou + @soliswimwear Founder @bombshellsportswear athlete Management@andrea-thomas.com Get coached by me ✨
+    location: "Colombia"
+    followers: 1788777
+    engagement: 143
+    commentsToLikes: 0.006760
+    id: cl3dd174q5ncg0i23lcp79fq9
+    verified: false
+    hashtags: "#bombshellsportswear, #bombshellsportwear"
 ---

@@ -1,12 +1,36 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Izmir In 2023
+title: Top 10 Beauty Instagram Influencers In Izmir In 2024
 description: >-
-  Find top beauty Instagram influencers in Izmir in 2023. Most popular hashtags: #beauty #izmir #fashion #makeup.
+  Find top beauty Instagram influencers in Izmir in 2024. Most popular hashtags: #izmir #beauty #istanbul #photooftheday.
 platform: Instagram
 hits: 73
-text_top: See the best Instagram profiles on inBeat.
-text_bottom: Our database holds 73 Instagram influencers like this in Izmir, Turkey for you to connect with.
+text_top: Analyze the top-rated Instagram influencers on inBeat.
+text_bottom: Our platform has 73 Instagram influencers like this in Izmir, Turkey for you to collaborate.
 profiles:
+  - username: "cantasisirtindabirkiz"
+    fullname: >-
+      Eda Karacaoglu
+    bio: >-
+      
+    location: "Turkey"
+    followers: 82522
+    engagement: 461
+    commentsToLikes: 0.017940
+    id: ck0vwq9vjv20h0i19j7echbgk
+    verified: false
+    hashtags: "#turkey, #fashion, #girl, #viral"
+  - username: "endamdan"
+    fullname: >-
+      Endam Orçun
+    bio: >-
+      📍İzmir 💄Beauty | Makeup | Lifestyle 💌 endamorcun@gmail.com 👩🏻‍🔬PAU Chemical Engineering
+    location: "Turkey"
+    followers: 12558
+    engagement: 532
+    commentsToLikes: 0.127425
+    id: ck600ropde50v0i14a6pfhv9w
+    verified: false
+    hashtags: "#avonturkiye, #niacinamide, #avon, #gold"
   - username: "dibaestetik"
     fullname: >-
       Diba Estetik&güzellik
@@ -43,30 +67,18 @@ profiles:
     id: ck13cm47f10p40i199bxda3ru
     verified: false
     hashtags: "#trending, #nail, #likelike, #followforfollowback"
-  - username: "muammerketenciofficial"
-    fullname: >-
-      Muammer Ketenci
-    bio: >-
-      Fashion Designer Reklam ve isbirliği @cemozkook
-    location: "Turkey"
-    followers: 116282
-    engagement: 328
-    commentsToLikes: 0.100892
-    id: ck5q0xcqf883f0i11uloroxsj
-    verified: true
-    hashtags: "#baku, #muammerketenci, #fashiondesigner, #azerbaycan"
   - username: "selinablog"
     fullname: >-
       Selin Aydın
     bio: >-
       ✨ Makeup, Beauty, Fashion 🎓 Psychology 📍 İzmir 💌 PR: seliina.blog@gmail.com
     location: "Turkey"
-    followers: 87248
-    engagement: 306
-    commentsToLikes: 0.180836
+    followers: 83139
+    engagement: 189
+    commentsToLikes: 0.061329
     id: ck5cf8f0bmgy30i11poftf44f
     verified: false
-    hashtags: "#makeupartist, #makeuptutorial, #makeup, #makeupbyme"
+    hashtags: "#makeupbyme, #likeme, #makeuptutorial, #makeupartist"
   - username: "aysegull_tatarr"
     fullname: >-
       Aysegul Tatar
@@ -79,18 +91,6 @@ profiles:
     id: ck8t4887m5u080j78satnz8iq
     verified: false
     hashtags: "#tesettu, #happy, #love, #tweegram"
-  - username: "tuceyildrm"
-    fullname: >-
-      Tuçe y.g
-    bio: >-
-      Fashion | Lifestyle | Beauty Food engineer and chemist 📍İzmir 💌yildirim.tuce@gmail.com / dm @girisimcikadinlargrubu
-    location: "Turkey"
-    followers: 114309
-    engagement: 51
-    commentsToLikes: 0.075819
-    id: ck14hmkmhb2tb0i19x6v60e72
-    verified: false
-    hashtags: "#dream, #helpturkey, #turkeyisburning, #adrasan"
   - username: "makeupbymahsima"
     fullname: >-
       Mahsima
@@ -103,28 +103,28 @@ profiles:
     id: ck0vyxftu697s0i194xxfx4w0
     verified: false
     hashtags: "#beauty, #model, #dugun, #hair"
-  - username: "gulshan_huseynli_official"
+  - username: "doctorhakantufekci"
     fullname: >-
-      Julia Huseynli
+      Hakan Tüfekçi
     bio: >-
-      Actor And Singer🎼🎤. Sevmirem Seni 👇
+      Inspired from your beauty. International Health Tourism Authorization Certificated Clinic 📲 +905550387869 📍Bursa
     location: "Turkey"
-    followers: 100997
-    engagement: 232
-    commentsToLikes: 0.025416
-    id: ck9whrhv3z5hs0j783d6krl2p
+    followers: 63167
+    engagement: 339
+    commentsToLikes: 0.030209
+    id: ckap5e1wcb98b0i78r99ato5u
     verified: false
-    hashtags: "#actress, #azerbaijan, #astara, #baku"
-  - username: "pisimel"
+    hashtags: "#medikal, #aesthetic, #smile, #fit"
+  - username: "nazlisk"
     fullname: >-
-      Melike Birinci
+      Nazlı Işık
     bio: >-
-      Influencer / Fashion 📍İzmir @mavisehir_dergisi
+      Beauty | Lifestyle | Content Creator 💌nazliisik@istalkin.com
     location: "Turkey"
-    followers: 53321
-    engagement: 206
-    commentsToLikes: 0.061655
-    id: ckaou7ngyz5yo0i789594515d
+    followers: 101166
+    engagement: 120
+    commentsToLikes: 0.005381
+    id: ckap4175v5e3w0i78fsiawnpv
     verified: false
-    hashtags: "#ootdfashion, #pretty, #ootdbloggers, #womanslook"
+    hashtags: "#travelphotography, #instagram, #yaz, #summer"
 ---

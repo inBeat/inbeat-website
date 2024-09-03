@@ -1,36 +1,60 @@
 ---
-title: Top 10 Travel Instagram Influencers In Miami In 2023
+title: Top 10 Travel Instagram Influencers In Miami In 2024
 description: >-
-  Find top travel Instagram influencers in Miami in 2023. Most popular hashtags: #miami #travel #florida #beach.
+  Find top travel Instagram influencers in Miami in 2024. Most popular hashtags: #miami #travel #miamibeach #love.
 platform: Instagram
-hits: 858
-text_top: Discover the most popular Instagram influencers on inBeat.
-text_bottom: Our platform aggregates 858 Instagram influencers like this in Miami, United States for you to collaborate.
+hits: 1117
+text_top: Analyze the most popular Instagram influencers on inBeat.
+text_bottom: Our database holds 1117 Instagram influencers like this in Miami, United States for you to connect with.
 profiles:
-  - username: "lizmarcinek_"
+  - username: "mlewartowska"
     fullname: >-
-      Liz Marcinek
+      Magdalena Lewartowska
     bio: >-
-      𝙳𝚘𝚗'𝚝 𝚠𝚊𝚒𝚝 𝚏𝚘𝚛 𝚘𝚙𝚙𝚘𝚛𝚝𝚞𝚗𝚒𝚝𝚢, 𝚌𝚛𝚎𝚊𝚝𝚎 𝚒𝚝.☻ 𝑨𝒕𝒉𝒍𝒆𝒕𝒆 & 𝑰𝒏𝒇𝒍𝒖𝒆𝒏𝒄𝒆𝒓 𝑹𝒆𝒍𝒂𝒕𝒊𝒐𝒏𝒔 ‣ ᴍᴀʀᴋᴇᴛɪɴɢ ‣ ꜰɪᴛɴᴇꜱꜱ ‣ ᴄʀᴇᴀᴛᴏʀ⁣ 💌 ᴇᴍᴀɪʟ ꜰᴏʀ ʙᴜꜱɪɴᴇꜱꜱ ɪɴQᴜɪʀɪᴇꜱ ⁣
+      @noemme.official ✈️Somewhere in the air 🌏66/195 and still counting 💌Collaboration m.lewartowskaa@gmail.com
     location: "United States"
-    followers: 20510
-    engagement: 605
-    commentsToLikes: 0.028913
-    id: ck5pyruh6xhnb0i11xsufovnq
+    followers: 42143
+    engagement: 207
+    commentsToLikes: 0.177381
+    id: ck5cka1j0wg4s0i11rs67b3up
     verified: false
-    hashtags: "#beach, #mexico, #ocean, #fitness"
-  - username: "joblessgarrett"
+    hashtags: "#luxurylifestyle, #mykonosisland, #miami, #outfit"
+  - username: "paolahonma"
     fullname: >-
-      Garrett
+      ⠀⠀⠀⠀ ⠀⠀ ⠀ ⠀ ⠀ ⠀⠀ PAOLA HONMA 🧿
     bio: >-
-      Your Favorite Youtuber & Streamer. 🔥 Miami🔥 Business: JoblessGamers@gmail.com All my Links and Socials:
+      psalms 91:2 | 🇯🇵🇧🇷 lawyer • marketing • @assessoriapaolahonma 📍south fl 🇺🇸
     location: "United States"
-    followers: 290601
-    engagement: 162
-    commentsToLikes: 0.015719
-    id: ck9hcuetrn0q00j789qeori81
+    followers: 982935
+    engagement: 51
+    commentsToLikes: 0.074846
+    id: ckf5lo2nzq9ly0j238iwr3c6j
     verified: false
-    hashtags: "#family, #gaming, #happy, #goals"
+    hashtags: "#orlando, #fashion, #style, #travel"
+  - username: "juliamarrero"
+    fullname: >-
+      J U L I A • M A R R E R O / CONTENT CREATOR
+    bio: >-
+      Mother of 3 Beauty, Fashion, Lifestyle, Travel Entrepreneur Founder @leankitchen_catering 📩 juliamarrero8@gmail.com
+    location: "United States"
+    followers: 107297
+    engagement: 44
+    commentsToLikes: 0.023249
+    id: ck13d5uew3tjd0i19e2691qk7
+    verified: false
+    hashtags: "#coralgables, #love, #travel, #miamifashionblogger"
+  - username: "claudzzz"
+    fullname: >-
+      Claudia Diaz, PT, DPT
+    bio: >-
+      Doctor of Physical Therapy 👩🏼‍⚕️ 🧩 Let all that you do be done in love ✞ e x p l o r e m o r e 🌎
+    location: "United States"
+    followers: 13549
+    engagement: 221
+    commentsToLikes: 0.165855
+    id: ck14gp0556bow0i19rjfcohkh
+    verified: false
+    hashtags: "#blogger, #love, #ad, #miamibeach"
   - username: "victoria_castilla"
     fullname: >-
       ✩ 𝚅 𝙸 𝙲 𝚃 𝙾 𝚁 𝙸 𝙰  ✩
@@ -42,19 +66,7 @@ profiles:
     commentsToLikes: 0.036776
     id: ck13ckmge0tme0i19qfw0fyxs
     verified: false
-    hashtags: "#bikinilife, #travel, #miami, #ny"
-  - username: "anyela_damas"
-    fullname: >-
-      Anyela Mariam Damas
-    bio: >-
-      #soscuba 🇨🇺Cuban 📍Miami ↔️LA Professional Actress• Model•Entrepreneur @sheinofficial discount code D2Anyela TikTok anyela_damas CEO @damas_agency
-    location: "United States"
-    followers: 192260
-    engagement: 32
-    commentsToLikes: 0.037412
-    id: ck8szq89gpbce0j78lk5tts1o
-    verified: false
-    hashtags: "#spring, #fashion, #beach, #dress"
+    hashtags: "#bikinilife, #travel, #miami, #helicopter"
   - username: "m_seelika"
     fullname: >-
       Malika See
@@ -67,6 +79,18 @@ profiles:
     id: ck5cea26bkn130i11bbiuxx3x
     verified: false
     hashtags: "#atl, #model, #love, #atlanta"
+  - username: "big__ab"
+    fullname: >-
+      Big Ab™️
+    bio: >-
+      🔹🌐IFBB Classic Physique Pro 🔹’19 ⭕️lympian 🔹Community Liaison🏘 🔹Elite Personal Trainer😎🏋🏾‍♂️
+    location: "United States"
+    followers: 79244
+    engagement: 395
+    commentsToLikes: 0.032720
+    id: ck6tunfhfhb910j71dqk6owiw
+    verified: true
+    hashtags: "#explore, #dubai, #bigab, #gymmotivation"
   - username: "cmahecha32"
     fullname: >-
       Cesar MMedina
@@ -90,7 +114,7 @@ profiles:
     commentsToLikes: 0.032493
     id: ck0tznomar1zb0i19158b80wk
     verified: false
-    hashtags: "#miami, #thisismiami, #tlpicks, #brickelllife"
+    hashtags: "#ig, #biscaynebay, #thisismiami, #welcometomiami"
   - username: "petermillerfishing"
     fullname: >-
       Peter Miller
@@ -103,28 +127,4 @@ profiles:
     id: ck55jv21bxt1f0i11hrk3ehtn
     verified: true
     hashtags: "#travel, #miami, #eat, #bass"
-  - username: "southbeachhelicopters"
-    fullname: >-
-      South Beach Helicopters® (SBH)
-    bio: >-
-      The official Instagram of South Beach Helicopters. | Tours | Charters | Aerial Photography | "The sky is not the limit, it's just the view"™✨🚁✨
-    location: "United States"
-    followers: 123006
-    engagement: 173
-    commentsToLikes: 0.043948
-    id: ck0u7atu6467z0i191y50strc
-    verified: false
-    hashtags: "#florida, #sbhapproved, #adventure, #mansion"
-  - username: "klassikfresco"
-    fullname: >-
-      ⠀⠀⠀⠀⠀⠀⠀⠀⠀Klassik Frescobar
-    bio: >-
-      • Recording Artiste⠀⠀ • Songwriter⠀⠀ • Performer⠀ Bookings: klassikfrescoprteam[at]gmail.com⠀⠀ 🏴‍☠️Black is de code🖤 👇🏾[New Music]
-    location: "United States"
-    followers: 30326
-    engagement: 194
-    commentsToLikes: 0.037759
-    id: ck6u4jfeb42bw0j71gxzqytfn
-    verified: false
-    hashtags: "#dancehall, #trend, #jamaica, #travel"
 ---

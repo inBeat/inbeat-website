@@ -1,12 +1,60 @@
 ---
-title: Top 10 Instagram Influencers In Sao Paulo In 2023
+title: Top 10 Instagram Influencers In Sao Paulo In 2024
 description: >-
-  Find top Instagram influencers in Sao Paulo in 2023. Most popular hashtags: #reelsinstagram #gothicgirls #explorepage.
+  Find top Instagram influencers in Sao Paulo in 2024. Most popular hashtags: #reelsinstagram #reels #publicidade.
 platform: Instagram
-hits: 3291
-text_top: Identify the most popular Instagram accounts on inBeat.
-text_bottom: inBeat holds 3291 Instagram influencers like this in Sao Paulo, Brazil for you to pitch.
+hits: 3352
+text_top: Identify the top-rated Instagram influencers on inBeat.
+text_bottom: Our database has 3352 Instagram influencers like this in Sao Paulo, Brazil for you to contact.
 profiles:
+  - username: "ana.passaretti"
+    fullname: >-
+      Ana Clara Passaretti
+    bio: >-
+      🖤 beauty & lifestyle. ⛓️ São Paulo, Brasil. ✉️ anapassaretti@agenciabae.com 🤓 @anaheartbooks
+    location: "Brazil"
+    followers: 139070
+    engagement: 453
+    commentsToLikes: 0.012943
+    id: cl4f68x31pw850i23cjzss9iy
+    verified: false
+    hashtags: "#ttdeye, #ttd"
+  - username: "doarda"
+    fullname: >-
+      Doarda
+    bio: >-
+      posso te oferecer um humor duvidoso e bobagens cotidianas :) São Paulo, SP 🇧🇷 comercialdoarda@gmail.com
+    location: "Brazil"
+    followers: 2394426
+    engagement: 420
+    commentsToLikes: 0.005145
+    id: ck8wgo19yhqgy0j78v3ewsy9d
+    verified: false
+    hashtags: "#avidapelafrente, #publi, #abruxadosmortosbaghead, #tomaessa"
+  - username: "brenomoreru"
+    fullname: >-
+      breno moreru
+    bio: >-
+      📍São Paulo/SP 💎 𝒸𝓇𝒾𝓈𝓉𝒶𝓁 𝓅𝓇í𝓃𝒸𝒾𝓅𝑒 𝑒 𝓈𝑜𝓂𝓂𝑒𝓁𝒾𝑒𝓇 𝒹𝑒 𝒻𝑜𝒻𝑜𝒸𝒶𝓈 🎀 📩 contato: breno@mesa42.com.br compre meus cheiros cheirosos no link👇
+    location: "Brazil"
+    followers: 62700
+    engagement: 912
+    commentsToLikes: 0.032085
+    id: cl56a82j51gw60i23zqom2z2l
+    verified: false
+    hashtags: "#bbb22, #carnauol, #carnauol2024, #dafitifashioncreators"
+  - username: "ygorxoficial"
+    fullname: >-
+      Ygor Prado
+    bio: >-
+      YgorX | 360 Perfeito Jogador Profissional 📩 • contato@ygorx.com 📍São Paulo
+    location: "Brazil"
+    followers: 1058365
+    engagement: 1427
+    commentsToLikes: 0.389250
+    id: ck6tsdbz644ej0j71r93gbgoo
+    verified: false
+    hashtags: ""
   - username: "deisiremus"
     fullname: >-
       Deisi ✯ VIAGENS E LIFESTYLE
@@ -19,112 +67,64 @@ profiles:
     id: ck14go39o66xh0i1974mid2tq
     verified: false
     hashtags: "#reelsinstagram, #visitrovaniemi, #explorepage, #finland"
-  - username: "biel_boni"
+  - username: "barbarareis.oficial"
     fullname: >-
-      𝕲𝖆𝖇𝖗𝖎𝖊𝖑 𝕭𝖔𝖓𝖎𝖋𝖆𝖈𝖎𝖔® 🔥💎
+      Bárbara Reis
     bio: >-
-      Um comediante com humor duvidoso 👀 Apenas tento fazer comédia! 📍 São Paulo - SP 📧 bielboniyt@gmail.com
+      Sou a Vice Miss Brasil Universo 2023, modelo, falo sobre cachos e beleza, e criei o @projeto.desi | São Paulo, SP ✉️ contato@barbarareis.com.br
     location: "Brazil"
-    followers: 131537
-    engagement: 1543
-    commentsToLikes: 0.024577
-    id: ck6udhgzll4vk0j71icajzlrz
+    followers: 107301
+    engagement: 443
+    commentsToLikes: 0.038046
+    id: ck0w31joor5yz0i1973fzjsnv
     verified: false
-    hashtags: ""
-  - username: "luizarossi"
+    hashtags: "#cachos, #redmilhas, #viagens, #aventura"
+  - username: "camilakaram"
     fullname: >-
-      LUIZA ROSSI
+      Camila Karam
     bio: >-
-      • são paulo - brasil • jobs: contato@luizarossi.com.br
+      Médica | Mãe do @joaoguikaram 👶🏻 | CEO @ckdermatologia | Vida real!! 📩 contatocamilakaram@gmail.com Consultas: (11) 98888-7131 São Paulo
     location: "Brazil"
-    followers: 148372
-    engagement: 299
-    commentsToLikes: 0.024982
-    id: ck0w1a2evib4k0i19l2sdl0ft
-    verified: false
-    hashtags: "#cabeloondulado, #condicionadorembarra, #efeitobob, #vizzela"
-  - username: "saopaulocity"
-    fullname: >-
-      São Paulo City
-    bio: >-
-      🇧🇷 O melhor de SP está aqui 🇬🇧 Best of São Paulo City 🛍 @ProjetoSaoPauloCity Fotos, Dicas e tudo que SP tem de melhor Por @miguelitogarcia
-    location: "Brazil"
-    followers: 309362
-    engagement: 149
-    commentsToLikes: 0.014550
-    id: ck6u08ytueaqw0j71lq7b1uww
-    verified: false
-    hashtags: "#euvivosp, #modaurbana, #saopaulocity, #paulista"
-  - username: "majutrindade"
-    fullname: >-
-      maju trindade
-    bio: >-
-      sᴘ @bymajuview & sᴛᴜᴅɪᴏ @803.studio 🐆 contatomajutrindade@outlook.com São Paulo, Brazil ↓ youtube channel & podcast ↓
-    location: "Brazil"
-    followers: 6400424
-    engagement: 29
-    commentsToLikes: 0.002985
-    id: ck0vw38ehrwhr0i198v97096v
+    followers: 269628
+    engagement: 623
+    commentsToLikes: 0.023937
+    id: ck5cguq5xpl0c0i11t1lo82f3
     verified: true
-    hashtags: "#tbt, #35mm, #contaxg2, #ektar100"
-  - username: "lucnatico"
+    hashtags: "#lovegocase, #gocase, #bodegabouza, #uruguay"
+  - username: "nayfirens"
     fullname: >-
-      Lucas Bataglia
+      Nay Firens | Maquiagem Artística | ⟬⟭⁷
     bio: >-
-      🌈 📍 | São Paulo/SP
+      Bogleira, Maquiadora e Aprendiz de Tatuagem 👑 Vencedora do concurso Face Awards 2018 🇧🇷 🏠 São Paulo ✉️ nayfirens@gmail.com
     location: "Brazil"
-    followers: 11656
-    engagement: 1336
-    commentsToLikes: 0.156587
-    id: ckf5nh8w0y97l0j23aaj4llko
+    followers: 131637
+    engagement: 407
+    commentsToLikes: 0.019879
+    id: ck6tkv7235gti0j71xtu6asof
     verified: false
-    hashtags: "#reels, #reelsinstagram, #meme, #gaybrasil"
-  - username: "nosferotika"
+    hashtags: "#bts, #canabravaresort, #monsterhigh, #carnaval"
+  - username: "malugolden_"
     fullname: >-
-      Rubia - NOSFEROTIKA
+      Malu | Lennon | Totó | Jaque
     bio: >-
-      GothMother on Nosferotika • 𝔢𝔰𝔱. 𝟏𝟗𝟗𝟒 • 🇧🇷 - São Paulo | 𝕮𝖞𝖇𝖊𝖗𝖌𝖔𝖙𝖍 | 𝕱𝖊𝖒𝖒𝖊 𝕱𝖆𝖙𝖆𝖑𝖊 • PARCERIAS/SPONSORS - DM/E-MAIL nosferotika@outlook.com
+      • 02 Goldens e 01 vira-lata • Diversão | Dicas | Humor e Muito Amor • São Paulo 📩 malugolden@virau.com.br
     location: "Brazil"
-    followers: 133259
-    engagement: 908
-    commentsToLikes: 0.020715
-    id: ck13cjlob0o5i0i1910ti4m2h
+    followers: 310102
+    engagement: 675
+    commentsToLikes: 0.048371
+    id: ck0u0hfkwtp540i199ndtwosc
     verified: false
-    hashtags: "#gothicstyle, #gothgirls, #gothicbox, #wiccac"
-  - username: "jplucca_"
+    hashtags: "#reelsinstagram, #retrieverdailystyle, #animalsinfluence, #dog"
+  - username: "ficavaiterjanta"
     fullname: >-
-      João Pedro De Lucca
+      Fica, vai ter janta!
     bio: >-
-      Fotografar é minha vida! @jpdelucca_ ⚡️ 📍Campos do Jordão/ São Paulo-SP Orçamentos no link abaixo
+      Desde 2015 mostrando o que tem de mais gostoso por aí! Por @365dayswithmi & @renanfsu 📍São Paulo ✈️@voualienaovolto 📩contato@ficavaiterjanta.com.br
     location: "Brazil"
-    followers: 19169
-    engagement: 1961
-    commentsToLikes: 0.067715
-    id: ck5zqnvpiuyc20i14femhr58k
+    followers: 66782
+    engagement: 524
+    commentsToLikes: 0.068203
+    id: ck5pvvglgjtxw0i11jlt26y5q
     verified: false
-    hashtags: ""
-  - username: "caputile"
-    fullname: >-
-      Letícia Caputi
-    bio: >-
-      25 anos, São Paulo | SP 💜 Influenciadora do @finalleveloficial ⚠️ Streamer em @booyahbr ✉️ leticiab.caputi@hotmail.com
-    location: "Brazil"
-    followers: 229137
-    engagement: 1294
-    commentsToLikes: 0.005304
-    id: ckaoyh00mhhla0i78yv0bklvx
-    verified: false
-    hashtags: ""
-  - username: "ronaldonene"
-    fullname: >-
-      Ronaldo Carvalho
-    bio: >-
-      São Paulo/Brazil Youtube: Canal 35 Milímetros Aulas de Edição
-    location: "Brazil"
-    followers: 54311
-    engagement: 1296
-    commentsToLikes: 0.124795
-    id: ck0ty0i4tl33c0i19ai0o8i44
-    verified: false
-    hashtags: "#chupetox, #asusbrasil"
+    hashtags: "#publicidade"
 ---

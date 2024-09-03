@@ -1,12 +1,36 @@
 ---
-title: Top 10 Gaming TikTok Influencers In Toronto In 2023
+title: Top 10 Gaming TikTok Influencers In Toronto In 2024
 description: >-
-  Find top gaming TikTok influencers in Toronto in 2023. Most popular hashtags: #fyp #toronto #funny #foryoupage.
+  Find top gaming TikTok influencers in Toronto in 2024. Most popular hashtags: #fyp #toronto #gaming #foryoupage.
 platform: TikTok
-hits: 12
-text_top: Analyze the top-rated TikTok influencers on inBeat.
-text_bottom: inBeat holds 12 TikTok influencers like this in Toronto, Canada for you to pitch.
+hits: 15
+text_top: Identify the top-rated TikTok profiles on inBeat.
+text_bottom: Our search engine aggregates 15 TikTok influencers like this in Toronto, Canada for you to collaborate.
 profiles:
+  - username: "yoyoivan"
+    fullname: >-
+      Ivan Derakhshani
+    bio: >-
+      Wait what
+    location: "Canada"
+    followers: 42700
+    engagement: 784
+    commentsToLikes: 0.062009
+    id: ck90z7cgdcui90j78rg7uqdnh
+    verified: false
+    hashtags: "#streamer, #fyp, #funny, #toronto"
+  - username: "aplusmix"
+    fullname: >-
+      A+
+    bio: >-
+      10k🔓20k🔓50k🔓100k🔒500k🔒1M🔒 I love All of u❤️ Watch My Music Video! Link👇🏽
+    location: "Canada"
+    followers: 51000
+    engagement: 813
+    commentsToLikes: 0.026043
+    id: ck8fa40b6451d0j78jkt03m1v
+    verified: false
+    hashtags: "#viral, #funny, #fy, #foryoupage"
   - username: "levon_mov"
     fullname: >-
       Levon Movsessian
@@ -19,18 +43,18 @@ profiles:
     id: ck8w5hmhp9zwe0j78j3b0pvv6
     verified: false
     hashtags: "#autopilot, #foryoupage, #selfdriving, #tesla"
-  - username: "yoyoivan"
+  - username: "savvyssarah"
     fullname: >-
-      Ivan Derakhshani
+      CEO of long legs
     bio: >-
-      Wait what
+      is this thing on? twitter: @savvyssarah
     location: "Canada"
-    followers: 42700
-    engagement: 784
-    commentsToLikes: 0.062009
-    id: ck90z7cgdcui90j78rg7uqdnh
+    followers: 21200
+    engagement: 1110
+    commentsToLikes: 0.037407
+    id: ck8kg0hkjgdno0j78wm4nrubw
     verified: false
-    hashtags: "#streamer, #fyp, #funny, #canada"
+    hashtags: "#warzone, #fyp, #cod, #hijabi"
   - username: "mrob29"
     fullname: >-
       Marissa Roberto
@@ -42,7 +66,7 @@ profiles:
     commentsToLikes: 0.143995
     id: ck8njn82eb58f0j7815ul8nz8
     verified: false
-    hashtags: "#leafsforever, #hockeytok, #toronto, #italiancheck"
+    hashtags: "#hockeytok, #toronto, #italiancheck, #leafsforever"
   - username: "coltonisbatman"
     fullname: >-
       Colton
@@ -55,6 +79,18 @@ profiles:
     id: ck8vy31j6t0jg0j78rgau6mme
     verified: false
     hashtags: "#mk11, #greenscreen, #absanteefather, #thorragnarok"
+  - username: "tejvirb23"
+    fullname: >-
+      tejvir bindra
+    bio: >-
+      NBA Edits | Toronto Raptors 🍁
+    location: "Canada"
+    followers: 12800
+    engagement: 1517
+    commentsToLikes: 0.075220
+    id: ck9tua761klmt0j78ngymsdn5
+    verified: false
+    hashtags: "#viral, #gta5, #foryou, #fyp"
   - username: "_ivorytowers"
     fullname: >-
       Ivory Towers
@@ -66,7 +102,7 @@ profiles:
     commentsToLikes: 0.057986
     id: ck8qfxk8cypvd0j78rmtgxeiw
     verified: false
-    hashtags: "#rpdr, #deadbydaylight, #dragracecanada, #toronto"
+    hashtags: "#dragqueen, #streamer, #drag, #rpdr"
   - username: "andrewwgao"
     fullname: >-
       andrew
@@ -83,48 +119,12 @@ profiles:
     fullname: >-
       dillon 
     bio: >-
-      Photographer Toronto 🇨🇦 To book a shoot, message me through my website! ⬇️
+      Photographer / Graphic Designer Toronto 🇨🇦 Let’s make something amazing
     location: "Canada"
     followers: 10500
-    engagement: 929
-    commentsToLikes: 0.027513
+    engagement: 1258
+    commentsToLikes: 0.007622
     id: ck8kg0jx5ge3w0j78himdm2ky
     verified: false
-    hashtags: "#photoshoot, #photographer, #howto, #trending"
-  - username: "jeremydawson18"
-    fullname: >-
-      TheRealJerdaw
-    bio: >-
-      17 toronto,Canada FullSend
-    location: "Canada"
-    followers: 2289
-    engagement: 969
-    commentsToLikes: 0.033398
-    id: ck92uyimio8230j78ged3i39t
-    verified: false
-    hashtags: "#foru, #foryou, #fyp, #funny"
-  - username: "edgemonk"
-    fullname: >-
-      Edwin Joseph
-    bio: >-
-      Just Me The Real Me Sports-Gaming
-    location: "Canada"
-    followers: 2737
-    engagement: 1016
-    commentsToLikes: 0.068476
-    id: ckb9ppa93kz840j2327cxnwxm
-    verified: false
-    hashtags: "#allstarmoment, #greenscreen, #femaleathelte, #ripkobe"
-  - username: "skynextech"
-    fullname: >-
-      Skynex Tech
-    bio: >-
-      Visit our official site at www.skynextech.com.
-    location: "Canada"
-    followers: 70900
-    engagement: 721
-    commentsToLikes: 0.025481
-    id: ckcjcenqg9g6r0j23e5rbpo88
-    verified: false
-    hashtags: "#robot, #foryou, #ai, #fyp"
+    hashtags: "#new, #vogue, #portrait, #graphicdesign"
 ---

@@ -1,12 +1,36 @@
 ---
-title: Top 10 Cinema Instagram Influencers In Poland In 2023
+title: Top 10 Cinema Instagram Influencers In Poland In 2024
 description: >-
-  Find top cinema Instagram influencers in Poland in 2023. Most popular hashtags: #cinematography #portrait #cinematic #photographer.
+  Find top cinema Instagram influencers in Poland in 2024. Most popular hashtags: #moodygrams #cinematic #cinematography #polishgirl.
 platform: Instagram
-hits: 66
-text_top: See the top-rated Instagram profiles on inBeat.
-text_bottom: Our search engine aggregates 66 Instagram influencers like this in Poland for you to work with.
+hits: 80
+text_top: Analyze the most popular Instagram accounts on inBeat.
+text_bottom: Our database holds 80 Instagram influencers like this in Poland for you to pitch.
 profiles:
+  - username: "kasiamvp"
+    fullname: >-
+      Kasia 🫧
+    bio: >-
+      living cinematic life📍Warsaw collab: kasiamvp.contact@gmail.com
+    location: "Poland"
+    followers: 270164
+    engagement: 1666
+    commentsToLikes: 0.008670
+    id: ckaowesot8mbq0i78nv71v5rl
+    verified: false
+    hashtags: "#selfportrait, #cinematography, #cinematic, #reelvideo"
+  - username: "lasmutniak"
+    fullname: >-
+      Kasia Smutniak
+    bio: >-
+      ‚MUR’ - sept @tiff_net - oct @romacinemafest - 20 ottobre al cinema @fandango.sales - dic @watchdocs_festival
+    location: "Poland"
+    followers: 499257
+    engagement: 237
+    commentsToLikes: 0.012902
+    id: ck1362gs44fml0i19xxqbmyfe
+    verified: false
+    hashtags: "#murontour, #roff18, #mur, #murdocumentario"
   - username: "benedict_spence_dop"
     fullname: >-
       Benedict Spence
@@ -31,18 +55,6 @@ profiles:
     id: ck5bzemg0qzpf0i1157qpcxdo
     verified: false
     hashtags: "#gmaster, #sony, #poland, #warsaw"
-  - username: "pawelzalejski"
-    fullname: >-
-      P A W E Ł  Z A L E J S K I
-    bio: >-
-      Cinematographer and Photographer Ambasador Zhiyun And Voigtlander 🏠 Kościelisko
-    location: "Poland"
-    followers: 23101
-    engagement: 561
-    commentsToLikes: 0.019885
-    id: ck8swkhdbee3n0j78435klnw6
-    verified: false
-    hashtags: "#tatrymountains, #tatry360, #tatrywysokie, #tatrasadventures"
   - username: "giepetv"
     fullname: >-
       GRZEGORZ PΛJΛK
@@ -67,64 +79,52 @@ profiles:
     id: ck0w5w12o5p6s0i192itx2jmc
     verified: false
     hashtags: "#imaginarymagnitude, #gominimalmag, #verybusymag, #takemagazine"
-  - username: "kiszka.ziemniaczana"
+  - username: "freakery"
     fullname: >-
-      Ewelina co robi super krupnik
+      Joanna Hoffmann | nostalgic dreamer
     bio: >-
-      Gotuj ze mną na story, zanim ci zwiędną kalafiory! ✨100 zapisanych przepisów w wyróżnionych relacjach ✨ i cała masa zwariowanych obrazków poniżej 🎥
+      ➳Odwiedź mnie na YouTube/Spotify ➸ Freakery ➳Porozmawiamy o historii mody. I nie tylko. ➳Co wtorek cykl #vintage #starejestnowe 💌info@thefreakery.com
     location: "Poland"
-    followers: 13321
-    engagement: 823
-    commentsToLikes: 0.065663
-    id: ck9wddti2f6xz0j782p75wplw
+    followers: 27039
+    engagement: 479
+    commentsToLikes: 0.209513
+    id: ckwzuvfkeyhlr0j2322l8oiyg
     verified: false
-    hashtags: "#inspiracje, #launchdsigns, #wsypialni, #apricotmagazine"
-  - username: "arcadiusmauritzofficial"
+    hashtags: "#fineartphotography, #flowersofinstagram, #vintageinspired, #artofvisuals"
+  - username: "poems.wonderland"
     fullname: >-
-      Arcadius Mauritz
+      Ola Poems
     bio: >-
-      Commercial + Art 📸🎥 Education 👨🏻‍🏫 PL/ENG/FR 🌍 #staycinematic 👁#coffeelover ☕️ 📩 hello@arcadius.co Ambassador @olympus_polska @peakdesignpl WORKSHOP
+      𝐂𝐨𝐥𝐥𝐞𝐜𝐭𝐢𝐧𝐠 𝐬𝐮𝐧𝐬𝐞𝐭𝐬 𝐚𝐧𝐝 𝐩𝐚𝐬𝐬𝐩𝐨𝐫𝐭 𝐬𝐭𝐚𝐦𝐩𝐬 ♡ ☾ traveller, photographer, feuilleton writer ✲ dogmum, foodlover, cottage home ✿ still in search of unicorn ↴
     location: "Poland"
-    followers: 15260
-    engagement: 239
-    commentsToLikes: 0.064536
-    id: ck0ueetzvl4t40i19j46izoar
+    followers: 50096
+    engagement: 744
+    commentsToLikes: 0.030522
+    id: ck0w1fb0uj1z50i19xfvw4b39
     verified: false
-    hashtags: "#portraitshooterz, #polskifotograf, #womeninframe, #staycinematic"
+    hashtags: "#sicilianstyle, #polskajestpiekna, #decembermagic, #aestheticallypleasing"
   - username: "krol.jpg"
     fullname: >-
-      Mateusz Król
+      Mateusz Król — krol.jpg
     bio: >-
-      3d artist based in 🇵🇱 Warsaw available for freelance 🌎 contact: 📩 me@mateuszkrol.com
+      Filling the gap between real and surreal. Based in 🇵🇱 Warsaw. #3dartist — Enquiries to: me@mateuszkrol.com
     location: "Poland"
-    followers: 7358
-    engagement: 538
-    commentsToLikes: 0.038327
+    followers: 28626
+    engagement: 1333
+    commentsToLikes: 0.032902
     id: ck0u74grr3pn00i19iaw6pz9p
     verified: false
-    hashtags: "#3d, #colors, #instaart, #art"
-  - username: "nil_powar_96"
+    hashtags: "#space, #c4d, #withgalaxy, #octanerender"
+  - username: "arcadiusmauritzofficial"
     fullname: >-
-      ColouredLensStudio
+      Arcadius Mauritz | Commercial & Art Photo/Video
     bio: >-
-      ɪɴᴅɪᴀ | ᴍᴀʜᴀʀᴀsʜᴛʀᴀ कोल्हापुरी🍃 ɪᴛ'ꜱ ᴀʟʟ ᴀʙᴏᴜᴛ ᴘʜᴏᴛᴏɢʀᴀᴘʜʏ📸 ▪ᴋɪᴅs👶🏻 ▪ᴘᴏʀᴛʀᴀɪᴛs😎 ▪ᴘʀᴇ ᴡᴇᴅᴅɪɴɢs ▪ғᴏᴏᴅs🍽️ ▪ᴀʀᴛs🎨 #nileshpowarphotography @nilesh_powar_09
+      Pro Content Creator & Creative📸🎥 Zwycięzca Viva! Photoawards w kategorii MODA📸 Uczestnik Hell’s Kitchen Polska 8🔥 Kompozytor 🎹 Po więcej KLIK👇🏽
     location: "Poland"
-    followers: 34281
-    engagement: 321
-    commentsToLikes: 0.021355
-    id: ck5bxm7wynzi00i11ih0frl5p
+    followers: 16271
+    engagement: 169
+    commentsToLikes: 0.047322
+    id: ck0ueetzvl4t40i19j46izoar
     verified: false
-    hashtags: "#kids, #babybunny, #babyprops, #weddingcinematography"
-  - username: "motionhead"
-    fullname: >-
-      Charlie Rizek
-    bio: >-
-      TRINITY|Steadicam|Camera Op ARRI CSS specialist Trinity operator @1917 🇬🇧UK based - works globally 🌍
-    location: "Poland"
-    followers: 5814
-    engagement: 967
-    commentsToLikes: 0.040181
-    id: ck5hpm1bxrky90i1134xgwqwt
-    verified: false
-    hashtags: "#oneshot, #georgemackay, #trinityoperator, #filmmaking"
+    hashtags: "#newyear2021, #lingeriemodel, #chasingemotions, #polishman"
 ---

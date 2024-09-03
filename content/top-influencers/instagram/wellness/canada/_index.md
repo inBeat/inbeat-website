@@ -1,130 +1,130 @@
 ---
-title: Top 10 Wellness Instagram Influencers In Canada In 2023
+title: Top 10 Wellness Instagram Influencers In Canada In 2024
 description: >-
-  Find top wellness Instagram influencers in Canada in 2023. Most popular hashtags: #healthylifestyle #ad #momfashion.
+  Find top wellness Instagram influencers in Canada in 2024. Most popular hashtags: #canadianblogger #healthylifestyle #toronto.
 platform: Instagram
-hits: 96
-text_top: Discover the most popular Instagram profiles on inBeat.
-text_bottom: Our database holds 96 Instagram influencers like this in Canada for you to pitch.
+hits: 314
+text_top: See the top-rated Instagram accounts on inBeat.
+text_bottom: inBeat has 314 Instagram influencers like this in Canada for you to contact.
 profiles:
-  - username: "ashleygulakow"
+  - username: "wooitsmelody"
     fullname: >-
-      Ashley | Canadian Mom
+      MELODY 🐙
     bio: >-
-      Your new Mom friend✨ Life, Laughs, Wellness + Daily Chaos Shop🛍@hereforthewellness ✉️ashleygulakow@outlook.com Links + Discount Codes👇
+      toronto | soon: nyc 🗽✨ —— fashion, wellness, and travel ✉️ wooitsmelody@gmail.com
     location: "Canada"
-    followers: 16119
-    engagement: 127
-    commentsToLikes: 0.144415
-    id: ckqqc150ix4zl0j23liwrr0wo
+    followers: 6540
+    engagement: 473
+    commentsToLikes: 0.193713
+    id: cktdxnzz18n8z0j234wse30mt
     verified: false
-    hashtags: "#parentsbelike, #winnipeg, #healthyrecipes, #easyrecipes"
-  - username: "kat.vorobiev"
+    hashtags: "#barbiecore, #diycandle, #couplegoals, #barbie"
+  - username: "azarialuvsu"
     fullname: >-
-      Kat ✨ Positive Motherhood | Amazon | Wellness
+      A Z A R I A
     bio: >-
-      ✨Positive Motherhood ✨Real life Amazon Finds ✨Family meals and activities ✨ Wellness Come for the stories & shop my looks ⬇️
+      Lifestyle ★ Beauty ★ Wellness ★ Travel ★ Self Love 📍Toronto -> Currently: NC 💌 azarialuvsu@gmail.com CEO & Founder @digitaleyesinc
     location: "Canada"
-    followers: 13536
-    engagement: 124
-    commentsToLikes: 0.178125
-    id: ckt8qrrss68kq0j236s4x1djc
+    followers: 22050
+    engagement: 15756
+    commentsToLikes: 0.236991
+    id: ck5zp4iyjrz710i14hd8ttob6
     verified: false
-    hashtags: "#instamom, #zara, #stylediary, #ootd"
-  - username: "kgmtl"
+    hashtags: "#torontoblogger, #torontostyle, #canadianblogger, #styleoftheday"
+  - username: "angie_campanelli"
     fullname: >-
-      Katherine Garbarino
+      ᴀɴɢɪᴇ ꜱᴍɪᴛʜ-ᴄᴀᴍᴘᴀɴᴇʟʟɪ
     bio: >-
-      Founder @girlslivingwell ✨ 👩🏽‍🤝‍👩🏻 Your virtual BFF 🍋 Health & Wellness 💅🏽 Beauty & Skincare 🎞 Daily Tips & Tricks 💌 emma@kg-mtl.com
+      ▪️Lifestyle, Travel, Wellness & Mindset 😻😼@sofya.and.figs 📲Video Marketing Coach/Producer @notonbrand.ca 💻 Marketing & Ad PT Prof @mohawk.college
     location: "Canada"
-    followers: 89793
-    engagement: 379
-    commentsToLikes: 0.009993
-    id: ck55ke17yz3wj0i11cnnamu23
+    followers: 32641
+    engagement: 438
+    commentsToLikes: 0.124830
+    id: ckxhnsjdr67790j23j2xapvgt
     verified: false
-    hashtags: "#protectyoface, #kgmtlxardene, #welcometothelowerlevel, #dondala"
-  - username: "thestylishwordsmith"
+    hashtags: "#canadianmade, #burlingtonmoms, #ad, #thecampanellis"
+  - username: "laravogler"
     fullname: >-
-      𝐝𝐞𝐛𝐛𝐢𝐞 𝐩𝐨𝐡 | conscious fashion
+      Lara Vogler
     bio: >-
-      wellness & sustainable lifestyle ✞ follower 📍vancouver, bc 💌: thestylishwordsmith@gmail.com 𝗡𝗘𝗪 𝗕𝗟𝗢𝗚 𝗣𝗢𝗦𝗧: #Pinterest101 📌 + More Influencer Tips⚡️
+      fashion + beauty + wellness creator 📍 ottawa, canada ✉️ laravogler@outlook.com 📹 tiktok: laravoglerr
     location: "Canada"
-    followers: 21625
-    engagement: 659
-    commentsToLikes: 0.414957
-    id: ck14itmkxh4140i19bnzl0j3q
+    followers: 6037
+    engagement: 552
+    commentsToLikes: 0.159968
+    id: ckyy1pgzn0vy40j23fq2ajeon
     verified: false
-    hashtags: "#sustainablebaddie, #shoplocalcanada, #dailyhivestyle, #wearcanadaproud"
-  - username: "lifeofshimmy"
+    hashtags: "#falloutfitideas, #minimalstyle, #effortlessstyle, #fashionreel"
+  - username: "patriciaberenzon"
     fullname: >-
-      Shimmy | Mom Blogger | Doula
+      Patricia Berenzon
     bio: >-
-      Motherhood + Lifestyle Doula |Maternal Wellness advocate 💁🏽‍♀️ hang w/ me in my stories✨ 💌 Dm | Email for collabs ➡️ @birthservicesbyshim 📍Winnipeg
+      wellness• lifestyle • fashion • beauty Toronto + Dubai 💌patriciabere37@gmail.com ⬇️book a call with me + links
     location: "Canada"
-    followers: 5224
-    engagement: 869
-    commentsToLikes: 0.187756
-    id: ck6tphaoujv5b0j7152lbnbth
+    followers: 79852
+    engagement: 471
+    commentsToLikes: 0.028530
+    id: cksqx09jnbn5y0j23kexelk4q
     verified: false
-    hashtags: "#winwednesdays, #lifeofshimmy, #happybirthdaydaughter, #saintvincentandthegrenadines"
-  - username: "brehesch"
+    hashtags: "#ad, #noughtyhaircare, #canadagetsnoughty, #sogooditsnoughty"
+  - username: "lifebybaneet"
     fullname: >-
-      𝐁𝐑𝐄𝐀𝐍𝐍𝐄 𝐇𝐄𝐒𝐂𝐇
+      Baneet
     bio: >-
-      Ontario, Canada My life in little squares 🤍 lifestyle, wellness & everything in between Owner of @mindfulmovement__
+      ootds & wellness vancouver ☕️⚡️☁️🪐💫🤍🐝
     location: "Canada"
-    followers: 11654
-    engagement: 474
-    commentsToLikes: 0.412558
-    id: ck5cglpp4p3d70i11quaoyrzv
+    followers: 11984
+    engagement: 535
+    commentsToLikes: 0.058350
+    id: ckyu5qowsxkq90j23xp7o5zf3
     verified: false
-    hashtags: "#catstagram, #kicksugar, #smartsweets, #catsofinstagram"
-  - username: "brittchurchill"
+    hashtags: "#discoverunder50k, #vancouver, #zaraoutfit, #vancouverblogger"
+  - username: "glimpse_of_gab"
     fullname: >-
-      ☀WhatUp_B☀
+      Gabrielle Thomas
     bio: >-
-      👩🏻‍⚕️ Pre-Nursing NSC & UNLV 💚Health & Wellness Advocate @wellby_app 📆Bookings: cathy@plutinomodels.com 💍My love @mishac911
+      • first time mom • wellness | lifestyle • nova scotia, canada • glimpse.of.gab@gmail.com
     location: "Canada"
-    followers: 117089
-    engagement: 106
-    commentsToLikes: 0.037258
-    id: ck1350rw5z48f0i19bo4pxwpe
+    followers: 16829
+    engagement: 20270
+    commentsToLikes: 0.701096
+    id: ckaoz7y7wkrnc0i78th3vdj91
     verified: false
-    hashtags: "#skinnymint, #fuckcancer, #ad, #morninghikes"
-  - username: "goodhealthprettylife"
+    hashtags: "#postpartumjourney, #boymom, #travellingwithbaby, #rabaccroatia"
+  - username: "courtlynf"
     fullname: >-
-      NICOLE.
+      Courtlyn Fazakas
     bio: >-
-      toronto blogger 🧚‍♀️ health • wellness • lifestyle @bodyrebirth.co launching 2021 .
+      daily movement for your 🧠 founder @lifeonthecourt_app ride instructor @psyclelondon trainer/ wellness/ workouts/ lifestyle move with me:
     location: "Canada"
-    followers: 18313
-    engagement: 694
-    commentsToLikes: 0.337533
-    id: ckf5m1tv0rxyx0j23rd5kanul
+    followers: 16213
+    engagement: 415
+    commentsToLikes: 0.040255
+    id: ck139s1tqmv160i19h0691eip
     verified: false
-    hashtags: "#partner, #ad, #vistaambassador, #vistamagazine"
-  - username: "des_lifts_"
+    hashtags: "#fitnessinstructor, #fitnessmotivation, #mentalhealthmatters, #fitnessmindset"
+  - username: "_madswellness"
     fullname: >-
-      𝐃𝐞𝐬𝐩𝐢𝐧𝐚 𝐒𝐭𝐚𝐢𝐤𝐨𝐬 🦋
+      Maddi Cerasuolo | UGC & Content Creator
     bio: >-
-      👙 CPA Bikini ➡️ Road to Wellness ✨ Be better than yesterday 💪🏼 @teamludachris Athlete 💥 @popeyesburnaby_coquitlam Ambassador
+      🍩❤️‍🔥🥑 🏋🏼‍♀️ Your realistic health + wellness bestie @mind.body.mingle @therosewoodsocial 💌maddi_cerasuolo@hotmail.com
     location: "Canada"
-    followers: 3475
-    engagement: 1081
-    commentsToLikes: 0.075894
-    id: ck8t3t42s4e680j788uwc3b0d
+    followers: 3229
+    engagement: 438
+    commentsToLikes: 0.079781
+    id: clmwam00zpm3i0j08wr7zyww9
     verified: false
-    hashtags: "#bootybuilding, #whateverittakes, #fitnessmodel, #nopainnogain"
-  - username: "yayjoon"
+    hashtags: "#intuitiveeating, #foodie, #tastetest, #selflove"
+  - username: "courtneymwatt"
     fullname: >-
-      joon!
+      Courtney Beggs
     bio: >-
-      〰 choosing health, wellness & joy 〰 toronto, canada
+      ✨Skincare, Haircare, Beauty, Health & Wellness🌿 Vancouver, Canada 🇨🇦
     location: "Canada"
-    followers: 2601
-    engagement: 1512
-    commentsToLikes: 0.250462
-    id: ckaorspayol0x0i78xnu5d8er
+    followers: 9450
+    engagement: 518
+    commentsToLikes: 0.699098
+    id: cln109wof60em0j089vesqw2l
     verified: false
-    hashtags: "#picnicparty, #stopasianhate, #sourmelonbitescanada, #quarantinebirthday"
+    hashtags: "#evahairnyc, #helloimeva, #haircaretips, #evanycgiftedme"
 ---

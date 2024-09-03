@@ -1,12 +1,72 @@
 ---
-title: Top 10 Illustrators Instagram Influencers In Brazil In 2023
+title: Top 10 Illustrators Instagram Influencers In Brazil In 2024
 description: >-
-  Find top illustrators Instagram influencers in Brazil in 2023. Most popular hashtags: #illustration #art #draw.
+  Find top illustrators Instagram influencers in Brazil in 2024. Most popular hashtags: #art #tbt #desenho.
 platform: Instagram
-hits: 140
-text_top: See the most popular Instagram influencers on inBeat.
-text_bottom: Our database aggregates 140 Instagram influencers like this in Brazil for you to contact.
+hits: 146
+text_top: Discover the most popular Instagram accounts on inBeat.
+text_bottom: inBeat holds 146 Instagram influencers like this in Brazil for you to contact.
 profiles:
+  - username: "giovannirochat"
+    fullname: >-
+      Giovanni Rochat
+    bio: >-
+      ⭐ Children’s Illustrator ⭐ giovannirochart@gmail.com ⭐ Comissões Abertas / Open Commissions
+    location: "Brazil"
+    followers: 21589
+    engagement: 2694
+    commentsToLikes: 0.014978
+    id: cl6okxt9oln140i236ucn9tta
+    verified: false
+    hashtags: "#dtiys, #ilustrartransforma, #drawthisinyourstyle, #teamalaskinhas"
+  - username: "drill18k"
+    fullname: >-
+      Drill
+    bio: >-
+      📍 Brasília / SP | criador de conteúdo | illustrator Freelancer 🎭 📥publicidade: @cassio.santos18 TikTok (+260.000Mil)
+    location: "Brazil"
+    followers: 102716
+    engagement: 6699
+    commentsToLikes: 0.088656
+    id: ckap5yczvdoig0i78miv8lns6
+    verified: false
+    hashtags: "#traphouse, #reactbrasil, #2pacshakur, #rapper"
+  - username: "tatsurokiuchi"
+    fullname: >-
+      Tatsuro Kiuchi 木内達朗
+    bio: >-
+      イラスト、絵本、マンガ、油絵、エッセイなどを制作しています。Tokyo based illustrator, painter. Commissions open. Paintings @kiuchitatsuro
+    location: "Brazil"
+    followers: 39757
+    engagement: 339
+    commentsToLikes: 0.004206
+    id: ck6uc5guidmqi0j718kehi6m4
+    verified: false
+    hashtags: "#tokitime, #caleblandryjones, #doodle, #drawing"
+  - username: "priii_barbosa"
+    fullname: >-
+      Pri Barbosa
+    bio: >-
+      Muralist • Painter • Illustrator ✷ priscilabarbosa@aborda.com.br Agenciada por @aborda.arte.
+    location: "Brazil"
+    followers: 107607
+    engagement: 157
+    commentsToLikes: 0.014969
+    id: ck0ub1vkbdjkt0i19giykol2o
+    verified: false
+    hashtags: "#figurativepainting, #muralism, #streetart, #partiupran"
+  - username: "joeslleyrocha"
+    fullname: >-
+      ✎ Joeslley Rocha
+    bio: >-
+      ⌾ Fashion Illustrator & Designer ⌾ Contact: joeslleyart@gmail.com ☆ Personal: @joeslleyr
+    location: "Brazil"
+    followers: 110075
+    engagement: 216
+    commentsToLikes: 0.012094
+    id: ck0u8rvc184c60i19y4o03ll8
+    verified: false
+    hashtags: "#croquidemoda, #tbt, #halloween, #croqui"
   - username: "vanebeckman"
     fullname: >-
       Vanessa Beckman
@@ -18,7 +78,7 @@ profiles:
     commentsToLikes: 0.127821
     id: ck8tctzcx0o8u0j789juzksd8
     verified: false
-    hashtags: "#anime, #android18, #photography, #morena"
+    hashtags: "#dbz, #nerdgirl, #cosplaygirl, #goku"
   - username: "brancoarthur"
     fullname: >-
       Arthur Branco
@@ -67,64 +127,4 @@ profiles:
     id: ck602ckckh4pf0i14ay8kvh0p
     verified: false
     hashtags: "#tattooartist, #finelinetattoo, #tattooworld, #tattoolove"
-  - username: "eudener"
-    fullname: >-
-      DENER BORDÃN™
-    bio: >-
-      ✨ Me segue que os filtros aparecem 👤 Visual Designer & Illustrator 📌 Brazil - Florianópolis
-    location: "Brazil"
-    followers: 13690
-    engagement: 721
-    commentsToLikes: 0.025773
-    id: ck0w5t77d5bpp0i19jghacbvo
-    verified: false
-    hashtags: "#fotounivali"
-  - username: "freitasdesenhos"
-    fullname: >-
-      Ezequiel Freitas 🇧🇷
-    bio: >-
-      Caricaturist/Illustrator Commission caricature and illustration Direct and email orders. Encomendas via direct e email.
-    location: "Brazil"
-    followers: 8494
-    engagement: 412
-    commentsToLikes: 0.067214
-    id: ck8t6m8ose3pf0j789gaht62j
-    verified: false
-    hashtags: "#bodybuildinglifestyle, #dailyart, #deputadofederal, #cear"
-  - username: "bya.brasil"
-    fullname: >-
-      Bya Brasil 🦂
-    bio: >-
-      ✶ j u s t s u r r e a l a r t ✶ ✶ Tattoo artist, illustrator & content creator. ✶ São Paulo - ateliê privado ✶ byabrasiltattoo@gmail.com
-    location: "Brazil"
-    followers: 45268
-    engagement: 442
-    commentsToLikes: 0.012406
-    id: ck6u5sc1rbfz60j71l684uy9h
-    verified: false
-    hashtags: "#blackart, #tttism, #tattoodo, #blackworksubmission"
-  - username: "anna.charlie"
-    fullname: >-
-      anna maeda
-    bio: >-
-      illustrator based in brazil ☁️✏️ 🌱 email me : oi.annacharlie@gmail.com
-    location: "Brazil"
-    followers: 25484
-    engagement: 487
-    commentsToLikes: 0.023773
-    id: ck0w57na62at60i1963km873j
-    verified: false
-    hashtags: "#illustration, #illustrationartists, #illust, #gouache"
-  - username: "samuelreis.art"
-    fullname: >-
-      Samuel Reis
-    bio: >-
-      Ilustrador e Designer de Personagens Illustrator and Character Designer From Brazil 🇧🇷
-    location: "Brazil"
-    followers: 40803
-    engagement: 556
-    commentsToLikes: 0.170155
-    id: ck8t5znodbr8g0j78le5r1mhk
-    verified: false
-    hashtags: "#digitalpainting, #nudrawings, #illustration, #digitalartist"
 ---

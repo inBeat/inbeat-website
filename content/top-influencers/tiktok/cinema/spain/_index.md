@@ -1,11 +1,11 @@
 ---
-title: Top 10 Cinema TikTok Influencers In Spain In 2023
+title: Top 10 Cinema TikTok Influencers In Spain In 2024
 description: >-
-  Find top cinema TikTok influencers in Spain in 2023. Most popular hashtags: #fyp #foryou #viral #foryoupage.
+  Find top cinema TikTok influencers in Spain in 2024. Most popular hashtags: #fyp #foryou #foryoupage #viral.
 platform: TikTok
-hits: 10
-text_top: Identify the best TikTok accounts on inBeat.
-text_bottom: Our search engine holds 10 TikTok influencers like this in Spain for you to pitch.
+hits: 11
+text_top: Discover the top-rated TikTok accounts on inBeat.
+text_bottom: Our database holds 11 TikTok influencers like this in Spain for you to contact.
 profiles:
   - username: "andriu_fpv"
     fullname: >-
@@ -67,6 +67,18 @@ profiles:
     id: ckacjfkju7bg30i78o8v9y950
     verified: false
     hashtags: "#travel, #filmmaker, #parati, #photoshoot"
+  - username: "avidtechnology"
+    fullname: >-
+      Avid
+    bio: >-
+      #Avid | Powering Greater Creators
+    location: "Spain"
+    followers: 12100
+    engagement: 785
+    commentsToLikes: 0.026159
+    id: ck9kdo0fov3yp0j78g2c7o5l0
+    verified: false
+    hashtags: "#recording, #nle, #videoediting, #postproduction"
   - username: "mr_hamza_farooq"
     fullname: >-
       Hamza Farooq
@@ -115,16 +127,4 @@ profiles:
     id: ck9gpqj2c68ct0j78h9p63xmy
     verified: false
     hashtags: "#dccrew, #teamfrontube, #fyp, #newtrend"
-  - username: "sebaveron98"
-    fullname: >-
-      Seba Veron
-    bio: >-
-      Actor Humorista
-    location: "Spain"
-    followers: 8545
-    engagement: 664
-    commentsToLikes: 0.061249
-    id: cka0jz0ttk8um0i78kguw5ft6
-    verified: false
-    hashtags: "#greenscreen, #fyp, #haceuuu, #foryou"
 ---

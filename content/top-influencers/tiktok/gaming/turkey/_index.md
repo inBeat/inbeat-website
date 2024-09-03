@@ -1,11 +1,11 @@
 ---
-title: Top 10 Gaming TikTok Influencers In Turkey In 2023
+title: Top 10 Gaming TikTok Influencers In Turkey In 2024
 description: >-
-  Find top gaming TikTok influencers in Turkey in 2023. Most popular hashtags: #fyp #ke #foryou #pubg.
+  Find top gaming TikTok influencers in Turkey in 2024. Most popular hashtags: #fyp #ke #foryou #pubg.
 platform: TikTok
 hits: 8
-text_top: Identify the best TikTok accounts on inBeat.
-text_bottom: Our platform has 8 TikTok influencers like this in Turkey for you to collaborate.
+text_top: Discover the best TikTok profiles on inBeat.
+text_bottom: Our platform holds 8 TikTok influencers like this in Turkey for you to contact.
 profiles:
   - username: "rahmanygt"
     fullname: >-

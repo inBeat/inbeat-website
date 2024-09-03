@@ -1,11 +1,11 @@
 ---
-title: Top 10 Divers TikTok Influencers In France In 2023
+title: Top 10 Divers TikTok Influencers In France In 2024
 description: >-
-  Find top divers TikTok influencers in France in 2023. Most popular hashtags: #pourtoi #fyp #viral.
+  Find top divers TikTok influencers in France in 2024. Most popular hashtags: #pourtoi #viral #fyp.
 platform: TikTok
-hits: 36
+hits: 35
 text_top: See the top-rated TikTok influencers on inBeat.
-text_bottom: Our platform aggregates 36 TikTok influencers like this in France for you to collaborate.
+text_bottom: Our database aggregates 35 TikTok influencers like this in France for you to pitch.
 profiles:
   - username: "french.cliff.connection"
     fullname: >-

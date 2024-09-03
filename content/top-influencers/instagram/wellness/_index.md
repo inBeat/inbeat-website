@@ -1,130 +1,130 @@
 ---
-title: Top 10 Wellness Instagram Influencers In 2023
+title: Top 10 Wellness Instagram Influencers In 2024
 description: >-
-  Find top wellness Instagram influencers in 2023. Most popular hashtags: #ad #wellness #selfcare.
+  Find top wellness Instagram influencers in 2024. Most popular hashtags: #wellness #selfcare #minivlog.
 platform: Instagram
-hits: 5262
-text_top: Discover the top-rated Instagram influencers on inBeat.
-text_bottom: Our search engine aggregates 5262 Instagram influencers like this for you to collaborate.
+hits: 7730
+text_top: See the most popular Instagram profiles on inBeat.
+text_bottom: Our database has 7730 Instagram influencers like this for you to contact.
 profiles:
   - username: "lisablane.nutrition_wellness"
     fullname: >-
       Wellness Coach - Lisa Blane
     bio: >-
       Helping you create a healthy lifestyle beyond the plate. Author of ‘The Wellness Mindset’ - now available on Amazon! ⬇️
-    location: "United States"
-    followers: 75192
-    engagement: 164
-    commentsToLikes: 0.062766
+    location: "United Kingdom"
+    followers: 67057
+    engagement: 170
+    commentsToLikes: 0.067230
     id: ck15utzumoixi0i19k4w95ai3
     verified: false
     hashtags: "#wellness"
-  - username: "annierose.nelson"
+  - username: "drkristamarie"
     fullname: >-
-      Annie Rose Nelson
+      Kristamarie Collman MD
     bio: >-
-      NYC | life, wellness, favs, food tiktok @ annierosenelson ✉️ msannierose@gmail.com meal plan below
+      Wellness • Lifestyle • Beauty • Medicine 👩🏾‍⚕️ Founder @joinprose TheGlowUpDoctor™ 📧 info@drkristamarie.com 📍 Orlando, Fl but I ✈️
     location: "United States"
-    followers: 66355
-    engagement: 699
-    commentsToLikes: 0.006191
-    id: cl0cxzu0qgll50i23a9luo6oi
+    followers: 34680
+    engagement: 655
+    commentsToLikes: 0.005760
+    id: ck14jm6uql1qr0i19izl8rfl7
     verified: false
-    hashtags: "#workoutroutine, #motivationalquotes, #productive, #healthyliving"
-  - username: "rrayyme"
+    hashtags: "#motivation, #selflove, #wellness, #bewell"
+  - username: "camillia_lee"
     fullname: >-
-      Remi Ishizuka
+      Cam Lee | Vancouver, Canada
     bio: >-
-      Health | Wellness | Easy recipes | Lifestyle Co-Founder @clubhomebodies Join our 21 day challenge👇🏼
+      Fitness • Health • Wellness • Mom • Blogger Chinese • Malaysian • Canadian 👉@camleeyoga for my other account ✉️ bycamlee@gmail.com
     location: "United States"
-    followers: 377687
-    engagement: 414
-    commentsToLikes: 0.013939
-    id: ck0tztrryrlv90i19i3yavym2
-    verified: true
-    hashtags: "#targetfinds, #shopwithme, #hmxme, #skincare"
-  - username: "kirra.mov"
-    fullname: >-
-      Kirra Dickinson
-    bio: >-
-      🇺🇸🇯🇵⁣ ♡ Mgmt: @nextmodels ⁣ ♡ Lifestyle, Wellness, Mental Health⁣ ♡ Dickinsonkirra@gmail.com⁣⁣⁣⁣ / luis@nextmanagement.com
-    location: "United States"
-    followers: 101836
-    engagement: 1026
-    commentsToLikes: 0.009725
-    id: cl3u8mp8matcs0i238u8gj4gj
+    followers: 19017
+    engagement: 14679
+    commentsToLikes: 0.352205
+    id: ck5q17zv59pbd0i11r2350xna
     verified: false
-    hashtags: "#wellnessjourney, #morningvibes, #inspirationalreels, #minivlog"
-  - username: "kbfitusa"
+    hashtags: "#motherhoodinspired, #hbd, #motherhoodmoments, #vegansnacks"
+  - username: "cammpie"
     fullname: >-
-      KATIE🥊
+      Cami - Florida Content Creator 🌴
     bio: >-
-      ≘ 22 | Denver + CO spgs 🌍 ≘ 4th degree black belt in karate🥋 ≘ Health + wellness enthusiast🧘🏽 ≘ Powered by @gymshark 🦈
+      a relatable wife on a mission finding joy in His word, sunsets marriage, femininity, journaling fashion, travel & wellness! click link to shop my post
     location: "United States"
-    followers: 74597
-    engagement: 2547
-    commentsToLikes: 0.009460
-    id: cl4ipwlnnsa1u0i23nwgkjc0b
+    followers: 51666
+    engagement: 435
+    commentsToLikes: 0.069514
+    id: ck55j4i08w8xt0i11il6i2nkj
     verified: false
-    hashtags: "#gym, #fitnessmotivation, #fit, #workout"
-  - username: "meg.boggs"
+    hashtags: "#nordstrom, #ad, #love, #blessed"
+  - username: "chelseypecoy"
     fullname: >-
-      Meg Boggs
+      Chelsey
     bio: >-
-      🏋🏽‍♀️ powerlifter. author. self-lover. mother. ✨ confidence + fitness + wellness 📖 #fitnessforeverybody | #thankyoubody 📍 DFW 💌hello@megboggs.com
+      🍃 wellness, travel, food, film photography ✨ southern california 👩🏼‍🌾 founder + chef of @lightheartedkitchen
     location: "United States"
-    followers: 442726
-    engagement: 871
-    commentsToLikes: 0.011689
-    id: ck0w5n1yw4gk00i19u62dqgfa
-    verified: true
-    hashtags: "#healthierhappenstogether, #ivfjourney, #cvspartner, #fitnessforeverybody"
-  - username: "kennedybonham_"
+    followers: 44726
+    engagement: 1126
+    commentsToLikes: 0.022427
+    id: ck5zs8ag4y0fv0i14nu27w1lu
+    verified: false
+    hashtags: "#fallstyle, #fallfashion, #cabininthewoods, #ad"
+  - username: "janetdoubleu"
     fullname: >-
-      Kennedy Bonham
+      Janet Wang
     bio: >-
-      health & wellness ⚡️ @ehplabs & @inakapower code 'KENNEDY10' houston, texas TrainWithKennedy ✨👇🏽
+      〰️ Wellness in moderation✌🏼🫶🏼🌱〰️ 🎙@asianbossgirl 💌 contact.janetwang@gmail.com
     location: "United States"
-    followers: 119770
-    engagement: 1098
-    commentsToLikes: 0.011210
-    id: cl7i19kuptxul0i23f4u9t8fi
+    followers: 26571
+    engagement: 523
+    commentsToLikes: 0.011636
+    id: ck6udnvexm63f0j71ycpmql9f
     verified: false
-    hashtags: ""
-  - username: "nadiaboule"
+    hashtags: "#wephelenlove, #osaka, #tokyo, #kyoto"
+  - username: "thedailyschvitz"
     fullname: >-
-      Nadia Boule
+      The Daily Schvitz By Jordanna
     bio: >-
-      Life is what happens to you when you're busy making other plans. Wellness lifestyle lover @b_bynadiaboule
-    location: "Greece"
-    followers: 158914
-    engagement: 794
-    commentsToLikes: 0.008893
-    id: ck0vzvoqfb4gu0i19yceak34d
-    verified: false
-    hashtags: "#flowers, #modernparents, #9monthspregnant, #readytopop"
-  - username: "meaganjmitchell"
-    fullname: >-
-      Meagan Mitchell
-    bio: >-
-      📍LA Fashion | Beauty | Travel | Wellness @ayurveda.collective
+      lifestyle, wellness, outfits, and recipes 💌 thedailyschvitz@gmail.com 📍NYC/Hoboken
     location: "United States"
-    followers: 63235
-    engagement: 410
-    commentsToLikes: 0.002657
-    id: ck5bwid22lrd40i11q6bcipuy
+    followers: 10822
+    engagement: 580
+    commentsToLikes: 0.040297
+    id: ckf5rcvxdc88n0j23jhak1xoh
     verified: false
-    hashtags: "#ootd, #ad, #lookoftheday, #monday"
-  - username: "ochristine"
+    hashtags: "#ootd, #ad"
+  - username: "loveronnie"
     fullname: >-
-      O. Christine | Travel • Wellness • Outdoors
+      Ronnie Howard | Philly Influencer
     bio: >-
-      🌿 helping you travel + get outdoors for wellness 🇵🇷 afro latina with lupus 🎥 seen: OWN, CNN 📧 info@ochristine.com 👩🏽‍🏫 learn: getoutdoors101.com
+      ❤️ Lifestyle | Family | Fashion | Wellness ⭐️ Macy’s Style Crew 2024 📧 info@ronniehoward.com 📸 Real Life Model
     location: "United States"
-    followers: 24802
-    engagement: 5637
-    commentsToLikes: 0.072351
-    id: ckmw2p3x78u540j23ltwjjsce
+    followers: 49537
+    engagement: 543
+    commentsToLikes: 0.099967
+    id: ck5bxe82xnjwd0i111mh7rwqk
     verified: false
-    hashtags: "#nomadness, #optoutdoors, #shetravels, #traveldestinations"
+    hashtags: "#macyspartner, #macysstylecrew, #mahoganymarriage, #inmyheyday"
+  - username: "dianaajih"
+    fullname: >-
+      Diana Ajih | Self Care + Lifestyle
+    bio: >-
+      Empowering you to make time for yourself. self care • routines • lifestyle • wellness ✉ mgmt: diana@agencycliquish.com 📍los angeles
+    location: "United States"
+    followers: 59433
+    engagement: 454
+    commentsToLikes: 0.019826
+    id: cl8xt9ydvbi100i23tq9gqvim
+    verified: false
+    hashtags: "#cleanmyroom, #unwind, #sundayreset, #productivemorning"
+  - username: "wooitsmelody"
+    fullname: >-
+      MELODY 🐙
+    bio: >-
+      toronto | soon: nyc 🗽✨ —— fashion, wellness, and travel ✉️ wooitsmelody@gmail.com
+    location: "Canada"
+    followers: 6540
+    engagement: 473
+    commentsToLikes: 0.193713
+    id: cktdxnzz18n8z0j234wse30mt
+    verified: false
+    hashtags: "#barbiecore, #diycandle, #couplegoals, #barbie"
 ---

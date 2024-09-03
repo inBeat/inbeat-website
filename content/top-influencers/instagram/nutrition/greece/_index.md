@@ -1,36 +1,84 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In Greece In 2023
+title: Top 10 Nutrition Instagram Influencers In Greece In 2024
 description: >-
-  Find top nutrition Instagram influencers in Greece in 2023. Most popular hashtags: #nutrition #greece #fitness #breakfast.
+  Find top nutrition Instagram influencers in Greece in 2024. Most popular hashtags: #greece #fitness #nutrition #athens.
 platform: Instagram
-hits: 23
-text_top: Identify the most popular Instagram influencers on inBeat.
-text_bottom: Our database has 23 Instagram influencers like this in Greece for you to connect with.
+hits: 24
+text_top: Analyze the best Instagram profiles on inBeat.
+text_bottom: Our database aggregates 24 Instagram influencers like this in Greece for you to work with.
 profiles:
-  - username: "nikibrah"
-    fullname: >-
-      Nikita Udovichenko
-    bio: >-
-      The God of Hormones. 🏅 Nutrition, Hormones, Training Expert 🔬 Engineering MSc 💉 Biochemistry MSc 🌎 Professional 1:1 Fitness Coaching by me ⤵
-    location: "Greece"
-    followers: 104646
-    engagement: 572
-    commentsToLikes: 0.111176
-    id: ck6uds6okmu4e0j716i3573lp
-    verified: false
-    hashtags: ""
   - username: "koulourisdim"
     fullname: >-
       Dimitris Koulouris
     bio: >-
       Olympian Rio2016 - Swimming Fitness Trainer - Swimming Coach Owner of @_training_room_ @training_pool Sports Nutritionist, MSc Athens, Greece
     location: "Greece"
-    followers: 12946
-    engagement: 960
-    commentsToLikes: 0.184759
+    followers: 15517
+    engagement: 657
+    commentsToLikes: 0.009299
     id: ck8svsuwwckio0j78fv4nfwb1
     verified: false
-    hashtags: "#greece, #summer, #santorini, #protein"
+    hashtags: "#summeringreece, #fitness, #coach, #core"
+  - username: "nikibrah"
+    fullname: >-
+      Nikita Udovichenko
+    bio: >-
+      The God of Hormones. 🏅 Nutrition, Hormones, Training Expert 🔬 Engineering MSc 💉 Biochemistry MSc 🌎 Professional 1:1 Fitness Coaching by me ⤵
+    location: "Greece"
+    followers: 113620
+    engagement: 289
+    commentsToLikes: 0.098157
+    id: ck6uds6okmu4e0j716i3573lp
+    verified: false
+    hashtags: ""
+  - username: "nutrify.gr"
+    fullname: >-
+      Dimitris Athanasiadis
+    bio: >-
+      🧬 360° Nutrition + Wellness 🎓 Dietitian, Sports Nutrition MSc. HUA 📍 Glyfada-Chalandri 🥇 Taking professional athletes to the next level of nutrition 📈
+    location: "Greece"
+    followers: 13282
+    engagement: 319
+    commentsToLikes: 0.014552
+    id: ck6tsp5bz614k0j7144nqejsa
+    verified: false
+    hashtags: "#beach, #sea, #elitenutrition, #healthyhabits"
+  - username: "mnn_fit"
+    fullname: >-
+      Mnn_fit 🇫🇷
+    bio: >-
+      🏋🏻‍♀️. Sport 🏔.Hike ✈️.Travels ⚫️. @mymusclenutrition -15% MANON15 🥚. @roa_nutritionprotein -10% MANON 🧦. @hexxeeofficial -20% MNN20 ⬇️Mon programme⬇️
+    location: "Greece"
+    followers: 232864
+    engagement: 201
+    commentsToLikes: 0.015569
+    id: ck0tza0vmpox20i19hc1a0358
+    verified: false
+    hashtags: "#gymlife, #shape, #gym, #summer"
+  - username: "dietitians_diary"
+    fullname: >-
+      Vasiliki Vagiota🥑
+    bio: >-
+      Dietitian-Nutritionist|Eating Disorders&Obesity LowFodmap King's College London Founder @dietitians_diary Founder @la_clinique_athenienne Onlinecoach
+    location: "Greece"
+    followers: 64260
+    engagement: 232
+    commentsToLikes: 0.220566
+    id: ck6tiow5o14xu0j71oaaauacv
+    verified: false
+    hashtags: "#dietcoach, #recipe, #dietitians, #diatrofi"
+  - username: "manos_dimitroulis"
+    fullname: >-
+      Manos Dimitroulis
+    bio: >-
+      👨‍⚕️Clinical Dietitian-Nutritionist, Harokopeio Msc Sports Nutrition 🍎Manager of DIETSTORIES 📍Glyfada 📍Marousi (OAKA) New Book ⬇️ No Sugar Challenge
+    location: "Greece"
+    followers: 144947
+    engagement: 140
+    commentsToLikes: 0.054770
+    id: ckap0l6htqshn0i78zpwysyo3
+    verified: false
+    hashtags: "#dietcoaching, #dietitian, #nutritionist, #calorietracking"
   - username: "rania_stam"
     fullname: >-
       Rania Stamatiadou👙
@@ -55,18 +103,6 @@ profiles:
     id: ck6tparjkis0f0j71j7m0sr6a
     verified: false
     hashtags: "#athens, #olympic, #bwinners, #olympicstadium"
-  - username: "dietitians_diary"
-    fullname: >-
-      Vasso Vayiota🥑
-    bio: >-
-      Dietitian-Nutritionist|Eating Disorders&Obesity LowFodmap King's College London Founder @dietitians_diary ScientificCenter ☎️ 2100109566 ,6979739735
-    location: "Greece"
-    followers: 32126
-    engagement: 586
-    commentsToLikes: 0.305030
-    id: ck6tiow5o14xu0j71oaaauacv
-    verified: false
-    hashtags: "#dietitian, #swimwear, #mediterraneandiet, #instalifo"
   - username: "terzidoudespoina_dietitian"
     fullname: >-
       Δέσποινα Τερζίδου
@@ -91,40 +127,4 @@ profiles:
     id: ck6trvsg11dj60j711wugo4yg
     verified: false
     hashtags: "#beyourbestversion, #exercise, #athens, #fitness"
-  - username: "kliodim"
-    fullname: >-
-      Klio Dimitriadou
-    bio: >-
-      Clinical Nutritionist-Dietitian Eating Psychology Coaching Nutrition blogger
-    location: "Greece"
-    followers: 11617
-    engagement: 440
-    commentsToLikes: 0.038388
-    id: ck9hb9px5fy370j78k6lgvg9r
-    verified: false
-    hashtags: "#cheatmeal, #nutrition, #stayhealthy, #nutritionist"
-  - username: "koninax"
-    fullname: >-
-      🌸KONINA🌸Constantina Demetriou🌸
-    bio: >-
-      🍦MasterChef GR 3 🏋🏼‍♀️Fitness Addict 📹 YouTube channel: koninax
-    location: "Greece"
-    followers: 16695
-    engagement: 701
-    commentsToLikes: 0.036755
-    id: ckap53exua11j0i78xesnu6yi
-    verified: false
-    hashtags: "#leggings, #supplements, #sportswear, #gymsharkwomen"
-  - username: "merkis30"
-    fullname: >-
-      Giorgos Merkis Official
-    bio: >-
-      Στα όμορφα θα σας δω......Στα δύσκολα θα σας μετρήσω όμως...🇬🇷🇨🇾
-    location: "Greece"
-    followers: 16974
-    engagement: 1132
-    commentsToLikes: 0.012818
-    id: ck0vvjmsspfp90i19ul28o7se
-    verified: false
-    hashtags: "#nutrition, #pamelidl, #healthylifestyle, #happyfamily"
 ---

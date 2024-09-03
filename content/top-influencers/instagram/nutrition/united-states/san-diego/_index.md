@@ -1,36 +1,48 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In San Diego In 2023
+title: Top 10 Nutrition Instagram Influencers In San Diego In 2024
 description: >-
-  Find top nutrition Instagram influencers in San Diego in 2023. Most popular hashtags: #sandiego #fitness #motivation #california.
+  Find top nutrition Instagram influencers in San Diego in 2024. Most popular hashtags: #sandiego #nutrition #fitness #weightloss.
 platform: Instagram
-hits: 32
-text_top: Analyze the top-rated Instagram profiles on inBeat.
-text_bottom: Our platform has 32 Instagram influencers like this in San Diego, United States for you to work with.
+hits: 37
+text_top: Identify the most popular Instagram influencers on inBeat.
+text_bottom: inBeat holds 37 Instagram influencers like this in San Diego, United States for you to contact.
 profiles:
-  - username: "lotsoftotss"
+  - username: "sandiegoeats"
     fullname: >-
-      Tatiana Koval | Fitness
+      San Diego Eats
     bio: >-
-      💫Taking a Spiritual Approach to Fitness 🧘🏽‍♀️ Yoga Instructor 🌈Nutrition Coach 🌏Online Personal Trainer 🦋 Transformation Specialist
+      🍴 Promoting San Diego’s best restaurants! 📱 Founder of @strategysaucesocial 📧 Want to get your restaurant featured? Send us a DM!
     location: "United States"
-    followers: 22869
-    engagement: 161
-    commentsToLikes: 0.115396
-    id: ck6u9c8l1wpj10j71qvj9ymub
+    followers: 95989
+    engagement: 31
+    commentsToLikes: 0.091838
+    id: ckzoz9mbyjdmo0j236gbaspdh
     verified: false
-    hashtags: "#transformation, #fitspo, #health, #weightlosstransformation"
-  - username: "naturallyzuzu"
+    hashtags: "#sdeats, #sd, #visitsandiego, #bestfoodsandiego"
+  - username: "dietitiancass"
     fullname: >-
-      Zuliya Khawaja | NaturallyZuzu
+      Cassandra Lepore, MS, RD | Dietitian
     bio: >-
-      Welcome to Zuzuland! [She/Her] Plant-based chef Food Art & Recipes Certified in #plantbased #nutrition Clubhouse: @naturallyzuzu 📍San Diego, CA
+      ✨Registered Dietitian | NJ/NYC 🥬 Sustainable & Simple Nutrition Tips 🍒🍸🪩 💌 dietitiancass@gmail.com
     location: "United States"
-    followers: 133484
-    engagement: 284
-    commentsToLikes: 0.045703
-    id: ck0tzt2n9rioi0i1990c2tdzr
+    followers: 85352
+    engagement: 77
+    commentsToLikes: 0.045354
+    id: clmps8ska3bml0j08i16v6f1t
     verified: false
-    hashtags: "#imsomartha, #naturallyzuzu, #giveawayalert, #vegandessert"
+    hashtags: "#traderjoesfinds, #nutritionadvice, #midtwenties, #dietitian"
+  - username: "veganfitnessinfo"
+    fullname: >-
+      Vegan Fitness & Nutrition Info
+    bio: >-
+      📈 Grow your IG page ➡ @engagencyco 🌿 Vegan Fitness & Nutrition Tips 👇🏼 80% Off The Vegan Bundle 👇🏼
+    location: "United States"
+    followers: 241757
+    engagement: 19
+    commentsToLikes: 0.011069
+    id: ck0w2ymsnqrac0i19gnzjmh1m
+    verified: false
+    hashtags: "#eatclean, #vegansofinstagram, #plantbased, #plantbaseddiet"
   - username: "kelsiemichelle_"
     fullname: >-
       Kelsie | Strength+Nutrition
@@ -43,88 +55,76 @@ profiles:
     id: ck55kolovzrmz0i11cxw6ommd
     verified: false
     hashtags: "#empoweredwomen, #girlswholift, #nutrition, #gymgirls"
-  - username: "dietandfries"
+  - username: "theparentologist"
     fullname: >-
-      Michelle Le
+      Dr. Kim Van Dusen | PSYD | LMFT | RPT
     bio: >-
-      📍 San Diego ✝️ 🍟A place for healthy-ish lifestyle 💍 Wifey to @johnniesd 🥪 @sandwichemporium 📧DietandFries@gmail.com for collabs 👇 Nibmor
+      Parenting Expert | Child Play Therapist | Author 🎙️Host @theparentologistpodcast 🎥 @abc10news @fox5sandiego @laparentmag @kfiam640 📧 drkim@gb-dm.com
     location: "United States"
-    followers: 27663
-    engagement: 225
-    commentsToLikes: 0.029734
-    id: ck8t06wp1r0ee0j780rv79606
+    followers: 110703
+    engagement: 246
+    commentsToLikes: 0.047694
+    id: ck0w1xhgflmeh0i19whkhmfiu
     verified: false
-    hashtags: "#health, #love, #fit, #foodphotography"
+    hashtags: "#familytravelblog, #travelwithfamily, #parentingtips, #familytravelblogger"
+  - username: "emilyhayden"
+    fullname: >-
+      Emily Hayden
+    bio: >-
+      EVOLVE OR DIE Human Optimization Coach, apply to work with me 🎙️2M @evolvewithemilypodcast @evolvewithemilyretreats @transcendhrt @1stphorm @alphalete
+    location: "United States"
+    followers: 248353
+    engagement: 45
+    commentsToLikes: 0.048243
+    id: ck5zyay1c9jn20i14ugkr3ohq
+    verified: false
+    hashtags: "#healing, #consciousness, #evolve, #alphalete"
+  - username: "killermillermma"
+    fullname: >-
+      Juliana Miller 🇺🇸🇧🇷
+    bio: >-
+      👑TUF 30 champ @ufc 📍Where to next!? @boostmobile 🤎 @10thplanetsandiego Pro Fighter 🏊‍♀️ @def_sandiego
+    location: "United States"
+    followers: 96394
+    engagement: 756
+    commentsToLikes: 0.026621
+    id: ck5zvo8g24ls60i1488wudtqu
+    verified: false
+    hashtags: "#love, #killer, #sexy, #ufc"
+  - username: "gentrywest"
+    fullname: >-
+      Gentry Westbrook
+    bio: >-
+      SoCal livin’ wife to @mowest712 Owner @gencityfit
+    location: "United States"
+    followers: 9299
+    engagement: 187
+    commentsToLikes: 0.030609
+    id: ckqyz3ugn3u3h0j23rabi3yli
+    verified: false
+    hashtags: "#fitness, #trainer, #girlswholift, #ootd"
   - username: "amberkclarkston"
     fullname: >-
-      Certified Nutrition Coach
+      Amber Clarkston
     bio: >-
-      @glowup_nutrition I can help you ⬆️ energy and ⬇️ fat by implementing sustainable nutrition & lifestyle habits so you incredible!
+      Founder @glowup_nutrition | PN1 • PN2 Longevity focused Nutrition + Health Practitioner Weight Loss + Gut Health Expert #findyourglow Sign Up ⬇️
     location: "United States"
-    followers: 4673
-    engagement: 1108
-    commentsToLikes: 0.085462
+    followers: 10892
+    engagement: 437
+    commentsToLikes: 0.080465
     id: ck8t6tfg2emql0j7815j51uhq
     verified: false
-    hashtags: "#travel, #canyons, #mountains, #green"
-  - username: "tripsbygelly"
+    hashtags: "#arizona, #trees, #explore, #adventure"
+  - username: "shack_fit"
     fullname: >-
-      Gelly
+      John Shackleton, MS, CSCS
     bio: >-
-      From Sao Paulo, living in San Diego 👉🏼 @tipsbygelly 💌: trips@blogdagelly.com
+      Sports Performance • NFL, NBA, NCAA Let’s Work! 🔨 San Diego CA 📍 Training & Nutrition Platform👇
     location: "United States"
-    followers: 11877
-    engagement: 317
-    commentsToLikes: 0.033855
-    id: ckaoqxpcjkvvy0i78gz7rt8ec
+    followers: 53867
+    engagement: 105
+    commentsToLikes: 0.064670
+    id: ckmw1cret6dwf0j23qmo7a5g7
     verified: false
-    hashtags: "#socal, #instapassport, #exploringtheglobe, #visitcalifornia"
-  - username: "ayshahaleyy_"
-    fullname: >-
-      ＡＹＳＨＡ  ＨＡＬＥＹ🧿
-    bio: >-
-      📍San Diego, Ca •💘CG 🍕Usually in the gym or eating 🙏🏼Thankful » Grateful »Blessed 🦋𝘞𝘩𝘦𝘯 𝘺𝘰𝘶 𝘧𝘰𝘤𝘶𝘴 𝘰𝘯 𝘵𝘩𝘦 𝘨𝘰𝘰𝘥, 𝘵𝘩𝘦 𝘨𝘰𝘰𝘥 𝘨𝘦𝘵𝘴 𝘣𝘦𝘵𝘵𝘦𝘳.
-    location: "United States"
-    followers: 99646
-    engagement: 336
-    commentsToLikes: 0.012237
-    id: ck5zzvx6gciio0i14bplgbu32
-    verified: false
-    hashtags: "#squats, #strengthtraining, #sandiego, #daybyday"
-  - username: "graceandsalt"
-    fullname: >-
-      Justin + Keary + Oliver + Zola
-    bio: >-
-      💉 Mother + Daughter T1D’s 🌱 Holistic Nutrition (FNTP) ✏️ @theoneroomschool 🚎 RV living + reno 📍 San Diego
-    location: "United States"
-    followers: 54569
-    engagement: 596
-    commentsToLikes: 0.143705
-    id: ck0w3sp8uv2p20i19amepxp4v
-    verified: false
-    hashtags: "#athletapartner, #type1diabetes, #thousandtrails, #athletagirl"
-  - username: "briewilly"
-    fullname: >-
-      Brie Willy aka Chad Montano
-    bio: >-
-      Food | Lifestyle | Cocktails | Restaurant 📸 @westcottlighting Top Pro @traegergrills @snakeriverfarms 📍San Diego, CA
-    location: "United States"
-    followers: 37077
-    engagement: 147
-    commentsToLikes: 0.254035
-    id: ck0tterzk2ehy0i1955ditnnn
-    verified: false
-    hashtags: "#steak, #freshfood, #ad, #eeeeeats"
-  - username: "alpha_joe_"
-    fullname: >-
-      JOEY HALABI †🇮🇶 عراقي
-    bio: >-
-      CEO/Owner @alpha_nutrition_inc Coach/Athlete @gymmolly (Alpha20 = 20% off) PREP COACH & PERSONAL TRAINER 24 y/o San Diego Walk by faith, not by sight†
-    location: "United States"
-    followers: 23253
-    engagement: 382
-    commentsToLikes: 0.048477
-    id: ckf5n5i0dwtvq0j23lbp63a57
-    verified: false
-    hashtags: "#explorepage, #cutting, #gym, #aesthetic"
+    hashtags: "#performancetraining, #asrv, #sandiego, #philly"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Gaming TikTok Influencers In Finland In 2023
+title: Top 10 Gaming TikTok Influencers In Finland In 2024
 description: >-
-  Find top gaming TikTok influencers in Finland in 2023. Most popular hashtags: #foryou #fry #finland #gaming.
+  Find top gaming TikTok influencers in Finland in 2024. Most popular hashtags: #foryou #gaming #fyp #fry.
 platform: TikTok
 hits: 8
-text_top: Discover the best TikTok influencers on inBeat.
-text_bottom: inBeat has 8 TikTok influencers like this in Finland for you to pitch.
+text_top: Identify the top-rated TikTok influencers on inBeat.
+text_bottom: Our search engine holds 8 TikTok influencers like this in Finland for you to work with.
 profiles:
   - username: "mauton1"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.054743
     id: cka6l225d1cji0i78tg1uqznd
     verified: false
-    hashtags: "#fryp, #foryoupage, #foru, #music"
+    hashtags: "#fyp, #music, #foryoupage, #foryou"
   - username: "alexandertrivedi"
     fullname: >-
       Alexander Trivedi
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.040133
     id: cka0ols6h4dn00i78j5a25k9w
     verified: false
-    hashtags: "#diy, #ttsuomi, #tiktoksuomi, #ruokatiktok"
+    hashtags: "#diy, #suomifry, #suomi, #ruokavinkki"
   - username: "drippiniii"
     fullname: >-
       .
@@ -49,12 +49,12 @@ profiles:
     bio: >-
       🇫🇮 Ig: @saattowaki
     location: "Finland"
-    followers: 20300
-    engagement: 960
-    commentsToLikes: 0.051951
+    followers: 20000
+    engagement: 967
+    commentsToLikes: 0.035052
     id: ckad9h4uadm240i78lixn1ern
     verified: false
-    hashtags: "#dance, #cosplay, #weekend, #clown"
+    hashtags: "#weekend, #cosplay, #dance, #clown"
   - username: "amjad_187"
     fullname: >-
       Amjad 🎱
@@ -86,11 +86,11 @@ profiles:
       COYG🔴⚪❤️ ✉️ Juusteri1yt@gmail.com 🇫🇮🇫🇮
     location: "Finland"
     followers: 13600
-    engagement: 657
-    commentsToLikes: 0.031363
+    engagement: 674
+    commentsToLikes: 0.029955
     id: ckb9feu6i3qnf0j23cwf4mcqo
     verified: false
-    hashtags: "#football, #fifa, #fifaultimateteam, #finland"
+    hashtags: "#suomi, #fr, #xyzcba, #packluck"
   - username: "hoodr1ch"
     fullname: >-
       Hoodrich

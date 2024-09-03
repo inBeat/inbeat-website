@@ -1,11 +1,11 @@
 ---
-title: Top 10 Instagram Influencers In Ankara In 2023
+title: Top 10 Instagram Influencers In Ankara In 2024
 description: >-
-  Find top Instagram influencers in Ankara in 2023. Most popular hashtags: #ankara #cekilis #izmir.
+  Find top Instagram influencers in Ankara in 2024. Most popular hashtags: #amigurumipatterns #amigurumidoll #ankarayedog.
 platform: Instagram
-hits: 1223
-text_top: Identify the best Instagram profiles on inBeat.
-text_bottom: Our platform holds 1223 Instagram influencers like this in Ankara, Turkey for you to contact.
+hits: 1220
+text_top: Analyze the best Instagram influencers on inBeat.
+text_bottom: inBeat has 1220 Instagram influencers like this in Ankara, Turkey for you to pitch.
 profiles:
   - username: "muminduzenli"
     fullname: >-
@@ -31,100 +31,100 @@ profiles:
     id: ck139kumcltce0i19kf63shj8
     verified: false
     hashtags: ""
-  - username: "tnckrtmat"
+  - username: "rizakayaalp"
     fullname: >-
-      Tunç Kurt
+      Rıza Kayaalp
     bio: >-
-      YKS/ALES/DGS/KPSS/YÖS/SAT/Genel Mat için Ankara içi özel ders Hacettepe/Matematik tunckurtmatematik.com k20🇬🇧🇦🇺 Youtube egitim kanalı
+      🇹🇷Turkish Wrestler🇹🇷 •European C.🥇🥈🥇🥇🥇🥇🥇🥇🥇🥇🥇🥇 🥇 •World C.🥉🥉🥇🥈🥈🥇🥇🥇🥇 •London Olympic🥉 •Rio Olympic 🥈 •Tokyo olympic 🥉 Yozgat-Ankara
     location: "Turkey"
-    followers: 18213
-    engagement: 927
-    commentsToLikes: 0.124672
-    id: ck8t5gttja4ue0j78tiq9lvjx
-    verified: false
-    hashtags: "#geometri, #osym, #kpss2020, #ales2020"
-  - username: "x.xzeynepinizx.x"
-    fullname: >-
-      
-    bio: >-
-      Reklam ve İşbirliği için dm 💌 😘👉Pubg id 5297646354 🌸Ankara🌸
-    location: "Turkey"
-    followers: 86048
-    engagement: 2129
-    commentsToLikes: 0.199106
-    id: ckap5lrguc8i50i784ovdptul
-    verified: false
-    hashtags: "#mamak, #mafya, #nesih, #cezaevi"
-  - username: "tatlishayat"
-    fullname: >-
-      SEDA | Seyahat | Yaşam
-    bio: >-
-      🏖Gezgin 📍Ankara 👩🏼‍💻Bilgisayar Mühendisi 📩tatlishayat@gmail.com ⬇️Hayat Kalitenizi Arttıracak Öneriler
-    location: "Turkey"
-    followers: 23015
-    engagement: 645
-    commentsToLikes: 0.064663
-    id: ck8sxf4y2h68k0j78aseafn8u
-    verified: false
-    hashtags: "#travelphotography, #gezilecekyerler, #geziblog, #milliyetrota"
-  - username: "handekaptan"
-    fullname: >-
-      hande kaptan
-    bio: >-
-      bilkent üni. tiyatro american academy of dramatic arts ted ankara koleji actress @tuncayaltunoglu
-    location: "Turkey"
-    followers: 76433
-    engagement: 430
-    commentsToLikes: 0.061428
-    id: ck5cgc922ojtk0i117ld62s85
+    followers: 237399
+    engagement: 1186
+    commentsToLikes: 0.012231
+    id: ck0w41108w97n0i19bpat78y4
     verified: true
-    hashtags: "#istanbul, #benimad, #isis, #giveaway"
-  - username: "gulnurkalkanpabuccu"
+    hashtags: "#uww, #wrestlezagreb, #thehomeofwrestling, #ma"
+  - username: "pixelpixelworld"
     fullname: >-
-      Gülnur Kalkan Pabuçcu
+      Murat Bozer
     bio: >-
-      TÜRKİYE 🇹🇷 Akrep 🦂 BJK 🦅 ANKARA’lı 3 çocuklu 🙏😍 🙏 eşim 💁🏻‍♀️🙎🏻‍♂️kızlarım 💁🏻‍♀️👭💁🏻‍♀️🧑🏻oğlum 💃🏻🌍🙏 🧿
+      Ankara🇹🇷Berlin🇩🇪 👉Almanya Blue Card . Yalnızca hayallerini gerçekleştiren insanlar zengindir. 🌍46 country👌 @pixeltravels @troltungacamping
     location: "Turkey"
-    followers: 4626
-    engagement: 1585
-    commentsToLikes: 0.119884
-    id: ck8t93rztmv0v0j786d4nb2sk
+    followers: 10865
+    engagement: 492
+    commentsToLikes: 0.009484
+    id: ck6uaehzl33py0j7107vlj0ff
     verified: false
-    hashtags: "#izmir, #tbt, #istanbulso, #mutluluk"
-  - username: "betuulle"
+    hashtags: "#troltungacamping, #ttgcamping, #seninkamp, #troltungagebze"
+  - username: "ersinakbas_"
     fullname: >-
-      Betül 💫💫
+      🔶ERSİN AKBAŞ🔷
     bio: >-
-      📍Ankara 📚 Hacettepe Üniversitesi ✉️ betlkucukates@gmail.com ✨PR ve İşbirlikleri için DM lütfen 🎥 YouTube 👇🏻
+      📸 photographer 🏕 camping 🏍 motorcycles 🌍 travel 🌲 nature 🐢Bıdık 🏕ersinindüşevi 🎭(0\_!_/0) @ersinakbas_ #ersinakbas #camperlife ANKARA
     location: "Turkey"
-    followers: 12335
-    engagement: 1621
-    commentsToLikes: 2.114711
-    id: ck8tagdvzrn200j78yifuxvzl
+    followers: 25190
+    engagement: 361
+    commentsToLikes: 0.031898
+    id: ck6tllrel671a0j71alaa3lgd
     verified: false
-    hashtags: "#lookoftheday, #sundaymood, #lookbook, #ankarabloggers"
-  - username: "ecmelis"
+    hashtags: "#dagcilikvekamp, #sadecefoto, #ig, #ayigibigez"
+  - username: "burcuozberk"
     fullname: >-
-      Ecmel İs
+      Burcu Özberk
     bio: >-
-      Hacettepe Üniversitesi Ankara Devlet Konservatuvarı @istanbuldasdas @temasanat @epizotgorselsanatlar @kedisahne @yaseminyalcintiyatrosu
+      Hacettepe Üniversitesi Ankara Devlet Konservatuarı
     location: "Turkey"
-    followers: 6084
-    engagement: 976
-    commentsToLikes: 0.105876
-    id: ckap8oiwpp9fh0i786odrpzq4
-    verified: false
-    hashtags: "#temasanat, #papakcikonsepti, #istanbul, #ic"
-  - username: "_burcu_"
+    followers: 10515156
+    engagement: 347
+    commentsToLikes: 0.005451
+    id: ck5casrr8e21a0i11ncpk1325
+    verified: true
+    hashtags: "#premiere, #isbirligi, #rinsoilegiysibak, #giysibak"
+  - username: "ilkergumusoluk"
     fullname: >-
-      Burcu
+      İlker Gümüşoluk
     bio: >-
-      📍İzmir 📍Ankara
+      Gösteriler; Ankara - Watergarden - Bursa - Bodrum - İzmir İşbirlikleri için👇🏾 ilkergumusoluk@gmail.com Etkinlikler için👇🏾 umut@masksanat.com
     location: "Turkey"
-    followers: 39483
-    engagement: 296
-    commentsToLikes: 0.209106
-    id: ck8t09fubraar0j78sp6pto22
+    followers: 510694
+    engagement: 1128
+    commentsToLikes: 0.014662
+    id: ck5ca4942co1r0i110zme0jpr
+    verified: true
+    hashtags: "#biletlersat, #ilkerg, #entertainment, #nightout"
+  - username: "egitseladam"
+    fullname: >-
+      BU ÇAĞIN OYUNLARI-Çağın ALTUĞ
+    bio: >-
+      📍MEB Yılın İlham Veren Öğretmeni 🤹Sportif Eğitsel Oyunlarla Hareket Eğitimi 🤸Çocuk - yetişkin -öğretmen atölyeleri 🎊Spor ve oyuna dair herşey 🌍Ankara
+    location: "Turkey"
+    followers: 116779
+    engagement: 2401
+    commentsToLikes: 0.053753
+    id: ck8t9i3yvo6ed0j783v58ir1q
     verified: false
-    hashtags: "#nailarttutorial, #nailartvideos, #nailartt, #notd"
+    hashtags: "#olimpic, #tokyo2021, #bu, #spor"
+  - username: "selayarasphotography"
+    fullname: >-
+      SelayArasPhotography
+    bio: >-
+      📷Canon 5d Mark IV / 6d Mark II 🎥Sony Alpha 6400 Canon 24/70 mm f/2.8 Canon 50 mm f 1/4 Sigma 35 mm f 1/4 Canon 135 mm f 1/8 ☎️05439544459 Ankara
+    location: "Turkey"
+    followers: 31879
+    engagement: 213
+    commentsToLikes: 0.023220
+    id: ck0w61l1i6h3f0i19ykmii7yt
+    verified: false
+    hashtags: "#maldives2023, #ankaradog, #selayarasphotography, #1yascekimiankara"
+  - username: "yesiltosba"
+    fullname: >-
+      Damla S. 🌸 🌱
+    bio: >-
+      Ankara, Turkey 🌾 Amigurumi Crochet Patterns for crochet patterns 🧶 link is ⬇️
+    location: "Turkey"
+    followers: 34219
+    engagement: 198
+    commentsToLikes: 0.034456
+    id: ck15r7cqr6iaa0i19cdav2mjl
+    verified: false
+    hashtags: "#amigurumillama, #crochettoy, #cavegirl, #crochetlover"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Painters TikTok Influencers In Switzerland In 2023
+title: Top 10 Painters TikTok Influencers In Switzerland In 2024
 description: >-
-  Find top painters TikTok influencers in Switzerland in 2023. Most popular hashtags: #fyp #foryou #foryoupage #pinterest.
+  Find top painters TikTok influencers in Switzerland in 2024. Most popular hashtags: #foryou #fyp #foryoupage #pinterest.
 platform: TikTok
-hits: 9
-text_top: Analyze the top-rated TikTok profiles on inBeat.
-text_bottom: Our platform has 9 TikTok influencers like this in Switzerland for you to connect with.
+hits: 8
+text_top: See the most popular TikTok influencers on inBeat.
+text_bottom: Our database has 8 TikTok influencers like this in Switzerland for you to connect with.
 profiles:
   - username: "dariodesiena"
     fullname: >-
@@ -13,12 +13,12 @@ profiles:
     bio: >-
       Painting Artist Next Goal 10K Followers! Let’s goooooo 😜
     location: "Switzerland"
-    followers: 15300
-    engagement: 785
-    commentsToLikes: 0.020639
+    followers: 15200
+    engagement: 787
+    commentsToLikes: 0.019327
     id: ckb97tobgquwn0j23tkvtcgkq
     verified: false
-    hashtags: "#foryou, #tiktok, #foryoupage, #portraitart"
+    hashtags: "#art, #tiktok, #foryoupage, #painting"
   - username: "lifeasconstance"
     fullname: >-
       Lifeasconstance
@@ -43,18 +43,6 @@ profiles:
     id: ckbfeds8g8ave0j23lj1mf5sy
     verified: false
     hashtags: "#humour, #kakashi, #itachi, #anime"
-  - username: "sockenkunstler"
-    fullname: >-
-      Gruppe voller Soggen
-    bio: >-
-      Hey Leudiiis💞✨ 12 crazy Art giiirls🖍️🤩 ‼️BITTE KEIN LIKE SPAM‼️
-    location: "Switzerland"
-    followers: 21000
-    engagement: 3075
-    commentsToLikes: 0.062915
-    id: ckdi8q1c6bdbl0j23blq5x294
-    verified: false
-    hashtags: "#viral, #artgirl, #sockenkunstler, #fy"
   - username: "_mikiimikii"
     fullname: >-
       Mikii Minaj

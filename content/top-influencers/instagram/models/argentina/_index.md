@@ -1,11 +1,11 @@
 ---
-title: Top 10 Models Instagram Influencers In Argentina In 2023
+title: Top 10 Models Instagram Influencers In Argentina In 2024
 description: >-
-  Find top models Instagram influencers in Argentina in 2023. Most popular hashtags: #look #style #instagram.
+  Find top models Instagram influencers in Argentina in 2024. Most popular hashtags: #modamujer #sheinforall #shein.
 platform: Instagram
-hits: 444
-text_top: Identify the most popular Instagram accounts on inBeat.
-text_bottom: inBeat holds 444 Instagram influencers like this in Argentina for you to contact.
+hits: 439
+text_top: Discover the best Instagram influencers on inBeat.
+text_bottom: Our search engine has 439 Instagram influencers like this in Argentina for you to contact.
 profiles:
   - username: "larabocci"
     fullname: >-
@@ -19,112 +19,112 @@ profiles:
     id: ck14lninrvjy90i1957pktxqj
     verified: false
     hashtags: ""
-  - username: "kevinmorenox"
+  - username: "biancalescano2000"
     fullname: >-
-      Kevin Moreno⚡️
+      Bianca Lescano
     bio: >-
-      • Nunca te rindas💥 • Creador Official Kwai 🇨🇳 • Model of @sognatoreok 🇮🇹
+      Model of @prada 📧 lescanobianca518@gmail.com
     location: "Argentina"
-    followers: 22061
-    engagement: 869
-    commentsToLikes: 0.068689
-    id: ck8wepa9ieepu0j78vhe3pu5q
+    followers: 792293
+    engagement: 589
+    commentsToLikes: 0.009652
+    id: ck6030jkkkccv0i14vskcvv5g
     verified: false
-    hashtags: "#prank, #broma, #instagram, #dance"
-  - username: "srtaklaha"
-    fullname: >-
-      Señorita Klaha
-    bio: >-
-      🇦🇷 📸#Model 👗#Designer 🌱#PoisonIvy 💋#Makeup 🎨#Artist 🔮#Witch 🖤#Gothgirl ****LINKS**** 👇🏻
-    location: "Argentina"
-    followers: 25355
-    engagement: 474
-    commentsToLikes: 0.094175
-    id: ck15pzevl0e270i19qn5e5iyv
-    verified: false
-    hashtags: ""
-  - username: "andreacresppo"
-    fullname: >-
-      Andrea Crespo
-    bio: >-
-      • Lifestyle | Model • • Cantabria • • Hazte ser lo que quieres •
-    location: "Argentina"
-    followers: 5034
-    engagement: 1799
-    commentsToLikes: 0.069384
-    id: ck8t7ackvg3sb0j7871d7e7mk
-    verified: false
-    hashtags: "#photoshoot, #photoshootideas, #posesforpictures, #casualphotography"
-  - username: "_hardeline"
-    fullname: >-
-      VALENTINA RE
-    bio: >-
-      📍Bs as, Argentina #model music store @feria_prmusic check my blog🖤
-    location: "Argentina"
-    followers: 11180
-    engagement: 1069
-    commentsToLikes: 0.037908
-    id: ck55mro4f4lz30i11q6y2my3d
-    verified: false
-    hashtags: "#blondehair, #girlstyle, #girl, #makeup"
-  - username: "asraf_beno"
-    fullname: >-
-      Asraf Beno👳🏽‍♂️⚡️
-    bio: >-
-      🇲🇦 From MAR • Born ESP🇪🇸 Mister Universo Mundial 2018 | Gran hermano VIP 6 🤎 | Professional Model 👟 | Madrid 📌
-    location: "Argentina"
-    followers: 152280
-    engagement: 304
-    commentsToLikes: 0.051915
-    id: ck5hfkmbrxx1q0i116z9dbm7q
-    verified: true
-    hashtags: "#spiritofthebraveintense, #liveintensely, #horse, #nature"
-  - username: "yanjana_"
-    fullname: >-
-      𝖄𝖆𝖓𝖏𝖆𝖓𝖆 𝕾𝖎𝖒𝖕𝖘𝖔𝖓
-    bio: >-
-      Model Androgynous Tatuadora @yanjanatattoo
-    location: "Argentina"
-    followers: 148201
-    engagement: 151
-    commentsToLikes: 0.055347
-    id: ckf5lrbu9qonb0j23p9ngbe2m
-    verified: false
-    hashtags: "#look, #xb700, #sol, #tucomovives"
-  - username: "chcaniggia"
-    fullname: >-
-      Charlotte Caniggia
-    bio: >-
-      Tv personality & model Social media 📧 @flavioaguirre
-    location: "Argentina"
-    followers: 2521886
-    engagement: 239
-    commentsToLikes: 0.124729
-    id: ck5hjd5bmgf5u0i11itn2c9y6
-    verified: true
-    hashtags: "#glutamina, #glutamine, #superglu, #syntrax"
-  - username: "romimalaspina"
-    fullname: >-
-      ROMINA MALASPINA 🇦🇷
-    bio: >-
-      TraderGirl 📈 P4L The world is yours 🌎 📧 romimalaspina7@gmail.com ❤️ PRE SAVE - TODO ESTÁ BIEN ⬇️ ⚡️@bangenergy Elite Model
-    location: "Argentina"
-    followers: 2701378
-    engagement: 461
-    commentsToLikes: 0.005062
-    id: ck5cazq3vefx60i1145jsifew
-    verified: true
-    hashtags: "#deermodelsandfriends, #energydrink, #newmusic, #bangenergy"
+    hashtags: "#modafeminina, #modeling, #london"
   - username: "paolarealoficial"
     fullname: >-
       Paola Real👑
     bio: >-
       ACTRESS, MODEL AND TV 🎥 ACCOUNT MANAGED EXCLUSIVELY BY AN ADULT. 👀👀 Agency : @latinvasion Manager @joebonillaoficial
     location: "Argentina"
-    followers: 79291
-    engagement: 430
-    commentsToLikes: 0.031195
+    followers: 134854
+    engagement: 538
+    commentsToLikes: 0.014217
     id: ck8svx62hd1690j782akjs7y3
     verified: false
-    hashtags: "#mimejorregalo, #bimbo, #roscadereyes, #bonitodia"
+    hashtags: "#lasestrellas, #actriz, #fotoramamx, #amigosgigantes"
+  - username: "angelitalc"
+    fullname: >-
+      Angie Landaburu
+    bio: >-
+      Elite Model Worldwide🇫🇷@elitemodelworld @multitalentoficial 🇦🇷 @amigosmodernoba #madrid
+    location: "Argentina"
+    followers: 2174384
+    engagement: 380
+    commentsToLikes: 0.000656
+    id: ck0u0xthgv8i50i19akvjqzc4
+    verified: true
+    hashtags: "#miumiu, #miamiopen, #mercedes, #asmr"
+  - username: "martuoliveto"
+    fullname: >-
+      Martu Oliveto
+    bio: >-
+      Freelance model Content creator @maniac.ba
+    location: "Argentina"
+    followers: 25295
+    engagement: 279
+    commentsToLikes: 0.023249
+    id: ck5q31n7bisih0i11435az9xk
+    verified: false
+    hashtags: "#quenosecortelobueno, #ad, #squadcetaphil, #cetaphilrelaxroutine"
+  - username: "memeanselmi"
+    fullname: >-
+      Clemen🛁
+    bio: >-
+      • Uruguay • Abogada • Model & Content creator
+    location: "Argentina"
+    followers: 14537
+    engagement: 223
+    commentsToLikes: 0.029341
+    id: ck5pyw590y37u0i11dh9tkdau
+    verified: false
+    hashtags: ""
+  - username: "ampiteran"
+    fullname: >-
+      ᴀᴍᴘᴀʀᴏ ᴛᴇʀᴀɴ
+    bio: >-
+      • Freelance model & content creator • ʙᴜᴇɴᴏs ᴀɪʀᴇs | ᴀʀɢᴇɴᴛɪɴᴀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀
+    location: "Argentina"
+    followers: 45559
+    engagement: 156
+    commentsToLikes: 0.010604
+    id: ck6tqtdeyu2za0j71sf5jcm75
+    verified: false
+    hashtags: "#outfit, #denim, #ootd"
+  - username: "milipineirocorna"
+    fullname: >-
+      MILI PIÑEIRO
+    bio: >-
+      Argentina en NYC📍 @imgmodels 🌎 Look1🇦🇷 Traffic Models 🇪🇸 Múnich Models 🇩🇪 Unknown models 🇯🇵
+    location: "Argentina"
+    followers: 72435
+    engagement: 140
+    commentsToLikes: 0.005586
+    id: ck0tzq9mxr60w0i19m8hppl97
+    verified: false
+    hashtags: ""
+  - username: "ingridaceiton"
+    fullname: >-
+      Ingrid Aceiton
+    bio: >-
+      Modelo y Miss Model Chile 🇨🇱 Mamá de Ada Mía🧚‍♀️ y Alice Amorette👼 Keisy mi otro amor 🐶💞 Contacto promo: Ingridaceiton2@gmail.com 💌
+    location: "Argentina"
+    followers: 920526
+    engagement: 135
+    commentsToLikes: 0.011496
+    id: ck134zj7gyynt0i19rjngldb7
+    verified: true
+    hashtags: "#sheinforall, #love, #shein, #verano"
+  - username: "anto_macchii"
+    fullname: >-
+      Anto Macchi
+    bio: >-
+      Model & Host
+    location: "Argentina"
+    followers: 138734
+    engagement: 129
+    commentsToLikes: 0.015526
+    id: ck5c0go2nt3m80i11f05abulu
+    verified: true
+    hashtags: "#tb, #santosabado"
 ---

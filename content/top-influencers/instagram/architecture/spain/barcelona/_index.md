@@ -1,11 +1,11 @@
 ---
-title: Top 10 Architecture Instagram Influencers In Barcelona In 2023
+title: Top 10 Architecture Instagram Influencers In Barcelona In 2024
 description: >-
-  Find top architecture Instagram influencers in Barcelona in 2023. Most popular hashtags: #architecture #barcelona #ig #catalunya.
+  Find top architecture Instagram influencers in Barcelona in 2024. Most popular hashtags: #architecture #barcelona #travel #catalunya.
 platform: Instagram
-hits: 55
-text_top: See the top-rated Instagram accounts on inBeat.
-text_bottom: inBeat aggregates 55 Instagram influencers like this in Barcelona, Spain for you to connect with.
+hits: 69
+text_top: Identify the most popular Instagram influencers on inBeat.
+text_bottom: Our database has 69 Instagram influencers like this in Barcelona, Spain for you to work with.
 profiles:
   - username: "nil.monro"
     fullname: >-
@@ -19,6 +19,30 @@ profiles:
     id: ckf5n5h81wtrv0j2317p3t71z
     verified: false
     hashtags: "#architecture, #barcelona, #tb, #sardegna"
+  - username: "mesura.eu"
+    fullname: >-
+      MESURA
+    bio: >-
+      Interdisciplinary architecture studio
+    location: "Spain"
+    followers: 65735
+    engagement: 23
+    commentsToLikes: 0.001769
+    id: ck0w3gpgbtbck0i19s5du6scs
+    verified: false
+    hashtags: "#newproject, #barcelona, #architecture, #interiordesign"
+  - username: "raul.alvarado23"
+    fullname: >-
+      Raul Eduardo
+    bio: >-
+      📐Architect 📸 Photography 🇵🇦 Panama 📍 Barcelona
+    location: "Spain"
+    followers: 10404
+    engagement: 910
+    commentsToLikes: 0.026649
+    id: ckf5q7lql8fla0j23zhat373d
+    verified: false
+    hashtags: "#hoscos, #fitness, #barcelona, #architecture"
   - username: "joanoriolfibla"
     fullname: >-
       Joan Oriol Fibla
@@ -31,18 +55,6 @@ profiles:
     id: ck5zvf8f744gm0i145gkzxudr
     verified: false
     hashtags: "#architecture, #plants, #barcelona, #santjordi"
-  - username: "yamildoval"
-    fullname: >-
-      Yamil Doval
-    bio: >-
-      📍 Based in Barcelona 📷 Architecture & pretty places 💙 Galego ⬇️ Prints & Presets ⬇️
-    location: "Spain"
-    followers: 6936
-    engagement: 1319
-    commentsToLikes: 0.033526
-    id: ck6u7v27fnt470j718mz0eoun
-    verified: false
-    hashtags: "#galicia, #citiesoftheworld, #europedestinations, #lebeauvoyage"
   - username: "josepferrando_architecture"
     fullname: >-
       Josep Ferrando
@@ -55,18 +67,18 @@ profiles:
     id: ck0uc68eug6vj0i19ppcwutpv
     verified: false
     hashtags: "#josepferrando, #wood, #moiane, #josepferrandoarchitecture"
-  - username: "cityofbarcelona"
+  - username: "lamochilaenlaespalda"
     fullname: >-
-      CITY OF BARCELONA
+      ✨MOCHILA EN LA ESPALDA✨
     bio: >-
-      💁🏻‍♀️Hi! I’m Donna! 📍Barcelona 📷 Iphone Only #cityofbarcelona
+      🏔Fons & Leila🏝 📍Costa Brava #lamochilaenlaespalda 🌎travelcouple 👩🏼‍🤝‍👨🏻 ✉️ lamochilaenlaespalda@gmail.com 🖥 Travel Bloggers & Content Creators
     location: "Spain"
-    followers: 65913
-    engagement: 451
-    commentsToLikes: 0.018094
-    id: ck0ucve8vht3i0i194bqml6iv
+    followers: 176234
+    engagement: 257
+    commentsToLikes: 0.182050
+    id: ckw9lqhuik2e50j23khlinitw
     verified: false
-    hashtags: "#facade, #building, #barna, #catalun"
+    hashtags: "#travelbloggers, #bcnmoltmes, #barcelona, #hiddengems"
   - username: "maxibellucci"
     fullname: >-
       Maxi Bellucci
@@ -103,28 +115,16 @@ profiles:
     id: ck5q84wyj4gb00i117gwc8li4
     verified: false
     hashtags: "#arquitecturamx, #creative, #kings, #excellent"
-  - username: "arquitecturag"
+  - username: "danirull.official"
     fullname: >-
-      ARQUITECTURA-G
+      danielrull
     bio: >-
-      Architectural office based in Barcelona.
+      HAIR & MAKEUP ARTIST / DIOR / CREATIVE DIRECTOR / CASTING DIRECTOR Barcelona/Zurich
     location: "Spain"
-    followers: 87317
-    engagement: 172
-    commentsToLikes: 0.006228
-    id: ck5c3fpagz8g60i11h7tngmqh
+    followers: 19043
+    engagement: 368
+    commentsToLikes: 0.095710
+    id: ck0w0ii8tedh20i19eb5soii8
     verified: false
-    hashtags: "#arquitecturag, #folchstudio, #japan, #nagoya"
-  - username: "maksimslavin"
-    fullname: >-
-      M A K S I M    S L A V I N
-    bio: >-
-      Tel-Aviv based stylist & Interior designer Owner of @maksimslavininteriors
-    location: "Spain"
-    followers: 8224
-    engagement: 534
-    commentsToLikes: 0.018962
-    id: ck6ucb0uhejre0j71tc2mkwqq
-    verified: false
-    hashtags: "#dubai, #adrussia, #interiordesign, #art"
+    hashtags: "#creativedirector, #danirull, #fashion, #muscle"
 ---

@@ -1,24 +1,24 @@
 ---
-title: Top 10 Graphic-Designers TikTok Influencers In Toronto In 2023
+title: Top 10 Graphic-Designers TikTok Influencers In Toronto In 2024
 description: >-
-  Find top graphic-designers TikTok influencers in Toronto in 2023. Most popular hashtags: #fyp #graphicdesign #viral #toronto.
+  Find top graphic-designers TikTok influencers in Toronto in 2024. Most popular hashtags: #fyp #graphicdesign #viral #toronto.
 platform: TikTok
 hits: 10
-text_top: See the most popular TikTok profiles on inBeat.
-text_bottom: inBeat holds 10 TikTok influencers like this in Toronto, Canada for you to collaborate.
+text_top: Discover the most popular TikTok influencers on inBeat.
+text_bottom: Our platform aggregates 10 TikTok influencers like this in Toronto, Canada for you to pitch.
 profiles:
   - username: "dillon.kydd"
     fullname: >-
       dillon 
     bio: >-
-      Photographer Toronto 🇨🇦 To book a shoot, message me through my website! ⬇️
+      Photographer / Graphic Designer Toronto 🇨🇦 Let’s make something amazing
     location: "Canada"
     followers: 10500
-    engagement: 929
-    commentsToLikes: 0.027513
+    engagement: 1258
+    commentsToLikes: 0.007622
     id: ck8kg0jx5ge3w0j78himdm2ky
     verified: false
-    hashtags: "#photoshoot, #photographer, #howto, #trending"
+    hashtags: "#new, #vogue, #portrait, #graphicdesign"
   - username: "walmartbrownkid"
     fullname: >-
       pravien gowrisangar
@@ -102,7 +102,7 @@ profiles:
     commentsToLikes: 0.010821
     id: ck8f66mxs28qy0j78r9bwyiuh
     verified: false
-    hashtags: "#smallbusinessowner, #fashion, #fyp, #smallbusinesstips"
+    hashtags: "#fashion, #diyprojects, #fyp, #handmade"
   - username: "thatlebtala"
     fullname: >-
       Tala

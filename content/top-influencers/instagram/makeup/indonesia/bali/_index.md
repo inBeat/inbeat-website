@@ -1,12 +1,36 @@
 ---
-title: Top 10 Makeup Instagram Influencers In Bali In 2023
+title: Top 10 Makeup Instagram Influencers In Bali In 2024
 description: >-
-  Find top makeup Instagram influencers in Bali in 2023. Most popular hashtags: #makeupbali #makeuptutorial #makeup #makeupartist.
+  Find top makeup Instagram influencers in Bali in 2024. Most popular hashtags: #makeupbali #makeup #muabali #muajakarta.
 platform: Instagram
-hits: 95
-text_top: See the top-rated Instagram influencers on inBeat.
-text_bottom: Our platform aggregates 95 Instagram influencers like this in Bali, Indonesia for you to contact.
+hits: 106
+text_top: Identify the most popular Instagram accounts on inBeat.
+text_bottom: Our search engine aggregates 106 Instagram influencers like this in Bali, Indonesia for you to connect with.
 profiles:
+  - username: "sonny_sun_"
+    fullname: >-
+      Not Found 🦂🇩🇿
+    bio: >-
+      Bali📍 @karinmodels_official 🇫🇷 @boundarylondon 🇬🇧 @mikasstockholm 🇸🇪 @freedommodelsla 🇺🇸 @wave_management 🇮🇹
+    location: "Indonesia"
+    followers: 50385
+    engagement: 124
+    commentsToLikes: 0.014030
+    id: ck5c0cjz0svh00i119an17luq
+    verified: false
+    hashtags: "#ootd, #swimsuit, #girl, #sea"
+  - username: "ndarusuci"
+    fullname: >-
+      Ndaru Suci Kusuma Wardani
+    bio: >-
+      Beauty✨Lifestyle✨Food BA of @dinsy_official Tiktok @ndarusucii | @jajalwithuci Business : 085159028889(Manager) 📍Balikpapan kaltim Beli dimana?👇🏻
+    location: "Indonesia"
+    followers: 88706
+    engagement: 842
+    commentsToLikes: 0.036269
+    id: ck9wgldeptxam0j78h7wf12tu
+    verified: false
+    hashtags: "#balikpapancity, #balikpapanku, #makeupideas, #wisatabalikpapan"
   - username: "leoafandi_makeup"
     fullname: >-
       Leo Afandi
@@ -43,88 +67,64 @@ profiles:
     id: ck5bzrjb8rplh0i11o7dbrbvv
     verified: false
     hashtags: "#salondibali, #muabali, #makeupbali, #fiting"
-  - username: "felicianathalie_"
+  - username: "felliewijaya"
     fullname: >-
-      펠리시아🍑felicia nathalie
+      Lili🌸
     bio: >-
-      📍BALI | TNG UMN '19 #model | #dancer DM For #endorsement 📥 Part of @teen_management @chb_management CiaAgency BA @mamaleonofficial YTChannel👇🏻
+      BA @pinky.outfit3 @athena_lampung . Business = DM
     location: "Indonesia"
-    followers: 19415
-    engagement: 614
-    commentsToLikes: 0.053623
-    id: ck9wgk3pjts0e0j78vcntnir1
+    followers: 31449
+    engagement: 389
+    commentsToLikes: 0.010356
+    id: ck6u7lkdcm8jp0j71taj7megh
     verified: false
-    hashtags: "#modeling, #model, #modelfoto, #bali"
+    hashtags: "#hairdo, #jakarta, #bridal, #photooftheday"
+  - username: "rachgoddard"
+    fullname: >-
+      Rachel Goddard
+    bio: >-
+      CONTENT CREATOR (BEAUTY, TRAVEL & LIFESTYLE) GA PUNYA AKUN IG LAIN ENDORSE/BUSINESS 👇contact.rachgoddard@gmail.com
+    location: "Indonesia"
+    followers: 1161766
+    engagement: 42
+    commentsToLikes: 0.024451
+    id: ck0uctflehk7h0i19iu0ifi50
+    verified: false
+    hashtags: "#cobarachakan, #bali, #racunrachel, #buyorbye"
+  - username: "afifahyuneear"
+    fullname: >-
+      Afifah Yuniar Halisa Putri
+    bio: >-
+      Beauty Creator || Certified MUA @afifahyuneear.makeup @ibuhebat_ @momacademy.id 📍Jember Business inq 📩 DM
+    location: "Indonesia"
+    followers: 30358
+    engagement: 58
+    commentsToLikes: 0.034365
+    id: ck9wh437nw5i80j78jrx65hhl
+    verified: false
+    hashtags: "#skincareroutine, #skincare, #tiktokbeauty, #skincareaddict"
   - username: "arieswahyuanggraini"
     fullname: >-
-      AWA Makeup Artist
+      ARIES WAHYU ANGGRAINI || AWA MAKEUP ARTIST
     bio: >-
-      Aries Wahyu Anggraini, S. Pd From S1 Pend. Tatarias UNESA @awa.makeupartist @bengahan.id @campo.id 📍JKT, SBY, BWI admin : 081333582528 👇more info
+      📞+6281333582528 (for bussines inquiries) ✨Professional MUA ✨Wedding Consultant @sierra.planner 👇more info admin
     location: "Indonesia"
-    followers: 42074
-    engagement: 132
-    commentsToLikes: 0.013898
+    followers: 103991
+    engagement: 33
+    commentsToLikes: 0.106910
     id: ck6u7pd7fmvt90j71vcwjrikl
     verified: false
-    hashtags: "#makeupsurabaya, #weddingjombang, #makeupjember, #makeupjakarta"
-  - username: "helodiyan"
+    hashtags: "#maternityshoot, #maternityphotoshoot, #momtobe, #muamalang"
+  - username: "imelvilentcia"
     fullname: >-
-      ℂ𝕠𝕟𝕥𝕖𝕟 𝕔𝕣𝕖𝕒𝕥𝕠𝕣 & 𝕀𝕟𝕗𝕝𝕦𝕖𝕟𝕔𝕖𝕣
+      Imel Vilentcia
     bio: >-
-      𝑷𝒂𝒓𝒕 𝒐𝒇 ʏɪ•ꜱʜ•ᴇᴄɪ•ᴅʀᴍ•ᴅʙ•ᴍᴢʏ•ɴɪɴ 💄ɪʙᴄ • ʙʙꜱ #lemonsquad
+      -MUA since 2010- 🇮🇩🇲🇾🇹🇭🇰🇷 📍 Surabaya & Outside City ✈️ Job: +6281296822288 Business: +6282333344795 @ivbeautystudio @iwearmyra
     location: "Indonesia"
-    followers: 41520
-    engagement: 139
-    commentsToLikes: 0.409601
-    id: ck9wh3f79w2js0j789yjd8w0p
+    followers: 411558
+    engagement: 56
+    commentsToLikes: 0.006832
+    id: ck6u0arduelwa0j71htmlkugl
     verified: false
-    hashtags: "#makeuppemula, #beautyinfluencer, #100haringontenwithibc, #keluargabaruchimi"
-  - username: "annisafawziyah"
-    fullname: >-
-      Annisa Al-hadist
-    bio: >-
-      📍Samarinda 🍿@mama_afakrenyes 🏡@afa_storesmd 💄@afamakeup_smr 🧕🏻@afahijab__ 🍽@lafar__ 👜@afa_shopping
-    location: "Indonesia"
-    followers: 6837
-    engagement: 519
-    commentsToLikes: 0.032993
-    id: ck9wgkxpotvcq0j78nzft8rad
-    verified: false
-    hashtags: "#tutorialmakeup, #tiktok, #beautytalker, #makeuphangout"
-  - username: "cahayahikmaa"
-    fullname: >-
-      ‎چهي  نور حكم
-    bio: >-
-      @mc.cahaya 🎤 BA @podiybeauty.id @mutihlotion ✨
-    location: "Indonesia"
-    followers: 21613
-    engagement: 348
-    commentsToLikes: 0.013672
-    id: ck9wdsxj3h4rd0j78fy1v3myi
-    verified: false
-    hashtags: "#cahayaindonesia, #balikpapanpopline, #dirumahaja, #cahayapratama"
-  - username: "oping.wo.real"
-    fullname: >-
-      Oping Wo Real
-    bio: >-
-      AKUN ASLI. Jl JA Suprapto no 25A Trenggalek. Akun lama dihack orang yg tdk bertanggung jwb, hati2 dg sgl bentuk penipuan. Info PL dll DILLA
-    location: "Indonesia"
-    followers: 23696
-    engagement: 158
-    commentsToLikes: 0.009691
-    id: ck9wd31x6dumu0j786wmb6i1d
-    verified: false
-    hashtags: "#mua, #privatemakeup, #workshop, #semiprivate"
-  - username: "ummatbaper"
-    fullname: >-
-      cinta dan sahabat  💓
-    bio: >-
-      Yang lagi baper follow 👇👇 👉 Follow @ummatbaper . . Open PP murah... Minat DM
-    location: "Indonesia"
-    followers: 26337
-    engagement: 39
-    commentsToLikes: 0.004466
-    id: ck6u8sbxptdla0j71rb17gzjs
-    verified: false
-    hashtags: "#sajakdetik, #moodbooster, #viral, #quotescinta"
+    hashtags: "#imelvilentcia, #makeupclass, #imelvilentciabrides, #imelvilentciamakeupclass"
 ---

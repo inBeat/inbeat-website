@@ -1,11 +1,11 @@
 ---
-title: Top 10 Athletes TikTok Influencers In Australia In 2023
+title: Top 10 Athletes TikTok Influencers In Australia In 2024
 description: >-
-  Find top athletes TikTok influencers in Australia in 2023. Most popular hashtags: #fyp #foryou #viral #tiktok.
+  Find top athletes TikTok influencers in Australia in 2024. Most popular hashtags: #fyp #foryou #viral #tiktok.
 platform: TikTok
 hits: 30
-text_top: Identify the top-rated TikTok influencers on inBeat.
-text_bottom: Our database holds 30 TikTok influencers like this in Australia for you to contact.
+text_top: Discover the top-rated TikTok accounts on inBeat.
+text_bottom: Our database holds 30 TikTok influencers like this in Australia for you to connect with.
 profiles:
   - username: "dylanpawson"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.013254
     id: ck81sw3ywtjc50j784a0o7gif
     verified: true
-    hashtags: "#tiktokviral, #viral, #omg, #australia"
+    hashtags: "#omg, #sydney, #iphone12, #viral"
   - username: "sleezey96"
     fullname: >-
       sleezey96
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.016504
     id: ckbl0vgn0xoc10j23ii8r0mmq
     verified: true
-    hashtags: "#pov, #escape, #security, #foryoupage"
+    hashtags: "#parkour, #flips, #escape, #foryou"
   - username: "morganrmoroney"
     fullname: >-
       Morgan Rose 
@@ -54,7 +54,7 @@ profiles:
     commentsToLikes: 0.010604
     id: ck9rk74qyrjqk0j78oo6a38co
     verified: true
-    hashtags: "#challenge, #fitness, #gymshark, #australia"
+    hashtags: "#challenge, #gymshark, #australia, #fitness"
   - username: "julzjulzjulzz"
     fullname: >-
       Julia Woodford 
@@ -126,5 +126,5 @@ profiles:
     commentsToLikes: 0.008937
     id: ck81qa4qmh5em0j78uqk3usdx
     verified: true
-    hashtags: "#syd, #flying, #viral, #smooth"
+    hashtags: "#flying, #syd, #viral, #smooth"
 ---

@@ -1,36 +1,48 @@
 ---
-title: Top 10 Cosmetics Instagram Influencers In Turkey In 2023
+title: Top 10 Cosmetics Instagram Influencers In Turkey In 2024
 description: >-
-  Find top cosmetics Instagram influencers in Turkey in 2023. Most popular hashtags: #makeup #makyaj #beauty #makeuptutorial.
+  Find top cosmetics Instagram influencers in Turkey in 2024. Most popular hashtags: #makeup #makyaj #makeupartist #instagood.
 platform: Instagram
-hits: 89
-text_top: Analyze the best Instagram influencers on inBeat.
-text_bottom: Our database holds 89 Instagram influencers like this in Turkey for you to contact.
+hits: 95
+text_top: Analyze the most popular Instagram influencers on inBeat.
+text_bottom: Our platform aggregates 95 Instagram influencers like this in Turkey for you to collaborate.
 profiles:
   - username: "ertugrulgazisener"
     fullname: >-
       Ertuğrul Gazi Şener
     bio: >-
-      ⚙️ Boss of @senerbmwyedekparca 🏗Co-Founder of EGS Construction 💄Ceo of Buner's Cosmetic Production
+      Founder of EGS Beauty Cosmetics 💄 @ertugrulgazisener1
     location: "Turkey"
-    followers: 302053
-    engagement: 178
-    commentsToLikes: 0.068911
+    followers: 1003085
+    engagement: 112
+    commentsToLikes: 0.012081
     id: ckapadupgvplg0i78cu15cst7
     verified: false
-    hashtags: ""
+    hashtags: "#fyp, #bodybuilding, #fitness, #motivasyon"
+  - username: "drmardini.istanbul"
+    fullname: >-
+      DR MARDINI ®
+    bio: >-
+      Doctor Mardini Medical tourism 00905349165033 00905349165063 📍The Ritz Carlton / Süzer Plaza 🔹Hollywood Smile 🔹Veneers 🔹Implants 🔹Cosmetic Surgery
+    location: "Turkey"
+    followers: 247830
+    engagement: 150
+    commentsToLikes: 0.050550
+    id: ck0w6y0auasvn0i193hvcwlv8
+    verified: false
+    hashtags: "#english, #vocabulary, #zenfluentmaria, #englishisfun"
   - username: "emretunafarmasi"
     fullname: >-
       Emretunafarmasi
     bio: >-
       @emretunaa Farmasi Cosmetics Board 👋 #FarmasiRevolution 🚀 🌍 120+Countries 🌿20+ Brands ✌️MakeUp 💄MakeArt 💋 We Make You Beautiful 📌 Official Account
     location: "Turkey"
-    followers: 33780
-    engagement: 433
-    commentsToLikes: 0.132150
+    followers: 39028
+    engagement: 569
+    commentsToLikes: 0.124919
     id: ck0u61wmf0qkk0i19iq8cflyf
     verified: false
-    hashtags: "#cosmetics, #makeup, #makyaj, #farmasirevolution"
+    hashtags: "#happy, #farmasirevolution, #cosmetics, #farmasi"
   - username: "yagmurkeskiiin"
     fullname: >-
       Yağmur Keskin
@@ -43,18 +55,6 @@ profiles:
     id: ck5zsltezyqu50i14rjvn6fzn
     verified: false
     hashtags: "#makeup, #maccosmeticsturkiye, #maccosmetics, #makeuptutorial"
-  - username: "ghaida_msy"
-    fullname: >-
-      
-    bio: >-
-      🇴🇲 Business WhatsApp : +968 71977189 ‏ @ghaida_cosmetics @shop.ghaida @chloe_msy1
-    location: "Turkey"
-    followers: 180667
-    engagement: 133
-    commentsToLikes: 0.016051
-    id: ck601raxgg1070i14qohyt3tx
-    verified: false
-    hashtags: "#anastasiabrows, #makeupartist, #glam, #facemask"
   - username: "blog_kubist"
     fullname: >-
       K ü b r a
@@ -103,28 +103,28 @@ profiles:
     id: ck15rdn8z7eqx0i19fc4fehni
     verified: false
     hashtags: "#ilahahajiyevafoundation, #ilahahajiyevacosmetics, #ilahahajiyevamakeup, #ilahahajiyevalashes"
-  - username: "tzahivazana"
+  - username: "anar_agakishiev"
     fullname: >-
-      צחי ואזנה
+      Anar Agakishiev
     bio: >-
-      models agency +972-52-6280053 tzahivazanh@bezeqint.net menachem begin 37 tel aviv
+      Celebrity Makeup Artist, Hairstylist, Beauty Consultant ✉️ Contacts: anaragakishiev@gmail.com @beautyacademybyanar
     location: "Turkey"
-    followers: 54669
-    engagement: 174
-    commentsToLikes: 0.016564
-    id: ck5c8wxjlad1y0i11i2n9k1zo
-    verified: false
-    hashtags: "#menstyle, #kidsroom, #modeling, #kids"
+    followers: 1411763
+    engagement: 220
+    commentsToLikes: 0.029647
+    id: ck0ty0r2ol48l0i19jr6zvyth
+    verified: true
+    hashtags: "#hudabeauty, #makeuppart, #makeupartistworldwide, #anastasiabeverlyhills"
   - username: "yasinaltinel"
     fullname: >-
       Yasin Altınel
     bio: >-
-      Influencer ⭐️ Make-Up Artist & Trainer 🎨 ✉️ yasinaltinel@gmail.com New Brand @yasinaltinelofficial 👘 For Shopping👇🏼
+      Management: yasinaltinel@gmail.com DM for Makeup 📩 Unisex Fashion Brand 👘 @yasinaltinelofficial For Shopping👇🏼
     location: "Turkey"
-    followers: 45201
-    engagement: 409
-    commentsToLikes: 0.034405
+    followers: 397898
+    engagement: 28
+    commentsToLikes: 0.023422
     id: ck5hmcid3lpkd0i11njiilkwg
     verified: false
-    hashtags: "#sephora, #cosmetics, #manfashion, #porselenmakyaj"
+    hashtags: "#gelinmakyaj, #sephora, #makeupartist, #bridemakeup"
 ---

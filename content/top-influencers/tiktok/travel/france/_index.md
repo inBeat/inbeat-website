@@ -1,11 +1,11 @@
 ---
-title: Top 10 Travel TikTok Influencers In France In 2023
+title: Top 10 Travel TikTok Influencers In France In 2024
 description: >-
-  Find top travel TikTok influencers in France in 2023. Most popular hashtags: #pourtoi #foryou #fyp #travel.
+  Find top travel TikTok influencers in France in 2024. Most popular hashtags: #pourtoi #foryou #fyp #travel.
 platform: TikTok
 hits: 206
-text_top: Identify the best TikTok accounts on inBeat.
-text_bottom: inBeat holds 206 TikTok influencers like this in France for you to collaborate.
+text_top: Analyze the most popular TikTok influencers on inBeat.
+text_bottom: Our platform has 206 TikTok influencers like this in France for you to work with.
 profiles:
   - username: "_ashletix_"
     fullname: >-
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.077674
     id: ckb9gfze75n6f0j2383331b6n
     verified: false
-    hashtags: "#travelblogger, #visitfrance, #monaco, #tiktokfrance"
+    hashtags: "#cotedazur, #monaco, #fyp, #srbijatiktok"
   - username: "leo.cressant"
     fullname: >-
       Léo Cressant
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.032789
     id: cka0tfj9jpncy0i78zt0japzl
     verified: false
-    hashtags: "#justforyou, #foryou, #fyp, #foryourpage"
+    hashtags: "#justforyou, #foryourpage, #spain, #foryoupage"
   - username: "justingalant"
     fullname: >-
       Justin Galant
@@ -78,7 +78,7 @@ profiles:
     commentsToLikes: 0.066589
     id: ck9dwvka0qqt90j78po69an1j
     verified: false
-    hashtags: "#parisphotographer, #cherryblossoms, #parisphotospots, #wisteria"
+    hashtags: "#cherryblossoms, #tiktokparis, #parisphotospots, #sakura"
   - username: "cavagno"
     fullname: >-
       Adrien Cavagna
@@ -102,7 +102,7 @@ profiles:
     commentsToLikes: 0.009246
     id: ck90tqwrntop40j78mspqtthv
     verified: true
-    hashtags: "#food, #paris, #drole, #humour"
+    hashtags: "#tiktokacademie, #voyage, #comedie, #degustation"
   - username: "thegingerwanderlust"
     fullname: >-
       thegingerwanderlust
@@ -114,7 +114,7 @@ profiles:
     commentsToLikes: 0.041265
     id: ck8saa3wl17580j78ru9knatm
     verified: false
-    hashtags: "#canaryislandstiktok, #pourtoi, #paris, #fyp"
+    hashtags: "#travelblogger, #paris, #tenerife, #pourtoi"
   - username: "loa_nne"
     fullname: >-
       Loa_nne

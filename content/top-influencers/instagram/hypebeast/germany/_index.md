@@ -1,48 +1,108 @@
 ---
-title: Top 10 Hypebeast Instagram Influencers In Germany In 2023
+title: Top 10 Hypebeast Instagram Influencers In Germany In 2024
 description: >-
-  Find top hypebeast Instagram influencers in Germany in 2023. Most popular hashtags: #hypebeast #fashion #streetstyle #hypebeaststyle.
+  Find top hypebeast Instagram influencers in Germany in 2024. Most popular hashtags: #hypebeast #fashion #streetwear #outfit.
 platform: Instagram
-hits: 97
-text_top: See the most popular Instagram profiles on inBeat.
-text_bottom: inBeat aggregates 97 Instagram influencers like this in Germany for you to pitch.
+hits: 96
+text_top: Identify the top-rated Instagram influencers on inBeat.
+text_bottom: Our search engine has 96 Instagram influencers like this in Germany for you to collaborate.
 profiles:
-  - username: "munich_style"
+  - username: "mr.another_one"
     fullname: >-
-      Max
+      Patrick
     bio: >-
-      Hypebeast ✉️ munich_style@gmx.de
+      #Fashion #menstyles #Lifestyle #Gym 📍Hamburg ✉ contact patrick.tyborski@gmail.com Ambassador of @fashionnovamen Presets by @pregramone
     location: "Germany"
-    followers: 79396
-    engagement: 236
-    commentsToLikes: 0.015614
-    id: ck0w431iqwk3a0i19gn455851
+    followers: 41022
+    engagement: 406
+    commentsToLikes: 0.031130
+    id: ck14lcssnu0pp0i19xoseolah
     verified: false
-    hashtags: "#clubmasongarments, #nintendo, #nintendode, #masongarments"
-  - username: "bilmen___"
+    hashtags: "#reels, #teamfashionnova, #miami, #outfitinspo"
+  - username: "bruno_mcd"
     fullname: >-
-      Ugur | Creator - Fashion
+      Bruno Dias
     bio: >-
-      📍 Berlin 🎵 TikTok : bilmen___ 📧 contact@bilmen.de
+      31 | Photographer | Automotive CGI Artist 🇵🇹🇩🇪 Project: Civic EJ8 | Daily: Benz W212 News coming soon @tougekult
     location: "Germany"
-    followers: 53463
-    engagement: 175
-    commentsToLikes: 0.069971
-    id: ck6twrvektqoh0j71oo20j27k
+    followers: 13654
+    engagement: 1619
+    commentsToLikes: 0.015603
+    id: ck138vorsi8i60i19pzu8ebk9
     verified: false
-    hashtags: "#reels, #londonblogger, #snobshots, #simplefits"
-  - username: "soerenkore"
+    hashtags: "#coronarender, #r34, #3dsmax, #blacklist"
+  - username: "creativebytom"
     fullname: >-
-      Sören Murmann 🎞
+      Tom Pätzold
     bio: >-
-      🎥 Video -& Fotograf 📈 Geschäftsführer FrameFluent GmbH 📍 Frankfurt am Main, Germany 📱 Mein neues YouTube Video ⬇️
+      📍 l Dresden, Germany 🧤 I fashion- | travel- | life- | real- | content
     location: "Germany"
-    followers: 39212
-    engagement: 279
-    commentsToLikes: 0.094734
-    id: ck55mfydd3vhr0i11e4o79sz0
+    followers: 4459
+    engagement: 410
+    commentsToLikes: 0.048387
+    id: ck8tbrwmdwvys0j78gqs12buz
     verified: false
-    hashtags: "#beardedmen, #pursuepretty, #traveltheglobe, #contentcreator"
+    hashtags: "#newbalance2002r, #fashionstyle, #jordansdaily, #sneakerdistrict"
+  - username: "samirhomaa"
+    fullname: >-
+      SAMI RHOMA
+    bio: >-
+      TikTok & YouTube: samirhoma👨🏽✌🏾 e-mail : mgmt@samirhoma.com
+    location: "Germany"
+    followers: 172310
+    engagement: 658
+    commentsToLikes: 0.033336
+    id: clu1638j6oah30k08lxsab5g1
+    verified: false
+    hashtags: "#tracksuit, #sneakernews, #highsnobiety, #outfitinspo"
+  - username: "itspbx"
+    fullname: >-
+      ITSPBX
+    bio: >-
+      👨🏻‍🦲 @pieterbeerden 🇧🇪 Automotive Content Creator ⁣ Lightroom Presets & Prints👇
+    location: "Germany"
+    followers: 23491
+    engagement: 1347
+    commentsToLikes: 0.039091
+    id: ck5c8b8ln94gf0i11eyovrisr
+    verified: false
+    hashtags: "#carinstagram, #c63amg, #automotiveart, #carlifestyle"
+  - username: "runners_highest"
+    fullname: >-
+      runners_highest
+    bio: >-
+      A mostly digital place dedicated to all stuff contemporary running-related // by @chrisflanell #runnershighest - newsletter, blog & more:
+    location: "Germany"
+    followers: 39002
+    engagement: 343
+    commentsToLikes: 0.005734
+    id: cldcy00pzixpn0j08o6cu6v7d
+    verified: false
+    hashtags: "#kotd, #hypebeast, #hskicks, #running"
+  - username: "loris.scheider"
+    fullname: >-
+      Loris Scheider
+    bio: >-
+      20y/o | Munich📌 Racing Driver for BMW @autohaus_cuntz 🏎️
+    location: "Germany"
+    followers: 66443
+    engagement: 116
+    commentsToLikes: 0.014642
+    id: ck0u0canqta2c0i19j0qgumd3
+    verified: false
+    hashtags: "#drift, #fastcars, #cars, #scheidermotorsport"
+  - username: "samyfromtheblock"
+    fullname: >-
+      Samira
+    bio: >-
+      ✨queen of aesthetics busy counting hunnids 🧚🏽‍♀️Your favorite hair & make-up artist @makeup.by.samy 🎤Beauty & Lifestyle host
+    location: "Germany"
+    followers: 28893
+    engagement: 78
+    commentsToLikes: 0.023037
+    id: ck8t7y22kidk10j78mi17ar4p
+    verified: false
+    hashtags: "#inspo, #explorepage, #fashioninspo, #stepcorrectuk"
   - username: "andrew.273"
     fullname: >-
       Streetwear | Andy
@@ -55,18 +115,6 @@ profiles:
     id: ck5cjvq58vlkf0i11zo8xd0zc
     verified: false
     hashtags: "#minimalmovement, #klekttakeover, #mydailystreet, #yesnike"
-  - username: "tugceoezel"
-    fullname: >-
-      Fashion / Style / Streetwear
-    bio: >-
-      Based in Germany For business inquiries - DM Vinted: Tugceoezel
-    location: "Germany"
-    followers: 32358
-    engagement: 2425
-    commentsToLikes: 0.019108
-    id: ck15rjuru89zc0i19ltpmf994
-    verified: false
-    hashtags: "#streetwearinspo, #streetwear, #virtualstylist, #snobshots"
   - username: "pa7cal"
     fullname: >-
       Pᴀsᴄᴀʟ | Mᴏᴅᴇʟ | Bʟᴏɢɢᴇʀ
@@ -79,52 +127,4 @@ profiles:
     id: ckapa62ixuv660i78rhecafxr
     verified: false
     hashtags: "#giftsforhim, #houseofstreetwear, #blogger, #autumnmood"
-  - username: "off.pepe"
-    fullname: >-
-      " j u s t i n™ " 🦋
-    bio: >-
-      "living life, in the night" ` 19 y/o - near EF Snap - xpepe_69x 2‘nd acc @off.jstn
-    location: "Germany"
-    followers: 5564
-    engagement: 638
-    commentsToLikes: 0.134222
-    id: ck5hofl2sph4x0i11mez17vqu
-    verified: false
-    hashtags: "#virgilabloh, #detailshot, #hypegoes, #assc"
-  - username: "itsallabout.judy"
-    fullname: >-
-      Judy
-    bio: >-
-      📍 based near Chemnitz, Germany 🔒 @nicetobewithb 💙 Mommy of Mini-M.
-    location: "Germany"
-    followers: 10051
-    engagement: 890
-    commentsToLikes: 0.045820
-    id: ck5hdajrdmduy0i11rmx2ozm8
-    verified: false
-    hashtags: "#sombrebeings, #portrait, #makeup, #portraitvision"
-  - username: "lelciaa"
-    fullname: >-
-      Michaela / Stuttgart
-    bio: >-
-      🇩🇪 German 🇵🇱 Polish 💌 michaela93.kh@gmail.com
-    location: "Germany"
-    followers: 38529
-    engagement: 306
-    commentsToLikes: 0.039581
-    id: ck0w3c8kyso1t0i196snnj3v2
-    verified: false
-    hashtags: "#travel, #outfitoftheday, #hairsandstyles, #moody"
-  - username: "saaliimo"
-    fullname: >-
-      S A L I M 💖
-    bio: >-
-      👻 | snap: saaliimo10 🎶 | TikTok: +935K 💌 | Anfragen: salimo.business@web.de
-    location: "Germany"
-    followers: 100045
-    engagement: 1006
-    commentsToLikes: 0.155888
-    id: ck5zz3jx6b0hh0i14tfzrm6rm
-    verified: false
-    hashtags: "#modeling, #likesforlike, #nike, #style"
 ---

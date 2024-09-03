@@ -1,11 +1,11 @@
 ---
-title: Top 10 Graphic-Designers TikTok Influencers In Los Angeles In 2023
+title: Top 10 Graphic-Designers TikTok Influencers In Los Angeles In 2024
 description: >-
-  Find top graphic-designers TikTok influencers in Los Angeles in 2023. Most popular hashtags: #fyp #graphicdesign #losangeles #foryou.
+  Find top graphic-designers TikTok influencers in Los Angeles in 2024. Most popular hashtags: #fyp #graphicdesign #foryou #losangeles.
 platform: TikTok
-hits: 13
-text_top: See the best TikTok profiles on inBeat.
-text_bottom: Our database holds 13 TikTok influencers like this in Los Angeles, United States for you to work with.
+hits: 12
+text_top: Analyze the most popular TikTok profiles on inBeat.
+text_bottom: Our database has 12 TikTok influencers like this in Los Angeles, United States for you to pitch.
 profiles:
   - username: "silviacantustudio"
     fullname: >-
@@ -31,6 +31,18 @@ profiles:
     id: ck8qic9g18hbf0j78ihgzzel6
     verified: false
     hashtags: "#foryourpage, #screenprinting, #screenprint, #fyp"
+  - username: "brandynmusic"
+    fullname: >-
+      Brandyn Burnette
+    bio: >-
+      I sing, rap & play instruments tryna make the world a better place IG @brandyn
+    location: "United States"
+    followers: 6002
+    engagement: 262
+    commentsToLikes: 0.038479
+    id: ckbamvsmedu3q0j23hajd09h4
+    verified: false
+    hashtags: "#fyp, #foryourpage, #haha, #trend"
   - username: "manebuilt"
     fullname: >-
       Mane
@@ -43,6 +55,18 @@ profiles:
     id: ckb9hmo2a7eea0j23p70oaess
     verified: false
     hashtags: "#4x4, #remdreamcheck, #fy, #manebuilt"
+  - username: "brad.castleberry"
+    fullname: >-
+      Brad Castleberry 
+    bio: >-
+      No bio yet
+    location: "United States"
+    followers: 180300
+    engagement: 337
+    commentsToLikes: 0.024980
+    id: ck8ngel14w3l20j78xzagfaw1
+    verified: false
+    hashtags: "#vibes, #beast, #doitbold, #coldweather"
   - username: "theobanoth"
     fullname: >-
       Theobanoth
@@ -67,18 +91,6 @@ profiles:
     id: cka0qsi0ldy9k0i78ku56x8sg
     verified: false
     hashtags: "#hair, #christmas, #cashappinbio, #rainbow"
-  - username: "therealrasberry"
-    fullname: >-
-      Jonmarc Rasberry
-    bio: >-
-      Artist, Teacher, Christian Welcome, love you all 3000 ❤️ ⬇️My other socials⬇️
-    location: "United States"
-    followers: 25400
-    engagement: 915
-    commentsToLikes: 0.114078
-    id: ckcur2kwvji9f0j236hr9i4qo
-    verified: false
-    hashtags: "#marvel, #nfl, #fyp, #geicolipsync"
   - username: "b._.uggies4"
     fullname: >-
       b._.uggies
@@ -102,7 +114,7 @@ profiles:
     commentsToLikes: 0.013328
     id: ckbf62ibkvfz80j23lfusigl0
     verified: false
-    hashtags: "#keepingbusy, #carguy, #stayathome, #funny"
+    hashtags: "#keepingbusy, #waitforit, #carmods, #carguy"
   - username: "sameliassi"
     fullname: >-
       Sam Eliassi 
@@ -114,17 +126,5 @@ profiles:
     commentsToLikes: 0.047077
     id: ck7zp9nrfo5iu0j78nxpanf74
     verified: false
-    hashtags: "#paint, #foryou, #fyp, #art"
-  - username: "iamargi"
-    fullname: >-
-      Argi
-    bio: >-
-      Technology. Entrepreneurship. Money. 🤓 Software Engineer 🚀
-    location: "United States"
-    followers: 23600
-    engagement: 521
-    commentsToLikes: 0.031068
-    id: ck9ncfcg0bwqk0j781u0nye6d
-    verified: false
-    hashtags: "#coding, #googlesheets, #computerscience, #smma"
+    hashtags: "#foryou, #paint, #painting, #fyp"
 ---

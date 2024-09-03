@@ -1,12 +1,24 @@
 ---
-title: Top 10 Chefs Instagram Influencers In 2023
+title: Top 10 Chefs Instagram Influencers In 2024
 description: >-
-  Find top chefs Instagram influencers in 2023. Most popular hashtags: #foodie #michelinguide #michelin #theartofplating.
+  Find top chefs Instagram influencers in 2024. Most popular hashtags: #foodie #chefsofinstagram #cheflife #foodblogger.
 platform: Instagram
-hits: 5107
-text_top: Identify the most popular Instagram influencers on inBeat.
-text_bottom: Our database holds 5107 Instagram influencers like this for you to pitch.
+hits: 5676
+text_top: Discover the most popular Instagram profiles on inBeat.
+text_bottom: inBeat holds 5676 Instagram influencers like this for you to work with.
 profiles:
+  - username: "zonfrillo"
+    fullname: >-
+      Jock Zonfrillo
+    bio: >-
+      Chef
+    location: "United Kingdom"
+    followers: 337753
+    engagement: 200
+    commentsToLikes: 0.025587
+    id: ck0u1fevywnw80i19po9e4pmq
+    verified: false
+    hashtags: "#ad, #alwaysfresh, #ambassador, #proudlyworking"
   - username: "daphsonn"
     fullname: >-
       Daphne Sonnenschein
@@ -37,12 +49,12 @@ profiles:
     bio: >-
       Chef
     location: "United States"
-    followers: 6558
-    engagement: 429
-    commentsToLikes: 0.045764
+    followers: 7352
+    engagement: 433
+    commentsToLikes: 0.056187
     id: ck0ttsekh44in0i19kmkcilf5
     verified: false
-    hashtags: "#sandiego, #keepgoing, #michelinguide, #food"
+    hashtags: "#food, #californiadreaming, #foodie, #michelinguide"
   - username: "jskenes"
     fullname: >-
       Joshua Skenes
@@ -67,64 +79,52 @@ profiles:
     id: ck5ztgtux0dw10i143qqxzr8j
     verified: false
     hashtags: "#makeitnice, #elevenmadisonpark, #nyc, #pear"
-  - username: "sanjyotkeer"
+  - username: "chelseypecoy"
     fullname: >-
-      Sanjyot Keer
+      Chelsey
     bio: >-
-      Founder @yourfoodlab, Chef by profession & content creator by destiny, bringing smiles through food videos online. 📧: sanjyotkeer@yourfoodlab.com
+      🍃 wellness, travel, food, film photography ✨ southern california 👩🏼‍🌾 founder + chef of @lightheartedkitchen
     location: "United States"
-    followers: 177823
-    engagement: 885
-    commentsToLikes: 0.009212
-    id: ck0vxpugk048s0i19z0hyzvh2
-    verified: true
-    hashtags: "#indiancuisine, #sanjyotkeer, #foodporn, #indianfood"
-  - username: "saengdouangdara"
+    followers: 44726
+    engagement: 1126
+    commentsToLikes: 0.022427
+    id: ck5zs8ag4y0fv0i14nu27w1lu
+    verified: false
+    hashtags: "#fallstyle, #fallfashion, #cabininthewoods, #ad"
+  - username: "chefashishalfred"
     fullname: >-
-      Saeng Douangdara
+      Ashish Alfred
     bio: >-
-      🏳️‍🌈🇱🇦🇺🇸 Lao Food Instructor | Storyteller | Food Writer | Personal Chef #notlarb #laohot #eatmorelaofood Hey Lao food besties, Recipes & More ⬇️
+      Award Winning Chef & Restaurateur @alfredrestaurantgroup TV Host - Bar Rescue Season 9
     location: "United States"
-    followers: 93166
-    engagement: 953
-    commentsToLikes: 0.022262
-    id: ck0uacwyhby6l0i19tabj3qsc
+    followers: 57662
+    engagement: 649
+    commentsToLikes: 0.009638
+    id: ck14kzulds5ld0i19n8qpu5bq
     verified: false
-    hashtags: "#asianfood, #laos, #noodles, #foodie"
-  - username: "georgepapakostas"
+    hashtags: "#restaurantlife, #graduation, #smallbusiness, #staypositive"
+  - username: "askchefdennis"
     fullname: >-
-      George Papakostas
+      Chef Dennis | Ask Chef Dennis®️
     bio: >-
-      Chef | Restaurateur | Consultant | Traveller @theburgerjoint @vittoriagati
-    location: "Greece"
-    followers: 37466
-    engagement: 450
-    commentsToLikes: 0.011262
-    id: ck5zkf7thjdgm0i14esrcsglx
+      Professional Chef | Food Blogger | Recipe Developer | Food Photographer | World Traveler | Podcast Guest | Public Speaker | askchefdennis.com
+    location: "United States"
+    followers: 60997
+    engagement: 409
+    commentsToLikes: 0.001477
+    id: ck5zt9c8fzzg10i14clxaaqae
     verified: false
-    hashtags: "#visitgreece, #gsd, #travelling, #greece"
-  - username: "lennardy"
+    hashtags: "#foodislove, #dinnerideas, #feedfeed, #eeeats"
+  - username: "gourmetangiie"
     fullname: >-
-      Lennard Yeong
+      Gourmetangiie | Atlanta foodie
     bio: >-
-      Once an engineer, now on a journey to learn about food In-house chef at Miele Singapore
-    location: "Singapore"
-    followers: 171893
-    engagement: 327
-    commentsToLikes: 0.014721
-    id: ck6tm39k773pc0j71b2kzsii9
+      Atl Food Influencer 🍴 Private Chef 👩‍🍳 🍽 Professional Taster Restaurant booking Collabs, Private Chef Inquires ➡️ 📧 #atlfoodie #atlantachef 🇯🇲🇬🇾
+    location: "United States"
+    followers: 41015
+    engagement: 431
+    commentsToLikes: 0.046511
+    id: ck5px2vkjptw90i110zd5bgz0
     verified: false
-    hashtags: "#authenticteahouse, #recipeideas, #omelette, #easyrecipes"
-  - username: "pavlos_kiriakis"
-    fullname: >-
-      Pavlos Kiriakis
-    bio: >-
-      ⭐️ @michelinguide 2022 🏛@thezillersathens Executive Chef 🔪@nakanoknives Brand Ambassdor 🔰@moldbrothers Brand Ambassador 📽@gronda Creator
-    location: "Greece"
-    followers: 30812
-    engagement: 309
-    commentsToLikes: 0.024519
-    id: ckf5nu2zhzojq0j23ea26erbr
-    verified: false
-    hashtags: "#michelinstar, #thebestchefawards, #thezillers, #soignefood"
+    hashtags: "#downtownatlanta, #atlantafoodies, #atlbrunch, #atlanta"
 ---

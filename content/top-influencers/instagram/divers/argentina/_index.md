@@ -1,11 +1,11 @@
 ---
-title: Top 10 Divers Instagram Influencers In Argentina In 2023
+title: Top 10 Divers Instagram Influencers In Argentina In 2024
 description: >-
-  Find top divers Instagram influencers in Argentina in 2023. Most popular hashtags: #todorojo #repost #cuarentena.
+  Find top divers Instagram influencers in Argentina in 2024. Most popular hashtags: #skate #independiente #skateboarding.
 platform: Instagram
-hits: 108
-text_top: Analyze the top-rated Instagram accounts on inBeat.
-text_bottom: Our platform aggregates 108 Instagram influencers like this in Argentina for you to pitch.
+hits: 135
+text_top: See the best Instagram accounts on inBeat.
+text_bottom: Our search engine holds 135 Instagram influencers like this in Argentina for you to pitch.
 profiles:
   - username: "cachorrosabroso"
     fullname: >-

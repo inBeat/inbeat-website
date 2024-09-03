@@ -1,130 +1,130 @@
 ---
-title: Top 10 Dancers Instagram Influencers In Italy In 2023
+title: Top 10 Dancers Instagram Influencers In Italy In 2024
 description: >-
-  Find top dancers Instagram influencers in Italy in 2023. Most popular hashtags: #love #dance #blackandwhite.
+  Find top dancers Instagram influencers in Italy in 2024. Most popular hashtags: #love #dance #art #dancer.
 platform: Instagram
 hits: 357
-text_top: Discover the top-rated Instagram profiles on inBeat.
-text_bottom: inBeat holds 357 Instagram influencers like this in Italy for you to pitch.
+text_top: Identify the most popular Instagram influencers on inBeat.
+text_bottom: Our database holds 357 Instagram influencers like this in Italy for you to collaborate.
 profiles:
-  - username: "milejuvelove"
+  - username: "salma__rais"
     fullname: >-
-      🤍🖤 Milena Garreffa 🤍🖤
+      SART
     bio: >-
-      📍#turin 🤍🖤 🎀#model#actress #dancer #showgirl • CiaoDarwin7 🌈 • Furore ⭐ • Pantellas 🥳 My life is my #passion 💗 ➡ follow me #ForzaJuve! 🤍🖤
+      Medical student | Professional dancer | Performer 📩 contact : salmarais2805@gmail.com 💃🏻 . 🕊 . 🇲🇦 . 🩺
     location: "Italy"
-    followers: 19700
-    engagement: 1074
-    commentsToLikes: 0.046889
-    id: ck8t66o44cfip0j787rsra0xs
+    followers: 57702
+    engagement: 677
+    commentsToLikes: 0.042683
+    id: ck5q6c1buws7v0i11zh56smzg
     verified: false
-    hashtags: "#finoallafine, #italy, #milejuve, #iorestoacasa"
-  - username: "saradivaira_real"
-    fullname: >-
-      Sara Di Vaira
-    bio: >-
-      💃🏻Professional Dancer for @ballandoconlestelle 🌍International Judge 🤝🏻Collaboration:Direct 🕴SMManager: @nicco_filippi
-    location: "Italy"
-    followers: 47184
-    engagement: 405
-    commentsToLikes: 0.065586
-    id: ck5c0t5u8tsst0i11mvv1rqtd
-    verified: true
-    hashtags: "#ballandoconlestelle, #picture, #show, #tv"
-  - username: "_jaaysilva"
-    fullname: >-
-      Jay
-    bio: >-
-      a r t i s t 🇧🇷 23 💫 Dancer•Teacher•Model @westsidefull @deptcult @mdcdancebr(Red carpet mentorship program) 📩 contatojaaysilva@gmail.com
-    location: "Italy"
-    followers: 10015
-    engagement: 783
-    commentsToLikes: 0.120130
-    id: ck5hn28rcn2i30i11efqbraxv
-    verified: false
-    hashtags: "#performance, #dance, #class, #somethingnew"
+    hashtags: "#dancelife, #art, #loveyourself, #ikasu"
   - username: "emilyrosecolangelo"
     fullname: >-
       Emily Rose Colangelo
     bio: >-
-      Irish Dancer World Champion👑 🇮🇪/🇮🇹 @d.d.c.t.d | @healthy_cave emilyrosecolangelo1@gmail.com 👻- emilyrose_c04
+      Irish Dancer 3X World Champion👑 🇮🇪/🇮🇹
     location: "Italy"
-    followers: 11240
-    engagement: 1900
-    commentsToLikes: 0.035453
+    followers: 13157
+    engagement: 1413
+    commentsToLikes: 0.016278
     id: ck5c05ty8si3c0i11dmb9qjnw
     verified: false
-    hashtags: "#sportsmodel, #gymsharkwomen, #worldchampion, #irishdancer"
-  - username: "tony_d_voice"
+    hashtags: "#modeling, #sportsmodel, #sportswear, #womenssportswear"
+  - username: "mariarosariadalmontereal"
     fullname: >-
-      ⚡️Tony D. voice⚡️
+      Maria Rosaria®
     bio: >-
-      Based in Milan📍 VOCALIST🎤 DANCER🕺🏾 ◾Alcatraz(MI)◾Noir(MB) ◾Libe(CO) ◾Vibe(BG) ◾Costez(BG) ◾️Vibe Room(MI) 🔺Una mas🔺Unibreak 🔺Locacita 🔺Errezeta
+      Just a dancer🔥 I’m looking for a dance partner +2MTikTok European,International finalist Blackpool finalist @nbcworldofdance @nbclittlebigshots
     location: "Italy"
-    followers: 17076
-    engagement: 461
-    commentsToLikes: 0.378425
-    id: ck13bipd3vlix0i19j6itht7z
+    followers: 577469
+    engagement: 874
+    commentsToLikes: 0.008542
+    id: ck9wfab71ny190j78034zka52
     verified: false
-    hashtags: "#pag, #errezeta, #tonyd, #vocalist"
-  - username: "alexcastri1"
+    hashtags: "#dancing, #dancingqueen, #bailarina, #dancechallenge"
+  - username: "arduino.martina"
     fullname: >-
-      Alessio Castrigiano
+      Arduino Martina
     bio: >-
-      Italian dancer who travels for work, you are all welcome on my journey...🇮🇹😍💃🏽
+      Principal Dancer w/ Teatro alla Scala -Talent is 99% hard work💡
     location: "Italy"
-    followers: 10200
-    engagement: 1088
-    commentsToLikes: 0.060367
-    id: ckaotru0ox7vv0i78ueq98cnc
+    followers: 18776
+    engagement: 580
+    commentsToLikes: 0.017889
+    id: ck13bpzdrwm890i19rsogajik
     verified: false
-    hashtags: ""
-  - username: "giada.mtr"
+    hashtags: "#dreamrole, #beartist, #teatroallascala, #macerata"
+  - username: "virnatoppiofficial"
     fullname: >-
-      𝐆𝐢𝐚𝐝𝐚 𝐌𝐚𝐭𝐫𝐨𝐧𝐞
+      Virna Toppi
     bio: >-
-      ♉ May 8 📸 Photomodel based in Genoa 👉🏼 Educator, dancer, rider, gymnast 📧 Info/collab: matronegiada@gmail.com
+      Donna, ballerina, moglie e mamma❤️🐞 Prima Ballerina del @teatroallascala First Dancer del @bayerischesstaatsballett 19/20. infovirnatoppi@yahoo.com
     location: "Italy"
-    followers: 56624
-    engagement: 444
-    commentsToLikes: 0.044780
-    id: ck6u3ksqyyctt0j71vb77svzw
+    followers: 82698
+    engagement: 741
+    commentsToLikes: 0.009731
+    id: ck55mn0ub4b740i11tkh8mnt2
     verified: false
-    hashtags: ""
-  - username: "cherrynoir_sgh"
+    hashtags: "#love, #memories, #dance, #asia"
+  - username: "_poterista_"
     fullname: >-
-      Cherry Noir
+      Shizen🍃
     bio: >-
-      Fire Dancer • Burlesque Performer • Alternative Model 🇮🇹 Currently in Como 🔥 #fireeaterlady ⚓ #inkeddoll 🦊 #gingerhairgirl
+      🇮🇹Italian ❤️Sponsor/Collab poterista.shizen@outlook.com 🪶Dancer in @supernovacover 🥀Code "poterista02"on @rolecosplaycostume 👼🏻NGE/MiA/DR fag~
     location: "Italy"
-    followers: 20554
-    engagement: 353
-    commentsToLikes: 0.100058
-    id: ck5qarlq5hwli0i1100p1zg48
+    followers: 9541
+    engagement: 424
+    commentsToLikes: 0.075780
+    id: ckf5sznuygjpk0j23h3b1ox06
     verified: false
-    hashtags: "#burlesqueperformer, #sg, #redlips, #mondayinspo"
-  - username: "siimooneettaa__"
+    hashtags: "#videogamecosplay, #italiancosplayer, #genshinimpact, #genshinimpactcosplay"
+  - username: "gianmarcopetrelli"
     fullname: >-
-      Simonetta Comandatore♡
+      GIANMARCO
     bio: >-
-      🤱🏼 Elisa Andrea 🩰 Dancer | Choreographer | Teacher | Latin Shake Coach • #mammaasorpresa
+      #Amici22 Dancer, Creative, Model 📍 Milan // Rome ✉️ gianmarco.petrelli@goldensabre.it
     location: "Italy"
-    followers: 60673
-    engagement: 233
-    commentsToLikes: 0.088939
-    id: ck0txn0t6jp6p0i191dsxadr7
+    followers: 163351
+    engagement: 1776
+    commentsToLikes: 0.008193
+    id: ck5zy12if91ag0i1412clod6q
     verified: false
-    hashtags: "#makeup, #sweet, #giftedby, #italian"
-  - username: "mistercaccamo"
+    hashtags: "#adv, #alessandraamoroso, #amici22, #australia"
+  - username: "robertobolle"
     fullname: >-
-      Roberto Caccamo
+      Roberto Bolle
     bio: >-
-      Italy 📍 IG2 @mrcaccamo TWITTER mrcaccamo Personal Trainer & Gogo Dancer
+      Principal dancer ABT / La Scala
     location: "Italy"
-    followers: 334798
-    engagement: 335
-    commentsToLikes: 0.029973
-    id: ck5hrlkbvv2gd0i11ew20sgm3
+    followers: 860605
+    engagement: 403
+    commentsToLikes: 0.010633
+    id: ck0vyd6uq3efs0i19cjp7s98o
+    verified: true
+    hashtags: "#johncranko, #robertobolleandfriends, #onegin, #christmastree"
+  - username: "kristijanbesirovic"
+    fullname: >-
+      Kristijan Besirovic
+    bio: >-
+      Dancer and Model @elitemodelworld
+    location: "Italy"
+    followers: 11480
+    engagement: 514
+    commentsToLikes: 0.028401
+    id: ck6tnn4oua6bg0j71v8fc6sdw
     verified: false
-    hashtags: "#rainonme, #martedigrasso, #70s, #love"
+    hashtags: "#art, #model, #modeling, #fashion"
+  - username: "___imanuela___"
+    fullname: >-
+      IMANUELA AISIEN
+    bio: >-
+      🇳🇬🇺🇸🇮🇹 Owner: @anyma_agency Owner: @aisienhairstudio Model Hairstylist Professional Dancer Actress
+    location: "Italy"
+    followers: 20848
+    engagement: 320
+    commentsToLikes: 0.075267
+    id: ck138g5bgg2ia0i19lnkh6uh9
+    verified: false
+    hashtags: "#puglia, #pose, #work, #gold"
 ---

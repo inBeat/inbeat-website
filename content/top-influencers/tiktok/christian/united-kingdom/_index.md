@@ -1,11 +1,11 @@
 ---
-title: Top 10 Christian TikTok Influencers In United Kingdom In 2023
+title: Top 10 Christian TikTok Influencers In United Kingdom In 2024
 description: >-
-  Find top christian TikTok influencers in United Kingdom in 2023. Most popular hashtags: #fyp #christian #foryou #duet.
+  Find top christian TikTok influencers in United Kingdom in 2024. Most popular hashtags: #fyp #christian #foryou #foryoupage.
 platform: TikTok
 hits: 133
-text_top: See the top-rated TikTok influencers on inBeat.
-text_bottom: Our database holds 133 TikTok influencers like this in United Kingdom for you to contact.
+text_top: Identify the best TikTok accounts on inBeat.
+text_bottom: Our platform holds 133 TikTok influencers like this in United Kingdom for you to work with.
 profiles:
   - username: "original_oreo_oren2806"
     fullname: >-
@@ -67,18 +67,6 @@ profiles:
     id: cka0pqeht9gvv0i783rhb91sy
     verified: false
     hashtags: "#godsword, #christian, #biblereading, #lord"
-  - username: "curvyblackwitchreacts"
-    fullname: >-
-      J.Rochelle
-    bio: >-
-      🇯🇲32🇬🇧 🏳️‍🌈 She/Her🏳️‍🌈 Ca$h@pp-Curvyblackwitch Laughs and Truths 💙
-    location: "United Kingdom"
-    followers: 82500
-    engagement: 2419
-    commentsToLikes: 0.152304
-    id: ckb19cjw6xd3k0j234jell84n
-    verified: false
-    hashtags: "#trend, #food, #jokes, #spiritualtok"
   - username: "eiad_d"
     fullname: >-
       Eiad
@@ -127,4 +115,16 @@ profiles:
     id: ckav786cce8bv0j23cmlyodx9
     verified: false
     hashtags: "#fyp, #christian, #foryoupage, #foryou"
+  - username: "tigerdragonstorm"
+    fullname: >-
+      Tiger Dragon Storm ⭐
+    bio: >-
+      🔹️High Level Consciousness Tik Toks 🔹️Awakening Course and Books Below
+    location: "United Kingdom"
+    followers: 115000
+    engagement: 1447
+    commentsToLikes: 0.120426
+    id: ck8j8zjbsl3z30j789o2ljtms
+    verified: false
+    hashtags: "#wakeup, #esoteric, #mindblown, #1111"
 ---

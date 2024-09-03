@@ -1,11 +1,11 @@
 ---
-title: Top 10 Pole Dancers TikTok Influencers In 2023
+title: Top 10 Pole Dancers TikTok Influencers In 2024
 description: >-
-  Find top pole dancers TikTok influencers in 2023. Most popular hashtags: #poledancer #fyp #poledancing #foryou.
+  Find top pole dancers TikTok influencers in 2024. Most popular hashtags: #poledancer #fyp #poledancing #foryou.
 platform: TikTok
 hits: 220
-text_top: Discover the best TikTok accounts on inBeat.
-text_bottom: Our database aggregates 220 TikTok influencers like this for you to collaborate.
+text_top: Analyze the most popular TikTok influencers on inBeat.
+text_bottom: inBeat aggregates 220 TikTok influencers like this for you to collaborate.
 profiles:
   - username: "fluffy.mercoon"
     fullname: >-

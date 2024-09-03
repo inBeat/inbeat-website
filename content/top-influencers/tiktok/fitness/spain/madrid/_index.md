@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fitness TikTok Influencers In Madrid In 2023
+title: Top 10 Fitness TikTok Influencers In Madrid In 2024
 description: >-
-  Find top fitness TikTok influencers in Madrid in 2023. Most popular hashtags: #fitness #viral #tiktok #parati.
+  Find top fitness TikTok influencers in Madrid in 2024. Most popular hashtags: #viral #fitness #parati #tiktok.
 platform: TikTok
 hits: 5
-text_top: See the best TikTok influencers on inBeat.
-text_bottom: inBeat aggregates 5 TikTok influencers like this in Madrid, Spain for you to connect with.
+text_top: Identify the top-rated TikTok accounts on inBeat.
+text_bottom: Our database holds 5 TikTok influencers like this in Madrid, Spain for you to connect with.
 profiles:
   - username: "thephilhugo"
     fullname: >-
@@ -66,7 +66,7 @@ profiles:
     commentsToLikes: 0.095480
     id: cka0ivh5cfddv0i78fim8268j
     verified: false
-    hashtags: "#tiktok, #viral, #manbun, #desescalada"
+    hashtags: "#viral, #manbun, #desescalada, #parati"
   - username: "sarumi_"
     fullname: >-
       Sarumi

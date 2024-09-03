@@ -1,12 +1,60 @@
 ---
-title: Top 10 Crossfit Instagram Influencers In Japan In 2023
+title: Top 10 Crossfit Instagram Influencers In Japan In 2024
 description: >-
-  Find top crossfit Instagram influencers in Japan in 2023. Most popular hashtags: #crossfive #model #crossfivefinal.
+  Find top crossfit Instagram influencers in Japan in 2024. Most popular hashtags: #training #fitness #crossfit #workout.
 platform: Instagram
-hits: 10
-text_top: See the best Instagram accounts on inBeat.
-text_bottom: Our database aggregates 10 Instagram influencers like this in Japan for you to work with.
+hits: 14
+text_top: Discover the top-rated Instagram influencers on inBeat.
+text_bottom: Our platform aggregates 14 Instagram influencers like this in Japan for you to contact.
 profiles:
+  - username: "ramichan3"
+    fullname: >-
+      Alex Ramirez
+    bio: >-
+      NPB Baseball HOF, @meikyukai Ambassador for @sheratonyokohama @crossfitmotomachi @vamostogether21 @aitoz_corp @chuaotradingjp @shinshakan_official
+    location: "Japan"
+    followers: 140940
+    engagement: 580
+    commentsToLikes: 0.006214
+    id: ck8t4gm5n6qla0j78613rjs3w
+    verified: false
+    hashtags: "#yokohama, #alwayssmile, #day, #staypositive"
+  - username: "ibrhmcolak"
+    fullname: >-
+      İbrahim Çolak
+    bio: >-
+      2019 World Champion🥇İ💚 2020 European Champion🥇 Tokyo2020🇯🇵Paris2024🇫🇷 manegemnt:@mustafaayata Advert and Partnership DM 📩
+    location: "Japan"
+    followers: 150386
+    engagement: 1142
+    commentsToLikes: 0.009842
+    id: ck8syti4bly580j78d0289agu
+    verified: false
+    hashtags: "#paris2024olympicgames, #teamt, #paris2024, #olympicgames"
+  - username: "aesthetic_ys"
+    fullname: >-
+      Yuki Sorci
+    bio: >-
+      ◽️CEO @evolifeapparel ◾️USBB All Japan Mens Physique Overall🏆 ◽️Fmr Pro MMA Fighter👊🏼 ◾️Trader📈 🔹@vqfit 🔹@yavalabs.official 🔹@mycookiedealer
+    location: "Japan"
+    followers: 347088
+    engagement: 247
+    commentsToLikes: 0.004277
+    id: ck5qcepneq7670i11a2jqf9am
+    verified: false
+    hashtags: "#pt, #fitspo, #muscle, #tokyo"
+  - username: "miyako.610"
+    fullname: >-
+      都  Miyako
+    bio: >-
+      著書『結局、筋トレがいちばんキレイにやせる近道』発売中 Personalgym Owner 🌱@mintgym Fitness Youtube 💭 Miyako's Channel
+    location: "Japan"
+    followers: 93415
+    engagement: 101
+    commentsToLikes: 0.003060
+    id: ck8tc215gy01u0j78fh6krpoo
+    verified: false
+    hashtags: "#haleo, #photooftheday, #fitness, #bikini"
   - username: "junichi1017"
     fullname: >-
       junichi miyashita
@@ -79,52 +127,4 @@ profiles:
     id: ck0w5in753ter0i190eetrcfk
     verified: false
     hashtags: "#bigrim, #solidcarclubmeeting, #whipsbywade, #amaniforgedwheels"
-  - username: "nana_ayase_"
-    fullname: >-
-      綾瀬 奈々
-    bio: >-
-      #関西 #大阪 を拠点に #モデル #ラウンドガール #RQ #イベントコンパニオン 等活動してる姉妹の姉、NANAです｡.:*♡ よく笑います😆 #美容好きと繋がりたい ❤️好きな言葉❤️ 全て上手くいく  #美容 #fashion #cosme #綺麗な写真　が好きです💄💕 ▶︎Twitter
-    location: "Japan"
-    followers: 21748
-    engagement: 324
-    commentsToLikes: 0.042735
-    id: ck9hb8f1mfsl20j78pa2bjttp
-    verified: false
-    hashtags: "#pr, #girlsgolf, #golfr, #follome"
-  - username: "ami_onuki"
-    fullname: >-
-      PUFFY 大貫亜美
-    bio: >-
-      無事アカウント取り返してやったぜ！くれてやるとこだったぜ！もー誰なのあれ笑 puffy tourgoods➡️ www.rocket-exp.com/s/R/artist/202906/item?site
-    location: "Japan"
-    followers: 224259
-    engagement: 417
-    commentsToLikes: 0.004998
-    id: ck5ztnv9x0sg10i14k2lonbxi
-    verified: true
-    hashtags: "#rompus, #25thanniversary, #puffyamiyumi, #photoby"
-  - username: "wavysavvy_9010design"
-    fullname: >-
-      ウェービーサビー・クオイオデザイン OKA
-    bio: >-
-      🚘PORSCHE CAYMAN 🚘CHEVROLET 3100 🚘HONDA CIVIC 自動車内装屋です。Youtubeもやってます↓
-    location: "Japan"
-    followers: 8129
-    engagement: 556
-    commentsToLikes: 0.006620
-    id: ck6tqpqjkt2060j71r9ynqq2e
-    verified: false
-    hashtags: "#9010desin, #wrangler, #rotiform, #usdm"
-  - username: "shinovi.jpn"
-    fullname: >-
-      
-    bio: >-
-      
-    location: "Japan"
-    followers: 1
-    engagement: 3690952
-    commentsToLikes: 0.019026
-    id: ck14krfzrqy160i19znuko2ci
-    verified: false
-    hashtags: "#musicalatina, #brazilfunk, #pureosaka, #reggaetondancer"
 ---

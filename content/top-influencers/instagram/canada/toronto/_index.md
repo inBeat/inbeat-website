@@ -1,11 +1,11 @@
 ---
-title: Top 10 Instagram Influencers In Toronto In 2023
+title: Top 10 Instagram Influencers In Toronto In 2024
 description: >-
-  Find top Instagram influencers in Toronto in 2023. Most popular hashtags: #torontoinfluencer #toronto #torontofoodie.
+  Find top Instagram influencers in Toronto in 2024. Most popular hashtags: #toronto #ootd #explore.
 platform: Instagram
-hits: 822
-text_top: See the top-rated Instagram influencers on inBeat.
-text_bottom: inBeat has 822 Instagram influencers like this in Toronto, Canada for you to connect with.
+hits: 1766
+text_top: Discover the top-rated Instagram influencers on inBeat.
+text_bottom: Our database aggregates 1766 Instagram influencers like this in Toronto, Canada for you to collaborate.
 profiles:
   - username: "toronto"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       Welcome to Toronto⁣, Ontario, Canada. ⁣ ⁣ The main source for everything Toronto ❤️ ⁣
     location: "Canada"
-    followers: 100646
-    engagement: 746
-    commentsToLikes: 0.020675
+    followers: 137243
+    engagement: 485
+    commentsToLikes: 0.026010
     id: ck15qrtnr4bqd0i19cl4c3saa
     verified: false
     hashtags: "#clippers, #nba, #celtics, #torontoraptors"
-  - username: "simplysuppa"
+  - username: "toyomuyiwa"
     fullname: >-
-      Julia Suppa
+      Toyo.
     bio: >-
-      📹 Storyteller | Content Creator @suppamedia 📹 Host | Blogger 💫Inspire, Work Hard, Be Kind, Give Back. Repeat. 📍#Vaughan #Toronto #Canada 🇨🇦
+      For the fashion forward girlies🫶🏾 📍 Toronto 📧 toyomuyiwa@647agency.com @tarsseefashion
     location: "Canada"
-    followers: 7593
-    engagement: 417
-    commentsToLikes: 0.101940
-    id: ck8tbwm6jxgan0j78y4he4wod
+    followers: 24187
+    engagement: 1037
+    commentsToLikes: 0.018127
+    id: ck8szqkknpcjt0j78wo6e49bk
     verified: false
-    hashtags: "#ad, #simplysuppa, #homereno, #yyzmoms"
-  - username: "kaurscloset"
+    hashtags: "#ootd, #outfitinspo, #explore, #newfashion"
+  - username: "shalini_matt"
     fullname: >-
-      Aman Pannu 🕊
+      Shalini
     bio: >-
-      📍toronto 💌 a.kaurscloset@gmail.com 🧖🏻‍♀️ @duomedispa
+      Fashion • Fitness• Beauty 📩: shalini.matt@hotmail.com 📍Toronto, Canada
     location: "Canada"
-    followers: 106712
-    engagement: 768
-    commentsToLikes: 0.009129
-    id: ck14gpysp6gp40i192fbwd2qr
+    followers: 37013
+    engagement: 6730
+    commentsToLikes: 0.001572
+    id: ck6uernicsp5o0j71ntftvyov
     verified: false
-    hashtags: "#motd, #punjab, #reelkarofeelkaro, #punjabisuit"
-  - username: "twourism"
+    hashtags: "#trending, #barbiemovie, #dailyfashion, #fashioninspo"
+  - username: "wooitsmelody"
     fullname: >-
-      A & M - Toronto Foodies
+      MELODY 🐙
     bio: >-
-      Eats 🍔| Travels ✈️| Lifestyle👫🏽l Newly weds💍 🚨Sharing the best deals 🎥 Tiktok: 9.2k 💌 DM/Email to collab or to say hi! #torontofoodie #toronto #halal
+      toronto | soon: nyc 🗽✨ —— fashion, wellness, and travel ✉️ wooitsmelody@gmail.com
     location: "Canada"
-    followers: 12221
-    engagement: 724
-    commentsToLikes: 0.226612
-    id: ck6ubkqqma5jw0j718b18nc2f
+    followers: 6540
+    engagement: 473
+    commentsToLikes: 0.193713
+    id: cktdxnzz18n8z0j234wse30mt
     verified: false
-    hashtags: "#torontoeats, #mississaugafood, #pakistanifashion, #torontobride"
-  - username: "dimedayna"
+    hashtags: "#barbiecore, #diycandle, #couplegoals, #barbie"
+  - username: "simrxndosxnjh"
     fullname: >-
-      DAYNA G🥢
+      Simran Dosanjh
     bio: >-
-      mia🛸toronto all glory to God
+      Toronto 📍 @dulcedomodels @viasim_ 🤍
     location: "Canada"
-    followers: 10942
-    engagement: 665
-    commentsToLikes: 0.018679
-    id: ckqhmphziqbwa0j2347v8e3ww
+    followers: 33812
+    engagement: 778
+    commentsToLikes: 0.018799
+    id: ck6ui8ojvdpbj0j71gsnfhgnw
     verified: false
-    hashtags: ""
-  - username: "connorprice_"
+    hashtags: "#indianwedding, #beauty, #explore, #reels"
+  - username: "theikawong"
     fullname: >-
-      Connor Price
+      Ika Wong
     bio: >-
-      Toronto | LA | Vegas ‘Connor Price’ on Spotify & Apple Music New songs w/ Hoodie Allen out now ↙️
+      📍 Toronto 🇨🇦 ✨ TikTok 400+ | YouTube 470K 💌: theikawong@gmail.com
     location: "Canada"
-    followers: 1415840
-    engagement: 1483
-    commentsToLikes: 0.034572
-    id: ck6tlxwmw6u3s0j71vpnndoao
+    followers: 205864
+    engagement: 1051
+    commentsToLikes: 0.020673
+    id: ck0vyj1o548qf0i199mzfntib
     verified: true
-    hashtags: "#rapper, #reels, #remix, #logic"
-  - username: "lucancoutts"
+    hashtags: "#visittheusa, #greece, #couple, #travel"
+  - username: "biancamauti"
     fullname: >-
-      Lucan Coutts
+      Bianca Mauti
     bio: >-
-      A daydreamer from Toronto ↓ Presets / prints / Discord community
+      what I wear + my life • toronto ♡ bianca.mauti@hotmail.ca
     location: "Canada"
-    followers: 64580
-    engagement: 799
-    commentsToLikes: 0.026738
-    id: ck0u6snta2vg80i19xvf01rvh
+    followers: 8726
+    engagement: 669
+    commentsToLikes: 0.035782
+    id: ckmw1dvng6s560j231bbishvb
     verified: false
-    hashtags: "#lucancoutts, #makeitcountmoments, #makeitcount, #ad"
-  - username: "iframemoments"
+    hashtags: "#pintereststyle, #bloggersunder10k, #outfitoftheday, #torontoblogger"
+  - username: "marinarossa"
     fullname: >-
-      iframemoments | Toronto Content Creator
+      Marina Santarossa
     bio: >-
-      Capturing moments become story covered with memory 📸Food | Product | Portrait | Event Photography 💥Premium Videos Crafted 🔮Let’s Create Magic 📍Toronto
+      toronto! fits, food and other favs inquiries.marina@gmail.com
     location: "Canada"
-    followers: 9887
-    engagement: 465
-    commentsToLikes: 0.249712
-    id: ck5ccyj97i7ti0i11tg9w42gg
+    followers: 19501
+    engagement: 494
+    commentsToLikes: 0.013939
+    id: cldcv474uipqo0j08dwf8kh3s
     verified: false
-    hashtags: "#torontofoodie, #halalfoodie, #santaclausiscomingtotown, #torontofoodblogger"
-  - username: "nourishingmegan"
+    hashtags: "#outfitinspo, #toronto, #bestfriends, #torontolife"
+  - username: "azarialuvsu"
     fullname: >-
-      ᴍᴇɢᴀɴ | ᴠᴇɢᴇᴛᴀʀɪᴀɴ ꜰᴏᴏᴅɪᴇ 🇰🇷🌿
+      A Z A R I A
     bio: >-
-      〰️ ur one n only giveaway queen 📍mississauga | toronto | @megannkim 💌 dm/email for collabs ☻︎
+      Lifestyle ★ Beauty ★ Wellness ★ Travel ★ Self Love 📍Toronto -> Currently: NC 💌 azarialuvsu@gmail.com CEO & Founder @digitaleyesinc
     location: "Canada"
-    followers: 8690
-    engagement: 485
-    commentsToLikes: 0.478054
-    id: ckxlebfeo7ydq0j23c0wvcpyg
+    followers: 22050
+    engagement: 15756
+    commentsToLikes: 0.236991
+    id: ck5zp4iyjrz710i14hd8ttob6
     verified: false
-    hashtags: "#bestoftoronto, #foodie, #dishedto, #torontofoodies"
-  - username: "splashpj"
+    hashtags: "#torontoblogger, #torontostyle, #canadianblogger, #styleoftheday"
+  - username: "shaunawaye"
     fullname: >-
-      splash
+      shauna waye
     bio: >-
-      Toronto 🇨🇦🇳🇵 @mintaveinc Flowing through life. All praise to the most high ❤️
+      fashion + lifestyle 🦋🌸 toronto 🤍 Email: shaunawaye1@gmail.com TikTok: shaunawaye Pinterest: shaunawaye_
     location: "Canada"
-    followers: 24276
-    engagement: 326
-    commentsToLikes: 0.128474
-    id: ckapb6jamyr2z0i78txmi7ixi
+    followers: 21842
+    engagement: 6226
+    commentsToLikes: 0.045524
+    id: ckwu9i0gbuu3o0j23041guztl
     verified: false
-    hashtags: "#21nosavage, #romeitaly, #miamilife, #entrepreneurlifestyle"
+    hashtags: "#ardenelove, #ardenebabe"
 ---

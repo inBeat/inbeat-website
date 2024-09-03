@@ -1,12 +1,24 @@
 ---
-title: Top 10 Illustrators Instagram Influencers In Norway In 2023
+title: Top 10 Illustrators Instagram Influencers In Norway In 2024
 description: >-
-  Find top illustrators Instagram influencers in Norway in 2023. Most popular hashtags: #illustration #art #drawing.
+  Find top illustrators Instagram influencers in Norway in 2024. Most popular hashtags: #art #illustration #drawing.
 platform: Instagram
-hits: 9
-text_top: Discover the top-rated Instagram accounts on inBeat.
-text_bottom: Our search engine aggregates 9 Instagram influencers like this in Norway for you to connect with.
+hits: 10
+text_top: Analyze the best Instagram accounts on inBeat.
+text_bottom: Our search engine aggregates 10 Instagram influencers like this in Norway for you to collaborate.
 profiles:
+  - username: "xoxotsumi"
+    fullname: >-
+      Tsutsumi Hoang
+    bio: >-
+      Digital Content Creator & Illustrator @tsumi.illustration Represented by @patrikssontalent Agent: cajsa.wenstrom@patrikssongroup.com
+    location: "Norway"
+    followers: 313276
+    engagement: 278
+    commentsToLikes: 0.012256
+    id: ck0w1tveul40n0i19gfciewrd
+    verified: true
+    hashtags: "#japan, #tokyo, #kyoto, #bouncyblowout"
   - username: "lisaaisato"
     fullname: >-
       Lisa Aisato

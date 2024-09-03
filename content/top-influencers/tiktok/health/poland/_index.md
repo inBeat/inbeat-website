@@ -1,11 +1,11 @@
 ---
-title: Top 10 Health TikTok Influencers In Poland In 2023
+title: Top 10 Health TikTok Influencers In Poland In 2024
 description: >-
-  Find top health TikTok influencers in Poland in 2023. Most popular hashtags: #dlaciebie #dc #fyp #viral.
+  Find top health TikTok influencers in Poland in 2024. Most popular hashtags: #dc #dlaciebie #viral #fyp.
 platform: TikTok
-hits: 25
-text_top: Analyze the best TikTok influencers on inBeat.
-text_bottom: Our search engine has 25 TikTok influencers like this in Poland for you to connect with.
+hits: 24
+text_top: Identify the most popular TikTok accounts on inBeat.
+text_bottom: Our search engine has 24 TikTok influencers like this in Poland for you to work with.
 profiles:
   - username: "artybryja"
     fullname: >-
@@ -102,7 +102,7 @@ profiles:
     commentsToLikes: 0.010882
     id: ckaiggeco1cip0i78elni821e
     verified: false
-    hashtags: "#funny, #dlaciebie, #joke, #bf"
+    hashtags: "#polska, #dc, #funny, #dlaciebie"
   - username: "sarahtpalmer"
     fullname: >-
       Sarah Palmer 

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Beauty TikTok Influencers In Japan In 2023
+title: Top 10 Beauty TikTok Influencers In Japan In 2024
 description: >-
-  Find top beauty TikTok influencers in Japan in 2023. Most popular hashtags: #japan #beauty #fyp #beautyandthebeast.
+  Find top beauty TikTok influencers in Japan in 2024. Most popular hashtags: #beauty #fyp #japan #fashion.
 platform: TikTok
-hits: 23
-text_top: Analyze the best TikTok profiles on inBeat.
-text_bottom: Our database aggregates 23 TikTok influencers like this in Japan for you to collaborate.
+hits: 22
+text_top: Discover the most popular TikTok accounts on inBeat.
+text_bottom: Our search engine has 22 TikTok influencers like this in Japan for you to pitch.
 profiles:
   - username: "hailicare"
     fullname: >-
@@ -43,18 +43,6 @@ profiles:
     id: ckfplzxtf17iq0j23mbz8c0dx
     verified: false
     hashtags: "#fashion, #jewelrybusiness, #seafood, #mussel"
-  - username: "saxplayerkaori"
-    fullname: >-
-      sax吹き　永井香織
-    bio: >-
-      saxplayer 永井香織です！演奏動画載せます！！ 東京でプロの演奏家として活動しています。 pocochaで毎日配信中！YouTubeもチェックしてね
-    location: "Japan"
-    followers: 45500
-    engagement: 1460
-    commentsToLikes: 0.047980
-    id: ckberlf2r9xoh0j23tttum0ba
-    verified: false
-    hashtags: "#anime, #musicians, #ashmusicschool, #sax"
   - username: "aliraj2"
     fullname: >-
       Ali Raj🇵🇰
@@ -127,4 +115,16 @@ profiles:
     id: cka6bzzuw2b1h0i787cqdoz4w
     verified: false
     hashtags: "#deer, #animals, #cooljapan, #tiktokjapan"
+  - username: "rana_mohsin999"
+    fullname: >-
+      🦁 Rana Mohsin 🦁
+    bio: >-
+      Entrepreneur & Private Supercar Collector🐃 Thanks to Allah for all blessings MA
+    location: "Japan"
+    followers: 202900
+    engagement: 253
+    commentsToLikes: 0.000000
+    id: ck8s7ctjmoppv0j78fxb7ivjb
+    verified: false
+    hashtags: "#swag, #luxury, #sports, #supercar"
 ---

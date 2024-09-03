@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fitness TikTok Influencers In Switzerland In 2023
+title: Top 10 Fitness TikTok Influencers In Switzerland In 2024
 description: >-
-  Find top fitness TikTok influencers in Switzerland in 2023. Most popular hashtags: #foryou #fitness #viral #switzerland.
+  Find top fitness TikTok influencers in Switzerland in 2024. Most popular hashtags: #fitness #fy #fyp #viral.
 platform: TikTok
-hits: 21
-text_top: Discover the best TikTok influencers on inBeat.
-text_bottom: Our database aggregates 21 TikTok influencers like this in Switzerland for you to collaborate.
+hits: 22
+text_top: Analyze the best TikTok accounts on inBeat.
+text_bottom: inBeat has 22 TikTok influencers like this in Switzerland for you to contact.
 profiles:
   - username: "kvn.bs"
     fullname: >-
@@ -31,6 +31,18 @@ profiles:
     id: ckac6091idre30i78vxiipxp1
     verified: false
     hashtags: "#wahran, #gen, #tunes, #esp"
+  - username: "ericwdrae"
+    fullname: >-
+      ericwdrae
+    bio: >-
+      Swiss Shady🇨🇭🇺🇸 Instagram: ericwdrae
+    location: "Switzerland"
+    followers: 29700
+    engagement: 935
+    commentsToLikes: 0.015914
+    id: cka6lvrga4sf10i78j9pwblah
+    verified: false
+    hashtags: "#szene, #fyppp, #sport, #musik"
   - username: "blendimustafa04"
     fullname: >-
       Blendi
@@ -55,6 +67,18 @@ profiles:
     id: ck8vwl1gjor6c0j78e0gvh3l8
     verified: false
     hashtags: "#fitchallenge, #saidbahrii, #ink, #fypage"
+  - username: "rudylong_17"
+    fullname: >-
+      RudyLong
+    bio: >-
+      🤗acting, dabing, positive vibes🤗 🇸🇰 / 🇨🇭 Road to 90K ?? 🙈😍
+    location: "Switzerland"
+    followers: 83200
+    engagement: 1114
+    commentsToLikes: 0.126347
+    id: ckdnv4w1xo6q00j230wqor8yy
+    verified: false
+    hashtags: "#siblings, #fy, #natasha, #bubblehead"
   - username: "maximbusiness"
     fullname: >-
       Maxim Adam
@@ -91,18 +115,6 @@ profiles:
     id: ck95v8rohx6tk0j78d6zuil5s
     verified: false
     hashtags: "#bikergirl, #motorbike, #yamaha, #moto"
-  - username: "jenny._zhh"
-    fullname: >-
-      𝐽 𝐸 𝑁 𝑁 𝑌
-    bio: >-
-      📍𝐵𝑎𝑠𝑒𝑑 𝑖𝑛 𝑍𝑢̈𝑟𝑖𝑐ℎ 𝐺𝑜𝑜𝑑 𝑡ℎ𝑖𝑛𝑔𝑠 𝑛𝑒𝑒𝑑𝑠 𝑡𝑖𝑚𝑒
-    location: "Switzerland"
-    followers: 114600
-    engagement: 2664
-    commentsToLikes: 0.009179
-    id: ck9ntu3hgk2ts0j78nnbjkt5l
-    verified: false
-    hashtags: "#love, #2021, #winter, #foryoupage"
   - username: "marco_schweizer_"
     fullname: >-
       Marco_Swiss_
@@ -115,16 +127,4 @@ profiles:
     id: ckdnkehkhj43a0j2331f30b69
     verified: false
     hashtags: "#axe, #dirt, #blueline, #cops"
-  - username: "trippy_tawny"
-    fullname: >-
-      T
-    bio: >-
-      San Diego State 21' My videos are trash, but go ahead my dear 🧸
-    location: "Switzerland"
-    followers: 4689
-    engagement: 601
-    commentsToLikes: 0.020187
-    id: ckbljw2moctjm0j238uk9va9u
-    verified: false
-    hashtags: "#bfgf, #dance, #foryoupage, #foryou"
 ---

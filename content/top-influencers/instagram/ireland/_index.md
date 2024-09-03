@@ -1,11 +1,11 @@
 ---
-title: Top 10 Instagram Influencers In Ireland In 2023
+title: Top 10 Instagram Influencers In Ireland In 2024
 description: >-
-  Find top Instagram influencers in Ireland in 2023. Most popular hashtags: #gamingroom #twitchstreamer #xboxcontroller.
+  Find top Instagram influencers in Ireland in 2024. Most popular hashtags: #irishstreamers #irish #gamingroom.
 platform: Instagram
-hits: 14
-text_top: Analyze the top-rated Instagram profiles on inBeat.
-text_bottom: Our platform aggregates 14 Instagram influencers like this in Ireland for you to pitch.
+hits: 13
+text_top: Identify the top-rated Instagram influencers on inBeat.
+text_bottom: Our search engine holds 13 Instagram influencers like this in Ireland for you to work with.
 profiles:
   - username: "laura_ogrady"
     fullname: >-
@@ -91,18 +91,6 @@ profiles:
     id: ck0w1t1atkzwm0i195yhw0w1h
     verified: false
     hashtags: "#crushquarantine, #graphic4gman, #thesearch, #sligophysicaltherapy"
-  - username: "greg_callaghan"
-    fullname: >-
-      Greg Callaghan
-    bio: >-
-      Irish 🇮🇪| Enduro mountainbiker racing for @devinciglobalracing & @redbullire 👇Tap here for the latest👇
-    location: "Ireland"
-    followers: 54354
-    engagement: 505
-    commentsToLikes: 0.009621
-    id: ck0u8gud07fk00i198k1xuoj2
-    verified: true
-    hashtags: "#vlogguy, #whatarig, #drone, #wheeliewednesday"
   - username: "timvmurphy"
     fullname: >-
       Timothy V Murphy
@@ -127,4 +115,16 @@ profiles:
     id: ck15tjk8oiegl0i1943k61fz8
     verified: false
     hashtags: "#kacchan, #midoriyaizuku, #artistsoninstagram, #bnha"
+  - username: "kerriemilne"
+    fullname: >-
+      Kerrie Milne
+    bio: >-
+      Dancer/Choreographer/Creative Director Founder/Owner @flydancestudiodublin 🇮🇪 CEO @takeflightintensive_dublin 🌏
+    location: "Ireland"
+    followers: 35601
+    engagement: 475
+    commentsToLikes: 0.052217
+    id: ck0vydfvp3fqk0i19jbt5pwyw
+    verified: false
+    hashtags: "#gualtiero, #wikiwiki, #vibezzzz, #wildsidedancechallenge"
 ---

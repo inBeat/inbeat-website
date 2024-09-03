@@ -1,24 +1,72 @@
 ---
-title: Top 10 Stylists Instagram Influencers In South Africa In 2023
+title: Top 10 Stylists Instagram Influencers In South Africa In 2024
 description: >-
-  Find top stylists Instagram influencers in South Africa in 2023. Most popular hashtags: #happysunday #photography #model.
+  Find top stylists Instagram influencers in South Africa in 2024. Most popular hashtags: #photography #photoshoot #fashionblogger.
 platform: Instagram
-hits: 22
-text_top: Identify the most popular Instagram influencers on inBeat.
-text_bottom: Our database aggregates 22 Instagram influencers like this in South Africa for you to pitch.
+hits: 27
+text_top: Analyze the top-rated Instagram influencers on inBeat.
+text_bottom: Our platform has 27 Instagram influencers like this in South Africa for you to connect with.
 profiles:
-  - username: "napari_isha"
+  - username: "tamaramoeng"
     fullname: >-
-      N A P A R I 👑 🇬🇭
+      .✮ ☆°。*✧･ tamara pusetso moeng
     bio: >-
-      I AM ♾ Being Following the guidance of my soul ♒️ Aspiring stylist open for assisting @_ishotit_ MA @moodmodelmgmt @mgm.models 🇩🇪 @pwrmodels 🇮🇹
+      model • stylist ‎ info@tamaramoeng.com 📍𝘴𝘰𝘶𝘵𝘩 𝘢𝘧𝘳𝘪𝘤𝘢
     location: "South Africa"
-    followers: 22009
-    engagement: 245
-    commentsToLikes: 0.053371
-    id: ck0vz34vc71za0i19pltpmhil
+    followers: 32889
+    engagement: 636
+    commentsToLikes: 0.006666
+    id: ck0w5b9oj2t4i0i195ntl6yg4
     verified: false
-    hashtags: "#happysunday, #napari, #tb, #mercedesbenz"
+    hashtags: "#galaxybuds, #galaxywatch5, #samsungqled, #samsungwasheranddryer"
+  - username: "tasneem_valley"
+    fullname: >-
+      Tasneem Valley
+    bio: >-
+      •aesthetics @tv_skinaesthetics •Glass Skin Expert •Stylist •Closet @tasneemvalleycloset •JHB-SOUTH AFRICA 📧info@tasneemvalley.co.za
+    location: "South Africa"
+    followers: 26515
+    engagement: 182
+    commentsToLikes: 0.046838
+    id: ck0w6en6a87e70i19ren1um4d
+    verified: false
+    hashtags: "#winterfashion, #reelsinstagram, #greecedreamtour, #stylingreels"
+  - username: "young_stilo_"
+    fullname: >-
+      BLOODY YS
+    bio: >-
+      THE CREATIVE POLYMATH PHOTOGRAPHER | MODEL | STYLIST 🦅🇿🇦 BOOKINGS: INKEDPHOTOGRAPHY51@GMAIL.COM
+    location: "South Africa"
+    followers: 167094
+    engagement: 158
+    commentsToLikes: 0.005968
+    id: ck14k22zunca50i190v391cby
+    verified: false
+    hashtags: "#getrealvalue"
+  - username: "roxyamas"
+    fullname: >-
+      Roxy Barker
+    bio: >-
+      ℕ𝕠𝕥 𝕪𝕠𝕦𝕣 𝕒𝕧𝕖𝕣𝕒𝕘𝕖 𝕚𝕟𝕤𝕥𝕒𝕘𝕣𝕒𝕞 𝕞𝕠𝕕𝕖𝕝 Pro makeup artist @makeup_by_roxy_ Stylist & Creator @__raidmycloset WBFF Bikini Pro
+    location: "South Africa"
+    followers: 43617
+    engagement: 138
+    commentsToLikes: 0.014172
+    id: ck0w49eacxfyk0i195a1n2l0w
+    verified: false
+    hashtags: "#womenstyle, #streetstyle, #instagood, #instafashion"
+  - username: "drizzleanddip"
+    fullname: >-
+      Sam Linsell
+    bio: >-
+      Delicious recipes | Cooking & Baking | Food stories | cookbook author | Food photographer & food stylist | Recipe developer | Teaching you to cook
+    location: "South Africa"
+    followers: 67853
+    engagement: 102
+    commentsToLikes: 0.038193
+    id: ck5zryynlxii60i14ronnukt6
+    verified: false
+    hashtags: "#foodstyling, #appetizers, #provinciallife, #makemoments"
   - username: "phuphogumedek"
     fullname: >-
       Phupho Gumede Kardashian
@@ -43,18 +91,6 @@ profiles:
     id: ck6u867ylpo300j71spjc69e2
     verified: false
     hashtags: "#wlyg, #style, #ad, #explore"
-  - username: "zigliv"
-    fullname: >-
-      OLIVIA G. MEYER-MASSEY
-    bio: >-
-      A Reflection Of You | Model, Stylist, Designer & Activist | African-American, Native-American, European-American #MiamiModel #FashionDesigner #Stylist
-    location: "South Africa"
-    followers: 5546
-    engagement: 505
-    commentsToLikes: 0.042957
-    id: ck8t0tdrft8n30j785jg962qj
-    verified: false
-    hashtags: "#fashioninfluencer, #fashionstyle, #fashionphotography, #fitness"
   - username: "fiskanistyle"
     fullname: >-
       Fiskani
@@ -79,52 +115,16 @@ profiles:
     id: ck13bgms0vbua0i19e8wo2q5p
     verified: false
     hashtags: "#poses, #editorialpose, #fashionisters, #stylistssupportingstylists"
-  - username: "milaguy"
+  - username: "themodelanextdoor"
     fullname: >-
-      mila guy
+      Lehlohonolo Kwape
     bio: >-
-      Tiny dancer...and actress...and model...entertainer for ants basically
+      • @bossmodelsjhb • Model • Influencer • Content Strategist
     location: "South Africa"
-    followers: 37494
-    engagement: 573
-    commentsToLikes: 0.008089
-    id: ck5q8fh9v5xb20i11qvufu2s4
+    followers: 15887
+    engagement: 245
+    commentsToLikes: 0.037679
+    id: ckap2mplxzigg0i786vcv9xff
     verified: false
-    hashtags: "#series, #friends, #bestfriends, #soap"
-  - username: "thatninahastie"
-    fullname: >-
-      Nina Hastie
-    bio: >-
-      South African Comedian / Actor / Writer 🇿🇦 Boookings: geraldine@owens.co.za +27721179230
-    location: "South Africa"
-    followers: 90785
-    engagement: 145
-    commentsToLikes: 0.028275
-    id: ck6tpaphtiroi0j71ud52zdsr
-    verified: true
-    hashtags: "#satma15, #southafrica, #cyril, #speech"
-  - username: "kaylischoltz"
-    fullname: >-
-      Kayli Scholtz
-    bio: >-
-      but as for me, I trust in You † 🇿🇦Proudly South African 🦋Fashion Designer @kayli_exclusive
-    location: "South Africa"
-    followers: 15485
-    engagement: 797
-    commentsToLikes: 0.008720
-    id: ck55k2ccmyakk0i11zeccofsn
-    verified: false
-    hashtags: "#ootd, #happysunday, #summer, #fashionshow"
-  - username: "antoneosoul"
-    fullname: >-
-      Anto Neosoul
-    bio: >-
-      Kenya's finest vocalist 🦓🍉🍌🥑🍍 #SINGER TV. RADIO. EMCEE. MARKETER PER EXCELLENCE. Bookings: bookings@antoneosoul.live #SHANGARARAISHA VIDEO ⤵
-    location: "South Africa"
-    followers: 113519
-    engagement: 74
-    commentsToLikes: 0.021443
-    id: ck5qchl6vqlxs0i117eimuuso
-    verified: true
-    hashtags: "#shangararaisha, #tbt, #ntvshootyourshot, #antonaobinna"
+    hashtags: "#influencerdigital, #ootd, #influencerlife, #grwm"
 ---

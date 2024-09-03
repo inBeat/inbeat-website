@@ -1,11 +1,11 @@
 ---
-title: Top 10 Food TikTok Influencers In Finland In 2023
+title: Top 10 Food TikTok Influencers In Finland In 2024
 description: >-
-  Find top food TikTok influencers in Finland in 2023. Most popular hashtags: #fyp #tiktoksuomi #foryou #finland.
+  Find top food TikTok influencers in Finland in 2024. Most popular hashtags: #fyp #tiktoksuomi #finland #foryou.
 platform: TikTok
 hits: 19
-text_top: See the top-rated TikTok profiles on inBeat.
-text_bottom: inBeat has 19 TikTok influencers like this in Finland for you to connect with.
+text_top: Analyze the best TikTok influencers on inBeat.
+text_bottom: inBeat aggregates 19 TikTok influencers like this in Finland for you to pitch.
 profiles:
   - username: "sokerihumala"
     fullname: >-
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.040133
     id: cka0ols6h4dn00i78j5a25k9w
     verified: false
-    hashtags: "#diy, #ttsuomi, #tiktoksuomi, #ruokatiktok"
+    hashtags: "#diy, #suomifry, #suomi, #ruokavinkki"
   - username: "letscookfood"
     fullname: >-
       letscookfood
@@ -66,7 +66,7 @@ profiles:
     commentsToLikes: 0.015792
     id: ckbf3olq7rir20j230ipiyg1s
     verified: false
-    hashtags: "#finland, #foryoupage, #for, #finnish"
+    hashtags: "#music, #spotify, #tuplaw, #finnish"
   - username: "turbosqueezer"
     fullname: >-
       turbosqueezer

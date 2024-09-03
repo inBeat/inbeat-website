@@ -1,11 +1,11 @@
 ---
-title: Top 10 Architecture Instagram Influencers In Sydney In 2023
+title: Top 10 Architecture Instagram Influencers In Sydney In 2024
 description: >-
-  Find top architecture Instagram influencers in Sydney in 2023. Most popular hashtags: #architecture #sydney #australianarchitecture #design.
+  Find top architecture Instagram influencers in Sydney in 2024. Most popular hashtags: #architecture #sydney #design #interiordesign.
 platform: Instagram
-hits: 27
-text_top: See the top-rated Instagram accounts on inBeat.
-text_bottom: Our search engine holds 27 Instagram influencers like this in Sydney, Australia for you to connect with.
+hits: 33
+text_top: Discover the best Instagram accounts on inBeat.
+text_bottom: Our platform holds 33 Instagram influencers like this in Sydney, Australia for you to connect with.
 profiles:
   - username: "peterbbennetts"
     fullname: >-
@@ -19,6 +19,30 @@ profiles:
     id: ck8t3zi5e51ri0j78mrcgjssq
     verified: false
     hashtags: "#bismarckhouse, #melbournearchitecture, #residentialarchitecture, #australianarchitecture"
+  - username: "sian_redgrave"
+    fullname: >-
+      Sian Redgrave
+    bio: >-
+      Cook, Food Stylist & Recipe Developer Represented by @theartline___
+    location: "Australia"
+    followers: 46550
+    engagement: 309
+    commentsToLikes: 0.018540
+    id: clid5n70zzdd00j08uw5ckaur
+    verified: false
+    hashtags: "#food, #foodstyling, #foodphotography, #dessert"
+  - username: "lara_hawwash"
+    fullname: >-
+      Lara Hawwash
+    bio: >-
+      Sydney Australia 🇦🇺 Ambassador:@merlinannualpassanz Modest Fashion | Event planner| Traveller | Mum For collaborating or business exposure DM me
+    location: "Australia"
+    followers: 74051
+    engagement: 87
+    commentsToLikes: 0.509508
+    id: clpwukv3om89f0k086ak78vye
+    verified: false
+    hashtags: "#usa, #giveaway, #giveawaytime, #giveawayiphone"
   - username: "sma.au"
     fullname: >-
       Striking Models Agency 🇦🇺
@@ -43,6 +67,18 @@ profiles:
     id: ck13c52l2ynkh0i19wcfdgmin
     verified: false
     hashtags: "#architecture, #coaparchitects, #canberra, #sydney"
+  - username: "robmillsarchitects"
+    fullname: >-
+      Rob Mills Architecture & Interiors (RMA)
+    bio: >-
+      Redefining residential luxury Architecture & Interior Design ▫️Sydney | Melbourne | New York | Bahamas ▫️Miami | Byron Bay | Perth | Brisbane
+    location: "Australia"
+    followers: 75366
+    engagement: 39
+    commentsToLikes: 0.011253
+    id: ck5c5mjjc3rbq0i11kk3xy9uk
+    verified: false
+    hashtags: "#melbourne, #lifestyle, #sustainablearchitecture, #robmillsarchitects"
   - username: "mylesbaldwin"
     fullname: >-
       Myles Baldwin
@@ -55,18 +91,6 @@ profiles:
     id: ck5zsvi14z9d50i14c8rokuqm
     verified: false
     hashtags: "#pool, #swimmingpool, #countrygarden, #perennials"
-  - username: "aussiearchitects"
-    fullname: >-
-      Australian Architects
-    bio: >-
-      Showcasing the works of Australian architects and interior designers #AussieArchitects @finesocialmedia
-    location: "Australia"
-    followers: 53908
-    engagement: 147
-    commentsToLikes: 0.011774
-    id: ck15qjb4o34ef0i19ivnm3ou7
-    verified: false
-    hashtags: "#homedecor, #bookofhomes, #sydney, #lifestyle"
   - username: "sydneyoperahouse"
     fullname: >-
       Sydney Opera House
@@ -91,40 +115,16 @@ profiles:
     id: ck5zsviymz9fn0i14o709b1uf
     verified: false
     hashtags: "#sydneyarchitecture, #phoenixcentralpark, #durbachblockjaggers, #phoenixperformancespace"
-  - username: "robmillsarchitects"
+  - username: "costeenhatzi"
     fullname: >-
-      Rob Mills Architects (RMA)
+      Costeen
     bio: >-
-      Melbourne | Sydney | Brisbane | Perth | Byron Bay | Architecture & Interiors | AAP Firm of the Year | World Interior Practice of the Year
+      @k1ngkyrg1os ♡ @style.studiodresshire Sydney, Australia
     location: "Australia"
-    followers: 66213
-    engagement: 100
-    commentsToLikes: 0.010879
-    id: ck5c5mjjc3rbq0i11kk3xy9uk
+    followers: 178944
+    engagement: 181
+    commentsToLikes: 0.012474
+    id: clac5cozzss0r0i23ig6xoxtj
     verified: false
-    hashtags: "#robmills, #robmillsarchitects, #interiors, #design"
-  - username: "mk_bricks"
-    fullname: >-
-      
-    bio: >-
-      33 YO Australian LEGO fanatic. Come and join me on my build journey 🚀
-    location: "Australia"
-    followers: 16964
-    engagement: 324
-    commentsToLikes: 0.017375
-    id: ck15s9whcbxrh0i19pcpldzye
-    verified: false
-    hashtags: "#legobuilding, #legoroom, #gold, #legoaustralia"
-  - username: "alborzfallah"
-    fullname: >-
-      𝗔𝗹𝗯𝗼𝗿𝘇 𝗙𝗮𝗹𝗹𝗮𝗵
-    bio: >-
-      #Brisbane Adj. Professor & entrepreneur in residence @UniOfQLD Founder @CarExpert.com.au & @CarAdvice
-    location: "Australia"
-    followers: 19588
-    engagement: 244
-    commentsToLikes: 0.041824
-    id: ck5q0glbh5w7z0i11bzv3s889
-    verified: true
-    hashtags: "#458speciale, #huracanperformante, #brisbane, #engineering"
+    hashtags: "#ad, #ootd, #fashion, #nickkyrgios"
 ---

@@ -1,72 +1,36 @@
 ---
-title: Top 10 Cosmetics Instagram Influencers In France In 2023
+title: Top 10 Cosmetics Instagram Influencers In France In 2024
 description: >-
-  Find top cosmetics Instagram influencers in France in 2023. Most popular hashtags: #outfit #pregnant #outfits.
+  Find top cosmetics Instagram influencers in France in 2024. Most popular hashtags: #makeup #outfit #pregnant.
 platform: Instagram
-hits: 313
-text_top: Identify the most popular Instagram influencers on inBeat.
-text_bottom: Our platform has 313 Instagram influencers like this in France for you to collaborate.
+hits: 332
+text_top: Discover the best Instagram influencers on inBeat.
+text_bottom: inBeat has 332 Instagram influencers like this in France for you to collaborate.
 profiles:
-  - username: "justinagafaro"
+  - username: "mdelriofficiel"
     fullname: >-
-      Justina Gafaro
+      Maria del Rio
     bio: >-
-      Founder of @gafaro.beautyhouse and boutique in Vilnius Beauty e-shop www.gafaro.lt GAFARO cosmetics line @bygafaro Shop premium products:
+      Animatrice radio/tv, comédienne, maman💙 @radiocontact @rtltvi Co-founder @cosmetics.lela 📧: maria@screenfluence.be
     location: "France"
-    followers: 57586
-    engagement: 55
-    commentsToLikes: 0.041438
-    id: ck5zkmuzhjrmh0i14f7ynu3cl
-    verified: false
-    hashtags: "#bride, #nottestedonanimals, #nuotaka, #nuotakosmakiazas"
-  - username: "nouhaila_ytb"
+    followers: 117478
+    engagement: 228
+    commentsToLikes: 0.112538
+    id: ck55lr5ir27kj0i11mhydiue8
+    verified: true
+    hashtags: "#publicit, #hellofreshbelgique, #quetat, #zeb"
+  - username: "ayshglamm"
     fullname: >-
-      Nouhaïla 💕
+      Ayshglamm أيشا غلام
     bio: >-
-      Founder & ceo @noha_cosmetics ✨ Content creator & beauty expert 🌸 My Youtube Channel (400k of beauties) 📽
+      AyshGlamm Academy 📍Paris 🇫🇷 Founder of @ayshglamm.cosmetics Financement CPF Formation & prestation 📧contact@ayshglamm.fr 📧Direction@ayshglamm.fr
     location: "France"
-    followers: 355387
-    engagement: 769
-    commentsToLikes: 0.062593
-    id: ck6uc606cdq5f0j712nt83wz7
+    followers: 503897
+    engagement: 107
+    commentsToLikes: 0.040934
+    id: ck8tb5s0guefx0j78zzrnmlb0
     verified: false
-    hashtags: "#winter, #fashionlover, #nailstyle, #nailsinspiration"
-  - username: "ngone_josyane"
-    fullname: >-
-      Josy Jolie ☺️✨👑
-    bio: >-
-      Med Student | Entrepreneur | Content Creator | CEO of Josy Jolie Cosmetics 🌸 | @josyjoliecosmetics Fashion. Beauty. Music. Lifestyle. 🤍
-    location: "France"
-    followers: 26611
-    engagement: 1056
-    commentsToLikes: 0.169518
-    id: ckapal3jgwjgw0i78hrx3dk54
-    verified: false
-    hashtags: "#sushi, #senegal, #un75, #freeuyghur"
-  - username: "ines.curly"
-    fullname: >-
-      Ines Curly🇩🇿🇲🇦♓️
-    bio: >-
-      Founder of @inescurly.cosmetic 👻 ines.chpl 👻 Créatrice de cosmétiques 💄 Site ines curly cosmetic⬇️
-    location: "France"
-    followers: 174369
-    engagement: 1183
-    commentsToLikes: 0.024088
-    id: ck5cb2f73eljr0i11tkfy7fk5
-    verified: false
-    hashtags: "#sheincurve, #walkyourwonderful, #sheinfashionshow, #sheintogether"
-  - username: "lauraaluve"
-    fullname: >-
-      Lauraa Luve Officiel
-    bio: >-
-      👶🏽👶🏽👼🏽 Mom ♥️🤰🏽 👻 Lauraa_luve 📩 partenariat : pro@lauraaluve.fr Founder of : @lauraaluve.cosmetics & @54nuances.fr
-    location: "France"
-    followers: 155874
-    engagement: 764
-    commentsToLikes: 0.010111
-    id: ck5c4g7r01adf0i112vb8s3q9
-    verified: false
-    hashtags: "#outfit, #outfitinspiration, #outfits, #outfitoftheday"
+    hashtags: "#hair, #maquillage, #ayshglamm, #makeup"
   - username: "ladygaga.chromatica"
     fullname: >-
       𝗟𝗔𝗗𝗬 𝗚𝗔𝗚𝗔 𝗙𝗔𝗡𝗣𝗔𝗚𝗘
@@ -115,16 +79,52 @@ profiles:
     id: ck0vvbkq3oelt0i19sm9hvgok
     verified: false
     hashtags: "#buckandtuckdancefitnesscollection, #smallsnippet, #trainingmode, #whatsinyourbox"
-  - username: "zara.kenzi"
+  - username: "biotipful"
     fullname: >-
-      Zara
+      Biotipful
     bio: >-
-      MBA Degree 📉 Lifestyle blogger 👑💍💎💐🌹✈️🔱 SK cosmetics soon🌸💄🛍️
+      🗼 French blogger 💄Home made cosmetics & tips 🌱 Hair care & natural care 🦄 Bordeaux 📩 Biotipful@gmail.com ⬇️ Blog & derniers articles ⬇
     location: "France"
-    followers: 132539
-    engagement: 166
-    commentsToLikes: 0.031304
-    id: ck9hcem13l0pz0j789k8lfo6t
+    followers: 4449
+    engagement: 833
+    commentsToLikes: 0.304427
+    id: ckaov2u4e2vw20i78x1y3pwhg
     verified: false
-    hashtags: "#zouhirbahaoui, #tanger, #agadir, #douniabatma"
+    hashtags: "#consommermieux, #beautenaturelle, #soinnaturel, #colorationvegetale"
+  - username: "seguindour"
+    fullname: >-
+      Segui Ndour
+    bio: >-
+      Dakar🇸🇳📍 London🇬🇧 Regents university📚🎓 Scorpion 🦂 CEO • Up-Cosmtics 🌐 @up.cosmetics
+    location: "France"
+    followers: 10421
+    engagement: 814
+    commentsToLikes: 0.014107
+    id: ck0w4p944zptt0i19gux08ibt
+    verified: false
+    hashtags: "#deweneti"
+  - username: "beautycookieblog_"
+    fullname: >-
+      Korean & Asian Beauty
+    bio: >-
+      🇫🇷 French Beauty Blog - Pau (64) 🌸 #kbeauty 🍥Asian Cosmetics 🐰 #kawaii lifestyle 📰 #koreanbeauty editor for @kworldmag 🎀 Reviews ⬇️
+    location: "France"
+    followers: 6755
+    engagement: 639
+    commentsToLikes: 0.068491
+    id: ck5c6iukf5j0y0i11cfvhx83v
+    verified: false
+    hashtags: "#lookgorgeous, #antioxydant, #radiantcomplexion, #parabenfree"
+  - username: "jweel.cosmetic"
+    fullname: >-
+      Bitkisel Besin Takviyesi
+    bio: >-
+      
+    location: "France"
+    followers: 45149
+    engagement: 223
+    commentsToLikes: 0.013989
+    id: ck6u547qr7hzj0j71sqew07em
+    verified: false
+    hashtags: "#coronavirus, #cartooningforpeace, #cartooningforsolidarity"
 ---

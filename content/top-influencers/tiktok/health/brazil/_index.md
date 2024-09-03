@@ -1,11 +1,11 @@
 ---
-title: Top 10 Health TikTok Influencers In Brazil In 2023
+title: Top 10 Health TikTok Influencers In Brazil In 2024
 description: >-
-  Find top health TikTok influencers in Brazil in 2023. Most popular hashtags: #fyp #viral #health #motivation.
+  Find top health TikTok influencers in Brazil in 2024. Most popular hashtags: #viral #fyp #health #healthy.
 platform: TikTok
 hits: 45
-text_top: Analyze the best TikTok profiles on inBeat.
-text_bottom: Our database aggregates 45 TikTok influencers like this in Brazil for you to connect with.
+text_top: See the most popular TikTok profiles on inBeat.
+text_bottom: Our search engine holds 45 TikTok influencers like this in Brazil for you to collaborate.
 profiles:
   - username: "maythearo"
     fullname: >-
@@ -25,12 +25,12 @@ profiles:
     bio: >-
       Personal Trainer - USP 🥇 Nutritionist 🍷 Best Trainer Instagram @thais_health
     location: "Brazil"
-    followers: 185500
-    engagement: 551
-    commentsToLikes: 0.012375
+    followers: 186700
+    engagement: 554
+    commentsToLikes: 0.013594
     id: ckc8318q43o0y0j23dh3x7nlk
     verified: false
-    hashtags: "#emagrecimento, #treinoemcasa, #fitness, #lol"
+    hashtags: "#gravidez, #vemprotime, #treinoemcasa, #gravidezcomhumor"
   - username: "kakallil"
     fullname: >-
       Kakallil

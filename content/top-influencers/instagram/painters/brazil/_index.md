@@ -1,12 +1,36 @@
 ---
-title: Top 10 Painters Instagram Influencers In Brazil In 2023
+title: Top 10 Painters Instagram Influencers In Brazil In 2024
 description: >-
-  Find top painters Instagram influencers in Brazil in 2023. Most popular hashtags: #oilpainting #art #drawing #illustration.
+  Find top painters Instagram influencers in Brazil in 2024. Most popular hashtags: #oilpainting #pinturaaoleo #acrylicpainting.
 platform: Instagram
-hits: 868
-text_top: See the best Instagram profiles on inBeat.
-text_bottom: inBeat aggregates 868 Instagram influencers like this in Brazil for you to connect with.
+hits: 878
+text_top: Discover the best Instagram influencers on inBeat.
+text_bottom: Our platform has 878 Instagram influencers like this in Brazil for you to work with.
 profiles:
+  - username: "tatsurokiuchi"
+    fullname: >-
+      Tatsuro Kiuchi 木内達朗
+    bio: >-
+      イラスト、絵本、マンガ、油絵、エッセイなどを制作しています。Tokyo based illustrator, painter. Commissions open. Paintings @kiuchitatsuro
+    location: "Brazil"
+    followers: 39757
+    engagement: 339
+    commentsToLikes: 0.004206
+    id: ck6uc5guidmqi0j718kehi6m4
+    verified: false
+    hashtags: "#tokitime, #caleblandryjones, #doodle, #drawing"
+  - username: "priii_barbosa"
+    fullname: >-
+      Pri Barbosa
+    bio: >-
+      Muralist • Painter • Illustrator ✷ priscilabarbosa@aborda.com.br Agenciada por @aborda.arte.
+    location: "Brazil"
+    followers: 107607
+    engagement: 157
+    commentsToLikes: 0.014969
+    id: ck0ub1vkbdjkt0i19giykol2o
+    verified: false
+    hashtags: "#figurativepainting, #muralism, #streetart, #partiupran"
   - username: "marcelabadolatto"
     fullname: >-
       Marcela Badolatto
@@ -91,18 +115,6 @@ profiles:
     id: ck0w4ujm30h6i0i19fdjeqkgh
     verified: false
     hashtags: "#pinturaaoleo, #ficaemcasa, #pinturacontemporanea, #stayhome"
-  - username: "tatsurokiuchi"
-    fullname: >-
-      Tatsuro Kiuchi 木内達朗
-    bio: >-
-      イラスト、絵本、マンガ、油絵、エッセイなどを制作しています。Tokyo based illustrator, painter. Paintings @kiuchitatsuro Daily photos @dadaisusumu
-    location: "Brazil"
-    followers: 28577
-    engagement: 419
-    commentsToLikes: 0.009584
-    id: ck6uc5guidmqi0j718kehi6m4
-    verified: false
-    hashtags: "#tatsurokiuchi, #art, #drawing, #illustration"
   - username: "wannastayugly"
     fullname: >-
       Márcia Monteiro
@@ -115,16 +127,4 @@ profiles:
     id: ck6trq2xj0fcw0j71yowi6qo6
     verified: false
     hashtags: "#manasartistas, #tfdarte, #watercolor, #aquarela"
-  - username: "carcamo.aquarela"
-    fullname: >-
-      Gonzalo Cárcamo
-    bio: >-
-      Artista plástico e ilustrador. Illustration: @carcamo.illustration Twitter: @Gonzalo.Carcam0 Watercolor painter.
-    location: "Brazil"
-    followers: 17343
-    engagement: 398
-    commentsToLikes: 0.023607
-    id: ck0w3wb2xvm2l0i19ro94almh
-    verified: false
-    hashtags: "#aquarelle, #acquerello, #lbx2020, #aquarela"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Bakers Instagram Influencers In France In 2023
+title: Top 10 Bakers Instagram Influencers In France In 2024
 description: >-
-  Find top bakers Instagram influencers in France in 2023. Most popular hashtags: #foodphotography #cake #dessert #bakersofinstagram.
+  Find top bakers Instagram influencers in France in 2024. Most popular hashtags: #foodphotography #baking #dessert #cake.
 platform: Instagram
-hits: 370
-text_top: See the top-rated Instagram profiles on inBeat.
-text_bottom: Our search engine holds 370 Instagram influencers like this in France for you to pitch.
+hits: 369
+text_top: Analyze the most popular Instagram influencers on inBeat.
+text_bottom: Our database holds 369 Instagram influencers like this in France for you to work with.
 profiles:
   - username: "recueilgourmand"
     fullname: >-
@@ -19,18 +19,30 @@ profiles:
     id: ck8t5c6sd9lrz0j78a75vfzj2
     verified: false
     hashtags: "#dessertlover, #bakingfromscratch, #cakestagram, #icecreamlover"
-  - username: "cindykarmoko"
+  - username: "mysscook"
     fullname: >-
-      CINDY KARMOKO
+      Yousra | يسرى
     bio: >-
-      Big wardrobe 🧳🤣 👠, Beauty, Travel & Fragrance enthusiast ✈️ Home Baker👩🏻‍🍳 @swellrecipes ❤️ #oma🍑 #idressedtothrill #lidahcece
+      Baker | Food Stylist | Food Photographer 📸 ✨ Capturing flavors in every frame 🎥✨ 📍Alger, Algérie 🇩🇿 📧 Contact Pro : yousra.bmrf@gmail.com
     location: "France"
-    followers: 108165
-    engagement: 37
-    commentsToLikes: 0.061865
-    id: ck137q4rfct710i19fx80v9rf
+    followers: 244498
+    engagement: 113
+    commentsToLikes: 0.021241
+    id: ck8t5ou9yaqhd0j780x4tvm01
+    verified: false
+    hashtags: "#summerrecipes, #instadz, #dessert, #easyrecipes"
+  - username: "aazar"
+    fullname: >-
+      Chef Aazar
+    bio: >-
+      Baker at @bakerysession Mgmt: contact@stbproduction.fr Bookings: EU: erin.reade@allofloride.eu ASIA: contact@redlevel.biz ⬇️ AAZAR ⬇️
+    location: "France"
+    followers: 53093
+    engagement: 87
+    commentsToLikes: 0.025469
+    id: ck55pzy3lbrwt0i11sv05526i
     verified: true
-    hashtags: "#makandireels, #viralfood, #idressedtothrill, #coachny"
+    hashtags: "#itssg23, #fetedelamusique, #dance, #bakery"
   - username: "mariapage"
     fullname: >-
       Maria Page (Panagiotidi)
@@ -43,18 +55,6 @@ profiles:
     id: ck0vyexu73n6l0i19botj55ew
     verified: false
     hashtags: "#thepictoriallist, #myfeatureshoot, #zonestreet, #bcncollective"
-  - username: "jennycookies"
-    fullname: >-
-      Jenny Keller
-    bio: >-
-      Baker. Author. Party Girl. SEEN ON: @todayshow @kellyclarksonshow BOOKS: Cookie Class & Eat More Dessert STOREFRONT: @jennycookiesbakeshop
-    location: "France"
-    followers: 133070
-    engagement: 165
-    commentsToLikes: 0.150042
-    id: ck0w3rn3eux7m0i194jrgfi2y
-    verified: true
-    hashtags: "#jennycookiesfavthings, #eatcookiesbemine, #cookiesquad, #eatcookiesbemerry"
   - username: "ataa__love_bb"
     fullname: >-
       Áťa Klápšťová
@@ -91,18 +91,18 @@ profiles:
     id: ck135lhva1zzo0i19rqp1vcem
     verified: false
     hashtags: ""
-  - username: "lecoindupatissier"
+  - username: "applespoon"
     fullname: >-
-      Dorian Tudeau
+      Ying C. 陳穎
     bio: >-
-      Partage de mon savoir faire ✨ 🎁Box de patisserie 100% Française🇫🇷 Qualité professionnelle ! 👨🏻‍🍳 ⬇️ Disponible juste ici ! ⬇️
+      Food writer, pâtissière Paris | Taipei 📍Kyoto 📚: L’Art de la pâtisserie française (#法式甜點學), Liés par la douceur (#法式甜點裡的台灣)
     location: "France"
-    followers: 106185
-    engagement: 251
-    commentsToLikes: 0.059165
-    id: ck5hse74swg5o0i11rq2tjkyk
+    followers: 44951
+    engagement: 44
+    commentsToLikes: 0.013315
+    id: ck15u1amvkxoc0i19belw817a
     verified: false
-    hashtags: "#recette, #faitmain, #entremets, #patissier"
+    hashtags: "#dessertphotos, #sweettooth, #yingspastryguide, #sony"
   - username: "alicepages"
     fullname: >-
       Alice Pagès
@@ -114,7 +114,7 @@ profiles:
     commentsToLikes: 0.043651
     id: ck0ub1bn3dh720i1942zlxan5
     verified: false
-    hashtags: "#brunchathome, #poweredbyplants, #vegancookies, #foodphotography"
+    hashtags: "#norefinedsugar, #granolabowl, #veganbrunch, #instafood"
   - username: "liliebakery"
     fullname: >-
       Aurélie Bresset | LilieBakery

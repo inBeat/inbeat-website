@@ -1,130 +1,130 @@
 ---
-title: Top 10 Instagram Influencers In Venezuela In 2023
+title: Top 10 Instagram Influencers In Venezuela In 2024
 description: >-
-  Find top Instagram influencers in Venezuela in 2023. Most popular hashtags: #venezuela #model #campaign.
+  Find top Instagram influencers in Venezuela in 2024. Most popular hashtags: #venezuela #makeup #caracas.
 platform: Instagram
-hits: 965
-text_top: Analyze the best Instagram accounts on inBeat.
-text_bottom: inBeat aggregates 965 Instagram influencers like this in Venezuela for you to connect with.
+hits: 1016
+text_top: Analyze the most popular Instagram influencers on inBeat.
+text_bottom: inBeat has 1016 Instagram influencers like this in Venezuela for you to connect with.
 profiles:
-  - username: "olivarescfc"
+  - username: "makeupbymurry"
     fullname: >-
-      Oscar Olivares
+      Marisabel Van Der Biest | MUA
     bio: >-
-      🌎 Making art with bottle caps 📘 Estudia dibujo online en @academiaolivares 📩 Contacto@olivaresart.com
+      Pro MUA Certified in Makeup Designory, New York. Content creator 💫 Bridal and social artistry ✨ 👉🏼 @soymurry ✉️ Makeupbymurry@gmail.com
     location: "Venezuela"
-    followers: 222533
-    engagement: 265
-    commentsToLikes: 0.025234
-    id: ck0tw1c2adleq0i19xorb4vnn
+    followers: 143019
+    engagement: 461
+    commentsToLikes: 0.046094
+    id: ck5hjpbahh0x70i111sy5wocl
     verified: false
-    hashtags: "#artistavenezolano, #reel, #venezuela, #inspirational"
-  - username: "franciscoandara"
+    hashtags: "#halloweenmakeuptutorial, #halloweencostume, #makeup, #halloweenmakeup"
+  - username: "beautybymarthap"
     fullname: >-
-      FRANCISCO ANDARA | 📸
+      Martha Patricia | Makeup Artist & Content Creator
     bio: >-
-      || Director creativo || Comunicador social || Fotografía de moda & Retoque
+      Makeup | Beauty | Lifestyle 🦋🌸🌈 Trujillo - Florida AD/PR: beautybymarthap@gmail.com CEO: @elsalon_studio @marthapshop 💕
     location: "Venezuela"
-    followers: 46484
-    engagement: 163
-    commentsToLikes: 0.037919
-    id: ck5pvigxwi1720i115zr4tpin
+    followers: 4516
+    engagement: 856
+    commentsToLikes: 0.064605
+    id: ck6tibv6z0fa70j710p3egnhz
     verified: false
-    hashtags: "#closeup, #venezuelanphotographer, #retoucher, #reflexion"
-  - username: "bettinaromina"
+    hashtags: "#makeupinspo, #physiciansformula, #beautybymarthap, #todaysmakeup"
+  - username: "neckolol"
     fullname: >-
-      Bettina Garcia
+      Necko
     bio: >-
-      “El hubiera no existe” 👧🏼 Mamá de Bettinita @btapiero 🇻🇪 Venezolana de Nacimiento 🇵🇦 Panameña de Adopción
+      🇨🇭 | 🇦🇷 1.94 metros de fracaso Streamer Partner en @twitch Miembro de @teamheretics
     location: "Venezuela"
-    followers: 887070
-    engagement: 90
-    commentsToLikes: 0.048797
-    id: ck0tuaoib6cq40i19d4ckxj1z
-    verified: true
-    hashtags: "#turquia, #bettinita, #expectationvsreality, #pamukale"
-  - username: "missgrandinternational"
-    fullname: >-
-      𝗠𝗶𝘀𝘀 𝗚𝗿𝗮𝗻𝗱 𝗜𝗻𝘁𝗲𝗿𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹
-    bio: >-
-      #WeAreGRANDthe1andOnly MGI ‘22 is @isanmenin from Brazil 🇧🇷
-    location: "Venezuela"
-    followers: 3953105
-    engagement: 77
-    commentsToLikes: 0.016799
-    id: ck0vymryz4rrh0i19zpcku1fi
+    followers: 127508
+    engagement: 2971
+    commentsToLikes: 0.018272
+    id: ck137x5f0dhl10i19rjjg2iuz
     verified: false
-    hashtags: "#grand, #grandexperiences, #missgrandinternational2022, #wearegrandthe1andonly"
-  - username: "estefaniaramirezmakeup"
+    hashtags: "#sett, #kayn, #kabedom, #chamber"
+  - username: "analuciatejeira10"
     fullname: >-
-      Estefanía Ramírez
+      Ana Lucia Tejeira Healy 🍃🇵🇦
     bio: >-
-      🌸 A R T I S T 🌸 ✨ Content Creator - Be your own concept of BEAUTY - 🐰 @ethicalbeauty.ve 💌 estefaniaramirezmakeup@gmail.com
+      Reina del Festival del Sombrero Pintao 2021 🎩 Diseñadora de Interiores 👷🏼‍♀️ Virreina Hispanoamericana 2021 @rhispanaoficial
     location: "Venezuela"
-    followers: 18128
-    engagement: 1353
-    commentsToLikes: 0.068183
-    id: ck5c8lit49qpl0i113dncncnq
+    followers: 15379
+    engagement: 604
+    commentsToLikes: 0.058900
+    id: ck0vxd0isyai90i19vnbxu3yq
     verified: false
-    hashtags: "#beautysquad, #xiogal"
-  - username: "dieguisimo"
+    hashtags: "#europe, #miami, #paradise, #beach"
+  - username: "angellofitness"
     fullname: >-
-      Diego Vallenilla Z
+      𝕬𝖓𝖌𝖊𝖑𝖑𝖔 𝕳𝖊𝖗𝖓𝖆𝖓𝖉𝖊𝖟
     bio: >-
-      Contando historias a través de mis fotos 📍Un venezolano viviendo en Venezuela 📷 Fotografía 📩 Contáctame
+      Carpe Diem 🍀 22 Natural 🌱 🇻🇪🇪🇸
     location: "Venezuela"
-    followers: 48694
-    engagement: 781
-    commentsToLikes: 0.053971
-    id: ck5bwyy64molw0i1113qluyao
+    followers: 11059
+    engagement: 1107
+    commentsToLikes: 0.017127
+    id: ck9wh34hvw19e0j78ikem8xt0
     verified: false
-    hashtags: "#venezuela, #deseoscumplidos, #quequisieras, #valendeviaje"
-  - username: "emilygori"
+    hashtags: "#gymrats, #margarite, #mister, #gymbro"
+  - username: "antosports"
     fullname: >-
-      𝓔𝓶𝓲𝓵𝔂 𝓖𝓸𝓻𝓲👑
+      Antonella Gonzalez
     bio: >-
-      ”Sé feliz, eso vuelve loco a los demás”❤️ Publicidad al DM📥 📌ᴠᴇɴᴇᴢᴜᴇʟᴀ.
+      Periodista deportiva ⚽️ Cubriendo la @mlses en @appletv Sí, entrevisté a @leomessi 😃💪🏻 🎙️ Hablemos sobre la maternidad en mi podcast @morethanmamis
     location: "Venezuela"
-    followers: 108614
-    engagement: 1286
-    commentsToLikes: 0.124860
-    id: ck602x5rajsvr0i14u14h0fx1
+    followers: 180277
+    engagement: 707
+    commentsToLikes: 0.017378
+    id: ck6tnzi1ab9ap0j71svs2vsid
     verified: false
-    hashtags: "#keniaos, #pantojitas, #sorteoiphone, #freefirelatam"
-  - username: "vanevanemchin"
-    fullname: >-
-      V A N E V A N E 🌹
-    bio: >-
-      Única Cuenta📍 Abogada🎖🇻🇪 Diseñadora por vocación ❤️ Imagen Publicitario ✨ Publicidad al DM 💌 CEO: @vanevanebijoux
-    location: "Venezuela"
-    followers: 344282
-    engagement: 593
-    commentsToLikes: 0.030582
-    id: ck9haanf2bt5g0j78vorvvvrh
-    verified: false
-    hashtags: "#nuevacoleccion, #vanevanemchin, #lucecomounareinaconvanevane, #fajaspostoperatorias"
+    hashtags: "#womensday, #cafecitoconmariasgamesa, #messi, #pregnancy"
   - username: "ariannapitino"
     fullname: >-
-      AP.
+      piti🫀
     bio: >-
-      11:11🦂✨ Comunicadora Social🎙 〰️Producción II Dirección Creativa || RRSS Relaciones Públicas || Fashion Consultant v e n e z u e l a 📍
+      💫’97 en este perfil creamos contenido .. y hacemos mucho spam🌄 lifestyle | crossfit🏋🏻 | nature | beach veneca🇻🇪
     location: "Venezuela"
-    followers: 66301
-    engagement: 989
-    commentsToLikes: 0.012180
+    followers: 100595
+    engagement: 573
+    commentsToLikes: 0.014012
     id: ck0tw1ckedlh80i19e0e7a89q
     verified: false
-    hashtags: "#campaign, #photoshoot, #modellife, #throwback"
-  - username: "liaryshernandez"
+    hashtags: "#peace, #ad, #cerro, #lifestyleblogger"
+  - username: "danielacelisg"
     fullname: >-
-      Liarys Hernández
+      Daniela Celis G
     bio: >-
-      𝐋𝐈𝐀𝐇 𝐆𝐑𝐎𝐔𝐏 • @liah.storevzla • @magicoffee.byliah • @liah.spa Business woman 📩 liaryschm@hotmail.com
+      Behind @equilatera_ & @equilatera_kids
     location: "Venezuela"
-    followers: 658794
-    engagement: 572
-    commentsToLikes: 0.048718
-    id: ck5hizk0gfqrc0i1154s3rm5i
+    followers: 42682
+    engagement: 913
+    commentsToLikes: 0.048903
+    id: ck602z3aqk3y70i14cmhf1sxq
     verified: false
-    hashtags: "#liahswimwear"
+    hashtags: "#missvenezuela2023, #missvenezuela, #missm, #danielacelis"
+  - username: "cottyconcha"
+    fullname: >-
+      Constanza Concha
+    bio: >-
+      ✨️AMOR PROPIO Y BODY CONFIDENCE 💌Contact: cottyconcha@gmail.com COME AND TRAVEL WITH ME! 🩷📣👇
+    location: "Venezuela"
+    followers: 82346
+    engagement: 5962
+    commentsToLikes: 0.018236
+    id: ck14hkb1taqql0i19bjkj6wyd
+    verified: false
+    hashtags: "#feminism, #positivity, #selfcare, #makeup"
+  - username: "por.fin.mama"
+    fullname: >-
+      Tatiana Rosales | Tips para mamás y actividades para niños
+    bio: >-
+      ⭐️Mi misión es darle un mejor comienzo a los niños y facilitarle la vida a las mamás 📚Autora del libro infantil MIRA TU CACA Conócelo aquí👇
+    location: "Venezuela"
+    followers: 205819
+    engagement: 1078
+    commentsToLikes: 0.089482
+    id: clpfe0kdjj6py0k087j5p0npf
+    verified: false
+    hashtags: "#tip, #instamom, #actividadesparani, #librosinfantiles"
 ---

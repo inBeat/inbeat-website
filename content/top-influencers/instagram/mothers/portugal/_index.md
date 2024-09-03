@@ -1,130 +1,130 @@
 ---
-title: Top 10 Mothers Instagram Influencers In Portugal In 2023
+title: Top 10 Mothers Instagram Influencers In Portugal In 2024
 description: >-
-  Find top mothers Instagram influencers in Portugal in 2023. Most popular hashtags: #pub #stayhome #missao100portugues.
+  Find top mothers Instagram influencers in Portugal in 2024. Most popular hashtags: #pub #family #sustentabilidade #beauty.
 platform: Instagram
-hits: 27
-text_top: Discover the most popular Instagram profiles on inBeat.
-text_bottom: Our platform holds 27 Instagram influencers like this in Portugal for you to work with.
+hits: 43
+text_top: See the best Instagram accounts on inBeat.
+text_bottom: Our search engine has 43 Instagram influencers like this in Portugal for you to connect with.
 profiles:
+  - username: "tomas_my_special_baby"
+    fullname: >-
+      Andreia Paes De Vasconcellos
+    bio: >-
+      Portuguese Influencer 🇵🇹 |Mother of 👶👶 and 👧 👧One of them has the love chromosome ❤️ Kids,Mums&Lifestyle tomasmyspecialbaby@gmail.com 📩 @ellephant.pt
+    location: "Portugal"
+    followers: 73679
+    engagement: 327
+    commentsToLikes: 0.144448
+    id: ck6twdaodrcx30j71l3hrn2fi
+    verified: true
+    hashtags: "#home, #parceria, #blogtomasmyspecialbaby, #giveaway"
   - username: "anavarelaoficial"
     fullname: >-
       Ana Varela
     bio: >-
       🌿Mother. Actress. Sustainability Advocate. 🎬Acting&Management: rscarrelo@gmail.com 💡PR,Digital & Brands: squad@connosco.pt
     location: "Portugal"
-    followers: 103860
-    engagement: 290
-    commentsToLikes: 0.027824
+    followers: 117516
+    engagement: 261
+    commentsToLikes: 0.032494
     id: ck5q4f1gvou6w0i11c0b7cft3
     verified: true
-    hashtags: "#bmwportugal, #queridospap, #greenlittlestep, #shampoosolidoultrasuave"
-  - username: "yogawith.iva"
+    hashtags: "#pub, #casanocampo, #bmwportugal, #casanocampobyanavarela"
+  - username: "martacyrnecarvalho"
     fullname: >-
-      ivazanotte
+      Marta Cyrne Carvalho
     bio: >-
-      🇵🇹 💪instructor stretching 👚👖yoga model 👉IVA20 my code for discount 👇 🧘‍♂️@yantraconnection Embassador 👵grandmother 👩‍👧‍👧mother of 2 @yoga.feminine
+      Family life 〰️ Mother of 3 Beauty Consultant | Online Skincare Plans Founder of @beautyboxmcc
     location: "Portugal"
-    followers: 16826
-    engagement: 331
-    commentsToLikes: 0.304315
-    id: ckapauezvxic70i78ot2ctr0a
+    followers: 55991
+    engagement: 239
+    commentsToLikes: 0.006716
+    id: ck6u4knjk49al0j7148a8d9r3
     verified: false
-    hashtags: "#yogafeature, #yogasanas, #pilateiras, #faroalgarveportugal"
-  - username: "andreiadinisoficial"
+    hashtags: "#beauty, #savills, #matosinhos, #natura"
+  - username: "fernandaserranooficial"
     fullname: >-
-      Andreia Dinis
+      Fernanda Serrano
     bio: >-
-      🇵🇹 Mulher, mãe, actriz. Bem-vindos. Woman, mother, actress. Welcome! vanessacarmo@lagence.pt @lagence_lisboa
+      🎬 TVI Mother and acting most all the time… 📧 tiago.froufe@thisisluvin.com 📧 sandra.faria@fproducao.pt
     location: "Portugal"
-    followers: 150721
-    engagement: 200
-    commentsToLikes: 0.033108
-    id: ck13bv5paxajt0i19eewrchom
-    verified: false
-    hashtags: "#43inthehouse, #onlylovematters, #diainternacionalparaaelimina, #25denovembro"
-  - username: "sararochapt"
+    followers: 355517
+    engagement: 178
+    commentsToLikes: 0.014137
+    id: ck5hf9q1pwh670i118ftb98iv
+    verified: true
+    hashtags: "#amor, #love, #happy, #family"
+  - username: "zahraomarji"
     fullname: >-
-      Sara Rocha ~ Personal Trainer
+      Zahra Omarji
     bio: >-
-      • Personal Trainer #sararochapt • Motherhood #babyfromtheblock • Acompanhamento Online 👇🏼 ✉ rochasara.pt@gmail.com
+      Mother of @designationofficial - European enquiries zahra@medeamgmt.com
     location: "Portugal"
-    followers: 72041
-    engagement: 195
-    commentsToLikes: 0.036525
-    id: ck6tx8719wdhj0j71cktygnee
+    followers: 49314
+    engagement: 231
+    commentsToLikes: 0.022609
+    id: ck5hhxlfcaknt0i11c9jcu35t
     verified: false
-    hashtags: "#pub, #sararochapt, #babyfromtheblock, #rotinasquenaomudam"
+    hashtags: "#film, #mymercier"
+  - username: "carolinapatrocinio"
+    fullname: >-
+      Carolina Patrocínio
+    bio: >-
+      Tv Host 🎤🇵🇹 mother of 4 Represented by @notable.pt Prozis code: CAROLINA
+    location: "Portugal"
+    followers: 971731
+    engagement: 114
+    commentsToLikes: 0.002465
+    id: ck5ca592acpxw0i11b5lrn0ub
+    verified: true
+    hashtags: "#calzedonia, #pub, #calzedomania, #rugbylife"
+  - username: "anadominguezlemos"
+    fullname: >-
+      Cacomae                   Blog
+    bio: >-
+      Mother, kids,traveller & lifestyle 🌴 A chegar aos 50 com imenso orgulho na idade ❣️ #50anos #mulhermoderna 📩 anadominguezlemos@gmail.com
+    location: "Portugal"
+    followers: 43269
+    engagement: 66
+    commentsToLikes: 0.057643
+    id: ckaoxk72zdmhi0i782ko8kc9g
+    verified: false
+    hashtags: "#feriasdeverao, #wedothefashion, #travelwithkids, #sustentabilidade"
   - username: "jessica_athayde"
     fullname: >-
       Jessy James 🧿
     bio: >-
-      Mother.Actress.Freckles & bad eyebrows. If you’re going to be weird, be confident about it. sergiomotasoares@Gmail.com💻 @lagence_lisboa 🎬📺
+      Mother.Actress.Freckles & bad eyebrows. If you’re going to be weird, be confident about it. sergiomotasoares@Gmail.com Vale tudo🤡 Sic 2+2 🎭 Villaret
     location: "Portugal"
-    followers: 1018206
-    engagement: 290
-    commentsToLikes: 0.008408
+    followers: 1077138
+    engagement: 26
+    commentsToLikes: 0.000463
     id: ck5cac863d5dp0i11worekpd8
     verified: true
-    hashtags: "#pub, #homenagemmonguerlain, #tapforlabels, #naruapelofuturodacultura"
+    hashtags: "#pub, #aguadeluso, #receitaparaamagia, #realmagic"
   - username: "verakolodzig"
     fullname: >-
       Vera Kolodzig
     bio: >-
-      Actress, mother and traveler! 😎 Manager: Leonor Babo Digital: @centralmdigital PR, Digital & Brands: susana@centralmodels.pt
+      Mother, @_kologica_ , coach, traveler and actress 😎 Manager: Leonor Babo Digital: tiago.froufe@thisisluvin.com Coaching: coaching@kologica.com
     location: "Portugal"
-    followers: 269652
-    engagement: 199
-    commentsToLikes: 0.011966
+    followers: 305034
+    engagement: 10
+    commentsToLikes: 0.000625
     id: ck6tq1eccov790j71oo3am8wg
     verified: true
-    hashtags: "#cubanitas, #rtpplay, #leonorbaboactores, #stayhome"
-  - username: "olajarel"
+    hashtags: "#morocco, #portugal, #kologica, #missao100portugues"
+  - username: "catarinafurtadooficial"
     fullname: >-
-      OlajArel🧩
+      Catarina Furtado
     bio: >-
-      𝘠𝘰𝘶 𝘰𝘯𝘭𝘺 𝘭𝘪𝘷𝘦 𝘰𝘯𝘤𝘦, 𝘣𝘶𝘵 𝘪𝘧 𝘺𝘰𝘶 𝘥𝘰 𝘪𝘵 𝘳𝘪𝘨𝘩𝘵, 𝘰𝘯𝘤𝘦 𝘪𝘴 𝘦𝘯𝘰𝘶𝘨𝘩 olajarel@nakata.agency 💌 Wife / Mother of one
+      @unfpa Goodwill Ambassador, President of the NGO @coracoescomcoroa, actress, TV host, author of 3 books and mother of 2. ❤️👑
     location: "Portugal"
-    followers: 191205
-    engagement: 303
-    commentsToLikes: 0.006590
-    id: ck0tytkr9nzpl0i19nisib5ps
-    verified: false
-    hashtags: "#ohpolly"
-  - username: "tomas_my_special_baby"
-    fullname: >-
-      Andreia Paes De Vasconcellos
-    bio: >-
-      Portuguese Influencer 🇵🇹 |Mother of 👶👶 and 👧 One of them has the love chromosome ❤️ Kids,Mums&Lifestyle tomasmyspecialbaby@gmail.com 📩 @ellephant.pt
-    location: "Portugal"
-    followers: 55713
-    engagement: 568
-    commentsToLikes: 0.022801
-    id: ck6twdaodrcx30j71l3hrn2fi
+    followers: 768127
+    engagement: 5
+    commentsToLikes: 0.001692
+    id: ck5c830bf8o6b0i11brmltd9o
     verified: true
-    hashtags: "#ferias, #mywonderfullife, #myfamily, #summer"
-  - username: "ines_mendes_da_silva"
-    fullname: >-
-      Inês Mendes da Silva 🤹🏻‍♀️
-    bio: >-
-      💆‍♀️ CEO @notable.pt 👩🏼‍💻work & motherholic 👩‍👧‍👧 ✨ brands & celebrities 🎧 indie songs 🚀 travelling 🦓 animal print is my favorite color
-    location: "Portugal"
-    followers: 94643
-    engagement: 153
-    commentsToLikes: 0.011875
-    id: ck5zy8mvo9fbn0i14a1k0vrcx
-    verified: false
-    hashtags: "#confinamento, #distanciamentosocial, #onrepeat, #magicalgarden"
-  - username: "sandra_ramos_fernandes"
-    fullname: >-
-      Sandra Fer
-    bio: >-
-      Mother agency: Face Models 🇵🇹(@facemodelsagency) | My booker: pedro@facemodels.pt| ISCSP (CC)|
-    location: "Portugal"
-    followers: 8859
-    engagement: 1310
-    commentsToLikes: 0.017441
-    id: ck5zx3flt79sj0i14yz5yp1i3
-    verified: false
-    hashtags: "#modalisboamais, #ss21"
+    hashtags: "#music, #tvhost, #tvdobem, #talentshow"
 ---

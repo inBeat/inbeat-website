@@ -1,11 +1,11 @@
 ---
-title: Top 10 Home Decor TikTok Influencers In Las Vegas In 2023
+title: Top 10 Home Decor TikTok Influencers In Las Vegas In 2024
 description: >-
-  Find top home decor TikTok influencers in Las Vegas in 2023. Most popular hashtags: #homedecor #lasvegas #fyp #foryou.
+  Find top home decor TikTok influencers in Las Vegas in 2024. Most popular hashtags: #homedecor #lasvegas #fyp #foryou.
 platform: TikTok
 hits: 10
-text_top: Identify the most popular TikTok accounts on inBeat.
-text_bottom: inBeat holds 10 TikTok influencers like this in Las Vegas, United States for you to pitch.
+text_top: See the best TikTok profiles on inBeat.
+text_bottom: Our search engine aggregates 10 TikTok influencers like this in Las Vegas, United States for you to collaborate.
 profiles:
   - username: "michiventures"
     fullname: >-
@@ -19,6 +19,18 @@ profiles:
     id: ck8w3021b6w5j0j78navygw2h
     verified: false
     hashtags: "#homeimprovement, #shoppinghaul, #homedecor, #fyp"
+  - username: "andreaeppolito"
+    fullname: >-
+      andreaeppolito
+    bio: >-
+      Las Vegas Wedding Planner. Event Designer. Author. Coach.
+    location: "United States"
+    followers: 25000
+    engagement: 639
+    commentsToLikes: 0.076920
+    id: ck920ix3xeba90j789c72i0z5
+    verified: false
+    hashtags: "#vegaswedding, #lasvegaswedding, #bride, #wedding"
   - username: "rolitacouture"
     fullname: >-
       Rolita Couture
@@ -31,18 +43,6 @@ profiles:
     id: ck8qnxy4fwk480j78h5eek76h
     verified: false
     hashtags: "#lasvegas, #edmtiktok, #edcoutfit, #ravewear"
-  - username: "andreaeppolito"
-    fullname: >-
-      andreaeppolito
-    bio: >-
-      Las Vegas Wedding Planner. Event Designer. Author. Coach.
-    location: "United States"
-    followers: 25000
-    engagement: 639
-    commentsToLikes: 0.076920
-    id: ck920ix3xeba90j789c72i0z5
-    verified: false
-    hashtags: "#lasvegasweddingplanner, #weddingplanner, #vegas, #weddingplanning"
   - username: "lamamaglamorosaa"
     fullname: >-
       Elizabeth Flores
@@ -54,7 +54,7 @@ profiles:
     commentsToLikes: 0.018629
     id: ckbf46w5zsj670j23le2rd8mn
     verified: false
-    hashtags: "#decorideas, #targetfinds, #target, #amazonfinds"
+    hashtags: "#decorideas, #dollarspotfinds, #targetfinds, #laundry"
   - username: "recyclingrandy"
     fullname: >-
       Randy James
@@ -66,7 +66,7 @@ profiles:
     commentsToLikes: 0.078674
     id: ck81qyg6fky730j78kx9ipiqh
     verified: false
-    hashtags: "#dapper, #teacher, #bowtie, #recycle"
+    hashtags: "#cleaningstrike, #teacherlife, #teacherappreciationweek, #fyp"
   - username: "mrslaurenelms"
     fullname: >-
       MrsLaurenElms
@@ -90,7 +90,7 @@ profiles:
     commentsToLikes: 0.020003
     id: ckbfedepk88n20j23l5stcfae
     verified: false
-    hashtags: "#western, #outfit, #fashion, #boots"
+    hashtags: "#engagement, #nfr, #western, #rodeo"
   - username: "devanie.at.home"
     fullname: >-
       devanie.at.home

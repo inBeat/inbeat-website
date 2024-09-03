@@ -1,12 +1,48 @@
 ---
-title: Top 10 Music Instagram Influencers In Ukraine In 2023
+title: Top 10 Music Instagram Influencers In Ukraine In 2024
 description: >-
-  Find top music Instagram influencers in Ukraine in 2023. Most popular hashtags: #photooftheday #chillvibes #losangeles.
+  Find top music Instagram influencers in Ukraine in 2024. Most popular hashtags: #chillvibes #photooftheday #djlife.
 platform: Instagram
-hits: 76
-text_top: Analyze the most popular Instagram profiles on inBeat.
-text_bottom: Our database holds 76 Instagram influencers like this in Ukraine for you to collaborate.
+hits: 86
+text_top: Discover the best Instagram profiles on inBeat.
+text_bottom: inBeat aggregates 86 Instagram influencers like this in Ukraine for you to connect with.
 profiles:
+  - username: "im.arinari"
+    fullname: >-
+      ᴀʀɪɴᴀ ʟᴜʙɪᴛᴇʟᴇᴠᴀ 🇺🇦
+    bio: >-
+      LA 📍🇺🇸 model @geneticmodels | host | music ʙᴇᴀᴜᴛʏ & ꜰᴀꜱʜɪᴏɴ ʟᴏᴠᴇʀ 🫀 ᴏᴡɴᴇʀ @lav.brand ᴀᴅ 📮 @arina.ri_cooperation
+    location: "Ukraine"
+    followers: 123507
+    engagement: 578
+    commentsToLikes: 0.004056
+    id: ck6tq3fyrp5zt0j71i6rjgqxf
+    verified: true
+    hashtags: "#ysl, #zielinskiandrozen, #nyc, #arcticmonkeys"
+  - username: "spartaquelive"
+    fullname: >-
+      Spartaque
+    bio: >-
+      🔥High Energy Techno🔥 📀 Owner of @codexrec @chlore_records @iamt_music_group @tuneinmag 🚀Follow my entrepreneur account @vitalibabi
+    location: "Ukraine"
+    followers: 142388
+    engagement: 228
+    commentsToLikes: 0.041908
+    id: ck0vvojl8q1ts0i19z9qxaxl0
+    verified: true
+    hashtags: "#lifeofadj, #barcelonaviews, #spartaquelive, #technofamily"
+  - username: "mylatkachenko"
+    fullname: >-
+      Liudmyla Tkachenko
+    bio: >-
+      Ukrainian 🇺🇦 model / DJ based in LA 🇺🇸 Ambassador @FashionNova @flexupusaofficial @novaukraine 🌱👸🏼 Check Out my Music 🎶 ⬇️
+    location: "Ukraine"
+    followers: 2008786
+    engagement: 53
+    commentsToLikes: 0.003366
+    id: ck5hdw4v5po7p0i11ij14rfbg
+    verified: false
+    hashtags: "#musicislife, #cheerstoanotheryear, #gratefulheart, #djlife"
   - username: "tania.bnbproject"
     fullname: >-
       Tania Mazur
@@ -91,40 +127,4 @@ profiles:
     id: ckf5pjf2b6bnz0j23781bf3df
     verified: false
     hashtags: "#chillvibes, #chillingcat, #christmastree, #sunsetlover"
-  - username: "freitas_yulia"
-    fullname: >-
-      Freitas
-    bio: >-
-      Телеведущая на Music Box @musicboxua
-    location: "Ukraine"
-    followers: 16437
-    engagement: 625
-    commentsToLikes: 0.011206
-    id: ck5zxhzvp81mf0i14fiqkgin5
-    verified: false
-    hashtags: ""
-  - username: "vladaaaaa_m"
-    fullname: >-
-      💎Vladelina Romanovna💎
-    bio: >-
-      🇺🇦❤️Khm,Ukraine 👩‍🏫Teacher 🛍My shop: 👩🏼 @oooh_my_look & 🧔🏻 @wooow_men Співпраця в Direct 📩 🎶Music 🔥👇
-    location: "Ukraine"
-    followers: 72080
-    engagement: 242
-    commentsToLikes: 0.009285
-    id: ckaozss85n8nb0i78uq21dw29
-    verified: false
-    hashtags: "#happy, #birthday, #khmelnitsky, #ukraine"
-  - username: "dariakolomiec_"
-    fullname: >-
-      Daria Kolomiec
-    bio: >-
-      Host / Dj Contact me: daria@kolomiec.com Download my MusiCures App/open Musical Journal:
-    location: "Ukraine"
-    followers: 47120
-    engagement: 157
-    commentsToLikes: 0.037147
-    id: ck5c9do0ob8re0i11nr65h7cz
-    verified: false
-    hashtags: "#happyvalentinesday, #burnenergy, #yourpartyyourrules, #musicures"
 ---

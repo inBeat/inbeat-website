@@ -1,24 +1,84 @@
 ---
-title: Top 10 Gaming Instagram Influencers In Indonesia In 2023
+title: Top 10 Gaming Instagram Influencers In Indonesia In 2024
 description: >-
-  Find top gaming Instagram influencers in Indonesia in 2023. Most popular hashtags: #freefire #pubgmobile #freefirememe #freefireindonesia.
+  Find top gaming Instagram influencers in Indonesia in 2024. Most popular hashtags: #freefire #pubgmobile #gaming #mlbb.
 platform: Instagram
-hits: 257
-text_top: Identify the most popular Instagram influencers on inBeat.
-text_bottom: inBeat aggregates 257 Instagram influencers like this in Indonesia for you to connect with.
+hits: 285
+text_top: Identify the top-rated Instagram influencers on inBeat.
+text_bottom: Our platform has 285 Instagram influencers like this in Indonesia for you to contact.
 profiles:
-  - username: "matchamei"
+  - username: "flovysmeea"
     fullname: >-
-      Matcha Mei
+      Meea
     bio: >-
-      🇮🇩 ➡️ 🇰🇷 😇 @reoncomics Official Cos 💻 @asusid TUF Gaming BA 📩 Business: matchamei.contact@gmail.com HD photos download👇🏻
+      Just another human on this planet who works for a gaming company and loves to ride her bike. ✨ Inquiries: hi.flovysmeea@gmail.com
     location: "Indonesia"
-    followers: 219677
-    engagement: 292
-    commentsToLikes: 0.011962
-    id: ck0vxovatzzk80i19rxur5dbx
+    followers: 10344
+    engagement: 441
+    commentsToLikes: 0.053123
+    id: ckap0431von6p0i78cw3c6zmg
+    verified: false
+    hashtags: "#caferacer, #garagetalks, #bike, #jacket"
+  - username: "bangpen"
+    fullname: >-
+      BANGPEN
+    bio: >-
+      Follow & share ya biar semangat terus😁 @realmeindonesia Gaming Creator • manager : +6281288983012 (ica) @genesisdogma @paoxtipi @cleanlink_air_filtech
+    location: "Indonesia"
+    followers: 847397
+    engagement: 197
+    commentsToLikes: 0.022778
+    id: ck0vzaz3p87ap0i19qm1rm5k6
     verified: true
-    hashtags: "#asusid, #tufgaming, #genshinimpact, #asusgaming"
+    hashtags: "#liverpoolfc, #lifehacks, #reels, #onepiece"
+  - username: "punipun7"
+    fullname: >-
+      Clarissa Punipun, BSc (Hons), S.Kom.
+    bio: >-
+      BA @asusrog.id & @duniagames.co.id Cosplay '06・Games・Music・Tech 🏆🇮🇩 Gaming Award'19🏆KGA22🏆#2 NHK Kawaii VC🏅くらて学園大使 💌Manager:+62 812-8180-6111
+    location: "Indonesia"
+    followers: 634736
+    engagement: 95
+    commentsToLikes: 0.021007
+    id: ck0vxovjhzzm80i19s72htfj8
+    verified: false
+    hashtags: "#hololiveid, #hololive, #gamergirl, #asusrog"
+  - username: "inah"
+    fullname: >-
+      Inah de Belen Estrada
+    bio: >-
+      ACTRESS 🇵🇭 GAMING AND CONTENT CREATOR for @tieroneentertainment @getamplfyed Tiktok: @inahdb92 Elsa 🐶✝️/ Loki🐱 @_lokithepersian
+    location: "Indonesia"
+    followers: 478009
+    engagement: 20
+    commentsToLikes: 0.007779
+    id: ckaoywpwajcuc0i78xo9zvwia
+    verified: true
+    hashtags: "#palmolivepositivityhub, #unwineding, #haaaytobuhaynabuhay, #bingosasayaplussapanalo"
+  - username: "audreyffreal"
+    fullname: >-
+      AudreyFF Gaming
+    bio: >-
+      • Gamepreneur • @dreyzilla.id • Topup di @loopup.id 👍 • Gaming + stay healthy = YES
+    location: "Indonesia"
+    followers: 271993
+    engagement: 5
+    commentsToLikes: 0.005053
+    id: ck0vza4cs82sj0i196c0i52ex
+    verified: false
+    hashtags: "#jagoangaming, #tecnopova3, #ggwp, #stopatnothing"
+  - username: "mobilelegendswtf"
+    fullname: >-
+      mobilelegendswtf 🔥
+    bio: >-
+      Hiburan seputar ML👋 . TOPUP💎@mlshop.gaming 〰️ PP , Topup 1 detik👇
+    location: "Indonesia"
+    followers: 697635
+    engagement: 54
+    commentsToLikes: 0.041216
+    id: ck0tx0snkhfdw0i19or5vczyj
+    verified: false
+    hashtags: ""
   - username: "ar.kaw"
     fullname: >-
       Arkaw
@@ -43,18 +103,6 @@ profiles:
     id: ckaot3lhfu86v0i78lg3mydt9
     verified: false
     hashtags: "#naisaofficial, #quoteskeren, #tiktokers, #tanyamama"
-  - username: "dreamerop"
-    fullname: >-
-      DreamerINTENSE
-    bio: >-
-      ▪️clan : iNTENSE ▪️Device : iPhone 11 ▪️Pubg id :5559871675 ▪️ Personal id : @sham_singh07 ▪️🔍search youtube : Dreamer Gaming
-    location: "Indonesia"
-    followers: 33838
-    engagement: 1125
-    commentsToLikes: 0.022895
-    id: ck9wggusotcu60j78vmvp02ab
-    verified: false
-    hashtags: ""
   - username: "ff.spyke"
     fullname: >-
       Spyke Siapa?
@@ -79,52 +127,4 @@ profiles:
     id: ckaou8lokzaj70i78ln0k7u4r
     verified: false
     hashtags: "#pubgpro, #epicpubgmemes, #pubgepicmemes, #pubgmobileindonesia"
-  - username: "aandermawan_"
-    fullname: >-
-      🙏🙏🙏
-    bio: >-
-      Going where I feel most alive. 📍 Makassar ✈️ Freelance drone pilot 🎮 Gaming Streamer (Online almost everyday) check fanpage fb for link streaming⬇️
-    location: "Indonesia"
-    followers: 3083
-    engagement: 1315
-    commentsToLikes: 0.113864
-    id: ck13ag328q87m0i19fplatlhb
-    verified: false
-    hashtags: "#dji, #beautifuldestinations, #indonesia, #mavicpro"
-  - username: "sf_gaming01"
-    fullname: >-
-      SF GaminG
-    bio: >-
-      🎯 || YT : SF GaminG 👥 || 2ACC @ff_ucuup . SUBSCRIBE 👇
-    location: "Indonesia"
-    followers: 95499
-    engagement: 881
-    commentsToLikes: 0.054517
-    id: ckapa88djv4l70i78teipeg9g
-    verified: false
-    hashtags: "#quoteskeren, #freefirewtf, #garenafreefire, #freefirebucin"
-  - username: "cherrylimon"
-    fullname: >-
-      𝓛𝓲𝓼𝓪 𝓚𝔂𝓸𝓲𝓬𝓱𝓲
-    bio: >-
-      💄@cherrylimon.mua 🎮 Gaming Caster ✨Makeup & Fashion enthusiast . Subs My OnlyFans!👇🏻
-    location: "Indonesia"
-    followers: 9767
-    engagement: 337
-    commentsToLikes: 0.036598
-    id: ck8sxi2l4hh6q0j78600d16iq
-    verified: false
-    hashtags: "#egirl, #alt, #egirlmakeup, #altgirl"
-  - username: "ichsanfl"
-    fullname: >-
-      Ihsan Fahd Lubis
-    bio: >-
-      Work hard & play hard. Joki Gaming : @jokemon.id
-    location: "Indonesia"
-    followers: 5425
-    engagement: 648
-    commentsToLikes: 0.086423
-    id: ckap78mwnj0zt0i78c2tui3xh
-    verified: false
-    hashtags: "#jualakunmoba, #jualakunml, #jualakunmlbb, #mlbb"
 ---

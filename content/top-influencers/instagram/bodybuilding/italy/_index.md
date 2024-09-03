@@ -1,24 +1,24 @@
 ---
-title: Top 10 Bodybuilding Instagram Influencers In Italy In 2023
+title: Top 10 Bodybuilding Instagram Influencers In Italy In 2024
 description: >-
-  Find top bodybuilding Instagram influencers in Italy in 2023. Most popular hashtags: #fitness #training #bodybuilding.
+  Find top bodybuilding Instagram influencers in Italy in 2024. Most popular hashtags: #fitness #bodybuilding #motivation.
 platform: Instagram
-hits: 197
-text_top: See the best Instagram accounts on inBeat.
-text_bottom: Our search engine aggregates 197 Instagram influencers like this in Italy for you to work with.
+hits: 215
+text_top: Identify the most popular Instagram influencers on inBeat.
+text_bottom: Our platform has 215 Instagram influencers like this in Italy for you to work with.
 profiles:
   - username: "max_veganfit"
     fullname: >-
       Massimo Brunaccioni
     bio: >-
-      ★ WNBF Pro Men’s Physique 🥇Men’s Physique World Champion ‘19 🌱 Vegan ☆ Fitness & nutrition coach ☆ Natural bodybuilding coach 📚Author VEGAN COACH
+      🥇Campione 🌎 natural bodybuilding WNBF PRO 🌱Vegan da 12 anni 💪🏼Fitness & nutrition coach @myproteinit Su @v_athlete_official parlo di allenamento
     location: "Italy"
-    followers: 50394
-    engagement: 501
-    commentsToLikes: 0.028855
+    followers: 74313
+    engagement: 347
+    commentsToLikes: 0.019097
     id: ck55nqzsp6srp0i11usfdcaq8
     verified: true
-    hashtags: "#severomagiusto"
+    hashtags: "#bodybuilding, #veganbodybuilding, #veganprotein, #fulldayofeating"
   - username: "_.silvanina._"
     fullname: >-
       Silvia Vernelli
@@ -79,6 +79,18 @@ profiles:
     id: ck6u1h9vhlpyr0j715xf96qgt
     verified: false
     hashtags: ""
+  - username: "doravinciguerra"
+    fullname: >-
+      DORA VINCIGUERRA
+    bio: >-
+      🌱Stile di vita vegan 🌱 📚 consigli per lo studio 📚 🏃‍♀️Corsa e Bodybuilding🏋🏼‍♀️ Ambassador @foodspring_it (-15% : doraFSG)
+    location: "Italy"
+    followers: 26510
+    engagement: 316
+    commentsToLikes: 0.057997
+    id: ck0ua7rcibpcn0i19utfavfc0
+    verified: false
+    hashtags: "#veganitalia, #cucinavegetale, #foodspring, #mare"
   - username: "fitness.world.italia"
     fullname: >-
       Fitness World Italia
@@ -103,28 +115,16 @@ profiles:
     id: ck5q2q26ph8r80i110lhoqbx6
     verified: false
     hashtags: "#bodybuilding, #motionmagazine, #fitness, #alive"
-  - username: "manuel_caruso_calisthenics"
+  - username: "maks_martyn.ifbbproleague"
     fullname: >-
-      Manuel Caruso
+      maks
     bio: >-
-      🤸‍♂️Trainer & performer 📩Coaching Online 🏆Competitive athlete 🎟️Prozis -10% CARUSO10 ⬇️⬇️⬇️⬇️⬇️⬇️
+      Designer di Fibre Muscolari Bodybuilding 💪 Cucina 🍽 Travel 🌐 Couch @deniskapustin_off
     location: "Italy"
-    followers: 90907
-    engagement: 4096
-    commentsToLikes: 0.009509
-    id: ck14jwjg0mjq00i19kj845qvh
+    followers: 8079
+    engagement: 242
+    commentsToLikes: 0.077393
+    id: ck5hnaf8hngrp0i11spd4t1yz
     verified: false
-    hashtags: "#milano, #spagna, #funny, #viralreels"
-  - username: "angelicaceci95"
-    fullname: >-
-      Angelica 💙
-    bio: >-
-      Roma 🇮🇹 Estetista💆‍♀️ Nail artist 💅 Passion for fashion👗👠 Fitness addict🏋️‍♀️
-    location: "Italy"
-    followers: 3701
-    engagement: 1356
-    commentsToLikes: 0.078475
-    id: ck8t5wrudbi500j78diegkd83
-    verified: false
-    hashtags: "#veneziagram, #viaggiare, #travelblog, #throwback"
+    hashtags: "#rimini, #riccione, #aesthetic, #italia"
 ---

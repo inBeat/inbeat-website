@@ -1,132 +1,132 @@
 ---
-title: Top 10 Instagram Influencers In Turkey In 2023
+title: Top 10 Instagram Influencers In Turkey In 2024
 description: >-
-  Find top Instagram influencers in Turkey in 2023. Most popular hashtags: #tbt #throwbackthursday #fashion.
+  Find top Instagram influencers in Turkey in 2024. Most popular hashtags: #turkey #reels #istanbul #travel.
 platform: Instagram
-hits: 13865
-text_top: Analyze the top-rated Instagram profiles on inBeat.
-text_bottom: Our database has 13865 Instagram influencers like this in Turkey for you to contact.
+hits: 13687
+text_top: Discover the most popular Instagram influencers on inBeat.
+text_bottom: inBeat aggregates 13687 Instagram influencers like this in Turkey for you to work with.
 profiles:
-  - username: "handemiyy"
+  - username: "colorfulbonvoyage"
     fullname: >-
-      Hande Erçel
+      ᗰIYᑌKI
     bio: >-
-      🦋 @idiletisim
+      🇺🇸↔️🌎 Flight Attendant ✈️ 🏡 LA 🌴ロス在住 🌈 All about color 🎨
     location: "Turkey"
-    followers: 29303530
-    engagement: 781
-    commentsToLikes: 0.006987
-    id: ck0u0anhet3b60i19rpb2k2np
+    followers: 29708
+    engagement: 731
+    commentsToLikes: 0.315054
+    id: ck8tdqiwh4eko0j78af03rqic
+    verified: false
+    hashtags: "#travelgirlshub, #girlmeetsglobe, #californiastyle, #tabijyomap"
+  - username: "leilashaheen"
+    fullname: >-
+      𝙻𝚎𝚒𝚕𝚊 𝚂𝚑𝚊𝚑𝚎𝚎𝚗
+    bio: >-
+      𝙵𝙰𝚂𝙷𝙸𝙾𝙽 | 𝙻𝙸𝙵𝙴𝚂𝚃𝚈𝙻𝙴 | 𝚃𝚁𝙰𝚅𝙴𝙻 🦷𝙳𝙴𝙽𝚃𝙸𝚂𝚃- 𝙳𝙳𝚂 📍𝙸𝚂𝚃𝙰𝙽𝙱𝚄𝙻 🇹🇷 𝙴𝙼𝙼𝙰 𝙰𝙼𝙱𝙰𝚂𝚂𝙰𝙳𝙾𝚁
+    location: "Turkey"
+    followers: 85410
+    engagement: 641
+    commentsToLikes: 0.014342
+    id: ckap86jf3n1ot0i78gzvpyf5v
+    verified: false
+    hashtags: "#oversized, #styleblogger, #winter, #nike"
+  - username: "rahawts"
+    fullname: >-
+      Raha Wantons
+    bio: >-
+      Sound on 🔊 📧Partnership : Sekoya@socalitemgmt.com
+    location: "Turkey"
+    followers: 814319
+    engagement: 757
+    commentsToLikes: 0.017300
+    id: ck0w51for1fv70i19jv5cce4j
+    verified: false
+    hashtags: "#raha, #rahawantons, #rahawts, #naturephotography"
+  - username: "levijedmurphy"
+    fullname: >-
+      LEVI JED MURPHY
+    bio: >-
+      tiktok: levijedmurphy (5.7M) ♡ business: henry@cadence-talent.com ♡
+    location: "Turkey"
+    followers: 257211
+    engagement: 523
+    commentsToLikes: 0.016355
+    id: ck5zsk6gzynjr0i14zkjk1ne1
     verified: true
-    hashtags: "#alleyesonus, #ne, #nocturnexhandeer, #landroverdefender"
-  - username: "bidakikada"
+    hashtags: ""
+  - username: "houdasouiba"
     fullname: >-
-      bidakikada
+      HOUDA 🇲🇦 | Solo traveler 💪🏼
     bio: >-
-      Serra’nın gözünden bi dakikada merak ettiğin her şey 🌎
+      ✨ | Creating a life I love 📷 | Content Creator ✈️ | 19 countries - 83 cities 📍 | Paris, France
     location: "Turkey"
-    followers: 270770
-    engagement: 400
-    commentsToLikes: 0.031898
-    id: ckaorcswzmn4x0i786hi34k89
+    followers: 14093
+    engagement: 483
+    commentsToLikes: 0.156362
+    id: ck8t8fjghk9pj0j785v683xbi
     verified: false
-    hashtags: "#catsofinstagram, #ciltbak, #do, #10kas"
-  - username: "yoldabiblog"
+    hashtags: "#photography, #blogeusevoyage, #alwaystraveling, #moroccangirl"
+  - username: "hadleyogarro"
     fullname: >-
-      Yolda bi' Blog
+      Hadley Ogarro
     bio: >-
-      a travel blog from 𖤥 Istanbul | Berlin 𓀠 Asya | Umut | Leo ✎ iletisim@yoldabiblog.com
+      #InHadleyWeTrust 🌍 food, events, fits, lifestyle + travel 📧 hello@hadleyogarro.com 📍 london
     location: "Turkey"
-    followers: 221616
-    engagement: 402
-    commentsToLikes: 0.260298
-    id: ck5ca1871cik10i11nanokltr
+    followers: 15447
+    engagement: 835
+    commentsToLikes: 0.092943
+    id: clivee2x62kfo0j08i3hyv71x
     verified: false
-    hashtags: "#portekiz, #destinationofart, #france, #christmasmarket"
-  - username: "monicaawidy"
+    hashtags: "#celestyaljourney, #londonrestaurants, #celestyal, #wizzair"
+  - username: "mireyarios"
     fullname: >-
-      Monica Ayu W 📍 SIDOARJO
+      Mireya Rios
     bio: >-
-      ✨ Beauty | Food | Lifestyle 📱 Tiktok : monicaayuww 🧑‍💻 @nyehatpol | @selerakini 📣 business inq? Dm or 👇🏻 📩 monicaayuwidyani08@gmail.com
+      NY mireyarios@underscoretalent.com
     location: "Turkey"
-    followers: 4443
-    engagement: 864
-    commentsToLikes: 0.033954
-    id: ckf5mxv9rvuxm0j23k5swcw7u
-    verified: false
-    hashtags: "#youngleaders, #matchamuhunters, #sepatucatscewek, #serumacne"
-  - username: "iamrxngh"
+    followers: 527878
+    engagement: 594
+    commentsToLikes: 0.010137
+    id: ck8wcy791d5qy0j78g0af9037
+    verified: true
+    hashtags: "#ad, #differinpartner, #dothingsdifferin"
+  - username: "akif.rumeysa"
     fullname: >-
-      R O X A N N A
+      Rümeysa Celik
     bio: >-
-      Travel | Youtube | Lifestyle Mine💍 @sepy.ak Ad : @roxana.ads 📥
+      Wifey 💍 Mom Zeyd Mirza👼🏻 🎥YT: Akif & Rümeysa DM for COOPERATION📩
     location: "Turkey"
-    followers: 2407735
-    engagement: 938
-    commentsToLikes: 0.013647
-    id: ck9wiyr0j4iob0j78bnmw90qi
+    followers: 57464
+    engagement: 465
+    commentsToLikes: 0.016473
+    id: ck9hb9eiqfwl90j788xfw94xs
     verified: false
-    hashtags: "#fashion, #explore, #love, #style"
-  - username: "ezgi_gor"
+    hashtags: "#tatil, #weekend, #turkey, #ramadan"
+  - username: "ahsentalyakurtul"
     fullname: >-
-      Ezgi Gör
+      Talya
     bio: >-
       
     location: "Turkey"
-    followers: 172262
-    engagement: 963
-    commentsToLikes: 0.020964
-    id: ck0vvl4xhplq00i19g7iedta4
+    followers: 26585
+    engagement: 752
+    commentsToLikes: 0.063022
+    id: ck0w5c75o2xop0i19ty31txma
     verified: false
-    hashtags: "#crazyhair"
-  - username: "oykuberkan"
+    hashtags: "#capetown, #ekg, #annebebek, #can"
+  - username: "gurkankacmazz"
     fullname: >-
-      Öykü Berkan ♡
+      Gürkan Kaçmaz
     bio: >-
-      𝓉𝒽𝑒𝓇𝑒 𝓈𝒽𝑒 𝒾𝓈. ♡ oyku@medialoji.com
+      91119919111✨ Influencer | Marketing&Pr Travel | LifeStyle | Fashion Reklam ve İş birlikleri için 📩 gurkan@thepeggi.co @eventmag Private Club
     location: "Turkey"
-    followers: 792367
-    engagement: 703
-    commentsToLikes: 0.002295
-    id: ck6u8fngvrbez0j71v0ajkwfc
+    followers: 107673
+    engagement: 416
+    commentsToLikes: 0.038907
+    id: ckf5ttxg6irk50j237na50dj0
     verified: false
-    hashtags: "#morethanagift, #shotforpandora"
-  - username: "burcuozberk"
-    fullname: >-
-      Burcu Özberk
-    bio: >-
-      🌅 🤍🌼
-    location: "Turkey"
-    followers: 9291177
-    engagement: 478
-    commentsToLikes: 0.010638
-    id: ck5casrr8e21a0i11ncpk1325
-    verified: true
-    hashtags: "#cl215leriucurturkiye, #pradaholiday22, #tbt, #venezia79"
-  - username: "serhanacarf1"
-    fullname: >-
-      Serhan Acar
-    bio: >-
-      Melis'in ve Selim'in babası, 🥰 MSM, @tosfedofficial Genel Sekreteri, @ssporttr @f1 sunucusu, elektrik mühendisi // @f1 Turkish TV Commentator
-    location: "Turkey"
-    followers: 42793
-    engagement: 658
-    commentsToLikes: 0.007509
-    id: ck5hpfazlr9hl0i11zgpvggim
-    verified: false
-    hashtags: "#countdown, #tbt, #gerisayim, #2023"
-  - username: "pinarrdenizzz"
-    fullname: >-
-      Pinar Deniz
-    bio: >-
-      Hiç.
-    location: "Turkey"
-    followers: 2745589
-    engagement: 621
-    commentsToLikes: 0.008732
-    id: ck9we4hjvijt10j78rjyuo042
-    verified: true
-    hashtags: "#havadanm, #gozlerineinanamayacaksin, #mazi, #letsnetwork"
+    hashtags: "#reklam, #kesfet, #fashionstyle, #dubai"
 cities:
   - name: Istanbul
     link: /instagram/turkey/istanbul

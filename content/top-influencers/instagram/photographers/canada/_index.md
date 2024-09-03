@@ -1,11 +1,11 @@
 ---
-title: Top 10 Photographers Instagram Influencers In Canada In 2023
+title: Top 10 Photographers Instagram Influencers In Canada In 2024
 description: >-
-  Find top photographers Instagram influencers in Canada in 2023. Most popular hashtags: #travelcouple #ad #beautifuldestinations.
+  Find top photographers Instagram influencers in Canada in 2024. Most popular hashtags: #banffnationalpark #explorebc #sonyalpha #ig.
 platform: Instagram
-hits: 386
-text_top: Identify the top-rated Instagram profiles on inBeat.
-text_bottom: inBeat aggregates 386 Instagram influencers like this in Canada for you to contact.
+hits: 509
+text_top: Analyze the most popular Instagram accounts on inBeat.
+text_bottom: Our platform has 509 Instagram influencers like this in Canada for you to collaborate.
 profiles:
   - username: "qassim_photographie"
     fullname: >-
@@ -25,106 +25,106 @@ profiles:
     bio: >-
       Internationally published photographer 📍REUNION island 🇫🇷 👉bookings / collab ▶️ INBOX
     location: "Canada"
-    followers: 33372
-    engagement: 162
-    commentsToLikes: 0.022945
+    followers: 33669
+    engagement: 119
+    commentsToLikes: 0.024092
     id: ck0u076kjsvve0i19v0fcrw24
     verified: false
-    hashtags: ""
-  - username: "yakeandmarie"
+    hashtags: "#parisphotographer, #towel, #montrealphotographer, #reunionisland"
+  - username: "briony"
     fullname: >-
-      JAKE & MARIE 🇨🇦
+      Briony Douglas
     bio: >-
-      Photographers & travel bloggers from Vancouver, BC ↓ hiking, camping, & road-tripping tips 🏔 ↓ check out the blog & new reels yakeandmarie@gmail.com
+      Like Peony but Briony VISUAL ARTIST / PHOTOGRAPHER Inquiries- Info@brionydouglas.com
     location: "Canada"
-    followers: 50132
-    engagement: 383
-    commentsToLikes: 0.080729
-    id: ckpn0txlc3n1z0j231bpbkko6
+    followers: 90788
+    engagement: 426
+    commentsToLikes: 0.038564
+    id: ck0udjdwaj7d70i19g1i4of0t
     verified: false
-    hashtags: "#hikingtheglobe, #luxurytravel, #tourcanada, #optoutside"
-  - username: "belowtheblonde"
+    hashtags: "#hubbabubbapink, #hubbabubbapartner"
+  - username: "sandrinesanterre"
     fullname: >-
-      Amanda Weldon
+      Sandrine Santerre
     bio: >-
-      ⋒ Photographer + Content Creator ☁️ ☼ YouTuber / ex @weathernetwork / @torontomarlies ☼ Host & Creator of @wediditpodcast ￼ ☼ ENFJ & Colitis Warrior ✨
+      Content Creator | lifestyle, travel, fashion. Montréal , Canada. Photographer 📸 @muse.agencecreative sandrinesanterre@outlook.com
     location: "Canada"
-    followers: 13850
-    engagement: 302
-    commentsToLikes: 0.153474
-    id: ck13alkzrqz230i19rjo4twu1
+    followers: 6226
+    engagement: 523
+    commentsToLikes: 0.085424
+    id: cktdxnz268mgi0j234zhlutff
     verified: false
-    hashtags: "#belowtheblonde, #hamont, #ad, #scrunchies"
-  - username: "cest.vendredi"
+    hashtags: "#invitation, #iweargarage, #osheaga2022, #creatricedecontenu"
+  - username: "skincarebyshawn"
     fullname: >-
-      Vendredi (aka Friday)
+      𝐒𝐇𝐀𝐖𝐍 🪴
     bio: >-
-      Welcome to my uncurated life. My kids wear colour. I don’t have a white kitchen but I love to cook! Photographer @docephotography Gamer, BTS ARMY 💜
+      •Toronto, Canada 🇨🇦 •Product Photographer 📸 •PR & Collab 👇 skincarebyshawn@gmail.com 💌 •Skincare junkie 🐒 •Wear ur damn spf ☀️😉
     location: "Canada"
-    followers: 11432
-    engagement: 160
-    commentsToLikes: 0.147879
-    id: ckaoxer12cy4c0i78ym1zt6qv
+    followers: 7741
+    engagement: 1644
+    commentsToLikes: 0.261351
+    id: cl3w8yt1dcedq0i23qvl2rnmg
     verified: false
-    hashtags: "#toddlerlife, #kids, #preschoolactivities, #okul"
-  - username: "kent_yvr"
+    hashtags: "#skincareroutine, #koreanskincareproducts, #texturethursday, #texture"
+  - username: "danielandmeriana"
     fullname: >-
-      Kent Matthiesen
+      DANIEL & MERIANA | luxury travel, tourism, outdoors
     bio: >-
-      Aviation photographer 🛫 More & high res @ https://twitter.com/kenters55🌟➡️ Non aviation acct @kenters55.1 😎
+      ⛰︎ westcoast photographers | digital marketers ↠ hotels, airbnbs & unique stays 📍based on Vancouver Island, bc connect with us, links & info↡
     location: "Canada"
-    followers: 19716
-    engagement: 107
-    commentsToLikes: 0.094394
-    id: ck5c1h69iv6o10i11q2o8xiez
+    followers: 19543
+    engagement: 986
+    commentsToLikes: 0.029498
+    id: cljlqi29agqfk0j08t1snpv9j
     verified: false
-    hashtags: "#instaplane, #boeinglovers, #vancouver, #instagramaviation"
-  - username: "melissagidneyphoto"
+    hashtags: "#hellobc, #explorebc, #pnwcollective, #pnw"
+  - username: "ourpacificnorthquest"
     fullname: >-
-      Melissa Gidney Daly
+      Arletta, Sully & Quest | PNW Adventure Seekers
     bio: >-
-      Wife to @robdalyphoto • Mama to Max + Rio • Founder @suro_living • Photographer for Oprah’s two latest books
+      for Sully 🩶🧙🏼‍♂️ Adventure • Hike • Trail Running • Dogs • photographer based in Sḵwx̱wú7mesh, BC (& beyond) 🇨🇦 • pacificnorthquestmedia@gmail.com 💌
     location: "Canada"
-    followers: 6319
-    engagement: 1104
-    commentsToLikes: 0.143326
-    id: ckap9lylgsp3d0i78xohdh4sv
+    followers: 17559
+    engagement: 403
+    commentsToLikes: 0.107623
+    id: clnjn0n7yo6gm0j08asxlck9y
     verified: false
-    hashtags: "#newbeginning, #colorectalcancer, #fcancer, #ageofaquarius"
-  - username: "jonathanzoeteman"
+    hashtags: "#grizzlybear, #adventureanywhere, #dogphotography, #200600g"
+  - username: "onemoreweektogo"
     fullname: >-
-      Jonathan Zoeteman
+      Onemoreweektogo 🇨🇦
     bio: >-
-      Writer | Photographer | Operations @Socality 📷 Ambassador @canoncanada ✖️Calgary, Canada | ✉️ jonathan@socality.org Prints, Events, & more 👇🏻
+      Alvin Cover-published Aviation Photographer 🇨🇦 Vancouver, CA
     location: "Canada"
-    followers: 76612
-    engagement: 355
-    commentsToLikes: 0.071186
-    id: ck0tvpjorcagk0i191k4vxlw7
+    followers: 48465
+    engagement: 627
+    commentsToLikes: 0.049975
+    id: ck55nlwh06hmh0i11gl49hf29
     verified: false
-    hashtags: "#socality, #shotoncanon, #pursuitlife"
-  - username: "notanothergay"
+    hashtags: "#boeing, #instaplane, #proaviation, #klmairlines"
+  - username: "nomadswithrings"
     fullname: >-
-      Chris
+      Karina & Lucas | pilot traning•travel•love
     bio: >-
-      Photographer 📸 — Creator 🤳🏽— Internet kid 💻 Tech 🎮 — Comedy 🤣 — Lifestyle 👔 TikTok 🎶- 17k Toronto, Ontario
+      Just us. Travel photographer and pilot. Living in 🇨🇦 we don’t know where we’ll go next, life is crazy and unpredictable so we just flowing with it
     location: "Canada"
-    followers: 11008
-    engagement: 1228
-    commentsToLikes: 0.032640
-    id: ck5q17ob39ntx0i1153xc2scl
+    followers: 82017
+    engagement: 1307
+    commentsToLikes: 0.037437
+    id: ck15pj3oey51u0i19llc9jv9u
     verified: false
-    hashtags: "#oldnavy, #election2020, #fishermansfriend, #xbox"
-  - username: "simransaahni"
+    hashtags: "#couplesgoals, #romantic, #greece, #relationshipgoals"
+  - username: "ryan.derish"
     fullname: >-
-      Simran | Adventure + Travel ✈︎
+      Ryan
     bio: >-
-      Content Creator, Photographer and Educator ⫸ @jimmyandsimran @simransahniphoto ⫸ pr/collabs: simransahni@outlook.com ⫸ toronto, canada socials ⤵
+      husband dogfather @woof.with.willow photographer formula 1 enjoyer
     location: "Canada"
-    followers: 4663
-    engagement: 1377
-    commentsToLikes: 0.119137
-    id: ckaou8f6nz9nq0i7829wbd8cr
+    followers: 1864
+    engagement: 811
+    commentsToLikes: 0.065118
+    id: ck0tvhx65bfg80i19japty15g
     verified: false
-    hashtags: "#traveldreamseekers, #explorecanada, #simransahni, #thewanderingtourist"
+    hashtags: "#yycfood, #vsco, #yycevents, #explorecalgary"
 ---

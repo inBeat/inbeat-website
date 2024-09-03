@@ -1,60 +1,60 @@
 ---
-title: Top 10 Skincare Instagram Influencers In Los Angeles In 2023
+title: Top 10 Skincare Instagram Influencers In Los Angeles In 2024
 description: >-
-  Find top skincare Instagram influencers in Los Angeles in 2023. Most popular hashtags: #skincare #losangeles #beauty #beautiful.
+  Find top skincare Instagram influencers in Los Angeles in 2024. Most popular hashtags: #skincare #losangeles #beauty #ad.
 platform: Instagram
-hits: 178
-text_top: Discover the best Instagram accounts on inBeat.
-text_bottom: Our platform holds 178 Instagram influencers like this in Los Angeles, United States for you to collaborate.
+hits: 292
+text_top: Analyze the most popular Instagram influencers on inBeat.
+text_bottom: Our database holds 292 Instagram influencers like this in Los Angeles, United States for you to pitch.
 profiles:
-  - username: "brandenmitch"
+  - username: "fitbeautytips"
     fullname: >-
-      Branden | Men’s Skincare
+      Health | Fitness | Beauty   ᭲
     bio: >-
-      Men’s Lifestyle Page 🌴LA 🧘🏾‍♂️ Hittin men with skincare & selfcare tips while showing you why it’s cool to wear clothes with holes in them.
+      💖 | Healthtips💊Beautytips💄 ♻️ | DM For Removal / Credits 📧 | business enquiry - voguenyog@gmail.com
     location: "United States"
-    followers: 41053
-    engagement: 190
-    commentsToLikes: 0.041567
-    id: ck8wg8c86gweh0j780clh7d5a
+    followers: 337072
+    engagement: 27
+    commentsToLikes: 0.041031
+    id: ckaotbp23v7cg0i78xtbtorlc
     verified: false
-    hashtags: "#skincare, #losangeles, #menskincare, #menskincaretips"
-  - username: "annaoris_official"
+    hashtags: "#makeup, #america, #facts, #follow"
+  - username: "onegrloneworld"
     fullname: >-
-      Аnna Oris
+      Francesca • One Girl One World
     bio: >-
-      🎬 Actress/model 🇱🇷@anna_oris_la Management @nextlevelentertainmentglobal Talent Agency @peterkallinterisagency Commercial agency @rpmtalentagency
+      Celebrity publicist turned beauty & travel expert -follow for lifestyle tips! 🎥Host |🎤Speaker| Afro Latina🇭🇳🇨🇷 📍Los Angeles 📩mgmt@onegirl-oneworld.com
     location: "United States"
-    followers: 185488
-    engagement: 181
-    commentsToLikes: 0.048376
-    id: ck5zyjq30a0mk0i14z525b142
+    followers: 52724
+    engagement: 999
+    commentsToLikes: 0.137919
+    id: ck0u12akvvjdf0i19oqiwmigi
     verified: false
-    hashtags: "#modeling, #actresslosangeles, #famousactress, #love"
-  - username: "annaguanchemd"
+    hashtags: "#ad, #puertorico, #nomadness, #costarica"
+  - username: "rsnskinco"
     fullname: >-
-      𝗗𝗥. 𝗔𝗡𝗡𝗔 𝗚𝗨𝗔𝗡𝗖𝗛𝗘
+      Rosanna Siracusa
     bio: >-
-      𝐁𝐨𝐚𝐫𝐝 𝐂𝐞𝐫𝐭𝐢𝐟𝐢𝐞𝐝 𝐃𝐞𝐫𝐦𝐚𝐭𝐨𝐥𝐨𝐠𝐢𝐬𝐭 Founder @bellaskininstitute Author @sevendaystosexy Creator @bellamiraclecream 📍Calabasas | Beverly Hills
+      The Extraction Queen 🤩 •Certified Acne Specialist + Corrective Treatments • @zemits.official Brand Ambassador
     location: "United States"
-    followers: 110792
-    engagement: 224
-    commentsToLikes: 0.051558
-    id: ckap2k8otz7710i78iidlj71b
-    verified: true
-    hashtags: "#bellaskin, #dermdreamteam, #goodvibes, #botox"
-  - username: "yumi.sweet25"
-    fullname: >-
-      𝒚𝒖𝒎𝒊 𝒃𝒃 𓆸ホテル𝐿𝑜𝑣𝑒𝑟のホテルステイ記録
-    bio: >-
-      ⦿𝐾𝑦𝑜𝑡𝑜/𝐽𝑎𝑝𝑎𝑛 気になるホテルを独自目線で調査🔍 ココはおすすめ出来る！と思ったホテルを随時ご紹介していきます✧︎ ♛︎ 𝑊𝑜𝑜𝑚𝑦 𝑖𝑛𝑓𝑙𝑢𝑒𝑛𝑐𝑒𝑟 📌ホテルその他PRのご依頼は𝐷𝑀へお願い致します📩
-    location: "United States"
-    followers: 7215
-    engagement: 395
-    commentsToLikes: 0.001988
-    id: ck8tc2ac1y1130j78oq7qm297
+    followers: 39562
+    engagement: 140
+    commentsToLikes: 0.040992
+    id: cl5m5n4mmbacu0i23c17c7600
     verified: false
-    hashtags: "#outfit, #ootdshare, #outfitoftheday, #kyoto"
+    hashtags: "#woodlandhillsca, #losangelesskincare, #losangelesskin, #losangelesesthetician"
+  - username: "michelleinfusino"
+    fullname: >-
+      MICHELLE INFUSINO
+    bio: >-
+      outfits + travels + skincare + eats. los angeles based 💌 hello@michelleinfusino.com
+    location: "United States"
+    followers: 235104
+    engagement: 128
+    commentsToLikes: 0.045565
+    id: ck0u0plmuuhib0i19j19itgu6
+    verified: false
+    hashtags: "#hotelnexxus, #pacpartner, #mbassador, #originspartner"
   - username: "liattyy"
     fullname: >-
       Liat | Fashion Blogger in LA
@@ -66,7 +66,7 @@ profiles:
     commentsToLikes: 0.167907
     id: ck0u0awp9t4ho0i199nxf7tkn
     verified: false
-    hashtags: "#lulusambassador, #windsorambassador, #ad, #madeinla"
+    hashtags: "#lulusambassador, #windsorambassador, #ad, #nurseliat"
   - username: "fabshadowandgloss"
     fullname: >-
       iris
@@ -78,19 +78,43 @@ profiles:
     commentsToLikes: 0.247004
     id: ck5hldcbwk0e50i11bq2pcnjw
     verified: false
-    hashtags: "#tower28beauty, #lipjelly, #skincaretexture, #glammtribe"
-  - username: "drakehackney"
+    hashtags: "#glammtribe, #ulta, #lovetapz, #glowyskin"
+  - username: "michellesend"
     fullname: >-
-      Drake Hackney
+      M i c h e l l e
     bio: >-
-      Beauty, Portrait and Fashion Photographer based in Los Angeles Bookings: drakehackney@gmail.com
+      Beauty | Travel ———• Digital Creator, Curator & Content Producer. Writer. Lover of the light. Flow. ——— Founder @theevery.mx Founder @idealist.mx
     location: "United States"
-    followers: 4857
-    engagement: 451
-    commentsToLikes: 0.070095
-    id: ck0u1t61ixu1v0i19oliezq68
+    followers: 15518
+    engagement: 583
+    commentsToLikes: 0.059317
+    id: ck14klgf6q3dl0i193tvr45lf
     verified: false
-    hashtags: "#portrait, #photoshoot, #beautiful, #laphotographer"
+    hashtags: "#girl, #travelmexico, #skincare, #travel"
+  - username: "joannaborov"
+    fullname: >-
+      Joanna Borov
+    bio: >-
+      Fashion model, LLM student , animal activist Follow me and your ♥️ 📍Miami
+    location: "United States"
+    followers: 73693
+    engagement: 152
+    commentsToLikes: 0.030807
+    id: clbq9kl0eb1nu0j08i4okjdeu
+    verified: false
+    hashtags: "#fashionstyle, #beverlyhills90210, #beverlyhills, #blonde"
+  - username: "aminamarie"
+    fullname: >-
+      Amina | Natural Hair & Beauty
+    bio: >-
+      † Your Internet Curlfriend Natural Hair / Beauty / Skincare / Wellness 📍 Los Angeles 💌 Partnerships - amina@cfg.co
+    location: "United States"
+    followers: 39584
+    engagement: 72
+    commentsToLikes: 0.909874
+    id: ck0uaqmgycxiu0i19r5cr1z5d
+    verified: false
+    hashtags: "#bubblebraid, #curlyhairstyles, #curlyhairtips, #naturalhairstyle"
   - username: "maryamremias"
     fullname: >-
       Maryam | Makeup Videos
@@ -102,29 +126,5 @@ profiles:
     commentsToLikes: 0.047896
     id: ck5zuem3627t00i14xy77kw97
     verified: false
-    hashtags: "#discovermuas, #makeupvideos, #shimycatsmua, #colorfulmakeuplook"
-  - username: "danielgrzia"
-    fullname: >-
-      Daniel Garcia
-    bio: >-
-      97’
-    location: "United States"
-    followers: 3124
-    engagement: 1340
-    commentsToLikes: 0.053153
-    id: ckaowg5jo8sbo0i78aw621nxj
-    verified: false
-    hashtags: "#wynwoodmiami, #mensskincare, #fashion, #wynwoodwalls"
-  - username: "celebbeforeafter"
-    fullname: >-
-      BeforeAfter
-    bio: >-
-      Before/After celebrity pictures Celeb Transformations
-    location: "United States"
-    followers: 272594
-    engagement: 480
-    commentsToLikes: 0.037476
-    id: ck5zsn96sytqm0i14sp7a7vem
-    verified: false
-    hashtags: "#music, #instafashion, #love, #instagram"
+    hashtags: "#makeupvideos, #discovermuas, #makeupinspirations, #makeupvideoss"
 ---

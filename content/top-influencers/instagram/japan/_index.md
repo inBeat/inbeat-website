@@ -1,132 +1,132 @@
 ---
-title: Top 10 Instagram Influencers In Japan In 2023
+title: Top 10 Instagram Influencers In Japan In 2024
 description: >-
-  Find top Instagram influencers in Japan in 2023. Most popular hashtags: #tokyo2020 #japan #farmlove #mais2022.
+  Find top Instagram influencers in Japan in 2024. Most popular hashtags: #gmmtv #tokyo2020 #ad.
 platform: Instagram
-hits: 10051
-text_top: Discover the most popular Instagram accounts on inBeat.
-text_bottom: Our search engine has 10051 Instagram influencers like this in Japan for you to collaborate.
+hits: 10427
+text_top: Identify the most popular Instagram profiles on inBeat.
+text_bottom: Our search engine has 10427 Instagram influencers like this in Japan for you to work with.
 profiles:
-  - username: "guskenworthy"
+  - username: "alessa"
     fullname: >-
-      gus kenworthy
+      Alessa | アレッサ 💫
     bio: >-
-      britney spears used to follow me
+      Skincare, beauty 🤍 SF📍 📧info.alessamiki@gmail.com 🎵 alessa.miki (800k)
     location: "Japan"
-    followers: 1281674
-    engagement: 569
-    commentsToLikes: 0.007773
-    id: ck138rbgfhmu00i194pq1zqde
-    verified: true
-    hashtags: "#ad, #tokyo2020, #founditonamazon, #youtubepridechallenge"
-  - username: "ryvlsco"
-    fullname: >-
-      Ry Velasco
-    bio: >-
-      media@ryvelasco.com
-    location: "Japan"
-    followers: 414625
-    engagement: 863
-    commentsToLikes: 0.002349
-    id: cl342p6xyz50u0i23oqxmor6c
+    followers: 252910
+    engagement: 590
+    commentsToLikes: 0.005205
+    id: ck14gwkbf7e1m0i191nzti4t0
     verified: false
-    hashtags: "#lvgifts, #sheinph, #louisvuitton, #narcisorodriguezparfums"
-  - username: "jp.agrar"
+    hashtags: "#jbeauty, #beautytips, #kbeauty, #skincaretips"
+  - username: "skylarmarshai"
     fullname: >-
-      JP Agrar 🎬🚜
+      Skylar Marshai
     bio: >-
-      𝙅onas 𝙋etersen ▶️ @jonasptrsn ▪️Film & Photo producer 🎬 ▪️Einblicke aus meinen Touren durch DE 🇩🇪 ▪️Email: kontakt@jp-agrar.de 📧
+      i’m just happy to be here. nyc. *frequent flyer, storyteller, dreamer. behind the lens, @tolutemi.
     location: "Japan"
-    followers: 146112
-    engagement: 636
-    commentsToLikes: 0.001843
-    id: ck9h9tqcr9xr10j7824qtpq97
+    followers: 197982
+    engagement: 1516
+    commentsToLikes: 0.030051
+    id: ck55jj4jpx4zb0i11dq98g8yw
     verified: false
-    hashtags: "#agri, #agro, #fendtpower, #mais"
-  - username: "heyitssharla"
+    hashtags: "#verygoodgirlcarolinaherrera, #ad, #goodgirlcarolinaherrera, #gappartner"
+  - username: "yurikotiger"
     fullname: >-
-      Sharla ★ シャーラ
+      ユリコタイガー YURIKO TIGER
     bio: >-
-      📍SENDAI, JAPAN ＊ snapshots + adventures from my daily life ＊ 750K youtube fam ⏬ JOIN the journey!! 🍡🇯🇵✨
+      🇯🇵×🇮🇹 Italian/Japanese 📍 東京在住 based in Tokyo ▶ Cosplayer, Model, YouTuber, Anisong DJ ☄️依頼→ info@meteora-st.jp✉️ english →DM
     location: "Japan"
-    followers: 223505
-    engagement: 430
-    commentsToLikes: 0.008769
-    id: ckxp82g7wadqu0j23q2m7rqef
+    followers: 136545
+    engagement: 485
+    commentsToLikes: 0.008775
+    id: ck5hn0tuzmzr90i11p12fkl6v
+    verified: true
+    hashtags: "#tokyomodel, #yurikotiger, #cosplayer, #cosplay"
+  - username: "sagewatson"
+    fullname: >-
+      Sage Walker
+    bio: >-
+      Woman of Faith 2xOlympian Private coaching ⬇️ ⁣⁣⁣ Canadian Record Holder⁣⁣ Pan Am Champion ⁣⁣⁣⁣ NCAA Champion for Arizona⁣⁣⁣
+    location: "Japan"
+    followers: 90231
+    engagement: 429
+    commentsToLikes: 0.016333
+    id: ck0u9m9r5a3bk0i19qw7p3r3x
+    verified: true
+    hashtags: "#trackandfield, #olympics, #grateful, #tokyo2020"
+  - username: "kirahominique"
+    fullname: >-
+      K I R A H O M I N I Q U E
+    bio: >-
+      Beauty | Fashion | Lifestyle 💌 Business Inquires: Contact.mgmt@Kirahominique.com 🎥Youtube: Kirah Ominique
+    location: "Japan"
+    followers: 409250
+    engagement: 1003
+    commentsToLikes: 0.015449
+    id: ck6tocvqhdd530j71tb8rx7lr
     verified: false
-    hashtags: "#japan, #visitjapan, #japanaesthetic, #beautifuljapan"
-  - username: "henrymartinm"
+    hashtags: "#luxetribes, #luxetribespartner, #luxetribesbrandtrip, #topicalsgonetoghana"
+  - username: "melissacorinneb"
     fullname: >-
-      Henry Martin
+      Melissa | Canadian Olympian
     bio: >-
-      🏟 | Delantero del @Clubamerica & @miseleccionmx ⚽ I Atleta @adidasmx 💣 | #HM21 📩 | henry.martin.mex@gmail.com
+      Melissa Bishop-Nriagu, Mom, @Nike Athlete, @Teamcanada 800m Record Holder — @nike |@thepolarjoeco|@b2ten| @grupponutrition | @manifesto_sport —
     location: "Japan"
-    followers: 856803
-    engagement: 724
-    commentsToLikes: 0.006193
-    id: ck13cvzrj2fre0i19r1x6uy8a
+    followers: 34643
+    engagement: 571
+    commentsToLikes: 0.015754
+    id: ck5c6menp5qpp0i119fx01pp8
     verified: true
-    hashtags: "#juntos, #adidasfootball, #tokyo2020, #pubgm3eraniversario"
-  - username: "kristianblu"
+    hashtags: "#girlmom, #shakethebear, #partner, #tokyo2020"
+  - username: "tomo.y9"
     fullname: >-
-      Kristian Blummenfelt
+      Tomohisa Yamashita 山下智久
     bio: >-
-      Co-Founder @santaratechnology
+      正直不動産2 Drops of god
     location: "Japan"
-    followers: 213469
-    engagement: 734
-    commentsToLikes: 0.013364
-    id: ck0tvsedhco6w0i19eu1ittci
+    followers: 5341359
+    engagement: 522
+    commentsToLikes: 0.012214
+    id: ck5hj7awpg4zb0i11wvvmfu64
     verified: true
-    hashtags: "#crushtheclock, #overachieve, #tokyo2020triathlon, #impossiblyfast"
-  - username: "donny"
+    hashtags: "#toastwithmoet, #bulgari, #ad, #moetchandon"
+  - username: "chimonac"
     fullname: >-
-      Donny Pangilinan
+      Wachirawit
     bio: >-
-      Glory is all His.
+      - GMMTV - Bkk,Thailand For work : 02-669-9079 , 081-875-5553 ( P'ADD ) GMMTVARTISTS@GMAIL.COM
     location: "Japan"
-    followers: 3109091
-    engagement: 439
-    commentsToLikes: 0.002888
-    id: ck136h50m6h5o0i1998siauph
+    followers: 3570081
+    engagement: 464
+    commentsToLikes: 0.004859
+    id: ck5zkbe3oj60p0i14707vpjx0
     verified: true
-    hashtags: "#samsung, #switchtogalaxy, #withgalaxya73, #galaxya73"
-  - username: "keita_machida_official"
+    hashtags: "#dangerousromance, #chimonwachirawit, #perthtanapon, #gmmtv"
+  - username: "peathefeary"
     fullname: >-
-      町田啓太
+      🌀Pea - Energetic Strategy for Creatives
     bio: >-
-      劇団EXILE/俳優 ⚫︎NHK正月時代劇「いちげき」 ⚫︎Netflix「今際の国のアリス」 ⚫︎NHK「漫画家イエナガの複雑社会を超定義」 ⚫︎連続ドラマW「フィクサー」 ⚫︎フジテレビ系ドラマ「テッパチ！」 ⚫︎映画「チェリまほ THE MOVIE〜30歳まで童貞だと魔法使いになれるらしい〜」
+      Email for inquiries, DM’s are closed to le public! 🎙Cheat Codes w Pea Podcast
     location: "Japan"
-    followers: 1379149
-    engagement: 672
-    commentsToLikes: 0.007141
-    id: ck5ckr1goxfsx0i11vgpopmef
-    verified: true
-    hashtags: "#tods, #todsfw22, #gqawards2022, #todsariaditalia"
-  - username: "danielledaza"
-    fullname: >-
-      Danielle Daza
-    bio: >-
-      @imagencymanila @dazzlesbakery 🇵🇭👩🏻‍🍳😼📚🎸🌻🥪🍪🧁🍃🐌
-    location: "Japan"
-    followers: 19172
-    engagement: 605
-    commentsToLikes: 0.016517
-    id: ck5hq8eucsoqr0i11bsjvta24
+    followers: 59313
+    engagement: 564
+    commentsToLikes: 0.019263
+    id: cl56a8qx41vrc0i23y4pny4s7
     verified: false
-    hashtags: "#ssilife, #formeclothing, #centralsquareph, #dadsdaywithcentralsquare"
-  - username: "jessica.effendy"
+    hashtags: ""
+  - username: "gawincaskeyy"
     fullname: >-
-      Jess
+      Gawin Caskey
     bio: >-
-      ✞ Tik Tok: tamarajessica Youtube : Jessica Effendy Business inquiries : 081283824981 (Monica)
+      CONTACT FOR WORK : GMMTV : 02-669-9079 092-540-2221 (พี่จอม) GMMTVARTISTS@GMAIL.COM
     location: "Japan"
-    followers: 169873
-    engagement: 489
-    commentsToLikes: 0.006611
-    id: ck1366tkf50p60i19rhoysssl
+    followers: 768753
+    engagement: 797
+    commentsToLikes: 0.014250
+    id: ck5cgicwfowod0i1179fa9anv
     verified: false
-    hashtags: "#aktivitastanpabatas, #indiemoviefestival, #makan, #holdmetightshampoo"
+    hashtags: "#gmmtv2024part1, #gmmtv, #zipmexday, #mygoldenblood"
 cities:
   - name: Tokyo
     link: /instagram/japan/tokyo

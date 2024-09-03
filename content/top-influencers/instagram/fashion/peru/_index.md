@@ -1,36 +1,72 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Peru In 2023
+title: Top 10 Fashion Instagram Influencers In Peru In 2024
 description: >-
-  Find top fashion Instagram influencers in Peru in 2023. Most popular hashtags: #publicidad #model #fashionblogger.
+  Find top fashion Instagram influencers in Peru in 2024. Most popular hashtags: #outfit #makeup #fashion.
 platform: Instagram
-hits: 106
-text_top: Analyze the top-rated Instagram influencers on inBeat.
-text_bottom: Our platform aggregates 106 Instagram influencers like this in Peru for you to pitch.
+hits: 109
+text_top: Identify the most popular Instagram profiles on inBeat.
+text_bottom: inBeat aggregates 109 Instagram influencers like this in Peru for you to collaborate.
 profiles:
+  - username: "alexandrabalarezo"
+    fullname: >-
+      Alexandra Balarezo
+    bio: >-
+      Canadian/Française/Peruana Healthy lifestyle • travel • fashion 📍Madrid/ Miami Alexandrabalarezo@perleinfluence.com @perleinfluence 🇫🇷
+    location: "Peru"
+    followers: 564760
+    engagement: 560
+    commentsToLikes: 0.009690
+    id: ck14hu3zyc5d70i19qmanungd
+    verified: false
+    hashtags: "#missuniverse, #portadacosasnow, #portadadigital, #lanzamiento"
+  - username: "loredelgado0"
+    fullname: >-
+      Lorena Delgado
+    bio: >-
+      aqp | lima makeupp, fashion & lifestylee <33 tiktok +45k
+    location: "Peru"
+    followers: 15244
+    engagement: 311
+    commentsToLikes: 0.019067
+    id: clnhuf71tif4h0j08tcwjtel6
+    verified: false
+    hashtags: "#grwm, #inspo, #santorini, #makeup"
+  - username: "margotvaldez"
+    fullname: >-
+      𝘔𝘢𝘳𝘨𝘰𝘵 𝘝𝘢𝘭𝘥𝘦𝘻
+    bio: >-
+      LifeStyle • Points • FashionBeauty Tiktok 🫶🏼+260k GottaCod: MARGOTGOTTA-15 🖤Collab DM o correo 📩 hola@fluencylab.pe @margotvaldez.store NEW VIDEO👇🏼
+    location: "Peru"
+    followers: 117728
+    engagement: 112
+    commentsToLikes: 0.014363
+    id: ck5bxst6yocqq0i117t7ri0l8
+    verified: false
+    hashtags: "#fyp, #outfit, #reels, #reelsinstagram"
+  - username: "keysg"
+    fullname: >-
+      𝑲𝒆𝒚𝒍𝒂 𝑺𝒂𝒏𝒄𝒉𝒆𝒛
+    bio: >-
+      Presentadora de TV•Creadora de Contenido• Mamá de Thiago👩‍👦 Empresaria: @keysg_fashion Podcast: @podcastdekeyynaty Contacto: keysanchezcr@gmail.com
+    location: "Peru"
+    followers: 851443
+    engagement: 112
+    commentsToLikes: 0.020353
+    id: ck6udr15vmnn00j71eaaaom2x
+    verified: false
+    hashtags: ""
   - username: "taliaechecopar"
     fullname: >-
       Talía Echecopar
     bio: >-
-      Fashion & Lifestyle Creator My Brand: @_inmaculada 📍Lima Mira la nueva colección de mi marca de ropa aquí ✨ ⬇️
+      Fashion & Lifestyle Content Creator / Consultant @nikewomen @volvocars ambassador 📍Lima Nominada al premio Luces 💓 vota x mi aquí ⬇️
     location: "Peru"
-    followers: 143310
-    engagement: 82
-    commentsToLikes: 0.019542
+    followers: 158369
+    engagement: 64
+    commentsToLikes: 0.055210
     id: ck138g9vgg35s0i19a2m2hipf
     verified: true
-    hashtags: "#modaperu, #moda, #styleinspo, #navidadperu"
-  - username: "antonellaleguab"
-    fullname: >-
-      Anto Legua B
-    bio: >-
-      Founder @el_closetdeanto @beautyfashion.peru Girl Boss | Fashion | Travel | Lifestyle ✉ antonellaleguab@gmail.com 📌 Perú
-    location: "Peru"
-    followers: 79204
-    engagement: 39
-    commentsToLikes: 0.249237
-    id: ck6u904yrupf20j711z5lc25b
-    verified: false
-    hashtags: "#bicentenario, #nyc, #maquillatepararegresarperu, #8m"
+    hashtags: "#styleinspo, #asesoriadeimagen, #outfitideas, #moda"
   - username: "alessandra.salazar"
     fullname: >-
       Alessandra Salazar
@@ -79,42 +115,6 @@ profiles:
     id: ck0vymztj4syd0i19mtqch916
     verified: false
     hashtags: "#shot, #fashion, #model, #editorial"
-  - username: "roksolanalima"
-    fullname: >-
-      Lima 🤍
-    bio: >-
-      Lifestyle • Nails • Fashion ▪️My business : 📮@roksolanalima.cooperation ▫️ @lima.school ▫️ @lima.beautystudio . TelegramMusic 👇🏼
-    location: "Peru"
-    followers: 100127
-    engagement: 788
-    commentsToLikes: 0.084362
-    id: ck0u7d0fk4gh00i19vo4089y1
-    verified: false
-    hashtags: "#lovestory, #loveislove, #relax, #style"
-  - username: "adiccionallabial"
-    fullname: >-
-      Miss Mickey 💕Jonas Vloggers 😎🔥
-    bio: >-
-      Espíritu libre 🌙✨ Amante del maquillaje , beauty vlogger & fashion victim 💄💋 Contacto.adiccionallabial@gmail.com💌 @adictosallabial Nuevo video👇😱
-    location: "Peru"
-    followers: 261465
-    engagement: 205
-    commentsToLikes: 0.012688
-    id: ck6udnzznm6u60j71lk0fj1ql
-    verified: true
-    hashtags: "#newyear, #newhair, #newbitch, #nailinspo"
-  - username: "daniellaeacosta"
-    fullname: >-
-      Daniella | Outfits y Datos
-    bio: >-
-      ◽️Lifestyle l Fashion & Beauty ◽️Moda para todas l Tips & Datos l Emprendimiento INSCRÍBETE AL CAMPAFIT AQUÍ⬇️
-    location: "Peru"
-    followers: 66808
-    engagement: 218
-    commentsToLikes: 0.075659
-    id: ck13d1tzc38n30i19e4v4c15v
-    verified: false
-    hashtags: "#publicidad, #lifestyleblogger, #outfitinspo, #instareel"
   - username: "jeremyiturri"
     fullname: >-
       J E R E M Y    I T U R R I

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Architecture TikTok Influencers In Toronto In 2023
+title: Top 10 Architecture TikTok Influencers In Toronto In 2024
 description: >-
-  Find top architecture TikTok influencers in Toronto in 2023. Most popular hashtags: #fyp #foryoupage #architecture #viral.
+  Find top architecture TikTok influencers in Toronto in 2024. Most popular hashtags: #architecture #fyp #canada #foryoupage.
 platform: TikTok
 hits: 4
-text_top: Analyze the most popular TikTok profiles on inBeat.
-text_bottom: Our platform aggregates 4 TikTok influencers like this in Toronto, Canada for you to connect with.
+text_top: Identify the most popular TikTok profiles on inBeat.
+text_bottom: Our platform holds 4 TikTok influencers like this in Toronto, Canada for you to pitch.
 profiles:
   - username: "exclusivelyexpensive"
     fullname: >-
@@ -91,18 +91,6 @@ profiles:
     id: ckdi768gm8ym30j23oeerxl1p
     verified: false
     hashtags: "#college, #architecture, #interiordesign, #stitch"
-  - username: "sanakoala"
-    fullname: >-
-      Sana Koala
-    bio: >-
-      Gamer girl😎 I Love my followers 🤍 Goal 20k😋
-    location: "Canada"
-    followers: 13100
-    engagement: 558
-    commentsToLikes: 0.073049
-    id: ck97xo1z6w5al0j785f6gskft
-    verified: false
-    hashtags: "#modernwarfare, #xyzbca, #4u, #warzone"
   - username: "mearrra"
     fullname: >-
       Meara
@@ -126,5 +114,17 @@ profiles:
     commentsToLikes: 0.014625
     id: ck81s98a9qyng0j78xv7mar3y
     verified: false
-    hashtags: "#diy, #tools, #carpenter, #tapemeasure"
+    hashtags: "#foryou, #handyman, #foryoupage, #tapemeasure"
+  - username: "_itstash"
+    fullname: >-
+      Tash
+    bio: >-
+      she/her Educate yourself on BLM👇🏼
+    location: "Canada"
+    followers: 17700
+    engagement: 839
+    commentsToLikes: 0.037541
+    id: ckammxlbu2h1w0i78r3gkcn97
+    verified: false
+    hashtags: "#engineeringmajor, #construction, #engineeringstudent, #femaleengineers"
 ---

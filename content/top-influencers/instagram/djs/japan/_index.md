@@ -1,11 +1,11 @@
 ---
-title: Top 10 Djs Instagram Influencers In Japan In 2023
+title: Top 10 Djs Instagram Influencers In Japan In 2024
 description: >-
-  Find top djs Instagram influencers in Japan in 2023. Most popular hashtags: #japan #tokyo #djlife #japantrip.
+  Find top djs Instagram influencers in Japan in 2024. Most popular hashtags: #japan #pioneerdj #djlife #japantrip.
 platform: Instagram
-hits: 15
-text_top: Discover the most popular Instagram profiles on inBeat.
-text_bottom: Our search engine has 15 Instagram influencers like this in Japan for you to connect with.
+hits: 16
+text_top: See the top-rated Instagram profiles on inBeat.
+text_bottom: Our database holds 16 Instagram influencers like this in Japan for you to work with.
 profiles:
   - username: "djnedtek"
     fullname: >-
@@ -31,6 +31,30 @@ profiles:
     id: ck0vuvk5fmcw50i19vw47yd8v
     verified: true
     hashtags: "#onewish, #telescope, #manwithamission, #evergreen"
+  - username: "officialai"
+    fullname: >-
+      Ai (A.I.)
+    bio: >-
+      Artist, Singer-songwriter🇯🇵🇺🇸🌎
+    location: "Japan"
+    followers: 273949
+    engagement: 351
+    commentsToLikes: 0.008024
+    id: ck0vxra1d0bed0i1916a2gb0z
+    verified: true
+    hashtags: "#ai, #aitour, #daichimiura, #inthemiddle"
+  - username: "kaylacollins"
+    fullname: >-
+      kαylα cσlliηѕ ☆
+    bio: >-
+      ♫♪♡ッ♬♪★♫♪♡ †
+    location: "Japan"
+    followers: 221295
+    engagement: 73
+    commentsToLikes: 0.021994
+    id: ck5q74ifqzz080i11do01qfsb
+    verified: true
+    hashtags: "#djsetup, #clublife, #hairtheory, #tahoe"
   - username: "celly_cecilia"
     fullname: >-
       Ｃｅｌｌｙ / セリー
@@ -91,18 +115,6 @@ profiles:
     id: ck0tulnya7pyj0i19rn9u8ojv
     verified: false
     hashtags: "#dance, #dancestudioegg, #kazanelucifer, #house"
-  - username: "sascha348"
-    fullname: >-
-      サッシャ／Sascha Boeckle
-    bio: >-
-      @jwave813 @stepone813 @zumusata @kinro_ntv @jsports_official @dazn_jpn http://sascha348.com
-    location: "Japan"
-    followers: 17596
-    engagement: 381
-    commentsToLikes: 0.011851
-    id: ckap3ezr82suw0i78pkxfpa5h
-    verified: true
-    hashtags: "#stepone813, #supergt, #jwave, #tomoaki"
   - username: "djrina"
     fullname: >-
       RINA
@@ -115,16 +127,4 @@ profiles:
     id: ck8sy7iaijzp80j78845j6760
     verified: false
     hashtags: "#ctdacademy, #pioneerdj, #rekordbox, #stayhome"
-  - username: "yuuka_stagram"
-    fullname: >-
-      유우카🕊
-    bio: >-
-      🇰🇷日韓ハーフ🇯🇵美容やカフェ・旅行を配信☁*° あんにょん！ ゆうかち イムニダ！！ ※現実とは異なります 。水色と白が好き🐋 TIKTOK▷▶︎ ゆうかち🕊で検索！14万人follower @xx_gourmet__yuuka ←グルメアカウント
-    location: "Japan"
-    followers: 99164
-    engagement: 176
-    commentsToLikes: 0.016111
-    id: ck0w0qa16fifj0i19rcecz2qq
-    verified: false
-    hashtags: "#youtube, #stb, #zara, #adhd"
 ---

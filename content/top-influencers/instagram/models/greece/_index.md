@@ -1,11 +1,11 @@
 ---
-title: Top 10 Models Instagram Influencers In Greece In 2023
+title: Top 10 Models Instagram Influencers In Greece In 2024
 description: >-
-  Find top models Instagram influencers in Greece in 2023. Most popular hashtags: #pregnancy #happy #mylove.
+  Find top models Instagram influencers in Greece in 2024. Most popular hashtags: #greece #summer #love.
 platform: Instagram
-hits: 172
-text_top: See the best Instagram accounts on inBeat.
-text_bottom: Our platform aggregates 172 Instagram influencers like this in Greece for you to connect with.
+hits: 177
+text_top: Analyze the top-rated Instagram profiles on inBeat.
+text_bottom: Our search engine aggregates 177 Instagram influencers like this in Greece for you to work with.
 profiles:
   - username: "gabriela.prisacariu"
     fullname: >-
@@ -19,112 +19,112 @@ profiles:
     id: ck5qej2bi0qh40i11uziu4pta
     verified: false
     hashtags: "#fairytail, #gymtimebaby, #campaign, #winterfashion"
-  - username: "jessicakahawaty"
+  - username: "ilias.avaskantiras"
     fullname: >-
-      Jessica Kahawaty جيسيكا قهواتي
+      ILIAS AVASKANTIRAS
     bio: >-
-      Entrepreneur. Model. Human Rights Law Grad. Founder & CEO @MamaRita
+      Father of Thea🍼 👶🏼 🌟 @son_of_a_butcher_ 👈🏼 🥩 Worldwide model 📸 @genesismodelmgmt @ace_models_athens @twomanagement @ilovemodelsmngt
     location: "Greece"
-    followers: 1268483
-    engagement: 162
-    commentsToLikes: 4.286777
-    id: ck0txfkyqix8u0i198zxrym69
-    verified: true
-    hashtags: "#breitling, #rlpurplelabel, #worldchildrensday, #riyadhseason"
-  - username: "madogasteratou"
-    fullname: >-
-      MADARA CHANNEL❤️
-    bio: >-
-      📺TV presenter 🎧Radio producer 👙Model ✍journalist ♥️Youtuber M🥰A😁D🤣A🥴R😋A CHANNEL
-    location: "Greece"
-    followers: 209607
-    engagement: 99
-    commentsToLikes: 0.000724
-    id: ck0vv3okdneb40i193b6vtgnu
+    followers: 13621
+    engagement: 480
+    commentsToLikes: 0.027797
+    id: ck0w2oi79pest0i19o09ton8n
     verified: false
-    hashtags: "#mood, #exoticplace, #beachgirl, #sunlover"
-  - username: "dkarabassi"
+    hashtags: "#pepejeans, #pepejeanslondon, #fw23, #shopandtrade"
+  - username: "bellazofia.official"
     fullname: >-
-      Δήμητρα-Ιοκάστη Καραμπάση
+      Izabela Zofia Switon-Kulinska 🇵🇱🇨🇭Swiss Blogger
     bio: >-
-      freelance model ▪️Athens-Volos 🖊Marketing and Communications
+      Model, blogger, journalist and bosslady at @defileagency| as seen at @lofficielmonaco Contributor @cchic4 @welcome_magazine_officiel Mom 👦👶🐶
     location: "Greece"
-    followers: 42604
-    engagement: 1340
-    commentsToLikes: 0.195800
-    id: ck5q2tbz0hptq0i11026glmw1
+    followers: 28303
+    engagement: 515
+    commentsToLikes: 0.098672
+    id: ck15qksrl3c4a0i19iz9ozoai
     verified: false
-    hashtags: "#teamboandtee"
-  - username: "redheadonajourney"
+    hashtags: "#glambou, #etam, #swissluxury, #mfw"
+  - username: "nicktopel"
     fullname: >-
-      Julie P. 🇬🇷
+      Nick Topel
     bio: >-
-      Singer🎤 Actress 🎭 Influencer & Photo model🧜‍♀️ DM for collab/promo 📩 Inspiration can be all around you ✨ Traveller✈️ Foodie 🍔 Check @squirrelypigs
+      Model / Coach / Trader 📍 NYC & Miami 🏙🏝
     location: "Greece"
-    followers: 25744
-    engagement: 873
-    commentsToLikes: 1.311863
-    id: ck8t7jmsvh1zo0j78cduexkcd
+    followers: 277978
+    engagement: 462
+    commentsToLikes: 0.021697
+    id: ck15sazxmc3j80i19b1goqrn1
     verified: false
-    hashtags: "#210113706r"
-  - username: "harapappa"
-    fullname: >-
-      Hara Pappa
-    bio: >-
-      🤘🏼 Model
-    location: "Greece"
-    followers: 137811
-    engagement: 1378
-    commentsToLikes: 0.125363
-    id: ck5qel6y610mx0i11r6xadccg
-    verified: false
-    hashtags: "#sugargirls, #xmasmagic, #realsugarfreegirls, #whatmakesmegorgeous"
-  - username: "elisavet_dovliatidou_official"
-    fullname: >-
-      Elisavet Dovliatidou 🇬🇷
-    bio: >-
-      Survivor girl 2017🤘🌴 Nomads2018 Greek model 5'11'' 15/4♈ Addicted to adventure,music🎵🎶and summer🏖🌞☀️ el2dov@gmail.com
-    location: "Greece"
-    followers: 65240
-    engagement: 521
-    commentsToLikes: 0.513624
-    id: ck0u0b0z2t4z60i197isiuwme
-    verified: false
-    hashtags: "#pregnancy, #moodoftheday, #giveaway, #pregnantbelly"
-  - username: "athinaki_mou"
-    fullname: >-
-      Athina Mourkousi Skotida
-    bio: >-
-      •BE.YOU.TIFUL by Athina• •Check my YouTube Channel🎬 •Professional MakeUp Artist / model / Image Maker / mama ♥️ ⬇️NEW BE.YOU.TIFUL VIDEO⬇️
-    location: "Greece"
-    followers: 48777
-    engagement: 1467
-    commentsToLikes: 0.379507
-    id: ckaosoybrsfmj0i785qyxc8y0
-    verified: false
-    hashtags: "#goodvibes, #pregnancy, #throwback, #peaceful"
-  - username: "pasxalia__to"
-    fullname: >-
-      𝑷𝒂𝒔𝒙𝒂𝒍𝒊𝒂 𝑻𝒐𝒍𝒊𝒐𝒖𝒅𝒚 🐞
-    bio: >-
-      •Collab/promo dm: pasxalia@my.com📩 •freelance model •19 years old
-    location: "Greece"
-    followers: 21858
-    engagement: 1017
-    commentsToLikes: 0.041195
-    id: ckap1evqzuau10i788nx7ieo2
-    verified: false
-    hashtags: ""
+    hashtags: "#muscle, #friendship, #muscledaddy, #lakerspridenight"
   - username: "dimitraalexandraki1"
     fullname: >-
       Δήμητρα Αλεξανδράκη
     bio: >-
-      Greece’s Next Top Model Miss Greece 2010 CEO of @saga.bridal & @ddk.jewerly
+      Greece’s Next Top Model Miss Greece 2010 CEO of @saga.bridal & @ddk.jewelry
     location: "Greece"
-    followers: 332324
-    engagement: 1500
-    commentsToLikes: 0.414397
+    followers: 453485
+    engagement: 1453
+    commentsToLikes: 0.521474
     id: ck6tv1nowjnsu0j71zqwa3ipy
     verified: true
-    hashtags: "#vma, #ddk, #madmusicawards"
+    hashtags: "#shisha, #cyprus, #flavors, #vape"
+  - username: "athinaki_mou"
+    fullname: >-
+      Athina Mourkousi Skotida
+    bio: >-
+      •BE.YOU.TIFUL• •pm💌 athina_moukou@hotmail.com •Professional MakeUp Artist / YouTuber / model / Image Maker / mama ♥️ ⬇️NEW BE.YOU.TIFUL VIDEO⬇️
+    location: "Greece"
+    followers: 66203
+    engagement: 954
+    commentsToLikes: 0.197412
+    id: ckaosoybrsfmj0i785qyxc8y0
+    verified: false
+    hashtags: "#scotfamily, #love, #crete, #vacation"
+  - username: "katerina.peftitsi"
+    fullname: >-
+      Κατερίνα Πεφτίτση
+    bio: >-
+      Inside Beauty MUA ,SFX Plus size model Booking : booking@inthefab.com Part of @in.the.fab ⬅️ for collabs
+    location: "Greece"
+    followers: 50157
+    engagement: 458
+    commentsToLikes: 0.012962
+    id: ck5q40s0zn8bo0i11s00o94xq
+    verified: false
+    hashtags: "#insidebeauty, #formotion, #pride, #plussizemodel"
+  - username: "knitecoser"
+    fullname: >-
+      KNITE | ナイト
+    bio: >-
+      Cosplayer | Model | Streamer | 🇬🇷 Tier One Entertainment
+    location: "Greece"
+    followers: 805876
+    engagement: 934
+    commentsToLikes: 0.008206
+    id: ck15unit9o13x0i19y3ild8le
+    verified: false
+    hashtags: "#howlsmovingcastle, #studioghibli, #howlpendragon, #cosplay"
+  - username: "harapappa"
+    fullname: >-
+      Hara Pappa
+    bio: >-
+      Model & Content Creator Represented by @amkmanagement_
+    location: "Greece"
+    followers: 131107
+    engagement: 1014
+    commentsToLikes: 0.053205
+    id: ck5qel6y610mx0i11r6xadccg
+    verified: false
+    hashtags: "#zoisekathestigmi, #xoxolynne, #burberrybeauty, #skincare"
+  - username: "annamaria_iliadou"
+    fullname: >-
+      Άννα-Μαρία Ηλιάδου
+    bio: >-
+      @ace_models_athens. annamariailiadou1@gmail.com
+    location: "Greece"
+    followers: 182730
+    engagement: 1390
+    commentsToLikes: 0.004525
+    id: ck5bz10viq8h90i11q9cc99on
+    verified: false
+    hashtags: "#ad, #toimoifashion, #toimoiwoman, #tezenis"
 ---

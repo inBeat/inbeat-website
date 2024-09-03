@@ -1,130 +1,130 @@
 ---
-title: Top 10 Dancers Instagram Influencers In Germany In 2023
+title: Top 10 Dancers Instagram Influencers In Germany In 2024
 description: >-
-  Find top dancers Instagram influencers in Germany in 2023. Most popular hashtags: #dance #summer #model.
+  Find top dancers Instagram influencers in Germany in 2024. Most popular hashtags: #dance #dancer #goodvibes #photography.
 platform: Instagram
-hits: 280
+hits: 309
 text_top: Analyze the top-rated Instagram influencers on inBeat.
-text_bottom: inBeat aggregates 280 Instagram influencers like this in Germany for you to contact.
+text_bottom: Our platform aggregates 309 Instagram influencers like this in Germany for you to connect with.
 profiles:
-  - username: "sofian.kfn"
+  - username: "vivien_esc"
     fullname: >-
-      s o f i a n ♟
+      👑Vivi👑
     bio: >-
-      📲 Snapchat : sofiank84 Dancer💃 ————————————————— leave or stay 🖇
+      ✨Est. 1999 • 📍Germany, Hamburg 💃🏼 #Dancer 🎤 TikTok: vivien_esc {500K+} 👻 Snapchat: vivien_esc 🎥 YouTube: vivien_esc vivien_esc@maxplusmgmt.de
     location: "Germany"
-    followers: 23640
-    engagement: 1197
-    commentsToLikes: 0.048782
-    id: ck0w4kns7z1p10i19udojgghk
+    followers: 123772
+    engagement: 400
+    commentsToLikes: 0.016155
+    id: ck13czz592zco0i19edastc8p
     verified: false
-    hashtags: "#grunge, #quotes, #grungeaesthetics, #aesthetic"
-  - username: "bryanmcflyofficial"
+    hashtags: "#love, #lifestyle, #life, #darlingmovement"
+  - username: "mirellailievaa"
     fullname: >-
-      𝔹𝕣𝕪𝕒𝕟 𝕄𝕔𝔽𝕝𝕪
+      Mirela Ilieva
     bio: >-
-      •𝕎𝕖𝕝𝕔𝕠𝕞𝕖 𝕥𝕠 𝕞𝕪 𝕨𝕠𝕣𝕝𝕕• •Dancer•Tricker•Acrobatic•Actor• •Member of SIXX PAXX• ->booking: mail: dariokolodiczyk@gmx.de or DM<-
+      Dancer & choreographer Model 📩 DM siana@keyacademy.bg 👇🔥MIRELLA - БИХ ГО ИЗЖИВЯЛА ПАК 🔥👇 Desafio 4 💛 @igri.na.voliata.bulgaria
     location: "Germany"
-    followers: 93752
-    engagement: 131
-    commentsToLikes: 0.124499
-    id: ck5qa8ne0f4er0i11hhn6ttpj
+    followers: 155815
+    engagement: 446
+    commentsToLikes: 0.004348
+    id: cl9k31vxbiztx0i23023c3as9
     verified: false
-    hashtags: "#summer, #beach, #sixpack, #dance"
-  - username: "nina_teza"
+    hashtags: "#azores, #larocheposayskincare, #reelsmaker, #mua"
+  - username: "cassyccassau"
     fullname: >-
-      Nina Teza
+      cassy cassau
     bio: >-
-      Dancer lTrainer| Travelgirl #dancerlife Owner of @world_dance_mannheim
+      feminist & dancer @germanysnexttopmodel Impressum:
     location: "Germany"
-    followers: 30088
-    engagement: 530
-    commentsToLikes: 0.034954
-    id: ckap7rb1xl7ys0i78pz7kne31
+    followers: 74123
+    engagement: 511
+    commentsToLikes: 0.010795
+    id: clnec8i51dfz80j08ywc9o2xs
     verified: false
-    hashtags: "#fitspo, #salsadancing, #dancevideo, #dancereels"
-  - username: "oliviaxpauline"
+    hashtags: "#gntn, #gntm23, #gntm2023, #schwarzkopf"
+  - username: "patrickodam"
     fullname: >-
-      OLIVIA PAULINE FILUELLA A.
+      Patrick Odametey P-Dog
     bio: >-
-      🐆 . MAKEUP CONTENT @ssoulface dancer | model | creative mind | soft soul PA & casting MAIL: olarkhurst@web.de YOUTUBE 🎥 👇🏽 || #dancer #hamburg
+      Dancer, Model, Actor & Content Creator 🕺 Judge of @brillantimalta Inventor of the Do Only Good Fam / e.V. @doonlygood.e.v Life & Mental Coach
     location: "Germany"
-    followers: 2403
-    engagement: 2084
-    commentsToLikes: 0.126107
-    id: ck6tvr2rlnsfk0j71zrsocy2p
+    followers: 11312
+    engagement: 1119
+    commentsToLikes: 0.065319
+    id: ck5q6d5ybwxer0i1132rwb1mg
     verified: false
-    hashtags: "#makeup, #braids, #dawndenim, #loveyourself"
-  - username: "izastucin"
+    hashtags: "#viral, #doonlygoodallday, #dancer, #dance"
+  - username: "serdar_lunatix"
     fullname: >-
-      Iza Štucin
+      Serdar Bogatekin
     bio: >-
-      •22 •Dancer at dance school Bolero 💕💃🏽 •fitness🏋🏽‍♀️ •Faculty of sports 🤸🏽‍♀️
+      🖊️CEO & Manager of @lunatix_management 👔CEO & FOUNDER of @lunatix.dancebase 🎶DANCER 🎧CHOREOGRAPHER
     location: "Germany"
-    followers: 7444
-    engagement: 1067
-    commentsToLikes: 0.095588
-    id: ck5zq1clxtqvu0i14g13imvpv
+    followers: 16856
+    engagement: 543
+    commentsToLikes: 0.058924
+    id: ck5ce7hxpkhjo0i11awk4pf9a
     verified: false
-    hashtags: "#dance, #trollz, #fitnes, #mamacita"
-  - username: "evangelorached"
+    hashtags: "#berlin, #lunatixmanagement, #reels, #lunatixdancebase"
+  - username: "chiaratews"
     fullname: >-
-      E V A N G E L O    R A C H E D
+      Chiara Tews
     bio: >-
-      Dancer/Choreographer Architect Snapchat: evangelorached
+      ACTRESS|DANCER Spotlight 🎬✨ TikTok: chiaratews 📍BERLIN
     location: "Germany"
-    followers: 63691
-    engagement: 502
-    commentsToLikes: 0.024414
-    id: ck8t0sttlt6cd0j78exkgzmz9
+    followers: 149193
+    engagement: 867
+    commentsToLikes: 0.009208
+    id: ck6tw3m5bptoi0j71e8ze5kls
     verified: false
-    hashtags: "#happyhalloween"
-  - username: "julian_iwas"
+    hashtags: "#happy, #dance, #vibes, #calpe"
+  - username: "power.kruemel"
     fullname: >-
-      Julian
+      PowerKrümel
     bio: >-
-      #DANCER #DOCTOR #TRAVEL #GERMANBOY
+      🍡 Cosplayer / Model / Dancer 🍡 Dancer Acc: @lost_in_power_ 🍡 privat acc: @power.kruemel.prvt
     location: "Germany"
-    followers: 19466
-    engagement: 1905
-    commentsToLikes: 0.014978
-    id: ckaovav1b3rsn0i78v8nbdqdl
+    followers: 7750
+    engagement: 761
+    commentsToLikes: 0.031016
+    id: clu163db2oejb0k082l447evh
     verified: false
-    hashtags: "#modeling, #sporty, #whitesocks, #beautiful"
-  - username: "renata_lusin"
+    hashtags: "#scenehair, #alternativestyle, #grungegirl, #akumasixmerch"
+  - username: "elisacarrillocabrera"
     fullname: >-
-      Renata Lusin
+      Elisa Carrillo Cabrera▫️Ballet artist
     bio: >-
-      💃Professional Dancer & Choreographer 🎥 @letsdance DWTS Germany 🏆Vice World Champion 📸 Model
+      🔹️Principal Ballet Dancer @staatsballettberlin 🔹️ Cultural Ambassador of México 🔹️Co-Artistic Director @cndanzamx 👉 Let's dance together ⬇️
     location: "Germany"
-    followers: 133458
-    engagement: 782
-    commentsToLikes: 0.018909
-    id: ck5c8qefya0yl0i11l2mdbmin
-    verified: false
-    hashtags: "#enjoythemoment, #summervibes, #dancechallenge, #rtlsommerspiele"
-  - username: "charmainepromes"
+    followers: 82267
+    engagement: 367
+    commentsToLikes: 0.016165
+    id: ck5pvyrvbk9wr0i11y0slob58
+    verified: true
+    hashtags: "#dancer, #mexicolindo, #elisacarrillo, #yosoyelisacarrillo"
+  - username: "monnush"
     fullname: >-
-      Charmaine Yasmine Promes
+      MONIKA PRIKKELOVÁ
     bio: >-
-      Afro dancer sc : kusscharmainee DM or email for collabs📩
+      Dancer•Teacher • HEELS • VOGUE 📍Bratislava Founder of: @ballofshame @identitiesbrand @kikihouseofvelvet #TisciDuh @mondance_agency @trongirls
     location: "Germany"
-    followers: 41207
-    engagement: 981
-    commentsToLikes: 0.015516
-    id: ck15sroyaehm10i19xo1hifl1
+    followers: 10692
+    engagement: 333
+    commentsToLikes: 0.025774
+    id: ck6tmzbtu8tmq0j7102n9eltw
     verified: false
-    hashtags: "#badlikeme"
-  - username: "emmakantt"
+    hashtags: "#houseofvelvet, #mondanceteam, #pussyisafeeling, #monnush"
+  - username: "iirisnik"
     fullname: >-
-      emma 👸🏼
+      ɪɪʀɪꜱ
     bio: >-
-      dancer & coach made in berlin, germany
+      based in munich 🪐 / professional ballet dancer ballett-akademie hmtm grad / BA of Arts / t ༯ collabs: nikulaiiris@gmail.com
     location: "Germany"
-    followers: 15678
-    engagement: 1142
-    commentsToLikes: 0.015081
-    id: ck8wehl8xe29s0j786s90vdnw
+    followers: 99228
+    engagement: 713
+    commentsToLikes: 0.006544
+    id: ck5pxbxk5r1wj0i11y5tkgnza
     verified: false
-    hashtags: "#tb, #2021"
+    hashtags: "#dancersandballet, #balletreels, #ballet, #aesthetic"
 ---

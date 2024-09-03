@@ -1,11 +1,11 @@
 ---
-title: Top 10 Photographers TikTok Influencers In Austin In 2023
+title: Top 10 Photographers TikTok Influencers In Austin In 2024
 description: >-
-  Find top photographers TikTok influencers in Austin in 2023. Most popular hashtags: #photographer #photoshoot #photography #fyp.
+  Find top photographers TikTok influencers in Austin in 2024. Most popular hashtags: #photographer #photoshoot #photography #fyp.
 platform: TikTok
 hits: 28
-text_top: Identify the most popular TikTok accounts on inBeat.
-text_bottom: inBeat has 28 TikTok influencers like this in Austin, United States for you to pitch.
+text_top: Discover the best TikTok profiles on inBeat.
+text_bottom: inBeat holds 28 TikTok influencers like this in Austin, United States for you to connect with.
 profiles:
   - username: "t_austin"
     fullname: >-
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.036892
     id: ck9773yap2mqp0j78sorr03zh
     verified: false
-    hashtags: "#austin, #dance, #girls, #fun"
+    hashtags: "#austin, #surf, #mtb, #newzealand"
   - username: "vcboudoir"
     fullname: >-
       Victoria Caroline Boudoir
@@ -85,24 +85,24 @@ profiles:
     bio: >-
       I make noises and voices and art and take photos for a living 23 TX
     location: "United States"
-    followers: 43600
-    engagement: 1882
-    commentsToLikes: 0.044649
+    followers: 43100
+    engagement: 1977
+    commentsToLikes: 0.054972
     id: ck95z2w6ycqpd0j78ogjs7muy
     verified: false
-    hashtags: "#harmony, #sing, #duet, #fyp"
+    hashtags: "#photoshoot, #fy, #model, #fyp"
   - username: "austinwilcox16"
     fullname: >-
       Austin Wilcox
     bio: >-
       Check out my IG!☝️ LA Content Creator #Jesus
     location: "United States"
-    followers: 8150
-    engagement: 1499
-    commentsToLikes: 0.049921
+    followers: 8096
+    engagement: 1633
+    commentsToLikes: 0.048436
     id: cka7vh8j3wabe0i78idheja04
     verified: false
-    hashtags: "#lightroom, #photomagic, #la, #dogsoftiktok"
+    hashtags: "#photograhy, #lightroom, #photo, #phototrick"
   - username: "directedbycreatives"
     fullname: >-
       DirectedxCreatives
@@ -126,5 +126,5 @@ profiles:
     commentsToLikes: 0.009521
     id: ck83x4g4to8970j78jhwnudb7
     verified: false
-    hashtags: "#photoedit, #lightroom, #lr, #influencer"
+    hashtags: "#canon, #photographer, #photoshoot, #nikon"
 ---

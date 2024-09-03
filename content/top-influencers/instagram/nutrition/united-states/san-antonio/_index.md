@@ -1,11 +1,11 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In San Antonio In 2023
+title: Top 10 Nutrition Instagram Influencers In San Antonio In 2024
 description: >-
-  Find top nutrition Instagram influencers in San Antonio in 2023. Most popular hashtags: #nutrition #fitnessmotivation #healthylifestyle.
+  Find top nutrition Instagram influencers in San Antonio in 2024. Most popular hashtags: #fitness #nutrition #health.
 platform: Instagram
 hits: 4
-text_top: Identify the most popular Instagram accounts on inBeat.
-text_bottom: Our platform holds 4 Instagram influencers like this in San Antonio, United States for you to connect with.
+text_top: See the most popular Instagram profiles on inBeat.
+text_bottom: inBeat holds 4 Instagram influencers like this in San Antonio, United States for you to contact.
 profiles:
   - username: "paugasol"
     fullname: >-
@@ -30,7 +30,19 @@ profiles:
     commentsToLikes: 0.059923
     id: ckap8ki2woq4j0i78ib5yj6k3
     verified: false
-    hashtags: "#flexfriday, #wellness, #girlswholift, #bodybuilding"
+    hashtags: "#hypothyroidism, #flexfriday, #weightloss, #pcos"
+  - username: "msdrizzle11"
+    fullname: >-
+      𝐌𝐚𝐫𝐣𝐨𝐫𝐢𝐞 𝐃𝐫𝐢𝐞𝐬𝐞
+    bio: >-
+      📍 En Route Connecting The Busy Mom To Home, Health, Wellness, & Beauty 💍ᴡɪꜰᴇ 🤱ᴍᴏᴛʜᴇʀ 👩‍⚕️ʜᴇᴀʟᴛʜᴄᴀʀᴇ ᴘʀᴏᴠɪᴅᴇʀ
+    location: "United States"
+    followers: 52924
+    engagement: 107
+    commentsToLikes: 0.172949
+    id: cl04upjsi7o8m0i23slqt3pio
+    verified: false
+    hashtags: "#healthylifestyle, #wellness, #ad, #kishachavis"
   - username: "planwithlaken"
     fullname: >-
       Laken | Goal Setting
@@ -42,89 +54,77 @@ profiles:
     commentsToLikes: 0.092890
     id: ck0tz1jltosi40i19gvq26ojm
     verified: false
-    hashtags: "#penmanship, #books, #goodreads, #booklove"
-  - username: "alamofoodie"
+    hashtags: "#makeaplan, #booklove, #instabooks, #limitingbeliefs"
+  - username: "fitness.by.nikki"
     fullname: >-
-      𝑬𝒙𝒑𝒆𝒓𝒊𝒆𝒏𝒄𝒆𝒔 | 𝑩𝒊𝒕𝒆𝒔 | 𝑩𝒐𝒐𝒛𝒆
+      N I K K I  R A Y
     bio: >-
-      𝕄𝕠𝕕𝕖𝕣𝕒𝕥𝕚𝕠𝕟 𝕙𝕒𝕤 𝕟𝕖𝕧𝕖𝕣 𝕓𝕖𝕖𝕟 𝕞𝕪 𝕥𝕙𝕚𝕟𝕘 🍸•🍸•🍸 ꜰᴏᴏᴅ ʟᴏᴠᴇʀ & ꜰᴜɴ ʜᴀᴠᴇʀ ᴛʜɪʀꜱᴛʏ & ᴀᴜᴛʜᴇɴᴛɪᴄ ᴀꜰ ɪ ᴘʀᴇꜰᴇʀ ᴍʏ ᴘᴜɴꜱ ɪɴᴛᴇɴᴅᴇᴅ 𝕃𝕚𝕧𝕖 𝕡𝕒𝕤𝕤𝕚𝕠𝕟𝕒𝕥𝕖𝕝𝕪 𝕥ꫀ᥊ꪖડ ᠻꪮ𝕣ꫀꪜꫀ𝕣
+      ⭐️ CPT & Nutrition Coach 🥇 NPC Figure & Bikini NQ | Sponsored Athlete ⚡️ @cellucor @c4energy NIKKI 👙 @angelcompetitionbikinis NIKKI 👭 Mom 📚 Attorney
     location: "United States"
-    followers: 28386
-    engagement: 143
-    commentsToLikes: 0.177167
-    id: ck5qap3amhjjl0i118jk81bce
+    followers: 22168
+    engagement: 603
+    commentsToLikes: 0.035846
+    id: ck8t4t1j67vk00j78nzc491rw
     verified: false
-    hashtags: "#supportlocalbusiness, #texasforever, #sanantonio, #satx"
-  - username: "saschafitness"
+    hashtags: "#noexcuses, #neverskiplegday"
+  - username: "josiahkhong"
     fullname: >-
-      Sascha Barboza
+      Josiah Khong
     bio: >-
-      Fitness-Nutrition Coach CEO- Sascha Fitness Corp Book author Mamá Youtube: Sascha Fitness 📧info@saschafitness.com @saschafitnessmarket 🛒⬇️Shop
+      💼 Young Entrepreneur 📖 Monash Uni Alumni 🏋🏻 Fitness Coach 🌱 Certified Nutrition Expert 💡 Managed by @alyfegroup Collab: josiahkhong@hotmail.com
     location: "United States"
-    followers: 5312363
-    engagement: 450
-    commentsToLikes: 0.010945
-    id: ck13c63ygyssj0i19zjq0l5d2
-    verified: true
-    hashtags: "#11, #blackwidow"
-  - username: "becca_denae"
-    fullname: >-
-      Rebecca | CPT
-    bio: >-
-      I help individuals become their most confident selves through strength and performance training, and nutrition coaching 💪🏽 @rpstrength: BECCADENAE
-    location: "United States"
-    followers: 9845
-    engagement: 2817
-    commentsToLikes: 0.044594
-    id: clcbv5majoymz0j08d1s754s0
+    followers: 35880
+    engagement: 6355
+    commentsToLikes: 0.013761
+    id: ck8sy1fvcjef00j785sax5769
     verified: false
-    hashtags: "#strongwomen, #tboathletes, #personaltrainer, #tbotraining"
-  - username: "alphaburnfit"
+    hashtags: "#geekfitlab, #alaska, #amwaymy, #gym"
+  - username: "kasha_grimes"
     fullname: >-
-      Alphaburn | Duke Ihenacho
+      Kasha
     bio: >-
-      Helping men and women make total health and lifestyle transformations through exercise and nutrition 🔥
+      AKA Mumma Grimes, promotes self help, loves fashion, styling, travel, women’s health, fitness, nutrition & most importantly living life to the full ❤️
     location: "United States"
-    followers: 50336
-    engagement: 566
-    commentsToLikes: 0.024146
-    id: clcbv5mrmoyxg0j0898qixrs4
+    followers: 34897
+    engagement: 1039
+    commentsToLikes: 0.025111
+    id: ck0w1gimkj8em0i191beptuaw
     verified: false
-    hashtags: "#becometheheat, #alphaburn"
-  - username: "purely_healthy_living"
+    hashtags: "#ad, #founditonamazon, #fashionhaul, #onlinefashion"
+  - username: "bodyxbrooke"
     fullname: >-
-      María | Easy Healthy Recipes
+      BODY BY BROOKE | home workouts, wellness + mom life
     bio: >-
-      • Fun, Creative & Easy Healthy Recipes👩🏼‍🍳🌿 • Nutritionist🥑 • Bilingüal 🇺🇸 // 🇲🇽
+      🌟 trainer, nutrition coach + mom 💗 helping women feel their best 💪🏼 home workout program + meal plans ⤵️ join me FREE for 10 days!
     location: "United States"
-    followers: 34482
-    engagement: 343
-    commentsToLikes: 0.411498
-    id: ck0u9yj1jawhj0i19xe005yl5
+    followers: 19506
+    engagement: 646
+    commentsToLikes: 0.123949
+    id: ckv7c9vwu13bz0j23g746o1ic
     verified: false
-    hashtags: "#prozis, #vegan, #lowcarb, #glutenfree"
-  - username: "ayamakramofficial"
+    hashtags: "#homeworkouts, #momsofinstagram, #momlife, #sweatathome"
+  - username: "doctordiaries"
     fullname: >-
-      Aya Makram | آيه مكرم
+      Erica Wigdor, DO
     bio: >-
-      Healthy vibes 💫 Nutritionist 🍏
+      👩🏻‍⚕️ Board Certified Internal Medicine 📍 South FL ❤️ Health | Wellness | Lifestyle 🍎 Nutrition + Prevention 🧬 Evidence Based Science ⇩ Blog + More
     location: "United States"
-    followers: 2230162
-    engagement: 331
-    commentsToLikes: 0.041616
-    id: ck5hcf49bhquu0i11tutt40v6
+    followers: 103028
+    engagement: 682
+    commentsToLikes: 0.026297
+    id: ck6trzr4420c50j71ui5zl0fg
     verified: false
-    hashtags: ""
-  - username: "dreathomas"
+    hashtags: "#givingtuesday, #ezcpak, #flexispot, #figsambassador"
+  - username: "savaniimal"
     fullname: >-
-      Drea Thomas
+      Savannah Ige
     bio: >-
-      Founder @allyou + @soliswimwear Athlete for @bombshellsportswear My Workout & Nutrition Programs now on SALE! ⤵️
+      I love Jesus Here to encourage you to do hard things 🫶 Wife to @dynamitedan808 ❤️ Certified Sports Nutrition Coach CFL2 Coach
     location: "United States"
-    followers: 1045177
-    engagement: 260
-    commentsToLikes: 0.009070
-    id: cl3dd174q5ncg0i23lcp79fq9
+    followers: 27252
+    engagement: 762
+    commentsToLikes: 0.042703
+    id: cl6kwojb3k2ke0i23v40ik8qt
     verified: false
-    hashtags: ""
+    hashtags: "#momanddad, #fitness, #running, #coach"
 ---

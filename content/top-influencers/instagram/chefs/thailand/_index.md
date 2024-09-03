@@ -1,11 +1,11 @@
 ---
-title: Top 10 Chefs Instagram Influencers In Thailand In 2023
+title: Top 10 Chefs Instagram Influencers In Thailand In 2024
 description: >-
-  Find top chefs Instagram influencers in Thailand in 2023. Most popular hashtags: #food #yummy #masterchefthailand #chef.
+  Find top chefs Instagram influencers in Thailand in 2024. Most popular hashtags: #food #chef #masterchefthailand #dessert.
 platform: Instagram
-hits: 18
-text_top: Analyze the top-rated Instagram profiles on inBeat.
-text_bottom: Our database aggregates 18 Instagram influencers like this in Thailand for you to contact.
+hits: 17
+text_top: Discover the best Instagram influencers on inBeat.
+text_bottom: inBeat has 17 Instagram influencers like this in Thailand for you to contact.
 profiles:
   - username: "kaewpaweenuch"
     fullname: >-
@@ -79,18 +79,6 @@ profiles:
     id: ckap93o5rr0kd0i78ypptd0us
     verified: false
     hashtags: "#chefschallenge, #masterchefjuniorthailandseason1, #masterchefallstarsthailand, #pattieeeeee"
-  - username: "misterchou.bkk"
-    fullname: >-
-      Chou
-    bio: >-
-      Bangkok-based pâtissier & croissant enthusiast 🇹🇭 🥐 For orders, please DM
-    location: "Thailand"
-    followers: 7404
-    engagement: 1025
-    commentsToLikes: 0.036508
-    id: ck9wfbryro5lo0j787suyuk59
-    verified: false
-    hashtags: "#laminateddough, #artisanbaker, #kouignamann, #croissanterie"
   - username: "chefakiraback"
     fullname: >-
       Akira Back (백승욱)
@@ -127,4 +115,16 @@ profiles:
     id: ck5hl45yhjjf00i115i6fxaqe
     verified: false
     hashtags: "#coffee, #food, #sonyalphain, #coffeehouse"
+  - username: "earn76"
+    fullname: >-
+      Earn Nitipat Uahwatanasakul
+    bio: >-
+      Seeker Husband
+    location: "Thailand"
+    followers: 74042
+    engagement: 152
+    commentsToLikes: 0.008506
+    id: ck6uafdx7390i0j7169z2bqi1
+    verified: true
+    hashtags: "#vacation, #shopee, #bichonfrise, #shopeeth"
 ---

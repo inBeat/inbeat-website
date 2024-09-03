@@ -1,11 +1,11 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Rio De Janeiro In 2023
+title: Top 10 Yoga Instagram Influencers In Rio De Janeiro In 2024
 description: >-
-  Find top yoga Instagram influencers in Rio De Janeiro in 2023. Most popular hashtags: #yoga #riodejaneiro #ficaemcasa #tbt.
+  Find top yoga Instagram influencers in Rio De Janeiro in 2024. Most popular hashtags: #riodejaneiro #yoga #ficaemcasa #tbt.
 platform: Instagram
 hits: 13
-text_top: See the most popular Instagram accounts on inBeat.
-text_bottom: Our search engine holds 13 Instagram influencers like this in Rio de Janeiro, Brazil for you to pitch.
+text_top: Identify the most popular Instagram accounts on inBeat.
+text_bottom: inBeat holds 13 Instagram influencers like this in Rio de Janeiro, Brazil for you to collaborate.
 profiles:
   - username: "bethpedote_ashtanga"
     fullname: >-

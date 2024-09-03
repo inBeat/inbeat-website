@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fitness TikTok Influencers In Denver In 2023
+title: Top 10 Fitness TikTok Influencers In Denver In 2024
 description: >-
-  Find top fitness TikTok influencers in Denver in 2023. Most popular hashtags: #fyp #fitness #foryou #comedy.
+  Find top fitness TikTok influencers in Denver in 2024. Most popular hashtags: #fyp #fitness #foryou #comedy.
 platform: TikTok
 hits: 8
-text_top: Analyze the top-rated TikTok accounts on inBeat.
-text_bottom: Our platform holds 8 TikTok influencers like this in Denver, United States for you to work with.
+text_top: See the most popular TikTok profiles on inBeat.
+text_bottom: Our database aggregates 8 TikTok influencers like this in Denver, United States for you to connect with.
 profiles:
   - username: "happilykenna"
     fullname: >-
@@ -54,7 +54,7 @@ profiles:
     commentsToLikes: 0.019711
     id: cka0j3jbpgddv0i78mbtf99py
     verified: false
-    hashtags: "#notonething, #fyp, #foryou, #comedy"
+    hashtags: "#viral, #notfyp, #dontletthisflop, #drive"
   - username: "workoutswitherika"
     fullname: >-
       Erika Weiss
@@ -115,16 +115,16 @@ profiles:
     id: ckbb1sa6us5u20j23qu23dv7k
     verified: false
     hashtags: "#foryou, #foryoupage, #fitness, #fyp"
-  - username: "justakayday"
+  - username: "fitwithdawn"
     fullname: >-
-      Kay Mejia
+      Dawn | PT and LifeCoach
     bio: >-
-      Nerd...26...Fitness...Bi Prayers for those in Texas 🖤
+      ✨Positivity/Motivation👟Fitness 💪🏻Wellness 🤪Fun #mylifeonTikTok #beretlady
     location: "United States"
-    followers: 25800
-    engagement: 1956
-    commentsToLikes: 0.171200
-    id: ckbace1l04urc0j23dv1mpj5m
+    followers: 10600
+    engagement: 3024
+    commentsToLikes: 0.701530
+    id: ckcptslsjomg90j23hh5c4bxu
     verified: false
-    hashtags: "#stitch, #single, #fyp, #storytime"
+    hashtags: "#welcomeback, #summermashup, #choosehappy, #quickbooksvictorypose"
 ---

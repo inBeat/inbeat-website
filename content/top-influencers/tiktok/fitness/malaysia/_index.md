@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fitness TikTok Influencers In Malaysia In 2023
+title: Top 10 Fitness TikTok Influencers In Malaysia In 2024
 description: >-
-  Find top fitness TikTok influencers in Malaysia in 2023. Most popular hashtags: #tiktokmalaysia #fitness #fyp #foryou.
+  Find top fitness TikTok influencers in Malaysia in 2024. Most popular hashtags: #tiktokmalaysia #fitness #fyp #foryou.
 platform: TikTok
 hits: 8
-text_top: See the most popular TikTok profiles on inBeat.
-text_bottom: Our platform holds 8 TikTok influencers like this in Malaysia for you to contact.
+text_top: See the top-rated TikTok influencers on inBeat.
+text_bottom: Our search engine has 8 TikTok influencers like this in Malaysia for you to pitch.
 profiles:
   - username: "venuswongs"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.013141
     id: ckbl44u3s1jrm0j23cjxrb4i8
     verified: false
-    hashtags: "#avocado, #slim, #egg, #food"
+    hashtags: "#tiktokclassroom, #avocado, #slim, #food"
   - username: "kelvinteo93"
     fullname: >-
       Kelvin Teo
@@ -78,7 +78,7 @@ profiles:
     commentsToLikes: 0.075014
     id: ckbkiowzwb4n90j23gj2740qa
     verified: false
-    hashtags: "#fyp, #tiktokmalaysia, #foryourpage, #simpapapalubila"
+    hashtags: "#tiktokmalaysia, #fyp, #foryourpage, #mobilelegends"
   - username: "zenlauh"
     fullname: >-
       Edward

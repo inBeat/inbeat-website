@@ -1,130 +1,130 @@
 ---
-title: Top 10 Stylists Instagram Influencers In Poland In 2023
+title: Top 10 Stylists Instagram Influencers In Poland In 2024
 description: >-
-  Find top stylists Instagram influencers in Poland in 2023. Most popular hashtags: #stylizacja #sukienka #stylowka #polskadziewczyna.
+  Find top stylists Instagram influencers in Poland in 2024. Most popular hashtags: #reklama #sukienka #hair #stylizacja.
 platform: Instagram
-hits: 391
-text_top: Analyze the most popular Instagram accounts on inBeat.
-text_bottom: Our database holds 391 Instagram influencers like this in Poland for you to collaborate.
+hits: 449
+text_top: Analyze the most popular Instagram profiles on inBeat.
+text_bottom: inBeat aggregates 449 Instagram influencers like this in Poland for you to contact.
 profiles:
-  - username: "dominika_walendziak"
+  - username: "doris.xoxo"
     fullname: >-
-      Dominika Walendziak
+      Dorota Sadowska
     bio: >-
-      Owner @dominimakeup ❣️ Make Up Artist & Lash Stylist 💄 Świecie 📍
+      💎 diamond advisor 👠 personal stylist /fashion enthusiast (with a passion for diamonds and fashion) 📩dorota.sadowska1994@tlen.pl @szafa_doris.xoxo
     location: "Poland"
-    followers: 10739
-    engagement: 1083
-    commentsToLikes: 0.176040
-    id: ck136f3b166jb0i19jymf8gw0
+    followers: 17754
+    engagement: 486
+    commentsToLikes: 0.084764
+    id: cl5l32so890pa0i233d69z2if
     verified: false
-    hashtags: "#polskadziewczyna, #makeupartist, #christmasmakeup, #bbdaretoshare"
-  - username: "verycranberry"
+    hashtags: "#autumn, #outfit, #selfie, #black"
+  - username: "magdajagnicka"
     fullname: >-
-      Agata | #style #smile
+      Magda Jagnicka
     bio: >-
-      My visual diary • freelance stylist • fashion lover Warsaw, Poland
+      Fashion Editor & Stylist from Warsaw with love 💓 @bankotki & @kamionki_com founder ✨
     location: "Poland"
-    followers: 27575
-    engagement: 356
-    commentsToLikes: 0.057401
-    id: ck0w6lffr94xj0i19pcmdefsa
+    followers: 44980
+    engagement: 4277
+    commentsToLikes: 0.023587
+    id: ck0vv6u79nsw10i191mfrnyzi
     verified: false
-    hashtags: "#zarawoman, #zaralovers, #waystowear, #zaralook"
+    hashtags: "#weddinginitaly, #reklama, #weddinginspiration, #estelladandyk"
+  - username: "gabrielabednarz"
+    fullname: >-
+      Gabriela Bednarz
+    bio: >-
+      Stylist @undressedbygab Collaborations: kontakt@dresscodecrew.pl Warsaw Based
+    location: "Poland"
+    followers: 28759
+    engagement: 974
+    commentsToLikes: 0.014208
+    id: ck0tvct91avjw0i19i6chqskl
+    verified: false
+    hashtags: "#createdwithadidas, #reklama, #bezcenne, #cluboriginals"
+  - username: "agabil1"
+    fullname: >-
+      Agnieszka Bil
+    bio: >-
+      blogger photographer lifestyle stylist florist makeupartist Collab ➡️ mail 📩 or direct 📥 My dogs 🐶 @kudly_forever agabj1@gmail.com
+    location: "Poland"
+    followers: 20741
+    engagement: 614
+    commentsToLikes: 0.022179
+    id: ck13bc9tvuqi40i19fttlmsiw
+    verified: false
+    hashtags: "#bag, #dryskin, #fashionstyles2me, #zakupyonline"
+  - username: "stylmike"
+    fullname: >-
+      Michal Karbowski
+    bio: >-
+      💁🏻‍♂️ Stylista & Wizażysta 🕰️ 20 lat doświadczenienia 📰 Setki publikacji 🧙‍♂️Ubieram nie przebieram
+    location: "Poland"
+    followers: 14096
+    engagement: 366
+    commentsToLikes: 0.083501
+    id: ck0w5hu4t3pxb0i19bzen7afk
+    verified: false
+    hashtags: "#travel, #travelphotography, #moda, #photosession"
+  - username: "lachowianka"
+    fullname: >-
+      Karolina Młyńska
+    bio: >-
+      Certyfikowana Stylistka personalna oraz Stylistka sesji zdjęciowych ✉️k.mlynska0930@gmail.com 📍Cracow, Warsaw Poland
+    location: "Poland"
+    followers: 9886
+    engagement: 217
+    commentsToLikes: 0.005413
+    id: ck13az01vsvng0i19x4kdu92t
+    verified: false
+    hashtags: "#christmastime, #oldtown, #sunbathing, #swimsuit"
+  - username: "marta.rasch"
+    fullname: >-
+      Marta Rasch
+    bio: >-
+      ✈️ #fashionstylist #traveller #lookoftheday #fashionBlogger #ootdpl 💫personal & commercial stylist, stylecoach @novamoda.pl 📩 marta@novamoda.pl
+    location: "Poland"
+    followers: 33050
+    engagement: 205
+    commentsToLikes: 0.039064
+    id: ckaosy8hetjva0i78fi6415c6
+    verified: false
+    hashtags: "#polscyprojektanci, #kobietapoczterdziestce, #stylowka, #kobietapotrzydziestce"
+  - username: "delfinashopping"
+    fullname: >-
+      Delfina
+    bio: >-
+      • Fashion enthusiast • freelance stylist • personal shopper @delfinashopping_ps • Trend watching 🩷 • Indywidualne porady i konsultacje modowe🛍️
+    location: "Poland"
+    followers: 29500
+    engagement: 201
+    commentsToLikes: 0.051895
+    id: ck8ta4i5fqg3n0j78ygok5bbv
+    verified: false
+    hashtags: "#verysoon, #fauxfur, #2022, #fashionforward"
   - username: "franciszkowelove"
     fullname: >-
       Agnieszka
     bio: >-
       Fashion Stylist | Personal Shopper | Kraków, Kontakt: franciszkowelove0@gmail.com
     location: "Poland"
-    followers: 44515
-    engagement: 278
-    commentsToLikes: 0.081734
+    followers: 61724
+    engagement: 177
+    commentsToLikes: 0.055742
     id: ck5c9boz8b5as0i113ecknag9
     verified: false
-    hashtags: "#stylizacja, #outfitlook, #ootdgoals, #ootdpost"
-  - username: "fashionisherpassion71"
+    hashtags: "#modnakobieta, #autumnfashion, #fashionblogger, #autumnoutfit"
+  - username: "maja.kmiecik"
     fullname: >-
-      Pola i moda -Stylistka
+      💎MAJA KMIECIK💎
     bio: >-
-      Osobista Stylistka | Personal Shopper | Fashion Stylist Uczę rozsądnych zakupów 📩pola.stylistka@gmail.com Recenzje nowości | Stylizacje | Inspiracje
+      Mail: kontakt@majakmiecik.pl •Zdjęcia produktowe •Linkwoman in internetTV •Product manager •Makeup artist/stylist
     location: "Poland"
-    followers: 19990
-    engagement: 391
-    commentsToLikes: 0.112403
-    id: ckaowb8hh85os0i78paopj7dq
+    followers: 13797
+    engagement: 161
+    commentsToLikes: 0.005983
+    id: ck5ce3c5nk9aw0i11w4yk6mub
     verified: false
-    hashtags: "#autumnoutfit, #zakupyzestylistka, #modatomy, #stylizacja"
-  - username: "kasikasienka"
-    fullname: >-
-      Kasia 💋
-    bio: >-
-      ♥ Makeup Artist & Brow Stylist ♥ Gym lover ♥ Traveller @patryk_rychter.bodybuilder ❤️
-    location: "Poland"
-    followers: 2642
-    engagement: 3481
-    commentsToLikes: 0.060508
-    id: ck9wozwdd77eg0j78jws17uwv
-    verified: false
-    hashtags: "#polka, #gymlifestyle, #fitdziewczyna, #motywacja"
-  - username: "de_mona.zielinska"
-    fullname: >-
-      MONIKA ZIELIŃSKA MODEL
-    bio: >-
-      🇵🇱 173cm 🎥GryMałżeńskie-s6, odc.56 Fb: Mona Zielinska Model Site talented: model, photomodel, stylist, actress, presenter😉cooperation? DM->✉️
-    location: "Poland"
-    followers: 20632
-    engagement: 459
-    commentsToLikes: 0.147464
-    id: ck8t6h08xdln80j7870pypv83
-    verified: false
-    hashtags: "#globeportraits, #brazoweoczy, #portraittalents, #naturallight"
-  - username: "marta.rasch"
-    fullname: >-
-      Marta Rasch
-    bio: >-
-      🌸 Daily dose of fashion #lookoftheday #fashionBlogger #ootdpl 💫 GirlBoss 24/7, fashion & commercial stylist, coach 📩 marta@novamoda.pl Want to join?
-    location: "Poland"
-    followers: 34005
-    engagement: 314
-    commentsToLikes: 0.018967
-    id: ckaosy8hetjva0i78fi6415c6
-    verified: false
-    hashtags: "#kobietapotrzydziestce, #stylistka, #sexy, #ootdpl"
-  - username: "daria.stec"
-    fullname: >-
-      D A R I A
-    bio: >-
-      🇵🇱 PL 💄 Wizażystka/Stylistka 🎶 Tik Tok: dasstte 🖤 @daste.makeup 💌 Zapisy na makijaż
-    location: "Poland"
-    followers: 2188
-    engagement: 2162
-    commentsToLikes: 0.062378
-    id: ckap2rcyazzfw0i78m0oxcjnt
-    verified: false
-    hashtags: "#bperfectcosmetics, #makeupartist, #glossy, #makeupaddict"
-  - username: "fit.patrycja"
-    fullname: >-
-      Patrycja
-    bio: >-
-      Chorzów🌍 Stylistka paznokci 💅 Sportowy świr 💪 21 lat 🌸
-    location: "Poland"
-    followers: 16385
-    engagement: 1108
-    commentsToLikes: 0.012904
-    id: ck9weaqs1jfvx0j78o15jqbix
-    verified: false
-    hashtags: "#polishgirl, #fitgirl, #girl, #brunette"
-  - username: "pattilifestyle"
-    fullname: >-
-      Pattilifestyle
-    bio: >-
-      🍥Stylistka ubioru z zawodu 🍥Stylistka wnętrz z zamiłowania 🍥Moje życie - fajne życie! 📧 pattihome@wp.pl
-    location: "Poland"
-    followers: 72936
-    engagement: 106
-    commentsToLikes: 0.087798
-    id: ck0w4e1dxy4bo0i193tw8vq6n
-    verified: false
-    hashtags: "#fashiongirlstyle, #mieszkanie, #skandynawskidesign, #zabawamod"
+    hashtags: "#photoshoot, #wroclaw, #portrait, #ptakfashioncity"
 ---

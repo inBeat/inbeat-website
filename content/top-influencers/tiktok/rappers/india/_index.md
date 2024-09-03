@@ -1,11 +1,11 @@
 ---
-title: Top 10 Rappers TikTok Influencers In India In 2023
+title: Top 10 Rappers TikTok Influencers In India In 2024
 description: >-
-  Find top rappers TikTok influencers in India in 2023. Most popular hashtags: #foryou #duet #trending #desi.
+  Find top rappers TikTok influencers in India in 2024. Most popular hashtags: #foryou #trending #duet #desi.
 platform: TikTok
 hits: 62
-text_top: Discover the top-rated TikTok accounts on inBeat.
-text_bottom: Our database holds 62 TikTok influencers like this in India for you to contact.
+text_top: Discover the most popular TikTok influencers on inBeat.
+text_bottom: inBeat holds 62 TikTok influencers like this in India for you to work with.
 profiles:
   - username: "nippunepewala83"
     fullname: >-

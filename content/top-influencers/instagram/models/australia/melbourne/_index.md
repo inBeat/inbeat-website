@@ -1,24 +1,12 @@
 ---
-title: Top 10 Models Instagram Influencers In Melbourne In 2023
+title: Top 10 Models Instagram Influencers In Melbourne In 2024
 description: >-
-  Find top models Instagram influencers in Melbourne in 2023. Most popular hashtags: #melbourne #model #instagood #love.
+  Find top models Instagram influencers in Melbourne in 2024. Most popular hashtags: #model #melbourne #love #australia.
 platform: Instagram
-hits: 64
+hits: 78
 text_top: Discover the most popular Instagram profiles on inBeat.
-text_bottom: Our search engine holds 64 Instagram influencers like this in Melbourne, Australia for you to collaborate.
+text_bottom: inBeat has 78 Instagram influencers like this in Melbourne, Australia for you to collaborate.
 profiles:
-  - username: "joshkua"
-    fullname: >-
-      Josh Kua
-    bio: >-
-      Genre-defying Aussie violinist, composer & model Melbourne / Kuala Lumpur 🇸🇬 @avemanagement
-    location: "Australia"
-    followers: 63492
-    engagement: 254
-    commentsToLikes: 0.046901
-    id: ckap97zc3rjcy0i785nnctbaq
-    verified: true
-    hashtags: "#chambord, #ad, #sponsored, #improv"
   - username: "babushka.ferenczi"
     fullname: >-
       Babushka Ferenczi
@@ -31,6 +19,30 @@ profiles:
     id: ck6u6k70qg2f30j71ls6t45wx
     verified: false
     hashtags: "#frenchmodel, #funtimes, #model, #melbournephotography"
+  - username: "raemorrismakeup"
+    fullname: >-
+      Rae Morris
+    bio: >-
+      EDITORIAL | FASHION | BEAUTY|AUTHOR- Makeup Artist- Creator of Rae Morris Makeup-Author 4 Makeup books. Bookings - info@raemorris.com
+    location: "Australia"
+    followers: 110019
+    engagement: 36
+    commentsToLikes: 0.052908
+    id: ck15u8qf5lz0p0i19ck5swlp0
+    verified: true
+    hashtags: "#glam, #veganbrushes, #spacenk, #jessmauboy"
+  - username: "kiara.paige"
+    fullname: >-
+      K I A R A  P A I G E 💌
+    bio: >-
+      Melbourne Model & Content Creator • Fashion • Beauty • Skincare • Accessories 📧 agent ~ @justkhooagency
+    location: "Australia"
+    followers: 12461
+    engagement: 79
+    commentsToLikes: 0.098307
+    id: ck13chikg0dfi0i19k7otgu8m
+    verified: false
+    hashtags: "#skincare, #fashion, #hair, #blonde"
   - username: "curvyamelia"
     fullname: >-
       Amelia Stubbs
@@ -67,18 +79,30 @@ profiles:
     id: ck6ua2t5a15km0j71pd1u5tzx
     verified: false
     hashtags: "#repost, #classicalballet, #ballet, #ballerina"
-  - username: "alecgolinger"
+  - username: "hope.ellennn"
     fullname: >-
-      Alec Golinger
+      Hope Mancer
     bio: >-
-      Made in Australia 🇦🇺 @eaton_management @cesdtalent @chadwickmodels
+      🤍 Model @giant.management 👼🏼TikTok: hope.ellennn ✉️ hope.ellen12@gmail.com
     location: "Australia"
-    followers: 164022
-    engagement: 260
-    commentsToLikes: 0.121087
-    id: ck1343mkpuja30i19med59o5a
+    followers: 40926
+    engagement: 179
+    commentsToLikes: 0.026877
+    id: ck5q40aobn67p0i11sosqe3bq
     verified: false
-    hashtags: "#comedy, #70sfashion, #instagood, #cover"
+    hashtags: "#girlsnight, #outfitofthenight, #hairandmakeup, #gifted"
+  - username: "mackenzieduffy_"
+    fullname: >-
+      MACKENZIE JADE DUFFY
+    bio: >-
+      DANCER. MODEL. •Samoan/Australian• @energetiks model @tiktok kenziejade_
+    location: "Australia"
+    followers: 17423
+    engagement: 251
+    commentsToLikes: 0.102668
+    id: ck5hdrdn3ozai0i112di2rbza
+    verified: false
+    hashtags: "#potd, #photography, #islander, #fashion"
   - username: "rprtalent"
     fullname: >-
       RPR Talent Management
@@ -91,40 +115,16 @@ profiles:
     id: ck13cxxke2pjp0i19t3i1xda2
     verified: false
     hashtags: "#extras, #vidcon, #actor, #openday"
-  - username: "gustavoviglio"
+  - username: "therealfrequentflyer"
     fullname: >-
-      Gustavo Viglio
+      Guy Dupuy 6"3 🇫🇷🇸🇳🇺🇸🇦🇺
     bio: >-
-      Made in 🇮🇹 Pro Dancer on @dancingau 📧gustavoviglio@gmail.com
+      Athlete 🦄| ceo of no.rest.for.greatness.llc @pacificdreamscollective @pro_ball_today_ac 📍MIA | melb🦘| Paris93
     location: "Australia"
-    followers: 31257
-    engagement: 166
-    commentsToLikes: 0.042502
-    id: ck5hmh7flly1p0i11p1bvdhqe
-    verified: false
-    hashtags: "#likeforlikes, #fashionblogger, #fashion, #melbourne"
-  - username: "frankieandvelvetlove"
-    fullname: >-
-      Frankie ♡ Velvet Love
-    bio: >-
-      💙 Frankie: 28th November 2016 💖 Velvet Love: 5th February 2020 📍 Melbourne, Australia 🇦🇺 😍 Models, Influencer’s & Food Bloggers
-    location: "Australia"
-    followers: 41221
-    engagement: 245
-    commentsToLikes: 0.128208
-    id: ck139jdt3llj50i19gm5w3muq
-    verified: false
-    hashtags: "#babygirl, #puppy, #instafrenchie, #frenchie"
-  - username: "natkalinowski"
-    fullname: >-
-      Natalia Kalinowski
-    bio: >-
-      Model•Lifestyle & Fashion Blogger 📍Melbourne ✈️ Luxury Traveler @themoderndaylifestyle 📩 natalia@nataliakalinowski.com 📸 @silhouettemanagement
-    location: "Australia"
-    followers: 116385
-    engagement: 277
-    commentsToLikes: 0.008310
-    id: ck6trxfdr1mj30j71xddclqcz
-    verified: false
-    hashtags: "#shein, #ad, #lanistar, #sheinx"
+    followers: 160830
+    engagement: 57
+    commentsToLikes: 0.004334
+    id: ck5zr7grhw1ys0i14036bac4e
+    verified: true
+    hashtags: "#nbl1, #bigv, #nike, #australia"
 ---

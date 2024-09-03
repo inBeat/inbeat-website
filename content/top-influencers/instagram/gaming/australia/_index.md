@@ -1,36 +1,60 @@
 ---
-title: Top 10 Gaming Instagram Influencers In Australia In 2023
+title: Top 10 Gaming Instagram Influencers In Australia In 2024
 description: >-
-  Find top gaming Instagram influencers in Australia in 2023. Most popular hashtags: #gamer #playstation #gaming #ps5.
+  Find top gaming Instagram influencers in Australia in 2024. Most popular hashtags: #gamer #ps5 #gaming #gamingcommunity.
 platform: Instagram
-hits: 49
-text_top: See the top-rated Instagram accounts on inBeat.
-text_bottom: Our database aggregates 49 Instagram influencers like this in Australia for you to contact.
+hits: 68
+text_top: Identify the best Instagram accounts on inBeat.
+text_bottom: Our platform has 68 Instagram influencers like this in Australia for you to connect with.
 profiles:
-  - username: "itsvalkerie"
+  - username: "redbullau"
     fullname: >-
-      Valkerie ✨
+      Red Bull Australia
     bio: >-
-      Melbourne, Aus | 🌱🐱🏋🏻‍♀️ PLAYSTATION • PC • SWITCH | Trophy Hunter @empress.gaming ⚔️
+      Giving Aussies wiiings 🇦🇺 Bike, Gaming, Snow, Surf and Motorsports
     location: "Australia"
-    followers: 20015
-    engagement: 464
-    commentsToLikes: 0.074876
-    id: ckf5wbu9trjt90j23fwzf5nys
-    verified: false
-    hashtags: "#gamingnation, #ghostoftsushima, #ps4exclusive, #playstationexclusive"
-  - username: "angus_ol"
-    fullname: >-
-      ANGUS  O'LOUGHLIN
-    bio: >-
-      RADIO🎙 @hitweekendbreakfast PODCAST🎤 @ListenABLE_Podcast GAMING 🎮 @angus_ol_gaming MGMT💰 Angus.OLoughlin@sca.com.au 👇🏼 PODCAST LINK 👇🏼
-    location: "Australia"
-    followers: 34593
-    engagement: 520
-    commentsToLikes: 0.021507
-    id: ck14i8lvne6pu0i19ejloz4am
+    followers: 215359
+    engagement: 912
+    commentsToLikes: 0.012167
+    id: ck5zu5r3z1qdr0i1406df8gwd
     verified: true
-    hashtags: "#goldens, #puppiesofinstagram, #love, #goldenretrieverlove"
+    hashtags: "#dance, #redbull, #surfing, #bike"
+  - username: "syaebby"
+    fullname: >-
+      𝐬𝐡𝐚𝐧
+    bio: >-
+      💞 gaming. tech. sanrio ☁️ dm/ email for collabs links / socials⇣
+    location: "Australia"
+    followers: 51244
+    engagement: 262
+    commentsToLikes: 0.033753
+    id: ckap104a1sjyu0i78ztw8g6qb
+    verified: false
+    hashtags: "#videogames, #kawaii, #sanriocore, #genshinimpact"
+  - username: "pekaberry"
+    fullname: >-
+      b e r r y ₊˚ෆ
+    bio: >-
+      ᰔᩚ welcome to my digital diary 🔪💕 ☁️ desk• figures • tech • keebs • gaming ୨୧ ⇣ you can find all products on my storefront
+    location: "Australia"
+    followers: 29803
+    engagement: 162
+    commentsToLikes: 0.007507
+    id: ck8t9q4b4oxmw0j787dqhdvdr
+    verified: false
+    hashtags: "#minimalsetup, #deskinspo, #pinterestaesthetic, #deskaccessories"
+  - username: "onyedkwe"
+    fullname: >-
+      Onyedika Agbarakwe
+    bio: >-
+      Vibe Connoisseur | Creative Fashion • Relatable • Anime • Gaming 📍Sydney, AUS 📩onye@maxconnectors.com.au ↯ Tiktok: @onyedkwe (300k+)
+    location: "Australia"
+    followers: 62916
+    engagement: 85
+    commentsToLikes: 0.035656
+    id: cloxoi14d0eya0j08a5csgs3u
+    verified: false
+    hashtags: "#ad, #reelsinstagram, #reels, #reelsexplore"
   - username: "2busygamers"
     fullname: >-
       2 BusyGamers, Neil  🇦🇺
@@ -91,40 +115,16 @@ profiles:
     id: ck8t1wq21xcbn0j78hrssq3yo
     verified: false
     hashtags: "#iqcosplay, #cosplayer, #siegecosplay, #cosplay"
-  - username: "perth_retro_gaming"
+  - username: "feitz.gaming"
     fullname: >-
-      Perth Retro Gaming
+      Feitz
     bio: >-
-      Handheld collector & modifier Chris@perthretrogaming.com Contact us for current system availability 👉🏻#perthretrogaming Tap here for links👇🏻
+      Official Instagram of Feitz 850K+ on YouTube 💙 Business: Feitz@amg.gg
     location: "Australia"
-    followers: 17049
-    engagement: 394
-    commentsToLikes: 0.065329
-    id: ck138uu6vi4yj0i19wpw2rixn
+    followers: 131476
+    engagement: 716
+    commentsToLikes: 0.013029
+    id: ck0twf51kf3if0i1962f0e2c4
     verified: false
-    hashtags: "#handheldcollector, #retrogamer, #gameboycolor, #retrogamers"
-  - username: "_atrinity"
-    fullname: >-
-      Nikki W
-    bio: >-
-      ✨ Perth 🇦🇺 ✨ She/Her || Bi Pride 💖💜💙 ✨ @logitechg Affiliate ✨ @simsanz Streamer ✨ Business: nikki.w06@outlook.com It's so nice to meet you 🥺💕
-    location: "Australia"
-    followers: 7517
-    engagement: 363
-    commentsToLikes: 0.071755
-    id: ck5pvb07ogzzs0i11esewpx3t
-    verified: false
-    hashtags: "#twitchgirls, #gamergirls, #gamingcommunity, #keepplaying"
-  - username: "misscandiceelizabeth"
-    fullname: >-
-      Candice Elizabeth
-    bio: >-
-      🇦🇺 Western Australia 📸 Glamour model/actress/presenter 👩‍🦰 @misscandiceelizabeth_ with clothes on 💲DM - shoot bookings/ brand ambassador 👇 Links
-    location: "Australia"
-    followers: 231460
-    engagement: 126
-    commentsToLikes: 0.077288
-    id: ck0vyubmo5t8d0i19te8kdol7
-    verified: false
-    hashtags: "#princesspeachcosplay, #cosplays, #supermario, #cosplaygirl"
+    hashtags: "#pubgmvip, #teampubgm, #bgmi, #pubgmobile"
 ---

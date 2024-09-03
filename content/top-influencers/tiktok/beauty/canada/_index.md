@@ -1,11 +1,11 @@
 ---
-title: Top 10 Beauty TikTok Influencers In Canada In 2023
+title: Top 10 Beauty TikTok Influencers In Canada In 2024
 description: >-
-  Find top beauty TikTok influencers in Canada in 2023. Most popular hashtags: #stitch #fyp #duet #greenscreen.
+  Find top beauty TikTok influencers in Canada in 2024. Most popular hashtags: #fyp #foryou #greenscreen #stitch.
 platform: TikTok
-hits: 1075
-text_top: See the best TikTok influencers on inBeat.
-text_bottom: Our database aggregates 1075 TikTok influencers like this in Canada for you to pitch.
+hits: 1030
+text_top: Identify the most popular TikTok influencers on inBeat.
+text_bottom: Our platform has 1030 TikTok influencers like this in Canada for you to pitch.
 profiles:
   - username: "modestfashionandbeauty"
     fullname: >-
@@ -23,14 +23,14 @@ profiles:
     fullname: >-
       Elusive.prince
     bio: >-
-      MTL(514) beauty in the struggle live at 10:00 PM
+      MTL(514) HAPPY MOTHERS DAY 👸 beauty in the struggle live 10:00 pm
     location: "Canada"
-    followers: 45500
-    engagement: 1499
-    commentsToLikes: 0.157910
+    followers: 50500
+    engagement: 1177
+    commentsToLikes: 0.064725
     id: ckai3104vi24e0i786jtr7ze3
     verified: false
-    hashtags: "#greenscreen, #friends, #momandson, #oven"
+    hashtags: "#holdon, #class, #momandson, #rollercoaster"
   - username: "fabulashqueen3"
     fullname: >-
       🇨🇦Fabulash👸Queen🇵🇭
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.111219
     id: ckc3eylbx0u2u0j23ftzagj18
     verified: false
-    hashtags: "#smallbusinesstips, #smallbizowner, #fabulashqueencosmetics, #bossbabe"
+    hashtags: "#lippiesbiz, #fqc, #smallbizowner, #sheearnedit"
   - username: "j9homiemakeup"
     fullname: >-
       Celebrity Makeup & Hair Artist
@@ -54,19 +54,7 @@ profiles:
     commentsToLikes: 0.042520
     id: ckb9053ckfx1u0j23bnaax1ni
     verified: false
-    hashtags: "#skincareroutine, #canadianmakeupartist, #sephorasale2021, #promakeupartist"
-  - username: "kyleloowis"
-    fullname: >-
-      KyleLoo
-    bio: >-
-      P.O. Box 1012 23 Spring St E, Tweed, ON K0K 3J0 Stud/Beauty/Legend
-    location: "Canada"
-    followers: 30700
-    engagement: 1403
-    commentsToLikes: 0.046368
-    id: ckd0biaepcdja0j234i1jkwzp
-    verified: false
-    hashtags: "#fyp, #stitch, #meanolmazda, #meanmazda"
+    hashtags: "#skincareroutine, #sephorasale2021, #canadianmakeupartist, #promakeupartist"
   - username: "celinaspookyboo"
     fullname: >-
       Celinaspookyboo
@@ -102,7 +90,7 @@ profiles:
     commentsToLikes: 0.060402
     id: ckb9p6sm8k2b70j23fsk3sp7m
     verified: false
-    hashtags: "#4u, #halloween, #beinspired, #foryou"
+    hashtags: "#transitions, #fyp, #halloween, #makeuptransformation"
   - username: "feliciamaariemakeup"
     fullname: >-
       felicia marie
@@ -114,7 +102,7 @@ profiles:
     commentsToLikes: 0.042160
     id: ckal6dbh0adao0i786uux26q0
     verified: false
-    hashtags: "#makeup101, #makeuptips, #makeupforbeginners, #makeuphacks"
+    hashtags: "#makeupforbeginners, #makeup101, #makeuplooks, #makeup"
   - username: "hockey..tiktoks"
     fullname: >-
       Hockey TikToks
@@ -127,4 +115,16 @@ profiles:
     id: ckb9hdb6g6y7m0j23s2e2z5xk
     verified: false
     hashtags: "#foryou, #4u, #funny, #nhl"
+  - username: "chinesenaturalhealing"
+    fullname: >-
+      Aunty Anly ☯️
+    bio: >-
+      Chinese Natural Health, beauty & Food Aunty Anly Works here👇 Richmond, BC 🇨🇦
+    location: "Canada"
+    followers: 241000
+    engagement: 722
+    commentsToLikes: 0.038763
+    id: ckajk9wtzp9lq0i78zm2o1vvq
+    verified: false
+    hashtags: "#food, #haha, #heal, #pressurepoint"
 ---

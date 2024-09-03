@@ -1,12 +1,24 @@
 ---
-title: Top 10 Health Instagram Influencers In Philadelphia In 2023
+title: Top 10 Health Instagram Influencers In Philadelphia In 2024
 description: >-
-  Find top health Instagram influencers in Philadelphia in 2023. Most popular hashtags: #philadelphia #fitness #love #fitnessmotivation.
+  Find top health Instagram influencers in Philadelphia in 2024. Most popular hashtags: #fitness #philadelphia #philly #health.
 platform: Instagram
 hits: 37
-text_top: See the top-rated Instagram profiles on inBeat.
-text_bottom: Our search engine has 37 Instagram influencers like this in Philadelphia, United States for you to work with.
+text_top: See the best Instagram influencers on inBeat.
+text_bottom: Our search engine has 37 Instagram influencers like this in Philadelphia, United States for you to pitch.
 profiles:
+  - username: "gailkimitsme"
+    fullname: >-
+      Gail Kim-Irvine
+    bio: >-
+      Retired pro wrestler/wrestling producer Business inquiries only: gailkimitsme@gmail.com Check out my Cameo profile: https://v.cameo.com/uYiB0ZeyJ6
+    location: "United States"
+    followers: 228899
+    engagement: 208
+    commentsToLikes: 0.017000
+    id: ckap8t0atpr6d0i78lycqkj8g
+    verified: true
+    hashtags: "#tna, #impactonaxstv, #womenswrestling, #knockouts"
   - username: "lurrburgz"
     fullname: >-
       J. Tyler Pollino
@@ -19,30 +31,42 @@ profiles:
     id: ck14jwfapmj3i0i19zcn896z7
     verified: false
     hashtags: "#lifestyle, #corgisofinstagram, #training, #dog"
-  - username: "filippamoork"
+  - username: "know_vember"
     fullname: >-
-      Filippa Möörk
+      Joshua Holi
     bio: >-
-      • Pro golfer on @letgolf 🇸🇪
+      Software Product Manager & Motivational Speaker / Philadelphia PA / From Adversity to Success / 🐺💯🫡 Ambassador @kanefootwear
     location: "United States"
-    followers: 5957
-    engagement: 721
-    commentsToLikes: 0.026126
-    id: ck0w4e8cdy5af0i19f2stud4f
+    followers: 25073
+    engagement: 5119
+    commentsToLikes: 0.146049
+    id: cls1so1gi7s080k08ez8tsuf8
     verified: false
-    hashtags: "#golf, #workout, #smile, #sun"
-  - username: "rodneylavoiejr"
+    hashtags: "#travel, #blessed, #explore, #hardwork"
+  - username: "jdavismoranti"
     fullname: >-
-      Rodney Lavoie Jr. “𝓢𝓾𝓻𝓿𝓲𝓿𝓸𝓻”
+      Jacqui Moranti -Content Creator
     bio: >-
-      🎙 Motivational Speaker 🧠 Mental Health Awareness 🫂 Life Coach 📚501(c)3:@TheWarriorsofPurpose 🎧 Podcast:@SilenceKillsMovement 📲 Back-up:@SurvivorRodney
+      -Certified Fitness Professional💪 -Fashion in color 🎨 -Se habla español 🇻🇪🇩🇴 -Philadelphia, PA 📍
     location: "United States"
-    followers: 393099
-    engagement: 659
-    commentsToLikes: 0.040046
-    id: ck6u2a8u3qmzb0j71yukdua4n
-    verified: true
-    hashtags: "#motivation, #miami, #depression, #selflove"
+    followers: 53635
+    engagement: 69
+    commentsToLikes: 0.055107
+    id: ck9hbm2yuhfxa0j78v8u8k8ez
+    verified: false
+    hashtags: "#phlbloggers, #afrolatina, #phillystyle, #skincare"
+  - username: "broadfit"
+    fullname: >-
+      Brandon Adam
+    bio: >-
+      📍PHL Fitness | Liftstyle | Travel | Motivation 🧠 Mental Health Advocate 📷 @broadfit_creative 🗣️ @mentalhealthovereverythingg 🍕 @bussinfoodchannel
+    location: "United States"
+    followers: 108745
+    engagement: 9
+    commentsToLikes: 0.120410
+    id: ck55ky91g0cvp0i11yxnmhrgy
+    verified: false
+    hashtags: "#bussinfoodchannel, #donuts, #mentalhealthawareness, #motivation"
   - username: "soudersam"
     fullname: >-
       Sam Souder
@@ -54,7 +78,7 @@ profiles:
     commentsToLikes: 0.110404
     id: ck5q0fbzx5q340i11r6ds0jhr
     verified: false
-    hashtags: "#beachgirl, #instagf, #casualoutfits, #paintingreels"
+    hashtags: "#pinterestinspired, #poses, #phototips, #paintingreels"
   - username: "kelly_brennan_412"
     fullname: >-
       Kelly Brennan
@@ -66,7 +90,7 @@ profiles:
     commentsToLikes: 0.068606
     id: ck139snvxmxbc0i19jum1xj4s
     verified: false
-    hashtags: "#jdm, #pittsburgh, #autoimmunedisease, #curejm"
+    hashtags: "#jdmmonday, #petitefashion, #autoimmunedisease, #raredisease"
   - username: "philiprwilliams"
     fullname: >-
       Phil Williams
@@ -103,28 +127,4 @@ profiles:
     id: ckaox0crgb7780i78740w454r
     verified: false
     hashtags: "#wonton, #veganuary, #maddiecancookpancakes"
-  - username: "phillyfreeway"
-    fullname: >-
-      Freeway
-    bio: >-
-      Owner & CEO Freedom Thinkers Academy Culture, Music, Health, & Education
-    location: "United States"
-    followers: 451398
-    engagement: 247
-    commentsToLikes: 0.056035
-    id: ck0ubx6vgfgle0i1916e7fkz3
-    verified: true
-    hashtags: "#philabearddiamondcompany, #philadelphia, #bestbeardcream, #fuckcancer"
-  - username: "rescuespa"
-    fullname: >-
-      Rescue Spa
-    bio: >-
-      • NYC’s BEST FACIAL - New York Magazine Allure Refinery29 Into The Gloss INSIDER • #BiologiqueRecherche Ambassador • #RescueSpa #NYC & #PHILADELPHIA
-    location: "United States"
-    followers: 55883
-    engagement: 41
-    commentsToLikes: 0.046897
-    id: ck14hp8wjbfxs0i19wqpk8rtu
-    verified: false
-    hashtags: "#rescuespa, #philadelphia, #rescuespanyc, #iloveskininc"
 ---

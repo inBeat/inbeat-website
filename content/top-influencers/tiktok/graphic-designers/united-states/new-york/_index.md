@@ -1,11 +1,11 @@
 ---
-title: Top 10 Graphic-Designers TikTok Influencers In New York In 2023
+title: Top 10 Graphic-Designers TikTok Influencers In New York In 2024
 description: >-
-  Find top graphic-designers TikTok influencers in New York in 2023. Most popular hashtags: #fyp #graphicdesign #foryou #newyork.
+  Find top graphic-designers TikTok influencers in New York in 2024. Most popular hashtags: #fyp #graphicdesign #foryou #foryoupage.
 platform: TikTok
-hits: 20
-text_top: Analyze the best TikTok profiles on inBeat.
-text_bottom: Our platform has 20 TikTok influencers like this in New York, United States for you to work with.
+hits: 21
+text_top: Analyze the top-rated TikTok influencers on inBeat.
+text_bottom: Our platform holds 21 TikTok influencers like this in New York, United States for you to pitch.
 profiles:
   - username: "esm.creative"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.028100
     id: ckcugg4lbf5by0j23cuvrb9ad
     verified: false
-    hashtags: "#graphicdesign, #branddesigner, #nyc, #brandingsuite"
+    hashtags: "#procreate, #booktok, #branddesigner, #smallbusinesscheck"
   - username: "thepotioncabinet"
     fullname: >-
       The Potion Cabinet
@@ -90,7 +90,7 @@ profiles:
     commentsToLikes: 0.021114
     id: ckd0qgbvbi57w0j2381nzct8t
     verified: false
-    hashtags: "#photohack, #graphicdesign, #bts, #nyc"
+    hashtags: "#photographer, #bts, #nyc, #editingtutorial"
   - username: "yuhcarrot"
     fullname: >-
       29
@@ -103,6 +103,18 @@ profiles:
     id: ckcekriylua1z0j23x4w53qrl
     verified: false
     hashtags: "#rap, #fyp, #boyfriend, #cat"
+  - username: "el__chulito"
+    fullname: >-
+      J  A  V  I
+    bio: >-
+      Pro Tile Setters LLC CEO FOUNDER 🗽 New York 🗽
+    location: "United States"
+    followers: 36300
+    engagement: 702
+    commentsToLikes: 0.042636
+    id: ckd0bght0cby80j23btwnimg4
+    verified: false
+    hashtags: "#foryourpage, #wrestlemania, #envisiongreatness, #learnontiktok"
   - username: "nogood.io"
     fullname: >-
       Top Growth Marketing Agency
@@ -115,16 +127,4 @@ profiles:
     id: ckacc3jnjhxbb0i78j19xtdgh
     verified: false
     hashtags: "#2021, #marketing, #duet, #trends"
-  - username: "marlee_renee"
-    fullname: >-
-      Marlee_Renee
-    bio: >-
-      I paint cards 👩🏻‍🎨 #ArtistsOfTiktok
-    location: "United States"
-    followers: 141300
-    engagement: 2058
-    commentsToLikes: 0.009461
-    id: ck92y286f16ux0j78f8ffn2rm
-    verified: false
-    hashtags: "#fypage, #popshop, #artist, #artistsoftiktok"
 ---

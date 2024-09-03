@@ -1,130 +1,130 @@
 ---
-title: Top 10 Hair Dressers Instagram Influencers In Australia in 2023
+title: Top 10 Hair Dressers Instagram Influencers In Australia In 2024
 description: >-
-  Find top hair dressers Instagram influencers in Australia in 2023. Most popular hashtags: #sydney #australia #beauty #hairdressers.
+  Find top hair dressers Instagram influencers in Australia in 2024. Most popular hashtags: #fashion #hair #sydney #blonde.
 platform: Instagram
-hits: 13
-text_top: Analyze the best Instagram influencers on inBeat.
-text_bottom: Our search engine aggregates 13 Instagram influencers like this in Australia for you to connect with.
+hits: 10
+text_top: Identify the top-rated Instagram accounts on inBeat.
+text_bottom: Our search engine holds 10 Instagram influencers like this in Australia for you to connect with.
 profiles:
-  - username: "therainbowhairartist"
+  - username: "misspiggyexplores"
     fullname: >-
-      The Rainbow Hair Artist
+      Vanara | Sydney, Aus 📍
     bio: >-
-      It’s me😁Sheree independent artist Perth WA surrounds 🇦🇺 ONLINE EDUCATION available 😘🦄unicorn tribe YouTube 🎥 rainbow, fun & crazy🌈😝
+      [Food, Travel & Lifestyle] Google Reviews 58M+ iPhone 15 PRO User 📸 🎥 For any Collabs/Social Media + PR enquires, DM 👩‍💻 Location: Sydney | Australia
     location: "Australia"
-    followers: 39461
-    engagement: 689
-    commentsToLikes: 0.019210
-    id: ck0w3kuqmtx3i0i19gmb838g5
+    followers: 11030
+    engagement: 96
+    commentsToLikes: 0.279798
+    id: cloxoh3so01nz0j08qzdy4r8w
     verified: false
-    hashtags: "#behindthechair, #hotonbeauty, #brighthair, #aquahair"
-  - username: "kleonikihair"
+    hashtags: "#sydneylunch, #eatsydney, #friedchicken, #mustvisitplace"
+  - username: "_edwardsandco"
     fullname: >-
-      KLEONIKI Hair
+      EdwardsAndCo Hair Salons
     bio: >-
-      • AWARD WINNING • WELLA MASTER COLOR EXPERT • NYFW || MBFW 2019 • COLOUR/BALAYAGE SPECIALISTS • WELLA SALON • GHD Style squad 2B Mills st Hampton
+      THE HOME OF FUTURE PROOF HAIR COLOUR ™ • Sydney • Melbourne • Brisbane • Gold Coast • Byron Bay • Noosa Founded by @jaye_edwards👑
     location: "Australia"
-    followers: 7282
-    engagement: 90
-    commentsToLikes: 0.227608
-    id: ck0txixckjc0r0i19vdquq7kg
+    followers: 146652
+    engagement: 15
+    commentsToLikes: 0.029177
+    id: ck0ttbxct21sp0i19bq0gm2ko
     verified: false
-    hashtags: "#melbournehairsalon, #melbournehairstylist, #australianhairdresser, #hairtreatment"
-  - username: "thatssojen"
+    hashtags: "#blonde, #summerhair, #hair, #hairgoals"
+  - username: "sambonnor"
     fullname: >-
-      Jenni DeSouza
+      S A M  A I T K E N 🧜🏼‍♀️
     bio: >-
-      I dress hair by day and Fashion/lifestyle blog by night. Hairdresser humor. Sometimes I also rap. Travel 📍Melbourne, Australia 💌 jenni@thatssojen.com
+      Living that sunny life with my babes ☀️ Follow our renovation journey @our.sunny.haven
     location: "Australia"
-    followers: 34971
-    engagement: 567
-    commentsToLikes: 0.048266
-    id: ck15thipbi3qx0i19pbirr2w8
+    followers: 30367
+    engagement: 106
+    commentsToLikes: 0.125242
+    id: ck55q3eplbzvf0i11na09rols
     verified: false
-    hashtags: "#hairdresserhumor, #bluehair, #collab, #thatssojen"
-  - username: "joeyscandizzo"
+    hashtags: "#raisinggirls, #myfamily, #hiitstyletraining, #morningrun"
+  - username: "makayla.paine"
     fullname: >-
-      J O E Y  S C A N D I Z Z O
+      𝑴𝑨𝑲𝑨𝒀𝑳𝑨 𝑷𝑨𝑰𝑵𝑬 🦋
     bio: >-
-      FAMILY❤️👫👦🏻👦🏼👶| 4✖️🇦🇺HAIRDRESSER OF THE YEAR |ELEVEN AUSTRALIA CREATIVE DIR | JOEY SCANDIZZO/ UVA - SALONS |KINGSDOMAIN BARBERS | HAIR.Do MYER |DYSON
+      Makayla Paine 🫶🏽 Melbourne📍24 Personal Trainer 🏃🏼‍♀️Nutrition coach 🍎 Club Manager @jettscranbournewest
     location: "Australia"
-    followers: 105422
-    engagement: 342
-    commentsToLikes: 0.032312
-    id: ck0vz2pkl6zqo0i19irl6q9pn
-    verified: true
-    hashtags: "#joeyscandizzo, #elevenaustraliacolour, #yummymummies, #janescandizzo"
-  - username: "natalieannehair"
-    fullname: >-
-      N A T A L I E A N N E  H A I R
-    bio: >-
-      💇🏽‍♀️ Natalie Anne Salon & @natalieannehaircare 🏆 MultiAward Winning Global Hair & Digital Influencer 🎓Educator 🤝natalieanne@maxconnectors.com.au
-    location: "Australia"
-    followers: 524487
-    engagement: 64
-    commentsToLikes: 0.031192
-    id: ck0tvila9bikr0i19uv346qxs
+    followers: 31098
+    engagement: 15
+    commentsToLikes: -13.830526
+    id: clb2x8n682v4d0i23u86tcyx7
     verified: false
-    hashtags: "#b3treatment, #originalqueenie, #brazilianbondbuilder, #ghd"
-  - username: "sydneyfashionlife"
+    hashtags: "#healthyhair, #blondehair, #hairtransformations, #creamyblonde"
+  - username: "makeupbyelana__"
     fullname: >-
-      Ayushi🌸🌸Sydney🌸🌸
+      PRO MAKEUP ARTIST
     bio: >-
-      Ms Queen of India Fin 👑 Mrs India Aus Fin Published #vogueaustralia 📨info@sydneyfashionlife.com TikTok @sydneyfashionlife PC @bishphotography
+      Glamour•Bridal•Formal•1:1 lessons CLOSED MONDAYS AND TUESDAYS All bookings through website NO DMS for bookings 📍 17 Pitt Street Mortdale NSW 2223
     location: "Australia"
-    followers: 101672
-    engagement: 155
-    commentsToLikes: 0.054906
-    id: ckap72vnuieh50i78j3qdeb93
+    followers: 10919
+    engagement: 239
+    commentsToLikes: 0.120971
+    id: ckaoszz9strfl0i789o5ot9i5
     verified: false
-    hashtags: "#outfitoftheday, #wiw, #fashionpost, #skincare"
-  - username: "suzyroess"
+    hashtags: "#makeupartist, #underratedmuas, #sydneymua, #glam"
+  - username: "kymberleestreet"
     fullname: >-
-      Suzy
+      Kymberlee Street 🇦🇺🇵🇭| A♡
     bio: >-
-      ☀️ finding beauty in the everyday ☀️ yoga girl ☀️ nature lover ☀️ IP lawyer Please seek permission before reposting mostly beaches, wild birds, yoga
+      📍Sydney, Australia ✨ Explore~Dream~Discover ❤️ Founder @defenceskincare & @modelstreetau 🌟 @winkmodels
     location: "Australia"
-    followers: 17501
-    engagement: 1703
-    commentsToLikes: 0.028750
-    id: ck8t6uy2kes370j78mni7dahu
+    followers: 8631
+    engagement: 311
+    commentsToLikes: 0.167925
+    id: ck6uc5o3ldo1l0j71qlkhqrmo
     verified: false
-    hashtags: "#birdsinbackyards, #abcmyphoto, #abcmyvideo, #sulphurcrestedcockatoo"
-  - username: "ginavuletich"
+    hashtags: "#tan, #style, #bikinilife, #bikini"
+  - username: "_skylajay"
     fullname: >-
-      Gina Vuletich
+      Skyla
     bio: >-
-      Sydney ⚓️ enquiries@marketvogue.com
+      aus 📍 collabs: dm or email 💌 skylacarpenter@hotmail.com
     location: "Australia"
-    followers: 58052
-    engagement: 167
-    commentsToLikes: 0.141058
-    id: ckaoszw5ktqzc0i78juxan265
+    followers: 301222
+    engagement: 140
+    commentsToLikes: 0.026277
+    id: ck0vw7tp9shp00i19lrm6q82z
     verified: false
-    hashtags: "#yacht, #cronullahair, #mua, #sydney"
-  - username: "monique_craft_"
+    hashtags: "#skylajay, #blonde, #reddress, #explore"
+  - username: "onella_am"
     fullname: >-
-      AKA Monique BodyCraft
+      ONELLA MURALIDHARAN
     bio: >-
-      📍𝚂𝚈𝙳 Founding @barrysaustralia instructor @c3hme @mymusclechef ‘BODYCRAFT20’ 𝒴♡𝓊 𝒶𝓇𝑒 𝓁♡𝓋𝑒𝒹 ✞
+      ✨ Vitiligo Model 💖 Creator📍 Naarm, Aus MGMT: @bellamanagement @bellacreators 📧 jessica@bellamanagement.com.au 🌈 Interior Designer @studio.onella
     location: "Australia"
-    followers: 25215
-    engagement: 157
-    commentsToLikes: 0.125518
-    id: ck5c390dsyttq0i1111pgiigf
+    followers: 41388
+    engagement: 106
+    commentsToLikes: 0.032275
+    id: clid5n8lozeu50j08bqojpenu
     verified: false
-    hashtags: "#spon, #mymusclechef, #everybodyeverygoal, #barrys"
-  - username: "missmolliegilbert"
+    hashtags: "#ad, #curvefashion, #fashionmodel, #summervibes"
+  - username: "nataliaancora"
     fullname: >-
-      Mol 🤍
+      Natalia - ناتاليا 🇦🇺🇵🇱|🇦🇪
     bio: >-
-      australia 🪐 qld, @quemodels. mel, @thetalentburo. modelling acc @bymissmollie
+      🤓 London lawyer turned biz owner/ model Founder 🧿 @gday_angels
     location: "Australia"
-    followers: 52067
-    engagement: 294
-    commentsToLikes: 0.029085
-    id: ck55pobfmb0e10i11wiqqd8f7
+    followers: 66676
+    engagement: 23
+    commentsToLikes: 0.015490
+    id: ck5himf0ee9u00i11hp6tjznj
     verified: false
-    hashtags: "#goals, #makeuptutorial, #fitness, #blonde"
+    hashtags: "#mswarrior, #dubai, #goldcoastblogger, #gdayangels"
+  - username: "candice3lise__"
+    fullname: >-
+      CANDICE 🌻
+    bio: >-
+      🇦🇺 Brisbane, AU 📩 candiceelis3@gmail.com 👄 @envyaesthetics___ $20off ‘CANDICE’ 💆🏼‍♀️ @skin.enhance 20% off 👁 @lashesby_sb @thebasehairstudio
+    location: "Australia"
+    followers: 14287
+    engagement: 800
+    commentsToLikes: 0.314172
+    id: ckap42c1b5j8i0i78100qqryc
+    verified: false
+    hashtags: "#instagram, #australia, #captions, #brisbane"
 ---

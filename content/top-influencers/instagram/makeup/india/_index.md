@@ -1,130 +1,130 @@
 ---
-title: Top 10 Makeup Instagram Influencers In India In 2023
+title: Top 10 Makeup Instagram Influencers In India In 2024
 description: >-
-  Find top makeup Instagram influencers in India in 2023. Most popular hashtags: #trending #ootd #fashion #skincare.
+  Find top makeup Instagram influencers in India in 2024. Most popular hashtags: #makeup #reels #explore #makeupartist.
 platform: Instagram
-hits: 2027
-text_top: Analyze the best Instagram profiles on inBeat.
-text_bottom: Our search engine has 2027 Instagram influencers like this in India for you to work with.
+hits: 2856
+text_top: Identify the top-rated Instagram profiles on inBeat.
+text_bottom: Our search engine aggregates 2856 Instagram influencers like this in India for you to connect with.
 profiles:
-  - username: "gorakhpurjunction"
+  - username: "rup_randhaawa"
     fullname: >-
-      Gorakhpur Junction
+      Rup Randhawa
     bio: >-
-      #GorakhpurJunction °•Lifestyle|°•Skincare|•°Foodie| °•Makeup 💕 •°GKP| °•Delhi💕 •°Always ready for 🍕🍔 •°Doggo 🐾💕 DM for #collabs & #promotions
+      Model | Fashion | Makeup 🎥 Tareef by Roshan Prince 🎥 HUSAN by Debi Makhsoospuri California, US Email for business inquiries
     location: "India"
-    followers: 20370
-    engagement: 498
-    commentsToLikes: 0.081963
-    id: ckf5trcpiijjs0j235ve3km4i
+    followers: 16230
+    engagement: 672
+    commentsToLikes: 0.116695
+    id: ck0w2erd7nzpe0i19blipxrqe
     verified: false
-    hashtags: "#gorakhpur, #reelsinstagram, #explorepage, #ad"
-  - username: "arshiamoorjani"
+    hashtags: "#vancouvermodel, #punjabireels, #mandytakhar, #reels"
+  - username: "missvogue___"
     fullname: >-
-      Arshia Moorjani
+      Roshni Naik 🌞
     bio: >-
-      • Mom • Indian-American • Beauty & Fashion • Arshia.makeup@gmail.com
+      Juharrrrrrrrrrrr 🙏 Makeup & Vlogs & Dance ✨️ 📍 Bhubaneswar, Odisha Business Page @mua_roshninaik 📧 naikroshni33@gmail.com 📹 Roshni Naik
     location: "India"
-    followers: 418883
-    engagement: 109
-    commentsToLikes: 0.014502
-    id: ck0tv1vcg9kqh0i19gcynomi3
+    followers: 28994
+    engagement: 764
+    commentsToLikes: 0.027352
+    id: ck8t6baubcyjw0j78xp18vh2l
+    verified: false
+    hashtags: "#bhubaneswar, #odisha, #reelkarofeelkaro, #reelsvideo"
+  - username: "yashitank05"
+    fullname: >-
+      Yashi Tank
+    bio: >-
+      Elevating beauty, fashion, and lifestyle🌟 Makeup/Beauty Influencer of the Year 🏆 @exhibitmagazine Biz @monkentertainment Co-Founder @suyash.fashion
+    location: "India"
+    followers: 1264916
+    engagement: 1084
+    commentsToLikes: 0.006509
+    id: ck5qawy9hiok80i11twopr89v
+    verified: false
+    hashtags: "#barbie, #lakm, #ad, #garnierindia"
+  - username: "shonicka_kharb"
+    fullname: >-
+      SHONICKA KHARB | MAKEUP ARTIST
+    bio: >-
+      • Less is more ✨ • Beauty Content Creator • Freelance Makeup Artist @makeupbyshonicka For bookings or collaboration, DM
+    location: "India"
+    followers: 17391
+    engagement: 994
+    commentsToLikes: 0.176035
+    id: ck13cw18m2g0y0i19lhfog8h3
+    verified: false
+    hashtags: "#glam, #lovecolorbar, #makeuptutorial, #cocktailmakeup"
+  - username: "biijall"
+    fullname: >-
+      Bijal Chavda
+    bio: >-
+      Makeup Therapy✨ Queen of Dark Circles,Pigmentation&10 other things MTV Winged Winner 📍Mumbai Client work @makeuptherapies
+    location: "India"
+    followers: 49901
+    engagement: 487
+    commentsToLikes: 0.032353
+    id: ck13bmzr9w7jj0i19g7t1b8if
+    verified: false
+    hashtags: "#ad, #makeuptutorial, #makeupartist, #makeup"
+  - username: "anchalbhardwajj"
+    fullname: >-
+      Anchal Bhardwaj
+    bio: >-
+      Delhi 📍 Lawyer by profession Content Creator | Certified Makeup Artist | Fashion , Beauty and Life Jai Guruji🙏🏻
+    location: "India"
+    followers: 191076
+    engagement: 1809
+    commentsToLikes: 0.006585
+    id: ck8t9k4rtoe710j78sbd9war9
     verified: true
-    hashtags: "#freshpartner, #loverunning, #liketkit, #drunkelephantpartner"
-  - username: "arabellastyling"
+    hashtags: "#nikhitkianch, #dance, #travel, #weddinginspiration"
+  - username: "_akshada.shinde_"
     fullname: >-
-      Astha Sharma
+      Akshada|Fashion|Dance
     bio: >-
-      Fashion| Beauty| Makeup Content Creator | Model 👻: astha_sharma I Post My Fashion Ideas Daily. 📍Chandigarh Dm/Mail for Collabs / Events/PR/Promotions
+      BOI recognised creator ⭐️ Dancer | Actor | Model Fashion& beauty content creator Certified Makeup artist 💄 @makeupbyakshada
     location: "India"
-    followers: 72155
-    engagement: 53
-    commentsToLikes: 0.004639
-    id: ck5zy04q98zi90i14skdwht1m
+    followers: 48224
+    engagement: 456
+    commentsToLikes: 0.044755
+    id: ck8t00jgrqfgj0j78cjj957mw
     verified: false
-    hashtags: "#stylish, #fun, #happy, #chandigarhbloggers"
-  - username: "preeti_rekha.mua"
+    hashtags: "#collaboration, #reels, #kashmir, #samsung"
+  - username: "rynn.v"
     fullname: >-
-      Apra Makeovers & Academy
+      𝕷𝖆𝖑𝖗𝖎𝖓𝖒𝖚𝖆𝖓𝖆 𝖁𝖆𝖗𝖙𝖊 || 🇮🇳🏳️‍🌈
     bio: >-
-      JAI GURUJI🧿 @preety_precious @i_m_rey_kaa #makeupartist North Delhi,INDIA @hair_skin_products_nails @apra_bridal_jewellery MakeupStudio,Salon&Academy
+      @pearlacademy 22’ Work : @makeup.by.rynn.v Titus 3:14 Email for PR 📧 @rynn.v_ 🚽
     location: "India"
-    followers: 405621
-    engagement: 72
-    commentsToLikes: 0.007725
-    id: ckvas7gi35m7o0j237g129wst
+    followers: 37796
+    engagement: 1079
+    commentsToLikes: 0.013122
+    id: ck8t4b9rt65540j78bn7q95vg
     verified: false
-    hashtags: "#clientdiaries, #delhimakeupartist, #explore, #delhimakeovers"
-  - username: "kareena2227_"
+    hashtags: "#trendingreels, #makeuptransformation, #indian, #reelitfeelit"
+  - username: "shaanmu"
     fullname: >-
-      Kareena | Beauty Influencer🖤
+      Shaan Muttathil
     bio: >-
-      📍Jaipur | 20 ⭐Fashion | Makeup | Skincare 📩For Paid Collaborations - DM/Email 💌kareenatekwani123@gmail.com
+      Celebrity MAKEUP & HAIR ARTIEST, positive mindset = #SkyIsNotEvenTheLimit for all of us🧿❤️
     location: "India"
-    followers: 36779
-    engagement: 993
-    commentsToLikes: 0.127590
-    id: ck8t2bcztytym0j7819d32s0f
-    verified: false
-    hashtags: "#influencers, #skincareroutine, #indianblogger, #bloggerlife"
-  - username: "zainabshahwarkhan"
+    followers: 404825
+    engagement: 442
+    commentsToLikes: 0.046341
+    id: ck0vzgvca91dr0i19mhdnpap6
+    verified: true
+    hashtags: "#softglam, #bollywood, #reelit, #portfolio"
+  - username: "kritika0405_"
     fullname: >-
-      Zainab.S
+      Kritika Arora
     bio: >-
-      .Experimenting Fashion 🦋 .I also talk about makeup, skincare and food🦄 .For collaboration;DM or Email! .Lahore, Pakistan🇵🇰 @zainabshahwarkhanpriv
+      ੴ || Jai Guru ji ▪️Professional Makeup artist ▪️for clients follow @kritikaaroramakeup DM/MAIL FOR WORK AND COLLABORATIONS
     location: "India"
-    followers: 36379
-    engagement: 700
-    commentsToLikes: 0.092003
-    id: ckaotqq15x2m80i78lvze51gu
+    followers: 50037
+    engagement: 3682
+    commentsToLikes: 0.040545
+    id: ck9h9ypcpahqj0j78orsbuefi
     verified: false
-    hashtags: "#viralgirl, #easternoutfit, #zainabshahwarkhan, #riseofcovid"
-  - username: "ruchikokcha"
-    fullname: >-
-      Ruchi Kokcha
-    bio: >-
-      For collaborations email: ruchikokcha@gmail.com Interested in Books,Poetry,Art,Sarees,Fashion,Fitness &Makeup Author of Obsessed.You can buy it here:
-    location: "India"
-    followers: 96984
-    engagement: 380
-    commentsToLikes: 0.046674
-    id: ck6uawqnt64930j71tik5genn
-    verified: false
-    hashtags: "#poetsofinstagram, #reelsindia, #reelslovers, #reels"
-  - username: "mysterylahore"
-    fullname: >-
-      FATIMA
-    bio: >-
-      23🎂 Lahore/Riyadh 🇵🇰 🇸🇦 A girl who loves to dressup and show off👗🙈 Makeup freak💄 Foodie🍟🍕 MBA (UMT) For Paid promotions, PR and collab 💌 DM
-    location: "India"
-    followers: 29622
-    engagement: 631
-    commentsToLikes: 0.111310
-    id: ck14iidvzfk0c0i19p1djn16w
-    verified: false
-    hashtags: "#fashionpost, #eidoutfit, #style, #sapphirepakistan"
-  - username: "arnakshi_kashyap"
-    fullname: >-
-      Arnakshi
-    bio: >-
-      ✨Serious addiction to makeup, coffee, murder mysteries, conspiracies and Aliens💋☕️👽👾 ✨ A little bit of everything here💕 YT-Arnakshi Patgiri
-    location: "India"
-    followers: 7732
-    engagement: 612
-    commentsToLikes: 0.068917
-    id: ck5zvc3193yaj0i14km6k0250
-    verified: false
-    hashtags: "#aestheticedit, #90sfashion, #glowyskin, #90sstyle"
-  - username: "sneha.gopalan.makeup"
-    fullname: >-
-      Sneha Gopalan l Makeup Artist
-    bio: >-
-      ➳ Makeup + Skincare ➳ Faculty, Symbiosis Institute of Design ➳ Appointments & Business: DM/Mail 📨
-    location: "India"
-    followers: 29811
-    engagement: 134
-    commentsToLikes: 0.137251
-    id: ck8t3kcvm3jgr0j78o2cpls56
-    verified: false
-    hashtags: "#makeuplooks, #couplegoals, #travellingcouple, #lifeofamakeupartist"
+    hashtags: "#foryou, #ad, #explorepage, #viral"
 ---

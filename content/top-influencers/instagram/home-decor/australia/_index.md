@@ -1,130 +1,130 @@
 ---
-title: Top 10 Home Decor Instagram Influencers In Australia In 2023
+title: Top 10 Home Decor Instagram Influencers In Australia In 2024
 description: >-
-  Find top home decor Instagram influencers in Australia in 2023. Most popular hashtags: #homedecor #home #interiors #interiordecor.
+  Find top home decor Instagram influencers in Australia in 2024. Most popular hashtags: #homedecor #home #interiordesign #interior.
 platform: Instagram
-hits: 77
-text_top: Analyze the best Instagram accounts on inBeat.
-text_bottom: inBeat holds 77 Instagram influencers like this in Australia for you to collaborate.
+hits: 147
+text_top: Analyze the most popular Instagram accounts on inBeat.
+text_bottom: inBeat has 147 Instagram influencers like this in Australia for you to work with.
 profiles:
-  - username: "brontemac"
+  - username: "fruitaquarian"
     fullname: >-
-      Bronte Mac
+      Claudia G
     bio: >-
-      MELB. ✌🏼 Has a personal vendetta against skinny jeans @me if you want to fight about it ✉️ bronte.mc@gmail.com
+      Family of Five Living Off Grid in the Jungle🌳 Holistic Living, Freebirth, Growing our own Food, Home-Schooling, Community 🤎 🌱 for 15+years🐮
     location: "Australia"
-    followers: 65909
-    engagement: 83
-    commentsToLikes: 0.045048
-    id: ck0w6ax727p7n0i1965zd6mkd
+    followers: 42172
+    engagement: 457
+    commentsToLikes: 0.046532
+    id: ck5zlr0h1l88a0i14u7qeuzlg
     verified: false
-    hashtags: "#handmade, #designer, #parisianstyle, #interiordesign"
-  - username: "turesa"
+    hashtags: "#consciousparenting, #rawmotherhood, #veganrecipes, #veganfamily"
+  - username: "life.style.diaries"
     fullname: >-
-      Theresa Mai
+      €$#@• Influencer 🔥
     bio: >-
-      Wife + Mama to Nora + Michael 👼🏻 + Rosie 🤍 📍Melbourne, AU 💌 DM
+      ▪️ I’m ordinary girl who believed in her dreams. Beauty,fashion,lifestyle Email for Collaboration 📧 📍 oman 🇴🇲 & Australia 🇦🇺
     location: "Australia"
-    followers: 5262
-    engagement: 245
-    commentsToLikes: 0.162870
-    id: ckf5nuuz6zrpu0j23smn2hxt1
+    followers: 29206
+    engagement: 344
+    commentsToLikes: 0.073361
+    id: ckapa37bzuj780i78pnu5c3in
     verified: false
-    hashtags: "#babygirl, #vintage, #interiordesign, #maileg"
-  - username: "maddison.bloom"
+    hashtags: "#instagram, #catsoftheworld, #operahouse, #rescuecat"
+  - username: "kthillier"
     fullname: >-
-      M I K A H L  T I E R N E Y
+      Katie Bunton
     bio: >-
-      •Builders Wife •HOUSE + GARDEN = A HOME •Garden OBSESSED •Sharing my contemporary home & garden Mildura AUS🇦🇺
+      Twin Mom | Travel | Lifestyle Management: katie@wearekomodo.com Tiktok 550k+ Links here 👇🏽
     location: "Australia"
-    followers: 24940
-    engagement: 326
-    commentsToLikes: 0.056468
-    id: ck5q1clmsacn60i11fa6tqfsa
+    followers: 327971
+    engagement: 234
+    commentsToLikes: 0.027127
+    id: cl7geiamyshr70i234n4wwb0k
     verified: false
-    hashtags: "#myhomestyle, #buildingdesign, #contemporarydecor, #livingroomdecor"
-  - username: "locationhouseofbeau"
+    hashtags: "#realmoms, #familyholiday, #twinados, #bedroommakeover"
+  - username: "thegardnerstory__"
     fullname: >-
-      Carla
+      Hope Gardner 🌸
     bio: >-
-      Victorian semi | DIY budget conscious decor | Location House & Mum of👦👧 Next project: Boys Room locationhouseofbeau@outlook.com Read more here ⬇️
+      † | Wife | Mumma | Photographer BABY #4 due Jan 2025 ♡ P, Leo + Florence + Camilla UGC & CONTENT CREATOR - Brisbane,Aus ⋆ UGC Portfolio Link ↓
     location: "Australia"
-    followers: 59740
-    engagement: 263
-    commentsToLikes: 0.206907
-    id: ck139vghonbev0i19ormgzhq2
+    followers: 13735
+    engagement: 222
+    commentsToLikes: 0.445179
+    id: cksjxnp3vcslt0j230f3ts53p
     verified: false
-    hashtags: "#instahome, #brickchimney, #urbangarden, #diykitchens"
-  - username: "juthamat.by.jem"
+    hashtags: "#minifashionista, #homedecor, #beachroom, #documentingmotherhood"
+  - username: "vestigare_"
     fullname: >-
-      Jem Juthamat
+      VESTIGARE ARCHITECTURE
     bio: >-
-      Lifestyle | Interior Melbourne Australia Creative Director + Co Founder @jemandbianca.interiors Collab w/ me - contact@vivemanagement.com.au
+      in search for architecture that instigates and provokes. — contact dm or e-mail curated by @luizagiurni
     location: "Australia"
-    followers: 60470
-    engagement: 92
-    commentsToLikes: 0.166739
-    id: ck13bpl4bwk2n0i19gi6bl1gm
+    followers: 194466
+    engagement: 222
+    commentsToLikes: 0.002282
+    id: clpwuj3pllbb50k08b43a686l
     verified: false
-    hashtags: "#melbourneinteriors, #livingroomdecor, #interior4all, #homeinspo"
-  - username: "wilshereinterior"
+    hashtags: "#cabin, #arquitectura, #arquitetura, #photography"
+  - username: "ootdstylistaa"
     fullname: >-
-      ℍannah - 𝕎ilshere 𝕀nterior
+      Nisha Sharma
     bio: >-
-      Tag #inspiredbywilshere to feature! 10% off @thesolargardenco code WILSHERE10 ✨ Interior • Garden • Lifestyle ✨
+      🏠Sydney, Australia #IndianAussie Hearts fashion, beauty, exploring places & all things luxury ✨ 🏷New fashion & styles everyday 📩Dm/email Collabs
     location: "Australia"
-    followers: 39678
-    engagement: 201
-    commentsToLikes: 0.103283
-    id: ckaosdqg3r7ex0i7898od1c7b
+    followers: 25576
+    engagement: 187
+    commentsToLikes: 0.084826
+    id: ckaot5lgvuh960i78yh489cri
     verified: false
-    hashtags: "#outdoorlivingspace, #contemporarygardendesign, #wallpanelling, #battenfence"
-  - username: "sue_elizabeth_artstractstudio"
-    fullname: >-
-      Sue Francis.....Australia
-    bio: >-
-      Australian colour artist. Love colour. Dm me here anytime for commissions ,paper or canvas New account @ozzie_matilda Australian birds on paper .
-    location: "Australia"
-    followers: 36742
-    engagement: 190
-    commentsToLikes: 0.062881
-    id: ckapbhwq7zx8o0i78aqjuorha
-    verified: false
-    hashtags: "#mixedmedia, #creative, #canvas, #colours"
+    hashtags: "#indian, #melbournefashion, #styleinspiration, #fashioninspo"
   - username: "tam_i_tu"
     fullname: >-
       Paula I MyHome
     bio: >-
-      Interiors | Lifestyle 🌿 | Caramel Australian Labradoodle 🐾 • Content creator • Photographer 📷 Collaboration:mojetamitu@gmail.com Blog:
+      Interiors | Lifestyle 🌿 | Caramel Australian Labradoodle 🐾 • Content creator • Photographer 📷 • Home stager 🏠 Collaboration:mojetamitu@gmail.com Blog:
     location: "Australia"
-    followers: 186278
-    engagement: 250
-    commentsToLikes: 0.031851
+    followers: 169497
+    engagement: 166
+    commentsToLikes: 0.015856
     id: ck5hns6c2oau20i117ktsjsdq
     verified: false
-    hashtags: "#wne, #worldkitchen, #homedecorations, #wn"
-  - username: "21oakham"
+    hashtags: "#neutraldecor, #modernhome, #desenio, #lovehome"
+  - username: "soybabie_"
     fullname: >-
-      Becky @21 Oakham
+      Paintings By Kitch
     bio: >-
-      *Affordable home decoration *Dyslexic Mum *home renovation project *Winner of Best Lockdown Garden ✨✨ feature on @dunelmuk @ikeauk @hellomag
+      Artist currently recovering from a brain injury I have legitimate amnesia lol 🧠 Shop my art @artbykitch soybabie@outlook.com | Melbourne
     location: "Australia"
-    followers: 19780
-    engagement: 163
-    commentsToLikes: 0.070919
-    id: ck9hbku26h9vm0j78gfjgx9h7
+    followers: 18426
+    engagement: 147
+    commentsToLikes: 0.121999
+    id: cl48q86hxlgde0i23tyrhhjj5
     verified: false
-    hashtags: "#daytrip, #bedinspo, #bedroomtransformation, #gardenideas"
-  - username: "megcaris.interiors"
+    hashtags: "#interiorstyling, #naarm, #icedcoffee, #melbourneartist"
+  - username: "imfionaho"
     fullname: >-
-      MEG  CARIS  INTERIORS
+      FIONA HO
     bio: >-
-      Interior Stylist | Lifestyle | Motherhood | Content Creator | Perth Wa | For collaboration & media enquiries: bianca@purposecollective.com.au
+      🫧 Home Interiors | Fashion | Lifestyle Vlogs 💭 Choosing Neutrals, Timeless & Quality 🤎 Sydney, Australia ✉️ fiona@abmgmt.co
     location: "Australia"
-    followers: 110522
-    engagement: 43
-    commentsToLikes: 0.084398
-    id: ck0tz6xctpa170i1912ps6vsb
+    followers: 17570
+    engagement: 141
+    commentsToLikes: 0.983826
+    id: clpny42wu3y2j0k085lt5qktm
     verified: false
-    hashtags: "#interior4you, #homedecor, #interiordesign, #homedesign"
+    hashtags: "#christmasdiy, #ad, #homebody, #christmasvibes"
+  - username: "mikahl.tierney"
+    fullname: >-
+      M I K A H L  T I E R N E Y
+    bio: >-
+      *was Maddison.Bloom* 🏡Sunraysia Lifestyle Developments 🏡House, Garden & our Building Developments. 🏡Lover of Interiors, Exteriors & Garden Design🌱
+    location: "Australia"
+    followers: 25334
+    engagement: 136
+    commentsToLikes: 0.026647
+    id: ck5q1clmsacn60i11fa6tqfsa
+    verified: false
+    hashtags: "#hbmystyle, #sedumautumnjoy, #buildersofinsta, #ornamentalpears"
 ---

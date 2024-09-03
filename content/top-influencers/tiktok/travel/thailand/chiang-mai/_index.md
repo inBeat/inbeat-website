@@ -1,11 +1,11 @@
 ---
-title: Top 10 Travel TikTok Influencers In Chiang Mai In 2023
+title: Top 10 Travel TikTok Influencers In Chiang Mai In 2024
 description: >-
-  Find top travel TikTok influencers in Chiang Mai in 2023. Most popular hashtags: #thailand #travel #chiangmai #fyp.
+  Find top travel TikTok influencers in Chiang Mai in 2024. Most popular hashtags: #thailand #travel #chiangmai #fyp.
 platform: TikTok
 hits: 5
-text_top: See the best TikTok influencers on inBeat.
-text_bottom: Our search engine holds 5 TikTok influencers like this in Chiang mai, Thailand for you to contact.
+text_top: Identify the best TikTok profiles on inBeat.
+text_bottom: Our platform has 5 TikTok influencers like this in Chiang mai, Thailand for you to collaborate.
 profiles:
   - username: "seelautravel"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.068001
     id: ck8qncm2du17e0j786xa1vfzn
     verified: false
-    hashtags: "#luxury, #phuket, #tiktokthailand, #foryoupage"
+    hashtags: "#chiangmai, #foryoupage, #thailand, #fyp"
   - username: "30428171873joey"
     fullname: >-
       JoeySeksan
@@ -114,7 +114,7 @@ profiles:
     commentsToLikes: 0.068001
     id: ck8qncm2du17e0j786xa1vfzn
     verified: false
-    hashtags: "#luxury, #phuket, #tiktokthailand, #foryoupage"
+    hashtags: "#chiangmai, #foryoupage, #thailand, #fyp"
   - username: "newzysan"
     fullname: >-
       NewZy San
@@ -126,5 +126,5 @@ profiles:
     commentsToLikes: 0.047130
     id: ck9rlkun5yeso0j78qqablyr4
     verified: false
-    hashtags: "#fitgirl, #dress, #swimwear, #beachwear"
+    hashtags: "#swimwear, #beachwear, #style, #fitgirl"
 ---

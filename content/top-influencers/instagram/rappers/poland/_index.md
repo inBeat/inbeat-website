@@ -1,11 +1,11 @@
 ---
-title: Top 10 Rappers Instagram Influencers In Poland In 2023
+title: Top 10 Rappers Instagram Influencers In Poland In 2024
 description: >-
-  Find top rappers Instagram influencers in Poland in 2023. Most popular hashtags: #poland #love #rapper.
+  Find top rappers Instagram influencers in Poland in 2024. Most popular hashtags: #rapper #poland #music #love.
 platform: Instagram
-hits: 10
-text_top: Discover the most popular Instagram influencers on inBeat.
-text_bottom: Our platform holds 10 Instagram influencers like this in Poland for you to collaborate.
+hits: 12
+text_top: Analyze the most popular Instagram accounts on inBeat.
+text_bottom: inBeat has 12 Instagram influencers like this in Poland for you to pitch.
 profiles:
   - username: "shrek_kmg"
     fullname: >-
@@ -31,6 +31,18 @@ profiles:
     id: ck5q9k6odbinr0i11d3uswiew
     verified: false
     hashtags: ""
+  - username: "patrykwxjcik"
+    fullname: >-
+      Pat
+    bio: >-
+      🇵🇱
+    location: "Poland"
+    followers: 55966
+    engagement: 894
+    commentsToLikes: 0.027449
+    id: ck9hd060enmol0j78h851fqp6
+    verified: false
+    hashtags: "#rapper, #hiphop, #ukrap, #expolrepage"
   - username: "marcinklosowski.official"
     fullname: >-
       Marcin Kłosowski
@@ -43,6 +55,18 @@ profiles:
     id: ck13cnlci18op0i192di2e2ax
     verified: true
     hashtags: "#musician, #sunset, #selfie, #fun"
+  - username: "rapfuzja"
+    fullname: >-
+      Rap Fuzja
+    bio: >-
+      Promujemy niezależnych artystów, otwierając drzwi do szerokiej publiczności! 🌐🔊 Twoje miejsce, gdzie niezależność spotyka się z ekspozycją. 🚀🔥
+    location: "Poland"
+    followers: 17761
+    engagement: 173
+    commentsToLikes: 0.029928
+    id: ck0u7bq6o4afn0i197og62fm1
+    verified: false
+    hashtags: "#polskichlopak, #holiday, #urlopwkraju, #morzeba"
   - username: "sebastianklawikowski"
     fullname: >-
       Sebastian Klawikowski
@@ -91,18 +115,6 @@ profiles:
     id: ck55j3epzw62o0i11jcbrsjnc
     verified: true
     hashtags: "#poland, #warszawa, #2021, #noizzpl"
-  - username: "femin.official"
-    fullname: >-
-      Femin
-    bio: >-
-      Muzyk 🎼Artysta👤 Wokalista🎤 Gitarzysta🎸 📀 Właściciel Remedium Music New Song: v v v
-    location: "Poland"
-    followers: 19370
-    engagement: 102
-    commentsToLikes: 0.040165
-    id: ck0u7bq6o4afn0i197og62fm1
-    verified: false
-    hashtags: "#niceday, #polishboy, #love, #song"
   - username: "martyna_famulska"
     fullname: >-
       Martyna Famulska
@@ -115,16 +127,4 @@ profiles:
     id: ck8tc2j8by2030j78058xybfh
     verified: false
     hashtags: "#pogodnitvn, #dladzieci, #dziecko, #mamaic"
-  - username: "marta.idziak"
-    fullname: >-
-      Mama🤰🏽Praca💰Dzieci🧸Fotografia📸
-    bio: >-
-      📸Kocham fotografować 👩‍💻Uczę kobiety budować biznes na instagramie 📬Napisz do mnie, a pokaże Ci jak zarabiać z telefonu 📲 💎Ambasador @tidiness.beauty
-    location: "Poland"
-    followers: 11635
-    engagement: 513
-    commentsToLikes: 0.025676
-    id: ck5zqt5ffv8xy0i14soqoypgu
-    verified: false
-    hashtags: "#canon, #niemowle, #macierzy, #lawenda"
 ---

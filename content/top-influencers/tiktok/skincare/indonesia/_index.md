@@ -1,11 +1,11 @@
 ---
-title: Top 10 Skincare TikTok Influencers In Indonesia In 2023
+title: Top 10 Skincare TikTok Influencers In Indonesia In 2024
 description: >-
-  Find top skincare TikTok influencers in Indonesia in 2023. Most popular hashtags: #fyp #skincare #foryoupage #foryou.
+  Find top skincare TikTok influencers in Indonesia in 2024. Most popular hashtags: #fyp #skincare #mulaidari100 #foryoupage.
 platform: TikTok
 hits: 101
-text_top: Identify the most popular TikTok influencers on inBeat.
-text_bottom: Our search engine holds 101 TikTok influencers like this in Indonesia for you to contact.
+text_top: Identify the most popular TikTok accounts on inBeat.
+text_bottom: inBeat holds 101 TikTok influencers like this in Indonesia for you to collaborate.
 profiles:
   - username: "dannysreza"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.051912
     id: cka65zgowf99g0i78xyxxi9y9
     verified: false
-    hashtags: "#mulaidari100, #kejardiskonwib, #skincarewithdanny, #skincare"
+    hashtags: "#mulaidari100, #skincarewithdanny, #kejardiskonwib, #asmr"
   - username: "abelsoe"
     fullname: >-
       ABEL ✨

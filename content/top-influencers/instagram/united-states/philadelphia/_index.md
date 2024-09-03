@@ -1,11 +1,11 @@
 ---
-title: Top 10 Instagram Influencers In Philadelphia In 2023
+title: Top 10 Instagram Influencers In Philadelphia In 2024
 description: >-
-  Find top Instagram influencers in Philadelphia in 2023. Most popular hashtags: #flyeaglesfly #photography #explore.
+  Find top Instagram influencers in Philadelphia in 2024. Most popular hashtags: #sponsored #philly #ad.
 platform: Instagram
-hits: 787
-text_top: Identify the best Instagram profiles on inBeat.
-text_bottom: Our search engine has 787 Instagram influencers like this in Philadelphia, United States for you to contact.
+hits: 918
+text_top: Identify the most popular Instagram profiles on inBeat.
+text_bottom: Our search engine has 918 Instagram influencers like this in Philadelphia, United States for you to collaborate.
 profiles:
   - username: "andyrementer"
     fullname: >-
@@ -19,112 +19,112 @@ profiles:
     id: ckaor1fhjlawp0i784q1eloai
     verified: false
     hashtags: "#behindthescenes, #process, #vote, #vote2020"
-  - username: "gabesco"
+  - username: "ann.le.do"
     fullname: >-
-      Gabe Escobar
+      Ann Le Do
     bio: >-
-      temple ‘24 🍒 tiktok: gabesco (2.8 million) snapchat: gabesco Venmo/PO box👇🏼 💜 Venmo: gabesco42 P.O Box: 1717 N12th Street #829, Philadelphia,PA,19122
+      Lifestyle • Fashion • Travel • Family Motherhood + marriage humor 🎥 TikTok (220k+) @ann.le.do annledo@dulcedo.com 📍Philadelphia, PA
     location: "United States"
-    followers: 124179
-    engagement: 2511
-    commentsToLikes: 0.031710
-    id: ck8t6brgnd0fu0j782kg2l8z3
+    followers: 331352
+    engagement: 1529
+    commentsToLikes: 0.083301
+    id: ck6ue4t9dotrb0j71dzwta7fo
     verified: false
-    hashtags: "#collegelife, #imgmodels, #instamodel, #softboy"
-  - username: "the2thattravel"
-    fullname: >-
-      CHARLIE+CHRISTINE | TRAVELERS
-    bio: >-
-      Photography × Fitness × #FulltimeTravel ♡ British boy & American girl who fell in love in Bali ♡ ⚐ #Philadelphia ⇣ TRAVEL GUIDES AND TIPS ⇣
-    location: "United States"
-    followers: 10459
-    engagement: 1214
-    commentsToLikes: 0.110894
-    id: ck5zmudb4n8nr0i14uqae592m
-    verified: false
-    hashtags: "#myvietnam, #hoian, #vietnamnow, #huffpostgram"
-  - username: "pilot.drew"
-    fullname: >-
-      Andrew, Airline Pilot
-    bio: >-
-      Airline Pilot | Travel | Men’s Lifestyle 📍Philadelphia, PA ✉️contact@drewthepilot.com
-    location: "United States"
-    followers: 256757
-    engagement: 380
-    commentsToLikes: 0.028924
-    id: ck0w4jy5oyxy20i19zm1kzrzr
-    verified: false
-    hashtags: "#xfinitypartner, #aiart, #lincolnaviator, #showusyourlotterylove"
+    hashtags: "#sponsored, #toyota, #letsgoplaces, #hybrid"
   - username: "danimaiale"
     fullname: >-
-      DANI MAIALE | Fashion Blogger
+      Dani Maiale
     bio: >-
-      📍Philadelphia, PA 💌 Info.danimaiale@gmail.com ⭐️ #Revolveambassador 👇🏻 Shop my looks
+      📍Philadelphia, PA 💌 Info.danimaiale@gmail.com 🤍 @ivorycollectiveevents 👇🏻 Shop My Looks
     location: "United States"
-    followers: 32244
-    engagement: 499
-    commentsToLikes: 0.189736
+    followers: 35787
+    engagement: 460
+    commentsToLikes: 0.133052
     id: ck5q3guqvkotk0i11jyzdiqqo
     verified: false
-    hashtags: "#ootd, #ootdmagazine, #revolvesummer, #fourseasons"
-  - username: "jaythegreat215"
+    hashtags: "#mgmambassador, #springtimeinprinceton"
+  - username: "thephillykitchen"
     fullname: >-
-      Jay The Great
+      YO ADRIANE!
     bio: >-
-      Father | Entrepreneur | World Traveler | Activist | Community Organizer | Capricorn | #Philadelphia Twitter: JayTheGreat215 | #BlackLivesMatter
+      Home cook in Philadelphia and Sullivan Catskills Fried chicken enthusiast 🍗 Cooking what’s on sale or in my CSA
     location: "United States"
-    followers: 21338
-    engagement: 921
-    commentsToLikes: 0.035974
-    id: ckap3zlrj56q00i78284ypcku
+    followers: 5682
+    engagement: 555
+    commentsToLikes: 0.118490
+    id: ck8t92eg6mptn0j78571my21j
     verified: false
-    hashtags: "#justiceforgeorgefloyd, #blacklivesmatter, #shareblackstories, #philadelphia"
-  - username: "lanejohnson65"
+    hashtags: "#salad, #phillyfoodie, #thephillykitchen, #phillyfoodblogger"
+  - username: "nicoleangelaclash"
     fullname: >-
-      Lane Johnson
+      Nicole | Lifestyle • Travel
     bio: >-
-      Super Bowl Champion 🏆 @philadelphiaeagles Right Tackle #FlyEaglesFly 🦅 @ou_football Alum #BoomerSooner ⭕ Outside The Lane #OTL 🎙️ #PaveTheLane
+      Lifestyle, Adventure, & Food ✈️ sharing hidden gems in the US 📍philadelphia - new jersey ✉️ nicoleangelaclash@gmail.com
     location: "United States"
-    followers: 227183
-    engagement: 626
-    commentsToLikes: 0.020268
-    id: ck0ua6415bhw10i193c3bf3lk
-    verified: true
-    hashtags: "#flyeaglesfly, #stonewalljohnson, #pavethelane, #otl"
-  - username: "leahbreah"
-    fullname: >-
-      The Loc Mammi 🔅
-    bio: >-
-      Loc’d 🔒 est. 11•15•19. 🌱 Philadelphia, PA Book me: @locsbylee_
-    location: "United States"
-    followers: 19660
-    engagement: 1103
-    commentsToLikes: 0.035279
-    id: ck8ta727gqoyk0j789q26y3ff
+    followers: 56039
+    engagement: 401
+    commentsToLikes: 0.181844
+    id: ck5hkpalgitne0i112vdo9ac9
     verified: false
-    hashtags: "#goldenyearaffair"
-  - username: "bbrooks_79"
+    hashtags: "#edgewaternj, #cliftonnj, #miamifoodies, #newjerseyfoodie"
+  - username: "clhgreene"
     fullname: >-
-      Brandon Brooks
+      Corey Hackett-Greene | Philly Influencer
     bio: >-
-      3x pro bowl right guard of the Philadelphia Eagles. Miami University ‘11. ♦️φνπ, In a crazy world I just want to be an outlier
+      All For Christ - Philippians 3:7-11 | Philadelphia📍 Family | Lifestyle | Grooming | Serving TikTok: @clhgreene (48.5k) 📧: info@clhgreene.com
     location: "United States"
-    followers: 72664
-    engagement: 1024
-    commentsToLikes: 0.021942
-    id: ck5pydlq7vi6v0i11kjmq8hpy
-    verified: true
-    hashtags: "#work, #justwaitonit, #gobirds, #muaythai"
-  - username: "mickabel"
-    fullname: >-
-      Mick Abel 🦄
-    bio: >-
-      Portland, Oregon Philadelphia Phillies Nike Athlete
-    location: "United States"
-    followers: 10246
-    engagement: 2369
-    commentsToLikes: 0.031474
-    id: ck13cdiw3ztph0i194l41kt0t
+    followers: 12759
+    engagement: 682
+    commentsToLikes: 0.085823
+    id: ck55n03tu571q0i11ga245ayy
     verified: false
-    hashtags: "#year4, #coronavelo, #25, #ringthebell"
+    hashtags: "#ad, #broncosport, #photodump, #sponsored"
+  - username: "lattesandlabcoats"
+    fullname: >-
+      Dani D
+    bio: >-
+      philadelphia | fashion | coffee | shop my looks 💌: lattesandlabcoats@gmail.com
+    location: "United States"
+    followers: 7497
+    engagement: 1715
+    commentsToLikes: 0.044363
+    id: ckaou5lv0ywhz0i78kb5rv5l4
+    verified: false
+    hashtags: "#ltkholidayathome, #ltkholidaygiftguide, #neutrogenapartner, #neutrogenamakeup"
+  - username: "emily_scalzo"
+    fullname: >-
+      Emily | PA-based hiking & adventure travel
+    bio: >-
+      ↠ Helping you plan your next adventure! ↠ Hiking guides, itineraries, and getaway ideas ↠ Based in Philadelphia ↠ emily@scalingtheglobe.com
+    location: "United States"
+    followers: 18225
+    engagement: 1291
+    commentsToLikes: 0.155960
+    id: cleigyv7xzqwb0j08nwyth8sh
+    verified: false
+    hashtags: "#roadtrip, #philadelphia, #hikingadventures, #exploreinbucksco"
+  - username: "steelojeem"
+    fullname: >-
+      Najm Loyd
+    bio: >-
+      📍: philadelphia men’s style + content creation 📧: najm@kensingtongrey.co
+    location: "United States"
+    followers: 101418
+    engagement: 424
+    commentsToLikes: 0.014787
+    id: ck1370x7t98i60i19edkn5yw7
+    verified: false
+    hashtags: "#closetsale, #streetstyle, #mensstyle, #ootd"
+  - username: "phillydateideas"
+    fullname: >-
+      Philly Date Ideas
+    bio: >-
+      A couple in Philadelphia sharing all our fun date night ideas! 👫: @manishamaday & @chupagabry 💌: phillydateideas@gmail.com
+    location: "United States"
+    followers: 75926
+    engagement: 448
+    commentsToLikes: 0.048555
+    id: ckrd0zalschq20j235zehk0bq
+    verified: false
+    hashtags: "#phillyfun, #phillyalphabetdates, #phillydateideas, #phillydrinks"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Divers TikTok Influencers In United Kingdom In 2023
+title: Top 10 Divers TikTok Influencers In United Kingdom In 2024
 description: >-
-  Find top divers TikTok influencers in United Kingdom in 2023. Most popular hashtags: #fyp #foryou #diving #foryoupage.
+  Find top divers TikTok influencers in United Kingdom in 2024. Most popular hashtags: #fyp #foryou #diving #foryoupage.
 platform: TikTok
-hits: 248
-text_top: Discover the most popular TikTok influencers on inBeat.
-text_bottom: Our search engine aggregates 248 TikTok influencers like this in United Kingdom for you to collaborate.
+hits: 239
+text_top: Discover the best TikTok accounts on inBeat.
+text_bottom: Our database has 239 TikTok influencers like this in United Kingdom for you to connect with.
 profiles:
   - username: "yonakw"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.020024
     id: cka0livkvr9p70i781b9p8vcn
     verified: false
-    hashtags: "#fyp, #foryou, #madrid, #diving"
+    hashtags: "#foryou, #madrid, #diving, #yonakw"
   - username: "diversityofficial"
     fullname: >-
       “We are Diversity.”
@@ -54,7 +54,7 @@ profiles:
     commentsToLikes: 0.014977
     id: ck8z6rcfnn9010j787uqk4koy
     verified: false
-    hashtags: "#slowmotion, #sport, #divein, #sportlife"
+    hashtags: "#trendingsong, #training, #diving, #fail"
   - username: "jordbanjo"
     fullname: >-
       Jordan Banjo
@@ -66,7 +66,7 @@ profiles:
     commentsToLikes: 0.007010
     id: ck8ae3iwa9hvn0j78g8v874of
     verified: true
-    hashtags: "#cocomelon, #cocomelonchallenge, #ebay, #valentines"
+    hashtags: "#ebay, #ad, #fyp, #foryou"
   - username: "jackdlaugher"
     fullname: >-
       JackDLaugher

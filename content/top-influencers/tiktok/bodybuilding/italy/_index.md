@@ -1,11 +1,11 @@
 ---
-title: Top 10 Bodybuilding TikTok Influencers In Italy In 2023
+title: Top 10 Bodybuilding TikTok Influencers In Italy In 2024
 description: >-
-  Find top bodybuilding TikTok influencers in Italy in 2023. Most popular hashtags: #bodybuilding #gym #fitness #viral.
+  Find top bodybuilding TikTok influencers in Italy in 2024. Most popular hashtags: #bodybuilding #gym #fitness #viral.
 platform: TikTok
 hits: 15
-text_top: Identify the best TikTok influencers on inBeat.
-text_bottom: Our platform has 15 TikTok influencers like this in Italy for you to connect with.
+text_top: Discover the top-rated TikTok profiles on inBeat.
+text_bottom: Our database has 15 TikTok influencers like this in Italy for you to connect with.
 profiles:
   - username: "salvospera"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.032960
     id: ckbf0064nldlu0j236l533whl
     verified: false
-    hashtags: "#bodybuilding, #salvospera, #fitness, #foryou"
+    hashtags: "#foryou, #fitness, #salvospera, #bodybuilding"
   - username: "lorenzorotatori"
     fullname: >-
       Lorenzo Rotatori

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Colombia In 2023
+title: Top 10 Lifestyle Instagram Influencers In Colombia In 2024
 description: >-
-  Find top lifestyle Instagram influencers in Colombia in 2023. Most popular hashtags: #fashion #fashionstyle #style #colombia.
+  Find top lifestyle Instagram influencers in Colombia in 2024. Most popular hashtags: #lifestyle #publicidad #colombia.
 platform: Instagram
-hits: 225
-text_top: See the best Instagram accounts on inBeat.
-text_bottom: inBeat holds 225 Instagram influencers like this in Colombia for you to contact.
+hits: 242
+text_top: Discover the best Instagram influencers on inBeat.
+text_bottom: inBeat aggregates 242 Instagram influencers like this in Colombia for you to pitch.
 profiles:
-  - username: "nicollediez"
+  - username: "viajandoconberbeo"
     fullname: >-
-      NICOLLE DIEZ
+      J Berbeo | 🎒Travel + Lifestyle
     bio: >-
-      My life 📷 Mamá de Maite 🤍 #Fashion #beauty and #lifestyle inspiration @bynicollediez
+      👔 Quit my Fortune500 job to travel the 🌍 ☕ 📖 🌱Coffee, books and eco addict ♻️ 💪🏼Sustainable travel & healthy lifestyle 👣 Trying to make an impact
     location: "Colombia"
-    followers: 97440
-    engagement: 106
-    commentsToLikes: 0.020316
-    id: ck5c27kdbwp4s0i11kuccrvnh
+    followers: 42407
+    engagement: 786
+    commentsToLikes: 0.007597
+    id: ckaoxnh5de00g0i78xoctnhoc
     verified: false
-    hashtags: "#colombia, #ootd, #fashionstyle, #fashion"
-  - username: "jessica.zabala"
-    fullname: >-
-      Jessica Zabala
-    bio: >-
-      Cree en ti 🍀✨ Insta Tips | Beauty | Fashion | Lifestyle Tiktok | jessicazabalaa
-    location: "Colombia"
-    followers: 89858
-    engagement: 372
-    commentsToLikes: 0.008907
-    id: ck9wghcvxtf430j788scdohfk
-    verified: false
-    hashtags: "#publicidad, #bonbonbumlovers"
+    hashtags: "#earthfocus, #naturelovers, #menandcoffee, #hellofrom"
   - username: "_omnia.x"
     fullname: >-
       O M N I A
     bio: >-
-      Contacto y publicidad DM📩 ✖ Portraits, Lifestyle, Fashion ✖ 📍 Bogotá 🇨🇴
+      Sesiones y contacto DM📩 ✖ Portraits, Lifestyle, Fashion ✖ 📍 Bogotá 🇨🇴 By: @itsmelbournee @losspotsdemartin
     location: "Colombia"
-    followers: 102604
-    engagement: 459
-    commentsToLikes: 0.120064
+    followers: 88892
+    engagement: 450
+    commentsToLikes: 0.204840
     id: ck55kllvdzlpk0i1159j074ii
     verified: false
-    hashtags: "#vibetones, #sonyalphacolombia, #insomniamag, #777luckyfish"
-  - username: "einer_josee"
+    hashtags: "#thefilmmagazine, #sonyalpha, #realismag, #editorials"
+  - username: "chdermatologia"
     fullname: >-
-      EINER & JOSE
+      CLAUDIA HERNÁNDEZ
     bio: >-
-      Colombiano/Español “Juntos conquistando un Mundo” #loveislove #lifestyle #travel
+      🇨🇴 Board-Certified Dermatologist • AAD 🇺🇸member •Injector💉•KOL & Global speaker 🌎 •Research🔬 •Lifestyle • Beauty 📲 +574443072 / 3006413849
     location: "Colombia"
-    followers: 72966
-    engagement: 731
-    commentsToLikes: 0.032177
-    id: ckapceafy3gwc0i786g549k99
+    followers: 122456
+    engagement: 733
+    commentsToLikes: 0.002903
+    id: ck0w71ryubc2d0i19xvjyd5io
     verified: false
-    hashtags: "#gaylove, #mensvows, #gayspain, #cute"
-  - username: "branorozcom"
+    hashtags: "#lifestyle, #skincare, #fillers, #beauty"
+  - username: "kimdesutter"
     fullname: >-
-      Bran Orozco Muñoz
+      Kim De Sutter 🦋
     bio: >-
-      • Lifestyle | Graphic Designer • Fotos con iPhone 11 • Ciénaga - Bogotá - Colombia
+      mom | travel & lifestyle | beauty Management: @matchmgmt
     location: "Colombia"
-    followers: 16573
-    engagement: 335
-    commentsToLikes: 0.078741
-    id: ck15ux3olox5w0i19y3al30ix
+    followers: 158033
+    engagement: 406
+    commentsToLikes: 0.004378
+    id: ck5qd86vouaho0i11hm26wfnt
     verified: false
-    hashtags: "#colombia, #blogger, #colombiatravellers, #cienagamagdalena"
-  - username: "paulabuelvasreales"
+    hashtags: "#beb, #publicidad, #acidmantle, #lorealpariscoloracion"
+  - username: "mariaelvirar_"
     fullname: >-
-      ✨Paula Buelvas✨
+      Maria Elvira Ramirez
     bio: >-
-      [LifeStyle|Emprendimiento] AMO💕 @pinkbypaulabuelvas CONTÁCTAME: 324 5761219 Soy yo🙂 @lostutorialesdepau 🎶TikTok: paula.buelvas WEB👇🏽👩🏽‍💻 shop online
+      Me dicen Mae 🎀 Storytelling, lifestyle, mi perro salchicha y mas! 💌 mariaelvira@matchmgmt.co Tiktok [500k+]
     location: "Colombia"
-    followers: 284168
-    engagement: 809
-    commentsToLikes: 0.010169
-    id: ck6tmouxa88qd0j71o56cdeme
+    followers: 99720
+    engagement: 1949
+    commentsToLikes: 0.002637
+    id: ck5py91hduvwn0i11ngoszrqz
     verified: false
-    hashtags: "#losxvdelayirle"
-  - username: "ayarithbarros"
+    hashtags: "#tapamania, #vida, #subfest, #publicidad"
+  - username: "caromejiaaraujo"
     fullname: >-
-      AYARITH BARROS VALDERRAMA
+      Caro Mejía Araújo
     bio: >-
-      Travel•Fashion•Lifestyle Colombian 🇨🇴 📍NYC Que todo lo que sueñes hoy, sea tu vida mañana.
+      @reebokcolombia ambassador healthy lifestyle | outfits | baile Co founder @calu_resortwear @blendsmoothies.co 📍Bogotá
     location: "Colombia"
-    followers: 6041
-    engagement: 788
-    commentsToLikes: 0.059893
-    id: ckf5lksbkpxl80j23ejbchgwh
+    followers: 75563
+    engagement: 381
+    commentsToLikes: 0.060049
+    id: ck5hj6hllg3cw0i118da5szy1
     verified: false
-    hashtags: "#dinner, #dinnertime, #bloggerstyle, #miamilife"
-  - username: "paokatan"
+    hashtags: "#outfits, #fashion, #videosdebaile, #cartagena"
+  - username: "andreasbook"
     fullname: >-
-      Paola Katan
+      ANDREA
     bio: >-
-      BEAUTY I LIFESTYLE I FASHION Youtuber, Blogger and mommy Content creator 💻blog: www.paolakatan.com #SoyVogera ⬇️Mi últimas fotos⬇️
+      Founder @andreaforsterdesign Lifestyle | Languages | Travel Colombiana🐆 Living in Switzerland🇨🇭 Life through my eyes🤍
     location: "Colombia"
-    followers: 15918
-    engagement: 254
-    commentsToLikes: 0.251160
-    id: ck15u84ublvw30i19laidux05
+    followers: 637650
+    engagement: 320
+    commentsToLikes: 0.018894
+    id: clbncvw2x89nx0j08c3ohnqej
     verified: false
-    hashtags: "#quedateencasa, #inspirar, #makeup, #paokatan"
-  - username: "ashleysantosm"
+    hashtags: "#mylittlefamily, #newhome, #canalesprimevideo, #cocacolaswitzerland"
+  - username: "valeriaduqueh"
     fullname: >-
-      Ashley Santos M
+      VALERIA DUQUE 🔱
     bio: >-
-      Fashion | Lifestyle | Beauty bad vibes don't affect my outfit✌🏻 🦋 Model & actress ✨ Colombia
+      📩 valeriaduquehcontacto@gmail.com Desafío Súper Humanos XV Comunicadora Social, periodista Fitness lifestyle✨ Modelo ✨Content creator
     location: "Colombia"
-    followers: 4136
-    engagement: 1378
-    commentsToLikes: 0.057130
-    id: ck8t4hcu66toc0j78vr7nw6p7
+    followers: 1702864
+    engagement: 314
+    commentsToLikes: 0.017060
+    id: ck0w71qvgbbwr0i19etl210f3
     verified: false
-    hashtags: "#fashionphotography, #photography, #model, #fashionblogger"
-  - username: "alemontoya038"
+    hashtags: "#fitness, #fitnesslifestyle, #barbiegirl, #fitnessmodel"
+  - username: "mickeholguinbello"
     fullname: >-
-      𝐀𝐋𝐄   𝐌𝐎𝐍𝐓𝐎𝐘𝐀
+      Micke Holguin Bello 💖
     bio: >-
-      🥈Semifinalista @4elementoscol 🚴🏻‍♀️Ciclismo-Lifestyle 👩🏻‍💻Contadora Pública 🇨🇴Cali-Col 🩱By @bikinicoraldorado #vosquesisabes
+      🛸 Digital Influencer 💿 Fashion | Beauty | Lifestyle 💸 Collab Info Dm 💖 @mickeholguinbelloof
     location: "Colombia"
-    followers: 247944
-    engagement: 362
-    commentsToLikes: 0.014733
-    id: ck5ci7p09s62z0i11zukn12z6
-    verified: true
-    hashtags: "#run, #running"
+    followers: 111872
+    engagement: 315
+    commentsToLikes: 0.012701
+    id: ck14je05vjulu0i19shce8qwn
+    verified: false
+    hashtags: "#sunsetlamp, #aesthetic, #grwm, #outfitinspo"
+  - username: "angulosaul"
+    fullname: >-
+      Saul Angulo
+    bio: >-
+      PR & Influencer MKT Foodie || LifeStyle Industrial Enginner 📍México City || (Made in Sinaloa).
+    location: "Colombia"
+    followers: 41914
+    engagement: 308
+    commentsToLikes: 0.041209
+    id: ck15pzooq0fdj0i19f9p9wznt
+    verified: false
+    hashtags: "#mensstyle, #vacation, #menstyle, #travel"
 ---

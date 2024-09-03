@@ -1,11 +1,11 @@
 ---
-title: Top 10 Beauty TikTok Influencers In Poland In 2023
+title: Top 10 Beauty TikTok Influencers In Poland In 2024
 description: >-
-  Find top beauty TikTok influencers in Poland in 2023. Most popular hashtags: #fyp #dlaciebie #beauty #foryou.
+  Find top beauty TikTok influencers in Poland in 2024. Most popular hashtags: #fyp #dlaciebie #foryou #makeup.
 platform: TikTok
-hits: 99
-text_top: See the best TikTok influencers on inBeat.
-text_bottom: inBeat has 99 TikTok influencers like this in Poland for you to pitch.
+hits: 98
+text_top: Analyze the best TikTok influencers on inBeat.
+text_bottom: Our search engine aggregates 98 TikTok influencers like this in Poland for you to work with.
 profiles:
   - username: "africanviolettt"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.098061
     id: ck8adetps5oad0j78u3mh5ihg
     verified: false
-    hashtags: "#fyp, #makethisgoviral, #viral, #makerhisgoviral"
+    hashtags: "#makerhisgoviral, #fyp, #makethisgoviral, #viral"
   - username: "agataserge"
     fullname: >-
       agataserge
@@ -54,7 +54,7 @@ profiles:
     commentsToLikes: 0.023841
     id: ck8faqy5r4ihz0j786k1euu7a
     verified: false
-    hashtags: "#makeuptutorial, #dc, #dlaciebie, #anastasiasoare"
+    hashtags: "#dc, #anastasiasoare, #colourpopcosmetics, #makeuptutorial"
   - username: "magdapieczonkamakeup"
     fullname: >-
       Magdapieczonkamakeup

@@ -1,24 +1,12 @@
 ---
-title: Top 10 Hair Dressers Instagram Influencers In 2023
+title: Top 10 Hair Dressers Instagram Influencers In 2024
 description: >-
-  Find top hair dressers Instagram influencers in 2023. Most popular hashtags: #hairstyles #makeup #hairstylist.
+  Find top hair dressers Instagram influencers in 2024. Most popular hashtags: #hairstylist #hairstyles #hair.
 platform: Instagram
-hits: 422
-text_top: See the best Instagram profiles on inBeat.
-text_bottom: inBeat holds 422 Instagram influencers like this for you to work with.
+hits: 462
+text_top: Analyze the most popular Instagram profiles on inBeat.
+text_bottom: Our search engine holds 462 Instagram influencers like this for you to connect with.
 profiles:
-  - username: "yoonvrs"
-    fullname: >-
-      짧은머리여왕 아이쌤 / Yoonseo Jung
-    bio: >-
-      Hair dresser My designs on @yoonvrs_design ▼All inquiries
-    location: "South Korea"
-    followers: 9345
-    engagement: 972
-    commentsToLikes: 0.026389
-    id: ckapalme6wll00i78ez8aqyn0
-    verified: false
-    hashtags: "#xxxtentacion, #whoa"
   - username: "mohsen_asadpourr"
     fullname: >-
       𝓜𝓸𝓱𝓼𝓮𝓷 𝓐𝓼𝓪𝓭𝓹𝓸𝓾𝓻
@@ -127,4 +115,16 @@ profiles:
     id: ck5zvdo9041c50i14wukvqcf0
     verified: false
     hashtags: ""
+  - username: "vipulchudasamaofficial"
+    fullname: >-
+      VIPUL CHUDASAMA ®️
+    bio: >-
+      💎No Individual is Better Than Hairdressing 🔹Coach For Hairdressers, Salon Chains, Academies, Salon Tools & Product Brands. 🔹Courses & Endorsements👇🏻
+    location: "India"
+    followers: 66052
+    engagement: 206
+    commentsToLikes: 0.016311
+    id: ck15u0lkjku240i19w4bgmzdl
+    verified: false
+    hashtags: "#mumbaidiaries, #hair, #beauty, #vipulchudasama"
 ---

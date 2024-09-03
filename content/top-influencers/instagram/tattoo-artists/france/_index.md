@@ -1,48 +1,84 @@
 ---
-title: Top 10 Tattoo-Artists Instagram Influencers In France In 2023
+title: Top 10 Tattoo-Artists Instagram Influencers In France In 2024
 description: >-
-  Find top tattoo-artists Instagram influencers in France in 2023. Most popular hashtags: #tatouage #tattoo #inked.
+  Find top tattoo-artists Instagram influencers in France in 2024. Most popular hashtags: #tattoo #tattooart #ink.
 platform: Instagram
-hits: 203
-text_top: Identify the best Instagram accounts on inBeat.
-text_bottom: Our platform has 203 Instagram influencers like this in France for you to connect with.
+hits: 209
+text_top: Discover the top-rated Instagram profiles on inBeat.
+text_bottom: inBeat aggregates 209 Instagram influencers like this in France for you to contact.
 profiles:
-  - username: "blum.ttt"
+  - username: "amare.with.love"
     fullname: >-
-      ❈  Blum  ❈
+      Amandine Barbet
     bio: >-
-      Tattoo Artist 🇫🇷 PARIS at @venenum.tattoo —— • Bookings open Flash only - NO DM BOOKING : blum.ttt@gmail.com
+      👩‍🎨Tattoo artist - Jewelry maker - Ceramist 👩‍🎨 👁️ Next Jewelry drop : March 8th 📚 Booking session : February 20th on instagram 🇫🇷 France
     location: "France"
-    followers: 155707
-    engagement: 402
-    commentsToLikes: 0.030315
-    id: ck6tp4kv5hsuf0j71beoc7r1c
+    followers: 92824
+    engagement: 557
+    commentsToLikes: 0.033176
+    id: ck8tah3uurq910j78hamhlusi
     verified: false
-    hashtags: "#singleneedletattoo, #thinlinetattoo, #detailstattoo, #tatouage"
+    hashtags: "#blackink, #illustrativetattoos, #illustrationart, #floraltattoo"
   - username: "sampaguitajay_tattoo"
     fullname: >-
-      🌊🌊🌊🌊Sampaguita Jay 🇵🇭🇫🇷
+      Jhade Lapos
     bio: >-
-      • TATTOO ARTIST, Paris France • jaytattooart@gmail.com - @aftercareh2ocean - @tattooarmourpro - Noir ink tattoo collectif
+      TATTOO ARTIST Bayonne France OWNER @bakunawa_tattoo 🌑🐉 •@worldfamousink •@kwadron •@tattooarmourpro •@aftercareh2ocean •@killerinktattoo •@fkirons
     location: "France"
-    followers: 150671
-    engagement: 612
-    commentsToLikes: 0.017244
+    followers: 267214
+    engagement: 778
+    commentsToLikes: 0.024661
     id: ck5qcw77isme10i11q7pjeh8q
     verified: false
-    hashtags: "#vikings, #realistictattoo, #blackandgrey, #tattoo"
+    hashtags: "#tattooartist, #tattoolover, #realistictattoo, #artistsoninstagram"
+  - username: "eliot.kohek"
+    fullname: >-
+      Eliot Kohek
+    bio: >-
+      Tattoo artist . Annecy (FRANCE) 🇫🇷 bookings@kohek.com
+    location: "France"
+    followers: 671731
+    engagement: 342
+    commentsToLikes: 0.010771
+    id: ck15rnp388t6l0i19fyk9ceql
+    verified: false
+    hashtags: "#realistictattoo, #blackandgrey, #eliotkohek, #darkart"
   - username: "clement_gbk"
     fullname: >-
       𝕃’𝕒𝕞𝕠𝕣-𝕣𝕠𝕤𝕠
     bio: >-
-      Tattoo artist Represented by @itsvmanagement clement.grobotek@vmgnt.com No dm mail only
+      Tattoo artist Author of the book « moi, j’embrasse » at @editionsplon Agent : @singularist_paris
     location: "France"
-    followers: 124478
-    engagement: 570
-    commentsToLikes: 0.008090
+    followers: 119860
+    engagement: 240
+    commentsToLikes: 0.012598
     id: ck0vuzu1rmw8n0i19ll0xv9dj
     verified: true
-    hashtags: "#bescandal, #flowertattoo, #tattooartist, #tattooparis"
+    hashtags: "#inktalks, #flashtattoo, #tattoo, #tattooparis"
+  - username: "blum.ttt"
+    fullname: >-
+      ❈  Blum  ❈
+    bio: >-
+      Tattoo artist/model @iam.blum Owner of @casablum_ 📍🇫🇷 Paris, France 💌 blum.ttt@gmail.com @kwadron @organink_tattoo @eclipse.tattooink
+    location: "France"
+    followers: 324817
+    engagement: 183
+    commentsToLikes: 0.005905
+    id: ck6tp4kv5hsuf0j71beoc7r1c
+    verified: false
+    hashtags: "#blackworktattoo, #blumttt, #thinlinetattoo, #inked"
+  - username: "alyssaruiztattoos"
+    fullname: >-
+      Alyssa Ruiz 🇲🇽 🖤
+    bio: >-
+      📍KC | ✞ | @devon_d_ ♡ 🍥 anime tattoo artist @kansascitytattooclub 🖤personal @alyssaruizxo ✖️EMAIL TO BOOK✖️ 📧 alyssaruiztattoos@gmail.com
+    location: "France"
+    followers: 140733
+    engagement: 140
+    commentsToLikes: 0.011622
+    id: ckaox766oc32y0i78k63q2wje
+    verified: false
+    hashtags: "#kansascitytattooartist, #kcanime, #kctattoo, #animetattoo"
   - username: "alexbruz"
     fullname: >-
       Alex Bruz
@@ -91,40 +127,4 @@ profiles:
     id: ck6tk550840xf0j71bg2amc5h
     verified: false
     hashtags: "#womanwithtattoos, #tattedbyprettypapi, #mividaenarte, #bigsleepsink"
-  - username: "carolinekarenine"
-    fullname: >-
-      Caroline Karenine
-    bio: >-
-      French Tattoo Artist // booking closed //Please no DM #carolinekarenine ART @carolinekarenine_art Co founder @lignenoireditions .
-    location: "France"
-    followers: 40138
-    engagement: 317
-    commentsToLikes: 0.027086
-    id: ck0tzralwramh0i19xqdwyvpl
-    verified: false
-    hashtags: "#carnetdevoyage, #carnetdecroquis, #blacktattooart, #ink"
-  - username: "chimaera_tattoo"
-    fullname: >-
-      Carole
-    bio: >-
-      Tattoo artist 🌸 🔸Lyon-Paris🌱 🔸Illustration @Satan.ttt 🍑 🔸Perso @zakolorziromon
-    location: "France"
-    followers: 21056
-    engagement: 325
-    commentsToLikes: 0.031740
-    id: ck5q1heeiazw70i112mkhhmjw
-    verified: false
-    hashtags: "#queertattooartist, #theartoftattooing, #illustration, #veganink"
-  - username: "anais.rx_"
-    fullname: >-
-      𝔄𝔫𝔞ï𝔰 🌙
-    bio: >-
-      French 🇫🇷 tattooed girl 👽 tattoo artist 💉 @anaisrxx.tattoos my lover ❤️ @morgan.moshean 📧 anaisrxx@gmail.com cat lover 🐈‍⬛ veggie 🌱
-    location: "France"
-    followers: 33317
-    engagement: 1218
-    commentsToLikes: 0.013362
-    id: ck9h9p6yb9e2z0j78qcnd9qbk
-    verified: false
-    hashtags: "#girlink, #tattooedgirlsofig, #girlinked, #inkedlifestyle"
 ---

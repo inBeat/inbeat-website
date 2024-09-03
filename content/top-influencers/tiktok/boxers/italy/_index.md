@@ -1,11 +1,11 @@
 ---
-title: Top 10 Boxers TikTok Influencers In Italy In 2023
+title: Top 10 Boxers TikTok Influencers In Italy In 2024
 description: >-
-  Find top boxers TikTok influencers in Italy in 2023. Most popular hashtags: #perte #neiperte #boxer #foryou.
+  Find top boxers TikTok influencers in Italy in 2024. Most popular hashtags: #perte #neiperte #foryou #boxe.
 platform: TikTok
 hits: 8
-text_top: Identify the top-rated TikTok profiles on inBeat.
-text_bottom: inBeat aggregates 8 TikTok influencers like this in Italy for you to contact.
+text_top: Analyze the best TikTok influencers on inBeat.
+text_bottom: Our platform holds 8 TikTok influencers like this in Italy for you to pitch.
 profiles:
   - username: "ursudenis.boxeacademy"
     fullname: >-

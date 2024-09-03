@@ -1,130 +1,130 @@
 ---
-title: Top 10 Mothers Instagram Influencers In United Arab Emirates In 2023
+title: Top 10 Mothers Instagram Influencers In United Arab Emirates In 2024
 description: >-
-  Find top mothers Instagram influencers in United Arab Emirates in 2023. Most popular hashtags: #dubai #love #uae.
+  Find top mothers Instagram influencers in United Arab Emirates in 2024. Most popular hashtags: #dubai #abudhabi #love.
 platform: Instagram
-hits: 66
-text_top: Discover the best Instagram accounts on inBeat.
-text_bottom: Our database holds 66 Instagram influencers like this in United Arab Emirates for you to contact.
+hits: 90
+text_top: Analyze the most popular Instagram profiles on inBeat.
+text_bottom: Our platform holds 90 Instagram influencers like this in United Arab Emirates for you to collaborate.
 profiles:
-  - username: "nour.ghazwan"
+  - username: "lucrezia_delellis"
     fullname: >-
-      نُورْ غَزوانْ
+      Lucrezia De Lellis
     bio: >-
-      Feminist ♀ ♀ #dubai 🇦🇪 #makeup #lifestyle #motherhood For business dm please 📩 Snapchat : nour.mallouk
+      Montecarlo 📍 𝐶𝑖𝑡𝑖𝑧𝑒𝑛 𝑜𝑓 𝑡ℎ𝑒 𝑤𝑜𝑟𝑙𝑑..🛩 Mother of Tea and Ciro @tea.and.ciro.the.ugly.pugs Welcome to my crazy life! lucreziadelellis4@gmail.com 📩
     location: "United Arab Emirates"
-    followers: 249127
-    engagement: 233
-    commentsToLikes: 0.262721
-    id: ckap0lrktqv3j0i782sme8haj
+    followers: 209857
+    engagement: 320
+    commentsToLikes: 0.015004
+    id: ck5q1t2kccn3q0i11ac07g9d6
     verified: false
-    hashtags: "#dubai, #kuwait, #abudhabi, #africa"
-  - username: "karadacosta"
+    hashtags: ""
+  - username: "rujoomsreverie_"
     fullname: >-
-      Kara Da Costa
+      Rujoom Qamar 📍(AUH/DXB)
     bio: >-
-      Be kind 🧿 ☥ 📍 Dubai Mother 👧👦🧒 | Married💍 Entrepreneur • Creative • Lawyer 📧 karadacosta1@gmail.com
+      🇦🇪 🍉 Inspire, Inform, Entertain 💫 @trendyol RUJO @shop6thstreet RUJOOM @mumzworld Rujoom10 #Lifestyle #Travel #Fashion #Motherhood 📩 for Collab
     location: "United Arab Emirates"
-    followers: 102778
-    engagement: 1258
-    commentsToLikes: 0.019244
-    id: ck9hcelrul0nh0j78743kdlu6
+    followers: 78305
+    engagement: 265
+    commentsToLikes: 0.066891
+    id: ck9wgdtnaszh80j784dpc9mhl
     verified: false
-    hashtags: "#theluxlines, #goldenhour, #sunsetsandchill, #sunsets"
-  - username: "shahad_alkhattab"
+    hashtags: "#ramadan2024, #thingstodoinabudhabi, #familytime, #springbreak"
+  - username: "nouf.alabd"
     fullname: >-
-      شهد الخطاب 🇮🇶
+      نوف العبد - Nouf Alabd
     bio: >-
-      Mama 👪 #fashion | #lifestyle | #motherhood TV Presenter 🎥 مقدمة برامج 👻 shoosh.shahad 📧 Alkhattab.shahad@gmail.com 📍Dubai بوتيكي⤵️
+      Citizen of the world Mother of Layla & Haya Empathy & Kindness💕 Snap: Nouf.alabd For inquires 📧 N.al3bdpr@gmail.com
     location: "United Arab Emirates"
-    followers: 938062
-    engagement: 208
-    commentsToLikes: 0.010932
-    id: ck0vy8upe2skf0i19sgff0300
+    followers: 175596
+    engagement: 167
+    commentsToLikes: 0.022218
+    id: ck134vgbhydrl0i19n9iieqct
     verified: false
-    hashtags: "#teamgalaxylevant, #galaxys21, #ad, #shein"
-  - username: "lulu_albedaiwi"
+    hashtags: ""
+  - username: "beki_ksri"
     fullname: >-
-      lulu_albedaiwi 🌟 لولو البديوي
+      Beki’s world بلقيس بكي
     bio: >-
-      ‎‏📍Riyadh 🇸🇦 Motherhood 👨‍👩‍👦‍👦 life style👗 l.albedaiwi@yahoo.com Snap : luluwiz 👻 johnson’s ambassador in Saudi Arabia
+      ⵣ North African queen based in Dubai 🇦🇪 Adventures traveler | skydiver | Tv host | gamer 🏆best raising content creator 2022 Mother of @azul_podcast
     location: "United Arab Emirates"
-    followers: 147220
-    engagement: 97
-    commentsToLikes: 0.057211
-    id: ck15s5uqbbdkk0i19bmyd4da5
+    followers: 2785412
+    engagement: 155
+    commentsToLikes: 0.005367
+    id: ck5q2b6cqf58g0i112yjb6btc
     verified: false
-    hashtags: "#curlyhair, #lovemyhair, #goodvibes, #mybed"
-  - username: "dina.maimouni"
+    hashtags: "#windows, #plummascara, #badgalbang, #moscowcity"
+  - username: "meghnadixit_official"
     fullname: >-
-      Dina Maimouni 🕊
+      Meghna Dixit
     bio: >-
-      Spanish / Moroccan in📍Dubai Lifestyle | Fashion | Beauty | Motherhood
+      🙏 I am "The Content" 💰Life Coach, HR Consultant & Startup Mentor 💃 Wellness | Lifestyle | Motherhood | Cinema 📲 #meghnadixit #megztalk #megzreview
     location: "United Arab Emirates"
-    followers: 98477
-    engagement: 199
-    commentsToLikes: 0.033226
-    id: ck5hh0sj15sv70i11y1bg08op
+    followers: 50350
+    engagement: 78
+    commentsToLikes: 0.161792
+    id: ck9hagglccfve0j78svhddyjc
     verified: false
-    hashtags: "#mixedchildren, #dubai, #brotherhood, #style"
-  - username: "noor.odehh"
+    hashtags: "#lifecoaching, #dubaimums, #dubaiinfluencer, #dubai"
+  - username: "maisnobaniofficial"
     fullname: >-
-      Noor Odeh -نور عوده
+      Mais Nobani
     bio: >-
-      Fashion / Lifestyle/ Motherhood 📍 Abu Dhabi
+      A Mother, TV Anchor 📹, Media is my passion Ambassador of MilkShake 📩mais.nobani@gmail.com
     location: "United Arab Emirates"
-    followers: 435975
-    engagement: 59
-    commentsToLikes: 0.030492
-    id: ck5c2dyt5x2hu0i11y5y5fssa
-    verified: false
-    hashtags: "#timewellspent, #mymaxstyle, #eidfashion, #dysonv11"
-  - username: "sallymhajjar"
-    fullname: >-
-      Sally Moussa Hajjar
-    bio: >-
-      Mother of 3 🙇‍♀️🙇‍♂️🙇‍♀️ Media & Communication Expert Managing Partner @humanagementme Lebanese-Dubai Based 🌴
-    location: "United Arab Emirates"
-    followers: 75336
-    engagement: 113
-    commentsToLikes: 0.109799
-    id: ck8swqwmpexen0j78wz8ap21y
-    verified: false
-    hashtags: "#diafa202, #diafa2020, #lebanon, #jewelry"
-  - username: "aminatibiofficial"
-    fullname: >-
-      MissMimiFashion | Amina TIBI
-    bio: >-
-      Fashion | Lifestyle | Beauty | Motherhood Made in Morocco 🇲🇦 Based in Dubai Founder @wlidatycom
-    location: "United Arab Emirates"
-    followers: 74196
-    engagement: 300
-    commentsToLikes: 0.067664
-    id: ck0w0vv64ga6e0i19p0bkvvl5
-    verified: false
-    hashtags: "#niveapearlandbeauty, #outfitideas, #uaefashion, #dubaifashionblogger"
-  - username: "diana_alkadri369"
-    fullname: >-
-      Diana Alkadri | ديانا القادري
-    bio: >-
-      Mrs Alkhiami @zakaria_alkhiami @propagate.agency member 🗝 Interior Designer Development Manager @echo.media.sy Mother of 2 😇 Syria📍Dubai
-    location: "United Arab Emirates"
-    followers: 126873
-    engagement: 515
-    commentsToLikes: 0.011500
-    id: ck8t2ph8a09ro0j78g5tggf49
-    verified: false
-    hashtags: "#moda, #pretty, #smile, #instagram"
-  - username: "nina.ali"
-    fullname: >-
-      LipstickMommy
-    bio: >-
-      Beauty • Lifestyle • Motherhood 📍Dubai/ Austin, Texas Co-Founder @fruitcake.ae @phoenixstoredxb @ninahome2020 “No one has ever gone broke by giving”
-    location: "United Arab Emirates"
-    followers: 554958
-    engagement: 36
-    commentsToLikes: 0.096508
-    id: ck0w631w46nr10i192dtx0wr9
+    followers: 455706
+    engagement: 71
+    commentsToLikes: 0.028055
+    id: ck6tj540o20ud0j71ykcm21qo
     verified: true
-    hashtags: "#staycation, #butterfree, #thankfulness, #mylittlebutterfly"
+    hashtags: "#momslife, #findyourpace, #abudhabi"
+  - username: "kinanas"
+    fullname: >-
+      Kinana ✨كِنانة عبدالعال
+    bio: >-
+      ✨I share what inspires YOU✨ ✨أشارك ما يُلهِمُك✨ 📍Sharjah,UAE •Digital Content Creator •Certified Trainer •Motherhood, Lifestyle & Media •YouTube🔻
+    location: "United Arab Emirates"
+    followers: 56322
+    engagement: 70
+    commentsToLikes: 0.158809
+    id: ckap9hg87smqw0i78yhvyk6vj
+    verified: false
+    hashtags: "#kinanaabdulal, #kidsactivities, #sharjah, #eid"
+  - username: "asmamek"
+    fullname: >-
+      A S M A M E K N I ✨
+    bio: >-
+      🇹🇳📍Dubai 🇦🇪 Fashion | Beauty | Motherhood Property consultant & Digital manager at @fidohomes 🏡 Owner of @she_modastore 🌸 ✉️ asmamekni10@gmail.com
+    location: "United Arab Emirates"
+    followers: 357489
+    engagement: 37
+    commentsToLikes: 0.109626
+    id: ck0tv6mhba5z50i19rknph2r7
+    verified: false
+    hashtags: "#style, #fashionblogger, #ootd, #famous"
+  - username: "nirvana.abdul"
+    fullname: >-
+      Nirvana | نيرڤانا
+    bio: >-
+      Mother | 📍Dubai | Jeddah 1M+ on tiktok الاستهلاك الواعي للأزياء بالعربي 🌿
+    location: "United Arab Emirates"
+    followers: 144762
+    engagement: 34
+    commentsToLikes: 0.035993
+    id: ck0ubqrjlf1bt0i19xeajbhjs
+    verified: false
+    hashtags: "#seemyclothesonrepeat, #sustainability, #sustainablefashion, #oldoutfitoftheday"
+  - username: "mylittlelovesblog"
+    fullname: >-
+      Lisa Helly OBrien
+    bio: >-
+      • Travel • Motherhood • Lifestyle • • Humanity over everything 🇵🇸 • Raising an Irish girl gang in Dubai 🌵 @mumzworldcom code LOVES
+    location: "United Arab Emirates"
+    followers: 24820
+    engagement: 32
+    commentsToLikes: 0.005639
+    id: ckaorbreaml3z0i78h0qho7bn
+    verified: false
+    hashtags: "#dubaieats, #visitdubai, #dubaimoms, #lovindubai"
 ---

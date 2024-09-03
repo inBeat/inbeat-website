@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Seoul In 2023
+title: Top 10 Fitness Instagram Influencers In Seoul In 2024
 description: >-
-  Find top fitness Instagram influencers in Seoul in 2023. Most popular hashtags: #fitness #ootd #dailylook.
+  Find top fitness Instagram influencers in Seoul in 2024. Most popular hashtags: #fitness #ootd #workout.
 platform: Instagram
 hits: 4
-text_top: Discover the most popular Instagram profiles on inBeat.
-text_bottom: Our database holds 4 Instagram influencers like this in Seoul, South Korea for you to collaborate.
+text_top: See the most popular Instagram influencers on inBeat.
+text_bottom: inBeat aggregates 4 Instagram influencers like this in Seoul, South Korea for you to connect with.
 profiles:
   - username: "glam_dana"
     fullname: >-
@@ -19,18 +19,18 @@ profiles:
     id: ck6uiejgjemip0j71e2w2sfil
     verified: false
     hashtags: "#fitness, #gym, #bodycheck, #dailylook"
-  - username: "taelaraa"
+  - username: "da_yeon_flower"
     fullname: >-
-      Dilara ILGAZ
+      쇼호스트 윤다연 🇰🇷
     bio: >-
-      #모델 #model 촬영문의 ⤵️ 📩 이메일:anj-ent@naver.com ☎️연락처 (백철호): +82 010-7455-0175
+      운동하는 프로 N잡러💗
     location: "South Korea"
-    followers: 7566
-    engagement: 1016
-    commentsToLikes: 0.029799
-    id: ck8t2ajzoyqub0j78rmpoc531
+    followers: 41610
+    engagement: 56
+    commentsToLikes: 0.044872
+    id: ck5hpahprr14j0i118q45ubxg
     verified: false
-    hashtags: "#girl, #me, #makeup, #taelara"
+    hashtags: "#korea, #3c, #f4f, #fitness"
   - username: "boonkaewnaree"
     fullname: >-
       Boonmeemagert Kaewnaree J. 陈水铭
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.053434
     id: ck6uc3401d7zp0j714ryzyutw
     verified: false
-    hashtags: "#instagood, #boy, #koreanfashion, #lifestyle"
+    hashtags: "#travelling, #life, #blogger, #singapore"
   - username: "502bright"
     fullname: >-
       차현승🇰🇷(Cha HyunSeung)
@@ -55,6 +55,30 @@ profiles:
     id: ck5hpabjor0qs0i11zzloa4yc
     verified: true
     hashtags: "#dancer, #ulkin, #fashionshow, #model"
+  - username: "julienkang"
+    fullname: >-
+      줄리엔강
+    bio: >-
+      Fitness • Travel • Food • Life 🇰🇷🇫🇷🇨🇦
+    location: "South Korea"
+    followers: 118922
+    engagement: 295
+    commentsToLikes: 0.008698
+    id: ckaoy1e9tfnns0i783h3ykym3
+    verified: true
+    hashtags: "#workout, #tanning, #gym, #fitness"
+  - username: "euddeume_"
+    fullname: >-
+      심으뜸
+    bio: >-
+      contact📩 fitnessfm11@gmail.com @vivliv_official @__domdomi
+    location: "South Korea"
+    followers: 782265
+    engagement: 158
+    commentsToLikes: 0.009884
+    id: ckaosw6hxtadc0i78xirf6mhk
+    verified: true
+    hashtags: "#popup, #teslamodels, #coachkorea, #couragetobereal"
   - username: "wo.om"
     fullname: >-
       우미미🍑움쌤
@@ -103,28 +127,4 @@ profiles:
     id: ck5hlvjyokxy90i11u2zxn29k
     verified: false
     hashtags: ""
-  - username: "jinyfit_true"
-    fullname: >-
-      팀트루짐-TEAM TRUE 신정진
-    bio: >-
-      ▪️Professional PT @fitness.true ▪️지니핏의류마켓 @jinyfit09
-    location: "South Korea"
-    followers: 62653
-    engagement: 72
-    commentsToLikes: 0.033779
-    id: ck14gy8nw7lw20i19zcm2kmqt
-    verified: false
-    hashtags: "#2021season, #herecomestheday"
-  - username: "dooice"
-    fullname: >-
-      강두형  dooice
-    bio: >-
-      MODEL/FASHION/FITNESS/COMMERCIAL MODEL/ 두이스 제품 문의 언제든 편하게 DM 주세요📮 @dooice_official
-    location: "South Korea"
-    followers: 41424
-    engagement: 274
-    commentsToLikes: 0.015449
-    id: ck5q2550nebge0i11tloacp7l
-    verified: false
-    hashtags: "#ebbetsfield, #merrychristmas"
 ---

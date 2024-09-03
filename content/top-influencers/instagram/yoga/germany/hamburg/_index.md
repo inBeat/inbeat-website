@@ -1,11 +1,11 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Hamburg In 2023
+title: Top 10 Yoga Instagram Influencers In Hamburg In 2024
 description: >-
-  Find top yoga Instagram influencers in Hamburg in 2023. Most popular hashtags: #hamburg #yoga #blogger #homeoffice.
+  Find top yoga Instagram influencers in Hamburg in 2024. Most popular hashtags: #hamburg #yoga #fitness #ootd.
 platform: Instagram
-hits: 27
-text_top: Discover the best Instagram profiles on inBeat.
-text_bottom: Our search engine has 27 Instagram influencers like this in Hamburg, Germany for you to collaborate.
+hits: 41
+text_top: Identify the top-rated Instagram influencers on inBeat.
+text_bottom: Our database has 41 Instagram influencers like this in Hamburg, Germany for you to contact.
 profiles:
   - username: "sanae.decker"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.054983
     id: ck8swofawepvm0j78mdg3uwat
     verified: false
-    hashtags: "#fitnessdeutschland, #yogadeutschland, #powerfrau, #humandesigndeutschland"
+    hashtags: "#yogaleben, #fitfamde, #dehnen, #activetogether"
   - username: "stefani.stretch"
     fullname: >-
       Stefani
@@ -30,43 +30,79 @@ profiles:
     commentsToLikes: 0.067406
     id: ckaougdt705j20i78rk8ewadq
     verified: false
-    hashtags: "#tbt, #rhythmischesportgymnastik, #stretchingd, #stefanistretch"
+    hashtags: "#stefanistretch, #stretchingd, #rsg, #tbt"
+  - username: "carina_witthoeft"
+    fullname: >-
+      Carina Witthöft
+    bio: >-
+      @cwpurecourt
+    location: "Germany"
+    followers: 61894
+    engagement: 141
+    commentsToLikes: 0.020181
+    id: ckmw1c1tj65fy0j23kqhv9c51
+    verified: false
+    hashtags: "#portrait, #filmfeed, #yogainspiration, #witthoeft"
+  - username: "kristina.stroeh"
+    fullname: >-
+      kristina stroeh
+    bio: >-
+      [kristina.ahoi] Interior Design & Art Lover | Passionate Yoga Instructor & Student 📍Hamburg
+    location: "Germany"
+    followers: 96384
+    engagement: 1
+    commentsToLikes: 0.000000
+    id: ck5zkeofyjce40i14x8rdfxqc
+    verified: false
+    hashtags: "#solebich, #sofadesign, #psychedelicexperience, #sofas"
+  - username: "lucy.nicholass"
+    fullname: >-
+      Lucy Nicholas♒️
+    bio: >-
+      Itsallinyourmind | 🌱 | Lucerne ▪️ @der.sonneentgegen ▪️ @neumcollective @kurzbild ▪️ @tntlucerne come through monday 8pm
+    location: "Germany"
+    followers: 2517
+    engagement: 1063
+    commentsToLikes: 0.062435
+    id: ckap0m0zoqwca0i78lhc7tddg
+    verified: false
+    hashtags: "#choreography, #surfing, #molietsbeach, #surf"
   - username: "beyondbendy_lea"
     fullname: >-
       Lea
     bio: >-
-      • Certified Flexibility, Aerial Yoga & Pole Instructor • Based in Hamburg, Germany • Online Flexibility Classes 💗 Live & On Demand
+      • Certified Flexibility, Aerial Yoga & Pole Instructor • Based in Hamburg, Germany • 35 follow-along Flexibility Classes 💗 On Demand
     location: "Germany"
-    followers: 2800
-    engagement: 1044
-    commentsToLikes: 0.052239
+    followers: 2709
+    engagement: 1080
+    commentsToLikes: 0.056439
     id: ck6tw3naipttp0j71m9221r5g
     verified: false
-    hashtags: "#bendyback, #photography, #movingartimages, #poledance"
-  - username: "its___carl"
+    hashtags: "#poleart, #activeflexibility, #training, #standingsplit"
+  - username: "elli_hachmann"
     fullname: >-
-      Caroline 🌞 カロリネ
+      Elli Hachmann
     bio: >-
-      Just a girl that likes to travel ✈️ nature 🌱 the ocean 🌊 hugging trees 🌳 dreaming 🔮 and yoga 🧘🏻‍♀️ based in Hamburg, Germany 🇩🇪
+      Female Strength Coach & Gym Owner 📍Hamburg @friendship_gym_hamburg 👧👶Mom of 2 ⬇️Online Coaching
     location: "Germany"
-    followers: 15540
-    engagement: 343
-    commentsToLikes: 0.078806
-    id: ckf5qri62abxs0j239o2yl0qj
+    followers: 10192
+    engagement: 249
+    commentsToLikes: 0.029702
+    id: cktorkvirfde90j23fwtfc9j2
     verified: false
-    hashtags: "#practiceandalliscoming, #loveandalliscoming, #yogadeutschland, #onandoffthemat"
-  - username: "ginii__binii"
+    hashtags: "#fitnessmotivation, #lifeandweightlifting, #momswholift, #girlswholift"
+  - username: "simply.martina"
     fullname: >-
-      Gina Heinrich
+      Martina Funk
     bio: >-
-      FITNESS | ACHTSAMKEIT | LEBEN 👩🏻‍💻🌏 love what you do & make a difference ✨positive vibes 📍Stuttgart ❤️ @markfriedrich__
+      🔅 Mode & Reisen & agepositivinfluencer 🔅 🇩🇪 *1960 verheiratet 🔅 liebe Yoga & Lachen & Meer 💋
     location: "Germany"
-    followers: 3057
-    engagement: 1389
-    commentsToLikes: 0.063547
-    id: ck8tdpau849eo0j78sztwjnxh
+    followers: 9976
+    engagement: 231
+    commentsToLikes: 0.231983
+    id: clilkx8ofcvl90j08bsepq222
     verified: false
-    hashtags: "#yogaf, #fashion, #potd, #workout"
+    hashtags: "#agepositiveinfluencer, #womanstyles, #bestagermodel, #agepositivemodel"
   - username: "sarahstehrs"
     fullname: >-
       hey i'm Sarah
@@ -90,41 +126,5 @@ profiles:
     commentsToLikes: 0.026836
     id: ck8tc30h7y3po0j78eo1gm6wi
     verified: false
-    hashtags: "#gymlife, #healthy, #fitspo, #instame"
-  - username: "vivien.hin"
-    fullname: >-
-      VIVIEN
-    bio: >-
-      Hamburg
-    location: "Germany"
-    followers: 14137
-    engagement: 192
-    commentsToLikes: 0.044167
-    id: ck0tv3v3k9tgh0i19yjwnvojr
-    verified: false
-    hashtags: "#me, #germanblogger, #swimwear, #goals"
-  - username: "sorayas_world"
-    fullname: >-
-      ⋆ S O R A Y A ⋆
-    bio: >-
-      Grateful sunshine soul & yoga teacher✨ Be You. #empowering Testing Vegan Goodies for you 🌱 Hamburg•Mindfulness•Sustainability info@sorayas-world.com
-    location: "Germany"
-    followers: 20495
-    engagement: 252
-    commentsToLikes: 0.040892
-    id: ck6tjjauw2twd0j71s4eikzgm
-    verified: false
-    hashtags: "#hamburgvoodguide, #hamburgveganfood, #yogapassion, #veganfoodhamburg"
-  - username: "kristina.ahoi"
-    fullname: >-
-      KRISTINA AHOI
-    bio: >-
-      decorator & content creator from hamburg interior & retail Design @ ahoi retail follow me on CH — let’s talk about interior, mindful living & yoga
-    location: "Germany"
-    followers: 41430
-    engagement: 1318
-    commentsToLikes: 0.016240
-    id: ck5zkeofyjce40i14x8rdfxqc
-    verified: false
-    hashtags: "#view, #fridaymood, #interi, #interiorinspiration"
+    hashtags: "#fitnessforlife, #instagood, #instaphoto, #gymlife"
 ---

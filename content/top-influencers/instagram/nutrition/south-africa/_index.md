@@ -1,12 +1,60 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In South Africa In 2023
+title: Top 10 Nutrition Instagram Influencers In South Africa In 2024
 description: >-
-  Find top nutrition Instagram influencers in South Africa in 2023. Most popular hashtags: #fitness #love #photography #lifestyle.
+  Find top nutrition Instagram influencers in South Africa in 2024. Most popular hashtags: #nutrition #fitness #healthylifestyle #love.
 platform: Instagram
-hits: 12
-text_top: Identify the most popular Instagram influencers on inBeat.
-text_bottom: Our database has 12 Instagram influencers like this in South Africa for you to contact.
+hits: 16
+text_top: Identify the most popular Instagram accounts on inBeat.
+text_bottom: Our search engine has 16 Instagram influencers like this in South Africa for you to pitch.
 profiles:
+  - username: "chantelle_pretorius"
+    fullname: >-
+      CHANTELLE PRETORIUS
+    bio: >-
+      📍Seoul 🇰🇷 Bookings at @uniqseoul Model • Miss SA 2020 Top 10 Finalist • Nutritionist • BCom Business Management •MA: @bossmodelsa
+    location: "South Africa"
+    followers: 21686
+    engagement: 264
+    commentsToLikes: 0.010760
+    id: ckap8c1vmnqht0i78x2i5s2fy
+    verified: false
+    hashtags: "#thatview, #view, #happyplace, #happyme"
+  - username: "elena_pappas"
+    fullname: >-
+      Elena Pappas Gishen
+    bio: >-
+      Founder of BodE | Online workouts 💪🏽 HIIT & Sculpt 💥 Barre 🧘🏼‍♀️ Yoga 🤸🏽‍♀️ Yoga HIIT 👣 Pilates 🤰🏽 Pregnancy 👩🏾‍🍼 Postpartum 🍏@bode.nutrition
+    location: "South Africa"
+    followers: 43484
+    engagement: 126
+    commentsToLikes: 0.050201
+    id: ck6tp7jjfi9jx0j71377rojj2
+    verified: false
+    hashtags: "#myphytofix, #views"
+  - username: "kaminipather"
+    fullname: >-
+      Kamini Like Harmony
+    bio: >-
+      Host of #GirlEatWorldTV @Netflix @MasterChef_SA winner S2 @nutritionschool certified Nutrition & Health Coach Runner. Dog-person.
+    location: "South Africa"
+    followers: 37230
+    engagement: 89
+    commentsToLikes: 0.050337
+    id: ckaost6k2szaw0i78ocytqyhn
+    verified: true
+    hashtags: "#wine, #run, #cooking, #runrunrun"
+  - username: "healthylivingwithdaniella"
+    fullname: >-
+      Daniella Lagerwey | Health Coach
+    bio: >-
+      pregnancy & postpartum app coming soon…🤰🏼🌸 🟢 live | mommy & me workout’s | every wed @ 10am (SAST) 1:1 coaching ~ exercise & nutrition ⬇️
+    location: "South Africa"
+    followers: 24289
+    engagement: 85
+    commentsToLikes: 0.046681
+    id: ck134auo1vjdw0i19kli26zby
+    verified: false
+    hashtags: "#theonlywayisthrough, #healthylifestyle, #postpartumfitness, #pregnancynutrition"
   - username: "tracymcgregor"
     fullname: >-
       Tracy McGregor
@@ -19,18 +67,42 @@ profiles:
     id: ck6ue97chpjuk0j71p6xoc0mx
     verified: false
     hashtags: "#blogger, #photographer, #mom, #picoftheday"
-  - username: "chantelle_pretorius"
+  - username: "juakhumalo"
     fullname: >-
-      CHANTELLE PRETORIUS
+      Juanita K. Khumalo
     bio: >-
-      International Model • Miss SA 2020 Top 10 Finalist • Nutritionist • BCom Business Management Mother Agency - @bossmodelsa -Romans 8:18
+      Mental Health Advocate 🧠 @trovewellness Founder @fitlifemagsa Cover Girl @brandsouthafrica Ambassador @cosmopolitansa Best Wellness Influencer
     location: "South Africa"
-    followers: 22026
-    engagement: 413
-    commentsToLikes: 0.012713
-    id: ckap8c1vmnqht0i78x2i5s2fy
+    followers: 46988
+    engagement: 122
+    commentsToLikes: 0.081578
+    id: ck5zt85bxzwz70i14g08qav66
     verified: false
-    hashtags: "#health, #southafrica, #weekendaway, #thatview"
+    hashtags: "#tuesdayvibes, #bbbakeries, #tuesdaymotivation, #hydrate"
+  - username: "coach_essie"
+    fullname: >-
+      Stefan Estment
+    bio: >-
+      Aesthetics Coach #fitdad #MR #AB ❤️ @ssa_supplements Athlete Coaching record: 100+ 🥇 50+ 🥈 5 x Pro Athletes 2 x Pro 🥇
+    location: "South Africa"
+    followers: 44234
+    engagement: 38
+    commentsToLikes: 0.028800
+    id: ck134xefhynru0i19og66qqwo
+    verified: false
+    hashtags: "#photooftheday, #life, #picoftheday, #instalike"
+  - username: "bycoachvee"
+    fullname: >-
+      Women's Fitness and Wellness Coach
+    bio: >-
+      🔥I boost women's body and self-confidence without limiting their lives or food choices. @thevixenmovement @the_vixenstudio 🦊 Click below to start 👇🏻💓
+    location: "South Africa"
+    followers: 29712
+    engagement: 68
+    commentsToLikes: 0.209957
+    id: ck134xcdaynii0i197pvk6juj
+    verified: false
+    hashtags: "#healthylifestyle, #healthyliving, #fitnessjourney, #fitlife"
   - username: "alex_robinho"
     fullname: >-
       Alex_⭐️Robinho🌟
@@ -55,76 +127,4 @@ profiles:
     id: ck9wf0mthmqwo0j788ojfhslx
     verified: false
     hashtags: "#africa, #portraits, #ig, #madagascar"
-  - username: "ricky_schroeder"
-    fullname: >-
-      Ricky Schroeder
-    bio: >-
-      • Former Pro Rugby Player🏉 • Making Radio at @kfmza 📻 • @supersporttv Rugby Commentator🎙 • Making TV at #TussenOns 📺 • MC🎤 • @_rds_entertainment
-    location: "South Africa"
-    followers: 13314
-    engagement: 380
-    commentsToLikes: 0.034613
-    id: ckaotbsqzv7xk0i787hw9tj2z
-    verified: false
-    hashtags: "#joy, #makingtv, #purpose, #tv"
-  - username: "african_mommy"
-    fullname: >-
-      A Forum Empowering Moms
-    bio: >-
-      Founder @shilondigital *Empowering Moms and Women *African women community *💑👪🥗🏊👑 *Positive African Culture CLICK 👇🏿 to join DM for Ad rate
-    location: "South Africa"
-    followers: 67426
-    engagement: 77
-    commentsToLikes: 0.073493
-    id: ckf5niv4tyfii0j23lhiu8bmh
-    verified: false
-    hashtags: "#blackexcellence, #africanmommy, #mondayvibes, #inspiremyinstagram"
-  - username: "andrelotter"
-    fullname: >-
-      Andre Lotter
-    bio: >-
-      @alphacbd_sa Discount code: LOT10 Royalty Soapie Award winning Actor,Played Liam le Roux in Villa Rosa, RICKUS WELMAN IN 7DE LAAN.
-    location: "South Africa"
-    followers: 44023
-    engagement: 256
-    commentsToLikes: 0.014261
-    id: ck6trihsgz6nl0j71hrlutcvy
-    verified: false
-    hashtags: "#food, #repost, #rickus, #love"
-  - username: "redaadollie"
-    fullname: >-
-      Redaa Dollie
-    bio: >-
-      
-    location: "South Africa"
-    followers: 13482
-    engagement: 717
-    commentsToLikes: 0.126015
-    id: ck5zmwc65nbvv0i14amosljqt
-    verified: false
-    hashtags: "#hometeam"
-  - username: "shaaista_kathree"
-    fullname: >-
-      Shaa'ista Kathree
-    bio: >-
-      • Kale munching modest dresser • Inspiring and being inspired • Gateway Ambassador ‘19/‘20 • 💍 @pupu15 , 👦🏻👧🏻🐕🦛 • Durban, South Africa
-    location: "South Africa"
-    followers: 9576
-    engagement: 451
-    commentsToLikes: 0.032706
-    id: ck136ii0q6ncj0i19hotk0q93
-    verified: false
-    hashtags: "#futurelifebeautifood, #ad, #mygateway"
-  - username: "the_foodpassionista"
-    fullname: >-
-      нαѕєєηα
-    bio: >-
-      A glimpse of what is served on MY TABLE.. Simple, Easy & Everyday Meals Welcome to MY KITCHEN.. Durban, South Africa 🇿🇦
-    location: "South Africa"
-    followers: 33194
-    engagement: 175
-    commentsToLikes: 0.029729
-    id: ck0w5b5782sf20i19qci0jlqt
-    verified: false
-    hashtags: "#buzzfeast, #instaeats, #foodblogfeed, #photography"
 ---

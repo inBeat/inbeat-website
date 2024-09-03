@@ -1,12 +1,108 @@
 ---
-title: Top 10 Instagram Influencers In London In 2023
+title: Top 10 Instagram Influencers In London In 2024
 description: >-
-  Find top Instagram influencers in London in 2023. Most popular hashtags: #blackouttuesday #fitness #explore.
+  Find top Instagram influencers in London in 2024. Most popular hashtags: #londonlife #blackouttuesday #londonreviewed.
 platform: Instagram
-hits: 5729
-text_top: See the top-rated Instagram accounts on inBeat.
-text_bottom: Our database aggregates 5729 Instagram influencers like this in London, United Kingdom for you to contact.
+hits: 7412
+text_top: Discover the best Instagram accounts on inBeat.
+text_bottom: Our database aggregates 7412 Instagram influencers like this in London, United Kingdom for you to connect with.
 profiles:
+  - username: "mukeninel"
+    fullname: >-
+      Mukeni Nel
+    bio: >-
+      :) London 🇬🇧
+    location: "United Kingdom"
+    followers: 15552
+    engagement: 1148
+    commentsToLikes: 0.010753
+    id: clid5n2n4z9hh0j080u3qs7o6
+    verified: false
+    hashtags: "#technicaljazz, #stagedebutawards, #bleach, #hairdye"
+  - username: "mxch.mxch"
+    fullname: >-
+      MICHELLE ❤️‍🔥
+    bio: >-
+      London
+    location: "United Kingdom"
+    followers: 17765
+    engagement: 1180
+    commentsToLikes: 0.105580
+    id: cln7vfwzqtc6l0j08il0aim1y
+    verified: false
+    hashtags: ""
+  - username: "yannick_konan"
+    fullname: >-
+      Yannick Konan
+    bio: >-
+      London 🇬🇧
+    location: "United Kingdom"
+    followers: 122565
+    engagement: 384
+    commentsToLikes: 0.014225
+    id: ck13caoi9zf5t0i198pi828q0
+    verified: false
+    hashtags: "#ad, #palaisbullesvillapierrecardin, #burberryhero, #ashluxe"
+  - username: "oliviapezzente"
+    fullname: >-
+      liv
+    bio: >-
+      london
+    location: "United Kingdom"
+    followers: 83245
+    engagement: 513
+    commentsToLikes: 0.009026
+    id: ck6uaxjf569450j71nl4phhte
+    verified: false
+    hashtags: "#harrods, #cketernity, #uggseason, #uggpartner"
+  - username: "alessiobolzoni"
+    fullname: >-
+      alessiobolzoni
+    bio: >-
+      London
+    location: "United Kingdom"
+    followers: 27049
+    engagement: 106
+    commentsToLikes: 0.015333
+    id: ck0ue3hzpkif20i19bttz1uo6
+    verified: false
+    hashtags: ""
+  - username: "hugotaylorlondon"
+    fullname: >-
+      ʜᴜɢᴏ ᴛᴀyʟᴏʀ
+    bio: >-
+      London 🇬🇧
+    location: "United Kingdom"
+    followers: 243260
+    engagement: 185
+    commentsToLikes: 0.009196
+    id: ck55k669iyk6v0i11vghivhrw
+    verified: true
+    hashtags: "#dubai, #nofilter, #babylonmovie, #mauritius"
+  - username: "delafard"
+    fullname: >-
+      DELA FARD
+    bio: >-
+      London
+    location: "United Kingdom"
+    followers: 194196
+    engagement: 54
+    commentsToLikes: 0.005448
+    id: ck0tubldu6gym0i197bz7yflr
+    verified: false
+    hashtags: "#paristexas, #paristexaslidia"
+  - username: "london"
+    fullname: >-
+      @LONDON • #ThisIsLondon
+    bio: >-
+      @MrLondon + @Alice.Sampo TELLING LONDON’S STORY BEAUTIFULLY @OpenRoundGolf - Open Golf Network & Events🏌🏽‍♂️ 🎟️ CONNECT at The Yards👇🏼
+    location: "United Kingdom"
+    followers: 3003767
+    engagement: 33
+    commentsToLikes: 0.042079
+    id: ck0ttl2cg37g20i19w697uzos
+    verified: true
+    hashtags: "#londra, #sicilyfest2024, #uk, #londres"
   - username: "molliejaggers"
     fullname: >-
       molz🧝🏼‍♀️16
@@ -31,100 +127,4 @@ profiles:
     id: ck0u18xfcw3ii0i19f5ycfkn3
     verified: false
     hashtags: "#blackouttuesday, #repost"
-  - username: "v1c_torr3"
-    fullname: >-
-      Victor Jimenez
-    bio: >-
-      London 🇬🇧-🇪🇨
-    location: "United Kingdom"
-    followers: 2313
-    engagement: 3073
-    commentsToLikes: 0.097453
-    id: ckf5lv2mcr5540j23y4wgnp8v
-    verified: false
-    hashtags: "#hotmen, #gaypride, #spring2020, #instapic"
-  - username: "curly.soph"
-    fullname: >-
-      $øphïe🐉
-    bio: >-
-      London🇬🇧
-    location: "United Kingdom"
-    followers: 62757
-    engagement: 806
-    commentsToLikes: 0.012984
-    id: ckaoxe63kcvgm0i78t344sk7f
-    verified: false
-    hashtags: "#curly, #curlyhair, #curlyhairstyles, #explorepage"
-  - username: "avahirons"
-    fullname: >-
-      🧚🏼‍♀️ava rae
-    bio: >-
-      london
-    location: "United Kingdom"
-    followers: 10749
-    engagement: 1648
-    commentsToLikes: 0.020755
-    id: ckap8682on05n0i78hncuy0wx
-    verified: false
-    hashtags: ""
-  - username: "jordanshawuk"
-    fullname: >-
-      J O R D A N  S H A W.
-    bio: >-
-      London 🇬🇧
-    location: "United Kingdom"
-    followers: 5806
-    engagement: 1246
-    commentsToLikes: 0.048340
-    id: ck137woshdfd60i19zo6zgnfy
-    verified: false
-    hashtags: "#travel, #menstyle, #blackmen, #mensfashion"
-  - username: "_panda_xx"
-    fullname: >-
-      
-    bio: >-
-      London
-    location: "United Kingdom"
-    followers: 3847
-    engagement: 1556
-    commentsToLikes: 0.089968
-    id: ck6u5qfsub4ur0j71kpe6p8pz
-    verified: false
-    hashtags: "#throwback, #priorities, #happybirthday, #grateful"
-  - username: "abbjje"
-    fullname: >-
-      Abbie 🦋🧿
-    bio: >-
-      London
-    location: "United Kingdom"
-    followers: 12510
-    engagement: 418
-    commentsToLikes: 0.182005
-    id: ck5c4qt801whg0i11ywfz8yad
-    verified: false
-    hashtags: "#reels, #hairtransformation, #explore, #ootd"
-  - username: "4sfernandez"
-    fullname: >-
-      Sofia
-    bio: >-
-      🇪🇸 London
-    location: "United Kingdom"
-    followers: 4062
-    engagement: 1434
-    commentsToLikes: 0.070872
-    id: ckf5mw18cvnmx0j23p35vcz91
-    verified: false
-    hashtags: "#exploremore, #bodysculpting, #bbl, #dreambig"
-  - username: "poppythomas"
-    fullname: >-
-      
-    bio: >-
-      London
-    location: "United Kingdom"
-    followers: 3826
-    engagement: 1532
-    commentsToLikes: 0.063837
-    id: ckapbt7s419bv0i78up9l52mb
-    verified: false
-    hashtags: ""
 ---

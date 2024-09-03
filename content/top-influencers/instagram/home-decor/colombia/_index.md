@@ -1,11 +1,11 @@
 ---
-title: Top 10 Home Decor Instagram Influencers In Colombia In 2023
+title: Top 10 Home Decor Instagram Influencers In Colombia In 2024
 description: >-
-  Find top home decor Instagram influencers in Colombia in 2023. Most popular hashtags: #homedecor #colombia #interiordesign #travel.
+  Find top home decor Instagram influencers in Colombia in 2024. Most popular hashtags: #homedecor #interiordesign #hechoamano.
 platform: Instagram
-hits: 14
-text_top: See the most popular Instagram profiles on inBeat.
-text_bottom: Our database has 14 Instagram influencers like this in Colombia for you to connect with.
+hits: 19
+text_top: Identify the best Instagram profiles on inBeat.
+text_bottom: inBeat has 19 Instagram influencers like this in Colombia for you to work with.
 profiles:
   - username: "camilab02"
     fullname: >-
@@ -19,30 +19,30 @@ profiles:
     id: ckap8avl4nl9t0i789g19rh25
     verified: false
     hashtags: "#aqu"
-  - username: "isabelvesga"
+  - username: "rossalbamolina"
     fullname: >-
-      Isa • Designer | Styling
+      A.k.a La Buena Loca | Composer & Networker
     bio: >-
-      Colombian babe 🌈 Lifestyle | Travel | Outfits ⚡️ Founder @itsmariavesga @elementumdesign Links 👇🏽✨
+      Comprometida con Dios 🤍 Adoradora 🎙️ Networker 📈@latinbillionaire_ CEO @myangelnature & @myangelbeautyplace 📍 Philadelphia
     location: "Colombia"
-    followers: 9917
-    engagement: 453
-    commentsToLikes: 0.042405
-    id: ck8tcsh2n0i9l0j78rd38d8tm
+    followers: 1217126
+    engagement: 187
+    commentsToLikes: 0.027714
+    id: ck0w1ot6qke5e0i1981pvl8nx
     verified: false
-    hashtags: "#blondebalayage, #sheingals, #travel, #makeuplooks"
-  - username: "estelamaca"
+    hashtags: "#labuenaloca, #rossalbamolina, #bathroomdesign, #cafe"
+  - username: "masquespacio_ana"
     fullname: >-
-      🍂 Estela - Deco & Vida -
+      Ana Milena Hernandez
     bio: >-
-      ᴅᴇᴄᴏʀᴏ ᴘᴀʀᴀ ǫᴜᴇ ᴛú ᴅᴇᴄᴏʀᴇs Me apasiona la decoración, soy adicta al chocolate y creo en el amor sobre todas las cosas. 🔻 ᴛᴏᴅᴏs ᴍɪs ᴇɴʟᴀᴄᴇs ᴀǫᴜí 🔻
+      COLOMBIAN, LIVING IN SPAIN AND WORKING AROUND THE WORLD ART DIRECTOR>>CO FUNDER #masquespacio @mascreationsworld>>>
     location: "Colombia"
-    followers: 40383
-    engagement: 484
-    commentsToLikes: 0.049553
-    id: ck6tsa9ns3mn20j71tjzqg63y
+    followers: 239168
+    engagement: 60
+    commentsToLikes: 0.014294
+    id: ck15uvgqvop6a0i19n9h4hfbl
     verified: false
-    hashtags: "#scandinaviankitchen, #instadesign, #decointerior, #muebles"
+    hashtags: "#architecturedesign, #interior, #interiordecor, #design"
   - username: "vlasna"
     fullname: >-
       ↟↟↟ Natasha Vlasenco ↟↟↟
@@ -79,18 +79,42 @@ profiles:
     id: ck0w2f5mmo1sd0i19rpny8st1
     verified: false
     hashtags: "#sustainabledesign, #textilescolombia, #bags, #fiberrugs"
-  - username: "sophiegiraldo"
+  - username: "danarenas"
     fullname: >-
-      Sophie ♡
+      Daniel Arenas
     bio: >-
-      BEAUTY | FASHION | MINDFULNESS My book: Tú eres imparable ✨ 📩: sophiegiraldo@dcinfluencers.com
+      CON DIOS TODO SIN DIOS NADA✨
     location: "Colombia"
-    followers: 1455715
-    engagement: 289
-    commentsToLikes: 0.004677
-    id: ckap4ed9o6zlw0i7834eonjl7
+    followers: 2220223
+    engagement: 120
+    commentsToLikes: 0.077027
+    id: ck13dblqy4mkz0i197hj9xxe1
     verified: true
-    hashtags: "#beconfident, #homedecor, #reels, #organization"
+    hashtags: "#pandemia, #homedecor, #eugenioderbez, #celebridades"
+  - username: "jubenach"
+    fullname: >-
+      Júlia Benach
+    bio: >-
+      Conscious lifestyle🌱#socialresponsability 🐱@vito.catleone Talents Manager, PR & Comms✨ Adverts | Strategy | Branding 📍#Penedès🍷
+    location: "Colombia"
+    followers: 23441
+    engagement: 15
+    commentsToLikes: 0.015138
+    id: ckf5nbz4bxm1t0j23rnc1o9a8
+    verified: false
+    hashtags: "#gifted, #ragdollsofinstagram, #misideasleroymerlin, #belleza"
+  - username: "paulabaset"
+    fullname: >-
+      Paula Baset
+    bio: >-
+      Paula Fernández 📩 pausfdez@hotmail.com Art work @paulabasetart Freelance Photographer @paulabasetfoto Stylist, Art Director 🫶 👩🏼‍🍳 Amateur -
+    location: "Colombia"
+    followers: 51339
+    engagement: 22
+    commentsToLikes: 0.004982
+    id: ck55nwejy74sj0i11f9rkmvfb
+    verified: false
+    hashtags: "#outfitpost, #sundayvibes, #lookcasual, #haul"
   - username: "brayanyalejandro"
     fullname: >-
       Lejo
@@ -103,28 +127,4 @@ profiles:
     id: ck13aawduphq20i1943st8aht
     verified: false
     hashtags: "#journal, #nature, #film, #life"
-  - username: "stephanieolivier"
-    fullname: >-
-      Stephanie Olivier ♛
-    bio: >-
-      GENEVA🇨🇭| LONDON 🇬🇧|📍 ғaѕнιon | тravel | ѕнoppιng Founder & Owner @s.o__cosmetics Swiss & Colombian
-    location: "Colombia"
-    followers: 55237
-    engagement: 306
-    commentsToLikes: 0.061051
-    id: ckf5spow4g1nn0j23rglmp709
-    verified: false
-    hashtags: "#ootd, #mood, #caribbean, #outfits"
-  - username: "casatiz"
-    fullname: >-
-      casatiz- recetas y mesas
-    bio: >-
-      🐓: Mamá 👩🏼‍🍳: Cocinera 🍽: Mesas 📖: Historias y recetas 🚴🏻‍♀️: Ciclista recreativa 📍: Medellín 💛: No vendo; comparto y recomiendo
-    location: "Colombia"
-    followers: 74835
-    engagement: 116
-    commentsToLikes: 0.053488
-    id: ck6u0siddhi470j71dtumm6nf
-    verified: false
-    hashtags: "#mesascasatiz, #mesasbonitas, #tabledecor, #casatiz"
 ---

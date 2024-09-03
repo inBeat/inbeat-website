@@ -1,24 +1,48 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Toronto In 2023
+title: Top 10 Fitness Instagram Influencers In Toronto In 2024
 description: >-
-  Find top fitness Instagram influencers in Toronto in 2023. Most popular hashtags: #toronto #fitness #love #workout.
+  Find top fitness Instagram influencers in Toronto in 2024. Most popular hashtags: #fitness #mensfashion #toronto #fashion.
 platform: Instagram
-hits: 49
-text_top: Identify the best Instagram influencers on inBeat.
-text_bottom: Our platform has 49 Instagram influencers like this in Toronto, Canada for you to work with.
+hits: 105
+text_top: Discover the most popular Instagram profiles on inBeat.
+text_bottom: Our platform holds 105 Instagram influencers like this in Toronto, Canada for you to pitch.
 profiles:
-  - username: "mariapapadakiss"
+  - username: "roxymclachlan"
     fullname: >-
-      Maria Papadakis
+      Roxy Mc Lachlan
     bio: >-
-      🎥 Digital Host & In Stadium Host | @torontofc 🎬 Producer | MLSE 💪🏼 Trainer & Healthy Eating Advocate
+      FAT LOSS & NUTRITION COACH Expect to become strong, sexy & confident - mind & body! View HIGHLIGHTS for lifelong results🫶🏼 Apply for Coaching👇🏽
     location: "Canada"
-    followers: 5282
-    engagement: 1155
-    commentsToLikes: 0.046551
-    id: ck5bw8ylgl8e70i11csi5gtz1
+    followers: 10225
+    engagement: 348
+    commentsToLikes: 0.120437
+    id: cl5l2ib9e8gir0i23cilpq2wo
     verified: false
-    hashtags: "#ootd, #toronto, #healthyplanet, #torontolife"
+    hashtags: "#gymtips, #fitnesstoronto, #skyfitness, #coach"
+  - username: "daksthetics"
+    fullname: >-
+      Dakota Unrau
+    bio: >-
+      🇨🇦 Niagara | Toronto 🧐 McGill HBSc Kinesiology 💊 @jackedfactory code: DAKOTA 🦍 585/495/625
+    location: "Canada"
+    followers: 50193
+    engagement: 228
+    commentsToLikes: 0.017468
+    id: ck5hjxqd9hfmr0i11sgngiw8b
+    verified: false
+    hashtags: "#physique, #armwrestler, #jednorth, #gymlife"
+  - username: "minaj.mp"
+    fullname: >-
+      Minaj Bakh
+    bio: >-
+      📍Toronto/Miami Skin Care Therapist 👩‍🔬|beauty PRO|creative director|published Model / Marketing specialist 💜💍
+    location: "Canada"
+    followers: 86376
+    engagement: 95
+    commentsToLikes: 0.036802
+    id: ckaotndqcwn0x0i78myma80eh
+    verified: false
+    hashtags: "#beauty, #fashion, #model, #follow"
   - username: "shreddedd_chicken"
     fullname: >-
       Ron Lee Fitness
@@ -43,18 +67,18 @@ profiles:
     id: ck5zpb8skscgu0i14joey1v2w
     verified: true
     hashtags: "#hollywood, #godfirst, #love, #happybirthday"
-  - username: "ashnaubbi"
+  - username: "elitedanceworx"
     fullname: >-
-      ASHNA UBBI (klumsyclosett)
+      Elite Danceworx
     bio: >-
-      📍Toronto Fitness: @ashnaub ashnaubb@gmail.com
+      Markham's Best Dance School- ages 2& up. General Level & Professional level programs. SIGN UP FOR SUMMER CAMPS, INTENSIVES & FALL GENERAL CLASSES ⬇️
     location: "Canada"
-    followers: 247199
-    engagement: 129
-    commentsToLikes: 0.013006
-    id: ck8t8fwvckbdq0j78iqrkhw2w
+    followers: 17659
+    engagement: 166
+    commentsToLikes: 0.047543
+    id: ck0txim2djak90i19zjljmt3i
     verified: false
-    hashtags: "#reelsinstagram, #makeupoftheday, #skincaretips, #makeuproutines"
+    hashtags: "#danceontario, #danceisessential, #danceisnecessary, #dancesafeontario"
   - username: "arsh.bhullar"
     fullname: >-
       Arsh Bhullar ✅
@@ -66,65 +90,41 @@ profiles:
     commentsToLikes: 0.015002
     id: ck5q1x07xd6vd0i11n25zwx99
     verified: false
-    hashtags: "#kisaanmajdoorektazindabad, #malemodel, #trending, #musicvideo"
-  - username: "taylorxcross"
+    hashtags: "#actor, #karanaujla, #modellife, #instagood"
+  - username: "stracey1"
     fullname: >-
-      Taylor Cross
+      Stephen Tracey🇨🇦🇮🇪
     bio: >-
-      🇨🇦 Canada. 🥇 Classic Physique 🥦 @hd.muscle Athlete code: CROSS 🏊🏼‍♂️ Commercial Diver/ Underwater Welder 👨‍🏭
+      From the farm to the runway Actor/Model •@annewithane 👨🏻 •@expanseonprime 🧑🏻‍🚀 S5 •Toronto •IHOP The Talent House 6829
     location: "Canada"
-    followers: 16398
-    engagement: 206
-    commentsToLikes: 0.110018
-    id: ck8syvtfdm7ft0j78ugrn2b83
+    followers: 137247
+    engagement: 488
+    commentsToLikes: 0.007521
+    id: ck6006a2xd0yo0i1405ll8nyz
     verified: false
-    hashtags: ""
-  - username: "nate.k.weir"
+    hashtags: "#fashionphotography, #portrait, #nyc, #fashion"
+  - username: "teebabymama"
     fullname: >-
-      Nathan - Disney - Fitness
+      Tuyen • Toronto UGC creator 🇨🇦
     bio: >-
-      🏰 - Disney 💪 - Fitness 🎡 - Theme Park Design 🇨🇦 - Toronto, Ontario ✈️ - Orlando, Florida 💙 - @charitycorkins
+      Wife | Mama | Fitness | Lifestyle 📍 Toronto, Ontario 💌 DM/Email for collabs 🍩🍡Mochi donuts @marrymemochi 📷 @timelesstreestudios
     location: "Canada"
-    followers: 53005
-    engagement: 916
-    commentsToLikes: 0.017206
-    id: ck6uftiuzz1jk0j71jpc273ki
+    followers: 21471
+    engagement: 188
+    commentsToLikes: 0.047549
+    id: ckup2129lq9js0j2320jw7si1
     verified: false
-    hashtags: "#peterpan, #cosplay, #hufflepuff, #yyz"
-  - username: "esteffania_s"
+    hashtags: "#ad, #toronto, #montessori, #6ix"
+  - username: "dougylicious"
     fullname: >-
-      🧿 E S T E F A N N I A 📿
+      Anthony Douglas
     bio: >-
-      
+      Big Brother Canada Season 7 & 12 📍Toronto @NovaMEN ambassador Plus Size Supermodel Email for all business inquiries
     location: "Canada"
-    followers: 16840
-    engagement: 482
-    commentsToLikes: 0.055114
-    id: ckapasbj5x9x40i78wludafhr
+    followers: 118136
+    engagement: 302
+    commentsToLikes: 0.053002
+    id: ck5q8ksa26odx0i1184x82ndz
     verified: false
-    hashtags: "#instamoment, #fitfam, #goodvibesonly, #love"
-  - username: "gabrielabellydancer"
-    fullname: >-
-      Gabriela Carnovale
-    bio: >-
-      💜 Belly dancer 💃🏼 Director @abundancebellydance 🌎 Blessed 📨For bookings: DM or e-mail
-    location: "Canada"
-    followers: 26848
-    engagement: 77
-    commentsToLikes: 0.134148
-    id: ck8tax2ogtfl20j78wsc5xugc
-    verified: false
-    hashtags: "#monday, #model, #torontomodel, #creative"
-  - username: "mandyfroudefitness"
-    fullname: >-
-      Mandy Froude
-    bio: >-
-      💪🏼Online Fitness & Nutrition Coach 🏆CPA Competitor 🔥@inside_fitness Hot & Fit 💯 👙@khcustoms 💙@believesupplements 💧@themammothmug ⬇️Discount codes
-    location: "Canada"
-    followers: 10210
-    engagement: 353
-    commentsToLikes: 0.033808
-    id: ckaordok3mr1c0i78ychdbuuv
-    verified: false
-    hashtags: "#yyz, #believe, #fitlife, #rest"
+    hashtags: "#reels, #explorepage, #mensfashion, #nyfw"
 ---

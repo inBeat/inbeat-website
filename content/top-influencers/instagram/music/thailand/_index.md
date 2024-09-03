@@ -1,24 +1,84 @@
 ---
-title: Top 10 Music Instagram Influencers In Thailand In 2023
+title: Top 10 Music Instagram Influencers In Thailand In 2024
 description: >-
-  Find top music Instagram influencers in Thailand in 2023. Most popular hashtags: #bangkok #asiangirls #japanesefood.
+  Find top music Instagram influencers in Thailand in 2024. Most popular hashtags: #asiangirls #fashionstyle #muzikmove.
 platform: Instagram
-hits: 46
-text_top: Discover the top-rated Instagram profiles on inBeat.
-text_bottom: Our database has 46 Instagram influencers like this in Thailand for you to collaborate.
+hits: 51
+text_top: See the best Instagram profiles on inBeat.
+text_bottom: Our platform has 51 Instagram influencers like this in Thailand for you to contact.
 profiles:
+  - username: "pimwa"
+    fullname: >-
+      Pimwa Ouilapan
+    bio: >-
+      Health, Lifestyle & Music 🐈🤍 For Work : pimwa.o@gmail.com K. Korn 0922540208 🎬✨ตะลุยร้านเนื้อตัวท็อปโตเกียว 2024 🥩✨
+    location: "Thailand"
+    followers: 88747
+    engagement: 403
+    commentsToLikes: 0.006505
+    id: ckap93crwqz7q0i782h3x2tlw
+    verified: false
+    hashtags: "#thisisforeveryone, #sasixoxonext, #maybelline127, #secondschallenge"
+  - username: "ladiiprang"
+    fullname: >-
+      Prang Kannarun
+    bio: >-
+      4November Entertainment Music Work : 090-411-1111 (K.Fon) Manager : 089-214-2418 (K.Korn) For work ID line : @ladiiprang_work
+    location: "Thailand"
+    followers: 6527266
+    engagement: 224
+    commentsToLikes: 0.001538
+    id: ck0vw68hmsalv0i198pkf92kl
+    verified: true
+    hashtags: "#salonbondsbuildingsystem, #tresemmethailand"
   - username: "zzdaozz"
     fullname: >-
       Dao N. Simasthien✨
     bio: >-
-      Dao-ke freelance actress singer#DaoKeCanSing DJ @efm_station MC event#mcdaoke TV host #แฉข่าวเช้า Musical🎭 Work:0816015203K.อุ๋ม Line:aumaumsa
+      Daoke 92💟♾ actress Influencer MC #mcdaoke singer #DaoKeCanSing DJ @efm_station TV host Musical🎭 Work:0816015203 K.อุ๋ม Line: aumaumsa
     location: "Thailand"
-    followers: 288898
-    engagement: 494
-    commentsToLikes: 0.005895
+    followers: 625903
+    engagement: 220
+    commentsToLikes: 0.006639
     id: ck0w56o0i25ls0i19vv524ra5
     verified: true
-    hashtags: "#rebeccaminkoffthailand, #patluxurygroup, #quarantinelife, #mewbdayliveconcert"
+    hashtags: "#daokecansing, #lilyfresh, #grwm, #mcdaoke"
+  - username: "faipatthaya"
+    fullname: >-
+      Fai Patthaya
+    bio: >-
+      Artist | Interior designer | Illustrator Contact for work : DM only ติดต่องาน Boxx music 062-494-9583 02-241-4472 ต่อ 6514
+    location: "Thailand"
+    followers: 23593
+    engagement: 139
+    commentsToLikes: 0.010975
+    id: ck8sy6fmajvce0j78xz0wfoqi
+    verified: false
+    hashtags: "#gone, #boxxmusic, #faipatthaya, #faiispace"
+  - username: "kawiator_26"
+    fullname: >-
+      Kawin Thamsatchanan
+    bio: >-
+      Remember that..your character is your destiny.. Work contact... 0817331919 🔥⬇️ Kawin 's Music Cover EP.13
+    location: "Thailand"
+    followers: 855165
+    engagement: 116
+    commentsToLikes: 0.005606
+    id: ck14hlz2oazld0i19hce1xr63
+    verified: true
+    hashtags: "#warrix, #iamkawin, #exerciselikekawin, #predator"
+  - username: "angietcha"
+    fullname: >-
+      ag
+    bio: >-
+      stay you! *:･ﾟ✧*:･ﾟ✧🧚‍♀️ for work contact dm or call 081-178-8019 music identity
+    location: "Thailand"
+    followers: 236962
+    engagement: 180
+    commentsToLikes: 0.016982
+    id: ck5btizdxg1xu0i11ri1cge24
+    verified: true
+    hashtags: ""
   - username: "nanjiraa"
     fullname: >-
       📌Chayapat Chitrabiab
@@ -33,28 +93,16 @@ profiles:
     hashtags: "#asiangirls, #hanfu, #bangkok, #glassesgirl"
   - username: "xs.lin.xs"
     fullname: >-
-      🧍🏻‍♀️Born to Be Real⭐️
+      👻Travel & Lifestlye🍑🏳️‍🌈
     bio: >-
-      C’est Lin #Bangkok🇹🇭 Tourismus Management, Frequent Traveller, TFP Model, Techno Music Lover & Dj 🏠Düsseldorf
+      C’est Lin 🇹🇭 in #Germany 🏠 #Düsseldorf Cultural Management, Frequent Traveller, TFP Model, Techno Music ✈️Anyway & Anytime Polite&Intelligent guys
     location: "Thailand"
-    followers: 4275
-    engagement: 1001
-    commentsToLikes: 0.039045
+    followers: 4679
+    engagement: 801
+    commentsToLikes: 0.048916
     id: ck0vwr1cuv63e0i19ljw851om
     verified: false
-    hashtags: "#frequenttraveller, #portrait, #travelagentlife, #transisbeautiful"
-  - username: "kugimiyas"
-    fullname: >-
-      Nadech Kugimiya
-    bio: >-
-      ORBIT👇🏻MUSIC👇🏻VIDEO
-    location: "Thailand"
-    followers: 1499153
-    engagement: 900
-    commentsToLikes: 0.010106
-    id: ck6u0pu99h3g60j71onesu67b
-    verified: false
-    hashtags: "#orbit, #imu, #jooxthailand, #orbitbynadech"
+    hashtags: "#mykonosgreece, #goodvibes, #womenstyle, #transisbeautiful"
   - username: "tarn_softwhip"
     fullname: >-
       Tarn Softwhip
@@ -79,52 +127,4 @@ profiles:
     id: ck13ansi9rako0i19kfakf68v
     verified: false
     hashtags: "#fujicream, #ninebot, #mw, #segway"
-  - username: "shem_arciel"
-    fullname: >-
-      Shem MD [🇮🇩]
-    bio: >-
-      Medical Doctor, Digital Entrepreneur, Prestidigitator, Travel & Food Blogger, Musician, Cinephile, LFC Kopites! 📍: Bangkok ⬇️Latest YouTube Video⬇️
-    location: "Thailand"
-    followers: 75443
-    engagement: 119
-    commentsToLikes: 0.065054
-    id: ck0w1lob8jynv0i19n8hwzo56
-    verified: false
-    hashtags: "#aroii, #aroiibkk, #aroisnap, #seaurchin"
-  - username: "bnbook.c"
-    fullname: >-
-      halfface 🤦🏻‍♂️ limitededition🔻
-    bio: >-
-      bennybook • @bnbook.pic 🎓#SDU57 🎬 musictattooanimal🎵💉🐾 #คุณพะยูน 🧑🏻‍💻 INFLUENCER PLANNER #BardiGang OKur! เข้ากลุ่มรีวิว line : @pyq3188j 👇🏻YOUTUBE👇🏻
-    location: "Thailand"
-    followers: 21521
-    engagement: 530
-    commentsToLikes: 0.006614
-    id: ck9wp6p8281nb0j78yx2m9w9n
-    verified: false
-    hashtags: "#everydaywithkewpie, #linebk, #doubleflavor, #up"
-  - username: "pim.buranasilpin"
-    fullname: >-
-      KRUPIM🎹
-    bio: >-
-      THIPTAREE BURANASILPIN Music teacher || Pianist YRC44 || DURIYASILP45 PYU. Ib for work 💌 #CHIANGMAI #THAILAND
-    location: "Thailand"
-    followers: 35472
-    engagement: 186
-    commentsToLikes: 0.011721
-    id: ck0ucougchdqp0i191cm40qwp
-    verified: false
-    hashtags: "#dever, #deverenergygel, #iam, #eto"
-  - username: "tonthanasit"
-    fullname: >-
-      Ton Thanasit
-    bio: >-
-      Singer under Music Cream GMM Grammy Work contact 084-998-8953 (คุณฝน)
-    location: "Thailand"
-    followers: 192303
-    engagement: 127
-    commentsToLikes: 0.009857
-    id: ckap0h56pq9jj0i78pcrrdzzu
-    verified: true
-    hashtags: "#lovedeliveryfest, #unicefthailand, #jlosuperbowlchallenge, #vgi"
 ---

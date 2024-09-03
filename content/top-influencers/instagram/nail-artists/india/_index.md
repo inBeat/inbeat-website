@@ -1,11 +1,11 @@
 ---
-title: Top 10 Nail Artists Instagram Influencers In India In 2023
+title: Top 10 Nail Artists Instagram Influencers In India In 2024
 description: >-
-  Find top nail artists Instagram influencers in India in 2023. Most popular hashtags: #nailartist #nailsofinstagram #reelsinstagram #nailart.
+  Find top nail artists Instagram influencers in India in 2024. Most popular hashtags: #nailartist #nailart #reels #nailsofinstagram.
 platform: Instagram
-hits: 44
-text_top: Discover the top-rated Instagram accounts on inBeat.
-text_bottom: Our database holds 44 Instagram influencers like this in India for you to work with.
+hits: 60
+text_top: Discover the most popular Instagram profiles on inBeat.
+text_bottom: Our platform holds 60 Instagram influencers like this in India for you to collaborate.
 profiles:
   - username: "tanya_buffandshiny"
     fullname: >-
@@ -31,6 +31,18 @@ profiles:
     id: ck5q592q5rutf0i1108r3n1c7
     verified: false
     hashtags: "#nycnails, #acrylicnails, #nailsonfleek, #polygel"
+  - username: "madhura1307"
+    fullname: >-
+      | 𝓜𝓪𝓭𝓱𝓾𝓻𝓪 | Lifestyle Blogger |
+    bio: >-
+      Blogger 🤍 | Influencer ✨| Animals ♾| Vegan | Face-Rivaah By Tanishq 💜 | Thallasophile 🌊
+    location: "India"
+    followers: 15185
+    engagement: 179
+    commentsToLikes: 0.046567
+    id: ck8t6h8u1dmkz0j78dqytiq89
+    verified: false
+    hashtags: "#punebloggers, #birthdaygirl, #photooftheday, #love"
   - username: "scoobyscheacty"
     fullname: >-
       T A M A N N A H 🧿
@@ -43,6 +55,54 @@ profiles:
     id: ck15q4t7r13lp0i19ateyfwg5
     verified: false
     hashtags: "#tbt, #selfportrait, #selfportraitphotography, #fashiontherapywithkomal"
+  - username: "girly_n_gluttony"
+    fullname: >-
+      Twinkle Borkar
+    bio: >-
+      Food and Lifestyle recommendations🫶🏻 DM @gngsnetwwork for Collaborations✨ Best Food Blogger of the Year 2023🏆 Divine Magic Begins Now💕 Estd. 2018☺️
+    location: "India"
+    followers: 65139
+    engagement: 350
+    commentsToLikes: 0.007120
+    id: ck8wffxgrfo570j786an6a7hm
+    verified: false
+    hashtags: "#nagpurfoodies, #nagpurians, #nagpuri, #shopping"
+  - username: "foodfrenzy_1011"
+    fullname: >-
+      Rakshanda Vartak
+    bio: >-
+      Savouring the world, one bite at a time! 🤌🏻 | FOOD • TRAVEL • LIFESTYLE | 📍Mumbai & Palghar #travelblogger #foodblogger #bloggersofmumbai
+    location: "India"
+    followers: 16155
+    engagement: 198
+    commentsToLikes: 0.036396
+    id: ck8t87e5djbth0j78yf7ml6et
+    verified: false
+    hashtags: "#foodfrenzy1011, #mumbai, #supportsmallbusiness, #foodfrenzy"
+  - username: "rituparnadas88"
+    fullname: >-
+      𝐑𝐢𝐭𝐮𝐩𝐚𝐫𝐧𝐚 𝐃𝐚𝐬
+    bio: >-
+      𝚂𝚔𝚒𝚗𝚌𝚊𝚛𝚎 |𝙱𝚎𝚊𝚞𝚝𝚢 || 𝐌𝐚𝐝𝐞 𝐟𝐫𝐨𝐦 𝐀𝐦𝐛𝐢𝐭𝐢𝐨𝐧 & 𝐂𝐨𝐟𝐟𝐞𝐞 ☕️ || 𝒢𝓇𝑜𝓌𝒾𝓃𝑔 𝒶𝓃𝒹 𝐻𝑒𝒶𝓁𝒾𝓃𝑔 ❤️‍🩹 👩‍💻 @google 📍Hyd, India
+    location: "India"
+    followers: 22349
+    engagement: 138
+    commentsToLikes: 0.007590
+    id: ck135af730il30i19g5jg3s90
+    verified: false
+    hashtags: "#reelkarofeelkaro, #skincare, #officememes, #explore"
+  - username: "farahmagi"
+    fullname: >-
+      Farah Magi
+    bio: >-
+      Waltzing through life with an open heart and big curious eyes 🌎 @stateoftheartmedia 📧- contact.farahmagi@gmail.com
+    location: "India"
+    followers: 36736
+    engagement: 107
+    commentsToLikes: 0.018996
+    id: ck0u29tt6zczi0i190lxcn2d0
+    verified: false
+    hashtags: "#barbienails, #nailsalon, #rednails, #justcricketacademy"
   - username: "_nupur_sarmah_"
     fullname: >-
       Nupur Sarmah
@@ -66,65 +126,5 @@ profiles:
     commentsToLikes: 0.054332
     id: ck9woojpd5xy90j78xpccw5rl
     verified: false
-    hashtags: "#cheese, #foodprnshare, #chocolate, #funnyvideos"
-  - username: "rahiljindran"
-    fullname: >-
-      Rahil Jindran
-    bio: >-
-      Indian artist and 🔴 YouTuber. Subscribe to my YouTube channel to see amazing 3D drawings
-    location: "India"
-    followers: 9964
-    engagement: 639
-    commentsToLikes: 0.027835
-    id: ck9hbosl3hsrm0j78mz0rc0lp
-    verified: false
-    hashtags: "#artists, #artist, #rahiljindran, #arts"
-  - username: "swagata_dev"
-    fullname: >-
-      Swagata Dev
-    bio: >-
-      Makeup , Outfits & having Fun it is!! 🎨 To learning something everyday 🥂 📍North East 🇮🇳 NEW VLOG 👇
-    location: "India"
-    followers: 154433
-    engagement: 217
-    commentsToLikes: 0.022101
-    id: ck0u1h4j6wuzy0i190e12ucak
-    verified: false
-    hashtags: "#brothersisterlove, #karnataka, #bangalore, #bengaluru"
-  - username: "half.plate"
-    fullname: >-
-      Shubhi |Some Spice & a Girl
-    bio: >-
-      •An appetite for Flavours •Real life Educator •Recipe Developer •Zomato Level : 11 ⬆️ Dm for collabs/ promotions N⭕️ REP⭕️STING ❌ ( Ask once)
-    location: "India"
-    followers: 12001
-    engagement: 229
-    commentsToLikes: 0.145247
-    id: ck14kmki7q98q0i19a08kh5qg
-    verified: false
-    hashtags: "#paratha, #reelkarofeelkaro, #reeling, #travelgram"
-  - username: "affectionate_punjaban"
-    fullname: >-
-      Sandhya_rissh Vedh
-    bio: >-
-      Khud ki Tarif karni hume nhi Aati😅❌ Founder: @sanrissh_makeup_accesories 🤙Paid/ collaboration 💯Tiki
-    location: "India"
-    followers: 318972
-    engagement: 702
-    commentsToLikes: 0.004504
-    id: ck8wf8kd1fbbz0j78kw14d3q2
-    verified: false
-    hashtags: "#insta, #instagram, #photo, #reels"
-  - username: "the_neha_joshi"
-    fullname: >-
-      Neha Ila Joshi
-    bio: >-
-      
-    location: "India"
-    followers: 11681
-    engagement: 979
-    commentsToLikes: 0.073716
-    id: ck5bxlxz7nz2x0i11d55ttj2b
-    verified: false
-    hashtags: "#photographers, #mumbai, #modelinmumbai, #portrait"
+    hashtags: "#explore, #reelsinstagram, #recipes, #cheesy"
 ---

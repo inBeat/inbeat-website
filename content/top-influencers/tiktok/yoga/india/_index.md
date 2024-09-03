@@ -1,11 +1,11 @@
 ---
-title: Top 10 Yoga TikTok Influencers In India In 2023
+title: Top 10 Yoga TikTok Influencers In India In 2024
 description: >-
-  Find top yoga TikTok influencers in India in 2023. Most popular hashtags: #tiktok #foryoupage #fyp #trending.
+  Find top yoga TikTok influencers in India in 2024. Most popular hashtags: #tiktok #foryoupage #fyp #tiktokindia.
 platform: TikTok
 hits: 236
-text_top: Discover the top-rated TikTok influencers on inBeat.
-text_bottom: Our platform has 236 TikTok influencers like this in India for you to pitch.
+text_top: Discover the most popular TikTok accounts on inBeat.
+text_bottom: inBeat has 236 TikTok influencers like this in India for you to contact.
 profiles:
   - username: "sonalishewale"
     fullname: >-
@@ -114,7 +114,7 @@ profiles:
     commentsToLikes: 0.013072
     id: ck80nsab0ecj20j78tnf7zzvw
     verified: true
-    hashtags: "#yogaurmi, #internationalyogaday2020, #yogaday, #yoga"
+    hashtags: "#yogaurmi, #internationalyogaday2020, #internationalyogaday, #yoga"
   - username: "mohinibhatia"
     fullname: >-
       Mohini Bhatia

@@ -1,48 +1,48 @@
 ---
-title: Top 10 Guitar Instagram Influencers In Finland In 2023
+title: Top 10 Guitar Instagram Influencers In Finland In 2024
 description: >-
-  Find top guitar Instagram influencers in Finland in 2023. Most popular hashtags: #finland #helsinki #music #suomi.
+  Find top guitar Instagram influencers in Finland in 2024. Most popular hashtags: #finland #music #guitar #helsinki.
 platform: Instagram
-hits: 16
-text_top: Analyze the top-rated Instagram profiles on inBeat.
-text_bottom: Our platform aggregates 16 Instagram influencers like this in Finland for you to collaborate.
+hits: 12
+text_top: See the best Instagram profiles on inBeat.
+text_bottom: Our search engine holds 12 Instagram influencers like this in Finland for you to contact.
 profiles:
   - username: "waltteripahlamaguitar"
     fullname: >-
       Waltteri Pahlama
     bio: >-
-      🎸 Guitar player 📍 Helsinki / Turku, Finland 📲 Hit me up for business
+      Guitar teacher/freelance musician Helsinki/Turku, Finland 📍 Hit me up for business 📲
     location: "Finland"
-    followers: 13652
-    engagement: 351
-    commentsToLikes: 0.045733
+    followers: 13086
+    engagement: 330
+    commentsToLikes: 0.046218
     id: ck1389qfpf6px0i19gqf4xphr
     verified: false
-    hashtags: "#telecaster, #guitargear, #guitarsofinstagram, #guitarsdaily"
-  - username: "braindeadsamy"
-    fullname: >-
-      𝖘𝖆𝖒𝖞 𝖊𝖑𝖇𝖆𝖓𝖓𝖆
-    bio: >-
-      #NoRestForTheSickest @twitch Partner✖️@braindeadsamyofficial Guitar & Vocals ✖️ @lostsocietyfi Bass ✖️ @thelocalband Follow/Subscribe on Twitch:
-    location: "Finland"
-    followers: 17639
-    engagement: 503
-    commentsToLikes: 0.015799
-    id: ck5cggdb6osey0i11oi1v9goy
-    verified: false
-    hashtags: "#twitch, #astreamforthesickest, #lostsociety, #noabsolution"
+    hashtags: "#guitargear, #telecaster, #johnmayer, #guitarporn"
   - username: "axel.lopez"
     fullname: >-
       
     bio: >-
-      LLA🕊🤍 Jazmin Peralta🤍 @faseexclusiva 🎸
+      LLA🕊🙏🏽 @faseexclusiva 🎸
     location: "Finland"
-    followers: 4469
-    engagement: 1708
-    commentsToLikes: 0.038665
+    followers: 4324
+    engagement: 1806
+    commentsToLikes: 0.038904
     id: ck5chzu1qrr6d0i11rdhi769y
     verified: false
-    hashtags: "#requinto, #herenciadepatrones, #bajoloche, #angelparasiempre"
+    hashtags: "#hprecords, #bass, #angelparasiempre, #guitarra"
+  - username: "lillmans"
+    fullname: >-
+      Mathias "Vreth" Lillmåns
+    bio: >-
+      Member of Finntroll, ...and Oceans, Dispyt and Festerday. Endorsed by Orange Amps. DM me for vocal/music coaching or production. I'm up for projects!
+    location: "Finland"
+    followers: 13446
+    engagement: 562
+    commentsToLikes: 0.019801
+    id: ck8tayci1tl010j78mqbwsagr
+    verified: false
+    hashtags: "#andoceans, #vreth, #ontour, #finnishblackmetal"
   - username: "eiccatoppinen"
     fullname: >-
       Eicca Toppinen
@@ -55,18 +55,6 @@ profiles:
     id: ck0u2gz63zz8m0i19xpxxtjta
     verified: false
     hashtags: "#apocalyptica, #karjurock, #cello, #festivals"
-  - username: "lottamerenmiesofficial"
-    fullname: >-
-      LOTTA MERENMIES
-    bio: >-
-      Radiojuontaja🎙📻 @radiokeskisuomalainen & @radiovoima Juontaja🎤 TV📺 ❤️First Dates Suomi -Tarjoilija❤️ www.lottamerenmies.com
-    location: "Finland"
-    followers: 17890
-    engagement: 294
-    commentsToLikes: 0.039090
-    id: ckap8rb70pity0i781vdn0wnf
-    verified: false
-    hashtags: "#keskarinlauantai, #tostanoinvaan, #radiokeskisuomalainen, #tilannemerenmies"
   - username: "venla.saartamo"
     fullname: >-
       Venla
@@ -90,19 +78,7 @@ profiles:
     commentsToLikes: 0.023962
     id: ck14hajti9dd80i19dbhjqj3i
     verified: true
-    hashtags: "#laurisweek, #therasmus, #newmusic, #bones"
-  - username: "olliherman"
-    fullname: >-
-      Olli Herman
-    bio: >-
-      Rocker, Biker and a Hopeless Romantic⚡️🌹 @recklesslove.official 🎤 @thelocalband 🎤 goin solo too💫
-    location: "Finland"
-    followers: 32849
-    engagement: 909
-    commentsToLikes: 0.019615
-    id: ck5zwuwmh6t8h0i14z8sgkiag
-    verified: true
-    hashtags: "#hyva, #newstuff, #comingsoon, #alexilaiho"
+    hashtags: "#lauribedroomsessions, #newmusic, #laurisweek, #therasmus"
   - username: "scottquirky"
     fullname: >-
       🎵Scott Quirk🎵
@@ -115,16 +91,40 @@ profiles:
     id: ckap51cv09qu00i780rrsbt2b
     verified: false
     hashtags: "#juilliard, #flutelyfe, #beyonce, #flute"
-  - username: "helsinginsanomat"
+  - username: "rsjakoirat"
     fullname: >-
-      HS – Helsingin Sanomat
+      Roope Salminen & Koirat
     bio: >-
-      👇 Lue päivän kiinnostavimmat jutut.
+      
     location: "Finland"
-    followers: 169901
-    engagement: 115
-    commentsToLikes: 0.005074
-    id: ck0w2d9ipnrzf0i19vkl8tpg2
+    followers: 17968
+    engagement: 417
+    commentsToLikes: 0.017651
+    id: ck6tk8svj481s0j71eumqierp
     verified: true
-    hashtags: "#tyo, #koronavuosi, #jalkapallo, #talvi"
+    hashtags: "#tavastia, #suomi, #finland, #juhannus"
+  - username: "shirazlane"
+    fullname: >-
+      Shiraz Lane
+    bio: >-
+      Hard Rock from Finland 🔥 New music video "Broken Into Pieces" OUT NOW!
+    location: "Finland"
+    followers: 7719
+    engagement: 782
+    commentsToLikes: 0.022683
+    id: ck138z2n9ipvi0i1930qvgnzr
+    verified: false
+    hashtags: "#live, #shirazlane, #gingervinemgmt, #carnivaldays"
+  - username: "wintersunofficial"
+    fullname: >-
+      Wintersun
+    bio: >-
+      Epic Metal from Helsinki🇫🇮 @jariwintersun @teemumantysaari @jukkiskoskinen @asimsearah OFFICIAL MERCHANDISE:
+    location: "Finland"
+    followers: 53603
+    engagement: 235
+    commentsToLikes: 0.019910
+    id: ck6tj4qtx20590j71l7vpa01x
+    verified: true
+    hashtags: "#13, #wintersunpodcast, #asimsearah, #wintersunband"
 ---

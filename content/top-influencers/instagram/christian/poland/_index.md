@@ -1,36 +1,24 @@
 ---
-title: Top 10 Christian Instagram Influencers In Poland In 2023
+title: Top 10 Christian Instagram Influencers In Poland In 2024
 description: >-
-  Find top christian Instagram influencers in Poland in 2023. Most popular hashtags: #love #poland #summer #polishgirl.
+  Find top christian Instagram influencers in Poland in 2024. Most popular hashtags: #poland #love #usa #christianlouboutin.
 platform: Instagram
 hits: 26
-text_top: See the best Instagram influencers on inBeat.
-text_bottom: Our database aggregates 26 Instagram influencers like this in Poland for you to pitch.
+text_top: Discover the most popular Instagram accounts on inBeat.
+text_bottom: Our database aggregates 26 Instagram influencers like this in Poland for you to connect with.
 profiles:
-  - username: "restless.arch"
+  - username: "vlada_vlada"
     fullname: >-
-      Architecture & Living
+      Vlada Karpovich | travel | content creator | worldwide
     bio: >-
-      A digital publication restlessly dedicated to contemporary living. Founded by @christiantrampe. Subscribe to our Restless Living e-Magazine ↓
+      Travel, food & lifestyle • open for collabs Photographer: people, brands, hotels Content creator at @canva 📍Warsaw based and 🌱plant-based | christian
     location: "Poland"
-    followers: 1605233
-    engagement: 123
-    commentsToLikes: 0.006258
-    id: ck0tu213d5add0i19wkzrb8sd
+    followers: 13927
+    engagement: 441
+    commentsToLikes: 0.032339
+    id: ck5zmti2in73o0i149is5ggui
     verified: false
-    hashtags: ""
-  - username: "mlewartowska"
-    fullname: >-
-      
-    bio: >-
-      ✈️Somewhere in the air 💄Owner of @glamdolls_mlewartowska 👠👛Ambassador @szuszu_bagspa 💌Collaboration m.lewartowskaa@gmail.com
-    location: "Poland"
-    followers: 42220
-    engagement: 492
-    commentsToLikes: 0.120392
-    id: ck5cka1j0wg4s0i11rs67b3up
-    verified: false
-    hashtags: "#travel, #stylish, #summer, #beachlife"
+    hashtags: "#portugal, #travel, #visitportugal, #visitlisbon"
   - username: "chrzescijanin"
     fullname: >-
       e-chrześcijanin
@@ -43,18 +31,30 @@ profiles:
     id: ckf5wmp4kskaj0j23qrpu6i3u
     verified: false
     hashtags: "#jp2, #proudcatholic, #sangiovannipaolo, #papajo"
-  - username: "paulatumala"
+  - username: "jacqueline.siemsen"
     fullname: >-
-      PAULA TUMALA OFFICIAL
+      Daily Reality • Travel • Mindset
     bio: >-
-      🅜🅐🅜🅐❤️ 𝚔𝚘𝚜𝚖𝚎𝚝𝚘𝚕𝚘𝚐 🌟𝚒𝚗𝚏𝚕𝚞𝚎𝚗𝚌𝚎𝚛🌟 📥paulatumala@gmail.com 🔑 @malgosia_latka__
+      ceo @pantease.de 🌀 Hypnose Coach 🎬 Reality personality 🌍 Living 🇦🇪 | 37 + countries📍LA
     location: "Poland"
-    followers: 243136
-    engagement: 219
-    commentsToLikes: 0.024337
-    id: ck55ou8k1956a0i11l2zgjyno
-    verified: true
-    hashtags: "#mojewszystko, #twins, #mama, #mi"
+    followers: 39097
+    engagement: 98
+    commentsToLikes: 0.046460
+    id: cliq4pa5ckv9j0j08o9mpcx16
+    verified: false
+    hashtags: "#dubai, #hollywood, #usa, #chicagoland"
+  - username: "tyszka_marcin"
+    fullname: >-
+      Marcin Tyszka-Tysio
+    bio: >-
+      @topmodelpolskatvn Paris @dcamanagement Milan @psartistsmanagement Bcn @yayamanagement Warsaw @bpr_agencja Fashion portfolio @marcintyszkaportfolio
+    location: "Poland"
+    followers: 492375
+    engagement: 49
+    commentsToLikes: 0.040568
+    id: ck0twjxw1fptn0i19uiwr3zci
+    verified: false
+    hashtags: "#reklama, #tysiowpodrozy, #piotrjamrozik, #tysiowpodr"
   - username: "n_piotrowskapaciorek_official"
     fullname: >-
       Natalia Piotrowska-Paciorek
@@ -91,18 +91,6 @@ profiles:
     id: ck8tc26hsy0nb0j78myttiopi
     verified: false
     hashtags: "#raw, #mountainsview, #africatravels, #hooltayewpodrozy"
-  - username: "lowczyni_okazji"
-    fullname: >-
-      Justyna
-    bio: >-
-      💎Zakupoholiczka, wielbicielka promocji, testowania, kosmetyków i storczyków ;)💎 🏠Zielona Góra 📧 zakupowymejl@gmail.com #kosmetyki #jedzenie #lifestyle
-    location: "Poland"
-    followers: 7812
-    engagement: 809
-    commentsToLikes: 0.065658
-    id: ckaos5pf5q7i10i78eb2pvdio
-    verified: false
-    hashtags: "#mgie, #zaj, #summervibes, #naturalnekosmetyki"
   - username: "roxana_kowalczyk"
     fullname: >-
       Roxana Kowalczyk
@@ -127,4 +115,16 @@ profiles:
     id: ck14j7q7niyyy0i19vgmio02l
     verified: false
     hashtags: "#bagsofinstagram, #girlythings, #louisvuitton, #gucciophidia"
+  - username: "moncineq"
+    fullname: >-
+      Monika 💖
+    bio: >-
+      Love In Paris 12.10.2015 💍@cezzzar84 ❤️ La Vie Est Belle !!! 🇧🇬🇵🇱 💒 12.10.2019 ❤️ Kontakt 📧 : moncineq88@gmail.com
+    location: "Poland"
+    followers: 13883
+    engagement: 431
+    commentsToLikes: 0.170997
+    id: ckaoyg85fhe5y0i78c6mgh7uy
+    verified: false
+    hashtags: "#zima, #dzie, #weeding, #coffee"
 ---

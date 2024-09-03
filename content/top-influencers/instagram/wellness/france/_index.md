@@ -1,130 +1,130 @@
 ---
-title: Top 10 Wellness Instagram Influencers In France In 2023
+title: Top 10 Wellness Instagram Influencers In France In 2024
 description: >-
-  Find top wellness Instagram influencers in France in 2023. Most popular hashtags: #fitness #workout #motivation.
+  Find top wellness Instagram influencers in France in 2024. Most popular hashtags: #summer #paris #summervibes.
 platform: Instagram
-hits: 157
-text_top: Analyze the top-rated Instagram profiles on inBeat.
-text_bottom: Our database aggregates 157 Instagram influencers like this in France for you to pitch.
+hits: 202
+text_top: Analyze the best Instagram profiles on inBeat.
+text_bottom: inBeat holds 202 Instagram influencers like this in France for you to connect with.
 profiles:
-  - username: "_elodypetit"
+  - username: "emmanuelleberne"
     fullname: >-
-      Elody P
+      Emmanuelle Berne
     bio: >-
-      19 | French Canadian 🇨🇦🌞 all things wellness, beauty, live passionately ↯ shop my favs
+      Mum / Dancer / Choreography Director 💃🏼 DANCING WITH THE STARS 🇫🇷 💃🏼 MIRA QUIEN BAILA 🇺🇸🇲🇽 ✍🏻 Sports & Wellness Columnist 🧘🏼‍♀️💪🏻🤰🏼@magicmaman_com
     location: "France"
-    followers: 119298
-    engagement: 635
-    commentsToLikes: 0.012700
-    id: ck5zzii1ebsap0i147zq0cwmc
-    verified: false
-    hashtags: "#countrysidelife, #hellofreshpartner, #ad, #partner"
-  - username: "elylemieux"
+    followers: 110807
+    engagement: 569
+    commentsToLikes: 0.031514
+    id: ck0u93wxf8w3y0i19mhdoxw0f
+    verified: true
+    hashtags: "#be, #bachata, #trend, #momsofinsta"
+  - username: "ellengamper"
     fullname: >-
-      e l y  ✿  l e m i e u x
+      Ellen Gamper
     bio: >-
-      𝖒𝖆𝔎𝖊 𝖙𝖍𝖎𝖓𝖌𝖘 𝖍𝖆𝖕𝖕𝖊𝖓 lifestyle — wellness — créativité — passion 🪴 + @agence.elylemieux
+      📍vienna health, wellness & lifestyle medical student model @fotogenmodels @elitela @karinmodels_official @megamodelagency @firstlondon @thetribemodels
     location: "France"
-    followers: 42059
-    engagement: 427
-    commentsToLikes: 0.298187
-    id: ck5cakff4dktk0i112gh1l5x9
+    followers: 37342
+    engagement: 1153
+    commentsToLikes: 0.006123
+    id: ck6tm7gmn7bh70j714qne7qif
     verified: false
-    hashtags: "#ginungava, #2021, #itschristmassssss, #robertmondavipscan"
-  - username: "racheloveee"
+    hashtags: "#sportyandrich"
+  - username: "fabiograngeon"
     fullname: >-
-      Rachel Love
+      Fabio Grangeon
     bio: >-
-      beauty | fashion | wellness | + a side of french fries Signed with @elitemiami @stormmodels @directionsusa @linkmodels_international @qmodels
+      Travel Host, Creative Director, Curious Epicurean Adventure | Wellness | Art de vivre I Family 🎞️ @fgshutter 🍴 @kollection.taiwan 🐋 @wildoceantaiwan
     location: "France"
-    followers: 33949
-    engagement: 371
-    commentsToLikes: 0.070113
-    id: ck0vw0h5nrk0j0i19ox400o6i
-    verified: false
-    hashtags: ""
-  - username: "karoline.ro"
+    followers: 165190
+    engagement: 372
+    commentsToLikes: 0.005488
+    id: ck15qnaqx3ose0i192xs7fobr
+    verified: true
+    hashtags: "#urban331, #quarantine, #roadtrip, #teatime"
+  - username: "lauravizla"
     fullname: >-
-      Karoline
+      Laura Vizla
     bio: >-
-      Fitness - Science - Wellness ➔ Youtube : 𝙆𝘼𝙍𝙊𝙇𝙄𝙉𝙀.𝙍𝙊 343k ➔ Founder app @bestrong_app 🌵💪🏼 Les Band bestrong ⬇️
+      Tink 🧚🏻 everything fashion, beauty, wellness trust me series - try things I love collabs | modeling laura.vizla@collex.agency
     location: "France"
-    followers: 138563
-    engagement: 234
-    commentsToLikes: 0.060318
-    id: ck8t9tlzupbb30j781tqxnzqy
+    followers: 60953
+    engagement: 330
+    commentsToLikes: 0.003029
+    id: ck5ca8ocecx900i11ptrkt4fg
     verified: false
-    hashtags: "#bestrong, #begrateful, #bestrongapp, #beactive"
-  - username: "yesmissy"
+    hashtags: "#lumiglotion, #rekl, #armanimakeup, #advertisement"
+  - username: "sofiaghzl"
     fullname: >-
-      Eileen Lazazzera
+      Sofia Lefebvre🦋
     bio: >-
-      🌐 yesmissy.com 💍 wifey & doggy mama 💖 beauty • wellness • decor • style 💌 hello@yesmissy.com
+      Lyon & Paris Wellness addict • Running lover No rain ♡ No flowers 𝑯𝑴 1h46’06 | 𝟏𝟎𝑲𝑴 47’19 💌 sofia@e-idols.com
     location: "France"
-    followers: 29924
-    engagement: 161
-    commentsToLikes: 0.225568
-    id: ck0tzy706rymy0i1904xmoqg5
+    followers: 35217
+    engagement: 330
+    commentsToLikes: 0.019071
+    id: ck0tyh4i4msqg0i19ot564mpv
     verified: false
-    hashtags: "#canadianlife, #canadianmama, #yegmoms, #canadianmom"
-  - username: "amie_wiley"
+    hashtags: "#paris, #nyc, #summer, #coffee"
+  - username: "theglitteringunknown"
     fullname: >-
-      Amie Wiley
+      Emily 🇺🇸🇫🇷
     bio: >-
-      A happy, active, grateful soul ✨ Wellness | Fitness | Positivity 🎓 BA Psychology & French PT, Online Coach & Sports Nutritionist
+      ✨American in Paris #glitteringparis ✨Freelance social media strategist & copywriter ✨ Expat life + @theparisguide + wellness 📍NC
     location: "France"
-    followers: 20297
-    engagement: 315
-    commentsToLikes: 0.139481
-    id: ck9weepxqjx8q0j78dts5lr48
+    followers: 36362
+    engagement: 325
+    commentsToLikes: 0.046811
+    id: ck5c2dcy9x19t0i11tk2hke0h
     verified: false
-    hashtags: "#positivity, #gymshark, #personaltrainer, #onlinecoach"
+    hashtags: "#jaimelapaca, #seemyparis, #glitteringparis, #cetetejevisitelafrance"
+  - username: "myrtokalogeropoulou"
+    fullname: >-
+      Myrto Kalogeropoulou | Fitness & Wellness
+    bio: >-
+      🏃🏼‍♀️Pilates/ Fitness Expert #OnlineTrainingCoach Fitness & Wellness Retreats Marathon Runner Ambassador @underarmourwomen @garmingreece
+    location: "France"
+    followers: 15592
+    engagement: 482
+    commentsToLikes: 0.016659
+    id: ck15pg5afxpj80i19j64g04wq
+    verified: false
+    hashtags: "#summeringreece, #greekislands, #myrtokalogeropoulou, #summer"
+  - username: "alexissparkss"
+    fullname: >-
+      ALEXIS  SPARKS
+    bio: >-
+      wellness, lifestyle & fashion 190k on YT Founder @selphmadeofficial Become a publisher: @acceleratedpublishing Represented by: @timelessmgmtgroup
+    location: "France"
+    followers: 18376
+    engagement: 275
+    commentsToLikes: 0.012577
+    id: cky723wsxjlg60j235qh1qm4g
+    verified: false
+    hashtags: "#walmart, #walmartcreator, #walmartpartner, #walmartcreators"
   - username: "christellejavelier"
     fullname: >-
       CHRISTELLE JAVELIER
     bio: >-
-      💪🏼 Personal trainer & Wellness Coach 🌈 Founder of @activreguide Studio 🌏 Globe-trotter ⬇️ My Blog ⬇️
+      💪🏼 Personal trainer & Wellness Coach 🌈 Founder of @activreguide Studio 📍New Caledonia ⬇️ My Blog ⬇️
     location: "France"
-    followers: 33174
-    engagement: 172
-    commentsToLikes: 0.044125
+    followers: 28855
+    engagement: 219
+    commentsToLikes: 0.051608
     id: ck14ky62lrwvd0i19005noapy
     verified: false
-    hashtags: "#teamactivre, #activre15, #activre, #parisjetaime"
-  - username: "sfennous"
+    hashtags: "#pregnancydiary, #sunset, #2023recap, #babygirl"
+  - username: "magic.tia"
     fullname: >-
-      SANDRA FENNOU
+      Laetitia Tia Genet  ☽ ❍ ☾
     bio: >-
-      🧿 issa vibe between beauty, lifestyle and wellness. 📩 sandrafennou@gmail.com 📧 management: sandra@go-talents.com
+      Mannequin 🪽 Lifestyle, Luxury hospitality, Wellness, Beauty🌸 Veggie girl & Animal lover 🐰🐮🐎 ✉️ laetitia.genet@icloud.com
     location: "France"
-    followers: 108130
-    engagement: 219
-    commentsToLikes: 0.013359
-    id: ck55kqci2zva90i11y3tlhwm3
+    followers: 91193
+    engagement: 171
+    commentsToLikes: 0.037876
+    id: ck0w5snu958w70i19ouq66haz
     verified: false
-    hashtags: "#summertime, #summervibes, #sea, #holidays"
-  - username: "queengotham"
-    fullname: >-
-      Jillian Sage
-    bio: >-
-      Dancer•Yoga Therapy•Thai Yoga Healer• I ❤️ Ragdoll Cats, Wellness🧘🏻‍♀️, Beauty💋Being Pampered: Massages, Skin Care, Travel, Dining & Entertainment💃🏻
-    location: "France"
-    followers: 50888
-    engagement: 373
-    commentsToLikes: 0.046634
-    id: ck6tut5abi9hy0j715bzc2ywb
-    verified: false
-    hashtags: "#published, #restalynekysse, #ad, #coola"
-  - username: "isapereiranunes"
-    fullname: >-
-      IFBB PRO - ISA PEREIRA
-    bio: >-
-      🇧🇷 WELLNESS PRO 🇺🇸 💪🏻 Coach @gnteam_usa 🐲 @dragonpharmabrasil ISA10 🛍 @violatethedresscode ISA10 👙 @sycompetitionsuits ISA15 🔥 Personal Trainer
-    location: "France"
-    followers: 347346
-    engagement: 148
-    commentsToLikes: 0.014395
-    id: ck60019hccrxw0i144pmcibgj
-    verified: false
-    hashtags: "#bodybuilding, #ifbbpro, #fitness, #workout"
+    hashtags: "#adoptdontshop, #paris, #magictiastyle, #skincaretips"
 ---

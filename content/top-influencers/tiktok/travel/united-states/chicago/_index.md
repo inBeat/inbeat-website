@@ -1,11 +1,11 @@
 ---
-title: Top 10 Travel TikTok Influencers In Chicago In 2023
+title: Top 10 Travel TikTok Influencers In Chicago In 2024
 description: >-
-  Find top travel TikTok influencers in Chicago in 2023. Most popular hashtags: #chicago #travel #foryou #fyp.
+  Find top travel TikTok influencers in Chicago in 2024. Most popular hashtags: #chicago #travel #fyp #foryou.
 platform: TikTok
-hits: 81
-text_top: Analyze the top-rated TikTok influencers on inBeat.
-text_bottom: Our database aggregates 81 TikTok influencers like this in Chicago, United States for you to contact.
+hits: 78
+text_top: Identify the top-rated TikTok accounts on inBeat.
+text_bottom: inBeat has 78 TikTok influencers like this in Chicago, United States for you to contact.
 profiles:
   - username: "maciasa001"
     fullname: >-
@@ -19,6 +19,18 @@ profiles:
     id: ckcprjt4tleji0j231yo5s3hr
     verified: false
     hashtags: "#fy, #foryou, #fyp, #foryoupage"
+  - username: "360chicago"
+    fullname: >-
+      360 CHICAGO
+    bio: >-
+      Chicago’s best views. 94th floor. Hancock Center. Home of TILT and BAR 94. 🌇🥴
+    location: "United States"
+    followers: 54900
+    engagement: 966
+    commentsToLikes: 0.014161
+    id: ckc35x75euzma0j2362eg9oog
+    verified: false
+    hashtags: "#weather, #tilt, #travel, #thrill"
   - username: "johnparkerbach"
     fullname: >-
       JohnParkerBach
@@ -43,30 +55,30 @@ profiles:
     id: ckb9rh5fpo4c40j232zlwl8nz
     verified: false
     hashtags: "#couplegoals, #aesthetic, #minnesota, #neverfitin"
-  - username: "mattbanwart"
+  - username: "luna.ase"
     fullname: >-
-      Matt Banwart
+      Luna
     bio: >-
-      Stand Up Comedian ~Satire Writer~ 24 | Chicago Live Shows Out NOW ↘️⬇️↙️
+      Fun & Spiritual shit. 🎙♏️ 🔮👁 Live Meditation Every Tuesday at 10am
     location: "United States"
-    followers: 32700
-    engagement: 1029
-    commentsToLikes: 0.094506
-    id: ckbbqj5l1e8o30j23prn08u1w
+    followers: 93700
+    engagement: 959
+    commentsToLikes: 0.073127
+    id: cka9m5z4d41zu0i78197fw51f
     verified: false
-    hashtags: "#roastbattle, #learnontiktok, #conspiracy, #standupcomedy"
-  - username: "j_ff12"
+    hashtags: "#shopsmall, #consciousness, #peace, #lunaase"
+  - username: "jj.kim.official"
     fullname: >-
-      Jeff
+      J.J.
     bio: >-
-      Tx Realtor 🏡🏎 Twitter: j_ff12 For business: jefftoprealty@gmail.com
+      Age: 55 Height: 4'1 Gender: Walmart 🤫
     location: "United States"
-    followers: 4488
-    engagement: 815
-    commentsToLikes: 0.029847
-    id: ckcjnizt4fft30j23t7x23djr
+    followers: 61300
+    engagement: 1884
+    commentsToLikes: 0.027266
+    id: ckb9j8wfqah3i0j236qzwebb4
     verified: false
-    hashtags: "#nyc, #realestate, #home, #fyp"
+    hashtags: "#music, #fyp, #lyrics, #blind"
   - username: "pakiprodigy"
     fullname: >-
       HAMAD
@@ -91,18 +103,6 @@ profiles:
     id: ck80oq80jj7lk0j78wd2t1otg
     verified: true
     hashtags: "#choosechicago, #cedarplank, #visitjamaica, #girlscoutcookies"
-  - username: "360chicago"
-    fullname: >-
-      360 CHICAGO
-    bio: >-
-      Chicago’s best views. 94th floor. Hancock Center. Home of TILT and BAR 94. 🌇🥴
-    location: "United States"
-    followers: 54900
-    engagement: 966
-    commentsToLikes: 0.014161
-    id: ckc35x75euzma0j2362eg9oog
-    verified: false
-    hashtags: "#thrill, #travel, #foryou, #wow"
   - username: "paulaheckenast"
     fullname: >-
       Paula Heckenast
@@ -115,16 +115,16 @@ profiles:
     id: ckc36iom6vey30j23g3pemfvl
     verified: false
     hashtags: "#moving, #vaca, #turksandcaicos, #bff"
-  - username: "robrast"
+  - username: "seanwags"
     fullname: >-
-      Rob Rast
+      Sean Wagner
     bio: >-
-      Posting a new joke every day for 30 days Insta & YT here 👆
+      Grüß Gott 17 IL 📍 🇺🇸🇦🇹🇩🇪
     location: "United States"
-    followers: 20700
-    engagement: 708
-    commentsToLikes: 0.040127
-    id: cka0w9vew20gn0i784myx39ud
+    followers: 15700
+    engagement: 1397
+    commentsToLikes: 0.056347
+    id: ckb9bzt8nyiku0j234mplaqhu
     verified: false
-    hashtags: "#joke, #skate, #jokes, #standup"
+    hashtags: "#greenscreen, #satire, #humor, #fyp"
 ---

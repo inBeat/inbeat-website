@@ -1,24 +1,48 @@
 ---
-title: Top 10 Cinema Instagram Influencers In United Arab Emirates In 2023
+title: Top 10 Cinema Instagram Influencers In United Arab Emirates In 2024
 description: >-
-  Find top cinema Instagram influencers in United Arab Emirates in 2023. Most popular hashtags: #dubai #photography #cinematography #portrait.
+  Find top cinema Instagram influencers in United Arab Emirates in 2024. Most popular hashtags: #dubai #photography #portrait #marriage.
 platform: Instagram
-hits: 43
-text_top: Analyze the most popular Instagram accounts on inBeat.
-text_bottom: Our search engine aggregates 43 Instagram influencers like this in United Arab Emirates for you to collaborate.
+hits: 57
+text_top: Discover the best Instagram accounts on inBeat.
+text_bottom: Our database holds 57 Instagram influencers like this in United Arab Emirates for you to collaborate.
 profiles:
-  - username: "vanessavincentxx"
+  - username: "awaisjavedphotography"
     fullname: >-
-      Vanessa Judith Vincent
+      Awais Javed
     bio: >-
-      🎬 Filmmaker 🎥 @ravenscarfilm 🛑 RED Digital Cinema 💄 Make-up addict 🎮 Gamer Production Manager and Editor at @ravenscarfilm 🎥
+      Premium wedding photography, cinematic films and events.
     location: "United Arab Emirates"
-    followers: 11681
-    engagement: 1433
-    commentsToLikes: 0.014112
-    id: ck0vv87i3nz600i19wxj0js3i
+    followers: 151571
+    engagement: 532
+    commentsToLikes: 0.004614
+    id: ck13ci3pj0gk90i195oqjeb62
     verified: false
-    hashtags: "#femalefilmmaker, #cameragear, #camera, #cinematographer"
+    hashtags: "#pakistan, #pakistaniweddings, #karachi, #dubai"
+  - username: "salahghamed"
+    fullname: >-
+      Salah G. Hamed
+    bio: >-
+      💻 Tech 🎥 Cinematography 🎧 Audiophile 🔌 3D Printing 📍 Amman, Jordan 🇯🇴 👉 Twitter/Facebook/TikTok @SalahGHamed
+    location: "United Arab Emirates"
+    followers: 155224
+    engagement: 179
+    commentsToLikes: 0.017173
+    id: ck15siloid6vg0i19fuokzkne
+    verified: false
+    hashtags: "#samsungunpacked, #pcmasterrace, #galaxyunpacked, #samsung"
+  - username: "meghnadixit_official"
+    fullname: >-
+      Meghna Dixit
+    bio: >-
+      🙏 I am "The Content" 💰Life Coach, HR Consultant & Startup Mentor 💃 Wellness | Lifestyle | Motherhood | Cinema 📲 #meghnadixit #megztalk #megzreview
+    location: "United Arab Emirates"
+    followers: 50350
+    engagement: 78
+    commentsToLikes: 0.161792
+    id: ck9hagglccfve0j78svhddyjc
+    verified: false
+    hashtags: "#lifecoaching, #dubaimums, #dubaiinfluencer, #dubai"
   - username: "zaki.oukazi"
     fullname: >-
       Zakarya Oukazi Visuals
@@ -97,34 +121,10 @@ profiles:
     bio: >-
       Cinematic Wedding Films & Photography India | Dubai | Travelling Worldwide @lumieremiddleeast
     location: "United Arab Emirates"
-    followers: 181914
-    engagement: 228
-    commentsToLikes: 0.001737
+    followers: 179882
+    engagement: 156
+    commentsToLikes: 0.002248
     id: ck15ursx0oabl0i19xi7croos
-    verified: false
-    hashtags: "#lumierewedding, #photography, #weddingphotography, #destinationwedding"
-  - username: "tomlebaric"
-    fullname: >-
-      DOP. Steadicam . Arri Trinity
-    bio: >-
-      Cinematographer / Steadicam op / Steadicam Segway / Arri Trinity operator/owner / Drone operator / Documentary film maker / Diver Cell: +971561056620
-    location: "United Arab Emirates"
-    followers: 13569
-    engagement: 354
-    commentsToLikes: 0.013023
-    id: ck5c6i52b5hhm0i11b3nn0w27
-    verified: false
-    hashtags: "#exovest, #flowcinexarm, #filmsetdubai, #steadicamoperatordubai"
-  - username: "awaisjavedphotography"
-    fullname: >-
-      Awais Javed Photography
-    bio: >-
-      Islamabad, Dubai, Paris Premium wedding photography, cinematic films and events. Info@awaisjaved.com
-    location: "United Arab Emirates"
-    followers: 140630
-    engagement: 27
-    commentsToLikes: 0.003418
-    id: ck13ci3pj0gk90i195oqjeb62
     verified: false
     hashtags: ""
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Karate Fighters Instagram Influencers In 2023
+title: Top 10 Karate Fighters Instagram Influencers In 2024
 description: >-
-  Find top karate fighters Instagram influencers in 2023. Most popular hashtags: #karate #kickboxing #fitness #martialarts.
+  Find top karate fighters Instagram influencers in 2024. Most popular hashtags: #karate #kickboxing #fitness #fighter.
 platform: Instagram
-hits: 5
-text_top: Analyze the top-rated Instagram accounts on inBeat.
-text_bottom: Our database aggregates 5 Instagram influencers like this for you to contact.
+hits: 7
+text_top: See the top-rated Instagram influencers on inBeat.
+text_bottom: Our search engine aggregates 7 Instagram influencers like this for you to collaborate.
 profiles:
   - username: "anshan_khosravi"
     fullname: >-
@@ -55,6 +55,18 @@ profiles:
     id: ck8sy5itcjrz80j782j9ca58l
     verified: false
     hashtags: "#onekyokushin, #kyokushin, #muscle, #french"
+  - username: "rainaiscrazy"
+    fullname: >-
+      🥗🥩🌯🍟Raina Huang🍔🍗🍕🥙
+    bio: >-
+      📬RainaHuang94@yahoo.com 💌 #rainaiscrazy ❣️One Woman Army🇨🇳 👸🏻•@thequeenraina 🐕•@huskyprincessnala 💕RainaisCrazy.com 👀 👇🏻Check out my videos
+    location: "United States"
+    followers: 525028
+    engagement: 156
+    commentsToLikes: 0.029689
+    id: ck135xrbq3rvu0i197v8arqdj
+    verified: true
+    hashtags: "#skit, #karate, #fighter, #wrestling"
   - username: "soheilakbarpour"
     fullname: >-
       Ali Akbarpour 🇮🇷 (BJJ Fighter)
@@ -67,4 +79,16 @@ profiles:
     id: ck6ug5uws13120j710q737guh
     verified: false
     hashtags: "#abudhabi, #wrestling, #jiujitsu, #soheilakbarpour"
+  - username: "cecilia_fager"
+    fullname: >-
+      Cecilia Fager
+    bio: >-
+      👸🏼🇸🇪🥋Cecilia Fager@Youtube🎥 💪🏻@budofitnessbutikerna 👊🏻@budo.nord 🐶@lady_fager 🐶💪🏻Team @k9fitness_2023
+    location: "Sweden"
+    followers: 142687
+    engagement: 247
+    commentsToLikes: 0.080537
+    id: ck14i3t75di5v0i19d3hjgge0
+    verified: false
+    hashtags: "#dress, #budofitness, #active, #nevergiveup"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Cooking TikTok Influencers In Ukraine In 2023
+title: Top 10 Cooking TikTok Influencers In Ukraine In 2024
 description: >-
-  Find top cooking TikTok influencers in Ukraine in 2023. Most popular hashtags: #yummy #dessert #cooking #cakedecor.
+  Find top cooking TikTok influencers in Ukraine in 2024. Most popular hashtags: #dessert #yummy #cooking #cake.
 platform: TikTok
 hits: 9
-text_top: See the best TikTok profiles on inBeat.
-text_bottom: Our search engine holds 9 TikTok influencers like this in Ukraine for you to connect with.
+text_top: Discover the most popular TikTok profiles on inBeat.
+text_bottom: Our database holds 9 TikTok influencers like this in Ukraine for you to connect with.
 profiles:
   - username: "vkysnopolezno"
     fullname: >-

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Outdoors Instagram Influencers In Malaysia In 2023
+title: Top 10 Outdoors Instagram Influencers In Malaysia In 2024
 description: >-
-  Find top outdoors Instagram influencers in Malaysia in 2023. Most popular hashtags: #camping #instagood #ootd #lifestyle.
+  Find top outdoors Instagram influencers in Malaysia in 2024. Most popular hashtags: #camping #nature #hiking #outdoors.
 platform: Instagram
-hits: 16
-text_top: Discover the best Instagram accounts on inBeat.
-text_bottom: inBeat aggregates 16 Instagram influencers like this in Malaysia for you to connect with.
+hits: 14
+text_top: Analyze the top-rated Instagram influencers on inBeat.
+text_bottom: Our database has 14 Instagram influencers like this in Malaysia for you to work with.
 profiles:
   - username: "subalakshmi_rangan26"
     fullname: >-
@@ -23,62 +23,26 @@ profiles:
     fullname: >-
       Bushcraft and Prepping
     bio: >-
-      Marine vet sharing bushcraft, firearms, prepping, travel & DIY tips. DM me for questions, product ambassador or product review. @muhl_media #AvantLink
+      Marine vet sharing bushcraft, firearms, prepping, travel & DIY tips. DM me for questions, product ambassador or product review. 👇YouTube👇
     location: "Malaysia"
-    followers: 24815
-    engagement: 229
-    commentsToLikes: 0.057369
+    followers: 24940
+    engagement: 175
+    commentsToLikes: 0.056156
     id: ck5c4lo091ltl0i118gnic74q
     verified: false
-    hashtags: "#bushcraft, #wilderness, #desert, #hiking"
-  - username: "chiehjwang"
+    hashtags: "#explore, #backpacking, #hiking, #firstaid"
+  - username: "cherishlingj"
     fullname: >-
-      CJ.Wang
+      车厘子Cherish Lau
     bio: >-
-      Hi 👋 I’m CJ. collaboration ： studio.maximus2020@gmail.com
+      A Fitness Mom DM for Collabs Job🇲🇾 XHS📕车厘子Cherish｜13K粉丝329K赞收藏 Mom & Kid | Travel blog @gotravellah_cherish Motherhood Supermom KOL Awards 22&23
     location: "Malaysia"
-    followers: 88360
-    engagement: 338
-    commentsToLikes: 0.037767
-    id: ck8t7ihiugxkb0j78r7gkdok6
+    followers: 26918
+    engagement: 333
+    commentsToLikes: 0.054683
+    id: clm70au45gntv0j08ptiu2im1
     verified: false
-    hashtags: "#711, #chinesenewyear, #lifestyle, #ootd"
-  - username: "sweetannu"
-    fullname: >-
-      Anahita Irani ~ 𝕊𝕨𝕖𝕖𝕥𝕒𝕟𝕟𝕦🧿
-    bio: >-
-      Creating a life I love🦋💕 | Food | Lifestyle | Travel | Recipes | Fitness 📍Mumbai DM for events/promotion/review/collabs📩-anahitairani200@gmail.com
-    location: "Malaysia"
-    followers: 43592
-    engagement: 84
-    commentsToLikes: 0.312745
-    id: ckaor4pkvlpwe0i78n25pkpe5
-    verified: false
-    hashtags: "#bloggersofinstagram, #healthyfood, #explorepage, #mumbai"
-  - username: "wayne_wayne23"
-    fullname: >-
-      Wayne Wayne 小唐哥
-    bio: >-
-      #GoProFamily Celebrity Emcee Social Media Talent Traveller Scuba Diver Underwater Photographer ⬇️最新网络节目点击链接⬇️
-    location: "Malaysia"
-    followers: 55381
-    engagement: 247
-    commentsToLikes: 0.021674
-    id: ck5chxgd6rmww0i11e4pv3bfz
-    verified: false
-    hashtags: "#traveltomorrow, #iwillmeetgangwonagain, #imagineyourkorea, #travelphotothrowbackchallenge"
-  - username: "aqsa.blogs"
-    fullname: >-
-      👩🏻Aqsa
-    bio: >-
-      Henna artist Food blogger Lifestyle Product reviews DM FOR promotion , review & invites http://bit.ly/aqsaablogs
-    location: "Malaysia"
-    followers: 18573
-    engagement: 470
-    commentsToLikes: 0.022320
-    id: ckf5kxj6snldf0j23fyo64xjv
-    verified: false
-    hashtags: "#lifeisbeautiful, #followforfollowback, #foodphotography, #foodie"
+    hashtags: "#reelexplore, #traveltheworld, #lifestyle, #travelblogger"
   - username: "agneswei_wei"
     fullname: >-
       Agnes Lim林莉幃
@@ -95,14 +59,14 @@ profiles:
     fullname: >-
       فرحانة محمد
     bio: >-
-      Outdoor junkie 👻 Please dm me for any review ☺️ Check out this link yaw!
+      Mummy Fazura, Outdoor junkie and Nature Lover 🍀🍁 Please dm me for any review ☺️ Check out this link yaw!
     location: "Malaysia"
-    followers: 9376
-    engagement: 696
-    commentsToLikes: 0.029587
+    followers: 9718
+    engagement: 346
+    commentsToLikes: 0.071565
     id: ckap6r7j5h31a0i78frios31h
     verified: false
-    hashtags: "#cuticutimalaysia, #hotelserimalaysia, #dekatje, #pikaplinecringedilan1990"
+    hashtags: "#inspiredbyflowers, #redenergypowerduo, #passionationco, #mamondemalaysia"
   - username: "sesat_in_malaysia"
     fullname: >-
       Leon | Sabah, Malaysian Borneo
@@ -127,4 +91,40 @@ profiles:
     id: ck5hig2xbdbsy0i111118to7v
     verified: false
     hashtags: "#popdaily, #vscopic, #poptour, #ootdfashion"
+  - username: "sherontan94"
+    fullname: >-
+      Sheron Tan 陈雪仁
+    bio: >-
+      🔸Cino Rungus 🔸Youtuber 🔺 Contact for work | 合作邀约 📩 xueren94@gmail.com 陳勇豪 Alvin Tan X 陳雪仁 Sheron Tan《偏愛 Favouritism》官方完整版MV Official Music Video
+    location: "Malaysia"
+    followers: 120779
+    engagement: 149
+    commentsToLikes: 0.008570
+    id: ck5chx4a1rmfv0i11jnpydo69
+    verified: false
+    hashtags: "#photoshooday, #photosession, #cool, #sherontan"
+  - username: "sweatlee"
+    fullname: >-
+      Suet Li
+    bio: >-
+      👩‍🏫 Passionate Malaysian and advocate for educational excellence and equity 💉 @sweatlee_ivf for updates on my IVF journey 💌 suetliliew@gmail.com
+    location: "Malaysia"
+    followers: 28121
+    engagement: 483
+    commentsToLikes: 0.015588
+    id: ck8t44cur5gwv0j78svwzrlez
+    verified: false
+    hashtags: "#blw, #kidsrecipes, #12monthsold, #babyrecipes"
+  - username: "peterhughdavis"
+    fullname: >-
+      🇲🇾 Pistol Pete 🇬🇧
+    bio: >-
+      👨‍🏫Actor 🎤 Emcee 🤸Athlete 🤜MMA/BJJ 🚴‍♂️Road700c "🍜 Plant Based" 👇 @fuel.tjc YouTube👇
+    location: "Malaysia"
+    followers: 43916
+    engagement: 497
+    commentsToLikes: 0.088342
+    id: ck134fmy3w77o0i194nv4in5z
+    verified: true
+    hashtags: "#backtowork, #girocycling, #suuntomalaysia, #xyzbca"
 ---

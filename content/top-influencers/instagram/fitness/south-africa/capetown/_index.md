@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Capetown In 2023
+title: Top 10 Fitness Instagram Influencers In Capetown In 2024
 description: >-
-  Find top fitness Instagram influencers in Capetown in 2023. Most popular hashtags: #capetown #southafrica #fitness #love.
+  Find top fitness Instagram influencers in Capetown in 2024. Most popular hashtags: #capetown #southafrica #fitness #lifestyle.
 platform: Instagram
-hits: 20
-text_top: Discover the best Instagram influencers on inBeat.
-text_bottom: Our platform holds 20 Instagram influencers like this in Capetown, South Africa for you to connect with.
+hits: 25
+text_top: Discover the most popular Instagram influencers on inBeat.
+text_bottom: inBeat aggregates 25 Instagram influencers like this in Capetown, South Africa for you to pitch.
 profiles:
   - username: "chloegarner_athlete_"
     fullname: >-
@@ -19,30 +19,6 @@ profiles:
     id: ck0uawjczd9s10i19r45sm58j
     verified: false
     hashtags: "#southfricansport, #athletictraining, #sportsworld, #southafrica"
-  - username: "chanellesoncini"
-    fullname: >-
-      ⚡️CHANELLE SONCINI⚡️
-    bio: >-
-      SA Model 📍PTA/JHB🇿🇦 ▪️JHB: @bossmodelsjhb ▫️CPT: @thecirclemodels 📚BBA & BPhil Honours
-    location: "South Africa"
-    followers: 32003
-    engagement: 433
-    commentsToLikes: 0.232299
-    id: ck6u1whp5ob1o0j71gdgns6sx
-    verified: false
-    hashtags: "#happyfriday, #model, #style, #chanellesoncini"
-  - username: "neyney_dj"
-    fullname: >-
-      ℂ𝕙𝕒𝕣𝕟é 𝕕𝕖 𝕁𝕒𝕘𝕖𝕣
-    bio: >-
-      Owner & founder of @be.the.goddess 🤍 BSocSciHons (Psychology)@sacap_sa🇿🇦 Not interested in NuSkin/Herbalife🚫
-    location: "South Africa"
-    followers: 4479
-    engagement: 1191
-    commentsToLikes: 0.006126
-    id: ck14k6wwao1d50i195q33m50g
-    verified: false
-    hashtags: "#instamood, #memories, #smile, #girl"
   - username: "coach__kelly_"
     fullname: >-
       KellyAinsworth_Trainer
@@ -67,6 +43,18 @@ profiles:
     id: ck6trhztnz3pc0j717pumpd6d
     verified: false
     hashtags: "#awesome, #fitness, #throwback, #outdoor"
+  - username: "marcbuckner"
+    fullname: >-
+      Marc Buckner
+    bio: >-
+      Email for collaborations, diet + training tips & one on one fitness programs. father to @lusiluludog 🐺
+    location: "South Africa"
+    followers: 798499
+    engagement: 555
+    commentsToLikes: 0.012218
+    id: ck5qeisvd0p580i11yvigwyqx
+    verified: true
+    hashtags: "#dog, #huaweiwatchgt4, #capetown, #sunset"
   - username: "saskiatopp"
     fullname: >-
       Saskia Jordyn Topp
@@ -103,28 +91,40 @@ profiles:
     id: ckaou91qxzcog0i78elrnpz2r
     verified: false
     hashtags: "#picoftheday, #smile, #training, #life"
-  - username: "magaramirezz"
+  - username: "kunene_ayanda"
     fullname: >-
-      Maria Gabriela Ramirez ⚓️
+      Ayanda Kunene
     bio: >-
-      Venezuelan model 🇻🇪 Currently in 🌍 📍🇿🇦 Cape Town, South Africa.
+      South African 🇿🇦 Twin: @amanda_Kunene 📍 CPT: @20modelmanagement 📍 DBN: @bossmodelsdbn
     location: "South Africa"
-    followers: 6782
-    engagement: 1415
-    commentsToLikes: 0.065761
-    id: ckap0qc7qrepz0i78yrvmaxt0
+    followers: 5804
+    engagement: 252
+    commentsToLikes: 0.067949
+    id: ck138fd3bfyxf0i199d208qt8
     verified: false
-    hashtags: "#losangeles, #beach, #milan, #shooting"
-  - username: "frema.mensah"
+    hashtags: "#fashion, #southafrica, #likeforlikes, #safari"
+  - username: "travspringer"
     fullname: >-
-      🇬🇭Frema Mensah🇬🇭
+      TRAV SPRINGER
     bio: >-
-      Model | Fashion | Beauty | lifestyle 📧 fremamensah95@gmail.com @topcomodels cpt 🇿🇦 @fabulousdotcom_models Jhb 🇿🇦 Cape Town 📍
+      Founder of @TropicalGlamping 🏕️ 2000+ Satisfied Couples 🫶🏽 👇🏻 TRAVEL | VLOGS | RETREATS 👇🏻
     location: "South Africa"
-    followers: 7981
-    engagement: 721
-    commentsToLikes: 0.085715
-    id: ck55mwkjc4zg40i11b4gc4y7d
+    followers: 61247
+    engagement: 87
+    commentsToLikes: 0.028615
+    id: ck5c1igfcv8o80i11fibfaca0
     verified: false
-    hashtags: "#bluesky, #blackgirl, #melaninqueen, #afrohairstyles"
+    hashtags: "#canggu, #glamping, #cabin, #bali"
+  - username: "lifeofmikeza"
+    fullname: >-
+      Michael Eloff
+    bio: >-
+      Content Creator | Adventurer | Time-lapser | Runner Content Creation @thepalmtribe 📸 @sonyalphasa Ambassador
+    location: "South Africa"
+    followers: 91751
+    engagement: 52
+    commentsToLikes: 0.096311
+    id: ck0ttipo72w7w0i1977llmyp6
+    verified: false
+    hashtags: "#ravinalaairports, #folkgood, #discoverearth, #coronaisland"
 ---

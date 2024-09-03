@@ -1,36 +1,12 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Medellín In 2023
+title: Top 10 Beauty Instagram Influencers In Medellín In 2024
 description: >-
-  Find top beauty Instagram influencers in Medellín in 2023. Most popular hashtags: #colombia #beauty #medellin #2021.
+  Find top beauty Instagram influencers in Medellín in 2024. Most popular hashtags: #beauty #colombia #makeup #medellin.
 platform: Instagram
-hits: 27
-text_top: See the most popular Instagram profiles on inBeat.
-text_bottom: Our platform has 27 Instagram influencers like this in Medellín, Colombia for you to collaborate.
+hits: 23
+text_top: See the best Instagram influencers on inBeat.
+text_bottom: inBeat holds 23 Instagram influencers like this in Medellín, Colombia for you to work with.
 profiles:
-  - username: "vane_eslava"
-    fullname: >-
-      Vane Eslava
-    bio: >-
-      #model from🇨🇴 #artista •Amor,tolerancia y respeto por los animales🐾 🍭🎈 Publicidad,contratación al DM📩
-    location: "Colombia"
-    followers: 43834
-    engagement: 236
-    commentsToLikes: 0.026712
-    id: ckf5su7thg7ru0j23e5gwo5dq
-    verified: false
-    hashtags: "#model, #portrait, #love, #instagram"
-  - username: "chdermatologia"
-    fullname: >-
-      CLAUDIA HERNÁNDEZ
-    bio: >-
-      МD.Derмaтologιѕт •Injector💉•KOL🌎•Research 🔬 Anti-aging & beauty strategies 📍Medellín-Colombia🇨🇴 📲574-4443072-3006413849
-    location: "Colombia"
-    followers: 93179
-    engagement: 192
-    commentsToLikes: 0.016119
-    id: ck0w71ryubc2d0i19xvjyd5io
-    verified: false
-    hashtags: "#fillers, #envejecimiento, #beauty, #skincare"
   - username: "hernanboterostudio"
     fullname: >-
       Hernán Botero
@@ -67,18 +43,18 @@ profiles:
     id: ckap7vyvwlszz0i7805o7f2u5
     verified: false
     hashtags: "#pielsensible, #salud, #cute, #reelsinstagram"
-  - username: "carogallegoca"
+  - username: "tiffanialvarez"
     fullname: >-
-      Caro Gallego Ca.
+      Tiffani Alvarez
     bio: >-
-      Medellín. 📍 Infocarogallego@gmail.com✨ Beauty blogger. @ateneaprofesional
+      Makeup | beauty | wellness | lifestyle | moda +250k en TT 🤝🏻 muchos reviews allá info@tiffanialvarez.com 📍Medellín hubby 🫀 @davidbravod
     location: "Colombia"
-    followers: 36955
-    engagement: 234
-    commentsToLikes: 0.092682
-    id: ck5qaczd5fr190i11fj3cjksh
+    followers: 22730
+    engagement: 245
+    commentsToLikes: 0.018727
+    id: ck8wevvpseoo90j78cq9vxrh8
     verified: false
-    hashtags: "#viernestrepado, #giveaway"
+    hashtags: "#maquillajenatural, #maquillajefavorito, #maquillaje, #labiales"
   - username: "juliuribee8"
     fullname: >-
       JULI.U
@@ -127,4 +103,28 @@ profiles:
     id: ck8t8veualzfg0j78qawzxejh
     verified: false
     hashtags: "#smile, #latina, #colombia, #hair"
+  - username: "jugomakeup"
+    fullname: >-
+      Valentina Jugo | Pro mua💋
+    bio: >-
+      Coᥒtᥱᥒt ᥴrᥱᥲtor🇻🇪 💄Cιtᥲs dᥱ mᥲqᥙιᥣᥣᥲjᥱ ყ ᥴᥙrsos 📍Medellín🇨🇴 💌PR/Collabs: jugomakeupml@gmail.com
+    location: "Colombia"
+    followers: 13705
+    engagement: 598
+    commentsToLikes: 0.048937
+    id: ck8tcdyegz58x0j78s97gf89y
+    verified: false
+    hashtags: "#medellin, #cyzone, #makeupartistworldwide, #cejas"
+  - username: "marianelamodel"
+    fullname: >-
+      MARIANELA | PRESENTADORA
+    bio: >-
+      🇨🇴 Miss sudamerica 2020 🏋🏽‍♀️ fitness 👩🏼‍💼Creadora de @malena_stylee
+    location: "Colombia"
+    followers: 70301
+    engagement: 217
+    commentsToLikes: 0.023285
+    id: ck5q3ihpokw7e0i11gl42nznm
+    verified: false
+    hashtags: "#instagood, #instafashion, #photography, #mexico"
 ---

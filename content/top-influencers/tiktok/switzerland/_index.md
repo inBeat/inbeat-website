@@ -1,11 +1,11 @@
 ---
-title: Top 10 TikTok Influencers In Switzerland In 2023
+title: Top 10 TikTok Influencers In Switzerland In 2024
 description: >-
-  Find top TikTok influencers in Switzerland in 2023. Most popular hashtags: #fyp #fy #foryou.
+  Find top TikTok influencers in Switzerland in 2024. Most popular hashtags: #fyp #fy #pourtoi.
 platform: TikTok
 hits: 810
-text_top: See the most popular TikTok profiles on inBeat.
-text_bottom: inBeat aggregates 810 TikTok influencers like this in Switzerland for you to contact.
+text_top: See the most popular TikTok influencers on inBeat.
+text_bottom: inBeat has 810 TikTok influencers like this in Switzerland for you to contact.
 profiles:
   - username: "itzz._.ambre0o0o"
     fullname: >-
@@ -19,18 +19,6 @@ profiles:
     id: cka9l0wa61eya0i7821wsgqjo
     verified: false
     hashtags: "#pourtoi, #redifusionfortnite, #desactifssvp, #desactif"
-  - username: "x.ahmxd"
-    fullname: >-
-      أحمد
-    bio: >-
-      Acc von Diego und Julian
-    location: "Switzerland"
-    followers: 93500
-    engagement: 2907
-    commentsToLikes: 0.152207
-    id: ck95v90g8x8880j78neuukyer
-    verified: false
-    hashtags: "#fyfyfyfyfyfyfyfyfyfyfyfyfyfyfyfyfyfy, #foryou, #fyp, #fy"
   - username: "sprifty"
     fullname: >-
       🖤⛓ ꌗp̴𝕣ᴵf͞͞т𝓎 ⛓📓✍️
@@ -47,14 +35,14 @@ profiles:
     fullname: >-
       Swiss
     bio: >-
-      Männlich Hobbys sind Züge Schüler Modellbahn basteln
+      Vergeben ~S❤️
     location: "Switzerland"
-    followers: 3121
-    engagement: 2232
-    commentsToLikes: 0.127086
+    followers: 3179
+    engagement: 2227
+    commentsToLikes: 0.128740
     id: ckc914lw0qy7t0j23zptz2tfx
     verified: false
-    hashtags: "#lost, #foryoupage, #modelbahn, #fy"
+    hashtags: "#sbbcffffs, #moba, #zug, #foryoupage"
   - username: "nina_eilish_"
     fullname: >-
       💅🏻
@@ -67,6 +55,18 @@ profiles:
     id: cka0tvchprlau0i78untd45qu
     verified: false
     hashtags: "#duo, #fyp, #collage, #pourtoii"
+  - username: ".xwreexy"
+    fullname: >-
+      .𝙭𝙒𝙧𝙚𝙚𝙭𝙮🆙
+    bio: >-
+      .xWreexy
+    location: "Switzerland"
+    followers: 92700
+    engagement: 1981
+    commentsToLikes: 0.127148
+    id: ck95v90g8x8880j78neuukyer
+    verified: false
+    hashtags: "#fyp, #fy, #xwreexy, #ck"
   - username: "kris8an.ch"
     fullname: >-
       Kris

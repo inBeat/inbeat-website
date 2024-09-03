@@ -1,12 +1,60 @@
 ---
-title: Top 10 Rappers Instagram Influencers In Indonesia In 2023
+title: Top 10 Rappers Instagram Influencers In Indonesia In 2024
 description: >-
-  Find top rappers Instagram influencers in Indonesia in 2023. Most popular hashtags: #hiphop #rap #rapper #newsong.
+  Find top rappers Instagram influencers in Indonesia in 2024. Most popular hashtags: #hiphop #rap #indonesia #jakarta.
 platform: Instagram
-hits: 40
-text_top: Analyze the best Instagram influencers on inBeat.
-text_bottom: Our database holds 40 Instagram influencers like this in Indonesia for you to work with.
+hits: 42
+text_top: See the top-rated Instagram profiles on inBeat.
+text_bottom: inBeat has 42 Instagram influencers like this in Indonesia for you to work with.
 profiles:
+  - username: "liquidsilva"
+    fullname: >-
+      LIQUID SILVA
+    bio: >-
+      🇨🇦🇮🇩 rapper / songwriter / director who loves making comedy ! Also follow @liquidsilvaofficial. Part of @packagecollective @inspire.artistry
+    location: "Indonesia"
+    followers: 50998
+    engagement: 311
+    commentsToLikes: 0.045558
+    id: ck15tud2ijy2o0i199gol6oss
+    verified: true
+    hashtags: "#dagelan, #lucubanget, #brazilianbass, #ngakaksehat"
+  - username: "jesiccajaness"
+    fullname: >-
+      Jesicca Janesinsia
+    bio: >-
+      🇸🇬 X 🇮🇩 Rapper • Choreographer • Dancer Founder of @hola.ladies @hola.boyss Queen BadRaw @queenbadraw.scratch Stream “HIGHER” on all platforms 👇🏻
+    location: "Indonesia"
+    followers: 45403
+    engagement: 100
+    commentsToLikes: 0.040946
+    id: ck5q0ql6x79xu0i115ue8t8fk
+    verified: false
+    hashtags: "#pepsodentbaru, #scratch, #souljaaura, #artwork"
+  - username: "mas.gib"
+    fullname: >-
+      MASGIB | Music & Lifestyle
+    bio: >-
+      🎹 Composer & Rapper 🎬 Creative Director 🕴🏻Boosting Mood Lo W/ Black Music Vibes 👌Escalate Your Clothing Brand #eastavibe 💻DM for Business
+    location: "Indonesia"
+    followers: 102595
+    engagement: 24
+    commentsToLikes: 0.021571
+    id: ck0tu0jrn53kd0i19ow2sl6m3
+    verified: false
+    hashtags: "#voy, #eastimewamusic, #harusnikahgib, #nyantaibantai"
+  - username: "jeritaufik"
+    fullname: >-
+      Jeri Taufik Lizam
+    bio: >-
+      Rapper | Film Director | Content Creator | Digital Preneur YOUTUBE : Kamar JERI What’s Good TV Founder : Plix-U Films Production
+    location: "Indonesia"
+    followers: 178025
+    engagement: 617
+    commentsToLikes: 0.030423
+    id: ck5c8hr2j9id30i11w9ce9tc1
+    verified: false
+    hashtags: "#gadramagamakan, #kamarjeri, #whatsgoodtv, #freestyle"
   - username: "dohyon.x173"
     fullname: >-
       Nam Dohyon 남도현 BAE173 & X1
@@ -31,18 +79,6 @@ profiles:
     id: ck139o4s9ma8p0i19mo5n83ei
     verified: false
     hashtags: "#asikinbelakanglayar, #covid19, #papua, #newsingle"
-  - username: "zhavanyameidi"
-    fullname: >-
-      vanya 반야
-    bio: >-
-      Vitamin Vanya of Z-Girls @zpopdream Singer, Dancer, Rapper. Z-Girls latest single 'Streets of Gold'
-    location: "Indonesia"
-    followers: 166042
-    engagement: 471
-    commentsToLikes: 0.012737
-    id: ck136apes5kx40i19wmmnu6b1
-    verified: true
-    hashtags: "#zhavanya, #vanyacover, #vanya, #howyoulikethat"
   - username: "samurai_reject"
     fullname: >-
       ジョーイ
@@ -79,18 +115,6 @@ profiles:
     id: ck1372m659gmx0i198akmdu5s
     verified: true
     hashtags: "#vaksingratis, #kewerkewer, #kopadkopid, #sony"
-  - username: "eckoshowgtown"
-    fullname: >-
-      ECKO SHOW [GHCOD]
-    bio: >-
-      🕋Hamba اللّٰه Pengikut محمد 💡Hanya Rapper Kampung 👕 @3peneti ——————————————— 👇🏽New Music Video
-    location: "Indonesia"
-    followers: 126702
-    engagement: 225
-    commentsToLikes: 0.014471
-    id: ckaot3kphu8300i781gb64loa
-    verified: false
-    hashtags: "#takedownsatutumbuhseribureuploader, #saatnyamelesat, #boldmusic, #boldvirtualxp"
   - username: "fatbrotherhood"
     fullname: >-
       YUSRI DIAZ DARMAWAN
@@ -103,28 +127,4 @@ profiles:
     id: ck6u8v0u5tuiq0j71k3vik75y
     verified: false
     hashtags: "#pubg, #pubgmobile, #fatbrotherhood, #sukomakan"
-  - username: "emiway_bantai_fans_"
-    fullname: >-
-      EmiwayBantaiFans🔵
-    bio: >-
-      20k🎯 Biggest Fan Club God Of Rapper @emiway_bantai Sir🤗 KeepSupporting EmiwayBantai #RingRing (OUTNOW)👇
-    location: "Indonesia"
-    followers: 15006
-    engagement: 712
-    commentsToLikes: 0.021371
-    id: ck8takp9ss66m0j78rru9i12d
-    verified: false
-    hashtags: "#soon, #independent, #art, #rap"
-  - username: "brayenmc_official"
-    fullname: >-
-      BrayenMc
-    bio: >-
-      🏅Winner 1st BEEF RAP BATTLE INDONESIA Talent @jenderalpetrukofficial 📍Jayapura "BEDA ARENA"⬇️
-    location: "Indonesia"
-    followers: 19200
-    engagement: 692
-    commentsToLikes: 0.031050
-    id: ck55nxrtb77qp0i11seiwx3oy
-    verified: false
-    hashtags: "#hiphopindo, #rapper, #hiphop, #alkohol"
 ---

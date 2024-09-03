@@ -1,11 +1,11 @@
 ---
-title: Top 10 TikTok Influencers In Philadelphia In 2023
+title: Top 10 TikTok Influencers In Philadelphia In 2024
 description: >-
-  Find top TikTok influencers in Philadelphia in 2023. Most popular hashtags: #fyp #foryou #makeup #friends.
+  Find top TikTok influencers in Philadelphia in 2024. Most popular hashtags: #fyp #foryou #makeup #foryoupage.
 platform: TikTok
-hits: 161
-text_top: Identify the top-rated TikTok profiles on inBeat.
-text_bottom: Our database aggregates 161 TikTok influencers like this in Philadelphia, United States for you to pitch.
+hits: 162
+text_top: Analyze the most popular TikTok accounts on inBeat.
+text_bottom: Our database aggregates 162 TikTok influencers like this in Philadelphia, United States for you to work with.
 profiles:
   - username: "jamesmarchiano"
     fullname: >-
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.062535
     id: ckck4i00ooya80j23fo1ibckb
     verified: false
-    hashtags: "#foryou, #fyp, #gay, #lgbt"
+    hashtags: "#gay, #makeup, #transformation, #fyp"
   - username: "rickysuave__"
     fullname: >-
       Ricky Suave
@@ -66,7 +66,7 @@ profiles:
     commentsToLikes: 0.123626
     id: ckb96zn1ap9h50j23p5nxhv5e
     verified: false
-    hashtags: "#fyp, #duet, #1975, #matthealy"
+    hashtags: "#matthealy, #duet, #1975, #fyp"
   - username: "ryanjonessk8"
     fullname: >-
       Ryan Jones
@@ -78,7 +78,7 @@ profiles:
     commentsToLikes: 0.035065
     id: ckcv3swjlom3k0j2369wpoltb
     verified: false
-    hashtags: "#quickerpickerrapper, #skater, #skate, #foryou"
+    hashtags: "#quickerpickerrapper, #fyp, #skating, #skaterboarder"
   - username: "lukeburdsall"
     fullname: >-
       Luke Burdsall
@@ -90,7 +90,7 @@ profiles:
     commentsToLikes: 0.036409
     id: ckd0r2rjfie9c0j23i06hwyh9
     verified: false
-    hashtags: "#peoria, #alwayslearning, #news, #fyp"
+    hashtags: "#fyp, #peoriaillinois, #alwayslearning, #peoria"
   - username: "darcy.com__"
     fullname: >-
       darcy.com__
@@ -102,7 +102,7 @@ profiles:
     commentsToLikes: 0.032730
     id: ckbaql4klh9kv0j23cm8fg8ly
     verified: false
-    hashtags: "#fyp, #foryou, #comedy, #bigmouth"
+    hashtags: "#comedy, #foryou, #fyp, #facezoom"
   - username: "philadelphianews"
     fullname: >-
       Philadelphia News
@@ -121,10 +121,10 @@ profiles:
     bio: >-
       👋🏼Me + 10,000 people + 1 hour each 📬DM me on insta to meet! 📍Philadelphia
     location: "United States"
-    followers: 25300
-    engagement: 1091
-    commentsToLikes: 0.064018
+    followers: 27100
+    engagement: 1277
+    commentsToLikes: 0.069756
     id: ckb95x9r8o57x0j23cycsq1fx
     verified: false
-    hashtags: "#storytime, #friends, #fyp, #glowdown"
+    hashtags: "#people, #fyp, #human, #dogs"
 ---

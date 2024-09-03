@@ -1,11 +1,11 @@
 ---
-title: Top 10 Cosmetics Instagram Influencers In Ukraine In 2023
+title: Top 10 Cosmetics Instagram Influencers In Ukraine In 2024
 description: >-
-  Find top cosmetics Instagram influencers in Ukraine in 2023. Most popular hashtags: #makeup #cosmetics #smokyeyes.
+  Find top cosmetics Instagram influencers in Ukraine in 2024. Most popular hashtags: #makeup #cosmetics #smokyeyes.
 platform: Instagram
-hits: 37
-text_top: Analyze the most popular Instagram accounts on inBeat.
-text_bottom: Our search engine has 37 Instagram influencers like this in Ukraine for you to contact.
+hits: 39
+text_top: Analyze the top-rated Instagram influencers on inBeat.
+text_bottom: Our search engine aggregates 39 Instagram influencers like this in Ukraine for you to pitch.
 profiles:
   - username: "kris_stepaniuk"
     fullname: >-

@@ -1,24 +1,60 @@
 ---
-title: Top 10 Bakers Instagram Influencers In Australia In 2023
+title: Top 10 Bakers Instagram Influencers In Australia In 2024
 description: >-
-  Find top bakers Instagram influencers in Australia in 2023. Most popular hashtags: #cake #birthday #cakedecorating.
+  Find top bakers Instagram influencers in Australia in 2024. Most popular hashtags: #cake #veganfood #foodie.
 platform: Instagram
-hits: 98
-text_top: See the best Instagram profiles on inBeat.
-text_bottom: Our database aggregates 98 Instagram influencers like this in Australia for you to contact.
+hits: 92
+text_top: Discover the top-rated Instagram accounts on inBeat.
+text_bottom: Our database has 92 Instagram influencers like this in Australia for you to collaborate.
 profiles:
+  - username: "zaccharybird"
+    fullname: >-
+      Zacchary Bird
+    bio: >-
+      DON’T PANIC! 100% vegan from 🇦🇺 Author “Vegan Junk Food” 🍔 & “The Vegan Butcher” EN/NL/FR/DE🍗 “The Vegan Baker” out NOW 🧁 bookings@slickmgmt.com.au
+    location: "Australia"
+    followers: 96428
+    engagement: 793
+    commentsToLikes: 0.028059
+    id: cl48q93wgm8kg0i23yf9ozb4p
+    verified: false
+    hashtags: "#vegan, #vegandonut, #veganworldshare, #bestofvegan"
+  - username: "brekkywithsara"
+    fullname: >-
+      Ayesha Sara
+    bio: >-
+      Certified Baker| Homechef | lifestyle | Food| Reviews 📍Melbourne. 🇵🇰✈️🇦🇺 For collabs and orders 📧 "Not taking anymore orders until January"
+    location: "Australia"
+    followers: 5850
+    engagement: 276
+    commentsToLikes: 0.179315
+    id: cloqu0h2zgpjb0j08vm0mey1j
+    verified: false
+    hashtags: "#weekend, #toddlerlife, #melbourne, #melbourneactivities"
+  - username: "cwisspy"
+    fullname: >-
+      Christo
+    bio: >-
+      🥞Homecook and baker 🚁Engineer 🤵‍♂Husband Father 👶 📸Travel and Food Photographer @christotravels Mauritian living in Perth 📧 christopherlmf@gmail.com
+    location: "Australia"
+    followers: 36872
+    engagement: 195
+    commentsToLikes: 0.040353
+    id: ck0vylesf4kyj0i1991bs4pkq
+    verified: false
+    hashtags: "#foodporn, #chicken, #yum, #food"
   - username: "walla_abueid"
     fullname: >-
-      Walla Abu-Eid | ولاء ابو عيد
+      Walla Abu-Eid
     bio: >-
-      Happily married, mummy to three 💕 B. Pharmacy | M. Teaching 🇵🇸🇦🇺 Foodie and baker @bakemycakeby_walla Sharing snippets of things I love ✨
+      Happily married 💍 Mum of 3 🎀 B. Pharmacy | M. Teaching 🇵🇸 Foodie and baker @bakemycakeby_walla @bywalla.abueid @remindthesoul 🕊️
     location: "Australia"
-    followers: 121226
-    engagement: 265
-    commentsToLikes: 0.059972
+    followers: 234535
+    engagement: 56
+    commentsToLikes: 0.135928
     id: ck5hhkq108qgb0i11cfrv5y52
     verified: false
-    hashtags: "#huffposttaste, #sydneyfoodies, #foodmagazine, #lockdown2021"
+    hashtags: "#freepalestine, #savegaza, #sydneyeats, #boycottstarbucks"
   - username: "dansbakelab"
     fullname: >-
       Dan’s Bake Lab | 🇦🇺BakeOff ‘19
@@ -31,18 +67,6 @@ profiles:
     id: ckapcr41r4uzc0i78k00skha2
     verified: false
     hashtags: ""
-  - username: "katherine_sabbath"
-    fullname: >-
-      Katherine Sabbath
-    bio: >-
-      🎂 Teacher turned Baker 📗 Author 🎨 New Owner! @CreativeCakeDecorating BOOK 2 #BakeAustraliaGreat 🎉 info@katherinesabbath.com 🐨 Gadigal Land/ Sydney AU
-    location: "Australia"
-    followers: 484880
-    engagement: 134
-    commentsToLikes: 0.041917
-    id: ck136t2ui84b20i197te25ig2
-    verified: true
-    hashtags: "#disneypartner, #makeittogether, #madewithkitchenaid, #disneyhalloween"
   - username: "amy_minichiello_"
     fullname: >-
       FOOD-STORIES-MEMORIES
@@ -103,28 +127,4 @@ profiles:
     id: ck13ajbvqqnh40i19x15pxr3n
     verified: false
     hashtags: "#pullupcake, #tsunamicake, #cake, #cookie"
-  - username: "hanselandgretelcakes"
-    fullname: >-
-      Hansel&Gretel Cakes
-    bio: >-
-      Brisbane based Baker and Cake Decorator. To contact email megan@hanselandgretelcakes.com.au or visit the website! No DM’s please. BOOKED TIL APRIL
-    location: "Australia"
-    followers: 31094
-    engagement: 99
-    commentsToLikes: 0.036266
-    id: ck5q9heczb58i0i11k9f52ka4
-    verified: false
-    hashtags: "#brisbanecakes, #cake, #brisbanecake, #birthday"
-  - username: "vikramaditya4"
-    fullname: >-
-      Vikramaditya Sreeman
-    bio: >-
-      Pastry Chef & Baker 🥖🥐 🇮🇳🇦🇺
-    location: "Australia"
-    followers: 2530
-    engagement: 871
-    commentsToLikes: 0.064022
-    id: ck13b19yrt74s0i19dbo96yzg
-    verified: false
-    hashtags: "#chefstalk, #chefsgossips, #lefooding, #pastryelite"
 ---

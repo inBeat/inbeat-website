@@ -1,24 +1,24 @@
 ---
-title: Top 10 Cosmetics Instagram Influencers In Seoul In 2023
+title: Top 10 Cosmetics Instagram Influencers In Seoul In 2024
 description: >-
-  Find top cosmetics Instagram influencers in Seoul in 2023. Most popular hashtags: #makeup #kpop #seoul #makeupartist.
+  Find top cosmetics Instagram influencers in Seoul in 2024. Most popular hashtags: #seoul #korea #skincare #kbeauty.
 platform: Instagram
-hits: 10
-text_top: Analyze the best Instagram profiles on inBeat.
-text_bottom: Our database aggregates 10 Instagram influencers like this in Seoul, South Korea for you to work with.
+hits: 13
+text_top: See the most popular Instagram influencers on inBeat.
+text_bottom: Our platform holds 13 Instagram influencers like this in Seoul, South Korea for you to collaborate.
 profiles:
-  - username: "big_miss_han"
+  - username: "hwa_jii"
     fullname: >-
-      Han Yoo Ra
+      화지 (花紙)
     bio: >-
-      🌏 ʟɪᴛᴛʟᴇ & ʙɪɢ 🌎 📍Seoul 📚 @beasiswamasadepandunia 💎 CCO of @ziktalk.official 📮littleandbig25@gmail.com 🌤 ɪsᴀɪᴀʜ 60:22 ⬇️ Download 💙Ziktalk💙
+      📩 jjoung_21@naver.com ⠀⠀⠀⠀⠀⠀⠀⠀ YouTube 보러 가기👇🏻
     location: "South Korea"
-    followers: 392756
-    engagement: 255
-    commentsToLikes: 0.004071
-    id: ck0u9tehjamir0i197vtzrsj9
-    verified: true
-    hashtags: "#ccolife, #rintiskemajuan, #repost, #meangirlsmood"
+    followers: 228438
+    engagement: 198
+    commentsToLikes: 0.011677
+    id: ck6twhzoms3bq0j71ujuins20
+    verified: false
+    hashtags: "#yslbeauty, #ad, #wakemake, #bbia"
   - username: "glee_makeup"
     fullname: >-
       글리 glee
@@ -31,6 +31,54 @@ profiles:
     id: ck14jhftykd3u0i193zey1y1i
     verified: false
     hashtags: "#liptint, #coffee, #homecafe, #koreanfood"
+  - username: "sandra_ssong"
+    fullname: >-
+      Sasha Song 모델|유튜버🇰🇷
+    bio: >-
+      서울/Seoul 🇰🇷📍 290만명 유튜버 ,모델 📸 광고,촬영문의 / Business ⬇️ sasha_song@naver.com
+    location: "South Korea"
+    followers: 686415
+    engagement: 599
+    commentsToLikes: 0.008739
+    id: ck8t8gcnikdal0j7833hnrq5k
+    verified: false
+    hashtags: "#koreanstyle, #koreanmodel, #model, #osaka"
+  - username: "franchekal"
+    fullname: >-
+      Fran Chekal
+    bio: >-
+      🇰🇷🇨🇱 T!kt0k: Franchekal (2.5M) ✨@catrice_cosmetics.latam ✨ Franchekalc@gmail.com
+    location: "South Korea"
+    followers: 201754
+    engagement: 1237
+    commentsToLikes: 0.005905
+    id: ckap8vhytq2u40i78bx1fcnj0
+    verified: false
+    hashtags: "#samsungunpacked, #teamgalaxy, #sumatealmodoflip, #hmchile"
+  - username: "neocbb"
+    fullname: >-
+      adele
+    bio: >-
+      SEOUL, Korea 🦋 mua & content creator ✉️ adelewil1227@gmail.com or DM
+    location: "South Korea"
+    followers: 73730
+    engagement: 1219
+    commentsToLikes: 0.006817
+    id: ck9h9pgoz9feh0j785v9ngosa
+    verified: false
+    hashtags: "#cameragear, #cameraoperator, #shinebrightwithk, #kaleidosmakeup"
+  - username: "euniunni"
+    fullname: >-
+      Euniunni 유니언니
+    bio: >-
+      Seoul🇰🇷 LA🇺🇸 Euniunni05@gmail.com
+    location: "South Korea"
+    followers: 101075
+    engagement: 170
+    commentsToLikes: 0.064251
+    id: cl48q91ebm6hf0i23qcxjt953
+    verified: false
+    hashtags: "#seoul, #koreanskincare, #kbeauty, #skincare"
   - username: "d2nasoaring"
     fullname: >-
       Dina 디나 Mujanović
@@ -43,6 +91,30 @@ profiles:
     id: ck6tvpzpwnm7r0j718srk9qrl
     verified: false
     hashtags: "#selfie, #skincare, #koreanbeauty, #koreanskincare"
+  - username: "jiyoon_jeong125"
+    fullname: >-
+      정지윤
+    bio: >-
+      Sharing favorite moments🤍
+    location: "South Korea"
+    followers: 21096
+    engagement: 364
+    commentsToLikes: 0.039410
+    id: ckapc3pfm2cas0i782neqvnl5
+    verified: false
+    hashtags: "#ootd, #seoul, #travel, #workout"
+  - username: "mounecasta"
+    fullname: >-
+      Mounia Djillar
+    bio: >-
+      ☆ @newme.in.korea
+    location: "South Korea"
+    followers: 61232
+    engagement: 217
+    commentsToLikes: 0.021593
+    id: ckf5tntk7i9xo0j23olqhf879
+    verified: false
+    hashtags: "#seoul, #alger, #paris, #love"
   - username: "alannam1"
     fullname: >-
       남훈 Alan Nam
@@ -55,76 +127,4 @@ profiles:
     id: ck55kafkvyv460i111bta3lsf
     verified: false
     hashtags: "#alannam, #creativedirector, #multibrandstore, #shopalans"
-  - username: "lalakanoha"
-    fullname: >-
-      𝐋𝐚𝐥𝐚 𝐋𝐚𝐧𝐝 라라 랜드 🪐💜
-    bio: >-
-      🔗서울에 사는 프리랜서 모델 & 배우. 협력 DM 𝙇𝙞𝙫𝙚 𝙞𝙣 𝙆𝙤𝙧𝙚𝙖 🇰🇷🇺🇦 🔗 Все о жизни в Корее 🇰🇷 💛реклама в лс / 𝙘𝙤𝙡𝙡𝙖𝙗𝙤𝙧𝙖𝙩𝙞𝙤𝙣 𝙞𝙣 𝙙𝙞𝙧𝙚𝙘𝙩 💛
-    location: "South Korea"
-    followers: 16648
-    engagement: 603
-    commentsToLikes: 0.042266
-    id: ck9wecq92jpp80j780zp6c5hq
-    verified: false
-    hashtags: "#koreanmodel, #koreancouple, #koreanfashion, #koreanstreetstyle"
-  - username: "taelaraa"
-    fullname: >-
-      Dilara ILGAZ
-    bio: >-
-      #모델 #model 촬영문의 ⤵️ 📩 이메일:anj-ent@naver.com ☎️연락처 (백철호): +82 010-7455-0175
-    location: "South Korea"
-    followers: 7566
-    engagement: 1016
-    commentsToLikes: 0.029799
-    id: ck8t2ajzoyqub0j78rmpoc531
-    verified: false
-    hashtags: "#girl, #me, #makeup, #taelara"
-  - username: "seungsse2"
-    fullname: >-
-      🇰🇷 승스이 | 리우[Liu Makeup]
-    bio: >-
-      (❣️ 연애 중) 📩 DM & E-mail (ryou3339@naver.com) 👑 Makeup Artist · Beauty Creator · 브랜딩 · 모델 • ———————————————————————— • 🔻 Youtube · TikTok · Portfolio 🔻
-    location: "South Korea"
-    followers: 99336
-    engagement: 245
-    commentsToLikes: 0.023286
-    id: ck0w794mqcdt30i19zgt8hieh
-    verified: false
-    hashtags: "#makeupartist, #mensstyle, #menshair, #makeupkorea"
-  - username: "_jay_1218_"
-    fullname: >-
-      Univ. of Seoul - Economics🎓
-    bio: >-
-      맛집, 카페, 뷰티, 패션 광고주님들 DM주세요✨
-    location: "South Korea"
-    followers: 11719
-    engagement: 429
-    commentsToLikes: 0.012656
-    id: ckaovx6id6hf90i78go2c1edg
-    verified: false
-    hashtags: "#like4like, #likeforlike, #food, #ad"
-  - username: "hanna.co.kr"
-    fullname: >-
-      Hanna Kim 김한나
-    bio: >-
-      아나운서 / 성우 / 행사MC / 릴리맘 TV Presenter Radio DJ 📻 @thescoop1013 Voice Actress 2018 Pyeongchang Olympics MC 2018 Winter Paralympics MC 🌸🌼🌺
-    location: "South Korea"
-    followers: 38082
-    engagement: 186
-    commentsToLikes: 0.007883
-    id: ck5zm77ftm18b0i145hym7m16
-    verified: false
-    hashtags: "#ootd, #nikegolf, #golf, #golflife"
-  - username: "circymoreno"
-    fullname: >-
-      ✘ 𝕮𝖎𝖗𝖈𝔂 ✘
-    bio: >-
-      Dc @circydancecover ❦ Team @dejavuteamdance Art @cian.says KPOP WORLD FESTIVAL 2019 🏆 @mss_.hell._ ✨
-    location: "South Korea"
-    followers: 4264
-    engagement: 1590
-    commentsToLikes: 0.033917
-    id: ck8t9ccshnkx90j785xai93jq
-    verified: false
-    hashtags: "#jungkook, #army, #kpop, #hair"
 ---

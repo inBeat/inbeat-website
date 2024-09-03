@@ -1,11 +1,11 @@
 ---
-title: Top 10 Travel TikTok Influencers In South Korea In 2023
+title: Top 10 Travel TikTok Influencers In South Korea In 2024
 description: >-
-  Find top travel TikTok influencers in South Korea in 2023. Most popular hashtags: #korea #fyp #foryou #southkorea.
+  Find top travel TikTok influencers in South Korea in 2024. Most popular hashtags: #korea #fyp #foryou #southkorea.
 platform: TikTok
 hits: 26
-text_top: See the most popular TikTok influencers on inBeat.
-text_bottom: Our platform aggregates 26 TikTok influencers like this in South Korea for you to pitch.
+text_top: Discover the top-rated TikTok accounts on inBeat.
+text_bottom: Our database holds 26 TikTok influencers like this in South Korea for you to collaborate.
 profiles:
   - username: "hollysteeves"
     fullname: >-
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.017845
     id: ckb9qgaxgm9680j23bazbl0u1
     verified: false
-    hashtags: "#seoul, #germany, #kpop, #seoulkorea"
+    hashtags: "#koreanfashion, #seoullife, #spring, #koreaseoul"
   - username: "ya.stacey"
     fullname: >-
       Stacey 🌻 스테이시
@@ -66,7 +66,7 @@ profiles:
     commentsToLikes: 0.010118
     id: ckcdugqjxejtj0j23q1hw5kh7
     verified: false
-    hashtags: "#sunsetlover, #tiktoktravel, #seoultravel, #traveltiktok"
+    hashtags: "#sunsetlover, #seoul, #moon, #aestetic"
   - username: "sealbkk"
     fullname: >-
       방콕물개SealKim
@@ -90,7 +90,7 @@ profiles:
     commentsToLikes: 0.009918
     id: ck999uwixeokh0j78t69kyciy
     verified: true
-    hashtags: "#edit, #travel, #korea, #teacher"
+    hashtags: "#korea, #edit, #teacher, #travel"
   - username: "sophiekim.korea"
     fullname: >-
       Sophie Kim 하은

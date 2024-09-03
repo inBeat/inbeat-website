@@ -1,24 +1,12 @@
 ---
-title: Top 10 Comedians Instagram Influencers In Japan In 2023
+title: Top 10 Comedians Instagram Influencers In Japan In 2024
 description: >-
-  Find top comedians Instagram influencers in Japan in 2023. Most popular hashtags: #aloha #galaxys20 #pr.
+  Find top comedians Instagram influencers in Japan in 2024. Most popular hashtags: #comedian #instagram #comedy.
 platform: Instagram
-hits: 14
-text_top: Identify the top-rated Instagram accounts on inBeat.
-text_bottom: Our platform has 14 Instagram influencers like this in Japan for you to connect with.
+hits: 13
+text_top: Identify the best Instagram influencers on inBeat.
+text_bottom: inBeat aggregates 13 Instagram influencers like this in Japan for you to connect with.
 profiles:
-  - username: "mantaskatleris"
-    fullname: >-
-      Mantas Katleris
-    bio: >-
-      Comedian.
-    location: "Japan"
-    followers: 287296
-    engagement: 674
-    commentsToLikes: 0.003864
-    id: ck0w6zks8b0n30i19ixr48r2s
-    verified: false
-    hashtags: "#reklama, #teamgalaxy, #withgalaxy, #galaxys20"
   - username: "iwaigawa_jonio_iwai"
     fullname: >-
       岩井ジョニ男/ jonio Iwai
@@ -103,18 +91,6 @@ profiles:
     id: ck138zmveistm0i19j6n84ih4
     verified: true
     hashtags: "#youcantstopus, #pr, #hollywood, #teamnike"
-  - username: "watanabenaomi703"
-    fullname: >-
-      渡辺直美
-    bio: >-
-      Naomi Watanabe🇯🇵comedian 🙆‍♀️ YouTube🙂↓↓↓
-    location: "Japan"
-    followers: 9365162
-    engagement: 369
-    commentsToLikes: 0.006044
-    id: ck0tv5i6ya0tw0i19g01kbjo8
-    verified: true
-    hashtags: "#10bestfriend, #line, #returnlinemessages, #postoninstagram"
   - username: "korokke_official"
     fullname: >-
       コロッケものまね
@@ -127,4 +103,28 @@ profiles:
     id: ck6tze9y996zc0j71savzau88
     verified: false
     hashtags: "#comedian, #imitation, #mimic, #laughter"
+  - username: "jasmins.jungle"
+    fullname: >-
+      Jasmin
+    bio: >-
+      𝗮𝗸𝗮 𝗱𝘀𝗰𝗵𝗮̈𝘀𝗺𝗶𝗻 •𝗰𝗿𝗮𝘇𝘆 𝗠𝗶𝗻𝗶𝗳𝗿𝗲𝘂𝗻𝗱 𝘃𝗼𝗻 𝗻𝗲𝗺 𝗴𝗲𝘄𝗶𝘀𝘀𝗲𝗻 𝗝𝗼𝘀𝗲𝗳 ッ •𝗮̈ 𝘀𝗺𝗶𝗹𝗲 𝗮 𝗱𝗮𝘆 𝗮̈𝗻𝗱 𝗱𝘀𝗰𝗵𝗮̈𝘀𝗺𝗶𝗻 𝘄𝗶𝗹𝗹 𝘀𝗮𝘆 „𝙝𝙤𝙤𝙧𝙖𝙮“ [🌝]
+    location: "Japan"
+    followers: 7257
+    engagement: 1182
+    commentsToLikes: 0.016328
+    id: ck8t4nwfd7gsw0j784loa8iye
+    verified: false
+    hashtags: "#junglefamily, #joeysjunglememe, #explorepage, #crazy"
+  - username: "wakaponsan"
+    fullname: >-
+      Ninjacats Chaco & Suzuka
+    bio: >-
+      @animal__aid 出身 #チャコたん Chaco♂ と #すず香 Suzuka♀ 🌸温かいお言葉ありがとうございます。 お返事出来ず申し訳ないです。コメは最新picにお願いします🙏通知流れの為、過去写真へのコメは気付きません😢#adoptdontshop #ninjacat
+    location: "Japan"
+    followers: 44562
+    engagement: 566
+    commentsToLikes: 0.010702
+    id: ck137ncj6ceas0i19i7cbwdfm
+    verified: false
+    hashtags: "#catoftheday, #kittens, #ninjacats, #igersjp"
 ---

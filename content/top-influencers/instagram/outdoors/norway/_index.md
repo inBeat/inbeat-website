@@ -1,12 +1,36 @@
 ---
-title: Top 10 Outdoors Instagram Influencers In Norway In 2023
+title: Top 10 Outdoors Instagram Influencers In Norway In 2024
 description: >-
-  Find top outdoors Instagram influencers in Norway in 2023. Most popular hashtags: #norge #nature #liveterbestute.
+  Find top outdoors Instagram influencers in Norway in 2024. Most popular hashtags: #norge #norway #utno #outdoors.
 platform: Instagram
-hits: 119
-text_top: Discover the best Instagram accounts on inBeat.
-text_bottom: inBeat has 119 Instagram influencers like this in Norway for you to collaborate.
+hits: 127
+text_top: See the most popular Instagram accounts on inBeat.
+text_bottom: Our platform has 127 Instagram influencers like this in Norway for you to collaborate.
 profiles:
+  - username: "unececilie"
+    fullname: >-
+      Une Cecilie Oksvold
+    bio: >-
+      Outdoors, mental health and knitting Adventures with Juster and van Leif🐾 Link til boka mi Fargerik turstrikk 🧶🌈 ↓
+    location: "Norway"
+    followers: 85281
+    engagement: 467
+    commentsToLikes: 0.093793
+    id: ck15t0hl2fq8o0i190y1r4v6k
+    verified: false
+    hashtags: "#hundp, #trondheim, #psykiskhelse, #utno"
+  - username: "helenemoo"
+    fullname: >-
+      Helene Myhre
+    bio: >-
+      Norway 🌲🦋🍦🍓🐝 Outdoors, adventure & road trips Maps • Presets • Travel guides ↓
+    location: "Norway"
+    followers: 766251
+    engagement: 426
+    commentsToLikes: 0.015350
+    id: ck5c4kbyb1j7e0i11qd3wl7qc
+    verified: false
+    hashtags: ""
   - username: "marensolem"
     fullname: >-
       Maren Solem🇳🇴 Norway
@@ -31,18 +55,6 @@ profiles:
     id: ck14l0lazs9k40i19z2n577iz
     verified: false
     hashtags: "#friluftsliv, #tur, #canamoffroadlivin, #itsinmynature"
-  - username: "helenemoo"
-    fullname: >-
-      Helene Myhre
-    bio: >-
-      Norway 🌈🏔🏃🏽‍♀️🌱⛺️📸 Outdoors, road trips & photo tips Presets, Prints & Turbok ↓
-    location: "Norway"
-    followers: 149391
-    engagement: 792
-    commentsToLikes: 0.009845
-    id: ck5c4kbyb1j7e0i11qd3wl7qc
-    verified: false
-    hashtags: ""
   - username: "turkjellene"
     fullname: >-
       TURKJELLENE
@@ -115,16 +127,4 @@ profiles:
     id: ck5zy8yqj9fx20i14nyfhrk7s
     verified: false
     hashtags: "#outdoorgirl, #vacation, #alaskanhusky, #alaskanhuskie"
-  - username: "bodildall"
-    fullname: >-
-      ↟ Bodil Dorothea Gilje ↟
-    bio: >-
-      👩🏼‍💻 Designer & outdoors 💫 Årets Turjente 2017 🌲 @RevirOslo 🔥 @Revirbushcraft 🏕 @turjenter.no
-    location: "Norway"
-    followers: 30791
-    engagement: 517
-    commentsToLikes: 0.011487
-    id: ck139fdi7l0v20i19b2gcchkr
-    verified: false
-    hashtags: "#socialdistancing, #tb, #allsang, #viliggerherenda"
 ---

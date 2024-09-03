@@ -1,11 +1,11 @@
 ---
-title: Top 10 Music TikTok Influencers In Italy In 2023
+title: Top 10 Music TikTok Influencers In Italy In 2024
 description: >-
-  Find top music TikTok influencers in Italy in 2023. Most popular hashtags: #perte #duetto #fyp.
+  Find top music TikTok influencers in Italy in 2024. Most popular hashtags: #perte #duetto #fyp.
 platform: TikTok
-hits: 303
-text_top: Analyze the top-rated TikTok accounts on inBeat.
-text_bottom: Our platform has 303 TikTok influencers like this in Italy for you to work with.
+hits: 306
+text_top: See the best TikTok accounts on inBeat.
+text_bottom: Our platform aggregates 306 TikTok influencers like this in Italy for you to work with.
 profiles:
   - username: "napoletano1981"
     fullname: >-
@@ -90,7 +90,7 @@ profiles:
     commentsToLikes: 0.026961
     id: ckc91ldnzrnxa0j23cvnwmcia
     verified: false
-    hashtags: "#duet, #perte, #singing, #arianagrande"
+    hashtags: "#perte, #singing, #arianagrande, #duet"
   - username: "shirou887"
     fullname: >-
       shiro

@@ -1,24 +1,24 @@
 ---
-title: Top 10 Skincare Instagram Influencers In Greece In 2023
+title: Top 10 Skincare Instagram Influencers In Greece In 2024
 description: >-
-  Find top skincare Instagram influencers in Greece in 2023. Most popular hashtags: #skincare #giveaway #skincareroutine #moodoftheday.
+  Find top skincare Instagram influencers in Greece in 2024. Most popular hashtags: #skincare #skincareroutine #beauty #giveaway.
 platform: Instagram
-hits: 55
-text_top: See the most popular Instagram profiles on inBeat.
-text_bottom: Our database has 55 Instagram influencers like this in Greece for you to collaborate.
+hits: 78
+text_top: Analyze the most popular Instagram accounts on inBeat.
+text_bottom: Our platform aggregates 78 Instagram influencers like this in Greece for you to pitch.
 profiles:
-  - username: "noholita"
+  - username: "cleopatra_black"
     fullname: >-
-      NOHOLITA 🦋 Camille Callen
+      Cleopatra Lagouvardou
     bio: >-
-      Skincare @voilabeaute Dressing @nhltparis Love & peaceful @sistersastro Office & event @thehilldoor More infos. 🦋
+      Makeup | Skincare | +Fashion 〰️ Beauty Editor 🎵 Music Teacher TikTok: @cleopatra_black (20K) 💌 mcleopatra_lgvrdou@hotmail.gr
     location: "Greece"
-    followers: 1008603
-    engagement: 123
-    commentsToLikes: 0.036414
-    id: ck0tyh464msp70i19b2htf9a1
-    verified: true
-    hashtags: "#perfecto, #dream, #love"
+    followers: 29138
+    engagement: 94
+    commentsToLikes: 0.114152
+    id: ckaorbvdxmlmy0i78odbabsjt
+    verified: false
+    hashtags: "#valeparabita, #prespring, #skincare, #curvypower"
   - username: "lilouko3"
     fullname: >-
       illiana Argyriou
@@ -67,64 +67,64 @@ profiles:
     id: ck9we5cquio0r0j784w32vv7v
     verified: false
     hashtags: "#selfcarewithlamer, #lovelamer, #lamerexpert, #withmybaby"
-  - username: "souzana"
+  - username: "pi_hbp"
     fullname: >-
-      souzana
+      P   I   N   A   R
     bio: >-
-      Beauty Lover 🫶🏼 Founder @heybeautygr •Awarded beauty influencer •Beauty Editor •Passionate Youtuber •Podcaster, The Beauty Talk
+      Mother of Three Masterpieces Fashion | Beauty | lifestyle Greece📍| DM for Collabs 📩
     location: "Greece"
-    followers: 135858
-    engagement: 444
-    commentsToLikes: 0.098353
-    id: ck6tl00w85q8j0j71uxkrmodc
+    followers: 22922
+    engagement: 419
+    commentsToLikes: 0.379631
+    id: ck5q403u1n5eq0i112ipr5mor
     verified: false
-    hashtags: "#herrerabeauty, #heybeautygr, #skincare, #xmas"
-  - username: "vanessa._mi"
+    hashtags: "#son, #fashion, #alouette, #momlifebelike"
+  - username: "evridiki_valavani"
     fullname: >-
-      Vanessa Mi
+      Evridiki Valavani
     bio: >-
-      🇬🇷YouTuber 👨‍🚒Firefighter's wife 👩‍👧‍👦Mommy of Kassandra & Ektoras 🎬👇Vanessa Mi Channel
+      TV Presenter / Journalist 📺@megatvcom / @akomadeneidestipota_ Founder @arev_thebrand & @radpolewear Cat Lover 🐱 📍Athens 🇬🇷
     location: "Greece"
-    followers: 25558
-    engagement: 2645
-    commentsToLikes: 0.356916
-    id: ckaozmagzmhkp0i78ayyrwsx2
-    verified: false
-    hashtags: "#giveaway, #skincare, #jowae, #vanessamichannel"
+    followers: 641432
+    engagement: 307
+    commentsToLikes: 0.088721
+    id: ck5q2t0m6ho5q0i11pv2pa590
+    verified: true
+    hashtags: "#ad, #hacks, #tips, #skincare"
   - username: "beautymylife_gr"
     fullname: >-
       Popi Stefani
     bio: >-
-      Beauty Blogger
+      Hi, I'm Popi and I'm a Beauty Blogger! Welcome to my profile. I am a wife, a mom to three beautiful girls and full time writer. 🖤🤍
     location: "Greece"
-    followers: 20836
-    engagement: 719
-    commentsToLikes: 0.312208
+    followers: 24256
+    engagement: 265
+    commentsToLikes: 0.056985
     id: ck55ougup95pv0i11jfly00rf
     verified: false
-    hashtags: "#instagood, #children, #new, #newproduct"
-  - username: "alexiazaradouka"
+    hashtags: "#amazing, #beauty, #newproject, #instadaily"
+  - username: "timetogloww"
     fullname: >-
-      Alexia Zaradouka🐰
+      Jennifer | beauty • lifestyle • ugc creator
     bio: >-
-      ▪️Editor/Founder www.bodyandsoul.gr ▪️TV Beauty Expert ▪️Video Creator & Podcaster ▪️Beauty, Wellness & Holistic Editor/Blogger
+      ♥︎ cozy aesthetic mama to @gooodboytyson 🐯 💌 timetogloww@gmail.com ↓ shop with me ↓
     location: "Greece"
-    followers: 36990
-    engagement: 508
-    commentsToLikes: 0.810889
-    id: ck0twck3jew3t0i19hp4vee2e
+    followers: 13595
+    engagement: 158
+    commentsToLikes: 0.052263
+    id: ckaor998cm9iv0i78367vrvno
     verified: false
-    hashtags: "#beauty, #lidlplusapp, #roomiesmega, #tv"
-  - username: "jenny_loves_beauty"
+    hashtags: "#beautycommunity, #beautyobsessed, #igtopshelfie, #beatthealgo"
+  - username: "themomdiary"
     fullname: >-
-      Jenny Loves Beauty
+      Meggie M
     bio: >-
-      MUA Athens ❤️Σπουδές δημοσιογραφίας ❤️Beauty blogger 💄for collaboration & PR 📩 CODE eugeniapoul43997 30% @frmadcos
+      Family | Wellness | Lifestyle | Travel 📧 themomdiary2016@gmail.com
     location: "Greece"
-    followers: 23993
-    engagement: 1320
-    commentsToLikes: 1.050791
-    id: ckap4zqbo9jeh0i7822dxl3eb
+    followers: 11936
+    engagement: 133
+    commentsToLikes: 0.001662
+    id: ck5q40ewhn6qm0i113xdjlzan
     verified: false
-    hashtags: "#w7cosmetics, #makeupideas, #benefitcosmetics, #skincareroutine"
+    hashtags: "#xmastree, #hollandandbarrettgreece, #expertlytrained, #sunset"
 ---

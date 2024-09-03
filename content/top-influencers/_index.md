@@ -331,122 +331,122 @@ platforms:
       - name: Vietnam
         link: /instagram/vietnam
     cities:
-      - name: Sydney
-        link: /instagram/australia/sydney
-      - name: Turin
-        link: /instagram/italy/turin
-      - name: Izmir
-        link: /instagram/turkey/izmir
-      - name: Konya
-        link: /instagram/turkey/konya
-      - name: San Diego
-        link: /instagram/united-states/san-diego
-      - name: Seoul
-        link: /instagram/south-korea/seoul
-      - name: Incheon
-        link: /instagram/south-korea/incheon
-      - name: Chiang mai
-        link: /instagram/thailand/chiang-mai
-      - name: San Francisco
-        link: /instagram/united-states/san-francisco
-      - name: Philadelphia
-        link: /instagram/united-states/philadelphia
-      - name: Brisbane
-        link: /instagram/australia/brisbane
-      - name: Sao Paulo
-        link: /instagram/brazil/sao-paulo
-      - name: Osaka
-        link: /instagram/japan/osaka
-      - name: Miami
-        link: /instagram/united-states/miami
-      - name: Los Angeles
-        link: /instagram/united-states/los-angeles
-      - name: Melbourne
-        link: /instagram/australia/melbourne
-      - name: Busan
-        link: /instagram/south-korea/busan
-      - name: Madrid
-        link: /instagram/spain/madrid
-      - name: New York
-        link: /instagram/united-states/new-york
-      - name: Cali
-        link: /instagram/colombia/cali
-      - name: New Delhi
-        link: /instagram/india/new-delhi
-      - name: Las Vegas
-        link: /instagram/united-states/las-vegas
-      - name: Montreal
-        link: /instagram/canada/montreal
-      - name: Porto
-        link: /instagram/portugal/porto
-      - name: Bangkok
-        link: /instagram/thailand/bangkok
-      - name: Phoenix
-        link: /instagram/united-states/phoenix
-      - name: Mumbai
-        link: /instagram/india/mumbai
-      - name: Bali
-        link: /instagram/indonesia/bali
-      - name: Dallas
-        link: /instagram/united-states/dallas
-      - name: Toronto
-        link: /instagram/canada/toronto
-      - name: Berlin
-        link: /instagram/germany/berlin
-      - name: Hamburg
-        link: /instagram/germany/hamburg
-      - name: Tokyo
-        link: /instagram/japan/tokyo
-      - name: Barcelona
-        link: /instagram/spain/barcelona
-      - name: Boston
-        link: /instagram/united-states/boston
-      - name: Vancouver
-        link: /instagram/canada/vancouver
-      - name: Jakarta
-        link: /instagram/indonesia/jakarta
-      - name: San Antonio
-        link: /instagram/united-states/san-antonio
-      - name: London
-        link: /instagram/united-kingdom/london
-      - name: Chicago
-        link: /instagram/united-states/chicago
-      - name: Denver
-        link: /instagram/united-states/denver
-      - name: Bogotá
-        link: /instagram/colombia/bogota
-      - name: Medellín
-        link: /instagram/colombia/medellin
-      - name: Lisbon
-        link: /instagram/portugal/lisbon
-      - name: Durban
-        link: /instagram/south-africa/durban
-      - name: Istanbul
-        link: /instagram/turkey/istanbul
-      - name: Manchester
-        link: /instagram/united-kingdom/manchester
-      - name: Houston
-        link: /instagram/united-states/houston
-      - name: Milan
-        link: /instagram/italy/milan
-      - name: Ankara
-        link: /instagram/turkey/ankara
-      - name: Austin
-        link: /instagram/united-states/austin
-      - name: Atlanta
-        link: /instagram/united-states/atlanta
-      - name: Rio de Janeiro
-        link: /instagram/brazil/rio-de-janeiro
       - name: Rome
         link: /instagram/italy/rome
-      - name: Kyoto
-        link: /instagram/japan/kyoto
+      - name: Manchester
+        link: /instagram/united-kingdom/manchester
+      - name: Cali
+        link: /instagram/colombia/cali
+      - name: Madrid
+        link: /instagram/spain/madrid
+      - name: London
+        link: /instagram/united-kingdom/london
+      - name: Busan
+        link: /instagram/south-korea/busan
+      - name: Medellín
+        link: /instagram/colombia/medellin
+      - name: New Delhi
+        link: /instagram/india/new-delhi
+      - name: Tokyo
+        link: /instagram/japan/tokyo
+      - name: Sydney
+        link: /instagram/australia/sydney
+      - name: Melbourne
+        link: /instagram/australia/melbourne
+      - name: Sao Paulo
+        link: /instagram/brazil/sao-paulo
+      - name: Montreal
+        link: /instagram/canada/montreal
+      - name: Bogotá
+        link: /instagram/colombia/bogota
+      - name: San Diego
+        link: /instagram/united-states/san-diego
+      - name: Boston
+        link: /instagram/united-states/boston
+      - name: Las Vegas
+        link: /instagram/united-states/las-vegas
+      - name: Berlin
+        link: /instagram/germany/berlin
+      - name: San Francisco
+        link: /instagram/united-states/san-francisco
+      - name: Denver
+        link: /instagram/united-states/denver
+      - name: Osaka
+        link: /instagram/japan/osaka
+      - name: Lisbon
+        link: /instagram/portugal/lisbon
+      - name: Mumbai
+        link: /instagram/india/mumbai
+      - name: Durban
+        link: /instagram/south-africa/durban
+      - name: Ankara
+        link: /instagram/turkey/ankara
+      - name: Philadelphia
+        link: /instagram/united-states/philadelphia
+      - name: San Antonio
+        link: /instagram/united-states/san-antonio
+      - name: Dallas
+        link: /instagram/united-states/dallas
+      - name: Austin
+        link: /instagram/united-states/austin
+      - name: Barcelona
+        link: /instagram/spain/barcelona
+      - name: Chiang mai
+        link: /instagram/thailand/chiang-mai
+      - name: Bangkok
+        link: /instagram/thailand/bangkok
+      - name: Izmir
+        link: /instagram/turkey/izmir
+      - name: Rio de Janeiro
+        link: /instagram/brazil/rio-de-janeiro
       - name: Capetown
         link: /instagram/south-africa/capetown
+      - name: Incheon
+        link: /instagram/south-korea/incheon
+      - name: Phoenix
+        link: /instagram/united-states/phoenix
+      - name: Los Angeles
+        link: /instagram/united-states/los-angeles
+      - name: Seoul
+        link: /instagram/south-korea/seoul
+      - name: Istanbul
+        link: /instagram/turkey/istanbul
       - name: Birmingham
         link: /instagram/united-kingdom/birmingham
+      - name: Vancouver
+        link: /instagram/canada/vancouver
+      - name: Hamburg
+        link: /instagram/germany/hamburg
+      - name: Milan
+        link: /instagram/italy/milan
+      - name: Turin
+        link: /instagram/italy/turin
+      - name: Porto
+        link: /instagram/portugal/porto
+      - name: Toronto
+        link: /instagram/canada/toronto
+      - name: New York
+        link: /instagram/united-states/new-york
+      - name: Chicago
+        link: /instagram/united-states/chicago
       - name: Seattle
         link: /instagram/united-states/seattle
+      - name: Miami
+        link: /instagram/united-states/miami
+      - name: Brisbane
+        link: /instagram/australia/brisbane
+      - name: Jakarta
+        link: /instagram/indonesia/jakarta
+      - name: Bali
+        link: /instagram/indonesia/bali
+      - name: Konya
+        link: /instagram/turkey/konya
+      - name: Kyoto
+        link: /instagram/japan/kyoto
+      - name: Houston
+        link: /instagram/united-states/houston
+      - name: Atlanta
+        link: /instagram/united-states/atlanta
   - name: TikTok
     niches:
       - name: architecture
@@ -775,118 +775,118 @@ platforms:
       - name: Venezuela
         link: /tiktok/venezuela
     cities:
-      - name: Barcelona
-        link: /tiktok/spain/barcelona
-      - name: Izmir
-        link: /tiktok/turkey/izmir
-      - name: Hamburg
-        link: /tiktok/germany/hamburg
-      - name: Rome
-        link: /tiktok/italy/rome
-      - name: Melbourne
-        link: /tiktok/australia/melbourne
-      - name: Istanbul
-        link: /tiktok/turkey/istanbul
-      - name: Las Vegas
-        link: /tiktok/united-states/las-vegas
-      - name: Los Angeles
-        link: /tiktok/united-states/los-angeles
-      - name: Sydney
-        link: /tiktok/australia/sydney
-      - name: Brisbane
-        link: /tiktok/australia/brisbane
-      - name: Tokyo
-        link: /tiktok/japan/tokyo
-      - name: Durban
-        link: /tiktok/south-africa/durban
-      - name: Madrid
-        link: /tiktok/spain/madrid
-      - name: Bangkok
-        link: /tiktok/thailand/bangkok
-      - name: Birmingham
-        link: /tiktok/united-kingdom/birmingham
-      - name: Manchester
-        link: /tiktok/united-kingdom/manchester
-      - name: Montreal
-        link: /tiktok/canada/montreal
-      - name: Jakarta
-        link: /tiktok/indonesia/jakarta
-      - name: Chicago
-        link: /tiktok/united-states/chicago
-      - name: Houston
-        link: /tiktok/united-states/houston
-      - name: Rio de Janeiro
-        link: /tiktok/brazil/rio-de-janeiro
-      - name: Medellín
-        link: /tiktok/colombia/medellin
-      - name: Milan
-        link: /tiktok/italy/milan
-      - name: Busan
-        link: /tiktok/south-korea/busan
-      - name: San Francisco
-        link: /tiktok/united-states/san-francisco
-      - name: Dallas
-        link: /tiktok/united-states/dallas
-      - name: Bogotá
-        link: /tiktok/colombia/bogota
-      - name: Cali
-        link: /tiktok/colombia/cali
+      - name: Toronto
+        link: /tiktok/canada/toronto
       - name: Berlin
         link: /tiktok/germany/berlin
-      - name: Osaka
-        link: /tiktok/japan/osaka
-      - name: Miami
-        link: /tiktok/united-states/miami
-      - name: Vancouver
-        link: /tiktok/canada/vancouver
-      - name: Konya
-        link: /tiktok/turkey/konya
+      - name: Sao Paulo
+        link: /tiktok/brazil/sao-paulo
+      - name: Bangkok
+        link: /tiktok/thailand/bangkok
+      - name: Ankara
+        link: /tiktok/turkey/ankara
       - name: Boston
         link: /tiktok/united-states/boston
       - name: Philadelphia
         link: /tiktok/united-states/philadelphia
-      - name: Toronto
-        link: /tiktok/canada/toronto
-      - name: Lisbon
-        link: /tiktok/portugal/lisbon
-      - name: Chiang mai
-        link: /tiktok/thailand/chiang-mai
+      - name: Chicago
+        link: /tiktok/united-states/chicago
       - name: Seattle
         link: /tiktok/united-states/seattle
-      - name: Sao Paulo
-        link: /tiktok/brazil/sao-paulo
+      - name: San Diego
+        link: /tiktok/united-states/san-diego
+      - name: Rio de Janeiro
+        link: /tiktok/brazil/rio-de-janeiro
+      - name: Jakarta
+        link: /tiktok/indonesia/jakarta
+      - name: Osaka
+        link: /tiktok/japan/osaka
+      - name: Busan
+        link: /tiktok/south-korea/busan
+      - name: London
+        link: /tiktok/united-kingdom/london
+      - name: Cali
+        link: /tiktok/colombia/cali
       - name: Kyoto
         link: /tiktok/japan/kyoto
-      - name: Capetown
-        link: /tiktok/south-africa/capetown
-      - name: Phoenix
-        link: /tiktok/united-states/phoenix
-      - name: Denver
-        link: /tiktok/united-states/denver
-      - name: Turin
-        link: /tiktok/italy/turin
+      - name: Istanbul
+        link: /tiktok/turkey/istanbul
+      - name: Chiang mai
+        link: /tiktok/thailand/chiang-mai
       - name: San Antonio
         link: /tiktok/united-states/san-antonio
       - name: Atlanta
         link: /tiktok/united-states/atlanta
-      - name: Austin
-        link: /tiktok/united-states/austin
+      - name: Miami
+        link: /tiktok/united-states/miami
       - name: New Delhi
         link: /tiktok/india/new-delhi
-      - name: Porto
-        link: /tiktok/portugal/porto
       - name: Seoul
         link: /tiktok/south-korea/seoul
-      - name: London
-        link: /tiktok/united-kingdom/london
-      - name: San Diego
-        link: /tiktok/united-states/san-diego
+      - name: Izmir
+        link: /tiktok/turkey/izmir
+      - name: Manchester
+        link: /tiktok/united-kingdom/manchester
       - name: Mumbai
         link: /tiktok/india/mumbai
-      - name: Bali
-        link: /tiktok/indonesia/bali
-      - name: Ankara
-        link: /tiktok/turkey/ankara
+      - name: Vancouver
+        link: /tiktok/canada/vancouver
+      - name: Durban
+        link: /tiktok/south-africa/durban
+      - name: Turin
+        link: /tiktok/italy/turin
+      - name: Dallas
+        link: /tiktok/united-states/dallas
+      - name: Brisbane
+        link: /tiktok/australia/brisbane
+      - name: Houston
+        link: /tiktok/united-states/houston
+      - name: Melbourne
+        link: /tiktok/australia/melbourne
+      - name: Medellín
+        link: /tiktok/colombia/medellin
+      - name: Rome
+        link: /tiktok/italy/rome
+      - name: Madrid
+        link: /tiktok/spain/madrid
+      - name: Konya
+        link: /tiktok/turkey/konya
+      - name: Bogotá
+        link: /tiktok/colombia/bogota
       - name: New York
         link: /tiktok/united-states/new-york
+      - name: Montreal
+        link: /tiktok/canada/montreal
+      - name: Bali
+        link: /tiktok/indonesia/bali
+      - name: Birmingham
+        link: /tiktok/united-kingdom/birmingham
+      - name: Las Vegas
+        link: /tiktok/united-states/las-vegas
+      - name: Austin
+        link: /tiktok/united-states/austin
+      - name: San Francisco
+        link: /tiktok/united-states/san-francisco
+      - name: Denver
+        link: /tiktok/united-states/denver
+      - name: Sydney
+        link: /tiktok/australia/sydney
+      - name: Milan
+        link: /tiktok/italy/milan
+      - name: Tokyo
+        link: /tiktok/japan/tokyo
+      - name: Lisbon
+        link: /tiktok/portugal/lisbon
+      - name: Porto
+        link: /tiktok/portugal/porto
+      - name: Hamburg
+        link: /tiktok/germany/hamburg
+      - name: Capetown
+        link: /tiktok/south-africa/capetown
+      - name: Barcelona
+        link: /tiktok/spain/barcelona
+      - name: Phoenix
+        link: /tiktok/united-states/phoenix
+      - name: Los Angeles
+        link: /tiktok/united-states/los-angeles
 ---

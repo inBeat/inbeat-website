@@ -1,11 +1,11 @@
 ---
-title: Top 10 Makeup TikTok Influencers In Switzerland In 2023
+title: Top 10 Makeup TikTok Influencers In Switzerland In 2024
 description: >-
-  Find top makeup TikTok influencers in Switzerland in 2023. Most popular hashtags: #makeup #foryou #switzerland #fyp.
+  Find top makeup TikTok influencers in Switzerland in 2024. Most popular hashtags: #makeup #foryou #fyp #switzerland.
 platform: TikTok
-hits: 51
-text_top: Analyze the most popular TikTok accounts on inBeat.
-text_bottom: Our search engine has 51 TikTok influencers like this in Switzerland for you to contact.
+hits: 49
+text_top: Identify the most popular TikTok profiles on inBeat.
+text_bottom: inBeat holds 49 TikTok influencers like this in Switzerland for you to collaborate.
 profiles:
   - username: "raheldiscovers"
     fullname: >-
@@ -103,6 +103,18 @@ profiles:
     id: ckacklngjc0qk0i78y5cjmqyr
     verified: false
     hashtags: "#fashion, #funny, #couples, #fashiontiktok"
+  - username: "dedxy.g"
+    fullname: >-
+      ❀𝐆𝐀𝐁𝐑𝐈𝐄𝐋𝐀❀
+    bio: >-
+      ꧁𝐸𝐶𝑈𝐴𝐷𝑂𝑅꧂ 🇨🇭Zürich📍 🇪🇨ᶜᵘᵉⁿᶜᵃ🇪🇨 ✨20✨
+    location: "Switzerland"
+    followers: 103600
+    engagement: 758
+    commentsToLikes: 0.015140
+    id: ckb0ysbwenm1v0j23735yw0f4
+    verified: false
+    hashtags: "#parati, #latina, #fyp, #ecuador"
   - username: "the.mdj"
     fullname: >-
       Mathieu Dias Jardon
@@ -115,16 +127,4 @@ profiles:
     id: cka66lvrqhhy30i780pesag8s
     verified: false
     hashtags: "#foryou, #makeupartist, #fy, #makeup"
-  - username: "hernandezedgar.official"
-    fullname: >-
-      Hernandez Edgar
-    bio: >-
-      Photograph & Mua 📍 Swiss 🇨🇭
-    location: "Switzerland"
-    followers: 3831
-    engagement: 511
-    commentsToLikes: 0.023788
-    id: ckbqtgfiwe3et0j23tya4sv4k
-    verified: false
-    hashtags: "#fyp, #foryoupage, #fotograf, #analog"
 ---

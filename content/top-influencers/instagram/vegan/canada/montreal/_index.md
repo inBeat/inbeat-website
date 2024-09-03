@@ -1,36 +1,12 @@
 ---
-title: Top 10 Vegan Instagram Influencers In Montreal In 2023
+title: Top 10 Vegan Instagram Influencers In Montreal In 2024
 description: >-
-  Find top vegan Instagram influencers in Montreal in 2023. Most popular hashtags: #vegan #montreal #fitness #summer.
+  Find top vegan Instagram influencers in Montreal in 2024. Most popular hashtags: #montreal #vegan #summer #veganfood.
 platform: Instagram
-hits: 10
-text_top: Identify the top-rated Instagram influencers on inBeat.
-text_bottom: Our database has 10 Instagram influencers like this in Montreal, Canada for you to work with.
+hits: 13
+text_top: Discover the best Instagram profiles on inBeat.
+text_bottom: Our database aggregates 13 Instagram influencers like this in Montreal, Canada for you to work with.
 profiles:
-  - username: "saadia.ammad"
-    fullname: >-
-      Saadia ~ Lifestyle, food, travel, inspiration
-    bio: >-
-      Mom of two 👦🏻👧🏻, caffiene addict, struggling to adult and taking it one day at a time! Ottawa, Canada 🇨🇦🇵🇰 DM/Email for PR/Collabs
-    location: "Canada"
-    followers: 33519
-    engagement: 134
-    commentsToLikes: 0.222591
-    id: cksgajqe05y6t0j2354t46eqb
-    verified: false
-    hashtags: "#canadiangiveaway, #canadianpakistani, #canadiancreator, #613"
-  - username: "christopher_the_pig"
-    fullname: >-
-      
-    bio: >-
-      👍🏻شوف الاىىىـ/ـتوري وتفهم كل شي سبحانك ربي ان كنت من الضالمين @instagram @christopher_the_pig
-    location: "Canada"
-    followers: 103558
-    engagement: 273
-    commentsToLikes: 0.016314
-    id: ck135rz2d2xiy0i19q8sd5mum
-    verified: true
-    hashtags: "#fun, #instagood, #instagram, #funtimes"
   - username: "ayats94"
     fullname: >-
       A Y A T | آيــات
@@ -43,6 +19,42 @@ profiles:
     id: ck15qtiy64kid0i19rcvxn3dw
     verified: false
     hashtags: "#outdoorbella, #wyominglife, #coloradohikes, #coloradoinstagram"
+  - username: "christopher_the_pig"
+    fullname: >-
+      
+    bio: >-
+      👍🏻شوف الاىىىـ/ـتوري وتفهم كل شي سبحانك ربي ان كنت من الضالمين @instagram @christopher_the_pig
+    location: "Canada"
+    followers: 103558
+    engagement: 273
+    commentsToLikes: 0.016314
+    id: ck135rz2d2xiy0i19q8sd5mum
+    verified: true
+    hashtags: "#vegan, #instapig, #fun, #animals"
+  - username: "natalielovesbeauty"
+    fullname: >-
+      ᴡᴡᴡ.ɴᴀᴛᴀʟɪᴇʟᴏᴠᴇꜱʙᴇᴀᴜᴛʏ.ᴄᴏᴍ
+    bio: >-
+      By @nataliejerebic ✧ skincare nut ✧ plant-based ✧ dog mom ▹ montreal, canada 🇨🇦 ▹ partnerships » natalielovesbeauty@gmail.com ↡ blog • youtube ↡
+    location: "Canada"
+    followers: 39101
+    engagement: 538
+    commentsToLikes: 0.051934
+    id: cl5j74izx70zq0i2346r8topw
+    verified: false
+    hashtags: "#kravebeauty, #ad, #kbpartner, #ontheblog"
+  - username: "justinpluslauren"
+    fullname: >-
+      Lauren - Travel Blogger
+    bio: >-
+      🌍 Full-time travel blogger from Toronto area 📩 justinpluslauren@gmail.com 🌱 OG vegan travel blogger (2009!) 💖 Small towns, coffee, cats
+    location: "Canada"
+    followers: 62422
+    engagement: 157
+    commentsToLikes: 0.235201
+    id: ck14juou8ma4u0i19hjri8fux
+    verified: true
+    hashtags: "#summertravel, #visitnovascotia, #grouptravel, #visitbritain"
   - username: "sherbatov"
     fullname: >-
       Eliezer Sherbatov
@@ -54,19 +66,7 @@ profiles:
     commentsToLikes: 0.031349
     id: ck5cgfgqyoqgj0i113j7go62b
     verified: false
-    hashtags: "#jewish, #mma, #poland, #dad"
-  - username: "bylauragdiaz"
-    fullname: >-
-      Laura - Conscious Lifestyle
-    bio: >-
-      📸 Visual storytelling for ethical, sustainable & vegan-friendly brands ⋗ product • fashion • lifestyle ♡ green beauty ☼ body positivity 📍 Montreal
-    location: "Canada"
-    followers: 2513
-    engagement: 1204
-    commentsToLikes: 0.244004
-    id: ck13bok3gwepl0i19265dty97
-    verified: false
-    hashtags: "#travelandleisure, #mtlblogger, #travelinladies, #womenwhotravel"
+    hashtags: "#family, #poland, #father, #fatherdaughter"
   - username: "alexduquettetattoos"
     fullname: >-
       Alex Duquette
@@ -78,7 +78,31 @@ profiles:
     commentsToLikes: 0.008374
     id: ckapbk1qk065n0i784wzomky2
     verified: false
-    hashtags: "#bluebloodcustomtattoos, #montrealtattoo, #skinarttraditional, #drawnontattoo"
+    hashtags: "#bluebloodcustomtattoos, #oldlines, #ottawatattoos, #skinart"
+  - username: "thatecobitch"
+    fullname: >-
+      shelby 🌿
+    bio: >-
+      Low impact low waste 🌿 A modern day hippy on a mission to save mama earth 🌎 I make videos too! ↓↓↓↓↓
+    location: "Canada"
+    followers: 3637
+    engagement: 979
+    commentsToLikes: 0.093539
+    id: ckaowor119rvr0i784n94cejx
+    verified: false
+    hashtags: "#reuse, #nature, #gogreen, #sustainablestyle"
+  - username: "donny_oberoi"
+    fullname: >-
+      Donny Ⓥ
+    bio: >-
+      Third Eye Media 🎬 @thirdeye__studios @mtlive.ca
+    location: "Canada"
+    followers: 18659
+    engagement: 283
+    commentsToLikes: 0.142772
+    id: ck8sxgp5yhbu00j78ot5vw3qb
+    verified: false
+    hashtags: "#plantbased, #veganaf, #foodie, #lmao"
   - username: "fernandolandinofficial"
     fullname: >-
       Fernando Landin
@@ -102,29 +126,5 @@ profiles:
     commentsToLikes: 0.048246
     id: ck5bzokrark0i0i11j9mcne5y
     verified: false
-    hashtags: "#malemodel, #braun, #daddy, #vegan"
-  - username: "thatecobitch"
-    fullname: >-
-      shelby 🌿
-    bio: >-
-      Low impact low waste 🌿 A modern day hippy on a mission to save mama earth 🌎 I make videos too! ↓↓↓↓↓
-    location: "Canada"
-    followers: 4798
-    engagement: 746
-    commentsToLikes: 0.093680
-    id: ckaowor119rvr0i784n94cejx
-    verified: false
-    hashtags: "#lowimpactmovement, #zerowastekitchen, #zerowaste, #zerowastejourney"
-  - username: "monikachxpra"
-    fullname: >-
-      monika chopra
-    bio: >-
-      featured on hypebae 🥐 🤍this is a sign to dress up for no reason 🥂british girl living in toronto 🕊style | travel | skincare | window shopper
-    location: "Canada"
-    followers: 21366
-    engagement: 328
-    commentsToLikes: 0.100626
-    id: ck6u7w08qnyuj0j71yvbzxmbu
-    verified: false
-    hashtags: "#canadianblogger, #summeroutfits, #ootdsubmit, #dazzlehaven"
+    hashtags: "#bluesteel, #vegan, #braun, #malemodel"
 ---

@@ -1,12 +1,48 @@
 ---
-title: Top 10 Barbers Instagram Influencers In Brazil In 2023
+title: Top 10 Barbers Instagram Influencers In Brazil In 2024
 description: >-
-  Find top barbers Instagram influencers in Brazil in 2023. Most popular hashtags: #barbers #barbershopconnect #barbershop #barbering.
+  Find top barbers Instagram influencers in Brazil in 2024. Most popular hashtags: #barbershop #barber #barbers #barbershopconnect.
 platform: Instagram
 hits: 346
-text_top: Analyze the best Instagram influencers on inBeat.
-text_bottom: inBeat aggregates 346 Instagram influencers like this in Brazil for you to work with.
+text_top: Identify the top-rated Instagram profiles on inBeat.
+text_bottom: Our platform has 346 Instagram influencers like this in Brazil for you to connect with.
 profiles:
+  - username: "eversonperninha"
+    fullname: >-
+      Everson Perninha
+    bio: >-
+      O Mentor dos Barbeiros 🎓💈 ✂️ + de 14 mil vidas transformadas pelo mundo 🌍 ⬇️ MATRÍCULAS ABERTAS - Barber Experience
+    location: "Brazil"
+    followers: 202567
+    engagement: 107
+    commentsToLikes: 0.037210
+    id: ck15skn3vdhg90i1943rug7mx
+    verified: false
+    hashtags: "#cabelo, #barbearia, #barberlife, #barbershop"
+  - username: "max_dossantos"
+    fullname: >-
+      MAX DOS SANTOS (RJ) 🇧🇷
+    bio: >-
+      Brazilian Barber 🇧🇷🇪🇸🇵🇹🇳🇱 SERVO DE DEUS📖 INSCRIÇÕES ABERTAS👇🏽 Mentoria Código MS CEO @barbeariamaxx CEO @barber_maximo
+    location: "Brazil"
+    followers: 182662
+    engagement: 45
+    commentsToLikes: 0.062857
+    id: ck0u26gkuywpr0i19vekqcxqf
+    verified: false
+    hashtags: "#dimilexplode, #lovebarber, #barbeirosbrasil, #sobrebarba"
+  - username: "fredycosta1"
+    fullname: >-
+      ＦｒｅｄｙＣｏｓｔａ 👑🇦🇴
+    bio: >-
+      @updategrupo 🍾🥂 @update_barbershop 💈 @fredycosta_collection 👔 @ebano_ebano1
+    location: "Brazil"
+    followers: 2171354
+    engagement: 28
+    commentsToLikes: 0.022367
+    id: ck5zn48mcnr7u0i14fll43od6
+    verified: true
+    hashtags: "#louisvuitton, #portugal, #blackmenwithstyle, #mron"
   - username: "samuelcarvalho_0"
     fullname: >-
       Samuel Carvalho
@@ -67,18 +103,6 @@ profiles:
     id: ck5q1ybjyddk70i11gc20znsl
     verified: false
     hashtags: "#corte, #barbeirosbrasil, #baboon, #undercutjn"
-  - username: "ggsoaress"
-    fullname: >-
-      Gabriel Soares
-    bio: >-
-      💈Barber | Barcelona. • Owner of @gsoaressalon • Founder of @soaresmencare 🎶 TikTok +300k | 🎥 YT +150k: ggsoaress
-    location: "Brazil"
-    followers: 637308
-    engagement: 493
-    commentsToLikes: 0.009439
-    id: ck5chu0fgrgkm0i11okgs3jdn
-    verified: false
-    hashtags: "#hairstyle, #beard, #hair, #barber"
   - username: "mateusbarber92"
     fullname: >-
       mateus Rech
@@ -103,28 +127,4 @@ profiles:
     id: ck5hmcvpdlqcn0i11durccbxo
     verified: false
     hashtags: "#jundia, #jundiai, #influencerjundiai, #looktreino"
-  - username: "jamesbarber.p.e"
-    fullname: >-
-      J∆mes R ßruns 👑
-    bio: >-
-      Professional barber 🇵🇪 📲+51998636569 📩Citas al DM 💇🏾‍♂️Servicio V.I.P 100$ 💈#DARKSTREETBARBERSTUDIO 🖐🏾Especialista en cortes urbanos
-    location: "Brazil"
-    followers: 10951
-    engagement: 425
-    commentsToLikes: 0.061402
-    id: ck9wf49itn4ye0j78fshqvs4t
-    verified: false
-    hashtags: "#barbershopflow, #thebarberpost, #grandesbarberos, #thebarberpostperu"
-  - username: "max_dossantos"
-    fullname: >-
-      MAX DOS SANTOS 🇧🇷
-    bio: >-
-      Brazilian Barber 🇧🇷🇪🇸🇵🇹🇳🇱 SERVO DE DEUS📖 Fundador @barbeariamaxx @barber_maximo @dlmax_ @smallclassbmo Assessoria ⬇️ 21 964963136
-    location: "Brazil"
-    followers: 140408
-    engagement: 183
-    commentsToLikes: 0.018170
-    id: ck0u26gkuywpr0i19vekqcxqf
-    verified: false
-    hashtags: "#braids, #nastybarbers, #brasilbarbershopconect, #lovebarber"
 ---

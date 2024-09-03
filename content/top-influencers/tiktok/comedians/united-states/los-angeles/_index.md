@@ -1,11 +1,11 @@
 ---
-title: Top 10 Comedians TikTok Influencers In Los Angeles In 2023
+title: Top 10 Comedians TikTok Influencers In Los Angeles In 2024
 description: >-
-  Find top comedians TikTok influencers in Los Angeles in 2023. Most popular hashtags: #comedy #stitch #losangeles #fyp.
+  Find top comedians TikTok influencers in Los Angeles in 2024. Most popular hashtags: #comedy #stitch #standup #fyp.
 platform: TikTok
 hits: 30
-text_top: Analyze the best TikTok profiles on inBeat.
-text_bottom: inBeat aggregates 30 TikTok influencers like this in Los Angeles, United States for you to collaborate.
+text_top: Analyze the most popular TikTok accounts on inBeat.
+text_bottom: inBeat aggregates 30 TikTok influencers like this in Los Angeles, United States for you to connect with.
 profiles:
   - username: "dwcomedy1"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.017598
     id: ck9dxg1wtt4860j78r2htwp6w
     verified: false
-    hashtags: "#comedy, #stitch, #podcast, #yeswaypod"
+    hashtags: "#yeswaypod, #comedy, #stitch, #podcast"
   - username: "alina_bock"
     fullname: >-
       Alina Bock
@@ -43,6 +43,18 @@ profiles:
     id: ckav3t38ra6vz0j23cys8x4w5
     verified: false
     hashtags: "#comedy, #realhousewives, #stitch, #losangeles"
+  - username: "thejasonanthony"
+    fullname: >-
+      JASON ANTHONY
+    bio: >-
+      VOICE ACTOR LEGO STAR WARS - CALL OF DUTY - STAR TREK 🔽 MERCH 🔽
+    location: "United States"
+    followers: 257600
+    engagement: 1619
+    commentsToLikes: 0.058389
+    id: ckc9221lfse0v0j23kb2kaxav
+    verified: true
+    hashtags: "#mw, #starwars, #verdansk, #standup"
   - username: "mulletedmadman"
     fullname: >-
       Saul Trujillo
@@ -54,7 +66,7 @@ profiles:
     commentsToLikes: 0.035510
     id: ckbam3u4hd15a0j23lflq1s4z
     verified: false
-    hashtags: "#fyp, #funny, #standup, #standupcomedy"
+    hashtags: "#foryoupage, #standupcomedy, #comedy, #fyp"
   - username: "nathanhurdcomedy"
     fullname: >-
       Nathan Hurd
@@ -66,7 +78,7 @@ profiles:
     commentsToLikes: 0.022426
     id: ck9e0flve5u4m0j78hflwv6xu
     verified: false
-    hashtags: "#laugh, #fyp, #comedy, #jokes"
+    hashtags: "#questions, #fyp, #laugh, #nathanhurdcomedy"
   - username: "whatyouneedtoknow"
     fullname: >-
       Geoff Plitt | Comedian
@@ -90,7 +102,7 @@ profiles:
     commentsToLikes: 0.031822
     id: ck8s8hzpetoyp0j782eb87kg5
     verified: false
-    hashtags: "#bts, #lol, #funny, #asianboy"
+    hashtags: "#bts, #asianboy, #asian, #comedy"
   - username: "epicvoiceguy"
     fullname: >-
       Jon Bailey
@@ -115,16 +127,4 @@ profiles:
     id: ckcprxzg6lz9f0j23qj4rcv6a
     verified: false
     hashtags: "#cops, #covid19, #blm, #breonnataylor"
-  - username: "mcbreeezy84"
-    fullname: >-
-      4pf Mar 💵
-    bio: >-
-      Comedian, dancer, rapper, trapper Sponsored by ADIDAS
-    location: "United States"
-    followers: 24400
-    engagement: 1406
-    commentsToLikes: 0.119702
-    id: ckd17b2deoi9w0j23f9754p3k
-    verified: false
-    hashtags: "#school, #213, #bayarea, #mcbreeezy84"
 ---

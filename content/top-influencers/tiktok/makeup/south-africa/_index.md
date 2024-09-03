@@ -1,11 +1,11 @@
 ---
-title: Top 10 Makeup TikTok Influencers In South Africa In 2023
+title: Top 10 Makeup TikTok Influencers In South Africa In 2024
 description: >-
-  Find top makeup TikTok influencers in South Africa in 2023. Most popular hashtags: #fyp #makeup #tiktoksa #foryoupage.
+  Find top makeup TikTok influencers in South Africa in 2024. Most popular hashtags: #fyp #makeup #tiktoksa #foryoupage.
 platform: TikTok
 hits: 58
-text_top: Analyze the top-rated TikTok accounts on inBeat.
-text_bottom: inBeat aggregates 58 TikTok influencers like this in South Africa for you to contact.
+text_top: Identify the best TikTok accounts on inBeat.
+text_bottom: Our search engine aggregates 58 TikTok influencers like this in South Africa for you to collaborate.
 profiles:
   - username: "slimgirlsupreme"
     fullname: >-
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.059912
     id: ckbkxz3f3u4to0j23q35zvek1
     verified: true
-    hashtags: "#lilnasx, #fyp, #bellamonsoon, #risingvoices"
+    hashtags: "#tiktoksa, #creativemakeup, #fyp, #callmebyyourname"
   - username: "hecallsmebeautifulone"
     fullname: >-
       Sam

@@ -1,12 +1,24 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Kyoto In 2023
+title: Top 10 Fitness Instagram Influencers In Kyoto In 2024
 description: >-
-  Find top fitness Instagram influencers in Kyoto in 2023. Most popular hashtags: #fitness #workout #kyoto #gym.
+  Find top fitness Instagram influencers in Kyoto in 2024. Most popular hashtags: #kyoto #fitness #japan #gym.
 platform: Instagram
-hits: 5
-text_top: Analyze the best Instagram influencers on inBeat.
-text_bottom: Our search engine aggregates 5 Instagram influencers like this in Kyoto, Japan for you to connect with.
+hits: 7
+text_top: Analyze the top-rated Instagram profiles on inBeat.
+text_bottom: inBeat aggregates 7 Instagram influencers like this in Kyoto, Japan for you to work with.
 profiles:
+  - username: "laurenpon"
+    fullname: >-
+      LAUREN
+    bio: >-
+      (˶ᵔ ᵕ ᵔ˶) ✧˖° @bobateaprotein (LAUREN) @notorious_lift
+    location: "Japan"
+    followers: 91758
+    engagement: 1300
+    commentsToLikes: 0.013646
+    id: ckrmy3ugegk2k0j23mozujqgj
+    verified: false
+    hashtags: "#tokyo, #solotravel, #japan, #anime"
   - username: "karenokajima0318"
     fullname: >-
       karen
@@ -19,18 +31,18 @@ profiles:
     id: ck5hjvotehbuq0i11mu8lvl4u
     verified: false
     hashtags: "#bvlgari, #louisvuitton, #osakahotel, #rayon"
-  - username: "miyako.610"
+  - username: "tsukiyoga"
     fullname: >-
-      都　Miyako
+      tsuki ☾ yoga lifestylist
     bio: >-
-      fitness YouTuber 🎥みやこずちゃんねる apparel 🐚 @coralu.official supplement @haleo_official ⬇️ダイエットの食事やトレーニングの投稿
+      yoga(RYT500)| fitness | self-care video creator・fit model 🧘‍♂️くびれるヨガトレ 🕊あしたが変わるセルフケア @tsukiyoga TikTok 320k @tarzanweb 監修トレーナー @mandukayoga ambassador
     location: "Japan"
-    followers: 36569
-    engagement: 1025
-    commentsToLikes: 0.014134
-    id: ck8tc215gy01u0j78fh6krpoo
+    followers: 216531
+    engagement: 636
+    commentsToLikes: 0.010242
+    id: ck5ckqwbvxfhp0i11rzj6fukf
     verified: false
-    hashtags: "#workout, #life, #coralu, #fitnessgirl"
+    hashtags: "#sustainableliving, #selfmassage, #yogateacher, #healthylifestyle"
   - username: "cfowl22"
     fullname: >-
       Cory Fowler
@@ -42,7 +54,7 @@ profiles:
     commentsToLikes: 0.025538
     id: ck0tskwuj07nu0i19gko2uqyn
     verified: false
-    hashtags: "#cosplayphotography, #dccomics, #anime, #cosplayersofinstagram"
+    hashtags: "#cosplay, #cosplayphotography, #menofcosplay, #cosplayersofinstagram"
   - username: "aiii528"
     fullname: >-
       AI / bodymake
@@ -55,6 +67,18 @@ profiles:
     id: ckap5uyysda3a0i78b7h5vsom
     verified: false
     hashtags: "#friends, #cookingram, #abs, #bodymake"
+  - username: "aesthetic_ys"
+    fullname: >-
+      Yuki Sorci
+    bio: >-
+      ◽️CEO @evolifeapparel ◾️USBB All Japan Mens Physique Overall🏆 ◽️Fmr Pro MMA Fighter👊🏼 ◾️Trader📈 🔹@vqfit 🔹@yavalabs.official 🔹@mycookiedealer
+    location: "Japan"
+    followers: 347088
+    engagement: 247
+    commentsToLikes: 0.004277
+    id: ck5qcepneq7670i11a2jqf9am
+    verified: false
+    hashtags: "#pt, #fitspo, #muscle, #tokyo"
   - username: "jonathan.sieger"
     fullname: >-
       Jonathan Sieger   ジョナサン・シガー
@@ -67,64 +91,40 @@ profiles:
     id: ckap3xk0s4xln0i78uswby9hw
     verified: true
     hashtags: "#dogs, #jonathansieger, #dogofinstagram, #tvshow"
-  - username: "lara_vns"
+  - username: "tsukiyoga"
     fullname: >-
-      𝐖𝐨𝐦𝐚𝐧𝐟𝐚𝐬𝐡𝐢𝐨𝐧 | 𝐌𝐨𝐝𝐞𝐥 | 𝐁𝐥𝐨𝐠𝐠𝐞𝐫
+      tsuki ☾ yoga lifestylist
     bio: >-
-      ———————————————— » Fashion » Fitness » Lifestyle ———————————————— 21 y/o | German | P🌹
+      yoga(RYT500)| fitness | self-care video creator・fit model 🧘‍♂️くびれるヨガトレ 🕊あしたが変わるセルフケア @tsukiyoga TikTok 320k @tarzanweb 監修トレーナー @mandukayoga ambassador
     location: "Japan"
-    followers: 12770
-    engagement: 786
-    commentsToLikes: 0.136789
-    id: ckap8nya3p6kk0i78tp4nb40s
+    followers: 216531
+    engagement: 636
+    commentsToLikes: 0.010242
+    id: ck5ckqwbvxfhp0i11rzj6fukf
     verified: false
-    hashtags: "#saturdayoutfit, #weareallinthistogether, #versacebag, #workingonme"
-  - username: "miyako.610"
+    hashtags: "#sustainableliving, #selfmassage, #yogateacher, #healthylifestyle"
+  - username: "miharu_kurachi"
     fullname: >-
-      都　Miyako
+      MIHARU KURACHI
     bio: >-
-      fitness YouTuber 🎥みやこずちゃんねる apparel 🐚 @coralu.official supplement @haleo_official ⬇️ダイエットの食事やトレーニングの投稿
+      Fitness | Travel | Nature First IFBB Bikini PRO in Japan🇯🇵 🐶🐾 @kushu_peki パーソナルレッスン・ビキニクラスのお問い合わせはリンクからお願いします✉️
     location: "Japan"
-    followers: 36569
-    engagement: 1025
-    commentsToLikes: 0.014134
-    id: ck8tc215gy01u0j78fh6krpoo
+    followers: 81489
+    engagement: 276
+    commentsToLikes: 0.009066
+    id: ckaov7fj83ds70i789q8tz915
     verified: false
-    hashtags: "#workout, #life, #coralu, #fitnessgirl"
-  - username: "sapirfi"
+    hashtags: "#hotel, #ifbb, #bikini, #workout"
+  - username: "leohazzzard"
     fullname: >-
-      ספיר פישלזון-מאיר
+      Levon Hovhannisyan
     bio: >-
-      נינג'ה ישראל Baby Power Mom Fitness 🤘 Hands stands Gymnastics | Acrobatics | Parkour | Ninja🤸‍♀️ Harder| Better | Faster | STRONGER #אמאנינגה 👩
+      🔴 Classic Bodybuilding Overall Champion (IFBB) 🔴 The Best Person Of The Year 🔴 Fitness Guru & The Game Changer
     location: "Japan"
-    followers: 14244
-    engagement: 779
-    commentsToLikes: 0.031599
-    id: ck13cvsmv2ery0i19obywhslt
+    followers: 31765
+    engagement: 243
+    commentsToLikes: 0.036846
+    id: ck6ueb320pvn40j71a1xhc34x
     verified: false
-    hashtags: "#fitnesslife, #handstand, #momlove, #babyworkout"
-  - username: "wikd_fury"
-    fullname: >-
-      Ash 👋☺
-    bio: >-
-      Gamer since '91 Cosplayer 🙆‍♀️ Nursing Major 🩺 Lost but not Alone: #wikdwarriors @wikd_fitness 💪 Follow my Twitch & Patreon! ⤵
-    location: "Japan"
-    followers: 21296
-    engagement: 430
-    commentsToLikes: 0.041081
-    id: ck0w4lzpvz8o20i19lg1qv85i
-    verified: false
-    hashtags: "#cosplayersofinstagram, #dccomics, #cosplayphotography, #catwoman"
-  - username: "mina_shirakawa"
-    fullname: >-
-      白川未奈 Mina Shirakawa
-    bio: >-
-      Japanese bikini model & professional wrestler🇯🇵 #STARDOM ・ Please DM me for booking🤼‍♀️💓 #model #fitness #prowrestling #STARDOM #柔術 #BJJ #プロレス #グラビア
-    location: "Japan"
-    followers: 125768
-    engagement: 332
-    commentsToLikes: 0.019851
-    id: ck5qc5jfeoyif0i11vbdg2f3o
-    verified: false
-    hashtags: "#beauty, #prowrestling, #workout, #japanese"
+    hashtags: ""
 ---

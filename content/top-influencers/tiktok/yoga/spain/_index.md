@@ -1,11 +1,11 @@
 ---
-title: Top 10 Yoga TikTok Influencers In Spain In 2023
+title: Top 10 Yoga TikTok Influencers In Spain In 2024
 description: >-
-  Find top yoga TikTok influencers in Spain in 2023. Most popular hashtags: #dance #yoga #tiktok #foryou.
+  Find top yoga TikTok influencers in Spain in 2024. Most popular hashtags: #dance #yoga #tiktok #foryou.
 platform: TikTok
 hits: 10
-text_top: Identify the top-rated TikTok accounts on inBeat.
-text_bottom: Our search engine aggregates 10 TikTok influencers like this in Spain for you to connect with.
+text_top: Identify the top-rated TikTok profiles on inBeat.
+text_bottom: Our search engine aggregates 10 TikTok influencers like this in Spain for you to contact.
 profiles:
   - username: "carmenmedinabb"
     fullname: >-

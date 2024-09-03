@@ -1,24 +1,12 @@
 ---
-title: Top 10 Hypebeast TikTok Influencers In New York In 2023
+title: Top 10 Hypebeast TikTok Influencers In New York In 2024
 description: >-
-  Find top hypebeast TikTok influencers in New York in 2023. Most popular hashtags: #fyp #foryou #hypebeast #viral.
+  Find top hypebeast TikTok influencers in New York in 2024. Most popular hashtags: #fyp #foryou #hypebeast #viral.
 platform: TikTok
 hits: 10
-text_top: Discover the best TikTok accounts on inBeat.
-text_bottom: Our database has 10 TikTok influencers like this in New York, United States for you to pitch.
+text_top: Identify the best TikTok profiles on inBeat.
+text_bottom: Our search engine has 10 TikTok influencers like this in New York, United States for you to contact.
 profiles:
-  - username: "jahstyen"
-    fullname: >-
-      jahstyen
-    bio: >-
-      Check out my fits on IG! 👆🏻 📍NY 🗽
-    location: "United States"
-    followers: 8332
-    engagement: 840
-    commentsToLikes: 0.034488
-    id: ckb9lh87ge3b80j23631158sk
-    verified: false
-    hashtags: "#offwhite, #nikesb, #foryoupage, #4you"
   - username: "snkrgurl617"
     fullname: >-
       ALOE
@@ -43,6 +31,30 @@ profiles:
     id: ck8khivlymwoq0j78oytawa7d
     verified: false
     hashtags: "#whitegirls, #blackman, #kingofnewyork, #snowbunnies"
+  - username: "pattygotnocake"
+    fullname: >-
+      pattycore
+    bio: >-
+      IG @patriciahwang NYC apt tour + fashion buyer vids👇
+    location: "United States"
+    followers: 123300
+    engagement: 1094
+    commentsToLikes: 0.013931
+    id: ck9c2iy0ep78t0j78skyd95if
+    verified: false
+    hashtags: "#btsarmy, #fashion, #tiktokfashion, #highfashion"
+  - username: "jahstyen"
+    fullname: >-
+      jahstyen
+    bio: >-
+      Check out my fits on IG! 👆🏻 📍NY 🗽
+    location: "United States"
+    followers: 8332
+    engagement: 840
+    commentsToLikes: 0.034488
+    id: ckb9lh87ge3b80j23631158sk
+    verified: false
+    hashtags: "#sneakers, #boredathome, #newyork, #fyp"
   - username: "joemigraine"
     fullname: >-
       Joe Migraine
@@ -103,18 +115,6 @@ profiles:
     id: cka0p9hhj77sq0i78ghakyvft
     verified: false
     hashtags: "#cod, #callofdutywarzone, #fyp, #foryoupage"
-  - username: "pattygotnocake"
-    fullname: >-
-      pattycore
-    bio: >-
-      IG @patriciahwang NYC apt tour + fashion buyer vids👇
-    location: "United States"
-    followers: 123300
-    engagement: 1094
-    commentsToLikes: 0.013931
-    id: ck9c2iy0ep78t0j78skyd95if
-    verified: false
-    hashtags: "#highfashion, #korean, #kpop, #style"
   - username: "shugzaddy"
     fullname: >-
       Edgar Rodriguez
@@ -126,5 +126,5 @@ profiles:
     commentsToLikes: 0.044171
     id: ckahyja4czksg0i788ckn9t3p
     verified: false
-    hashtags: "#viral, #sunday, #money, #bored"
+    hashtags: "#california, #follow, #rap, #funny"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Gaming TikTok Influencers In India In 2023
+title: Top 10 Gaming TikTok Influencers In India In 2024
 description: >-
-  Find top gaming TikTok influencers in India in 2023. Most popular hashtags: #foryou #pubgmobile #tiktok #pubg.
+  Find top gaming TikTok influencers in India in 2024. Most popular hashtags: #foryou #pubgmobile #pubg #tiktok.
 platform: TikTok
 hits: 123
-text_top: Discover the best TikTok influencers on inBeat.
-text_bottom: Our search engine holds 123 TikTok influencers like this in India for you to collaborate.
+text_top: Analyze the best TikTok profiles on inBeat.
+text_bottom: inBeat has 123 TikTok influencers like this in India for you to pitch.
 profiles:
   - username: "totalgaming_official"
     fullname: >-

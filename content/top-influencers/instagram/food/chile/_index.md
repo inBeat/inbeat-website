@@ -1,33 +1,69 @@
 ---
-title: Top 10 Food Instagram Influencers In Chile In 2023
+title: Top 10 Food Instagram Influencers In Chile In 2024
 description: >-
-  Find top food Instagram influencers in Chile in 2023. Most popular hashtags: #love #smile #fashion #friends.
+  Find top food Instagram influencers in Chile in 2024. Most popular hashtags: #foodie #vegan #chile #comfortfood.
 platform: Instagram
-hits: 77
-text_top: Analyze the most popular Instagram profiles on inBeat.
-text_bottom: Our database has 77 Instagram influencers like this in Chile for you to pitch.
+hits: 74
+text_top: Discover the most popular Instagram accounts on inBeat.
+text_bottom: inBeat aggregates 74 Instagram influencers like this in Chile for you to collaborate.
 profiles:
-  - username: "pacharitap"
+  - username: "nancyarteaga96"
     fullname: >-
-      Pachara Poonsawat
+      ℕ𝕒𝕟𝕔𝕪 𝔸𝕣𝕥𝕖𝕒𝕘𝕒
     bio: >-
-      cuenta de respaldo @pacharrica #soprano #scorpio #3 #theempress #thaigirl #feminist #foodie #freesoul #democrat #traveler
+      ➖𝗙𝗶𝘁𝗻𝗲𝘀𝘀 𝗖𝗼𝗮𝗰𝗵 🏋️‍♀️ ➖12 años en este mundo fit ➖ℙ𝕣𝕠𝕡𝕚𝕖𝕥𝕒𝕣𝕚𝕒 𝕕𝕖: @gym_personalizado @fit_nicaragua @fitplus_22 @fit_food_nicaragua @outlet_nic22
     location: "Chile"
-    followers: 39340
-    engagement: 738
-    commentsToLikes: 0.105805
-    id: ck5q5qrxku51s0i11f6qeotse
+    followers: 139421
+    engagement: 791
+    commentsToLikes: 0.069243
+    id: ck13cn7av16j30i191xzxqzb6
     verified: false
-    hashtags: "#elshownodebecontinuar, #b11, #dalomismo, #apruebo"
+    hashtags: "#workout, #fitness, #fitmom, #fit"
+  - username: "ignaciauribe"
+    fullname: >-
+      Ignacia Uribe R.
+    bio: >-
+      💚Founder/CEO @Vegetarianos_Hoy 💛Certificación @Vlabel.Latam 🏆Food Heroe 2023 🐷Máster en Derecho Animal 📚Autora de “Cómo Ser Vegan Hoy” ⬇️
+    location: "Chile"
+    followers: 16130
+    engagement: 172
+    commentsToLikes: 0.061391
+    id: ck5q5jnedt7570i11ttmun56a
+    verified: false
+    hashtags: "#publicidad, #clothdiapers, #veganismo, #creemosenloslibros"
+  - username: "cesarantoniocampos"
+    fullname: >-
+      César Antonio Campos
+    bio: >-
+      📺TV Host 🐾 Creador @supergatunos y @tvmascotas 👨‍🍳 #masterchefcelebrity ☕ @foodcrush.cl #EspiasCHV #ManosAlFuego 👇
+    location: "Chile"
+    followers: 196276
+    engagement: 45
+    commentsToLikes: 0.047732
+    id: ck6ua03dt0p2u0j71foqg58pf
+    verified: true
+    hashtags: "#gatoschile, #ilovedogs, #ilovecats, #catlover"
+  - username: "bymandycocina"
+    fullname: >-
+      Mandy Silva | Cocina
+    bio: >-
+      Comfort food family style Recetas fáciles para el día a día Mamá de 👦🏼👩🏻👧🏻🧒🏼 Colaboraciones en bymandybakery@gmail.com Mis galletas en @bymandybakery
+    location: "Chile"
+    followers: 76116
+    engagement: 22
+    commentsToLikes: 0.135590
+    id: clnbn6rjw3zpi0j08i2k1s8zn
+    verified: false
+    hashtags: "#recetasfaciles, #comfortfood, #recetas, #cookathome"
   - username: "mariabelenm"
     fullname: >-
       María Belén🌚
     bio: >-
-      ♡ coco maitai Foodstyling @mariamgaleria Vendo cosas @galeriaenventa 📍🇨🇱
+      ♡ coco maitai Hago fotos y a veces cerámica Foodstyling @mariamgaleria 📍🇨🇱 06/09 Barcelona 📍🇪🇸
     location: "Chile"
-    followers: 6814
-    engagement: 1138
-    commentsToLikes: 0.026427
+    followers: 7791
+    engagement: 306
+    commentsToLikes: 0.031066
     id: ck6u6wjd4i4js0j71kkcbsuld
     verified: false
     hashtags: ""
@@ -43,30 +79,18 @@ profiles:
     id: ckap0bkxqpmap0i78y1uv8zwt
     verified: false
     hashtags: "#sirenas, #duet, #porsiempreteamchile, #summer"
-  - username: "cesarantoniocampos"
-    fullname: >-
-      César Antonio Campos
-    bio: >-
-      📺TV Host 👨‍🍳 Finalista #masterchefcelebrity 😻 Creador @supergatunos ☕ Dueño @foodcrush.cl 💆‍♂️ @cuidateconcesar #Sabingo #EspiasCHV #ManosAlFuego 👇
-    location: "Chile"
-    followers: 184841
-    engagement: 148
-    commentsToLikes: 0.030004
-    id: ck6ua03dt0p2u0j71foqg58pf
-    verified: true
-    hashtags: "#zoitpinto, #planviajarx, #turismo, #vallelastrancas"
   - username: "kimloewenthal"
     fullname: >-
-      𝒦𝒾𝓂 ℒ𝑜𝑒𝓌𝑒𝓃𝓉𝒽𝒶𝓁🧿
+      Kim loewenthal🧿
     bio: >-
-      Empresaria 🌟𝙴𝚟𝚎𝚗𝚝 𝙿𝚕𝚊𝚗𝚗𝚎𝚛 𝚁𝚁.𝙿𝙿 Fashion-lifestyle-foodie-Beauty 📲📲Creadora de Contenido ✍🏻CEO @kimscreationsvzla. Embajadora @acluchemosporlavida
+      Empresaria 👩🏼‍💻RR.PP Event Planner. Fashion-lifestyle-foodie. 📲Creadora de Contenido ✍🏻CEO @kimscreationsvzla. Caraqueña ✨
     location: "Chile"
-    followers: 25813
-    engagement: 149
-    commentsToLikes: 0.090250
+    followers: 26367
+    engagement: 139
+    commentsToLikes: 0.090166
     id: ck6uhlmyx9u180j71w3xd5oa5
     verified: false
-    hashtags: "#fashionstyle, #caracas, #tbt, #moda"
+    hashtags: "#venezuela, #fashion, #outfioftheday, #outfitinspiration"
   - username: "etorresfotografia"
     fullname: >-
       Eduardo Torres
@@ -79,52 +103,28 @@ profiles:
     id: ck0tw12ttdkay0i198uaegepl
     verified: false
     hashtags: "#comidareal, #comfortfood, #rice, #foodphotography"
-  - username: "fabi._.hyung"
+  - username: "locomidoylobailado_"
     fullname: >-
-      FABI 파비안!
+      Lo comido y lo bailado_MM
     bio: >-
-      ❤¡DANCER.KPOPER.ARTIST!❤ ▪ Taehyung -@revenge.dc ▪ Embajador -@ylen.nx ▪ Twitter -Fabi._.Hyung🐦 ▪ TIKTOK -FabiHyung1🎶
+      🍜𝘍𝘰𝘰𝘥𝘭𝘰𝘷𝘦𝘳 👩🏼‍💻@nata_martinb ✏️𝘙𝘦𝘴𝘦ñ𝘢𝘴 𝘺 𝘥𝘢𝘵𝘰𝘴 📣𝘔á𝘴 𝘥𝘦 70K 𝘦𝘯 𝘛𝘐𝘒𝘛𝘖𝘒 🌈locomidoylobailado.contacto@gmail.com
     location: "Chile"
-    followers: 17114
-    engagement: 2060
-    commentsToLikes: 0.035536
-    id: ck5zo0nw6pio70i14uxmgyrlk
+    followers: 185997
+    engagement: 664
+    commentsToLikes: 0.058509
+    id: clpfe0e44j2by0k080mnyms37
     verified: false
-    hashtags: "#smile, #girl, #bestoftheday, #20likes"
-  - username: "eldulceobjetivo"
+    hashtags: "#completo, #papasfritas, #picada, #instachile"
+  - username: "el.chichooo"
     fullname: >-
-      Juan Andrés Gallardo
+      Humor|Foodie|Alojamientos|Datos y más.🍕🍔
     bio: >-
-      ElDulceObjetivo, 💻 Bloguero, 🎂 Diseñador de tartas y 📸 Fotógrafo Gastronómico “Un lugar donde aprender, compartir y disfrutar” 🌍 Granada
+      un Uruguayo🇺🇾 que ama🇨🇱 👉🏻@centroinmobiliariocl
     location: "Chile"
-    followers: 18043
-    engagement: 870
-    commentsToLikes: 0.217080
-    id: ck6trvam41ahr0j71gb61ffrv
+    followers: 137836
+    engagement: 457
+    commentsToLikes: 0.058102
+    id: clpfe0jd3j6180k08flkohglj
     verified: false
-    hashtags: "#fotograf, #fotoplancha, #cake, #cakestagram"
-  - username: "eri.ur"
-    fullname: >-
-      Erika Urzúa
-    bio: >-
-      @urzuashopping Embajadora @sheinofficial #erikiki5👈🏼 #shein#sheingals Publicidad al DM 📲
-    location: "Chile"
-    followers: 42502
-    engagement: 650
-    commentsToLikes: 0.018088
-    id: ck9hcp7s5mfoa0j78fzc4mnpv
-    verified: false
-    hashtags: "#instagood, #style, #photo, #lashes"
-  - username: "c_blackrose_"
-    fullname: >-
-      Carolina 🔯🌑
-    bio: >-
-      🇨🇱 Nuevas metas por cumplir 📚👩🏻‍⚕️ Doglover 🐕 Catlover 🐈🖤 Metalhead 🔥🎸🤘🏼 Aprendiz MMA 🥊🤼‍♀️
-    location: "Chile"
-    followers: 10916
-    engagement: 563
-    commentsToLikes: 0.009676
-    id: ckaoz0xu1jwfq0i78abx9pp14
-    verified: false
-    hashtags: "#santiago, #chile, #instachile, #metalmusic"
+    hashtags: "#foodie, #chilensi, #humor, #humorchilensi"
 ---

@@ -1,12 +1,84 @@
 ---
-title: Top 10 Athletes Instagram Influencers In Argentina In 2023
+title: Top 10 Athletes Instagram Influencers In Argentina In 2024
 description: >-
-  Find top athletes Instagram influencers in Argentina in 2023. Most popular hashtags: #workout #picoftheday #healthy.
+  Find top athletes Instagram influencers in Argentina in 2024. Most popular hashtags: #workout #training #crossfit.
 platform: Instagram
-hits: 61
-text_top: Analyze the best Instagram accounts on inBeat.
-text_bottom: Our search engine aggregates 61 Instagram influencers like this in Argentina for you to pitch.
+hits: 63
+text_top: Identify the top-rated Instagram influencers on inBeat.
+text_bottom: Our search engine has 63 Instagram influencers like this in Argentina for you to connect with.
 profiles:
+  - username: "gonzaduro"
+    fullname: >-
+      Gonza Duro
+    bio: >-
+      •Crossfit Athlete 🇦🇷 CF L-1 CrossFit Games ‘17-‘23 🏋🏻‍♂️ @hardy.arg | @mmeddfit | @dropset.sn | @brothersathletics
+    location: "Argentina"
+    followers: 14336
+    engagement: 436
+    commentsToLikes: 0.014899
+    id: ck5btkuyfg57r0i11b2jzmian
+    verified: false
+    hashtags: "#jgs, #lfg, #brotherscompete, #cuartosdefinal"
+  - username: "agusalbertario"
+    fullname: >-
+      Agus Albertario
+    bio: >-
+      Jugadora de las LEONAS 🏑 Olympic athlete OLY🇦🇷 Río 2016 🥈Tokio 2020/21 World Cup 🥉La Haya 2014 Londres 2018 🥈Terrassa 2022 @nike Athlete ♑️
+    location: "Argentina"
+    followers: 509343
+    engagement: 442
+    commentsToLikes: 0.005721
+    id: ck13c6dd5yu3j0i19kz4l7oov
+    verified: true
+    hashtags: "#hockey, #agusalbertario, #lasleonas, #grupodarc"
+  - username: "santicomba"
+    fullname: >-
+      Santi Comba
+    bio: >-
+      @sensefit Hokage Fittest in🇺🇾 19'21'22'🏆 @mayhemathlete . Crossfit Games athlete 19’ Regional 18’ . @renaultuy|@monsterenergy|@urcomsoft|@dojo.uy 📍Mvd
+    location: "Argentina"
+    followers: 115652
+    engagement: 413
+    commentsToLikes: 0.012657
+    id: ck0w0rccdfnhr0i190oipfwbf
+    verified: false
+    hashtags: "#crossfitespa, #strongfitgames, #desaf, #mayhemcompete"
+  - username: "stephanygonzalezs"
+    fullname: >-
+      Stephany Gonzalez
+    bio: >-
+      💌 stephgmgmt@gmail.com @bombshellsportswear 💜Athlete @FashionNova🌪️ @jaxxon partner Ing. Industrial 👧🏻
+    location: "Argentina"
+    followers: 3802557
+    engagement: 106
+    commentsToLikes: 0.004232
+    id: ck5hdh1b9ndzz0i116stxd3ok
+    verified: false
+    hashtags: "#bangenergy, #energydrink, #bodyengineers"
+  - username: "estefaniaestarli"
+    fullname: >-
+      Estefania Estarli
+    bio: >-
+      SENTITE BIEN EN TU PIEL train with me 💦 EE team ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ▫️ Co-Owner 🌿 @cmuse.active ▫️ @enanutritionals Athlete
+    location: "Argentina"
+    followers: 124696
+    engagement: 90
+    commentsToLikes: 0.035335
+    id: ck14lfmzvuf9q0i19lt5vkcfd
+    verified: false
+    hashtags: "#sentitebienentupiel, #asana, #nyc, #eeteam"
+  - username: "anacarrasco_22"
+    fullname: >-
+      ANA CARRASCO
+    bio: >-
+      🥇 | WORLD CHAMPION SSP300 🏁 | @motogp @boe_motorsports rider 🔋 | @monsterenergy athlete 🚗 | @hyundaiesp 🚀Powered by @midas_es @armure_motorbike_gear
+    location: "Argentina"
+    followers: 231988
+    engagement: 28
+    commentsToLikes: 0.000830
+    id: ck5hmjc0em2000i11qr4y7dcv
+    verified: true
+    hashtags: "#ridelikeagirl, #moto3, #austriangp, #pinkwarrior"
   - username: "luchogonzalez.1"
     fullname: >-
       Luciano Gonzalez Rizzoni
@@ -55,76 +127,4 @@ profiles:
     id: ck8svwqmjczpv0j78tjc70333
     verified: false
     hashtags: "#yosoysportico, #bestiase"
-  - username: "belencasetta"
-    fullname: >-
-      Belén Casetta
-    bio: >-
-      Athlete🇦🇷 Olympic Games 2016 🇧🇷| World finalist London 2017 🇬🇧 | 6x ARG Records 🇦🇷 |Steeplechase south american record 9:25.99
-    location: "Argentina"
-    followers: 51488
-    engagement: 730
-    commentsToLikes: 0.050808
-    id: ck5zpqnfht5sj0i148ybggab6
-    verified: true
-    hashtags: "#photooftheday, #fitlife, #bodyfitness, #fit"
-  - username: "francocaimi"
-    fullname: >-
-      Franco Caimi
-    bio: >-
-      Official Rider Yamaha Motor Rally Team Monster Energy Athlete 🏆 8vo Rally Dakar 2020 - 2017 / x2🥇Latino Enduro / x3🥇Argentino Enduro / x6🏅Oro ISDE
-    location: "Argentina"
-    followers: 34600
-    engagement: 914
-    commentsToLikes: 0.053946
-    id: ck5hp0u8lqk9l0i118rv688qz
-    verified: false
-    hashtags: "#dakarrally, #vamosargentina, #monsterenergyar, #fc"
-  - username: "conicerundolo"
-    fullname: >-
-      - Maria Constanza -
-    bio: >-
-      * Grays player * Nike Athlete * Belgrano Athletic Club ~ Las Leonas 🇦🇷
-    location: "Argentina"
-    followers: 26673
-    engagement: 1654
-    commentsToLikes: 0.018453
-    id: ck13bk7gwvt790i197yp2r8im
-    verified: false
-    hashtags: "#youcantstopus"
-  - username: "farihimede"
-    fullname: >-
-      Faride Himede
-    bio: >-
-      CUENTA OFICIAL Mamá de Amira Leonor @amiraleonor.jimenez Athlete 🏋🏽‍♀️👊🏼 • Jewelry Designer Relacionista pública de @lacallesv himedefaride@gmail.com
-    location: "Argentina"
-    followers: 76079
-    engagement: 295
-    commentsToLikes: 0.039703
-    id: ck5hkme9yiou80i11curzelv7
-    verified: false
-    hashtags: "#amiraleonor, #happiness, #minegro, #momlife"
-  - username: "melrodriguezth"
-    fullname: >-
-      MEL RODRIGUEZ 🇦🇷
-    bio: >-
-      Games athlete 17’19’20 Fittest in Argentina Open ‘18’19’20’ 1st place BCC🇧🇷 20’ Atleta @_bearfit @themethodnow @unitedwarriors._ @bluedemonar
-    location: "Argentina"
-    followers: 73574
-    engagement: 1116
-    commentsToLikes: 0.010813
-    id: ck5btkkt4g4to0i11y93bim1y
-    verified: false
-    hashtags: "#roadtotheopen2021, #tbt, #mrbearfit, #roadtothecrossfitgames"
-  - username: "juanchimallia"
-    fullname: >-
-      Juanchi Mallia
-    bio: >-
-      @adidas athlete
-    location: "Argentina"
-    followers: 23377
-    engagement: 1961
-    commentsToLikes: 0.013170
-    id: ck602uw4qjb9e0i14siox7ahc
-    verified: true
-    hashtags: "#sl20, #creadoconadidas, #hometeam, #volveracasa"
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Mothers Instagram Influencers In India In 2023
+title: Top 10 Mothers Instagram Influencers In India In 2024
 description: >-
-  Find top mothers Instagram influencers in India in 2023. Most popular hashtags: #reelitfeelit #ootd #reelsinstagram #reelsindia.
+  Find top mothers Instagram influencers in India in 2024. Most popular hashtags: #reels #family #ad #reelitfeelit.
 platform: Instagram
-hits: 905
-text_top: Analyze the best Instagram profiles on inBeat.
-text_bottom: Our search engine holds 905 Instagram influencers like this in India for you to pitch.
+hits: 1263
+text_top: See the top-rated Instagram influencers on inBeat.
+text_bottom: Our platform has 1263 Instagram influencers like this in India for you to work with.
 profiles:
-  - username: "manasinaik0302"
+  - username: "super_mummarnb"
     fullname: >-
-      Manasi Naik
+      Rituka Negi
     bio: >-
-      Science student🔬 Mother of Cats🐱 Actor🇮🇳 3rd FeB🎂 DM for Collaborations🤝⚘
+      🚸 Lifestyle & Motherhood For collaboration 📩 ritu.negi88@gmail.com 🧿Among Top 50 Indian Mom Influencer’s 📍Delhi NCR & Lucknow Youtube -94ksubs
     location: "India"
-    followers: 1294795
-    engagement: 150
-    commentsToLikes: 0.010705
-    id: ck15qzrm15f4u0i193nmse0uz
+    followers: 164711
+    engagement: 779
+    commentsToLikes: 0.016231
+    id: ck134q41uxnpg0i192oml3wsl
+    verified: false
+    hashtags: "#parenting, #momlife, #motherhood, #ad"
+  - username: "riturathee"
+    fullname: >-
+      Ritu Rathee Taneja
+    bio: >-
+      A Mother 👩‍👧 Captain on Airbus A320 ✈️✈️ YouTube channel: Flying Beast (8 M subscribers) For brands/business enquiries E: omssrathee14@ymail.com
+    location: "India"
+    followers: 1656382
+    engagement: 1476
+    commentsToLikes: 0.002881
+    id: cl4f69d9lq75x0i238m1edhzz
+    verified: false
+    hashtags: "#flyingbeast, #pilotvlogger, #pilotmother, #fussnowatfirstcry"
+  - username: "anavikalia"
+    fullname: >-
+      Anavi kalia
+    bio: >-
+      📧 : workwithanavi@gmail.com Simplyfying motherhood @promom.in
+    location: "India"
+    followers: 74546
+    engagement: 461
+    commentsToLikes: 0.056638
+    id: ck5pwjxbon60t0i1144mo858p
+    verified: false
+    hashtags: "#festivewear, #weddinginspiration, #indianwear, #haldioutfit"
+  - username: "shivanjaliporje.03"
+    fullname: >-
+      Shiv❤️
+    bio: >-
+      •Child Actor- Model- Influencer •Account Handle By Mother @kamal_porje
+    location: "India"
+    followers: 3470472
+    engagement: 476
+    commentsToLikes: 0.005265
+    id: cl48q8dl6lmfc0i232cu2omhw
+    verified: false
+    hashtags: "#marathimulgi, #teamshiv03, #instagood, #instagram"
+  - username: "i_sayesha"
+    fullname: >-
+      Sayesha Singh
+    bio: >-
+      🎭 Actor | 🎤 Singer | 📸 Model Account handle by Mother @dr_sanyogita 💌 Email for collaboration
+    location: "India"
+    followers: 332774
+    engagement: 1314
+    commentsToLikes: 0.008563
+    id: ckvbtb4hw6das0j23s0ya4ous
+    verified: false
+    hashtags: "#reelitfeelit, #family, #sayesha, #reels"
+  - username: "deepanka.k.sekhri"
+    fullname: >-
+      Deepanka Kapoor Sekhri
+    bio: >-
+      Former Model Co-Founder @admission.24 Kuchipudi Dancer. Sharing Tips & Tricks on: •Pre & post Natal Fitness. •Motherhood •Lifestyle 💕
+    location: "India"
+    followers: 37228
+    engagement: 501
+    commentsToLikes: 0.023533
+    id: ck0u2ep9wzp4y0i1906hiucj0
+    verified: false
+    hashtags: "#mysonshine, #myworld, #satnamwaheguru, #mission2022"
+  - username: "iamjuhichawla"
+    fullname: >-
+      Juhi Chawla Mehta
+    bio: >-
+      Actress, Mother, Entrepreneur, Activist and not necessarily in the same order 😄 Business Manager : @preet_2612
+    location: "India"
+    followers: 2271209
+    engagement: 363
+    commentsToLikes: 0.014704
+    id: ck13cd46qzrl80i19lc6he1my
     verified: true
-    hashtags: "#glowing, #lehengalover, #manasinaikkharera, #workinghard"
-  - username: "amominlove"
+    hashtags: "#tataipl2024, #rukengenahijhukengenahi, #kkrvsrh, #amikkr"
+  - username: "allusnehareddy"
     fullname: >-
-      Priyanka Bharwani
+      Allu Sneha Reddy
     bio: >-
-      Being a mom first and then everything else! Motherhood | Style | Beauty Co-founder @mumbaimumtribe 📩 pribharwani@gmail.com
+      Happy Mother 👩‍👧‍👦 🐶 Food and travel enthusiast . Founder of @studiopicaboo For brand enquiries email teamallusnehareddy@gmail.com
     location: "India"
-    followers: 87886
-    engagement: 38
-    commentsToLikes: 0.151252
-    id: ck5bzdqrhqy010i11jtwqmn2y
-    verified: false
-    hashtags: "#tiktokindia, #tistheseason, #viralreels, #christmas"
-  - username: "zeus.arya"
-    fullname: >-
-      A living meme™
-    bio: >-
-      Jack of all trades🤭 Dance | Art | Music 💙 YTFF 2018 performer✨ - ❤️ @_save.mother.earth_ 📺 Su Kare Che Video↓
-    location: "India"
-    followers: 3305
-    engagement: 2583
-    commentsToLikes: 0.090993
-    id: ck5hibemjcmsn0i110x8vkg0a
-    verified: false
-    hashtags: "#zeusaryatravels, #nimitkotianchoreography, #dance, #immabeastdancer"
-  - username: "dr_ifrah"
-    fullname: >-
-      Dr Ifrah Dil Nawaz
-    bio: >-
-      Positive Soul | Motherhood | Lifestyle Mother of 2 girls @amairah.aizah Business @lovethewardrobe
-    location: "India"
-    followers: 60918
-    engagement: 382
-    commentsToLikes: 0.032008
-    id: ck13bhfrfvezl0i19jum9i3jj
-    verified: false
-    hashtags: "#reelitfeelit, #momlife, #bhaderwah, #amuifu"
-  - username: "vibekeklemetsen"
-    fullname: >-
-      VIBEKE KLEMETSEN
-    bio: >-
-      Mother of 3💞 Authorized Level 1 Ashtanga teacher by Sharath Jois🧘🏼‍♀️ Owner and Co-founder @runandrelax Management: julianne@brandpeople.no
-    location: "India"
-    followers: 38190
-    engagement: 295
-    commentsToLikes: 0.078826
-    id: ck0vxex6eykap0i19j3qdkous
+    followers: 9025359
+    engagement: 305
+    commentsToLikes: 0.002023
+    id: ck0w4o87yzker0i19ndsmv04o
     verified: true
-    hashtags: "#ashtangayoga, #runandrelax, #namaste, #yoga"
-  - username: "whatsforstyle"
+    hashtags: "#ad, #collab, #bontobetogether, #sweetmoments"
+  - username: "payal_malik_53"
     fullname: >-
-      Purva Nakhasi | Sydney Blogger
+      Payal Malik
     bio: >-
-      Here to share what I love | Fashion - Motherhood - Travel 📍Present: Sydney, Australia Past: India, UK, Singapore ✉️ DM/email for collaboration
+      Mrs Payal Armaan Malik Managed by- @dheeraj_guptaa Promotion Enquiries: Armaanmalikteam1@gmail.com Mother of @chirayumalik_9
     location: "India"
-    followers: 7290
-    engagement: 620
-    commentsToLikes: 0.199823
-    id: ck0u9v9e6avii0i19xklwza17
+    followers: 6897601
+    engagement: 292
+    commentsToLikes: 0.036128
+    id: cl48q96gjm9x50i23737hfv9l
     verified: false
-    hashtags: "#newbornbaby, #guiltymom, #loretipartner, #mejuri"
-  - username: "masha.blazhevich"
+    hashtags: "#payalmalik, #bigbossott3, #malikfamily, #dhaka"
+  - username: "littleglove_aka_shivani"
     fullname: >-
-      Masha Blazhevich
+      LittleGlove | Content Creator
     bio: >-
-      a mother 👧 🎬 an Actor Inspired musician 🎼 🛳⚓️ agent Traveler 🗺 ✨ Beautiful life creator Natural beauty 🌸
+      A Mother Learning to grow with her child Mom of @littleglove_aka_baby Rep @monkentertainment Designer @drasti_desai_design Jai Shree Ram
     location: "India"
-    followers: 15431
-    engagement: 736
-    commentsToLikes: 0.023479
-    id: ckf5qqirya8ix0j23oxq4raes
+    followers: 1350511
+    engagement: 284
+    commentsToLikes: 0.009454
+    id: ck6tnoad3a8re0j71tf9gl4af
     verified: false
-    hashtags: "#batumigeorgia, #polaroids, #onlinephotography, #webpolaroid"
-  - username: "nitika.gusain1827"
-    fullname: >-
-      NitikaG
-    bio: >-
-      Influencer Beauty | Lifestyle | Motherhood Jammu|Dehradun Indian 🇮🇳 📩Dm/mail for collaborations nitika.gusain1827@gmail.com
-    location: "India"
-    followers: 22188
-    engagement: 347
-    commentsToLikes: 0.162761
-    id: ckf5qqnvpa94v0j23zzpin6mh
-    verified: false
-    hashtags: "#bffs, #instagood, #fyp, #reelsinstagram"
-  - username: "shwetakonnurmenon"
-    fullname: >-
-      Shweta Konnur Menon
-    bio: >-
-      Actor, Mother of two beautiful kids, traveler, adrenaline junkie
-    location: "India"
-    followers: 138396
-    engagement: 1059
-    commentsToLikes: 0.019374
-    id: ck5zk2pnripjj0i14zmlcg288
-    verified: false
-    hashtags: "#aboutlastnight, #ootd, #lovegettingdressedup, #ilovered"
-  - username: "thefashionmommy"
-    fullname: >-
-      SUMEDHA || Portraits 🌼 Flowers
-    bio: >-
-      •Designer•Motherhood•Flowers•Photography•Food•Fashion•Travel•Wanderlust•India• #myfloralteatime ☕️🌹DM for collaborations 💌 Also at @_laburnumstudios_
-    location: "India"
-    followers: 2696
-    engagement: 542
-    commentsToLikes: 0.130941
-    id: ck0w42se6wiul0i192ub9041q
-    verified: false
-    hashtags: "#momentsthatmattertome, #brimfulofcurious, #inspirewithblooms, #let"
+    hashtags: "#ganpatibappamorya, #chamaknayisochki, #littleglove, #iphone15promax"
 ---

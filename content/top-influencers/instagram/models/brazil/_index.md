@@ -1,130 +1,130 @@
 ---
-title: Top 10 Models Instagram Influencers In Brazil In 2023
+title: Top 10 Models Instagram Influencers In Brazil In 2024
 description: >-
-  Find top models Instagram influencers in Brazil in 2023. Most popular hashtags: #moda #model #look.
+  Find top models Instagram influencers in Brazil in 2024. Most popular hashtags: #fashion #photography #style.
 platform: Instagram
-hits: 4510
-text_top: Analyze the most popular Instagram influencers on inBeat.
-text_bottom: inBeat aggregates 4510 Instagram influencers like this in Brazil for you to work with.
+hits: 4473
+text_top: See the top-rated Instagram profiles on inBeat.
+text_bottom: Our platform has 4473 Instagram influencers like this in Brazil for you to pitch.
 profiles:
-  - username: "larissatomasia"
+  - username: "noaramorais"
     fullname: >-
-      Larissa Tomásia
+      Noara Morais
     bio: >-
-      BBB22 🍋 | Model | Beauty | Lifestyle 📫 Cx postal 37 CEP: 55700-000 Assessoria: 📧 larissatomasia@vox.plus 📲 (11) 96615-4180
+      The Industry NY-LA | Wilhelmina london | MGM models | ABC models | Citizen | MA E2modelmgmt NYC📍
     location: "Brazil"
-    followers: 1058112
-    engagement: 110
-    commentsToLikes: 0.011703
-    id: ckap7r7kml7hk0i7833sy38oq
+    followers: 52992
+    engagement: 426
+    commentsToLikes: 0.044098
+    id: ck5hro5f6v6yz0i11d22tqhvn
     verified: false
-    hashtags: "#modera, #jeans, #mood, #publi"
-  - username: "jessicaalvesuk"
+    hashtags: "#revolvewinter"
+  - username: "fegalvao_"
     fullname: >-
-      Jessica Alves
+      Maria Fernanda
     bio: >-
-      TV Personality📺 Model 🫦 🤷‍♀️based in📍#London🇬🇧 travels the world 🌎 Play at @playjessicaalves Agents @daddytheagency A @fashionnova ambassador
+      ✨Cosplayer and model 💕
     location: "Brazil"
-    followers: 7096079
-    engagement: 9
-    commentsToLikes: 0.016648
-    id: ck5hclroiiqaq0i11xnk3l8h1
-    verified: true
-    hashtags: "#beauty, #milano, #metaverse, #london"
-  - username: "orricodan"
-    fullname: >-
-      DARLAN ORRICO
-    bio: >-
-      Dancer • Coreographer • Model Tec em Dança • FUNCEB (DRT) Bahia 🇧🇷 Sou como a haste fina, que qualquer brisa verga, mas nenhuma espada corta.
-    location: "Brazil"
-    followers: 19443
-    engagement: 7488
-    commentsToLikes: 0.123524
-    id: ck5c05idbshhr0i111j3xherx
+    followers: 2545696
+    engagement: 852
+    commentsToLikes: 0.005463
+    id: ck135iwfe1nht0i19dgzvcgu3
     verified: false
-    hashtags: "#beyonce, #desprezivelchallenge, #dance, #challengedaari"
-  - username: "elenanjoss"
+    hashtags: ""
+  - username: "lenochka_25_6"
     fullname: >-
-      Princesa
+      Olena Chevka  أولينا
     bio: >-
-      independent model |Digital influencer ✨ Brasil , Ssa 🇧🇷 parcerias: direct 📥 Fui hackeada e tinha 37k , Recomeçando ❤️
+      Cabin crew✈️ Чернівці🇺🇦 Algarve🇵🇹 Supermodel International |Miss Elegância Portugal| Best Global Model | Parcerias 📩
     location: "Brazil"
-    followers: 23141
-    engagement: 2107
-    commentsToLikes: 0.071926
-    id: ck5zycc279mgc0i145m5wtv0q
+    followers: 6197
+    engagement: 779
+    commentsToLikes: 0.064645
+    id: ckapag2ikvydm0i78q3c4lktq
     verified: false
-    hashtags: "#tocahit, #reels, #pagode, #bregafunk"
-  - username: "celikosaf"
+    hashtags: "#colorful, #instaphoto, #begrateful, #germany"
+  - username: "anagzortea"
     fullname: >-
-      Celina Kogan
+      Ana Zortea
     bio: >-
-      model 🇦🇷 owner — @lalapontoficial celikosaf@hotmail.com
+      my happy days ✨ brazilian in NYC • actress & model 📧 ana@v1sionventures.com
     location: "Brazil"
-    followers: 59654
-    engagement: 666
-    commentsToLikes: 0.101411
-    id: ck15rhbmg7xl30i19l76ye6p6
+    followers: 120638
+    engagement: 622
+    commentsToLikes: 0.019597
+    id: cl2u708whu1fg0i233v5hf1ge
     verified: false
-    hashtags: "#tiffanyfragrance, #loveyourway, #vivesinlimites, #atreveteaserespontaneo"
-  - username: "mylena.luizaa"
+    hashtags: "#athletedevelopment, #workout, #2021recap, #travel"
+  - username: "maarkin"
     fullname: >-
-      My 🌻🌙
+      Markin Carvalho
     bio: >-
-      👆🏽veja os stories lifestyle| model| influencer| dicas| 20♋️ • parcerias/contratações via direct. 📩 • Cx postal: 643 -CEP 29168-970📦 📬 • ES📍
+      🇧🇷 Brazilian American🇺🇸 ⭐️ Actor & Model
     location: "Brazil"
-    followers: 92415
-    engagement: 656
-    commentsToLikes: 0.073825
-    id: ck0ud876xilrm0i19koljk2zu
+    followers: 290418
+    engagement: 901
+    commentsToLikes: 0.016284
+    id: ck8wd0zlrd9l60j784ym427hh
     verified: false
-    hashtags: "#look, #cachosbrasil, #amarracaodebiquini, #looks"
-  - username: "sarahkethley_"
+    hashtags: "#softgrunge, #aestheticfeed, #asthetics, #blueaesthetic"
+  - username: "luisanetatsch"
     fullname: >-
-      Sarah Kethley
+      Luisane Tatsch
     bio: >-
-      📌 DICAS DE BELEZA • Formada em Estética e Cosmética • Maracanaú/CE ☀️ | 22 • Influencer/ Model • 📸 @sarahkethleymodel • Parcerias 📲 / Contato 👇🏻
+      You can call me Lu . Model . Art Enthusiast . Twelve years on the road till I made my home in NYC 📍🗽 🇧🇷 Brazilian Born. 🇩🇪 German Descendant.
     location: "Brazil"
-    followers: 13842
-    engagement: 1312
-    commentsToLikes: 0.084500
-    id: ck9wdte27h6ul0j782romoxtz
+    followers: 39803
+    engagement: 605
+    commentsToLikes: 0.036877
+    id: ckaotxd1nxxci0i78bxnxv7oj
     verified: false
-    hashtags: "#maracanau, #style, #nordestepraiano, #modafeminina"
-  - username: "nanaakakra"
+    hashtags: "#sheinforall, #sheingals, #shein, #birthdaylatepost"
+  - username: "maisabel__"
     fullname: >-
-      Nana Kakra - N.A.N.A.
+      Mabel
     bio: >-
-      NANA NUVEM ☪️✡️💭 Fashion Model Location: SP/BR 🇧🇷| Born: GH 🇬🇭 N.A.N.A- Profs do Trap ft Mc Igu 👇🏿❗️
+      following Jesus Brazilian model @megamodelbrasil 🇧🇷 mabelbusiness17@gmail.com
     location: "Brazil"
-    followers: 47264
-    engagement: 902
-    commentsToLikes: 0.055934
-    id: ckap17kdhte580i78drqf7vh9
+    followers: 22766
+    engagement: 644
+    commentsToLikes: 0.137795
+    id: ck5qbrfvhn1ns0i11mmypn3sp
     verified: false
-    hashtags: "#nanana"
-  - username: "thitadiogo"
+    hashtags: "#casamento, #editorialversace, #versace, #respeitameucabelo"
+  - username: "leticiasayonara"
     fullname: >-
-      THITA DIOGO
+      Leticia Sayonara
     bio: >-
-      ⚡️Fashion | Beauty | Lifestyle | Redhead⚡️ •Model | Adm. de Empresas | Jurist ⚖️• •Romanos 8:39
+      Brazilian model. Jesus follower! @rockmgt ⠀⠀⠀⠀⠀⠀⠀⠀ ✈️🇧🇷🇮🇳🇫🇷 @unfybr
     location: "Brazil"
-    followers: 7721
-    engagement: 1334
-    commentsToLikes: 0.141050
-    id: ckap1kswiuymz0i78rtblvfrj
+    followers: 4381
+    engagement: 618
+    commentsToLikes: 0.130540
+    id: ck8t0k4smsc090j78fhbggksx
     verified: false
-    hashtags: "#ruivanatural, #beleza, #ruivice, #ruivante"
-  - username: "izabella.aguiar_"
+    hashtags: "#photography, #portrait, #editorialportrait, #retratos"
+  - username: "yrisaraujo"
     fullname: >-
-      • IZA•
+      YRIS
     bio: >-
-      •Moda | Dicas | Lifestyle• •Rio de Janeiro• •Parcerias e jobs: via direct• •Model• •Atleta de vôleibol• • ❽ • Gท's¹• ♡
+      Fashion influencer & independent model. 23y.
     location: "Brazil"
-    followers: 3055
-    engagement: 2220
-    commentsToLikes: 0.277141
-    id: ckapbap00z7e20i78zbw9m19a
+    followers: 423633
+    engagement: 486
+    commentsToLikes: 0.008305
+    id: ck0vxo6g6zvpk0i19paj8i81n
     verified: false
-    hashtags: "#estilo, #look, #moda, #model"
+    hashtags: "#revolveme"
+  - username: "lisiwitt"
+    fullname: >-
+      Lisiane Witt
+    bio: >-
+      🇧🇷 Brazilian Model - Office Im 🇺🇸 Next Models Miami suzys@nextmodels.com
+    location: "Brazil"
+    followers: 58409
+    engagement: 602
+    commentsToLikes: 0.036851
+    id: ck5c0u7v8tuvl0i113ta8shhs
+    verified: false
+    hashtags: ""
 ---

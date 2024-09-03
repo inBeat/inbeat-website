@@ -1,11 +1,11 @@
 ---
-title: Top 10 Gardening TikTok Influencers In New York In 2023
+title: Top 10 Gardening TikTok Influencers In New York In 2024
 description: >-
-  Find top gardening TikTok influencers in New York in 2023. Most popular hashtags: #fyp #plants #gardening #garden.
+  Find top gardening TikTok influencers in New York in 2024. Most popular hashtags: #gardening #fyp #plants #garden.
 platform: TikTok
 hits: 6
-text_top: See the top-rated TikTok influencers on inBeat.
-text_bottom: Our search engine holds 6 TikTok influencers like this in New York, United States for you to connect with.
+text_top: Identify the best TikTok accounts on inBeat.
+text_bottom: inBeat holds 6 TikTok influencers like this in New York, United States for you to pitch.
 profiles:
   - username: "alexandertheswag"
     fullname: >-
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.014932
     id: ck9rcjcbatppw0j78j6txlvp2
     verified: false
-    hashtags: "#indoorgarden, #plant, #planttips, #planttiktok"
+    hashtags: "#plant, #indoorgarden, #planttips, #orange"
   - username: "thisyoudana"
     fullname: >-
       Dana Dub
@@ -90,7 +90,7 @@ profiles:
     commentsToLikes: 0.309111
     id: ckc8xfm28lcen0j23p1lup6zq
     verified: false
-    hashtags: "#gardening, #garden, #summer, #growfoodnow"
+    hashtags: "#growfoodnow, #gardening, #vacation, #garden"
   - username: "wholesomeroots"
     fullname: >-
       WholesomeRoots
@@ -109,12 +109,12 @@ profiles:
     bio: >-
       🪴Steph🪴 cottagecore gardening and travel ‼️Taxidermist‼️ Insta: nirian_vigora
     location: "United States"
-    followers: 3683
-    engagement: 2029
-    commentsToLikes: 0.034276
+    followers: 3804
+    engagement: 2044
+    commentsToLikes: 0.029445
     id: ckb10ql6ep92k0j2385rk4qy2
     verified: false
-    hashtags: "#frogtiktok, #plants, #frog, #lgbt"
+    hashtags: "#cottagecore, #lgbt, #frog, #frogtiktok"
   - username: "levelupirl"
     fullname: >-
       levelupirl

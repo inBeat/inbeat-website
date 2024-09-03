@@ -1,11 +1,11 @@
 ---
-title: Top 10 Photographers TikTok Influencers In Switzerland In 2023
+title: Top 10 Photographers TikTok Influencers In Switzerland In 2024
 description: >-
-  Find top photographers TikTok influencers in Switzerland in 2023. Most popular hashtags: #switzerland #foryou #fyp #photographer.
+  Find top photographers TikTok influencers in Switzerland in 2024. Most popular hashtags: #switzerland #foryou #fyp #photographer.
 platform: TikTok
 hits: 18
-text_top: Discover the top-rated TikTok influencers on inBeat.
-text_bottom: inBeat has 18 TikTok influencers like this in Switzerland for you to contact.
+text_top: Analyze the top-rated TikTok influencers on inBeat.
+text_bottom: Our platform aggregates 18 TikTok influencers like this in Switzerland for you to pitch.
 profiles:
   - username: "runawayueli"
     fullname: >-
@@ -37,12 +37,12 @@ profiles:
     bio: >-
       Photographer living in Switzerland and collecting chocolate🍫🇨🇭
     location: "Switzerland"
-    followers: 38000
-    engagement: 681
-    commentsToLikes: 0.047972
+    followers: 40400
+    engagement: 675
+    commentsToLikes: 0.058951
     id: ck9dvwf2omn150j78zazk5r4k
     verified: false
-    hashtags: "#fyp, #viral, #tutorial, #videography"
+    hashtags: "#behindthescenes, #viral, #portrait, #photographer"
   - username: "fabxplore"
     fullname: >-
       Fabxplore
@@ -66,7 +66,7 @@ profiles:
     commentsToLikes: 0.026386
     id: ckc8e1ho19gbw0j23l4xxgozf
     verified: false
-    hashtags: "#travel, #aufmweg, #switzerland, #schweiz"
+    hashtags: "#schweiz, #travel, #hiking, #lebedeinentraum"
   - username: "swisswatchgang"
     fullname: >-
       swisswatchgang
@@ -109,12 +109,12 @@ profiles:
     bio: >-
       Offizieller Account Photographer & Filmmaker Germany & Switzerland
     location: "Switzerland"
-    followers: 73000
-    engagement: 552
-    commentsToLikes: 0.019162
+    followers: 73600
+    engagement: 584
+    commentsToLikes: 0.024775
     id: ck8hkkd4se97p0j787r3wjulc
     verified: false
-    hashtags: "#videoartist, #tiktok, #austria, #artist"
+    hashtags: "#austria, #girl, #fashion, #porsche"
   - username: "yannclu"
     fullname: >-
       Yannclu

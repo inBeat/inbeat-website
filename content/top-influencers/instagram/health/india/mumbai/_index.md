@@ -1,48 +1,36 @@
 ---
-title: Top 10 Health Instagram Influencers In Mumbai In 2023
+title: Top 10 Health Instagram Influencers In Mumbai In 2024
 description: >-
-  Find top health Instagram influencers in Mumbai in 2023. Most popular hashtags: #reelitfeelit #reelsinstagram #love #fashion.
+  Find top health Instagram influencers in Mumbai in 2024. Most popular hashtags: #love #reelsinstagram #mumbai #travel.
 platform: Instagram
-hits: 182
-text_top: Identify the most popular Instagram accounts on inBeat.
-text_bottom: Our platform aggregates 182 Instagram influencers like this in Mumbai, India for you to contact.
+hits: 235
+text_top: Discover the top-rated Instagram accounts on inBeat.
+text_bottom: Our database holds 235 Instagram influencers like this in Mumbai, India for you to work with.
 profiles:
-  - username: "beingmom_andbeyond"
+  - username: "the_etiquette_bellhop"
     fullname: >-
-      Zahra Jani
+      Lucknow - mathura
     bio: >-
-      Parenting Influencer | Lifestyle Content Creator Lifestyle | Parenting | Fashion | Fitness | Brand Promotions
+      Shruti agarwal Lifestyle and travel influencer MBBS MATHURA ↔️LUCKNOW Fb- the_etiquette_bellhop
     location: "India"
-    followers: 32960
-    engagement: 169
-    commentsToLikes: 0.371569
-    id: ck136ae3u5jcb0i190pz4opam
+    followers: 23502
+    engagement: 153
+    commentsToLikes: 0.139715
+    id: ck600c648dbr20i14nmgu44tf
     verified: false
-    hashtags: "#mom, #mycrew, #reelindia, #reelitfeelit"
+    hashtags: "#mathura, #photography, #instagram, #travelblogger"
   - username: "jignagshah"
     fullname: >-
       Jigna Gautam Shah
     bio: >-
-      Public Figure Lifestyle, Beauty & Health Blogger Mumbai Dm/email for Collaboration. #lifestyleblogger #beauty #health #parenting
+      Public Figure 🧿 Lifestyle, Beauty, Fashion & Health Blogger Mumbai ↔️ Gujarat Dm/email for Collaboration. #lifestyle #beauty #health #fashion
     location: "India"
-    followers: 55070
-    engagement: 256
-    commentsToLikes: 0.075733
+    followers: 109430
+    engagement: 209
+    commentsToLikes: 0.032633
     id: ck15tx82jkd1z0i19zh4alidv
     verified: false
-    hashtags: "#wowskinscienceindia, #wowskinscienceindiaproducts, #skincareroutines, #wowscienceindia"
-  - username: "_sagar_suri"
-    fullname: >-
-      SAGAR SURI
-    bio: >-
-      🔸Men's Fashion 🔹 Lifestyle 🔸Technology 🔹Travel ❤ 🔹DM/Mail for collaboration 📩 sagar.suri@laudcomedia.com Managed by @laudcomedia
-    location: "India"
-    followers: 92585
-    engagement: 290
-    commentsToLikes: 0.023309
-    id: ck8t7ggqigphu0j78koi7aeow
-    verified: false
-    hashtags: "#mensblogger, #jammuinfluencer, #fashionmen, #bloggerlife"
+    hashtags: "#globalbrandstore, #valentines, #amazonbeautyfinds, #ad"
   - username: "madhavisameer24"
     fullname: >-
       Madhavi & Sameer Shetty
@@ -55,76 +43,88 @@ profiles:
     id: ck1353mpuzj7q0i19jijyojv1
     verified: false
     hashtags: "#madhavisameer24, #manasshetty, #herbalifehonors2021, #learning"
-  - username: "preciousmomentss_"
+  - username: "haveenarochlani"
     fullname: >-
-      Reshmaa Ajbani
+      Haveena
     bio: >-
-      Lifestyle | Beauty 💄 | Travel ✈️ | Food 🥘| Luxury Events 📧 reshy_m@hotmail.com for Collaborations 📍Mumbai
+      God #1 ੴ Welcome to my virtual diary🌸 Fashion | Beauty | Lifestyle | Fitness 💗 m o r e s e l f l o v e 💗 Work: haveenarochlani@hotmail.com
     location: "India"
-    followers: 80033
-    engagement: 110
-    commentsToLikes: 0.150647
-    id: ck9hb2eccf3f60j78kkk3q6dg
+    followers: 58978
+    engagement: 120
+    commentsToLikes: 0.142156
+    id: ck0w1aoxrie6s0i199c4kuaj2
     verified: false
-    hashtags: "#mumbaiblogger, #indianfestivals, #rakshabandhan2021, #festivals"
-  - username: "glamprotocol"
+    hashtags: "#sections, #mumbai, #maharashtra, #trending"
+  - username: "suniel.shetty"
     fullname: >-
-      Dr. Sejal Jain
+      Suniel Shetty
     bio: >-
-      Physiotherapist/Fashion, Lifestyle and Health Blogger 📧 Contact@glamprotocol.com 📍Mumbai
+      Sportsman at Heart, Actor by Art, Humanitarian by Virtue, Businessman by Default.
     location: "India"
-    followers: 278617
-    engagement: 44
-    commentsToLikes: 0.057125
-    id: ck6u8abm0qdij0j71ofypn2p3
-    verified: false
-    hashtags: "#fashion, #love, #style, #glamprotocol"
-  - username: "ravichoudhary__mr.india"
-    fullname: >-
-      Ravi Choudhary
-    bio: >-
-      IFBB Pro Mr.olympiya 3runner-up Mr.India overall Title 2018 🏅Mr.Karnataka🏅Mr.South India🥈Mr.Bangalore×2🥇Mr.North india (myprotein code-RAVI72)
-    location: "India"
-    followers: 65827
-    engagement: 283
-    commentsToLikes: 0.013310
-    id: ck6uav0h85tty0j71hgw5lxby
-    verified: false
-    hashtags: "#instastar, #ifbb, #ifbbpro, #mrolympia2019"
-  - username: "zaveri_dhaval"
-    fullname: >-
-      Dhaval Zaveri
-    bio: >-
-      Digital Content Creator👤 Traveller 🗺| Lifestyle/Fashion🕴| Food | Motivation | #Mumbai #Lifestyle #Fashion #Sports #Fitness #Motivation #Comedy #Tech
-    location: "India"
-    followers: 109230
-    engagement: 283
-    commentsToLikes: 0.059515
-    id: ck8tc5m6jyd1v0j787w66w34t
-    verified: false
-    hashtags: "#dhavalzaveri, #respectallbandhans, #2023, #trending"
-  - username: "shamasikander"
-    fullname: >-
-      Shama Sikander
-    bio: >-
-      Managed by:- @celeb_connect. Collabs:- celebconnect@whiteleafent.net Actor | Producer | PublicFigure | Mental Health Advocate😇
-    location: "India"
-    followers: 3099668
-    engagement: 72
-    commentsToLikes: 0.018917
-    id: ck15pyd4208tk0i19x8fszhp1
+    followers: 4425600
+    engagement: 325
+    commentsToLikes: 0.008400
+    id: ck0tuuo328qx60i198jmjdcqq
     verified: true
-    hashtags: "#looks, #spreadlove, #fashionstyle, #positivevibes"
-  - username: "prernapandaofficial"
+    hashtags: "#welcometothejungle, #sunielshetty, #sankalpnashamukti, #welcome3"
+  - username: "neharika.yadav"
     fullname: >-
-      Prerna 🎀
+      Dr Neharika Yadav Official 🇮🇳
     bio: >-
-      Hi, I’m a lawyer. I also create content on social media platforms. And I save money to travel. Mostly in PUNE | MUMBAI 📍 📩Prerna.panda0927@gmail.com
+      Dr N-Superbike Racer and Dental Surgeon 👩🏻‍⚕️+🏍 = ☠️😉 UNESCO brand Ambassador/TedX Speaker /Ducati Factory Racer
     location: "India"
-    followers: 77333
-    engagement: 183
-    commentsToLikes: 0.183146
-    id: ck13c42hiyio40i19l2sscsbl
+    followers: 208356
+    engagement: 128
+    commentsToLikes: 0.018507
+    id: ck14iwrq0hisu0i19ozcnvbgc
+    verified: true
+    hashtags: "#instagram, #picoftheday, #happy, #life"
+  - username: "ashnaaasharmaa"
+    fullname: >-
+      Ashna Sharma | Mental Health
+    bio: >-
+      Fashion enthusiast & Counselling Psychologist mental health content @unboxyourmind.in Delhi 🔁 Mumbai
+    location: "India"
+    followers: 97942
+    engagement: 1165
+    commentsToLikes: 0.031503
+    id: clivee2jv2k5f0j083ndxjirv
     verified: false
-    hashtags: "#instadaily, #selfie, #styleinspo, #fyp"
+    hashtags: "#ethnicwear, #wishlinked, #myntrahaul, #trendingsongs"
+  - username: "did.u.know___"
+    fullname: >-
+      Ajay Sharma & Tanvi Patil  Travel /Food /Lifestyle
+    bio: >-
+      - Travel, Recommendations,Lifestyle - Inspiring you to travel and prioritise your mental health 🫶 - Staycation & Experience ✨ 📍Mumbai #letsexplore
+    location: "India"
+    followers: 322409
+    engagement: 135
+    commentsToLikes: 0.021141
+    id: ck8t5ic3na7gy0j78vkiog12n
+    verified: false
+    hashtags: "#reels, #explore, #trending, #viralreels"
+  - username: "hungrybirdintown"
+    fullname: >-
+      Vaibhav Pant
+    bio: >-
+      I am proud to welcome you to our food journey, I hope you will like it! Dm for collaboration avoid follow for follow dm Follow me on zomato
+    location: "India"
+    followers: 11029
+    engagement: 234
+    commentsToLikes: 0.038384
+    id: ck6uewqk9tijj0j71q39ak0me
+    verified: false
+    hashtags: "#banglorefoodies, #tasteofindia, #explorepage, #streetfoodindia"
+  - username: "himanshuchwdhary"
+    fullname: >-
+      Himanshu Choudhary
+    bio: >-
+      🎭 MUMBAI 📍
+    location: "India"
+    followers: 68198
+    engagement: 129
+    commentsToLikes: 0.036791
+    id: ckapaz00ky04c0i78xsuuaxro
+    verified: false
+    hashtags: "#mtv, #modelmakers, #like, #smile"
 ---

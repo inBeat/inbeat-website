@@ -1,48 +1,48 @@
 ---
-title: Top 10 Motivational Speakers Instagram Influencers In Canada in 2023
+title: Top 10 Motivational Speakers Instagram Influencers In Canada In 2024
 description: >-
-  Find top motivational speakers Instagram influencers in Canada in 2023. Most popular hashtags: #motivation #motivationalspeaker #motivationalquotes #love.
+  Find top motivational speakers Instagram influencers in Canada in 2024. Most popular hashtags: #motivationalspeaker #motivation #motivationalquotes #inspiration.
 platform: Instagram
-hits: 19
-text_top: Analyze the best Instagram influencers on inBeat.
-text_bottom: Our search engine has 19 Instagram influencers like this in Canada for you to pitch.
+hits: 14
+text_top: See the best Instagram influencers on inBeat.
+text_bottom: Our search engine aggregates 14 Instagram influencers like this in Canada for you to collaborate.
 profiles:
+  - username: "lifeaswali"
+    fullname: >-
+      Wali Shah
+    bio: >-
+      • Poet & Motivational Speaker • Freestyled w/ @kendricklamar • Performed w/ @barackobama • @RBC Top 25 Canadian Immigrants 🍁 🇵🇰
+    location: "Canada"
+    followers: 28661
+    engagement: 863
+    commentsToLikes: 0.050057
+    id: ck6to2qypbs0v0j710414yyq1
+    verified: false
+    hashtags: "#partner, #stophate, #letsstandtogether, #islamophobia"
+  - username: "iamjayakishori"
+    fullname: >-
+      Jaya Sharma
+    bio: >-
+      Spiritual & Motivational Speaker ॥ कृष्णं सदा सहायते ॥ 📧insta@iamjayakishori.com New song out now! 👇 👇
+    location: "Canada"
+    followers: 11902898
+    engagement: 205
+    commentsToLikes: 0.005559
+    id: ck13bluztw1nq0i193l35yfcg
+    verified: false
+    hashtags: "#love, #jayakishorimotivation, #happiness, #motivation"
   - username: "lklawes"
     fullname: >-
       Kaitlyn Lawes
     bio: >-
       📍Winnipeg MB, 🇨🇦 • 2X Olympic Gold Medallist • World Champion • Third- @teamjenniferjones • Motivational Speaker
     location: "Canada"
-    followers: 23722
-    engagement: 653
-    commentsToLikes: 0.012656
+    followers: 24059
+    engagement: 714
+    commentsToLikes: 0.016863
     id: ck5cbfr7wfc4z0i112qquhkmz
     verified: true
-    hashtags: "#manitoba, #repost, #hatsforhope, #icefishing"
-  - username: "nasim.jafar.janapolo"
-    fullname: >-
-      زوج ماجراجوی جهانگرد #جاناپولو
-    bio: >-
-      World travellers, motivational speakers #janapolo اولین زوج ایرانی که دور دنیا را رکاب زدند و درخت کاشتند 📸 @jana_photography_vancouver نسيم-جعفر🇨🇦
-    location: "Canada"
-    followers: 5803
-    engagement: 1396
-    commentsToLikes: 0.025738
-    id: ckf5pg2ob5z4e0j23bogtqn4e
-    verified: false
-    hashtags: "#motorcycletouring, #instabikers, #dreamscape, #motorcycle"
-  - username: "annkaplan_ownit"
-    fullname: >-
-      Dr Ann Kaplan
-    bio: >-
-      DBA, MBA, MSc, ICD.D Whatever you do, whoever you are...own it. TV Personality, Motivational Speaker, Author, CEO, Real Housewife of Toronto & Mom
-    location: "Canada"
-    followers: 41089
-    engagement: 78
-    commentsToLikes: 0.050713
-    id: ck6tzrljrbfyc0j719f1011hr
-    verified: true
-    hashtags: "#happyhalloween, #cooking, #lovemyfamily, #halloweencookingideas"
+    hashtags: "#icefishing, #curling, #manitoba, #hatsforhope"
   - username: "sarahwells400mh"
     fullname: >-
       Sarah Wells
@@ -54,77 +54,77 @@ profiles:
     commentsToLikes: 0.033174
     id: ck6uclo3tgc290j71tkkyc168
     verified: true
-    hashtags: "#commitment, #alwaysimproving, #dreambigger, #rbcfuturelaunch"
-  - username: "millions2billions"
-    fullname: >-
-      This Page 👇🏼
-    bio: >-
-      🤷🏻‍♂️ | post best Content 🤘🏼 | This is the page U were 👀 for ✌🏼 | Motivate U for sure 📨 | for business Inquiry 🧑🏻‍💻 | Grow your IG with my help. DM me
-    location: "Canada"
-    followers: 78824
-    engagement: 281
-    commentsToLikes: 0.020111
-    id: ck8t1g8yzvni60j78cetjmueh
-    verified: false
-    hashtags: "#leadership, #positivity, #businessminded, #hustle"
-  - username: "natalia.armani"
-    fullname: >-
-      Natalia Armani!
-    bio: >-
-      #natsbubble #EyeoftheFuture Sister.of.a.Deaf.Adult 📍Toronto 🤟🏼Believe in yourself even when no one else does
-    location: "Canada"
-    followers: 11352
-    engagement: 597
-    commentsToLikes: 0.162754
-    id: ck8t19t6duy2g0j785ojcrtdx
-    verified: false
-    hashtags: "#makeuplooks, #morphebabe, #selfawareness, #latina"
+    hashtags: "#growthmindset, #fitness, #futurechangemakers, #believeinitiative"
   - username: "nubs416"
     fullname: >-
       Talli Osborne
     bio: >-
-      🇨🇦 Punk rock optimist dedicated to inspiring the world. ❌ TEDx Speaker. 💓 Music, Cats, Food! This is a safe space!✌🏼💯🏳️‍🌈♿️✊🏾💕🤘🏼
+      💓 Punk rock optimist dedicated to inspiring the world. ❌ TEDx Speaker 🎤 @NubsandherStuds 🐈‍⬛ @theSweetestMiso This is a safe space! ✌🏼💯🏳️‍🌈♿️✊🏾💕🤘🏼
     location: "Canada"
-    followers: 9589
-    engagement: 611
-    commentsToLikes: 0.069735
+    followers: 12628
+    engagement: 510
+    commentsToLikes: 0.033227
     id: ck6tobgcud4rc0j71sm5314pr
     verified: false
-    hashtags: "#confidenceisbeautiful, #inspiring, #differencesarebeautiful, #inspiration"
-  - username: "86_construction_contracting"
+    hashtags: "#motivation, #redifinebeauty, #pma, #inspire"
+  - username: "iamjamgamble"
     fullname: >-
-      86 Construction Contracting C.
+      Jam Gamble 🎤Public Speaking Coach + Media Personality
     bio: >-
-      General contracting. Additions/ structural changes. Kitchens and bathrooms.
+      I’m THE #SlayerOfTheMic. 1000+ Mic Slayers have transformed their voices through #SlayTheMic Program™️ Psst…You’re Next😉 Need more JAM? Look here👇🏾
     location: "Canada"
-    followers: 51018
-    engagement: 52
-    commentsToLikes: 0.030801
-    id: ckaorm0yhntwi0i78guuezg7y
+    followers: 41027
+    engagement: 10
+    commentsToLikes: 0.006507
+    id: cl0stbkvwr8xq0i2341xv2bav
     verified: false
-    hashtags: "#handmade, #woodworking, #wood, #toronto"
-  - username: "esiemensah"
+    hashtags: "#publicspeakingcoach, #selflove, #speakup, #ownyourstory"
+  - username: "karlwolfs"
     fullname: >-
-      Esie Mensah
+      Karl Wolf
     bio: >-
-      Choreographer • Dancer • Teacher • TedXToronto speaker Rihanna • Drake • French Montana • Founder @esiemensahcreations & @blackstarsto 🇬🇭🇨🇦🇹🇬
+      Artist | Songwriter | Producer 📀 MTV Award Winner 🏆 4x JUNO Nominee Pre-save ONLY TONIGHT 💿🎧💿
     location: "Canada"
-    followers: 7805
-    engagement: 531
-    commentsToLikes: 0.123300
-    id: ck0vx9mbmxugx0i19owxnclzj
-    verified: false
-    hashtags: "#esiemensah, #afrowine, #iamablackstar, #soca"
-  - username: "paqsofficial"
+    followers: 320746
+    engagement: 1715
+    commentsToLikes: 0.159858
+    id: ck0vv53rbnl7c0i19gw6zwu6e
+    verified: true
+    hashtags: "#fyp, #karlwolf, #diy, #newsingle"
+  - username: "ofthesaint_"
     fullname: >-
-      Philippe Paquette
+      Of The Saint
     bio: >-
-      🐺 The Wolfpaq 💰 Big Brother Winner ⚡️ Energetic Alignment Coach (LOA)
+      📸 & 🎥 @billboard & @hiphopdx & @debutlive CEO of @ofthesaintproductions & @themom3ntnet MGMT: @katrinaayracco
     location: "Canada"
-    followers: 30179
-    engagement: 106
-    commentsToLikes: 0.032692
-    id: ck5ceqtfpliy70i11bq6j42tl
+    followers: 35436
+    engagement: 168
+    commentsToLikes: 0.110751
+    id: ckz1x47au36t00j23xvq0ra2d
     verified: false
-    hashtags: "#lawofattraction, #inspirational, #inspiration, #personaldevelopment"
+    hashtags: "#explorepage, #itwillallmakesensesoon, #ofthesaint, #losangeles"
+  - username: "igwithjosh7"
+    fullname: >-
+      Instagram Marketing Secrets
+    bio: >-
+      🔥 Content to explode your business 🔥 👤Ideas and formulas for entrepreneurs 📤DM for promo/Biz📥 👇 Learn how to grow & monetize on IG
+    location: "Canada"
+    followers: 33581
+    engagement: 104
+    commentsToLikes: 0.042326
+    id: ck15t3qt2g7940i19f2h95fmy
+    verified: false
+    hashtags: "#entrepreneurmind, #entrepreneurbooks, #entrepreneurmotivation, #spiritualentrepreneur"
+  - username: "instafunny_manan"
+    fullname: >-
+      Manan Desai
+    bio: >-
+      Comedian & Actor Content - Creator, Curator & Producer www.manandesai.in
+    location: "Canada"
+    followers: 275389
+    engagement: 1337
+    commentsToLikes: 0.004535
+    id: ck5pwjdzun3d70i114mni37zw
+    verified: false
+    hashtags: "#thecomedyfactory, #manandesai, #standupcomedy, #gujarati"
 ---

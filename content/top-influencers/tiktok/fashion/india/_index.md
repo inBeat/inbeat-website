@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fashion TikTok Influencers In India In 2023
+title: Top 10 Fashion TikTok Influencers In India In 2024
 description: >-
-  Find top fashion TikTok influencers in India in 2023. Most popular hashtags: #foryoupage #duet #foryou #fyp.
+  Find top fashion TikTok influencers in India in 2024. Most popular hashtags: #foryoupage #duet #foryou #fyp.
 platform: TikTok
 hits: 785
-text_top: Discover the top-rated TikTok influencers on inBeat.
-text_bottom: Our platform holds 785 TikTok influencers like this in India for you to work with.
+text_top: Identify the top-rated TikTok influencers on inBeat.
+text_bottom: Our platform aggregates 785 TikTok influencers like this in India for you to pitch.
 profiles:
   - username: "poison_vish"
     fullname: >-

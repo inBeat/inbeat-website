@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fashion TikTok Influencers In Canada In 2023
+title: Top 10 Fashion TikTok Influencers In Canada In 2024
 description: >-
-  Find top fashion TikTok influencers in Canada in 2023. Most popular hashtags: #fyp #fashion #greenscreen #tiktokcanada.
+  Find top fashion TikTok influencers in Canada in 2024. Most popular hashtags: #fyp #fashion #foryou #friendlyfuture.
 platform: TikTok
-hits: 720
-text_top: Analyze the most popular TikTok profiles on inBeat.
-text_bottom: Our database holds 720 TikTok influencers like this in Canada for you to collaborate.
+hits: 710
+text_top: See the top-rated TikTok influencers on inBeat.
+text_bottom: Our platform aggregates 710 TikTok influencers like this in Canada for you to contact.
 profiles:
   - username: "pe.r.la_"
     fullname: >-
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.024703
     id: ck806vbblmaom0j78ddv18enc
     verified: false
-    hashtags: "#torontovlog, #tryonhaul, #toronto, #canadian"
+    hashtags: "#canadian, #toronto, #torontovlog, #tryonhaul"
   - username: "hannah.dabash"
     fullname: >-
       Hannah
@@ -66,7 +66,7 @@ profiles:
     commentsToLikes: 0.111219
     id: ckc3eylbx0u2u0j23ftzagj18
     verified: false
-    hashtags: "#smallbusinesstips, #smallbizowner, #fabulashqueencosmetics, #bossbabe"
+    hashtags: "#lippiesbiz, #fqc, #smallbizowner, #sheearnedit"
   - username: "definitelytai"
     fullname: >-
       tai
@@ -78,7 +78,7 @@ profiles:
     commentsToLikes: 0.016260
     id: ck83zvjm83hcm0j78i2tdu4zu
     verified: false
-    hashtags: "#fyp, #loop, #fashion, #foryou"
+    hashtags: "#edit, #fashion, #loop, #foryou"
   - username: "vintagemal"
     fullname: >-
       mal 🧚🏽
@@ -102,7 +102,19 @@ profiles:
     commentsToLikes: 0.045333
     id: ckbfd7sks6hc70j23yeqwt3sy
     verified: false
-    hashtags: "#photoshootideas, #style, #fashion, #tiktokfashion"
+    hashtags: "#style, #photoshootideas, #mystyle, #tiktoktoronto"
+  - username: "karissa_scarlett"
+    fullname: >-
+      Karissa
+    bio: >-
+      ✨Good Vibes✨ Makeup and Fashion! IG: karissa_scarlett Live Thursdays @10pm EST
+    location: "Canada"
+    followers: 28200
+    engagement: 1772
+    commentsToLikes: 0.038932
+    id: ckck2xh4imkjc0j23omj26u59
+    verified: false
+    hashtags: "#disneyworld, #fyp, #disney, #makeup"
   - username: "letitiakiu"
     fullname: >-
       Letitia Kiu
@@ -115,16 +127,4 @@ profiles:
     id: ck9818tumau510j78l0v2d07y
     verified: false
     hashtags: "#holidaydecor, #diyhomedecor, #diy, #tiktokdiy"
-  - username: "mikaylakuehn"
-    fullname: >-
-      Mikayla Kuehn
-    bio: >-
-      my name is mik & I like the colour pink✌🏻 💖fashion, beauty & lifestyle in 🇨🇦
-    location: "Canada"
-    followers: 4639
-    engagement: 1007
-    commentsToLikes: 0.040751
-    id: ckb12ofipqw8d0j233p4mj8wh
-    verified: false
-    hashtags: "#thepinklife, #aristocats, #pinkaesthetic, #fashiontok"
 ---

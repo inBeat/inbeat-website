@@ -1,11 +1,11 @@
 ---
-title: Top 10 Illustrators Instagram Influencers In Turkey In 2023
+title: Top 10 Illustrators Instagram Influencers In Turkey In 2024
 description: >-
-  Find top illustrators Instagram influencers in Turkey in 2023. Most popular hashtags: #illustration #art #drawing.
+  Find top illustrators Instagram influencers in Turkey in 2024. Most popular hashtags: #illustration #digitalart #artist #drawing.
 platform: Instagram
-hits: 55
-text_top: Analyze the best Instagram accounts on inBeat.
-text_bottom: Our search engine has 55 Instagram influencers like this in Turkey for you to pitch.
+hits: 54
+text_top: Discover the top-rated Instagram accounts on inBeat.
+text_bottom: inBeat aggregates 54 Instagram influencers like this in Turkey for you to work with.
 profiles:
   - username: "merttugen"
     fullname: >-
@@ -18,7 +18,67 @@ profiles:
     commentsToLikes: 0.009627
     id: ck0vzlrby9q4x0i19uc4zx7p4
     verified: false
-    hashtags: "#skateboard, #procreate, #posca, #illustration"
+    hashtags: "#illustration, #comic, #posca, #procreate"
+  - username: "haakankeles"
+    fullname: >-
+      hakan keleş
+    bio: >-
+      💥#lilliputing ✏phd.architect/illustrator 📩mail: haakankeles@hotmail.com
+    location: "Turkey"
+    followers: 94850
+    engagement: 1211
+    commentsToLikes: 0.008509
+    id: ck0vyxiba69l70i1906j77a4i
+    verified: false
+    hashtags: "#illustrasyon, #digitalart, #tokyo2021, #art"
+  - username: "buraksenturk"
+    fullname: >-
+      Burak Şentürk
+    bio: >-
+      Artist / illustrator bsenturk@gmail.com
+    location: "Turkey"
+    followers: 15971
+    engagement: 457
+    commentsToLikes: 0.037914
+    id: ckap70ltui5g00i785miw5ev1
+    verified: false
+    hashtags: "#procreateart, #artist, #juxtapoz, #apple"
+  - username: "gulsah_alcin_ozek"
+    fullname: >-
+      Gülşah Alçın Özek
+    bio: >-
+      Illustrator • graphic designer 🎨🖌️ for children book illustration 💌 gusalcin@gmail.com Represented Internationally by @kovanagency
+    location: "Turkey"
+    followers: 11360
+    engagement: 349
+    commentsToLikes: 0.024975
+    id: ck14l6kd0t41i0i19vry8ww46
+    verified: false
+    hashtags: "#childrenillustration, #kidslitillustration, #watercolorcharacters, #picturebookillustration"
+  - username: "ethemonurb"
+    fullname: >-
+      Ethem Onur Bilgiç
+    bio: >-
+      illustrator & graphic designer
+    location: "Turkey"
+    followers: 36838
+    engagement: 255
+    commentsToLikes: 0.007096
+    id: ck0vymbrp4pff0i19hp46ri9b
+    verified: false
+    hashtags: "#poster, #ipadpro, #procreate, #illustration"
+  - username: "banuall"
+    fullname: >-
+      Banu Allahverdi
+    bio: >-
+      Founder of brand @banu.all Social Media İnfluencer, Illustrator
+    location: "Turkey"
+    followers: 353361
+    engagement: 177
+    commentsToLikes: 0.012207
+    id: ck0u6qpnb2mav0i196qrwdq9o
+    verified: false
+    hashtags: "#unpacking, #25"
   - username: "huliaozdemir"
     fullname: >-
       hülya özdemir
@@ -67,64 +127,4 @@ profiles:
     id: ck8syumgam2j90j781cfz9pc4
     verified: false
     hashtags: "#madewithwacomcintiq, #madewithipadpro"
-  - username: "ayseinanillustration"
-    fullname: >-
-      Ayşe İnan Illustration
-    bio: >-
-      Children’s book illustrator Röportaj ~
-    location: "Turkey"
-    followers: 7675
-    engagement: 985
-    commentsToLikes: 0.072099
-    id: ck14h43u58gbe0i19v4d0ze54
-    verified: false
-    hashtags: "#illustration, #sketchbook, #illustrasyon, #draw"
-  - username: "ozcanmerve"
-    fullname: >-
-      Merve Özcan
-    bio: >-
-      Roman Yazarı & İllüstratör 🎨: @merveozcanart
-    location: "Turkey"
-    followers: 11508
-    engagement: 1106
-    commentsToLikes: 0.044455
-    id: ckaoun4r00zy80i78s2qoe6is
-    verified: false
-    hashtags: ""
-  - username: "enversarac"
-    fullname: >-
-      Enver Saraç 🦀
-    bio: >-
-      Fashion Designer & Illustrator The Netherlands, Rotterdam DM for business inquiries
-    location: "Turkey"
-    followers: 41945
-    engagement: 685
-    commentsToLikes: 0.099048
-    id: ckap0p6rvr9ps0i78zh6xgk8i
-    verified: false
-    hashtags: "#art, #fashionista, #sketch, #istanbul"
-  - username: "zeynepkalkan"
-    fullname: >-
-      Zҽყɳҽρ Kαʅƙαɳ
-    bio: >-
-      🎨 Freelance #illustrator / #çizer 🐹 Children’s Books 🖌 Illustration upon request 📨 zejnepkalkan@hotmail.com
-    location: "Turkey"
-    followers: 1974
-    engagement: 8882
-    commentsToLikes: 0.072681
-    id: ck0u6g9la1xlr0i1997xbi21q
-    verified: false
-    hashtags: "#childrenbookart, #illustration, #childrenbookillustration, #childrenillustration"
-  - username: "buraksenturk"
-    fullname: >-
-      Burak Şentürk
-    bio: >-
-      Artist / illustrator bsenturk@gmail.com
-    location: "Turkey"
-    followers: 14552
-    engagement: 582
-    commentsToLikes: 0.025409
-    id: ckap70ltui5g00i785miw5ev1
-    verified: false
-    hashtags: "#ipadpro, #illustrator, #art, #drawing"
 ---

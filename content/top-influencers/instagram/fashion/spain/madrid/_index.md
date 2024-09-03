@@ -1,36 +1,24 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Madrid In 2023
+title: Top 10 Fashion Instagram Influencers In Madrid In 2024
 description: >-
-  Find top fashion Instagram influencers in Madrid in 2023. Most popular hashtags: #fashion #madrid #model #love.
+  Find top fashion Instagram influencers in Madrid in 2024. Most popular hashtags: #fashion #madrid #fashionmadrid #moda.
 platform: Instagram
-hits: 239
-text_top: See the most popular Instagram profiles on inBeat.
-text_bottom: Our platform holds 239 Instagram influencers like this in Madrid, Spain for you to contact.
+hits: 305
+text_top: See the best Instagram accounts on inBeat.
+text_bottom: Our database aggregates 305 Instagram influencers like this in Madrid, Spain for you to pitch.
 profiles:
-  - username: "pasoapasoblog"
+  - username: "paumarquesm"
     fullname: >-
-      • NATALIA MAQUIEIRA •
+      PAULA MARQUÉS
     bio: >-
-      📸 Fashion | deco | travels | lifestyle 🏙 Pontevedra, España ✉️ pasoapaso@twic.es ⚡️ CEO @pasoapaso_agency
+      •Madrid Your Favorite Fashion Journalist📰 Tiktok:(+1,1M) paulamarques@letsbeinfluenced.com Owner: @pilarmarques.shop #fashion #journalist #moda
     location: "Spain"
-    followers: 149948
-    engagement: 150
-    commentsToLikes: 0.033033
-    id: ck15tz8k3kmxz0i19okrfynqk
+    followers: 251013
+    engagement: 173
+    commentsToLikes: 0.006955
+    id: ckap37qhe1wip0i78smnb2yhp
     verified: false
-    hashtags: "#deco, #newlight, #decor, #decoracion"
-  - username: "aisder"
-    fullname: >-
-      Aisder🎀 LM. Esther
-    bio: >-
-      Aficionada a la Fotografia 📷, la pintura 🎨y la lectura 📚 Viajes ✈️ Moda 👗. 60. Superabuela 👧🏻👦🏻👧🏻👦🏻
-    location: "Spain"
-    followers: 10689
-    engagement: 494
-    commentsToLikes: 0.466834
-    id: ck5zt4qdazqht0i14ivm0no6c
-    verified: false
-    hashtags: "#fashionstyle, #summertime, #fashion, #madrid"
+    hashtags: "#fashionreels, #espa, #skinmoleculex, #fashion"
   - username: "josereyact"
     fullname: >-
       Jose Rey
@@ -42,19 +30,31 @@ profiles:
     commentsToLikes: 0.042400
     id: ck6uap1h14ter0j71k4cf7ye9
     verified: false
-    hashtags: "#love, #glamoure, #travelislife, #modelespa"
+    hashtags: "#glamoure, #modeles, #book, #fashionmadrid"
   - username: "madeinvideo"
     fullname: >-
-      Destination wedding Filmmakers
+      Luxury Destination Wedding Filmmakers
     bio: >-
-      🎥 Couple & creative team 👫 Jonas&Esther 📍From Mallorca to the 🌍 📃info@madeinvideo.es 2021: Venice/ Florence/Gibraltar/Santorini/Amalfi/Miami
+      🎥 Jonas + Esther / Couple & creative team 📍Based in Mallorca 🇪🇦 Available Worldwide 🌍 🌍 Next Destination weddings: 🇮🇹🇨🇵🇬🇷🇬🇧🇲🇦🇺🇲 📃info@madeinvideo.es
     location: "Spain"
-    followers: 11432
-    engagement: 341
-    commentsToLikes: 0.139225
+    followers: 12931
+    engagement: 259
+    commentsToLikes: 0.100969
     id: ck0vw0remrlbq0i190kon7770
     verified: false
-    hashtags: "#weddingfilm, #destinationweddingplanner, #weddingphotographer, #spainwedding"
+    hashtags: "#tuscanywedding, #mallorcaweddingplanner, #glamourwedding, #italywedding"
+  - username: "cristinavittoria_"
+    fullname: >-
+      🇨 ♡ 🇻 🇮 🇹 🇹 🇴 🇷 🇮 🇦
+    bio: >-
+      👸🏻🦄 🎤🎥🌎 ✿Actress ✿ Writer/ songwriter ✿Ukulele ✿Voices
+    location: "Spain"
+    followers: 96326
+    engagement: 317
+    commentsToLikes: 0.080908
+    id: ck8sxmbe0hv910j78daqso0zd
+    verified: false
+    hashtags: "#happiness, #fairytale, #nature, #disney"
   - username: "mariobeniteez"
     fullname: >-
       MARIO BENÍTEZ ⚡
@@ -67,6 +67,18 @@ profiles:
     id: ck5qbvqfbnm780i11klzqkg75
     verified: false
     hashtags: "#half, #faro, #vans, #vemiputoreels"
+  - username: "lisethcalero"
+    fullname: >-
+      Liseth Calero
+    bio: >-
+      📍Madrid | Lanzarote 📩 li96calero@gmail.com BE KIND. LIFE IS A MIRROR.
+    location: "Spain"
+    followers: 17255
+    engagement: 487
+    commentsToLikes: 0.032084
+    id: ckap7rp12l9j10i78ae81p4ob
+    verified: false
+    hashtags: "#travelphotography, #lanzarote, #atlanticocean, #influencer"
   - username: "danisanzfoto"
     fullname: >-
       Dani Sanz
@@ -79,18 +91,30 @@ profiles:
     id: ck6ty2clz1a3r0j71n88n3i7j
     verified: false
     hashtags: "#livelovespain, #longexpoadventure, #posing, #hairstyle"
-  - username: "imbluethepoodle"
+  - username: "natichualcantara"
     fullname: >-
-      Viaja con Blue 🐕 y Paula 👩🏻‍🦰
+      NATIVIDAD
     bio: >-
-      🏔Síguenos y descubre todas nuestras aventuras y planes #dogfriendly 🏔 📍Madrid 👇🏻¡No te lo pierdas!👇🏻
+      MADRID Fashion Styling and Creative Direction at @istitutomarangoni Styling: @tichustyle_
     location: "Spain"
-    followers: 12382
-    engagement: 288
-    commentsToLikes: 0.267270
-    id: ckaot2c2gu2az0i78nt9dbsi0
+    followers: 118188
+    engagement: 197
+    commentsToLikes: 0.027412
+    id: cl9ktus8fjaqq0i232hc1wwxn
     verified: false
-    hashtags: "#dogaccessories, #cute, #dogsofinstagram, #dogphotography"
+    hashtags: "#inspo, #looks, #fashion, #moda"
+  - username: "silviadebenito"
+    fullname: >-
+      Silvia de Benito
+    bio: >-
+      Lifestyle • Fashion • Family - Madrid.
+    location: "Spain"
+    followers: 137789
+    engagement: 5
+    commentsToLikes: 0.000000
+    id: ck55jsyjyxock0i11tsac0f6t
+    verified: true
+    hashtags: "#grwm, #ootd, #home, #naturecollection"
   - username: "kattydacosta"
     fullname: >-
       Katherin Da costa
@@ -102,29 +126,5 @@ profiles:
     commentsToLikes: 0.016286
     id: ck5hizi4jfqmc0i11kgy7ksub
     verified: false
-    hashtags: "#instafashion, #fun, #currentlywearing, #lookoftheday"
-  - username: "pezones.revueltos"
-    fullname: >-
-      Maria Bueno
-    bio: >-
-      FASHION ARTIST. Madrid.
-    location: "Spain"
-    followers: 146274
-    engagement: 183
-    commentsToLikes: 0.007870
-    id: ckap98zvwrntg0i78pdv38760
-    verified: true
-    hashtags: ""
-  - username: "sergiohm8"
-    fullname: >-
-      Sergio Hernández Morales
-    bio: >-
-      
-    location: "Spain"
-    followers: 9037
-    engagement: 1252
-    commentsToLikes: 0.075302
-    id: ckap4ii177j430i788fyatpgp
-    verified: false
-    hashtags: "#tenerife, #igerstenerife, #blancoynegro, #lanzarote"
+    hashtags: "#love, #madrid, #sweet, #fashionpost"
 ---

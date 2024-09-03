@@ -1,24 +1,48 @@
 ---
-title: Top 10 Bloggers Instagram Influencers In Seoul In 2023
+title: Top 10 Bloggers Instagram Influencers In Seoul In 2024
 description: >-
-  Find top bloggers Instagram influencers in Seoul in 2023. Most popular hashtags: #ootd #blogger #lifestyle #model.
+  Find top bloggers Instagram influencers in Seoul in 2024. Most popular hashtags: #ootd #blogger #seoul #style.
 platform: Instagram
-hits: 6
+hits: 8
 text_top: See the top-rated Instagram accounts on inBeat.
-text_bottom: Our search engine holds 6 Instagram influencers like this in Seoul, South Korea for you to collaborate.
+text_bottom: Our database has 8 Instagram influencers like this in Seoul, South Korea for you to collaborate.
 profiles:
+  - username: "hehejihee"
+    fullname: >-
+      Julie Hwang
+    bio: >-
+      Kiwi Korean in Dubai 🦋 EMIRATES MAKEUP VIDEO
+    location: "South Korea"
+    followers: 114406
+    engagement: 492
+    commentsToLikes: 0.006724
+    id: ckaozhqm2lxud0i78ep1u8e99
+    verified: false
+    hashtags: "#style, #greece, #mykonos, #korean"
+  - username: "wondralice"
+    fullname: >-
+      앨리스 외국모델
+    bio: >-
+      alice from seoul influencer beauty blogger 촬영/협찬 문의 dm ♡
+    location: "South Korea"
+    followers: 54280
+    engagement: 527
+    commentsToLikes: 0.005738
+    id: ck8t4kkkv735s0j78w49q4wee
+    verified: false
+    hashtags: "#believeintruth, #veganskincare, #grwm, #marynmay"
   - username: "sandra_ssong"
     fullname: >-
-      Sasha Song (모델 사샤)
+      Sasha Song 모델|유튜버🇰🇷
     bio: >-
-      Seoul / 서울 🇰🇷 Model / 인플루언서 모델 📸💃🏻 광고,촬영문의 / Business- DM 📩
+      서울/Seoul 🇰🇷📍 290만명 유튜버 ,모델 📸 광고,촬영문의 / Business ⬇️ sasha_song@naver.com
     location: "South Korea"
-    followers: 692345
-    engagement: 3617
-    commentsToLikes: 0.011403
+    followers: 686415
+    engagement: 599
+    commentsToLikes: 0.008739
     id: ck8t8gcnikdal0j7833hnrq5k
     verified: false
-    hashtags: "#korea, #lifeinkorea, #russianmodel, #internationalcouple"
+    hashtags: "#koreanstyle, #koreanmodel, #model, #osaka"
   - username: "naina_thapa"
     fullname: >-
       Naina ★네나★🧿
@@ -30,19 +54,7 @@ profiles:
     commentsToLikes: 0.051511
     id: ck6uevqevtcty0j718rd4gh5w
     verified: false
-    hashtags: "#photooftheday, #fashionista, #beauty, #makeup"
-  - username: "hehejihee"
-    fullname: >-
-      Julie Hwang
-    bio: >-
-      Kiwi Korean in Dubai ✨ NEW SKINCARE VIDEO⬇️
-    location: "South Korea"
-    followers: 56787
-    engagement: 522
-    commentsToLikes: 0.012792
-    id: ckaozhqm2lxud0i78ep1u8e99
-    verified: false
-    hashtags: "#serenity, #fashion, #ootd, #travel"
+    hashtags: "#bhfyp, #style, #instagood, #art"
   - username: "ingrid.zen.moments"
     fullname: >-
       Ingrid |Travel Blogger
@@ -78,31 +90,31 @@ profiles:
     commentsToLikes: 0.053434
     id: ck6uc3401d7zp0j714ryzyutw
     verified: false
-    hashtags: "#instagood, #boy, #koreanfashion, #lifestyle"
-  - username: "ariarisom"
+    hashtags: "#travelling, #life, #blogger, #singapore"
+  - username: "aga_on_the_run"
     fullname: >-
-      아리솜 / ARISOM
+      AGA || Travel Girl & Blogger🇵🇱
     bio: >-
-      💄Korean beauty Creator & blogger 👑 네이버 뷰스타 TOP 10 💋뷰티 블로거/ 크리에이터/유튜버 ❤ beauty / fashion / life
+      Inspiring you to travel & showing how to do it! Slow full-time travel in Asia🌏 🌱eco-friendly 🥑plant based 📍 Chiang Mai🇹🇭 🔻Follow for more travel tips
     location: "South Korea"
-    followers: 103056
-    engagement: 138
-    commentsToLikes: 0.019228
-    id: ck15s5uglbdgt0i19cnaaef8f
+    followers: 15768
+    engagement: 326
+    commentsToLikes: 0.423349
+    id: ck5zu12p01hex0i147oeih8my
     verified: false
-    hashtags: "#renefurterer, #forticea, #kate, #eyeliner"
-  - username: "healthyfoodmakesyoufeelgood"
+    hashtags: "#travelgirlshub, #travelinspo, #travelplaces, #wetravelgirls"
+  - username: "wondralice"
     fullname: >-
-      Foodblog Sin
+      앨리스 외국모델
     bio: >-
-      🤱 Mommy 🌱 Tea lover 🛫 Globetrotter 🍉 World cuisine foodie 🇰🇷 Korean-Belgian blogger 🇧🇪 🏠 Flanders, Belgium
+      alice from seoul influencer beauty blogger 촬영/협찬 문의 dm ♡
     location: "South Korea"
-    followers: 3796
-    engagement: 879
-    commentsToLikes: 0.402066
-    id: ck5ho75oap27p0i118v7gt28f
+    followers: 54280
+    engagement: 527
+    commentsToLikes: 0.005738
+    id: ck8t4kkkv735s0j78w49q4wee
     verified: false
-    hashtags: "#collab, #gezondeten, #vegan, #foodfotografie"
+    hashtags: "#believeintruth, #veganskincare, #grwm, #marynmay"
   - username: "yu.august"
     fullname: >-
       패션블로거 명성(MS)
@@ -115,16 +127,4 @@ profiles:
     id: ck0u0qr9jumtk0i19t44cqg1z
     verified: false
     hashtags: "#fff, #follow4follow, #ootd, #korean"
-  - username: "nanast1004"
-    fullname: >-
-      권나나
-    bio: >-
-      Korean Blogger & Influencer 💋 Fashion 👠 Beauty 💄Trend 🌟 패션, 뷰티 인플루언서 권나나❤️ 리뷰, 협찬 관련 문의는 메일주세요 👇 📧 nanast1004@naver.com 네이버 패션 인플루언서✨
-    location: "South Korea"
-    followers: 73590
-    engagement: 99
-    commentsToLikes: 0.017101
-    id: ck15ryg1tabz10i19bl7oyv4x
-    verified: false
-    hashtags: "#mycalvins, #inlovewithcalvinklein, #tasaki, #pinko"
 ---

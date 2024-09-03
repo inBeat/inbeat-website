@@ -1,11 +1,11 @@
 ---
-title: Top 10 Divers TikTok Influencers In Colombia In 2023
+title: Top 10 Divers TikTok Influencers In Colombia In 2024
 description: >-
-  Find top divers TikTok influencers in Colombia in 2023. Most popular hashtags: #fyp #parati #colombia #humor.
+  Find top divers TikTok influencers in Colombia in 2024. Most popular hashtags: #fyp #parati #viral #colombia.
 platform: TikTok
 hits: 43
-text_top: See the best TikTok influencers on inBeat.
-text_bottom: inBeat aggregates 43 TikTok influencers like this in Colombia for you to pitch.
+text_top: Analyze the best TikTok influencers on inBeat.
+text_bottom: Our database aggregates 43 TikTok influencers like this in Colombia for you to collaborate.
 profiles:
   - username: "lividd1"
     fullname: >-

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Yoga TikTok Influencers In Atlanta In 2023
+title: Top 10 Yoga TikTok Influencers In Atlanta In 2024
 description: >-
-  Find top yoga TikTok influencers in Atlanta in 2023. Most popular hashtags: #yoga #fyp #duet #atlanta.
+  Find top yoga TikTok influencers in Atlanta in 2024. Most popular hashtags: #fyp #yoga #duet #atlanta.
 platform: TikTok
 hits: 4
-text_top: See the top-rated TikTok accounts on inBeat.
-text_bottom: Our search engine has 4 TikTok influencers like this in Atlanta, United States for you to contact.
+text_top: Discover the most popular TikTok profiles on inBeat.
+text_bottom: Our search engine has 4 TikTok influencers like this in Atlanta, United States for you to collaborate.
 profiles:
   - username: "karlmac2021"
     fullname: >-
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.066173
     id: ck9el4qhm924t0j78vml816ca
     verified: false
-    hashtags: "#dramaticmoments, #mentalhealth, #draftdump, #whenwomenwin"
+    hashtags: "#fyp, #4upage, #diy, #babynames"
   - username: "susieplussteven"
     fullname: >-
       Susie and Steven
@@ -66,7 +66,7 @@ profiles:
     commentsToLikes: 0.115327
     id: ckbweqypy1rdb0j23muilxbnb
     verified: true
-    hashtags: "#duetwithme, #beat, #creator, #comedy"
+    hashtags: "#fyp, #creator, #comedy, #duetwithme"
   - username: "embermusic452"
     fullname: >-
       Emily Rose
@@ -78,7 +78,7 @@ profiles:
     commentsToLikes: 0.146499
     id: ckc7zijrv17w90j237wjkdrj7
     verified: false
-    hashtags: "#cat, #catmom, #musician, #duet"
+    hashtags: "#teacher, #musician, #musicteacher, #cat"
   - username: "keelsmontana"
     fullname: >-
       Kendall Meiller
@@ -114,7 +114,7 @@ profiles:
     commentsToLikes: 0.052850
     id: cka0zzn44hon50i7827tgar4a
     verified: false
-    hashtags: "#meditation, #affirmations2021, #ifeelweightless, #yogaflow"
+    hashtags: "#ifeelweightless, #springvibes, #mentalhealthawarness, #yoga"
   - username: "llusionmusic"
     fullname: >-
       LLusion

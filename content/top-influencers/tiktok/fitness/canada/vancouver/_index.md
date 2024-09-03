@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fitness TikTok Influencers In Vancouver In 2023
+title: Top 10 Fitness TikTok Influencers In Vancouver In 2024
 description: >-
-  Find top fitness TikTok influencers in Vancouver in 2023. Most popular hashtags: #fyp #fitness #foryoupage #canada.
+  Find top fitness TikTok influencers in Vancouver in 2024. Most popular hashtags: #fyp #fitness #foryoupage #canada.
 platform: TikTok
 hits: 18
-text_top: See the best TikTok profiles on inBeat.
-text_bottom: inBeat has 18 TikTok influencers like this in Vancouver, Canada for you to contact.
+text_top: Discover the most popular TikTok profiles on inBeat.
+text_bottom: Our platform aggregates 18 TikTok influencers like this in Vancouver, Canada for you to contact.
 profiles:
   - username: "train_with_bal"
     fullname: >-
@@ -78,7 +78,7 @@ profiles:
     commentsToLikes: 0.011627
     id: ck807cmtgpvdw0j78unh4ff7v
     verified: false
-    hashtags: "#lgbtq, #gaylove, #boyfriends, #fyp"
+    hashtags: "#gaylove, #fyp, #lgbtq, #boyfriends"
   - username: "_doitfortheclout_"
     fullname: >-
       For The CLOUT🤪
@@ -86,11 +86,11 @@ profiles:
       Vancouver BC 🇨🇦 Send your clout certified content🎬 Be featured
     location: "Canada"
     followers: 13900
-    engagement: 337
-    commentsToLikes: 0.024024
+    engagement: 344
+    commentsToLikes: 0.023604
     id: ckai2fknofl6n0i78vns8wd0u
     verified: false
-    hashtags: "#guessmyprovince, #foryoupage, #fyp, #ftp"
+    hashtags: "#gold, #songofthesummer, #ftp, #sendit"
   - username: "andrewpettitt"
     fullname: >-
       Andrew Pettitt

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Hypebeast TikTok Influencers In Toronto In 2023
+title: Top 10 Hypebeast TikTok Influencers In Toronto In 2024
 description: >-
-  Find top hypebeast TikTok influencers in Toronto in 2023. Most popular hashtags: #hypebeast #fyp #toronto #nike.
+  Find top hypebeast TikTok influencers in Toronto in 2024. Most popular hashtags: #hypebeast #fyp #toronto #sneakers.
 platform: TikTok
 hits: 10
-text_top: Analyze the best TikTok influencers on inBeat.
-text_bottom: inBeat aggregates 10 TikTok influencers like this in Toronto, Canada for you to pitch.
+text_top: Identify the top-rated TikTok accounts on inBeat.
+text_bottom: inBeat has 10 TikTok influencers like this in Toronto, Canada for you to pitch.
 profiles:
   - username: "overdoseto"
     fullname: >-
@@ -19,18 +19,6 @@ profiles:
     id: ckck5lcelqkm80j23b684fhh0
     verified: false
     hashtags: "#supremenewyork, #foryoupage, #trophyroom, #sneakers"
-  - username: "thatsoccerplayer77"
-    fullname: >-
-      Patty Lamanna
-    bio: >-
-      23 🇮🇹 Toronto Follow me on IG
-    location: "Canada"
-    followers: 113500
-    engagement: 928
-    commentsToLikes: 0.017508
-    id: ckdnud1cun00y0j231h6e1ho2
-    verified: false
-    hashtags: "#waitaminute, #airpodsjump, #imobsessed, #fyp"
   - username: "theplug.to"
     fullname: >-
       The Plug 👟
@@ -55,6 +43,18 @@ profiles:
     id: ckc35jqcpuqm50j23ay1mvk4p
     verified: false
     hashtags: "#teacher, #welcomeweek, #teacherlife2020, #tiktokteacher"
+  - username: "thatsoccerplayer77"
+    fullname: >-
+      Patty Lamanna
+    bio: >-
+      23 🇮🇹 Toronto Follow me on IG
+    location: "Canada"
+    followers: 113500
+    engagement: 928
+    commentsToLikes: 0.017508
+    id: ckdnud1cun00y0j231h6e1ho2
+    verified: false
+    hashtags: "#airpodsjump, #waitforit, #wow, #wearenotthesame"
   - username: "lqmnahmed"
     fullname: >-
       Luqman
@@ -66,7 +66,7 @@ profiles:
     commentsToLikes: 0.026899
     id: ckcjczohy9swl0j23a0yy16bm
     verified: false
-    hashtags: "#diy, #tiktokggt, #sneakers, #foryoupage"
+    hashtags: "#sneakers, #jordan1, #collab, #yeezy"
   - username: "itsfivethree"
     fullname: >-
       Five Three

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Makeup TikTok Influencers In Indonesia In 2023
+title: Top 10 Makeup TikTok Influencers In Indonesia In 2024
 description: >-
-  Find top makeup TikTok influencers in Indonesia in 2023. Most popular hashtags: #fyp #makeup #viral #dance.
+  Find top makeup TikTok influencers in Indonesia in 2024. Most popular hashtags: #fyp #makeup #viral #dance.
 platform: TikTok
 hits: 80
 text_top: Analyze the most popular TikTok accounts on inBeat.
-text_bottom: Our search engine has 80 TikTok influencers like this in Indonesia for you to connect with.
+text_bottom: Our database holds 80 TikTok influencers like this in Indonesia for you to collaborate.
 profiles:
   - username: "mariadelouvre"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.009756
     id: ckdbxu0awego80j23yk32vzjf
     verified: false
-    hashtags: "#cottagecore, #fairy, #transition, #anime"
+    hashtags: "#makeup, #elf, #dance, #fairy"
   - username: "dianaquinn_"
     fullname: >-
       DianaQuinn
@@ -102,7 +102,7 @@ profiles:
     commentsToLikes: 0.159415
     id: ck8khxt17opqi0j78jxqe9m2f
     verified: false
-    hashtags: "#beauty, #lashes, #learnwithme, #hair"
+    hashtags: "#learnwithme, #hair, #skincareroutine, #lashes"
   - username: "fausisalon"
     fullname: >-
       FausiSalon

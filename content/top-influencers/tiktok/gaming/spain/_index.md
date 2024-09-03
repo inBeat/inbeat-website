@@ -1,11 +1,11 @@
 ---
-title: Top 10 Gaming TikTok Influencers In Spain In 2023
+title: Top 10 Gaming TikTok Influencers In Spain In 2024
 description: >-
-  Find top gaming TikTok influencers in Spain in 2023. Most popular hashtags: #parati #gaming #fyp #foryou.
+  Find top gaming TikTok influencers in Spain in 2024. Most popular hashtags: #parati #gaming #fyp #foryou.
 platform: TikTok
 hits: 18
-text_top: See the best TikTok profiles on inBeat.
-text_bottom: Our search engine aggregates 18 TikTok influencers like this in Spain for you to contact.
+text_top: See the most popular TikTok profiles on inBeat.
+text_bottom: Our database has 18 TikTok influencers like this in Spain for you to work with.
 profiles:
   - username: "fpshungry"
     fullname: >-

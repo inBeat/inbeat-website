@@ -1,130 +1,130 @@
 ---
-title: Top 10 Yoga Instagram Influencers In India In 2023
+title: Top 10 Yoga Instagram Influencers In India In 2024
 description: >-
-  Find top yoga Instagram influencers in India in 2023. Most popular hashtags: #reelitfeelit #reelsinstagram #reels #reelsindia.
+  Find top yoga Instagram influencers in India in 2024. Most popular hashtags: #reels #trending #travel #yoga.
 platform: Instagram
-hits: 555
-text_top: Analyze the best Instagram influencers on inBeat.
-text_bottom: Our platform aggregates 555 Instagram influencers like this in India for you to contact.
+hits: 686
+text_top: Identify the top-rated Instagram accounts on inBeat.
+text_bottom: inBeat aggregates 686 Instagram influencers like this in India for you to contact.
 profiles:
-  - username: "debasreee"
+  - username: "aratislife"
     fullname: >-
-      Debasree Banerjee
+      Arati ☀️✨🌸
     bio: >-
-      Loves yoga and graphic liners Shop @debasreeebeauty here 👇🏻
+      . Founder: @yogarati 🧘‍♀️
     location: "India"
-    followers: 306757
-    engagement: 58
-    commentsToLikes: 0.018447
-    id: ck0twcyjeey0t0i190kk2ans1
+    followers: 20122
+    engagement: 794
+    commentsToLikes: 0.017539
+    id: ck5hdoy2dol8c0i110ov8ygwc
+    verified: false
+    hashtags: "#travelreels, #aratislife, #reels, #fun"
+  - username: "dr.chaithra_shetty"
+    fullname: >-
+      Chaithra R Shetty |Yoga|Travel |Parenting|
+    bio: >-
+      NATUROPATHY & YOGA DOCTOR❤️|CHILDBIRTH EDUCATOR FITNESS|HEALTH|TRAVEL|PARENTING|BABY FOOD| -Pre&Postnatal Expert DM for Online Yoga&fitness sessions.
+    location: "India"
+    followers: 25994
+    engagement: 2007
+    commentsToLikes: 0.019986
+    id: ck13cao4wzf370i19e4dv3gzb
+    verified: false
+    hashtags: "#yogaleggings, #yogaeveryday, #pregnantlife, #yogachallenge"
+  - username: "sonalithakker"
+    fullname: >-
+      Sonali Thakker Desai
+    bio: >-
+      Comedy. Travel. Yoga. EMIs. Contact: thakker.sonali@gmail.com, ameya.kulkarni@oml.in I have a YouTube channel! Click below ✨
+    location: "India"
+    followers: 65471
+    engagement: 2105
+    commentsToLikes: 0.013766
+    id: ckapc5c5m2j6a0i78g5cpv3bg
     verified: true
-    hashtags: "#myntrainsider, #matrixcolormelt, #healthyskin, #myntraeors"
-  - username: "yogasini"
+    hashtags: "#karnatakapictures, #solotravel, #backpacker, #indiaclicks"
+  - username: "d_lost_garl"
     fullname: >-
-      Radhika Bose | Fitness
+      Surabhi Soni
     bio: >-
-      Not Just Yoga Fitness |Travel | Lifestyle Blogger TEDx Speaker 💌: yogasini.01@gmail.com
+      In the mountains, I lost myself Certified Yoga Trainer | Influencer Marketer @thepopcornmedia.official Wish me on 8/9🥂 🗺Travelholic🏔
     location: "India"
-    followers: 600698
-    engagement: 58
-    commentsToLikes: 0.024457
-    id: ckap995vsromn0i78szvfz9yr
-    verified: true
-    hashtags: "#indiantravelblogger, #igdaily, #fitnessmotivation, #reelkarofeelkaro"
-  - username: "offeriko"
-    fullname: >-
-      𝙊𝙛𝙛𝙚𝙧𝙞𝙠𝙤 𝙂𝙚𝙙𝙖𝙣𝙠𝙚𝙣 𝙋𝙝𝙤𝙩𝙤𝙜𝙧𝙖𝙥𝙝𝙚𝙧
-    bio: >-
-      Sport, Dance, Yoga & Acro Photographer Mod: @gramoftheday Teach: @ig_galitz
-    location: "India"
-    followers: 6051
-    engagement: 1167
-    commentsToLikes: 0.181361
-    id: ck5hiw73sfknb0i11gmks4141
+    followers: 4011
+    engagement: 896
+    commentsToLikes: 0.052652
+    id: ckap678jvep0a0i787h72af6b
     verified: false
-    hashtags: "#all, #acro, #streetworkout, #acroyoga"
-  - username: "nishaflora_"
+    hashtags: "#uttarakhand, #travelrealindia, #reelsinstagram, #uttarakhandheaven"
+  - username: "kritikkaavasthi"
     fullname: >-
-      Jaspreet Kaur
+      Kritikka Avasthi
     bio: >-
-      Mann neeva, maat uchi ੴ Fashion | Beauty | Lifestyle 💃🏻💄👛 Coder 👩‍💻 Yoga teacher 🧘‍♀️ Indian rapunzel 🎀 For collabs, please DM or email
+      Travel/Lifestyle/Fitness/Yoga/Pranic Healing/Access Bars Managed by @tgbtroop Onward and beyond ❤️
     location: "India"
-    followers: 25353
-    engagement: 497
-    commentsToLikes: 0.100202
-    id: ck13bmp96w62t0i19rycvump0
+    followers: 126970
+    engagement: 3316
+    commentsToLikes: 0.030892
+    id: ckf5xdk16v9l30j23roqj6jku
     verified: false
-    hashtags: "#delhiblogger, #whiteheels, #reelitfeelit, #delhifashion"
-  - username: "angeliqueteo"
+    hashtags: "#funnyvideos, #healing, #reels, #rjraghav"
+  - username: "theyashanand"
     fullname: >-
-      Angelique Nicolette Teo
+      YASH ANAND
     bio: >-
-      Radio Presenter on @onefm913 Earth Hour Ambassador @earthhourofficial Plant-based 🌱 Since 2019 Daily 🧘 Yoga-Practicer
+      🇮🇳Natural MM World Champion🏆 🏋️ Representing INDIA🇮🇳 🏋️Athlete @muscleblaze | Code: ANAND30 💸 👕Athlete @mirin.brah 🏋️Athlete @yogabars.in | ANAND30
     location: "India"
-    followers: 18596
-    engagement: 474
-    commentsToLikes: 0.114962
-    id: ck5hnkcnnnxiw0i11iok283vh
+    followers: 470311
+    engagement: 555
+    commentsToLikes: 0.004545
+    id: cksa8d4atsifz0j23gcnsul40
     verified: false
-    hashtags: "#veganlifestyle, #sp, #plantbasedlife, #fridayvibes"
-  - username: "myredsabbatical"
+    hashtags: "#75hard, #reels, #trending, #viral"
+  - username: "simrananthal_"
     fullname: >-
-      Marcela | Travel, Yoga, Nature
+      Simran Anthal
     bio: >-
-      🛩 Traveller, adventurer, solopreneur 🌱 Founder @nayavita_yoga and @mynayavita
+      Travel | Fashion | Lifestyle Open water scuba diver 🤿 Certified yoga teacher 🧘‍♀️ 🌍 YOUR TRAVEL GUIDE 📧 Simrananthal9@gmail.com 📍Jammu ✈️ Delhi 🇮🇳
     location: "India"
-    followers: 7213
-    engagement: 1168
-    commentsToLikes: 0.485032
-    id: ck6tv7bb8kkwj0j71yjlgj1xf
+    followers: 105173
+    engagement: 1088
+    commentsToLikes: 0.019156
+    id: ckto9ubb6eqq10j23h9gh7ut8
     verified: false
-    hashtags: "#motheranddaughtergoals, #hotmom, #travelmoments, #bepresent"
-  - username: "oliya_2104"
+    hashtags: "#rishikesh, #explorepage, #kerala, #travelphotography"
+  - username: "mrinalikabhanjdeo"
     fullname: >-
-      Anusha Karmakar | Yoga Artist
+      Mrinalika Bhanjdeo, Mayurbhanj
     bio: >-
-      Yoga | Contortion Managed by @the.social.median Email for collaborations Online classes ⬇️
+      Director @thebelgadiapalace 🏰 Co-founder @hasa.atelier & Harta beauty by @discovergbs Certified Hatha & Yin yoga teacher #sustainabilityadvocate 🌺🍃🦚
     location: "India"
-    followers: 88504
-    engagement: 706
-    commentsToLikes: 0.019191
-    id: ck5hqf41ct0cr0i11my7i7qs3
+    followers: 16142
+    engagement: 594
+    commentsToLikes: 0.020406
+    id: ck14gyhc77n7k0i19dwdh1eo2
     verified: false
-    hashtags: "#flexibilitytraining, #flexibilitychallenge, #urbanicsquad, #dressup"
-  - username: "campatafio"
+    hashtags: "#beauty, #mayurbhanj, #cleanbeauty, #odisha"
+  - username: "nandanibatta"
     fullname: >-
-      maternidad - yoga - veganismo
+      Nandani Batta
     bio: >-
-      soy mamá de eloísa 🌿 #veganfamily esp. en ortodoncia @cerettiodontologia practico ashtanga vinyasa yoga embajadora @luleamindful
+      International Level Gold Medalist in Dance National Level Yoga Player Content Creator :- @creator21.official YouTube Channel👇
     location: "India"
-    followers: 8529
-    engagement: 521
-    commentsToLikes: 0.143282
-    id: ck5zqimoyuo080i14va12f2vn
+    followers: 145694
+    engagement: 398
+    commentsToLikes: 0.016618
+    id: ck8wet5akeks50j78y2pd8hc1
     verified: false
-    hashtags: "#laserranita, #yogaeverydamnday, #seventhseries, #cordoba"
-  - username: "missclassynova"
+    hashtags: "#ceraplayityourway, #dance, #feelkaroreelkaro, #boireeltime"
+  - username: "sonalsharmayoga"
     fullname: >-
-      Megha | India 🇮🇳
+      Sonal Sharma || Ashtanga Yoga Authorised L2 || Plant Based 🌿
     bio: >-
-      ~Lifestyle ~Beauty ~Fashion ~Yoga ~Travel #fashion #lifestyle #yoga #jaipur
+      Teaching Online || Mysore and LED classes 🌸 Intro to Ashtanga Yoga starting from 2nd Aug. 🌻🌿
     location: "India"
-    followers: 18120
-    engagement: 456
-    commentsToLikes: 0.079323
-    id: ck8t2dx57z4920j78uqi4t8oc
+    followers: 76001
+    engagement: 477
+    commentsToLikes: 0.051768
+    id: ck5cfahgimkp40i11d7cccnnn
     verified: false
-    hashtags: "#poseoftheday, #poser, #whowhatwear, #ad"
-  - username: "komalchhikara1"
-    fullname: >-
-      Komal Chhikara Rathi
-    bio: >-
-      Here for some fun 🤩 Physiotherapist | Nutritionist | Yoga Professional | Influencer | Fitness Enthusiast Business 📧: komal.enquiry@gmail.com
-    location: "India"
-    followers: 83159
-    engagement: 344
-    commentsToLikes: 0.013813
-    id: ck9hb43p6fbsm0j78er6ip0aq
-    verified: false
-    hashtags: "#trendingnow, #bollywood, #fashion, #punjab"
+    hashtags: "#ashtangayoga, #primaryseries, #dailypractice, #yogaclass"
 ---

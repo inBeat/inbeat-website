@@ -1,24 +1,84 @@
 ---
-title: Top 10 Runners Instagram Influencers In Italy In 2023
+title: Top 10 Runners Instagram Influencers In Italy In 2024
 description: >-
-  Find top runners Instagram influencers in Italy in 2023. Most popular hashtags: #motivation #run #trailrunning #running.
+  Find top runners Instagram influencers in Italy in 2024. Most popular hashtags: #running #trailrunning #runningmotivation #allenamento.
 platform: Instagram
-hits: 120
-text_top: Discover the top-rated Instagram profiles on inBeat.
-text_bottom: Our database has 120 Instagram influencers like this in Italy for you to work with.
+hits: 123
+text_top: See the best Instagram influencers on inBeat.
+text_bottom: Our database holds 123 Instagram influencers like this in Italy for you to connect with.
 profiles:
+  - username: "fontello"
+    fullname: >-
+      Daniel Fontana
+    bio: >-
+      Triathlete. Two time olimpian, Ironman Champion. 🏊🏻‍♂️ swimmer 🚴🏻‍♂️ biker 🏃🏻‍♂️ runner 👨🏼‍💼 accounting 🎣 fly fishing lover
+    location: "Italy"
+    followers: 13966
+    engagement: 307
+    commentsToLikes: 0.015488
+    id: ck0w45bj4wvzn0i19q2ufguk7
+    verified: false
+    hashtags: "#briko, #solowattaggio, #swattclub, #runhappy"
+  - username: "run_and_the_city"
+    fullname: >-
+      Cristina Turini
+    bio: >-
+      Sono fatta della stessa materia di cui è fatta la pizza 🍕 SMM @ MagNet, redattrice @runningmagazine @padel.biz🏃🏻‍♀️lazy runner👉🏻info@runandthecity.it
+    location: "Italy"
+    followers: 37264
+    engagement: 164
+    commentsToLikes: 0.040119
+    id: ck6u9q1ewyywg0j71cs0i3vwo
+    verified: false
+    hashtags: "#endorphinelite, #flyhumanfly, #runningshoes, #runandthecity"
   - username: "cosimo_run"
     fullname: >-
-      Cosimo Bertotto
+      Cosimo Bertotto  - ASICSFrontRunner
     bio: >-
-      Ultradistance #Runner 👨‍🏫@mam265 Polar⌚️ @polaritalia 🏃‍♂️ @qualityshoppingsport
+      @asicsfrontrunner Team Italy Coach @mam265 Tecnico Fidal #runner #runningmotivation Collaborazioni 🏃‍♂️ @scienceinsport
     location: "Italy"
-    followers: 35419
-    engagement: 197
-    commentsToLikes: 0.117194
+    followers: 33615
+    engagement: 105
+    commentsToLikes: 0.193860
     id: ck9weke83knt60j78lpaapgra
     verified: false
-    hashtags: "#sisambassadoritaly, #iloverunning, #bicicletta, #runtoinspire"
+    hashtags: "#asicsfrontrunnerltaly, #nothingfeelsbetter, #insta360, #asicsfrontrunner2024"
+  - username: "barla81"
+    fullname: >-
+      Marco Barla
+    bio: >-
+      Dad 👨‍👩‍👧 Physiotherapist 👨‍⚕️ Climber 🧗‍♀️ ✊🏽 Runner 🏃🏻 🇮🇹 📩DM FOR COLLAB #boulder#climb#run#vaibenete https://www.strava.com/athletes/barla_marco
+    location: "Italy"
+    followers: 38968
+    engagement: 94
+    commentsToLikes: 0.033545
+    id: ck9wfwlt5qtqk0j78u3es08wc
+    verified: false
+    hashtags: "#running, #runningman, #performance, #mountaineering"
+  - username: "sandralovisco"
+    fullname: >-
+      Sandra Lovisco
+    bio: >-
+      Content Creator&Digital Communication Founder @womcommunication | Digital Support Moleskine PGW The Queen #sportinfluencer #runner #cyclist
+    location: "Italy"
+    followers: 84607
+    engagement: 71
+    commentsToLikes: 0.183814
+    id: ckf5x2y0eu5o40j235ldwm8w0
+    verified: false
+    hashtags: "#cyclist, #mtb, #mtbitalia, #skincare"
+  - username: "correremagazine"
+    fullname: >-
+      Correre
+    bio: >-
+      La rivista dei runner italiani dal 1981🏃🏃🏽‍♀️🇮🇹⁣ #correremagazine ⁣ 👇🏽sfoglia la rivista digitale
+    location: "Italy"
+    followers: 32043
+    engagement: 44
+    commentsToLikes: 0.013526
+    id: ck9h9ty0o9ykj0j78dm444qwf
+    verified: false
+    hashtags: "#correremagazine, #allenamento, #maratona, #correre"
   - username: "annarunny"
     fullname: >-
       Anna
@@ -31,18 +91,6 @@ profiles:
     id: ck8tdnhdr41um0j78t0igsput
     verified: false
     hashtags: "#vogue, #geldstrainer24, #runnerfashion, #fotogelso"
-  - username: "a_monteleone"
-    fullname: >-
-      Antonino Monteleone
-    bio: >-
-      tv reporter @redazioneiene 🎤 | private pilot ✈️ | runner 🏃🏻‍♂️
-    location: "Italy"
-    followers: 50616
-    engagement: 422
-    commentsToLikes: 0.020822
-    id: ck0u74u3c3r9r0i19tik0xeel
-    verified: true
-    hashtags: "#leiene, #amsterdam, #tv, #picoftheday"
   - username: "lukaguglie"
     fullname: >-
       Luca 🏔
@@ -79,52 +127,4 @@ profiles:
     id: ck5zm7bm3m1hv0i14l5qc1nn4
     verified: false
     hashtags: "#run, #runningmotivation, #milano, #runningtour"
-  - username: "marta_zenoni"
-    fullname: >-
-      marta 🏃‍♀️
-    bio: >-
-      Runner & @uniluiss student🏃🏻‍♀️📚 @sportluiss Top Athlete sponsored by @pezzillimedia🔝 🥇x25 Italian Champion 🥉🥈Euros U23, World Youth Championships
-    location: "Italy"
-    followers: 18927
-    engagement: 731
-    commentsToLikes: 0.014002
-    id: ck8syeu2bkmk80j78ljh9m5px
-    verified: false
-    hashtags: "#dreaming, #sun, #food, #enjoy"
-  - username: "ludovicacatgiu"
-    fullname: >-
-      LC🌸
-    bio: >-
-      • MED Student👩🏻‍⚕️| UniMi💉 • Born in Sardinia, based in Milan📍♥️ • Adidas Runner🖤
-    location: "Italy"
-    followers: 9825
-    engagement: 800
-    commentsToLikes: 0.036212
-    id: ck5qdv1t5xg6u0i11zzrynrw8
-    verified: false
-    hashtags: "#yallersmilano, #igersitalia, #medlife, #parcolambro"
-  - username: "katherine_hoyk"
-    fullname: >-
-      Katherine Ho
-    bio: >-
-      Miss Hong Kong 👑 2nd runner-up 👑 Miss international Hong Kong 🌏 Actress 🎬 HKU Law graduate 🎓 TV host 🎤TVB Management: Daisy Shiu (852)23352107
-    location: "Italy"
-    followers: 102144
-    engagement: 153
-    commentsToLikes: 0.010611
-    id: ck139fdb7l0sk0i195nne5s58
-    verified: false
-    hashtags: "#waiyinassociation, #weekend, #waiyindreambig, #painting"
-  - username: "francescosarzi"
-    fullname: >-
-      Francesco Sarzi 🇮🇹
-    bio: >-
-      🚴🏻‍♂️ | MTB lover 🏃🏻 | Runner 🌐 | Nightlife addicted 📈 | Digital #marketing
-    location: "Italy"
-    followers: 10540
-    engagement: 382
-    commentsToLikes: 0.059197
-    id: ck9we3qpnig530j78lzq6ba4z
-    verified: false
-    hashtags: "#italianstyle, #francescosarzi, #airport, #poser"
 ---

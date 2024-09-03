@@ -1,12 +1,24 @@
 ---
-title: Top 10 Vegan Instagram Influencers In Rome In 2023
+title: Top 10 Vegan Instagram Influencers In Rome In 2024
 description: >-
-  Find top vegan Instagram influencers in Rome in 2023. Most popular hashtags: #vegan #rome #italy #italia.
+  Find top vegan Instagram influencers in Rome in 2024. Most popular hashtags: #vegan #rome #italy #love.
 platform: Instagram
-hits: 16
-text_top: Analyze the best Instagram influencers on inBeat.
-text_bottom: Our platform has 16 Instagram influencers like this in Rome, Italy for you to collaborate.
+hits: 20
+text_top: Analyze the top-rated Instagram accounts on inBeat.
+text_bottom: Our platform has 20 Instagram influencers like this in Rome, Italy for you to work with.
 profiles:
+  - username: "angelarummans"
+    fullname: >-
+      Angela Rummans
+    bio: >-
+      2x Bestselling Author Wellness. Workouts. Lifestyle. Recipes Cali/ Bali/ SC WHAT I EAT IN A DAY Cookbook Out Now! @angelas_plantbasedkitchen
+    location: "Italy"
+    followers: 688362
+    engagement: 140
+    commentsToLikes: 0.018445
+    id: ck13747e39owd0i19t26966s6
+    verified: true
+    hashtags: "#healthyfood, #abworkout, #deepcore, #whatieatinaday"
   - username: "enea_ph_lovers"
     fullname: >-
       🌹HiKiNg💙visit my gallery🌹
@@ -31,18 +43,18 @@ profiles:
     id: ck6tmj8r77xu90j71pvp52qi9
     verified: false
     hashtags: "#rifugio, #dirittideglianimali, #resistenzaanimale, #santuariocapraliberatutti"
-  - username: "virginia_kalho"
+  - username: "cosmepolitan.it"
     fullname: >-
-      𝓥𝓲𝓻𝓰𝓲𝓷𝓲𝓪
+      Elvira Colavita
     bio: >-
-      📍Rome 📚Art historian ✨Aesthetic and vintage lover ✉️virginiacaprino92@gmail.com [FUN]
+      ELVIRALE⭐️ Beauty Coach Sport performer Pilates lover @nevedilattegelateria Made in Rome ☀️ Molto sposata💍
     location: "Italy"
-    followers: 19108
-    engagement: 126
-    commentsToLikes: 0.288932
-    id: ckap4qam38dwq0i78v3dj6ve2
+    followers: 223904
+    engagement: 122
+    commentsToLikes: 0.026562
+    id: ckap4sr1s8pai0i78wilr5f34
     verified: false
-    hashtags: "#suppliedby, #romwe, #ootd, #jewels"
+    hashtags: "#clarins, #beautytips, #allenatricedibellezza, #monday"
   - username: "cami_delai"
     fullname: >-
       Camilla Delai 🌹
@@ -55,6 +67,18 @@ profiles:
     id: ck600sf29e6ir0i14avcrvrji
     verified: false
     hashtags: "#madeinitaly, #flower, #model, #fitness"
+  - username: "maria.teresa.21299"
+    fullname: >-
+      Maria Teresa
+    bio: >-
+      Free spirit~🍃 Sicily📍 24 years 🌹 Sagittarius ♐️ Photo passion 📸 Cat lover 🐈🐱❣️ “I don’t have a specific destination, the world is my destination”✈️❤️🌎
+    location: "Italy"
+    followers: 16682
+    engagement: 676
+    commentsToLikes: 0.061899
+    id: ck9hc54urju250j787d69yz1x
+    verified: false
+    hashtags: "#sicily, #style, #handmadewithlove, #handmadejewelry"
   - username: "loredana.cannata"
     fullname: >-
       Loredana Cannata
@@ -78,19 +102,19 @@ profiles:
     commentsToLikes: 0.168248
     id: ck5chcietqifa0i1102epf75w
     verified: false
-    hashtags: "#feedfeed, #veganfood, #rome, #prettylittleiiinspo"
-  - username: "misteruniquelife"
+    hashtags: "#bestdiscovery, #summer, #igersitalia, #florence"
+  - username: "diletta.ferretti_"
     fullname: >-
-      Fabrizio Politi | creativo
+      DILETTA FERRETTI  | Lifestyle
     bio: >-
-      Fritto, é bono tutto. fabrizio@uniquelife.it
+      Inspired by fashion and aesthetic La vie est belle 🌈 📍Cardano al Campo (VA)
     location: "Italy"
-    followers: 132363
-    engagement: 243
-    commentsToLikes: 0.018977
-    id: ck0u7uhpc5o200i19bwovhlny
+    followers: 17726
+    engagement: 344
+    commentsToLikes: 0.143055
+    id: ck6ualkaa48gn0j714ob46501
     verified: false
-    hashtags: "#travelling, #friday, #travelphotography, #sunday"
+    hashtags: "#bionell, #freshlycosmetics, #outfitideas, #influencerswanted"
   - username: "morganickitchen"
     fullname: >-
       Morgan Witkin
@@ -103,28 +127,4 @@ profiles:
     id: ck5hiardncj830i11vkri3wbe
     verified: false
     hashtags: "#2020, #quarantine, #plantbased, #vegan"
-  - username: "simo_veggie_fit"
-    fullname: >-
-      𝓢𝓲𝓶𝓸𝓷𝓮 𝓣𝓪𝓿𝓪𝓻𝓪𝓷𝓲
-    bio: >-
-      𝘝𝘦𝘨𝘢𝘯 𝘭𝘪𝘧𝘦𝘴𝘵𝘺𝘭𝘦 𝘛𝘦𝘴𝘵𝘪𝘮𝘰𝘯𝘪𝘢𝘭 @vitamincompany 𝘤𝘰𝘥. ”𝘚𝘐𝘔𝘖𝘕𝘌10” 𝘗𝘦𝘳𝘴𝘰𝘯𝘢𝘭 𝘛𝘳𝘢𝘪𝘯𝘦𝘳 𝘍𝘰𝘶𝘯𝘥𝘦𝘳 @veraque_official
-    location: "Italy"
-    followers: 8432
-    engagement: 389
-    commentsToLikes: 0.057352
-    id: ck13a0nhuo1940i190960azr4
-    verified: false
-    hashtags: "#crueltyfree, #chocolate, #happy, #instagood"
-  - username: "abicocca"
-    fullname: >-
-      Dalia
-    bio: >-
-      Protettrice dei gatti 🐈 📹Canale twitch e YouTube: Abicocca📹 Proposte commerciali: abicocca@arkadia.agency Per 0nlyf4nz cliccare il link sotto
-    location: "Italy"
-    followers: 9899
-    engagement: 1240
-    commentsToLikes: 0.042826
-    id: ck5q9m1wpbst50i111mbbz3n0
-    verified: false
-    hashtags: "#lgbt, #cibovegano, #abicocca, #twitchitalia"
 ---

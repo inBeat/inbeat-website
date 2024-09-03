@@ -1,11 +1,11 @@
 ---
-title: Top 10 Hypebeast Instagram Influencers In France In 2023
+title: Top 10 Hypebeast Instagram Influencers In France In 2024
 description: >-
-  Find top hypebeast Instagram influencers in France in 2023. Most popular hashtags: #hypebeast #streetstyle #streetwear #sneakersmag.
+  Find top hypebeast Instagram influencers in France in 2024. Most popular hashtags: #hypebeast #streetwear #streetstyle #snobshots.
 platform: Instagram
-hits: 97
+hits: 91
 text_top: Analyze the best Instagram influencers on inBeat.
-text_bottom: inBeat aggregates 97 Instagram influencers like this in France for you to pitch.
+text_bottom: Our search engine aggregates 91 Instagram influencers like this in France for you to contact.
 profiles:
   - username: "treubleumedia"
     fullname: >-
@@ -31,6 +31,66 @@ profiles:
     id: ck1362fx74fhl0i19xg2snhim
     verified: true
     hashtags: ""
+  - username: "moro_julien_"
+    fullname: >-
+      𝗝𝘂𝗹𝗶𝗲𝗻 𝗠𝗼𝗿𝗲𝗮𝘂  📷📹
+    bio: >-
+      📍𝗣𝗮𝗿𝗶𝘀, 𝗙𝗿 • Pʜᴏᴛᴏɢʀᴀᴘʜᴇ ﹣ Vɪᴅᴇ́ᴀsᴛᴇ ﹣ D.A • Cᴏɴᴛʀɪʙᴜᴛᴏʀ @parisnolimit Mon projet "𝗔𝗨 𝗖𝗢𝗘𝗨𝗥 𝗗𝗨 𝗚𝗥𝗔𝗡𝗗 𝗣𝗔𝗡𝗔𝗠𝗘" by CarteBlanche @psg Disponible ici ⬇️
+    location: "France"
+    followers: 18909
+    engagement: 423
+    commentsToLikes: 0.032775
+    id: ck5hpzlnjs8kw0i11nk6ewg4r
+    verified: false
+    hashtags: "#canon, #life, #sonyalpha, #icicestparis"
+  - username: "prraazz"
+    fullname: >-
+      Praz
+    bio: >-
+      🇨🇵 FR 🏙️ Just sharing outfits
+    location: "France"
+    followers: 35554
+    engagement: 1252
+    commentsToLikes: 0.028840
+    id: ck0w60o6g6ck60i193zccbvja
+    verified: false
+    hashtags: "#minimalfits, #beststreetoutfit, #snkrskickcheck, #y2kaesthetic"
+  - username: "sylvainmante"
+    fullname: >-
+      Sylvain Mante
+    bio: >-
+      & Globe-trotter 🎬 @ozzak.fr ‘s Father ! 🐘 Nantes
+    location: "France"
+    followers: 23144
+    engagement: 110
+    commentsToLikes: 0.056807
+    id: ck5q10h3z8nm20i11dv3vphcx
+    verified: false
+    hashtags: "#jeuxconcours, #travel, #streetwear, #nantes"
+  - username: "marie_garetoff"
+    fullname: >-
+      Marie Garet
+    bio: >-
+      PASSIONNÉE- IDEL - IBODE - féministe engagée - protectrice des animaux 💯 Tattoo - travel - sneakers - lifestyle - CRAZY TikTok : marie.garet
+    location: "France"
+    followers: 113695
+    engagement: 104
+    commentsToLikes: 0.025275
+    id: ckf5mcl7jt7ls0j23gmql5fo7
+    verified: true
+    hashtags: "#streetwear, #sneakershouts, #hypebeast, #bvlkvis"
+  - username: "poutge"
+    fullname: >-
+      Jean
+    bio: >-
+      🇩🇰 Cph & 🇨🇵 Bordeaux 📸 Travel photographer/Content creator 🛩️ Certified drone operator 📩 luxe.jean@gmail.com 🖥️ Website :
+    location: "France"
+    followers: 65072
+    engagement: 85
+    commentsToLikes: 0.031302
+    id: ck0u0h8uhto8m0i19zgacjzho
+    verified: false
+    hashtags: "#doyoutravel, #igworldclub, #lensculture, #visitbordeaux"
   - username: "khalidx.0"
     fullname: >-
       Streetwear & Classic
@@ -43,18 +103,6 @@ profiles:
     id: ck5q31dx1ir710i115du97tjh
     verified: false
     hashtags: "#mydailystreet, #vpg, #virtualstylist, #classyvision"
-  - username: "sylvaincoll"
-    fullname: >-
-      Sylvain Mante Coll
-    bio: >-
-      Nantes From Paris | Menswear | Travel | ✉ sylvaincoll@outlook.fr ♚ YouTube : Symos Travel 🆕
-    location: "France"
-    followers: 24586
-    engagement: 145
-    commentsToLikes: 0.077899
-    id: ck5q10h3z8nm20i11dv3vphcx
-    verified: false
-    hashtags: "#streetstyle, #automne, #paris, #france"
   - username: "i.am.jo.blz"
     fullname: >-
       Jo blaze©️
@@ -79,52 +127,4 @@ profiles:
     id: ck5c0r8c9tp2k0i119v495yuz
     verified: false
     hashtags: "#ottdmen, #hypebeast, #vjintage, #classyoutfit"
-  - username: "bisso97120"
-    fullname: >-
-      Selecta Bisso from Guadeloupe
-    bio: >-
-      • Snkrs & Lifestyle •Manage: @asics_addict @diadoradaily @afewaddicted • • @klekt French advisor • @attraction.agency ➡️ #selectabisso WEB SITE⬇️
-    location: "France"
-    followers: 29699
-    engagement: 266
-    commentsToLikes: 0.153659
-    id: ck14lu8zqwii10i19w7f384va
-    verified: false
-    hashtags: "#sneakershead, #pictureoftheday, #wethenew, #instakicks"
-  - username: "parazites.fits"
-    fullname: >-
-      Parazites shop
-    bio: >-
-      Streetwear Brand & Inspiration Halloween Offer Up to 60% ↙
-    location: "France"
-    followers: 25249
-    engagement: 626
-    commentsToLikes: 0.007982
-    id: ck8ta2elvq7di0j781r5j8512
-    verified: false
-    hashtags: ""
-  - username: "sneakersmalbac"
-    fullname: >-
-      sneakersmalbac👟👟👟🇫🇷
-    bio: >-
-      📍94 91 rennes Amateur et collectionneur🇫🇷 👟👟 Photo amateur 📸📸 8 us #timeforsoleaction #fullsneakers
-    location: "France"
-    followers: 5643
-    engagement: 999
-    commentsToLikes: 0.135364
-    id: ck5qbfk8fldgq0i119m9wqfuv
-    verified: false
-    hashtags: "#sneakerdreamnl, #kicksoftheday, #airmaxalways, #nike"
-  - username: "valentin.capp"
-    fullname: >-
-      En Mode Sneakers
-    bio: >-
-      ⚠️ Footwear Content Creator 🌍 Last trip New York ✖️ Aff w/ @nikesportswear 🇫🇷 Lyon - Paris 📸 Inquiries
-    location: "France"
-    followers: 10231
-    engagement: 1418
-    commentsToLikes: 0.112521
-    id: ck139bkj1khow0i19ikbltdrg
-    verified: false
-    hashtags: "#onlylyon, #bldexplore, #streets, #citygrammers"
 ---

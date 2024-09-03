@@ -1,12 +1,48 @@
 ---
-title: Top 10 Boxers Instagram Influencers In Canada In 2023
+title: Top 10 Boxers Instagram Influencers In Canada In 2024
 description: >-
-  Find top boxers Instagram influencers in Canada in 2023. Most popular hashtags: #boxing #fitness #training.
+  Find top boxers Instagram influencers in Canada in 2024. Most popular hashtags: #boxing #boxe #montreal.
 platform: Instagram
-hits: 21
-text_top: Analyze the best Instagram profiles on inBeat.
-text_bottom: Our search engine holds 21 Instagram influencers like this in Canada for you to connect with.
+hits: 35
+text_top: See the best Instagram influencers on inBeat.
+text_bottom: Our database has 35 Instagram influencers like this in Canada for you to contact.
 profiles:
+  - username: "kimklavel"
+    fullname: >-
+      𝕂𝕚𝕞 𝕂𝕜 ℂ𝕝𝕒𝕧𝕖𝕝
+    bio: >-
+      🥊 Professional boxer / light flyweight / 17-2-3KO 🏆Championne du Monde WBC 2022 🏆Prix ESPY Pat Tillman 2020 🏆WBC silver 2021 🥊 Casino MTL 4 avril 👇
+    location: "Canada"
+    followers: 59010
+    engagement: 248
+    commentsToLikes: 0.018857
+    id: cksh9xo9cvqrr0j23lifs4qy0
+    verified: false
+    hashtags: "#training, #cuba, #quebec, #groupeym"
+  - username: "frankboxingcoach"
+    fullname: >-
+      François Haché Lacombe
+    bio: >-
+      🥊Former boxer, turned coach, 20yrs in the game 🧠No nonsense approach to boxing training 📩for Pro & Amateur Training @hayabusacombat Coach 📍Montreal
+    location: "Canada"
+    followers: 512304
+    engagement: 211
+    commentsToLikes: 0.015302
+    id: ck5hj0h78fsg00i11u8yrt91t
+    verified: false
+    hashtags: "#boxeo, #boxing, #mtlfitness, #mma"
+  - username: "janetteewen"
+    fullname: >-
+      Janette Ewen
+    bio: >-
+      Escape Artist #lifestyle #editor & award winning #designer TV co-host 🥊amateur boxer #fitness advocate 👩🏼‍🎨 @parkerbarrowcreative MEO @liftcorktown
+    location: "Canada"
+    followers: 185601
+    engagement: 6
+    commentsToLikes: 0.014638
+    id: ckaozstdsn8sj0i7889vyh7o3
+    verified: true
+    hashtags: "#fitnessmotivation, #funnyvideos, #canadian, #notsponsored"
   - username: "sadriddin_____soq"
     fullname: >-
       SOLDIER OF QAZAQ(S.O.Q)
@@ -42,7 +78,7 @@ profiles:
     commentsToLikes: 0.040899
     id: ck5hp9hfjqz710i11lzyo72ou
     verified: false
-    hashtags: "#usa, #kazakhstan, #allahuakbar, #alhamdulillah"
+    hashtags: "#ablaikhankhussainov, #kazakhstan, #allahuakbar, #alkhamdulillah"
   - username: "erikbzo"
     fullname: >-
       Erik Bazinyan
@@ -54,7 +90,7 @@ profiles:
     commentsToLikes: 0.046636
     id: ck0ttzphm50zu0i19ohxqvfik
     verified: true
-    hashtags: "#bzoisback, #haveadream, #boxing, #flashbackfriday"
+    hashtags: "#family, #tothenextlevel, #boxing, #invincible"
   - username: "mirage.boxing"
     fullname: >-
       سراب -  M I R A G E
@@ -91,40 +127,4 @@ profiles:
     id: ck5cdte7gjqo90i11w9sa9vn7
     verified: true
     hashtags: "#feb20th, #stilladjustingtofame, #tbt, #samethang"
-  - username: "abedelsafadi"
-    fullname: >-
-      T E A M A B E D🦁
-    bio: >-
-      Canada, Montréal 🇲🇦|🇵🇸 Professionnel Boxer🥊 Record: 3-0-0💥 Active on Snapchat 👻 : Abed80 -What doesn't kill you makes you stronger-👑
-    location: "Canada"
-    followers: 2821
-    engagement: 1275
-    commentsToLikes: 0.037345
-    id: ck601tcd3g4vt0i14dqtejepg
-    verified: false
-    hashtags: "#workout, #judo, #boxeo, #fighter"
-  - username: "jelenaboxing"
-    fullname: >-
-      jelenaboxing
-    bio: >-
-      Professional Boxer 8 X WORLD BOXING CHAMPION Founder:CHAMPS BOXING STUDIO @champsboxingyeg
-    location: "Canada"
-    followers: 12275
-    engagement: 397
-    commentsToLikes: 0.037765
-    id: ck5hfy1rvzxbn0i11xduzx28y
-    verified: false
-    hashtags: "#fitness, #training, #worldchampion, #family"
-  - username: "cassiuswinston5"
-    fullname: >-
-      Cash🖤 Yo world Smoothie Bean 🖤
-    bio: >-
-      Detroit Made| MSU 💚| Wiz🧙🏾‍♂️| AB❤️| #LuvGang🖤🍹🌍
-    location: "Canada"
-    followers: 134068
-    engagement: 1023
-    commentsToLikes: 0.010311
-    id: ck0vzdsf48ly30i19sq2s2qis
-    verified: true
-    hashtags: "#boxerswithpockets, #ad, #att5g, #attathlete"
 ---

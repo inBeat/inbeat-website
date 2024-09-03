@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Rio De Janeiro In 2023
+title: Top 10 Fashion Instagram Influencers In Rio De Janeiro In 2024
 description: >-
-  Find top fashion Instagram influencers in Rio De Janeiro in 2023. Most popular hashtags: #fashion #style #gramado.
+  Find top fashion Instagram influencers in Rio De Janeiro in 2024. Most popular hashtags: #gramado #fashion #makeup.
 platform: Instagram
 hits: 43
-text_top: Analyze the most popular Instagram influencers on inBeat.
-text_bottom: inBeat aggregates 43 Instagram influencers like this in Rio de Janeiro, Brazil for you to contact.
+text_top: Identify the top-rated Instagram accounts on inBeat.
+text_bottom: Our database has 43 Instagram influencers like this in Rio de Janeiro, Brazil for you to pitch.
 profiles:
   - username: "laysaaoliveiraa"
     fullname: >-
@@ -43,18 +43,6 @@ profiles:
     id: ck5znmon3or6i0i14ayeswdna
     verified: false
     hashtags: "#bumbumyeah, #bumbumyeahchallenge, #boomboomyeahchallenge, #boomboomye"
-  - username: "marifrnd"
-    fullname: >-
-      Mari Fernandes
-    bio: >-
-      23, rio de janeiro fashion l decor l plants l lifestyle l beauty ✉️ marianafrnd@outlook.com outras redes sociais:
-    location: "Brazil"
-    followers: 295456
-    engagement: 402
-    commentsToLikes: 0.011128
-    id: ck0w1f3kbj0xh0i1905h8p1zx
-    verified: false
-    hashtags: "#vestibularespm, #publi"
   - username: "melissapimentels"
     fullname: >-
       Melissa Pimentel
@@ -67,18 +55,6 @@ profiles:
     id: ckf5rfmjkcikc0j23nklcd5ay
     verified: false
     hashtags: ""
-  - username: "josyramos"
-    fullname: >-
-      Josy Ramos
-    bio: >-
-      FASHION • TRAVEL • BLACKGRL PWR • BEAUTY • Rio de Janeiro - Brasil 👗 #styledajosy 🗺 @ninaejosyporai 💻 contato@josyramos.com.br
-    location: "Brazil"
-    followers: 194024
-    engagement: 472
-    commentsToLikes: 0.031959
-    id: ck0vzlkq59p720i196owg99cb
-    verified: false
-    hashtags: "#publidajosy, #styledajosy, #fashion, #blackgirlmagic"
   - username: "eimatheusmarinho"
     fullname: >-
       Matheus Marinho
@@ -127,4 +103,28 @@ profiles:
     id: ck5cksixvxiya0i1125l0gatx
     verified: false
     hashtags: "#sqn, #canaldamariasophia"
+  - username: "brunapintolopesmoraes"
+    fullname: >-
+      Bruna Pinto Lopes V. De Moraes
+    bio: >-
+      📍Maceió- Al/ Maragogi -Al/ Rio de Janeiro- Rj ♡ Fashion lover, life and travel 🇨🇱🇺🇸🇵🇹 Pra não guardar só na memória 📸
+    location: "Brazil"
+    followers: 7774
+    engagement: 1241
+    commentsToLikes: 0.062926
+    id: ckaoxrlw9eff30i789q992fov
+    verified: false
+    hashtags: "#ecopark, #bruer"
+  - username: "donnapinkblog"
+    fullname: >-
+      Crespa 4bc| 𝗘𝗹𝗮𝗶𝗻𝗲  💐
+    bio: >-
+      •MAKE •HAIR •FASHION 🌸Assista os Storys 📍Rio de Janeiro 🌴☀️ 📦Parcerias via direct 🌺 Página no Facebook 👍🏾
+    location: "Brazil"
+    followers: 7075
+    engagement: 433
+    commentsToLikes: 0.148253
+    id: ckaoyi0z1hm6p0i78faeh6xdq
+    verified: false
+    hashtags: "#crespo4, #pretas, #tavarizei, #dayafter"
 ---

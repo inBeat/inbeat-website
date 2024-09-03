@@ -1,12 +1,60 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In Toronto In 2023
+title: Top 10 Nutrition Instagram Influencers In Toronto In 2024
 description: >-
-  Find top nutrition Instagram influencers in Toronto in 2023. Most popular hashtags: #toronto #fitness #personaltrainer #motivation.
+  Find top nutrition Instagram influencers in Toronto in 2024. Most popular hashtags: #toronto #healthylifestyle #fitness #foodie.
 platform: Instagram
-hits: 7
-text_top: Identify the top-rated Instagram accounts on inBeat.
-text_bottom: Our search engine aggregates 7 Instagram influencers like this in Toronto, Canada for you to work with.
+hits: 17
+text_top: Identify the best Instagram profiles on inBeat.
+text_bottom: Our database aggregates 17 Instagram influencers like this in Toronto, Canada for you to contact.
 profiles:
+  - username: "leanneliveshealthy"
+    fullname: >-
+      Leanne
+    bio: >-
+      🍓 simple recipes, lifestyle & healthy habits 📍 Toronto 💌 leanneliveshealthy@gmail.com 👧🏻 personal: @leanne.ws
+    location: "Canada"
+    followers: 105646
+    engagement: 83
+    commentsToLikes: 0.059959
+    id: ck0w3geltt9pj0i198k3ms700
+    verified: false
+    hashtags: "#healthyhabits, #torontowellnessblogger, #whatsonmyplate, #southbeachmiami"
+  - username: "thepurrpawsbros"
+    fullname: >-
+      The Purr Paws Bros
+    bio: >-
+      😻food tips/health nutrition/raw! Coming 🔜 🥩📋🍽️ ⬜️ Leo 🔲 Milo 🟧 Pablo Join our channels! Ambass: @kittytime99 📣 @meowfestival @catfluence @blogto
+    location: "Canada"
+    followers: 12841
+    engagement: 632
+    commentsToLikes: 0.078675
+    id: cln7vfw8ktbim0j0825xsi2su
+    verified: false
+    hashtags: "#catphoto, #catlovers, #kittensofinstagram, #instagatos"
+  - username: "working_chix"
+    fullname: >-
+      Anna Przezak • Fashion Beauty Lifestyle Blogger
+    bio: >-
+      CPA, CA Polish girl from Montreal, living in📍Toronto 📩 workingchix@gmail.com
+    location: "Canada"
+    followers: 30666
+    engagement: 86
+    commentsToLikes: 0.072082
+    id: ck9wh6amgwge60j782z3gl8jx
+    verified: false
+    hashtags: "#foodie, #torontoblogger, #parisianstyle, #homedecor"
+  - username: "evarende"
+    fullname: >-
+      Eva Rende
+    bio: >-
+      🥑 healthy recipes + workouts UofT B.A. & Sc. Graduate Holistic Health & Nutrition Coach Cert. PTS & Yoga ✉️: evarende2000@gmail.com My guides👇🏼
+    location: "Canada"
+    followers: 30841
+    engagement: 10
+    commentsToLikes: 0.000000
+    id: ck6u9tvwozmox0j71k4vjrkaq
+    verified: false
+    hashtags: "#healthyeating, #healthylifestyle, #guthealth, #healthcoach"
   - username: "tovfitness"
     fullname: >-
       TOVA | fitness & positivity
@@ -18,19 +66,7 @@ profiles:
     commentsToLikes: 0.212369
     id: ck6uil7k3fo5u0j71onk2dgkx
     verified: false
-    hashtags: "#fitness, #gymgains, #gymjokes, #stronggirls"
-  - username: "working_chix"
-    fullname: >-
-      Anna Przezak
-    bio: >-
-      Fashion, Beauty, Lifestyle, Personal Finance CPA, CA / Manager from 9 to 5 / Polish girl from Montreal, living in👇🏻 📍Toronto 📩 workingchix@gmail.com
-    location: "Canada"
-    followers: 33270
-    engagement: 127
-    commentsToLikes: 0.041714
-    id: ck9wh6amgwge60j782z3gl8jx
-    verified: false
-    hashtags: "#toronto, #homedecor, #torontoblogger, #luxyhair"
+    hashtags: "#alphalete, #gymgains, #fitnessinstagram, #alphaleteathletics"
   - username: "mandyfroudefitness"
     fullname: >-
       Mandy Froude
@@ -42,7 +78,7 @@ profiles:
     commentsToLikes: 0.033808
     id: ckaordok3mr1c0i78ychdbuuv
     verified: false
-    hashtags: "#yyz, #believe, #fitlife, #rest"
+    hashtags: "#development, #endymattress, #goals, #rest"
   - username: "ivan_koach"
     fullname: >-
       Personal Trainer
@@ -67,64 +103,28 @@ profiles:
     id: ck9wdvhpihg7p0j78addb555t
     verified: false
     hashtags: "#foodphotography, #dailyhiveto, #torontopatio, #mashedfoodfeatures"
-  - username: "vancouversveryown"
+  - username: "nourishedbynic"
     fullname: >-
-      Brandon Nair | DJ Nizzy 🇫🇯🌺
+      Nicole Addison, RD, MHSc
     bio: >-
-      🏋🏽‍♀️Athlete @aviiti.inc “NAIR10” 🏋🏽‍♀️Athlete @popeyessupplements 👕Ambassador @_lyftlyfe “NAIR10” ⚽️Team BC Athlete 💪🏽Personal Trainer 🎧DJ
+      🥑 Uncomplicating healthy eating 🍎Follow for easy recipes & nutrition tips 📸 Brand inquiries: nourishedbynic@gmail.com FIND MY RECIPES ⬇️
     location: "Canada"
-    followers: 7165
-    engagement: 736
-    commentsToLikes: 0.068972
-    id: ck13b1trvt9wo0i19cb8j91bu
+    followers: 416229
+    engagement: 52
+    commentsToLikes: 0.030651
+    id: ckaowhizq8yuq0i782o612ddl
     verified: false
-    hashtags: "#exercise, #fitnessmotivation, #getfit, #health"
-  - username: "wakeupandsmelltherosay"
+    hashtags: "#glutenfree, #mealprep, #foodphotography, #healthydinner"
+  - username: "andytherd"
     fullname: >-
-      Natalie Rose A🌹MPsy, RP
+      Andy De Santis RD MPH
     bio: >-
-      psychotherapist & wellness coach diet recovery • self-care • mind-body health 👇🏼body image & ED recovery resources👇🏼
+      📚 11x Book Author + Blogger 👨🏼‍🔬 All Aspects Of Metabolic Nutrition 🗡️ I Help Fight Back vs Fatty Liver 💻 Join My Fatty Liver Course + Community ⬇️
     location: "Canada"
-    followers: 81216
-    engagement: 211
-    commentsToLikes: 0.035175
-    id: ck0vv0bkwmyid0i19657gixxc
+    followers: 50480
+    engagement: 36
+    commentsToLikes: 0.100756
+    id: ckaoqupigkhn00i78sloltswu
     verified: false
-    hashtags: "#wakeupgoals, #intuitiveeatingjourney, #foodfreedomforever, #selfcare"
-  - username: "aabrunelle"
-    fullname: >-
-      Audrey-Ann — R/O/C Crew
-    bio: >-
-      Probably gone cooking, running or riding my bike. Honours BSc in Nutrition Sciences. Here is a safe place, feel welcomed. ♥️
-    location: "Canada"
-    followers: 15140
-    engagement: 199
-    commentsToLikes: 0.023493
-    id: ckrxec7enpi7u0j23cf4sx8a0
-    verified: false
-    hashtags: "#onroc, #roccrew, #onrunning, #trailrunning"
-  - username: "tovfitness"
-    fullname: >-
-      TOVA | fitness & positivity
-    bio: >-
-      owner of @rebornclub.co 🇨🇦toronto | 23 ✨@myproteinus - ‘TOVAMYP’ for 45% off 🦋CPT, sports nutrition & BAASc psych ↓ MORE LINKS ↓
-    location: "Canada"
-    followers: 11218
-    engagement: 411
-    commentsToLikes: 0.212369
-    id: ck6uil7k3fo5u0j71onk2dgkx
-    verified: false
-    hashtags: "#fitness, #gymgains, #gymjokes, #stronggirls"
-  - username: "spiritual.beefcake"
-    fullname: >-
-      Coach Derek
-    bio: >-
-      NO BAD DAYS 💫 💻 Online Coach Lifestyle Training & Nutrition Physically & Mentally Transforming Clients
-    location: "Canada"
-    followers: 32755
-    engagement: 119
-    commentsToLikes: 0.077501
-    id: ck5ck0nahvvse0i11tr8m3du5
-    verified: false
-    hashtags: "#2020, #classicphysique, #nobaddays, #fuckcovid19"
+    hashtags: "#fattyliver, #insulinresistance, #metabolichealth, #fattyliverdiet"
 ---

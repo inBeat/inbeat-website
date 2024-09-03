@@ -1,11 +1,11 @@
 ---
-title: Top 10 Lifestyle TikTok Influencers In Indonesia In 2023
+title: Top 10 Lifestyle TikTok Influencers In Indonesia In 2024
 description: >-
-  Find top lifestyle TikTok influencers in Indonesia in 2023. Most popular hashtags: #fyp #foryou #foryoupage #skincare.
+  Find top lifestyle TikTok influencers in Indonesia in 2024. Most popular hashtags: #fyp #foryou #skincare #foryoupage.
 platform: TikTok
 hits: 11
-text_top: Discover the best TikTok accounts on inBeat.
-text_bottom: Our database holds 11 TikTok influencers like this in Indonesia for you to connect with.
+text_top: See the best TikTok influencers on inBeat.
+text_bottom: Our search engine holds 11 TikTok influencers like this in Indonesia for you to pitch.
 profiles:
   - username: "tyaskiws"
     fullname: >-
@@ -126,5 +126,5 @@ profiles:
     commentsToLikes: 0.019778
     id: ckcdpiqojbs2b0j23pap6jb9s
     verified: false
-    hashtags: "#indonesia, #fyp, #travel, #bali"
+    hashtags: "#fyp, #travel, #bali, #indonesia"
 ---

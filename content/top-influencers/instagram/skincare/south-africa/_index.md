@@ -1,24 +1,72 @@
 ---
-title: Top 10 Skincare Instagram Influencers In South Africa In 2023
+title: Top 10 Skincare Instagram Influencers In South Africa In 2024
 description: >-
-  Find top skincare Instagram influencers in South Africa in 2023. Most popular hashtags: #skincare #skincareroutine #kbeauty.
+  Find top skincare Instagram influencers in South Africa in 2024. Most popular hashtags: #skincare #makeup #skincareroutine.
 platform: Instagram
-hits: 44
-text_top: Discover the best Instagram profiles on inBeat.
-text_bottom: inBeat holds 44 Instagram influencers like this in South Africa for you to collaborate.
+hits: 61
+text_top: Discover the most popular Instagram accounts on inBeat.
+text_bottom: Our search engine aggregates 61 Instagram influencers like this in South Africa for you to collaborate.
 profiles:
   - username: "diariesofanislandergirl"
     fullname: >-
-      ZAINAH | LIFESTYLE BLOGGER
+      𝘇 𝗮 𝗶 𝗻 𝗮 𝗵  ✨
     bio: >-
-      📍 Mauritian 🇲🇺 ♡ owner @_mocouture_ ♡ bookworm @diariesofabooknerd ♡ beauty - skincare - food - fashion ♡ Join my group ‘Lady Loves’ on Facebook!👇
+      ✧ food • skincare • makeup • lifestyle 🇲🇺 ✧ shop @_mocouture_ ✧ book acc @diariesofabooknerd ✧ other links ⤵
     location: "South Africa"
-    followers: 10575
-    engagement: 612
-    commentsToLikes: 0.018917
+    followers: 12565
+    engagement: 439
+    commentsToLikes: 0.016002
     id: ck5hqose9tghk0i11u4gxah0n
     verified: false
-    hashtags: "#mauritianblogger, #maurice, #mauritius, #lifestyleblogger"
+    hashtags: "#realmagic, #cokefoodfestival, #larocheposay, #diariesofanislandergirl"
+  - username: "khayrepublik"
+    fullname: >-
+      KHAY REPUBLIK
+    bio: >-
+      MAKEUP | SKINCARE | SELF CARE | FRAGRANCE 👑| Proverbs 23:26 🇿🇦| Johannesburg ✉️| info.khayrepublik@gmail.com ⬇️| Watch my YouTube channel
+    location: "South Africa"
+    followers: 101479
+    engagement: 328
+    commentsToLikes: 0.036121
+    id: ck1363inc4l230i19rw5nygtk
+    verified: false
+    hashtags: "#maybellinesa, #lashgamechanger, #candiandcosalon, #beautywithconvience"
+  - username: "pamzokuhle"
+    fullname: >-
+      P A M S O L E
+    bio: >-
+      📋FASHION | SKINCARE | LIFESTYLE 🪧BETWEEN JHB/DBN 📖Deuteronomy 31:8 ✉️pamzokuhle@gmail.com
+    location: "South Africa"
+    followers: 103908
+    engagement: 268
+    commentsToLikes: 0.013520
+    id: ck5py4kx0uaab0i110q93o8ca
+    verified: false
+    hashtags: "#saferridessafercities, #ad, #bornfromtheblue, #dove100colours"
+  - username: "preciousxabamakeup"
+    fullname: >-
+      SA makeup artist🇿🇦
+    bio: >-
+      Makeup artist,Skincare therapist &accredited Makeup Educator📚 Makeup bookings 📩xaba.precious@yahoo.com/ 0769816148 Campaign bookings 📩Percy@uvba.co.za
+    location: "South Africa"
+    followers: 43882
+    engagement: 253
+    commentsToLikes: 0.125177
+    id: ck5hkod83isj10i11i7nk6c8f
+    verified: false
+    hashtags: "#makeupartist, #makeupeducator, #makeup, #bridalmakeup"
+  - username: "carina_angel_frade"
+    fullname: >-
+      Carina Angel
+    bio: >-
+      Beauty☆ Skincare ☆ Lifestyle ☆ Fashion🇵🇹🇿🇦 Pro Makeup Artist📍🇿🇦 JHB FOUNDER @fleeking.beauty💜💜 SHOP #newhydramaticlipstick ⬇️
+    location: "South Africa"
+    followers: 11365
+    engagement: 144
+    commentsToLikes: 0.129312
+    id: ckqg6fpz0o1mn0j23fkv42bbe
+    verified: false
+    hashtags: "#makeupartist, #sneakergirls, #southafricancontentcreator, #southafricanblogger"
   - username: "bryni"
     fullname: >-
       bryni
@@ -66,19 +114,7 @@ profiles:
     commentsToLikes: 0.237839
     id: ck5zp0m18rr6k0i141ma6xoev
     verified: false
-    hashtags: "#sundayroutine, #augustinusbader, #beautyroutine, #pmskincareroutine"
-  - username: "ayanda_zebe"
-    fullname: >-
-      Ayanda Vesi Zebe
-    bio: >-
-      BEAUTY INFLUENCER 📍Las Vegas,NV 📲entrepreneur -Luxury hair and skincare 🔌 -Youtube ContentCreator -South African 💌ayandazebe@gmail.com
-    location: "South Africa"
-    followers: 10848
-    engagement: 1415
-    commentsToLikes: 0.017133
-    id: ck0u8yfbl8kj30i19tu7yigih
-    verified: false
-    hashtags: ""
+    hashtags: "#funfriday, #exfoliation, #winterskincare, #easymakeup"
   - username: "lerato_lefafa"
     fullname: >-
       TRAVEL & WELLNESS
@@ -91,40 +127,4 @@ profiles:
     id: ck55k3bbkycz80i11339j6mt2
     verified: false
     hashtags: "#selfcaresunday, #arcstore, #arcstoresandton, #myanasaskin"
-  - username: "thelastmaharaja"
-    fullname: >-
-      Jiveshen Moodley
-    bio: >-
-      Noor Fawaar ✨🫧 Son of Venus ♎️ Beauty Junkie 🙆🏽‍♂️ Joburg | London 🇿🇦🇬🇧 Innit
-    location: "South Africa"
-    followers: 10198
-    engagement: 587
-    commentsToLikes: 0.048089
-    id: ckap3qdwx43sz0i78nxp0ygj3
-    verified: false
-    hashtags: "#favoboys, #pride, #gay, #pov"
-  - username: "zama__zeezii"
-    fullname: >-
-      Zama K. M.
-    bio: >-
-      🇿🇦 SA-Xhosa. 🌴Senior Academic Editor📚TUKS Alumni🎓 🌴Linguist🖊📖🌴ProBlack🌴Naturalista 🌴Sapiosexual🌴Interior Decor & Architecture Enthusiast 🌴NO FACEBOOK
-    location: "South Africa"
-    followers: 97001
-    engagement: 187
-    commentsToLikes: 0.014015
-    id: ck9wfewspoknl0j785ik7v5xi
-    verified: false
-    hashtags: "#igers, #fashion, #fitness, #nature"
-  - username: "carolinebrussow"
-    fullname: >-
-      Caroline-Grace
-    bio: >-
-      Debut album / “Eindelose Liefde”📀 Signed @universalmusiek Bookings:leozelle.bekker@umusic.com
-    location: "South Africa"
-    followers: 41982
-    engagement: 450
-    commentsToLikes: 0.015967
-    id: ck6tu7xyjetci0j71bzqux45l
-    verified: false
-    hashtags: "#pregnant, #blessed, #babybounce, #greycollegemusicfestival"
 ---

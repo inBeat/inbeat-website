@@ -1,11 +1,11 @@
 ---
-title: Top 10 Rappers TikTok Influencers In Toronto In 2023
+title: Top 10 Rappers TikTok Influencers In Toronto In 2024
 description: >-
-  Find top rappers TikTok influencers in Toronto in 2023. Most popular hashtags: #fyp #toronto #foryou #duet.
+  Find top rappers TikTok influencers in Toronto in 2024. Most popular hashtags: #fyp #toronto #duet #foryou.
 platform: TikTok
-hits: 14
-text_top: Discover the best TikTok influencers on inBeat.
-text_bottom: Our platform holds 14 TikTok influencers like this in Toronto, Canada for you to collaborate.
+hits: 13
+text_top: Discover the most popular TikTok influencers on inBeat.
+text_bottom: Our database has 13 TikTok influencers like this in Toronto, Canada for you to pitch.
 profiles:
   - username: "christian.cal"
     fullname: >-
@@ -19,6 +19,18 @@ profiles:
     id: ck92uxqh6o1s60j78birfbj2b
     verified: false
     hashtags: "#basketball, #transitions, #filipino, #greenscreen"
+  - username: "hypebio"
+    fullname: >-
+      Hypebio
+    bio: >-
+      Follow our Instagram ☝🏼 CEO of Hype Email: hypebio@hotmail.com
+    location: "Canada"
+    followers: 57500
+    engagement: 1136
+    commentsToLikes: 0.027503
+    id: ck8072w2fo98e0j78wh5rwvg7
+    verified: false
+    hashtags: "#bieberfever, #bieber, #viral, #hiphop"
   - username: "muffy_aida"
     fullname: >-
       Girl,inApinkSweater
@@ -35,14 +47,14 @@ profiles:
     fullname: >-
       Joseph Fuoco
     bio: >-
-      🇨🇦/🇮🇹 17 Toronto
+      🇨🇦/🇮🇹 18 Toronto
     location: "Canada"
-    followers: 37900
-    engagement: 1531
-    commentsToLikes: 0.070602
+    followers: 37800
+    engagement: 1523
+    commentsToLikes: 0.068163
     id: cka0omybb4ne70i78b3m8h10g
     verified: false
-    hashtags: "#hiphop, #flightreacts, #rap, #artist"
+    hashtags: "#topsongs, #rappers, #travisscott, #rapper"
   - username: "ogr_scintilla"
     fullname: >-
       OGR-Scintilla
@@ -79,18 +91,6 @@ profiles:
     id: ckc37m6suwho70j23z27biaxy
     verified: false
     hashtags: "#foryou, #itbelikethat, #canada, #ontario"
-  - username: "dylanhennessy"
-    fullname: >-
-      Dylan Hennessy
-    bio: >-
-      Rocker, skater, guitarist. Email for online lessons! dylanhennessymusic@gmailcom
-    location: "Canada"
-    followers: 2989
-    engagement: 902
-    commentsToLikes: 0.059707
-    id: ck900x3u7avii0j78el1l10wv
-    verified: false
-    hashtags: "#cover, #foryourpage, #vibe, #lol"
   - username: "thatlebtala"
     fullname: >-
       Tala
@@ -115,16 +115,16 @@ profiles:
     id: cka8fno7o32fn0i78grk6si02
     verified: false
     hashtags: "#splashfreestylechallenge, #splashchallenge, #freestyle, #fyp"
-  - username: "hypebio"
+  - username: "entyse"
     fullname: >-
-      Hypebio
+      Mama Hamo
     bio: >-
-      Follow our Instagram ☝🏼 CEO of Hype Email: hypebio@hotmail.com
+      More on Instagram ⤴️ Mama Hamo ‘QAHWA’ Candle Bold & Brewtiful DM us on IG.
     location: "Canada"
-    followers: 57500
-    engagement: 1136
-    commentsToLikes: 0.027503
-    id: ck8072w2fo98e0j78wh5rwvg7
+    followers: 235600
+    engagement: 939
+    commentsToLikes: 0.117729
+    id: ckaifngb2xnpw0i78d2kdgmuh
     verified: false
-    hashtags: "#lilbaby, #foryoupage, #rap, #foryou"
+    hashtags: "#cookiesandwich, #reaction, #gift, #fyp"
 ---

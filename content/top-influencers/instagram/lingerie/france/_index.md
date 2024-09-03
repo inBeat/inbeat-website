@@ -1,11 +1,11 @@
 ---
-title: Top 10 Lingerie Instagram Influencers In France In 2023
+title: Top 10 Lingerie Instagram Influencers In France In 2024
 description: >-
-  Find top lingerie Instagram influencers in France in 2023. Most popular hashtags: #lingerie #frenchstyle #photography.
+  Find top lingerie Instagram influencers in France in 2024. Most popular hashtags: #blackandwhite #naturallight #glamour.
 platform: Instagram
-hits: 294
-text_top: See the most popular Instagram accounts on inBeat.
-text_bottom: Our search engine has 294 Instagram influencers like this in France for you to contact.
+hits: 316
+text_top: Identify the top-rated Instagram accounts on inBeat.
+text_bottom: Our database aggregates 316 Instagram influencers like this in France for you to collaborate.
 profiles:
   - username: "camillecerf"
     fullname: >-
@@ -13,12 +13,60 @@ profiles:
     bio: >-
       Mangeuse de Maroilles 𝕄𝕚𝕤𝕤 𝔽𝕣𝕒𝕟𝕔𝕖 2015 Créatrice de lingerie @pommpoire
     location: "France"
-    followers: 1028702
-    engagement: 244
-    commentsToLikes: 0.046510
+    followers: 1143413
+    engagement: 522
+    commentsToLikes: 0.091702
     id: ck15poyofyxrf0i19i0r0uo81
     verified: true
-    hashtags: "#eauderochas, #rochasperfumes, #perfume, #apmmonaco40"
+    hashtags: "#grossesse, #dermatologievegetale, #exomega, #premierspas"
+  - username: "charlottejaubert"
+    fullname: >-
+      Charlotte Jaubert
+    bio: >-
+      « Ton corps, ton pouvoir » Coffrets et patrons lingerie/maillot de bain à coudre 🪡 Styliste / modéliste lingerie et maillot de bain
+    location: "France"
+    followers: 24410
+    engagement: 303
+    commentsToLikes: 0.080080
+    id: ckf5qwni5anxk0j2331ovnm9l
+    verified: false
+    hashtags: "#tissuaddict, #couturelingerie, #patronjupe, #jecoudsaveccharlottejaubert"
+  - username: "isabelle_sweetginger"
+    fullname: >-
+      Isabelle Sweetginger 🦊
+    bio: >-
+      Femme intemporelle • 49 • 🇨🇵 She/her 𝐵𝑒𝑎𝑢𝑡𝑦 ℎ𝑎𝑠 𝑛𝑜 𝑎𝑔𝑒 #modele 💝 Passion lingerie 🤵‍♂️💕Éric_SGPhotos ©️ DM collab Links 🔽
+    location: "France"
+    followers: 95885
+    engagement: 196
+    commentsToLikes: 0.057181
+    id: ck6u11e7jizeo0j71cwkedhbe
+    verified: false
+    hashtags: "#modernpinup, #bnw, #nylon, #vintagestyle"
+  - username: "statiana.model"
+    fullname: >-
+      Tatiana Sassoye
+    bio: >-
+      🇧🇪 Belgian Model 📸 Portrait / Beauty / Lingerie / Lifestyle 📩 statiana.model@gmail.com
+    location: "France"
+    followers: 42512
+    engagement: 110
+    commentsToLikes: 0.005700
+    id: ck8sxaggdgot90j78p5x5ww8u
+    verified: false
+    hashtags: "#photography, #mondaymood, #sundaynight, #sun"
+  - username: "eres"
+    fullname: >-
+      ERES Paris official
+    bio: >-
+      Discover the French savoir-faire of ERES through its Swimwear, Lingerie and Activewear collections. Since 1968.
+    location: "France"
+    followers: 209427
+    engagement: 27
+    commentsToLikes: 0.005745
+    id: ck0tv86u0aa3l0i1906t15vnq
+    verified: true
+    hashtags: "#eressummer21, #eresswimwear, #eresinspiration"
   - username: "tieranicolespeaks"
     fullname: >-
       Tiera Nicole
@@ -30,7 +78,7 @@ profiles:
     commentsToLikes: 0.034757
     id: ck0u0c1znt8zl0i19glbxafzy
     verified: false
-    hashtags: "#tieranicolespeaks, #theloveonher, #lingerieshop, #blackown"
+    hashtags: "#lingerieshop, #theloveonher, #tieranicolespeaks, #reelsexplore"
   - username: "mbee_model"
     fullname: >-
       Model - Based in Belgium 🐝🐝
@@ -43,18 +91,6 @@ profiles:
     id: ck6u6mnpzghsi0j71fs451a2g
     verified: false
     hashtags: ""
-  - username: "sarairollins"
-    fullname: >-
-      💕🦋 Sarai Rollins 🦋💕
-    bio: >-
-      Sarai Rollins ᴸᴵᴺᴳᴱᴿᴵᴱ •ᴾᴬᴵᴺᵀ •ᵀᴿᴬᵛᴱᴸ • ᴴᴱᴬᴸᵀᴴ ⬇️ CLICK 2 CHAT , REQUEST CUSTOM CONTENT & PLAY ⬇️
-    location: "France"
-    followers: 792826
-    engagement: 188
-    commentsToLikes: 0.020045
-    id: ck0vy66mw2eyq0i195zm3ouml
-    verified: false
-    hashtags: "#saggitarius, #sagittariusseason, #humpday, #monday"
   - username: "maritzaslan"
     fullname: >-
       Itsme_ninasky
@@ -67,30 +103,18 @@ profiles:
     id: ck5bxeg61nkez0i116o0z1ns6
     verified: false
     hashtags: "#iphone12promax, #bikini, #influencer, #congolese"
-  - username: "charlottejaubert"
-    fullname: >-
-      Charlotte Jaubert
-    bio: >-
-      Fondatrice C. Professeur couture lingerie et MB @artesane_paris Auteure @mangoeditions
-    location: "France"
-    followers: 11136
-    engagement: 683
-    commentsToLikes: 0.067023
-    id: ckf5qwni5anxk0j2331ovnm9l
-    verified: false
-    hashtags: "#passion, #amnesia, #sun, #patroncouture"
   - username: "misslegs.fr"
     fullname: >-
       MissLegs 👠
     bio: >-
-      💗#Nylon #stockings #legs #Sensuality #Lingerie #👠 💗 Blogger, #frenchgirl 🇫🇷 All 📷 are mine© Repost =Tag @ © - Respect 📝 for fans page My blog :
+      💗#Nylon #stockings #legs #Sensuality #Lingerie #👠 💗 Blogger, #frenchgirl 🇫🇷 All 📷 are mine© = Repost withTag @ © - Respect My blog with more photos :
     location: "France"
-    followers: 61362
-    engagement: 303
-    commentsToLikes: 0.034042
+    followers: 63042
+    engagement: 217
+    commentsToLikes: 0.043868
     id: ck55opn4a8uxc0i115m6ame0x
     verified: false
-    hashtags: "#woman, #stilettos, #heels, #french"
+    hashtags: "#blackandwhite, #sweet, #outfit, #boudoirphotography"
   - username: "leelou_multitask"
     fullname: >-
       𝙻𝚎𝚎𝚕𝚘𝚞
@@ -103,28 +127,4 @@ profiles:
     id: ck9wg1bdmrgcc0j786fmf7dry
     verified: false
     hashtags: "#selfportrait, #blackandwhite, #friends"
-  - username: "unika.store_"
-    fullname: >-
-      UNIKA 💞 STORE 💞
-    bio: >-
-      للطلب المرجو التواصل على الخاص ✈ Livraison partout au Maroc 💳 Paiment a la livraison @unika.store.lingerie
-    location: "France"
-    followers: 1923360
-    engagement: 38
-    commentsToLikes: 0.040691
-    id: ck8t1divgvcv30j78rqwfp9et
-    verified: false
-    hashtags: "#sexymoroccan, #fashionmaroc, #photography, #maroco"
-  - username: "feminite_decomplexee"
-    fullname: >-
-      Marina
-    bio: >-
-      Féminité décomplexée🦸🏼‍♀️ ©Mesbasetmoi #curvymodels 📸 #bodypositivemovement #lifestyle #nylon #talons #mode #epicurienne 🇫🇷Alsace🥨 Collab DM Blog⬇️
-    location: "France"
-    followers: 37743
-    engagement: 297
-    commentsToLikes: 0.074418
-    id: ck55oplm58uuu0i112w8454bn
-    verified: false
-    hashtags: "#boudoir, #acceptationdesoi, #acceptersoncorps, #parfaitementimparfaite"
 ---

@@ -1,12 +1,24 @@
 ---
-title: Top 10 Illustrators Instagram Influencers In Colombia In 2023
+title: Top 10 Illustrators Instagram Influencers In Colombia In 2024
 description: >-
-  Find top illustrators Instagram influencers in Colombia in 2023. Most popular hashtags: #illustration #illustrationartists #ilustracion #digitalillustration.
+  Find top illustrators Instagram influencers in Colombia in 2024. Most popular hashtags: #illustration #digitalillustration #illustrationartists #ilustracion.
 platform: Instagram
-hits: 23
-text_top: Analyze the best Instagram influencers on inBeat.
-text_bottom: Our platform holds 23 Instagram influencers like this in Colombia for you to pitch.
+hits: 24
+text_top: Identify the best Instagram profiles on inBeat.
+text_bottom: Our search engine holds 24 Instagram influencers like this in Colombia for you to pitch.
 profiles:
+  - username: "luisaeloisa_"
+    fullname: >-
+      Luisa Castellanos Ramírez
+    bio: >-
+      Creative director @eloisastudio 🏹💘 Fashion and textile illustrator 🔭 amateur photographer and comedian 📷🤹‍♀️
+    location: "Colombia"
+    followers: 30134
+    engagement: 391
+    commentsToLikes: 0.020521
+    id: ck5q43j9anlkq0i11ewe45obm
+    verified: false
+    hashtags: "#fashionillustration, #illustrateddoris, #fashion, #fashiondrawing"
   - username: "dd.rm"
     fullname: >-
       Derly Daniela
@@ -78,7 +90,7 @@ profiles:
     commentsToLikes: 0.011037
     id: ck135n6cj28u20i1981gy3lmg
     verified: false
-    hashtags: "#illustrationoftheday, #illustration, #digitalart, #nftdrop"
+    hashtags: "#ilustracion, #nftcollector, #art, #digitalart"
   - username: "melissa.castrillon"
     fullname: >-
       𝘔𝘦𝘭𝘪𝘴𝘴𝘢 𝘊𝘢𝘴𝘵𝘳𝘪𝘭𝘭𝘰𝘯
@@ -103,18 +115,6 @@ profiles:
     id: ck6tzahck8k9u0j716489oj73
     verified: false
     hashtags: "#drawing, #visdev, #digitalillustration, #visualdevelopment"
-  - username: "nubikini"
-    fullname: >-
-      Nubia Navarro
-    bio: >-
-      ✍🏻Type-focused designer & illustrator 💓This is my projects journal ✨Venezuelan living in Bogotá Clients: Adobe, Airbnb, Facebook, Wacom.
-    location: "Colombia"
-    followers: 50811
-    engagement: 324
-    commentsToLikes: 0.036377
-    id: ck6u1b817kpa20j71hjpjzvh3
-    verified: false
-    hashtags: "#dreamhouseplants, #juansincollab"
   - username: "vane.kone"
     fullname: >-
       VANEKONE Ilustración 🦄

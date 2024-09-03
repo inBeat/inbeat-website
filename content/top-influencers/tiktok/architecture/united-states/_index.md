@@ -1,11 +1,11 @@
 ---
-title: Top 10 Architecture TikTok Influencers In United States In 2023
+title: Top 10 Architecture TikTok Influencers In United States In 2024
 description: >-
-  Find top architecture TikTok influencers in United States in 2023. Most popular hashtags: #architecture #fyp #foryoupage #design.
+  Find top architecture TikTok influencers in United States in 2024. Most popular hashtags: #architecture #fyp #foryoupage #design.
 platform: TikTok
 hits: 88
-text_top: Analyze the best TikTok accounts on inBeat.
-text_bottom: Our database has 88 TikTok influencers like this in United States for you to collaborate.
+text_top: See the best TikTok influencers on inBeat.
+text_bottom: Our database holds 88 TikTok influencers like this in United States for you to contact.
 profiles:
   - username: "debbie.perez"
     fullname: >-
@@ -90,7 +90,7 @@ profiles:
     commentsToLikes: 0.021967
     id: ck80oo2ohiocw0j78mtngppaf
     verified: true
-    hashtags: "#realestate, #house, #architecture, #modern"
+    hashtags: "#pool, #realestate, #mansion, #house"
   - username: "coolsandwichgirl"
     fullname: >-
       Olivia 
@@ -102,7 +102,7 @@ profiles:
     commentsToLikes: 0.008117
     id: ck8sahxtq28ua0j7857i8mifm
     verified: false
-    hashtags: "#art, #architecture, #dayinmylife, #fyp"
+    hashtags: "#foryoupage, #dayinmylife, #architecture, #pourtoi"
   - username: "meandmypeabrain"
     fullname: >-
       Me&my.peabrain

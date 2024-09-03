@@ -1,11 +1,11 @@
 ---
-title: Top 10 Gaming TikTok Influencers In Sydney In 2023
+title: Top 10 Gaming TikTok Influencers In Sydney In 2024
 description: >-
-  Find top gaming TikTok influencers in Sydney in 2023. Most popular hashtags: #fyp #australia #gaming #sydney.
+  Find top gaming TikTok influencers in Sydney in 2024. Most popular hashtags: #fyp #australia #sydney #gaming.
 platform: TikTok
 hits: 6
-text_top: Analyze the top-rated TikTok influencers on inBeat.
-text_bottom: Our platform aggregates 6 TikTok influencers like this in Sydney, Australia for you to collaborate.
+text_top: Identify the most popular TikTok accounts on inBeat.
+text_bottom: Our search engine has 6 TikTok influencers like this in Sydney, Australia for you to work with.
 profiles:
   - username: "jasmine_walia_"
     fullname: >-
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.017700
     id: cka0p1gbn692d0i7868891c0n
     verified: false
-    hashtags: "#funny, #trending, #fyp, #love"
+    hashtags: "#trending, #love, #viral, #fyp"
   - username: "kayywuerf"
     fullname: >-
       Kaymie Wuerfel
@@ -78,7 +78,7 @@ profiles:
     commentsToLikes: 0.009699
     id: ck8kd34jh40m80j788bn0elvd
     verified: false
-    hashtags: "#sunrise, #australia, #newborn, #india"
+    hashtags: "#australia, #baby, #tiktoktravel, #foryourpage"
   - username: "nonstopclm"
     fullname: >-
       nonstopclm

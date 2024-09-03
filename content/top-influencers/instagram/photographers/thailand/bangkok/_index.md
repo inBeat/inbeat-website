@@ -1,11 +1,11 @@
 ---
-title: Top 10 Photographers Instagram Influencers In Bangkok In 2023
+title: Top 10 Photographers Instagram Influencers In Bangkok In 2024
 description: >-
-  Find top photographers Instagram influencers in Bangkok in 2023. Most popular hashtags: #thailand #withgalaxy #teamgalaxy.
+  Find top photographers Instagram influencers in Bangkok in 2024. Most popular hashtags: #withgalaxy #teamgalaxy #thailand.
 platform: Instagram
 hits: 20
-text_top: Discover the best Instagram profiles on inBeat.
-text_bottom: Our platform holds 20 Instagram influencers like this in Bangkok, Thailand for you to pitch.
+text_top: See the best Instagram profiles on inBeat.
+text_bottom: Our platform has 20 Instagram influencers like this in Bangkok, Thailand for you to connect with.
 profiles:
   - username: "wackostudio"
     fullname: >-
@@ -121,10 +121,10 @@ profiles:
     bio: >-
       ✨ Official IG : LAZY COUP ✨ Travel Couple l Nuu&Kim 📍 Bangkok Based l Blogger l Photographer E-mail: lazycoup@gmail.com
     location: "Thailand"
-    followers: 7833
-    engagement: 500
-    commentsToLikes: 0.008724
+    followers: 25284
+    engagement: 1084
+    commentsToLikes: 0.019897
     id: ck5c2grrax8cg0i11l3x5tcok
     verified: false
-    hashtags: "#dronephotography, #sonyalphaclub, #travelblogger, #notatourist"
+    hashtags: "#igersthailand, #travelgram, #insta, #igdaily"
 ---

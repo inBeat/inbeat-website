@@ -1,24 +1,24 @@
 ---
-title: Top 10 Cyclists Instagram Influencers In India In 2023
+title: Top 10 Cyclists Instagram Influencers In India In 2024
 description: >-
-  Find top cyclists Instagram influencers in India in 2023. Most popular hashtags: #cycling #cyclist #reelsinstagram #cyclinglife.
+  Find top cyclists Instagram influencers in India in 2024. Most popular hashtags: #cyclist #reelsinstagram #cycling #trending.
 platform: Instagram
-hits: 19
-text_top: See the top-rated Instagram profiles on inBeat.
-text_bottom: Our platform aggregates 19 Instagram influencers like this in India for you to work with.
+hits: 22
+text_top: Identify the most popular Instagram influencers on inBeat.
+text_bottom: inBeat holds 22 Instagram influencers like this in India for you to connect with.
 profiles:
-  - username: "rjhardik_manmauji"
+  - username: "achatterjee4"
     fullname: >-
-      H A R D I K _ V A R S H A 🌻
+      Anindya Chatterjee
     bio: >-
-      बालकलाकार 2 to 5 Lets high five 🖐️ Amdavadi | Singer 🎈 RJ | Entertainer | Host🎙️🎧📻 Foodie | Traveller | cyclist 🚲🧳 For Collaboration or Events DM 📥
+      By profession : Actor | Tedx speaker। amateur cyclist | recovering addict | Cofounder : @tecsainnovation
     location: "India"
-    followers: 31200
-    engagement: 64
-    commentsToLikes: 0.015577
-    id: ck5zktdjgk4ly0i148txuzaxe
-    verified: false
-    hashtags: "#hardik, #postoftheday, #amdavad, #curls"
+    followers: 239142
+    engagement: 85
+    commentsToLikes: 0.004727
+    id: ck8sy62ssju2w0j78vfyt5vz6
+    verified: true
+    hashtags: "#runforanimalrights, #furathon, #petlovers, #petmarathon"
   - username: "skater_deepanshu"
     fullname: >-
       Deepanshu
@@ -33,16 +33,16 @@ profiles:
     hashtags: "#mpcwheels, #viral, #motivationforlife, #instagood"
   - username: "erpetter"
     fullname: >-
-      Erik - Cyclist from Sweden
+      Erik | Cycling content
     bio: >-
-      ▪️Cycling | Cycling clothes | Videos | Coffee stops ▪️DM erpetter.cc@gmail.com
+      ▪️Road, Gravel and Zwift content ▪️Inspiring you to ride your bike ▪️Follow me and let’s share the joy of cycling
     location: "India"
-    followers: 22796
-    engagement: 897
-    commentsToLikes: 0.045750
+    followers: 102096
+    engagement: 177
+    commentsToLikes: 0.035685
     id: ck9hb49qlfcgd0j78ki7leder
     verified: false
-    hashtags: "#lifebehindbars, #maapinthefield, #wymtm, #cyclingstyle"
+    hashtags: "#cyclingapparel, #cyclist, #outsideisfree, #kitfit"
   - username: "sebin_madz"
     fullname: >-
       SEBIN MADZ
@@ -67,6 +67,42 @@ profiles:
     id: ckaoyzhjgjpi90i78zgrn9lr1
     verified: false
     hashtags: "#trek, #everydayindia, #cycling, #mountains"
+  - username: "sinchna"
+    fullname: >-
+      ಸಿಂಚನ  ಸುಭಾಷ್ 💫
+    bio: >-
+      @woookiethecat @gingerboykiki 🫶🏻✨ 💌 Email for collaborations!
+    location: "India"
+    followers: 64825
+    engagement: 903
+    commentsToLikes: 0.020355
+    id: ck13a3w3boi4g0i19p2o4b2h2
+    verified: false
+    hashtags: "#sinchna, #redhair, #beautiful, #love"
+  - username: "achurjya_borpatra"
+    fullname: >-
+      Achurjya Borpatra
+    bio: >-
+      Twitter: @AchurjyaBorpat1 facebook.com/Achurjya.Borpatra
+    location: "India"
+    followers: 326947
+    engagement: 508
+    commentsToLikes: 0.006523
+    id: ckaoxjcfjdiwa0i789y72z6g1
+    verified: false
+    hashtags: "#naturelovers, #trending, #newsong, #nature"
+  - username: "kajal8212"
+    fullname: >-
+      KAJAL TYAGI
+    bio: >-
+      India's Premier Design Influencer in Interiors 🏆Top HomeDecor Blogger in India-Qoruz 2024 Featured in @yahoo @archdigestindia @google 📍Mumbai/ Delhi
+    location: "India"
+    followers: 138455
+    engagement: 35
+    commentsToLikes: 0.221977
+    id: ck134ez3sw4c60i194e49619j
+    verified: false
+    hashtags: "#indianhomedecor, #interiordesign, #interiordesigner, #goodhomesmagazine"
   - username: "beardbicepsbullet"
     fullname: >-
       Jitin Yadav
@@ -91,40 +127,4 @@ profiles:
     id: ck9wimg7i2xwr0j78cja2uard
     verified: false
     hashtags: "#mtb, #smile, #racebilke, #beauty"
-  - username: "akashphotographs"
-    fullname: >-
-      AKASH S KUMAR 📷
-    bio: >-
-      I wander around, take photos, create moments 💟 Check reels for BTS Kerala India 🇮🇳 YouTube 👇👇
-    location: "India"
-    followers: 9918
-    engagement: 831
-    commentsToLikes: 0.133918
-    id: ck8t5s1ivb1ir0j78jhlpirk2
-    verified: false
-    hashtags: "#lightpainting, #sunset, #streetstyle, #trivandrum"
-  - username: "thanujmathew"
-    fullname: >-
-      Thanuj Mathew
-    bio: >-
-      
-    location: "India"
-    followers: 7404
-    engagement: 1949
-    commentsToLikes: 0.037924
-    id: ck5qbifwilrri0i11n0533guq
-    verified: false
-    hashtags: "#artofvisuals, #travelrealindia, #dji, #toyota"
-  - username: "poopiez_pow"
-    fullname: >-
-      P O O P U |™
-    bio: >-
-      
-    location: "India"
-    followers: 89846
-    engagement: 342
-    commentsToLikes: 0.031873
-    id: ck9whsgufzabq0j78b039cqdv
-    verified: false
-    hashtags: "#poopiezpow, #love, #mallu, #instagram"
 ---

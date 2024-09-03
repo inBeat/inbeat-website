@@ -1,11 +1,11 @@
 ---
-title: Top 10 Food TikTok Influencers In Canada In 2023
+title: Top 10 Food TikTok Influencers In Canada In 2024
 description: >-
-  Find top food TikTok influencers in Canada in 2023. Most popular hashtags: #fyp #foryou #foryoupage.
+  Find top food TikTok influencers in Canada in 2024. Most popular hashtags: #fyp #foryou #foryoupage.
 platform: TikTok
-hits: 752
-text_top: Discover the most popular TikTok accounts on inBeat.
-text_bottom: Our database holds 752 TikTok influencers like this in Canada for you to connect with.
+hits: 775
+text_top: Identify the most popular TikTok profiles on inBeat.
+text_bottom: inBeat holds 775 TikTok influencers like this in Canada for you to connect with.
 profiles:
   - username: "tutam12"
     fullname: >-
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.025141
     id: ck8w4ugnc925z0j78gg4vm9mn
     verified: false
-    hashtags: "#xyzbca, #tiktokggt, #lego, #trend"
+    hashtags: "#trend, #xyzbca, #vlog, #lego"
   - username: "salehfamily"
     fullname: >-
       Will & Sana Saleh
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.023644
     id: ck8071rsynyri0j78u0azp7zn
     verified: false
-    hashtags: "#learnontiktok, #muslimcomedy, #learnfromme, #duet"
+    hashtags: "#ramadan, #learnfromme, #hijab, #learnontiktok"
   - username: "joeachakji"
     fullname: >-
       Joe Achakji

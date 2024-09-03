@@ -1,11 +1,11 @@
 ---
-title: Top 10 Photographers TikTok Influencers In 2023
+title: Top 10 Photographers TikTok Influencers In 2024
 description: >-
-  Find top photographers TikTok influencers in 2023. Most popular hashtags: #fyp #foryou #photographer #photomagic.
+  Find top photographers TikTok influencers in 2024. Most popular hashtags: #fyp #photographer #foryou #photography.
 platform: TikTok
-hits: 1856
-text_top: Discover the top-rated TikTok profiles on inBeat.
-text_bottom: Our platform has 1856 TikTok influencers like this for you to work with.
+hits: 1849
+text_top: Discover the most popular TikTok profiles on inBeat.
+text_bottom: Our database holds 1849 TikTok influencers like this for you to pitch.
 profiles:
   - username: "kymagination"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.028019
     id: ck80oei0shax80j78wqgtlhqv
     verified: false
-    hashtags: "#foryou, #ad, #portraitphotography, #portraitphotographer"
+    hashtags: "#foryou, #kymagination, #learnontiktok, #portraitphotographer"
   - username: "rohan_gupta01"
     fullname: >-
       👑💪💪Team gwalior💪
@@ -78,7 +78,7 @@ profiles:
     commentsToLikes: 0.051004
     id: ck8nf5lmgqe8b0j78mk6exy1b
     verified: true
-    hashtags: "#patd, #photo, #photography, #fyp"
+    hashtags: "#photo, #photography, #patd, #fyp"
   - username: "chelseyrayphoto"
     fullname: >-
       chelseyrayphoto
@@ -114,7 +114,7 @@ profiles:
     commentsToLikes: 0.094094
     id: ckbl06jwowrij0j234zcefyfs
     verified: false
-    hashtags: "#photomagic, #photography, #fyp, #myphotography"
+    hashtags: "#newengland, #photomagic, #fyp, #photography"
   - username: "808_tikytokhomie"
     fullname: >-
       808_TikyTokHomie

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Christian Instagram Influencers In Milan In 2023
+title: Top 10 Christian Instagram Influencers In Milan In 2024
 description: >-
-  Find top christian Instagram influencers in Milan in 2023. Most popular hashtags: #picoftheday #italy #milano #italia.
+  Find top christian Instagram influencers in Milan in 2024. Most popular hashtags: #picoftheday #love #milano.
 platform: Instagram
-hits: 21
-text_top: Analyze the most popular Instagram profiles on inBeat.
-text_bottom: Our database aggregates 21 Instagram influencers like this in Milan, Italy for you to pitch.
+hits: 23
+text_top: See the most popular Instagram accounts on inBeat.
+text_bottom: Our search engine holds 23 Instagram influencers like this in Milan, Italy for you to collaborate.
 profiles:
   - username: "gre1son"
     fullname: >-
@@ -19,6 +19,18 @@ profiles:
     id: ck6txek5pxdvy0j71uvo7yj92
     verified: false
     hashtags: "#chiediallafisica, #libro, #cosebelle, #quarantinequeen"
+  - username: "gabrielegalimbertiphoto"
+    fullname: >-
+      Gabriele Galimberti
+    bio: >-
+      National Geographic photographer @natgeo @worldpressphoto winner 2021 - My equipment @canoneurope - My NFTs @superrare
+    location: "Italy"
+    followers: 373219
+    engagement: 172
+    commentsToLikes: 0.011550
+    id: ck0ucadumgbod0i19ffkc9mx0
+    verified: true
+    hashtags: "#toys, #myeib, #greenland, #child"
   - username: "valemarchei14"
     fullname: >-
       valentina marchei
@@ -37,12 +49,12 @@ profiles:
     bio: >-
       Travel / Design / Art / Gourmet Nomad IT / Milano /Puglia / Dolomites E-mail: christian.pizzinini@pizzininiscolari.com
     location: "Italy"
-    followers: 18510
-    engagement: 356
-    commentsToLikes: 0.026044
+    followers: 18879
+    engagement: 305
+    commentsToLikes: 0.019727
     id: ck6totnmqg1sp0j71or8oanzo
     verified: false
-    hashtags: "#igersmilano, #lecce, #art, #buongiorno"
+    hashtags: "#landscape, #landscapephotography, #holiday, #pugliagram"
   - username: "teuzzo"
     fullname: >-
       Matteo Piano
@@ -55,6 +67,30 @@ profiles:
     id: ckf5lrx9sqrwo0j231yq9s1hc
     verified: true
     hashtags: "#iosono, #allianzcloud, #novembre, #saccosystem"
+  - username: "turbojr_"
+    fullname: >-
+      Christian Stefanelli
+    bio: >-
+      #Amici21 🇮🇹 Based in Milan turbojr@influendoproduction.com
+    location: "Italy"
+    followers: 264205
+    engagement: 239
+    commentsToLikes: 0.005998
+    id: clr3iy02lldnw0k089t28vs3h
+    verified: false
+    hashtags: "#lovebijoubrigitte, #sponsorizzato, #bijoubrigitte"
+  - username: "matteo_bagnara"
+    fullname: >-
+      Matteo Bagnara
+    bio: >-
+      Videomaker based in Lugano and Milan 📸. Owner: @konneect @shot.byteo
+    location: "Italy"
+    followers: 24497
+    engagement: 209
+    commentsToLikes: 0.018692
+    id: ck9wg0kynrd1q0j783a4w7lgu
+    verified: false
+    hashtags: "#ferrari, #bhfyp, #photo, #landscape"
   - username: "nico__white_"
     fullname: >-
       NICO WHITE
@@ -91,40 +127,4 @@ profiles:
     id: ckap1p5e0viac0i78m7d71qkx
     verified: false
     hashtags: "#reels, #teatroallascala, #worldwideballet, #viral"
-  - username: "alexcologno"
-    fullname: >-
-      Alex Cologno
-    bio: >-
-      🇮🇹A.C. MILAN🔴⚫️ CURVA SUD MILANO Facebook: https://m.facebook.com/ristoranteimalacarne Instagram: @ristoranteimalacarne
-    location: "Italy"
-    followers: 18871
-    engagement: 614
-    commentsToLikes: 0.013867
-    id: ck15q1snt0oty0i19u64wtx80
-    verified: false
-    hashtags: "#juvemerda, #forzamilan, #banditi, #fortisempre"
-  - username: "giuliagentile.93"
-    fullname: >-
-      Giulia Gentile
-    bio: >-
-      Fotomodella Freelance Makeup Artist 📍Milano TikTok @giuliagentile.93 (+75k) 🍕 Ambassador @beatotemilano 🍔@mamma_milano Contenuti esclusivi ⬇️❤️
-    location: "Italy"
-    followers: 39020
-    engagement: 423
-    commentsToLikes: 0.014788
-    id: ckap7ryn3latq0i78g2l2u24p
-    verified: false
-    hashtags: "#portrait, #milano, #redhair, #zonarossa"
-  - username: "galleriahairsalon"
-    fullname: >-
-      Galleria Hair Salon®️
-    bio: >-
-      Dream team♾ 👩🏾‍🦱👩🏻👩🏻‍🦰👱🏼‍♀️👩🏼‍🦳👧🏻💇🏽‍♀️ +359 88 8178454 AMBASSADOR - ALFAPARF MILANO
-    location: "Italy"
-    followers: 191405
-    engagement: 260
-    commentsToLikes: 0.016654
-    id: ck5qeadhlzhpz0i11704c9w80
-    verified: false
-    hashtags: "#galleriahairsalon, #hairstyle, #joico, #alfaparfmilano"
 ---

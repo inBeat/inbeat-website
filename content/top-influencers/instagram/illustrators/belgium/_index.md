@@ -1,11 +1,11 @@
 ---
-title: Top 10 Illustrators Instagram Influencers In Belgium In 2023
+title: Top 10 Illustrators Instagram Influencers In Belgium In 2024
 description: >-
-  Find top illustrators Instagram influencers in Belgium in 2023. Most popular hashtags: #illustration #watercolor #comics #characterdesign.
+  Find top illustrators Instagram influencers in Belgium in 2024. Most popular hashtags: #illustration #art #illustrator #comics.
 platform: Instagram
 hits: 11
-text_top: See the best Instagram profiles on inBeat.
-text_bottom: Our platform aggregates 11 Instagram influencers like this in Belgium for you to pitch.
+text_top: Identify the best Instagram influencers on inBeat.
+text_bottom: Our database aggregates 11 Instagram influencers like this in Belgium for you to collaborate.
 profiles:
   - username: "tijanadraws"
     fullname: >-
@@ -103,6 +103,18 @@ profiles:
     id: ck5zsw06hza9j0i14atfbsraj
     verified: false
     hashtags: "#typographicposter, #posterdesign, #posterdesigncommunity, #grafik"
+  - username: "aadanslanuit"
+    fullname: >-
+      ÂA ⚜️
+    bio: >-
+      Âtlaï Abdallah Chanteur . Poète . ART TOTALE Dealer d’émotions 🌹 Chemin Acide 👇🏾🎶
+    location: "Belgium"
+    followers: 5388
+    engagement: 218
+    commentsToLikes: 0.063919
+    id: ck5cacmcid6ae0i111shy4iz4
+    verified: false
+    hashtags: "#chanson, #metissage, #musique, #afroart"
   - username: "the.7th.sister"
     fullname: >-
       The Seventh Sister
@@ -115,16 +127,4 @@ profiles:
     id: ck13c1amny4sh0i19gac4nhcy
     verified: false
     hashtags: "#ladiesoftheempire, #geekgirl, #suncrusherclub, #blaster"
-  - username: "gillesdebrock"
-    fullname: >-
-      Gilles de Brock
-    bio: >-
-      Currently a graphic designer turned tile maker. https://www.supercollect.be/theprintproject/scmpm010
-    location: "Belgium"
-    followers: 8149
-    engagement: 531
-    commentsToLikes: 0.013781
-    id: ck5zs33n1xqc80i14j31qrhll
-    verified: false
-    hashtags: "#ceramicglaze, #tiles, #illustration, #ceramics"
 ---

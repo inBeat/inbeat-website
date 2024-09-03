@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fashion TikTok Influencers In Hamburg In 2023
+title: Top 10 Fashion TikTok Influencers In Hamburg In 2024
 description: >-
-  Find top fashion TikTok influencers in Hamburg in 2023. Most popular hashtags: #hamburg #foryou #fashion #fyp.
+  Find top fashion TikTok influencers in Hamburg in 2024. Most popular hashtags: #hamburg #foryou #fashion #fyp.
 platform: TikTok
 hits: 11
-text_top: Identify the most popular TikTok profiles on inBeat.
-text_bottom: Our platform aggregates 11 TikTok influencers like this in Hamburg, Germany for you to pitch.
+text_top: See the most popular TikTok profiles on inBeat.
+text_bottom: Our database holds 11 TikTok influencers like this in Hamburg, Germany for you to pitch.
 profiles:
   - username: "aynaa.ad"
     fullname: >-
@@ -54,7 +54,7 @@ profiles:
     commentsToLikes: 0.047741
     id: ckblmerc4eo7b0j23k9robb4y
     verified: false
-    hashtags: "#sportchallenge, #fitness, #wodstore, #sport"
+    hashtags: "#hamburg, #crossfit, #wodstore, #sportchallenge"
   - username: "thepeoplespotter"
     fullname: >-
       thePEOPLESPOTTERbyJM
@@ -66,7 +66,7 @@ profiles:
     commentsToLikes: 0.023181
     id: ckafukluiavlz0i786vkhc0xy
     verified: false
-    hashtags: "#pfw, #fashionweek, #thepeoplespotter, #traumjob"
+    hashtags: "#fw, #berlin, #gntm, #fashionweek"
   - username: "sportwagensiegmund"
     fullname: >-
       Sportwagen Siegmund

@@ -1,24 +1,12 @@
 ---
-title: Top 10 Guitar TikTok Influencers In Spain In 2023
+title: Top 10 Guitar TikTok Influencers In Spain In 2024
 description: >-
-  Find top guitar TikTok influencers in Spain in 2023. Most popular hashtags: #parati #fyp #guitarra #guitar.
+  Find top guitar TikTok influencers in Spain in 2024. Most popular hashtags: #parati #fyp #guitarra #viral.
 platform: TikTok
-hits: 17
-text_top: Identify the best TikTok accounts on inBeat.
-text_bottom: Our platform holds 17 TikTok influencers like this in Spain for you to connect with.
+hits: 16
+text_top: Analyze the most popular TikTok profiles on inBeat.
+text_bottom: inBeat has 16 TikTok influencers like this in Spain for you to connect with.
 profiles:
-  - username: "wthz.alex"
-    fullname: >-
-      wthz.alex
-    bio: >-
-      Si me seguís en instagram ya lo petáis☺️❤️ (wthz.alex)
-    location: "Spain"
-    followers: 391100
-    engagement: 2129
-    commentsToLikes: 0.011184
-    id: ckbbnzusobztf0j23n8jzxuvd
-    verified: false
-    hashtags: "#photography, #guitar, #cover, #starshopping"
   - username: "pepetimarieta"
     fullname: >-
       Pepet i marieta
@@ -30,7 +18,7 @@ profiles:
     commentsToLikes: 0.148521
     id: ck9001ier9tsg0j78ct2rq9vz
     verified: false
-    hashtags: "#catalunya, #independencia, #purecocaine, #concert"
+    hashtags: "#acustic, #catalunya, #independencia, #purecocaine"
   - username: "sientoflamenco"
     fullname: >-
       Siento Flamenco
@@ -54,7 +42,19 @@ profiles:
     commentsToLikes: 0.045854
     id: cka6py2bvldd30i78d5dgwlrv
     verified: false
-    hashtags: "#pegar, #magictrick, #magic, #amigos"
+    hashtags: "#pegar, #magician, #magia, #magic"
+  - username: "wthz.alex"
+    fullname: >-
+      wthz.alex
+    bio: >-
+      Si me seguís en instagram ya lo petáis☺️❤️ (wthz.alex)
+    location: "Spain"
+    followers: 395800
+    engagement: 1937
+    commentsToLikes: 0.013513
+    id: ckbbnzusobztf0j23n8jzxuvd
+    verified: false
+    hashtags: "#makeup, #fashion, #photography, #photo"
   - username: "hot__space"
     fullname: >-
       Rogah taylah✨
@@ -115,16 +115,16 @@ profiles:
     id: ck9eixvs3zrz70j78fpkp7qzb
     verified: false
     hashtags: "#artista, #dibujo, #like, #love"
-  - username: "avidtechnology"
+  - username: "robertoleal_g"
     fullname: >-
-      Avid
+      Roberto Leal
     bio: >-
-      #Avid | Powering Greater Creators
+      Tik Tok oficial de Roberto Leal. Presentador de televisión.
     location: "Spain"
-    followers: 11900
-    engagement: 639
-    commentsToLikes: 0.044504
-    id: ck9kdo0fov3yp0j78g2c7o5l0
-    verified: false
-    hashtags: "#studio, #music, #recording, #producer"
+    followers: 265300
+    engagement: 736
+    commentsToLikes: 0.006440
+    id: ckbbe272o2v9k0j238g134z80
+    verified: true
+    hashtags: "#tiktokconfinado, #cuarentena, #tiktokspain, #quarantine"
 ---

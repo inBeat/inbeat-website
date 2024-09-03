@@ -1,24 +1,12 @@
 ---
-title: Top 10 Hypebeast TikTok Influencers In Miami In 2023
+title: Top 10 Hypebeast TikTok Influencers In Miami In 2024
 description: >-
-  Find top hypebeast TikTok influencers in Miami in 2023. Most popular hashtags: #fyp #foryou #hypebeast #foryoupage.
+  Find top hypebeast TikTok influencers in Miami in 2024. Most popular hashtags: #fyp #foryou #hypebeast #foryoupage.
 platform: TikTok
 hits: 7
-text_top: Discover the most popular TikTok accounts on inBeat.
-text_bottom: Our search engine has 7 TikTok influencers like this in Miami, United States for you to pitch.
+text_top: Identify the best TikTok influencers on inBeat.
+text_bottom: inBeat aggregates 7 TikTok influencers like this in Miami, United States for you to pitch.
 profiles:
-  - username: "sheikhscloset"
-    fullname: >-
-      Sheikhs Closet
-    bio: >-
-      60k🤔 Follow me on IG: @SheikhsCloset (40k) Cook Group: @pluggedpalace
-    location: "United States"
-    followers: 53200
-    engagement: 837
-    commentsToLikes: 0.056471
-    id: ck8z7bubspi2z0j78q6qb6lat
-    verified: false
-    hashtags: "#yeezy, #fyp, #somali, #sneakers"
   - username: "curatedheat"
     fullname: >-
       Jordan Harris
@@ -49,24 +37,36 @@ profiles:
     bio: >-
       MIAMI insta: @mikaylallen
     location: "United States"
-    followers: 4608
-    engagement: 662
-    commentsToLikes: 0.027874
+    followers: 5021
+    engagement: 686
+    commentsToLikes: 0.029306
     id: ckbkrb0xxlze80j23emo76khk
     verified: false
-    hashtags: "#newportbeach, #foryou, #miami, #fyp"
+    hashtags: "#miami, #disneyworld, #foryou, #fyp"
   - username: "nohoesyorsh"
     fullname: >-
-      abovetherimhoops
+      yorsh
     bio: >-
       professional failure
     location: "United States"
-    followers: 6017
-    engagement: 1609
-    commentsToLikes: 0.091755
+    followers: 5958
+    engagement: 1081
+    commentsToLikes: 0.045068
     id: ckbf7fig4xba20j23d29435oq
     verified: false
-    hashtags: "#sneakers, #kicks, #lakers, #basketball"
+    hashtags: "#shoes, #basketball, #sneakerhead, #nba"
+  - username: "sheikhscloset"
+    fullname: >-
+      Sheikhs Closet
+    bio: >-
+      60k🤔 Follow me on IG: @SheikhsCloset (40k) Cook Group: @pluggedpalace
+    location: "United States"
+    followers: 53200
+    engagement: 837
+    commentsToLikes: 0.056471
+    id: ck8z7bubspi2z0j78q6qb6lat
+    verified: false
+    hashtags: "#somali, #foryou, #fyp, #sneakers"
   - username: "dankgeezus"
     fullname: >-
       DANKGEEZUS

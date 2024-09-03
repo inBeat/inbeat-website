@@ -1,24 +1,12 @@
 ---
-title: Top 10 Stylists Instagram Influencers In Peru In 2023
+title: Top 10 Stylists Instagram Influencers In Peru In 2024
 description: >-
-  Find top stylists Instagram influencers in Peru in 2023. Most popular hashtags: #love #fashion #style #lifestyle.
+  Find top stylists Instagram influencers in Peru in 2024. Most popular hashtags: #style #love #fashion #peru.
 platform: Instagram
-hits: 10
-text_top: Analyze the best Instagram profiles on inBeat.
-text_bottom: Our platform has 10 Instagram influencers like this in Peru for you to contact.
+hits: 9
+text_top: Identify the most popular Instagram accounts on inBeat.
+text_bottom: Our platform aggregates 9 Instagram influencers like this in Peru for you to pitch.
 profiles:
-  - username: "thevelvetsecret"
-    fullname: >-
-      Daniela Nuñez Dodero
-    bio: >-
-      ★ Personal Stylist y creadora de thevelvetsecret.com ★ YouTube(405K) -Tiktok(154K) ★ Aprende conmigo sobre moda, estilo y a potenciar tu imagen👇🏼
-    location: "Peru"
-    followers: 216413
-    engagement: 311
-    commentsToLikes: 0.008565
-    id: ck5q4uxk6qcaw0i1134sc3v9s
-    verified: false
-    hashtags: "#styleinspo, #revolveme, #superdown, #publicidad"
   - username: "ximenaherrera7"
     fullname: >-
       Ximena Herrera
@@ -79,18 +67,18 @@ profiles:
     id: ck0w1gfctj7vm0i196s2nzml5
     verified: false
     hashtags: "#cuarentena, #style, #arequipa, #lifestyle"
-  - username: "senpaai_"
+  - username: "estilozas"
     fullname: >-
-      Stëfäny Välcárcël 🧚🏼‍♀️
+      Jeani Jaramillo
     bio: >-
-      lima, perú | 19🥀 twitch: senpaaai43 tiktok (670k) 📩: contacto@followme.pe
+      Moda • belleza • lifestyle Si te gusta el estilo elegante, usar tu ropa de manera creativa y verte siempre bien, seamos amigas. 📍🇵🇪
     location: "Peru"
-    followers: 222911
-    engagement: 582
-    commentsToLikes: 0.016915
-    id: ck5pytzz5xssy0i11yi3f4cot
-    verified: false
-    hashtags: "#tutorial, #instagram, #instagood, #publicidad"
+    followers: 243218
+    engagement: 493
+    commentsToLikes: 0.019996
+    id: ck5q26xtgekb60i11uk8fsxmo
+    verified: true
+    hashtags: "#personalstyle, #estilopersonal, #chanel, #style"
   - username: "yisus_eat_world"
     fullname: >-
       

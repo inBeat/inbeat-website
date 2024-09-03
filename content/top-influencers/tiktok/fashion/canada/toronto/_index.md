@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fashion TikTok Influencers In Toronto In 2023
+title: Top 10 Fashion TikTok Influencers In Toronto In 2024
 description: >-
-  Find top fashion TikTok influencers in Toronto in 2023. Most popular hashtags: #fyp #fashion #toronto #ootd.
+  Find top fashion TikTok influencers in Toronto in 2024. Most popular hashtags: #fyp #fashion #toronto #foryou.
 platform: TikTok
-hits: 87
-text_top: Discover the most popular TikTok profiles on inBeat.
-text_bottom: inBeat aggregates 87 TikTok influencers like this in Toronto, Canada for you to pitch.
+hits: 88
+text_top: Analyze the most popular TikTok accounts on inBeat.
+text_bottom: inBeat holds 88 TikTok influencers like this in Toronto, Canada for you to work with.
 profiles:
   - username: "emmanuel.uddenberg"
     fullname: >-
@@ -54,7 +54,19 @@ profiles:
     commentsToLikes: 0.046948
     id: ck97xnoyww17t0j787w7jkya1
     verified: false
-    hashtags: "#fyp, #rap, #photography, #tylerthecreator"
+    hashtags: "#rap, #fyp, #photography, #tylerthecreator"
+  - username: "_joshuasnow"
+    fullname: >-
+      Joshua Snow
+    bio: >-
+      20 toronto, on sc: joshua_snow
+    location: "Canada"
+    followers: 16608
+    engagement: 1060
+    commentsToLikes: 0.078686
+    id: ck806yg7yn2sp0j784yuxhz7h
+    verified: false
+    hashtags: "#canada, #featureme, #manitoba, #province"
   - username: "oknehaa"
     fullname: >-
       Okneha
@@ -90,7 +102,7 @@ profiles:
     commentsToLikes: 0.045333
     id: ckbfd7sks6hc70j23yeqwt3sy
     verified: false
-    hashtags: "#photoshootideas, #style, #fashion, #tiktokfashion"
+    hashtags: "#style, #photoshootideas, #mystyle, #tiktoktoronto"
   - username: "sidraandco"
     fullname: >-
       sidraandco
@@ -102,7 +114,7 @@ profiles:
     commentsToLikes: 0.011407
     id: ck9go10pkz5990j78wldmex2t
     verified: false
-    hashtags: "#poseidea, #posingtips, #howtopose, #eid2021"
+    hashtags: "#photography101, #howtopose, #poseidea, #eid2021"
   - username: "devisathi"
     fullname: >-
       DeviSathi
@@ -115,16 +127,4 @@ profiles:
     id: ck9kg1td05ys30j78vnvse2dm
     verified: false
     hashtags: "#dance, #1millionaudition, #foryoupage, #srk"
-  - username: "chantalmaguire"
-    fullname: >-
-      Chantal Maguire
-    bio: >-
-      Persian/Irish 🧿 For any business inquires email: chantaldesigns@hotmail.com
-    location: "Canada"
-    followers: 12000
-    engagement: 552
-    commentsToLikes: 0.157488
-    id: ckdc0mguifdyj0j23bgqv2w3s
-    verified: false
-    hashtags: "#ootd, #toronto, #zarahaul, #fyp"
 ---

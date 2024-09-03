@@ -1,36 +1,60 @@
 ---
-title: Top 10 Comedians Instagram Influencers In New York In 2023
+title: Top 10 Comedians Instagram Influencers In New York In 2024
 description: >-
-  Find top comedians Instagram influencers in New York in 2023. Most popular hashtags: #comedian #comedy #newyork #standup.
+  Find top comedians Instagram influencers in New York in 2024. Most popular hashtags: #comedian #comedy #standup #comedians.
 platform: Instagram
-hits: 53
-text_top: Analyze the best Instagram accounts on inBeat.
-text_bottom: inBeat holds 53 Instagram influencers like this in New York, United States for you to contact.
+hits: 71
+text_top: See the most popular Instagram influencers on inBeat.
+text_bottom: Our search engine holds 71 Instagram influencers like this in New York, United States for you to pitch.
 profiles:
   - username: "evolvingoutloud"
     fullname: >-
       Kyle Cease
     bio: >-
-      Father 🧒🏼 Transformation Comedian 🎙 New York Times Bestselling Author 📖 kylecease.com
+      Father 🧒🏼 Transformational Comedian 🎙 New York Times, USA Today and Wall Street Journal Bestselling Author 📖 The Now
     location: "United States"
-    followers: 27821
-    engagement: 202
-    commentsToLikes: 0.057554
+    followers: 81186
+    engagement: 83
+    commentsToLikes: 0.043558
     id: ck5hnep6pnnga0i11f00toc3p
     verified: false
-    hashtags: "#nowrising, #endofeffort, #itstotallypossible"
-  - username: "danlamorte"
+    hashtags: "#nowrising, #endofeffort"
+  - username: "tschillingfs"
     fullname: >-
-      Dan LaMorte
+      Taylor Schilling Fansite
     bio: >-
-      NYC Comedian, Runner and Stoner. Often a stoned runner. I have 2 albums, a few TV appearances and countless stretch marks
+      Website dedicated to actress @tayjschilling - OITNB, Mercy, Family, Monsterland, The Titan, Take Me, The Bite and more
     location: "United States"
-    followers: 17796
-    engagement: 293
-    commentsToLikes: 0.042363
-    id: ck14i8wkge7hd0i19zptdgwok
+    followers: 11080
+    engagement: 369
+    commentsToLikes: 0.026585
+    id: ck136bv2n5q0e0i19sw5cgxsn
     verified: false
-    hashtags: "#twittermemes, #runnersofinstagram, #memes, #standup"
+    hashtags: "#monsterland, #orangeisthenewblack, #tayjschilling, #tbt"
+  - username: "kensingtoncampbell"
+    fullname: >-
+      Golden Retriever | Kensington
+    bio: >-
+      🐶Golden Girl who snuggles and hugs 👨Dad and Me, follow and see ❤️Support your local animal shelter 🇺🇸Made in the USA | Dallas, Texas
+    location: "United States"
+    followers: 105944
+    engagement: 49
+    commentsToLikes: 0.033896
+    id: ck0tuom1m80ww0i19xol7vaie
+    verified: false
+    hashtags: "#retrieversgram, #featuremydog, #dogpictures, #fridayvibe"
+  - username: "kiersten.silver"
+    fullname: >-
+      Kiersten Silver (Dolbec) 🦖
+    bio: >-
+      📍NYC - Comedian | Model | Mom 🎙Next Show: TBD Baby + Fam Life 👉🏻 @kierio.us @newyorkmodels @lamodelsdirect
+    location: "United States"
+    followers: 34979
+    engagement: 143
+    commentsToLikes: 0.065903
+    id: ck15s7u8abnzs0i19it8vy9lg
+    verified: false
+    hashtags: "#skyesilver, #pandemicbaby, #silverlinings, #pregnantmodel"
   - username: "steven_markow"
     fullname: >-
       Steven Markow
@@ -43,18 +67,6 @@ profiles:
     id: ck8sypfablhsb0j78l98i3lnn
     verified: false
     hashtags: "#comedians, #characters, #wig, #theater"
-  - username: "hazelhoneysuckle"
-    fullname: >-
-      Hazel Honeysuckle
-    bio: >-
-      Burlesque Starlet Las Vegas - she/her Friend of "The Green Fairy" in Absinthe 🎪🧚‍♂️ "The Delicate Flower" 🥀 Costumer ✂ Singer 🎶 Nerd 👓 Model💃 Actress
-    location: "United States"
-    followers: 26827
-    engagement: 320
-    commentsToLikes: 0.027270
-    id: ck0w2wgckqi7d0i19hgjngfk4
-    verified: false
-    hashtags: "#costume, #lasvegas, #hazelhoneysuckle, #boldlystripped"
   - username: "madmamanyc"
     fullname: >-
       Alexandra Kohan
@@ -66,7 +78,19 @@ profiles:
     commentsToLikes: 0.060289
     id: ck5zsgnidygnk0i142lmam9ow
     verified: false
-    hashtags: "#mindfulliving, #selflove, #mindfulness, #internationalwomensday"
+    hashtags: "#mindfulliving, #mindfulness, #selflove, #blacklivesmatter"
+  - username: "nataliecuomo_"
+    fullname: >-
+      Natalie Cuomo
+    bio: >-
+      Comedian 🎧 @helpwithnatalie Watch my special - Shut Up You Loved It I’m on tour: Syracuse, Albany, Hartford, Edmonton & more ⤵️
+    location: "United States"
+    followers: 380639
+    engagement: 142
+    commentsToLikes: 0.009528
+    id: ck9wisj8h3rz50j78pqz5ub0s
+    verified: false
+    hashtags: "#haha, #standupcomedian, #comedian, #comedy"
   - username: "reneewillett"
     fullname: >-
       Renée Willett
@@ -79,18 +103,6 @@ profiles:
     id: ck5cj6bo3u2hk0i11riieh0wb
     verified: true
     hashtags: "#finally, #nofilter, #selfiesunday, #itslit"
-  - username: "meishmoe"
-    fullname: >-
-      Moe
-    bio: >-
-      YT: 260k TikTok: 3.2M
-    location: "United States"
-    followers: 281864
-    engagement: 699
-    commentsToLikes: 0.015977
-    id: ck8t43lhc5e030j7870ich3fi
-    verified: false
-    hashtags: ""
   - username: "joemakemelaugh"
     fullname: >-
       Comedian JosePh Naimoli
@@ -103,28 +115,16 @@ profiles:
     id: ck8sx0j8uft760j78y03wffh6
     verified: false
     hashtags: "#comedian, #nytough, #cuomobriefing, #alpacino"
-  - username: "thejfharris"
+  - username: "cahrlos"
     fullname: >-
-      J.F. Harris
+      Carlos Hernández
     bio: >-
-      @latelateshow Bill Burr’s Ringers @comedycentral ✍🏼 @netflix M.F.H. Comedy ☕️ 👖 📷 & vinyl. Jokes could be described as NP(rated)R.
+      🎙️ @onlyindade 🌴 MIA/LA 🇨🇺🇲🇽 📧 bookings@cahrlos.com 🎟️ Upcoming Shows 👇
     location: "United States"
-    followers: 6552
-    engagement: 247
-    commentsToLikes: 0.082287
-    id: ck6012tq1eqjh0i14c6ldrf91
+    followers: 24221
+    engagement: 687
+    commentsToLikes: 0.078556
+    id: cl4k3l1r5siyh0i239va3xnpq
     verified: false
-    hashtags: "#coffeeshop, #denimstyle, #lcking, #livecomedy"
-  - username: "tschillingfs"
-    fullname: >-
-      Taylor Schilling Fansite
-    bio: >-
-      Website dedicated to actress @tayjschilling - OITNB, Mercy, Family, Monsterland, The Titan, Take Me, The Bite and more
-    location: "United States"
-    followers: 11080
-    engagement: 369
-    commentsToLikes: 0.026585
-    id: ck136bv2n5q0e0i19sw5cgxsn
-    verified: false
-    hashtags: "#photoshoot, #orangefamily, #repost, #oitnb"
+    hashtags: "#fyp, #comedy, #lol, #miami"
 ---

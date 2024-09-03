@@ -1,12 +1,24 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Tokyo In 2023
+title: Top 10 Fitness Instagram Influencers In Tokyo In 2024
 description: >-
-  Find top fitness Instagram influencers in Tokyo in 2023. Most popular hashtags: #fitness #tokyo #workout #pr.
+  Find top fitness Instagram influencers in Tokyo in 2024. Most popular hashtags: #fitness #tokyo #workout #pr.
 platform: Instagram
-hits: 50
-text_top: Discover the most popular Instagram influencers on inBeat.
-text_bottom: Our platform holds 50 Instagram influencers like this in Tokyo, Japan for you to work with.
+hits: 56
+text_top: Identify the best Instagram profiles on inBeat.
+text_bottom: inBeat aggregates 56 Instagram influencers like this in Tokyo, Japan for you to work with.
 profiles:
+  - username: "samanthaausa"
+    fullname: >-
+      Sammy Schultz (Achterberg)
+    bio: >-
+      Olympian • Modern Pentathlon - Personal Trainer, Pilates & Yoga Instructor - Army National Guard - Colorado girl🏔 • Stay Humble•Work Hard•Be Kind•
+    location: "Japan"
+    followers: 14359
+    engagement: 249
+    commentsToLikes: 0.051332
+    id: ck6tpknxfkegs0j7124bhp46n
+    verified: true
+    hashtags: "#coloradosprings, #5uperathlete, #colorado, #wellness"
   - username: "kouki19911006"
     fullname: >-
       KOUKI
@@ -19,18 +31,6 @@ profiles:
     id: ck15sr1p9eeba0i19b6q0gy4g
     verified: false
     hashtags: "#bitterstore, #reroom, #bitter, #vulky"
-  - username: "miyako.610"
-    fullname: >-
-      都　Miyako
-    bio: >-
-      fitness YouTuber 🎥みやこずちゃんねる apparel 🐚 @coralu.official supplement @haleo_official ⬇️ダイエットの食事やトレーニングの投稿
-    location: "Japan"
-    followers: 36569
-    engagement: 1025
-    commentsToLikes: 0.014134
-    id: ck8tc215gy01u0j78fh6krpoo
-    verified: false
-    hashtags: "#workout, #life, #coralu, #fitnessgirl"
   - username: "anzu_akiba"
     fullname: >-
       🌹Anzu Akiba🌹
@@ -55,6 +55,18 @@ profiles:
     id: ck15rzcgwaghe0i19fdy519zr
     verified: false
     hashtags: "#zombie, #tokyo, #pandemic, #fitness"
+  - username: "ibrhmcolak"
+    fullname: >-
+      İbrahim Çolak
+    bio: >-
+      2019 World Champion🥇İ💚 2020 European Champion🥇 Tokyo2020🇯🇵Paris2024🇫🇷 manegemnt:@mustafaayata Advert and Partnership DM 📩
+    location: "Japan"
+    followers: 150386
+    engagement: 1142
+    commentsToLikes: 0.009842
+    id: ck8syti4bly580j78d0289agu
+    verified: false
+    hashtags: "#paris2024olympicgames, #teamt, #paris2024, #olympicgames"
   - username: "_natsumitakeda_"
     fullname: >-
       Natsumi Takeda / 武田奈津美
@@ -103,28 +115,16 @@ profiles:
     id: ck5zxdiez7t640i146a68jlgl
     verified: false
     hashtags: "#freerunning, #fttricks, #fu2d, #parkourpark"
-  - username: "_rosemelle"
+  - username: "iamradzi"
     fullname: >-
-      Rose Melle
+      Radzi Chinyanganya
     bio: >-
-      理想のボディを追い求める🌹 🇯🇵Tokyo Japan Twitter☞@_RoseMelle
+      🏴󠁧󠁢󠁳󠁣󠁴󠁿 🇿🇼 📺 tv presenter 🎙️"Making Gains" podcast 📚 Factoids & Fitness💪🏾 Blue Peter forever #37
     location: "Japan"
-    followers: 38572
-    engagement: 736
-    commentsToLikes: 0.009080
-    id: ck5zzwkhocjjd0i140q4r4dh8
-    verified: false
-    hashtags: "#japanesegirl, #asiangirls, #onlyfan, #sexyphoto"
-  - username: "belleyogatokyo"
-    fullname: >-
-      Jo in Tokyo 🇯🇵
-    bio: >-
-      🧘🏻‍♀️Yoga / Saving the Planet 🌏 🏋🏻Team @allysangels_fitness @liforme -10% code 👉BELLETOKYO 👇Discount links👇
-    location: "Japan"
-    followers: 65284
-    engagement: 115
-    commentsToLikes: 0.058017
-    id: ck0tycg14mewo0i19onieu1ta
-    verified: false
-    hashtags: "#splits, #humpdayvibes, #amamioshima, #yogaonthebeach"
+    followers: 32043
+    engagement: 55
+    commentsToLikes: 0.015914
+    id: ck14iw55ohfju0i19mxsnpfbe
+    verified: true
+    hashtags: "#itv, #gym, #champion, #formulae"
 ---

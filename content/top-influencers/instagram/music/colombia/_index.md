@@ -1,130 +1,130 @@
 ---
-title: Top 10 Music Instagram Influencers In Colombia In 2023
+title: Top 10 Music Instagram Influencers In Colombia In 2024
 description: >-
-  Find top music Instagram influencers in Colombia in 2023. Most popular hashtags: #colombia #tbt #quitoecuador.
+  Find top music Instagram influencers in Colombia in 2024. Most popular hashtags: #publicidad #tbt #actriz.
 platform: Instagram
-hits: 406
-text_top: See the most popular Instagram accounts on inBeat.
-text_bottom: Our search engine holds 406 Instagram influencers like this in Colombia for you to connect with.
+hits: 441
+text_top: See the best Instagram accounts on inBeat.
+text_bottom: inBeat aggregates 441 Instagram influencers like this in Colombia for you to contact.
 profiles:
-  - username: "geogymills"
+  - username: "elenemigocol"
     fullname: >-
-      Geogy Mills
+      El Enemigo
     bio: >-
-      Productor musical ▪️Guitarrista de Sebastián Yatra▪️The Mills ▪️Artista Gibson ▪️Nuevo Album en vivo de The Mills🇨🇴
+      Todo sobre música hecha en Colombia 🇨🇴🥵Envíame tus canciones 👉 elenemigocolombia@gmail.com 👇 Vea mi último video👇
     location: "Colombia"
-    followers: 30806
-    engagement: 497
-    commentsToLikes: 0.091769
-    id: ck6u99adaw7vd0j71ke0h4f02
+    followers: 37379
+    engagement: 478
+    commentsToLikes: 0.008875
+    id: ck6ucgpe9fi5n0j71vu2xps8h
     verified: false
-    hashtags: "#yallego, #sinblablabla, #patrocinadopor, #gibson"
-  - username: "_zenzei_"
+    hashtags: "#bogota, #alianza, #rock, #musica"
+  - username: "normaniviag"
     fullname: >-
-      Z E N Z E I
+      👑Norma Nivia 👑
     bio: >-
-      ▫️Multi-Platinum Music Producer & Songwriter. ▫️Artists: Manuel Turizo • Ozuna • Nicky Jam • Maluma • CNCO • Anuel • Sech & Más ♾
+      Bienvenid@ a mi mundo 💚 Actuo, amo los animales, la música en vivo, defiendo el medio ambiente y sueño despierta. . Mi ropa de segunda mano aquí ⬇️
     location: "Colombia"
-    followers: 49921
-    engagement: 879
-    commentsToLikes: 0.054205
-    id: ck0tvvhv3cyw60i19e11u8igh
+    followers: 402881
+    engagement: 295
+    commentsToLikes: 0.014846
+    id: ck14lqdp2vypq0i19yolw4hsp
     verified: false
-    hashtags: "#lanota, #zen"
-  - username: "leonbravomusic"
+    hashtags: "#seatarona, #nohayexcusachallenge, #lapalomanivia, #mu"
+  - username: "alejopachecos"
     fullname: >-
-      🔥León Bravo🔥
+      Alejo Pacheco
     bio: >-
-      Cantautor 🎶 🇪🇦 Manager - Tony Trake Music 💼 (+34 680 13 00 82) ☎️ 😇 SE ACABÓ 😇
+      Creativo Bog/Col 🇨🇴 Mi estudio @duro.estudio @duroypunto @duro.musica
     location: "Colombia"
-    followers: 26610
-    engagement: 712
-    commentsToLikes: 0.031555
-    id: ck5hmnumzmat70i11u016pcrr
+    followers: 113219
+    engagement: 228
+    commentsToLikes: 0.017590
+    id: ck5pw3pkbky0z0i11gr0uekri
     verified: false
-    hashtags: "#pa"
-  - username: "amandapatricia_oficial"
+    hashtags: "#siesantojodebonyurtesdebonyurt, #publicidad, #antojodebonyurt, #tudermatologosabemas"
+  - username: "mkgomez_"
     fullname: >-
-      Amanda Patricia
+      Maria Karla Cepero Gomez
     bio: >-
-      SOLO CONTRATOS: +57 3153868924 #musicapopular #musicaregional COLOMBIANA ft @yeison_jimenez DEMASIADO TARDE ❤️ SUSCRÍBETE ❤️👇
+      Mi vida, con música 🎶 ❤️‍🔥⚡️ 🎬 Actriz , character @enchufetv 📍Cubana 🇨🇺 en Ecuador 🇪🇨 💼 MGMT @hubmgmt Embajadora de @cumbresblancasecuador 🤍🏔️🌱
     location: "Colombia"
-    followers: 66988
-    engagement: 521
-    commentsToLikes: 0.037174
-    id: ck6ty85z427m70j71t6yz424b
+    followers: 315127
+    engagement: 172
+    commentsToLikes: 0.016035
+    id: ckap37g7d1vbg0i78hp3r4l08
     verified: false
-    hashtags: "#cauca, #ecuador, #valledelcauca, #vivalamusicapopular"
-  - username: "albaguts"
+    hashtags: "#ottdfashion, #actriz, #lovemyjob, #hydrofluid"
+  - username: "dimpiso21"
     fullname: >-
-      Alba Gutiérrez
+      David Escobar Piso 21
     bio: >-
-      Periodista / Social Media Manager 📺 Cada mañana en @aruseroslasexta 🎸Música i cultura a @revistamirall 💻 Visita mi BLOG👇
+      De @piso21 Music Producer Papá de Ella y Roma Escobar Arciniegas. MÚSICA NUEVA (DÉJALO EN VISTO)🟡 @piso21 & @nickyjam
     location: "Colombia"
-    followers: 14335
-    engagement: 757
-    commentsToLikes: 0.047599
-    id: ckap49qcw6dxb0i78mupjf2m5
-    verified: false
-    hashtags: "#felizfinde, #pecas, #8m"
-  - username: "fastermusica"
-    fullname: >-
-      🅴🅻 🆂🅷🅰🆁🅰🅰🆆🆈
-    bio: >-
-      Cristiano 🙏 | producer 🎶 | Creativo 🗯 | 🇵🇦 | Manager de @Bozamusic C.E.O LA RESISTENCIA INC |°| ROLLINBOWER MUSICA
-    location: "Colombia"
-    followers: 49868
-    engagement: 561
-    commentsToLikes: 0.027639
-    id: ck5zwgl8a63cc0i14gdcw3eyi
-    verified: false
-    hashtags: ""
-  - username: "lilibechara"
-    fullname: >-
-      𝓛𝓲𝓵𝓲𝓪𝓷𝓪 𝓑𝓮𝓬𝓱𝓪𝓻𝓪
-    bio: >-
-      Barranquillera: Presentadora Periodista y cantante 🎤💜... Mi marca 👚 @valente_bylilibechara 👚...Mi primer sencillo musical CONTIGO...👇🏻...DIOS mi guía
-    location: "Colombia"
-    followers: 74150
-    engagement: 154
-    commentsToLikes: 0.090839
-    id: ck8sx0zk4fuo50j78yl0etim9
-    verified: false
-    hashtags: "#barranquilla, #contigo, #urbano, #ciudad"
-  - username: "cata_aljure"
-    fullname: >-
-      ＣＡＴＡＬＩＮＡ   ＡLＪ U R E
-    bio: >-
-      Hago música 🎶 Actúo 🎭 Colombia 📍
-    location: "Colombia"
-    followers: 8451
-    engagement: 683
-    commentsToLikes: 0.095697
-    id: ckf5n67nwwxo60j239kj4vlcc
-    verified: false
-    hashtags: "#cover, #singer, #model, #bikini"
-  - username: "karlawoficial"
-    fullname: >-
-      Karla W
-    bio: >-
-      ARTISTA COLOMBIANA 🇨🇴 📩|•karlafmusic@gmail.com 🍦|• publicidad al Dm MI MÚSICA AQUÍ⬇️
-    location: "Colombia"
-    followers: 37085
-    engagement: 361
-    commentsToLikes: 0.030228
-    id: ck134jhsnwqdo0i19jyjdielr
-    verified: false
-    hashtags: "#chimbita, #colombia, #photo, #amores"
-  - username: "hbd_detodoy_rap"
-    fullname: >-
-      HBD - Detodoy Rap
-    bio: >-
-      Soy HBD, me apasiona la música, sobre todo el rap. Contacto: hbd.detodoyrap@gmail.com #Detodoyrap #UrbanRoostersNetwork
-    location: "Colombia"
-    followers: 225541
-    engagement: 498
-    commentsToLikes: 0.011194
-    id: ck602zmrrk7430i14n17u3y91
+    followers: 1208474
+    engagement: 159
+    commentsToLikes: 0.007675
+    id: ck136gddl6d7g0i19nckpokt4
     verified: true
-    hashtags: "#fmsperu, #fms, #robotflowchallenge, #stick"
+    hashtags: "#michealjordan, #dejaloenvisto"
+  - username: "el_robotico"
+    fullname: >-
+      ɆⱠ ⱤØ฿Ø₮ł₵Ø
+    bio: >-
+      🧠 Self Made 🎵 Music Business Expert 💡 Creative Director 🎥 Owner @robotvision_ 📲 Manager @pulsopopnews 🇳🇮 Nicaragüense
+    location: "Colombia"
+    followers: 122207
+    engagement: 148
+    commentsToLikes: 0.017920
+    id: ck5hlkoh2kdyh0i114dgo1e4j
+    verified: false
+    hashtags: "#youtube, #karolg, #badbunny, #eslabonarmado"
+  - username: "kevvoofficial"
+    fullname: >-
+      KEVVO 🤴🏻🥊
+    bio: >-
+      EN-BRUTO MUSIC 💎 COTIDIANOBBY 👶🏻 #TUERESLOKOCB 🥱 #TUSABESMIAMOL😝
+    location: "Colombia"
+    followers: 2681932
+    engagement: 117
+    commentsToLikes: 0.012533
+    id: ck0w723nibdut0i19jm6inzbx
+    verified: true
+    hashtags: "#uvq, #puertorico, #music, #tuereslocokbrn"
+  - username: "angelitahera"
+    fullname: >-
+      Angelica Hernandez
+    bio: >-
+      @angelita.music CEO/Founder @anhera.oficial Be a Queen 👸🏻👉🏻 @angelita.tips 📍 Medellín 🇨🇴
+    location: "Colombia"
+    followers: 1844829
+    engagement: 92
+    commentsToLikes: 0.011546
+    id: ck6tlx5dt6sr20j71a8nv2ekz
+    verified: true
+    hashtags: "#embajadora, #recordando, #fitmom, #fitness"
+  - username: "alanramirez"
+    fullname: >-
+      Alan Ramirez
+    bio: >-
+      Cantante de música popular 🇨🇴 📲Info: 3102088232 📀@marsal.entertainment #SirvaloPues 🍻 Más información en 👇🏻👇🏻
+    location: "Colombia"
+    followers: 508010
+    engagement: 78
+    commentsToLikes: 0.018654
+    id: ck136xc788q1a0i1987zy2rp2
+    verified: true
+    hashtags: "#sirvalopues, #alanramirez, #intimoconalanramirez, #lanzamiento"
+  - username: "bako"
+    fullname: >-
+      Bako
+    bio: >-
+      Músico y Compositor Colombiano 🇨🇴 The Mills 🤟 Twitter @bako_music
+    location: "Colombia"
+    followers: 79765
+    engagement: 71
+    commentsToLikes: 0.018352
+    id: ck5pwh8plmsff0i11gtkho17z
+    verified: true
+    hashtags: "#vibraalto, #papadelucca, #sinomebajanlalunamelabajoyo, #guardianesfelinoscatchow"
 ---

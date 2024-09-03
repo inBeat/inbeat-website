@@ -1,11 +1,11 @@
 ---
-title: Top 10 Food TikTok Influencers In Dallas In 2023
+title: Top 10 Food TikTok Influencers In Dallas In 2024
 description: >-
-  Find top food TikTok influencers in Dallas in 2023. Most popular hashtags: #fyp #food #dallas #texas.
+  Find top food TikTok influencers in Dallas in 2024. Most popular hashtags: #fyp #food #dallas #texas.
 platform: TikTok
-hits: 57
-text_top: Discover the best TikTok profiles on inBeat.
-text_bottom: Our search engine has 57 TikTok influencers like this in Dallas, United States for you to connect with.
+hits: 56
+text_top: See the best TikTok accounts on inBeat.
+text_bottom: Our search engine has 56 TikTok influencers like this in Dallas, United States for you to pitch.
 profiles:
   - username: "paigealwayswright"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.014029
     id: ckcpcatkpfjje0j23hwjzog88
     verified: false
-    hashtags: "#marriedlife, #cooking, #food, #pregnant"
+    hashtags: "#healthyfood, #recipes, #pregnant, #cooking"
   - username: "helenaaa238"
     fullname: >-
       Dallas/Ft. Worth blogger
@@ -55,18 +55,6 @@ profiles:
     id: ckae0xw0im6cl0i780ubyvqxq
     verified: false
     hashtags: "#texas, #ownthecurve, #fypage, #butterglosspop"
-  - username: "vincentvannn"
-    fullname: >-
-      Vincent Doyle
-    bio: >-
-      Atlanta 🌇 Creator/Photographer Prints for purchase + Social links below!
-    location: "United States"
-    followers: 3711
-    engagement: 759
-    commentsToLikes: 0.054459
-    id: ckbf1kskwnrav0j23gs3xu7hl
-    verified: false
-    hashtags: "#viral, #fyp, #dallas, #foryoupage"
   - username: "vicious_a6"
     fullname: >-
       vicious_a6
@@ -79,18 +67,6 @@ profiles:
     id: ckbqkleon5php0j23tc8j4h3q
     verified: false
     hashtags: "#xybca, #funny, #cars, #carcommunity"
-  - username: "nflfilms"
-    fullname: >-
-      NFLFilms
-    bio: >-
-      Official Tik Tok of NFL Films
-    location: "United States"
-    followers: 98600
-    engagement: 1275
-    commentsToLikes: 0.003510
-    id: ckcpsdy14mmh80j23x653ncxa
-    verified: false
-    hashtags: "#foryourpage, #football, #lol, #sports"
   - username: "foregiveness_"
     fullname: >-
       Eduardo
@@ -115,16 +91,40 @@ profiles:
     id: ckb0jdewlaji40j23eqfg7qgd
     verified: false
     hashtags: "#itwasntme, #doritosflatlife, #dothescottsslide, #fyp"
-  - username: "valromo_"
+  - username: "sophiepulaski"
     fullname: >-
-      Val 🦋
+      Sophie Pulaski
     bio: >-
-      nothing but good vibes ♡ 💌 itsvalromo@gmail.com insta:
+      ✰ UNT ✰ ✰ DTX ✰ ✰ 21 ✰
     location: "United States"
-    followers: 29500
-    engagement: 1553
-    commentsToLikes: 0.106393
-    id: ckbwau8zf09un0j23bj1w6e0i
+    followers: 28800
+    engagement: 1169
+    commentsToLikes: 0.032469
+    id: ck9r7yjbia77p0j78r1yvinli
     verified: false
-    hashtags: "#fyp, #parati, #texas, #mexico"
+    hashtags: "#valentinesday, #foryoupage, #thisorthatsblv, #song"
+  - username: "taqueria.losangeles"
+    fullname: >-
+      taqueria.losangeles
+    bio: >-
+      🔥🌴Delicious Mexican food🌴🔥 In Plano, Texas 🌴🔥🌯🌯🌮🦀🦑🧀🦐🥑🌯🍺🍹🌯🌮
+    location: "United States"
+    followers: 51200
+    engagement: 777
+    commentsToLikes: 0.010492
+    id: ckd62fvmn1s2r0j23efkyjazt
+    verified: false
+    hashtags: "#mariscos, #texasfood, #planotexas, #food"
+  - username: "nflfilms"
+    fullname: >-
+      NFLFilms
+    bio: >-
+      Official Tik Tok of NFL Films
+    location: "United States"
+    followers: 98600
+    engagement: 1275
+    commentsToLikes: 0.003510
+    id: ckcpsdy14mmh80j23x653ncxa
+    verified: false
+    hashtags: "#sports, #lol, #foryourpage, #football"
 ---

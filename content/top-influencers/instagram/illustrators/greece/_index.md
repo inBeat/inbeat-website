@@ -1,24 +1,12 @@
 ---
-title: Top 10 Illustrators Instagram Influencers In Greece In 2023
+title: Top 10 Illustrators Instagram Influencers In Greece In 2024
 description: >-
-  Find top illustrators Instagram influencers in Greece in 2023. Most popular hashtags: #illustration #design #artistsoninstagram #art.
+  Find top illustrators Instagram influencers in Greece in 2024. Most popular hashtags: #illustration #design #athens #illustrator.
 platform: Instagram
 hits: 11
-text_top: Analyze the most popular Instagram influencers on inBeat.
-text_bottom: Our platform holds 11 Instagram influencers like this in Greece for you to contact.
+text_top: Identify the most popular Instagram influencers on inBeat.
+text_bottom: Our platform holds 11 Instagram influencers like this in Greece for you to work with.
 profiles:
-  - username: "super.foteini"
-    fullname: >-
-      Foteini Traka
-    bio: >-
-      Fashion Designer~Fashion Illustrator~Vintage Curator/Seller~Image Maker~Stylist~Muse Master of all trades🤘🏻@intothelightclothing @foteinitrakadesigns
-    location: "Greece"
-    followers: 38309
-    engagement: 381
-    commentsToLikes: 0.025126
-    id: ck13bonkdwf4p0i19c4zx613n
-    verified: false
-    hashtags: "#zaraaccessories, #calzedonia, #rienbypennyvomva, #fashioninspo"
   - username: "natalialampropoulou"
     fullname: >-
       Natalie’s Cozyland
@@ -127,4 +115,16 @@ profiles:
     id: ck5hjq2gih2930i11xv94v19u
     verified: false
     hashtags: "#rap, #poetry, #hiphop, #urban"
+  - username: "spirosgrammenos_"
+    fullname: >-
+      Σπύρος Γραμμένος
+    bio: >-
+      Τραγουδοποιός #Influencer Συστημικός κονφερανσιέ Παραμυθάς Beauty Editor Χερ στάιλερ Λάιφ κόουτσερ Φάσιον άικον Επόμενος στόχος: #eurovision2021
+    location: "Greece"
+    followers: 14010
+    engagement: 827
+    commentsToLikes: 0.009442
+    id: ck6tiok73148u0j71vzi74mgl
+    verified: false
+    hashtags: "#grammenoslive, #grammentinos, #marketing, #coffe"
 ---

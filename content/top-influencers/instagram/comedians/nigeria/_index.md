@@ -1,24 +1,12 @@
 ---
-title: Top 10 Comedians Instagram Influencers In Nigeria In 2023
+title: Top 10 Comedians Instagram Influencers In Nigeria In 2024
 description: >-
-  Find top comedians Instagram influencers in Nigeria in 2023. Most popular hashtags: #valentine #tundeednut #comedy.
+  Find top comedians Instagram influencers in Nigeria in 2024. Most popular hashtags: #comedy #valentine #tundeednut.
 platform: Instagram
-hits: 15
-text_top: Discover the top-rated Instagram influencers on inBeat.
-text_bottom: inBeat holds 15 Instagram influencers like this in Nigeria for you to work with.
+hits: 18
+text_top: See the top-rated Instagram influencers on inBeat.
+text_bottom: Our platform has 18 Instagram influencers like this in Nigeria for you to collaborate.
 profiles:
-  - username: "iamdesibanks"
-    fullname: >-
-      Desi Banks
-    bio: >-
-      🙏🏾 God1st Find #PURpose Actor | Comedian | Entertainer | Host Booking/Press: desibanksbooking@gmail.com
-    location: "Nigeria"
-    followers: 6753988
-    engagement: 540
-    commentsToLikes: 0.037395
-    id: ck0tw4q3ke0hw0i19vebqszzw
-    verified: true
-    hashtags: "#justcomedy, #reallife, #comeseemelive, #tagyourfriends"
   - username: "official_marylove"
     fullname: >-
       Mary Love
@@ -127,4 +115,16 @@ profiles:
     id: ck134mrj5x75g0i19fge3p6br
     verified: false
     hashtags: "#theyoungoldman, #babaalariya, #swipeleft, #babaalariyathetailor"
+  - username: "deehumorous"
+    fullname: >-
+      Dan D Humorous
+    bio: >-
+      STANDUP COMEDIAN. POLITICAL SATIRIST : PRESSING ISSUES ACTOR : MY FLATMATES (RT. HON DAN) THE WOLF YOUTUBE CHANNEL IN BIO
+    location: "Nigeria"
+    followers: 33441
+    engagement: 104
+    commentsToLikes: 0.083620
+    id: ck14gsyg16v9l0i19b2a45vrl
+    verified: false
+    hashtags: "#myflatmates, #bestthingontv, #ad, #rideordielovestory"
 ---

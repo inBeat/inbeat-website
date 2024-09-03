@@ -1,12 +1,24 @@
 ---
-title: Top 10 Health Instagram Influencers In South Korea In 2023
+title: Top 10 Health Instagram Influencers In South Korea In 2024
 description: >-
-  Find top health Instagram influencers in South Korea in 2023. Most popular hashtags: #ootd #f45 #travel.
+  Find top health Instagram influencers in South Korea in 2024. Most popular hashtags: #travel #instagood #ootd.
 platform: Instagram
-hits: 60
-text_top: See the most popular Instagram influencers on inBeat.
-text_bottom: Our search engine holds 60 Instagram influencers like this in South Korea for you to pitch.
+hits: 63
+text_top: Identify the most popular Instagram influencers on inBeat.
+text_bottom: Our database aggregates 63 Instagram influencers like this in South Korea for you to contact.
 profiles:
+  - username: "dr.zionko"
+    fullname: >-
+      Zion Ko Lamm
+    bio: >-
+      👩🏻‍⚕️𝔹𝕠𝕒𝕣𝕕-𝕔𝕖𝕣𝕥𝕚𝕗𝕚𝕖𝕕 𝕀𝕟𝕥𝕖𝕣𝕟𝕒𝕝 𝕄𝕖𝕕𝕚𝕔𝕚𝕟𝕖 🇰🇷<Korean> 𝐒𝐤𝐢𝐧𝐜𝐚𝐫𝐞 x Holistic Wellness x Gut health 📚Featured @vogue @shape @allure ✨ @zionkolamm
+    location: "South Korea"
+    followers: 640507
+    engagement: 74
+    commentsToLikes: 0.043371
+    id: cl5m5m9dyart10i238p8gsnai
+    verified: false
+    hashtags: "#koreanskincareroutine, #aginggracefully, #skincareroutine, #koreanskincare"
   - username: "today_so2"
     fullname: >-
       운동하는 간호사 | 소이 🍑
@@ -102,7 +114,7 @@ profiles:
     commentsToLikes: 0.040343
     id: ck55muis24u7c0i11qh6vbytw
     verified: false
-    hashtags: "#love, #puertorico, #model, #health"
+    hashtags: "#puertorico, #health, #model, #love"
   - username: "racoonamatata_busan"
     fullname: >-
       RACCOON CAFE🐾 RACOONAMATATA🦝🤎
@@ -115,16 +127,4 @@ profiles:
     id: ckaoszqc8tq8n0i781hj6v1zw
     verified: false
     hashtags: "#raccoon, #instaday, #tour, #likesforlike"
-  - username: "kashi_healthy_life"
-    fullname: >-
-      댕댕서진, 결혼 5년차 "운동이 젤 죠앙"
-    bio: >-
-      🇰🇷 166cm 53kg 20 Bikini 🏆×1 🥇×3 🥈×3 NABBA Classic model PDQ INBA Bikini Pro @f45_pangyo BA🤟🏽 @proteingift_official @barebells.korea #랑콤 #멜키너1기 #루이너스2기
-    location: "South Korea"
-    followers: 32439
-    engagement: 425
-    commentsToLikes: 0.054419
-    id: ck5cjajjcubvj0i11lqx2z76a
-    verified: false
-    hashtags: "#f45training, #f45hannam, #f45, #lifechanging"
 ---

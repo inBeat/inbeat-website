@@ -1,12 +1,48 @@
 ---
-title: Top 10 Cinema Instagram Influencers In Spain In 2023
+title: Top 10 Cinema Instagram Influencers In Spain In 2024
 description: >-
-  Find top cinema Instagram influencers in Spain in 2023. Most popular hashtags: #streetphotography #nowherediary #thinkverylittle.
+  Find top cinema Instagram influencers in Spain in 2024. Most popular hashtags: #travel #love #photography.
 platform: Instagram
-hits: 129
-text_top: See the most popular Instagram influencers on inBeat.
-text_bottom: inBeat has 129 Instagram influencers like this in Spain for you to work with.
+hits: 154
+text_top: Identify the most popular Instagram accounts on inBeat.
+text_bottom: Our search engine aggregates 154 Instagram influencers like this in Spain for you to contact.
 profiles:
+  - username: "aaroncobos"
+    fullname: >-
+      Aaron Cobos
+    bio: >-
+      @godspellelmusicaloficial @achoruslineesp @intheheightsbroadway… 🫂A.Banderas y E.Aragón. 📩aaron@aaroncobos.com 🎞TV💡THEATRE 📽️ CINEMA 🎬 📍Madrid, Spain
+    location: "Spain"
+    followers: 21150
+    engagement: 557
+    commentsToLikes: 0.042449
+    id: ck6u9crkqwswy0j71lf8dcmh2
+    verified: false
+    hashtags: "#love, #amor, #hotelaxelmadrid, #instagram"
+  - username: "alice_llenas"
+    fullname: >-
+      Alice Llenas
+    bio: >-
+      Founder @lemondads Cinéma AS TALENTS @urbanmodelmgmt @le_troch alicellenas@gmail.com
+    location: "Spain"
+    followers: 37468
+    engagement: 213
+    commentsToLikes: 0.014118
+    id: ck9wg1dsorgou0j78en3ml6w1
+    verified: false
+    hashtags: "#pullandbearcommunity, #whenyouwearfp, #mangocommunity, #bershkastyle"
+  - username: "depontearnaud"
+    fullname: >-
+      Arnaud de Ponte
+    bio: >-
+      cinema. travel. menswear. lifestyle. Paris. contact : depontearnaud@gmail.com Certifié influence responsable par l’ARPP
+    location: "Spain"
+    followers: 38210
+    engagement: 77
+    commentsToLikes: 0.021434
+    id: ck13ci3n80gj00i19ey6cjm1t
+    verified: false
+    hashtags: "#concours, #film, #voyage, #travel"
   - username: "pattri.lc"
     fullname: >-
       P A T R I C I A   L Ó P E Z
@@ -18,7 +54,7 @@ profiles:
     commentsToLikes: 0.090978
     id: ck9hc6zevk1ak0j78buqmc3z5
     verified: false
-    hashtags: "#landscape, #nature, #shein, #selfie"
+    hashtags: "#tbt, #travel, #shein, #ootd"
   - username: "jorgefuembuena"
     fullname: >-
       Jorge Fuembuena
@@ -78,7 +114,7 @@ profiles:
     commentsToLikes: 0.058954
     id: ck14jkwa7kuok0i19o8lcey6n
     verified: false
-    hashtags: "#artistlife, #irenecruz, #collectart, #fotografa"
+    hashtags: "#irenecruz, #fotografa, #artistlife, #hasselblad"
   - username: "davidolivas"
     fullname: >-
       David Olivas
@@ -91,40 +127,4 @@ profiles:
     id: ck6tjb5742d8f0j71jjfzc3m2
     verified: false
     hashtags: "#ama, #dondemejoreste, #dalepoderatusideas, #ad"
-  - username: "manuleonfotografia"
-    fullname: >-
-      M A N U • L E Ó N
-    bio: >-
-      #cinematographer (Asoc. AEC) ✨🎥 #Barcelona & #Sevilla 🗺 Dirección de fotografía #ESCAC
-    location: "Spain"
-    followers: 18902
-    engagement: 393
-    commentsToLikes: 0.029132
-    id: ck0w3i3hetixx0i19wbeu7thz
-    verified: false
-    hashtags: "#cinema, #dop, #indiependentmag, #thinkverylittle"
-  - username: "alessiosaveri"
-    fullname: >-
-      Alessio Saveri
-    bio: >-
-      Cinematographer (Escac) - Wild life & Landscape Currently📍: Barcelona Somos 💡: @sunhouse.media Have Camera, Will travel
-    location: "Spain"
-    followers: 18182
-    engagement: 366
-    commentsToLikes: 0.027493
-    id: ck136uhl68bow0i19hzaya834
-    verified: false
-    hashtags: "#streetphotography, #travelersnotebook, #visitscotland, #outdooradventures"
-  - username: "alexxelafilms"
-    fullname: >-
-      Alex Xela
-    bio: >-
-      Founder @somosestudio_ 📽Cinematographer 📸Photographer Grupo quedada
-    location: "Spain"
-    followers: 16020
-    engagement: 281
-    commentsToLikes: 0.091310
-    id: ck5cc76rngu5n0i11mh3za44e
-    verified: false
-    hashtags: "#axsoloencasa, #argentina, #comuna13, #sonyalpha"
 ---

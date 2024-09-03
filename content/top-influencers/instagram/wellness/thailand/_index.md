@@ -1,12 +1,24 @@
 ---
-title: Top 10 Wellness Instagram Influencers In Thailand In 2023
+title: Top 10 Wellness Instagram Influencers In Thailand In 2024
 description: >-
-  Find top wellness Instagram influencers in Thailand in 2023. Most popular hashtags: #wellness #fitness #love.
+  Find top wellness Instagram influencers in Thailand in 2024. Most popular hashtags: #fitness #wellness #vacation.
 platform: Instagram
-hits: 8
+hits: 12
 text_top: Identify the most popular Instagram influencers on inBeat.
-text_bottom: Our database holds 8 Instagram influencers like this in Thailand for you to pitch.
+text_bottom: Our platform has 12 Instagram influencers like this in Thailand for you to collaborate.
 profiles:
+  - username: "mt.matew"
+    fullname: >-
+      𝕄 𝔸 𝕋 𝔼 𝕎 𝟡 𝟛. 🦋
+    bio: >-
+      lifestyle & wellness co-founder @gelavo.co content creator @themessykitchenmt 📩 dm or mt.matew@gmail.com
+    location: "Thailand"
+    followers: 86217
+    engagement: 114
+    commentsToLikes: 0.015780
+    id: ckap4e1o56xzx0i78j4irdggs
+    verified: false
+    hashtags: "#gympartners, #fitness, #bestie, #gymbesties"
   - username: "chalisaviravan"
     fullname: >-
       Chalisa Viravan
@@ -31,6 +43,18 @@ profiles:
     id: ck0vx5ywdxb400i19fh524rv5
     verified: false
     hashtags: "#bodyweight, #wellness, #healthylifestyle, #workoutmotivation"
+  - username: "forkwithadrian"
+    fullname: >-
+      Adrian Ma
+    bio: >-
+      🥃Hong Kong / Bangkok Drinker ⌚️Watches & Spirits 🍷Wine & Lifestyle 🍾@thewineting 🔌 contactwithadrian@gmail.com #ForkwithAdrian
+    location: "Thailand"
+    followers: 77958
+    engagement: 5
+    commentsToLikes: 0.004762
+    id: ckap7ecvbjpkn0i78bzgmg43f
+    verified: false
+    hashtags: "#hellocurious, #sevenmarinephuket, #innsidebangkoksukhumvit, #staycurious"
   - username: "peterps2"
     fullname: >-
       peter donn ps 🏆
@@ -54,7 +78,7 @@ profiles:
     commentsToLikes: 0.049905
     id: ck6u4ywq16lic0j71iwj1isiq
     verified: false
-    hashtags: "#nikewomen, #portland, #health, #fitness"
+    hashtags: "#health, #portland, #nikewomen, #wellness"
   - username: "lilynawiya"
     fullname: >-
       LILYNAWIYA
@@ -90,7 +114,7 @@ profiles:
     commentsToLikes: 0.028435
     id: ck136hps96k5t0i19xdk33rg5
     verified: false
-    hashtags: "#realdj, #realdjing, #club, #clubbing"
+    hashtags: "#club, #leto, #vacation, #beach"
   - username: "mo_z1lla"
     fullname: >-
       MAURICE

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Fashion Instagram Influencers In South Korea In 2023
+title: Top 10 Fashion Instagram Influencers In South Korea In 2024
 description: >-
-  Find top fashion Instagram influencers in South Korea in 2023. Most popular hashtags: #ootd #style #koreanstyle.
+  Find top fashion Instagram influencers in South Korea in 2024. Most popular hashtags: #makeup #beauty #illustrator.
 platform: Instagram
-hits: 190
-text_top: See the most popular Instagram profiles on inBeat.
-text_bottom: inBeat aggregates 190 Instagram influencers like this in South Korea for you to connect with.
+hits: 201
+text_top: See the best Instagram influencers on inBeat.
+text_bottom: Our search engine has 201 Instagram influencers like this in South Korea for you to pitch.
 profiles:
-  - username: "easy__bear"
+  - username: "celinelingye"
     fullname: >-
-      민쥬/1994
+      Celine Ng
     bio: >-
-      Fashion Influencer🦋 ✨Konkuk Graduate School✨ 🇨🇳-->🇰🇷 ♡愛 @lee0920min 小红书🍠敏珠
+      ♡ fashion | travel | lifestyle 𐙚₊ freelance model / talent 📍KUL (*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ
     location: "South Korea"
-    followers: 16166
-    engagement: 546
-    commentsToLikes: 0.135752
-    id: ck5qcm5axr92x0i11gt6ivd7e
+    followers: 16138
+    engagement: 377
+    commentsToLikes: 0.016206
+    id: ck0vz39kw72nk0i197i8xabyc
     verified: false
-    hashtags: "#leyer, #kappa, #taste, #20"
-  - username: "sojuinyourheart"
+    hashtags: "#thrift, #outfitideas, #thrifting, #outfitpost"
+  - username: "jaesukkim"
     fullname: >-
-      sojuinyourheart
+      Illustrating Susu Girls
     bio: >-
-      🌸Korean fashion
+      SEOUL/SINGAPORE/SYDNEY-BASED FASHION ILLUSTRATOR, CONTENT & ART DIRECTOR - In 🇰🇷 📧: jskillustration@gmail.com
     location: "South Korea"
-    followers: 75824
-    engagement: 822
-    commentsToLikes: 0.008223
-    id: ck6tuyhhij5bn0j71qut2o2r5
-    verified: false
-    hashtags: ""
-  - username: "99_juback"
+    followers: 355418
+    engagement: 360
+    commentsToLikes: 0.018258
+    id: ck0tyw94xobs50i199wiue7gl
+    verified: true
+    hashtags: "#fashionillustrated, #beauty, #fashionillustration, #susugirls"
+  - username: "queenarths"
     fullname: >-
-      박주연
+      queen hyuarthasea balkies ✿
     bio: >-
-      Ambassador | @mixxo_korea fashion Columnist | @kakao1boon Fitting model _ contact dm
+      fashion, beauty & life diary 💌 @lovartha.id brand/campaign : +62 811-1221-936 (dina) olshops : +62 813-6659-8705 / DM
     location: "South Korea"
-    followers: 4649
-    engagement: 1747
-    commentsToLikes: 0.056076
-    id: ck15rf72x7mui0i19jx6qf2x9
+    followers: 154351
+    engagement: 279
+    commentsToLikes: 0.013540
+    id: ckaovglph4jrr0i78wig4kcbh
     verified: false
-    hashtags: "#cafe, #coffee"
-  - username: "gngz_kvn_sky"
+    hashtags: "#queenyinseoul, #dumps, #rayabersamauv"
+  - username: "bad__yoyo"
     fullname: >-
-      강건 KangKun 姜乾
+      YOYO
     bio: >-
-      @gangzo_official HONGIK UNIV. FASHION DESIGN
+      Beauty | Fashion | Wellness
     location: "South Korea"
-    followers: 8272
-    engagement: 1011
-    commentsToLikes: 0.029370
-    id: ck8tdavwv2m0w0j785bc2z436
+    followers: 72870
+    engagement: 114
+    commentsToLikes: 0.011272
+    id: ck5zns74np1yt0i145d4yw223
     verified: false
-    hashtags: ""
-  - username: "rosetea.kr"
+    hashtags: "#dazedayztrip, #premiervillagephuquocresort, #dazedayz, #15"
+  - username: "bonnygirl_"
     fullname: >-
-      Korean Fashion 🇰🇷
+      보니
     bio: >-
-      Daily Korean Fashion pics <3 Pics not owned by us Dm for credit/removal 💞
+      #beauty #fashion #lifestyle mirang1227@naver.com or dm
     location: "South Korea"
-    followers: 12962
-    engagement: 1884
-    commentsToLikes: 0.004770
-    id: ckf5mol4mus1m0j231ctztm5v
+    followers: 74909
+    engagement: 109
+    commentsToLikes: 0.014991
+    id: ck14jz747mwrw0i19i4uvr5lh
     verified: false
-    hashtags: ""
-  - username: "hyeggossi"
-    fullname: >-
-      ᴊᴊɪɴsᴛᴀɢʀᴀᴍ___
-    bio: >-
-      - contact : dm or e-mail - iphone  - daily, cafe, beauty, fashion
-    location: "South Korea"
-    followers: 61426
-    engagement: 225
-    commentsToLikes: 0.026860
-    id: ck55ncv825xwr0i117er3etft
-    verified: false
-    hashtags: "#onitsuka, #onitsukatiger, #1460, #baskinrobbins"
-  - username: "sangvely_luv"
-    fullname: >-
-      Sang Ah(Model)
-    bio: >-
-      Beauty•fashion Model&Showhost 촬영•라이브 방송 문의 DM💌 코멜리르 주얼리👇🏻
-    location: "South Korea"
-    followers: 173910
-    engagement: 149
-    commentsToLikes: 0.025908
-    id: ck13bwm6yxhod0i19sb3kez1o
-    verified: false
-    hashtags: "#dyson, #lancome, #comelile, #ahc"
-  - username: "iamladymandy"
-    fullname: >-
-      Lady Mandy
-    bio: >-
-      Style artist: Personal |fashion Stylist |Fashion pop culture | #theladystyles Subscribe to my new cooking show with Mr O 😇😇👇🏾
-    location: "South Korea"
-    followers: 45280
-    engagement: 510
-    commentsToLikes: 0.010469
-    id: ck5zs65pyxwjj0i14lr32x9jn
-    verified: false
-    hashtags: "#bodylove, #turbantuesday, #theladystyles, #igkenya"
-  - username: "jiyoungkim6364"
-    fullname: >-
-      Jiyoung Kim
-    bio: >-
-      Fashion Director Former <Vogue Korea> Digital Director Contact: jiyoung6364@gmail.com
-    location: "South Korea"
-    followers: 62347
-    engagement: 137
-    commentsToLikes: 0.030066
-    id: ck0ub7zv2dx5l0i19fzgjqf0x
-    verified: false
-    hashtags: "#kilianparis, #magazine, #shinsegae, #ganniloveforever"
+    hashtags: "#ott, #gladgangnamcoexcenter, #hotelinseoul, #hotelingangnam"
   - username: "hsh_91"
     fullname: >-
       Hwang Seung Ho
     bio: >-
-      😍 #Fashion / #camping / #interior 📩 hsh__91@naver.com 💻 blog.naver.com/hsh__91 ⛺️ @camper.hsh
+      😍 #Fashion / #camping / #whisky / #interior 📩 hsh__91@naver.com ⛺️ @camper.hsh
     location: "South Korea"
-    followers: 53945
-    engagement: 179
-    commentsToLikes: 0.025713
+    followers: 74648
+    engagement: 99
+    commentsToLikes: 0.015350
     id: ckapc211n25zd0i78hlujl6gb
     verified: false
-    hashtags: "#hausdosan, #manon, #ecruloy, #palzileri"
+    hashtags: "#meetdenmark, #dailylook, #lg, #fold4"
+  - username: "yayazahir"
+    fullname: >-
+      Yaya
+    bio: >-
+      Sometimes I do fashion & beauty contents, Weekly I host for TV, but Most of the time I create @asly.official
+    location: "South Korea"
+    followers: 278280
+    engagement: 95
+    commentsToLikes: 0.015480
+    id: ck0w5fnbs3evv0i1976stu68d
+    verified: true
+    hashtags: "#gentlemonsterxjennie, #makeupdecodedmy, #makeupdecoded, #makeup"
+  - username: "gyuri_pp"
+    fullname: >-
+      GYURI PARK 박규리
+    bio: >-
+      Travel / Fashion / Life work @xxuri_style gyuripp59@gmail.com
+    location: "South Korea"
+    followers: 61942
+    engagement: 46
+    commentsToLikes: 0.008299
+    id: ck5zns8nfp21b0i14893ercj0
+    verified: false
+    hashtags: "#wpremiere, #dolcegabbana, #whatsinmymarc, #pony"
+  - username: "sontaeyoung_official"
+    fullname: >-
+      Son taeyoung 손태영(actress)
+    bio: >-
+      #lifestyle#fashion #show#actress #model#instadaily#ootd#mom#newjersey#newyork#DM(X)
+    location: "South Korea"
+    followers: 192943
+    engagement: 46
+    commentsToLikes: 0.006099
+    id: ckapcao1d31wn0i78519a6pge
+    verified: true
+    hashtags: "#llmu, #davidhkochtheater, #youtube, #ai"
+  - username: "jiyoungkim6364"
+    fullname: >-
+      김지영
+    bio: >-
+      Lifestyle Creator Living in Art, Fashion & Love Former <Vogue Korea> Digital Director Contact: jiyoung6364@gmail.com 📍Seoul, Korea
+    location: "South Korea"
+    followers: 108035
+    engagement: 42
+    commentsToLikes: 0.009142
+    id: ck0ub7zv2dx5l0i19fzgjqf0x
+    verified: false
+    hashtags: "#panachefine, #thecreamthatworks, #augustinusbader, #ab"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Guitar Instagram Influencers In 2023
+title: Top 10 Guitar Instagram Influencers In 2024
 description: >-
-  Find top guitar Instagram influencers in 2023. Most popular hashtags: #acousticguitar #guitar #guitarist.
+  Find top guitar Instagram influencers in 2024. Most popular hashtags: #guitar #guitarist #vintageguitar.
 platform: Instagram
-hits: 6629
-text_top: Discover the most popular Instagram accounts on inBeat.
-text_bottom: Our search engine holds 6629 Instagram influencers like this for you to collaborate.
+hits: 6789
+text_top: See the best Instagram influencers on inBeat.
+text_bottom: Our search engine aggregates 6789 Instagram influencers like this for you to connect with.
 profiles:
   - username: "guitar"
     fullname: >-
@@ -18,113 +18,113 @@ profiles:
     commentsToLikes: 0.009632
     id: ck14gpbir6de50i190u5jemgs
     verified: false
-    hashtags: "#guitar, #fender, #guitarvideo, #guitars"
-  - username: "hannahmurphyguitar"
+    hashtags: "#gibson, #vintageguitar, #guitar, #acousticguitar"
+  - username: "hallie.amc"
     fullname: >-
-      Hannah Murphy
+      Hallie McClain
     bio: >-
-      Classical guitarist based in New York City🗽 @AugustineStrings Artist @ExAequo Co-founder
+      📍Charleston, SC Author, Guitarist, & Traveler 🌊🦋🌻/🖤/🎀🤍💫 Email for business inquiries
     location: "United States"
-    followers: 150984
-    engagement: 340
-    commentsToLikes: 0.022868
-    id: ck134h49qwe2s0i19nn8mqfed
+    followers: 83637
+    engagement: 515
+    commentsToLikes: 0.053201
+    id: ck5ckmh7jx6bp0i11s63q47yj
     verified: false
-    hashtags: "#classicalguitar, #guitarplayer, #guitarist, #classicalmusic"
-  - username: "evantaucher"
+    hashtags: "#bikini, #bikinigirl, #summer, #fitness"
+  - username: "andreagcguitar"
     fullname: >-
-      Evan Taucher
+      Andrea Gonzalez Caballero
     bio: >-
-      Sharing my classical guitar journey. Co-Founder | @ExAequo @DAddarioandCo Artist Austin, TX Lessons, links, and website below 👇
+      New York concert, Sept 23th🎶 Guitarist - - - - 📧Contact: info@andreagonzalezcaballero.com
     location: "United States"
-    followers: 46492
-    engagement: 316
-    commentsToLikes: 0.019186
-    id: ck14lalbitomx0i19gnjvcg0l
+    followers: 41283
+    engagement: 416
+    commentsToLikes: 0.023851
+    id: ck14lakiutoj60i193uoncqyk
     verified: false
-    hashtags: "#classicalguitar, #guitarra, #guitarlesson, #music"
-  - username: "bobtyrrell"
+    hashtags: "#australiantour, #newmusic, #spanishguitar, #euskaraz"
+  - username: "kikiwongo"
     fullname: >-
-      Bob Tyrrell
+      KIKI WONG
     bio: >-
-      DETROIT ROCK CITY Tattooing since 1997 For appointments - e-mail bob@bobtyrrell.com Guitarist for About Kings, Upside DOWN and Nativity In Black
+      🤘🏼Shrednanigans 📘 Author “30-Day Travel Challenge” 🎸 Guitarist @vigilofwar 👾 Sober AF 📍LA - Phoenix ✨ this is my ONLY account ⬇️ Support
     location: "United States"
-    followers: 313297
-    engagement: 36
-    commentsToLikes: 0.017070
-    id: ckt0v2nedq4c10j238k7340ep
+    followers: 655250
+    engagement: 419
+    commentsToLikes: 0.017878
+    id: ck13af6arq3je0i190kg39ox8
     verified: false
-    hashtags: "#intenze, #bobtyrrell, #blackandgraytattoo, #intenzebobtyrrelladvancedblackandgreyset"
-  - username: "khashayar_jozi"
+    hashtags: "#barbiegirl, #guitar, #snapchallenge, #metal"
+  - username: "babakaminiofficial"
     fullname: >-
-      Khashayar jozi
+      Babak Amini
     bio: >-
-      Guitarist Songwriter Singer
-    location: "Iran"
-    followers: 18700
-    engagement: 1894
-    commentsToLikes: 0.076892
-    id: ck0w6ipfe8r0s0i19kg3b3nn2
-    verified: false
-    hashtags: "#khashayarjozi, #telecaster, #fender, #pop"
-  - username: "jewels_1022"
+      Composer, Band leader, Guitar player, I have my Guitar line: Babak Amini Signature Guitar by master luthier Felipe Conde. Yamaha Artist.⚛️
+    location: "Canada"
+    followers: 369624
+    engagement: 423
+    commentsToLikes: 0.023511
+    id: ck0txailiihj90i19nqnlozxf
+    verified: true
+    hashtags: "#event, #persian, #downtownottawa, #jazzfm"
+  - username: "mateusasato"
     fullname: >-
-      Julie
+      Mateus Asato
     bio: >-
-      “Sing a song, play guitar, make it snappy...” 🎶🎵🎸
+      • i started making these guitar videos here when the shape was square & 15 seconds only • signature with suhr guitars & neural dsp • @masatofilm
     location: "United States"
-    followers: 29013
-    engagement: 757
-    commentsToLikes: 0.074414
-    id: ck0tvbjdtapgw0i19704hzdi9
-    verified: false
-    hashtags: "#rockband, #thatvoice, #rockmusic, #folkrock"
-  - username: "deleogt"
+    followers: 1498222
+    engagement: 687
+    commentsToLikes: 0.016372
+    id: ck0u6764p12p20i193duh5acw
+    verified: true
+    hashtags: "#racerx, #cathedralsong, #dontdreamitsover"
+  - username: "diegoleanza"
     fullname: >-
-      
+      Diego Leanza
     bio: >-
-      ✖️ guitarrista | @moradaoficial ✖️ CEO at @ggnexusbr ✖️ Pai do biel e marido da dea “deleo masterclass” ⬇️
-    location: "Brazil"
-    followers: 72420
-    engagement: 961
-    commentsToLikes: 0.067540
-    id: ck6016uxwey4a0i14o16qpf8z
-    verified: false
-    hashtags: ""
-  - username: "experience_jimi"
-    fullname: >-
-      experience_jimi
-    bio: >-
-      I love music ... rock .... blues ... hard .... heavy ....art.... and the #guitar ...🎸🇮🇹 Carlo 😎🎸♊
-    location: "United States"
-    followers: 15364
-    engagement: 1054
-    commentsToLikes: 0.065347
-    id: ck0w622b46jpz0i19nnykqx1o
-    verified: false
-    hashtags: "#jimihendrix, #joesatriani, #rock, #blues"
-  - username: "nickhipa"
-    fullname: >-
-      Nick Hipa
-    bio: >-
-      Pretty Deece Dude Guitarist Motion Designer
-    location: "France"
-    followers: 29963
-    engagement: 1246
-    commentsToLikes: 0.048663
-    id: ck0w37lmyrzhe0i193inphxxk
-    verified: false
-    hashtags: ""
-  - username: "nixenomorph"
-    fullname: >-
-      Martina Nixe Riva 🎸
-    bio: >-
-      Guitar Player from Italy! 🇮🇹 Killin’ it in @killinbaudelaire 🎸 New cover ⬇️
+      Guitarist / Singer / Producer / Session Man Music 👇
     location: "Italy"
-    followers: 20621
-    engagement: 1282
-    commentsToLikes: 0.056935
-    id: ck8syt1rplwcv0j78q6yo4n1p
+    followers: 76410
+    engagement: 417
+    commentsToLikes: 0.029970
+    id: ckap3ozg53xeh0i78k0ay7lht
     verified: false
-    hashtags: "#femaleguitarist, #guitargirl, #femalemusician, #guitarlove"
+    hashtags: "#guitarlife, #guitarplayer, #chitarra, #bluesrock"
+  - username: "_micklas_"
+    fullname: >-
+      Michael Glashauser
+    bio: >-
+      European | Landscapes | Family | Guitar | Sports | Hotels 🏡 | Bavaria @markt_essing 📭 | collab&training 🌍 | 39/194 ™️ | @_micklastravels_ 📷 | mine ©
+    location: "Germany"
+    followers: 110455
+    engagement: 567
+    commentsToLikes: 0.221686
+    id: ckapcf53a3k780i78ciu2wlpb
+    verified: false
+    hashtags: "#sonnenuntergang, #gewinnspiel, #mahsaamini, #micklas"
+  - username: "michael_wagner_guitar"
+    fullname: >-
+      Michael Wagner
+    bio: >-
+      guitarist | @jtc_guitar artist | Mannheim, Munich 👉🏻 DM for recording, gigs & online lessons
+    location: "Germany"
+    followers: 14377
+    engagement: 1596
+    commentsToLikes: 0.041802
+    id: ck0vvero0otak0i19ag42akxa
+    verified: false
+    hashtags: "#guitartone, #klotzcables, #gibsonguitars, #fender"
+  - username: "thew6rst"
+    fullname: >-
+      W6RST
+    bio: >-
+      @polyphia Guitarist of America’s Band
+    location: "United States"
+    followers: 774019
+    engagement: 1214
+    commentsToLikes: 0.008127
+    id: ck0tzseuwrfmt0i192vlday9p
+    verified: true
+    hashtags: "#sponsoredbyht, #fitxhottopic"
 ---

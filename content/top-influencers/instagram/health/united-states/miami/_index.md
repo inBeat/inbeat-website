@@ -1,12 +1,24 @@
 ---
-title: Top 10 Health Instagram Influencers In Miami In 2023
+title: Top 10 Health Instagram Influencers In Miami In 2024
 description: >-
-  Find top health Instagram influencers in Miami in 2023. Most popular hashtags: #health #motivation #miami #wellness.
+  Find top health Instagram influencers in Miami in 2024. Most popular hashtags: #miami #health #fitness #workout.
 platform: Instagram
-hits: 312
-text_top: Discover the top-rated Instagram profiles on inBeat.
-text_bottom: Our platform has 312 Instagram influencers like this in Miami, United States for you to collaborate.
+hits: 388
+text_top: Identify the top-rated Instagram influencers on inBeat.
+text_bottom: Our database holds 388 Instagram influencers like this in Miami, United States for you to collaborate.
 profiles:
+  - username: "lin.health"
+    fullname: >-
+      Lindsey
+    bio: >-
+      REGISTERED DIETITIAN | Recreational Runner 🌱fitness, food, insights women’s health Miami, FL •📧 lin.healthRD@gmail.com
+    location: "United States"
+    followers: 44206
+    engagement: 158
+    commentsToLikes: 0.048771
+    id: ck8t1zfyvxnvb0j78jmyqlwcd
+    verified: false
+    hashtags: "#runmiami, #runspiration, #runnerswholift, #runningdog"
   - username: "willina.rodriguez"
     fullname: >-
       🦋𝙞𝙡𝙡𝙞𝙣𝙖 𝙍𝙤𝙙𝙧𝙞𝙜𝙪𝙚𝙯 👑𝙈𝙤𝙙𝙚𝙡💋
@@ -19,42 +31,18 @@ profiles:
     id: ck5hi5jzabrc00i111iv9ajx8
     verified: false
     hashtags: "#miamiflorida, #model, #blackleather, #phillyphotography"
-  - username: "staceyervinjr"
+  - username: "mr.eats305"
     fullname: >-
-      Stacey Ervin Jr.
+      George Arango
     bio: >-
-      | Online Coach 💪🏽 | Gymnast 🇺🇸| | 1P Elite Athlete 💯 | #iAm1stPhorm 🗣| | Bus. Inquiries: info@currentsmgmt.com 📨| | My coaching, supplements, gear ⤵️|
+      🍴 Don’t Take A Bite Without Me 👌🏼 📩 Team@MrEats305.com 🪴 @hgmedia.co 🗺️ MIAMI FOOD MAP👇🏼
     location: "United States"
-    followers: 325794
-    engagement: 325
-    commentsToLikes: 0.013691
-    id: ck0tvjkrtbnaf0i19ww5ekdfp
-    verified: true
-    hashtags: "#challenge, #motivation, #health, #miami"
-  - username: "ohitspaoo"
-    fullname: >-
-      PAOLA LEIGH JARDINE
-    bio: >-
-      MIA📍 4.0 FIU Alumna: PR || Communications Venezuela | España For the first time, everything was inspiring. ☽
-    location: "United States"
-    followers: 3624
-    engagement: 1667
-    commentsToLikes: 0.090781
-    id: ck5q72e2vzq4i0i11p6tv2yji
+    followers: 255610
+    engagement: 132
+    commentsToLikes: 0.049849
+    id: ck0txc4agiopo0i19oofqzvbr
     verified: false
-    hashtags: "#happiness, #vegan, #beach, #livingmybestlife"
-  - username: "tyseemarie"
-    fullname: >-
-      OOTD💗 FASHION LIFESTYLE TRAVEL
-    bio: >-
-      Sagittarius baby 🦋 Tysee 75+ Countries ✈️ TikTok: Tyseemarie Free spirit x Can’t catch me🤍
-    location: "United States"
-    followers: 94225
-    engagement: 33
-    commentsToLikes: 0.249489
-    id: ck14j3sefihlo0i19pl11lb8y
-    verified: false
-    hashtags: "#bodygoals, #mood, #fit, #summerdays"
+    hashtags: "#inthekitchenwith, #broward, #bestofmiami, #coralgables"
   - username: "bfitbyj"
     fullname: >-
       Julian Arana
@@ -67,18 +55,6 @@ profiles:
     id: ck5bzxm2ks1840i11n3ftg5z0
     verified: false
     hashtags: "#strength, #training, #hiit, #dogsofinstagram"
-  - username: "jakegoodmanmd"
-    fullname: >-
-      Jake Goodman | MD, MBA
-    bio: >-
-      Resident Physician - Psychiatry I fight for mental health & inspire future docs TikTok (1.2M+) Press & Business ⬇️ *views are always my own
-    location: "United States"
-    followers: 237650
-    engagement: 963
-    commentsToLikes: 0.040885
-    id: ck8wghutnhe9p0j78008uv6ez
-    verified: false
-    hashtags: "#healthcare, #medschool, #doctor, #medicine"
   - username: "danilapao"
     fullname: >-
       Danila Bp
@@ -91,40 +67,64 @@ profiles:
     id: ck9hcjpi9lqbx0j78vhlm2sc9
     verified: false
     hashtags: "#training, #strong, #entrenamiento, #yotenetreno"
-  - username: "salt.n.peppah"
+  - username: "xtremebodytransformations"
     fullname: >-
-      Nikki Pepper: Health Coaching
+      Duilio Aicardi
     bio: >-
-      I help boss babes tone up & build a healthy relationship w food so they can feel confident in their bodies w/o endless workouts or restrictive diets.
+      ELITE FITNESS COACH CEO @xbt_calisthenics Gym Personal Training & Online Coaching 👇🏼 Apply for Training👇🏼
     location: "United States"
-    followers: 11263
-    engagement: 156
-    commentsToLikes: 0.082129
-    id: ck5pvsynvjhdm0i11oxg8ovsn
+    followers: 21042
+    engagement: 322
+    commentsToLikes: 0.048660
+    id: ck9h9uj0la0hz0j78iwnkm0mj
     verified: false
-    hashtags: "#weightlosstransformation, #wellness, #miamibeachreiki, #lyfewithnikki"
-  - username: "_gifted_handzvip"
+    hashtags: "#results, #greeneyes, #picoftheday, #mylife"
+  - username: "susie290783"
     fullname: >-
-      Pro Grooming
+      Susie Bachar
     bio: >-
-      Business Consultant Movie Director 🎬 GSU Alum 🎓 CEO of “Gifted Handz VIP” ⚜️La. 🛫 HTX📍 U.S. Air Force Veteran ⬇️ Products, Courses, Services ⬇️
+      Justthe3ofUs 💁🏻‍♂️💁🏻‍♀️👦 Travel | Family | Lifestyle | Fashion ✈️ Married life with a hint of humor Plant based 🌱 Trilingual 🏠South Florida 🌞🌴
     location: "United States"
-    followers: 21622
-    engagement: 92
-    commentsToLikes: 0.022672
-    id: ck5cl4k5ky8fv0i11hhkr69wc
+    followers: 54947
+    engagement: 559
+    commentsToLikes: 0.070666
+    id: ckn02l2u1mncl0j2358lo7dbc
     verified: false
-    hashtags: "#houstonbarbers, #redcarpetfresh, #phillybarber, #organic"
-  - username: "heelsinmaine"
+    hashtags: "#ad, #vegan, #travelgram, #travelwithkids"
+  - username: "girlwithnogluten_"
     fullname: >-
-      MARGOT ANSLEY LEGARE
+      
     bio: >-
-      mom. fashion. lifestyle art & music. heels in maine c.2006 collaborate 💌: margotansley@gmail.com
+      💁🏻‍♀️ Nicole Urban 👄 i review products so you don’t have to 📍 SoFlo • NYC 💗 all gluten and tree nut free 💌 girlwithnogluten@gmail.com 📸 @nicurbs
     location: "United States"
-    followers: 18429
-    engagement: 71
-    commentsToLikes: 0.132382
-    id: ckap04fqkop1e0i78sul6323y
+    followers: 14473
+    engagement: 157
+    commentsToLikes: 0.061229
+    id: ckmw1hkeh85ky0j23q1jgu5s9
     verified: false
-    hashtags: "#fashion, #maine, #happybirthday, #portlandmaine"
+    hashtags: "#girlwithnogluten, #miamifoodporn, #happyhour, #foryou"
+  - username: "dawsonmofficial"
+    fullname: >-
+      Dawson
+    bio: >-
+      21 Years Old | AZ 📍 Owner @elucidskincare @ryse_supps | @bossbears.co | @rawgear All Socials, Supps & Coaching👇
+    location: "United States"
+    followers: 165300
+    engagement: 743
+    commentsToLikes: 0.040885
+    id: ck5q6rz32ym0z0i11fubgsdr2
+    verified: false
+    hashtags: "#fun, #back, #fitnessmodel, #muscle"
+  - username: "calumwinsor"
+    fullname: >-
+      Calum Winsor 🇦🇺🇺🇸
+    bio: >-
+      CALUM WINSOR #CaptainAustralia 🇦🇺 T1 Diabetic #sometimesmodels
+    location: "United States"
+    followers: 72622
+    engagement: 324
+    commentsToLikes: 0.039535
+    id: ck6tlj2g8631m0j71qnd56bhq
+    verified: false
+    hashtags: "#miami, #modeling, #calumwinsor, #tbt"
 ---

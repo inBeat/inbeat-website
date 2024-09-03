@@ -1,130 +1,118 @@
 ---
-title: Top 10 Architecture Instagram Influencers In Malaysia in 2023
+title: Top 10 Architecture Instagram Influencers In Malaysia In 2024
 description: >-
-  Find top architecture Instagram influencers in Malaysia in 2023. Most popular hashtags: #kualalumpur #architecture #malaysia #hellofrom.
+  Find top architecture Instagram influencers in Malaysia in 2024. Most popular hashtags: #malaysia #architecture #bedroomdesign #interiordesign.
 platform: Instagram
-hits: 16
-text_top: Discover the top-rated Instagram influencers on inBeat.
-text_bottom: inBeat aggregates 16 Instagram influencers like this in Malaysia for you to connect with.
+hits: 9
+text_top: See the best Instagram accounts on inBeat.
+text_bottom: Our database aggregates 9 Instagram influencers like this in Malaysia for you to work with.
 profiles:
-  - username: "_salt_ice_"
+  - username: "a.helmiy"
     fullname: >-
-      YEN BING  朱妍彬
+      Helmiy
     bio: >-
-      UCSI | Architecture student 00's | 🇲🇾 Live now. Worry later.🦋 Founder of @char.ming20 @jonchinnn 🙆🏻‍♂️
+      ⦿ Fitness | Travel | Urban Planner | Architecture | Nature 🌿 ⦿ Email or DM for Collab 📩
     location: "Malaysia"
-    followers: 75841
-    engagement: 734
-    commentsToLikes: 0.003167
-    id: ck5pxefv5rdvk0i1151eua2x3
+    followers: 30216
+    engagement: 379
+    commentsToLikes: 0.020575
+    id: ck0w5h7td3muv0i19xmzsjf0d
     verified: false
-    hashtags: "#nosugarydrinks, #spritzerminidispenser, #teamice, #spritzer7dayschallenge"
-  - username: "heartpatrick"
-    fullname: >-
-      Patrick | 心
-    bio: >-
-      🇲🇾 Kuala Lumpur 📸 Street | Architecture | Interior | Portraits 💌 hello@heartpatrick.com
-    location: "Malaysia"
-    followers: 66031
-    engagement: 463
-    commentsToLikes: 0.022206
-    id: ck0vzwit8b8hh0i193p0wua26
-    verified: false
-    hashtags: "#myyourshot, #livecolorfully, #droneshot, #streets"
+    hashtags: "#smile, #ootd, #model, #igers"
   - username: "harrisannuar"
     fullname: >-
       BANGKITBOTAK
     bio: >-
-      🥉2nd Runner Up Hero Remaja 2017 🎓Bachelor Of Science (Hons) Architecture 📩 harris@absolutmgmt.com 📞 0127180210 📺HarrisAnnuarTV 📦Order @harrisp.go⬇️
+      لا إله إلا الله محمد رسول الله🤲🏻 ❤️iLoveMyNonMuslimFriends 🎓BachelorOfScience(Hons)Architecture 📩 harrisannuar232@gmail.com
     location: "Malaysia"
-    followers: 882456
-    engagement: 340
-    commentsToLikes: 0.004496
+    followers: 934168
+    engagement: 171
+    commentsToLikes: 0.005479
     id: ck0w2dcrnnsdq0i19z6lewz8n
     verified: false
-    hashtags: "#jualankawkaw, #ulangtahun30, #bangkitbotak, #nagoyasale"
-  - username: "syzwn.baha"
+    hashtags: "#throat, #formegabusylives, #dequadincandy, #megarefreshing"
+  - username: "baeccalee"
     fullname: >-
-      Syazwan Baharuddin
+      Becca🦋
     bio: >-
-      Kuala Lumpur, Malaysia Urban | Street | Architecture ⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀
+      on-screen passion, off-screen magic interior architecture design @albesolutions art soul, wellness & growth-driven for work: beccalee.com@gmail.com
     location: "Malaysia"
-    followers: 3609
-    engagement: 633
-    commentsToLikes: 0.061326
-    id: ck14i7cmye06v0i19ci2wcslw
+    followers: 29440
+    engagement: 5
+    commentsToLikes: 0.002179
+    id: ck6u0dhuvf1zv0j71j6y4lla5
     verified: false
-    hashtags: "#sponsored, #galaxys20plus, #galaxynote20, #galaxys20"
-  - username: "aereonwong"
+    hashtags: "#hrdcorp, #lebihpintarlebihmahir, #ntw2024, #myntw"
+  - username: "_salt_ice_"
     fullname: >-
-      Aereon
+      CHU YEN BING  朱妍彬 🇲🇾
     bio: >-
-      📍Malaysia🇲🇾 ✨Content Creator✨ New to YouTube Channel. Tap the bio! ⌘ Travel ⌘ Adventure ⌘ Hiking 📸GoPro #AereonGoPro : Award 🏆 x 1 🚁Drone #AereonDrone
+      UCSI | Architecture 00's | Gemini Live now. Worry later.🦋 Founder of @char.ming20 @jonchinnn
     location: "Malaysia"
-    followers: 8108
-    engagement: 1400
-    commentsToLikes: 0.096541
-    id: ck13ann2er9rx0i19ld11i1w2
+    followers: 80209
+    engagement: 534
+    commentsToLikes: 0.004132
+    id: ck5pxefv5rdvk0i1151eua2x3
     verified: false
-    hashtags: "#upyourgame, #droneglobe, #mytwintowers, #malaysiatrulyasia"
-  - username: "yafiqyusman"
+    hashtags: "#staysafe, #stayhome, #cny, #die"
+  - username: "ayaaraffa"
     fullname: >-
-      Yafiq Yusman
+      Aya Arafa
     bio: >-
-      #TheYaisYafiqPicks Mobile photography Twin of @yaisyusman Creative | Based in Singapore 🇸🇬 Contact: yafiqyusman22@gmail.com
+      chaotic and unstable. I’m @fein.my
     location: "Malaysia"
-    followers: 76229
-    engagement: 303
-    commentsToLikes: 0.030309
-    id: ck14i7bh5e00m0i19l57so3it
+    followers: 341227
+    engagement: 542
+    commentsToLikes: 0.003507
+    id: ck5zu7unm1uij0i141eal8vig
     verified: false
-    hashtags: "#theyaisyafiqpicks, #handsinframe, #sony, #explorejogja"
-  - username: "ericwithmarriott"
+    hashtags: "#architecture, #curlyhair, #redhead, #3dtrend"
+  - username: "shafiqshaheen"
+    fullname: >-
+      shafiqshaheen
+    bio: >-
+      @syidamelvin @safasafeera @sarasajedda
+    location: "Malaysia"
+    followers: 51046
+    engagement: 2033
+    commentsToLikes: 0.010552
+    id: ck0u22er4yoyh0i1991pdhhzd
+    verified: false
+    hashtags: "#furniture, #toiletdesign, #investment, #mekah"
+  - username: "ericexploreshotels"
     fullname: >-
       Eʀɪᴄ (Rɪᴄᴋʏ) Cᴀʀᴛᴇʀ Hᴀʜ
     bio: >-
-      Music producer. Marriott Intl Hotels addict! Living the #marriottbonvoy life. Now posting Desaru, 🇲🇾. Next destination, Kuala Lumpur, 🇲🇾.
+      Music producer. Love exploring hotels and checking out what’s new. Now posting Penang, 🇲🇾. Next stop, Kuala Lumpur.
     location: "Malaysia"
-    followers: 26407
+    followers: 35229
     engagement: 106
-    commentsToLikes: 0.016647
+    commentsToLikes: 0.039450
     id: ck6tpt0rgmm9m0j71f2cv842j
     verified: false
-    hashtags: "#lifewelltravelled, #metime, #highspeedrail, #stregis"
-  - username: "greaterkualalumpur"
+    hashtags: "#luxuryhotelsworld, #kul, #suitelife, #oneworldalliance"
+  - username: "hedihonert"
     fullname: >-
-      Greater Kuala Lumpur
+      Hedi Honert
     bio: >-
-      Greater KL Development and Construction
+      Actress I Speaker I Berlin I ❤️travelling 🎬Agency:post@luxtalents.com 🎤Agency:www.wordpecker.de 📌ZDF Mediathek: „Die Bergretter-Was wirklich zählt“
     location: "Malaysia"
-    followers: 7441
-    engagement: 552
-    commentsToLikes: 0.009118
-    id: ck5hi4ni6bmsl0i11g6q2b20x
+    followers: 3015
+    engagement: 783
+    commentsToLikes: 0.035566
+    id: ck134d9wyvvs40i19sxhbmmxi
     verified: false
-    hashtags: "#greaterkl, #skyscrapers, #klproperty, #pnb"
-  - username: "a_maraschino"
+    hashtags: "#zdf, #marinabaysands, #movie, #break"
+  - username: "zalfazin"
     fullname: >-
-      alessia ferro maraschino®
+      eyfa 💜
     bio: >-
-      M A R A S C H I N O® N O S T A L G I A • L I F E____🖋 H U M A N B E I N G S • H U M A N P L A C E S
+      I'm actress ✌🏻🦋 Fans page @zalfazinfc Coming soon @zalfa_little_angel DM FOR IG REVIEW💜 HARD ROCK LOVER 🤙
     location: "Malaysia"
-    followers: 19122
-    engagement: 443
-    commentsToLikes: 0.010504
-    id: ck5zv4dh43ki50i149hkdj7m5
+    followers: 207271
+    engagement: 22
+    commentsToLikes: 0.024648
+    id: ck5c5k81d3mqz0i111hljw6p4
     verified: false
-    hashtags: "#bnw, #ig, #fromstreetswithlove, #streetclassics"
-  - username: "timmy727"
-    fullname: >-
-      Timmy Lo｜ Hong Kong
-    bio: >-
-      ティミー ｜ interior designer ｜📷 ✉️ timmy_727@hotmail.com 🍽 @eatwithtimmy
-    location: "Malaysia"
-    followers: 137382
-    engagement: 197
-    commentsToLikes: 0.022224
-    id: ck0w4ybc910ad0i1944o7eplf
-    verified: false
-    hashtags: "#tinytimmyinbigplaces, #lensbible, #theimaged, #watchthisinstagood"
+    hashtags: "#wakamalaysia, #smashrm26, #wakasmash, #wakamy"
 ---

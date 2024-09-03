@@ -1,11 +1,11 @@
 ---
-title: Top 10 Comedians TikTok Influencers In India In 2023
+title: Top 10 Comedians TikTok Influencers In India In 2024
 description: >-
-  Find top comedians TikTok influencers in India in 2023. Most popular hashtags: #foryou #comedy #tiktokindia #foryoupage.
+  Find top comedians TikTok influencers in India in 2024. Most popular hashtags: #foryou #comedy #tiktokindia #foryoupage.
 platform: TikTok
 hits: 192
-text_top: Discover the most popular TikTok profiles on inBeat.
-text_bottom: Our search engine holds 192 TikTok influencers like this in India for you to contact.
+text_top: Discover the top-rated TikTok profiles on inBeat.
+text_bottom: Our database has 192 TikTok influencers like this in India for you to pitch.
 profiles:
   - username: "zack.bro"
     fullname: >-

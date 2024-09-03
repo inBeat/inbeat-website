@@ -1,11 +1,11 @@
 ---
-title: Top 10 Food TikTok Influencers In Izmir In 2023
+title: Top 10 Food TikTok Influencers In Izmir In 2024
 description: >-
-  Find top food TikTok influencers in Izmir in 2023. Most popular hashtags: #food #yemek #tatl #fyp.
+  Find top food TikTok influencers in Izmir in 2024. Most popular hashtags: #food #yemek #fyp #ke.
 platform: TikTok
 hits: 4
-text_top: Discover the most popular TikTok influencers on inBeat.
-text_bottom: Our platform has 4 TikTok influencers like this in Izmir, Turkey for you to connect with.
+text_top: Analyze the most popular TikTok influencers on inBeat.
+text_bottom: Our platform has 4 TikTok influencers like this in Izmir, Turkey for you to pitch.
 profiles:
   - username: "kesfedenler_kulubu"
     fullname: >-

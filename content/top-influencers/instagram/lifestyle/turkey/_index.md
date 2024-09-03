@@ -1,130 +1,130 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Turkey In 2023
+title: Top 10 Lifestyle Instagram Influencers In Turkey In 2024
 description: >-
-  Find top lifestyle Instagram influencers in Turkey in 2023. Most popular hashtags: #travel #ig #outfitoftheday.
+  Find top lifestyle Instagram influencers in Turkey in 2024. Most popular hashtags: #reklam #ke #summer.
 platform: Instagram
-hits: 634
-text_top: Analyze the top-rated Instagram profiles on inBeat.
-text_bottom: Our database holds 634 Instagram influencers like this in Turkey for you to contact.
+hits: 628
+text_top: Analyze the most popular Instagram influencers on inBeat.
+text_bottom: Our database aggregates 628 Instagram influencers like this in Turkey for you to connect with.
 profiles:
-  - username: "monicaawidy"
+  - username: "hadleyogarro"
     fullname: >-
-      Monica Ayu W 📍 SIDOARJO
+      Hadley Ogarro
     bio: >-
-      ✨ Beauty | Food | Lifestyle 📱 Tiktok : monicaayuww 🧑‍💻 @nyehatpol | @selerakini 📣 business inq? Dm or 👇🏻 📩 monicaayuwidyani08@gmail.com
+      #InHadleyWeTrust 🌍 food, events, fits, lifestyle + travel 📧 hello@hadleyogarro.com 📍 london
     location: "Turkey"
-    followers: 4443
-    engagement: 864
-    commentsToLikes: 0.033954
-    id: ckf5mxv9rvuxm0j23k5swcw7u
+    followers: 15447
+    engagement: 835
+    commentsToLikes: 0.092943
+    id: clivee2x62kfo0j08i3hyv71x
     verified: false
-    hashtags: "#youngleaders, #matchamuhunters, #sepatucatscewek, #serumacne"
-  - username: "iamrxngh"
+    hashtags: "#celestyaljourney, #londonrestaurants, #celestyal, #wizzair"
+  - username: "gurkankacmazz"
     fullname: >-
-      R O X A N N A
+      Gürkan Kaçmaz
     bio: >-
-      Travel | Youtube | Lifestyle Mine💍 @sepy.ak Ad : @roxana.ads 📥
+      91119919111✨ Influencer | Marketing&Pr Travel | LifeStyle | Fashion Reklam ve İş birlikleri için 📩 gurkan@thepeggi.co @eventmag Private Club
     location: "Turkey"
-    followers: 2407735
-    engagement: 938
-    commentsToLikes: 0.013647
-    id: ck9wiyr0j4iob0j78bnmw90qi
+    followers: 107673
+    engagement: 416
+    commentsToLikes: 0.038907
+    id: ckf5ttxg6irk50j237na50dj0
     verified: false
-    hashtags: "#fashion, #explore, #love, #style"
-  - username: "gzonemag"
+    hashtags: "#reklam, #kesfet, #fashionstyle, #dubai"
+  - username: "saba"
     fullname: >-
-      GZONE MAGAZINE
+      Saba
     bio: >-
-      Türkiye'nin en sevilen gökkuşağı içerik ve eğlence markası.Turkey's favorite rainbow lifestyle/culture and entertainment brand
+      Fashion | Beauty | lifestyle
     location: "Turkey"
-    followers: 62114
-    engagement: 209
-    commentsToLikes: 0.033682
-    id: ck5q04qee48nw0i1113wvaiqw
+    followers: 477908
+    engagement: 717
+    commentsToLikes: 0.013948
+    id: ck5q60o0vvee60i11vu8hh70y
     verified: false
-    hashtags: "#lgbti, #lgbt, #gzone, #ourpride"
-  - username: "elvin"
+    hashtags: "#nophotoshop, #blackandwhite, #beautiful, #1990"
+  - username: "melisdilmener"
     fullname: >-
-      Elvin Levinler 🌈
+      Melis Dilmener
     bio: >-
-      ◛ elvin@thedigitalnomads.co ➵ London┆Istanbul┆Datça ♡ motivation • yoga • healthy • food • reels #travel #lifestyle #storyteller #reels ✩ new video
+      •Yaşam koçu •Content Creator | LifeStyle | Food •Annelik Sanatı Dergisi köşe yazarı 📝 •dilmenermelis@yahoo.com 📩
     location: "Turkey"
-    followers: 1185764
-    engagement: 120
-    commentsToLikes: 0.016211
-    id: ck15uwgu4ou830i19ej5guzkx
-    verified: true
-    hashtags: "#relatable, #yogapractice, #trendingreels, #mymarks"
-  - username: "sebibebi"
-    fullname: >-
-      Sebile Ölmez ®
-    bio: >-
-      Beauty Guru Lifestyle Mom Founder @soflycosmetics pr@sebibebi.com 🇹🇷Turkiye
-    location: "Turkey"
-    followers: 603884
-    engagement: 89
-    commentsToLikes: 0.021709
-    id: ck139k7iqlpsm0i19j7cogmhv
-    verified: true
-    hashtags: "#birthdayparty, #reklama, #outfitcheck, #unboxing"
-  - username: "dilekstudzinski"
-    fullname: >-
-      Dilek Oluklu Studzinski
-    bio: >-
-      •lifestyle •ootd •trendyplaces Silicon Valley, CA 🌴🇺🇸 dilekstudzinski@gmail.com💌 Shop my IG outfits ✨👇
-    location: "Turkey"
-    followers: 108369
-    engagement: 195
-    commentsToLikes: 0.406161
-    id: ck15t35qog44s0i19hp31whxy
+    followers: 419093
+    engagement: 400
+    commentsToLikes: 0.003466
+    id: ck8sz15dsmsg70j78dyfir6ag
     verified: false
-    hashtags: "#zarawoman, #snkrskickcheck, #liketoknowit, #bloggerstyle"
-  - username: "evrimertekin"
+    hashtags: "#diorbeauty, #love, #reklam, #ak"
+  - username: "endamdan"
     fullname: >-
-      Evrim Ertekin Ergün 🌿
+      Endam Orçun
     bio: >-
-      Nature | Travel | Lifestyle Wanderlust ✈︎ Gezgin Gazetesi Köşe Yazarı ✍︎ Yuvacık köşe yazısı için⇩
+      📍İzmir 💄Beauty | Makeup | Lifestyle 💌 endamorcun@gmail.com 👩🏻‍🔬PAU Chemical Engineering
     location: "Turkey"
-    followers: 20739
-    engagement: 643
-    commentsToLikes: 0.286789
-    id: ckaow60vj7kj30i78yy87i76d
+    followers: 12558
+    engagement: 532
+    commentsToLikes: 0.127425
+    id: ck600ropde50v0i14a6pfhv9w
     verified: false
-    hashtags: "#photooftheday, #goturkey, #geziyoruz, #wanderlust"
-  - username: "busrayurtgul"
+    hashtags: "#avonturkiye, #niacinamide, #avon, #gold"
+  - username: "ezgilkyaz"
     fullname: >-
-      Büşra Yurtgül Neziroğluları
+      İlkyaz Ezgi U.
     bio: >-
-      Lifestyle, Fashion, Beauty Contact: busrayurtgul@gmail.com Based in Istanbul, TR🖤
+      İstanbul, Türkiye ✉️ ezgilkyaz@hotmail.com Fashion | Interior | Lifestyle | Aesthetic
     location: "Turkey"
-    followers: 261837
-    engagement: 345
-    commentsToLikes: 0.010551
-    id: ck139k5xplpjy0i19x6soai4b
+    followers: 60127
+    engagement: 438
+    commentsToLikes: 0.016952
+    id: ckapbh5kizu6y0i78b0rea6ic
     verified: false
-    hashtags: "#morewithless, #zentamtur, #zenp, #modernkad"
-  - username: "littlenomadic_girl"
+    hashtags: "#whatiwear, #outfitoftheday, #outfitinspiration, #ootd"
+  - username: "amin_arzu"
     fullname: >-
-      İpek Yalçın 🧿
+      Arzu Shirmamedova
     bio: >-
-      📍Bulgaria🇧🇬 Turkey🇹🇷 ♾ Travel | LifeStyle | Gym >>Do small things with great love 💫 •Wanderlust 👣🎒🌎 #grateful #happy #free 🌻 H a p p y W i f e💍
+      •Lifestyle Influencer • For collab: @amin.arzu.pr
     location: "Turkey"
-    followers: 18051
-    engagement: 1005
-    commentsToLikes: 0.045473
-    id: ck13bwa9wxg090i19i24gzfax
+    followers: 205679
+    engagement: 1415
+    commentsToLikes: 0.011545
+    id: ckaox2yi1bjnv0i78z37jh0it
     verified: false
-    hashtags: "#tbt, #ig, #aniyakala, #igtravel"
-  - username: "damlakalaycik"
+    hashtags: ""
+  - username: "sarafeyzz"
     fullname: >-
-      Damla Kalaycık Dedeoğlu
+      Sara Feyz
     bio: >-
-      Hamburg | İstanbul ITU Physics Engineering 👩🏼‍🎓 Fashion | Beauty | Lifestyle | Travel Business Inquiry: damlakalaycik@hotmail.com
+      Beauty | lifestyle 📍ist 💚🕊️❤️
     location: "Turkey"
-    followers: 375132
-    engagement: 347
-    commentsToLikes: 0.065799
-    id: ck55oh3n78c8l0i11a5it2m81
+    followers: 89132
+    engagement: 831
+    commentsToLikes: 0.069192
+    id: ckap2mfk5zh7y0i78t1tahvpr
     verified: false
-    hashtags: "#winterwonderland, #matchalatte"
+    hashtags: "#sarafeyz, #makeupvideos, #challenge, #tehran"
+  - username: "ecrenlepsikoloji"
+    fullname: >-
+      Ecren | 𝚿
+    bio: >-
+      • sbü psikoloji 3/4 👩🏽‍🎓 • iü çocuk gelişimi 2/4 🎓 • psychology - lifestyle - fashion - selfcare • reklam, pr ve iş birliği için dm&mail📩
+    location: "Turkey"
+    followers: 19472
+    engagement: 451
+    commentsToLikes: 2.246775
+    id: ck6tnxjjsaxxi0j71mvog5a79
+    verified: false
+    hashtags: "#fyp, #psikologhan, #yks2024, #yks2025tayfa"
+  - username: "nedayasee"
+    fullname: >-
+      Neda Yasee
+    bio: >-
+      Makeup, Lifestyle, Travel ✈️ Main Account @nedayasee2 📍Istanbul, Turkey
+    location: "Turkey"
+    followers: 1269433
+    engagement: 1458
+    commentsToLikes: 0.122544
+    id: ck9werjgllief0j783wcx8twv
+    verified: false
+    hashtags: ""
 ---

@@ -1,12 +1,24 @@
 ---
-title: Top 10 Vegan Instagram Influencers In Greece In 2023
+title: Top 10 Vegan Instagram Influencers In Greece In 2024
 description: >-
-  Find top vegan Instagram influencers in Greece in 2023. Most popular hashtags: #greece #vegan #giveaway.
+  Find top vegan Instagram influencers in Greece in 2024. Most popular hashtags: #greece #vegan #summer.
 platform: Instagram
-hits: 38
-text_top: Identify the best Instagram accounts on inBeat.
-text_bottom: inBeat has 38 Instagram influencers like this in Greece for you to pitch.
+hits: 43
+text_top: See the top-rated Instagram profiles on inBeat.
+text_bottom: Our platform aggregates 43 Instagram influencers like this in Greece for you to collaborate.
 profiles:
+  - username: "katya_levin"
+    fullname: >-
+      KATYA LEVIN
+    bio: >-
+      Alex’s mommy, vegan & healthy lifestyle, loves fashion & beauty . MODEL . CEO & founder | @hatzbykatyalevin
+    location: "Greece"
+    followers: 34763
+    engagement: 70
+    commentsToLikes: 0.065961
+    id: ck15qc4oo24v50i19p19uazyo
+    verified: false
+    hashtags: "#chanelnuitblanchemilano, #rougeallure, #chanelmakeup, #bringthemhome"
   - username: "sabrinalutz"
     fullname: >-
       Sabrina Lutz 🌞
@@ -30,7 +42,7 @@ profiles:
     commentsToLikes: 0.010249
     id: ck9wp6ea580980j782xyeipuu
     verified: false
-    hashtags: "#feelingfree, #epixeirimatiasmetozori, #annapavlidouofficial, #summer2021"
+    hashtags: "#greece, #newvideo, #summervibes, #annapavlidouofficial"
   - username: "wholesomeboholife"
     fullname: >-
       ANNA & ZHIVKO ☼ BOHO TRAVELERS
@@ -69,28 +81,16 @@ profiles:
     hashtags: "#wcw"
   - username: "madamegingercom"
     fullname: >-
-      Madame Ginger ♥︎
+      Madame Ginger
     bio: >-
       🌱 Delicious plant-based recipes ♻️ #easyGREEN eco living tips 📕 Writer of «ΔΕ ΚΟΥΚΜΠΟΥΚ» & «GREEN ΚΟΥΚΜΠΟΥΚ»
     location: "Greece"
-    followers: 188939
-    engagement: 194
-    commentsToLikes: 0.079711
+    followers: 199577
+    engagement: 98
+    commentsToLikes: 0.009340
     id: ck5cburn5g7ak0i11x69lfmye
     verified: false
-    hashtags: "#veganfood, #food, #foodmehard, #cookwithginger"
-  - username: "marasamartzi"
-    fullname: >-
-      MARA SAMARTZI
-    bio: >-
-      BEAUTY & LIFESTYLE YOUTUBER Watch my latest video ▼
-    location: "Greece"
-    followers: 125386
-    engagement: 746
-    commentsToLikes: 0.273541
-    id: ck8t0am4iretb0j78jlgv0qub
-    verified: false
-    hashtags: "#myskinloveskorea, #climaxsafely, #narsissist, #neverfakeit"
+    hashtags: "#oimakaronadestiskiriakis, #plantbased, #foodmehard, #vegan"
   - username: "foodaroundgreece"
     fullname: >-
       𝔽𝕠𝕠𝕕 𝔸𝕣𝕠𝕦𝕟𝕕 𝔾𝕣𝕖𝕖𝕔𝕖
@@ -103,18 +103,6 @@ profiles:
     id: ck5zxygrr8wbj0i14rs3v9258
     verified: false
     hashtags: "#ig, #vegan, #athensfood, #pancakes"
-  - username: "efi_koloverou_dietitian"
-    fullname: >-
-      Dr Efi Koloverou
-    bio: >-
-      🍏 Ιδιοκτήτρια κέντρου NutriClinic 🎓 Διδάκτωρ & τ. Επιστ. συνεργάτιδα, Χαροκόπειο Πανεπιστήμιο 👩‍⚕️Εξειδίκευση: Παχυσαρκία-Διαβήτης 📌 Μετεκπαίδευση USA
-    location: "Greece"
-    followers: 44555
-    engagement: 444
-    commentsToLikes: 0.035971
-    id: ck5zn51abnspg0i14ob50s6ej
-    verified: false
-    hashtags: "#tadeefi, #nutritionlessons, #lent, #greekstagram"
   - username: "avgerinoscosmetics"
     fullname: >-
       Avgerinos Cosmetics
@@ -127,4 +115,16 @@ profiles:
     id: ck5c6cetv55fu0i11adn71zpn
     verified: false
     hashtags: "#beautyproducts, #vegan, #skincare, #body"
+  - username: "katerina.peftitsi"
+    fullname: >-
+      Κατερίνα Πεφτίτση
+    bio: >-
+      Inside Beauty MUA ,SFX Plus size model Booking : booking@inthefab.com Part of @in.the.fab ⬅️ for collabs
+    location: "Greece"
+    followers: 50157
+    engagement: 458
+    commentsToLikes: 0.012962
+    id: ck5q40s0zn8bo0i11s00o94xq
+    verified: false
+    hashtags: "#insidebeauty, #formotion, #pride, #plussizemodel"
 ---

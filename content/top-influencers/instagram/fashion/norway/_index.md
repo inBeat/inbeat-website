@@ -1,12 +1,96 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Norway In 2023
+title: Top 10 Fashion Instagram Influencers In Norway In 2024
 description: >-
-  Find top fashion Instagram influencers in Norway in 2023. Most popular hashtags: #fashionstyle #minmote #styleblogger.
+  Find top fashion Instagram influencers in Norway in 2024. Most popular hashtags: #fashionreels #modernart #sommerkjole.
 platform: Instagram
-hits: 86
-text_top: Analyze the top-rated Instagram accounts on inBeat.
-text_bottom: inBeat aggregates 86 Instagram influencers like this in Norway for you to contact.
+hits: 92
+text_top: See the top-rated Instagram accounts on inBeat.
+text_bottom: Our platform aggregates 92 Instagram influencers like this in Norway for you to work with.
 profiles:
+  - username: "vlada_mn"
+    fullname: >-
+      VLADA MIRON
+    bio: >-
+      fashion / lifestyle / aesthetics 📍 Chisinau
+    location: "Norway"
+    followers: 4596
+    engagement: 47370
+    commentsToLikes: 0.093175
+    id: ckapbpgrm0th80i7896jrfouo
+    verified: false
+    hashtags: "#bioderma"
+  - username: "marenplatou"
+    fullname: >-
+      Maren Platou
+    bio: >-
+      Beauty | Fashion | Lifestyle | Interior ✉️ mar.platou@gmail.com
+    location: "Norway"
+    followers: 58663
+    engagement: 369
+    commentsToLikes: 0.013841
+    id: ck0w5gc5v3ib40i19pf4o6tq6
+    verified: true
+    hashtags: ""
+  - username: "alikureshiofficial"
+    fullname: >-
+      Ali Kureshi
+    bio: >-
+      189cm 🇵🇰 Fashion Model Acting and loves photography @ajokatheatre SNAP alikureshi1 📺 ON AIR @arydigital.tv #jaisayappkimarzi 👇 MOVIE ZINDAGI TAMASHA
+    location: "Norway"
+    followers: 77608
+    engagement: 480
+    commentsToLikes: 0.011484
+    id: ck5ca4ff4coc00i11jen042ew
+    verified: false
+    hashtags: "#shoes, #jaisayappkimarzi, #gymlifestyle, #styling"
+  - username: "sofieaarnes"
+    fullname: >-
+      SOFIE ÅRNES
+    bio: >-
+      Oslo based fashionkilla ❣️ Email 💌: sofieaarnes@hotmail.com Represented by @socialworksmgmt Agent : charlotte@social-works.com
+    location: "Norway"
+    followers: 19322
+    engagement: 256
+    commentsToLikes: 0.055985
+    id: ck5hdnxplofzy0i11n91bjm8v
+    verified: false
+    hashtags: "#myhome, #colorfulbedroom, #fashiondog, #puppies"
+  - username: "maritaystevik"
+    fullname: >-
+      Marita Ystevik
+    bio: >-
+      Oslo | fashion & lifestyle ♡ health: @workoutwithystevik contact: maritaystevik@hotmail.com
+    location: "Norway"
+    followers: 17371
+    engagement: 103
+    commentsToLikes: 0.078893
+    id: ck5c2uz4by1ib0i11zquptmde
+    verified: false
+    hashtags: "#sommerkjole, #modernart, #parisianstyle, #minmote"
+  - username: "centerwall"
+    fullname: >-
+      MIKAELA CENTERWALL | Fashionista | outfits
+    bio: >-
+      Diary of a Scandi fashionista,dressing like a parisian🤍Oslo | Stockholm Inquiries: mikcen1@gmail.com ⬇️ my tips ; favourite products
+    location: "Norway"
+    followers: 10471
+    engagement: 24
+    commentsToLikes: 0.000000
+    id: ckap6dlt6fg9n0i78cwa005ub
+    verified: false
+    hashtags: ""
+  - username: "thereseaanonli"
+    fullname: >-
+      THERESE AANONLI
+    bio: >-
+      Makeupartist. Beauty, fashion, life🌈🫦🧴🫧👩‍👧 Add meg på snap:thereseaanonli Oslo,Norway #makeup #beauty #fashion #skincare
+    location: "Norway"
+    followers: 68862
+    engagement: 77
+    commentsToLikes: 0.067950
+    id: ck5bxebwynk6k0i11jin1uzyh
+    verified: false
+    hashtags: "#itcosmeticsnordics, #alwaysarden, #momanddaughter, #makeup"
   - username: "siljekgs"
     fullname: >-
       Silje Kristine G. Storhaug
@@ -19,30 +103,6 @@ profiles:
     id: ck15rovt18z6a0i195vmdkg8o
     verified: false
     hashtags: ""
-  - username: "ingridivarson"
-    fullname: >-
-      Ingrid Suhr Olsen
-    bio: >-
-      Norwegian living in Copenhagen🇳🇴🇩🇰 Proud dog-mom of Leopold 🐶 Welcome to my world of: Fashion👗 Interior🏡 Travel✈️ ✉️ ingridivarson@hotmail.com
-    location: "Norway"
-    followers: 14818
-    engagement: 251
-    commentsToLikes: 0.059799
-    id: ck0vwbsv4szr10i192bnfjexo
-    verified: false
-    hashtags: "#girlstraveleurope, #tuscany, #elegantwoman, #zarawoman"
-  - username: "maritaystevik"
-    fullname: >-
-      Marita Ystevik
-    bio: >-
-      Location, Oslo Digital content creator ♡ k Health account: @workoutwithystevik Fashion, beauty, lifestyle, coffee, travel, fun.
-    location: "Norway"
-    followers: 18258
-    engagement: 185
-    commentsToLikes: 0.118382
-    id: ck5c2uz4by1ib0i11zquptmde
-    verified: false
-    hashtags: "#norgesferie, #reels, #minmote, #sommerkjole"
   - username: "anneliaaland"
     fullname: >-
       ANNELI AALAND
@@ -67,64 +127,4 @@ profiles:
     id: ck6uedlcnqaxu0j7143097j9w
     verified: true
     hashtags: "#visitnorway, #betakarotengold, #goodforme, #lofoten"
-  - username: "natalie_ortegaa"
-    fullname: >-
-      Natalie ortega
-    bio: >-
-      ½ Spanish ½ Norwegian Villafranca del Bierzo/ Spain📍 🇳🇴@heartbreakmanagement MA 🇬🇷 @fashioncult_models 🇪🇸@francinamodels
-    location: "Norway"
-    followers: 16065
-    engagement: 470
-    commentsToLikes: 0.046110
-    id: ck0w6w57majkf0i199mgoqs7f
-    verified: false
-    hashtags: "#vacation, #travel, #beauty, #makeup"
-  - username: "ingriidhansen"
-    fullname: >-
-      INGRID HANSEN
-    bio: >-
-      🖤Norway - Oslo/Larvik 🖤School of Fashion Industry
-    location: "Norway"
-    followers: 10766
-    engagement: 380
-    commentsToLikes: 0.047653
-    id: ck15rtjzo9ms90i1965myjbmu
-    verified: false
-    hashtags: "#myglacial, #benakd"
-  - username: "marenplatou"
-    fullname: >-
-      Maren Platou
-    bio: >-
-      Norwegian | Oslo & Bergen • Fashion • Beauty • Lifestyle • Interior ✉️ mar.platou@gmail.com
-    location: "Norway"
-    followers: 56221
-    engagement: 248
-    commentsToLikes: 0.017731
-    id: ck0w5gc5v3ib40i19pf4o6tq6
-    verified: true
-    hashtags: ""
-  - username: "hannahaamodt"
-    fullname: >-
-      HANNAH AAMODT
-    bio: >-
-      oslo,norway coffee, fashion, interior, beauty, food, wine & sunshine. say hi: kontakt.hannahaamodt@hotmail.com
-    location: "Norway"
-    followers: 26662
-    engagement: 531
-    commentsToLikes: 0.040910
-    id: ck5bwlcmelx8r0i113iraqzhz
-    verified: false
-    hashtags: ""
-  - username: "pureelisabeth_"
-    fullname: >-
-      INTERIOR & FASHION STYLIST
-    bio: >-
-      Story of my life 🌈 🤍 Content creator blog, IG, YT 🤍 Fashion & interior 🤍 Freelance stylist YOUTUBE 👇🏻
-    location: "Norway"
-    followers: 39155
-    engagement: 66
-    commentsToLikes: 0.280501
-    id: ck5bzscqurqwd0i11by906bjp
-    verified: false
-    hashtags: "#lindex, #styleoftheday, #streetwear, #fashionstyle"
 ---

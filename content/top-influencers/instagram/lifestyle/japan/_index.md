@@ -1,130 +1,130 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Japan In 2023
+title: Top 10 Lifestyle Instagram Influencers In Japan In 2024
 description: >-
-  Find top lifestyle Instagram influencers in Japan in 2023. Most popular hashtags: #pr #ootd #fashion #2021.
+  Find top lifestyle Instagram influencers in Japan in 2024. Most popular hashtags: #tokyo #japan #travel #japanesefood.
 platform: Instagram
-hits: 160
-text_top: Discover the top-rated Instagram accounts on inBeat.
-text_bottom: Our database has 160 Instagram influencers like this in Japan for you to connect with.
+hits: 181
+text_top: See the best Instagram profiles on inBeat.
+text_bottom: Our platform aggregates 181 Instagram influencers like this in Japan for you to collaborate.
 profiles:
-  - username: "lara_vns"
+  - username: "kirahominique"
     fullname: >-
-      𝐖𝐨𝐦𝐚𝐧𝐟𝐚𝐬𝐡𝐢𝐨𝐧 | 𝐌𝐨𝐝𝐞𝐥 | 𝐁𝐥𝐨𝐠𝐠𝐞𝐫
+      K I R A H O M I N I Q U E
     bio: >-
-      ———————————————— » Fashion » Fitness » Lifestyle ———————————————— 21 y/o | German | P🌹
+      Beauty | Fashion | Lifestyle 💌 Business Inquires: Contact.mgmt@Kirahominique.com 🎥Youtube: Kirah Ominique
     location: "Japan"
-    followers: 12770
-    engagement: 786
-    commentsToLikes: 0.136789
-    id: ckap8nya3p6kk0i78tp4nb40s
+    followers: 409250
+    engagement: 1003
+    commentsToLikes: 0.015449
+    id: ck6tocvqhdd530j71tb8rx7lr
     verified: false
-    hashtags: "#saturdayoutfit, #weareallinthistogether, #versacebag, #workingonme"
-  - username: "hollykstyles"
+    hashtags: "#luxetribes, #luxetribespartner, #luxetribesbrandtrip, #topicalsgonetoghana"
+  - username: "kimdaoblog"
     fullname: >-
-      Holly
+      Kim Dao
     bio: >-
-      • dallas tx • future mrs 💍 • home | fashion | lifestyle • @shopjustusthree • realtor @hollywrealestate link below to shop my posts
+      Lifestyle | Japan Travel Guide 🇯🇵 📍 Tokyo, JP Sony Digital Imaging Ambassador YT: KimDao 780K | KimDaoVlog 170K | KimDaoGame 170K 📧 kimdao90@gmail.com
     location: "Japan"
-    followers: 2479
-    engagement: 799
-    commentsToLikes: 0.208682
-    id: ckaowm7if9gug0i78mtyycrlx
+    followers: 171454
+    engagement: 757
+    commentsToLikes: 0.015006
+    id: ck1373xue9ni40i19n75j7k3q
     verified: false
-    hashtags: "#2020, #ootd, #tistheseason, #colorado"
-  - username: "maidmaymay"
+    hashtags: "#japantraveltips, #tokyo, #japan, #tokyotravelguide"
+  - username: "hikarimurakami"
     fullname: >-
-      Maymay
+      Hikari Murakami
     bio: >-
-      20'9 '2000 ♀ Thai cosplayer based in the Netherlands non cosplay ig : @maybecrazey travel & lifestyle 😈 Twitch : maidMAYMAY 💜
+      📍Japanese American creator in Orange County 🎥 Motherhood, homestyle 🇯🇵 cooking, & lifestyle Shop: @shoplilyandonyx
     location: "Japan"
-    followers: 60612
-    engagement: 391
-    commentsToLikes: 0.008534
-    id: ckaovc85p3ye20i78o7i9y0uo
+    followers: 9315
+    engagement: 414
+    commentsToLikes: 0.039798
+    id: clcuv3szw3jt90j088wbn0hty
     verified: false
-    hashtags: "#alternative, #killingstalking, #killingstalkingcosplay, #cosplay"
-  - username: "kuuu.kumiko"
+    hashtags: "#oogieboogiebash2023, #disneyparks, #mommandmecostumes, #disneyland"
+  - username: "breannaquan.xo"
     fullname: >-
-      Kumiko Suzuki  鈴木久美子
+      BREANNA QUAN ♡
     bio: >-
-      #beauty #fashion #health #foods #lifestyle #猫のいる暮らし 🎂1976 ♎︎ 164cm 🇯🇵 ・Freelance model ・経歴…第8回国民的美魔女コンテストfinalist ※仕事以外のDMへは返信していません 。
+      productivity, lifestyle & wellness 🍵 💌 breannaquanxo@gmail.com
     location: "Japan"
-    followers: 41897
-    engagement: 316
-    commentsToLikes: 0.032118
-    id: ckap4ky277r6y0i78yzmchql7
+    followers: 170184
+    engagement: 2227
+    commentsToLikes: 0.005101
+    id: ckvgbj7d78gp20j23c22x1acz
     verified: false
-    hashtags: "#lifestyle, #fashion, #beautiful, #health"
-  - username: "chiakiinengland"
+    hashtags: "#studyvlog, #collegevlog, #explorepage, #explore"
+  - username: "icazahra"
     fullname: >-
-      🌸Chiaki Official🌸
+      Fatimah Zahratunnisa (イチャ・ザハラ)
     bio: >-
-      💟Lifestyle influencer 💟YouTuber 430,000 subs 登録者数43万人 💟UK based イギリス在住🇬🇧客室乗務員 💟Reelsで英語レッスンしてるよ！
+      🇮🇩🇯🇵 Singer Songwriter in TOKYO icazahra です！ Reels ➡️ Japan Muslim Friendly・Lifestyle YouTube : icazahra
     location: "Japan"
-    followers: 130895
-    engagement: 425
-    commentsToLikes: 0.011701
-    id: ck5cbh34dff190i11daf9qnw4
+    followers: 40688
+    engagement: 369
+    commentsToLikes: 0.022583
+    id: ckaoys8sciui00i787yrsbpxc
     verified: false
-    hashtags: "#pr, #smoothierecipes, #ootd, #weekendmood"
-  - username: "raychanmama00"
+    hashtags: "#iso9001, #momotani, #happinessbeaute, #meishoku"
+  - username: "nomkakaii"
     fullname: >-
-      raychanmama | ノマドライフ🌐ママトラベラー🍬
+      kai カイ
     bio: >-
-      📍Melbourne 🇦🇺 Lifestyle blogger 🌐旅行業15年の旅好きママのグローバル育児 Mom of 2kids 👧れいちゃん(5)+👶翔(0) ✈️旅育コミュニティメンバー募集中 . 👶成長日記はリール🍼⭐️ ⬇️子連れ旅Youtube ✈︎
+      *ೃ˚📍 東京/香港/ LA • 20 🇭🇰 ꒱ ✶ ✎ food illustration + lifestyle ----- ＊dm for inquiries / collabs📩 📮 nomkakaiii@gmail.com *ੈ✩ shop + youtube ➷
     location: "Japan"
-    followers: 14857
-    engagement: 470
-    commentsToLikes: 0.069503
-    id: ckap7ubt7lli80i78eoih8e02
+    followers: 151020
+    engagement: 307
+    commentsToLikes: 0.008363
+    id: clocqd4emgziw0j08j9w89fuo
     verified: false
-    hashtags: "#mummyinfluencer, #melbournemums, #mummyblogger, #instakids"
-  - username: "moeoshikiri"
+    hashtags: "#foodillustration, #ootd, #foodartist, #nomkakaii"
+  - username: "anshindoyle"
     fullname: >-
-      Moe Oshikiri.   押切もえ
+      Anshin Doyle 💗 M a r i a  G
     bio: >-
-      モデル・文筆家 お仕事のご依頼は所属事務所（株）pearl へお願いします。 Fashion&Beauty, Cooking,Art,Healthy&natural lifestyle YouTube↓ 資格…#ワインエキスパート #アスリートフードマイスター
+      📍Tokyo, Japan 🇯🇵 YouTube [+233K] 🍡 Pop culture, lifestyle and travel 🍣 🌸 Podcast “Dramas y Sakuras” 💌 hello@anshindoyle.jp
     location: "Japan"
-    followers: 109708
-    engagement: 174
-    commentsToLikes: 0.022739
-    id: ck0vzceq68ep60i19638qqorb
-    verified: true
-    hashtags: "#cosmetics, #flowers, #organic, #sawai"
-  - username: "izumi_ano"
-    fullname: >-
-      阿野いずみ (あのいずみ)
-    bio: >-
-      30代の洋服と美容 🐈♡ #beauty / #fashion / #lifestyle / #fashionmodel ... 福岡⇆東京 / 156cm ❥フリーランスになりましたお仕事の依頼は📩 ❥ PWA認定ウォーキング講師 ❥セラピスト(作業療法士) ↓ director
-    location: "Japan"
-    followers: 33510
-    engagement: 255
-    commentsToLikes: 0.025912
-    id: ck5zn8ppqnzrb0i14bukz0ab9
+    followers: 68589
+    engagement: 279
+    commentsToLikes: 0.028468
+    id: ckap1l7qov0r00i78pimzwh0n
     verified: false
-    hashtags: "#valmuer, #colony2139, #usj, #pr"
-  - username: "lehatruc"
+    hashtags: "#kawaii, #makeup, #comidajaponesa, #tokio"
+  - username: "naritadogfight"
     fullname: >-
-      Lê Hà Trúc
+      NDF
     bio: >-
-      🇻🇳 24 Lifestyle / Traveller 📩 howabouthatruc@gmail.com /
+      [成田ドッグファイト] Motorsports Media and Lifestyle ATTACK Series Partner 80R.JP
     location: "Japan"
-    followers: 247993
-    engagement: 505
-    commentsToLikes: 0.003651
-    id: ck5ho1v02os5f0i11dqh39oba
-    verified: true
-    hashtags: "#iamchloe, #chloegirls, #pashadecartier, #filmbyhatruc"
-  - username: "kumikofunayama"
+    followers: 100753
+    engagement: 339
+    commentsToLikes: 0.017398
+    id: ck0ttuh614cy70i19gfwhmqgk
+    verified: false
+    hashtags: "#ndf"
+  - username: "guava.chang"
     fullname: >-
-      舟山久美子  くみっきー
+      拔辣-若茵
     bio: >-
-      @micoameriofficial Producer fashion/make/lifestyle/work 骨格診断アナリストになりました♡ 日本化粧品検定一級 日本ダイエット検定インストラクター 強く美しくしなやかに🕊
+      #茵茵隨手寫 💬 photography • fashion • lifestyle • engineering 🚴‍♀️🏋🏻‍♀️ 📸 🥣 🎵 Contact/合作✉️ Email 或 私訊 🐆 @0617prince
     location: "Japan"
-    followers: 296058
-    engagement: 148
-    commentsToLikes: 0.012777
-    id: ck0w204u1lzmd0i19ibzepkrl
-    verified: true
-    hashtags: "#new, #micoameri, #spring, #girlsnight"
+    followers: 157835
+    engagement: 225
+    commentsToLikes: 0.006575
+    id: ck5q41jkknc0d0i110iylum48
+    verified: false
+    hashtags: "#photography, #happyvalentinesday, #travel, #aquaeveryday"
+  - username: "amylialoh"
+    fullname: >-
+      AMY LOH
+    bio: >-
+      ¼ @wearecoex.official 👽 singer • dancer • model • creator fashion | beauty | lifestyle work/collab 💌: dm/email @armanientertainment 🏹: pr@armani.my
+    location: "Japan"
+    followers: 13521
+    engagement: 180
+    commentsToLikes: 0.028423
+    id: clm70aq1lgk7f0j08qvgkbwta
+    verified: false
+    hashtags: "#amyco, #armanientertainment, #co, #aeg"
 ---

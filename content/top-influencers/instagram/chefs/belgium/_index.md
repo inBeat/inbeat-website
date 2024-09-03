@@ -1,118 +1,118 @@
 ---
-title: Top 10 Chefs Instagram Influencers In Belgium in 2023
+title: Top 10 Chefs Instagram Influencers In Belgium In 2024
 description: >-
-  Find top chefs Instagram influencers in Belgium in 2023. Most popular hashtags: #foodporn #belgium #chef #food.
+  Find top chefs Instagram influencers in Belgium in 2024. Most popular hashtags: #foodie #chef #food #dessert.
 platform: Instagram
 hits: 9
-text_top: See the best Instagram accounts on inBeat.
-text_bottom: Our database aggregates 9 Instagram influencers like this in Belgium for you to pitch.
+text_top: Analyze the top-rated Instagram influencers on inBeat.
+text_bottom: Our database holds 9 Instagram influencers like this in Belgium for you to connect with.
 profiles:
-  - username: "gertdemangeleer"
+  - username: "alia.rds"
     fullname: >-
-      Gert de Mangeleer
+      Alizée ❤️‍🔥
     bio: >-
-      Chef and co-owner of the @hertog_jan_restaurant_group, @less_eatery, @bar_bulot_by_hertogjan , proud father of four, happily married❤️
+      🐷 Ça graille fort ici 👩🏻‍🍳 Cool cheffe @gorditaliege
     location: "Belgium"
-    followers: 28246
-    engagement: 172
-    commentsToLikes: 0.022384
-    id: ck137xp8xdkhi0i199z5na0pw
+    followers: 28186
+    engagement: 397
+    commentsToLikes: 0.056209
+    id: ck5zsef7gycbi0i14x80rg8ta
     verified: false
-    hashtags: "#loveeatsharesmile, #brasserie, #barbulot, #lesseatery"
-  - username: "damien_brunet_"
+    hashtags: "#lespetitsplatsdali, #recettesaine, #vegetarien, #vegan"
+  - username: "steffivertriest"
     fullname: >-
-      Damien Brunet
+      Steffi Vertriest
     bio: >-
-      Artisan cuisinier Bruxelles 🇧🇪 Jong keukengeweld chef @winery_bxl Winery boisfort Winery dansaert Winery brugman
+      TV-chef & Host | Singer | Author Teasommelier • Health & Mindset vibes Founder @thee_be @byebyecheeseburger ❤️Never silence the song in your heart
     location: "Belgium"
-    followers: 9365
-    engagement: 495
-    commentsToLikes: 0.011090
-    id: ck5caf2nfdakw0i11agnfrrcy
-    verified: false
-    hashtags: "#finedining, #gastromeals, #belgium, #gourmetparadise"
+    followers: 39627
+    engagement: 180
+    commentsToLikes: 0.050654
+    id: ck5c7ekgz7e0s0i11rii6qwvu
+    verified: true
+    hashtags: "#recipes, #byebyecheeseburger, #kookboek, #ibiza"
   - username: "nickbril"
     fullname: >-
       Nick Bril
     bio: >-
-      Chef @thejaneantwerp /2** Mich/18 G&M, #39 TBC/ @augustantwerp / @drinkmaryv / @symbiosebythejane @lesgrandestablesdumonde /DJ bookings @wearekurious
+      Chef/DJ/restaurateur/father/. @thejaneantwerp🌟🌟 18GM+64TBC.@augustantwerp 15GM djbookings @wearekurious @drinkmaryv @symbiosebythejane .
     location: "Belgium"
-    followers: 30334
-    engagement: 161
-    commentsToLikes: 0.039196
+    followers: 36799
+    engagement: 208
+    commentsToLikes: 0.034985
     id: ck14hb49y9fn40i19gswd0o5g
     verified: false
-    hashtags: "#thejaneantwerp, #chef, #livestreamfestival, #livestream"
+    hashtags: "#thejaneantwerp, #nickbril, #dj, #takeawayfood"
+  - username: "hap_en_tap"
+    fullname: >-
+      Myriam Minne l Culi blogger
+    bio: >-
+      ➢ 🇧🇪 Foodblog Award Winner Best Baking & Sweets ➢ Ambassador @falconbelgium @robthegourmetsmarket ➢ FCB 💙🖤 ➢ Check my FREE recipes 👇
+    location: "Belgium"
+    followers: 36385
+    engagement: 242
+    commentsToLikes: 0.128358
+    id: ck8tdpvji4by00j78iaoi24rt
+    verified: false
+    hashtags: "#foodlover, #foodphotography, #summerbaking, #homecook"
   - username: "willemhiele"
     fullname: >-
       Willem Hiele
     bio: >-
-      FineDining www.willemhiele.be Info@willemhiele.be #world50bestdiscovery #restaurantwillemhiele
+      FineDining www.willemhiele.be Info@willemhiele.be #world50bestdiscovery #restaurantwillemhiele #michelinstar
     location: "Belgium"
-    followers: 10616
-    engagement: 495
-    commentsToLikes: 0.027101
+    followers: 12530
+    engagement: 503
+    commentsToLikes: 0.024307
     id: ck5cg2loao2770i11e9t7rk1b
     verified: false
-    hashtags: "#northsea, #willemhiele, #koksijde, #world50bestdiscovery"
+    hashtags: "#northseachefs, #sustainability, #northsea, #oadtop100"
+  - username: "davidecomaschichocolates"
+    fullname: >-
+      Davide Comaschi
+    bio: >-
+      Master chocolatier Winner of the World Chocolate Masters 2013 Global creative lead Callebaut www.davidecomaschi.com
+    location: "Belgium"
+    followers: 97187
+    engagement: 33
+    commentsToLikes: 0.014937
+    id: ck0u7be7r48vm0i19bvtd57jj
+    verified: false
+    hashtags: "#foodphotography, #chocolatedesign, #pastry, #art"
+  - username: "chlovdw"
+    fullname: >-
+      Chloë Van de Walle
+    bio: >-
+      FIERCE FASHION & FOOD LOVER ♡ ➵ Belgium based | 90’s kid ➵ Wifey of @debackerjerre 💍 ➵ Proud (plus)mommy of Ariane & Emma 💕
+    location: "Belgium"
+    followers: 4668
+    engagement: 296
+    commentsToLikes: 0.182215
+    id: ck0vvf3s5ouu00i19aeaq98gh
+    verified: false
+    hashtags: "#newbornphoto, #pregnantbelly, #babyspam, #firstborn"
   - username: "anthony_bosswolf"
     fullname: >-
       Antonio Capolupo
     bio: >-
-      🇮🇹🇧🇪 Soloist Clarinet Bruxelles Opera House “La Monnaie” Belgian National Opera 🏛 • Selmer Artist 🎶 • Vandoren Artist ✌️ • YouTube Channel 🎥⬇️
+      🇮🇹🇧🇪 Soloist clarinet Bruxelles Opera House “La Monnaie”, Belgian National Opera 🏛 • Selmer Artist 🎶 • Vandoren Artist ✌️ • YouTube Channel 🎥⬇️
     location: "Belgium"
-    followers: 2232
-    engagement: 1129
-    commentsToLikes: 0.051077
+    followers: 2344
+    engagement: 980
+    commentsToLikes: 0.056082
     id: ckf5tjs3ji0bt0j23rhzpxywh
     verified: false
-    hashtags: "#clarinetsolo, #lamonnaie, #vandoren, #selmer"
-  - username: "dcomaschi"
+    hashtags: "#principalclarinet, #vandoren, #vandorenitalia, #clarinetsolo"
+  - username: "charlotte_collard"
     fullname: >-
-      Davide Comaschi
+      Charlotte’s Kitchen
     bio: >-
-      Maître chocolatier Winner of the World Chocolate Masters 2013. GLOBAL CREATIVE LEADER CALLEBAUT
+      • Charlotte Collard Consulting 🌿 • Recettes, Restaurants & Hotels 🍽️ • Naturellement Simple & Sain 🍃 • @professionalchefs @restaurantbarworld 📝
     location: "Belgium"
-    followers: 93704
-    engagement: 180
-    commentsToLikes: 0.023014
-    id: ck0u7be7r48vm0i19bvtd57jj
-    verified: false
-    hashtags: "#callebautchocolate, #ruby, #italy, #easter"
-  - username: "vandervelpen"
-    fullname: >-
-      Dieter Vander Velpen
-    bio: >-
-      ◦ Architecture / travel / marble ◦ Antwerp / New York ◦ Get in touch: dieter.vandervelpen@gmail.com
-    location: "Belgium"
-    followers: 62332
-    engagement: 295
-    commentsToLikes: 0.020668
-    id: ck5hn88sdndvv0i11dul2g4f2
-    verified: false
-    hashtags: "#belgiandesign, #stone, #craftsmanship, #luxuryhome"
-  - username: "eric_boschman"
-    fullname: >-
-      Eric Boschman 🍷🥃🥂
-    bio: >-
-      Somm🍾 🍗 🌍 ✍️ 🕺 Ambassadeur Volvo & Apaqw Partenariats ➡️ mp@ericboschman.be
-    location: "Belgium"
-    followers: 9952
-    engagement: 1181
-    commentsToLikes: 0.011521
-    id: ck5cbfeiqfbf80i11tviisq0i
-    verified: false
-    hashtags: "#lagedebierelespectaclequimousse, #batman, #romeoyjulietacedrosdeluxe, #cremantdewallonie"
-  - username: "stephanie_bex"
-    fullname: >-
-      Stephanie Bex - Kokenophakken
-    bio: >-
-      🥞 Lekkere & gemakkelijke gerechtjes 🌈 Digital kid @Studio100 👩🏽‍🍳 Foodie & online gezicht @njamtv 🍩 Ontdek mijn recepten 👇
-    location: "Belgium"
-    followers: 9419
-    engagement: 554
-    commentsToLikes: 0.097064
-    id: ckaovn0cc5a1w0i78pipymknn
-    verified: false
-    hashtags: "#smullen, #lekkerkoken, #gebak, #gezondkoken"
+    followers: 85865
+    engagement: 58
+    commentsToLikes: 0.066760
+    id: ck5hpqdgmrstc0i11pos0j9zs
+    verified: true
+    hashtags: "#recettemaison, #charlottecollardmarrakech, #valdisere, #charlotteskitchen"
 ---

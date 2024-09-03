@@ -1,11 +1,11 @@
 ---
-title: Top 10 Instagram Influencers In Barcelona In 2023
+title: Top 10 Instagram Influencers In Barcelona In 2024
 description: >-
-  Find top Instagram influencers in Barcelona in 2023. Most popular hashtags: #summer #barcelona #holidays.
+  Find top Instagram influencers in Barcelona in 2024. Most popular hashtags: #sorteo #travel #publi.
 platform: Instagram
-hits: 1335
-text_top: Discover the top-rated Instagram influencers on inBeat.
-text_bottom: inBeat has 1335 Instagram influencers like this in Barcelona, Spain for you to pitch.
+hits: 1556
+text_top: See the most popular Instagram profiles on inBeat.
+text_bottom: Our platform has 1556 Instagram influencers like this in Barcelona, Spain for you to connect with.
 profiles:
   - username: "claudiaruizx"
     fullname: >-
@@ -31,100 +31,100 @@ profiles:
     id: ck5c76ekt6wr30i11oyv2xs47
     verified: false
     hashtags: ""
-  - username: "31fam_"
+  - username: "niklinio"
     fullname: >-
-      31 FAM
+      NIKLAS RUETH
     bio: >-
-      music @delirics booking @talent.barcelona
+      your german fashion boy 🤍 barcelona - berlin nikliniogermany@gmail.com 💌 my clothes, podcast, youtube and more:
     location: "Spain"
-    followers: 39954
-    engagement: 1239
-    commentsToLikes: 0.015964
-    id: ck5ccrswphw770i11w4jigqvw
+    followers: 441156
+    engagement: 495
+    commentsToLikes: 0.017256
+    id: ck0vx3o2rwz830i19bti0278w
     verified: false
-    hashtags: ""
-  - username: "paulagonu"
+    hashtags: "#diorsauvage, #mysauvagecall"
+  - username: "felipvives"
     fullname: >-
-      🐭PAULA GONU
+      Felip Vives 🌍
     bio: >-
-      🎥Youtube: paulagonu 📍Barcelona 📩paulagonu@gmail.com (sólo este) 👅Mi cuenta sin filtros: @paulagonufails 👇🏽💜EN DIRECTO CADA DÍA💜👇🏽
+      Just want to share the world from my eyes 🌎 Content Creator based in Barcelona Collab: felip.vives@binineagency.com Behind the camera📸 @felipvives.raw
     location: "Spain"
-    followers: 2013785
-    engagement: 306
-    commentsToLikes: 0.212409
-    id: ck5znaeumo2xp0i14xtayte64
-    verified: true
-    hashtags: "#miramiravia"
-  - username: "laurabrunet"
-    fullname: >-
-      laura brunet
-    bio: >-
-      lau✨ ⊙ scorpio ☽ sagittarius ↑ capricorn 🦋 Barcelona 📖 Un domingo de noviembre 👇🏼
-    location: "Spain"
-    followers: 295568
-    engagement: 213
-    commentsToLikes: 0.005168
-    id: ck6twrxg7tqyw0j710gphshzx
+    followers: 32864
+    engagement: 1210
+    commentsToLikes: 0.048472
+    id: ck6u9d39cwuxv0j71nltp399w
     verified: false
-    hashtags: "#pullandbearcommunity, #womensecretperfumes, #womensecret, #westfieldamblamarato"
-  - username: "aroundsilvia"
+    hashtags: "#surf, #laponia, #frenchpolynesia, #srilanka"
+  - username: "myronjobse"
     fullname: >-
-      S i l v i a   R i a l
+      Myron
     bio: >-
-      Natural, como los desastres 🏊🏼‍♀️🚴🏼‍♀️🏃🏼‍♀️ 👟💙 ASICSFrontRunner Spain 📍 Barcelona / Andorra 📩 infoaroundsilvia@gmail.com
+      ☀️ Another Dutchie escaping the rain 💻 Digital Travel Agent 📍 Barcelona
     location: "Spain"
-    followers: 96302
-    engagement: 98
-    commentsToLikes: 0.015419
-    id: ck5hr3z96u85d0i11j01pfuk1
+    followers: 7666
+    engagement: 725
+    commentsToLikes: 0.041845
+    id: ck0w1gn5xj90t0i19hgr1oqwj
     verified: false
-    hashtags: "#winter, #run, #snow, #running"
-  - username: "aina.simon"
+    hashtags: "#gaytravel, #gayespa, #pride, #gaybarcelona"
+  - username: "unviajeindeterminado"
     fullname: >-
-      AINA SIMON
+      Natalia & David
     bio: >-
-      Fashion • Food • Travel ✈️ | Barcelona - Madrid| 💌 ainasimonm@gmail.com
+      📍Barcelona 💌 unviajeindeterminado@gmail.com Tiktok🎶: unviajeindeterminado Nos encanta conocer mundo juntos🌏 𝑨𝒍𝒈𝒐 𝒊𝒏𝒅𝒆𝒕𝒆𝒓𝒎𝒊𝒏𝒂𝒅𝒐 𝒆𝒔 𝒑𝒂𝒓𝒂 𝒔𝒊𝒆𝒎𝒑𝒓𝒆❤
     location: "Spain"
-    followers: 332763
-    engagement: 842
-    commentsToLikes: 0.005175
-    id: ck0vyy6sp6d680i19gk2enc5c
+    followers: 31848
+    engagement: 628
+    commentsToLikes: 0.302001
+    id: ckwef13lvmrhu0j23s0rhks5h
     verified: false
-    hashtags: "#primania, #embajadoraprimark, #iworkwithprimark, #adikagirls"
-  - username: "lorenatejeda"
+    hashtags: "#tenerifeisland, #visit, #girona, #catalunya"
+  - username: "eyesofthemoon"
     fullname: >-
-      LORENA TEJEDA
+      Angie L. Luna
     bio: >-
-      lιfeѕтyle ⋅ мαтernιтy ⋅ тrαvel ⋅ beαuty мoм Adαy ♡ Enzo ♡ Mαrco 💌 lorenatejeda8@hotmail.com 📍Barcelona
+      » Desmitificando la maternidad con humor - Valido y hablo de emociones, amor propio y superación • @madresymusas ⌲ Barcelona ✉︎ angie@spparklyteam.com
     location: "Spain"
-    followers: 236566
-    engagement: 410
-    commentsToLikes: 0.537430
-    id: ck5zt3y8dzozh0i14xmswj3d8
+    followers: 387931
+    engagement: 1658
+    commentsToLikes: 0.067800
+    id: ck5qdvhu2xi8m0i115ledmqqr
     verified: false
-    hashtags: "#mylove, #newbaby, #happyday, #momof3"
-  - username: "eirebrush"
+    hashtags: "#crianzarespetuosa, #maternidadconhumor, #madresoltera, #coparenting"
+  - username: "claudiatorregrosa_"
     fullname: >-
-      𝐼𝓇𝑒𝓃𝑒 𝓂𝑜𝓃𝓉𝑒𝓈
+      Chló
     bio: >-
-      ...𝑾𝒂𝒌𝒆 𝒖𝒑 𝒂𝒏𝒅 𝒎𝒂𝒌𝒆 𝒖𝒑... 📍BARCELONA ⚡️MAKEUP&MYSELF⚡️ 📩BUSSINES eiremontes@gmail.com 🔮 @bymystical MY SHOP
+      📍 Barcelona 🎥 Manager @cesarcarrera_esp 💌 Contact @noa.theagency
     location: "Spain"
-    followers: 12694
-    engagement: 1126
-    commentsToLikes: 0.128054
-    id: ck6u3iftixz0t0j714yh7nlkd
+    followers: 40975
+    engagement: 493
+    commentsToLikes: 0.025983
+    id: ckap3kgsu3di70i78jap9v79g
     verified: false
-    hashtags: ""
-  - username: "beatrizestraada"
+    hashtags: "#maybelline, #primaverasound, #maybellinexprimaverasound"
+  - username: "glorirovi"
     fullname: >-
-      BEATRIZ ESTRADA ♡ Bstyle
+      🦁Glorirovi
     bio: >-
-      ❥ YOUTUBE BSTYLE | 135K ❥ Barcelona📍 ❥ SHEIN 15% descuento: BSTY15 ❥ Collab: beatriz93estrada@gmail.com
+      📍Barcelona 𝗖𝗘𝗢 @pina_rizada 🌀Recupera y luce tus rizos Con mi método curly ⬇️
     location: "Spain"
-    followers: 55286
-    engagement: 740
-    commentsToLikes: 0.333940
-    id: ck5c09og3spdf0i11qhl27l59
+    followers: 88977
+    engagement: 609
+    commentsToLikes: 0.345555
+    id: ck14jhydbkfsb0i19hgiggb4i
     verified: false
-    hashtags: "#ootd, #instafashion, #inspo, #neutralstyle"
+    hashtags: "#cocunat, #corte, #cocunatrocks, #naturalcosmetics"
+  - username: "jorgejavier_diaz"
+    fullname: >-
+      Jorge Diaz
+    bio: >-
+      📍Barcelona 🇪🇸 Uno Models 📩 All bookings/ Inquiries: diazjorgeuno1@gmail.com TikTok: 600k 🎯#makingmymumproud
+    location: "Spain"
+    followers: 380122
+    engagement: 920
+    commentsToLikes: 0.005891
+    id: ck5bxnvnao2nj0i11h6x6m1ou
+    verified: false
+    hashtags: "#foryou, #blackmodel, #model, #publi"
 ---

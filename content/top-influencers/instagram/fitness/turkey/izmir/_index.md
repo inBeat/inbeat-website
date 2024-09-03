@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Izmir In 2023
+title: Top 10 Fitness Instagram Influencers In Izmir In 2024
 description: >-
-  Find top fitness Instagram influencers in Izmir in 2023. Most popular hashtags: #fitness #izmir #tbt #photography.
+  Find top fitness Instagram influencers in Izmir in 2024. Most popular hashtags: #izmir #fitness #tbt #photography.
 platform: Instagram
-hits: 49
-text_top: See the best Instagram profiles on inBeat.
-text_bottom: Our search engine aggregates 49 Instagram influencers like this in Izmir, Turkey for you to connect with.
+hits: 46
+text_top: Analyze the top-rated Instagram profiles on inBeat.
+text_bottom: Our platform holds 46 Instagram influencers like this in Izmir, Turkey for you to pitch.
 profiles:
   - username: "zumbawithpelin"
     fullname: >-
@@ -13,12 +13,12 @@ profiles:
     bio: >-
       Zumba®️ Instructor Aqua Zumba®️ Instructor STRONG BY ZUMBA®️ Instructor Zumba®️ Kids & Junior Instructor Zumba®️ Step & Toning Instructor
     location: "Turkey"
-    followers: 27004
-    engagement: 182
-    commentsToLikes: 0.129532
+    followers: 26430
+    engagement: 208
+    commentsToLikes: 0.299385
     id: ckaoubh3gzn0o0i7848s4cuwo
     verified: false
-    hashtags: "#zumbaislife, #everybodyfollowme, #zumbalife, #zinlife"
+    hashtags: "#lotus, #zinexclusive, #weekendvibes, #zumbawear"
   - username: "ozgurcegezi"
     fullname: >-
       My family and me
@@ -33,16 +33,16 @@ profiles:
     hashtags: "#efes, #doyoutravel, #luxury, #izmir"
   - username: "doctorhakantufekci"
     fullname: >-
-      Dr. Hakan Tüfekçi 👑
+      Hakan Tüfekçi
     bio: >-
-      inspired by medical aesthetics. Başka ek ya da yeni profil, fan sayfası yoktur.
+      Inspired from your beauty. International Health Tourism Authorization Certificated Clinic 📲 +905550387869 📍Bursa
     location: "Turkey"
-    followers: 54301
-    engagement: 633
-    commentsToLikes: 0.018656
+    followers: 63167
+    engagement: 339
+    commentsToLikes: 0.030209
     id: ckap5e1wcb98b0i78r99ato5u
     verified: false
-    hashtags: "#sunshine, #beauty, #medical, #tbt"
+    hashtags: "#medikal, #aesthetic, #smile, #fit"
   - username: "_sedayaprak_"
     fullname: >-
       seda yaprak
@@ -55,18 +55,6 @@ profiles:
     id: ckap5cy7nb43u0i78sk27ndjt
     verified: false
     hashtags: "#tatil, #siwing, #yaz, #fetisch"
-  - username: "aysegunduzgunes"
-    fullname: >-
-      Ayşe Gündüz Güneş
-    bio: >-
-      🥑 Dengeli Yaşam | Motivasyon | Sağlıklı Tarifler 💫 Mühendis | Yaşam Koçu | Spor Eğitmeni 📩 Reklam ve iş birlikleri için aysegunduzgunes@gmail.com
-    location: "Turkey"
-    followers: 45865
-    engagement: 214
-    commentsToLikes: 0.563812
-    id: ckap7qotgl5380i78mpjbap8t
-    verified: false
-    hashtags: "#ramazantatl, #reelsindia, #sekersiztarifler, #ingilizceo"
   - username: "adnankoc"
     fullname: >-
       Adnan KOÇ
@@ -103,18 +91,6 @@ profiles:
     id: ck5zsqujfz0wu0i14rgck46dp
     verified: false
     hashtags: "#fashion, #blogger, #tb, #black"
-  - username: "pinars0ylu"
-    fullname: >-
-      Pınar
-    bio: >-
-      Kocaeli - İstanbul📍 Derin'in annesi👧🏻 Türkçe Öğretmeni🎓 Pilates - Fitness Eğitmeni 🌬 📩pinarsoylu@gmail.com Somnio ergo sum..〰
-    location: "Turkey"
-    followers: 30161
-    engagement: 452
-    commentsToLikes: 0.047462
-    id: ck9wfhzbqowah0j78mguj73sn
-    verified: false
-    hashtags: "#throwback, #likeforlikes, #instalike, #tbt"
   - username: "mrtzldg"
     fullname: >-
       mrtzldg
@@ -127,4 +103,28 @@ profiles:
     id: ckf5usin7m55z0j23gnggjj88
     verified: false
     hashtags: "#workoutmotivation, #menstyle, #tattooing, #vsco"
+  - username: "egephoto"
+    fullname: >-
+      Fotolog 🎥
+    bio: >-
+      Memleketin Özgürlük Kalesidir İzmir.🗼 Doğa 🍃 / Sanat 🖼 / Atatürk 🇹🇷 / Travel 🚌 Welcome to my life.👋🏼
+    location: "Turkey"
+    followers: 2012
+    engagement: 4548
+    commentsToLikes: 0.019341
+    id: ckf5xekxgvds80j234d6bazfy
+    verified: false
+    hashtags: "#gu, #bostanl, #like4likes, #fitness"
+  - username: "simy_fit"
+    fullname: >-
+      Simyfit
+    bio: >-
+      Şubelerimiz : Ataşehir/ Etiler DEMO randevusu için📞 🥳antigravity fitness/aletli pilates @simyfitpilatesyoga @tasarimmaskeler @toptanihtiyaclar
+    location: "Turkey"
+    followers: 51000
+    engagement: 187
+    commentsToLikes: 0.021779
+    id: ck5hg1uqc0hob0i11ve3m01zt
+    verified: false
+    hashtags: "#antigravityyoga, #ata, #hamakyogas, #pilates"
 ---

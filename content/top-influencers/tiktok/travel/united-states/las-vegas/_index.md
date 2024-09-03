@@ -1,11 +1,11 @@
 ---
-title: Top 10 Travel TikTok Influencers In Las Vegas In 2023
+title: Top 10 Travel TikTok Influencers In Las Vegas In 2024
 description: >-
-  Find top travel TikTok influencers in Las Vegas in 2023. Most popular hashtags: #lasvegas #fyp #travel #itsourhome.
+  Find top travel TikTok influencers in Las Vegas in 2024. Most popular hashtags: #fyp #lasvegas #travel #vegas.
 platform: TikTok
 hits: 74
-text_top: Discover the most popular TikTok influencers on inBeat.
-text_bottom: Our search engine holds 74 TikTok influencers like this in Las Vegas, United States for you to connect with.
+text_top: Discover the top-rated TikTok profiles on inBeat.
+text_bottom: inBeat holds 74 TikTok influencers like this in Las Vegas, United States for you to contact.
 profiles:
   - username: "gerry.im"
     fullname: >-
@@ -31,6 +31,30 @@ profiles:
     id: cka0vlp34z4r30i78xbbhbzm1
     verified: false
     hashtags: "#nps, #fyp, #traveltiktok, #palmsprings"
+  - username: "explore_sd"
+    fullname: >-
+      user7751984492931
+    bio: >-
+      Sharing my passion for Food 🍱 Beauty💄Fashion 👗 Lifestyle, single mom 👩‍👦‍👦
+    location: "United States"
+    followers: 21300
+    engagement: 560
+    commentsToLikes: 0.077486
+    id: ckcpd8p1mfwz40j233wdcyqu9
+    verified: false
+    hashtags: "#sandiegoadventures, #sandiegoblogger, #foodie, #lasvegas"
+  - username: "privatejetsetter4"
+    fullname: >-
+      privatejetsetter420
+    bio: >-
+      • Cannabis Entrepreneur • Travel Hacker • Content Producer • Grateful Human
+    location: "United States"
+    followers: 13300
+    engagement: 503
+    commentsToLikes: 0.053197
+    id: ckbl06jfxwrcp0j230vm1grdx
+    verified: false
+    hashtags: "#nyc, #helicopter, #aviation, #privatejet"
   - username: "cb_dachamp"
     fullname: >-
       ♥️ CB Briggs ♥️
@@ -42,55 +66,19 @@ profiles:
     commentsToLikes: 0.119692
     id: ckdclkchcnsl80j234xroi5tj
     verified: false
-    hashtags: "#travel, #itsourhome, #lasvegas, #vacations"
-  - username: "kyleandsony"
+    hashtags: "#charity, #onestepcloser, #momsoftiktok, #trend"
+  - username: "mrs.dizzyg24"
     fullname: >-
-      🇺🇸KYLE & SONY🇲🇽
+      Yamilet😁
     bio: >-
-      We eat food and we go places 👽 English/Español 📧 soniamayu9611@hotmail.com
+      Have fun, be safe, love you 😘 @dizzyg24
     location: "United States"
-    followers: 1400000
-    engagement: 1027
-    commentsToLikes: 0.002952
-    id: ck806ztvtnfx10j78sa6p2y0f
+    followers: 11500
+    engagement: 736
+    commentsToLikes: 0.097903
+    id: ckbqotwjz9ju10j23b6cloe1l
     verified: false
-    hashtags: "#lasvegas, #parati, #kyleandsony, #valleyoffirestatepark"
-  - username: "trendytraveler"
-    fullname: >-
-      Bernice Padilla
-    bio: >-
-      Flight Attendant ✈️ Adventure Travel on a Budget! Come say hi on IG! ☺️
-    location: "United States"
-    followers: 84700
-    engagement: 734
-    commentsToLikes: 0.018377
-    id: ckcv70hs4pu870j23t5mkwge4
-    verified: false
-    hashtags: "#traveltips, #flamingobeach, #aviation, #cancun"
-  - username: "chrismillsofficial"
-    fullname: >-
-      Chris Mills
-    bio: >-
-      DJ, Bartender, Artist, Loser 📍Chico, Ca
-    location: "United States"
-    followers: 58200
-    engagement: 1934
-    commentsToLikes: 0.023091
-    id: ckdsv0nj1pywh0j23fbsjch9v
-    verified: false
-    hashtags: "#mixology, #daily, #bartender, #foryoupage"
-  - username: "alex.jianu"
-    fullname: >-
-      Alex Jianu
-    bio: >-
-      on the pursuit of happiness 🌴✨🦎💫🔆🤙🏻 🦋IG: alex.jianu
-    location: "United States"
-    followers: 15900
-    engagement: 1529
-    commentsToLikes: 0.246916
-    id: ckcjeuoruapka0j23wklp60fj
-    verified: false
-    hashtags: "#workout, #florida, #fitness, #dayinmylife"
+    hashtags: "#fyp, #floral, #viral, #trending"
   - username: "okaynataliee"
     fullname: >-
       Natalie Tapia
@@ -103,18 +91,6 @@ profiles:
     id: ckdi7j7079hk00j231zkj2gec
     verified: false
     hashtags: "#excision, #fyp, #evolutiontour, #foryoupage"
-  - username: "valeriaamzz"
-    fullname: >-
-      Valeria Meza
-    bio: >-
-      ig: valeriaamzz 🦋
-    location: "United States"
-    followers: 2728
-    engagement: 716
-    commentsToLikes: 0.030064
-    id: ckb98au5dribt0j23yfjj18ky
-    verified: false
-    hashtags: "#lasvegas, #throwbacksongs, #travellife, #puppylove"
   - username: "supert"
     fullname: >-
       Tarig
@@ -127,4 +103,28 @@ profiles:
     id: ckbkjsnd2ck550j234dz81m4b
     verified: false
     hashtags: "#foryou, #supercar, #fyp, #hotgirl"
+  - username: "shellzfromhellz"
+    fullname: >-
+      Shelly 
+    bio: >-
+      Oahu > LV 🌺 IG: maharani_shelly YT: Royshell Reyes
+    location: "United States"
+    followers: 12900
+    engagement: 1135
+    commentsToLikes: 0.018497
+    id: cka66ldh7hebu0i78neuppg99
+    verified: false
+    hashtags: "#pocketbully, #xzybca, #foodie, #lasvegas"
+  - username: "marcinteodoru"
+    fullname: >-
+      Marcin Teodoru
+    bio: >-
+      Ecom | Travel | Invest 👆🏼YouTube 🚀 💸Zero to $1,000,000 Challenge! 👇🏼
+    location: "United States"
+    followers: 293100
+    engagement: 482
+    commentsToLikes: 0.088563
+    id: ck9gkm3w6jydx0j7885r2su20
+    verified: false
+    hashtags: "#share, #dogecoin, #cryptocurrency, #travel"
 ---

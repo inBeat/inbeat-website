@@ -1,12 +1,84 @@
 ---
-title: Top 10 Music Instagram Influencers In Switzerland In 2023
+title: Top 10 Music Instagram Influencers In Switzerland In 2024
 description: >-
-  Find top music Instagram influencers in Switzerland in 2023. Most popular hashtags: #violin #love #happy.
+  Find top music Instagram influencers in Switzerland in 2024. Most popular hashtags: #music #love #nature #mexico.
 platform: Instagram
-hits: 86
-text_top: Identify the best Instagram influencers on inBeat.
-text_bottom: Our database has 86 Instagram influencers like this in Switzerland for you to connect with.
+hits: 116
+text_top: Discover the most popular Instagram influencers on inBeat.
+text_bottom: Our platform has 116 Instagram influencers like this in Switzerland for you to pitch.
 profiles:
+  - username: "nerogreco"
+    fullname: >-
+      LIGHT
+    bio: >-
+      @capitalmusicgreece @oldboymembersclub @primothebrand @elysiumgr Bookings & Business Inquiries @bettercallparis 📩 Latest Music Releases In Link :
+    location: "Switzerland"
+    followers: 644444
+    engagement: 1087
+    commentsToLikes: 0.023051
+    id: ck0uaki6hciy20i19xrnooblm
+    verified: true
+    hashtags: "#egotherapy, #patrontequila"
+  - username: "jorgeviladoms"
+    fullname: >-
+      Jorge  Viladoms
+    bio: >-
+      Pianist, Professor at Lausanne Conservatoire and Founder Crescendo con la Musica Foundation. All photos by me or credited
+    location: "Switzerland"
+    followers: 63465
+    engagement: 420
+    commentsToLikes: 0.027558
+    id: ck55o017c7cv50i1157bgfuul
+    verified: true
+    hashtags: "#switzerland, #music, #piano, #mexico"
+  - username: "drillito"
+    fullname: >-
+      Drill
+    bio: >-
+      New Music Video 🎬 DRILL - "LEVEL UP"🍭 Out now!📺 Link in bio ⬇️
+    location: "Switzerland"
+    followers: 23721
+    engagement: 633
+    commentsToLikes: 0.039529
+    id: ck5hgmnhb3lr80i115ly5qf92
+    verified: false
+    hashtags: "#outnow, #komora, #rojenidablestimo, #music"
+  - username: "salvationxends"
+    fullname: >-
+      𝖘𝖆𝖑𝖛𝖆𝖙𝖎𝖔𝖓𝖝𝖊𝖓𝖉𝖘
+    bio: >-
+      XVX • @divine.sentence • scene of it all MUSIC & STUFF ⬇️
+    location: "Switzerland"
+    followers: 10359
+    engagement: 731
+    commentsToLikes: 0.017146
+    id: ck134t17sy22j0i19076auakx
+    verified: false
+    hashtags: "#ootdshare, #fashiaddict, #thefashionforce, #closettjunkie"
+  - username: "djallyssonluis"
+    fullname: >-
+      DjAllyssonLuis
+    bio: >-
+      Zurich 📍 DJ&PRODUCER Bookings only by email 👇👉djallyssonluis@gmail.com Music is my soul 🎵🎶🎧 Gym 💪🏽 Healthy food 🥦Sports 🥊Travel ✈️ 🗣🇩🇪🇪🇸🇬🇧🇧🇷🇫🇷
+    location: "Switzerland"
+    followers: 100189
+    engagement: 300
+    commentsToLikes: 0.021857
+    id: ck6u341xgvkw30j71gjshii8h
+    verified: false
+    hashtags: "#happy, #music, #sintra, #djallyssonluis"
+  - username: "laurent_garnier"
+    fullname: >-
+      Laurent Garnier
+    bio: >-
+      The only official account. In Music For Life. Proud co-owner of @cod3qr
+    location: "Switzerland"
+    followers: 296319
+    engagement: 85
+    commentsToLikes: 0.028640
+    id: ck0vuxrhvmna20i19sa6aognf
+    verified: true
+    hashtags: "#soundcloudexclusive, #notamachine, #every10days, #becausewelovemusic"
   - username: "koelve"
     fullname: >-
       Elvira 🦋
@@ -18,19 +90,7 @@ profiles:
     commentsToLikes: 0.187688
     id: ck0uetn9rm8rc0i19tbe58bm9
     verified: false
-    hashtags: "#enjoy, #love, #loveit, #dreams"
-  - username: "suminastuder"
-    fullname: >-
-      Sumina 澄那 Studer | Violinist
-    bio: >-
-      🎶 Award-winning Musician & Content Creator 🎻 Juilliard School alum 📷 Lifestyle & Violin Tips on Youtube (129K) Apply now for online violin lessons!👇🏻
-    location: "Switzerland"
-    followers: 86486
-    engagement: 731
-    commentsToLikes: 0.011793
-    id: ckap0ww12s60v0i78fujespnt
-    verified: false
-    hashtags: "#classicalmusic, #violinist, #ad, #violin"
+    hashtags: "#wonderful, #beautiful, #dreams, #song"
   - username: "tomer_israeli"
     fullname: >-
       TOMER Israeli
@@ -54,7 +114,7 @@ profiles:
     commentsToLikes: 0.119948
     id: ck8sxs683igvw0j78dr0sa5w8
     verified: false
-    hashtags: "#baroquemusic, #musiqueclassique, #chelista, #carlosgardel"
+    hashtags: "#chelista, #musiqueclassique, #cellosolo, #celloinspiration"
   - username: "crimermusic"
     fullname: >-
       CRIMER
@@ -67,64 +127,4 @@ profiles:
     id: ck5pvv6rcjsj50i11z3imokof
     verified: true
     hashtags: "#crimer, #crimerforpresident, #leeeben, #umengumpen"
-  - username: "nineila_"
-    fullname: >-
-      nineila
-    bio: >-
-      Contact: DM @qirtjsdn_❤️ Music/VideoGames/Anime Follow to see the cutest kitty @shilua__
-    location: "Switzerland"
-    followers: 5690
-    engagement: 851
-    commentsToLikes: 0.066555
-    id: ck8t5dssa9smh0j7823zva5g3
-    verified: false
-    hashtags: "#theshowmustbepaused, #kitsune, #switzerland, #instagood"
-  - username: "djallyssonluis"
-    fullname: >-
-      DjAllyssonLuis
-    bio: >-
-      DJ Allysson Luis Music is my soul 🎵🎶🎧 Gym 💪🏽 Healthy food 🥦Sports 🥊Travel ✈️ Fight for what you love ! 👊🏾 Soundcloud- Allysson Luis
-    location: "Switzerland"
-    followers: 80543
-    engagement: 482
-    commentsToLikes: 0.015726
-    id: ck6u341xgvkw30j71gjshii8h
-    verified: false
-    hashtags: "#summervibes, #happy, #sol, #summer"
-  - username: "lech_antonio"
-    fullname: >-
-      Lech Antonio Uszynski - Viola
-    bio: >-
-      🎻 Solo, chamber music & teaching 📀 RCA Red Seal (Sony) - Artist 🎶 Violist @stradivariquartet 🔴CD, Online Lessons & more - Link below🔴
-    location: "Switzerland"
-    followers: 6830
-    engagement: 478
-    commentsToLikes: 0.061288
-    id: ck134895cv77f0i1970bez9c1
-    verified: false
-    hashtags: "#bratschist, #violinist, #cello, #classicalmusic"
-  - username: "timmomusic"
-    fullname: >-
-      Timmo
-    bio: >-
-      Techno dj and music producer Contact: timmo@djtimmo.com Booking Worldwide: william@no-hour.com 🚨Timmo - REFLECTIONS - @drumcoderecords 👇
-    location: "Switzerland"
-    followers: 20235
-    engagement: 402
-    commentsToLikes: 0.019741
-    id: ckap9q0yvt6n40i78j5k83dtf
-    verified: false
-    hashtags: "#plovdiv, #plovediv, #graffiti, #bulgaria"
-  - username: "sophiaakkara"
-    fullname: >-
-      El Akkara
-    bio: >-
-      Family ❤️✨ Happy Person 🥰 Here to entertain & make #music 🎶
-    location: "Switzerland"
-    followers: 75022
-    engagement: 637
-    commentsToLikes: 0.015009
-    id: ck602ls5whwl20i14jlwdmr93
-    verified: false
-    hashtags: "#brownskingirl, #embracingfemininity, #tradional, #coronadays"
 ---

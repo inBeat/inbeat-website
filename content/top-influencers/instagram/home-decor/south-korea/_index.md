@@ -1,12 +1,24 @@
 ---
-title: Top 10 Home Decor Instagram Influencers In South Korea In 2023
+title: Top 10 Home Decor Instagram Influencers In South Korea In 2024
 description: >-
-  Find top home decor Instagram influencers in South Korea in 2023. Most popular hashtags: #homedecor #interior #homestyling #homecafe.
+  Find top home decor Instagram influencers in South Korea in 2024. Most popular hashtags: #homedecor #ootd #home #interior.
 platform: Instagram
-hits: 16
-text_top: See the most popular Instagram profiles on inBeat.
-text_bottom: Our database holds 16 Instagram influencers like this in South Korea for you to collaborate.
+hits: 18
+text_top: Analyze the best Instagram accounts on inBeat.
+text_bottom: inBeat holds 18 Instagram influencers like this in South Korea for you to collaborate.
 profiles:
+  - username: "jjeong.0125"
+    fullname: >-
+      쩡이 🩶 집꾸미기
+    bio: >-
+      집꾸미기 / 홈카페 / 가죽공방 / 데일리룩 집순이의 취미, 일상 기록
+    location: "South Korea"
+    followers: 88050
+    engagement: 39
+    commentsToLikes: 0.007286
+    id: ck9wdjbrnfwcc0j7837zavloo
+    verified: false
+    hashtags: "#homestyle, #livingroom, #interior, #homedecor"
   - username: "michykim"
     fullname: >-
       이동은 심리상담
@@ -43,18 +55,6 @@ profiles:
     id: ckapam3s7wnha0i785m6p07og
     verified: false
     hashtags: "#roomdecor, #kitchendecor, #roominterior, #lgdios"
-  - username: "nana.ming"
-    fullname: >-
-      그리다오늘 MINJI
-    bio: >-
-      내가 그려낸 오늘의 장면🕰 -
-    location: "South Korea"
-    followers: 99110
-    engagement: 230
-    commentsToLikes: 0.032917
-    id: ck6uidwqleink0j71vybf977a
-    verified: false
-    hashtags: "#roomdecor, #kitcheninterior, #homecafe, #woodinterior"
   - username: "_seubi"
     fullname: >-
       seubi / 서비
@@ -67,18 +67,6 @@ profiles:
     id: ck5zofuy5qh3x0i14zck3f2q7
     verified: false
     hashtags: "#camping, #plating, #interior, #home"
-  - username: "jjeong.0125"
-    fullname: >-
-      jjeong
-    bio: >-
-      🏠 👗 👜 ☕️ 디엠으로 제품 문의 받지 않아요 🙅🏻‍♀️
-    location: "South Korea"
-    followers: 80390
-    engagement: 95
-    commentsToLikes: 0.008967
-    id: ck9wdjbrnfwcc0j7837zavloo
-    verified: false
-    hashtags: "#daily, #instagram, #homedecor, #dailypic"
   - username: "zamzam_house_"
     fullname: >-
       젬빵파이
@@ -91,6 +79,42 @@ profiles:
     id: ck9weuqfmlxcq0j78y90grw0r
     verified: false
     hashtags: "#homestyling, #likeforfollow, #like4likes, #puppylove"
+  - username: "itsjinakim"
+    fullname: >-
+      Jina Kim • 김지나
+    bio: >-
+      All about Korean culture 🇰🇷 🎥 YouTube: itsjinakim (540k+) 🌎 Global content creation service: @itsus_media
+    location: "South Korea"
+    followers: 45386
+    engagement: 515
+    commentsToLikes: 0.023904
+    id: ck15uxc7soybt0i19wkm5mnco
+    verified: false
+    hashtags: "#nurilounge, #kbeauty, #philippines, #nurihaus"
+  - username: "lalakanoha"
+    fullname: >-
+      𝙇𝙖𝙡𝙖 𝘽𝙖𝙚𝙠  🦋🌙
+    bio: >-
+      📍 𝙇𝙞𝙛𝙚 𝙞𝙣 𝙆𝙤𝙧𝙚𝙖 🇰🇷🇺🇦 ♡ 모델 & 인플루언서. TikTok 125K ♡ 📌 광고문의 , 협찬 collab 𝐃𝐌
+    location: "South Korea"
+    followers: 117840
+    engagement: 39
+    commentsToLikes: 0.010823
+    id: ck9wecq92jpp80j780zp6c5hq
+    verified: false
+    hashtags: "#koreanbeauty, #ulzzangfashion, #koreanstyle, #koreangirl"
+  - username: "clarissaacindy"
+    fullname: >-
+      𝐂𝐢𝐧𝐝𝐲🌼
+    bio: >-
+      👫 making and creating things with @dionjonathn 🇲🇨 motion designer📍Seoul 🇰🇷 🌐 300k+ on TikTok @clarissaacindy 📩 hi.clarissaacindy@gmail.com
+    location: "South Korea"
+    followers: 72757
+    engagement: 6
+    commentsToLikes: 0.000461
+    id: ck5hpknlmril80i112duewd7r
+    verified: false
+    hashtags: "#seoulclinic, #korea, #singlesinferno, #singlesinferno3"
   - username: "naina_thapa"
     fullname: >-
       Naina ★네나★🧿
@@ -102,29 +126,5 @@ profiles:
     commentsToLikes: 0.051511
     id: ck6uevqevtcty0j718rd4gh5w
     verified: false
-    hashtags: "#photooftheday, #fashionista, #beauty, #makeup"
-  - username: "ladyshome_"
-    fullname: >-
-      레이디스홈
-    bio: >-
-      다음주!!! 봉피양 양념갈비 4차 3. 2 청풍명월 고기곰탕 3. 8 금왕돈까스& 함박
-    location: "South Korea"
-    followers: 68208
-    engagement: 209
-    commentsToLikes: 0.060994
-    id: ck5q2gkq3fwt00i11w304clxs
-    verified: false
-    hashtags: "#mykitchen, #homestyling, #kitchendesign, #30"
-  - username: "drtoledoph"
-    fullname: >-
-      Librado Toledo Jr MD
-    bio: >-
-      🧏🏼 @toledomedph (CEO) Secretary General: KCCS Philippine Chapter Board Diplomate/Fellow Korean College of Cosmetic Surgery (KCCS). PAAS. PAPSHPI
-    location: "South Korea"
-    followers: 16180
-    engagement: 47
-    commentsToLikes: 0.029186
-    id: ck0w0b2xzdazg0i196bte9820
-    verified: false
-    hashtags: "#bhfyp, #photography, #fashion, #flowers"
+    hashtags: "#bhfyp, #style, #instagood, #art"
 ---

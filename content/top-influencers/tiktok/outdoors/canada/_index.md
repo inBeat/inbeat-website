@@ -1,11 +1,11 @@
 ---
-title: Top 10 Outdoors TikTok Influencers In Canada In 2023
+title: Top 10 Outdoors TikTok Influencers In Canada In 2024
 description: >-
-  Find top outdoors TikTok influencers in Canada in 2023. Most popular hashtags: #fyp #outdoors #nature #foryou.
+  Find top outdoors TikTok influencers in Canada in 2024. Most popular hashtags: #fyp #outdoors #foryou #nature.
 platform: TikTok
 hits: 129
-text_top: See the top-rated TikTok accounts on inBeat.
-text_bottom: Our database aggregates 129 TikTok influencers like this in Canada for you to contact.
+text_top: Identify the best TikTok profiles on inBeat.
+text_bottom: Our platform holds 129 TikTok influencers like this in Canada for you to pitch.
 profiles:
   - username: "jess.ess"
     fullname: >-
@@ -83,14 +83,14 @@ profiles:
     fullname: >-
       Rachel Hall
     bio: >-
-      NovaScotia🇨🇦 Forever chasing the sun☀️ Ocean lover🌊 Mom to 🐱🐶🌿 DIY🏡
+      Nova Scotia🇨🇦 Forever chasing the sun☀️ Ocean lover🌊 Mom to 🐱🐶 DIY🏡
     location: "Canada"
-    followers: 18300
-    engagement: 875
-    commentsToLikes: 0.060812
+    followers: 20500
+    engagement: 736
+    commentsToLikes: 0.055450
     id: ckdbrqr2nc9k90j23dgrr555g
     verified: false
-    hashtags: "#halifax, #cinematic, #homeimprovement, #puppy"
+    hashtags: "#home, #travel, #dog, #explore"
   - username: "mddyelrck"
     fullname: >-
       Madison Elrick
@@ -102,7 +102,7 @@ profiles:
     commentsToLikes: 0.026271
     id: ck9niea2ygv330j789mwptvne
     verified: false
-    hashtags: "#hiking, #mountains, #foryou, #travel"
+    hashtags: "#mountains, #adventure, #wildflowers, #winter"
   - username: "errincasa"
     fullname: >-
       Errin Casano
@@ -114,7 +114,7 @@ profiles:
     commentsToLikes: 0.059602
     id: ck80orbbnjhes0j78cavnzeer
     verified: false
-    hashtags: "#adventure, #ohcanada, #fallaesthetic, #fyp"
+    hashtags: "#ohcanada, #adventure, #naturalwonders, #outdoors"
   - username: "sebpic_"
     fullname: >-
       sebpic
@@ -126,5 +126,5 @@ profiles:
     commentsToLikes: 0.044729
     id: ck94l5h9pxzc10j78qzv2pp5j
     verified: false
-    hashtags: "#outdoors, #travel, #nature, #explore"
+    hashtags: "#adventure, #nature, #outdoors, #travel"
 ---

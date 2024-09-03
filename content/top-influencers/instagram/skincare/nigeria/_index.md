@@ -1,12 +1,24 @@
 ---
-title: Top 10 Skincare Instagram Influencers In Nigeria In 2023
+title: Top 10 Skincare Instagram Influencers In Nigeria In 2024
 description: >-
-  Find top skincare Instagram influencers in Nigeria in 2023. Most popular hashtags: #skincare #naturalhair #ootd.
+  Find top skincare Instagram influencers in Nigeria in 2024. Most popular hashtags: #skincare #explore #explorepage.
 platform: Instagram
-hits: 37
-text_top: Identify the top-rated Instagram influencers on inBeat.
-text_bottom: inBeat has 37 Instagram influencers like this in Nigeria for you to connect with.
+hits: 47
+text_top: Analyze the best Instagram profiles on inBeat.
+text_bottom: Our platform has 47 Instagram influencers like this in Nigeria for you to collaborate.
 profiles:
+  - username: "feranmiperez"
+    fullname: >-
+      FeranmiPerez.
+    bio: >-
+      Tech. Fashion. Skincare. Travel.
+    location: "Nigeria"
+    followers: 34186
+    engagement: 704
+    commentsToLikes: 0.043385
+    id: ckap1t2d1w0h70i788fu0zh1z
+    verified: false
+    hashtags: "#explore, #explorepage, #feranmiperez, #breakfast"
   - username: "thejennjackson"
     fullname: >-
       Jenn Jackson | Influencer
@@ -55,18 +67,6 @@ profiles:
     id: ck134jto2ws6s0i19axdb3oie
     verified: false
     hashtags: ""
-  - username: "realsophy"
-    fullname: >-
-      SHADES OF SOPHIA ♉️
-    bio: >-
-      👩‍🍳Chef @tastewithsophy Twitter: Realsophy Snapchat: Real_sophy
-    location: "Nigeria"
-    followers: 96019
-    engagement: 738
-    commentsToLikes: 0.104403
-    id: ck5hrhn71uw9s0i11uinjrqi5
-    verified: false
-    hashtags: "#nomakeup, #brandinfluencer, #thursday, #nigeria"
   - username: "istina.manners"
     fullname: >-
       K R I S T I N A
@@ -103,28 +103,28 @@ profiles:
     id: ck601qs27fzx00i14n0jjx64t
     verified: false
     hashtags: "#blackandproud, #entrepreneurlife, #ootd, #meditation"
-  - username: "beautyw.cat"
+  - username: "katheryn_"
     fullname: >-
-      Cat with a C
+      Katherine
     bio: >-
-      Beauty•Hair•Lifestyle Manifesting my reality ✨ Lover of all things beautiful 🌻 3 million+ YouTube views 45K+ subbies NEW VIDEO BELOW
+      •Fashion/Commercial Model •Beauty/Brand influencer •DM for promotion/ Paid collaboration
     location: "Nigeria"
-    followers: 15980
-    engagement: 1575
-    commentsToLikes: 0.079823
-    id: ck14gqruh6ksi0i19m3bsv1rt
+    followers: 22398
+    engagement: 672
+    commentsToLikes: 0.043508
+    id: ckap8ggzuo7d10i78zq2that3
     verified: false
-    hashtags: "#lacefrontunit, #thecrayoncase, #lacefrontwigs, #ootd"
-  - username: "darcibos"
+    hashtags: "#explorepage, #explore, #exploremore, #explormore"
+  - username: "mina_atambi"
     fullname: >-
-      Darci Bos🍭
+      H.E Mina Obeten of Wallstreet
     bio: >-
-      Wife • Mom • Gramma Love God / Love People❤️ 👇🏻Pastors Wife👇🏻 @southhillschurch 🏆Award Winning Cook 🎥YouTube @theboslifetv WFC Ambassador👩🏼‍🍳
+      Lawyer👩🏽‍⚖️ Queen of PR & Comms Founder @e_lawyer_nigeria @theamazontribe Personal branding Expert Gender Rights Advocate ABBA’s bondservant Wife💍
     location: "Nigeria"
-    followers: 7155
-    engagement: 643
-    commentsToLikes: 0.024728
-    id: ckf5rd5rzc9j10j2310jt7av5
+    followers: 6769
+    engagement: 584
+    commentsToLikes: 0.070578
+    id: ck602j8nmhj4j0i14yf81wutv
     verified: false
-    hashtags: "#vacation, #vegan, #skin, #eczema"
+    hashtags: "#livevideo, #duduke, #businessowner, #legallyyes"
 ---

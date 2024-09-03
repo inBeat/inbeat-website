@@ -1,12 +1,96 @@
 ---
-title: Top 10 Comedians Instagram Influencers In Colombia In 2023
+title: Top 10 Comedians Instagram Influencers In Colombia In 2024
 description: >-
-  Find top comedians Instagram influencers in Colombia in 2023. Most popular hashtags: #comedia #tbt #colombia.
+  Find top comedians Instagram influencers in Colombia in 2024. Most popular hashtags: #humor #comedia #viral.
 platform: Instagram
-hits: 97
-text_top: Discover the top-rated Instagram profiles on inBeat.
-text_bottom: Our search engine holds 97 Instagram influencers like this in Colombia for you to contact.
+hits: 113
+text_top: Identify the top-rated Instagram accounts on inBeat.
+text_bottom: inBeat has 113 Instagram influencers like this in Colombia for you to collaborate.
 profiles:
+  - username: "camilopmagia"
+    fullname: >-
+      Camilo Pardo - El Mago
+    bio: >-
+      🃏 Mago 🎤 Comediante 🤿 Divemaster Cuenta de respaldo: @camiloppmagia
+    location: "Colombia"
+    followers: 553327
+    engagement: 841
+    commentsToLikes: 0.006833
+    id: ck5ci76dbs58x0i119shu0xq7
+    verified: false
+    hashtags: "#tbt, #fucksnews"
+  - username: "luisaeloisa_"
+    fullname: >-
+      Luisa Castellanos Ramírez
+    bio: >-
+      Creative director @eloisastudio 🏹💘 Fashion and textile illustrator 🔭 amateur photographer and comedian 📷🤹‍♀️
+    location: "Colombia"
+    followers: 30134
+    engagement: 391
+    commentsToLikes: 0.020521
+    id: ck5q43j9anlkq0i11ewe45obm
+    verified: false
+    hashtags: "#fashionillustration, #illustrateddoris, #fashion, #fashiondrawing"
+  - username: "diegotrujillo"
+    fullname: >-
+      Diego Trujillo
+    bio: >-
+      Actor, comediante. Contacto: diegotrujillo@mac.com Hagan click en este link ⬇️
+    location: "Colombia"
+    followers: 397693
+    engagement: 191
+    commentsToLikes: 0.029956
+    id: ck14jjfwdknwx0i19yzrzsopj
+    verified: true
+    hashtags: "#esparciblepremier, #aceitepremier, #recetaspremier, #premier"
+  - username: "elpeloparado"
+    fullname: >-
+      Tato Devia 💪
+    bio: >-
+      CONTRATACIONES 📳 300 854 73 71 Comediante, amo lo honestamente absurdo de la vida 😁. #TatoDevia ESCRIBAN A ESTE WHATSAPP 👉 300 854 73 71
+    location: "Colombia"
+    followers: 159489
+    engagement: 166
+    commentsToLikes: 0.028963
+    id: ck15szi78floz0i19504d46ge
+    verified: true
+    hashtags: "#navidad2022, #humor, #comediantes, #teatro"
+  - username: "relsantana"
+    fullname: >-
+      Ariel Santana
+    bio: >-
+      Stand up comedian de @thecomedyring 🇩🇴 Productor de @estonoesradioshow y @elopenmic Manager: @randyholguinc
+    location: "Colombia"
+    followers: 304671
+    engagement: 144
+    commentsToLikes: 0.116991
+    id: ck5zz1m8uawtr0i14pllqt60o
+    verified: false
+    hashtags: "#juangabriel, #jerryvargas, #rompeportones, #humor"
+  - username: "alexisvaldes"
+    fullname: >-
+      Alexis Valdes
+    bio: >-
+      Actor Comediante Escritor Autor Director. Boletos para mi nueva comedia en el @towertheatermiami Aquí 👇👇👇
+    location: "Colombia"
+    followers: 502706
+    engagement: 61
+    commentsToLikes: 0.028511
+    id: ckqt1vhc700220j23igmbhckr
+    verified: false
+    hashtags: "#alexisvaldes, #poesia, #losvecinosdearriba, #comedia"
+  - username: "ronicocs"
+    fullname: >-
+      Ronico
+    bio: >-
+      Presentador de TV @redunotv Actor de teatro y novela Comediante Embajador de @herbalife.bo 🇧🇴 BOLIVIA
+    location: "Colombia"
+    followers: 281894
+    engagement: 49
+    commentsToLikes: 0.011198
+    id: ck5hhtujca1pt0i11n7iu5uxe
+    verified: false
+    hashtags: "#ronicocuellar, #dharmagin, #dharmanights, #galaxy"
   - username: "soychispavital"
     fullname: >-
       Chispa Vital
@@ -31,18 +115,6 @@ profiles:
     id: ck5ci6g22s3yx0i11okj0my49
     verified: false
     hashtags: "#comicossudaka"
-  - username: "marifergarcia88"
-    fullname: >-
-      María Fernanda García
-    bio: >-
-      🎬 Actríz, poeta, comediante y deportista. 📺YouTube: MARIFERGARCIATV 📽Manager: @gabrielblancoi ☎️RP: @lunaagencymx
-    location: "Colombia"
-    followers: 152019
-    engagement: 138
-    commentsToLikes: 0.026589
-    id: ckap22c25x2qd0i78y59uxzji
-    verified: true
-    hashtags: "#licha, #actresslife, #tialicha, #actriz"
   - username: "deiviscorrea"
     fullname: >-
       Deivis Correa Bracoviche
@@ -55,76 +127,4 @@ profiles:
     id: ck14hmm44b3040i19ckujlfqn
     verified: false
     hashtags: "#reels, #trend, #deiviscorrea, #comedianteenjefe"
-  - username: "elpeloparado"
-    fullname: >-
-      Tato Devia 💪
-    bio: >-
-      CONTACTO 📳3203567444 Comediante, amo lo honestamente absurdo de la vida 😁. #TatoDevia
-    location: "Colombia"
-    followers: 96844
-    engagement: 90
-    commentsToLikes: 0.065983
-    id: ck15szi78floz0i19504d46ge
-    verified: true
-    hashtags: "#aviones, #humor, #navidad, #reelsinstagram"
-  - username: "elpropiocucuta"
-    fullname: >-
-      Jorge Sánchez
-    bio: >-
-      Comediante y estudiante de Doctorado. Co-creador de @estudienvagospodcast Pillen esto:
-    location: "Colombia"
-    followers: 19192
-    engagement: 143
-    commentsToLikes: 0.025920
-    id: ck5ci6o3ws4i10i110rqj50qs
-    verified: false
-    hashtags: "#cuarentenacoronavirus, #nature, #covid, #bogot"
-  - username: "elhipsterbarato"
-    fullname: >-
-      Sebastián Rincón Comediante
-    bio: >-
-      Comediante en @narradoresdesalitre Fotografía @SebasRinconPh Autoproclamado dios de @geekpunchpodcast Ilustrador en @elhipsterilustra
-    location: "Colombia"
-    followers: 122177
-    engagement: 321
-    commentsToLikes: 0.012810
-    id: ck5ci7aszs5e60i11eucxeyw1
-    verified: false
-    hashtags: "#naruto, #crehana, #mitalento, #saw"
-  - username: "quedecencia"
-    fullname: >-
-      Cristian Abril 🇨🇴
-    bio: >-
-      Equipo Comediantes @4elementoscol Ing. Catastral y Geodesta Futbolista Frustrado Bailarín Desmovilizado Ama de Casa #OhSí
-    location: "Colombia"
-    followers: 96173
-    engagement: 157
-    commentsToLikes: 0.021669
-    id: ck5ci7ckzs5gz0i11mt2wua1c
-    verified: false
-    hashtags: "#quedateencasa, #tbt, #comedia, #barristas"
-  - username: "probandoprobando.comedia"
-    fullname: >-
-      Probando Probando Comedia
-    bio: >-
-      Espacio donde comediantes latinoamericanos experimentados prueben primicias. 🤩 Disfruten de nuestra nueva serie gratis aquí:
-    location: "Colombia"
-    followers: 37816
-    engagement: 145
-    commentsToLikes: 0.013713
-    id: ck5ci67drs3lk0i117sbdew5v
-    verified: false
-    hashtags: "#colombia, #probandoencuarentena, #nogarantizamosnada, #standupcomedy"
-  - username: "millenialde50"
-    fullname: >-
-      José Mario Briceño
-    bio: >-
-      Stand Up Comedian + 💜
-    location: "Colombia"
-    followers: 53484
-    engagement: 120
-    commentsToLikes: 0.013031
-    id: ck5ci77fns5am0i11i5q57o3e
-    verified: false
-    hashtags: "#staystrongaslan, #cuarentenials, #tbt, #sabiduria"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Athletes TikTok Influencers In Toronto In 2023
+title: Top 10 Athletes TikTok Influencers In Toronto In 2024
 description: >-
-  Find top athletes TikTok influencers in Toronto in 2023. Most popular hashtags: #fyp #toronto #canada #sports.
+  Find top athletes TikTok influencers in Toronto in 2024. Most popular hashtags: #fyp #toronto #canada #athlete.
 platform: TikTok
 hits: 14
-text_top: Discover the best TikTok influencers on inBeat.
-text_bottom: Our database has 14 TikTok influencers like this in Toronto, Canada for you to connect with.
+text_top: See the best TikTok profiles on inBeat.
+text_bottom: inBeat holds 14 TikTok influencers like this in Toronto, Canada for you to pitch.
 profiles:
   - username: "mc.design"
     fullname: >-
@@ -14,11 +14,11 @@ profiles:
       16 yr old artist I design stuff and draw athletes Goal 🔀 20K
     location: "Canada"
     followers: 12100
-    engagement: 1572
-    commentsToLikes: 0.039633
+    engagement: 1570
+    commentsToLikes: 0.039542
     id: ck9r3mn24qlnt0j78r2rs71j3
     verified: false
-    hashtags: "#trending, #nba2k, #rap, #nba"
+    hashtags: "#nba2k, #drake, #basketball, #fyp"
   - username: "nandosirianni"
     fullname: >-
       Nando Sirianni
@@ -90,7 +90,7 @@ profiles:
     commentsToLikes: 0.017508
     id: ckdnud1cun00y0j231h6e1ho2
     verified: false
-    hashtags: "#waitaminute, #airpodsjump, #imobsessed, #fyp"
+    hashtags: "#airpodsjump, #waitforit, #wow, #wearenotthesame"
   - username: "oliviawardenn"
     fullname: >-
       Olivia Warden

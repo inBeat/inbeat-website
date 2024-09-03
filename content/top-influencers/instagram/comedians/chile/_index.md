@@ -1,12 +1,36 @@
 ---
-title: Top 10 Comedians Instagram Influencers In Chile In 2023
+title: Top 10 Comedians Instagram Influencers In Chile In 2024
 description: >-
-  Find top comedians Instagram influencers in Chile in 2023. Most popular hashtags: #humor #comedia #comediante.
+  Find top comedians Instagram influencers in Chile in 2024. Most popular hashtags: #comedia #humor #comediante.
 platform: Instagram
-hits: 40
-text_top: Analyze the most popular Instagram accounts on inBeat.
-text_bottom: Our database aggregates 40 Instagram influencers like this in Chile for you to contact.
+hits: 48
+text_top: See the top-rated Instagram influencers on inBeat.
+text_bottom: inBeat aggregates 48 Instagram influencers like this in Chile for you to contact.
 profiles:
+  - username: "pameleiva"
+    fullname: >-
+      Pamelita Leiva
+    bio: >-
+      Puente Altina, Comediante, operada Bariatrica en el 2009. Renací ❤️‍🔥 Tengo harto de todo pero de Buen corte ♥️
+    location: "Chile"
+    followers: 739141
+    engagement: 302
+    commentsToLikes: 0.023276
+    id: ck0vz5bhn7dnz0i195zpyl1mj
+    verified: true
+    hashtags: "#hrhcpuntacana, #bearockstar"
+  - username: "yamireyna"
+    fullname: >-
+      Yamila Reyna
+    bio: >-
+      Argen-chilena 🇦🇷🇨🇱 Actriz/ Comediante Conductora/ Doglover👑 Contacto: contactoyamireyna@gmail.com
+    location: "Chile"
+    followers: 634492
+    engagement: 101
+    commentsToLikes: 0.031205
+    id: ck5zkfnr6je8x0i14wa6jjx3x
+    verified: true
+    hashtags: "#ac, #bodypositive, #sindiosnilate, #imparable"
   - username: "gloriabenavides_oficial"
     fullname: >-
       Gloria Benavides
@@ -47,26 +71,14 @@ profiles:
     fullname: >-
       ronal Alvarado
     bio: >-
-      El valenciano-ANO🇻🇪📍🇨🇱 Comediante, animador, creador de videos Contacto: ronalalvarado45@gmail.com
+      El valenciano-ANO🇻🇪📍🇨🇱 Comediante, animador, creador de videos Contacto: eparonalpublicidad@gmail.com
     location: "Chile"
-    followers: 43714
-    engagement: 692
-    commentsToLikes: 0.203691
+    followers: 56071
+    engagement: 534
+    commentsToLikes: 0.158077
     id: ck6u9mnjqyen10j71huywfl6v
     verified: false
-    hashtags: "#comedia, #bromasenlacalle, #venezolanosenperu, #santiagodechile"
-  - username: "barceloficial"
-    fullname: >-
-      Juan Pablo Barceló ®️
-    bio: >-
-      COMEDIANTE Y ABOGADO, SI NO TE SACO DE LA CÁRCEL AL MENOS TE HAGO REÍR. POLÍTICAMENTE INCORRECTO SI ERES SENSIBLE Y ACOMPLEJADO NO ME SIGAS
-    location: "Chile"
-    followers: 273289
-    engagement: 347
-    commentsToLikes: 0.054362
-    id: ck15qxrvx560y0i19l0viccrv
-    verified: false
-    hashtags: "#freebarceloficial, #panama, #panama507, #venezuela"
+    hashtags: "#humor, #venezolanosensantiago, #venezolanosenchile, #santiago"
   - username: "juanpapintoss"
     fullname: >-
       juanpapintoss
@@ -109,22 +121,10 @@ profiles:
     bio: >-
       Actriz chilena 🎭| Teatro 🎬|TV 💻👌Coach 🙋🎙️Comediante |Standup Sigue mi emprendimiento @casapan_casero
     location: "Chile"
-    followers: 21122
-    engagement: 246
-    commentsToLikes: 0.105289
+    followers: 21758
+    engagement: 242
+    commentsToLikes: 0.113225
     id: ck0w1gj7bj8ha0i199vn1seic
     verified: false
-    hashtags: "#tbt, #actrizchilena, #standup, #comediante"
-  - username: "pameleiva"
-    fullname: >-
-      pamelitaleiva
-    bio: >-
-      Comediante... al parecer desde que nací♥️ Una loca con algo de estilo, que siempre camina con su cara hacia el sol ☀️ Fui a Olmue2020!
-    location: "Chile"
-    followers: 260398
-    engagement: 123
-    commentsToLikes: 0.021211
-    id: ck0vz5bhn7dnz0i195zpyl1mj
-    verified: true
-    hashtags: "#solanxyomujer, #sola, #undurragaawars, #tbt"
+    hashtags: "#gracias, #amor, #standup, #teatro"
 ---

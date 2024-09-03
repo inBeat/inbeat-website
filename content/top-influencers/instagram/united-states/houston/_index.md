@@ -1,24 +1,24 @@
 ---
-title: Top 10 Instagram Influencers In Houston In 2023
+title: Top 10 Instagram Influencers In Houston In 2024
 description: >-
-  Find top Instagram influencers in Houston in 2023. Most popular hashtags: #alumiduty #wickedcustoms #legendaryoffroadperformance.
+  Find top Instagram influencers in Houston in 2024. Most popular hashtags: #houston #taylorswift #yagpchampion.
 platform: Instagram
-hits: 2428
-text_top: Analyze the best Instagram accounts on inBeat.
-text_bottom: Our search engine aggregates 2428 Instagram influencers like this in Houston, United States for you to pitch.
+hits: 2928
+text_top: Identify the best Instagram accounts on inBeat.
+text_bottom: Our platform holds 2928 Instagram influencers like this in Houston, United States for you to work with.
 profiles:
-  - username: "megstripathy"
+  - username: "donovanstiner"
     fullname: >-
-      
+      Donovan Stiner
     bio: >-
-      houston
+      Houston
     location: "United States"
-    followers: 4336
-    engagement: 1871
-    commentsToLikes: 0.058193
-    id: ck6twjredsefk0j713x8skrmi
+    followers: 11739
+    engagement: 1344
+    commentsToLikes: 0.019643
+    id: ckqnh5fmpuwm00j23h7i9y63u
     verified: false
-    hashtags: "#backtoschoolwithbumble, #bumblehoney, #worldhappinessday"
+    hashtags: "#atlbound, #y4, #blackouttuesday"
   - username: "_hhayliee"
     fullname: >-
       Hay
@@ -31,18 +31,6 @@ profiles:
     id: ckap6yxk4hy3g0i785l9g2cyj
     verified: false
     hashtags: "#iconswim"
-  - username: "_destinnni"
-    fullname: >-
-      destini🦋
-    bio: >-
-      Houston
-    location: "United States"
-    followers: 4378
-    engagement: 1432
-    commentsToLikes: 0.085400
-    id: ck5qdrilfwznk0i11oxrxf0or
-    verified: false
-    hashtags: "#vacation, #miniphotodump, #stjohnusvi, #baecation"
   - username: "lauren_turton"
     fullname: >-
       LAUREN KAYLEIGH TURTON
@@ -79,52 +67,64 @@ profiles:
     id: ck5c94za1asa80i11g3yb94yb
     verified: false
     hashtags: "#legendaryoffroadperformance, #wickedcustoms, #legendaryoffroad, #alumiduty"
-  - username: "kennedybonham_"
+  - username: "nnennab"
     fullname: >-
-      Kennedy Bonham
+      Nnenna B |📍NYC & HTX | Humor, Lifestyle, Beauty
     bio: >-
-      health & wellness ⚡️ @ehplabs & @inakapower code 'KENNEDY10' houston, texas TrainWithKennedy ✨👇🏽
+      + unhinged storyteller (all videos in reels tab) + humor, lifestyle, beauty, fashion, travel 📬 collabwithnne@gmail.com 📍Houston / NYC 🇳🇬
     location: "United States"
-    followers: 119770
-    engagement: 1098
-    commentsToLikes: 0.011210
-    id: cl7i19kuptxul0i23f4u9t8fi
+    followers: 291024
+    engagement: 791
+    commentsToLikes: 0.035055
+    id: ck13btebqx2ps0i195177ipao
+    verified: false
+    hashtags: "#nyc, #chicago, #redflags, #grwm"
+  - username: "firstavabesque"
+    fullname: >-
+      Ava Margarita Ramirez (13) 🦢
+    bio: >-
+      🔜 @houstonballetacademy Pro1 23/24 ✨ @yagp ‘21Hope🥇21-23 Finals’22 FinalRound ✨ @adcibc Finals 🥇’22 ✨ @rockschooldance 22/23 ✨ HBA SI 23 22
+    location: "United States"
+    followers: 29077
+    engagement: 1645
+    commentsToLikes: 0.025263
+    id: ckap5mecdcbcd0i78tmpir5aw
+    verified: false
+    hashtags: "#nikolayinfluencer, #pirouette, #arabesque, #worldwideballet"
+  - username: "itsnandibby"
+    fullname: >-
+      Nandi Shani Howard
+    bio: >-
+      Content Director, @essence @essencegu_ Former Editor-in-Chief, @houstoniamag @portraits.sss
+    location: "United States"
+    followers: 13575
+    engagement: 923
+    commentsToLikes: 0.064663
+    id: ck0u0dr7gth7c0i19ugclz0o9
+    verified: false
+    hashtags: "#1908, #houstonforever, #backtowork, #like"
+  - username: "nomswithnoor"
+    fullname: >-
+      Noor | Houston & PHX Food + Lifestyle
+    bio: >-
+      🇯🇴 ✨ noms + lifestyle (& lots of ☕️) 👩‍💻 brand manager 🐾 UH alum | 🐯 @northwesternu grad 💜 📍 houston & phoenix 💍 bride-to-be 💌: nomswithnoor@gmail.com
+    location: "United States"
+    followers: 10126
+    engagement: 580
+    commentsToLikes: 0.232039
+    id: ck13ano71r9y60i19zm730ad5
+    verified: false
+    hashtags: "#phoenix, #houston, #phxfood, #az"
+  - username: "mahamfatima"
+    fullname: >-
+      Maham Fatima
+    bio: >-
+      • Fashion • Beauty • Travel • Lifestyle • 🤍 Been told my stories are very entertaining 😉 💌 info@mahamfatima.com 📍 Houston, Texas
+    location: "United States"
+    followers: 437693
+    engagement: 1568
+    commentsToLikes: 0.039270
+    id: ck5c1wq4yw2sj0i119w4cecln
     verified: false
     hashtags: ""
-  - username: "kensssy_"
-    fullname: >-
-      💗CELEBRITY LASH TECH💗
-    bio: >-
-      Houston, Tx📍 🎥YOUTUBER🎥 business pages: @kroyellebeautyllc @shopkrkollection @theakademy__ booking info: kroyellebeauty@gmail.com
-    location: "United States"
-    followers: 82120
-    engagement: 628
-    commentsToLikes: 0.017481
-    id: cl4l97avwttcd0i23jkf1y6nd
-    verified: false
-    hashtags: "#losangeleslashextensions, #memphislashtraining, #memphislashartist, #houstonlash"
-  - username: "fooodeelicious"
-    fullname: >-
-      Duc | Houston Food & Travel
-    bio: >-
-      Ultimate Goal: Finding the best eats in Houston 📍 houston, texas & beyond! 🍜 tiktok @fooodeelicious 📬 fooodeelicious@gmail.com 🌟 founder @grubclubhtx
-    location: "United States"
-    followers: 68362
-    engagement: 414
-    commentsToLikes: 0.104042
-    id: ck5pyhjqnw1vt0i11yc2um1l0
-    verified: false
-    hashtags: "#ad, #johnnieblonde, #fortheloveofbreakfast, #29"
-  - username: "thejrreyes"
-    fullname: >-
-      JR Reyes
-    bio: >-
-      🇺🇸/🇲🇽 Professional Motocross Racer Houston, Tx @gasgasusa | @monsterarmy
-    location: "United States"
-    followers: 55918
-    engagement: 1004
-    commentsToLikes: 0.009858
-    id: ck5qdd27muz4j0i11xeuwbtwf
-    verified: false
-    hashtags: "#lfg, #monsterarmy, #jr552, #monsterenergy"
 ---

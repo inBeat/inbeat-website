@@ -1,11 +1,11 @@
 ---
-title: Top 10 Travel TikTok Influencers In Los Angeles In 2023
+title: Top 10 Travel TikTok Influencers In Los Angeles In 2024
 description: >-
-  Find top travel TikTok influencers in Los Angeles in 2023. Most popular hashtags: #travel #losangeles #fyp #california.
+  Find top travel TikTok influencers in Los Angeles in 2024. Most popular hashtags: #fyp #travel #losangeles #foryoupage.
 platform: TikTok
-hits: 166
-text_top: Identify the most popular TikTok accounts on inBeat.
-text_bottom: Our search engine aggregates 166 TikTok influencers like this in Los Angeles, United States for you to pitch.
+hits: 165
+text_top: Discover the top-rated TikTok accounts on inBeat.
+text_bottom: Our database holds 165 TikTok influencers like this in Los Angeles, United States for you to work with.
 profiles:
   - username: "rpnickson"
     fullname: >-
@@ -31,6 +31,18 @@ profiles:
     id: cka6efq0dbnss0i78p8fvlvvr
     verified: false
     hashtags: "#football, #uefa, #futbol, #epl"
+  - username: "artshestakov"
+    fullname: >-
+      Artem Shestakov
+    bio: >-
+      Fine Art Photographer & Artist
+    location: "United States"
+    followers: 39200
+    engagement: 881
+    commentsToLikes: 0.035883
+    id: ckb9mqml9g69y0j23ub1kozd3
+    verified: true
+    hashtags: "#sportcar, #supercar, #car, #ferrari"
   - username: "momartinn"
     fullname: >-
       Mo Martin
@@ -54,7 +66,19 @@ profiles:
     commentsToLikes: 0.046334
     id: ck930qengbs720j78pry0ak5b
     verified: false
-    hashtags: "#tiktoktravel, #travel, #roadtrip, #travelchallenge"
+    hashtags: "#california, #travel, #tiktoktravel, #travelchallenge"
+  - username: "hofitkimcohen"
+    fullname: >-
+      Hofit Kim Cohen
+    bio: >-
+      Travel & Lifestyle Blogger + some Comedy 😜 FOLLOW ME ON IG 📸 @hofitkimcohen
+    location: "United States"
+    followers: 17400
+    engagement: 837
+    commentsToLikes: 0.066382
+    id: ck93o54k532mk0j783oj08xdl
+    verified: false
+    hashtags: "#kourtneykardashian, #halloweenvibes, #foryou, #viral"
   - username: "bxalec"
     fullname: >-
       Bxalec
@@ -67,6 +91,18 @@ profiles:
     id: cka6de7nl7lh50i78olocfkok
     verified: false
     hashtags: "#amc, #robinhood, #dogecoin, #puertorico"
+  - username: "shugzaddy"
+    fullname: >-
+      Edgar Rodriguez
+    bio: >-
+      Army Vet 🇺🇸 🇲🇽 Feel Free To Show Some Love ❤️☑️ Don’t be shy 🤫👻👇🏽👇🏽
+    location: "United States"
+    followers: 49400
+    engagement: 378
+    commentsToLikes: 0.044171
+    id: ckahyja4czksg0i788ckn9t3p
+    verified: false
+    hashtags: "#california, #follow, #rap, #funny"
   - username: "bay.photography"
     fullname: >-
       Brandon Yoshizawa
@@ -78,7 +114,7 @@ profiles:
     commentsToLikes: 0.035950
     id: ckb9ffml73u4b0j23yxg8egkx
     verified: false
-    hashtags: "#photography, #landscape, #timelapse, #griffithobservatory"
+    hashtags: "#tiktoktravel, #fog, #griffithobservatory, #losangeles"
   - username: "manny.oakley"
     fullname: >-
       Manny Oakley
@@ -90,41 +126,5 @@ profiles:
     commentsToLikes: 0.040575
     id: ckd0hydeaeq7l0j23bvjlqrt7
     verified: false
-    hashtags: "#fyp, #chef, #anthonybourdain, #destinationdepop"
-  - username: "ithinkmylifeisadream"
-    fullname: >-
-      mim1018
-    bio: >-
-      Instagram: @mim1018 I move around a lot
-    location: "United States"
-    followers: 4246
-    engagement: 1095
-    commentsToLikes: 0.054833
-    id: ck9804aea65ak0j78o3xysv40
-    verified: false
-    hashtags: "#outdoors, #la, #gooutside, #dtla"
-  - username: "enchantedkel"
-    fullname: >-
-      Kelly Tran
-    bio: >-
-      Hi I like to go on adventures Follow for more on Instagram @kayemte
-    location: "United States"
-    followers: 7333
-    engagement: 694
-    commentsToLikes: 0.045446
-    id: ckdhvbe4b3pe60j23hdsoswdt
-    verified: false
-    hashtags: "#selfcare, #traveltok, #travel, #orangecounty"
-  - username: "travelbud"
-    fullname: >-
-      TravelBud
-    bio: >-
-      Living one frame at a time 🌏🎥
-    location: "United States"
-    followers: 25900
-    engagement: 886
-    commentsToLikes: 0.010268
-    id: ck982li32gkln0j78ubf116eg
-    verified: true
-    hashtags: "#travel, #travelbucketlist, #food, #losangeles"
+    hashtags: "#chef, #anthonybourdain, #cottagecore, #travel"
 ---

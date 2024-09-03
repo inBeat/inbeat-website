@@ -1,130 +1,130 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In Turkey In 2023
+title: Top 10 Nutrition Instagram Influencers In Turkey In 2024
 description: >-
-  Find top nutrition Instagram influencers in Turkey in 2023. Most popular hashtags: #diyet #diyetisyen #glutensiz.
+  Find top nutrition Instagram influencers in Turkey in 2024. Most popular hashtags: #reels #reklam #kesfet.
 platform: Instagram
-hits: 53
-text_top: Analyze the best Instagram accounts on inBeat.
-text_bottom: Our platform aggregates 53 Instagram influencers like this in Turkey for you to work with.
+hits: 57
+text_top: See the most popular Instagram profiles on inBeat.
+text_bottom: Our platform holds 57 Instagram influencers like this in Turkey for you to collaborate.
 profiles:
-  - username: "birkanpolatcom"
+  - username: "edasubarlk"
     fullname: >-
-      Birkan Polat
+      Edasu Barlık
     bio: >-
-      👑 2x Turkey Stunt CHAMPION 🏆 📩 @unite_d.co Sponsors: Spormoto KTM, Hardline Nutrition, Mitas Tires
+      • Yeditepe|Nutrition&Dietetics • edasu@flickturkiye.com
     location: "Turkey"
-    followers: 113302
-    engagement: 391
-    commentsToLikes: 0.026939
-    id: ck6u6dyuvf1k70j710q9peoma
-    verified: true
-    hashtags: "#dertedition"
-  - username: "gulsahgorgulu"
-    fullname: >-
-      Gülşah Görgülü
-    bio: >-
-      @biogain.nutrition @organiksatinal “gulsah10” @lezizdiyet “gulsah10” @lactonelife “GÜLSAH10” 💥Bikini Atlethe🏆 👑ONLINE COACHING👑
-    location: "Turkey"
-    followers: 32338
-    engagement: 583
-    commentsToLikes: 0.016662
-    id: ck6u8r2ijt6ak0j71fmnzmfxb
+    followers: 84785
+    engagement: 995
+    commentsToLikes: 0.023163
+    id: ck15tp2bbj6vl0i19fgflzcig
     verified: false
-    hashtags: "#bikinifitnes, #loveyou, #sundaymornings, #reelsinstagram"
-  - username: "nazlimevsimler"
+    hashtags: "#markael"
+  - username: "sami_jafary"
     fullname: >-
-      𝑵 𝑨 𝒁 𝑳 𝑰
+      MOBIN RAEIS JAFARI
     bio: >-
-      Cyprus🏝 Live Laugh Love "Nutrition & Dietetics" 4/4🍍
+      📍Istanbul Certified PERSONAL TRAINER 🇹🇷🇦🇪🇮🇷 🔖advanced nutrition coach sponsor @alo.fitt 💵
     location: "Turkey"
-    followers: 7795
-    engagement: 812
-    commentsToLikes: 0.004868
-    id: ckap0igspqfmt0i78wbjgnxx8
+    followers: 656145
+    engagement: 597
+    commentsToLikes: 0.032638
+    id: ck9why8p8004l0j78d975usoc
     verified: false
-    hashtags: "#october, #nofilter, #rainbow, #happysunday"
-  - username: "neyranguneli"
+    hashtags: "#sami, #gym, #istanbul, #fitnessmotivation"
+  - username: "aysekoroglu"
     fullname: >-
-      Neyran Güneli
+      Ayşe Köroğlu
     bio: >-
-      Personal Trainer CF Games 2018/19 Fittest in Turkey🇹🇷 Crossfit Games'19 Athlete Nutritionist of Myself Psychologist @gnltraining @athletetrainingtr
+      Plantlab 1-2 Raw Cuisine& Culinary Nutrition Dylan Werner YOGA 200 HTT Functional Medicine Coach / IFM İsbirlikleri icin ayseozgurkoroglu@gmail.com
     location: "Turkey"
-    followers: 6189
-    engagement: 489
-    commentsToLikes: 0.021327
-    id: ck15tu56ojwxf0i199rpmpg1n
+    followers: 136999
+    engagement: 353
+    commentsToLikes: 0.012335
+    id: ck15u5hd0li6f0i198cccjdpk
     verified: false
-    hashtags: "#gnltraining, #athletetrainingtr, #ladiesfirst, #throwdownthursday"
-  - username: "m.y.hulk_"
+    hashtags: "#lisboa, #reels, #lisbon, #portugal"
+  - username: "zdilarakilavuz"
     fullname: >-
-      MUSTAFA YILDIZ
+      Zeynep Dilara KILAVUZ
     bio: >-
-      📲@begreen_app 👕@begreenwear 🛒@organiksatinal🔻HULK10 💊@biogain.nutrition 🏃‍♂️Benimle birlikte Çalışmak İçin Linke tıkla👇🏻
+      UZMAN DİYETİSYEN & YAŞAM KOÇU Yeditepe University BSc & MSc Nutrition and Dietetics International Business and Trade Ofis:
     location: "Turkey"
-    followers: 394298
-    engagement: 206
-    commentsToLikes: 0.278376
-    id: ck6u8r01nt5ul0j71nvz6k9hz
+    followers: 15021
+    engagement: 324
+    commentsToLikes: 0.022575
+    id: ck9hbvqx7inun0j78xh68fvdv
     verified: false
-    hashtags: "#bodybuilding, #motivation, #challenge, #superheavyweight"
-  - username: "dr.aysegulcoruhlu"
+    hashtags: "#office, #diyetyemekleri, #diyet, #diyetisyen"
+  - username: "mlkcuvk"
     fullname: >-
-      AYSEGUL CORUHLU
+      Melike Çuvak
     bio: >-
-      Dr. CELL-BEING Cellular Well-being, Circadian Health Anti- Aging Longevity Alkaline Nutrition Upgrade Your Cells 💉💊 0212-2360898/0542-8366798
+      👩‍💻#businessanalyst & #healthcoach & #influencer 👩‍🎓Nutrition & Dietetic MASTER STUDENT 📍istanbul🇹🇷 Birlikte Çalışalım⬇️
     location: "Turkey"
-    followers: 491429
-    engagement: 195
-    commentsToLikes: 0.030960
-    id: ckf5n28lswfgl0j23itdkni5s
-    verified: true
-    hashtags: ""
-  - username: "elifgulakkaya"
-    fullname: >-
-      Elif Gül Akkaya
-    bio: >-
-      💫Cosmic Healing 💫Quantum Drama 💫Vedic Astrology 🎓IIN Int. Nutrition & Health Coach 🎓Boğaziçi Uni.
-    location: "Turkey"
-    followers: 2442
-    engagement: 341
-    commentsToLikes: 0.065220
-    id: ck9wf53ogn8mn0j78eoifm9tk
+    followers: 37731
+    engagement: 259
+    commentsToLikes: 0.025602
+    id: ck14j3zcaiin60i19en7aoaf2
     verified: false
-    hashtags: "#knowyourself, #farkindalik, #temizbeslenme, #eatwhole"
-  - username: "emirinalbay"
+    hashtags: "#bug, #iyihisset, #zurich, #lifestyle"
+  - username: "elvan_odabasi"
     fullname: >-
-      Emir İnalbay
+      Elvan Odabaşı
     bio: >-
-      @mutasyonacademy KADIN-ERKEK FİZİKSEL DEĞİŞİM YAĞ YAKIMI-KAS YAPIMI 📞05355878756📞 @fullrangewear @organiksatinal @hardline.nutrition ⬇️DEĞİŞİM İÇİN⬇️
+      “Futuristic food and nutrition designer” Diyetisyen Girişimci Konuşmacı Yazar @formeo.com.tr @hitox.co İş birliği 📧 bilgi@formeo.com.tr
     location: "Turkey"
-    followers: 114667
-    engagement: 132
-    commentsToLikes: 0.158984
-    id: ck1396o1ojssw0i19ez7zzy1i
+    followers: 144547
+    engagement: 86
+    commentsToLikes: 0.012230
+    id: ck5q0wp2e84tx0i11oginny1s
     verified: false
-    hashtags: "#tbt"
-  - username: "diyetisyensemanurtuysuz"
+    hashtags: "#ankara, #reklam, #doyadoyahafifle, #doyadoyaya"
+  - username: "senabenduylutuncer"
     fullname: >-
-      Dyt.Semanur Tüysüz
+      Sena Mustafa Tuncer 📷
     bio: >-
-      🎓Ondokuz Mayıs Üniversitesi ✨Diyetisyen-Nutritionist 🎓 Gıda Mühendisliği Yüksek Lisans⏳ ✨ONLİNE DİYET & SORULARINIZ İÇİN DM📩
+      Yiğit&Çınar👣👣 İkiz annesi& İkiz babası🐥🐥 Herbalife Nutrition💚
     location: "Turkey"
-    followers: 13893
-    engagement: 388
-    commentsToLikes: 0.520466
-    id: ck8tc5qvgydmr0j78zwmdvftw
+    followers: 114531
+    engagement: 81
+    commentsToLikes: 0.010495
+    id: ck8t43tvr5eta0j78dbsqns8l
     verified: false
-    hashtags: "#diyet, #onlinediyet, #diyetisyen, #sizdengelenler"
-  - username: "isik_gulcin"
+    hashtags: "#artiksenatuncer, #twinsbaby, #ikizler, #ikizbebek"
+  - username: "cerenyavuz"
     fullname: >-
-      Dyt. Gülçin Işık
+      Ceren Yavuz, MSc, RNutr, CISSN 🇬🇧
     bio: >-
-      DİYETİSYEN~IŞIK DANIŞMANLIK~ Hürriyet Köşe Yazarı📕 Massport Health Club-Sport Nutritionist💪 FightPark-PT Paella Balık/Kalamar Rest.
+      🇬🇧 UK Registered Nutritionist 🌎 Online Beslenme Danışmanlığı 💌 online@cyknutrition.co.uk 👩🏻‍💻 @cyknutrition @lafetejewellery @ikincimeslegim 📍London
     location: "Turkey"
-    followers: 26653
-    engagement: 484
-    commentsToLikes: 0.012737
-    id: ckaoyf7j4h9qw0i784go8tf3e
+    followers: 75805
+    engagement: 109
+    commentsToLikes: 0.013368
+    id: ck5q9ym56do160i113iq82lj7
     verified: false
-    hashtags: "#sendromsuzpazartesi, #ba, #korona, #diyetyemekleri"
+    hashtags: "#cerenyavuz, #bo, #cyksezgisel, #cykdiyetkulturu"
+  - username: "aysegunduzgunes"
+    fullname: >-
+      Ayşe Gündüz Güneş
+    bio: >-
+      Engineer • Life Coach • Nutrition Coach 💌İletişim: aysegunduzgunes@gmail.com 🌍42 Countries 📍Antalya • İstanbul @eventmag Private Club
+    location: "Turkey"
+    followers: 152443
+    engagement: 70
+    commentsToLikes: 0.030798
+    id: ckap7qotgl5380i78mpjbap8t
+    verified: false
+    hashtags: "#cuban, #donerkebab, #mekanonerisi, #kahvalt"
+  - username: "esinlendinizz"
+    fullname: >-
+      ESİN ENCİ
+    bio: >-
+      ⚜️ Automotive Engineer ⚜️ Co-Founder @pinkquartz.tr @barukozmetik @esinleiletisim ⚜️ Nutrition and Health Coach
+    location: "Turkey"
+    followers: 44876
+    engagement: 261
+    commentsToLikes: 1.989626
+    id: ck8t099imr9ln0j78h7sn0qe8
+    verified: false
+    hashtags: "#sac, #tarak, #makyajvideolar, #sa"
 ---

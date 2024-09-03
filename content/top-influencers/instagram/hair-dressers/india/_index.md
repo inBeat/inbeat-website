@@ -1,24 +1,36 @@
 ---
-title: Top 10 Hair Dressers Instagram Influencers In India In 2023
+title: Top 10 Hair Dressers Instagram Influencers In India In 2024
 description: >-
-  Find top hair dressers Instagram influencers in India in 2023. Most popular hashtags: #photography #hair #love #instagram.
+  Find top hair dressers Instagram influencers in India in 2024. Most popular hashtags: #hair #fashion #beauty #trending.
 platform: Instagram
-hits: 31
-text_top: Analyze the top-rated Instagram accounts on inBeat.
-text_bottom: Our platform has 31 Instagram influencers like this in India for you to work with.
+hits: 43
+text_top: See the most popular Instagram influencers on inBeat.
+text_bottom: Our platform holds 43 Instagram influencers like this in India for you to contact.
 profiles:
   - username: "vipulchudasamaofficial"
     fullname: >-
       VIPUL CHUDASAMA ®️
     bio: >-
-      Hair Influencer | I work for #vipulchudasama Salon-@vipulchudasamasalon | 9769900010 Academy-@vipulchudasamaacademy | 9769100070 Contact for Collab.
+      💎No Individual is Better Than Hairdressing 🔹Coach For Hairdressers, Salon Chains, Academies, Salon Tools & Product Brands. 🔹Courses & Endorsements👇🏻
     location: "India"
-    followers: 37464
-    engagement: 453
-    commentsToLikes: 0.011983
+    followers: 66052
+    engagement: 206
+    commentsToLikes: 0.016311
     id: ck15u0lkjku240i19w4bgmzdl
     verified: false
-    hashtags: "#safesalon, #ombrehair, #bandrasalon, #mumbaisalon"
+    hashtags: "#mumbaidiaries, #hair, #beauty, #vipulchudasama"
+  - username: "paulrishika_"
+    fullname: >-
+      Rishika Paul
+    bio: >-
+      Chartered Accountant | Entrepreneur | Creator Flowers Instagram Rising Star Award 2022 🎖️✨ Kochi | Dubai ✨
+    location: "India"
+    followers: 76952
+    engagement: 599
+    commentsToLikes: 0.016133
+    id: ck0tw20qxdoek0i191u24mjse
+    verified: false
+    hashtags: "#onamvibes, #fyp, #reelitfeelit, #ad"
   - username: "mr.line_"
     fullname: >-
       stylist™️mohamad, mohalati🇮🇷
@@ -43,18 +55,30 @@ profiles:
     id: ck8sw1u82di290j78osoc7lab
     verified: false
     hashtags: "#androgynous, #halloween"
-  - username: "young_boy.31"
+  - username: "aakriti_sanwelya1"
     fullname: >-
-      ♠️ Legend Never Really Dies ♠️
+      aakriti😈
     bio: >-
-      LIFESTYLE 👔 Fashion | Blogger | INFLUENCER 📸 Photographer | Photoshop Artist 📩 Dm&E-mail For COLLABORATION 💖 @danish_zehen Dream 100k #vijayvlogger
+      @elitemissrajasthan_official 2022🧿 Miss Congeniality 2022🧿 || ज़िन्दगी एक सफ़र है सुहाना ||🥀 || यहां कल क्या हो किसने जाना ||🥀
     location: "India"
-    followers: 10204
-    engagement: 245
-    commentsToLikes: 0.295494
-    id: ck9wiqezd3hej0j78sfld1n0e
+    followers: 11881
+    engagement: 415
+    commentsToLikes: 0.083114
+    id: ckf5ooyhx363m0j23qumr1pm8
     verified: false
-    hashtags: "#swagger, #polo, #swagg, #boys"
+    hashtags: "#traditional, #mood, #newpost, #trending"
+  - username: "thatsassybeauty"
+    fullname: >-
+      Baani Dhall | Travel.Fashion.Beauty
+    bio: >-
+      TOP 15 BEAUTY / STYLE ICON🏆 | Chubby girl inspo💯 📍Delhi | Mumbai Dm/E-mail for paid collaboration 📩 Banidhall452@gmail.com I promote self love Sub👇
+    location: "India"
+    followers: 216475
+    engagement: 69
+    commentsToLikes: 0.038398
+    id: cl48q8klqlrkn0i23qmd81unx
+    verified: false
+    hashtags: "#designersuits, #kurties, #floraljewelry, #indianweddingbuzz"
   - username: "ana_j27"
     fullname: >-
       Anada Joshi ✨
@@ -67,64 +91,40 @@ profiles:
     id: ckap7fgzpjuad0i787l4zcfzs
     verified: false
     hashtags: "#instadaily, #lockdown2020, #blackgirlmagic, #girl"
-  - username: "thansi_zebah"
+  - username: "simransachdevaofficial"
     fullname: >-
-      Thansi_zebah
+      SIMRAN SACHDEVA 👑SS
     bio: >-
-      ☠️ZOLLIGOz ☠️ 👉 🌼Thrishur🌼 🎭March 19🎭 👉🔥KL 48🔥 👉Call me THANSI👈❤️ 🔥👉Hair lover👈 👉Leo messi 👈 👇ʷᵗˢᵖ ᵐᵉ
+      CHOTI SARRDAARNI #HARLEEN @colorstv NAAGIN 3 #KUHU @colorstv For Collabs contact @simransachdevateam
     location: "India"
-    followers: 3150
-    engagement: 3136
-    commentsToLikes: 0.141467
-    id: ck9we2w1vich70j78iij70kr3
+    followers: 352077
+    engagement: 45
+    commentsToLikes: 0.034703
+    id: ckap82ik0mjit0i78bee1mahs
     verified: false
-    hashtags: "#gainwithcarlz, #fashionblogger, #gainwithspikes, #chuvadelikes"
-  - username: "luckyram__"
+    hashtags: "#instagram, #bridalwear, #bollywoodactress, #celebrityinfluencer"
+  - username: "officialsimransharma"
     fullname: >-
-      𝐋𝐮𝐜𝐤𝐲 𝐑𝐚𝐦 ~ 𝐟𝐚𝐥𝐠𝐮𝐛𝐨𝐢 💫
+      Simran Sharma
     bio: >-
-      My Life MoM & DaD Music lvr 🎧 MoM first kiss 💋On Feb14👦
+      ⭐ ATTEMPT THE IMPOSSIBLE ⭐ @missgrandinternational India2020 @missrajasthan 2017 Debut Film ’Mr Idiot’ Teaser👇🏻
     location: "India"
-    followers: 19588
-    engagement: 1639
-    commentsToLikes: 0.041098
-    id: ckap5obylcji40i78k3yag22i
+    followers: 126022
+    engagement: 2293
+    commentsToLikes: 0.020920
+    id: ck15spz5ae8mm0i19cbraut64
     verified: false
-    hashtags: "#hair, #instagram, #instadaily, #wayanad"
-  - username: "preetika_pree"
+    hashtags: "#rajasthani, #reelsinstagram, #reelkarofeelkaro, #explore"
+  - username: "divvyahnagar"
     fullname: >-
-      PREETIKA RAO
+      Divya N Chaudhary
     bio: >-
-      - Model Actor Influencer 🇮🇳🇹🇷🇹🇿🇮🇩🇵🇰🇦🇪🇦🇿 - Former Film-Columnist Mirror TOI - OFFICE preetikamumbai@gmail Turned Vegetarian 🌱🧘 Actor who Sings 👇🎤
+      HAIR | BEAUTY | FASHION Owner & Creative Director @houseofivy.online EMAIL Thestylemused@gmail.com
     location: "India"
-    followers: 1123475
-    engagement: 179
-    commentsToLikes: 0.048884
-    id: ck9wfu11cqjtf0j78wchqpmmk
-    verified: true
-    hashtags: "#designerwear, #makeupreels, #cocktaildress, #redcarpetdress"
-  - username: "narushadsouza"
-    fullname: >-
-      Narusha Leonath D'souza
-    bio: >-
-      Rubaru Miss India Elite 2020 Finalist Miss Goa 2019 👑 Miss Freedom Princess 2019 👑 ~Your Personality Is What Matters To Me🧜🏼‍♀️.Goa🌞
-    location: "India"
-    followers: 8345
-    engagement: 1979
-    commentsToLikes: 0.015330
-    id: ckap4n4nq807g0i782gq8hvxi
+    followers: 47318
+    engagement: 293
+    commentsToLikes: 0.017357
+    id: ckmw1d6nb6jer0j239clhu4wy
     verified: false
-    hashtags: "#love, #dresses, #passion, #explore"
-  - username: "officialgarima.keswani__"
-    fullname: >-
-      ਗਰਿਮਾ ਕੇਸਵਾਨੀ🎊❤️
-    bio: >-
-      Bubblish👩 Fashion | Lifestyle | Influencer 💬Dm For Collaborations & Promotions 📍Bhilai Chhattisgarh . SMARTNESS IS A PERFECT BEAUTY.❤️
-    location: "India"
-    followers: 2018
-    engagement: 946
-    commentsToLikes: 0.059260
-    id: ckf5xdc9ov8t80j23vvf6dpse
-    verified: false
-    hashtags: "#punjabifestival, #photo, #chhattishgarh, #bridalmakeup"
+    hashtags: "#desiinfluencer, #longhairstyles, #bblogger, #videocreator"
 ---

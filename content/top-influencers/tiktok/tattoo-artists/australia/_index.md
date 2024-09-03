@@ -1,11 +1,11 @@
 ---
-title: Top 10 Tattoo-Artists TikTok Influencers In Australia In 2023
+title: Top 10 Tattoo-Artists TikTok Influencers In Australia In 2024
 description: >-
-  Find top tattoo-artists TikTok influencers in Australia in 2023. Most popular hashtags: #fyp #artist #foryou #australia.
+  Find top tattoo-artists TikTok influencers in Australia in 2024. Most popular hashtags: #fyp #artist #foryou #australia.
 platform: TikTok
 hits: 9
-text_top: See the top-rated TikTok profiles on inBeat.
-text_bottom: Our platform holds 9 TikTok influencers like this in Australia for you to pitch.
+text_top: Discover the most popular TikTok accounts on inBeat.
+text_bottom: inBeat has 9 TikTok influencers like this in Australia for you to contact.
 profiles:
   - username: "erintattoo"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.035413
     id: ckbrb8qkdpfqz0j23rh5w2c5m
     verified: false
-    hashtags: "#foryou, #tattoolover, #ladytattooartist, #tattooartist"
+    hashtags: "#fyp, #ladytattooartist, #foryou, #tattooartist"
   - username: "maiyddie"
     fullname: >-
       Maddie

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Travel TikTok Influencers In Milan In 2023
+title: Top 10 Travel TikTok Influencers In Milan In 2024
 description: >-
-  Find top travel TikTok influencers in Milan in 2023. Most popular hashtags: #travel #italy #milan #milano.
+  Find top travel TikTok influencers in Milan in 2024. Most popular hashtags: #travel #italy #milan #perte.
 platform: TikTok
 hits: 24
-text_top: Analyze the most popular TikTok influencers on inBeat.
-text_bottom: Our search engine has 24 TikTok influencers like this in Milan, Italy for you to work with.
+text_top: Analyze the best TikTok profiles on inBeat.
+text_bottom: Our platform aggregates 24 TikTok influencers like this in Milan, Italy for you to pitch.
 profiles:
   - username: "xserena182"
     fullname: >-
@@ -31,18 +31,6 @@ profiles:
     id: ck97ym5xd04by0j7874thbl6q
     verified: false
     hashtags: "#cotedazur, #carhire, #tiktoktaac, #andr"
-  - username: "basilgreenpencil"
-    fullname: >-
-      Basil Green Pencil
-    bio: >-
-      Design Inspirations & Blog #DesignTastesGood BasilGreenPencil.com
-    location: "Italy"
-    followers: 2092
-    engagement: 555
-    commentsToLikes: 0.033686
-    id: ck8s5js7ug7m50j78yg9xatf4
-    verified: false
-    hashtags: "#diy, #interiordesign, #halloweendiy, #decor"
   - username: "sespo"
     fullname: >-
       Sespo👼🏻
@@ -102,7 +90,7 @@ profiles:
     commentsToLikes: 0.004108
     id: ck900a6g3a6zg0j78myq0zwl3
     verified: true
-    hashtags: "#indonesia, #gymnastics, #ibiza, #travel"
+    hashtags: "#gymnastics, #travel, #ocean, #cliff"
   - username: "leodonofrio"
     fullname: >-
       Leonardo D’Onofrio
@@ -127,4 +115,16 @@ profiles:
     id: ck85cqguw30vq0j78mlfdqkcu
     verified: false
     hashtags: "#yearontiktok, #humor, #maradona, #reir"
+  - username: "gidigiuliaa"
+    fullname: >-
+      gidigiuliaa
+    bio: >-
+      📍 Milan, Italy 🎂 21 years old ✈️ Love my job 🍏 Fitness addicted
+    location: "Italy"
+    followers: 14300
+    engagement: 597
+    commentsToLikes: 0.016082
+    id: ckai3faejjmm00i78t3sfk6g8
+    verified: false
+    hashtags: "#fitness, #doubleyourimpact, #girlpower, #girls"
 ---

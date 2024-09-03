@@ -1,12 +1,36 @@
 ---
-title: Top 10 Wellness Instagram Influencers In Argentina In 2023
+title: Top 10 Wellness Instagram Influencers In Argentina In 2024
 description: >-
-  Find top wellness Instagram influencers in Argentina in 2023. Most popular hashtags: #wellness #fitness #amor #love.
+  Find top wellness Instagram influencers in Argentina in 2024. Most popular hashtags: #fitness #wellness #training #saludable.
 platform: Instagram
-hits: 26
-text_top: Discover the most popular Instagram profiles on inBeat.
-text_bottom: inBeat has 26 Instagram influencers like this in Argentina for you to collaborate.
+hits: 28
+text_top: Discover the most popular Instagram influencers on inBeat.
+text_bottom: Our database holds 28 Instagram influencers like this in Argentina for you to work with.
 profiles:
+  - username: "maisapcondassin"
+    fullname: >-
+      Maisa P. Condassin
+    bio: >-
+      🍃💪🏻 Fitness/Wellness Te ayudo a alcanzar tus objetivos reestructurando tu mente , entrenamiento y alimentación. Entrena con mi APP @fitwithmaisa 👇🏻⚡️
+    location: "Argentina"
+    followers: 55634
+    engagement: 248
+    commentsToLikes: 0.021866
+    id: ck5c6g0yd5d0o0i11akdkzcev
+    verified: false
+    hashtags: "#health, #meatlessmonday, #fwmapp, #fitness"
+  - username: "melissavaleriano"
+    fullname: >-
+      Melissa Valeriano
+    bio: >-
+      Mamá de Fernando y Catalina Fundadora @theacademybymv TV Host @canal11hn Lifestyle | Maternidad | Wellness | Moda ✨
+    location: "Argentina"
+    followers: 209589
+    engagement: 72
+    commentsToLikes: 0.014417
+    id: ck15s4zs3b97h0i198oojdjvr
+    verified: false
+    hashtags: "#trends, #fashion, #christmas, #gas"
   - username: "danielgallimore_"
     fullname: >-
       Daniel Gallimore
@@ -19,18 +43,6 @@ profiles:
     id: ck5pw6nx1ld8a0i11j6opjhb4
     verified: false
     hashtags: "#modeltrip, #islasecasparadise, #panama, #modelmode"
-  - username: "valerybob04"
-    fullname: >-
-      Valerya Aranda
-    bio: >-
-      ✨Maternidad Real-Tips-Belleza-Wellness✨ Show Business & Marketing 💻🎶 🤰🏻Prego @soynicomtz 👶🏼 Mami de @robimtz ❤️💍 @pollo24 😺Gatijo @bowiejulion
-    location: "Argentina"
-    followers: 55808
-    engagement: 670
-    commentsToLikes: 0.032257
-    id: ck8svwvutd0570j78df209ggd
-    verified: false
-    hashtags: "#pregoproblems, #momlife, #mommydaughter, #maternidadreal"
   - username: "melissalopez302"
     fullname: >-
       Melylopez
@@ -67,18 +79,42 @@ profiles:
     id: ck8t6468dc7200j781svmi3a6
     verified: false
     hashtags: "#urano, #luna, #astrology, #wellnesscoach"
-  - username: "danielvargasc_"
+  - username: "lolupereira"
     fullname: >-
-      Daniel Vargas
+      L O • P E R E I R A
     bio: >-
-      •Precision Nutrition Coach •OPEX Coach •CF Level 1 •Master PNL •Lic Nutrición en proceso •Master Inteligencia Emocional proceso •Cordon Bleu Madrid
+      I’m a person who lives more in my mind than in the world 💌 @lolu.gallery 🌾 @bigg.fitpy 💥
     location: "Argentina"
-    followers: 102950
-    engagement: 94
-    commentsToLikes: 0.008307
-    id: ck6tzgjcy9kh40j716txd2kt1
+    followers: 20030
+    engagement: 418
+    commentsToLikes: 0.113830
+    id: ck6tm8iuz7dga0j71cl65we9b
     verified: false
-    hashtags: "#disciplina, #fitlife, #pedialyte30, #wellness"
+    hashtags: "#martiderm, #tbt, #fyp, #abgirl"
+  - username: "maguiaicega"
+    fullname: >-
+      Magui Aicega
+    bio: >-
+      Leonas 🇦🇷 🏑 Periodista Deportiva. Nutricionista #TNTFutbol 17-19 @tntsportsar Rock&Pop Lu-Vi 13-16 hs ViveSiempre 🏄‍♀️🐶 Embajadora @medifeoficial
+    location: "Argentina"
+    followers: 66556
+    engagement: 290
+    commentsToLikes: 0.032307
+    id: ck6u30o1kuzzu0j716r2veeed
+    verified: false
+    hashtags: "#activosdondesea, #tntsportscontinental, #bienestar, #mesdelamujer"
+  - username: "veganfitfluencer"
+    fullname: >-
+      MARTINA CIANO
+    bio: >-
+      Autora de “Rico, Sano y Vegano”
+    location: "Argentina"
+    followers: 61027
+    engagement: 60
+    commentsToLikes: 0.012971
+    id: ck137ag2yakyf0i19qm9at7n4
+    verified: true
+    hashtags: "#cleaneating, #veganfood, #vegan, #healthy"
   - username: "zetadouka"
     fullname: >-
       Zeta Douka
@@ -91,40 +127,4 @@ profiles:
     id: ck0tz0oe0oogy0i196i2mr63h
     verified: false
     hashtags: "#motheranddaughter, #love, #thalia, #eimasteoloimazi"
-  - username: "camilamainero"
-    fullname: >-
-      𝑪𝒂𝒎𝒊 𝑴𝒂𝒊𝒏𝒆𝒓𝒐 💛
-    bio: >-
-      📍Personal trainer 🗳Asesoramientos online 💻 🔑Construye tu negocio desde 🏠 👙Únete RETO21 📩Contacto: Rellena el formulario ⬇️o envíame un directo ☺️
-    location: "Argentina"
-    followers: 169134
-    engagement: 295
-    commentsToLikes: 0.013993
-    id: ckap6uue3hfyv0i78f97r3yas
-    verified: false
-    hashtags: "#hermanos, #familia, #piscina, #verano"
-  - username: "soyirinamargarita"
-    fullname: >-
-      Irina Margarita
-    bio: >-
-      🍓Fruity Baby Vegana🍓 📩La palabra sana, no hiere... ¡Frases para el alma!✏🗒 No estás sol@... Suelta.... ❤🎶Posita de @tonyelcreador🎶❤
-    location: "Argentina"
-    followers: 5175
-    engagement: 425
-    commentsToLikes: 0.052078
-    id: ck15svf05ezth0i19dxvy9pn6
-    verified: false
-    hashtags: "#familytime, #myveganlife, #empoweringwomen, #womanph"
-  - username: "irene_kilmister"
-    fullname: >-
-      Irene Kilmister Priest💕
-    bio: >-
-      📸Fotógrafa para @max.metal 📸 @irenekilmister.photo 🎶 Rock'n'roll 📓un libro y a vivir 💚 💉Enfermera en Barcelona💊 ✌ 🎤Fan de Mägo de Oz 🎸🎹
-    location: "Argentina"
-    followers: 3065
-    engagement: 988
-    commentsToLikes: 0.049973
-    id: ckf5roza7dgqv0j23o91tbba4
-    verified: false
-    hashtags: "#hairstyle, #metalwoman, #sea, #metalqueen"
 ---

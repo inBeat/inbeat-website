@@ -1,11 +1,11 @@
 ---
-title: Top 10 Vegan TikTok Influencers In Los Angeles In 2023
+title: Top 10 Vegan TikTok Influencers In Los Angeles In 2024
 description: >-
-  Find top vegan TikTok influencers in Los Angeles in 2023. Most popular hashtags: #vegan #losangeles #fyp #duet.
+  Find top vegan TikTok influencers in Los Angeles in 2024. Most popular hashtags: #vegan #losangeles #fyp #duet.
 platform: TikTok
 hits: 34
-text_top: Discover the top-rated TikTok accounts on inBeat.
-text_bottom: Our search engine aggregates 34 TikTok influencers like this in Los Angeles, United States for you to connect with.
+text_top: Discover the most popular TikTok influencers on inBeat.
+text_bottom: Our search engine aggregates 34 TikTok influencers like this in Los Angeles, United States for you to collaborate.
 profiles:
   - username: "clintjosephh"
     fullname: >-
@@ -19,6 +19,30 @@ profiles:
     id: ckdn727uxeyua0j232b7no1mb
     verified: false
     hashtags: "#duet, #aquarius, #gay, #aries"
+  - username: "veggiekins"
+    fullname: >-
+      Remy Morimoto Park
+    bio: >-
+      🇰🇷🇯🇵🇹🇼 vegan / gluten free fewd & matcha IG: @veggiekins (165K)
+    location: "United States"
+    followers: 196900
+    engagement: 1159
+    commentsToLikes: 0.013342
+    id: ck8savrcm3vjb0j784f5skhhy
+    verified: false
+    hashtags: "#simplerecipe, #healthyrecipes, #vegantiktok, #asmrfood"
+  - username: "makkentt"
+    fullname: >-
+      Makenzie
+    bio: >-
+      📍Los Angeles
+    location: "United States"
+    followers: 2905
+    engagement: 1386
+    commentsToLikes: 0.042097
+    id: ckbfi3aw6ds3o0j23c5zuk4jw
+    verified: false
+    hashtags: "#travel, #roadtrip, #nature, #driving"
   - username: "farmernicknyc"
     fullname: >-
       Farmer Nick
@@ -31,18 +55,6 @@ profiles:
     id: ck984vdmxq26p0j78t3a0i1a4
     verified: false
     hashtags: "#losangeles, #plantparent, #vegan, #plantdad"
-  - username: "veggiekins"
-    fullname: >-
-      Remy Morimoto Park
-    bio: >-
-      🇰🇷🇯🇵🇹🇼 vegan / gluten free fewd & matcha IG: @veggiekins (165K)
-    location: "United States"
-    followers: 196900
-    engagement: 1159
-    commentsToLikes: 0.013342
-    id: ck8savrcm3vjb0j784f5skhhy
-    verified: false
-    hashtags: "#veganrecipes, #healthyrecipes, #matcha, #minivlog"
   - username: "tita.tabbie"
     fullname: >-
       🏳️‍🌈tabathuuuuug🏳️‍🌈
@@ -55,18 +67,6 @@ profiles:
     id: ckav4zoeobgge0j235ofgaa3a
     verified: false
     hashtags: "#mystyle, #lgbt, #liftandsnatchbrow, #lesbiantiktok"
-  - username: "makkentt"
-    fullname: >-
-      Makenzie
-    bio: >-
-      📍Los Angeles
-    location: "United States"
-    followers: 2932
-    engagement: 1240
-    commentsToLikes: 0.035410
-    id: ckbfi3aw6ds3o0j23c5zuk4jw
-    verified: false
-    hashtags: "#roadtrip, #travel, #nature, #vibecheckpoint"
   - username: "ashleylizcooper"
     fullname: >-
       Ashley Cooper
@@ -90,7 +90,7 @@ profiles:
     commentsToLikes: 0.033471
     id: ck8or69beash70j7851384jqu
     verified: false
-    hashtags: "#beauty, #makeup, #traderjoes, #hair"
+    hashtags: "#foodtok, #yum, #hair, #makeup"
   - username: "nutritionbabe"
     fullname: >-
       NutritionBabe
@@ -126,5 +126,5 @@ profiles:
     commentsToLikes: 0.062348
     id: ck8hk5rm6cjeo0j78s2q7szjd
     verified: true
-    hashtags: "#fyp, #relatablecontent, #nature, #naturevibes"
+    hashtags: "#la, #rawvegan, #relatablecontent, #californiahiddengems"
 ---

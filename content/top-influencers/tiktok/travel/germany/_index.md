@@ -1,11 +1,11 @@
 ---
-title: Top 10 Travel TikTok Influencers In Germany In 2023
+title: Top 10 Travel TikTok Influencers In Germany In 2024
 description: >-
-  Find top travel TikTok influencers in Germany in 2023. Most popular hashtags: #fyp #travel #germany #foryou.
+  Find top travel TikTok influencers in Germany in 2024. Most popular hashtags: #fyp #travel #foryou #germany.
 platform: TikTok
 hits: 215
-text_top: Discover the most popular TikTok profiles on inBeat.
-text_bottom: Our platform has 215 TikTok influencers like this in Germany for you to work with.
+text_top: Discover the best TikTok accounts on inBeat.
+text_bottom: Our database holds 215 TikTok influencers like this in Germany for you to collaborate.
 profiles:
   - username: "travel.actions"
     fullname: >-
@@ -66,7 +66,7 @@ profiles:
     commentsToLikes: 0.027474
     id: ck81t1h7oupsu0j78h3gzm5q0
     verified: true
-    hashtags: "#fyp, #musicbreakr, #musicbreakrad, #newmusic"
+    hashtags: "#fyp, #newmusic, #musicbreakr, #musicbreakrad"
   - username: "pilotmadeleine"
     fullname: >-
       Travel Blogger
@@ -78,7 +78,7 @@ profiles:
     commentsToLikes: 0.015662
     id: ckb9bqd4ly44l0j239rfhulnb
     verified: false
-    hashtags: "#maldives, #christmas, #travelblogger, #baby"
+    hashtags: "#sonevajani, #malediven, #christmas, #travel"
   - username: "sadddreaam"
     fullname: >-
       Max
@@ -114,7 +114,7 @@ profiles:
     commentsToLikes: 0.012779
     id: ck8qkru3zin260j78n57ljo2n
     verified: false
-    hashtags: "#maldives, #sunset, #summer, #tiktoktravel"
+    hashtags: "#dubai, #travel, #tiktoktravel, #paradise"
   - username: "tajudo"
     fullname: >-
       Tamino

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Crossfit TikTok Influencers In United Kingdom In 2023
+title: Top 10 Crossfit TikTok Influencers In United Kingdom In 2024
 description: >-
-  Find top crossfit TikTok influencers in United Kingdom in 2023. Most popular hashtags: #crossfit #fyp #fitness #workout.
+  Find top crossfit TikTok influencers in United Kingdom in 2024. Most popular hashtags: #crossfit #fyp #fitness #workout.
 platform: TikTok
 hits: 19
-text_top: See the best TikTok accounts on inBeat.
-text_bottom: Our search engine aggregates 19 TikTok influencers like this in United Kingdom for you to collaborate.
+text_top: Analyze the most popular TikTok accounts on inBeat.
+text_bottom: Our search engine holds 19 TikTok influencers like this in United Kingdom for you to pitch.
 profiles:
   - username: "sonnywebstergb"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.021594
     id: ck81s2jhipj8n0j78neatb12p
     verified: true
-    hashtags: "#slowmo, #training, #weight, #fyp"
+    hashtags: "#weight, #olympic, #training, #weightlifting"
   - username: "thedantai"
     fullname: >-
       dantai

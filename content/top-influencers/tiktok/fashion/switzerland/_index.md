@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fashion TikTok Influencers In Switzerland In 2023
+title: Top 10 Fashion TikTok Influencers In Switzerland In 2024
 description: >-
-  Find top fashion TikTok influencers in Switzerland in 2023. Most popular hashtags: #fashion #fyp #foryou #foryoupage.
+  Find top fashion TikTok influencers in Switzerland in 2024. Most popular hashtags: #fashion #fyp #foryou #foryoupage.
 platform: TikTok
-hits: 40
-text_top: Identify the most popular TikTok profiles on inBeat.
-text_bottom: inBeat has 40 TikTok influencers like this in Switzerland for you to pitch.
+hits: 39
+text_top: See the best TikTok accounts on inBeat.
+text_bottom: inBeat holds 39 TikTok influencers like this in Switzerland for you to connect with.
 profiles:
   - username: "thomasrossier"
     fullname: >-

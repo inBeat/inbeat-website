@@ -1,11 +1,11 @@
 ---
-title: Top 10 Health Instagram Influencers In Sao Paulo In 2023
+title: Top 10 Health Instagram Influencers In Sao Paulo In 2024
 description: >-
-  Find top health Instagram influencers in Sao Paulo in 2023. Most popular hashtags: #saopaulo #health #fitness #love.
+  Find top health Instagram influencers in Sao Paulo in 2024. Most popular hashtags: #saopaulo #love #health #fitness.
 platform: Instagram
-hits: 35
-text_top: Identify the top-rated Instagram influencers on inBeat.
-text_bottom: Our database aggregates 35 Instagram influencers like this in Sao Paulo, Brazil for you to contact.
+hits: 41
+text_top: Analyze the best Instagram influencers on inBeat.
+text_bottom: Our database has 41 Instagram influencers like this in Sao Paulo, Brazil for you to collaborate.
 profiles:
   - username: "marimartins1987"
     fullname: >-
@@ -19,18 +19,6 @@ profiles:
     id: ckaowl5p19ek50i78gzj93wa8
     verified: false
     hashtags: "#nordeste, #training, #flagfootball, #crossfit"
-  - username: "isabellepenque"
-    fullname: >-
-      Isabelle Penque
-    bio: >-
-      🤍 just belle. Lifestyle | Health | Beauty | Aesthetic 🌿 Veggie life For work/partnerships DM São Paulo | Brasil | 📩 contatoisabellepenque@gmail.com
-    location: "Brazil"
-    followers: 137688
-    engagement: 252
-    commentsToLikes: 0.009443
-    id: ck6uhjk5s9hjp0j71nil5xe3k
-    verified: false
-    hashtags: "#lookoftoday, #lookinspira, #outfitinspiration, #outfitoftheday"
   - username: "paulo_ito"
     fullname: >-
       paulo ito
@@ -127,4 +115,16 @@ profiles:
     id: ck0u7696a3xz90i19t27y2htg
     verified: false
     hashtags: "#box, #esporte, #saude, #nutricao"
+  - username: "brunoagnello"
+    fullname: >-
+      Bruno Agnello
+    bio: >-
+      🎧 @hyperxbrasil 💻 @nvidiageforcebr 🕶 @darkseuoculosaqui
+    location: "Brazil"
+    followers: 78925
+    engagement: 107
+    commentsToLikes: 0.060418
+    id: ck6u2z7p0ur7d0j71bhvvyh9q
+    verified: true
+    hashtags: "#amor, #family, #love, #futebol"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Food TikTok Influencers In Spain In 2023
+title: Top 10 Food TikTok Influencers In Spain In 2024
 description: >-
-  Find top food TikTok influencers in Spain in 2023. Most popular hashtags: #food #foryou #fyp #viral.
+  Find top food TikTok influencers in Spain in 2024. Most popular hashtags: #food #foryou #fyp #delicious.
 platform: TikTok
-hits: 82
-text_top: Identify the best TikTok accounts on inBeat.
-text_bottom: inBeat has 82 TikTok influencers like this in Spain for you to pitch.
+hits: 83
+text_top: Identify the most popular TikTok influencers on inBeat.
+text_bottom: inBeat aggregates 83 TikTok influencers like this in Spain for you to pitch.
 profiles:
   - username: "peerjii50"
     fullname: >-
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.021178
     id: ckb9r74lbni1d0j234q6cbxc1
     verified: false
-    hashtags: "#lipedema, #fyp, #japan, #parati"
+    hashtags: "#japan, #lipedema, #canaima, #parati"
   - username: "aigostar_"
     fullname: >-
       Best food share
@@ -73,12 +73,12 @@ profiles:
     bio: >-
       Food | Meat | Delicious Send your videos here👇 sendyourvideostohere@gmail.com
     location: "Spain"
-    followers: 3657
-    engagement: 404
-    commentsToLikes: 0.021889
+    followers: 3628
+    engagement: 388
+    commentsToLikes: 0.028300
     id: ckacf8pmcpy9d0i78dttl0kf5
     verified: false
-    hashtags: "#foodie, #viral, #wings, #delicious"
+    hashtags: "#fyp, #delicious, #foodelicious, #meat"
   - username: "palomaamointeriorismo"
     fullname: >-
       user7550774254592

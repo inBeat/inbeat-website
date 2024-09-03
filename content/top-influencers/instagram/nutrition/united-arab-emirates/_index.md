@@ -1,24 +1,84 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In United Arab Emirates In 2023
+title: Top 10 Nutrition Instagram Influencers In United Arab Emirates In 2024
 description: >-
-  Find top nutrition Instagram influencers in United Arab Emirates in 2023. Most popular hashtags: #fitness #nutrition #mydubai #dubaifitness.
+  Find top nutrition Instagram influencers in United Arab Emirates in 2024. Most popular hashtags: #healthylifestyle #fitnessmotivation #fitness #dubai.
 platform: Instagram
-hits: 17
-text_top: Analyze the most popular Instagram accounts on inBeat.
-text_bottom: Our database holds 17 Instagram influencers like this in United Arab Emirates for you to work with.
+hits: 24
+text_top: Identify the most popular Instagram profiles on inBeat.
+text_bottom: Our platform holds 24 Instagram influencers like this in United Arab Emirates for you to work with.
 profiles:
+  - username: "lama_gharaibeh"
+    fullname: >-
+      
+    bio: >-
+      📌Finding Joy In Cooking 📌Recipe Developer📚 📌Bachelor Degree Nutrition And Food Technology ❤️الوصفات بالعربيه في التعليقات lama_gharaibeh@yahoo.com
+    location: "United Arab Emirates"
+    followers: 39082
+    engagement: 139
+    commentsToLikes: 0.217853
+    id: ck5hrufivvhzo0i11rl3ujv6r
+    verified: false
+    hashtags: "#dubaifoodbloggers, #tastingtable, #f52community, #easyrecipes"
+  - username: "dr_sasani"
+    fullname: >-
+      SAEED SASSANI
+    bio: >-
+      Nutrition & Supplement program Blood Work,IV therapy,TRT Dr in UAE federation Chairman of Medical Committee in Asian Federation @excellageclinic
+    location: "United Arab Emirates"
+    followers: 43276
+    engagement: 87
+    commentsToLikes: 0.004179
+    id: ck5hp9aguqysj0i113mvvbi4a
+    verified: false
+    hashtags: "#diet, #cardio, #modeling, #sports"
+  - username: "chiara.seidenader"
+    fullname: >-
+      Chiara Seidenader
+    bio: >-
+      Longevity | Nutrition | Wellness 🇦🇪 @beautytreatsco @beconsultuae Tedx Speaker 👇Start your Energy Upgrade program 👇
+    location: "United Arab Emirates"
+    followers: 200134
+    engagement: 57
+    commentsToLikes: 0.060362
+    id: ck138rjw5hnzt0i190u59frqh
+    verified: false
+    hashtags: "#longevitydubai, #dubaiweekend, #lifeindubai, #dubaihealth"
+  - username: "aliceveglio"
+    fullname: >-
+      Alice Veglio | CELEBRITY COACH
+    bio: >-
+      💎CEO & Founder @brightandfit_fitness_program 👑 @missmultiverse 2023 🎓Nutrition Science Stanford Medicine 🎓Life Coach, L3 PT 📖 Best-selling author
+    location: "United Arab Emirates"
+    followers: 478398
+    engagement: 49
+    commentsToLikes: 0.008498
+    id: ckap0f6r1q0do0i789vavllmg
+    verified: false
+    hashtags: "#ibiza, #fitnessprogramitalia, #dubai, #fitness"
+  - username: "mirnasabbagh"
+    fullname: >-
+      ميرنا الصباغ - Mirna Sabbagh
+    bio: >-
+      Mom of 2 🍒Licensed Dietitian⁣, IBCLC 🍉Nutrition courses and free guides in bio احصلي على كورسات ومعلومات مجانية Founder @littlekokos
+    location: "United Arab Emirates"
+    followers: 297665
+    engagement: 29
+    commentsToLikes: 0.164077
+    id: ck0ueqyhglwi70i19n5fee3q8
+    verified: false
+    hashtags: "#mirnasabbagh, #dubaifoodie, #babytips, #dubaimommyblogger"
   - username: "tie.el"
     fullname: >-
-      !Elena P
+      Olena Peretiatko
     bio: >-
-      From Kiev with love ❤️ Currently in Dubai📍Fitness model⚡️ Nutritionist🌱@houses partner🔐
+      From Ukraine with love 💙💛 Currently in Dubai📍 Nutritionist🌱@houses partner🔐
     location: "United Arab Emirates"
-    followers: 360275
-    engagement: 378
-    commentsToLikes: 0.019298
+    followers: 1037462
+    engagement: 2
+    commentsToLikes: 0.003224
     id: ckap4167m5e010i78w6n94aq7
     verified: false
-    hashtags: "#lovearoundtheworld, #mood"
+    hashtags: ""
   - username: "xgaithx"
     fullname: >-
       Gaith Ali
@@ -31,18 +91,6 @@ profiles:
     id: ck5hp9ateqyts0i116yhdl14i
     verified: false
     hashtags: "#no, #olimp, #team"
-  - username: "nelita_v"
-    fullname: >-
-      Actress | Martial Artist
-    bio: >-
-      🇵🇭🇺🇸 LA to Dubai 🎥 Agency @ntatalent #senseibae @squatwolf Athlete 🐺 Weapons & Merch ⚔️www.shopnelitav.com Training & Nutrition🥊💪🏾🥗 ⬇️
-    location: "United Arab Emirates"
-    followers: 117631
-    engagement: 585
-    commentsToLikes: 0.031251
-    id: ck55njxxe6d6e0i11n08b4xm4
-    verified: false
-    hashtags: "#philippines, #3sectionstaff, #football, #femalemartialartist"
   - username: "literallyanika"
     fullname: >-
       Anika Morjaria
@@ -67,64 +115,16 @@ profiles:
     id: ck5zyappb9jag0i14lgxj4cr2
     verified: false
     hashtags: "#hookgripnordic, #fitnessmotivation, #fitness, #caffeinandkilos"
-  - username: "mirnasabbagh"
-    fullname: >-
-      ميرنا الصباغ - Mirna Sabbagh
-    bio: >-
-      Em Karim 😎⁣ 🧘🏻Making moms lives easier ⁣ 🥣Online child nutrition courses⁣ 🧂Online Recipe Book ⁣ اشتري أي من كورساتي عن التغذية أو الرضاعة من أي دولة
-    location: "United Arab Emirates"
-    followers: 149990
-    engagement: 61
-    commentsToLikes: 0.066269
-    id: ck0ueqyhglwi70i19n5fee3q8
-    verified: false
-    hashtags: "#iloveyouguysme, #love, #dietitian, #healthychoices"
-  - username: "chiara.seidenader"
-    fullname: >-
-      CHIARA • SEIDENADER
-    bio: >-
-      🍏 Wellness | Nutrition | Communication 🇦🇪 Dubai 📲 DM me WELL to see how I can help you
-    location: "United Arab Emirates"
-    followers: 103874
-    engagement: 139
-    commentsToLikes: 0.006225
-    id: ck138rjw5hnzt0i190u59frqh
-    verified: false
-    hashtags: "#showthemyou, #sunsandsports"
-  - username: "marinaveretyuk"
-    fullname: >-
-      BEAUTY|FITNESS|DUBAI
-    bio: >-
-      𝐌𝐚𝐫𝐢𝐧𝐚 𝐕𝐞𝐫𝐞𝐭𝐲𝐮𝐤 🔝10 Steps to become a better YOU 🌱Health tips to boost your body 🧘‍♀️ Balance of mind, body and soul 🥳DM me “ABC” for a surprise
-    location: "United Arab Emirates"
-    followers: 11530
-    engagement: 293
-    commentsToLikes: 0.091393
-    id: ck600q2b3e1zd0i14pbw1nn19
-    verified: false
-    hashtags: "#dubaiphotoshoot, #dubaimodeling, #dubaibeautyblogger, #healthylifestyle"
   - username: "mitunds"
     fullname: >-
       MITUN DE SARKAR
     bio: >-
-      ⛑💊Clinical Dietitian 🥙🍒🥑Founder Simply Healthy @simplyhealthydiets ☕️🌯Brand Ambassador Costa4u @costacoffeeuae 🎤🎼Founder,lead singer @raagafactory
+      ⛑DHA Clinical Dietitian 🥙CEO @simplyhealthybymitun 🏋️‍♀️CEO @simplyhealthyf.i.t 🌯Brand Ambassador 4U @costacoffeeuae 🎤Founder,singer @raagafactory
     location: "United Arab Emirates"
-    followers: 35436
-    engagement: 237
-    commentsToLikes: 0.093140
+    followers: 43347
+    engagement: 221
+    commentsToLikes: 0.036741
     id: ck0w2isdhokrq0i193z1l9606
     verified: false
-    hashtags: "#nutritionist, #style, #dietitian, #nutrition"
-  - username: "dr_sasani"
-    fullname: >-
-      Dr. Sassani | Medical Doctor
-    bio: >-
-      👨🏻‍🔬🩺💊🔬🏋🏻‍♀️💪🏻🥊 🥇Head of medical committee in Asian Federation 🥇Doctor in UAE federation 👉🏻Team @olimpuae 🏨Clinic @eternelclinic
-    location: "United Arab Emirates"
-    followers: 36094
-    engagement: 122
-    commentsToLikes: 0.000280
-    id: ck5hp9aguqysj0i113mvvbi4a
-    verified: false
-    hashtags: "#fitness, #bodybuilding, #drsasani, #modeling"
+    hashtags: "#nutrition, #mydubai, #fatloss, #dietitian"
 ---

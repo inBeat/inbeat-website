@@ -1,11 +1,11 @@
 ---
-title: Top 10 Comedians Instagram Influencers In Chicago In 2023
+title: Top 10 Comedians Instagram Influencers In Chicago In 2024
 description: >-
-  Find top comedians Instagram influencers in Chicago in 2023. Most popular hashtags: #comedy #chicago #comedian #instagood.
+  Find top comedians Instagram influencers in Chicago in 2024. Most popular hashtags: #comedy #standup #standupcomedy #comedian.
 platform: Instagram
-hits: 22
-text_top: Analyze the best Instagram profiles on inBeat.
-text_bottom: Our platform has 22 Instagram influencers like this in Chicago, United States for you to connect with.
+hits: 34
+text_top: Identify the most popular Instagram accounts on inBeat.
+text_bottom: Our platform holds 34 Instagram influencers like this in Chicago, United States for you to connect with.
 profiles:
   - username: "merediddys"
     fullname: >-
@@ -31,6 +31,18 @@ profiles:
     id: ck0w42fhzwgyl0i19lycvds95
     verified: false
     hashtags: "#respectthelegends, #comedy"
+  - username: "mella_famous"
+    fullname: >-
+      Mella Famous
+    bio: >-
+      🙏🏾I Am That I Am God 1st🙏🏾 🎶🎛🎬 Comedian / Musician / DJ / Producer / Father #MellaFamousComedy #MellaFamous #PastorCantSee @pastor_cantsee
+    location: "United States"
+    followers: 7141
+    engagement: 182
+    commentsToLikes: 0.101858
+    id: ck5cce1vnh6ha0i11e272vfnp
+    verified: false
+    hashtags: "#sex, #wildnout, #travel, #beauty"
   - username: "alia.janine"
     fullname: >-
       Alia Janine 🦄
@@ -43,6 +55,42 @@ profiles:
     id: ck5ce8zemkkvh0i11rtlzkx2l
     verified: false
     hashtags: "#comedynyc, #standup, #stayhome, #lol"
+  - username: "gkuhlenschmidt"
+    fullname: >-
+      grace kuhlenschmidt
+    bio: >-
+      straight lesbian comedian @finallypod tix to my chicago show below
+    location: "United States"
+    followers: 115461
+    engagement: 1080
+    commentsToLikes: 0.010604
+    id: cl3cuek274u850i23l4ufp95c
+    verified: false
+    hashtags: "#podcast, #foryourpage, #shorts, #standup"
+  - username: "tmurph"
+    fullname: >-
+      T. Murph️️
+    bio: >-
+      Road to 1 Mill Tour Dates Detroit 8/1 Boston 8/3 Fort Wayne 8/4 Tulsa 8/18 OKC 8/29 VA Beach 9/8 Chandler 9/20-21 Chicago 10/5 LA 10/13 Get Tix Here👇🏾
+    location: "United States"
+    followers: 371396
+    engagement: 344
+    commentsToLikes: 0.059629
+    id: ckqh1dtdcpoxh0j23r3tp9v9z
+    verified: false
+    hashtags: "#thingstodoinchicago, #dadlife, #fyp, #viral"
+  - username: "hunterhillcomedy"
+    fullname: >-
+      Hunter Hill
+    bio: >-
+      ON TOUR NOW Chicago 10/12 - Denver 10/19 - San Diego 10/20 - Phoenix 11/11 & More.
+    location: "United States"
+    followers: 55625
+    engagement: 43
+    commentsToLikes: 0.043994
+    id: ck8syoasjlfpi0j789lm39igq
+    verified: false
+    hashtags: "#momssupportingmoms, #dadjokes, #momsofinstagram, #ilizashlesinger"
   - username: "lilmaisiemarie"
     fullname: >-
       Maisie | Pomeranian
@@ -55,76 +103,28 @@ profiles:
     id: ck5bvkbdgjtkt0i11ghs2wupc
     verified: false
     hashtags: "#reelsinstagram, #reels, #funnyvideos, #pomeranian"
-  - username: "nphcomedy"
+  - username: "neelnanda"
     fullname: >-
-      Natasha Pearl Hansen
+      Neel Nanda
     bio: >-
-      LA Comedian•Creator•Producer•Entrepreneur•Ninja• 👋🏽Clubhouse✳️ CEO/Fndr: @mybreakupregistry Ruggedly classy life enthusiast @futurerolemodel Pod👇🏾
+      Stand-Up Comedian Philly 2/25 • NYC 3/2 & 3/3 • Baltimore 3/31 & 4/1 • Chicago 4/7 • DC 4/28 & 4/29 & more cities soon! Get Tickets here 👇🏾👇🏾👇🏾
     location: "United States"
-    followers: 28711
-    engagement: 119
-    commentsToLikes: 0.085111
-    id: ck15q4a6m10ya0i19uh84etfi
-    verified: false
-    hashtags: "#fitness, #comedy, #photography, #wine"
-  - username: "joenicastro"
-    fullname: >-
-      ᴴᴬˢᴴᵀᴬᴳ ᴺᴼᵀ ᴬᴺ ᴵᴺᶠᴸᵁᴱᴺᶜᴱᴿ
-    bio: >-
-      📍Chicago @barrys 💪🏻🏃🏻‍♂️ CF-L1 🏋🏻‍♂️ Self-proclaimed comedian. He/him/his “𝐘𝐨𝐮𝐫 🌍 𝐢𝐬 𝐧𝐨𝐭 𝐭𝐡𝐞 🌍.”
-    location: "United States"
-    followers: 16568
-    engagement: 402
-    commentsToLikes: 0.047539
-    id: ck5cfe3e7mrs90i11smfvlb3f
-    verified: false
-    hashtags: ""
-  - username: "binkey1"
-    fullname: >-
-      BINKEY
-    bio: >-
-      I’m black boy joy in da flesh! Traveling Artist/ Host/MC/Comedian/Beatboxer/Loop Specialist/Minister/Teacher & Reformed FukBoi...eh...Reforming!
-    location: "United States"
-    followers: 6998
-    engagement: 388
-    commentsToLikes: 0.104762
-    id: ck5zp27z1ruh20i148onqsnil
-    verified: false
-    hashtags: "#instagram, #spreadlove, #chicago, #blackboyjoy"
-  - username: "markvieracomedy"
-    fullname: >-
-      Mark Viera
-    bio: >-
-      🇵🇷Puerto Rican Comedian from the #Bronx! #thelatinassasin Watch me on @hbomax @trutv @showtime @comedycentral and more! Show tickets & NEW special!👇
-    location: "United States"
-    followers: 31642
-    engagement: 170
-    commentsToLikes: 0.075289
-    id: ck5zunsg32pqa0i1448uf33bv
-    verified: false
-    hashtags: "#love, #statenisland, #nyc, #laugh"
-  - username: "mella_famous"
-    fullname: >-
-      Mella Famous
-    bio: >-
-      🙏🏾I Am That I Am God 1st🙏🏾 🎶🎛🎬 Comedian / Musician / DJ / Producer / Father #MellaFamousComedy #MellaFamous #PastorCantSee @pastor_cantsee
-    location: "United States"
-    followers: 7141
-    engagement: 182
-    commentsToLikes: 0.101858
-    id: ck5cce1vnh6ha0i11e272vfnp
-    verified: false
-    hashtags: "#wildnout, #worldstar, #public, #fyp"
-  - username: "j_ivy"
-    fullname: >-
-      J. Ivy
-    bio: >-
-      Tune in to #theWORD w/ J. Ivy Poetry & Conversation Every Wedns 7pm CST on IG Live #NeverLetMeDown @recordingacademy’s #Chicago Chapter President
-    location: "United States"
-    followers: 18610
-    engagement: 138
-    commentsToLikes: 0.103546
-    id: ck6ts8ihj3byz0j71fcjg4hbe
+    followers: 102593
+    engagement: 1575
+    commentsToLikes: 0.036616
+    id: ck6u0zrn3ipgu0j71vt6ypdhy
     verified: true
-    hashtags: "#spokenword, #newyork, #poets, #repost"
+    hashtags: "#comedian, #joke, #standup, #funnyreels"
+  - username: "iamdesibanks"
+    fullname: >-
+      Desi Banks
+    bio: >-
+      🙏🏾 God 1st #PurposeChaser Actor | Comedian | Host | Entrepreneur Real Estate🏠 @desibdesigns Podcast 🎙️ @higd_podcast
+    location: "United States"
+    followers: 8799416
+    engagement: 349
+    commentsToLikes: 0.030269
+    id: ck0tw4q3ke0hw0i19vebqszzw
+    verified: true
+    hashtags: "#desibankscomedy, #reallife, #purpose, #liveonstage"
 ---

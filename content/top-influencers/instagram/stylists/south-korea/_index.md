@@ -1,12 +1,48 @@
 ---
-title: Top 10 Stylists Instagram Influencers In South Korea In 2023
+title: Top 10 Stylists Instagram Influencers In South Korea In 2024
 description: >-
-  Find top stylists Instagram influencers in South Korea in 2023. Most popular hashtags: #celeb #turbantuesday #valentino.
+  Find top stylists Instagram influencers in South Korea in 2024. Most popular hashtags: #bodylove #ohmygirl #igkenya.
 platform: Instagram
-hits: 25
-text_top: Identify the best Instagram influencers on inBeat.
-text_bottom: Our database aggregates 25 Instagram influencers like this in South Korea for you to work with.
+hits: 23
+text_top: Identify the most popular Instagram influencers on inBeat.
+text_bottom: Our platform has 23 Instagram influencers like this in South Korea for you to contact.
 profiles:
+  - username: "f22lmin"
+    fullname: >-
+      Mingyu Lee
+    bio: >-
+      stylist @firestudio_official
+    location: "South Korea"
+    followers: 45043
+    engagement: 233
+    commentsToLikes: 0.021148
+    id: ck0u0ugd5utnk0i19gkxhc15v
+    verified: false
+    hashtags: "#emis, #kohsamet, #flan, #flanjewelry"
+  - username: "cheristyle_"
+    fullname: >-
+      CHERI 챌미
+    bio: >-
+      🇬🇧🇰🇷 stylist in @styledbycherinara cherimyun@gmail.com
+    location: "South Korea"
+    followers: 204427
+    engagement: 113
+    commentsToLikes: 0.011030
+    id: ck0tyckysmfj20i19x7yd6b16
+    verified: false
+    hashtags: "#onlyonfarfetch, #quynhanhshynxcdam, #swatchlovesmusic, #okokokgirl"
+  - username: "didiyanaehsan"
+    fullname: >-
+      Didiyana Ehsan
+    bio: >-
+      ☝🏻️Belongs to Allah 👰🏼 Celebrity Hijab Stylist 🤍NN&MAF
+    location: "South Korea"
+    followers: 145550
+    engagement: 103
+    commentsToLikes: 0.011403
+    id: ck5heljfltjd70i11e187tigg
+    verified: false
+    hashtags: "#8yearsttcjourney, #baby2023, #memberpeningdah, #8yearsofttc"
   - username: "hyeseo_n2"
     fullname: >-
       혜소니👀
@@ -47,14 +83,14 @@ profiles:
     fullname: >-
       Jiyeon Park
     bio: >-
-      STYLIST wealltry01@gmail.com
+      Stylist | wealltry01@gmail.com
     location: "South Korea"
-    followers: 16565
-    engagement: 385
-    commentsToLikes: 0.009412
+    followers: 20071
+    engagement: 327
+    commentsToLikes: 0.009057
     id: ck0w3zluiw2rh0i19xuak7tal
     verified: false
-    hashtags: ""
+    hashtags: "#pocketpaper"
   - username: "raymondchae"
     fullname: >-
       raymondchae
@@ -67,18 +103,6 @@ profiles:
     id: ck0tugv8u73lv0i19fse8kkyx
     verified: true
     hashtags: "#iwillsurvive, #salonpresentation, #soybeanoilprinted, #placemat1234"
-  - username: "cheristyle_"
-    fullname: >-
-      CHERI 챌미
-    bio: >-
-      Art. creator 🇰🇷🇬🇧 stylist in @styledbycherinara cherimyun@gmail.com
-    location: "South Korea"
-    followers: 206444
-    engagement: 319
-    commentsToLikes: 0.008892
-    id: ck0tyckysmfj20i19x7yd6b16
-    verified: false
-    hashtags: "#onitsukatiger, #dentigre, #dentigretaichi, #jimmychoo"
   - username: "yomizyul"
     fullname: >-
       yomi ヨミ/ 요미
@@ -91,40 +115,16 @@ profiles:
     id: ck5zm9v0jm68l0i149c6mzma4
     verified: false
     hashtags: "#helloween, #offwhitedunk"
-  - username: "f22lmin"
-    fullname: >-
-      Mingyu Lee
-    bio: >-
-      fashion stylist @firestudio_official
-    location: "South Korea"
-    followers: 7456
-    engagement: 408
-    commentsToLikes: 0.035587
-    id: ck0u0ugd5utnk0i19gkxhc15v
-    verified: false
-    hashtags: "#sanghunlee, #berluti, #driesvannoten, #andriyskrynnyk"
   - username: "wwwseoyun"
     fullname: >-
       멥시헤어디자이너 서윤 /MEPCI 대표원장
     bio: >-
       hair stylist MEPCI대표 신사동627-14📞02 514 7858 @mepci @mepci_wedding
     location: "South Korea"
-    followers: 17797
-    engagement: 420
-    commentsToLikes: 0.008144
+    followers: 17311
+    engagement: 311
+    commentsToLikes: 0.006504
     id: ck5hec5nas5dr0i11amhxg93a
     verified: false
-    hashtags: "#hair, #mepci, #makeup, #ohmygirl"
-  - username: "erikawfong"
-    fullname: >-
-      Erika Fong
-    bio: >-
-      Korean | Chinese | British Creative Director | Stylist | Actor Represented by Hg5 Entertainment Founder @dewystone
-    location: "South Korea"
-    followers: 45387
-    engagement: 214
-    commentsToLikes: 0.028748
-    id: ckap2w55u0krw0i78fdt1t7pv
-    verified: false
-    hashtags: ""
+    hashtags: "#sisley, #mepci, #damiani, #ohmygirl"
 ---

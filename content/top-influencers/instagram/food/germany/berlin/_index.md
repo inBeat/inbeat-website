@@ -1,12 +1,48 @@
 ---
-title: Top 10 Food Instagram Influencers In Berlin In 2023
+title: Top 10 Food Instagram Influencers In Berlin In 2024
 description: >-
-  Find top food Instagram influencers in Berlin in 2023. Most popular hashtags: #berlin #foodporn #foodphotography #vegan.
+  Find top food Instagram influencers in Berlin in 2024. Most popular hashtags: #berlinfood #berlin #berlinfoodie #foodberlin.
 platform: Instagram
-hits: 154
-text_top: Analyze the top-rated Instagram accounts on inBeat.
-text_bottom: Our platform holds 154 Instagram influencers like this in Berlin, Germany for you to collaborate.
+hits: 238
+text_top: Analyze the top-rated Instagram profiles on inBeat.
+text_bottom: Our platform holds 238 Instagram influencers like this in Berlin, Germany for you to contact.
 profiles:
+  - username: "foodistisch"
+    fullname: >-
+      Berlin Food + Travel 🍜✈
+    bio: >-
+      ⫸ berlin and beyond ⫸ 2 x 6€ Wolt: Foodistisch ⫸ Personal Account: @potathu
+    location: "Germany"
+    followers: 10124
+    engagement: 152
+    commentsToLikes: 0.045822
+    id: ck5ch7rmgq99x0i11thtdnstq
+    verified: false
+    hashtags: "#foodlover, #foodieberlin, #breakfast, #rosenthalerplatz"
+  - username: "berlinfoodstories"
+    fullname: >-
+      Berlin Food Stories
+    bio: >-
+      #1 Source for what to eat since 2012🔝🍴 by @per.meurling aka The HUNGRIEST Person in Berlin 🌭🍕🥙 ➡️ Join the BFS Premium Discord via Patreon! 📲💥
+    location: "Germany"
+    followers: 159114
+    engagement: 74
+    commentsToLikes: 0.026795
+    id: ck5hkxeaqj76n0i11d8vsuic1
+    verified: false
+    hashtags: "#foodstagram, #foodberlin, #instafood, #berlin"
+  - username: "hungry_in_berlin"
+    fullname: >-
+      Ilaria 🇮🇹 Berlin Food Blogger
+    bio: >-
+      🍝Delicious Images from all Berlin Postcodes 👩🏻‍💻Hospitality Marketing Consultant @gourmetric.agency 🍴I Help Restaurants with Marketing
+    location: "Germany"
+    followers: 11334
+    engagement: 131
+    commentsToLikes: 0.109387
+    id: clilkx9mpcwcg0j089njpdnnh
+    verified: false
+    hashtags: "#berlinfoodbloggers, #berlinfoodspots, #berlinbrunch, #hungryinberlin"
   - username: "lars_likes_food"
     fullname: >-
       Lars
@@ -19,30 +55,42 @@ profiles:
     id: ck0vuyibemq8p0i19il4pqyhr
     verified: false
     hashtags: "#restaurant, #essen, #hunger, #abnehmen"
-  - username: "foodistisch"
+  - username: "gastroberlin"
     fullname: >-
-      Berlin Food Explorer 🇩🇪🇻🇳
+      GastroBerlin
     bio: >-
-      ⫸ #berlinfood • food diary • berlin recs ⫸ 2 x 6€ Wolt: Foodistisch ⫸ cultural appreciation
+      Your guide all around Berlin 🍽️ Food | Events | Weekend tips 💌 collab@gastrobln.com by @oliaha & @danijach
     location: "Germany"
-    followers: 9415
-    engagement: 403
-    commentsToLikes: 0.164204
-    id: ck5ch7rmgq99x0i11thtdnstq
+    followers: 85570
+    engagement: 753
+    commentsToLikes: 0.028479
+    id: ck55nhghr684v0i11vn4i1p3b
     verified: false
-    hashtags: "#ig, #berlinfood, #berlinrestaurant, #friedrichshain"
-  - username: "daniel_fehlow"
+    hashtags: "#foodinberlin, #berlinburger, #foodie, #foodies"
+  - username: "julia_maria_therese"
     fullname: >-
-      Daniel Fehlow
+      Leben • Food • Outfit • Reisen
     bio: >-
-      🎬 Schauspieler 🌍 Berlin ☕ Kaffeeliebhaber 📨 ben.niemann@danielfehlow.de Schon unseren eigenen Kaffee probiert? 🔽 Link: Direkt, fair, nachhaltig!
+      ▶ Koblenz | Berlin ▶ Fellow'22 @teachfirstdeutschland | Lehramt ▶ hier wegen Freude an Inspo & Austausch ▼ Impressum | Datenschutzerklärung
     location: "Germany"
-    followers: 138937
-    engagement: 264
-    commentsToLikes: 0.015642
-    id: ck5zpmky2sxhk0i14i8fzbyd7
-    verified: true
-    hashtags: "#jessicaginkel, #werbung, #supportyourlocal, #outdoor"
+    followers: 14499
+    engagement: 110
+    commentsToLikes: 0.026723
+    id: ck9h9nskq986k0j787fgfks06
+    verified: false
+    hashtags: "#german, #instanote, #daily, #photooftheday"
+  - username: "suzanna.way"
+    fullname: >-
+      Suzanna Wassel | model | content creator
+    bio: >-
+      food & travel guides ✍🏼 belarusian/afghan pisces 📍Berlin | Munich modeling fashion restaurant tips inquiries: suzanna.way@hotmail.com
+    location: "Germany"
+    followers: 20735
+    engagement: 38
+    commentsToLikes: 0.115197
+    id: clq9hy3w56as80k08af6crg6g
+    verified: false
+    hashtags: "#munich, #aperolspritz, #izaio, #fr"
   - username: "foodtasterberlin"
     fullname: >-
       FOODTASTER
@@ -55,76 +103,28 @@ profiles:
     id: ck5hkxddhj75e0i11tnuilzi6
     verified: false
     hashtags: "#vegan, #foodie, #berlinfoodie, #foodstagram"
-  - username: "mrsflury"
+  - username: "juliainberlin_"
     fullname: >-
-      D o r i s  F l u r y 🇨🇭
+      Julia | berlin city • balanced lifestyle
     bio: >-
-      Gesund Essen & Leben ✨ #eatgoodfood Mama 🍃Ernährungswissenschaftlerin #mrsflury Meine Produkte🌻 @mrsflury_favorites BLOG | YOUTUBE | SHOP & mehr👇🏻
+      sharing my love for berlin, food & sport ツ 🌟 berlin tips & balanced lifestyle 🏃🏻‍♀️ currently training for my first HM 💌 management@juliainberlin.com
     location: "Germany"
-    followers: 92976
-    engagement: 265
-    commentsToLikes: 0.080354
-    id: ck13ae21xpxlj0i19a90z746m
+    followers: 36583
+    engagement: 1071
+    commentsToLikes: 0.031659
+    id: ck9we3yvhih790j78s4zbmdak
     verified: false
-    hashtags: "#backen, #rezeptideen, #gesund, #xmas"
-  - username: "schlowi"
+    hashtags: "#berlincity, #beach, #explore, #running"
+  - username: "jonasteinig"
     fullname: >-
-      Deine Grinsebacke ☺️
+      Jona ⚡️
     bio: >-
-      👑: YouTube: Wer Will Beef (44.000+) 🎥: Foto- & Videograf 📍: Berlin 👦🏻: i’m 20 🥫: Unser NEUES VIDEO! ⤵️
+      content creator 🇩🇪 | fashion, beauty, events, food 📍 Berlin |London| Los Angeles social: contact@jonathansteinig.com 🌎
     location: "Germany"
-    followers: 17894
-    engagement: 451
-    commentsToLikes: 0.034728
-    id: ck13a2kakobdf0i19m7c2b6pc
+    followers: 327520
+    engagement: 72
+    commentsToLikes: 0.003719
+    id: ck5zymnmqa5ba0i14h17exv9t
     verified: false
-    hashtags: "#colorgrading, #smileeveryday, #biervorvier, #foodgermany"
-  - username: "jennifer_prokopenkova"
-    fullname: >-
-      📍Rostock | Working from 🌎
-    bio: >-
-      Foodlover | Gymlife | Health is wealth 🙏🏼 Frauenpower & Unabhängigkeit Zeit für mehr MUTausbrüche! 💛
-    location: "Germany"
-    followers: 26960
-    engagement: 117
-    commentsToLikes: 0.085475
-    id: ckap38pjt20pi0i789l7zj0m6
-    verified: false
-    hashtags: "#klugek, #veromoda, #rostocker, #pistehamburg"
-  - username: "_m_von_w"
-    fullname: >-
-      m_von_w
-    bio: >-
-      𝐵𝐸𝑅𝐿𝐼𝒩 📍 ɴᴜʀsᴇ ♡ ᴅᴏɢs 🐕 ғᴏᴏd 🍳 ᴛʀᴀᴠᴇʟ 🛫
-    location: "Germany"
-    followers: 14693
-    engagement: 486
-    commentsToLikes: 0.144326
-    id: ckf5tu0pkirrh0j233pff61a0
-    verified: false
-    hashtags: "#foodporn, #love, #berlin, #chocolate"
-  - username: "polly.pommes"
-    fullname: >-
-      P O L L Y - Sport,Running,Food
-    bio: >-
-      📍Hello Berlin Sport | Food | Lifestyle #mommy 🤰🏼 📧 Info@pollypommes.de
-    location: "Germany"
-    followers: 24396
-    engagement: 206
-    commentsToLikes: 0.096092
-    id: ck0tx7smyi57f0i19e9yn6uum
-    verified: false
-    hashtags: "#amsee, #mamaleben, #mamablogger, #naturliebe"
-  - username: "anywayani"
-    fullname: >-
-      Ani | Food | Rezepte
-    bio: >-
-      📍Berlin 🍴Food Fotografie | #anywayani ___________________________
-    location: "Germany"
-    followers: 2348
-    engagement: 956
-    commentsToLikes: 0.316170
-    id: ck5c75o5j6v5n0i11bl2b7bn0
-    verified: false
-    hashtags: "#gesundessen, #barebells, #barebellsde, #backen"
+    hashtags: "#fufu, #lightsoup, #fufulightsoup, #rezeptideen"
 ---

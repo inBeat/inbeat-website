@@ -1,12 +1,36 @@
 ---
-title: Top 10 Gaming Instagram Influencers In Japan In 2023
+title: Top 10 Gaming Instagram Influencers In Japan In 2024
 description: >-
-  Find top gaming Instagram influencers in Japan in 2023. Most popular hashtags: #anime #gaming #gamergirl #cosplay.
+  Find top gaming Instagram influencers in Japan in 2024. Most popular hashtags: #gamer #anime #gaming #japan.
 platform: Instagram
-hits: 28
-text_top: See the most popular Instagram influencers on inBeat.
-text_bottom: Our platform aggregates 28 Instagram influencers like this in Japan for you to work with.
+hits: 33
+text_top: Discover the top-rated Instagram influencers on inBeat.
+text_bottom: Our search engine has 33 Instagram influencers like this in Japan for you to contact.
 profiles:
+  - username: "lenalemon"
+    fullname: >-
+      Lena Lemon 🍋
+    bio: >-
+      Lena/りな🇯🇵🇨🇦🇨🇳 Anime, cosplay, gaming Creator for @ShopifyRebellion @Elgato Partner Tiktok: @lenalemon_ (1.5M)
+    location: "Japan"
+    followers: 521964
+    engagement: 450
+    commentsToLikes: 0.009207
+    id: ck15qubfq4odm0i19sbr5cdwu
+    verified: false
+    hashtags: "#animelover, #jujutsukaisen, #valorant, #anime"
+  - username: "j.ustcoffee"
+    fullname: >-
+      ann 🌸
+    bio: >-
+      🎀 tech, desk, and gaming 💌 dm/email for collabs 🛍️ channel and desk links below ↓
+    location: "Japan"
+    followers: 78831
+    engagement: 1
+    commentsToLikes: 0.000000
+    id: clnryd9ibelh20j08m7tf9pk9
+    verified: false
+    hashtags: "#tech, #deskinspo, #cozy, #cute"
   - username: "japeruana24"
     fullname: >-
       Japeruana (Namie)
@@ -66,7 +90,7 @@ profiles:
     commentsToLikes: 0.008342
     id: ck0twgypdfbzv0i194eroidqk
     verified: false
-    hashtags: "#aestheticart, #vaporwaveart, #vaporwave, #2danimation"
+    hashtags: "#aestheticart, #vaporwave, #vaporwaveart, #collectibles"
   - username: "otakunextnepal"
     fullname: >-
       OTAKUNEXT®
@@ -79,52 +103,28 @@ profiles:
     id: ckf5tjbmrhyoh0j231i5ze92q
     verified: false
     hashtags: "#attackontitan, #anime, #shingekinokyojin, #shingekinokyojinedit"
+  - username: "jessimomokoo"
+    fullname: >-
+      Jessi
+    bio: >-
+      🍑モモコ🍑 Jessimomoko Living in my pink game room 🌸 ↓ Links to Everything ↓
+    location: "Japan"
+    followers: 46529
+    engagement: 249
+    commentsToLikes: 0.080947
+    id: clnryddh8eo1b0j08s3u66r93
+    verified: false
+    hashtags: "#gaming, #gamingsetup, #pinkaesthetic, #pcgaming"
   - username: "briannatty"
     fullname: >-
-      Briannatty • Cosplay
+      🌸|| Briannatty
     bio: >-
-      ⚠️🔞 I miss going to conventions 😭 👇🏼Check out my ~spicy~ content!
+      Cosplayer • Twitch Streamer • Cat Lover I miss going to conventions 😭
     location: "Japan"
-    followers: 9156
-    engagement: 378
-    commentsToLikes: 0.028047
+    followers: 9146
+    engagement: 323
+    commentsToLikes: 0.029506
     id: ck6tpcptyj3zj0j71ykduar3p
     verified: false
-    hashtags: "#velma, #poisonivy, #batmancosplay, #velmacosplay"
-  - username: "magicalfay"
-    fullname: >-
-      🌸 Fay 🌸
-    bio: >-
-      🎀 Collector & Gamer 🎀 ESP•ENG || MX 🇲🇽→ JP🇯🇵🏠 💌 Collab/Business: contactmagicalfay@gmail.com
-    location: "Japan"
-    followers: 90777
-    engagement: 1178
-    commentsToLikes: 0.019344
-    id: ck0u115tived20i192fbhp700
-    verified: false
-    hashtags: "#kawaiigamer, #kawaiistuff, #otakugirl, #sanrio"
-  - username: "flatlayfairytale"
-    fullname: >-
-      Jojo🧝🏻‍♀️Gaming|Tech|Weeb
-    bio: >-
-      ...But this is no ordinary fairytale🧝🏻‍♀️RPGs, Fantasy, Tech, Games, Anime & all things mythical💚UK🇬🇧
-    location: "Japan"
-    followers: 15483
-    engagement: 574
-    commentsToLikes: 0.070345
-    id: ck5pva5xxgvt50i11olfilrw5
-    verified: false
-    hashtags: "#oldschoolgames, #ninstagram, #gamingfamily, #funkopopcollection"
-  - username: "seven85654"
-    fullname: >-
-      SEVEN
-    bio: >-
-      Minecraft Builder | Specialized in Japanese-style architecture| From Japan | Default texture Thank you for following me!! ▼My Youtube ch
-    location: "Japan"
-    followers: 20450
-    engagement: 908
-    commentsToLikes: 0.004390
-    id: ck13aqdbnrnjq0i19wmlvok8n
-    verified: false
-    hashtags: "#minecraftgamer, #minecraftbuildings, #minecraftpe, #minecraftonly"
+    hashtags: "#cosplaygirl, #skyrim, #thedarkbrotherhood, #dccosplay"
 ---

@@ -1,12 +1,24 @@
 ---
-title: Top 10 Tattoo-Artists Instagram Influencers In Turkey In 2023
+title: Top 10 Tattoo-Artists Instagram Influencers In Turkey In 2024
 description: >-
-  Find top tattoo-artists Instagram influencers in Turkey in 2023. Most popular hashtags: #tattooart #ink #tattoo #inked.
+  Find top tattoo-artists Instagram influencers in Turkey in 2024. Most popular hashtags: #tattooart #ink #tattoo #tattooartist.
 platform: Instagram
-hits: 29
-text_top: Analyze the most popular Instagram profiles on inBeat.
-text_bottom: inBeat aggregates 29 Instagram influencers like this in Turkey for you to connect with.
+hits: 33
+text_top: Identify the top-rated Instagram profiles on inBeat.
+text_bottom: inBeat aggregates 33 Instagram influencers like this in Turkey for you to connect with.
 profiles:
+  - username: "resulodabas"
+    fullname: >-
+      Resul Odabas
+    bio: >-
+      Tattoo Artist based Istanbul resulodabas@gmail.com
+    location: "Turkey"
+    followers: 71727
+    engagement: 70
+    commentsToLikes: 0.007791
+    id: ck5zuwyur36ur0i14c06qkdxo
+    verified: false
+    hashtags: "#minitattoo, #blackink, #inklife, #finelinetattoo"
   - username: "doguarslan91"
     fullname: >-
       Doğu
@@ -103,18 +115,6 @@ profiles:
     id: ckapchrpl3uve0i78t4bv1etq
     verified: false
     hashtags: "#inkedup, #tattooart, #gym, #ink"
-  - username: "resulodabas"
-    fullname: >-
-      Resul Odabas
-    bio: >-
-      •Private Studio• •Booking resulodabas@gmail.com • •Istanbul/Turkey•
-    location: "Turkey"
-    followers: 77820
-    engagement: 175
-    commentsToLikes: 0.008971
-    id: ck5zuwyur36ur0i14c06qkdxo
-    verified: false
-    hashtags: "#littletattoo, #tattooartist, #tattooed, #flowertattoo"
   - username: "nurayguler___"
     fullname: >-
       ⚜️  Nuray Güler

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Food TikTok Influencers In Thailand In 2023
+title: Top 10 Food TikTok Influencers In Thailand In 2024
 description: >-
-  Find top food TikTok influencers in Thailand in 2023. Most popular hashtags: #food #fyp #foryou #cooking.
+  Find top food TikTok influencers in Thailand in 2024. Most popular hashtags: #food #fyp #foryou #cooking.
 platform: TikTok
 hits: 46
-text_top: Discover the best TikTok profiles on inBeat.
-text_bottom: Our database holds 46 TikTok influencers like this in Thailand for you to contact.
+text_top: Analyze the top-rated TikTok influencers on inBeat.
+text_bottom: Our database has 46 TikTok influencers like this in Thailand for you to pitch.
 profiles:
   - username: "creativepicks"
     fullname: >-

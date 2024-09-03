@@ -1,11 +1,11 @@
 ---
-title: Top 10 Performing Artists TikTok Influencers In 2023
+title: Top 10 Performing Artists TikTok Influencers In 2024
 description: >-
-  Find top performing artists TikTok influencers in 2023. Most popular hashtags: #foryoupage #dancer #duet #comedy.
+  Find top performing artists TikTok influencers in 2024. Most popular hashtags: #foryoupage #comedy #artist #duet.
 platform: TikTok
 hits: 4
-text_top: See the most popular TikTok accounts on inBeat.
-text_bottom: Our database has 4 TikTok influencers like this for you to work with.
+text_top: Analyze the most popular TikTok profiles on inBeat.
+text_bottom: Our platform holds 4 TikTok influencers like this for you to work with.
 profiles:
   - username: "candice_george"
     fullname: >-
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.145666
     id: ckactsgq9fmmr0i78rocdu1f8
     verified: false
-    hashtags: "#circus, #foryou, #circuslife, #thisorthatsblv"
+    hashtags: "#circuslife, #circus, #juggling, #comedy"
   - username: "aavinashpayal"
     fullname: >-
       Aavinash Payal

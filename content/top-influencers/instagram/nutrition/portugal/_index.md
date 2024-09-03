@@ -1,24 +1,60 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In Portugal In 2023
+title: Top 10 Nutrition Instagram Influencers In Portugal In 2024
 description: >-
-  Find top nutrition Instagram influencers in Portugal in 2023. Most popular hashtags: #nutrition #love #healthylifestyle #inspiration.
+  Find top nutrition Instagram influencers in Portugal in 2024. Most popular hashtags: #nutrition #motivation #healthylifestyle #workout.
 platform: Instagram
-hits: 14
-text_top: Identify the best Instagram profiles on inBeat.
-text_bottom: Our search engine aggregates 14 Instagram influencers like this in Portugal for you to collaborate.
+hits: 12
+text_top: Discover the top-rated Instagram profiles on inBeat.
+text_bottom: Our search engine aggregates 12 Instagram influencers like this in Portugal for you to work with.
 profiles:
+  - username: "be_liima"
+    fullname: >-
+      Andreia Pimentel Lima
+    bio: >-
+      Clinical & Sports Nutritionist🥑 @holmesplaceportugal @rejuvie_by.arclinic @domusvi.pt Gestão Redes Sociais @fabstudioinc 📩andreiaplima_2@hotmail.com
+    location: "Portugal"
+    followers: 21690
+    engagement: 439
+    commentsToLikes: 0.014838
+    id: ck14gyd9o7mmb0i19q973zb4i
+    verified: false
+    hashtags: "#sonorepador, #pub, #sononatural, #noitedesono"
+  - username: "the_moroccan_fit"
+    fullname: >-
+      ||The Warrior - المحاربة||
+    bio: >-
+      •Sports Lawyer ⚖️ •Law&Management 📚 •NASM & EREPS 3 Certified PT 🏋🏻‍♀️ •Certified sport nutritionist 🍏 📨Online Coaching : @coachingbyrajaa
+    location: "Portugal"
+    followers: 46490
+    engagement: 468
+    commentsToLikes: 0.025349
+    id: ck9wf0eygmpq20j78hfeuxp6t
+    verified: false
+    hashtags: "#diet, #legs, #transformation, #discipline"
+  - username: "assuncaovsoares"
+    fullname: >-
+      Assunção Viegas Soares
+    bio: >-
+      & nutrition student, from Lisbon 🍒 assuncaovzgarin@gmail.com
+    location: "Portugal"
+    followers: 13487
+    engagement: 302
+    commentsToLikes: 0.042398
+    id: ckap41wgg5hew0i78qc7qmqik
+    verified: false
+    hashtags: "#ootd, #streetstyle, #styleinspo, #pinterestaesthetic"
   - username: "tothepointenutrition"
     fullname: >-
-      Dance Nutritionist Rachel Fine
+      Rachel Fine
     bio: >-
-      Nutrition for dancers🩰 🙋🏻‍♀️ Dietitian & dancer 🍎Food + Body confidence @dance_masterclass Q+A @pointemagazineofficial 👇🏼Become The Healthy Dancer®
+      MS RD CDN CEDS Dietitian for dancers🩰 Performance Nutrition + Intuitive Eating 🙋🏻‍♀️@dance_masterclass ✍🏼Dance Media The Healthy Dancer® 🔗 FREE TRIAL
     location: "Portugal"
-    followers: 37160
-    engagement: 204
-    commentsToLikes: 0.012168
+    followers: 39163
+    engagement: 162
+    commentsToLikes: 0.014918
     id: ck6tkfn344lx00j714kteow87
     verified: false
-    hashtags: "#balletdancers, #nutritionfordancers, #dancecompetition, #yagp"
+    hashtags: "#yagp, #ballerinasofinstagram, #dancertips, #dancecompetition"
   - username: "fit.mom.eli"
     fullname: >-
       Elizabete Amaral Ganhão 🇨🇦🇵🇹🇪🇸
@@ -30,7 +66,7 @@ profiles:
     commentsToLikes: 0.116280
     id: ckap6esq0flje0i783j1tpe3i
     verified: false
-    hashtags: "#blessed, #myworld, #happyheart, #happylife"
+    hashtags: "#myworld, #loveyou, #woman, #love"
   - username: "diannamoraru"
     fullname: >-
       Diana Moraru
@@ -42,43 +78,7 @@ profiles:
     commentsToLikes: 0.012694
     id: ck138jpkogk4u0i198acu6c8s
     verified: false
-    hashtags: "#antrenament, #ig, #instayum, #prajitura"
-  - username: "martinaaitolehtiofficial"
-    fullname: >-
-      Martina Aitolehti
-    bio: >-
-      • PT, Wellness & Nutrition coach • @superdry Triathlete • @mwebstorefi ➡️ koodilla MARTINA -10% ONLINE COACHING 👇🏽
-    location: "Portugal"
-    followers: 146224
-    engagement: 185
-    commentsToLikes: 0.006643
-    id: ck139zvzznxgw0i19wf8kx5t9
-    verified: true
-    hashtags: "#21pa, #21p, #maybeauty, #trainingwithmartina"
-  - username: "filipacortezfaria"
-    fullname: >-
-      Filipa Cortez Faria
-    bio: >-
-      Lifestyle & Nutrition Nutricionista 0586N Consultas: 218438920/963934639 Founder & Creator of Dieta3Passos PhD Student | MSc Public Health
-    location: "Portugal"
-    followers: 23918
-    engagement: 118
-    commentsToLikes: 0.022382
-    id: ckaor1wxildd70i786tf6nho2
-    verified: false
-    hashtags: "#nyc, #saudavel, #acredita, #alimentacaosaudavel"
-  - username: "no.food.rules"
-    fullname: >-
-      Colleen Christensen, RD
-    bio: >-
-      🥑 Healthy relationship w/ food + intuitive nutrition 📲 Founder of @the_socieaty intuitive eating community 👇 What's holding you back quiz + resources!
-    location: "Portugal"
-    followers: 234101
-    engagement: 170
-    commentsToLikes: 0.019429
-    id: ck13d3vyu3jq80i198pjo1w2o
-    verified: false
-    hashtags: "#ad"
+    hashtags: "#bucuresti, #ploiesti, #deva, #bucharest"
   - username: "lindsaydcst"
     fullname: >-
       Lindsay Da Costa
@@ -90,7 +90,19 @@ profiles:
     commentsToLikes: 0.041959
     id: ckap9t0mgtjb50i78b1t0xl9h
     verified: false
-    hashtags: "#crossfitfrance, #qntsportnutrition, #summervibes, #crossfitbelgium"
+    hashtags: "#nutrition, #abdos, #beachlife, #nutritionsportive"
+  - username: "jessiegomees"
+    fullname: >-
+      𝕁𝕖𝕤𝕤𝕚𝕖 𝔾 |𝔽𝕚𝕥𝕟𝕖𝕤𝕤 & ℕ𝕦𝕥𝕣𝕚𝕥𝕚𝕠𝕟|
+    bio: >-
+      🥑 | Healthy Lifestyle | 📍 | Coimbra, PT| 💌 | Parcerias - 📨 |
+    location: "Portugal"
+    followers: 13738
+    engagement: 461
+    commentsToLikes: 0.011011
+    id: ck8t9ktoyogna0j78y8l32nfu
+    verified: false
+    hashtags: "#happy, #portugal, #motivation, #blonde"
   - username: "charliecfm"
     fullname: >-
       CHΛRLIΞ • Carlos Frota Melo
@@ -103,18 +115,6 @@ profiles:
     id: ckap4i5927hd50i782o8gpnof
     verified: false
     hashtags: "#emcasa, #iloveoeiras, #socialisolation, #giveaway"
-  - username: "maryplan"
-    fullname: >-
-      Maria Pereira
-    bio: >-
-      📍#oporto based Team @yogicouplelove Mary’s life it’s all about Mary’s plan... Follow the plan ❣️ Let’s work : mariapdpereira@hotmail.com 🌱
-    location: "Portugal"
-    followers: 39255
-    engagement: 170
-    commentsToLikes: 0.268751
-    id: ck5zl46uwkp4v0i143onacgm5
-    verified: false
-    hashtags: "#hapiness, #ootd, #kingslandequestrian, #hapinessishere"
   - username: "fit_with_lia"
     fullname: >-
       🇱​🇮​🇦

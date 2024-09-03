@@ -1,11 +1,11 @@
 ---
-title: Top 10 Photographers Instagram Influencers In Brisbane In 2023
+title: Top 10 Photographers Instagram Influencers In Brisbane In 2024
 description: >-
-  Find top photographers Instagram influencers in Brisbane in 2023. Most popular hashtags: #brisbane #queensland #photography.
+  Find top photographers Instagram influencers in Brisbane in 2024. Most popular hashtags: #brisbane #photography #australia.
 platform: Instagram
-hits: 41
-text_top: Identify the most popular Instagram accounts on inBeat.
-text_bottom: inBeat holds 41 Instagram influencers like this in Brisbane, Australia for you to pitch.
+hits: 48
+text_top: See the most popular Instagram profiles on inBeat.
+text_bottom: Our database aggregates 48 Instagram influencers like this in Brisbane, Australia for you to pitch.
 profiles:
   - username: "kristinawild_"
     fullname: >-
@@ -19,18 +19,6 @@ profiles:
     id: ck5cb5s0sescx0i11bzv3cl6c
     verified: false
     hashtags: "#mywildgirlgang, #fbf, #iggymena, #cking"
-  - username: "jade.piper"
-    fullname: >-
-      J A D E P H O T O G R A P H Y
-    bio: >-
-      Welcome to my vision ✨Gold Coast / Brisbane Photographer — jadepiper0@gmail.com — Inquiries direct message or email 💫
-    location: "Australia"
-    followers: 14211
-    engagement: 334
-    commentsToLikes: 0.161791
-    id: ck14k6yrso1ny0i1999pqx1u9
-    verified: false
-    hashtags: "#reel, #35mm, #campaign, #reels"
   - username: "matthewgianoulis"
     fullname: >-
       Matthew Gianoulis Photography
@@ -67,18 +55,18 @@ profiles:
     id: ck0u75waz3w8r0i19y40ulqiz
     verified: false
     hashtags: "#queensland, #chasingwaterfalls, #weddingshowcase, #bestview"
-  - username: "rockybatchelor"
+  - username: "wanderfultraveler"
     fullname: >-
-      R O C K Y    B A T C H E L O R
+      Australia Lifestyle ⁺ Travel 💕 Melissa Lau
     bio: >-
-      Professional Photographer | Video Production | Brisbane - Sydney Commercial portfolio 📧 photographer@rockybatchelor.com
+      brisbane creator, photographer, marketing consultant 💌 mgmt@wanderfultraveler.com pretty places • hotels • food • experiences
     location: "Australia"
-    followers: 134853
-    engagement: 77
-    commentsToLikes: 0.029390
-    id: ck5hfkvatxycf0i1131fmkkwg
+    followers: 41989
+    engagement: 42
+    commentsToLikes: 0.051819
+    id: ck0w2373umeke0i19q0we6ca1
     verified: false
-    hashtags: "#makeup, #client, #swimwear, #realityshow"
+    hashtags: "#danangvietnam, #myunitedjourney, #brisbaneblogger, #goldenbridgevietnam"
   - username: "eyeseeauras"
     fullname: >-
       Madison J.
@@ -127,4 +115,16 @@ profiles:
     id: ck135u0db38d80i19pbmjjeix
     verified: false
     hashtags: "#canonaustralia, #brisbane, #visitnsw, #igaustralia"
+  - username: "sarahrenee_official"
+    fullname: >-
+      𝐒𝐀𝐑𝐀𝐇 𝐁𝐔𝐂𝐊𝐋𝐀𝐍𝐃
+    bio: >-
+      Aus, 24 ♡ ︎♡ ︎♡ Just out here winging it @myprotein Athlete SARAHB °*• ❀ •*° Collab 📧 Sarahbuckland96@gmail.com
+    location: "Australia"
+    followers: 68430
+    engagement: 12
+    commentsToLikes: 0.002486
+    id: cksjxnre4cuv80j23v3b8goxu
+    verified: false
+    hashtags: "#trending, #fitness, #asntownsville, #goldcoast"
 ---

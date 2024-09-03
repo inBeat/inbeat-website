@@ -1,11 +1,11 @@
 ---
-title: Top 10 Photographers TikTok Influencers In Italy In 2023
+title: Top 10 Photographers TikTok Influencers In Italy In 2024
 description: >-
-  Find top photographers TikTok influencers in Italy in 2023. Most popular hashtags: #italy #photography #travel #sunset.
+  Find top photographers TikTok influencers in Italy in 2024. Most popular hashtags: #italy #photography #travel #sunset.
 platform: TikTok
 hits: 35
-text_top: Discover the most popular TikTok accounts on inBeat.
-text_bottom: Our platform aggregates 35 TikTok influencers like this in Italy for you to work with.
+text_top: Identify the best TikTok profiles on inBeat.
+text_bottom: inBeat aggregates 35 TikTok influencers like this in Italy for you to contact.
 profiles:
   - username: "roccabrian"
     fullname: >-
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.037174
     id: ckacsfid69uq90i78e22wuzcl
     verified: false
-    hashtags: "#dopesnow, #dopesnowco, #seiseralm, #italyphotography"
+    hashtags: "#seiseralm, #dopesnowco, #videosnapchallenge, #pt1"
   - username: "ilariaeandrea"
     fullname: >-
       Fotografi matrimonio
@@ -61,24 +61,24 @@ profiles:
     bio: >-
       📸 Photographer 📍Milan For shooting and collab: IG or ✉ gianspez@gmail.com
     location: "Italy"
-    followers: 7902
-    engagement: 827
-    commentsToLikes: 0.019742
+    followers: 7833
+    engagement: 698
+    commentsToLikes: 0.029706
     id: ckbqionll3wdj0j2300k8cemq
     verified: false
-    hashtags: "#tech, #mare, #foto, #photography"
+    hashtags: "#photographer, #milan, #imparacontiktok, #milano"
   - username: "mickel_bura_ph"
     fullname: >-
       Mickel Buratin
     bio: >-
-      📸 Photographer 🎥🎬 Actor 📍ITALY 🇮🇹 INSTA: @mickel_bura_ph Goal ▶️ 110k ???
+      📸 Photographer 🎥🎬 Actor 📍ITALY 🇮🇹 INSTA: @mickel_bura_ph Goal ▶️ 270k ??
     location: "Italy"
-    followers: 109300
-    engagement: 1230
-    commentsToLikes: 0.017989
+    followers: 272900
+    engagement: 1131
+    commentsToLikes: 0.010151
     id: ckc7yct8n0nve0j23efk0qjrv
     verified: false
-    hashtags: "#perte, #poses, #posingtips, #fyp"
+    hashtags: "#mickel, #photoideas, #posesforpictures, #poses"
   - username: "metvideo"
     fullname: >-
       metvideo
@@ -114,7 +114,7 @@ profiles:
     commentsToLikes: 0.023120
     id: ck8vshinwdkrq0j78kba6o75j
     verified: false
-    hashtags: "#italy, #dubai, #winter, #snow"
+    hashtags: "#italy, #winter, #dubai, #snow"
   - username: "dorpell"
     fullname: >-
       Dorian Pellumbi
@@ -126,5 +126,5 @@ profiles:
     commentsToLikes: 0.015464
     id: ckbl5f6t92wcr0j232t2kbvve
     verified: false
-    hashtags: "#foryou, #photographytricks, #perte, #bts"
+    hashtags: "#photographytricks, #tiktoktravel, #fyp, #perte"
 ---

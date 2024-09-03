@@ -1,11 +1,11 @@
 ---
-title: Top 10 Gymnasts TikTok Influencers In France In 2023
+title: Top 10 Gymnasts TikTok Influencers In France In 2024
 description: >-
-  Find top gymnasts TikTok influencers in France in 2023. Most popular hashtags: #pourtoi #gymnastique #fyp #gym.
+  Find top gymnasts TikTok influencers in France in 2024. Most popular hashtags: #pourtoi #gymnastique #fyp #gym.
 platform: TikTok
 hits: 39
-text_top: Analyze the most popular TikTok influencers on inBeat.
-text_bottom: Our search engine holds 39 TikTok influencers like this in France for you to work with.
+text_top: Analyze the top-rated TikTok profiles on inBeat.
+text_bottom: Our platform has 39 TikTok influencers like this in France for you to connect with.
 profiles:
   - username: "coco.dlmz"
     fullname: >-
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.009293
     id: ck9vftkmm4jhp0j78v2jvtt5u
     verified: false
-    hashtags: "#gymnastique, #gym, #gymnastics, #pourtoi"
+    hashtags: "#gymnastics, #pourtoi, #shein, #sheingals"
   - username: "leopold.dutrey"
     fullname: >-
       Leopold Dutrey
@@ -126,5 +126,5 @@ profiles:
     commentsToLikes: 0.011315
     id: ck8s9iak7y1140j78sj6a4fvq
     verified: false
-    hashtags: "#teamgym, #gymnastique, #fitnessweek, #stalder"
+    hashtags: "#stalder, #fitnessweek, #handstand, #storytime"
 ---

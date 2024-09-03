@@ -1,24 +1,36 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Berlin In 2023
+title: Top 10 Lifestyle Instagram Influencers In Berlin In 2024
 description: >-
-  Find top lifestyle Instagram influencers in Berlin in 2023. Most popular hashtags: #lifestyle #berlin #fashion #ootd.
+  Find top lifestyle Instagram influencers in Berlin in 2024. Most popular hashtags: #lifestyle #berlin #love #ootd.
 platform: Instagram
-hits: 427
-text_top: Discover the top-rated Instagram profiles on inBeat.
-text_bottom: Our search engine has 427 Instagram influencers like this in Berlin, Germany for you to connect with.
+hits: 481
+text_top: See the top-rated Instagram influencers on inBeat.
+text_bottom: Our search engine aggregates 481 Instagram influencers like this in Berlin, Germany for you to connect with.
 profiles:
-  - username: "ledea_dominik_"
+  - username: "rommel.anna"
     fullname: >-
-      Ledea Dominik
+      Anna
     bio: >-
-      📍Berlin/Leipzig 📸 Model #opposuits 🎬In aller Freundschaft 🎬 Mieten Kaufen Wohnen 🎬 Abenteuer Leben 🎬Erstmal zu Penny 🎬R&V Versicherung
+      photography, fashion, lifestyle Berlin📍 @sesamyagency EMAIL: anna@sesamyagency.com
     location: "Germany"
-    followers: 46536
-    engagement: 1271
-    commentsToLikes: 0.001311
-    id: ck5pyto1qxr1q0i11d3mqwq1g
+    followers: 300212
+    engagement: 888
+    commentsToLikes: 0.005172
+    id: ck0w6j2qc8sr80i19sr9v1kqp
     verified: false
-    hashtags: "#fashion, #insta, #nice, #photography"
+    hashtags: "#cretegettogether, #peachymagazine, #erlemag, #portraits"
+  - username: "stivoveyron"
+    fullname: >-
+      Stivo
+    bio: >-
+      🔵 It’s all about Mindset 🔵✌🏼️🇩🇪 •Enjoy 1 Life 😁 •Take the Chance 👊 •Dress to impress 👔 • Always keep moving 🏎 •Love your Body& Soul🍏
+    location: "Germany"
+    followers: 26524
+    engagement: 570
+    commentsToLikes: 0.052157
+    id: ckaozwbr6nou10i78c1zwie4w
+    verified: false
+    hashtags: "#hugoboss, #mcfit, #germany, #suits"
   - username: "baerliner_luft"
     fullname: >-
       Berliner Luft
@@ -31,30 +43,6 @@ profiles:
     id: ck6005p9mczxr0i14mamijj0s
     verified: false
     hashtags: "#push, #community, #love, #schilkin"
-  - username: "aaylingk"
-    fullname: >-
-      •Gülcan Aylin•
-    bio: >-
-      Aylin 👩🏻‍💻Beauty | Fashion | Lifestyle 📍Berlin / Germany
-    location: "Germany"
-    followers: 127909
-    engagement: 648
-    commentsToLikes: 0.015834
-    id: ck15uh2ozn5gu0i19daoe8clk
-    verified: false
-    hashtags: "#getthelook, #zalandostyle, #safirashine"
-  - username: "lennartmarlon_"
-    fullname: >-
-      Lennart Marlon Flottemesch
-    bio: >-
-      28 german 🦁 Founder of @lennartmarlon_thelabel Blogger/Actor & Worldtraveller 🌎🌏🌍 based in #Düsseldorf Next - #berlin #lifestyle #beauty #dogdad
-    location: "Germany"
-    followers: 113517
-    engagement: 246
-    commentsToLikes: 0.011317
-    id: ck0vyxyhp6c1e0i19v126mv0z
-    verified: false
-    hashtags: "#madeingermany, #guy, #blonde, #handmade"
   - username: "mrsunicorn.de"
     fullname: >-
       ❥ Mrs Unicorn by Celine
@@ -67,6 +55,54 @@ profiles:
     id: ck0vuyu6xmrpb0i1946fd325h
     verified: false
     hashtags: "#oceanlover, #quoteoftheday, #happygirl, #vacationmode"
+  - username: "asti_chin"
+    fullname: >-
+      Asti
+    bio: >-
+      🌱 vegan ✨ all natural Model 🌍 Traveling 🏐 Beachvolleyball Athlete - @hauptstadt_beacher
+    location: "Germany"
+    followers: 49471
+    engagement: 338
+    commentsToLikes: 0.082283
+    id: clq9hyzp47c3n0k081x3v82u0
+    verified: false
+    hashtags: "#curlymodel, #beachvolleyballclubberlin, #modellife, #agencymodel"
+  - username: "paulasenfkorn"
+    fullname: >-
+      Paula Senfkorn
+    bio: >-
+      ☁️ Berlin ✉️ paula@hey-ally.com Impr.: @heyally_impressum
+    location: "Germany"
+    followers: 268334
+    engagement: 279
+    commentsToLikes: 0.039265
+    id: clto0xn29nmlj0k08pc2yepao
+    verified: false
+    hashtags: "#unboxingvideo, #dailyvlog, #paulasenfkorn, #mysterygift"
+  - username: "saman_ibiza"
+    fullname: >-
+      Saman Baghi
+    bio: >-
+      🌏 🇩🇪🇮🇷 📍 Cologne | Teheran
+    location: "Germany"
+    followers: 76132
+    engagement: 206
+    commentsToLikes: 0.055148
+    id: ck55ph1nbajlr0i11le5apqba
+    verified: false
+    hashtags: "#boxen, #hamburg, #tattoo, #marbella"
+  - username: "biancalalilu"
+    fullname: >-
+      Bianca Lalilu 🧿
+    bio: >-
+      • Berlin | ♊ • F A S H I O N | L I F E S T Y L E | T R A V E L • Anfragen 📧 : biancabusiness.booking@gmail.com • @sheinofficial Code Bian20
+    location: "Germany"
+    followers: 24670
+    engagement: 189
+    commentsToLikes: 0.160454
+    id: ck6u721s3j0qc0j710bw8zteo
+    verified: false
+    hashtags: "#wimpernberlin, #magdeburg, #staypositive, #inspo"
   - username: "debo3295"
     fullname: >-
       Debo
@@ -79,30 +115,6 @@ profiles:
     id: ck6u6g9wqffgp0j7106sqrakx
     verified: false
     hashtags: "#alpharudel, #bikefam, #suzuki, #mivv"
-  - username: "sarahvogue_"
-    fullname: >-
-      SARAH VOGUE ツ
-    bio: >-
-      FASHION | BEAUTY | TRAVEL ⇢ 𝑤𝑖𝑙𝑑 𝑠𝑝𝑖𝑟𝑖𝑡,𝑠𝑜𝑓𝑡 ℎ𝑒𝑎𝑟𝑡,𝑠𝑤𝑒𝑒𝑡 𝑠𝑜𝑢𝑙 #girlpower⚡️ Google SEA Marketing Expert |Berlin,spanish girl✌🏽 ✉️ Mail@sarahvogue.com
-    location: "Germany"
-    followers: 21477
-    engagement: 293
-    commentsToLikes: 0.132609
-    id: ck9wdicm6fr8s0j7826663l1s
-    verified: false
-    hashtags: "#karokauer, #dailyinspiration, #shape, #berlinblogger"
-  - username: "saman_ibiza"
-    fullname: >-
-      
-    bio: >-
-      🌏 🇩🇪🇮🇷 📍 Cologne | Teheran
-    location: "Germany"
-    followers: 59254
-    engagement: 435
-    commentsToLikes: 0.030684
-    id: ck55ph1nbajlr0i11le5apqba
-    verified: false
-    hashtags: "#fussball, #hellsangels, #pictureoftheday, #cologne"
   - username: "celinajadakerr"
     fullname: >-
       Celina Kerr 🦋
@@ -115,16 +127,4 @@ profiles:
     id: ck5hclxbtir5g0i11wrprl4cs
     verified: false
     hashtags: "#fashion, #outfitideas, #look, #brown"
-  - username: "fashion_and_more_by_monika"
-    fullname: >-
-      Monika
-    bio: >-
-      Influencer/Blogger 📌aus Berlin. 💚Fashion, Reisen, Essen💕. Träume nicht Dein Leben, lebe Deinen Traum . Email: monikaguhl.blog@gmail.com
-    location: "Germany"
-    followers: 129748
-    engagement: 87
-    commentsToLikes: 0.191629
-    id: ck0tzjh65qi6h0i19b3e6tmbs
-    verified: false
-    hashtags: "#womanwithstyle, #picotd, #germanwoman, #stayups"
 ---

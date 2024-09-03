@@ -1,11 +1,11 @@
 ---
-title: Top 10 Bakers TikTok Influencers In 2023
+title: Top 10 Bakers TikTok Influencers In 2024
 description: >-
-  Find top bakers TikTok influencers in 2023. Most popular hashtags: #fyp #duet #foryou #greenscreen.
+  Find top bakers TikTok influencers in 2024. Most popular hashtags: #fyp #duet #foryou #greenscreen.
 platform: TikTok
-hits: 1311
-text_top: Analyze the top-rated TikTok influencers on inBeat.
-text_bottom: Our platform holds 1311 TikTok influencers like this for you to connect with.
+hits: 1309
+text_top: Discover the top-rated TikTok accounts on inBeat.
+text_bottom: Our platform holds 1309 TikTok influencers like this for you to work with.
 profiles:
   - username: "tkraindrop"
     fullname: >-
@@ -30,7 +30,19 @@ profiles:
     commentsToLikes: 0.227453
     id: ckavl0racu4oa0j23pa7g4z1c
     verified: false
-    hashtags: "#welcomeback, #dontspillchallenge, #fyp, #watchmenow"
+    hashtags: "#youareenough, #duet, #mentalhealthmatters, #youdidnotwin"
+  - username: "kamikazedivine4"
+    fullname: >-
+      KAMI
+    bio: >-
+      - 19 - “Bad biscuits make the baker broke, bro.” - Jake the Dog
+    location: "Australia"
+    followers: 17600
+    engagement: 2012
+    commentsToLikes: 0.073178
+    id: ckan0mal0rbc70i78w1vuvop7
+    verified: false
+    hashtags: "#trampoline, #foryou, #fyp, #parkour"
   - username: "msongbird91"
     fullname: >-
       MSongbird91
@@ -42,7 +54,7 @@ profiles:
     commentsToLikes: 0.040523
     id: ckcu5bsh2asyu0j23pgkuo3an
     verified: false
-    hashtags: "#thisorthatsblv, #getreadywitholdspice, #fyp, #geicolipsync"
+    hashtags: "#thisorthatsblv, #getreadywitholdspice, #fyp, #optometrist"
   - username: "bakewithluce"
     fullname: >-
       Cake artist, Guernsey
@@ -115,16 +127,4 @@ profiles:
     id: ck81q377sfk810j78ac4wl924
     verified: false
     hashtags: "#duet, #stitch, #fyp, #greekgods"
-  - username: "ltreats"
-    fullname: >-
-      Luluz Treats
-    bio: >-
-      Baker in London 🇬🇧
-    location: "United Kingdom"
-    followers: 131900
-    engagement: 1570
-    commentsToLikes: 0.027661
-    id: ck85cr5na373y0j78lptam6s1
-    verified: false
-    hashtags: "#cookies, #cake, #cookiedecorating, #tiktokfood"
 ---

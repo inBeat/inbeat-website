@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fitness TikTok Influencers In San Francisco In 2023
+title: Top 10 Fitness TikTok Influencers In San Francisco In 2024
 description: >-
-  Find top fitness TikTok influencers in San Francisco in 2023. Most popular hashtags: #fitness #sanfrancisco #california #workout.
+  Find top fitness TikTok influencers in San Francisco in 2024. Most popular hashtags: #sanfrancisco #fitness #california #workout.
 platform: TikTok
 hits: 12
-text_top: Identify the best TikTok accounts on inBeat.
-text_bottom: Our platform holds 12 TikTok influencers like this in San Francisco, United States for you to collaborate.
+text_top: Discover the best TikTok influencers on inBeat.
+text_bottom: Our database has 12 TikTok influencers like this in San Francisco, United States for you to contact.
 profiles:
   - username: "ptalon97"
     fullname: >-

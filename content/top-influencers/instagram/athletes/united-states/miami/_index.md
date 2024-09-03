@@ -1,12 +1,24 @@
 ---
-title: Top 10 Athletes Instagram Influencers In Miami In 2023
+title: Top 10 Athletes Instagram Influencers In Miami In 2024
 description: >-
-  Find top athletes Instagram influencers in Miami in 2023. Most popular hashtags: #athlete #miami #motivation #miamibeach.
+  Find top athletes Instagram influencers in Miami in 2024. Most popular hashtags: #athlete #miami #miamibeach #workout.
 platform: Instagram
-hits: 160
-text_top: Analyze the most popular Instagram accounts on inBeat.
-text_bottom: Our platform has 160 Instagram influencers like this in Miami, United States for you to collaborate.
+hits: 185
+text_top: Analyze the top-rated Instagram accounts on inBeat.
+text_bottom: Our database has 185 Instagram influencers like this in Miami, United States for you to contact.
 profiles:
+  - username: "haitianbeauty25"
+    fullname: >-
+      🇭🇹 MARIE BLANCHARD🇭🇹
+    bio: >-
+      🪬IFBB Pro UNIVERSE 🌐 #alpha♀ 📍#NY #Miami #Hamptons 🌴 @onegoldenthread code: Essence ⏳MBA: I/O Psychology ⏳Minor: Marketing 🏆Team @shaneheugly
+    location: "United States"
+    followers: 97308
+    engagement: 327
+    commentsToLikes: 0.076494
+    id: ck5hqa4lfsrkd0i11czlvok78
+    verified: false
+    hashtags: "#weightloss, #ifbb, #bodybuilding, #melanin"
   - username: "_soxsoul_"
     fullname: >-
       New York Photo/Video Creator
@@ -19,6 +31,42 @@ profiles:
     id: ck5zr2i3mvrv30i14n8gop4vn
     verified: false
     hashtags: "#newyorker, #dodgechallenger, #newyork, #miami"
+  - username: "shawnelozano"
+    fullname: >-
+      Photographer/Videographer
+    bio: >-
+      Master of Light 💡
+    location: "United States"
+    followers: 4920
+    engagement: 1043
+    commentsToLikes: 0.039889
+    id: ck5zqdaf3ue6i0i14cxmjflxr
+    verified: false
+    hashtags: "#portraitphotography, #thenxathlete, #heriashop, #handstand"
+  - username: "alessiakoff"
+    fullname: >-
+      Alessia B. Kofftun
+    bio: >-
+      📍Montreal 🇨🇦 📍Miami 🇺🇸 CEO&Owner of @report_fitness® ~Can't imagine my life without movement and happy to be able to share my passion through my gyms~
+    location: "United States"
+    followers: 14584
+    engagement: 269
+    commentsToLikes: 0.035356
+    id: ck0u8f1s3778f0i1910u7oxl3
+    verified: false
+    hashtags: "#calisthenics, #bodyweight, #bodyweighttraining, #calisthenicsworkout"
+  - username: "nohlsen"
+    fullname: >-
+      Noah Ohlsen
+    bio: >-
+      On the pursuit of fitness! 🙂 Happy, But HUNGRY. 🏋️‍♂️ 10x CrossFit Games Athlete 🦈 @Gymshark Athlete 📍 Miami, FL
+    location: "United States"
+    followers: 872555
+    engagement: 138
+    commentsToLikes: 0.005234
+    id: ck0tt0cyg0lw50i19si66v89t
+    verified: true
+    hashtags: "#stretching, #mobility, #healthiertogether, #teampliability"
   - username: "joefournier"
     fullname: >-
       Joe Fournier
@@ -31,18 +79,18 @@ profiles:
     id: ck0vzvn36b4ad0i197p1etclz
     verified: true
     hashtags: "#dubai, #miamibeach, #athlete, #boxing"
-  - username: "leroydamo"
+  - username: "angelina_dimova"
     fullname: >-
-      Damien LeRoy
+      Aɴɢᴇʟɪɴᴀ
     bio: >-
-      Spreading love & happiness Head of Sales @liftfoils Professional athlete / sales @cabrinhakites World Champion 2011 | @lululemonmen | @weretofficial
+      22yo. From🇺🇦 Live in🇺🇸 Former tennis player 🎾 For all collaborations👉🏻 team@angelinagarage.com Owner of @angelina.garage
     location: "United States"
-    followers: 25565
-    engagement: 236
-    commentsToLikes: 0.046814
-    id: ck55juxupxsrc0i1152xslkl8
-    verified: false
-    hashtags: "#fullsend, #thesweatlife, #extreemesports, #cabrinhakites"
+    followers: 952616
+    engagement: 252
+    commentsToLikes: 0.010533
+    id: ck601pv8ffxyo0i14axkfc97m
+    verified: true
+    hashtags: "#barbiemovie, #lamborghiniaventador, #supercars, #boat"
   - username: "explicit__sports"
     fullname: >-
       explicit__sports
@@ -55,76 +103,28 @@ profiles:
     id: ck9wfajdynz4j0j7826nov2om
     verified: false
     hashtags: "#timeschange, #tampabaybuccaneers, #sportsedits, #football"
-  - username: "courtneymarybb"
+  - username: "elenachristine_s"
     fullname: >-
-      Courtney Brooks
+      elena stavinoha
     bio: >-
-      👙WBFF Bikini 🏋️‍♀️Online Fitness Coach 🩺Registered Nurse 🦋@cmbbfitness
+      in Christ alone | htx -> miami 🇵🇪🇲🇽🇨🇿 @gymshark athlete code ELENA @movewithus 📧: elenachristine@dulcedo.com
     location: "United States"
-    followers: 10760
-    engagement: 389
-    commentsToLikes: 0.206958
-    id: ck8t3ctsx2s630j78ae7bekqz
+    followers: 484928
+    engagement: 616
+    commentsToLikes: 0.003986
+    id: ck8wfql25g3wg0j78kidwroq5
     verified: false
-    hashtags: "#bombshell, #miami, #workout, #canada"
-  - username: "zeku__"
+    hashtags: "#mcobeauty, #mcobeautypartner, #ad, #bloompartners"
+  - username: "aspen.vincent"
     fullname: >-
-      Bboy | Athlete | Entrepreneur
+      Aspen Vincent | Calistenics Athlete
     bio: >-
-      🏆 Champion Of All Your Favorite Events Athlete @Monsterenergy Founder @Breakinmia | @Breakinbusiness Co-Founder @Sergymmma ⬇️Sponsor a child today!
+      🤸🏼‍♀️Calisthenics Athlete & Coach 🇺🇸USA - Miami, FL 🌴 🏆WCO battle of the bars 2022-2023
     location: "United States"
-    followers: 36026
-    engagement: 372
-    commentsToLikes: 0.039634
-    id: ck5pvvoc5juvn0i11sfoi84w2
+    followers: 27260
+    engagement: 241
+    commentsToLikes: 0.081153
+    id: ckqrmwgxnyqhj0j234gvjp8l0
     verified: false
-    hashtags: "#olympics, #monsterenergy, #305, #miami"
-  - username: "melgreen_x"
-    fullname: >-
-      WBFF Bikini👙 PEScience Athlete
-    bio: >-
-      👠Posing Coach @melgreenfit 🏆1st ICN, INBA, ANB x11 🏆2nd & 3rd WBFF 👑Bikini PRO ☮️Freedom @pescience Athlete Mel15 ✈️34 countries
-    location: "United States"
-    followers: 50344
-    engagement: 109
-    commentsToLikes: 0.104948
-    id: ck6tykp8j4at90j71h28e8yqi
-    verified: false
-    hashtags: "#journeytowbff, #spohphoto, #styling, #bikinipro"
-  - username: "gabydabrowski"
-    fullname: >-
-      Gaby Dabrowski
-    bio: >-
-      Tennis, but mostly other things. #poweredbynuzest Indefinitely Curious 🌎 📚🌅 🇨🇦 🇵🇱 🎾 @ecoathletesteam @high.impact.athletes gaby4.tennis@hotmail.com
-    location: "United States"
-    followers: 17578
-    engagement: 681
-    commentsToLikes: 0.038025
-    id: ck139e0ojkuie0i19n2u87xxj
-    verified: true
-    hashtags: "#womensdoubles, #womenstennis, #womeninsport, #nimbleactivewear"
-  - username: "plopezserra"
-    fullname: >-
-      Pablo López Serra
-    bio: >-
-      Venezuelan athlete🇻🇪 Pitcher for the Miami Marlins⚾️
-    location: "United States"
-    followers: 8451
-    engagement: 1197
-    commentsToLikes: 0.045934
-    id: ck6u2vywlu8h40j712hbxhpal
-    verified: true
-    hashtags: "#juntosmiami, #305, #gomarlins, #openingdayathome"
-  - username: "bakharnabieva"
-    fullname: >-
-      Bakhar Nabieva
-    bio: >-
-      Miami @dragonpharma_llc athlete My goals don’t stop for anyone ,either you support me or I make it happen alone ,either way it’s going to happen
-    location: "United States"
-    followers: 3354734
-    engagement: 423
-    commentsToLikes: 0.009675
-    id: ck5c108pbu70j0i11oren47u1
-    verified: true
-    hashtags: ""
+    hashtags: "#fitness, #femaleathlete, #hotgirl, #miami"
 ---

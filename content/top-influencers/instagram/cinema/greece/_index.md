@@ -1,12 +1,48 @@
 ---
-title: Top 10 Cinema Instagram Influencers In Greece In 2023
+title: Top 10 Cinema Instagram Influencers In Greece In 2024
 description: >-
-  Find top cinema Instagram influencers in Greece in 2023. Most popular hashtags: #love #instagood #actor.
+  Find top cinema Instagram influencers in Greece in 2024. Most popular hashtags: #love #actorslife #summer #friends.
 platform: Instagram
-hits: 38
-text_top: See the top-rated Instagram influencers on inBeat.
-text_bottom: Our search engine aggregates 38 Instagram influencers like this in Greece for you to contact.
+hits: 45
+text_top: Identify the best Instagram accounts on inBeat.
+text_bottom: Our database holds 45 Instagram influencers like this in Greece for you to pitch.
 profiles:
+  - username: "lumino"
+    fullname: >-
+      ERIC GIOVON
+    bio: >-
+      CINEMATOGRAPHER / PHOTOGRAPHER Athens, Greece / Worldwide @ericgiovon
+    location: "Greece"
+    followers: 120588
+    engagement: 479
+    commentsToLikes: 0.012573
+    id: ck5ho8fb7p4ec0i11ewhd7vqs
+    verified: false
+    hashtags: "#reframedmag, #bnw, #cinebible, #dplife"
+  - username: "unboxholics"
+    fullname: >-
+      Unboxholics
+    bio: >-
+      TIME WELL WASTED. Gaming | Tech | Cinema | Entertainment #UH #unboxholics ⬇️Ρουχισμός Unboxholics
+    location: "Greece"
+    followers: 488881
+    engagement: 503
+    commentsToLikes: 0.004687
+    id: ck8t0b5yprgrs0j7811wd4pch
+    verified: false
+    hashtags: "#nuiiicecreamadventure, #ad, #nuii, #uhmemes"
+  - username: "ioannaasimakopoulou"
+    fullname: >-
+      Ioanna Asimakopoulou
+    bio: >-
+      #Actress #Greece #ioannaasimakopoulou •Theatre•TV•Cinema•Art•Traveler
+    location: "Greece"
+    followers: 105951
+    engagement: 518
+    commentsToLikes: 0.011723
+    id: ckf5s389kemh70j234p8j8cix
+    verified: false
+    hashtags: "#womanstyle, #me, #feel, #beyourself"
   - username: "nikolpanagiotou"
     fullname: >-
       Nikol Panagiotou
@@ -19,18 +55,6 @@ profiles:
     id: ck5hgor5u3xli0i11nh4nmna9
     verified: false
     hashtags: "#mykonosgreece, #mood, #mykonos, #mysummer"
-  - username: "giangideg"
-    fullname: >-
-      Gianluca
-    bio: >-
-      Made in Rome 🇮🇹 - I ❤️Football ⚽️ ASROMA - Music-Cinema-Travel ✈️
-    location: "Greece"
-    followers: 226143
-    engagement: 219
-    commentsToLikes: 0.017273
-    id: ckf5qz3ezavnt0j23e4g49kp8
-    verified: false
-    hashtags: "#navajo, #zante, #beach, #blueeyes"
   - username: "aris_max_"
     fullname: >-
       Aris Christofer♈️
@@ -55,18 +79,6 @@ profiles:
     id: ck5pzbt6j07d70i113kyyi72i
     verified: false
     hashtags: "#happiness, #friends, #actress, #vitaminsea"
-  - username: "unboxholics"
-    fullname: >-
-      Unboxholics
-    bio: >-
-      TIME WELL WASTED. Gaming | Tech | Cinema | Entertainment #UH #Unboxholics ⬇️Ρουχισμός Unboxholics
-    location: "Greece"
-    followers: 441576
-    engagement: 866
-    commentsToLikes: 0.005534
-    id: ck8t0b5yprgrs0j7811wd4pch
-    verified: false
-    hashtags: "#kodikasz, #unboxholics, #rtx3090, #rtx3080"
   - username: "toukoutoubi"
     fullname: >-
       TukuGR
@@ -115,16 +127,4 @@ profiles:
     id: ck55lkz5k1th60i11ngjeogxf
     verified: false
     hashtags: "#gillette, #balance, #giveaway, #cinema"
-  - username: "george_komvokis"
-    fullname: >-
-      George Komvokis | Greece
-    bio: >-
-      Travel | Nature | Outdoor CrossFit Athlete Athens | Lesvos Island Check my IGTV
-    location: "Greece"
-    followers: 16611
-    engagement: 1283
-    commentsToLikes: 0.061653
-    id: ck6tpxb1qnzo90j710y2w0och
-    verified: false
-    hashtags: "#cinematography, #photooftheday, #nikon, #me"
 ---

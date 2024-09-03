@@ -1,12 +1,60 @@
 ---
-title: Top 10 Tattoo-Artists Instagram Influencers In South Korea In 2023
+title: Top 10 Tattoo-Artists Instagram Influencers In South Korea In 2024
 description: >-
-  Find top tattoo-artists Instagram influencers in South Korea in 2023. Most popular hashtags: #blacktattoo #tattooart #tattoo #tattooartist.
+  Find top tattoo-artists Instagram influencers in South Korea in 2024. Most popular hashtags: #tattooart #tattooartist #blacktattoo #blackworkers.
 platform: Instagram
-hits: 21
-text_top: Analyze the top-rated Instagram accounts on inBeat.
-text_bottom: Our platform has 21 Instagram influencers like this in South Korea for you to collaborate.
+hits: 20
+text_top: See the top-rated Instagram profiles on inBeat.
+text_bottom: Our database holds 20 Instagram influencers like this in South Korea for you to pitch.
 profiles:
+  - username: "tattooeunb"
+    fullname: >-
+      Eunb
+    bio: >-
+      Renaissance Contemporary Art LA Tattoo Artist 💌tattooeunb@gmail.com @eunb.tt Color works @10kf_hollywood studio
+    location: "South Korea"
+    followers: 27465
+    engagement: 283
+    commentsToLikes: 0.019182
+    id: ckap4tkeq8tda0i78s2t7jaa8
+    verified: false
+    hashtags: "#tattoosleeve, #inkedlife"
+  - username: "tattooer_zusen"
+    fullname: >-
+      ZUSEN
+    bio: >-
+      Gwangju, South Korea / 광주 동명동 5월부터 서울에서 작업합니다. ___________ 📩KAKAO or DM for booking 작업 문의
+    location: "South Korea"
+    followers: 24558
+    engagement: 638
+    commentsToLikes: 0.035922
+    id: ck8szl6d5ovf30j7852bk4zoz
+    verified: false
+    hashtags: "#darkartists, #onlyblackart, #tattooartist, #tattoodesign"
+  - username: "heukdo__"
+    fullname: >-
+      
+    bio: >-
+      🇫🇷paris (feb~April) 🇬🇧london (April 6~ 11th) Based in @mizangwon Dark&creepy&anime .sponsored by @bheppo ✷Booking E-mail : heuktattooer@gmail.com
+    location: "South Korea"
+    followers: 147535
+    engagement: 218
+    commentsToLikes: 0.009012
+    id: ck8t3gnjy37zx0j7843ky869a
+    verified: false
+    hashtags: "#tattooist, #tattooart, #onlyblacktattoo, #blacktattoo"
+  - username: "yeagee_art"
+    fullname: >-
+      예지타투
+    bio: >-
+      
+    location: "South Korea"
+    followers: 85138
+    engagement: 204
+    commentsToLikes: 0.005722
+    id: ck15tu1f2jwdf0i19r8qkml8x
+    verified: false
+    hashtags: "#tattoo, #tattoowork, #tatted, #tattooist"
   - username: "arang_eleven"
     fullname: >-
       Arang eleven
@@ -31,30 +79,6 @@ profiles:
     id: ck5hk1pqhhmxx0i11uopvcq15
     verified: false
     hashtags: "#tattooartist, #finetattoo, #goldtattoo, #portraittattoo"
-  - username: "heukdo__"
-    fullname: >-
-      Heedo_lee
-    bio: >-
-      @naejottaero @team_u.f.c 'UnFilial Child' 불효자식 ✷Seoul Hongdae 🇰🇷 ✷Booking DM & Kakaotalk : macjang (Don't send me email)
-    location: "South Korea"
-    followers: 114788
-    engagement: 546
-    commentsToLikes: 0.008918
-    id: ck8t3gnjy37zx0j7843ky869a
-    verified: false
-    hashtags: "#tattoosketch, #freehand, #smiletattoo, #artesobscurae"
-  - username: "yeagee_art"
-    fullname: >-
-      Space Oddity
-    bio: >-
-      타투 예약 kakao> parrotparrot 굿즈 구매 > @yeagee_goods ⬇️Overseas sale⬇️
-    location: "South Korea"
-    followers: 61381
-    engagement: 464
-    commentsToLikes: 0.007409
-    id: ck15tu1f2jwdf0i19r8qkml8x
-    verified: false
-    hashtags: "#tattoo, #art, #illustration, #tattoowork"
   - username: "girin_tattoo"
     fullname: >-
       GIRIN
@@ -103,28 +127,4 @@ profiles:
     id: ck5qcxshbsukr0i110s6o6831
     verified: false
     hashtags: "#californiatattoo, #sftattoo, #darksurrealism, #sanfranciscotattooartist"
-  - username: "korea_b0ys_"
-    fullname: >-
-      🥀||[ASIA BOY]||🥀
-    bio: >-
-      —>korea Boys —>￼Handsome boys￼ —>Asia boys —>The pics aren’t mine￼
-    location: "South Korea"
-    followers: 52406
-    engagement: 803
-    commentsToLikes: 0.012126
-    id: ck8tbrhwvwu5z0j78xcnuuee6
-    verified: false
-    hashtags: "#gymmotivation, #koreanulzzang, #korea, #koreaboys"
-  - username: "now_tattooer"
-    fullname: >-
-      ‧ ͙✷ 𝐍𝐎𝐖 ✷ ͙‧
-    bio: >-
-      ✷ 𝐒𝐞𝐨𝐮𝐥, 𝐊𝐨𝐫𝐞𝐚 ✷ 𝐃𝐞𝐬𝐢𝐠𝐧 : @Now_ttt ̵ ̀ ̗ 𝐍𝐨 𝐃𝐌 ̖ ́ ̵ ✷ 𝐊𝐚𝐤𝐚𝐨 : 𝐜𝐫𝐚𝐳𝐲𝐥𝐮𝐜𝐤𝐧𝐨𝐰 ✷ 𝐌𝐚𝐢𝐥 : 𝐧𝐨𝐰𝐭𝐚𝐭𝐭𝐨𝐨𝐞𝐫@𝐠𝐦𝐚𝐢𝐥.𝐜𝐨𝐦
-    location: "South Korea"
-    followers: 52808
-    engagement: 249
-    commentsToLikes: 0.002063
-    id: ck6u146lnjhab0j713gb6dhq5
-    verified: false
-    hashtags: "#lineworks, #tttism, #blacktattoo, #seoultattoo"
 ---

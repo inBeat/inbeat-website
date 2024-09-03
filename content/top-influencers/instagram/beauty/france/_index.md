@@ -1,130 +1,130 @@
 ---
-title: Top 10 Beauty Instagram Influencers In France In 2023
+title: Top 10 Beauty Instagram Influencers In France In 2024
 description: >-
-  Find top beauty Instagram influencers in France in 2023. Most popular hashtags: #fashion #hairstyling #blogger.
+  Find top beauty Instagram influencers in France in 2024. Most popular hashtags: #outfitinspo #makeup #outfitinspiration #ootd.
 platform: Instagram
-hits: 3815
-text_top: See the best Instagram influencers on inBeat.
-text_bottom: Our database has 3815 Instagram influencers like this in France for you to collaborate.
+hits: 4072
+text_top: Discover the top-rated Instagram accounts on inBeat.
+text_bottom: inBeat has 4072 Instagram influencers like this in France for you to collaborate.
 profiles:
-  - username: "ryma_beautyaddict"
+  - username: "brixana"
     fullname: >-
-      Ryma
+      B R I A N A
     bio: >-
-      Beauty&Lifestyle influencer Youtuber & Traveler ✈ Collaboration : ryma.ba.mg@gmail.com @tulip.home.ryma
+      Fashion | Beauty | Lifestyle • Creator of @fleshnudebeauty • Youtube: Briana Monique’ • NEW VIDEO IN LINK BELOW
     location: "France"
-    followers: 2238685
-    engagement: 251
-    commentsToLikes: 0.062990
-    id: ck6u54fw67j810j71i4gzimcf
+    followers: 445480
+    engagement: 688
+    commentsToLikes: 0.010521
+    id: ck6tu7n4aersv0j71tpztu043
     verified: false
-    hashtags: "#foreo, #lunamini3, #foreoufo2, #foreoufo"
-  - username: "clea_lacy"
+    hashtags: "#keyssoulcarepartner, #keyssoulcare, #ad, #ultabeautypartner"
+  - username: "nathbourhis"
     fullname: >-
-      𝒞𝓁𝑒𝒶-𝐿𝒶𝒸𝓎
+      Nathalie 💯 Enthousiaste
     bio: >-
-      Lifestyle ☼ Beauty ☼ Fashion ☼ Happiness Podcast: „It‘s a Matchday“ 🎤 ✉️ management@clealacy.de
+      follow your dreams…💫 Content créator & photographer 📸 Lifestyle✨Good Vibes✨Nature Lover✨Wellness & Beauty ✨ 💌 collab.nath@gmail.com
     location: "France"
-    followers: 408733
-    engagement: 180
-    commentsToLikes: 0.030109
-    id: ck0vx3rptwzsu0i19a14tnm1f
-    verified: true
-    hashtags: "#travel, #december, #nyc, #fashion"
-  - username: "bouchrabenayache.official"
-    fullname: >-
-      👑 Bouchra Ben Ayache
-    bio: >-
-      This is the official account of model Bouchra Ben Ayache. Miss beauty 2018 👑 ✈️Travel🇪🇬🇹🇳🇦🇪🇲🇦🇹🇷🇲🇻🇲🇾🇶🇦🇹🇿 📩 bouchra.benayache.m@gmail.com 💍❤️
-    location: "France"
-    followers: 1208641
-    engagement: 257
-    commentsToLikes: 0.008363
-    id: ck6u550cx7mmc0j71jdejx2iw
+    followers: 23256
+    engagement: 416
+    commentsToLikes: 0.073684
+    id: ck6u0zfg3ing30j715f5yp27u
     verified: false
-    hashtags: "#aldo, #bershka, #styleblogger, #model"
-  - username: "aashnashroff"
+    hashtags: "#smile, #corse, #flowers, #outfit"
+  - username: "inchargeofoutfits"
     fullname: >-
-      Aashna Shroff
+      Marina | NYC STYLE BLOGGER
     bio: >-
-      fashion, beauty, life @snobhome theteam@thesnobjournal.com
+      lifestyle, beauty & fashion NYC TikTok: inchargeofoutfits ✉️ roughing.m@gmail.com
     location: "France"
-    followers: 969271
-    engagement: 137
-    commentsToLikes: 0.005478
-    id: ck0tumq9k7sbn0i194t3be16k
-    verified: true
-    hashtags: "#salonsmooth, #professionalhaircare, #salonathome, #tresemmeindia"
-  - username: "prpitaloka"
-    fullname: >-
-      プリンセスピタルカ
-    bio: >-
-      your curious bae🧚🏻 🎀Gaming-Cosplay-Travel-Beauty🎀 Business Inq ✉ Dm/wa:+62 896-9241-7449 (Kai) 2nd acc @heypitaloka @croffleloka_
-    location: "France"
-    followers: 246291
-    engagement: 115
-    commentsToLikes: 0.010188
-    id: ckapbczcizgif0i786hm9v3jk
+    followers: 36184
+    engagement: 927
+    commentsToLikes: 0.001098
+    id: cl0bg34fjehne0i23gvpc68wm
     verified: false
-    hashtags: "#nikkeid, #toweroffantasy, #kobenicosplay, #freefire"
-  - username: "ashty_hadid"
+    hashtags: "#ootd, #aestheticedits, #fashion, #pinterestoutfit"
+  - username: "raphaelmetivet"
     fullname: >-
-      Ashty Hadid - اشتي حديد
+      Raphael Metivet
     bio: >-
-      للأعلانات: For inquiries : +964 7823990999 Founder of @by.ashtyhadid Beauty line
+      Capturing the beauty of Paris✨ 📸 Architecture & Luxury lifestyle photographer 📚 Discover my book ‘Amazing Paris’ ⬇️
     location: "France"
-    followers: 3061165
-    engagement: 106
-    commentsToLikes: 0.031434
-    id: ck14hh07maaca0i19kajn9eno
+    followers: 323917
+    engagement: 668
+    commentsToLikes: 0.013739
+    id: ck6trgq9uyw0z0j71114dx668
     verified: false
-    hashtags: "#pink"
-  - username: "theankitarai"
+    hashtags: "#vieparisienne, #parishotel, #igersparis, #hello"
+  - username: "ginab.xo"
     fullname: >-
-      Ankita Rai Tiwari
+      GINA B. 💖
     bio: >-
-      I apologize for anything I post while hungry. ——————————————————————— Fashion • Lifestyle • Beauty • Motherhood 📧 : ankitaraitiwari@gmail.com
+      Faith | fashion | beauty | travel | 🇬🇭 💌: ginab@kensingtongrey.co Become an Influencer in 2024👇🏾 📸 tips: @herinfluence.co
     location: "France"
-    followers: 278245
-    engagement: 91
-    commentsToLikes: 0.044863
-    id: ck600f7ordhml0i14hughbwuu
-    verified: true
-    hashtags: "#sunsetlover, #reels, #indianfashioninfluencer, #theankitarai"
-  - username: "esmi_beauty_"
-    fullname: >-
-      Esmi Beauty
-    bio: >-
-      Beauty | Fashion | Travel CEO : @esmiralda_collection_ Business email :esmibeautypro@outlook.fr
-    location: "France"
-    followers: 766215
-    engagement: 73
-    commentsToLikes: 8.392203
-    id: ck6u54irr7jrv0j71gjjr14l9
+    followers: 100902
+    engagement: 1063
+    commentsToLikes: 0.014935
+    id: ck9whg2uvxovq0j785r2hjvta
     verified: false
-    hashtags: "#summervibes, #summer, #blogger, #positivevibes"
-  - username: "rawaa_beauty"
+    hashtags: "#grwmoutfit, #outfitinspo, #outfitideas, #outfitinspiration"
+  - username: "annamariasoupioni"
     fullname: >-
-      R A W A A • B E A U T Y
+      ANNAMARIASOUPIONI
     bio: >-
-      📍currently, PARIS - Makeup, Beauty & Lifestyle - 🤍🤎 ▫️Inquiries : ContactRawaaBeauty@gmail.com ▫️Tiktok: rawaa_beauty ▫️Facebook: rawaabeauty
+      8/10🎂Animal lover ❤️ Content creator :fashion /Beauty/travel 💌For Collaborations:annamaria.soup@gmail.com
     location: "France"
-    followers: 3756319
-    engagement: 52
-    commentsToLikes: 0.007096
-    id: ck8syvlpmm6qw0j78l4vtd4xo
-    verified: true
-    hashtags: "#baby, #maman, #par, #caftanmarocain"
-  - username: "cindykarmoko"
+    followers: 69470
+    engagement: 494
+    commentsToLikes: 0.563909
+    id: ck6tsp0sm60ea0j713qf2c3e6
+    verified: false
+    hashtags: "#win, #girl, #annamariasgiveaway, #ootdfashion"
+  - username: "giorginajuanita"
     fullname: >-
-      CINDY KARMOKO
+      giorgina juanita
     bio: >-
-      Big wardrobe 🧳🤣 👠, Beauty, Travel & Fragrance enthusiast ✈️ Home Baker👩🏻‍🍳 @swellrecipes ❤️ #oma🍑 #idressedtothrill #lidahcece
+      makeup + haircare place to bee my beauty brand @gigibeebeauty inquiries: info@gjuanita.com
     location: "France"
-    followers: 108165
-    engagement: 37
-    commentsToLikes: 0.061865
-    id: ck137q4rfct710i19fx80v9rf
-    verified: true
-    hashtags: "#makandireels, #viralfood, #idressedtothrill, #coachny"
+    followers: 944710
+    engagement: 422
+    commentsToLikes: 0.057847
+    id: ck5bxeadank2a0i11a1hkjl3q
+    verified: false
+    hashtags: "#milkmakeuppartner, #elemispartner, #makeup, #glowup"
+  - username: "aashiadani"
+    fullname: >-
+      AASHI ADANI
+    bio: >-
+      Loves beauty, fashion & dad jokes 🤪 📩 aashi.adani@honeycombmedia.in
+    location: "France"
+    followers: 246946
+    engagement: 1337
+    commentsToLikes: 0.022906
+    id: ck0ucujq0hp7u0i195r0yo62b
+    verified: false
+    hashtags: "#hosted, #ad, #mama, #olayserum"
+  - username: "sarahbkl_"
+    fullname: >-
+      Sarah Bokalo
+    bio: >-
+      🫶🏼 fashion, beauty & lifestyle 💌 collab : saarahh76210@gmail.com Tiktok : sarahbkl_ 📍Paris
+    location: "France"
+    followers: 10229
+    engagement: 544
+    commentsToLikes: 0.323679
+    id: ck8tcp6ws05il0j78u4yqmosc
+    verified: false
+    hashtags: "#pictureoftheday, #instamoment, #fashion, #fashionblogger"
+  - username: "leslovesbeauty"
+    fullname: >-
+      Leslie Mullen
+    bio: >-
+      ♡ Beauty Enthusiast | 43 ♏️ |📍CT ♡ Reviews | MOTD | #over40beauty ♡ Contact: leslovesbeauty@gmail.com ♡ ⬇️ Check the links below to save $
+    location: "France"
+    followers: 44014
+    engagement: 1931
+    commentsToLikes: 0.117335
+    id: cl3w8ys3gcdll0i23m4ghg609
+    verified: false
+    hashtags: "#luxury, #drylips, #lipglosslover, #selfcaresunday"
 ---

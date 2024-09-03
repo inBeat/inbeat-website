@@ -1,11 +1,11 @@
 ---
-title: Top 10 Barbers TikTok Influencers In Spain In 2023
+title: Top 10 Barbers TikTok Influencers In Spain In 2024
 description: >-
-  Find top barbers TikTok influencers in Spain in 2023. Most popular hashtags: #viral #fyp #foryou #parati.
+  Find top barbers TikTok influencers in Spain in 2024. Most popular hashtags: #viral #fyp #foryou #parati.
 platform: TikTok
 hits: 13
-text_top: Discover the best TikTok accounts on inBeat.
-text_bottom: Our platform has 13 TikTok influencers like this in Spain for you to pitch.
+text_top: Discover the most popular TikTok accounts on inBeat.
+text_bottom: Our search engine aggregates 13 TikTok influencers like this in Spain for you to collaborate.
 profiles:
   - username: "umarking"
     fullname: >-

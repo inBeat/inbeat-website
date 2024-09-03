@@ -1,24 +1,24 @@
 ---
-title: Top 10 Christian Instagram Influencers In Greece In 2023
+title: Top 10 Christian Instagram Influencers In Greece In 2024
 description: >-
-  Find top christian Instagram influencers in Greece in 2023. Most popular hashtags: #greece #athens #summer #fashion.
+  Find top christian Instagram influencers in Greece in 2024. Most popular hashtags: #greece #summer #fashion #model.
 platform: Instagram
 hits: 35
-text_top: Discover the best Instagram accounts on inBeat.
-text_bottom: Our platform has 35 Instagram influencers like this in Greece for you to collaborate.
+text_top: See the top-rated Instagram profiles on inBeat.
+text_bottom: Our platform aggregates 35 Instagram influencers like this in Greece for you to connect with.
 profiles:
   - username: "christianaari"
     fullname: >-
-      Christiana
+      Χριστιάνα Αριστοτέλους
     bio: >-
       𝕎𝕠𝕣𝕜𝕚𝕟𝕘 𝕞𝕠𝕥𝕙𝕖𝕣 𝕠𝕗 𝕥𝕨𝕠 👧🏼👶🏼 💖💖 📺𝕋𝕧 ℙ𝕣𝕖𝕤𝕖𝕟𝕥𝕖𝕣 📻ℝ𝕒𝕕𝕚𝕠 ℙ𝕣𝕠𝕕𝕦𝕔𝕖𝕣 Το πιο όμορφο δώρο που μας έχει δοθεί είναι η ίδια η ζωή.
     location: "Greece"
-    followers: 98772
-    engagement: 557
-    commentsToLikes: 0.011794
+    followers: 103333
+    engagement: 309
+    commentsToLikes: 0.024203
     id: ck5hjtc58h7sp0i11bithce8z
     verified: false
-    hashtags: "#greatexperiencedelivered, #beachlife, #woltcyprus, #calmness"
+    hashtags: "#tokaliteromas, #charalambideschristis, #tokaliterostidiatrofimas, #metime"
   - username: "christos_katsavochristos"
     fullname: >-
       Christos Katsavochristos
@@ -31,6 +31,18 @@ profiles:
     id: ck13d0y5p33y80i19ud214vdr
     verified: false
     hashtags: "#christoskatsavochristos, #malemodel, #dsquared2underwear, #dsquaredunderwear"
+  - username: "thisisepirus"
+    fullname: >-
+      This is Epirus
+    bio: >-
+      📍Showcasing the best of our place! 🌍 Our vision is to inspire people to visit Epirus! Tag #thisisepirus or @thisisepirus to be featured!
+    location: "Greece"
+    followers: 23416
+    engagement: 484
+    commentsToLikes: 0.042832
+    id: ckaost3lvsywf0i78w4efcrxn
+    verified: false
+    hashtags: "#beautifuldestinations, #besteuropepics, #wanderlust, #passionpassport"
   - username: "mikaelafotiadi.mamamika"
     fullname: >-
       Michaela Eleni Fotiadi
@@ -91,40 +103,28 @@ profiles:
     id: ck5hrsekcvedx0i11k46efdgq
     verified: false
     hashtags: "#greece, #fire, #evia, #moon"
-  - username: "newsbombgr"
+  - username: "austriasginger"
     fullname: >-
-      Newsbomb.gr
+      Hanna Niedrist
     bio: >-
-      Για να γνωρίζεις αμέσως ό,τι σκάει 💣💣💣
+      2001 / Wien, Osttirol 🎥 Tiktok: @austriasginger [274+] Neues YT Video .. ⤵️
     location: "Greece"
-    followers: 38187
-    engagement: 135
-    commentsToLikes: 0.006600
-    id: ck0w1f89aj1k80i19io226d6c
+    followers: 24917
+    engagement: 689
+    commentsToLikes: 0.026209
+    id: ck5c862vp8ufb0i11svc3daw5
     verified: false
-    hashtags: "#nightphotography, #ig, #christmas, #greecestagram"
-  - username: "konstantina_klapsinou"
+    hashtags: "#osttirol, #tirol, #trip, #summer"
+  - username: "danai_barka"
     fullname: >-
-      Klapsinou Konstantina
+      ᴅᴀɴᴀɪ ʙᴀʀᴋᴀ   🌻🧿
     bio: >-
-      🎬🎥🎭💭🍝
+      ——🌻@pamedanai @megatvcom
     location: "Greece"
-    followers: 37208
-    engagement: 789
-    commentsToLikes: 0.033721
-    id: ck6tjfnw52mkn0j71eslwy8qt
+    followers: 348047
+    engagement: 491
+    commentsToLikes: 0.008171
+    id: ckxp82d6waby20j23besxz0lg
     verified: false
-    hashtags: "#not, #maxidress, #heraatelier, #summer"
-  - username: "stilettoshades"
-    fullname: >-
-      ANDREEA CRISTEA
-    bio: >-
-      Represented by @elitemodelworld office@stilettoshades.com Londoner | Currently in Bucharest
-    location: "Greece"
-    followers: 40825
-    engagement: 162
-    commentsToLikes: 0.031218
-    id: ck0w1y1valp850i19vn2aydqt
-    verified: false
-    hashtags: "#lavieparisienne, #discoverunder100k, #reservedforme, #parisianvibes"
+    hashtags: "#summer, #greece, #jointhejoy, #drinkresponsibly"
 ---

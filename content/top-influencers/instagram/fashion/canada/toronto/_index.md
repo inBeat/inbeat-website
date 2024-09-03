@@ -1,12 +1,48 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Toronto In 2023
+title: Top 10 Fashion Instagram Influencers In Toronto In 2024
 description: >-
-  Find top fashion Instagram influencers in Toronto in 2023. Most popular hashtags: #fashion #toronto #beauty.
+  Find top fashion Instagram influencers in Toronto in 2024. Most popular hashtags: #torontolife #toronto #torontoinfluencer #torontoblogger.
 platform: Instagram
-hits: 117
-text_top: See the most popular Instagram influencers on inBeat.
-text_bottom: inBeat has 117 Instagram influencers like this in Toronto, Canada for you to collaborate.
+hits: 319
+text_top: Discover the best Instagram accounts on inBeat.
+text_bottom: Our platform has 319 Instagram influencers like this in Toronto, Canada for you to pitch.
 profiles:
+  - username: "kayylaperez"
+    fullname: >-
+      KAYLA | Fashion Inspo
+    bio: >-
+      Midsize & Short gal fashion Toronto, ON kleanne.perez@gmail.com
+    location: "Canada"
+    followers: 9460
+    engagement: 498
+    commentsToLikes: 0.497233
+    id: cl430idguhfbw0i23qev671c4
+    verified: false
+    hashtags: "#neutralstyle, #travelvlog, #parisvibes, #microblogger"
+  - username: "merupictures"
+    fullname: >-
+      𝕸𝖊𝖗𝖚 𝕻𝖎𝖈𝖙𝖚𝖗𝖊𝖘 𝕾𝖙𝖚𝖉𝖎𝖔 🇨🇦
+    bio: >-
+      📍Toronto 🏔 ♉️ 🌱 🇮🇷 🇨🇦
+    location: "Canada"
+    followers: 8683
+    engagement: 1298
+    commentsToLikes: 0.112900
+    id: ck138wuiriesv0i19md7syjl8
+    verified: false
+    hashtags: "#modelphotoshoot, #model, #modeling, #portraitsvision"
+  - username: "raashiballal"
+    fullname: >-
+      𝕽𝖆𝖆𝖘𝖍𝖎
+    bio: >-
+      @bakerbyday Baddie by night 👩🏾‍🍳 📍Toronto 💌 raashi@sociallensmedia.com
+    location: "Canada"
+    followers: 19580
+    engagement: 705
+    commentsToLikes: 0.034808
+    id: clq3s09gtwqmz0k08les52dim
+    verified: false
+    hashtags: "#pinterest, #digitalcamera, #revolve, #summer"
   - username: "capricestylist"
     fullname: >-
       CAPRICE CONNERS
@@ -18,7 +54,7 @@ profiles:
     commentsToLikes: 0.087705
     id: ck5c6l8jg5o6t0i11vqijxo04
     verified: false
-    hashtags: "#canadafashion, #fashionedit, #streetwearculture, #fashionstylists"
+    hashtags: "#streetwearculture, #styledbycaprice, #torontofashion, #styleinspired"
   - username: "nikescanvas"
     fullname: >-
       Adenike Akinpelu | Beauty Enthusiast
@@ -30,101 +66,65 @@ profiles:
     commentsToLikes: 0.025920
     id: ck0w723uzbdw80i19or5xl2y2
     verified: false
-    hashtags: "#fashion, #reelsinstagram, #makeup, #juviasplace"
-  - username: "beautifullifestudios"
+    hashtags: "#fashion, #lipstick, #makeup, #hairstyles"
+  - username: "topknotanddoubleshot"
     fullname: >-
-      Beautiful Life Studios Inc
+      Kristen Richardson
     bio: >-
-      VANCOUVER - @beautifullifebc Toronto | Vancouver | Miami 📧 team@beautifullifestudios.com Joyful, tasteful & elegant storytelling
+      📍Toronto - Ontario Sharing the honest truths about motherhood through humor and relatability. Advocate for #selflove Content creator #bodypositive
     location: "Canada"
-    followers: 28570
-    engagement: 73
-    commentsToLikes: 0.058440
-    id: ck5zk53p8itul0i14arslfser
+    followers: 79567
+    engagement: 130
+    commentsToLikes: 0.059904
+    id: ck5zu9s3j1y9v0i1439kshdrq
     verified: false
-    hashtags: "#okanaganwedding, #destinationwedding, #website, #vancouverwedding"
-  - username: "katedevv"
+    hashtags: "#loveyourself, #confidence, #socialmediamarketing, #contentcreator"
+  - username: "sofiexplores"
     fullname: >-
-      KATHRYN
+      Sofia Beg
     bio: >-
-      But you can call me Kate. Iqaluit, NU but sometimes in Toronto Fashion student, amongst other things
+      • Toronto🇨🇦 • Lifestyle • Foodie • Travel • Fashion • Sofie.explores@gmail.com
     location: "Canada"
-    followers: 7080
-    engagement: 483
-    commentsToLikes: 0.082490
-    id: ck5zyqrjjacwp0i14zj9yjdta
+    followers: 45814
+    engagement: 66
+    commentsToLikes: 0.096227
+    id: ck5hiktkce1ad0i11mv3d737z
     verified: false
-    hashtags: "#pilgrimjewellery"
-  - username: "ismahan.co"
+    hashtags: "#clothingline, #yyz, #torontobloggers, #torontoigers"
+  - username: "withpriyasaini"
     fullname: >-
-      Halima
+      Priya Saini
     bio: >-
-      📍Toronto FASHION • TRAVEL • LIFESTYLE Alx for everything ✨ Contact: ismahanco@gmail.com
+      The REAL Influencer and not REEL 📍Canada 🇨🇦 Best Lifestyle Influencer @entrepreneurind 📩 priya.saini.pro@gmail.com
     location: "Canada"
-    followers: 41186
-    engagement: 194
-    commentsToLikes: 0.028333
-    id: ck15qrpma4b6d0i19swjjb73s
+    followers: 223320
+    engagement: 11
+    commentsToLikes: 0.023476
+    id: cl430bqpzh4ix0i23x8mzdcu9
     verified: false
-    hashtags: "#choosetochallenge"
-  - username: "sairahayatkhan"
+    hashtags: "#winterstyling, #indianfashionblogger, #winterhack, #springstyling"
+  - username: "hungry.jo"
     fullname: >-
-      Saira Hayat Khan
+      Hungry.Jo Food|Beauty|Fashion Toronto🇨🇦
     bio: >-
-      Motherhood. Fashion. Lifestyle. Toronto, Canada 🇨🇦
+      Email: itshungryjo@gmail.com for collab Content Creator•Promote food local business skincare event coverage & @eventswithjo Yelp Elite Google Level 7
     location: "Canada"
-    followers: 44777
-    engagement: 184
-    commentsToLikes: 0.085914
-    id: ckap1sltivybk0i784nr7lx7p
+    followers: 24855
+    engagement: 61
+    commentsToLikes: 0.364713
+    id: ck5zs803wxzza0i14d5ekp97a
     verified: false
-    hashtags: "#thoughtsofaseasonallydepressedmom"
-  - username: "channelforcopyrightnotice"
+    hashtags: "#foodbeast, #torontorestaurants, #todotoronto, #explorepage"
+  - username: "adinasha"
     fullname: >-
-      
+      ａｄｉｎａ
     bio: >-
-      © Instagram Help Center If you have infringed copyright, you will be notified through this channel.
+      toronto | fashion & beauty adinasha98@gmail.com founder of @diishaacreations @adinaandco الحمد لله
     location: "Canada"
-    followers: 57583
-    engagement: 262
-    commentsToLikes: 0.051543
-    id: ck5c83emv8p080i11xfp1baui
+    followers: 22277
+    engagement: 1202
+    commentsToLikes: 0.031679
+    id: ck9hcu8lvmzyl0j788ivqmxdr
     verified: false
-    hashtags: "#makeuplooks, #jamescharlespalette, #tatcha, #makeuptoturial"
-  - username: "sherinn_"
-    fullname: >-
-      Sherin
-    bio: >-
-      Don't just dance, move the world 🌎💃📚 Positive vibes only ✌
-    location: "Canada"
-    followers: 2709
-    engagement: 1230
-    commentsToLikes: 0.191761
-    id: ck600knzjds6w0i14yaeivg0u
-    verified: false
-    hashtags: "#instagramreels, #toronto, #fashion, #curlyhair"
-  - username: "jocebedard"
-    fullname: >-
-      Jocelyn Bedard
-    bio: >-
-      🌻 acting ☁️ youtube host 🪴 health & fitness 💬 links ⇩
-    location: "Canada"
-    followers: 17570
-    engagement: 454
-    commentsToLikes: 0.073783
-    id: ck9wgxgpmveft0j78rr1j2su4
-    verified: false
-    hashtags: "#photoshootideas, #santa, #ootd, #yyz"
-  - username: "tynomibanks"
-    fullname: >-
-      Tynomi Banks
-    bio: >-
-      I'm the queen I'm Miss Tynomi 👑 when I'm on stage I know you know me 😘 https://linktr.ee/TynomiBanks
-    location: "Canada"
-    followers: 86120
-    engagement: 576
-    commentsToLikes: 0.044278
-    id: ck0w4kfcgz0gx0i193nyi3hy5
-    verified: false
-    hashtags: "#gay, #dragrace, #transformation, #lgbtq"
+    hashtags: ""
 ---

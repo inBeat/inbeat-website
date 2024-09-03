@@ -1,11 +1,11 @@
 ---
-title: Top 10 Divers Instagram Influencers In Switzerland In 2023
+title: Top 10 Divers Instagram Influencers In Switzerland In 2024
 description: >-
-  Find top divers Instagram influencers in Switzerland in 2023. Most popular hashtags: #love #switzerland #swiss #happy.
+  Find top divers Instagram influencers in Switzerland in 2024. Most popular hashtags: #love #switzerland #swiss #happy.
 platform: Instagram
-hits: 14
-text_top: Identify the most popular Instagram influencers on inBeat.
-text_bottom: Our platform holds 14 Instagram influencers like this in Switzerland for you to connect with.
+hits: 23
+text_top: Identify the top-rated Instagram profiles on inBeat.
+text_bottom: inBeat has 23 Instagram influencers like this in Switzerland for you to contact.
 profiles:
   - username: "vedralan"
     fullname: >-
@@ -19,6 +19,18 @@ profiles:
     id: ck0ub9zdke6a90i19kl5uwjvc
     verified: false
     hashtags: "#green, #underwater, #month, #insect"
+  - username: "anett.climbing"
+    fullname: >-
+      Climber⭐travel with dogs🐾🐾👣
+    bio: >-
+      🧗‍♂️ Rock climber 🏆 Fit influencer Shape Magazin 🐾 Rollo Swiss Shepherd🐾Kaj Belgian Groenendael
+    location: "Switzerland"
+    followers: 46934
+    engagement: 140
+    commentsToLikes: 0.010330
+    id: ck5hhx8nbaivd0i11qqjexow6
+    verified: false
+    hashtags: "#divingsafari, #boattrip, #izerymountains, #swieradowzdroj"
   - username: "callherpaprika"
     fullname: >-
       PAPRIKA | Drag Queen
@@ -30,7 +42,43 @@ profiles:
     commentsToLikes: 0.072455
     id: ck6tuh73mgbl20j71w8u3houw
     verified: false
-    hashtags: "#queer, #transrights, #gown, #qwerrrkout"
+    hashtags: "#princess, #pride, #fashion, #gay"
+  - username: "swiss_duo"
+    fullname: >-
+      Audrey & Maxime | Swiss Travel Family 👨‍👩‍👧
+    bio: >-
+      FR | EN bilingual account ✌🏼 Discovering🇨🇭& 🌍 with our little girl Ambassador's @switzerland.explores | @hotel
+    location: "Switzerland"
+    followers: 7798
+    engagement: 536
+    commentsToLikes: 0.014725
+    id: clldeqxppocei0j0866l5zwcr
+    verified: false
+    hashtags: "#suisseromande, #montreuxriviera, #parenting, #family"
+  - username: "sarah_atcho"
+    fullname: >-
+      Sarah Atcho Jaquier
+    bio: >-
+      Pro @adidas Sprinter ⚡🇨🇭 🥇 Chasing gold and fun adventures 💫 2x Olympian Cronos Finance | @mauricelacroix | @raiffeisen_ch | @powerfood.ch
+    location: "Switzerland"
+    followers: 99562
+    engagement: 78
+    commentsToLikes: 0.006325
+    id: ck5cbwhdtgak70i11zpg39uae
+    verified: false
+    hashtags: "#motivation, #womenwholift, #training, #abs"
+  - username: "elenaangierugby"
+    fullname: >-
+      Angela Elena ❤🏉❤
+    bio: >-
+      *🏉SWISS NATIONAL PLAYER 🇨🇭🏉 @swisswomensrugby *🏉❤️DANGELS LUZERN❤️🏉 @rcl_dangels *don't forget your roots🇨🇴
+    location: "Switzerland"
+    followers: 11411
+    engagement: 416
+    commentsToLikes: 0.021355
+    id: ck602v00cjc280i145a9xxibw
+    verified: false
+    hashtags: "#rugby, #believeinyourself, #loveyourself, #nevergiveup"
   - username: "neda.draws"
     fullname: >-
       Neda Sadreddin
@@ -42,7 +90,7 @@ profiles:
     commentsToLikes: 0.035060
     id: ck8szgi1vocu90j78q4ro2cz4
     verified: false
-    hashtags: "#cuteillustration, #digitalillustration, #funnybird, #littlemonster"
+    hashtags: "#nedasadreddin, #tabletdrawing, #cute, #littlemonster"
   - username: "papingchulo"
     fullname: >-
       Julio Alberto Suero Arciniega
@@ -54,7 +102,7 @@ profiles:
     commentsToLikes: 0.097926
     id: ck5cjn01iv2ci0i117ps7d7kz
     verified: false
-    hashtags: "#fun, #vibez, #love, #passion"
+    hashtags: "#passion, #art, #happy, #vibez"
   - username: "tobiaswestenphoto"
     fullname: >-
       Tobias | Hunting | Photography
@@ -67,64 +115,16 @@ profiles:
     id: ck9hb3unefai90j78l1q6c11c
     verified: false
     hashtags: "#roedeer, #wildboar, #caccia, #hunt"
-  - username: "ninaburriofficial"
+  - username: "amorea"
     fullname: >-
-      Nina Burri
+      Ramona‘s Travel Diary
     bio: >-
-      Contortionist 🐍 Actress 👀 Model 💋 Based in Berlin 🇩🇪 & Switzerland 🇨🇭 ninaburri.com Bookings: ninaburri@gmail.com
+      ∞ adventurous spirit TikTok 340k + 🇨🇭swiss based | ✉️ connectwith@amorea.ch
     location: "Switzerland"
-    followers: 27329
-    engagement: 369
-    commentsToLikes: 0.028216
-    id: ck8swefjsdv840j789xz7y932
-    verified: true
-    hashtags: "#noiretblanc, #love, #print, #blueeyes"
-  - username: "max.iris.pk"
-    fullname: >-
-      Maxime Renaud
-    bio: >-
-      20 years old Switzerland 🇨🇭 Parkour and freerunning @IrisParkour athlete 👁️ email: maximerenaud2000@gmail.com 📨
-    location: "Switzerland"
-    followers: 2442
-    engagement: 2551
-    commentsToLikes: 0.058655
-    id: ck5hctme2jwsu0i11r39r6898
+    followers: 70268
+    engagement: 4634
+    commentsToLikes: 0.040624
+    id: ck0w3236qr8p50i19thwxvl8c
     verified: false
-    hashtags: "#jump, #chill, #freerunning, #low"
-  - username: "jonny__fischer"
-    fullname: >-
-      Jonny Fischer
-    bio: >-
-      Comedian @cabaretdivertimento 🎭 VRP und Fan @zenmove_official 💪🏽
-    location: "Switzerland"
-    followers: 83239
-    engagement: 647
-    commentsToLikes: 0.019879
-    id: ck6trmkkkzutq0j712z7rbuoq
-    verified: true
-    hashtags: "#capetown, #gay, #gaycouple, #comedy"
-  - username: "kevinxtm"
-    fullname: >-
-      Kevin Crupi  xtm
-    bio: >-
-      🇮🇹🇪🇸🇨🇭 📍Lausanne VD 🤸 Pro P.K athlete 👕@livers_fr 🧠@xtremmove Ceo 📍#xtmpark 🦁 @lionscreative.ch Coo 🎬@from_a2u world tour 🎩@ramdam.ch P.K athlete
-    location: "Switzerland"
-    followers: 5458
-    engagement: 448
-    commentsToLikes: 0.057486
-    id: ck5hctkuyjwis0i118o9g71zy
-    verified: false
-    hashtags: "#legday, #climbing, #switzerland, #frontflip"
-  - username: "denisa.marie46"
-    fullname: >-
-      Denisa S. 🧜‍♀️
-    bio: >-
-      Bern 🇨🇭 Welcome to my world! 💘 Business email: denisamarie46social@gmail.com
-    location: "Switzerland"
-    followers: 413265
-    engagement: 172
-    commentsToLikes: 0.062429
-    id: ck8t72s7xfg270j78vf7pfoop
-    verified: false
-    hashtags: "#schweiz, #humpdaymotivation, #instagood, #throwback"
+    hashtags: "#hotelsandresorts, #travelblogger, #bahamas, #italy"
 ---

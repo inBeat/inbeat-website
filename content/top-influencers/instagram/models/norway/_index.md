@@ -1,12 +1,48 @@
 ---
-title: Top 10 Models Instagram Influencers In Norway In 2023
+title: Top 10 Models Instagram Influencers In Norway In 2024
 description: >-
-  Find top models Instagram influencers in Norway in 2023. Most popular hashtags: #happy #vacation #norway.
+  Find top models Instagram influencers in Norway in 2024. Most popular hashtags: #norway #oslo #reklame.
 platform: Instagram
-hits: 43
-text_top: See the most popular Instagram accounts on inBeat.
-text_bottom: Our search engine has 43 Instagram influencers like this in Norway for you to pitch.
+hits: 47
+text_top: Discover the top-rated Instagram influencers on inBeat.
+text_bottom: inBeat aggregates 47 Instagram influencers like this in Norway for you to connect with.
 profiles:
+  - username: "julianesnekkestad"
+    fullname: >-
+      Juliane Snekkestad
+    bio: >-
+      Norwegian model and actress 🖤♋️ marianne@teammodels.no post@globalensemble.com
+    location: "Norway"
+    followers: 50823
+    engagement: 306
+    commentsToLikes: 0.001763
+    id: ck5q0epga5n2t0i11oum33ylk
+    verified: false
+    hashtags: ""
+  - username: "alikureshiofficial"
+    fullname: >-
+      Ali Kureshi
+    bio: >-
+      189cm 🇵🇰 Fashion Model Acting and loves photography @ajokatheatre SNAP alikureshi1 📺 ON AIR @arydigital.tv #jaisayappkimarzi 👇 MOVIE ZINDAGI TAMASHA
+    location: "Norway"
+    followers: 77608
+    engagement: 480
+    commentsToLikes: 0.011484
+    id: ck5ca4ff4coc00i11jen042ew
+    verified: false
+    hashtags: "#shoes, #jaisayappkimarzi, #gymlifestyle, #styling"
+  - username: "thorrosland"
+    fullname: >-
+      Thor Rosland
+    bio: >-
+      👤Model/Actor 📍Stavanger | Norway ⚔️ Norse Bearded Viking Discount code "THOR" - 20% off @thebeardstruggle - OR click link:
+    location: "Norway"
+    followers: 229340
+    engagement: 147
+    commentsToLikes: 0.034622
+    id: ck5cizxv2tpk40i11anzi52rk
+    verified: false
+    hashtags: "#viking, #vikings, #fathersday, #visitnorway"
   - username: "runninglinnravn"
     fullname: >-
       Linn Ravn ASICS FrontRunner 🇳🇴
@@ -31,18 +67,6 @@ profiles:
     id: ckaotmiy0wik30i78z5kuwp6a
     verified: false
     hashtags: ""
-  - username: "saranilsen"
-    fullname: >-
-      Sara Benedikte Nilsen 👸🏼
-    bio: >-
-      Founder of @msmissy Fitness|Travel| Ex-politician Tv | Model | Entrepreneur ♡ Norwegian🇳🇴 in 🇪🇸 ♡sarabenedikte@hotmail.com📩
-    location: "Norway"
-    followers: 400035
-    engagement: 179
-    commentsToLikes: 0.024216
-    id: ck5pvrpgyjbjp0i11lwrfwx8u
-    verified: false
-    hashtags: "#ibiza, #uae, #beach, #fitgirl"
   - username: "vetle_emile"
     fullname: >-
       🐺 Vetle Emile
@@ -67,18 +91,6 @@ profiles:
     id: ck55j3i8gw6bj0i11eaixrpt8
     verified: false
     hashtags: "#mood, #actress, #scandinavianactor, #norwegianactress"
-  - username: "natalie_ortegaa"
-    fullname: >-
-      Natalie ortega
-    bio: >-
-      ½ Spanish ½ Norwegian Villafranca del Bierzo/ Spain📍 🇳🇴@heartbreakmanagement MA 🇬🇷 @fashioncult_models 🇪🇸@francinamodels
-    location: "Norway"
-    followers: 16065
-    engagement: 470
-    commentsToLikes: 0.046110
-    id: ck0w6w57majkf0i199mgoqs7f
-    verified: false
-    hashtags: "#vacation, #travel, #beauty, #makeup"
   - username: "helenehammer_"
     fullname: >-
       Helene Hammer
@@ -115,16 +127,4 @@ profiles:
     id: ck0w2mngkp56b0i19iemj5e54
     verified: false
     hashtags: ""
-  - username: "urassayafamily_"
-    fullname: >-
-      Yaya Urassaya Sperbund
-    bio: >-
-      💃🏻 Model l Actress 🌏 Thai-Norwegian 👩🏻‍💻 Official IG : @urassayas 📝 Source of Yaya’s news since 2010
-    location: "Norway"
-    followers: 133779
-    engagement: 165
-    commentsToLikes: 0.008415
-    id: ckap2dp28ye960i78kgj1shv7
-    verified: false
-    hashtags: "#urassayas, #urassayafamily, #nadech, #kugimiyas"
 ---

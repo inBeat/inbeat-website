@@ -1,12 +1,24 @@
 ---
-title: Top 10 Athletes Instagram Influencers In Thailand In 2023
+title: Top 10 Athletes Instagram Influencers In Thailand In 2024
 description: >-
-  Find top athletes Instagram influencers in Thailand in 2023. Most popular hashtags: #motivation #lifestyle #photography #smile.
+  Find top athletes Instagram influencers in Thailand in 2024. Most popular hashtags: #thailand #motivation #fitness.
 platform: Instagram
 hits: 15
-text_top: Analyze the top-rated Instagram accounts on inBeat.
-text_bottom: inBeat has 15 Instagram influencers like this in Thailand for you to work with.
+text_top: Analyze the best Instagram influencers on inBeat.
+text_bottom: inBeat has 15 Instagram influencers like this in Thailand for you to pitch.
 profiles:
+  - username: "javad_bigdeli.official"
+    fullname: >-
+      Javad Bigdeli | جوادترک
+    bio: >-
+      Professional MuayThai Fighter اهل|زنجان @onechampionship athlete Record: 41_11 Gym:@tigermuaythai From: Earth🌍 we are all one I live in phuket
+    location: "Thailand"
+    followers: 30360
+    engagement: 289
+    commentsToLikes: 0.103624
+    id: ck6u02wx7dbym0j71guomo8d5
+    verified: false
+    hashtags: "#champ, #ufc, #training, #mma"
   - username: "maratgrigorian"
     fullname: >-
       Marat Grigorian
@@ -23,26 +35,26 @@ profiles:
     fullname: >-
       Jada Ketley
     bio: >-
-      • 26 Years On Planet Earth • Muay Thai & Mma Athlete • @tigermuaythai • 📍Phuket, Thailand • Finding Peace In Educated Violence
+      • Muay Thai & Mma Athlete • @hickmanbrothers • 📍Phuket, Thailand
     location: "Thailand"
-    followers: 6944
-    engagement: 629
-    commentsToLikes: 0.024044
+    followers: 7245
+    engagement: 504
+    commentsToLikes: 0.032386
     id: ck15s5ixfbbt20i195kagx8on
     verified: false
-    hashtags: "#iwantmoretattoos"
+    hashtags: "#internationalwomensday, #pleasedontremovemyvideo"
   - username: "saharat_k"
     fullname: >-
-      ▪️SAHARAT KLUABMAS▪️
+      SAHARAT KLUABMAS
     bio: >-
-      🇹🇭 DYMATIZE ATHLETE🇹🇭 . 🏆4×WBPF Men's Sport Physique Champion* 🏆2015 Mr.Thailand Champion* . 🏋🏻‍♂️Owner : Saharat Fitness/ The Best Fitness
+      🇹🇭 DYMATIZE ATHLETE . 🏆4×WBPF Men's Sport Physique Champion* 🏆2015 Mr.Thailand Champion* . 🏋🏻‍♂️ Saharat Fitness / The Best Fitness
     location: "Thailand"
-    followers: 32223
-    engagement: 306
-    commentsToLikes: 0.006515
+    followers: 34012
+    engagement: 351
+    commentsToLikes: 0.008298
     id: ck55oxajl9blz0i11cg8s1hfr
     verified: false
-    hashtags: "#saharatfitness, #thebestfitness, #musclefood, #mensphysique"
+    hashtags: ""
   - username: "tristando19"
     fullname: >-
       Tristan Do
@@ -61,24 +73,24 @@ profiles:
     bio: >-
       God First 🤲 Si om Freelance Model , Personal Trainer , S/E For work contact via DM Itsmystyle FB page Muscle Food Shop Athlete
     location: "Thailand"
-    followers: 23460
-    engagement: 192
-    commentsToLikes: 0.004756
+    followers: 23033
+    engagement: 197
+    commentsToLikes: 0.004746
     id: ck55oxb0a9bn90i11mftmmw0r
     verified: false
-    hashtags: "#musclefoodshop, #team, #dymatizethailand, #dymatize"
+    hashtags: "#itsmystyle, #musclefoodshop, #team, #dymatizethailand"
   - username: "gainmadeline"
     fullname: >-
       Personal Trainer / Athlete
     bio: >-
       Athlete🇹🇭 Line:@gainmadeline2 FB Page:TrainWithGain 🏆2nd-ShawnRho2019 🏆2nd-BenWCSpain2018 🏆2nd-OAAsiaHK2016 🥇Mr.THAILAND2016 Owner:@tammachaat.drink
     location: "Thailand"
-    followers: 8382
-    engagement: 326
-    commentsToLikes: 0.020372
+    followers: 8410
+    engagement: 291
+    commentsToLikes: 0.018402
     id: ck55ox92q9bfr0i11nn8p3w63
     verified: false
-    hashtags: "#muscle, #personaltraining, #gym, #transformation"
+    hashtags: "#diet, #gymlife, #teamgain, #athlete"
   - username: "richyoranate"
     fullname: >-
       Richy Oranate D.caballes
@@ -91,18 +103,6 @@ profiles:
     id: ck6uafh8i39km0j7130nplmkj
     verified: true
     hashtags: "#caringthailand, #iaura, #littleactsoflove, #tanachira"
-  - username: "benproudswim"
-    fullname: >-
-      Ben Proud
-    bio: >-
-      Work hard in silence, let success be your noise Adidas Athlete | AirAsia Dream Ambassador ISL 🏆 @energystandard Contact ➡ sig@fitmg.co.uk
-    location: "Thailand"
-    followers: 61157
-    engagement: 1379
-    commentsToLikes: 0.003740
-    id: ck5zm32o6lt140i145mq0khyr
-    verified: true
-    hashtags: "#tokyo2021, #createdwithadidas, #daretodream, #hometeam"
   - username: "mo_z1lla"
     fullname: >-
       MAURICE

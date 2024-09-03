@@ -1,12 +1,36 @@
 ---
-title: Top 10 Food TikTok Influencers In Chicago In 2023
+title: Top 10 Food TikTok Influencers In Chicago In 2024
 description: >-
-  Find top food TikTok influencers in Chicago in 2023. Most popular hashtags: #fyp #foryou #chicago #foryoupage.
+  Find top food TikTok influencers in Chicago in 2024. Most popular hashtags: #fyp #chicago #foryoupage #foryou.
 platform: TikTok
-hits: 92
-text_top: Identify the best TikTok influencers on inBeat.
-text_bottom: Our platform aggregates 92 TikTok influencers like this in Chicago, United States for you to connect with.
+hits: 91
+text_top: See the best TikTok profiles on inBeat.
+text_bottom: Our search engine has 91 TikTok influencers like this in Chicago, United States for you to contact.
 profiles:
+  - username: "tzofiah"
+    fullname: >-
+      צופיה
+    bio: >-
+      🌿🍓🐍🍷🪴🍄🌱🍒 little yid
+    location: "United States"
+    followers: 28700
+    engagement: 1360
+    commentsToLikes: 0.028309
+    id: ckd69mjox43kw0j2382fu4aqw
+    verified: false
+    hashtags: "#frum, #jewish, #tznius, #foryoupage"
+  - username: "groovynilo"
+    fullname: >-
+      GroovyNilo
+    bio: >-
+      Groovy Out Everywhere link in bio
+    location: "United States"
+    followers: 34600
+    engagement: 811
+    commentsToLikes: 0.064301
+    id: ckcehp5p9pl3b0j23jnrz5bgx
+    verified: false
+    hashtags: "#lol, #lmao, #stitch, #funny"
   - username: "312food"
     fullname: >-
       312food • Chicago Food Blogger
@@ -18,7 +42,7 @@ profiles:
     commentsToLikes: 0.034561
     id: cka0ke8zem4dn0i78w54doz9r
     verified: false
-    hashtags: "#chicago, #chicagofood, #chicagotok, #cheese"
+    hashtags: "#coffee, #cheese, #chicago, #chicagotok"
   - username: "visualsbyjack"
     fullname: >-
       Jack Gillespie
@@ -67,18 +91,18 @@ profiles:
     id: ckact0ptyclgm0i7860vcowmw
     verified: false
     hashtags: "#animation, #grandmasoftiktok, #cartoon, #funny"
-  - username: "connerchanttt"
+  - username: "demondogsenna"
     fullname: >-
-      Chant_photography
+      Senna ❌
     bio: >-
-      Albuquerque, NM Just makin random vids📹 Email: chant.conner@gmail.com
+      Senna helps dogs find homes ✨⬇️LINK FOR shop CLICK here⬇️✨
     location: "United States"
-    followers: 40700
-    engagement: 3564
-    commentsToLikes: 0.717003
-    id: ckd61gv7s1hbn0j2345deu3fl
+    followers: 1100000
+    engagement: 1329
+    commentsToLikes: 0.012860
+    id: ckcekhuemtwc90j23p2ufxfwx
     verified: false
-    hashtags: "#coffee, #starbucks, #xyzbca, #fyp"
+    hashtags: "#demondogsenna, #fyp, #fy, #foryou"
   - username: "eattravelrock"
     fullname: >-
       Kelly Rizzo
@@ -91,18 +115,6 @@ profiles:
     id: ck80oq80jj7lk0j78wd2t1otg
     verified: true
     hashtags: "#choosechicago, #cedarplank, #visitjamaica, #girlscoutcookies"
-  - username: "demondogsenna"
-    fullname: >-
-      Senna ❌
-    bio: >-
-      Senna helps dogs find homes ✨⬇️LINK FOR shop CLICK here⬇️✨
-    location: "United States"
-    followers: 1100000
-    engagement: 1329
-    commentsToLikes: 0.012860
-    id: ckcekhuemtwc90j23p2ufxfwx
-    verified: false
-    hashtags: "#demondogsenna, #fyp, #foryou, #foryoupage"
   - username: "themotherrabbit"
     fullname: >-
       Tiffanie Marie
@@ -115,16 +127,4 @@ profiles:
     id: ckcuk1jbmgphf0j234b7gf3on
     verified: false
     hashtags: "#baker, #smallbusiness, #whiterabbitmedicinals, #colorado"
-  - username: "icejony"
-    fullname: >-
-      Jony
-    bio: >-
-      😈👻👽 🌍cars 💊Travel 🇺🇸 Drop a Like and some FOLLOW
-    location: "United States"
-    followers: 64200
-    engagement: 768
-    commentsToLikes: 0.027589
-    id: ck80oo617ip9v0j78k854n1d8
-    verified: false
-    hashtags: "#fup, #foryoupage, #viral, #foryou"
 ---

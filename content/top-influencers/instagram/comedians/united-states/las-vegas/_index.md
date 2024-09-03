@@ -1,12 +1,24 @@
 ---
-title: Top 10 Comedians Instagram Influencers In Las Vegas In 2023
+title: Top 10 Comedians Instagram Influencers In Las Vegas In 2024
 description: >-
-  Find top comedians Instagram influencers in Las Vegas in 2023. Most popular hashtags: #lasvegas #love #comedy #comedian.
+  Find top comedians Instagram influencers in Las Vegas in 2024. Most popular hashtags: #comedy #lasvegas #comedian #style.
 platform: Instagram
 hits: 18
-text_top: Identify the best Instagram profiles on inBeat.
-text_bottom: Our database has 18 Instagram influencers like this in Las Vegas, United States for you to work with.
+text_top: Analyze the best Instagram influencers on inBeat.
+text_bottom: inBeat holds 18 Instagram influencers like this in Las Vegas, United States for you to contact.
 profiles:
+  - username: "cahrlos"
+    fullname: >-
+      Carlos Hernández
+    bio: >-
+      🎙️ @onlyindade 🌴 MIA/LA 🇨🇺🇲🇽 📧 bookings@cahrlos.com 🎟️ Upcoming Shows 👇
+    location: "United States"
+    followers: 24221
+    engagement: 687
+    commentsToLikes: 0.078556
+    id: cl4k3l1r5siyh0i239va3xnpq
+    verified: false
+    hashtags: "#fyp, #comedy, #lol, #miami"
   - username: "hazelhoneysuckle"
     fullname: >-
       Hazel Honeysuckle
@@ -18,19 +30,19 @@ profiles:
     commentsToLikes: 0.027270
     id: ck0w2wgckqi7d0i19hgjngfk4
     verified: false
-    hashtags: "#costume, #lasvegas, #hazelhoneysuckle, #boldlystripped"
-  - username: "cubanmissilecrisis"
+    hashtags: "#boldlystripped, #burlesque, #hazelhoneysuckle, #lasvegas"
+  - username: "piques"
     fullname: >-
-      Tito Bonito
+      Piques
     bio: >-
-      🇨🇺 The Cuban Missile Crisis of Burlesque 🇺🇸 🎭 Comedian🕺🏻Dancer 👨‍🏫 Instructor ✨ @21stCenturyBurlesque Top 10 of 2020 Follow me and support via:
+      🇵🇹🇨🇦 Comedian/Music Producer Business: jonpaulpiques@gmail.com
     location: "United States"
-    followers: 16399
-    engagement: 254
-    commentsToLikes: 0.032692
-    id: ck6tjqn5x38e60j71wga7cjub
-    verified: false
-    hashtags: "#titobonito, #valentinesday, #freebritney, #robinsdream"
+    followers: 2116394
+    engagement: 562
+    commentsToLikes: 0.006642
+    id: ck14lt5xpwcs10i198hfiec4m
+    verified: true
+    hashtags: "#explore, #explorepage, #comedy, #react"
   - username: "seilerpaints"
     fullname: >-
       Jason Seiler
@@ -42,7 +54,7 @@ profiles:
     commentsToLikes: 0.035885
     id: ck136qwwx7tjy0i19u812c742
     verified: false
-    hashtags: "#facethetruthpodcast, #artpodcast, #jasonseilerpodcast, #illustration"
+    hashtags: "#artpodcast, #adobe, #wacom, #schoolism"
   - username: "willharrisproductions"
     fullname: >-
       Will Harris Productions ®️
@@ -66,7 +78,7 @@ profiles:
     commentsToLikes: 0.020444
     id: ck5zwi43j66700i1435wl8wq6
     verified: true
-    hashtags: "#time, #mindfulness, #art, #shinlim"
+    hashtags: "#life, #mentalist, #art, #vegas"
   - username: "therealmelanhdavis"
     fullname: >-
       𝐌𝐞𝐥𝐚𝐧𝐡 | 𝐇𝐚𝐢𝐫 𝐄𝐱𝐭𝐫𝐚𝐨𝐫𝐝𝐢𝐧𝐚𝐢𝐫𝐞
@@ -78,19 +90,7 @@ profiles:
     commentsToLikes: 0.136556
     id: ck9hc4lb9jrce0j78wz7q3l6i
     verified: false
-    hashtags: "#roblox, #mood, #dancelover, #fun"
-  - username: "marcus_trufant"
-    fullname: >-
-      Marcus Trufant
-    bio: >-
-      Entrepreneur-Self Storage @seahawks Trufant Fam Foundation @wsucougarfb HOF @trulyunruly_podcast inquiries schedule@trufantmediaco.com
-    location: "United States"
-    followers: 38576
-    engagement: 95
-    commentsToLikes: 0.053078
-    id: ck6tjl2t42x9h0j710l2roji4
-    verified: true
-    hashtags: "#blacklove, #blackrelationships, #blackfamily, #blackpodcast"
+    hashtags: "#reelsvideo, #roblox, #dancelover, #dancemusic"
   - username: "iam_pyb"
     fullname: >-
       🙋🏻‍♂️ P.Y.B 🇫🇷
@@ -103,6 +103,18 @@ profiles:
     id: ck0vvcff3oiq80i19cz1ws0i4
     verified: false
     hashtags: "#parisien, #amazing, #instagood, #filmmaker"
+  - username: "therealblackmannequin"
+    fullname: >-
+      Bryan Walden
+    bio: >-
+      Owner The Black Mannequin Clothing TheBlackMannequin.com Facebook.com/TheRealBlackMannequin #TheBlackMannequin 👻:BlackMannequin
+    location: "United States"
+    followers: 15353
+    engagement: 48
+    commentsToLikes: 0.055467
+    id: ckp6anf5px77l0j23tzl02gnd
+    verified: false
+    hashtags: "#theblackmannequin, #style, #onlineshopping, #hypebeast"
   - username: "officialcharo"
     fullname: >-
       Charo
@@ -114,17 +126,5 @@ profiles:
     commentsToLikes: 0.038178
     id: ck15ufri2mysh0i19zxi9fuch
     verified: true
-    hashtags: "#guitarist, #summer, #fruit, #style"
-  - username: "iamdsprings"
-    fullname: >-
-      Daphnique Springs
-    bio: >-
-      Stand-Up Comic, Writer, Actress 2.7 Million Facebook Followers BUY YOUR LIVE STREAM SHOW TICKET: 👇🏾👇🏾👇🏾👇🏾👇🏾👇🏾👇🏾👇🏾👇🏾
-    location: "United States"
-    followers: 373150
-    engagement: 273
-    commentsToLikes: 0.028046
-    id: ck5c0ccx7sv3b0i11iqbgupms
-    verified: true
-    hashtags: "#revolve, #daphniquesprings, #standup, #iamdsprings"
+    hashtags: "#beach, #summer, #hollywood, #cute"
 ---

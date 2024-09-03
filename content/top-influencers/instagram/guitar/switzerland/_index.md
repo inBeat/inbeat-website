@@ -1,11 +1,11 @@
 ---
-title: Top 10 Guitar Instagram Influencers In Switzerland In 2023
+title: Top 10 Guitar Instagram Influencers In Switzerland In 2024
 description: >-
-  Find top guitar Instagram influencers in Switzerland in 2023. Most popular hashtags: #music #guitar #love #sea.
+  Find top guitar Instagram influencers in Switzerland in 2024. Most popular hashtags: #music #guitar #family #love.
 platform: Instagram
-hits: 12
-text_top: See the best Instagram accounts on inBeat.
-text_bottom: inBeat holds 12 Instagram influencers like this in Switzerland for you to collaborate.
+hits: 15
+text_top: Discover the best Instagram influencers on inBeat.
+text_bottom: Our search engine aggregates 15 Instagram influencers like this in Switzerland for you to collaborate.
 profiles:
   - username: "vahidosmanovic"
     fullname: >-
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.075457
     id: ck6tv22u8jqc10j718qxmwx9v
     verified: false
-    hashtags: "#hesu, #love, #solo, #melody"
+    hashtags: "#borjamintegiaga, #melodic, #lampr3a, #musician"
   - username: "burningwitchesofficial"
     fullname: >-
       Burning Witches
@@ -43,18 +43,54 @@ profiles:
     id: ck5c23xq4whse0i11dd4fy2pr
     verified: false
     hashtags: "#family, #makeup, #burningwitchesband, #love"
-  - username: "kaia.grebo"
+  - username: "manu_burkart_77"
     fullname: >-
-      𝗞𝗔𝗜𝗔
+      Manu Burkart
     bio: >-
-      𝗟𝗶𝗳𝗲𝘀𝘁𝘆𝗹𝗲 & 𝗧𝗿𝗮𝘃𝗲𝗹 & #momtobe 𝖿𝗋𝗈𝗆 #𝗌𝗐𝗂𝗍𝗓𝖾𝗋𝗅𝖺𝗇𝖽 🇨🇭& 𝖼𝗋𝗈𝖺𝗍𝗂𝖺𝗇 𝗋𝗈𝗈𝗍𝗌 𝖢𝗈𝗇𝗍𝖾𝗇𝗍 𝖼𝗋𝖾𝖺𝗍𝗈𝗋 𝗌𝗍𝗎𝖽𝗒: 𝗇𝗎𝗍𝗋𝗂𝗍𝗂𝗈𝗇 𝖼𝗈𝖺𝖼𝗁&𝗇𝖺𝗍𝗎𝗋𝗈𝗉𝖺𝗍𝗁 SPENDENHILFE für Servan⤵️
+      Comedian @cabaretdivertimento Gitarrist @bbr_rock_n_roll Co-Founder www.jobshot.ch
     location: "Switzerland"
-    followers: 23467
-    engagement: 290
-    commentsToLikes: 0.029297
-    id: ckap7k3gbkesw0i78blyc363n
+    followers: 115691
+    engagement: 326
+    commentsToLikes: 0.011709
+    id: ck6trmlppzv1j0j714uece92w
+    verified: true
+    hashtags: "#comedy, #bucketlist, #rocknroll, #dureheb"
+  - username: "djallyssonluis"
+    fullname: >-
+      DjAllyssonLuis
+    bio: >-
+      Zurich 📍 DJ&PRODUCER Bookings only by email 👇👉djallyssonluis@gmail.com Music is my soul 🎵🎶🎧 Gym 💪🏽 Healthy food 🥦Sports 🥊Travel ✈️ 🗣🇩🇪🇪🇸🇬🇧🇧🇷🇫🇷
+    location: "Switzerland"
+    followers: 100189
+    engagement: 300
+    commentsToLikes: 0.021857
+    id: ck6u341xgvkw30j71gjshii8h
     verified: false
-    hashtags: "#hrvatska, #springvibes, #interior, #architecturelovers"
+    hashtags: "#happy, #music, #sintra, #djallyssonluis"
+  - username: "ma_vie_de_maman_voyageuse"
+    fullname: >-
+      Cha & Family 🧳
+    bio: >-
+      Charlotte ☀️ 🇨🇭& 🇫🇷 Mariée ♥️ Maman de Rose, Léon, Emil 🐈🦁🐊 Infirmière 💉 ✈️ Voyages
+    location: "Switzerland"
+    followers: 29014
+    engagement: 271
+    commentsToLikes: 0.383753
+    id: clexewnsykrds0j08j7elwmmb
+    verified: false
+    hashtags: "#mumof3, #france, #love, #mamande3"
+  - username: "hallenstadionzuerich"
+    fullname: >-
+      Hallenstadion Zürich
+    bio: >-
+      Die Eventhalle der 🇨🇭 - 🥇Halle der 🌍 15,5k Kapazität, 1 Mio. Besucher:innen/Jahr 👫 #hallenstadion#starloungezurich ADVENTSKALENDER ▼
+    location: "Switzerland"
+    followers: 11669
+    engagement: 200
+    commentsToLikes: 0.044143
+    id: clonw51yt8k5x0j08qx7lziq2
+    verified: false
+    hashtags: "#hallenstadionz, #music, #live, #livemusic"
   - username: "nadegerochat.cellist"
     fullname: >-
       Nadège Rochat
@@ -66,7 +102,7 @@ profiles:
     commentsToLikes: 0.119948
     id: ck8sxs683igvw0j78dr0sa5w8
     verified: false
-    hashtags: "#baroquemusic, #musiqueclassique, #chelista, #carlosgardel"
+    hashtags: "#chelista, #musiqueclassique, #cellosolo, #celloinspiration"
   - username: "veronicafusaro"
     fullname: >-
       Veronica Fusaro
@@ -78,7 +114,7 @@ profiles:
     commentsToLikes: 0.041333
     id: ck5bvup5skfly0i11z1pzn7yn
     verified: false
-    hashtags: "#soon, #fool, #sunkissed, #liveperformance"
+    hashtags: "#beachacoustic, #music, #sunkissed, #soon"
   - username: "ildivours"
     fullname: >-
       Urs Buhler
@@ -91,40 +127,4 @@ profiles:
     id: ck0vybjlv361u0i193uvav30m
     verified: true
     hashtags: "#beach, #music, #air, #happy"
-  - username: "johannes_sam"
-    fullname: >-
-      nuclear calisthenics ☢️🦍🎼
-    bio: >-
-      Science & Calisthenics with a bouzouki Newtonian Mechanics Nuclear Physics Quantum Fields 🇬🇷 -🇨🇭 MSc. Nuclear Engineer ETH Dipl. Physicist AUTh
-    location: "Switzerland"
-    followers: 3002
-    engagement: 1387
-    commentsToLikes: 0.060849
-    id: ckaoxj8x5dide0i781yrhuh8j
-    verified: false
-    hashtags: "#poetry, #passion, #fitnessmotivation, #coreworkout"
-  - username: "marius.bear"
-    fullname: >-
-      Marius Bear
-    bio: >-
-      Musician / Official IG Account ‘Heart On Your Doorstep’ - my new single is OUT NOW! ⬇️check it out⬇️
-    location: "Switzerland"
-    followers: 14498
-    engagement: 348
-    commentsToLikes: 0.056489
-    id: ck9h9odos9b0u0j78aj2ntkjl
-    verified: false
-    hashtags: "#mariusbear, #singer, #newmusic, #highnotes"
-  - username: "zibbz_official"
-    fullname: >-
-      ZiBBZ
-    bio: >-
-      Co Gfeller ↠ Singer/Music/Momlife 🔺🔻 go listen to our music here ↠
-    location: "Switzerland"
-    followers: 15889
-    engagement: 378
-    commentsToLikes: 0.032170
-    id: ck15u72g6lqbu0i193rt1r989
-    verified: true
-    hashtags: "#livemusic, #cogfeller, #zibbz, #momlife"
 ---

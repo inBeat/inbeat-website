@@ -1,130 +1,130 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Russia In 2023
+title: Top 10 Fashion Instagram Influencers In Russia In 2024
 description: >-
-  Find top fashion Instagram influencers in Russia in 2023. Most popular hashtags: #plussizefashionblogger #kidsstyle #petitesize.
+  Find top fashion Instagram influencers in Russia in 2024. Most popular hashtags: #ootd #iheartraves #artphotography.
 platform: Instagram
-hits: 1480
-text_top: Analyze the most popular Instagram influencers on inBeat.
-text_bottom: Our platform holds 1480 Instagram influencers like this in Russia for you to work with.
+hits: 1491
+text_top: Identify the most popular Instagram influencers on inBeat.
+text_bottom: inBeat aggregates 1491 Instagram influencers like this in Russia for you to work with.
 profiles:
-  - username: "anna_zavorotnyuk"
+  - username: "polinaband"
     fullname: >-
-      Anna Zavorotnyuk
+      Polina | 폴리나
     bio: >-
-      Солнечно, нежно и тепло, заходите погреться 🌞 Beauty, Fashion & Lifestyle 💫 Сотрудничество: @cooperation.zavorotnyuk 🏹🤍
+      freelance model and stylist in📍Seoul ㅤㅤ fashion & lifestyle influencer ㅤㅤㅤ모델 • 인플루언서 • 촬영 협찬광고 문의 collab — dm portfolio @polyalee
     location: "Russia"
-    followers: 200926
-    engagement: 379
-    commentsToLikes: 0.085120
-    id: ck138n5ozh1om0i19sf9w00tj
+    followers: 27092
+    engagement: 534
+    commentsToLikes: 0.030890
+    id: ck8sxhmc6hfgk0j78en8d4lnw
     verified: false
-    hashtags: "#reels, #wseonline, #wsefamily, #wserussia"
-  - username: "tema_temoff"
+    hashtags: "#noni, #porecare, #koreanskincareroutine, #ootd"
+  - username: "oksanita_and_beans"
     fullname: >-
-      Artem Artemev
+      Oxana Markova
     bio: >-
-      22 y.o. Owner: @wldrsd Fashion blogger youtube: ADVICE FOR GUYS NEW VIDEO ↓
+      Motherhood+Style+Fashion+Creation Russian MOM in US LOVE ❤️ SMILE 😊 TRAVEL ✈️ COLUMBUS, OHIO
     location: "Russia"
-    followers: 14336
-    engagement: 896
-    commentsToLikes: 0.111812
-    id: ckf5ky4ztnn6e0j233lod6d4w
+    followers: 15727
+    engagement: 1305
+    commentsToLikes: 0.008380
+    id: ckp6w55wfyi2v0j23mfqck606
     verified: false
-    hashtags: "#maisonmargiela, #tabi, #maisonmargielatabi"
-  - username: "kondakova_alisamiss"
+    hashtags: "#ohioinfluencer, #clearwaterbeachflorida, #motherhood, #lovemyboys"
+  - username: "alinaakogai"
     fullname: >-
-      Кондакова Алиса MissEurope
+      Alina Kogai
     bio: >-
-      MiniMiss World Beauty2018👑 GRAND-Prix minimiss European Beauty 2018👑 2em vicemiss int.fashion time model PARIS 2018👑 Photomodel of the Universe2017👑
+      half Russian/ half Korean 🇷🇺🇰🇷✨travel, festivals, fashion 🌈 📍Los Angeles, CA 🌴 Collaborations DM or 📩: alinakogaichannel@gmail.com
     location: "Russia"
-    followers: 14671
-    engagement: 941
-    commentsToLikes: 0.097111
-    id: ck5zirnk9g8yb0i14jgzrz9qm
+    followers: 19883
+    engagement: 404
+    commentsToLikes: 0.029098
+    id: ckzde2htybyb10j23ysbplibj
     verified: false
-    hashtags: "#gymnastics, #minimiss, #prettygirls, #leopardprint"
-  - username: "madamxxl"
+    hashtags: "#dancechallenge, #festivalfashion, #raveoutfit, #socalhiking"
+  - username: "ann.siren"
     fullname: >-
-      Plus Size Blogger ПЛЮССАЙЗ
+      Ann🌿
     bio: >-
-      🖤Fashion Influencer 🖤Гуру шопинга онлайн 🖤Расскажу где купить одежду больших размеров 🖤Научу экономить 🖤И корректировать фигуру
+      🍃Fantasy & folklore photography 🍃Northern pagan tradition 🍃Dark fashion Second acc: @green.rosmarin Collab: Direct or nia.5@mail.ru
     location: "Russia"
-    followers: 60338
-    engagement: 445
-    commentsToLikes: 0.042808
-    id: ck6uc9clwe9f30j71zxcue00p
+    followers: 235712
+    engagement: 575
+    commentsToLikes: 0.013117
+    id: ck5c23nb9whh20i11xkoc9x13
     verified: false
-    hashtags: "#plussize, #plussizefashion, #plussizefashionblogger, #plussizeblogger"
-  - username: "russianpetit"
+    hashtags: "#pastelgoth, #darkstyle, #darkartists, #forestcore"
+  - username: "anastasiyatairi"
     fullname: >-
-      Tanya K | Petite outfits 🇷🇺🇬🇧
+      Anastasiya Tairi
     bio: >-
-      👛👗💃🏻Petite fashion & style inspiration | 5’1” 👌Мой рост 155 см 👩🏻‍💻📷Too busy for texts, only outfits 🎓Russian design brands expert #PetiteSizeMatter
+      Creative producer & stylist (ex- I am studio, LIME) Fashion consultant tairiwork@gmail.com
     location: "Russia"
-    followers: 21347
-    engagement: 577
-    commentsToLikes: 0.090164
-    id: ck8syfljhkooc0j78txym95bu
+    followers: 96318
+    engagement: 615
+    commentsToLikes: 0.014349
+    id: ck5cdctwziy5z0i118no3px44
     verified: false
-    hashtags: "#petite, #petitesize, #petitestyle, #petiteblogger"
-  - username: "tatianakotlyarevskaya"
+    hashtags: "#lookoftheday, #ootd, #lookinspo, #styleinspo"
+  - username: "shepelevich"
     fullname: >-
-      ТАТЬЯНА КОТЛЯРЕВСКАЯ
+      Anastasia Shepelevich
     bio: >-
-      🤍Совмещаю бизнес и 4 ребёнка 🤍8 лет создаём для вас лучшее 🤍👗@take.me.fashion 🤍🪡 @atelier_t.kotlyarevskaya
+      I speak fashion, art and fluent sarcasm. itsme.shepelevich@gmail.com new vlog on YouTube:
     location: "Russia"
-    followers: 89716
-    engagement: 352
-    commentsToLikes: 0.056286
-    id: ckf5nmailyry10j233kkb8hni
-    verified: false
-    hashtags: ""
-  - username: "marinashchenyaeva"
-    fullname: >-
-      Брендмейкер
-    bio: >-
-      🔝Создатель бренда @typesofbeauty 🔝Преподаватель Британской Высшей Школы Дизайна и Fashion Factory School 🔝Запись в школу стилистов 👇🏻
-    location: "Russia"
-    followers: 78825
-    engagement: 358
-    commentsToLikes: 0.080460
-    id: ck6ufyih1zvvf0j71eo5tj1ut
-    verified: false
-    hashtags: "#idolebylancome, #idole, #lancome"
-  - username: "irina__ivanina"
-    fullname: >-
-      Irina Ivanina
-    bio: >-
-      Fashion/beauty/lifestyle ▫️Повседневные образы Сотрудничество/пиар - DIRECT
-    location: "Russia"
-    followers: 10249
-    engagement: 767
-    commentsToLikes: 0.404965
-    id: ckaoyfylmhczz0i78l20cl364
+    followers: 386313
+    engagement: 571
+    commentsToLikes: 0.005467
+    id: ck5bu720ah9tb0i11z6msh03o
     verified: false
     hashtags: ""
-  - username: "vjarchi"
+  - username: "kate_rock666"
     fullname: >-
-      Vj Archiе | Артур Цветков
+      Катя Рок, стилист
     bio: >-
-      #tvhost #FashionTv #MTV #МузТв #ТНТ #РуТв +7 985 437-54-04 Яна ( PR, СМИ ) +7 964 561-11-00 Александр (Концертный) +7 916 017-43-66 Алина (Ad)
+      Personal stylist and fashion influencer. St.Petersburg📍 Я твой персональный стилист и шопер - katerock.ru
     location: "Russia"
-    followers: 60870
-    engagement: 355
-    commentsToLikes: 0.154061
-    id: ck8t0i0yds4l40j785vtzswmc
-    verified: true
-    hashtags: "#horse, #happybirthday, #vjarchi, #gentlemanstyle"
-  - username: "alinabelozerova_ph"
-    fullname: >-
-      Фотограф  Киев 🇺🇦
-    bio: >-
-      📸Фотограф с художественным образованием ✨преподаватель по фотопозированию 🔥ONLINE PHOTO 🌍fashion photographer worldwide 🎥 video portraits 📍Kyiv now
-    location: "Russia"
-    followers: 25783
-    engagement: 422
-    commentsToLikes: 0.077771
-    id: ck5ce6tgpkfws0i11vaj7kwer
+    followers: 33251
+    engagement: 606
+    commentsToLikes: 0.037503
+    id: ck0ucoxu9he520i1932zrg19t
     verified: false
-    hashtags: "#hotelkiev, #photographerukraine, #photographerkiev, #hotelstory"
+    hashtags: "#crocsru, #prada, #like"
+  - username: "sasha_shklyaeva"
+    fullname: >-
+      Stylist/ Александра Шкляева
+    bio: >-
+      •Fashion blogger •Personal stylist
+    location: "Russia"
+    followers: 33153
+    engagement: 399
+    commentsToLikes: 0.032321
+    id: ck0u81za969m60i197nt4sqwm
+    verified: false
+    hashtags: "#lorealprorussia, #lorealprolover, #steampodrussia"
+  - username: "style.demon"
+    fullname: >-
+      ДЕМОН СТИЛЯ. Elina | Элина
+    bio: >-
+      SUPERSTAR ⭐️ STYLE ICON⭐️ FASHION INFLUENCER ⭐️ ARCHITECT @styledemon.interiors По вопросам сотрудничества /Collaborations - @pr.styledemon 📩 📍Moscow
+    location: "Russia"
+    followers: 112352
+    engagement: 718
+    commentsToLikes: 0.031544
+    id: ck14jd7bhjr1y0i1918qsvk7e
+    verified: false
+    hashtags: ""
+  - username: "ariadniskokou"
+    fullname: >-
+      А R И А • С К О К О С
+    bio: >-
+      👩🏻Content Creator-Fashion & Lifestyle 🤍 Professional Dancer-Choreographer 🕊BA n Theatre-Performing Arts 🍸 @fantasia.live.official 🪐 Greek-Russian
+    location: "Russia"
+    followers: 57442
+    engagement: 1805
+    commentsToLikes: 0.086736
+    id: ck5pxbvf6r1ko0i11xwm5d9at
+    verified: false
+    hashtags: "#macsquirt, #ad, #adidasgr, #sneaker10"
 ---

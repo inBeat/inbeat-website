@@ -1,12 +1,24 @@
 ---
-title: Top 10 Gaming TikTok Influencers In Las Vegas In 2023
+title: Top 10 Gaming TikTok Influencers In Las Vegas In 2024
 description: >-
-  Find top gaming TikTok influencers in Las Vegas in 2023. Most popular hashtags: #lasvegas #fyp #gaming #warzone.
+  Find top gaming TikTok influencers in Las Vegas in 2024. Most popular hashtags: #gaming #fyp #lasvegas #warzone.
 platform: TikTok
-hits: 9
-text_top: Analyze the top-rated TikTok influencers on inBeat.
-text_bottom: Our platform has 9 TikTok influencers like this in Las Vegas, United States for you to connect with.
+hits: 7
+text_top: See the most popular TikTok accounts on inBeat.
+text_bottom: inBeat holds 7 TikTok influencers like this in Las Vegas, United States for you to contact.
 profiles:
+  - username: "kylebusch"
+    fullname: >-
+      Kyle Busch
+    bio: >-
+      Official account of 2x 🏆🏆 NASCAR Champion Kyle Busch. 🏁#RowdyNation
+    location: "United States"
+    followers: 168700
+    engagement: 1090
+    commentsToLikes: 0.013535
+    id: ck83yul1uvv7f0j78k4wlr24h
+    verified: true
+    hashtags: "#fyp, #iracing, #daytona500, #nascar"
   - username: "generalsmitty1v1"
     fullname: >-
       GeneralSmitty1v1
@@ -19,18 +31,6 @@ profiles:
     id: ck8ozla79clnb0j78j0554s7y
     verified: false
     hashtags: "#fortnite, #amongusmeme, #warzone, #gaming"
-  - username: "austencoburn"
-    fullname: >-
-      Austen Coburn 
-    bio: >-
-      I skate
-    location: "United States"
-    followers: 31700
-    engagement: 987
-    commentsToLikes: 0.035516
-    id: ck978v42r9hbi0j78w97ini9w
-    verified: false
-    hashtags: "#lasvegas, #hb, #puppy, #fyp"
   - username: "chrismillsofficial"
     fullname: >-
       Chris Mills
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.023091
     id: ckdsv0nj1pywh0j23fbsjch9v
     verified: false
-    hashtags: "#mixology, #daily, #bartender, #foryoupage"
+    hashtags: "#daily, #chrismills, #bartender, #fyp"
   - username: "nikahola"
     fullname: >-
       Niklas Ahola
@@ -55,18 +55,6 @@ profiles:
     id: ck8tst70vrjgq0j78rrd9f67g
     verified: false
     hashtags: "#miami, #rave, #ultramusic, #edm"
-  - username: "user14300160"
-    fullname: >-
-      User Not Found
-    bio: >-
-      
-    location: "United States"
-    followers: 20300
-    engagement: 2125
-    commentsToLikes: 0.136364
-    id: ckbl7dyca546s0j233o9o6plg
-    verified: false
-    hashtags: "#fyp, #greenscreenvideo, #piano, #foryou"
   - username: "deltafox757"
     fullname: >-
       VoryFox
@@ -91,18 +79,6 @@ profiles:
     id: ck8p0n6s4hjq60j784y9ylbl4
     verified: true
     hashtags: "#cod, #fazeclan, #crypto, #gfuel"
-  - username: "kylebusch"
-    fullname: >-
-      Kyle Busch
-    bio: >-
-      Official account of 2x 🏆🏆 NASCAR Champion Kyle Busch. 🏁#RowdyNation
-    location: "United States"
-    followers: 168700
-    engagement: 1090
-    commentsToLikes: 0.013535
-    id: ck83yul1uvv7f0j78k4wlr24h
-    verified: true
-    hashtags: "#iracing, #fyp, #nascar, #daytona500"
   - username: "mrs.woolleyin5th"
     fullname: >-
       Lauran Woolley
@@ -114,7 +90,7 @@ profiles:
     commentsToLikes: 0.045894
     id: ckb9s8eyxpg7w0j23y84rt9vb
     verified: true
-    hashtags: "#classroom, #tiktokteachers, #funnycomments, #mrswoolleyin5th"
+    hashtags: "#sosatisfying, #classroom, #restock, #newquestionalert"
   - username: "hackergamingofficial"
     fullname: >-
       Gaming
@@ -122,9 +98,33 @@ profiles:
       The best gaming clips, news, and tips! 🎮 Submit clips to our Instagram 🕹
     location: "United States"
     followers: 23400
-    engagement: 1300
-    commentsToLikes: 0.011840
+    engagement: 1292
+    commentsToLikes: 0.011511
     id: cka0jrbqijag00i78937gyjp3
     verified: false
     hashtags: "#callofduty, #warzoneclips, #callofdutywarzone, #callofdutycoldwar"
+  - username: "henwygaming"
+    fullname: >-
+      -𝚜𝚘𝚖𝚎 𝚔𝚒𝚍-
+    bio: >-
+      hello im a gaming youtuber, I post fortnite and if you wanna hate, go ahead!
+    location: "United States"
+    followers: 3784
+    engagement: 2123
+    commentsToLikes: 0.281667
+    id: ck9kgnhp78si30j78gu3g0qum
+    verified: false
+    hashtags: "#pls, #theory, #malled, #ps4"
+  - username: "si1encedbtw"
+    fullname: >-
+      si1enced BY THE WAY
+    bio: >-
+      gaming and sports content 🤟 follow the socials🎥 Venmo: ataylor-25 🤑 5k?
+    location: "United States"
+    followers: 3511
+    engagement: 2122
+    commentsToLikes: 0.137476
+    id: ckcelupidvua10j23cd8x76wu
+    verified: false
+    hashtags: "#mmg, #madden21, #nfl, #xyzbca"
 ---

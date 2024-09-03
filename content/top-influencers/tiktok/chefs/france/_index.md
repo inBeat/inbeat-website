@@ -1,11 +1,11 @@
 ---
-title: Top 10 Chefs TikTok Influencers In France In 2023
+title: Top 10 Chefs TikTok Influencers In France In 2024
 description: >-
-  Find top chefs TikTok influencers in France in 2023. Most popular hashtags: #food #chef #chocolat #pourtoi.
+  Find top chefs TikTok influencers in France in 2024. Most popular hashtags: #food #chef #chocolat #pourtoi.
 platform: TikTok
 hits: 22
-text_top: See the top-rated TikTok influencers on inBeat.
-text_bottom: inBeat holds 22 TikTok influencers like this in France for you to contact.
+text_top: See the most popular TikTok profiles on inBeat.
+text_bottom: inBeat holds 22 TikTok influencers like this in France for you to pitch.
 profiles:
   - username: "laufox_"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.071228
     id: ck9nnoc84q41o0j78ak1xlwum
     verified: false
-    hashtags: "#etouraptor, #pokemoncosplay, #humanpokemon, #chromacross"
+    hashtags: "#staraptor, #etouraptor, #ocmafia, #pokemoncosplay"
   - username: "korbeninfo"
     fullname: >-
       Korben

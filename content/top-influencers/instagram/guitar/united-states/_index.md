@@ -1,11 +1,11 @@
 ---
-title: Top 10 Guitar Instagram Influencers In United States In 2023
+title: Top 10 Guitar Instagram Influencers In United States In 2024
 description: >-
-  Find top guitar Instagram influencers in United States in 2023. Most popular hashtags: #guitar #guitarist #acousticguitar #fender.
+  Find top guitar Instagram influencers in United States in 2024. Most popular hashtags: #guitar #guitarcover #metal #guitarist.
 platform: Instagram
-hits: 2764
-text_top: Analyze the top-rated Instagram influencers on inBeat.
-text_bottom: Our platform holds 2764 Instagram influencers like this in United States for you to work with.
+hits: 2772
+text_top: See the best Instagram influencers on inBeat.
+text_bottom: inBeat aggregates 2772 Instagram influencers like this in United States for you to collaborate.
 profiles:
   - username: "guitar"
     fullname: >-
@@ -18,113 +18,113 @@ profiles:
     commentsToLikes: 0.009632
     id: ck14gpbir6de50i190u5jemgs
     verified: false
-    hashtags: "#guitar, #fender, #guitarvideo, #guitars"
-  - username: "hannahmurphyguitar"
+    hashtags: "#gibson, #vintageguitar, #guitar, #acousticguitar"
+  - username: "hallie.amc"
     fullname: >-
-      Hannah Murphy
+      Hallie McClain
     bio: >-
-      Classical guitarist based in New York City🗽 @AugustineStrings Artist @ExAequo Co-founder
+      📍Charleston, SC Author, Guitarist, & Traveler 🌊🦋🌻/🖤/🎀🤍💫 Email for business inquiries
     location: "United States"
-    followers: 150984
-    engagement: 340
-    commentsToLikes: 0.022868
-    id: ck134h49qwe2s0i19nn8mqfed
+    followers: 83637
+    engagement: 515
+    commentsToLikes: 0.053201
+    id: ck5ckmh7jx6bp0i11s63q47yj
     verified: false
-    hashtags: "#classicalguitar, #guitarplayer, #guitarist, #classicalmusic"
-  - username: "evantaucher"
+    hashtags: "#bikini, #bikinigirl, #summer, #fitness"
+  - username: "andreagcguitar"
     fullname: >-
-      Evan Taucher
+      Andrea Gonzalez Caballero
     bio: >-
-      Sharing my classical guitar journey. Co-Founder | @ExAequo @DAddarioandCo Artist Austin, TX Lessons, links, and website below 👇
+      New York concert, Sept 23th🎶 Guitarist - - - - 📧Contact: info@andreagonzalezcaballero.com
     location: "United States"
-    followers: 46492
-    engagement: 316
-    commentsToLikes: 0.019186
-    id: ck14lalbitomx0i19gnjvcg0l
+    followers: 41283
+    engagement: 416
+    commentsToLikes: 0.023851
+    id: ck14lakiutoj60i193uoncqyk
     verified: false
-    hashtags: "#classicalguitar, #guitarra, #guitarlesson, #music"
-  - username: "bobtyrrell"
+    hashtags: "#australiantour, #newmusic, #spanishguitar, #euskaraz"
+  - username: "kikiwongo"
     fullname: >-
-      Bob Tyrrell
+      KIKI WONG
     bio: >-
-      DETROIT ROCK CITY Tattooing since 1997 For appointments - e-mail bob@bobtyrrell.com Guitarist for About Kings, Upside DOWN and Nativity In Black
+      🤘🏼Shrednanigans 📘 Author “30-Day Travel Challenge” 🎸 Guitarist @vigilofwar 👾 Sober AF 📍LA - Phoenix ✨ this is my ONLY account ⬇️ Support
     location: "United States"
-    followers: 313297
-    engagement: 36
-    commentsToLikes: 0.017070
-    id: ckt0v2nedq4c10j238k7340ep
+    followers: 655250
+    engagement: 419
+    commentsToLikes: 0.017878
+    id: ck13af6arq3je0i190kg39ox8
     verified: false
-    hashtags: "#intenze, #bobtyrrell, #blackandgraytattoo, #intenzebobtyrrelladvancedblackandgreyset"
-  - username: "jewels_1022"
+    hashtags: "#barbiegirl, #guitar, #snapchallenge, #metal"
+  - username: "mateusasato"
     fullname: >-
-      Julie
+      Mateus Asato
     bio: >-
-      “Sing a song, play guitar, make it snappy...” 🎶🎵🎸
+      • i started making these guitar videos here when the shape was square & 15 seconds only • signature with suhr guitars & neural dsp • @masatofilm
     location: "United States"
-    followers: 29013
-    engagement: 757
-    commentsToLikes: 0.074414
-    id: ck0tvbjdtapgw0i19704hzdi9
-    verified: false
-    hashtags: "#rockband, #thatvoice, #rockmusic, #folkrock"
-  - username: "experience_jimi"
-    fullname: >-
-      experience_jimi
-    bio: >-
-      I love music ... rock .... blues ... hard .... heavy ....art.... and the #guitar ...🎸🇮🇹 Carlo 😎🎸♊
-    location: "United States"
-    followers: 15364
-    engagement: 1054
-    commentsToLikes: 0.065347
-    id: ck0w622b46jpz0i19nnykqx1o
-    verified: false
-    hashtags: "#jimihendrix, #joesatriani, #rock, #blues"
-  - username: "crimson_shelby"
-    fullname: >-
-      Shelby Benson
-    bio: >-
-      Guitarist / Social Media Specialist 🖤 1/4 @CRIMSONAPPLE 🖤
-    location: "United States"
-    followers: 27963
-    engagement: 1252
-    commentsToLikes: 0.034326
-    id: ck15rdkek7ed60i19hbql8yab
-    verified: false
-    hashtags: "#guitargirls, #femaleguitarist, #guitargirl, #fender"
-  - username: "tommy_thayer_official"
-    fullname: >-
-      Tommy Thayer
-    bio: >-
-      KISS lead guitar
-    location: "United States"
-    followers: 108402
-    engagement: 736
-    commentsToLikes: 0.017776
-    id: ck0ttkqyo35x20i1928u48ka4
+    followers: 1498222
+    engagement: 687
+    commentsToLikes: 0.016372
+    id: ck0u6764p12p20i193duh5acw
     verified: true
-    hashtags: "#kiss, #tbt, #repost, #kisstory"
-  - username: "eddiethe202"
+    hashtags: "#racerx, #cathedralsong, #dontdreamitsover"
+  - username: "thew6rst"
     fullname: >-
-      Eddie Jones
+      W6RST
     bio: >-
-      Vocals, guitar and keys in @the202band FOLLOW US 💪🏻 @prestigeartistmanagement November Tour tickets 👇
+      @polyphia Guitarist of America’s Band
     location: "United States"
-    followers: 26201
-    engagement: 646
-    commentsToLikes: 0.078768
-    id: ck0vxzj2h1i7z0i19mcsafucy
-    verified: false
-    hashtags: "#instareels, #londonmusician, #reel, #singing"
-  - username: "qeeriefire"
+    followers: 774019
+    engagement: 1214
+    commentsToLikes: 0.008127
+    id: ck0tzseuwrfmt0i192vlday9p
+    verified: true
+    hashtags: "#sponsoredbyht, #fitxhottopic"
+  - username: "ofek_riff_solo"
     fullname: >-
-      Justyna 🔥
+      Ofek riff solo
     bio: >-
-      Poland Music▪️Self-taught beginner guitarist▪️ Dogs▪️Cooking▪️ Marvel Comics▪️Yoga #metalhead
+      Guitarist for @herlastsightband “𝐏𝐈𝐂𝐓𝐔𝐑𝐄 𝐏𝐄𝐑𝐅𝐄𝐂𝐓” is OUT NOW 👇
     location: "United States"
-    followers: 21346
-    engagement: 819
-    commentsToLikes: 0.045993
-    id: ck0w6ezy8892n0i19b3l6lf3r
+    followers: 143452
+    engagement: 463
+    commentsToLikes: 0.059849
+    id: ck1371b2m9ald0i19myi3nyp5
     verified: false
-    hashtags: "#beginnerguitarist"
+    hashtags: "#metal, #metalmusic, #metallica, #metalhead"
+  - username: "rachelfguitar"
+    fullname: >-
+      Rachelf
+    bio: >-
+      Guitarist and YouTuber sharing my guitar journey with the world!
+    location: "United States"
+    followers: 51820
+    engagement: 764
+    commentsToLikes: 0.021743
+    id: ck0u675dp12lb0i19w1awfkv6
+    verified: false
+    hashtags: "#riff, #guitars, #keiproguitars, #guitarplayer"
+  - username: "chrisgreatti"
+    fullname: >-
+      chris greatti
+    bio: >-
+      pop experimentalist. rock sensastionalist. produce. write. guitar. suck. Nick.Groff@umusic.com
+    location: "United States"
+    followers: 30086
+    engagement: 950
+    commentsToLikes: 0.021664
+    id: ck5hpiruarfvb0i114qiqrf5t
+    verified: false
+    hashtags: "#guitar, #freepoliticalprisoners, #freenavalny, #davenavarro"
+  - username: "casperesmann"
+    fullname: >-
+      Casper Esmann
+    bio: >-
+      🎸 Kepma Guitars artist 🎧 30 million Spotify streams 🎬 140.000 YouTube subscribers ⬇️Tabs - Lessons - Gear - Tour Dates⬇️
+    location: "United States"
+    followers: 106386
+    engagement: 515
+    commentsToLikes: 0.014987
+    id: ck5zv9ffw3t7s0i149pabq5gr
+    verified: false
+    hashtags: "#fingerstyleindonesia, #acousticcover, #acousticcovers, #guitar"
 ---

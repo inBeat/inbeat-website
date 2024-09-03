@@ -1,11 +1,11 @@
 ---
-title: Top 10 Yoga Instagram Influencers In New Delhi In 2023
+title: Top 10 Yoga Instagram Influencers In New Delhi In 2024
 description: >-
-  Find top yoga Instagram influencers in New Delhi in 2023. Most popular hashtags: #yoga #newdelhi #india #delhi.
+  Find top yoga Instagram influencers in New Delhi in 2024. Most popular hashtags: #delhi #trending #yoga #india.
 platform: Instagram
-hits: 14
-text_top: Analyze the most popular Instagram influencers on inBeat.
-text_bottom: inBeat holds 14 Instagram influencers like this in New Delhi, India for you to contact.
+hits: 15
+text_top: See the top-rated Instagram accounts on inBeat.
+text_bottom: Our database has 15 Instagram influencers like this in New Delhi, India for you to work with.
 profiles:
   - username: "pankaj.jpeg"
     fullname: >-
@@ -31,18 +31,42 @@ profiles:
     id: ck8t2uger0qzv0j78wm98wp0y
     verified: false
     hashtags: "#foodgasm, #gurgaon, #follow4follow, #sweetbox"
-  - username: "styleawhileofficial"
+  - username: "choudharyravi"
     fullname: >-
-      Shreya Jain
+      Ravi Choudhary
     bio: >-
-      #shreyajain 👠 Fashion and Lifestyle Blogger 👗 Costume Stylist 🧘🏼‍♀️ Fitness Influencer 🐶 Dog Lover 📍 New Delhi / Punjab 🇮🇳
+      Photo-journalist based in New Delhi. Presently working with PTI | India |
     location: "India"
-    followers: 163065
-    engagement: 244
-    commentsToLikes: 0.058658
-    id: ck9wgrkyfuokp0j78wjzd69ae
+    followers: 183474
+    engagement: 609
+    commentsToLikes: 0.014955
+    id: ck55lg8wz1hv60i11oiyo83ui
     verified: true
-    hashtags: "#fashioninfluencer, #turnup, #turnitup, #carlaunch"
+    hashtags: "#rain, #everydayeverywhere, #worldnomads, #collection"
+  - username: "tuheena.raj"
+    fullname: >-
+      Tuheena Raj
+    bio: >-
+      〰️soft rebellion〰️ 💼 Brand Manager + Freelance Copywriter ♥️ Podcaster + TEDx Speaker 📍 New Delhi, India
+    location: "India"
+    followers: 147603
+    engagement: 267
+    commentsToLikes: 0.011672
+    id: ck0ucvu86hv1a0i19t6z7l7ua
+    verified: false
+    hashtags: "#ad, #hardwork, #gratitude, #walks"
+  - username: "iamsukhmanibedi"
+    fullname: >-
+      Sukhmani Kaur Bedi
+    bio: >-
+      #SKBLIVE New Delhi - Shillong For show bookings - +91 98916 12000
+    location: "India"
+    followers: 36290
+    engagement: 62
+    commentsToLikes: 0.110310
+    id: ckaoz9k0akyno0i78qowdg5ug
+    verified: true
+    hashtags: "#trending, #fitnessmotivation, #love, #video"
   - username: "mohini.s"
     fullname: >-
       Mohini Singh
@@ -55,30 +79,18 @@ profiles:
     id: ckap376j51u5m0i788fp1sme2
     verified: false
     hashtags: "#quarantinelife, #sealover, #himachal, #beachlover"
-  - username: "siddharth.tyagi_"
+  - username: "sidharth.malhotra.fc"
     fullname: >-
-      Siddharth Tyagi
+      🌸 Sidharth Malhotra FC 🌸
     bio: >-
-      New Delhi🇮🇳 ◾️Professional Calisthenics Athlete ◾️First Place Calisthenics World Cup 2019🏆 ◾️India’s Got Talent 2016 DM for business enquires📥
+      fan club σғ Hαη∂sσмε Acтσя Øғ Bσℓℓүωσσ∂ Sι∂нαятн Mαℓhσтяα @SidMalhotra ғσℓℓσω Us ғσя Aℓℓ Tнε latest Uρ∂αтεs Aвσυт Hιм. PS: He follows us ❤
     location: "India"
-    followers: 48963
-    engagement: 884
-    commentsToLikes: 0.034569
-    id: ck8wfjdwmfsux0j78ahvf986h
+    followers: 109061
+    engagement: 109
+    commentsToLikes: 0.010132
+    id: ckaosvt71t8o00i781fauk3k1
     verified: false
-    hashtags: "#instagram, #reels, #streetworkout, #calisthenics"
-  - username: "theurbanelog"
-    fullname: >-
-      Vishakha Vij
-    bio: >-
-      💻@theurbanelog 📸Love•Beauty•Luxury•Well-being• 💌Theurbanelog@gmail.com 🎬Content Creator 📍New Delhi, India
-    location: "India"
-    followers: 46936
-    engagement: 136
-    commentsToLikes: 0.118188
-    id: ckap4vm0j92yc0i78tr91a7xt
-    verified: false
-    hashtags: "#makeup, #sidharthshukla, #contentcreator, #lifestyle"
+    hashtags: "#trendingnow, #missionmajnu, #reels, #trendingreels"
   - username: "niti_jaipur_homefood"
     fullname: >-
       CookwithNiti
@@ -91,40 +103,28 @@ profiles:
     id: ck6uewocqti620j71mxdlpy3p
     verified: false
     hashtags: "#foodie, #zingyzest, #mumbai, #foodtalkindia"
-  - username: "dslrwalabhaiya"
+  - username: "bharti__attri"
     fullname: >-
-      Pankaj
+      Bharti Attri
     bio: >-
-      𝒟𝑜 𝑔𝑜𝑜𝒹 𝒶𝓃𝒹 𝑔𝑜𝑜𝒹 𝓌𝒾𝓁𝓁 𝒸𝑜𝓂𝑒 𝓉𝑜 𝓎𝑜𝓊. Storytelling & travel photographer 📧 dslrwalabhaiya@gmail.com📍DELHI
+      INDIA🇮🇳 Fashion Model👠Blogger☘️ Influencer🌏Teacher📚 Fashion|Beauty|Travel|Food|Lifestyle💫 DM/ Work Enquires: @bhartiattri.bkk@gmail.com
     location: "India"
-    followers: 77436
-    engagement: 756
-    commentsToLikes: 0.048344
-    id: ckap9phtxt4br0i78lm6bjrtx
+    followers: 271693
+    engagement: 21
+    commentsToLikes: 0.087285
+    id: ckvas7grq5mfp0j23gb88ilk5
     verified: false
-    hashtags: "#people, #ganpatibappa, #spicollective, #maharashtra"
-  - username: "thakur_jyotii"
+    hashtags: "#enjoy, #natural, #reelitfeelit, #shimla"
+  - username: "studio_lotus"
     fullname: >-
-      JYOTI | ONLINE FITNESS COACH
+      Studio Lotus
     bio: >-
-      👩🏼‍💻DIET| WORKOUT PLAN| NUTRITION 🌟CHANGING LIVES THROUGH FITNESS. 📧EMAIL/DM FOR ONLINE COACHING. 👩🏻‍💼TEAM ON @optimumnutri_in
+      Creating Meaning, Celebrating Context World's 100 Best Architecture Firms, @archello World Architecture Festival | Dezeen Awards | Prix Versailles
     location: "India"
-    followers: 105960
-    engagement: 107
-    commentsToLikes: 0.025804
-    id: ck0u69bwh1cpt0i194tcnhlam
+    followers: 57575
+    engagement: 80
+    commentsToLikes: 0.005298
+    id: ck8szux6mpt1p0j78mmo4i9le
     verified: false
-    hashtags: "#hiit, #reels, #explore, #homeworkout"
-  - username: "modularprincess"
-    fullname: >-
-      ARUSHI | आरुषि // OSE | ओस
-    bio: >-
-      bk / delhi / stanford i like synthesizers and strange sounds 🐒 host w/ @ghunghrusounds on @nts_radio @boxoutfm infra nerd @reddit @boilerroomtv set👇🏽
-    location: "India"
-    followers: 16421
-    engagement: 579
-    commentsToLikes: 0.024610
-    id: ckap8tjh3ptiu0i78y289wga8
-    verified: false
-    hashtags: "#indianclassical, #indianclassicalmusic, #sound, #musician"
+    hashtags: "#design, #designinspiration, #indiandesigners, #architecturehunter"
 ---

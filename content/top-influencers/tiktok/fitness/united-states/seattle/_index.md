@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fitness TikTok Influencers In Seattle In 2023
+title: Top 10 Fitness TikTok Influencers In Seattle In 2024
 description: >-
-  Find top fitness TikTok influencers in Seattle in 2023. Most popular hashtags: #fitness #seattle #fyp #workout.
+  Find top fitness TikTok influencers in Seattle in 2024. Most popular hashtags: #fitness #seattle #fyp #workout.
 platform: TikTok
 hits: 15
-text_top: Identify the best TikTok influencers on inBeat.
-text_bottom: inBeat has 15 TikTok influencers like this in Seattle, United States for you to pitch.
+text_top: Identify the most popular TikTok influencers on inBeat.
+text_bottom: Our platform aggregates 15 TikTok influencers like this in Seattle, United States for you to connect with.
 profiles:
   - username: "brittney_roy"
     fullname: >-
@@ -31,18 +31,6 @@ profiles:
     id: ck8nfci1sr8tx0j78n8r5avk8
     verified: false
     hashtags: "#fyp, #hoops, #seattle, #foryou"
-  - username: "susangmusic"
-    fullname: >-
-      SusanGmusic
-    bio: >-
-      Singer, lifestyle writer, blogger. IG: @susangmusic www.susangmusic.com
-    location: "United States"
-    followers: 38700
-    engagement: 609
-    commentsToLikes: 0.229849
-    id: cka5yfb44hzzz0i78fg84p7l7
-    verified: false
-    hashtags: "#millionactsoflove, #coversong, #makemomepic, #fyp"
   - username: "natthecvt"
     fullname: >-
       Nat the rat
@@ -102,7 +90,7 @@ profiles:
     commentsToLikes: 0.039791
     id: ckd085q25b1w40j23izufndjs
     verified: false
-    hashtags: "#gymshark, #barbrothers, #abs, #pullups"
+    hashtags: "#asthetic, #bodybuilder, #aesthetics, #abs"
   - username: "bodyverafitness"
     fullname: >-
       VICTORIA RIVERA
@@ -127,4 +115,16 @@ profiles:
     id: cka84a7drsq0p0i783qrehfbx
     verified: false
     hashtags: "#touchdown, #football, #sports, #athletic"
+  - username: "susangmusic"
+    fullname: >-
+      SusanGmusic
+    bio: >-
+      Singer, lifestyle writer, blogger. IG: @susangmusic www.susangmusic.com
+    location: "United States"
+    followers: 38700
+    engagement: 609
+    commentsToLikes: 0.229849
+    id: cka5yfb44hzzz0i78fg84p7l7
+    verified: false
+    hashtags: "#ryantedder, #fyp, #makemomepic, #millionactsoflove"
 ---

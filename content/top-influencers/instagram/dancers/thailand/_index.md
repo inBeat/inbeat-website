@@ -1,12 +1,36 @@
 ---
-title: Top 10 Dancers Instagram Influencers In Thailand In 2023
+title: Top 10 Dancers Instagram Influencers In Thailand In 2024
 description: >-
-  Find top dancers Instagram influencers in Thailand in 2023. Most popular hashtags: #dance #jazzfunk #choreography.
+  Find top dancers Instagram influencers in Thailand in 2024. Most popular hashtags: #dance #hiphop #dancer.
 platform: Instagram
-hits: 17
-text_top: See the most popular Instagram profiles on inBeat.
-text_bottom: Our search engine holds 17 Instagram influencers like this in Thailand for you to collaborate.
+hits: 18
+text_top: See the best Instagram profiles on inBeat.
+text_bottom: Our platform aggregates 18 Instagram influencers like this in Thailand for you to connect with.
 profiles:
+  - username: "mamya.jsk"
+    fullname: >-
+      Mamya Shajaffar
+    bio: >-
+      The happiest sadist out here. 🕊 Dancer, Actor, Painter, Writer, almost Singer
+    location: "Thailand"
+    followers: 182180
+    engagement: 363
+    commentsToLikes: 0.017363
+    id: ck5c1oo43vm2c0i11dy7zg17u
+    verified: false
+    hashtags: "#islandlife, #travelgram, #insta, #friends"
+  - username: "arushisaxena_"
+    fullname: >-
+      Arushi Saxena
+    bio: >-
+      Super dancer chapter 2 India's Next Superstar Asian Dance championx3 Asia Pacific Dance Champion Bangkok
+    location: "Thailand"
+    followers: 102792
+    engagement: 60
+    commentsToLikes: 0.063305
+    id: ck8sxb0uvgqgq0j78evua3hxm
+    verified: false
+    hashtags: "#reelitfeelit, #arushisaxena, #explorepage, #fyp"
   - username: "kamonrath_you79"
     fullname: >-
       យូ កាម៉ុនរ៉ាត់
@@ -25,12 +49,12 @@ profiles:
     bio: >-
       21 | Bangkok | Mumbai 📍 Choreographer | Dancer | Sangeet Events DM for collaborations & private classes • Team @dancamaze ⭐ • @mustachefam_ crew
     location: "Thailand"
-    followers: 4136
-    engagement: 1550
-    commentsToLikes: 0.088108
+    followers: 11826
+    engagement: 4598
+    commentsToLikes: 0.053129
     id: ckaoqx025ksjv0i78l0czhxcl
     verified: false
-    hashtags: "#dance, #dancereel, #dancamaze, #bollywooddance"
+    hashtags: "#trending, #lovethis, #positivevibes, #dancechallenge"
   - username: "markjsmurf"
     fullname: >-
       Pakorn Wanithanont
@@ -59,14 +83,14 @@ profiles:
     fullname: >-
       Smart BaZic
     bio: >-
-      GOD 1st Choreographer | Dancer Partnership of @streetdanceofficial Co-Founder OF IAMBAZIC BAZIC CREW ORIGINAL MEMBERS -Northern Thailand- 🇹🇭
+      GOD 1st Choreographer | Dancer Co-Founder OF @iambazic BAZIC CREW ORIGINAL MEMBERS 🇹🇭
     location: "Thailand"
-    followers: 2588
-    engagement: 932
-    commentsToLikes: 0.076881
+    followers: 3313
+    engagement: 808
+    commentsToLikes: 0.068634
     id: ck6ts71os34es0j71bqe7mjfi
     verified: false
-    hashtags: "#allme, #kehlani, #lurkin, #rnp"
+    hashtags: "#2021, #hiphop, #nike, #tbt"
   - username: "nuttodekdance"
     fullname: >-
       NuttoDekDance
@@ -79,18 +103,6 @@ profiles:
     id: ckf5mx17uvr7s0j239pc1mqlg
     verified: false
     hashtags: "#pilots, #copilotsforlife, #tgpilot, #iflythaiairways"
-  - username: "ritulivelovedance"
-    fullname: >-
-      Ritusdancestudio
-    bio: >-
-      RITU'S DANCE STUDIO-YOUTUBE- 1.58 M subscribers. ONLINE CLASSES- watsapp 9825373973 ACHYUTAM KESHAVAM👇👇 https://youtu.be/IGWe4g4i8XQ
-    location: "Thailand"
-    followers: 68152
-    engagement: 296
-    commentsToLikes: 0.014279
-    id: ckapal2k0wjdn0i78c2jua3ex
-    verified: false
-    hashtags: "#weddingchoices, #reelsinstagram, #dancersofsurat, #dancersofinstagram"
   - username: "mystreet.studio"
     fullname: >-
       Mystreet.studio
@@ -115,16 +127,4 @@ profiles:
     id: ckap8as5bnktc0i7878yo9byf
     verified: false
     hashtags: "#travelphotography, #body, #explorepage, #investinyourself"
-  - username: "omy_albluenary"
-    fullname: >-
-      Omy
-    bio: >-
-      
-    location: "Thailand"
-    followers: 10508
-    engagement: 892
-    commentsToLikes: 0.021029
-    id: ck15qazje1yym0i19eoka5zxw
-    verified: false
-    hashtags: "#chiangmaithailand, #chiangmai, #thailand, #citygirls"
 ---

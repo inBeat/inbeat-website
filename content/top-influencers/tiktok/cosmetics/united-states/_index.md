@@ -1,11 +1,11 @@
 ---
-title: Top 10 Cosmetics TikTok Influencers In United States In 2023
+title: Top 10 Cosmetics TikTok Influencers In United States In 2024
 description: >-
-  Find top cosmetics TikTok influencers in United States in 2023. Most popular hashtags: #fyp #duet #makeup #smallbusiness.
+  Find top cosmetics TikTok influencers in United States in 2024. Most popular hashtags: #duet #fyp #makeup #smallbusiness.
 platform: TikTok
 hits: 190
-text_top: See the top-rated TikTok profiles on inBeat.
-text_bottom: inBeat aggregates 190 TikTok influencers like this in United States for you to work with.
+text_top: Identify the most popular TikTok influencers on inBeat.
+text_bottom: Our search engine holds 190 TikTok influencers like this in United States for you to collaborate.
 profiles:
   - username: "lipfix_cosmetics"
     fullname: >-
@@ -97,12 +97,12 @@ profiles:
     bio: >-
       The Official L.A. Girl Cosmetics Tik Tok💄 Cruelty Free 🐰 www.lagirlusa.com
     location: "United States"
-    followers: 34500
-    engagement: 1096
-    commentsToLikes: 0.068123
+    followers: 40000
+    engagement: 935
+    commentsToLikes: 0.067037
     id: ck8w5alsr9s8g0j78eg967opq
     verified: false
-    hashtags: "#inlove, #eyeshadow, #lagirlcosmetics, #gamingsetup"
+    hashtags: "#getcrocd, #lagirlcosmetics, #lagirlvacay, #fyp"
   - username: "askdrjason"
     fullname: >-
       Dr Jason

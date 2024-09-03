@@ -1,11 +1,11 @@
 ---
-title: Top 10 Tattoo-Artists TikTok Influencers In New York In 2023
+title: Top 10 Tattoo-Artists TikTok Influencers In New York In 2024
 description: >-
-  Find top tattoo-artists TikTok influencers in New York in 2023. Most popular hashtags: #fyp #foryou #tattoo #duet.
+  Find top tattoo-artists TikTok influencers in New York in 2024. Most popular hashtags: #fyp #foryou #tattoo #tattooartist.
 platform: TikTok
-hits: 9
-text_top: Analyze the best TikTok profiles on inBeat.
-text_bottom: Our search engine aggregates 9 TikTok influencers like this in New York, United States for you to pitch.
+hits: 8
+text_top: Discover the best TikTok influencers on inBeat.
+text_bottom: Our database has 8 TikTok influencers like this in New York, United States for you to contact.
 profiles:
   - username: "tattoosbyandrea"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.010295
     id: ck8qi56m07sj30j78fkp9i060
     verified: false
-    hashtags: "#greenscreen, #fyp, #tattooartist, #destinationdepop"
+    hashtags: "#ifeelweightless, #tattooer, #duet, #tattoo"
   - username: "kayfeenz"
     fullname: >-
       Kayfeenz
@@ -42,19 +42,19 @@ profiles:
     commentsToLikes: 0.154886
     id: ckbf0gp25m4ne0j23g0sm7gfw
     verified: false
-    hashtags: "#art, #design, #tattooartist, #foryou"
+    hashtags: "#nyc, #fyp, #pearls, #woman"
   - username: "bigtimemikee"
     fullname: >-
       Bigtimemikee
     bio: >-
       Gamer 🎮 photographer 📸 Videographer 🎥
     location: "United States"
-    followers: 12800
-    engagement: 1156
-    commentsToLikes: 0.028023
+    followers: 12700
+    engagement: 1151
+    commentsToLikes: 0.027149
     id: ckb9b6uelx67g0j23j4vd4fmu
     verified: false
-    hashtags: "#codwarzone, #warzoneclips, #modernwarfare, #2020"
+    hashtags: "#fyp, #warzoneclips, #codwarzone, #ps4"
   - username: "thetatos.bar"
     fullname: >-
       Tatos.Bar
@@ -78,7 +78,7 @@ profiles:
     commentsToLikes: 0.017471
     id: ckbrankn0oxv00j23c60v2ovy
     verified: false
-    hashtags: "#foryou, #eatemup, #scoobdance, #painting"
+    hashtags: "#foryou, #painting, #fyp, #eatemup"
   - username: "livcharetteofficial"
     fullname: >-
       livcharette
@@ -90,19 +90,7 @@ profiles:
     commentsToLikes: 0.041747
     id: ckd095cktbfv20j232okl2lah
     verified: true
-    hashtags: "#onewordsongchallenge, #singingchallenge, #fidoboostchallenge, #tinymic"
-  - username: "theewavegoddess"
-    fullname: >-
-      Nancy Lyn
-    bio: >-
-      IG:TheeWaveGoddess CASHAPP:WaveBlock631 Chronic pain/illness warrior BBW Gamer
-    location: "United States"
-    followers: 39700
-    engagement: 1354
-    commentsToLikes: 0.089210
-    id: ckbes9tt9b2q80j233slbx4qq
-    verified: false
-    hashtags: "#videosnapchallenge, #duet, #thiccc, #beauty"
+    hashtags: "#onewordsongchallenge, #fidoboostchallenge, #pickanamechallenge, #singingchallenge"
   - username: "giapupia"
     fullname: >-
       enragedfeminist
@@ -127,4 +115,16 @@ profiles:
     id: ckd5ljrnqvu7n0j23z4jclhy9
     verified: false
     hashtags: "#stitch, #tattooartist, #tattooartistsoftiktok, #tattoos"
+  - username: "chelctattoos"
+    fullname: >-
+      ChelC
+    bio: >-
+      MN Tattoo Artist 🏳️‍🌈💍 @space_case Pan/Polyam💖 She/her $ChelCtattoos
+    location: "United States"
+    followers: 14800
+    engagement: 1743
+    commentsToLikes: 0.058130
+    id: ckd6xl5tguj3l0j23b4xeypuj
+    verified: false
+    hashtags: "#greenscreen, #greenscreenvideo, #inverted, #studioghibli"
 ---

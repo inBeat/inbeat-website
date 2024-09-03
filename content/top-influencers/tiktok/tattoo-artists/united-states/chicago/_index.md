@@ -1,11 +1,11 @@
 ---
-title: Top 10 Tattoo-Artists TikTok Influencers In Chicago In 2023
+title: Top 10 Tattoo-Artists TikTok Influencers In Chicago In 2024
 description: >-
-  Find top tattoo-artists TikTok influencers in Chicago in 2023. Most popular hashtags: #fyp #tattoo #tattooartist #tattoos.
+  Find top tattoo-artists TikTok influencers in Chicago in 2024. Most popular hashtags: #fyp #tattooartist #tattoo #tattoos.
 platform: TikTok
 hits: 4
-text_top: Identify the best TikTok profiles on inBeat.
-text_bottom: Our search engine has 4 TikTok influencers like this in Chicago, United States for you to contact.
+text_top: Identify the best TikTok accounts on inBeat.
+text_bottom: inBeat holds 4 TikTok influencers like this in Chicago, United States for you to work with.
 profiles:
   - username: "tattoosby_edwin"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.026540
     id: ckc7tb15vxqvf0j236l9kvpct
     verified: false
-    hashtags: "#selfmade, #southside, #18withadream, #tattoo"
+    hashtags: "#selfmade, #southside, #18withadream, #fyp"
   - username: "bodyart_96"
     fullname: >-
       Bodyartpiercings
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.135411
     id: ckad5o13zvmp20i78nlxj31sb
     verified: true
-    hashtags: "#chicano, #fyp, #tattooartist, #lettering"
+    hashtags: "#tattooartist, #ifeelweightless, #fyp, #lettering"
   - username: "josueguerrero89"
     fullname: >-
       Josue GUERRERO
@@ -78,7 +78,7 @@ profiles:
     commentsToLikes: 0.058130
     id: ckd6xl5tguj3l0j23b4xeypuj
     verified: false
-    hashtags: "#greenscreenvideo, #inverted, #studioghibli, #fyp"
+    hashtags: "#greenscreen, #greenscreenvideo, #inverted, #studioghibli"
   - username: "mr.tattooguy1"
     fullname: >-
       Everett
@@ -97,12 +97,12 @@ profiles:
     bio: >-
       33 | Tattoo artist, illustrator, emotional about everything. They/Them
     location: "United States"
-    followers: 20600
-    engagement: 1286
-    commentsToLikes: 0.069516
+    followers: 21100
+    engagement: 1397
+    commentsToLikes: 0.080039
     id: ckcjibry2cq620j23eicft11r
     verified: false
-    hashtags: "#elijorgensen, #drawing, #seattletattooartist, #queertattooartist"
+    hashtags: "#queertattooartist, #seattletattooartist, #fyp, #elijorgensen"
   - username: "ceciliamarietattoos"
     fullname: >-
       Cecilia Marie
@@ -114,7 +114,7 @@ profiles:
     commentsToLikes: 0.053516
     id: ckd6wvwcjt4x60j23lbbo8d09
     verified: false
-    hashtags: "#757, #fyp, #ceciliamarietattoos, #witchesoftiktok"
+    hashtags: "#witchesoftiktok, #tattooartistsoftiktok, #757, #fyp"
   - username: "alastorwrath"
     fullname: >-
       Noel Garcia

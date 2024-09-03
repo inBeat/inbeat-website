@@ -1,11 +1,11 @@
 ---
-title: Top 10 Food TikTok Influencers In Colombia In 2023
+title: Top 10 Food TikTok Influencers In Colombia In 2024
 description: >-
-  Find top food TikTok influencers in Colombia in 2023. Most popular hashtags: #parati #colombia #food #viral.
+  Find top food TikTok influencers in Colombia in 2024. Most popular hashtags: #parati #colombia #food #viral.
 platform: TikTok
 hits: 33
-text_top: Analyze the top-rated TikTok profiles on inBeat.
-text_bottom: Our platform holds 33 TikTok influencers like this in Colombia for you to contact.
+text_top: See the best TikTok profiles on inBeat.
+text_bottom: Our platform has 33 TikTok influencers like this in Colombia for you to connect with.
 profiles:
   - username: "wilbergodoyc"
     fullname: >-

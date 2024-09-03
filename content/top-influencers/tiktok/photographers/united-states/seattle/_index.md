@@ -1,11 +1,11 @@
 ---
-title: Top 10 Photographers TikTok Influencers In Seattle In 2023
+title: Top 10 Photographers TikTok Influencers In Seattle In 2024
 description: >-
-  Find top photographers TikTok influencers in Seattle in 2023. Most popular hashtags: #seattle #fyp #washington #washingtoncheck.
+  Find top photographers TikTok influencers in Seattle in 2024. Most popular hashtags: #fyp #seattle #washington #washingtoncheck.
 platform: TikTok
 hits: 15
-text_top: Analyze the most popular TikTok accounts on inBeat.
-text_bottom: Our search engine holds 15 TikTok influencers like this in Seattle, United States for you to work with.
+text_top: Discover the most popular TikTok accounts on inBeat.
+text_bottom: Our platform has 15 TikTok influencers like this in Seattle, United States for you to pitch.
 profiles:
   - username: "amypainephoto"
     fullname: >-
@@ -30,19 +30,19 @@ profiles:
     commentsToLikes: 0.016952
     id: ck80osfx3jqa60j78365cxktv
     verified: false
-    hashtags: "#washingtoncheck, #pnw, #washington, #nature"
+    hashtags: "#washington, #washingtoncheck, #pnw, #deathvalley"
   - username: "jordantrichards"
     fullname: >-
       Jordan Richards
     bio: >-
       outdoorsy ✌🏻 25 designer + photographer + traveler 📍Seattle, Washington
     location: "United States"
-    followers: 36800
-    engagement: 1053
-    commentsToLikes: 0.012961
+    followers: 36700
+    engagement: 1146
+    commentsToLikes: 0.012279
     id: ck9r4x1svx4am0j78xxgsoukv
     verified: false
-    hashtags: "#seattle, #washingtoncheck, #fyp, #earthday"
+    hashtags: "#pnwcheck, #washingtoncheck, #explore, #pnwlife"
   - username: "emitoms"
     fullname: >-
       emitoms
@@ -90,7 +90,7 @@ profiles:
     commentsToLikes: 0.105671
     id: ckbal4bdoc1ot0j23d8elym7b
     verified: false
-    hashtags: "#duet, #boys, #cosplay, #goldengirls"
+    hashtags: "#comedy, #letitgo, #boys, #cosplay"
   - username: "maegangrendellphoto"
     fullname: >-
       maegan grendell

@@ -1,12 +1,36 @@
 ---
-title: Top 10 Comedians Instagram Influencers In United States In 2023
+title: Top 10 Comedians Instagram Influencers In United States In 2024
 description: >-
-  Find top comedians Instagram influencers in United States in 2023. Most popular hashtags: #christmas #ad #phoenix.
+  Find top comedians Instagram influencers in United States in 2024. Most popular hashtags: #comedy #family #christmas.
 platform: Instagram
-hits: 945
-text_top: Discover the best Instagram profiles on inBeat.
-text_bottom: Our search engine holds 945 Instagram influencers like this in United States for you to pitch.
+hits: 1032
+text_top: Discover the best Instagram accounts on inBeat.
+text_bottom: Our search engine has 1032 Instagram influencers like this in United States for you to collaborate.
 profiles:
+  - username: "biancacristovao"
+    fullname: >-
+      Bianca Cristovao
+    bio: >-
+      Comedian 🇺🇸🇨🇿
+    location: "United States"
+    followers: 18071
+    engagement: 1951
+    commentsToLikes: 0.015793
+    id: ck8sypd0flhi70j78pgpdpwbo
+    verified: false
+    hashtags: "#funnyvideos, #standup, #standupcomedy, #datingadvice"
+  - username: "tonyhinchcliffe"
+    fullname: >-
+      Tony Hinchcliffe
+    bio: >-
+      Comedian
+    location: "United States"
+    followers: 393852
+    engagement: 129
+    commentsToLikes: 0.061537
+    id: ck0w02zoyc4n00i198zm16id0
+    verified: true
+    hashtags: "#repost"
   - username: "daveattell"
     fullname: >-
       Dave Attell
@@ -19,6 +43,18 @@ profiles:
     id: ck0u6tk9o2zp60i19zvoayxgm
     verified: true
     hashtags: "#bumpingmics, #2009vs2019, #phoenix, #happyhalloween"
+  - username: "mphopopps"
+    fullname: >-
+      Mpho Popps Modikoane
+    bio: >-
+      Comedian
+    location: "United States"
+    followers: 195772
+    engagement: 133
+    commentsToLikes: 0.028621
+    id: ck5qdme1dwai70i11a2bzcyt0
+    verified: false
+    hashtags: "#mphopoppscomedy, #tbt, #itcanbe, #ubettinawethu"
   - username: "vinniemontez"
     fullname: >-
       Vinnie Montez
@@ -55,30 +91,6 @@ profiles:
     id: ck55my8fz53330i110hi03oon
     verified: true
     hashtags: "#christmastree, #love, #jimmycarter, #coming2america"
-  - username: "biancacristovao"
-    fullname: >-
-      Bianca Cristovao
-    bio: >-
-      Comedian
-    location: "United States"
-    followers: 15467
-    engagement: 382
-    commentsToLikes: 0.016869
-    id: ck8sypd0flhi70j78pgpdpwbo
-    verified: false
-    hashtags: "#loveyourself, #lovinginamerica, #blackouttuesday, #expressiveart"
-  - username: "jimjefferies"
-    fullname: >-
-      Jim Jefferies
-    bio: >-
-      Comedian
-    location: "United States"
-    followers: 310331
-    engagement: 123
-    commentsToLikes: 0.018197
-    id: ck0u9nd4ga89b0i19jlqwzcal
-    verified: true
-    hashtags: ""
   - username: "harikondabolu"
     fullname: >-
       Hari Kondabolu
@@ -91,40 +103,28 @@ profiles:
     id: ck14kbdf0oojh0i19kf7gvhft
     verified: true
     hashtags: ""
-  - username: "mallowfrenchie"
+  - username: "helloqori"
     fullname: >-
-      Mallow Frenchie
+      QORI B. | Creative Genius
     bio: >-
-      ✨ big diva energy 🐷 thicc lil comedian & snaggletooth queen 🫶🏻 snacks, naps, & epic adventures — Miami & beyond 📸 as seen in @Forbes & @MiamiNewTimes
+      📍ATL/NYC ⚡️Art Dir., Illustrator + Brand Design 💫 My lifestyle as a creator, hip-hop fan, & lowkey comedian 🍒🦉 Qori@HelloQori.com
     location: "United States"
-    followers: 62212
-    engagement: 246
-    commentsToLikes: 0.079741
-    id: ck0vv2ltyn96t0i19k1lpj8qh
+    followers: 23674
+    engagement: 1673
+    commentsToLikes: 0.033561
+    id: ckzrlo3vp0hy20i23eo09w1nu
     verified: false
-    hashtags: "#pawlidaywishlist, #petfriendly, #sponsored, #friyay"
-  - username: "ibnicolearbour"
+    hashtags: "#omfambassador, #itsyourjourney, #hyundaipartner, #omf23"
+  - username: "laurenzside"
     fullname: >-
-      Nicole Arbour
+      LaurenzSide
     bio: >-
-      Comedian, Music Maker, Creative, Truth Teller. #GOTEAM #GoodVibes Click below! 💁🏼‍♀️⬇️
+      ⭐️ Self-Proclaimed Gaming Comedian 💜 8M+ On YouTube ⭐️ Everything is Creepy Podcast Host 💜 @bobizard13 is my Player 2 👇🏻 Click below for EVERYTHING
     location: "United States"
-    followers: 1717285
-    engagement: 56
-    commentsToLikes: 0.021024
-    id: ck5q1cv2lae270i11wyw0zm1f
+    followers: 771153
+    engagement: 402
+    commentsToLikes: 0.009178
+    id: ck5pztj402o7w0i11onbatv3i
     verified: true
-    hashtags: "#storm, #finallyhaveashotwithelon, #ishouldthough, #liverking"
-  - username: "tonybaker"
-    fullname: >-
-      Tony Baker
-    bio: >-
-      Actor/Stand Up Comedian. Youtube: Tony Baker Comedy Instagram: @tonybakerrandomly Facebook: @TonyBakerComedyPage TURN ON MY NOTIFICATIONS 👆🏾
-    location: "United States"
-    followers: 2529132
-    engagement: 34
-    commentsToLikes: 0.046869
-    id: cl34yj62dzu5q0i237lz5qnuw
-    verified: false
-    hashtags: "#tonybakerontheshelves, #thefabulousbakerboyz, #la, #burbank"
+    hashtags: "#vidconblt23, #alienwarepartner, #rtxon, #vlog"
 ---

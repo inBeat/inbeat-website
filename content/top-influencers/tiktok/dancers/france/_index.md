@@ -1,11 +1,11 @@
 ---
-title: Top 10 Dancers TikTok Influencers In France In 2023
+title: Top 10 Dancers TikTok Influencers In France In 2024
 description: >-
-  Find top dancers TikTok influencers in France in 2023. Most popular hashtags: #pourtoi #fyp #dance #foryou.
+  Find top dancers TikTok influencers in France in 2024. Most popular hashtags: #pourtoi #fyp #dance #foryou.
 platform: TikTok
-hits: 85
-text_top: See the best TikTok accounts on inBeat.
-text_bottom: Our database aggregates 85 TikTok influencers like this in France for you to contact.
+hits: 84
+text_top: Analyze the most popular TikTok profiles on inBeat.
+text_bottom: inBeat has 84 TikTok influencers like this in France for you to pitch.
 profiles:
   - username: "myriamkermia"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.058972
     id: ckbfew57698a10j23lkkof2lq
     verified: true
-    hashtags: "#dance, #ad, #fyp, #pourtoi"
+    hashtags: "#ad, #fyp, #pourtoi, #dance"
   - username: "leo.polo"
     fullname: >-
       Léo Polo
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.014887
     id: ckcvjogw0x5rl0j23slh1le2a
     verified: false
-    hashtags: "#fyp, #vlog, #foryou, #happybirthday"
+    hashtags: "#happybirthday, #fyp, #vlog, #foryou"
   - username: "enzogco"
     fullname: >-
       Enzo
@@ -66,7 +66,7 @@ profiles:
     commentsToLikes: 0.108675
     id: ck8zasmnh2tn90j783y8awg68
     verified: false
-    hashtags: "#dancing, #foryou, #tiktok, #pourtoii"
+    hashtags: "#pourtoi, #dancer, #4u, #4upage"
   - username: "ornellux__"
     fullname: >-
       Ornellux
@@ -114,7 +114,7 @@ profiles:
     commentsToLikes: 0.038829
     id: ck9kfggsj3ctu0j78hbmik1ma
     verified: false
-    hashtags: "#challengeoftheday, #pourtoi, #jerestechezmoi, #poolchallenge"
+    hashtags: "#challengeoftheday, #pourtoi, #jerestechezmoi, #hiphopdance"
   - username: "zaffar_liquifire"
     fullname: >-
       Zaffar Liquifire

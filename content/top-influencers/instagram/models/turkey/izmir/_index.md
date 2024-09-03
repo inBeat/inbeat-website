@@ -1,11 +1,11 @@
 ---
-title: Top 10 Models Instagram Influencers In Izmir In 2023
+title: Top 10 Models Instagram Influencers In Izmir In 2024
 description: >-
-  Find top models Instagram influencers in Izmir in 2023. Most popular hashtags: #izmir #model #istanbul #photo.
+  Find top models Instagram influencers in Izmir in 2024. Most popular hashtags: #izmir #model #photo #istanbul.
 platform: Instagram
-hits: 56
-text_top: Identify the top-rated Instagram influencers on inBeat.
-text_bottom: Our search engine aggregates 56 Instagram influencers like this in Izmir, Turkey for you to contact.
+hits: 50
+text_top: Discover the best Instagram accounts on inBeat.
+text_bottom: Our database aggregates 50 Instagram influencers like this in Izmir, Turkey for you to work with.
 profiles:
   - username: "umuttozcan"
     fullname: >-
@@ -31,6 +31,18 @@ profiles:
     id: ck14k97vlodr60i19ewd4lvgy
     verified: false
     hashtags: "#tarz, #toptan, #style, #turkey"
+  - username: "zeynepbarker"
+    fullname: >-
+      Zeynep Öğüt ✨
+    bio: >-
+      Hayata kalbiyle poz veren kadın ✨ Her şeyden biraz 🫧 Reklam ve iş birliği için dm 🤝👉🏻
+    location: "Turkey"
+    followers: 56286
+    engagement: 39
+    commentsToLikes: 0.009454
+    id: ck9hb90urfuz50j78hxvapwq5
+    verified: false
+    hashtags: "#naturelovers, #do, #ni, #ke"
   - username: "makeupbymahsima"
     fullname: >-
       Mahsima
@@ -115,16 +127,4 @@ profiles:
     id: ck5ca2qshcl140i11atatabbq
     verified: false
     hashtags: "#mardin, #foto, #fashionweek, #podyum"
-  - username: "nurayalpaslanofficial"
-    fullname: >-
-      ✌️🤍 NURAY ALPASLAN OFFICIAL
-    bio: >-
-      🤍 💛 Always Be Happy ⓁⒺⓉ’Ⓢ ⒹⒶⓃⒸⒺ ⓉⓄⒼⒺⓉⒽⒺⓇ 💛 🤍 Professional Dancer💃 Choreographer 👯‍♀️ Model 📷 Dance shoes sponsered 👠 @pivaccisocialdance
-    location: "Turkey"
-    followers: 10589
-    engagement: 344
-    commentsToLikes: 0.052490
-    id: ck5c9wdiwc93g0i11zxjqcn7r
-    verified: false
-    hashtags: "#ig, #dancevideo, #motivationmonday, #positivevibes"
 ---

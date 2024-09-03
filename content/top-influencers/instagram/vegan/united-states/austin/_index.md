@@ -1,11 +1,11 @@
 ---
-title: Top 10 Vegan Instagram Influencers In Austin In 2023
+title: Top 10 Vegan Instagram Influencers In Austin In 2024
 description: >-
-  Find top vegan Instagram influencers in Austin in 2023. Most popular hashtags: #vegan #austintexas #easyrecipes.
+  Find top vegan Instagram influencers in Austin in 2024. Most popular hashtags: #vegan #brunch #austinblogger #austintexas.
 platform: Instagram
-hits: 37
-text_top: See the most popular Instagram accounts on inBeat.
-text_bottom: inBeat holds 37 Instagram influencers like this in Austin, United States for you to collaborate.
+hits: 73
+text_top: Analyze the most popular Instagram influencers on inBeat.
+text_bottom: inBeat aggregates 73 Instagram influencers like this in Austin, United States for you to pitch.
 profiles:
   - username: "modernveganfam"
     fullname: >-
@@ -18,19 +18,31 @@ profiles:
     commentsToLikes: 0.107700
     id: ck0vw3p88rylr0i19by1o7z2o
     verified: false
-    hashtags: "#atxvegan, #wfpb, #healthyfood, #topveganplaces"
-  - username: "treysphotostudio"
+    hashtags: "#healthyfood, #bestofvegan, #vegan, #plantbased"
+  - username: "travelynnwithb"
     fullname: >-
-      Carlos Trey Salazar
+      Brandi 🌸 Lifestyle & Travel
     bio: >-
-      DM for info, rates & bookings or request prints of any photos. Prints and 🔞 Content.
+      ♥ Based in Austin, Texas ♥ Activities, good eats & travel tips ♥ Keller Williams ♥ brandi.lynn.bunce@gmail.com
     location: "United States"
-    followers: 49352
-    engagement: 245
-    commentsToLikes: 0.008837
-    id: ck0u7dmlb4j800i19smx609sw
+    followers: 9115
+    engagement: 183
+    commentsToLikes: 0.329160
+    id: clinfitqwgnma0j08x1o045pn
     verified: false
-    hashtags: "#studiophotography, #austintx, #austintxphotographer, #malefashion"
+    hashtags: "#ellieinthehouse, #loveellie, #elliepartner, #ellieactivewear"
+  - username: "novaruu"
+    fullname: >-
+      ✨ Novaruu ✨( Sarina Desiree )
+    bio: >-
+      cat mom | streamer & model | 25 | austin tx | vegan🌱 backup account: @novaxruu Personal: @sarinaruu
+    location: "United States"
+    followers: 152390
+    engagement: 319
+    commentsToLikes: 0.019079
+    id: ck5cabm73d3w40i11gaecjbym
+    verified: false
+    hashtags: "#explore, #blonde, #twitch, #blondehair"
   - username: "twoolf29"
     fullname: >-
       Troy Woolfolk
@@ -55,76 +67,64 @@ profiles:
     id: ckaozs50jn5xc0i7844bpf7zw
     verified: false
     hashtags: "#arizona, #phoenix, #scottsdale, #travel"
-  - username: "keith_laue"
+  - username: "lanaato"
     fullname: >-
-      Keith Laue
+      Lana Ato | Family Lifestyle & Travel
     bio: >-
-      Austin Model 📸 Videographer  Vegan 🥝 Papa 👨🏽 Eco-Friendly 🌏 Email for inquiries ✉️
+      Exploring AUSTIN and BEYOND 🌎 vegan. mom of 2. 🇺🇦🇳🇬 fam. collab@lanaato.com www.lanaato.com
     location: "United States"
-    followers: 131583
-    engagement: 746
-    commentsToLikes: 0.014480
-    id: ckaozkm3pmag70i78acp1swsp
+    followers: 100683
+    engagement: 330
+    commentsToLikes: 0.006596
+    id: ck15qhmp12vtw0i195tjzgrvy
     verified: false
-    hashtags: "#modellingshoot, #modelscout, #modelos, #modello"
-  - username: "rachelgurjar"
+    hashtags: "#austinmom, #sxsw2024, #sxswblogger, #sponsored"
+  - username: "atx_bites"
     fullname: >-
-      Rachel Gurjar
+      Shveta Moller / Foodblogger
     bio: >-
-      🇮🇳 Immigrant | Mumbai & NY Associate Food Editor @bonappetitmag
+      Introducing you to your new favorites across town by showcasing the best bites (and sometimes drinks) ATX has to offer! 👇🏽 Everything ATXBites
     location: "United States"
-    followers: 59323
-    engagement: 72
-    commentsToLikes: 0.049113
-    id: ck8t42nsb5afx0j786v1pamdp
+    followers: 15810
+    engagement: 11
+    commentsToLikes: 0.000000
+    id: clhry4pm28wzj0j08mj0aivip
     verified: false
-    hashtags: "#cocktails, #grilledchicken, #chicken, #ad"
-  - username: "harleyquinnsmith"
+    hashtags: "#wine, #atxbitesrecommends, #eateratx, #atx"
+  - username: "legswithlinda"
     fullname: >-
-      Harley Quinn Smith 🧚🏻‍♀️
+      ʟɪɴᴅᴀ ʟɪᴅᴜᴍᴀ•ᴏɴʟɪɴᴇ ᴄᴏᴀᴄʜ
     bio: >-
-      a friend to all animals🐇🦃🐳🐮🦊🐘, actor, bassist / vocalist in @thetenthband and cohost of @veganabattoir
+      Strength & Nutrition Coach Pre/Post Natal exercise specialist 🤰 @foundationusa ⚒ @prumattfit 🔥 @nutre_meals / code Linda 📩Join Online Coaching ⬇️
     location: "United States"
-    followers: 276381
-    engagement: 497
-    commentsToLikes: 0.012380
-    id: ck0uakel2cien0i19jl6jelvv
-    verified: true
-    hashtags: "#callmekat"
-  - username: "healthfulblondie"
-    fullname: >-
-      Tati Chermayeff
-    bio: >-
-      real food lover creating fresh & simple recipes 🌱 📍🌵 Austin, TX healthy eats // delicious treats // @harvard grad 💌 healthfulblondie@gmail.com
-    location: "United States"
-    followers: 30814
-    engagement: 256
-    commentsToLikes: 0.155196
-    id: ck9hbo5w8hpmg0j78iqkx0zpy
+    followers: 20775
+    engagement: 549
+    commentsToLikes: 0.023983
+    id: ckqyz4a0q49fq0j233ss2fdpa
     verified: false
-    hashtags: "#healthysnacks, #easydinner, #healthypancakes, #healthyfood"
-  - username: "sambentley"
+    hashtags: "#legswithlinda, #npcwellness, #womenwholift, #powerlifting"
+  - username: "jvayavinat"
     fullname: >-
-      Sam | Sustainable Living
+      JANAKEY
     bio: >-
-      ☼ i like to make art, kombucha and content about sustainable living ⌂ austin tx ⚘ save the bees ♡ vegan ☉ forbes 30 under 30
+      ✨ Beauty | Skincare | Home | Lifestyle | Kitchen ✨ SAHM to 3 kids! ✨ Content creator | Photography | UGC 📍 🇺🇸 Austin TX
     location: "United States"
-    followers: 19753
-    engagement: 331
-    commentsToLikes: 0.056596
-    id: ck5bt9hucfkmh0i11wby8wlz3
-    verified: true
-    hashtags: "#planetkindpartner, #savethebees, #ad, #planetkind"
-  - username: "rachel_hillll"
-    fullname: >-
-      Rachel
-    bio: >-
-      📍Austin #chivette ☺️👇🏼Message me
-    location: "United States"
-    followers: 81212
-    engagement: 439
-    commentsToLikes: 0.017297
-    id: ck5hdt3s2p8mf0i11ew2uv85h
+    followers: 34985
+    engagement: 361
+    commentsToLikes: 0.040982
+    id: cl78lppyrq2tp0i23vq7wqh6g
     verified: false
-    hashtags: "#superfood, #coffeeblend, #gratefulearth, #mentalhealth"
+    hashtags: "#explore, #atxinfluencer, #toddlersofinstagram, #lifestyleblogger"
+  - username: "eatindallas"
+    fullname: >-
+      Eat in Dallas - Josh Wilbanks
+    bio: >-
+      📍Your guide to Dallas • Texas • DFW ⭐️ North Texas hot spots & hidden 💎s 🏆 Best Food Influencer | @dallasobserver 📧 eatindallas@gmail.com TIKTOK 110K
+    location: "United States"
+    followers: 123950
+    engagement: 514
+    commentsToLikes: 0.044387
+    id: cl2uhrvrzu98n0i23pfexpnvx
+    verified: false
+    hashtags: "#mexicanfood, #dfweats, #dallasrestaurants, #dallasfoodie"
 ---

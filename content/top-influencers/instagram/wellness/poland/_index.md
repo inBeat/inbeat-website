@@ -1,24 +1,24 @@
 ---
-title: Top 10 Wellness Instagram Influencers In Poland In 2023
+title: Top 10 Wellness Instagram Influencers In Poland In 2024
 description: >-
-  Find top wellness Instagram influencers in Poland in 2023. Most popular hashtags: #wellness #smile #makeup #polskadziewczyna.
+  Find top wellness Instagram influencers in Poland in 2024. Most popular hashtags: #wellness #polskadziewczyna #wakacje #polskakobieta.
 platform: Instagram
-hits: 27
-text_top: Discover the most popular Instagram profiles on inBeat.
-text_bottom: Our platform holds 27 Instagram influencers like this in Poland for you to work with.
+hits: 38
+text_top: See the most popular Instagram accounts on inBeat.
+text_bottom: Our platform holds 38 Instagram influencers like this in Poland for you to connect with.
 profiles:
-  - username: "kasiaharmony"
+  - username: "livebetterpl"
     fullname: >-
-      Kasia Harmony
+      Julia Ziółkowska | wellness, selfcare, selflove
     bio: >-
-      • healthyfood • natural medicine • vegetarian lifestyle 🌱 #doterra wellness advocate, join me 👉 9448371 📍 Warszawa/ Poland 📮Kasia@harmonylife.style
+      𖦹 holistyczny selfcare i wellness 𖦹 minimalistyczna moda i szafa kapsułowa 🎧Live Better Podcast 👉🏻 Posłuchaj na Spotify i iTunes
     location: "Poland"
-    followers: 46761
-    engagement: 371
-    commentsToLikes: 0.040780
-    id: ck5zx2fe577tv0i1434us37ir
+    followers: 71302
+    engagement: 214
+    commentsToLikes: 0.049444
+    id: ck0u29h61zbgi0i19rtrng2nc
     verified: false
-    hashtags: "#wsp, #podk, #ksi, #coreczkamamusi"
+    hashtags: "#codziennerytua, #dailyrituals, #wellnesslifestyle, #livebetterpl"
   - username: "natalia_grzyb"
     fullname: >-
       NATALIA GRZYB
@@ -31,18 +31,6 @@ profiles:
     id: ck13amu0cr5gz0i19sp6hvet4
     verified: false
     hashtags: "#woman, #athlete, #mondaymotivation, #akopteam"
-  - username: "carmelatte"
-    fullname: >-
-      Klaudia
-    bio: >-
-      💁🏻‍♀️Slow Fashion•Travel•Wellness 🎥Stories Series: •Travel Tuesdays •Slow Fashion Thursdays 🐐Co-owner @kozaibrzoza (BnB in the mountains)
-    location: "Poland"
-    followers: 48331
-    engagement: 100
-    commentsToLikes: 0.114647
-    id: ck6tqkdqpry2o0j71kokocyce
-    verified: false
-    hashtags: "#fashionaddict, #bohoinspired, #wearthisnext, #slowfashionmovement"
   - username: "dagadomi_fit"
     fullname: >-
       Daga Dominiczak
@@ -55,18 +43,6 @@ profiles:
     id: ck5q9w04hdabm0i1118trwpka
     verified: false
     hashtags: "#formotivagirl, #schroniskopegasus, #sunday, #fitness"
-  - username: "claudiaciesla"
-    fullname: >-
-      Claudia Ciesla
-    bio: >-
-      🇩🇪🇵🇱#Actress in🇮🇳 🥗#Nutritionist #wellnesscoach 🤙Contact: Claudia.enquiry@gmail.com
-    location: "Poland"
-    followers: 428713
-    engagement: 63
-    commentsToLikes: 0.018715
-    id: ck0vwp4equw9u0i19043e4pxs
-    verified: true
-    hashtags: "#travel, #smile, #bliss, #claudiaciesla"
   - username: "hotelarlamow"
     fullname: >-
       Hotel Arłamów
@@ -91,40 +67,64 @@ profiles:
     id: ck15t97yegy9f0i1929exv4ah
     verified: true
     hashtags: "#ziajaskincare, #peeling, #beauty, #focusonskin"
+  - username: "helen_maroulis"
+    fullname: >-
+      Helen Maroulis
+    bio: >-
+      @whenwebandtogether @wrestlelikeagirl_ @beatthestreetsnational @dopamineo_world
+    location: "Poland"
+    followers: 224308
+    engagement: 580
+    commentsToLikes: 0.019897
+    id: ck0ucpdiwhg340i19mksfldri
+    verified: true
+    hashtags: "#training, #athletes, #tokyo2020, #japan"
+  - username: "kam.cycling"
+    fullname: >-
+      Kamila Panasiuk
+    bio: >-
+      Female cyclist. Currently dealing with cancer 🦀. Photographer @kamilapanasiuk.photostory ⬇️Check my books 📕
+    location: "Poland"
+    followers: 27293
+    engagement: 407
+    commentsToLikes: 0.037448
+    id: ck15q64s51aj50i19qkmzr63o
+    verified: false
+    hashtags: "#photographer, #cyclingadventures, #cyclingfashion, #cyclinglifestyle"
+  - username: "agabil1"
+    fullname: >-
+      Agnieszka Bil
+    bio: >-
+      blogger photographer lifestyle stylist florist makeupartist Collab ➡️ mail 📩 or direct 📥 My dogs 🐶 @kudly_forever agabj1@gmail.com
+    location: "Poland"
+    followers: 20741
+    engagement: 614
+    commentsToLikes: 0.022179
+    id: ck13bc9tvuqi40i19fttlmsiw
+    verified: false
+    hashtags: "#bag, #dryskin, #fashionstyles2me, #zakupyonline"
+  - username: "vacayesss"
+    fullname: >-
+      Patrycja Bednarek
+    bio: >-
+      • podróże slow&comfy • dobre samopoczucie, zdrowe nawyki • normalizuję depresję • glow up 2023; plant foodie; sober curious 📩 vacayesss@gmail.com
+    location: "Poland"
+    followers: 9984
+    engagement: 451
+    commentsToLikes: 0.040854
+    id: ckaowgps78v1x0i789j8sv4er
+    verified: false
+    hashtags: "#mojepodr, #prettylittletrips, #pielegnacjatwarzy, #traveluje"
   - username: "prawieidealna"
     fullname: >-
-      Joanna👉 Katowice/Ustroń
+      Joanna Malinowska | Katowice
     bio: >-
-      NA STORIES JEST PRAWDZIWE ŻYCIE🔥 Motywuję do działania. Grywam w serialach. Piszę bloga, kręcę vlogi i śmieszne TikToki. Moje social media ↩
+      🎥 Z zamiłowania vlogerka ⛵️ Żegluję bo lubię ♻️ Dążę do minimalizmu Zawodowo: montaż filmów, strony WWW.
     location: "Poland"
-    followers: 21618
-    engagement: 250
+    followers: 14211
+    engagement: 380
     commentsToLikes: 0.148015
     id: ck6udqym7mn810j71ierowrxd
     verified: false
-    hashtags: "#blondynka, #poland, #podr, #minimalstyle"
-  - username: "jm.nowakowska"
-    fullname: >-
-      𝙅𝙤𝙖𝙣𝙣𝙖 𝙈𝙖𝙧𝙞𝙖 𝙉𝙤𝙬𝙖𝙠𝙤𝙬𝙨𝙠𝙖 ✨
-    bio: >-
-      ▪️𝘛𝘰𝘳𝘶𝘯, 𝘗𝘰𝘭𝘢𝘯𝘥🇵🇱 ▪️𝘗𝘦𝘢𝘳𝘭𝘴 𝘔𝘰𝘥𝘦𝘭𝘴 ▪️𝘝𝘰𝘭𝘬𝘴𝘸𝘢𝘨𝘦𝘯 𝘗𝘭𝘪𝘤𝘩𝘵𝘢 𝘛𝘰𝘳𝘶𝘯 👩🏼‍💻 ▪️𝘗𝘰𝘥𝘱𝘳𝘰𝘸𝘢𝘥𝘻𝘢𝘫𝘢𝘤𝘢 @kstorun 🏁 ✉️ 𝘯𝘰𝘸𝘢𝘬𝘰𝘸𝘴𝘬𝘢.𝘫𝘰𝘢𝘯𝘯𝘢𝘢@𝘨𝘮𝘢𝘪𝘭.𝘤𝘰𝘮
-    location: "Poland"
-    followers: 14362
-    engagement: 864
-    commentsToLikes: 0.042239
-    id: ckap81pytmg110i78ytm8cin2
-    verified: false
-    hashtags: "#newcollection, #boutique, #photo, #polishmodels"
-  - username: "ania_qq"
-    fullname: >-
-      Anna Kukawska
-    bio: >-
-      Jedyny oficjalny profil!⁠ #aktorka 🎬 @policjantkipolicjanci⁠ #wokalistka 🎤 @aqqband⁠ 🔜psychoterapeutka pozytywna ⁠☀️ #mama💞🐣 współpraca: ania@world.pl
-    location: "Poland"
-    followers: 26224
-    engagement: 700
-    commentsToLikes: 0.016199
-    id: ck0w08scccyk70i19eb29dqbd
-    verified: false
-    hashtags: "#happy, #momanddaughter, #psychoterapeutka, #actresslife"
+    hashtags: "#blondynka, #minimalizm, #streetstyle, #polska"
 ---

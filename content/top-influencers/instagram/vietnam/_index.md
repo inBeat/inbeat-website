@@ -1,12 +1,36 @@
 ---
-title: Top 10 Instagram Influencers In Vietnam In 2023
+title: Top 10 Instagram Influencers In Vietnam In 2024
 description: >-
-  Find top Instagram influencers in Vietnam in 2023. Most popular hashtags: #dwinvn #dwvietnam #danielwellington.
+  Find top Instagram influencers in Vietnam in 2024. Most popular hashtags: #food #feedfeed #foodphotography.
 platform: Instagram
-hits: 13
-text_top: See the top-rated Instagram accounts on inBeat.
-text_bottom: Our database aggregates 13 Instagram influencers like this in Vietnam for you to pitch.
+hits: 12
+text_top: Discover the best Instagram influencers on inBeat.
+text_bottom: inBeat aggregates 12 Instagram influencers like this in Vietnam for you to connect with.
 profiles:
+  - username: "giangoivlog"
+    fullname: >-
+      Giang Ơi
+    bio: >-
+      Adulthood of a Weirdo 👽 Liên hệ công việc xin gửi email tới ✉️ tan@giangoi.com chứ gửi inbox nó trôi quý vị ơi xin cảm ơn Ấn đây xem video mới nè 👇
+    location: "Vietnam"
+    followers: 510239
+    engagement: 389
+    commentsToLikes: 0.003730
+    id: ck14kgo49pfjq0i196cv1kdri
+    verified: false
+    hashtags: "#27weeks, #con, #applepay"
+  - username: "besteverfoodreviewshow"
+    fullname: >-
+      Sonny
+    bio: >-
+      Hunting down the world’s most unique food! 📍 US / Vietnam Best Ever Coffee - Link Below
+    location: "Vietnam"
+    followers: 457000
+    engagement: 36
+    commentsToLikes: 0.026771
+    id: ck13741ht9o0v0i197uierbhl
+    verified: false
+    hashtags: "#foodexploration, #foodporn, #besteverfoodreviewshow, #pakistan"
   - username: "monstar_key"
     fullname: >-
       KEY
@@ -19,18 +43,6 @@ profiles:
     id: ck15q18g70m2k0i196vl8ox9u
     verified: true
     hashtags: ""
-  - username: "_dieu._.anh"
-    fullname: >-
-      Đoàn Triệu Diệu Anh
-    bio: >-
-      🇻🇳 18 02/01/01 @dieuanhneee
-    location: "Vietnam"
-    followers: 237052
-    engagement: 222
-    commentsToLikes: 0.006518
-    id: ck0tv40nd9u6q0i19d92mdd97
-    verified: false
-    hashtags: "#liptint, #sontint, #danielwellington, #sodacamera"
   - username: "lemaihang"
     fullname: >-
       Lê Mai Hằng
@@ -61,12 +73,12 @@ profiles:
     bio: >-
       • Singer, Vietnam 🇻🇳 • ®️FB: @BaoAnhOfficial
     location: "Vietnam"
-    followers: 2081909
-    engagement: 61
-    commentsToLikes: 0.002521
+    followers: 2035891
+    engagement: 54
+    commentsToLikes: 0.003806
     id: ck13a6fawoudp0i19304logdw
     verified: true
-    hashtags: "#zx, #adidasvn, #adidasoriginals"
+    hashtags: "#dionlee, #nodaleto, #versace"
   - username: "cathylemoine"
     fullname: >-
       Chef Catherine Lemoine
@@ -79,18 +91,6 @@ profiles:
     id: ck137x2ghdh7a0i192xrf3yxt
     verified: true
     hashtags: "#mortal, #brugalleyenda, #chefcathylemoine, #boarshead"
-  - username: "giangoivlog"
-    fullname: >-
-      Giang Ơi
-    bio: >-
-      Adulthood of a Weirdo 👽 Liên hệ công việc xin gửi email tới ✉️ tan@giangoi.com chứ gửi DM nó trôi quý vị ơi xin cảm ơn Ấn đây xem video mới nè 👇
-    location: "Vietnam"
-    followers: 426902
-    engagement: 491
-    commentsToLikes: 0.002459
-    id: ck14kgo49pfjq0i196cv1kdri
-    verified: false
-    hashtags: "#uniqlo1nam, #cuchigang"
   - username: "vietnamtourismboard"
     fullname: >-
       Vietnam Tourism Board
@@ -103,18 +103,6 @@ profiles:
     id: ck0tw3xofdwze0i199jj5985a
     verified: true
     hashtags: "#myvietnam, #whynotvietnam"
-  - username: "besteverfoodreviewshow"
-    fullname: >-
-      Sonny
-    bio: >-
-      Hunting down the world’s most unique food! Based in Vietnam 🇻🇳 Beauty Influencer Email Inquiries: marketing@befrs.com
-    location: "Vietnam"
-    followers: 254374
-    engagement: 138
-    commentsToLikes: 0.027076
-    id: ck13741ht9o0v0i197uierbhl
-    verified: false
-    hashtags: "#asia, #vietnam, #hochiminhcity, #besteverasiabiketrip"
   - username: "foodholicvn"
     fullname: >-
       Ăn Hết Thế Giới
@@ -127,4 +115,16 @@ profiles:
     id: ck0tw3xymdx0n0i19xo2sybld
     verified: false
     hashtags: "#sushi, #foodholicvncafe, #ganuongooo, #soithai"
+  - username: "maryderoux"
+    fullname: >-
+      Đoan Minh
+    bio: >-
+      📸U are what u eat ✈️𝐓𝐫𝐚𝐯𝐞𝐥 💃@saycoffee24h 🇻🇳#mdrsaigon #mdrdalat #mdrhn #mdrvt #mdrSP 🇹🇭#mdrTLD #mdrbkk #mdrCMai 🇸🇬#mdrsing
+    location: "Vietnam"
+    followers: 34416
+    engagement: 85
+    commentsToLikes: 0.010310
+    id: ck15usc4aoca60i19k5lj1oij
+    verified: false
+    hashtags: "#food, #foodphotography, #pablovietnam, #likeforlikes"
 ---

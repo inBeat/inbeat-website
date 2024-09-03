@@ -1,24 +1,36 @@
 ---
-title: Top 10 Skincare Instagram Influencers In Colombia In 2023
+title: Top 10 Skincare Instagram Influencers In Colombia In 2024
 description: >-
-  Find top skincare Instagram influencers in Colombia in 2023. Most popular hashtags: #skincare #skin #beauty #makeup.
+  Find top skincare Instagram influencers in Colombia in 2024. Most popular hashtags: #skincare #makeup #colombia #skin.
 platform: Instagram
-hits: 37
-text_top: Analyze the best Instagram profiles on inBeat.
-text_bottom: inBeat aggregates 37 Instagram influencers like this in Colombia for you to work with.
+hits: 47
+text_top: Analyze the top-rated Instagram influencers on inBeat.
+text_bottom: Our search engine holds 47 Instagram influencers like this in Colombia for you to contact.
 profiles:
-  - username: "juliepardau"
+  - username: "danielasalazarc_"
     fullname: >-
-      JULIETTE | PARDAU
+      Daniela Salazar C.
     bio: >-
-      🎭 Actriz - Atriz - Actress 📩 Rep: @mclmanager 🧖🏻‍♀️ Skincare enthusiast at @la.jolie.skin
+      🦋 Founder of @meni.cookies @bydanielasalazar @ikuals_skincare @creoenmisinlimites 🎙️
     location: "Colombia"
-    followers: 607725
-    engagement: 471
-    commentsToLikes: 0.012911
-    id: ck15u05wxkrqd0i19gf27locd
-    verified: true
-    hashtags: "#maquillajelbel, #obviobobis, #muack, #oscarwilde"
+    followers: 1806060
+    engagement: 284
+    commentsToLikes: 0.005098
+    id: ck0udl4v1jfrp0i19ws4b7c3w
+    verified: false
+    hashtags: "#humor, #publicidad, #loslindos, #ecoprotect"
+  - username: "joha_yepes"
+    fullname: >-
+      Joha Yepes
+    bio: >-
+      mamá perruna, empresaria y creadora 🧘🏼‍♀️ @legacy_esthetic_center @kova.skincare @luxyhaircr @hairpointcr @happyplace.fortuna @moi_moi_lingerie
+    location: "Colombia"
+    followers: 66248
+    engagement: 186
+    commentsToLikes: 0.016754
+    id: ck5pzfadf0oy90i117pvn6tst
+    verified: false
+    hashtags: "#fun, #costarica, #makeup, #reels"
   - username: "fqdermato"
     fullname: >-
       FAY QUIROZ CHARRIS
@@ -31,6 +43,30 @@ profiles:
     id: ck135dci50vzv0i194y46ooiw
     verified: false
     hashtags: "#haircare, #skincareroutine, #skin, #uriage"
+  - username: "chdermatologia"
+    fullname: >-
+      CLAUDIA HERNÁNDEZ
+    bio: >-
+      🇨🇴 Board-Certified Dermatologist • AAD 🇺🇸member •Injector💉•KOL & Global speaker 🌎 •Research🔬 •Lifestyle • Beauty 📲 +574443072 / 3006413849
+    location: "Colombia"
+    followers: 122456
+    engagement: 733
+    commentsToLikes: 0.002903
+    id: ck0w71ryubc2d0i19xvjyd5io
+    verified: false
+    hashtags: "#lifestyle, #skincare, #fillers, #beauty"
+  - username: "dra.valentinavelasquez"
+    fullname: >-
+      Valentina Velasquez
+    bio: >-
+      Dr. Valentina Velásquez • Cali - Colombia Anti aging | Injector @eilift_lashes @carniboost Citas y compras 👇🏼
+    location: "Colombia"
+    followers: 98685
+    engagement: 37
+    commentsToLikes: 0.078135
+    id: ck600z41yejng0i143joyjlqr
+    verified: false
+    hashtags: "#cali, #botox, #acidohialuronico, #skincare"
   - username: "yessenxaa"
     fullname: >-
       Yessenia Andrade
@@ -79,30 +115,6 @@ profiles:
     id: ck5zxzxup8z6s0i14ivoj6kju
     verified: false
     hashtags: "#makeupuruguay, #microblogger, #microinfluencers, #skincareuruguay"
-  - username: "chdermatologia"
-    fullname: >-
-      CLAUDIA HERNÁNDEZ
-    bio: >-
-      МD.Derмaтologιѕт •Injector💉•KOL🌎•Research 🔬 Anti-aging & beauty strategies 📍Medellín-Colombia🇨🇴 📲574-4443072-3006413849
-    location: "Colombia"
-    followers: 93179
-    engagement: 192
-    commentsToLikes: 0.016119
-    id: ck0w71ryubc2d0i19xvjyd5io
-    verified: false
-    hashtags: "#fillers, #envejecimiento, #beauty, #skincare"
-  - username: "joha_yepes"
-    fullname: >-
-      Joha Yepes
-    bio: >-
-      🇨🇴 From #Colombia, 🚩 #CostaRica 🇨🇷 Owner in @legacy_esthetic_center 🧳👙🐶🐄😽💄💪🌴❤ Live life in full bloom 🌺 G R A T I T U D 🙏 #travelgirl #animallover
-    location: "Colombia"
-    followers: 33218
-    engagement: 189
-    commentsToLikes: 0.025746
-    id: ck5pzfadf0oy90i117pvn6tst
-    verified: false
-    hashtags: "#skincaretips, #costarica, #summer, #love"
   - username: "ceci_sanabria"
     fullname: >-
       CECILIA SANABRIA 🍉🌴🧿®️
@@ -115,16 +127,4 @@ profiles:
     id: ck6ucvhj3hp7y0j71pp8xt7vo
     verified: false
     hashtags: "#funtrip, #piel, #skincare, #motivacion"
-  - username: "chiquis"
-    fullname: >-
-      Chiquis
-    bio: >-
-      Mi Problema 💜 Nuevo Sencillo Ya Disponible 👇🏼
-    location: "Colombia"
-    followers: 4836973
-    engagement: 147
-    commentsToLikes: 0.014996
-    id: ck0tupglt84rg0i19z767k9y1
-    verified: true
-    hashtags: "#miproblema, #playlisttour, #skincare, #sojanney"
 ---

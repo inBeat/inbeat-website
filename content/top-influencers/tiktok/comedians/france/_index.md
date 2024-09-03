@@ -1,11 +1,11 @@
 ---
-title: Top 10 Comedians TikTok Influencers In France In 2023
+title: Top 10 Comedians TikTok Influencers In France In 2024
 description: >-
-  Find top comedians TikTok influencers in France in 2023. Most popular hashtags: #pourtoi #humour #foryou #foryoupage.
+  Find top comedians TikTok influencers in France in 2024. Most popular hashtags: #pourtoi #humour #foryou #foryoupage.
 platform: TikTok
 hits: 42
-text_top: Discover the most popular TikTok influencers on inBeat.
-text_bottom: inBeat has 42 TikTok influencers like this in France for you to pitch.
+text_top: See the top-rated TikTok profiles on inBeat.
+text_bottom: Our database holds 42 TikTok influencers like this in France for you to contact.
 profiles:
   - username: "redhajr"
     fullname: >-
@@ -90,7 +90,7 @@ profiles:
     commentsToLikes: 0.010970
     id: ckamnwpu16kfj0i78dg9rhsv1
     verified: false
-    hashtags: "#humour, #sketch, #viral, #pourtoi"
+    hashtags: "#lol, #pourtoii, #sketch, #humour"
   - username: "johnnysteff1"
     fullname: >-
       Johnny Steff
@@ -114,7 +114,7 @@ profiles:
     commentsToLikes: 0.014228
     id: cka0pxnbzab8g0i786a99li08
     verified: false
-    hashtags: "#loveyou, #viral, #mdr, #omg"
+    hashtags: "#sketch, #couple, #mdr, #pourtoi"
   - username: "jayrld10"
     fullname: >-
       Jason Desrouleaux

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Athletes Instagram Influencers In Poland In 2023
+title: Top 10 Athletes Instagram Influencers In Poland In 2024
 description: >-
-  Find top athletes Instagram influencers in Poland in 2023. Most popular hashtags: #workout #motivation #fitness #training.
+  Find top athletes Instagram influencers in Poland in 2024. Most popular hashtags: #reklama #wsp #motywacja #workout.
 platform: Instagram
-hits: 53
-text_top: Discover the most popular Instagram accounts on inBeat.
-text_bottom: Our database holds 53 Instagram influencers like this in Poland for you to connect with.
+hits: 68
+text_top: See the most popular Instagram profiles on inBeat.
+text_bottom: Our platform aggregates 68 Instagram influencers like this in Poland for you to pitch.
 profiles:
+  - username: "piszczalllka"
+    fullname: >-
+      Oliwia Mularczyk | Trener Personalny Warszawa
+    bio: >-
+      NPC Bikini Athlete 💫 Współpraca Trenerska Online 📨 piszczalllka@onet.eu @geniusnutrition.pl -10% „piszczalllka10”
+    location: "Poland"
+    followers: 23343
+    engagement: 722
+    commentsToLikes: 0.019962
+    id: ck9we6kd9iuaf0j78u6s98d0j
+    verified: false
+    hashtags: "#gymglamour, #bikinifitness, #redukcja, #treningpo"
   - username: "saibov"
     fullname: >-
       RUSLAN SAIBOV CALISTHENICS
     bio: >-
-      CALISTHENICS PRO COACH & ATHLETE 11 YEARS OF EXPERIENCE YOUTUBE: SAIBOV 177cm/79kg 🇺🇦🇬🇧🇵🇱🇷🇺 2x American champion🏆 2x European champion🏆 #IRONWRIST
+      PRO COACH & ATHLETE Strength/endurance/skills👊🏼 14 years of training 9 years in the coaching game 5x champion🏆 #IRONWRIST PROGRAMS, BOOKS, COACHING 👇🏼
     location: "Poland"
-    followers: 71714
-    engagement: 499
-    commentsToLikes: 0.028515
+    followers: 108905
+    engagement: 1141
+    commentsToLikes: 0.020917
     id: ck5zywfrkandz0i14btev0rbr
     verified: false
-    hashtags: "#health, #sport, #fit, #pullup"
-  - username: "bembenikklaudia"
+    hashtags: "#muscleup, #workout, #ironwrist, #pullup"
+  - username: "kuczynska.maja"
     fullname: >-
-      Klaudia Bembenik® 🇵🇱
+      Maja Kuczynska
     bio: >-
-      mom | girl boss | IFBB Athlete owner @claudiawingsshop athlete @olimp_nutrition_pl -10% code: klaudiab
+      Indoor Skydiver Outdoor Skydiver 🪂 @redbullpolska Athlete! 🇵🇱🇪🇺 24 y/o Pronounced: Maya Koo-chin-ska
     location: "Poland"
-    followers: 36952
-    engagement: 242
-    commentsToLikes: 0.063974
-    id: ck5hh71ln6pnt0i114du8yklt
-    verified: false
-    hashtags: "#autumnvibes, #catchthemoment, #gymwear, #mountains"
-  - username: "wiktoria_gasior"
+    followers: 623659
+    engagement: 1017
+    commentsToLikes: 0.010359
+    id: ck55k9enyysot0i11auv8due5
+    verified: true
+    hashtags: "#advertisment, #wsp"
+  - username: "miltos_d.tentoglou"
     fullname: >-
-      Wiktoria Gąsior
+      Μίλτος D. Τεντόγλου😎
     bio: >-
-      BIKINI FITNESS @reignbodyfuel Athlete 🏅World Junior ViceChampion 🥇Polish champion @swedishsupplements @fenixteampl @biolab.shop WIKTORIA7 @witdoktor
+      Olympic Champion🥇I have won every Major title. Stoiximan athlete Adidas/Zagori/NBG/Kosmocar/Algida/Elin/ AthinaikiZ
     location: "Poland"
-    followers: 175860
-    engagement: 106
-    commentsToLikes: 0.039950
-    id: ck15rbbtk73a40i19aic2ig7s
+    followers: 280623
+    engagement: 545
+    commentsToLikes: 0.004349
+    id: ckf5pxrdg7klc0j23n8gx755n
     verified: false
-    hashtags: "#fitsylwetka, #treningpo, #sportowadziewczyna, #motywacjadotreningu"
-  - username: "stefan_eroteev"
+    hashtags: "#iroes, #athletics, #stoiximan, #enyaqiv"
+  - username: "annakielbasinska"
     fullname: >-
-      Stefan Eroteev 🇧🇬
+      Anna Kiełbasińska
     bio: >-
-      💪Calisthenics athlete 🇧🇬 ♠️20yo 📚Technical university 🥉3rd SWWC 2018🇷🇺|🥈2nd SWWC midw.2019🇷🇺 🥉3rd BOTB PL 2018🇵🇱|🥉3rd Eurocup 2019🇵🇱
+      Polish athlete🇵🇱 Olympian 2012&2016&2020 🥈OG 4x400m 🥈🥉 EC 400m; 4x100&400 🥇🥉🥉EIC 4x400 🥇🥈WC 4x400 @grupaorlen athlete @newbalance athlete SKLA Sopot
     location: "Poland"
-    followers: 17751
-    engagement: 1121
-    commentsToLikes: 0.012448
-    id: ck55lrxpv29uw0i11agl6zcpn
+    followers: 61232
+    engagement: 307
+    commentsToLikes: 0.016434
+    id: cl9ofguiqkx4p0i23cqgbcyz9
     verified: false
-    hashtags: "#motivation, #bulgaria, #calistehenics, #gym"
-  - username: "annaakaczowka"
+    hashtags: "#nbgreyday, #greyday2023, #trackandfield, #polishindependenceday"
+  - username: "codziennie_fit"
     fullname: >-
-      Anna Kaczowka 🇵🇱
+      Marta Kruk
     bio: >-
-      𝑭𝒊𝒏𝒂𝒍𝒊𝒔𝒕𝒌𝒂 𝑴𝒊𝒔𝒔 𝑷𝒐𝒍𝒔𝒌𝒊 𝑵𝒂𝒔𝒕𝒐𝒍𝒂𝒕𝒆𝒌 𝟐𝟎𝟏𝟗 𝑴𝒊𝒔𝒔 𝑴𝒂𝒍𝒐𝒑𝒐𝒍𝒔𝒌𝒊 𝑵𝒂𝒔𝒕𝒐𝒍𝒂𝒕𝒆𝒌 𝟐𝟎𝟏𝟗 📍Tarnów/DT 🎓 PE Student Snap: kaczowka #running#athlete#model
+      Trenuję, biegam i jestem fit. Ty też możesz! Pomogę Ci osiągnąć formę życia🔥 trenerka / sportsmenka 🏃‍♀️ 💪Trenuj ze mną na YT PUMA athlete
     location: "Poland"
-    followers: 4097
-    engagement: 2150
-    commentsToLikes: 0.020960
-    id: ck9wewfvnm56h0j782rgrjfaw
+    followers: 120741
+    engagement: 254
+    commentsToLikes: 0.030616
+    id: ck5qcegp5q5qq0i112kpxd7wu
     verified: false
-    hashtags: "#wetlook, #holiday, #brunette, #polskadziewczyna"
-  - username: "iga.co.smiga"
+    hashtags: "#wspolpracareklamowa, #wspolpracaambasadorska, #bieg, #motywacja"
+  - username: "bronislawolenkowicz"
     fullname: >-
-      Iga Baumgart-Witan
+      Bronisław Olenkowicz
     bio: >-
-      Athlete 400m Collab: iga.baumgart@wp.pl ⛽ PKN Orlen 🏃‍♀️ New Balance Poland 🥣 Olimp Sport Nutrition
+      Crossfit Athlete _________ @diversesystem | @thornfit | @goprimal.eu | @reignbodyfuel | @repeatpolska | @collibrelife | @underdogsathletics
     location: "Poland"
-    followers: 34534
-    engagement: 609
-    commentsToLikes: 0.010783
-    id: ck5hhh4j7879f0i11t95hxgwe
+    followers: 58022
+    engagement: 235
+    commentsToLikes: 0.022657
+    id: ck15sicydd5kw0i199fxohluh
     verified: false
-    hashtags: "#partnersincrime, #olimpsportnutrition, #pknorlen, #girlpower"
-  - username: "rafael_novaczuk_"
+    hashtags: "#forevergettingstronger, #crossfit, #crossfitgames, #strongforlife"
+  - username: "m.andrejczyk"
     fullname: >-
-      Rafał Nowaczuk
+      Maria M. Andrejczyk
     bio: >-
-      Połfinalista Mister Polski 2019🇵🇱 🇵🇱Warszawa🌉 Personal Trainer🏋 Model/athlete actor 187cm🔝 height 12.11 🎂
+      🇯🇵Olympic medalist 🥈 🇵🇱Record holder: 71.40m 🦅Powered by @pkn.orlen 🐈‍⬛ @puma Athlete 📧 Andrejczyk.maria@gmail.com
     location: "Poland"
-    followers: 10344
-    engagement: 880
-    commentsToLikes: 0.017959
-    id: ck8t5yov4boos0j78dobs6pd6
+    followers: 156233
+    engagement: 206
+    commentsToLikes: 0.009282
+    id: ck0u89bbz6u8p0i19fzvadgp2
     verified: false
-    hashtags: "#glasses, #nakanapie, #warszawanoc, #pa"
-  - username: "klaudia_ignasiak_"
+    hashtags: "#bali, #attheoffice, #wsp, #trackandfield"
+  - username: "juliamaciuszek"
     fullname: >-
-      ✨KLAUDIA IGNASIAK ✨
+      Julia Maciuszek
     bio: >-
-      🏆NPC Bikini Champion Absolutna Mistrzyni Debiutów 2020 💊@hd.muscle athlete 🏋🏼‍♀️Trener Personalny📚Dietetyka 💓@gymhero_official klaudiaignasiak -20%
+      OCR athlete | World Championships AG bronze medalist | Ninja Warrior semi-finalist | Ambassador @runmageddon @supermenu_by_anna_lewandowska
     location: "Poland"
-    followers: 49973
-    engagement: 232
-    commentsToLikes: 0.019677
-    id: ck5zx2dje77q40i14s1jhms4x
+    followers: 29871
+    engagement: 127
+    commentsToLikes: 0.033055
+    id: ck5cc6lrcgt700i11nsga91o0
     verified: false
-    hashtags: "#fitness, #bikini, #gymgirl, #bikinifitness"
-  - username: "marta_walczykiewicz_official"
+    hashtags: "#ninja, #workoutmotivation, #runmageddon, #ninjawarrior"
+  - username: "agata_zaj.ac"
     fullname: >-
-      Marta Walczykiewicz
+      Agata Zając | Trenerka
     bio: >-
-      Polish athlete🇵🇱 Silver Olympic Medalist Rio 2016🥈 World, European and European Games Champion🥇 Ambasador @pkn.orlen @orlenteam_official
+      🍒 pomogę Ci osiągnąć fit sylwetkę i ćwiczyć bezpiecznie 📽 treningi na YouTube 💪plany treningowe @womensbest athlete Trenuj ze mna ⬇️
     location: "Poland"
-    followers: 10422
-    engagement: 726
-    commentsToLikes: 0.015701
-    id: ck5c34cxoykze0i11jyt8cgqi
+    followers: 119916
+    engagement: 205
+    commentsToLikes: 0.037734
+    id: ckaoyd958h0wm0i78nzy58xdy
     verified: false
-    hashtags: "#kayaksprint, #training, #portugal, #energasa"
-  - username: "marta.zakrzewskaa"
-    fullname: >-
-      Trenerka, zawodniczka Crossfit
-    bio: >-
-      Personal, Athletics Trainer TOP TEAM Polska 5* Kettlebell, Crossfit Instruktor CrossFit Athlete ☘️
-    location: "Poland"
-    followers: 36344
-    engagement: 155
-    commentsToLikes: 0.026934
-    id: ck8tc7582yj3a0j78n79luftx
-    verified: false
-    hashtags: "#gymgirl, #fitness, #trojmiasto, #girlmotivation"
+    hashtags: "#reklama, #treningwdomu, #womensbest, #rodzew2022"
 ---

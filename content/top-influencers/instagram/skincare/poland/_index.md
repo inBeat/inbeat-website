@@ -1,12 +1,72 @@
 ---
-title: Top 10 Skincare Instagram Influencers In Poland In 2023
+title: Top 10 Skincare Instagram Influencers In Poland In 2024
 description: >-
-  Find top skincare Instagram influencers in Poland in 2023. Most popular hashtags: #makeup #polishgirl #polskadziewczyna #skincare.
+  Find top skincare Instagram influencers in Poland in 2024. Most popular hashtags: #makeup #makeupartist #skincare #makeuptutorial.
 platform: Instagram
-hits: 394
-text_top: See the top-rated Instagram influencers on inBeat.
-text_bottom: inBeat aggregates 394 Instagram influencers like this in Poland for you to contact.
+hits: 468
+text_top: Analyze the top-rated Instagram influencers on inBeat.
+text_bottom: Our search engine has 468 Instagram influencers like this in Poland for you to collaborate.
 profiles:
+  - username: "weronikazon"
+    fullname: >-
+      Weronika Zoń
+    bio: >-
+      OOTD • SKINCARE • LIFESTYLE @xmanagement_warsaw 📧 collab@weronikazon.com
+    location: "Poland"
+    followers: 124878
+    engagement: 491
+    commentsToLikes: 0.008644
+    id: ckap6vkvvhj0b0i782bupxh46
+    verified: false
+    hashtags: "#jacket, #niveamixandmatch, #goofproof, #hubbabrow"
+  - username: "izaaana"
+    fullname: >-
+      IZA 💋| MAKEUP | SKINCARE 💁🏼‍♀️
+    bio: >-
+      MakeUp | Skincare | Haircare 💁🏼‍♀️ ✨TikTok 40k izaaana_ 👄Makijaż Płock/Warszawa 📩Collabs: izaaana@gmail.com
+    location: "Poland"
+    followers: 13890
+    engagement: 391
+    commentsToLikes: 0.034067
+    id: ck0tvi7bpbgrr0i199u3dt5qf
+    verified: false
+    hashtags: "#wakeup2slay, #muasfeaturing, #eyemakeup, #makeupporn"
+  - username: "colorowyy"
+    fullname: >-
+      PATRYK ZAPAŁA
+    bio: >-
+      LIFESTYLE ⋆ FASHION ⋆ SKINCARE ⋆ TRAVEL I ♡ cool outfits & Selena Gomez 🧿 represented by @spectotalents 🪬 📩 tomek@specto.pl
+    location: "Poland"
+    followers: 249077
+    engagement: 322
+    commentsToLikes: 0.020797
+    id: ck9wgakhsskik0j78swqijxdc
+    verified: false
+    hashtags: "#fragrance, #jestemmyslf, #myslf, #yslbeautypoland"
+  - username: "xkleoox"
+    fullname: >-
+      Klaudia Majewska
+    bio: >-
+      SKINCARE | MAKEUP | LIFESTYLE •tiktok: „xkleoox” (+300k)
+    location: "Poland"
+    followers: 84645
+    engagement: 293
+    commentsToLikes: 0.018347
+    id: ck5q54f75rbw20i11jqdl8aax
+    verified: false
+    hashtags: "#pielegnacjawlosow, #piel, #skincare, #pielegnacjatwarzy"
+  - username: "beautyvtricks"
+    fullname: >-
+      Vanessa Wilczewska
+    bio: >-
+      🎥 MAKEUP, SKINCARE, FASHION 💄 Brand #miyoxbeautyvtricks YT, TT @beautyvtricks
+    location: "Poland"
+    followers: 195424
+    engagement: 236
+    commentsToLikes: 0.042978
+    id: ck0u0arbxt3tg0i19dpxx6xgb
+    verified: false
+    hashtags: "#miyoxbeautyvtricks, #konturowanietwarzy, #asmrunboxing, #victoriassecret"
   - username: "iamdaria.makeup"
     fullname: >-
       𝓓𝓪𝓻𝓲𝓪 🥀 makeup • skincare
@@ -31,18 +91,6 @@ profiles:
     id: ck0u0aratt3so0i19g3f6k1iz
     verified: false
     hashtags: "#simple, #neutralpalette, #styledujour, #frenchvibes"
-  - username: "lempapilo"
-    fullname: >-
-      Marta Podbielska
-    bio: >-
-      Make up artist. Natural lover. Skincare. Caravanem 📩 Podbielska.marta@gmail.com
-    location: "Poland"
-    followers: 10257
-    engagement: 741
-    commentsToLikes: 0.039376
-    id: ckaor77w1m0ms0i78ozpbv81t
-    verified: false
-    hashtags: "#inspo, #listopad2020, #seaside, #lines"
   - username: "ssophiamakeup"
     fullname: >-
       Zosia Brociek
@@ -55,30 +103,6 @@ profiles:
     id: ck5c9fjjdbcbz0i118yhigqlq
     verified: false
     hashtags: "#polishgirl, #paesecrew, #makeuprevolution, #makeuptutorial"
-  - username: "wojcieechowska"
-    fullname: >-
-      Oliwia Wojciechowska 🌸
-    bio: >-
-      ▫️#socialmedia specialist @phenome.skincare ▪️ @coccola.pl ◾️ @lovethedresspl ◾️ @movelle.store ▪️ @centrum_praskie_koneser ▫️#Warsaw 📍
-    location: "Poland"
-    followers: 5563
-    engagement: 501
-    commentsToLikes: 0.046333
-    id: ck9wfa84pnxna0j78uucw1tb8
-    verified: false
-    hashtags: "#zosta, #precel, #si, #23"
-  - username: "amelia.szczepaniak"
-    fullname: >-
-      AMELIA SZCZEPANIAK💎
-    bio: >-
-      MAKEUP🔹SKINCARE🔹LIFESTYLE My Tag : #inspiredamelia 🇵🇱 KRAKÓW 📩 👉🏻 PR MAIL kacper@clickinstory.pl
-    location: "Poland"
-    followers: 252060
-    engagement: 381
-    commentsToLikes: 0.019358
-    id: ck0u7wuw05yr00i19n4ufodru
-    verified: false
-    hashtags: "#holidays, #summervibes, #frenchnails, #glowish"
   - username: "silamalychrzeczy"
     fullname: >-
       Ania Mysłowska-Kiczek
@@ -91,40 +115,16 @@ profiles:
     id: ck1347g0vv32g0i191almcq94
     verified: false
     hashtags: "#coffeetime, #coffeevibes, #luty, #simplepleasures"
-  - username: "malinkiinki"
+  - username: "pranksterka"
     fullname: >-
-      🦋Karolina🦋
+      Justyna Miarecka-Radzik | Makijaż & Porady kosmetyczne
     bio: >-
-      👸🏽22yo #skincare 🌏 DREAMER #travelergirl NEXT IS COMMING🤫 💃🏽TikTok malinki_inki 💁🏽‍♀️mom of Toby🐰 and Leon🐶
+      👉🏼Nauczę Cię jak się dobrze malować! 💄Makijażystka z doświadczeniem 📩kontakt: pranksterka.makeup@gmail.com
     location: "Poland"
-    followers: 12748
-    engagement: 386
-    commentsToLikes: 0.033197
-    id: ck8t4eqav6isc0j78g8mm7ttl
+    followers: 65004
+    engagement: 609
+    commentsToLikes: 0.094262
+    id: ck14ij56kfo2l0i196iatum57
     verified: false
-    hashtags: "#girl, #elegante, #fashionista, #beautiful"
-  - username: "xkleoox"
-    fullname: >-
-      Klaudia Majewska
-    bio: >-
-      •Skincare is essential, makeup is a choice✨ •tiktok: „xkleoox” (100k+)
-    location: "Poland"
-    followers: 32100
-    engagement: 316
-    commentsToLikes: 0.055752
-    id: ck5q54f75rbw20i11jqdl8aax
-    verified: false
-    hashtags: "#polishgirl, #pielegnacjatwarzy, #pielegnacja, #piel"
-  - username: "simci.a"
-    fullname: >-
-      Cozy christmas winter xmass 🎅🏼❄️🎄
-    bio: >-
-      Zakręcona #Włoszka 🇵🇱🇮🇹 #fotografia moja pasja 📸 Zostań ze mną na dłużej 📩Collab.DM /simona979@o2.pl 🥰
-    location: "Poland"
-    followers: 10305
-    engagement: 1507
-    commentsToLikes: 0.055238
-    id: ckap528vu9v0o0i78xjvwhocs
-    verified: false
-    hashtags: "#skin, #xmas, #vegan, #body"
+    hashtags: "#makeuptutorial, #anastasiabeverlyhills, #skincareroutine, #beautyvideos"
 ---

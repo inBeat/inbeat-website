@@ -1,12 +1,48 @@
 ---
-title: Top 10 Makeup Instagram Influencers In Peru In 2023
+title: Top 10 Makeup Instagram Influencers In Peru In 2024
 description: >-
-  Find top makeup Instagram influencers in Peru in 2023. Most popular hashtags: #makeupartist #makeup #halloweenmakeup #peru.
+  Find top makeup Instagram influencers in Peru in 2024. Most popular hashtags: #makeup #maquillaje #tutorial #halloweenmakeup.
 platform: Instagram
-hits: 112
-text_top: Identify the most popular Instagram profiles on inBeat.
-text_bottom: Our search engine holds 112 Instagram influencers like this in Peru for you to collaborate.
+hits: 110
+text_top: Analyze the most popular Instagram influencers on inBeat.
+text_bottom: inBeat holds 110 Instagram influencers like this in Peru for you to pitch.
 profiles:
+  - username: "loredelgado0"
+    fullname: >-
+      Lorena Delgado
+    bio: >-
+      aqp | lima makeupp, fashion & lifestylee <33 tiktok +45k
+    location: "Peru"
+    followers: 15244
+    engagement: 311
+    commentsToLikes: 0.019067
+    id: clnhuf71tif4h0j08tcwjtel6
+    verified: false
+    hashtags: "#grwm, #inspo, #santorini, #makeup"
+  - username: "sandrallosa"
+    fullname: >-
+      Sandra Llosa
+    bio: >-
+      ♡ Makeup Artist ♡ @sandrallosabrides 🎵TikTok: sandrallosa (2.4M+) 👇🏼Info y citas
+    location: "Peru"
+    followers: 73501
+    engagement: 583
+    commentsToLikes: 0.013453
+    id: ck8tda4542in70j78nq06c5m0
+    verified: false
+    hashtags: "#clownmakeup, #sfxmakeup, #publicidad, #halloweenmakeup"
+  - username: "maferbenites"
+    fullname: >-
+      Mafer Benites
+    bio: >-
+      💖 Makeup Pro - Beauty Tips -LifeStyle-Tutoriales 🖤 TikTok +1.3M 💌Te maquillo? Citas por mensaje @mafer.maquillame 💄Clases de maquillaje full práctica
+    location: "Peru"
+    followers: 229069
+    engagement: 52
+    commentsToLikes: 0.043653
+    id: ck55m203f309u0i11trhkmrnf
+    verified: false
+    hashtags: "#beauty, #tips, #labiales, #tutorial"
   - username: "arturotobdan"
     fullname: >-
       Arturo Foronda | Art 🎨📷🎬
@@ -43,18 +79,6 @@ profiles:
     id: ck6tibs9h0f3y0j71zb553mbn
     verified: false
     hashtags: "#blendtherules, #fyp, #plouisebase, #wavyhairstyle"
-  - username: "sandrallosamakeup"
-    fullname: >-
-      Sandra Llosa
-    bio: >-
-      ♡ Makeup Artist ♡ 📍Lima, Perú 💌 Business: sandrallosa78@gmail.com 👇🏼Info y citas a través de Facebook
-    location: "Peru"
-    followers: 41447
-    engagement: 1214
-    commentsToLikes: 0.017039
-    id: ck8tda4542in70j78nq06c5m0
-    verified: false
-    hashtags: "#machalloween, #maccosmetics, #voldemortmakeup, #sfx"
   - username: "kawaiidoll1"
     fullname: >-
       kawaiidoll1
@@ -103,28 +127,4 @@ profiles:
     id: ckf5paopw5ika0j239h2g9wvi
     verified: false
     hashtags: "#glamsquad, #calidadglamstudio, #glam, #tuespaciotumomento"
-  - username: "nicollechangc"
-    fullname: >-
-      Nicolle Chang Makeup Artist.
-    bio: >-
-      💄MUA & Beauty Content Creator 🎵Tiktok: nicollechangc [1.5M+] 📍Lima, Perú 📌 Citas en @nicollechangmakeup 📩nicollechangmakeup@gmail.com
-    location: "Peru"
-    followers: 125184
-    engagement: 902
-    commentsToLikes: 0.032827
-    id: ck6ucvwnlhrbb0j71u9zr5a8m
-    verified: false
-    hashtags: "#nicollechangmakeup, #redlips, #makeuplover, #christmas2022"
-  - username: "pmxbeauty"
-    fullname: >-
-      Paola Escalante
-    bio: >-
-      📍 Lima, Perú ✉️ PR/Business: pmxbeauty@gmail.com +300 TikTok
-    location: "Peru"
-    followers: 34233
-    engagement: 225
-    commentsToLikes: 0.089189
-    id: ck9wf1jr7mvjd0j78072wplp2
-    verified: false
-    hashtags: "#wakeupandmakeup, #makeupdaily, #disney, #abhfam"
 ---

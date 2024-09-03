@@ -1,11 +1,11 @@
 ---
-title: Top 10 Soccer-Players Instagram Influencers In Australia In 2023
+title: Top 10 Soccer-Players Instagram Influencers In Australia In 2024
 description: >-
-  Find top soccer-players Instagram influencers in Australia in 2023. Most popular hashtags: #soccer #australia #love #fit.
+  Find top soccer-players Instagram influencers in Australia in 2024. Most popular hashtags: #soccer #football #australia #fit.
 platform: Instagram
-hits: 8
-text_top: Discover the top-rated Instagram profiles on inBeat.
-text_bottom: inBeat aggregates 8 Instagram influencers like this in Australia for you to contact.
+hits: 13
+text_top: Identify the best Instagram influencers on inBeat.
+text_bottom: Our search engine holds 13 Instagram influencers like this in Australia for you to work with.
 profiles:
   - username: "chan__stone"
     fullname: >-
@@ -43,18 +43,54 @@ profiles:
     id: ck5qb3tonjofc0i11m79ntkm0
     verified: true
     hashtags: "#futbolfemenino, #australia, #futbolfem, #lockdownday1"
+  - username: "bootsupplieraus"
+    fullname: >-
+      Boot Supplier Australia®
+    bio: >-
+      ⭐️ Australia’s leading boot store 🇦🇺 Based in AUS ✈️ 650+ boots sold worldwide ↘️ Click link in bio to purchase
+    location: "Australia"
+    followers: 212457
+    engagement: 133
+    commentsToLikes: 0.002321
+    id: ck134e1wdvzmx0i19m3vmqcdk
+    verified: false
+    hashtags: "#black, #nikesoccer, #footballcleats, #nike"
   - username: "d10football"
     fullname: >-
       Daniel Cappellaro
     bio: >-
-      ⚽️ Street Footballer. Futsal Player. 🐆 @pumaau Athlete 🌍 Played in 5 Continents. MORE SKILLS & TUTORIALS ⬇️
+      ⚽️ Futsal Player. Street Footballer. Coach. 🌍 Played in 6 Continents.
     location: "Australia"
-    followers: 310479
-    engagement: 182
-    commentsToLikes: 0.017302
+    followers: 477944
+    engagement: 131
+    commentsToLikes: 0.007213
     id: ck0tvbfhnaoyz0i192huuubco
     verified: true
-    hashtags: "#craques, #soccerplayer, #professional, #baller"
+    hashtags: "#futsal, #soccercoaching, #futsalskills, #ballmastery"
+  - username: "childblogger"
+    fullname: >-
+      CHILD BLOGGER
+    bio: >-
+      💬 Life with kids (Mia & Maxi), Travel, Toys, Fashion and more 📍 Sydney, AU 📮 info@childblogger.org 📺 Feat Weekend Today 👇 Save $200 off Hello Fresh
+    location: "Australia"
+    followers: 16656
+    engagement: 231
+    commentsToLikes: 0.137448
+    id: closqej1gns470j0877tj1ea6
+    verified: false
+    hashtags: "#gifted, #thingstodowithkids, #eastercake, #aussiemums"
+  - username: "malakaiwatenezelezniak"
+    fullname: >-
+      Malakai Watene-Zelezniak
+    bio: >-
+      ➖ Founder of @wzelezniakwatches ➖ NRL Player turned Businessman ➖ 📧 malakai@wzelezniak.com.au ➖ TikTok 150k
+    location: "Australia"
+    followers: 41402
+    engagement: 588
+    commentsToLikes: 0.070115
+    id: ck15uew27mu7s0i19wqjila19
+    verified: true
+    hashtags: "#grateful, #wzelezniakwatches, #wzelezniak, #fatherson"
   - username: "celiajimdel"
     fullname: >-
       Celia Jiménez
@@ -91,16 +127,4 @@ profiles:
     id: ck13879uieu1p0i19ax4l25mz
     verified: false
     hashtags: ""
-  - username: "luccas.football"
-    fullname: >-
-      Luccas Pereira 🇧🇷🇦🇺
-    bio: >-
-      Football & Performance Coach Strength & Conditioning Public Speaker ᴀᴍʙᴀꜱꜱᴀᴅᴏʀ: @googlepixel @mizunosportsaus Book Your Session - IN PERSON/ONLINE 👉🏼
-    location: "Australia"
-    followers: 35990
-    engagement: 195
-    commentsToLikes: 0.031960
-    id: ck6ts92th3fdt0j71dspr0oxt
-    verified: false
-    hashtags: "#couplegoals, #giftfromgoogle, #footballlife, #sydney"
 ---

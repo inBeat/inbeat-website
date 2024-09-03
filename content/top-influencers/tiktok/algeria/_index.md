@@ -1,11 +1,11 @@
 ---
-title: Top 10 TikTok Influencers In Algeria In 2023
+title: Top 10 TikTok Influencers In Algeria In 2024
 description: >-
-  Find top TikTok influencers in Algeria in 2023. Most popular hashtags: #algerienne #fouryou #pourtoi.
+  Find top TikTok influencers in Algeria in 2024. Most popular hashtags: #algerienne #fouryou #pourtoi.
 platform: TikTok
 hits: 582
-text_top: Identify the most popular TikTok profiles on inBeat.
-text_bottom: Our search engine holds 582 TikTok influencers like this in Algeria for you to work with.
+text_top: Identify the best TikTok influencers on inBeat.
+text_bottom: inBeat aggregates 582 TikTok influencers like this in Algeria for you to pitch.
 profiles:
   - username: "noorhan_chawia"
     fullname: >-

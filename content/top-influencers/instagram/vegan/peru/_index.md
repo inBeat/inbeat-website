@@ -1,24 +1,24 @@
 ---
-title: Top 10 Vegan Instagram Influencers In Peru In 2023
+title: Top 10 Vegan Instagram Influencers In Peru In 2024
 description: >-
-  Find top vegan Instagram influencers in Peru in 2023. Most popular hashtags: #music #vegan #love #style.
+  Find top vegan Instagram influencers in Peru in 2024. Most popular hashtags: #vegan #publicidad #recetasfaciles #peru.
 platform: Instagram
-hits: 18
-text_top: Identify the top-rated Instagram influencers on inBeat.
-text_bottom: inBeat has 18 Instagram influencers like this in Peru for you to pitch.
+hits: 15
+text_top: Identify the most popular Instagram accounts on inBeat.
+text_bottom: Our platform aggregates 15 Instagram influencers like this in Peru for you to contact.
 profiles:
-  - username: "veggienazi"
+  - username: "soyvelen"
     fullname: >-
-      NAZARENA GARCÍA-RADA
+      Belén de soyvelen
     bio: >-
-      • Real food has mud not blood •   Me dicen Nazi por Nazarena 🌼 Vegan | Sportaholic
+      Tu dealer de contenido vegan de confianza. Si querés más 👇🏻
     location: "Peru"
-    followers: 46265
-    engagement: 1723
-    commentsToLikes: 0.107976
-    id: ck6u7eyral4910j71g3r37h1k
+    followers: 106349
+    engagement: 377
+    commentsToLikes: 0.019286
+    id: ck5zkuq9pk6y00i14o7knq2py
     verified: false
-    hashtags: ""
+    hashtags: "#recetassaludables, #veganburger, #comidavegana, #recetavegana"
   - username: "vidavegana.dk"
     fullname: >-
       Diana Karenina
@@ -31,42 +31,6 @@ profiles:
     id: ck15uj35rnf9q0i19ud9wj31i
     verified: false
     hashtags: "#veganfood, #vidavegana, #dianakarenina, #cozyvibes"
-  - username: "mariazion"
-    fullname: >-
-      Maria Zion🎤
-    bio: >-
-      Cantante🎤Actriz🎭 Mamá👩‍👧‍👦 Terapeuta Cannábica💚 Feminismo💜 Vegan🌱 Team @mamajampower Cuenta de respaldo @feminizadas_ Patagonia 🇨🇱 Ni Una Menos♀️⬇️⬇️
-    location: "Peru"
-    followers: 14615
-    engagement: 489
-    commentsToLikes: 0.039545
-    id: ck5q11oz08u6z0i11mj156ale
-    verified: false
-    hashtags: "#santiago, #instagood, #niunamenos, #chilenas"
-  - username: "soyvelen"
-    fullname: >-
-      Belén Giangrisostimi
-    bio: >-
-      Te animo a cocinar sin sufrimiento animal🌱 Creo contenido para mostrar que los veganos la pasamos re bien. Buscame en YouTube para recetas y más ✌🏻
-    location: "Peru"
-    followers: 44963
-    engagement: 959
-    commentsToLikes: 0.026929
-    id: ck5zkuq9pk6y00i14o7knq2py
-    verified: false
-    hashtags: "#veganismo, #recetavegana, #comidavegana, #tortilla"
-  - username: "green.eats_"
-    fullname: >-
-      Luciana Jáuregui
-    bio: >-
-      Bienvenido a mi cocina! Acompáñame a crear la versión green de nuestros postres favoritos! 🌿Green = vegano y saludable 💌 lucianaajauregui@gmail.com
-    location: "Peru"
-    followers: 18740
-    engagement: 846
-    commentsToLikes: 0.031907
-    id: ckaorhgr3n8hc0i78f88e2yct
-    verified: false
-    hashtags: "#viral, #reels, #overnightoats, #desayuno"
   - username: "danilizarragaf"
     fullname: >-
       Daniela Lizárraga
@@ -127,4 +91,40 @@ profiles:
     id: ck5c2q5xoxr6p0i11j2imcer3
     verified: false
     hashtags: "#christmas, #cafe, #tattoocollector, #cafecitotime"
+  - username: "giulianagiuliana"
+    fullname: >-
+      🧚Giuliana Vegana🧚
+    bio: >-
+      Te enseño a cocinar #vegano y delicioso!👩‍🍳 💚 Aprende a llevar una vida sin carne 🎥 Hago recetas accesibles ❤️ Co-founder @muru_oficial & @fempira
+    location: "Peru"
+    followers: 14256
+    engagement: 565
+    commentsToLikes: 0.068281
+    id: ckf5uem54kmbk0j23flrglwiv
+    verified: false
+    hashtags: "#veganismoparatodos, #receta, #delish, #video"
+  - username: "caroglutenfree"
+    fullname: >-
+      Celiaca y mamá   Recetas sin gluten
+    bio: >-
+      Soy Caro 👋 Mamá x2 👦🏼👶🏻 Celiaca desde que tengo 1 año🚫🌾 Recetas Fáciles,Tips,lugares para comer y maternidad 🥳‼️
+    location: "Peru"
+    followers: 69607
+    engagement: 241
+    commentsToLikes: 0.610145
+    id: ck136a3an5hu90i19qgvkat2v
+    verified: false
+    hashtags: "#celiacosargentinos, #cocinarhacebien, #pansingluten, #celiaquia"
+  - username: "healthy_pleasure"
+    fullname: >-
+      𝗦𝘆𝗹𝘃𝗶𝗮 𝗥𝗼𝗱𝗿𝗶𝗴𝘂𝗲𝘇 𝗩𝗲𝗹𝗲𝘇
+    bio: >-
+      Nutricionista plant based✨ • Consultas online • El verdadero placer a un estilo de vida saludable de manera fácil y con ciencia @laveganeria.pe
+    location: "Peru"
+    followers: 152628
+    engagement: 183
+    commentsToLikes: 0.013591
+    id: ck5zlrnnbl9gc0i14k1khb4zx
+    verified: true
+    hashtags: "#publicidad, #healthypleasure, #nutricionista, #running"
 ---

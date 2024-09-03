@@ -1,130 +1,130 @@
 ---
-title: Top 10 Travel Instagram Influencers In Austria In 2023
+title: Top 10 Travel Instagram Influencers In Austria In 2024
 description: >-
-  Find top travel Instagram influencers in Austria in 2023. Most popular hashtags: #ig #austria #thedreamytravels #journeysofgirls.
+  Find top travel Instagram influencers in Austria in 2024. Most popular hashtags: #austria #tirol #bergliebe #mountains.
 platform: Instagram
-hits: 203
-text_top: Discover the most popular Instagram profiles on inBeat.
-text_bottom: Our search engine holds 203 Instagram influencers like this in Austria for you to work with.
+hits: 256
+text_top: See the best Instagram profiles on inBeat.
+text_bottom: Our database aggregates 256 Instagram influencers like this in Austria for you to work with.
 profiles:
+  - username: "susannaamarie"
+    fullname: >-
+      SUSANNA | MOUNTAIN | HIKE | TIROL
+    bio: >-
+      happiest outdoors 🏔🎿🧗‍♀️🏃🏼‍♀️ • mountains • sports • travelling • from Tirol • Austria • office@susannamarie.at 💌
+    location: "Austria"
+    followers: 34645
+    engagement: 483
+    commentsToLikes: 0.055834
+    id: ck0vwof5fusk50i19y8syluuz
+    verified: false
+    hashtags: "#outdoorwomen, #trailrun, #austrianmountaingirls, #mountaingirls"
   - username: "aworldofdestinations_"
     fullname: >-
       MARIA | Travel Blog
     bio: >-
-      ⛰ Outdoor active ✈️ Off the beaten track travel ✨ Spreading positivity
+      🌍 Been to 48 countries, lived in 7 of them ✨ Spreading high vibes around the world 🌱 Always choose the road least traveled
     location: "Austria"
-    followers: 4871
-    engagement: 1376
-    commentsToLikes: 0.144016
+    followers: 5421
+    engagement: 664
+    commentsToLikes: 0.117460
     id: ck9hayzy3enod0j78lobgwmlq
     verified: false
-    hashtags: "#estoesmexico, #hotspring, #grutasdetolantongo, #greecetrip"
-  - username: "world.of.melly"
+    hashtags: "#indiaphotography, #indiatravel, #elsalvadorturismo, #portsoller"
+  - username: "theflyingdress"
     fullname: >-
-      Melanie Friedlein
+      Iris
     bio: >-
-      📍🇦🇹 Schladming #worldofmelly 📸 Photolover ✈️ Travel around the World 🙏🏻 Enjoy the little things
+      📍 based in Vienna, Austria 👩🏼‍💻 Traveling with a full-time job 🌍 Inspo & Tips for Europe trips ⤵️ find more specific tips here
     location: "Austria"
-    followers: 858
-    engagement: 2507
-    commentsToLikes: 0.419325
-    id: ck8tagwwqrpdn0j78z5vm223d
+    followers: 94497
+    engagement: 1114
+    commentsToLikes: 0.092408
+    id: ck0w74t5ibre20i19j6ddt4hi
     verified: false
-    hashtags: "#jenny13990, #gl, #konfettiwunder, #redhairflair"
-  - username: "kirabejaoui"
+    hashtags: "#christmas, #christmasdecor, #home, #weihnachten"
+  - username: "sommertageblog"
     fullname: >-
-      Kira Bejaoui
+      Kathi & Romeo
     bio: >-
-      Fashion enthusiast & travel lover with master degree in PR from 🇩🇪| LOVE LETTERS💌: Kira@Callmeshopaholic.de @whythehellnot_podcast ⚡️
+      ➳ Travel Bloggers based in Vienna 🇦🇹 ➳ Official creators for @visitaustria ⛰️ ➳ ⇩ Visit our blog 💌 ⇩
     location: "Austria"
-    followers: 108745
-    engagement: 151
-    commentsToLikes: 0.078585
-    id: ck0u000pms7k50i19770wdxe8
+    followers: 26541
+    engagement: 340
+    commentsToLikes: 0.074318
+    id: ck0ttnc5p3gsl0i19v2t7jwjf
     verified: false
-    hashtags: "#ibiza, #funnyreels, #fashionreels, #travelgram"
-  - username: "dori.traveldiary"
+    hashtags: "#burgenland, #beautifuldestinations, #visitaustria, #wilderkaiser"
+  - username: "elena_wuest"
     fullname: >-
-      Dóri ✈️ Travellover
+      Elena| travel & outdoor 🌎⛰️
     bio: >-
-      📍 Budapest / Hungary ✈️ #travelismypassion 🌍 See the world through my blue-coloured glasses💙 🔜 🇮🇹🍕🍝🍹🍇 💌 dori.traveldiary@gmail.com
+      📸 travel inspiration 🚐 Vanlife @giulio.and.elena 📌 home 🇩🇪
     location: "Austria"
-    followers: 7307
-    engagement: 1025
-    commentsToLikes: 0.068585
-    id: ck5hhdd0k7nax0i11hsu0v3ij
+    followers: 113606
+    engagement: 335
+    commentsToLikes: 0.022492
+    id: ck0twdp5qf1h80i19414j8hyd
     verified: false
-    hashtags: "#croatiafulloflife, #travellikeagirl, #sea, #pugliagram"
-  - username: "deertraveler"
+    hashtags: "#ticino, #weltenbummler, #tessin, #herbstliebe"
+  - username: "nelasoldmann"
     fullname: >-
-      Zsuzsi&Dante| travel couple👫
+      Nela Soldmann
     bio: >-
-      travel | sustainability🌿 | photography @presetsbydeertraveler 📍#vienna based ♡ #livetoconnect ❀ travel tips on each post 👇BLOG & FREEBIES & E-BOOK
+      #wanderlust🌍🌎🌏 📍currently 30 countries📍 ᴸᴵᵛᴱ🙏🏻 ᴸᴼᵛᴱ🤍 ᵀᴿᴬᵛᴱᴸ✈️
     location: "Austria"
-    followers: 14091
-    engagement: 648
-    commentsToLikes: 0.163344
-    id: ck0ud6szwifkt0i19woqx719g
+    followers: 39953
+    engagement: 336
+    commentsToLikes: 0.010246
+    id: ck5ztzm2z1er00i14gj4jv0w6
     verified: false
-    hashtags: "#livetoconnect, #sustainability, #plasticfreejuly, #plasticfree"
-  - username: "_nyuszik_travel_couple_"
+    hashtags: "#austria, #summer, #pooltime, #kohsamui"
+  - username: "florianhausdorfer"
     fullname: >-
-      Dóri & Ákos 💑👫
+      Florian Hausdorfer
     bio: >-
-      From:📍Hungary / Living:📍Austria #travelcouple 👫 ▫travel lovers🎒 ▫explore the world 🌍 🍕WOLT kód🍕《utazonyuszik》1500Ft 🗺 Never Stop Exploring 🗺
+      Model ~ Actor ~ Business ~ Travel Austria 📍
     location: "Austria"
-    followers: 5186
-    engagement: 1153
-    commentsToLikes: 0.198526
-    id: ck6ttdmoea15q0j71j8feapjs
+    followers: 25176
+    engagement: 328
+    commentsToLikes: 0.092256
+    id: ck0twvz0tgzhi0i19c2048t9n
     verified: false
-    hashtags: "#girlstraveleurope, #lifewelltravelled, #zelenci, #travelinladies"
-  - username: "natalkadalka"
+    hashtags: "#sport, #austria, #sun, #abudhabi"
+  - username: "claudiraudiii"
     fullname: >-
-      NataliaS 💕
+      Mountains I Outdoors I Snowboarding I Cycling
     bio: >-
-      ~Made in Vienna 🇦🇹 Lives in Warsaw 🇵🇱 ~In love with modeling👱🏻‍♀️, makeup💄, fashion👗and travel🌍✈️ ~Wife&Mom 💍👶🏼 For COLLAB 👉🏻 DM📩❤️
+      KINDNESS ALWAYS COMES BACK. ☻ Italy / Innsbruck. Professional dreamer & napper.🌞🌙 outdoorlover ∙ snowboard ∙ travel ∙ mountains
     location: "Austria"
-    followers: 43663
-    engagement: 276
-    commentsToLikes: 0.060784
-    id: ck0udkzonjf070i19wxahth7l
+    followers: 13084
+    engagement: 1215
+    commentsToLikes: 0.065459
+    id: ck8t5tyykb8uk0j787yfhb485
     verified: false
-    hashtags: "#polskakobieta, #shortdress, #beautyqueen, #angelface"
-  - username: "sophielicious___"
+    hashtags: "#hikinggirl, #indenbergenzuhause, #outdoorwomen, #outdooradventures"
+  - username: "happymomdiary"
     fullname: >-
-      Sophie Pawlica-Rischko
+      martina l lifestyle blog
     bio: >-
-      • Vienna 📍 • Vize Miss Vienna 2019-2021 • modeling, traveling, daily life
+      based in Vienna designlover | traveladdict l business degree I mum Freue mich, dass du da bist! ✉️happymomdiary@gmx.at Impressum ->Blog
     location: "Austria"
-    followers: 2529
-    engagement: 2076
-    commentsToLikes: 0.053782
-    id: ck6tzqn7sba1p0j71l4uhx8hw
+    followers: 22898
+    engagement: 246
+    commentsToLikes: 0.015805
+    id: ck5hgrueu4f0l0i11ycigv94s
     verified: false
-    hashtags: "#instadaily, #shooting, #austria, #goodvibes"
-  - username: "carolinehvenegaard"
+    hashtags: "#skiing, #tirol, #travel, #skifahren"
+  - username: "fabiankitzweger"
     fullname: >-
-      Caroline Gullacksen Hvenegaard
+      FABIAN KITZWEGER
     bio: >-
-      👧🏽 Mom 💍 Pelle 🌎 Traveller 🏃🏼‍♀️Runner (1 marathon, 2 ultraruns 54 km and 52 km)
+      🇦🇹Fitness | Travel | Lifestyle 🙋🏻‍♂️Chemical Engineer | Mister Austria
     location: "Austria"
-    followers: 11185
-    engagement: 1033
-    commentsToLikes: 0.035561
-    id: ck0w2sru1q0270i19tcv24xpc
-    verified: false
-    hashtags: "#farogdatter, #foreverfamily, #southafrica, #stayhome"
-  - username: "verena_katrien"
-    fullname: >-
-      INSPO | LIFESTYLE | TRAVEL
-    bio: >-
-      • Vienna | Austria • ❥ daily Stories & Posts ✶ founder of @peacox.marketing ❖ lifestyle | empowerment | body & mind ✈ travel lover ↓ Youtube
-    location: "Austria"
-    followers: 151501
-    engagement: 298
-    commentsToLikes: 0.034709
-    id: ck5c8wpnyaclj0i11be6r2ole
-    verified: false
-    hashtags: "#blondegirl, #joalimaldives, #greeneyes, #homeshooting"
+    followers: 211563
+    engagement: 191
+    commentsToLikes: 0.061824
+    id: ck0ttcmlx259p0i19vzjjjii6
+    verified: true
+    hashtags: "#fitcouple, #gymgirl, #gymmemes, #fitnesscouple"
 ---

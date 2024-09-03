@@ -1,11 +1,11 @@
 ---
-title: Top 10 Beauty TikTok Influencers In Austria In 2023
+title: Top 10 Beauty TikTok Influencers In Austria In 2024
 description: >-
-  Find top beauty TikTok influencers in Austria in 2023. Most popular hashtags: #fyp #beauty #foryou #test.
+  Find top beauty TikTok influencers in Austria in 2024. Most popular hashtags: #beauty #fyp #foryou #test.
 platform: TikTok
 hits: 43
-text_top: Discover the top-rated TikTok accounts on inBeat.
-text_bottom: Our search engine has 43 TikTok influencers like this in Austria for you to contact.
+text_top: Discover the best TikTok accounts on inBeat.
+text_bottom: Our platform aggregates 43 TikTok influencers like this in Austria for you to collaborate.
 profiles:
   - username: "lisa.sophie.thoma"
     fullname: >-
@@ -66,7 +66,7 @@ profiles:
     commentsToLikes: 0.083225
     id: ckb9i4mix87e00j23zyh5wcw8
     verified: false
-    hashtags: "#race, #experiment, #viral, #fyp"
+    hashtags: "#fail, #beauty, #duett, #test"
   - username: "sarahelsiee"
     fullname: >-
       sarah ⚡️
@@ -90,7 +90,7 @@ profiles:
     commentsToLikes: 0.065390
     id: ck8roff3sgwh30j78eygn7s6c
     verified: true
-    hashtags: "#wearehere, #tiktokdance, #viral, #gymnastics"
+    hashtags: "#foryoupage, #fyp, #wearehere, #foryou"
   - username: "antonbiermann3"
     fullname: >-
       🖤TONI🖤

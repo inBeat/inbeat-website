@@ -1,11 +1,11 @@
 ---
-title: Top 10 Vegan TikTok Influencers In Spain In 2023
+title: Top 10 Vegan TikTok Influencers In Spain In 2024
 description: >-
-  Find top vegan TikTok influencers in Spain in 2023. Most popular hashtags: #vegan #espa #fyp #parati.
+  Find top vegan TikTok influencers in Spain in 2024. Most popular hashtags: #vegan #espa #parati #fyp.
 platform: TikTok
 hits: 21
-text_top: Discover the best TikTok influencers on inBeat.
-text_bottom: inBeat aggregates 21 TikTok influencers like this in Spain for you to pitch.
+text_top: Discover the most popular TikTok profiles on inBeat.
+text_bottom: Our database has 21 TikTok influencers like this in Spain for you to collaborate.
 profiles:
   - username: "miriamjlas"
     fullname: >-
@@ -66,7 +66,7 @@ profiles:
     commentsToLikes: 0.132080
     id: ckdhchgj5w9s20j23h654w480
     verified: false
-    hashtags: "#vegan, #lush, #name, #madrid"
+    hashtags: "#vegan, #lushcommunity, #regalo, #fuencarral"
   - username: "inmyvegankitchen"
     fullname: >-
       Verónica Larco

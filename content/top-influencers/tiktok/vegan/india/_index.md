@@ -1,11 +1,11 @@
 ---
-title: Top 10 Vegan TikTok Influencers In India In 2023
+title: Top 10 Vegan TikTok Influencers In India In 2024
 description: >-
-  Find top vegan TikTok influencers in India in 2023. Most popular hashtags: #vegan #tiktokchef #streetfood #love.
+  Find top vegan TikTok influencers in India in 2024. Most popular hashtags: #vegan #love #tiktokchef #streetfood.
 platform: TikTok
 hits: 18
-text_top: Analyze the most popular TikTok accounts on inBeat.
-text_bottom: inBeat aggregates 18 TikTok influencers like this in India for you to pitch.
+text_top: See the top-rated TikTok influencers on inBeat.
+text_bottom: inBeat has 18 TikTok influencers like this in India for you to pitch.
 profiles:
   - username: "zomatoindia"
     fullname: >-

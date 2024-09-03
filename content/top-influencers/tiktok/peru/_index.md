@@ -1,11 +1,11 @@
 ---
-title: Top 10 TikTok Influencers In Peru In 2023
+title: Top 10 TikTok Influencers In Peru In 2024
 description: >-
-  Find top TikTok influencers in Peru in 2023. Most popular hashtags: #fyp #parati #foryoupage #foryou.
+  Find top TikTok influencers in Peru in 2024. Most popular hashtags: #fyp #parati #foryoupage #foryou.
 platform: TikTok
 hits: 981
-text_top: Analyze the most popular TikTok accounts on inBeat.
-text_bottom: Our platform aggregates 981 TikTok influencers like this in Peru for you to pitch.
+text_top: Discover the most popular TikTok profiles on inBeat.
+text_bottom: Our search engine holds 981 TikTok influencers like this in Peru for you to collaborate.
 profiles:
   - username: "jorge_palacios_2021"
     fullname: >-

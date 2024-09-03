@@ -1,11 +1,11 @@
 ---
-title: Top 10 Graphic-Designers TikTok Influencers In Australia In 2023
+title: Top 10 Graphic-Designers TikTok Influencers In Australia In 2024
 description: >-
-  Find top graphic-designers TikTok influencers in Australia in 2023. Most popular hashtags: #graphicdesign #fyp #foryou #art.
+  Find top graphic-designers TikTok influencers in Australia in 2024. Most popular hashtags: #graphicdesign #fyp #foryou #art.
 platform: TikTok
 hits: 24
-text_top: Discover the most popular TikTok accounts on inBeat.
-text_bottom: inBeat holds 24 TikTok influencers like this in Australia for you to connect with.
+text_top: See the best TikTok profiles on inBeat.
+text_bottom: inBeat aggregates 24 TikTok influencers like this in Australia for you to pitch.
 profiles:
   - username: "lucasklubbi"
     fullname: >-
@@ -43,6 +43,18 @@ profiles:
     id: ckbqjim9l4m3p0j234nixukj2
     verified: false
     hashtags: "#branding, #logodesign, #graphicdesigner, #freelance"
+  - username: "thequirkycupco"
+    fullname: >-
+      The Quirky Cup Co
+    bio: >-
+      Sydonie 28yo 🌈/ Artist & biz owner 🌻 / Aus 🇦🇺 @thequirkycupcollective
+    location: "Australia"
+    followers: 57500
+    engagement: 1292
+    commentsToLikes: 0.028154
+    id: ck81s73hzqha30j78sid9o6wr
+    verified: false
+    hashtags: "#duet, #unboxing, #zodiacsigns, #graphicdesign"
   - username: "itsjovs"
     fullname: >-
       𝗝𝗢𝗩𝗔𝗡𝗔
@@ -91,18 +103,6 @@ profiles:
     id: ck9uy684531ck0j78tbzkh3fu
     verified: false
     hashtags: "#booktok, #lovemumssmile, #thismyface, #reading"
-  - username: "thequirkycupco"
-    fullname: >-
-      The Quirky Cup Co
-    bio: >-
-      Sydonie 27yo 🌈/ Artist & biz owner 🌻 / Aus 🇦🇺 @thequirkycupcollective
-    location: "Australia"
-    followers: 38300
-    engagement: 1521
-    commentsToLikes: 0.028876
-    id: ck81s73hzqha30j78sid9o6wr
-    verified: false
-    hashtags: "#artist, #duet, #delivery, #unboxing"
   - username: "dawnlewisimagery"
     fullname: >-
       Dawn Lewis

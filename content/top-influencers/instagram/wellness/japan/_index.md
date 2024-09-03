@@ -1,24 +1,60 @@
 ---
-title: Top 10 Wellness Instagram Influencers In Japan In 2023
+title: Top 10 Wellness Instagram Influencers In Japan In 2024
 description: >-
-  Find top wellness Instagram influencers in Japan in 2023. Most popular hashtags: #tokyo #japan #wellness #healthy.
+  Find top wellness Instagram influencers in Japan in 2024. Most popular hashtags: #wellness #japan #tokyo.
 platform: Instagram
-hits: 16
-text_top: Identify the top-rated Instagram profiles on inBeat.
-text_bottom: Our search engine aggregates 16 Instagram influencers like this in Japan for you to connect with.
+hits: 22
+text_top: Analyze the most popular Instagram accounts on inBeat.
+text_bottom: Our search engine has 22 Instagram influencers like this in Japan for you to pitch.
 profiles:
-  - username: "taylor_lovee"
+  - username: "breannaquan.xo"
     fullname: >-
-      TAYLOR LOVE |Love Inside & Out
+      BREANNA QUAN ♡
     bio: >-
-      👋🏻🤍sharing daily style, beauty, & wellness to inspire love from the inside-out! holistic health & living fully 💍@dyl.jp + Bozeman, MT🏔+ 🐶🐶💕 blog👇🏻
+      productivity, lifestyle & wellness 🍵 💌 breannaquanxo@gmail.com
     location: "Japan"
-    followers: 117005
-    engagement: 204
-    commentsToLikes: 0.040832
-    id: ck0w2og84peih0i19iayfjkxx
+    followers: 170184
+    engagement: 2227
+    commentsToLikes: 0.005101
+    id: ckvgbj7d78gp20j23c22x1acz
     verified: false
-    hashtags: "#ad, #montanasummer, #liketkit, #wedding"
+    hashtags: "#studyvlog, #collegevlog, #explorepage, #explore"
+  - username: "shiho_style"
+    fullname: >-
+      SHIHO
+    bio: >-
+      Model / Wellness Advocate / 滋賀国際親善大使
+    location: "Japan"
+    followers: 767822
+    engagement: 99
+    commentsToLikes: 0.005119
+    id: ck5pyo983wzir0i1187ybcjdk
+    verified: true
+    hashtags: "#summer, #pr, #bali, #okinawa"
+  - username: "weecheryl"
+    fullname: >-
+      Cheryl W.
+    bio: >-
+      Wellness enthusiast || mama of 3 Founder of @cherylwofficial 📮helloweecheryl@gmail.com
+    location: "Japan"
+    followers: 102168
+    engagement: 92
+    commentsToLikes: 0.008781
+    id: ck13bgi90vbav0i19nojxd5zy
+    verified: true
+    hashtags: "#spreadlovewithnutella, #nutellamagic, #dysonhomesg, #rwscny"
+  - username: "dangjoanne"
+    fullname: >-
+      Joanne Dang
+    bio: >-
+      lifestyle • wellness • travel move with me @dangpilates 💌 joannedang@aol.com
+    location: "Japan"
+    followers: 82348
+    engagement: 11
+    commentsToLikes: 0.000000
+    id: cl3xlfveqel5q0i23st6s1p99
+    verified: false
+    hashtags: "#arbonne, #plantbasednutrition, #fashionnovapartner, #giftedstay"
   - username: "risako_yamamoto"
     fullname: >-
       Risako Yamamoto
@@ -43,6 +79,42 @@ profiles:
     id: ck6ugjp043fd10j713dg2wyzc
     verified: false
     hashtags: "#fiat, #ritzcarltonokinawa, #ritzcarlton, #pr"
+  - username: "samanthaausa"
+    fullname: >-
+      Sammy Schultz (Achterberg)
+    bio: >-
+      Olympian • Modern Pentathlon - Personal Trainer, Pilates & Yoga Instructor - Army National Guard - Colorado girl🏔 • Stay Humble•Work Hard•Be Kind•
+    location: "Japan"
+    followers: 14359
+    engagement: 249
+    commentsToLikes: 0.051332
+    id: ck6tpknxfkegs0j7124bhp46n
+    verified: true
+    hashtags: "#coloradosprings, #5uperathlete, #colorado, #wellness"
+  - username: "natalie.soderstrom"
+    fullname: >-
+      Natalie Söderström
+    bio: >-
+      📍Hong Kong Model. Yoga & Meditation teacher.
+    location: "Japan"
+    followers: 24658
+    engagement: 105
+    commentsToLikes: 0.025385
+    id: ck5bx540an0x50i112kc2tt5p
+    verified: false
+    hashtags: "#hkbeauty, #jewellery, #nudebeautique, #hkbeautysalon"
+  - username: "nhkworldjapan"
+    fullname: >-
+      NHK WORLD-JAPAN
+    bio: >-
+      Follow us for the latest from Japan! Official account of NHK, Japan’s public broadcaster. Terms: www3.nhk.or.jp/nhkworld/en/terms 👇 Link of the Month👇
+    location: "Japan"
+    followers: 337612
+    engagement: 97
+    commentsToLikes: 0.011497
+    id: ck5qatz4ii8mr0i11wtwk7vgx
+    verified: true
+    hashtags: "#learnjapanese, #animeartist, #japaneseanime, #traveljapan"
   - username: "tamura_shoko"
     fullname: >-
       田村翔子　Shoko Tamura
@@ -55,76 +127,4 @@ profiles:
     id: ckap757hiiohh0i78tsr03hx5
     verified: false
     hashtags: "#tokyolife, #winterfashion, #lifestyles, #tokyolifestyle"
-  - username: "yuminchu1029"
-    fullname: >-
-      𝘠𝘶𝘮𝘪𝘯𝘤𝘩𝘶🌞✌🏽
-    bio: >-
-      🌴𝚖𝚎𝚛𝚖𝚊𝚒𝚍🧡🌈 🎙 𝚖𝚘𝚍𝚎𝚕/𝚌𝚛𝚎𝚊𝚝𝚘𝚛 /𝚝𝚛𝚊𝚟𝚎𝚕𝚎𝚛 /𝚜𝚒𝚗𝚐𝚎𝚛 𝖾𝗑.𝐽𝑢𝑙𝑖𝑒𝑡 🇦🇺𝖠𝗆𝖻𝖺𝗌𝗌𝖺𝖽𝗈𝗋 @mahiya_leather @irie_beach @mysticbysea 𝘦𝘵𝘤 🎟𝖳𝗂𝗄𝖳𝗈𝗄 𝖿𝗈𝗅𝗅𝗈𝗐𝖾𝗋𝗌 𝟨7𝗄🎧 お仕事のご依頼はDMまで📨
-    location: "Japan"
-    followers: 58157
-    engagement: 219
-    commentsToLikes: 0.006197
-    id: ck5qc609jp0ks0i117w2k7p5j
-    verified: false
-    hashtags: "#boho, #ootd, #beach, #fashion"
-  - username: "kinaahsing"
-    fullname: >-
-      Kina Ah Sing
-    bio: >-
-      ᗩᒪ🌞ᕼᗩ!こんにちは!🏝ᕼI↔️ᒍᑭ🗾 ≋ 𝚒𝚜𝚕𝚊𝚗𝚍 𝚋𝚎𝚊𝚞𝚝𝚢 𝚛𝚎𝚒𝚖𝚊𝚐𝚒𝚗𝚎𝚍 ≋ @moeahawaii ✨ 🎥our production company⏩ @okinakalani🕺🏻
-    location: "Japan"
-    followers: 6440
-    engagement: 1193
-    commentsToLikes: 0.044365
-    id: ckap171patbug0i782fo5907q
-    verified: false
-    hashtags: "#hawaiiantime, #kinaandkalani, #tokyo, #reelsinstagram"
-  - username: "yui_innami"
-    fullname: >-
-      𝗬𝗨𝗜
-    bio: >-
-      𝗧𝗼𝗸𝘆𝗼🇯🇵 𝗗𝗮𝗻𝗰𝗲𝗿 / 𝗖𝗵𝗼𝗿𝗲𝗼𝗴𝗿𝗮𝗽𝗵𝗲𝗿 𝗬𝗼𝗴𝗮 𝗜𝗻𝘀𝘁𝗿𝘂𝗰𝘁𝗼𝗿 (𝗥𝗬𝗧𝟮𝟬𝟬・𝗥𝗣𝗬𝗧𝟴𝟱) 𝗕𝗼𝗱𝘆𝗷𝗮𝗺 / 𝗣𝗮𝗶𝗻𝘁𝗲𝗿 / 𝗠𝗼𝗺 𝗔𝗺𝗯𝗮𝘀𝘀𝗮𝗱𝗼𝗿 @onearts_jpn @sloli_jp #yuiinnami #yuiyoga21 🌹
-    location: "Japan"
-    followers: 5893
-    engagement: 410
-    commentsToLikes: 0.012667
-    id: ck15qzol85eoh0i19iscqplh1
-    verified: false
-    hashtags: "#yuiyoga21, #vans, #minne, #freehand"
-  - username: "nanappee416"
-    fullname: >-
-      ナナちゃん
-    bio: >-
-      森高千里さん大好きものまね芸人 トータルフードコーディネーター 誰でも簡単においしく楽しく作れるレシピ研究家 ＊ 幸せボンビーガール/月曜から夜ふかし/マネもの/ザ･ノンフィクション 森高ダイエットで-𝟏𝟎キロ成功 ＊ #おうちごはん#おうちカフェ お仕事のご依頼はDMでお願いします💌
-    location: "Japan"
-    followers: 67387
-    engagement: 184
-    commentsToLikes: 0.015408
-    id: ckf5lrdi6qox20j23g4fq2svm
-    verified: false
-    hashtags: "#japanesegirl, #japanesefood, #japan, #cooking"
-  - username: "wakanozawa"
-    fullname: >-
-      WAKA_NOZAWA
-    bio: >-
-      Fashion model, YOGAteacher. YouTube👇
-    location: "Japan"
-    followers: 91361
-    engagement: 216
-    commentsToLikes: 0.015327
-    id: ck0tv67jqa42e0i192zotzc0w
-    verified: false
-    hashtags: "#happyjournal, #wellnesstogo"
-  - username: "shiho_style"
-    fullname: >-
-      SHIHO
-    bio: >-
-      IMG ﻿ BONBOO. ENT / Korea﻿ Shiho Meditation 👇🏻108瞑想
-    location: "Japan"
-    followers: 800603
-    engagement: 147
-    commentsToLikes: 0.004272
-    id: ck5pyo983wzir0i1187ybcjdk
-    verified: true
-    hashtags: "#stayhealthy, #challenge, #event, #happymothersday"
 ---

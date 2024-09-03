@@ -1,12 +1,36 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Montreal In 2023
+title: Top 10 Fashion Instagram Influencers In Montreal In 2024
 description: >-
-  Find top fashion Instagram influencers in Montreal in 2023. Most popular hashtags: #montreal #fashion #aesthetic #winter.
+  Find top fashion Instagram influencers in Montreal in 2024. Most popular hashtags: #montreal #fashion #photoshoot.
 platform: Instagram
-hits: 38
-text_top: See the top-rated Instagram accounts on inBeat.
-text_bottom: Our database has 38 Instagram influencers like this in Montreal, Canada for you to contact.
+hits: 111
+text_top: Discover the most popular Instagram influencers on inBeat.
+text_bottom: Our database has 111 Instagram influencers like this in Montreal, Canada for you to pitch.
 profiles:
+  - username: "sandrinesanterre"
+    fullname: >-
+      Sandrine Santerre
+    bio: >-
+      Content Creator | lifestyle, travel, fashion. Montréal , Canada. Photographer 📸 @muse.agencecreative sandrinesanterre@outlook.com
+    location: "Canada"
+    followers: 6226
+    engagement: 523
+    commentsToLikes: 0.085424
+    id: cktdxnz268mgi0j234zhlutff
+    verified: false
+    hashtags: "#invitation, #iweargarage, #osheaga2022, #creatricedecontenu"
+  - username: "kathleenisabellee"
+    fullname: >-
+      Kathleen Giglio
+    bio: >-
+      🧿| Fashion, Lifestyle, DIY & Travel Collaboration : K.promoo@gmail.com 🌸
+    location: "Canada"
+    followers: 48132
+    engagement: 119
+    commentsToLikes: 0.044822
+    id: cld6qdjtncdpr0j085gashfyx
+    verified: false
+    hashtags: "#foryou, #fyp, #sheinforall, #montrealmakeup"
   - username: "prissworldwide"
     fullname: >-
       Prisselda Voltaire
@@ -18,7 +42,7 @@ profiles:
     commentsToLikes: 0.044491
     id: ck8swql75ewbw0j785kkimjt2
     verified: false
-    hashtags: "#photography, #guadeloupe, #naturalhair, #photographer"
+    hashtags: "#selfportrait, #photoshoot, #photography, #afrohair"
   - username: "saralevs"
     fullname: >-
       SARA LEVITT
@@ -31,100 +55,76 @@ profiles:
     id: ckaoszed3towd0i78ukl5z3y1
     verified: false
     hashtags: "#lacucina"
-  - username: "anacruz"
+  - username: "cassidyneves"
     fullname: >-
-      Ana Cruz🌶
+      Cassidy Neves
     bio: >-
-      Colombiana 🇨🇴 Based in Montreal Fashion + lifestyle • contactanacruz@gmail.com
+      fashion & lifestyle montreal e-commerce @lorealgroupe tiktok @ cassidyneves 🪐
     location: "Canada"
-    followers: 21900
-    engagement: 202
-    commentsToLikes: 0.108976
-    id: ck0u9oei7ad2e0i198tdo1bex
+    followers: 21088
+    engagement: 289
+    commentsToLikes: 0.110050
+    id: cl0cxzu71glrb0i2301fsw40g
     verified: false
-    hashtags: "#makeup, #ad, #makeuptutorial, #foodie"
-  - username: "sirio"
+    hashtags: "#junos, #excelgum, #dowhatfeelsfresh, #ubykotex"
+  - username: "abelaslife"
     fullname: >-
-      SIRIO 🌀
+      ABELA’S LIFE🕊
     bio: >-
-      Approaching the speed of chaos. 🇦🇱 🇨🇦 STREAM I DON’T KNOW 👇🏼
+      ✎ Bac en droit & Maîtrise en droit UdeM ⚐ Montréal | Fashion • Home decor⠀⠀ ⠀ ⠀ ⠀ ⠀⠀⠀⠀ ⋆ audreybeliveau@hotmail.com
     location: "Canada"
-    followers: 98529
-    engagement: 365
-    commentsToLikes: 0.007735
-    id: ck5qc4wn7ovj80i11oljv39q3
-    verified: true
-    hashtags: "#pauseshot, #fashionbruh, #vismag, #photoshop"
-  - username: "roderikopop"
-    fullname: >-
-      Roderiko Pop
-    bio: >-
-      Singer Songwriter #traveler #boy 🎠⛵✈🚀 Pictures by me without flash 📸 LISTEN TO MY MUSIC 👇🏻
-    location: "Canada"
-    followers: 30575
-    engagement: 272
-    commentsToLikes: 0.040830
-    id: ckap2r4o8zyh40i78kd9g0zv6
+    followers: 31848
+    engagement: 278
+    commentsToLikes: 0.098864
+    id: ck5zmrplon3na0i1479y9ok0q
     verified: false
-    hashtags: "#mood, #instagood, #monday, #pop"
-  - username: "milocurls"
+    hashtags: "#partenaire, #nurseryreveal, #rwco, #ad"
+  - username: "vanessa.anna"
     fullname: >-
-      Milo | Kid Model & Influencer
+      Vanessa
     bio: >-
-      〰️ CURLS, SELF LOVE & FASHION 📩 milo.curls@hotmail.com 📍Montreal🇨🇦 Bookings @goodfaces.club #milocurls
+      montreal fashion + lifestyle 🎀 UGC Creator 💌 vanessa.luttrell@gmail.com
     location: "Canada"
-    followers: 3745
-    engagement: 527
-    commentsToLikes: 0.232439
-    id: ckaowqtbia1ao0i78z4exwis6
+    followers: 51988
+    engagement: 183
+    commentsToLikes: 0.046761
+    id: ck0w4rrzb036i0i19s3yp8vlk
     verified: false
-    hashtags: "#kicksoftheday, #milocurls"
-  - username: "stinakayy"
+    hashtags: "#casualstyleinspo, #cozywinter, #winteroutfit, #winteraesthetic"
+  - username: "annysabelle.s"
     fullname: >-
-      𝐒𝐓𝐈𝐍𝐀 𝐊𝐀𝐘𝐘
+      𝐀𝐧𝐧𝐲𝐬𝐚𝐛𝐞𝐥𝐥𝐞 🇭🇹| Content creator
     bio: >-
-      𝗦𝗽𝗮𝗿𝘁𝗮𝗻, 𝗚𝗿𝗲𝗲𝗸 𝐆𝐨𝐝𝐝𝐞𝐬𝐬 📌 𝗶𝗻𝗾𝘂𝗶𝗿𝗶𝗲𝘀 -> 𝘀𝘁𝗶𝗶𝗻𝗮𝗮𝗸𝗮𝘆@𝗴𝗺𝗮𝗶𝗹.𝗰𝗼𝗺 📌 𝗧𝗶𝗸𝗧𝗼𝗸 & 𝗧𝘄𝗶𝘁𝘁𝗲𝗿 -> 𝗦𝘁𝗶𝗻𝗮𝗞𝗮𝘆𝘆 (3.2M) https://linktr.ee/stinakayy
+      Food | Dance | Lifestyle 📧 info.annysabelle@gmail.com 👩🏾‍🍳 @thechellabox 👠 @slayingheels
     location: "Canada"
-    followers: 720126
-    engagement: 218
-    commentsToLikes: 0.007791
-    id: ck8wd0i0nd8v60j78oy7m0q5r
+    followers: 15190
+    engagement: 460
+    commentsToLikes: 0.089701
+    id: ckxtss1g2csfr0j23oljmyxjv
     verified: false
-    hashtags: "#miami, #reels, #puppy, #styleinspo"
-  - username: "angharada.model"
+    hashtags: "#sundaystyle, #haitian, #saturdaystyle, #fashion"
+  - username: "virushigaasrikumar"
     fullname: >-
-      𝒜 𝓃 𝑔 𝒽 𝒶 𝓇 𝒶 𝒹 𝒶
+      Viruu | content creator
     bio: >-
-      •Time Traveling Model• The Past Will Be My Future • Celtic/Baltic• Professional Model- available to hire in Vancouver, Canada. •OFFERING REMOTE SHOOTS
+      📍montréal • South Asian • Tamil Dance • Lifestyle • Beauty Tiktok : @virushigaasrikuma1 ( 55K+ ) 📧 : virushigaa.srikumar@gmail.com
     location: "Canada"
-    followers: 32592
-    engagement: 448
-    commentsToLikes: 0.042615
-    id: ck15tn028ivx00i19vaaw8j0q
+    followers: 108545
+    engagement: 510
+    commentsToLikes: 0.016420
+    id: ckqeixj0xmusc0j239g5934qe
     verified: false
-    hashtags: "#orange, #beautiful, #fantasyart, #travelphotography"
-  - username: "taliana.noronha"
+    hashtags: "#mtl, #model, #photoshoot, #chennai"
+  - username: "po.tato"
     fullname: >-
-      𝔗𝔞𝔩𝔦𝔞𝔫𝔞 💿
+      Maya
     bio: >-
-      🇧🇷 fashion&dance @flip.officiall @dmnation_official @cirquedusoleil @agt @revolutiontva @nbcworldofdance
+      Multifaceted Creative Podcast Co-Host 1/4 @traphikboyz 📧 maya.makonnen@gmail.com
     location: "Canada"
-    followers: 9760
-    engagement: 373
-    commentsToLikes: 0.016531
-    id: cl12gwcjay62r0i23q6p8h0pp
+    followers: 18117
+    engagement: 354
+    commentsToLikes: 0.068997
+    id: ck55mvu474xrx0i11zfc92qsl
     verified: false
-    hashtags: "#quebec, #quebeccity, #dancevideo, #reels"
-  - username: "aliciawaid"
-    fullname: >-
-      Alicia Waid
-    bio: >-
-      Montréal. Content Creator. Owner of @nvizionmedia. Lifestyle | Travel | Interior & Fashion ✉️ alicia.waid8@gmail.com
-    location: "Canada"
-    followers: 34577
-    engagement: 19
-    commentsToLikes: 0.013499
-    id: ck6ucsdfrh9qx0j71lrgn6qdg
-    verified: false
-    hashtags: "#loveandwildhearts, #goldaccents, #thousandislands, #authenticlovemag"
+    hashtags: "#35mm, #gifted, #stockxcanada, #stockxsneakers"
 ---

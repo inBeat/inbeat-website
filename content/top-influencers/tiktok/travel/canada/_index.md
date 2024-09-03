@@ -1,11 +1,11 @@
 ---
-title: Top 10 Travel TikTok Influencers In Canada In 2023
+title: Top 10 Travel TikTok Influencers In Canada In 2024
 description: >-
-  Find top travel TikTok influencers in Canada in 2023. Most popular hashtags: #travel #toronto #canadian #fyp.
+  Find top travel TikTok influencers in Canada in 2024. Most popular hashtags: #travel #toronto #canadian.
 platform: TikTok
-hits: 581
-text_top: Analyze the best TikTok accounts on inBeat.
-text_bottom: Our database holds 581 TikTok influencers like this in Canada for you to connect with.
+hits: 579
+text_top: Analyze the top-rated TikTok influencers on inBeat.
+text_bottom: Our platform aggregates 579 TikTok influencers like this in Canada for you to collaborate.
 profiles:
   - username: "bookfully"
     fullname: >-
@@ -13,12 +13,12 @@ profiles:
     bio: >-
       🌍 Group Travel Made Easy
     location: "Canada"
-    followers: 58100
-    engagement: 722
-    commentsToLikes: 0.019269
+    followers: 58400
+    engagement: 653
+    commentsToLikes: 0.021745
     id: ck8fa2mmb3yew0j78bc5lx09t
     verified: false
-    hashtags: "#beachvibes, #borabora, #switzerland, #travel"
+    hashtags: "#tiktokmaldives, #switzerland, #borabora, #travel"
   - username: "naomileanage"
     fullname: >-
       Naomi Leanage
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.024703
     id: ck806vbblmaom0j78ddv18enc
     verified: false
-    hashtags: "#torontovlog, #tryonhaul, #toronto, #canadian"
+    hashtags: "#canadian, #toronto, #torontovlog, #tryonhaul"
   - username: "brycenicholsonart"
     fullname: >-
       brycenicholsonart
@@ -54,7 +54,7 @@ profiles:
     commentsToLikes: 0.108754
     id: ckammxh502g7q0i78cua0ypgg
     verified: false
-    hashtags: "#springtimefun, #mountainman, #canadian, #vancouver"
+    hashtags: "#campinglife, #vancity, #springtimefun, #canada"
   - username: "stephenkortzman"
     fullname: >-
       Stephen Kortzman
@@ -90,7 +90,7 @@ profiles:
     commentsToLikes: 0.088157
     id: ckace9kecltqt0i78fzu4m3f9
     verified: false
-    hashtags: "#tiktokdiy, #catsoftiktok, #xyzabc, #homediy"
+    hashtags: "#xyzabc, #tiktokdiy, #homedecor, #catsoftiktok"
   - username: "jaysoune"
     fullname: >-
       Jason Gagnon

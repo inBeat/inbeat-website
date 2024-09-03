@@ -1,36 +1,24 @@
 ---
-title: Top 10 Painters Instagram Influencers In Norway In 2023
+title: Top 10 Painters Instagram Influencers In Norway In 2024
 description: >-
-  Find top painters Instagram influencers in Norway in 2023. Most popular hashtags: #norway #photooftheday #winter.
+  Find top painters Instagram influencers in Norway in 2024. Most popular hashtags: #norway #ootd #photooftheday #winter.
 platform: Instagram
-hits: 9
-text_top: Analyze the best Instagram accounts on inBeat.
-text_bottom: inBeat aggregates 9 Instagram influencers like this in Norway for you to connect with.
+hits: 10
+text_top: See the best Instagram influencers on inBeat.
+text_bottom: Our platform holds 10 Instagram influencers like this in Norway for you to collaborate.
 profiles:
-  - username: "thereseaanonli"
-    fullname: >-
-      THERESE AANONLI
-    bio: >-
-      Årets Beautyprofil 2020 Costume Awards🏆 Beauty Expert på MinMote Mom to Nelly together with @juliejungle🏳️‍🌈 Painter🎨
-    location: "Norway"
-    followers: 63496
-    engagement: 108
-    commentsToLikes: 0.044188
-    id: ck5bxebwynk6k0i11jin1uzyh
-    verified: false
-    hashtags: ""
   - username: "painter_isse"
     fullname: >-
       Painter Isse 🌸
     bio: >-
-      Sikkens Painter Norway 🇳🇴 Work for @lakkserviceas ••••••••••••••• I have passion & love for the Automotive Industry!🔥 •••••••••••••••• Wife💍
+      Isse from Norway 🇳🇴 Instagram • TikTok • YouTube Colad•Walcom•Unilite•Kovax Passion/Learning/Teaching/Community/Fun
     location: "Norway"
-    followers: 44983
-    engagement: 398
-    commentsToLikes: 0.113106
+    followers: 201430
+    engagement: 118
+    commentsToLikes: 0.022891
     id: ck0vzmehd9tet0i19xaisulu3
     verified: false
-    hashtags: "#sikkensuvprimer, #refinisherporn, #ionstarcrew, #autobodyshop"
+    hashtags: "#girlsbehindthegun, #passion, #colad, #akzonobel"
   - username: "nina_carlsen_photo"
     fullname: >-
       Nina, Norway
@@ -47,14 +35,26 @@ profiles:
     fullname: >-
       KATE WILLIAMS • FOOD & TRAVEL
     bio: >-
-      Food, Travel, Nature, Astro and Events 🗺 NEW WEBSITE COMING SOON 🤓
+      Travel, Landscapes, Astro & Food 🗺
     location: "Norway"
-    followers: 16418
-    engagement: 285
-    commentsToLikes: 0.029711
+    followers: 24956
+    engagement: 142
+    commentsToLikes: 0.042194
     id: ck8sydtj8kj610j78b1h4qu9s
     verified: false
-    hashtags: "#discoverearth, #roam, #moodygrams, #visualsofearth"
+    hashtags: "#naturephotography, #wondermore, #discoverearth, #visualsofearth"
+  - username: "mirukurum"
+    fullname: >-
+      mieu ♡
+    bio: >-
+      ⁣LV, NO // 27 // busy doing online activities ⋆｡˚ ✿⠀ ⁣⁣⁣⁣collabs ☆ business: mieuette@gmail.com⠀ twitter, pinterest & more⭣♡ ˊ˗ mirukurum.carrd.co/
+    location: "Norway"
+    followers: 387330
+    engagement: 377
+    commentsToLikes: 0.005809
+    id: ck8t0hbqss2960j78fbaorcet
+    verified: false
+    hashtags: "#darkacademia, #kawaii, #pastelkei, #coquette"
   - username: "_bakerina"
     fullname: >-
       Baked by a Ballerina
@@ -67,6 +67,30 @@ profiles:
     id: ck134m3ngx3j30i19wzytx5m4
     verified: false
     hashtags: "#veganlunch, #veganoatmeal, #veganbaker, #veganbowl"
+  - username: "austulyys"
+    fullname: >-
+      AUSTĖJA K. BOVIND
+    bio: >-
+      UGC creator ~ Oslo ✉️ : austyys@gmail.com
+    location: "Norway"
+    followers: 50931
+    engagement: 69
+    commentsToLikes: 0.028723
+    id: ck6uayss96h9x0j71h4ypuhoy
+    verified: false
+    hashtags: "#neutralstyle, #minimalfashion, #parisianchic, #summertrends"
+  - username: "_megansum"
+    fullname: >-
+      Megan S.
+    bio: >-
+      five foot fine. 💍🧿 @_sinnity pr: megnicoleas@gmail.com
+    location: "Norway"
+    followers: 12845
+    engagement: 86
+    commentsToLikes: 0.010622
+    id: ckxr7wsh9bcfb0j235q93vyzd
+    verified: false
+    hashtags: "#emmiolgal, #idealxbrandbassador, #emmiol, #idealofsweden"
   - username: "helenegjessing"
     fullname: >-
       H E L E N E 🌙
@@ -103,16 +127,4 @@ profiles:
     id: ck0u60z060mhj0i1946ykwz4n
     verified: false
     hashtags: "#ootd, #easter, #motherhood, #family"
-  - username: "annika.sofie"
-    fullname: >-
-      Annika Sofie
-    bio: >-
-      — norwegian in london 🍋 shapes, colours and curves 💌 eannikasofie@gmail.com
-    location: "Norway"
-    followers: 2314
-    engagement: 987
-    commentsToLikes: 0.119528
-    id: ckaorsk6tok8k0i78z9quiskq
-    verified: false
-    hashtags: "#minimalstreetwear, #70sfashion, #visitoslo, #vievemuse"
 ---

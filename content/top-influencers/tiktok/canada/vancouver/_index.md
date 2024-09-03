@@ -1,11 +1,11 @@
 ---
-title: Top 10 TikTok Influencers In Vancouver In 2023
+title: Top 10 TikTok Influencers In Vancouver In 2024
 description: >-
-  Find top TikTok influencers in Vancouver in 2023. Most popular hashtags: #vancouver #greenscreen #britishcolumbia.
+  Find top TikTok influencers in Vancouver in 2024. Most popular hashtags: #fyp #greenscreen #vancouver.
 platform: TikTok
-hits: 466
-text_top: Discover the top-rated TikTok profiles on inBeat.
-text_bottom: Our search engine aggregates 466 TikTok influencers like this in Vancouver, Canada for you to pitch.
+hits: 463
+text_top: Discover the most popular TikTok accounts on inBeat.
+text_bottom: inBeat holds 463 TikTok influencers like this in Vancouver, Canada for you to contact.
 profiles:
   - username: "abatamz"
     fullname: >-
@@ -55,18 +55,6 @@ profiles:
     id: ckcoydf5fa4lv0j23xipaz955
     verified: false
     hashtags: "#gaymer, #pokemonstreamer, #pokemon, #greenscreen"
-  - username: "ellllajsaa"
-    fullname: >-
-      elisa
-    bio: >-
-      🧁💌🧸🍰🤎 she/her vancouver/🇦🇱 PRESAVE MY SONG⤵️
-    location: "Canada"
-    followers: 9211
-    engagement: 2228
-    commentsToLikes: 0.062544
-    id: ckdtjygfsxfs60j23h508dyac
-    verified: false
-    hashtags: "#shqipe, #musician, #vancouver, #leo"
   - username: "b4byv4mpire"
     fullname: >-
       sade
@@ -114,7 +102,7 @@ profiles:
     commentsToLikes: 0.108754
     id: ckammxh502g7q0i78cua0ypgg
     verified: false
-    hashtags: "#springtimefun, #mountainman, #canadian, #vancouver"
+    hashtags: "#campinglife, #vancity, #springtimefun, #canada"
   - username: "tylerjayrose"
     fullname: >-
       Tyler Jay Rose
@@ -127,4 +115,16 @@ profiles:
     id: ck9nmw8zhmfrw0j78db7cpde3
     verified: false
     hashtags: ""
+  - username: "kaitlynnladwig"
+    fullname: >-
+      Kaitlynn Ladwig
+    bio: >-
+      7teen Vancouver🇨🇦
+    location: "Canada"
+    followers: 3109
+    engagement: 1083
+    commentsToLikes: 0.117596
+    id: ck92uxoopo17m0j78b34jdces
+    verified: false
+    hashtags: "#fyp, #toocold, #cleantok, #foryoupage"
 ---

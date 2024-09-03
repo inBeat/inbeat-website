@@ -1,12 +1,48 @@
 ---
-title: Top 10 Music Instagram Influencers In Japan In 2023
+title: Top 10 Music Instagram Influencers In Japan In 2024
 description: >-
-  Find top music Instagram influencers in Japan in 2023. Most popular hashtags: #ootd #harajukufashion #halloween.
+  Find top music Instagram influencers in Japan in 2024. Most popular hashtags: #ootd #japan #live.
 platform: Instagram
-hits: 383
-text_top: See the top-rated Instagram profiles on inBeat.
-text_bottom: Our platform aggregates 383 Instagram influencers like this in Japan for you to contact.
+hits: 378
+text_top: Identify the top-rated Instagram accounts on inBeat.
+text_bottom: Our database has 378 Instagram influencers like this in Japan for you to connect with.
 profiles:
+  - username: "ela_yababy"
+    fullname: >-
+      𝐘𝐀𝐁𝐀𝐁𝐘
+    bio: >-
+      ∘ ∗ ✵☽ human. ❀༄ ∗ ∘ 🇬🇭🇨🇿 | life & music | Now in Taiwan/Japan📍#zacnizitaprestanumirat 📩yababyell0@gmail.com ↓ MY MUSIC out now ↓
+    location: "Japan"
+    followers: 92405
+    engagement: 441
+    commentsToLikes: 0.006720
+    id: ck5zlqycal83a0i1424469nkh
+    verified: false
+    hashtags: "#forall, #zacnizitaprestanumirat, #hotgirlsummershit, #haircarewithoutcompromise"
+  - username: "ohwondermusic"
+    fullname: >-
+      Oh Wonder
+    bio: >-
+      Anthony and Josephine ⚡ @antwestmusic / @thatwoman Making music @studiohighwater Making coffee @drinkatnola Pre-order/listen to Josephine's solo album
+    location: "Japan"
+    followers: 261849
+    engagement: 364
+    commentsToLikes: 0.012641
+    id: ck14l9vtntkpo0i19mbcyvyib
+    verified: true
+    hashtags: "#recordstoreday, #ohwonder, #rsd2024, #tricks"
+  - username: "fendergaichiban"
+    fullname: >-
+      RYU
+    bio: >-
+      Guitarist, Musician 🇯🇵
+    location: "Japan"
+    followers: 44331
+    engagement: 265
+    commentsToLikes: 0.044242
+    id: ck6tvzmtpp6fg0j710uj0hjug
+    verified: false
+    hashtags: "#gibsoncustomshop, #marshall, #vintagerock, #oldguitars"
   - username: "cc_yuuto_"
     fullname: >-
       YUUTO【COLOR CREATION】
@@ -91,40 +127,4 @@ profiles:
     id: ck5pyn6wvwu510i110yk9fonv
     verified: false
     hashtags: "#yosh, #thehideoutstudiosjpn, #survivesaidtheprophet, #justindavis"
-  - username: "rareirurero"
-    fullname: >-
-      Rei 大おお猿ざる
-    bio: >-
-      Little Monkey💢🐵 。サイヤ人 。737年04月09日 。When I look at 🌕 I turn into a nasty monkey. 。music/cat/food/anime 。Kawaiistep/Jpop-rock/RAP-RnB/V系 M.A.D.A.O
-    location: "Japan"
-    followers: 46288
-    engagement: 1613
-    commentsToLikes: 0.006166
-    id: ck14lpg8uvtvx0i19qt4l4lmy
-    verified: false
-    hashtags: "#altervenomv, #kny, #mitsurikanrojicosplay, #piercing"
-  - username: "maudeapatow"
-    fullname: >-
-      Maude Apatow
-    bio: >-
-      fan of the musical annie
-    location: "Japan"
-    followers: 646284
-    engagement: 1189
-    commentsToLikes: 0.004174
-    id: ck5hkgqorie1m0i119lro1xfq
-    verified: true
-    hashtags: "#miumiuss21, #itsawonderfullife, #bvlgariwomeninfilm, #bvlgariaccessories"
-  - username: "mayu_kitazawa"
-    fullname: >-
-      Mayu Kitazawa/北澤舞悠
-    bio: >-
-      21🇯🇵 Sony Music Artists所属
-    location: "Japan"
-    followers: 83343
-    engagement: 633
-    commentsToLikes: 0.002922
-    id: ck0vyw6f962zu0i199fwa8k09
-    verified: true
-    hashtags: "#valentinocollezionemilano, #atelierbag, #romanstud, #pr"
 ---

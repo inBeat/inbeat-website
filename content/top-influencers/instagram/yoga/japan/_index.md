@@ -1,12 +1,72 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Japan In 2023
+title: Top 10 Yoga Instagram Influencers In Japan In 2024
 description: >-
-  Find top yoga Instagram influencers in Japan in 2023. Most popular hashtags: #pr #yogainstructor #yoga.
+  Find top yoga Instagram influencers in Japan in 2024. Most popular hashtags: #pr #yoga #yogainstructor #yogapractice.
 platform: Instagram
-hits: 101
-text_top: See the most popular Instagram profiles on inBeat.
-text_bottom: inBeat has 101 Instagram influencers like this in Japan for you to pitch.
+hits: 104
+text_top: See the top-rated Instagram influencers on inBeat.
+text_bottom: inBeat has 104 Instagram influencers like this in Japan for you to connect with.
 profiles:
+  - username: "tsukiyoga"
+    fullname: >-
+      tsuki ☾ yoga lifestylist
+    bio: >-
+      yoga(RYT500)| fitness | self-care video creator・fit model 🧘‍♂️くびれるヨガトレ 🕊あしたが変わるセルフケア @tsukiyoga TikTok 320k @tarzanweb 監修トレーナー @mandukayoga ambassador
+    location: "Japan"
+    followers: 216531
+    engagement: 636
+    commentsToLikes: 0.010242
+    id: ck5ckqwbvxfhp0i11rzj6fukf
+    verified: false
+    hashtags: "#sustainableliving, #selfmassage, #yogateacher, #healthylifestyle"
+  - username: "samanthaausa"
+    fullname: >-
+      Sammy Schultz (Achterberg)
+    bio: >-
+      Olympian • Modern Pentathlon - Personal Trainer, Pilates & Yoga Instructor - Army National Guard - Colorado girl🏔 • Stay Humble•Work Hard•Be Kind•
+    location: "Japan"
+    followers: 14359
+    engagement: 249
+    commentsToLikes: 0.051332
+    id: ck6tpknxfkegs0j7124bhp46n
+    verified: true
+    hashtags: "#coloradosprings, #5uperathlete, #colorado, #wellness"
+  - username: "satomiakane"
+    fullname: >-
+      里見茜
+    bio: >-
+      🇯🇵Qualiam yoga teacher/model YOUTUBE「Akane yoga」 yoga account @akaneyoga1124 お仕事の依頼はこちらへ↓
+    location: "Japan"
+    followers: 177096
+    engagement: 219
+    commentsToLikes: 0.006336
+    id: ck0tyce0tmemo0i192ojprl5s
+    verified: false
+    hashtags: "#maternity, #yoga, #iroka, #akaneyoga"
+  - username: "harukakuriyama"
+    fullname: >-
+      Haruka
+    bio: >-
+      yoga(RYT200) surfing organic sustainable lifestyle Director of @seed_and_soil_ Yoga class ◐
+    location: "Japan"
+    followers: 101802
+    engagement: 132
+    commentsToLikes: 0.001184
+    id: ck5zscg5hy8lw0i14bp677239
+    verified: false
+    hashtags: "#filmphotography, #kodakgold200, #wabydoorganic, #doorganic"
+  - username: "natalie.soderstrom"
+    fullname: >-
+      Natalie Söderström
+    bio: >-
+      📍Hong Kong Model. Yoga & Meditation teacher.
+    location: "Japan"
+    followers: 24658
+    engagement: 105
+    commentsToLikes: 0.025385
+    id: ck5bx540an0x50i112kc2tt5p
+    verified: false
+    hashtags: "#hkbeauty, #jewellery, #nudebeautique, #hkbeautysalon"
   - username: "miawatanabe_yoga"
     fullname: >-
       Mia
@@ -19,18 +79,6 @@ profiles:
     id: ck14l4qmzsuh90i19pq2tx3ir
     verified: false
     hashtags: "#agepositive, #love, #selfy, #stanford"
-  - username: "taylorjyoga"
-    fullname: >-
-      Taylor Johnson
-    bio: >-
-      Yoga | Acro | Rocket | Buti 📍Longmont, CO Knotty girl: @macrametay Children: @spagnball 200 YTT Jan 2021 @sol19yoga👇🏼
-    location: "Japan"
-    followers: 17882
-    engagement: 278
-    commentsToLikes: 0.101476
-    id: ck5pzsk8z2jky0i11gfzzm594
-    verified: false
-    hashtags: "#nafbabeschallenge2, #longmont, #ad, #sol19yoga"
   - username: "arisa28lucia"
     fullname: >-
       Arisa Ⅰアリサ🇯🇵🇮🇹
@@ -79,52 +127,4 @@ profiles:
     id: ck5c7rkjo829m0i1149qnc4g3
     verified: false
     hashtags: "#pr, #mightychristmas, #yogagirl, #cbd"
-  - username: "vivichan1325"
-    fullname: >-
-      vivichan
-    bio: >-
-      yoga&beauty サロン♡♡♡chiakissオーナー♡♡♡ファッション、グルメ、ヨガ、エステをこよなく愛してヘルシーライフを目標に💕
-    location: "Japan"
-    followers: 63693
-    engagement: 474
-    commentsToLikes: 0.006267
-    id: ck5zzyii4cmxu0i14f0xfn50r
-    verified: false
-    hashtags: "#youtube"
-  - username: "natalie.soderstrom"
-    fullname: >-
-      Natalie Söderström
-    bio: >-
-      📍Hong Kong Model. Yoga & Meditation teacher.
-    location: "Japan"
-    followers: 25294
-    engagement: 170
-    commentsToLikes: 0.039150
-    id: ck5bx540an0x50i112kc2tt5p
-    verified: false
-    hashtags: "#vitamins, #theorganicstore, #meditationisthemedication, #irisatthegrounds"
-  - username: "isarin_yoga"
-    fullname: >-
-      Isari Shintani
-    bio: >-
-      yogainstructor/freelance🧘‍♀️ @luanayoga_studio ・RYT200・小顔フェイシャルヨガ・マインドフルネス瞑想 パーソナルヨガやってます！お問い合わせや予約はDMにて📨 オンラインレッスン予約受付中☟
-    location: "Japan"
-    followers: 88540
-    engagement: 266
-    commentsToLikes: 0.007075
-    id: ck5zvev9n43nn0i14xwctptep
-    verified: false
-    hashtags: "#shaggie, #yoga, #yogalife, #yogainstructor"
-  - username: "darayunya"
-    fullname: >-
-      yuri nakagawa👽FUTURISTIC GIRL
-    bio: >-
-      🕊casting🌈 consulting🦩PR🌙DJ💿bouncy writer✏travel🕌TV東京超流波MC🎤fashionTV🎬アロマ&diet検定1級🦢温泉ソムリエ♨️世界遺産検定🌵美活🌹yoga10年🧘‍♀aerial hoop🧴共同開発🧖‍♀️ @thetorchtokyo #ナデル
-    location: "Japan"
-    followers: 55330
-    engagement: 143
-    commentsToLikes: 0.017125
-    id: ck5c4wmuw29pw0i11jkq1vgkx
-    verified: false
-    hashtags: "#outfit, #shoot, #shooting, #tokyo"
 ---

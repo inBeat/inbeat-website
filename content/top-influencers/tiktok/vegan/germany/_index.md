@@ -1,11 +1,11 @@
 ---
-title: Top 10 Vegan TikTok Influencers In Germany In 2023
+title: Top 10 Vegan TikTok Influencers In Germany In 2024
 description: >-
-  Find top vegan TikTok influencers in Germany in 2023. Most popular hashtags: #vegan #fyp #fy #foryou.
+  Find top vegan TikTok influencers in Germany in 2024. Most popular hashtags: #vegan #fyp #fy #foryou.
 platform: TikTok
 hits: 84
-text_top: Identify the best TikTok accounts on inBeat.
-text_bottom: Our search engine aggregates 84 TikTok influencers like this in Germany for you to work with.
+text_top: Discover the top-rated TikTok influencers on inBeat.
+text_bottom: Our search engine has 84 TikTok influencers like this in Germany for you to pitch.
 profiles:
   - username: "herrtierfreund"
     fullname: >-
@@ -66,7 +66,7 @@ profiles:
     commentsToLikes: 0.008030
     id: ck9gpc41v4gva0j78fbfmb6yg
     verified: false
-    hashtags: "#foryou, #comedy, #fy, #funny"
+    hashtags: "#fyp, #sketch, #mariaclaragroppler, #schule"
   - username: "plantbasedcouple"
     fullname: >-
       Johanna & Lenni 🌻
@@ -78,7 +78,7 @@ profiles:
     commentsToLikes: 0.013254
     id: ck7zog9knjrxw0j78gaxosdbh
     verified: false
-    hashtags: "#foodnewsgermany, #weekendvlog, #plantbasedcouplevlog, #couple"
+    hashtags: "#couple, #foodnewsgermany, #veganeneuheiten, #plantbasedcouplevlog"
   - username: "patricia.kraft"
     fullname: >-
       patriciakraft 
@@ -90,7 +90,7 @@ profiles:
     commentsToLikes: 0.006927
     id: ckbl1blv7y73g0j230qffq4lg
     verified: false
-    hashtags: "#babybelly, #training, #fun, #gymwear"
+    hashtags: "#pregnancy, #babybelly, #gymshark, #mumtobe"
   - username: "esra.elbasan"
     fullname: >-
       Esra.Elbasan
@@ -114,7 +114,7 @@ profiles:
     commentsToLikes: 0.015231
     id: ckd5of49hx0vo0j23l3klci97
     verified: false
-    hashtags: "#shorthair, #foryou, #veganfood, #fy"
+    hashtags: "#veganfood, #shorthair, #fy, #vegan"
   - username: "nastyflesh69"
     fullname: >-
       🦋 Aleksandra 🦋

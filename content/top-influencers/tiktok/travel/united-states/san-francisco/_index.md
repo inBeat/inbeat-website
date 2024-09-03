@@ -1,12 +1,24 @@
 ---
-title: Top 10 Travel TikTok Influencers In San Francisco In 2023
+title: Top 10 Travel TikTok Influencers In San Francisco In 2024
 description: >-
-  Find top travel TikTok influencers in San Francisco in 2023. Most popular hashtags: #fyp #foryou #sanfrancisco #travel.
+  Find top travel TikTok influencers in San Francisco in 2024. Most popular hashtags: #fyp #foryou #california #foryoupage.
 platform: TikTok
-hits: 59
-text_top: Identify the most popular TikTok influencers on inBeat.
-text_bottom: Our platform has 59 TikTok influencers like this in San Francisco, United States for you to pitch.
+hits: 62
+text_top: See the best TikTok influencers on inBeat.
+text_bottom: Our database has 62 TikTok influencers like this in San Francisco, United States for you to work with.
 profiles:
+  - username: "claudiasofiaruiz"
+    fullname: >-
+      claudiasofiaruiz
+    bio: >-
+      Puerto Rico 🤍
+    location: "United States"
+    followers: 230100
+    engagement: 629
+    commentsToLikes: 0.014348
+    id: ckb9huzbv7oqm0j23ljm90jam
+    verified: false
+    hashtags: "#fyp, #parati, #foryou, #latina"
   - username: "crystalmariec"
     fullname: >-
       crytal
@@ -30,7 +42,7 @@ profiles:
     commentsToLikes: 0.069730
     id: ck8saa4l117bv0j78ade4z9vk
     verified: false
-    hashtags: "#hellospring, #travelblogger, #springflowers, #earthday"
+    hashtags: "#travelblogger, #tanzania, #travelwithme, #hellospring"
   - username: "lena.ayad"
     fullname: >-
       Lena Ayad
@@ -55,30 +67,18 @@ profiles:
     id: ckcv2xegko9pc0j23tr8wycg3
     verified: false
     hashtags: "#foryoupage, #fyp, #college, #tailgate"
-  - username: "andrewjmes"
+  - username: "sufi.hasa"
     fullname: >-
-      Andrew James
+      Sufiya
     bio: >-
-      lost boy looking for neverland
+      22 I’m bored, can you tell? Insta: Sufiya_h https://zudo.co/?aff=2255
     location: "United States"
-    followers: 141300
-    engagement: 1670
-    commentsToLikes: 0.010987
-    id: ckcj1qqqc3zv50j23kvdpo92t
+    followers: 15400
+    engagement: 1183
+    commentsToLikes: 0.029159
+    id: ckb9hbh8z6p0i0j23k8djcvx0
     verified: false
-    hashtags: "#fyp, #nyc, #cinematic, #newyork"
-  - username: "jaybinhot"
-    fullname: >-
-      jaybinhot
-    bio: >-
-      IG - jaybinhot
-    location: "United States"
-    followers: 2797
-    engagement: 953
-    commentsToLikes: 0.032864
-    id: cka0vlnxrz4ht0i780w9disjh
-    verified: false
-    hashtags: "#skateboarding, #foryourpage, #street, #skate"
+    hashtags: "#outfit, #haul, #somali, #hijabi"
   - username: "frumylens_"
     fullname: >-
       Fru
@@ -103,6 +103,18 @@ profiles:
     id: ck8fb1no953360j78z6alf16q
     verified: false
     hashtags: "#photography, #hiddengems, #travelbucketlist, #foryou"
+  - username: "bay.photography"
+    fullname: >-
+      Brandon Yoshizawa
+    bio: >-
+      Los Angeles Travel and landscape photography IG: @bay.photography
+    location: "United States"
+    followers: 3599
+    engagement: 1063
+    commentsToLikes: 0.035950
+    id: ckb9ffml73u4b0j23yxg8egkx
+    verified: false
+    hashtags: "#tiktoktravel, #fog, #griffithobservatory, #losangeles"
   - username: "dallas_dunn"
     fullname: >-
       Dallas Dunn
@@ -115,16 +127,4 @@ profiles:
     id: cka7ozw0k4y9k0i78zx00og1w
     verified: false
     hashtags: "#photographer, #fa18, #avgeek, #photography"
-  - username: "anabucard"
-    fullname: >-
-      Ana
-    bio: >-
-      Ana San Francisco, California 🌉 🇫🇷 🇺🇸 IG: anabucardo
-    location: "United States"
-    followers: 15300
-    engagement: 1054
-    commentsToLikes: 0.041381
-    id: ck8qexiktuh6y0j78tq93g68h
-    verified: false
-    hashtags: "#france, #tiktokfrance, #pourtoi, #chiaraferragni"
 ---

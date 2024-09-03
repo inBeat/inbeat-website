@@ -1,48 +1,48 @@
 ---
-title: Top 10 Guitar TikTok Influencers In United Kingdom In 2023
+title: Top 10 Guitar TikTok Influencers In United Kingdom In 2024
 description: >-
-  Find top guitar TikTok influencers in United Kingdom in 2023. Most popular hashtags: #fyp #foryou #guitar #guitarist.
+  Find top guitar TikTok influencers in United Kingdom in 2024. Most popular hashtags: #fyp #guitar #guitarist #guitarsolo.
 platform: TikTok
-hits: 132
-text_top: Discover the top-rated TikTok influencers on inBeat.
-text_bottom: Our platform aggregates 132 TikTok influencers like this in United Kingdom for you to pitch.
+hits: 124
+text_top: See the best TikTok influencers on inBeat.
+text_bottom: inBeat holds 124 TikTok influencers like this in United Kingdom for you to collaborate.
 profiles:
   - username: "vicjamieson"
     fullname: >-
       Vic Jamieson
     bio: >-
-      Bi/ Pan Guitarist & Creator ✨ Follow me on Instagram ✨
+      Guitarist He/ They Pansexual Brighton, UK 🏳️‍🌈🇨🇳🇬🇧
     location: "United Kingdom"
-    followers: 444600
-    engagement: 2585
-    commentsToLikes: 0.032443
+    followers: 500400
+    engagement: 1845
+    commentsToLikes: 0.027503
     id: ckdi61qw0795g0j2349f5y4m9
     verified: false
-    hashtags: "#dreamcatcher, #bisexual, #pansexual, #straykids"
+    hashtags: "#pansexual, #cix, #queermusician, #catgirl"
   - username: "katekleinworldii"
     fullname: >-
       KateKleinWorld
     bio: >-
-      Music, guitars, skate and more issues.... IG: katekleinworld
+      Music, guitars, skate and issues.... IG: katekleinworld 🖤Listen to Sad Boy💜
     location: "United Kingdom"
-    followers: 7661
-    engagement: 2188
-    commentsToLikes: 0.086963
+    followers: 7646
+    engagement: 2221
+    commentsToLikes: 0.086353
     id: ck8zazcl03i6l0j788flzv9cq
     verified: false
-    hashtags: "#tiktoktraditions, #fyp, #foryou, #morehappydenimdance"
+    hashtags: "#foryou, #tiktoktraditions, #fyp, #albumcoverchallenge"
   - username: "roryshreds"
     fullname: >-
       Rory Shreds
     bio: >-
-      Guitar teacher and YouTuber The Guitar Ninja
+      Guitar teacher for “The Guitar Ninja” - Online guitar Academy & YouTube lessons
     location: "United Kingdom"
-    followers: 14700
-    engagement: 920
-    commentsToLikes: 0.115528
+    followers: 15100
+    engagement: 1080
+    commentsToLikes: 0.075936
     id: ck83k48ad97e40j78wp4qj8hl
     verified: false
-    hashtags: "#guitartok, #music, #songchallenge, #metalmusic"
+    hashtags: "#theguitarninja, #guitarimprov, #guitarchallenge, #guitariste"
   - username: "captaindansparrow"
     fullname: >-
       Captain Dan Sparrow
@@ -55,18 +55,6 @@ profiles:
     id: ck8ql5i2ik6xo0j783bdvch36
     verified: false
     hashtags: "#pirate, #fyp, #piratesofthecaribbean, #duet"
-  - username: "miaruby"
-    fullname: >-
-      Mia Ruby Crockart
-    bio: >-
-      hi there :) I post random I sing and play guitar too & cook uk & sa
-    location: "United Kingdom"
-    followers: 747500
-    engagement: 981
-    commentsToLikes: 0.044506
-    id: ckbl39lhx0n2j0j23igzcbozi
-    verified: true
-    hashtags: "#duet, #fyp, #foryou, #singalong"
   - username: "jeanzoie"
     fullname: >-
       Jean Pajayon
@@ -126,5 +114,17 @@ profiles:
     commentsToLikes: 0.049341
     id: ck9n71elu7k1s0j78yqz7lbs7
     verified: false
-    hashtags: "#bass, #eruption, #rock, #guitariste"
+    hashtags: "#rock, #bass, #guitariste, #fingertapping"
+  - username: "dominicjwright"
+    fullname: >-
+      Dom Wright
+    bio: >-
+      Business/Collabs - info@dominicjwright.com Releasing music soon! New youtube ⬇️
+    location: "United Kingdom"
+    followers: 1100000
+    engagement: 2383
+    commentsToLikes: 0.018187
+    id: ck9glmg5ioxuh0j78n9qjb9iw
+    verified: true
+    hashtags: "#niallhoran, #harrystyles, #onedirection, #guitar"
 ---

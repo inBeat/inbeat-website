@@ -1,11 +1,11 @@
 ---
-title: Top 10 Models TikTok Influencers In Medellín In 2023
+title: Top 10 Models TikTok Influencers In Medellín In 2024
 description: >-
-  Find top models TikTok influencers in Medellín in 2023. Most popular hashtags: #viral #fyp #colombia #model.
+  Find top models TikTok influencers in Medellín in 2024. Most popular hashtags: #viral #colombia #fyp #model.
 platform: TikTok
 hits: 6
-text_top: Analyze the top-rated TikTok accounts on inBeat.
-text_bottom: Our database aggregates 6 TikTok influencers like this in Medellín, Colombia for you to contact.
+text_top: See the most popular TikTok profiles on inBeat.
+text_bottom: Our database holds 6 TikTok influencers like this in Medellín, Colombia for you to pitch.
 profiles:
   - username: "apraezjuliana"
     fullname: >-

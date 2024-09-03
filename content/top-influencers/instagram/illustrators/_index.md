@@ -1,12 +1,48 @@
 ---
-title: Top 10 Illustrators Instagram Influencers In 2023
+title: Top 10 Illustrators Instagram Influencers In 2024
 description: >-
-  Find top illustrators Instagram influencers in 2023. Most popular hashtags: #vector #sketchbook #martinwidmark.
+  Find top illustrators Instagram influencers in 2024. Most popular hashtags: #illustration #drawing #watercolor.
 platform: Instagram
-hits: 5711
+hits: 5792
 text_top: Discover the most popular Instagram influencers on inBeat.
-text_bottom: Our search engine aggregates 5711 Instagram influencers like this for you to connect with.
+text_bottom: Our search engine has 5792 Instagram influencers like this for you to collaborate.
 profiles:
+  - username: "shimazareii"
+    fullname: >-
+      Shima Zarei
+    bio: >-
+      •Illustrator
+    location: "Iran"
+    followers: 46415
+    engagement: 691
+    commentsToLikes: 0.025119
+    id: ck8tb7gyculp00j78mw8ua8hv
+    verified: false
+    hashtags: "#illustrationart, #elephant, #childrenpicturebook, #digitalpainting"
+  - username: "giacomobagnara_"
+    fullname: >-
+      Giacomo Bagnara
+    bio: >-
+      Illustrator
+    location: ""
+    followers: 47471
+    engagement: 238
+    commentsToLikes: 0.004171
+    id: cl56a7rgb1aeu0i23kawxf1ti
+    verified: false
+    hashtags: "#illustrator, #summer, #doodle, #giacomobagnara"
+  - username: "ja5pics"
+    fullname: >-
+      Hasmik K.
+    bio: >-
+      🇦🇲 Illustrator
+    location: ""
+    followers: 12009
+    engagement: 459
+    commentsToLikes: 0.031179
+    id: ck8t97j8nn4wu0j789n5om41t
+    verified: false
+    hashtags: "#fashionsketch, #beautybloggers, #brides, #armenianillustrator"
   - username: "jannamattia"
     fullname: >-
       Janna Mattia
@@ -91,40 +127,4 @@ profiles:
     id: ck8szg724obg70j78y3oq9bpg
     verified: false
     hashtags: "#emiliadziubak, #barbarakosmowska, #martinwidmark, #bonniercarlsen"
-  - username: "robbaileystudio"
-    fullname: >-
-      Rob Bailey
-    bio: >-
-      Illustrator
-    location: ""
-    followers: 24478
-    engagement: 223
-    commentsToLikes: 0.008467
-    id: ck5q5zmbuv9pt0i114dclyo9d
-    verified: false
-    hashtags: ""
-  - username: "lizrowland"
-    fullname: >-
-      Liz Rowland
-    bio: >-
-      Illustrator
-    location: ""
-    followers: 18642
-    engagement: 351
-    commentsToLikes: 0.018734
-    id: ck8t295haylwu0j78stn5h4t7
-    verified: false
-    hashtags: ""
-  - username: "hungrae_"
-    fullname: >-
-      Hung Rae
-    bio: >-
-      Illustrator
-    location: "South Korea"
-    followers: 63902
-    engagement: 1847
-    commentsToLikes: 0.005357
-    id: ck5c41xdy0h6q0i119q0h4km7
-    verified: false
-    hashtags: ""
 ---

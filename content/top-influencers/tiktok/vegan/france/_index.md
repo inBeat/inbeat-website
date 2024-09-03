@@ -1,11 +1,11 @@
 ---
-title: Top 10 Vegan TikTok Influencers In France In 2023
+title: Top 10 Vegan TikTok Influencers In France In 2024
 description: >-
-  Find top vegan TikTok influencers in France in 2023. Most popular hashtags: #pourtoi #fyp #foryou #vegan.
+  Find top vegan TikTok influencers in France in 2024. Most popular hashtags: #fyp #pourtoi #foryou #vegan.
 platform: TikTok
 hits: 20
-text_top: Discover the most popular TikTok profiles on inBeat.
-text_bottom: inBeat holds 20 TikTok influencers like this in France for you to connect with.
+text_top: Identify the most popular TikTok influencers on inBeat.
+text_bottom: Our database aggregates 20 TikTok influencers like this in France for you to collaborate.
 profiles:
   - username: "elise_9369"
     fullname: >-
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.063573
     id: ckc1ucyygylmv0j239h6a7jth
     verified: false
-    hashtags: "#instagramtips, #humourfrancais, #drole, #vegan"
+    hashtags: "#instagramtips, #vegan, #humourfrancais, #drole"
   - username: "kakaneanthoninaot"
     fullname: >-
       Kakane Anthonina Ott
@@ -90,7 +90,7 @@ profiles:
     commentsToLikes: 0.010063
     id: ck8rogvcyh6ts0j78jz5t2san
     verified: true
-    hashtags: "#unboxing, #asmrvideo, #bysibyllete, #asmr"
+    hashtags: "#bysibyllete, #asmrvideo, #unboxing, #asmr"
   - username: "reltho_"
     fullname: >-
       RelTho
@@ -114,7 +114,7 @@ profiles:
     commentsToLikes: 0.066589
     id: ck9dwvka0qqt90j78po69an1j
     verified: false
-    hashtags: "#parisphotographer, #cherryblossoms, #parisphotospots, #wisteria"
+    hashtags: "#cherryblossoms, #tiktokparis, #parisphotospots, #sakura"
   - username: "marieandreeva"
     fullname: >-
       Maria Andreeva
@@ -126,5 +126,5 @@ profiles:
     commentsToLikes: 0.007847
     id: ck9fcsicmlbsx0j78u92o6l5z
     verified: false
-    hashtags: "#fy, #foryou, #fyp, #zoommyface"
+    hashtags: "#fyp, #fy, #foryou, #picnic"
 ---

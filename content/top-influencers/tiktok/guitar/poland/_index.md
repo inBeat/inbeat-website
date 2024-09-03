@@ -1,11 +1,11 @@
 ---
-title: Top 10 Guitar TikTok Influencers In Poland In 2023
+title: Top 10 Guitar TikTok Influencers In Poland In 2024
 description: >-
-  Find top guitar TikTok influencers in Poland in 2023. Most popular hashtags: #dc #dlaciebie #duet #guitar.
+  Find top guitar TikTok influencers in Poland in 2024. Most popular hashtags: #dc #dlaciebie #duet #guitar.
 platform: TikTok
 hits: 12
-text_top: Analyze the best TikTok profiles on inBeat.
-text_bottom: Our search engine aggregates 12 TikTok influencers like this in Poland for you to connect with.
+text_top: Analyze the best TikTok influencers on inBeat.
+text_bottom: Our search engine holds 12 TikTok influencers like this in Poland for you to contact.
 profiles:
   - username: "mrc0ffee"
     fullname: >-
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.033222
     id: ckbqfyuay1jgd0j23duhofzeg
     verified: false
-    hashtags: "#cricut, #bff, #cricutmaker, #ekipa"
+    hashtags: "#3kipa, #friz, #friends, #sis"
   - username: "narcystyczne"
     fullname: >-
       Anna
@@ -78,7 +78,7 @@ profiles:
     commentsToLikes: 0.031677
     id: ck962d4s3q4uq0j7828glvoo0
     verified: false
-    hashtags: "#trend, #zdalna, #projektant, #zdrowie"
+    hashtags: "#praca, #memodajnia, #music, #grafik"
   - username: "amela_k5"
     fullname: >-
       Amelka

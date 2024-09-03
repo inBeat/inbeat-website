@@ -1,36 +1,60 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Chile In 2023
+title: Top 10 Fitness Instagram Influencers In Chile In 2024
 description: >-
-  Find top fitness Instagram influencers in Chile in 2023. Most popular hashtags: #fitness #fitnessmotivation #happy.
+  Find top fitness Instagram influencers in Chile in 2024. Most popular hashtags: #fitness #motivation #instagood.
 platform: Instagram
-hits: 108
-text_top: Discover the top-rated Instagram profiles on inBeat.
-text_bottom: Our platform holds 108 Instagram influencers like this in Chile for you to connect with.
+hits: 115
+text_top: Identify the top-rated Instagram accounts on inBeat.
+text_bottom: Our search engine has 115 Instagram influencers like this in Chile for you to work with.
 profiles:
-  - username: "camiladelapena"
-    fullname: >-
-      ɢɪʀʟ•ғɪᴛ•ᴘᴏᴡᴇʀ
-    bio: >-
-      Argentina viviendo en Chile Mamá de 4 🐶🐾 Estilo de vida Fitness 👊 Comidas saludables 🥑 Ingeniera civil industrial 🤓 Creadora de HIIT by Cami 💪🏼👇🏼👇🏼
-    location: "Chile"
-    followers: 31072
-    engagement: 621
-    commentsToLikes: 0.022992
-    id: ck15q5jy917i60i193oudxswe
-    verified: false
-    hashtags: "#iamlibre, #rsx, #cruiserider, #sunglasshutchile"
   - username: "fabysanhueza"
     fullname: >-
-      ~ • F  A  B  Y 🌿
+      ✨Faby Sanhueza / Entrena conmigo 🏋🏻‍♀️
     bio: >-
-      Fitness | Recetas | Maternidad Fitness Personal Trainer🏋🏻‍♀️ 💪🏻 Mamá de 👧🏻 👶🏼❤️ 📩Asesoriasfabysanhueza@gmail.com M O T I V A D O R A 💪🏻
+      Fitness | Recetas | Maternidad Fitness Personal Trainer🏋🏻‍♀️ HOME GYM📍PEÑAFLOR ASESORÍAS ONLINE 💻👇🏻 📩Asesoriasfabysanhueza@gmail.com
     location: "Chile"
-    followers: 14953
-    engagement: 472
-    commentsToLikes: 0.050325
+    followers: 25979
+    engagement: 864
+    commentsToLikes: 0.043536
     id: ck8t0cxbprn390j78ya086cyp
     verified: false
-    hashtags: "#summer, #happy, #disfrutemosjugosquillayes, #healthyfood"
+    hashtags: "#puconchile, #recetasfabysanhueza, #happy, #gratitud"
+  - username: "bad_deadpool_"
+    fullname: >-
+      
+    bio: >-
+      Deadpool 🇨🇱 Región Metropolitana ENTP 😜 Level 35 🔥 Gamer 🎮 Intento de Fitness 💪 Artes marciales 👊 Contacto -> DM
+    location: "Chile"
+    followers: 7377
+    engagement: 610
+    commentsToLikes: 0.086398
+    id: ck6uch5g6fkv50j71fpp2x3hw
+    verified: false
+    hashtags: "#disney, #superman, #deadpool3, #tonystark"
+  - username: "catavallejos"
+    fullname: >-
+      Cata Vallejos
+    bio: >-
+      Amante de la vida activa y saludable🤍 Viajes, moda, deporte, life style ✨ TikTok : CatavallejosOK CEO @origyn.fitness @livin__cl 📍Stgo, Chile
+    location: "Chile"
+    followers: 1157075
+    engagement: 96
+    commentsToLikes: 0.009381
+    id: ck5hrdyhrupol0i11bv7l4h4j
+    verified: true
+    hashtags: "#calzacontodas, #heinekensilver, #extrarefrescantedeverdad, #sheincybermonday2022"
+  - username: "valentinbenet"
+    fullname: >-
+      VALENTIN BENET
+    bio: >-
+      - @vb_for_men - @vb_studio_tattoo - @vbbarbershop - @beyou_fitnesstudio - @valentinbenetcollection ⬇️
+    location: "Chile"
+    followers: 356177
+    engagement: 36
+    commentsToLikes: 6.552689
+    id: ck15q5iov17bx0i19kt4jbcqg
+    verified: true
+    hashtags: "#vbstyle, #pumaslipstream, #runpuma, #basementenfalabella"
   - username: "felipe.gutierrez7"
     fullname: >-
       FELIPE G.
@@ -54,19 +78,7 @@ profiles:
     commentsToLikes: 0.018522
     id: ck5hs6imzw2q20i118f33ad45
     verified: false
-    hashtags: "#abs, #boy, #curlyhair, #fitness"
-  - username: "brankobacovich"
-    fullname: >-
-      BRANKO BACOVICH
-    bio: >-
-      🎓 Ing Adm Empresas 💡Business 📸 Model @elitemodel_chile 🌍 Traveller 💪 Fitness 📍 Stgo/Antof 📩 bbacovich@gmail.com
-    location: "Chile"
-    followers: 48233
-    engagement: 401
-    commentsToLikes: 0.026380
-    id: ckf5qnd3i9y2q0j23nslwt8np
-    verified: true
-    hashtags: "#aldoloveplanet, #starbucksathome, #aldosneakershop, #aldocrew"
+    hashtags: "#curlyhair, #abs, #boy, #fitness"
   - username: "nachovelascoh"
     fullname: >-
       Nacho
@@ -115,16 +127,4 @@ profiles:
     id: ck15rz0nhaetn0i19yjr3tgz7
     verified: false
     hashtags: "#photography, #portrait, #panama, #blackandwhitephotography"
-  - username: "fitnessok"
-    fullname: >-
-      fitnessok
-    bio: >-
-      Kinesiólogo UFT 🌎 amante del fitness y la vida sana. Stgo. Chile 🆑 🇨🇱❤️😍💪🏼✈️. Kine deportiva. 🇨🇱 Founder: @performance_rfc
-    location: "Chile"
-    followers: 5499
-    engagement: 1046
-    commentsToLikes: 0.008892
-    id: ckf5rjd7bcvyq0j23cvcl4nz7
-    verified: false
-    hashtags: "#fitnesslifestyle, #beautiful, #fitnessmodel, #speedo"
 ---

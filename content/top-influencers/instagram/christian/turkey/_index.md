@@ -1,11 +1,11 @@
 ---
-title: Top 10 Christian Instagram Influencers In Turkey In 2023
+title: Top 10 Christian Instagram Influencers In Turkey In 2024
 description: >-
-  Find top christian Instagram influencers in Turkey in 2023. Most popular hashtags: #love #istanbul #turkey #winter.
+  Find top christian Instagram influencers in Turkey in 2024. Most popular hashtags: #istanbul #love #fashion #turkey.
 platform: Instagram
-hits: 59
-text_top: Analyze the top-rated Instagram influencers on inBeat.
-text_bottom: Our platform has 59 Instagram influencers like this in Turkey for you to connect with.
+hits: 60
+text_top: Analyze the best Instagram profiles on inBeat.
+text_bottom: inBeat has 60 Instagram influencers like this in Turkey for you to connect with.
 profiles:
   - username: "christian_ferretti"
     fullname: >-
@@ -19,18 +19,6 @@ profiles:
     id: ck15r1n8b5owk0i19xwdkrkou
     verified: false
     hashtags: "#imgmodels, #samuelatewogboye, #elitenyc, #style"
-  - username: "christianhorner"
-    fullname: >-
-      Christian Horner
-    bio: >-
-      Team Principal @RedBullRacing and @wingsforlife Ambassador.
-    location: "Turkey"
-    followers: 881828
-    engagement: 624
-    commentsToLikes: 0.007725
-    id: ck5zm11u9lpoo0i14p3ue7b2g
-    verified: true
-    hashtags: "#astonmartinredbullracing, #formula1, #f1, #imola"
   - username: "emmaakate4"
     fullname: >-
       † E M M A ♡
@@ -43,18 +31,6 @@ profiles:
     id: ck8t188v2uryw0j78lnh6w9zo
     verified: false
     hashtags: "#explorepage, #tezza, #godisgood, #fyp"
-  - username: "geeflowofficial"
-    fullname: >-
-      GEEFLOW MUSAB
-    bio: >-
-      @vizyonorganizasyon (TR) +905442990222 . @srdrustn (DE) Info@ega-entertainment.com . Social media 👇👇👇
-    location: "Turkey"
-    followers: 48574
-    engagement: 197
-    commentsToLikes: 0.056667
-    id: ckapavuerxnma0i78ggczf3i1
-    verified: true
-    hashtags: "#feat, #track, #kezzo, #corona"
   - username: "amcgrimes5"
     fullname: >-
       Merve
@@ -79,6 +55,18 @@ profiles:
     id: ck8t5de189qqz0j78v1syae3v
     verified: false
     hashtags: "#sporayakkab, #bayanayakkab, #roma, #louboutinlover"
+  - username: "cansuefee"
+    fullname: >-
+      Cansu Efe
+    bio: >-
+      🌍 Our Adventures ✒️ Baby&You Dergisi Köşe Yazarı 📩cansuefe50@gmail.com
+    location: "Turkey"
+    followers: 483485
+    engagement: 64
+    commentsToLikes: 0.006144
+    id: ck6tyq7xs584n0j71bnj7frb9
+    verified: false
+    hashtags: "#visitturkey, #antalya, #dior, #fashion"
   - username: "mervebozsezdirmez"
     fullname: >-
       Merve BOZ SEZDİRMEZ
@@ -127,4 +115,16 @@ profiles:
     id: ck8t4e2ca6g5j0j78pjfbx60s
     verified: false
     hashtags: "#masterportre, #lahey, #ayakkab, #jewellery"
+  - username: "sadaffashionsalad"
+    fullname: >-
+      SADAF Sadeghi
+    bio: >-
+      SADAF SADEGHI Founder of @sadafstylegallery Founder of @sadaf_boutique_salad Founder of #shareitlikesadaf ‎#شغلهاى_كوچك 📍istanbul
+    location: "Turkey"
+    followers: 201868
+    engagement: 365
+    commentsToLikes: 0.039776
+    id: ck8sz15jgmshg0j7820isigz3
+    verified: false
+    hashtags: "#styleblogger, #blogger, #persiangirl, #fashionstyle"
 ---

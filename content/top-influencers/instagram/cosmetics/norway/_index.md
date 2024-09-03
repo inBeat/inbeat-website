@@ -1,36 +1,36 @@
 ---
-title: Top 10 Cosmetics Instagram Influencers In Norway In 2023
+title: Top 10 Cosmetics Instagram Influencers In Norway In 2024
 description: >-
-  Find top cosmetics Instagram influencers in Norway in 2023. Most popular hashtags: #makeup #beauty #anastasiabeverlyhills #nyxcosmetics.
+  Find top cosmetics Instagram influencers in Norway in 2024. Most popular hashtags: #makeup #makeuplook #nyxcosmetics.
 platform: Instagram
-hits: 9
-text_top: Identify the top-rated Instagram influencers on inBeat.
-text_bottom: Our database aggregates 9 Instagram influencers like this in Norway for you to collaborate.
+hits: 11
+text_top: See the best Instagram accounts on inBeat.
+text_bottom: Our database aggregates 11 Instagram influencers like this in Norway for you to work with.
 profiles:
-  - username: "rabistyle_"
+  - username: "korneliagroworek"
     fullname: >-
-      𝐋𝐈𝐅𝐄𝐒𝐓𝐘𝐋𝐄|𝐅𝐀𝐒𝐇𝐈𝐎𝐍|𝐁𝐄𝐀𝐔𝐓𝐘
+      Kornelia Groworek
     bio: >-
-      • Rabi Fredriksen | 21 • Content Creator • Norwegian in Germany
+      ♡´･ᴗ･`♡ 📍Oslo
     location: "Norway"
-    followers: 27244
-    engagement: 481
-    commentsToLikes: 0.260115
-    id: ckap4mfej7x850i788tciwxpv
+    followers: 8591
+    engagement: 184
+    commentsToLikes: 0.005751
+    id: ck8swmcsgeiwu0j78kgih6u16
     verified: false
-    hashtags: "#bloggers, #bloggerinde, #bloggerlifesyle, #hautecouture"
-  - username: "food___passion"
+    hashtags: "#colorfulsummernails, #makeup, #bimbaylolized, #summeroutfit"
+  - username: "itsmonicarose"
     fullname: >-
-      Jamilla🇲🇦🇳🇴
+      Monica Rose
     bio: >-
-      📷 Pictures of my food journey 📍 Based in Oslo, Norway Passion for food, coffee, flowers and music🌸
+      🌷 #makeup & #skincare ✉️ monicarosemua@gmail.com 🩵 Tiktok: itsmonicarosee ✨ YouTube ⤵️
     location: "Norway"
-    followers: 49569
-    engagement: 118
-    commentsToLikes: 0.236455
-    id: ck9hccd5fkqrt0j78e6yhqdlh
+    followers: 431008
+    engagement: 28
+    commentsToLikes: 0.002332
+    id: ck0tusizu8j820i19zzvpq4fx
     verified: false
-    hashtags: "#fashiondesigner, #fashionblogger, #dessertporn, #fashionshow"
+    hashtags: "#acneskin, #grwm, #portugalmua, #glam"
   - username: "cecilieharlem"
     fullname: >-
       CECILIE HARLEM
@@ -43,18 +43,42 @@ profiles:
     id: ck6u9crm6wsxq0j7117va13fb
     verified: false
     hashtags: "#homeadore, #glow, #roomdecor, #darkhomes"
-  - username: "natalie_ortegaa"
+  - username: "theskincarebimbo"
     fullname: >-
-      Natalie ortega
+      Julie | Skincare + K-beauty
     bio: >-
-      ½ Spanish ½ Norwegian Villafranca del Bierzo/ Spain📍 🇳🇴@heartbreakmanagement MA 🇬🇷 @fashioncult_models 🇪🇸@francinamodels
+      📍Oslo, Norway 🧸Skincare and K-Beauty 🧸Oily/combo skin, dehydrated and reactive DISCOUNT CODES&SHOPLIST
     location: "Norway"
-    followers: 16065
-    engagement: 470
-    commentsToLikes: 0.046110
-    id: ck0w6w57majkf0i199mgoqs7f
+    followers: 19278
+    engagement: 705
+    commentsToLikes: 0.057325
+    id: cl48q8cp5lloz0i23pkul1hth
     verified: false
-    hashtags: "#vacation, #travel, #beauty, #makeup"
+    hashtags: "#skincareforeveryone, #skincarecommunity, #skincare, #skincarereview"
+  - username: "martinelunde"
+    fullname: >-
+      Martine Lunde Aarsrud
+    bio: >-
+      ♡Snapchat: Martineluunde ♡Booking: Silje@modernemedia.no ♡Privat: bookingml@outlook.com MARTINE OG ALEKS UTE PÅ PRIME VIDEO NÅ!
+    location: "Norway"
+    followers: 270492
+    engagement: 141
+    commentsToLikes: 0.248067
+    id: ck5hegwxbsud00i11rs471yn2
+    verified: true
+    hashtags: ""
+  - username: "_megansum"
+    fullname: >-
+      Megan S.
+    bio: >-
+      five foot fine. 💍🧿 @_sinnity pr: megnicoleas@gmail.com
+    location: "Norway"
+    followers: 12845
+    engagement: 86
+    commentsToLikes: 0.010622
+    id: ckxr7wsh9bcfb0j235q93vyzd
+    verified: false
+    hashtags: "#emmiolgal, #idealxbrandbassador, #emmiol, #idealofsweden"
   - username: "ritaermin"
     fullname: >-
       Rita Synnøve Sharma ☾
@@ -103,16 +127,4 @@ profiles:
     id: ck55izhfyvvap0i118ljim2m1
     verified: false
     hashtags: "#motd, #beautyblogger, #tumblr, #lipstick"
-  - username: "iemakeupartistry"
-    fullname: >-
-      IDA EKKER
-    bio: >-
-      💋 20 years old 📍Orkanger, Norway 🇳🇴 💌 iemakeupartistry@Hotmail.com ❣️TikTok: @ queenidz (43.8k)👇🏽
-    location: "Norway"
-    followers: 17021
-    engagement: 444
-    commentsToLikes: 0.119700
-    id: ck5c5bb6334xa0i11lz18libs
-    verified: false
-    hashtags: "#fakeupfix, #hudabeauty, #makegirlz, #shimycatsmua"
 ---

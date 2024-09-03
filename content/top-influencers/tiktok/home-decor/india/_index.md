@@ -1,11 +1,11 @@
 ---
-title: Top 10 Home Decor TikTok Influencers In India In 2023
+title: Top 10 Home Decor TikTok Influencers In India In 2024
 description: >-
-  Find top home decor TikTok influencers in India in 2023. Most popular hashtags: #homedecor #foryoupage #love #foryou.
+  Find top home decor TikTok influencers in India in 2024. Most popular hashtags: #homedecor #craft #love #foryoupage.
 platform: TikTok
 hits: 21
-text_top: See the most popular TikTok accounts on inBeat.
-text_bottom: Our database holds 21 TikTok influencers like this in India for you to pitch.
+text_top: Identify the best TikTok influencers on inBeat.
+text_bottom: Our search engine aggregates 21 TikTok influencers like this in India for you to pitch.
 profiles:
   - username: "meghali082"
     fullname: >-

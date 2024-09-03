@@ -1,11 +1,11 @@
 ---
-title: Top 10 Athletes TikTok Influencers In Germany In 2023
+title: Top 10 Athletes TikTok Influencers In Germany In 2024
 description: >-
-  Find top athletes TikTok influencers in Germany in 2023. Most popular hashtags: #fitness #foryou #viral #fyp.
+  Find top athletes TikTok influencers in Germany in 2024. Most popular hashtags: #fitness #foryou #viral #fit.
 platform: TikTok
 hits: 8
-text_top: Discover the most popular TikTok influencers on inBeat.
-text_bottom: Our database has 8 TikTok influencers like this in Germany for you to contact.
+text_top: Discover the most popular TikTok profiles on inBeat.
+text_bottom: Our search engine aggregates 8 TikTok influencers like this in Germany for you to connect with.
 profiles:
   - username: "davidthenics"
     fullname: >-
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.004520
     id: cka0l2n0qp8sd0i786t174oz3
     verified: false
-    hashtags: "#fun, #prank, #love, #mimikraus"
+    hashtags: "#fitness, #tiktok, #love, #mimikraus"
   - username: "dimakreis"
     fullname: >-
       Dima Kreis
@@ -66,7 +66,7 @@ profiles:
     commentsToLikes: 0.017481
     id: ckc34lfwqtxjd0j23hwlw03as
     verified: true
-    hashtags: "#snookerlove, #wow, #snooker, #olympicgames"
+    hashtags: "#snooker, #sports, #fcbayern, #football"
   - username: "explosivestreetworkout"
     fullname: >-
       🔥Damyanov🔥
@@ -78,7 +78,7 @@ profiles:
     commentsToLikes: 0.064508
     id: ck9c7pidks6ey0j78c6qweuav
     verified: false
-    hashtags: "#calisthenics, #cardio, #workout, #outdoorworkout"
+    hashtags: "#fit, #outdoorworkout, #calisthenics, #nature"
   - username: "smilodox"
     fullname: >-
       smilodox

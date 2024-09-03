@@ -1,12 +1,60 @@
 ---
-title: Top 10 Runners Instagram Influencers In Japan In 2023
+title: Top 10 Runners Instagram Influencers In Japan In 2024
 description: >-
-  Find top runners Instagram influencers in Japan in 2023. Most popular hashtags: #running #nike #run #garmin.
+  Find top runners Instagram influencers in Japan in 2024. Most popular hashtags: #trailrunning #running #nike.
 platform: Instagram
-hits: 27
-text_top: Analyze the top-rated Instagram influencers on inBeat.
-text_bottom: Our database aggregates 27 Instagram influencers like this in Japan for you to work with.
+hits: 30
+text_top: Discover the best Instagram accounts on inBeat.
+text_bottom: Our search engine has 30 Instagram influencers like this in Japan for you to collaborate.
 profiles:
+  - username: "gerda_steyn"
+    fullname: >-
+      Gerda Steyn
+    bio: >-
+      Pro Runner @adidas /// @adidasza Olympian 2020🇿🇦 42.2km: 2:25:28 (National Record) 2x Comrades & 4x Two Oceans Champ
+    location: "Japan"
+    followers: 52170
+    engagement: 672
+    commentsToLikes: 0.014897
+    id: ck5qauh6aib3o0i111og4s0la
+    verified: false
+    hashtags: "#comrades2023, #ilovetorun, #mountainlife, #partofthedeal"
+  - username: "thaonhile"
+    fullname: >-
+      𝐓𝐇𝐀𝐎 𝐍𝐇𝐈 𝐉𝐄𝐍𝐍𝐘 𝐋𝐄
+    bio: >-
+      1st Runner Up Miss Universe Vietnam 2022 Founder @daphalestudios @daphalebasic 🦋 contact.thaonhile@gmail.com
+    location: "Japan"
+    followers: 818291
+    engagement: 212
+    commentsToLikes: 0.006285
+    id: ck134qprdxqfe0i197r0oqe78
+    verified: true
+    hashtags: "#piagetsociety, #bulgarivn, #bulgari, #bulgarivietnam"
+  - username: "markberetta"
+    fullname: >-
+      Mark Beretta
+    bio: >-
+      Sunrise sport presenter, engineer, skier, rider, runner, car lover, BBQ master, chocolate enthusiast, author, mc. Don’t like milk. D-grade handyman.
+    location: "Japan"
+    followers: 86891
+    engagement: 182
+    commentsToLikes: 0.036059
+    id: ck0u7anad45dj0i197t2rjlty
+    verified: true
+    hashtags: "#fbf, #australiasgreatestsportingmoments, #olympicglamour, #winningspirit"
+  - username: "ronnycakes"
+    fullname: >-
+      Sharon Tan • 美莲
+    bio: >-
+      Coffee runner #TeamCzip Illustration Mama to Red Bean 🫘  #iPadAir #iPadMini ✉️ ronnycakes09@gmail.com
+    location: "Japan"
+    followers: 44111
+    engagement: 64
+    commentsToLikes: 0.006109
+    id: ck8sy18l0jdnb0j786p0j7euf
+    verified: false
+    hashtags: "#ipadmini, #applepencil, #procreate, #apple"
   - username: "daichi_0913"
     fullname: >-
       Daichi Kamino 神野 大地
@@ -19,18 +67,6 @@ profiles:
     id: ck0ucot19hdj70i19w424nwjg
     verified: true
     hashtags: "#cellsource, #newbalance, #running, #fuelcellrcelite"
-  - username: "leexuaaaan"
-    fullname: >-
-      Lee Xuan 丽璇
-    bio: >-
-      Founder of @omicareyou ❤️ MACIP 2019 2nd Runner Up 👑 My surname is Chan, not Lee. Model, 173cm
-    location: "Japan"
-    followers: 65185
-    engagement: 368
-    commentsToLikes: 0.022018
-    id: ck5c5iwk93k6n0i1197ub90oc
-    verified: false
-    hashtags: "#acilisbyspritzer, #plantbasedbottle, #bottledbynature, #bouncyskinchallenge"
   - username: "colorsofsprings"
     fullname: >-
       Coloring
@@ -91,40 +127,4 @@ profiles:
     id: ck5hi9xkhceu20i11qhf4agj9
     verified: false
     hashtags: "#trailrunning, #nikerunning, #polar, #thenorthface"
-  - username: "noriko_rose_rose"
-    fullname: >-
-      東山 紀子
-    bio: >-
-      👑Mrs.&Ms.JAPANアース 👑グランプリファイナル 👑１st runner up ✨日本大会👑準グランプリ #関西美魔女 #モデル #化粧品開発 #美容 #健康
-    location: "Japan"
-    followers: 9434
-    engagement: 279
-    commentsToLikes: 0.067287
-    id: ckaouwwqk262o0i785dle7q3g
-    verified: false
-    hashtags: "#italstyle"
-  - username: "yu_tabi_runner"
-    fullname: >-
-      yu
-    bio: >-
-      japan🇯🇵#running #trailrunning ⌚︎full 3:36'29" 埼玉19 ⌚︎100km 11:05'21" 沖縄19 🏔#ハセツネ #信越五岳 #CCC 完走 #jaybird所属ランナー FiNCアンバサダー @finc_app
-    location: "Japan"
-    followers: 26098
-    engagement: 516
-    commentsToLikes: 0.004684
-    id: ckap4lc597syr0i78ylrd4wbd
-    verified: false
-    hashtags: "#pr, #run, #runningwear, #runaddict"
-  - username: "eriomochi3"
-    fullname: >-
-      🅴̤̬ 🆁࿆ 🅸⃞̤̬☕︎
-    bio: >-
-      速くはないけど全力で楽しんでいる⸝⋆ ⋆⸜ 🧸🩰 #clubhouse やってます🥰 ﻿ ☞#コロナに負けるな ◢ ◤ TOKYO🗼.🍳.👘 .🍓.🏃‍♀️2017.11.8〜﻿ #runtrip @goodr_jp
-    location: "Japan"
-    followers: 6490
-    engagement: 2105
-    commentsToLikes: 0.030623
-    id: ck135nyh72ct30i19ydk397bb
-    verified: false
-    hashtags: "#hokaoneone, #run, #nike, #foreathlete45s"
 ---

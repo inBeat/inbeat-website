@@ -1,36 +1,12 @@
 ---
-title: Top 10 Architecture Instagram Influencers In Finland In 2023
+title: Top 10 Architecture Instagram Influencers In Finland In 2024
 description: >-
-  Find top architecture Instagram influencers in Finland in 2023. Most popular hashtags: #finland #architecture #helsinki #myhelsinki.
+  Find top architecture Instagram influencers in Finland in 2024. Most popular hashtags: #architecture #finland #helsinki #myhelsinki.
 platform: Instagram
-hits: 13
-text_top: Discover the most popular Instagram influencers on inBeat.
-text_bottom: inBeat aggregates 13 Instagram influencers like this in Finland for you to connect with.
+hits: 20
+text_top: Identify the top-rated Instagram profiles on inBeat.
+text_bottom: inBeat aggregates 20 Instagram influencers like this in Finland for you to connect with.
 profiles:
-  - username: "tomipics"
-    fullname: >-
-      Tomi
-    bio: >-
-      21 | Helsinki Urban | Architecture | Portrait tomipicsbusiness@gmail.com
-    location: "Finland"
-    followers: 35039
-    engagement: 821
-    commentsToLikes: 0.038600
-    id: ck0u80l8w638a0i19evevvwau
-    verified: false
-    hashtags: ""
-  - username: "helsinkifacades"
-    fullname: >-
-      Kristo Vedenoja | Helsinki
-    bio: >-
-      🏢I'll show Helsinki in a new light and tell about its history too! 📝DM or hello@kristovedenoja.com 📸Also see @kristovedenoja #helsinki #architecture
-    location: "Finland"
-    followers: 29157
-    engagement: 1238
-    commentsToLikes: 0.016734
-    id: ck13739nm9jui0i1963cjribb
-    verified: false
-    hashtags: "#ig, #bbctravel, #hft, #hf1950"
   - username: "johnentwistle_photography"
     fullname: >-
       John Entwistle
@@ -43,18 +19,30 @@ profiles:
     id: ck0w0zg9mgsv20i19w4l8ojg6
     verified: false
     hashtags: "#naturesbeauty, #weatherchannel, #nikon, #blackandwhite"
-  - username: "shahad_alshawk"
+  - username: "postcards_from_helsinki"
     fullname: >-
-      SHAHAD AL-SHAWK     شهد الشوك
+      Postcards from Helsinki
     bio: >-
-      ‏#Architecture #Design #Interior #Travel #Food ‏📍Helsinki/Finland 🇫🇮 ‏From : Baghdad/Iraq 🇮🇶 ‏#Architect #Iraqi #Wife#Mom رابط صفحتنا ⬇️⬇️⬇️
+      All photos by me 📸 ✨ ▫️ Share with credits only
     location: "Finland"
-    followers: 28565
-    engagement: 165
-    commentsToLikes: 0.188829
-    id: ck9wisobi3slb0j7807zufmyv
+    followers: 24079
+    engagement: 508
+    commentsToLikes: 0.004655
+    id: ck1373bmg9k4i0i19vcn8ciw7
     verified: false
-    hashtags: "#travelphotography, #vacation, #travelbug, #finland"
+    hashtags: "#autumnvibes, #pfhkallio, #nightphotography, #passionpassport"
+  - username: "helsinkifacades"
+    fullname: >-
+      Kristo Vedenoja | Helsinki
+    bio: >-
+      🏢 I show Helsinki in a new light and tell you about its history too! 📝 Questions? -> hello@kristovedenoja.com 📸 Check out my website for more!
+    location: "Finland"
+    followers: 55627
+    engagement: 766
+    commentsToLikes: 0.013970
+    id: ck13739nm9jui0i1963cjribb
+    verified: false
+    hashtags: "#bestplacestogo, #alliseeispretty, #helsinki, #kings"
   - username: "kristovedenoja"
     fullname: >-
       Kristo Vedenoja | Helsinki
@@ -67,18 +55,6 @@ profiles:
     id: ck0vuznspmven0i19o5s0c2m5
     verified: false
     hashtags: "#arquitecturamx, #letsguide, #ptk, #architecture"
-  - username: "postcards_from_helsinki"
-    fullname: >-
-      Postcards from Helsinki
-    bio: >-
-      Lauri, flâneur ✨ Helsinki, FIN 🇫🇮 ✨ Helsinki, camera & long walks = @postcards_from_helsinki ✨ All photos by me 📸 share with credits only
-    location: "Finland"
-    followers: 13824
-    engagement: 1236
-    commentsToLikes: 0.007450
-    id: ck1373bmg9k4i0i19vcn8ciw7
-    verified: false
-    hashtags: "#pfhkallio, #helsinkiofficial, #passionpassport, #helsinki"
   - username: "riittask"
     fullname: >-
       Riitta 🇫🇮
@@ -102,29 +78,53 @@ profiles:
     commentsToLikes: 0.027909
     id: ck0tumzey7tgw0i197y3omiio
     verified: false
-    hashtags: "#concretefloor, #interiorstyling, #haydesign, #archilovers"
-  - username: "hhollstrom"
+    hashtags: "#archilovers, #homestyle, #scandiinspo, #scandinavianhome"
+  - username: "amazinglife_marjaana"
     fullname: >-
-      Hannu Hollström
+      Marjaana 🇫🇮
     bio: >-
-      @lumixnordic Ambassador Photography enthusiast. Capturing anything and everything around me.
+      Finland 🇫🇮 #life #nature #travel #book #sailing #amazinglife #ballet #dreamer 🕊🌏 You Tube: https://www.youtube.com/channel/UCOrvSVEys78Vt298tl-7nzQ
     location: "Finland"
-    followers: 11775
-    engagement: 1659
-    commentsToLikes: 0.074097
-    id: ck5hmxd1qmswr0i1145q6lgih
+    followers: 8148
+    engagement: 723
+    commentsToLikes: 0.047201
+    id: ck5zzx5zwcknc0i1476vwevx7
     verified: false
-    hashtags: "#frosty, #visitoulu, #steam, #3leggedthing"
-  - username: "lennu37"
+    hashtags: "#white, #nature, #estonia, #instagram"
+  - username: "imikegraphics"
     fullname: >-
-      Lennu Petrell
+      Mikko Ristamäki
     bio: >-
-      Pro hockey player 🏒 Amateur photographer 📸 My photos: @lenn.artistic TikTok & Twitter: lennu37
+      Photographer | Explorer | Wilderness guide 🌍 Based in Finland ⬇️ Fine Art Prints + Aurora eBook
     location: "Finland"
-    followers: 9786
-    engagement: 1066
-    commentsToLikes: 0.033877
-    id: ckaovrn8x5uye0i78dds2jfb7
+    followers: 72492
+    engagement: 647
+    commentsToLikes: 0.012439
+    id: ck5hmxb92msu50i11emy6w79i
     verified: false
-    hashtags: "#linnut, #landscape, #suomenluonto, #naturelovers"
+    hashtags: "#nightsky, #longexposures, #roadtrip, #sonyalpha"
+  - username: "jennipupulandia"
+    fullname: >-
+      Jenni Rotonen / Pupulandia
+    bio: >-
+      ✖️potato chips influencer & feminist 🏆 Vuoden vastuullisuusvaikuttaja 2024 📍Helsinki Finland 🎧 @afterworkpodcast
+    location: "Finland"
+    followers: 51555
+    engagement: 266
+    commentsToLikes: 0.011198
+    id: ck0tymigyn9tb0i19aergjkdx
+    verified: false
+    hashtags: "#holiday, #kotimaanmatkailu, #petrescuefinland, #visitfinland"
+  - username: "mmarj00"
+    fullname: >-
+      Interior | Nordic living
+    bio: >-
+      ▫️New house -> 2023, Pirkanmaa, FIN 🇫🇮 ▫️ #rakentajat2023 ✉️ Contact: marj0085@outlook.com or DM
+    location: "Finland"
+    followers: 40909
+    engagement: 238
+    commentsToLikes: 0.023993
+    id: ck0u6gy5020wt0i19873zezyl
+    verified: false
+    hashtags: "#beigeinterior, #uusikoti, #rakentajat2021, #meid"
 ---

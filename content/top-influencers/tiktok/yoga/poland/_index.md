@@ -1,11 +1,11 @@
 ---
-title: Top 10 Yoga TikTok Influencers In Poland In 2023
+title: Top 10 Yoga TikTok Influencers In Poland In 2024
 description: >-
-  Find top yoga TikTok influencers in Poland in 2023. Most popular hashtags: #yoga #dlaciebie #foryou #foryoupage.
+  Find top yoga TikTok influencers in Poland in 2024. Most popular hashtags: #yoga #dlaciebie #foryoupage #foryou.
 platform: TikTok
 hits: 12
-text_top: See the best TikTok accounts on inBeat.
-text_bottom: Our search engine holds 12 TikTok influencers like this in Poland for you to pitch.
+text_top: Identify the most popular TikTok influencers on inBeat.
+text_bottom: Our database aggregates 12 TikTok influencers like this in Poland for you to work with.
 profiles:
   - username: "leszek_to_drobiazg"
     fullname: >-
@@ -54,7 +54,7 @@ profiles:
     commentsToLikes: 0.037516
     id: ck9npgx0qywqr0j78rh52bg3w
     verified: false
-    hashtags: "#autumn, #polishgirl, #vlog, #goodvibes"
+    hashtags: "#goodvibes, #vlog, #beautifulday, #autumn"
   - username: "handstand_man"
     fullname: >-
       HandstandMan

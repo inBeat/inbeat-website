@@ -1,12 +1,60 @@
 ---
-title: Top 10 Guitar Instagram Influencers In Argentina In 2023
+title: Top 10 Guitar Instagram Influencers In Argentina In 2024
 description: >-
-  Find top guitar Instagram influencers in Argentina in 2023. Most popular hashtags: #guitar #musica #guitarra.
+  Find top guitar Instagram influencers in Argentina in 2024. Most popular hashtags: #guitar #guitarra #slideguitar.
 platform: Instagram
-hits: 129
-text_top: Discover the best Instagram influencers on inBeat.
-text_bottom: Our database aggregates 129 Instagram influencers like this in Argentina for you to pitch.
+hits: 132
+text_top: Identify the top-rated Instagram profiles on inBeat.
+text_bottom: inBeat holds 132 Instagram influencers like this in Argentina for you to collaborate.
 profiles:
+  - username: "i.am.kenzy"
+    fullname: >-
+      𝐊𝐄𝐍𝐙𝐘
+    bio: >-
+      🎤 1/4 de @wearemegara 🏳️‍🌈 BOSS en @covenbykenzy 🤟🏻 Salgo en @metalovision 🎸 Artista de @cream.guitars 📩 kenzy@covenbykenzy.com 🐷 Friends not food
+    location: "Argentina"
+    followers: 31155
+    engagement: 445
+    commentsToLikes: 0.019364
+    id: ck5q1krblbgpy0i117mcks77s
+    verified: false
+    hashtags: "#benidormfest, #fantasyhair, #metallife, #crueltyfree"
+  - username: "patriciosardelli"
+    fullname: >-
+      AIRBAG
+    bio: >-
+      AIRBAG oficial voz y guitarra @AIRBAG.oficial Airbagcontrataciones@gmail.com
+    location: "Argentina"
+    followers: 554229
+    engagement: 594
+    commentsToLikes: 0.044423
+    id: ck0u2kytr069w0i19ngrnj3e8
+    verified: true
+    hashtags: "#tanto, #gardel, #producedaleplaylive"
+  - username: "charlieparradelriego"
+    fullname: >-
+      Charlie Parra del Riego
+    bio: >-
+      Peruano 🇵🇪 guitarra en @chrisjerichofozzy’s @kuarantine_official 🇺🇸 y @saratogaoficial 🇪🇸 Uso @kramerguitarsus @emgpickups @ernieball @valeton_music
+    location: "Argentina"
+    followers: 132360
+    engagement: 569
+    commentsToLikes: 0.031508
+    id: ck15q276b0qqm0i190lortega
+    verified: true
+    hashtags: "#guitar, #guitarrista, #shredguitar, #peru"
+  - username: "juanchib"
+    fullname: >-
+      Juanchi Baleirón
+    bio: >-
+      VOZ/GUITARRA DE PERICOS PRODUCTOR ARTÍSTICO MALBECASTER-PINK FLOOD Y GRAN BALEIRÓN VIVA PERICOS! link 👇🏼
+    location: "Argentina"
+    followers: 93969
+    engagement: 157
+    commentsToLikes: 0.045791
+    id: ck0vvtsg4qqgb0i19js8r9ljr
+    verified: true
+    hashtags: "#ultramanija, #robledosoundmachine, #perimones, #ramoricos"
   - username: "floberner"
     fullname: >-
       flo♭erner 🧿 Actriz
@@ -67,18 +115,6 @@ profiles:
     id: ck6ubvudlc03e0j71g2kxgjxb
     verified: false
     hashtags: "#ukelelecover, #venezuela, #cover, #singer"
-  - username: "patriciosardelli"
-    fullname: >-
-      AIRBAG
-    bio: >-
-      AIRBAG oficial voz y guitarra @AIRBAG.oficial Airbagcontrataciones@gmail.com
-    location: "Argentina"
-    followers: 243941
-    engagement: 596
-    commentsToLikes: 0.039219
-    id: ck0u2kytr069w0i19ngrnj3e8
-    verified: true
-    hashtags: "#levis, #lunapark, #musica, #chizzo"
   - username: "pato_cromado"
     fullname: >-
       PaTo Montes
@@ -91,40 +127,4 @@ profiles:
     id: ck5cbyr5lgeog0i112miqzbt4
     verified: false
     hashtags: "#taxicocodrilo, #elpatoeselchofer, #patocromado, #pachucostyle"
-  - username: "miguelgarrido1989"
-    fullname: >-
-      Miguel Garrido 🇦🇷🎸
-    bio: >-
-      🎸- Guitarrista - @diceros_rock 🎛- Endorser de @catalina_custom_pedalboards 🎚- Técnico en Sonido 🏠- Recreo - Catamarca
-    location: "Argentina"
-    followers: 14201
-    engagement: 361
-    commentsToLikes: 0.087987
-    id: ck8t65phecbdr0j78r9vm26fc
-    verified: false
-    hashtags: "#80s, #rocker, #recordingstudio, #guitarras"
-  - username: "marcoscasco7"
-    fullname: >-
-      Marcos Casco
-    bio: >-
-      Guitarrista 🇦🇷/guitarrista de @labarraok/Viajero Endorser @medinaartigas ▶️Mi canal de YouTube -HAZ CLICK AQUÍ!!!!! 👇👇👇👇👇👇👇👇👇👇👇👇👇
-    location: "Argentina"
-    followers: 11120
-    engagement: 459
-    commentsToLikes: 0.086036
-    id: ck139eqzgkydi0i19ico3gk9t
-    verified: false
-    hashtags: "#gitarre, #guitarsolo, #musica, #slash"
-  - username: "kurzale"
-    fullname: >-
-      Ale Kurz
-    bio: >-
-      Voz, guitarra y composición en @elbordoficial desde 1998.
-    location: "Argentina"
-    followers: 26322
-    engagement: 924
-    commentsToLikes: 0.030002
-    id: ck5c6wenq6c9b0i11wllsu6sn
-    verified: false
-    hashtags: "#elbordolaserie, #elbordo22a"
 ---

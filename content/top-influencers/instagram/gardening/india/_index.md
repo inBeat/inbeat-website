@@ -1,12 +1,36 @@
 ---
-title: Top 10 Gardening Instagram Influencers In India In 2023
+title: Top 10 Gardening Instagram Influencers In India In 2024
 description: >-
-  Find top gardening Instagram influencers in India in 2023. Most popular hashtags: #love #instagram #instagood #gardening.
+  Find top gardening Instagram influencers in India in 2024. Most popular hashtags: #gardening #love #instagood #fitness.
 platform: Instagram
-hits: 46
-text_top: Analyze the most popular Instagram influencers on inBeat.
-text_bottom: Our database has 46 Instagram influencers like this in India for you to contact.
+hits: 56
+text_top: Analyze the best Instagram accounts on inBeat.
+text_bottom: Our search engine holds 56 Instagram influencers like this in India for you to connect with.
 profiles:
+  - username: "bbhiral"
+    fullname: >-
+      Hiral Bhatia
+    bio: >-
+      #hairbyhiral | TreksnTravel |Treehugger @barefeet_topknot| naturebaby| Artist| pole fitness |Gardening | Dogmom |Mum 📍|armaan@entouragetalents.com
+    location: "India"
+    followers: 95017
+    engagement: 61
+    commentsToLikes: 0.039786
+    id: ck5hfc7wrwsx10i11vi0v5wn4
+    verified: false
+    hashtags: "#polelove, #fitness, #fitnessmotivation, #sonamkapoor"
+  - username: "supermom_mitali"
+    fullname: >-
+      Mitali Jakatdar | Sustainable Mommy
+    bio: >-
+      A sustainable storyteller who talks about… 😃 Eco-conscious parenting 🌍 Zero- Waste living 🌱 Green gardening 🥻Slow fashion
+    location: "India"
+    followers: 119926
+    engagement: 3
+    commentsToLikes: 0.060430
+    id: ckaosp0e0sfxs0i7883kqlmcx
+    verified: false
+    hashtags: "#reelsinstagram, #reels, #sustainability, #saree"
   - username: "avian.elixir"
     fullname: >-
       Namita Keskar🕊
@@ -19,18 +43,18 @@ profiles:
     id: ck1375n4a9wrw0i19j6qv4fzb
     verified: false
     hashtags: "#raw, #planetbirds, #birdfreaks, #thebirdingsquad"
-  - username: "designdecoranddisha"
+  - username: "kishiarora"
     fullname: >-
-      Disha Mishra Dubey
+      Kishi Arora
     bio: >-
-      #HousetoHome #YouTuber #DecorBlogger #DIY #ContentCreator #HomeDecor #Gardening #HomeMakeover #BudgetDecorating #Art #Craft #CreativeTribe New Video👇
+      👩🏻‍🍳@tedfellow Chefpreneur 🎓@theculinaryinstituteofamerica Alum 🍽@foodaholicsdelhi ®Consultancy 👩‍👧@mamaktreats Gardener Daughter DM for collab
     location: "India"
-    followers: 52642
-    engagement: 182
-    commentsToLikes: 0.030288
-    id: ck8t3pabj3z5l0j78ahmk8x6g
+    followers: 56086
+    engagement: 112
+    commentsToLikes: 0.067906
+    id: ck9wdv4bqhefx0j78fcr6kwvq
     verified: false
-    hashtags: "#housetohome, #indiandecorblogger, #urbanjungle, #puneinstagrammers"
+    hashtags: "#mamaktreats, #terracegarden, #gardeningwithkishi, #yummy"
   - username: "sakshi_kapo0r"
     fullname: >-
       🌸SAKSHI KAPOOR🌸
@@ -43,88 +67,64 @@ profiles:
     id: ck8tdmkj73xts0j78jnbcduk5
     verified: false
     hashtags: "#followforlike, #motivation, #follow4followback, #instafashion"
-  - username: "raimazaheer"
+  - username: "roving_gal"
     fullname: >-
-      R A I M A™ | influencer🤙
+      Priyanka Nagpal | Traveller 🌎
     bio: >-
-      ◆Bumblebee🐝 ●06-04-96🎂 ●Arien♈ ●Proud carmelite🏰 ●Quilonite ●Actor ●Anchor ●Model • #raimazaheer • #rzmuzic
+      It's all about the journey Personal account @toneup_gal ✉️ priyanka.nagpal.2305@gmail.com Digital Marketer at @wakefitco 📍Bangalore
     location: "India"
-    followers: 12907
-    engagement: 541
-    commentsToLikes: 0.016114
-    id: ck6tzko00a9hw0j71y0e3ir5y
+    followers: 4922
+    engagement: 738
+    commentsToLikes: 0.026974
+    id: ckap4vdbj91px0i78ondzapx5
     verified: false
-    hashtags: "#alive, #loveislove, #smile, #vogue"
-  - username: "its_vaishnavi"
+    hashtags: "#nammakarnatakaphotographers, #tripotocommunity, #storiesofindia, #portraitphotography"
+  - username: "jyoti__tripathi"
     fullname: >-
-      Vaishnavi | Fashion & Travel 🌸
+      Jyoti Tripathi
     bio: >-
-      🎀A Modern Day Indian Princess Sharing Her Journey 💖Self Taught Creator 🌸Here to Motivate You ✨Follow to Travel Along With Me Latest on Relationships👇🏼
+      Adventure Travel, Explorer, Hiker Licensed skydiver🪂 🇪🇸🇺🇸 🇯🇴🇲🇬🇱🇰🇸🇨🇳🇵🇵🇹🇬🇮 Solo Rider 🏍️ Mountain’g 🗻& Cycling expeditions 🚵‍♀️ Guinness record holder🎖️
     location: "India"
-    followers: 2951
-    engagement: 1281
-    commentsToLikes: 0.285974
-    id: ck9wdbmq3ex490j78hohusfk5
+    followers: 13283
+    engagement: 898
+    commentsToLikes: 0.015422
+    id: ckf5lw22zr9v10j23ararwnl4
     verified: false
-    hashtags: "#rsblooms, #mentalhealthbreak, #bloglovin, #mylookoftheday"
-  - username: "arshaan_khann_"
+    hashtags: "#punegirls, #skydivergirl, #adventuredog, #weekendgetaway"
+  - username: "akshaybanda"
     fullname: >-
-      arshaan
+      Akshay Banda
     bio: >-
-      
+      💍 @honey_banda_11 Entrepreneur @ba.beingambitious
     location: "India"
-    followers: 12505
-    engagement: 534
-    commentsToLikes: 0.673513
-    id: ck9hb95i3fvhc0j7817i3z76m
+    followers: 4050
+    engagement: 637
+    commentsToLikes: 0.024610
+    id: ckap6w727hlqm0i782yvxjqcq
     verified: false
-    hashtags: "#akitasofinstagram, #fambruhh, #gainwithwestandmugweru, #photoshoot"
-  - username: "p21jo"
+    hashtags: "#picoftheday, #instagood, #beauty, #happy"
+  - username: "flouristabypooja"
     fullname: >-
-      Purbi Joshi
+      FLOURISTA™
     bio: >-
-      Actor,foodie,traveller...loves life ...Nirvana can wait🙏🏼✌🏼
+      Just the right amount of sugar ✨ KINDLY PLACE YOUR ORDERS 5-7 DAYS IN ADVANCE. Mangalore, Karnataka Ph: 9980159307
     location: "India"
-    followers: 6964
-    engagement: 517
-    commentsToLikes: 0.053003
-    id: ck0w3645jrrxj0i1997sou99b
+    followers: 33852
+    engagement: 335
+    commentsToLikes: 0.013966
+    id: ck8swmblyeisy0j78jkkt07nz
     verified: false
-    hashtags: "#actorslife, #workmode, #metropark, #metropark2"
-  - username: "karishmakukreja_"
+    hashtags: "#bananacake, #hazelnutcake, #cutecake, #buttercreamstencilling"
+  - username: "suniel.shetty"
     fullname: >-
-      Karishma Kukreja💅🏻
+      Suniel Shetty
     bio: >-
-      Lover of life & travel 🌎 Life is short & the world is wide 🙆‍♀️
+      Sportsman at Heart, Actor by Art, Humanitarian by Virtue, Businessman by Default.
     location: "India"
-    followers: 8014
-    engagement: 347
-    commentsToLikes: 0.054555
-    id: ckap7tkdali3o0i78xn73u6q2
-    verified: false
-    hashtags: "#travelreels, #ig, #travelgram, #bhfyp"
-  - username: "sreelakshmi_n.o"
-    fullname: >-
-      sreelakshmi santhosh
-    bio: >-
-      
-    location: "India"
-    followers: 13842
-    engagement: 709
-    commentsToLikes: 0.048771
-    id: ck8wexhexerqm0j78d3e6x63l
-    verified: false
-    hashtags: "#tagwagai, #instagramer, #photooftheday, #photo"
-  - username: "freezing4thdimension"
-    fullname: >-
-      Kiran • Photographer
-    bio: >-
-      🎥 Telling tales through visuals 📍 Tiruchirapalli, India 📩 DM for enquiries 👇 Our short film
-    location: "India"
-    followers: 2886
-    engagement: 2459
-    commentsToLikes: 0.066293
-    id: ck13878onetu70i191nbxywhh
-    verified: false
-    hashtags: "#reelitfeelit, #broll, #unknownkalai, #tiruchirappalli"
+    followers: 4425600
+    engagement: 325
+    commentsToLikes: 0.008400
+    id: ck0tuuo328qx60i198jmjdcqq
+    verified: true
+    hashtags: "#welcometothejungle, #sunielshetty, #sankalpnashamukti, #welcome3"
 ---

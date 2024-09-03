@@ -1,11 +1,11 @@
 ---
-title: Top 10 Yoga TikTok Influencers In Canada In 2023
+title: Top 10 Yoga TikTok Influencers In Canada In 2024
 description: >-
-  Find top yoga TikTok influencers in Canada in 2023. Most popular hashtags: #fyp #yoga #foryoupage #foryou.
+  Find top yoga TikTok influencers in Canada in 2024. Most popular hashtags: #fyp #yoga #workout #foryou.
 platform: TikTok
-hits: 101
-text_top: Analyze the best TikTok accounts on inBeat.
-text_bottom: Our database holds 101 TikTok influencers like this in Canada for you to contact.
+hits: 100
+text_top: Discover the most popular TikTok accounts on inBeat.
+text_bottom: Our database aggregates 100 TikTok influencers like this in Canada for you to pitch.
 profiles:
   - username: "lynnettemermaid"
     fullname: >-
@@ -114,7 +114,7 @@ profiles:
     commentsToLikes: 0.085221
     id: ck8hphkjazhze0j78slf7i6rc
     verified: false
-    hashtags: "#fyp, #tiktoktravel, #gymnastics, #mykonos"
+    hashtags: "#japan, #fyp, #sunset, #travel"
   - username: "mickemason"
     fullname: >-
       Micke.Mason

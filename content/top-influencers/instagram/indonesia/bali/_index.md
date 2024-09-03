@@ -1,11 +1,11 @@
 ---
-title: Top 10 Instagram Influencers In Bali In 2023
+title: Top 10 Instagram Influencers In Bali In 2024
 description: >-
-  Find top Instagram influencers in Bali in 2023. Most popular hashtags: #bali #pastipuaspastidiblibli #sahabatperjalananmu.
+  Find top Instagram influencers in Bali in 2024. Most popular hashtags: #bali #explorebali #baliindonesia.
 platform: Instagram
-hits: 1865
-text_top: Analyze the top-rated Instagram accounts on inBeat.
-text_bottom: inBeat holds 1865 Instagram influencers like this in Bali, Indonesia for you to contact.
+hits: 2063
+text_top: Analyze the best Instagram profiles on inBeat.
+text_bottom: Our database holds 2063 Instagram influencers like this in Bali, Indonesia for you to contact.
 profiles:
   - username: "explorebali"
     fullname: >-
@@ -13,118 +13,118 @@ profiles:
     bio: >-
       Sharing experience of Bali’s diversity. Tag your Bali Experience #explorebali to give us permission to repost. 📩 explorebali.traveling@gmail.com
     location: "Indonesia"
-    followers: 514564
-    engagement: 98
-    commentsToLikes: 0.012278
+    followers: 576684
+    engagement: 2
+    commentsToLikes: 0.000190
     id: ck0tymxg5nbp20i19tvm05xp1
     verified: false
-    hashtags: "#explorebali, #pesandarirumahaja, #erafone, #eraspace"
-  - username: "andadenayu"
+    hashtags: "#uniqloramadanbigfest, #explorebali, #epicsalebrat11on, #uniqloindonesia"
+  - username: "kuipersnick"
     fullname: >-
-      Anda Denayu
+      Nick Kuipers
     bio: >-
-      ✨Clozette 🌟#Charisceleb Contact: DM @sahabatberkahh #collabwithanda Jog | Bali #revu_id_5e087e99
+      • Player of: @persib 💙🇲🇨 • @balibuildersgroup | @no.dua | @calma.bandung
     location: "Indonesia"
-    followers: 17191
-    engagement: 389
-    commentsToLikes: 0.067460
-    id: ck5hnmytno1qm0i11qr7jwi4c
-    verified: false
-    hashtags: "#kskincare, #hicharis, #charisceleb, #korea"
-  - username: "backpackertampan"
-    fullname: >-
-      Tampan | Bali
-    bio: >-
-      📍Living a fairytale in Bali 🌈🧚🏻✨ ⭐️ My upcoming Boba Cafe @uchuboba ⭐️ Clothing brand @semesta.bytampan ⭐️ Photo preset @tampanfilms
-    location: "Indonesia"
-    followers: 198785
-    engagement: 311
-    commentsToLikes: 0.017571
-    id: ck0w040h7c9ml0i19vkozopxk
-    verified: false
-    hashtags: "#baliindonesia, #traveler, #bali, #travelphotography"
-  - username: "dylanwerneryoga"
-    fullname: >-
-      Dylan Werner
-    bio: >-
-      Yoga Teacher Living in Bali 🇮🇩 My book “The Illuminated Breath” is available on Amazon and Kindle!
-    location: "Indonesia"
-    followers: 813817
-    engagement: 298
-    commentsToLikes: 0.016796
-    id: ck5pyvzy3y2ig0i11xgtmxjmz
+    followers: 988160
+    engagement: 778
+    commentsToLikes: 0.010547
+    id: ck0tyzo4qojr30i19ybgkpk4t
     verified: true
-    hashtags: "#handstand, #backbend, #yoga, #expo2020"
-  - username: "her_journeys"
+    hashtags: "#bandung, #juara, #footballindonesia, #bandungjuara"
+  - username: "justravelynn"
     fullname: >-
-      ANGGEY ANGGRAINI
+      Taralynn┊ECO┊LIFESTYLE┊BALI
     bio: >-
-      Love to travel, share her experiences and enjoy the little joys of life 🫶🏽 🌏: 𝚠𝚠𝚠.𝚑𝚎𝚛𝚓𝚘𝚞𝚛𝚗𝚎𝚢𝚜.𝚌𝚘𝚖 📺: 𝚢𝚘𝚞𝚝𝚞𝚋𝚎.𝚌𝚘𝚖/𝚑𝚎𝚛_𝚓𝚘𝚞𝚛𝚗𝚎𝚢𝚜 📍Bali, Indonesia
+      🇨🇦 Canadian in📍BALI 📸 DM to connect ✧ @taralynn.disher ✧ @taralynn.interiors ✧ earth guardian . conscious creative ✧ mindful . sustainable living
     location: "Indonesia"
-    followers: 183483
-    engagement: 290
-    commentsToLikes: 6.448539
-    id: ck0w287kqn2pj0i19lqinfn4t
+    followers: 9029
+    engagement: 540
+    commentsToLikes: 0.127548
+    id: ckz4fx0ix74ft0j23yxah9w4q
     verified: false
-    hashtags: "#sahabatperjalananmu, #bliblisahabatperjalananmu, #pastipuaspastidiblibli, #paidpromote"
-  - username: "herman_wang"
+    hashtags: "#baliindonesia, #wonderfulindonesia, #exploreindonesia, #bestairbnb"
+  - username: "taina.surf"
     fullname: >-
-      Luxury Travel Hotel Beauty
+      TAINA ANGEL IZQUIERDO <3
     bio: >-
-      I’m Indonesian 👬 Capricorn man #Fashion designer @herman_arifin #Travel #Hotel @wang_baliluxuryhotel #Luxury brands @hermanwang_luxurycloset
+      🌎🌴• Born and raised in Bali, Indonesia.✨ • 21 🌺🐒 a whole lotta gratitude :) @ripcurlasia
     location: "Indonesia"
-    followers: 54821
-    engagement: 128
-    commentsToLikes: 0.030431
-    id: ck6tsifpl4xzq0j71jvjln74u
+    followers: 40339
+    engagement: 1001
+    commentsToLikes: 0.020233
+    id: ck5zt777hzv5n0i14krvu4w74
     verified: false
-    hashtags: "#ayanaresort, #jimbaran, #jakartasfinestexperience, #jomalone"
-  - username: "harivalzayuka"
+    hashtags: ""
+  - username: "karinporavne"
     fullname: >-
-      Harival Zayuka| Travel Blogger
+      Karin Poravne
     bio: >-
-      Traveler / Gym Enthusiast 📍 Bali, Indonesia For business inquiries WA +6281246508649 ✉️ contact@harivalzayuka.com
+      📍Bali Owner of @kp.beautystudio Co-Founder of @elinorcosmetics Also mine @eyeimpactslovenija 🐶 Bali paws projekt:
     location: "Indonesia"
-    followers: 112661
-    engagement: 108
-    commentsToLikes: 0.015457
-    id: ck0uehemrlh6d0i19p2hms9lx
+    followers: 22502
+    engagement: 568
+    commentsToLikes: 0.014260
+    id: ck6tuqz0uhwdy0j71pn10zbsd
     verified: false
-    hashtags: "#harivalswitzerland, #europe, #swiss, #switzerland"
-  - username: "onic.esports"
+    hashtags: "#balivibes, #womeninbusiness, #glowlikeneverbefore, #cleansingbalm"
+  - username: "lturiano"
     fullname: >-
-      ONIC
+      Lia Turiano
     bio: >-
-      ONIC ID -- @tokopedia @gopayindonesia @biznethome @dailybox.id @asusrog.id @popsworldwide_id @balitoken -- @onicsupplyid @sobat_onic
+      Santa Barbara 🌎🌍🌏 📍Bali
     location: "Indonesia"
-    followers: 1543439
-    engagement: 41
-    commentsToLikes: 0.016693
-    id: ck0w07cw4cr3b0i19skg9oz5i
-    verified: true
-    hashtags: "#nonstopantingedrop, #mlbbesports, #m4, #goonic"
-  - username: "reginaaphx"
-    fullname: >-
-      Regina Phoenix
-    bio: >-
-      📍Bali & Bdg @zirius.official 💫 📲 Vindi 082115567250 (Brand) ☎️Doni 0895607892020 (Schedule)
-    location: "Indonesia"
-    followers: 170693
-    engagement: 23
-    commentsToLikes: 0.000700
-    id: ck6twvbccuawq0j71ymzanm6n
+    followers: 23265
+    engagement: 470
+    commentsToLikes: 0.013343
+    id: ck6uedjfiqakw0j719q780p1i
     verified: false
-    hashtags: "#doktermobil, #pastiberes, #confidencehalo, #jasminemeetsrose"
-  - username: "gasdedd"
+    hashtags: ""
+  - username: "intanlogager"
     fullname: >-
-      Deddy Mahardika
+      Kitan
     bio: >-
-      ❁ Bali - Indonesia ✎ infogasdedd@gmail.com ➤ Part of @sewamirrorlessnine ▼ #BALIMISSINGYOUFFA
+      Danish-Indonesian Gadis Sampul 2018 | Bali- JKT 📍Currently in Jakarta
     location: "Indonesia"
-    followers: 6207
-    engagement: 1624
-    commentsToLikes: 0.079286
-    id: ck5hhy1onan890i11zq59mjh8
+    followers: 7011
+    engagement: 1400
+    commentsToLikes: 0.013593
+    id: ckf5omkjn2v2o0j23kh8lqrh7
     verified: false
-    hashtags: "#welivetoexplore, #earthfocus, #discoverearth, #stayandwander"
+    hashtags: "#style, #ootd, #bali, #fashion"
+  - username: "watzac"
+    fullname: >-
+      Zac Watson
+    bio: >-
+      Video & Photo | Bali 📩 Info@watzac.com 👇 Level up your photo editing game
+    location: "Indonesia"
+    followers: 191245
+    engagement: 835
+    commentsToLikes: 0.009648
+    id: ck5hk6tyyhw4m0i112c7k7w95
+    verified: false
+    hashtags: "#visitindonesia, #bestvacations, #indonesia, #wonderfulindonesia"
+  - username: "beyamacchiato"
+    fullname: >-
+      beya 🝮
+    bio: >-
+      ✿ Bali, Indonesia. inquiries: beyamacchiato@gmail.com 💌 tiktok: beyamacchiato ➶ ˚ ʕ·ᴥ·ʔ
+    location: "Indonesia"
+    followers: 205287
+    engagement: 442
+    commentsToLikes: 0.027558
+    id: ck15rco1i79i30i19c6p5yqv0
+    verified: false
+    hashtags: ""
+  - username: "vinaarysthadewi"
+    fullname: >-
+      Vina Arystha | Bali Life
+    bio: >-
+      📸 Creative | Travel 📍Bali, IND🇮🇩 BA of @iniviehospitality #IniVieBesties ✨ @balmtattooindo
+    location: "Indonesia"
+    followers: 14048
+    engagement: 470
+    commentsToLikes: 0.096773
+    id: ck5hhvs5eabs90i11k16x0f2f
+    verified: false
+    hashtags: "#welivetoexplore, #reels, #earthoutdoors, #stayandwander"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Outdoors Instagram Influencers In Nigeria In 2023
+title: Top 10 Outdoors Instagram Influencers In Nigeria In 2024
 description: >-
-  Find top outdoors Instagram influencers in Nigeria in 2023. Most popular hashtags: #portrait #explorepage #nigerianphotographershub #vogueeko.
+  Find top outdoors Instagram influencers in Nigeria in 2024. Most popular hashtags: #portrait #explorepage #bellanaijaweddings #blackgirlmagic.
 platform: Instagram
-hits: 8
-text_top: Discover the most popular Instagram influencers on inBeat.
-text_bottom: inBeat holds 8 Instagram influencers like this in Nigeria for you to pitch.
+hits: 9
+text_top: Analyze the most popular Instagram influencers on inBeat.
+text_bottom: Our platform has 9 Instagram influencers like this in Nigeria for you to pitch.
 profiles:
   - username: "java_studios"
     fullname: >-
@@ -67,6 +67,18 @@ profiles:
     id: ck5hg5h6210rv0i11hvegsk2n
     verified: false
     hashtags: "#mondaymood, #leopardprint, #mondaymotivation, #fridayvibes"
+  - username: "ovia_reflex"
+    fullname: >-
+      Nigeria Based Photographer
+    bio: >-
+      Creative Director/ Photographer / Retoucher Bookings: Oviareflex3112@gmail.com WhatsApp: +2347055930290 Published Photographer Lightroom presets 🔗
+    location: "Nigeria"
+    followers: 18539
+    engagement: 291
+    commentsToLikes: 0.013713
+    id: ck0w0uiuag3n90i197bxelsvm
+    verified: false
+    hashtags: ""
   - username: "podimagery"
     fullname: >-
       THE POD

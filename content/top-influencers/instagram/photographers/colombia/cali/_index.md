@@ -1,11 +1,11 @@
 ---
-title: Top 10 Photographers Instagram Influencers In Cali In 2023
+title: Top 10 Photographers Instagram Influencers In Cali In 2024
 description: >-
-  Find top photographers Instagram influencers in Cali in 2023. Most popular hashtags: #colombia #cali #photography #photographer.
+  Find top photographers Instagram influencers in Cali in 2024. Most popular hashtags: #photography #colombia #cali #photographer.
 platform: Instagram
-hits: 15
-text_top: Identify the most popular Instagram accounts on inBeat.
-text_bottom: Our database has 15 Instagram influencers like this in Cali, Colombia for you to connect with.
+hits: 14
+text_top: Discover the top-rated Instagram profiles on inBeat.
+text_bottom: Our search engine aggregates 14 Instagram influencers like this in Cali, Colombia for you to pitch.
 profiles:
   - username: "juank_mt09"
     fullname: >-
@@ -31,18 +31,6 @@ profiles:
     id: ck5zknppsjtci0i149c4cckq6
     verified: false
     hashtags: "#swag, #lifestyle, #bogota, #the35mmdiary"
-  - username: "roberttposs"
-    fullname: >-
-      Roberttposs
-    bio: >-
-      Diseñador Industrial // @arposstejidos
-    location: "Colombia"
-    followers: 27589
-    engagement: 104
-    commentsToLikes: 0.016782
-    id: ck0w5tne55dvh0i19hwzfpz88
-    verified: false
-    hashtags: "#estoeselvalle, #agroforestry, #naturephotography, #colombiahd"
   - username: "mauri__dynamics_"
     fullname: >-
       MAURICIO QUINTERO
@@ -103,18 +91,18 @@ profiles:
     id: ck9wey9bymeeq0j78xcue3ftv
     verified: false
     hashtags: "#productora, #chile, #love, #photo"
-  - username: "enteratecali"
+  - username: "roberttposs"
     fullname: >-
-      Entérate Cali
+      Roberttposs
     bio: >-
-      Conoce el portafolio de marketing digital y publicidad escribiéndonos al DM 💬 | Gracias por hacer parte de esta actualidad total. CEO: @SoyEdMurillo 😉
+      Sesiones de Fotografía y Clases personalizadas de Fotografia Diseñador Industrial // @arpossamano 📷 Nikon/Gopro
     location: "Colombia"
-    followers: 161529
-    engagement: 102
-    commentsToLikes: 0.014664
-    id: ck13aav5aphjt0i196rv7mwoi
+    followers: 26276
+    engagement: 76
+    commentsToLikes: 0.009325
+    id: ck0w5tne55dvh0i19hwzfpz88
     verified: false
-    hashtags: "#calibella, #sultanadelvalle, #calivalle, #calicolombia"
+    hashtags: "#royalenfield, #goprophoto, #nikond7200, #nikonista"
   - username: "astriid.oficial1"
     fullname: >-
       A S T R I I D
@@ -127,4 +115,16 @@ profiles:
     id: ck9hc311yjj5h0j78p694m7x9
     verified: false
     hashtags: "#instagood, #photography, #flow, #reggaeton"
+  - username: "ramvidzapata"
+    fullname: >-
+      🆁🅰🅼🆅🅸🅳
+    bio: >-
+      📦@mrboxmen @mystere.co ©𝓜á𝓷𝓪𝓰𝓮𝓻 ✳️ @andrewchristianintl Ambassador 🌈♂️ 🍑@jjmalibu Ambassasor 🇻🇪Living in Bogota🇻🇪
+    location: "Colombia"
+    followers: 65605
+    engagement: 280
+    commentsToLikes: 0.016344
+    id: ck6u070hhdyy10j71x6lygpcd
+    verified: false
+    hashtags: "#men, #photography, #inkedmen, #medellin"
 ---

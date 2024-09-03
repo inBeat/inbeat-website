@@ -1,12 +1,108 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Ukraine In 2023
+title: Top 10 Fitness Instagram Influencers In Ukraine In 2024
 description: >-
-  Find top fitness Instagram influencers in Ukraine in 2023. Most popular hashtags: #fitness #training #gym.
+  Find top fitness Instagram influencers in Ukraine in 2024. Most popular hashtags: #polestatic #poledance #poletrick.
 platform: Instagram
-hits: 40
-text_top: Discover the best Instagram profiles on inBeat.
-text_bottom: inBeat has 40 Instagram influencers like this in Ukraine for you to contact.
+hits: 55
+text_top: Identify the top-rated Instagram profiles on inBeat.
+text_bottom: Our database has 55 Instagram influencers like this in Ukraine for you to connect with.
 profiles:
+  - username: "anela.kuzmina"
+    fullname: >-
+      Alëna Kuzmina
+    bio: >-
+      🔝 World-renowned exotic dancer 🌎 38 countries with workshops & judging ➡️ DM 🏆 European Fitness Bikini Vice-Champion 🥇 Arnold Classic EU Winner
+    location: "Ukraine"
+    followers: 110323
+    engagement: 576
+    commentsToLikes: 0.017740
+    id: ck5bwjyg5lue60i112p42f8fz
+    verified: false
+    hashtags: "#acrobatics, #exoticdance, #exoticcombo, #poleacrobatic"
+  - username: "kvittkova"
+    fullname: >-
+      Dariia Kvitkova 🇺🇦
+    bio: >-
+      lifestyle · beauty · inspo my fitness NBY @nby.kvitkova 🩶 ⠀ PR/AD(рекламні інтеграції): pr.kvitkova@gmail.com or ↙️
+    location: "Ukraine"
+    followers: 1846783
+    engagement: 292
+    commentsToLikes: 0.002519
+    id: ck5c7aw0776ez0i1195vb84ft
+    verified: true
+    hashtags: "#kyliecosmetics, #cosmickyliejenner"
+  - username: "o_stoyanovskaya"
+    fullname: >-
+      Oksana
+    bio: >-
+      model life, fitness & wellness ma: @selectivemgmt paris now
+    location: "Ukraine"
+    followers: 17611
+    engagement: 207
+    commentsToLikes: 0.017993
+    id: ck5c4k3t11iqm0i11dmzydfxt
+    verified: false
+    hashtags: ""
+  - username: "coach_viushina"
+    fullname: >-
+      Жорсткий тренер Валерія В’юшина💙💛
+    bio: >-
+      ⠀ Influencer | fitness coach | lifestyle owner @vluchno.ua owner @viushinateam PR/ Collaboration @viushina_cooperation Ambassador @ribashotels
+    location: "Ukraine"
+    followers: 272311
+    engagement: 194
+    commentsToLikes: 0.015363
+    id: ck15s2zs9aymm0i19060o37y2
+    verified: false
+    hashtags: ""
+  - username: "katya.zhest"
+    fullname: >-
+      Катя ЖЕСТЬ
+    bio: >-
+      🙋‍♀️Motivation, fitness, lifestyle 🧢Brand @but.ukraine 🙌Collaboration @katyazhest_cooperation
+    location: "Ukraine"
+    followers: 130703
+    engagement: 263
+    commentsToLikes: 0.023541
+    id: ck5zwn2oe6ey10i14nce5x0e2
+    verified: false
+    hashtags: ""
+  - username: "arielbenattar"
+    fullname: >-
+      Ariel Ben-attar
+    bio: >-
+      Fitness | Fashion | online coaching 🏆 Mr. Israel Classic physique יועץ כושר ותזונה 📝 Owner - @stationzstudio
+    location: "Ukraine"
+    followers: 237872
+    engagement: 114
+    commentsToLikes: 0.027221
+    id: ck8sw22vodiqc0j7849uzl5xe
+    verified: true
+    hashtags: "#suit, #double, #couple, #modeling"
+  - username: "valeriyakruk"
+    fullname: >-
+      ВАЛЕРИЯ КРУК
+    bio: >-
+      🇺🇦Нутриціолог, Телеведуча, Модель. IFBB Fitness bikini 🏆Ukraine🏆Europe. 📍Kyiv / Vienna. Скоро старт Марафону❗️Щоб дізнатись умови, пиши в Телеграм⬇️
+    location: "Ukraine"
+    followers: 257158
+    engagement: 77
+    commentsToLikes: 0.014673
+    id: ckaozec7xli020i78eqpkb2fo
+    verified: true
+    hashtags: ""
+  - username: "uzelkova.marina"
+    fullname: >-
+      Боржемська Марина
+    bio: >-
+      🇺🇦Марафон схуднення, фітнес-програма, правильне харчування ➡️ @insta_borzhemsky Fitness trainer and TV presenter @stbua +380938980724, Olga (PR)
+    location: "Ukraine"
+    followers: 611926
+    engagement: 59
+    commentsToLikes: 0.018381
+    id: ck5hdd22tmrdh0i11a81k7d1i
+    verified: true
+    hashtags: "#ad"
   - username: "karinna_foxx"
     fullname: >-
       KARINA
@@ -31,100 +127,4 @@ profiles:
     id: ck5zrq33mx1vz0i14xmvq2m1p
     verified: false
     hashtags: ""
-  - username: "taras.tsymbaliuk"
-    fullname: >-
-      ТАРАС ЦИМБАЛЮК
-    bio: >-
-      ukrainian actor | fitness lover ⠀ PR | cooperation | @gorna_ | Nastia ⠀ cinema agent | +380 (67) 447 67 70 | Oksana⠀ EMAIL | tarasactor@gmail.com
-    location: "Ukraine"
-    followers: 87384
-    engagement: 472
-    commentsToLikes: 0.012584
-    id: ck14imdfeg3wl0i19d4k18or6
-    verified: false
-    hashtags: ""
-  - username: "marydenysiuk"
-    fullname: >-
-      𝗠𝗔𝗥𝗜𝗔 𝗗𝗘𝗡𝗬𝗦𝗜𝗨𝗞 - 𝗦𝗧𝗔𝗬 𝗛𝗘𝗔𝗟𝗧𝗛𝗬
-    bio: >-
-      - Your certified fitness buddy - Healthy recipes for you 📍Rotterdam,Netherlands #maryden_fitness & #maryden_recipe Investing/Інвестую
-    location: "Ukraine"
-    followers: 386292
-    engagement: 44
-    commentsToLikes: 0.034407
-    id: ck6udxlqtnp4g0j71mqfpeeiw
-    verified: false
-    hashtags: "#lovingblends, #solidshampoo, #zonderplasticafval, #shampoobar"
-  - username: "amina.dembele"
-    fullname: >-
-      Amina
-    bio: >-
-      Fitness💪🏽 Ivorian🇨🇮 Ukrainian🇺🇦
-    location: "Ukraine"
-    followers: 5372
-    engagement: 1491
-    commentsToLikes: 0.023520
-    id: ck8wd0sxbd9910j78u6z4a9w8
-    verified: false
-    hashtags: "#gym, #fitness, #stayfit, #workout"
-  - username: "usmanov_shh"
-    fullname: >-
-      Shaban Usmanov
-    bio: >-
-      ♦️Тренер сети клубов Fitness House 🎖МС по боевому самбо, КМС по грепплингу 🤼‍♂️Тренер БК VOIN 🔹Групповые и персональные тренировки
-    location: "Ukraine"
-    followers: 5853
-    engagement: 589
-    commentsToLikes: 0.063501
-    id: ckf5tl1hji3880j236955ria2
-    verified: false
-    hashtags: "#boxingtraining, #walk, #legend, #alcatraz"
-  - username: "pilnikus"
-    fullname: >-
-      Pilnik 🐍
-    bio: >-
-      Tattoo,fitness,blog 🇺🇦Kharkov ⭕️Тренер персональных и индивидуальных занятий в @yodsportclub TikTok🐱 100k+ Likee 💛 40k+
-    location: "Ukraine"
-    followers: 2590
-    engagement: 2292
-    commentsToLikes: 0.033687
-    id: ck6u9e6pfx1cl0j71xo9o9gvk
-    verified: false
-    hashtags: "#viral, #fyp, #tiktok, #kharkov"
-  - username: "alena_yakim"
-    fullname: >-
-      Бодибилдинг  со Вкусом
-    bio: >-
-      🌟 women’s physique (ФББР) 🥇Чемпионка Москвы 2020 🥈Вице-чемпионка Москвы 2019 Персональный тренер ☄️ @kometa.fitness ☄️ @kometa.black
-    location: "Ukraine"
-    followers: 19083
-    engagement: 208
-    commentsToLikes: 0.065286
-    id: ckf5qvc8nalqi0j23l0cmclxs
-    verified: false
-    hashtags: "#kometafit, #fitnessgirl, #kometablack, #moscow"
-  - username: "soloveykatyatkd"
-    fullname: >-
-      Katya Solovey
-    bio: >-
-      ITF & WAKO: 5 times World champion, 11 Times European champion, 6 times World Cup champ. Solovey team Taekwon-Do and Fitness instructor
-    location: "Ukraine"
-    followers: 10982
-    engagement: 1128
-    commentsToLikes: 0.021626
-    id: ck6u6toulho1w0j7152v0o30f
-    verified: false
-    hashtags: "#taekwondowtf, #lightcontactkickboxing, #colombia, #korea"
-  - username: "julusina"
-    fullname: >-
-      Julia Chumachenko
-    bio: >-
-      Юся Чумаченко Highjumper, PB 194cm (my height is smaller!) 30th summer Universiade champion 🥇 Ukrainian national team track and field
-    location: "Ukraine"
-    followers: 63902
-    engagement: 1397
-    commentsToLikes: 0.015986
-    id: ckf5lkflupw5j0j236fgpih32
-    verified: false
-    hashtags: "#trainingcamp, #fitness, #figure, #training"
 ---

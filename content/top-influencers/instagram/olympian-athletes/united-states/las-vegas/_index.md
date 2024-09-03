@@ -1,130 +1,130 @@
 ---
-title: Top 10 Olympian Athletes Instagram Influencers In Las Vegas in 2023
+title: Top 10 Olympian Athletes Instagram Influencers In Las Vegas In 2024
 description: >-
-  Find top olympian athletes Instagram influencers in Las Vegas in 2023. Most popular hashtags: #fitness #ifbb #bodybuilding #ifbbpro.
+  Find top olympian athletes Instagram influencers in Las Vegas in 2024. Most popular hashtags: #motivation #fitness #lasvegas #ifbbpro.
 platform: Instagram
-hits: 7
-text_top: Discover the most popular Instagram influencers on inBeat.
-text_bottom: inBeat has 7 Instagram influencers like this in Las Vegas, United States for you to collaborate.
+hits: 5
+text_top: Analyze the top-rated Instagram accounts on inBeat.
+text_bottom: Our platform holds 5 Instagram influencers like this in Las Vegas, United States for you to pitch.
 profiles:
-  - username: "shaunclarida"
+  - username: "dusan.bulut"
     fullname: >-
-      IFBB Pro Shaun Clarida
+      Dušan Domović-Bulut
     bio: >-
-      THE GIANT KILLER IFBB 212 Pro Bodybuilder 5x IFBB Olympian 4x IFBB Champion ❤️Juicy_Fitlyfe Sponsors: 💊@nutrabio 👕@officialgasp
+      @redbull Athlete Founder of Team Novi Sad 3x3 Decorated Olympian 🥉 @thebig3 - Team Aliens 👽
     location: "United States"
-    followers: 188673
-    engagement: 124
-    commentsToLikes: 0.015864
-    id: ck5bvgwe7jmem0i11czinawhd
-    verified: false
-    hashtags: "#goals, #212bodybulding, #ifbb, #nutrabio"
+    followers: 62167
+    engagement: 908
+    commentsToLikes: 0.006408
+    id: ck0tx7w3ii5l60i19jkutmh5k
+    verified: true
+    hashtags: "#srbija, #ball, #ballislife, #serbia"
   - username: "mikaelamayer"
     fullname: >-
       💎MIKAELA MAYER💎
     bio: >-
-      2016 Olympian 🥊 | Signed to @TopRank Boxing on ESPN 13-0 | Brodnicka vs Mayer Oct 31st on ESPN+ GEORGE@INTELLIGENTARTISTS.COM
+      Olympian 🥊 Welterweight 💪🏼 Former Unified Jr. Lightweight World Champ Analyst for TopRank Boxing on ESPN + Sky Sports 🇺🇸 🇬🇧
     location: "United States"
-    followers: 109547
-    engagement: 393
-    commentsToLikes: 0.032012
+    followers: 189471
+    engagement: 167
+    commentsToLikes: 0.019666
     id: ck5py9jp8uy4i0i119m0kggon
     verified: true
-    hashtags: "#everlast, #andnew, #vegas, #boxing"
-  - username: "whitneyjones_ifbbpro"
+    hashtags: "#mikaelamayer, #vegas, #francomoloney3, #skysports"
+  - username: "michaelapavleova_ifbbpro"
     fullname: >-
-      IFBB PRO WHITNEY JONES
+      Michaela Pavleová
     bio: >-
-      💕Mom 2 x Ms Fitness ⭕️lympia 🏆🏆 Owner @theprophysiques & @fearless_wj💙 Surge Elite Athlete, ABB Performance Athlete, @lululemon TMarie Suits, LSR
+      ✨ IFBB FITNESS PRO ✨ ⭕️lympia 2022 7th 💪🏽 Scitec Nutrition athlete ⭐️ CARPATREE ambassador 🏋🏻 Personal trainer 365 GYM 📩 Collab: mpavleova95@gmail.com
     location: "United States"
-    followers: 115456
-    engagement: 61
-    commentsToLikes: 0.059249
-    id: ck0tsrysk0cc50i19mz98zuj6
-    verified: true
-    hashtags: "#surgesupplements, #thisisfitness, #whitneyjones, #thepros"
-  - username: "tamerelguindy"
-    fullname: >-
-      Tamer El Guindy-MBA
-    bio: >-
-      •IFBB PRO-2x Mr.USA •Executive Director of Brazil for IFBB Pro League& NPC •CEO Musclecontest •Producer of Olympia Weekend 👉 @lipoxyderm
-    location: "United States"
-    followers: 31251
-    engagement: 185
-    commentsToLikes: 0.056183
-    id: ck134do7cvxr60i19higqx95b
+    followers: 51194
+    engagement: 109
+    commentsToLikes: 0.006206
+    id: ck5cec568kr4c0i11mby7g0vu
     verified: false
-    hashtags: "#musclecontest, #npc, #enzo, #love"
-  - username: "latoryawatts"
+    hashtags: "#carpatreeteam, #lifestyle, #scitecgirl, #motivation"
+  - username: "nicolasvullioud"
     fullname: >-
-      LATORYA WATTS
+      Nicolas Vullioud IFBB PRO
     bio: >-
-      2x Ms FIGURE OLYMPIA CHAMPION🇺🇸 3x ARNOLD SPORTS CHAMPION 🇺🇸🇦🇺🇧🇷 #POSINGCOACH #TEAMWATTS
+      🔹@mhpstrongusa (nic15) 🔹@cannasupply_ch (NIC20) 🔹 @trainedbyjpclothing 🔹Team Tuor🇨🇭🔹⭕️lympian 2018
     location: "United States"
-    followers: 96923
-    engagement: 125
-    commentsToLikes: 0.036187
-    id: ck6u83ylbpahb0j71v6hc5173
+    followers: 353361
+    engagement: 124
+    commentsToLikes: 0.007186
+    id: ck13d3tai3jc60i19wa8s47fm
     verified: false
-    hashtags: "#trifecta, #trifectatribe, #organic, #eatlikeyoutrain"
-  - username: "ifbbpronicki"
+    hashtags: "#bruuu, #portugalpro, #model, #teammhp"
+  - username: "benquilpierre"
     fullname: >-
-      Nicki Chartrand Ifbb Pro
+      🌐 𝐈𝐅𝐁𝐁 𝐏𝐫𝐨 ⭕️𝐥𝐲𝐦𝐩𝐢𝐚𝐧 𝐁𝐞𝐧𝐪𝐮𝐢𝐥 𝐌𝐚𝐫𝐢𝐠𝐧𝐲
     bio: >-
-      Livin the dream! IFBB Pro 🏆4th in the WORLD 🌎 Dedicated and Motivated to be my best version. Hopefully inspiring you to be your best also!
+      5x IFBB Pro Champ 🏆 3× ⭕️lympian 22, 23, 2024 🌎 Prep/Posing Coach 📥 DM @team.pro.ops @ruleoneproteins BENQUIL @tuffwraps BMTUFF @clinical_labs BEN10
     location: "United States"
-    followers: 46777
-    engagement: 185
-    commentsToLikes: 0.042285
-    id: ck9hboybbhtmv0j78xhk5uvj5
+    followers: 40656
+    engagement: 853
+    commentsToLikes: 0.022836
+    id: ckmw19xq85dhu0j23oudqlgzd
     verified: false
-    hashtags: "#stretch, #lift, #attitudeofgratitude, #girlswithmuscles"
-  - username: "big__ab"
+    hashtags: "#clinicallabs, #liquidsunrayz, #ifbbpro, #mensphysique"
+  - username: "lalahurdles2"
     fullname: >-
-      Big Ab™️
+      LaVonne Idlette
     bio: >-
-      🔹🌐IFBB Pro Classic Physique 🔹’19 ⭕️lympian 🔹💰Financial￼ Liaison & 🏋🏾‍♂️Celebrity-Trainer 🔹Subscribe to my YouTube Channel 🎥⬇️
+      Olympian MBA JD #TheAmazingRace32 RealEstateInvestor #iFinanceRealEstate I help athletes and UHNWI invest in Biz & RE M&A Advisor @athletetechgroup
     location: "United States"
-    followers: 61576
-    engagement: 391
-    commentsToLikes: 0.014385
-    id: ck6tunfhfhb910j71dqk6owiw
-    verified: true
-    hashtags: "#miami, #la, #handsome, #nutrition"
-  - username: "morganmitch"
+    followers: 71292
+    engagement: 109
+    commentsToLikes: 0.043035
+    id: ck5pz3yn6z3tx0i1186rjj3os
+    verified: false
+    hashtags: "#travellife, #realestateinvesting, #duediligence, #happynewyear"
+  - username: "devonallen13"
     fullname: >-
-      Morgan Mitchell
+      Devon Allen
     bio: >-
-      🌱• olympian @adidas athlete @livesoulara @imgtalent
+      Olympian. NIKE athlete. 3x US/NCAA champ 110HH. Twitter-DevonAllen13
     location: "United States"
-    followers: 98416
-    engagement: 609
-    commentsToLikes: 0.010065
-    id: ck0w0c3u8dfuc0i19qhpnyps2
+    followers: 69576
+    engagement: 573
+    commentsToLikes: 0.007803
+    id: ck6tpfr94jm3n0j71i0impjy0
     verified: true
-    hashtags: "#larocheposay, #inandoutofthesun, #day3, #above3protectfromuv"
-  - username: "xavisus_gayden"
+    hashtags: "#haywardfield, #sonya6400, #usatf, #track"
+  - username: "corymcgeeruns"
     fullname: >-
-      Xavisus Gayden IFBB Pro 🌐
+      Cory Ann McGee
     bio: >-
-      The Governor- Husband, Father, U.S. Marine (Retired Veteran), IFBB Pro Athlete, Olympian, and Coach. . Visit my Mon Ethos Profile for links below!
+      Olympian. Track athlete repping New Balance. Southern girl training in Boulder, CO. #TeamUSA #FloridaGator #TeamBoss 🇺🇸
     location: "United States"
-    followers: 48539
-    engagement: 206
-    commentsToLikes: 0.025854
-    id: ck5hdz8d7q66v0i11zcei2v5f
+    followers: 152714
+    engagement: 443
+    commentsToLikes: 0.007077
+    id: ck0u1mh7px9aa0i19b3n2l6a7
     verified: true
-    hashtags: "#bodybyo, #hightsupps, #jednorth, #ifbbpro"
-  - username: "sagewatson"
+    hashtags: "#teamusa, #teamboss, #veryfunjob, #track"
+  - username: "jpegula"
     fullname: >-
-      Sage Watson
+      Jessie Pegula
     bio: >-
-      Olympian ⁣⁣ @nike Athlete⁣⁣⁣,@lorealparis partner Canadian Record Holder⁣⁣ Pan American Champion ⁣⁣⁣⁣ NCAA Champion for Arizona⁣⁣⁣ 💌 sage@dulcedo.com
+      @adidastennis athlete // @yonex_tennis // @ready_nutrition athlete // Olympian Tokyo 2020 // founder @readytwentyfour & @alendingpawcharity
     location: "United States"
-    followers: 59011
-    engagement: 504
-    commentsToLikes: 0.018110
-    id: ck0u9m9r5a3bk0i19qw7p3r3x
+    followers: 188640
+    engagement: 438
+    commentsToLikes: 0.013590
+    id: ck0tux22t92150i19c6iy5rau
     verified: true
-    hashtags: "#recovery, #running, #track, #training"
+    hashtags: "#charlestonopen, #rolandgarros, #sandiegoopen, #pegula"
+  - username: "carlilloyd3"
+    fullname: >-
+      Carli Lloyd
+    bio: >-
+      Mom Olympian @leagueonevolleyball Athlete Council Passing on what I’ve learned to the next generation of 🏐 dreamers 👇🏻
+    location: "United States"
+    followers: 68357
+    engagement: 698
+    commentsToLikes: 0.018112
+    id: ck5c98hlnayzm0i117lh2t8sj
+    verified: true
+    hashtags: "#youdontknow, #crisscrosshotsauce, #lovbforlife, #3monthsold"
 ---

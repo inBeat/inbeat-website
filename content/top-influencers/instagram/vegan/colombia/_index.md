@@ -1,12 +1,24 @@
 ---
-title: Top 10 Vegan Instagram Influencers In Colombia In 2023
+title: Top 10 Vegan Instagram Influencers In Colombia In 2024
 description: >-
-  Find top vegan Instagram influencers in Colombia in 2023. Most popular hashtags: #vegan #fitness #workout.
+  Find top vegan Instagram influencers in Colombia in 2024. Most popular hashtags: #vegan #veganlife #love #fitness.
 platform: Instagram
-hits: 28
-text_top: Identify the most popular Instagram accounts on inBeat.
-text_bottom: Our platform holds 28 Instagram influencers like this in Colombia for you to contact.
+hits: 29
+text_top: Identify the best Instagram profiles on inBeat.
+text_bottom: Our search engine has 29 Instagram influencers like this in Colombia for you to pitch.
 profiles:
+  - username: "ally_viamalama"
+    fullname: >-
+      Ally | Sostenibilidad
+    bio: >-
+      Sostenibilidad para el día a día ♻️ Hablo sobre moda sostenible y comparto tips útiles ✍🏻 Vegana y neurospicy✨
+    location: "Colombia"
+    followers: 229394
+    engagement: 535
+    commentsToLikes: 0.027636
+    id: ck14hokgsbcdv0i19e56vvn5u
+    verified: false
+    hashtags: "#sustentabilidad, #sostenibilidad, #veganosespa, #veganhumor"
   - username: "marlennedm"
     fullname: >-
       Marlennedm
@@ -43,30 +55,6 @@ profiles:
     id: ck9wdeegaf9o70j7868eiqiyl
     verified: false
     hashtags: "#rawmesanys, #veganoyvegetariano, #comidavegana, #merengueys"
-  - username: "camilajuradop"
-    fullname: >-
-      Camila Jurado | Actriz
-    bio: >-
-      • Colombian Actress 🎬 • Vegana 🌱 • Amor Propio y Salud Mental 🤍 . 🇨🇴 @armonikatalento 🇲🇽 @armonikamx . Contacto por DM
-    location: "Colombia"
-    followers: 313789
-    engagement: 425
-    commentsToLikes: 0.007430
-    id: ck13caez6zdy40i19bmb6zoa1
-    verified: false
-    hashtags: "#publicidad, #paquererte, #fauno, #tb"
-  - username: "lavozdegoyo"
-    fullname: >-
-      LA VOZ DE GOYO
-    bio: >-
-      GOYO POR SIEMPRE 🔴VEGANO PARA SIEMPRE🌱🌱🌱 🐷🐂🐶 POR ELLOS TODO 🌟 SANTUARIO PARA ANIMALES🐴 Cuenta única de donaciones: ahorros bancolombia 91212872330
-    location: "Colombia"
-    followers: 5885
-    engagement: 531
-    commentsToLikes: 0.053763
-    id: ck5hp09zlqjad0i11g17c4t9j
-    verified: false
-    hashtags: "#lalechemata"
   - username: "terryhurtado"
     fullname: >-
       Terry Hurtado
@@ -79,6 +67,30 @@ profiles:
     id: ck5hrs2h8vdsk0i11d26rgplu
     verified: false
     hashtags: "#movimientoanimalistavalle, #encasaconterryalplandedesarrollo, #solidaridadinterespecie, #caliinterespecie"
+  - username: "lavozdegoyo"
+    fullname: >-
+      La Voz de Goyo | Santuario de Animales Rescatados en Antioquia
+    bio: >-
+      ✊️Vegano por ellos 🌱 ❗️Cuenta unica donaciones # 31600009930 ahorros bancolombia 📍Restaurante @goyo.food 🧆Productos congelados @goyotodoporellos
+    location: "Colombia"
+    followers: 17905
+    engagement: 439
+    commentsToLikes: 0.058074
+    id: ck5hp09zlqjad0i11g17c4t9j
+    verified: false
+    hashtags: "#lavozdegoyo, #veganlife, #animalesrescatados, #rescateanimal"
+  - username: "jubenach"
+    fullname: >-
+      Júlia Benach
+    bio: >-
+      Conscious lifestyle🌱#socialresponsability 🐱@vito.catleone Talents Manager, PR & Comms✨ Adverts | Strategy | Branding 📍#Penedès🍷
+    location: "Colombia"
+    followers: 23441
+    engagement: 15
+    commentsToLikes: 0.015138
+    id: ckf5nbz4bxm1t0j23rnc1o9a8
+    verified: false
+    hashtags: "#gifted, #ragdollsofinstagram, #misideasleroymerlin, #belleza"
   - username: "catalinarobayo"
     fullname: >-
       𝐂𝐚𝐭𝐚𝐥𝐢𝐧𝐚 𝐑𝐨𝐛𝐚𝐲𝐨 | 𝐯𝐢𝐝𝐚𝐟𝐫𝐢𝐞𝐧𝐝𝐥𝐲
@@ -103,28 +115,16 @@ profiles:
     id: ck8sypb6flh9g0j78fnjkualh
     verified: false
     hashtags: "#colombiana, #life, #vegan, #instamood"
-  - username: "maca_bites"
+  - username: "fancyfitfun"
     fullname: >-
-      María Camila Mosos
+      𝕔𝕒𝕣𝕠𝕝𝕚𝕟𝕒 ✩ 𝕤𝕒𝕞𝕡𝕖𝕣 ®
     bio: >-
-      ✧ desarollo recetas sanas con ingredientes reales + fotografía & video de alimentos ✧ talleres de cocina👩🏻‍🍳 ↡ Videos y posts exclusivos⬇️
+      ✩ 𝓜𝓸𝓶 ♙♟ ✩ ʜᴇᴀʟᴛʜʏ-ɪsʜ Fᴏᴏᴅɪᴇ ☜ ✩ ᴄʏɢʟᴏ ɪɴsᴛʀᴜᴄᴛᴏʀ ♬ ✩ ʙʟᴀᴄᴋʙᴏx ᴛʀᴀɪɴᴇʀ ۩ ✩ ʀᴜɴ 👣 \\ ɢᴏʟF ♩ ✩ ʟօʋɛʀ օʄ ʟɨʄɛ 🧿
     location: "Colombia"
-    followers: 35731
-    engagement: 192
-    commentsToLikes: 0.049889
-    id: ck139icjglgd00i19q5x8y3jf
+    followers: 31181
+    engagement: 100
+    commentsToLikes: 0.006670
+    id: ck8t01ne6qj2w0j780tkp5wfu
     verified: false
-    hashtags: "#recetasveganas, #vegansofinsta, #comidasaludables, #recetassaludables"
-  - username: "jayceesquats"
-    fullname: >-
-      JAYCEE ☾
-    bio: >-
-      THE REAL WONDER WOMAN 🇨🇴Colombiana BUILD IT DON'T BUY IT Plant Based 🌱 1 on 1 Personal Training DM to inquire💪🏽 💚🍃 @cannabolix use code JAYCEE
-    location: "Colombia"
-    followers: 46621
-    engagement: 128
-    commentsToLikes: 0.033967
-    id: ck6uhcsuq8dj00j7193wlyaow
-    verified: false
-    hashtags: "#fitness, #cardio, #fitfam, #lift"
+    hashtags: "#vegetarian, #breakfast, #familia, #foodlover"
 ---

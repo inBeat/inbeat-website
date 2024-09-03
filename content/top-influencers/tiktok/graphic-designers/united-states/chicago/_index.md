@@ -1,11 +1,11 @@
 ---
-title: Top 10 Graphic-Designers TikTok Influencers In Chicago In 2023
+title: Top 10 Graphic-Designers TikTok Influencers In Chicago In 2024
 description: >-
-  Find top graphic-designers TikTok influencers in Chicago in 2023. Most popular hashtags: #fyp #graphicdesign #foryou #chicago.
+  Find top graphic-designers TikTok influencers in Chicago in 2024. Most popular hashtags: #fyp #graphicdesign #foryou #chicago.
 platform: TikTok
 hits: 9
-text_top: See the most popular TikTok accounts on inBeat.
-text_bottom: Our search engine has 9 TikTok influencers like this in Chicago, United States for you to contact.
+text_top: Identify the most popular TikTok influencers on inBeat.
+text_bottom: Our platform holds 9 TikTok influencers like this in Chicago, United States for you to pitch.
 profiles:
   - username: "tylerissoepic"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.085192
     id: ckav2llyn8qqk0j23vqbjckl5
     verified: false
-    hashtags: "#art, #xxl, #micellarrewind, #fyp"
+    hashtags: "#graphicdesign, #art, #rappers, #popsmoke"
   - username: "nehmeh.designs"
     fullname: >-
       Hussein Nehmeh

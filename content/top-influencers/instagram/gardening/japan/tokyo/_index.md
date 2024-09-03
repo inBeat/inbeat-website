@@ -1,48 +1,48 @@
 ---
-title: Top 10 Gardening Instagram Influencers In Tokyo in 2023
+title: Top 10 Gardening Instagram Influencers In Tokyo In 2024
 description: >-
-  Find top gardening Instagram influencers in Tokyo in 2023. Most popular hashtags: #gardening #garden #mygarden #gardenlife.
+  Find top gardening Instagram influencers in Tokyo in 2024. Most popular hashtags: #gardening #garden #mygarden #instarose.
 platform: Instagram
-hits: 9
-text_top: Discover the top-rated Instagram accounts on inBeat.
-text_bottom: inBeat holds 9 Instagram influencers like this in Tokyo, Japan for you to collaborate.
+hits: 4
+text_top: Discover the most popular Instagram profiles on inBeat.
+text_bottom: Our search engine holds 4 Instagram influencers like this in Tokyo, Japan for you to pitch.
 profiles:
+  - username: "junkosuzuki"
+    fullname: >-
+      Junko Suzuki
+    bio: >-
+      愛でるものを集めています。 160cm | FASHION | LIFESTYLE | ART&DESIGN 📍Tokyo Art Director | Branding Director | CEO 案件ご依頼はマネージャー 小林宛に💁🏻‍♀️ デザインに関するお仕事はHPから
+    location: "Japan"
+    followers: 39726
+    engagement: 1
+    commentsToLikes: 0.000000
+    id: ck0vyltbf4mp80i19td5d6nd1
+    verified: false
+    hashtags: "#fashionstyle, #ceciliebahnsen, #pocopocolady, #outfitideas"
   - username: "midorose30"
     fullname: >-
       かわまたばら子
     bio: >-
       薔薇が大好きで家をグルッと100苗以上のバラが囲んでいます！メッセージは友人とだけで使っています。バラの質問等は一番新しい投稿にコメントで書いて下さい。 我が家のYouTube動画は「kwmtmido」で検索してくださいね。 I live in Tokyo,Japan.
     location: "Japan"
-    followers: 18044
-    engagement: 961
-    commentsToLikes: 0.024273
+    followers: 20632
+    engagement: 1137
+    commentsToLikes: 0.019671
     id: ck0u8mx157u8j0i19tmo246ie
     verified: false
-    hashtags: "#garden, #rosegarden, #gardening, #mygarden"
-  - username: "rosegarden_flowers"
-    fullname: >-
-      Atelier wood-chips / Tomo Kato
-    bio: >-
-      🌳🏡 バラを楽しむ庭づくり・ウッドチップス アトリエのバラ咲く季節の風景を切り取りお届け。 My garden and rose flowers/Tokyo Japan 🥀🦔... 　 庭仕事に関するお問い合わせは Websiteからどうぞ。
-    location: "Japan"
-    followers: 8012
-    engagement: 819
-    commentsToLikes: 0.036843
-    id: ck8t9vxqzpjcu0j788u5qoqvb
-    verified: false
-    hashtags: "#rosegarden, #naturalgarden, #flowerphoto, #englishrose"
+    hashtags: "#mygarden, #instarose, #top, #myrose"
   - username: "ratemama2"
     fullname: >-
       Latte’s Mom
     bio: >-
       Love garden, flower&shibadog named Latte:DOB:Feb.5.2011:living in Tokyo:Feel free to follow me💝 黒柴ラテの日常です💕お庭のお花、食べ物も気ままに…フォロー大歓迎✨いいね！をいつもありがとうございます❤️
     location: "Japan"
-    followers: 5853
-    engagement: 1038
-    commentsToLikes: 0.031128
+    followers: 5904
+    engagement: 949
+    commentsToLikes: 0.032585
     id: ck5cenh2wlc6c0i11o63u7tgg
     verified: false
-    hashtags: "#shibastagram, #cherryblossoms, #mygardenflowers, #flowerlover"
+    hashtags: "#petlovers, #doggies, #mygarden, #shibadog"
   - username: "f_interiors_"
     fullname: >-
       Mico
@@ -54,77 +54,77 @@ profiles:
     commentsToLikes: 0.016607
     id: ck0ue2q5jkesw0i196z1fajr4
     verified: false
-    hashtags: "#industrial, #christmas, #cafe, #green"
-  - username: "nonihana_"
-    fullname: >-
-      .Yukiko Masuda
-    bio: >-
-      Flower stylist / From Tokyo Japan. ｜新刊「花とお菓子」(立東舎) 2020年3月19日(木) 発売　Amazon他にて予約受付中 | NHK文化センター4月期講座募集が始まりました
-    location: "Japan"
-    followers: 248287
-    engagement: 177
-    commentsToLikes: 0.012992
-    id: ck15smp00dsf00i1953630him
-    verified: false
-    hashtags: "#rose, #lilacs, #dahlias, #roses"
-  - username: "dont_fade_away_photography"
-    fullname: >-
-      Manuel Gomera Deaño
-    bio: >-
-      Kassel/Germany - 📷 Big Prints/Workshops/On Demand - Cosplay @dont_fade_away_photography_cos - People @dont_fade_away_photography_ppl - ⬇HQ photos⬇
-    location: "Japan"
-    followers: 9279
-    engagement: 794
-    commentsToLikes: 0.033733
-    id: ck5q2oi3ch0kj0i11zajrh0p1
-    verified: false
-    hashtags: "#harbour, #beach, #tokio, #landscape"
-  - username: "mayuno313"
-    fullname: >-
-      Inside Village Garden
-    bio: >-
-      多肉寄せ植え、リメ鉢リメ缶等作成、ゆるく活動中 オーダーはお受けしておりません🙇‍♀️ 委託の受付もお休みさせていただいております 販売専用アカウント　@inside_village_market お酒、韓ドラ好き、スタンプ収集癖、超あがり症 . Ameba公式ブロガー↓
-    location: "Japan"
-    followers: 27791
-    engagement: 522
-    commentsToLikes: 0.016835
-    id: ck8t34yds1vsa0j789laeh6m3
-    verified: false
-    hashtags: "#succulentgarden, #botanical, #gardenlife, #botanicallife"
-  - username: "sayatier"
-    fullname: >-
-      Cinnamon Sayaka
-    bio: >-
-      🐥✴︎Tinoティノ✴︎Bijouビジュ✴︎Citronシトロン✴︎Elmoエルモ✴︎Chuloチュロ✴︎Lisaリザ✴︎Ponoポノ✴︎Anaアナ✴︎Parfaitパルフェ🍑Momo🍌Banana🍍Pine🐱✴︎Roiロワ✴︎Roséロゼ✴︎Primoプリモ■Sayatier Channel
-    location: "Japan"
-    followers: 10899
-    engagement: 727
-    commentsToLikes: 0.089299
-    id: ckf5nexefxz2k0j23bqjset4x
-    verified: false
-    hashtags: "#greencheekconure, #pink, #lovebird, #cute"
-  - username: "akane5021"
-    fullname: >-
-      Akane
-    bio: >-
-      おうちで作ったごはんの記録 🍽🍽🍽🍽🍽 ガーデニングと釣りが好き🌱🐟🌱🐟🌱🐟 ジュエリーの仕事をしている会社員です💍 Yokohama.Japan
-    location: "Japan"
-    followers: 9666
-    engagement: 1332
-    commentsToLikes: 0.014954
-    id: ck5hiix8xdqtd0i11kvvf00r1
-    verified: false
-    hashtags: "#japanesefood, #foodphoto, #foodporn, #foodie"
+    hashtags: "#junk, #rust, #green, #cafe"
   - username: "daisy__garden"
     fullname: >-
       Tomomi Yamamoto
     bio: >-
       🌿Gardening 季節の変化を楽しむ庭づくり 🐶愛犬 メルディMeldi⇨@kooiker_meldi 🍋ペイント作品⇨@tolepaint_daisygarden 🎨著書『Sweet Russian Painting vol.1 & vol.2』
     location: "Japan"
-    followers: 14962
-    engagement: 1507
-    commentsToLikes: 0.006302
+    followers: 14672
+    engagement: 1542
+    commentsToLikes: 0.006289
     id: ckf5mjyn1u5nk0j23qfo4qceq
     verified: false
-    hashtags: "#garden, #instagarden, #naturalgarden, #mygardentoday"
+    hashtags: "#garden, #plantslover, #naturalgarden, #mygardentoday"
+  - username: "amiagram"
+    fullname: >-
+      minmin
+    bio: >-
+      interior🏡gardening🌿kayakfishing🎣🚣‍♂️ski⛷ ❄︎インテリアや作った物の記録 ❄︎お気に入りアイテムは楽天roomで紹介しています。
+    location: "Japan"
+    followers: 71514
+    engagement: 209
+    commentsToLikes: 0.018286
+    id: ck6tnvg7hanp70j71fog99dt4
+    verified: false
+    hashtags: "#ikea, #room, #pr, #interior"
+  - username: "filer.koharu"
+    fullname: >-
+      koharu
+    bio: >-
+      filer*(フィレール) 草花のある穏やかな暮らし...花の欠片たちを優しく紡ぐ生活。おうち、お庭、おやつ、カフェ...何気ない日々のこと。whiteinterior ,gardening,flower,diy,antique,lace,cafe... 🏡Saitama/Japan🇯🇵
+    location: "Japan"
+    followers: 5806
+    engagement: 566
+    commentsToLikes: 0.031906
+    id: ck0w06s8ico0t0i19nt2459df
+    verified: false
+    hashtags: "#diy, #kohargarden, #koharugarden2, #antique"
+  - username: "keikorosecat"
+    fullname: >-
+      keikorose
+    bio: >-
+      テラスとそこへ続く狭い庭や通路にツルバラを中心に薔薇を育てています。年齢と共にベストよりローメンテなやり方で楽しく薔薇を育てたいと思っています🌼#薔薇作業k でその時々の我が家の薔薇の作業を載せています。 紫陽花、多肉、可憐な草花💖 🌹#薔薇便りk Miyazaki→Fukuoka Japan
+    location: "Japan"
+    followers: 31877
+    engagement: 1086
+    commentsToLikes: 0.022745
+    id: ck9wel9rjkrrn0j78mj8jiyhx
+    verified: false
+    hashtags: "#gardening, #succulentslove, #instarose, #davidaustinroses"
+  - username: "emi__0805"
+    fullname: >-
+      emi
+    bio: >-
+      アンティーク、インテリア ドライフラワーや多肉植物 お庭の花やグリーンに癒されています❤ セキセイインコ ♂️funちゃんとの 暮らしも時々♪*･♪･*:.｡..🐦｡.:*･♪･*:.｡.💓 日々幸せを感じる瞬間を 共有できたら．．．と思います*･ﾟ･♪*:.｡..｡.:*･♪
+    location: "Japan"
+    followers: 12831
+    engagement: 1289
+    commentsToLikes: 0.025064
+    id: ckaoyd4jjh0fo0i78hvekfg9s
+    verified: false
+    hashtags: "#naturalinterior, #instadaily, #antiquedecor, #instagarden"
+  - username: "midorose30"
+    fullname: >-
+      かわまたばら子
+    bio: >-
+      薔薇が大好きで家をグルッと100苗以上のバラが囲んでいます！メッセージは友人とだけで使っています。バラの質問等は一番新しい投稿にコメントで書いて下さい。 我が家のYouTube動画は「kwmtmido」で検索してくださいね。 I live in Tokyo,Japan.
+    location: "Japan"
+    followers: 20632
+    engagement: 1137
+    commentsToLikes: 0.019671
+    id: ck0u8mx157u8j0i19tmo246ie
+    verified: false
+    hashtags: "#mygarden, #instarose, #top, #myrose"
 ---

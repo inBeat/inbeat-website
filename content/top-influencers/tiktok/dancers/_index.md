@@ -1,11 +1,11 @@
 ---
-title: Top 10 Dancers TikTok Influencers In 2023
+title: Top 10 Dancers TikTok Influencers In 2024
 description: >-
-  Find top dancers TikTok influencers in 2023. Most popular hashtags: #foryou #foryoupage #fyp #dance.
+  Find top dancers TikTok influencers in 2024. Most popular hashtags: #foryoupage #foryou #dance #fyp.
 platform: TikTok
-hits: 4465
-text_top: Identify the most popular TikTok accounts on inBeat.
-text_bottom: inBeat has 4465 TikTok influencers like this for you to contact.
+hits: 4480
+text_top: Analyze the top-rated TikTok accounts on inBeat.
+text_bottom: inBeat holds 4480 TikTok influencers like this for you to collaborate.
 profiles:
   - username: "_mad__madz_"
     fullname: >-
@@ -54,7 +54,7 @@ profiles:
     commentsToLikes: 0.054051
     id: ckc7v2a4yyqi30j23ukdgkfu0
     verified: true
-    hashtags: "#school, #relatable, #dancer, #fyp"
+    hashtags: "#dance, #dancer, #foryou, #foryoupage"
   - username: "iamjordiofficial"
     fullname: >-
       iAmJordi

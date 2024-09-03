@@ -1,11 +1,11 @@
 ---
-title: Top 10 Chefs Instagram Influencers In Norway In 2023
+title: Top 10 Chefs Instagram Influencers In Norway In 2024
 description: >-
-  Find top chefs Instagram influencers in Norway in 2023. Most popular hashtags: #norway #michelin #matglede.
+  Find top chefs Instagram influencers in Norway in 2024. Most popular hashtags: #michelin #norway #matglede #homemade.
 platform: Instagram
-hits: 9
-text_top: See the most popular Instagram influencers on inBeat.
-text_bottom: Our database holds 9 Instagram influencers like this in Norway for you to work with.
+hits: 8
+text_top: Discover the top-rated Instagram influencers on inBeat.
+text_bottom: Our platform has 8 Instagram influencers like this in Norway for you to collaborate.
 profiles:
   - username: "christerrodseth"
     fullname: >-
@@ -103,16 +103,4 @@ profiles:
     id: ckf5n3tzpwmpi0j23d3kc63h2
     verified: false
     hashtags: "#pescetarian, #instafood, #buzzfeedfood, #eatyourveggies"
-  - username: "omerzuri"
-    fullname: >-
-      Omer Zuri עומר צורי
-    bio: >-
-      ​ ​ FREE CORONA WORKOUTS​ In highlights 🤸🏻‍♀️ ​ ​ Personal trainer​ CrossFit athlete🥉in 🇮🇱​ ​ Ⓜ️ MyProtein Ambassador​ code OMER ⬇️
-    location: "Norway"
-    followers: 21605
-    engagement: 411
-    commentsToLikes: 0.089299
-    id: ck13cvvwj2f9g0i19fc593ngo
-    verified: false
-    hashtags: "#teamzuri, #arganeveryday"
 ---

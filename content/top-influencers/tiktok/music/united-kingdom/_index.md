@@ -1,11 +1,11 @@
 ---
-title: Top 10 Music TikTok Influencers In United Kingdom In 2023
+title: Top 10 Music TikTok Influencers In United Kingdom In 2024
 description: >-
-  Find top music TikTok influencers in United Kingdom in 2023. Most popular hashtags: #fyp #stitch #duet #foryou.
+  Find top music TikTok influencers in United Kingdom in 2024. Most popular hashtags: #fyp #foryou #stitch #duet.
 platform: TikTok
-hits: 949
-text_top: Discover the top-rated TikTok accounts on inBeat.
-text_bottom: Our platform holds 949 TikTok influencers like this in United Kingdom for you to contact.
+hits: 952
+text_top: Analyze the most popular TikTok accounts on inBeat.
+text_bottom: inBeat has 952 TikTok influencers like this in United Kingdom for you to contact.
 profiles:
   - username: "sahfy_"
     fullname: >-
@@ -19,18 +19,6 @@ profiles:
     id: ckbb5wo6cw3690j23y1712u5r
     verified: false
     hashtags: "#duet, #bellydance, #sahfy, #waistline"
-  - username: "itsyourboylouis"
-    fullname: >-
-      LOUIS WRIGHT
-    bio: >-
-      UNAPOLOGETICALLY ME LINK FOR MY MUSIC/MERCH BOYS IN PINK OUT NOW!
-    location: "United Kingdom"
-    followers: 438400
-    engagement: 2014
-    commentsToLikes: 0.026243
-    id: ck960m2kkj0600j78zdnwch0e
-    verified: false
-    hashtags: "#duet, #stitch"
   - username: "that.one.edgy.kid"
     fullname: >-
       Mistake
@@ -54,7 +42,7 @@ profiles:
     commentsToLikes: 0.022760
     id: ck8oui8ndpnzx0j78ajoaywdn
     verified: true
-    hashtags: "#duet, #maleprivilege, #toxicmasculinity, #stitch"
+    hashtags: "#stitch, #duet, #maleprivilege, #toxicmasculinity"
   - username: "icydarabbit"
     fullname: >-
       IcyDaRabbit
@@ -73,12 +61,12 @@ profiles:
     bio: >-
       23 🇬🇧 Musician 🎤 Let’s hit 150k? Twitch Streamer :🎮 Montagueplays
     location: "United Kingdom"
-    followers: 103200
-    engagement: 1507
-    commentsToLikes: 0.043940
+    followers: 107700
+    engagement: 1471
+    commentsToLikes: 0.028690
     id: ckbb6aoqbwffi0j23caozvsha
     verified: false
-    hashtags: "#uk, #fyp, #alttiktok, #twitch"
+    hashtags: "#twitch, #fallinginreverse, #fir, #oneliners"
   - username: "deanravenmusic"
     fullname: >-
       Dean Raven
@@ -90,31 +78,31 @@ profiles:
     commentsToLikes: 0.312586
     id: ck8oyzp0p9qgc0j78txftsg0q
     verified: false
-    hashtags: "#sing, #feels, #emotional, #singing"
+    hashtags: "#singing, #feels, #ourhouse2021, #emotional"
   - username: "katekleinworldii"
     fullname: >-
       KateKleinWorld
     bio: >-
-      Music, guitars, skate and more issues.... IG: katekleinworld
+      Music, guitars, skate and issues.... IG: katekleinworld 🖤Listen to Sad Boy💜
     location: "United Kingdom"
-    followers: 7661
-    engagement: 2188
-    commentsToLikes: 0.086963
+    followers: 7646
+    engagement: 2221
+    commentsToLikes: 0.086353
     id: ck8zazcl03i6l0j788flzv9cq
     verified: false
-    hashtags: "#tiktoktraditions, #fyp, #foryou, #morehappydenimdance"
-  - username: "onesadsinger"
+    hashtags: "#foryou, #tiktoktraditions, #fyp, #albumcoverchallenge"
+  - username: "stylitherapper"
     fullname: >-
-      ❤️ Amelia ❤️
+      Styli
     bio: >-
-      🎵Music is my escape🎵 1️⃣5️⃣years old
+      Rapper Name - Styli 🔥Cover Of Vogue (Official Music Video)🔥 [link below]
     location: "United Kingdom"
-    followers: 4963
-    engagement: 1912
-    commentsToLikes: 0.078221
-    id: cka6map6n6jpx0i78gbhng80c
+    followers: 124800
+    engagement: 2009
+    commentsToLikes: 0.103125
+    id: ckcp23eyzbgsh0j23izyyg8ym
     verified: false
-    hashtags: "#foryoupage, #viral, #sportsdirectreprace, #broadway"
+    hashtags: "#hiphop, #newmusic, #rapper, #fyp"
   - username: "lucansmusically"
     fullname: >-
       Lucan Firth
@@ -126,5 +114,17 @@ profiles:
     commentsToLikes: 0.051287
     id: ckc8z0s86nqnq0j23bxx9p8u9
     verified: false
-    hashtags: "#lucanmusers, #bringbackmusically, #foryoupage, #tiktok"
+    hashtags: "#lucanmusers, #bringbackmusically, #foryoupage, #calistarchallenge"
+  - username: "grap3_fanta.cos"
+    fullname: >-
+      dr musically account😩😩😩😩😈
+    bio: >-
+      new account @grap3_fanta.coss danganronpa musically account🤪 (satire videos)
+    location: "United Kingdom"
+    followers: 13400
+    engagement: 2706
+    commentsToLikes: 0.040121
+    id: ckck4rq6ipcox0j23gfg4vqo5
+    verified: false
+    hashtags: "#makiharukawacosplay, #maki, #foryou, #fyp"
 ---

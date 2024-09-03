@@ -1,24 +1,36 @@
 ---
-title: Top 10 Barbers Instagram Influencers In Australia In 2023
+title: Top 10 Barbers Instagram Influencers In Australia In 2024
 description: >-
-  Find top barbers Instagram influencers in Australia in 2023. Most popular hashtags: #australia #straya #barbershop #melbourne.
+  Find top barbers Instagram influencers in Australia in 2024. Most popular hashtags: #fashion #beautiful #beauty #love.
 platform: Instagram
-hits: 18
-text_top: Identify the most popular Instagram profiles on inBeat.
-text_bottom: Our search engine holds 18 Instagram influencers like this in Australia for you to collaborate.
+hits: 28
+text_top: See the best Instagram profiles on inBeat.
+text_bottom: inBeat holds 28 Instagram influencers like this in Australia for you to connect with.
 profiles:
-  - username: "ultrafadebyrich"
+  - username: "jordantabakman"
     fullname: >-
-      Rich | Sydney Hair Educator
+      Jordan Tabakman
     bio: >-
-      ✨ Come for hair, stay for the vibes ✨ 💇‍♂️ Barber @ultrafade.barber 💁‍♀️ Bridal & Events @uf.styles 👇 Bookings via link in bio
+      M ❣️ @thebarberclubport @thebarberclubmelbourne @clubproducts creative director @gammaplusaus_barber lead educator Aus/Nz
     location: "Australia"
-    followers: 170593
-    engagement: 74
-    commentsToLikes: 0.028003
-    id: ck0vvijippaq70i19e0apk8qu
+    followers: 337880
+    engagement: 380
+    commentsToLikes: 0.017484
+    id: ckaosnu24saa70i78xr0j4u5o
     verified: false
-    hashtags: "#hairbae, #asianstories, #asianentrepreneur, #ultrafade"
+    hashtags: "#barbershopconnect, #nastybarbers, #clubproduct, #club"
+  - username: "joeyscandizzo"
+    fullname: >-
+      J O E Y  S C A N D I Z Z O
+    bio: >-
+      FAMILY❤️👫🧒🏻🧒🏼🧒🏻| 4✖️🇦🇺HAIRDRESSER OF THE YEAR | ELEVEN AUSTRALIA | JOEY SCANDIZZO SALON | UVA SALON | KINGSDOMAIN BARBERS | STH YARRA BMW | GHD
+    location: "Australia"
+    followers: 99885
+    engagement: 174
+    commentsToLikes: 0.053363
+    id: ck0vz2pkl6zqo0i19irl6q9pn
+    verified: true
+    hashtags: "#elevenaustralia, #joeyscandizzo, #southyarrabmw, #joeyscandizzosalon"
   - username: "nigelstanislaus"
     fullname: >-
       NIGEL STANISLAUS
@@ -31,6 +43,66 @@ profiles:
     id: ck6tw5f9dq3w10j71vomdtxnb
     verified: true
     hashtags: "#aboriginalaustralia, #melbournemakeupartist, #beauty, #makeupartist"
+  - username: "pippuveendran"
+    fullname: >-
+      Pip Puveendran
+    bio: >-
+      look & feel your best 💪🏾 👨🏽‍🦱 fashion | hair | lifestyle 📩 pippuveendran@gmail.com 👇🏽 to learn more about UP Express
+    location: "Australia"
+    followers: 15028
+    engagement: 443
+    commentsToLikes: 0.087433
+    id: cl0ir9uf1k8ks0i23is6885tr
+    verified: false
+    hashtags: "#menscurlyhair, #menshair, #toronto, #fallfashion"
+  - username: "angelmaybowyer"
+    fullname: >-
+      ANGEL MAY
+    bio: >-
+      @cloudninestudiosyd ☁️ @fashionnova ambassador ✉️ kat@solmgmt.com.au
+    location: "Australia"
+    followers: 256771
+    engagement: 250
+    commentsToLikes: 0.032055
+    id: ck5bwur9ymgd80i110snkk2fw
+    verified: false
+    hashtags: "#fashionphotography, #lifestyle, #style, #outfitoftheday"
+  - username: "kyaracostelloe"
+    fullname: >-
+      KYARA COSTELLOE
+    bio: >-
+      25 | Mama to leya ♡ Body positivity + self love advocate
+    location: "Australia"
+    followers: 19172
+    engagement: 120
+    commentsToLikes: 0.090715
+    id: ck6ui3ljacv400j71m30k9mp1
+    verified: false
+    hashtags: "#photooftheday, #art, #success, #like"
+  - username: "finausuliana_"
+    fullname: >-
+      𝙎𝙥𝙞𝙘𝙚
+    bio: >-
+      🧿 @czyfbaby🦋🌈 𝖳𝗁𝖾 𝖣𝗂𝖺𝗋𝗒 𝖮𝖿 𝖠 𝖡𝗋𝗈𝗄𝖾𝗇 𝖶𝗈𝗆𝖺𝗇📔❤️‍🩹 - 𝙱𝙿𝙳 ,𝙰𝙳𝙷𝙳 , 𝚂𝙴𝚅𝙴𝚁𝙴 𝙳𝙴𝙿𝚁𝙴𝚂𝚂𝙸𝙾𝙽 & 𝙰𝙽𝚇𝙸𝙴𝚃𝚈 ᴱᴺᴰᴼ•ᴬᴰᴱᴺᴼ•ᴸᴵᴾᴱᴰᴱᴹᴬ @bellemodels_nz 💌 Managefinau@gmail.com
+    location: "Australia"
+    followers: 33244
+    engagement: 91
+    commentsToLikes: 0.008292
+    id: ck15pidt1y19w0i19nzyi4om5
+    verified: false
+    hashtags: "#beauty, #makeup, #fashion, #instagood"
+  - username: "mattmingay"
+    fullname: >-
+      Matt Mingay
+    bio: >-
+      -Aust #1 Action sports athlete -@hotwheelsofficial -@nulonproducts -@avincia_life Athlete -Pro Drifter -Super Truck racer -Stunt Rider -Stuntz Inc
+    location: "Australia"
+    followers: 69741
+    engagement: 64
+    commentsToLikes: 0.017625
+    id: ck5cbbyplf4r40i115wnm3mby
+    verified: true
+    hashtags: "#avincia, #castrolracingau, #directclutch, #nulonbornthisway"
   - username: "gwilymcpugh"
     fullname: >-
       Gwilym C Pugh
@@ -54,77 +126,5 @@ profiles:
     commentsToLikes: 0.012930
     id: ck9wdc5bfezo90j78nl895w7h
     verified: false
-    hashtags: "#beargrylls, #shaktv, #manvswild, #tns"
-  - username: "the.cwolf"
-    fullname: >-
-      𓅓 Joshua San 𓅓
-    bio: >-
-      🔴🟡⚫️ Brunswick boy Proud Father 📸Lifestyle/travel/Celebrity/35mm The world is an open book, my mind an enthusiastic pupil, my canvas, work in progress
-    location: "Australia"
-    followers: 21400
-    engagement: 297
-    commentsToLikes: 0.048611
-    id: ck5pypf55x5dd0i11cf5av2ur
-    verified: false
-    hashtags: "#brunswick, #filmphotography, #filmdiscovered, #filmphoto"
-  - username: "vindooly"
-    fullname: >-
-      VINDOOLY
-    bio: >-
-      • Kym ♡ • Content Creator for @teampwr⚡️ • Twitch Partner 👾 • Verified on TikTok (1.7m) 🤪 • Apparel: @vincere.au
-    location: "Australia"
-    followers: 28307
-    engagement: 1097
-    commentsToLikes: 0.013104
-    id: ck8wgczqgh4jp0j78zltdr6uc
-    verified: false
-    hashtags: "#fortnite, #twitch, #lol, #comedy"
-  - username: "sindysinn"
-    fullname: >-
-      SINDY SINN
-    bio: >-
-      ILLUSTRATOR DUDE. Sydney Australia. Beer. Paint. Skulls. Shirts. Posters. Logos. Murals. Email to make rad art together. For shirts and prints, go to:
-    location: "Australia"
-    followers: 25865
-    engagement: 229
-    commentsToLikes: 0.023086
-    id: ck0tx9exkicq90i195s8vjmsq
-    verified: false
-    hashtags: "#sindysinn, #screenprinting, #stayhome, #straya"
-  - username: "camellisyolmen"
-    fullname: >-
-      Cameron Ellis-Yolmen
-    bio: >-
-      Family... Friends...🙌🏾 [-o-] & 🇵🇬 My Dawg @echotheblackgsd 🐾 🐺 Tap link for foodporn @immacaffiend Brisbane📍 📸: curly28
-    location: "Australia"
-    followers: 19543
-    engagement: 361
-    commentsToLikes: 0.012547
-    id: ck8szld9qow5m0j78dyifbw2e
-    verified: true
-    hashtags: "#ytb, #heinzsponsored, #throwbackthursday, #roadtrip"
-  - username: "aaronjohns4"
-    fullname: >-
-      ETRco
-    bio: >-
-      @monsterskatepark @gainprotection #rideformurphy (1-6-18) #1st NSW 🥇 #1st ACT 🥇
-    location: "Australia"
-    followers: 3128
-    engagement: 1112
-    commentsToLikes: 0.064446
-    id: ck5qdqj03wugr0i11mwpeaemg
-    verified: false
-    hashtags: "#barber, #haircut, #home, #clippers"
-  - username: "tombull"
-    fullname: >-
-      Tom Bull
-    bio: >-
-      
-    location: "Australia"
-    followers: 22853
-    engagement: 333
-    commentsToLikes: 0.075742
-    id: ck5zxtapg8met0i142gevvodi
-    verified: false
-    hashtags: "#australia, #dunsborough, #margaretriver, #westernaustralia"
+    hashtags: "#manvswild, #beargrylls, #tns, #crepshop"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Christian TikTok Influencers In Switzerland In 2023
+title: Top 10 Christian TikTok Influencers In Switzerland In 2024
 description: >-
-  Find top christian TikTok influencers in Switzerland in 2023. Most popular hashtags: #fyp #foryou #football #soccer.
+  Find top christian TikTok influencers in Switzerland in 2024. Most popular hashtags: #fyp #foryou #football #ronaldo.
 platform: TikTok
 hits: 12
-text_top: Analyze the top-rated TikTok accounts on inBeat.
-text_bottom: Our platform aggregates 12 TikTok influencers like this in Switzerland for you to connect with.
+text_top: Identify the best TikTok accounts on inBeat.
+text_bottom: Our database has 12 TikTok influencers like this in Switzerland for you to collaborate.
 profiles:
   - username: "rorynho"
     fullname: >-
@@ -13,12 +13,12 @@ profiles:
     bio: >-
       Walliser us Afrika in Züri 😁 — Phil. 4.6-7 ✞ — 🇨🇭🇩🇪🇬🇧🇫🇷
     location: "Switzerland"
-    followers: 26200
-    engagement: 1282
-    commentsToLikes: 0.084237
+    followers: 41300
+    engagement: 1162
+    commentsToLikes: 0.032246
     id: ckbeyebofiu730j23fup2s3as
     verified: false
-    hashtags: "#foryou, #comedy, #fyp, #xyzbca"
+    hashtags: "#christiantiktok, #kevin, #schweiz, #foryou"
   - username: "stefanmkunz"
     fullname: >-
       Stefan Kunz
@@ -121,10 +121,10 @@ profiles:
     bio: >-
       Home of Football Sports Broadcaster 🇨🇭
     location: "Switzerland"
-    followers: 114800
-    engagement: 766
-    commentsToLikes: 0.010890
+    followers: 138900
+    engagement: 514
+    commentsToLikes: 0.013487
     id: ck8hkl91pefc60j78uudzcif2
     verified: true
-    hashtags: "#sport, #funny, #bluesport, #football"
+    hashtags: "#fussball, #fail, #football, #funny"
 ---

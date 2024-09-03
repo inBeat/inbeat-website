@@ -1,11 +1,11 @@
 ---
-title: Top 10 Lifestyle TikTok Influencers In 2023
+title: Top 10 Lifestyle TikTok Influencers In 2024
 description: >-
-  Find top lifestyle TikTok influencers in 2023. Most popular hashtags: #fyp #duet #foryou #grwm.
+  Find top lifestyle TikTok influencers in 2024. Most popular hashtags: #fyp #duet #foryou #aesthetic.
 platform: TikTok
-hits: 2234
-text_top: Analyze the most popular TikTok influencers on inBeat.
-text_bottom: inBeat holds 2234 TikTok influencers like this for you to collaborate.
+hits: 2288
+text_top: See the top-rated TikTok profiles on inBeat.
+text_bottom: Our search engine aggregates 2288 TikTok influencers like this for you to collaborate.
 profiles:
   - username: "lifestylemols"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.140218
     id: ckc85eho04zeu0j23vto2avgt
     verified: false
-    hashtags: "#summer, #foryou, #grwm, #daily"
+    hashtags: "#productivity, #summer, #daily, #foryoupage"
   - username: "fashionwithmae"
     fullname: >-
       mae 🤍
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.143809
     id: ckc7nj76mtnxg0j23kaz9owb2
     verified: false
-    hashtags: "#aesthetic, #calming, #bookclub, #beach"
+    hashtags: "#foryoupage, #lifestyle, #beach, #fyp"
   - username: "laynes.life"
     fullname: >-
       ✰ layne ✰
@@ -66,7 +66,7 @@ profiles:
     commentsToLikes: 0.141754
     id: ckd6kv8zcefd10j23rz9rccuk
     verified: false
-    hashtags: "#blackwomen, #duet, #gossipgirlhere, #holdamirrorup"
+    hashtags: "#blacklivesmatter, #completemylook, #gossipgirlhere, #holdamirrorup"
   - username: "quoissant"
     fullname: >-
       amy :3🪞
@@ -78,7 +78,7 @@ profiles:
     commentsToLikes: 0.045630
     id: ckc8xgg0lle2k0j23lv9lri0b
     verified: false
-    hashtags: "#glowsxlfcare, #collab, #aesthetic, #grwm"
+    hashtags: "#aesthetic, #glowsxlfcare, #collab, #grwm"
   - username: "hal3ymiller"
     fullname: >-
       Haley
@@ -90,7 +90,7 @@ profiles:
     commentsToLikes: 0.042340
     id: ckcdcyk185awb0j23965mjcaa
     verified: false
-    hashtags: "#aesthetic, #artdirector, #fyp, #forcreatives"
+    hashtags: "#contentcreator, #forcreatives, #photographer, #greenscreen"
   - username: "courtneymcavenia"
     fullname: >-
       Courtney McAvenia
@@ -102,7 +102,7 @@ profiles:
     commentsToLikes: 0.116413
     id: ckdmqww3w9ojt0j23078xgy4l
     verified: false
-    hashtags: "#refundglowup, #momlife, #shadowandbone, #makemomepic"
+    hashtags: "#duet, #makemomepic, #tiktokggt, #shadowandbone"
   - username: "ilabellecosplay"
     fullname: >-
       ilabelle
@@ -114,7 +114,7 @@ profiles:
     commentsToLikes: 0.031862
     id: ck9116ko3kl970j78hxacghvs
     verified: false
-    hashtags: "#foraging, #learnontiktok, #elsa, #frozen"
+    hashtags: "#elsa, #foraging, #learnontiktok, #duet"
   - username: "lifestyle.maddy"
     fullname: >-
       maddy🤍
@@ -126,5 +126,5 @@ profiles:
     commentsToLikes: 0.047874
     id: ckcv44if9opyg0j23k3p2peh0
     verified: false
-    hashtags: "#summer, #foryou, #morning, #routine"
+    hashtags: "#grwm, #routine, #vlog, #uk"
 ---

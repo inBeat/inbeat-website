@@ -1,11 +1,11 @@
 ---
-title: Top 10 Cooking TikTok Influencers In Australia In 2023
+title: Top 10 Cooking TikTok Influencers In Australia In 2024
 description: >-
-  Find top cooking TikTok influencers in Australia in 2023. Most popular hashtags: #fyp #cooking #foryou #vegan.
+  Find top cooking TikTok influencers in Australia in 2024. Most popular hashtags: #fyp #cooking #foryou #vegan.
 platform: TikTok
 hits: 165
-text_top: Identify the best TikTok profiles on inBeat.
-text_bottom: Our database aggregates 165 TikTok influencers like this in Australia for you to pitch.
+text_top: Discover the best TikTok profiles on inBeat.
+text_bottom: Our search engine has 165 TikTok influencers like this in Australia for you to work with.
 profiles:
   - username: "sandyh90"
     fullname: >-
@@ -49,12 +49,12 @@ profiles:
     bio: >-
       Italian mum waiting for my kids to make me a Nonna, so cooking to keep me busy
     location: "Australia"
-    followers: 9035
-    engagement: 757
-    commentsToLikes: 0.018502
+    followers: 8984
+    engagement: 752
+    commentsToLikes: 0.018498
     id: ckb9ie5b78pec0j23gkcyes8d
     verified: false
-    hashtags: "#italiancheck, #italiancooking, #cookingitalian, #cookingtutorial"
+    hashtags: "#fypage, #cookingitalian, #italiancheck, #cookingtutorial"
   - username: "cheatmeats"
     fullname: >-
       CheatMeats

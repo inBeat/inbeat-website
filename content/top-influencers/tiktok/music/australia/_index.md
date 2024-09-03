@@ -1,11 +1,11 @@
 ---
-title: Top 10 Music TikTok Influencers In Australia In 2023
+title: Top 10 Music TikTok Influencers In Australia In 2024
 description: >-
-  Find top music TikTok influencers in Australia in 2023. Most popular hashtags: #duet #music #fyp #stitch.
+  Find top music TikTok influencers in Australia in 2024. Most popular hashtags: #duet #stitch #music #fyp.
 platform: TikTok
-hits: 352
-text_top: Identify the best TikTok profiles on inBeat.
-text_bottom: Our search engine has 352 TikTok influencers like this in Australia for you to work with.
+hits: 346
+text_top: Analyze the top-rated TikTok profiles on inBeat.
+text_bottom: Our search engine has 346 TikTok influencers like this in Australia for you to collaborate.
 profiles:
   - username: "wengie"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.025614
     id: ckdtlmn07zwg80j23k067k3hk
     verified: true
-    hashtags: "#angelanddemon, #stitch, #anotheryou, #duet"
+    hashtags: "#headdance, #anotheryou, #duet, #stitch"
   - username: "parsiqueen"
     fullname: >-
       parsiqueen ❣
@@ -30,19 +30,7 @@ profiles:
     commentsToLikes: 0.057807
     id: ckb1djkb42imy0j23ilv3dnor
     verified: false
-    hashtags: "#parsiqueen, #blooper, #babumaan, #wmkji"
-  - username: "endzmeet"
-    fullname: >-
-      endzmeet
-    bio: >-
-      off pause ⏸ its 2021 18+ 🇦🇺🇦🇺🇦🇺Musician Insta: @endzmeetmusic
-    location: "Australia"
-    followers: 47700
-    engagement: 2226
-    commentsToLikes: 0.333484
-    id: ckbqpakt3a3ol0j23m7w7kd5b
-    verified: false
-    hashtags: "#memories, #2020, #australia, #80smusic"
+    hashtags: "#wmkji, #parsiqueen, #blooper, #babumaan"
   - username: "yungteto"
     fullname: >-
       Obama
@@ -55,30 +43,18 @@ profiles:
     id: ckb8zwc1sfjc10j2324zcaabg
     verified: false
     hashtags: "#uzi, #playboicarti, #vote, #politics"
-  - username: "pacerandolph"
-    fullname: >-
-      Pace Randolph
-    bio: >-
-      ®️New singer coming for the charts 📈®️ ⬇️My Music Link⬇️ 💛DM on Insta💛
-    location: "Australia"
-    followers: 76400
-    engagement: 1388
-    commentsToLikes: 0.123133
-    id: ckcj15m513q2n0j23nfcd6n14
-    verified: false
-    hashtags: "#duet, #music, #singersongwriter, #originalsong"
   - username: "pattyboomba"
     fullname: >-
       Pattyboomba
     bio: >-
-      Make art. Film music composer. Guitar samples. vvvvvvvvvvvvv
+      Make art. Film music composer. Get Guitar samples. vvvvvvvvvvvvv
     location: "Australia"
-    followers: 38200
-    engagement: 1079
-    commentsToLikes: 0.083144
+    followers: 42500
+    engagement: 738
+    commentsToLikes: 0.121564
     id: ck9pnmw0jfak40j78urahzvbb
     verified: false
-    hashtags: "#producer, #music, #filmscore, #beats"
+    hashtags: "#musicproduction, #musician, #filmscore, #music"
   - username: "tay.aaa"
     fullname: >-
       taya
@@ -127,4 +103,28 @@ profiles:
     id: ckd6z4i0jxtme0j23ltkk8ref
     verified: false
     hashtags: "#lookinggood, #mentalhealthmatters, #aussietok, #vibing"
+  - username: "rinidawg"
+    fullname: >-
+      RINI
+    bio: >-
+      🤷🏽‍♂️ 🥳 I make music ! Check out my Youtube Channel
+    location: "Australia"
+    followers: 74700
+    engagement: 1313
+    commentsToLikes: 0.031365
+    id: cka7w9j16zi4v0i78kkrcoet9
+    verified: true
+    hashtags: "#fyp, #skiptherinse, #sheesh, #talktome"
+  - username: "videotunes"
+    fullname: >-
+      Video Tunes
+    bio: >-
+      Music sped-up for your videos🎧 5000 Fans?🤔💗🙈 I'm a girl👸🏼 Hate free zone🚫
+    location: "Australia"
+    followers: 4644
+    engagement: 4750
+    commentsToLikes: 0.011946
+    id: ck9dvay9ck1mw0j78oxj0my3t
+    verified: false
+    hashtags: "#music, #lipsync, #tunes, #blackbear"
 ---

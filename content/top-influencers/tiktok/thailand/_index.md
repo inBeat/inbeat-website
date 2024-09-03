@@ -1,11 +1,11 @@
 ---
-title: Top 10 TikTok Influencers In Thailand In 2023
+title: Top 10 TikTok Influencers In Thailand In 2024
 description: >-
-  Find top TikTok influencers in Thailand in 2023. Most popular hashtags: #smilestrong2021 #360hkfoodmoments #sansirispreadjoy.
+  Find top TikTok influencers in Thailand in 2024. Most popular hashtags: #smilestrong2021 #360hkfoodmoments #sansirispreadjoy.
 platform: TikTok
 hits: 1084
-text_top: Analyze the most popular TikTok profiles on inBeat.
-text_bottom: inBeat has 1084 TikTok influencers like this in Thailand for you to work with.
+text_top: Analyze the most popular TikTok influencers on inBeat.
+text_bottom: Our platform has 1084 TikTok influencers like this in Thailand for you to pitch.
 profiles:
   - username: "nongtuk889"
     fullname: >-

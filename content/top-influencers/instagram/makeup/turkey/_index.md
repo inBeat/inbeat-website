@@ -1,130 +1,130 @@
 ---
-title: Top 10 Makeup Instagram Influencers In Turkey In 2023
+title: Top 10 Makeup Instagram Influencers In Turkey In 2024
 description: >-
-  Find top makeup Instagram influencers in Turkey in 2023. Most popular hashtags: #makeup #makeupartist #makeuptutorial #photography.
+  Find top makeup Instagram influencers in Turkey in 2024. Most popular hashtags: #makeuptutorial #reklam #lipstick.
 platform: Instagram
-hits: 728
-text_top: See the most popular Instagram profiles on inBeat.
-text_bottom: Our database holds 728 Instagram influencers like this in Turkey for you to connect with.
+hits: 772
+text_top: Identify the best Instagram influencers on inBeat.
+text_bottom: inBeat aggregates 772 Instagram influencers like this in Turkey for you to connect with.
 profiles:
-  - username: "seaofmelis"
+  - username: "endamdan"
     fullname: >-
-      Melis Deniz
+      Endam Orçun
     bio: >-
-      Pro Makeup Artist seaofmelis@gmail.com Tüm işlemlerimiz için; @houseofmelis 💄@nailartathom 💅🏼@browlashathom ✏️ Bize 05523920590 ‘dan ulaşabilirsiniz
+      📍İzmir 💄Beauty | Makeup | Lifestyle 💌 endamorcun@gmail.com 👩🏻‍🔬PAU Chemical Engineering
     location: "Turkey"
-    followers: 327105
-    engagement: 451
-    commentsToLikes: 0.010889
-    id: ck5c9w1z1c8e80i11y0vhv5ij
+    followers: 12558
+    engagement: 532
+    commentsToLikes: 0.127425
+    id: ck600ropde50v0i14a6pfhv9w
     verified: false
-    hashtags: "#agresifcivciv, #helpturkey"
-  - username: "nastaran_jll"
+    hashtags: "#avonturkiye, #niacinamide, #avon, #gold"
+  - username: "denizz_makeup"
     fullname: >-
-      Nastaran
+      Farnoosh nateghi
     bio: >-
-      MarrieD❤ SaM My makeup page: @nastaranjll_makeup
+      Pro Makeup artist and beauty blogger 💄💋 @regal.btq 🛍️ مشاور مدیریت و تبلیغات @iman.mihanzadeh💬 دنیز 👇
     location: "Turkey"
-    followers: 5222
-    engagement: 2321
-    commentsToLikes: 0.105737
-    id: ck13bn10lw7ps0i197s3iatfi
+    followers: 1023277
+    engagement: 609
+    commentsToLikes: 0.021128
+    id: ck136qfba7r3m0i19zyo3nn4h
     verified: false
-    hashtags: "#summertime, #couplelove, #couples, #couplegoals"
-  - username: "lorinleylas"
+    hashtags: "#lipstick, #zara, #hudabeauty, #style"
+  - username: "nedayasee"
     fullname: >-
-      Leyla Süner🌻
+      Neda Yasee
     bio: >-
-      Tv&Cinema Makeup Artist 🎨
+      Makeup, Lifestyle, Travel ✈️ Main Account @nedayasee2 📍Istanbul, Turkey
     location: "Turkey"
-    followers: 13077
-    engagement: 1011
-    commentsToLikes: 0.117292
-    id: ckaorgf12n3jk0i78kjfv6bct
+    followers: 1269433
+    engagement: 1458
+    commentsToLikes: 0.122544
+    id: ck9werjgllief0j783wcx8twv
     verified: false
-    hashtags: "#aslihangunerteam, #kuzeyy, #makeupartist, #kayd"
-  - username: "mustafa.aktass"
+    hashtags: ""
+  - username: "daisy.pj"
     fullname: >-
-      MUSTAFA AKTAŞ
+      Beste Ömürgönülşen
     bio: >-
-      Müberya Sağlam Makeup Studio 📍 İstanbul / etiler ☎️ 0542 782 95 22 📩 👰 işbirliği /pr mustoaktas@hotmail.com
+      Founder of @besteomurgonulsenstudio Pro Makeup Artist / Couple Pose Ideas 💌 beste@viralif.com
     location: "Turkey"
-    followers: 103475
-    engagement: 436
-    commentsToLikes: 0.350248
-    id: ck0w4th4k0c2j0i19hm1ztede
+    followers: 25074
+    engagement: 5247
+    commentsToLikes: 0.011623
+    id: ckf5v94ugnqy40j23riem46t0
     verified: false
-    hashtags: "#bride, #makeup, #bridemakeup, #reels"
-  - username: "zarasfx"
+    hashtags: "#kesfet, #telefonfotografciligi, #couplepose, #mobilephotography"
+  - username: "sercinkaradagg"
     fullname: >-
-      
+      Serçin Karadağ
     bio: >-
-      FX Film & Television makeup artist in Turkey, Istanbul. 🇹🇷 I do Special Effects Make-Up, Prosthetics, Masks, Face & Body paint.
+      Makeup | Skincare | Outfits | Lifestyle İletişim: hellosocialmeet@gmail.com
     location: "Turkey"
-    followers: 44229
-    engagement: 649
-    commentsToLikes: 0.045007
-    id: ck8szger4ochm0j78q4qqb5t3
+    followers: 11661
+    engagement: 573
+    commentsToLikes: 0.054512
+    id: ckap1ggl7uhql0i78w0kuck4l
     verified: false
-    hashtags: "#makeup, #skinillustrator, #mehron, #art"
-  - username: "sofe_bayaty"
+    hashtags: "#ruj, #makeupaddict, #beaulis, #makeuptutorial"
+  - username: "yesimyandi"
     fullname: >-
-      sofe Albayaty
+      Yeşim YANDI
     bio: >-
-      ‏🇮🇶Wrestling champion Iraq🥊 ‏Fitness🏋🏻‍♀️💪🏻 SC:sofe0001👻 ‏Practical makeup💄 Age.25 I live in Turkey🇹🇷 model👖👕
+      Beauty | Lifestyle • Ürün Deneme Videoları • Makyaj Tavsiyeleri , Videoları 💄Makeupartist
     location: "Turkey"
-    followers: 22461
-    engagement: 406
-    commentsToLikes: 0.235652
-    id: ckf5mjamou25e0j23iugsnz49
+    followers: 6669
+    engagement: 606
+    commentsToLikes: 0.313061
+    id: ckf5x08bjtvgf0j23ywc87u9u
     verified: false
-    hashtags: "#inspirationalquotes, #explorepage, #iraqi, #basra"
-  - username: "ezgihalilbeyoglu"
+    hashtags: "#reklam, #makeuprevolution, #watsons, #likeforlikes"
+  - username: "kamranjabbarov"
     fullname: >-
-      Ezgi Halilbeyoğlu
+      Kamran Jabbarov
     bio: >-
-      Professional Makeup Artist • Istanbul🌎 Mother of 2 🤍 💌 ehalilbeyoglu@yahoo.com
+      Freelance Makeup Artist 🇦🇿🇹🇷 İletişim +905349185991
     location: "Turkey"
-    followers: 108052
-    engagement: 179
-    commentsToLikes: 0.012983
-    id: ck0u7q0l95g620i19owoo54mk
+    followers: 116190
+    engagement: 453
+    commentsToLikes: 0.026206
+    id: ck6tyv3zg61b70j71fgzhjn80
     verified: false
-    hashtags: "#youtube, #makeup, #gelin, #bridalmakeupartist"
-  - username: "siavashphtogrph"
+    hashtags: "#markaa, #koleksiyon, #showbypastel, #makyajsanat"
+  - username: "makeuphilalsari"
     fullname: >-
-      Фотограф Сияваш
+      HİLAL SARI ÜNLÜ
     bio: >-
-      Beauty & fashion #photographer Makeup / portrait ~beauty retoucher~ 📍#Moscow🇷🇺 📍#istanbul 🇹🇷
+      Hilal Sarı Makeup Studio Çukurova Uni|Esthetician Salı Günleri Kapalı ❌ Randevu Sistemi❗️ 📞03245031515 ⏰ 08:30 / 18:30 Mersin/ SİLİFKE
     location: "Turkey"
-    followers: 10938
-    engagement: 637
-    commentsToLikes: 0.087965
-    id: ck5chs5kord1o0i11qkasejlb
+    followers: 24080
+    engagement: 426
+    commentsToLikes: 0.031344
+    id: ckap0e4gdpvo40i78acb0vnxz
     verified: false
-    hashtags: "#theportraitpr0ject, #globe, #artofvisuals, #portraits"
-  - username: "dua.mnalla"
+    hashtags: ""
+  - username: "candilekcci"
     fullname: >-
-      Dua Mnalla Alrayess
+      Can Dilekci
     bio: >-
-      Married💍 @saadalrayess #fashionblogger #fashion #beauty #hijab •İstanbul 🇹🇷 •Certified Makeup artist •Fashion •Lifestyle •Beauty
+      📍Müberya Sağlam Makeup Studio • reklam isbirlikleri: candilekci@thepeggi.co • iletişim : 0 544 663 64 93 💌
     location: "Turkey"
-    followers: 64045
-    engagement: 447
-    commentsToLikes: 0.041409
-    id: ckapaz0bay07a0i782q8gesvd
+    followers: 97914
+    engagement: 361
+    commentsToLikes: 0.048256
+    id: ck8t2ae1myq920j78reg3dgh2
     verified: false
-    hashtags: "#hijabi, #istanbul, #saudiarabia, #hijabstyle"
-  - username: "mervekayamua"
+    hashtags: "#makeuptransformation, #christmas, #halloween, #reklam"
+  - username: "mesut.ozuzun"
     fullname: >-
-      Merve Kaya
+      MESUT ÖZUZUN
     bio: >-
-      Gelin ve özel gün makyajları için 📩mmervekaya.y@gmail.com @makeupstudioala Ankara
+      Makeup&Hair Collaboration : kardelen@globeistanbul.com
     location: "Turkey"
-    followers: 28940
-    engagement: 270
-    commentsToLikes: 0.097735
-    id: ck15uk3c3nkem0i19w2h45smx
+    followers: 40049
+    engagement: 360
+    commentsToLikes: 0.064105
+    id: ck15rkc9h8cal0i1964dbn4rf
     verified: false
-    hashtags: "#makeuptutorial, #editorialmakeup, #benefitturkiye, #inbeautmag"
+    hashtags: "#nofilter, #repost, #bride, #makeuphairbyme"
 ---

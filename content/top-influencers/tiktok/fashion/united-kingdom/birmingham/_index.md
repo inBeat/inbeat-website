@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fashion TikTok Influencers In Birmingham In 2023
+title: Top 10 Fashion TikTok Influencers In Birmingham In 2024
 description: >-
-  Find top fashion TikTok influencers in Birmingham in 2023. Most popular hashtags: #fyp #foryoupage #foryou #fashion.
+  Find top fashion TikTok influencers in Birmingham in 2024. Most popular hashtags: #fyp #foryoupage #foryou #fashion.
 platform: TikTok
 hits: 4
-text_top: Identify the most popular TikTok influencers on inBeat.
-text_bottom: Our database has 4 TikTok influencers like this in Birmingham, United Kingdom for you to collaborate.
+text_top: Identify the top-rated TikTok accounts on inBeat.
+text_bottom: Our platform holds 4 TikTok influencers like this in Birmingham, United Kingdom for you to connect with.
 profiles:
   - username: "lushspabirmingham"
     fullname: >-
@@ -66,7 +66,7 @@ profiles:
     commentsToLikes: 0.143809
     id: ckc7nj76mtnxg0j23kaz9owb2
     verified: false
-    hashtags: "#aesthetic, #calming, #bookclub, #beach"
+    hashtags: "#foryoupage, #lifestyle, #beach, #fyp"
   - username: "pop_sausage"
     fullname: >-
       pop the saus. 
@@ -78,7 +78,7 @@ profiles:
     commentsToLikes: 0.176973
     id: ckav2ei0f8i2v0j23dknz44pf
     verified: true
-    hashtags: "#sausagedog, #dogsoftiktok, #wienerdog, #topdog"
+    hashtags: "#dog, #dogs, #feelgoodfactor, #topdog"
   - username: "halle.isobel.art"
     fullname: >-
       halle isobel
@@ -115,16 +115,16 @@ profiles:
     id: ckbfh6wwpckuy0j235i65ovg5
     verified: false
     hashtags: "#upcycledfashion, #tiktokuk, #upcycle, #learnontiktok"
-  - username: "lavenderstages"
+  - username: "sadusagi"
     fullname: >-
-      Rosie Harte
+      Addy senpai
     bio: >-
-      Hi 👋🏻 I chat about fashion and history every now and then!
+      Ig: addychansenpai harajuku fashion & kawaii lifestyle ⬇️wishlist & links⬇️
     location: "United Kingdom"
-    followers: 125900
-    engagement: 2143
-    commentsToLikes: 0.010405
-    id: ckcj9l4t97ynk0j23ro17s2bj
+    followers: 488400
+    engagement: 2319
+    commentsToLikes: 0.018877
+    id: ck9euzbkofw110j78xprvxc9e
     verified: false
-    hashtags: "#art, #bridgerton, #royalcore, #marieantoinette"
+    hashtags: "#taskmasterpiece, #gamergirl, #ourhouse2021, #weeb"
 ---

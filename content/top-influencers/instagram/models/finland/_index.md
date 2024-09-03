@@ -1,11 +1,11 @@
 ---
-title: Top 10 Models Instagram Influencers In Finland In 2023
+title: Top 10 Models Instagram Influencers In Finland In 2024
 description: >-
-  Find top models Instagram influencers in Finland in 2023. Most popular hashtags: #model #finland #winter.
+  Find top models Instagram influencers in Finland in 2024. Most popular hashtags: #model #travel #instadaily.
 platform: Instagram
-hits: 59
-text_top: See the top-rated Instagram profiles on inBeat.
-text_bottom: Our search engine holds 59 Instagram influencers like this in Finland for you to collaborate.
+hits: 52
+text_top: Analyze the top-rated Instagram accounts on inBeat.
+text_bottom: Our platform has 52 Instagram influencers like this in Finland for you to contact.
 profiles:
   - username: "laurapauliinat"
     fullname: >-
@@ -67,51 +67,27 @@ profiles:
     id: ck8swn5ylelid0j783bpb0op3
     verified: false
     hashtags: "#model, #modeling, #sunday, #photoshoot"
-  - username: "kemelyllanes"
-    fullname: >-
-      KEᗰEᒪY ᒪᒪᗩᑎES
-    bio: >-
-      ㅅMODEL 👠 ᗰᗩKEᑌᑭ ᗩᖇTIᔕT @makeupbykemely “ I ᴅᴏ ᴡʜᴀᴛ I ʟᴏᴠᴇ ᴀɴᴅ I ʟᴏᴠᴇ ᴡʜᴀᴛ I ᴅᴏ”
-    location: "Finland"
-    followers: 12396
-    engagement: 406
-    commentsToLikes: 0.062343
-    id: ck6ts3mi32kp50j71mwjiuqlb
-    verified: false
-    hashtags: "#nycblogger, #modelsearch, #modellife, #fashionstyle"
   - username: "iidamatinki"
     fullname: >-
       Iida Mätinki
     bio: >-
-      📷 Model | Promoter | Bachelor of Music 💌 iida.matinki@gmail.com Portfolio ⤵️
+      Fishing & Outdoors: @missmetsanneito 📷 Model | Promoter | Bachelor of Music 💌 iida.matinki@gmail.com Portfolio ⤵️
     location: "Finland"
-    followers: 2671
-    engagement: 1125
+    followers: 2549
+    engagement: 1179
     commentsToLikes: 0.050770
     id: ck5cl1g2uy2250i11t3l18917
     verified: false
-    hashtags: "#moodygrams, #alennuskoodi, #instagood10k, #instablogger"
-  - username: "ddanielay"
-    fullname: >-
-      Daniela Kälviläinen
-    bio: >-
-      🎙 sports journalist student 📸 pageant / model 🏒 @skatingcoach_dani coach acc 📨 email me for collabs
-    location: "Finland"
-    followers: 2948
-    engagement: 1213
-    commentsToLikes: 0.033053
-    id: ckap1u93aw6c70i7829cf65ip
-    verified: false
-    hashtags: "#tytt, #joelfuckingkiviranta, #lifting, #icehockey"
+    hashtags: "#moodygrams, #storyofvola, #kontiofinland, #instagood10k"
   - username: "sallome_akhvlediani"
     fullname: >-
       Salome Akhvlediani
     bio: >-
       Model at @lookmodelsmanagement / @women_milano / @women_paris / @munichmodels / @parsmanagement / @ace_models_athens
     location: "Finland"
-    followers: 20411
-    engagement: 332
-    commentsToLikes: 0.012786
+    followers: 20087
+    engagement: 336
+    commentsToLikes: 0.011858
     id: ck5znculjo7mr0i14idnvxpls
     verified: false
     hashtags: ""
@@ -127,4 +103,28 @@ profiles:
     id: ck9hbhayagtzi0j78922a57af
     verified: false
     hashtags: "#curves, #finland, #naturephotography, #alternativegirl"
+  - username: "martinquinteros.ok"
+    fullname: >-
+      👑Martin Quinteros👑
+    bio: >-
+      ᴘᴜʙʟɪᴄɪᴅᴀᴅ |ᴄᴀɴᴊᴇꜱ| ᴘʀᴏᴘᴜᴇꜱᴛᴀꜱ ᴘᴏʀ ᴍᴅ 📩 📺ᴄᴏʟᴜᴍɴɪꜱᴛᴀ ᴅᴇ @altavozatv ☕ᴀᴍᴏ ᴄᴀꜰᴇ 📱ᴛɪᴋ ᴛᴏᴋ ( +90k) 🍇ᴹᵉⁿᵈᵒᶻᵃ 👼ᴷᵃˡᵉᵇ ʀᴜʙʏ ❣️ ;
+    location: "Finland"
+    followers: 17393
+    engagement: 833
+    commentsToLikes: 0.042414
+    id: ckap6z28yhyq10i78ncerewqn
+    verified: false
+    hashtags: "#model, #saliendodelarutina, #tiktok, #tiktokers"
+  - username: "sharonmejiac"
+    fullname: >-
+      Sharon Mejía
+    bio: >-
+      •𝒟𝒶𝓃𝒸ℯ𝓇 •lShowbusiness|•ℳℴ𝒹ℯ𝓁• ℙ𝕦𝕣𝕒 𝕓𝕦𝕖𝕟𝕒 𝕧𝕚𝕓𝕣𝕒🦋💫 •Miss Puebla 2017👑 Collabs:DM⬇️ Nᴇᴠᴇʀ sᴛᴏᴘ ʟɪᴠɪɴɢ🍃🌟
+    location: "Finland"
+    followers: 33054
+    engagement: 611
+    commentsToLikes: 0.101106
+    id: ck5c122omuays0i115mo0dw2l
+    verified: false
+    hashtags: "#follow, #workoutmotivation, #moda, #followme"
 ---

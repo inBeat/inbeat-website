@@ -1,130 +1,130 @@
 ---
-title: Top 10 Instagram Influencers In Greece In 2023
+title: Top 10 Instagram Influencers In Greece In 2024
 description: >-
-  Find top Instagram influencers in Greece in 2023. Most popular hashtags: #giveaway #ad #mood.
+  Find top Instagram influencers in Greece in 2024. Most popular hashtags: #greece #love #travel.
 platform: Instagram
-hits: 1862
-text_top: Discover the best Instagram accounts on inBeat.
-text_bottom: inBeat has 1862 Instagram influencers like this in Greece for you to work with.
+hits: 2133
+text_top: Identify the best Instagram accounts on inBeat.
+text_bottom: Our database has 2133 Instagram influencers like this in Greece for you to pitch.
 profiles:
+  - username: "marinelliofficial"
+    fullname: >-
+      Marina Polyzou - Marinelli
+    bio: >-
+      Beauty ∣ Fashion ∣ Lifestyle 💍Happy wife 👼🏼Mommy of a prince 📍Athens, Greece 📧marinellipolyzou@gmail.com ⬇️My Youtube channel
+    location: "Greece"
+    followers: 53199
+    engagement: 459
+    commentsToLikes: 0.158654
+    id: ck8t2dx7pz4ab0j78sz3g82tq
+    verified: false
+    hashtags: "#love, #styleblogger, #youtuber, #instacute"
+  - username: "kenxtori"
+    fullname: >-
+      Tori & Ken Tabata
+    bio: >-
+      Luxury Travel Content Creators Epic hotels & bucket list experiences only Chase | United partner Get our Northern Lights Photography ebook ⤵
+    location: "Greece"
+    followers: 137580
+    engagement: 579
+    commentsToLikes: 0.083580
+    id: ck55ll1kb1tos0i11zl6mtdmw
+    verified: false
+    hashtags: "#beautifulhotels, #bucketlist, #couplegoals, #uniquehotels"
+  - username: "khaseel"
+    fullname: >-
+      𝓚𝓱𝓪𝓼𝓮𝓮𝓵
+    bio: >-
+      @private.khas
+    location: "Greece"
+    followers: 560946
+    engagement: 758
+    commentsToLikes: 0.006485
+    id: ck13d504n3puh0i19hruc7lzf
+    verified: false
+    hashtags: "#family, #curlyhair, #dubai, #model"
+  - username: "vassia_kostara"
+    fullname: >-
+      Vassia Kostara
+    bio: >-
+      * Founder of @vassiakostarabrand * Made in 🇬🇷 * Co-Founder: @circular_independence @project_paralies * M.A: @in.the.fab IG bookings
+    location: "Greece"
+    followers: 336813
+    engagement: 994
+    commentsToLikes: 0.267496
+    id: ck14kql0kqtfu0i1917cplvzf
+    verified: false
+    hashtags: "#dolomites, #vassiakostaralimitedcollections, #vacaymode, #fw2324"
+  - username: "pilot_johnnie"
+    fullname: >-
+      I.METALLIDIS • 🇬🇷
+    bio: >-
+      •MY ONLY ACCOUNT• . Tik Tok:Pilot_Johnnie . All 📸 & 🎥 taken in non-critical #flight phases!
+    location: "Greece"
+    followers: 231592
+    engagement: 511
+    commentsToLikes: 0.046331
+    id: ck0vze8uu8ob10i190xtmjqdx
+    verified: false
+    hashtags: "#aviator, #aviation4u, #enjoy, #pilot"
+  - username: "italistanii"
+    fullname: >-
+      Farah Ahmad
+    bio: >-
+      NYC/ MIA/ West Palm Beach/ NJ @browedandbougie @ibrowacademynyc
+    location: "Greece"
+    followers: 39029
+    engagement: 474
+    commentsToLikes: 0.025133
+    id: ck5hou8qiq8q60i11rlh9m3r3
+    verified: false
+    hashtags: "#microblading, #eyebrows, #pmu, #brows"
   - username: "souzana"
     fullname: >-
-      souzana
+      Souzana Kengitsi
     bio: >-
       Beauty Lover 🫶🏼 Founder @heybeautygr •Awarded beauty influencer •Beauty Editor •Passionate Youtuber •Podcaster, The Beauty Talk
     location: "Greece"
-    followers: 135858
-    engagement: 444
-    commentsToLikes: 0.098353
+    followers: 136154
+    engagement: 436
+    commentsToLikes: 0.040206
     id: ck6tl00w85q8j0j71uxkrmodc
     verified: false
-    hashtags: "#herrerabeauty, #heybeautygr, #skincare, #xmas"
-  - username: "avital"
+    hashtags: "#jomalonelondon, #ootd, #ad, #heybeautygr"
+  - username: "thekelseyowens"
     fullname: >-
-      AVITAL COHEN
+      Kelsey Owens
     bio: >-
-      ✡️ #FitnessQueen I’m just a GIRL BOSS that’s building MY NEW EMPIRE. Contact 📧 avitalcollab@gmail.com
+      🎥 MTV’s Siesta Key 🦴 Dog mom of @bellatheboxxer 📷 @mkbphotography__ 📧 Brand Inquiries: KelseyOwens@456growth.com 👇🏼Get a personalized video from me
     location: "Greece"
-    followers: 2050482
-    engagement: 451
-    commentsToLikes: 0.007396
-    id: ck15td53hhioh0i19e1gsq2mv
+    followers: 695091
+    engagement: 514
+    commentsToLikes: 0.027136
+    id: ck6tryzzr1w690j715i9tgicu
     verified: true
-    hashtags: "#mood, #ad, #bangenergy, #healthylifehappylife"
+    hashtags: "#spotheropartner, #skimsdupe, #temunewyear, #temufinds"
+  - username: "andrewgeorgiades"
+    fullname: >-
+      Andrew Georgiades
+    bio: >-
+      creative @thesocietynyc image @wilhelminamodels ldn, nyc
+    location: "Greece"
+    followers: 185365
+    engagement: 417
+    commentsToLikes: 0.005976
+    id: ck6tzeoi299ei0j71e8gqv015
+    verified: false
+    hashtags: "#pradafw24, #tommyfamily"
   - username: "panosdent_official"
     fullname: >-
-      Panos Eftaxias
+      Panagiotis Eftaxias
     bio: >-
-      Business Mail panosdent@mavericks.zone Βρείτε το PDT eshop εδώ ⬇️⬇️
+      Business Mail panosdentofficial@gmail.com Βρείτε τα merch μου εδώ ⬇️⬇️
     location: "Greece"
-    followers: 273043
-    engagement: 735
-    commentsToLikes: 0.038792
+    followers: 292448
+    engagement: 604
+    commentsToLikes: 0.064098
     id: ck0w3mp4vu6zg0i19ldftfsyu
     verified: false
-    hashtags: "#lg, #bmw, #cars, #pdt"
-  - username: "nadiaboule"
-    fullname: >-
-      Nadia Boule
-    bio: >-
-      Life is what happens to you when you're busy making other plans. Wellness lifestyle lover @b_bynadiaboule
-    location: "Greece"
-    followers: 158914
-    engagement: 794
-    commentsToLikes: 0.008893
-    id: ck0vzvoqfb4gu0i19yceak34d
-    verified: false
-    hashtags: "#flowers, #modernparents, #9monthspregnant, #readytopop"
-  - username: "official2j"
-    fullname: >-
-      2J
-    bio: >-
-      2J & Sony Anderson - Listen To Sony (Official Video Clip)
-    location: "Greece"
-    followers: 312310
-    engagement: 516
-    commentsToLikes: 0.011152
-    id: ck0w3mq2du74i0i190bjcp6hh
-    verified: true
-    hashtags: "#germanosgaming, #germanos, #2jgermanos, #funkybuddha"
-  - username: "j.touni"
-    fullname: >-
-      Ι ω ά ν ν α   Τ ο ύ ν η
-    bio: >-
-      𝐏𝐫𝐨𝐮𝐝 𝐨𝐰𝐧𝐞𝐫 𝐨𝐟 @bubblegun_world & @ranjers_ ♥ 𝐂𝐞𝐫𝐭𝐢𝐟𝐢𝐞𝐝 𝐬𝐜𝐡𝐨𝐨𝐥 𝐭𝐞𝐚𝐜𝐡𝐞𝐫 & 𝐅𝐚𝐬𝐡𝐢𝐨𝐧 𝐃𝐞𝐬𝐢𝐠𝐧𝐞𝐫 🔎Find me on #tiktok :
-    location: "Greece"
-    followers: 1075846
-    engagement: 1203
-    commentsToLikes: 0.032355
-    id: ck5c6cdjf55ea0i11rxshk3zt
-    verified: true
-    hashtags: "#ad, #babyloading, #giveaway, #venice"
-  - username: "dzana.yil"
-    fullname: >-
-      Dzzyzzle
-    bio: >-
-      📥 dzana@gl-management.net
-    location: "Greece"
-    followers: 605977
-    engagement: 664
-    commentsToLikes: 0.005219
-    id: ck0w59u5w2m6b0i19poc6e87x
-    verified: false
-    hashtags: ""
-  - username: "alexandros_kopsialis"
-    fullname: >-
-      Αλέξανδρος Κοψιάλης
-    bio: >-
-      📧 kopsialis@e-x-i.com ⬇️ ΙΔ. ΚΑΤΑΚΡΑΥΓΗ #38 @trannos.west
-    location: "Greece"
-    followers: 1090626
-    engagement: 1775
-    commentsToLikes: 0.195894
-    id: ckap2tozs0a1a0i78s18y69m7
-    verified: false
-    hashtags: "#38, #giveaway"
-  - username: "arisfc_official"
-    fullname: >-
-      ARIS F.C.
-    bio: >-
-      Το επίσημο Instagram feed της Π.Α.Ε. ΑΡΗΣ / The official ARIS F.C. Instagram feed.
-    location: "Greece"
-    followers: 121053
-    engagement: 437
-    commentsToLikes: 0.009529
-    id: ck0u1pkfexnk40i19mu54e2y9
-    verified: false
-    hashtags: "#arisfc, #happybirthday, #training, #paokaris"
-  - username: "georgepapakostas"
-    fullname: >-
-      George Papakostas
-    bio: >-
-      Chef | Restaurateur | Consultant | Traveller @theburgerjoint @vittoriagati
-    location: "Greece"
-    followers: 37466
-    engagement: 450
-    commentsToLikes: 0.011262
-    id: ck5zkf7thjdgm0i14esrcsglx
-    verified: false
-    hashtags: "#visitgreece, #gsd, #travelling, #greece"
+    hashtags: "#alumil, #rx8, #pdt, #menexpert"
 ---

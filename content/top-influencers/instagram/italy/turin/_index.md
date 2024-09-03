@@ -1,36 +1,108 @@
 ---
-title: Top 10 Instagram Influencers In Turin In 2023
+title: Top 10 Instagram Influencers In Turin In 2024
 description: >-
-  Find top Instagram influencers in Turin in 2023. Most popular hashtags: #torino #blackandwhite #turin #finoallafine.
+  Find top Instagram influencers in Turin in 2024. Most popular hashtags: #torino #turin #ad #inspiration.
 platform: Instagram
-hits: 155
-text_top: Discover the most popular Instagram profiles on inBeat.
-text_bottom: inBeat has 155 Instagram influencers like this in Turin, Italy for you to contact.
+hits: 160
+text_top: Identify the most popular Instagram influencers on inBeat.
+text_bottom: inBeat holds 160 Instagram influencers like this in Turin, Italy for you to contact.
 profiles:
+  - username: "nicodsn"
+    fullname: >-
+      Nico Schneider Ruatta
+    bio: >-
+      Social Media Strategist, Art Director, Fashion and Wildlife Photographer between Turin and Milan. IED Graduate. Agency @interno9design
+    location: "Italy"
+    followers: 30685
+    engagement: 286
+    commentsToLikes: 0.016274
+    id: ck6txe9cbxc040j71kf61g862
+    verified: false
+    hashtags: "#lasuerte, #mfw, #milan, #fashionweek"
+  - username: "szarnicole"
+    fullname: >-
+      NICOLE SZAR | content creator
+    bio: >-
+      🇵🇱 /📍Turin @dsmodelmanagement
+    location: "Italy"
+    followers: 18659
+    engagement: 184
+    commentsToLikes: 0.056827
+    id: ck5pxchoir4fq0i11chddjvwz
+    verified: false
+    hashtags: "#makeupartist, #spencerclothingstudio, #predierimoda, #usedcars"
+  - username: "giuse_laguardia"
+    fullname: >-
+      Giuseppe Laguardia
+    bio: >-
+      MENS’FASHION / TRAVEL / DADDY @novamen Ambassador @grams28 Ambassador infogiuselaguardia@gmail.com Turin, IT
+    location: "Italy"
+    followers: 1230259
+    engagement: 148
+    commentsToLikes: 0.030880
+    id: ck0w73s7mbm150i19o5w1emuh
+    verified: false
+    hashtags: "#gentleman, #matching, #inspiration, #trending"
+  - username: "lucialuciano"
+    fullname: >-
+      LUCE ✨
+    bio: >-
+      👩🏼‍🎓 Linguistic Mediator 📍Turin, Italy 🇮🇹🇦🇷 🔎 Cerca 4384U @sheinofficial
+    location: "Italy"
+    followers: 82762
+    engagement: 130
+    commentsToLikes: 0.346016
+    id: ckf5xciyiv6by0j23ra6u6f33
+    verified: false
+    hashtags: "#pubblicit, #loveshein, #sheinofficial, #sheingals"
+  - username: "ireneflame"
+    fullname: >-
+      𝕴𝖗𝖊𝖓𝖊 𝕲𝖆𝖒𝖆𝖗𝖗𝖆 🔥
+    bio: >-
+      Turin, Italy The only real flame
+    location: "Italy"
+    followers: 14445
+    engagement: 444
+    commentsToLikes: 0.036675
+    id: ck9wf7ukbnla40j78hqa6kz44
+    verified: false
+    hashtags: "#followforlike, #curvywoman, #curvyconfidence, #curvygirlfashion"
+  - username: "fabrizioaldobelfiore"
+    fullname: >-
+      ғᴀʙʀɪᴢɪᴏ ᴀʟᴅᴏ
+    bio: >-
+      • Tattoo artist • Owner @inkfab_tattoostudio @inkfab • 📍 Turin, Italy
+    location: "Italy"
+    followers: 244231
+    engagement: 83
+    commentsToLikes: 0.021954
+    id: ck13bszhlx0sl0i19imuyatqb
+    verified: false
+    hashtags: "#menstyle, #menwithclass, #casualstyle, #torinotattoo"
   - username: "rita.cap"
     fullname: >-
       Rita Capparelli
     bio: >-
       Italian based in Turin 🥀deeply in love with aesthetics beauty inquiries: rita@sparkleagency.it @thewom contributor my wardrobe ↴
     location: "Italy"
-    followers: 101850
-    engagement: 425
-    commentsToLikes: 0.006343
+    followers: 124167
+    engagement: 3
+    commentsToLikes: 0.000000
     id: ck138l6upgrut0i19o4hxktfz
     verified: false
-    hashtags: "#thursday, #parisianstyle, #saturday, #friday"
-  - username: "ely_2"
+    hashtags: "#torinotoday, #humor, #saturday, #turin"
+  - username: "pininfarina_official"
     fullname: >-
-      Elisa Chiara ♡
+      Pininfarina
     bio: >-
-      📍Italian girl 🇮🇹 Based in Turin Juventus lover 🏳️🏴 @juventus Nessun colore avrà tinte più forti del bianco e nero #adp10 📩 ely.chiara2@gmail.com
+      Official Instagram account of Italian design house Pininfarina. Design, architecture, bespoke projects Turin | Munich | Shanghai | Miami
     location: "Italy"
-    followers: 35500
-    engagement: 858
-    commentsToLikes: 0.131365
-    id: ck9hb01teesqn0j78wigu0eq5
+    followers: 132228
+    engagement: 33
+    commentsToLikes: 0.011331
+    id: ck0w4oynhzob90i1905u9nhzg
     verified: false
-    hashtags: "#calcio, #bestjuvefan, #juventusgirl, #curvygirl"
+    hashtags: "#pininfarinadesign, #boatlife, #nautical, #electricvehicles"
   - username: "andrea__longo94"
     fullname: >-
       Menfashion | Andrea Longo
@@ -55,76 +127,4 @@ profiles:
     id: ck8t66o44cfip0j787rsra0xs
     verified: false
     hashtags: "#finoallafine, #italy, #milejuve, #iorestoacasa"
-  - username: "elisa_macco"
-    fullname: >-
-      Elisa Macco
-    bio: >-
-      ~Born in Savona 🌅 ~Live in Turin 🌃 ~Collab -> elisamacco1@gmail.com 📷 ~Nobody said it was easy 🌞 #unito #psychology #turin
-    location: "Italy"
-    followers: 4273
-    engagement: 1155
-    commentsToLikes: 0.105870
-    id: ck9wfappso01w0j78eijbuqxj
-    verified: false
-    hashtags: "#turin, #sexy, #newjerseymodel, #portraitstyles"
-  - username: "flo.chiara"
-    fullname: >-
-      Floriana Chiara
-    bio: >-
-      Turin - Italy ✨mi piace condividere momenti della mia vita.... momenti che diventano bellissimi ricordi✨ 👗👙👠 fashion lover
-    location: "Italy"
-    followers: 4966
-    engagement: 848
-    commentsToLikes: 0.148329
-    id: ck5hpvz0ns28k0i11c2w3oapx
-    verified: false
-    hashtags: "#valdorcialife, #collinetoscane, #bikinigirls, #valdorciatour"
-  - username: "aluttoluca"
-    fullname: >-
-      Luca
-    bio: >-
-      📸 Portrait photographer 🇮🇹 Turin - Italy
-    location: "Italy"
-    followers: 33676
-    engagement: 299
-    commentsToLikes: 0.104671
-    id: ck5hhig5b8e7g0i11tx6xulbw
-    verified: false
-    hashtags: "#gallery, #portraitfestival, #bnwp, #portraitsmag"
-  - username: "daniela_roncarolo"
-    fullname: >-
-      Dany ✨ Make-up Artist
-    bio: >-
-      🎨LIFE IMITATES ART🎨. 💄Pro Make-up Artist Certified @mudstudioitalia . 🏷 Fashion-Beauty-Bridal-Sfx 📍Turin. 🧠 Psychology UniTo. 📩 info/collab: email/DM.
-    location: "Italy"
-    followers: 4956
-    engagement: 367
-    commentsToLikes: 0.071698
-    id: ck9hcoc2dmb290j78hcv0t01i
-    verified: false
-    hashtags: "#fluomakeup, #facepainting, #diamondfx, #makeupinspo"
-  - username: "enzo_barrenechea8"
-    fullname: >-
-      Enzo Alan Tomas Barrenechea
-    bio: >-
-      Jugador de @juventus ⚪️⚫️ @adidasfootball 📍Villa Maria - Córdoba 🇦🇷/ Turín - Italia 🇮🇹 N.O.B ❤️🖤
-    location: "Italy"
-    followers: 14744
-    engagement: 2703
-    commentsToLikes: 0.014776
-    id: ckap3i6if33ip0i78i9zvk2u3
-    verified: false
-    hashtags: "#porvosviejito, #forzajuve, #sarmiento, #universitario"
-  - username: "martaviola09"
-    fullname: >-
-      Marta Viola
-    bio: >-
-      11 y.o.| Turin, Italy 🇮🇹📍 La mia passione? Cantare e acconciare🎤💁🏼‍♀️ Jesc 2019-Gliwice Silesia 🦋 Managed by Uncle @teljofficial ❤️
-    location: "Italy"
-    followers: 7385
-    engagement: 1538
-    commentsToLikes: 0.018842
-    id: ck5q9k1nibhxx0i11ile5c95m
-    verified: false
-    hashtags: "#passion, #sing, #sharethejoy, #ioeilportoghese"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fashion TikTok Influencers In Brisbane In 2023
+title: Top 10 Fashion TikTok Influencers In Brisbane In 2024
 description: >-
-  Find top fashion TikTok influencers in Brisbane in 2023. Most popular hashtags: #fyp #brisbane #fashion #australia.
+  Find top fashion TikTok influencers in Brisbane in 2024. Most popular hashtags: #fyp #fashion #brisbane #trending.
 platform: TikTok
-hits: 8
-text_top: Identify the best TikTok influencers on inBeat.
-text_bottom: Our search engine aggregates 8 TikTok influencers like this in Brisbane, Australia for you to pitch.
+hits: 7
+text_top: Discover the best TikTok accounts on inBeat.
+text_bottom: Our database aggregates 7 TikTok influencers like this in Brisbane, Australia for you to collaborate.
 profiles:
   - username: "melgreenwood_83"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.053472
     id: ckavl8jv6uhc00j23km13rv7h
     verified: false
-    hashtags: "#specialneeds, #mymotivation, #inclusion, #colorcustomizer"
+    hashtags: "#specialneeds, #mymotivation, #questions, #poselikeamodel"
   - username: "hysteriastudios"
     fullname: >-
       HYSTERIA STUDIOS
@@ -66,7 +66,7 @@ profiles:
     commentsToLikes: 0.083145
     id: ck9r3vrd2s5xw0j78k738mvkd
     verified: false
-    hashtags: "#momlife, #homedecor, #ladies, #wife"
+    hashtags: "#tiktoktips, #foryoupage, #mumsontiktok, #relatable"
   - username: "kosti.sistas"
     fullname: >-
       kita & doo
@@ -90,19 +90,7 @@ profiles:
     commentsToLikes: 0.042272
     id: ck8farqus4mkt0j785qqk209v
     verified: false
-    hashtags: "#trending, #fyp, #f45, #plussize"
-  - username: "gemmaaa_white"
-    fullname: >-
-      Gemma White
-    bio: >-
-      Just be your weird and wonderful self 💫 Bachelorau S8 🌹 Insta gemmaaa_white
-    location: "Australia"
-    followers: 21000
-    engagement: 361
-    commentsToLikes: 0.064412
-    id: ckal6d30cab7d0i78fpyb57x1
-    verified: false
-    hashtags: "#propertymanager, #realestateagent, #fyp, #foryoupage"
+    hashtags: "#workoutroutine, #trending, #plussizeedition, #weightloss"
   - username: "melgreenwood_83"
     fullname: >-
       Melanie G
@@ -114,7 +102,7 @@ profiles:
     commentsToLikes: 0.053472
     id: ckavl8jv6uhc00j23km13rv7h
     verified: false
-    hashtags: "#specialneeds, #mymotivation, #inclusion, #colorcustomizer"
+    hashtags: "#specialneeds, #mymotivation, #questions, #poselikeamodel"
   - username: "natashagallier"
     fullname: >-
       Natasha Gallier
@@ -126,5 +114,17 @@ profiles:
     commentsToLikes: 0.101569
     id: ckbf1tl2eo91j0j23ipuftglm
     verified: false
-    hashtags: "#broome, #honeymoon, #sunset, #friends"
+    hashtags: "#sunset, #broome, #honeymoon, #perthwa"
+  - username: "tonyozkan"
+    fullname: >-
+      Tony
+    bio: >-
+      🇩🇪🇹🇷 - Germany Follow the gram 😉 I love reading, Fashion and positivity :)
+    location: "Australia"
+    followers: 304100
+    engagement: 1603
+    commentsToLikes: 0.025656
+    id: ck8ae5hve9zck0j78l7ykfc74
+    verified: false
+    hashtags: "#fyp, #books, #ke, #booktok"
 ---

@@ -1,12 +1,24 @@
 ---
-title: Top 10 Cosmetics Instagram Influencers In Argentina In 2023
+title: Top 10 Cosmetics Instagram Influencers In Argentina In 2024
 description: >-
-  Find top cosmetics Instagram influencers in Argentina in 2023. Most popular hashtags: #cosmetics #beauty #makeup.
+  Find top cosmetics Instagram influencers in Argentina in 2024. Most popular hashtags: #cosmetics #beauty #fashion.
 platform: Instagram
-hits: 66
-text_top: Analyze the best Instagram profiles on inBeat.
-text_bottom: Our database holds 66 Instagram influencers like this in Argentina for you to connect with.
+hits: 63
+text_top: Discover the best Instagram profiles on inBeat.
+text_bottom: Our platform has 63 Instagram influencers like this in Argentina for you to contact.
 profiles:
+  - username: "ildabejleri"
+    fullname: >-
+      Ilda Bejleri
+    bio: >-
+      •founder @ilspahammam.al “Beauty, Cosmetic & Personal Care, Hammam” •tvhost/sport journalist/producer •t’ka mami yll⭐️•rikthimiidallendysheve•sport
+    location: "Argentina"
+    followers: 412289
+    engagement: 41
+    commentsToLikes: 1.405208
+    id: ck135hmnm1gtr0i192dipvjq7
+    verified: false
+    hashtags: "#eventdesign, #florals, #party, #besojinimetemireve"
   - username: "bassixs"
     fullname: >-
       Sol Bassi 🌴⛸
@@ -31,18 +43,6 @@ profiles:
     id: ck15tr4m5jhqb0i193pb15up7
     verified: false
     hashtags: "#labios, #masterinjector, #fillers, #lips"
-  - username: "ildabejleri"
-    fullname: >-
-      ILDA BEJLERI
-    bio: >-
-      •founder @ilspahammam.al “Beauty, Cosmetic & Personal Care, Hammam” •tvhost/sport journalist/producer/influencer
-    location: "Argentina"
-    followers: 427111
-    engagement: 127
-    commentsToLikes: 0.012533
-    id: ck135hmnm1gtr0i192dipvjq7
-    verified: false
-    hashtags: "#repost, #photooftheday, #holidays, #red"
   - username: "maccosmeticschile"
     fullname: >-
       M·A·C COSMETICS CHILE

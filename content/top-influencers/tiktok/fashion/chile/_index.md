@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fashion TikTok Influencers In Chile In 2023
+title: Top 10 Fashion TikTok Influencers In Chile In 2024
 description: >-
-  Find top fashion TikTok influencers in Chile in 2023. Most popular hashtags: #fashion #chile #moda #outfit.
+  Find top fashion TikTok influencers in Chile in 2024. Most popular hashtags: #fashion #chile #moda #outfit.
 platform: TikTok
 hits: 25
-text_top: Discover the top-rated TikTok influencers on inBeat.
-text_bottom: Our database holds 25 TikTok influencers like this in Chile for you to collaborate.
+text_top: Identify the top-rated TikTok profiles on inBeat.
+text_bottom: Our search engine has 25 TikTok influencers like this in Chile for you to pitch.
 profiles:
   - username: "niki.escobar"
     fullname: >-

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Vegan TikTok Influencers In Berlin In 2023
+title: Top 10 Vegan TikTok Influencers In Berlin In 2024
 description: >-
-  Find top vegan TikTok influencers in Berlin in 2023. Most popular hashtags: #vegan #fy #foryou #comedy.
+  Find top vegan TikTok influencers in Berlin in 2024. Most popular hashtags: #vegan #fy #foryou #comedy.
 platform: TikTok
 hits: 9
-text_top: See the most popular TikTok accounts on inBeat.
-text_bottom: Our platform holds 9 TikTok influencers like this in Berlin, Germany for you to work with.
+text_top: Discover the best TikTok accounts on inBeat.
+text_bottom: inBeat has 9 TikTok influencers like this in Berlin, Germany for you to work with.
 profiles:
   - username: "dancertascha"
     fullname: >-
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.018617
     id: ck9bx5lcimcxk0j780c982j40
     verified: true
-    hashtags: "#tiktoknews, #tiktokhistory, #nikoultras, #prank"
+    hashtags: "#prank, #tiktokhistory, #tiktokschule, #tiktoknews"
   - username: "fabiangrischkat"
     fullname: >-
       Fabian
@@ -54,7 +54,7 @@ profiles:
     commentsToLikes: 0.008168
     id: ckbkqmamckzhl0j23qrvn2748
     verified: true
-    hashtags: "#foryoupage, #fy, #foryou, #fyp"
+    hashtags: "#foryou, #fy, #comedy, #fyp"
   - username: "mariaclaragroppler"
     fullname: >-
       mariaclaragroppler
@@ -66,7 +66,7 @@ profiles:
     commentsToLikes: 0.008030
     id: ck9gpc41v4gva0j78fbfmb6yg
     verified: false
-    hashtags: "#foryou, #comedy, #fy, #funny"
+    hashtags: "#fyp, #sketch, #mariaclaragroppler, #schule"
   - username: "ich"
     fullname: >-
       ich
@@ -90,7 +90,7 @@ profiles:
     commentsToLikes: 0.015231
     id: ckd5of49hx0vo0j23l3klci97
     verified: false
-    hashtags: "#shorthair, #foryou, #veganfood, #fy"
+    hashtags: "#veganfood, #shorthair, #fy, #vegan"
   - username: "spatzemitsoos"
     fullname: >-
       Spatzemitsoos
@@ -102,7 +102,7 @@ profiles:
     commentsToLikes: 0.030347
     id: ckbqhu5ly33lq0j23zlztuxpd
     verified: false
-    hashtags: "#lernenmittiktok, #fyfyfyfyfyfy, #dialekt, #schw"
+    hashtags: "#fy, #badenw, #teiledeinwissen, #viral"
   - username: "marcbaechtold"
     fullname: >-
       marcbaechtold

@@ -1,12 +1,60 @@
 ---
-title: Top 10 Vegan Instagram Influencers In Poland In 2023
+title: Top 10 Vegan Instagram Influencers In Poland In 2024
 description: >-
-  Find top vegan Instagram influencers in Poland in 2023. Most popular hashtags: #polskadziewczyna #polishgirl #fashion.
+  Find top vegan Instagram influencers in Poland in 2024. Most popular hashtags: #vegan #wsp #weganizm.
 platform: Instagram
-hits: 276
-text_top: Discover the best Instagram influencers on inBeat.
-text_bottom: Our search engine has 276 Instagram influencers like this in Poland for you to connect with.
+hits: 268
+text_top: Identify the most popular Instagram profiles on inBeat.
+text_bottom: Our search engine holds 268 Instagram influencers like this in Poland for you to work with.
 profiles:
+  - username: "alisatsitseronova"
+    fullname: >-
+      Alisa Tsitseronova
+    bio: >-
+      Dancer, Choreographer | Vegan for the animals🌱 📍Tallinn, Estonia Booking&collabs: alisatsitseronova@gmail.com @vegaliciousfoods cooking account👩🏻‍🍳
+    location: "Poland"
+    followers: 122619
+    engagement: 337
+    commentsToLikes: 0.012918
+    id: ck0vvexfoou220i19st6jqnry
+    verified: false
+    hashtags: "#alisaandjoseph, #choreography, #alisatsitseronova, #jlo"
+  - username: "wegannerdblog"
+    fullname: >-
+      Alicja Rokicka
+    bio: >-
+      kuchara🍴vegan for the animals Ambasadorka focacci w Polsce. Współpraca: 📩 vegannerd.blog@gmail.com
+    location: "Poland"
+    followers: 95665
+    engagement: 124
+    commentsToLikes: 0.026925
+    id: ck5cbt8dkg49d0i113y40l6zt
+    verified: false
+    hashtags: "#eat, #gotowanie, #wsp, #healthyfood"
+  - username: "karolinapilarczyk"
+    fullname: >-
+      Karolina Pilarczyk Drift 🥇
+    bio: >-
+      👉 Drift videos, drift projects 👉 Healthy lifestyle, fitness, vegan 💚 🏆 Professional drift driver, Multiple Champion 📩 management@pilarczyk.pl
+    location: "Poland"
+    followers: 172019
+    engagement: 44
+    commentsToLikes: 0.089532
+    id: ck13cogbg1dek0i19ut9hpgdn
+    verified: true
+    hashtags: "#carlover, #drifting, #kierowca, #roadsafety"
+  - username: "lightslacquer"
+    fullname: >-
+      Lights Lacquer
+    bio: >-
+      Vegan & Cruelty-Free Lacquers Nail Polish, Jelly Balms & Press Ons Create your color story #athomeartist
+    location: "Poland"
+    followers: 309301
+    engagement: 86
+    commentsToLikes: 0.041710
+    id: ck5c9dm42b8og0i11cupgektf
+    verified: false
+    hashtags: "#veganpolish, #nailvids, #nailartist, #trendynails"
   - username: "hadar.shamir"
     fullname: >-
       Hadar Shamir 🦋
@@ -31,18 +79,6 @@ profiles:
     id: ck5hittksfcn50i11rcws19hl
     verified: false
     hashtags: "#love, #charytatywnie, #zosta, #staycalm"
-  - username: "oleleeeee"
-    fullname: >-
-      Aleksandra
-    bio: >-
-      Aleksandra & Maja 🇵🇱 🇬🇧 Aleksandrakapcia94@gmail.com #animallover 🐾 #vegan 🌱
-    location: "Poland"
-    followers: 14548
-    engagement: 597
-    commentsToLikes: 0.049429
-    id: ck0w6poqc9pq30i19n3ucrzw4
-    verified: false
-    hashtags: "#fashionstyles2me, #bedemama, #modnisia, #mama"
   - username: "olivia_funky_"
     fullname: >-
       Olivia 🌙
@@ -55,18 +91,6 @@ profiles:
     id: ck13a11hjo38q0i199333oq86
     verified: false
     hashtags: "#trainingmotivation, #stretching, #stretchingexercises, #zakynthos"
-  - username: "pomalomani"
-    fullname: >-
-      Ewa
-    bio: >-
-      personal style & beauty • vintage soul • warm minimalism • cloud head • vegan food lover • pomalomanicontact@gmail.com
-    location: "Poland"
-    followers: 11837
-    engagement: 299
-    commentsToLikes: 0.165659
-    id: ck5chxwlyrnju0i114g961p12
-    verified: false
-    hashtags: "#livestyleblogs, #vintageoutfit, #parisianchic, #postwarart"
   - username: "helena_kulma"
     fullname: >-
       Helena Nel Kulma
@@ -91,30 +115,6 @@ profiles:
     id: ck5zx2el877sm0i14a7rmuq9r
     verified: false
     hashtags: "#konceptpr, #skorawrazliwa, #suchask, #kosmetyki"
-  - username: "angelajuraszek"
-    fullname: >-
-      Angela Juraszek
-    bio: >-
-      Wrocław 📍 💄𝕄𝕒𝕜𝕖'𝕦𝕡 𝕒𝕣𝕥𝕚𝕤𝕥 @angelikajuraszek_makeupartist 🌱Vegan business owner
-    location: "Poland"
-    followers: 86691
-    engagement: 112
-    commentsToLikes: 0.026283
-    id: ck5c4f0ol17p80i115x1g2c4s
-    verified: false
-    hashtags: "#girl, #kobieta, #fight, #szcz"
-  - username: "blanka_duczkowska"
-    fullname: >-
-      Blanka Duczkowska
-    bio: >-
-      Arbonne Executive Area Manager Vegan business owner🌿 SGH Warsaw School of Economics 👩🏼‍🎓
-    location: "Poland"
-    followers: 25524
-    engagement: 500
-    commentsToLikes: 0.009931
-    id: ck5q9yntydo830i11zwwp2tey
-    verified: false
-    hashtags: "#veganskincare, #tb, #nailsinspiration, #perfectplace"
   - username: "juszes"
     fullname: >-
       Justyna Żak

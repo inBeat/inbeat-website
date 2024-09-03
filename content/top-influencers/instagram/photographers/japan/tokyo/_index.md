@@ -1,11 +1,11 @@
 ---
-title: Top 10 Photographers Instagram Influencers In Tokyo In 2023
+title: Top 10 Photographers Instagram Influencers In Tokyo In 2024
 description: >-
-  Find top photographers Instagram influencers in Tokyo in 2023. Most popular hashtags: #pr #sony #hyattcentrickanazawa.
+  Find top photographers Instagram influencers in Tokyo in 2024. Most popular hashtags: #sony #pr #hyattcentrickanazawa.
 platform: Instagram
-hits: 90
-text_top: See the most popular Instagram profiles on inBeat.
-text_bottom: inBeat aggregates 90 Instagram influencers like this in Tokyo, Japan for you to pitch.
+hits: 98
+text_top: Identify the top-rated Instagram influencers on inBeat.
+text_bottom: inBeat has 98 Instagram influencers like this in Tokyo, Japan for you to pitch.
 profiles:
   - username: "takerukohara_sono1"
     fullname: >-

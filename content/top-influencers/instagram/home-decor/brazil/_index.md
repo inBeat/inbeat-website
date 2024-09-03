@@ -1,24 +1,24 @@
 ---
-title: Top 10 Home Decor Instagram Influencers In Brazil In 2023
+title: Top 10 Home Decor Instagram Influencers In Brazil In 2024
 description: >-
-  Find top home decor Instagram influencers in Brazil in 2023. Most popular hashtags: #homedecor #decora #decor #designdeinteriores.
+  Find top home decor Instagram influencers in Brazil in 2024. Most popular hashtags: #decora #homedecor #decor #decoracaocriativa.
 platform: Instagram
-hits: 404
-text_top: Discover the top-rated Instagram influencers on inBeat.
-text_bottom: Our platform aggregates 404 Instagram influencers like this in Brazil for you to collaborate.
+hits: 394
+text_top: Identify the best Instagram accounts on inBeat.
+text_bottom: Our platform aggregates 394 Instagram influencers like this in Brazil for you to work with.
 profiles:
   - username: "stella_thayzer"
     fullname: >-
       stella thayzer
     bio: >-
-      Lifestyle | Travel | Nature | Dicas Graduanda em Nutrição🍎 5/8 Empreendedora @stella_homedecor 🏡 De @portodegalinhas 🌊
+      Graduanda em Nutrição 6/8 Empreendedora digital 📈💻 Mãe de 👬 Ceo: @stella_homedecor De @portodegalinhas
     location: "Brazil"
-    followers: 19411
-    engagement: 323
-    commentsToLikes: 0.157933
+    followers: 19913
+    engagement: 220
+    commentsToLikes: 0.126329
     id: ck15t7cyjgotj0i19j2c97cgb
     verified: false
-    hashtags: "#positividade, #fitness, #vibes, #fitnessgirl"
+    hashtags: "#positividade, #viajar, #pernambuco, #beach"
   - username: "nossabellacasa"
     fullname: >-
       𝙽𝚘𝚜𝚜𝚊 𝙱𝚎𝚕𝚕𝚊 𝙲𝚊𝚜𝚊
@@ -55,76 +55,76 @@ profiles:
     id: ckap4wtp698o90i78o7x4gya6
     verified: false
     hashtags: "#instadecor, #decoracaoafetiva, #inspiracao, #instahouse"
-  - username: "mulhermoderninha"
+  - username: "ericaangels"
     fullname: >-
-      Roberta - Lar Mulhermoderninha
+      Erica Anjos
     bio: >-
-      🎀Nossa casinha simples🎀 🏡 Rotinas de casa|Família 📝 Dicas/Universo feminino 🍴 Comidinhas 🌱Plantas 📬 RJ
+      Reformas e decoração baixo custo Inscreva-se no YouTube ⬇️
     location: "Brazil"
-    followers: 82627
-    engagement: 90
-    commentsToLikes: 0.231240
-    id: ckaovmuvf59dh0i78lrvziz6e
+    followers: 317633
+    engagement: 427
+    commentsToLikes: 0.217217
+    id: ck9hc99kjkcp10j78fpjxb21o
     verified: false
-    hashtags: "#lardocelar, #reelsviral, #cozinha, #amomeular"
-  - username: "karol.bianchi"
+    hashtags: "#explore, #diy, #deco, #decora"
+  - username: "gavetamix"
     fullname: >-
-      Carol Bianchi
+      Rayssa Soares | diy • decor • design
     bio: >-
-      📍Santos, SP
+      🤍 com suas mãos, faça a sua casa ser o melhor lugar do mundo 💌gavetamix@gmail.com 📍João Pessoa-PB
     location: "Brazil"
-    followers: 6973
-    engagement: 1132
-    commentsToLikes: 0.128077
-    id: ck13cli990xh00i1944yv5ymg
+    followers: 333373
+    engagement: 360
+    commentsToLikes: 0.028746
+    id: ck9habwqdbyil0j78an1ujszn
     verified: false
-    hashtags: "#apto, #decora, #santos013, #baixadasantista"
-  - username: "_mateusdepaula"
+    hashtags: "#diy, #decora, #decor, #decoracao"
+  - username: "dressacarolinne"
     fullname: >-
-      Mateus de Paula
+      Andressa Carolinne
     bio: >-
-      GRU +55 11 Criador de Arte Mais ilustrações e trabalhos: @depaula_art Desapegos: @brechonizou 🛍 Encomendas de customização no direct!
+      🌈 Criatividade e decoração acessível 🌟 +700k no YOUTUBE 💌 Caixa Postal 2 | CEP: 75780-000 | Ipameri-GO ✉️ dessa_carolinne@hotmail.com ⤵
     location: "Brazil"
-    followers: 14076
-    engagement: 910
-    commentsToLikes: 0.056408
-    id: ckap7qa0cl39a0i78uafv5zbt
+    followers: 1862321
+    engagement: 890
+    commentsToLikes: 0.017332
+    id: ck0u8sjy087kc0i191l5tb23r
     verified: false
-    hashtags: "#design, #weekend, #moda, #daily"
-  - username: "maternidade_realtri"
+    hashtags: "#homedecor, #diy, #passoapasso, #decoracaocriativa"
+  - username: "meu_lar_meu_cantinho"
     fullname: >-
-      Trycia Emanuelle
+      Veridiana Freitas
     bio: >-
-      @acessoria_tryciaemilly Modelo de moda e make Digital influencer Maternidade real Casa, decoração e diy Mãe da @babyemillysouza / Casada Youtuber 👇🏻
+      Vivendo e compartilhando a realidade 📲 Mãe de dois 👩‍👧‍👦 Lifestyle | Receitas | Dicas 🌟 CONTATO: assessoria@eskutaki.com Parcerias 👇
     location: "Brazil"
-    followers: 95171
-    engagement: 46
-    commentsToLikes: 0.144965
-    id: ck1380oe6dxge0i19lcafygzm
+    followers: 176527
+    engagement: 278
+    commentsToLikes: 0.196254
+    id: ck8t9aiqxnei50j78vwlz79uj
     verified: false
-    hashtags: "#diy, #lookdodia, #ruivas, #contagem"
-  - username: "gabrielamarkus"
+    hashtags: "#meularminhapaz, #armariosplanejados, #armarios, #almo"
+  - username: "karinacaxeiro"
     fullname: >-
-      Gabi Markus
+      • Kah Caxeiro •
     bio: >-
-      model . fashion . beauty . travel Miss Brasil 2012 . Top 5 Miss Universo contatogabimarkus@gmail.com 📍Porto Alegre/RS
+      • Uma carioca compartilhando Dicas de Home Decor - Receitas - Diy - Viagens! 📍Niterói-RJ 💌karinacaxeiro@gmail.com
     location: "Brazil"
-    followers: 48162
-    engagement: 110
-    commentsToLikes: 0.045710
-    id: ck1383minec9o0i19qvomb68o
-    verified: true
-    hashtags: "#makeup, #homedecor, #gabimarkus, #manga"
-  - username: "casinha04"
-    fullname: >-
-      Tatiana Faria
-    bio: >-
-      👪 Esposa e Mãe 🥼 Fisioterapeuta Intensivista 💡 Decor 🌸 Vida Real 🛍 Casinha, Dicas, Achadinhos e Comprinhas . 📍 Niterói, RJ
-    location: "Brazil"
-    followers: 19279
-    engagement: 875
-    commentsToLikes: 0.098488
-    id: ck8t5dv0e9svc0j78e2vgvuhk
+    followers: 152586
+    engagement: 267
+    commentsToLikes: 0.080843
+    id: ck14jh12gkax30i196q75b9l4
     verified: false
-    hashtags: "#design, #designdeinteriores, #instahome, #rosegold"
+    hashtags: "#blogueiradolar, #lardocelar, #saladeestar, #meularmelhorlugar"
+  - username: "eufiztufaz"
+    fullname: >-
+      EU FIZ TU FAZ POR MARCIA VIEIRA
+    bio: >-
+      💡DIY - DECORAÇÃO ACESSÍVEL E MUITA INSPIRAÇÃO! 📍SP 📩 parceria.eufiztufaz@gmail.com
+    location: "Brazil"
+    followers: 292343
+    engagement: 187
+    commentsToLikes: 0.040652
+    id: clq9hyrnn72yx0k08da02vogo
+    verified: false
+    hashtags: "#manualidades, #reutiliza, #fa, #diydecor"
 ---

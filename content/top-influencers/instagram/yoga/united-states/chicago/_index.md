@@ -1,11 +1,11 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Chicago In 2023
+title: Top 10 Yoga Instagram Influencers In Chicago In 2024
 description: >-
-  Find top yoga Instagram influencers in Chicago in 2023. Most popular hashtags: #yoga #chicago #sunset #chicagomodel.
+  Find top yoga Instagram influencers in Chicago in 2024. Most popular hashtags: #chicago #yoga #chicagoblogger #chicagofitness.
 platform: Instagram
-hits: 35
-text_top: Identify the top-rated Instagram profiles on inBeat.
-text_bottom: inBeat aggregates 35 Instagram influencers like this in Chicago, United States for you to connect with.
+hits: 42
+text_top: Identify the best Instagram accounts on inBeat.
+text_bottom: Our database holds 42 Instagram influencers like this in Chicago, United States for you to connect with.
 profiles:
   - username: "maria.koche"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.072883
     id: ck15qs12r4ct40i190sexxn5p
     verified: false
-    hashtags: "#chicagoyoga, #activeflexibility, #flexible, #chicago"
+    hashtags: "#chicagofitness, #chicago, #flexibility, #chicagofit"
   - username: "kelseyfank"
     fullname: >-
       Kelsey Fankhauser ♡
@@ -31,18 +31,18 @@ profiles:
     id: ck5q1dtzaaikw0i11xzbo8me1
     verified: false
     hashtags: "#chicagoblogger, #chiinfluencer, #socialitemedia, #chitown"
-  - username: "marvelousinthemidwest"
+  - username: "bakedbrie__"
     fullname: >-
-      CARA ♥︎ Chicago Blogger
+      Baked Brie | Chicago foodie
     bio: >-
-      Lifestyle ✿ Fashion ✿ Travel ✿ Mommy & Me 📍Chicago 💍Wife & Mom to 👶🏼🐶 💌: marvelousinthemidwest@gmail.com 🛍Shop ⬇️ Liketoknow.it/marvelousinthemidwest
+      Life is grate 🧀 Bri 🙋🏼‍♀️ Chicago 📍🏙 All photos by me📸
     location: "United States"
-    followers: 54460
-    engagement: 127
-    commentsToLikes: 0.073044
-    id: ck0vx7lhmxjlj0i1955h5o41b
+    followers: 6490
+    engagement: 615
+    commentsToLikes: 0.242486
+    id: ckap1bz68txgb0i784xnfqml2
     verified: false
-    hashtags: "#rdbabe, #ootd, #ltkbaby, #chicagoblogger"
+    hashtags: "#ad, #likefoodchicago, #chicagopatio, #foodgram"
   - username: "realsircruse"
     fullname: >-
       Sir Cruse
@@ -55,30 +55,30 @@ profiles:
     id: ck5c6ejz359yd0i11zgy9b3lo
     verified: false
     hashtags: "#waves, #chicagomua, #motivation, #curlybeauties"
-  - username: "futureteller"
+  - username: "venezuelanvixen"
     fullname: >-
-      gifford kasen
+      Julianna Peña
     bio: >-
-      @logansquaretattoo Chicago @bornweird_tattoo Boise sept28-oct1st Futuretellerart@gmail.com
+      I fight @ufc ✝️▪️🦸🏽‍♀️▪️👩‍👧▪️🫚▪️ 🪶▪️🇺🇸▪️🇲🇽▪️🇻🇪 #firstever #tufchamp #momchamp #tuf18 #509
     location: "United States"
-    followers: 24841
-    engagement: 82
-    commentsToLikes: 0.017116
-    id: ck15u2qtll5000i19gpgx1tp1
-    verified: false
-    hashtags: "#blackandgrey, #boise, #futureteller, #biomech"
-  - username: "lvnstudio"
+    followers: 574690
+    engagement: 88
+    commentsToLikes: 0.027139
+    id: ckaoszsqgtql90i78bu7qtzlh
+    verified: true
+    hashtags: "#pillowcube, #leoseason, #yoga, #alinea"
+  - username: "whitemysteryband"
     fullname: >-
-      LVN Studio
+      WHITE MYSTERY
     bio: >-
-      This is Diego 😁📸 🔴 Youtube: The LVN Crew 📸 Founder of @portrait_trends 🙋🏻‍♂️Personal @dieegoedu 📩 Email to book a 📸 Tutorials Discounted 👇🏼
+      Rock’n’roll since 2008
     location: "United States"
-    followers: 242528
-    engagement: 650
-    commentsToLikes: 0.014861
-    id: ck138zsomitq20i19qmylb181
+    followers: 10213
+    engagement: 463
+    commentsToLikes: 0.047357
+    id: ckrz47mvnb9q80j238m4uannn
     verified: false
-    hashtags: "#portrait, #ocfportraits, #reelsinstagram, #ourportraitdays"
+    hashtags: "#whitemystery, #dj, #chicago, #wildfang"
   - username: "merediddys"
     fullname: >-
       Meredith Stepien
@@ -91,40 +91,40 @@ profiles:
     id: ck0vuvfr9mcde0i19okhp01rq
     verified: true
     hashtags: "#vhschristmascarol, #snow, #sunset, #morning"
-  - username: "majer_eddie"
+  - username: "lisettejyoga"
     fullname: >-
-      Eddie Ryan
+      Lissy
     bio: >-
-      From Chicago living in Edinburg Texas. Life is good 👇 YouTube
+      Yoga/Lifestyle 🇬🇾🧘🏾‍♀️ 👗 ft in @chicagofire_nbc & @yogajournal in2015 GoPro, Sony a6300 Nikon D3300 📍Illinois Collabs 👉🏾 💌:lisettejyoga@gmail.com
     location: "United States"
-    followers: 14927
-    engagement: 243
-    commentsToLikes: 0.044600
-    id: ck5c5susd43a10i11o8u1tci4
+    followers: 49539
+    engagement: 424
+    commentsToLikes: 0.038176
+    id: ck0w1notik8dv0i19u6ae0ogn
     verified: false
-    hashtags: "#skatelife, #dklgriptape, #skateboardingisfun, #vans"
-  - username: "noellereidmd"
+    hashtags: "#summer, #sponsored, #chicago, #sunday"
+  - username: "marinasqu"
     fullname: >-
-      Noelle Reid MD
+      Marina Squerciati
     bio: >-
-      Owner-Trinity Health & Wellness/Board Certified Family Med/Yoga-CYT/Media Health Expert as seen on FOX/ABC/GMA/BRAVO/ MD consult @celltrient
+      Oh, hello. - Kim Burgess on NBC's Chicago PD.
     location: "United States"
-    followers: 33346
-    engagement: 177
-    commentsToLikes: 0.071195
-    id: ck5hsi74jwn3j0i11db77cwdh
+    followers: 828129
+    engagement: 727
+    commentsToLikes: 0.011385
+    id: ck0u7eb4x4mg90i196kg8gr5y
     verified: true
-    hashtags: "#letsgo, #health, #wellnessjourney, #cellularhealth"
-  - username: "minafakouhi"
+    hashtags: "#burzek, #onechicago, #cpd, #chihards"
+  - username: "futureteller"
     fullname: >-
-      مینا‎
+      gifford kasen
     bio: >-
-      ≗ mover of mind & bodies ≋ sound bath experiences ⋒ based in chicago
+      Artist/owner @logansquaretattoo Chicago Sponsored by @jconly_official
     location: "United States"
-    followers: 5103
-    engagement: 425
-    commentsToLikes: 0.087583
-    id: ck5q3quxam05d0i11ohu2exi9
+    followers: 30802
+    engagement: 59
+    commentsToLikes: 0.014818
+    id: ck15u2qtll5000i19gpgx1tp1
     verified: false
-    hashtags: "#meditation, #chicagoyoga, #mindfulness, #mindset"
+    hashtags: "#futureteller, #mech, #tattoo, #floraltattoo"
 ---

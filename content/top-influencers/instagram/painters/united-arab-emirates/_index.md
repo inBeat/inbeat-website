@@ -1,12 +1,24 @@
 ---
-title: Top 10 Painters Instagram Influencers In United Arab Emirates In 2023
+title: Top 10 Painters Instagram Influencers In United Arab Emirates In 2024
 description: >-
-  Find top painters Instagram influencers in United Arab Emirates in 2023. Most popular hashtags: #fashionstyle #fashion #dubailife #dubai.
+  Find top painters Instagram influencers in United Arab Emirates in 2024. Most popular hashtags: #dubai #love #dubailife #fashion.
 platform: Instagram
-hits: 10
-text_top: See the most popular Instagram profiles on inBeat.
-text_bottom: Our search engine has 10 Instagram influencers like this in United Arab Emirates for you to pitch.
+hits: 12
+text_top: Discover the top-rated Instagram accounts on inBeat.
+text_bottom: Our platform holds 12 Instagram influencers like this in United Arab Emirates for you to connect with.
 profiles:
+  - username: "raqeshbapat"
+    fullname: >-
+      Raqesh Bapat
+    bio: >-
+      Actor | Painter | Sculptor | Producer 🎨🎭 . For business query : teamraqesh@gmail.com info@reliablemedia.in
+    location: "United Arab Emirates"
+    followers: 1266137
+    engagement: 28
+    commentsToLikes: 0.007358
+    id: ck137p0brcncg0i19y8qds7g5
+    verified: true
+    hashtags: "#ganpatibappamorya, #reels, #raqart, #raqeshbapat"
   - username: "4x_was"
     fullname: >-
       وسيم شيبان
@@ -19,6 +31,54 @@ profiles:
     id: ckf5tt1l5ioqm0j23phbpk3x9
     verified: false
     hashtags: "#beach, #jeddah, #mood, #ksa"
+  - username: "shahulart"
+    fullname: >-
+      Shahul Hameed
+    bio: >-
+      "Creating vibrant spaces that inspire." Founder #ShahulArt Gallery 📍Dubai ✉️mail@shahulart.com
+    location: "United Arab Emirates"
+    followers: 260041
+    engagement: 1074
+    commentsToLikes: 0.012491
+    id: ck6uch38kfkiq0j71kf3jcypy
+    verified: false
+    hashtags: "#walldecor, #dubaiarchitecture, #graffitidubai, #procreate"
+  - username: "shafiasohail"
+    fullname: >-
+      Shafia
+    bio: >-
+      Bridal Makeup Artist✨💄 ❕Open for Bridal, Party Booking 2023-2024 DM for booking/ Enquiries Owner @m.s.a_boutique @shafiasohail2.0
+    location: "United Arab Emirates"
+    followers: 5303
+    engagement: 336
+    commentsToLikes: 0.106325
+    id: ck5qcheprqkzh0i118pk5pim1
+    verified: false
+    hashtags: "#blackandgold, #jewelryindubai, #eidready, #tiktoktrends"
+  - username: "noitsmarie"
+    fullname: >-
+      model | content creator | ugc dubai
+    bio: >-
+      Marie Shkapenko🇺🇦 based in Dubai Middle East mgmt: @imaginaryfriendsdxb моя е-книга «Секрети розвитку ig сторінки»👇🏼
+    location: "United Arab Emirates"
+    followers: 140485
+    engagement: 8
+    commentsToLikes: 0.071565
+    id: ck5c5cm1637lu0i11phoaa6fh
+    verified: false
+    hashtags: "#aesthetic, #pinterestaesthetic, #pinterestgirl, #pinterestinspired"
+  - username: "joyfulhomecooking"
+    fullname: >-
+      Joyce Mrad
+    bio: >-
+      👩🏻‍🍳Passionate self-taught cook 🍰Food architect creating edible masterpieces ✨Infusing joy into every creation 📷Food Stylist & Photographer 📍Dubai
+    location: "United Arab Emirates"
+    followers: 408508
+    engagement: 1362
+    commentsToLikes: 0.042162
+    id: ck138wefhicbv0i19f898cdo1
+    verified: false
+    hashtags: "#pastry, #healthydessert, #recipe, #plantpower"
   - username: "sylvia.voyages"
     fullname: >-
       Travel & Baby • Inspiration
@@ -30,31 +90,7 @@ profiles:
     commentsToLikes: 0.091689
     id: ck9hcg0phl7lo0j780loc4uau
     verified: false
-    hashtags: "#covidtravel, #instamama, #podrozezdzieckiem, #miejscawpolsce"
-  - username: "betty_b24"
-    fullname: >-
-      Betty_b24
-    bio: >-
-      ▪️Poland🇵🇱▪️Dubai🇦🇪 ▪️Fashion🛍▪️Me👩🏻 ▪️Be yourself nobody can be you.
-    location: "United Arab Emirates"
-    followers: 64517
-    engagement: 240
-    commentsToLikes: 0.114195
-    id: ck8t60mzsbtzb0j78oydz7jk3
-    verified: false
-    hashtags: "#polishgirl, #top, #rajstopy, #legs"
-  - username: "raha_shahhatami"
-    fullname: >-
-      RAHA | رهــا
-    bio: >-
-      Lifestyle | Beauty | Fashion • Welcome to My World 🌎 📍Dubai
-    location: "United Arab Emirates"
-    followers: 69000
-    engagement: 455
-    commentsToLikes: 0.053782
-    id: ck5zlkz5pkyou0i14i1ejxryo
-    verified: false
-    hashtags: "#valentine, #lifestyleblogger, #beautymakeup, #redroses"
+    hashtags: "#podrozepopolsce, #mamaic, #travelingwithkids, #travel"
   - username: "kimberlyellie"
     fullname: >-
       Kimberly Ellie ❥
@@ -91,40 +127,4 @@ profiles:
     id: ck15r47yk62d80i192twk4gxn
     verified: false
     hashtags: "#red, #keraladiaries, #followforfollowback, #love"
-  - username: "tahera.fatimaa"
-    fullname: >-
-      Tahera Fatima | Blogger
-    bio: >-
-      Self Love & Kindess🌻• Fashion•Beauty•Lifestyle•Food BBA Grad👩🏻‍🎓•Twin @abida.fatimaa 👯‍♂️ 📍Hyderabad,India🇮🇳• 📩Fatimatahera14@gmail.com •DM
-    location: "United Arab Emirates"
-    followers: 10283
-    engagement: 651
-    commentsToLikes: 0.134834
-    id: ck15uurweolxt0i19qb3qjxmj
-    verified: false
-    hashtags: "#girls, #indianwedding, #instagood, #instagram"
-  - username: "yaaqoub_y_alhosani"
-    fullname: >-
-      (Official)يعقوب الحوسني
-    bio: >-
-      #UAE#🇦🇪 #classiccar#collector ,#buycar & #salecars . #اماراتي#🇦🇪 محترف من #هواة #اقتناء #تجديد#السيارات_الكلاسيكية ،#بيع_سيارات و#شراء_سيارات .
-    location: "United Arab Emirates"
-    followers: 24842
-    engagement: 197
-    commentsToLikes: 0.014328
-    id: ckf5puama7bbv0j23i1m2itze
-    verified: false
-    hashtags: "#nissan, #v8, #australia, #carburetor"
-  - username: "alberto_makeup"
-    fullname: >-
-      ▫️A L B E R T O▫️
-    bio: >-
-      ▪️Pro Makeup Artist @makeupforevermea ▪️painter ▪️illustrator ▪️Lifestyle/ Food Addict ▪️Travel Addict 🇦🇪 DUBAI 🇦🇪❤️
-    location: "United Arab Emirates"
-    followers: 53642
-    engagement: 197
-    commentsToLikes: 0.162384
-    id: ck6u4dcr3338e0j71jyuqag7e
-    verified: false
-    hashtags: "#valentines, #makeup, #christmas, #diafa"
 ---

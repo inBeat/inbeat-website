@@ -1,24 +1,24 @@
 ---
-title: Top 10 Travel TikTok Influencers In New York In 2023
+title: Top 10 Travel TikTok Influencers In New York In 2024
 description: >-
-  Find top travel TikTok influencers in New York in 2023. Most popular hashtags: #travel #nyc #fyp #newyork.
+  Find top travel TikTok influencers in New York in 2024. Most popular hashtags: #travel #fyp #newyork #nyc.
 platform: TikTok
-hits: 215
-text_top: See the most popular TikTok influencers on inBeat.
-text_bottom: Our platform has 215 TikTok influencers like this in New York, United States for you to work with.
+hits: 217
+text_top: Discover the most popular TikTok influencers on inBeat.
+text_bottom: Our database has 217 TikTok influencers like this in New York, United States for you to connect with.
 profiles:
-  - username: "sarhodgson"
+  - username: "brit_joli"
     fullname: >-
-      Sarah Hodgson
+      Brittany
     bio: >-
-      nyc co-host of @cryinginpublicpodcast ig: @sar.hodgson
+      Down to clown Yo Perreo Sola Venmo @Brit_joli
     location: "United States"
-    followers: 195200
-    engagement: 1239
-    commentsToLikes: 0.012266
-    id: ckd6gsbyx93qz0j23gtzk71z2
+    followers: 2881
+    engagement: 1774
+    commentsToLikes: 0.177344
+    id: ckb9ffv9o3vi70j23h0fb8tmn
     verified: false
-    hashtags: "#drinks, #viral, #eat, #view"
+    hashtags: "#summer2020, #friends, #xyzbca, #lol"
   - username: "lorilynng"
     fullname: >-
       Lori Lynn
@@ -31,6 +31,30 @@ profiles:
     id: ckbff5cf59pd10j23uj01mvjp
     verified: false
     hashtags: "#love, #shorkie, #puppy, #georgia"
+  - username: "giselle.ugarte"
+    fullname: >-
+      Giselle Ugarte
+    bio: >-
+      👑 Top Speaker & Coach 🤓 No BS Strategy & Motivation 👇🏽 LIVE Coaching
+    location: "United States"
+    followers: 127400
+    engagement: 1038
+    commentsToLikes: 0.086358
+    id: ck80ooev6irnb0j78blwajr10
+    verified: true
+    hashtags: "#niche, #stitch, #khloekardashian, #entrepreneurtips"
+  - username: "aperina"
+    fullname: >-
+      Aperina Studios
+    bio: >-
+      Luxury Wedding Cinematographer & Photographer based out of Northern California.
+    location: "United States"
+    followers: 48900
+    engagement: 843
+    commentsToLikes: 0.007284
+    id: ckav1migd7p7o0j235c3bujrt
+    verified: false
+    hashtags: "#cinematic, #weddingperformance, #weddinggoals, #adorable"
   - username: "sfclimber"
     fullname: >-
       Val
@@ -43,30 +67,6 @@ profiles:
     id: ckd0sst8tj1bq0j23w7skzsw2
     verified: false
     hashtags: "#realestate, #bayarea, #california, #ca"
-  - username: "fashiontravelrepeat"
-    fullname: >-
-      Vicki Rutwind
-    bio: >-
-      NYC 🗽+ AZ 🌵 + Travel Tips Follow puppy @louie_poochon + @influencerguide
-    location: "United States"
-    followers: 39400
-    engagement: 907
-    commentsToLikes: 0.051682
-    id: ck92tyobxjy380j783j9esfdv
-    verified: false
-    hashtags: "#nyc, #nyccoffee, #nyctiktok, #traveltiktok"
-  - username: "gab_nyc"
-    fullname: >-
-      gab
-    bio: >-
-      vlogs ⭑ nyc ⭑ style heygabnyc@gmail.com IG: gabrielavasci
-    location: "United States"
-    followers: 102700
-    engagement: 1014
-    commentsToLikes: 0.011896
-    id: ck94l4ot6xsn90j78eascc1zj
-    verified: false
-    hashtags: "#lovememode, #college, #miami, #travel"
   - username: "ibeezmaryobasi"
     fullname: >-
       Mary Obasi
@@ -90,41 +90,41 @@ profiles:
     commentsToLikes: 0.050482
     id: ck8tpyq36qooc0j78w5vxy8ex
     verified: false
-    hashtags: "#oceanview, #hoteltour, #cenote, #manhattan"
-  - username: "arina_youusedto"
+    hashtags: "#curacao, #mexico, #hotelsandresorts, #nyctravel"
+  - username: "fashiontravelrepeat"
     fullname: >-
-      Arina Bloom💄💋
+      Vicki Rutwind
     bio: >-
-      👠INSTAGRAM: youusedto_💄 ✈️🅲🅰🅱🅸🅽 🅲🆁🅴🆆👩🏻‍✈️ ☁️ᴹᴬᴰᴱ ᴵᴺ ᵁᴷᴿᴬᴵᴺᴱ☁️ NYC🗽
+      NYC 🗽+ AZ 🌵 + Travel Tips Follow puppy @louie_poochon + @influencerguide
     location: "United States"
-    followers: 54400
-    engagement: 798
-    commentsToLikes: 0.015196
-    id: ckbl57qp62p8p0j23urllcso8
+    followers: 39400
+    engagement: 907
+    commentsToLikes: 0.051682
+    id: ck92tyobxjy380j783j9esfdv
     verified: false
-    hashtags: "#viral, #flywithme, #travel, #relationship"
-  - username: "camillasantandrea"
+    hashtags: "#nyclife, #cherryblossom, #hamilton, #travel"
+  - username: "sarhodgson"
     fullname: >-
-      Camilla Santandrea
+      Sarah Hodgson
     bio: >-
-      Everything you see I owe to Spaghetti 🍝 📍 New York City
+      nyc co-host of @cryinginpublicpodcast ig: @sar.hodgson
     location: "United States"
-    followers: 6594
-    engagement: 492
-    commentsToLikes: 0.049488
-    id: cka0o56nn24ys0i78kfrr43nr
+    followers: 195200
+    engagement: 1239
+    commentsToLikes: 0.012266
+    id: ckd6gsbyx93qz0j23gtzk71z2
     verified: false
-    hashtags: "#nature, #love, #dance, #fyp"
-  - username: "emilyxinfinity"
+    hashtags: "#food, #drinks, #bar, #viral"
+  - username: "stevedampman"
     fullname: >-
-      emilyxinfinity
+      stevedampman
     bio: >-
-      25 • nyc
+      Professional Photographer / Philadelphia PA Instagram 20.2k / @stevedampman
     location: "United States"
-    followers: 27000
-    engagement: 1268
-    commentsToLikes: 0.155998
-    id: ckan6djy8jbv70i789gvgf1m0
+    followers: 146000
+    engagement: 1119
+    commentsToLikes: 0.016615
+    id: ck8kgpku4jiyk0j781vrg26x9
     verified: false
-    hashtags: "#nyc, #gangnam, #seoul, #southkorea"
+    hashtags: "#newyork, #travel, #photography101, #fyp"
 ---

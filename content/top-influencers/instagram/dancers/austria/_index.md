@@ -1,36 +1,36 @@
 ---
-title: Top 10 Dancers Instagram Influencers In Austria In 2023
+title: Top 10 Dancers Instagram Influencers In Austria In 2024
 description: >-
-  Find top dancers Instagram influencers in Austria in 2023. Most popular hashtags: #dance #dancer #austria #ballet.
+  Find top dancers Instagram influencers in Austria in 2024. Most popular hashtags: #dancer #dance #austria #ballet.
 platform: Instagram
-hits: 15
-text_top: Discover the most popular Instagram profiles on inBeat.
-text_bottom: Our platform aggregates 15 Instagram influencers like this in Austria for you to connect with.
+hits: 17
+text_top: Identify the most popular Instagram accounts on inBeat.
+text_bottom: Our database holds 17 Instagram influencers like this in Austria for you to connect with.
 profiles:
   - username: "aslalex"
     fullname: >-
       Alex Asl
     bio: >-
-      🇬🇷🇦🇹🇷🇸|Dancer|Self-development|Maslting Business profile: @alexaslbusiness Back again 1 July 2021 My sarcasm is very strong Manager: @marin_maryjane
+      🇬🇷🇦🇹🇷🇸|Dancer|Self-development|Maslting Twitch profile: @alexaslbusiness Back again 1 July 2021 My sarcasm is very strong Manager: @marin_maryjane
     location: "Austria"
-    followers: 2118
-    engagement: 2246
-    commentsToLikes: 0.051362
+    followers: 2052
+    engagement: 2341
+    commentsToLikes: 0.050661
     id: ck6tpdencj8600j7150pa4xlh
     verified: false
-    hashtags: "#syx, #sun, #good, #syxgod"
+    hashtags: "#fotography, #chill, #syxer, #syxgod"
   - username: "tajdakozamelj"
     fullname: >-
       Tajda Kožamelj
     bio: >-
       Professional Dancer • Performer 💃🏻 📍 Slovenia based 📩 tajda.kozamelj@gmail.com
     location: "Austria"
-    followers: 3313
-    engagement: 1106
-    commentsToLikes: 0.064922
+    followers: 3309
+    engagement: 1041
+    commentsToLikes: 0.074016
     id: ck55lnyvb20wb0i11nch3e6x1
     verified: false
-    hashtags: "#goodvibes, #goodtimes, #birthdaygirl, #amazingviews"
+    hashtags: "#amazingtimes, #purplepower, #amazingviews, #likeaboyteam"
   - username: "konovalovaliudmila"
     fullname: >-
       Liudmila Konovalova
@@ -49,36 +49,36 @@ profiles:
     bio: >-
       ▫️Principal dancer of the Vienna State Opera ▫️Erster Solotänzer der Wiener Staatsoper ▫️Ведущий Солист Венской государственной оперы
     location: "Austria"
-    followers: 25176
-    engagement: 926
-    commentsToLikes: 0.013643
+    followers: 24621
+    engagement: 770
+    commentsToLikes: 0.012307
     id: ck6tyaa0v2jxz0j718l5l6yeq
     verified: false
-    hashtags: "#balletto, #worldwide, #balletposition, #ballet"
+    hashtags: "#balletposition, #dancemagazine, #boysballet, #world"
   - username: "farah_fasi"
     fullname: >-
       Farah
     bio: >-
-      Professional dancer based in 🇦🇹 🤜🏽 Potpourri Crew 🤛🏽 🔸@flavouramabattle ⚜️ 🔺@silkfluegge 💃🏽 🔻@allautfe.males ♂ 🔸@redbullaustria 💥
+      Professional dancer based in VIE 🤜🏽 Potpourri Crew 🤛🏽 🟣 Founder of @flavouramabattle 🟡 Member of @allautfemales 👇🏽 Latest projects👇🏽
     location: "Austria"
-    followers: 3196
-    engagement: 1198
-    commentsToLikes: 0.044401
+    followers: 3646
+    engagement: 1024
+    commentsToLikes: 0.039708
     id: ckaorlhgtnr7l0i78x3v2hph6
     verified: false
-    hashtags: "#freestyle, #house, #vienna, #movement"
+    hashtags: "#house, #housedance, #dance, #performance"
   - username: "chaskasiri"
     fullname: >-
       Lucero Ponce
     bio: >-
-      Performance Artist Flow Arts | Dance Perú 🇵🇪 @equilibraperformance ♦️ @hoopologie Ambassador
+      Flow Arts || Dance -Perú 🇵🇪 • Ambassador @hoopologie - @juggling_calling • @equilibraperformance ONLINE CLASSES ⬇️
     location: "Austria"
-    followers: 9740
-    engagement: 975
-    commentsToLikes: 0.052587
+    followers: 16167
+    engagement: 679
+    commentsToLikes: 0.044995
     id: ckaoxjsuvdky30i78cd5y95dz
     verified: false
-    hashtags: "#dance, #onlineclasses, #fans, #flowarts"
+    hashtags: "#dancer, #hulahoop, #hoopdance, #hulahulaper"
   - username: "balletbarani"
     fullname: >-
       Jorge Barani  👑🏌️‍♂️3️⃣
@@ -103,6 +103,18 @@ profiles:
     id: ck8t3cflr2qpz0j783o6t7u00
     verified: false
     hashtags: "#actress, #singer, #musical, #blondie"
+  - username: "michibuchinger"
+    fullname: >-
+      Michael Buchinger
+    bio: >-
+      📍Vienna 🇦🇹 ✨ I get what I want, when I want it, Margherita with extra cheese on it ✨ 💌 michael.buchinger@aol.com
+    location: "Austria"
+    followers: 110367
+    engagement: 534
+    commentsToLikes: 0.008885
+    id: ck5hgg2t52ky80i1147xmv2rs
+    verified: true
+    hashtags: "#comedy, #hahaha, #wien, #gay"
   - username: "faelablanche"
     fullname: >-
       Fae La Blanche 🤍
@@ -114,17 +126,5 @@ profiles:
     commentsToLikes: 0.025968
     id: ck135ckb60stg0i19nkiahlq3
     verified: false
-    hashtags: "#sleepingbeauty, #disney, #aurora, #spiritblossom"
-  - username: "gollitta"
-    fullname: >-
-      Buugeng Flow Artist
-    bio: >-
-      Gustavo Ollitta From 🇧🇷 to the 🗺️ 🧭🇵🇪 🐲Seller🐲 Cofounder @equilibraperformance Ambassador: @ignispixel @juggling_calling @hoopologie DM for Collab 🙏🏼
-    location: "Austria"
-    followers: 8912
-    engagement: 887
-    commentsToLikes: 0.101685
-    id: ckaoxjwpndldz0i78296j1mur
-    verified: false
-    hashtags: "#flowartslounge, #giocoleria, #zirkus, #dreads"
+    hashtags: "#faelablanche, #spiritblossom, #cosplay, #lol"
 ---

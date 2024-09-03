@@ -1,11 +1,11 @@
 ---
-title: Top 10 Songwriters TikTok Influencers In 2023
+title: Top 10 Songwriters TikTok Influencers In 2024
 description: >-
-  Find top songwriters TikTok influencers in 2023. Most popular hashtags: #duet #fyp #foryou.
+  Find top songwriters TikTok influencers in 2024. Most popular hashtags: #duet #fyp #singersongwriter.
 platform: TikTok
-hits: 586
-text_top: Discover the top-rated TikTok influencers on inBeat.
-text_bottom: Our search engine has 586 TikTok influencers like this for you to pitch.
+hits: 553
+text_top: See the top-rated TikTok influencers on inBeat.
+text_bottom: Our platform holds 553 TikTok influencers like this for you to connect with.
 profiles:
   - username: "iamjordiofficial"
     fullname: >-
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.031182
     id: ck9ej7son17sq0j78hh6kezsa
     verified: true
-    hashtags: "#pickupline, #greenscreen, #finishthelyric, #linkinbio"
+    hashtags: "#duet, #drafts, #linkinbio, #planether"
   - username: "mchewlett"
     fullname: >-
       MC Hewlett
@@ -42,19 +42,19 @@ profiles:
     commentsToLikes: 0.614035
     id: ckcpt37c6nnf10j23w6b9vpnr
     verified: false
-    hashtags: "#lovetiktok, #lovetok, #summervibes, #roadto10k"
-  - username: "davidhammmusic"
+    hashtags: "#lovetiktok, #foryoupage, #summervibes, #adayinmylife"
+  - username: "maggieglassman"
     fullname: >-
-      david🥀
+      Maggie Glassman
     bio: >-
-      he/him singer/songwriter snap david.hamm30 follow instagram for add back on snap
+      singer/songwriter. ig: @maggieglassman follow my spotify!⬇️ new music soon!💗
     location: "United States"
-    followers: 260800
-    engagement: 2671
-    commentsToLikes: 0.035912
-    id: ckbr7wflcmyk40j23lnzqc8jt
+    followers: 16200
+    engagement: 1973
+    commentsToLikes: 0.257003
+    id: ck9slxq78gd4n0j78pwpny5d7
     verified: false
-    hashtags: "#fyp, #foryou, #stitch, #voiceeffects"
+    hashtags: "#liveflowsweatduet, #welcomeback, #newmusic, #dontquityourdaydream"
   - username: "thepinkmoose"
     fullname: >-
       ⭐️ Amy Dean ⭐️
@@ -66,19 +66,31 @@ profiles:
     commentsToLikes: 0.049932
     id: ckaikzlahlsa60i78w3wiqi18
     verified: true
-    hashtags: "#petsoftiktok, #keepingitcute, #lol, #makesomeonesmile"
-  - username: "miggie.snyder"
+    hashtags: "#comedy, #lol, #fyp, #petsoftiktok"
+  - username: "miggie_snyder"
     fullname: >-
       Miggie Snyder
     bio: >-
-      LEGENDS OUT NOW singer/songwriter 24 | she/her ⬇️ MUSIC LINKS ⬇️
+      singer/songwriter 24 | she/her music links below!!
     location: "United States"
-    followers: 65400
-    engagement: 1822
-    commentsToLikes: 0.067417
+    followers: 77200
+    engagement: 1836
+    commentsToLikes: 0.052186
     id: ckb18jg4pwczw0j235cdofxph
     verified: false
-    hashtags: "#duet, #singer, #miggietok, #songwriter"
+    hashtags: "#legendlakegirl, #songwriter, #legendlake, #stitch"
+  - username: "mikaelg.k"
+    fullname: >-
+      Mikael G.K.
+    bio: >-
+      Spotify/Apple: Mikael G.K INFP, Colorado, Songwriter
+    location: "United States"
+    followers: 15900
+    engagement: 1449
+    commentsToLikes: 0.096496
+    id: ck8hrxr7earxn0j78sfe660sp
+    verified: false
+    hashtags: "#enya, #poettok, #vintage, #viral"
   - username: "courtneyyoungccm"
     fullname: >-
       Courtney Young
@@ -90,31 +102,7 @@ profiles:
     commentsToLikes: 0.268403
     id: ckbbgef6151010j23edik1td4
     verified: false
-    hashtags: "#shineon, #singersongwriter, #justbreathe, #duet"
-  - username: "kamikazedivine4"
-    fullname: >-
-      Koby Mita
-    bio: >-
-      🥐19 - Singer/Songwriter🥐 The amount of cheese you should use is subjective🧀 ♐
-    location: "Australia"
-    followers: 17700
-    engagement: 2463
-    commentsToLikes: 0.074364
-    id: ckan0mal0rbc70i78w1vuvop7
-    verified: false
-    hashtags: "#original, #artist, #whydoesthisexist, #sideprofile"
-  - username: "thisisfiamusic"
-    fullname: >-
-      Fia Forsström
-    bio: >-
-      📍Sweden | Artist & Songwriter
-    location: "United States"
-    followers: 58700
-    engagement: 1857
-    commentsToLikes: 0.045656
-    id: ckd6w9z3sruet0j23qf1qnr8n
-    verified: false
-    hashtags: "#mantra, #uplifting, #spirituality, #healing"
+    hashtags: "#duet, #dailyencouragement, #shineon, #justbreathe"
   - username: "hangulandheather"
     fullname: >-
       Heather Palmer Pills
@@ -126,5 +114,17 @@ profiles:
     commentsToLikes: 0.062389
     id: ckbbbj8nt0ltj0j237q8vmufw
     verified: false
-    hashtags: "#bts, #christian, #btsarmy, #btsxarmy"
+    hashtags: "#btsarmy, #christian, #bts, #btsxarmy"
+  - username: "thisisfiamusic"
+    fullname: >-
+      Fia Forsström
+    bio: >-
+      📍Sweden | Artist & Songwriter
+    location: "United States"
+    followers: 58200
+    engagement: 1532
+    commentsToLikes: 0.060593
+    id: ckd6w9z3sruet0j23qf1qnr8n
+    verified: false
+    hashtags: "#independentartist, #fia, #witchtok, #spiritualtiktok"
 ---

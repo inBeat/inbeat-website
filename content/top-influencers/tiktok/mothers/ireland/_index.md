@@ -1,11 +1,11 @@
 ---
-title: Top 10 Mothers TikTok Influencers In Ireland In 2023
+title: Top 10 Mothers TikTok Influencers In Ireland In 2024
 description: >-
-  Find top mothers TikTok influencers in Ireland in 2023. Most popular hashtags: #fyp #irish #foryou #ireland.
+  Find top mothers TikTok influencers in Ireland in 2024. Most popular hashtags: #fyp #irish #ireland #foryou.
 platform: TikTok
-hits: 15
-text_top: Discover the best TikTok influencers on inBeat.
-text_bottom: Our database aggregates 15 TikTok influencers like this in Ireland for you to work with.
+hits: 16
+text_top: See the top-rated TikTok influencers on inBeat.
+text_bottom: Our database holds 16 TikTok influencers like this in Ireland for you to collaborate.
 profiles:
   - username: "your_ma69"
     fullname: >-
@@ -79,6 +79,18 @@ profiles:
     id: ckcv1kic5nq6n0j23cf3qe649
     verified: false
     hashtags: "#myson, #mytoddler, #momandson, #alcoholic"
+  - username: "just_stan_now"
+    fullname: >-
+      Derek Stan Murphy
+    bio: >-
+      50% of what I say is true the other 70% is lies
+    location: "Ireland"
+    followers: 57900
+    engagement: 655
+    commentsToLikes: 0.071935
+    id: ckdsjm2z8muz30j23cwwemvnl
+    verified: false
+    hashtags: "#herewegoagain, #gerrycinnamon, #irishmusic, #guinness"
   - username: "biabellebeauty"
     fullname: >-
       BiaBelleBeauty
@@ -115,16 +127,4 @@ profiles:
     id: ckac4sc1acozz0i78p36ym9ol
     verified: false
     hashtags: "#isolation, #pullups, #nevergiveup, #nevertoooldfortiktok"
-  - username: "hello.miss.lady"
-    fullname: >-
-      Hello Miss Lady
-    bio: >-
-      🇮🇪Irish🇮🇪
-    location: "Ireland"
-    followers: 12200
-    engagement: 444
-    commentsToLikes: 0.050438
-    id: ckcdybyurgkcj0j23wkeqtmr4
-    verified: false
-    hashtags: "#hauntedhouse, #horrortiktok, #creepytiktok, #parnormal"
 ---

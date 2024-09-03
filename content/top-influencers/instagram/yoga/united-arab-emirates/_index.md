@@ -1,12 +1,48 @@
 ---
-title: Top 10 Yoga Instagram Influencers In United Arab Emirates In 2023
+title: Top 10 Yoga Instagram Influencers In United Arab Emirates In 2024
 description: >-
-  Find top yoga Instagram influencers in United Arab Emirates in 2023. Most popular hashtags: #yoga #flexibility #stretching #dubai.
+  Find top yoga Instagram influencers in United Arab Emirates in 2024. Most popular hashtags: #yoga #dubai #flexibility #yogainspiration.
 platform: Instagram
-hits: 31
-text_top: Identify the most popular Instagram accounts on inBeat.
-text_bottom: Our database aggregates 31 Instagram influencers like this in United Arab Emirates for you to work with.
+hits: 37
+text_top: Discover the top-rated Instagram profiles on inBeat.
+text_bottom: Our search engine has 37 Instagram influencers like this in United Arab Emirates for you to contact.
 profiles:
+  - username: "michellestaudenherz"
+    fullname: >-
+      Michelle Staudenherz
+    bio: >-
+      Yoga ☼ Travel ☼ Wellness 📍Austrian girl based in Dubai 3 Shoulder Surgeries | Ex- Platform Diver
+    location: "United Arab Emirates"
+    followers: 115075
+    engagement: 1199
+    commentsToLikes: 0.056513
+    id: ck136krb56zkx0i1909lteccd
+    verified: false
+    hashtags: "#yogainspiration, #handstandpractice, #michellechallengesyou, #yogadubai"
+  - username: "tania_romanenia"
+    fullname: >-
+      Tatiana Ramanenia | Yoga Mindset Dubai
+    bio: >-
+      DUBAI Yoga Teacher, leading to happy and healthy living🙌 Расстановки, которые меняют жизнь к лучшему❣️ Family Constellations that work magic🪄
+    location: "United Arab Emirates"
+    followers: 88306
+    engagement: 36
+    commentsToLikes: 0.235122
+    id: ck15pazw1wzar0i196pci2oz8
+    verified: false
+    hashtags: ""
+  - username: "odette__campbell"
+    fullname: >-
+      Odette Campbell
+    bio: >-
+      —— dubai visual storyteller @odette__photography travel, hotel and lifestyle photographer romanticizing life through travel, art and yoga new site ↓
+    location: "United Arab Emirates"
+    followers: 31420
+    engagement: 28
+    commentsToLikes: 0.002202
+    id: cliu015lt02m50j08slrsczym
+    verified: false
+    hashtags: "#travelreels, #dubai, #lifestyle, #italy"
   - username: "the_ranway"
     fullname: >-
       Ranwa Raffoul
@@ -18,7 +54,7 @@ profiles:
     commentsToLikes: 0.069470
     id: ck5qcc7wqpv060i11477oqbtl
     verified: false
-    hashtags: "#dxb, #fashiondiaries, #fashionblogger, #makeup"
+    hashtags: "#streetstyle, #accessories, #stylist, #makeup"
   - username: "kayalovesss"
     fullname: >-
       Kaya ✨🙏🏼
@@ -91,40 +127,4 @@ profiles:
     id: ckap20658wtcf0i78prrhfs74
     verified: false
     hashtags: "#circuseverydamnday, #aerialist, #yogatips, #laperledxb"
-  - username: "asarehmhd"
-    fullname: >-
-      Asareh Mohammadi
-    bio: >-
-      🥇UAE Aerial Hoop Championship 2019
-    location: "United Arab Emirates"
-    followers: 4882
-    engagement: 846
-    commentsToLikes: 0.085397
-    id: ck5q5bsqqs5yq0i11mak0t2ph
-    verified: false
-    hashtags: "#yoga, #sportgirl, #fitlife, #pdsplit"
-  - username: "cherry_pole_dance_pro"
-    fullname: >-
-      Pole Dance/Stretching|Rostov
-    bio: >-
-      PoLeARt CHErRy CiRCuS 🏆Чемпионка Мира🏆 🏆Winner PoleTheatre World Drama19 🏆🏆Dubai PoleCup Pro17,18 🏆Ultimate Winner Pro PoleTheatre Art Hungary18
-    location: "United Arab Emirates"
-    followers: 57698
-    engagement: 140
-    commentsToLikes: 0.048988
-    id: ck55psqp5baoa0i117u3bnrnl
-    verified: false
-    hashtags: "#badkittyusa, #poledancerofig, #stretching, #flexibilitytraining"
-  - username: "katsbling"
-    fullname: >-
-      Katia Jundi
-    bio: >-
-      Watch and Jewelry Connoisseur telling the stories of luxury from the female perspective. SOS Children’s Villages Ambassador
-    location: "United Arab Emirates"
-    followers: 74241
-    engagement: 217
-    commentsToLikes: 0.068723
-    id: ck6ugif9937c40j71kitkq3ew
-    verified: false
-    hashtags: "#franckmuller, #jewelry, #watchfam, #zakynthos"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Beauty TikTok Influencers In Ireland In 2023
+title: Top 10 Beauty TikTok Influencers In Ireland In 2024
 description: >-
-  Find top beauty TikTok influencers in Ireland in 2023. Most popular hashtags: #fyp #foryou #viral #ireland.
+  Find top beauty TikTok influencers in Ireland in 2024. Most popular hashtags: #fyp #viral #ireland #foryou.
 platform: TikTok
 hits: 29
-text_top: See the most popular TikTok accounts on inBeat.
-text_bottom: Our search engine holds 29 TikTok influencers like this in Ireland for you to connect with.
+text_top: Discover the most popular TikTok profiles on inBeat.
+text_bottom: Our platform aggregates 29 TikTok influencers like this in Ireland for you to work with.
 profiles:
   - username: "keilidhmua"
     fullname: >-
@@ -90,7 +90,7 @@ profiles:
     commentsToLikes: 0.016814
     id: ckb0n0rxoddtd0j23lh4b6uv9
     verified: false
-    hashtags: "#foryou, #haul, #mua, #fyp"
+    hashtags: "#foryou, #nespressotalents, #fyp, #haul"
   - username: "sr_official_12"
     fullname: >-
       👑🇵🇰sr🇮🇪👑

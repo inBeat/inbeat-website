@@ -1,11 +1,11 @@
 ---
-title: Top 10 Beauty TikTok Influencers In South Africa In 2023
+title: Top 10 Beauty TikTok Influencers In South Africa In 2024
 description: >-
-  Find top beauty TikTok influencers in South Africa in 2023. Most popular hashtags: #fyp #foryoupage #makeup #foryou.
+  Find top beauty TikTok influencers in South Africa in 2024. Most popular hashtags: #fyp #makeup #foryoupage #foryou.
 platform: TikTok
 hits: 54
-text_top: See the most popular TikTok influencers on inBeat.
-text_bottom: Our database holds 54 TikTok influencers like this in South Africa for you to work with.
+text_top: See the top-rated TikTok influencers on inBeat.
+text_bottom: inBeat aggregates 54 TikTok influencers like this in South Africa for you to work with.
 profiles:
   - username: "sandycorn_101"
     fullname: >-
@@ -54,7 +54,7 @@ profiles:
     commentsToLikes: 0.028305
     id: ck9gtpy8qnsyb0j78js37bl1k
     verified: false
-    hashtags: "#dancechallenge, #rakeitup, #foryou, #dance"
+    hashtags: "#dance, #foryou, #dancechallenge, #fyp"
   - username: "addfashion"
     fullname: >-
       cutegirls

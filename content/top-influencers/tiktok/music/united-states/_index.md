@@ -1,11 +1,11 @@
 ---
-title: Top 10 Music TikTok Influencers In United States In 2023
+title: Top 10 Music TikTok Influencers In United States In 2024
 description: >-
-  Find top music TikTok influencers in United States in 2023. Most popular hashtags: #duet #fyp #stitch #music.
+  Find top music TikTok influencers in United States in 2024. Most popular hashtags: #duet #fyp #stitch #music.
 platform: TikTok
-hits: 9733
-text_top: Discover the top-rated TikTok profiles on inBeat.
-text_bottom: Our database holds 9733 TikTok influencers like this in United States for you to work with.
+hits: 9693
+text_top: Identify the top-rated TikTok profiles on inBeat.
+text_bottom: Our database aggregates 9693 TikTok influencers like this in United States for you to pitch.
 profiles:
   - username: "indistar"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.023083
     id: ck9fq4egsaivw0j786gaawup6
     verified: true
-    hashtags: "#ultaskintok, #thesuicidesquadmovie, #fyp, #paris"
+    hashtags: "#ultaskintok, #thesuicidesquadmovie, #fyp, #cleargenius"
   - username: "lukasjamesmusic"
     fullname: >-
       lukasjamesmusic
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.139452
     id: ck9grq1yff00v0j78fuxz5oql
     verified: false
-    hashtags: "#fyp, #singer, #cover, #song"
+    hashtags: "#cover, #fyp, #singer, #postmalone"
   - username: "meredithbellpb"
     fullname: >-
       palaceburn.
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.084831
     id: ckcelwh8jvx590j23u6cnc1bx
     verified: false
-    hashtags: "#duet, #wweannouncercontest, #altblackgirl, #stitch"
+    hashtags: "#duet, #altblackgirl, #wweannouncercontest, #stitch"
   - username: "carteracemusic"
     fullname: >-
       carter ace
@@ -54,7 +54,7 @@ profiles:
     commentsToLikes: 0.029677
     id: ck83k202k8pkh0j78tyceo24g
     verified: false
-    hashtags: "#duet, #cat, #songofthesummer, #cats"
+    hashtags: "#ootd, #birthday, #stitch, #cat"
   - username: "maudelstatus"
     fullname: >-
       Maude latour 
@@ -66,7 +66,7 @@ profiles:
     commentsToLikes: 0.069383
     id: ckan3ltwt5xmo0i7889uhzjg6
     verified: true
-    hashtags: "#cleaningtiktok, #music, #clean, #chilidogyumplz"
+    hashtags: "#clean, #cleaningtiktok, #music, #hydratedgirlsummer"
   - username: "apollofresh"
     fullname: >-
       Apollo Fresh 
@@ -78,7 +78,7 @@ profiles:
     commentsToLikes: 0.055600
     id: ck8sftpl0psxt0j78tpr5uytd
     verified: false
-    hashtags: "#onepiece, #yugioh, #demonslayerchallenge, #naruto"
+    hashtags: "#naruto, #demonslayer, #yugioh, #onepiece"
   - username: "youcancallmepamela"
     fullname: >-
       Pamela 
@@ -90,19 +90,7 @@ profiles:
     commentsToLikes: 0.547379
     id: ckcehh7fppa3p0j23fyxtgw9v
     verified: false
-    hashtags: "#blessed, #fridayfun, #grandson, #vibes"
-  - username: "tawnted"
-    fullname: >-
-      tawnted
-    bio: >-
-      ✨stop saying it in a brooklyn accent✨ click👇for my music
-    location: "United States"
-    followers: 17600
-    engagement: 3587
-    commentsToLikes: 0.066906
-    id: ckbbcp8fu1olb0j23fazbz8pg
-    verified: false
-    hashtags: "#foryou, #itwasntme, #fyp, #trulyglowingselfielove"
+    hashtags: "#grandson, #doordashlife, #friends, #blessed"
   - username: "gl_mrus_beb"
     fullname: >-
       SajanaSaverna🦋
@@ -126,5 +114,17 @@ profiles:
     commentsToLikes: 0.458602
     id: ckb9835qbravf0j23rtjhj5ky
     verified: false
-    hashtags: "#bestseatinthehouse, #fyp, #duet, #50sclub"
+    hashtags: "#bestseatinthehouse, #lilsusieb, #50sclub, #foryou"
+  - username: "truckerleezah"
+    fullname: >-
+      Leezah422 
+    bio: >-
+      18+only Wife mother trucker artist vocalist musician 🇺🇸Proud American Patriot
+    location: "United States"
+    followers: 32500
+    engagement: 2676
+    commentsToLikes: 0.106915
+    id: cka7or7bz3qu70i78tb2f6v2c
+    verified: false
+    hashtags: "#duet, #greenscreen"
 ---

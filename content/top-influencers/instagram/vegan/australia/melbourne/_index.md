@@ -1,11 +1,11 @@
 ---
-title: Top 10 Vegan Instagram Influencers In Melbourne In 2023
+title: Top 10 Vegan Instagram Influencers In Melbourne In 2024
 description: >-
-  Find top vegan Instagram influencers in Melbourne in 2023. Most popular hashtags: #vegan #melbournefoodie #melbourneeats #melbourne.
+  Find top vegan Instagram influencers in Melbourne in 2024. Most popular hashtags: #vegan #melbournefoodie #melbourneeats #melbourne.
 platform: Instagram
-hits: 24
-text_top: Discover the most popular Instagram profiles on inBeat.
-text_bottom: Our database holds 24 Instagram influencers like this in Melbourne, Australia for you to pitch.
+hits: 35
+text_top: Identify the best Instagram profiles on inBeat.
+text_bottom: inBeat has 35 Instagram influencers like this in Melbourne, Australia for you to work with.
 profiles:
   - username: "melbournefoodbabies"
     fullname: >-
@@ -30,7 +30,19 @@ profiles:
     commentsToLikes: 0.475509
     id: ck5c6i25y5hac0i1100fgq43o
     verified: false
-    hashtags: "#melbournedesserts, #vegains, #melbournefoodblogger, #vegan"
+    hashtags: "#snacks, #melbournephotographer, #chips, #veganrecipe"
+  - username: "emilypamio"
+    fullname: >-
+      EM 🦋
+    bio: >-
+      ☼ Melbourne, Aus ☼ UGC & Content Marketing ☼ Collabs: emily@silasocial.com.au
+    location: "Australia"
+    followers: 31689
+    engagement: 50
+    commentsToLikes: 0.060151
+    id: ck13c4ea5ykb80i19q3ha4o57
+    verified: false
+    hashtags: "#melbourne, #whatveganseat, #ad, #veganuary"
   - username: "melbournefoodmonkeys"
     fullname: >-
       Katie & Chris | MELB FOODIES
@@ -55,6 +67,54 @@ profiles:
     id: ck5q2c7lnfaj30i11l6jiwjad
     verified: false
     hashtags: "#eatyourveggies, #melbournefoodie, #soyum, #goodfoodindia"
+  - username: "keymav"
+    fullname: >-
+      Keyma Vasquez Montero | Recipe Creator | Masterchef Au
+    bio: >-
+      🙋🏻‍♀️ Creator | 🇦🇺 Top 4 Masterchef Aus S14 🍽️ Easy recipes 4 home cooks 💃 Latin Flavour📍Melbourne 💌 Email or DM for collabs 👇
+    location: "Australia"
+    followers: 13393
+    engagement: 190
+    commentsToLikes: 0.097358
+    id: cloqu3k2hh2kv0j08zvpnrrke
+    verified: false
+    hashtags: "#christmasrecipes, #festiverecipes, #recipes, #latinfood"
+  - username: "avalontattoo"
+    fullname: >-
+      Avalon Todaro🐓
+    bio: >-
+      ✨THE GRAND ILLUSION TATTOO✨ BOOKS CLOSED 🔥 Email to contact: avalonwestcott@gmail.com ❤️ No bookings via DM ❤️ Vegan tattooer 🍋 Melbourne, Australia.
+    location: "Australia"
+    followers: 57417
+    engagement: 266
+    commentsToLikes: 0.013481
+    id: ck0w4mkc6zbwr0i19e2ahz5zl
+    verified: false
+    hashtags: "#vegantattoo, #cattattoo, #hensdeservebetter, #hentattoo"
+  - username: "chef_adrian_richardson"
+    fullname: >-
+      Adrian Richardson ‘Richo’
+    bio: >-
+      🧂Salt loves meat & meat loves salt 🍸La Luna Bistro & Bouvier Bar & Grill 🥃BOS Brisbane 🍾Gallery @ Marvel Stadium 😇 Good Chef Bad Chef?
+    location: "Australia"
+    followers: 25551
+    engagement: 201
+    commentsToLikes: 0.038622
+    id: ckaoqub1okfmz0i78cso8r8ef
+    verified: false
+    hashtags: "#staysafe, #tasty, #bos, #brisbane"
+  - username: "senseoffood"
+    fullname: >-
+      Sense Of Food (SOF)
+    bio: >-
+      กินอย่างมีสไตล์ BKK🇹🇭 ➡️ MELB🇦🇺 📸 Food enthusiast & photographer 📩 sofsenseoffood@gmail.com
+    location: "Australia"
+    followers: 11132
+    engagement: 130
+    commentsToLikes: 0.104125
+    id: ck55n3lix5e9o0i11pgi3ty9l
+    verified: false
+    hashtags: "#cafeculture, #brunch, #yum, #sweettooth"
   - username: "khengomnom"
     fullname: >-
       Melbourne Food Guide/Lifestyle
@@ -66,65 +126,5 @@ profiles:
     commentsToLikes: 0.233227
     id: ck135q2472o1z0i193xaqcese
     verified: false
-    hashtags: "#foodie, #foodbeast, #goodeats, #foodlover"
-  - username: "avalontattoo"
-    fullname: >-
-      Avalon Todaro🐓
-    bio: >-
-      ✨THE GRAND ILLUSION TATTOO✨ Email to book: avalonwestcott@gmail.com ❤️ no bookings via DM ❤️ vegan tattooer 🍋 Melbourne, Australia.
-    location: "Australia"
-    followers: 56897
-    engagement: 255
-    commentsToLikes: 0.010530
-    id: ck0w4mkc6zbwr0i19e2ahz5zl
-    verified: false
-    hashtags: "#hensdeservebetter, #hentattoo, #wildlifeaustralia, #snaketattoo"
-  - username: "emilypamio"
-    fullname: >-
-      EM 🦋
-    bio: >-
-      ☼ Melbourne, Aus | Plant based food 🌿🌲🌴 ☼ Brand & Content Management (B.Bus) ☼ Owner: @sila.social ☼ Collabs: emily@silasocial.com.au
-    location: "Australia"
-    followers: 33609
-    engagement: 72
-    commentsToLikes: 0.151482
-    id: ck13c4ea5ykb80i19q3ha4o57
-    verified: false
-    hashtags: "#breakfast, #vegan, #ad, #foodblogger"
-  - username: "that_vegan_dad"
-    fullname: >-
-      Jack Rock ~ Vegan Recipes ~ Vegan Memes ~ Vegan Lunchbox
-    bio: >-
-      🌱Making vegan more accessible w/ recipes, humour & more! MY FREE LUNCH BOX EBOOK ⬇️ • @macr0mike dc - AMB-JACKR
-    location: "Australia"
-    followers: 15267
-    engagement: 281
-    commentsToLikes: 0.189248
-    id: cl48q93pqm8ek0i23ggirim9w
-    verified: false
-    hashtags: "#easyrecipes, #veganrecipes, #easyveganrecipes, #vegansofig"
-  - username: "harveypetito"
-    fullname: >-
-      Harvey Petito
-    bio: >-
-      📍Melbourne, Australia
-    location: "Australia"
-    followers: 630579
-    engagement: 500
-    commentsToLikes: 0.037532
-    id: ck0tzj93gqh5q0i191agtrpmm
-    verified: true
-    hashtags: "#chadstonefashion, #allkindspartner, #unisex, #moombafestival2021"
-  - username: "panaceas_pantry"
-    fullname: >-
-      JADE / VEGAN FOOD
-    bio: >-
-      Providing you with simply, healthy + plantbased recipes Naturopath 📷 Food Photographer Mumma 👧👧👧 Melbourne, Aus 📩 grace@ivytalentco.com.au
-    location: "Australia"
-    followers: 334377
-    engagement: 120
-    commentsToLikes: 0.028574
-    id: ck0tymiyqn9x10i19fsp4e45h
-    verified: false
-    hashtags: "#mumlife, #ad"
+    hashtags: "#ad, #goodeats, #melbournerestaurants, #melbourneeats"
 ---

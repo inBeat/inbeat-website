@@ -1,11 +1,11 @@
 ---
-title: Top 10 Painters TikTok Influencers In Australia In 2023
+title: Top 10 Painters TikTok Influencers In Australia In 2024
 description: >-
-  Find top painters TikTok influencers in Australia in 2023. Most popular hashtags: #fyp #art #artist #foryou.
+  Find top painters TikTok influencers in Australia in 2024. Most popular hashtags: #fyp #foryou #painter #art.
 platform: TikTok
 hits: 44
-text_top: Identify the top-rated TikTok accounts on inBeat.
-text_bottom: Our search engine has 44 TikTok influencers like this in Australia for you to pitch.
+text_top: See the most popular TikTok profiles on inBeat.
+text_bottom: inBeat has 44 TikTok influencers like this in Australia for you to contact.
 profiles:
   - username: "zachampson"
     fullname: >-
@@ -31,6 +31,18 @@ profiles:
     id: ckb97tliequp00j2316mmrxbb
     verified: false
     hashtags: "#acrylic, #aesthetic, #arty, #realism"
+  - username: "navimultani2"
+    fullname: >-
+      Navi Multani
+    bio: >-
+      Navpreet singh Multani India 🇮🇳to✈️✈️Australia 🇦🇺🇦🇺city Melbourne
+    location: "Australia"
+    followers: 20100
+    engagement: 334
+    commentsToLikes: 0.042812
+    id: cka0rnfsjhq2y0i78iwj6dnd9
+    verified: false
+    hashtags: "#canada, #fyp, #melbournepainter, #usa"
   - username: "rebeccakateartist"
     fullname: >-
       rebeccakateartist
@@ -42,7 +54,7 @@ profiles:
     commentsToLikes: 0.077633
     id: ckavp9a0i0axp0j23si1kpcox
     verified: false
-    hashtags: "#femaleartistcheck, #mixedmediaart, #collageartist, #femaleartist"
+    hashtags: "#mixedmediaart, #femaleartist, #femaleartistcheck, #artist"
   - username: "_seitens"
     fullname: >-
       skye
@@ -115,16 +127,4 @@ profiles:
     id: ck9k37ia2na8v0j78uhkmvybn
     verified: false
     hashtags: "#soccer, #foryou, #training, #foryoupage"
-  - username: "tahliastanton"
-    fullname: >-
-      🌸Tahlia🌸
-    bio: >-
-      ✨You’re so amazing just be yourself✨ ✈️Collected Worldwide🌏 🛍PRINTS🛍 👇👇👇
-    location: "Australia"
-    followers: 332600
-    engagement: 1715
-    commentsToLikes: 0.009219
-    id: ckammx0e12bo50i78co217g3l
-    verified: true
-    hashtags: "#arttiktok, #painting, #art, #entrepreneur"
 ---

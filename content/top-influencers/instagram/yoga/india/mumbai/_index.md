@@ -1,12 +1,60 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Mumbai In 2023
+title: Top 10 Yoga Instagram Influencers In Mumbai In 2024
 description: >-
-  Find top yoga Instagram influencers in Mumbai in 2023. Most popular hashtags: #yoga #mumbai #fashion #love.
+  Find top yoga Instagram influencers in Mumbai in 2024. Most popular hashtags: #yoga #mumbai #instagram #trending.
 platform: Instagram
-hits: 80
-text_top: See the most popular Instagram influencers on inBeat.
-text_bottom: inBeat holds 80 Instagram influencers like this in Mumbai, India for you to work with.
+hits: 126
+text_top: See the best Instagram profiles on inBeat.
+text_bottom: inBeat holds 126 Instagram influencers like this in Mumbai, India for you to pitch.
 profiles:
+  - username: "anshukayoga"
+    fullname: >-
+      ANSHUKA YOGA
+    bio: >-
+      Celebrity Yoga & Holistic Wellness Expert Pre/Post🤰| Corporates | Retreats | TeacherTraining 📍Bandra W / Online 📧 info@anshukayoga.com To SIGN UP ⬇️
+    location: "India"
+    followers: 461641
+    engagement: 342
+    commentsToLikes: 0.031924
+    id: ck14jnb8xl7q30i191u4iu3v1
+    verified: true
+    hashtags: "#yogamumbai, #yogapractice, #yogagirl, #anshukayogawellness"
+  - username: "bappa____maza"
+    fullname: >-
+      Ganpati Bappa Morya
+    bio: >-
+      ।।ॐ वक्रतुण्ड महाकाय सूर्य कोटि समप्रभ: निर्विघ्नं कुरू मे देव, सर्व कार्येषु सर्वदा ।। 🙏💛 Add us in favourites to watch latest #reels 😍
+    location: "India"
+    followers: 108763
+    engagement: 300
+    commentsToLikes: 0.009306
+    id: ck8t5jxeaacq10j78qnhb42gt
+    verified: false
+    hashtags: "#marathicomedy, #maharashtradesha, #ganpati, #marathiculture"
+  - username: "nishthabijlani"
+    fullname: >-
+      Nishtha Bijlani (निष्ठा)| Yoga
+    bio: >-
+      🧘🏻‍♀️Making yoga simple & accessible ⛺️Wellness Retreats & Workshops 🌻Yoga Teacher & Trainer @nikewellcollective 📍Mumbai
+    location: "India"
+    followers: 57019
+    engagement: 115
+    commentsToLikes: 0.052103
+    id: ck14lrnhdw5i50i19ekvm6bhh
+    verified: false
+    hashtags: "#yogastudent, #throwback, #yoga, #breathe"
+  - username: "santoshishetty"
+    fullname: >-
+      Santoshi Shetty
+    bio: >-
+      love - fashion - dance - vinyasa 🥑 plant-based co-founder @gardensofsanti 🌿 creative director @yamayoga_active 🐍 work : ✎ santoshi@thestyledge.com
+    location: "India"
+    followers: 724938
+    engagement: 35
+    commentsToLikes: 0.016599
+    id: ck0tzem7tq2q40i19xeamepro
+    verified: true
+    hashtags: "#yamayoga, #vinyasa, #yama, #gardensofsanti"
   - username: "nishankguptaaa"
     fullname: >-
       👑 Nishank Gupta 👑
@@ -31,18 +79,18 @@ profiles:
     id: ck5bwoe88m3d40i11ytygrn7s
     verified: false
     hashtags: "#hyderabad, #saipallavi, #samanthaakkineni, #repost"
-  - username: "nishayogini"
+  - username: "vaibhav.tatwawaadi"
     fullname: >-
-      Nisha Dhaundiyal
+      VAIBHAV TATWAWADI
     bio: >-
-      25nov🎂 @mtvroadies Roadies Revolution 👑 Fuelled 💪 by @muscleblaze MissChd.🥇Fitnessmodel💪 Yoga Expert🤸PET🧑‍🏫 PaidCollaboration 📧
+      Actor / Engineer 📧 contactvaibhavt@gmail.com
     location: "India"
-    followers: 219164
-    engagement: 506
-    commentsToLikes: 0.011972
-    id: ck8tbtcfpx2720j78h3e7a1av
-    verified: false
-    hashtags: "#reels, #trendingpic, #positivevibes, #lifestyleblogger"
+    followers: 527034
+    engagement: 377
+    commentsToLikes: 0.005703
+    id: ckaouhup50c6h0i78bvm94jph
+    verified: true
+    hashtags: "#vaibhavtatwawadi, #commando, #poetry, #vtofficial"
   - username: "moryamajha"
     fullname: >-
       Morya Majha | INDIA
@@ -55,76 +103,28 @@ profiles:
     id: ck14j2t2gicdu0i198h80mtxh
     verified: false
     hashtags: "#ganesha, #ganeshutsav2020, #mumbaibizarre, #panjim"
-  - username: "barkhasingh0308"
+  - username: "virendersehwag"
     fullname: >-
-      Barkha Singh
+      Virender Sehwag
     bio: >-
-      Actor | Content creator | Traveller Carpe Diem ✨ 🗺️ Travel. Lifestyle. Fashion. Animal lover ❤ Environmentalist 🌿 Karma 🙏 My session - Graphy select 👇
+      Proud Bhartiya ! For commercial queries call my manager @amritanshugupta on 9873690935
     location: "India"
-    followers: 2593183
-    engagement: 766
-    commentsToLikes: 0.002536
-    id: ck5ztqryn0yaq0i149lsvd6bp
+    followers: 8075417
+    engagement: 444
+    commentsToLikes: 0.006090
+    id: ck15r4p8e64yk0i19g4c7r4zt
     verified: true
-    hashtags: "#staystylish, #tuesday, #partnered, #rooftop"
-  - username: "nehaiyerofficial"
+    hashtags: "#cricketreels, #cwc23, #uttarakhand, #cricket"
+  - username: "dhruvijani_24"
     fullname: >-
-      Neha Sharma Iyer 💫🧿
+      Dhruvi Jani
     bio: >-
-      On the journey to myself I've been so many people 🕊🌈 Actor | Model | Radio Jockey | Anchor | Single Mum💕 Grief Survivor 💟 Personal Blog 📸✍
+      ✨Dreamy 🌌🎭. ACTOR || INFLUENCER ✨ 🔹️Lifestyle 🔹️Travel 🔹️Fashion 🔹️Dance
     location: "India"
-    followers: 107984
-    engagement: 316
-    commentsToLikes: 0.020324
-    id: ck14iypdohs7x0i19hnrk4ckn
-    verified: true
-    hashtags: "#saree, #reels, #reelitfeelit, #reelkarofeelkaro"
-  - username: "parthivgohil9"
-    fullname: >-
-      Parthiv Gohil
-    bio: >-
-      Singer Explorer Entrepreneur. I believe in making my opportunities not waiting for them. Passionate about the world music & Holistic life. Evolving...
-    location: "India"
-    followers: 118832
-    engagement: 271
-    commentsToLikes: 0.012433
-    id: ck0w0107cbus30i19r2n2fyyv
-    verified: true
-    hashtags: "#gujarat, #mumbai, #bhfyp, #ahmedabad"
-  - username: "smritiqueen18"
-    fullname: >-
-      smriti mandhana
-    bio: >-
-      Indian women's #cricket team🇮🇳 This is fanpage Professional Cricketer🏏🏏 10k🔓 Follow the page for new updates
-    location: "India"
-    followers: 10006
-    engagement: 2452
-    commentsToLikes: 0.004571
-    id: ckf5r8f6nbr950j23aks3lbh2
+    followers: 34076
+    engagement: 94
+    commentsToLikes: 0.037175
+    id: ck0vy7ylz2o140i19t0ler5py
     verified: false
-    hashtags: "#indiancricket, #kingkohli, #yoga, #klrahul"
-  - username: "scorpio.puja"
-    fullname: >-
-      PUJA NEGI || CONTENT CREATOR
-    bio: >-
-      Fashion. Beauty. Lifestyle & Travel Mail for paid collaboration
-    location: "India"
-    followers: 22734
-    engagement: 288
-    commentsToLikes: 0.312250
-    id: ck15uxsfqp09j0i19wjowrqma
-    verified: false
-    hashtags: "#instafashion, #reels, #fashionblogger, #explorepage"
-  - username: "pro_sagar.makwana"
-    fullname: >-
-      SAGAR MAKWANA
-    bio: >-
-      Athlete @fitsy.in 🏋🏽‍♂️ @massivelements💼 🏆OLYMPIAINDIA 4th 🏆GOA JERAI 1st2017 🏆JERAI WBFF 2nd 2017 🏆ALIBAGH 1st2017 🏆NAVODIT MUM 4th
-    location: "India"
-    followers: 49277
-    engagement: 171
-    commentsToLikes: 0.017606
-    id: ck9wglejmtxgv0j78pchir30b
-    verified: false
-    hashtags: "#reelsinstagram, #model, #gym, #procard"
+    hashtags: "#nature, #reels, #rains, #roadtrip"
 ---

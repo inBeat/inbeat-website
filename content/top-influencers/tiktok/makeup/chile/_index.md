@@ -1,11 +1,11 @@
 ---
-title: Top 10 Makeup TikTok Influencers In Chile In 2023
+title: Top 10 Makeup TikTok Influencers In Chile In 2024
 description: >-
-  Find top makeup TikTok influencers in Chile in 2023. Most popular hashtags: #makeup #fyp #humor #chile.
+  Find top makeup TikTok influencers in Chile in 2024. Most popular hashtags: #makeup #fyp #humor #parati.
 platform: TikTok
 hits: 55
-text_top: Identify the most popular TikTok influencers on inBeat.
-text_bottom: inBeat has 55 TikTok influencers like this in Chile for you to connect with.
+text_top: Discover the top-rated TikTok influencers on inBeat.
+text_bottom: Our platform has 55 TikTok influencers like this in Chile for you to work with.
 profiles:
   - username: "perrocallejerro"
     fullname: >-

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Models TikTok Influencers In Las Vegas In 2023
+title: Top 10 Models TikTok Influencers In Las Vegas In 2024
 description: >-
-  Find top models TikTok influencers in Las Vegas in 2023. Most popular hashtags: #fyp #lasvegas #model #foryou.
+  Find top models TikTok influencers in Las Vegas in 2024. Most popular hashtags: #fyp #lasvegas #model #dance.
 platform: TikTok
 hits: 30
-text_top: Discover the best TikTok profiles on inBeat.
-text_bottom: Our database holds 30 TikTok influencers like this in Las Vegas, United States for you to work with.
+text_top: Analyze the top-rated TikTok accounts on inBeat.
+text_bottom: Our database has 30 TikTok influencers like this in Las Vegas, United States for you to connect with.
 profiles:
   - username: "jamminontiedyestudio"
     fullname: >-
@@ -43,18 +43,18 @@ profiles:
     id: ckb0yry4vnkv20j237394rqrm
     verified: false
     hashtags: "#lgbtq, #bimen, #gayboy, #gayboys"
-  - username: "khalilslife"
+  - username: "yayygaby"
     fullname: >-
-      Khalil 
+      gaby kosinski  ♡
     bio: >-
-      🚚Moved To YouTube!🚚 ➡️ “KhalilsLife” ⬅️ Link👇🏾
+      isn’t it amazing how everyday can be an adventure ✩
     location: "United States"
-    followers: 4800000
-    engagement: 2180
-    commentsToLikes: 0.009895
-    id: ck83zopur1onk0j78bevjg9do
-    verified: true
-    hashtags: "#foryoupage, #storytime, #foryou, #truestory"
+    followers: 100100
+    engagement: 2017
+    commentsToLikes: 0.008975
+    id: ckacwe5h4s5tc0i788v4ayily
+    verified: false
+    hashtags: "#girls, #photography, #fyp, #foryourpage"
   - username: "angels_vidzz"
     fullname: >-
       AngelsLowridersTV ✔︎
@@ -67,6 +67,18 @@ profiles:
     id: ckd0jo4fofhy90j23iv92qbs7
     verified: false
     hashtags: "#car, #hydraulics, #custom, #lowrider"
+  - username: "concretecomedy"
+    fullname: >-
+      Concrete
+    bio: >-
+      Comedian / Content Creator
+    location: "United States"
+    followers: 30500
+    engagement: 670
+    commentsToLikes: 0.040666
+    id: ck9vaxjd8ku7z0j78yrtl8nrq
+    verified: false
+    hashtags: "#funnytiktok, #millennialsoftiktok, #familytime, #toxica"
   - username: "clearoutink"
     fullname: >-
       Clear Out Ink Tattoo Removal
@@ -90,19 +102,19 @@ profiles:
     commentsToLikes: 0.015411
     id: ck90xysxy8kau0j78gwwflawx
     verified: false
-    hashtags: "#vegas, #nyc, #model, #lips"
+    hashtags: "#photoshoot, #lips, #model, #vegas"
   - username: "taylorlynnlv"
     fullname: >-
       Taylor Lynn
     bio: >-
       Las Vegas 📍 IG: taylorlynnlv Follow the link in my IG bio 💋
     location: "United States"
-    followers: 6060
-    engagement: 1030
-    commentsToLikes: 0.017645
+    followers: 6202
+    engagement: 720
+    commentsToLikes: 0.021292
     id: ckbf3pwr5rptn0j23qa50p84f
     verified: false
-    hashtags: "#tattoo, #fitchick, #lasvegas, #tattoos"
+    hashtags: "#fitchick, #foryou, #foryoupage, #tattoo"
   - username: "sexy_lynn7"
     fullname: >-
       sexy_lynn7
@@ -115,16 +127,4 @@ profiles:
     id: ckcpquxnxkfnl0j23gqua8gzf
     verified: false
     hashtags: "#selflove, #lynnsworld, #fyp, #ig"
-  - username: "badblue_tundra_andmia"
-    fullname: >-
-      badblue_tundra_andmia
-    bio: >-
-      Shocker Racing 2021 Calendar Model🏁 Code: MISSFEBRUARY PayPal/Zelle: @miacerva
-    location: "United States"
-    followers: 31000
-    engagement: 836
-    commentsToLikes: 0.051620
-    id: ckb0zddk5o3yx0j230bsqn9g4
-    verified: false
-    hashtags: "#shockerracing, #truckshow, #sanantonio, #christmas"
 ---

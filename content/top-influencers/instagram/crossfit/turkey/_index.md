@@ -1,11 +1,11 @@
 ---
-title: Top 10 Crossfit Instagram Influencers In Turkey In 2023
+title: Top 10 Crossfit Instagram Influencers In Turkey In 2024
 description: >-
-  Find top crossfit Instagram influencers in Turkey in 2023. Most popular hashtags: #crossfit #fitness #motivation #bodybuilding.
+  Find top crossfit Instagram influencers in Turkey in 2024. Most popular hashtags: #crossfit #fitness #motivation #gymlife.
 platform: Instagram
-hits: 41
-text_top: Discover the best Instagram influencers on inBeat.
-text_bottom: inBeat has 41 Instagram influencers like this in Turkey for you to work with.
+hits: 44
+text_top: Identify the most popular Instagram accounts on inBeat.
+text_bottom: Our search engine has 44 Instagram influencers like this in Turkey for you to contact.
 profiles:
   - username: "neyranguneli"
     fullname: >-
@@ -31,18 +31,18 @@ profiles:
     id: ck5hkq3ngiv570i11dmhvfo7e
     verified: false
     hashtags: "#rogue, #sport, #fitness, #elfitbahrain"
-  - username: "agirsaglam_fitness"
+  - username: "zzehraozbey"
     fullname: >-
-      AĞIRSAĞLAM
+      Zehra Özbey
     bio: >-
-      Daha güçlü ol, daha iyi görün! Amacım Fitness’a bilimsel yaklaşarak tüm 🇹🇷 Türkiye’yi #ağırsağlam yapmak! Koçluk, program ve mağaza ürünleri için:
+      الله🇹🇷▫️ ▫️European champion 🥉 ▫️World champion🥈🥈🥉 ▫️Deaflympics champion 🥉 ▫️National Judo athlete 🥋 ▫️Fitness Personel Coach 🏋🏻‍♀️
     location: "Turkey"
-    followers: 138014
-    engagement: 575
-    commentsToLikes: 0.020192
-    id: ck6typgl253jp0j71sauzl4ld
+    followers: 66964
+    engagement: 1
+    commentsToLikes: 0.000000
+    id: ck8t9745nn3na0j780rfa57aq
     verified: false
-    hashtags: "#weightlifting, #calisthenics, #bodybuilding, #crossfit"
+    hashtags: "#love, #happy, #instagood, #gymlife"
   - username: "merveyarendndr"
     fullname: >-
       Merve Yaren Dndr✨
@@ -81,16 +81,16 @@ profiles:
     hashtags: "#mersino, #mersinfitnesso, #fikriarican, #mersinforumavm"
   - username: "radmehrbrothers"
     fullname: >-
-      Mobin_mohamad
+      Radmehrbrothers official
     bio: >-
-      🔱 Efsaneikizler .📍🇹🇷 Ankara 🔶Member of Muay Thai National Team 2015 🔶Muay Thai 2016 Champion 🔶Kick Box 2017 Champion
+      💣Personal training🥊 .📍🇹🇷 İstanbul 🔰 trainer 🔰 online coaching 🔰 lose weight gain weight 🔰 fitness,kickboxing,muay thai 🥈wako europa cup champion
     location: "Turkey"
-    followers: 37072
-    engagement: 580
-    commentsToLikes: 0.141342
+    followers: 51643
+    engagement: 261
+    commentsToLikes: 0.039943
     id: ck1399rmkk8at0i19eybkxyr1
     verified: false
-    hashtags: "#survivor2021, #acunmedya, #strong, #tv8"
+    hashtags: "#kingradmehrbrothers, #fight, #spor, #crazy"
   - username: "utkanso"
     fullname: >-
       U t k a n  E Y Ü B O Ğ L U💠
@@ -115,16 +115,16 @@ profiles:
     id: ckf5lvyzar9ev0j23ar64y2w0
     verified: false
     hashtags: "#antrenman, #ke, #car, #travel"
-  - username: "mehman_mammedov_"
+  - username: "boraguner35"
     fullname: >-
-      Mehman Memmedov
+      Bora Guner
     bio: >-
-      • | World Champion 🏆 (MMA Fighter )
+      MİLLİ SPORCU BİLEK GÜREŞİ TÜRKİYE 1.🥇 STRICT CURL GPA 1.🥇 STRONGMAN 2020 1.🏅 BİLEK GÜREŞİ AVRUPA 3.🥉 STRONGMAN TÜRKIYE 2.🥈 BİLEK GÜREŞİ DÜNYA 6.
     location: "Turkey"
-    followers: 42593
-    engagement: 617
-    commentsToLikes: 0.047509
-    id: ck15sqpnfech10i19qz2yo5tf
+    followers: 17623
+    engagement: 842
+    commentsToLikes: 0.013693
+    id: ck6typfnq53e70j718mawmlet
     verified: false
-    hashtags: "#lifestyle, #healthy, #training, #workout"
+    hashtags: "#strictcurl, #strong, #protein, #benchpress"
 ---

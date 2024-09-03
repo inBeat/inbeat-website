@@ -1,11 +1,11 @@
 ---
-title: Top 10 Illustrators TikTok Influencers In 2023
+title: Top 10 Illustrators TikTok Influencers In 2024
 description: >-
-  Find top illustrators TikTok influencers in 2023. Most popular hashtags: #sketch #drawing #art #smallbusiness.
+  Find top illustrators TikTok influencers in 2024. Most popular hashtags: #sketch #drawing #art #duet.
 platform: TikTok
 hits: 182
-text_top: Analyze the most popular TikTok accounts on inBeat.
-text_bottom: Our platform has 182 TikTok influencers like this for you to pitch.
+text_top: Identify the best TikTok profiles on inBeat.
+text_bottom: inBeat holds 182 TikTok influencers like this for you to collaborate.
 profiles:
   - username: "kristi_gaif"
     fullname: >-
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.035493
     id: ckacwebqxs7co0i78rs4s62su
     verified: false
-    hashtags: "#design, #drawing, #draw, #sketch"
+    hashtags: "#art, #artstruggles, #sketch, #draw"
   - username: "basuragang"
     fullname: >-
       basuragang
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.015024
     id: ckd6jk880cqj00j23rgxpnjh5
     verified: false
-    hashtags: "#nails, #gelnails, #cuteart, #smallbusiness"
+    hashtags: "#cuteart, #gelnails, #nails, #smallbusiness"
   - username: "adrian.double.u"
     fullname: >-
       Adrian.double.u
@@ -54,7 +54,7 @@ profiles:
     commentsToLikes: 0.053574
     id: cka65knq8dfpb0i78lt70cbqp
     verified: false
-    hashtags: "#malenmitadrian, #acryl, #cartoon, #leinwand"
+    hashtags: "#cartoon, #malenmitadrian, #acryl, #leinwand"
   - username: "lisjart"
     fullname: >-
       Евгения Лисовая
@@ -90,7 +90,7 @@ profiles:
     commentsToLikes: 0.063080
     id: ckbknurp9i1z50j23w9hgng0y
     verified: false
-    hashtags: "#timelapse, #fyp, #onevideoaday, #cecilofcleves"
+    hashtags: "#furryfandom, #sketch, #hazel, #pokemon"
   - username: "downrightsketchy"
     fullname: >-
       downrightsketchy
@@ -119,12 +119,12 @@ profiles:
     fullname: >-
       Pixie-Pie
     bio: >-
-      ✧ UK Illustrator • 28 ✧ ✧ Poly • Bi • K!nkTok ✧ She/Her • Links Below
+      ✧ UK Illustrator • 28 ✧ ✧ Poly • Bi • K!nkTok ✧ She/Her • Links on IG
     location: "United Kingdom"
-    followers: 517200
-    engagement: 2021
-    commentsToLikes: 0.019533
+    followers: 539800
+    engagement: 2172
+    commentsToLikes: 0.017103
     id: ck9nsg8rqdhgj0j78j96foi75
     verified: false
-    hashtags: "#mentalhealth, #safespace, #redflags, #itried"
+    hashtags: "#acting, #monologue, #qinktok, #duetthis"
 ---

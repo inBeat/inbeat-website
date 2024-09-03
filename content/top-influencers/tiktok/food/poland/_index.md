@@ -1,11 +1,11 @@
 ---
-title: Top 10 Food TikTok Influencers In Poland In 2023
+title: Top 10 Food TikTok Influencers In Poland In 2024
 description: >-
-  Find top food TikTok influencers in Poland in 2023. Most popular hashtags: #dlaciebie #food #foryou #dc.
+  Find top food TikTok influencers in Poland in 2024. Most popular hashtags: #dlaciebie #food #dc #foryou.
 platform: TikTok
-hits: 80
-text_top: Analyze the top-rated TikTok accounts on inBeat.
-text_bottom: Our search engine has 80 TikTok influencers like this in Poland for you to connect with.
+hits: 79
+text_top: Identify the most popular TikTok profiles on inBeat.
+text_bottom: inBeat aggregates 79 TikTok influencers like this in Poland for you to connect with.
 profiles:
   - username: "meanttobe_together"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.036399
     id: ck9enunyikxjo0j78pzudhgjj
     verified: false
-    hashtags: "#luxurylife, #foryou, #tiktokna, #tiktokuk"
+    hashtags: "#dc, #foryoupage, #2021, #luxurylife"
   - username: "lenagryszko"
     fullname: >-
       lenagryszko

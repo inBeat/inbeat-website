@@ -1,130 +1,130 @@
 ---
-title: Top 10 Models Instagram Influencers In Turkey In 2023
+title: Top 10 Models Instagram Influencers In Turkey In 2024
 description: >-
-  Find top models Instagram influencers in Turkey in 2023. Most popular hashtags: #fashion #modeling #fashionstyle.
+  Find top models Instagram influencers in Turkey in 2024. Most popular hashtags: #model #fashion #good.
 platform: Instagram
-hits: 462
-text_top: Discover the most popular Instagram accounts on inBeat.
-text_bottom: Our search engine holds 462 Instagram influencers like this in Turkey for you to work with.
+hits: 463
+text_top: Discover the most popular Instagram influencers on inBeat.
+text_bottom: Our search engine holds 463 Instagram influencers like this in Turkey for you to work with.
 profiles:
-  - username: "filiz"
+  - username: "av.serayozturk"
     fullname: >-
-      Filiz Miftari
+      Seray Ozturk
     bio: >-
-      no one can close the door that god has opened for you ⭐️ Actress @gunfer Model @modelwerk Founder @lemelange
+      ⚝Best Model of Turkey 1st Runner Up 👑 ⚝Avukat|Lawyer|Model ✨ ⚝Advanced LLM
     location: "Turkey"
-    followers: 679098
-    engagement: 188
-    commentsToLikes: -2.023679
-    id: ck0vxtv3m0pho0i19z6v5h78k
+    followers: 222018
+    engagement: 565
+    commentsToLikes: 0.015939
+    id: ck15s62xabepu0i19r8oe6ux2
     verified: false
-    hashtags: "#loveyourskin"
-  - username: "tzahivazana"
+    hashtags: "#bestmodelofturkey, #bestmodeloftheworld, #bestmodelofturkey2023, #bestie"
+  - username: "borazemani"
     fullname: >-
-      צחי ואזנה
+      Bora Zemani
     bio: >-
-      models agency +972-52-6280053 tzahivazanh@bezeqint.net menachem begin 37 tel aviv
+      • Arbor’s mommy 👩‍👦 •TV Host/ Author/ Actress/ Singer/ Model/ Influencer • Founder of @bzzz.company - Clothing Brand! • Albanian 🇦🇱
     location: "Turkey"
-    followers: 54669
-    engagement: 174
-    commentsToLikes: 0.016564
-    id: ck5c8wxjlad1y0i11i2n9k1zo
+    followers: 1120674
+    engagement: 432
+    commentsToLikes: 0.012243
+    id: ck138uekhi2k60i19cdgj7m6z
+    verified: true
+    hashtags: "#arbordashuria, #myson, #myhappiness"
+  - username: "gloryokings"
+    fullname: >-
+      MODEL | 4C  HAIR | LIFESTYLE
+    bio: >-
+      Content Creator | Model Exploring Istanbul 🇹🇷 📧 gloryokings@gmail.com
+    location: "Turkey"
+    followers: 42122
+    engagement: 378
+    commentsToLikes: 0.016752
+    id: ck5q26ylcekep0i11u0oydgxb
     verified: false
-    hashtags: "#menstyle, #kidsroom, #modeling, #kids"
-  - username: "mucbirseyyah"
+    hashtags: "#blackgirlmagic, #4cnaturalhair, #4c, #blackwomen"
+  - username: "model_chourouk_official"
     fullname: >-
-      Mücbir Seyyah
+      Chourouk Arfaoui
     bio: >-
-      1 Kadın 1 Köpek 97 model sucu arabası 👇👇HER GÜN YENİ VİDEO 👇👇
+      Miss Arab world Tunisia 2021/2022🇹🇳👑 Professional Model For business inquiries DM📩
     location: "Turkey"
-    followers: 26537
-    engagement: 673
-    commentsToLikes: 0.228838
-    id: ck6uaelb8348o0j71z6mhum28
-    verified: false
-    hashtags: "#karavandahayatvar, #yeniy, #kampyeri, #yeni"
-  - username: "cansinmina"
-    fullname: >-
-      Cansın Mina Gür
-    bio: >-
-      Reklam ve işbirliği için cansinminagur02@gmail.com Tek Resmi Hesap Ailesi tarafından yönetilmektedir Çocuk Oyuncu / Model Dizi: Yemin- Kanal 7
-    location: "Turkey"
-    followers: 115829
-    engagement: 872
-    commentsToLikes: 0.029252
-    id: ck9hcd4uaku5l0j78u6dwupb2
+    followers: 1013175
+    engagement: 325
+    commentsToLikes: 0.005737
+    id: ck5qe3cagyitd0i11y1aufkco
     verified: false
     hashtags: ""
-  - username: "saman_lotfi"
+  - username: "fulyasenasarigul"
     fullname: >-
-      SAMAN LOTFI (SAM)
+      Sénia
     bio: >-
-      Fashion Photographer/ Fashion Director 🌟🎥 BASED NYC 📍 Model/CYRUS MODELS - AUSTRIA 🇦🇹 (@cyrusmodels) Contact:saman.lotfi.model@gmail.com
+      Bu profilde herhangi bir kaygı güdülmemektedir. #Yogainstructor #Model 📩 fulyassarigul@gmail.com Lawyer Founder @yogabythenature @eventmag Priv club
     location: "Turkey"
-    followers: 27204
-    engagement: 1347
-    commentsToLikes: 0.031035
-    id: ck0tumfts7r2w0i1952xft7a6
+    followers: 12476
+    engagement: 220
+    commentsToLikes: 0.018517
+    id: ckf5rsdl1dr300j23fegcln8j
     verified: false
-    hashtags: "#fashionphotographer, #director, #samanlotfisam, #comingsoon"
-  - username: "bbellaawhite"
+    hashtags: "#healthyfood, #healthylife, #healthylifestyle, #shooting"
+  - username: "metisha"
     fullname: >-
-      Bella White 🧚🏼‍♀️🧝🏼‍♀️👽
+      metisha
     bio: >-
-      LA📍 Self love 🕊 Contempo Models Mexico | Respect Models Istanbul MA: LRJ New York 💌 laura@lrjmanagement.com
+      Miami 🇺🇸/ Istanbul 🇹🇷 Model | Actress| businessowner @diosas305 📸Bookmetisha@yahoo.com Collabs Mgmt@thejse.net
     location: "Turkey"
-    followers: 12302
-    engagement: 714
-    commentsToLikes: 0.171100
-    id: ck137cifyav000i19n4s7i7nl
-    verified: false
-    hashtags: "#feelgoodfuel, #siswimsearch2021"
-  - username: "sofe_bayaty"
+    followers: 1205010
+    engagement: 215
+    commentsToLikes: 0.008635
+    id: ck0ttw6l84kro0i19fvc4jmzh
+    verified: true
+    hashtags: "#style, #mykonosisland, #fashion, #sheinforall"
+  - username: "tugcedural"
     fullname: >-
-      sofe Albayaty
+      Tuğçe Dural
     bio: >-
-      ‏🇮🇶Wrestling champion Iraq🥊 ‏Fitness🏋🏻‍♀️💪🏻 SC:sofe0001👻 ‏Practical makeup💄 Age.25 I live in Turkey🇹🇷 model👖👕
+      •Presenter 📺 •Best model of turkey •tugce@flickturkiye.com •Milliyet @pembenar yazarı ✏️
     location: "Turkey"
-    followers: 22461
-    engagement: 406
-    commentsToLikes: 0.235652
-    id: ckf5mjamou25e0j23iugsnz49
+    followers: 431361
+    engagement: 172
+    commentsToLikes: 0.010432
+    id: ck5zuw14x359i0i14e8lvjp1m
+    verified: true
+    hashtags: "#rekl, #fendipeekaboo, #blacksoul, #refreshcut"
+  - username: "alirezakohany"
+    fullname: >-
+      Alireza Kohany
+    bio: >-
+      • Official IG of Alireza Kohany • Musician | Producer | Model
+    location: "Turkey"
+    followers: 6145651
+    engagement: 157
+    commentsToLikes: 0.097666
+    id: ck6twksyoskrt0j718bklcysa
     verified: false
-    hashtags: "#inspirationalquotes, #explorepage, #iraqi, #basra"
+    hashtags: "#alirezakohani, #karma, #techno, #actor"
   - username: "nstankulova"
     fullname: >-
       Никол Станкулова
     bio: >-
-      Tv host 📺 / Model 📸 #Weatherpresenter #bloggerfashion For Collaboration: n.stankulova@gmail.com 📩
+      TV host / Model #Weatherpresenter #bloggerfashion For Collaboration: n.stankulova@gmail.com 📩
     location: "Turkey"
-    followers: 289375
-    engagement: 189
-    commentsToLikes: 0.033831
+    followers: 286810
+    engagement: 140
+    commentsToLikes: 0.137847
     id: ck6tiq84417pk0j71qr46mysv
     verified: false
-    hashtags: "#mondaymood, #teilorfinejewellery, #teilor, #fun"
-  - username: "duyguozlen1"
+    hashtags: "#teilor, #hellenergycoffee, #family, #timetocelebrate"
+  - username: "turuncuprenses"
     fullname: >-
-      Duygu Özlen
+      Tuğba Şeremet🧡
     bio: >-
-      Manager: @selimakar Turvak Cinema- Theatre Model-Tv Host- Actress @arianutritionofficial athlete Reklam ve İş birlikleri Dm
+      Ballerina | Model | Actress | Gymnast | Dancer 🌈Account managed by family @tubaseremet 💌tugbamelis@gmail.com
     location: "Turkey"
-    followers: 91972
-    engagement: 265
-    commentsToLikes: 0.058211
-    id: ckap2tz1c0b8s0i78dd78koxa
+    followers: 104880
+    engagement: 132
+    commentsToLikes: 0.051745
+    id: ck5hp6usoqupl0i11sksibbi1
     verified: false
-    hashtags: "#shooting, #shootingday, #fashion, #videoedit"
-  - username: "ligiadollha"
-    fullname: >-
-      LIGI DOLLHA🐆
-    bio: >-
-      Public Figure Influencer Fitness model
-    location: "Turkey"
-    followers: 198661
-    engagement: 599
-    commentsToLikes: 0.012366
-    id: ckap0ll6bqu700i78qu9phvpi
-    verified: false
-    hashtags: ""
+    hashtags: "#kidsmodel, #reelsinstagram, #dress, #likemotherlikedaughter"
 ---

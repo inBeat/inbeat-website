@@ -1,24 +1,72 @@
 ---
-title: Top 10 Stylists Instagram Influencers In Barcelona In 2023
+title: Top 10 Stylists Instagram Influencers In Barcelona In 2024
 description: >-
-  Find top stylists Instagram influencers in Barcelona in 2023. Most popular hashtags: #fashion #barcelona #moda #belleza.
+  Find top stylists Instagram influencers in Barcelona in 2024. Most popular hashtags: #fashion #moda #barcelona #stylist.
 platform: Instagram
-hits: 20
-text_top: See the best Instagram profiles on inBeat.
-text_bottom: Our platform aggregates 20 Instagram influencers like this in Barcelona, Spain for you to connect with.
+hits: 26
+text_top: See the best Instagram accounts on inBeat.
+text_bottom: Our platform aggregates 26 Instagram influencers like this in Barcelona, Spain for you to contact.
 profiles:
-  - username: "miregarde"
+  - username: "morenooces"
     fullname: >-
-      Mire Garde
+      Jose Moreno Oces
     bio: >-
-      ___________ Barcelona contact ✉️ mireiagardedomenech@gmail.com Stylist @beingmird.studio
+      El sexo alivia la tensión y el amor la causa 👕Fashion Stylist / VM ♥️Málagueño 📍Barcelona
     location: "Spain"
-    followers: 16021
-    engagement: 423
-    commentsToLikes: 0.025958
-    id: ckap58lt7anlm0i78jj0fc6j1
+    followers: 60023
+    engagement: 341
+    commentsToLikes: 0.028677
+    id: ckapbpbkn0sww0i783eq83h6h
     verified: false
-    hashtags: "#nailsfactory, #geilspremium, #pullandbear, #pullandbearcommunity"
+    hashtags: "#goodvibesonly, #keepitsimple, #summer, #moodoftheday"
+  - username: "shanishaki"
+    fullname: >-
+      Shani Shaki
+    bio: >-
+      Fashion photographer/director actor/traveller/model/brand influencer/creative artist/Stylist/ story teller
+    location: "Spain"
+    followers: 194224
+    engagement: 766
+    commentsToLikes: 0.004883
+    id: ck0vxzqgd1j410i19wfsbdtrp
+    verified: true
+    hashtags: "#barcelona, #onam, #myfav, #explorer"
+  - username: "lauraponts"
+    fullname: >-
+      Laura López
+    bio: >-
+      📍Barcelona 📩lauraponts1@gmail.com 🌶️Food | Deco | Travel | Recipes | Stylist 📕Mi libro: Recetas con Mucho Arte
+    location: "Spain"
+    followers: 393187
+    engagement: 117
+    commentsToLikes: 0.077306
+    id: ck55oe9q786mc0i11ba3rs7pg
+    verified: true
+    hashtags: "#cuina, #menorca, #recetasfacilesyrapidas, #saladrecipe"
+  - username: "skhbarbara"
+    fullname: >-
+      Barbara 🐹 Content creator | Stylist
+    bio: >-
+      📍Based in Dubai | Barcelona now in Moscow 🔍 agent: @karuevva also I work as a mentor ( fashion / styling)
+    location: "Spain"
+    followers: 45052
+    engagement: 86
+    commentsToLikes: 0.003200
+    id: ck0tyckx3mfhx0i19ihtfs02s
+    verified: false
+    hashtags: "#ootd, #fitcheck, #outfitoftheday, #outfitinspo"
+  - username: "patpm"
+    fullname: >-
+      ᴘᴀᴛᴘᴍ 🧿
+    bio: >-
+      #artdirector #contentcreator #stylist Fashion • Beauty • Lifestyle • Travel 📍BCN COLLABS ✉️ hipatpm@gmail.com Founder @eunoia.bcn 🌱 More link in bio
+    location: "Spain"
+    followers: 16834
+    engagement: 24
+    commentsToLikes: 0.000000
+    id: ck6uaahzc2ggj0j71fknxc71e
+    verified: false
+    hashtags: "#micashaul, #ad, #micasgal, #travelblogger"
   - username: "carolinapshopper"
     fullname: >-
       Carolina De Souza
@@ -42,19 +90,19 @@ profiles:
     commentsToLikes: 0.048377
     id: ck5c9tm8bc3n10i11urmbxl88
     verified: false
-    hashtags: "#peoplescreative, #ecoconscious, #couple, #letsgosomewhere"
+    hashtags: "#inspirationwedding, #halloweeninspiration, #hippiebride, #home"
   - username: "victorsupertramp"
     fullname: >-
       Victor Supertramp
     bio: >-
-      🙋🏻‍♂️.- Photographer 📩.- info@victorsupertramp.com 📍.- Barcelona 📸.- @sigmaphotospain / @pentaxricohspain
+      🙋🏻‍♂️.- Photographer 📩.- victorsupertrampfotografia@gmail.com 📍.- Barcelona 📸.- @sigmaphotospain / @pentaxricohspain
     location: "Spain"
-    followers: 4593
-    engagement: 908
-    commentsToLikes: 0.058083
+    followers: 4859
+    engagement: 629
+    commentsToLikes: 0.045480
     id: ck0tuw1uf8xho0i19uf0mwyhq
     verified: false
-    hashtags: "#vogue, #moda, #fashionmagazine, #editorial"
+    hashtags: "#fashionmagazine, #fashionstylist, #glamour, #photooftheday"
   - username: "danirull.official"
     fullname: >-
       danielrull
@@ -66,7 +114,7 @@ profiles:
     commentsToLikes: 0.095710
     id: ck0w0ii8tedh20i19eb5soii8
     verified: false
-    hashtags: "#hairstyle, #instafashion, #fashionblogger, #production"
+    hashtags: "#creativedirector, #danirull, #fashion, #muscle"
   - username: "eduardojairycovich"
     fullname: >-
       Eduardo  J a i r y c o v i c h
@@ -78,53 +126,5 @@ profiles:
     commentsToLikes: 0.018287
     id: ck5bucesphj2u0i11ry411q16
     verified: false
-    hashtags: "#valencia, #queerartv, #lgtb, #heels"
-  - username: "angiecouple"
-    fullname: >-
-      Angie Couple
-    bio: >-
-      Fashion Photographer + Creative Director Barcelona Represented by @dogmamoda
-    location: "Spain"
-    followers: 89291
-    engagement: 251
-    commentsToLikes: 0.007632
-    id: ck14h0yam7ztu0i19nkjuo7p5
-    verified: false
-    hashtags: "#summervibes, #analogphotography, #kodakportra400, #film"
-  - username: "annasenan"
-    fullname: >-
-      Anna Senan
-    bio: >-
-      🎓Com. Audiovisual 🎭Interpretación 💃🏼Baile 📸Fotografía (actores, modelos) 💥@inextremisstunt 🏠MAD-BCN 🐶Spezi 👨‍👩‍👧‍👦Madrastri 📍Barcelona,1994
-    location: "Spain"
-    followers: 32721
-    engagement: 501
-    commentsToLikes: 0.029029
-    id: ck5c9t6czc2pl0i11dz22pu55
-    verified: false
-    hashtags: "#madrid, #adomicilio, #sal, #belleza"
-  - username: "maksimslavin"
-    fullname: >-
-      M A K S I M    S L A V I N
-    bio: >-
-      Tel-Aviv based stylist & Interior designer Owner of @maksimslavininteriors
-    location: "Spain"
-    followers: 8224
-    engagement: 534
-    commentsToLikes: 0.018962
-    id: ck6ucb0uhejre0j71tc2mkwqq
-    verified: false
-    hashtags: "#dubai, #adrussia, #interiordesign, #art"
-  - username: "madeinvideo"
-    fullname: >-
-      Destination wedding Filmmakers
-    bio: >-
-      🎥 Couple & creative team 👫 Jonas&Esther 📍From Mallorca to the 🌍 📃info@madeinvideo.es 2021: Venice/ Florence/Gibraltar/Santorini/Amalfi/Miami
-    location: "Spain"
-    followers: 11432
-    engagement: 341
-    commentsToLikes: 0.139225
-    id: ck0vw0remrlbq0i190kon7770
-    verified: false
-    hashtags: "#weddingfilm, #destinationweddingplanner, #weddingphotographer, #spainwedding"
+    hashtags: "#hoscos, #gayboy, #drag, #dragqueen"
 ---

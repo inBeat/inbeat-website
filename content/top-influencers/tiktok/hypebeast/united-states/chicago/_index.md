@@ -1,11 +1,11 @@
 ---
-title: Top 10 Hypebeast TikTok Influencers In Chicago In 2023
+title: Top 10 Hypebeast TikTok Influencers In Chicago In 2024
 description: >-
-  Find top hypebeast TikTok influencers in Chicago in 2023. Most popular hashtags: #fyp #hypebeast #foryou #sneakerhead.
+  Find top hypebeast TikTok influencers in Chicago in 2024. Most popular hashtags: #fyp #hypebeast #foryou #sneakerhead.
 platform: TikTok
 hits: 4
-text_top: Analyze the most popular TikTok accounts on inBeat.
-text_bottom: Our database aggregates 4 TikTok influencers like this in Chicago, United States for you to connect with.
+text_top: See the top-rated TikTok influencers on inBeat.
+text_bottom: inBeat holds 4 TikTok influencers like this in Chicago, United States for you to pitch.
 profiles:
   - username: "hirizekickz"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.040049
     id: cka9lauph1zti0i7867da44uh
     verified: false
-    hashtags: "#offwhite, #sneakers, #jordan, #duet"
+    hashtags: "#quarntinethings, #travisscott, #gotitoffthemuscle, #jordan"
   - username: "officialenvyhype"
     fullname: >-
       EnvyHype
@@ -102,19 +102,19 @@ profiles:
     commentsToLikes: 0.046338
     id: ck9glclqknlpf0j786olklmgw
     verified: false
-    hashtags: "#sneaker, #sneakerhead, #shoetok, #hypebeast"
+    hashtags: "#sneakerhead, #fyp, #sneaker, #hypebeast"
   - username: "nohoesyorsh"
     fullname: >-
-      abovetherimhoops
+      yorsh
     bio: >-
       professional failure
     location: "United States"
-    followers: 6017
-    engagement: 1609
-    commentsToLikes: 0.091755
+    followers: 5958
+    engagement: 1081
+    commentsToLikes: 0.045068
     id: ckbf7fig4xba20j23d29435oq
     verified: false
-    hashtags: "#sneakers, #kicks, #lakers, #basketball"
+    hashtags: "#shoes, #basketball, #sneakerhead, #nba"
   - username: "tommytrillions"
     fullname: >-
       IG: @tommytrillions

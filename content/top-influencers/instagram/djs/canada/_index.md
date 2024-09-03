@@ -1,11 +1,11 @@
 ---
-title: Top 10 Djs Instagram Influencers In Canada In 2023
+title: Top 10 Djs Instagram Influencers In Canada In 2024
 description: >-
-  Find top djs Instagram influencers in Canada in 2023. Most popular hashtags: #vancouver #montreal #reelsvideo.
+  Find top djs Instagram influencers in Canada in 2024. Most popular hashtags: #punjabiwedding #melodichouse #vancouver.
 platform: Instagram
-hits: 17
-text_top: Discover the best Instagram profiles on inBeat.
-text_bottom: Our platform aggregates 17 Instagram influencers like this in Canada for you to work with.
+hits: 38
+text_top: Analyze the best Instagram influencers on inBeat.
+text_bottom: Our database holds 38 Instagram influencers like this in Canada for you to collaborate.
 profiles:
   - username: "edwinsbook"
     fullname: >-
@@ -25,12 +25,36 @@ profiles:
     bio: >-
       🎧 OPEN FORMAT DJ / PRODUCER 🌎 BOOKINGS / COLABS VIA EMAIL 📧 INFO@DJSPMUSIC.COM 🔻 LISTEN TO MY MIXES BELOW🔻
     location: "Canada"
-    followers: 2959
-    engagement: 2344
-    commentsToLikes: 0.058217
+    followers: 2961
+    engagement: 2044
+    commentsToLikes: 0.055521
     id: ck14kv81jrh3h0i19503pz9jy
     verified: false
-    hashtags: "#tiktokindia, #freqdjs, #partywithsp, #hostel"
+    hashtags: "#freqdjs, #frequencyent, #partywithsp, #tiktokindia"
+  - username: "djscottyscratch"
+    fullname: >-
+      its scotty baby
+    bio: >-
+      @djcity @membersonly.to
+    location: "Canada"
+    followers: 12410
+    engagement: 524
+    commentsToLikes: 0.067335
+    id: ck55mipnd41vn0i11wxomu9wt
+    verified: false
+    hashtags: ""
+  - username: "djsiavash"
+    fullname: >-
+      Siavash Ashrafinia
+    bio: >-
+      Get Physical | Mobilee | Poker Flat | 8Bit ➕ Labelboss @youplusoneca ➕ Resident @baramericas #𝗟𝗮𝘀𝘁𝗡𝗶𝗴𝗵𝘁𝗦𝗶𝗮𝘃𝗮𝘀𝗵𝗦𝗮𝘃𝗲𝗱𝗠𝘆𝗟𝗶𝗳𝗲 🧙🏼‍♂️
+    location: "Canada"
+    followers: 20807
+    engagement: 198
+    commentsToLikes: 0.029928
+    id: ck6u8oq36ssz30j71ejsmnfu6
+    verified: false
+    hashtags: "#ypomusic, #melodichouse, #lastnightsiavashsavedmylife, #longliveundergound"
   - username: "therealdjshowtime"
     fullname: >-
       DJ Showtime
@@ -43,18 +67,42 @@ profiles:
     id: ck5q2yt18ifec0i11evb0yb5e
     verified: false
     hashtags: "#pdp, #djshowtime, #trapsuperfly, #migogang"
-  - username: "olivierprimeaubc"
+  - username: "whippedcream"
     fullname: >-
-      Olivier Primeau
+      WHIPPED CREAM
     bio: >-
-      Beachday Everyday
+      MY TOUR ON SALE NOW LINK IN BIO🌎🚾 @cherrypit66 for my beats 💿
     location: "Canada"
-    followers: 679260
-    engagement: 62
-    commentsToLikes: 0.044427
-    id: ck0vvpuyvq7xg0i19541djgzx
+    followers: 171068
+    engagement: 274
+    commentsToLikes: 0.002774
+    id: ck0tzljx4qs3k0i19jn1wg8au
     verified: true
-    hashtags: "#lol, #laval, #slicegang, #vlog"
+    hashtags: "#edm, #viralreels, #dj, #explore"
+  - username: "deejayjsg"
+    fullname: >-
+      Jimmy Grover
+    bio: >-
+      DJ JSG 🎹 DJ / MC International Wedding & Event DJ 🌍 ✈️ Available Worldwide 📧 book@deejayjsg.ca
+    location: "Canada"
+    followers: 110375
+    engagement: 101
+    commentsToLikes: 0.029857
+    id: ck6ub5txx7n640j719lbrnkp3
+    verified: false
+    hashtags: "#reelitfeelit, #hosted, #travelcouple, #sikhwedding"
+  - username: "furcoatmusic"
+    fullname: >-
+      Fur Coat
+    bio: >-
+      Owner @oddityrecordings •EU & ROW: daniel@jackmode.com •N & S AMERICA: rs@thebullittagency.com •For other inquiries: furcoatmusic@gmail.com
+    location: "Canada"
+    followers: 100557
+    engagement: 21
+    commentsToLikes: 0.047756
+    id: ck5pwgmjzmpbu0i11so9epqu3
+    verified: true
+    hashtags: "#electronicmusic, #furcoatmusic, #melodichouseandtechno, #melodichouse"
   - username: "djarems"
     fullname: >-
       Andre Arems El-Baba
@@ -66,65 +114,17 @@ profiles:
     commentsToLikes: 0.073223
     id: ck15u5y6blkko0i195ksgtybw
     verified: false
-    hashtags: "#twitch, #reggae, #dancehall, #easterweekend"
-  - username: "nikisadeki"
+    hashtags: "#twitch, #reggae, #dancehall, #theshowmustbepaused"
+  - username: "jagphotostudios"
     fullname: >-
-      Niki Sadeki
+      Jag Photo Studios
     bio: >-
-      🎵Curator: @deephousevancouver 📩Bookings: @we_are_e 🔻Recording of Currents Livestream:
+      ✉️: info@jagphotostudios.com Monochrome : @aaelia.co
     location: "Canada"
-    followers: 5885
-    engagement: 522
-    commentsToLikes: 0.070972
-    id: ck5buppyti7i70i11otn2z451
+    followers: 19915
+    engagement: 1570
+    commentsToLikes: 0.016900
+    id: ck5qa6occetns0i11lozlrspm
     verified: false
-    hashtags: "#throwback, #flashback, #inthistogether, #nikisadekiontour"
-  - username: "jdphotostudios"
-    fullname: >-
-      JD Photo Studios
-    bio: >-
-      Award Winning Wedding Photographer. Based in Vancouver BC, Available Worldwide 🌎 📧 info@jdphotos.ca #jdphotostudios
-    location: "Canada"
-    followers: 17028
-    engagement: 196
-    commentsToLikes: 0.022388
-    id: ck0w0rbkdfneo0i19zd4fgwml
-    verified: false
-    hashtags: "#authenticlovemag, #vancouver, #indianbridal, #weddingwire"
-  - username: "prabhsainii"
-    fullname: >-
-      Prabh Saini
-    bio: >-
-      Libra - Lover - Line of Duty 😉 Director & Coach @shaanpunjabdee Co-founder @bhangrainthe6ix Recent: ↘️Asal Punjab • #nofarmersnofood 🔗
-    location: "Canada"
-    followers: 11627
-    engagement: 2134
-    commentsToLikes: 0.043155
-    id: ck602m5t2hy5b0i14eb72x6fa
-    verified: false
-    hashtags: "#bhangravideo, #jagmeetsaini, #punjab, #kisaanmajdoorektazindabad"
-  - username: "medjy_enposib"
-    fullname: >-
-      Medjy Toussaint
-    bio: >-
-      Co-founder and Lead singer of @enposib
-    location: "Canada"
-    followers: 590406
-    engagement: 208
-    commentsToLikes: 0.023284
-    id: ck6ub3c4p781l0j71v3e1020i
-    verified: false
-    hashtags: "#lesanne, #day1, #cho, #pdp"
-  - username: "katieholden"
-    fullname: >-
-      Katie Holden
-    bio: >-
-      Pro 🚲’er ❤️ Lover of people, activities & travel. Ambassador, adventurer & creative⚡️ 🌎: katie.bike 💫: @growcyclingfoundation & Red Bull Formation
-    location: "Canada"
-    followers: 15869
-    engagement: 341
-    commentsToLikes: 0.049079
-    id: ck5c5dolg39vm0i11qlk2f0jr
-    verified: false
-    hashtags: "#defender2020, #goprohero9, #givesyouwings, #arcteryx"
+    hashtags: "#realweddings, #luxurywedding, #weddingphotography, #bridal"
 ---

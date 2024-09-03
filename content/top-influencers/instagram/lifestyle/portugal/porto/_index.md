@@ -1,130 +1,130 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Porto In 2023
+title: Top 10 Lifestyle Instagram Influencers In Porto In 2024
 description: >-
-  Find top lifestyle Instagram influencers in Porto in 2023. Most popular hashtags: #fashion #ootd #lifestyle #fashionblogger.
+  Find top lifestyle Instagram influencers in Porto in 2024. Most popular hashtags: #fashion #ootd #porto #fashionstyle.
 platform: Instagram
-hits: 13
-text_top: Identify the most popular Instagram accounts on inBeat.
-text_bottom: Our search engine holds 13 Instagram influencers like this in Porto, Portugal for you to collaborate.
+hits: 23
+text_top: Analyze the best Instagram profiles on inBeat.
+text_bottom: Our search engine has 23 Instagram influencers like this in Porto, Portugal for you to connect with.
 profiles:
-  - username: "aluisalopes"
+  - username: "mafaldajacques"
     fullname: >-
-      ＬＵÍＳΛ   ＬＯＰΞＳ
+      Mafalda Jacques
     bio: >-
-      Trust me I have no idea what I’m doing too ♡ FASHION || COLLEGE || LIFESTYLE 📍Based in Porto, PT 📩 luisamlopes23@gmail.com
+      📍Porto, Portugal // Lifestyle, daily inspo & Travel 👚 Vinted profile 👇🏻
     location: "Portugal"
-    followers: 18509
-    engagement: 304
-    commentsToLikes: 0.015890
-    id: ck9hbax8tg2qo0j78we79olaj
+    followers: 15712
+    engagement: 107
+    commentsToLikes: 0.007523
+    id: ckap7utaqlnsk0i78vxdqsu44
     verified: false
-    hashtags: "#zaraoutfit, #outfitoftheday, #ootdshare, #lookdodiabrasil"
+    hashtags: "#intermarche, #burga, #stdalfour, #joininfluee"
+  - username: "anitadacosta"
+    fullname: >-
+      Anita Da Costa Castanheira
+    bio: >-
+      📍Porto | Portuguese • Fashion, beauty, lifestyle and gorgeous views @cubufitnessboutique
+    location: "Portugal"
+    followers: 268568
+    engagement: 146
+    commentsToLikes: 0.003996
+    id: ck0ub9f3le3pr0i19okrw0b44
+    verified: false
+    hashtags: "#isto, #pub, #nespressocaliforniadream, #assobio"
+  - username: "diogoalmeidacunha"
+    fullname: >-
+      Diogo Cunha
+    bio: >-
+      Lifestyle and fashion Founder @deccer_porto Founder @witech_
+    location: "Portugal"
+    followers: 113601
+    engagement: 83
+    commentsToLikes: 0.098824
+    id: ck5zm3t05lufs0i14g3ls3b2q
+    verified: false
+    hashtags: "#insta, #ootd, #summer, #fashion"
   - username: "joanacbcosta"
     fullname: >-
       Joana Costa
     bio: >-
-      lifestyle, fashion and travel 16/10📍 Porto ➝ if you stand for nothing you'll fall for anything 🐘 ➝ collabs via e-mail or dm LAST VIDEO HERE 👇🏽❤️
+      lipedema reels | lifestyle | fashion and travel 16/10📍Porto ➝ collabs via e-mail or dm all social media and links here👇🏽
     location: "Portugal"
-    followers: 61870
-    engagement: 353
-    commentsToLikes: 0.539473
+    followers: 88261
+    engagement: 326
+    commentsToLikes: 0.477324
     id: ckap6c2m9f9gv0i786k2ulw9p
     verified: false
-    hashtags: "#falloutfit, #fashion, #outono, #casuallook"
-  - username: "joanavaz_"
-    fullname: >-
-      JOANA VAZ
-    bio: >-
-      • Portuguese • Arch • Blogger • 📍 Porto 📩 info@joanavaz.pt SHOP MY SUNGLASSES COLLECTION HERE 👇
-    location: "Portugal"
-    followers: 351000
-    engagement: 411
-    commentsToLikes: 0.011860
-    id: ck0vvzzinrhpl0i19s7rkfmrz
-    verified: true
-    hashtags: "#positano, #fashionstyle, #summer, #travel"
-  - username: "sara_nata"
-    fullname: >-
-      Sara Nata | Fashion•Lifestyle
-    bio: >-
-      📍Porto • Portugal Stylist • Image Consultant • Fashion Adviser 📥 DM
-    location: "Portugal"
-    followers: 7595
-    engagement: 736
-    commentsToLikes: 0.125359
-    id: ck8t4c6ru68o50j784zjtiz1f
-    verified: false
-    hashtags: "#fashionista, #sunglasses, #instagood, #styleinspiraton"
-  - username: "ajoanamaiaa"
-    fullname: >-
-      TRAVEL✨| FASHION✨|LIFESTYLE ✨
-    bio: >-
-      Travel lover 🌿 Fashion Addict 🌺 #sheisnotlost ✨Joana - 18% @soulmia_store Collabs 📩 info@mrstravel.pt Porto, Portugal 📍
-    location: "Portugal"
-    followers: 9479
-    engagement: 659
-    commentsToLikes: 0.128359
-    id: ck14hflt0a2vq0i19iwbux8so
-    verified: false
-    hashtags: "#poolview, #outfitinspo, #traveltheworld, #visitportugal"
-  - username: "rubendaniiel"
-    fullname: >-
-      Rúben Daniel 🇵🇹 🏄🏽‍♂️
-    bio: >-
-      20|Porto📍| 18💛 CEO @desportolowcost._ TIPSTER APOSTAS DESPORTIVAS @tips4real._ 📊 ⬇️ GRUPO APOSTAS GRATUITO ⬇️
-    location: "Portugal"
-    followers: 60048
-    engagement: 239
-    commentsToLikes: 0.298307
-    id: ckap6k8kag7960i78ny2fsi99
-    verified: false
-    hashtags: ""
+    hashtags: "#lipoedemaawareness, #lipedemaawareness, #lipedemaportugal, #lipedemasurgery"
   - username: "im.susanasilva"
     fullname: >-
-      SUSANA SILVA ♡
+      SUSANA SILVA
     bio: >-
-      Based in Porto, Portugal Embaixadora @fitnessup_portugal • Code UP-SUSANASILVA 5€ Desconto Hawk da @hawkerscrew • Code HC-SUSANASILVA 20% Desconto
+      lifestyle | gym | routine oporto, pt contact.susanasilva@gmail.com 📩
     location: "Portugal"
-    followers: 14331
-    engagement: 306
-    commentsToLikes: 0.080679
+    followers: 44537
+    engagement: 430
+    commentsToLikes: 0.026338
     id: ckaovkl9a4ys60i787iawknf3
     verified: false
-    hashtags: "#womanpower, #woman, #photoshoot, #womanfashion"
-  - username: "catarina.fernandees"
+    hashtags: "#zaraoutfit, #zara, #ootdshare, #fashionblogger"
+  - username: "tiagovski555"
     fullname: >-
-      Catarina Fernandes
+      Tiagovski
     bio: >-
-      • Content Creator • Lagos/Lisbon • Fashion and Lifestyle • PR, Digital & Brand: gustavo@centralmodels.pt • Founder: @caetanashop 🤍
+      🇵🇹 Influencer | Lifestyle | Gaming | Streamer Código VSKI @prozisportugal Código VSKI @solverde.pt 📧 E-mail : tiagovskinegocios@hotmail.com YouTube ⬇️
     location: "Portugal"
-    followers: 97960
-    engagement: 391
-    commentsToLikes: 0.065325
-    id: ck1374d9y9pu80i19hpf69j8k
-    verified: false
-    hashtags: "#lookdacate, #grwm, #fashion, #ootd"
-  - username: "marcos_carvalho_27"
+    followers: 555554
+    engagement: 463
+    commentsToLikes: 0.035398
+    id: ck5hqk37ot8gh0i11oqtv82vp
+    verified: true
+    hashtags: "#follow, #prozis, #premio, #trend"
+  - username: "bruna_danin"
     fullname: >-
-      Menfashion | Lifestyle
+      Bruna Danin
     bio: >-
-      📍Base Felgueiras Portugal ▪️ #menstyle #fashionmen 💈 @barbearia27novembro_espaco27 💪🏽 @fitnessup_portugal UP-MARCOSCARVALHO 😎 Hawkers link ⬇️
+      📷 photo 👗 fashion and lifestyle 📨 DM for collaboration 📩 Brunadanin@hotmail.com @fitnessup_portugal : UP-BRUNADANIN 15€ desc
     location: "Portugal"
-    followers: 16680
-    engagement: 205
-    commentsToLikes: 0.208628
-    id: ckapahczbw3yk0i788479t5yl
+    followers: 31785
+    engagement: 210
+    commentsToLikes: 0.020753
+    id: ck5zp7pghs5dl0i14hz9ssf4l
     verified: false
-    hashtags: "#streetstyleinspo, #modamasculina, #lifestyle, #fashionmenstyle"
-  - username: "_matildecavaleiro_"
+    hashtags: "#fashionstyle, #travelphotography, #lookdodia, #excedyourself"
+  - username: "andrechaica"
     fullname: >-
-      MATILDE CAVALEIRO
+      André Chaíça . Lisboa
     bio: >-
-      🇵🇹 @fitnessup_portugal CÓDIGO: UP-MATILDECAVALEIRO
+      Travel, food & lifestyle Content creator, ugc & social media manager All my reels secrets 👇🏻
     location: "Portugal"
-    followers: 5169
-    engagement: 1714
-    commentsToLikes: 0.013943
-    id: ckf5t1ujxgptw0j23poyqpd85
+    followers: 372356
+    engagement: 200
+    commentsToLikes: 0.037055
+    id: ck0vz4vq97bht0i19ygdgfeoq
     verified: false
-    hashtags: "#like4like, #follw, #porto, #travel"
+    hashtags: "#spring, #lisbon, #portugallovers, #amarlisboa"
+  - username: "shahad_alshawk"
+    fullname: >-
+      Shahad Al-Shawk
+    bio: >-
+      ✈️Itineraries.Destinations.Hotels.Restaurants تعالو نشوف اماكن حلوة 🗺️ 🌎Travel . Family lifestyle 📩Shahad.al-shawk@outlook.com 📍Currently in Finland
+    location: "Portugal"
+    followers: 107861
+    engagement: 87
+    commentsToLikes: 2.758643
+    id: ck9wisobi3slb0j7807zufmyv
+    verified: false
+    hashtags: "#discoverfinland, #visitrovaniemi, #travelphotography, #apukkaresort"
+  - username: "pinkieloveforever"
+    fullname: >-
+      Inês Silva | Lifestyle & Travel
+    bio: >-
+      📍Porto, Portugal 📎 Master Designer & Pro Makeup Artist 📸 Lifestyle • Travel • Beauty • Food • Fashion Encontra-me Aqui👇🏻
+    location: "Portugal"
+    followers: 19074
+    engagement: 29
+    commentsToLikes: 0.000000
+    id: ck0w4205xweo30i19lqchjlwe
+    verified: false
+    hashtags: "#tophamburgueria, #viajar, #adulting, #blogdebeleza"
 ---

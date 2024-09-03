@@ -1,24 +1,12 @@
 ---
-title: Top 10 Cooking Instagram Influencers In Peru In 2023
+title: Top 10 Cooking Instagram Influencers In Peru In 2024
 description: >-
-  Find top cooking Instagram influencers in Peru in 2023. Most popular hashtags: #peru #foodporn #peruvianfood.
+  Find top cooking Instagram influencers in Peru in 2024. Most popular hashtags: #peru #foodporn #lima.
 platform: Instagram
-hits: 19
-text_top: Analyze the best Instagram profiles on inBeat.
-text_bottom: Our search engine aggregates 19 Instagram influencers like this in Peru for you to work with.
+hits: 21
+text_top: Discover the most popular Instagram accounts on inBeat.
+text_bottom: Our database holds 21 Instagram influencers like this in Peru for you to pitch.
 profiles:
-  - username: "laespatulaverde"
-    fullname: >-
-      Karen Lema | Recetas caseras
-    bio: >-
-      👩🏻‍🍳Cocinera y autora del libro La Espátula Verde. 🥙Aprende a cocinar fácil y saludable. 💚Más recetas, ideas y tips en mi libro:
-    location: "Peru"
-    followers: 122171
-    engagement: 374
-    commentsToLikes: 0.338682
-    id: ck13cqhvt1o2l0i19xu2swugr
-    verified: false
-    hashtags: "#instafood, #recetadeldia, #easyrecipes, #cuidad"
   - username: "peruvianknife"
     fullname: >-
       Guillermo Velásquez
@@ -79,52 +67,64 @@ profiles:
     id: ck0w1gbrlj7dy0i190mb6x17g
     verified: false
     hashtags: "#cocinacasera, #cilindro, #peruvianfood, #peru"
-  - username: "malucci_xo"
+  - username: "aleidanunez"
     fullname: >-
-      Malucci 🌶🇵🇪
+      Aleida Nuñez OFICIAL
     bio: >-
-      Bookings 📩 : maluccibookings@gmail.com +51 976474370 +1(787)718-1485 🥵LERO LERO🥵
+      Contacto México @fzmanagement USA @hispanomedio
     location: "Peru"
-    followers: 549754
-    engagement: 1161
-    commentsToLikes: 0.007849
-    id: ck5bx47sumyy90i11rg1bra8w
+    followers: 4106759
+    engagement: 30
+    commentsToLikes: 0.011034
+    id: ck5bwzlphmpza0i11vyqcqhoh
     verified: true
-    hashtags: "#dollskill"
-  - username: "dianakaramusic"
+    hashtags: "#diosesbueno, #actriz, #costarica, #playa"
+  - username: "lagunapai"
     fullname: >-
-      𝐃𝐈𝐀𝐍𝐀 𝐊𝐀𝐑𝐀
+      Laguna Pai
     bio: >-
-      Cantante, compositora y actriz. Booking 📩dianakaraoficial@Gmail.🔥 lo nuevo ⬇️ PLASTILINA escúchala aquí👇🏻👇🏻
+      Booking & MGMT: @elisarecords 🎫 04/05 Amar no Cuesta nada @sargentpimienta 👇🏽
     location: "Peru"
-    followers: 92754
-    engagement: 47
-    commentsToLikes: 0.083740
-    id: ck6tyzrb66t7e0j71olbucadn
+    followers: 73372
+    engagement: 152
+    commentsToLikes: 0.032988
+    id: ck5ckna69x84e0i11l6tlgyvn
     verified: false
-    hashtags: "#plastilina"
-  - username: "bluhydrangea_"
+    hashtags: "#elcaminoeslargo, #concierto, #live, #atentos"
+  - username: "gonzalogenek"
     fullname: >-
-      Blu Hydrangea
+      
     bio: >-
-      RUPAULS DRAG RACE UK SEASON 1 ✨ 🔹🔷🔹 For booking contact: Bookings@bluhydrangea.com 🔹🔷🔹
+      “Tour La Vuelta 2023” Booking (+51) 912 883 586 pedro@artis.com.pe
     location: "Peru"
-    followers: 367536
-    engagement: 852
-    commentsToLikes: 0.009016
-    id: ck0twvco0gwp90i19g9hnb6s6
-    verified: false
-    hashtags: "#rupaulsdragrace, #dragperfection, #clubkid, #dragqueensofinstagram"
-  - username: "templesourperu"
-    fullname: >-
-      Temple Sour
-    bio: >-
-      Bienvenidos al #temploácido Booking: templesourperu@gmail.com #998121211 Ahora el ácido entra en tu sangre. 👂--> EL TEMPLO ÁCIDO + @aco_musica 🧨🧨
-    location: "Peru"
-    followers: 89177
-    engagement: 643
-    commentsToLikes: 0.040496
-    id: ck55m4u0w384o0i11f5fsi5oy
+    followers: 146616
+    engagement: 881
+    commentsToLikes: 0.017895
+    id: ck6u3etvhxelv0j71fxk7jv2g
     verified: true
-    hashtags: "#acoenelmic, #plana, #templesour, #redes"
+    hashtags: "#flamanation, #nuestraidentidaddesdeladiversidad, #movimiento, #locking"
+  - username: "mariohart"
+    fullname: >-
+      M A R I O   H A R T
+    bio: >-
+      EL PILOTO CANTANTE - DERRAPANDO FLOW 💨🎶 Booking oficial: +51984709688 9 títulos nacionales en automovilismo deportivo ⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️ Mi música 👇
+    location: "Peru"
+    followers: 1213077
+    engagement: 89
+    commentsToLikes: 0.018474
+    id: ck5zje621hffz0i141xd483xx
+    verified: true
+    hashtags: "#mariohart, #conductorprofesional, #experienciadelujo, #estilodevidadeportivo"
+  - username: "gala_brie"
+    fullname: >-
+      GALA
+    bio: >-
+      música | artista ✨ 🎤💌 booking: @hazlalinda
+    location: "Peru"
+    followers: 43748
+    engagement: 39
+    commentsToLikes: 0.943904
+    id: ck14htwb1c49b0i199xu25dax
+    verified: true
+    hashtags: "#galabrie, #permitir, #fyp, #pumahouse"
 ---

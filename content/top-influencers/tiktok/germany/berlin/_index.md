@@ -1,11 +1,11 @@
 ---
-title: Top 10 TikTok Influencers In Berlin In 2023
+title: Top 10 TikTok Influencers In Berlin In 2024
 description: >-
-  Find top TikTok influencers in Berlin in 2023. Most popular hashtags: #fyp #foryou #foryoupage #fy.
+  Find top TikTok influencers in Berlin in 2024. Most popular hashtags: #fyp #foryou #foryoupage #fy.
 platform: TikTok
-hits: 357
-text_top: Identify the most popular TikTok profiles on inBeat.
-text_bottom: Our platform has 357 TikTok influencers like this in Berlin, Germany for you to collaborate.
+hits: 363
+text_top: See the most popular TikTok influencers on inBeat.
+text_bottom: Our platform has 363 TikTok influencers like this in Berlin, Germany for you to collaborate.
 profiles:
   - username: "sofia.vukkert"
     fullname: >-

@@ -1,12 +1,36 @@
 ---
-title: Top 10 Home Decor TikTok Influencers In Austin In 2023
+title: Top 10 Home Decor TikTok Influencers In Austin In 2024
 description: >-
-  Find top home decor TikTok influencers in Austin in 2023. Most popular hashtags: #fyp #homedecor #austin #texas.
+  Find top home decor TikTok influencers in Austin in 2024. Most popular hashtags: #fyp #homedecor #austin #texas.
 platform: TikTok
-hits: 24
-text_top: Discover the best TikTok accounts on inBeat.
-text_bottom: inBeat aggregates 24 TikTok influencers like this in Austin, United States for you to connect with.
+hits: 25
+text_top: Discover the top-rated TikTok influencers on inBeat.
+text_bottom: Our database holds 25 TikTok influencers like this in Austin, United States for you to contact.
 profiles:
+  - username: "sarahadamhafez"
+    fullname: >-
+      sarahadamhafez
+    bio: >-
+      IG + Youtube ☝🏼 Shop Clarins Gentle Renewing Cleaning Mousse 👇🏼
+    location: "United States"
+    followers: 414500
+    engagement: 1331
+    commentsToLikes: 0.029069
+    id: ck9v17oyhftsz0j78zt9qgyyk
+    verified: false
+    hashtags: "#interiordesign, #hometour, #texas, #husbandandwife"
+  - username: "lisaguzmangroup"
+    fullname: >-
+      Lisa Marie Guzman
+    bio: >-
+      Add me on IG ⬆️ TX Real Estate Sell | Buy | Invest | eXp Realty 🏠📲
+    location: "United States"
+    followers: 25400
+    engagement: 898
+    commentsToLikes: 0.029894
+    id: ckbfdo61w74rh0j237hdl905g
+    verified: false
+    hashtags: "#sanantonio, #hometour, #texas, #austin"
   - username: "swiftwellness"
     fullname: >-
       swiftwellness
@@ -30,19 +54,7 @@ profiles:
     commentsToLikes: 0.024463
     id: ckce7riuyl7gv0j235z8mmy4r
     verified: false
-    hashtags: "#ootd, #fyp, #diy, #fashioninspo"
-  - username: "lisaguzmangroup"
-    fullname: >-
-      Lisa Marie Guzman
-    bio: >-
-      Add me on IG ⬆️ TX Real Estate Sell | Buy | Invest | eXp Realty 🏠📲
-    location: "United States"
-    followers: 25400
-    engagement: 898
-    commentsToLikes: 0.029894
-    id: ckbfdo61w74rh0j237hdl905g
-    verified: false
-    hashtags: "#texas, #sanantonio, #realtor, #newhome"
+    hashtags: "#style, #outfitideas, #styletips, #styleinspo"
   - username: "texasluxuryliving"
     fullname: >-
       DianaRealtor
@@ -78,7 +90,7 @@ profiles:
     commentsToLikes: 0.015182
     id: ck90vq57b10nj0j78x5iie1t8
     verified: false
-    hashtags: "#weddingtiktok, #homedecor, #fyp, #costarica"
+    hashtags: "#homedecor, #costarica, #foryoupage, #travel"
   - username: "nicolevictoriagomez"
     fullname: >-
       Nicole Victoria Gomez
@@ -103,18 +115,6 @@ profiles:
     id: cka6czpu362630i78a6or5cw4
     verified: false
     hashtags: "#starbucks, #easyrecipe, #toddlermom, #recipe"
-  - username: "sarahadamhafez"
-    fullname: >-
-      sarahadamhafez
-    bio: >-
-      IG + Youtube ☝🏼 Shop Clarins Gentle Renewing Cleaning Mousse 👇🏼
-    location: "United States"
-    followers: 414500
-    engagement: 1331
-    commentsToLikes: 0.029069
-    id: ck9v17oyhftsz0j78zt9qgyyk
-    verified: false
-    hashtags: "#interiordesign, #hometour, #husbandandwife, #texas"
   - username: "zacharycoutu"
     fullname: >-
       Zachary :)

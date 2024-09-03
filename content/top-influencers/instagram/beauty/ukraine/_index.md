@@ -1,130 +1,130 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Ukraine In 2023
+title: Top 10 Beauty Instagram Influencers In Ukraine In 2024
 description: >-
-  Find top beauty Instagram influencers in Ukraine in 2023. Most popular hashtags: #wakeupandmakeup #glittermakeup #colormakeup.
+  Find top beauty Instagram influencers in Ukraine in 2024. Most popular hashtags: #style #aesthetic #ootd.
 platform: Instagram
-hits: 241
-text_top: Discover the best Instagram accounts on inBeat.
-text_bottom: inBeat holds 241 Instagram influencers like this in Ukraine for you to work with.
+hits: 267
+text_top: Analyze the top-rated Instagram profiles on inBeat.
+text_bottom: inBeat aggregates 267 Instagram influencers like this in Ukraine for you to connect with.
 profiles:
-  - username: "__samburska"
+  - username: "osia2013"
     fullname: >-
-      Танюша Самбурська🐻
+      OSIA YOUTUBE BLOGGER
     bio: >-
-      🐒або Самбурятко ♥️кожний день з вами🤳🏻 ♥️happy wife 🥰 ♥️відкрила студію @samburska_beauty_bar у 18 років,дякуючи батькам♥️ ☺️обережно, багато сторі🙈
+      Beauty | Fashion | Home | Cooking 14 years in Poland🇺🇦 500K+ YouTube channel Instagram PL : @olga.muszynska Contact: olga.donczenko@gmail.com
     location: "Ukraine"
-    followers: 1638612
-    engagement: 823
-    commentsToLikes: 0.037862
-    id: ck5zzi67ybrrq0i145ne594x2
+    followers: 238223
+    engagement: 806
+    commentsToLikes: 0.011912
+    id: ck0w3hdw1tf460i1912161s2o
     verified: false
-    hashtags: "#airpods, #apple, #applewatch, #applewatchseries6"
-  - username: "lana_musienko"
+    hashtags: "#makeup, #zara, #stylefashion, #vacationmode"
+  - username: "anamarkovych"
     fullname: >-
-      Лана Мусієнко
+      Ana Markovych
     bio: >-
-      𝚒𝚗𝚏𝚕𝚞𝚎𝚗𝚌𝚎𝚛 ⭐️WELCOME TO MY STORIES⭐️ там •про beauty •про ремонт •про себе ✉️ - @pr_musienko
+      ✨there is a hidden beauty in every moment; the trick is to see it. montreal 🇨🇦 anamarkovych.pr@gmail.com my lightroom presets here ↓
     location: "Ukraine"
-    followers: 158034
-    engagement: 434
-    commentsToLikes: 0.114559
-    id: ck0ubfbkbefhs0i19o4omnxv6
+    followers: 118249
+    engagement: 1954
+    commentsToLikes: 0.010271
+    id: ck0w4i0abynva0i19dbrkq8ll
     verified: false
-    hashtags: ""
-  - username: "sashaabo"
+    hashtags: "#softgirl, #parisianlook, #apartmenttherapy, #softgirlaesthetic"
+  - username: "fileva_oli"
     fullname: >-
-      САША ПУСТОВІТ 🕊
+      Ольга Фільова
     bio: >-
-      ▫️Business & beautymama ▫️пішла з інтернатури➡️ відкрила салон @stories.by.sashaabo ▫️будую dream house 🏡 ▫️співпраця 📩@sashaabo.sashaabo
+      Власниця @fk__beautysalon Еко магазин @fileva_choice Співпраця @cooperation_filevaoli Пісня КРИЛА👇🏻
     location: "Ukraine"
-    followers: 2065055
-    engagement: 370
-    commentsToLikes: 0.034525
-    id: ck1399zysk9io0i19nnsncju1
+    followers: 352881
+    engagement: 1312
+    commentsToLikes: 0.013003
+    id: ck9wgwy7lvcl60j782po6ppkj
     verified: false
-    hashtags: ""
-  - username: "yuliyaliya_"
+    hashtags: "#dogpuller, #mywaudog, #mybtoys, #qr"
+  - username: "kvittkova"
     fullname: >-
-      Yuliya
+      Dariia Kvitkova 🇺🇦
     bio: >-
-      Lifestyle•beauty•food•insta 🌙тут щиро
+      lifestyle · beauty · inspo my fitness NBY @nby.kvitkova 🩶 ⠀ PR/AD(рекламні інтеграції): pr.kvitkova@gmail.com or ↙️
     location: "Ukraine"
-    followers: 43414
-    engagement: 311
-    commentsToLikes: 0.067380
-    id: ckaowv0h5akhg0i78lmq3d3cx
-    verified: false
-    hashtags: ""
-  - username: "alona.panova"
+    followers: 1846783
+    engagement: 292
+    commentsToLikes: 0.002519
+    id: ck5c7aw0776ez0i1195vb84ft
+    verified: true
+    hashtags: "#kyliecosmetics, #cosmickyliejenner"
+  - username: "adriana_turkevych"
     fullname: >-
-      Онлайн Hairdresser
+      Andriana Kostylieva
     bio: >-
-      ▫️власниця @fame.beauty.studio ▫️Консультації ▫️перукар ▫️мама👼🏼 ▫️Cтиль В сторіс дізнайся що личить саме тобі🙌🏼 Співпраця➡️ @panova_cooperation
+      🗯🤰Fashion & beauty influencer Mail: contact.adrianaturkevych@gmail.com Cooperation: @pr_adrianaturkevych fashion • lifestyle • beauty 🇺🇦
     location: "Ukraine"
-    followers: 89143
-    engagement: 236
-    commentsToLikes: 0.041815
-    id: ck0u2kgcn041w0i19pliwx7se
+    followers: 312660
+    engagement: 254
+    commentsToLikes: 0.012131
+    id: ckf5n23l0weo80j23hkv6vbqv
     verified: false
-    hashtags: "#themaskedsinger, #lookoftheday, #aesthetic"
-  - username: "mila_korneli"
-    fullname: >-
-      Людмила Корнелюк
-    bio: >-
-      Mommy #leia_korn Traveller Beauty & lifestyle Cooperation -@korneli.cooperation /📩 Youtube👇🏻
-    location: "Ukraine"
-    followers: 141607
-    engagement: 917
-    commentsToLikes: 0.010364
-    id: ck5c2mseyxk5d0i114gpdout8
-    verified: false
-    hashtags: "#huggies"
-  - username: "anna_prytulaaa"
+    hashtags: "#asmr, #pregnancy, #momtobe, #dyson"
+  - username: "annaprytulaaa"
     fullname: >-
       𝓐𝓷𝓷𝓪 𝓟𝓻𝔂𝓽𝓾𝓵𝓪𝓪𝓪 🤍
     bio: >-
-      📍Lviv, Ukraine • beauty , lifestyle, fashion 💌COOPERATION- @prytulaaa_cooperation 🤍foundress - @pray.buy
+      📍Lviv, Ukraine bride to be 💍 •beauty, lifestyle, fashion 💌COOPERATION- @prytulaaa_cooperation РЕЗЕРВ @anna.prytulaaa
     location: "Ukraine"
-    followers: 1012209
-    engagement: 725
-    commentsToLikes: 0.016332
+    followers: 940830
+    engagement: 250
+    commentsToLikes: 0.002448
     id: ck55k0xlby7mz0i11qhnwcftk
     verified: false
-    hashtags: "#iherb, #iherbukraine, #sponsored, #sponsorship"
-  - username: "krisdaniluk_makeup"
+    hashtags: "#nirvaname"
+  - username: "alexandrarodriguez__"
     fullname: >-
-      ВІЗАЖИСТ 🔝ХРИСТИНА ДАНИЛЮК
+      Alexandra Michelle
     bio: >-
-      Твоя BeautyBoss ▫️Пишу про косметику ▫️Роблю найстійкіший MAKEUP ▫️Навчу робити ідеальний макіяж з 0 ▫️Підвищу твою кваліфікацію
+      🇵🇷 VOGUE Beauty🌹Boy Mom x 2 • Model • Singer • Childbirth hypnotherapist • Fashionista • Viajera @casadig @cloud9births @baldaccicoffee
     location: "Ukraine"
-    followers: 40061
-    engagement: 138
-    commentsToLikes: 0.103793
-    id: ckaowpvsn9x8g0i78zpmz5agl
-    verified: false
-    hashtags: "#wedding, #eveningmakeup, #makeupmasterclass, #makeuplifestyle"
-  - username: "elena_lebedeva8"
+    followers: 255740
+    engagement: 245
+    commentsToLikes: 0.022989
+    id: ck134rn5exv3j0i19sst3ug56
+    verified: true
+    hashtags: "#paris, #pfw, #nyc, #covergirl"
+  - username: "darionjane"
     fullname: >-
-      Creative makeup 💄МАКИЯЖ УФА💄
+      𝔍𝔞𝔫𝔢  🧚🏼‍♀️ 𝔉𝔢𝔢𝔩 𝔏𝔦𝔟𝔢𝔯𝔱𝔶 | UGC Creator
     bio: >-
-      💫CONTENT CREATORS 💫 💄 МУТИМ BEAUTY 😉 📝 Запись макияж - Директ❤️ 🛍 Магазин Одежды @v_odezde ⭐️ Промокод в актуальном Cooperation DM 📍Уфа
+      📍 🇬🇧 London from 🇺🇦 👟Choreographer👠 | Beauty | Content Creator 📧 Email me for business inquiries ⤵️ feelliberty.contract@gmail.com
     location: "Ukraine"
-    followers: 9432
-    engagement: 380
-    commentsToLikes: 0.262756
-    id: ckaortyonoql90i785x82k8kv
+    followers: 13842
+    engagement: 246
+    commentsToLikes: 0.090158
+    id: ck8swq972ev2c0j788n1sv3c8
     verified: false
-    hashtags: "#limecrimerussia, #glitterface, #makeupgirlz, #makeupkolours"
-  - username: "godsend_v"
+    hashtags: "#exposure, #hiphop, #fyp, #dancer"
+  - username: "owl_vinn"
     fullname: >-
-      𝓥𝓮𝓻𝓸𝓷𝓲𝓬𝓪 𝓲𝓷 𝓓𝓾𝓫𝓪𝓲
+      Yana Vinn🤍 blogger, influencer.
     bio: >-
-      🇺🇦Ukrainian living in Dubai 🇦🇪 Social Media Contributor | Creator of Opportunities Fashion🔹F&B 🔹Aesthetic Beauty 🔹Travel 📩 DM for Collaboration
+      Style•Sport•Lifestyle•Beauty•Dog• Family🤍 Навчу тебе знайти свою індивідуальність 🤍 Співпраця ➡️ @owl_vinn_cooperation Humus ambassador @waudogua
     location: "Ukraine"
-    followers: 13016
-    engagement: 554
-    commentsToLikes: 0.054866
-    id: ckap10zn3sno00i78rc9obysd
+    followers: 111287
+    engagement: 203
+    commentsToLikes: 0.023940
+    id: ck13chko70doi0i192af26hql
     verified: false
-    hashtags: "#dubaiblog, #dtcm, #dubaiblogger, #blondegirl"
+    hashtags: ""
+  - username: "putivlenko_"
+    fullname: >-
+      𝐈𝐑𝐀 𝐏𝐔𝐓𝐈𝐕𝐋𝐄𝐍𝐊𝐎
+    bio: >-
+      ▪️ Style, beauty and motherhood ▪️МБ: @fem.accessories.ua ▪️Співпраця: @putivlenko_pr
+    location: "Ukraine"
+    followers: 733814
+    engagement: 206
+    commentsToLikes: 0.018300
+    id: ckap48gj267nd0i78vjnevbdf
+    verified: false
+    hashtags: "#lovebeautyandplanetua, #zewa"
 ---

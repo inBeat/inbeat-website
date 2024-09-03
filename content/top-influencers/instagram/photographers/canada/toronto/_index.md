@@ -1,12 +1,24 @@
 ---
-title: Top 10 Photographers Instagram Influencers In Toronto In 2023
+title: Top 10 Photographers Instagram Influencers In Toronto In 2024
 description: >-
-  Find top photographers Instagram influencers in Toronto in 2023. Most popular hashtags: #raw #canada #ontario.
+  Find top photographers Instagram influencers in Toronto in 2024. Most popular hashtags: #blackandwhite #weddingphotography #torontoweddingphotography.
 platform: Instagram
-hits: 69
-text_top: Identify the best Instagram influencers on inBeat.
-text_bottom: Our search engine holds 69 Instagram influencers like this in Toronto, Canada for you to work with.
+hits: 100
+text_top: Discover the best Instagram accounts on inBeat.
+text_bottom: Our search engine holds 100 Instagram influencers like this in Toronto, Canada for you to collaborate.
 profiles:
+  - username: "fotosbyanum"
+    fullname: >-
+      Boutique Wedding Photographer
+    bio: >-
+      💫 Capturing the most beautiful memories • Boutique wedding Photographer • Toronto & Worldwide • NOW Booking 2023/2024 ✨ • anumfotos@gmail.com
+    location: "Canada"
+    followers: 13112
+    engagement: 402
+    commentsToLikes: 0.027967
+    id: ckyy1piox0y300j236hignn23
+    verified: false
+    hashtags: "#freespirited, #weddingtrends, #bethecrimsonbride, #southasianseries"
   - username: "irvinsidhu"
     fullname: >-
       Irvin Sidhu
@@ -66,19 +78,43 @@ profiles:
     commentsToLikes: 0.213042
     id: ckapcezbf3jia0i78epiy2fwt
     verified: false
-    hashtags: "#ybb, #owls, #splendid, #wildlifephotography"
-  - username: "jordan_harvey_photography"
+    hashtags: "#splendid, #animal, #birdwatching, #birdphotography"
+  - username: "merupictures"
     fullname: >-
-      Jordan Harvey
+      𝕸𝖊𝖗𝖚 𝕻𝖎𝖈𝖙𝖚𝖗𝖊𝖘 𝕾𝖙𝖚𝖉𝖎𝖔 🇨🇦
     bio: >-
-      Fashion and portrait photographer based out of Toronto, Canada.
+      📍Toronto 🏔 ♉️ 🌱 🇮🇷 🇨🇦
     location: "Canada"
-    followers: 7346
-    engagement: 320
-    commentsToLikes: 0.020185
-    id: ck9wg7010s6d90j787ty0v3hu
+    followers: 8683
+    engagement: 1298
+    commentsToLikes: 0.112900
+    id: ck138wuiriesv0i19md7syjl8
     verified: false
-    hashtags: "#ryanpotter, #titans, #bighero6, #photographer"
+    hashtags: "#modelphotoshoot, #model, #modeling, #portraitsvision"
+  - username: "lizsalzman"
+    fullname: >-
+      Liz Salzman
+    bio: >-
+      Toronto 🇨🇦 Photographer @lizsalzmanphoto 📸 Studio owner @amicastudio.to 💫 🏀☀️🍻🎼🏜🏝📸🔮♏️
+    location: "Canada"
+    followers: 8639
+    engagement: 396
+    commentsToLikes: 0.080904
+    id: ck13bx055xjp30i19l2zgw90y
+    verified: false
+    hashtags: "#quarantinebirthday, #tuesdaythoughts, #londonrestaurants, #torontophotographer"
+  - username: "argenel"
+    fullname: >-
+      Argen Elezi
+    bio: >-
+      📸 Photographer from Toronto 🇨🇦 with a love for travel and the outdoors ✉️ Inquiries, prints, photo tips ⬇️
+    location: "Canada"
+    followers: 139848
+    engagement: 186
+    commentsToLikes: 0.064202
+    id: ck0vv2f16n8920i199vjxga6v
+    verified: false
+    hashtags: "#visitcapebreton, #travelingoodspirits, #ad, #tbt"
   - username: "zachbaranowski"
     fullname: >-
       Zach Baranowski
@@ -91,40 +127,4 @@ profiles:
     id: ck6tnh49q9tqy0j71hgyrndue
     verified: false
     hashtags: "#worldwildlifeday, #earthday"
-  - username: "elnazzz_qasemi"
-    fullname: >-
-      Elnaz Ghasemi Hooseyni🦄
-    bio: >-
-      Elnaz Qassemi | الناز قاسمی Official instagram account Choreographer | Dancer | blogger | model 💃🏻 #الناز_قاسمی #elnazghasemi
-    location: "Canada"
-    followers: 2274832
-    engagement: 419
-    commentsToLikes: 0.069679
-    id: ck138wseliegd0i192ureknh7
-    verified: false
-    hashtags: "#torontodancers, #canada, #modeling, #raghs"
-  - username: "scarletoneill"
-    fullname: >-
-      Scarlet | Toronto Photographer
-    bio: >-
-      • photographer • storyteller • wife • mother • documenting weddings, love & life • empowering women through images •
-    location: "Canada"
-    followers: 22501
-    engagement: 412
-    commentsToLikes: 0.191666
-    id: ck14i2esydau50i19b2w3rumu
-    verified: false
-    hashtags: "#raisingthefuture, #candidchildhood, #belovedstories, #radlovestories"
-  - username: "irisy_8"
-    fullname: >-
-      Iris | Toronto Photographer
-    bio: >-
-      Exploring Toronto through my lens. @torontopixel @city__features #exploretoronto #shotbymi Live. Laugh. Love. 📷🐰 DM for inquiries.
-    location: "Canada"
-    followers: 9148
-    engagement: 3761
-    commentsToLikes: 0.148099
-    id: ck13976vqjvm60i19us2bl17s
-    verified: false
-    hashtags: "#streetleaks, #torontoclx, #creatingfromhome, #city"
 ---

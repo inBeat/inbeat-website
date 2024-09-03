@@ -1,11 +1,11 @@
 ---
-title: Top 10 Vegan TikTok Influencers In Phoenix In 2023
+title: Top 10 Vegan TikTok Influencers In Phoenix In 2024
 description: >-
-  Find top vegan TikTok influencers in Phoenix in 2023. Most popular hashtags: #vegan #fyp #arizona #stitch.
+  Find top vegan TikTok influencers in Phoenix in 2024. Most popular hashtags: #vegan #fyp #arizona #stitch.
 platform: TikTok
 hits: 5
-text_top: Discover the top-rated TikTok profiles on inBeat.
-text_bottom: Our database has 5 TikTok influencers like this in Phoenix, United States for you to work with.
+text_top: See the best TikTok influencers on inBeat.
+text_bottom: Our platform has 5 TikTok influencers like this in Phoenix, United States for you to collaborate.
 profiles:
   - username: "vinyasavegan"
     fullname: >-
@@ -90,7 +90,7 @@ profiles:
     commentsToLikes: 0.137265
     id: ckdi698kc7kx40j23kfpcva2q
     verified: false
-    hashtags: "#stitch, #vegan, #plantbased, #leftist"
+    hashtags: "#stitch, #plantbased, #leftist, #vegan"
   - username: "veganmumu"
     fullname: >-
       Shannon
@@ -102,19 +102,7 @@ profiles:
     commentsToLikes: 0.401234
     id: ckavlfj1duq540j237nx3htr9
     verified: false
-    hashtags: "#mom, #davematthewsband, #floridavegan, #heal"
-  - username: "kawaiikingb"
-    fullname: >-
-      MJ Cobra
-    bio: >-
-      (๑˃ᴗ˂)◜✧˖° MJ ♡ The Banana King 👑 キラ キラ Energy 100%! 25 ☆ Bigender ☆ Vegan
-    location: "United States"
-    followers: 4459
-    engagement: 2638
-    commentsToLikes: 0.068353
-    id: ckav30jp99aym0j2355hwtnvy
-    verified: false
-    hashtags: "#foryoupage, #decora, #harajukuboy, #decorafashion"
+    hashtags: "#heal, #cats, #animallover, #nontoxic"
   - username: "giuliasabatinoo"
     fullname: >-
       giulia
@@ -127,4 +115,16 @@ profiles:
     id: ckbevm1ivf82w0j239aiiq4na
     verified: false
     hashtags: "#fyp, #duet, #greenscreen, #veganteacher"
+  - username: "elfyeah"
+    fullname: >-
+      elfyeah
+    bio: >-
+      ✨ it's the e.l.f.ing amazing content for us ✨ 100% vegan + cruelty-free 🐰🤩
+    location: "United States"
+    followers: 295800
+    engagement: 2091
+    commentsToLikes: 0.030105
+    id: cka0ml8muvp7a0i78prjrqopz
+    verified: true
+    hashtags: "#beauty, #makeuplook, #makeupjourney, #makeupmusthaves"
 ---

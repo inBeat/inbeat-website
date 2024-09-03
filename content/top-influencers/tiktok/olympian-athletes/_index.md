@@ -1,11 +1,11 @@
 ---
-title: Top 10 Olympian Athletes TikTok Influencers In 2023
+title: Top 10 Olympian Athletes TikTok Influencers In 2024
 description: >-
-  Find top olympian athletes TikTok influencers in 2023. Most popular hashtags: #athlete #fitness #fyp #olympics.
+  Find top olympian athletes TikTok influencers in 2024. Most popular hashtags: #athlete #fitness #olympics #fyp.
 platform: TikTok
 hits: 13
-text_top: Identify the top-rated TikTok accounts on inBeat.
-text_bottom: Our platform holds 13 TikTok influencers like this for you to connect with.
+text_top: Discover the most popular TikTok profiles on inBeat.
+text_bottom: Our search engine holds 13 TikTok influencers like this for you to pitch.
 profiles:
   - username: "seventh_savage"
     fullname: >-
@@ -14,11 +14,11 @@ profiles:
       Christian John 14:6 Special Olympic Olympian 🏀🏃🏻🥎🏈🏐 Gamer 🎮
     location: "United States"
     followers: 16300
-    engagement: 849
-    commentsToLikes: 0.061353
+    engagement: 879
+    commentsToLikes: 0.057234
     id: ck8oxzj4w4vva0j78026izhpw
     verified: false
-    hashtags: "#christian, #gaming, #lightsaber, #single"
+    hashtags: "#single, #starwars, #lightsaber, #callofduty"
   - username: "sawanserasinghe"
     fullname: >-
       Sawan Serasinghe
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.016656
     id: ckbvyod5pvcee0j23rkn6513n
     verified: true
-    hashtags: "#soccerlover, #soccertraining, #soccergirls, #soccerskills"
+    hashtags: "#soccerskills, #soccergirls, #futbol, #soccer"
   - username: "steele_johnson"
     fullname: >-
       Steele Johnson
@@ -90,7 +90,7 @@ profiles:
     commentsToLikes: 0.017174
     id: ckdsryut7p6080j232a12iut6
     verified: true
-    hashtags: "#wintersports, #olympics, #olympicscountdown, #biathlon"
+    hashtags: "#wintersports, #luge, #lernenmittiktok, #skispringen"
   - username: "rodriguechesnier"
     fullname: >-
       Rodriguechesnier

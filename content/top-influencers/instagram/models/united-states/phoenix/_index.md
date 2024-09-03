@@ -1,24 +1,12 @@
 ---
-title: Top 10 Models Instagram Influencers In Phoenix In 2023
+title: Top 10 Models Instagram Influencers In Phoenix In 2024
 description: >-
-  Find top models Instagram influencers in Phoenix in 2023. Most popular hashtags: #model #phoenix #fashion.
+  Find top models Instagram influencers in Phoenix in 2024. Most popular hashtags: #model #phoenix #photography.
 platform: Instagram
-hits: 98
-text_top: See the most popular Instagram profiles on inBeat.
-text_bottom: Our search engine aggregates 98 Instagram influencers like this in Phoenix, United States for you to pitch.
+hits: 116
+text_top: Identify the top-rated Instagram accounts on inBeat.
+text_bottom: Our platform holds 116 Instagram influencers like this in Phoenix, United States for you to contact.
 profiles:
-  - username: "curtbangz"
-    fullname: >-
-      Curtis Okafor
-    bio: >-
-      Electrical Engineer Consultant , AZ Model Travel 🇳🇬 🇬🇾 NV: @tngmodels
-    location: "United States"
-    followers: 6557
-    engagement: 749
-    commentsToLikes: 0.061654
-    id: ck8t0a2asrcom0j78ep2b646u
-    verified: false
-    hashtags: "#arizona, #smile, #scottsdale, #blackboyjoy"
   - username: "presley.baird"
     fullname: >-
       Presley Baird
@@ -67,6 +55,18 @@ profiles:
     id: ck6tkx58n5ktr0j71kiflqddr
     verified: false
     hashtags: "#suicidegirls"
+  - username: "jamessturgis_fit"
+    fullname: >-
+      James Sturgis
+    bio: >-
+      [21] [fitness] [music] [lifestyle] TikTok: jasturgis9 ‼️ 20% @buckedup ‼️ Use code: Jsturgis9 YouTube: JamesAsturgis Bucked up link⬇️⬇️
+    location: "United States"
+    followers: 53194
+    engagement: 623
+    commentsToLikes: 0.041188
+    id: ckw1cakq0gjni0j23hamnte6o
+    verified: false
+    hashtags: "#fitness, #inspiration, #fitnessmotivation, #explore"
   - username: "mckaylah.modelaz"
     fullname: >-
       Mckaylah Smith
@@ -91,6 +91,18 @@ profiles:
     id: ck6ueirrlr67g0j71one1edjt
     verified: false
     hashtags: "#portraitambassadors, #enter, #fatalframes, #earthpix"
+  - username: "curtbangz"
+    fullname: >-
+      Curtis Okafor
+    bio: >-
+      Electrical Engineer Consultant , AZ Model Travel 🇳🇬 🇬🇾 NV: @tngmodels
+    location: "United States"
+    followers: 6557
+    engagement: 749
+    commentsToLikes: 0.061654
+    id: ck8t0a2asrcom0j78ep2b646u
+    verified: false
+    hashtags: "#scottsdale, #blackmodels, #model, #explorepage"
   - username: "mamma_ty"
     fullname: >-
       🎀туѕħå Schmitz🎀
@@ -115,16 +127,4 @@ profiles:
     id: ck5hjy0cwhg5m0i11lthrwabf
     verified: false
     hashtags: "#styling, #dennisdevoy, #editorial, #tomkellyslack"
-  - username: "allthatjazzxoxo"
-    fullname: >-
-      Ijaza Saadat 💋
-    bio: >-
-      Believer ✝ JCU 2014 🎓 Future PsyS - NSU 2024 📚 Model Portfolio 👸🏽 @ijazasaadat Black | Egyptian | Native American | British | Irish
-    location: "United States"
-    followers: 10681
-    engagement: 1427
-    commentsToLikes: 0.299824
-    id: ckaoz65c4kjl70i78vml5f4pm
-    verified: false
-    hashtags: "#slay, #trendstyle, #novababe, #modelsearch2020"
 ---

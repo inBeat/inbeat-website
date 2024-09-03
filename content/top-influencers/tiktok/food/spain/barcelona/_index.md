@@ -1,11 +1,11 @@
 ---
-title: Top 10 Food TikTok Influencers In Barcelona In 2023
+title: Top 10 Food TikTok Influencers In Barcelona In 2024
 description: >-
-  Find top food TikTok influencers in Barcelona in 2023. Most popular hashtags: #food #fyp #parati #foryou.
+  Find top food TikTok influencers in Barcelona in 2024. Most popular hashtags: #food #fyp #parati #barcelona.
 platform: TikTok
 hits: 6
-text_top: Analyze the most popular TikTok influencers on inBeat.
-text_bottom: Our search engine has 6 TikTok influencers like this in Barcelona, Spain for you to contact.
+text_top: Identify the best TikTok accounts on inBeat.
+text_bottom: Our platform aggregates 6 TikTok influencers like this in Barcelona, Spain for you to contact.
 profiles:
   - username: "gentepausini"
     fullname: >-
@@ -78,7 +78,7 @@ profiles:
     commentsToLikes: 0.005941
     id: ck807bbe0pjjk0j78xss9n4tf
     verified: true
-    hashtags: "#funny, #football, #fifa, #tag"
+    hashtags: "#fyp, #funny, #football, #fifa"
   - username: "peerjii50"
     fullname: >-
       peerjii
@@ -114,7 +114,7 @@ profiles:
     commentsToLikes: 0.021178
     id: ckb9r74lbni1d0j234q6cbxc1
     verified: false
-    hashtags: "#lipedema, #fyp, #japan, #parati"
+    hashtags: "#japan, #lipedema, #canaima, #parati"
   - username: "aigostar_"
     fullname: >-
       Best food share

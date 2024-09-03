@@ -1,130 +1,130 @@
 ---
-title: Top 10 Cooking Instagram Influencers In Nigeria In 2023
+title: Top 10 Cooking Instagram Influencers In Nigeria In 2024
 description: >-
-  Find top cooking Instagram influencers in Nigeria in 2023. Most popular hashtags: #explore #explorepage #exploremore.
+  Find top cooking Instagram influencers in Nigeria in 2024. Most popular hashtags: #photography #style #healthylifestyle.
 platform: Instagram
-hits: 82
-text_top: Analyze the most popular Instagram profiles on inBeat.
-text_bottom: Our database holds 82 Instagram influencers like this in Nigeria for you to contact.
+hits: 88
+text_top: Identify the best Instagram accounts on inBeat.
+text_bottom: inBeat has 88 Instagram influencers like this in Nigeria for you to contact.
 profiles:
-  - username: "call_me_fola"
+  - username: "zeeliciousfoods"
     fullname: >-
-      FOLAPONDIS 💥
+      Winifred Nwania
     bio: >-
-      YourFavLoverBoi 📌🍑 *BNE 💥 For Bookings: +2348103674747 *Download MY LADY 👇
+      Health Coach in Training | Cooking Show Host | Cookbook Author📚| Etiquette Queen | YouTuber ONLY EMAIL 👉🏽 info@zeeliciousfoods.com ORDER MY COOKBOOK👇🏽
     location: "Nigeria"
-    followers: 20516
-    engagement: 1403
-    commentsToLikes: 0.099351
-    id: ck5hoaiecp8890i11n0zzgpuw
+    followers: 624001
+    engagement: 115
+    commentsToLikes: 0.021252
+    id: ck13ay1qosqtw0i199mso4xwb
     verified: false
-    hashtags: "#tbt, #deletingsoon, #yourfavloverboi, #endsars"
-  - username: "maliyaofficial"
+    hashtags: "#foodie, #etiquette, #healthy, #healthyeating"
+  - username: "ifys.kitchen"
     fullname: >-
-      Maliya Michael
+      Ify Mogekwu (KITCHEN QUEEN)⭐
     bio: >-
-      Model | Influencer Bookings: Maliyamgt@gmail.com
+      🏆Multi-award winning culinary expert 📸 TV Cooking show host 🎥YouTuber Email: Ifyskitchen@withoutaboxpr.com
     location: "Nigeria"
-    followers: 340279
-    engagement: 565
-    commentsToLikes: 0.024631
-    id: ck135nhdj2aeb0i19u8z1kr7u
+    followers: 1856538
+    engagement: 75
+    commentsToLikes: 0.097738
+    id: ck13ay30csr050i1982459fz6
     verified: false
-    hashtags: "#funnyfails, #airbnblagos, #dubaitour, #lagosbabes"
-  - username: "hameedah_xx"
+    hashtags: "#kitchenqueen, #africancreatorsacademy, #ifyskitchen, #africancreatorssummit"
+  - username: "liliana_k_story"
     fullname: >-
-      Hammed Hamidat Oyindamola
+      Ljiljana Kostic
     bio: >-
-      MODEL beauty & brand influencer Content creator/promotion manager Dm for bookings
+      📍USA 🏙 Abuja, Nigeria 🌇Belgrade, Serbia 🧚 That serious, corporate businesswoman who is essentially a storyteller~poet~dreamer~alchemist~artist
     location: "Nigeria"
-    followers: 11437
-    engagement: 1361
-    commentsToLikes: 0.050829
-    id: ck5q769s9057p0i116byq3ebi
+    followers: 10933
+    engagement: 628
+    commentsToLikes: 0.039372
+    id: ck9hcjz6alr8f0j78f7pidezp
     verified: false
-    hashtags: "#selflove, #happyvalentinesday"
-  - username: "thefrenchman__"
+    hashtags: "#writer, #writingcommunity, #magic, #beograd"
+  - username: "kvnggiwa"
     fullname: >-
-      DAVOU PWAJOK
+      Victor Giwa
     bio: >-
-      Award winning fashion male model 2019 @fashionsfinestafrica For bookings: 08143894285
+      Abba’s Delight ✨Creator | Storyteller| Entrepreneur Co founder: @getworldwide_ @giwa_studios @giwafarms For bookings Inquiries - @getworldwide_
     location: "Nigeria"
-    followers: 11468
-    engagement: 1438
-    commentsToLikes: 0.114227
-    id: ck13avsjmsfpc0i19s7pwt5bs
+    followers: 69547
+    engagement: 814
+    commentsToLikes: 0.033277
+    id: ck134n413x83c0i19cglq9fjl
     verified: false
-    hashtags: "#thefrenchman, #model, #fashion, #fitnessmodel"
-  - username: "nimah_21"
+    hashtags: "#photography, #cinematography, #contentcreation, #playnetwork"
+  - username: "dj_spitnoise"
     fullname: >-
-      𝓝𝓲𝓶𝓪𝓱
+      Spitnoise
     bio: >-
-      ▫️Face of Zaron ▪️For bookings↷📩 𝙴𝚟𝚎𝚛𝚢𝚝𝚑𝚒𝚗𝚐, 𝚠𝚒𝚝𝚑 𝙻𝚘𝚟𝚎♥︎
+      🇳🇱 UPTEMPO HARDCORE 🎛 Bookings: info@the-wishlist.nl 💿 SNAKEPIT MUSIC ⬇️ ARMAGEDDON (NOXIOUZ REMIX)
     location: "Nigeria"
-    followers: 7611
-    engagement: 1916
-    commentsToLikes: 0.117135
-    id: ck15sjkstdc0z0i193iwi08hx
+    followers: 47009
+    engagement: 679
+    commentsToLikes: 0.033943
+    id: ck5c8rngsa3ea0i11abhc8ct0
     verified: false
-    hashtags: "#faceofzaron2020, #zaroncosmetics, #explorepage, #explore"
-  - username: "sosho._"
+    hashtags: ""
+  - username: "djshampain"
     fullname: >-
-      daniel oladele
+      SHAMPAIN
     bio: >-
-      I_am_sosho 💪💪💪 Ambassador for @nigerianteensblog Bookings for brands and promotions Finsta: @masterkamisosho
+      Gaillimh ☘️ @freakmegazine Host of Éire Eile ar @tg4tv Bookings: toby@3feethi.com
     location: "Nigeria"
-    followers: 6198
-    engagement: 1648
-    commentsToLikes: 0.096128
-    id: ck6trj8x0zawo0j71p9l6px12
-    verified: false
-    hashtags: "#exploremore, #explorepage, #explore, #blacklivesmatter"
-  - username: "rebeccafabunmi_"
-    fullname: >-
-      Dark Horse
-    bio: >-
-      Few Models 🇳🇬 @fewmodels Bookings - Info@fewmodels.com
-    location: "Nigeria"
-    followers: 13821
-    engagement: 1421
-    commentsToLikes: 0.031724
-    id: ck5bv9e2sj82h0i110ndg95f1
+    followers: 17516
+    engagement: 721
+    commentsToLikes: 0.008681
+    id: ck5cfkddfn4vo0i11y4qodr7t
     verified: false
     hashtags: ""
   - username: "kiera_coulibaly"
     fullname: >-
       kiyara
     bio: >-
-      🇳🇪 🇺🇦 🇱🇧 🇸🇱 I paint🎨 @kiera_arts ℐ𝓉 𝓀𝑒𝑒𝓅𝓈 𝑔𝑒𝓉𝓉𝒾𝓃𝑔 𝒷𝑒𝓉𝓉𝑒𝓇.. DM for bookings
+      🇳🇪|🇺🇦~🇱🇧|🇸🇱 Brand Influencer I paint🎨 @kiera_arts Backup page @home_of_ethereal ℐ𝓉 𝓀𝑒𝑒𝓅𝓈 𝑔𝑒𝓉𝓉𝒾𝓃𝑔 𝒷𝑒𝓉𝓉𝑒𝓇..⬇️ DM or email for bookings
     location: "Nigeria"
-    followers: 5127
-    engagement: 1919
-    commentsToLikes: 0.078199
+    followers: 13394
+    engagement: 904
+    commentsToLikes: 0.046719
     id: ckap2we2g0ly60i78p7lpcrve
     verified: false
-    hashtags: "#explorepage, #explore, #goselect, #exploremore"
-  - username: "iamdesibanks"
+    hashtags: "#explore, #exploremore, #explorepage, #abayafashion"
+  - username: "inidimaokojie"
     fullname: >-
-      Desi Banks
+      Ini Dima-Okojie
     bio: >-
-      🙏🏾 God1st Find #PURpose Actor | Comedian | Entertainer | Host Booking/Press: desibanksbooking@gmail.com
+      Laugh! Love! Live!!! 🫶🏾 Bookings: timesnowmgmt@gmail.com @bookingsafrica @playmanagementafr
     location: "Nigeria"
-    followers: 6753988
-    engagement: 540
-    commentsToLikes: 0.037395
-    id: ck0tw4q3ke0hw0i19vebqszzw
+    followers: 875370
+    engagement: 385
+    commentsToLikes: 0.011150
+    id: ck55ky4f60cmm0i117k8okp88
     verified: true
-    hashtags: "#justcomedy, #reallife, #comeseemelive, #tagyourfriends"
-  - username: "preciousokoye"
+    hashtags: "#awtf, #awtfmovie, #inkblotpresents, #inkblotstudios"
+  - username: "stevechuks_"
     fullname: >-
-      MODEL • INFLUENCER
+      Steve Chuks
     bio: >-
-      GOD FIRST ✨ MISS POLO AFRICA MISS POLO NIGERIA 📍Lagos• 🇳🇬 •FOR BOOKINGS 👇🏾 📧okoyeprecious19@gmail.com
+      🇳🇬 God is good Actor • Host • Content creator • Lifestyle Prod/Dir - @ibemantheplay #CleopatraLiveNight Bookings :Email below👇🏽 #AMVCA9 Nominee
     location: "Nigeria"
-    followers: 19052
-    engagement: 427
-    commentsToLikes: 0.069468
-    id: ck15q0t2i0jvp0i19i0hj91yd
+    followers: 523244
+    engagement: 248
+    commentsToLikes: 0.029368
+    id: ck0tvv246cwxx0i19slro2syw
     verified: false
-    hashtags: "#misspolonigeria, #sosbeauty, #makeupremover, #makeupremoverpads"
+    hashtags: "#lightscameranaija, #netflixnaija"
+  - username: "dj_abba_"
+    fullname: >-
+      DJ AB
+    bio: >-
+      Your Favorite Artist! 💫|Subabane Records||YNS|Nigeria 🇳🇬 | Africa 🌍 , Worldwide| for bookings DM @subabanews or text Bebeji +2347036213535
+    location: "Nigeria"
+    followers: 1240140
+    engagement: 149
+    commentsToLikes: 0.027108
+    id: ck5c1f2d9v24w0i11epzzo8e3
+    verified: true
+    hashtags: "#ginjaaahyourflow"
 ---

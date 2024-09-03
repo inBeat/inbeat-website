@@ -1,36 +1,96 @@
 ---
-title: Top 10 Bloggers Instagram Influencers In Toronto In 2023
+title: Top 10 Bloggers Instagram Influencers In Toronto In 2024
 description: >-
-  Find top bloggers Instagram influencers in Toronto in 2023. Most popular hashtags: #toronto #canada #fashion #torontolife.
+  Find top bloggers Instagram influencers in Toronto in 2024. Most popular hashtags: #toronto #blogger #fashionblogger #canada.
 platform: Instagram
-hits: 35
-text_top: Identify the top-rated Instagram accounts on inBeat.
-text_bottom: Our database has 35 Instagram influencers like this in Toronto, Canada for you to connect with.
+hits: 82
+text_top: Analyze the best Instagram influencers on inBeat.
+text_bottom: inBeat holds 82 Instagram influencers like this in Toronto, Canada for you to connect with.
 profiles:
-  - username: "_simrandosanjh"
+  - username: "dianashealthyliving"
     fullname: >-
-      Simran Dosanjh
+      Diana | Toronto Blogger 🇨🇦🇭🇷
     bio: >-
-      Toronto📍 @anm_mgmt tiktok - simrandosanjh_ (17k+) email for bookings ✨
+      Travel • Eats & Drinks • Blogger #Toronto 🏅WSET2 📚WSET3 🤓 🍷@girlsdrinkwinetoo 🇭🇷 @croatiauncovered
     location: "Canada"
-    followers: 17202
-    engagement: 2115
-    commentsToLikes: 0.035404
-    id: ck6ui8ojvdpbj0j71gsnfhgnw
+    followers: 26323
+    engagement: 171
+    commentsToLikes: 0.275205
+    id: ck6u3jsbny77g0j71ygyo85ni
     verified: false
-    hashtags: "#trending, #model, #beauty, #reels"
-  - username: "sidafz"
+    hashtags: "#oakvilleontario, #winetime, #portugal, #beachlife"
+  - username: "beccalaw__"
     fullname: >-
-      Sidrah | Toronto Blogger
+      Rebecca Marie Lawless
     bio: >-
-      Lifestyle & Travel blogger📍Toronto Sharing my child's autism journey Follow for kids inclusive activities Work with me: DM / 📧 siddyusman@gmail.com
+      Toronto📍🏳️‍🌈 Beauty ✰ Makeup ✰ Lifestyle Pr Enquiries: 💌Rebeccamariex91@gmail.com Snapchat: Beccalawmua
     location: "Canada"
-    followers: 13878
-    engagement: 115
-    commentsToLikes: 0.669998
-    id: cks8aqhhiupz50j23q90dq3w1
+    followers: 13305
+    engagement: 252
+    commentsToLikes: 0.099350
+    id: ckt3sc5pq4a2x0j23zzp56h88
     verified: false
-    hashtags: "#love, #torontocontentcreator, #muslimblogger, #canadianblogger"
+    hashtags: "#makeup, #blogger, #toronto, #prevents"
+  - username: "dressinheels"
+    fullname: >-
+      Shadi 🧿
+    bio: >-
+      🕊 Real Estate | Style | Lifestyle 💃🏻 ONLY Account 👻 SnapChat: dress-inheels 💌 Business inquiries: dressinheels@gmail.com
+    location: "Canada"
+    followers: 328859
+    engagement: 152
+    commentsToLikes: 2.894222
+    id: ck0vyg3gi3t730i190t4k9zp7
+    verified: false
+    hashtags: "#trendy, #stylish, #streetphotography, #lbd"
+  - username: "cravingthis1"
+    fullname: >-
+      𝗥𝗨𝗕𝗬 💜 Food Blogger | Toronto | GTA
+    bio: >-
+      🖊️ Food, Restaurant, Product Reviewer ✍🏼 Yelp Elite Gold | Google LG L8 🚨 PERMISSION REQUIRED to Repost 📧 Work with me via DM or Email
+    location: "Canada"
+    followers: 14084
+    engagement: 527
+    commentsToLikes: 0.263018
+    id: clfb7s3o62ywv0j08f3mmz27w
+    verified: false
+    hashtags: "#ayce, #hotpot, #torontofoodies, #chinesehotpot"
+  - username: "la2_guri"
+    fullname: >-
+      Gurpreet Singh
+    bio: >-
+      👔Stylist ||Fashion blogger || influencer 🇨🇦 Toronto 🗺 India.Chandigarh @turban_byguri @bhangrabrigade7 @eye_flick 👻-la2_guri
+    location: "Canada"
+    followers: 107155
+    engagement: 344
+    commentsToLikes: 0.021136
+    id: ckv1vnchbw6gd0j23aexqqmb8
+    verified: false
+    hashtags: "#toronto, #canada, #punjab, #healthylifestyle"
+  - username: "the.girl.in.the.city_"
+    fullname: >-
+      Momina Basit
+    bio: >-
+      Toronto Blogger 📍YYZ 🇨🇦 Host media events • Food• Fashion • Home decor • Mom life 📧 Momina.cancer@gmail.com DM to book 1:1 coaching session
+    location: "Canada"
+    followers: 92895
+    engagement: 196
+    commentsToLikes: 0.043353
+    id: cl5huupuv5thp0i23v0ccp6v8
+    verified: false
+    hashtags: "#gta, #gtablogger, #halalfood, #yyzblogger"
+  - username: "justinpluslauren"
+    fullname: >-
+      Lauren - Travel Blogger
+    bio: >-
+      🌍 Full-time travel blogger from Toronto area 📩 justinpluslauren@gmail.com 🌱 OG vegan travel blogger (2009!) 💖 Small towns, coffee, cats
+    location: "Canada"
+    followers: 62422
+    engagement: 157
+    commentsToLikes: 0.235201
+    id: ck14juou8ma4u0i19hjri8fux
+    verified: true
+    hashtags: "#summertravel, #visitnovascotia, #grouptravel, #visitbritain"
   - username: "goodhealthprettylife"
     fullname: >-
       NICOLE.
@@ -43,88 +103,28 @@ profiles:
     id: ckf5m1tv0rxyx0j23rd5kanul
     verified: false
     hashtags: "#partner, #ad, #vistaambassador, #vistamagazine"
-  - username: "thecuriouscreature"
+  - username: "kiley_langille"
     fullname: >-
-      Solmaz | Toronto Blogger
+      Kiley Langille
     bio: >-
-      Full-time travel & food blogger based in #Toronto. Mama. @destination_toronto Ambassador. 🇮🇷 🇨🇦 Twitter: zamlos I write things👇🏽
+      ♡ Model, Actor, Content Creator, Author ♡ Toronto based world explorer 🇨🇦 ♡ Only model management MA
     location: "Canada"
-    followers: 21744
-    engagement: 306
-    commentsToLikes: 0.505175
-    id: ck0vzhujg96dm0i191vlcd7xc
+    followers: 65012
+    engagement: 171
+    commentsToLikes: 0.054872
+    id: ck8t0sqxzt62c0j789vh5w83h
     verified: false
-    hashtags: "#ilesdelamadeleine, #quebecmaritime, #ad, #peloponnese"
-  - username: "boltonsbites"
+    hashtags: "#influencermarketing, #bloggerstyle, #acting, #model"
+  - username: "zaheee22"
     fullname: >-
-      TORONTO FOOD by Mike Bolton
+      Zaheera Mohammed
     bio: >-
-      🇨🇦 Toronto Food Blogger 📲 Social Media for Restaurants 📬 Contact via Email/DM 👇 Links Below👇
+      Mom of 3~ 20,18,10 Creative Director ✨🇹🇹🇨🇦 Event planner and PR @zaheeandco_pr Personal Stylist.
     location: "Canada"
-    followers: 32393
-    engagement: 206
-    commentsToLikes: 0.086703
-    id: ck0txm2wdjkyd0i19z3yjkxcu
+    followers: 140094
+    engagement: 10
+    commentsToLikes: 0.077184
+    id: ck14l0023s6fd0i19xhp8dibi
     verified: false
-    hashtags: "#burgers, #torontofood, #torontoeats, #foodpornography"
-  - username: "foodaholicblog_"
-    fullname: >-
-      Sandi ♡ Foodaholic!
-    bio: >-
-      * 💻 Food Blogger | Lifestyle | Travel 📍 Toronto 💌 foodaholic12@gmail.com 🏠 Clubhouse @ sandi_04 👩🏻‍💻 Logistics & E-Commerce (FT) 👇🏻 🇧 🇱 🇴 🇬
-    location: "Canada"
-    followers: 17402
-    engagement: 151
-    commentsToLikes: 0.090092
-    id: ck6tnpz6yac6e0j71wpt4mvq1
-    verified: false
-    hashtags: "#reels, #canadatakeout, #canada, #torontolife"
-  - username: "twourism"
-    fullname: >-
-      A & M - Toronto Foodies
-    bio: >-
-      Eats 🍔| Travels ✈️| Lifestyle👫🏽l Newly weds💍 🚨Sharing the best deals 🎥 Tiktok: 9.2k 💌 DM/Email to collab or to say hi! #torontofoodie #toronto #halal
-    location: "Canada"
-    followers: 12221
-    engagement: 724
-    commentsToLikes: 0.226612
-    id: ck6ubkqqma5jw0j718b18nc2f
-    verified: false
-    hashtags: "#torontoeats, #mississaugafood, #pakistanifashion, #torontobride"
-  - username: "vancouversveryown"
-    fullname: >-
-      Brandon Nair | DJ Nizzy 🇫🇯🌺
-    bio: >-
-      🏋🏽‍♀️Athlete @aviiti.inc “NAIR10” 🏋🏽‍♀️Athlete @popeyessupplements 👕Ambassador @_lyftlyfe “NAIR10” ⚽️Team BC Athlete 💪🏽Personal Trainer 🎧DJ
-    location: "Canada"
-    followers: 7165
-    engagement: 736
-    commentsToLikes: 0.068972
-    id: ck13b1trvt9wo0i19cb8j91bu
-    verified: false
-    hashtags: "#exercise, #fitnessmotivation, #getfit, #health"
-  - username: "coralrosecarson"
-    fullname: >-
-      CORAL CARSON
-    bio: >-
-      ♡ Miss Canada World Europe Continental ✎ top 25 women in weed ✧ Mgmt: @worldmgmt » @coralcarson.backup
-    location: "Canada"
-    followers: 80303
-    engagement: 64
-    commentsToLikes: 0.108176
-    id: ckap2ehwryhld0i784v3igkxb
-    verified: false
-    hashtags: "#magazine, #naturalbeauty, #rhk, #fit"
-  - username: "simplysuppa"
-    fullname: >-
-      Julia Suppa
-    bio: >-
-      📹 Storyteller | Content Creator @suppamedia 📹 Host | Blogger 💫Inspire, Work Hard, Be Kind, Give Back. Repeat. 📍#Vaughan #Toronto #Canada 🇨🇦
-    location: "Canada"
-    followers: 7593
-    engagement: 417
-    commentsToLikes: 0.101940
-    id: ck8tbwm6jxgan0j78y4he4wod
-    verified: false
-    hashtags: "#ad, #simplysuppa, #homereno, #yyzmoms"
+    hashtags: "#toronto, #blogger, #momofthree, #momof3"
 ---

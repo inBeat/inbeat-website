@@ -1,12 +1,48 @@
 ---
-title: Top 10 Gaming Instagram Influencers In Canada In 2023
+title: Top 10 Gaming Instagram Influencers In Canada In 2024
 description: >-
-  Find top gaming Instagram influencers in Canada in 2023. Most popular hashtags: #gaming #gamergirl #gamer #pc.
+  Find top gaming Instagram influencers in Canada in 2024. Most popular hashtags: #gaming #pcgaming #gamingsetup #gamergirl.
 platform: Instagram
-hits: 20
-text_top: See the top-rated Instagram accounts on inBeat.
-text_bottom: Our platform has 20 Instagram influencers like this in Canada for you to collaborate.
+hits: 38
+text_top: Identify the top-rated Instagram accounts on inBeat.
+text_bottom: Our search engine aggregates 38 Instagram influencers like this in Canada for you to collaborate.
 profiles:
+  - username: "chanel.tech"
+    fullname: >-
+      Chanel Tech
+    bio: >-
+      💻 Tech, Gaming & Lifestyle 🇨🇦 Toronto, Canada 🏎️ @thenorthlanes 👇🏽 Links to cool stuff
+    location: "Canada"
+    followers: 20842
+    engagement: 247
+    commentsToLikes: 0.328650
+    id: clleov48rtskk0j082e7wy1jv
+    verified: false
+    hashtags: "#logitech, #deskaccessories, #desksetup, #setupwars"
+  - username: "seejayare"
+    fullname: >-
+      SeeJayAre
+    bio: >-
+      🕹️ Gaming Enthusiast ➕➖➖🅱️🅰️ 🎵 Record Collector 🧑‍🧒‍🧒 Rad Dad 🎮 LINKS👇
+    location: "Canada"
+    followers: 26432
+    engagement: 169
+    commentsToLikes: 0.057411
+    id: ck8syd4wekher0j78hnnst6z5
+    verified: false
+    hashtags: "#giftedproduct, #retrogamingcommunity, #classicgamer, #retrocollectivena"
+  - username: "astronuggie"
+    fullname: >-
+      Christina 🎀 astronuggie
+    bio: >-
+      🍄 • cozy + clean desk setup • gaming • tech ✉️ • astronugonline@gmail.com 🇨🇦 • toronto, canada
+    location: "Canada"
+    followers: 61665
+    engagement: 152
+    commentsToLikes: 0.024076
+    id: clnryd9ocelll0j08a0zhs7rf
+    verified: false
+    hashtags: "#deskspace, #cozyhome, #rgblighting, #cozysetup"
   - username: "gakuspace"
     fullname: >-
       Gaku Space
@@ -30,19 +66,55 @@ profiles:
     commentsToLikes: 0.030632
     id: ck8t63qdfc5g60j78krx3d2rr
     verified: false
-    hashtags: "#setupsforgaming, #setuptour, #setups, #gamingsetup"
-  - username: "salernorealestate"
+    hashtags: "#rgbled, #battlestations, #rgblighting, #officialsetups"
+  - username: "midnababy"
     fullname: >-
-      Mark Salerno Real Estate
+      Midna🦋| Final Fantasy Streamer
     bio: >-
-      Top 50 Ontario🇨🇦 R.E Broker Owner @SalernoRealtyInc Blogger & Podcaster 🏡 Husband & Father 🙎🏻‍♀️👧🏻👧🏻 Gaming & Sports 🎮 💯 #FirmFriday™️
+      TWITCH PARTNER FFXIV/VARIETY
     location: "Canada"
-    followers: 152508
-    engagement: 192
-    commentsToLikes: 0.086331
-    id: ck0uefbhol7140i19z1v9hawp
+    followers: 10142
+    engagement: 986
+    commentsToLikes: 0.044801
+    id: ck13cdzzjzw770i19zsdb0ppi
     verified: false
-    hashtags: "#realestate, #luxury, #forsale, #toronto"
+    hashtags: "#classicfashion, #girlswhogame, #livestream, #yvr"
+  - username: "jujubetv"
+    fullname: >-
+      jujube
+    bio: >-
+      hi hi I’m juju! twitch partner • canadian content creator
+    location: "Canada"
+    followers: 21240
+    engagement: 801
+    commentsToLikes: 0.048457
+    id: cln4q7in5jycw0j08fffwn8x1
+    verified: false
+    hashtags: "#pokemon, #streamer, #twitchtv, #pok"
+  - username: "yami.navi"
+    fullname: >-
+      Yami Navi
+    bio: >-
+      🃏 Yu-Gi-Oh! Duelist & Collector 🇨🇦 Toronto, Canada 🗣🇺🇸🇫🇷🇮🇹 #yugioh #youtuber #mangafan ⬇️ YouTube Channel ⬇️
+    location: "Canada"
+    followers: 18946
+    engagement: 566
+    commentsToLikes: 0.019712
+    id: ck9ha5iezb8hm0j782qbihl2m
+    verified: false
+    hashtags: "#snes, #nes, #millennium, #rushduel"
+  - username: "hazel.games"
+    fullname: >-
+      Kass ᡣ𐭩
+    bio: >-
+      ⊹₊ ⋆𝒲ℯ𝓁𝒸ℴ𝓂ℯ 𝓉ℴ 𝓂𝓎 𝒸ℴ𝓏𝓎 𝓈𝓅𝒶𝒸ℯ ⊹₊ ⋆ 🌸•Setup aesthetics • good vibes •🌸 … 𝘄𝗶𝘁𝗵 𝗮 𝘀𝗽𝗿𝗶𝗻𝗸𝗹𝗲 𝗼𝗳 𝗰𝗵𝗮𝗼𝘀 🇨🇦📧 hazelgames.biz@hotmail.com
+    location: "Canada"
+    followers: 26568
+    engagement: 144
+    commentsToLikes: 0.213308
+    id: cloxoe8w0zcib0j08e7f88tei
+    verified: false
+    hashtags: "#pcgaming, #cozygamer, #cozygaming, #purplegamingsetup"
   - username: "hai_yun2"
     fullname: >-
       ané 💫
@@ -54,77 +126,5 @@ profiles:
     commentsToLikes: 0.032943
     id: ckap0953xpas10i78j8rg9wn7
     verified: false
-    hashtags: "#catgirl, #pcgaming, #noellegenshinimpact, #ffxivcosplay"
-  - username: "saven.art"
-    fullname: >-
-      🌙 A Dreamy Soul ⭐️
-    bio: >-
-      ✨Commissions : OPEN ✨SHOP: FEB 23 Update ✦ Catalog @savenartstudio ✦ Vancouver, 🇨🇦 ✧ Please DO NOT repost/ redraw without permission!
-    location: "Canada"
-    followers: 38775
-    engagement: 1406
-    commentsToLikes: 0.022763
-    id: ckaoz0ju3juoc0i783ism4lyv
-    verified: false
-    hashtags: "#dailyart, #originalartworks, #foodillustration, #japanesefood"
-  - username: "sikvsski"
-    fullname: >-
-      Tia || テイア
-    bio: >-
-      ɢɢ | ɢᴀᴍᴇʀ | ᴄᴀʀs | ᴀᴍʙɪᴀɴᴄᴇ ǫᴜᴇᴇɴ | ᴄᴀᴛ ᴍᴏᴍ | ᴍᴇʟᴏᴍᴀɴɪᴀᴄ 📍Calgary, Alberta🇨🇦
-    location: "Canada"
-    followers: 10407
-    engagement: 329
-    commentsToLikes: 0.066849
-    id: ckap2ixmqz1480i78tu1fxbjp
-    verified: false
-    hashtags: "#gamer, #gamin, #gamingaddict, #happy"
-  - username: "dansomewojagaming"
-    fullname: >-
-      Variety Youtuber & Streamer
-    bio: >-
-      Personal: @itsdansomewoja 🇨🇦 Twitch.tv/DansomeWoja 💼 Business - TheDansomeWoja@hotmail.com Halo ⏰
-    location: "Canada"
-    followers: 52935
-    engagement: 267
-    commentsToLikes: 0.018112
-    id: ck15pk9beyapc0i19ehje8w8e
-    verified: false
-    hashtags: "#roguereplay, #paladin, #left4dead, #gamertag"
-  - username: "midnababy"
-    fullname: >-
-      Midna🦋🗡 | FFXIV Streamer
-    bio: >-
-      👾 TWITCH PARTNER 🎮 FFXIV/VARIETY 💇🏻‍♀️ HAIRSTYLIST
-    location: "Canada"
-    followers: 7381
-    engagement: 1499
-    commentsToLikes: 0.042390
-    id: ck13cdzzjzw770i19zsdb0ppi
-    verified: false
-    hashtags: "#animefans, #otaku, #manga, #neutral"
-  - username: "yandjii"
-    fullname: >-
-      YANDJI💋 (yan-gee)
-    bio: >-
-      ‘WAVY’ out on ALL platforms 💎 Your favourite trouble maker 😈 If not me, then who? Click below!
-    location: "Canada"
-    followers: 12450
-    engagement: 1608
-    commentsToLikes: 0.069798
-    id: ckap5p95ocl1t0i78oxtkk7dh
-    verified: false
-    hashtags: "#music, #explorepage, #blackwoman, #exploremore"
-  - username: "onigamer"
-    fullname: >-
-      ☆ magikazam ☆
-    bio: >-
-      🌸 kayla 🌸 lvl 24 🌸 Canadian 🌸 Cosplayer 🌸 Figure collector 🌸 Dm for business collab
-    location: "Canada"
-    followers: 24341
-    engagement: 825
-    commentsToLikes: 0.010701
-    id: ck138flbtg04d0i19jemqme7c
-    verified: false
-    hashtags: "#figurecollection, #nintendo, #cosplay, #kawaiiroom"
+    hashtags: "#cosplaysexy, #craft, #fyp, #crossplay"
 ---

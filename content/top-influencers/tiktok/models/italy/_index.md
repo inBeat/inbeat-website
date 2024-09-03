@@ -1,11 +1,11 @@
 ---
-title: Top 10 Models TikTok Influencers In Italy In 2023
+title: Top 10 Models TikTok Influencers In Italy In 2024
 description: >-
-  Find top models TikTok influencers in Italy in 2023. Most popular hashtags: #foryou #perte #neiperte #model.
+  Find top models TikTok influencers in Italy in 2024. Most popular hashtags: #foryou #perte #lovedisoloqua #fyp.
 platform: TikTok
-hits: 101
-text_top: Identify the best TikTok profiles on inBeat.
-text_bottom: Our platform has 101 TikTok influencers like this in Italy for you to connect with.
+hits: 102
+text_top: Discover the best TikTok profiles on inBeat.
+text_bottom: Our database aggregates 102 TikTok influencers like this in Italy for you to connect with.
 profiles:
   - username: "stepoggio"
     fullname: >-

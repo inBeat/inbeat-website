@@ -1,11 +1,11 @@
 ---
-title: Top 10 Cooking Instagram Influencers In Norway In 2023
+title: Top 10 Cooking Instagram Influencers In Norway In 2024
 description: >-
-  Find top cooking Instagram influencers in Norway in 2023. Most popular hashtags: #homemade #healthylifestyle #love.
+  Find top cooking Instagram influencers in Norway in 2024. Most popular hashtags: #love #middagstips #healthyeating.
 platform: Instagram
-hits: 58
-text_top: See the best Instagram accounts on inBeat.
-text_bottom: Our search engine aggregates 58 Instagram influencers like this in Norway for you to contact.
+hits: 60
+text_top: Discover the best Instagram profiles on inBeat.
+text_bottom: Our search engine has 60 Instagram influencers like this in Norway for you to contact.
 profiles:
   - username: "hengekoyevenninner"
     fullname: >-
@@ -37,12 +37,24 @@ profiles:
     bio: >-
       Medical doctor & environmentalist working to improve the health of👫&🌎 through better food. Founder & Executive Chair of EAT. Young Global Leader 2015
     location: "Norway"
-    followers: 186309
-    engagement: 379
-    commentsToLikes: 0.025769
+    followers: 196463
+    engagement: 169
+    commentsToLikes: 0.034351
     id: ck5zmq1uzn0kg0i147yvuqe2w
     verified: true
-    hashtags: "#photoshoot, #dryjanuary, #artphotography, #nonpaidpromo"
+    hashtags: "#healthyfood, #climatejustice, #plantbased, #climateaction"
+  - username: "jamillas_food"
+    fullname: >-
+      Jamilla El Haddaoui
+    bio: >-
+      En fot i hver kultur🇳🇴🇲🇦Oslo📍 Forfatter av boken «Jamillas Marokkanske mat» Kjøp boken her👇🏻
+    location: "Norway"
+    followers: 52081
+    engagement: 98
+    commentsToLikes: 0.243935
+    id: ck9hccd5fkqrt0j78e6yhqdlh
+    verified: false
+    hashtags: "#moroccanfood, #oslofood, #oslove, #mittosloliv"
   - username: "inamariehagen"
     fullname: >-
       Ina Marie Hagen
@@ -55,18 +67,6 @@ profiles:
     id: ckf5n3tzpwmpi0j23d3kc63h2
     verified: false
     hashtags: "#pescetarian, #instafood, #buzzfeedfood, #eatyourveggies"
-  - username: "bnordstrand"
-    fullname: >-
-      Berit Nordstrand
-    bio: >-
-      Forfatter og foredragsholder lidenskapelig opptatt av livsnytelse, optimal helse og minimal helserisiko gjennom ren, naturlig mat 🌱 Signert bok 👇🏻
-    location: "Norway"
-    followers: 107245
-    engagement: 105
-    commentsToLikes: 0.061430
-    id: ck5c1z6j7w7r40i11lcx60d4z
-    verified: true
-    hashtags: "#tarmensmedisin, #plantebasert, #melkefri, #omstart30"
   - username: "carrielynnandmitchel"
     fullname: >-
       Carrie Beamer Mitch Stevenson
@@ -91,40 +91,40 @@ profiles:
     id: ck0uajdd2cdhe0i19jo1to3yj
     verified: false
     hashtags: "#myhomevibe, #homeblogger, #interiorblogger, #homeinspo"
-  - username: "nilsingar"
+  - username: "linnwoyenlenes"
     fullname: >-
-      Nils-Ingar Aadne
+      LINN WØYEN LENES
     bio: >-
-      Komiker og skiløper. For booking av foredraget «Gleden av å prestere!», konferansier eller stand-up, ta kontakt med FeelgoodiStage.
+      For booking and inquiries: silje@modernemedia.no Blessed mom🤍 Snap: Linnwlenes
     location: "Norway"
-    followers: 59830
-    engagement: 691
-    commentsToLikes: 0.058531
-    id: ck13atn6hs4jt0i19lnlzebpk
-    verified: true
-    hashtags: "#hoka, #mot, #kaffebryggeriet, #syltebrus"
-  - username: "vitamashadi"
+    followers: 96562
+    engagement: 1086
+    commentsToLikes: 0.075371
+    id: ckapaocmswud50i78xv5hqpr2
+    verified: false
+    hashtags: "#lucky, #soli, #postpartum, #konkurranse"
+  - username: "attitudetattoostudio"
     fullname: >-
-      Vita Mashadi
+      ATTITUDE TATTOO STUDIO
     bio: >-
-      ✉️ Management & booking: Christina.oien@plan-b.no 🎧 Podcast: «Tvillingterapi med Vita & Wanda» 🌸 VAAG by Vita & Wanda 👇🏽Nyeste episode av poden
+      ◾️ Norway’s biggest studio ◾️ Based in Oslo ◾️ Booking through our website or dm
     location: "Norway"
-    followers: 87402
-    engagement: 372
-    commentsToLikes: 0.007686
-    id: ck5btpnjjgdft0i11zew7rtre
-    verified: true
-    hashtags: "#zalando, #stylecreator, #getthelook"
-  - username: "martebratberg"
+    followers: 73409
+    engagement: 515
+    commentsToLikes: 0.011306
+    id: ck1385jweekz60i19i3r26ij0
+    verified: false
+    hashtags: ""
+  - username: "bokassaband"
     fullname: >-
-      Marte Bratberg
+      Bokassa
     bio: >-
-      📺 God Kveld Norge ✉️ booking: Julianne@brandpeople.no 🎧Janka og Martes podcast
+      The Buzz Aldrin of Norwegian Rock! Mgmt: mt@moshingonmyown.com Booking: jan.quiel@seaside-entertainment.com Booking Norway: Vibeke@polarartist.no
     location: "Norway"
-    followers: 137506
-    engagement: 909
-    commentsToLikes: 0.030795
-    id: ck15t4j6pgb780i19fn33qfso
-    verified: true
-    hashtags: "#theritualofmehr, #ritualsambassador, #opplevelsermedtwentyfour, #twentyfour"
+    followers: 10977
+    engagement: 298
+    commentsToLikes: 0.026916
+    id: ck0w6f0cs895u0i192vgrxs26
+    verified: false
+    hashtags: "#zebrahead, #bokassa, #bokassaband, #drummerswhonevercankeepthereeyesopenonphotographs"
 ---

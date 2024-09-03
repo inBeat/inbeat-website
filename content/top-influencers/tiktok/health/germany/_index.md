@@ -1,11 +1,11 @@
 ---
-title: Top 10 Health TikTok Influencers In Germany In 2023
+title: Top 10 Health TikTok Influencers In Germany In 2024
 description: >-
-  Find top health TikTok influencers in Germany in 2023. Most popular hashtags: #fyp #foryou #motivation #viral.
+  Find top health TikTok influencers in Germany in 2024. Most popular hashtags: #fyp #foryou #food #fy.
 platform: TikTok
 hits: 108
-text_top: Analyze the top-rated TikTok influencers on inBeat.
-text_bottom: inBeat has 108 TikTok influencers like this in Germany for you to collaborate.
+text_top: Discover the top-rated TikTok influencers on inBeat.
+text_bottom: Our search engine holds 108 TikTok influencers like this in Germany for you to collaborate.
 profiles:
   - username: "goran.j74"
     fullname: >-
@@ -54,7 +54,7 @@ profiles:
     commentsToLikes: 0.064508
     id: ck9c7pidks6ey0j78c6qweuav
     verified: false
-    hashtags: "#calisthenics, #cardio, #workout, #outdoorworkout"
+    hashtags: "#fit, #outdoorworkout, #calisthenics, #nature"
   - username: "healthy_mandy"
     fullname: >-
       healthy_mandy
@@ -90,7 +90,7 @@ profiles:
     commentsToLikes: 0.005722
     id: ck9dtqa5ed5wg0j78k5zjct8g
     verified: false
-    hashtags: "#fail, #kitesurfing, #fun, #surfing"
+    hashtags: "#kiteboarding, #kitesurfing, #fun, #summer"
   - username: "mindsetwithmarlene"
     fullname: >-
       Marlene

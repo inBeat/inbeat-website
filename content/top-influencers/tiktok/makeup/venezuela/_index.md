@@ -1,11 +1,11 @@
 ---
-title: Top 10 Makeup TikTok Influencers In Venezuela In 2023
+title: Top 10 Makeup TikTok Influencers In Venezuela In 2024
 description: >-
-  Find top makeup TikTok influencers in Venezuela in 2023. Most popular hashtags: #makeup #fyp #parati #maquillaje.
+  Find top makeup TikTok influencers in Venezuela in 2024. Most popular hashtags: #makeup #parati #fyp #foryou.
 platform: TikTok
 hits: 22
-text_top: Discover the best TikTok profiles on inBeat.
-text_bottom: Our platform holds 22 TikTok influencers like this in Venezuela for you to pitch.
+text_top: Analyze the most popular TikTok profiles on inBeat.
+text_bottom: Our database has 22 TikTok influencers like this in Venezuela for you to pitch.
 profiles:
   - username: "trinistylist"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.045410
     id: ckc36st7jvopn0j23jadb3gj9
     verified: false
-    hashtags: "#drag, #caracas, #dragmakeup, #followforaflollow"
+    hashtags: "#follow, #followbak, #makeup, #mua"
   - username: "armakeupstudio"
     fullname: >-
       Angie Rojas
@@ -54,7 +54,7 @@ profiles:
     commentsToLikes: 0.063641
     id: cka0vtkjv00780i78dnf0lsv7
     verified: false
-    hashtags: "#beauty, #makeupvenezuela, #parati, #caradediva"
+    hashtags: "#dance, #maquillaje, #fyp, #beauty"
   - username: "gladysclavijo"
     fullname: >-
       Gladys Clavijo

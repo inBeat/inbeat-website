@@ -1,11 +1,11 @@
 ---
-title: Top 10 Makeup TikTok Influencers In Russia In 2023
+title: Top 10 Makeup TikTok Influencers In Russia In 2024
 description: >-
-  Find top makeup TikTok influencers in Russia in 2023. Most popular hashtags: #makeup #fyp #love.
+  Find top makeup TikTok influencers in Russia in 2024. Most popular hashtags: #makeup #love #mua.
 platform: TikTok
 hits: 63
-text_top: Analyze the best TikTok accounts on inBeat.
-text_bottom: inBeat aggregates 63 TikTok influencers like this in Russia for you to contact.
+text_top: Analyze the top-rated TikTok influencers on inBeat.
+text_bottom: Our platform holds 63 TikTok influencers like this in Russia for you to connect with.
 profiles:
   - username: "politola"
     fullname: >-

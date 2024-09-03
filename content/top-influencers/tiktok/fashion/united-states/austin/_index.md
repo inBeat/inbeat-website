@@ -1,12 +1,36 @@
 ---
-title: Top 10 Fashion TikTok Influencers In Austin In 2023
+title: Top 10 Fashion TikTok Influencers In Austin In 2024
 description: >-
-  Find top fashion TikTok influencers in Austin in 2023. Most popular hashtags: #fyp #fashion #texas #foryou.
+  Find top fashion TikTok influencers in Austin in 2024. Most popular hashtags: #fyp #fashion #foryou #texas.
 platform: TikTok
-hits: 111
-text_top: Analyze the best TikTok profiles on inBeat.
-text_bottom: Our search engine aggregates 111 TikTok influencers like this in Austin, United States for you to connect with.
+hits: 110
+text_top: Discover the best TikTok influencers on inBeat.
+text_bottom: inBeat holds 110 TikTok influencers like this in Austin, United States for you to connect with.
 profiles:
+  - username: "joseph.maxfield"
+    fullname: >-
+      Joseph
+    bio: >-
+      I love Ariana Grande
+    location: "United States"
+    followers: 26700
+    engagement: 1688
+    commentsToLikes: 0.036327
+    id: ckbfibxvme5me0j2345uo1tfa
+    verified: false
+    hashtags: "#arianagrande, #xyzbca, #greenscreen, #fyp"
+  - username: "lizzkimkim"
+    fullname: >-
+      Lizz Kim Kim
+    bio: >-
+      🦋Fashion + Fun Local Finds🦋 IG 💖👉🏻 @lizzkimkim 💌 Lizzkimcollabs@gmail.com
+    location: "United States"
+    followers: 47800
+    engagement: 810
+    commentsToLikes: 0.028177
+    id: ckb9fw06i4hlu0j23ex095v0q
+    verified: false
+    hashtags: "#houstonfood, #htx, #musthaves, #musttry"
   - username: "marianaxvalencia"
     fullname: >-
       Mariana
@@ -18,7 +42,7 @@ profiles:
     commentsToLikes: 0.024463
     id: ckce7riuyl7gv0j235z8mmy4r
     verified: false
-    hashtags: "#ootd, #fyp, #diy, #fashioninspo"
+    hashtags: "#style, #outfitideas, #styletips, #styleinspo"
   - username: "villela.frank"
     fullname: >-
       villela.frank
@@ -31,18 +55,6 @@ profiles:
     id: cka0oupv25l5t0i78i9xatmxd
     verified: false
     hashtags: "#fyp, #foryoupage, #boo, #viral"
-  - username: "lizzkimkim"
-    fullname: >-
-      Lizz Kim Kim
-    bio: >-
-      🦋Fashion + Fun Local Finds🦋 IG 💖👉🏻 @lizzkimkim 💌 Lizzkimcollabs@gmail.com
-    location: "United States"
-    followers: 47800
-    engagement: 810
-    commentsToLikes: 0.028177
-    id: ckb9fw06i4hlu0j23ex095v0q
-    verified: false
-    hashtags: "#htownfoodie, #musttry, #houstonhotspots, #htown"
   - username: "haley.snider"
     fullname: >-
       Haley Snider
@@ -86,11 +98,11 @@ profiles:
       She/Her Dark Mother Clothing 🦇 | Alt. Fashion for Moms & Dads, YA’s, and Kids
     location: "United States"
     followers: 42800
-    engagement: 900
-    commentsToLikes: 0.098992
+    engagement: 974
+    commentsToLikes: 0.091041
     id: ckd5wvethzzo80j235bg1skij
     verified: false
-    hashtags: "#battyaboutyou, #fyp, #duet, #darkmotherclothing"
+    hashtags: "#altmomclub, #darkmotherclothing, #childrensbookauthor, #darkmotherbooks"
   - username: "ninaberenato"
     fullname: >-
       Nina Berenato
@@ -109,22 +121,10 @@ profiles:
     bio: >-
       Hook ‘em Horns 🐂🤘🏻🧡 Sorority, fashion and occasionally funny content
     location: "United States"
-    followers: 33500
-    engagement: 687
-    commentsToLikes: 0.020940
+    followers: 39700
+    engagement: 686
+    commentsToLikes: 0.014981
     id: ckc7pclesv2pd0j23haetmhdg
     verified: false
-    hashtags: "#rush, #hookem, #recruitment, #sorority"
-  - username: "hexrome"
-    fullname: >-
-      Rumman Al-Shaikh
-    bio: >-
-      All of my content Austin, Tx
-    location: "United States"
-    followers: 9361
-    engagement: 1106
-    commentsToLikes: 0.017984
-    id: ckb1bczp5zwy70j23ijms22en
-    verified: false
-    hashtags: "#supercars, #fyp, #lamborghini, #ferrari"
+    hashtags: "#fyp, #ut, #style, #hookem"
 ---

@@ -1,36 +1,60 @@
 ---
-title: Top 10 Cosmetics Instagram Influencers In Poland In 2023
+title: Top 10 Cosmetics Instagram Influencers In Poland In 2024
 description: >-
-  Find top cosmetics Instagram influencers in Poland in 2023. Most popular hashtags: #makeup #polishgirl #polskadziewczyna #makijaz.
+  Find top cosmetics Instagram influencers in Poland in 2024. Most popular hashtags: #makeup #polskadziewczyna #piel #makijaz.
 platform: Instagram
-hits: 631
-text_top: Discover the best Instagram accounts on inBeat.
-text_bottom: Our database aggregates 631 Instagram influencers like this in Poland for you to collaborate.
+hits: 602
+text_top: Discover the most popular Instagram profiles on inBeat.
+text_bottom: inBeat aggregates 602 Instagram influencers like this in Poland for you to work with.
 profiles:
-  - username: "magdapieczonkamakeup"
+  - username: "martadejewska"
     fullname: >-
-      Magda Pieczonka
+      Marta Dejewska
     bio: >-
-      💄Makijażystka Wszech Czasów wizaż.pl💄 Beauty Influencer Roku magazynu JOY 💄Autorka pędzli do makijażu oraz rzęs @lovenue_cosmetics_and_tools
+      Współpraca 📩 marta.dejewska123@gmail.com 🌱lifestyle 💄cosmetics 👗fashion 16.06.2018r. 💍<3 P. #momytwins 👧👧 Zosia i Zuzia❤️
     location: "Poland"
-    followers: 717845
-    engagement: 251
-    commentsToLikes: 0.007085
-    id: ck0vzxfj1bcy70i19joogf0g7
-    verified: true
-    hashtags: "#like, #makeup, #wsp, #makijazclinique"
+    followers: 11736
+    engagement: 303
+    commentsToLikes: 0.042610
+    id: ckf5lrm3zqqbb0j2392ajur6q
+    verified: false
+    hashtags: "#pictureoftheday, #styleoftheday, #beauty, #instahome"
+  - username: "kitka00"
+    fullname: >-
+      Klaudia
+    bio: >-
+      💄👗🧖🏻‍♀️💆🏻‍♀️🧘🏻‍♀️ 🐯ambassador: @catchatiger_cosmetics 💛 TikTok: kitka00 +600 000 🎥 YouTube: ki tka +150 000 _____________ ✨NAJNOWSZY FILM✨ ⬇️
+    location: "Poland"
+    followers: 54545
+    engagement: 181
+    commentsToLikes: 0.040264
+    id: ckap8qgkspf7b0i78tvi8h55c
+    verified: false
+    hashtags: "#skincare, #warsawgirl, #kosmetyki, #outfitdnia"
+  - username: "justyna_wizaz"
+    fullname: >-
+      Lifestyle Blogger
+    bio: >-
+      📩 kontakt@justynazybert.pl 📩 ⭐#beauty #cosmetics #spa #lifestyle #food #psychologia #rozwojosobisty ⭐ ⭐#warszawa ⭐
+    location: "Poland"
+    followers: 25391
+    engagement: 95
+    commentsToLikes: 0.004135
+    id: ckaoxpw0headj0i78qd1250rm
+    verified: false
+    hashtags: "#wlosomaniaczka, #kosmetyki, #piel, #freetime"
   - username: "oliwiachomentowska"
     fullname: >-
-      ⭐️Fitnessmissionbyolivia⭐️
+      Oliwia Chomentowska
     bio: >-
-      Co-owner @blommaofficial @sweet_kcal @carpatree „olivia” -20% @fitwomen.pl „olivia” -15% @apis.natural.cosmetics „olivia” -10% Dieta/trening ->
+      Lifestyle • sports • foods • travels • outfits Amb. @fitwomen.pl @apis.natural.cosmetics @carpatree TikTok oliwiachomentowska
     location: "Poland"
-    followers: 114619
-    engagement: 542
-    commentsToLikes: 0.045602
+    followers: 202864
+    engagement: 46
+    commentsToLikes: 0.005462
     id: ck5zx2a6o77i50i14xpaa9zti
     verified: false
-    hashtags: "#workout, #wypukleposladki, #zdroweodzywanie, #promocja"
+    hashtags: "#motivation, #beauty, #fitwomen, #bielizna"
   - username: "brunettecosmetics"
     fullname: >-
       Asia Pierzchnica | BEAUTY
@@ -55,18 +79,6 @@ profiles:
     id: ck8t9d573nnn80j78romx1u9h
     verified: false
     hashtags: "#bperfectcosmetics, #darklips, #qualitymakeup, #quarantinemakeup"
-  - username: "justyna_wizaz"
-    fullname: >-
-      Lifestyle Blogger
-    bio: >-
-      📩 kontakt@justynazybert.pl 📩 ⭐#beauty #cosmetics #spa #lifestyle #food ⭐ ⭐#warszawa ⭐
-    location: "Poland"
-    followers: 27269
-    engagement: 409
-    commentsToLikes: 0.029029
-    id: ckaoxpw0headj0i78qd1250rm
-    verified: false
-    hashtags: "#blondegirl, #shopoholic, #fashionstyle, #blonde"
   - username: "champagne_vip"
     fullname: >-
       🎀  𝒟𝒶𝓇𝒾𝒶 𝒦𝒶𝓈𝒶𝓃𝒹𝓇𝒶 𝒫𝒾𝓍𝒶  🎀
@@ -91,18 +103,6 @@ profiles:
     id: ck14ji7x5kha20i19z9eaqk6y
     verified: false
     hashtags: "#affect, #makeup, #promakeupacademy, #mua"
-  - username: "kate.ing"
-    fullname: >-
-      Kasia Inglot
-    bio: >-
-      📩Collab: DM/e-mail: inglot.katarzyna@o2.pl ▫️Rzeszów ▫️25 🎓Student/Cosmetic Services Technician 🎓Security Engineer 🎓Health & Safety Specialist
-    location: "Poland"
-    followers: 235735
-    engagement: 244
-    commentsToLikes: 0.010232
-    id: ck9weuri9lxi60j788vvonfgl
-    verified: false
-    hashtags: "#rzeszow, #katowice, #tattoo, #glasses"
   - username: "trilln4ti"
     fullname: >-
       Natalia Spyrła👑✨

@@ -1,36 +1,48 @@
 ---
-title: Top 10 Instagram Influencers In Denver In 2023
+title: Top 10 Instagram Influencers In Denver In 2024
 description: >-
-  Find top Instagram influencers in Denver in 2023. Most popular hashtags: #denver #colorado #hiking.
+  Find top Instagram influencers in Denver in 2024. Most popular hashtags: #ad #denverco #denvergirls.
 platform: Instagram
-hits: 1277
-text_top: Analyze the best Instagram accounts on inBeat.
-text_bottom: Our platform holds 1277 Instagram influencers like this in Denver, United States for you to contact.
+hits: 1508
+text_top: See the top-rated Instagram influencers on inBeat.
+text_bottom: inBeat holds 1508 Instagram influencers like this in Denver, United States for you to work with.
 profiles:
-  - username: "adventuringeyes"
+  - username: "chlobellexx"
     fullname: >-
-      Sarah and Myles // adventure travel creators
+      Chloe Petramale
     bio: >-
-      💛 husband & wife adventurers ✈️ trip itineraries 🥾national park & hiking guides 🌲sustainable travel 💌hello@adventuringeyes.com 📍Denver, CO
+      Travel guides, Outfit Inspo + cocktail enthusiast ✈️💃🏼🥃 💌chlobellexx@gmail.com 📍Denver Shop my looks + REVOLVE faves below!
     location: "United States"
-    followers: 88894
-    engagement: 1416
-    commentsToLikes: 0.055606
-    id: ckz4fx0oq74kx0j23v6wuwaq9
+    followers: 40477
+    engagement: 541
+    commentsToLikes: 0.048591
+    id: ck5zio1r5g2ik0i14vbdlrxg4
     verified: false
-    hashtags: "#visitutah, #visitkauai, #visithawaii, #kauaihawaii"
-  - username: "kbfitusa"
+    hashtags: "#pinterestinspired, #winterootd, #aesethticmornings, #winterinspo"
+  - username: "fearlesslyfoster"
     fullname: >-
-      KATIE🥊
+      Michelle Foster
     bio: >-
-      ≘ 22 | Denver + CO spgs 🌍 ≘ 4th degree black belt in karate🥋 ≘ Health + wellness enthusiast🧘🏽 ≘ Powered by @gymshark 🦈
+      Affordable outfits | Travel Ideas New Mom & Everyday Life in Denver, CO🏔️ ✉️ fearlesslyfoster@gmail.com
     location: "United States"
-    followers: 74597
-    engagement: 2547
-    commentsToLikes: 0.009460
-    id: cl4ipwlnnsa1u0i23nwgkjc0b
+    followers: 20093
+    engagement: 6958
+    commentsToLikes: 0.084374
+    id: ck14hfjfna2j80i19pnmqgwwt
     verified: false
-    hashtags: "#gym, #fitnessmotivation, #fit, #workout"
+    hashtags: "#pregnancyphoto, #bumpstyleseries, #bumppic, #39weekspregnant"
+  - username: "ashleyyyoconnell"
+    fullname: >-
+      A S H L E Y  T A Y L O R
+    bio: >-
+      denver | peds rn | doula 💌🍸🎥🪩🍒🎱🎸🩺 @littlerockiesdoula contact@tablerock.com
+    location: "United States"
+    followers: 16509
+    engagement: 1159
+    commentsToLikes: 0.008233
+    id: ckyl6tz54u54z0j23b12fn2i8
+    verified: false
+    hashtags: "#lovelulus, #luluspartner"
   - username: "danaoliivia"
     fullname: >-
       Dana Olivia
@@ -42,89 +54,77 @@ profiles:
     commentsToLikes: 0.154748
     id: ckwbef71akzmq0j23297hxcgr
     verified: false
-    hashtags: "#shesfarout, #discoverunder5k, #mypublicgoods, #fashionfury"
-  - username: "myrandainthemountains"
+    hashtags: "#classystreetweargirls, #tigermist, #whatiamwearingtoday, #styl"
+  - username: "kbfitusa"
     fullname: >-
-      Myranda • Solo Hiking + Travel • Colorado Content Creator
+      KATIE🥋
     bio: >-
-      📍 Denver 🥾 Hiking, camping, + off-roading fan 🏔 Helping you plan your outdoor adventures 💌 MyrandaintheMountains@gmail.com
+      23 | Denver + CO spgs 4th degree black belt Health + wellness enthusiast
     location: "United States"
-    followers: 17514
-    engagement: 233
-    commentsToLikes: 0.168168
-    id: cl7lda36evj280i23lenfb9xy
+    followers: 82344
+    engagement: 1107
+    commentsToLikes: 0.009319
+    id: cl4ipwlnnsa1u0i23nwgkjc0b
     verified: false
-    hashtags: "#hikewithmike"
-  - username: "chlobellexx"
+    hashtags: "#gymmotivation, #ad, #gymsharkwomen, #gymshark"
+  - username: "rui.gaoo"
     fullname: >-
-      Chloe | Creator
+      rui gao ☆ 高睿
     bio: >-
-      2023 Bride to be 💍 Places to see, what to wear and what to drink! ✈️💃🏼 💌chlobellexx@gmail.com 📍Denver Shop my looks + REVOLVE faves below!
+      pfp by @sheryicoco denver-based chinese creator <3 :･ﾟ★,｡･:* 8teen gender-fluid :) all my socials ↴
     location: "United States"
-    followers: 28263
-    engagement: 229
-    commentsToLikes: 0.099735
-    id: ck5zio1r5g2ik0i14vbdlrxg4
+    followers: 355972
+    engagement: 918
+    commentsToLikes: 0.002725
+    id: ck9wdd106f3pe0j78jo942bvq
     verified: false
-    hashtags: "#falloutfitinspo, #fallfashion, #winteroutfitideas, #winterootd"
-  - username: "raising_up_wild_things"
+    hashtags: "#ad, #fashioninspo, #outfitinspo, #explore"
+  - username: "fsupecas21"
     fullname: >-
-      Natalie
+      J.Cam | Colorado Adventures • Mountain Travels • Hiking
     bio: >-
-      🌿 nature + art + books wonder-filled education ✨ family adventures 🏔 I make nature journals for kids👇 📍Denver, CO
+      📍Denver ✨A Teacher sharing my ABC's in life: Adventures 🥾 Bookings 🧳 Curiosities 🌎 Let's connect ⬇️
     location: "United States"
-    followers: 45419
-    engagement: 138
-    commentsToLikes: 0.057499
-    id: ckrqctzxmikua0j23j9i8cne5
+    followers: 28095
+    engagement: 693
+    commentsToLikes: 0.007068
+    id: ck5zyz0ayaryg0i14c07xjbwh
     verified: false
-    hashtags: "#ayearofoutdoors, #homeschoolroots"
-  - username: "sierraalongi"
+    hashtags: "#safeway, #onlyinalaska, #wheretofindme, #allaboutadventures"
+  - username: "rudeunicorns"
     fullname: >-
-      Sierra Alongi
+      Sarah Whittle
     bio: >-
-      Denver, CO 🍃 florida born & tried LA once content creator • skater • having fun ✉️sierramalongi@gmail.com
+      I probably cuss too much 🇰🇷🇺🇸 Cat Mom • Maximalist DIYer • Social Media pro in Denver
     location: "United States"
-    followers: 21890
-    engagement: 90
-    commentsToLikes: 0.012068
-    id: ckap5nr4sch9n0i78vqqqk3ny
+    followers: 179617
+    engagement: 1146
+    commentsToLikes: 0.007833
+    id: ck55pm3drauu00i11rb0sagtz
     verified: false
-    hashtags: "#newyear, #mythirdlove, #learningtosnowboard, #tradewindscarmel"
-  - username: "ami.redd"
+    hashtags: "#tryon, #ootd, #maximalist, #fashion"
+  - username: "llexay_"
     fullname: >-
-      ☆AMI REDD☆
+      lexie lane
     bio: >-
-      denver -> ocean springs
+      denver, co / san diego, ca travel RN ☻ @film.with.lex 💌 lexie.e.lane@gmail.com
     location: "United States"
-    followers: 2622
-    engagement: 2758
-    commentsToLikes: 0.171890
-    id: ck6ua4fsy1fay0j71131dq90p
+    followers: 5398
+    engagement: 2085
+    commentsToLikes: 0.111302
+    id: cljx9itx7719y0j08slchmowu
     verified: false
-    hashtags: "#girlswhoride, #vos2020, #2020, #hoco2k19"
-  - username: "supdaily"
+    hashtags: ""
+  - username: "golden_huck_fin"
     fullname: >-
-      Chris Thompson
+      Finley
     bio: >-
-      🐶 #DogDad 💪 #Motivator 🎵 1+ million on Tiktok 📧 supdaily@thesocialstrategy.us PO Box - 1766 West 46th Ave. #11284 Denver, CO 80211
+      💛 Stealing hearts & socks since 2016 🧦 🌎 Los Angeles >> Denver📍 🐾 Golden Retriever
     location: "United States"
-    followers: 98223
-    engagement: 669
-    commentsToLikes: 0.033318
-    id: ck14koscwqk5a0i19qfzwgj6f
+    followers: 184463
+    engagement: 1587
+    commentsToLikes: 0.010313
+    id: ck5caghfqddaa0i11wxvah2uk
     verified: true
-    hashtags: "#coloradohikes, #denverinfluencer, #selfcare, #motivation"
-  - username: "un.rooted"
-    fullname: >-
-      Emily Grangaard
-    bio: >-
-      Dimensional Color | Education Airtouch Curly Hair 🔺 Client list Closed Denver CO 🌱 @secondnaturedenver
-    location: "United States"
-    followers: 17500
-    engagement: 482
-    commentsToLikes: 0.057703
-    id: ck9wdp613gmko0j78ayr9a2it
-    verified: false
-    hashtags: "#dimensionalbalayage, #curlyhaircut, #k18hair, #denverbrunette"
+    hashtags: "#derp, #mondaymotivation, #mondaymood, #lifespreciousmoments"
 ---

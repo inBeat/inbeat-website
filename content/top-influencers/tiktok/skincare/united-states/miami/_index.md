@@ -1,11 +1,11 @@
 ---
-title: Top 10 Skincare TikTok Influencers In Miami In 2023
+title: Top 10 Skincare TikTok Influencers In Miami In 2024
 description: >-
-  Find top skincare TikTok influencers in Miami in 2023. Most popular hashtags: #fyp #miami #skincare #foryou.
+  Find top skincare TikTok influencers in Miami in 2024. Most popular hashtags: #fyp #skincare #miami #foryou.
 platform: TikTok
-hits: 50
-text_top: Identify the top-rated TikTok influencers on inBeat.
-text_bottom: inBeat holds 50 TikTok influencers like this in Miami, United States for you to work with.
+hits: 49
+text_top: See the best TikTok accounts on inBeat.
+text_bottom: Our platform has 49 TikTok influencers like this in Miami, United States for you to connect with.
 profiles:
   - username: "natalie.banilbo"
     fullname: >-
@@ -43,18 +43,6 @@ profiles:
     id: ck8ae865aaoqd0j780s36txqq
     verified: false
     hashtags: "#ad, #no7usa, #skincare, #retinol"
-  - username: "jonintriago"
-    fullname: >-
-      jonintriago
-    bio: >-
-      📍NYC IG / Venmo: @Jonintriago Collab: Jonathan@famepick.com OF 😋👇🏼
-    location: "United States"
-    followers: 356800
-    engagement: 1124
-    commentsToLikes: 0.012732
-    id: ckbw8agbvz5zn0j234irzfhzs
-    verified: false
-    hashtags: "#dance, #gay, #foryou, #bisexual"
   - username: "sophierosejm"
     fullname: >-
       sophie ✨
@@ -66,19 +54,7 @@ profiles:
     commentsToLikes: 0.009533
     id: ck8z4m3feebuv0j78finxtkj5
     verified: false
-    hashtags: "#morningroutine, #socal, #fyp, #preppy"
-  - username: "andrearuedalive"
-    fullname: >-
-      Andrea Rueda
-    bio: >-
-      🇨🇴 CFO of the CEO 📧Justandrearueda@gmail.com
-    location: "United States"
-    followers: 189300
-    engagement: 1192
-    commentsToLikes: 0.072463
-    id: ck9fhx2zu81np0j78hrgpdpo6
-    verified: false
-    hashtags: "#parati, #fyp, #beautytips, #latinotok"
+    hashtags: "#productive, #socal, #grwm, #fyp"
   - username: "caitlynisabella"
     fullname: >-
       caitlyn isabella
@@ -103,18 +79,6 @@ profiles:
     id: ckc7ujbxeyd4z0j23zrlnxoo2
     verified: false
     hashtags: "#fyp, #girls, #foryou, #transformation"
-  - username: "sarahgrant95"
-    fullname: >-
-      Sarah Grant
-    bio: >-
-      Author of Soul Beauty 💕 Love your yourself and body in 30 days program
-    location: "United States"
-    followers: 114200
-    engagement: 605
-    commentsToLikes: 0.028376
-    id: ckbku4pe1p6sk0j234janw8o8
-    verified: false
-    hashtags: "#yummy, #weightloss, #plantbased, #beauty"
   - username: "linorbennaim"
     fullname: >-
       linorbennaim
@@ -127,4 +91,40 @@ profiles:
     id: ckcutdfjskgad0j23y6y1dv6x
     verified: false
     hashtags: "#tvd, #tvdedits, #fy, #readysetgo"
+  - username: "savantress"
+    fullname: >-
+      Lit Wikipedia
+    bio: >-
+      
+    location: "United States"
+    followers: 6175
+    engagement: 401
+    commentsToLikes: 0.070498
+    id: ckb9if6kr8usf0j239wppk3k5
+    verified: false
+    hashtags: "#catsoftiktok, #transitions, #gamestop, #wallstreetbets"
+  - username: "ameenhalee"
+    fullname: >-
+      Ameenha💜
+    bio: >-
+      Pop culture queen Ameenhaleeproject@gmail.com Daily content on IG stories✨
+    location: "United States"
+    followers: 120600
+    engagement: 1999
+    commentsToLikes: 0.051654
+    id: ck8knhmwtd8gi0j78d9zprofo
+    verified: false
+    hashtags: "#entertainmentnews, #news, #jadenhossler, #ameenhalee"
+  - username: "chloecbanos"
+    fullname: >-
+      chloë c. baños 
+    bio: >-
+      ceo of singing miami, fl $chloecbanos
+    location: "United States"
+    followers: 527700
+    engagement: 1548
+    commentsToLikes: 0.018597
+    id: ck9aeyncw4e0j0j785cwh7csw
+    verified: false
+    hashtags: "#voiceeffects, #cute, #trend, #singing"
 ---

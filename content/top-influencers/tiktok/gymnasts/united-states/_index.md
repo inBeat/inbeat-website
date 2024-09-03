@@ -1,11 +1,11 @@
 ---
-title: Top 10 Gymnasts TikTok Influencers In United States In 2023
+title: Top 10 Gymnasts TikTok Influencers In United States In 2024
 description: >-
-  Find top gymnasts TikTok influencers in United States in 2023. Most popular hashtags: #fyp #gymnastics #foryou #gymnast.
+  Find top gymnasts TikTok influencers in United States in 2024. Most popular hashtags: #fyp #gymnastics #foryou #greenscreen.
 platform: TikTok
-hits: 482
+hits: 480
 text_top: See the most popular TikTok profiles on inBeat.
-text_bottom: Our database has 482 TikTok influencers like this in United States for you to collaborate.
+text_bottom: Our platform aggregates 480 TikTok influencers like this in United States for you to connect with.
 profiles:
   - username: "parkerrylan"
     fullname: >-
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.138682
     id: ck90txtgzuceh0j782un6t8a6
     verified: false
-    hashtags: "#girlsnightout, #gymnastics, #fitmom, #storytime"
+    hashtags: "#storytime, #coach, #wisconsin, #girlsnightout"
   - username: "emilee.fitz"
     fullname: >-
       Emilee Fitzwater

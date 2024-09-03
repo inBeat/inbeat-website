@@ -1,11 +1,11 @@
 ---
-title: Top 10 Cosmetics TikTok Influencers In Canada In 2023
+title: Top 10 Cosmetics TikTok Influencers In Canada In 2024
 description: >-
-  Find top cosmetics TikTok influencers in Canada in 2023. Most popular hashtags: #makeup #fyp #cosmetics #tiktok.
+  Find top cosmetics TikTok influencers in Canada in 2024. Most popular hashtags: #makeup #fyp #cosmetics #smallbusiness.
 platform: TikTok
-hits: 17
-text_top: See the top-rated TikTok influencers on inBeat.
-text_bottom: Our database aggregates 17 TikTok influencers like this in Canada for you to contact.
+hits: 18
+text_top: Discover the best TikTok profiles on inBeat.
+text_bottom: Our database holds 18 TikTok influencers like this in Canada for you to collaborate.
 profiles:
   - username: "joycetse"
     fullname: >-
@@ -73,12 +73,12 @@ profiles:
     bio: >-
       IG: itsnakitaa
     location: "Canada"
-    followers: 7398
-    engagement: 714
-    commentsToLikes: 0.035318
+    followers: 7304
+    engagement: 653
+    commentsToLikes: 0.031735
     id: ckd0a9827bv6f0j2372roev9o
     verified: false
-    hashtags: "#canadiantiktoker, #cosmetics, #fyp, #makeuphacks"
+    hashtags: "#makeuphacks, #canada, #canadiantiktoker, #puppy"
   - username: "sarina.srj"
     fullname: >-
       Sarina Sroujian
@@ -90,7 +90,19 @@ profiles:
     commentsToLikes: 0.036417
     id: ck9dx9akjsciz0j7814mrflao
     verified: false
-    hashtags: "#mua, #foryou, #montreal, #beauty"
+    hashtags: "#fyp, #tiktok, #makeup, #mua"
+  - username: "eyahloo"
+    fullname: >-
+      EvelynA
+    bio: >-
+      Eyah Nails USE CODE TIKTOK FOR $$ OFF
+    location: "Canada"
+    followers: 11000
+    engagement: 1220
+    commentsToLikes: 0.034044
+    id: ck94l4s6fxthq0j78ehmaj9n7
+    verified: false
+    hashtags: "#friendlyfuture, #pressonnailstutorial, #highquality, #tiktokggt"
   - username: "ryandubs"
     fullname: >-
       Ryan Dubs
@@ -115,16 +127,4 @@ profiles:
     id: ckbfga5vibbhy0j23upeuugfc
     verified: false
     hashtags: "#haha, #alberta, #stitch, #wtf"
-  - username: "alyxtodyruk"
-    fullname: >-
-      Alyx Todyruk
-    bio: >-
-      21 Canadian🇨🇦 Beauty, Hauls and Lifestyle😋 Insta: alyxtodyruk
-    location: "Canada"
-    followers: 15100
-    engagement: 920
-    commentsToLikes: 0.016484
-    id: ck83zdsb0zund0j78j2xyk6ce
-    verified: false
-    hashtags: "#musttry, #makeup, #shein, #reallygood"
 ---

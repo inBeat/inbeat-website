@@ -1,48 +1,36 @@
 ---
-title: Top 10 Home Decor Instagram Influencers In Indonesia In 2023
+title: Top 10 Home Decor Instagram Influencers In Indonesia In 2024
 description: >-
-  Find top home decor Instagram influencers in Indonesia in 2023. Most popular hashtags: #homedecorloversid #homedecor #rumahminimalis #inspirasirumah.
+  Find top home decor Instagram influencers in Indonesia in 2024. Most popular hashtags: #homedecor #rumahminimalis #homedecorloversid #dapurminimalis.
 platform: Instagram
-hits: 94
-text_top: Analyze the top-rated Instagram influencers on inBeat.
-text_bottom: Our platform aggregates 94 Instagram influencers like this in Indonesia for you to connect with.
+hits: 95
+text_top: Discover the best Instagram influencers on inBeat.
+text_bottom: Our platform holds 95 Instagram influencers like this in Indonesia for you to pitch.
 profiles:
-  - username: "aprilliawardah91"
+  - username: "devvyherawati"
     fullname: >-
-      Aprillia Wardah
+      Devvy Herawati
     bio: >-
-      🏡Pastel Home 📷Home Decor Tipe 30/ 66 m2 📋Homedecorfamily_Bogor 📳DM/WA 089601106729 for Endorsment/PP 📹 YouTube Channel 👇
+      🏡 Homedecor #rumahnadhifara #rumahnadhifara2 Endorse ➡️ DM 🎥 T&T DAAI TV eps. 116, IDEA Rumah ⬇️Link Belanja⬇️
     location: "Indonesia"
-    followers: 42275
-    engagement: 142
-    commentsToLikes: 0.038272
-    id: ck9we60adiref0j78e6fffopy
+    followers: 11226
+    engagement: 217
+    commentsToLikes: 0.169601
+    id: ck9we5x3liqy20j78pr72lsy3
     verified: false
-    hashtags: "#homedecorloversfamilybogor, #homedecor, #homedecorloversid, #homesweethome"
-  - username: "nikenuniverse"
+    hashtags: "#diningroom, #inspirasirumahidaman, #ruangmakan, #rumahminimalis"
+  - username: "adeirma.lov"
     fullname: >-
-      A universe of home & garden
+      Ade Irma Oktaviani
     bio: >-
-      Hi I’m Niken, an #autoimmunewarrior. Being one motivates me to create a #healingspace thru #homedecor & garden, and it’s a #budgetfriendly one!😃
+      ✨ Masya Allah Tabarakallah ✨ Lifestyle || Homedecor || Review || Cooking 📍 Sidoarjo 🤝 Endorsement by DM 🔗 Link Di Bio Klik 👇
     location: "Indonesia"
-    followers: 26947
-    engagement: 354
-    commentsToLikes: 0.179382
-    id: ckap7oit1kvl20i786kcxiiaa
+    followers: 47794
+    engagement: 95
+    commentsToLikes: 0.167968
+    id: ck55ocq1u83w30i116906b5oc
     verified: false
-    hashtags: "#kamar, #smallgarden, #bedroomdecor, #inspirasirumah"
-  - username: "taruna_home"
-    fullname: >-
-      🏠 Klasik  Modern Sederhana 🏡
-    bio: >-
-      Mira Taruna • Brand Ambassador : @kintakun_collections • Member homedecorloversfamily Jakarta • Endorse or PP : DM 💌
-    location: "Indonesia"
-    followers: 135684
-    engagement: 75
-    commentsToLikes: 0.080854
-    id: ck55ocq1683vl0i110h301hhq
-    verified: false
-    hashtags: "#bedroomdecorideas, #homedesigns, #livingroomdecor, #spreidoubleelastic"
+    hashtags: "#shopeehaulid, #rakdapur, #racunshopee, #shopeehaul"
   - username: "dina_rafasya"
     fullname: >-
       Inspirasi Rumah Mungil
@@ -55,30 +43,6 @@ profiles:
     id: ck55ocnjj83t30i11zd6q6x6c
     verified: false
     hashtags: "#pojokfavorit, #rumahcantik, #bedroomideas, #dapurcantik"
-  - username: "nurrin_nurrinawati"
-    fullname: >-
-      ɴᴜʀʀɪɴᴀᴡᴀᴛɪ
-    bio: >-
-      🏡 member of homedecor bandung 🎍 member of upload diy bandung
-    location: "Indonesia"
-    followers: 9531
-    engagement: 341
-    commentsToLikes: 0.311897
-    id: ck8t5048e8eqc0j78a1roxgpt
-    verified: false
-    hashtags: "#inspirasirumah, #pojokfavorit, #dekorasirumah, #instadecor"
-  - username: "devvyherawati"
-    fullname: >-
-      Devvy Herawati
-    bio: >-
-      🏡 Homedecor #rumahnadhifara #rumahnadhifara2 🍰 owner @dapurdivacakes 🎥 DAAI TV eps. 116, IDEA Rumah
-    location: "Indonesia"
-    followers: 7180
-    engagement: 350
-    commentsToLikes: 0.304845
-    id: ck9we5x3liqy20j78pr72lsy3
-    verified: false
-    hashtags: "#diningroomdecor, #ruangmakancantik, #kitchendesign, #homedecorloversfamilybekasi"
   - username: "so_sweety966"
     fullname: >-
       rumah raqila
@@ -103,18 +67,6 @@ profiles:
     id: ck8t501dg8eh90j78ivdbh0at
     verified: false
     hashtags: "#gamirrorreflectiondecoration, #giveaway, #homedecorloversid, #endorse"
-  - username: "rumah_aila"
-    fullname: >-
-      itsmeera
-    bio: >-
-      For sharing and inspiring #homedecorloversfamilybogor 💕🏡 Owner @originmirakitchen Personal blog @mira_dira79 Endorse 👉DM
-    location: "Indonesia"
-    followers: 35617
-    engagement: 185
-    commentsToLikes: 0.266188
-    id: ck8t5055x8esu0j78w9u1401f
-    verified: false
-    hashtags: "#dekorasidapur, #homeideas, #galantaipilihanku, #gaborrowedlight"
   - username: "rumahmungiltiara"
     fullname: >-
       Tiara
@@ -127,4 +79,52 @@ profiles:
     id: ckap45hgs5xgu0i78nq0qd03z
     verified: false
     hashtags: "#inspirasirumahidaman, #banjarmasin, #rumahkusurgaku, #homedecorloversid"
+  - username: "ngulikrumah"
+    fullname: >-
+      minimalis modern DIY lifehack
+    bio: >-
+      Follow @homedecor.official
+    location: "Indonesia"
+    followers: 52264
+    engagement: 15
+    commentsToLikes: 0.010290
+    id: ck8t70i4mf8vh0j78ectk38nr
+    verified: false
+    hashtags: "#dapurmungil, #ruangtamu, #rumahmodern, #dekorruangtamu"
+  - username: "lipupil"
+    fullname: >-
+      Noviana Safitri
+    bio: >-
+      Scorpio—INTJ-A Commercial Talent & Digital Creator @dimsumhiro @baramkoreanbbq @si.pemanis @otaru.backyard Job inquiries, email me below.
+    location: "Indonesia"
+    followers: 48115
+    engagement: 406
+    commentsToLikes: 0.015579
+    id: ck15q1e0a0mvb0i19kmz1zsty
+    verified: false
+    hashtags: "#menabungcerdas, #homedecor, #nabung, #interiordesign"
+  - username: "williamkellye"
+    fullname: >-
+      William Kelly Effendy
+    bio: >-
+      📍Dubai 🇦🇪, United Arab Emirates 42 countries, ITB 08, Indonesian
+    location: "Indonesia"
+    followers: 6203
+    engagement: 367
+    commentsToLikes: 0.069774
+    id: ck0vz3a3k72ql0i19ru23m12d
+    verified: false
+    hashtags: "#rumahindustrial, #ikeaindonesia, #scandinavian, #inspirasirumah"
+  - username: "syrfh.ulfa"
+    fullname: >-
+      Syarifah Ulfa S.Pd👑
+    bio: >-
+      ✨Bareng @momuung.id Menyusui Jadi Mudah & Happy ✨CP ADMIN: 0813-7974-8173 ✨tiktok: @/syarifah.ulfa 400K+
+    location: "Indonesia"
+    followers: 154011
+    engagement: 196
+    commentsToLikes: 0.020711
+    id: ck9whx38xzvhn0j782rh2oh4a
+    verified: false
+    hashtags: "#review, #reels, #outfit, #thaicuisinemedan"
 ---

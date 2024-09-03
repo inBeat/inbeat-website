@@ -1,11 +1,11 @@
 ---
-title: Top 10 Comedians TikTok Influencers In Turkey In 2023
+title: Top 10 Comedians TikTok Influencers In Turkey In 2024
 description: >-
-  Find top comedians TikTok influencers in Turkey in 2023. Most popular hashtags: #tiktok #foryou #fyp #ke.
+  Find top comedians TikTok influencers in Turkey in 2024. Most popular hashtags: #tiktok #foryou #fyp #ke.
 platform: TikTok
 hits: 16
-text_top: Discover the most popular TikTok influencers on inBeat.
-text_bottom: Our search engine holds 16 TikTok influencers like this in Turkey for you to pitch.
+text_top: See the best TikTok accounts on inBeat.
+text_bottom: Our platform aggregates 16 TikTok influencers like this in Turkey for you to collaborate.
 profiles:
   - username: "ben_cumi.27"
     fullname: >-
@@ -78,7 +78,7 @@ profiles:
     commentsToLikes: 0.006185
     id: ckav883z8fe7p0j23x33vnd67
     verified: false
-    hashtags: "#reggaeton, #reir, #latinasbelike, #ni"
+    hashtags: "#tiktokdominicano, #dominicantiktok, #mujeres, #santigo"
   - username: "srsklali"
     fullname: >-
       Sarıı.!!

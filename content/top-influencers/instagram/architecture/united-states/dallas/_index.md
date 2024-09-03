@@ -1,24 +1,24 @@
 ---
-title: Top 10 Architecture Instagram Influencers In Dallas In 2023
+title: Top 10 Architecture Instagram Influencers In Dallas In 2024
 description: >-
-  Find top architecture Instagram influencers in Dallas in 2023. Most popular hashtags: #architecture #design #dallas #nature.
+  Find top architecture Instagram influencers in Dallas in 2024. Most popular hashtags: #architecture #dallas #design #texas.
 platform: Instagram
-hits: 36
-text_top: Analyze the top-rated Instagram influencers on inBeat.
-text_bottom: inBeat holds 36 Instagram influencers like this in Dallas, United States for you to contact.
+hits: 42
+text_top: Identify the best Instagram profiles on inBeat.
+text_bottom: Our database aggregates 42 Instagram influencers like this in Dallas, United States for you to collaborate.
 profiles:
   - username: "thepottedboxwood"
     fullname: >-
       The Potted Boxwood
     bio: >-
-      all things timeless, everything chic 🍃 by Christina Dandar #ChicinDallas
+      all things timeless, everything chic 🍃 by Christina Dandar all content is my own unless otherwise noted @influenced.bygrace
     location: "United States"
-    followers: 127402
-    engagement: 177
-    commentsToLikes: 0.019815
+    followers: 183328
+    engagement: 93
+    commentsToLikes: 0.029580
     id: ck14h5cef8m140i19ocedqni0
     verified: false
-    hashtags: "#curbappeal, #home, #chicindallas, #design"
+    hashtags: "#thepottedboxwood, #design, #chicinnyc, #chicindallas"
   - username: "lovesdfw"
     fullname: >-
       Ben Zavala
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.067250
     id: ck0u0j1lftwsy0i19crzvs5ey
     verified: false
-    hashtags: "#interiordesign, #architecture, #shannonbowersdesigns, #milieumagazine"
+    hashtags: "#architecture, #interiordesign, #milieumagazine, #dallasdesigner"
   - username: "stephensillsassociates"
     fullname: >-
       Stephen Sills Associates
@@ -79,18 +79,30 @@ profiles:
     id: ck6tu8c3cevrb0j71kdtyt3d9
     verified: false
     hashtags: "#fffemales, #instagood, #architecture, #vintage"
-  - username: "harinehas"
+  - username: "shmarchitects"
     fullname: >-
-      Srinis_photos📷🌏🌟
+      SHM Architects
     bio: >-
-      Dallas TX- Travel inspirationalist. Exploring landscapes -architecture - culture 📸 shot by me
+      We believe that passion and time lead to beautiful, purposeful designs…and we are hiring! Click the link below to learn more.
     location: "United States"
-    followers: 21551
-    engagement: 773
-    commentsToLikes: 0.013486
-    id: ck15qrf0m4af30i19vqav6pm7
+    followers: 22631
+    engagement: 124
+    commentsToLikes: 0.013368
+    id: ck6ttws5nd0ma0j71xcvkg2hz
     verified: false
-    hashtags: "#nakedplanet, #z6, #travelnoire, #earthfocus"
+    hashtags: "#residentialarchitecture, #universitypark, #design, #customhome"
+  - username: "tasheatsmore"
+    fullname: >-
+      Tash Eats More
+    bio: >-
+      📍Dallas ↔️ D.C. Food is the ingredient that binds us together #commUnity 🙋🏽‍♀️ @tasheatsmore previously @dallaseatmore 🇺🇸 @d.c.eatmore
+    location: "United States"
+    followers: 52091
+    engagement: 63
+    commentsToLikes: 0.116511
+    id: clgcjp4l4ka9q0j08tubcmntq
+    verified: false
+    hashtags: "#foodgram, #dallaseats, #dallaseatmore, #foodie"
   - username: "jaguarcontainers"
     fullname: >-
       Jaguar Containers
@@ -115,16 +127,4 @@ profiles:
     id: ck0tznhcvr0z20i19rx7g0ac7
     verified: false
     hashtags: "#texas, #nightphotography, #visualambassadors, #funkytown"
-  - username: "marcosal85"
-    fullname: >-
-      Marco
-    bio: >-
-      •ARCHITECT •MODEL •TRAVELER •CONTENT CREATOR •DALLAS, TX. 📍 For bookings/brand deals: ✉️officialmarcosal85@gmail.com
-    location: "United States"
-    followers: 129488
-    engagement: 408
-    commentsToLikes: 0.024418
-    id: ckaoujcuc0iy50i78ms1a6005
-    verified: false
-    hashtags: "#travel, #newmexico, #hairy, #scruff"
 ---

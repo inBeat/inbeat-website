@@ -1,11 +1,11 @@
 ---
-title: Top 10 Skincare Instagram Influencers In United States In 2023
+title: Top 10 Skincare Instagram Influencers In United States In 2024
 description: >-
-  Find top skincare Instagram influencers in United States in 2023. Most popular hashtags: #skincare #skincareroutine #skincaretips #selfcare.
+  Find top skincare Instagram influencers in United States in 2024. Most popular hashtags: #skincare #skincaretips #skincareroutine #fragrance.
 platform: Instagram
-hits: 4392
-text_top: Identify the top-rated Instagram influencers on inBeat.
-text_bottom: Our database aggregates 4392 Instagram influencers like this in United States for you to work with.
+hits: 5665
+text_top: See the top-rated Instagram profiles on inBeat.
+text_bottom: Our search engine holds 5665 Instagram influencers like this in United States for you to pitch.
 profiles:
   - username: "skincare.loveers"
     fullname: >-
@@ -19,18 +19,66 @@ profiles:
     id: ckf5w5c6pqws90j23oi4xxcde
     verified: false
     hashtags: ""
-  - username: "naturally_madisen"
+  - username: "trulymeganblog"
     fullname: >-
-      Madisen | Beauty + Wellness Blogger
+      Megan Saustad
     bio: >-
-      Helping You Upgrade Your Skincare, Body Care, & Self-Care Routine 🧖🏽‍♀️ Charlotte, NC 📍 📧 naturallymadisen@gmail.com Read My Blog + Shop Links ↴
+      UGC Creator | Fashion | Beauty | Skincare | Over 50 | Dallas, TX Collabs 💌megan@trulymegan.com All Links Here ⬇️
     location: "United States"
-    followers: 33279
-    engagement: 1496
-    commentsToLikes: 0.106471
-    id: ckmw1cpl86d6e0j23cxiqwqe1
+    followers: 35550
+    engagement: 608
+    commentsToLikes: 0.063738
+    id: ck0vzqxedagw20i19kyr2nh6r
     verified: false
-    hashtags: "#hydratedskin, #selfcareblogger, #bodyproducts, #bodycareroutine"
+    hashtags: "#pumiey, #trulymeganstyle, #pumieytees, #styleover40"
+  - username: "beautiliciousc"
+    fullname: >-
+      Champika Budhagoda
+    bio: >-
+      ( Champs ) Beauty, Skincare & Aesthetics UGC Content Creator 📍Austin, TX 🇺🇸 📧 beautiliciousc80@gmail.com
+    location: "United States"
+    followers: 42358
+    engagement: 1073
+    commentsToLikes: 0.073729
+    id: ck0u74p3i3qn90i195xev2zcc
+    verified: false
+    hashtags: "#giftedbyyslbeauty, #yslbeautygiftedme, #beigeaesthetic, #luxebeauty"
+  - username: "geniussrblog"
+    fullname: >-
+      Sabeen Faraz
+    bio: >-
+      Founder @dihconcepts Beauty Lover💄Mom 👨‍👨‍👦 | Entrepreneur Luxury Makeup| Fashion| Skincare| Perfume 📍: Virginia, USA 📧 : geniussr2000@gmail.com
+    location: "United States"
+    followers: 50862
+    engagement: 468
+    commentsToLikes: 0.033347
+    id: ckaozhoiclxns0i781fwvob05
+    verified: false
+    hashtags: "#makeuporganizer, #makeupgeek, #chanelbeauty, #blush"
+  - username: "cristinaviseu"
+    fullname: >-
+      Cristina Viseu • San Francisco
+    bio: >-
+      📍San Francisco 💕 Pretty food + cozy home + luxury skincare 💌 viseu.c@gmail.com
+    location: "United States"
+    followers: 102725
+    engagement: 697
+    commentsToLikes: 0.017095
+    id: ckaorswleolz40i78clw0wbry
+    verified: false
+    hashtags: "#cozyhome, #softaesthetic, #sanfrancisco, #homedecor"
+  - username: "byjessicawong"
+    fullname: >-
+      jessica | fashion + lifestyle
+    bio: >-
+      • fashion, lifestyle, skincare, + beauty • based in San Francisco, CA • byjessicawong@gmail.com
+    location: "United States"
+    followers: 12777
+    engagement: 485
+    commentsToLikes: 0.052449
+    id: ckq0ivf8qddl90j2397axhen5
+    verified: false
+    hashtags: "#outfitinspo, #aritziastyle, #sezanelovers, #outfitinsporation"
   - username: "zarrine_beautyjunkie"
     fullname: >-
       Zarrine | London Beautyjunkie
@@ -42,89 +90,41 @@ profiles:
     commentsToLikes: 0.268348
     id: ck5zm1qadlqtg0i14gakgeiz9
     verified: false
-    hashtags: "#travelvlog, #dermalogicaskincare, #skincarecommunity, #travelgram"
-  - username: "sabrazaraa"
+    hashtags: "#dermalogicaskincare, #travelgram, #skinhealth, #skincarecommunity"
+  - username: "skinandkisses"
     fullname: >-
-      Seattle Lifestyle & Travel | PharmD, MPH, PhC
+      Katrina Soriano
     bio: >-
-      🇹🇳🇺🇸 Healthy lifestyle, skincare, food & travel Pharmacist | Researcher Inspiring YOU to be the best version of yourself 💌 Sabra.zaraa@gmail.com
+      Skincare, beauty and makeup enthusiast Chasing glowing skin 😉✨ soon-to-be 👰🏻 💍 Filipina 🇵🇭 in Los Angeles, CA ⬇️ Links ⬇️
     location: "United States"
-    followers: 77441
-    engagement: 726
-    commentsToLikes: 0.023415
-    id: ck14lbl7wtu3i0i191qq4vdxr
+    followers: 16009
+    engagement: 581
+    commentsToLikes: 0.115398
+    id: cl7lda4fbvjux0i239o97u21u
     verified: false
-    hashtags: "#visittunisia, #seattlewa, #visitdjerba, #skincaretips"
-  - username: "doctorly"
+    hashtags: "#sephorahaul, #skincare, #makeupfavorites, #makeuptrends"
+  - username: "skincare.ninja"
     fullname: >-
-      Dr. Muneeb Shah
+      Kin Wa Wu
     bio: >-
-      📚 | Board Certified Dermatologist 👥 | Married to an OBGYN 🧴 | Shop Skincare & More ⬇️
+      👍🏼 Help you get clear glowy skin! TT(125K+) 🌈 Creator/ Product Expert📍LA 📧 Collab💕skincare.ninjala@gmail.com 🤓 Biochem+Design+Biz grad & US Veteran🇺🇸
     location: "United States"
-    followers: 901741
-    engagement: 412
-    commentsToLikes: 0.019049
-    id: cl3w8yr4iccu10i231ibfhf2k
+    followers: 131369
+    engagement: 552
+    commentsToLikes: 0.038063
+    id: ckr3qy1mk7dl30j23vucfcde9
     verified: false
-    hashtags: "#skincare, #spf, #dermatologist, #ceravepartner"
-  - username: "curlsbydaviana"
+    hashtags: "#glowingskincare, #skincarejunkie, #elemis, #dryskin"
+  - username: "jennerous_eats"
     fullname: >-
-      Daviana | Miami Based Creator
+      jenn back
     bio: >-
-      Afro-Latina 🇨🇴🇩🇴 💌Daviana@cfg.co 🕐TikTok: curlsbydaviana (350k+) 💗Clean Haircare + Body & Skincare
+      🏆2016 food network chopped champion 📧 jennerouseats@gmail.com 🏋️‍♀️ fitness and skincare enthusiast
     location: "United States"
-    followers: 136637
-    engagement: 465
-    commentsToLikes: 0.013146
-    id: cl37w9m1b26f40i23n08cta1v
+    followers: 74110
+    engagement: 1408
+    commentsToLikes: 0.028877
+    id: ck0udcblzipem0i19s9tp714a
     verified: false
-    hashtags: "#hairtutorial, #haircare, #hairgrowthtips, #hair"
-  - username: "afafandmarwa"
-    fullname: >-
-      Afaf&Marwa
-    bio: >-
-      Sisters blogging since 2011 ✨ Fashion • Books • Skincare Baking • Lifestyle • & More ~ • 💌 afafandmarwa@gmail.com
-    location: "United States"
-    followers: 241744
-    engagement: 237
-    commentsToLikes: 0.054937
-    id: ck13c40owyie40i19h0uyp8zh
-    verified: true
-    hashtags: "#travel, #sisters, #ootd, #worldcup"
-  - username: "cassandrabankson"
-    fullname: >-
-      Cassandra Bankson
-    bio: >-
-      Skincare • Self Care • Social Media 🦋 Model with acne sick of being insecure in her skin; now a Medical Esthe who decided to do something about it.
-    location: "United States"
-    followers: 219766
-    engagement: 193
-    commentsToLikes: 0.027525
-    id: cksfnigrao1sf0j23ers3srtv
-    verified: false
-    hashtags: "#theordinary, #skincareroutine, #skincare, #paulaschoice"
-  - username: "dirtyboysgetclean"
-    fullname: >-
-      Matt
-    bio: >-
-      🧴The OG Skincare Spice as seen in @glamourmag @cosmopolitanuk @glamourgermany @voguethailand @vogueindia 💌Matt.Woodcox@yahoo.com
-    location: "United States"
-    followers: 77393
-    engagement: 183
-    commentsToLikes: 0.122502
-    id: ck0udcx0zis0s0i19h37ogd5e
-    verified: false
-    hashtags: "#glowingskin, #glowrecipe, #makeuplover, #kyliecosmetics"
-  - username: "sabrinapazira"
-    fullname: >-
-      SABRINA
-    bio: >-
-      los angeles. lifestyle | fashion | wellness/skincare wearing and sharing things i like
-    location: "United States"
-    followers: 69720
-    engagement: 158
-    commentsToLikes: 0.234701
-    id: ckn9ayh6ymd7o0j2338jp1xn7
-    verified: false
-    hashtags: "#streetwear, #streetstyleinspo, #cozyvibes, #minimalstyle"
+    hashtags: "#nycfoodies, #nycjapanesefood, #taiwan, #foodlover"
 ---

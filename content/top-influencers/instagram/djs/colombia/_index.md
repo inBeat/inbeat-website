@@ -1,11 +1,11 @@
 ---
-title: Top 10 Djs Instagram Influencers In Colombia In 2023
+title: Top 10 Djs Instagram Influencers In Colombia In 2024
 description: >-
-  Find top djs Instagram influencers in Colombia in 2023. Most popular hashtags: #colombia #cali #dj #aleteo.
+  Find top djs Instagram influencers in Colombia in 2024. Most popular hashtags: #colombia #dj #cali #aleteo.
 platform: Instagram
-hits: 25
-text_top: Discover the top-rated Instagram profiles on inBeat.
-text_bottom: inBeat holds 25 Instagram influencers like this in Colombia for you to pitch.
+hits: 26
+text_top: Identify the most popular Instagram influencers on inBeat.
+text_bottom: Our platform aggregates 26 Instagram influencers like this in Colombia for you to work with.
 profiles:
   - username: "djyoyord"
     fullname: >-

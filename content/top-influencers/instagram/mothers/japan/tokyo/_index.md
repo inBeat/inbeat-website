@@ -1,24 +1,12 @@
 ---
-title: Top 10 Mothers Instagram Influencers In Tokyo In 2023
+title: Top 10 Mothers Instagram Influencers In Tokyo In 2024
 description: >-
-  Find top mothers Instagram influencers in Tokyo in 2023. Most popular hashtags: #mother #tokyo #love.
+  Find top mothers Instagram influencers in Tokyo in 2024. Most popular hashtags: #tokyo #mother #love.
 platform: Instagram
 hits: 15
-text_top: Identify the most popular Instagram accounts on inBeat.
-text_bottom: Our search engine aggregates 15 Instagram influencers like this in Tokyo, Japan for you to contact.
+text_top: Analyze the best Instagram accounts on inBeat.
+text_bottom: Our database has 15 Instagram influencers like this in Tokyo, Japan for you to connect with.
 profiles:
-  - username: "reikamarianna"
-    fullname: >-
-      Reika🐥
-    bio: >-
-      子供3人産んでもアラサーでもシングルでも目指せ　🌟#キラキラママ🌟 #美容オタク　#産後ダイエット　#ノーファンデ肌 👩‍💼32歳/モデル/経営/シングルママ/169cm 👶 3 kids/single mother 💪 🌎 bilingual, mixed 🇯🇵🇰🇷 📍Tokyo, Japan
-    location: "Japan"
-    followers: 160434
-    engagement: 361
-    commentsToLikes: 0.019807
-    id: ck5hia7xicg660i11dw587pue
-    verified: false
-    hashtags: "#hermesboots, #zara, #hermesstory, #onsen"
   - username: "marzy_prpr"
     fullname: >-
       MARZY🌏world sunshine
@@ -67,6 +55,18 @@ profiles:
     id: ck6tth14dakiy0j71nrj8pswa
     verified: false
     hashtags: "#mother, #rumi, #drawing, #illustration"
+  - username: "tokyodame"
+    fullname: >-
+      Yoshiko Kris-Webb クリス-ウェブ佳子
+    bio: >-
+      愛犬家。著書:『考える女(ひと)』『TRIP with KIDS #こありっぷ』/ columnist, travel writer, model and mother of two daughters.
+    location: "Japan"
+    followers: 134588
+    engagement: 84
+    commentsToLikes: 0.010074
+    id: ck6tmslaf8gbg0j71w363cwff
+    verified: false
+    hashtags: "#worldcup2022, #myladyninon, #mameshiba, #sponsored"
   - username: "hirao_yumika"
     fullname: >-
       平尾 優美花
@@ -79,18 +79,18 @@ profiles:
     id: ck6tuvorqioqz0j71nm1f5i2m
     verified: true
     hashtags: "#bne, #148cm, #beautyneverends, #gal"
-  - username: "tokyodame"
+  - username: "johnnygweir"
     fullname: >-
-      Yoshiko Kris-Webb クリス-ウェブ佳子
+      JOHNNY WEIR
     bio: >-
-      columnist, interior decorator, radio personality, travel writer, , model and mother of two daughters. 著書:『考える女(ひと)』『TRIP with KIDS #こありっぷ』
+      Two-time Olympic Figure Skater🇺🇸 OLY Analyst & Host🎤 | @nbcolympics @nbcsports USA Host of Eurovision🎶 | @peacock INQUIRY: contact@cohn-torgan.com
     location: "Japan"
-    followers: 137447
-    engagement: 115
-    commentsToLikes: 0.007235
-    id: ck6tmslaf8gbg0j71w363cwff
-    verified: false
-    hashtags: "#obagi, #pomellatobar, #pomellato, #pr"
+    followers: 789413
+    engagement: 144
+    commentsToLikes: 0.020969
+    id: ck135piu62lc50i199dyz6963
+    verified: true
+    hashtags: "#tokyo, #holiday, #figureskating, #friends"
   - username: "mk_kiku"
     fullname: >-
       𝐌𝐀𝐒𝐀𝐘𝐎𝐒𝐇𝐈 𝐊𝐈𝐊𝐔𝐂𝐇𝐈

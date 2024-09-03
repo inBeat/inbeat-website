@@ -1,11 +1,11 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Los Angeles In 2023
+title: Top 10 Yoga Instagram Influencers In Los Angeles In 2024
 description: >-
-  Find top yoga Instagram influencers in Los Angeles in 2023. Most popular hashtags: #yoga #losangeles #fitness #photography.
+  Find top yoga Instagram influencers in Los Angeles in 2024. Most popular hashtags: #yoga #fitness #fitnessmotivation #workout.
 platform: Instagram
-hits: 109
-text_top: Identify the best Instagram accounts on inBeat.
-text_bottom: inBeat holds 109 Instagram influencers like this in Los Angeles, United States for you to contact.
+hits: 131
+text_top: Identify the top-rated Instagram accounts on inBeat.
+text_bottom: Our database holds 131 Instagram influencers like this in Los Angeles, United States for you to work with.
 profiles:
   - username: "ziggylisowski"
     fullname: >-
@@ -42,19 +42,19 @@ profiles:
     commentsToLikes: 0.017747
     id: ck8syxi5umebu0j78sd1u37ir
     verified: false
-    hashtags: "#dancersofinstagram, #choreographer, #choreography, #dance"
-  - username: "natalie_aley"
+    hashtags: "#choreographer, #choreography, #dancersofinstagram, #dance"
+  - username: "fitbeautytips"
     fullname: >-
-      natalie_aley
+      Health | Fitness | Beauty   ᭲
     bio: >-
-      🏡 Los Angeles 🎹 #music 🤸🏼‍♂️ #yoga 🥗 #plantpoweredliving ✈️ #travel
+      💖 | Healthtips💊Beautytips💄 ♻️ | DM For Removal / Credits 📧 | business enquiry - voguenyog@gmail.com
     location: "United States"
-    followers: 168965
-    engagement: 89
-    commentsToLikes: 0.043056
-    id: ck55m16ds2xw70i11thewkwy2
+    followers: 337072
+    engagement: 27
+    commentsToLikes: 0.041031
+    id: ckaotbp23v7cg0i78xtbtorlc
     verified: false
-    hashtags: "#wellnessjourney, #losangelesblogger, #yogainspiration, #yoga"
+    hashtags: "#makeup, #america, #facts, #follow"
   - username: "fanya.qa"
     fullname: >-
       F🔺NY🔺
@@ -67,6 +67,18 @@ profiles:
     id: ck9wdu2uah9pr0j78e0pma7do
     verified: false
     hashtags: "#fit, #igfit, #yogalove, #fitnessmotivation"
+  - username: "gersonperson"
+    fullname: >-
+      l e i g h g e r s o n
+    bio: >-
+      ☺︎︎ a little to the left ☺︎︎ a bunch of training/movement certifications ☺︎︎ writer, freelance hairstylist, wannabe food blogger
+    location: "United States"
+    followers: 7906
+    engagement: 372
+    commentsToLikes: 0.038289
+    id: ck5cgefgpoohc0i11gn8358y5
+    verified: false
+    hashtags: "#performgood, #health, #gpperformance, #gersonperson"
   - username: "leoramadelain"
     fullname: >-
       Leora Madelain
@@ -91,40 +103,28 @@ profiles:
     id: ck0ttrni640xw0i19bkq2odxj
     verified: false
     hashtags: "#underwaterfashion, #hollywood, #retro, #flamingo"
-  - username: "missgladieva"
+  - username: "fitwithmarilyn"
     fullname: >-
-      KitKat | Professional Dancer
+      Marilyn Rodriguez 🇩🇴
     bio: >-
-      🇨🇦|🇧🇬 😄| Katerina 📌| Montreal 😎| ENFJ • Ars longa, vita brevis.
+      ♡ Psalm 73:26 ✞ ♡ @Sweat Trainer |📍L.A ♡ I just want you to feel good about yourself🦋 Train with me! 7 day free trial ⇣
     location: "United States"
-    followers: 3378
-    engagement: 858
-    commentsToLikes: 0.090159
-    id: ckaorruz2ogtr0i788od3l8oo
+    followers: 17654
+    engagement: 498
+    commentsToLikes: 0.056773
+    id: ck8t2c725yxgm0j783709a9ms
     verified: false
-    hashtags: "#afrobeat, #montreal, #organic, #beauty"
-  - username: "trauma.informed.yoga"
+    hashtags: "#selfcare, #gymworkouts, #thursdaymotivation, #mondaymotivation"
+  - username: "ketoweightlosscomplex"
     fullname: >-
-      Laura Mohai, teacher, advocate
+      Ketogentic/weightloss
     bio: >-
-      ✨ New account! ✨ For survivors, students & teachers of yoga ✨ Discussions on trauma, healing, yoga and justice ✨ Los Angeles
+      Turn your fats into fuel while eating the food you love. Get started today link in bio..
     location: "United States"
-    followers: 12856
-    engagement: 1585
-    commentsToLikes: 0.057845
-    id: ckapbb8pbz9ju0i781p6rsagn
+    followers: 609934
+    engagement: 76
+    commentsToLikes: 0.007829
+    id: ck8t76nnmfr6m0j78ivoaw5p9
     verified: false
-    hashtags: "#aspd"
-  - username: "909_jc"
-    fullname: >-
-      Joel Cullinane
-    bio: >-
-      Fitness - BPI Sports Ambassador 📑 Lawyer BPI 20% discount code: JOELC 🔗 http://bit.ly/JoelBPI Your ATTITUDE determines your ALTITUDE!
-    location: "United States"
-    followers: 2859
-    engagement: 1719
-    commentsToLikes: 0.052782
-    id: ck0w48qsaxcpy0i191dnjj8sj
-    verified: false
-    hashtags: "#australia, #fitness, #smile, #travel"
+    hashtags: "#fitspo, #summer, #workoutmotivation, #cardio"
 ---

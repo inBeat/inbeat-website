@@ -1,48 +1,24 @@
 ---
-title: Top 10 Makeup Instagram Influencers In Dallas In 2023
+title: Top 10 Makeup Instagram Influencers In Dallas In 2024
 description: >-
-  Find top makeup Instagram influencers in Dallas in 2023. Most popular hashtags: #makeup #explore #ootd #fashion.
+  Find top makeup Instagram influencers in Dallas in 2024. Most popular hashtags: #makeup #dallas #texas #beauty.
 platform: Instagram
-hits: 145
-text_top: See the top-rated Instagram influencers on inBeat.
-text_bottom: Our search engine aggregates 145 Instagram influencers like this in Dallas, United States for you to contact.
+hits: 180
+text_top: See the most popular Instagram influencers on inBeat.
+text_bottom: Our search engine has 180 Instagram influencers like this in Dallas, United States for you to work with.
 profiles:
-  - username: "iamkattalyna"
+  - username: "its.stephj"
     fullname: >-
-      Kattalyna Santana 🧿✨
+      Stephany J | Dallas Beauty + Lifestyle
     bio: >-
-      TX 📍/ 🇨🇴🇸🇻🏳️‍⚧️/ MUA 💄/ Lash Tech / Model • Email for Promo / Collabs • Follow My Makeup Page 🌸 @muakatta
+      🇭🇹 beauty • lifestyle • ugc • dallas adventures 💌 thestephanyjean@gmail.com 📍Dallas, TX
     location: "United States"
-    followers: 19513
-    engagement: 320
-    commentsToLikes: 0.067894
-    id: ck9haj9aocq3c0j78sc6mi3zd
+    followers: 8310
+    engagement: 153
+    commentsToLikes: 0.063212
+    id: cllq9oylixt130j08gy7caww5
     verified: false
-    hashtags: "#transgendermodelswanted, #transgirl, #translatinamodel, #prettytranswoman"
-  - username: "mimii__a"
-    fullname: >-
-      Michelle
-    bio: >-
-      Houston,Texas
-    location: "United States"
-    followers: 3262
-    engagement: 3234
-    commentsToLikes: 0.217099
-    id: ckap5x2q0dj2d0i78sps5hxn6
-    verified: false
-    hashtags: "#houston, #prettylittlething, #pltstyle, #houstonmodels"
-  - username: "thecheydawn"
-    fullname: >-
-      Chey Dawn
-    bio: >-
-      • Full time model, photographer & social media specialist • • Co-owner of @lunadawncreative 💘 • • BLM 🖤 North TX & sometimes CO/CA🌈 •
-    location: "United States"
-    followers: 11374
-    engagement: 507
-    commentsToLikes: 0.198821
-    id: ck5qdqa7rwt3e0i11bltc53rf
-    verified: false
-    hashtags: "#wigs, #photooftheday, #model, #longhair"
+    hashtags: "#selfcare, #ugccreator, #skincare, #wellnesslifestyle"
   - username: "skybeadsonline"
     fullname: >-
       Sky Beads
@@ -55,6 +31,66 @@ profiles:
     id: ckaoqtofgkc870i78mi06hm8o
     verified: false
     hashtags: "#ombrenails, #cutenails, #nailfie, #acrylicnails"
+  - username: "isabella_radovan"
+    fullname: >-
+      Isabella Radovan
+    bio: >-
+      • Owner: @shopsayge • Sports Reporter 🎥 • 1st runner up Miss Texas USA • 1 Peter 5:7 • Texas A&M Alum
+    location: "United States"
+    followers: 6984
+    engagement: 1058
+    commentsToLikes: 0.106733
+    id: ck5zsbcf2y6el0i143za2i7a8
+    verified: false
+    hashtags: "#womensfashion, #clothing, #photoshoot, #fashionstyle"
+  - username: "monroelapaislie"
+    fullname: >-
+      Dallas Makeup Artist
+    bio: >-
+      📍Dallas, Tx GLAM Studio: @monroelapaisliestudio Link below for booking! 🚨NO DMS🚨
+    location: "United States"
+    followers: 27742
+    engagement: 303
+    commentsToLikes: 0.033740
+    id: ckv23d1f7wfvd0j23xwxo56nu
+    verified: false
+    hashtags: "#photography, #dallasmakeupartist, #hairandmakeup, #model"
+  - username: "soybonitakaren"
+    fullname: >-
+      𝗔𝗞★
+    bio: >-
+      🪄👩🏻 @fashionnova @unodocejewelry
+    location: "United States"
+    followers: 144940
+    engagement: 124
+    commentsToLikes: 0.024938
+    id: ckq6azqmti1x30j23drgt0ht6
+    verified: false
+    hashtags: "#latinas, #makeup, #makeuptutorial, #dallas"
+  - username: "carmenvanelly"
+    fullname: >-
+      
+    bio: >-
+      To buy my published feature click on the link 🤍
+    location: "United States"
+    followers: 9796
+    engagement: 131
+    commentsToLikes: 0.006617
+    id: ckmw1a63i5gvt0j23m35vd1av
+    verified: false
+    hashtags: "#dallas, #dallasphotographers, #studiophotography, #modelswanted"
+  - username: "thileni.onair"
+    fullname: >-
+      𝐓 𝐇 𝐈 𝐋 𝐄 𝐍 𝐈  ♞  ذيلني
+    bio: >-
+      ‎ A blessed daughter ♛ 𝐄𝐦𝐢𝐫𝐚𝐭𝐞𝐬 ✈️ | 🇱🇰🇦🇪 06 continents🧳 70+countries 👣 DM for collabs Hardly seen but always noticed✨@frills_by_thileni 🎬 YouTube↘️
+    location: "United States"
+    followers: 18223
+    engagement: 202
+    commentsToLikes: 0.034402
+    id: ck13cd9wezsf80i19aqqsnty9
+    verified: false
+    hashtags: "#covidbride, #flybetter, #osariya, #instagood"
   - username: "therealrockwell"
     fullname: >-
       Miss Rockwell DeVil
@@ -78,7 +114,7 @@ profiles:
     commentsToLikes: 0.016203
     id: ck0vwcydet4zc0i19j7vc8kl9
     verified: false
-    hashtags: "#ootdinspiration, #outfitoftheday, #explore, #dresses"
+    hashtags: "#rodeofashion, #boots, #rodeo, #explore"
   - username: "fatimathemua"
     fullname: >-
       Voted DFW Best MUA 2020
@@ -90,41 +126,5 @@ profiles:
     commentsToLikes: 0.040685
     id: ck6u7tab1njfo0j713y4h6dh0
     verified: false
-    hashtags: "#contour, #protectivestyles, #atlmua, #makeuppage"
-  - username: "mya.curvz"
-    fullname: >-
-      𝑀𝓎𝑒𝓈𝒽𝒶 𝐵𝑜𝓊𝓁𝓉𝑜𝓃
-    bio: >-
-      Chicago ✈️ Dallas 📍 •Brand Ambassador •MY ONLY BACKUP ACCOUNT @mya.curvz.official
-    location: "United States"
-    followers: 849653
-    engagement: 324
-    commentsToLikes: 0.028128
-    id: ck9hd19y3nqpk0j78403mr4fn
-    verified: false
-    hashtags: "#picoftheday, #instagram, #hair, #nails"
-  - username: "victoriavixx"
-    fullname: >-
-      Victoria 💄
-    bio: >-
-      Dallas Texas @singletontattoo 📍 @novalbernal 👧🏻 @ezrabernal 👶🏻 @ejaytattoo 🙏🏼✝️
-    location: "United States"
-    followers: 5890
-    engagement: 777
-    commentsToLikes: 0.069591
-    id: ck8t7duv8gfyl0j78btstqim1
-    verified: false
-    hashtags: "#momlife, #makeup, #nyxcosmetics, #valentinesday"
-  - username: "theplasticnp"
-    fullname: >-
-      Jen Pilotte, APRN
-    bio: >-
-      Nurse Practitioner at LAPSC America’s Top 💯 Injector 📱TEXT ‘book’ to 214-571-7089 & follow prompts 📆BOOKING April/May 2021
-    location: "United States"
-    followers: 52202
-    engagement: 88
-    commentsToLikes: 0.064058
-    id: ck5q52uitr5mo0i118g52dmmw
-    verified: false
-    hashtags: "#skincare, #liquidnosejob, #antiaging, #skin"
+    hashtags: "#straightbacks, #houstonmua, #blackownedbusiness, #dfwmua"
 ---

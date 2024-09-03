@@ -1,24 +1,24 @@
 ---
-title: Top 10 Food Instagram Influencers In Tokyo In 2023
+title: Top 10 Food Instagram Influencers In Tokyo In 2024
 description: >-
-  Find top food Instagram influencers in Tokyo in 2023. Most popular hashtags: #japan #pr #photo #nipponpic.
+  Find top food Instagram influencers in Tokyo in 2024. Most popular hashtags: #japan #ig #food #tokyocameraclub.
 platform: Instagram
-hits: 57
-text_top: Identify the best Instagram profiles on inBeat.
-text_bottom: Our search engine holds 57 Instagram influencers like this in Tokyo, Japan for you to collaborate.
+hits: 66
+text_top: Identify the best Instagram accounts on inBeat.
+text_bottom: inBeat holds 66 Instagram influencers like this in Tokyo, Japan for you to work with.
 profiles:
   - username: "ayumax666"
     fullname: >-
-      あゆまっくす(ayumax) カフェ＆パンケーキ
+      あゆまっくす(ayumax) カフェ＆パンケーキ
     bio: >-
       白い粉が好き。 お仕事のご依頼はDMにて💌 Sharing posts of café style & kawaii Japanese food! 📍Tokyo, Japan 🍰Sweet tooth 🌎Travel account - @ayu_trip 🗣 Learning English
     location: "Japan"
-    followers: 75749
-    engagement: 657
-    commentsToLikes: 0.003121
+    followers: 82670
+    engagement: 386
+    commentsToLikes: 0.005374
     id: ck13be9mbv09w0i19hug4h9o4
     verified: false
-    hashtags: "#tokyofoodie, #cafe, #pr, #godiva"
+    hashtags: "#pancakes, #melon, #tokyocafe, #cheesecake"
   - username: "aytystyle"
     fullname: >-
       Ay&Ty Style
@@ -31,6 +31,18 @@ profiles:
     id: ck13958r0jldt0i195llnjno7
     verified: false
     hashtags: "#126711chnr, #stellamccartney, #hermesmini, #royaloak"
+  - username: "sophiebakas"
+    fullname: >-
+      Sophie Bakas 🧿
+    bio: >-
+      TikTok, YouTube & Pinterest : sophiebakas All my recipes 👇🏼
+    location: "Japan"
+    followers: 376764
+    engagement: 313
+    commentsToLikes: 0.005148
+    id: cl3cuej904tlo0i23k7fs63mk
+    verified: false
+    hashtags: "#saturday, #island, #brunch, #baking"
   - username: "saorian"
     fullname: >-
       安堂サオリ   Saori Ando
@@ -55,6 +67,18 @@ profiles:
     id: ckaoy8sedgh7p0i78o0rhfw6t
     verified: false
     hashtags: "#visitjapan, #team, #flowerstagram, #olympus"
+  - username: "japanko_official"
+    fullname: >-
+      Japan Travel Guide | 日本旅行ガイド
+    bio: >-
+      🇯🇵 Sharing photos of Japan 🍣 Japanese food recommendations 🗻 Top secret travel destinations you never knew existed in #Japan
+    location: "Japan"
+    followers: 361551
+    engagement: 331
+    commentsToLikes: 0.006251
+    id: ck14h9vll99ob0i1980o3xwov
+    verified: false
+    hashtags: "#naturelover, #naturegram, #mountfuji, #pics"
   - username: "lulu_camera"
     fullname: >-
       LuLu
@@ -90,7 +114,7 @@ profiles:
     commentsToLikes: 0.009147
     id: ck5zs8gpyy0tm0i1424z0noau
     verified: false
-    hashtags: "#nia, #awajishima, #hoshinoresorts, #tomamu"
+    hashtags: "#hyogo, #summerinlb, #hokkaido, #hoshinoresortstomamu"
   - username: "akanemameakane"
     fullname: >-
       Akane Mibu 東京グルメ 寿司 食べログ
@@ -103,28 +127,4 @@ profiles:
     id: ckap95r37r9pd0i78ddusopfj
     verified: false
     hashtags: "#wagyu, #japanesechef, #sushi, #kobebeef"
-  - username: "thermos_k.k"
-    fullname: >-
-      サーモス【公式】 THERMOS_k.k
-    bio: >-
-      🌱サーモス公式アカウントです🌱 日々の生活を、ちょっと豊かにする情報をお届けします! ※いいね、リポストもさせていただくことがあります サーモス会員サイト「Club Thermos」もよろしくお願いします。 https://www.club-thermos.jp/
-    location: "Japan"
-    followers: 52060
-    engagement: 284
-    commentsToLikes: 0.005983
-    id: ck14jg44lk5yy0i19jwh7hjjj
-    verified: false
-    hashtags: "#thermostoday, #instafood, #lunch, #thermos"
-  - username: "sylvia.wakana"
-    fullname: >-
-      Sylvia わかな - Japanese Food + Life
-    bio: >-
-      Cooking & Eating in LA + Tokyo [ハーフ] 🇺🇸🇯🇵 🎥 Tiktok: sylvia.wakana (210k+) ▶️ Youtube.com/sylviawakana ⬇️ Simple Japanese Recipes
-    location: "Japan"
-    followers: 73101
-    engagement: 307
-    commentsToLikes: 0.033552
-    id: ck5caemc7d9td0i11bwymyy0c
-    verified: false
-    hashtags: "#japanlife, #oshogatsu, #japanesefoodlover, #japanesefoods"
 ---

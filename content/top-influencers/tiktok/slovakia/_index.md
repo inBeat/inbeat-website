@@ -1,11 +1,11 @@
 ---
-title: Top 10 TikTok Influencers In Slovakia In 2023
+title: Top 10 TikTok Influencers In Slovakia In 2024
 description: >-
-  Find top TikTok influencers in Slovakia in 2023. Most popular hashtags: #fyp #foryou #fy #foryoupage.
+  Find top TikTok influencers in Slovakia in 2024. Most popular hashtags: #fyp #foryou #fy #foryoupage.
 platform: TikTok
 hits: 171
-text_top: Identify the most popular TikTok accounts on inBeat.
-text_bottom: Our platform holds 171 TikTok influencers like this in Slovakia for you to pitch.
+text_top: See the most popular TikTok profiles on inBeat.
+text_bottom: inBeat has 171 TikTok influencers like this in Slovakia for you to collaborate.
 profiles:
   - username: "alzbetapisecna"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.075677
     id: ck9f31phnfsuq0j78f171qjby
     verified: false
-    hashtags: "#fyp, #fypage, #fypagetiktok, #preteba"
+    hashtags: "#foryou, #fypagetiktok, #fy, #fypage"
   - username: "drift_viktor"
     fullname: >-
       Drift 😎✌🏻

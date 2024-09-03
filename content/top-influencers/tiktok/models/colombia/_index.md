@@ -1,11 +1,11 @@
 ---
-title: Top 10 Models TikTok Influencers In Colombia In 2023
+title: Top 10 Models TikTok Influencers In Colombia In 2024
 description: >-
-  Find top models TikTok influencers in Colombia in 2023. Most popular hashtags: #model #fyp #colombia #foryou.
+  Find top models TikTok influencers in Colombia in 2024. Most popular hashtags: #model #fyp #colombia #foryou.
 platform: TikTok
 hits: 50
-text_top: Identify the top-rated TikTok influencers on inBeat.
-text_bottom: inBeat aggregates 50 TikTok influencers like this in Colombia for you to collaborate.
+text_top: Analyze the top-rated TikTok accounts on inBeat.
+text_bottom: inBeat aggregates 50 TikTok influencers like this in Colombia for you to work with.
 profiles:
   - username: "gregoriosmith"
     fullname: >-

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Makeup TikTok Influencers In South Korea In 2023
+title: Top 10 Makeup TikTok Influencers In South Korea In 2024
 description: >-
-  Find top makeup TikTok influencers in South Korea in 2023. Most popular hashtags: #makeup #fyp #foryou #kbeauty.
+  Find top makeup TikTok influencers in South Korea in 2024. Most popular hashtags: #makeup #fyp #foryou #kbeauty.
 platform: TikTok
-hits: 50
-text_top: Discover the best TikTok accounts on inBeat.
-text_bottom: Our search engine aggregates 50 TikTok influencers like this in South Korea for you to contact.
+hits: 49
+text_top: See the best TikTok profiles on inBeat.
+text_bottom: Our database holds 49 TikTok influencers like this in South Korea for you to pitch.
 profiles:
   - username: "johnstankazue"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.083187
     id: ckbqhmuz82z4f0j23bxtmwmta
     verified: true
-    hashtags: "#foryou, #fyp, #vlive, #kpopmakeup"
+    hashtags: "#foryou, #vlive, #fyp, #kpopmakeup"
   - username: "aiden_parkk"
     fullname: >-
       Aiden_parkk

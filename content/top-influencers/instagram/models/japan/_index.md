@@ -1,11 +1,11 @@
 ---
-title: Top 10 Models Instagram Influencers In Japan In 2023
+title: Top 10 Models Instagram Influencers In Japan In 2024
 description: >-
-  Find top models Instagram influencers in Japan in 2023. Most popular hashtags: #cosplay #cosplayer #leagueoflegendsfanart.
+  Find top models Instagram influencers in Japan in 2024. Most popular hashtags: #japan #cosplayer #cosplay.
 platform: Instagram
-hits: 515
-text_top: Analyze the most popular Instagram profiles on inBeat.
-text_bottom: Our database holds 515 Instagram influencers like this in Japan for you to pitch.
+hits: 517
+text_top: See the best Instagram profiles on inBeat.
+text_bottom: Our database has 517 Instagram influencers like this in Japan for you to collaborate.
 profiles:
   - username: "tokyodays_luka"
     fullname: >-
@@ -19,112 +19,112 @@ profiles:
     id: ck6tqc3n6qldl0j71fqs20vg7
     verified: false
     hashtags: ""
-  - username: "gabrielasage"
+  - username: "yurikotiger"
     fullname: >-
-      Gabby Sage Masuda
+      ユリコタイガー YURIKO TIGER
     bio: >-
-      Japanese American Model Represented by @minellimanagement Mindful living Mental Health Advocate
+      🇯🇵×🇮🇹 Italian/Japanese 📍 東京在住 based in Tokyo ▶ Cosplayer, Model, YouTuber, Anisong DJ ☄️依頼→ info@meteora-st.jp✉️ english →DM
     location: "Japan"
-    followers: 25194
-    engagement: 344
-    commentsToLikes: 0.029850
-    id: ck14jntl0lafx0i19ix71idmh
-    verified: false
-    hashtags: "#lavendarhair, #lavendarroots, #sundayrileypartner, #sundayswap"
-  - username: "asuasu_t3"
-    fullname: >-
-      あすあす / 都木アスカ 𝐀𝐬𝐮𝐤𝐚 𝐓𝐚𝐤𝐚𝐤𝐢
-    bio: >-
-      ▶freelance Actress, Model ▶Osaka ▶158cm ▶17Live《毎日21:00配信》 　GoodFellows所属 認証ライバー ⠀ 美容とお酒がすき♡ 猫と暮らしてる↪@que_kota 　 お仕事のご依頼(商用,有償)はDMへ💌 　 ＼💓配信遊びに来てね💓／
-    location: "Japan"
-    followers: 7405
-    engagement: 1447
-    commentsToLikes: 0.060024
-    id: ck5cbgq7hfe9n0i11y1yprdtp
-    verified: false
-    hashtags: ""
-  - username: "rin_the_sky"
-    fullname: >-
-      Rintaro from  EXIT
-    bio: >-
-      Neo Shibuya Parype unit EXIT🎙 Youtuber💄Artists🎧Instagramer📸Mens cosme leader💅EXIEEE producer👖Model👸
-    location: "Japan"
-    followers: 335217
-    engagement: 646
-    commentsToLikes: 0.018215
-    id: ck5py8h52ut690i11rxmo4ob8
+    followers: 136545
+    engagement: 485
+    commentsToLikes: 0.008775
+    id: ck5hn0tuzmzr90i11p12fkl6v
     verified: true
-    hashtags: "#voce, #offwhite, #rg, #exit"
-  - username: "jackiemcrae_xo"
+    hashtags: "#tokyomodel, #yurikotiger, #cosplayer, #cosplay"
+  - username: "peachmilky_"
     fullname: >-
-      Jackie McRae 🌸Haruko🌸 Eurasian
+      Peach
     bio: >-
-      Japanese/Scottish mix Canadian Model SRQ FL📍 🌿Spot6 - Toronto 🌱Urbn - Milan 🌱Quest - Hong Kong 🌱Chic models - Bangkok Traveling the world ✈️🐳🐬🐠🌴🥥 RU
+      🍰 Sophie * ソフィー 🇯🇵 Living in Tokyo 📸 Model 🌸 Cosplayer 👾 Streamer 🍑 Twitter: PeachMilky_ 💌 Business enquiries: peachmilky.business@gmail.com
     location: "Japan"
-    followers: 25561
-    engagement: 215
-    commentsToLikes: 0.068419
-    id: ck6tr4qkfwx4k0j71vbwk3xc6
+    followers: 318104
+    engagement: 516
+    commentsToLikes: 0.006951
+    id: ck0w40xtjw8u80i193j89s545
     verified: false
-    hashtags: ""
-  - username: "ayaka_ichihara"
+    hashtags: "#genshinimpact, #cosplayer, #genshin, #yoimiya"
+  - username: "varyaren"
     fullname: >-
-      Ayaka(市原彩花/あーちゃん)
+      ALEXIA
     bio: >-
-      世界一周後、シンガポール暮らし🌏✈️ 元レースクイーン👠 Japanese model🇯🇵 Live in Singapore🇸🇬
+      🍒Freelance Make-up Artist & Model
     location: "Japan"
-    followers: 150234
-    engagement: 609
-    commentsToLikes: 0.016300
-    id: ck6ty1a7l13jx0j71y8x9xgj6
+    followers: 142932
+    engagement: 546
+    commentsToLikes: 0.022717
+    id: ck55o5fll7nsg0i11j0w8y98u
     verified: false
-    hashtags: "#marinabaysands, #bajurenang, #japanesegirl, #singapore"
-  - username: "midorikawa_shizuka"
+    hashtags: "#longhair, #japanesefood, #yukata, #skincare"
+  - username: "naoleo"
     fullname: >-
-      緑川静香🐱Shizuka Midorikawa
+      Naomi Adachi | 足立ナオミ
     bio: >-
-      Thanks for visiting my page❣️japanese🇯🇵 actress,model...sakemaster 🍶 sake,ramen,cat,eating,singing,laughing...LOVE💕清く、貧しく、美しく…しーたんです。#唎酒師 とフリマの人
+      • #svetzacinazastrachem • #smážoeveryday • TV presenter • 🇯🇵/🇨🇿 • 東京/Prague • actor, model, gamer • hopx, nintendo, lego, leica • #kokoro
     location: "Japan"
-    followers: 30215
-    engagement: 832
-    commentsToLikes: 0.023810
-    id: ck9wdi3czfq5l0j787mzysi1i
+    followers: 114378
+    engagement: 805
+    commentsToLikes: 0.017042
+    id: ck14i7xhse36l0i19tuh32hf2
     verified: false
-    hashtags: "#sake, #sakestagram, #japanesesake, #sakebottle"
-  - username: "pinkgaijin"
+    hashtags: "#soutez, #hmmember, #yeshm, #hmxme"
+  - username: "tsukiyoga"
     fullname: >-
-      𝓝𝓲𝓴𝔂 ໒꒱
+      tsuki ☾ yoga lifestylist
     bio: >-
-      ☁️ tokyo based / from argentina ໒꒱ 🎀 artist・model・fashion creative 🌸 youtube coming soon! 💌 日本語・english・español
+      yoga(RYT500)| fitness | self-care video creator・fit model 🧘‍♂️くびれるヨガトレ 🕊あしたが変わるセルフケア @tsukiyoga TikTok 320k @tarzanweb 監修トレーナー @mandukayoga ambassador
     location: "Japan"
-    followers: 11840
-    engagement: 1354
-    commentsToLikes: 0.028818
-    id: ck5zjf5r1hhd40i148bi7rto1
+    followers: 216531
+    engagement: 636
+    commentsToLikes: 0.010242
+    id: ck5ckqwbvxfhp0i11rzj6fukf
     verified: false
-    hashtags: "#daiso, #aesthetic, #kawaii, #kawaiifood"
-  - username: "davidlundins"
+    hashtags: "#sustainableliving, #selfmassage, #yogateacher, #healthylifestyle"
+  - username: "tsukamotonanami"
     fullname: >-
-      David Lundin
+      Nanami Tsukamoto
     bio: >-
-      📝 Singer - Songwriter 🚶‍♂️ Model - @selectivemgmt 📸 Photo @daviddavincis 🟢 LISTEN TO ”PRAY” 👇🏻
+      MOTOR SPORTS ATHLETE ☆Drift／Race／Rally ☆ Model ☆Japan Tokyo🇧🇷×🇯🇵×🇮🇹@nanami_beautynote #女性レーサー #initald #jdm #リアル真子 #世界一美しいレーサー#pilotabrasileira #ドリスピ
     location: "Japan"
-    followers: 44941
-    engagement: 235
-    commentsToLikes: 0.084964
-    id: ck138za4yiqz10i19jfupd36s
+    followers: 100370
+    engagement: 486
+    commentsToLikes: 0.014597
+    id: ck6tzfdtw9d9z0j71qm8ye7vi
     verified: false
-    hashtags: "#motivation, #mensfashion, #positive, #mindful"
-  - username: "tsukikage"
+    hashtags: "#jdm, #ae86, #motorsportwoman, #pilotabrasileira"
+  - username: "asahina_aya"
     fullname: >-
-      Lâl ラル╰(*´︶`*)╯♡
+      朝比奈彩（AsahinaAya） 🇯🇵
     bio: >-
-      •🇬🇧🇩🇪🇹🇷🇯🇵 currently in Munich •Freelance model
+      model･talent･actor Netflix　「aliceinborderland 」 「今際の国のアリス」kuina 映画「RED SHOES」主演 oggi専属モデル　etc... 【株式会社　生島企画室】所属 Aプロテインプロデュースしております。
     location: "Japan"
-    followers: 13496
-    engagement: 1093
-    commentsToLikes: 0.038049
-    id: ck15s3uffb33e0i19fzu91487
-    verified: false
-    hashtags: "#dianacosplay, #jinx, #leagueoflegendsfanart, #animeedit"
+    followers: 1647903
+    engagement: 400
+    commentsToLikes: 0.004017
+    id: ck14lk2zav34r0i191bhi7zph
+    verified: true
+    hashtags: "#fashion, #oralbio, #pr, #chaumet"
+  - username: "sae_okazaki"
+    fullname: >-
+      岡崎紗絵
+    bio: >-
+      1995.11.2 T-TRIBE ENTERTAINMENT所属 actress/model -Ray専属-
+    location: "Japan"
+    followers: 788921
+    engagement: 688
+    commentsToLikes: 0.004418
+    id: ck5cky74qxunv0i11ovmpjrw5
+    verified: true
+    hashtags: "#freesmart, #7id, #fifteen, #10"
+  - username: "asaya.0223"
+    fullname: >-
+      バンダリ亜砂也
+    bio: >-
+      model／98.02.23 ー🐱🐱 @_shimba.nara_
+    location: "Japan"
+    followers: 182086
+    engagement: 458
+    commentsToLikes: 0.003410
+    id: ck9hb8mf5ft670j78pv5hl9qy
+    verified: true
+    hashtags: "#shoes, #sneaker, #season, #super73"
 ---

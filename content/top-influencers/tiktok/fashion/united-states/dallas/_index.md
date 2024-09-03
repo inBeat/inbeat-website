@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fashion TikTok Influencers In Dallas In 2023
+title: Top 10 Fashion TikTok Influencers In Dallas In 2024
 description: >-
-  Find top fashion TikTok influencers in Dallas in 2023. Most popular hashtags: #fyp #fashion #dallas #foryoupage.
+  Find top fashion TikTok influencers in Dallas in 2024. Most popular hashtags: #fyp #fashion #dallas #foryoupage.
 platform: TikTok
-hits: 35
-text_top: Identify the top-rated TikTok influencers on inBeat.
-text_bottom: Our database has 35 TikTok influencers like this in Dallas, United States for you to collaborate.
+hits: 34
+text_top: Identify the top-rated TikTok profiles on inBeat.
+text_bottom: Our database aggregates 34 TikTok influencers like this in Dallas, United States for you to connect with.
 profiles:
   - username: "biancalisette_"
     fullname: >-
@@ -25,24 +25,12 @@ profiles:
     bio: >-
       Grad Student, Fashion Lover, Traveler, Wine Enthusiast Dallas, TX
     location: "United States"
-    followers: 16700
-    engagement: 1101
-    commentsToLikes: 0.102230
+    followers: 18200
+    engagement: 1294
+    commentsToLikes: 0.109951
     id: ckbqp9tdka12j0j23vvotxr96
     verified: false
-    hashtags: "#dance, #trulyglowingselfielove, #doritosflatlife, #stitch"
-  - username: "gerbil1999indisguise"
-    fullname: >-
-      Gerbil
-    bio: >-
-      living for balance just for fun (:
-    location: "United States"
-    followers: 6554
-    engagement: 1103
-    commentsToLikes: 0.026641
-    id: ckdhe1sx0wuvx0j23db0cc72j
-    verified: false
-    hashtags: "#fyp, #baking, #cooking, #foodie"
+    hashtags: "#videosnapchallenge, #chandelier, #skiptherinse, #refundglowup"
   - username: "erangeel45"
     fullname: >-
       Esmeralda Rangel
@@ -103,18 +91,30 @@ profiles:
     id: ckcjtdo2zi8k00j23f8kmozsn
     verified: false
     hashtags: "#zithappens, #fat, #gym, #greenscreen"
-  - username: "claireliseg"
+  - username: "kaitlynlunaa"
     fullname: >-
-      Claire-Lise
+      Kaitlyn Luna
     bio: >-
-      Hook ‘em Horns 🐂🤘🏻🧡 Sorority, fashion and occasionally funny content
+      I’m a little stitious
     location: "United States"
-    followers: 33500
-    engagement: 687
-    commentsToLikes: 0.020940
-    id: ckc7pclesv2pd0j23haetmhdg
+    followers: 9619
+    engagement: 1738
+    commentsToLikes: 0.022554
+    id: ckb9bh8j0xqda0j237f455xex
     verified: false
-    hashtags: "#rush, #hookem, #recruitment, #sorority"
+    hashtags: "#mentalhealthmatters, #chipsgottalent, #chrisevans, #blackwidow"
+  - username: "kassandrabrambila"
+    fullname: >-
+      Kassandra Brambila
+    bio: >-
+      🦋#ÁMATEALV📍TX ✨MINDSET/MONEY COACH✨ 🇲🇽Sígueme en Insta🇺🇸 Pícale aqui👇🏻
+    location: "United States"
+    followers: 453600
+    engagement: 493
+    commentsToLikes: 0.060133
+    id: ckdck3qarm4iw0j23erv3zy1u
+    verified: false
+    hashtags: "#trend, #missmoney, #bienesraices, #invest"
   - username: "andrewkwon_official"
     fullname: >-
       Andrew Kwon 엔드류 권
@@ -126,5 +126,5 @@ profiles:
     commentsToLikes: 0.067943
     id: ckce3zwyhjcwm0j237bod4grp
     verified: false
-    hashtags: "#france, #kpop, #nyc, #andrewkwon"
+    hashtags: "#france, #korean, #fyp, #foru"
 ---

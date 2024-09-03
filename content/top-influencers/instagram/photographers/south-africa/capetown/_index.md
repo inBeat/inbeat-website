@@ -1,24 +1,48 @@
 ---
-title: Top 10 Photographers Instagram Influencers In Capetown In 2023
+title: Top 10 Photographers Instagram Influencers In Capetown In 2024
 description: >-
-  Find top photographers Instagram influencers in Capetown in 2023. Most popular hashtags: #capetown #southafrica #capetownsouthafrica #photography.
+  Find top photographers Instagram influencers in Capetown in 2024. Most popular hashtags: #capetown #southafrica #capetownsouthafrica.
 platform: Instagram
-hits: 17
-text_top: Identify the most popular Instagram profiles on inBeat.
-text_bottom: Our search engine aggregates 17 Instagram influencers like this in Capetown, South Africa for you to connect with.
+hits: 21
+text_top: Analyze the top-rated Instagram profiles on inBeat.
+text_bottom: Our search engine aggregates 21 Instagram influencers like this in Capetown, South Africa for you to pitch.
 profiles:
   - username: "marcbermanphotography"
     fullname: >-
       Marc Berman | Photographer
     bio: >-
-      #photographer #model #fashion #lifestyle 📍#capetown 👨🏻Personal Acc - @king_fool For bookings DM or Email : info@marcberman.co.za
+      #photographer #model #fashion #lifestyle #NFTcommunity #nft #NFTart 📍#capetown 👨🏻Personal Acc - @king_fool 📧 info@marcberman.co.za to book
     location: "South Africa"
-    followers: 16600
-    engagement: 187
-    commentsToLikes: 0.023634
+    followers: 16539
+    engagement: 170
+    commentsToLikes: 0.020955
     id: ck5cdtxbzjrsk0i114cjcvvst
     verified: false
-    hashtags: "#instadaily, #blueeyes, #brunette, #portraitvision"
+    hashtags: "#marcbermanphotography, #instadaily, #southafrica, #photography"
+  - username: "gingerwithagopro"
+    fullname: >-
+      South Africa | Content Creator Cape Town | Travel & Lifestyle
+    bio: >-
+      Chad Nathan | Travel Photographer & Filmmaker | @wildgingafilms 🌍 43/197 - 📍Cape Town 👇🏼 Limited Edition Prints & Merch👇🏼
+    location: "South Africa"
+    followers: 50472
+    engagement: 242
+    commentsToLikes: 0.081662
+    id: ck6udpk0xmflb0j712m2dl2kz
+    verified: false
+    hashtags: "#lehladakh, #pangonglake, #uae, #pangong"
+  - username: "jaredincpt"
+    fullname: >-
+      Jared in Cape Town 🇿🇦
+    bio: >-
+      • South African Travel Journalist • Presenter, writer, photographer, tour guide • Bespoke SA travel planner (only account)
+    location: "South Africa"
+    followers: 48528
+    engagement: 3
+    commentsToLikes: 0.002186
+    id: ck0vvqlf0qbkp0i19q9bclg2r
+    verified: false
+    hashtags: "#bookabach, #sponsored, #southafrica, #traveljournalist"
   - username: "delmainedonson_art"
     fullname: >-
       DIGITAL ARTIST
@@ -43,18 +67,6 @@ profiles:
     id: ck55j0i1pvyjp0i11bmfh9euj
     verified: false
     hashtags: "#nyatisafarilodge, #safari, #capetown, #capeviewclifton"
-  - username: "travspringer"
-    fullname: >-
-      TRAV SPRINGER Cape Town / Bali
-    bio: >-
-      Business | Ocean | Lifestyle Founder of @tropicalglamping 🌴 Creative photographer & Videographer W / @kinseygolden x #swimwear at @creationsbytrav
-    location: "South Africa"
-    followers: 75725
-    engagement: 274
-    commentsToLikes: 0.011015
-    id: ck5c1igfcv8o80i11fibfaca0
-    verified: false
-    hashtags: "#cityofcapetown, #clifton, #capetown, #creator"
   - username: "louisdanielbotha"
     fullname: >-
       Louis Botha
@@ -114,17 +126,5 @@ profiles:
     commentsToLikes: 0.044519
     id: ck135sn0q313k0i19s8wn0tay
     verified: false
-    hashtags: "#southafricaza, #tablemountain, #freestate, #franschhoek"
-  - username: "donheynekephoto"
-    fullname: >-
-      Don Heyneke
-    bio: >-
-      |Founder of @escapesafarico |@melvillandmoon Ambassador |Inspired by Curiosity |Safari Guide |Photographer |#comeESCAPEwithus
-    location: "South Africa"
-    followers: 19568
-    engagement: 262
-    commentsToLikes: 0.014228
-    id: ck0ud8nqgintl0i19d15a2x66
-    verified: false
-    hashtags: "#africa, #thisissouthafrica, #bigcats, #instadaily"
+    hashtags: "#beautifuldestinations, #travelwithpurpose, #westerncape, #adventuretravel"
 ---

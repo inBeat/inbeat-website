@@ -1,11 +1,11 @@
 ---
-title: Top 10 Bloggers TikTok Influencers In Los Angeles In 2023
+title: Top 10 Bloggers TikTok Influencers In Los Angeles In 2024
 description: >-
-  Find top bloggers TikTok influencers in Los Angeles in 2023. Most popular hashtags: #losangeles #fyp #ootd #fashion.
+  Find top bloggers TikTok influencers in Los Angeles in 2024. Most popular hashtags: #losangeles #fyp #ootd #fashion.
 platform: TikTok
-hits: 12
-text_top: Discover the best TikTok profiles on inBeat.
-text_bottom: inBeat has 12 TikTok influencers like this in Los Angeles, United States for you to connect with.
+hits: 11
+text_top: See the most popular TikTok accounts on inBeat.
+text_bottom: inBeat has 11 TikTok influencers like this in Los Angeles, United States for you to connect with.
 profiles:
   - username: "minimalmajor"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.033831
     id: ck9v1zzgujeud0j788zvq9euw
     verified: false
-    hashtags: "#motivation, #sidehustle, #dreamjobcheck, #dreamjob"
+    hashtags: "#dreamjobcheck, #motivation, #girlpower, #tiktokfashion"
   - username: "afashionnerd"
     fullname: >-
       Amy Roiland
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.040816
     id: ck9k9omuudzo80j78c4fbrndi
     verified: false
-    hashtags: "#fashiontok, #thrifted, #fy, #fyp"
+    hashtags: "#madcapmotel, #fashiontok, #thrifted, #fy"
   - username: "stuartbrazell"
     fullname: >-
       stuartbrazell
@@ -42,19 +42,7 @@ profiles:
     commentsToLikes: 0.083827
     id: cka0i7xigcjll0i78ehdbj3h1
     verified: true
-    hashtags: "#rhinoplasty, #septoplasty, #oscars, #surgerytiktok"
-  - username: "brittsbellavita"
-    fullname: >-
-      Brittany Henderson
-    bio: >-
-      🗺 Drone Photographer + Travel Blogger 🏔 Explore Hidden Gems 📍California
-    location: "United States"
-    followers: 4860
-    engagement: 879
-    commentsToLikes: 0.158024
-    id: ckc31kxgbs0780j23l3sqkae7
-    verified: false
-    hashtags: "#california, #mavicair2, #norcal, #traveltiktok"
+    hashtags: "#septoplasty, #rhinoplasty, #oscars, #deviatedseptum"
   - username: "jules_cali"
     fullname: >-
       Jules_Cali
@@ -66,7 +54,7 @@ profiles:
     commentsToLikes: 0.141776
     id: ck7zpa3fio9o40j78h13e4nol
     verified: false
-    hashtags: "#tiktokfashion, #chanel, #chaneladdict, #ocblogger"
+    hashtags: "#momover40, #travelmom, #viral, #tiktokover40"
   - username: "hofitkimcohen"
     fullname: >-
       Hofit Kim Cohen
@@ -78,7 +66,7 @@ profiles:
     commentsToLikes: 0.066382
     id: ck93o54k532mk0j783oj08xdl
     verified: false
-    hashtags: "#foryou, #comedy, #kimkardashian, #fyp"
+    hashtags: "#kourtneykardashian, #halloweenvibes, #foryou, #viral"
   - username: "saffrononrose"
     fullname: >-
       Alisha Taneja
@@ -90,7 +78,7 @@ profiles:
     commentsToLikes: 0.051566
     id: ck807322soaxg0j78rhkf1s40
     verified: true
-    hashtags: "#losangeles, #la, #weho, #vlog"
+    hashtags: "#la, #melrose, #revolve, #worththewait"
   - username: "miss_veraa"
     fullname: >-
       Vera Cai
@@ -102,7 +90,7 @@ profiles:
     commentsToLikes: 0.017459
     id: ckdhk4ljqzb3b0j23f81hu3nf
     verified: false
-    hashtags: "#learnontiktok, #losangeles, #jobperks, #advertising"
+    hashtags: "#jobperks, #losangeles, #fyp, #learnontiktok"
   - username: "backtobrittany"
     fullname: >-
       Backtobrittany
@@ -126,5 +114,17 @@ profiles:
     commentsToLikes: 0.016133
     id: ck9782t3f6ghw0j7892veg46s
     verified: false
-    hashtags: "#fyp, #monkeysoftiktok, #wanderlust, #swimwear"
+    hashtags: "#travel, #swimwear, #monkey, #vacation"
+  - username: "nazyfarnoosh"
+    fullname: >-
+      Nazy Farnoosh
+    bio: >-
+      persian like the cat 🐈 la babe content creator
+    location: "United States"
+    followers: 52100
+    engagement: 530
+    commentsToLikes: 0.044522
+    id: ckbkzakwwvpo90j23kvbud1jf
+    verified: false
+    hashtags: "#starbucksdrinks, #dramaticmoments, #photographyideas, #starbucks"
 ---

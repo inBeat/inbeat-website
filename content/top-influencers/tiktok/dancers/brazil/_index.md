@@ -1,11 +1,11 @@
 ---
-title: Top 10 Dancers TikTok Influencers In Brazil In 2023
+title: Top 10 Dancers TikTok Influencers In Brazil In 2024
 description: >-
-  Find top dancers TikTok influencers in Brazil in 2023. Most popular hashtags: #dance #fy #dancer #foryou.
+  Find top dancers TikTok influencers in Brazil in 2024. Most popular hashtags: #dance #dancer #fy #foryou.
 platform: TikTok
 hits: 141
-text_top: Analyze the best TikTok influencers on inBeat.
-text_bottom: Our search engine holds 141 TikTok influencers like this in Brazil for you to collaborate.
+text_top: Identify the most popular TikTok accounts on inBeat.
+text_bottom: Our database aggregates 141 TikTok influencers like this in Brazil for you to work with.
 profiles:
   - username: "macedonandaa"
     fullname: >-

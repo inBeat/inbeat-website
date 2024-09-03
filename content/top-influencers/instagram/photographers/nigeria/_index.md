@@ -1,12 +1,48 @@
 ---
-title: Top 10 Photographers Instagram Influencers In Nigeria In 2023
+title: Top 10 Photographers Instagram Influencers In Nigeria In 2024
 description: >-
-  Find top photographers Instagram influencers in Nigeria in 2023. Most popular hashtags: #fashion #lagosphotographer #portrait #explorepage.
+  Find top photographers Instagram influencers in Nigeria in 2024. Most popular hashtags: #explorepage #portrait #fashion #birthday.
 platform: Instagram
-hits: 35
-text_top: See the most popular Instagram profiles on inBeat.
-text_bottom: Our search engine has 35 Instagram influencers like this in Nigeria for you to collaborate.
+hits: 38
+text_top: Identify the top-rated Instagram influencers on inBeat.
+text_bottom: Our database holds 38 Instagram influencers like this in Nigeria for you to collaborate.
 profiles:
+  - username: "itiayo"
+    fullname: >-
+      Itiayo O
+    bio: >-
+      Still no niche 🤷🏾‍♀️ Photographer at @bojstudios @soundsnsights 📍Lagos, Nigeria ✉️ itiayo@gmail.com
+    location: "Nigeria"
+    followers: 127142
+    engagement: 1731
+    commentsToLikes: 0.037581
+    id: clple1sqows6s0k08puzifdhb
+    verified: false
+    hashtags: "#cinematography, #wfh, #productivity, #sharescribe"
+  - username: "horlaroflagos"
+    fullname: >-
+      Bolarinwa Y.O
+    bio: >-
+      NO🥇LIFESTYLE PHOTOGRAPHER IN 🇳🇬 Sneakerhead 👟 (Check my REELS)
+    location: "Nigeria"
+    followers: 73830
+    engagement: 307
+    commentsToLikes: 0.027059
+    id: ck5c9qdqzbwuz0i111eypf4jw
+    verified: false
+    hashtags: "#calltobar, #badcommentsthemovie, #number1"
+  - username: "praise_that_photographer"
+    fullname: >-
+      The Greatest
+    bio: >-
+      Professional Photographer Creative director at @weddingsbyptp @ptpstudio_ For enquires 09076385698, OR Email Ikate, elegushi, lagos.
+    location: "Nigeria"
+    followers: 82873
+    engagement: 190
+    commentsToLikes: 0.009485
+    id: ck13666uw4xz40i19lmf15wb7
+    verified: false
+    hashtags: "#african, #ptp, #ptp2021, #thegreatest"
   - username: "colormanola"
     fullname: >-
       𝕆𝕝𝕒 𝕊𝕡𝕖𝕔𝕥𝕖𝕣 🇨🇦
@@ -31,6 +67,18 @@ profiles:
     id: ck0u69wwq1feb0i199xavjtwc
     verified: false
     hashtags: "#thabigheaded, #togolaisdumondeentier, #explorepage, #togolais"
+  - username: "yomi.visuals"
+    fullname: >-
+      ONALARU ABAYOMI 😎🇳🇬
+    bio: >-
+      Fine Boy Photographer😎🇳🇬 Beauty | Portrait | Retoucher Wedding page: @yv.weddings NO REFUND! Yomi Photography and Visuals art studio✨ #yomivisuals
+    location: "Nigeria"
+    followers: 13668
+    engagement: 567
+    commentsToLikes: 0.048310
+    id: ck8t6bjezczgq0j78wjy57fs5
+    verified: false
+    hashtags: "#explorepage, #icreate, #lagosphotographer, #blackexcellence"
   - username: "tosin.akinyemiju"
     fullname: >-
       Tosin Akinyemiju
@@ -43,30 +91,18 @@ profiles:
     id: ck5q3e7fokdhx0i11x05jqtjj
     verified: false
     hashtags: ""
-  - username: "yomi.visuals"
-    fullname: >-
-      FINE BOY PHOTOGRAPHER😎🇳🇬
-    bio: >-
-      Celebrity Photographer🤤 Beauty | Portrait | Retoucher Wedding page: @yv.weddings NO REFUND! Yomi Photography and Visuals art studio✨ #yomivisuals
-    location: "Nigeria"
-    followers: 12280
-    engagement: 665
-    commentsToLikes: 0.042871
-    id: ck8t6bjezczgq0j78wjy57fs5
-    verified: false
-    hashtags: "#yomivisuals, #dodgeandburn, #capture, #diane"
   - username: "ovia_reflex"
     fullname: >-
       Nigeria Based Photographer
     bio: >-
       Creative Director/ Photographer / Retoucher Bookings: Oviareflex3112@gmail.com WhatsApp: +2347055930290 Published Photographer Lightroom presets 🔗
     location: "Nigeria"
-    followers: 15859
-    engagement: 556
-    commentsToLikes: 0.025037
+    followers: 18539
+    engagement: 291
+    commentsToLikes: 0.013713
     id: ck0w0uiuag3n90i197bxelsvm
     verified: false
-    hashtags: "#stylist, #blue, #beautyphotographer, #birthday"
+    hashtags: ""
   - username: "khaleegraphy"
     fullname: >-
       DaNLaDi
@@ -91,40 +127,4 @@ profiles:
     id: ck5hg5y5o139l0i11g8nr9xkj
     verified: false
     hashtags: "#fashionafrica, #arewabride, #calltobar, #photographerinabuja"
-  - username: "horlaroflagos"
-    fullname: >-
-      Bolarinwa Y.O
-    bio: >-
-      OLOUNJE EKO 🤟🏾 Local Guide 🥇 Photographer 🥈 Lifestyle|Fashion|Food Enthusiast 🥉 Media Strategist • Photography + Lifestyle = 💯😍❤️
-    location: "Nigeria"
-    followers: 27542
-    engagement: 588
-    commentsToLikes: 0.036266
-    id: ck5c9qdqzbwuz0i111eypf4jw
-    verified: false
-    hashtags: "#fakelife, #badcommentsthemovie, #calltobar"
-  - username: "officialjhay"
-    fullname: >-
-      JAY
-    bio: >-
-      🦅SOMEWHERE DREAMING PHOTOGRAPHER Photography is therapeutic. Wedding page @thejhayweddings
-    location: "Nigeria"
-    followers: 12118
-    engagement: 794
-    commentsToLikes: 0.063650
-    id: ck6u26dmepzen0j712i4n3k2y
-    verified: false
-    hashtags: "#portharcourt, #agoodtime, #westafrica, #photooftheday"
-  - username: "waltpictures_"
-    fullname: >-
-      Walter Dempster
-    bio: >-
-      Portrait / wedding photographer For info: 📩 waltpictures1@gmail.com 📞 07012168340
-    location: "Nigeria"
-    followers: 6906
-    engagement: 622
-    commentsToLikes: 0.023483
-    id: ck5q769ng056g0i111sgqouu3
-    verified: false
-    hashtags: "#fashioneditorials, #beautyportrait, #portraitphotography, #portrait"
 ---

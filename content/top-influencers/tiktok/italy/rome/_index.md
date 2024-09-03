@@ -1,11 +1,11 @@
 ---
-title: Top 10 TikTok Influencers In Rome In 2023
+title: Top 10 TikTok Influencers In Rome In 2024
 description: >-
-  Find top TikTok influencers in Rome in 2023. Most popular hashtags: #perte #foryou #fyp #duet.
+  Find top TikTok influencers in Rome in 2024. Most popular hashtags: #perte #foryou #fyp #duet.
 platform: TikTok
-hits: 83
-text_top: See the best TikTok accounts on inBeat.
-text_bottom: Our database holds 83 TikTok influencers like this in Rome, Italy for you to connect with.
+hits: 84
+text_top: Discover the best TikTok accounts on inBeat.
+text_bottom: Our database aggregates 84 TikTok influencers like this in Rome, Italy for you to collaborate.
 profiles:
   - username: "matthewbolds"
     fullname: >-

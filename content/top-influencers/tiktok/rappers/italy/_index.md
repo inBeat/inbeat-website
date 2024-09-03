@@ -1,11 +1,11 @@
 ---
-title: Top 10 Rappers TikTok Influencers In Italy In 2023
+title: Top 10 Rappers TikTok Influencers In Italy In 2024
 description: >-
-  Find top rappers TikTok influencers in Italy in 2023. Most popular hashtags: #perte #fyp #foryou #viral.
+  Find top rappers TikTok influencers in Italy in 2024. Most popular hashtags: #perte #foryou #fyp #viral.
 platform: TikTok
 hits: 9
-text_top: Analyze the most popular TikTok accounts on inBeat.
-text_bottom: inBeat has 9 TikTok influencers like this in Italy for you to collaborate.
+text_top: See the top-rated TikTok profiles on inBeat.
+text_bottom: Our platform holds 9 TikTok influencers like this in Italy for you to collaborate.
 profiles:
   - username: "fabychinelli"
     fullname: >-
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.028769
     id: ckavmn1z7wjw30j23nlr7vqwl
     verified: false
-    hashtags: "#drill, #twerk, #musica, #twerking"
+    hashtags: "#musica, #twerking, #trap, #drill"
   - username: "kalobagli85"
     fullname: >-
       kalobagli85
@@ -90,7 +90,7 @@ profiles:
     commentsToLikes: 0.010531
     id: ckauvu1t50wng0j23s8n8hy0x
     verified: false
-    hashtags: "#sanremo, #covid, #influencer, #musicanapoletana"
+    hashtags: "#influencer, #sanremo, #covid, #rappresentante"
   - username: "youcallmemili"
     fullname: >-
       Mili

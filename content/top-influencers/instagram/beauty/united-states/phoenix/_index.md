@@ -1,11 +1,11 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Phoenix In 2023
+title: Top 10 Beauty Instagram Influencers In Phoenix In 2024
 description: >-
-  Find top beauty Instagram influencers in Phoenix in 2023. Most popular hashtags: #beauty #beautiful #ad #arizona.
+  Find top beauty Instagram influencers in Phoenix in 2024. Most popular hashtags: #beauty #beautiful #phoenixmoms #ad.
 platform: Instagram
-hits: 105
-text_top: Identify the most popular Instagram profiles on inBeat.
-text_bottom: inBeat has 105 Instagram influencers like this in Phoenix, United States for you to pitch.
+hits: 109
+text_top: Analyze the top-rated Instagram accounts on inBeat.
+text_bottom: Our database holds 109 Instagram influencers like this in Phoenix, United States for you to work with.
 profiles:
   - username: "excuse.mybeauty"
     fullname: >-
@@ -19,30 +19,42 @@ profiles:
     id: ckapbmfmh0fum0i78w09e5ulu
     verified: false
     hashtags: "#doll, #frontalinstall, #arizonaweaves, #azstylist"
-  - username: "alexiistherese"
+  - username: "janinehernandez_"
     fullname: >-
-      alexis (ali) castillo
+      Janine Hernandez
     bio: >-
-      fashion | beauty | travel 📍 phoenix, arizona wifey to @bryanadamc ♥️ contact: alexiistherese@gmail.com buy my presets here! ⬇️
+      📚 #1 Best Selling Author 🎙Podcast & Janine HernandezTV Host 📖 Author Coach @bookpublishingacademy ✨As seen:CBS, Fox, NBC, Good Morning AZ, Mix96.9FM
     location: "United States"
-    followers: 138824
-    engagement: 252
-    commentsToLikes: 0.017929
-    id: ck0vw200krqvn0i19jxq9yp8w
+    followers: 10354
+    engagement: 100
+    commentsToLikes: 0.136926
+    id: ckql8h332t1xe0j23etg3l70l
     verified: false
-    hashtags: "#styleinspo, #revolveme, #explorecolorado, #photography"
-  - username: "nakdbeautyaz"
+    hashtags: "#author, #retreat, #womensretreat, #10x"
+  - username: "laurensamuelsphoto"
     fullname: >-
-      Emily | AZ PMU 🌿
+      Lauren Samuels
     bio: >-
-      ✨ May-Aug books open in MARCH ✨ ▪️7x Certified PMU Artist ▪️Licensed Esthetician ▪️BOOKING, PRICING, & FAQ’s 👇🏼
+      Sharing the beauty & chaos of motherhood Phoenix, AZ 🌵 Mama 👧🏼👧🏼 Capturing vibrant tones & authentic emotion 2024 Dates Release Nov 14th!
     location: "United States"
-    followers: 19836
-    engagement: 153
-    commentsToLikes: 0.042533
-    id: ck14iar4oeh4z0i19omvy48kx
+    followers: 22678
+    engagement: 254
+    commentsToLikes: 0.147129
+    id: cl0m89ykfn74y0i23i67l217v
     verified: false
-    hashtags: "#pmu, #gilbertmicroblading, #scottsdalebrows, #azmicroblading"
+    hashtags: "#arizonahiking, #phoenixphotographer, #phoenixfamilyphotographer, #visitarizona"
+  - username: "campuslandscape"
+    fullname: >-
+      𝐂𝐀𝐌𝐏𝐔𝐒 🌺 𝕋𝕣𝕠𝕡𝕚𝕔𝕒𝕝 𝐈𝐧𝐟𝐥𝐮𝐞𝐧𝐜𝐞𝐫
+    bio: >-
+      Tampa Design + Build Co. Founder: @campusbotanicalsociety Ambassador: @kobrandoutdoors 𝟐𝐱 𝐖𝐢𝐧𝐧𝐞𝐫 🏆: 𝐁𝐞𝐬𝐭 𝐨𝐟 𝐭𝐡𝐞 𝐁𝐚𝐲 - 𝐋𝐚𝐧𝐝𝐬𝐜𝐚𝐩𝐞 𝐃𝐞𝐬𝐢𝐠𝐧 𝐂𝐨𝐦𝐩𝐚𝐧𝐲
+    location: "United States"
+    followers: 13274
+    engagement: 262
+    commentsToLikes: 0.234697
+    id: ck5hccqy5hdk50i11yprfd6ky
+    verified: false
+    hashtags: "#bromeliads, #bromeliadsofinstagram, #jardin, #landscapelighting"
   - username: "livbaysupplies"
     fullname: >-
       LivBay Supplies™
@@ -59,14 +71,14 @@ profiles:
     fullname: >-
       Tiffany M. Battle | New York
     bio: >-
-      💡: The Werk! Place ™ 💻: Style | Beauty | Nails | Travel 💌: thewerkplace1@gmail.com 💃🏽: Inspiring you to live a colorfully textured life!
+      💃🏽: Inspiring you to live a colorfully textured life! 💡: Founder, The Werk! Place ™ 📺: Host, Boss Girl’s Guide on Cleo TV 💌: thewerkplace1@gmail.com
     location: "United States"
-    followers: 66405
-    engagement: 794
-    commentsToLikes: 0.079446
+    followers: 129765
+    engagement: 198
+    commentsToLikes: 0.105648
     id: ck6tm9yly7g680j713wrvtugz
     verified: true
-    hashtags: "#hmxme, #naturalhairdreams, #pariscoutureweek, #hairbysusy"
+    hashtags: "#metgala2024, #kelzgala, #hmxme, #metgala"
   - username: "saumya.joshi.399"
     fullname: >-
       Saumya Joshi
@@ -79,18 +91,18 @@ profiles:
     id: ck9wflsh3pf6x0j78rl8miij6
     verified: false
     hashtags: "#bloggerstyle, #summervibes, #quarantineandchill, #freshcolour"
-  - username: "hannahlorschphotofilm"
+  - username: "alexiistherese"
     fullname: >-
-      Hannah Lorsch Photo & Film
+      alexis (ali) castillo
     bio: >-
-      I believe in love & magic 480.800.7315 Offering any edit style your little heart desires Weddings+ hlorsch.photography@gmail.com AZ based+ Travel
+      fashion | beauty | travel | TikTok: @alexiistherese 📍 phoenix, arizona wifey to @bryanadamc ♥️ contact: alexiistherese@gmail.com
     location: "United States"
-    followers: 18211
-    engagement: 917
-    commentsToLikes: 0.003665
-    id: ck6tygtiq3n490j71tvjigba4
+    followers: 121241
+    engagement: 59
+    commentsToLikes: 0.008760
+    id: ck0vw200krqvn0i19jxq9yp8w
     verified: false
-    hashtags: "#instagramaz, #azbride, #theknot, #weddingphotographer"
+    hashtags: "#winteroutfit, #oregoncoast, #grwm, #springfashion"
   - username: "the.cocco.channel"
     fullname: >-
       Brittney Cocco|Phx Blogger
@@ -102,7 +114,7 @@ profiles:
     commentsToLikes: 0.237786
     id: ck5ho4s9voxo70i11fn9yk30n
     verified: false
-    hashtags: "#girlswithcurves, #alifeconscious, #creativecontentcreation, #midsizefashionblogger"
+    hashtags: "#midsizeblogger, #phoenixinfluencer, #chattycaptioncommunity, #midsizefashionblogger"
   - username: "nailssbyandyy"
     fullname: >-
       Andy | Fairfield,CA
@@ -115,16 +127,4 @@ profiles:
     id: ckaozun19ngxj0i78b5ypvlag
     verified: false
     hashtags: "#nailtech, #model, #fairfield, #arizona"
-  - username: "three_moons_flowers"
-    fullname: >-
-      
-    bio: >-
-      🎀👸TMF👸🎀 Photographer 📷🙋‍♀️ It started 9/8/2018 All Photo are my own 📸 Member of 15 hubs ✨🌺✨ See each new post below Ⓜ️ VIP @ip_for_blossoms
-    location: "United States"
-    followers: 6643
-    engagement: 700
-    commentsToLikes: 0.021836
-    id: ck5cinvjot0er0i11vvn6q544
-    verified: false
-    hashtags: "#beautiful, #funda, #nature, #stayhome"
 ---

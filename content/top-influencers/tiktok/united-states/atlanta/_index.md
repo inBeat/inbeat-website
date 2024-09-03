@@ -1,11 +1,11 @@
 ---
-title: Top 10 TikTok Influencers In Atlanta In 2023
+title: Top 10 TikTok Influencers In Atlanta In 2024
 description: >-
-  Find top TikTok influencers in Atlanta in 2023. Most popular hashtags: #fyp #foryou #funny #atlanta.
+  Find top TikTok influencers in Atlanta in 2024. Most popular hashtags: #fyp #foryou #atlanta #funny.
 platform: TikTok
-hits: 535
-text_top: Analyze the most popular TikTok accounts on inBeat.
-text_bottom: Our platform holds 535 TikTok influencers like this in Atlanta, United States for you to connect with.
+hits: 543
+text_top: Analyze the most popular TikTok influencers on inBeat.
+text_bottom: Our database holds 543 TikTok influencers like this in Atlanta, United States for you to connect with.
 profiles:
   - username: "forevaleo_"
     fullname: >-
@@ -66,7 +66,7 @@ profiles:
     commentsToLikes: 0.081470
     id: cka666lcmfydd0i78q7jccg1h
     verified: false
-    hashtags: "#2024, #quickerpickerrapper, #fyp, #fishing"
+    hashtags: "#quickerpickerrapper, #hilarious, #foryou, #funny"
   - username: "the_jimk"
     fullname: >-
       Jim Kelley
@@ -78,7 +78,7 @@ profiles:
     commentsToLikes: 0.104330
     id: ck9e18m3d9kf30j78s2laxmvu
     verified: false
-    hashtags: "#fyp, #retro, #comedy, #love"
+    hashtags: "#love, #makeitmagical, #tokusatsu, #fyp"
   - username: "atlutd"
     fullname: >-
       Atlanta United FC
@@ -90,7 +90,7 @@ profiles:
     commentsToLikes: 0.056654
     id: cka6i8dm0pp7y0i78tbsjbzb9
     verified: true
-    hashtags: "#futbol, #atlanta, #josefmartinez, #blvckkit"
+    hashtags: "#mercedesbenzstadium, #atlutd, #blvckkit, #atlanta"
   - username: "anye_44"
     fullname: >-
       Anyeuri Castillo
@@ -102,7 +102,7 @@ profiles:
     commentsToLikes: 0.055505
     id: ck8vw2e8hn6790j786frrxyj4
     verified: false
-    hashtags: "#foryoupage, #dominican, #atlanta, #playwithlife"
+    hashtags: "#foryoupage, #cuarentena, #funny, #boredathome"
   - username: "anthonyythorp"
     fullname: >-
       Anthony ✰

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Crossfit Instagram Influencers In 2023
+title: Top 10 Crossfit Instagram Influencers In 2024
 description: >-
-  Find top crossfit Instagram influencers in 2023. Most popular hashtags: #crossfit #fitness #tattoo.
+  Find top crossfit Instagram influencers in 2024. Most popular hashtags: #crossfit #fitness #crossfitgames.
 platform: Instagram
-hits: 3224
-text_top: Discover the most popular Instagram profiles on inBeat.
-text_bottom: inBeat aggregates 3224 Instagram influencers like this for you to contact.
+hits: 3441
+text_top: See the best Instagram profiles on inBeat.
+text_bottom: Our database has 3441 Instagram influencers like this for you to collaborate.
 profiles:
   - username: "crossfit"
     fullname: >-
       CrossFit
     bio: >-
-      The world's leading platform for health, happiness, and performance. Certification @CrossFitTraining Compete @CrossFitGames Join @CrossFitAffiliates
-    location: ""
-    followers: 416007
-    engagement: 196
-    commentsToLikes: 0.012715
+      For over 20 years, CrossFit has delivered life-changing results to people of all ages and fitness levels. Find a gym near you ↓
+    location: "United States"
+    followers: 1162159
+    engagement: 93
+    commentsToLikes: 0.014129
     id: ckaos5sp9q7yu0i78vih109h5
     verified: false
-    hashtags: "#fitness, #doesyourdoctorevencrossfit, #alwaysmarryupinthegenepool, #crossfitgames"
-  - username: "merouane_khelil"
+    hashtags: "#crossfit, #health, #fitness, #crossfitgames"
+  - username: "sophiejeannelaird"
     fullname: >-
-      
+      SOPHIE LAIRD ♡
     bio: >-
-      Crossfit
-    location: ""
-    followers: 50735
-    engagement: 4450
-    commentsToLikes: 0.005877
-    id: ck6u54aw47ige0j716fnl2739
+      🏋🏼‍♀️Coach @crossfitwolverhampton 👩🏼‍💻@battleformiddleground // @repitoutuk
+    location: "United Kingdom"
+    followers: 3618
+    engagement: 795
+    commentsToLikes: 0.060360
+    id: ck8t1tmmxwzgb0j786lmxnvw1
     verified: false
-    hashtags: "#mt07, #yamaha, #roadster, #eidmubarak"
-  - username: "issavegas"
+    hashtags: "#girlswholift, #crossfitter, #crossfit, #fitness"
+  - username: "guadimachado"
     fullname: >-
-      Issa Vegas  ✨
+      GUADI MACHADO 🐆
     bio: >-
-      CROSSFIT-GYM GIRL 🏋🏼‍♀️ DISCIPLINE. DEDICATED. DETERMINATION. Miami📍 Backup @fitmaree
+      CO @fitwaypty Crossfit Regional Athlete 🇦🇷 💪🏽 GUADI10 % @lycanfitnesspa ⚡️ Guadimachado % @bblatino507
     location: "United States"
-    followers: 9140437
-    engagement: 111
-    commentsToLikes: 0.005730
-    id: ckaoztb41nb460i78e330g437
-    verified: true
-    hashtags: "#energydrink, #fashionnovapartner, #bangenergy"
-  - username: "mathewfras"
+    followers: 21984
+    engagement: 433
+    commentsToLikes: 0.015671
+    id: ck14k8ywpocff0i19ifn6oj4w
+    verified: false
+    hashtags: "#art, #atlasnutrition, #nutritionforrealfitness, #nutrici"
+  - username: "nickitee.fit"
     fullname: >-
-      Mathew Fraser
+      Nicki Torreggiani
     bio: >-
-      16-17-18-19-20 CrossFit Games Champ|UVM Mechanical Engineer|@321podium|@Nike|@RogueFitness|@gowod_mobilityfirst|@beam|@athleticbrewing|@hwpotraining
+      📍 New York 🗽 🤓 NASM & CF-L1 Trainer 🏋🏻‍♀️ Weightlifting ➡️ CrossFit 💪CrossFit Games Athlete '23 (Team) 🫶🏻 @conquerathlete
     location: "United States"
-    followers: 2480480
-    engagement: 75
-    commentsToLikes: 0.004232
-    id: ck0ttrv0t41ze0i19q4poa6g7
-    verified: true
-    hashtags: "#hwpo, #crossfit, #podium, #hwpotraining"
-  - username: "_giadamassara_"
-    fullname: >-
-      Giada Massara
-    bio: >-
-      My work: Casting Director #mediaset 📺🎥🎬 @forummediaset My sport: Weightlifting/Crossfit ➡️per info e collab.➡️DM/📩giadina.massara@icloud.com
-    location: "Norway"
-    followers: 45472
-    engagement: 997
-    commentsToLikes: 0.071150
-    id: ck5hr9419uhac0i116ngq4l7x
+    followers: 26201
+    engagement: 5489
+    commentsToLikes: 0.037842
+    id: ck8t5yn9zbol10j78vzbc0ker
     verified: false
-    hashtags: "#studimediaset, #tacco12, #perledisaggezza, #mylife"
-  - username: "chamborodriguez"
+    hashtags: "#liftheavy, #crossfitgirls, #olympicweightlifting, #fyp"
+  - username: "lhz_perf"
     fullname: >-
-      Salvador Rodríguez de Burgos
+      🇫🇷 Lucas Heuzé 🦁
     bio: >-
-      1989 San Fernando | CADIZ | • Un buen cafe ☕️ • Un lugar que explorar 🌍 • CrossFit 🏋🏼‍♂️ • Salvador@flapinkgo.es 📩 📍 Getafe | MADRID | 🇪🇸
-    location: "Spain"
-    followers: 12806
-    engagement: 1082
-    commentsToLikes: 0.071229
-    id: ck5hgukm64u670i11r19vmbf9
-    verified: false
-    hashtags: "#europa, #amoviajar, #naturaleza, #atardecer"
-  - username: "frejabyskov"
-    fullname: >-
-      FREJA BYSKOV 🌷VELKOMMEN
-    bio: >-
-      Vestjysk fysioterapeut stud. med trang til store smil, realisme og træning ☀️ 🏋🏼‍♀️ @crossfitholstebro 🍋 @noccodanmark @icaniwill -20%(BYSKOV20)
-    location: "Denmark"
-    followers: 7054
-    engagement: 854
-    commentsToLikes: 0.076276
-    id: ckapa66ynuvqa0i78ayrsrzb5
-    verified: false
-    hashtags: "#elskerelskerelsker, #weekend, #styrketr, #kropspositiv"
-  - username: "fransiela_jimenezg"
-    fullname: >-
-      Fransiela Jiménez
-    bio: >-
-      🏋🏻‍♀️ Crossfit athlete 🇲🇽 México | El que persevera alcanza 🙌🏼💓 💪🏼1x crossfit games athlete 📚 Comercio Internacional
-    location: "Spain"
-    followers: 24426
-    engagement: 646
-    commentsToLikes: 0.007488
-    id: ck15ul8hqnqc40i19ykbbas2s
-    verified: false
-    hashtags: "#training, #crossfit, #fitness, #weightlifting"
-  - username: "vero9cah"
-    fullname: >-
-      PT VERONICA.H 🇳🇴 BERGEN
-    bio: >-
-      ⭐️PersonalTrainer #PT Bergen [ @afpt ]@progresjon OnlineCoach! ⭐️NOCCO @nocconorge ⭐️TIGHTS.NO @tights.no #crossfit #bootcamp #outdoors
+      2x Games Athlete @crossfitgenas Coach @fitprocess.prog 📈 . @purvitae.fr @fitandrack @unchained_fr @monka_france
     location: "France"
-    followers: 26943
-    engagement: 518
-    commentsToLikes: 0.184184
-    id: ck8t1wg5oxb5y0j78hwu0l4e7
+    followers: 12740
+    engagement: 738
+    commentsToLikes: 0.011571
+    id: cktoaa8fbf7jz0j23m32l0iwl
     verified: false
-    hashtags: ""
-  - username: "ritagarciaherrera"
+    hashtags: "#crossfitfrance, #blackandwhite, #crossfit, #unjouronfera120sousfatigue"
+  - username: "rasmuswandersen"
     fullname: >-
-      Rita Garcia
+      Rasmus Wisbech Andersen
     bio: >-
-      Owner of @sweetdeathcrossfit CROSSFIT - WEIGHTLIFTING Spanish🇪🇸-Sports-Dogs lover 4x #regionalsathlete 2x fittest in Spain 🔻❤️SPONSOR❤️🔻
-    location: "Spain"
-    followers: 32639
-    engagement: 495
-    commentsToLikes: 0.016595
-    id: ck5hr9fxfuhvt0i11ye1lkgut
+      5 x CrossFit Games Athlete (14’ Fittest On Earth Team) Working @grownstrong
+    location: "United States"
+    followers: 47539
+    engagement: 458
+    commentsToLikes: 0.011108
+    id: ck0vwej2btc1v0i19vvecfuqm
     verified: false
-    hashtags: "#myway, #crossfit, #fitnessgirl, #strongwomen"
+    hashtags: "#notsponsored, #preworkout, #supergreens, #tbt"
+  - username: "aaleman305"
+    fullname: >-
+      Andres Aleman 🐘
+    bio: >-
+      •MIA🌴 •Olympic Weightlifting Coach •CrossFit L-2 @lululemon - Ambassador #teamSOUL @teamsoulftl & @teamsoulmiami @nocco.usa - Ambassador
+    location: "United States"
+    followers: 5064
+    engagement: 415
+    commentsToLikes: 0.056232
+    id: cl4kuhricsqk60i23vir7vmy3
+    verified: false
+    hashtags: "#teamsoul, #thesweatlife, #lululemonambassador, #lululemo"
+  - username: "moritz_fiebig"
+    fullname: >-
+      Moritz Fiebig
+    bio: >-
+      @crossfitgames Athlete @sanktpauliathletik #crossfitsanktpauli Owner @force__training Programmer
+    location: "Germany"
+    followers: 23150
+    engagement: 595
+    commentsToLikes: 0.036074
+    id: ck5casncde1t30i11q7n3hjvm
+    verified: false
+    hashtags: "#athlete, #crossfit, #hamburg, #motivation"
+  - username: "lazadjukic"
+    fullname: >-
+      Lazar Đukić
+    bio: >-
+      3x CrossFit Games Athlete @tyrsport @suprfitde @fitaideurope @wodproofapp @picsil_sport @liftheavy.official
+    location: "Germany"
+    followers: 30989
+    engagement: 489
+    commentsToLikes: 0.009615
+    id: cl6kwo8hjjvrk0i23igcfxu9x
+    verified: false
+    hashtags: "#mayhem, #teamtyr, #mayhemathlete, #crossfitgames"
+  - username: "michellebasnett_"
+    fullname: >-
+      Michelle Basnett
+    bio: >-
+      🇿🇦🇺🇸 2021 CrossFit Games Athlete @bornprimitive
+    location: "United States"
+    followers: 196804
+    engagement: 496
+    commentsToLikes: 0.009207
+    id: ckybz31yknspq0j23u7v31nwz
+    verified: false
+    hashtags: "#iykyk, #thicknoodlesare"
 ---

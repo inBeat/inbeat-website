@@ -1,130 +1,130 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Colombia In 2023
+title: Top 10 Beauty Instagram Influencers In Colombia In 2024
 description: >-
-  Find top beauty Instagram influencers in Colombia in 2023. Most popular hashtags: #colombia #makeup #makeupartist.
+  Find top beauty Instagram influencers in Colombia in 2024. Most popular hashtags: #makeup #maquillaje #outfit.
 platform: Instagram
-hits: 301
-text_top: Discover the best Instagram influencers on inBeat.
-text_bottom: Our search engine holds 301 Instagram influencers like this in Colombia for you to collaborate.
+hits: 306
+text_top: Identify the best Instagram influencers on inBeat.
+text_bottom: Our database aggregates 306 Instagram influencers like this in Colombia for you to contact.
 profiles:
-  - username: "nicollediez"
+  - username: "chdermatologia"
     fullname: >-
-      NICOLLE DIEZ
+      CLAUDIA HERNÁNDEZ
     bio: >-
-      My life 📷 Mamá de Maite 🤍 #Fashion #beauty and #lifestyle inspiration @bynicollediez
+      🇨🇴 Board-Certified Dermatologist • AAD 🇺🇸member •Injector💉•KOL & Global speaker 🌎 •Research🔬 •Lifestyle • Beauty 📲 +574443072 / 3006413849
     location: "Colombia"
-    followers: 97440
-    engagement: 106
-    commentsToLikes: 0.020316
-    id: ck5c27kdbwp4s0i11kuccrvnh
+    followers: 122456
+    engagement: 733
+    commentsToLikes: 0.002903
+    id: ck0w71ryubc2d0i19xvjyd5io
     verified: false
-    hashtags: "#colombia, #ootd, #fashionstyle, #fashion"
-  - username: "jessica.zabala"
+    hashtags: "#lifestyle, #skincare, #fillers, #beauty"
+  - username: "kimdesutter"
     fullname: >-
-      Jessica Zabala
+      Kim De Sutter 🦋
     bio: >-
-      Cree en ti 🍀✨ Insta Tips | Beauty | Fashion | Lifestyle Tiktok | jessicazabalaa
+      mom | travel & lifestyle | beauty Management: @matchmgmt
     location: "Colombia"
-    followers: 89858
-    engagement: 372
-    commentsToLikes: 0.008907
-    id: ck9wghcvxtf430j788scdohfk
+    followers: 158033
+    engagement: 406
+    commentsToLikes: 0.004378
+    id: ck5qd86vouaho0i11hm26wfnt
     verified: false
-    hashtags: "#publicidad, #bonbonbumlovers"
-  - username: "makeupby.gisselle"
+    hashtags: "#beb, #publicidad, #acidmantle, #lorealpariscoloracion"
+  - username: "folliedollie"
     fullname: >-
-      Gisselle Elneser ✨ جيزيل النسر
+      ☆ Follie Dollie ☆
     bio: >-
-      Pro Makeup Artist & Beauty Educator. Cursos | Maquillaje Social | Novias. Collabs DM📥 Citas al: 3023315731 (Solo whatsapp) 📍Maicao - COLOMBIA✈️
+      Maritime & Corporate Lawyer / Founder @legalmarinetek 👩🏽‍⚖️ Sharing my passion for beauty and Fashion at @folliedolliebeaute⭐️
     location: "Colombia"
-    followers: 11823
-    engagement: 955
-    commentsToLikes: 1.064154
-    id: ck5q3irqwkxfu0i11m3yog9xl
+    followers: 38505
+    engagement: 437
+    commentsToLikes: 0.004416
+    id: ck15qy9dh58ls0i19bipvw1u2
     verified: false
-    hashtags: "#makeuplover, #bperfectcosmetics, #colombia, #morpheglamfam"
-  - username: "davidvisuals_ph"
+    hashtags: "#nofilter, #bidenharris2020"
+  - username: "mickeholguinbello"
     fullname: >-
-      David Pinilla
+      Micke Holguin Bello 💖
     bio: >-
-      ❌PHOTOGRAPHY❌ 📍Bogotá, Colombia 🇨🇴 PORTRAITS, LIFE STYLE, FASHION, BEAUTY AND CELEBRITY PHOTOGRAPHER SESIONES-COLABORACIONES AL DM📸
+      🛸 Digital Influencer 💿 Fashion | Beauty | Lifestyle 💸 Collab Info Dm 💖 @mickeholguinbelloof
     location: "Colombia"
-    followers: 51747
-    engagement: 827
-    commentsToLikes: 0.034807
-    id: ck5hmy57bmuih0i11uont2ws2
+    followers: 111872
+    engagement: 315
+    commentsToLikes: 0.012701
+    id: ck14je05vjulu0i19shce8qwn
     verified: false
-    hashtags: "#tips, #tipsfoto, #vivov20, #ma"
-  - username: "laura_.stephany"
+    hashtags: "#sunsetlamp, #aesthetic, #grwm, #outfitinspo"
+  - username: "mercycollazos"
     fullname: >-
-      Stephany Laura
+      𝐌𝐄𝐑𝐂𝐘 𝐂𝐎𝐋𝐋𝐀𝐙𝐎𝐒
     bio: >-
-      💕 Vive la vida al máximo!! Solo cuentas con el presente para ser Feliz 💕. #love #beauty #fitness 📍Miami 🌆 @estephany_laura 😍(Cuenta Principal)
+      • | sin DIOS, nada soy ♡ • | Fashion | Beauty | Travel Founder @bubblesky_glamping 🏹@mercycollazos.beauty 🖇 Belleza sin corazón, es simple decoración
     location: "Colombia"
-    followers: 16584
-    engagement: 747
-    commentsToLikes: 0.060533
-    id: ckap86oayn2ai0i781kpyyiy0
+    followers: 591892
+    engagement: 274
+    commentsToLikes: 0.008412
+    id: ck5zwywji70s00i145ywx3tbh
     verified: false
-    hashtags: "#only, #tbt, #miami, #cubanas"
-  - username: "carogallegoca"
+    hashtags: "#colombia, #outfit, #ootd, #style"
+  - username: "tiffanialvarez"
     fullname: >-
-      Caro Gallego Ca.
+      Tiffani Alvarez
     bio: >-
-      Medellín. 📍 Infocarogallego@gmail.com✨ Beauty blogger. @ateneaprofesional
+      Makeup | beauty | wellness | lifestyle | moda +250k en TT 🤝🏻 muchos reviews allá info@tiffanialvarez.com 📍Medellín hubby 🫀 @davidbravod
     location: "Colombia"
-    followers: 36955
-    engagement: 234
-    commentsToLikes: 0.092682
-    id: ck5qaczd5fr190i11fj3cjksh
+    followers: 22730
+    engagement: 245
+    commentsToLikes: 0.018727
+    id: ck8wevvpseoo90j78cq9vxrh8
     verified: false
-    hashtags: "#viernestrepado, #giveaway"
-  - username: "fatimakeupstudio"
+    hashtags: "#maquillajenatural, #maquillajefavorito, #maquillaje, #labiales"
+  - username: "claudialozanooficial"
     fullname: >-
-      Fatima Mourtada ♡
+      Claudia Lozano
     bio: >-
-      Pro Makeup Artist & Beauty Educator ✨Maquillaje social y de Novia ✨Cursos de maquillaje 📍Maicao-Colombia I travel✈️ Info📲 SOLO WHATSAPP 3233909200 ⤵️
+      TV Hostess #ShowCaracol Journalist @noticiascaracol Beauty and Fashion lover
     location: "Colombia"
-    followers: 36670
-    engagement: 592
-    commentsToLikes: 0.034482
-    id: ck15sfs30csp80i19bvsgdqqg
+    followers: 192621
+    engagement: 224
+    commentsToLikes: 0.032309
+    id: ck5bz7311qkii0i11id5fjkyc
     verified: false
-    hashtags: "#cutcrease, #goldeneyes, #makeup, #halloween"
-  - username: "siad_keren"
+    hashtags: "#claustyle, #dgcolombia, #tbt, #goodgirlcarolinaherrera"
+  - username: "shirleyarica27"
     fullname: >-
-      Social Media Marketing Tips
+      Shirley Arica
     bio: >-
-      Aquí aprenderás a amarte con conciencia Te enseño desarrollo personal con estrategia digital — ✨CEO @cardiff_beauty & Mente Plena Estamos a un click
+      Mi estudio de pestañas @sky_lashes30 Skylar Beauty 🌸 Contacto : shilita2706@hotmail.com 𝗹𝗼𝘃𝗲 𝘁𝗿𝗮𝘃𝗲𝗹✈︎♡ 𝐥𝐨𝐯𝐞 𝐭𝐡𝐞 𝐬𝐞𝐚 ஐ YouTube Host🔔🎙️EnTragos
     location: "Colombia"
-    followers: 30549
-    engagement: 218
-    commentsToLikes: 0.487308
-    id: ck6u5wzhac8lg0j71fdxqo6i5
-    verified: false
-    hashtags: "#mindset, #creaciondecontenido, #marketingdigital, #barranquilla"
-  - username: "adribeautyartist"
+    followers: 2159023
+    engagement: 187
+    commentsToLikes: 0.013070
+    id: ck5hpiiwbrfck0i11k5d4aoou
+    verified: true
+    hashtags: "#reddress, #enjoy, #friends, #happydaymom"
+  - username: "melytorres0"
     fullname: >-
-      ✨Adri Beauty Artist✨
+      𝐌 𝐞 𝐥 𝐲 𝐓 𝐨 𝐫 𝐫 𝐞 𝐬
     bio: >-
-      🎓Certified Makeup Artist 🤍Beauty Blogger 📍#Barranquilla Información Servicios de Maquillaje 👇🏻
+      God fearing🙏🏻 Business/ProMUA @nattypaz0's Wife💍 💙👶🏻👶🏻Mommy Siguiendo el proposito de Dios✨ LifeStyle/Makeup&BeautyTips/Cooking/Travel Hondureña 🇭🇳
     location: "Colombia"
-    followers: 13900
-    engagement: 813
-    commentsToLikes: 0.122506
-    id: ckaoyngqii8us0i78s7n5ut7m
+    followers: 69054
+    engagement: 187
+    commentsToLikes: 0.033325
+    id: ck6tupvl2hq6d0j71aw434ye0
     verified: false
-    hashtags: "#atlantico, #maquillaje, #maquilladoracolombia, #adribeautyartist"
-  - username: "camilavillamiln"
+    hashtags: "#glow, #masterclass, #maquillaje, #reels"
+  - username: "saragarciacalle"
     fullname: >-
-      So Sophisticated
+      Sara Garcia
     bio: >-
-      Fashion, Beauty & Travel Periodista de moda | Escribo en @eltiempo Brand & Fashion Consultant - Prof. Editor at @so_sophisticated_blog 📍🇨🇴
+      Beauty&LifeStyle creator Med, Col 📍
     location: "Colombia"
-    followers: 26337
-    engagement: 143
-    commentsToLikes: 0.066811
-    id: ck14gpguo6e5n0i19d2xpnmeb
+    followers: 350788
+    engagement: 158
+    commentsToLikes: 0.001901
+    id: ck5c7kyyh7py30i11elt0soq8
     verified: false
-    hashtags: "#patrocinado, #ipanemagraffiti, #tottoporcolombia, #tottoxelmundo"
+    hashtags: "#makeup, #fyp, #blue, #grwm"
 ---

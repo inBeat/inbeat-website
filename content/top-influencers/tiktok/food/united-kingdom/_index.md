@@ -1,11 +1,11 @@
 ---
-title: Top 10 Food TikTok Influencers In United Kingdom In 2023
+title: Top 10 Food TikTok Influencers In United Kingdom In 2024
 description: >-
-  Find top food TikTok influencers in United Kingdom in 2023. Most popular hashtags: #fyp #foryoupage #stitch #learnontiktok.
+  Find top food TikTok influencers in United Kingdom in 2024. Most popular hashtags: #fyp #foryoupage #foryou #funny.
 platform: TikTok
-hits: 922
+hits: 928
 text_top: See the top-rated TikTok influencers on inBeat.
-text_bottom: Our platform holds 922 TikTok influencers like this in United Kingdom for you to work with.
+text_bottom: Our database holds 928 TikTok influencers like this in United Kingdom for you to pitch.
 profiles:
   - username: "janetdevlinofficial"
     fullname: >-
@@ -42,19 +42,31 @@ profiles:
     commentsToLikes: 0.012591
     id: ckbwj1n0y3g720j23f7euttrr
     verified: false
-    hashtags: "#slushie, #sourblastation, #ramadan2021, #ramadan"
+    hashtags: "#ramadan, #sourblastation, #slush, #ramadan2021"
   - username: "willmcb"
     fullname: >-
       Will McBride
     bio: >-
       MY FAVOURITE FOOD IS A BIG MAC
     location: "United Kingdom"
-    followers: 761000
-    engagement: 3435
-    commentsToLikes: 0.010117
+    followers: 758500
+    engagement: 3332
+    commentsToLikes: 0.010302
     id: ck933wll6q4jq0j78rx96o2e9
     verified: false
-    hashtags: "#roadmanwillroadmanwill, #imkeepingitthoughbecauseitsfunnyhehe, #iwantedtoputmyhandoutthewindowonthemotorwaybuttherewasapolicecar, #pastaswag"
+    hashtags: "#wistuhouseisbetterthanthehypehouse, #iwantedtoputmyhandoutthewindowonthemotorwaybuttherewasapolicecar, #america, #ilymcdonalds"
+  - username: "morgz"
+    fullname: >-
+      Morgz
+    bio: >-
+      @morgz on Insta follow me or I’ll steal ur food 😈
+    location: "United Kingdom"
+    followers: 2600000
+    engagement: 1212
+    commentsToLikes: 0.026935
+    id: ck8p0ufmtih0k0j784tlqv0qj
+    verified: true
+    hashtags: "#morgz, #couple, #fyp, #funny"
   - username: "thelittletoot"
     fullname: >-
       McToot Meal 🤡
@@ -90,7 +102,7 @@ profiles:
     commentsToLikes: 0.030152
     id: ck81s3qx4prv40j78hsbaomp6
     verified: true
-    hashtags: "#theshirtlesschef, #learnontiktok, #tempstips, #easyrecipe"
+    hashtags: "#tempstips, #theshirtlesschef, #learnontiktok, #easyrecipe"
   - username: "thelittlelondonvegan"
     fullname: >-
       thelittlelondonvegan
@@ -115,16 +127,4 @@ profiles:
     id: ckb9iyhoe9w5j0j23qyfrn1ie
     verified: false
     hashtags: "#xyzbca, #comment, #viral, #yeet"
-  - username: "mattadlard"
-    fullname: >-
-      Matt Adlard 
-    bio: >-
-      Judge on Food Network IG: @mattadlard
-    location: "United Kingdom"
-    followers: 300700
-    engagement: 2179
-    commentsToLikes: 0.007797
-    id: ck8adibkn6fvq0j78pblhnpyq
-    verified: false
-    hashtags: "#learnontiktok, #baking, #fyp, #cookies"
 ---

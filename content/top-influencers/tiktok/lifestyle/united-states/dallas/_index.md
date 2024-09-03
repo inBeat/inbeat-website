@@ -1,24 +1,12 @@
 ---
-title: Top 10 Lifestyle TikTok Influencers In Dallas In 2023
+title: Top 10 Lifestyle TikTok Influencers In Dallas In 2024
 description: >-
-  Find top lifestyle TikTok influencers in Dallas in 2023. Most popular hashtags: #dallas #fyp #texas #lifestyle.
+  Find top lifestyle TikTok influencers in Dallas in 2024. Most popular hashtags: #dallas #texas #fyp #lifestyle.
 platform: TikTok
-hits: 14
-text_top: Analyze the top-rated TikTok profiles on inBeat.
-text_bottom: Our database holds 14 TikTok influencers like this in Dallas, United States for you to connect with.
+hits: 15
+text_top: Identify the best TikTok influencers on inBeat.
+text_bottom: inBeat aggregates 15 TikTok influencers like this in Dallas, United States for you to work with.
 profiles:
-  - username: "kaitlynlunaa"
-    fullname: >-
-      Kaitlyn Luna
-    bio: >-
-      I’m a little stitious
-    location: "United States"
-    followers: 9619
-    engagement: 1738
-    commentsToLikes: 0.022554
-    id: ckb9bh8j0xqda0j237f455xex
-    verified: false
-    hashtags: "#mentalhealthmatters, #chipsgottalent, #chrisevans, #loml"
   - username: "aloprofile"
     fullname: >-
       aloprofile
@@ -30,7 +18,7 @@ profiles:
     commentsToLikes: 0.041831
     id: ckbkt2ma7o3sv0j23z5y7w93l
     verified: false
-    hashtags: "#dogsoftiktok, #springdress, #hometour, #miami"
+    hashtags: "#trend, #funny, #miami, #springdress"
   - username: "storyofstyle"
     fullname: >-
       Hina Cheema
@@ -42,7 +30,7 @@ profiles:
     commentsToLikes: 0.011442
     id: ck8j9dg9amwt80j78srdb637o
     verified: false
-    hashtags: "#homedecor, #diy, #fallaesthetic, #foryou"
+    hashtags: "#homedecor, #foryoupage, #fallaesthetic, #foryou"
   - username: "ddollaz254"
     fullname: >-
       ddollaz254
@@ -90,7 +78,7 @@ profiles:
     commentsToLikes: 0.023145
     id: ckbf1ktsvnrjk0j23xyjlvmtt
     verified: false
-    hashtags: "#dfw, #dallaslovelist, #texas, #tx"
+    hashtags: "#dtx, #texas, #tx, #dallaslovelist"
   - username: "adrienedavidson"
     fullname: >-
       AdrieneDavidson
@@ -127,4 +115,16 @@ profiles:
     id: ckdsv8xytq26y0j233elqbh9u
     verified: false
     hashtags: "#country, #driving, #cowboy, #redneck"
+  - username: "kaitlynlunaa"
+    fullname: >-
+      Kaitlyn Luna
+    bio: >-
+      I’m a little stitious
+    location: "United States"
+    followers: 9619
+    engagement: 1738
+    commentsToLikes: 0.022554
+    id: ckb9bh8j0xqda0j237f455xex
+    verified: false
+    hashtags: "#mentalhealthmatters, #chipsgottalent, #chrisevans, #blackwidow"
 ---

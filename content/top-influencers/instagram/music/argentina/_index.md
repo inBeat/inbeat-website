@@ -1,12 +1,120 @@
 ---
-title: Top 10 Music Instagram Influencers In Argentina In 2023
+title: Top 10 Music Instagram Influencers In Argentina In 2024
 description: >-
-  Find top music Instagram influencers in Argentina in 2023. Most popular hashtags: #dj #nature #piano.
+  Find top music Instagram influencers in Argentina in 2024. Most popular hashtags: #nuestroscolores #gibson #nosvemosenlamusica.
 platform: Instagram
-hits: 945
-text_top: Analyze the top-rated Instagram influencers on inBeat.
-text_bottom: Our platform aggregates 945 Instagram influencers like this in Argentina for you to pitch.
+hits: 955
+text_top: See the top-rated Instagram profiles on inBeat.
+text_bottom: Our platform holds 955 Instagram influencers like this in Argentina for you to work with.
 profiles:
+  - username: "belenegri"
+    fullname: >-
+      B E L Ü
+    bio: >-
+      ʙɪᴇɴᴠᴇɴɪᴅᴏs•ᴡᴇʟᴄᴏᴍᴇ Chilena🇨🇱 en Argentina🇦🇷 📩info@belenegri.com Streamer • Diseño • Música
+    location: "Argentina"
+    followers: 2152414
+    engagement: 845
+    commentsToLikes: 0.002858
+    id: ck5zl5hc4kr1z0i14ufwpvuzy
+    verified: false
+    hashtags: "#nadaquenosepamos"
+  - username: "charlieparradelriego"
+    fullname: >-
+      Charlie Parra del Riego
+    bio: >-
+      Peruano 🇵🇪 guitarra en @chrisjerichofozzy’s @kuarantine_official 🇺🇸 y @saratogaoficial 🇪🇸 Uso @kramerguitarsus @emgpickups @ernieball @valeton_music
+    location: "Argentina"
+    followers: 132360
+    engagement: 569
+    commentsToLikes: 0.031508
+    id: ck15q276b0qqm0i190lortega
+    verified: true
+    hashtags: "#guitar, #guitarrista, #shredguitar, #peru"
+  - username: "lucaspiraino"
+    fullname: >-
+      Lucas Piraino
+    bio: >-
+      Plantas, música y humor 💚 Mi tienda @bosquedeeva 🪴 Tik Tok 1 @elhuasoyelhuasito (1M 🤠) Tik Tok 2 @ elwndelasplantas (380k 🧑🏻‍🌾) @zastalents
+    location: "Argentina"
+    followers: 484508
+    engagement: 690
+    commentsToLikes: 0.020737
+    id: ck0w76lj2c0ls0i19m3nu8fji
+    verified: false
+    hashtags: "#momentosquevalenoro, #oto, #plantas, #diadelaspapasfritas"
+  - username: "elpurre"
+    fullname: >-
+      Jose Gimenez Zapiola
+    bio: >-
+      Mgmt Comercial/Actoral: @agenciapechmann Mgmt Musical: @yclari @dupla.agencia
+    location: "Argentina"
+    followers: 1022778
+    engagement: 446
+    commentsToLikes: 0.009649
+    id: ck0vw1n0erp8z0i19z5254z3b
+    verified: true
+    hashtags: "#nanoflex"
+  - username: "brunoolvez"
+    fullname: >-
+      BRUNO OLVEZ 💥💥💥🦅
+    bio: >-
+      Productor 🇲🇽.@Lagrandiabla Co productor en @lamasdraga Fotografía. Animación Vídeo Producción Musical
+    location: "Argentina"
+    followers: 94449
+    engagement: 528
+    commentsToLikes: 0.012491
+    id: ck5bwhx5olqht0i112xqyjxls
+    verified: false
+    hashtags: "#fitness, #muscle, #malemodel, #lamasdraga"
+  - username: "joystickjtk"
+    fullname: >-
+      Joystick
+    bio: >-
+      Shows y música👇🎫
+    location: "Argentina"
+    followers: 19082
+    engagement: 598
+    commentsToLikes: 0.037622
+    id: ck6030edpkblg0i14y0c3zzhq
+    verified: true
+    hashtags: ""
+  - username: "pollycarretero"
+    fullname: >-
+      Paola Carretero
+    bio: >-
+      Good old music, coffee, bikes & a plane ticket❤️‍🔥 @inspire__bazaar @rali_store @bicicletasrali Car Polly Karaoke 🎤🎶🚗⚡️💫👇🏼
+    location: "Argentina"
+    followers: 40941
+    engagement: 314
+    commentsToLikes: 0.014179
+    id: ck15rdnqd7euo0i19b156an5n
+    verified: false
+    hashtags: "#elciclismoesturismo, #bacpass, #menubac, #bacpanama"
+  - username: "guido_messina"
+    fullname: >-
+      Guido Messina
+    bio: >-
+      🇦🇷/📝 acá se hacen libros, música, videos, podcasts y shows 📅 SHOWS EN DESTACADAS 📅 📚 INVERNADERO / INSECTARIO / INCENDIO ⬇️ DISPONIBLES EN LA WEB ⬇️
+    location: "Argentina"
+    followers: 234220
+    engagement: 315
+    commentsToLikes: 0.014068
+    id: ck0w1fojzj3zw0i193yh96w6p
+    verified: false
+    hashtags: "#videopoemas, #poesia, #videopoema, #libros"
+  - username: "abelpintos"
+    fullname: >-
+      Abel Pintos
+    bio: >-
+      Nos vemos en la música
+    location: "Argentina"
+    followers: 2384066
+    engagement: 266
+    commentsToLikes: 0.025635
+    id: ck0ty53aulo4f0i1971790921
+    verified: true
+    hashtags: "#argentina, #nosvemosenlamusica, #leaguescup2024, #nuestroscolores"
   - username: "lacintia_"
     fullname: >-
       L  A     C  I  N  T  I  A
@@ -19,112 +127,4 @@ profiles:
     id: ck55m7ah13dtc0i11563t7nk3
     verified: false
     hashtags: "#dj, #techhousedj, #techhouse, #techno"
-  - username: "lildami"
-    fullname: >-
-      lildami
-    bio: >-
-      Viatge en espiral JA DISPONIBLE!💝 Contractació: ixent@exits.cat / +34 629 372 805 ⬇️⬇️⬇️Concerts, musica, videos..⬇️⬇️⬇️
-    location: "Argentina"
-    followers: 38831
-    engagement: 857
-    commentsToLikes: 0.009214
-    id: ck14ie3l0eywa0i19lqlg78d8
-    verified: false
-    hashtags: ""
-  - username: "soymanupozzi"
-    fullname: >-
-      Manu Pozzi
-    bio: >-
-      Viajar haciendo música 🛩⛰🎸 >>> Escucha mis canciones en Spotify👇👇👇
-    location: "Argentina"
-    followers: 40686
-    engagement: 767
-    commentsToLikes: 0.071141
-    id: ck15u1o4bkzlr0i191fja1z6d
-    verified: false
-    hashtags: "#nature, #family, #familygoals, #couplegoals"
-  - username: "cande.gariso"
-    fullname: >-
-      C A N D E 🎧 G A R I S O
-    bio: >-
-      Córdoba, Arg Dj🎧🖤 #dj Youtube: Cande Gariso Urban/electronic music💃🏽 Playlist S P O T I F Y⬇️
-    location: "Argentina"
-    followers: 37076
-    engagement: 1196
-    commentsToLikes: 0.056687
-    id: ckaox06n0b6az0i78lpp6vqut
-    verified: false
-    hashtags: "#djwoman, #dj, #sennheiser, #womandj"
-  - username: "gastonsardelli"
-    fullname: >-
-      Gaston Sardelli
-    bio: >-
-      Cuenta oficial. Músico Airbag. Vegetariano. Ciencia. Pintor. Nerd. Ajedrez. E-sports. 🤓✊. Más en 👇
-    location: "Argentina"
-    followers: 84737
-    engagement: 619
-    commentsToLikes: 0.036413
-    id: ck1392eq3j6f90i190ww6jigh
-    verified: true
-    hashtags: ""
-  - username: "cesar_losparras"
-    fullname: >-
-      Cesar Parra 🎸
-    bio: >-
-      ®️OFICIAL VOZ🎙 y BAJOQUINTO 🎸 EN @losparras_official ®️ Ecuentra nuestra musica en todas las plataformas digitales !
-    location: "Argentina"
-    followers: 271700
-    engagement: 866
-    commentsToLikes: 0.025301
-    id: ck6u8ienzrro70j71vouzvqsn
-    verified: false
-    hashtags: "#swipeleft, #2021, #puracalidad, #tbt"
-  - username: "pau.armstrong"
-    fullname: >-
-      Pau Armstrong - Calalini
-    bio: >-
-      #GirlBoss at @mf.bondstreet Check my music💔 Backup @lil.shypau 23 #tvhost #tarotist #tattoo #artist #piercer pau.ladymaiden@gmail.com
-    location: "Argentina"
-    followers: 41216
-    engagement: 693
-    commentsToLikes: 0.014648
-    id: ck5qbqxydmz000i11fl1khwv5
-    verified: false
-    hashtags: "#manga, #cute, #inked, #anime"
-  - username: "jnicomelo"
-    fullname: >-
-      Nico Melo ( melojnico )
-    bio: >-
-      Músico -Productor musical @eltemploestudiooficial -1,7M en TikTok (@melojnico) -Percusionista en @mesavip.cumbia -NUEVO TEMA: FUEGO 🔥 ⬇️
-    location: "Argentina"
-    followers: 10702
-    engagement: 1094
-    commentsToLikes: 0.070936
-    id: ck9wdc53vezn00j78s8r45g5i
-    verified: false
-    hashtags: "#festego, #tab, #coro, #espuma"
-  - username: "nicogarro.ok"
-    fullname: >-
-      Nico Garro 🥵
-    bio: >-
-      🎬 18 🇦🇷 •Pianista •Productor Musical •Compositor
-    location: "Argentina"
-    followers: 59194
-    engagement: 1433
-    commentsToLikes: 0.024457
-    id: ck14lnktcvk890i198yfcbjqm
-    verified: false
-    hashtags: "#beat, #trapargentino, #music, #reels"
-  - username: "juanrodo.oficial"
-    fullname: >-
-      Juan Rodo
-    bio: >-
-      Cantante, Actor, Músico y Docente Amante del piano, la ópera y el Teatro Musical. -Director de @escuelajuanrodo -Eventos @onsetproducciones
-    location: "Argentina"
-    followers: 7802
-    engagement: 901
-    commentsToLikes: 0.094884
-    id: ck15usry5oe4e0i19mp7strgg
-    verified: false
-    hashtags: "#lunapark, #pianist, #encasa, #piano"
 ---

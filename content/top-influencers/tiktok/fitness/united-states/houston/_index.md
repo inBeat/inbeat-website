@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fitness TikTok Influencers In Houston In 2023
+title: Top 10 Fitness TikTok Influencers In Houston In 2024
 description: >-
-  Find top fitness TikTok influencers in Houston in 2023. Most popular hashtags: #fyp #houston #fitness #texas.
+  Find top fitness TikTok influencers in Houston in 2024. Most popular hashtags: #fyp #houston #fitness #foryoupage.
 platform: TikTok
-hits: 29
-text_top: Discover the most popular TikTok influencers on inBeat.
-text_bottom: Our database holds 29 TikTok influencers like this in Houston, United States for you to pitch.
+hits: 30
+text_top: Analyze the most popular TikTok influencers on inBeat.
+text_bottom: Our search engine holds 30 TikTok influencers like this in Houston, United States for you to work with.
 profiles:
   - username: "9mayraalejandra"
     fullname: >-
@@ -54,7 +54,7 @@ profiles:
     commentsToLikes: 0.032570
     id: cka0ouref5lfr0i7873cnwl9y
     verified: false
-    hashtags: "#houston, #houstontexas, #houstonfood, #houstontx"
+    hashtags: "#houston, #houstonfood, #houstontx, #houstontexas"
   - username: "bluebonnetsinthesummer"
     fullname: >-
       Edna A
@@ -91,18 +91,6 @@ profiles:
     id: ckbf7nxfhxm1o0j23atzndbpq
     verified: false
     hashtags: "#workout, #foryourpage, #gym, #fyp"
-  - username: "yogijaz"
-    fullname: >-
-      Yogi Jaz Porter
-    bio: >-
-      Instagram @ yogijazporter Houston Based International Yoga Entrepreneur
-    location: "United States"
-    followers: 12600
-    engagement: 909
-    commentsToLikes: 0.018132
-    id: ck9v5ssknznbe0j789p5m9qx1
-    verified: false
-    hashtags: "#naturalhair, #comedy, #yogachallenge, #fyp"
   - username: "spencer_sedillo"
     fullname: >-
       Spencer_sedillo
@@ -127,4 +115,16 @@ profiles:
     id: ckan20echy5jr0i78dfh9gbri
     verified: false
     hashtags: "#tiktoktrends, #preworkout, #top3, #fitness"
+  - username: "_sebasguio"
+    fullname: >-
+      Sebas 🇨🇴
+    bio: >-
+      I’m Sebas 🇨🇴 25 ♛ PO BOX: 667489 Houston, TX, 77266
+    location: "United States"
+    followers: 121100
+    engagement: 1285
+    commentsToLikes: 0.024333
+    id: ckacrmn4z64ua0i78tu5enrgb
+    verified: false
+    hashtags: "#badbunny, #latino, #gym, #jhaycortez"
 ---

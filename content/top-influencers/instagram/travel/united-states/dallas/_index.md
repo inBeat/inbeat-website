@@ -1,24 +1,48 @@
 ---
-title: Top 10 Travel Instagram Influencers In Dallas In 2023
+title: Top 10 Travel Instagram Influencers In Dallas In 2024
 description: >-
-  Find top travel Instagram influencers in Dallas in 2023. Most popular hashtags: #dallasblogger #travel #fashionblogger #dallas.
+  Find top travel Instagram influencers in Dallas in 2024. Most popular hashtags: #travel #dallas #liketkit #style.
 platform: Instagram
-hits: 272
-text_top: Discover the best Instagram accounts on inBeat.
-text_bottom: Our search engine has 272 Instagram influencers like this in Dallas, United States for you to work with.
+hits: 368
+text_top: Identify the most popular Instagram accounts on inBeat.
+text_bottom: Our platform has 368 Instagram influencers like this in Dallas, United States for you to collaborate.
 profiles:
-  - username: "missylynn"
+  - username: "bishopandholland"
     fullname: >-
-      MISSY LYNN 💋
+      Stia, Jean & Katherine
     bio: >-
-      Lifestyle | Beauty | Fashion | Travel Dallas, TX📍 Collabs 💌: info@mymissylynn.com
+      Fashion|Travel Dallas, TX | Mom, daughter + daughter-in-law 💌: hello@bishopandholland.com 📍: Dallas, TX
     location: "United States"
-    followers: 347366
-    engagement: 176
-    commentsToLikes: 0.020619
-    id: ck15rsobk9i360i19jjbx7r36
-    verified: true
-    hashtags: "#bathselfie, #missylynn, #pathforwardpsychics, #igdaily"
+    followers: 43255
+    engagement: 229
+    commentsToLikes: 0.076919
+    id: ck9wol3bz5l1n0j788vss715h
+    verified: false
+    hashtags: "#ltkholiday, #ltksalealert, #liketkit, #saks"
+  - username: "gingermarieblog"
+    fullname: >-
+      Ginger Marie Harper
+    bio: >-
+      sometimes I blog about FOOD | WELLNESS | TRAVEL + DALLAS Lactose Intolerant Pizza Lover 📧Hello@thegingermarieblog.com
+    location: "United States"
+    followers: 13634
+    engagement: 143
+    commentsToLikes: 0.100257
+    id: ckq0iviwgdhqf0j23duquz73o
+    verified: false
+    hashtags: "#oomination, #oomikitchen, #oomiverse, #catfish"
+  - username: "brandisoileau"
+    fullname: >-
+      Brandi Soileau
+    bio: >-
+      easy outfits• mom life• home• travel dallas, tx baby boy no. 2 on the way shop posts below:
+    location: "United States"
+    followers: 35194
+    engagement: 63
+    commentsToLikes: 0.043678
+    id: ckti08mu9ajzp0j23g4iymu5q
+    verified: false
+    hashtags: "#costcofinds, #summerdresses, #basicstyle, #targethome"
   - username: "anabeth.jpg"
     fullname: >-
       anabeth.jpg
@@ -31,18 +55,54 @@ profiles:
     id: ck5q8s75i7qp00i11ivduhogc
     verified: false
     hashtags: "#ltkcurves, #plussizefashion, #colorcrush, #xoq"
-  - username: "alexleivaaa"
+  - username: "heyangelagrace"
     fullname: >-
-      A.
+      Angela Varghese
     bio: >-
-      ▪️Dallas, Texas. ▪️Realtor • @alexleiva.realestate ▪️FREE apartment locating all over TX 📍
+      EVERYDAY CASUAL STYLE | Petite 5’2 Christ Follower•Wife•Tucker🐶 📍Dallas, TX 💌heyangelagrace@gmail.com Shop my looks👇🏼
     location: "United States"
-    followers: 7513
-    engagement: 1964
-    commentsToLikes: 0.030533
-    id: ckap33dzn1e550i78z4czbrq0
+    followers: 3262
+    engagement: 1159
+    commentsToLikes: 0.197157
+    id: ckaounbyz10pw0i78ioowg9rq
     verified: false
-    hashtags: "#travel, #dallasluxuryhomes, #dallasrealestate, #realestate"
+    hashtags: "#windsorambassador, #travel, #dallasblogger, #ootdstyle"
+  - username: "mikaelaa_markel"
+    fullname: >-
+      Mika
+    bio: >-
+      📍Dallas 💍 Wifey ✨Nutrition Guru 🏡 @dallasdreamhomes_
+    location: "United States"
+    followers: 35827
+    engagement: 64
+    commentsToLikes: 0.016127
+    id: ckapboigl0pdf0i78gumyuzjl
+    verified: false
+    hashtags: "#dallas, #kenya, #smikasaysido, #nairobi"
+  - username: "lettylong"
+    fullname: >-
+      Letty | Dallas Influencer
+    bio: >-
+      Obsessed with Tacos, Spicy Margaritas & Working Out 💌 letty_long@yahoo.com 📍Dallas Tx
+    location: "United States"
+    followers: 16682
+    engagement: 17
+    commentsToLikes: 0.092621
+    id: cl9x86z3nnw040i231p4i096a
+    verified: false
+    hashtags: "#minimalstyle, #chicstreetstyle, #dallas, #beachstyle"
+  - username: "perryhomesusa"
+    fullname: >-
+      Perry Homes
+    bio: >-
+      Largest woman-owned homebuilder. Committed to building quality, superior homes while providing first-class customer service. Discover our difference.
+    location: "United States"
+    followers: 43292
+    engagement: 33
+    commentsToLikes: 0.018975
+    id: clu24kkcxrgek0k08egjt1k9j
+    verified: false
+    hashtags: "#texas, #home, #newhome, #homedesign"
   - username: "viktoriavelika"
     fullname: >-
       Viktoria Anna V.
@@ -55,76 +115,16 @@ profiles:
     id: ck8taxf36th300j78bwngfh64
     verified: false
     hashtags: "#freckles, #florida, #nudemakeup, #bloggersre"
-  - username: "lyamariella"
+  - username: "fashionablylateboymom"
     fullname: >-
-      LYA | Lifestyle • Decor • Swim
+      Letty | DFW Influencer
     bio: >-
-      pronunciation: / Lee-ah / San Juan, PR | Los Angeles, CA | Dallas, TX📍 blogger + @caribumofficial co-founder
+      Fashion + Fitness + Food Obsessed with Tacos&Spicy Margaritas & Working Out 💌 Fashionablylateboymom@gmail.com 📍Dallas Tx
     location: "United States"
-    followers: 17164
-    engagement: 587
-    commentsToLikes: 0.083583
-    id: ck5causw6e69r0i11bhdhryh1
+    followers: 17993
+    engagement: 70
+    commentsToLikes: 0.320487
+    id: ck5qaykpxixhm0i11xg3o2xkk
     verified: false
-    hashtags: "#vacation, #fashionstyle, #blogger, #photooftheday"
-  - username: "thefunkgypsy"
-    fullname: >-
-      Michele Moss Design
-    bio: >-
-      🌿 Dallas Interior & Event Designer 💙 Featured Designer @houzz & @roomplays 🌿 Home Decor & Lifestyle 💙 San Diego, CA ——> Prosper, TX
-    location: "United States"
-    followers: 26069
-    engagement: 235
-    commentsToLikes: 0.274196
-    id: ck0vy969v2u8w0i19k0mgf73x
-    verified: false
-    hashtags: "#dustyblue, #dfw, #wainscoting, #wainscotting"
-  - username: "lifeofsmorris"
-    fullname: >-
-      
-    bio: >-
-      NYC | ATL Cuff Daddy Slim 🔌 •Events, Tours, Radio, interviews •MGMT, Marketing, Blogs and more •exec assist: @jbabe_hellenkeller
-    location: "United States"
-    followers: 24952
-    engagement: 142
-    commentsToLikes: 0.347749
-    id: ck5hlr5uqkpet0i118bkur8z5
-    verified: false
-    hashtags: "#events, #power, #event, #morbookings"
-  - username: "littlemixico"
-    fullname: >-
-      Dani Rios
-    bio: >-
-      Boss @brow.savior 💕 Im most likely exploring + eating somewhere. Mexico City ✈️ Dallas Travel. Beauty. Wellness. Weekly YT Videos
-    location: "United States"
-    followers: 28511
-    engagement: 234
-    commentsToLikes: 0.028355
-    id: ck13czyo52z9e0i1926i5vdah
-    verified: false
-    hashtags: "#latinablogger, #luxurylifestyle, #lightroompresets, #faithblogger"
-  - username: "bishopandholland"
-    fullname: >-
-      Stia, Jean & Katherine
-    bio: >-
-      Fashion|Travel|Baby Dallas, TX | Mom, daughter + daughter-in-law 💌: hello@bishopandholland.com 📍: Dallas, TX
-    location: "United States"
-    followers: 43113
-    engagement: 59
-    commentsToLikes: 0.061346
-    id: ck9wol3bz5l1n0j788vss715h
-    verified: false
-    hashtags: "#weekend, #ltkunder100, #saks, #summer"
-  - username: "dallasfoodwanderer"
-    fullname: >-
-      𝐒𝐀𝐑𝐈𝐀 | Dallas Food Wanderer 🌎
-    bio: >-
-      I came🚶🏼‍♀️I saw 🤳 I ate 👅 📍 | dallas & travel 👯‍♀️ | fill out form to collab ⬇️
-    location: "United States"
-    followers: 21068
-    engagement: 253
-    commentsToLikes: 0.106816
-    id: ck0w3er8vt17z0i19w116309e
-    verified: false
-    hashtags: "#hallartshotel, #designdistrict, #dallas, #gopuffpartner"
+    hashtags: "#travelblogger, #ltkswim, #chicago, #ltk"
 ---

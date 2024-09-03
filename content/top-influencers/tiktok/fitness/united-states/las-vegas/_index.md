@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fitness TikTok Influencers In Las Vegas In 2023
+title: Top 10 Fitness TikTok Influencers In Las Vegas In 2024
 description: >-
-  Find top fitness TikTok influencers in Las Vegas in 2023. Most popular hashtags: #fyp #fitness #lasvegas #foryoupage.
+  Find top fitness TikTok influencers in Las Vegas in 2024. Most popular hashtags: #fitness #fyp #lasvegas #foryoupage.
 platform: TikTok
-hits: 33
-text_top: See the top-rated TikTok profiles on inBeat.
-text_bottom: Our search engine holds 33 TikTok influencers like this in Las Vegas, United States for you to connect with.
+hits: 34
+text_top: Identify the best TikTok profiles on inBeat.
+text_bottom: Our database has 34 TikTok influencers like this in Las Vegas, United States for you to connect with.
 profiles:
   - username: "eduarduro1"
     fullname: >-
@@ -55,18 +55,6 @@ profiles:
     id: ckbwjunj03rb50j23ahs3ajsg
     verified: false
     hashtags: "#feature, #featureme, #fun, #food"
-  - username: "circus_ashleyaddison"
-    fullname: >-
-      Ashley Addison
-    bio: >-
-      33 ☺️ Aerialist 🙃 Las Vegas 🏜️ BLM ✊ LGBTQ 🏳️‍🌈
-    location: "United States"
-    followers: 9525
-    engagement: 782
-    commentsToLikes: 0.028300
-    id: ckce1c843i6wn0j232ehdieie
-    verified: false
-    hashtags: "#fitness, #fyp, #foryou, #lol"
   - username: "sarahromanowsky"
     fullname: >-
       Sarah Romanowsky
@@ -78,7 +66,7 @@ profiles:
     commentsToLikes: 0.007882
     id: ckcughpc9f66i0j23u63uo57u
     verified: false
-    hashtags: "#dancer, #bungee, #foryou, #aerialhammock"
+    hashtags: "#trapeze, #aerialsilks, #aerialhoop, #acrobatics"
   - username: "trumpichiropractic"
     fullname: >-
       Dr. Mary Trumpi
@@ -91,6 +79,18 @@ profiles:
     id: ckb9pznb4llcz0j23pzkmgfn8
     verified: false
     hashtags: "#science101, #fitnesslife, #lifestyle, #learnwithme"
+  - username: "circus_ashleyaddison"
+    fullname: >-
+      Ashley Addison
+    bio: >-
+      34 ☺️ Aerialist 🙃 Las Vegas 🏜️ BLM ✊ LGBTQ 🏳️‍🌈
+    location: "United States"
+    followers: 9508
+    engagement: 841
+    commentsToLikes: 0.031148
+    id: ckce1c843i6wn0j232ehdieie
+    verified: false
+    hashtags: "#lol, #lasvegas, #foryou, #girl"
   - username: "lourenco_"
     fullname: >-
       Chris Lourenco
@@ -126,5 +126,5 @@ profiles:
     commentsToLikes: 0.015411
     id: ck90xysxy8kau0j78gwwflawx
     verified: false
-    hashtags: "#vegas, #nyc, #model, #lips"
+    hashtags: "#photoshoot, #lips, #model, #vegas"
 ---

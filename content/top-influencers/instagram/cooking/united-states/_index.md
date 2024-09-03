@@ -1,130 +1,130 @@
 ---
-title: Top 10 Cooking Instagram Influencers In United States In 2023
+title: Top 10 Cooking Instagram Influencers In United States In 2024
 description: >-
-  Find top cooking Instagram influencers in United States in 2023. Most popular hashtags: #food #foodblogger #delicious.
+  Find top cooking Instagram influencers in United States in 2024. Most popular hashtags: #easyrecipes #healthyrecipes #foodreels #gifted.
 platform: Instagram
-hits: 9676
-text_top: Identify the top-rated Instagram influencers on inBeat.
-text_bottom: inBeat holds 9676 Instagram influencers like this in United States for you to pitch.
+hits: 10331
+text_top: Discover the best Instagram profiles on inBeat.
+text_bottom: Our database aggregates 10331 Instagram influencers like this in United States for you to pitch.
 profiles:
-  - username: "keepyourdaydream"
+  - username: "hellooo_steph"
     fullname: >-
-      Marc & Tricia
+      Steph Contreras
     bio: >-
-      Start small Start now! Travel 🚎 Family 💙 Cooking 📽 Feel good stories every Sunday! keepyourdaydream
+      🥑 home cooking + local eats 🥐 comfort foods + desserts 📍 sf bay area 👇 find me on TikTok!
     location: "United States"
-    followers: 108038
-    engagement: 398
-    commentsToLikes: 0.026737
-    id: ck5c6lbpk5odp0i11c916hvr8
+    followers: 8009
+    engagement: 1247
+    commentsToLikes: 0.298722
+    id: clgcjp82qkd7n0j08b9vvdu00
     verified: false
-    hashtags: "#airstream, #nationalpark, #rvlife, #bicycletouring"
-  - username: "addisonbounds12"
+    hashtags: "#eatprettythings, #gifted, #easyrecipe, #comfortfood"
+  - username: "thephillykitchen"
     fullname: >-
-      Addison Bounds
+      YO ADRIANE!
     bio: >-
-      Professional IG Husband @bicahbody & @bicahbychloe Tik Tok: cooking4wifey • links to my things and stuff 👇🏻•
+      Home cook in Philadelphia and Sullivan Catskills Fried chicken enthusiast 🍗 Cooking what’s on sale or in my CSA
     location: "United States"
-    followers: 14876
-    engagement: 1080
-    commentsToLikes: 0.011412
-    id: clbetzmcb0r3t0j08mxqhpnnc
+    followers: 5682
+    engagement: 555
+    commentsToLikes: 0.118490
+    id: ck8t92eg6mptn0j78571my21j
     verified: false
-    hashtags: "#thrivemarketpartner, #primalkitchen, #mealprep"
-  - username: "livingoutlaod"
+    hashtags: "#salad, #phillyfoodie, #thephillykitchen, #phillyfoodblogger"
+  - username: "gdillon2"
     fullname: >-
-      Living Out LAOD
+      Gabrielle Dillon
     bio: >-
-      LAODLY🇱🇦sharing authentic life moments on Lao cuisine, culture, language, family, cooking, eating, hosting, entertaining, home, garden, travel, tips.
+      wife to @ajdillon2 + boy mom lifestyle | family | fashion | cooking 💌: gtoonen@me.com 🍽️: @diningwiththedillons tik tok, shop my feed & codes👇
     location: "United States"
-    followers: 43353
-    engagement: 311
-    commentsToLikes: 0.045932
-    id: ck1345956urom0i19nbiqdfpx
+    followers: 31232
+    engagement: 797
+    commentsToLikes: 0.009095
+    id: clbgczgi22ndq0j08mpczlblt
     verified: false
-    hashtags: "#laofood, #laocuisine, #somtum, #reels"
-  - username: "theshellfishcook"
+    hashtags: "#babymoon, #pregnancy, #recipes, #pregnant"
+  - username: "cynthiavanis"
     fullname: >-
-      The Shellfish Cook 🦞
+      Cynthia Vanis ✂️🤍
     bio: >-
-      Sup. I’m Theye (like who are THEY). People call me the seafood 👸🏻. @cookingwithpitties 🐾
+      Celebrity hairstylist from California living in brooklyn raising a city kid! Clean beauty advocate, home decor lover and some home cooking.
     location: "United States"
-    followers: 166297
-    engagement: 238
-    commentsToLikes: 0.017706
-    id: cl0c03ld7ezf10i23toba6hl8
+    followers: 16959
+    engagement: 9101
+    commentsToLikes: 0.105575
+    id: cl6k05o62jg210i23svqycpe8
     verified: false
-    hashtags: "#dog, #crab, #meat, #reelsvideo"
-  - username: "doroteamercuri"
+    hashtags: "#notokaymovie, #dylanobrien, #zoeydeutch, #sagaftrastrike"
+  - username: "flywith_savannah"
     fullname: >-
-      Dorotea Mercuri
+      Savannah
     bio: >-
-      Remember, everyone needs help. 🐈 #cookingwithdoro
+      #cabincrew #cooking ❗️沒有其他帳號❗️ E-mail:Savannah54177@gmail.com
     location: "United States"
-    followers: 98206
-    engagement: 215
-    commentsToLikes: 0.013738
-    id: ck13d202w39gh0i19kkdhb42j
+    followers: 43125
+    engagement: 446
+    commentsToLikes: 0.040824
+    id: ck13bppx5wksw0i191stepak4
     verified: false
-    hashtags: "#focacciapomodorini, #petekreiner, #sagapopolli, #globalwarming"
-  - username: "middleclassmamma"
+    hashtags: "#bangkok, #japan, #travel, #cabincrew"
+  - username: "lilmissgurung"
     fullname: >-
-      Home Build • Lifestyle • Parenting • Decor
+      Shraddha Gurung
     bio: >-
-      All things motherhood• travel•cooking Dm for PR inquiries 📸
+      Beauty, Fashion, Dancing and Comfort Cooking❤️ Forbes 100 Digital Stars 2023 ✨ Work : teamlilmissgurung@gmail.com
     location: "United States"
-    followers: 101253
-    engagement: 205
-    commentsToLikes: 1.223058
-    id: ckt8qsfd668o50j23l0a2c3fz
+    followers: 253899
+    engagement: 729
+    commentsToLikes: 0.017993
+    id: ck0u29uuezd4i0i196xkh3oi8
     verified: false
-    hashtags: "#homebuild, #dreamhomebuild, #nordicnaturals, #custombuild"
-  - username: "cheeky_bbq"
+    hashtags: "#bikinibody, #sareestyle, #sittingchoreography, #saree"
+  - username: "claybourneelder"
     fullname: >-
-      Noah Cheek | BBQ | Food | PDX
+      Claybourne Elder
     bio: >-
-      Cheeky BBQ by Noah Cheek Cooking | BBQ | Bourbon | Beer Partner: @aspirebyhestan 🌹Portland, OR
+      Dad 🏳‍🌈 NYC - Broadway - DIY - Cooking @gildedagehbo @companybway The Gilded Age on HBO & Company on Broadway
     location: "United States"
-    followers: 34675
-    engagement: 159
-    commentsToLikes: 0.082397
-    id: ck0w12paeh9q10i19knr6v8pj
-    verified: false
-    hashtags: "#omahasteaks, #mastersofsmoke, #masterbuilt, #omahasteaksambassador"
-  - username: "cookingwithalia"
+    followers: 70136
+    engagement: 463
+    commentsToLikes: 0.028199
+    id: ck8wg4afzgpnw0j788lx9ar7m
+    verified: true
+    hashtags: "#broadwayandvine, #basquiat, #thegildedagehbo"
+  - username: "_cookingwithconstance_"
     fullname: >-
-      Alia Al Kasimi
+      Constance | Your Favorite Vegan Cousin 👭🏾
     bio: >-
-      Flavors of Morocco & beyond نكهات مغربية وأكثر 🍽✈️ 🎬 YT & Facebook: CookingWithAlia ✉️ alia.alkasimi@gmail.com 👇Download Carrefour booklet free
+      🌱 here to help you eat more plants 👩🏾‍🍳 recipes • wellness tips • faith • fun(ny) stuff 💌 cookingwithconstance@gmail.com for collabs
     location: "United States"
-    followers: 190819
-    engagement: 51
-    commentsToLikes: 0.014508
-    id: ck15u9zxwm5j50i19bgpvmxbe
+    followers: 15975
+    engagement: 849
+    commentsToLikes: 0.087851
+    id: ckz42cfzo6fpe0j23or20um92
     verified: false
-    hashtags: "#love, #salad, #recipe, #morocco"
-  - username: "helia_saffar"
+    hashtags: "#cookingwithconstance, #dairyfreerecipes, #vegansoulfood, #veganuary2023"
+  - username: "everytastybite"
     fullname: >-
-      هلیا صفار🍝
+      Vivi | gluten & dairy free
     bio: >-
-      🍃💛 Cooking Is My Therapy💜🍃 👩🏻‍🍳👩🏻‍🍳Graduated in culinary Founder of @heli.home هماهنگی تبلیغات:👇🏼 (@cooperation_heliasaffar)
+      wife & mom of 2 food is my love language❤️ home cooking👩🏻‍🍳 recipes📝 food photography📸 📍orange county, ca
     location: "United States"
-    followers: 114879
-    engagement: 1045
-    commentsToLikes: 0.027380
-    id: ck0w6s02ja0k60i19p5r9sb6h
+    followers: 13060
+    engagement: 1754
+    commentsToLikes: 0.059100
+    id: clc0qpen2inz80j087rk8yu6g
     verified: false
-    hashtags: ""
-  - username: "trout_in_the_valley"
+    hashtags: "#senzaglutine, #lactoseintolerant, #sproutsfarmersmarket, #dessertlover"
+  - username: "bonitajoo"
     fullname: >-
-      Hook Em' And Cook Em'
+      joana g
     bio: >-
-      Lehigh Valley,Pa📌Fishing,Hunting,Cooking,and Everything Outdoors. 🎣🏹🦌🦃🌄Page Owner:@g__achi.
+      God I need you🙏 Fashion, makeup, cooking bring me ☮️
     location: "United States"
-    followers: 8784
-    engagement: 1189
-    commentsToLikes: 0.093133
-    id: ck6tzs7i7bjt80j71u8rqddde
+    followers: 25055
+    engagement: 449
+    commentsToLikes: 0.027696
+    id: ckxespfel4gsv0j23s6v2h421
     verified: false
-    hashtags: "#hunting, #outdoors, #fishingislife, #fishing"
+    hashtags: "#getreadywithme, #explorepg, #bottomlessmimosas, #morphesweettea"
 ---

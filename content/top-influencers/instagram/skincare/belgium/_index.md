@@ -1,24 +1,48 @@
 ---
-title: Top 10 Skincare Instagram Influencers In Belgium In 2023
+title: Top 10 Skincare Instagram Influencers In Belgium In 2024
 description: >-
-  Find top skincare Instagram influencers in Belgium in 2023. Most popular hashtags: #skincare #nakdfashion #benakd #belgianblogger.
+  Find top skincare Instagram influencers in Belgium in 2024. Most popular hashtags: #skincare #love #summervibes #fashionstyle.
 platform: Instagram
-hits: 12
-text_top: Identify the top-rated Instagram profiles on inBeat.
-text_bottom: inBeat holds 12 Instagram influencers like this in Belgium for you to work with.
+hits: 29
+text_top: See the top-rated Instagram profiles on inBeat.
+text_bottom: Our search engine aggregates 29 Instagram influencers like this in Belgium for you to pitch.
 profiles:
-  - username: "maureennaudts"
+  - username: "by.celiadb"
     fullname: >-
-      Maureen Alexandra Naudts
+      Célia de Bruyker
     bio: >-
-      ► Make-Up Artist ► Antwerp, BE 📍 ► @thebloggeragent ► COLLABS/PR 📩 : info@maureennaudts.com
+      social media manager & photographer skincare account @thevisualregister Tall girl & mum of @sam_thecockerspaniell . . . . BE0761977857
     location: "Belgium"
-    followers: 582367
-    engagement: 570
-    commentsToLikes: 0.005702
-    id: ck0w050gmceps0i195vhirzz6
+    followers: 27535
+    engagement: 32
+    commentsToLikes: 0.035794
+    id: ckaoypkujiie90i78hfigdh1p
     verified: false
-    hashtags: "#thebump, #bumpdated, #skincare, #makeupreels"
+    hashtags: "#belgianinfluencer, #creativegalgang, #connectingcreativecuties, #belgianblogger"
+  - username: "norajoyness"
+    fullname: >-
+      Nora  🤍
+    bio: >-
+      FASHION~BEAUTY~LIFESTYLE 💄Beauty consultant @guerlain 📍Bruxelles Belgium Retrouvez tous mes liens ⤵️
+    location: "Belgium"
+    followers: 9466
+    engagement: 834
+    commentsToLikes: 0.270947
+    id: ck9wdomcogjpi0j78zjbf0hnj
+    verified: false
+    hashtags: "#luxurybrand, #concoursfrance, #prozis, #concoursbeaute"
+  - username: "mandisfashionworld"
+    fullname: >-
+      SOPHIE MANDI
+    bio: >-
+      Fashion lover Mom of two ♡ Living in Belgium VAT on my website
+    location: "Belgium"
+    followers: 93201
+    engagement: 325
+    commentsToLikes: 0.348456
+    id: ck55msmse4ols0i11ev3mett4
+    verified: false
+    hashtags: "#outfitinspiration, #skincare, #girlsgoneloavies, #fashionkids"
   - username: "ella_fairytale"
     fullname: >-
       Anca Moraru
@@ -31,100 +55,76 @@ profiles:
     id: ck0vva5e2o8240i19rlegpkyj
     verified: false
     hashtags: "#discoverunder17k, #skincareroutine, #yvesrocher, #goodvibesonly"
-  - username: "monicalopez_x"
+  - username: "joli_laur"
     fullname: >-
-      Monica Lopez
+      Laurette Jolivot
     bio: >-
-      Belgium, EU | 21 | Madly in love @livioolivieri 🤍 Student marketing and communication ✉️ lopezmonica99@hotmail.com
+      BEAUTY - FASHION - TRAVEL & GOOD VIBES🤍 Belgique | Maroc | France Contact: jolivot.laurette@gmail.com
     location: "Belgium"
-    followers: 5110
-    engagement: 781
-    commentsToLikes: 0.101748
-    id: ck8t2bhdnyug50j78nrybejwd
+    followers: 15344
+    engagement: 1070
+    commentsToLikes: 0.013085
+    id: cl9xi5woxo4bw0i23y4j9sls3
     verified: false
-    hashtags: "#benakd, #belgianblogger, #idealofsweden, #loavies"
-  - username: "janiceracaj"
+    hashtags: "#maison123, #summer, #smallluxuryhotels, #thedominican"
+  - username: "sixobject"
     fullname: >-
-      FINALISTE MISS FASHION 2022 🦋
+      NOVA W.
     bio: >-
-      🇧🇪🇽🇰, Belgium based 📖| Real estate student 📧| janice.racaj@gmail.com 🤍| Finaliste Miss Fashion 2021-2022
+      BA Photography MA Cultural Studies creation + curation 🄾🄱🄹🄴🄲🅃🅂 of my affection & fascination 🤍🪐🍸🐩 ⠀ ✈︎: 37 countries visited
     location: "Belgium"
-    followers: 7989
-    engagement: 657
-    commentsToLikes: 0.397008
-    id: ckf5sbvnuf7aa0j23diw9a5hu
+    followers: 11545
+    engagement: 1328
+    commentsToLikes: 0.225513
+    id: cld8ldtjgdfpj0j08pp9d6g20
     verified: false
-    hashtags: "#loavies, #aexme, #girlsgoneloavies, #strongersweden"
-  - username: "cindyvandyck"
+    hashtags: "#love, #aestheticedits, #gemstones, #brusselsexhibition"
+  - username: "oliviatps"
     fullname: >-
-      CINDY |  BELGIAN CREATOR
+      Olivia Anna-Catharina T
     bio: >-
-      ⚡️ Not your average 90’s gal Addicted to creating content and neutral colors Founder of @blogzine.be & @blogzineacademy 📧 blogzinebe@gmail.com
+      • Everyday fashion, beauty and hair • Next 🌎 Spain 🇪🇸 • oliviatps@listheagency.com • Brussels & Antwerp, Belgium 📍
     location: "Belgium"
-    followers: 61276
-    engagement: 128
-    commentsToLikes: 0.115037
-    id: ck136prvz7nx70i19w0eu2grm
+    followers: 231095
+    engagement: 794
+    commentsToLikes: 0.015348
+    id: ck0tu6nsp5ve20i19a7a16cyc
     verified: false
-    hashtags: "#casualoutfits, #detailsoftheday, #zebsquad, #nakdfashion"
-  - username: "xazulyaa"
+    hashtags: "#summerinthecity, #ootdmagazine, #chaneldenim, #streetstylelook"
+  - username: "larissadc"
     fullname: >-
-      ХАЗУЛЯ
+      Larissa de Castro
     bio: >-
-      💄MakeUp|Beauty 💌PR: xazulyaa@gmail.com 📍Belgium🇧🇪|Ингушетия🇷🇺
+      ✧ Belgian girl with Spanish blood ♡ Anna Giulia’s mom, baby #2 on the way 💕 ♡ Owner @maison28.be ♡ Traveling ✧ Ambassador @xotopremiumcars
     location: "Belgium"
-    followers: 81076
-    engagement: 31
-    commentsToLikes: 0.039914
-    id: ck15sx9o3f9np0i19bmuh27wg
+    followers: 35727
+    engagement: 369
+    commentsToLikes: 0.028422
+    id: ck5c2dbt8x16u0i1192qksatn
     verified: false
-    hashtags: "#benefit, #gerardcosmetics, #iconicbae, #kyliecosmetics"
-  - username: "naturellebynatalia"
+    hashtags: "#mom, #suncare, #collistar, #product"
+  - username: "funny_love_nanou"
     fullname: >-
-      Naturelle by Natalia
+      Nadia Pirard🔆 | 𝐋𝐢𝐟𝐞𝐬𝐭𝐲𝐥𝐞
     bio: >-
-      ♡sugar free is The New Black♡📚 nutrition♡freelance food stylist & recipe developer♡ceramics, soaps♡traveller(39 countries so far) Belgium
+      ⇢ 𝐅𝐚𝐦𝐢𝐥𝐲 𝐎𝐟 5 𝐟𝐫𝐨𝐦 𝐁𝐞𝐥𝐠𝐢𝐮𝐦 ♡ 𝐑𝐞𝐚𝐥 𝐦𝐨𝐦𝐥𝐢𝐟𝐞 ✸ 𝐆𝐢𝐯𝐞𝐘𝐨𝐮 𝐎𝐧𝐥𝐲 𝐆𝐨𝐨𝐝𝐕𝐢𝐛𝐞𝐬 ▧ @bonjour_maison_k BE 0781.683.111
     location: "Belgium"
-    followers: 11614
-    engagement: 590
-    commentsToLikes: 0.208017
-    id: ck5c0dklqsxlt0i115g2doh5u
+    followers: 10810
+    engagement: 352
+    commentsToLikes: 0.096417
+    id: ck8swosm4er1p0j783h0tmnqb
     verified: false
-    hashtags: "#beautyofstillmoments, #f52grams, #still, #prettylittlethings"
-  - username: "rosalia_guzman_9"
+    hashtags: "#mamanbelge, #makeitanoccasion, #jbcfamily, #photodefamille"
+  - username: "katinkakempeneers"
     fullname: >-
-      Rosalía Guzmán
+      Model | Katinka Kempeneers🌺
     bio: >-
-      » Freelance Influencer | Visual Content & Branding » Lifestyle, Beauty Addict & Fashion Lover » Collabs? r.guzmanromero@hotmail.com
+      ♡Content Creator|Freelance Model 📩 Inspo ♡ Lifestyle x Travel x Fashion x Animals 🌸TIKTOK 11K @leolive Katinka10 Portfolio📸👇🏻
     location: "Belgium"
-    followers: 14096
-    engagement: 809
-    commentsToLikes: 0.137622
-    id: ckf5pg6fg5zmc0j23rclhsrdx
+    followers: 18024
+    engagement: 293
+    commentsToLikes: 0.205117
+    id: ck8t42efv59gc0j78s8ent8a2
     verified: false
-    hashtags: "#belgianinfluencer, #yesnakd, #microinfluencer, #influencerbelgium"
-  - username: "zoebizoe"
-    fullname: >-
-      Zoe Bizoe 💋 Cabaresque 🏳️‍🌈Pan
-    bio: >-
-      International Comedy & Burlesque Artist. Show producer 👯👯‍♂️ Winner of 7 international titles at 5 Burlesque festivals in only 14 months 🏆 🧬: 🇧🇪🇬🇷🇮🇪🇮🇹
-    location: "Belgium"
-    followers: 7435
-    engagement: 565
-    commentsToLikes: 0.076160
-    id: ck8t0ga89ryow0j788ydhxz44
-    verified: false
-    hashtags: "#burlesque, #featherfans, #plantmilk, #showgirl"
-  - username: "kenzovl"
-    fullname: >-
-      Kenzo Van Laeken
-    bio: >-
-      Bearded Belgian Beauty content creater⚡️Aquarius Can’t get enough? Here’s the link to my youtube channel!
-    location: "Belgium"
-    followers: 6634
-    engagement: 582
-    commentsToLikes: 0.182907
-    id: ck9wd1dbcdmeq0j78g7j3rtjo
-    verified: false
-    hashtags: "#wakeupandmakeup, #nyxcosmetics, #parfuma, #iciparisxlexclusive"
+    hashtags: "#magazine, #city, #christmas, #photo"
 ---

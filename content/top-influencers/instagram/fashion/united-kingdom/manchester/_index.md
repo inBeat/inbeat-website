@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Manchester In 2023
+title: Top 10 Fashion Instagram Influencers In Manchester In 2024
 description: >-
-  Find top fashion Instagram influencers in Manchester in 2023. Most popular hashtags: #fashion #fashionblogger #manchester.
+  Find top fashion Instagram influencers in Manchester in 2024. Most popular hashtags: #grwmreel #fashion #summeroutfitideas #manchesterfashion.
 platform: Instagram
-hits: 90
-text_top: Identify the top-rated Instagram influencers on inBeat.
-text_bottom: Our database aggregates 90 Instagram influencers like this in Manchester, United Kingdom for you to connect with.
+hits: 171
+text_top: Analyze the top-rated Instagram profiles on inBeat.
+text_bottom: Our database has 171 Instagram influencers like this in Manchester, United Kingdom for you to connect with.
 profiles:
   - username: "leotobyandme"
     fullname: >-
@@ -18,19 +18,7 @@ profiles:
     commentsToLikes: 0.069413
     id: ck9h9tdkp9w420j78qzvl6ug7
     verified: false
-    hashtags: "#love, #thehappynow, #mummyinfluencer, #mrshinch"
-  - username: "renukapraveen"
-    fullname: >-
-      Renuka Praveen
-    bio: >-
-      Founder & Owner South India’s 1st @thelashstudio.in Mum | Entrepreneur | Influencer Manchester 🇬🇧| Chennai 🇮🇳 Collabs 📧 : dprenuka2004@gmail.com
-    location: "United Kingdom"
-    followers: 51012
-    engagement: 562
-    commentsToLikes: 0.025979
-    id: ck6u23br6pgxh0j71y14nc44p
-    verified: false
-    hashtags: "#fashioninspo, #trending, #londonlife, #manchesterpr"
+    hashtags: "#letthembelittle, #mummybloggeruk, #ukmumsquad, #brothers"
   - username: "gilberttelevision"
     fullname: >-
       Gilbert Hammond
@@ -43,42 +31,90 @@ profiles:
     id: ck55pl72basie0i112zohwrk5
     verified: false
     hashtags: "#christmaslights, #autumncolours, #globalengagementprogramme, #dopeports"
+  - username: "charlieedwardsmua"
+    fullname: >-
+      Charlie Edwards Makeup Artist
+    bio: >-
+      PROFESSIONAL MAKEUP ARTIST Campaign | E-Com | Shoots | Appointments ✉️charlieedwardsmua@outlook.com
+    location: "United Kingdom"
+    followers: 8300
+    engagement: 319
+    commentsToLikes: 0.043467
+    id: ck5cbljh8fohk0i11tbkj8vt2
+    verified: false
+    hashtags: "#worldwidemua, #makeupartist, #manchestermua, #ecom"
+  - username: "chelseadeon"
+    fullname: >-
+      Chelsea Deon
+    bio: >-
+      A petite person who likes putting outfits together💅🏾 📩: chelsea.deon@outlook.com
+    location: "United Kingdom"
+    followers: 8890
+    engagement: 196
+    commentsToLikes: 0.032132
+    id: cl088gq5pakn50i235wsugpos
+    verified: false
+    hashtags: "#melaninfeed, #100flavoursuk, #lookoftheday, #gifted"
+  - username: "ellenbrockygirl"
+    fullname: >-
+      Ellen Brockbank
+    bio: >-
+      📍Manchester. Fashion with a hint of beauty and interior. Interior account: @ellenbrockyhome. Contact: ellen@live.co.uk
+    location: "United Kingdom"
+    followers: 116728
+    engagement: 334
+    commentsToLikes: 0.014407
+    id: ck5zoywb4rnc90i14ua9qlhfl
+    verified: false
+    hashtags: "#zarajacket, #liveeverymoment, #drinkresponsibly, #zara"
+  - username: "jordanbunker"
+    fullname: >-
+      Jordan Bunker
+    bio: >-
+      Menswear, photo taker, blogger (kind of) Interested in responsible + slow fashion💚 — Manchester jordanbunkerblog@gmail.com
+    location: "United Kingdom"
+    followers: 28625
+    engagement: 143
+    commentsToLikes: 0.063191
+    id: ck0u0hakptog40i19idyqs4xy
+    verified: false
+    hashtags: "#engineeredgarments, #dontjusttakegive, #districtvision, #mensweardaily"
   - username: "oliviacharlotteburton"
     fullname: >-
       Olivia Burton
     bio: >-
       Fashion + Styling Manchester | UK ✉️ oliviaburtoncollab@gmail.com Other platforms linked here:
     location: "United Kingdom"
-    followers: 247830
-    engagement: 175
-    commentsToLikes: 0.012833
+    followers: 259821
+    engagement: 104
+    commentsToLikes: 0.006758
     id: ckxz760i2doa10j231sy4ppjb
     verified: false
-    hashtags: "#nyedress, #partydresses, #getreadywithme, #partyfashion"
-  - username: "ellenbrockygirl"
+    hashtags: "#midiskirt, #summeroutfitideas, #summerdresses, #grwmreel"
+  - username: "beautybyrobina"
     fullname: >-
-      Ellen Brockbank
+      Robina| Content Creator| UGC Creator
     bio: >-
-      📍Manchester. Fashion with a hint of beauty and interior. Interior account: @ellenbrockyhome. @blok ambassador. Contact: ellen@live.co.uk
+      Beauty| Fashion| Lifestyle Manchester email: beautybyrobina19@gmail.com LookFantastic: LFTFROBINA 20%
     location: "United Kingdom"
-    followers: 88359
-    engagement: 200
-    commentsToLikes: 0.036791
-    id: ck5zoywb4rnc90i14ua9qlhfl
+    followers: 37024
+    engagement: 67
+    commentsToLikes: 0.035240
+    id: ckxledbjs833q0j23pdzmxpyi
     verified: false
-    hashtags: "#zaratrousers, #zarafashion, #epicpartner, #ad"
-  - username: "beckyloubutton"
+    hashtags: "#sareelove, #getreadywithme, #makeupideas, #makeuplover"
+  - username: "shan_mcconnell"
     fullname: >-
-      Becky Lou Button
+      Shannon McConnell
     bio: >-
-      be kinder than necessary 🌱 (she / her) size 14 - 18 fashion 🤍 manchester 📍🏳️‍🌈 beckyloubutton@gmail.com ✉️
+      Manchester Fashion, makeup & hair styling MUA & Body Painter - @shannonmcconnellartistry Brand Enquiries - Please Click Email Link Below
     location: "United Kingdom"
-    followers: 58418
-    engagement: 177
-    commentsToLikes: 0.041184
-    id: ck5c0vmm7txfa0i11qgnosg5c
+    followers: 17233
+    engagement: 51
+    commentsToLikes: 0.016785
+    id: ck6u3ptp5z6ld0j716077a2wr
     verified: false
-    hashtags: "#nastygalsdoitbetter, #wearereal, #wearecurves, #feelingplayful"
+    hashtags: "#boohoobabes, #monochromefashion, #transitionaloutfit, #casualoutfitideas"
   - username: "gracehargs"
     fullname: >-
       Grace Hargreaves
@@ -91,40 +127,4 @@ profiles:
     id: ckf5lees4pabg0j23m7yxi9wq
     verified: false
     hashtags: "#ootd, #fashioninsta, #style, #happy"
-  - username: "evaella_beauty"
-    fullname: >-
-      hijab
-    bio: >-
-      Mom of two girls👩‍👧‍👧 Lifestyle, fashion, beauty, cosmetics 📍Halifax West Yorkshire 🇬🇧
-    location: "United Kingdom"
-    followers: 123467
-    engagement: 114
-    commentsToLikes: 0.047060
-    id: ckaou7w9bz70l0i780y123mjt
-    verified: false
-    hashtags: "#morocco, #instagram, #momoftwo, #hijab"
-  - username: "monika_d98"
-    fullname: >-
-      MONIKA | neutral style inspo
-    bio: >-
-      🇮🇹🇵🇱 in Manchester • Everyday fashion, styling & lifestyle • Depop: monika_d98 📧 : moniketta98@gmail.com
-    location: "United Kingdom"
-    followers: 5232
-    engagement: 920
-    commentsToLikes: 0.204874
-    id: ck55mwudw500g0i11vdnvq72o
-    verified: false
-    hashtags: "#rebelgal, #vivichigals, #missguided, #naploungewear"
-  - username: "rosieannbutcher"
-    fullname: >-
-      Rosie Ann Butcher
-    bio: >-
-      Life of a fashion & portrait photographer in Manchester, UK 📷@rosiebutcherphoto 💌rosie@ddapr.com ⬇️tap for outfit inspo, blog posts & photography
-    location: "United Kingdom"
-    followers: 110311
-    engagement: 175
-    commentsToLikes: 0.012171
-    id: ck0u0haoztoig0i19wk5wqadh
-    verified: false
-    hashtags: "#48hsweatandodourprotection, #summerdresses, #odourprotection, #summer"
 ---

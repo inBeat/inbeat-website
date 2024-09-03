@@ -1,36 +1,24 @@
 ---
-title: Top 10 Christian Instagram Influencers In South Africa In 2023
+title: Top 10 Christian Instagram Influencers In South Africa In 2024
 description: >-
-  Find top christian Instagram influencers in South Africa in 2023. Most popular hashtags: #love #blessed #faith.
+  Find top christian Instagram influencers in South Africa in 2024. Most popular hashtags: #blessed #lifeisgood #love.
 platform: Instagram
-hits: 19
-text_top: Analyze the most popular Instagram profiles on inBeat.
-text_bottom: Our database holds 19 Instagram influencers like this in South Africa for you to pitch.
+hits: 16
+text_top: See the most popular Instagram accounts on inBeat.
+text_bottom: Our database aggregates 16 Instagram influencers like this in South Africa for you to contact.
 profiles:
-  - username: "karlobaker"
+  - username: "siyakolisi"
     fullname: >-
-      Karlo Baker
+      Siya Kolisi
     bio: >-
-      🔥Chat @ CAMEO👇 📕 Men's Lifestyle, Fashion & Travel Blog 💻 Entrepreneur|PublicSpeaker|Advocate 🗣 Face of #Nero in #devilmaycry5 ✝️ Christian 📍Cape Town
+      Christian Husband Father @adidas athlete 👟 Co-founder: @kolisi_foundation @rocnationsi | info@siyakolisi.co.za Twitter @SiyaKolisi
     location: "South Africa"
-    followers: 45284
-    engagement: 286
-    commentsToLikes: 0.049609
-    id: ck6tpfsiyjmb60j71epp6drpu
-    verified: false
-    hashtags: "#truewisdom, #behindthescenes, #nofilter, #pain"
-  - username: "nikuslourens"
-    fullname: >-
-      Nikus Lourens
-    bio: >-
-      God > Your problems I make videos 🎥⬇️⬇️ Christian✝️ South African🇿🇦 ❤️ @chanelle_maritz
-    location: "South Africa"
-    followers: 44523
-    engagement: 1067
-    commentsToLikes: 0.006367
-    id: ck9wd7wkneh360j78b9u4fahf
-    verified: false
-    hashtags: "#gymmemes, #homeworkout, #photoideas, #natureposes"
+    followers: 1057024
+    engagement: 538
+    commentsToLikes: 0.009160
+    id: ck0w0j1z5eghq0i19p8khdypl
+    verified: true
+    hashtags: "#smarter, #gobos, #bosicetea, #tea"
   - username: "heartofhorton"
     fullname: >-
       Cassie Horton
@@ -43,42 +31,18 @@ profiles:
     id: ck0vvm3axpq0g0i19nx2og7sz
     verified: false
     hashtags: "#batucaves, #healthyhabits, #namethatlyric, #merryandbright"
-  - username: "jesseleepeterson"
+  - username: "_twinfluencers"
     fullname: >-
-      Rev. Jesse Lee Peterson
+      Liselle & Lisette So-oabes
     bio: >-
-      Founder of BOND @Rebuildingtheman Radio/TV Host, Pastor, Counselor, Author & Activist Not "African-American" I’m 💯🇺🇸 JLP Show Mon-Fri 6-9am PT
+      🏆 Winning Bloggers| Digital Strategists| Travel Enthusiasts| Youtubers | Entrepreneurs & Realtors @twin_tower_property_group 📍: 🇳🇦 🧸: @babyfluencer_
     location: "South Africa"
-    followers: 62044
-    engagement: 170
-    commentsToLikes: 0.103850
-    id: ck0w414mfw9rv0i19as7suven
-    verified: true
-    hashtags: "#jesseleepeterson, #faith, #instadaily, #bible"
-  - username: "reformedbychrist"
-    fullname: >-
-      Marnus & Jacques Stadler
-    bio: >-
-      💪GOAL: To REFORM the world through CHRIST🔥 📖Driven by a passion for Christ👑 ❤️Spreading the Gospel to the world!✝️ 🗣Pastors: @reformedbychristchurch ⛪
-    location: "South Africa"
-    followers: 310757
-    engagement: 137
-    commentsToLikes: 0.016348
-    id: ck0vwotrluusl0i19kw5ccgp7
+    followers: 112097
+    engagement: 259
+    commentsToLikes: 0.025587
+    id: ck6tokv5temt70j71rbfmwodn
     verified: false
-    hashtags: "#catholic, #gospel, #faith, #amen"
-  - username: "innosadiki"
-    fullname: >-
-      Innocent Sadiki
-    bio: >-
-      💎Preacher/Motivational Speaker 💎Reality Star on #PastorsWives 💎Actress ‘Sthoko’ on @skeemsaam8 💎Film “The Throne” on NETFLIX
-    location: "South Africa"
-    followers: 666066
-    engagement: 89
-    commentsToLikes: 0.014328
-    id: ck6uc9gesea4e0j71y6zdkmi1
-    verified: true
-    hashtags: "#innocentsadikiquotes, #sthoko, #quotes, #skeemsaam"
+    hashtags: "#twinfluencers, #namibia, #twinning, #birthdaymonth"
   - username: "makgofe"
     fullname: >-
       Makgofe Moagi
@@ -115,6 +79,18 @@ profiles:
     id: ckap3j64f37tc0i78py49n68x
     verified: false
     hashtags: "#nature, #enduro, #hardenduro, #tough"
+  - username: "imraanchristian"
+    fullname: >-
+      IM • RA • AN || South Africa
+    bio: >-
+      Storyteller 📍Cape Town || As Above , So Below || @artco.gallery @arcadecontent
+    location: "South Africa"
+    followers: 28490
+    engagement: 587
+    commentsToLikes: 0.038659
+    id: ck5c6mrlg5rh20i11ga9sf09t
+    verified: false
+    hashtags: "#sponsored, #finishsaveswater"
   - username: "ginger_trill"
     fullname: >-
       Ginger Trill
@@ -127,4 +103,28 @@ profiles:
     id: ck5c3xq4q08zm0i11lns8s1al
     verified: false
     hashtags: "#frompotchwithlove, #alotmusicvideo, #chainsreup, #igniumep"
+  - username: "msvfox"
+    fullname: >-
+      Vivica A  Fox
+    bio: >-
+      Actress,Producer,TV Host, Author,Entrepreneur,Philanthropist All around "homegirl" FOR MORE INFO AND BOOKINGS GO 2 VIVICAFOX.COM CLICK ON CONTACTS😉
+    location: "South Africa"
+    followers: 1551239
+    engagement: 55
+    commentsToLikes: 0.034063
+    id: ck5hnprg6o6mq0i11v448vmir
+    verified: true
+    hashtags: "#mygrinddontstop, #bossmoves, #producer, #thewrongvalentine"
+  - username: "vulvodyniaslam"
+    fullname: >-
+      VULVODYNIA
+    bio: >-
+      SOUTH AFRICAN SLAM DEATH BULLDOZERS!!! 🔨👑💯 | 🎤@duncan_bentley 🎸@krisxen 🎸@lukehaarhoff_ ⚡ @christhundervolt 🥁 @tomhughesdrummer 🎸 @asuka_city
+    location: "South Africa"
+    followers: 55542
+    engagement: 309
+    commentsToLikes: 0.014048
+    id: ck14j6iw5itmv0i199odw6kvt
+    verified: true
+    hashtags: "#vulvodynia, #deathmetal, #slam, #vulvodyniaslam"
 ---

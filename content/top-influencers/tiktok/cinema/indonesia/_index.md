@@ -1,11 +1,11 @@
 ---
-title: Top 10 Cinema TikTok Influencers In Indonesia In 2023
+title: Top 10 Cinema TikTok Influencers In Indonesia In 2024
 description: >-
-  Find top cinema TikTok influencers in Indonesia in 2023. Most popular hashtags: #fyp #xyzbca #foryoupage #aesthetic.
+  Find top cinema TikTok influencers in Indonesia in 2024. Most popular hashtags: #fyp #xyzbca #foryoupage #samasamabelajar.
 platform: TikTok
 hits: 15
-text_top: Discover the best TikTok profiles on inBeat.
-text_bottom: inBeat has 15 TikTok influencers like this in Indonesia for you to contact.
+text_top: See the top-rated TikTok influencers on inBeat.
+text_bottom: Our search engine aggregates 15 TikTok influencers like this in Indonesia for you to pitch.
 profiles:
   - username: "cinema.21"
     fullname: >-
@@ -78,7 +78,7 @@ profiles:
     commentsToLikes: 0.017935
     id: ck80cqsvzam750j78sd8j9k0q
     verified: false
-    hashtags: "#learnontiktok, #indonesia, #bali, #photographer"
+    hashtags: "#photographer, #learnontiktok, #bali, #phototips"
   - username: "alyssanp"
     fullname: >-
       Alyssa
@@ -90,7 +90,7 @@ profiles:
     commentsToLikes: 0.010001
     id: ckdhdsea5wq9n0j23x9z7smxj
     verified: false
-    hashtags: "#snack, #coklat, #toy, #aneh"
+    hashtags: "#japan, #enak, #mainan, #toy"
   - username: "nunik254"
     fullname: >-
       Nunik Harianti

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Travel TikTok Influencers In Norway In 2023
+title: Top 10 Travel TikTok Influencers In Norway In 2024
 description: >-
-  Find top travel TikTok influencers in Norway in 2023. Most popular hashtags: #travel #foryou #norway #fyp.
+  Find top travel TikTok influencers in Norway in 2024. Most popular hashtags: #travel #foryou #norway #fyp.
 platform: TikTok
 hits: 18
 text_top: Identify the best TikTok influencers on inBeat.
-text_bottom: Our database has 18 TikTok influencers like this in Norway for you to work with.
+text_bottom: Our platform aggregates 18 TikTok influencers like this in Norway for you to connect with.
 profiles:
   - username: "beautiful_journeys"
     fullname: >-
@@ -90,7 +90,7 @@ profiles:
     commentsToLikes: 0.013514
     id: ckb9mr66eg94d0j23gdzp1vim
     verified: false
-    hashtags: "#sweden, #gutta, #tiktoknorge, #foryou"
+    hashtags: "#gutta, #fyp, #foryou, #foryoupage"
   - username: "henniesol"
     fullname: >-
       Sol

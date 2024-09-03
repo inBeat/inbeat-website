@@ -1,11 +1,11 @@
 ---
-title: Top 10 Lifestyle TikTok Influencers In Switzerland In 2023
+title: Top 10 Lifestyle TikTok Influencers In Switzerland In 2024
 description: >-
-  Find top lifestyle TikTok influencers in Switzerland in 2023. Most popular hashtags: #switzerland #lifestyle #schweiz #foryou.
+  Find top lifestyle TikTok influencers in Switzerland in 2024. Most popular hashtags: #lifestyle #switzerland #schweiz #foryou.
 platform: TikTok
 hits: 15
-text_top: See the most popular TikTok accounts on inBeat.
-text_bottom: inBeat has 15 TikTok influencers like this in Switzerland for you to contact.
+text_top: Discover the best TikTok accounts on inBeat.
+text_bottom: Our search engine aggregates 15 TikTok influencers like this in Switzerland for you to connect with.
 profiles:
   - username: "manuelkrasniqi_"
     fullname: >-

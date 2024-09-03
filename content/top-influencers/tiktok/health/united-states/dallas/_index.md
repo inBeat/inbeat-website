@@ -1,11 +1,11 @@
 ---
-title: Top 10 Health TikTok Influencers In Dallas In 2023
+title: Top 10 Health TikTok Influencers In Dallas In 2024
 description: >-
-  Find top health TikTok influencers in Dallas in 2023. Most popular hashtags: #fyp #duet #stitch #health.
+  Find top health TikTok influencers in Dallas in 2024. Most popular hashtags: #fyp #duet #health #stitch.
 platform: TikTok
 hits: 15
-text_top: Identify the top-rated TikTok influencers on inBeat.
-text_bottom: Our database has 15 TikTok influencers like this in Dallas, United States for you to connect with.
+text_top: Analyze the top-rated TikTok profiles on inBeat.
+text_bottom: Our database aggregates 15 TikTok influencers like this in Dallas, United States for you to connect with.
 profiles:
   - username: "thebentist"
     fullname: >-
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.100120
     id: ckbqh05mr2e100j23m4hgt3h9
     verified: false
-    hashtags: "#fyp, #skincare, #texas, #houston"
+    hashtags: "#skincare, #texas, #houston, #fyp"
   - username: "imbosslee"
     fullname: >-
       Jessie Lee
@@ -54,7 +54,7 @@ profiles:
     commentsToLikes: 0.074747
     id: cka0rgly5h0wb0i78mcxx5t8r
     verified: false
-    hashtags: "#keto, #girlstrip, #italia, #napavalley"
+    hashtags: "#napa, #wine, #cali, #lovestory"
   - username: "level_up1987"
     fullname: >-
       Anna Brown
@@ -102,7 +102,19 @@ profiles:
     commentsToLikes: 0.021395
     id: ck806w30kmh5u0j78f9a4heoe
     verified: false
-    hashtags: "#rap, #hiphop, #fyp, #boxing"
+    hashtags: "#fyp, #funny, #boxing, #hoodcomedy"
+  - username: "amberleybradleyy"
+    fullname: >-
+      Amberley Bradley
+    bio: >-
+      Texas gal ☆ let’s be friends Insta: @amberleybradley
+    location: "United States"
+    followers: 267000
+    engagement: 1803
+    commentsToLikes: 0.023856
+    id: ck83zu6y833xu0j78tcehhm6f
+    verified: false
+    hashtags: "#dallastx, #texas, #dallas, #relationship"
   - username: "foodieshivani"
     fullname: >-
       Shivani Patel
@@ -115,16 +127,4 @@ profiles:
     id: ckakodmk8azh70i78dq37epit
     verified: false
     hashtags: "#quickrecipes, #food, #mexican, #quarantinelife"
-  - username: "amberleybradleyy"
-    fullname: >-
-      Amberley Bradley
-    bio: >-
-      Texas gal ☆ let’s be friends Insta: @amberleybradley
-    location: "United States"
-    followers: 267000
-    engagement: 1803
-    commentsToLikes: 0.023856
-    id: ck83zu6y833xu0j78tcehhm6f
-    verified: false
-    hashtags: "#dallastx, #stitch, #love, #teacher"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Nutrition TikTok Influencers In India In 2023
+title: Top 10 Nutrition TikTok Influencers In India In 2024
 description: >-
-  Find top nutrition TikTok influencers in India in 2023. Most popular hashtags: #trending #fitness #tiktokindia #tiktok.
+  Find top nutrition TikTok influencers in India in 2024. Most popular hashtags: #trending #fitness #tiktokindia #tiktok.
 platform: TikTok
 hits: 52
-text_top: Identify the top-rated TikTok influencers on inBeat.
-text_bottom: Our platform aggregates 52 TikTok influencers like this in India for you to contact.
+text_top: Identify the top-rated TikTok profiles on inBeat.
+text_bottom: inBeat has 52 TikTok influencers like this in India for you to connect with.
 profiles:
   - username: "raviganesh_official"
     fullname: >-

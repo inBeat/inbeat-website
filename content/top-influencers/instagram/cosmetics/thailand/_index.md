@@ -1,11 +1,11 @@
 ---
-title: Top 10 Cosmetics Instagram Influencers In Thailand In 2023
+title: Top 10 Cosmetics Instagram Influencers In Thailand In 2024
 description: >-
-  Find top cosmetics Instagram influencers in Thailand in 2023. Most popular hashtags: #cosmetics #makeup #makeuptutorial.
+  Find top cosmetics Instagram influencers in Thailand in 2024. Most popular hashtags: #makeup #cosmetics #beauty.
 platform: Instagram
-hits: 27
+hits: 32
 text_top: See the best Instagram profiles on inBeat.
-text_bottom: Our search engine aggregates 27 Instagram influencers like this in Thailand for you to contact.
+text_bottom: Our search engine holds 32 Instagram influencers like this in Thailand for you to connect with.
 profiles:
   - username: "gamkotcha"
     fullname: >-
@@ -55,6 +55,18 @@ profiles:
     id: ck8sy6ispjvox0j78w8w0mdzr
     verified: true
     hashtags: "#amazingsavorykoreanoyster, #ffmina, #givenchybeautyth, #ebgrandsale2020"
+  - username: "wonderpeach"
+    fullname: >-
+      peach🍑 ❹❷❽❾
+    bio: >-
+      Wonderpeach🍑 @please.cosmetics For Work 📩 hellowonderpeach@gmail.com ❌Dm 🐶@kratin.gamo 📸VDO คลิปล่าสุด
+    location: "Thailand"
+    followers: 149291
+    engagement: 94
+    commentsToLikes: 0.006956
+    id: ck5cghn91ov1z0i111j0txrmi
+    verified: false
+    hashtags: "#givenproduct, #diorbackstage, #dog, #wonderxmasks"
   - username: "hohoemineto"
     fullname: >-
       Nkw'♡
@@ -67,18 +79,30 @@ profiles:
     id: ck5btqkn6gf4o0i11c61dthfl
     verified: false
     hashtags: "#cafehopper, #cafeteller, #cafehopping, #cafehop"
+  - username: "ae_bong"
+    fullname: >-
+      AeBong
+    bio: >-
+      🇹🇭BEAUTY🌼INFLUENCER 📍Contact >> aebonglife@gmail.com 🍑 @lunasugar.official 😽 @indycatshome 👒 @alistnista 📌 For work > Line : ae_bong
+    location: "Thailand"
+    followers: 30585
+    engagement: 83
+    commentsToLikes: 0.006245
+    id: ck14i369edet40i19euw2t6b3
+    verified: false
+    hashtags: "#hatopetwellness, #cosmetics, #beauty, #instabeauty"
   - username: "applebehappy"
     fullname: >-
-      ปั้น
+      Rinpapak Sookariyakul ปั้น
     bio: >-
-      ช่างแต่งหน้า | MAKEUP ARTIST DM & Line id: Rinpapak @applebehappymakeup #applebehappymakeup #applebehappysworld
+      ช่างแต่งหน้า makeup artist DM / Line ID: rinpapak @applebehappymakeup #applebehappymakeup #HOBBY @cactusbehappy #cactusbehappy 🌵#applebehappysworld
     location: "Thailand"
-    followers: 49704
-    engagement: 98
-    commentsToLikes: 0.027948
+    followers: 48726
+    engagement: 136
+    commentsToLikes: 0.030153
     id: ck6u3m9f9ylgh0j7183wg5naa
     verified: false
-    hashtags: "#makeupartist, #thaimakeupartist, #wedding, #socialdistancing"
+    hashtags: "#cosmetics, #cactusbehappy, #makeupartist, #actress"
   - username: "howto_perfectgirl"
     fullname: >-
       Howtobeauty
@@ -91,40 +115,16 @@ profiles:
     id: ck9wepiv4lbp90j78cf0kdbgx
     verified: false
     hashtags: "#howto, #beauty, #cosmeticthailand, #howtoperfect"
-  - username: "tieu.ngoc.bu"
+  - username: "michellemtyre"
     fullname: >-
-      Tiêu Ngoc
+      Sarochin Mcintyre
     bio: >-
-      ✍🏻 From | HN | 🌻 | 💻 Facebook : Tieu Ngoc 📬 Gmail : ngocnona@gmail.com 🧾 Contact work : Direct & mail https://www.facebook.com/tieungocbu
+      Don’t look for society to give you permission to be yourself. 📩 Inquiries: DM for work
     location: "Thailand"
-    followers: 33943
-    engagement: 333
-    commentsToLikes: 0.006223
-    id: ck9we79wjixzc0j78asfipljg
-    verified: false
-    hashtags: "#korea, #thanhxuancuachungta, #thanhxuancuatoi, #ngontinh"
-  - username: "jpreem"
-    fullname: >-
-      jpreem
-    bio: >-
-      🇮🇹romana de roma❤️ 🇹🇭 @preemforever for work: K.Pear 064-262-4516 091-4624556 🙏 Youtube👇🏻
-    location: "Thailand"
-    followers: 1513334
+    followers: 187125
     engagement: 109
-    commentsToLikes: 0.007106
-    id: ck0w353tdrnik0i19cukhykcv
-    verified: true
-    hashtags: "#beautywithpraew, #beauty, #makeup, #makeuptutorial"
-  - username: "jibbierubie"
-    fullname: >-
-      JiBbie Rubie
-    bio: >-
-      💄Make up artist bkk Thailand 📞Line id: jibbierubie 0995369691 for work #jibbiemakeup #jibbierubiesnap
-    location: "Thailand"
-    followers: 136962
-    engagement: 157
-    commentsToLikes: 0.005642
-    id: ck0w2m468p24y0i1912hee8y7
+    commentsToLikes: 0.008545
+    id: ck0vvg70hozwj0i19uuqgsju0
     verified: false
-    hashtags: "#lynperfume, #lynbloom, #ilovelancome, #lancomeclarifique"
+    hashtags: "#baandalaabyangkana, #southernthaifood, #heliocare, #nongchateyelashes"
 ---

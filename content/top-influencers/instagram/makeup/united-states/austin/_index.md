@@ -1,12 +1,36 @@
 ---
-title: Top 10 Makeup Instagram Influencers In Austin In 2023
+title: Top 10 Makeup Instagram Influencers In Austin In 2024
 description: >-
-  Find top makeup Instagram influencers in Austin in 2023. Most popular hashtags: #makeup #beauty #fashion #halloween.
+  Find top makeup Instagram influencers in Austin in 2024. Most popular hashtags: #makeup #beauty #austintexas #fashion.
 platform: Instagram
-hits: 90
-text_top: Analyze the best Instagram profiles on inBeat.
-text_bottom: Our search engine holds 90 Instagram influencers like this in Austin, United States for you to connect with.
+hits: 201
+text_top: Analyze the best Instagram influencers on inBeat.
+text_bottom: Our platform holds 201 Instagram influencers like this in Austin, United States for you to connect with.
 profiles:
+  - username: "josieortegon"
+    fullname: >-
+      Josie Ortegon
+    bio: >-
+      Storyteller | Content Creator 🎥🎬📱 📍 Austin, Texas 📩 josieortegon09@gmail.com
+    location: "United States"
+    followers: 2673
+    engagement: 965
+    commentsToLikes: 0.060599
+    id: ckaozpgsamtqz0i784mnqnbfo
+    verified: false
+    hashtags: "#elpaso, #austin, #atx, #texas"
+  - username: "alexstergios"
+    fullname: >-
+      Alexandra Stergios
+    bio: >-
+      📍LA/MX/DTX #Periodista 📽 Host 📺 9am & 1pm @canalestrellatv Sports Anchor ⚽️🏈🏀 News Anchor 📝 Nací en 🇩🇰, soy 🇲🇽 Twitter: @alexs265
+    location: "United States"
+    followers: 81340
+    engagement: 133
+    commentsToLikes: 0.047688
+    id: ck0u6237a0ra10i19mfvmctui
+    verified: false
+    hashtags: "#august, #tuesday, #bacheloretteparty, #losangeles"
   - username: "lovelyysamantha"
     fullname: >-
       Samantha Nguyen
@@ -18,7 +42,19 @@ profiles:
     commentsToLikes: 0.051323
     id: ck5pzv63a2wlv0i119dagil0g
     verified: false
-    hashtags: "#makeuptutorial, #makeup, #makeuplooks, #austinmakeupartist"
+    hashtags: "#makeup, #beauty, #austinmakeupartist, #makeuplover"
+  - username: "candiceghaiphotography"
+    fullname: >-
+      Candice Ghai Photography
+    bio: >-
+      Fine Art Photography 📸 Artist 👩🏻‍🎨 Empath 🔮 Wanderer ✈️ #austinphotographer candice@candiceghaiphotography.com
+    location: "United States"
+    followers: 16790
+    engagement: 169
+    commentsToLikes: 0.055826
+    id: ck55pqwl8b69l0i114ciyrr58
+    verified: false
+    hashtags: "#austinphotographer, #portraitmood, #music, #photographer"
   - username: "__hailey.m"
     fullname: >-
       HAILEY
@@ -43,6 +79,18 @@ profiles:
     id: ck55jy586y1hy0i11g1t7njjo
     verified: false
     hashtags: "#theportraitpr0ject, #sanantoniomodel, #sonya7riv, #portraitvisuals"
+  - username: "mithzylucerito"
+    fullname: >-
+      Mithzy Official Page
+    bio: >-
+      •Cantante🎤 •Estudiante de Derechos ⚖️ Chicago | Puebla ❤️ Escucha Mi Música⬇️ Cuenta de respaldo @mithzylucero
+    location: "United States"
+    followers: 106652
+    engagement: 156
+    commentsToLikes: 0.011895
+    id: ck6ue69k6p20x0j713thn59ez
+    verified: false
+    hashtags: "#buchona, #banda, #corridosvip, #mexican"
   - username: "edelinfalcon"
     fullname: >-
       Edelin Y Falcon
@@ -55,76 +103,28 @@ profiles:
     id: ck5zpeizysj2a0i14piotuf8t
     verified: false
     hashtags: "#love, #texas, #likeforlikes, #austinblogger"
-  - username: "bribri.tx"
+  - username: "reilleyphotography"
     fullname: >-
-      BRI🦋BRI
+      NY photographer + videographer
     bio: >-
-      HI, YOU ARE BEAUTIFUL:) Virgo • Makeup • Aspiring model • Content creator Austin, Tx / @brithesweetie business: bri.business512@gmail.com
+      documenting those care free souls 🤘🏼 ⋒ sister duo l 📷: @caitlinreilley l 🎥: @jennareilz⠀⠀⠀⠀ boudoir: @reilleyboudoir contact: reilleyphoto@gmail.com
     location: "United States"
-    followers: 68819
-    engagement: 2320
-    commentsToLikes: 0.004500
-    id: ck6u66rgoduia0j71l3vezz2w
+    followers: 43225
+    engagement: 263
+    commentsToLikes: 0.053119
+    id: cl0x1dvz1u9ic0i232r92c2nb
     verified: false
-    hashtags: "#euphoriamakeup, #suvabeauty, #revlon, #aestheticmakeup"
-  - username: "breluxe"
+    hashtags: ""
+  - username: "jvayavinat"
     fullname: >-
-      BreLuxe Beauty - Hair & Makeup
+      JANAKEY
     bio: >-
-      Award Winning🏆Beauty Pros! We Create Seamless Beauty Experiences for Luxury Weddings/Events!👰🤵🌈 @weddingbeautybar @weddingdapperbar CA,TX,FL,NY+beyond
+      ✨ Beauty | Skincare | Home | Lifestyle | Kitchen ✨ SAHM to 3 kids! ✨ Content creator | Photography | UGC 📍 🇺🇸 Austin TX
     location: "United States"
-    followers: 49935
-    engagement: 118
-    commentsToLikes: 0.013768
-    id: ck0w5yr7p62xd0i19gu2o1af5
+    followers: 34985
+    engagement: 361
+    commentsToLikes: 0.040982
+    id: cl78lppyrq2tp0i23vq7wqh6g
     verified: false
-    hashtags: "#beauty, #cleanmakeup, #instamood, #brentwoodmakeupartist"
-  - username: "mithmagazine"
-    fullname: >-
-      Fashion & Entertainment
-    bio: >-
-      Modest Is The Hottest 💼Print & Digital 💄EIC: @hollyglasser 💌submit@mithmagazine.com 📍LA/NYC-based, Worldwide Coverage
-    location: "United States"
-    followers: 16027
-    engagement: 227
-    commentsToLikes: 0.179856
-    id: ck14i64wbdtxg0i19u3s99lyc
-    verified: false
-    hashtags: "#fashionmodel, #editorial, #fashioneditorial, #fashionmagazine"
-  - username: "mr.fabulous"
-    fullname: >-
-      
-    bio: >-
-      BEAUTY • STYLE & BEING FABULOUS✨ ❤️YouTube | Mr.fabulous 🔻Watch my latest video!
-    location: "United States"
-    followers: 15647
-    engagement: 304
-    commentsToLikes: 0.060247
-    id: ck6tx7vy9wbp10j71twlkytse
-    verified: false
-    hashtags: "#halloween, #louisvuitton, #influencer, #fentybeauty"
-  - username: "bat.barbie"
-    fullname: >-
-      Britt Gorman
-    bio: >-
-      Look like a Slytherin, love like a Hufflepuff.🦇💖 Austin, TX | Mermaids | Illustration | Paintings | Disney | Makeup
-    location: "United States"
-    followers: 14502
-    engagement: 784
-    commentsToLikes: 0.026081
-    id: ck5bvsamtkb420i11gxx478eo
-    verified: false
-    hashtags: "#batbarbie, #disneyedit, #halloween, #instaart"
-  - username: "douginglish"
-    fullname: >-
-      Doug Inglish
-    bio: >-
-      Photographer @douginglish #douginglish
-    location: "United States"
-    followers: 26955
-    engagement: 367
-    commentsToLikes: 0.027602
-    id: ck0tyblh4mb1c0i190uswmru5
-    verified: false
-    hashtags: "#pentax67, #film, #fb, #genv"
+    hashtags: "#explore, #atxinfluencer, #toddlersofinstagram, #lifestyleblogger"
 ---

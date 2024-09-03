@@ -1,11 +1,11 @@
 ---
-title: Top 10 Hypebeast Instagram Influencers In Russia In 2023
+title: Top 10 Hypebeast Instagram Influencers In Russia In 2024
 description: >-
-  Find top hypebeast Instagram influencers in Russia in 2023. Most popular hashtags: #hypebeast #highsnobiety #agameoftones #theimaged.
+  Find top hypebeast Instagram influencers in Russia in 2024. Most popular hashtags: #hypebeast #highsnobiety #agameoftones #theimaged.
 platform: Instagram
-hits: 17
-text_top: See the most popular Instagram influencers on inBeat.
-text_bottom: Our database holds 17 Instagram influencers like this in Russia for you to work with.
+hits: 16
+text_top: See the most popular Instagram accounts on inBeat.
+text_bottom: Our search engine holds 16 Instagram influencers like this in Russia for you to connect with.
 profiles:
   - username: "frozenbite"
     fullname: >-
@@ -85,12 +85,12 @@ profiles:
     bio: >-
       3D Motion Artist
     location: "Russia"
-    followers: 11999
-    engagement: 706
-    commentsToLikes: 0.030536
+    followers: 11951
+    engagement: 709
+    commentsToLikes: 0.030437
     id: ck5c185r1umv90i11gfo294ri
     verified: false
-    hashtags: "#sidefx, #houdinifx, #vj, #vjing"
+    hashtags: "#new, #vfx, #xuxoe, #c4d"
   - username: "chillinbeef"
     fullname: >-
       DENIS CHILLIN / GHETTOTEK™

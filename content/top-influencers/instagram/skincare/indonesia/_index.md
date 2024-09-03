@@ -1,36 +1,72 @@
 ---
-title: Top 10 Skincare Instagram Influencers In Indonesia In 2023
+title: Top 10 Skincare Instagram Influencers In Indonesia In 2024
 description: >-
-  Find top skincare Instagram influencers in Indonesia in 2023. Most popular hashtags: #skincare #masknesavior #beningsekarang.
+  Find top skincare Instagram influencers in Indonesia in 2024. Most popular hashtags: #acnefighter #makeuplooks #makeupaddict.
 platform: Instagram
-hits: 835
-text_top: Discover the most popular Instagram influencers on inBeat.
-text_bottom: inBeat has 835 Instagram influencers like this in Indonesia for you to contact.
+hits: 847
+text_top: Discover the most popular Instagram profiles on inBeat.
+text_bottom: inBeat has 847 Instagram influencers like this in Indonesia for you to contact.
 profiles:
-  - username: "skingasmid"
+  - username: "monicaawidy"
     fullname: >-
-      Fitri
+      Monica Ayu W
     bio: >-
-      Skincare . Beauty 📸 @trizastudio 🍂 @sheisfitri_
+      🇮🇩 SDA | ID ✨ Skincare, Lifestyle & Food 🧏🏻‍♀️ oily, acne prone & sensitive 📲 buz inq? Dm | Tiktok : monicaayuww 💅 @purematesnpure @geng.glowing
     location: "Indonesia"
-    followers: 13797
-    engagement: 468
-    commentsToLikes: 0.197752
-    id: cl3w8ztbod9z00i23ifj2oupn
+    followers: 5664
+    engagement: 439
+    commentsToLikes: 0.161049
+    id: ckf5mxv9rvuxm0j23k5swcw7u
     verified: false
-    hashtags: "#modernurban, #azarinecosmetic, #marvelxazarine, #reviewrombongan"
+    hashtags: "#acneproblems, #acneproneskin, #kulinersurabayamurah, #skincare"
+  - username: "oennie.beauty"
+    fullname: >-
+      Uni Rizka | Faceless Creator | Skincare Reviewer
+    bio: >-
+      Review Skincare With Art ✨ Photography @salerostudio.id Business inquiries via e-mail/whatsapp link 👇🏻
+    location: "Indonesia"
+    followers: 9267
+    engagement: 508
+    commentsToLikes: 0.162578
+    id: cl3w8zte4da1c0i231tv8ji03
+    verified: false
+    hashtags: "#behindthescenes, #tutorialvideoproduk, #productvideography, #behindthescene"
   - username: "dr.nadiaw"
     fullname: >-
       Nadia Wirantari
     bio: >-
       Board certified dermatovenereologist. 📍SUB,ID. @anareclinic.id @adihusada.uw 🗣Skin problems |Skincare |Skin treatments ✉️DM for collab
     location: "Indonesia"
-    followers: 15185
-    engagement: 669
-    commentsToLikes: 0.051887
+    followers: 22581
+    engagement: 404
+    commentsToLikes: 0.058222
     id: cl3w8ztgtda3q0i23gpz8s0i6
     verified: false
-    hashtags: "#myskintention, #jerawat, #skincare, #treatmentbopeng"
+    hashtags: "#jerawat, #acne, #treatmentbopeng, #myskintention"
+  - username: "zielsnra"
+    fullname: >-
+      z i e l 🦄
+    bio: >-
+      ✨a girl love makeup & skincare✨ 💌DM for business inquiries 📍Bandung, Indonesia — Spall spill disini👇
+    location: "Indonesia"
+    followers: 19992
+    engagement: 748
+    commentsToLikes: 0.033522
+    id: ck5q85ab84i820i11khcyotw9
+    verified: false
+    hashtags: "#makeuptutorialindonesia, #cchannelbeautyid, #ivgbeauty, #ombrelipstick"
+  - username: "lucy.wiryono"
+    fullname: >-
+      Lucy Wiryono
+    bio: >-
+      Founder @thehydria skincare MADE IN JAPAN 🇯🇵 Creator of #PaddockTalk on YouTube 🚀
+    location: "Indonesia"
+    followers: 126717
+    engagement: 592
+    commentsToLikes: 0.021126
+    id: ck13bh4b3vdfa0i19lkvgnkfc
+    verified: true
+    hashtags: "#ducatiindonesia, #ducatiasiapacific, #newxperience, #ducaticorse"
   - username: "lalaaastr"
     fullname: >-
       🫶🏻Lalaahmad
@@ -43,88 +79,52 @@ profiles:
     id: ck9wggvt8tcxw0j78lcteyov8
     verified: false
     hashtags: "#makeuplover, #makeuplook, #makeuptutorial, #makeupwisuda"
-  - username: "kichaann___"
+  - username: "blackxugar"
     fullname: >-
-      𝐑𝐢𝐳𝐤𝐢 𝐘𝐮𝐧𝐢𝐚𝐭𝐢, 𝐀𝐦𝐝.𝐊𝐞𝐛, 𝐂𝐁𝐌𝐓
+      Adhelia Fa
     bio: >-
-      Young Midwife 👩🏻‍⚕️ Semulen favorite pat petulai 2018 👸🏼 MSglow by @skincare_yiyin 🍭 -- @amanah_babycare | @amanaahh_shop
+      ♡ makeup, skincare, perfume and a sprinkle of #xugarTALKS @gula.item business: 085536876500 (Aghnia)
     location: "Indonesia"
-    followers: 15372
-    engagement: 555
-    commentsToLikes: 0.077275
-    id: ck0w0ehohdsh40i19o7lrkpo4
+    followers: 85978
+    engagement: 376
+    commentsToLikes: 0.022261
+    id: ck14l77x2t7jn0i1991krxmtf
     verified: false
-    hashtags: "#fff, #ootd, #lfl, #lilacaddict"
-  - username: "cindyarsinta"
+    hashtags: "#beautyhaulaja, #itsbonavieeffect, #liptinttruetoskin, #beautyhaul"
+  - username: "anastasiamalisa"
     fullname: >-
-      MODEL | MUSE
+      Anastasia Malisa
     bio: >-
-      founder @skincarelo.id @cindyarsinta.jpg ambassadors of : @delovelyclinic 2018 // duta @jatimfair 2019 business inquiries 📩 add line "@012zxate"
+      Bali Island 🌴 Mom | Lifestyle | Skincare | Travel | Fashion. ✨ 💍 @miftahulhamdi17 👶🏻👦 @azriel_azzam ☕️ @ajali_kopikhop 📩 DM For Business Inquiries
     location: "Indonesia"
-    followers: 6283
-    engagement: 1404
-    commentsToLikes: 0.041152
-    id: ck5py0ukntsii0i11k9m33px3
+    followers: 13450
+    engagement: 340
+    commentsToLikes: 0.051881
+    id: ck6tri3jvz4c10j714z7lswv9
     verified: false
-    hashtags: "#passthebrushchallenge, #kuotanonstop, #mainbarengboba, #pasukancindyteko"
-  - username: "dearizky.e"
-    fullname: >-
-      deyah🌻
-    bio: >-
-      Endorsement DM ke @dearizky.buss my fav skincare @jglow_distributor01 BA @alodieyewear
-    location: "Indonesia"
-    followers: 311074
-    engagement: 1315
-    commentsToLikes: 0.013055
-    id: ckap5a975autf0i78x2n5qn6t
-    verified: false
-    hashtags: "#tantanapp, #shopeepayrp1, #semuarp1, #berawaldaritantan"
-  - username: "putrimelatii"
-    fullname: >-
-      Putri Melati
-    bio: >-
-      ‎السَّلاَمُ عَلَيْكُمْ @zhofira_ • @ramisa_id — wa +62 81380028407 (brand) line @putrimelatii (olshop) — Skincare Routine👇🏻
-    location: "Indonesia"
-    followers: 296084
-    engagement: 739
-    commentsToLikes: 0.010356
-    id: ck14huyghc9xl0i19marsb0n6
-    verified: false
-    hashtags: "#cucitanganpakaicarex, #globalhandwashingday2020, #hairlifebalance, #garniersuperuv"
+    hashtags: "#beningclinic, #latepost, #masyaallahtabarakallah, #turningonebirthday"
   - username: "cheanuh"
     fullname: >-
       Chea Nuh
     bio: >-
-      🇮🇩📍JAKARTA📍BALI, INDONESIA 🌊 Thallassophile 🎬 Makeup & Skincare 💌 cheanuh@gmail.com
+      💋 Makeup and Skincare 🧣 Hijab & Scarf ✉️ cheanuh@gmail.com 📍 Currently in JAKARTA 🇲🇨
     location: "Indonesia"
-    followers: 32062
-    engagement: 359
-    commentsToLikes: 0.050830
+    followers: 36237
+    engagement: 332
+    commentsToLikes: 0.051844
     id: ck15pzhlx0efy0i19c0d8rd8w
     verified: false
-    hashtags: "#mylittlesecret, #votrepeau, #partyslay, #cleansebetter"
-  - username: "the_rafie"
+    hashtags: "#flawlessmakeup, #asmr, #buttonscarvesbeauty, #laneigeid"
+  - username: "wellisnaa"
     fullname: >-
-      the_rafie
+      Wellisna Merduani
     bio: >-
-      Brand Ambassador Glulagen By @jasman_solah Brand Ambassador @bening__skincare Brand Ambassador @tecnix_indonesia
+      dr. 🩺🥼 Makeup,Skincare&Fashion💐✨ Tiktok : @wellisnaa_ Business Inquiries +6281256598569 (DINDA WA)
     location: "Indonesia"
-    followers: 255670
-    engagement: 105
-    commentsToLikes: 0.032278
-    id: ckf5r4uijbfs00j23ftj2gjf0
+    followers: 217710
+    engagement: 229
+    commentsToLikes: 0.007405
+    id: ck6u8ss8ktgbl0j71dyax7zpe
     verified: false
-    hashtags: "#ambyar"
-  - username: "hijrah_bara"
-    fullname: >-
-      hijrah bara
-    bio: >-
-      - BA Of @beningsclinic_jakarta @bening__skincare -team @suplemenfitnesid & @sfidnfits Sponsored Athlete
-    location: "Indonesia"
-    followers: 144963
-    engagement: 217
-    commentsToLikes: 0.019418
-    id: ckaounl5d11yo0i78ozdy9amh
-    verified: false
-    hashtags: "#sahabatbening, #beningsekarang, #skintreatment, #oaseindonesia1212"
+    hashtags: "#snowapp, #jisooflower, #makeuptransisi, #skincarelegendaris"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Models Instagram Influencers In Medellín In 2023
+title: Top 10 Models Instagram Influencers In Medellín In 2024
 description: >-
-  Find top models Instagram influencers in Medellín in 2023. Most popular hashtags: #model #medellin #colombia #love.
+  Find top models Instagram influencers in Medellín in 2024. Most popular hashtags: #model #medellin #instagood #photography.
 platform: Instagram
-hits: 65
-text_top: Analyze the best Instagram influencers on inBeat.
-text_bottom: inBeat holds 65 Instagram influencers like this in Medellín, Colombia for you to connect with.
+hits: 68
+text_top: See the most popular Instagram profiles on inBeat.
+text_bottom: inBeat has 68 Instagram influencers like this in Medellín, Colombia for you to collaborate.
 profiles:
   - username: "alejamontealegre16"
     fullname: >-
@@ -43,18 +43,6 @@ profiles:
     id: ckaozqbwqmxui0i783l00ezyg
     verified: false
     hashtags: "#model, #medellin, #photographe, #pasion"
-  - username: "danitamayo11"
-    fullname: >-
-      Daniela Tamayo
-    bio: >-
-      Modelo ★ B e a c h • L o v e r ★ @coconutswimsuits 🌴 @BangEnergy Select Ambassador ✨ ⬇️🔥EXCLUSIVE CONTENT🔥⬇️
-    location: "Colombia"
-    followers: 910815
-    engagement: 82
-    commentsToLikes: 0.041899
-    id: ck5ccc8d6h3il0i11zgx8adfr
-    verified: true
-    hashtags: "#reels, #reelsinstagram, #bangenergy, #energydrink"
   - username: "ccarlosalvarez"
     fullname: >-
       Carlos Alvarez
@@ -83,26 +71,14 @@ profiles:
     fullname: >-
       Carolina Franco Villegas
     bio: >-
-      ●•Social Media Communicator ●•Singer ●•Model ●•Cyclist 》From Medellín, Colombia 》carolina.franco.villegas@gmail.com
+      ●•Social Media ●•Cyclist ●•Model ●•Singer 》From Medellín, Colombia 》carolina.franco.villegas@gmail.com
     location: "Colombia"
-    followers: 64316
-    engagement: 540
-    commentsToLikes: 0.058125
+    followers: 102712
+    engagement: 391
+    commentsToLikes: 0.047147
     id: ck5bwvxkemiqi0i11a3j02jli
     verified: false
-    hashtags: "#cyclinglife, #ciclismo, #gorigogooficial, #cycling"
-  - username: "vane_eslava"
-    fullname: >-
-      Vane Eslava
-    bio: >-
-      #model from🇨🇴 #artista •Amor,tolerancia y respeto por los animales🐾 🍭🎈 Publicidad,contratación al DM📩
-    location: "Colombia"
-    followers: 43834
-    engagement: 236
-    commentsToLikes: 0.026712
-    id: ckf5su7thg7ru0j23e5gwo5dq
-    verified: false
-    hashtags: "#model, #portrait, #love, #instagram"
+    hashtags: "#carrera, #ciclismo, #autoland, #cycling"
   - username: "jhulianaorozcog"
     fullname: >-
       Jhuliana Orozco💟
@@ -127,4 +103,28 @@ profiles:
     id: ck9wfbh9qo40v0j78t56p1qpg
     verified: false
     hashtags: "#travel, #amor, #coffee, #bogota"
+  - username: "sarahrestrepo99"
+    fullname: >-
+      Sarah Restrepo
+    bio: >-
+      🇨🇴Colombian Model 🤍𝐹𝑙𝑜𝑟𝑒𝑐𝑒𝑟 @shines.by99 ✨ 📍Medellín
+    location: "Colombia"
+    followers: 10122
+    engagement: 1105
+    commentsToLikes: 0.017126
+    id: ckap89wzkngok0i78c9wqit6e
+    verified: false
+    hashtags: ""
+  - username: "astriid.oficial1"
+    fullname: >-
+      A S T R I I D
+    bio: >-
+      Cantante / compositora 👁‍🗨.👁‍🗨 BAILA REGGAETÓN Escúchalo aqui👇
+    location: "Colombia"
+    followers: 6181
+    engagement: 93
+    commentsToLikes: 0.082740
+    id: ck9hc311yjj5h0j78p694m7x9
+    verified: false
+    hashtags: "#instagood, #photography, #flow, #reggaeton"
 ---

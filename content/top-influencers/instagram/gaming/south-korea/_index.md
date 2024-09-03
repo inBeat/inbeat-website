@@ -1,24 +1,36 @@
 ---
-title: Top 10 Gaming Instagram Influencers In South Korea In 2023
+title: Top 10 Gaming Instagram Influencers In South Korea In 2024
 description: >-
-  Find top gaming Instagram influencers in South Korea in 2023. Most popular hashtags: #gaming #gamer #videogames #twitchstreamer.
+  Find top gaming Instagram influencers in South Korea in 2024. Most popular hashtags: #gaming #gamer #twitch #twitchstreamer.
 platform: Instagram
 hits: 13
-text_top: Identify the most popular Instagram profiles on inBeat.
-text_bottom: Our search engine has 13 Instagram influencers like this in South Korea for you to connect with.
+text_top: Discover the most popular Instagram accounts on inBeat.
+text_bottom: inBeat has 13 Instagram influencers like this in South Korea for you to pitch.
 profiles:
   - username: "gengesports"
     fullname: >-
       Gen.G Esports
     bio: >-
-      Global esports org • Gen.G GAMING + CONTENT + MERCH 🎮 #GenG #TigerNation #ChangeTheGame
+      Global esports org • Gen.G GAMING + CONTENT + MERCH 🎮 #GenG #TigerNation #ChangeTheGame @geng_gold 🐯
     location: "South Korea"
-    followers: 62579
-    engagement: 313
-    commentsToLikes: 0.016482
+    followers: 149846
+    engagement: 162
+    commentsToLikes: 0.011688
     id: ck55j9tpbwl2a0i11cem6mbjr
     verified: true
-    hashtags: "#gengpubg, #worlds2020, #genglol, #tigernation"
+    hashtags: "#gengwin, #genglol, #tigernation, #game"
+  - username: "xiraoficial"
+    fullname: >-
+      XIRA
+    bio: >-
+      🎤 Singer 🇰🇷🇵🇪 🎥 Esports Host 🎮 Twitch: XiraOficial ❤️‍🔥 @riotgames content creator 📩 xira_2603@hotmail.com 👇🏻 Último Video
+    location: "South Korea"
+    followers: 23720
+    engagement: 693
+    commentsToLikes: 0.030608
+    id: ck139emaokxoi0i193t31jw3q
+    verified: false
+    hashtags: "#picoftheday, #ootd, #gamer, #halloween"
   - username: "gamer_lafan"
     fullname: >-
       라판 | LAFAN
@@ -55,30 +67,18 @@ profiles:
     id: ck0w25dyqmp3u0i19bjp99thw
     verified: false
     hashtags: "#gamer, #cosplayer, #cosplayingwhileblack, #follow"
-  - username: "xiraoficial"
+  - username: "lazzybeans"
     fullname: >-
-      XIRA
+      Lazzy 🌻
     bio: >-
-      🎤 Singer 🇰🇷🇵🇪 🎥 TV Host 🎮 Twitch: XiraOficial 🎧 @primusgamingpi Ambass 📩 xira_2603@hotmail.com 💎 C.C of @irest_team 🕹 @ggtvlatam 👇🏻 Último Video
+      Age:22 ♡
     location: "South Korea"
-    followers: 21012
-    engagement: 700
-    commentsToLikes: 0.026978
-    id: ck139emaokxoi0i193t31jw3q
+    followers: 184194
+    engagement: 212
+    commentsToLikes: 0.028841
+    id: cloxodiwzz2200j08m9xc7zde
     verified: false
-    hashtags: "#picoftheday, #outfitoftheday, #xiraoficial, #nike"
-  - username: "shimmycocopuffs"
-    fullname: >-
-      Shimmy
-    bio: >-
-      OG YouTuber 🎥 Digital Entrepreneur 💻 Life Mentor 📚 Mood & Vibe 🧠❤️ Inspirator & Motivator 📣🎤 Toronto & Korean 🇨🇦🇰🇷
-    location: "South Korea"
-    followers: 19930
-    engagement: 2551
-    commentsToLikes: 0.154572
-    id: ck14hyqv3ct990i19nuostep8
-    verified: false
-    hashtags: "#asianguy, #asianboy, #koreanboy, #bubbletea"
+    hashtags: "#twitchstreamer, #girlstreamer, #lazzybeans, #streamer"
   - username: "iamartosis"
     fullname: >-
       Dan Stemkoski
@@ -115,16 +115,16 @@ profiles:
     id: ckaovnho25c8v0i78tfgalbkc
     verified: false
     hashtags: "#dmsupporters, #naming, #drmartens, #1461smooth"
-  - username: "goma___cafe"
+  - username: "yootrue5502"
     fullname: >-
-      ☕️ღ
+      유트루
     bio: >-
-      sɪɴᴄᴇ 𝟸𝟶𝟷𝟿. 𝟷.𝟿. ☕️🥖 ᵞᴼᵁᵀᵁᴮᴱ👇
+      뷰티 채널 : Yoo True 생방송 채널 : YOOTRUE ON AIR 브이로그 채널 : yoovlog yootrue5502@gmail.com
     location: "South Korea"
-    followers: 26220
-    engagement: 199
-    commentsToLikes: 0.014515
-    id: ckap0sqm5rmjn0i78188pepht
+    followers: 178363
+    engagement: 573
+    commentsToLikes: 0.013247
+    id: ck5zlwq9nliau0i14mbcjyh18
     verified: false
-    hashtags: "#baking, #homecafe, #goma, #croffle"
+    hashtags: "#150, #naming, #23"
 ---

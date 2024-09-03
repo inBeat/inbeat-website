@@ -1,36 +1,24 @@
 ---
-title: Top 10 Health Instagram Influencers In New York In 2023
+title: Top 10 Health Instagram Influencers In New York In 2024
 description: >-
-  Find top health Instagram influencers in New York in 2023. Most popular hashtags: #health #fashion #newyork #fitness.
+  Find top health Instagram influencers in New York in 2024. Most popular hashtags: #health #newyork #fitness #ad.
 platform: Instagram
-hits: 377
-text_top: See the most popular Instagram influencers on inBeat.
-text_bottom: Our database has 377 Instagram influencers like this in New York, United States for you to collaborate.
+hits: 462
+text_top: Identify the most popular Instagram accounts on inBeat.
+text_bottom: Our platform has 462 Instagram influencers like this in New York, United States for you to contact.
 profiles:
-  - username: "tracewinningham"
+  - username: "taylord_fit_"
     fullname: >-
-      Trace
+      Monte Taylor - Fitness/Life Coach
     bio: >-
-      HTX• LA📍 Season 4 @temptationtv Founder: @trace.thebrand LA: @omodelsagency Model • Creator • Boss
+      Online Fitness Coach 💪🏾 | Life Coach 📝 @bigbrothercbs Runner Up | @thechallenge Athlete @ruleoneproteins 👇🏾For coaching! 👇🏾
     location: "United States"
-    followers: 43010
-    engagement: 713
-    commentsToLikes: 0.015135
-    id: ck5zmhyflmlss0i14hjegshe3
+    followers: 68263
+    engagement: 113
+    commentsToLikes: 0.064183
+    id: clejja4pb1ee10j08hdirqtw2
     verified: false
-    hashtags: "#edikted, #ediktedad, #influencer, #beauty"
-  - username: "sophiejoanna_"
-    fullname: >-
-      Sophie 👸🏼
-    bio: >-
-      A 🔐♥️ @sandia_swim
-    location: "United States"
-    followers: 17107
-    engagement: 605
-    commentsToLikes: 0.145878
-    id: ck14ili0vg0710i19mu9arjnu
-    verified: false
-    hashtags: "#explore, #beach, #photoshoot, #outfit"
+    hashtags: "#lifestyle, #r1athlete, #fitnesstips, #fitnesscoach"
   - username: "tommasocapozzoli"
     fullname: >-
       Tommaso Capozzoli
@@ -55,76 +43,88 @@ profiles:
     id: ckap7mxe7koo10i78gk0cdpz5
     verified: false
     hashtags: "#business, #homedecor, #nawabi, #usa"
-  - username: "stevenlabrie"
+  - username: "daisy_robinton"
     fullname: >-
-      Steven LaBrie
+      Daisy Robinton, PhD
     bio: >-
-      • opera singer 🎭 • fitness 🏋🏻‍♂️ 🇲🇽 🇺🇸
+      I delight in the unseen + unexpected wonders of the world ✨🌍 Molecular Biologist 🧬 Writer ✍🏼 Advocate ✊🏼 Science Communicator 👩🏼‍🔬 Watch my TEDx👇🏼
     location: "United States"
-    followers: 6396
-    engagement: 559
-    commentsToLikes: 0.037780
-    id: ckaouijfa0f5c0i78tjypm35o
+    followers: 12169
+    engagement: 818
+    commentsToLikes: 0.056459
+    id: ck8t2z2ks198p0j78jg2rxjgw
     verified: false
-    hashtags: "#colorado, #travel, #utah, #hiking"
-  - username: "linakagulyy"
+    hashtags: "#science, #wearamask, #wellness, #facts"
+  - username: "radlopz"
     fullname: >-
-      𝐋𝐈𝐍𝐀 𝐆𝐔𝐋𝐘𝐘 | 𝐃𝐀𝐋𝐋𝐀𝐒 𝐁𝐋𝐎𝐆𝐆𝐄𝐑
+      Radichell Lopez
     bio: >-
-      💝 Beauty • Fashion • Decor • Lifestyle 𝐁𝐞𝐢𝐧𝐠 𝐚𝐧 #𝐢𝐧𝐟𝐥𝐮𝐞𝐧𝐜𝐞𝐫 𝐚𝐧𝐝 #𝐜𝐨𝐧𝐭𝐞𝐧𝐭𝐜𝐫𝐞𝐚𝐭𝐨𝐫 𝐢𝐬 𝐦𝐲 𝐩𝐚𝐬𝐬𝐢𝐨𝐧 DM to Collab linakagulyy@gmail.com
+      @onepeloton Strength & Boxing Aiming to bring out the best in all of us 🖤 📧: Rad@underscoretalent.com 🇩🇴 NYC|LATINO
     location: "United States"
-    followers: 44641
-    engagement: 401
-    commentsToLikes: 0.038454
-    id: ck5c2stjpxww10i11t0yjwrye
+    followers: 196404
+    engagement: 260
+    commentsToLikes: 0.029792
+    id: ck0tusqpz8k720i194cmtklv3
     verified: false
-    hashtags: "#humor, #influencermarketing, #fashion, #handmade"
-  - username: "missearthusa"
+    hashtags: "#work, #goodvibesonly, #newyorkcity, #fitness"
+  - username: "coffee_cupcakes_kids"
     fullname: >-
-      Miss Earth USA
+      Alycia | Unconvential Mom & Health Nut
     bio: >-
-      Marisa Paige Butler Official preliminary to @missearth #MissEarthUSA #MissEarth #BeautiesforaCause
+      • Superhero Name ~ MOM 🦸‍♀️ • Married to a rockstar • Sharing health info/tips • New York native, resides in Cali ❤️ • 📧 to Collab 👍🏼
     location: "United States"
-    followers: 38870
-    engagement: 54
-    commentsToLikes: 0.039183
-    id: ck6tpogptl6dn0j71hedghx2l
+    followers: 19308
+    engagement: 370
+    commentsToLikes: 0.065698
+    id: ckapbqdcb0x970i7888iemafr
     verified: false
-    hashtags: "#swimwear, #models, #nyfw, #mrsusaearth"
-  - username: "celebritydentistry"
+    hashtags: "#healthandwellness, #momlife, #beyourbestself, #weshoplc"
+  - username: "twin.doctors.j"
     fullname: >-
-      Celebrity 👄 Dentistry
+      Drs Jeremy & Jermaine Hogstrom
     bio: >-
-      🤩 smile care inspo from real dentists
+      🩺Twins | Doctors | Internal Medicine 📚Medicine•Humor•Living Life 🏆2.8M+ on TikTok 📧 twins@jakerosenentertainement.com
     location: "United States"
-    followers: 116051
-    engagement: 150
-    commentsToLikes: 0.019337
-    id: ckf5vs2bfpqcw0j23oierzhxe
+    followers: 156020
+    engagement: 1623
+    commentsToLikes: 0.021103
+    id: ckxp7yaf2a2ao0j23da1zq4p6
     verified: false
-    hashtags: "#transformation, #veneers, #surgery, #dentist"
-  - username: "ruben_stouth"
+    hashtags: "#inspire, #twindoctors, #twins, #daxcopilot"
+  - username: "thebritafilter"
     fullname: >-
-      IFBB PRO Ruben Stouth 🇵🇷
+      BRITA FILTER
     bio: >-
-      🙏Son of God 🏆Overall Classic Physique -Team U 📍 NYC 🏋🏾‍♂️Certified PT 💎Inquiries: stouthfitness@gmail.com 👇🏾 Train With Me
+      📍NYC 🌊🇹🇴🫶🏾 🗳️ National Co-Chair @DragOutTheVote ✨ @RuPaulsDragRace Season 12 📧 Info@TheBritaFilter.com
     location: "United States"
-    followers: 29965
-    engagement: 169
-    commentsToLikes: 0.044182
-    id: ckaoy2tunftri0i78gxn66z8d
-    verified: false
-    hashtags: "#powerlifting, #fit, #ifbb, #ifbbpro"
-  - username: "flawlessmagazine"
+    followers: 153721
+    engagement: 186
+    commentsToLikes: 0.018539
+    id: ck0twhxvhfgl30i19cnrkzz21
+    verified: true
+    hashtags: "#dragrace, #lgbtq, #dragqueen, #drag"
+  - username: "sophiejoanna_"
     fullname: >-
-      Flawless Magazine
+      Sophie 👸🏼
     bio: >-
-      We are passionate hunters of that one raw pearl nestled in a hundred million grains of sand.Now accepting submissions.Submissions@flawless-mgazine.com
+      A 🔐♥️ @sandia_swim
     location: "United States"
-    followers: 105873
-    engagement: 107
-    commentsToLikes: 0.108986
-    id: ck5qa41llefpu0i11helggkjb
+    followers: 17107
+    engagement: 605
+    commentsToLikes: 0.145878
+    id: ck14ili0vg0710i19mu9arjnu
     verified: false
-    hashtags: "#fashioneditorial, #hautecouture, #editorial, #fashioneditorials"
+    hashtags: "#outfit, #mountains, #jetsetter, #travelgram"
+  - username: "iamsamya_"
+    fullname: >-
+      SÂMYA
+    bio: >-
+      🦋🌻 @megamodelbrasil🇧🇷 @mgm.models 🇩🇪 @fifthmodels 🇪🇸 @musemodelsnyc 🇺🇸📍
+    location: "United States"
+    followers: 3693
+    engagement: 726
+    commentsToLikes: 0.128473
+    id: ck0u0qyfqunrb0i199ms650su
+    verified: false
+    hashtags: "#braziliangirl, #fashion, #style, #vibes"
 ---

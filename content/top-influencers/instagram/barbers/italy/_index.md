@@ -1,24 +1,24 @@
 ---
-title: Top 10 Barbers Instagram Influencers In Italy In 2023
+title: Top 10 Barbers Instagram Influencers In Italy In 2024
 description: >-
-  Find top barbers Instagram influencers in Italy in 2023. Most popular hashtags: #barbershop #barber #barbero #sharpfade.
+  Find top barbers Instagram influencers in Italy in 2024. Most popular hashtags: #barbershop #barber #barbero #barberia.
 platform: Instagram
 hits: 102
-text_top: Analyze the best Instagram profiles on inBeat.
-text_bottom: Our search engine holds 102 Instagram influencers like this in Italy for you to work with.
+text_top: Discover the best Instagram accounts on inBeat.
+text_bottom: Our database aggregates 102 Instagram influencers like this in Italy for you to collaborate.
 profiles:
-  - username: "ivanromano_"
+  - username: "marcoencre"
     fullname: >-
-      Ivan Romano
+      Marco Pepe
     bio: >-
-      ✖️ I Alessandria/Moscow ✖️ l Top Level Barber ✖️ l Barber Page @romanohairstylist ✖️ I Footballer Tik tok (+40k)⚡️
+      Hardpainting abstract surreal tattoo @encretattoo Napoli Pro team @barber_dts @eternalink @tatsoul @criticaltattoosupply 📧 marcopepetattoo@gmail.com
     location: "Italy"
-    followers: 8715
-    engagement: 959
-    commentsToLikes: 0.035177
-    id: ck8t1sr2mwvnd0j785ztuxkm6
+    followers: 211129
+    engagement: 436
+    commentsToLikes: 0.024850
+    id: ck55pf5w7afge0i11uxw7bhuo
     verified: false
-    hashtags: "#haircut, #hair, #hairtatoo, #barber"
+    hashtags: "#abstract, #abstracttattoo, #abstractart, #avantgarde"
   - username: "alessiobuccheri"
     fullname: >-
       •𝑻𝑯𝑬 𝑩𝑨𝑹𝑩𝑬𝑹💈
@@ -115,16 +115,16 @@ profiles:
     id: ck6ubn3cpajvv0j71uknjusg3
     verified: false
     hashtags: "#barber, #sanremo, #tutorial, #hairstyle"
-  - username: "gabrielli_barbershop"
+  - username: "davide_greco_barber"
     fullname: >-
-      Daniel Gabrielli
+      Davide Greco
     bio: >-
-      
+      📍Trapani💈 📍Marsala💈 Official ambassador @aircloud.plus Per prenotare il tuo TAGLIO ✂️ link in Bio🔽 Manager 👨‍💼 @fabriziofichera7
     location: "Italy"
-    followers: 5731
-    engagement: 1509
-    commentsToLikes: 0.069605
-    id: ck5c6gkob5e6u0i11advgbwcv
+    followers: 829990
+    engagement: 74
+    commentsToLikes: 0.008340
+    id: ck0vvtvdrqqxt0i19ocvmwbul
     verified: false
-    hashtags: "#thebarberpost, #sharpfade, #barbershop, #gabrielli"
+    hashtags: "#ink, #barbershop, #hair, #menfashion"
 ---

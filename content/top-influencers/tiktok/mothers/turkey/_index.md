@@ -1,11 +1,11 @@
 ---
-title: Top 10 Mothers TikTok Influencers In Turkey In 2023
+title: Top 10 Mothers TikTok Influencers In Turkey In 2024
 description: >-
-  Find top mothers TikTok influencers in Turkey in 2023. Most popular hashtags: #ke #fyp #foryou #mother.
+  Find top mothers TikTok influencers in Turkey in 2024. Most popular hashtags: #ke #fyp #foryou #mother.
 platform: TikTok
 hits: 11
-text_top: See the best TikTok accounts on inBeat.
-text_bottom: inBeat aggregates 11 TikTok influencers like this in Turkey for you to connect with.
+text_top: Analyze the top-rated TikTok influencers on inBeat.
+text_bottom: Our platform holds 11 TikTok influencers like this in Turkey for you to collaborate.
 profiles:
   - username: "nzlcndmrcnkvvtl"
     fullname: >-
@@ -102,7 +102,7 @@ profiles:
     commentsToLikes: 0.052746
     id: ck7zo4x67htzw0j78gez04ji2
     verified: true
-    hashtags: "#tutorial, #creative, #fashion, #outfit"
+    hashtags: "#funny, #drawing, #fashion, #creative"
   - username: "ilayda1ozdemir"
     fullname: >-
       İlayda Özdemir

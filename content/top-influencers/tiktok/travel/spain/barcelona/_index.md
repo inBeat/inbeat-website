@@ -1,11 +1,11 @@
 ---
-title: Top 10 Travel TikTok Influencers In Barcelona In 2023
+title: Top 10 Travel TikTok Influencers In Barcelona In 2024
 description: >-
-  Find top travel TikTok influencers in Barcelona in 2023. Most popular hashtags: #travel #fyp #barcelona #foryou.
+  Find top travel TikTok influencers in Barcelona in 2024. Most popular hashtags: #travel #fyp #barcelona #foryou.
 platform: TikTok
 hits: 11
-text_top: Identify the top-rated TikTok accounts on inBeat.
-text_bottom: Our platform aggregates 11 TikTok influencers like this in Barcelona, Spain for you to contact.
+text_top: See the best TikTok influencers on inBeat.
+text_bottom: Our platform holds 11 TikTok influencers like this in Barcelona, Spain for you to contact.
 profiles:
   - username: "fabio_workout"
     fullname: >-
@@ -126,5 +126,5 @@ profiles:
     commentsToLikes: 0.042937
     id: ck90267agc6lk0j784gec8o5n
     verified: false
-    hashtags: "#barcelona, #fyp, #pregnant, #embarazo"
+    hashtags: "#fyp, #pregnancyannouncement, #cuarentena, #foryourpage"
 ---

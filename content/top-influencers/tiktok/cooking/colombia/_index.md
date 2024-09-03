@@ -1,11 +1,11 @@
 ---
-title: Top 10 Cooking TikTok Influencers In Colombia In 2023
+title: Top 10 Cooking TikTok Influencers In Colombia In 2024
 description: >-
-  Find top cooking TikTok influencers in Colombia in 2023. Most popular hashtags: #foryou #fyp #parati #cookinghacks.
+  Find top cooking TikTok influencers in Colombia in 2024. Most popular hashtags: #foryou #fyp #parati #cookinghacks.
 platform: TikTok
 hits: 12
-text_top: Identify the most popular TikTok accounts on inBeat.
-text_bottom: inBeat aggregates 12 TikTok influencers like this in Colombia for you to collaborate.
+text_top: Identify the top-rated TikTok profiles on inBeat.
+text_bottom: Our database aggregates 12 TikTok influencers like this in Colombia for you to contact.
 profiles:
   - username: "danielsalinas44"
     fullname: >-

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Models TikTok Influencers In Greece In 2023
+title: Top 10 Models TikTok Influencers In Greece In 2024
 description: >-
-  Find top models TikTok influencers in Greece in 2023. Most popular hashtags: #foryou #foryoupage #fyp #viral.
+  Find top models TikTok influencers in Greece in 2024. Most popular hashtags: #foryou #fyp #foryoupage #viral.
 platform: TikTok
-hits: 14
-text_top: Analyze the most popular TikTok influencers on inBeat.
-text_bottom: inBeat aggregates 14 TikTok influencers like this in Greece for you to contact.
+hits: 15
+text_top: Identify the best TikTok accounts on inBeat.
+text_bottom: Our platform has 15 TikTok influencers like this in Greece for you to collaborate.
 profiles:
   - username: "pavlos_terzopoulos"
     fullname: >-
@@ -66,19 +66,19 @@ profiles:
     commentsToLikes: 0.012485
     id: ck80of4mlhg1r0j786iaxr50w
     verified: true
-    hashtags: "#foryou, #comedy, #model, #boredvibes"
+    hashtags: "#foryou, #boredvibes, #wlyg, #fyp"
   - username: "venom.fox"
     fullname: >-
-      nelly🍰
+      nelly
     bio: >-
-      🐇girl in a bunny suit🐇 yeah I'm greek lol 22 I like anime, video games & kpop
+      Venom x Ahri 23 | 🇬🇷 girl in a bunny suit🐇
     location: "Greece"
-    followers: 68200
-    engagement: 1070
-    commentsToLikes: 0.028488
+    followers: 76100
+    engagement: 1275
+    commentsToLikes: 0.041131
     id: ckb9atelaw3sh0j236tyb5ru1
     verified: false
-    hashtags: "#greektiktok, #gamers, #leaguememes, #leaguetok"
+    hashtags: "#ahri, #gaming, #leaguetiktok, #anime"
   - username: "penyagorastou"
     fullname: >-
       Peny Agorastou
@@ -115,16 +115,16 @@ profiles:
     id: cka0mn0vjw34c0i78sne4ikpo
     verified: true
     hashtags: "#quarantinelife, #trendingcomedy, #popular, #bestestvideo"
-  - username: "evelynkazantzoglou"
+  - username: "rafaela.psarrou"
     fullname: >-
-      Evelyn Kazantzoglou
+      Rafaela Psarrou-Mavraki
     bio: >-
-      • Modeling since forever • Lifestyle/travel/fashion blog @queengr • Traveling
+      •Founder & CEO : You ‘ve got nails by Raf💅🏼🖤 •Instagram : rafaela_psarrou
     location: "Greece"
-    followers: 19800
-    engagement: 571
-    commentsToLikes: 0.012971
-    id: ckbkqu2yyl80g0j23cw87olwr
-    verified: true
-    hashtags: "#foryoupage, #foruyou, #foryou, #savage"
+    followers: 39000
+    engagement: 537
+    commentsToLikes: 0.012408
+    id: ckai6c2jfviks0i78ya9yedkj
+    verified: false
+    hashtags: "#foryoupage, #foryou, #video, #tiktok"
 ---

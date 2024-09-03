@@ -1,12 +1,36 @@
 ---
-title: Top 10 Makeup Instagram Influencers In Ukraine In 2023
+title: Top 10 Makeup Instagram Influencers In Ukraine In 2024
 description: >-
-  Find top makeup Instagram influencers in Ukraine in 2023. Most popular hashtags: #makeupartist #wakeupandmakeup #photooftheday.
+  Find top makeup Instagram influencers in Ukraine in 2024. Most popular hashtags: #photography #photooftheday #beauty.
 platform: Instagram
-hits: 156
-text_top: See the best Instagram accounts on inBeat.
-text_bottom: Our search engine holds 156 Instagram influencers like this in Ukraine for you to collaborate.
+hits: 167
+text_top: Identify the top-rated Instagram profiles on inBeat.
+text_bottom: Our search engine aggregates 167 Instagram influencers like this in Ukraine for you to connect with.
 profiles:
+  - username: "a_koniashyna"
+    fullname: >-
+      Олександра | Візажист | Модель | Навчання |Київ
+    bio: >-
+      Візажист. Модель. Танцівниця: @royal_varietyshow Робоча творча сторінка:@ko.sandra_makeup Kyiv, Ukraine🇺🇦
+    location: "Ukraine"
+    followers: 6901
+    engagement: 835
+    commentsToLikes: 0.039006
+    id: ck5q7ef0915b80i11uqg7x5qw
+    verified: false
+    hashtags: "#fashion, #greece, #photo, #beauty"
+  - username: "manthony783"
+    fullname: >-
+      MICHAEL ANTHONY
+    bio: >-
+      Makeup and Magic 🪄✨💫 #Makeupbymanthony Rep: @opusbeauty
+    location: "Ukraine"
+    followers: 166011
+    engagement: 79
+    commentsToLikes: 0.016947
+    id: ck0w5j7ko3wdy0i19jw1ucc8g
+    verified: true
+    hashtags: "#eyeliner, #beauty, #makeupbymanthony, #southafrica"
   - username: "shved_mua"
     fullname: >-
       Юлія Швед
@@ -95,36 +119,12 @@ profiles:
     fullname: >-
       The Curvy Makeup Artist
     bio: >-
-      Qualified Makeup Artist | Beauty | Modest Fashion ❤️ Thai/ Ukrainian born in Australia 📍 Sydney | Australia 📩jessica.amanda.turnbull mail.com
+      Qualified Makeup Artist | Beauty | Modest Fashion ❤️ Thai/ Ukrainian born in Australia 📍 Sydney | Australia 📩jessica.amanda.turnbull@gmail.com
     location: "Ukraine"
-    followers: 12898
-    engagement: 686
-    commentsToLikes: 0.393298
+    followers: 12683
+    engagement: 551
+    commentsToLikes: 0.336739
     id: ck8t1skgowuvr0j7835yawggm
     verified: false
-    hashtags: "#carnivallovetahiti, #glittereyeshadow, #glassskin, #krissysplanet"
-  - username: "nelya_fotul"
-    fullname: >-
-      Н е л я  Ф о т у л
-    bio: >-
-      • Makeup artist @nelya_fotul_makeup • Owner @fotul_official • Video @i.n.movie • Traveler
-    location: "Ukraine"
-    followers: 15519
-    engagement: 243
-    commentsToLikes: 0.036366
-    id: ck5caeb83d92e0i114abxn0s5
-    verified: false
-    hashtags: ""
-  - username: "renata__pichkar"
-    fullname: >-
-      💗RENATOCHKA💗
-    bio: >-
-      💫MAKEUP ARTIST and LASHMAKER💄 💫LOVE SPORT and MY LIFE 💎 My work❣️
-    location: "Ukraine"
-    followers: 11240
-    engagement: 716
-    commentsToLikes: 0.014581
-    id: ckf5slsz6ft1b0j23jh5uco6u
-    verified: false
-    hashtags: "#love"
+    hashtags: "#positionsarianagrande, #reelsinstagram, #australianbeautyblogger, #smokeyeyeshadow"
 ---

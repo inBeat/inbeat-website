@@ -1,24 +1,12 @@
 ---
-title: Top 10 Athletes Instagram Influencers In Peru In 2023
+title: Top 10 Athletes Instagram Influencers In Peru In 2024
 description: >-
-  Find top athletes Instagram influencers in Peru in 2023. Most popular hashtags: #martialarts #athlete #karate #training.
+  Find top athletes Instagram influencers in Peru in 2024. Most popular hashtags: #martialarts #training #athlete #karate.
 platform: Instagram
-hits: 12
-text_top: See the best Instagram accounts on inBeat.
-text_bottom: Our platform aggregates 12 Instagram influencers like this in Peru for you to contact.
+hits: 10
+text_top: Discover the top-rated Instagram influencers on inBeat.
+text_bottom: Our platform holds 10 Instagram influencers like this in Peru for you to pitch.
 profiles:
-  - username: "marianobreccia"
-    fullname: >-
-      Mariano Breccia
-    bio: >-
-      •Multi-sport Athlete/Multideportista •Photographer/Fotógrafo •Capitán @adidasrunners Lima⚡️ •Sponsored by: @adidasterrex @suunto @scoscheperu
-    location: "Peru"
-    followers: 81381
-    engagement: 458
-    commentsToLikes: 0.035552
-    id: ck6ub4sus7gs20j71ww6ugyp4
-    verified: true
-    hashtags: "#terrex, #gopro, #outdoorlife, #marianobreccia"
   - username: "ta_acosta"
     fullname: >-
       ᴛᴀɴʏᴀ ᴀᴄᴏsᴛᴀ
@@ -91,18 +79,6 @@ profiles:
     id: ck8t7wjili7d60j78hvg9rvy0
     verified: false
     hashtags: "#karateshotokan, #peru, #peace, #femalekata"
-  - username: "athleticcontrast"
-    fullname: >-
-      𝗠𝗔𝗥𝗖𝗘𝗟𝗔 𝗣𝗔𝗗𝗜𝗟𝗟𝗔 | Lima, Perú
-    bio: >-
-      🇵🇪Peruvian Athlete - Long Jumper ⚡️Certified Fitness Coach 📩@athleticcontrast.club 👩🏽‍💻Content Creator
-    location: "Peru"
-    followers: 19366
-    engagement: 130
-    commentsToLikes: 0.040844
-    id: ck6uc7vb2e04i0j71mwpxeim7
-    verified: false
-    hashtags: "#asicsfrontrunner, #runner, #runners, #tbt"
   - username: "mariabelenper50"
     fullname: >-
       Maria Belen Bazo 🌷🦋🌴
@@ -127,4 +103,28 @@ profiles:
     id: ck5q5f1o8slbb0i11tttta1xu
     verified: false
     hashtags: "#taekwondogirl, #flexibility, #yopchagi, #dollyochagi"
+  - username: "paulafregoso"
+    fullname: >-
+      Paula Fregoso
+    bio: >-
+      -TKD National Poomsae Team 🇲🇽 | XX | 4:13 🥇WORLD CHAMPION 2018. 🏆MVP🇹🇼 🥇Juegos Panamericanos. 🥇Juegos Centroamericanos. 🦁U. Anáhuac México Norte.
+    location: "Peru"
+    followers: 9905
+    engagement: 2240
+    commentsToLikes: 0.022680
+    id: ckap1wymawfk50i78j7tillal
+    verified: false
+    hashtags: "#happy, #taekwondo, #followforfollowback, #tkdgirl"
+  - username: "andrelacroixx"
+    fullname: >-
+      Andre LaCroix
+    bio: >-
+      Professional Bmx Racer ✞ 📧: Lacroixbmx@gmail.com Tampa, FL / Lima, Peru
+    location: "Peru"
+    followers: 8385
+    engagement: 627
+    commentsToLikes: 0.051289
+    id: ck5zj1lhtgs2y0i1465h9mxab
+    verified: false
+    hashtags: "#bmx, #synergyutility, #ridebmx, #training"
 ---

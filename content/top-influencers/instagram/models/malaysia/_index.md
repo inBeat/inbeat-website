@@ -1,130 +1,130 @@
 ---
-title: Top 10 Models Instagram Influencers In Malaysia In 2023
+title: Top 10 Models Instagram Influencers In Malaysia In 2024
 description: >-
-  Find top models Instagram influencers in Malaysia in 2023. Most popular hashtags: #photography #smile #makeup.
+  Find top models Instagram influencers in Malaysia in 2024. Most popular hashtags: #ootd #concert #love.
 platform: Instagram
-hits: 72
-text_top: Identify the best Instagram profiles on inBeat.
-text_bottom: Our search engine aggregates 72 Instagram influencers like this in Malaysia for you to collaborate.
+hits: 78
+text_top: Identify the best Instagram influencers on inBeat.
+text_bottom: inBeat has 78 Instagram influencers like this in Malaysia for you to contact.
 profiles:
-  - username: "hannaqeela"
-    fullname: >-
-      Hanna Aqeela
-    bio: >-
-      Nutritionist | Model / Actress Email: hannaqeela90@gmail.com
-    location: "Malaysia"
-    followers: 363795
-    engagement: 6
-    commentsToLikes: 0.001464
-    id: ck6tj1z991uo40j71d9dsjhmq
-    verified: false
-    hashtags: "#prismplusmy, #prismplusmonitor, #englishpearandfreesia, #myjomalonelondon"
-  - username: "ruska.karkashadze"
-    fullname: >-
-      RUSKA KARKASHADZE/Actress
-    bio: >-
-      ▪️Actress🎬 ▪️Tv-Host🎤 ▪️Semi-finalist at #dwts 🌟 ▪️photo model📸 #ambassador 🙏🏻 ▪️love dancing 💃🏻 , & playing tennis 🎾
-    location: "Malaysia"
-    followers: 146490
-    engagement: 506
-    commentsToLikes: 0.158879
-    id: ck15rtli29n100i19yn2ff6p2
-    verified: false
-    hashtags: "#influencer, #shooting, #photography, #modeling"
-  - username: "hanlibubu"
-    fullname: >-
-      Hanlibubu 汉梨 | 🇲🇾
-    bio: >-
-      💛 Model • KOL • Host ✈️ Founder of @soinmediaenterprise 📥workwithme@hanlibubu.com 💮Nirvana SA 📍KL, Malaysia 🇲🇾
-    location: "Malaysia"
-    followers: 67638
-    engagement: 300
-    commentsToLikes: 0.058334
-    id: ck0vy58c32am90i192780f20n
-    verified: false
-    hashtags: "#joicomy, #goodbye2020, #touchngoewallet, #lebihbanyakesktra"
-  - username: "feniasworld"
-    fullname: >-
-      Fenia
-    bio: >-
-      Model | Traveller | Influencer | Artist 📸 My pics: 44 countries Manager : @photravel_iphone 📩 feniasworld@gmail.com 📌Malaysia @sazzito
-    location: "Malaysia"
-    followers: 53301
-    engagement: 349
-    commentsToLikes: 0.044948
-    id: ck60029k1ctu60i14dgo1jhth
-    verified: false
-    hashtags: "#girl, #beach, #valentineday, #smile"
-  - username: "da_astafieva"
-    fullname: >-
-      Даша Астафьева
-    bio: >-
-      Singer • Model • Actress • TV Host 55th Anniversary Playmate of @playboy  Bkng/Mng: +380 (99) 645 54 53 Adver: Alina@durnevsales.com.ua My new song 👇🏻
-    location: "Malaysia"
-    followers: 447404
-    engagement: 240
-    commentsToLikes: 0.025952
-    id: ck0vwvzyvvuw80i19qs2cibwb
-    verified: true
-    hashtags: "#style, #photography, #woolite, #ph"
-  - username: "winniek_my"
-    fullname: >-
-      Winnie K
-    bio: >-
-      Recording artiste/Singer/Performer/Model Bachelor Degree in Business Admin 👩🏻‍🎓 ❤️Travel,Fashion,Food,Coffee🍫☕️ wkproduction@gmail.com
-    location: "Malaysia"
-    followers: 305977
-    engagement: 88
-    commentsToLikes: 0.104950
-    id: ck5zotkhyraxs0i14pe1m3368
-    verified: true
-    hashtags: "#healthiswealth, #hydrogen, #healthylifestyle, #healthapp"
   - username: "_hakkencoser_"
     fullname: >-
       Hakken 八犬
     bio: >-
-      🇲🇾 ｜cosplayer ｜model ❗️THIS IS MY ONLY IG Please email for business✉️
+      🇲🇾 ｜cosplayer ｜model ｜ Tokyo Tourism Ambassador
     location: "Malaysia"
-    followers: 2309289
-    engagement: 2471
-    commentsToLikes: 0.011961
+    followers: 3717355
+    engagement: 1133
+    commentsToLikes: 0.005294
     id: ck136577k4sz50i1917sjsc3x
     verified: false
-    hashtags: "#supergroupies, #animebound, #dollsoom, #skechersmy"
-  - username: "yvonneyeefei"
+    hashtags: "#lorealparismy, #haircare, #tatlermalaysia, #moonlightbladem"
+  - username: "debhasrii"
     fullname: >-
-      Yvonne 李伊霏
+      D E B H A S R I
     bio: >-
-      💼 Broadcaster | Model 📧 yvonneleeyeefei@gmail.com 🎶TikTok/抖音 yvonneyeefei 🐘小象Elelive ID: 10072011🔍 Page: www.facebook.com/YvonneLeeYeeFei/
+      KL🇲🇾 A lawyer by day, entrepreneur by night. Sometimes, I model & create contents. The proud founder of @debhaayurveda
     location: "Malaysia"
-    followers: 41019
-    engagement: 260
-    commentsToLikes: 0.028725
-    id: ck5zl1awckjqh0i14kcuti2js
+    followers: 27514
+    engagement: 412
+    commentsToLikes: 0.018076
+    id: ck0ue2iyikdu50i19fosopd9r
     verified: false
-    hashtags: "#kinkalow, #catlover, #catstagram, #leeta"
-  - username: "charissachong"
+    hashtags: "#yuvanshankarraja, #indianwedding, #concert, #music"
+  - username: "aselmustafaeva"
     fullname: >-
-      Charissa Chong 🌹
+      Asel Mustafaeva | travel blog
     bio: >-
-      Content creator • Host • Model Miss Universe Malaysia 2020 1stRU hello.charissachong@gmail.com
+      Freelance model in 🇲🇾 اسمي عسل 📍Kuala Lumpur collaboration +77007612855 FT Kazakh Aru 2015, Miss Ocharovashka 2014
     location: "Malaysia"
-    followers: 47480
-    engagement: 298
-    commentsToLikes: 0.025828
-    id: ck139piqzmhu10i19eh9zr68u
+    followers: 2965790
+    engagement: 934
+    commentsToLikes: 0.010158
+    id: ckf5no6kayyk00j234glpgtpj
     verified: false
-    hashtags: "#pomelogirls, #fitnesswithcharissa, #fitnessjourney, #fitfam"
-  - username: "impollylau"
+    hashtags: ""
+  - username: "laura_patricia_c"
     fullname: >-
-      Polly Lau ⭐️
+      Laura Patricia Chandran
     bio: >-
-      劉若寶 Actress • Freelance Model Beauty | Fashion | Singing| Travel | Cat Lover Job💌 : pollybo.lau@gmail.com ⭐️ 全民造星3
+      CEO of @urban_niche 👙 🛍 @daangledesigns Realtor @iqiglobal Model Influencer Host 🎤 Pilates🤸‍♂️ DM: Sponsorship Bookings at laurachandran@gmail.com
     location: "Malaysia"
-    followers: 45064
-    engagement: 297
-    commentsToLikes: 0.012900
-    id: ck0vwiyl8u13s0i19bg217uae
+    followers: 72641
+    engagement: 228
+    commentsToLikes: 0.019774
+    id: ck6tww7tfugai0j713o36dbnu
     verified: false
-    hashtags: "#ultimune, #citiplus, #levelup, #lepalgin"
+    hashtags: "#igstyle, #urbanniche, #potd, #nightlife"
+  - username: "rienaamirah"
+    fullname: >-
+      رينا اميره✨Riena Amirah
+    bio: >-
+      Model • TV Commercial Talent • Spokesperson • Host • 📍KUL 🇲🇾
+    location: "Malaysia"
+    followers: 51142
+    engagement: 228
+    commentsToLikes: 0.035712
+    id: ck137t1ktd88b0i194ye01x8h
+    verified: false
+    hashtags: "#talentmalaysia, #pelakonbertudung, #ootd, #pelakon"
+  - username: "winniek_my"
+    fullname: >-
+      Winnie K
+    bio: >-
+      Recording artiste/Singer/Performer/Model Bachelor Degree in Business Admin 👩🏻‍🎓 ❤️Travel,Fashion,Food,Coffee🍫☕️ winnie@xeno.asia +601122001188 (WA)
+    location: "Malaysia"
+    followers: 414938
+    engagement: 224
+    commentsToLikes: 0.082537
+    id: ck5zotkhyraxs0i14pe1m3368
+    verified: true
+    hashtags: "#staysafeeveryone, #lasvegas, #hydrogen, #bookdoc"
+  - username: "irin.ezleen"
+    fullname: >-
+      Irinezleen
+    bio: >-
+      •Freelance Fashion Model •Full-Time Model •Dm for review For any photoshoot / business inquiries please do dm
+    location: "Malaysia"
+    followers: 38877
+    engagement: 211
+    commentsToLikes: 0.012819
+    id: ck6tj248v1uzd0j7114drcwib
+    verified: false
+    hashtags: "#gardendesign, #hijabstyle, #turbanstyle, #hijabfashionstyle"
+  - username: "calvinleo"
+    fullname: >-
+      💎C A L V I N   L E O 💎
+    bio: >-
+      Do all things with Kindness✨ Founder of @instafluencer_malaysia 💙 📧MISTERCALVINLEO@GMAIL.COM 🇸🇬(MA): @now_model_management 📢
+    location: "Malaysia"
+    followers: 24265
+    engagement: 185
+    commentsToLikes: 0.005829
+    id: ck0w2k8wtosf90i19arp5x8cl
+    verified: false
+    hashtags: "#lifestyle, #photography, #ootd, #videography"
+  - username: "miraraimi"
+    fullname: >-
+      Mira Raimi
+    bio: >-
+      ‎🕊️سُبْحَانَ اللَّهِ وَبِحَمْدِهِ سُبْحَانَ اللَّهِ الْعَظِيمِ ▫️ Muslimah model + digital creator ⬇️ Any work purposes kindly click this link ⬇️
+    location: "Malaysia"
+    followers: 54077
+    engagement: 173
+    commentsToLikes: 0.010621
+    id: ck15sautfc2rq0i19g47f866u
+    verified: false
+    hashtags: "#workdayvlog, #shawltutorial, #cleaninghacks, #prayforpalestine"
+  - username: "jennagong"
+    fullname: >-
+      𝒥𝑒𝓃𝓃𝒶 𝒢𝑜𝓃𝑔
+    bio: >-
+      Content creator l Model | Talent Fashion • Beauty • Lifestyle For collabs & sponsorships 📧: branda@curatedtalents.com 📞 016-6866005
+    location: "Malaysia"
+    followers: 120366
+    engagement: 149
+    commentsToLikes: 0.009834
+    id: ck15qb5ij1ztv0i191h6hifjl
+    verified: false
+    hashtags: "#melvitacleancycling, #melvitamalaysia, #fashionblogger, #firstcareactivatingserum"
 ---

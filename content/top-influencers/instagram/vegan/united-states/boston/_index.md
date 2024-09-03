@@ -1,11 +1,11 @@
 ---
-title: Top 10 Vegan Instagram Influencers In Boston In 2023
+title: Top 10 Vegan Instagram Influencers In Boston In 2024
 description: >-
-  Find top vegan Instagram influencers in Boston in 2023. Most popular hashtags: #vegan #boston #plantbased #travel.
+  Find top vegan Instagram influencers in Boston in 2024. Most popular hashtags: #vegan #bostonfoodie #boston #bostonfoodies.
 platform: Instagram
-hits: 44
-text_top: Identify the top-rated Instagram accounts on inBeat.
-text_bottom: Our database aggregates 44 Instagram influencers like this in Boston, United States for you to contact.
+hits: 59
+text_top: Discover the best Instagram influencers on inBeat.
+text_bottom: inBeat has 59 Instagram influencers like this in Boston, United States for you to collaborate.
 profiles:
   - username: "caught.in.a.taste"
     fullname: >-
@@ -30,7 +30,19 @@ profiles:
     commentsToLikes: 0.051448
     id: ck5zj9jjhh6vi0i14vb1nsfmk
     verified: false
-    hashtags: "#meatless, #vegetarian, #thefutureofdairyisnuts, #food52"
+    hashtags: "#vegancheeseboard, #heartshaped, #vegancheese, #thefeedfeed"
+  - username: "nutritionrewired"
+    fullname: >-
+      Erin Kenney
+    bio: >-
+      🥝Registered Dietitian 🎙NutritionRewired pod 💩Helping you find relief IBS, IBD, SIBO, constipation, reflux 🌱Lab tested CBD 📚Author: Rewire Your Gut
+    location: "United States"
+    followers: 94293
+    engagement: 55
+    commentsToLikes: 0.061714
+    id: cl0v5ifvct5yp0i23mojg65vg
+    verified: false
+    hashtags: "#candidacleanse, #thyroid, #hormonehealing, #microbiome"
   - username: "dacrown_lifestyle"
     fullname: >-
       Travel Lover 🛫
@@ -43,30 +55,66 @@ profiles:
     id: ckaoz1m5qjzpl0i78gzg55ibe
     verified: false
     hashtags: "#dronephotography, #dacrownlifestyle, #forest, #powder"
-  - username: "rodneylavoiejr"
+  - username: "bottomlyssbites"
     fullname: >-
-      Rodney Lavoie Jr. “𝓢𝓾𝓻𝓿𝓲𝓿𝓸𝓻”
+      Alyssa | Boston Foodie 🩵
     bio: >-
-      🎙 Motivational Speaker 🧠 Mental Health Awareness 🫂 Life Coach 📚501(c)3:@TheWarriorsofPurpose 🎧 Podcast:@SilenceKillsMovement 📲 Back-up:@SurvivorRodney
+      finding your next spot Boston & beyond 🫡 ✨ @alyssa.palladino 📲 dm/email for collabs & partnerships
     location: "United States"
-    followers: 393099
-    engagement: 659
-    commentsToLikes: 0.040046
-    id: ck6u2a8u3qmzb0j71yukdua4n
-    verified: true
-    hashtags: "#motivation, #miami, #depression, #selflove"
-  - username: "dressupwithnidhi"
-    fullname: >-
-      NIDHI || Boston Blogger
-    bio: >-
-      All about Fashion and lifestyle living my life with my 👨‍👩‍👧 and 🐶! #bostonblogger #bostoninfluencer Collabs: 📧 nidhigoel24@gmail.com
-    location: "United States"
-    followers: 31457
-    engagement: 443
-    commentsToLikes: 0.282950
-    id: ck0vvodspq1110i19jm8nevet
+    followers: 26022
+    engagement: 1459
+    commentsToLikes: 0.084439
+    id: ckwbef88hl13l0j232krygbrz
     verified: false
-    hashtags: "#momlife, #ootdbostonian, #bossbabe, #momslife"
+    hashtags: "#dailyfoodfeed, #bostonma, #salmon, #bostoneats"
+  - username: "vegan_kween"
+    fullname: >-
+      Erica | Vegan Kween
+    bio: >-
+      👑 Your top guide to vegan food in Boston ✨ As seen in Boston Magazine 🍔 I just took a DNA test & turns out I’m 100% hungry 💌 thevegankween@gmail.com
+    location: "United States"
+    followers: 15759
+    engagement: 298
+    commentsToLikes: 0.130050
+    id: ck6ug7zo01g5c0j714xfmgqto
+    verified: false
+    hashtags: "#sponsored, #goodcatchfoods, #hotgrillsummer, #ridiculouslygood"
+  - username: "plantifulkimanna"
+    fullname: >-
+      kimanna | bsn, rn 🍒
+    bio: >-
+      boston | 25 🇻🇳 — wellness, style, my life 💌plantifulkimanna@gmail.com
+    location: "United States"
+    followers: 6364
+    engagement: 506
+    commentsToLikes: 0.401606
+    id: cllewbgb0ulwm0j08ovmij8j5
+    verified: false
+    hashtags: "#falloutfits, #veganfoodie, #ootdinspiration, #bostonfoodblogger"
+  - username: "thetableofspice"
+    fullname: >-
+      Sweta Patel
+    bio: >-
+      🍑 | Savannah, GA 🧿 | Food + Lifestyle & Everything In Between 💌 | Sweta@thetableofspice.com ⤵️ | LATEST POST: Vanilla Pear Margarita
+    location: "United States"
+    followers: 24854
+    engagement: 190
+    commentsToLikes: 0.093507
+    id: ck6to2h8obqlz0j71ng1nas7b
+    verified: false
+    hashtags: "#sponsored, #ad, #thetableofspice, #easter2021"
+  - username: "food.with.sass"
+    fullname: >-
+      Alissa • Donut Model
+    bio: >-
+      🍝 Boston Foodie 👩🏼‍⚕️ Resident Physician 🍽 @zipkick @bestfoodfeed 🍕 @slice: use FOODWITHSASS for $7 off
+    location: "United States"
+    followers: 3207
+    engagement: 567
+    commentsToLikes: 0.189854
+    id: ck5hsf5pjwhvh0i1139abgc3e
+    verified: false
+    hashtags: "#newforkcity, #lovefood, #eatingfortheinsta, #supportlocalbusiness"
   - username: "alexandra.conza"
     fullname: >-
       Alexandra
@@ -79,52 +127,4 @@ profiles:
     id: ck5zml37cmrax0i147e6at642
     verified: false
     hashtags: "#vegan, #plantbased, #coconut, #dairyfree"
-  - username: "megallysa"
-    fullname: >-
-      Meg Thompson
-    bio: >-
-      Pastry @srvboston ✌🏼️
-    location: "United States"
-    followers: 2367
-    engagement: 930
-    commentsToLikes: 0.081344
-    id: ck14ki3pmpluq0i1953yxs87y
-    verified: false
-    hashtags: "#travel, #dolci, #southend, #uvita"
-  - username: "d_r_hildebrand"
-    fullname: >-
-      David Raphael Hildebrand
-    bio: >-
-      Old soul in a reclaimed body. 📍New York Writer • Model • Entrepreneur 👬 @joshgaddy 🏊 Swimmer by chance. 🌱 Vegan by design. Choose kindness.
-    location: "United States"
-    followers: 19133
-    engagement: 414
-    commentsToLikes: 0.091711
-    id: ck15reiru7jc50i195emotajc
-    verified: false
-    hashtags: "#gayvegan, #fireislandpines, #swimming, #summer"
-  - username: "aizhoumusic"
-    fullname: >-
-      Aizhou Music 艾舟音乐
-    bio: >-
-      🎼 Singer-songwriter/composer & model 🥟 1/2 of @xlb.duo 🇨🇳 Beijing->Shanghai->Boston->NYC->LA 👑 WGBH/PBS sting winner
-    location: "United States"
-    followers: 11426
-    engagement: 613
-    commentsToLikes: 0.085775
-    id: ck8t34fgz1teq0j78s2ewqud3
-    verified: false
-    hashtags: "#nymodel, #freelancemodel, #asianmodel, #vocalist"
-  - username: "theveggiepilot"
-    fullname: >-
-      Vegan Airline Pilot
-    bio: >-
-      As seen on N.P.R., The Boston Globe, Travel + Leisure Magazine, P.E.T.A., Metro U.K. 📍Norfolk 👇🏼Donate for the Afghan Refugees coming to the U.S.
-    location: "United States"
-    followers: 26818
-    engagement: 365
-    commentsToLikes: 0.044414
-    id: ck0w63mxb6qry0i19pcn6dxqd
-    verified: false
-    hashtags: "#vegantraveler, #veganfoodporn, #veganism, #vegantravel"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Home Decor TikTok Influencers In Germany In 2023
+title: Top 10 Home Decor TikTok Influencers In Germany In 2024
 description: >-
-  Find top home decor TikTok influencers in Germany in 2023. Most popular hashtags: #diy #homedecor #fyp #fy.
+  Find top home decor TikTok influencers in Germany in 2024. Most popular hashtags: #diy #homedecor #fyp #fy.
 platform: TikTok
 hits: 9
-text_top: See the top-rated TikTok influencers on inBeat.
-text_bottom: inBeat aggregates 9 TikTok influencers like this in Germany for you to pitch.
+text_top: Analyze the top-rated TikTok accounts on inBeat.
+text_bottom: Our platform aggregates 9 TikTok influencers like this in Germany for you to contact.
 profiles:
   - username: "diy_byhulyaa"
     fullname: >-
@@ -90,7 +90,7 @@ profiles:
     commentsToLikes: 0.048271
     id: ck9gkopg2kmed0j78mcqyj5yq
     verified: false
-    hashtags: "#travelvideo, #fyp, #handmade, #macrame"
+    hashtags: "#tiktoktravel, #beach, #handmade, #traveling"
   - username: "genialetricks"
     fullname: >-
       Geniale Tricks

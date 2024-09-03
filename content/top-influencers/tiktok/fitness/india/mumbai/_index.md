@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fitness TikTok Influencers In Mumbai In 2023
+title: Top 10 Fitness TikTok Influencers In Mumbai In 2024
 description: >-
-  Find top fitness TikTok influencers in Mumbai in 2023. Most popular hashtags: #foryou #tiktokindia #trending #foryoupage.
+  Find top fitness TikTok influencers in Mumbai in 2024. Most popular hashtags: #foryou #tiktokindia #trending #foryoupage.
 platform: TikTok
 hits: 30
-text_top: Identify the most popular TikTok accounts on inBeat.
-text_bottom: Our database aggregates 30 TikTok influencers like this in Mumbai, India for you to connect with.
+text_top: See the most popular TikTok profiles on inBeat.
+text_bottom: inBeat holds 30 TikTok influencers like this in Mumbai, India for you to contact.
 profiles:
   - username: "rann75725"
     fullname: >-

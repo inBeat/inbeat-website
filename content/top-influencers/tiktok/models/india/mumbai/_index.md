@@ -1,11 +1,11 @@
 ---
-title: Top 10 Models TikTok Influencers In Mumbai In 2023
+title: Top 10 Models TikTok Influencers In Mumbai In 2024
 description: >-
-  Find top models TikTok influencers in Mumbai in 2023. Most popular hashtags: #tiktok #duet #foryou #love.
+  Find top models TikTok influencers in Mumbai in 2024. Most popular hashtags: #tiktok #foryou #duet #love.
 platform: TikTok
 hits: 41
-text_top: Identify the most popular TikTok influencers on inBeat.
-text_bottom: Our platform holds 41 TikTok influencers like this in Mumbai, India for you to pitch.
+text_top: See the top-rated TikTok accounts on inBeat.
+text_bottom: Our platform holds 41 TikTok influencers like this in Mumbai, India for you to work with.
 profiles:
   - username: "ashafred"
     fullname: >-
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.108319
     id: ck8ae60fza3oa0j78f1xj22yi
     verified: false
-    hashtags: "#tik, #oldsongs, #lipsync, #bollywood"
+    hashtags: "#bollywood, #lipsync, #manmeet, #tiktokindia"
   - username: "jagrutipomendkar"
     fullname: >-
       Jagruti Pomendkar

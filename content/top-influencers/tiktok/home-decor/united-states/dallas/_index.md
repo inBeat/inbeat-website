@@ -1,11 +1,11 @@
 ---
-title: Top 10 Home Decor TikTok Influencers In Dallas In 2023
+title: Top 10 Home Decor TikTok Influencers In Dallas In 2024
 description: >-
-  Find top home decor TikTok influencers in Dallas in 2023. Most popular hashtags: #fyp #homedecor #hometour #dallas.
+  Find top home decor TikTok influencers in Dallas in 2024. Most popular hashtags: #fyp #homedecor #hometour #dallas.
 platform: TikTok
 hits: 17
-text_top: Identify the most popular TikTok accounts on inBeat.
-text_bottom: Our database holds 17 TikTok influencers like this in Dallas, United States for you to contact.
+text_top: Analyze the most popular TikTok accounts on inBeat.
+text_bottom: Our search engine has 17 TikTok influencers like this in Dallas, United States for you to connect with.
 profiles:
   - username: "lisaguzmangroup"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.029894
     id: ckbfdo61w74rh0j237hdl905g
     verified: false
-    hashtags: "#texas, #sanantonio, #realtor, #newhome"
+    hashtags: "#sanantonio, #hometour, #texas, #austin"
   - username: "aloprofile"
     fullname: >-
       aloprofile
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.041831
     id: ckbkt2ma7o3sv0j23z5y7w93l
     verified: false
-    hashtags: "#dogsoftiktok, #springdress, #hometour, #miami"
+    hashtags: "#trend, #funny, #miami, #springdress"
   - username: "almightyydionn"
     fullname: >-
       AlmightyyDionn🦅🖤
@@ -54,7 +54,7 @@ profiles:
     commentsToLikes: 0.022152
     id: ckdsv93sxq2gl0j23y5zu8jw1
     verified: false
-    hashtags: "#fyp, #realtor, #realestate, #dfwrealtor"
+    hashtags: "#newbuild, #dfwrealtor, #realtor, #fyp"
   - username: "pj_perry"
     fullname: >-
       Perry
@@ -78,7 +78,7 @@ profiles:
     commentsToLikes: 0.011442
     id: ck8j9dg9amwt80j78srdb637o
     verified: false
-    hashtags: "#homedecor, #diy, #fallaesthetic, #foryou"
+    hashtags: "#homedecor, #foryoupage, #fallaesthetic, #foryou"
   - username: "lifestyle_by_candi.k"
     fullname: >-
       Candi K.
@@ -126,5 +126,5 @@ profiles:
     commentsToLikes: 0.009455
     id: ckbkrj0dxm98b0j23e93r7wz0
     verified: false
-    hashtags: "#parati, #tutoriales, #plantas, #diyproject"
+    hashtags: "#decoracion, #tutoriales, #fall, #hack"
 ---

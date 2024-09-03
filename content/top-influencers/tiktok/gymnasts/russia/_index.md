@@ -1,11 +1,11 @@
 ---
-title: Top 10 Gymnasts TikTok Influencers In Russia In 2023
+title: Top 10 Gymnasts TikTok Influencers In Russia In 2024
 description: >-
-  Find top gymnasts TikTok influencers in Russia in 2023. Most popular hashtags: #gymnastics #tiktok #amazing #russia.
+  Find top gymnasts TikTok influencers in Russia in 2024. Most popular hashtags: #gymnastics #tiktok #amazing #russia.
 platform: TikTok
 hits: 12
-text_top: Analyze the top-rated TikTok accounts on inBeat.
-text_bottom: Our database holds 12 TikTok influencers like this in Russia for you to collaborate.
+text_top: Identify the top-rated TikTok profiles on inBeat.
+text_bottom: Our platform has 12 TikTok influencers like this in Russia for you to connect with.
 profiles:
   - username: "polabr"
     fullname: >-

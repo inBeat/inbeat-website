@@ -1,12 +1,48 @@
 ---
-title: Top 10 Cinema Instagram Influencers In Germany In 2023
+title: Top 10 Cinema Instagram Influencers In Germany In 2024
 description: >-
-  Find top cinema Instagram influencers in Germany in 2023. Most popular hashtags: #gramslayers #xceptionaledits #lookslikefilm.
+  Find top cinema Instagram influencers in Germany in 2024. Most popular hashtags: #cinematography #behindthescenes #photoshop #portrait.
 platform: Instagram
-hits: 233
-text_top: See the top-rated Instagram accounts on inBeat.
-text_bottom: Our search engine has 233 Instagram influencers like this in Germany for you to work with.
+hits: 320
+text_top: Discover the top-rated Instagram accounts on inBeat.
+text_bottom: Our database holds 320 Instagram influencers like this in Germany for you to connect with.
 profiles:
+  - username: "fotografrohit"
+    fullname: >-
+      Rohit Naik | Munich Portrait Photographer
+    bio: >-
+      PHOTOGRAPHY | CINEMATOGRAPHY ನಮಸ್ಕಾರ🙏 🧒🏾🇮🇳🇩🇪 📨EMAIL FOR COLLABORATION
+    location: "Germany"
+    followers: 41422
+    engagement: 676
+    commentsToLikes: 0.117891
+    id: ckapa425rume60i78ssxl3gdk
+    verified: false
+    hashtags: "#portraitphotography, #nikonz6ii, #visitgermany, #trendingaudio"
+  - username: "aputure.lighting"
+    fullname: >-
+      Aputure
+    bio: >-
+      💡Cinema Gear | Education | Features | Contests 🎥By Filmmakers, For Filmmakers 👇🏼 Learn Lighting
+    location: "Germany"
+    followers: 399006
+    engagement: 134
+    commentsToLikes: 0.011433
+    id: ck0tx50bdhxxt0i19i73xdybk
+    verified: false
+    hashtags: "#lighting, #photography, #filmproduction, #lightingdesign"
+  - username: "cassyverse_"
+    fullname: >-
+      Cassandra Ebner
+    bio: >-
+      Lifestyle & Travel | seeing life cinematically all over the world ✉️ cassandra@youmgmt.de 📭 Hamburg, Germany 🌎 currently in Hamburg, Germany
+    location: "Germany"
+    followers: 113452
+    engagement: 27
+    commentsToLikes: 0.000073
+    id: ck0w4rw6z03uy0i197d4qwwgh
+    verified: false
+    hashtags: "#visitcostarica, #cinematicreels, #costaricagram, #hhstyle"
   - username: "raguccy"
     fullname: >-
       DANIEL TESKE
@@ -66,7 +102,7 @@ profiles:
     commentsToLikes: 0.036632
     id: ck5qakzlpgy430i11q0xxnghi
     verified: false
-    hashtags: "#zbrush, #ornament, #queenofnothing, #visualambassadors"
+    hashtags: "#artnouveau, #ornament, #design, #styleframe"
   - username: "luwam_russom"
     fullname: >-
       L U W A M   R U S S O M
@@ -78,7 +114,7 @@ profiles:
     commentsToLikes: 0.052442
     id: ck138xilbiieq0i19f7pxv7dx
     verified: false
-    hashtags: "#luwamrussom, #hiphop, #dance, #cardib"
+    hashtags: "#dance, #hiphop, #luwamrussom, #irgendwieegal"
   - username: "emesserschmidt"
     fullname: >-
       Erik Messerschmidt, ASC
@@ -91,40 +127,4 @@ profiles:
     id: ck6uew4v6teto0j71lpxadl7k
     verified: false
     hashtags: "#raisedbywolves, #incamera, #lincoln, #helium"
-  - username: "leila_golden_voice"
-    fullname: >-
-      Leila Forouhar (Fan Page)
-    bio: >-
-      🎬 Actress (Theatre & Cinema) 🎤 Legendary Singer 🌟 The Star of Persian Music 🌹 سفارش تبلیغات: دایرکت
-    location: "Germany"
-    followers: 154063
-    engagement: 174
-    commentsToLikes: 0.020578
-    id: ckaotwgfbxt5l0i78bz6yeqvr
-    verified: false
-    hashtags: "#beautiful, #star, #instagood, #dance"
-  - username: "lmellgreenl"
-    fullname: >-
-      𝕄𝕖𝕝𝕝 𝔾𝕣𝕖𝕖𝕟
-    bio: >-
-      🎬Cinematographer / Editor / Creative Producer🎬 🎛 Sound Designer / Music Guru 🎛 💡Founder project @On.the.bar💡 🏆Winner Germany short film festival 2020🏆
-    location: "Germany"
-    followers: 19793
-    engagement: 474
-    commentsToLikes: 0.073379
-    id: ck5qdx721xpl30i115d46iwx2
-    verified: false
-    hashtags: "#bro, #flairing, #mixologist, #life"
-  - username: "gretchen_.ross"
-    fullname: >-
-      Michelle | be tender be kind
-    bio: >-
-      plants & crafting | interior enthusiast | flea markets & vintage | cinematography ♡ vinyl & film | 𝑠𝑡𝑎𝑦 𝑠𝑜𝑓𝑡 #arrangedbyanintrovert | send d(og)pics
-    location: "Germany"
-    followers: 20971
-    engagement: 185
-    commentsToLikes: 0.013172
-    id: ck0uaujd5d0pv0i19mly4lbam
-    verified: false
-    hashtags: "#nordicliving, #plantgoals, #wohnraumliebe, #myhyggehome"
 ---

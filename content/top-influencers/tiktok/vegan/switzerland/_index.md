@@ -1,24 +1,36 @@
 ---
-title: Top 10 Vegan TikTok Influencers In Switzerland In 2023
+title: Top 10 Vegan TikTok Influencers In Switzerland In 2024
 description: >-
-  Find top vegan TikTok influencers in Switzerland in 2023. Most popular hashtags: #vegan #fyp #food #schweiz.
+  Find top vegan TikTok influencers in Switzerland in 2024. Most popular hashtags: #vegan #fyp #food #schweiz.
 platform: TikTok
-hits: 9
+hits: 12
 text_top: See the top-rated TikTok profiles on inBeat.
-text_bottom: Our search engine has 9 TikTok influencers like this in Switzerland for you to contact.
+text_bottom: Our platform holds 12 TikTok influencers like this in Switzerland for you to contact.
 profiles:
+  - username: "delikates.ch"
+    fullname: >-
+      delikates.ch
+    bio: >-
+      Neu! Lade dir unser App völlig Gratis herunter! Jetzt downloaden! ⤵️🤗
+    location: "Switzerland"
+    followers: 4206
+    engagement: 300
+    commentsToLikes: 0.040355
+    id: ck8tlndh7c7my0j781m6cfa20
+    verified: false
+    hashtags: "#fy, #lernenmittiktok, #rezepte, #1x1"
   - username: "mrsflury"
     fullname: >-
       Mrs Flury
     bio: >-
-      Doris 🌻 Gesunde Rezepte Insta @mrsflury #eatgoodfood BLOG | YOUTUBE | SHOP👇🏻
+      Doris 🌻 Gesunde Rezepte Insta @mrsflury #eatgoodfood MEIN BUCH 🤗👇🏻
     location: "Switzerland"
-    followers: 70600
-    engagement: 840
-    commentsToLikes: 0.014061
+    followers: 73100
+    engagement: 929
+    commentsToLikes: 0.015306
     id: ck8qgc40n09rq0j78lb0w0w5d
     verified: false
-    hashtags: "#gesund, #whatieatinaday, #rezepte, #vegan"
+    hashtags: "#plantbased, #easy, #rezepte, #backen"
   - username: "raheldiscovers"
     fullname: >-
       Rahel Discovers
@@ -67,6 +79,18 @@ profiles:
     id: ck81q2se4fh3a0j78gu0d038j
     verified: true
     hashtags: "#plastic, #sustainable, #coronavirus, #food"
+  - username: "dreamer_81"
+    fullname: >-
+      m𝕒𝕟𝕕y✨
+    bio: >-
+      ✨ BE CREATIVE ✨ ✨ TO REALIZE ✨ ✨ YOUR DREAMS ✨
+    location: "Switzerland"
+    followers: 14600
+    engagement: 690
+    commentsToLikes: 0.031232
+    id: ck900yq64b29a0j78bdihh3ib
+    verified: false
+    hashtags: "#migros, #winterwonderland, #guezli, #ausaltmachneu"
   - username: "angelo_amaro"
     fullname: >-
       angelo.amaro
@@ -83,36 +107,24 @@ profiles:
     fullname: >-
       Salome.Rakeseder
     bio: >-
-      Hi i‘m salome :) 5teen
+      Hi i‘m salome :)
     location: "Switzerland"
     followers: 27400
-    engagement: 1485
-    commentsToLikes: 0.009560
+    engagement: 1501
+    commentsToLikes: 0.010130
     id: ck9tveh0wq93e0j783nd7y5h0
     verified: false
-    hashtags: "#viral, #trend, #fyp, #funny"
-  - username: "delikates.ch"
+    hashtags: "#fyp, #4you, #viral, #trend"
+  - username: "srfzweiammorge"
     fullname: >-
-      delikates.ch
+      SRF Zwei am Morge
     bio: >-
-      ☺️ FOLGE MIR AUF INSTA 😊 ⬆️ Oder Besuch mich in meinen Shop⬇️ Code: NEXT18FIVE
+      Hier wird Aditotoro hops genommen! (Kompletter Prank) ⬇️
     location: "Switzerland"
-    followers: 3990
-    engagement: 180
-    commentsToLikes: 0.039336
-    id: ck8tlndh7c7my0j781m6cfa20
-    verified: false
-    hashtags: "#tutorials, #diy, #fyp, #tiktokkoch"
-  - username: "anthonydiversi"
-    fullname: >-
-      Anthony DIVERSI
-    bio: >-
-      • Geneva🇨🇭
-    location: "Switzerland"
-    followers: 3343
-    engagement: 552
-    commentsToLikes: 0.012414
-    id: ckacbiafbhkf00i78u844ba2j
-    verified: false
-    hashtags: "#suisse, #valais, #switzerland, #lifestyle"
+    followers: 54800
+    engagement: 1007
+    commentsToLikes: 0.010468
+    id: ck9bybcu8n1og0j7897o6fhhm
+    verified: true
+    hashtags: "#fyp, #ski, #switzerland, #verarschung"
 ---

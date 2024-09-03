@@ -1,12 +1,84 @@
 ---
-title: Top 10 Dancers Instagram Influencers In Japan In 2023
+title: Top 10 Dancers Instagram Influencers In Japan In 2024
 description: >-
-  Find top dancers Instagram influencers in Japan in 2023. Most popular hashtags: #japan #dancer #ootd.
+  Find top dancers Instagram influencers in Japan in 2024. Most popular hashtags: #dance #fashion #ootd.
 platform: Instagram
 hits: 161
-text_top: See the top-rated Instagram influencers on inBeat.
-text_bottom: Our database aggregates 161 Instagram influencers like this in Japan for you to collaborate.
+text_top: Discover the most popular Instagram accounts on inBeat.
+text_bottom: Our platform holds 161 Instagram influencers like this in Japan for you to connect with.
 profiles:
+  - username: "leomunakata"
+    fullname: >-
+      Leo (Rht.)
+    bio: >-
+      Dancer, Choreographer Rht.🏆 @officialrht Booking→ DM or leorht20@gmail.com
+    location: "Japan"
+    followers: 14646
+    engagement: 1083
+    commentsToLikes: 0.006870
+    id: ck8sywbszm9jo0j78wjhqmr6a
+    verified: false
+    hashtags: "#avexroyalbrats, #rht, #dance, #drswag"
+  - username: "alan_shirahama_official"
+    fullname: >-
+      Alan Shirahama 白濱亜嵐
+    bio: >-
+      Member of #EXILE and #GENERATIONS and #PKCZ Dancer,DJ,Track maker,Actor,Singer Tourism ambassador for the Philippines🇵🇭
+    location: "Japan"
+    followers: 1298825
+    engagement: 478
+    commentsToLikes: 0.006332
+    id: ck14j37wniejg0i19u21iui1f
+    verified: true
+    hashtags: "#metrock, #dtm, #philippinesindependenceday, #paymoneytomypain"
+  - username: "reina_queenme"
+    fullname: >-
+      ReiNa(Rht.)
+    bio: >-
+      Dancer : ChrisBrown/NCT/SkZ/INI/8LOOM/NOA/SnowMan/ATEEZ/GENERATIONS /BE:FIRST @officialrht @gift_tiag @criminalzcrewofficial 【reinaagent1@gmail.com 】
+    location: "Japan"
+    followers: 204417
+    engagement: 346
+    commentsToLikes: 0.003497
+    id: ck134t6iey2rn0i19fl1pirwf
+    verified: false
+    hashtags: "#reinaworkshop, #lacoste, #jo1, #bf"
+  - username: "funkypinokio"
+    fullname: >-
+      Andy Hsu ｜앤디 ｜アンディー | INFP
+    bio: >-
+      🌟舞者/DANCER 🌟排舞家/CHOREOGRAPHER 🌟模特兒/MODEL/INFLUENCER 🌟舞蹈編排 ，表演設計，肢體開發，業配，任何工作相關合作請私訊。any work inquiries please DM me。
+    location: "Japan"
+    followers: 68714
+    engagement: 346
+    commentsToLikes: 0.010559
+    id: ck5cj4cbetydx0i118hej1gls
+    verified: false
+    hashtags: "#pics, #photography, #post, #fitness"
+  - username: "amylialoh"
+    fullname: >-
+      AMY LOH
+    bio: >-
+      ¼ @wearecoex.official 👽 singer • dancer • model • creator fashion | beauty | lifestyle work/collab 💌: dm/email @armanientertainment 🏹: pr@armani.my
+    location: "Japan"
+    followers: 13521
+    engagement: 180
+    commentsToLikes: 0.028423
+    id: clm70aq1lgk7f0j08qvgkbwta
+    verified: false
+    hashtags: "#amyco, #armanientertainment, #co, #aeg"
+  - username: "miyudance_"
+    fullname: >-
+      Miyu
+    bio: >-
+      #Dancer /Model / World Champion🏆 ■民間人初の月旅行に参加します🚀 ■ダンス世界大会優勝🏆 お仕事のご依頼はメールにてお願い致します🙇‍♀️
+    location: "Japan"
+    followers: 319259
+    engagement: 148
+    commentsToLikes: 0.006318
+    id: ck6txv6yx01im0j719egksjal
+    verified: false
+    hashtags: "#housedance, #endancestudio, #dancer, #housemusic"
   - username: "dri.cosplay"
     fullname: >-
       Adriana Alencar🇧🇷🇺🇸🇯🇵
@@ -31,18 +103,6 @@ profiles:
     id: ck8t6ex0zdcrn0j784186lmb1
     verified: false
     hashtags: "#miku, #new, #cyberjapan, #enamiku"
-  - username: "alan_shirahama_official"
-    fullname: >-
-      Alan Shirahama 白濱亜嵐
-    bio: >-
-      "EXILE" & "GENERATIONS" & "PKCZ" Dancer, DJ, Track maker,Actor #EXILE #GENERATIONS #PKCZ #白濱亜嵐 #ALANSHIRAHAMA @generations_official @pkcz_official
-    location: "Japan"
-    followers: 1410453
-    engagement: 951
-    commentsToLikes: 0.009709
-    id: ck14j37wniejg0i19u21iui1f
-    verified: true
-    hashtags: "#10, #exile, #risingsuntotheworld, #braunl1"
   - username: "kyoka828"
     fullname: >-
       Kyoka [ Tajiri Kyoka ]
@@ -67,64 +127,4 @@ profiles:
     id: ck5bznmxkri180i11r6bo4uzt
     verified: false
     hashtags: "#casetify, #stateyourcase, #itsmytimenow, #onenightonly"
-  - username: "manahello"
-    fullname: >-
-      Mana Okada/まな
-    bio: >-
-      #Manahello♥️love #Manabees🐝 Dancer/Youtuber/From Japan,Japanese💗 台湾に住んでる踊るYouTuberです
-    location: "Japan"
-    followers: 78413
-    engagement: 631
-    commentsToLikes: 0.019013
-    id: ck5c8u77za8cs0i11qo9bg5vi
-    verified: false
-    hashtags: "#instamood, #manahello, #dancer, #taipei"
-  - username: "rika_534"
-    fullname: >-
-      RIKA
-    bio: >-
-      💎 DANCE Instructor 🏎 LEON RACING LADY 2020 💃 CYBERJAPAN DANCERS KOZUEプロデュース 　　「KOZUE 座 SHOW 」舞台出演 　　　　10月18日21:00〜生配信🌈🌈
-    location: "Japan"
-    followers: 17172
-    engagement: 634
-    commentsToLikes: 0.027811
-    id: ck6uc235rd1ky0j7125yw9iqs
-    verified: false
-    hashtags: "#danceinstructor, #cafe, #camp, #selfie"
-  - username: "mia.konig.asaoka"
-    fullname: >-
-      Mia König Aasaoka (she/her)
-    bio: >-
-      #blm Pro Ballet Dancer,Advisor,🏳️‍🌈er,♥️er @thestuttgartballet @miamicityballet #royalflandersballet 🔏 @elitenyc 🎓 @centre_goube @sab_nyc 🇺🇸🇫🇷🇯🇵🇩🇪🇷🇺
-    location: "Japan"
-    followers: 31770
-    engagement: 2698
-    commentsToLikes: 0.007013
-    id: ck8tamk45sbas0j78vue33zxg
-    verified: false
-    hashtags: "#ballerine, #balletreel, #merlet, #balletvideos"
-  - username: "twcmomo"
-    fullname: >-
-      TWICE MOMO (모모) Fanpage
-    bio: >-
-      “Dancer sent down from the gods.” - Lia Kim (2018) [💃🏻] for one of twice’s main dancers [✨] daily pic/vid updates of Momo
-    location: "Japan"
-    followers: 44215
-    engagement: 1100
-    commentsToLikes: 0.002199
-    id: ck14jgkoqk8gs0i19mba1waew
-    verified: false
-    hashtags: "#jeongyeon, #tzuyu, #hiraimomo, #jypentertainment"
-  - username: "letso.m"
-    fullname: >-
-      ＴＳＨＩＲＥＬＥＴＳＯ    Ｍ Ａ Ｄ Ｕ Ｍ Ｏ 🇿🇦
-    bio: >-
-      Singer| Song Writer| Dancer| Actress @latrucoo - 🦋🖤
-    location: "Japan"
-    followers: 5900
-    engagement: 3166
-    commentsToLikes: 0.037102
-    id: ck5hlmnsskhgy0i116rq0hgat
-    verified: false
-    hashtags: ""
 ---

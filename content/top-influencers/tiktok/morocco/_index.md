@@ -1,11 +1,11 @@
 ---
-title: Top 10 TikTok Influencers In Morocco In 2023
+title: Top 10 TikTok Influencers In Morocco In 2024
 description: >-
-  Find top TikTok influencers in Morocco in 2023. Most popular hashtags: #fyp #bts #follow.
+  Find top TikTok influencers in Morocco in 2024. Most popular hashtags: #fyp #bts #follow.
 platform: TikTok
 hits: 448
-text_top: Analyze the most popular TikTok influencers on inBeat.
-text_bottom: Our search engine aggregates 448 TikTok influencers like this in Morocco for you to work with.
+text_top: Discover the most popular TikTok influencers on inBeat.
+text_bottom: Our search engine has 448 TikTok influencers like this in Morocco for you to pitch.
 profiles:
   - username: "x_yuna_"
     fullname: >-

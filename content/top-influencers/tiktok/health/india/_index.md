@@ -1,11 +1,11 @@
 ---
-title: Top 10 Health TikTok Influencers In India In 2023
+title: Top 10 Health TikTok Influencers In India In 2024
 description: >-
-  Find top health TikTok influencers in India in 2023. Most popular hashtags: #foryou #duet #tiktok #foryoupage.
+  Find top health TikTok influencers in India in 2024. Most popular hashtags: #duet #foryou #tiktok #foryoupage.
 platform: TikTok
 hits: 780
-text_top: See the most popular TikTok profiles on inBeat.
-text_bottom: inBeat aggregates 780 TikTok influencers like this in India for you to connect with.
+text_top: Analyze the most popular TikTok accounts on inBeat.
+text_bottom: inBeat aggregates 780 TikTok influencers like this in India for you to work with.
 profiles:
   - username: "boxer_chori45"
     fullname: >-
@@ -98,11 +98,11 @@ profiles:
       Beauty and health tips 🙏 I come live every Tuesday, Thursday, Saturday At 8:00
     location: "India"
     followers: 1400000
-    engagement: 522
-    commentsToLikes: 0.020810
+    engagement: 490
+    commentsToLikes: 0.013555
     id: ck8tmt1gygg5z0j784clwxy68
     verified: true
-    hashtags: "#easytips, #sheetalpankajaror7, #foryoupage, #eudtok"
+    hashtags: "#easytips, #sheetalpankajaror7, #effective, #foryoupage"
   - username: "drparamjeetsingh"
     fullname: >-
       Dr.Education

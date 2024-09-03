@@ -1,12 +1,36 @@
 ---
-title: Top 10 Cricket Players Instagram Influencers In 2023
+title: Top 10 Cricket Players Instagram Influencers In 2024
 description: >-
-  Find top cricket players Instagram influencers in 2023. Most popular hashtags: #cricket #afghanistan #training.
+  Find top cricket players Instagram influencers in 2024. Most popular hashtags: #cricket #afghanistan #training.
 platform: Instagram
-hits: 54
-text_top: Analyze the best Instagram accounts on inBeat.
-text_bottom: Our database has 54 Instagram influencers like this for you to work with.
+hits: 75
+text_top: Analyze the top-rated Instagram profiles on inBeat.
+text_bottom: Our search engine has 75 Instagram influencers like this for you to collaborate.
 profiles:
+  - username: "steve_smith49"
+    fullname: >-
+      Steve Smith
+    bio: >-
+      🏏 Australian Cricket Player 👰‍♀️ @dani_willis 🐕 @mr.bailey.smith 🥛 Co-founder OMG @oatmilkgoodness 👨‍💻 Angel investor Ambassador @getbambooapp
+    location: "Australia"
+    followers: 3674019
+    engagement: 563
+    commentsToLikes: 0.004673
+    id: ck0txfq37ixsu0i19og91dytb
+    verified: true
+    hashtags: "#stevesmith, #cricket, #iplonstar, #starnahifar"
+  - username: "m_hafeez8"
+    fullname: >-
+      Mohammad Hafeez
+    bio: >-
+      Mohammad Hafeez Pakistan International Cricket Player #Professor #MH #mohammadhafeez
+    location: "New Zealand"
+    followers: 748405
+    engagement: 645
+    commentsToLikes: 0.007649
+    id: ck5hjcteigei30i11wvc1e6kn
+    verified: true
+    hashtags: "#psl6, #icct20worldcup2022, #pakvsban, #pakvssa"
   - username: "mohammadnabi07"
     fullname: >-
       Mohammad Nabi
@@ -79,18 +103,6 @@ profiles:
     id: ck5c8fv1e9e5h0i119nyt2d38
     verified: true
     hashtags: "#speenghar, #shpageeza, #afghanistan, #tigers"
-  - username: "steve_smith49"
-    fullname: >-
-      Steve Smith
-    bio: >-
-      Australian Cricket Player. Tennis fan. Angel Investor in @koala @snappr.co
-    location: "Australia"
-    followers: 2543207
-    engagement: 769
-    commentsToLikes: 0.007208
-    id: ck0txfq37ixsu0i19og91dytb
-    verified: true
-    hashtags: "#investing, #sundaychill, #balance, #mentalhealth"
   - username: "ektaabishtt"
     fullname: >-
       एकता बिष्ट
@@ -103,18 +115,6 @@ profiles:
     id: ck6uavuir5yx30j71bekbyc41
     verified: true
     hashtags: "#womenst20challenge, #throwback, #memoriesforlife, #legend"
-  - username: "m_hafeez8"
-    fullname: >-
-      MH
-    bio: >-
-      Mohammad Hafeez Pakistan International Cricket Player #Professor #MH #MohammadHafeez
-    location: ""
-    followers: 469936
-    engagement: 487
-    commentsToLikes: 0.009247
-    id: ck5hjcteigei30i11wvc1e6kn
-    verified: true
-    hashtags: "#sundaygoal, #mood, #defenceday, #haiderali"
   - username: "rohitsharmafansofficial"
     fullname: >-
       Rohit Sharma Fan Club

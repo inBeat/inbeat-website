@@ -1,11 +1,11 @@
 ---
-title: Top 10 Travel TikTok Influencers In Bali In 2023
+title: Top 10 Travel TikTok Influencers In Bali In 2024
 description: >-
-  Find top travel TikTok influencers in Bali in 2023. Most popular hashtags: #bali #fyp #indonesia #travel.
+  Find top travel TikTok influencers in Bali in 2024. Most popular hashtags: #bali #fyp #travel #indonesia.
 platform: TikTok
 hits: 27
-text_top: Analyze the most popular TikTok influencers on inBeat.
-text_bottom: Our platform holds 27 TikTok influencers like this in Bali, Indonesia for you to connect with.
+text_top: See the best TikTok accounts on inBeat.
+text_bottom: Our database aggregates 27 TikTok influencers like this in Bali, Indonesia for you to work with.
 profiles:
   - username: "patrishiela"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.019778
     id: ckcdpiqojbs2b0j23pap6jb9s
     verified: false
-    hashtags: "#indonesia, #fyp, #travel, #bali"
+    hashtags: "#fyp, #travel, #bali, #indonesia"
   - username: "baliventure"
     fullname: >-
       Baliventure
@@ -54,19 +54,7 @@ profiles:
     commentsToLikes: 0.011498
     id: ck8kjxev8wpgy0j78iidyn8n7
     verified: true
-    hashtags: "#fethiye, #indonesia, #fyp, #turkiye"
-  - username: "lucaepifany"
-    fullname: >-
-      Luca Epifani
-    bio: >-
-      📸🎥 Instagram @lucaepifany
-    location: "Indonesia"
-    followers: 351000
-    engagement: 628
-    commentsToLikes: 0.017935
-    id: ck80cqsvzam750j78sd8j9k0q
-    verified: false
-    hashtags: "#learnontiktok, #indonesia, #bali, #photographer"
+    hashtags: "#travel, #maldives, #bali, #balisquad"
   - username: "gypsealust"
     fullname: >-
       Lauren
@@ -78,7 +66,19 @@ profiles:
     commentsToLikes: 0.013150
     id: ck8ko3e2dfwev0j784f429jxt
     verified: true
-    hashtags: "#dubai, #travel, #fyp, #uae"
+    hashtags: "#fyp, #balisquad, #bali, #uae"
+  - username: "yojas23"
+    fullname: >-
+      yojas23
+    bio: >-
+      Hello 👋🏼 Youtube : yojas tv
+    location: "Indonesia"
+    followers: 5758
+    engagement: 629
+    commentsToLikes: 0.101339
+    id: ckc32ml8sss5c0j23o5eqrvkj
+    verified: false
+    hashtags: "#bali, #seminyakbali, #fyp, #foryou"
   - username: "belskib"
     fullname: >-
       bella 
@@ -102,7 +102,7 @@ profiles:
     commentsToLikes: 0.017529
     id: ck83zq3ds20rr0j785xzcwm99
     verified: false
-    hashtags: "#rajaampat, #indonesia, #tiktokindonesia, #pacificocean"
+    hashtags: "#tiktoktravel, #indonesia, #tiktokindonesia, #pacificocean"
   - username: "wikakrol.mindfultravel"
     fullname: >-
       Wika Krol
@@ -114,7 +114,7 @@ profiles:
     commentsToLikes: 0.012879
     id: ck8z1i78o1o6f0j78rokh8umn
     verified: false
-    hashtags: "#fy, #dlaciebie, #couplegoals, #vday2021"
+    hashtags: "#fy, #vday2021, #indonesia, #love"
   - username: "lampunnn"
     fullname: >-
       Наталья Маркина

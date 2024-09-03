@@ -1,11 +1,11 @@
 ---
-title: Top 10 Vegan Instagram Influencers In Las Vegas In 2023
+title: Top 10 Vegan Instagram Influencers In Las Vegas In 2024
 description: >-
-  Find top vegan Instagram influencers in Las Vegas in 2023. Most popular hashtags: #vegan #lasvegas #foodporn.
+  Find top vegan Instagram influencers in Las Vegas in 2024. Most popular hashtags: #vegan #lasvegas #veganfood #foodie.
 platform: Instagram
-hits: 60
-text_top: Analyze the top-rated Instagram accounts on inBeat.
-text_bottom: Our platform aggregates 60 Instagram influencers like this in Las Vegas, United States for you to work with.
+hits: 70
+text_top: Analyze the top-rated Instagram influencers on inBeat.
+text_bottom: Our database has 70 Instagram influencers like this in Las Vegas, United States for you to pitch.
 profiles:
   - username: "sinfullyrealvegasvegan"
     fullname: >-
@@ -19,6 +19,42 @@ profiles:
     id: ck6uhff5o8syt0j71n6ozxt7n
     verified: false
     hashtags: "#veganshare, #veganfoodlovers, #lasvegasvegans, #plantbased"
+  - username: "thedianaedelman"
+    fullname: >-
+      Diana Edelman 🌱 AKA Vegans, Baby🗽 NYC influencer
+    bio: >-
+      📍 NYC / EV 🌱Intersectional ✊ Sharing me, 🤤 food, lifestyle & ✈️ destinations making veganism EASY 📺 Host of GOOD FORK on COX 📧 diana@vegansbaby.com
+    location: "United States"
+    followers: 31817
+    engagement: 164
+    commentsToLikes: 0.169630
+    id: ckr0cux3b5g710j23hmig4lot
+    verified: false
+    hashtags: "#vegantravelguide, #visitlasvegas, #eatervegas, #restaurantmarketing"
+  - username: "veganyackattack"
+    fullname: >-
+      Jackie Sobon - Vegan Recipes
+    bio: >-
+      Yack as in Yackie/Jackie 🍝Creative & Approachable Recipes ⬇️RECIPE LINKS BELOW⬇️ 📸Food Photographer & Maker 📚Cookbook Author x3 🌿Gardener
+    location: "United States"
+    followers: 96497
+    engagement: 9
+    commentsToLikes: 0.012034
+    id: ck6ucsf0ah9wh0j71mg2dw1y5
+    verified: false
+    hashtags: "#summerrecipes, #foodbeast, #summer, #soyfree"
+  - username: "alyssarisley"
+    fullname: >-
+      Alyssa Risley 🦋📷
+    bio: >-
+      ✨ 𝒩𝑜𝓂𝒶𝒹 ✨ 𝒫𝒽𝑜𝓉𝑜𝑔𝓇𝒶𝓅𝒽𝑒𝓇 ✨ ℳ𝑒𝓃𝓉𝑜𝓇 ✨ 🌱 Vegan 🌱 📍 Las Vegas ↠ Medellín 🇨🇴 ↠ Tulum, MX 📱 Learn how to 𝒶𝓁𝒸𝒽𝑒𝓂𝒾𝓏𝑒 your Instagram with @alyssatalkssocial ⚡️
+    location: "United States"
+    followers: 104063
+    engagement: 76
+    commentsToLikes: 0.087185
+    id: ck5hdqavfosqq0i11toz4pnbb
+    verified: false
+    hashtags: "#bts, #nomadlife, #iykyk, #2022recap"
   - username: "siennamartinez_"
     fullname: >-
       Sienna Martinez
@@ -31,6 +67,18 @@ profiles:
     id: ck0uad8f7bzof0i19rnni94t9
     verified: false
     hashtags: ""
+  - username: "drpaulnassif"
+    fullname: >-
+      Dr. Paul Nassif
+    bio: >-
+      Doctor, Dad, Husband & the better looking one on #Botched 😷 @nassifmedical @skincarebydrnassif @nassifmedspauk
+    location: "United States"
+    followers: 1249880
+    engagement: 78
+    commentsToLikes: 0.042617
+    id: ck5hi1k6tb66a0i114qhbaril
+    verified: true
+    hashtags: "#tt, #beforeandafter, #rhinoplastybeforeandafter, #tbt"
   - username: "bitezlicious"
     fullname: >-
       Vegas Food & Drinks
@@ -42,89 +90,41 @@ profiles:
     commentsToLikes: 0.021702
     id: ck14hp1xtbexj0i19p9pblai6
     verified: false
-    hashtags: "#fogo, #lasvegasfood, #delicious, #viral"
-  - username: "jazz.elle"
+    hashtags: "#viral, #bitezlicious, #vegasfood, #vegan"
+  - username: "buttercream19"
     fullname: >-
-      Jasmine Leatrice
+      Briella Bardot
     bio: >-
-      Vegan | Avid Reader | 6’1 Stallion | Owner of @teapleasetea, the best damn flavored tea you’ve been craving. 📍HTX
+      100% All Natural 💁🏽‍♀️ @fashionnovacurve Ambassador 💃🏾 🏆Urban X Most Popular BBW 🥳 Top 1% 0F Creator Las Vegas 🎰 5¥rs Vegan 🌱 #PlantBased
     location: "United States"
-    followers: 7043
-    engagement: 237
-    commentsToLikes: 0.080646
-    id: ck135b2250lpp0i19belx4x4d
+    followers: 821402
+    engagement: 107
+    commentsToLikes: 0.007121
+    id: ckqquvs3dxxlw0j23xy9b43rp
     verified: false
-    hashtags: "#plantbasedsistas, #tea, #plantbased, #blackvegans"
-  - username: "chompvegas"
+    hashtags: "#fashionnovacurve, #influencer, #model, #fashionnovapartner"
+  - username: "atlfoodgoals"
     fullname: >-
-      Jean
+      Tara & Curtis
     bio: >-
-      🇵🇭🇬🇺🇺🇸 📍|Las Vegas Eater & Beyond| 📧|chompvegas@gmail.com|
+      📍Atlanta, GA 🍑 Food | Travel | Experiences 📧: AtlFoodGoals@gmail.com ❤️FOODis£0¥€❤️
     location: "United States"
-    followers: 11803
-    engagement: 162
-    commentsToLikes: 0.190317
-    id: ck0vzfdqx8u6a0i19n4mitcq0
+    followers: 59965
+    engagement: 468
+    commentsToLikes: 0.148113
+    id: clqypjwggb8jq0k086d0nx07y
     verified: false
-    hashtags: "#buttercookies, #chocolate, #homemadecookies, #cookiestagram"
-  - username: "camilla.law"
+    hashtags: "#atlantainfluencer, #brunchatl, #exploreatlanta, #thingstodoinatlanta"
+  - username: "lizzkimkim"
     fullname: >-
-      Cami 🦋 Life + Motherhood
+      💖🌸LIZZ 🌸💖
     bio: >-
-      life • style • motherhood • everything in between wife to my high school sweetheart mama to lucas 🤍 bsn, rn • las vegas collab: camillalaw23@gmail.com
+      🌴LA📍 ♡ Food-obsessed DJ and Opera Singer ♡ Spotify Lizz Kim Kim and Ni Oko ♡ TT: Lizzkimkim ♡ 📧 lizzkimcollabs@gmail.com on @datingnofilter @buzzfeed
     location: "United States"
-    followers: 14659
-    engagement: 491
-    commentsToLikes: 0.518629
-    id: ck6ubeco192cp0j71awpqq4bd
+    followers: 27435
+    engagement: 251
+    commentsToLikes: 0.116515
+    id: ck0tygsm6mr7g0i19dlmjunlg
     verified: false
-    hashtags: "#popcorn, #feelitreelit, #irdreamteam, #quickmeals"
-  - username: "alana.camposs"
-    fullname: >-
-      Alana Campos
-    bio: >-
-      Made in Brazil 🇧🇷 Traveler | Fitness Lover | Model | Home Chef Beach bum living in the desert 🌵📍Las Vegas
-    location: "United States"
-    followers: 445868
-    engagement: 18
-    commentsToLikes: 0.090007
-    id: ck15qvw4v4wc30i19gmjw82n5
-    verified: true
-    hashtags: "#huffposttravel, #cancun, #bronzed, #travelholic"
-  - username: "haareozawa"
-    fullname: >-
-      Krystal💖
-    bio: >-
-      📍Las Vegas Skincare and Fashion 💓 I have a shop 🧶 @kawaiiknitties 2nd Grade 👩🏻‍🏫 🇯🇵 @ha.a.re Use my code “KRYSTAL94” on your YesStyle Order:
-    location: "United States"
-    followers: 2983
-    engagement: 1743
-    commentsToLikes: 0.041451
-    id: ck8ta89qrqtfb0j780xtji2ye
-    verified: false
-    hashtags: "#crueltyfree, #onegiamfam, #beautybloggers, #bioggerstyles"
-  - username: "wine_a_little_dine_a_little"
-    fullname: >-
-      Cheers🍷~Funda
-    bio: >-
-      🍷 🍽 My wines🍷Pictures taken by me 📷 | must be legal drinking age to follow I 📍Las Vegas
-    location: "United States"
-    followers: 7151
-    engagement: 1217
-    commentsToLikes: 0.209303
-    id: ck8t3a3nk2hx30j78p902q0y2
-    verified: false
-    hashtags: "#sarap, #mushroom, #wineandfood, #italy"
-  - username: "brinamberlee"
-    fullname: >-
-      𝔅𝔯𝔦𝔫 𝔄𝔪𝔟𝔢𝔯𝔩𝔢𝔢 🌹
-    bio: >-
-      🏡 Las Vegas Realtor® S.0193160 🏘 Real estate investor 🌱 Vegan for the animals
-    location: "United States"
-    followers: 535046
-    engagement: 178
-    commentsToLikes: 0.015350
-    id: ck0u004wws84r0i19f65a6zny
-    verified: false
-    hashtags: "#75hard, #4x4x48challenge"
+    hashtags: "#losangelesbucketlist, #bucketlist, #losangelesfood, #sponsoredbyht"
 ---

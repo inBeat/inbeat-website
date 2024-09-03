@@ -1,12 +1,36 @@
 ---
-title: Top 10 Instagram Influencers In Jakarta In 2023
+title: Top 10 Instagram Influencers In Jakarta In 2024
 description: >-
-  Find top Instagram influencers in Jakarta in 2023. Most popular hashtags: #jakartahits #jakarta #ootd.
+  Find top Instagram influencers in Jakarta in 2024. Most popular hashtags: #coffee #jakarta #ootd.
 platform: Instagram
-hits: 2389
-text_top: Analyze the best Instagram profiles on inBeat.
-text_bottom: Our platform holds 2389 Instagram influencers like this in Jakarta, Indonesia for you to collaborate.
+hits: 2536
+text_top: Analyze the best Instagram accounts on inBeat.
+text_bottom: inBeat aggregates 2536 Instagram influencers like this in Jakarta, Indonesia for you to collaborate.
 profiles:
+  - username: "explore_jakarta"
+    fullname: >-
+      JAKARTA
+    bio: >-
+      Jakarta on Instagram. Tag your Jakarta experience #explorejakarta to give us permission to feature
+    location: "Indonesia"
+    followers: 155392
+    engagement: 123
+    commentsToLikes: 0.010955
+    id: ck0ueep11l46d0i19fbxue71q
+    verified: false
+    hashtags: "#explorejakarta, #otwjalanjalan, #hyundaiiims2023, #loveblacklivecolourfullives"
+  - username: "jakarta"
+    fullname: >-
+      Jakarta
+    bio: >-
+      Your insider guide to Jakarta: Hidden gems, rising stars, beyond the guidebooks. Foods, Film, and a sprinkle of public policy.
+    location: "Indonesia"
+    followers: 75949
+    engagement: 21
+    commentsToLikes: 0.075175
+    id: ck6txln6dyiej0j71z1orgy6x
+    verified: false
+    hashtags: "#jakartastaycationguide, #jakartafooddiary, #findyourshangrila, #jakarta"
   - username: "feed_jakarta"
     fullname: >-
       JAKARTA
@@ -31,100 +55,76 @@ profiles:
     id: ckap15x59t6ov0i78zilswbzx
     verified: false
     hashtags: "#tiktokviral, #musikbaper, #indonesiatetapberkarya, #musigram"
-  - username: "explore_jakarta"
+  - username: "songofmarch"
     fullname: >-
-      JAKARTA
+      *Caroline Tan*
     bio: >-
-      Jakarta on Instagram. Tag your Jakarta experience #explorejakarta to give us permission to feature
+      Create sweet melody through food, fashion & lifestyle #songofmarch 📩: songofmarch@yahoo.com Business inquiries : 0811160770 ☁️: Jakarta, ID
     location: "Indonesia"
-    followers: 141877
-    engagement: 200
-    commentsToLikes: 0.007911
-    id: ck0ueep11l46d0i19fbxue71q
+    followers: 92356
+    engagement: 475
+    commentsToLikes: 0.038324
+    id: ck5c42u640j6v0i11hwoo73ip
     verified: false
-    hashtags: "#explorejakarta, #lengkapnyauntuksemua, #pakelinkaja"
-  - username: "nasariastri"
+    hashtags: "#foodstyling, #feedfeed, #eatingfortheinsta, #songofmarch"
+  - username: "intanlogager"
     fullname: >-
-      Astri Ratnasari
+      Kitan
     bio: >-
-      @astriratnasarimode She smells moringa, vanilla, daisy,and oud🕊 Jakarta Business inquiries : +6285215334251 (Dias) Endorse : +6281315323934 (Gita)
+      Danish-Indonesian Gadis Sampul 2018 | Bali- JKT 📍Currently in Jakarta
     location: "Indonesia"
-    followers: 218082
-    engagement: 338
-    commentsToLikes: 0.007429
-    id: ckap9bek6ryqb0i789g2sj3xa
+    followers: 7011
+    engagement: 1400
+    commentsToLikes: 0.013593
+    id: ckf5omkjn2v2o0j23kh8lqrh7
     verified: false
-    hashtags: "#tambahkehidupmu, #levelupyourbodyexperience, #inspirasiwangiparabangsawan, #royalebysoklin"
-  - username: "dsenjaya89"
+    hashtags: "#style, #ootd, #bali, #fashion"
+  - username: "leonareudo"
     fullname: >-
-      DODY SENJAYA | TRAVEL BLOGGER
+      레오나르도
     bio: >-
-      LANGKAHKU‼️ Part of @transmateindonesia 🇮🇩Travelling and Lifestyle #langkahdody 📩 hello@langkahdody.com 📍JAKARTA tiktok.com/@langkahdody
+      Jakarta 🇮🇩 @ice_idn | CP 0812-1262-6946
     location: "Indonesia"
-    followers: 31244
-    engagement: 288
-    commentsToLikes: 0.237285
-    id: ck8tae4etre2g0j785ed85jr9
+    followers: 14763
+    engagement: 1059
+    commentsToLikes: 0.018805
+    id: ckf5mm61rugm60j23bbnwcijw
     verified: false
-    hashtags: "#langkahdody, #g20kebudayaan, #transmatepenghubungindonesia, #hotel"
-  - username: "vallerieaudrey"
+    hashtags: "#cny2023, #happynewyear, #2023, #imase"
+  - username: "alfonzheng"
     fullname: >-
-      Vallerie Audrey
+      Alfon Zheng アルフォン
     bio: >-
-      ♥ Fashion | Beauty | Food | Lifestyle ♥ #StylebyVall 🪐 ☁️Line@ : @vallerieaudrey (with @)📲 // DM 🇮🇩Jakarta, Indonesia 💌vallerie.audrey@yahoo.com
+      💪🏻 Certified Fitness Trainer 📷 🎥 @alfonphotographie & @kalyanastudio 🐹 @boyoon_caviary 🐾 @sachishiba_jakarta Business inquiries : @ricoomodels
     location: "Indonesia"
-    followers: 37903
-    engagement: 202
-    commentsToLikes: 0.013240
-    id: ck5cbcc48f5jc0i118nrotk24
+    followers: 16147
+    engagement: 1204
+    commentsToLikes: 0.040048
+    id: ck9whb0ajx3m10j78zg0ij2qr
     verified: false
-    hashtags: "#ootdfashion, #ootdindo, #ootdinspiration, #ootdstyle"
-  - username: "antoniusrangga"
+    hashtags: "#tricep, #hot, #vacation, #swimmingpool"
+  - username: "lydiaoey"
     fullname: >-
-      Antonius Rangga
+      Lydia Oey
     bio: >-
-      Biker | Motorcycle Enthusiast | Adventurer | Architect Currently living in Jakarta, Indonesia
+      ☕️ a dentist who loves coffee 📍 Jakarta, Indonesia 📞 CP : +62 895-3654-18718 (Wiwie)
     location: "Indonesia"
-    followers: 20113
-    engagement: 163
-    commentsToLikes: 0.031292
-    id: ck13a0ulto29m0i19b69fcllf
+    followers: 88020
+    engagement: 506
+    commentsToLikes: 0.045095
+    id: ck0u884jh6osw0i19xy175s1q
     verified: false
-    hashtags: "#miolistrikcelcius, #atenxkatros, #ninja, #trackday"
-  - username: "goizza"
+    hashtags: "#coffeeshopjakartabarat, #bandung, #coffeeshopjaksel, #kotatuajakarta"
+  - username: "aqilavviv"
     fullname: >-
-      Goizza
+      Aqil muhamad affif
     bio: >-
-      📍 Jakarta Bussiness 📬 : goizza@gmail.com Endorse & Collabs : 081806866860 (May)
+      Photographer, Videographer & Content Creator 📍 Jakarta, Indonesia 🇮🇩 Business WA chat only +6285161164441 __ #ProsaDanRasa
     location: "Indonesia"
-    followers: 73560
-    engagement: 146
-    commentsToLikes: 0.031664
-    id: ck9hczcmjnk7f0j78cqhw0eun
+    followers: 147737
+    engagement: 825
+    commentsToLikes: 0.043327
+    id: ck0w6l2c193670i1994d0b3yu
     verified: false
-    hashtags: "#koya, #havaianasid, #havaianasindonesia, #gantengversigue"
-  - username: "christina_chandraa"
-    fullname: >-
-      𝓒𝓱𝓻𝓲𝓼𝓽𝓲𝓷𝓪 𝓬𝓱𝓪𝓷𝓭𝓻𝓪
-    bio: >-
-      📍 Jakarta,Indonesia. Lifestyle blogger & full time mom #christinachandraareview ✨ business inquiries 💌 Tap here 🫶🏼 👇🏼
-    location: "Indonesia"
-    followers: 104042
-    engagement: 138
-    commentsToLikes: 0.085619
-    id: ck8t0gbe7rytw0j78yib1ck3c
-    verified: false
-    hashtags: "#momlife, #traveling, #lifestyleblogger, #skincare"
-  - username: "stiamellia"
-    fullname: >-
-      ستي آمليا
-    bio: >-
-      Icon @zapcoid Part of @beautymillenialcommunity @jakartabeautyblogger @sisterpuccinosquad 3.0 #jbbinsider #generasikulitsehat bersama @npureofficial
-    location: "Indonesia"
-    followers: 10077
-    engagement: 101
-    commentsToLikes: 0.080833
-    id: ck9wibkuu1ktv0j78miqpili2
-    verified: false
-    hashtags: "#poiseskincare, #commonlabs, #loveyourskinmore, #whiteisnowluminous"
+    hashtags: "#orabeach, #sunset, #rinjani, #nowayhome"
 ---

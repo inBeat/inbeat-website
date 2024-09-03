@@ -1,12 +1,84 @@
 ---
-title: Top 10 Illustrators Instagram Influencers In Australia In 2023
+title: Top 10 Illustrators Instagram Influencers In Australia In 2024
 description: >-
-  Find top illustrators Instagram influencers in Australia in 2023. Most popular hashtags: #fantasyart #originalcharacter #starwarsfan.
+  Find top illustrators Instagram influencers in Australia in 2024. Most popular hashtags: #illustration #fantasyart #illustrator.
 platform: Instagram
-hits: 91
-text_top: Discover the best Instagram accounts on inBeat.
-text_bottom: inBeat holds 91 Instagram influencers like this in Australia for you to contact.
+hits: 93
+text_top: Identify the top-rated Instagram accounts on inBeat.
+text_bottom: Our platform holds 93 Instagram influencers like this in Australia for you to collaborate.
 profiles:
+  - username: "elise.hurst"
+    fullname: >-
+      Elise Hurst
+    bio: >-
+      Aus author, illustrator & fine artist. Working in a vintage alternate reality as often as possible. Online shop at my website.
+    location: "Australia"
+    followers: 5303
+    engagement: 830
+    commentsToLikes: 0.063954
+    id: ck6tog82tdwi80j71kyo865q0
+    verified: false
+    hashtags: "#elisehurst, #illustratorsofinstagram, #inkdrawing, #unipinfineline"
+  - username: "parchmiss_art"
+    fullname: >-
+      Jasmine Jacobson
+    bio: >-
+      🦇Tassie illustrator🦇 🕸🕷🥀
+    location: "Australia"
+    followers: 5044
+    engagement: 950
+    commentsToLikes: 0.014197
+    id: ck8sz38l4n03d0j78b75jdouq
+    verified: false
+    hashtags: "#sketchbook, #illustrationwork, #illustrationnow, #illustration"
+  - username: "theforestmori"
+    fullname: >-
+      The Forest Mori
+    bio: >-
+      𓆏 All works by Claudia Lam ✹ Illustrator / ceramic artist ✹ Perth / Hong Kong ✹ ‘I WANT TO BE SPAGHETTI!’ out now ✹ My shop, Patreon and stuff:
+    location: "Australia"
+    followers: 105231
+    engagement: 190
+    commentsToLikes: 0.012402
+    id: ckaowacvf81v60i78vo2i60cn
+    verified: false
+    hashtags: "#nationalnoodleday, #childrensbookstagram, #kidlit, #diversekidlit"
+  - username: "hellomissmay"
+    fullname: >-
+      Miss May Leong ✨ Australia
+    bio: >-
+      🌿🪴 @byhellomissmay Illustrator✨Creative✨ Cat & Plant Lover
+    location: "Australia"
+    followers: 352370
+    engagement: 91
+    commentsToLikes: 0.009839
+    id: ck0tujxl27hxj0i19tkts0fu1
+    verified: false
+    hashtags: "#theresgoodinside, #booksbooksbooks, #houseplants, #mymethod"
+  - username: "_itsahappyworld_"
+    fullname: >-
+      Swarnima Telang
+    bio: >-
+      Illustrator ✏️ Life in illustrations| Ruskin Bond Fan | Little space of Happiness👇🏻 -Blog appreciating simple things in life❤️ India 🇮🇳 | Sydney 🇦🇺
+    location: "Australia"
+    followers: 284619
+    engagement: 77
+    commentsToLikes: 0.449409
+    id: ck0w2o1mopcal0i19jgbpl094
+    verified: false
+    hashtags: "#doodlesofinstagram, #doodle, #instagram, #reels"
+  - username: "kerriehessillustration"
+    fullname: >-
+      Kerrie Hess
+    bio: >-
+      Australian artist and illustrator 💕 My online art courses at @kerriehessmasterclass 🎨 and shop at @studiokerriehess ♥️
+    location: "Australia"
+    followers: 323649
+    engagement: 59
+    commentsToLikes: 0.030475
+    id: ck5q456izntfa0i11xxe30ean
+    verified: true
+    hashtags: "#paint, #create, #joy, #kikkik"
   - username: "jakebartok"
     fullname: >-
       Jake Bartok
@@ -25,12 +97,12 @@ profiles:
     bio: >-
       🥨地球の平和を愛する LOVE & PEACE🥨 🍤Sydney 🍭Cosplayer + Illustrator 🍩Art acc: @hanahanayart
     location: "Australia"
-    followers: 6138
-    engagement: 1471
-    commentsToLikes: 0.016753
+    followers: 6292
+    engagement: 1399
+    commentsToLikes: 0.016341
     id: ck8t4czi06bx20j78758bw06w
     verified: false
-    hashtags: "#akirasunazuka, #thequintessentialquintuplets, #madfestsydney2020, #idolmastercinderellagirls"
+    hashtags: "#akirasunazuka, #madfestsydney2020, #cosplaygirls, #thequintessentialquintuplets"
   - username: "aluna_ink"
     fullname: >-
       alice glascott
@@ -55,76 +127,4 @@ profiles:
     id: ck5q9oy3cc8oq0i11jx1sxi5r
     verified: false
     hashtags: "#illustrativetattoo, #bunny, #ssoo, #occult"
-  - username: "agathesorlet"
-    fullname: >-
-      Agathe Sorlet
-    bio: >-
-      Illustrator from France ✍️ SHOP👇Worldwide Shipping 🌍
-    location: "Australia"
-    followers: 824348
-    engagement: 470
-    commentsToLikes: 0.007176
-    id: ck0tzekzkq2l40i19jm9nieao
-    verified: true
-    hashtags: "#agathesorlet, #art, #love, #illustration"
-  - username: "artoflisaking"
-    fullname: >-
-      Lisa King
-    bio: >-
-      Painter / Illustrator practicing in Urban Contemporary Art 📍 Eora country ☕️ 🤍 Select work & life outtakes 🎬 📰 New York Times T mag👇🏽
-    location: "Australia"
-    followers: 21691
-    engagement: 154
-    commentsToLikes: 0.055228
-    id: ck6tj0f5r1s1s0j71viqeicrn
-    verified: false
-    hashtags: "#anotherpostanotheropportunitygone"
-  - username: "rhiannonkate__"
-    fullname: >-
-      Rhiannon Greenaway
-    bio: >-
-      22 y/o in Sydney, AU | Christian Freelance illustrator + design student Food and travels: @find_rhi ♡ ꈍᴗꈍ
-    location: "Australia"
-    followers: 27652
-    engagement: 905
-    commentsToLikes: 0.027431
-    id: ck5ceqnfqlinm0i1185q09kg0
-    verified: false
-    hashtags: ""
-  - username: "pip_abraham"
-    fullname: >-
-      Pip · Animal Artist
-    bio: >-
-      Australian 🇦🇺 Drawing animals & natural history · Scientific illustrator · Paleoartist · Commissions open
-    location: "Australia"
-    followers: 23164
-    engagement: 1063
-    commentsToLikes: 0.013280
-    id: ck14jc7vcjlwe0i19b793zkdi
-    verified: false
-    hashtags: "#draw30animals, #inktober, #topnine"
-  - username: "jakeross.art"
-    fullname: >-
-      Jake Ross | Artist
-    bio: >-
-      Artist/Illustrator Creator of the pink sky ☁️ Currently based in Canggu, Indonesia.
-    location: "Australia"
-    followers: 39181
-    engagement: 104
-    commentsToLikes: 0.126458
-    id: ck5q8yfto8jkx0i119jz19y0g
-    verified: false
-    hashtags: "#vanscheckerboardday, #drinkresponsibly, #krakenrum, #bbqwiththebeast"
-  - username: "pinkpiggy93"
-    fullname: >-
-      🌙Nekocat☀️
-    bio: >-
-      Artist, Illustrator, Witch Drawing:lost in Lucid Dreams,GO fanarts ⚠️!!! PLEASE DO NOT REPOST!!!🚫
-    location: "Australia"
-    followers: 28146
-    engagement: 1909
-    commentsToLikes: 0.008534
-    id: ck8t1wohlxc5e0j783h4pa9bp
-    verified: false
-    hashtags: "#ineffablehusbands, #goodomensfanart, #originalcharacter, #crowley"
 ---

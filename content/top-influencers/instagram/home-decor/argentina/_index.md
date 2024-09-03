@@ -1,24 +1,72 @@
 ---
-title: Top 10 Home Decor Instagram Influencers In Argentina In 2023
+title: Top 10 Home Decor Instagram Influencers In Argentina In 2024
 description: >-
-  Find top home decor Instagram influencers in Argentina in 2023. Most popular hashtags: #homedecor #decoracion #deco #home.
+  Find top home decor Instagram influencers in Argentina in 2024. Most popular hashtags: #homedecor #interiordesign #home #deco.
 platform: Instagram
-hits: 46
-text_top: Identify the best Instagram profiles on inBeat.
-text_bottom: inBeat aggregates 46 Instagram influencers like this in Argentina for you to work with.
+hits: 45
+text_top: See the most popular Instagram accounts on inBeat.
+text_bottom: inBeat has 45 Instagram influencers like this in Argentina for you to connect with.
 profiles:
+  - username: "clarahoussay"
+    fullname: >-
+      Maria clara houssay
+    bio: >-
+      LIFESTYLE Cuenta de pura inspiración •moda - deco - viajes •mama de Balta •realizo proyectos de interiorismo hachezhome@gmail.com
+    location: "Argentina"
+    followers: 176257
+    engagement: 146
+    commentsToLikes: 0.251354
+    id: ck8sz3iryn19x0j783zb82cmu
+    verified: false
+    hashtags: "#family, #inspohome, #homedecor, #inspiration"
+  - username: "silvinabidabehere"
+    fullname: >-
+      Silvina Bidabehere Decortherapia
+    bio: >-
+      Dirección Creativa para prod. de fotos y espacios | comercial & editorial | Curaduría | Consultoría en identidad | #Brandstyling. Exploradora urbana⚡️
+    location: "Argentina"
+    followers: 42532
+    engagement: 91
+    commentsToLikes: 0.110245
+    id: ck5cepa90lfsy0i118h21lsm8
+    verified: false
+    hashtags: "#fuorisalone2022, #milanodesignweek, #direccioncreativa, #milandesignweek2022"
+  - username: "lorenapedace"
+    fullname: >-
+      Lorena Pedace ▫️Lifestyle&Deco
+    bio: >-
+      🏡Decorando mi casa ambiente por ambiente 🥄Recetas simples y fáciles ☀️Rutinas y día a día ❤️Familia 📍Buenos Aires
+    location: "Argentina"
+    followers: 140535
+    engagement: 35
+    commentsToLikes: 0.015029
+    id: ck6tv897kkqj90j71nbypnwef
+    verified: false
+    hashtags: "#interiordesign, #architecture, #homemade, #myhome"
+  - username: "farrearq"
+    fullname: >-
+      Antonio Farré Arquitecto
+    bio: >-
+      Despacho fundado en la Ciudad de México.
+    location: "Argentina"
+    followers: 48611
+    engagement: 97
+    commentsToLikes: 0.004058
+    id: ck5ho1dk0or9c0i11d895rkrh
+    verified: false
+    hashtags: "#design, #instainteriors, #arquitecturacontemporanea, #confort"
   - username: "mamiandchic"
     fullname: >-
       Patricia
     bio: >-
-      D e c o & l i f e s t y l e | Mom | Traveling by motorhome | 🚍🗺️ patricia.gr@live.com | ✍🏼 Madrid |
+      | Deco | Lifestyle | Mom ⛰ Discovering world in AC ✉️ patricia.gr@live.com 📍 Madrid
     location: "Argentina"
-    followers: 38561
-    engagement: 277
-    commentsToLikes: 0.101610
+    followers: 39827
+    engagement: 198
+    commentsToLikes: 0.105413
     id: ck13d04n730810i19u6xbye0l
     verified: false
-    hashtags: "#reforma, #cabincrew, #snow, #homedecoration"
+    hashtags: "#campervan, #photographer, #interior4all, #skandinaviandesign"
   - username: "magnolias.decoblog"
     fullname: >-
       𝐌𝐀𝐆𝐍𝐎𝐋𝐈𝐀𝐒 | Deco Blog
@@ -31,18 +79,6 @@ profiles:
     id: ck14k3u0onlpe0i19u7e8gsin
     verified: false
     hashtags: "#deco, #rustico, #decora, #vintage"
-  - username: "lorenapedace"
-    fullname: >-
-      Lorena Pedace ✨ Lifestyle Deco
-    bio: >-
-      ▫️En Obra, compartiendo mucha info! ▫️Decoración ▫️Recetas #lorenapedaceobra #lorenapedacerecetas
-    location: "Argentina"
-    followers: 70518
-    engagement: 222
-    commentsToLikes: 0.072239
-    id: ck6tv897kkqj90j71nbypnwef
-    verified: false
-    hashtags: "#kitchendesign, #sunnyislesbeach, #playa, #viajes"
   - username: "home_py_deco"
     fullname: >-
       ~ PY ~ Deco & Home
@@ -67,30 +103,6 @@ profiles:
     id: ck5q4vlmbqe370i118dnyxecr
     verified: false
     hashtags: "#decoracioninteriores, #madera, #weber, #decohome"
-  - username: "elmundodecam"
-    fullname: >-
-      El Mundo De Cam
-    bio: >-
-      Entre Trapos & Purpurina! 💖 Descubriendo la vida adulta en una casita rosada. 💖 Tips para hacerte la vida en casa más fácil! 📍Asu - Py
-    location: "Argentina"
-    followers: 34684
-    engagement: 190
-    commentsToLikes: 0.142991
-    id: ck5chkdyvqxzw0i110gojz47u
-    verified: false
-    hashtags: "#homedecor, #decohogar, #vday, #orden"
-  - username: "helsyflores"
-    fullname: >-
-      Helsy Flores 🌙
-    bio: >-
-      From another time, or another world. 🍰 Recetas en @creativaalsarten ✨ Magia en @whimsicalwitch_ 🗺 Viajes en @helsyflorestravel 🛸 Conspiraciones en:
-    location: "Argentina"
-    followers: 25710
-    engagement: 358
-    commentsToLikes: 0.060962
-    id: ck6uhcd8u8av30j716rgyzlmk
-    verified: false
-    hashtags: "#ootd, #homedecor, #snow, #outfit"
   - username: "atelier.botanico"
     fullname: >-
       ATELIER BOTÁNICO®
@@ -103,18 +115,6 @@ profiles:
     id: ck6tmszyi8h6p0j71c7hvvigx
     verified: false
     hashtags: "#terrarios, #home, #verdevida, #green"
-  - username: "hachezhome"
-    fullname: >-
-      Clara Houssay - Decoradora
-    bio: >-
-      INTERIORISMO & LIFESTYLE •ideas deco para tu casa •mi dia a día y el de balta •de todo un poco: moda - deco Hachezhome@gmail.com
-    location: "Argentina"
-    followers: 96844
-    engagement: 149
-    commentsToLikes: 0.288278
-    id: ck8sz3iryn19x0j783zb82cmu
-    verified: false
-    hashtags: "#livingroom, #inspohome, #myhome, #reelitfeelit"
   - username: "rielamericano"
     fullname: >-
       RIELAMERICANO (página oficial)

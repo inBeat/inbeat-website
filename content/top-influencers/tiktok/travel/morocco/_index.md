@@ -1,11 +1,11 @@
 ---
-title: Top 10 Travel TikTok Influencers In Morocco In 2023
+title: Top 10 Travel TikTok Influencers In Morocco In 2024
 description: >-
-  Find top travel TikTok influencers in Morocco in 2023. Most popular hashtags: #travel #maroc #fyp #morocco.
+  Find top travel TikTok influencers in Morocco in 2024. Most popular hashtags: #travel #maroc #fyp #morocco.
 platform: TikTok
 hits: 12
-text_top: See the top-rated TikTok profiles on inBeat.
-text_bottom: Our platform has 12 TikTok influencers like this in Morocco for you to collaborate.
+text_top: See the most popular TikTok profiles on inBeat.
+text_bottom: inBeat aggregates 12 TikTok influencers like this in Morocco for you to contact.
 profiles:
   - username: "sujithbhakthan"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.007072
     id: ck9numbewnty80j78es3g8m8p
     verified: false
-    hashtags: "#techtraveleat, #travel, #withme, #kerala"
+    hashtags: "#travel, #kerala, #covid, #inbtrip"
   - username: "kapildoorkapersad"
     fullname: >-
       Kapil Doorkapersadh

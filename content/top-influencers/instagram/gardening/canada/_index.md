@@ -1,11 +1,11 @@
 ---
-title: Top 10 Gardening Instagram Influencers In Canada In 2023
+title: Top 10 Gardening Instagram Influencers In Canada In 2024
 description: >-
-  Find top gardening Instagram influencers in Canada in 2023. Most popular hashtags: #gardening #organicgardening #garden #gardenlife.
+  Find top gardening Instagram influencers in Canada in 2024. Most popular hashtags: #gardening #garden #gardenlife #growyourown.
 platform: Instagram
-hits: 23
+hits: 39
 text_top: Identify the top-rated Instagram accounts on inBeat.
-text_bottom: Our platform has 23 Instagram influencers like this in Canada for you to pitch.
+text_bottom: Our database holds 39 Instagram influencers like this in Canada for you to pitch.
 profiles:
   - username: "antoniovalenteflowers"
     fullname: >-
@@ -19,6 +19,42 @@ profiles:
     id: ck0w6j69i8t6z0i19ezril67v
     verified: false
     hashtags: "#christmas, #christmasdecor, #holiday, #yesimfine"
+  - username: "notmarcanthony"
+    fullname: >-
+      Marc-Anthony Sinagoga
+    bio: >-
+      Stand-Up & Sketch
+    location: "Canada"
+    followers: 131160
+    engagement: 1436
+    commentsToLikes: 0.032126
+    id: ck6tpydleoby40j718kfczeod
+    verified: false
+    hashtags: "#italiancontent, #italiancomedy, #tradition, #italian"
+  - username: "microflowerfarm"
+    fullname: >-
+      Galena • Urban Flower & Food Garden • Education
+    bio: >-
+      💐Flower farmer on 6000 sq ft 🌸Passions: no-till growing, pollinators & helping others create gardens! Local Flowers & Online Classes👇🏼 🌲Vancouver WA
+    location: "Canada"
+    followers: 152711
+    engagement: 198
+    commentsToLikes: 0.038833
+    id: ckrni54ovguap0j239r9pskcl
+    verified: false
+    hashtags: "#flowergarden, #gardentips, #ranunculus, #dahliaseason"
+  - username: "fairlyrooted"
+    fullname: >-
+      Amber Allen
+    bio: >-
+      building a no dig ecological farm. gardener. forager. mother. maker. sufficiency. rural ontario, zone 5 🇨🇦 🎥 i make youtube videos👇
+    location: "Canada"
+    followers: 94497
+    engagement: 194
+    commentsToLikes: 0.035035
+    id: ck0w2rwc5pw200i19si8n2rmj
+    verified: false
+    hashtags: "#healthy, #consciousmotherhood, #nowaste, #authenticmotherhood"
   - username: "justin__roy__0709"
     fullname: >-
       🥀شیخ ربنواز🥀
@@ -30,7 +66,7 @@ profiles:
     commentsToLikes: 0.135962
     id: ckaos4vifq3hp0i78oo254k31
     verified: false
-    hashtags: "#styleblogger, #men, #instagram, #selfcare"
+    hashtags: "#reels, #chicassexys, #styleblogger, #selfcare"
   - username: "coniferesetfeuillus"
     fullname: >-
       Annika Patel
@@ -54,19 +90,7 @@ profiles:
     commentsToLikes: 0.194008
     id: ck5cewi6zluqh0i1171mfq1zg
     verified: false
-    hashtags: "#moodygrams, #gardenersofig, #kitchengardens, #tr"
-  - username: "urbanveggiegarden"
-    fullname: >-
-      Luay - ©Urban Farm and Kitchen
-    bio: >-
-      Seed to Plate 👨‍🌾 Garden Advisor, Educator & Entrepreneur 👨‍💻 Brand Content Creator | Photo/videography 👨‍🍳 Cook | Garden to table recipes Toronto 🇨🇦
-    location: "Canada"
-    followers: 60085
-    engagement: 238
-    commentsToLikes: 0.034090
-    id: ckaor4yxdlr450i7803ll30a4
-    verified: false
-    hashtags: "#mygarden, #urbangardening, #vegetablegarden, #growyourownfood"
+    hashtags: "#mygardentoday, #eeeeeats, #breatheyourbiome, #foodphotography"
   - username: "theartofdoingstuff"
     fullname: >-
       Karen Bertelsen
@@ -78,7 +102,7 @@ profiles:
     commentsToLikes: 0.047235
     id: ck6trvrb51db70j71mc15jpg3
     verified: false
-    hashtags: "#growyourown, #taods, #organicgardening, #gardeningistherapy"
+    hashtags: "#urbanhomestead, #growyourown, #gardeningistherapy, #organicgardening"
   - username: "justgreen_904"
     fullname: >-
       💚Justin Vachon💚
@@ -102,29 +126,5 @@ profiles:
     commentsToLikes: 0.156074
     id: ck15qifpv2zxo0i19cc95gne8
     verified: false
-    hashtags: "#hosta, #landscapemaintenance, #garden, #kelowna"
-  - username: "valleylivingdesign"
-    fullname: >-
-      Valley Living Design
-    bio: >-
-      ❤Fᴀᴛʜᴇʀ / ᴅᴀᴜɢʜᴛᴇʀ ᴛᴇᴀᴍ❤ ⛰ᴄʀᴇᴀᴛɪɴɢ ᴍᴇᴍᴏʀɪᴇs ᴀɴᴅ sʜᴇʟᴠᴇs⛰ 🛠️ᴄʟᴏsᴇᴅ ꜰᴏʀ ᴄᴜꜱᴛᴏᴍs🛠️ 📍ʜᴀʀʀɪꜱᴏɴ ʜᴏᴛ ꜱᴘʀɪɴɢꜱ, ʙᴄ📍
-    location: "Canada"
-    followers: 22920
-    engagement: 173
-    commentsToLikes: 0.043427
-    id: ck9wd5bx3e4mo0j78ooemcuds
-    verified: false
-    hashtags: "#spiritjunkie, #livingwithplants, #crystalhealing, #hippylife"
-  - username: "evelynaffleck"
-    fullname: >-
-      Evelyn Affleck
-    bio: >-
-      • Commercial/Editorial/Film • Vancouver, BC • Bookings/Inquiries please email evelynaffleck@gmail.com (no dm’s please)
-    location: "Canada"
-    followers: 12386
-    engagement: 583
-    commentsToLikes: 0.047456
-    id: ck5cffnetmuwb0i11hy12fdlc
-    verified: false
-    hashtags: "#danessamyricksangels, #makeupoftheday, #igmakeup, #artist"
+    hashtags: "#kelownabc, #boxwood, #gardening, #kelowna"
 ---

@@ -1,24 +1,24 @@
 ---
-title: Top 10 Guitar Instagram Influencers In Turkey In 2023
+title: Top 10 Guitar Instagram Influencers In Turkey In 2024
 description: >-
-  Find top guitar Instagram influencers in Turkey in 2023. Most popular hashtags: #bass #musician #guitar #bassguitar.
+  Find top guitar Instagram influencers in Turkey in 2024. Most popular hashtags: #guitar #bass #musician #bassguitar.
 platform: Instagram
-hits: 132
-text_top: Identify the top-rated Instagram profiles on inBeat.
-text_bottom: inBeat holds 132 Instagram influencers like this in Turkey for you to collaborate.
+hits: 134
+text_top: Analyze the top-rated Instagram accounts on inBeat.
+text_bottom: Our platform aggregates 134 Instagram influencers like this in Turkey for you to pitch.
 profiles:
   - username: "koksalfndk"
     fullname: >-
-      Köksal FINDIK
+      Köksal Fındık
     bio: >-
-      @avcikoray Team / Guitar @neredenbaksan
+      Guitarist at @avcikoray #vegan 🌱
     location: "Turkey"
-    followers: 19164
-    engagement: 796
-    commentsToLikes: 0.035340
+    followers: 16742
+    engagement: 732
+    commentsToLikes: 0.031664
     id: ck5cgb4boohnp0i11t5epwmhf
     verified: false
-    hashtags: "#mask, #smiley, #catismet, #europetour2020"
+    hashtags: "#australia, #amsterdam, #korayavci, #stage"
   - username: "sitkicoskun"
     fullname: >-
       Sıtkı Coşkun

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Architecture TikTok Influencers In France In 2023
+title: Top 10 Architecture TikTok Influencers In France In 2024
 description: >-
-  Find top architecture TikTok influencers in France in 2023. Most popular hashtags: #paris #architecture #pourtoi #fyp.
+  Find top architecture TikTok influencers in France in 2024. Most popular hashtags: #paris #architecture #fyp #pourtoi.
 platform: TikTok
 hits: 11
-text_top: Analyze the most popular TikTok accounts on inBeat.
-text_bottom: Our platform holds 11 TikTok influencers like this in France for you to connect with.
+text_top: Analyze the top-rated TikTok accounts on inBeat.
+text_bottom: Our search engine aggregates 11 TikTok influencers like this in France for you to connect with.
 profiles:
   - username: "pierre.brault"
     fullname: >-
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.037937
     id: cka676g0jjs7q0i78yei62dlh
     verified: false
-    hashtags: "#droneshot, #shooting, #paris, #filmphotography"
+    hashtags: "#droneshot, #paris, #photographytips, #photographytricks"
   - username: "perchekindustrie"
     fullname: >-
       Perchek Industrie
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.013669
     id: ck9skc8z083580j78xytb8kmj
     verified: false
-    hashtags: "#fyp, #art, #artist, #viral"
+    hashtags: "#bts, #trend, #viral, #pourtoi"
   - username: "ascollector"
     fullname: >-
       ascollector
@@ -126,5 +126,5 @@ profiles:
     commentsToLikes: 0.011233
     id: ckbfedzb48c7q0j2315qi6quu
     verified: false
-    hashtags: "#travel, #summer, #quarantine, #funny"
+    hashtags: "#foryou, #summer, #funny, #travel"
 ---

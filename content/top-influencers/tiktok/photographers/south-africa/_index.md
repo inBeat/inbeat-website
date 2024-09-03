@@ -1,11 +1,11 @@
 ---
-title: Top 10 Photographers TikTok Influencers In South Africa In 2023
+title: Top 10 Photographers TikTok Influencers In South Africa In 2024
 description: >-
-  Find top photographers TikTok influencers in South Africa in 2023. Most popular hashtags: #fyp #tiktoksouthafrica #foryou #trending.
+  Find top photographers TikTok influencers in South Africa in 2024. Most popular hashtags: #fyp #tiktoksouthafrica #foryou #trending.
 platform: TikTok
 hits: 9
-text_top: Identify the best TikTok accounts on inBeat.
-text_bottom: Our database holds 9 TikTok influencers like this in South Africa for you to work with.
+text_top: See the best TikTok influencers on inBeat.
+text_bottom: Our platform aggregates 9 TikTok influencers like this in South Africa for you to work with.
 profiles:
   - username: "gerryvanderwalt"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.070477
     id: ckc8vrh4cito80j23ky7f6r9m
     verified: false
-    hashtags: "#africa, #wildlife, #trend, #tiktoksouthafrica"
+    hashtags: "#travel, #amazing, #trend, #tiktoksouthafrica"
   - username: "ghostell97"
     fullname: >-
       ChristellDerwigArt

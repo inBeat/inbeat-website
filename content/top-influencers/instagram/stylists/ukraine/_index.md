@@ -1,12 +1,60 @@
 ---
-title: Top 10 Stylists Instagram Influencers In Ukraine In 2023
+title: Top 10 Stylists Instagram Influencers In Ukraine In 2024
 description: >-
-  Find top stylists Instagram influencers in Ukraine in 2023. Most popular hashtags: #lookoftheday #lviv #nudemakeup.
+  Find top stylists Instagram influencers in Ukraine in 2024. Most popular hashtags: #lookoftheday #totalblack #mamchukhair.
 platform: Instagram
-hits: 34
-text_top: Discover the most popular Instagram accounts on inBeat.
-text_bottom: Our database aggregates 34 Instagram influencers like this in Ukraine for you to pitch.
+hits: 43
+text_top: Discover the best Instagram accounts on inBeat.
+text_bottom: Our database has 43 Instagram influencers like this in Ukraine for you to connect with.
 profiles:
+  - username: "fffetisova"
+    fullname: >-
+      ANASTASIA FETISOVA AKA FETISA 🫦
+    bio: >-
+      fashion influencer, model, stylist FOUNDER @i.am.your.fetish PR and Cooperation DM & fffetissh@gmail.com
+    location: "Ukraine"
+    followers: 41675
+    engagement: 696
+    commentsToLikes: 0.009734
+    id: ck5c2wgk3y4kk0i11ghdbgh1s
+    verified: false
+    hashtags: "#styleinspiration, #fetisa, #fashionista, #kollygirls"
+  - username: "mazzhyk"
+    fullname: >-
+      Cult of amorality & aesthetics
+    bio: >-
+      Stylist. Art director. Paris. Poland Requests: Mazzhyk@visionaryservices.de or dm
+    location: "Ukraine"
+    followers: 124459
+    engagement: 564
+    commentsToLikes: 0.004209
+    id: ck5ce88owkj6s0i11x3a9fheu
+    verified: false
+    hashtags: ""
+  - username: "tania_dudu"
+    fullname: >-
+      Personal&Fashion stylist
+    bio: >-
+      Ukrainian stylist 🇺🇦 📍based in Paris ⠀ Work with PEOPLE and BRANDS collabs✉️info@taniadudu.com
+    location: "Ukraine"
+    followers: 72459
+    engagement: 291
+    commentsToLikes: 0.025022
+    id: ck5px31rzpusm0i11q1dyc8bn
+    verified: false
+    hashtags: "#tendy, #redheels, #trendyscarf, #leoprint"
+  - username: "greenteanosugar"
+    fullname: >-
+      Margarita Muradova (Riabova)
+    bio: >-
+      🇺🇦Personal Stylist, Educator + Co-Founder @MODEIS.ME Contact: assistant@greenteanosugar.com TRENDBOOK 2024 sign-up:
+    location: "Ukraine"
+    followers: 293849
+    engagement: 180
+    commentsToLikes: 0.008043
+    id: ck0vzeyu28s2t0i19mgbzi48r
+    verified: true
+    hashtags: "#partnership, #tousukraine"
   - username: "linakhrystoforova"
     fullname: >-
       Лина Христофорова
@@ -77,54 +125,6 @@ profiles:
     engagement: 45
     commentsToLikes: 0.010535
     id: ck6ugmhny3weo0j710fw5z3xp
-    verified: false
-    hashtags: ""
-  - username: "panda_volkova"
-    fullname: >-
-      Гола з України
-    bio: >-
-      Model of human 🌱 ❗️NO TFP❗️ Stylist/Art maker/Performer LGBT and HIV activist @chastoty_ ,”COVEN”, @35mm_by_panda
-    location: "Ukraine"
-    followers: 22925
-    engagement: 485
-    commentsToLikes: 0.020374
-    id: ckap27uwcxr7i0i78brn2xlu5
-    verified: false
-    hashtags: "#dollskill, #sugarthrillz, #clubexx, #420"
-  - username: "uliana_foxy"
-    fullname: >-
-      Uliana Foxy
-    bio: >-
-      🤍 MAKE-UP ARTIST 🤍 HAIR STYLIST 🤍 BROW MASTER Тут живе шпіц Баффі🐶 Робоча сторінка ⬇️
-    location: "Ukraine"
-    followers: 5467
-    engagement: 882
-    commentsToLikes: 0.023153
-    id: ckaouv0no1xn20i78wt2vife3
-    verified: false
-    hashtags: "#lviv, #odessa, #zaralook, #pomeranian"
-  - username: "victoriapolovko"
-    fullname: >-
-      Виктория Половко
-    bio: >-
-      HAIR stylist ▪️ +38(063)234 97 98 Рабочий профиль 👇🏻
-    location: "Ukraine"
-    followers: 26591
-    engagement: 63
-    commentsToLikes: 0.015895
-    id: ck5q7evj017qv0i11c4huz4ra
-    verified: false
-    hashtags: "#estro"
-  - username: "allahontar_makeup"
-    fullname: >-
-      Алла Гонтар💄
-    bio: >-
-      Makeup and hair stylist🤍 Brow Master🤍 📲+380989591966 Ukraine/ Vinnytsya
-    location: "Ukraine"
-    followers: 3096
-    engagement: 647
-    commentsToLikes: 0.020465
-    id: ck9wf7sdankyr0j78letioqi2
     verified: false
     hashtags: ""
 ---

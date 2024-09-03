@@ -1,12 +1,24 @@
 ---
-title: Top 10 Beauty TikTok Influencers In Berlin In 2023
+title: Top 10 Beauty TikTok Influencers In Berlin In 2024
 description: >-
-  Find top beauty TikTok influencers in Berlin in 2023. Most popular hashtags: #foryou #beauty #viral #berlin.
+  Find top beauty TikTok influencers in Berlin in 2024. Most popular hashtags: #foryou #beauty #fyp #trend.
 platform: TikTok
-hits: 7
-text_top: See the best TikTok accounts on inBeat.
-text_bottom: Our search engine aggregates 7 TikTok influencers like this in Berlin, Germany for you to work with.
+hits: 8
+text_top: Analyze the best TikTok profiles on inBeat.
+text_bottom: Our platform aggregates 8 TikTok influencers like this in Berlin, Germany for you to work with.
 profiles:
+  - username: "mariaclaragroppler"
+    fullname: >-
+      mariaclaragroppler
+    bio: >-
+      VEGAN, STAND UP COMEDY, JUNGFRAU Insta: mariaclaragroppler ⬇️ Mein Shop ⬇️
+    location: "Germany"
+    followers: 237600
+    engagement: 984
+    commentsToLikes: 0.008030
+    id: ck9gpc41v4gva0j78fbfmb6yg
+    verified: false
+    hashtags: "#fyp, #sketch, #mariaclaragroppler, #schule"
   - username: "_amaya_beauty_ber"
     fullname: >-
       _amaya_beauty_berlin
@@ -30,7 +42,7 @@ profiles:
     commentsToLikes: 0.028124
     id: ckbexl187i0aj0j235603gbcl
     verified: false
-    hashtags: "#dm, #shein, #hairgrowth, #sheingals"
+    hashtags: "#firstimpression, #hairgrowth, #sheingals, #shein"
   - username: "3bdull0h"
     fullname: >-
       Abdullah bln
@@ -43,6 +55,18 @@ profiles:
     id: ck81svrkvtgma0j78h52brjva
     verified: false
     hashtags: "#fyp, #foryou, #german, #turkish"
+  - username: "sarahhcht"
+    fullname: >-
+      ✨Sarah✨
+    bio: >-
+      Sarah Berlin📍// 18 love all my ✨23,5✨ tausend Mausis💞 📩 sarahhcht03@gmail.com
+    location: "Germany"
+    followers: 23500
+    engagement: 1138
+    commentsToLikes: 0.025337
+    id: ck902dr6zcdj50j787jpy89y9
+    verified: false
+    hashtags: "#retro, #fyp, #trend, #liveforthechallenge"
   - username: "lushdeutschland"
     fullname: >-
       LUSH Deutschland
@@ -54,7 +78,7 @@ profiles:
     commentsToLikes: 0.020208
     id: ckbb6vkm2wwl80j23tcsjwa4s
     verified: false
-    hashtags: "#teiledeinwissen, #deo, #plasticfreejuly, #whatthefact"
+    hashtags: "#whatthefact, #teiledeinwissen, #sommer, #deo"
   - username: "spatzemitsoos"
     fullname: >-
       Spatzemitsoos
@@ -66,19 +90,7 @@ profiles:
     commentsToLikes: 0.030347
     id: ckbqhu5ly33lq0j23zlztuxpd
     verified: false
-    hashtags: "#lernenmittiktok, #fyfyfyfyfyfy, #dialekt, #schw"
-  - username: "mariaclaragroppler"
-    fullname: >-
-      mariaclaragroppler
-    bio: >-
-      VEGAN, STAND UP COMEDY, JUNGFRAU Insta: mariaclaragroppler ⬇️ Mein Shop ⬇️
-    location: "Germany"
-    followers: 237600
-    engagement: 984
-    commentsToLikes: 0.008030
-    id: ck9gpc41v4gva0j78fbfmb6yg
-    verified: false
-    hashtags: "#foryou, #comedy, #fy, #funny"
+    hashtags: "#fy, #badenw, #teiledeinwissen, #viral"
   - username: "sophialuisa20"
     fullname: >-
       Sophia Luisa
@@ -115,16 +127,4 @@ profiles:
     id: ck9du58xuf1em0j78an48xzv7
     verified: false
     hashtags: "#psychohouse, #duett, #beautysandbeasts, #foryou"
-  - username: "rose.friederike"
-    fullname: >-
-      ROSE
-    bio: >-
-      Hi 🙋🏻‍♀️ Model/Creator Welcome to my world of Beauty✨ 💌 rose@labs.management
-    location: "Germany"
-    followers: 686400
-    engagement: 1876
-    commentsToLikes: 0.019209
-    id: ck8vubiylijd00j784ntgsjco
-    verified: true
-    hashtags: "#waxingvideos, #viral, #tiktokfashion, #fashionhack"
 ---

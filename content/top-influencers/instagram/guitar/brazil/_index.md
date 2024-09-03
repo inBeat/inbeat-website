@@ -1,12 +1,48 @@
 ---
-title: Top 10 Guitar Instagram Influencers In Brazil In 2023
+title: Top 10 Guitar Instagram Influencers In Brazil In 2024
 description: >-
-  Find top guitar Instagram influencers in Brazil in 2023. Most popular hashtags: #guitar #rock #guitarrista.
+  Find top guitar Instagram influencers in Brazil in 2024. Most popular hashtags: #guitar #guitarra #guitarplayer.
 platform: Instagram
-hits: 491
-text_top: See the most popular Instagram influencers on inBeat.
-text_bottom: Our database aggregates 491 Instagram influencers like this in Brazil for you to pitch.
+hits: 494
+text_top: See the top-rated Instagram profiles on inBeat.
+text_bottom: Our database holds 494 Instagram influencers like this in Brazil for you to connect with.
 profiles:
+  - username: "karaiguedes"
+    fullname: >-
+      Karaí Guedes
+    bio: >-
+      Cantor e guitarreiro 🧉 🎸 @jorgeguedesefamilia Rio Grande do Sul - Brasil 🇧🇷 karaiguitarraguedes@gmail.com
+    location: "Brazil"
+    followers: 169201
+    engagement: 721
+    commentsToLikes: 0.031959
+    id: ck5bvqb00k6pf0i1122kus0qc
+    verified: false
+    hashtags: "#gitarakustik, #musicamissioneira, #tocandoviolao, #karaiguedes"
+  - username: "fabricioravi"
+    fullname: >-
+      Fabricio Ravi
+    bio: >-
+      Guitarrista da @rockemdobro Compositor 📀 Artista @michaelinstrumentos 🥈Soth barramusic/LR contest 🥉 NUX contest LIVE LIKE A ROCKSTAR 🤘😝 MEU CANAL 👇
+    location: "Brazil"
+    followers: 22687
+    engagement: 380
+    commentsToLikes: 0.073342
+    id: ck9wfqromq3oi0j78zem2r8ao
+    verified: false
+    hashtags: "#tour, #saopaulo, #rockstar, #glamrock"
+  - username: "samuelrosaoficial"
+    fullname: >-
+      Samuel Rosa
+    bio: >-
+      Perfil oficial de Samuel Rosa, músico, compositor, guitarrista e vocalista. contato@samuelrosa.com.br
+    location: "Brazil"
+    followers: 538936
+    engagement: 120
+    commentsToLikes: 0.021245
+    id: ck0txwqzxks320i19p7znhnl1
+    verified: true
+    hashtags: ""
   - username: "deleogt"
     fullname: >-
       
@@ -91,40 +127,4 @@ profiles:
     id: ck8t0kcz0scxx0j78ekfcs9pb
     verified: false
     hashtags: "#pinscher, #pretilene, #nadadora, #casamento"
-  - username: "paula_carregosa"
-    fullname: >-
-      🛸 PAULA CARREGOSA
-    bio: >-
-      Brazilian Lefty-handed Guitarrista 🎸 I’m Random👹 Produção Musical @ejectstudios Formada em Comunicação Social | RP | MKT | MÍDIAS @flavio.produtor 💍
-    location: "Brazil"
-    followers: 108108
-    engagement: 385
-    commentsToLikes: 0.016506
-    id: ck5zy3zhk96ra0i14g8ugfv10
-    verified: false
-    hashtags: "#julianocorrea, #itapetininga, #cabelosaudavel, #itape"
-  - username: "danylloxarles"
-    fullname: >-
-      Dany Boy
-    bio: >-
-      Guitarrista e Produtor Musical! 🎧🎸🇧🇷 @drmusic83 @dialetorock Gravações online. Informações pelo direct. João Pessoa - PB📍
-    location: "Brazil"
-    followers: 10276
-    engagement: 360
-    commentsToLikes: 0.082991
-    id: ck8t0l0afsf560j78lv82fd53
-    verified: false
-    hashtags: "#producaomusical, #forr, #forronaguitarra, #musicaminhavida"
-  - username: "juliasmithoficial"
-    fullname: >-
-      JULIA SMITH
-    bio: >-
-      🎤cantora 🎹compositora 🎸guitarrista CALMA E PAZ - ASSISTA AGORA 👇🏻
-    location: "Brazil"
-    followers: 22209
-    engagement: 76
-    commentsToLikes: 0.109153
-    id: ck8tdtjaw4prl0j78759hwtih
-    verified: false
-    hashtags: "#diadomusico, #johnmayer, #emojiofa, #repost"
 ---

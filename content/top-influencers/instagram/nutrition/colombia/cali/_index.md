@@ -1,11 +1,11 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In Cali In 2023
+title: Top 10 Nutrition Instagram Influencers In Cali In 2024
 description: >-
-  Find top nutrition Instagram influencers in Cali in 2023. Most popular hashtags: #workout #motivation #training #fitness.
+  Find top nutrition Instagram influencers in Cali in 2024. Most popular hashtags: #workout #motivation #training #abs.
 platform: Instagram
-hits: 7
-text_top: See the top-rated Instagram influencers on inBeat.
-text_bottom: inBeat holds 7 Instagram influencers like this in Cali, Colombia for you to work with.
+hits: 6
+text_top: Analyze the most popular Instagram accounts on inBeat.
+text_bottom: Our search engine holds 6 Instagram influencers like this in Cali, Colombia for you to contact.
 profiles:
   - username: "josemiofficial"
     fullname: >-
@@ -31,18 +31,6 @@ profiles:
     id: ck5c7li647r3z0i11tjo895ey
     verified: false
     hashtags: "#yesitrainerfactory, #workout, #training, #viernes"
-  - username: "endocrinorosero"
-    fullname: >-
-      Endocrino Rosero
-    bio: >-
-      👉🏻Comida real para personas reales| ✍️Autor : Meta Alimentación | Médico Endocrinólogo Experto en metabolismo🧬|🇨🇴| Información sobre EndocrinoRosero👇
-    location: "Colombia"
-    followers: 504079
-    engagement: 268
-    commentsToLikes: 0.039558
-    id: ck8sz2e86mwzd0j788xvt7vyr
-    verified: false
-    hashtags: "#dieta, #keto, #nutricion, #saludable"
   - username: "marianelamodel"
     fullname: >-
       MARIANELA | PRESENTADORA
@@ -127,4 +115,16 @@ profiles:
     id: ck5cb0sidei1g0i11xfkaz9h9
     verified: false
     hashtags: "#jiujitsulifestyle, #ibjjfgirls, #absworkouts, #motivation"
+  - username: "anasantafit"
+    fullname: >-
+      Ana Santa Fitness & Lifestyle
+    bio: >-
+      Certified Fitness Nutrition Specialist 🍫 @chacha.colombia Contacto@anasantafit.com 🥑Reto #4semanascomiendobien 🚩⬇️
+    location: "Colombia"
+    followers: 68769
+    engagement: 125
+    commentsToLikes: 0.085066
+    id: ck14ifzwkf7mv0i194s50fxu1
+    verified: false
+    hashtags: "#4semanascomiendobien, #healthy, #recetasaschafitness, #healthyrecipe"
 ---

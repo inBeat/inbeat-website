@@ -1,24 +1,36 @@
 ---
-title: Top 10 Cooking Instagram Influencers In Russia In 2023
+title: Top 10 Cooking Instagram Influencers In Russia In 2024
 description: >-
-  Find top cooking Instagram influencers in Russia in 2023. Most popular hashtags: #foodstagram #foodblog #baking.
+  Find top cooking Instagram influencers in Russia in 2024. Most popular hashtags: #foodstagram #cakeart #foodblog.
 platform: Instagram
-hits: 469
-text_top: Identify the best Instagram influencers on inBeat.
-text_bottom: Our platform aggregates 469 Instagram influencers like this in Russia for you to collaborate.
+hits: 465
+text_top: See the most popular Instagram accounts on inBeat.
+text_bottom: Our database aggregates 465 Instagram influencers like this in Russia for you to contact.
 profiles:
-  - username: "vladislava_661"
+  - username: "vlad.hoshin"
     fullname: >-
-      Vladislava Shelygina
+      Vlad Hoshin
     bio: >-
-      Girl next door🔥 I like embroidery, cooking and taking photos🥰 More of my content👇
+      2001 🇰🇷 ⠀ offer@peaches.studio BRIGADEIRO 🇧🇷COOKING VIDEO ⬇️⬇️
     location: "Russia"
-    followers: 1977335
-    engagement: 954
-    commentsToLikes: 0.013896
-    id: ck8tbw9e3xe6s0j78bjd66lb8
+    followers: 1642140
+    engagement: 376
+    commentsToLikes: 0.006011
+    id: ck8wf8a66fauy0j781nv316w6
     verified: false
-    hashtags: "#walk, #body, #curves, #prettygirls"
+    hashtags: ""
+  - username: "yulia_mironova_official"
+    fullname: >-
+      Юлия Миронова
+    bio: >-
+      LIFE | BUSINESS | COOKING ⠀ Руководитель школы английского языка @capital_school_edu Шеф вкусных завтраков 🧇 Кинокритик 🎥 ⠀ PR @yulia_mama3x_pr
+    location: "Russia"
+    followers: 2274184
+    engagement: 35
+    commentsToLikes: 0.005829
+    id: ck6tlvdg46pck0j71sm1m7xqv
+    verified: false
+    hashtags: ""
   - username: "la_torte"
     fullname: >-
       YULIA IVANOVA, Moscow
@@ -115,16 +127,4 @@ profiles:
     id: ck5c9sypuc29e0i11ofryiqvu
     verified: false
     hashtags: "#faberlicinfluencer, #jolsecosmetic, #faberlic, #jolse"
-  - username: "saharisha"
-    fullname: >-
-      Irina Meliukh
-    bio: >-
-      Food photographer, готовлю и снимаю еду для кулинарных сайтов, книг и журналов 🍴Бренд-амбассадор Kenwood Cooking Chef (промокод для покупки saharisha)
-    location: "Russia"
-    followers: 103872
-    engagement: 312
-    commentsToLikes: 0.019859
-    id: ck5zikmudfvx00i14kwyp2py6
-    verified: false
-    hashtags: "#foodblog, #recipes, #baking, #christmasbaking"
 ---

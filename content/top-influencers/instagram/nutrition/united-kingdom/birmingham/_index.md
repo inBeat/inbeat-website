@@ -1,11 +1,11 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In Birmingham In 2023
+title: Top 10 Nutrition Instagram Influencers In Birmingham In 2024
 description: >-
-  Find top nutrition Instagram influencers in Birmingham in 2023. Most popular hashtags: #fitness #nutrition #gymmotivation #training.
+  Find top nutrition Instagram influencers in Birmingham in 2024. Most popular hashtags: #nutrition #gymmotivation #fitnessmotivation #fitness.
 platform: Instagram
 hits: 5
-text_top: Analyze the most popular Instagram influencers on inBeat.
-text_bottom: Our search engine holds 5 Instagram influencers like this in Birmingham, United Kingdom for you to collaborate.
+text_top: Identify the best Instagram influencers on inBeat.
+text_bottom: Our database holds 5 Instagram influencers like this in Birmingham, United Kingdom for you to connect with.
 profiles:
   - username: "ben.gym.in_"
     fullname: >-
@@ -43,30 +43,42 @@ profiles:
     id: ck5c9k4whbkwp0i1177fsj6g0
     verified: true
     hashtags: "#madeforandyperfectedforyou, #b2022, #blacklivesmatter, #rougeetblanc"
-  - username: "lippers01"
+  - username: "matty_j_turner"
     fullname: >-
-      𝐑𝐨𝐬𝐢𝐞 𝐋𝐢𝐩𝐩𝐦𝐚𝐧𝐧 🇬🇧
+      Matty Turner
     bio: >-
-      Qualified PT 🥊 🏋🏼‍♀️ #HITCHIN (Herts) JOEY 👦🏼💙 My kitten - @cat_binx01 DM/ 📧 for collaboration (Discount in HL’s)
+      🎬 Purpose | Self Work Love 🍀 👫 Founder @manava_collection 🔑 Business Consultant | Build stronger business through connection not competition
     location: "United Kingdom"
-    followers: 15916
-    engagement: 605
-    commentsToLikes: 0.430240
-    id: ck6tlsytd6l160j71fswhqfjb
+    followers: 27610
+    engagement: 272
+    commentsToLikes: 0.025634
+    id: ck6tjkeqn2vxw0j71fvkvoiwk
     verified: false
-    hashtags: "#spa, #fashionista, #mumsthatlift, #healthylifestyle"
-  - username: "dr_idz"
+    hashtags: "#billywhizz, #lovealwayswins, #birthdaycake, #believeinthepowerofyou"
+  - username: "lifewithmythree_"
     fullname: >-
-      
+      𝘈𝘭𝘦𝘹
     bio: >-
-      🏥 Doctor (MBBS) 📖 Masters in Nutritional Research (MRes) 📸 Tiktok - @dr_idz (700,000 followers) 🍏 Nutritionist DM - for Workout / Diet plans
+      ᴍᴜᴍ ᴏꜰ 3 ɢᴇᴏʀɢᴇ ᴡɪʟʟᴏᴡ & ᴏʟɪᴠᴇʀ ᴍᴏᴛʜᴇʀʜᴏᴏᴅ|ʟɪꜰᴇꜱᴛʏʟᴇ|ᴅᴀʏꜱ ᴏᴜᴛ 📍ᴡᴇꜱᴛ ᴍɪᴅʟᴀɴᴅꜱ ᴅᴍ ᴏʀ ᴇᴍᴀɪʟ ꜰᴏʀ ᴄᴏʟʟᴀʙᴏʀᴀᴛɪᴏɴꜱ/ᴘʀ
     location: "United Kingdom"
-    followers: 5626
-    engagement: 913
-    commentsToLikes: 0.016624
-    id: ck9ha9ia7boet0j78v0fkqzs9
+    followers: 11649
+    engagement: 465
+    commentsToLikes: 0.053205
+    id: cllxx7ptnkcuk0j08cgrt09sc
     verified: false
-    hashtags: "#ambassador, #gym, #nofilter, #circuit"
+    hashtags: "#love, #reelitfeelit, #instagood, #hydrafacial"
+  - username: "isafitlife"
+    fullname: >-
+      ISABEL l  ONLINE EXERCISE & NUTRITION
+    bio: >-
+      COACHING PAGE @aimhigherforyou BSc (Hons) Nutrition and Exercise currently MSc in Sports Nutrition @ljmu
+    location: "United Kingdom"
+    followers: 104908
+    engagement: 446
+    commentsToLikes: 0.018065
+    id: ck8t7zjt0ijrw0j78q2sp5ehu
+    verified: false
+    hashtags: "#gymreels, #gym, #glutesworkout, #backworkout"
   - username: "amanda_strachan"
     fullname: >-
       AMANDA STRACHAN
@@ -78,53 +90,41 @@ profiles:
     commentsToLikes: 0.014126
     id: ck0vv2h8dn8kb0i199rg3n3qx
     verified: false
-    hashtags: "#simplerecipes, #healthyrecipes, #nutrition, #mindfulness"
-  - username: "jacobcollier"
+    hashtags: "#healthyrecipes, #mindfulness, #easyrecipes, #nutrition"
+  - username: "_emilysworld"
     fullname: >-
-      Jacob Collier
+      Emily Solman
     bio: >-
-      Quester of delicion and nutrition ☃️
+      Registered Nutritionist specialising in disordered eating Let’s discover the happiest, healthiest version of YOU!! 🎧🎙️ @navigatingwomanhoodpod
     location: "United Kingdom"
-    followers: 1971478
-    engagement: 783
-    commentsToLikes: 0.006086
-    id: ck0vy477k25qn0i19tjgji8cx
-    verified: true
-    hashtags: "#15, #19, #23"
-  - username: "roarfitnessgirl"
+    followers: 209349
+    engagement: 1449
+    commentsToLikes: 0.007202
+    id: ck0vzcw488h390i19jaaxce21
+    verified: false
+    hashtags: "#mealprep, #highfibre, #breakfastinspo, #selfcare"
+  - username: "kimgfit_"
     fullname: >-
-      Sarah Lindsay
+      KIMIA GHANIAN
     bio: >-
-      •3x Olympian •Owner @roarfitnessldn gyms 🇬🇧 🇦🇪 •Founder @roarclasses •Sports Pundit @bbc •Personal Trainer •Nutrition coach •Public Speaker
+      all for Gods glory BSc (Hons) Nutritionist🍎 📩 simon@wmgmt.co.uk ONLINE COACHING LINK 🔽
     location: "United Kingdom"
-    followers: 90402
-    engagement: 117
-    commentsToLikes: 0.083805
-    id: ck5px3kjrpxhe0i11y2wwn406
-    verified: true
-    hashtags: "#positivemindset, #personaltrainer, #fitness, #dubai"
-  - username: "ciaralondon"
-    fullname: >-
-      BODY BY CIARA
-    bio: >-
-      London 📍 @bodybyciaraapp Online Training & Nutrition📱 @bodybyciarahq Gym & Real Life Training🏠 ⬇️LINKS TO EVERYTHING⬇️
-    location: "United Kingdom"
-    followers: 132382
-    engagement: 127
-    commentsToLikes: 0.435709
-    id: ck6tnvx80aokp0j71yfzhdj21
+    followers: 97392
+    engagement: 643
+    commentsToLikes: 0.004993
+    id: clfw1dugyylhy0j08ufty6msl
     verified: false
     hashtags: ""
-  - username: "jodiewood_"
+  - username: "aggie"
     fullname: >-
-      Jodie Matthews (Lawson-Wood)
+      AGGIE ✨ your biohacking bestie
     bio: >-
-      Fashion, Beauty & Lifestyle MSc Nutrition Work enquiries ~ influencers@andrea.ie Shop my jewelry line
+      🥑 Certified Nutrition Coach 🧬Top US Biohacker DM me FIT to start biohacking My supplements @biohackingbestie My book 📚 #BiohackLikeaWoman @jaggievilla
     location: "United Kingdom"
-    followers: 72179
-    engagement: 457
-    commentsToLikes: 0.035153
-    id: ck5c301niybu70i11uia8230y
+    followers: 1118136
+    engagement: 687
+    commentsToLikes: 0.014034
+    id: ck0u0xabmv61e0i19uujf5wp1
     verified: true
-    hashtags: "#puenteromano, #marbella, #couple, #outfitinspiration"
+    hashtags: "#biohacking, #honeymoon, #santorini, #sleep"
 ---

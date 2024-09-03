@@ -1,11 +1,11 @@
 ---
-title: Top 10 Gymnasts TikTok Influencers In Spain In 2023
+title: Top 10 Gymnasts TikTok Influencers In Spain In 2024
 description: >-
-  Find top gymnasts TikTok influencers in Spain in 2023. Most popular hashtags: #foryou #fyp #gymnastics #viral.
+  Find top gymnasts TikTok influencers in Spain in 2024. Most popular hashtags: #foryou #fyp #gymnastics #viral.
 platform: TikTok
 hits: 9
-text_top: Discover the top-rated TikTok accounts on inBeat.
-text_bottom: Our database holds 9 TikTok influencers like this in Spain for you to pitch.
+text_top: See the best TikTok profiles on inBeat.
+text_bottom: Our platform has 9 TikTok influencers like this in Spain for you to work with.
 profiles:
   - username: "irenepardox"
     fullname: >-

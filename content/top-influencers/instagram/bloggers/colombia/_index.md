@@ -1,12 +1,36 @@
 ---
-title: Top 10 Bloggers Instagram Influencers In Colombia In 2023
+title: Top 10 Bloggers Instagram Influencers In Colombia In 2024
 description: >-
-  Find top bloggers Instagram influencers in Colombia in 2023. Most popular hashtags: #makeup #maquillajecolombia #makeupartist.
+  Find top bloggers Instagram influencers in Colombia in 2024. Most popular hashtags: #makeup #makeupartist #maquillajecolombia #maquilladora.
 platform: Instagram
-hits: 63
-text_top: Discover the best Instagram accounts on inBeat.
-text_bottom: Our platform aggregates 63 Instagram influencers like this in Colombia for you to connect with.
+hits: 62
+text_top: Analyze the most popular Instagram profiles on inBeat.
+text_bottom: inBeat holds 62 Instagram influencers like this in Colombia for you to connect with.
 profiles:
+  - username: "camilacanabal"
+    fullname: >-
+      Camila | Inspirar siempre
+    bio: >-
+      🛒 camilacanabal.com ⚡️ @bycamilacanabal 👩🏼 TV Hostess, Blogger, Youtuber, Emprendedora 💙 Mamá y “Mamager”
+    location: "Colombia"
+    followers: 3343674
+    engagement: 22
+    commentsToLikes: 0.022769
+    id: ckqt1vbz9zwdm0j23izwrosqd
+    verified: false
+    hashtags: "#inspirarsiempre, #look, #lookdeldia, #cartera"
+  - username: "the_lucky_brunette"
+    fullname: >-
+      María Eugenia Ordoñez Calvimontes
+    bio: >-
+      || GOD FIRST || • Industrial & systems engineer • Fashion & life style blogger • Daily #outfitsinspiration 👗 • @luckyrudolph 's mom 🐶
+    location: "Colombia"
+    followers: 90229
+    engagement: 56
+    commentsToLikes: 0.014533
+    id: ck5zxh446800q0i14ss8slh9v
+    verified: false
+    hashtags: "#picoftheday, #springsummer, #coffeelover, #trendalert"
   - username: "saracalderonmakeup"
     fullname: >-
       Maquillaje Cartagena
@@ -31,18 +55,6 @@ profiles:
     id: ck5hi0usmb25p0i11evzfvxeq
     verified: false
     hashtags: "#conchisamper, #modasostenible, #fotografiaartistica, #modacircular"
-  - username: "carogallegoca"
-    fullname: >-
-      Caro Gallego Ca.
-    bio: >-
-      Medellín. 📍 Infocarogallego@gmail.com✨ Beauty blogger. @ateneaprofesional
-    location: "Colombia"
-    followers: 36955
-    engagement: 234
-    commentsToLikes: 0.092682
-    id: ck5qaczd5fr190i11fj3cjksh
-    verified: false
-    hashtags: "#viernestrepado, #giveaway"
   - username: "adribeautyartist"
     fullname: >-
       ✨Adri Beauty Artist✨
@@ -67,18 +79,6 @@ profiles:
     id: ck15u84ublvw30i19laidux05
     verified: false
     hashtags: "#quedateencasa, #inspirar, #makeup, #paokatan"
-  - username: "leplumeti"
-    fullname: >-
-      L e   P l u m e t i  💗💗
-    bio: >-
-      👩🏻‍💻 Wedding & Lifestyle Blogger + Social Media Manager [C.M.] Contenido RRSS 📮📩 info@leplumeti.com ✨ ¿Hablamos? Me 👉🏼 @msmerida 🥰 {Mommy of one 🐣}
-    location: "Colombia"
-    followers: 42708
-    engagement: 242
-    commentsToLikes: 0.037790
-    id: ck6tiufdl1g8x0j71i98wnrb9
-    verified: false
-    hashtags: "#noviaplumeti, #arras, #inspiration, #weddingblogger"
   - username: "cassaragon"
     fullname: >-
       Cass Aragón•🇲🇽Mexi-leira🇧🇷
@@ -91,18 +91,6 @@ profiles:
     id: ck0w2himboe3k0i19or90fx8f
     verified: false
     hashtags: ""
-  - username: "palabrademadre"
-    fullname: >-
-      Sheila, Palabra De Madre
-    bio: >-
-      Blogger desde 2012•Familia•Viajes•Periodista•Social Media freelance. Mejor Blog Ocio Familiar 2019 ✉️hola@palabrademadre.com📍Sitges, BCN Último post👇🏻
-    location: "Colombia"
-    followers: 30314
-    engagement: 153
-    commentsToLikes: 0.494848
-    id: ck136wnlc8m9q0i19oohro52c
-    verified: false
-    hashtags: "#gratis, #sitgesanytime, #sitges, #sorteo"
   - username: "cuelateenmivestidor"
     fullname: >-
       Isamá Minayo
@@ -127,4 +115,16 @@ profiles:
     id: ckf5nyeea07ik0j23pj1mvb6p
     verified: false
     hashtags: "#louisvuittonbag, #diorsneakers, #diorhomme, #louisvuitton"
+  - username: "stefanigamboatv"
+    fullname: >-
+      StefaniGamboa
+    bio: >-
+      Digital Content Creator👩‍💻 🎥TV Host👩‍🎓MBA Grad🏆BrandAmbassador CEO👠OneHeelAtATime Lifestyle & Travel Blogger💃🏼 Proud Mom👶Colombian☕️ #stefanigamboa🧐
+    location: "Colombia"
+    followers: 248557
+    engagement: 46
+    commentsToLikes: 0.018500
+    id: ck6uap5su4u5d0j713b8qkdt2
+    verified: false
+    hashtags: "#washingtondc, #oneheelatatime, #brandambassador, #orgullolatino"
 ---

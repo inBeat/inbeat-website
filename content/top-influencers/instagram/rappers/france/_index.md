@@ -1,12 +1,48 @@
 ---
-title: Top 10 Rappers Instagram Influencers In France In 2023
+title: Top 10 Rappers Instagram Influencers In France In 2024
 description: >-
-  Find top rappers Instagram influencers in France in 2023. Most popular hashtags: #hajdetebaba #vaksina #rattyadhiththan.
+  Find top rappers Instagram influencers in France in 2024. Most popular hashtags: #music #trap #jennie.
 platform: Instagram
-hits: 98
-text_top: Discover the top-rated Instagram profiles on inBeat.
-text_bottom: Our search engine aggregates 98 Instagram influencers like this in France for you to collaborate.
+hits: 111
+text_top: Identify the best Instagram accounts on inBeat.
+text_bottom: Our database has 111 Instagram influencers like this in France for you to connect with.
 profiles:
+  - username: "luckykuzco"
+    fullname: >-
+      DJ LUCKY
+    bio: >-
+      P A R I S 🤴🏻🇫🇷🍀🌵 Certified by yo favorite rappers 👽 @autobahnparis 🏁 @one28.app 💽 Mgmt @sidney_kuzco
+    location: "France"
+    followers: 19513
+    engagement: 524
+    commentsToLikes: 0.036367
+    id: ck55m2g1h31fs0i11v07h2qre
+    verified: false
+    hashtags: "#lesexfiltres, #podcast, #dj, #music"
+  - username: "tracy.desa"
+    fullname: >-
+      Tracy De Sa
+    bio: >-
+      Rapper & Songwriter Immigrant & Feminist Founder of @pxssyclub ❤️ 🇮🇳 🇪🇸 🇵🇹 🇫🇷 Inquiries: ludo@ovastand.com
+    location: "France"
+    followers: 21024
+    engagement: 454
+    commentsToLikes: 0.037695
+    id: ck0uauawlczn40i194noo4xyn
+    verified: true
+    hashtags: "#jungle, #dapatch, #live, #tetrahydrok"
+  - username: "hims243"
+    fullname: >-
+      HIM$⛓243/8848🎭 DR SEBI JUNIOR - SUGE  KNIGHT JUNIOR
+    bio: >-
+      THE RAPPER WHO INFLUENCES YOUR STYLISTS MGMT & DA : @sebastian4tro @brodyriich @worldwideboysrecords @marinoinfantry
+    location: "France"
+    followers: 9551
+    engagement: 629
+    commentsToLikes: 0.070045
+    id: ck5q9abfga4ux0i11fh3pgzhi
+    verified: false
+    hashtags: ""
   - username: "redbossvibes"
     fullname: >-
       REDBOSS 🌋🎶
@@ -19,30 +55,6 @@ profiles:
     id: ck5zr5dovvxpf0i14cy3db9ov
     verified: false
     hashtags: "#harragas, #loupdelatess, #2freres, #2lions"
-  - username: "ghettogeasy"
-    fullname: >-
-      GETOAR SELIMI
-    bio: >-
-      aka MMV CEO of BABASTARS Albanian rapper, songwriter, record producer, fashion designer, and entrepreneur.
-    location: "France"
-    followers: 755416
-    engagement: 306
-    commentsToLikes: 0.005576
-    id: ck14l2qnusjyf0i19ivb5y5u6
-    verified: true
-    hashtags: "#vaksina, #geasymajk, #hajdetebaba, #repost"
-  - username: "tracy.desa"
-    fullname: >-
-      Tracy De Sa
-    bio: >-
-      Rapper & Songwriter Immigrant & Feminist 🇮🇳 🇪🇸 🇵🇹 🇫🇷 "MINIFALDA" OUT NOW ! ⬇️
-    location: "France"
-    followers: 11932
-    engagement: 495
-    commentsToLikes: 0.040915
-    id: ck0uauawlczn40i194noo4xyn
-    verified: true
-    hashtags: "#minifaldachallenge, #minifalda, #tracydesa"
   - username: "heartbreaka"
     fullname: >-
       😈SE/SD 😈BADLIFE🇱🇦
@@ -103,18 +115,6 @@ profiles:
     id: ck0typv4nnpjt0i19b9qgh34b
     verified: false
     hashtags: ""
-  - username: "leem1thou"
-    fullname: >-
-      🥇K
-    bio: >-
-      ✨Actor/Comedian/Rapper/Dj Coatesville Pa! 🔥WatchOut4🐍’s KeepIt1k
-    location: "France"
-    followers: 41941
-    engagement: 367
-    commentsToLikes: 0.039884
-    id: ck14ljm1dv0nb0i19xo5f8l6v
-    verified: false
-    hashtags: "#ontheblock, #classic"
   - username: "jennieolog"
     fullname: >-
       ♡|| 𝐉𝐄𝐍𝐍𝐈𝐄 𝐊𝐈𝐌⁹⁶

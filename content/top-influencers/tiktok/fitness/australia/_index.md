@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fitness TikTok Influencers In Australia In 2023
+title: Top 10 Fitness TikTok Influencers In Australia In 2024
 description: >-
-  Find top fitness TikTok influencers in Australia in 2023. Most popular hashtags: #fyp #foryou #foryoupage #duet.
+  Find top fitness TikTok influencers in Australia in 2024. Most popular hashtags: #fyp #foryou #foryoupage #tiktok.
 platform: TikTok
 hits: 163
-text_top: Identify the top-rated TikTok accounts on inBeat.
-text_bottom: Our database has 163 TikTok influencers like this in Australia for you to connect with.
+text_top: Identify the top-rated TikTok profiles on inBeat.
+text_bottom: Our platform has 163 TikTok influencers like this in Australia for you to pitch.
 profiles:
   - username: "rebel.michele"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.037595
     id: ck9si9khrxu4z0j78qxqgzuu5
     verified: false
-    hashtags: "#dogs, #babybeagle, #beagle, #puppydog"
+    hashtags: "#dog, #rebelmichelehealth, #womenover40, #over40women"
   - username: "mydebstinations"
     fullname: >-
       Deb | Geek Style in Sydney ✨
@@ -78,7 +78,7 @@ profiles:
     commentsToLikes: 0.025903
     id: ck85cptwo2vmo0j781g1lj0zj
     verified: false
-    hashtags: "#fit, #viral, #fyp, #abs"
+    hashtags: "#abs, #fyp, #fit, #viral"
   - username: "sujanfit"
     fullname: >-
       Sujanfit
@@ -102,7 +102,7 @@ profiles:
     commentsToLikes: 0.048493
     id: cka7o7mp10qyp0i78xk1mluw6
     verified: false
-    hashtags: "#dance, #tune, #tiktok, #foryou"
+    hashtags: "#dance, #fun, #mood, #earphones"
   - username: "gorjessss"
     fullname: >-
       Jessie Qua

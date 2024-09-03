@@ -1,12 +1,36 @@
 ---
-title: Top 10 Makeup Instagram Influencers In Berlin In 2023
+title: Top 10 Makeup Instagram Influencers In Berlin In 2024
 description: >-
-  Find top makeup Instagram influencers in Berlin in 2023. Most popular hashtags: #berlin #love #makeup #fashion.
+  Find top makeup Instagram influencers in Berlin in 2024. Most popular hashtags: #berlin #makeup #love #ootd.
 platform: Instagram
-hits: 252
-text_top: Discover the top-rated Instagram influencers on inBeat.
-text_bottom: Our database has 252 Instagram influencers like this in Berlin, Germany for you to connect with.
+hits: 305
+text_top: Discover the top-rated Instagram accounts on inBeat.
+text_bottom: Our database holds 305 Instagram influencers like this in Berlin, Germany for you to work with.
 profiles:
+  - username: "alexa_zeitel"
+    fullname: >-
+      𝘼𝙡𝙚𝙭𝙖. 𝓈𝒽ℯ/𝒽ℯ𝓇
+    bio: >-
+      •📍𝓒𝓸𝓵𝓸𝓰𝓷𝓮 /𝓑𝓮𝓻𝓵𝓲𝓷 /𝓛𝓸𝓷𝓭𝓸𝓷 • 💌 ~> 𝔻𝕞 𝕗𝕠𝕣 ℂ𝕠𝕝𝕝𝕒𝕓𝕠𝕣𝕒𝕥𝕚𝕠𝕟 𝕠𝕣 𝕧𝕚𝕒 𝔼-𝕄𝕒𝕚𝕝
+    location: "Germany"
+    followers: 134298
+    engagement: 388
+    commentsToLikes: 0.011021
+    id: ck9wezlcymlmc0j78htdxxg5m
+    verified: false
+    hashtags: "#blackarm, #love, #regalrose, #stomachtattoo"
+  - username: "newfacesbeauty"
+    fullname: >-
+      Pro MakeUp Artist&Hairstylist
+    bio: >-
+      ▫️ Work in Berlin|Dubai|Doha|Riyadh|Cairo ▫️ Salon : Brandenburgische Str.39 | 10707 Berlin ▫️ Tel. : +49 163 82 950 75📲
+    location: "Germany"
+    followers: 111723
+    engagement: 287
+    commentsToLikes: 0.035857
+    id: ck6tid57y0hot0j71opsf47wy
+    verified: false
+    hashtags: "#cairomakeupartist, #berlinmakeupartist, #istanbul, #anastasiabeverlyhills"
   - username: "conn_ie_"
     fullname: >-
       🌬Connie
@@ -19,18 +43,6 @@ profiles:
     id: ck6triltpz71a0j71np07aw92
     verified: false
     hashtags: "#weekend, #minimalism, #mermaidandme, #liebe"
-  - username: "lespacious"
-    fullname: >-
-      
-    bio: >-
-      GET SCHWIFTY
-    location: "Germany"
-    followers: 4045
-    engagement: 506
-    commentsToLikes: 0.095575
-    id: ck6tu0tqgdo1b0j71913lca6q
-    verified: false
-    hashtags: "#brunette, #black, #stuttgart, #makeup"
   - username: "cestwijdane"
     fullname: >-
       
@@ -43,6 +55,30 @@ profiles:
     id: ckaoyn9vfi7yy0i78ss3hd9yf
     verified: false
     hashtags: "#goodvibes, #fun, #summer, #happy"
+  - username: "sammagehtsnochjunge"
+    fullname: >-
+      Sammy
+    bio: >-
+      🏳️‍🌈🍑 📍Köln ich bin einfach lustig (und stylisch und Soziologin 💅🏻✨)
+    location: "Germany"
+    followers: 63161
+    engagement: 210
+    commentsToLikes: 0.006626
+    id: clmzuwpqc1bhf0j084k42mq1d
+    verified: false
+    hashtags: "#grwm, #sammagehtsnochjunge, #sammy, #reddit"
+  - username: "verenavenus"
+    fullname: >-
+      Verena Venus
+    bio: >-
+      Berlin based catmom, hairstylist & content creator 🤍🖤 my links 👇🏻❤️‍🔥
+    location: "Germany"
+    followers: 90831
+    engagement: 188
+    commentsToLikes: 0.031361
+    id: ck6u1ivvmlzwq0j71x8reyiuc
+    verified: false
+    hashtags: "#killstar, #tattoo, #blackandwhite, #wewearkillstar"
   - username: "sarahknappik"
     fullname: >-
       sarahknappik
@@ -79,52 +115,16 @@ profiles:
     id: ck14lub6bwitv0i19zrtv0oj8
     verified: false
     hashtags: "#blessed, #masketragen, #friedrichshain, #newsanchor"
-  - username: "_anna_geddes_"
+  - username: "rebecca.ku"
     fullname: >-
-      Anna Prohodski
+      Rebecca Kunikowski
     bio: >-
-      #MRSDeutschland 2020/21🇩🇪🏆 #MRS.#sachsenanhalt 2019/2020⚜️💍 🇩🇪🇷🇺🇬🇧 #missdeutschland #influencer #model#travel#beauty#gourmet #business : direct 📩
+      🎥actress/model Maleficent 2 / Love - am Ende zählst du @bullsmanagement 🎬@marmulla_rudolph 🇬🇧@mediaartistsgroup 📸@mostwantedmodels_official
     location: "Germany"
-    followers: 212601
-    engagement: 250
-    commentsToLikes: 0.080489
-    id: ckapckcwa468w0i78ywoyzusg
-    verified: false
-    hashtags: "#mrsdeutschland2020, #mrsdeutschland, #missdeutschland, #fashionstyle"
-  - username: "michelle.chnel"
-    fullname: >-
-      M I C H E L L E 🤍 C H A N E L
-    bio: >-
-      📩 Michelle.Chanel.esen1006@gmail.com
-    location: "Germany"
-    followers: 56399
-    engagement: 631
-    commentsToLikes: 0.024343
-    id: ckf5m71klsjyf0j23k6tqftzr
-    verified: false
-    hashtags: "#fff, #ootd, #outfitoftheday, #getintothisstyle"
-  - username: "daisy.wolanski"
-    fullname: >-
-      Daisy Wolanski ☁️♋︎♏︎♈︎
-    bio: >-
-      Germany | 27 | #goodenergy ॐ TikTok: @daisy.wolanski ✉️ daisy.wolanski@hotmail.de
-    location: "Germany"
-    followers: 549837
-    engagement: 210
-    commentsToLikes: 0.006438
-    id: ck139wbn3nfw70i19i9jx3xa3
-    verified: false
-    hashtags: "#hudabeauty, #berlin, #makeup, #hairtutorial"
-  - username: "eva_brenner_official"
-    fullname: >-
-      Eva Brenner
-    bio: >-
-      ▪️Dipl.-Ing. Innenarchitektur▪️TV-Host ▫️Interior▫️Garden▫️Food ▫️Yoga ▫️Running▫️Travelling ▫️Nachhaltigkeit ▫️www.eva-brenner.de
-    location: "Germany"
-    followers: 41858
-    engagement: 515
-    commentsToLikes: 0.033647
-    id: ck5zwg47962j00i143kh79h37
-    verified: false
-    hashtags: "#interiordesign, #teamwork, #interirordesign, #interiorinspo"
+    followers: 69863
+    engagement: 430
+    commentsToLikes: 0.030845
+    id: ckap4jqj07odb0i78co87djgy
+    verified: true
+    hashtags: "#gewinnspiel, #agency, #makeup, #fitness"
 ---

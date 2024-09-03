@@ -1,130 +1,130 @@
 ---
-title: Top 10 Rappers Instagram Influencers In Toronto in 2023
+title: Top 10 Rappers Instagram Influencers In Toronto In 2024
 description: >-
-  Find top rappers Instagram influencers in Toronto in 2023. Most popular hashtags: #hiphop #rapper #music #rap.
+  Find top rappers Instagram influencers in Toronto in 2024. Most popular hashtags: #rapper #love #hiphop #music.
 platform: Instagram
-hits: 9
-text_top: Analyze the most popular Instagram influencers on inBeat.
-text_bottom: Our platform holds 9 Instagram influencers like this in Toronto, Canada for you to connect with.
+hits: 6
+text_top: Identify the most popular Instagram accounts on inBeat.
+text_bottom: inBeat aggregates 6 Instagram influencers like this in Toronto, Canada for you to collaborate.
 profiles:
-  - username: "lululotusart"
+  - username: "haviahmighty"
     fullname: >-
-      L U L U 🐍 L O T U S
+      𝗛𝗔𝗩𝗜𝗔𝗛 𝗠𝗜𝗚𝗛𝗧𝗬
     bio: >-
-      Author: @lululotusbooks
+      Crying Crystals [New Album] 💎 07/14/23
     location: "Canada"
-    followers: 13248
-    engagement: 298
-    commentsToLikes: 0.055978
-    id: ck55p8b81a0ka0i11lhylx56j
-    verified: false
-    hashtags: "#mamba, #mambamentality, #basketball, #artpiece"
-  - username: "andrewafework"
+    followers: 35550
+    engagement: 317
+    commentsToLikes: 0.114579
+    id: ck0w4kcw1z0450i192qttvuiu
+    verified: true
+    hashtags: "#newmusic, #torontoevents, #torontoartist, #releaseparty"
+  - username: "itsladysb"
     fullname: >-
-      Andrew Afework
+      Supa Bad.
     bio: >-
-      Remix Round 14 Istandard Producers 2018 Winner Keys: DVSN, Lazz,Knight, DNyse Credits: Surauchie, JRDN, Connor Price, Reece andrewafework@gmail.com
+      Bookings :ladysbbookings@gmail.com TikTok @itsladysb 😈
     location: "Canada"
-    followers: 6344
-    engagement: 344
-    commentsToLikes: 0.173228
-    id: ck5q9egc3apbm0i113ccl6gl7
+    followers: 54039
+    engagement: 297
+    commentsToLikes: 0.095592
+    id: ckt3sc6224acj0j23cvu5xfzb
     verified: false
-    hashtags: "#producers, #rappers, #2020, #songwriter"
+    hashtags: "#beauty, #ladysb, #likesforlike, #love"
   - username: "aamandamanda"
     fullname: >-
-      🇨🇦 Amanda Spvde | Singer 🎤
+      Amanda | Finance - Singer🎙
     bio: >-
-      TikTok @Amandaspvde “Better Off” OUT NOW! ↙️ 🎥 6.6m views on YouTube ￼🗓All of the lights gala *postponed 🗓The Piston *postponed
+      Jr💕 Matthew 17:20
     location: "Canada"
-    followers: 48987
-    engagement: 126
-    commentsToLikes: 0.023990
+    followers: 47659
+    engagement: 138
+    commentsToLikes: 0.024739
     id: ck5hct22bjts30i11xgv7u696
     verified: false
-    hashtags: "#artist, #dance, #singers, #voice"
-  - username: "iamtiagz"
+    hashtags: "#sing, #cover, #youtubemusic, #toronto"
+  - username: "connorprice_"
     fullname: >-
-      TIAGZ ☁️ (tiago)
+      Connor Price
     bio: >-
-      📱+1.9M on TikTok (iamtiagz) 📥 tiagzent@gmail.com “They Call Me Tiago EP” + Animated Video Out Now 👇
+      Toronto | LA | Vegas ‘Connor Price’ on Spotify & Apple Music New songs w/ Hoodie Allen out now ↙️
     location: "Canada"
-    followers: 33332
-    engagement: 371
-    commentsToLikes: 0.032410
-    id: ck8w3gwzg7kyw0j78y505mg3o
-    verified: false
-    hashtags: "#memestar, #torontorappers, #rappersbelike, #trap"
-  - username: "moaba__"
+    followers: 1415840
+    engagement: 1483
+    commentsToLikes: 0.034572
+    id: ck6tlxwmw6u3s0j71vpnndoao
+    verified: true
+    hashtags: "#reels, #remix, #rapper, #hiphopartist"
+  - username: "ofthesaint_"
     fullname: >-
-      MOABA | Automotive
+      Of The Saint
     bio: >-
-      📍Toronto, ON 🇨🇦 ♦️ Drive it✖️Frame it • Automotive Content Creator 📸 • All original content 😎 • Available for hire ————— 🏎💨 —————
+      📸 & 🎥 @billboard & @hiphopdx & @debutlive CEO of @ofthesaintproductions & @themom3ntnet MGMT: @katrinaayracco
     location: "Canada"
-    followers: 6506
-    engagement: 1497
-    commentsToLikes: 0.056697
-    id: ck55kqhggzvpd0i118n0v4hph
+    followers: 35436
+    engagement: 168
+    commentsToLikes: 0.110751
+    id: ckz1x47au36t00j23xvq0ra2d
     verified: false
-    hashtags: "#bmwlife, #amg, #lamborghiniaventador, #lowered"
-  - username: "gaia_is_i"
+    hashtags: "#explorepage, #itwillallmakesensesoon, #ofthesaint, #losangeles"
+  - username: "emmkab"
     fullname: >-
-      🌎 Gaiaisi - Gaia's Eye 🌍
+      Emmanuel Kabongo
     bio: >-
-      Rapper, singer, comedian, and director. Support the 🎶🎙🎥📡, rock the gear: @v.gang.official 🎧 on Spotify: 📲 “Gaia’s Eye” Official Channel 🌿🌿🦏🦍🐘🌿🌿:
+      God with us. 🙏🏾 #actorslife
     location: "Canada"
-    followers: 11161
-    engagement: 642
-    commentsToLikes: 0.034885
-    id: ck0w1btcpik6v0i19v0olh5uz
-    verified: false
-    hashtags: "#burger, #vegansofinstagram, #plantbased, #bacon"
-  - username: "seniorgumboy"
+    followers: 8292
+    engagement: 601
+    commentsToLikes: 0.078227
+    id: ck5zpb8skscgu0i14joey1v2w
+    verified: true
+    hashtags: "#hollywood, #godfirst, #love, #happybirthday"
+  - username: "rebelleperle_"
     fullname: >-
-      SGB
+      Rebelle Perle
     bio: >-
-      ENTERTAINER 🇯🇲🇨🇦
+      With a mission🔮 Female Rapper | Songwriter | Rule Breaker #rebelleperle DO NO HARM (POW POW) link in my bio‼️🚨 ⬇️➖➖➖➖➖⬇️
     location: "Canada"
-    followers: 55476
-    engagement: 305
-    commentsToLikes: 0.141308
-    id: ck0w3jsxyts5u0i19lb8ij5r0
+    followers: 7214
+    engagement: 830
+    commentsToLikes: 0.034864
+    id: ck602lsyyhwoi0i14ghudcl6w
     verified: false
-    hashtags: "#the6ix, #culture, #caribbean, #comedy"
-  - username: "po0_bon"
+    hashtags: "#musiclife, #love, #independentartist, #musicvideo"
+  - username: "sebsan_"
     fullname: >-
-      𝐓𝐇𝐄 𝐆𝐎𝐑𝐆𝐙
+      SEBSAN
     bio: >-
-      Wolfie" 🐺 original page:@poo_bon 🎶🎞📷🔗
+      Producer/Artist/DJ/Local Music Enthusiast I was a rapper im Lowkey just a dj now John 15:18 @hollywoodtheatrevan @tectonicvancouver
     location: "Canada"
-    followers: 5878
-    engagement: 10555
-    commentsToLikes: 0.012837
-    id: ck8t4rb4n7rlk0j78xxlycpwy
+    followers: 1844
+    engagement: 948
+    commentsToLikes: 0.076478
+    id: ck13avaq8sd820i19w55ugk5h
     verified: false
-    hashtags: "#leito, #poo, #rapper, #khalse"
-  - username: "tomeofficial_"
+    hashtags: "#coppermoon, #iykyk"
+  - username: "nseeb604"
     fullname: >-
-      TÖME
+      NSEEB⚔️
     bio: >-
-      22 I only sing on Wednesday’s 🤷🏾‍♀️ #BT4W ~ May 22nd 😈
+      🎙: (NO RISK , NO STORY)⛰️🌐. 😈 : THE MOST NOTORIOUS PUNJABI RAPPER 💰 : nseeb097@gmail.com 🌪️: "Anthem Supreme 🎥 " OUT NOW 🔽
     location: "Canada"
-    followers: 16824
-    engagement: 290
-    commentsToLikes: 0.160407
-    id: ck5c1h1hdv6dj0i111e480y4s
+    followers: 176472
+    engagement: 189
+    commentsToLikes: 0.211141
+    id: ck5zkr8djk0js0i14hoijsqrh
     verified: false
-    hashtags: "#atlanta, #instamusic, #rnbsinger, #musicproducer"
-  - username: "lowkeemtl"
+    hashtags: "#outnow, #shaketheroom, #nseeb604only, #panjab"
+  - username: "iamkingmellow"
     fullname: >-
-      LowkeeMTL⏱
+      Mellow
     bio: >-
-      •Montreal Artist/Rapper🎤🎤 •Videographer Life🎬🎬 •Photography Gang📸📸 •Barz On Barz Out Now!!🔥🔥
+      Rapper, Audio Engineer & Producer @brothersovermyblood 💣🇨🇦 Pre-Save “Whine That” (RAFMIX) @rafaelkhan 🎶⬇️
     location: "Canada"
-    followers: 9092
-    engagement: 1378
-    commentsToLikes: 0.097155
-    id: ckap1tuynw4ea0i78inu1b58u
+    followers: 9379
+    engagement: 569
+    commentsToLikes: 0.717902
+    id: ck137ifn8bpan0i194soamihe
     verified: false
-    hashtags: "#newmusicalert, #rapgod, #rapper, #mixtape"
+    hashtags: ""
 ---

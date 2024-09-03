@@ -1,130 +1,130 @@
 ---
-title: Top 10 Instagram Influencers In San Francisco In 2023
+title: Top 10 Instagram Influencers In San Francisco In 2024
 description: >-
-  Find top Instagram influencers in San Francisco in 2023. Most popular hashtags: #sanfranciscoblogger #cottagecoreaesthetic #delicious.
+  Find top Instagram influencers in San Francisco in 2024. Most popular hashtags: #sanfrancisco #sfblogger #skincareroutine #sf.
 platform: Instagram
-hits: 1626
-text_top: Identify the most popular Instagram influencers on inBeat.
-text_bottom: Our search engine has 1626 Instagram influencers like this in San Francisco, United States for you to pitch.
+hits: 1970
+text_top: Analyze the best Instagram influencers on inBeat.
+text_bottom: Our search engine holds 1970 Instagram influencers like this in San Francisco, United States for you to pitch.
 profiles:
-  - username: "sadaf_beauty"
-    fullname: >-
-      Sadaf Beauty
-    bio: >-
-      📍San Francisco 👇🏼Follow my lifestyle/travel blog @sadaf_beauty_diary Email: contact@sadafbeauty.net
-    location: "United States"
-    followers: 3866821
-    engagement: 725
-    commentsToLikes: 0.021434
-    id: ck0u21ukoymhd0i19l8xovyot
-    verified: true
-    hashtags: "#sheinpartner, #sheinx, #sheinforall, #mahsaamini"
-  - username: "spottedhumphrey"
-    fullname: >-
-      Humphrey🐼 & Pota🐻 Frenchie Sibz
-    bio: >-
-      🐶Frenchie Sibz in San Francisco 🐩Our Shop: @spottedbyhumphrey 🌼Our Product: @mypoopsydaisy ↙️
-    location: "United States"
-    followers: 123167
-    engagement: 727
-    commentsToLikes: 0.022086
-    id: ck135qnd72r7u0i199w48g7z3
-    verified: false
-    hashtags: "#frenchiesofig, #spottedbyhumphrey, #spottedinsf, #frenchiepuppy"
-  - username: "sfbayfood"
-    fullname: >-
-      Krista × Aaron | SF Foodies
-    bio: >-
-      🍚 Our motto: "Rice is life" 🏅 Yelp Elite 📍 San Francisco Bay Area 💌 DM or email for collaborations
-    location: "United States"
-    followers: 5426
-    engagement: 177
-    commentsToLikes: 0.049880
-    id: ckmw1h6ir80qb0j23004iq356
-    verified: false
-    hashtags: "#sanjosefoodie, #foodiesofig, #sffoods, #bayareafoodie"
-  - username: "mynameisrasha"
-    fullname: >-
-      Rasha Abdel Reda
-    bio: >-
-      . Fashion, Decor and everything in between. . Founder of @byrashaofficial . Lebanese in San Francisco 🇺🇸 🇱🇧
-    location: "United States"
-    followers: 440755
-    engagement: 84
-    commentsToLikes: 0.073630
-    id: ck14lu40hwhsd0i19gw6jiqrc
-    verified: false
-    hashtags: "#holidayoutfit, #christmastree, #diningroom, #sanfranciscoblogger"
-  - username: "_esilanna"
-    fullname: >-
-      Annalise ♡
-    bio: >-
-      🇻🇳 kindergarten teacher 🍎 M.A. ED. x San Francisco 💌 collabwithannalise@gmail.com 🍒 I wear cute clothes sometimes
-    location: "United States"
-    followers: 6557
-    engagement: 1948
-    commentsToLikes: 0.106224
-    id: ckap29iu5xyzz0i78d481j9to
-    verified: false
-    hashtags: "#stayhome, #brilliantearth, #ad, #twodegreeshotter"
-  - username: "haleyivers"
-    fullname: >-
-      Haley Ivers
-    bio: >-
-      san francisco bay area 🕊 elevated style, life, beauty (#sephorasquad) haleyivers@infagency.com ♡ tiktok - 113k ↓ shop my style + more
-    location: "United States"
-    followers: 17961
-    engagement: 342
-    commentsToLikes: 0.099740
-    id: ck1375cec9v6q0i19ey0g8hfy
-    verified: false
-    hashtags: "#vacationlooks, #solreadyforsummer, #pradashoes, #benefitcosmetics"
-  - username: "bigcabbiggerhair"
-    fullname: >-
-      K A C E Y🍷
-    bio: >-
-      Wine & food enthusiast 📍Napa & San Francisco | 👩🏻‍⚕️PhD
-    location: "United States"
-    followers: 21101
-    engagement: 554
-    commentsToLikes: 0.071958
-    id: ck15ugppkn3oz0i19ywzkpt62
-    verified: false
-    hashtags: "#nationalicecreamday, #sourceofjoy, #myjordanvalentinemiami, #myjordanhouston"
-  - username: "shanescurve"
-    fullname: >-
-      Shanescurve
-    bio: >-
-      San Francisco, California 📍 Sony A7riii - Zeiss 24mm - Collab - Co Founder of @the_unknownmag
-    location: "United States"
-    followers: 18037
-    engagement: 725
-    commentsToLikes: 0.083581
-    id: ck0uemfx5lqi00i19o55dprdc
-    verified: false
-    hashtags: "#moodyfilm, #imaginativeportraits, #humanedge, #thedaily35mm"
   - username: "cristinaviseu"
     fullname: >-
-      Cristina 💕 San Francisco
+      Cristina Viseu • San Francisco
     bio: >-
-      💕 Ghibli film vibes 🌸 tiktok 200k!! @cristinaviseu 😌 📍San Francisco ✨ video @fentybeauty 🌸 my art shop @maisonpeaches 💌viseu.c@gmail.com
+      📍San Francisco 💕 Pretty food + cozy home + luxury skincare 💌 viseu.c@gmail.com
     location: "United States"
-    followers: 20442
-    engagement: 4185
-    commentsToLikes: 0.011248
+    followers: 102725
+    engagement: 697
+    commentsToLikes: 0.017095
     id: ckaorswleolz40i78clw0wbry
     verified: false
-    hashtags: "#softaesthetic, #cottagecoreaesthetic, #soft, #picnicdate"
-  - username: "mollsmcadam"
+    hashtags: "#cozyhome, #softaesthetic, #sanfrancisco, #homedecor"
+  - username: "byjessicawong"
     fullname: >-
-      Molly McAdam
+      jessica | fashion + lifestyle
     bio: >-
-      💡los angeles | san francisco ✉️ hello@mollymcadam.com ✖️ fashion + lifestyle + adventure
+      • fashion, lifestyle, skincare, + beauty • based in San Francisco, CA • byjessicawong@gmail.com
     location: "United States"
-    followers: 57010
-    engagement: 380
-    commentsToLikes: 0.198501
-    id: ck8sxobhqi2mc0j78ezgxhith
+    followers: 12777
+    engagement: 485
+    commentsToLikes: 0.052449
+    id: ckq0ivf8qddl90j2397axhen5
     verified: false
-    hashtags: "#lifestyleblogger, #revolveme, #revolvearoundtheworld, #lablogger"
+    hashtags: "#outfitinspo, #aritziastyle, #sezanelovers, #outfitinsporation"
+  - username: "smolandsilky"
+    fullname: >-
+      Kara (แพร)
+    bio: >-
+      🇹🇭 beauty marketer + foodie in san francisco 🎶 tiktok: @smolandsilky @kara.okiee 💌 smolandsilky@gmail.com ↓ save $$ with my links
+    location: "United States"
+    followers: 10273
+    engagement: 10793
+    commentsToLikes: 0.127467
+    id: ckmw1a8s95hro0j235ucrxl5r
+    verified: false
+    hashtags: "#sfblogger, #newyorkcity, #skincareroutine, #goodmolecules"
+  - username: "muneetparhar"
+    fullname: >-
+      Muneet Parhar 🧿
+    bio: >-
+      San Francisco. Fashion • Travel • Lifestyle Techie in Silicon Valley 🍎 full time, fashion aficionado part time.
+    location: "United States"
+    followers: 18088
+    engagement: 740
+    commentsToLikes: 0.043461
+    id: ckz60hcwq8hmy0j23w17yqf50
+    verified: false
+    hashtags: "#birthdaygirl, #teamvici, #viciambassador, #cluse"
+  - username: "awaisjafar"
+    fullname: >-
+      Awais Jafar
+    bio: >-
+      📍 San Francisco | New York | Chicago 🏋️‍♀️ pushing limits of Natty Lifting ✖️ PhD in Computer Science 🖥️ Machine learning Engineer
+    location: "United States"
+    followers: 155103
+    engagement: 2452
+    commentsToLikes: 0.020573
+    id: ck8t4l4yi75go0j78gg7i2k5v
+    verified: false
+    hashtags: "#gymjunkie, #reeltrends, #fashionmodels, #fitnessmodel"
+  - username: "jc.eeats"
+    fullname: >-
+      Joanne | SF Bay Area Foodie
+    bio: >-
+      🎞Content Creator | UGC | Food | Travel 💌 jc.eeats@gmail.com for business inquiries ♡ based in San Francisco / Bay Area @foodietribe | @thefeedfeed
+    location: "United States"
+    followers: 22805
+    engagement: 779
+    commentsToLikes: 0.389543
+    id: ckovqk3g2sjn80j23as67z4x0
+    verified: false
+    hashtags: "#easyrecipes, #makeitameal, #easyrecipeideas, #innovasianoccasion"
+  - username: "thechelseamarrs"
+    fullname: >-
+      Chelsea | Food + Travel
+    bio: >-
+      🫶🏼 Food, Fashion, Travel 🌟 Influencer Strategist at @obviously 💌 thechelseamarrs@gmail.com 📍 San Francisco + San Antonio
+    location: "United States"
+    followers: 28323
+    engagement: 1867
+    commentsToLikes: 0.075677
+    id: ck0vy5svh2dgv0i19rqiaged1
+    verified: false
+    hashtags: "#sanantoniofood, #texasblogger, #satx, #sanantonioinfluencer"
+  - username: "bylillianzhang"
+    fullname: >-
+      Lillian 🍓 sf corporate girlie
+    bio: >-
+      career, finance, lifestyle📍san francisco bay area 👩🏻‍💻 PMM in tech | 🎓 @ucberkeleyofficial alum 💌 lillian@beaconsmgmt.ai
+    location: "United States"
+    followers: 19191
+    engagement: 3485
+    commentsToLikes: 0.043275
+    id: clhbwkt0fpg430j08kbtabekj
+    verified: false
+    hashtags: "#dayinmylife, #money, #budget, #tech"
+  - username: "minimalist.aesthetics"
+    fullname: >-
+      Zubeyde Sheth | SF | Travel+Lifestyle
+    bio: >-
+      🌎 Globe-trotter & San Francisco, CA. based. ⌲ Hotels + Local and International Travels + Food + Daily Life Stories in Sf. ✎ zubeyde.sheth@gmail.com
+    location: "United States"
+    followers: 21135
+    engagement: 401
+    commentsToLikes: 0.272990
+    id: cl06y2lr78qb50i231vxxi18f
+    verified: false
+    hashtags: "#goldcoastaustralia, #sf, #maaustralia, #tokorikiisland"
+  - username: "jazlmao"
+    fullname: >-
+      jazzi manalo 💄
+    bio: >-
+      San Francisco ✨ Filipina 🇵🇭 TikTok 260k friendsta: @allthatjazzi15
+    location: "United States"
+    followers: 61586
+    engagement: 816
+    commentsToLikes: 0.015469
+    id: ck6tq4pgipdja0j71ch1q3vus
+    verified: false
+    hashtags: "#ad, #colourpopme, #makeuptutorial, #nofoundation"
 ---

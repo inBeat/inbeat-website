@@ -1,11 +1,11 @@
 ---
-title: Top 10 Lingerie TikTok Influencers In United States In 2023
+title: Top 10 Lingerie TikTok Influencers In United States In 2024
 description: >-
-  Find top lingerie TikTok influencers in United States in 2023. Most popular hashtags: #fyp #lingerie #valentinesday #comedy.
+  Find top lingerie TikTok influencers in United States in 2024. Most popular hashtags: #fyp #lingerie #valentinesday #lgbt.
 platform: TikTok
-hits: 59
-text_top: Analyze the best TikTok influencers on inBeat.
-text_bottom: inBeat aggregates 59 TikTok influencers like this in United States for you to connect with.
+hits: 58
+text_top: Analyze the best TikTok profiles on inBeat.
+text_bottom: Our database holds 58 TikTok influencers like this in United States for you to pitch.
 profiles:
   - username: "madisonxalexandra"
     fullname: >-

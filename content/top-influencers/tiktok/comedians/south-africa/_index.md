@@ -1,11 +1,11 @@
 ---
-title: Top 10 Comedians TikTok Influencers In South Africa In 2023
+title: Top 10 Comedians TikTok Influencers In South Africa In 2024
 description: >-
-  Find top comedians TikTok influencers in South Africa in 2023. Most popular hashtags: #fyp #tiktoksouthafrica #comedy #southafrica.
+  Find top comedians TikTok influencers in South Africa in 2024. Most popular hashtags: #fyp #tiktoksouthafrica #comedy #southafrica.
 platform: TikTok
 hits: 12
-text_top: Analyze the top-rated TikTok influencers on inBeat.
-text_bottom: Our platform has 12 TikTok influencers like this in South Africa for you to contact.
+text_top: Identify the top-rated TikTok accounts on inBeat.
+text_bottom: Our search engine holds 12 TikTok influencers like this in South Africa for you to contact.
 profiles:
   - username: "prevreddy"
     fullname: >-
@@ -54,7 +54,7 @@ profiles:
     commentsToLikes: 0.011211
     id: ck921ajoehhga0j78gb0xrjha
     verified: true
-    hashtags: "#viral, #southafrica, #fyp, #dropitonmycar"
+    hashtags: "#fyp, #viral, #southafrica, #dangerous"
   - username: "kelsjonas"
     fullname: >-
       Kelly Jonas

@@ -1,24 +1,12 @@
 ---
-title: Top 10 Fitness Instagram Influencers In United Kingdom In 2023
+title: Top 10 Fitness Instagram Influencers In United Kingdom In 2024
 description: >-
-  Find top fitness Instagram influencers in United Kingdom in 2023. Most popular hashtags: #workout #fitness #motivation.
+  Find top fitness Instagram influencers in United Kingdom in 2024. Most popular hashtags: #fitnessmotivation #personaltrainer #solotravel.
 platform: Instagram
-hits: 904
-text_top: See the top-rated Instagram influencers on inBeat.
-text_bottom: inBeat holds 904 Instagram influencers like this in United Kingdom for you to collaborate.
+hits: 1296
+text_top: See the best Instagram profiles on inBeat.
+text_bottom: inBeat aggregates 1296 Instagram influencers like this in United Kingdom for you to collaborate.
 profiles:
-  - username: "leanadeebb"
-    fullname: >-
-      Leana Deeb
-    bio: >-
-      SWEAT WITH ME 🇵🇸 🇺🇾 all praise is due to the most high @liftwleana fitness app @gymshark athlete Leana@genflow.com
-    location: "United Kingdom"
-    followers: 4076888
-    engagement: 994
-    commentsToLikes: 0.001935
-    id: cl07ix7bj9frt0i23lvf896ab
-    verified: false
-    hashtags: "#airuppartner"
   - username: "hollyjosbrooks"
     fullname: >-
       HOLLY BROOKS
@@ -31,100 +19,112 @@ profiles:
     id: cl9k31l5qisxn0i23wuzn80xq
     verified: false
     hashtags: ""
-  - username: "shellyfit_ifbbpro"
+  - username: "misha_grimes"
     fullname: >-
-      𝐈𝐅𝐁𝐁 𝐏𝐑𝐎 𝐌𝐈𝐂𝐇𝐄𝐋𝐋𝐄 𝐌𝐄𝐍𝐒𝐀𝐇🇬🇧🇬🇭
+      Misha Grimes
     bio: >-
-      👉🏾Helping you get that dream body|👩🏾‍💻Online Coach ⭕️lympia|5th|’22’ 🏆Arnold Classic UK PRO Fitness Champ 🌎@coached_by_shelly_fit 💥HIT MY LINK👇🏾💥
+      Fashion, Fitness, Travel, Life & Grief 💓👼🏻✨ 📱Tik Tok 340k 💙🧡 Fundraising for @mndassoc mishagsocial@hotmail.com💌
     location: "United Kingdom"
-    followers: 42093
-    engagement: 708
-    commentsToLikes: 0.067887
-    id: ckf5rif2hcs370j23q1m82xzb
+    followers: 175073
+    engagement: 487
+    commentsToLikes: 0.037415
+    id: ck0vuyg88mq270i19s86fi9vi
     verified: false
-    hashtags: "#training, #gymlegday, #arnoldbodybuilding, #healthylifestyle"
-  - username: "daisyxfit"
+    hashtags: "#newbalanceasospopup, #newbalancepartner, #wakeupwithemma, #emmamattress"
+  - username: "hevwx"
     fullname: >-
-      daisy🌼🌈🌿✨
+      Heather Walford | Dancer & Online Coach
     bio: >-
-      Fitness instructor PT in training @origym_coe
+      London | Nottingham @take1dance @companyjinks 📧 heather.walford@hotmail.com @hev.fitness
     location: "United Kingdom"
-    followers: 13894
-    engagement: 359
-    commentsToLikes: 0.043882
-    id: cl5fiflot4yh20i23tqup6xs4
+    followers: 4268
+    engagement: 610
+    commentsToLikes: 0.061218
+    id: ck5zoc9roq8nd0i14bd13j3wk
     verified: false
-    hashtags: ""
-  - username: "liamreardon1"
+    hashtags: "#bootyworkout, #heelsdancer, #heelsclassnottingham, #dance"
+  - username: "lifeofmum_x"
     fullname: >-
-      Liam Reardon
+      ᴀᴍʏ - Womens Wellness Coach
     bio: >-
-      Food lover🍝 Fitness🏃🏽🏋🏽‍♀️ Outdoors🏔 Enquiries: liam@84world.com
+      ✨Mama of Two 🧠Mental Heath Awareness 💜Colitis Warrior ✨Wellness and Fitness 📍Surrey, UK
     location: "United Kingdom"
-    followers: 1007202
-    engagement: 565
-    commentsToLikes: 0.005764
-    id: cku8q8m7dmgxv0j236kpthblt
+    followers: 16514
+    engagement: 697
+    commentsToLikes: 0.030579
+    id: cl5huutct5vm80i23sfgws2rz
     verified: false
-    hashtags: "#wegoagain, #skyfamilyuk, #avatarthewayofwater, #teamvelindre"
-  - username: "korisampson"
+    hashtags: "#mummybloggeruk, #girlmama, #mentalhealthawareness, #motherhoodthroughinstagram"
+  - username: "kt.franklin"
     fullname: >-
-      Kori Sampson
+      Kt🦋
     bio: >-
-      Fitness Coach | Model | TV | Hybrid Athlete @fomomodels Ambassador: @centrepointuk Inspiring people to @wakeupnmove mind & body
+      Business: ktfranklin@brightmanagement.co.uk MA: theo@phoenixmodelmanagement.com Fitness: @ktfranklinfit
     location: "United Kingdom"
-    followers: 820133
-    engagement: 261
-    commentsToLikes: 0.004413
-    id: ck6too5orf5g60j71csqy520b
+    followers: 196622
+    engagement: 509
+    commentsToLikes: 0.007422
+    id: ck15t06fifpc40i19okgg1fa6
     verified: false
-    hashtags: "#themenu, #ad, #spacejamxsiksilk"
-  - username: "marintiganik"
+    hashtags: "#dubai, #ad, #solotravel, #travel"
+  - username: "poojasingh.co"
     fullname: >-
-      MARIN TIGANIK | online coach & personal trainer
+      Pooja Singh
     bio: >-
-      💪🏽certified personal trainer @gymeesti 👩🏼‍💻online coach 👩🏼‍🎓sport sciences BA @tlfapparel athlete collabs ✉️ marin@fitness.ee discount links 👇🏽
+      Software Dev 👩‍💻 iiita 👩🏽‍🎓 fka: @abookbythewindow 💖 books | fitness | travel | YT | growth 📍Bangalore📍London📍Cali singhpooja0406@gmail.com 💌
     location: "United Kingdom"
-    followers: 17384
-    engagement: 251
-    commentsToLikes: 0.022990
-    id: ck8tc4m66y9pk0j78cw74n1hj
+    followers: 57535
+    engagement: 433
+    commentsToLikes: 0.015932
+    id: ck8t38qnj2ck20j78r2u0m3dj
     verified: false
-    hashtags: "#myprotein, #tlfwomen, #ad, #reels"
-  - username: "kd_fitnesscoach"
+    hashtags: "#takeyourbooksout, #motivation, #whatthisweek, #upwardsandonwards"
+  - username: "amyod94"
     fullname: >-
-      KRISTIE SANDERSON | ONLINE COACH | IFBB PRO
+      Amy O Donoghue
     bio: >-
-      💪Online Fitness Coach 👩🏼‍💼Marketing Specialist 💗Content Creator
+      🇮🇪 Irish International Athlete 💫 Sharing the highs and lows of my running journey 🦋 All things fitness, mindset and fun 📧: hello@collabagency.com
     location: "United Kingdom"
-    followers: 39631
-    engagement: 222
-    commentsToLikes: 0.029064
-    id: ck0w657lb6ybw0i1924p9rkxc
+    followers: 20908
+    engagement: 550
+    commentsToLikes: 0.018891
+    id: ckf5o87181aqg0j23trvddt3t
     verified: false
-    hashtags: "#musclechicks, #stayhealthy, #bodybuilder, #fitnessmotivation"
-  - username: "lucyflight"
+    hashtags: "#lsswomen, #wwt, #trainingcamp, #yourlifeyourstyleyoursports"
+  - username: "tashamfit"
     fullname: >-
-      Lucy Flight
+      COACH | Natasha Mané | TEAM TMF ⚡️
     bio: >-
-      makeup, fashion, food, fitness, gaming ⚡️ paul@optimustalent.co.uk 📧 A FESTIVE VLOG🎄👇🏼
+      Over 200 physique and lifestyle transformations by creating confidence through fitness 💫 Bolton @totalfitnessgym | link below to join
     location: "United Kingdom"
-    followers: 141895
-    engagement: 99
-    commentsToLikes: 0.031390
-    id: ck13bwbngxg700i19uws2yq7w
+    followers: 5204
+    engagement: 584
+    commentsToLikes: 0.051332
+    id: cl0t9tyclrlpm0i23h9teboy3
     verified: false
-    hashtags: "#smilemovie, #teslamodely, #teslamotors, #ad"
-  - username: "obi_vincent"
+    hashtags: "#fitness, #fitnessgirl, #trainingmotivation, #fitnessmotivation"
+  - username: "zoeywrightfitness"
     fullname: >-
-      OBi vincent
+      Zoey Wright
     bio: >-
-      Fitness | Mindset | Keeping it Fun🕺🏾 vivobarefoot | Whoop #BreaktheMOULD 🏋🏾‍♂️Train with me (Free 7 day Trial)👇🏾
+      Mum, Wife and Pizza Lover 🍕 Female Online Coach @transformwithzoey 💕 2x Overall World Champion Fitness Model 👑 Want to work with me? ⬇️
     location: "United Kingdom"
-    followers: 933570
-    engagement: 71
-    commentsToLikes: 0.162730
-    id: ck0w3lw6du2nx0i19xutxw5hg
+    followers: 97272
+    engagement: 406
+    commentsToLikes: 0.027730
+    id: ck14jt4zdm1uw0i19lzvd8zpy
     verified: false
-    hashtags: "#motivation, #breakthemould, #fyp, #fitness"
+    hashtags: "#prepfortheworlds, #12weeksout, #postpartumjourney, #transformationtuesday"
+  - username: "jcoleman661"
+    fullname: >-
+      Josh Coleman
+    bio: >-
+      ⠀⠀⠀⠀⠀⠀⠀⠀⠀ 26 | I ride dirt-bikes for ⠀⠀⠀⠀⠀⠀⠀ ⠀Concept Racing Yamaha ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀Online Fitness Coach ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀ Marine Engineer ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀📷✊🏻🌎🏁🤙🏻🛠
+    location: "United Kingdom"
+    followers: 8145
+    engagement: 625
+    commentsToLikes: 0.013662
+    id: ck5bvy3vukmkc0i1101g0xxrp
+    verified: false
+    hashtags: "#tbt"
 ---

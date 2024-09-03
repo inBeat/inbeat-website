@@ -1,36 +1,48 @@
 ---
-title: Top 10 Yoga Instagram Influencers In South Africa In 2023
+title: Top 10 Yoga Instagram Influencers In South Africa In 2024
 description: >-
-  Find top yoga Instagram influencers in South Africa in 2023. Most popular hashtags: #homeworkout #happy #sheingals.
+  Find top yoga Instagram influencers in South Africa in 2024. Most popular hashtags: #yogapractice #happy #homeworkout.
 platform: Instagram
 hits: 17
-text_top: See the best Instagram profiles on inBeat.
-text_bottom: Our platform holds 17 Instagram influencers like this in South Africa for you to work with.
+text_top: See the top-rated Instagram accounts on inBeat.
+text_bottom: Our search engine aggregates 17 Instagram influencers like this in South Africa for you to collaborate.
 profiles:
-  - username: "summerinjune_"
+  - username: "iamantontaylor"
     fullname: >-
-      June Walton
+      Anton Taylor
     bio: >-
-      South African Dutchie. 👸🏼 @ntatalent @ntamodels OnAnotherLevel👁 Yoga Teacher 🕉🧘🏼‍♀️☪️ LivingTheCaliDream. 🔒❤️👸🏼👶🏼🤴🏽❤️🔒 DM for Collaboration
+      • Actor | Speaker | Writer | Yoga Teacher • Forever South Africa 🇿🇦
     location: "South Africa"
-    followers: 55379
-    engagement: 290
-    commentsToLikes: 0.061070
-    id: ck5cfdwq1mrdz0i112nh1svlp
+    followers: 53343
+    engagement: 708
+    commentsToLikes: 0.047332
+    id: ck5qdkttaw2i00i1112mais43
     verified: false
-    hashtags: "#facial, #shein, #sheingals, #fashion"
+    hashtags: "#castlelionsseries, #bokparty, #strongertogether, #southafrica"
   - username: "sandy_yilwen"
     fullname: >-
       Sandy Hsieh
     bio: >-
       Yoga Student | Teacher 🤸🏻‍♀️ South African Taiwanese 📍 Hong Kong 💌 Private Class | Collabs
     location: "South Africa"
-    followers: 6890
-    engagement: 758
-    commentsToLikes: 0.071083
+    followers: 11709
+    engagement: 608
+    commentsToLikes: 0.033374
     id: ck8t9tl9bpb8l0j78f6hedbn5
     verified: false
-    hashtags: "#alldayeveryday, #happyfriday, #keeplookingup, #learninginprogress"
+    hashtags: "#blessed, #yogastudent, #flowing, #sunburnt"
+  - username: "elena_pappas"
+    fullname: >-
+      Elena Pappas Gishen
+    bio: >-
+      Founder of BodE | Online workouts 💪🏽 HIIT & Sculpt 💥 Barre 🧘🏼‍♀️ Yoga 🤸🏽‍♀️ Yoga HIIT 👣 Pilates 🤰🏽 Pregnancy 👩🏾‍🍼 Postpartum 🍏@bode.nutrition
+    location: "South Africa"
+    followers: 43484
+    engagement: 126
+    commentsToLikes: 0.050201
+    id: ck6tp7jjfi9jx0j71377rojj2
+    verified: false
+    hashtags: "#myphytofix, #views"
   - username: "lea.louisa.wolfram"
     fullname: >-
       𝑳𝒆𝒂 𝑳𝒐𝒖𝒊𝒔𝒂
@@ -43,18 +55,6 @@ profiles:
     id: ck6tlq3ov6fmn0j719r8iigte
     verified: false
     hashtags: ""
-  - username: "carishmabasday"
-    fullname: >-
-      Carishma Basday ~ Actress
-    bio: >-
-      Adventure seeking✈️, food loving🍝,yoga doing🧘🏽‍♀️,puppy cuddling🐶, good vibe cultivator💖,magic maker✨,actress/presenter🎬& mama to Ayla Océane 👼🏽
-    location: "South Africa"
-    followers: 20881
-    engagement: 312
-    commentsToLikes: 0.044449
-    id: ck5c05axash890i11gyh86zop
-    verified: false
-    hashtags: "#skincare, #antioxidantserum, #vitamincserum, #faceserum"
   - username: "yogicbynature"
     fullname: >-
       Vera
@@ -91,30 +91,6 @@ profiles:
     id: ck5q3vn2hml9r0i11viwt9t20
     verified: false
     hashtags: "#blacklivesmatter, #enoughisenough, #ad, #eunatural"
-  - username: "lesleyannemurphy"
-    fullname: >-
-      Lesley • The Road Les Traveled
-    bio: >-
-      Traveler | BRCA Previvor | Yoga Teacher #Mom to Nora B👶🏼 Creator of @limitlestravel ✈️ Currently in #Arkansas ♥️ New on the blog!⤵️
-    location: "South Africa"
-    followers: 398334
-    engagement: 210
-    commentsToLikes: 0.012882
-    id: ck0ttr9ne3z5f0i190y6ttsvj
-    verified: true
-    hashtags: "#home, #arkansas, #travel, #baby"
-  - username: "life_of_mel"
-    fullname: >-
-      Mel Van Straaten
-    bio: >-
-      Keep being a vessel for love 🤍 Yoga Teacher ~ Co-Creator of @reset_collective ✨ Umhlanga Arch Wellness Day Tickets 👇🏻
-    location: "South Africa"
-    followers: 7762
-    engagement: 518
-    commentsToLikes: 0.011654
-    id: ck138f591fxs20i19vukv7c42
-    verified: false
-    hashtags: ""
   - username: "pashapilates"
     fullname: >-
       Pasha's Pilates 🇿🇦
@@ -127,4 +103,28 @@ profiles:
     id: ck6trxxay1pkr0j71e8dr7e73
     verified: false
     hashtags: "#glutes, #fitnessmotivation, #fitgirlworkout, #corestability"
+  - username: "lexy_yoga"
+    fullname: >-
+      Alexia ॐ Yoga Teacher
+    bio: >-
+      ❁ Mauritian / South African ❁ Island life 🌴 ❁ Yoga Teacher (Hatha, yoga4cancer, kids & SUP) ❁ Freelance graphic designer
+    location: "South Africa"
+    followers: 21930
+    engagement: 318
+    commentsToLikes: 0.037696
+    id: ck8t0tbvbt8d30j78ixax2zus
+    verified: false
+    hashtags: ""
+  - username: "thehealingroot_"
+    fullname: >-
+      Maria Praeg • The Healing Root
+    bio: >-
+      •Energy healing🌱 • Ayurveda✨ • YOGA therapy & teaching🧘‍♀️ • Wholefoods Chef 🥕 • Reconnecting to Divine Wild Woman Spirit 👁 • South Africa
+    location: "South Africa"
+    followers: 6069
+    engagement: 474
+    commentsToLikes: 0.100828
+    id: ck0vxn00qzplf0i198tqlamkl
+    verified: false
+    hashtags: ""
 ---

@@ -1,24 +1,24 @@
 ---
-title: Top 10 Dancers Instagram Influencers In Finland In 2023
+title: Top 10 Dancers Instagram Influencers In Finland In 2024
 description: >-
-  Find top dancers Instagram influencers in Finland in 2023. Most popular hashtags: #finland #dance #dancer.
+  Find top dancers Instagram influencers in Finland in 2024. Most popular hashtags: #finland #summer #dance.
 platform: Instagram
 hits: 16
-text_top: See the top-rated Instagram accounts on inBeat.
-text_bottom: Our database holds 16 Instagram influencers like this in Finland for you to work with.
+text_top: Identify the best Instagram accounts on inBeat.
+text_bottom: inBeat holds 16 Instagram influencers like this in Finland for you to connect with.
 profiles:
   - username: "jasmingeselle"
     fullname: >-
       JASMIN GESELLE  🇫🇮
     bio: >-
-      🔸 DANCER | CHOREOGRAPHER 🔸 TEAM @celsiussuomi 🔸 AMBASSADOR @icaniwill @suomentanssitarvike
+      🔸 DANCER | CHOREOGRAPHER 🔸 TEAM @celsiussuomi
     location: "Finland"
-    followers: 5982
-    engagement: 952
-    commentsToLikes: 0.045830
+    followers: 6051
+    engagement: 939
+    commentsToLikes: 0.027301
     id: ck6tzmucjamy50j71feg1ho3z
     verified: false
-    hashtags: "#30thbirthday, #dancer, #weekend, #browbarhelsinki"
+    hashtags: "#iciw, #dancer, #wellness, #iciwfamily"
   - username: "veerajjulia"
     fullname: >-
       V E E R A  V I R T A
@@ -35,26 +35,26 @@ profiles:
     fullname: >-
       Jennie Kari
     bio: >-
-      Gogo dancer ✨ ▪️who loves to shuffle 💃🏽 @jennieshuffle ▪️future coder ⌨️ ‼️SHUFFLE TUNNIT HELSINGISSÄ🔥👇🏾
+      Everyday life as a.. 💃🏽 Gogo dancer who loves to shuffle @jennieshuffle 🧡🌱 Plantbased-lifestyler, coding-lover ‼️ SHUFFLE-TUNNIT🔥👇🏾👇🏾
     location: "Finland"
-    followers: 6163
-    engagement: 1518
-    commentsToLikes: 0.083466
+    followers: 7377
+    engagement: 1832
+    commentsToLikes: 0.062832
     id: ck0w5fz5i3gik0i19zledfvx2
     verified: false
-    hashtags: "#ysta, #goodvibes, #espoo, #lovereels"
+    hashtags: "#shuffle, #dance, #tanssi, #espressohouse"
   - username: "jurgih"
     fullname: >-
       
     bio: >-
       * Dancer, director, performer, communication & stress coach * 🏠 in 🇫🇮 & 🇫🇷
     location: "Finland"
-    followers: 20042
-    engagement: 767
-    commentsToLikes: 0.027885
+    followers: 20440
+    engagement: 754
+    commentsToLikes: 0.026291
     id: ck6uaap892hlw0j71t9aamis8
     verified: false
-    hashtags: "#beautifulflowers, #beardup, #plantphotography, #ig"
+    hashtags: "#plantstand, #flowerstagram, #beardnation, #menanddogs"
   - username: "anttonlaine"
     fullname: >-
       Antton Laine
@@ -83,14 +83,14 @@ profiles:
     fullname: >-
       Josefiina Kotajärvi
     bio: >-
-      Dancer | Finland kotajarvijosefiina@gmail.com @d.oubledate @prpldc @visuals.ko
+      Dancer | Finland kotajarvijosefiina@gmail.com @d.oubledate @prpldc @visuals.ko ”Been Said”
     location: "Finland"
-    followers: 5446
-    engagement: 1413
-    commentsToLikes: 0.043208
+    followers: 6038
+    engagement: 1392
+    commentsToLikes: 0.027142
     id: ck6tzmxcoang20j71ggnqbcc0
     verified: false
-    hashtags: "#dance, #collab, #finland, #doubledate"
+    hashtags: "#hampaidenvalkaisu, #swedishbrand, #maybelline, #collaboration"
   - username: "minnamimz"
     fullname: >-
       🇫🇮DHQ Minna Mimz

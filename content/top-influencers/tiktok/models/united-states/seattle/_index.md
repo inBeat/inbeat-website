@@ -1,11 +1,11 @@
 ---
-title: Top 10 Models TikTok Influencers In Seattle In 2023
+title: Top 10 Models TikTok Influencers In Seattle In 2024
 description: >-
-  Find top models TikTok influencers in Seattle in 2023. Most popular hashtags: #fyp #foryou #seattle #model.
+  Find top models TikTok influencers in Seattle in 2024. Most popular hashtags: #fyp #foryou #model #seattle.
 platform: TikTok
-hits: 8
-text_top: Identify the best TikTok profiles on inBeat.
-text_bottom: Our platform aggregates 8 TikTok influencers like this in Seattle, United States for you to connect with.
+hits: 9
+text_top: See the top-rated TikTok influencers on inBeat.
+text_bottom: Our platform aggregates 9 TikTok influencers like this in Seattle, United States for you to connect with.
 profiles:
   - username: "elrolodavid"
     fullname: >-
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.021223
     id: ck87u0xrv4lr80j78g7wp6t7o
     verified: false
-    hashtags: "#fyp, #ootd, #outfiteveryday, #365daysofoutfits"
+    hashtags: "#365daysofoutfits, #outfiteveryday, #fyp, #ootd"
   - username: "cece.chan"
     fullname: >-
       Cece Chan
@@ -43,6 +43,18 @@ profiles:
     id: ck9kbohxkm2vd0j78t4nphncn
     verified: false
     hashtags: "#quarantine, #xyzbca, #foryou, #fyp"
+  - username: "liviemarieparsons"
+    fullname: >-
+      Livieparsons
+    bio: >-
+      Insta: livieparsons just a girl tryna live like her Pinterest feed Seattle
+    location: "United States"
+    followers: 14100
+    engagement: 1017
+    commentsToLikes: 0.088569
+    id: ckc3dvl0mz3vt0j23b5ytltvj
+    verified: false
+    hashtags: "#thisorthatsblv, #fyp, #foryou, #model"
   - username: "prof_xzavier"
     fullname: >-
       Prof_Xzavier
@@ -115,16 +127,4 @@ profiles:
     id: ckcuwqrt2lsj60j23jlnxbvb0
     verified: false
     hashtags: "#fyp, #malemodel, #foryou, #fashion"
-  - username: "angelbhagat"
-    fullname: >-
-      angelbhagat
-    bio: >-
-      Model
-    location: "United States"
-    followers: 88100
-    engagement: 688
-    commentsToLikes: 0.016101
-    id: ckc8znaabopaf0j23vk9o3mcw
-    verified: false
-    hashtags: "#foryoupage, #foryou, #teamromeo09, #tiktokindia"
 ---

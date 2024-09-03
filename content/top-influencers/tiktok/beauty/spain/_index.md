@@ -1,11 +1,11 @@
 ---
-title: Top 10 Beauty TikTok Influencers In Spain In 2023
+title: Top 10 Beauty TikTok Influencers In Spain In 2024
 description: >-
-  Find top beauty TikTok influencers in Spain in 2023. Most popular hashtags: #makeup #fyp #beauty #maquillaje.
+  Find top beauty TikTok influencers in Spain in 2024. Most popular hashtags: #makeup #fyp #beauty #maquillaje.
 platform: TikTok
 hits: 80
-text_top: See the most popular TikTok profiles on inBeat.
-text_bottom: Our database has 80 TikTok influencers like this in Spain for you to collaborate.
+text_top: See the top-rated TikTok accounts on inBeat.
+text_bottom: inBeat has 80 TikTok influencers like this in Spain for you to connect with.
 profiles:
   - username: "anutabelike"
     fullname: >-
@@ -102,7 +102,7 @@ profiles:
     commentsToLikes: 0.031834
     id: ckbw28qlvwjbt0j23ik396g0q
     verified: false
-    hashtags: "#jokerharleyquinn, #greenscreen, #flower, #mua"
+    hashtags: "#flower, #mua, #anime, #makeup"
   - username: "aharonsanch"
     fullname: >-
       Aharon Sanchez

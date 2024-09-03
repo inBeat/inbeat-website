@@ -1,12 +1,24 @@
 ---
-title: Top 10 Skincare Instagram Influencers In Ukraine In 2023
+title: Top 10 Skincare Instagram Influencers In Ukraine In 2024
 description: >-
-  Find top skincare Instagram influencers in Ukraine in 2023. Most popular hashtags: #skincare #portraitphotography #skinretouch.
+  Find top skincare Instagram influencers in Ukraine in 2024. Most popular hashtags: #skincare #croatia #makeup.
 platform: Instagram
-hits: 8
-text_top: Analyze the top-rated Instagram profiles on inBeat.
-text_bottom: inBeat has 8 Instagram influencers like this in Ukraine for you to connect with.
+hits: 12
+text_top: Discover the most popular Instagram profiles on inBeat.
+text_bottom: Our database has 12 Instagram influencers like this in Ukraine for you to pitch.
 profiles:
+  - username: "roof_talks"
+    fullname: >-
+      KATI 📍 EDMONTON INFLUENCER
+    bio: >-
+      🛫 Travel across Canada for work 🧴 Skincare, motivation, self-development 👇🏽 My blog, Amazon store, useful links
+    location: "Ukraine"
+    followers: 19452
+    engagement: 182
+    commentsToLikes: 0.101616
+    id: ckap25d5uxfzh0i78hy939ozi
+    verified: false
+    hashtags: "#canadianblogger, #canadianinfluencer, #canadablogger, #canadasworld"
   - username: "nataliiagotsii"
     fullname: >-
       Nataliia Gotsii
@@ -43,6 +55,42 @@ profiles:
     id: ck8tdpxu64c990j78jcchp262
     verified: false
     hashtags: "#skincare, #sealovers, #faberlicinfluencer, #tsv"
+  - username: "osia2013"
+    fullname: >-
+      OSIA YOUTUBE BLOGGER
+    bio: >-
+      Beauty | Fashion | Home | Cooking 14 years in Poland🇺🇦 500K+ YouTube channel Instagram PL : @olga.muszynska Contact: olga.donczenko@gmail.com
+    location: "Ukraine"
+    followers: 238223
+    engagement: 806
+    commentsToLikes: 0.011912
+    id: ck0w3hdw1tf460i1912161s2o
+    verified: false
+    hashtags: "#makeup, #zara, #stylefashion, #vacationmode"
+  - username: "diana_suvorova"
+    fullname: >-
+      Diana Suvorova - бʼюті експерт🇺🇦
+    bio: >-
+      📍Вже 10 років даю найкращі поради в бьʼюті 💄Амбасадор «холодних» помад 🌿Знижка 5% на iHerb з кодом DIANA
+    location: "Ukraine"
+    followers: 82702
+    engagement: 342
+    commentsToLikes: 0.025962
+    id: ck13clfx80x4w0i191o1s3lac
+    verified: false
+    hashtags: "#plussizefashion, #evelinecosmetics, #sheincurve, #sheinhaul"
+  - username: "manthony783"
+    fullname: >-
+      MICHAEL ANTHONY
+    bio: >-
+      Makeup and Magic 🪄✨💫 #Makeupbymanthony Rep: @opusbeauty
+    location: "Ukraine"
+    followers: 166011
+    engagement: 79
+    commentsToLikes: 0.016947
+    id: ck0w5j7ko3wdy0i19jw1ucc8g
+    verified: true
+    hashtags: "#eyeliner, #beauty, #makeupbymanthony, #southafrica"
   - username: "liubovpogorelaphotography"
     fullname: >-
       Photographer Liubov Pogorela
@@ -59,14 +107,14 @@ profiles:
     fullname: >-
       The Curvy Makeup Artist
     bio: >-
-      Qualified Makeup Artist | Beauty | Modest Fashion ❤️ Thai/ Ukrainian born in Australia 📍 Sydney | Australia 📩jessica.amanda.turnbull mail.com
+      Qualified Makeup Artist | Beauty | Modest Fashion ❤️ Thai/ Ukrainian born in Australia 📍 Sydney | Australia 📩jessica.amanda.turnbull@gmail.com
     location: "Ukraine"
-    followers: 12898
-    engagement: 686
-    commentsToLikes: 0.393298
+    followers: 12683
+    engagement: 551
+    commentsToLikes: 0.336739
     id: ck8t1skgowuvr0j7835yawggm
     verified: false
-    hashtags: "#carnivallovetahiti, #glittereyeshadow, #glassskin, #krissysplanet"
+    hashtags: "#positionsarianagrande, #reelsinstagram, #australianbeautyblogger, #smokeyeyeshadow"
   - username: "svitlanasokoliuk"
     fullname: >-
       Svitlana Bondarenko
@@ -79,28 +127,4 @@ profiles:
     id: ckaoszfmytp3z0i78fvv2b22a
     verified: false
     hashtags: "#masks, #look, #spain, #food"
-  - username: "nevarosh"
-    fullname: >-
-      Фотограф Киев | Ретушер
-    bio: >-
-      Nevskaya Elena | creative director | photoshooting | 🖥🖊 retouching artist | International beauty & fashion photographer
-    location: "Ukraine"
-    followers: 16914
-    engagement: 157
-    commentsToLikes: 0.053119
-    id: ck6uch8bcfldn0j71qcs7u9gi
-    verified: false
-    hashtags: "#hairstyle, #skinretouching, #nikond850, #retouching"
-  - username: "irina_logvinchuk"
-    fullname: >-
-      Irina L
-    bio: >-
-      👠Ukrainian model 🌎 World traveller 🎹 Piano player 🖤 Love my life 📍Currently in Hong Kong 🇭🇰
-    location: "Ukraine"
-    followers: 12128
-    engagement: 824
-    commentsToLikes: 0.011583
-    id: ck8swjn6qebaq0j78k63ixzqy
-    verified: false
-    hashtags: "#modelsinhongkong, #modeling, #hongkongmodel, #farrajewelry"
 ---

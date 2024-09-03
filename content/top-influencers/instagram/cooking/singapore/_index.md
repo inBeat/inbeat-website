@@ -1,130 +1,130 @@
 ---
-title: Top 10 Cooking Instagram Influencers In Singapore In 2023
+title: Top 10 Cooking Instagram Influencers In Singapore In 2024
 description: >-
-  Find top cooking Instagram influencers in Singapore in 2023. Most popular hashtags: #singapore #sgblogger #india #foodstagram.
+  Find top cooking Instagram influencers in Singapore in 2024. Most popular hashtags: #sgfood #instafood #sgfoodies #sgfoodie.
 platform: Instagram
-hits: 21
-text_top: Identify the most popular Instagram profiles on inBeat.
-text_bottom: inBeat has 21 Instagram influencers like this in Singapore for you to contact.
+hits: 45
+text_top: Discover the most popular Instagram accounts on inBeat.
+text_bottom: Our search engine holds 45 Instagram influencers like this in Singapore for you to pitch.
 profiles:
+  - username: "christps"
+    fullname: >-
+      Christps
+    bio: >-
+      🇲🇾🇸🇬 Travelling|Wonderluster|Foodies|Cooking|Gym Foodies: @chrisfoodies #ctpslog #christps #chrisfoodies
+    location: "Singapore"
+    followers: 5228
+    engagement: 1115
+    commentsToLikes: 0.078763
+    id: ckaoz66itkjqb0i784spydjr4
+    verified: false
+    hashtags: "#instadaily, #lightroom, #shotoniphone11promax, #exploresg"
+  - username: "yenern88"
+    fullname: >-
+      Yen 🌷SG Foodie 🍔 Lifestyle 💖 Home 🌸Travel ✈️ Blogger 🇸🇬
+    bio: >-
+      Content Creator 💃🏻Petite 155 🌷Cooking, foodie, fashion, lifestyle ✈️ Mar🇯🇵 April🇹🇼 May🇮🇩 DM / 💌 me for collabs 💌
+    location: "Singapore"
+    followers: 14441
+    engagement: 263
+    commentsToLikes: 0.107910
+    id: clm70ajvkgepn0j080wb06cq4
+    verified: false
+    hashtags: "#sp, #sghomecooking, #sgeats, #instafood"
+  - username: "neeskitchen"
+    fullname: >-
+      Neeraja Ramachandran
+    bio: >-
+      Reels & My 👧🏻Lunch Box Stories 🍱Online Cooking Workshops for all Timezones 600+ beginners friendly recipes in YouTube 📧 neerukitchen@gmail.com
+    location: "Singapore"
+    followers: 136913
+    engagement: 78
+    commentsToLikes: 0.021299
+    id: ck8t7mvudhde10j78jrijnmwt
+    verified: false
+    hashtags: "#lunch, #puliodarai, #chennaiblogger, #desikhana"
+  - username: "wensdelight"
+    fullname: >-
+      Wendy Han
+    bio: >-
+      Sharing my passion for food, cooking and occasional baking! #wenrecipes 📷: IPhone 13 Pro Max 📷 📧 wendyhel@yahoo.com
+    location: "Singapore"
+    followers: 44443
+    engagement: 39
+    commentsToLikes: 0.038331
+    id: ck6ugwha65kyy0j71ivhtis49
+    verified: false
+    hashtags: "#wenrecipes, #mooncake2021, #aug2021, #yummy"
+  - username: "cuisineparadiseig"
+    fullname: >-
+      Ellena Guan
+    bio: >-
+      ✝️Psalm 91:2 Cooking is an art of ❤️ Sharing our favourite recipes @ #CuisineParadiseKitchen 🇸🇬 OLD IG @cuisineparadise 📩cuisineparadiseSG@gmail.com
+    location: "Singapore"
+    followers: 22869
+    engagement: 22
+    commentsToLikes: 0.021813
+    id: ck8ta1juaq41m0j7804ps76bi
+    verified: false
+    hashtags: "#japantrip, #cuisineparadiseclaypotdish, #travelgram, #cookforfamily"
+  - username: "eexuanng"
+    fullname: >-
+      Xuan
+    bio: >-
+      +65🇸🇬 🐶🐾 @princessfifing Shoots/ads/business enquires - 📧📧eexuan91@live.com.sg Baking/ Cooking/ Food/ Fashion/ Makeup/ Skincare/ Travel💋
+    location: "Singapore"
+    followers: 39925
+    engagement: 8
+    commentsToLikes: 0.002227
+    id: clm70ahktgcpz0j08w2hef87j
+    verified: false
+    hashtags: "#ootd, #dressthebump, #38weeks, #cny2024"
+  - username: "foodilicious_diva"
+    fullname: >-
+      Foodilicious Singapore
+    bio: >-
+      TikTok: foodilicious_diva08 Food / Home cooking / Lifestyle / Beauty / Fitness 📩cyeo0530@gmail.com for Collaboration & invites Promo Code⬇️
+    location: "Singapore"
+    followers: 24145
+    engagement: 101
+    commentsToLikes: 0.587429
+    id: ck8tawwsotetg0j78mfxpc1qf
+    verified: false
+    hashtags: "#instafoodsg, #sglifestyleblogger, #sgfood, #foodphotography"
   - username: "jjkatherine"
     fullname: >-
       Katherine Tan
     bio: >-
-      🐳陈秋玲 🍁J.J. 🇹🇭TH | SG🇸🇬 🍳Homecook | Homecafe 🥬IG : jjkatherine | kt.juju 🥪#eatwithjjkatherine 🥘#cookingwithjjkatherine 🧁#homecafewithjjkatherine
+      🐳陈秋玲(JJ) 🇹🇭TH | SG🇸🇬 🍳Sharing kitchen stories and recipes
     location: "Singapore"
-    followers: 43364
-    engagement: 174
-    commentsToLikes: 0.142850
+    followers: 86785
+    engagement: 259
+    commentsToLikes: 0.120319
     id: ck5zkb3dwj5f40i14v96ewal9
     verified: false
-    hashtags: "#salmoncake, #almondmilk, #chinesenewyear, #healthy"
-  - username: "lennardy"
+    hashtags: "#breakfast, #cookingathome, #thaifood, #homecooking"
+  - username: "foodirectory.sg"
     fullname: >-
-      Lennard Yeong
+      Christine • FoodirectorySG
     bio: >-
-      Once an engineer, now on a journey to learn about food In-house chef at Miele Singapore
+      📍Singapore Wandering gastronaut on a quest of unpretentious food, hidden gems and exquisite staycations 💫 • 📝 sg.foodirectory@gmail.com
     location: "Singapore"
-    followers: 171893
-    engagement: 327
-    commentsToLikes: 0.014721
-    id: ck6tm39k773pc0j71b2kzsii9
+    followers: 86240
+    engagement: 76
+    commentsToLikes: 0.009136
+    id: ck5zwkfy86a480i14zy68ci4y
     verified: false
-    hashtags: "#authenticteahouse, #recipeideas, #omelette, #easyrecipes"
-  - username: "poojakawatra"
+    hashtags: "#localfood, #freshseafood, #singaporefood, #restaurantour"
+  - username: "aromacookery"
     fullname: >-
-      Pooja Kawatra | Family |Mom| Lifestyle
+      Julia Khoo
     bio: >-
-      🇮🇳 🇸🇬 Be the change you want to see.. Nov/Dec✈️Europe🇫🇷 🇨🇭 🇦🇹 🇭🇺 #CancerSurvivor Founder @makeadifferencechangelives Lancôme’s 100 Inspiring Women
+      🇸🇬 Cook to eat, eat to cook! 📱 I Instagram what I cook & eat 📧 aromacookery@yahoo.com
     location: "Singapore"
-    followers: 74096
-    engagement: 239
-    commentsToLikes: 0.044652
-    id: ckf5rn8v8da8x0j23kh286zat
+    followers: 37655
+    engagement: 70
+    commentsToLikes: 0.058304
+    id: ck8tawqjtte1u0j78jdpumcqh
     verified: false
-    hashtags: "#mums, #reelsinstagram, #christmas, #india"
-  - username: "danialashh"
-    fullname: >-
-      Noriff Danial Ashriq
-    bio: >-
-      📧 ashriq12@hotmail.com for collaborations or business opportunities. Ambassador @beefbro_sg
-    location: "Singapore"
-    followers: 37803
-    engagement: 156
-    commentsToLikes: 0.025177
-    id: ck5zs5wnhxvya0i14h75vn2mo
-    verified: false
-    hashtags: "#kakibola, #qatar2022, #mediacorpkakibola, #mediacorpfifaworldcup2022"
-  - username: "aiyoyochenliping"
-    fullname: >-
-      陳莉萍 Chen Liping
-    bio: >-
-      Actor "The Wind Beneath My Wings"
-    location: "Singapore"
-    followers: 56541
-    engagement: 302
-    commentsToLikes: 0.042071
-    id: ck13d6jw43xah0i19ztti8u4l
-    verified: true
-    hashtags: "#ptl, #singapore, #sgunited, #strongertogether"
-  - username: "cravings4vegan"
-    fullname: >-
-      Nisha🙏 Recipe Developer🥙🥗
-    bio: >-
-      See me Growing through my mumma's 👀: Eddie👦🏻 Creating varities in #vegan #vegetarian food #Recipecurator #organicfood Singapore 🇸🇬 DM/email for collab
-    location: "Singapore"
-    followers: 10661
-    engagement: 439
-    commentsToLikes: 0.476225
-    id: ck134qfltxp6r0i19bk4o1m7h
-    verified: false
-    hashtags: "#homemade, #indianfoodie, #birthdaycakes, #gharkakhana"
-  - username: "7xwnie"
-    fullname: >-
-      Aristelle 🐰 | 🇸🇬 Photographer
-    bio: >-
-      ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀ ⠀⠀𝐂𝐫𝐞𝐚𝐭𝐢𝐯𝐞 𝐃𝐞𝐬𝐢𝐠𝐧𝐞𝐫 / 𝐒𝐨𝐧𝐲𝐀𝐥𝐩𝐡𝐚 📸 ⠀⠀ ⠀ ⠀⠀⠀ ⠀⠀🎮 www.twitch.tv/sgaristelle ⠀⠀⠀ ⠀⠀⠀⠀⠀ ⠀DM for bookings or enquiry💌
-    location: "Singapore"
-    followers: 3724
-    engagement: 1514
-    commentsToLikes: 0.153047
-    id: ck6tpbyzlizhr0j71i5v9atwd
-    verified: false
-    hashtags: "#highsnobiety, #agameofportraits, #visitsingapore, #streetoftones"
-  - username: "robin.tiang"
-    fullname: >-
-      Robin Tiang
-    bio: >-
-      "Be a decent human being" First loves: 🐕-🥊-🏂 -🐳-🏍 Languages: En-Cn-Es-Th Managed by: @facestm For bookings: nic@facestm.com
-    location: "Singapore"
-    followers: 7034
-    engagement: 1173
-    commentsToLikes: 0.039046
-    id: ck8sx6r8dgcbz0j78550fglxw
-    verified: false
-    hashtags: "#huaweiwatchfit, #qotd, #fitforall, #tigercrystal"
-  - username: "iandamientattooer"
-    fullname: >-
-      Ian Damienㅤ                  ॐ
-    bio: >-
-      iandamientattooer@gmail.com NO DMs. Bookings: Closed. To reopen on 1st July 2021.
-    location: "Singapore"
-    followers: 6933
-    engagement: 669
-    commentsToLikes: 0.027182
-    id: ck5q0wj8o842z0i11uvvo1gk4
-    verified: false
-    hashtags: ""
-  - username: "briebenfell"
-    fullname: >-
-      Brie
-    bio: >-
-      📍 🇸🇬 Mama & Wife • Actress • Model 💌 Bookings@19sixtyfive.com.sg 🎙 Host: @makingofmotherhood 🧘🏼‍♀️ Founder: @brie_fit 🤱🏼 Ambassador: @motherswork
-    location: "Singapore"
-    followers: 16000
-    engagement: 374
-    commentsToLikes: 0.033655
-    id: ck8sy96m0k5u20j78gm9bmlw4
-    verified: false
-    hashtags: "#playtogether, #fullertonmemories, #staycation, #shotoniphone12"
+    hashtags: "#sgmakan, #comfortfood, #sgfoodies, #singaporehomecooks"
 ---

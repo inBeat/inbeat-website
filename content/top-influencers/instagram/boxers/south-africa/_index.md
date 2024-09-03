@@ -1,24 +1,24 @@
 ---
-title: Top 10 Boxers Instagram Influencers In South Africa In 2023
+title: Top 10 Boxers Instagram Influencers In South Africa In 2024
 description: >-
-  Find top boxers Instagram influencers in South Africa in 2023. Most popular hashtags: #happy #beach #capetown.
+  Find top boxers Instagram influencers in South Africa in 2024. Most popular hashtags: #capetown #comedy #happy #actor.
 platform: Instagram
 hits: 8
-text_top: Analyze the best Instagram accounts on inBeat.
+text_top: Discover the best Instagram profiles on inBeat.
 text_bottom: Our platform has 8 Instagram influencers like this in South Africa for you to pitch.
 profiles:
   - username: "casspernyovest"
     fullname: >-
-      Refiloe Phoolo 🇿🇦
+      Refiloe Phoolo
     bio: >-
-      👑 of South African Music/ celebrity boxer CLICK LINK BELOW
+      -👑 of South African Music -Founder of @billiato1 -Co founder of @rootoffame - celebrity boxer CLICK LINK BELOW
     location: "South Africa"
-    followers: 5889001
-    engagement: 95
-    commentsToLikes: 0.011742
+    followers: 6303530
+    engagement: 85
+    commentsToLikes: 0.014073
     id: ck5hrq0rsvaaj0i11x7kd345g
     verified: true
-    hashtags: "#cassperxsportsbetio, #cryptoknightwithcass, #billiatoatasteofwealth, #billiatoallwhite"
+    hashtags: "#ltidopodcast, #gqxcasspernyovest, #spritelimelight, #casspernyovest"
   - username: "paulboxer33"
     fullname: >-
       paulo godfrey nyang'anya
@@ -31,6 +31,18 @@ profiles:
     id: ck137mo0ccanb0i1985ss3ztd
     verified: false
     hashtags: "#bm150, #mungukwanz, #daima"
+  - username: "kajalbagwandeen"
+    fullname: >-
+      Kajal Bagwandeen
+    bio: >-
+      @thek3company @honeymoonmovie streaming on Amazon Prime Video @imagineworx Agent: @mla.est1974
+    location: "South Africa"
+    followers: 39170
+    engagement: 232
+    commentsToLikes: 0.041114
+    id: ck5zwx9uf6xtp0i148j6e9kj1
+    verified: true
+    hashtags: "#primevideoza, #girlstrip, #redcarpet, #besties"
   - username: "ryan_botha"
     fullname: >-
       RYAN BOTHA
@@ -43,18 +55,6 @@ profiles:
     id: ckaou91qxzcog0i78elrnpz2r
     verified: false
     hashtags: "#picoftheday, #smile, #training, #life"
-  - username: "kajalbagwandeen"
-    fullname: >-
-      Kajal Bagwandeen
-    bio: >-
-      
-    location: "South Africa"
-    followers: 34662
-    engagement: 466
-    commentsToLikes: 0.024560
-    id: ck5zwx9uf6xtp0i148j6e9kj1
-    verified: true
-    hashtags: "#motherhood, #diwali, #adoptdontshop, #woolworths"
   - username: "ross_dillon_player"
     fullname: >-
       ℝ𝕠𝕤𝕤-𝔻𝕚𝕝𝕝𝕠𝕟 ℙ𝕝𝕒𝕪𝕖𝕣
@@ -67,30 +67,30 @@ profiles:
     id: ck6ttkp9yb5qm0j71tuf5ysbq
     verified: false
     hashtags: "#surfears, #kitesurf, #mystic, #respectthegame"
-  - username: "bryanhabana_"
+  - username: "jpduminy"
     fullname: >-
-      Bryan Habana
+      JP Duminy
     bio: >-
-      Proud South African. Blessed Husband & Father. Living Life To the Fullest while living my Dream! MatchKit.co/bryanhabana
+      Jesus follower / Husband / Father / Coach / CVO - @jp21foundation
     location: "South Africa"
-    followers: 199500
-    engagement: 106
-    commentsToLikes: 0.009377
-    id: ck5ztzd7g1ebk0i142502f3k2
+    followers: 624626
+    engagement: 96
+    commentsToLikes: 0.010064
+    id: ck8symsdclarh0j78jv4kw70b
     verified: true
-    hashtags: "#teamdefender, #giveback, #bethechange, #eleganceofart"
-  - username: "marcielhopkins"
+    hashtags: "#joebarberlive, #sachamps, #mauritius, #longbeachmauritius"
+  - username: "realwarripikin"
     fullname: >-
-      Marciel Hopkins
+      ANITA ASUOHA
     bio: >-
-      International Model | Boer Soek 'n Vrou aanbieder | Actress | Life Coach | Inspirational Speaker | Ice Genetics 🇿🇦 | Ice Artistes 🎭|
+      African Queen of Comedy Wife| Mum| Comedienne| MC| Actor| Dancer| Territorial commander😎 ‘Unapologetically Me Tour’ 2024
     location: "South Africa"
-    followers: 67222
-    engagement: 339
-    commentsToLikes: 0.014449
-    id: ck0u0rmiguqs80i19rkdnqwhx
+    followers: 4082888
+    engagement: 45
+    commentsToLikes: 0.027554
+    id: ck0vyh6td3z870i193rz0dtju
     verified: true
-    hashtags: "#healthnotsize, #feelgoodfitness, #madeforyou, #sweatgear"
+    hashtags: "#odogwunobeguyname, #odogwubitters, #standupcomedy, #africanqueenofcomedy"
   - username: "chloe_the_serval"
     fullname: >-
       Chloe Jade

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Photographers Instagram Influencers In Russia In 2023
+title: Top 10 Photographers Instagram Influencers In Russia In 2024
 description: >-
-  Find top photographers Instagram influencers in Russia in 2023. Most popular hashtags: #travel #izmir #lolitafashion.
+  Find top photographers Instagram influencers in Russia in 2024. Most popular hashtags: #cosplay #bali #genshinimpact.
 platform: Instagram
-hits: 1064
-text_top: Identify the most popular Instagram influencers on inBeat.
-text_bottom: Our database has 1064 Instagram influencers like this in Russia for you to work with.
+hits: 1052
+text_top: Discover the best Instagram accounts on inBeat.
+text_bottom: Our platform has 1052 Instagram influencers like this in Russia for you to connect with.
 profiles:
   - username: "galantnyy"
     fullname: >-
@@ -79,52 +79,52 @@ profiles:
     id: ck0w774d5c3fl0i19mwo2g88w
     verified: false
     hashtags: "#dance, #wdc, #ballroom, #dancesport"
-  - username: "orkhanaslanov"
+  - username: "ovsyan_art"
     fullname: >-
-      ORKHAN ASLANOV
+      Artem
     bio: >-
-      PHOTOGRAPHER & TRAVELER . INFLUENCER . Phone & whatsapp +994 502422242 Email: aslanovstudio@gmail.com
+      Cosplayer, photographer. Cooperation: artemovsyan123@gmail.com
     location: "Russia"
-    followers: 69535
-    engagement: 378
-    commentsToLikes: 0.029766
-    id: ck55n9dzy5qiu0i116c12jfsv
+    followers: 266890
+    engagement: 1191
+    commentsToLikes: 0.004251
+    id: ck0vwydw6w7b00i1942rc02rx
     verified: false
-    hashtags: "#icelandwithjohnnie, #nomakeup, #noretouch, #samsung"
-  - username: "stefandariana"
+    hashtags: "#genshinimpact, #luckae, #cosplay, #kaeluc"
+  - username: "azproductioncosp"
     fullname: >-
-      Dariana Stefan
+      A.Z.Production
     bio: >-
-      Moscow | Izmir photographer with dogs diary of inspiration — @ph.stefandariana
+      📷👾 Cosplay Photographer, Berlin🗣EN/RU Next: 🇩🇪 DoKoMi, 🇮🇹 Rimini, 🇨🇿 ConCrunch 🔻Gear, prints, other profiles
     location: "Russia"
-    followers: 6630
-    engagement: 1565
-    commentsToLikes: 0.128075
-    id: ck14k9d56oeki0i194uf79z4m
+    followers: 21477
+    engagement: 491
+    commentsToLikes: 0.018620
+    id: ck13c1i3dy5xq0i19kew78ogh
     verified: false
-    hashtags: "#gromdiamond, #doglovers, #izmir, #doglife"
-  - username: "lera_kire"
+    hashtags: "#cosplaygirl, #ilvolta, #leagueoflegends, #foamsmith"
+  - username: "ivantroyanovsky"
     fullname: >-
-      🍒V A L E R I 🍒
+      Ivan Troyanovsky
     bio: >-
-      ꜰᴀsʜɪᴏɴ ɪɴꜰʟᴜᴇɴᴄᴇʀ, ᴀʟᴛᴇʀɴᴀᴛɪᴠᴇ ᴍᴏᴅᴇʟ Artist 🎨, photographer 📷. Фотографирую тут :💥 @kire_photo 💥 Kyiv, Ukraine
+      ⚡️indie photographer +7(960)242-13-77. СЪЕМКИ Питер - Москва 📸 пиши в директ 👻limited edition🦄
     location: "Russia"
-    followers: 43997
-    engagement: 848
-    commentsToLikes: 0.161054
-    id: ck14k7io9o4lc0i19gi2vuztr
-    verified: false
-    hashtags: "#redhair, #scenehair, #blackoutfit, #pinkmakeup"
-  - username: "e.arutyunova"
-    fullname: >-
-      JUKA ME FOLLOW ME
-    bio: >-
-      Zhuk 🌙 artist. influencer. photographer @juka_me GOOD VIBES ONLY
-    location: "Russia"
-    followers: 41013
-    engagement: 465
-    commentsToLikes: 0.028485
-    id: ck6tjss5h3cld0j7194f7m33u
+    followers: 156081
+    engagement: 659
+    commentsToLikes: 0.005913
+    id: ck15rzpqtaicf0i19ekdgqq95
     verified: false
     hashtags: ""
+  - username: "danielkordan"
+    fullname: >-
+      Daniel Kordan
+    bio: >-
+      Happy dreamer. Landscape photographer based in Bali, @nikoneurope Vietnam tour:
+    location: "Russia"
+    followers: 2344788
+    engagement: 742
+    commentsToLikes: 0.015167
+    id: ck0tujnay7goj0i19nxd6i0yd
+    verified: true
+    hashtags: "#hokkaido, #vietnam, #namibia, #indonesia"
 ---

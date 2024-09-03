@@ -1,11 +1,11 @@
 ---
-title: Top 10 Barbers TikTok Influencers In Sydney In 2023
+title: Top 10 Barbers TikTok Influencers In Sydney In 2024
 description: >-
-  Find top barbers TikTok influencers in Sydney in 2023. Most popular hashtags: #fyp #barber #foryoupage #haircut.
+  Find top barbers TikTok influencers in Sydney in 2024. Most popular hashtags: #fyp #barber #foryoupage #haircut.
 platform: TikTok
-hits: 5
-text_top: Analyze the most popular TikTok profiles on inBeat.
-text_bottom: Our platform has 5 TikTok influencers like this in Sydney, Australia for you to pitch.
+hits: 6
+text_top: Discover the top-rated TikTok accounts on inBeat.
+text_bottom: inBeat aggregates 6 TikTok influencers like this in Sydney, Australia for you to pitch.
 profiles:
   - username: "williambabylon"
     fullname: >-
@@ -31,6 +31,18 @@ profiles:
     id: cka3viip6yefv0i78jpk6lsct
     verified: false
     hashtags: "#gym, #duet, #maori, #nohommo"
+  - username: "jermaynecookk_"
+    fullname: >-
+      jermaynecookk
+    bio: >-
+      📍- Sydney 🇹🇴🇮🇹 ‼️Insta - jermaynecookk
+    location: "Australia"
+    followers: 33100
+    engagement: 1073
+    commentsToLikes: 0.012401
+    id: ckcizfpt22tty0j23ykrvahps
+    verified: false
+    hashtags: "#fyp, #foryou, #shadowbanned, #coming2america"
   - username: "top.kuts"
     fullname: >-
       top.kuts
@@ -115,16 +127,4 @@ profiles:
     id: ckdcal8xfit0o0j23mtwwnws9
     verified: false
     hashtags: "#fyp, #beard, #satisfying, #hairstyle"
-  - username: "fadi.bato"
-    fullname: >-
-      FadiBato
-    bio: >-
-      
-    location: "Australia"
-    followers: 31100
-    engagement: 319
-    commentsToLikes: 0.011746
-    id: ckav66gp7cuoj0j23owmb2rk8
-    verified: false
-    hashtags: "#transformation, #fade, #hairtransformation, #haircut"
 ---

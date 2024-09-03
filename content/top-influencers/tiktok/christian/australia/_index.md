@@ -1,11 +1,11 @@
 ---
-title: Top 10 Christian TikTok Influencers In Australia In 2023
+title: Top 10 Christian TikTok Influencers In Australia In 2024
 description: >-
-  Find top christian TikTok influencers in Australia in 2023. Most popular hashtags: #fyp #jesus #christian #duet.
+  Find top christian TikTok influencers in Australia in 2024. Most popular hashtags: #fyp #jesus #christian #duet.
 platform: TikTok
-hits: 40
-text_top: Identify the best TikTok accounts on inBeat.
-text_bottom: inBeat aggregates 40 TikTok influencers like this in Australia for you to connect with.
+hits: 41
+text_top: See the best TikTok accounts on inBeat.
+text_bottom: Our database aggregates 41 TikTok influencers like this in Australia for you to connect with.
 profiles:
   - username: "vintage_eskimo"
     fullname: >-

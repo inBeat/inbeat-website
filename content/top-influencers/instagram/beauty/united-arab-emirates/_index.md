@@ -1,130 +1,130 @@
 ---
-title: Top 10 Beauty Instagram Influencers In United Arab Emirates In 2023
+title: Top 10 Beauty Instagram Influencers In United Arab Emirates In 2024
 description: >-
-  Find top beauty Instagram influencers in United Arab Emirates in 2023. Most popular hashtags: #dubai #fashion #lifestyle.
+  Find top beauty Instagram influencers in United Arab Emirates in 2024. Most popular hashtags: #love #couple #dubai.
 platform: Instagram
-hits: 401
-text_top: See the best Instagram profiles on inBeat.
-text_bottom: Our search engine aggregates 401 Instagram influencers like this in United Arab Emirates for you to connect with.
+hits: 444
+text_top: Identify the top-rated Instagram influencers on inBeat.
+text_bottom: Our search engine holds 444 Instagram influencers like this in United Arab Emirates for you to work with.
 profiles:
-  - username: "layannsalem"
+  - username: "she.nobu"
     fullname: >-
-      • ليان سالم •
+      Nobu
     bio: >-
-      📍 AD | Dubai Beauty | Lifestyle | Travel I drive boats too⚓️ @layansalembeauty
+      Fashion Beauty Lifestyle 📩 shenobuu@gmail.com Less stress, more champagne 🥂 SHOP MY LOOKS ⤵️
     location: "United Arab Emirates"
-    followers: 414723
-    engagement: 342
-    commentsToLikes: 0.012301
-    id: ck8t0317tqnto0j788apbqc8p
+    followers: 82181
+    engagement: 981
+    commentsToLikes: 0.011292
+    id: ckap232okx64a0i783b77260v
     verified: false
-    hashtags: "#beautifulskin, #sleepfearless, #periodsomnia, #sheglamblush"
-  - username: "fata.hasanovic"
+    hashtags: "#smiledesign, #creativesmiles"
+  - username: "bayydayy"
     fullname: >-
-      Fata Hasanovic
+      Bayleigh Amethyst
     bio: >-
-      TRAVEL x BEAUTY x FASHION 📍 Living in #dubai PHOTOGRAPHY : @fataaagraphy CLICK HERE :
+      PR + Dubai 🌴Model• Former Beauty Queen• Actress• Host • Mom•Wife Check out my YouTube: BayleighDaily
     location: "United Arab Emirates"
-    followers: 482241
-    engagement: 69
-    commentsToLikes: 0.041382
-    id: ck15s5laqbc4b0i19770uqclw
-    verified: true
-    hashtags: "#reels, #songverh, #feedaesthetic, #bosnia"
-  - username: "gisoodiba"
-    fullname: >-
-      GISOO DIBA
-    bio: >-
-      Beauty & makeup Youtube:Gisoodiba Businesses:gisoodiba@gmail.com www.gisoodiba.com 💍@navidaneshfar Based in dubai
-    location: "United Arab Emirates"
-    followers: 620892
-    engagement: 1412
-    commentsToLikes: 0.069284
-    id: ck6u5giqa9i3g0j71azzfhbkm
+    followers: 230720
+    engagement: 477
+    commentsToLikes: 0.041637
+    id: ckwknzzsvp5l30j23y4wk8cl7
     verified: false
-    hashtags: "#makeup, #hudabeauty, #kyliecosmetics, #fentybeauty"
-  - username: "madaboutella"
+    hashtags: "#dubai, #blacklove, #couple, #momlife"
+  - username: "guell.a"
     fullname: >-
-      Dubai Lifestyle Blogger🏝
+      ANIA GUELLARD
     bio: >-
-      Ella Pop #fashion | #lifestyle | #beauty 📩 pr: info.madaboutElla@gmail.com 📍#Dubai🇦🇪 👩🏻Bulgarian/American Follow me on TikTok: @madaboutElla
+      beauty • fashion • self love comes first✨ represented by @hello.theoysterclub aniaguellardpr@gmail.com
     location: "United Arab Emirates"
-    followers: 64322
-    engagement: 298
-    commentsToLikes: 0.101958
-    id: ck0w4tfys0bwr0i19i7ag9tri
+    followers: 146503
+    engagement: 545
+    commentsToLikes: 0.005040
+    id: ck0tymuyonbdt0i19pzedx79r
+    verified: false
+    hashtags: "#inabudhabi, #christmas, #clarinspolska, #weddingday"
+  - username: "katharina_grosam"
+    fullname: >-
+      Katharina Grosam
+    bio: >-
+      Schönheit | sunny lifestyle | leadership 🎤 Podcast „the queens life“ 👸🏻 📍 Ausgewandert in die Sonne☀️Dubai 🌏 Vom Beauty Studio in die weite Welt
+    location: "United Arab Emirates"
+    followers: 12082
+    engagement: 559
+    commentsToLikes: 0.055664
+    id: ck6u71vkhizn40j71defky8mm
+    verified: false
+    hashtags: "#weddingdress, #sommerkleid, #mykonos, #fethiye"
+  - username: "ganzaneroth"
+    fullname: >-
+      Gansa Nashid Kalam
+    bio: >-
+      | Wife | Mama | Entrepreneur ⁣ A 20 Something Mama Finding,Creating and Sharing Beauty in life’s little moments✨ ⁣ Founder @mirakhii ⁣@mirakhiihome
+    location: "United Arab Emirates"
+    followers: 26252
+    engagement: 1266
+    commentsToLikes: 0.025479
+    id: ck9wg6x2ws60k0j78f0jm2vty
     verified: false
     hashtags: ""
-  - username: "rebeccarkassab"
+  - username: "hajertareq"
     fullname: >-
-      Rebecca Kassab Al Azar
+      Hajer Tareq - هاچر طارق
     bio: >-
-      📍#BEY | #DXB 𝒮𝑒𝑒𝓀 𝓎𝑜𝓊𝓇 𝒾𝓃𝓃𝑒𝓇 𝓅𝑒𝒶𝒸𝑒🕊† لتكن مشيئتك #FASHION | #BEAUTY | #LIFESTYLE ▫️Master in Telecom Engineer ▫️Digital Media Expert ▫️Fashion Stylist
+      🧿🕊 🇱🇧 | 🇪🇬 Fashion | lifestyle | Beauty | Makeup Hajertareqofficial@gmail.com
     location: "United Arab Emirates"
-    followers: 90774
-    engagement: 282
-    commentsToLikes: 0.061562
-    id: ck5cfoqmmncwz0i11vy9hgawb
+    followers: 1013798
+    engagement: 323
+    commentsToLikes: 0.012467
+    id: ckaotw2hixrcq0i78u4xjsky0
     verified: false
-    hashtags: "#lovewins, #dubailife, #beachlife, #sunset"
-  - username: "saratvshow"
+    hashtags: ""
+  - username: "narimaan.farouk"
     fullname: >-
-      ♡ Sara | سارة ♡ أُم نايا
+      narimaan farouk 🤍
     bio: >-
-      🎥 Youtuber with 900k+ ❤️ 📍Dubai/Sweden 📧 For ads: saratvshow@hotmail.com 👩‍👧Mommy to @angelnayaa 💄Beautyblogger ⬇️ My media platforms ⬇️Subscribe
+      cairo | abu dhabi | dubai self love enthusiast egyptian londener family over everything fashion • beauty • lifestyle
     location: "United Arab Emirates"
-    followers: 220947
-    engagement: 322
-    commentsToLikes: 0.078277
-    id: ck15pygt109cb0i1935kczj6w
+    followers: 40992
+    engagement: 320
+    commentsToLikes: 0.043168
+    id: ck600rfede4pe0i148kvxy9cd
     verified: false
-    hashtags: "#reelitfeelit, #turkey, #likesforlike, #lifestyle"
-  - username: "youmi.kh"
+    hashtags: "#5amclub, #homeasmr, #district5, #supersafari"
+  - username: "sabsi_t"
     fullname: >-
-      Youmi kh
+      Sabsi in Dubai 🇦🇪
     bio: >-
-      يمنى الخوري - - Lebanese 🇱🇧 . - Owner of @youmionlineshop - Fashion | Beauty | Lifestyle influencer.
+      ‎ سابسي 🎀 Tiktok:1 M+ الجمال |الموضة| نمط الحياة Beauty |Fashion| Lifestyle for business inquiries: +971589874873
     location: "United Arab Emirates"
-    followers: 607510
-    engagement: 266
-    commentsToLikes: 0.062403
-    id: ck5hlalt0jvjv0i11vghv7e6o
-    verified: false
-    hashtags: "#youmi, #youmionlineshop, #youmilenses, #maldives"
-  - username: "sapna1809"
+    followers: 1033381
+    engagement: 274
+    commentsToLikes: 0.000943
+    id: ck13956f4jl170i19x87nef5j
+    verified: true
+    hashtags: "#beautyhacks, #makeup, #fyp, #hair"
+  - username: "rasha_albeick"
     fullname: >-
-      Sapna Bhambra
+      Rasha_albeik - رشا البيك
     bio: >-
-      🇮🇳 🇦🇪 🎂18 Sept My Day. #dubaiblogger #food🥘 #beauty💄 DM or Email for collaboration 📧 sapnabhambra@outlook.com
+      Entrepreneur & Influencers Founder of @Marvellabyrasha @marvellaluxe 📩rasha.albeick.media@gmail.com #Fashion #beauty #Travel #Lifestyle 📍Dubai
     location: "United Arab Emirates"
-    followers: 17031
-    engagement: 462
-    commentsToLikes: 0.085809
-    id: ck9wg60q3s1wr0j7829ivm1p1
+    followers: 740467
+    engagement: 247
+    commentsToLikes: 0.017962
+    id: ck5q90tfg8uiu0i11j5iu77if
     verified: false
-    hashtags: "#phoneography, #sunshinegirl, #popxodaily, #mountainview"
-  - username: "shazyzahid"
+    hashtags: "#travel, #love, #tourist, #couples"
+  - username: "hud_a96"
     fullname: >-
-      Shahreen Zahid | شاهرين زاهد
+      هدى عادل | Huda Adil
     bio: >-
-      Digital Content Creator | Model 🌴 Fashion and beauty 📍Dubai 📩shazyzahid@gmail.com
+      Lifestyle and beauty influencer 💅🏻💄 للأعلانات +964 772 113 9169 + 964 777 184 2442
     location: "United Arab Emirates"
-    followers: 42651
-    engagement: 243
-    commentsToLikes: 0.087318
-    id: ck5hi0fsbazvw0i115cua5wol
+    followers: 5193107
+    engagement: 246
+    commentsToLikes: 0.041607
+    id: ck9whssp8zbnr0j78yq90xsd5
     verified: false
-    hashtags: "#aldouae, #stepintolove, #aquaforeverything, #lespecs"
-  - username: "kikikeerati"
-    fullname: >-
-      Kiki Keerati Dubai
-    bio: >-
-      Asian girl living in Dubai 🇹🇭🇦🇪 Fashion | Beauty | Travel | Lifestyle ✈️ A Frequent flyer 📩 DM for work/collabs
-    location: "United Arab Emirates"
-    followers: 122093
-    engagement: 353
-    commentsToLikes: 0.014868
-    id: ck5q9owxfc8f50i11biwwxw3b
-    verified: false
-    hashtags: "#luxury, #ootd, #summer, #holiday"
+    hashtags: "#haircare, #vatikanaturals, #frizzfree, #beautyroutine"
 ---

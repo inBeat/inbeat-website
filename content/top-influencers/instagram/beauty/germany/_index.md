@@ -1,11 +1,11 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Germany In 2023
+title: Top 10 Beauty Instagram Influencers In Germany In 2024
 description: >-
-  Find top beauty Instagram influencers in Germany in 2023. Most popular hashtags: #ootd #beauty #weihnachten.
+  Find top beauty Instagram influencers in Germany in 2024. Most popular hashtags: #interiordesign #sheinforall #interior.
 platform: Instagram
-hits: 3751
-text_top: Identify the top-rated Instagram profiles on inBeat.
-text_bottom: Our database has 3751 Instagram influencers like this in Germany for you to work with.
+hits: 4234
+text_top: See the most popular Instagram accounts on inBeat.
+text_bottom: inBeat aggregates 4234 Instagram influencers like this in Germany for you to contact.
 profiles:
   - username: "lindaras_joylegance"
     fullname: >-
@@ -18,113 +18,113 @@ profiles:
     commentsToLikes: 0.219518
     id: ckap4lfls7ta60i78ug6w5na4
     verified: false
-    hashtags: "#skincare, #beautybox, #haarpflege, #cosmetics"
-  - username: "teresa.jg"
+    hashtags: "#beautybox, #skincare, #beauty, #vegan"
+  - username: "anna_strigl"
     fullname: >-
-      Teresa
+      𝓐𝓷𝓷𝓪 𝓢𝓽𝓻𝓲𝓰𝓵 ☀️
     bio: >-
-      daily outfits, beauty & lifestyle🙃 contact: teresa@fab4media.de Germany - Impressum: @fab4media
+      🏔️ Aus nem 🐄-Dorf in den Tiroler Alpen 💓 Beauty, Familie & Hacks 🎬 1 Million auf YouTube, über 2 Millionen auf TikTok 📧management@astrigl.com
     location: "Germany"
-    followers: 96139
-    engagement: 868
-    commentsToLikes: 0.011271
-    id: ck6u19gjzked40j71d5cgv43v
+    followers: 454651
+    engagement: 3281
+    commentsToLikes: 0.009985
+    id: ck8tc24khy0f40j78fya48zff
     verified: false
-    hashtags: "#azoren, #blonde, #skigirl, #skiing"
-  - username: "offiziellalinebachmann"
-    fullname: >-
-      💕 Beauty, Inspiration & Lifestyle
-    bio: >-
-      𝒀𝒐𝒖 𝒏𝒆𝒗𝒆𝒓 𝒇𝒂𝒊𝒍 𝒖𝒏𝒕𝒊𝒍 𝒚𝒐𝒖 𝒔𝒕𝒐𝒑 𝒕𝒓𝒚𝒊𝒏𝒈 𝑮𝒊𝒓𝒍 ▫ Beauty, Inspiration & Lifestyle ▫ 📩 collab.alinebachmann@web.de ▫ @impressum_alinebachmann
-    location: "Germany"
-    followers: 442979
-    engagement: 310
-    commentsToLikes: 0.089817
-    id: ck5hp73lmqv4x0i11qibdgmes
-    verified: true
-    hashtags: ""
-  - username: "shoppinator"
-    fullname: >-
-      Nadine
-    bio: >-
-      Beauty | Travel | Fashion 0711🏡-Renovierung: @altbau_makeover 💌 hello@shoppinator.com • Impressum:
-    location: "Germany"
-    followers: 137653
-    engagement: 103
-    commentsToLikes: 0.131927
-    id: ck0w1l10njvlc0i19avqvqcyw
-    verified: false
-    hashtags: "#interior, #zuhause, #interiordesign, #christmas"
-  - username: "quarks.de"
-    fullname: >-
-      Quarks
-    bio: >-
-      Wissen. Verstehen. Einordnen. | @wdr | @beautyquarks Gemacht mit Hirn, Herz und unserem Rundfunkbeitrag.
-    location: "Germany"
-    followers: 1381426
-    engagement: 192
-    commentsToLikes: 0.019930
-    id: ck0w6jpfg8w3d0i1974dlpdvk
-    verified: true
-    hashtags: "#artenschutz, #erk, #klimawandel, #gutzuwissen"
-  - username: "alexandralapp"
-    fullname: >-
-      Alexandra Lapp
-    bio: >-
-      Entrepreneur, columnist, blogger & influencer - love sharing my passion for fashion, interior, beauty, travel & lifestyle. 📩 contact@alexandralapp.com
-    location: "Germany"
-    followers: 415924
-    engagement: 57
-    commentsToLikes: 0.157463
-    id: ck0u05hbzsnuc0i19bj1p7ibh
-    verified: true
-    hashtags: "#ootd, #bestof2022, #trending, #reels"
-  - username: "judithwilliams_official"
-    fullname: >-
-      Judith Williams
-    bio: >-
-      🎵 TikTok: judithwilliamsofficial 👩🏽‍💻 Unternehmerin & Investorin 🦁TV-Löwin 🧠 Mentorin & People Empowerer 🎙 Podcasts „BEAUTY WILLIAMS“ & „GO GIRL GO!“
-    location: "Germany"
-    followers: 195679
-    engagement: 38
-    commentsToLikes: 0.031165
-    id: ck0vyrdlu5f4e0i19er7kwlke
-    verified: true
-    hashtags: "#startup, #linkinbio, #startnow, #werbung"
-  - username: "primark"
-    fullname: >-
-      Primark
-    bio: >-
-      Welcome to the official Primark Instagram 💙 👨‍👩‍👧‍👦 @primark.kids 💄 @primark.beauty 👟 @primark.man 🏡 @primark.home TikTok @primark
-    location: "Germany"
-    followers: 10071434
-    engagement: 9
-    commentsToLikes: 0.008360
-    id: cl4co0hkooc420i23gyfdcri9
-    verified: false
-    hashtags: "#primarkxdisney, #outfitinspo, #primark, #ootd"
-  - username: "bak_lifestyle"
-    fullname: >-
-      Yvonne
-    bio: >-
-      ᶠᵃˢʰⁱᵒⁿ 🌸 ᴮᵉᵃᵘᵗʸ 🌸 ᴸⁱᶠᵉˢᵗʸˡᵉ • 👰🏻wifey • 👧🏻mommy • 🇩🇪🇵🇱 • Girl next door 💌 bak_lifestyle@web.de / DM 📍 Bochum , NRW 🌍 Next📍
-    location: "Germany"
-    followers: 8897
-    engagement: 2050
-    commentsToLikes: 0.194192
-    id: ck6tp2218hegf0j71wbb5mlvr
-    verified: false
-    hashtags: "#blogger, #outfitinspiration, #streetstyle, #menstyle"
+    hashtags: "#langehaare, #haare, #feminismus, #friseur"
   - username: "paulinawallner"
     fullname: >-
       PAULINA WALLNER
     bio: >-
-      FITNESS | FASHION | BEAUTY 📽 YouTube: Paulina Wallner (+260.000 Abos) 🎁 -10% mit "PAULINA10" @prozis 💕 @sascha_huber_official ✨ 25 y/o 📍 Austria
+      FITNESS | FOOD | FASHION & BEAUTY 📽 YouTube: Paulina Wallner (+350.000 Abos) ❤️ Founder @confitly ✨ Meine Marke (Fitness Produkte & Kochbuch):
     location: "Germany"
-    followers: 132489
-    engagement: 1432
-    commentsToLikes: 0.015535
+    followers: 174794
+    engagement: 1273
+    commentsToLikes: 0.011507
     id: ck5byku2lpcbx0i11frygcdqh
     verified: false
-    hashtags: "#fitgirl, #easter, #spring, #workout"
+    hashtags: "#workout, #fitness, #fitgirl"
+  - username: "aysenurr"
+    fullname: >-
+      Aysenur
+    bio: >-
+      Momlife, Fashion, Beauty & Lifestyle 📍Deutschland ✉️: aysenur@elevensocial.de
+    location: "Germany"
+    followers: 43998
+    engagement: 1426
+    commentsToLikes: 0.028408
+    id: clbvnhjkee3ff0j086et653aj
+    verified: false
+    hashtags: "#beauty, #family, #interior, #recapoftheday"
+  - username: "nicolay.t"
+    fullname: >-
+      Nicolay Tarashchenko
+    bio: >-
+      Well made products, design and lifestyle. Secret profile @beautyoftechnology
+    location: "Germany"
+    followers: 48417
+    engagement: 401
+    commentsToLikes: 0.024917
+    id: ck0w08w5pcz6a0i19e683th20
+    verified: false
+    hashtags: "#tech, #beautyoftechnology, #interiordesign, #minimaldesk"
+  - username: "cocobasics"
+    fullname: >-
+      C O C O
+    bio: >-
+      📍Berlin , Germany 🎵Tik Tok: coco.carol Teen | Fashion | Beauty | Dance
+    location: "Germany"
+    followers: 399708
+    engagement: 596
+    commentsToLikes: 0.003861
+    id: ck14lbqmxtuwc0i19gg0frwa8
+    verified: false
+    hashtags: "#watches, #fashiontransition, #pomelo, #haircare"
+  - username: "sinasleben"
+    fullname: >-
+      S I N A 👗👡🎂🥗
+    bio: >-
+      FASHION | BEAUTY | REZEPTE | FAMILY Schön dass du da bist 🤗 Lass dich inspirieren & PIMP mit ✨ ✌-fache Jungsmama Gründerin von @sisina.de
+    location: "Germany"
+    followers: 28596
+    engagement: 424
+    commentsToLikes: 0.019027
+    id: ck15roncv8xyr0i19x9be3qe9
+    verified: false
+    hashtags: "#outfitideas4you, #stylingideas, #outfitinfluence, #stylingreels"
+  - username: "_mikabeauty_"
+    fullname: >-
+      
+    bio: >-
+      •collab.mikabeauty@gmail.com •ENGAGED M💍 •BEAUTY STUDIO💄 @mika.work
+    location: "Germany"
+    followers: 131839
+    engagement: 800
+    commentsToLikes: 0.015423
+    id: ck5c4l5781kuf0i11u8ktj5bv
+    verified: false
+    hashtags: "#cancerfighter, #maledives, #ayadamaldives, #sheinforall"
+  - username: "_seda.y_"
+    fullname: >-
+      S E D A  KILIC
+    bio: >-
+      Fashion - Beauty- Fulltime Mom Kooper.anfrage - Sedak57@gmx.de Energiemaklerin @optima_solution_kassel Strom/Gas ~ Solar Vertriebsp. Pro Aqua 📍MA
+    location: "Germany"
+    followers: 80611
+    engagement: 584
+    commentsToLikes: 0.065700
+    id: ckapaswpnxcf70i78f780ohqg
+    verified: false
+    hashtags: "#shein, #black, #sheingals, #herbst"
+  - username: "emosh_yy"
+    fullname: >-
+      Emine Yildiz
+    bio: >-
+      @havy_beauty
+    location: "Germany"
+    followers: 5094
+    engagement: 1492
+    commentsToLikes: 0.040746
+    id: ck9whdnmfxdmp0j78afo1ymf5
+    verified: false
+    hashtags: "#dj, #halay, #kurdish, #raks"
 ---

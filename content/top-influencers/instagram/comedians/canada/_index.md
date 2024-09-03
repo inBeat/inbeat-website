@@ -1,12 +1,24 @@
 ---
-title: Top 10 Comedians Instagram Influencers In Canada In 2023
+title: Top 10 Comedians Instagram Influencers In Canada In 2024
 description: >-
-  Find top comedians Instagram influencers in Canada in 2023. Most popular hashtags: #comedy #canada #fuckyabud.
+  Find top comedians Instagram influencers in Canada in 2024. Most popular hashtags: #comedy #reels #standupcomedy.
 platform: Instagram
-hits: 18
-text_top: Discover the best Instagram profiles on inBeat.
-text_bottom: inBeat has 18 Instagram influencers like this in Canada for you to pitch.
+hits: 46
+text_top: Identify the most popular Instagram accounts on inBeat.
+text_bottom: Our search engine has 46 Instagram influencers like this in Canada for you to work with.
 profiles:
+  - username: "instafunny_manan"
+    fullname: >-
+      Manan Desai
+    bio: >-
+      Comedian & Actor Content - Creator, Curator & Producer www.manandesai.in
+    location: "Canada"
+    followers: 275389
+    engagement: 1337
+    commentsToLikes: 0.004535
+    id: ck5pwjdzun3d70i114mni37zw
+    verified: false
+    hashtags: "#thecomedyfactory, #manandesai, #standupcomedy, #gujarati"
   - username: "ushappyfour"
     fullname: >-
       Em Weinmann
@@ -18,113 +30,101 @@ profiles:
     commentsToLikes: 0.250681
     id: clbi52iw447oz0j08j4dub8pl
     verified: false
-    hashtags: "#allkidz, #beautyfilter, #instareels, #reelinsta"
-  - username: "julienolke"
+    hashtags: "#allkidz, #filter, #whereami, #instareels"
+  - username: "mattzpavich"
     fullname: >-
-      Julie Nolke
+      Matt Pavich
     bio: >-
-      Actor. Writer. Comedian. 🇨🇦 Bookings: carolyn@grandwaveentertainment.com
+      Comedian/Actor. Watch my debut Special “Wednesdays @ Bellevue” Book me! Bookings@mattzpavich.com
     location: "Canada"
-    followers: 126007
-    engagement: 417
-    commentsToLikes: 0.013782
-    id: ckap186x3tgwc0i78el2ggkmr
+    followers: 42525
+    engagement: 1829
+    commentsToLikes: 0.036893
+    id: cl45xzzxuk3fy0i23jrif9q1y
     verified: false
-    hashtags: "#oddsquad, #oddsquadpbs, #oddsquadmobileunit"
-  - username: "nickandy1"
+    hashtags: "#standup, #funny, #comedy, #standupcomedy"
+  - username: "peternguyen"
     fullname: >-
-      Nick Andrew [AR12]
+      Peter Nguyen
     bio: >-
-      Stunt Driver, Comedian, 30 Under 30, Massive liar. 08 VW R32, 18 Raptor, 17 GT350. Business: business@AR12Gaming.com ⬇️NEW MERCH
+      wannabe comedian TikTok: (4.3M) | YouTube: (1.4M) 📥: peter@rizziandrizzi.com
     location: "Canada"
-    followers: 134446
-    engagement: 752
-    commentsToLikes: 0.014593
-    id: ck8szmjnvp06m0j78919ncxif
+    followers: 888986
+    engagement: 1003
+    commentsToLikes: 0.005303
+    id: clnbwi1e159vr0j086w0b0fi2
     verified: false
-    hashtags: "#shelby, #fordbronco, #ar12, #gt350"
-  - username: "mannbilly"
+    hashtags: "#pov, #memes, #tiktokvideos, #reels"
+  - username: "awwwnchal"
     fullname: >-
-      Billy Mann
+      Aanchal Agrawal
     bio: >-
-      😜 Comedian 🚶🏼 Model 🎭 Creator 🎿 Former professional skier 🌎 Adventurer
+      Mumbai📍New York Comedian | Actor | NYU👩‍🎓| Global Ambassador of Friend Zone | God’s Favorite Child | Founder @allwomen.inc Link to shows/videos👇🏼
     location: "Canada"
-    followers: 127647
-    engagement: 413
-    commentsToLikes: 0.009283
-    id: ck15rison84ij0i1932icbhjq
+    followers: 540542
+    engagement: 627
+    commentsToLikes: 0.016525
+    id: clnsitighgx370j08lzim44rm
     verified: false
-    hashtags: ""
-  - username: "jjquailo94"
+    hashtags: "#tatawpl, #awwwnchal, #reelitfeelit, #reels"
+  - username: "alirezagalesh_original"
     fullname: >-
-      Salty Feed ®️
+      Alireza Galesh
     bio: >-
-      “Your daily salt intake” #Actor ~ #Comedian ~ #Emcee ~ #Host Business INQ: jjquailo8@gmail.com 📍Wheelz Casino Link: Instant 20$ for Sign up 👇
+      #comedian#artist #شومن #قارنلی
     location: "Canada"
-    followers: 9705
-    engagement: 251
-    commentsToLikes: 0.130380
-    id: ck138vraii8vx0i19778klpgj
+    followers: 470561
+    engagement: 693
+    commentsToLikes: 0.019829
+    id: ck5zjkdg6hqy10i14kua7e7o5
     verified: false
-    hashtags: "#instareel, #instagramreel, #tiktokcomedy, #goingtocollege"
-  - username: "stanrey7"
+    hashtags: "#alireza, #alirezagalesh, #gharnalioriginal"
+  - username: "abishmathew"
     fullname: >-
-      Stan Rey
+      Abish Mathew
     bio: >-
-      Pro skier extraordinaire, haver of goodtimes, wanna be comedian #backysunday @salomonfreeski @protectourwinterscanada
+      Comedian, Creative Director, Calendar User
     location: "Canada"
-    followers: 67635
-    engagement: 525
-    commentsToLikes: 0.013092
-    id: ck139l1a7lua50i19nb2vb0wa
-    verified: false
-    hashtags: "#gflenvironmental, #talesofcascadia, #timetoplay, #winter"
-  - username: "shaneykipps"
-    fullname: >-
-      Shane Kippel
-    bio: >-
-      Actor 🎭 Comedian 🤣 Producer 🎥 Screenwriter 📜✍🏻 Public Speaker 🔊Renaissance Man Check out the link below for links to CAMEO and OFFICIAL MERCH👇
-    location: "Canada"
-    followers: 100882
-    engagement: 380
-    commentsToLikes: 0.026566
-    id: ck5q3rkkwm3uc0i11j6iyvkh4
+    followers: 365960
+    engagement: 395
+    commentsToLikes: 0.011355
+    id: ck55kfyvrz7p00i11dteeuccd
     verified: true
-    hashtags: "#degrassi, #spinner, #dot, #lestweforget"
-  - username: "rickrowley3"
+    hashtags: "#abishmathew, #standup, #canada, #whoop"
+  - username: "the6atsix"
     fullname: >-
-      Rick Rowley
+      Beamer😎Walczak
     bio: >-
-      #Comedian who loves hockey🏒Canada’s biggest beauty🇨🇦 Linktree👇
+      🌆Toronto's⚡️GoldenBoy😸 😅Comedian/🙅🏽‍♂️Sober💪🏾/Graphic Designer💻 🎥YouTubing Bus Life!🚌 👁‍🗨Logo Creation Page: @sixlogos 🖋
     location: "Canada"
-    followers: 19014
-    engagement: 259
-    commentsToLikes: 0.139950
-    id: ckaorbp2bmksq0i78dirmk1qg
+    followers: 107994
+    engagement: 228
+    commentsToLikes: 0.068159
+    id: ck6004z4pcyjv0i147qy4cw3s
     verified: false
-    hashtags: "#lfg, #toronto, #goleafsgo, #nhl"
-  - username: "shaunmajumder"
+    hashtags: "#vlogger, #buslife, #the6atsix, #6ixinthestix"
+  - username: "cowboi_cole"
     fullname: >-
-      ShaunMajumder
+      Cole Robertson
     bio: >-
-      Canadian Born, Los Angeles based creative type. Actor/writer/comedian now podcaster. Host of "Its pronounced Majumder"
+      CEO of I ❤️ Hot Rodeo Moms Content for Cowboys & Western Lovers Cowboy. Creator. Comedian. Canadian. Cole10 for 10% off @cowboyshitofficial MERCH👇🏼
     location: "Canada"
-    followers: 27399
-    engagement: 399
-    commentsToLikes: 0.037337
-    id: ck6ttun78co0c0j71u23uvokg
+    followers: 40248
+    engagement: 142
+    commentsToLikes: 0.037340
+    id: cl2ih088noot30i23e2it5geu
     verified: false
-    hashtags: "#sundaybrunch, #american, #bostonterrier, #holidaymovieseason"
-  - username: "ivanwdecker"
+    hashtags: "#ad, #enjoyresponsibly, #loneriverranger, #lonerivercanada"
+  - username: "ibnicolearbour"
     fullname: >-
-      Ivan Decker
+      Nicole Arbour
     bio: >-
-      L.A. based Stand up comedian. Originally from Vancouver, Canada. Juno award winner. Conan. Netflix comedians of the world.
+      Comedian, Music Maker, Entrepretainer, Chronic Pain Defeater #GOTEAM Welcome to my scrapbook 📔 🤘🏻 Management@nicolearbour.ca
     location: "Canada"
-    followers: 6240
-    engagement: 365
-    commentsToLikes: 0.046297
-    id: ck5c0c5d4suqt0i11sv43dvly
-    verified: false
-    hashtags: "#junoawards, #comedy, #dinosaurs, #junos"
+    followers: 2051824
+    engagement: 126
+    commentsToLikes: 0.007016
+    id: ck5q1cv2lae270i11wyw0zm1f
+    verified: true
+    hashtags: "#nicolearbour, #lol, #ismyname, #goteam"
 ---

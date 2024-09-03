@@ -1,10 +1,10 @@
 ---
-title: Top 10 Photographers TikTok Influencers In Berlin In 2023
+title: Top 10 Photographers TikTok Influencers In Berlin In 2024
 description: >-
-  Find top photographers TikTok influencers in Berlin in 2023. Most popular hashtags: #fyp #foryou #berlin #germany.
+  Find top photographers TikTok influencers in Berlin in 2024. Most popular hashtags: #fyp #foryou #berlin #deutschland.
 platform: TikTok
 hits: 5
-text_top: Identify the top-rated TikTok influencers on inBeat.
+text_top: Discover the best TikTok profiles on inBeat.
 text_bottom: Our platform aggregates 5 TikTok influencers like this in Berlin, Germany for you to collaborate.
 profiles:
   - username: "mayburton"
@@ -126,5 +126,5 @@ profiles:
     commentsToLikes: 0.025586
     id: ck8kghyk4ik990j7868m7ztk2
     verified: false
-    hashtags: "#foryou, #rainyday, #aesthetic, #fyp"
+    hashtags: "#aesthetic, #foryou, #rainyday, #fyp"
 ---

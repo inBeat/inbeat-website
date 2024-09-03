@@ -1,11 +1,11 @@
 ---
-title: Top 10 TikTok Influencers In Seattle In 2023
+title: Top 10 TikTok Influencers In Seattle In 2024
 description: >-
-  Find top TikTok influencers in Seattle in 2023. Most popular hashtags: #fyp #duet #seattle #foryoupage.
+  Find top TikTok influencers in Seattle in 2024. Most popular hashtags: #fyp #duet #seattle #greenscreen.
 platform: TikTok
-hits: 596
-text_top: See the top-rated TikTok profiles on inBeat.
-text_bottom: inBeat holds 596 TikTok influencers like this in Seattle, United States for you to pitch.
+hits: 600
+text_top: Discover the best TikTok accounts on inBeat.
+text_bottom: Our search engine aggregates 600 TikTok influencers like this in Seattle, United States for you to contact.
 profiles:
   - username: "nguyenolivvia"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.022793
     id: ckcptrgsuol1c0j23wsw9qsk3
     verified: false
-    hashtags: "#scoobdance, #pacnw, #vietnamese, #fashion"
+    hashtags: "#hiddengems, #vietnamese, #scoobdance, #healthheroes"
   - username: "mrgetbands"
     fullname: >-
       Luis Diego
@@ -55,18 +55,6 @@ profiles:
     id: ck9elxrivcqs80j78n58l9sdg
     verified: false
     hashtags: "#duet, #bardcc, #dndhypehouse, #dnd"
-  - username: "shaiberryshortcake"
-    fullname: >-
-      Shai
-    bio: >-
-      They/them ✡️ Seattle area 13 Bo was here <3
-    location: "United States"
-    followers: 12400
-    engagement: 2080
-    commentsToLikes: 0.058960
-    id: ck999u5gaegtf0j78tftghg25
-    verified: false
-    hashtags: "#foryoupage, #foryou, #fyp, #videosnapchallenge"
   - username: "icravecornbread"
     fullname: >-
       ALΞЖ LICHTΞNHAN
@@ -83,14 +71,26 @@ profiles:
     fullname: >-
       Amy Hall
     bio: >-
-      20, seattle wa. i write sad songs. she/her 🏳️‍🌈
+      21, seattle wa. i write sad songs. she/they 🏳️‍🌈
     location: "United States"
-    followers: 4026
-    engagement: 1974
-    commentsToLikes: 0.096820
+    followers: 4032
+    engagement: 2052
+    commentsToLikes: 0.079549
     id: ckb9q8ma0m0ew0j23tbn9535d
     verified: false
-    hashtags: "#songwriter, #duet, #phoebebridgers, #musictaste"
+    hashtags: "#seattlemusic, #independentmusician, #indierock, #songwriter"
+  - username: "carbonetti_country"
+    fullname: >-
+      Phoenix
+    bio: >-
+      Seattle.. soon TEXAS ❤🇺🇸 🙏 for America FOLLOW OUR INSTA = Gods__country__
+    location: "United States"
+    followers: 22300
+    engagement: 1973
+    commentsToLikes: 0.102499
+    id: ckd0iwb4yf4wy0j23dg8fabqj
+    verified: false
+    hashtags: "#1776, #greenscreen, #conservative, #fyp"
   - username: "_wyattrussell_"
     fullname: >-
       wyattrussell

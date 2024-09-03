@@ -1,11 +1,11 @@
 ---
-title: Top 10 Stylists Instagram Influencers In Nigeria In 2023
+title: Top 10 Stylists Instagram Influencers In Nigeria In 2024
 description: >-
-  Find top stylists Instagram influencers in Nigeria in 2023. Most popular hashtags: #fashion #fashionphotography #explore.
+  Find top stylists Instagram influencers in Nigeria in 2024. Most popular hashtags: #fashion #explore #explorepage.
 platform: Instagram
-hits: 15
-text_top: Identify the best Instagram profiles on inBeat.
-text_bottom: Our database holds 15 Instagram influencers like this in Nigeria for you to work with.
+hits: 18
+text_top: Discover the best Instagram influencers on inBeat.
+text_bottom: Our database aggregates 18 Instagram influencers like this in Nigeria for you to contact.
 profiles:
   - username: "nosco_pearl"
     fullname: >-
@@ -103,28 +103,28 @@ profiles:
     id: ck6tvg0z5m10k0j719qlnie68
     verified: false
     hashtags: "#happychild, #positivevibes, #happymoments, #happynewmonth"
-  - username: "ovia_reflex"
+  - username: "yomi.visuals"
     fullname: >-
-      Nigeria Based Photographer
+      ONALARU ABAYOMI 😎🇳🇬
     bio: >-
-      Creative Director/ Photographer / Retoucher Bookings: Oviareflex3112@gmail.com WhatsApp: +2347055930290 Published Photographer Lightroom presets 🔗
+      Fine Boy Photographer😎🇳🇬 Beauty | Portrait | Retoucher Wedding page: @yv.weddings NO REFUND! Yomi Photography and Visuals art studio✨ #yomivisuals
     location: "Nigeria"
-    followers: 15859
-    engagement: 556
-    commentsToLikes: 0.025037
-    id: ck0w0uiuag3n90i197bxelsvm
+    followers: 13668
+    engagement: 567
+    commentsToLikes: 0.048310
+    id: ck8t6bjezczgq0j78wjy57fs5
     verified: false
-    hashtags: "#stylist, #blue, #beautyphotographer, #birthday"
-  - username: "belove_falana"
+    hashtags: "#explorepage, #icreate, #lagosphotographer, #blackexcellence"
+  - username: "dreezy"
     fullname: >-
-      Ayanfe Falana
+      BIG OG DREEZ💎
     bio: >-
-      THIS IS MY ONLY ACCOUNT 👌 Beauty Queen 👸🏿(MBGE2016/2017) Political Scientist👩‍🎓 Brand Ambassador @bismidcosmetics💄 @gpennyfoods Sc:👻belovefalana
+      In my own world 🧚🏾 Dreezy “Gotta Move On” Remix Out Now on IG. “Blessed Freestyle” Link Below 👇🏾
     location: "Nigeria"
-    followers: 8785
-    engagement: 653
-    commentsToLikes: 0.082173
-    id: ck5zwe33a5yw30i14zhlrnku5
-    verified: false
-    hashtags: "#glow, #explorepage, #explore, #exploremore"
+    followers: 1435027
+    engagement: 201
+    commentsToLikes: 0.018911
+    id: ck0w5hept3nts0i19c2ti6zqg
+    verified: true
+    hashtags: "#truevault, #la, #sweepstakes, #puntacanadump23"
 ---

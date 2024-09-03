@@ -1,12 +1,72 @@
 ---
-title: Top 10 Singers Instagram Influencers In 2023
+title: Top 10 Singers Instagram Influencers In 2024
 description: >-
-  Find top singers Instagram influencers in 2023. Most popular hashtags: #radiojavan #singer #coronavirus.
+  Find top singers Instagram influencers in 2024. Most popular hashtags: #music #musician #singer.
 platform: Instagram
-hits: 13410
-text_top: Analyze the best Instagram profiles on inBeat.
-text_bottom: inBeat aggregates 13410 Instagram influencers like this for you to connect with.
+hits: 13815
+text_top: Identify the most popular Instagram accounts on inBeat.
+text_bottom: Our search engine has 13815 Instagram influencers like this for you to collaborate.
 profiles:
+  - username: "garshaghobad"
+    fullname: >-
+      Garsha Ghobad
+    bio: >-
+      Singer
+    location: ""
+    followers: 43773
+    engagement: 484
+    commentsToLikes: 0.087298
+    id: ck5c9opm1btg70i113sbealv1
+    verified: false
+    hashtags: "#music, #photo, #garshaghobad, #ahang"
+  - username: "singer"
+    fullname: >-
+      @SINGER
+    bio: >-
+      singers, dancing and drama 💋
+    location: ""
+    followers: 130169
+    engagement: 7248
+    commentsToLikes: 0.015722
+    id: ck6u61u39d22e0j713004c78b
+    verified: false
+    hashtags: "#love, #musicproducer, #djs, #jeanemarie"
+  - username: "samanthanevesb"
+    fullname: >-
+      samantha neves
+    bio: >-
+      Singer
+    location: "Canada"
+    followers: 21944
+    engagement: 263
+    commentsToLikes: 0.044742
+    id: ck15uhz4hna8b0i19dsocnjp6
+    verified: false
+    hashtags: "#photo, #music, #girl, #artistsupport"
+  - username: "changizhabibian"
+    fullname: >-
+      Changiz Habibian | چنگیز حبیبیان
+    bio: >-
+      Singer
+    location: "Iran"
+    followers: 336029
+    engagement: 176
+    commentsToLikes: 0.066959
+    id: ck9wgehbft2hb0j78m4qsssw6
+    verified: false
+    hashtags: ""
+  - username: "fanfan"
+    fullname: >-
+      范范范瑋琪
+    bio: >-
+      Singer
+    location: ""
+    followers: 2487957
+    engagement: 39
+    commentsToLikes: 0.035394
+    id: ck0uax522dclv0i19z7xme1rr
+    verified: true
+    hashtags: "#greatwolflodge, #georgetown"
   - username: "matinmt"
     fullname: >-
       Matin Mt
@@ -54,7 +114,7 @@ profiles:
     commentsToLikes: 0.072246
     id: ck8sxn9ubhyul0j78vr06y1kd
     verified: false
-    hashtags: "#phantomderoper, #hamburg, #urlaub, #phantomoftheopera"
+    hashtags: "#tdv, #hamburg, #urlaub, #dogsofinstagram"
   - username: "hlaroushdy"
     fullname: >-
       Hla Roushdy | هلا رشدي
@@ -67,64 +127,4 @@ profiles:
     id: ck135p9922jvj0i19lwa90gjs
     verified: true
     hashtags: ""
-  - username: "rhysmusic"
-    fullname: >-
-      Rhys 🤙🏼
-    bio: >-
-      sinGer
-    location: "United States"
-    followers: 6991
-    engagement: 529
-    commentsToLikes: 0.059304
-    id: ck5bv9brcj7xs0i11q0nhbg3n
-    verified: true
-    hashtags: "#itshits, #spotify, #dancinggirl, #cute"
-  - username: "aliardavan1"
-    fullname: >-
-      Ali Ardavan / علی اردوان
-    bio: >-
-      Singer
-    location: "United States"
-    followers: 284287
-    engagement: 1276
-    commentsToLikes: 0.062254
-    id: ck5q8w9bj89db0i11hf4b94eb
-    verified: false
-    hashtags: "#exame, #aliardavan, #persianrap, #octave"
-  - username: "madhuradharatalluri"
-    fullname: >-
-      Madhura Dhara Talluri
-    bio: >-
-      Singer
-    location: "United States"
-    followers: 11216
-    engagement: 1882
-    commentsToLikes: 0.010794
-    id: ck9wghhwytfmn0j78gh05ta2z
-    verified: false
-    hashtags: "#candid, #blackandwhite, #arrlive, #singer"
-  - username: "parahat.purje"
-    fullname: >-
-      PARAHAT PURJE
-    bio: >-
-      Singer
-    location: "Russia"
-    followers: 42297
-    engagement: 253
-    commentsToLikes: 0.014442
-    id: ck5hr1k86u3p20i11o3em3s3f
-    verified: false
-    hashtags: "#konsert, #asgabad, #parahatpurje, #mahripirkuliyeva"
-  - username: "realaminnima2"
-    fullname: >-
-      امین نیما - Aminnima
-    bio: >-
-      singer
-    location: "Iran"
-    followers: 76949
-    engagement: 77
-    commentsToLikes: 0.121091
-    id: ck6trs72s0s740j71r401332w
-    verified: false
-    hashtags: "#aminnima, #musicians, #likee, #text"
 ---

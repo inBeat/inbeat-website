@@ -1,11 +1,11 @@
 ---
-title: Top 10 TikTok Influencers In Porto In 2023
+title: Top 10 TikTok Influencers In Porto In 2024
 description: >-
-  Find top TikTok influencers in Porto in 2023. Most popular hashtags: #fyp #foryou #fy #portugal.
+  Find top TikTok influencers in Porto in 2024. Most popular hashtags: #fyp #foryou #fy #portugal.
 platform: TikTok
 hits: 42
-text_top: Discover the best TikTok profiles on inBeat.
-text_bottom: inBeat aggregates 42 TikTok influencers like this in Porto, Portugal for you to work with.
+text_top: See the top-rated TikTok accounts on inBeat.
+text_bottom: Our search engine aggregates 42 TikTok influencers like this in Porto, Portugal for you to collaborate.
 profiles:
   - username: "iasmynesampaio"
     fullname: >-

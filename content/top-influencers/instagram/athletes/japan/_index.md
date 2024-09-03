@@ -1,130 +1,130 @@
 ---
-title: Top 10 Athletes Instagram Influencers In Japan In 2023
+title: Top 10 Athletes Instagram Influencers In Japan In 2024
 description: >-
-  Find top athletes Instagram influencers in Japan in 2023. Most popular hashtags: #workout #fitness #athlete #training.
+  Find top athletes Instagram influencers in Japan in 2024. Most popular hashtags: #tokyo2020 #pilotabrasileira #teamturkey.
 platform: Instagram
-hits: 49
-text_top: Analyze the top-rated Instagram influencers on inBeat.
-text_bottom: inBeat aggregates 49 Instagram influencers like this in Japan for you to pitch.
+hits: 64
+text_top: See the top-rated Instagram accounts on inBeat.
+text_bottom: Our database aggregates 64 Instagram influencers like this in Japan for you to collaborate.
 profiles:
-  - username: "rosyulina"
+  - username: "melissacorinneb"
     fullname: >-
-      super srs racer gorl
+      Melissa | Canadian Olympian
     bio: >-
-      Motorsports Athlete | PREmature Racer | Pure Nerd Malaysian; part Japanese. RSTaichi | Petronas | ic! berlin | BetaTools | GoPro Dream: Nationals 😊
+      Melissa Bishop-Nriagu, Mom, @Nike Athlete, @Teamcanada 800m Record Holder — @nike |@thepolarjoeco|@b2ten| @grupponutrition | @manifesto_sport —
     location: "Japan"
-    followers: 113187
-    engagement: 524
-    commentsToLikes: 0.030842
-    id: ck9hblv2ohexb0j782yaqe18k
-    verified: false
-    hashtags: "#red, #exige, #humerus, #lotus"
-  - username: "ayakarate818"
-    fullname: >-
-      Ayaka Tadano／多田野彩香
-    bio: >-
-      🦋空手日本代表兼パーソナルトレーナー 🦋100歳まで動ける身体作り始めませんか？ 🦋lululemon shinjuku ambassador @lululemonjp 🦋FINALITE @finalite_athlete_cosme レッスンメニュー.料金はURLをチェック⬇️
-    location: "Japan"
-    followers: 14255
-    engagement: 744
-    commentsToLikes: 0.014874
-    id: ckapcfdqu3l700i781l1i31vw
-    verified: false
-    hashtags: "#shooting, #training, #lululemonjp, #japan"
-  - username: "cinogram__fit_"
-    fullname: >-
-      CINO💜🦄しのもん
-    bio: >-
-      bikini athlete👙💜 🥇19' NPCJ BEEF SASAKI bikini 🥇🥇18' SSA RCC/NOVICE Betty🏆overall sponsor💫 @season_bikini.japan ⇩パーソナル 質問🦄DM📩からお願いします⇩
-    location: "Japan"
-    followers: 15998
-    engagement: 572
-    commentsToLikes: 0.016512
-    id: ck9wcz9s9dbr10j78761wopdd
-    verified: false
-    hashtags: "#bikiniathlete, #happy, #positivevibes, #echtapparel"
-  - username: "saehatakeyama"
-    fullname: >-
-      Sae Hatakeyama
-    bio: >-
-      ・21 years old ・BMX Racer🇯🇵 #85 ・Red Bull Athlete ・@lululemonjp Store Ambassador 📍Kanagawa, Japan
-    location: "Japan"
-    followers: 9384
-    engagement: 1034
-    commentsToLikes: 0.008174
-    id: ck15utcneog580i19yle8oug7
+    followers: 34643
+    engagement: 571
+    commentsToLikes: 0.015754
+    id: ck5c6menp5qpp0i119fx01pp8
     verified: true
-    hashtags: "#bellbikehelmets, #bmx, #oakley, #bmxracing"
-  - username: "emiyanagimoto"
+    hashtags: "#girlmom, #shakethebear, #partner, #tokyo2020"
+  - username: "mayagnelson"
     fullname: >-
-      EMILY🧚‍♂️Emi Yanagimoto/柳本絵美🧡
+      Maya Nelson
     bio: >-
-      🦋 最高の未来を創るトレーナー 🦋 💃 笑顔が輝く顔ダンス😆🎵 👑 BEST BODY JAPAN 🥇×2 🥇 Muscle Contest Japan 🥈 Ms.Bikini in Vegas 📕 資格/NESTA PFT 🏋️‍♂️ Athlete @vqfit
+      2017 Junior World Champion 2021 Senior PanAm Champion 2021 Senior World Team Member @chain_wrestle Athlete
     location: "Japan"
-    followers: 44699
-    engagement: 325
-    commentsToLikes: 0.020129
-    id: ck5hopgi2pzgm0i116dxszsz7
+    followers: 10326
+    engagement: 672
+    commentsToLikes: 0.010394
+    id: ck0w413zqw9oz0i19j83vq5u2
+    verified: false
+    hashtags: "#thedreamcontinues, #punny, #wintersoldier, #wtt"
+  - username: "mariiaviicente"
+    fullname: >-
+      Maria Vicente
+    bio: >-
+      🇪🇸International athlete 🥇World Champion Nairobi 2017 🥇European Champion Borås 2019 🌏Tokio 2020ne 🇯🇵 🏃🏽‍♀️Miembro @becaspodium
+    location: "Japan"
+    followers: 62329
+    engagement: 1160
+    commentsToLikes: 0.011847
+    id: ck0vygnw43wda0i1990uxfkyz
+    verified: false
+    hashtags: "#tokyo2020, #olympicgames, #olympics"
+  - username: "yasemin.adar"
+    fullname: >-
+      Yasemin Adar Yiğit
+    bio: >-
+      #ilklerinkadını ⭐️Olympic Games 2020 Tokyo 🥉 🇹🇷6 EUROPEAN Champion🥇🥇🥇🥇🥇🥇 🇹🇷2 WORLD Champion🥇🥇 🇹🇷2 Akdeniz Oyunları🥇🥇 🤼‍♀️NIKE Athlete @balikesirbsb
+    location: "Japan"
+    followers: 45210
+    engagement: 2044
+    commentsToLikes: 0.018401
+    id: ck5zmd2bkmclg0i14xtactjkd
     verified: true
-    hashtags: "#vqfit, #vqfitwomen, #workout, #lowmel"
-  - username: "shosei_iwamoto"
+    hashtags: "#roadtotokyo, #teamturkey, #ilklerinkad, #serik"
+  - username: "tsukamotonanami"
     fullname: >-
-      Shosei Iwamoto / 岩本 将成
+      Nanami Tsukamoto
     bio: >-
-      from Japan🇯🇵 Tricking World Champion🌎🥇 Adrenaline Pro Athlete PLEASE SUBSCRIBE MY YOUTUBE!👇🏻
+      MOTOR SPORTS ATHLETE ☆Drift／Race／Rally ☆ Model ☆Japan Tokyo🇧🇷×🇯🇵×🇮🇹@nanami_beautynote #女性レーサー #initald #jdm #リアル真子 #世界一美しいレーサー#pilotabrasileira #ドリスピ
     location: "Japan"
-    followers: 113405
-    engagement: 698
-    commentsToLikes: 0.012184
-    id: ck0vwd05it56y0i19v4xdgf4c
+    followers: 100370
+    engagement: 486
+    commentsToLikes: 0.014597
+    id: ck6tzfdtw9d9z0j71qm8ye7vi
+    verified: false
+    hashtags: "#jdm, #ae86, #motorsportwoman, #pilotabrasileira"
+  - username: "janvolko"
+    fullname: >-
+      Ján Volko
+    bio: >-
+      Slovak T&F athlete🏃🏻‍♂️ Coach: Nada Bendová, Róbert Kresťanko Club: @nasaatletika 60m-6.55 100m-10.13 200m-20.24 @topathletics1 @STARSforSTARSnadacia
+    location: "Japan"
+    followers: 14846
+    engagement: 1123
+    commentsToLikes: 0.007020
+    id: ck6tu0ldydmm80j71onhbxcdp
+    verified: false
+    hashtags: "#nasasportovaakademia, #nasaatletika, #janvolko, #injuryrecovery"
+  - username: "kumagai1017"
+    fullname: >-
+      熊谷紗希/ Saki Kumagai
+    bio: >-
+      ⚽️Bayern München #3 🇩🇪- @fcbfrauen 🇯🇵Japanese National Team #4 👟PUMA Athlete - @pumajapan @pumafootball_jp 🙋🏻‍♀️ベンヌ所属 東京都世田谷区太子堂4-1-1 キャロットタワー14F
+    location: "Japan"
+    followers: 45217
+    engagement: 879
+    commentsToLikes: 0.007540
+    id: ck6004x8lcyg40i14uu7cqowk
     verified: true
-    hashtags: "#tricking, #pr, #japan, #tumdra"
-  - username: "camilastefaniu"
+    hashtags: "#nadeshiko, #daihyo, #tokyo2020, #alianzfcbwomenstour"
+  - username: "jessekriel15"
     fullname: >-
-      Camila 🇧🇷
+      Jesse Kriel
     bio: >-
-      Professional Parkour athlete • @themotusprojects • 🏆 2019 NAPC speed champion 🥈Skill NAPC 2019 🥉Style NAPC 4th Redbull art of motion 2019 Lisboa 📍
+      • Professional Rugby Player🇿🇦🇯🇵 • @canoneagles • @nike Athlete • @muscletech • Living my dream ✌🏼🏉
     location: "Japan"
-    followers: 19695
-    engagement: 1198
-    commentsToLikes: 0.017806
-    id: ck6txo1bwyvjb0j71wtn84t5j
-    verified: false
-    hashtags: "#portugal, #portrait, #lisboa, #movement"
-  - username: "latelier_del"
+    followers: 198721
+    engagement: 430
+    commentsToLikes: 0.003796
+    id: ck5capqlqdw030i11i4u1wbuj
+    verified: true
+    hashtags: "#lionsrugby, #iwcwatches, #thereference, #unforgettablemoment"
+  - username: "wjjleroux"
     fullname: >-
-      EL  エル
+      Willie Le Roux
     bio: >-
-      TRAVEL EAT FIT Founder CEO | Innsync Co. (株)インシンク 📷 photographer | stylist | art director 🌱 vegetarian athlete 👙 bikini competitor と、bikini屋さん
+      Professional rugby player 🇿🇦 | 🇯🇵 • Twitter - @wjjleroux • @nike athlete • @officialneolife • @toyota_sa
     location: "Japan"
-    followers: 15080
-    engagement: 250
-    commentsToLikes: 0.044596
-    id: ckap8x5b4q9u50i78y8qj3eli
-    verified: false
-    hashtags: "#foodstylist, #foodphotography, #forkfeed, #farmersmarket"
-  - username: "arslan.ash"
+    followers: 158839
+    engagement: 444
+    commentsToLikes: 0.006438
+    id: ck5capt6bdw5e0i11o4m2bj0r
+    verified: true
+    hashtags: "#excited, #heretostay, #adventureawaits, #intouchsports"
+  - username: "veronicayoko"
     fullname: >-
-      Arslan Ash
+      Veronica Yoko Plebani 🌸
     bio: >-
-      🏆 Unified Evo Champion 🎮 2019 ESPN Player of the year 🙌🏻 Pakistan’s first “Redbull Athlete”
+      Paralympic athlete born on Friday ✨ Triathlete in Tokyo 2020 🥉 Kayaker in Rio 2016 Snowboarder in Sochi 2014 @doom_entertainment
     location: "Japan"
-    followers: 25629
-    engagement: 949
-    commentsToLikes: 0.011761
-    id: ck5ca4ukccp270i114mctkl2v
+    followers: 85168
+    engagement: 388
+    commentsToLikes: 0.029386
+    id: ck0w49ejdxg1e0i19pntque1j
     verified: false
-    hashtags: "#memories, #swat, #fitness, #throwback"
-  - username: "dirtytrailrunner"
-    fullname: >-
-      Hiroki Ishikawa
-    bio: >-
-      Trail Runner.RaceProducer @patagoniajp @gregoryjapan @columbiamontrail_jp @magma_athlete @beach_hayama @newhale_japan @suuntojapan @toyotires_japan
-    location: "Japan"
-    followers: 10998
-    engagement: 1056
-    commentsToLikes: 0.003497
-    id: ck14j3clfif930i19kq4p66sd
-    verified: false
-    hashtags: "#superfeet, #powerbar, #suunto, #soto"
+    hashtags: "#scalpcare, #impossibleisnothing, #changemaker, #bottegaveneta"
 ---

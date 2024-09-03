@@ -1,11 +1,11 @@
 ---
-title: Top 10 Tattoo-Artists Instagram Influencers In Los Angeles In 2023
+title: Top 10 Tattoo-Artists Instagram Influencers In Los Angeles In 2024
 description: >-
-  Find top tattoo-artists Instagram influencers in Los Angeles in 2023. Most popular hashtags: #tattoo #losangeles #portrait.
+  Find top tattoo-artists Instagram influencers in Los Angeles in 2024. Most popular hashtags: #tattoo #tattooartist #losangeles.
 platform: Instagram
-hits: 131
-text_top: Discover the most popular Instagram profiles on inBeat.
-text_bottom: inBeat has 131 Instagram influencers like this in Los Angeles, United States for you to collaborate.
+hits: 145
+text_top: Identify the most popular Instagram accounts on inBeat.
+text_bottom: Our search engine holds 145 Instagram influencers like this in Los Angeles, United States for you to collaborate.
 profiles:
   - username: "katya_krasnova"
     fullname: >-
@@ -19,18 +19,6 @@ profiles:
     id: ck5ch03rupuz50i11wm2rape4
     verified: false
     hashtags: ""
-  - username: "manu_farrarons_tattoos"
-    fullname: >-
-      Manu Farrarons
-    bio: >-
-      • Tattoo Artist - Los Angeles • Air Tahiti Nui ambassador • Original creator of the feminine Tahitian flowy style • Polynesian tattoo from Tahiti
-    location: "United States"
-    followers: 32853
-    engagement: 84
-    commentsToLikes: 0.029296
-    id: ck5zvlqyz4h4b0i14s3yziryw
-    verified: false
-    hashtags: "#manufarraronsstyle, #manaotattoola, #polynesiantattoo, #tahiti"
   - username: "kyledevriesink"
     fullname: >-
       Kyle DeVries
@@ -43,18 +31,30 @@ profiles:
     id: ck55osl5491l10i11wmfdm669
     verified: false
     hashtags: "#kyledevriesink, #february"
-  - username: "tylerborich"
+  - username: "agnieszka.nienartowicz"
     fullname: >-
-      Tyler Borich
+      Agnieszka Nienartowicz artist
     bio: >-
-      Tattoo Artist | @memoirtattoo Los Angeles
+      Artist, painter
     location: "United States"
-    followers: 5387
-    engagement: 599
-    commentsToLikes: 0.065117
-    id: ck601pagifwy30i140a5bji9s
+    followers: 11197
+    engagement: 486
+    commentsToLikes: 0.021093
+    id: ck5zuaz8120tn0i14qjvv3gni
     verified: false
-    hashtags: "#occultarcana, #tattoos, #tttism, #blackwork"
+    hashtags: "#contemporarypainting, #artcollector, #realism, #copenhagenart"
+  - username: "gorajtattoo"
+    fullname: >-
+      Goraj Jarek
+    bio: >-
+      Tattoo artist from Poland Booking Poland/Łódź 🇵🇱 ➡️ gorajbooking@gmail.com
+    location: "United States"
+    followers: 29335
+    engagement: 241
+    commentsToLikes: 0.030157
+    id: ck5cgg6eios1s0i11i2lqqc6e
+    verified: false
+    hashtags: "#happy, #instatattoo, #movies, #animal"
   - username: "kanenavasard"
     fullname: >-
       Kane Navasard
@@ -79,6 +79,30 @@ profiles:
     id: ck0tw2hsqdqkq0i19o5ryy4qx
     verified: false
     hashtags: ""
+  - username: "raphbarrostattoos"
+    fullname: >-
+      Raphael Barros
+    bio: >-
+      🇺🇸🇧🇷 📍BOSTON Tattoo Artist @inkmaster8 Sponsored @intenzetattooink @intenzebrazil @fytsupplies @hustlebutterdeluxe @inkmapstattooapp App 👇🏼
+    location: "United States"
+    followers: 54103
+    engagement: 91
+    commentsToLikes: 0.110333
+    id: ck0w62twl6mpo0i19uywjx7bn
+    verified: false
+    hashtags: "#blessed, #newyorktattooartist, #raphaelbarrostattoo, #miamiinked"
+  - username: "inkbypnut"
+    fullname: >-
+      ⛩Sensei⛩ The Anime Godfather
+    bio: >-
+      Sponsor 👇🏿 @fytsuppliesusa_ 📍DALLAS +📍 LA+ ATL 🍄Owner of @1upink_tattoostudio and @1upinkwest
+    location: "United States"
+    followers: 160639
+    engagement: 707
+    commentsToLikes: 0.023730
+    id: ck6tnibnn9wgs0j71ga5lg989
+    verified: false
+    hashtags: "#naruto, #1upink, #losangelestattooartist, #anime"
   - username: "dotstolines"
     fullname: >-
       Chaim Machlev
@@ -103,28 +127,4 @@ profiles:
     id: ck5c6j4kv5jm30i119ah4ucw3
     verified: false
     hashtags: "#rostratattoo, #myhobby, #relax, #notforsale"
-  - username: "franco_vescovi"
-    fullname: >-
-      FRANCO VESCOVI
-    bio: >-
-      SOTHERN CALI BLACK N GREY TATTOOER since 1993. Owner of BISHOP ROTARY T2 MACHINES since 2008 & VATICAN STUDIOS OC #thankfull.
-    location: "United States"
-    followers: 81458
-    engagement: 130
-    commentsToLikes: 0.040804
-    id: ck15tt6onjrs70i19c5eoslyb
-    verified: false
-    hashtags: "#repost, #bishoprotary, #normforever, #boog"
-  - username: "louisevlundell"
-    fullname: >-
-      ⠀L O U I S E  VL
-    bio: >-
-      ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ◌ Ivory Tower ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ◌ Books closed atm. Contact studio for any questions💌⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀
-    location: "United States"
-    followers: 7655
-    engagement: 1063
-    commentsToLikes: 0.055612
-    id: ck6tk4e2t3zf80j71gbqnb978
-    verified: false
-    hashtags: "#tattoo, #cheyennetattooequipment, #tattoosweden, #inked"
 ---

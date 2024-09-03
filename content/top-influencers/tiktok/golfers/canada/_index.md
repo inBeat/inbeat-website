@@ -1,11 +1,11 @@
 ---
-title: Top 10 Golfers TikTok Influencers In Canada In 2023
+title: Top 10 Golfers TikTok Influencers In Canada In 2024
 description: >-
-  Find top golfers TikTok influencers in Canada in 2023. Most popular hashtags: #fyp #golf #canada #greenscreen.
+  Find top golfers TikTok influencers in Canada in 2024. Most popular hashtags: #fyp #golf #canada #golfer.
 platform: TikTok
 hits: 9
-text_top: See the best TikTok accounts on inBeat.
-text_bottom: inBeat aggregates 9 TikTok influencers like this in Canada for you to contact.
+text_top: See the top-rated TikTok profiles on inBeat.
+text_bottom: Our search engine aggregates 9 TikTok influencers like this in Canada for you to pitch.
 profiles:
   - username: "sydken08"
     fullname: >-
@@ -13,12 +13,12 @@ profiles:
     bio: >-
       Toronto 🇨🇦 Cat Mom 🐈 Golfer 🏌️‍♀️ Goof 🤪
     location: "Canada"
-    followers: 3785
-    engagement: 454
-    commentsToLikes: 0.036335
+    followers: 3751
+    engagement: 494
+    commentsToLikes: 0.028909
     id: ck8vybx92tr7l0j78ou2af6r3
     verified: false
-    hashtags: "#foryourpage, #petlover, #foryoupage, #toronto"
+    hashtags: "#tiktokcanada, #fyp, #golf, #petlover"
   - username: "leocaven"
     fullname: >-
       leocaven
@@ -110,9 +110,9 @@ profiles:
       Vancouver BC 🇨🇦 Send your clout certified content🎬 Be featured
     location: "Canada"
     followers: 13900
-    engagement: 337
-    commentsToLikes: 0.024024
+    engagement: 344
+    commentsToLikes: 0.023604
     id: ckai2fknofl6n0i78vns8wd0u
     verified: false
-    hashtags: "#guessmyprovince, #foryoupage, #fyp, #ftp"
+    hashtags: "#gold, #songofthesummer, #ftp, #sendit"
 ---

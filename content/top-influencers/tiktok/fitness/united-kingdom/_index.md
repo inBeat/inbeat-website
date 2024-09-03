@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fitness TikTok Influencers In United Kingdom In 2023
+title: Top 10 Fitness TikTok Influencers In United Kingdom In 2024
 description: >-
-  Find top fitness TikTok influencers in United Kingdom in 2023. Most popular hashtags: #fitness #duet #fyp #foryou.
+  Find top fitness TikTok influencers in United Kingdom in 2024. Most popular hashtags: #fyp #fitness #foryou #duet.
 platform: TikTok
-hits: 347
-text_top: See the best TikTok influencers on inBeat.
-text_bottom: Our platform holds 347 TikTok influencers like this in United Kingdom for you to connect with.
+hits: 353
+text_top: Discover the most popular TikTok accounts on inBeat.
+text_bottom: Our platform holds 353 TikTok influencers like this in United Kingdom for you to contact.
 profiles:
   - username: "natewareing"
     fullname: >-
@@ -19,6 +19,18 @@ profiles:
     id: ckaup1jmlu3tz0j23gmvsa1bs
     verified: false
     hashtags: "#england, #usa, #love, #slomo"
+  - username: "calzyy"
+    fullname: >-
+      Just vibing ok?
+    bio: >-
+      Just having fun Fitness coach app 💙⬇️
+    location: "United Kingdom"
+    followers: 384200
+    engagement: 1876
+    commentsToLikes: 0.028221
+    id: ck8w3787278kt0j78irxmpty2
+    verified: false
+    hashtags: "#relatable, #fyp, #fitness, #foryou"
   - username: "bemoreshonen"
     fullname: >-
       Chris ‘Cosplay’ Minney
@@ -42,7 +54,7 @@ profiles:
     commentsToLikes: 0.015135
     id: ckbff4m9m9lai0j23t0wl9qp8
     verified: false
-    hashtags: "#garniermaskmoment, #raybanelevatordance, #britsmover, #gymshark"
+    hashtags: "#duet, #booty, #britsmover, #gymshark"
   - username: "kaoticmovement"
     fullname: >-
       kaoticmovement
@@ -90,7 +102,7 @@ profiles:
     commentsToLikes: 0.030152
     id: ck81s3qx4prv40j78hsbaomp6
     verified: true
-    hashtags: "#theshirtlesschef, #learnontiktok, #tempstips, #easyrecipe"
+    hashtags: "#tempstips, #theshirtlesschef, #learnontiktok, #easyrecipe"
   - username: "sadatfitness"
     fullname: >-
       Sadatfitness 
@@ -115,16 +127,4 @@ profiles:
     id: ck97ww3ngsuaj0j7829gvajim
     verified: false
     hashtags: "#fitness, #fyp, #fitnesstiktok, #foryou"
-  - username: "hench_herbivore"
-    fullname: >-
-      Paul Kerton
-    bio: >-
-      Vegan Health/Fitness YouTuber
-    location: "United Kingdom"
-    followers: 7225
-    engagement: 993
-    commentsToLikes: 0.634303
-    id: ckbqv1380fbkj0j23ve0etbgb
-    verified: false
-    hashtags: "#vegan, #vegantiktok, #vegansoftiktok, #vegans"
 ---

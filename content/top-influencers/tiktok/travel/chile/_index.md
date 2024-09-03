@@ -1,11 +1,11 @@
 ---
-title: Top 10 Travel TikTok Influencers In Chile In 2023
+title: Top 10 Travel TikTok Influencers In Chile In 2024
 description: >-
-  Find top travel TikTok influencers in Chile in 2023. Most popular hashtags: #chile #fyp #travel #parati.
+  Find top travel TikTok influencers in Chile in 2024. Most popular hashtags: #chile #travel #fyp #parati.
 platform: TikTok
 hits: 28
-text_top: Identify the best TikTok accounts on inBeat.
-text_bottom: Our platform holds 28 TikTok influencers like this in Chile for you to work with.
+text_top: Analyze the most popular TikTok influencers on inBeat.
+text_bottom: Our database holds 28 TikTok influencers like this in Chile for you to pitch.
 profiles:
   - username: "beluviaja"
     fullname: >-
@@ -126,5 +126,5 @@ profiles:
     commentsToLikes: 0.024678
     id: ckdbnwp27au570j23wmqbc8k2
     verified: false
-    hashtags: "#fun, #tiktok, #tapatirapanui2021, #tiktokchile"
+    hashtags: "#viajero, #parati, #culture, #viaje"
 ---

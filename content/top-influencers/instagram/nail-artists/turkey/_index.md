@@ -1,11 +1,11 @@
 ---
-title: Top 10 Nail Artists Instagram Influencers In Turkey In 2023
+title: Top 10 Nail Artists Instagram Influencers In Turkey In 2024
 description: >-
-  Find top nail artists Instagram influencers in Turkey in 2023. Most popular hashtags: #nailart #nailsofinstagram #nailpolish #nail.
+  Find top nail artists Instagram influencers in Turkey in 2024. Most popular hashtags: #nailart #nail #nails #nailsofinstagram.
 platform: Instagram
-hits: 21
-text_top: Analyze the most popular Instagram profiles on inBeat.
-text_bottom: Our platform has 21 Instagram influencers like this in Turkey for you to pitch.
+hits: 20
+text_top: Discover the top-rated Instagram influencers on inBeat.
+text_bottom: Our database holds 20 Instagram influencers like this in Turkey for you to pitch.
 profiles:
   - username: "seniojeli"
     fullname: >-
@@ -61,12 +61,12 @@ profiles:
     bio: >-
       💅🏻 @ojeselinailbar 💅🏻 🎀Aseton kokusundan kafayı bulan kadın💕 Nailart 💅🏻 Makyaj 💄 Eğlence 🥳 Reklam ve iş birliği için DM 💐
     location: "Turkey"
-    followers: 62231
-    engagement: 201
-    commentsToLikes: 0.031801
+    followers: 57639
+    engagement: 193
+    commentsToLikes: 0.025511
     id: ck136ptja7o4t0i19qfyjfvj9
     verified: false
-    hashtags: "#nailart, #nailartist, #nailpolish, #nails"
+    hashtags: "#nailart, #naildesign, #nailpolish, #ojeseli"
   - username: "tuubisinblogu"
     fullname: >-
       ♡ тυυвίѕίnηвℓσgυ ♡
@@ -119,12 +119,12 @@ profiles:
     fullname: >-
       Esra🦋
     bio: >-
-      💅🏻Oje 💄Makyaj 🛍Bakım 🎈PR | İletişim İçin DM💌 🎈E-Mail: ojelitirnaklarr@gmail.com 📌Youtube Kanalıma Abone Olmak İçin👇🏻
+      💅🏻Oje 💄Makyaj 🛍Bakım 🎈PR | İletişim İçin DM💌 🎈Mail: ojelitirnaklarr@gmail.com
     location: "Turkey"
-    followers: 47819
-    engagement: 319
-    commentsToLikes: 0.181665
+    followers: 41118
+    engagement: 178
+    commentsToLikes: 0.027594
     id: ck13746bh9otr0i19h07l5l2p
     verified: false
-    hashtags: "#nailarts, #kes, #ojesizasla, #flormar"
+    hashtags: "#oje, #makeuptutorial, #ke, #nail"
 ---

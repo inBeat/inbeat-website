@@ -1,36 +1,24 @@
 ---
-title: Top 10 Models Instagram Influencers In San Diego In 2023
+title: Top 10 Models Instagram Influencers In San Diego In 2024
 description: >-
-  Find top models Instagram influencers in San Diego in 2023. Most popular hashtags: #sandiego #photography #model #artist.
+  Find top models Instagram influencers in San Diego in 2024. Most popular hashtags: #sandiego #model #beach #photography.
 platform: Instagram
-hits: 144
+hits: 177
 text_top: Discover the most popular Instagram accounts on inBeat.
-text_bottom: inBeat has 144 Instagram influencers like this in San Diego, United States for you to collaborate.
+text_bottom: Our search engine aggregates 177 Instagram influencers like this in San Diego, United States for you to connect with.
 profiles:
-  - username: "egilphoto"
+  - username: "nataldee"
     fullname: >-
-      ESTEBAN GIL | Photographer
+      Natalie Eddy 🌙✨
     bio: >-
-      🇨🇴 🏫 @steelandflintsociety ❤️ @magnetmod ❤️ @aftershootco ❤️ @holdfastgear ❤️ @dreambookspro Rated # 1 photographer in the world by my mother.
+      ✨ Welcome to my fairytale 🪄 Just a girl romanticizing her life one post at a time ☁️ Dreamy 🫧 Whimsical 🔮 Witchy 🎀 Plus-size model 🦢 San Diego + LA
     location: "United States"
-    followers: 11700
-    engagement: 604
-    commentsToLikes: 0.056204
-    id: ck6uhf46t8r3g0j71q1nc0q4q
+    followers: 124333
+    engagement: 52
+    commentsToLikes: 0.048690
+    id: ckmw1d8l86k350j23rdplk9fp
     verified: false
-    hashtags: "#weddingphotography, #weddingphotographer, #weddingday, #bride"
-  - username: "thebossmannmagazine"
-    fullname: >-
-      The Boss Mann Magazine
-    bio: >-
-      Award-winning publication. Stories that change lives!. Main page Download our App today!! iTunes | Google Play Store Los Angeles, CA
-    location: "United States"
-    followers: 11365
-    engagement: 520
-    commentsToLikes: 0.029661
-    id: ck15u9vk1m4wn0i19isio8z2s
-    verified: false
-    hashtags: "#bosslady, #love, #explorepage, #hollywood"
+    hashtags: "#holidayfashion, #plussizestyle, #cottagecorefashion, #femininedresses"
   - username: "tnt_18_"
     fullname: >-
       TNT💣 #18
@@ -54,31 +42,19 @@ profiles:
     commentsToLikes: 0.053382
     id: ck14kba3coo2j0i19vfnqfrgs
     verified: false
-    hashtags: "#mejuripartner, #ad, #mycalvins, #desertdecor"
-  - username: "robert_bennett_art"
+    hashtags: "#ad, #mycalvins, #mejuripartner, #joshuatree"
+  - username: "autumn.w00ds"
     fullname: >-
-      Robert M. Bennett
+      autumn • artist | author | adventurer
     bio: >-
-      artofbennett@gmail.com Backup: @robert_bennett_art_bkup Burning Man: @robert_bennett_bm
+      ✨ chasing thrifts and thrills 💌 dm for bookings ✒️ by @bammanagement
     location: "United States"
-    followers: 11070
-    engagement: 586
-    commentsToLikes: 0.056470
-    id: ck55p9j2za3mp0i11bgju3juy
+    followers: 4935
+    engagement: 264
+    commentsToLikes: 0.130164
+    id: cl0ireo5ukf2v0i230gie0by7
     verified: false
-    hashtags: "#artmodel, #picoftheday, #forthearts, #bw"
-  - username: "xavier.talton"
-    fullname: >-
-      Xavier Talton
-    bio: >-
-      YHLQMDLG Pro 🏀 turned Model / Influencer / Traveler Tiktok: 120k+ Inquiries: 📩 xaviertalton@yahoo.com
-    location: "United States"
-    followers: 19101
-    engagement: 242
-    commentsToLikes: 0.054090
-    id: ck8t43gc15djm0j78icf8iwr3
-    verified: false
-    hashtags: "#denver, #latinomodel, #workoutsbyx, #model"
+    hashtags: "#tattoomodel, #wig, #girlswithtattoos, #stockings"
   - username: "quinncidence8"
     fullname: >-
       Quinn B
@@ -126,5 +102,29 @@ profiles:
     commentsToLikes: 0.027403
     id: ck0vwf9obtev20i1939m6oeq0
     verified: false
-    hashtags: "#gtbmxfreestyle, #ridedemo, #goodtimes, #bmx"
+    hashtags: "#ridedemo, #gtbmx, #bmxstreet, #goodtimes"
+  - username: "gregchauvin"
+    fullname: >-
+      Greg Chauvin
+    bio: >-
+      💪🏻 Personal Trainer(fitness/nutrition) 📚NASM PT Certification/Equinox 👉🏻Build/tone/lose weight 📩 training@gregchauvin.com
+    location: "United States"
+    followers: 20353
+    engagement: 415
+    commentsToLikes: 0.054609
+    id: ck138qqhuhjog0i19mrz34tia
+    verified: false
+    hashtags: "#commitment, #trainer, #boy, #beach"
+  - username: "chuck_bilgrien"
+    fullname: >-
+      Chuck Bilgrien
+    bio: >-
+      Taking a break from modeling to focus waffels and beer Criminally seductive Inquires: david@dtmodelmanagement.com
+    location: "United States"
+    followers: 32484
+    engagement: 1398
+    commentsToLikes: 0.019847
+    id: ck0vv2cvnn7xt0i199k2euxkg
+    verified: false
+    hashtags: "#sandiego, #model, #summer, #fun"
 ---

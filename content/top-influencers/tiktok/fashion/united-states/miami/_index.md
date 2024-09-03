@@ -1,12 +1,48 @@
 ---
-title: Top 10 Fashion TikTok Influencers In Miami In 2023
+title: Top 10 Fashion TikTok Influencers In Miami In 2024
 description: >-
-  Find top fashion TikTok influencers in Miami in 2023. Most popular hashtags: #fyp #miami #fashion #foryou.
+  Find top fashion TikTok influencers in Miami in 2024. Most popular hashtags: #miami #fashion #fyp #style.
 platform: TikTok
-hits: 108
-text_top: See the top-rated TikTok profiles on inBeat.
-text_bottom: Our search engine has 108 TikTok influencers like this in Miami, United States for you to work with.
+hits: 112
+text_top: Discover the most popular TikTok profiles on inBeat.
+text_bottom: Our search engine has 112 TikTok influencers like this in Miami, United States for you to contact.
 profiles:
+  - username: "maddie_burch"
+    fullname: >-
+      Maddie Burch 
+    bio: >-
+      FL girl🕊☀️🌸🍊 cooler on instagram → @maddie_burch ⚡️shop my clothing boutique↓
+    location: "United States"
+    followers: 202500
+    engagement: 1374
+    commentsToLikes: 0.020901
+    id: ck9reo85335gq0j787hvz38ct
+    verified: false
+    hashtags: "#miami, #tiktokggt, #styleinspo, #miamibeach"
+  - username: "sheafilling"
+    fullname: >-
+      Shea Filling
+    bio: >-
+      Motivation. Beauty. Fashion. ⬇️ IG: @sheafilling
+    location: "United States"
+    followers: 21200
+    engagement: 862
+    commentsToLikes: 0.021167
+    id: ckcuh2019fgki0j236nkoz8q2
+    verified: false
+    hashtags: "#life, #travel, #classy, #happiness"
+  - username: "vogueissue"
+    fullname: >-
+      💎
+    bio: >-
+      
+    location: "United States"
+    followers: 35800
+    engagement: 301
+    commentsToLikes: 0.057116
+    id: ckc7rsgwvwvo00j23vq4073jw
+    verified: false
+    hashtags: "#traveltiktok, #fashiontiktok, #birthday, #vacation"
   - username: "daria.koso.photo"
     fullname: >-
       DARIA KOSO | photo
@@ -19,42 +55,42 @@ profiles:
     id: ckbwinvlt3d860j23r32z8was
     verified: false
     hashtags: "#foryoupage, #posing, #bts, #fyp"
-  - username: "stephaniecosmopolitan"
+  - username: "zofiacampos"
     fullname: >-
-      Steph Cosmopolitan
+      Tik Toker
     bio: >-
-      Style, beauty and luxury posts. Visit me on IG @stephaniecosmopolitan
+      Instagram blogger 💕 @zofiacampos Fashion 💕 Fitness 💕Mommy 💕Wife 💕 Travel
     location: "United States"
-    followers: 13000
-    engagement: 659
-    commentsToLikes: 0.023711
-    id: ck8w59eqa9niq0j78hcqe3odh
+    followers: 43500
+    engagement: 468
+    commentsToLikes: 0.043292
+    id: ckb9chtagza9c0j23zujmtis7
     verified: false
-    hashtags: "#fyp, #ootdinspo, #photoshootposes, #overshareinyourunderwear"
-  - username: "iamnadiamoore_"
+    hashtags: "#abs, #latina, #fit, #mexicana"
+  - username: "shopnessaxvs"
     fullname: >-
-      Nadia Moore
+      NESSA
     bio: >-
-      20✨ IG: Iamnadiamoore_ YouTube: IamNadiaMoore_ 📩collabwithnadia@gmail.com
+      Latina-Owned Boutique✨ Use code TIKTOK for 10% OFF
     location: "United States"
-    followers: 253000
-    engagement: 1473
-    commentsToLikes: 0.040306
-    id: ck931p1p4fmew0j78es7wa7x9
+    followers: 14100
+    engagement: 538
+    commentsToLikes: 0.020331
+    id: ckcp0s5n4axj20j23hyxaecqm
     verified: false
-    hashtags: "#funny, #beach, #plt, #relatable"
-  - username: "daniduqued"
+    hashtags: "#smallbizowner, #smallbusinesscheck, #smallbusinessowner, #smallbusinesstips"
+  - username: "siennadiaz._"
     fullname: >-
-      Daniduqued
+      Sienna Diaz
     bio: >-
-      Blogger/Content creator IG: @daniduqued
+      it’s not my fault you’re like obsessed with me or something
     location: "United States"
-    followers: 79500
-    engagement: 564
-    commentsToLikes: 0.114618
-    id: ck83ze1kuzx5q0j785dpzcl3r
+    followers: 17300
+    engagement: 1448
+    commentsToLikes: 0.120829
+    id: ck9jx7mmxzj0c0j78gd0cjt7k
     verified: false
-    hashtags: "#dothescottsslide, #turbotaxlivepick6, #thisorthatsblv, #getreadywitholdspice"
+    hashtags: "#outfitinspo, #style, #mystyle, #fyp"
   - username: "jpark_fit"
     fullname: >-
       Jeremy Park
@@ -67,30 +103,6 @@ profiles:
     id: ck85cpw8e2waf0j78buzx5qh1
     verified: true
     hashtags: "#jparkfit, #workout, #gains, #fyp"
-  - username: "maddie_burch"
-    fullname: >-
-      Maddie Burch 
-    bio: >-
-      FL girl🕊☀️🌸🍊 cooler on instagram → @maddie_burch ⚡️shop my clothing boutique↓
-    location: "United States"
-    followers: 202500
-    engagement: 1374
-    commentsToLikes: 0.020901
-    id: ck9reo85335gq0j787hvz38ct
-    verified: false
-    hashtags: "#styleinspo, #miamibeach, #miami, #foryou"
-  - username: "shopnessaxvs"
-    fullname: >-
-      NESSA
-    bio: >-
-      Latina-Owned Boutique✨ Use code TIKTOK for 10% OFF
-    location: "United States"
-    followers: 14000
-    engagement: 586
-    commentsToLikes: 0.020822
-    id: ckcp0s5n4axj20j23hyxaecqm
-    verified: false
-    hashtags: "#fashioninspo, #styleinspo, #fashion, #biztips"
   - username: "angielandaburu"
     fullname: >-
       Angie Landaburu
@@ -114,17 +126,5 @@ profiles:
     commentsToLikes: 0.055463
     id: ckc7cc3djm0130j23zbcl9yrq
     verified: false
-    hashtags: "#leogirlfriend, #onestepcloser, #vacation, #policeoftiktok"
-  - username: "jennaharwoodofficial"
-    fullname: >-
-      it’s me jenna
-    bio: >-
-      ⭐️it’s me Jenna⭐️ Instagram: @jennaharwoodofficial
-    location: "United States"
-    followers: 64000
-    engagement: 681
-    commentsToLikes: 0.067840
-    id: ckdswvvanqixu0j23jxjorb9b
-    verified: false
-    hashtags: "#luxury, #bridgerton, #dothescottsslide, #trending"
+    hashtags: "#vacation, #onestepcloser, #maine, #leogirlfriend"
 ---

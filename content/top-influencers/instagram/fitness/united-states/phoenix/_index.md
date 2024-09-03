@@ -1,12 +1,24 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Phoenix In 2023
+title: Top 10 Fitness Instagram Influencers In Phoenix In 2024
 description: >-
-  Find top fitness Instagram influencers in Phoenix in 2023. Most popular hashtags: #fitness #love #workout #arizona.
+  Find top fitness Instagram influencers in Phoenix in 2024. Most popular hashtags: #fitness #love #workout #phoenix.
 platform: Instagram
-hits: 94
-text_top: See the top-rated Instagram influencers on inBeat.
-text_bottom: inBeat aggregates 94 Instagram influencers like this in Phoenix, United States for you to contact.
+hits: 104
+text_top: Discover the most popular Instagram profiles on inBeat.
+text_bottom: Our platform aggregates 104 Instagram influencers like this in Phoenix, United States for you to connect with.
 profiles:
+  - username: "maryanne_rosee"
+    fullname: >-
+      Maryanne Rose
+    bio: >-
+      Marketing coach • Agent • Agency owner I help real estate professionals scale online 📲 Digital marketing agency owner 🏡 Real estate @thepanozzoteam
+    location: "United States"
+    followers: 17025
+    engagement: 455
+    commentsToLikes: -0.169275
+    id: cl84grbez1mgu0i23f61cegtg
+    verified: false
+    hashtags: "#agencyowner, #digitalmarketer, #businessowner, #digitalmarketingagency"
   - username: "krystalmeraz"
     fullname: >-
       Phoenix
@@ -18,31 +30,55 @@ profiles:
     commentsToLikes: 0.028050
     id: ck5bz3qs9qdz80i112gepy5f9
     verified: false
-    hashtags: "#queenv, #academyofvillains, #fbf, #aov"
-  - username: "thepilatesblonde"
+    hashtags: "#quarantine, #phoenixaov, #happymothersday, #choreographybyphoenix"
+  - username: "highsteph"
     fullname: >-
-      katie dudley barbieri
+      Steph Davis
     bio: >-
-      OWNER of @studiob__pilates 🐝🔆 REFORMER PILATES • FITNESS • NUTRITION MB + NB 💕
+      climber▫️base jumper▫️speaker▫️sponsored by Kavu • Yeti • Tenaya • Mammut • Osprey • Gnarly
     location: "United States"
-    followers: 5819
-    engagement: 764
-    commentsToLikes: 0.031942
-    id: ckaoz5eh0kg3g0i78to29m7b0
-    verified: false
-    hashtags: "#peakpilates, #classicalpilates, #fitness, #skippack"
-  - username: "dabigswole"
-    fullname: >-
-      Big Swole
-    bio: >-
-      👑 Swole Mentality 💪🏿 All Elite Wrestling Star 📺 On TNT Wednesdays 8/7c 🌍 #SwoleWorld 🤝🏾 Booking info: bigswoleworld@gmail.com
-    location: "United States"
-    followers: 40408
-    engagement: 542
-    commentsToLikes: 0.022962
-    id: ck5zkqj9bjz2u0i14pff5ftre
+    followers: 104172
+    engagement: 124
+    commentsToLikes: 0.016258
+    id: ck55piciwamct0i11rnumdno1
     verified: true
-    hashtags: "#love, #saucyswole, #bigswole, #sauce"
+    hashtags: "#teamevolv, #busylivin, #climbing, #climbingwall"
+  - username: "brittanydawnfit"
+    fullname: >-
+      Brittany Dawn
+    bio: >-
+      1ON1-GROUP-ONLINE TRAINING💪🏼 Master Trainer/Nutritionist 🎓 @vertimax CPT Reflect what you desire ✨🦄 #WomenEmpowerment
+    location: "United States"
+    followers: 28701
+    engagement: 293
+    commentsToLikes: 0.070247
+    id: ckapawtnbxriz0i78mnpg6acb
+    verified: false
+    hashtags: "#legday, #instagood, #phoenix, #fitwomen"
+  - username: "lifestylejules"
+    fullname: >-
+      Julie Werner Xander
+    bio: >-
+      Fitness,Fashion,Wellness, Beauty, Real estate, Restaurants. 49 year old mom of 3 who tries It all. follow me for education, discounts and fun!
+    location: "United States"
+    followers: 225521
+    engagement: 359
+    commentsToLikes: 0.004210
+    id: ck5hkn3tdiq760i11cn7nyfgt
+    verified: false
+    hashtags: "#entrepreneur, #fredastairedancestudioparadisevalley, #realestate, #julesandrobert"
+  - username: "realabrahamcorella"
+    fullname: >-
+      ABRAHAM CORELLA
+    bio: >-
+      Men’s Fashion | Lifestyle | Coffee | Fitness TikTok: RealAbrahamCorella (150K) 📍Phoenix, AZ 👇🏼Shop for items from my videos
+    location: "United States"
+    followers: 58622
+    engagement: 488
+    commentsToLikes: 0.024297
+    id: cloxohibs07880j08bvkpeqgq
+    verified: false
+    hashtags: "#mensfashiontips, #streetstylist, #styletips, #mensstyleguide"
   - username: "phoenix_montoya"
     fullname: >-
       Phoenix Montoya
@@ -55,76 +91,40 @@ profiles:
     id: ck5cbxamdgc3w0i11mybl75z9
     verified: false
     hashtags: "#love, #checkin, #ftm, #physique"
-  - username: "serdariusblain"
+  - username: "wendylynnmyers"
     fullname: >-
-      Ser'Darius Blain
+      Wendy Myers
     bio: >-
-      @topshelfgetaways CEO #actor #Jumanji #Charmed #Survivorsremorse #TheBigLeap #father #leader #endtoxicmasculinity #mentalhealth #mendfamilies 🇭🇹 🇺🇸
+      🔥Trauma Informed Wellness Coach - I HELP PEOPLE LIVE THEIR LIFE TO THE FULLEST🔥 DM me “PHOENIX“ for 1-on-1 coaching ( fitness, nutrition, life,trauma)
     location: "United States"
-    followers: 37813
-    engagement: 192
-    commentsToLikes: 0.074859
-    id: ckaoz7qa5kqrb0i78jidxas9f
-    verified: true
-    hashtags: "#thebigleap, #movie, #tv, #fox"
-  - username: "brass_lmonkey"
-    fullname: >-
-      𝕷𝖎𝖟𝖆 - 𝕲𝖎𝖗𝖑👧🏼𝖜/𝖆 𝕸𝖚𝖘𝖈𝖑𝖊 𝕮𝖆𝖗
-    bio: >-
-      Brass Monkey 🐒 Dodge Charger SRT 392 Rollin on 22’s 🤙🏽 Christ 1st 👑 Fitness 🏃🏽‍♀️💪🏽🦵🏽🤸🏼🧘🏼‍♀️🏋🏼‍♀️ Car Girl 👧🏼 Mopar Selfie 🤳🏽 Queen
-    location: "United States"
-    followers: 14645
-    engagement: 500
-    commentsToLikes: 0.079975
-    id: ck8sx6gbngben0j78v05pl621
+    followers: 76575
+    engagement: 84
+    commentsToLikes: 0.117507
+    id: ckap8y06gqdo20i78b2cea89p
     verified: false
-    hashtags: "#parkupfront, #moparmuscle, #dodge, #moparnation"
-  - username: "phxrunnergurl"
+    hashtags: "#inspire, #traumainformed, #goals, #lifecoach"
+  - username: "kim_hildreth"
     fullname: >-
-      Brandilynn☀️🌵
+      Kim Hildreth | Health Coach | Pro Beach Volleyball
     bio: >-
-      ✨ Life's a garden. Dig it! ✨ #Sunshine chaser 🌞 Nature lover 🌈💚 Veggie🥑 Aspiring #trailrunner Phoenix, #Arizona 🌵🤘 13.1 x 14 26.2 x 4
+      Pro Beach 🏐 FIVB 🇺🇸 | AVP Learning to thrive ☝🏻 day at a time 🫶🏻 @nowfoodsofficial @thebodyelectricyoga @fringeheals @dirtproductgroup 📍 St Pete, FL
     location: "United States"
-    followers: 6643
-    engagement: 610
-    commentsToLikes: 0.176532
-    id: ck0tx5qevi18w0i19nf7uuwrv
+    followers: 10367
+    engagement: 592
+    commentsToLikes: 0.036668
+    id: cl2yncbf7wjdf0i23xdixf03t
     verified: false
-    hashtags: "#instarunners, #hiking, #trails, #nature"
-  - username: "ifbbpronicki"
+    hashtags: "#nowfoodsofficial, #avptour, #motivation, #avpamerica"
+  - username: "jamessturgis_fit"
     fullname: >-
-      Nicki Chartrand Ifbb Pro
+      James Sturgis
     bio: >-
-      Livin the dream! IFBB Pro 🏆8th Olympia 2020 🏆6th Rising Phoenix World Championships 2020 Queen of conscious fitness!
+      [21] [fitness] [music] [lifestyle] TikTok: jasturgis9 ‼️ 20% @buckedup ‼️ Use code: Jsturgis9 YouTube: JamesAsturgis Bucked up link⬇️⬇️
     location: "United States"
-    followers: 48029
-    engagement: 150
-    commentsToLikes: 0.050537
-    id: ck9hboybbhtmv0j78xhk5uvj5
+    followers: 53194
+    engagement: 623
+    commentsToLikes: 0.041188
+    id: ckw1cakq0gjni0j23hamnte6o
     verified: false
-    hashtags: "#ifbbprofessionalleague, #ifbbpro, #train, #bodybuilding"
-  - username: "alyssagermeroth"
-    fullname: >-
-      Alyssa Germeroth
-    bio: >-
-      Yoga 🧘‍♀️ fitness 🤸‍♂️ Arizona ☀️
-    location: "United States"
-    followers: 99132
-    engagement: 212
-    commentsToLikes: 0.024352
-    id: ck5pygwx2vykg0i11qv22q2fn
-    verified: false
-    hashtags: "#sedona, #azliving, #arizona, #handstand"
-  - username: "sayyed_arham_ali_"
-    fullname: >-
-      ꜱᴀʏʏᴇᴅ ᴀʀʜᴀᴍ علي
-    bio: >-
-      | Since:-4.june | Udaipur. 📍 | 0|||||||||0 🛣 | Creative content creator.💡 | Allhamdulilah for everything.✌ #phoenix 🔥 #lonewolf ❄ #wanderlusting 🌍
-    location: "United States"
-    followers: 3343
-    engagement: 994
-    commentsToLikes: 0.128568
-    id: ck8tb2tlbu3l40j780jnaz3r7
-    verified: false
-    hashtags: "#gujju, #potraitphotography, #instagood, #insta"
+    hashtags: "#fitness, #inspiration, #fitnessmotivation, #explore"
 ---

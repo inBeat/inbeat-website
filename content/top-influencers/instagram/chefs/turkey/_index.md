@@ -1,130 +1,130 @@
 ---
-title: Top 10 Chefs Instagram Influencers In Turkey In 2023
+title: Top 10 Chefs Instagram Influencers In Turkey In 2024
 description: >-
-  Find top chefs Instagram influencers in Turkey in 2023. Most popular hashtags: #tarif #instagood #chefs.
+  Find top chefs Instagram influencers in Turkey in 2024. Most popular hashtags: #reklam #lezzet #repost #food.
 platform: Instagram
-hits: 137
-text_top: Analyze the best Instagram influencers on inBeat.
-text_bottom: Our search engine holds 137 Instagram influencers like this in Turkey for you to contact.
+hits: 142
+text_top: Analyze the most popular Instagram influencers on inBeat.
+text_bottom: inBeat holds 142 Instagram influencers like this in Turkey for you to collaborate.
 profiles:
-  - username: "serifeaksoy"
+  - username: "gursmehmet"
     fullname: >-
-      Serife Aksoy
+      Mehmet Gürs
     bio: >-
-      👩🏻‍🍳 Chef&Permaculture Designer 📺 24Kitchen “à la şerife“ 🎓 LeCordonBleu GrandDiplome🥇 👩🏻‍🌾 Royalbotanic garden 💻 www.serifeaksoy.com
+      Official Account Chef&Food Entrepreneur
     location: "Turkey"
-    followers: 189636
-    engagement: 378
-    commentsToLikes: 0.026336
-    id: ck6ue50gdouw70j71v6005es9
-    verified: false
-    hashtags: "#repost, #temelaksoy, #womensupportingwomen, #istanbulso"
-  - username: "adeneksi"
+    followers: 121120
+    engagement: 313
+    commentsToLikes: 0.011088
+    id: ck6ts2e0h2d7t0j71e3uv99j0
+    verified: true
+    hashtags: "#creativity, #uzaktaneg, #designinspiration, #film"
+  - username: "hatibon"
     fullname: >-
-      Aden Ekşi
+      Hatibon
     bio: >-
-      Mutfağınızın gizli chefleriyiz. www.adenkemiksuyu.com www.kangrubunagorebeslen Tafed ailesi üyesi Chef holistik beslenme uzmanı
+      Chef/co-owner @ilmulinobodrum Food blogger • Sweet tooth 🥖🍔🧁🥧🍰🍫🍨🍞🍕🥪🍩 İŞBİRLİKLERİ İÇİN DM/e-mail
     location: "Turkey"
-    followers: 33868
-    engagement: 40
-    commentsToLikes: 0.076158
-    id: ckap950yar6eb0i781q3xrabz
+    followers: 38987
+    engagement: 271
+    commentsToLikes: 0.044350
+    id: ck8tavbnft7tk0j788agqqthr
     verified: false
-    hashtags: "#kediler, #yaramazkediler, #challengeaccepted, #kad"
-  - username: "minnosrider"
+    hashtags: "#limonlutart, #tarteauxfraises, #po, #zerde"
+  - username: "margauxthecook"
     fullname: >-
-      İlayda DEMİRCİ
+      Doğa Huriye Özkaya
     bio: >-
-      NKÜ - BESYO Swim Coach 🏊🏻‍♀️ Sailor ⛵️ Lifeguard ⛑ Chef 👩🏼‍🍳 🇹🇷 🇧🇬
+      Engineer•Chef•Advisor Hürriyet Yazar https://www.hurriyet.com.tr/yazarlar/doga-huriye-ozkaya/ Menu & Social Media Advisor www.margauxthecook.com
     location: "Turkey"
-    followers: 7000
-    engagement: 1285
-    commentsToLikes: 0.017510
-    id: ck14in226g7jq0i19b5hlndfc
+    followers: 411931
+    engagement: 254
+    commentsToLikes: 0.053123
+    id: ck5q4iy39p66m0i111xziwpn4
     verified: false
-    hashtags: "#motorcyle, #ridergirl, #nakedsport, #bajajturkiye"
-  - username: "jaleblc"
+    hashtags: "#kolayb, #pratiktarifler, #reklam, #pratikyemekler"
+  - username: "dilek_yetkiner"
     fullname: >-
-      jbalci
+      Dilek Yetkiner
     bio: >-
-      Chef, Yemek kitabı yazarı, cookbookauthor Catering Şefi, Antiochia concept Restoran Kurucusu, Lokanta Farina, Menü Danışmanı Foodstylist
+      📍Chef 📍Yemek Stilisti 📍Menü Danışmanı & Ege ve Mübadil Mutfağı 📍dyetkiner2016@gmail.com ❤️❤️❤️ U R L A
     location: "Turkey"
-    followers: 37061
-    engagement: 406
-    commentsToLikes: 0.098455
-    id: ck5qb7tcbk92o0i11hmc5fdqq
+    followers: 55517
+    engagement: 172
+    commentsToLikes: 0.011493
+    id: ckap2pm99zrtl0i781q3s6xgh
     verified: false
-    hashtags: "#tbt, #tadindayolculuk, #saraymuhallebicisi, #jalebalc"
+    hashtags: "#urlamutfa, #lezzet, #iliklikemiksuyu, #zeytinya"
+  - username: "cigdemseferoglu"
+    fullname: >-
+      Cigdem Seferoglu
+    bio: >-
+      Chef & Owner HODAN @hodanistanbul
+    location: "Turkey"
+    followers: 110809
+    engagement: 132
+    commentsToLikes: 0.024795
+    id: ck5q8oc0k761x0i11kbsp71x9
+    verified: false
+    hashtags: "#repost, #cesaretverenkad, #mardindensofralara, #istanbulrestaurantlar"
+  - username: "danilozanna"
+    fullname: >-
+      Danilo Zanna
+    bio: >-
+      @filodoliotr Italian chef. 🇮🇹🍝🔪 Masterchef Turkiye İletisim@danilozanna.com
+    location: "Turkey"
+    followers: 2145471
+    engagement: 123
+    commentsToLikes: 0.016023
+    id: ck0txk61jjhju0i1963qxpp1d
+    verified: true
+    hashtags: "#acunnmedya, #graphicdesign, #edits, #reklam"
+  - username: "yemekle_bitmez"
+    fullname: >-
+      Mehmet Ay
+    bio: >-
+      @kaburgacimemet @pacacimemet @kftkofteci @cihan_et Kendi çapında usta🔪 Sosyete tabirle chef 🧑‍🍳 Gurme degil 👊 Okullu değil alaylı🔆
+    location: "Turkey"
+    followers: 191027
+    engagement: 86
+    commentsToLikes: 0.029009
+    id: ck1393uxrjdt90i19zax0qkrs
+    verified: false
+    hashtags: "#izmir, #tavuk, #kaburga, #ci"
   - username: "ece.zaim"
     fullname: >-
       Ece Zaim
     bio: >-
-      Chef | Cookbook Author | Food Stylist | Tv Cook İletişim;ecezaimiletisim@gmail.com 💌 Açık Mutfak'ın 10. baskısı web sitemde satışta.
+      Chef | Cookbook Author | Food Stylist | Founder @simplepleasuresofeveryday
     location: "Turkey"
-    followers: 322788
-    engagement: 242
-    commentsToLikes: 0.027937
+    followers: 416578
+    engagement: 76
+    commentsToLikes: 0.014041
     id: ck0w3nn40ubvc0i19ghhyaf48
     verified: false
-    hashtags: "#zaiming, #ecezaimtarifi, #tarif, #me"
+    hashtags: "#reklam, #zaiming, #tarif, #ecezaimtarifi"
   - username: "aydanustkanat"
     fullname: >-
       Aydan Ustkanat
     bio: >-
-      Gourmand Best of The World Chef/Photographer #yapyepaylas #mevsimindeyemek
+      Gourmand 2021 Yılın Yazarı Chef/Photographer #şekersiz #mevsimindeyemek #aydanınkahvaltısı
     location: "Turkey"
-    followers: 152808
-    engagement: 151
-    commentsToLikes: 0.043820
+    followers: 237458
+    engagement: 56
+    commentsToLikes: 0.011717
     id: ck13483jdv6ib0i19a81vfru7
     verified: true
-    hashtags: "#yemek, #yar, #aydanustkanat, #yapyepaylas"
-  - username: "chefeyupkemalsevinc"
+    hashtags: "#ankayemekbirle, #aydan, #sosyalsorumluluk, #unutmayaca"
+  - username: "ozlemmekik"
     fullname: >-
-      eyüp kemal sevinç
+      Özlem Mekik / İçerik üreticisi / Şef / İşletmeci
     bio: >-
-      Chef & Owner 🔪 EKS Culinary Academy @eksmutfakakademi #eksmutfak @gourmetandstyling #gourmetandstyling YouTube Kanalımız 👇🏻
+      İşletmeci, Şef & İçerik Üreticisi #business #chef #contentcreator
     location: "Turkey"
-    followers: 85287
-    engagement: 165
-    commentsToLikes: 0.114411
-    id: ck5q4j6uqp6yb0i111aduxa4e
+    followers: 685094
+    engagement: 48
+    commentsToLikes: 1.601383
+    id: ck5q4j7s5p70x0i11iguff63t
     verified: true
-    hashtags: "#gastromedya, #ey, #gourmetandstyling, #youtube"
-  - username: "bulentchef"
-    fullname: >-
-      Bülent Tokatlı
-    bio: >-
-      Profesyonel #aşcı #şef #chef #bulentchef #danışman #egitmen #counselor #tvshow #gastronomer #menu Sevgini bıçağa , ruhunu ateşe vereceksin.♨️🔪🔪🔪♨️
-    location: "Turkey"
-    followers: 22235
-    engagement: 535
-    commentsToLikes: 0.420037
-    id: ckap9571er7590i781ba161kk
-    verified: false
-    hashtags: "#objektifimden, #hayvanlar, #awesome, #hayat"
-  - username: "chefyunusemre"
-    fullname: >-
-      Yunus Emre Yılmaz
-    bio: >-
-      🇹🇷 National team chef Twitch.tv/MUTFAK Antalya - İzmir @gastronotnet - Founder @sozlukgastronomi - Yazar Gastro Quiz - Founder 📰 Köşe yazarı
-    location: "Turkey"
-    followers: 35405
-    engagement: 314
-    commentsToLikes: 0.046499
-    id: ck14kxjq9rtln0i19oc98mefc
-    verified: false
-    hashtags: "#michelinstars, #gourmetdinner, #foodartchefs, #paintingfood"
-  - username: "mehmet_cheff"
-    fullname: >-
-      Mehmet GEZEN
-    bio: >-
-      🐙🔪YENİ NESİL CHEF 🔪 🦑 İletişim:👉 İnfo@cheffbros.com -ANKARA-TÜRKİYE🇹🇷 👇YouTube👇
-    location: "Turkey"
-    followers: 1501536
-    engagement: 328
-    commentsToLikes: 0.011376
-    id: ck0u6eezf1p2w0i19ne7udd25
-    verified: false
-    hashtags: "#mehmetchef, #yeninesilchef, #mehmetgezen, #kamuspotu"
+    hashtags: "#ozlemmekik, #meze, #repost, #kad"
 ---

@@ -1,24 +1,36 @@
 ---
-title: Top 10 Mma Fighters Instagram Influencers In France In 2023
+title: Top 10 Mma Fighters Instagram Influencers In France In 2024
 description: >-
-  Find top mma fighters Instagram influencers in France in 2023. Most popular hashtags: #mma #mmafighter #ufc #fight.
+  Find top mma fighters Instagram influencers in France in 2024. Most popular hashtags: #mma #fight #combat #fighter.
 platform: Instagram
-hits: 9
-text_top: Discover the top-rated Instagram accounts on inBeat.
-text_bottom: Our platform holds 9 Instagram influencers like this in France for you to work with.
+hits: 8
+text_top: Analyze the top-rated Instagram profiles on inBeat.
+text_bottom: Our platform has 8 Instagram influencers like this in France for you to pitch.
 profiles:
   - username: "taylor_d.i_lapilus"
     fullname: >-
       Taylor Double Impact
     bio: >-
-      🇫🇷 Pro MMA fighter 16-3 @ufc Vet 3-1 @gmc_mma 135/145lbs🏆 @tkommaofficial_ 135lbs 🏆 @rmc_sport Analyst @mma_factory_paris @luckylucianopizza Co Owner
+      🇫🇷 MMA fighter 18-3 @ufc Fighter @ares_fighting 135lbs 🏆 @gmc_mma 135/145lbs🏆 @tkommaofficial_ 135lbs 🏆 @rmc_sport Analyst @luckylucianopizza Co Owner
     location: "France"
-    followers: 19641
-    engagement: 334
-    commentsToLikes: 0.043300
+    followers: 33219
+    engagement: 342
+    commentsToLikes: 0.042596
     id: ck5pxgsgxro9e0i110u50y1kc
     verified: true
-    hashtags: "#fight, #rmcsport, #dakar, #mmafighter"
+    hashtags: "#combat, #fen, #champion, #fighter"
+  - username: "lazykingmma"
+    fullname: >-
+      ABDOUL  ABDOURAGUIMOV
+    bio: >-
+      👑 | The Lazy King 🥊 | MMA fighter @pflmma 🦥 | Former double champ @ares_fighting 🏆 | 18-1#Bogoss 💫 | Egérie @sora___dora 📩 | lazykingmma@gmail.com
+    location: "France"
+    followers: 85769
+    engagement: 689
+    commentsToLikes: 0.011096
+    id: clexewlpskplt0j08iylnr3ts
+    verified: false
+    hashtags: "#lazyking, #fight, #sport, #grappling"
   - username: "corinnelaframboise"
     fullname: >-
       Corinne Laframboise
@@ -31,18 +43,6 @@ profiles:
     id: ck6tszr917r670j718v1nbq8n
     verified: false
     hashtags: "#mma, #legacy420, #headrush, #xpnworld"
-  - username: "wilsonvarela.off"
-    fullname: >-
-      Wilson Varela
-    bio: >-
-      Kick-boxer / MMA fighter and content creator - Partenaire @sport2000plandecampagne -10% - @elgatoFRA - MANAGEMENT @managementfactory
-    location: "France"
-    followers: 112141
-    engagement: 459
-    commentsToLikes: 0.009725
-    id: ck9wgba8csnpe0j786x214dw5
-    verified: false
-    hashtags: "#vamos, #nubai, #vamoscomtudo, #gladiator"
   - username: "jtrues"
     fullname: >-
       Josh Truesdell
@@ -67,18 +67,6 @@ profiles:
     id: ck5cad62ud7fn0i11j2r0fwtj
     verified: false
     hashtags: ""
-  - username: "benoitst_denis"
-    fullname: >-
-      Benoît"God of War"Saint Denis
-    bio: >-
-      - Pro MMA fighter🇫🇷 📍Paris @venumtrainingcamp - Bulgarian Top Team 🥊 - Ex French SAS ⚔️ - Athlete @nutrimuscle With @lalou_croft 💍
-    location: "France"
-    followers: 6369
-    engagement: 1315
-    commentsToLikes: 0.036030
-    id: ck5cgxbsjpptc0i11lz407yvc
-    verified: false
-    hashtags: "#venumtrainingcampparis, #venum, #grappling, #armeedeterre"
   - username: "thewill.mma"
     fullname: >-
       William « JAGUAR 🐆 » Gomis
@@ -91,6 +79,18 @@ profiles:
     id: ck5hj7c52g51c0i11tb853eo3
     verified: false
     hashtags: "#mmalife, #croyezenvous, #combattant, #bellatormma"
+  - username: "anissameksen"
+    fullname: >-
+      Anissa Meksen
+    bio: >-
+      🥊 | 🇫🇷 🇩🇿 🇹🇭 🏆 | 122F-118W-35KO 🥊 | 18 times World Champion 👟 | Coaching 🥊 Sneakers head 👟 🤝 | @noccofrance @rinkagefight 📖 | Linktree 📕 📺
+    location: "France"
+    followers: 137497
+    engagement: 658
+    commentsToLikes: 0.025165
+    id: ck5cc6ktjgt5l0i111t33a0fs
+    verified: true
+    hashtags: "#muaythai, #me, #boxing, #fun"
   - username: "yoannkongolo"
     fullname: >-
       Yoann Kongolo
@@ -103,16 +103,4 @@ profiles:
     id: ck6tx47bzvq8k0j71bt8wauaf
     verified: false
     hashtags: "#day, #mma, #fighter, #yk"
-  - username: "papou_lele"
-    fullname: >-
-      Papou Lele
-    bio: >-
-      Snaketeam fighter @bellatormma @bellatorfrance 🇨🇵 4 fois champion de France 🇪🇺 2 ceintures européennes de MMA 🏆 2 ceintures internationales de MMA
-    location: "France"
-    followers: 6206
-    engagement: 808
-    commentsToLikes: 0.033920
-    id: ck5hgpb3d40pl0i11j9v212fp
-    verified: false
-    hashtags: "#w4l, #mixedmartialarts, #train, #muaythai"
 ---

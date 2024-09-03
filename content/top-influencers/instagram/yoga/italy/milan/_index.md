@@ -1,36 +1,36 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Milan In 2023
+title: Top 10 Yoga Instagram Influencers In Milan In 2024
 description: >-
-  Find top yoga Instagram influencers in Milan in 2023. Most popular hashtags: #yoga #yogaitalia #milano #yogamilano.
+  Find top yoga Instagram influencers in Milan in 2024. Most popular hashtags: #yoga #yogainspiration #yogaitalia #yogamilano.
 platform: Instagram
-hits: 47
-text_top: Discover the most popular Instagram profiles on inBeat.
-text_bottom: Our search engine has 47 Instagram influencers like this in Milan, Italy for you to collaborate.
+hits: 60
+text_top: See the best Instagram influencers on inBeat.
+text_bottom: Our database aggregates 60 Instagram influencers like this in Milan, Italy for you to work with.
 profiles:
-  - username: "claudia__casanova"
+  - username: "robertamigliarese"
     fullname: >-
-      Claudia Casanova
+      Roberta Migliarese l Yoga e Naturopatia
     bio: >-
-      ❤️ Pratica con me su @yome_digital 🤸🏽‍♂️ Creator of Nusa Mat 🧘🏽‍♀️Power Yoga teacher 🌟Biomed engineer 📍Milan #claudia4yoga #nusamat
+      • Impara a prenderti cura di te • Esplora la sinergia tra Yoga e Naturopatia • Naturopata, Insegnante Yoga e Personal Trainer • Consulenze e Lezioni
     location: "Italy"
-    followers: 76347
-    engagement: 188
-    commentsToLikes: 0.029616
-    id: ck5hph094rcft0i11qhz6jnrd
+    followers: 43752
+    engagement: 267
+    commentsToLikes: 0.053190
+    id: ck5zqu73tvate0i14ddn7lqkg
     verified: false
-    hashtags: "#weekend, #praticayoga, #verticale, #yoga"
-  - username: "beatrice__mazza"
+    hashtags: "#yogapositive, #yogapractice, #feedoptimism, #yogalifestyle"
+  - username: "giadacampanella"
     fullname: >-
-      Bea • Yoga Teacher & Trainer
+      Giada Campanella • Yoga | Retreats
     bio: >-
-      [ pausa maternità - Rebel ] Alleno consapevolmente e insegno yoga Il mio podcast #bodymindfultraining Parlo di consapevolezza e crescita femminile
+      ⋒ Yoga Teacher🧘🏼‍♀ॐ ispiro a connettere corpo, respiro e movimento al ritmo della vita ❥ Retreat in giro per il 🌍☟Pratiche a Milano&Online
     location: "Italy"
-    followers: 29839
-    engagement: 590
-    commentsToLikes: 0.030102
-    id: ck139yd7xnqdh0i19mxyb6o7f
+    followers: 21022
+    engagement: 140
+    commentsToLikes: 0.005287
+    id: ck8tcna0700bv0j78bv8fejkw
     verified: false
-    hashtags: "#puerperio, #gravidanzaincorso, #gravidanzaconsapevole, #crescitapersonale"
+    hashtags: "#nature, #yoogi, #dietazona, #adv"
   - username: "sognalopensalorealizzalo"
     fullname: >-
       Sognalo Pensalo Realizzalo👑
@@ -43,18 +43,6 @@ profiles:
     id: ckf5tpln7iejr0j23dua1zunc
     verified: false
     hashtags: "#lovetodance, #theatre, #fotografia, #picoftheday"
-  - username: "martina__rando"
-    fullname: >-
-      MartinaRando | #READYSETYOGA
-    bio: >-
-      Pratica con me su @yome_digital 🇮🇹 Autrice di @smartyogabook 🇮🇹 Creator of @ready_set_yoga 🇮🇹 🇬🇧 Classes on YouTube 🇮🇹 🇬🇧 Practice with me ⬇️
-    location: "Italy"
-    followers: 350064
-    engagement: 98
-    commentsToLikes: 0.013649
-    id: ck0tyja9ln2bj0i191tubdyc8
-    verified: true
-    hashtags: "#insegnanteyoga, #yogavideo, #yome, #yogatutorial"
   - username: "fabiofilippi"
     fullname: >-
       Fabio Filippi
@@ -79,6 +67,30 @@ profiles:
     id: ckf5kyx1xnq500j23f1nj5az8
     verified: false
     hashtags: "#clickfor, #mountainlife, #nikonitalia, #moments"
+  - username: "beatrice__mazza"
+    fullname: >-
+      Bea - Yoga al femminile -  spiritualita - movimento consapevole
+    bio: >-
+      💫ti accompagno nella tua evoluzione corpo e mente 🌕 con lo yoga e il movimento per vivere in armonia qui e ora 🎙️spazio di consapevolezza podcast
+    location: "Italy"
+    followers: 36265
+    engagement: 321
+    commentsToLikes: 0.076023
+    id: ck139yd7xnqdh0i19mxyb6o7f
+    verified: false
+    hashtags: "#cambiamento, #allenamentoconsapevole, #mammafelice, #crescitaspirituale"
+  - username: "martina_sergi"
+    fullname: >-
+      🌙 Martina Sergi
+    bio: >-
+      yoga | flexibility | wellness | food founder @yome_digital & @we_are_yuna collab:martina.sergi@spacesports.it
+    location: "Italy"
+    followers: 434081
+    engagement: 31
+    commentsToLikes: 0.030464
+    id: ck13b72l5u03l0i19yhhm8ozk
+    verified: true
+    hashtags: "#yoga, #lanzarote, #yogaitalia, #yogainstructor"
   - username: "stefyogicoach"
     fullname: >-
       Stefy| Yoga Sports Coach
@@ -103,28 +115,16 @@ profiles:
     id: ckaoqzlqbl2j10i78oz982ttg
     verified: false
     hashtags: "#perledisaggezza, #immaginazione, #spazio, #saggezza"
-  - username: "gloria_bianchi4"
+  - username: "nandaisaia"
     fullname: >-
-      Gloria Bianchi
+      Nanda
     bio: >-
-      @missmondoitalia 2013 @donnavventuralive Social media inquiries gloriabianchi04@gmail.com ℒ𝒾𝓋𝑒 𝑒𝓋𝑒𝓇𝓎𝓉𝒽𝒾𝓃𝑔 𝓈𝓉𝓇𝑜𝓃𝑔 𝒶𝓃𝒹 𝒷𝑒 𝑔𝓇𝒶𝓉𝑒𝒻𝓊𝓁
+      in nyc 🦋 Marilyn nyc | Select london | Women milan Yoga Teacher
     location: "Italy"
-    followers: 103017
-    engagement: 110
-    commentsToLikes: 0.027665
-    id: ck6tx7hoiw99t0j71udz7o3u1
+    followers: 12685
+    engagement: 346
+    commentsToLikes: 0.036808
+    id: ck5btt66qgk5u0i11wn279f32
     verified: false
-    hashtags: "#lagodicomo, #sunday, #white, #liujoshoes"
-  - username: "fraintesa"
-    fullname: >-
-      FRANCESCA 📿 Content Creator 📷
-    bio: >-
-      🇮🇹 Italian Explorer • 🌱Veg • 🇦🇺expert mTNBC fighter. Ho raccolto 18K€ per la ricerca e ho fatto il giro del mondo da sola per raccontare la mia storia
-    location: "Italy"
-    followers: 75213
-    engagement: 191
-    commentsToLikes: 0.094297
-    id: ck55op58d8tmn0i114wbsy47k
-    verified: true
-    hashtags: "#viaggiare, #milano, #ig, #tumorealseno"
+    hashtags: "#pangaiaactivewear, #editorial, #campaign, #greece"
 ---

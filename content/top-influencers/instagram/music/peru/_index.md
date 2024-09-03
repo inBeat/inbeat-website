@@ -1,12 +1,84 @@
 ---
-title: Top 10 Music Instagram Influencers In Peru In 2023
+title: Top 10 Music Instagram Influencers In Peru In 2024
 description: >-
-  Find top music Instagram influencers in Peru in 2023. Most popular hashtags: #musica #cuarentena #trap.
+  Find top music Instagram influencers in Peru in 2024. Most popular hashtags: #musica #cuarentena #cuarentenacreativa.
 platform: Instagram
-hits: 288
-text_top: See the top-rated Instagram profiles on inBeat.
-text_bottom: Our search engine aggregates 288 Instagram influencers like this in Peru for you to pitch.
+hits: 277
+text_top: Identify the most popular Instagram accounts on inBeat.
+text_bottom: Our search engine has 277 Instagram influencers like this in Peru for you to pitch.
 profiles:
+  - username: "sanderalex1"
+    fullname: >-
+      Sander Alex
+    bio: >-
+      Guitarrista • Prod Musical • Creador Contenido 🇵🇪 🎸 @difoniaperu, @lajoyarock y Solista 🤝 #Amphenol, @leatherstraps.co 🚨70% dscto en mi curso!👇🏼
+    location: "Peru"
+    followers: 108218
+    engagement: 476
+    commentsToLikes: 0.016696
+    id: ckf5xlcqvw30b0j23titq5a6k
+    verified: false
+    hashtags: "#lespaulcustom, #gibsoncustom, #gibsonguitars, #guitarsolo"
+  - username: "emiliadides"
+    fullname: >-
+      EMI D
+    bio: >-
+      Soy cantante 🎙️ Me encanta hacer música Miss Chile 2024 🇨🇱✨ Miss pasarela 2024 🦋 Rumbo a Miss Universo! Contacto: emiliadides0629@gmail.com
+    location: "Peru"
+    followers: 335054
+    engagement: 590
+    commentsToLikes: 0.020070
+    id: ck6uhuicgbbyc0j71vnhieaox
+    verified: true
+    hashtags: "#notengopololo, #cuandotenia, #hmchile, #tuexpertoenapple"
+  - username: "sebastianzerene"
+    fullname: >-
+      Z E R E N É
+    bio: >-
+      Cantante/Compositor/Productor Musical 🎶 @buhamusic / 🎥 @buhafilms MGMT: @dimeloyepo ⠀⠀ Contactoszerene@gmail.com 💿 💿
+    location: "Peru"
+    followers: 82401
+    engagement: 210
+    commentsToLikes: 0.016637
+    id: ck6uht9bnb46m0j717r74r7io
+    verified: true
+    hashtags: "#lollapelusiando, #pielespoderosas, #theiconslevis, #ad"
+  - username: "amygutierrezperu"
+    fullname: >-
+      Amy Gutiérrez
+    bio: >-
+      Cantante y actriz 🇵🇪 Management @musicnesoficial +51 936099712 ESCUCHA MI DISCO #VALIENTE 💖
+    location: "Peru"
+    followers: 1286674
+    engagement: 99
+    commentsToLikes: 0.014012
+    id: ck5zrce1iwbmt0i14ertf42j2
+    verified: true
+    hashtags: "#publicidad, #valiente, #qu, #diadelshopping"
+  - username: "mariohart"
+    fullname: >-
+      M A R I O   H A R T
+    bio: >-
+      EL PILOTO CANTANTE - DERRAPANDO FLOW 💨🎶 Booking oficial: +51984709688 9 títulos nacionales en automovilismo deportivo ⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️ Mi música 👇
+    location: "Peru"
+    followers: 1213077
+    engagement: 89
+    commentsToLikes: 0.018474
+    id: ck5zje621hffz0i141xd483xx
+    verified: true
+    hashtags: "#mariohart, #conductorprofesional, #experienciadelujo, #estilodevidadeportivo"
+  - username: "gala_brie"
+    fullname: >-
+      GALA
+    bio: >-
+      música | artista ✨ 🎤💌 booking: @hazlalinda
+    location: "Peru"
+    followers: 43748
+    engagement: 39
+    commentsToLikes: 0.943904
+    id: ck14htwb1c49b0i199xu25dax
+    verified: true
+    hashtags: "#galabrie, #permitir, #fyp, #pumahouse"
   - username: "santymolinab"
     fullname: >-
       Santy Molina
@@ -55,76 +127,4 @@ profiles:
     id: ck0ud6kqfiejb0i19d8dml1uv
     verified: false
     hashtags: "#hastalamielamarga, #youtube, #vasallorarpormi, #mujeresdelregionalmexicano"
-  - username: "anaisvivas"
-    fullname: >-
-      Anais Vivas
-    bio: >-
-      Cantante venezolana 🇻🇪 • UM Frost School of Music 🙌🏼 • Diseño Floral: @aniskacreations 🌸💕
-    location: "Peru"
-    followers: 80191
-    engagement: 281
-    commentsToLikes: 0.059314
-    id: ck5ckmr0rx6yq0i11nxusl26p
-    verified: true
-    hashtags: "#billofrometa, #renatocapriles, #caracas453, #caracas"
-  - username: "denissemalebran"
-    fullname: >-
-      denisse malebran
-    bio: >-
-      Letras y música. Antípoda ♾ 👇🏼
-    location: "Peru"
-    followers: 72683
-    engagement: 218
-    commentsToLikes: 0.049493
-    id: ck5pvvqkyjv7u0i11mw1o79g6
-    verified: true
-    hashtags: "#sincuerpo, #arbol, #hilar, #pedrito"
-  - username: "santimundo"
-    fullname: >-
-      Santiago Ezequiel Mundo
-    bio: >-
-      Cantante 🇦🇷 Músico ❤ Productor🎹🎶🎸🎤🎛 Música-Teatro 💥 Mis trabajos los podes ver en @santaprod
-    location: "Peru"
-    followers: 4709
-    engagement: 1031
-    commentsToLikes: 0.170033
-    id: ck5heo77etxzq0i11f9xxdh4k
-    verified: false
-    hashtags: "#underground, #musica, #casa, #encasa"
-  - username: "benelgringo"
-    fullname: >-
-      Benjamin Lopez Ferrigno
-    bio: >-
-      📈📉📈📉📈 Bay Area📍👶🏼🇵🇪, 🧔🏻🇺🇸 Traveler 🧳 Tourist 🌎 TeamBrocoli 🥦... Business iQ: spanglishben@gmail.com Music YouTube link:
-    location: "Peru"
-    followers: 293874
-    engagement: 509
-    commentsToLikes: 0.018092
-    id: ck5ck8dliwcn00i11mr0k9b0q
-    verified: true
-    hashtags: "#infiel, #vaquero, #peruano, #youtube"
-  - username: "ignacioserranob"
-    fullname: >-
-      Ignacio Serrano
-    bio: >-
-      Cantante y compositor 📩Social: ignacioserrano@go-talents.com 📩Music: albertocervera@cersa.es Escucha mi nuevo single "4:20" ⭐️⭐️
-    location: "Peru"
-    followers: 38703
-    engagement: 440
-    commentsToLikes: 0.038302
-    id: ck8szo6b1p41h0j78v1eptusf
-    verified: false
-    hashtags: "#noquisisteverlo, #yslbeauty, #publi, #whynot"
-  - username: "maxiespindola"
-    fullname: >-
-      Maxi Espindola
-    bio: >-
-      Cantante, Compositor, Productor Integrante de @mya_musica 🇦🇷 esteban@myamusica.com - ENTRADAS 🎫
-    location: "Peru"
-    followers: 705212
-    engagement: 469
-    commentsToLikes: 0.005943
-    id: ck5bw0rwukrsy0i110qp4su7s
-    verified: true
-    hashtags: "#tequieroxeso, #vueltaalmundo, #fuistemia, #nobailopatichallenge"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Outdoors Instagram Influencers In Japan In 2023
+title: Top 10 Outdoors Instagram Influencers In Japan In 2024
 description: >-
-  Find top outdoors Instagram influencers in Japan in 2023. Most popular hashtags: #outdoors #outdoorlife #camp #camping.
+  Find top outdoors Instagram influencers in Japan in 2024. Most popular hashtags: #outdoors #camp #camping #outdoorlife.
 platform: Instagram
-hits: 152
-text_top: Discover the most popular Instagram accounts on inBeat.
-text_bottom: Our platform holds 152 Instagram influencers like this in Japan for you to connect with.
+hits: 153
+text_top: Analyze the best Instagram influencers on inBeat.
+text_bottom: inBeat has 153 Instagram influencers like this in Japan for you to work with.
 profiles:
   - username: "hannelune"
     fullname: >-
@@ -31,6 +31,30 @@ profiles:
     id: ck0w6vq29ahqt0i19u6svyvbg
     verified: false
     hashtags: "#woodsman, #bonfire, #camplife, #primitive"
+  - username: "captainstag"
+    fullname: >-
+      CAPTAIN STAG （キャプテンスタッグ）
+    bio: >-
+      アウトドア用品の総合ブランドCAPTAIN STAG(キャプテンスタッグ)です。 製品の使いやすさ、購入しやすさを第一に考え、より快適で、より楽しいアウトドアライフをサポートすべく、総合的な商品展開を目指しています。
+    location: "Japan"
+    followers: 127954
+    engagement: 133
+    commentsToLikes: 0.000704
+    id: ck5cbdey0f7r90i11obcbcu2i
+    verified: false
+    hashtags: "#camp, #outdoors, #outdoor, #camping"
+  - username: "emilyyt.wu"
+    fullname: >-
+      ℰℳ
+    bio: >-
+      ιт'ѕ αмαzιиg ωнαт α fєω ∂αуѕ ιи иαтυяє ¢αи ∂σ fσя α ѕσυℓ 🌲🌲🐺⛺️🌲🌲 秘境探索 | 戶外料理 | 野營露營 Camping lover | Nature addict 🇹🇼Taiwan #如何讓台灣看起來很厲害 💌合作請私小盒子
+    location: "Japan"
+    followers: 14654
+    engagement: 653
+    commentsToLikes: 0.014070
+    id: ck139edl5kwez0i192hktns2l
+    verified: false
+    hashtags: "#hiking, #taiwan, #outdoors, #taiwanmountain"
   - username: "felix.turem"
     fullname: >-
       Felix Turem
@@ -103,28 +127,4 @@ profiles:
     id: ck9wevldcm1b70j78w95p2waj
     verified: false
     hashtags: "#beautiful, #lovemountains, #mountainlife, #outdoorlife"
-  - username: "jin.6616"
-    fullname: >-
-      Jin( ͡° ͜ʖ ͡°)outdoors
-    bio: >-
-      金沢市 Kanazawa, Japan. キャンプ⛺️アウトドア🏕野営🌲モーターサイクル🏍ヨンマル 💸 camping trip⛺️outdoors🏕motorcycle 🏍landcruiser BJ46
-    location: "Japan"
-    followers: 4840
-    engagement: 1387
-    commentsToLikes: 0.054585
-    id: ck0w5cukj30r80i19g8ic0bb3
-    verified: false
-    hashtags: "#gooutdoors, #survivalgear, #bushcraftlife, #wintercamping"
-  - username: "ryujitskasheer"
-    fullname: >-
-      🌲Ryuji🌲
-    bio: >-
-      Kumamoto , JAPAN 🇯🇵 outdoor / nature / camp / bushcraft / diy 🌲🔥⚔️☕️🌲 @pelican @trume.jp @temite_official
-    location: "Japan"
-    followers: 6131
-    engagement: 1153
-    commentsToLikes: 0.029045
-    id: ck0u1ows8xkiw0i19l522b4ky
-    verified: false
-    hashtags: "#outdoorlife, #karrimorsf, #outdooraddict, #bushcraft"
 ---

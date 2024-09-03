@@ -1,12 +1,24 @@
 ---
-title: Top 10 Models Instagram Influencers In Chicago In 2023
+title: Top 10 Models Instagram Influencers In Chicago In 2024
 description: >-
-  Find top models Instagram influencers in Chicago in 2023. Most popular hashtags: #model #chicagophotographer #chicago.
+  Find top models Instagram influencers in Chicago in 2024. Most popular hashtags: #model #photography #chicago.
 platform: Instagram
-hits: 255
-text_top: Identify the top-rated Instagram influencers on inBeat.
-text_bottom: Our search engine has 255 Instagram influencers like this in Chicago, United States for you to collaborate.
+hits: 299
+text_top: Discover the top-rated Instagram influencers on inBeat.
+text_bottom: inBeat has 299 Instagram influencers like this in Chicago, United States for you to work with.
 profiles:
+  - username: "teraohara"
+    fullname: >-
+      Tera O'Hara Fashion Model
+    bio: >-
+      ( #silverhair Influencer, Mother, Beekeeper, Yogi). Wilhelmina NY 📍Ford Models Chicago📍CGM Miami 📍Mrs Robinson UK 📧For Inquiries: rdeal@fordmodels.com
+    location: "United States"
+    followers: 19711
+    engagement: 313
+    commentsToLikes: 0.126852
+    id: ckx0v0il4zcj30j23x6t2abbs
+    verified: false
+    hashtags: "#silverhair, #bts, #silverhairmodel, #setlife"
   - username: "maliyahlondyn"
     fullname: >-
       Maliyah Londyn
@@ -79,18 +91,6 @@ profiles:
     id: ck6tqrsnntmh90j71ub1siyfp
     verified: false
     hashtags: ""
-  - username: "promotions_27"
-    fullname: >-
-      PROMOTING/SPORTS/MODELING
-    bio: >-
-      MODELS/MODELOS/BOXING/RAP GAME/MÚSICA BUSINESSES WELCOME/NEGOCIOS BIENVENIDOS CHICAGO/MIAMI
-    location: "United States"
-    followers: 48836
-    engagement: 93
-    commentsToLikes: 0.017212
-    id: ck6tkboa04dtq0j71ejunf8zj
-    verified: false
-    hashtags: "#miketyson, #mexico, #modeling, #promote"
   - username: "katarina.arriaga.music"
     fullname: >-
       Katarina Arriaga
@@ -103,28 +103,28 @@ profiles:
     id: ck6u433xo1err0j7199makhlw
     verified: false
     hashtags: "#dallashiphop, #miamihiphop, #femalerapper, #independentwoman"
-  - username: "dannysmitherss"
+  - username: "stefangoncalvez"
     fullname: >-
-      danny smithers 🦋🐬💙
+      Stefan Goncalvez
     bio: >-
-      isaiah 41:10 🌊 sports performance volleyball @cuimvolleyball commit ‘25
+      @joffreyballet From Brazil/Uruguay Living in Chicago
     location: "United States"
-    followers: 4466
-    engagement: 2376
-    commentsToLikes: 0.134095
-    id: ck9hctcfymvww0j78x264zhlv
+    followers: 16128
+    engagement: 879
+    commentsToLikes: 0.024963
+    id: ck6tproalm6po0j71afmi3mq6
     verified: false
-    hashtags: "#jj, #outerbanks, #model, #chicagomodels"
-  - username: "gretameyle"
+    hashtags: "#sand, #legs, #muscle, #body"
+  - username: "chelseavaughn"
     fullname: >-
-      GRETA 💋
+      Chelsea Vaughn
     bio: >-
-      - ꜰᴏʀᴇᴠᴇʀ ᴀꜱᴘɪʀɪɴɢ ᴛᴏ ʙᴇ ᴛʜᴇ ʙʟᴏɴᴅᴇ ᴀᴜᴅʀᴇʏ ʜᴇᴘʙᴜʀɴ - 💃🏼 ENFP 🙏🏼 psalm 91 ✨ BLM ◼️ Model @therockagency chi bookings: ntennicott@therockagency.com
+      Both my bio & I are a WIP Host of Vaughnerable podcast 🎙👇🏾
     location: "United States"
-    followers: 2974
-    engagement: 1002
-    commentsToLikes: 0.118530
-    id: ck5cd848eipf30i11wxld6sfj
+    followers: 111496
+    engagement: 234
+    commentsToLikes: 0.034036
+    id: cl1vb27sud7450i23iigx0699
     verified: false
-    hashtags: "#talentscout, #chicagomua, #chicagophotographer, #chicagobride"
+    hashtags: "#marriage, #mydsw, #bachelornation, #vaughnerable"
 ---

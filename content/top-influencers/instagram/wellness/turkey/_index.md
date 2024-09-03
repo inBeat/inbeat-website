@@ -1,24 +1,48 @@
 ---
-title: Top 10 Wellness Instagram Influencers In Turkey In 2023
+title: Top 10 Wellness Instagram Influencers In Turkey In 2024
 description: >-
-  Find top wellness Instagram influencers in Turkey in 2023. Most popular hashtags: #healthylifestyle #instagood #hijab #kiloverme.
+  Find top wellness Instagram influencers in Turkey in 2024. Most popular hashtags: #healthylifestyle #herbalife #hijab.
 platform: Instagram
-hits: 27
+hits: 32
 text_top: Analyze the most popular Instagram profiles on inBeat.
-text_bottom: Our search engine holds 27 Instagram influencers like this in Turkey for you to connect with.
+text_bottom: inBeat has 32 Instagram influencers like this in Turkey for you to connect with.
 profiles:
+  - username: "anastasiianas"
+    fullname: >-
+      Anastasia | Bali model & ugc creator
+    bio: >-
+      A visual diary of my life in Bali with a toy poodle, modeling, life aesthetic, wellness, photo and video creation
+    location: "Turkey"
+    followers: 11467
+    engagement: 565
+    commentsToLikes: 0.019985
+    id: ck6tkj0nw4su10j712fiq025y
+    verified: false
+    hashtags: "#indonesia, #canggu, #bali"
   - username: "ojemrujumrimelim"
     fullname: >-
       Nihal Kanık
     bio: >-
-      Beauty | Wellness | Lifestyle | Skincare Social Media & Influencer Marketing Yeni Video⬇️
+      Beauty | Skincare | Wellness | Lifestyle Yeni Video⬇️
     location: "Turkey"
-    followers: 272662
-    engagement: 58
-    commentsToLikes: 0.105558
+    followers: 428735
+    engagement: 103
+    commentsToLikes: 0.026455
     id: ck8t91bqqmlhq0j78ie2isgu5
     verified: false
-    hashtags: "#summer, #sundayfunday, #sa, #helpturkey"
+    hashtags: "#al, #5te5ojemrujumrimelim, #ciltbakimi, #birliktedeneyelim"
+  - username: "khalinbekova"
+    fullname: >-
+      👑Ulya Khalinbekova İsmayıl👑
+    bio: >-
+      Owner @wellness.nrm Reklam ve iş birliyi üçün (+994) 55 696 16 28
+    location: "Turkey"
+    followers: 940432
+    engagement: 68
+    commentsToLikes: 0.015829
+    id: ck0tznc0zr0dt0i190scenan7
+    verified: false
+    hashtags: "#detralex, #detralexazerbaycan"
   - username: "duygucirakfitpilates"
     fullname: >-
       DUYGU ÇIRAK
@@ -31,18 +55,6 @@ profiles:
     id: ckapbsto317pv0i788jxngket
     verified: false
     hashtags: "#tb"
-  - username: "sadeceserra"
-    fullname: >-
-      𝓼𝓮𝓻𝓻𝓪 𝓴𝓾𝓻𝓽
-    bio: >-
-      📍İstanbul 💌 sadeceserra@outlook.com.tr Siberian Wellness @sadecesiberian 𝓼𝓪𝓭𝓮𝓬𝓮𝓴𝓲𝓹 ❤︎ Biraz ben, biraz indirim, biraz evim • 🄻🅄🄽🄰 ☼🄻🄴🄾
-    location: "Turkey"
-    followers: 96262
-    engagement: 172
-    commentsToLikes: 0.039107
-    id: ckapcmk844d120i787xqf0xv3
-    verified: false
-    hashtags: "#clothes, #ootd, #outfitpost, #homesweethome"
   - username: "bedis__"
     fullname: >-
       Covergirlbedis🐾
@@ -55,6 +67,18 @@ profiles:
     id: ck0u2km2t04pn0i19k7b4d6nf
     verified: false
     hashtags: "#hobby, #coffee, #qarantine, #reels"
+  - username: "haffyland"
+    fullname: >-
+      ✨ Serpil Altınkum ✨
+    bio: >-
+      🧶 Crochet Lover ❄️ Siberian Wellness ☕️ Life Style 🌿 Yalova Tariflerimi ve hazır ürünlerimi 💳 ile almak için;
+    location: "Turkey"
+    followers: 27991
+    engagement: 236
+    commentsToLikes: 0.045218
+    id: ck15rn9vf8qzb0i19pismntnv
+    verified: false
+    hashtags: "#amigurumi, #amigurumidoll, #amigurumist, #crochetlove"
   - username: "ozgestopal"
     fullname: >-
       ÖZGE TOPAL
@@ -103,28 +127,4 @@ profiles:
     id: ck9hcmag2m0c10j78ppw44u8b
     verified: false
     hashtags: "#nosugar, #kahvalt, #herbalifeskin, #herbalifeliftoff"
-  - username: "neslisahduzyatan"
-    fullname: >-
-      Neslisah Alkoclar
-    bio: >-
-      info@alphafilmpro.com
-    location: "Turkey"
-    followers: 585215
-    engagement: 408
-    commentsToLikes: 0.010095
-    id: ck1365vek4w9n0i19lhvd8oae
-    verified: true
-    hashtags: "#selfcare, #youarewhatyoueat, #wellness, #healthylifestyle"
-  - username: "gloriavenz"
-    fullname: >-
-      Gloria🦂
-    bio: >-
-      For Collabs: gloriaventseslavova@gmail.com ☆ Fitness ☆ Stretching ☆ Pole dance ☆ Love animals 🌱❣️☆ Visual communication 👇🏻 @glovisuals.studio
-    location: "Turkey"
-    followers: 30315
-    engagement: 263
-    commentsToLikes: 0.024133
-    id: ck139eygpkzj70i19t08gn15h
-    verified: false
-    hashtags: "#girlswhotravel, #girlsjustwannahavefun, #bikiniseason, #love"
 ---

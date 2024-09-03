@@ -1,11 +1,11 @@
 ---
-title: Top 10 Comedians TikTok Influencers In Chicago In 2023
+title: Top 10 Comedians TikTok Influencers In Chicago In 2024
 description: >-
-  Find top comedians TikTok influencers in Chicago in 2023. Most popular hashtags: #fyp #comedy #stitch #funny.
+  Find top comedians TikTok influencers in Chicago in 2024. Most popular hashtags: #fyp #comedy #stitch #duet.
 platform: TikTok
-hits: 24
-text_top: Analyze the most popular TikTok accounts on inBeat.
-text_bottom: Our search engine has 24 TikTok influencers like this in Chicago, United States for you to contact.
+hits: 25
+text_top: Discover the top-rated TikTok influencers on inBeat.
+text_bottom: Our search engine holds 25 TikTok influencers like this in Chicago, United States for you to collaborate.
 profiles:
   - username: "mattlikestolaugh"
     fullname: >-
@@ -19,6 +19,18 @@ profiles:
     id: ckbf7620vwtxr0j23f1dbskoy
     verified: false
     hashtags: "#viral, #funny, #duet, #stitch"
+  - username: "joeunderwood33"
+    fullname: >-
+      Joe Underwood
+    bio: >-
+      You can laugh. I made the joke ☺️ Instagram: @junderwood33 Watch my standup⬇️
+    location: "United States"
+    followers: 155800
+    engagement: 1244
+    commentsToLikes: 0.046948
+    id: ckdtlqqz203iq0j23pwl22kwp
+    verified: false
+    hashtags: "#comedy, #stitch, #funny, #duet"
   - username: "callmebyyourwifesname"
     fullname: >-
       Andrew
@@ -54,7 +66,7 @@ profiles:
     commentsToLikes: 0.094506
     id: ckbbqj5l1e8o30j23prn08u1w
     verified: false
-    hashtags: "#roastbattle, #learnontiktok, #conspiracy, #standupcomedy"
+    hashtags: "#conspiracy, #roastbattle, #standup, #learnontiktok"
   - username: "olevialou"
     fullname: >-
       OLEEVIA
@@ -115,16 +127,4 @@ profiles:
     id: ckbl0mni1xbf10j23xzn52auk
     verified: false
     hashtags: "#duet, #fyp, #dating, #comedy"
-  - username: "jimmyriggins"
-    fullname: >-
-      Har V Dent
-    bio: >-
-      Follow me on Facebook @ Comedian Har_V_Dent & Instagram @ Har_V_Dent
-    location: "United States"
-    followers: 20900
-    engagement: 505
-    commentsToLikes: 0.024767
-    id: ckdi74jmz8vvr0j23wy6m4h9f
-    verified: false
-    hashtags: "#chicago, #foryoupage, #foryou, #comedy"
 ---

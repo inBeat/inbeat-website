@@ -1,36 +1,36 @@
 ---
-title: Top 10 Christian Instagram Influencers In Norway In 2023
+title: Top 10 Christian Instagram Influencers In Norway In 2024
 description: >-
-  Find top christian Instagram influencers in Norway in 2023. Most popular hashtags: #norway #mgp #eurovision.
+  Find top christian Instagram influencers in Norway in 2024. Most popular hashtags: #norway #mgp #norge.
 platform: Instagram
-hits: 48
-text_top: See the best Instagram accounts on inBeat.
-text_bottom: Our database holds 48 Instagram influencers like this in Norway for you to collaborate.
+hits: 49
+text_top: Identify the best Instagram profiles on inBeat.
+text_bottom: Our search engine aggregates 49 Instagram influencers like this in Norway for you to pitch.
 profiles:
-  - username: "christiantrustrup"
-    fullname: >-
-      Christian Trustrup
-    bio: >-
-      Norwegian creator based in Levanger • nordic • outdoor • lifestyle •
-    location: "Norway"
-    followers: 215019
-    engagement: 292
-    commentsToLikes: 0.014629
-    id: ck0u7nijh54pt0i19fkfm20bw
-    verified: false
-    hashtags: "#yrbilder, #visitinnherred, #exploretrondelag, #stedervielsker"
   - username: "christianeelene_"
     fullname: >-
       Christiane Ødegård | Strikk
     bio: >-
-      Strikkeinspirasjon for alle🌻⁣⁣ ⁣ 🤍 Eier av @knittersbox 👩🏼‍💻 Vernepleiestudent 💕 Ambassadør @maskemarkorer ⁣⁣og @strikkeprat 💌 DM for samarbeid
+      🤍 Eier av @knittersbox 👩🏼‍💻 Vernepleier 🫶🏻 @christianeelene_selger 🌸 DM for samarbeid
     location: "Norway"
-    followers: 9208
-    engagement: 944
-    commentsToLikes: 0.089022
+    followers: 10333
+    engagement: 615
+    commentsToLikes: 0.061465
     id: ck55lupal2hbv0i1148mqnl8o
     verified: false
-    hashtags: "#christianegenseren, #kaspergenseren, #modernebroderi, #onegiftamonth"
+    hashtags: "#strikktilgutt, #knitter, #babyknit, #strikktilbaby"
+  - username: "christiantrustrup"
+    fullname: >-
+      Christian Trustrup
+    bio: >-
+      Norwegian creator based in Levanger • outdoor • lifestyle • weddings • 📩 hello@christiantrustrup.com for inquiries
+    location: "Norway"
+    followers: 244518
+    engagement: 190
+    commentsToLikes: 0.013070
+    id: ck0u7nijh54pt0i19fkfm20bw
+    verified: false
+    hashtags: "#iceland, #weddinginspiration, #elopementlove, #autumnmagic"
   - username: "christiansorum"
     fullname: >-
       Christian Sandlie Sørum
@@ -55,18 +55,6 @@ profiles:
     id: ck5c7p0st7xo90i11387k3426
     verified: false
     hashtags: "#a1, #mgp, #boysarebacktour, #music"
-  - username: "ingridivarson"
-    fullname: >-
-      Ingrid Suhr Olsen
-    bio: >-
-      Norwegian living in Copenhagen🇳🇴🇩🇰 Proud dog-mom of Leopold 🐶 Welcome to my world of: Fashion👗 Interior🏡 Travel✈️ ✉️ ingridivarson@hotmail.com
-    location: "Norway"
-    followers: 14818
-    engagement: 251
-    commentsToLikes: 0.059799
-    id: ck0vwbsv4szr10i192bnfjexo
-    verified: false
-    hashtags: "#girlstraveleurope, #tuscany, #elegantwoman, #zarawoman"
   - username: "originalex"
     fullname: >-
       Alex Rosén
@@ -91,18 +79,6 @@ profiles:
     id: ck5zrxjhpxfrr0i141by8cbrh
     verified: false
     hashtags: "#maleglede, #fortidsminneforeningen, #gamletrehus, #restaurering"
-  - username: "halligansand_hairties"
-    fullname: >-
-      Dakota Waldum 🥄
-    bio: >-
-      Follow Christ. Work hard. Be nice. Wife. Momma. Texan. CrossFit. Celiac. CVS. Thyroid Disease. Fireman/EMTP🔥 @next_rung Board Member🚒 @nickwaldumgolf💍
-    location: "Norway"
-    followers: 7655
-    engagement: 349
-    commentsToLikes: 0.040218
-    id: ck14hfxt7a4np0i19xpnhgbzh
-    verified: false
-    hashtags: "#autoimmunedisease, #firefighterworkout, #fitforduty, #girlswithtattoos"
   - username: "rein_alexander"
     fullname: >-
       Rein Alexander
@@ -127,4 +103,28 @@ profiles:
     id: ck6tk91bs48iu0j71gi1vvh8y
     verified: false
     hashtags: "#beautifuldestinations, #bestofnorway, #lost, #magic"
+  - username: "gorgorothofficial"
+    fullname: >-
+      Gorgoroth Official
+    bio: >-
+      GORGOROTH is a Norwegian black metal band based in Bergen, It was formed and founded in 1992 by "Infernus"
+    location: "Norway"
+    followers: 28841
+    engagement: 623
+    commentsToLikes: 0.007947
+    id: ck6u3ntvnyufi0j71jzw0vmgj
+    verified: false
+    hashtags: "#repost, #metalfan, #gorgorothband, #infernofestival"
+  - username: "marcuskleveland"
+    fullname: >-
+      Marcus Kleveland
+    bio: >-
+      •13x XGames Medalist •2x World Champion •Snapchat ~ marcuzkl99
+    location: "Norway"
+    followers: 824609
+    engagement: 840
+    commentsToLikes: 0.005205
+    id: ck5bzxnhvs19m0i11w5g22jbo
+    verified: true
+    hashtags: ""
 ---

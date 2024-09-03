@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fashion TikTok Influencers In Istanbul In 2023
+title: Top 10 Fashion TikTok Influencers In Istanbul In 2024
 description: >-
-  Find top fashion TikTok influencers in Istanbul in 2023. Most popular hashtags: #fashion #fyp #ke #istanbul.
+  Find top fashion TikTok influencers in Istanbul in 2024. Most popular hashtags: #fashion #fyp #ke #istanbul.
 platform: TikTok
 hits: 7
-text_top: Analyze the best TikTok influencers on inBeat.
-text_bottom: Our platform has 7 TikTok influencers like this in Istanbul, Turkey for you to connect with.
+text_top: Identify the most popular TikTok influencers on inBeat.
+text_bottom: Our database holds 7 TikTok influencers like this in Istanbul, Turkey for you to contact.
 profiles:
   - username: "putkatheuntuck"
     fullname: >-
@@ -19,6 +19,18 @@ profiles:
     id: ckdbmbvs4a7mj0j23hexybvbe
     verified: false
     hashtags: "#tiktok, #benike, #viral, #ankara"
+  - username: "moondellaa"
+    fullname: >-
+      Mahfam
+    bio: >-
+      Real happiness is in small things.🤍 🐶 lover ☕️ addicted Based in Istanbul
+    location: "Turkey"
+    followers: 205700
+    engagement: 480
+    commentsToLikes: 0.017671
+    id: ck9r8i9o1cel50j783ykaic9r
+    verified: false
+    hashtags: "#couplecomedy, #tiktokindia, #cute, #fashionista"
   - username: "nurishtheabstract"
     fullname: >-
       Volkan Binici
@@ -43,18 +55,6 @@ profiles:
     id: ckb9ixokb9s7t0j230zbsbwvg
     verified: false
     hashtags: "#oilpainting, #fpg, #evdekal, #foryp"
-  - username: "moondellaa"
-    fullname: >-
-      Mahfam
-    bio: >-
-      Real happiness is in small things.🤍 🐶 lover ☕️ addicted Based in Istanbul
-    location: "Turkey"
-    followers: 205700
-    engagement: 480
-    commentsToLikes: 0.017671
-    id: ck9r8i9o1cel50j783ykaic9r
-    verified: false
-    hashtags: "#amore, #style, #istanbul, #fashionista"
   - username: "vegastories"
     fullname: >-
       vegastories
@@ -114,7 +114,7 @@ profiles:
     commentsToLikes: 0.052746
     id: ck7zo4x67htzw0j78gez04ji2
     verified: true
-    hashtags: "#tutorial, #creative, #fashion, #outfit"
+    hashtags: "#funny, #drawing, #fashion, #creative"
   - username: "lexe.ahmetr"
     fullname: >-
       Léxé丨AhmetR

@@ -1,12 +1,24 @@
 ---
-title: Top 10 Violin Instagram Influencers In 2023
+title: Top 10 Violin Instagram Influencers In 2024
 description: >-
-  Find top violin Instagram influencers in 2023. Most popular hashtags: #music #violin #musician.
+  Find top violin Instagram influencers in 2024. Most popular hashtags: #violin #music #violinist.
 platform: Instagram
-hits: 128
-text_top: Discover the best Instagram profiles on inBeat.
-text_bottom: Our database has 128 Instagram influencers like this for you to work with.
+hits: 134
+text_top: Identify the most popular Instagram profiles on inBeat.
+text_bottom: Our database has 134 Instagram influencers like this for you to connect with.
 profiles:
+  - username: "siavash_ahmadinasab"
+    fullname: >-
+      Siavash | آموزش كمانچه و ويلن
+    bio: >-
+      Composer Kamancheh , violin player آهنگساز ، نوازنده آموزش كمانچه ، ويلن ، سه تار تماس جهت هماهنگى كلاس ها : 09192300597
+    location: "Iran"
+    followers: 4374
+    engagement: 837
+    commentsToLikes: 0.086528
+    id: ck9wd0ddvdhfm0j784xo09e4l
+    verified: false
+    hashtags: "#art, #artist, #kamancheh, #musica"
   - username: "navid.ranjbaar"
     fullname: >-
       Navid Ranjbar
@@ -55,30 +67,6 @@ profiles:
     id: ckap58olgao0u0i78h6pncf3g
     verified: false
     hashtags: "#pregnantbikers, #totallyfellinthewater, #brothers, #newfoundlanddog"
-  - username: "arefshakouri"
-    fullname: >-
-      Arefshakouri
-    bio: >-
-      🇮🇷.🇸🇪.🇺🇸This is official page of Aref shakouri in Instagram. Producer, Arranger, Violin player. Lahijan, Stockholm, Los Angeles
-    location: "Sweden"
-    followers: 32361
-    engagement: 1260
-    commentsToLikes: 0.054292
-    id: ck0w2694bmt1p0i192w5y3hi9
-    verified: false
-    hashtags: "#kamranhooman, #concert, #arefshakouri, #moein"
-  - username: "siavash_ahmadinasab"
-    fullname: >-
-      Siavash | آموزش كمانچه و ويلن
-    bio: >-
-      Composer Kamancheh , violin player آهنگساز ، نوازنده آموزش كمانچه ، ويلن ، سه تار
-    location: "Iran"
-    followers: 2561
-    engagement: 1370
-    commentsToLikes: 0.071432
-    id: ck9wd0ddvdhfm0j784xo09e4l
-    verified: false
-    hashtags: "#iranianmusic, #violin, #kamanche, #kamanchehplayer"
   - username: "farokh.etemadi"
     fullname: >-
       Dejavu.studio-فرخ اعتمادی
@@ -115,16 +103,28 @@ profiles:
     id: ck8sz12nzms6g0j78dywkjis6
     verified: false
     hashtags: "#thenaifa, #inseriesopera, #iran, #friendship"
-  - username: "rodrigoderasmo"
+  - username: "erfanpashaofficial"
     fullname: >-
-      Rodrigo D'Erasmo
+      Erfan Pasha
     bio: >-
-      Violin player, multi instrumentalist, producer, arranger and composer.
-    location: "Italy"
-    followers: 25934
-    engagement: 481
-    commentsToLikes: 0.037983
-    id: ck5hg6ksc16f60i116chza8co
+      Art Manager /Music Producer 🎵/ Singer 🎙/ Violin Player🎻
+    location: "Iran"
+    followers: 36422
+    engagement: 182
+    commentsToLikes: 0.041292
+    id: ck5c9m7yhbov10i11kr02510i
     verified: false
-    hashtags: "#manuelagnelli, #littlepiecesofmarmelade, #noisiamoafterhours, #xfactor2020"
+    hashtags: "#majidrazavi, #iran, #tehran, #melody"
+  - username: "violin_behrang_azadeh"
+    fullname: >-
+      Violin Player  بهرنگ آزاده
+    bio: >-
+      كارشناس ارشد موسيقى از دانشگاه هنر،مدير آموزشگاه موسيقى بهرنگ،مدرس ويولن دانشگاه آزاد، نوازنده ويولن اركستر ملى ايران/ violin player, master of Art
+    location: "Iran"
+    followers: 14707
+    engagement: 1275
+    commentsToLikes: 0.046385
+    id: ck9wifqzb24ut0j783bm3s68m
+    verified: false
+    hashtags: "#behrangazadeh, #violin, #iranian, #behrang"
 ---

@@ -1,132 +1,132 @@
 ---
-title: Top 10 Instagram Influencers In South Africa In 2023
+title: Top 10 Instagram Influencers In South Africa In 2024
 description: >-
-  Find top Instagram influencers in South Africa in 2023. Most popular hashtags: #ootd #skincaretips #sponsored #fitcheck.
+  Find top Instagram influencers in South Africa in 2024. Most popular hashtags: #ad #fitnessmotivation #gifted.
 platform: Instagram
-hits: 1207
-text_top: See the top-rated Instagram accounts on inBeat.
-text_bottom: Our database aggregates 1207 Instagram influencers like this in South Africa for you to connect with.
+hits: 1380
+text_top: Identify the top-rated Instagram influencers on inBeat.
+text_bottom: inBeat holds 1380 Instagram influencers like this in South Africa for you to pitch.
 profiles:
-  - username: "nandipha_mqoco"
+  - username: "uleenfourie"
     fullname: >-
-      n a n d i p h a
+      Uleen Fourie | Health & Fitness Coach
     bio: >-
-      don’t call me ‘Nandi’. visual whizz. master of ceremonies. 📍Cape Town, South Africa ✉️nmqoco18@gmail.com
+      🙋‍♀️ Let me help you to STOP dieting & make it a lifestyle 📖 Health Coach 📱Co-founder @health_eapp 👇Gym & Home Programs
     location: "South Africa"
-    followers: 37090
-    engagement: 691
-    commentsToLikes: 0.037522
-    id: ck0vw8iaisku30i19cj61tcz2
+    followers: 75381
+    engagement: 400
+    commentsToLikes: 0.019496
+    id: ckaouird90g760i78bc049lwx
     verified: false
-    hashtags: "#savourlifenaturally, #listingcapetown, #topochicotime, #myhairmystylemypower"
-  - username: "oratile_moh"
+    hashtags: "#burntstudios, #quickandeasymeals, #balancedlifestyle, #bodylove"
+  - username: "dimmaumeh"
     fullname: >-
-      ora moh
+      DIMMA UMEH
     bio: >-
-      👚: love to play dress up 👟: probably in sneakers 📍: jawnsburg (get it), south africa 🎤: i sing, sometimes - check my highlights
+      Beauty | Fashion | Lifestyle dimmaumeh@bossmgmtgrp.com (Global) info@dimmaumeh.com (Nigeria)
     location: "South Africa"
-    followers: 11298
-    engagement: 1376
-    commentsToLikes: 0.021839
-    id: ck5ckzzxyxyps0i11zxxeehjr
-    verified: false
-    hashtags: "#nikeblazer, #sportscene, #yourstobewornsa, #celebrateyourcurves"
-  - username: "kay.yarms"
-    fullname: >-
-      Kay Yarms
-    bio: >-
-      God • Beauty • Lifestyle @saxxbeauty 💎 YouTube : Kay Yarms
-    location: "South Africa"
-    followers: 433820
-    engagement: 632
-    commentsToLikes: 0.007879
-    id: ck5hmtw11mm800i11j8u3psf6
-    verified: false
-    hashtags: "#keepwalkingsa, #hiltonbig5, #youbelong, #ad"
-  - username: "katlego_tefu"
-    fullname: >-
-      Katlego Tefu
-    bio: >-
-      Fashion, Beauty, Hair & Everything Else! Collabos : kt@mansamusabrands.co.za Styling : ktefu@yahoo.com New videos weekly 👇🏽
-    location: "South Africa"
-    followers: 16874
-    engagement: 394
-    commentsToLikes: 0.033650
-    id: ck6u4o0ti4tlh0j716qfc7snm
-    verified: false
-    hashtags: "#thespot, #styleinspiration, #brunchoutfit, #rotd"
-  - username: "fehmz"
-    fullname: >-
-      Fehmz
-    bio: >-
-      Sharing my life adventure with you Lifestyle | Travel | Food | Plus+ Go to > www.fehmz.com JHB, ZA 🇿🇦 #southafrica @halaalgoodsmarket @fehmzmocktails
-    location: "South Africa"
-    followers: 125944
-    engagement: 313
-    commentsToLikes: 0.015450
-    id: ck0w6espr882r0i19xmu3iovq
-    verified: false
-    hashtags: "#fehmzsavoury, #cooking, #fehmzsweet, #fehmz"
-  - username: "thelastmaharaja"
-    fullname: >-
-      Jiveshen Moodley
-    bio: >-
-      Noor Fawaar ✨🫧 Son of Venus ♎️ Beauty Junkie 🙆🏽‍♂️ Joburg | London 🇿🇦🇬🇧 Innit
-    location: "South Africa"
-    followers: 10198
-    engagement: 587
-    commentsToLikes: 0.048089
-    id: ckap3qdwx43sz0i78nxp0ygj3
-    verified: false
-    hashtags: "#favoboys, #pride, #gay, #pov"
-  - username: "fashionbreed"
-    fullname: >-
-      Aqeelah Harron Ally
-    bio: >-
-      Co-Founder of @WorthyCo_ | Ziya’s Mom For brand bookings, email info@fashionbreed.co.za
-    location: "South Africa"
-    followers: 75080
-    engagement: 288
-    commentsToLikes: 0.029926
-    id: ck6u4nqzg4s110j713ik5e211
+    followers: 220355
+    engagement: 778
+    commentsToLikes: 0.017173
+    id: ck15pef3mxh7o0i19us74nj99
     verified: true
-    hashtags: "#sunglasshutsa, #bealpha, #fbstyletip, #multitaskerconcealer"
-  - username: "theculturedcow"
+    hashtags: "#streamingforafrica, #esteelauderdreamdusk, #perfumecollection, #ashowforeveryshowmaxer"
+  - username: "yolzchannel"
     fullname: >-
-      Shiro Gaitho | Wairimu’s Daughter
+      Yolenda Jawe
     bio: >-
-      African | Introvert | Lover of words and other nice things Email: theculturedcow@gmail.com
+      Award Winning YouTuber | Big Sis Yolz 🤍 📍Joburg 🇿🇦 Travel🌍 @thejawestravel | MD @yolzbeauty International Public Speaker | 📧yolzchannel@gmail.com
     location: "South Africa"
-    followers: 40023
-    engagement: 222
-    commentsToLikes: 0.008793
-    id: ck5c0pmkptlmg0i11whqhf7rp
+    followers: 125653
+    engagement: 567
+    commentsToLikes: 0.022134
+    id: ck8t07zbpr4wj0j78t5pa8cot
     verified: false
-    hashtags: "#mani, #interiorstyle, #madeinkenya, #supportsmallbusiness"
-  - username: "maryamalnasser"
+    hashtags: "#wholesomesunday, #realmagic, #makotiyolz, #100ksubscribers"
+  - username: "marcbuckner"
     fullname: >-
-      مريم
+      Marc Buckner
     bio: >-
-      • Riyadh • info@taamal.sa • Snapchat: maryamalnasser6 • Ounass: OM / OMVAT • My boutique
+      Email for collaborations, diet + training tips & one on one fitness programs. father to @lusiluludog 🐺
     location: "South Africa"
-    followers: 461259
-    engagement: 185
-    commentsToLikes: 0.012701
-    id: ck9hc2kbnjh0h0j78wabiuilr
-    verified: false
-    hashtags: "#kikoksa, #kikomilano, #soundstorm, #ad"
-  - username: "preciousxabamakeup"
+    followers: 798499
+    engagement: 555
+    commentsToLikes: 0.012218
+    id: ck5qeisvd0p580i11yvigwyqx
+    verified: true
+    hashtags: "#dog, #huaweiwatchgt4, #capetown, #sunset"
+  - username: "funfoodrecipeworld"
     fullname: >-
-      PreciousXABA
+      Shema's Kitchen
     bio: >-
-      Makeup artist, Health & Skin care therapist & Make-up Educator Makeup bookings email-xaba.precious@yahoo.com Campaign bookings email -Percy@uvba.co.za
+      Food Blogger Recipe Creator 🫰🏻 #shemaskitchen cookbook Dm for Collab/PR❤️ 📍South Africa 🇿🇦 originally from 🇮🇳
     location: "South Africa"
-    followers: 42238
-    engagement: 278
-    commentsToLikes: 0.123191
-    id: ck5hkod83isj10i11i7nk6c8f
+    followers: 72537
+    engagement: 433
+    commentsToLikes: 0.037749
+    id: ck9wgfsx6t89h0j789b86ifdl
     verified: false
-    hashtags: "#editorialmakeup, #bridalmakeup, #makeup, #editorialphotography"
+    hashtags: "#eidaladha, #desserts, #ramadan, #foodphotography"
+  - username: "nikitajoshua"
+    fullname: >-
+      NIKITA JOSHUA
+    bio: >-
+      Momma | digital content creator | model | pro makeup artist beauty | fashion | lifestyle owner @prettybishbeauty co-founder @shopcalnik Cape Town
+    location: "South Africa"
+    followers: 34639
+    engagement: 610
+    commentsToLikes: 0.025989
+    id: ck5q1k1wmbddf0i113a465475
+    verified: false
+    hashtags: "#gifted, #parentstobe, #colorstay, #vanityline"
+  - username: "sine_gugulethu"
+    fullname: >-
+      Gugu Mahlangu-Kanana
+    bio: >-
+      Content creator | YouTuber Over 10 million views on YouTube For collaboration 📧 Sinegugulethu@yahoo.com 📍 🇿🇦 Cape Town
+    location: "South Africa"
+    followers: 166354
+    engagement: 695
+    commentsToLikes: 0.026137
+    id: ck5hhfx8980kk0i11l6v1tjbb
+    verified: false
+    hashtags: "#takeyourmoneyseriously, #nedbankhomeloans, #ad, #fitme"
+  - username: "danielledevilliers"
+    fullname: >-
+      Danielle de Villiers
+    bio: >-
+      Believer ✝️ Wife ♥️ Mom of 3 🙏🏼 🖋 @thefunroompretoria 💇🏻‍♀️ @garyromhair
+    location: "South Africa"
+    followers: 572498
+    engagement: 1004
+    commentsToLikes: 0.004591
+    id: ck0w2ky5lovso0i19wk2lxhkl
+    verified: true
+    hashtags: "#tenyearweddinganniversary, #sushi, #love, #perfect"
+  - username: "soniatona_"
+    fullname: >-
+      Sonia Tona
+    bio: >-
+      content creator/designer/presenter/diy child/adhd is lowkey awesome/do not use Twitter (yet)/ sonia.npt.tona@gmail.com #customculture
+    location: "South Africa"
+    followers: 10012
+    engagement: 431
+    commentsToLikes: 0.023189
+    id: ck6tuznh7jca70j71zv627jkm
+    verified: false
+    hashtags: "#galaxybuds2pro, #jetvac, #dothesmartthings, #samsungwasherdryer"
+  - username: "iamzackknight"
+    fullname: >-
+      Zack Knight
+    bio: >-
+      🌍 iamzackknight.com 🎵 TikTok: RealZackKnight ✉️ bookings@iamzackknight.com 🏅 Music Direction - IIFA 2019
+    location: "South Africa"
+    followers: 659670
+    engagement: 670
+    commentsToLikes: 0.013424
+    id: ck136cz3c5vo60i1959dusja2
+    verified: true
+    hashtags: ""
 cities:
   - name: Capetown
     link: /instagram/south-africa/capetown

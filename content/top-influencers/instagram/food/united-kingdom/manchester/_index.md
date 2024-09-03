@@ -1,48 +1,84 @@
 ---
-title: Top 10 Food Instagram Influencers In Manchester In 2023
+title: Top 10 Food Instagram Influencers In Manchester In 2024
 description: >-
-  Find top food Instagram influencers in Manchester in 2023. Most popular hashtags: #food #foodporn #burger.
+  Find top food Instagram influencers in Manchester in 2024. Most popular hashtags: #food #manchester #burger #manchesterfoodie.
 platform: Instagram
-hits: 44
-text_top: Analyze the best Instagram accounts on inBeat.
-text_bottom: Our platform aggregates 44 Instagram influencers like this in Manchester, United Kingdom for you to pitch.
+hits: 80
+text_top: Discover the most popular Instagram accounts on inBeat.
+text_bottom: Our database aggregates 80 Instagram influencers like this in Manchester, United Kingdom for you to collaborate.
 profiles:
-  - username: "theburgerreviews"
+  - username: "foodvibesbymaz"
     fullname: >-
-      The Burger Reviews
+      Food Vibes by Maz
     bio: >-
-      🍔Full Time Burger Fiend 🥩Converting Vegans to Meat Eaters •••••••• 📸DM for Photography & Social Media Management Services
+      A journey of food discovery 🙇‍♂️ Food Blog 🍔🍕🥞 Run By @mazzz93 💫 📍London, UK, Europe & Beyond 🇬🇧🌍✈ 💌 DM/Email for collabs/invites/enquiries
     location: "United Kingdom"
-    followers: 28659
-    engagement: 550
-    commentsToLikes: 0.021901
-    id: ckaouunor1w8g0i784sh4qt50
+    followers: 22308
+    engagement: 130
+    commentsToLikes: 0.161833
+    id: ckaor4c41lo3o0i783whxcyt1
     verified: false
-    hashtags: ""
+    hashtags: "#foodporn, #reelsinstagram, #londonfoodblog, #chocolate"
   - username: "foodshak"
     fullname: >-
       Manchester Food Photographer
     bio: >-
-      Manchester Food Photographer, Videographer and Food Stylist 📩 foodshakreviews@gmail.com
+      Manchester Food Photographer, Videographer and Food Stylist @weeatmarketing 📩 hello@weeatmarketing.com
     location: "United Kingdom"
-    followers: 26532
-    engagement: 236
-    commentsToLikes: 0.031077
+    followers: 30206
+    engagement: 181
+    commentsToLikes: 0.038313
     id: ck0w73pqvblox0i19p6gqevvw
     verified: false
-    hashtags: "#food, #foodie, #foodgasm, #burger"
-  - username: "mcrfoodboy"
+    hashtags: "#foodbible, #food, #foodporn, #foodshak"
+  - username: "robbie.reviews"
     fullname: >-
-      Mcrfoodboy
+      Robbie Reviews - Manchester Food
     bio: >-
-      All things Manchester food #MCRFOOD
+      📍Manchester Based 🍽️Restaurant & Food Reviews 🕶️POV content 👌
     location: "United Kingdom"
-    followers: 48258
-    engagement: 198
-    commentsToLikes: 0.027140
-    id: ck0u1q4xdxq3c0i19sgigthll
+    followers: 16962
+    engagement: 1633
+    commentsToLikes: 0.160011
+    id: clpcfh7tdclgd0k08fyf1k1hz
     verified: false
-    hashtags: ""
+    hashtags: "#manchesterrestaurants, #manchesterfoodie, #manchesterrestaurant, #takeaway"
+  - username: "ediblebible"
+    fullname: >-
+      Tom | Ediblebible 🍔 UK & Manchesters best scran 🤘🏼
+    bio: >-
+      👨🏻‍💼CEO of Gaffs 🏠 🥷🏼Always on the hunt for food🍕 💻DM for invites 😁 🌎Salford/Manchester based travelling the whole UK🚂 📹Reel/TikTok content🕺🏻
+    location: "United Kingdom"
+    followers: 27821
+    engagement: 281
+    commentsToLikes: 0.103977
+    id: clfb7s3qv2yz40j080j5xs6jv
+    verified: false
+    hashtags: "#foryoupage, #foryou, #foodreview, #fyp"
+  - username: "fat.sam.eats"
+    fullname: >-
+      samuel bradbury
+    bio: >-
+      🐝 Manchester/Cheshire based 🐝 📷 Blogger/content creator 📸 🍔 Filthy Food Lover 🥩 🎥 TikTok - fat.sam.eats 📩 fatsam@fatgang.co.uk 📧
+    location: "United Kingdom"
+    followers: 78001
+    engagement: 175
+    commentsToLikes: 0.089908
+    id: ckaoqv6sikjyw0i78vsmd3yu7
+    verified: false
+    hashtags: "#yummy, #reel, #video, #food"
+  - username: "allday.cake"
+    fullname: >-
+      Sophie Bamford
+    bio: >-
+      Not currently taking orders. Relocating to Newcastle Upon Tyne. Making and eating cake, all day, every day.
+    location: "United Kingdom"
+    followers: 14977
+    engagement: 411
+    commentsToLikes: 0.027374
+    id: ck5q44xbtns2d0i115o2g6cz9
+    verified: false
+    hashtags: "#birthdaycake, #hereismyfood, #f52grams, #thebakefeed"
   - username: "akeemojuko"
     fullname: >-
       Akeem Ojuko
@@ -55,6 +91,30 @@ profiles:
     id: ck6turtwli1hp0j71m6ho28cs
     verified: false
     hashtags: "#cheekysport, #superrep, #niketraining, #hackneymoves"
+  - username: "lilyysuen"
+    fullname: >-
+      Lily | UK UGC/ Content Creator ♡
+    bio: >-
+      🔜 Tenerife 🌴 ▫️ Fashion, Beauty, Food & Travel ▫️ Manchester, UK ✉️ Collabs/ PR: lilysuen1@gmail.com — 👩🏻‍💻SMM/ CGC: @swenjoysocial — 👇🏼 Click links
+    location: "United Kingdom"
+    followers: 20644
+    engagement: 111
+    commentsToLikes: 0.028458
+    id: cky43mvwhhdfu0j23ntp1vbo8
+    verified: false
+    hashtags: "#romwehaul, #winteroutfits, #trendingsound, #tedbaker"
+  - username: "into.trends"
+    fullname: >-
+      Jelena
+    bio: >-
+      📩Business enquiries- into.trends@hotmail.com 👩🏽‍🍳MasterChef2019 🏆10 Best Food Photographers in Manchester
+    location: "United Kingdom"
+    followers: 20864
+    engagement: 112
+    commentsToLikes: 0.057024
+    id: ck6006xrad2910i14dhksphif
+    verified: false
+    hashtags: "#manchesterfamily, #manchesterarndale, #restaurantreview, #thelawnclub"
   - username: "poweredplantfully"
     fullname: >-
       Rebecca ☾
@@ -66,65 +126,5 @@ profiles:
     commentsToLikes: 0.039829
     id: ck8t0oj7jspp20j78n5fybz4d
     verified: false
-    hashtags: "#antiinflammatorydiet, #stokevegan, #food, #plantbaseddiet"
-  - username: "mcrfinest"
-    fullname: >-
-      Manchester's Finest
-    bio: >-
-      Discover the best of Manchester // independent food, drink, arts & culture, theatre, music and more. Contribute using #mcrfinest
-    location: "United Kingdom"
-    followers: 107716
-    engagement: 85
-    commentsToLikes: 0.029573
-    id: ck6ubnpjoanld0j71eqoihokj
-    verified: false
-    hashtags: "#mcrfinest, #chicken, #recipes"
-  - username: "foodvibesbymaz"
-    fullname: >-
-      Food Vibes by Maz
-    bio: >-
-      A journey of food discovery 🙇‍♂️ Food Blog 🍔🍕🥞 Run By @mazzz93 💫 📍London, UK, Europe & Beyond 🇬🇧🌍✈ DM/Email for collabs/invites/enquiries 💌
-    location: "United Kingdom"
-    followers: 13672
-    engagement: 412
-    commentsToLikes: 0.054333
-    id: ckaor4c41lo3o0i783whxcyt1
-    verified: false
-    hashtags: "#foodvibesbymaz, #influencer, #foodinfluencer, #burger"
-  - username: "charlieemathews"
-    fullname: >-
-      Charlie Mathews
-    bio: >-
-      👸🏼Digital Marketer ☁️ Bristol ~ Manchester 🤍 Fitness | Food | Fun ✨@pwrpeach_ CHARLIE10 | 🌟@el.obsession Charliee10 🤩 @beaybl support link:
-    location: "United Kingdom"
-    followers: 7197
-    engagement: 445
-    commentsToLikes: 0.166525
-    id: ckf5s2x7qelui0j23lb0ih6cw
-    verified: false
-    hashtags: "#blondebabes, #lifestyleblog, #bodykindness, #positivemindset"
-  - username: "rifka.bjm"
-    fullname: >-
-      RIFKA 🇩🇿
-    bio: >-
-      الحمد الله ❤️ Tik tok : rifkaofficiel
-    location: "United Kingdom"
-    followers: 4653585
-    engagement: 792
-    commentsToLikes: 0.007793
-    id: ck6ufvw3yzfrg0j71axo7mc4w
-    verified: false
-    hashtags: "#puma, #capro"
-  - username: "eatmcr"
-    fullname: >-
-      EATMCR 🍜
-    bio: >-
-      Supporting food, drink and culture in Manchester. @gooeyco // @eatmcrvegan Message us for recommendations 💭
-    location: "United Kingdom"
-    followers: 145325
-    engagement: 175
-    commentsToLikes: 0.057736
-    id: ck0ucbfhuggo30i19t1tkbfwi
-    verified: false
-    hashtags: "#eatmcr"
+    hashtags: "#foodphotography, #healthy, #photography, #manchestervegan"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Lifestyle TikTok Influencers In Melbourne In 2023
+title: Top 10 Lifestyle TikTok Influencers In Melbourne In 2024
 description: >-
-  Find top lifestyle TikTok influencers in Melbourne in 2023. Most popular hashtags: #fyp #foryoupage #australia #foryou.
+  Find top lifestyle TikTok influencers in Melbourne in 2024. Most popular hashtags: #fyp #foryoupage #foryou #australia.
 platform: TikTok
 hits: 4
-text_top: Discover the best TikTok profiles on inBeat.
-text_bottom: Our database holds 4 TikTok influencers like this in Melbourne, Australia for you to contact.
+text_top: See the most popular TikTok accounts on inBeat.
+text_bottom: Our platform holds 4 TikTok influencers like this in Melbourne, Australia for you to connect with.
 profiles:
   - username: "harryaxx"
     fullname: >-
@@ -66,7 +66,7 @@ profiles:
     commentsToLikes: 0.032877
     id: ckbf76fbmwvmx0j23kkji392z
     verified: false
-    hashtags: "#onedirection, #fineline, #tpwk, #foryou"
+    hashtags: "#foryou, #fineline, #1d, #onedirection"
   - username: ".almond.lusk"
     fullname: >-
       ✰ almondlusk

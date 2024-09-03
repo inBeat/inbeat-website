@@ -1,12 +1,84 @@
 ---
-title: Top 10 Tattoo-Artists Instagram Influencers In India In 2023
+title: Top 10 Tattoo-Artists Instagram Influencers In India In 2024
 description: >-
-  Find top tattoo-artists Instagram influencers in India in 2023. Most popular hashtags: #tattooartist #tattoos #tattoo #inked.
+  Find top tattoo-artists Instagram influencers in India in 2024. Most popular hashtags: #tattoo #tattoos #tattooartist #tattooist.
 platform: Instagram
-hits: 71
-text_top: See the top-rated Instagram accounts on inBeat.
-text_bottom: Our platform has 71 Instagram influencers like this in India for you to work with.
+hits: 101
+text_top: Discover the most popular Instagram influencers on inBeat.
+text_bottom: Our search engine has 101 Instagram influencers like this in India for you to contact.
 profiles:
+  - username: "kr.arjunsingh"
+    fullname: >-
+      कुंवर अर्जुन सिंह परमार
+    bio: >-
+      ⚜️ TATTOO ARTIST For inquiry 9849800151
+    location: "India"
+    followers: 248116
+    engagement: 554
+    commentsToLikes: 0.010446
+    id: ck8t8ralilhl20j78hg6209wc
+    verified: false
+    hashtags: "#krarjunsingh, #dubatinaav, #majisaa, #jasol"
+  - username: "manjeettattooz"
+    fullname: >-
+      Manjeet Singh
+    bio: >-
+      Manjeet Singh One of top 100 Tattoo Artists around the world.Manjeet Tattooz is Internationally acclaimed tattoo studio in Delhi 📍 𝐃𝐞𝐥𝐡𝐢 📍𝐂𝐡𝐚𝐧𝐝𝐢𝐠𝐚𝐫𝐡
+    location: "India"
+    followers: 152778
+    engagement: 698
+    commentsToLikes: 0.008332
+    id: ck14gj6hu5hqt0i1988v06z2p
+    verified: false
+    hashtags: "#trend, #hinduism, #ink, #father"
+  - username: "devilztattoozlokesh"
+    fullname: >-
+      Lokesh Verma
+    bio: >-
+      🇱🇺Luxembourg/India🇮🇳 In Top20 "Best tattoo artists in the world" by Google Sponsored by: @cheyenne_tattooequipment @quantumtattooinks @dermalizepro
+    location: "India"
+    followers: 28908
+    engagement: 260
+    commentsToLikes: 0.020612
+    id: ck15pa75hwv4c0i19nk5u5vxy
+    verified: true
+    hashtags: "#quantumtattooink, #inkjetstencils, #devilztattoozluxembourg, #lesstalkmorerock"
+  - username: "dj.jeny"
+    fullname: >-
+      DJ Jeny (Vishva Telang)
+    bio: >-
+      📍🇶🇦🇦🇪 ✈️ 🇮🇳🇹🇿🇹🇭🇦🇪🇶🇦 International DJ, Tattoo artist, Interior Designer 🎧 Resident DJ @radissonbluhoteldoha @studioclubdxb @raas_pattaya @sips_n_taps
+    location: "India"
+    followers: 10650
+    engagement: 152
+    commentsToLikes: 0.046598
+    id: ckf5v6lspngs60j23frjlk1f8
+    verified: false
+    hashtags: "#hazeleyes, #instadj, #dubai, #jungleterrorfemaledj"
+  - username: "ektatattooart"
+    fullname: >-
+      Ekta A Vaishnav
+    bio: >-
+      Tattoo Artist, Fitness Freak Owner @butter_box_ Cont.9898373114 Tattoo studio- Sep.2014 Ahmedabad
+    location: "India"
+    followers: 59741
+    engagement: 55
+    commentsToLikes: 0.010679
+    id: ck5cciwayhg420i11psz1q3ym
+    verified: false
+    hashtags: "#tattoooffer, #tattoo, #tattoodesign, #tattooideas"
+  - username: "devilztattooz"
+    fullname: >-
+      DEVIL'Z TATTOOZ | Best tattoo studio / artist in Delhi NCR India
+    bio: >-
+      In Top20 "Best tattoo artists in the world" 4 Studios 🇪🇺 Luxembourg 🇮🇳 New Delhi GK1, Vegas Mall & Galleria Gurgaon 24 artists ☎️ 9-8-7-6-5-4-3-2-85
+    location: "India"
+    followers: 179530
+    engagement: 19
+    commentsToLikes: 0.006530
+    id: ckf5tsy52iodw0j23sshnjida
+    verified: false
+    hashtags: "#devilztattooz, #lesstalkmorerock, #wheredelhigetsinked, #finelinetattoo"
   - username: "max.solarink"
     fullname: >-
       ❊ Max Becker | Tattoo Artist ❊
@@ -31,30 +103,18 @@ profiles:
     id: ck5buc2kehife0i11k4nhx8g7
     verified: false
     hashtags: ""
-  - username: "ektatattooart"
+  - username: "acetattooz"
     fullname: >-
-      Ekta vaishnav
+      Ace Tattooz & Art Studio
     bio: >-
-      Tattoo Artist Fitness Consultant Founder @butter_box_ @realmusclesnutrition Cont.9898373114 Tattoo studio- Sep.2014 Ahmedabad
+      ♠️ Tattoo | Piercings | Trainings | Paintings ♠️ Founders - @archana_acetattooz & @nikhil.acetattooz 📍#AceTattooz #mumbai 📍#colaba & 📍#ghatkopar
     location: "India"
-    followers: 27017
-    engagement: 200
-    commentsToLikes: 0.010152
-    id: ck5cciwayhg420i11psz1q3ym
+    followers: 29400
+    engagement: 153
+    commentsToLikes: 0.017744
+    id: ck8szmkryp0bm0j78evskl3ih
     verified: false
-    hashtags: "#tattoodesign, #tattoogirl, #smile, #tattooartist"
-  - username: "manjeettattooz"
-    fullname: >-
-      Manjeet Singh
-    bio: >-
-      Manjeet Singh One of top 100 Tattoo Artists around the world.Manjeet Tattooz is Internationally acclaimed tattoo studio in Delhi Snap👻 manjeettattooz
-    location: "India"
-    followers: 89550
-    engagement: 590
-    commentsToLikes: 0.008924
-    id: ck14gj6hu5hqt0i1988v06z2p
-    verified: false
-    hashtags: "#love, #portrait, #inked, #instagood"
+    hashtags: "#tattoodesign, #tattooworld, #aceartist, #animetattoo"
   - username: "kl_23_freakzz_"
     fullname: >-
       🌼freakz~of~KL~23👣
@@ -67,64 +127,4 @@ profiles:
     id: ck9wgdvw1szmo0j78qsf6ksd4
     verified: false
     hashtags: "#india, #malappuram, #zrfrz, #ink"
-  - username: "tattoographer"
-    fullname: >-
-      TATTOOGRAPHER KARAN ~ KING ™️
-    bio: >-
-      THE 1 IN THE UNIVERSE FIRST & MOST MODIFIED INDIAN ON THE PLANET Guinness World Record Holder 🐅 🦅 👻 ~ tattoographer
-    location: "India"
-    followers: 88861
-    engagement: 443
-    commentsToLikes: 0.003911
-    id: ck8svu8llcpjf0j785x6v9vng
-    verified: true
-    hashtags: "#art, #first, #athlete, #enjoying"
-  - username: "mettleink"
-    fullname: >-
-      ❌RAJA❌
-    bio: >-
-      💥Bookings Open 📍Bangalore-based travelling artist 🖌 Custom tattoos + commissioned artwork 🙌🏽 DM for an appointment or art-related queries
-    location: "India"
-    followers: 12318
-    engagement: 1091
-    commentsToLikes: 0.024639
-    id: ck5cha7luqe4k0i118q45da6t
-    verified: false
-    hashtags: "#blackandgreytattoo, #menwithtattoos, #tattooideas, #customtattoo"
-  - username: "bodycanvastattooart"
-    fullname: >-
-      BodyCanvas
-    bio: >-
-      Team of Tattooists, piercers & artists. London,Mumbai,Delhi +919819184454 www.bodycanvas.in
-    location: "India"
-    followers: 30777
-    engagement: 208
-    commentsToLikes: 0.011822
-    id: ckaoxjqa6dkll0i78bi9tidr6
-    verified: false
-    hashtags: "#art, #instagood, #healing, #minimaltattoo"
-  - username: "cleopatraink"
-    fullname: >-
-      Cleopatra Ink
-    bio: >-
-      🥇World's Largest Tattoo Company 🏆 73 Awards won in Conventions 🌍 9 Countries 58 Studios 🇹🇷TR 🇸🇯NO 🇫🇮FI 🇩🇪DE 🇬🇷GR 🇨🇻CV 🇺🇦UA 🇺🇸USA 🇨🇭CH
-    location: "India"
-    followers: 227086
-    engagement: 210
-    commentsToLikes: 0.001759
-    id: ck8sxsqz2ij2c0j7869exsn2m
-    verified: false
-    hashtags: "#colorwork, #tattooartist, #instatattoos, #colorworks"
-  - username: "inkpplcom"
-    fullname: >-
-      iNKPPL Tattoo Magazine
-    bio: >-
-      📷Tag ur posts @inkpplcom and the best will be featured. ⠀ 🔥TURN ON POST NOTIFICATIONS🔥 ⠀ 📩 info@inkppl.com ⠀ Welcome to the world of modern tattoo 👇
-    location: "India"
-    followers: 96499
-    engagement: 61
-    commentsToLikes: 0.008486
-    id: ck5q4pieuptmz0i11nuafnpqm
-    verified: false
-    hashtags: "#ink, #radtattoos, #newschooltattoo, #bodyart"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Rappers TikTok Influencers In United States In 2023
+title: Top 10 Rappers TikTok Influencers In United States In 2024
 description: >-
-  Find top rappers TikTok influencers in United States in 2023. Most popular hashtags: #duet #rap #fyp.
+  Find top rappers TikTok influencers in United States in 2024. Most popular hashtags: #duet #rap #fyp.
 platform: TikTok
 hits: 593
-text_top: Discover the best TikTok accounts on inBeat.
-text_bottom: Our search engine aggregates 593 TikTok influencers like this in United States for you to contact.
+text_top: Discover the most popular TikTok profiles on inBeat.
+text_bottom: Our search engine has 593 TikTok influencers like this in United States for you to contact.
 profiles:
   - username: "youngmercfire"
     fullname: >-
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.032166
     id: ck9kb9w0okaxm0j78rigij2f1
     verified: true
-    hashtags: "#wholesomecontent, #originalmusic, #rapper, #sillysongs"
+    hashtags: "#originalmusic, #wholesomecontent, #rapper, #sillysongs"
   - username: "kiwifro0ot"
     fullname: >-
       keke
@@ -117,14 +117,14 @@ profiles:
     hashtags: "#beyondhymn, #amen, #christianrap, #godbless"
   - username: "kalikoop"
     fullname: >-
-      SlyKooper
+      DunnieManJr
     bio: >-
-      Love Yourself, then Me❤️ Rapper/Skater/Entrepreneur🏆 46K in the KooperGang🖤
+      DunnieTown, USA📍 Rapper/Skater/Entrepreneur🏆 46K in the KooperGang🖤
     location: "United States"
-    followers: 46200
-    engagement: 2204
-    commentsToLikes: 0.142190
+    followers: 45900
+    engagement: 1845
+    commentsToLikes: 0.140113
     id: ckcvjpvesx7ha0j23x5jehapl
     verified: false
-    hashtags: "#foryou, #fyp, #skateboarding, #duet"
+    hashtags: "#kalikoop, #foryou, #skateboarding, #fyp"
 ---

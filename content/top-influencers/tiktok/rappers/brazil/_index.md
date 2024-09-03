@@ -1,11 +1,11 @@
 ---
-title: Top 10 Rappers TikTok Influencers In Brazil In 2023
+title: Top 10 Rappers TikTok Influencers In Brazil In 2024
 description: >-
-  Find top rappers TikTok influencers in Brazil in 2023. Most popular hashtags: #rapper #fyp #tiktok #music.
+  Find top rappers TikTok influencers in Brazil in 2024. Most popular hashtags: #rapper #fyp #fy #music.
 platform: TikTok
 hits: 16
-text_top: Identify the best TikTok accounts on inBeat.
-text_bottom: Our platform holds 16 TikTok influencers like this in Brazil for you to collaborate.
+text_top: Discover the most popular TikTok profiles on inBeat.
+text_bottom: inBeat holds 16 TikTok influencers like this in Brazil for you to contact.
 profiles:
   - username: "unfamous_willsmith"
     fullname: >-

@@ -1,12 +1,48 @@
 ---
-title: Top 10 Music Instagram Influencers In Austria In 2023
+title: Top 10 Music Instagram Influencers In Austria In 2024
 description: >-
-  Find top music Instagram influencers in Austria in 2023. Most popular hashtags: #vienna #wien #music.
+  Find top music Instagram influencers in Austria in 2024. Most popular hashtags: #vienna #austria #wien.
 platform: Instagram
-hits: 51
-text_top: Analyze the top-rated Instagram accounts on inBeat.
-text_bottom: Our database has 51 Instagram influencers like this in Austria for you to pitch.
+hits: 73
+text_top: Analyze the top-rated Instagram influencers on inBeat.
+text_bottom: inBeat aggregates 73 Instagram influencers like this in Austria for you to pitch.
 profiles:
+  - username: "sona.grant"
+    fullname: >-
+      Sona Grant
+    bio: >-
+      vienna 🪻 lifestyle • music • home 💌 management@sonagrant.com
+    location: "Austria"
+    followers: 153014
+    engagement: 1132
+    commentsToLikes: 0.018765
+    id: ck6ttk1gcb1sv0j712v9qsnje
+    verified: false
+    hashtags: "#deutsch, #haus, #vienna, #familie"
+  - username: "dominiquejardin"
+    fullname: >-
+      Dominique Jardin™
+    bio: >-
+      I make music 🪩 Booking/promos: info@dominiquejardin.com
+    location: "Austria"
+    followers: 245368
+    engagement: 408
+    commentsToLikes: 0.006474
+    id: ck55ocvuz849g0i11dxwboa00
+    verified: true
+    hashtags: "#morroco, #djliveset, #schmittenh, #franzlschmitten"
+  - username: "missevalutz"
+    fullname: >-
+      Eva
+    bio: >-
+      loves fitness, movies, music & vegan food 🌱 ♓️ ✨🤍🧿📍Austria, Linz 📚⚖️👩‍💻 lawyer assistant
+    location: "Austria"
+    followers: 83400
+    engagement: 61
+    commentsToLikes: 0.109531
+    id: ck6tzasl38m4l0j71s1at1ngz
+    verified: false
+    hashtags: "#eyes, #garden, #curves, #beach"
   - username: "rhinavoneisenhut"
     fullname: >-
       Rhina von Eisenhut
@@ -30,7 +66,7 @@ profiles:
     commentsToLikes: 0.017873
     id: ck13bg470v9cn0i196jnruecz
     verified: false
-    hashtags: "#ektar100, #filmpalette, #madewithkodak, #rz67"
+    hashtags: "#rz67, #filmpalette, #6x7film, #ektar100"
   - username: "andyblizzy"
     fullname: >-
       ANDY BLIZZY aka officialandyb
@@ -42,7 +78,7 @@ profiles:
     commentsToLikes: 0.042546
     id: ck8wfih74frc20j782qw46f14
     verified: false
-    hashtags: "#oida, #austria, #cute, #fun"
+    hashtags: "#reels, #oida, #fun, #austria"
   - username: "depixtion"
     fullname: >-
       Peter | Vienna, Austria 🇦🇹
@@ -67,18 +103,6 @@ profiles:
     id: ckap5zwsndvaq0i789k20erao
     verified: false
     hashtags: ""
-  - username: "ninasofiemusic"
-    fullname: >-
-      Nina Sofie
-    bio: >-
-      🇦🇹16yo 🎵violin, piano, marimba-classical music/pop music 🎶management @eqmusic_at 🎻 @mdwwien / 8 sem. @unimozarteumsalzburg
-    location: "Austria"
-    followers: 59400
-    engagement: 485
-    commentsToLikes: 0.023199
-    id: ck6u006z6cvtj0j71covge4g5
-    verified: false
-    hashtags: "#loopartist, #violinpractice, #internationalmusician, #student"
   - username: "worldwideweindl"
     fullname: >-
       Paul Weindl
@@ -91,18 +115,6 @@ profiles:
     id: ck8szevgao5qv0j78q7bp5foj
     verified: false
     hashtags: "#feelaustria, #visitsalzkammergut, #landscapephotography, #winterlandschaft"
-  - username: "dosem"
-    fullname: >-
-      D  O  S  E  M
-    bio: >-
-      ✉️ contact@dosem.net 🌐 @houstrike Music + Merch 💿 Anjunadeep’s 𝘿𝙍𝙀𝘼𝙈 𝘿𝙀𝘾𝙊𝘿𝙀𝙍 ✨
-    location: "Austria"
-    followers: 54513
-    engagement: 116
-    commentsToLikes: 0.049490
-    id: ck5c49zzx0wv90i11c1gm0l90
-    verified: true
-    hashtags: "#2019, #anjunadeep, #dreamdecoder, #twitch"
   - username: "bettinamoench"
     fullname: >-
       Bettina Mönch
@@ -115,16 +127,4 @@ profiles:
     id: ck5pvsatvjeal0i11jtx68fyi
     verified: false
     hashtags: "#volksoper, #ilovethisshow, #cabaret, #ilovemyjob"
-  - username: "nima.yahya"
-    fullname: >-
-      Nima
-    bio: >-
-      Music Producer/Sound Designer Musician DJ 🇦🇹 Vienna
-    location: "Austria"
-    followers: 10042
-    engagement: 607
-    commentsToLikes: 0.015614
-    id: ckf5nrajczdej0j23sg1i2nzn
-    verified: false
-    hashtags: "#producer, #bunkerz, #party, #vienna"
 ---

@@ -1,24 +1,72 @@
 ---
-title: Top 10 Guitar Instagram Influencers In Indonesia In 2023
+title: Top 10 Guitar Instagram Influencers In Indonesia In 2024
 description: >-
-  Find top guitar Instagram influencers in Indonesia in 2023. Most popular hashtags: #guitar #guitarist #music #musician.
+  Find top guitar Instagram influencers in Indonesia in 2024. Most popular hashtags: #guitar #guitarist #music #musician.
 platform: Instagram
-hits: 180
-text_top: Discover the most popular Instagram influencers on inBeat.
-text_bottom: Our database holds 180 Instagram influencers like this in Indonesia for you to contact.
+hits: 176
+text_top: Analyze the most popular Instagram accounts on inBeat.
+text_bottom: Our database has 176 Instagram influencers like this in Indonesia for you to connect with.
 profiles:
-  - username: "alefunky_gottalent"
+  - username: "joshsitompul"
     fullname: >-
-      - A L E  F U N K Y -
+      JOSH SITOMPUL
     bio: >-
-      ◾Asia's Got Talent ◾Guitarist @ladaband ◾#Endorse SCHECTER ◾Owner @rockschool_ ◾#Endorse BUGERA ◾NEWBIRTH youtube:ALE FUNKY business 🔜 WA:089676528458
+      Singer, Guitarist & Content Creator Founder of @jnfentertainment CP +62 896 19919988 (Dee)
     location: "Indonesia"
-    followers: 17598
-    engagement: 409
-    commentsToLikes: 0.121656
-    id: ck5c1y8apw5vf0i11s872jbgi
+    followers: 33147
+    engagement: 2604
+    commentsToLikes: 0.049219
+    id: ck6tmbfu07j5h0j7116bx912w
     verified: false
-    hashtags: "#asiagottalent2019, #guitar, #cibinong, #wonderfulindonesia"
+    hashtags: "#dagelanmusik, #jnfentertainment, #musicentertainmentjakarta, #indovidgram"
+  - username: "bimamusic"
+    fullname: >-
+      Bima Sabta Andiansyah
+    bio: >-
+      🎸Guitarist ▫️BA @bacchusindonesia @orleeozora @nux_indonesia @laneyindonesia @magmastringsindonesia Youtube | Abim Finger
+    location: "Indonesia"
+    followers: 77267
+    engagement: 396
+    commentsToLikes: 0.031967
+    id: ck5pz5zo7zdtq0i11ky4ngruu
+    verified: false
+    hashtags: "#pedalboard, #jagakesehatan, #abimfinger, #gitaris"
+  - username: "endahwidiastuti"
+    fullname: >-
+      Endah Widiastuti
+    bio: >-
+      Singer-guitarist of @endahNrhesa
+    location: "Indonesia"
+    followers: 63041
+    engagement: 187
+    commentsToLikes: 0.031895
+    id: ck0w0rbgufndf0i19bfcd5110
+    verified: true
+    hashtags: "#kamikangenfestival, #aki2021, #apreasiasikreasiindonesia, #redwood"
+  - username: "ridho_hafiedz"
+    fullname: >-
+      Ridho Hafiedz
+    bio: >-
+      Guitarist / SLANK Twitter: ridhohafiedz
+    location: "Indonesia"
+    followers: 387357
+    engagement: 110
+    commentsToLikes: 0.014446
+    id: ck136eqc864og0i19ujuzo5df
+    verified: true
+    hashtags: "#slankers, #gitarisuntuknegeri, #slank, #aki2021"
+  - username: "uapwidya"
+    fullname: >-
+      Rr. Widya Ayu Permatasari
+    bio: >-
+      singer/songwriter, guitarist, music producer. Co-Owner of @goodfolks.jakarta Contact person: +62 815 73535384
+    location: "Indonesia"
+    followers: 82050
+    engagement: 13
+    commentsToLikes: 0.001683
+    id: ck15rhzp2813h0i19u39mj265
+    verified: true
+    hashtags: "#bethereforyou, #sahabatgakmakanpacar, #temenantemenanaja, #gakngambilpacarorang"
   - username: "yankjay"
     fullname: >-
       Yankjay Nugraha
@@ -79,52 +127,4 @@ profiles:
     id: ck0uelprdlmxt0i19imu3k1s4
     verified: false
     hashtags: "#alongexists, #adaexistsstudio, #existsband, #tinta"
-  - username: "cellanadalam"
-    fullname: >-
-      Mario MarCELLA handhika Putra
-    bio: >-
-      - Bojone @carolynadewi - Bapak'e @gibby.jazzy.anacarla - 6 string @kotakband_ - @cellanadalam_bekas NOISY_BUT_BLUESY, old car, motorcycle & guitar
-    location: "Indonesia"
-    followers: 232358
-    engagement: 371
-    commentsToLikes: 0.028680
-    id: ck138exi1fwoz0i19tw3qhdqp
-    verified: true
-    hashtags: "#menukesultanan, #gitarisindonesia, #gitaris, #gitarisina"
-  - username: "aldenluhukay"
-    fullname: >-
-      Alden Lucas Luhukay
-    bio: >-
-      🔥 Guitarist | Producer | Arranger | Music Director 🎸 All about Soul and Groove 🎵 Profound Music 🎸 Saykoji | Rayen Pono | Solky 🎤 ALLDONE KLAAR
-    location: "Indonesia"
-    followers: 14291
-    engagement: 372
-    commentsToLikes: 0.069097
-    id: ck9wd2q0ddt2g0j78l4gy4j22
-    verified: false
-    hashtags: "#cupang, #aldenluhukay, #bettafish, #bettafishale"
-  - username: "dener_ceide"
-    fullname: >-
-      Dener Ceide
-    bio: >-
-      Visionary Artist, Musician, Singer, Guitarist, Songwriter, Producer https://itunes.apple.com/us/album/sele-bride/id1287229678?i=1287229684
-    location: "Indonesia"
-    followers: 25576
-    engagement: 405
-    commentsToLikes: 0.101781
-    id: ck6tpxzs3o7me0j718ctj08vj
-    verified: false
-    hashtags: "#isis, #hit, #fun, #love"
-  - username: "bimamusic"
-    fullname: >-
-      abim_finger 🇮🇩
-    bio: >-
-      🎸Guitarist 🤠13 year Bacchus Guitar Endorser Laney amps Indonesia Endorser Call/whatsapp : 082336533363 My Youtube | Abim Finger
-    location: "Indonesia"
-    followers: 56771
-    engagement: 373
-    commentsToLikes: 0.025147
-    id: ck5pz5zo7zdtq0i11ky4ngruu
-    verified: false
-    hashtags: "#ernieballstrings, #gitarisindonesia, #guitarist, #bacchusguitars"
 ---

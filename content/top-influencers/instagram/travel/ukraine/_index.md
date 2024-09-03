@@ -1,21 +1,117 @@
 ---
-title: Top 10 Travel Instagram Influencers In Ukraine In 2023
+title: Top 10 Travel Instagram Influencers In Ukraine In 2024
 description: >-
-  Find top travel Instagram influencers in Ukraine in 2023. Most popular hashtags: #beauty #nature #style.
+  Find top travel Instagram influencers in Ukraine in 2024. Most popular hashtags: #travel #travelgram #ukraine.
 platform: Instagram
-hits: 132
-text_top: Identify the best Instagram accounts on inBeat.
-text_bottom: Our database holds 132 Instagram influencers like this in Ukraine for you to work with.
+hits: 150
+text_top: Identify the most popular Instagram accounts on inBeat.
+text_bottom: Our platform has 150 Instagram influencers like this in Ukraine for you to contact.
 profiles:
+  - username: "burlutskyi"
+    fullname: >-
+      Travel Dreamer #109 countries
+    bio: >-
+      ⭐️ Luxury Traveler & Lifestyle ⭐️ Professional Business Coach ⭐️ Brand Ambassador of VISA ⭐️ Friends & Family HILTON
+    location: "Ukraine"
+    followers: 759768
+    engagement: 410
+    commentsToLikes: 0.012872
+    id: ck13aupffsa5k0i19qox0h2jb
+    verified: false
+    hashtags: "#instatravel, #anantiresort, #travelblog, #instagram"
+  - username: "baba.aghayev"
+    fullname: >-
+      Baba Aghayev
+    bio: >-
+      Travel Blogger 70 countries so far 🌎✈️ All photos are taken with Samsung S23 Ultra. Based in Dubai 🇦🇪📍
+    location: "Ukraine"
+    followers: 29192
+    engagement: 925
+    commentsToLikes: 0.026281
+    id: ckaou4s4rysp90i785rhna4h1
+    verified: false
+    hashtags: "#travelbloggers, #tribes, #travelmore, #gezeyenler"
+  - username: "aidana_yuldasheva"
+    fullname: >-
+      Aidana🕊️
+    bio: >-
+      Influencer Mom of 2 | lifestyle, travel🌏 Astana, Kazakhstan📍 coop: @2any1_com 📨
+    location: "Ukraine"
+    followers: 207378
+    engagement: 446
+    commentsToLikes: 0.052996
+    id: ck6tk7xyl46dv0j71jlt1u18f
+    verified: false
+    hashtags: "#iherbukraine, #ad, #ayasofya, #diorjadore"
+  - username: "catsol777"
+    fullname: >-
+      CATSOL
+    bio: >-
+      Ekaterina Catsol 🌍 Lifestyle&Travel 📩 DM: svetatimohina06@gmail.com
+    location: "Ukraine"
+    followers: 234917
+    engagement: 320
+    commentsToLikes: 0.012131
+    id: ck5hrwvr1vm9l0i11fetwtws9
+    verified: false
+    hashtags: "#goldenbay, #yalta, #crimeaphoto, #larnaka"
+  - username: "danandnatty"
+    fullname: >-
+      DAN + NATALIYA ✈ Travel Couple
+    bio: >-
+      from 🇺🇦 & 🇵🇱 working full time & traveling🧳 on an adventures to see the world sharing tips & guides as we go follow along & check out our blog + vlog⤵
+    location: "Ukraine"
+    followers: 17555
+    engagement: 500
+    commentsToLikes: 0.121678
+    id: ck9hbqcjii0pf0j78kixa99td
+    verified: false
+    hashtags: "#romeitaly, #tulumbeach, #venice, #letstravel"
+  - username: "rrrudya"
+    fullname: >-
+      Alina Rudya
+    bio: >-
+      🇺🇦🇩🇪Berlin. Travel | Documentary | Lifestyle. @bellcollective founder. hello@alinarudya.com
+    location: "Ukraine"
+    followers: 101269
+    engagement: 222
+    commentsToLikes: 0.005650
+    id: ck0tufl4p6xt40i19yz9co4ra
+    verified: true
+    hashtags: "#kirschbl, #ukraine, #berlin, #35mm"
+  - username: "iamannasin"
+    fullname: >-
+      Anna Sinitsina
+    bio: >-
+      ✨ Live in London, travel everywhere✨ ✨ YouTube: iamannasin ✨ 📩 PR: iamannasin@outlook.com
+    location: "Ukraine"
+    followers: 20487
+    engagement: 185
+    commentsToLikes: 0.039946
+    id: ckaoyniiei93j0i786kgpbtfq
+    verified: false
+    hashtags: "#suqqumakeup, #diormakeup, #suqqu, #suqqubeauty"
+  - username: "roof_talks"
+    fullname: >-
+      KATI 📍 EDMONTON INFLUENCER
+    bio: >-
+      🛫 Travel across Canada for work 🧴 Skincare, motivation, self-development 👇🏽 My blog, Amazon store, useful links
+    location: "Ukraine"
+    followers: 19452
+    engagement: 182
+    commentsToLikes: 0.101616
+    id: ckap25d5uxfzh0i78hy939ozi
+    verified: false
+    hashtags: "#canadianblogger, #canadianinfluencer, #canadablogger, #canadasworld"
   - username: "wanderreds"
     fullname: >-
       Alvaro Rojas
     bio: >-
       Youngest Spaniard to Visit Every Country in the World. ⇝ Professional Traveler. ⇝ Founder: @wanderexpedition ⇝ JOIN AN EXPEDITION ⤵
     location: "Ukraine"
-    followers: 313767
-    engagement: 904
-    commentsToLikes: 0.016538
+    followers: 314798
+    engagement: 161
+    commentsToLikes: 0.014817
     id: ck8syazsekbfo0j781wlj7dic
     verified: true
     hashtags: ""
@@ -31,100 +127,4 @@ profiles:
     id: ckf5oergb1z230j23e4f4b5o5
     verified: false
     hashtags: "#waves, #beshtafamily, #travel, #shastamountain"
-  - username: "annagirm"
-    fullname: >-
-      A.n.n.a G.i.r Malowany 🌺
-    bio: >-
-      Good life blogger 🤳🏻 Born in Odessa Ukraine 🇺🇦 Living in Israel 🇮🇱 Traveling the world 🌎 Food 😋 and wine 🍷 fan
-    location: "Ukraine"
-    followers: 5594
-    engagement: 2134
-    commentsToLikes: 0.160600
-    id: ck0tyggvvmppp0i19v8scrgo5
-    verified: false
-    hashtags: "#smile, #happygirl, #enjoyinglife, #cheers"
-  - username: "n_hayduk"
-    fullname: >-
-      Інстащоденник Анастасії
-    bio: >-
-      •Майбутній ветеринар зі Львова •Мандрую Україною та не тільки #nhayduk_travel •19 років - 18 країн. •Співпраця-в дірект📩
-    location: "Ukraine"
-    followers: 26707
-    engagement: 314
-    commentsToLikes: 0.200844
-    id: ckap1z9mtwp9v0i78mpz5fpzo
-    verified: false
-    hashtags: "#parisianstyle, #liketime, #neutralstyle, #neutraltones"
-  - username: "mila_korneli"
-    fullname: >-
-      Людмила Корнелюк
-    bio: >-
-      Mommy #leia_korn Traveller Beauty & lifestyle Cooperation -@korneli.cooperation /📩 Youtube👇🏻
-    location: "Ukraine"
-    followers: 141607
-    engagement: 917
-    commentsToLikes: 0.010364
-    id: ck5c2mseyxk5d0i114gpdout8
-    verified: false
-    hashtags: "#huggies"
-  - username: "valeriya.kuk"
-    fullname: >-
-      Valeriya Kuklishyna🦋
-    bio: >-
-      Currently in LA with @theindustryla jf@theindustryla.com Ukrainian traveling the 🌎
-    location: "Ukraine"
-    followers: 24318
-    engagement: 350
-    commentsToLikes: 0.048349
-    id: ck8t0recrt0ly0j78nuy7vd0u
-    verified: false
-    hashtags: ""
-  - username: "romariokrav"
-    fullname: >-
-      Roman Kravtsov
-    bio: >-
-      Track&Field🏃‍♂️ • Travel • Graphic design World championship 🏅2015 European championships🏅 2013,2014,2015,2016,2017 📍Madrid, next Mallorca 🇪🇸
-    location: "Ukraine"
-    followers: 30024
-    engagement: 303
-    commentsToLikes: 0.085863
-    id: ck8t22o6vxzsa0j78js579yrx
-    verified: false
-    hashtags: "#portraitinspiration, #croatiatrip, #hotelsandresorts, #croatia"
-  - username: "olechka_storojuk"
-    fullname: >-
-      Olga Storozhuk
-    bio: >-
-      🎬Actress traveling the world 🏝Sharing best locations 👮🏼‍♀️СуперКоп на NLO TV 📍Kyiv Showreel -
-    location: "Ukraine"
-    followers: 46156
-    engagement: 318
-    commentsToLikes: 0.052624
-    id: ck8t7ra8ohq840j78nucsu3sm
-    verified: false
-    hashtags: "#actress"
-  - username: "stasia_bonni"
-    fullname: >-
-      Anastasiia Bannichkova
-    bio: >-
-      Ukrainian actress🎬 Model👠 Traveler🇺🇸🇮🇹🇨🇭🇫🇷🇹🇷🇸🇨🇷🇺🇮🇩🇵🇹🇲🇩🇬🇷🇪🇸🇦🇪🇨🇿🇭🇷🇲🇹🇸🇪🇮🇸🇫🇮🇮🇱🇹🇼🇭🇰🇹🇭🇨🇳🇦🇱 Kiev 🇺💛💙🇦 MA @cyrusmodels Totally happy girl 💃 @bemodelnyc
-    location: "Ukraine"
-    followers: 21583
-    engagement: 337
-    commentsToLikes: 0.053147
-    id: ck6tpkwatkfv40j71ee51d8m5
-    verified: false
-    hashtags: "#look, #nyc, #blonde, #fun"
-  - username: "godsend_v"
-    fullname: >-
-      𝓥𝓮𝓻𝓸𝓷𝓲𝓬𝓪 𝓲𝓷 𝓓𝓾𝓫𝓪𝓲
-    bio: >-
-      🇺🇦Ukrainian living in Dubai 🇦🇪 Social Media Contributor | Creator of Opportunities Fashion🔹F&B 🔹Aesthetic Beauty 🔹Travel 📩 DM for Collaboration
-    location: "Ukraine"
-    followers: 13016
-    engagement: 554
-    commentsToLikes: 0.054866
-    id: ckap10zn3sno00i78rc9obysd
-    verified: false
-    hashtags: "#dubaiblog, #dtcm, #dubaiblogger, #blondegirl"
 ---

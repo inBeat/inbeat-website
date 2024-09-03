@@ -1,11 +1,11 @@
 ---
-title: Top 10 Punk TikTok Influencers In 2023
+title: Top 10 Punk TikTok Influencers In 2024
 description: >-
-  Find top punk TikTok influencers in 2023. Most popular hashtags: #duet #fyp #greenscreen #punknation.
+  Find top punk TikTok influencers in 2024. Most popular hashtags: #duet #fyp #chilidogyumplz #punknation.
 platform: TikTok
-hits: 731
-text_top: Discover the best TikTok profiles on inBeat.
-text_bottom: inBeat aggregates 731 TikTok influencers like this for you to pitch.
+hits: 745
+text_top: See the best TikTok influencers on inBeat.
+text_bottom: Our database aggregates 745 TikTok influencers like this for you to collaborate.
 profiles:
   - username: "bodahlia"
     fullname: >-
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.268268
     id: cka0tfrulpple0i78eakk94oc
     verified: false
-    hashtags: "#dontquityourdaydream, #doll, #dollhouze, #cherrybomb"
+    hashtags: "#vixysquad, #cherrybomb, #fallenangel, #punknation"
   - username: "scarii.spice"
     fullname: >-
       dollar store deku

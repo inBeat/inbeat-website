@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fashion TikTok Influencers In Atlanta In 2023
+title: Top 10 Fashion TikTok Influencers In Atlanta In 2024
 description: >-
-  Find top fashion TikTok influencers in Atlanta in 2023. Most popular hashtags: #fyp #atlanta #fashion #viral.
+  Find top fashion TikTok influencers in Atlanta in 2024. Most popular hashtags: #fyp #atlanta #fashion #viral.
 platform: TikTok
-hits: 38
-text_top: Analyze the most popular TikTok accounts on inBeat.
-text_bottom: Our platform aggregates 38 TikTok influencers like this in Atlanta, United States for you to pitch.
+hits: 39
+text_top: Identify the top-rated TikTok accounts on inBeat.
+text_bottom: Our search engine holds 39 TikTok influencers like this in Atlanta, United States for you to connect with.
 profiles:
   - username: "lorenschaffer"
     fullname: >-
@@ -18,7 +18,19 @@ profiles:
     commentsToLikes: 0.017476
     id: ckaig21zzzj200i787b6160g9
     verified: false
-    hashtags: "#singer, #schaftok, #lgbtq, #fashion"
+    hashtags: "#schaftok, #lgbtq, #singer, #androgynous"
+  - username: "_toshiad"
+    fullname: >-
+      TOSHIA D
+    bio: >-
+      Creative Photographer & Digital Artist Indy✈️ATL 🇬🇭🇺🇸🌻
+    location: "United States"
+    followers: 13800
+    engagement: 1860
+    commentsToLikes: 0.073422
+    id: ckai28ufgetyv0i78ajo0mcl4
+    verified: false
+    hashtags: "#viral, #atlanta, #tiktokggt, #fyp"
   - username: "ranen"
     fullname: >-
       Ranen 
@@ -31,18 +43,6 @@ profiles:
     id: ckd6m9j53gauv0j23xm6142rn
     verified: false
     hashtags: "#thrifted, #fashion, #style, #streetwear"
-  - username: "disaintready2luv_77"
-    fullname: >-
-      DisAintReady2Luv_77
-    bio: >-
-      Ready To Love Season 2 Cast OwnTV NaijaBoy 🇳🇬 My Path Held No Punches...
-    location: "United States"
-    followers: 24000
-    engagement: 1803
-    commentsToLikes: 0.085867
-    id: ckbfdvofd7dtt0j23n8fjcg3u
-    verified: false
-    hashtags: "#naijaboy, #justakidfromchicago, #viral, #fyp"
   - username: "iamashleyyyy._"
     fullname: >-
       𝙰𝚂𝙷𝙻𝙴𝚈 𝙼𝙰𝚁𝙸𝙴 ♡
@@ -54,19 +54,19 @@ profiles:
     commentsToLikes: 0.035081
     id: ckbeyumvfjki10j23uvbzaahl
     verified: false
-    hashtags: "#ifeelweightless, #scene, #xyzcba, #destinationdepop"
-  - username: "jessijheavenly"
+    hashtags: "#ifeelweightless, #itsourhome, #widenthescreen, #4youpage"
+  - username: "disaintready2luv_77"
     fullname: >-
-      JessijHeavenly
+      DisAintReady2Luv_77
     bio: >-
-      ✨Serial Entrepreneur & Baddie✨ www.HeavenlyHavenBoutique.com
+      Ready To Love Season 2 Cast OwnTV NaijaBoy 🇳🇬 My Path Held No Punches...
     location: "United States"
-    followers: 28500
-    engagement: 1278
-    commentsToLikes: 0.037752
-    id: ckcdkyk6l9jaf0j23mnohepgl
+    followers: 24200
+    engagement: 1880
+    commentsToLikes: 0.085827
+    id: ckbfdvofd7dtt0j23n8fjcg3u
     verified: false
-    hashtags: "#baecation, #baddie, #newarrivals, #atlanta"
+    hashtags: "#justakidfromchicago, #naijaboy, #af, #fyp"
   - username: "the_jimk"
     fullname: >-
       Jim Kelley
@@ -78,7 +78,7 @@ profiles:
     commentsToLikes: 0.104330
     id: ck9e18m3d9kf30j78s2laxmvu
     verified: false
-    hashtags: "#fyp, #retro, #comedy, #love"
+    hashtags: "#love, #makeitmagical, #tokusatsu, #fyp"
   - username: "thearishj"
     fullname: >-
       Arish Jamil
@@ -126,5 +126,5 @@ profiles:
     commentsToLikes: 0.019147
     id: ckcjqnaepgw9n0j23nwyft5zf
     verified: false
-    hashtags: "#tictokfashion, #viral, #vibezone, #fashionedit"
+    hashtags: "#bodypositivity, #fashioninspo, #styleinspo, #whattowear"
 ---

@@ -1,24 +1,24 @@
 ---
-title: Top 10 Barbers Instagram Influencers In New York In 2023
+title: Top 10 Barbers Instagram Influencers In New York In 2024
 description: >-
-  Find top barbers Instagram influencers in New York in 2023. Most popular hashtags: #barber #fashion #blurryfades #newyorkbarber.
+  Find top barbers Instagram influencers in New York in 2024. Most popular hashtags: #barber #art #fashion #texas.
 platform: Instagram
-hits: 54
-text_top: See the top-rated Instagram influencers on inBeat.
-text_bottom: Our database has 54 Instagram influencers like this in New York, United States for you to work with.
+hits: 62
+text_top: Discover the best Instagram influencers on inBeat.
+text_bottom: Our database holds 62 Instagram influencers like this in New York, United States for you to contact.
 profiles:
-  - username: "kaitlyn_hubert"
+  - username: "ethanbarber.co"
     fullname: >-
-      kaitlyn ✂️
+      ethan barber • new york city
     bio: >-
-      📍LOUISVILLE, KY• OWNER @pelobeautycollective• CREATOR @tomboyhaircare• NYC @contestarockhair_nyc• @buffbunny_collection : KAITLYN
+      nyc architectural & archival photographer timeless captures of historic manhattan streets ✉: contact@ethanbarber.co ↓ get a FREE lightroom preset!
     location: "United States"
-    followers: 115940
-    engagement: 123
-    commentsToLikes: 0.019057
-    id: ck0w45p0vwy000i198557uyld
+    followers: 557047
+    engagement: 469
+    commentsToLikes: 0.005883
+    id: ck5c4x7b92b1n0i11haacujdg
     verified: false
-    hashtags: "#louisville, #nyc, #inkedgirls, #newyork"
+    hashtags: "#upperwestside, #uws, #newyorkcity, #fall"
   - username: "revvfest"
     fullname: >-
       
@@ -31,18 +31,6 @@ profiles:
     id: ck6uh4i516y510j71sq9oqis2
     verified: false
     hashtags: "#moparlegends, #mopargang, #musclecar, #hellcatcharger"
-  - username: "windycityboi209"
-    fullname: >-
-      Barber Allan✂💈💺
-    bio: >-
-      @gammaplusna Haircuts $40+ Housecalls 100+
-    location: "United States"
-    followers: 36673
-    engagement: 113
-    commentsToLikes: 0.038245
-    id: ck5c6gtkx5eq70i11alvpvm2z
-    verified: false
-    hashtags: "#manhairstyle, #hypebeast, #travelingbarber, #labarber"
   - username: "mroca1214"
     fullname: >-
       Alissa Roca
@@ -55,18 +43,6 @@ profiles:
     id: ck8tcsoq50iz20j7818yjjiae
     verified: false
     hashtags: "#love, #concert, #opera, #christmas"
-  - username: "artbydale"
-    fullname: >-
-      Dale B
-    bio: >-
-      WORK SMART, HUSTLE HARD. ✍🏼 Proudly powered by @wacomanz
-    location: "United States"
-    followers: 30397
-    engagement: 153
-    commentsToLikes: 0.043170
-    id: ck0w4vayx0l0v0i19ujnio51y
-    verified: false
-    hashtags: "#barber, #cintiq, #adobe, #reaper"
   - username: "curlyhairjunkies"
     fullname: >-
       Natural Hair-Care Tutorials
@@ -103,6 +79,18 @@ profiles:
     id: ck5chuczerhae0i11obepzebi
     verified: false
     hashtags: "#travel, #paulmitchell, #art, #queenofthesouth"
+  - username: "rpnickson"
+    fullname: >-
+      Roberto Nickson
+    bio: >-
+      ‣ A home for builders & creative entrepreneurs ‣ Covering future tech @eluna.ai @metav3rse ‣ DM me “signal” for my letter ‣ Born in 🇻🇪 made in 🇺🇸
+    location: "United States"
+    followers: 411647
+    engagement: 1177
+    commentsToLikes: 0.049403
+    id: ck0u28795z5890i19btcp4tvi
+    verified: false
+    hashtags: "#meta, #tech, #ai, #artificialintelligence"
   - username: "noelblends"
     fullname: >-
       
@@ -115,16 +103,28 @@ profiles:
     id: ck5q8qfy77hre0i11nvzefunp
     verified: false
     hashtags: ""
-  - username: "worldclassbarbering"
+  - username: "massacciart"
     fullname: >-
-      ♛WorldClassBarbering♛
+      James Louis Massacci Jr
     bio: >-
-      Posting the Best Haircuts In the WORLD 🌎 For Features Tag @WorldClassBarbering and use hashtag #worldclassbarbering For Advertising: DM 📤
+      ⬇️ NEW ARRIVALS ⬇️
     location: "United States"
-    followers: 38191
-    engagement: 313
-    commentsToLikes: 0.042969
-    id: ck5c6es9e5afb0i117ca8hb6w
+    followers: 244253
+    engagement: 228
+    commentsToLikes: 0.184209
+    id: ckupcjconqgb70j23h6cs3l4v
     verified: false
-    hashtags: "#fadeuy, #blurryfade, #denverbarber, #wahl"
+    hashtags: "#pic, #fashion, #contemporaryart, #massacciart"
+  - username: "barbernova_"
+    fullname: >-
+      Barbernova™️
+    bio: >-
+      💈Barbers/Stylist 💥Follow Us & Tag Us to be featured on our page @barbernova_ #️⃣#Barbernova_ #NovaCutter #NovaBling 🛒Shop Now👇🏻
+    location: "United States"
+    followers: 76924
+    engagement: 75
+    commentsToLikes: 0.119155
+    id: ck15uu14poj2m0i1929bl1nfu
+    verified: false
+    hashtags: "#miamibarbers, #ohiobarbers, #viralvideos, #100kbarbers"
 ---

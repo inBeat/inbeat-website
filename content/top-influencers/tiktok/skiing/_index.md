@@ -1,11 +1,11 @@
 ---
-title: Top 10 Skiing TikTok Influencers In 2023
+title: Top 10 Skiing TikTok Influencers In 2024
 description: >-
-  Find top skiing TikTok influencers in 2023. Most popular hashtags: #fyp #skiing #skitok #snow.
+  Find top skiing TikTok influencers in 2024. Most popular hashtags: #fyp #skiing #skitok #snow.
 platform: TikTok
 hits: 45
-text_top: Identify the most popular TikTok accounts on inBeat.
-text_bottom: inBeat has 45 TikTok influencers like this for you to pitch.
+text_top: Discover the most popular TikTok influencers on inBeat.
+text_bottom: Our database holds 45 TikTok influencers like this for you to contact.
 profiles:
   - username: "marscho15"
     fullname: >-
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.056640
     id: ckaicxbvam8rv0i78ad3k6a2a
     verified: false
-    hashtags: "#biggerisbetter, #skiing, #flips, #sendit"
+    hashtags: "#fyp, #skiing, #switzerland, #viral"
   - username: "whatitdoaloe"
     fullname: >-
       Alora
@@ -55,6 +55,18 @@ profiles:
     id: ck8hneg9cqh980j78rwn5tpih
     verified: false
     hashtags: "#skitok, #snow, #skiing, #mountains"
+  - username: "pete.verheyde"
+    fullname: >-
+      Pete
+    bio: >-
+      Hope you like what I have to offer Skier from Calgary 🇨🇦
+    location: "Canada"
+    followers: 16600
+    engagement: 1072
+    commentsToLikes: 0.017473
+    id: ck8j7r8b0fle60j786a8848gs
+    verified: false
+    hashtags: "#fypage, #skiing, #reallifeathome, #fyp"
   - username: "lifeof.nate"
     fullname: >-
       NATE MICELI
@@ -66,7 +78,7 @@ profiles:
     commentsToLikes: 0.024800
     id: ckaignja727ri0i78m7d100e3
     verified: false
-    hashtags: "#lol, #fyp, #parkcity, #spotify"
+    hashtags: "#boseallout, #lol, #utah, #fail"
   - username: "rwallis"
     fullname: >-
       Reagan Wallis
@@ -115,16 +127,4 @@ profiles:
     id: ckbl3hjmw0v770j23snhlk5gy
     verified: false
     hashtags: "#foryou, #backflip, #wakesurf, #montana"
-  - username: "oscarwester1"
-    fullname: >-
-      Oscar Wester
-    bio: >-
-      Pro Skier from Sweden! Follow me on instagram: @oscarwester
-    location: "Sweden"
-    followers: 19200
-    engagement: 1113
-    commentsToLikes: 0.016209
-    id: ck8hqxow668xv0j78jmigtysq
-    verified: false
-    hashtags: "#snow, #sweden, #fyp, #backflip"
 ---

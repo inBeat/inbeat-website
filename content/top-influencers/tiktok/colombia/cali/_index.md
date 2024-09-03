@@ -1,10 +1,10 @@
 ---
-title: Top 10 TikTok Influencers In Cali In 2023
+title: Top 10 TikTok Influencers In Cali In 2024
 description: >-
-  Find top TikTok influencers in Cali in 2023. Most popular hashtags: #viral #fyp #parati #foryou.
+  Find top TikTok influencers in Cali in 2024. Most popular hashtags: #viral #fyp #colombia #parati.
 platform: TikTok
 hits: 68
-text_top: See the best TikTok profiles on inBeat.
+text_top: See the top-rated TikTok accounts on inBeat.
 text_bottom: inBeat has 68 TikTok influencers like this in Cali, Colombia for you to contact.
 profiles:
   - username: "yeyoo22"

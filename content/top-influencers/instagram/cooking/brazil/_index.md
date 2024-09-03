@@ -1,24 +1,48 @@
 ---
-title: Top 10 Cooking Instagram Influencers In Brazil In 2023
+title: Top 10 Cooking Instagram Influencers In Brazil In 2024
 description: >-
-  Find top cooking Instagram influencers in Brazil in 2023. Most popular hashtags: #instafood #vegan #dairyfree.
+  Find top cooking Instagram influencers in Brazil in 2024. Most popular hashtags: #brasil #cooking #comfortfood.
 platform: Instagram
-hits: 133
-text_top: Identify the most popular Instagram profiles on inBeat.
-text_bottom: Our platform has 133 Instagram influencers like this in Brazil for you to pitch.
+hits: 381
+text_top: Analyze the most popular Instagram influencers on inBeat.
+text_bottom: Our search engine holds 381 Instagram influencers like this in Brazil for you to work with.
 profiles:
-  - username: "juliabelard"
+  - username: "cozinhadesesperada"
     fullname: >-
-      Júlia Mantero Belard
+      cozinha desesperada
     bio: >-
-      Portuguese Actress 🌿 natural & conscious living 📩 collab 👉🏻 juliabelardact@gmail.com 👩🏻‍🍳 cooking for family
+      feito com desespero por @caarven - inglês: @desperate.cooking alemão: @verzweifelt.eu francês: @cuisine.desesperee
     location: "Brazil"
-    followers: 146905
-    engagement: 218
-    commentsToLikes: 0.292676
-    id: ck5cac73md5ar0i112mxgdpsm
+    followers: 144187
+    engagement: 1026
+    commentsToLikes: 0.015825
+    id: ckaovqes85pdb0i78639byiss
     verified: false
-    hashtags: "#elephantlove, #spaceylonportugal, #ayurvedawellness, #peleato"
+    hashtags: "#crossfit, #fitness, #receita, #cozinhadesesperada"
+  - username: "pauloshin"
+    fullname: >-
+      Paulo Shin
+    bio: >-
+      This is art. Cooking is art. - Jesse Pinkman
+    location: "Brazil"
+    followers: 18860
+    engagement: 483
+    commentsToLikes: 0.021614
+    id: ck0ub213wdk9t0i19n24kt5t5
+    verified: false
+    hashtags: "#vidasnegrasimportam, #blackouttuesday, #lajedodopaimateus, #avidasemfiltros"
+  - username: "matranchesi"
+    fullname: >-
+      Marcella Tranchesi
+    bio: >-
+      🇧🇷 Beauty_Fashion_Lifestyle_Cooking . #makesdamarcella #marcellacasamenteira #marcellamestrecuca #marcellarainhadolar . marcella@matranchesi.com.br
+    location: "Brazil"
+    followers: 823510
+    engagement: 25
+    commentsToLikes: 0.009213
+    id: ck0ttitq22wob0i19hx9areqk
+    verified: true
+    hashtags: "#cainatinta, #penteadosdamarcella, #marcellamestrecuca, #marcellarainhadolar"
   - username: "gabymenotti"
     fullname: >-
       Marília Gabriela
@@ -43,30 +67,6 @@ profiles:
     id: ck6tw67hyq7yp0j71xg9je7d2
     verified: true
     hashtags: "#mykonos, #tulum, #greece, #kproprofissional"
-  - username: "cozinhadesesperada"
-    fullname: >-
-      Cozinha Desesperada
-    bio: >-
-      receitas como a vida real: na base do desespero. - 🇺🇸🇨🇦🇬🇧 inglês: @desperate.cooking 🇦🇹🇩🇪 alemão: @caarven
-    location: "Brazil"
-    followers: 212292
-    engagement: 819
-    commentsToLikes: 0.020655
-    id: ckaovqes85pdb0i78639byiss
-    verified: false
-    hashtags: "#cozinhadesesperada, #cabeleireiraleila, #delicia, #gnt"
-  - username: "matranchesi"
-    fullname: >-
-      𝗠𝗮𝗿𝗰𝗲𝗹𝗹𝗮 𝗧𝗿𝗮𝗻𝗰𝗵𝗲𝘀𝗶
-    bio: >-
-      🇧🇷 Beauty_Cooking_Fashion_Lifestyle #marcellamestrecuca #marcellarainhadolar #makesdamarcella . marcella@matranchesi.com.br . LINK CALENDÁRIO 2021 👇
-    location: "Brazil"
-    followers: 597239
-    engagement: 130
-    commentsToLikes: 0.021414
-    id: ck0ttitq22wob0i19hx9areqk
-    verified: true
-    hashtags: "#trancasdamarcella, #publicidade, #moscowmule, #iqperfetto"
   - username: "crucompinta"
     fullname: >-
       Inês Simas
@@ -115,16 +115,16 @@ profiles:
     id: ck55lvie02jg50i11z0zmh1re
     verified: false
     hashtags: "#streetsoflondon, #beatstars, #deliveroo, #viradasponline"
-  - username: "pauloshin"
+  - username: "my.erick"
     fullname: >-
-      Paulo Shin
+      ERICK | TRAVEL
     bio: >-
-      This is art. Cooking is art. - Jesse Pinkman @komahrestaurante
+      ✈️ Te mostro tudo nas minhas viagens 🎥 Assistam os Reels 📍Paraná, Brasil 🇧🇷
     location: "Brazil"
-    followers: 15296
-    engagement: 623
-    commentsToLikes: 0.022550
-    id: ck0ub213wdk9t0i19n24kt5t5
+    followers: 17183
+    engagement: 259
+    commentsToLikes: 0.081792
+    id: ck0u0s0inusg70i19yzf1ulhh
     verified: false
-    hashtags: "#blackouttuesday, #avidasemfiltros, #naodeixefecharaconta, #naodeixeacontafechar"
+    hashtags: "#cordillera, #turistando, #viajarfazbem, #chiletravel"
 ---

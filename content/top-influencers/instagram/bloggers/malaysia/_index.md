@@ -1,36 +1,72 @@
 ---
-title: Top 10 Bloggers Instagram Influencers In Malaysia In 2023
+title: Top 10 Bloggers Instagram Influencers In Malaysia In 2024
 description: >-
-  Find top bloggers Instagram influencers in Malaysia in 2023. Most popular hashtags: #indiancooking #kolkatadiaries #ootd #loewe.
+  Find top bloggers Instagram influencers in Malaysia in 2024. Most popular hashtags: #taiwan #loewe #fashionblogger #model.
 platform: Instagram
-hits: 51
-text_top: Discover the best Instagram influencers on inBeat.
-text_bottom: Our search engine holds 51 Instagram influencers like this in Malaysia for you to collaborate.
+hits: 40
+text_top: Identify the most popular Instagram accounts on inBeat.
+text_bottom: Our database has 40 Instagram influencers like this in Malaysia for you to connect with.
 profiles:
-  - username: "jennagong"
+  - username: "pojiegraphy"
     fullname: >-
-      𝒥𝑒𝓃𝓃𝒶 𝒢𝑜𝓃𝑔
+      pojiegraphy
     bio: >-
-      Blogger｜Model | Talent Fashion • Beauty • Lifestyle For jobs & collabs 💌: jennainstyle@gmail.com
+      travel blogger & content creator based in kuala lumpur who wrote for www.pojiegraphy.com & can be reached at hello@pojiegraphy.com
     location: "Malaysia"
-    followers: 79571
-    engagement: 215
-    commentsToLikes: 0.011337
-    id: ck15qb5ij1ztv0i191h6hifjl
+    followers: 28383
+    engagement: 393
+    commentsToLikes: 0.049537
+    id: ck14iav2iehrh0i19pi9ar0kw
     verified: false
-    hashtags: "#shopee44megasale, #sulwhasoomyxshopee, #shopeeambassadormy, #fashionblogger"
+    hashtags: "#timbs, #builtforthebold, #thisisouroutdoors, #timberland"
+  - username: "aqsa.blogs"
+    fullname: >-
+      👩🏻Aqsa
+    bio: >-
+      Digital creator Fashion blogger Lifestyle Product reviews Foodie DM FOR promotion , review & invites
+    location: "Malaysia"
+    followers: 60976
+    engagement: 183
+    commentsToLikes: 0.044142
+    id: ckf5kxj6snldf0j23fyo64xjv
+    verified: false
+    hashtags: "#foodblogger, #dw, #khairkhwah, #starzplaybycinepax"
+  - username: "rafzantomomi"
+    fullname: >-
+      MOMI🦄
+    bio: >-
+      🦄Malaysia's Lifestyle Blogger / Content Creator 🦄Makan Makan at @myjejakrasa 🧁 🦄Blog IG : @momimomo_7 🦄Collab/paid review, please DM/email me 💕
+    location: "Malaysia"
+    followers: 23506
+    engagement: 138
+    commentsToLikes: 0.123038
+    id: ck5q81fvm412g0i1113002yxr
+    verified: false
+    hashtags: "#gdr, #resortsworldcruises, #momi, #jomcruiserwc"
+  - username: "shinilola"
+    fullname: >-
+      Shini Cheng KY
+    bio: >-
+      blogger and content creator since 2010 #travelwithshini enthusiast | lifestyle | fashion | beauty work : shinilola@gmail.com
+    location: "Malaysia"
+    followers: 50529
+    engagement: 71
+    commentsToLikes: 0.257487
+    id: ck0w2k7ikos880i19ectv4aem
+    verified: false
+    hashtags: "#shiniintokyo, #travelreels, #travelwithshini, #kenjixshini"
   - username: "areej.fatima"
     fullname: >-
       Areej Fatima Saeed
     bio: >-
-      Fashion Model,Travel & Lifestyle Blogger 📍Pakistan 👻 areejfatimak
+      Co-Host @gupshabofficial Fashion Model,Travel & Lifestyle Blogger 📍Pakistan 👻 areejfatimak
     location: "Malaysia"
-    followers: 187186
-    engagement: 121
-    commentsToLikes: 0.025445
+    followers: 250173
+    engagement: 2
+    commentsToLikes: 0.000000
     id: ck15tuzpyk1dd0i19po7clqbt
     verified: false
-    hashtags: "#lahore, #teamgalaxy, #areejfatimaxsamsung, #samsung"
+    hashtags: "#weddingdress, #lahore, #areejfatimasaeed, #blogger"
   - username: "dearruigallery"
     fullname: >-
       小貓 Rui /
@@ -55,30 +91,6 @@ profiles:
     id: ckap6urvehfoe0i78mpojo99y
     verified: false
     hashtags: "#nargilem, #phunnel, #shishalove, #shishagram"
-  - username: "maryshappybelly"
-    fullname: >-
-      Mary Tang 🍁 Toronto
-    bio: >-
-      @gustotv @sbsfood TV host/personality Blogger of Chinese/Asian recipes, tasty eats in T.O 🐥, FB, YouTube-maryshappybelly Order #MHBDumplings ⬇️
-    location: "Malaysia"
-    followers: 10346
-    engagement: 196
-    commentsToLikes: 0.265841
-    id: ck6tm3g8274330j71gulhup6t
-    verified: false
-    hashtags: "#goodfoodtoronto, #pictureoftheday, #foodporn, #tobermory"
-  - username: "mayablogs"
-    fullname: >-
-      Maya Khan | Influencer
-    bio: >-
-      The account where you can find best food in Islamabad Food Review Blogger🧿 Dm for | Invites | Collaborations | PR | #islamabadfoodblog 🇵🇰 🇦🇫 🇹🇷
-    location: "Malaysia"
-    followers: 17512
-    engagement: 352
-    commentsToLikes: 0.187088
-    id: ck9wgy3wevgkm0j78bc2z5s8h
-    verified: false
-    hashtags: "#happyfood, #islamabadblogger, #isbfoodnetwork, #islamabadians"
   - username: "faim_bong"
     fullname: >-
       Kolkata Food Blogger | Anindya
@@ -91,18 +103,6 @@ profiles:
     id: ck5cfhmzlmz1h0i118fkbekvf
     verified: false
     hashtags: "#localdelicacy, #foodtalkindia, #kolkatafoodie, #penne"
-  - username: "missfoodiekolkata"
-    fullname: >-
-      || AHANA ||
-    bio: >-
-      Food& fashion Blogger DM or Email for Collab/Review/Invite/Promotion ZOMATO LEVEL-11+ GOOGLE LEVEL-6+ MAIN ACCOUNTS- @i.am.ahana
-    location: "Malaysia"
-    followers: 9528
-    engagement: 515
-    commentsToLikes: 0.036591
-    id: ckaovi28o4nbh0i783duk993s
-    verified: false
-    hashtags: "#buzzfeedfoods, #buzzfood, #indianfood, #foodmaniacindian"
   - username: "wiwinnie"
     fullname: >-
       Winnie
@@ -115,16 +115,16 @@ profiles:
     id: ck0uaj4xtcc9m0i19ltqx27ib
     verified: false
     hashtags: "#taipei, #outfit, #coordinate, #loewe"
-  - username: "hello_tothe_necessities_blog"
+  - username: "chris_tan_mua"
     fullname: >-
-      kanwal usman
+      ℂ𝕙𝕣𝕚𝕤 𝕋𝕒𝕟 𝕄𝕦𝕒
     bio: >-
-      Lifestyle,fashion,food influencer/blogger DM for Tasting,review ,PR & MUCH more .
+      💇🏻Hairstylist | 👄Makeup Artist | 🎥Youtuber: Chris Tan Mua | ✍🏻Blogger Pixstyler Top10 | 📩Dm or email: chris_peopleegg@hotmail.com ⏰Latest videos⬇️⬇️⬇️
     location: "Malaysia"
-    followers: 12768
-    engagement: 412
-    commentsToLikes: 0.140393
-    id: ck9wgp9dcudmu0j78gscy2bhd
+    followers: 17833
+    engagement: 204
+    commentsToLikes: 0.010597
+    id: ck5hlun8vkw550i11m1sib014
     verified: false
-    hashtags: "#mashallah, #karachigram, #lifestylebloggers, #bloggers"
+    hashtags: "#plussizeinfluencer, #lailailai, #ourstyle, #makeupartist"
 ---

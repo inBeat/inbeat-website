@@ -1,12 +1,24 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Seattle In 2023
+title: Top 10 Beauty Instagram Influencers In Seattle In 2024
 description: >-
-  Find top beauty Instagram influencers in Seattle in 2023. Most popular hashtags: #beauty #seattle #fashion #beautyinfluencer.
+  Find top beauty Instagram influencers in Seattle in 2024. Most popular hashtags: #beauty #makeup #seattle #seattleblogger.
 platform: Instagram
-hits: 80
-text_top: Identify the most popular Instagram accounts on inBeat.
-text_bottom: inBeat has 80 Instagram influencers like this in Seattle, United States for you to pitch.
+hits: 114
+text_top: Analyze the most popular Instagram accounts on inBeat.
+text_bottom: Our search engine holds 114 Instagram influencers like this in Seattle, United States for you to pitch.
 profiles:
+  - username: "kristinadedwards_"
+    fullname: >-
+      Kristina Edwards
+    bio: >-
+      All things Beauty | Seattle 🇺🇸 📧 Collab Inquiries 🛥️ @my_dozer
+    location: "United States"
+    followers: 341048
+    engagement: 317
+    commentsToLikes: 0.040954
+    id: ckaozzjreo4an0i78putl69f2
+    verified: false
+    hashtags: "#numestyle, #hairstyles, #numehair, #numehaircare"
   - username: "brown.skin.diary"
     fullname: >-
       sakshi
@@ -31,18 +43,6 @@ profiles:
     id: ck5bzb8ufqt2l0i11ind25c9o
     verified: false
     hashtags: "#4naturalbynatural, #voiceofhair, #urbanhairpost, #naturalhairinspirations"
-  - username: "solomia_bishko"
-    fullname: >-
-      MIA | Impossible is possible🦋
-    bio: >-
-      29y.o. Bellevue, WA🇺🇸born in Lviv🇺🇦 🤍Inspired to inspire others 🤍Singer~Actress~Model 🤍Designer/Founder @mavka.collection 🤍Business&Law🎓 DM 4 collabs
-    location: "United States"
-    followers: 44730
-    engagement: 90
-    commentsToLikes: 0.036329
-    id: ck0w2lkbaoz0y0i19weehhzo8
-    verified: false
-    hashtags: "#blogger, #likeforlikes, #business, #beauty"
   - username: "facebypinky"
     fullname: >-
       PINKY ELLIOTT, RN, BSN, CANS
@@ -67,18 +67,6 @@ profiles:
     id: ck0vzy9gtbgy20i19d9ihz3ws
     verified: false
     hashtags: ""
-  - username: "mackenziekleyn"
-    fullname: >-
-      zie
-    bio: >-
-      different Oahu, HI For Collabs: Mackenziekleyn3@gmail.com
-    location: "United States"
-    followers: 3638
-    engagement: 2014
-    commentsToLikes: 0.024424
-    id: ckap7dtmjjmzg0i78umzjwp22
-    verified: false
-    hashtags: "#instagram, #background, #aspiringmodel, #happy"
   - username: "nicolerockyourhair"
     fullname: >-
       Nicole 💖
@@ -102,29 +90,41 @@ profiles:
     commentsToLikes: 0.347861
     id: ckap3o2m23ter0i78hldig8l3
     verified: false
-    hashtags: "#fpme, #liketkit, #ltkunder100, #petalandpup"
-  - username: "enhance03"
+    hashtags: "#ltkunder100, #liketkit, #freepeopledress, #ltkunder50"
+  - username: "poornimasoni"
     fullname: >-
-      Hi 𝗖𝗛𝗔𝗡𝗗𝗡𝗜(Chand) here!
+      Poornima 🌙
     bio: >-
-      🇮🇳 Born 📍Seattle, USA Authentic | Beauty| Skincare| Nails| Fragrance| Girl of Aesthetics Contact DM/chandni.maloo@gmail.com Discount under the link⬇️
+      Personal Style • Beauty • Lifestyle ✨ 🇮🇳🇺🇸 📍India 💌 contactpoornimasoni@gmail.com
     location: "United States"
-    followers: 41000
-    engagement: 445
-    commentsToLikes: 0.116822
-    id: ck8t3xeua4u8m0j78g0u5rd5d
+    followers: 27481
+    engagement: 891
+    commentsToLikes: 0.031596
+    id: cl8g9amjv4mg10i23441wqxzp
     verified: false
-    hashtags: "#octolyfamily, #trueglamm, #cleansingbalm, #makeupjunkie"
-  - username: "livwithbiv"
+    hashtags: "#grwm, #indianfashion, #explore, #bbgirl"
+  - username: "realangelapark"
     fullname: >-
-      Brandi 💁🏻‍♀️💋💅🏻
+      Angela Park
     bio: >-
-      Nurse that loves nail polish & mountains!!! 💉💅🏻🗻 Beyond Polish Discount Code:livwithbiv10 YouTube: Livwithbiv Blog: Livwithbiv.com Seattle, Washington
+      💌 aypark12@gmail.com
     location: "United States"
-    followers: 20381
-    engagement: 293
-    commentsToLikes: 0.038632
-    id: ck8t0nskjsoor0j78qx8ylebr
+    followers: 5551
+    engagement: 444
+    commentsToLikes: 0.076073
+    id: cllolum2is5ia0j08k9jya42x
     verified: false
-    hashtags: "#opi, #nails, #nailsnailsnails, #chinaglazespellbound"
+    hashtags: "#diorbeauty, #diorbeautylovers, #dreamindior, #diorholiday"
+  - username: "rayonceeeeeee"
+    fullname: >-
+      
+    bio: >-
+      Seattle & LA 📍 Beauty | Fashion | Lifestyle TikTok: @rayonceeeeeee 🤍 (67k+) 💌: Rayonceeeeconnect@gmail.com
+    location: "United States"
+    followers: 19652
+    engagement: 732
+    commentsToLikes: 0.025979
+    id: clg2930bj76uw0j0840f5xvxx
+    verified: false
+    hashtags: "#makeuptutorial, #makeup, #nyfw, #blackgirlmakeup"
 ---

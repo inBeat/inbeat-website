@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fitness TikTok Influencers In United States In 2023
+title: Top 10 Fitness TikTok Influencers In United States In 2024
 description: >-
-  Find top fitness TikTok influencers in United States in 2023. Most popular hashtags: #fitness #stitch #fyp #duet.
+  Find top fitness TikTok influencers in United States in 2024. Most popular hashtags: #fyp #stitch #foryou #fitness.
 platform: TikTok
-hits: 4451
+hits: 4445
 text_top: Discover the most popular TikTok accounts on inBeat.
-text_bottom: Our database aggregates 4451 TikTok influencers like this in United States for you to collaborate.
+text_bottom: Our search engine has 4445 TikTok influencers like this in United States for you to work with.
 profiles:
   - username: "fitness"
     fullname: >-
@@ -19,6 +19,18 @@ profiles:
     id: ckbb1sa6us5u20j23qu23dv7k
     verified: false
     hashtags: "#foryou, #foryoupage, #fitness, #fyp"
+  - username: "fitwithdawn"
+    fullname: >-
+      Dawn | PT and LifeCoach
+    bio: >-
+      ✨Positivity/Motivation👟Fitness 💪🏻Wellness 🤪Fun #mylifeonTikTok #beretlady
+    location: "United States"
+    followers: 10600
+    engagement: 3024
+    commentsToLikes: 0.701530
+    id: ckcptslsjomg90j23hh5c4bxu
+    verified: false
+    hashtags: "#welcomeback, #summermashup, #choosehappy, #quickbooksvictorypose"
   - username: "justakayday"
     fullname: >-
       Kay Mejia
@@ -42,7 +54,7 @@ profiles:
     commentsToLikes: 0.068913
     id: ckcdysmz1gux80j23xk4mflco
     verified: false
-    hashtags: "#fitness, #gym, #pistolsquats, #workout"
+    hashtags: "#fit, #bodypositivity, #fitness, #pistolsquats"
   - username: "killerkissa"
     fullname: >-
       🖤🌻Kissa🌻🖤
@@ -90,7 +102,7 @@ profiles:
     commentsToLikes: 0.012722
     id: ck90yl3p5ar7c0j78mobpjprl
     verified: false
-    hashtags: "#fitnesslife, #squats, #calisthenics, #homeworkout"
+    hashtags: "#calisthenics, #fitnesslife, #fitness, #squats"
   - username: "paps1322"
     fullname: >-
       Steve
@@ -102,29 +114,17 @@ profiles:
     commentsToLikes: 0.137594
     id: ckck5tn41qvcm0j23opmcfwo7
     verified: false
-    hashtags: "#feelinggood, #country, #dating, #funny"
-  - username: "lobos_austintx_realtor"
+    hashtags: "#dating, #positivevibes, #over40, #country"
+  - username: "lauralou793"
     fullname: >-
-      Neil
+      ❤️
     bio: >-
-      Here to goof off & have fun🤪 Marine Vet I Austin,TX Realtor l Foodie I Fitness
+      27 😊 Christian 📖, Esthetician💄, Musician🎼 Skin nerd, fitness & coffee addict
     location: "United States"
-    followers: 8366
-    engagement: 1508
-    commentsToLikes: 0.131951
-    id: ckbatpudxkb4z0j23681zq86x
+    followers: 57900
+    engagement: 1433
+    commentsToLikes: 0.039194
+    id: ck90vpsfk0xyo0j78wlddcfd1
     verified: false
-    hashtags: "#marines, #welcome2021, #bucee, #smile"
-  - username: "youraveragmom"
-    fullname: >-
-      Halsey 🍍
-    bio: >-
-      Your average mom💜💜💙 Fitness 💪🏼 BLM ✊🏾 ❤️ OHIO ❤️
-    location: "United States"
-    followers: 17200
-    engagement: 2048
-    commentsToLikes: 0.242380
-    id: ckbf93t9azu6t0j233xkmb3j3
-    verified: false
-    hashtags: "#survivingparenthood, #fitnessjourney, #jumprope, #jumpropetok"
+    hashtags: "#storytime, #comedy, #stitch, #fyp"
 ---

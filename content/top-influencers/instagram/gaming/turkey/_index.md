@@ -1,11 +1,11 @@
 ---
-title: Top 10 Gaming Instagram Influencers In Turkey In 2023
+title: Top 10 Gaming Instagram Influencers In Turkey In 2024
 description: >-
-  Find top gaming Instagram influencers in Turkey in 2023. Most popular hashtags: #gaming #pubg #gamer #game.
+  Find top gaming Instagram influencers in Turkey in 2024. Most popular hashtags: #gaming #gamer #game #istanbul.
 platform: Instagram
-hits: 22
-text_top: Discover the best Instagram profiles on inBeat.
-text_bottom: inBeat has 22 Instagram influencers like this in Turkey for you to collaborate.
+hits: 25
+text_top: Analyze the most popular Instagram accounts on inBeat.
+text_bottom: Our database holds 25 Instagram influencers like this in Turkey for you to work with.
 profiles:
   - username: "baskan.gaming"
     fullname: >-
@@ -19,6 +19,18 @@ profiles:
     id: ckaovspo05zx10i78jhsdoz5s
     verified: false
     hashtags: "#brawlstarsmeme, #brawlstarsmemes, #brawlstarsfunny, #brawlstarsturkiye"
+  - username: "risingamers"
+    fullname: >-
+      Rising Gamers
+    bio: >-
+      Rising Gamers Facebook Grubunun Resmi Instagram Sayfasıdır. %100 Özgün İçerik Facebook Grubumuz 🔽
+    location: "Turkey"
+    followers: 23698
+    engagement: 1121
+    commentsToLikes: 0.029108
+    id: ckaoxl2n7dqcw0i780u6y6ffg
+    verified: false
+    hashtags: "#oyuncu, #gamingmeme, #gamingposts, #oyunlar"
   - username: "masterinsec"
     fullname: >-
       MASTER INSEC
@@ -79,52 +91,40 @@ profiles:
     id: ck6tuwx5sivyr0j71dhiya912
     verified: false
     hashtags: "#gamerforlife, #respawn, #gamingsetups, #pcsetup"
-  - username: "matt_najm"
+  - username: "buraksenturk"
     fullname: >-
-      Matt 🇹🇲
+      Burak Şentürk
     bio: >-
-      📍Based in Istanbul🇹🇷 Height:186 📩
+      Artist / illustrator bsenturk@gmail.com
     location: "Turkey"
-    followers: 11048
-    engagement: 1351
-    commentsToLikes: 0.090022
-    id: ck5c8dp0m99fe0i11etkdgpg0
+    followers: 15971
+    engagement: 457
+    commentsToLikes: 0.037914
+    id: ckap70ltui5g00i785miw5ev1
     verified: false
-    hashtags: "#moda, #hairstyle, #poz, #fotografia"
-  - username: "gry.game"
+    hashtags: "#procreateart, #artist, #juxtapoz, #apple"
+  - username: "bulutsahin"
     fullname: >-
-      GRY GAME
+      Bulut Şahin
     bio: >-
-      🕹️ | 🔥Oyun & Mizah Ve Güncel Paylaşımlar 📢 | Türkiye'nin En Aktif Oyun Sayfası 🃏 🎮 | Sende Aramıza Katıl ! 🔥 Reklam & Telif📌@serkangkk & @grymalii
+      Director | CGI 📍 İstanbul Contact: hi@bulutsahin.studio
     location: "Turkey"
-    followers: 41279
-    engagement: 768
-    commentsToLikes: 0.066535
-    id: ck8tb8cytup6d0j78vakdyiyx
+    followers: 124001
+    engagement: 9673
+    commentsToLikes: 0.018833
+    id: ck8swgazse0c30j788vhhq2i1
     verified: false
-    hashtags: "#gaminggecesi"
-  - username: "risingamers"
+    hashtags: "#grandbazaar, #3d, #vfx, #blender"
+  - username: "pqueen92"
     fullname: >-
-      Rising Gamers
+      Pelin "Pqueen" Baynazoğlu
     bio: >-
-      Rising Gamers Facebook Grubunun Resmi Instagram Sayfasıdır. %100 Özgün İçerik Facebook Grubumuz 🔽
+      Köppek gibi çalışıp kraliçe gibi yaşamaya çalışan İletişim : pqueen@vardiya.com.tr
     location: "Turkey"
-    followers: 24213
-    engagement: 779
-    commentsToLikes: 0.036224
-    id: ckaoxl2n7dqcw0i780u6y6ffg
+    followers: 1325464
+    engagement: 1002
+    commentsToLikes: 0.004772
+    id: ckap8hq5vocr90i784pnsmncw
     verified: false
-    hashtags: "#cyberpunk2077t, #risingamers, #cyberpunk2077game, #cyberpunk2077"
-  - username: "oldelmas"
-    fullname: >-
-      OldElmas ⚡️
-    bio: >-
-      ➰ | Aykut Elmas'ın Tüm Efsane Vine'lari 👀 🕯 | Eski Günlerdeki Gibi.. 🔱 ✨ | Ücretli reklam, öneri ve görüşleriniz için Dm✉
-    location: "Turkey"
-    followers: 234181
-    engagement: 274
-    commentsToLikes: 0.004100
-    id: ck0uaomkqco3f0i19r6l7tu4t
-    verified: false
-    hashtags: "#komiksahneler, #komikpaylasimlar, #ibrahimgo, #aykutelmasvine"
+    hashtags: "#sabanc, #gelece, #gamingparkour, #reklam"
 ---

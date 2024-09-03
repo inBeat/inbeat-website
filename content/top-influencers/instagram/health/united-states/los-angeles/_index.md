@@ -1,12 +1,48 @@
 ---
-title: Top 10 Health Instagram Influencers In Los Angeles In 2023
+title: Top 10 Health Instagram Influencers In Los Angeles In 2024
 description: >-
-  Find top health Instagram influencers in Los Angeles in 2023. Most popular hashtags: #health #losangeles #fitness #fashion.
+  Find top health Instagram influencers in Los Angeles in 2024. Most popular hashtags: #fashion #health #ad #losangeles.
 platform: Instagram
-hits: 345
-text_top: Analyze the most popular Instagram influencers on inBeat.
-text_bottom: Our platform holds 345 Instagram influencers like this in Los Angeles, United States for you to pitch.
+hits: 422
+text_top: Analyze the top-rated Instagram accounts on inBeat.
+text_bottom: Our database holds 422 Instagram influencers like this in Los Angeles, United States for you to work with.
 profiles:
+  - username: "anna.sauce"
+    fullname: >-
+      🌸 Anna Nguyen 🌸
+    bio: >-
+      Join me on my journey 🧳 Travel 🍤 Food 🧘🏻‍♀️ Self Discovery 📧 For serious inquiries: annanguyeny@gmail.com
+    location: "United States"
+    followers: 11854
+    engagement: 873
+    commentsToLikes: 0.025021
+    id: ck14h4yi28jx30i19oye3rns2
+    verified: false
+    hashtags: "#premium, #bichonlover, #iphoneshot, #croptop"
+  - username: "meghana.sh"
+    fullname: >-
+      Meghana S
+    bio: >-
+      design | fashion | health ♡ los angeles • nyc meghana@themehtagroup.com
+    location: "United States"
+    followers: 83209
+    engagement: 2696
+    commentsToLikes: 0.033043
+    id: ck5c0myrctgj90i11xcnkp7mo
+    verified: false
+    hashtags: "#barbie, #fashionreels, #outfitinspo, #desifashion"
+  - username: "candacereels"
+    fullname: >-
+      Candace Reels
+    bio: >-
+      Founder of @femalecollective talking about fashion, intersectional feminism, and mental health 📍Los Angeles 💌 candace@dulcedo.com
+    location: "United States"
+    followers: 64772
+    engagement: 90
+    commentsToLikes: 0.024750
+    id: ck0w4aorjxmtw0i196hva70px
+    verified: false
+    hashtags: "#ad, #stylefashion, #colorful, #fashion"
   - username: "cynthiamaii"
     fullname: >-
       𝐂𝐘𝐍𝐓𝐇𝐈𝐀 • Petite Fashion Model
@@ -18,7 +54,19 @@ profiles:
     commentsToLikes: 0.161635
     id: ck5qco2x2rins0i11rpmn0mby
     verified: false
-    hashtags: "#lovelulus, #lulusambassador, #ad, #stopasianhate"
+    hashtags: "#ad, #lovelulus, #lulusambassador, #stopasianhate"
+  - username: "coffee_cupcakes_kids"
+    fullname: >-
+      Alycia | Unconvential Mom & Health Nut
+    bio: >-
+      • Superhero Name ~ MOM 🦸‍♀️ • Married to a rockstar • Sharing health info/tips • New York native, resides in Cali ❤️ • 📧 to Collab 👍🏼
+    location: "United States"
+    followers: 19308
+    engagement: 370
+    commentsToLikes: 0.065698
+    id: ckapbqdcb0x970i7888iemafr
+    verified: false
+    hashtags: "#healthandwellness, #momlife, #beyourbestself, #weshoplc"
   - username: "tinaxgomez"
     fullname: >-
       Martina Gomez
@@ -31,42 +79,30 @@ profiles:
     id: ck5zkki8cjnbb0i14g15ae6fc
     verified: false
     hashtags: "#willyscoutsall, #scoutmodelagency21, #wlyg, #modeling"
-  - username: "james_haydn"
+  - username: "nourishwithnirja"
     fullname: >-
-      James Rodriguez
+      Dr. Nirja
     bio: >-
-      Adding COLOR to this world, a page at a time💙💚 The Lightning Thief BROADWAY ⚡ ART - MUSIC - HEALTH - FITNESS✌🏾
+      🇮🇳 Diversifying fitness, yoga, & wellness 👩🏽‍⚕️Doctor of Physical Therapy | 📍LA 💪🏽Women’s Health @coachedbynirj 📧hello@nourishwithnirja.com
     location: "United States"
-    followers: 7298
-    engagement: 890
-    commentsToLikes: 0.019734
-    id: ck15sv8b0eyu50i19n7ez19pf
+    followers: 33717
+    engagement: 45
+    commentsToLikes: 0.054954
+    id: clhhx71yxweoa0j087862ew9p
     verified: false
-    hashtags: "#enoughisenough, #environment, #strong, #justiceforbreonnataylor"
-  - username: "kim_strother"
+    hashtags: "#healthiswealth, #physicaltherapist, #southasiancreator, #southasianfitness"
+  - username: "lauren_rote"
     fullname: >-
-      Kim Strother
+      Lauren Rote Youash
     bio: >-
-      Celebrity Trainer & Yoga Instructor Healing through holistic nutrition & mindfulness. Let’s create your own integrative health plan. 📍Los Angeles CA
+      Real content. No b.s. family, style, health, beauty 📍Los Angeles
     location: "United States"
-    followers: 26499
-    engagement: 124
-    commentsToLikes: 0.086633
-    id: ck0vy0qgv1nzc0i191977v1hz
+    followers: 123262
+    engagement: 437
+    commentsToLikes: 0.021785
+    id: ck0uauip5d0nd0i19m226ti31
     verified: false
-    hashtags: "#yogasculpt, #workoutmotivation, #getoutside, #yogaglo"
-  - username: "soukeyna"
-    fullname: >-
-      SouKeyna Diouf
-    bio: >-
-      (Sue•Kay•Na) Senegalese• Model• Healthcare Advocate• Howard Alumna UN Global Health Champion 📍Los Angeles
-    location: "United States"
-    followers: 137981
-    engagement: 523
-    commentsToLikes: 0.014630
-    id: ck0vz37o872dh0i19x5qcj376
-    verified: false
-    hashtags: "#ad, #moon, #revolveinbloom, #mygrlfrnd"
+    hashtags: "#fallsimmerpot, #14, #longhair, #haircut"
   - username: "cori.story"
     fullname: >-
       Corinne Nicewick
@@ -78,53 +114,17 @@ profiles:
     commentsToLikes: 0.019501
     id: ck1384lfueh0w0i196kmj6kt2
     verified: false
-    hashtags: "#contortion, #funny, #challenge, #fail"
-  - username: "cannonnation"
-    fullname: >-
-      Brandon "The Cannon" Adams
-    bio: >-
-      Pro Boxer 🥊YouTube: @BATheCannon 🥊Facebook: @BrandonTheCannon
-    location: "United States"
-    followers: 12767
-    engagement: 609
-    commentsToLikes: 0.074159
-    id: ck8szhio5ogw90j78mce8occu
-    verified: false
-    hashtags: "#brown, #losangeles, #health, #fun"
-  - username: "carson.mosser"
-    fullname: >-
-      Carson Reed
-    bio: >-
-      Kentucky native :) Actor/Model
-    location: "United States"
-    followers: 55549
-    engagement: 200
-    commentsToLikes: 0.045490
-    id: ck5qcgz3hqinc0i11pk8ngi0u
-    verified: false
-    hashtags: "#fit, #track, #malemodel, #lagunabeach"
-  - username: "drmarkcheng"
-    fullname: >-
-      Dr. Mark Cheng
-    bio: >-
-      💪“Make every rep rehabilitative!” 🎓PhD in TCM Creator of @K3Combat & @Beachbody’s #TaiCheng Master SFG @strongfirst 🗺 Santa Monica & Diamond Bar, CA
-    location: "United States"
-    followers: 17645
-    engagement: 179
-    commentsToLikes: 0.061239
-    id: ck8sy9d7ck6e50j7815gjunz0
-    verified: false
-    hashtags: "#losangeles, #health, #kettlebell, #love"
+    hashtags: "#funny, #travel, #southbeach, #acrobat"
   - username: "fitbeautytips"
     fullname: >-
       Health | Fitness | Beauty   ᭲
     bio: >-
-      𝗪𝗘 𝗕𝗨𝗬 𝗕𝗟𝗔𝗖𝗞 ✌🏿 💖 | Healthtips💊Beautytips💄 ♻️ | DM For Removal / Credits 📧 | business enquiry - voguenyog@gmail.com
+      💖 | Healthtips💊Beautytips💄 ♻️ | DM For Removal / Credits 📧 | business enquiry - voguenyog@gmail.com
     location: "United States"
-    followers: 397721
-    engagement: 119
-    commentsToLikes: 0.010734
+    followers: 337072
+    engagement: 27
+    commentsToLikes: 0.041031
     id: ckaotbp23v7cg0i78xtbtorlc
     verified: false
-    hashtags: "#motivation, #girl, #skincare, #healthylifestyle"
+    hashtags: "#makeup, #america, #facts, #follow"
 ---

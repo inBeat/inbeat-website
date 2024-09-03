@@ -1,130 +1,130 @@
 ---
-title: Top 10 Food Instagram Influencers In Italy In 2023
+title: Top 10 Food Instagram Influencers In Italy In 2024
 description: >-
-  Find top food Instagram influencers in Italy in 2023. Most popular hashtags: #italy #summervibes #europe #travelphotography.
+  Find top food Instagram influencers in Italy in 2024. Most popular hashtags: #vegan #italy #nonna #travelphotography.
 platform: Instagram
-hits: 1876
-text_top: Analyze the most popular Instagram influencers on inBeat.
-text_bottom: Our platform holds 1876 Instagram influencers like this in Italy for you to work with.
+hits: 1997
+text_top: Analyze the top-rated Instagram influencers on inBeat.
+text_bottom: Our database holds 1997 Instagram influencers like this in Italy for you to pitch.
 profiles:
-  - username: "peachytravels"
+  - username: "baking_maniac"
     fullname: >-
-      JESSICA | Travel + Lifestyle
+      Alla Andreevna
     bio: >-
-      Diary of a food + lifestyle enthusiast 💌 peachyventure@gmail.com
+      Food meditation & baking therapy | Photography & visual content for your business | Recipes RU + EN | La vita è bella in Tuscany 🇮🇹
     location: "Italy"
-    followers: 70449
-    engagement: 77
-    commentsToLikes: 0.004666
-    id: ck0w1ndhtk6vy0i19js46zjkq
+    followers: 19865
+    engagement: 411
+    commentsToLikes: 0.050749
+    id: ckaorijkbndo40i78xllmq1eq
     verified: false
-    hashtags: "#luxurytravels, #nycfoodie, #travelwithus, #cntraveller"
-  - username: "mytemptingtable"
+    hashtags: "#beautifulcuisines, #lacucinaitaliana, #foodartproject, #feedfeed"
+  - username: "__manumc___"
     fullname: >-
-      Andreea - Photography&recipes
+      Manuela Mecarello
     bio: >-
-      • Delicious plant-based recipes • Food photographer • Food stylist 📍Romania
+      ▪️Italy 🌈▪️ #trndadvisor Foodblogger🥞 +FoodPhotographer 📸 | Student💉💊🧬👩🏽‍⚕️| ◀ "Bring me the sunset in a cup" ▶🌅 ➡️collab.manumc@gmail.com#
     location: "Italy"
-    followers: 88113
-    engagement: 121
-    commentsToLikes: 0.041795
-    id: ck14gkpew5p210i19aed7t54x
+    followers: 10016
+    engagement: 409
+    commentsToLikes: 0.152169
+    id: ck6tmw6ec8n8m0j71vic2abj7
     verified: false
-    hashtags: "#oatmealbowl, #eatbetterfeelbetter, #sundayfunday, #pancakes"
-  - username: "minh.lu_"
+    hashtags: "#tognanaprofessional, #caffeuccio, #gifted, #coffeelover"
+  - username: "sepps"
     fullname: >-
-      Minh Luong 🌹
+      Giuseppe | Sepps Eats
     bio: >-
-      HAPPY ME.HAPPY LIFE ________________________________________ FOOD•TRAVEL•FASHION•CLUB|BAR•🔒❤@chi.mr.hikari Stuttgart|Landshut 27
+      food, sometimes with Nonna 🌱 🇮🇹 🍝 London | @plantboiis giuseppe@thevta.com
     location: "Italy"
-    followers: 2435
-    engagement: 3173
-    commentsToLikes: 0.087425
-    id: ckf5kwa6tnhg60j23wh9nqzzn
+    followers: 445555
+    engagement: 679
+    commentsToLikes: 0.024985
+    id: cl4f68w2jpviv0i23yihufu4i
     verified: false
-    hashtags: "#instagood, #wandern, #trip, #wanderlust"
-  - username: "ziaflavia_foodnboobs"
+    hashtags: "#sicily, #nonnamarianna, #vegan, #nonna"
+  - username: "tessmadalyn"
     fullname: >-
-      Zia Flavia Foodn'Boobs
+      Tess Gigone
     bio: >-
-      Femminista 💪🏻 Napoletana 🌋 Affamata 🐽 #foodblogger 🍝
+      talking about food on the internet toronto ✉️ tessmadalyn@gmail.com
     location: "Italy"
-    followers: 181779
-    engagement: 666
-    commentsToLikes: 0.025650
-    id: ck6u9kqhry4hg0j71i15sfc74
+    followers: 52199
+    engagement: 1303
+    commentsToLikes: 0.004849
+    id: cl8p48y7s8f2n0i23myzc8dgg
     verified: false
-    hashtags: "#2020, #primadosefatta, #napoli"
-  - username: "carlaagostinam"
+    hashtags: ""
+  - username: "emanueleferrari"
     fullname: >-
-      Car  🏹 ♥️
+      Emanuele Ferrari
     bio: >-
-      #savetheplanet 🌸🍃🍀🌍 Business Management & Mkt👩🏼‍💻 CEO @english.wherever 🧘🏼‍♀️ Traveler, wine lover & foodie ✈️🍷 🐺♥️ Content Creator ✨ 🇮🇹🇦🇷
+      Ciao sono Emi e amo la pasta 🇮🇹 Papà di @bis_foodtruck 🍝 📩 emi@sparkleagency.it
     location: "Italy"
-    followers: 27699
-    engagement: 438
-    commentsToLikes: 0.401563
-    id: ckf5lahyaoxsc0j23oq43y886
+    followers: 526445
+    engagement: 586
+    commentsToLikes: 0.005946
+    id: ckap56ianae8c0i78rcrnqul7
     verified: false
-    hashtags: "#giveaway, #noviembre, #sorteo, #jukilopa"
-  - username: "agipsyinthekitchen"
+    hashtags: "#bis, #touritalia, #italy, #ricette"
+  - username: "simona_spinardi"
     fullname: >-
-      A Gipsy In The Kitchen
+      Simona Spinardi
     bio: >-
-      Food&{Life}Travel{ers}.🧿SupperClubbers ~HyggeLife. Slow living,Slow food, VANLIFERS~ Proud dog parents. Gardeners 🥕comfort food ambassadors
+      🔓 Live the life • 📱 Content creator • 🛍👗🐶🌳| Lifestyle 🌍✈🛵 🚢| Travel 🍝🍾🫕 🍨| Food 📌👩‍💻📩 💻| simonaspin@hotmail.it
     location: "Italy"
-    followers: 121498
-    engagement: 322
-    commentsToLikes: 0.049706
-    id: ck0tz2kkeox6v0i19c43w7bna
+    followers: 10413
+    engagement: 684
+    commentsToLikes: 0.147014
+    id: ck0u69njy1e5b0i19d8ey002z
     verified: false
-    hashtags: "#ad, #adoptdontshop, #mammalillydoo, #puliziaefficace"
-  - username: "robertacapuaofficial"
+    hashtags: "#naturephotography, #luce, #iltigullio, #ilsecoloxix"
+  - username: "darostinta"
     fullname: >-
-      Roberta Capua
+      Radostina Ganeva
     bio: >-
-      food blog www.cottografato.it per collaborazioni Vegastar Management info@vegastar.it
+      Foodie traveling the 🌎 in search of the perfect meal✨ Mom of 2 boys Ambassador @bacchusbulgaria My photos @patuvaiskauza 💌radostina_s_99@yahoo.com
     location: "Italy"
-    followers: 46756
-    engagement: 348
-    commentsToLikes: 0.068367
-    id: ck5c93s9iaq3g0i11961awtc0
+    followers: 17117
+    engagement: 758
+    commentsToLikes: 0.101225
+    id: ck5zz4v8rb3010i14dxuruz4g
     verified: false
-    hashtags: "#mare, #sole, #amoremio, #vacanzeitaliane"
-  - username: "carolina_bertolaso"
+    hashtags: "#modena, #vermeer, #sofia, #istanbul"
+  - username: "petra_miksikova"
     fullname: >-
-      Carolina Bertolaso
+      Petra Miksik
     bio: >-
-      Blog personale 🙋🏼‍♀️ Attivista per gli animali 🐓🐖🐄🐇🐑 Mamma di 🐈🐈🐈🐈🐕 Viaggiatrice 🛫 Foodie 🥑 Creatrice 💖
+      aesthetics, slow life, clean food, self love photographer @vanellistudio 📷
     location: "Italy"
-    followers: 3052
-    engagement: 1524
-    commentsToLikes: 0.166630
-    id: ck6u1h0lnlodm0j71ybmm0aeb
+    followers: 11010
+    engagement: 416
+    commentsToLikes: 0.027457
+    id: ck6tuqod5hum70j71mj3ehatv
     verified: false
-    hashtags: "#animalequalityitalia, #iodifendoglianimali, #joaquinphoenix, #joker"
-  - username: "globetraveldiary"
+    hashtags: "#streetstylelook, #vintagevibes, #retrovibes, #castellodimiramare"
+  - username: "marti.bolognesi"
     fullname: >-
-      Roberta Magro Malosso • Travel
+      Martina Bolognesi
     bio: >-
-      Italian Traveler • Content creator based in Sicily & Germany Now📍 Pantelleria Soon: ✈️ Hodophile 🗺 Jurist ⚖️ Foodie 🧁 Check out my Blog 🔍
+      ♏️ I’m a proudly #Scorpio who loves: 👗#Fashion 🖼️#Art 🍕#Food 📚💻 #Books & #Tvseries
     location: "Italy"
-    followers: 14858
-    engagement: 635
-    commentsToLikes: 0.095097
-    id: ck8tbhn67vpo00j78xrq6cff7
+    followers: 11240
+    engagement: 669
+    commentsToLikes: 0.034295
+    id: ckapb8rkfz0780i78cb8mgj20
     verified: false
-    hashtags: "#sheisnotlost, #postimeravigliosi, #travelholic, #sicilia"
-  - username: "lucyspada.dj"
+    hashtags: "#ootd, #lipstick, #martinablike, #youfoundme"
+  - username: "madame_folie"
     fullname: >-
-      Lucia Spada
+      A - Travel Creator ✈
     bio: >-
-      ♉️fitness🏋️‍♂️radiodj🎧kiz&latin💃🏼ModerneLiterature👩‍🎓 FoodConsultantAICS🥑 👗 @shein_it @sheinofficial Coupon SWH1151 15%off 👇🏼Links promozioni
+      🌍 Travel tips | Hotels | Glamping | Activities | Food 👫🏻 Creative Travel Couple from Italy 📸 🗝 Owner @deca_rooms AirBnB
     location: "Italy"
-    followers: 91585
-    engagement: 241
-    commentsToLikes: 0.042205
-    id: ckaovi1jo4n7m0i78m6q531bj
+    followers: 27837
+    engagement: 570
+    commentsToLikes: 0.031994
+    id: ck8t42p5m5ama0j789gme6omw
     verified: false
-    hashtags: "#necofarma, #style, #sheinofficial, #beach"
+    hashtags: "#travelthailand, #cappadociaphotographers, #thailand, #travelcreatives"
 ---

@@ -1,24 +1,60 @@
 ---
-title: Top 10 Divers Instagram Influencers In Poland In 2023
+title: Top 10 Divers Instagram Influencers In Poland In 2024
 description: >-
-  Find top divers Instagram influencers in Poland in 2023. Most popular hashtags: #love #life #photography #poland.
+  Find top divers Instagram influencers in Poland in 2024. Most popular hashtags: #photography #blackandwhite #croatia #diversity.
 platform: Instagram
-hits: 20
-text_top: Discover the best Instagram accounts on inBeat.
-text_bottom: Our platform holds 20 Instagram influencers like this in Poland for you to pitch.
+hits: 27
+text_top: See the most popular Instagram accounts on inBeat.
+text_bottom: Our database has 27 Instagram influencers like this in Poland for you to pitch.
 profiles:
-  - username: "sonjar2207"
+  - username: "bronislawolenkowicz"
     fullname: >-
-      Sonja
+      Bronisław Olenkowicz
     bio: >-
-      Sonia 💁🏻‍♀️ Mama Oliviera 19.09.2015👩‍👦i Oskara 12.07.2018 Zaglądaj na nasze stories - lubimy rozmowy 🌷
+      Crossfit Athlete _________ @diversesystem | @thornfit | @goprimal.eu | @reignbodyfuel | @repeatpolska | @collibrelife | @underdogsathletics
     location: "Poland"
-    followers: 9539
-    engagement: 586
-    commentsToLikes: 0.226129
-    id: ckf5qqcc2a7m80j23l2quc8zp
+    followers: 58022
+    engagement: 235
+    commentsToLikes: 0.022657
+    id: ck15sicydd5kw0i199fxohluh
     verified: false
-    hashtags: "#campinglife, #przyczepacampingowa, #wales, #rodzinkapl"
+    hashtags: "#forevergettingstronger, #crossfit, #crossfitgames, #strongforlife"
+  - username: "maverick2go"
+    fullname: >-
+      Vitomir Maričić
+    bio: >-
+      🔱 Multiple World Record Freediver 🐬 🌍 Freediving World Champion 🏆 🤿 Instructor Trainer 📈 ⭐@molchanovsfreediving ⚓www.fb.com/VitomirX
+    location: "Poland"
+    followers: 120240
+    engagement: 780
+    commentsToLikes: 0.008197
+    id: ckaoykubchwe90i78vd101xpn
+    verified: false
+    hashtags: "#becomingsupersapien, #uwphotography, #enjoy, #freediverlife"
+  - username: "maciejmusial_official"
+    fullname: >-
+      Maciej Musiał
+    bio: >-
+      nie musiałem, chciałem, przysięgam 📩 dominik@db4.pl
+    location: "Poland"
+    followers: 725680
+    engagement: 341
+    commentsToLikes: 0.003368
+    id: ck15qp0kl3y1q0i19r25785km
+    verified: true
+    hashtags: "#reklama, #electrolux, #beyourownboss, #bosswatches"
+  - username: "aleksandrapoplawska"
+    fullname: >-
+      Aleksandra Popławska
+    bio: >-
+      Aktorka i reżyserka teatralna. Seriale „Wataha” HBO, „Szadź” Player, „Minuta Ciszy” , „Klangor” Canal + / Współpraca 👉🏼 Diakowska Management.
+    location: "Poland"
+    followers: 125639
+    engagement: 138
+    commentsToLikes: 0.031246
+    id: ck0vzlwnu9r000i19vzoc4t8m
+    verified: true
+    hashtags: "#miroslawzbrojewicz, #kronikizdonbasu, #burzawkinie, #trwarszawa"
   - username: "runkasiarun_com"
     fullname: >-
       Kasia Kwiat
@@ -43,18 +79,6 @@ profiles:
     id: ck5qbxl65nvcv0i11cey5yhbv
     verified: false
     hashtags: "#blackandwhite, #musician, #feminism, #prochoice"
-  - username: "amelia_roman_official"
-    fullname: >-
-      Amelia Roman
-    bio: >-
-      Dubai📍 @selectivemgmt @women_milano @mmgmodels @unomodels @lemanagement @parsmanagement @prm_agency @stagemodels #smilefromgdansk @perfectsmile.clinic
-    location: "Poland"
-    followers: 54644
-    engagement: 51
-    commentsToLikes: 0.110807
-    id: ck6todh1cdgmg0j713eoo6cpo
-    verified: false
-    hashtags: "#life, #shooting, #fashion, #model"
   - username: "roweroweblizniaczki"
     fullname: >-
       Bicycle twins
@@ -103,28 +127,4 @@ profiles:
     id: ck15ty0ypkgml0i19xos9ndop
     verified: false
     hashtags: "#dext, #300v2, #scorpion, #moto"
-  - username: "agatazalecka_official"
-    fullname: >-
-      Agata Załęcka   🎬🎤🎨🧜‍♀️
-    bio: >-
-      #actress #divemaster #deepdiver #freediver ➡️ @zakochanipouszytvn7 ➡️ @spektaklczarnotowidze 🇵🇱 kontakt@agatazalecka.pl 🌏 @luckystar_international
-    location: "Poland"
-    followers: 31322
-    engagement: 110
-    commentsToLikes: 0.032994
-    id: ck6todqp1di530j71dyp0auze
-    verified: false
-    hashtags: "#life, #underwaterphotography, #underwaterworld, #blue"
-  - username: "kamilakielar"
-    fullname: >-
-      Kamila Kielar
-    bio: >-
-      Far North Adventurer/Public Speaker/Writer/Podcaster/Animal behaviorist 🏆 awarded on biggest festivals 🎤 international stages 📨 hello@kamilakielar.pl
-    location: "Poland"
-    followers: 13946
-    engagement: 433
-    commentsToLikes: 0.031780
-    id: ck6ucw1d1hrwi0j719oz5msxx
-    verified: false
-    hashtags: "#homeiswhereyoustakeit, #hikertrash, #tmb, #neverstopexploring"
 ---

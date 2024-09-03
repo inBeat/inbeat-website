@@ -1,12 +1,36 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Sao Paulo In 2023
+title: Top 10 Beauty Instagram Influencers In Sao Paulo In 2024
 description: >-
-  Find top beauty Instagram influencers in Sao Paulo in 2023. Most popular hashtags: #makeup #beauty #saopaulo #hair.
+  Find top beauty Instagram influencers in Sao Paulo in 2024. Most popular hashtags: #beauty #makeup #lookdodia.
 platform: Instagram
-hits: 184
-text_top: Analyze the top-rated Instagram profiles on inBeat.
-text_bottom: Our database holds 184 Instagram influencers like this in Sao Paulo, Brazil for you to collaborate.
+hits: 198
+text_top: Identify the top-rated Instagram profiles on inBeat.
+text_bottom: Our search engine has 198 Instagram influencers like this in Sao Paulo, Brazil for you to contact.
 profiles:
+  - username: "thelindsaywoods"
+    fullname: >-
+      kelly basbasque
+    bio: >-
+      alt fashion and beauty • são paulo, brazil ✨ceo @crystaluna.shop / @brecholindsay 🌜collabs: hello.lindsaywoods@gmail.com + more
+    location: "Brazil"
+    followers: 215629
+    engagement: 15
+    commentsToLikes: 0.005431
+    id: ck6tqjwxdrvj60j71yf6lvk58
+    verified: false
+    hashtags: "#hairstyleoftheday, #wednesdayaddams, #glossy, #wandinhaaddams"
+  - username: "iancalopes"
+    fullname: >-
+      Ianca Lopes
+    bio: >-
+      fashion . lifestyle . beauty 📍São Paulo | SP Owner @shopseve Compre meus presets aqui ↓
+    location: "Brazil"
+    followers: 157339
+    engagement: 208
+    commentsToLikes: 0.023665
+    id: ck0tysg94nuol0i19qenjo5yr
+    verified: false
+    hashtags: "#fashionblogger, #ootd, #outfitoftheday, #lookdodia"
   - username: "ramonamorimoficial"
     fullname: >-
       Ramon Amorim
@@ -19,6 +43,30 @@ profiles:
     id: ck5bxkh3mnwjg0i11hdb23t3h
     verified: false
     hashtags: "#makeglam, #debutante, #makeglow, #makeup"
+  - username: "ana.passaretti"
+    fullname: >-
+      Ana Clara Passaretti
+    bio: >-
+      🖤 beauty & lifestyle. ⛓️ São Paulo, Brasil. ✉️ anapassaretti@agenciabae.com 🤓 @anaheartbooks
+    location: "Brazil"
+    followers: 139070
+    engagement: 453
+    commentsToLikes: 0.012943
+    id: cl4f68x31pw850i23cjzss9iy
+    verified: false
+    hashtags: "#ttdeye, #ttd"
+  - username: "_sophiegabriel"
+    fullname: >-
+      Sophie Gabriel
+    bio: >-
+      beauty | festival | lifestyle São Paulo
+    location: "Brazil"
+    followers: 188883
+    engagement: 553
+    commentsToLikes: 0.012093
+    id: ck6u6vi58hysp0j716hj3zqxx
+    verified: false
+    hashtags: "#ravesbr, #love, #tbt, #psytrance"
   - username: "miiablog"
     fullname: >-
       𝓜𝓲𝓲𝓪
@@ -43,18 +91,30 @@ profiles:
     id: ckaowsx5wab4n0i78mkaetndy
     verified: false
     hashtags: "#photooftheday, #cross, #sjc, #fitness"
-  - username: "nathinog"
+  - username: "brigittecalegari"
     fullname: >-
-      Nathália Nogueira
+      B R I G I TT E C A L E G A R I
     bio: >-
-      30 | São Paulo | Makeup, Beauty, Moda e Lifestyle 📱 Me conheça nos STORIES 💻 YouTuber quase 500K 🙋🏽‍♀️ 💌 nathinog@pgbagency.com 👩‍❤️‍👨 @brunosilcor
+      | Beauty Lover & Lipstick Obsessed | São Paulo | contato@brigittecalegari.com.br
     location: "Brazil"
-    followers: 176476
-    engagement: 293
-    commentsToLikes: 0.037029
-    id: ck14kwar5rn0a0i1914rdxhgl
+    followers: 294791
+    engagement: 101
+    commentsToLikes: 0.060245
+    id: ck15tj7fiicnl0i19ggu6shsd
+    verified: true
+    hashtags: "#opiterriblynice, #beauty, #bailedavogue, #brigittecalegari"
+  - username: "yasmarinho_"
+    fullname: >-
+      Yasmin Marinho
+    bio: >-
+      Beauty| fashion | Model 📍São Paulo 📧 Yasmin@youngdigital.com.br @fordmodelsbrasil
+    location: "Brazil"
+    followers: 61649
+    engagement: 94
+    commentsToLikes: 0.089288
+    id: ck0vz08kn6n9y0i1902wzxfpx
     verified: false
-    hashtags: "#makeup, #shein, #sheinofficial, #makeuptutorial"
+    hashtags: "#travelphotography, #maldivesislands, #dubai, #maldives"
   - username: "maahway"
     fullname: >-
       Matheus
@@ -67,64 +127,4 @@ profiles:
     id: ck8t7jvsbh2wu0j78v69rjxuv
     verified: false
     hashtags: "#sephoradarksidechallenge, #linhabrunatavares, #make, #fentybeauty"
-  - username: "elyda.r"
-    fullname: >-
-      Èlyda
-    bio: >-
-      ♡ Rm 8:38-39 🕊 •moda - beauty - lifestyle• 📍RP-São Paulo
-    location: "Brazil"
-    followers: 18206
-    engagement: 207
-    commentsToLikes: 0.048506
-    id: ck8t7aoulg4u50j78udd6p1cw
-    verified: false
-    hashtags: "#fed, #storyinstagram, #ideiasnewpost, #crerparaver"
-  - username: "brigittecalegari"
-    fullname: >-
-      B R I G I TT E C A L E G A R I
-    bio: >-
-      | Beauty Lover & Lipstick Obsessed | São Paulo | contato@brigittecalegari.com.br | #brigittecalegari
-    location: "Brazil"
-    followers: 276053
-    engagement: 158
-    commentsToLikes: 0.040505
-    id: ck15tj7fiicnl0i19ggu6shsd
-    verified: true
-    hashtags: "#beauty, #brigittecalegari, #publicidade, #tbt"
-  - username: "marco_diniz"
-    fullname: >-
-      Marco Diniz
-    bio: >-
-      Welcome to my world 🌎 São Paulo SP🇧🇷 Beauty/Personal Care @marcodinizbeauty 📧 mdinizbeauty@gmail.com 📞 55 11 98516-1656
-    location: "Brazil"
-    followers: 25476
-    engagement: 102
-    commentsToLikes: 0.029169
-    id: ck5bxqc9uo7sy0i118tzuyg8p
-    verified: false
-    hashtags: "#hair, #marcodiniz, #makeup, #repost"
-  - username: "thitadiogo"
-    fullname: >-
-      THITA DIOGO
-    bio: >-
-      ⚡️Fashion | Beauty | Lifestyle | Redhead⚡️ •Model | Adm. de Empresas | Jurist ⚖️• •Romanos 8:39
-    location: "Brazil"
-    followers: 7721
-    engagement: 1334
-    commentsToLikes: 0.141050
-    id: ckap1kswiuymz0i78rtblvfrj
-    verified: false
-    hashtags: "#ruivanatural, #beleza, #ruivice, #ruivante"
-  - username: "emilyrybar_"
-    fullname: >-
-      ✨ Emily ✨
-    bio: >-
-      Sport | Healthy lifestyle | Model @anotheragency_ ♎️🦋🌟🧿🔮🌺
-    location: "Brazil"
-    followers: 81691
-    engagement: 72
-    commentsToLikes: 0.058371
-    id: ck6tl1jcc5st30j71s9g2rfbh
-    verified: false
-    hashtags: "#happy, #brazil, #moda, #outfit"
 ---

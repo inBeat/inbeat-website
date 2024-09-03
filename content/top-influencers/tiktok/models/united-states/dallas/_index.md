@@ -1,24 +1,12 @@
 ---
-title: Top 10 Models TikTok Influencers In Dallas In 2023
+title: Top 10 Models TikTok Influencers In Dallas In 2024
 description: >-
-  Find top models TikTok influencers in Dallas in 2023. Most popular hashtags: #fyp #model #foryou #dallas.
+  Find top models TikTok influencers in Dallas in 2024. Most popular hashtags: #fyp #model #dallas #foryou.
 platform: TikTok
-hits: 20
-text_top: Identify the most popular TikTok accounts on inBeat.
-text_bottom: Our search engine has 20 TikTok influencers like this in Dallas, United States for you to collaborate.
+hits: 19
+text_top: Analyze the top-rated TikTok accounts on inBeat.
+text_bottom: Our platform has 19 TikTok influencers like this in Dallas, United States for you to collaborate.
 profiles:
-  - username: "lifeoftanyamarie"
-    fullname: >-
-      Life of Tanya Marie
-    bio: >-
-      Stay weird queens 🤪 lifeoftanyamarie@gmail.com
-    location: "United States"
-    followers: 462700
-    engagement: 1486
-    commentsToLikes: 0.027271
-    id: cka0laieuq7ar0i78n9d14fky
-    verified: false
-    hashtags: "#whydidimakethis, #ad, #hack, #stitch"
   - username: "helloimmaverick"
     fullname: >-
       Maverick
@@ -79,18 +67,18 @@ profiles:
     id: ck9gl4jwwmmxs0j78fw3uokj8
     verified: false
     hashtags: "#fyp, #daytonatruckmeet2020, #duet, #myorder"
-  - username: "juandaniielz"
+  - username: "juandoniel"
     fullname: >-
       Juan
     bio: >-
-      Snapchat/Twitter/Instagram: @juandaniielz 📍Dallas / Oklahoma City
+      Snapchat/Twitter/Instagram: @juandoniel 📍Dallas / Oklahoma City
     location: "United States"
-    followers: 42700
-    engagement: 954
-    commentsToLikes: 0.020502
+    followers: 42400
+    engagement: 949
+    commentsToLikes: 0.020156
     id: ck8s8jkwsu2ve0j788qv6g81j
     verified: false
-    hashtags: "#cumbia, #music, #summerbody, #curlyhair"
+    hashtags: "#cumbia, #fyp, #summerbody, #music"
   - username: "terrycostaprom"
     fullname: >-
       Terry Costa Prom
@@ -109,12 +97,12 @@ profiles:
     bio: >-
       I make noises and voices and art and take photos for a living 23 TX
     location: "United States"
-    followers: 43600
-    engagement: 1882
-    commentsToLikes: 0.044649
+    followers: 43100
+    engagement: 1977
+    commentsToLikes: 0.054972
     id: ck95z2w6ycqpd0j78ogjs7muy
     verified: false
-    hashtags: "#harmony, #sing, #duet, #fyp"
+    hashtags: "#photoshoot, #fy, #model, #fyp"
   - username: "kailamargolis"
     fullname: >-
       kailamargolis
@@ -127,4 +115,16 @@ profiles:
     id: ckb12vkr0r3300j235g335iw2
     verified: false
     hashtags: "#fyp, #foryou, #dallas, #aesthetic"
+  - username: "foregiveness_"
+    fullname: >-
+      Eduardo
+    bio: >-
+      Insta: @ Johonnyvalentine Follow me 🤍🥰
+    location: "United States"
+    followers: 48600
+    engagement: 1084
+    commentsToLikes: 0.022495
+    id: ck9dupxyvhgym0j78jev9vz6w
+    verified: false
+    hashtags: "#weightloss, #pose, #dallas, #abs"
 ---

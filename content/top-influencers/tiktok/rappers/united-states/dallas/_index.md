@@ -1,11 +1,11 @@
 ---
-title: Top 10 Rappers TikTok Influencers In Dallas In 2023
+title: Top 10 Rappers TikTok Influencers In Dallas In 2024
 description: >-
-  Find top rappers TikTok influencers in Dallas in 2023. Most popular hashtags: #foryou #fyp #duet #stitch.
+  Find top rappers TikTok influencers in Dallas in 2024. Most popular hashtags: #fyp #duet #foryou #stitch.
 platform: TikTok
 hits: 4
-text_top: Discover the best TikTok influencers on inBeat.
-text_bottom: Our database aggregates 4 TikTok influencers like this in Dallas, United States for you to pitch.
+text_top: Discover the most popular TikTok influencers on inBeat.
+text_bottom: inBeat aggregates 4 TikTok influencers like this in Dallas, United States for you to connect with.
 profiles:
   - username: "laurencedallas30"
     fullname: >-
@@ -90,7 +90,7 @@ profiles:
     commentsToLikes: 0.032166
     id: ck9kb9w0okaxm0j78rigij2f1
     verified: true
-    hashtags: "#wholesomecontent, #originalmusic, #rapper, #sillysongs"
+    hashtags: "#originalmusic, #wholesomecontent, #rapper, #sillysongs"
   - username: "kiwifro0ot"
     fullname: >-
       keke

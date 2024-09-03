@@ -1,11 +1,11 @@
 ---
-title: Top 10 Travel TikTok Influencers In Medellín In 2023
+title: Top 10 Travel TikTok Influencers In Medellín In 2024
 description: >-
-  Find top travel TikTok influencers in Medellín in 2023. Most popular hashtags: #colombia #travel #parati #medellin.
+  Find top travel TikTok influencers in Medellín in 2024. Most popular hashtags: #colombia #travel #parati #medellin.
 platform: TikTok
 hits: 7
-text_top: Discover the top-rated TikTok influencers on inBeat.
-text_bottom: Our platform holds 7 TikTok influencers like this in Medellín, Colombia for you to collaborate.
+text_top: Discover the best TikTok accounts on inBeat.
+text_bottom: Our database has 7 TikTok influencers like this in Medellín, Colombia for you to pitch.
 profiles:
   - username: "janiachaparro"
     fullname: >-

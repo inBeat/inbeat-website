@@ -1,11 +1,11 @@
 ---
-title: Top 10 Cooking TikTok Influencers In Poland In 2023
+title: Top 10 Cooking TikTok Influencers In Poland In 2024
 description: >-
-  Find top cooking TikTok influencers in Poland in 2023. Most popular hashtags: #dlaciebie #dc #foryou #cooking.
+  Find top cooking TikTok influencers in Poland in 2024. Most popular hashtags: #dc #dlaciebie #foryou #cooking.
 platform: TikTok
 hits: 25
-text_top: Identify the most popular TikTok influencers on inBeat.
-text_bottom: Our search engine aggregates 25 TikTok influencers like this in Poland for you to contact.
+text_top: See the most popular TikTok influencers on inBeat.
+text_bottom: Our platform holds 25 TikTok influencers like this in Poland for you to work with.
 profiles:
   - username: "freezinka"
     fullname: >-

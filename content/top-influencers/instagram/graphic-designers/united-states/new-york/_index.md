@@ -1,11 +1,11 @@
 ---
-title: Top 10 Graphic-Designers Instagram Influencers In New York In 2023
+title: Top 10 Graphic-Designers Instagram Influencers In New York In 2024
 description: >-
-  Find top graphic-designers Instagram influencers in New York in 2023. Most popular hashtags: #photography #newyork #artist #graphicdesigner.
+  Find top graphic-designers Instagram influencers in New York in 2024. Most popular hashtags: #graphicdesign #graphicdesigner #photoshop #artist.
 platform: Instagram
-hits: 19
-text_top: Analyze the best Instagram accounts on inBeat.
-text_bottom: Our database holds 19 Instagram influencers like this in New York, United States for you to collaborate.
+hits: 84
+text_top: See the best Instagram profiles on inBeat.
+text_bottom: Our platform has 84 Instagram influencers like this in New York, United States for you to connect with.
 profiles:
   - username: "naomiotsu"
     fullname: >-
@@ -31,18 +31,54 @@ profiles:
     id: ck55m9pwd3idg0i11wt98i3a3
     verified: false
     hashtags: "#artist, #digitalart, #creative, #adobe"
+  - username: "miltonglaserinc"
+    fullname: >-
+      Milton Glaser
+    bio: >-
+      Design studio of Milton Glaser. studio@miltonglaser.com
+    location: "United States"
+    followers: 51757
+    engagement: 210
+    commentsToLikes: 0.008744
+    id: ck5cg21fwo13h0i11efugz3c6
+    verified: false
+    hashtags: "#illustration, #graphicdesign, #miltonglaser, #posterdesign"
+  - username: "adobecreativecloud"
+    fullname: >-
+      Adobe Creative Cloud
+    bio: >-
+      Tag your work with #MadewithCC or #CreativeCloud to be featured!
+    location: "United States"
+    followers: 944041
+    engagement: 11
+    commentsToLikes: 0.015015
+    id: ck0u2coa6zfpa0i199sexhrdd
+    verified: true
+    hashtags: "#madewithcc, #surrealartist, #typography, #surrealart"
   - username: "visionofjoe"
     fullname: >-
       Joe💫
     bio: >-
-      Photoshop Mastermind 🧠 | New York 🇺🇸 • Contact me 💌 VisionofJoe.business@gmail.com • @joeraines_ ✈️ | #Visionscreatedreams 🌟 • Apparel Out Now👇🏼
+      Photoshop Mastermind 🧠 | New York 🇺🇸 • Contact me 💌 VisionofJoe.business@gmail.com • @visionofjoephoto ✈️ | #Visionscreatedreams
     location: "United States"
-    followers: 73206
-    engagement: 299
-    commentsToLikes: 0.011973
+    followers: 59411
+    engagement: 175
+    commentsToLikes: 0.016415
     id: ck0vvid21p9vo0i19ccbjxwxc
     verified: false
-    hashtags: "#photography, #lightroom, #artist, #photos"
+    hashtags: ""
+  - username: "tienmin_liao"
+    fullname: >-
+      Typeji  |  TienMin Liao
+    bio: >-
+      Retail & Custom Typeface / Logotype / Latin & Kanji New York ⇄ Taiwan Portfolio👇
+    location: "United States"
+    followers: 10289
+    engagement: 395
+    commentsToLikes: 0.022045
+    id: ck8sxlce8htgi0j78h47rxccn
+    verified: false
+    hashtags: "#editorialdesign, #typeinuse, #typographic, #tienminliao"
   - username: "cristianachiossi"
     fullname: >-
       CRIS | REBEL • FREE • STUBBORN
@@ -55,76 +91,40 @@ profiles:
     id: ckaosfezgrdtj0i78g7flw7w9
     verified: false
     hashtags: "#lifequotes, #motivations, #motivational, #quoteoftheday"
-  - username: "evaaphrodite"
+  - username: "fushionwith.yu"
     fullname: >-
-      Eva Aphrodite Katerina
+      Yu ｜Fashion Diary
     bio: >-
-      - Fine Artist, Graphic Designer, Illustrator - PhD Central Saint Martins, University of the Arts - My Art PRINTED on various products @REDBUBBLE
+      A graphic designer who loves to share her fashion daily and fun reels. Lifestyle & Inspo, follow for more! DM / 💌 TO COLLAB
     location: "United States"
-    followers: 9918
-    engagement: 753
-    commentsToLikes: 0.100602
-    id: ck14lj4mruy2v0i19vqh2i2w2
+    followers: 6099
+    engagement: 620
+    commentsToLikes: 0.226568
+    id: cl7ffqwwgr7hk0i23wlvrd6g2
     verified: false
-    hashtags: "#reddresses, #butterflies, #butterfliesofinstagram, #butterflyart"
-  - username: "foreveruppity"
+    hashtags: "#blazerstyle, #newyorkfashionblogger, #reeltransition, #reelsfashion"
+  - username: "larslagaisse"
     fullname: >-
-      J.Monroe
+      Lars Lagaisse
     bio: >-
-      Raised by: The Harlem Renaissance LUAlumnus | 🐶UnderDawg International Photographer/ Graphic Designer @Monroe.Media
+      Founder of @kaartblanche | Freelance graphic designer & social media guy | Editor at @sosoirmagazine 💌 lars@kaartblanche.com 📍BE
     location: "United States"
-    followers: 5221
-    engagement: 1327
-    commentsToLikes: 0.045065
-    id: ck0w6yw4jawyf0i19zgje3vak
+    followers: 19243
+    engagement: 265
+    commentsToLikes: 0.011883
+    id: ck6tqttgyu7sb0j71v35r71wn
     verified: false
-    hashtags: "#atlphotography, #editorial, #gq, #editorialphotographer"
-  - username: "thegirlwhoblogss"
+    hashtags: "#oaxaca, #mexico, #italy, #nycpride2023"
+  - username: "eonnigiri"
     fullname: >-
-      Faiza Shahzad 👑
+      Camille | 📍 Montreal
     bio: >-
-      Graphic Designer 📍Islamabad 🇵🇰 ~Fashion | Reviews |Lifestyle|Digital Influencer ~For Collab,Promotions,Invitations Dm or 📧
+      📸 capturing my food & cafe discoveries 🎨 graphic designer and content creator 📧 contact me: eonnigiris@gmail.com 👇 blog and discount codes below!
     location: "United States"
-    followers: 21429
-    engagement: 419
-    commentsToLikes: 0.208081
-    id: ck9wgj0irtn8b0j78rlh1ls0f
+    followers: 9450
+    engagement: 43
+    commentsToLikes: 0.006767
+    id: ck0u68j1y18uq0i19v14clbo0
     verified: false
-    hashtags: "#bloggerstyle, #thegirlwhoblogss, #photooftheday, #nature"
-  - username: "sicerow"
-    fullname: >-
-      SICEROW PHOTOGRAPHY
-    bio: >-
-      📸 Photographer 🖥 Graphic Designer ⚠️ Shoots 21+ only 🎙 Vocal Coach 💈 Barber Since ‘86 🐼 Making of 👇🏽 @sicerowphotography
-    location: "United States"
-    followers: 15119
-    engagement: 376
-    commentsToLikes: 0.038772
-    id: ck5q70ojozir30i11j6ldgc33
-    verified: false
-    hashtags: "#newyork, #modeling, #beautiful, #pretty"
-  - username: "garasigrafis"
-    fullname: >-
-      Ardimas Ramadan
-    bio: >-
-      Graphic designer Copyright ©2021 WhatsApp +6285758194455 @garasigraphic for mascot character design Info@garasigrafis.com
-    location: "United States"
-    followers: 35459
-    engagement: 167
-    commentsToLikes: 0.041285
-    id: ck5zk44i2is2z0i14uwdxi441
-    verified: false
-    hashtags: "#doublemeaning, #logoshift, #businesslogo, #designer"
-  - username: "chris_dokebi"
-    fullname: >-
-      Chris Dokebi
-    bio: >-
-      Maker of mischievous goblins. Commission/freelance work CLOSED
-    location: "United States"
-    followers: 34180
-    engagement: 332
-    commentsToLikes: 0.008955
-    id: ck14hwiogchih0i195zrta25a
-    verified: false
-    hashtags: "#painting, #designertoy, #artist, #digitaldrawing"
+    hashtags: "#mtllifestyle, #montrealactivities, #montreallife, #mtllife"
 ---

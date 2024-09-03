@@ -1,11 +1,11 @@
 ---
-title: Top 10 Rappers TikTok Influencers In Chicago In 2023
+title: Top 10 Rappers TikTok Influencers In Chicago In 2024
 description: >-
-  Find top rappers TikTok influencers in Chicago in 2023. Most popular hashtags: #fyp #chicago #viral #funny.
+  Find top rappers TikTok influencers in Chicago in 2024. Most popular hashtags: #fyp #viral #chicago #rapper.
 platform: TikTok
-hits: 22
-text_top: See the top-rated TikTok influencers on inBeat.
-text_bottom: inBeat has 22 TikTok influencers like this in Chicago, United States for you to collaborate.
+hits: 23
+text_top: Analyze the best TikTok accounts on inBeat.
+text_bottom: Our database has 23 TikTok influencers like this in Chicago, United States for you to pitch.
 profiles:
   - username: "biglewwis"
     fullname: >-
@@ -43,18 +43,30 @@ profiles:
     id: ckb9v5ju6u4w10j23g77t0vim
     verified: false
     hashtags: "#6ix9ine, #rapperstoknow, #chicago, #texas"
-  - username: "playboierik22"
+  - username: "djsmallz732"
     fullname: >-
-      playboierik22
+      DJ Smallz 732
     bio: >-
-      16 Add me on Discord! @NotProudMexican#5182
+      CLUB 🐐 || PRODUCER || DJ || OVER 100+ MILLION PLAYS WORLD WIDE 🌏 || IG ⬆️
     location: "United States"
-    followers: 15000
-    engagement: 1680
-    commentsToLikes: 0.063934
-    id: ckblf1yx090ng0j23p586s9uk
+    followers: 41200
+    engagement: 1121
+    commentsToLikes: 0.036096
+    id: ckdnu2b4dmjqr0j23nqmnojnw
     verified: false
-    hashtags: "#funny, #rocketleague, #foryou, #twitch"
+    hashtags: "#musicproducer, #flstudio, #djsmallz732, #jersey"
+  - username: "ministerskele"
+    fullname: >-
+      Shark boy
+    bio: >-
+      my life belongs to God. Really obnoxious Bible Boy. 16 years young 🤪😜😎🥸🥸🥸
+    location: "United States"
+    followers: 11000
+    engagement: 1492
+    commentsToLikes: 0.087734
+    id: ck98rdc13a6680j78c35f99v7
+    verified: false
+    hashtags: "#stitch, #cod, #duet, #pietromaximoff"
   - username: "bobbykristoph"
     fullname: >-
       Bobby Kristoph
@@ -114,17 +126,5 @@ profiles:
     commentsToLikes: 0.085192
     id: ckav2llyn8qqk0j23vqbjckl5
     verified: false
-    hashtags: "#art, #xxl, #micellarrewind, #fyp"
-  - username: "iamsaucee"
-    fullname: >-
-      iamsaucee
-    bio: >-
-      INSTAGRAM: iamsaucee YOUTUBE: iamsaucee Road to 1 million 🎉
-    location: "United States"
-    followers: 975200
-    engagement: 1887
-    commentsToLikes: 0.017435
-    id: ck8j6dbiz9alx0j782idwl5if
-    verified: false
-    hashtags: "#blowthisup, #getcrocd, #aeriereal, #viral"
+    hashtags: "#graphicdesign, #art, #rappers, #popsmoke"
 ---

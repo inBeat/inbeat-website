@@ -1,11 +1,11 @@
 ---
-title: Top 10 Christian Instagram Influencers In Germany In 2023
+title: Top 10 Christian Instagram Influencers In Germany In 2024
 description: >-
-  Find top christian Instagram influencers in Germany in 2023. Most popular hashtags: #fitness #summervibes #happy #fun.
+  Find top christian Instagram influencers in Germany in 2024. Most popular hashtags: #fitness #workout #gym.
 platform: Instagram
-hits: 543
-text_top: See the top-rated Instagram accounts on inBeat.
-text_bottom: Our database holds 543 Instagram influencers like this in Germany for you to collaborate.
+hits: 628
+text_top: See the best Instagram influencers on inBeat.
+text_bottom: Our search engine has 628 Instagram influencers like this in Germany for you to connect with.
 profiles:
   - username: "orangello_i30n"
     fullname: >-
@@ -19,18 +19,78 @@ profiles:
     id: ck0ttjke7307t0i191f13xbem
     verified: false
     hashtags: "#du, #germany, #remus, #orange"
+  - username: "liebeslauftagebuch"
+    fullname: >-
+      Liebes Lauftagebuch
+    bio: >-
+      ❤ #LiebesLauftagebuch 👟 @brooksrunningde RunHappyTeam 🍌 #brooksrunhappyteam 🕧 10k • 35:55 🕜 21k • 1:22 🕞 42k • 3:06 💪🏽 @brandlnutrition"christian10"⬇️
+    location: "Germany"
+    followers: 9949
+    engagement: 1417
+    commentsToLikes: 0.031700
+    id: ck8tc3uchy6mo0j782n7o43sg
+    verified: false
+    hashtags: "#laufmotivation, #brandlnutrition, #halfmarathon, #triathlon"
+  - username: "rammsteinofficial"
+    fullname: >-
+      Rammstein
+    bio: >-
+      @richard_von_rammstein @till_lindemann_official @paullanders_official @christianlorenz_official @christophschneider_official @oliver_riedel_official
+    location: "Germany"
+    followers: 3200551
+    engagement: 439
+    commentsToLikes: 0.013421
+    id: ck0tvcdenatee0i19xwsjl1ez
+    verified: true
+    hashtags: ""
+  - username: "christianrfit"
+    fullname: >-
+      Christian Roehrl | Fitness
+    bio: >-
+      📍 GER 🇩🇪 Bodybuilding | Classic Physique 🔥 YouTube, TikTok: christianrfit 🦈 Powered by @gymshark Code: CHRISTIANFIT (-10%)
+    location: "Germany"
+    followers: 166434
+    engagement: 379
+    commentsToLikes: 0.012786
+    id: ck9wfq2acq03c0j7828vxcj9c
+    verified: false
+    hashtags: "#gymlife, #shredded, #morningroutine, #fitnesslifestyle"
+  - username: "roadandboard"
+    fullname: >-
+      ROAD & BOARD
+    bio: >-
+      👫🏻 @marenschwitalla und Christian 🛠️ Busbastler 🎥 Contentcreator 🌈 Brand Designerin
+    location: "Germany"
+    followers: 39740
+    engagement: 188
+    commentsToLikes: 0.031018
+    id: ck5q64hh1vwsn0i11jfxph6ia
+    verified: false
+    hashtags: "#diy, #vanlife, #queenply, #vansofgermany"
   - username: "christianlindner"
     fullname: >-
       Christian Lindner
     bio: >-
       🏢 Bundesminister der Finanzen 🤳Chef von @fdp. 🎧 Podcast @spotify: CL+. 📲 christian.lindner@fdp.de 📍 Berlin
     location: "Germany"
-    followers: 364919
-    engagement: 216
-    commentsToLikes: 0.035443
+    followers: 372508
+    engagement: 131
+    commentsToLikes: 0.142731
     id: ck0twafkcemez0i19ne6t0j6h
     verified: true
-    hashtags: "#deutschlandticket, #commonframework, #emsland, #ukraine"
+    hashtags: "#3k24, #weimar, #wettbewerbsf, #clfragt"
+  - username: "ifbb_pro_petar_klancir"
+    fullname: >-
+      Petar Klančir
+    bio: >-
+      Christian-Husband-Father🙏 IFBB Pro Helping You Get Jacked @gymbeamhr 'PETAR5, @climaqx_ 'PETAR10, @ftb.nutrition 'PETAR10,
+    location: "Germany"
+    followers: 892743
+    engagement: 128
+    commentsToLikes: 0.017216
+    id: clp24fkj5cevg0j088221lfmf
+    verified: false
+    hashtags: "#fibo2024, #gymbeam, #gymbeamhr, #biceps"
   - username: "goethes_welt"
     fullname: >-
       Goethes Welt
@@ -42,19 +102,7 @@ profiles:
     commentsToLikes: 0.089014
     id: ck0w1joczjoig0i196zew7juz
     verified: false
-    hashtags: "#herzenspferd, #lovemypony, #buckskin, #goldpony"
-  - username: "hello.its.me.anni"
-    fullname: >-
-      Anni
-    bio: >-
-      Lifestyle • Mom • Fashion ↑ Daily Story’s ♡ Wifey of @hello.its.me.christian ✨Das Leben ist zu kurz um wenig Nudeln zu essen ✨
-    location: "Germany"
-    followers: 40213
-    engagement: 587
-    commentsToLikes: 0.023814
-    id: ck6u18ii2k8hh0j71aer6lw4s
-    verified: false
-    hashtags: "#gl, #happy, #outfitlook, #sonnenblumenfeld"
+    hashtags: "#springpony, #equestrian, #falbe, #pferdesport"
   - username: "vonguteneltern"
     fullname: >-
       Von guten Eltern
@@ -78,53 +126,5 @@ profiles:
     commentsToLikes: 0.020764
     id: ckaoyfeyyhanv0i789q1vb8xo
     verified: true
-    hashtags: "#kauftdatteil, #dasdingis3malinsfeuergefallen, #lockdownlyrik, #krass"
-  - username: "c.karsunke"
-    fullname: >-
-      Chris | Immomakler & Model
-    bio: >-
-      Creating my own #positive world 🚀 • ❤️ @alinasncr 🏠 @finehouses.de 📍 Frankfurt am Main ✉️ christian-karsunke@web.de
-    location: "Germany"
-    followers: 124662
-    engagement: 389
-    commentsToLikes: 0.027300
-    id: ck5q77e5a09qi0i11vlj8998h
-    verified: false
-    hashtags: "#goodvibes, #fitness, #menwithstyle, #sun"
-  - username: "liebeslauftagebuch"
-    fullname: >-
-      Liebes Lauftagebuch
-    bio: >-
-      ❤ #LiebesLauftagebuch 👟 @brooksrunningde RunHappyTeam 🍌 #brooksrunhappyteam 💪🏽 @brandlnutrition "christian10" 🕧 10k • 35:55 🕜 21k • 1:22 🕞 42k • 3:06
-    location: "Germany"
-    followers: 8860
-    engagement: 1853
-    commentsToLikes: 0.031996
-    id: ck8tc3uchy6mo0j782n7o43sg
-    verified: false
-    hashtags: "#nevernotrunning, #runnerslife, #runlikeapro, #laufen"
-  - username: "sunita_ramic"
-    fullname: >-
-      𝗦𝗨𝗡𝗜𝗧𝗔 𝗙𝗔𝗦𝗛𝗜𝗢𝗡𝗕𝗟𝗢𝗚𝗚𝗘𝗥
-    bio: >-
-      ★ 𝓕𝓻𝓮𝓮 𝓼𝓹𝓲𝓻𝓲𝓽 & Mama #alittlebitof_sunita 📸 all photos made @christian_schuetz
-    location: "Germany"
-    followers: 27512
-    engagement: 155
-    commentsToLikes: 0.021469
-    id: ckap9hjt1sn790i78dzy8ahiq
-    verified: false
-    hashtags: "#italia, #pesaro, #familytime, #summervibes"
-  - username: "type.arno"
-    fullname: >-
-      Arno 📸
-    bio: >-
-      Model & Influencer Germany ❤ Animals, Sport, Cook 166/43 Acc. runs by mom @christiane.photography ⛔ Don't use pics without perm DM for collab. or ⬇️
-    location: "Germany"
-    followers: 53023
-    engagement: 547
-    commentsToLikes: 0.025889
-    id: ck0u7x94o60l90i19bw2xctg9
-    verified: false
-    hashtags: "#influence, #piano, #kidsmodel, #cool"
+    hashtags: "#menschenweg, #heuteabendmussichskypen, #papawasser, #kauftdatteil"
 ---

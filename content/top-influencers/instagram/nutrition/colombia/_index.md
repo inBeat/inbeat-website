@@ -1,11 +1,11 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In Colombia In 2023
+title: Top 10 Nutrition Instagram Influencers In Colombia In 2024
 description: >-
-  Find top nutrition Instagram influencers in Colombia in 2023. Most popular hashtags: #fitness #fit #nutrici.
+  Find top nutrition Instagram influencers in Colombia in 2024. Most popular hashtags: #fitness #love #tbt #fit.
 platform: Instagram
-hits: 41
-text_top: Analyze the most popular Instagram profiles on inBeat.
-text_bottom: Our database has 41 Instagram influencers like this in Colombia for you to connect with.
+hits: 42
+text_top: Discover the most popular Instagram accounts on inBeat.
+text_bottom: Our platform holds 42 Instagram influencers like this in Colombia for you to collaborate.
 profiles:
   - username: "cristinaflorez_"
     fullname: >-
@@ -55,18 +55,6 @@ profiles:
     id: ck14ifzwkf7mv0i194s50fxu1
     verified: false
     hashtags: "#4semanascomiendobien, #healthy, #recetasaschafitness, #healthyrecipe"
-  - username: "cmanriquet"
-    fullname: >-
-      Carolina Manrique Tejedor⭐️
-    bio: >-
-      🇨🇴 COLOMBIANA COACHING ONLINE NEGOCIOS Y MARCAS: cmora@reachoutla.com Certified Personal trainer Certified sports Nutritionist
-    location: "Colombia"
-    followers: 229435
-    engagement: 225
-    commentsToLikes: 0.017566
-    id: ck14k07gln25v0i19mf523ngd
-    verified: false
-    hashtags: "#vals, #pandora, #arm, #cardioworkout"
   - username: "befit.4you"
     fullname: >-
       Be Fit ❘ Gabriela
@@ -103,28 +91,40 @@ profiles:
     id: ck5qcitk6qsg60i11zfzcz60p
     verified: false
     hashtags: "#fitnessparasiempre, #pastorsorayo, #4everfitcambiandovidas"
+  - username: "leococinero"
+    fullname: >-
+      Leonardo Moran
+    bio: >-
+      Cocinero , chef 🇨🇴🍽👨🏻‍🍳🔪♉️ Cursos y clases de cocina. 🥗 Ganador de Master chef Colombia 2016 Contacto: sfraija@wmcolombia.com o mensaje directo. 🙏☸️👍
+    location: "Colombia"
+    followers: 232363
+    engagement: 76
+    commentsToLikes: 0.035393
+    id: ck136xdv48qa10i19fm2liv12
+    verified: true
+    hashtags: "#enjoy, #patrocinado, #chef, #bienestar"
   - username: "dcnutricion"
     fullname: >-
       👩🏼‍⚕️Dahiana Castillo ND. 🇺🇸 🇨🇴
     bio: >-
       👩‍🔬Dir.Científica•Founder @nutrartecol 🧬Nutricionista•Epidemióloga 🥑Nutrición avanzada y funcional 📚Autora•Speaker 📌Info 👇🏻YouTube•Asesorías•cursos
     location: "Colombia"
-    followers: 121666
-    engagement: 97
-    commentsToLikes: 0.040507
+    followers: 125147
+    engagement: 18
+    commentsToLikes: 0.028222
     id: ck600z1a4ejjh0i14r0iklpzq
     verified: false
-    hashtags: "#cuidate, #nutritionist, #loveyourself, #alimentacionsana"
-  - username: "endocrinorosero"
+    hashtags: "#nutricionistamiami, #nutricionavanzada, #alimentacion, #dietas"
+  - username: "marianelamodel"
     fullname: >-
-      Endocrino Rosero
+      MARIANELA | PRESENTADORA
     bio: >-
-      👉🏻Comida real para personas reales| ✍️Autor : Meta Alimentación | Médico Endocrinólogo Experto en metabolismo🧬|🇨🇴| Información sobre EndocrinoRosero👇
+      🇨🇴 Miss sudamerica 2020 🏋🏽‍♀️ fitness 👩🏼‍💼Creadora de @malena_stylee
     location: "Colombia"
-    followers: 504079
-    engagement: 268
-    commentsToLikes: 0.039558
-    id: ck8sz2e86mwzd0j788xvt7vyr
+    followers: 70301
+    engagement: 217
+    commentsToLikes: 0.023285
+    id: ck5q3ihpokw7e0i11gl42nznm
     verified: false
-    hashtags: "#dieta, #keto, #nutricion, #saludable"
+    hashtags: "#instagood, #instafashion, #photography, #mexico"
 ---

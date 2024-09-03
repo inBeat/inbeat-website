@@ -1,130 +1,130 @@
 ---
-title: Top 10 Bloggers Instagram Influencers In Russia In 2023
+title: Top 10 Bloggers Instagram Influencers In Russia In 2024
 description: >-
-  Find top bloggers Instagram influencers in Russia in 2023. Most popular hashtags: #avemebox #royalsamples #royalsamplesru.
+  Find top bloggers Instagram influencers in Russia in 2024. Most popular hashtags: #pcgamingsetup #pcmr #beachtentedvilla.
 platform: Instagram
-hits: 419
-text_top: See the best Instagram influencers on inBeat.
-text_bottom: inBeat holds 419 Instagram influencers like this in Russia for you to connect with.
+hits: 406
+text_top: Discover the best Instagram profiles on inBeat.
+text_bottom: Our database holds 406 Instagram influencers like this in Russia for you to work with.
 profiles:
-  - username: "djurinskaya"
+  - username: "palad1n"
     fullname: >-
-      Джуринская Жания Алихановна
+      Andrey palad1n
     bio: >-
-      actress 🎬 blogger TikTok @djurinskaya Сотрудничество +7707 747 08 88 @qamalladin.media
+      👨🏻‍💻PC Engineer and blogger 🕹My Setup and me #PALAD1N 🛠PC Build Advice and collaboration! 📩Сотрудничество по бартеру и PC консультации в Direct!
     location: "Russia"
-    followers: 2932182
-    engagement: 122
-    commentsToLikes: 0.019243
-    id: ck5hqy1qytxi50i11jscwqtnt
-    verified: true
-    hashtags: "#rixosmoments, #wednesday, #rixoswaterworldaktau, #tetysblu"
+    followers: 49094
+    engagement: 826
+    commentsToLikes: 0.102221
+    id: ck13bmzxgw7ks0i19s1hkqlfe
+    verified: false
+    hashtags: "#hototools, #hotohack, #hotolife, #pcbuilds"
+  - username: "arusikmarkosyan_"
+    fullname: >-
+      Arusik Markosyan
+    bio: >-
+      Blogger ✨ photographer📸 смотри мои сториз вместо сериала work page👇🏻 📸@arusikmarkosyan_photography @photostudio_artfocus 👰‍♀️ @artfocus_production
+    location: "Russia"
+    followers: 115108
+    engagement: 685
+    commentsToLikes: 0.013490
+    id: ck6udaptjk0o70j71qd40s8l0
+    verified: false
+    hashtags: "#feelinghappy"
+  - username: "lyubalishnevskaya"
+    fullname: >-
+      Любовь Лишневская
+    bio: >-
+      Lifestyle Blogger / Tattoo master Cooperation Denis +7 (985) 305-44-14 Мой личный курс обучения тату👇🏼@lyubodorogo_tattoo Moscow 🦂
+    location: "Russia"
+    followers: 342273
+    engagement: 538
+    commentsToLikes: 0.003877
+    id: ck5q3lh0tlb2j0i11y3niu3xf
+    verified: false
+    hashtags: ""
+  - username: "razziyuwa"
+    fullname: >-
+      Raziya Kuziyeva
+    bio: >-
+      На хате у Разиюши founder: @waffle_kex 💜 Blogger| 🇰🇿 cooperation +7 707 787 7898
+    location: "Russia"
+    followers: 773200
+    engagement: 858
+    commentsToLikes: 0.005021
+    id: ck6u7cnp9kqrg0j71ajwncet8
+    verified: false
+    hashtags: "#colorfulpeople"
+  - username: "sasha_shklyaeva"
+    fullname: >-
+      Stylist/ Александра Шкляева
+    bio: >-
+      •Fashion blogger •Personal stylist
+    location: "Russia"
+    followers: 33153
+    engagement: 399
+    commentsToLikes: 0.032321
+    id: ck0u81za969m60i197nt4sqwm
+    verified: false
+    hashtags: "#lorealprorussia, #lorealprolover, #steampodrussia"
+  - username: "dots_foto"
+    fullname: >-
+      Дмитрий Доценко / Фотограф Алматы
+    bio: >-
+      🔥Professional photographer, Blogger 📷 Фотографирую Алматы и Казахстан 👇Реклама, сотрудничество, покупка фотографий
+    location: "Russia"
+    followers: 133092
+    engagement: 1086
+    commentsToLikes: 0.020089
+    id: ckf5m2ei0rzeu0j23ktyjjf4u
+    verified: false
+    hashtags: "#moon, #kazakhstan, #mountains, #fullmoon"
   - username: "tanya_strelova"
     fullname: >-
       Tаня Стрелова
     bio: >-
-      🎥Blogger YouTube 2.8 млн🍋 📩Сотрудничество: tanyastrelova@mail.ru 👇🏻НОВОЕ ВИДЕО 👇🏻
+      🎥Blogger YouTube 2.8 млн🍋 📩Сотрудничество: tanyastrelova@mail.ru 👇🏻Мой YouTube👇🏻
     location: "Russia"
-    followers: 115209
-    engagement: 589
-    commentsToLikes: 0.033202
+    followers: 112208
+    engagement: 383
+    commentsToLikes: 0.028382
     id: ck6u4nlen4r2h0j71uaiomvhm
     verified: false
-    hashtags: "#essencefest, #2021"
-  - username: "elizaveta_striz"
+    hashtags: "#essencefest, #wildberries"
+  - username: "vitaly_dedenko"
     fullname: >-
-      Блогер Лайкер Лиза Стриж
+      Vitaly Dedenko
     bio: >-
-      ❤️7млн любимых подписчиков❤️ 😳Учусь дома в онлайн школе😳 💦Снимаю видео каждый день💦 Сотрудничество и pr: @lizza.strizh Участница - @blogger_camp 💓
+      Follow and you’ll find here: ⠀ 🌍 most beautiful hotels, restaurants 🥂 luxury living in Dubai ⠀ I'll tell you how to become a travel blogger
     location: "Russia"
-    followers: 826854
-    engagement: 770
-    commentsToLikes: 0.050208
-    id: ck6u13bx4jbmq0j715ikk6n91
+    followers: 1239951
+    engagement: 300
+    commentsToLikes: 0.006900
+    id: ck5hnfkd0np4e0i11xiqivcma
+    verified: false
+    hashtags: "#fairmontmaldives, #beachtentedvilla, #fairmonthotels, #baglionimaldives"
+  - username: "bogdanovich.elena"
+    fullname: >-
+      Elena Bogdanovich
+    bio: >-
+      Make-up Artist | YouTube Blogger | Influencer Work: pr@bogdanovich.ru
+    location: "Russia"
+    followers: 237854
+    engagement: 287
+    commentsToLikes: 0.008872
+    id: ck14gqibm6jho0i19f8721gjo
+    verified: false
+    hashtags: "#tolerance, #tolerancecontrol, #controltheunexpected, #eauthermaleavenerussia"
+  - username: "alvuwki"
+    fullname: >-
+      AMIRIAN ALVINA (Армянка)
+    bio: >-
+      ♱ JESUS IS KING ♱ Official account Blogger, influencer PR/Сотрудничество : +79852655594 PR/Сотрудничество : @alvuwki_pr
+    location: "Russia"
+    followers: 1760224
+    engagement: 282
+    commentsToLikes: 0.003178
+    id: ck0tzf0ttq4mv0i1912ll3zu2
     verified: false
     hashtags: ""
-  - username: "tema_temoff"
-    fullname: >-
-      Artem Artemev
-    bio: >-
-      22 y.o. Owner: @wldrsd Fashion blogger youtube: ADVICE FOR GUYS NEW VIDEO ↓
-    location: "Russia"
-    followers: 14336
-    engagement: 896
-    commentsToLikes: 0.111812
-    id: ckf5ky4ztnn6e0j233lod6d4w
-    verified: false
-    hashtags: "#maisonmargiela, #tabi, #maisonmargielatabi"
-  - username: "emberwesst"
-    fullname: >-
-      Эмбер
-    bio: >-
-      Singer | Blogger | Model Сотрудничество: direct, nastja298@mail.ru Tik Tok: Ember West 2.9m Новое видео на YouTube👇🏻
-    location: "Russia"
-    followers: 116149
-    engagement: 431
-    commentsToLikes: 0.108273
-    id: ck8swvdqxfdp60j78hye7aif9
-    verified: false
-    hashtags: ""
-  - username: "lenavanguk"
-    fullname: >-
-      
-    bio: >-
-      Saint-Petersburg Blogger & graphic designer Barter, advertising / сотрудничество, реклама - direct 📩
-    location: "Russia"
-    followers: 11331
-    engagement: 1261
-    commentsToLikes: 0.059139
-    id: ck8tajr2rs23n0j78yiyk79lt
-    verified: false
-    hashtags: ""
-  - username: "aveme_lissa"
-    fullname: >-
-      Aveme Lissa 🌸Лисса Авеми
-    bio: >-
-      Beauty YouTube blogger 2.300.000 NEW VIDEO 👇🏻
-    location: "Russia"
-    followers: 724115
-    engagement: 857
-    commentsToLikes: 0.020319
-    id: ck5c2elg3x3t70i11ksrzrg80
-    verified: false
-    hashtags: "#royalsamples, #royalsamplesru, #avemebox, #pinkandproud"
-  - username: "kvashnevskyi"
-    fullname: >-
-      Дмитрий Квашневский
-    bio: >-
-      Influencer | Blogger | Investor Pr/Сотрудничество/Реклама: @kvashnevskyi_pr ⠀ Мои проекты ⬇️⬇️⬇️
-    location: "Russia"
-    followers: 331430
-    engagement: 334
-    commentsToLikes: 0.033443
-    id: ck5hcejmnhnoo0i119am1lt8p
-    verified: false
-    hashtags: ""
-  - username: "victoriaportfolio"
-    fullname: >-
-      Victoria Portfolio
-    bio: >-
-      TikTok блогер № 1 в России (Авто) YouTube/Inst Luxury lifestyle blogger Реклама/сотрудничество : @by_victoriaportfolio Новое видео👇👇👇
-    location: "Russia"
-    followers: 1716668
-    engagement: 157
-    commentsToLikes: 0.011240
-    id: ck0w4a674xk2o0i19spqv59ax
-    verified: false
-    hashtags: ""
-  - username: "real_elena864"
-    fullname: >-
-      Elena Ingemannsen
-    bio: >-
-      живу в Осло 🇳🇴 мотивирую 🤰💜 Influencer ▫️stylist ▫️ blogger Сотрудничество//cooperation @elena864_pr Снимаю на YOUTUBE 600k
-    location: "Russia"
-    followers: 202787
-    engagement: 663
-    commentsToLikes: 0.019891
-    id: ck15tsnmbjoy10i19a5kmp9h7
-    verified: false
-    hashtags: "#15, #14, #elena864nails, #elena864"
 ---

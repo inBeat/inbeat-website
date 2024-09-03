@@ -1,130 +1,130 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Austria In 2023
+title: Top 10 Fashion Instagram Influencers In Austria In 2024
 description: >-
-  Find top fashion Instagram influencers in Austria in 2023. Most popular hashtags: #aesthetic #summer #ootd #blogger.
+  Find top fashion Instagram influencers in Austria in 2024. Most popular hashtags: #austrianblogger #ootd #gewinnspiel.
 platform: Instagram
-hits: 145
-text_top: Analyze the most popular Instagram accounts on inBeat.
-text_bottom: Our search engine aggregates 145 Instagram influencers like this in Austria for you to pitch.
+hits: 175
+text_top: Identify the most popular Instagram accounts on inBeat.
+text_bottom: inBeat has 175 Instagram influencers like this in Austria for you to contact.
 profiles:
-  - username: "ebruerkut"
+  - username: "missaljel"
     fullname: >-
-      Ebru Erkut, MA
+      Lejla
     bio: >-
-      — based in vienna, heart in nyc. fashion, beauty & interior tips. consultancy @ebruerkutcom founder @raysofmarch
+      just a girl who shares her passion for fashion near Vienna, Austria ✉️ business.missaljel@gmail.com
     location: "Austria"
-    followers: 233806
-    engagement: 62
-    commentsToLikes: 0.014323
-    id: ck0u9i99p9yss0i19bwl9mf7s
+    followers: 81890
+    engagement: 330
+    commentsToLikes: 0.021523
+    id: cl5l3319895u30i23qa9ahxo0
     verified: false
-    hashtags: "#vienna, #neutralstyle, #reels, #winteroutfit"
-  - username: "simply_lenny"
+    hashtags: "#farfetch, #vehlamode"
+  - username: "missesclementi"
     fullname: >-
-      LENNY💋✌🏼
+      MRS CLEMENTI | Content Creator
     bio: >-
-      Lenny‘s Little World of 🧘🏻‍♀️#yoga 🤸🏼‍♀️#fashion 💄 #traval ✈️ & #foodlover🍜
+      fashion | beauty | interior | lifestyle | kidsinspo | momlife ✉️ inquiries | clementi@ikbnet.at 🏳️ based in AUSTRIA | I n n s b r u c k
     location: "Austria"
-    followers: 1406
-    engagement: 4049
-    commentsToLikes: 0.510271
-    id: ckap52mut9wvu0i78iu0g9589
+    followers: 50204
+    engagement: 215
+    commentsToLikes: 0.082990
+    id: ck0ty4gydll9x0i198nmr9vg8
     verified: false
-    hashtags: "#modeblogger, #potd, #reminder, #travelgoals"
-  - username: "amina_blal"
+    hashtags: "#babyroomideas, #babyroomdecoration, #babyzimmerinspiration, #mamaleben"
+  - username: "irinahp"
     fullname: >-
-      𝓐𝓜𝓘𝓝𝓐-ּا̍مۘــٻۧــڼۨــۃ
+      Irina
     bio: >-
-      📍Vienna Modest Fashion Married💍&Mom For Business DM💌
+      A little bit of fashion 👫 @me_and_mango
     location: "Austria"
-    followers: 103229
-    engagement: 709
-    commentsToLikes: 0.022988
-    id: ck5zj59gcgyr90i14xxlb801h
+    followers: 646760
+    engagement: 186
+    commentsToLikes: 0.044332
+    id: ck0tvcuf9avq50i191pj6zcgz
     verified: false
-    hashtags: "#idealofsweden, #hm, #hmxme"
-  - username: "kirabejaoui"
+    hashtags: "#romeitaly, #voguetrend, #fromitalywithlove, #wearingvsstyling"
+  - username: "lorenayessir"
     fullname: >-
-      Kira Bejaoui
+      LORENA ANDESSNER
     bio: >-
-      Fashion enthusiast & travel lover with master degree in PR from 🇩🇪| LOVE LETTERS💌: Kira@Callmeshopaholic.de @whythehellnot_podcast ⚡️
+      petite fashion, makeup, skincare, tattoos ✨ based in vienna podcast: einer geht noch
     location: "Austria"
-    followers: 108745
-    engagement: 151
-    commentsToLikes: 0.078585
-    id: ck0u000pms7k50i19770wdxe8
+    followers: 72978
+    engagement: 143
+    commentsToLikes: 0.009851
+    id: ck0vwd4brt5og0i198cha8hmj
     verified: false
-    hashtags: "#ibiza, #funnyreels, #fashionreels, #travelgram"
-  - username: "descude.simona"
+    hashtags: "#trending, #tattoos, #girlwithtattoos, #ootd"
+  - username: "connyhawk"
     fullname: >-
-      Simona Nemțanu
+      Cornelia Hauk
     bio: >-
-      🌿Fashion & Beauty Blogger since 2011 👧🏻Mommy to #babyOlivia 🇷🇴România • Iași 🖌Contact: simonanemtanu@yahoo.com 🔎Blog:
+      📍🇦🇹🇬🇧 Lifestyle | Fitness | Fashion 💕 ✉️ chawkmanagement@gmail.com
     location: "Austria"
-    followers: 18018
-    engagement: 219
-    commentsToLikes: 0.050255
-    id: ck6u11bmniyx70j71i4rahh33
+    followers: 443230
+    engagement: 135
+    commentsToLikes: 0.030924
+    id: ck5bxejl1nkl30i11mn6ao9v5
     verified: false
-    hashtags: "#bonprixbloggers, #inspiratiepepco, #bonprix, #bonprixitsme"
-  - username: "alisapekic"
+    hashtags: ""
+  - username: "rebekkaruetz"
     fullname: >-
-      Alisa ♡
+      rebekka ruétz
     bio: >-
-      📐 DI, architect 🤍 fashion, bags and interior lover 📍 based in Vienna, Austria 💌 alisa.pekic@hotmail.com
+      Fashion Designerin / high quality slow fashion #rebekkaruetz
     location: "Austria"
-    followers: 10371
-    engagement: 450
-    commentsToLikes: 0.154204
-    id: ck55on5zp8pcn0i11di55we2b
+    followers: 28230
+    engagement: 216
+    commentsToLikes: 0.088908
+    id: clq9hyvnp77m40k08f7f3nkdk
     verified: false
-    hashtags: "#mybeigelife, #aestheticfeed, #andsave, #simplebeyond"
-  - username: "natalkadalka"
+    hashtags: "#behindthescenes, #rebekkaru, #highqualityslowfashion, #borninaustria"
+  - username: "lakatyfox"
     fullname: >-
-      NataliaS 💕
+      KATRIN 🖤 Graz
     bio: >-
-      ~Made in Vienna 🇦🇹 Lives in Warsaw 🇵🇱 ~In love with modeling👱🏻‍♀️, makeup💄, fashion👗and travel🌍✈️ ~Wife&Mom 💍👶🏼 For COLLAB 👉🏻 DM📩❤️
+      FASHION & BEAUTY 📫contact@lakatyfox.com 🔜 🇮🇹🍕🍝 📍#graz, Austria
     location: "Austria"
-    followers: 43663
-    engagement: 276
-    commentsToLikes: 0.060784
-    id: ck0udkzonjf070i19wxahth7l
+    followers: 16551
+    engagement: 91
+    commentsToLikes: 0.127872
+    id: clq9hxsh95y130k088reoui60
     verified: false
-    hashtags: "#polskakobieta, #shortdress, #beautyqueen, #angelface"
-  - username: "caroemilie"
+    hashtags: "#blogger, #yummy, #winterlook, #germanblogger"
+  - username: "ejvifreedom"
     fullname: >-
-      C a r o l i n e 🌸
+      EVA Ejvi MCHITARJAN
     bio: >-
-      FASHION | VISUAL DIARY based in austria twentythree • fashion obsessed • 18 countries
+      Mom of✌🏻👦🏻👧🏻 Co-founder @sparkleeventscz ✨🤍 Fashion lover 🤎 / frandinavian style and curtain bangs obsessed eva.mchitarjan@seznam.cz 📧
     location: "Austria"
-    followers: 8364
-    engagement: 368
-    commentsToLikes: 0.098003
-    id: ck9wfk15cp6iq0j78dt1jo1zc
+    followers: 22210
+    engagement: 78
+    commentsToLikes: 0.031260
+    id: ck5zvpgg74o7z0i143ev1y1p1
     verified: false
-    hashtags: "#ootdinspo, #salzburg, #blazer, #sealover"
-  - username: "hank_ge"
+    hashtags: "#madeingermany, #naturebasedscience, #spoluprace, #hairgrowthsolution"
+  - username: "avec.eva"
     fullname: >-
-      HANK GE
+      Eva
     bio: >-
-      📍Vienna/ Berlin Food, Fashion, lifestyle 🌱veggie My boho brand @wildsky_shop Restaurants @bali_brunch& @bali_babecreamery
+      sunshine energy ♐︎ here for fashion, well-being, self love & a happy mindset 🦋 based in vienna | 🎧 sweet but spicy @eat.avec.eva nutritionist to be
     location: "Austria"
-    followers: 372061
-    engagement: 309
-    commentsToLikes: 0.005107
-    id: ck0tym4oxn80x0i194wpl73kr
+    followers: 28467
+    engagement: 23
+    commentsToLikes: 0.000790
+    id: ckaoszev7tp040i78wgpa222d
     verified: false
-    hashtags: "#kappaperfumes, #foamieplasticfreechallenge, #foamie, #foamiemen"
-  - username: "kuro.liu"
+    hashtags: "#week10, #bluejeanswhiteshirt, #scandiblonde, #cremeblonde"
+  - username: "love_fashionandlife"
     fullname: >-
-      Kuro | 21 | Nonbinary🌈
+      Lifestyle||Travel⭐️Inspo
     bio: >-
-      × Salzburg | Österreich 🇦🇹 × Alt Fashion 👽 Games 🎮 Anime 💕 × Collabs 📨 DM or kuro.liu1@gmail.com × My other links 🥰👇🏻
+      Austrian Blogger 🇦🇹 Fashion/Lifestyle/Travel #inspo
     location: "Austria"
-    followers: 86889
-    engagement: 370
-    commentsToLikes: 0.027871
-    id: ck8t22rqxy08n0j782n8rjg6i
+    followers: 35790
+    engagement: 21
+    commentsToLikes: 0.006889
+    id: ck55on5yj8pbw0i1150w6vh89
     verified: false
-    hashtags: "#emohair, #altfashion, #nonbinary, #scene"
+    hashtags: "#austrianblogger, #visitbudapest, #travelinitaly, #travelanddestinations"
 ---

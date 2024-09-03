@@ -1,11 +1,11 @@
 ---
-title: Top 10 Illustrators Instagram Influencers In Chile In 2023
+title: Top 10 Illustrators Instagram Influencers In Chile In 2024
 description: >-
-  Find top illustrators Instagram influencers in Chile in 2023. Most popular hashtags: #illustration #drawing #art #ilustracion.
+  Find top illustrators Instagram influencers in Chile in 2024. Most popular hashtags: #illustration #drawing #illustrator #draw.
 platform: Instagram
-hits: 12
-text_top: Identify the top-rated Instagram profiles on inBeat.
-text_bottom: Our platform has 12 Instagram influencers like this in Chile for you to work with.
+hits: 9
+text_top: See the best Instagram profiles on inBeat.
+text_bottom: Our platform aggregates 9 Instagram influencers like this in Chile for you to work with.
 profiles:
   - username: "itspinkmey"
     fullname: >-
@@ -13,12 +13,12 @@ profiles:
     bio: >-
       🎨Illustrator 💌animadonna.ms@gmail.com 🙅🏻‍♀️Don't steal or copy 🖨️ Boss @itsprintmey
     location: "Chile"
-    followers: 14577
-    engagement: 788
-    commentsToLikes: 0.036278
+    followers: 14813
+    engagement: 707
+    commentsToLikes: 0.033850
     id: ck5c5wu3k4aju0i11vcdzsml9
     verified: false
-    hashtags: "#artgram, #dtiys, #artistsoninstagram, #arttag"
+    hashtags: "#arttag2k20, #artoftheday, #thisisanewtagforartists, #pinkmeyocs"
   - username: "nuria_diaz"
     fullname: >-
       Nuria Diaz
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.030754
     id: ckap9axrzrwfx0i78dtg4llut
     verified: false
-    hashtags: "#wesanderson, #nuriadiazdtiys, #elgranhotelwesanderson, #picoftheday"
+    hashtags: "#nuriadiaz, #nuriadiazdtiys, #illustration, #nanaparaunsoldado"
   - username: "kindness.art"
     fullname: >-
       kindness Illustrations
@@ -47,26 +47,14 @@ profiles:
     fullname: >-
       Nico Hernandez-Sotelo
     bio: >-
-      Chilean 🇨🇱🇺🇸 Part time Illustrator and Concept Artist. Paleoart, JurassicPark & Wildlife enthusiast. Original drawings & custom prints on my Etsy shop
+      Chilean American 🇨🇱🇺🇸 Part time Illustrator and Concept Artist. Paleoart, JurassicPark & Wildlife enthusiast. Original drawings & prints on my Etsy
     location: "Chile"
-    followers: 15561
-    engagement: 715
-    commentsToLikes: 0.004537
+    followers: 17065
+    engagement: 1565
+    commentsToLikes: 0.010402
     id: ck0txj67vjd4o0i1906p5epgu
     verified: false
-    hashtags: "#art, #dibujo, #illustrator, #discovery"
-  - username: "geni.riot"
-    fullname: >-
-      Geni Riot
-    bio: >-
-      Geni con i Graphic desing student and illustrator Email: genisis.riot@gmail.com 💌 https://www.facebook.com/geniriot/
-    location: "Chile"
-    followers: 22624
-    engagement: 877
-    commentsToLikes: 0.016932
-    id: ck8t32zwj1nnb0j785m1dcdqa
-    verified: false
-    hashtags: "#dorohedoro, #artedigital, #netflix, #ilustracion"
+    hashtags: "#sketchoftheday, #jurassicworldevolution, #jurassic, #trex"
   - username: "felipenovoafen"
     fullname: >-
       FEN
@@ -79,6 +67,18 @@ profiles:
     id: ck5pwhgd3mtg40i1163c7y7cr
     verified: false
     hashtags: "#illustration, #ipadpro, #ilustracion, #ilustrador"
+  - username: "nahv.cl"
+    fullname: >-
+      Nicolás Ahumada
+    bio: >-
+      Nahv / ‘98 / Ilustrador 📩 nbahumada@uc.cl B-Side @nahumad_a Santiago, CL
+    location: "Chile"
+    followers: 6301
+    engagement: 809
+    commentsToLikes: 0.053689
+    id: ck55k2rwpybkc0i11kp2a5l63
+    verified: false
+    hashtags: "#digitalart, #procreate, #oc, #illustration"
   - username: "amelia.strong"
     fullname: >-
       ✏️☁️🖤✨💌
@@ -90,7 +90,7 @@ profiles:
     commentsToLikes: 0.012359
     id: ckaovdh1644n30i787fhyd9vq
     verified: false
-    hashtags: "#artist, #reading, #digitalillustration, #pinkpink"
+    hashtags: "#artistsofinstagram, #procreate, #girl, #lentejas"
   - username: "nadiaronquilloart"
     fullname: >-
       Nadia Ronquillo
@@ -103,28 +103,16 @@ profiles:
     id: ck8t36txa23z50j781xzzs09n
     verified: false
     hashtags: "#mexicotravel, #childrensillustrations, #childrensillustration, #galapagosislands"
-  - username: "catalina.cumsille"
+  - username: "yonilov"
     fullname: >-
-      Catalina Cumsille
+      🤍
     bio: >-
-      Cerámicas 〰️ ilustración 💌 hola@catalinacumsille.cl o DM 📍 Santiago, Chile
+      🏹🤍🥛
     location: "Chile"
-    followers: 13775
-    engagement: 417
-    commentsToLikes: 0.039360
-    id: ck5c07v03slvg0i1142edjeak
+    followers: 21073
+    engagement: 1675
+    commentsToLikes: 0.075373
+    id: ck5hs6lwaw2v60i11jntisebh
     verified: false
-    hashtags: "#pottery, #creative, #craft, #tropical"
-  - username: "nahv.cl"
-    fullname: >-
-      Nicolás Ahumada
-    bio: >-
-      Nahv / ‘98 / Ilustrador 📩 nbahumada@uc.cl B-Side @nahumad_a Santiago, CL
-    location: "Chile"
-    followers: 6479
-    engagement: 882
-    commentsToLikes: 0.049961
-    id: ck55k2rwpybkc0i11kp2a5l63
-    verified: false
-    hashtags: "#worlds2020, #sixfanartschallenge, #leagueoflegends, #stayhome"
+    hashtags: "#spring, #likes, #likesback, #santiago"
 ---

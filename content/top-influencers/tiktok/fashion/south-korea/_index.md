@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fashion TikTok Influencers In South Korea In 2023
+title: Top 10 Fashion TikTok Influencers In South Korea In 2024
 description: >-
-  Find top fashion TikTok influencers in South Korea in 2023. Most popular hashtags: #fashion #fyp #foryou #ootd.
+  Find top fashion TikTok influencers in South Korea in 2024. Most popular hashtags: #fashion #fyp #foryou #ootd.
 platform: TikTok
-hits: 39
-text_top: Identify the top-rated TikTok influencers on inBeat.
-text_bottom: Our database holds 39 TikTok influencers like this in South Korea for you to collaborate.
+hits: 40
+text_top: Identify the top-rated TikTok profiles on inBeat.
+text_bottom: Our platform holds 40 TikTok influencers like this in South Korea for you to connect with.
 profiles:
   - username: "kaqueen97"
     fullname: >-

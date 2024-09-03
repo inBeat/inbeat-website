@@ -1,11 +1,11 @@
 ---
-title: Top 10 Entrepreneurs TikTok Influencers In 2023
+title: Top 10 Entrepreneurs TikTok Influencers In 2024
 description: >-
-  Find top entrepreneurs TikTok influencers in 2023. Most popular hashtags: #fyp #foryou #stitch #trump.
+  Find top entrepreneurs TikTok influencers in 2024. Most popular hashtags: #fyp #stitch #foryou #duet.
 platform: TikTok
-hits: 1770
-text_top: Identify the best TikTok profiles on inBeat.
-text_bottom: Our search engine holds 1770 TikTok influencers like this for you to contact.
+hits: 1816
+text_top: See the top-rated TikTok profiles on inBeat.
+text_bottom: Our platform holds 1816 TikTok influencers like this for you to collaborate.
 profiles:
   - username: "iamchinarenee"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.035304
     id: ck9ejl1pu36tr0j78pij5xzea
     verified: false
-    hashtags: "#viral, #foryou, #beauty, #holiday"
+    hashtags: "#fyp, #thanksgiving, #foryou, #foryoupage"
   - username: "business_money"
     fullname: >-
       Entrepreneurs
@@ -31,18 +31,6 @@ profiles:
     id: ckbezkogokte30j233ov0otsc
     verified: false
     hashtags: "#passiveincome, #businesshacks, #entrepreneurlife, #businessidea"
-  - username: "coupleofpranksterss"
-    fullname: >-
-      Couple of Pranksters
-    bio: >-
-      Entrepreneur
-    location: "United States"
-    followers: 484700
-    engagement: 384
-    commentsToLikes: 0.000636
-    id: ckb9fw5av4ij20j23qpzcyrmg
-    verified: false
-    hashtags: "#thucung, #yeuthucung, #pet, #funny"
   - username: "drkiranthapa"
     fullname: >-
       Dr Kiran Thapa
@@ -55,18 +43,6 @@ profiles:
     id: ckdt04et8rg2b0j23cpwg8x5a
     verified: false
     hashtags: "#travel, #gomphrena, #nepsydmusers, #makhmali"
-  - username: "realadambraatz"
-    fullname: >-
-      Adam Braatz
-    bio: >-
-      Family Man / Veteran / Author / Educator / Entrepreneur / Geriatric Millennial
-    location: "United States"
-    followers: 7800
-    engagement: 1921
-    commentsToLikes: 0.156779
-    id: ck9k93u18bodf0j7841q3wflb
-    verified: false
-    hashtags: "#trumplost, #trumpcult, #vetsagainsttrump, #stitch"
   - username: "vittoriald"
     fullname: >-
       vittoriald
@@ -78,19 +54,31 @@ profiles:
     commentsToLikes: 0.082399
     id: ckacvl92poalu0i782j8o6f1e
     verified: false
-    hashtags: "#republican, #usa, #fyp, #fy"
+    hashtags: "#usa, #trumptrain, #government, #republican"
+  - username: "realadambraatz"
+    fullname: >-
+      Adam Braatz
+    bio: >-
+      Family Man / Veteran / Author / Educator / Entrepreneur / Geriatric Millennial
+    location: "United States"
+    followers: 7950
+    engagement: 1677
+    commentsToLikes: 0.164048
+    id: ck9k93u18bodf0j7841q3wflb
+    verified: false
+    hashtags: "#veterans, #stitch, #veteransoftiktok, #fakesnow"
   - username: "wizyakuza_art"
     fullname: >-
       Wizyakuza (Official)
     bio: >-
       Official Account of Wizyakuza Artist + Entrepreneur || Go Visit My Website!
     location: "United States"
-    followers: 591900
-    engagement: 1827
-    commentsToLikes: 0.054063
+    followers: 600000
+    engagement: 1855
+    commentsToLikes: 0.079630
     id: ck8opwctc4yr20j789re98jpk
     verified: false
-    hashtags: "#sasuke, #wizyakuza, #pokemon, #narutoshippuden"
+    hashtags: "#anime, #artist, #narutoshippuden, #myheroacademia"
   - username: "pariahnation"
     fullname: >-
       Pariah Nation
@@ -114,7 +102,7 @@ profiles:
     commentsToLikes: 0.178192
     id: ckb10quhupa0q0j23q982kw4s
     verified: false
-    hashtags: "#trumpsupporters, #trump2024, #blacklivesmatter, #protectourdemocracy"
+    hashtags: "#biden, #blacklivesmatter, #trumpsupporters, #trump2024"
   - username: "anaisfaithjones"
     fullname: >-
       Anais Faith Jones
@@ -126,5 +114,17 @@ profiles:
     commentsToLikes: 0.282677
     id: ckcus3ovzjz3r0j23mnl3bh12
     verified: false
-    hashtags: "#duet, #stitch, #anaisfaithjones, #yah"
+    hashtags: "#duet, #anaisfaithjones, #yah, #stitch"
+  - username: "princedanielwyche"
+    fullname: >-
+      Prince Daniel Wyche
+    bio: >-
+      Poet, Father, Entrepreneur. Weeb, creator, activist 🏈, 🏀 I'm 38.
+    location: "United States"
+    followers: 51300
+    engagement: 1317
+    commentsToLikes: 0.183888
+    id: ckan2lmzf104r0i783tnchxdy
+    verified: false
+    hashtags: "#stitch, #letsgetintoit, #duet, #pt2"
 ---

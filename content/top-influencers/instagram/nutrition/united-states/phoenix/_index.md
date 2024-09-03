@@ -1,11 +1,11 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In Phoenix In 2023
+title: Top 10 Nutrition Instagram Influencers In Phoenix In 2024
 description: >-
-  Find top nutrition Instagram influencers in Phoenix in 2023. Most popular hashtags: #fitness #fitnessmotivation #workout #instagood.
+  Find top nutrition Instagram influencers in Phoenix in 2024. Most popular hashtags: #fitness #fitnessmotivation #workout #motivation.
 platform: Instagram
-hits: 17
-text_top: See the best Instagram accounts on inBeat.
-text_bottom: Our search engine aggregates 17 Instagram influencers like this in Phoenix, United States for you to work with.
+hits: 21
+text_top: Discover the best Instagram profiles on inBeat.
+text_bottom: Our database holds 21 Instagram influencers like this in Phoenix, United States for you to work with.
 profiles:
   - username: "marioxfitnessx"
     fullname: >-
@@ -18,31 +18,7 @@ profiles:
     commentsToLikes: 0.017834
     id: ck15r3u8560cq0i19zqnfz5b1
     verified: false
-    hashtags: "#bodybuiding, #fitfam, #gym, #fit"
-  - username: "brittanydawnfit"
-    fullname: >-
-      Brittany Dawn
-    bio: >-
-      1ON1-GROUP-ONLINE TRAINING💪🏼 Master Trainer/Nutritionist 🎓 @vertimax CPT Reflect what you desire ✨🦄 #WomenEmpowerment
-    location: "United States"
-    followers: 28701
-    engagement: 293
-    commentsToLikes: 0.070247
-    id: ckapawtnbxriz0i78mnpg6acb
-    verified: false
-    hashtags: "#womenempowerment, #scottsdale, #picoftheday, #love"
-  - username: "acostafitness"
-    fullname: >-
-      Robert Acosta
-    bio: >-
-      ♡God♡family♡soccer♡fitness/nutrition PS 37:4🕇 Professional ⚽ SAQ specialist🏃🏽‍♂️💨 Walk The Talk @1stphorm Brand Ambassador💪🏽
-    location: "United States"
-    followers: 21966
-    engagement: 159
-    commentsToLikes: 0.053665
-    id: ck9wdremqgx9y0j78vr0kwsvc
-    verified: false
-    hashtags: "#beardsofinstagram, #beardgang, #footballdrills, #soccer"
+    hashtags: "#workoutmotivation, #fitfam, #gymlife, #gymmotivation"
   - username: "georgiatb"
     fullname: >-
       Georgia Taylor-Brown
@@ -55,18 +31,30 @@ profiles:
     id: ck5qd6hjdu1s80i11o9rxj2hi
     verified: false
     hashtags: "#pho3nixteam, #wegotnow, #triathlon, #run"
-  - username: "jeremyscottfitness"
+  - username: "brittanydawnfit"
     fullname: >-
-      Jeremy Scott Fitness
+      Brittany Dawn
     bio: >-
-      Only Official Account Jeremy Scott Fitness Podcast🔥 Best Selling Author 📚 Coach 💪🏼 Speaker🎙 🔥New 30-30 Fitness Challenge👇🏼
+      1ON1-GROUP-ONLINE TRAINING💪🏼 Master Trainer/Nutritionist 🎓 @vertimax CPT Reflect what you desire ✨🦄 #WomenEmpowerment
     location: "United States"
-    followers: 369874
-    engagement: 79
-    commentsToLikes: 0.013829
-    id: ck6twxp4rup550j71p9n2bvpz
+    followers: 28701
+    engagement: 293
+    commentsToLikes: 0.070247
+    id: ckapawtnbxriz0i78mnpg6acb
     verified: false
-    hashtags: "#jeremyscottfitness, #health, #workout, #fitfam"
+    hashtags: "#legday, #instagood, #phoenix, #fitwomen"
+  - username: "wendylynnmyers"
+    fullname: >-
+      Wendy Myers
+    bio: >-
+      🔥Trauma Informed Wellness Coach - I HELP PEOPLE LIVE THEIR LIFE TO THE FULLEST🔥 DM me “PHOENIX“ for 1-on-1 coaching ( fitness, nutrition, life,trauma)
+    location: "United States"
+    followers: 76575
+    engagement: 84
+    commentsToLikes: 0.117507
+    id: ckap8y06gqdo20i78b2cea89p
+    verified: false
+    hashtags: "#inspire, #traumainformed, #goals, #lifecoach"
   - username: "ryanfitsher"
     fullname: >-
       Ryan Fisher | Fitness
@@ -102,7 +90,31 @@ profiles:
     commentsToLikes: 0.049664
     id: ck5zkqrosjzjb0i14ppr9hhmn
     verified: false
-    hashtags: "#fitspo, #photooftheday, #lifestyle, #exercise"
+    hashtags: "#fit, #training, #fitnessmotivation, #bodybuilding"
+  - username: "boomgoesthedynamite20"
+    fullname: >-
+      Lee Ann Thompson
+    bio: >-
+      OCB Figure PRO/Show PROMOTER @ocbmusclemadness 💪🏻 NQ NPC Bikini/Figure COACH: leeann@tylersnutritiontraining.com @flexcomics 💪 NUTRITION PODCAST👇🏻
+    location: "United States"
+    followers: 34682
+    engagement: 719
+    commentsToLikes: 0.095386
+    id: cksjxxwlrded30j234mn8i21e
+    verified: false
+    hashtags: "#girlswithgains, #nattygains, #excelsior, #superherofit"
+  - username: "acostafitness"
+    fullname: >-
+      Robert Acosta
+    bio: >-
+      Kinda hippie, kinda holy, kinda hood 🙏🏼Faith ❤️Family ⚽Former pro soccer player 🏋🏾‍♂️Fitness 🥗Nutrition PS 37:4✝️ Walk The Talk #iam1stphorm
+    location: "United States"
+    followers: 19396
+    engagement: 57
+    commentsToLikes: 0.074977
+    id: ck9wdremqgx9y0j78vr0kwsvc
+    verified: false
+    hashtags: "#growthmindset, #athlete, #iam1stphorm, #1stphorm"
   - username: "thepilatesblonde"
     fullname: >-
       katie dudley barbieri
@@ -114,17 +126,5 @@ profiles:
     commentsToLikes: 0.031942
     id: ckaoz5eh0kg3g0i78to29m7b0
     verified: false
-    hashtags: "#peakpilates, #classicalpilates, #fitness, #skippack"
-  - username: "mckaylah.modelaz"
-    fullname: >-
-      Mckaylah Smith
-    bio: >-
-      🎬Actress|Model 📸•Print•Commercial•Runway•Film AZ: Ford/RBA Model & Talent LA: Mavrick Artist Agency Competitive Dancer @invisalign
-    location: "United States"
-    followers: 22667
-    engagement: 558
-    commentsToLikes: 0.036160
-    id: ck6ucg427feeu0j71cgbfy8fd
-    verified: false
-    hashtags: "#bts, #photography, #influencer, #style"
+    hashtags: "#fitness, #pilates, #skippack, #sweatthriveglow"
 ---

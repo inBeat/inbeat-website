@@ -1,48 +1,60 @@
 ---
-title: Top 10 Food Instagram Influencers In Seattle In 2023
+title: Top 10 Food Instagram Influencers In Seattle In 2024
 description: >-
-  Find top food Instagram influencers in Seattle in 2023. Most popular hashtags: #seattle #seattlefood #seattlefoodie #seattleeats.
+  Find top food Instagram influencers in Seattle in 2024. Most popular hashtags: #seattlefood #seattlefoodie #seattle #seattleeats.
 platform: Instagram
-hits: 96
-text_top: Identify the most popular Instagram accounts on inBeat.
-text_bottom: Our search engine aggregates 96 Instagram influencers like this in Seattle, United States for you to work with.
+hits: 144
+text_top: Identify the most popular Instagram profiles on inBeat.
+text_bottom: Our platform aggregates 144 Instagram influencers like this in Seattle, United States for you to contact.
 profiles:
-  - username: "the.flexitarian.aholic"
+  - username: "sabreena.eats"
     fullname: >-
-      Maelynn|Food photographer
+      SABREENA | Seattle Food & Travel
     bio: >-
-      💗FOOD PUN MASTER 📍Bay Area in CA! 💌 DM me for collabs/rates/events 🌱 🥩 Flexitarian 📈Social media marketing
+      📍Based in Seattle 💌sabreena.eats@gmail.com
     location: "United States"
-    followers: 20473
-    engagement: 421
-    commentsToLikes: 0.222053
-    id: ck14i4b67dkpp0i19y1kgn8jy
+    followers: 4676
+    engagement: 1894
+    commentsToLikes: 0.001943
+    id: clp7apxscodxm0j08lwjgczwk
     verified: false
-    hashtags: "#mochidonuts, #eatseattle, #bestfoodbayarea, #bayareafoodies"
+    hashtags: "#seattleevents, #foodblog, #seattlebars, #seattlefoodie"
+  - username: "seattlefoodgram"
+    fullname: >-
+      Seattle Foodies | Tori & Dan
+    bio: >-
+      Best food in Seattle & beyond 🍔🍪🍝🍦🍗🍩 💌 seattlefoodgram@gmail.com #SeattleFood #SeattleFoodie #SeattleEats
+    location: "United States"
+    followers: 8796
+    engagement: 230
+    commentsToLikes: 0.076565
+    id: cl89kvcy02oiz0i231fcnkt29
+    verified: false
+    hashtags: "#seattlefoodie, #seattleeats, #eeeeats, #foodheaven"
+  - username: "seattle_bites"
+    fullname: >-
+      Sonya | Seattle Bites
+    bio: >-
+      Seattle food enthusiast 🍜 🏆Zagat Foodie Award Winner Exploring Seattle one bite at a time! 💌New email hello.seattlebites@gmail.com
+    location: "United States"
+    followers: 22732
+    engagement: 175
+    commentsToLikes: 0.218730
+    id: ck0tw1r0wdnbx0i194fyu1xd9
+    verified: false
+    hashtags: "#foodporn, #seattlewashington, #thrillist, #myfab5"
   - username: "seattlefoodieadventure"
     fullname: >-
-      Seattle Food 🍔🍲🍕 | Dumplings 🥟
+      Seattle Foodie | Steven Nguyen
     bio: >-
-      Steven Ducky🍝| Seattle Food, Travel, & Beyond! 📺📻📰 Featured: @beardfoundation @seahawks I ❤ Food More Than People. 🏙💧Seattleite 25+ Years. 🍔🍕🥞🍣🍦🍩🥡🌈🇺🇸
+      Seattle Food, Hiking, & Beyond! | 🍜🍕🥟🥾🏔️🌲 📺📻📰 Featured: @beardfoundation @seahawks 🏙💧Seattleite 25+ Years! 🍜🍣🥟🍔🌮🍕🇺🇸
     location: "United States"
-    followers: 116861
-    engagement: 433
-    commentsToLikes: 0.069604
+    followers: 286666
+    engagement: 145
+    commentsToLikes: 0.075553
     id: ck14glyy15vih0i19nxwspfqr
     verified: false
-    hashtags: "#foodnetwork, #eater, #seattleeats, #seattleliving"
-  - username: "annie_eatsfood"
-    fullname: >-
-      Annie | Seattle Food+Lifestyle
-    bio: >-
-      📍#SeattleBlogger Food + Lifestyle 🇺🇸🇻🇳 Come cook, eat and travel! 🐶 Mama to @mochiandmilo.co 📩 Inquiries: annieeatsfood@gmail.com TAP BELOW ⬇️
-    location: "United States"
-    followers: 51418
-    engagement: 243
-    commentsToLikes: 0.127862
-    id: ck0u12n62vkux0i19ydhjaqj2
-    verified: false
-    hashtags: "#dailyfoodfeed, #bestfoodseattle, #explorewashington, #forkyeah"
+    hashtags: "#seattlefoodscene, #foodnetwork, #seattlefood, #mexicanfood"
   - username: "robertocortez08"
     fullname: >-
       Bobby Cortez
@@ -54,77 +66,65 @@ profiles:
     commentsToLikes: 0.063850
     id: ck0vy0kjx1n890i19angy71pb
     verified: false
-    hashtags: "#foodpics, #gastronomy, #foodporn, #fujifilm"
-  - username: "seattle_bites"
+    hashtags: "#cheflife, #foodpics, #fujifilmgfx, #artistry"
+  - username: "federalwayfoodie"
     fullname: >-
-      Sonya | Seattle Bites
+      Seattle - Bellevue - Federal Way - Tacoma Foodie l WA
     bio: >-
-      Seattle food enthusiast 🍜 2017 Zagat Foodie Award Winner Exploring Seattle one bite at a time!
+      Hanisa | Digital Influencer. 📍Federal Way, WA 🇺🇸 📸 All pictures/videos are mine. #federalwayfoodie 📧 for brand partnership/collaboration
     location: "United States"
-    followers: 22776
-    engagement: 191
-    commentsToLikes: 0.159544
-    id: ck0tw1r0wdnbx0i194fyu1xd9
+    followers: 16134
+    engagement: 614
+    commentsToLikes: 0.361812
+    id: clp0dj83f7lrd0j081868jsi8
     verified: false
-    hashtags: "#seattlefood, #seattlebites, #seattleeats, #cpmysterybox"
+    hashtags: "#seafood, #washingtonstate, #seattlefood, #bellevuewashington"
   - username: "seattle.grub"
     fullname: >-
-      MAKENA | SEATTLE FOODIE
+      MAKENA | SEATTLE FOOD BLOGGER
     bio: >-
-      ➪ Eating through Seattle, one bite at a time🍴 ➪ All food is eaten by me. 😍 ➪ Want to collab? DM/Email me! 📧 ➪ food lover / content creator / lifestyle
+      ➪ Eating through Seattle, one bite at a time 🍽 ➪ Inquires: makena.yee@gmail.com 🍽️ 2023 Food & Bev Influencer of the Year
     location: "United States"
-    followers: 5056
-    engagement: 458
-    commentsToLikes: 0.128413
+    followers: 41195
+    engagement: 567
+    commentsToLikes: 0.037995
     id: ck6u9bac7wjro0j714lua0icy
     verified: false
-    hashtags: "#ad, #eater, #bonappetit, #eaterseattle"
-  - username: "cliffavril"
+    hashtags: "#pnw, #seattlegrub, #seattlefood, #seattlelife"
+  - username: "monybseattle"
     fullname: >-
-      Cliff Avril
+      Monica | Seattle Food + More
     bio: >-
-      🔹Faith 🙏🏾 Dad & Husband 🔹10yr @nfl DE 🏈 🔹Super Bowl 48 Champ & ProBowl DE 🔹Cliff Avril Family Foundation 🔹Real Estate Developer 🏠 🔹Owner of Sack 360
+      ➡️ Sharing everything I love about Seattle 💪🏽 Crushing Type 2 diabetes 📩 monica@monybseattle.com
     location: "United States"
-    followers: 271006
-    engagement: 165
-    commentsToLikes: 0.034900
-    id: ck139rn96msz70i19u49e4vyc
-    verified: true
-    hashtags: "#seahawks, #instagood, #nfl, #giveaway"
-  - username: "tdteats"
-    fullname: >-
-      • TDTEATS • || Seattle Foodie
-    bio: >-
-      📍SEA, WA 🙋🏻‍♂️: Tony || #Mukbangs, Food Videos, Reels! 📧: tdteats@gmail.com 💡: @basarestaurant @tdtplants ✨: #StopAsianHate
-    location: "United States"
-    followers: 7646
-    engagement: 577
-    commentsToLikes: 0.256181
-    id: ck0tw1rj8dngh0i19vvvtbxct
+    followers: 11163
+    engagement: 244
+    commentsToLikes: 0.329710
+    id: ck5c66xbj4uma0i11of9h6k3i
     verified: false
-    hashtags: "#sponsored, #seattlewa, #foodstagram, #pnw"
+    hashtags: "#seattlefood, #seattleeats, #edmondswa, #pnwlife"
   - username: "seattle.food.diva"
     fullname: >-
-      Ms. Roe || Seattle Food
+      Megan Roe || Seattle Food & Travel
     bio: >-
-      ❣️Hey y’all! 💃🏼Fooding around Seattle 💋Sharing great bites & products 🍟Favs: fries | ramen | wine | fur babes ⬇️Coming soon 💌seattlefooddiva@gmail.com
+      ❣️Hey y’all!📍Sharing Seattle life & more 🍟Food | Travel | Lifestyle | Things to do 💌seattlefooddiva@gmail.com for social media management & inquiries
     location: "United States"
-    followers: 44828
-    engagement: 376
-    commentsToLikes: 0.142606
+    followers: 183330
+    engagement: 211
+    commentsToLikes: 0.052130
     id: ck5cgzerypu2t0i11on4tdals
     verified: false
-    hashtags: "#myeats, #igseattle, #eeats, #cutefood"
-  - username: "minnieecravings"
+    hashtags: "#brunching, #koreancuisine, #comfortfoods, #pnwfood"
+  - username: "hungerdontlai"
     fullname: >-
-      MINNIE | SEATTLE FOOD LOVER🥢
+      Gennessey Lai | Seattle Food + Travel
     bio: >-
-      Take a seat. Grab a bite. Life is so delicious! 🍸Seattle, WA 🍻Minnieecravings@gmail.com 🥂Yelp Elite
+      A place to keep our food memories 🍔🍕 Exploring the world, one meal at a time 🍜 Peep the Reels for random videos 👀
     location: "United States"
-    followers: 3187
-    engagement: 615
-    commentsToLikes: 0.094183
-    id: ck5hdr08iox060i11jwdge3oe
+    followers: 11650
+    engagement: 171
+    commentsToLikes: 0.147926
+    id: ckaoqq4arjuco0i78ki077guu
     verified: false
-    hashtags: "#homemade"
+    hashtags: "#seattlefood, #seattleeats, #bestfoodseattle, #asianfoodlover"
 ---

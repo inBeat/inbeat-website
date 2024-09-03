@@ -1,11 +1,11 @@
 ---
-title: Top 10 Vegan TikTok Influencers In United Kingdom In 2023
+title: Top 10 Vegan TikTok Influencers In United Kingdom In 2024
 description: >-
-  Find top vegan TikTok influencers in United Kingdom in 2023. Most popular hashtags: #fyp #vegan #foryou #duet.
+  Find top vegan TikTok influencers in United Kingdom in 2024. Most popular hashtags: #fyp #foryou #vegan #duet.
 platform: TikTok
-hits: 221
-text_top: Discover the top-rated TikTok influencers on inBeat.
-text_bottom: Our platform has 221 TikTok influencers like this in United Kingdom for you to contact.
+hits: 218
+text_top: Identify the top-rated TikTok influencers on inBeat.
+text_bottom: inBeat has 218 TikTok influencers like this in United Kingdom for you to pitch.
 profiles:
   - username: "sanctuaryvegan"
     fullname: >-
@@ -37,12 +37,12 @@ profiles:
     bio: >-
       16 💕 Vegan 🌱 YouTuber 📽 FOLLOW TO BECOME A #MIACORN 🦄💜
     location: "United Kingdom"
-    followers: 450800
-    engagement: 1834
-    commentsToLikes: 0.021897
+    followers: 468100
+    engagement: 1788
+    commentsToLikes: 0.020644
     id: ckbbshg22fzeh0j23p5s9emra
     verified: false
-    hashtags: "#foryou, #foryoupage, #fyp, #bananadrop"
+    hashtags: "#foryoupage, #fyp, #foryou, #bananadrop"
   - username: "rockchicknatxxx"
     fullname: >-
       Natalie Johns
@@ -107,14 +107,14 @@ profiles:
     fullname: >-
       Sophia 🌻
     bio: >-
-      Vegan eats n stuff 🌱 20 She/her Email: @sophiamayslater22@gmail.com 💌
+      🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scottish vegan 🌱 20 She/her My YouTube channel! 👇🏼🥰
     location: "United Kingdom"
-    followers: 15400
-    engagement: 1672
-    commentsToLikes: 0.029136
+    followers: 17200
+    engagement: 1532
+    commentsToLikes: 0.019282
     id: ckdnht4ssi9gv0j23av3lbh9o
     verified: false
-    hashtags: "#vegan, #veganism, #veganrecipes, #whatieatinaday"
+    hashtags: "#uk, #whatieatinaday, #ootd, #vegan"
   - username: "thatveganteacherthclown"
     fullname: >-
       I have nothing against vegans

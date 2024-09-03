@@ -1,24 +1,12 @@
 ---
-title: Top 10 Cinema TikTok Influencers In United States In 2023
+title: Top 10 Cinema TikTok Influencers In United States In 2024
 description: >-
-  Find top cinema TikTok influencers in United States in 2023. Most popular hashtags: #fyp #stitch #foryou #duet.
+  Find top cinema TikTok influencers in United States in 2024. Most popular hashtags: #fyp #duet #stitch #foryou.
 platform: TikTok
-hits: 586
-text_top: See the most popular TikTok accounts on inBeat.
-text_bottom: Our platform has 586 TikTok influencers like this in United States for you to work with.
+hits: 592
+text_top: See the most popular TikTok profiles on inBeat.
+text_bottom: Our platform has 592 TikTok influencers like this in United States for you to pitch.
 profiles:
-  - username: "jerodyoung52"
-    fullname: >-
-      jerodyoung52
-    bio: >-
-      CEO of making things cinematic 👑 Joined Tik Tok: 5/4/20. Pueblo, Colorado 📍
-    location: "United States"
-    followers: 7741
-    engagement: 2173
-    commentsToLikes: 0.085825
-    id: ckb9feawr3oef0j23arenp0vz
-    verified: false
-    hashtags: "#pueblocolorado, #filmmaking, #transitions, #music"
   - username: "matte.boy"
     fullname: >-
       Matt
@@ -26,11 +14,11 @@ profiles:
       Presented in CinemaScope
     location: "United States"
     followers: 15500
-    engagement: 2042
-    commentsToLikes: 0.052670
+    engagement: 2039
+    commentsToLikes: 0.052640
     id: ckafurqbibqv20i78mi94ihf8
     verified: false
-    hashtags: "#duet, #lalaland, #stitch, #frankocean"
+    hashtags: "#duet, #stitch, #frankocean, #vinyl"
   - username: "thybamboozler"
     fullname: >-
       Dante 
@@ -42,7 +30,7 @@ profiles:
     commentsToLikes: 0.160518
     id: ckbkk0i3pctor0j238ycxgy8i
     verified: false
-    hashtags: "#film, #fyp, #anime, #filmtiktok"
+    hashtags: "#anime, #filmtiktok, #film, #fyp"
   - username: "sheeshyams"
     fullname: >-
       Ashish Yamdagni
@@ -114,7 +102,7 @@ profiles:
     commentsToLikes: 0.055171
     id: ck8hqy3gd6ckd0j781wm5vid0
     verified: false
-    hashtags: "#christmas, #fpv, #fyp, #bangers"
+    hashtags: "#fly, #foryou, #bangers, #sendit"
   - username: "shewolffilms"
     fullname: >-
       Emily Skye
@@ -127,4 +115,16 @@ profiles:
     id: ckbf3obs8rh5d0j23whlo1los
     verified: false
     hashtags: "#stitch, #trulyglowingselfielove, #dothescottsslide, #getreadywitholdspice"
+  - username: "zyrken"
+    fullname: >-
+      zyrken
+    bio: >-
+      Pro parkour athlete and cinematographer. IG for photo & video content @zyrken
+    location: "United States"
+    followers: 39300
+    engagement: 612
+    commentsToLikes: 0.022539
+    id: ck7zoheqck2lb0j78bb9c4alp
+    verified: true
+    hashtags: "#parkour, #tiktok, #fyp, #adventure"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In Argentina In 2023
+title: Top 10 Nutrition Instagram Influencers In Argentina In 2024
 description: >-
-  Find top nutrition Instagram influencers in Argentina in 2023. Most popular hashtags: #fitness #fit #workout.
+  Find top nutrition Instagram influencers in Argentina in 2024. Most popular hashtags: #nutrition #nutricion #fit.
 platform: Instagram
-hits: 136
-text_top: Analyze the top-rated Instagram influencers on inBeat.
-text_bottom: inBeat holds 136 Instagram influencers like this in Argentina for you to pitch.
+hits: 139
+text_top: Discover the top-rated Instagram profiles on inBeat.
+text_bottom: Our search engine has 139 Instagram influencers like this in Argentina for you to work with.
 profiles:
   - username: "aritzadrian96"
     fullname: >-
@@ -67,30 +67,6 @@ profiles:
     id: ck1370rnr97qo0i19q35kwisf
     verified: true
     hashtags: "#wptmasterfinal, #crosscountry, #v60, #wptlasrozasopen"
-  - username: "team_sol93"
-    fullname: >-
-      T E A M   S O L👑
-    bio: >-
-      Sol💍Robbin 🍃Asesora de Herbalife Nutrition 📜Certificada por la ASN en Fundamentos de nutrición 👇Pregunta x nuestros planes personalizados ♍️Team Virgo
-    location: "Argentina"
-    followers: 33246
-    engagement: 189
-    commentsToLikes: 0.007611
-    id: ckap66lunemfg0i78pflc5c65
-    verified: false
-    hashtags: "#pijamaparty, #tbt, #miami, #team"
-  - username: "danielvargasc_"
-    fullname: >-
-      Daniel Vargas
-    bio: >-
-      •Precision Nutrition Coach •OPEX Coach •CF Level 1 •Master PNL •Lic Nutrición en proceso •Master Inteligencia Emocional proceso •Cordon Bleu Madrid
-    location: "Argentina"
-    followers: 102950
-    engagement: 94
-    commentsToLikes: 0.008307
-    id: ck6tzgjcy9kh40j716txd2kt1
-    verified: false
-    hashtags: "#disciplina, #fitlife, #pedialyte30, #wellness"
   - username: "nutritionist_monserratgg"
     fullname: >-
       Monserrat González, BS, MS
@@ -103,6 +79,30 @@ profiles:
     id: ck8tc2idsy1yt0j78ghor8t45
     verified: false
     hashtags: "#nutres, #macarena, #maitane, #medicinafuncional"
+  - username: "valerydailyfit"
+    fullname: >-
+      𝗩𝗮𝗹𝗲𝗿𝗶𝗮 𝗖𝗮𝗽𝗲𝘁𝗶𝗹𝗹𝗼
+    bio: >-
+      🥑𝙍𝙚𝙘𝙚𝙩𝙖𝙨 𝙎𝙖𝙡𝙪𝙙𝙖𝙗𝙡𝙚𝙨 𝘾𝙤𝙣 𝘼𝙢𝙤𝙧  ✨Comer Saludable NO dede de ser aburrido. ⭐️ Coach en Hábitos 🔜 🍍Recetarios & Suplementos (𝑷𝒂́𝒈𝒊𝒏𝒂 𝑾𝒆𝒃) 🇲🇽 Mex, Ver
+    location: "Argentina"
+    followers: 340364
+    engagement: 128
+    commentsToLikes: 0.149123
+    id: ck5qcluzyr7qh0i11nz9uxj2p
+    verified: false
+    hashtags: "#dietasana, #reel, #recetas, #postre"
+  - username: "mery.caporale"
+    fullname: >-
+      Mery Caporale
+    bio: >-
+      𝖫𝗂𝖼. 𝖭𝗎𝗍𝗋𝗂𝖼𝗂𝗈́𝗇 MN: 𝟫𝟣𝟤𝟩 COMER DE TODO, SIN COMERSE TODO ® 📩acuerdos.merycaporale@gmail.com 📍 Z.NORTE /SUR/OESTE/LA PLATA /CABA Y ONLINE 🌎 👇🏻TURNOS
+    location: "Argentina"
+    followers: 666864
+    engagement: 36
+    commentsToLikes: 0.058242
+    id: ckaoqmrpgjetj0i78azio49xx
+    verified: false
+    hashtags: "#cenasaludable, #comerdetodosincomertetodo, #nutrition, #nutritionist"
   - username: "nutricion_cm"
     fullname: >-
       Nutrición Carla Mazzocchi

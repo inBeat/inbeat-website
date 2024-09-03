@@ -1,11 +1,11 @@
 ---
-title: Top 10 Makeup TikTok Influencers In Australia In 2023
+title: Top 10 Makeup TikTok Influencers In Australia In 2024
 description: >-
-  Find top makeup TikTok influencers in Australia in 2023. Most popular hashtags: #makeup #fyp #makeupartist #foryoupage.
+  Find top makeup TikTok influencers in Australia in 2024. Most popular hashtags: #makeup #fyp #makeupartist #foryoupage.
 platform: TikTok
-hits: 303
-text_top: Identify the most popular TikTok influencers on inBeat.
-text_bottom: Our database has 303 TikTok influencers like this in Australia for you to work with.
+hits: 307
+text_top: Identify the best TikTok profiles on inBeat.
+text_bottom: Our platform has 307 TikTok influencers like this in Australia for you to connect with.
 profiles:
   - username: "sam.b.perry"
     fullname: >-
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.031355
     id: ck8nitp74791v0j78rw1i3ja7
     verified: false
-    hashtags: "#keepingitcute, #foryoupage, #fyp, #hiddentalents"
+    hashtags: "#beautyhaul, #makeup, #makeuptutorial, #lgbt"
   - username: "kathryndenny"
     fullname: >-
       Kathryn Denny
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.003474
     id: ckbbfthod4h680j23jwouzndc
     verified: false
-    hashtags: "#dayinmylife, #vlog, #makeup, #selfemployed"
+    hashtags: "#makeup, #blessed, #moldavite, #makeupartist"
   - username: "reddelicious000"
     fullname: >-
       Kellie Smith
@@ -54,7 +54,7 @@ profiles:
     commentsToLikes: 0.114129
     id: ckbrcfl0iqbks0j23ap5qmsul
     verified: false
-    hashtags: "#over50s, #over40s, #redhair, #newfriends"
+    hashtags: "#newfriends, #over30s, #redhair, #girlgang"
   - username: "a.o.h.m"
     fullname: >-
       𝔸𝕝𝕠𝕟𝕕𝕣𝕒 𝔾𝕒𝕥𝕒é
@@ -126,5 +126,5 @@ profiles:
     commentsToLikes: 0.012109
     id: ckbqpqsahak5t0j2322guqipb
     verified: false
-    hashtags: "#perth, #australia, #makeuptrends, #vlog"
+    hashtags: "#hairtransformation, #eyeshadow, #makeuptrends, #lookssogood"
 ---

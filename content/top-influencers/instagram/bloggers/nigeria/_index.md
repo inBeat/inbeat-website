@@ -1,12 +1,24 @@
 ---
-title: Top 10 Bloggers Instagram Influencers In Nigeria In 2023
+title: Top 10 Bloggers Instagram Influencers In Nigeria In 2024
 description: >-
-  Find top bloggers Instagram influencers in Nigeria in 2023. Most popular hashtags: #makeup #photography #beauty #model.
+  Find top bloggers Instagram influencers in Nigeria in 2024. Most popular hashtags: #photography #makeup #model #fashion.
 platform: Instagram
-hits: 16
-text_top: Identify the most popular Instagram profiles on inBeat.
-text_bottom: Our database has 16 Instagram influencers like this in Nigeria for you to contact.
+hits: 14
+text_top: Analyze the most popular Instagram influencers on inBeat.
+text_bottom: Our database has 14 Instagram influencers like this in Nigeria for you to contact.
 profiles:
+  - username: "placestogolagos"
+    fullname: >-
+      Places To Go Lagos 🌴
+    bio: >-
+      🌍 This Is An Outing Directory Of The Best Places To Visit In Lagos 🇳🇬 👭Account Is Run By Twin Bloggers; @jessicadanjuma @jenniferdanjuma YOUTUBE VID⬇️
+    location: "Nigeria"
+    followers: 39005
+    engagement: 40
+    commentsToLikes: 0.008055
+    id: cllrlx9201l1w0j08esbigc5a
+    verified: false
+    hashtags: "#hairglowup, #hairbynubianmagic, #nigerianbeauty"
   - username: "istina.manners"
     fullname: >-
       K R I S T I N A
@@ -55,18 +67,6 @@ profiles:
     id: ck5zs61aoxw9j0i14965qf1v9
     verified: false
     hashtags: "#eastafricangirls, #yesbana, #birthdaymonth, #virgoseason"
-  - username: "ifys.kitchen"
-    fullname: >-
-      Ify's Kitchen (KITCHEN QUEEN)⭐
-    bio: >-
-      Brand Ambassador for @mamadorng 🏆Award winning food blogger 📍 Instructor #cookwithify 📩 Ads/Biz - ifyskitchen1@gmail.com 📽 Learn to cook like a pro👇
-    location: "Nigeria"
-    followers: 581452
-    engagement: 71
-    commentsToLikes: 0.057919
-    id: ck13ay30csr050i1982459fz6
-    verified: false
-    hashtags: "#foodblogger, #nigerianfoodblogger, #weightloss, #youtuber"
   - username: "darkskinnedmakeupdaily"
     fullname: >-
       DSMD
@@ -91,18 +91,18 @@ profiles:
     id: ck14gsran6u850i19j26d92oa
     verified: false
     hashtags: "#cakesinlagos, #festacbaker, #whippedcreamcakes, #cake"
-  - username: "lhidhiastanley"
+  - username: "amanda_karo"
     fullname: >-
-      LYDIA STANLEY 🦋
+      Karo
     bio: >-
-      BEAUTY INFLUENCER | DIGITAL CONTENT CREATOR | CIVIL ENGINEER 📩 LHIDHIASTANLEY@GMAIL.COM 📍NIGERIA 🇳🇬 GET YOUR MAKEUP DONE @lhidhiastanley_studio
+      
     location: "Nigeria"
-    followers: 68463
-    engagement: 575
-    commentsToLikes: 0.051065
-    id: ck15ptj6rzjut0i19mt8joqe2
+    followers: 2607
+    engagement: 1188
+    commentsToLikes: 0.097098
+    id: ck5hoaz1yp9180i11bipn977z
     verified: false
-    hashtags: "#nigerian, #wakeupandmakeup, #lhidhiastanley, #bellanaijaweddings"
+    hashtags: "#tundeednut, #realestateagent, #realestate, #influencer"
   - username: "uzodinma_g"
     fullname: >-
       Uzodinma Gift🌺🌺
@@ -114,17 +114,17 @@ profiles:
     commentsToLikes: 0.115014
     id: ckaowcbz88au40i78te9hv4ip
     verified: false
-    hashtags: "#gaintrick, #gaintrain, #beauty, #gains"
-  - username: "amanda_karo"
+    hashtags: "#gaintrain, #beauty, #gaintrick, #gainwithspikes"
+  - username: "glam_jayny"
     fullname: >-
-      Ubiene Oghenekaro
+      Jayny Pha
     bio: >-
-      -God's favorite 👆🏽 -🎓human resource manager🎓
+      Snap👻: glam_jayny Model/influencer Fashion lover Dm for promotion/ advert/ business and tips on how to grow your account. BP @glamjayny_empire 👗👟👖👚👜
     location: "Nigeria"
-    followers: 2416
-    engagement: 1147
-    commentsToLikes: 0.081688
-    id: ck5hoaz1yp9180i11bipn977z
+    followers: 33676
+    engagement: 175
+    commentsToLikes: 0.050779
+    id: ckapbevl6znz80i78iaq9jp9h
     verified: false
-    hashtags: "#realestateinabuja, #beautifulday, #ncdc, #realestate"
+    hashtags: "#exploremore, #photography, #fashion, #explorepage"
 ---

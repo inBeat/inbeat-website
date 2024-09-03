@@ -1,11 +1,11 @@
 ---
-title: Top 10 Motivational Speakers Instagram Influencers In Brazil In 2023
+title: Top 10 Motivational Speakers Instagram Influencers In Brazil In 2024
 description: >-
-  Find top motivational speakers Instagram influencers in Brazil in 2023. Most popular hashtags: #motivation #modafeminina #lookdodia #motivacional.
+  Find top motivational speakers Instagram influencers in Brazil in 2024. Most popular hashtags: #motivation #ootd #reels #lifestyle.
 platform: Instagram
-hits: 8
-text_top: See the most popular Instagram profiles on inBeat.
-text_bottom: Our search engine aggregates 8 Instagram influencers like this in Brazil for you to collaborate.
+hits: 13
+text_top: Identify the top-rated Instagram accounts on inBeat.
+text_bottom: Our platform has 13 Instagram influencers like this in Brazil for you to connect with.
 profiles:
   - username: "giovannamaira"
     fullname: >-
@@ -79,18 +79,6 @@ profiles:
     id: ck5q6dgmiwykp0i11b6r0njan
     verified: false
     hashtags: "#greatnessiswithin, #brasil, #noexcuses, #juntosnaluta"
-  - username: "juliahorta"
-    fullname: >-
-      JÚLIA HORTA
-    bio: >-
-      👑 Miss Brasil 2019 Comunicadora por paixão e profissão 💓 Jornalista • MBA em influência digital Palestrante • TEDx speaker
-    location: "Brazil"
-    followers: 511619
-    engagement: 125
-    commentsToLikes: 0.032680
-    id: ck0w2wpw8qjkl0i19yz4sory4
-    verified: true
-    hashtags: "#mensagemdodia, #ju, #respirac, #missbrasil2019"
   - username: "nara.pezzuol"
     fullname: >-
       Nara Pezzuol
@@ -103,4 +91,40 @@ profiles:
     id: ck8t11zhju67i0j78gh0rxyxe
     verified: false
     hashtags: "#selflove, #jf, #lookdodia, #influencerstyle"
+  - username: "ricardorogia"
+    fullname: >-
+      Ricardo Rogia ®
+    bio: >-
+      “Voice Actor” | “Marketing Assessor” | “Menswear” “Streamer” 🚀 | 4 idiomas 🌎 👕 Pronto mi marca 🤩 : @rogia.mx ⬇️ Hoy hago stream! Únete! ⬇️
+    location: "Brazil"
+    followers: 59312
+    engagement: 358
+    commentsToLikes: 0.085543
+    id: ck5qbbh83krd40i11418c8hev
+    verified: false
+    hashtags: "#offwhite, #relaxedoutfit, #ootd, #negro"
+  - username: "lucasmantellato"
+    fullname: >-
+      Lucas Mantellato
+    bio: >-
+      🎬 Genubate em @seriereis Agenc. artístico: @base_mgt E-mail: contato@mmestrategiadeimagem.com.br
+    location: "Brazil"
+    followers: 209784
+    engagement: 322
+    commentsToLikes: 0.036065
+    id: ck5hiihpwdoa10i114258hpd7
+    verified: false
+    hashtags: "#fitness, #modamasculina, #futevolei, #shooting"
+  - username: "zitawu"
+    fullname: >-
+      zitawu
+    bio: >-
+      📍Budapest / Vienna / Shanghai🏙 1⁄4🇰🇷, 3⁄4🇨🇳 Work: @truetosole , private teacher, interpreter 🗣 @zitawustuff Email: zitawu006@gmail.com
+    location: "Brazil"
+    followers: 11724
+    engagement: 1688
+    commentsToLikes: 0.017452
+    id: ck5c3gpnxzaer0i11t3uylo27
+    verified: false
+    hashtags: "#inspiration, #snkrskickcheck, #burberry, #streetstyle"
 ---

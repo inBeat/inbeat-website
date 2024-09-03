@@ -1,12 +1,36 @@
 ---
-title: Top 10 Chefs Instagram Influencers In Ukraine In 2023
+title: Top 10 Chefs Instagram Influencers In Ukraine In 2024
 description: >-
-  Find top chefs Instagram influencers in Ukraine in 2023. Most popular hashtags: #chef #foodporn #happy.
+  Find top chefs Instagram influencers in Ukraine in 2024. Most popular hashtags: #chef #foodporn #georgia.
 platform: Instagram
-hits: 9
-text_top: Discover the most popular Instagram influencers on inBeat.
-text_bottom: Our search engine aggregates 9 Instagram influencers like this in Ukraine for you to collaborate.
+hits: 11
+text_top: Discover the most popular Instagram accounts on inBeat.
+text_bottom: Our search engine holds 11 Instagram influencers like this in Ukraine for you to collaborate.
 profiles:
+  - username: "ann_kieu"
+    fullname: >-
+      Kieu
+    bio: >-
+      lifestyle | fashion finalist Master Chef 9 from Ukraine 🇺🇦
+    location: "Ukraine"
+    followers: 36371
+    engagement: 127
+    commentsToLikes: 0.007951
+    id: ck5q0chb45bse0i11c89iwr6z
+    verified: false
+    hashtags: ""
+  - username: "klopotenko"
+    fullname: >-
+      Ievgen Klopotenko
+    bio: >-
+      Chef🔪 Empowering Ukrainian cuisine in the World🇺🇦 I’m #50Next Co-owner @100rokivtomuvpered @inshi.bistro Store @klopotenko_store info@klopotenko.com
+    location: "Ukraine"
+    followers: 827285
+    engagement: 116
+    commentsToLikes: 0.009775
+    id: ck5hrjyzxuzqt0i11djcpm5e7
+    verified: true
+    hashtags: ""
   - username: "sergey_ternov"
     fullname: >-
       Sergey Ternov
@@ -19,18 +43,6 @@ profiles:
     id: ck6u6bt9ceoms0j71l6ywjzgk
     verified: false
     hashtags: "#cheflife, #russia, #altay, #chef"
-  - username: "klopotenko"
-    fullname: >-
-      Ievgen Klopotenko
-    bio: >-
-      Chef🔪Improver of the Ukrainian food culture 🇺🇦 Co-owner @100rokivtomuvpered Store @gastroprikhozhane Ambassador @frankeukraine info@klopotenko.com
-    location: "Ukraine"
-    followers: 547276
-    engagement: 173
-    commentsToLikes: 0.014884
-    id: ck5hrjyzxuzqt0i11djcpm5e7
-    verified: true
-    hashtags: "#franke, #makeitwonderful, #frankeukraine"
   - username: "hectorjimenezbravo"
     fullname: >-
       Hector Jimenez-Bravo
@@ -67,6 +79,18 @@ profiles:
     id: ck6ucehbwf4mu0j71yx5u4kii
     verified: false
     hashtags: "#createathome, #grip, #thrashermag, #35mm"
+  - username: "pava_vb"
+    fullname: >-
+      Вадим Бжезинский
+    bio: >-
+      STOP WAR IN UKRAINE 🇺🇦 🔹Победитель Мастер Шеф 🏆 🔹Реклама @pava_vb_cooperation 🔹Резерв @pava_vb_reserve Сотруд-во +38 (068) 032 17 18 Леся
+    location: "Ukraine"
+    followers: 349013
+    engagement: 240
+    commentsToLikes: 0.060390
+    id: ckap85cc5mw6s0i78zqlgq1mb
+    verified: true
+    hashtags: "#pava, #masterchef, #culinary, #recipes"
   - username: "yaroslavskyi_vova"
     fullname: >-
       Владимир Ярославский
@@ -103,16 +127,4 @@ profiles:
     id: ck6uhjwc69jmf0j71fz11flsl
     verified: false
     hashtags: "#wtespb2019, #dinnerinthesky, #repost, #whiterabbitfamily"
-  - username: "lerabrumina"
-    fullname: >-
-      Lera Brumina
-    bio: >-
-      Interior designer based in Kyiv
-    location: "Ukraine"
-    followers: 9987
-    engagement: 364
-    commentsToLikes: 0.009236
-    id: ck6ue9rjupnd50j713e8cfj3k
-    verified: false
-    hashtags: "#lerabrumina, #57sqmetersapartment, #residential, #interiordesign"
 ---

@@ -1,12 +1,36 @@
 ---
-title: Top 10 Guitar Instagram Influencers In Poland In 2023
+title: Top 10 Guitar Instagram Influencers In Poland In 2024
 description: >-
-  Find top guitar Instagram influencers in Poland in 2023. Most popular hashtags: #guitar #love #photography #instagood.
+  Find top guitar Instagram influencers in Poland in 2024. Most popular hashtags: #guitar #music #polishgirl #instagood.
 platform: Instagram
-hits: 48
-text_top: Analyze the most popular Instagram profiles on inBeat.
-text_bottom: Our platform aggregates 48 Instagram influencers like this in Poland for you to work with.
+hits: 45
+text_top: See the best Instagram accounts on inBeat.
+text_bottom: Our platform aggregates 45 Instagram influencers like this in Poland for you to connect with.
 profiles:
+  - username: "jan.borysewicz_official"
+    fullname: >-
+      Jan_Borysewicz_official 🎸
+    bio: >-
+      Guitarist 🎸 Composer 🎶 Leader of @ladypank_official and JanBo 👇🏻Zamówienia płyty, książka, materiały👇🏻
+    location: "Poland"
+    followers: 27648
+    engagement: 546
+    commentsToLikes: 0.029195
+    id: ckap5m1soc9s10i78yq1pgyl7
+    verified: false
+    hashtags: "#stratocasterjeffbeck, #lp40, #fender, #janborysewicz"
+  - username: "mayonesguitars"
+    fullname: >-
+      Mayones Guitars & Basses
+    bio: >-
+      MAYONES GUITARS & BASSES | Official Instagram profile. Handcrafted in Gdansk, Poland since 1982 | Contact us : info@mayones.com
+    location: "Poland"
+    followers: 223879
+    engagement: 85
+    commentsToLikes: 0.005605
+    id: ck0tyhewgmu010i195b47kniu
+    verified: false
+    hashtags: "#guitaroftheday, #customguitar, #rabeaafro, #tonewood"
   - username: "dawidskoczylas"
     fullname: >-
       Dawid Skoczylas
@@ -19,30 +43,54 @@ profiles:
     id: ck14guqck74i20i19e3nb26pu
     verified: false
     hashtags: "#roamtheplanet, #portrait, #spicollective, #vision"
-  - username: "mayonesguitars"
+  - username: "natalia.pigula"
     fullname: >-
-      Dawid Dziewulski
+      Natalia Piguła-Kaniecka
     bio: >-
-      MAYONES GUITARS & BASSES | Official Instagram profile. Handcrafted in Gdansk, Poland since 1982 | Contact us : info@mayones.com
+      
     location: "Poland"
-    followers: 204758
-    engagement: 214
-    commentsToLikes: 0.006039
-    id: ck0tyhewgmu010i195b47kniu
+    followers: 18168
+    engagement: 923
+    commentsToLikes: 0.044568
+    id: ck5c9snjec1l40i11b9ucuwuw
     verified: false
-    hashtags: "#guitarsdaily, #handbuilt, #guitar, #knowyourtone"
-  - username: "marika_photomodel"
+    hashtags: "#missziemilodzkiej, #polskadziewczyna, #woman, #guitarhotel"
+  - username: "grannypocket"
     fullname: >-
-      Marika Pela✨
+      Лера Яскевич
     bio: >-
-      III miejsce Miss Euro 2021 👑 @fash.team ⚡❤️ @butosklep.pl -15% „marikapela” @sheinofficial -15% „marikaQ” 💌 pela.marika@o2.pl 📍Wrocław,Środa Śl
+      📍Warsaw Мечтаю о великом ✨ @anya_hello - концерты/реклама
     location: "Poland"
-    followers: 21998
-    engagement: 615
-    commentsToLikes: 0.063221
-    id: ck8t22obzxzu90j78arp03gad
+    followers: 204688
+    engagement: 717
+    commentsToLikes: 0.005218
+    id: ck0twbdzpeqv50i19isd75vvu
+    verified: true
+    hashtags: "#35mmfilm, #35mmfujifilm, #fujifilm, #filmphoto"
+  - username: "n.mielnik"
+    fullname: >-
+      Natalia Mielnik | oboi.st
+    bio: >-
+      Owner&founder of @oboi.st I will show you how to make good reeds and be better at playing oboe! 📍 Cracow, Poland
+    location: "Poland"
+    followers: 7870
+    engagement: 1584
+    commentsToLikes: 0.030611
+    id: ckaovwh6n6e570i78nyodrkn8
     verified: false
-    hashtags: "#goodmorning, #dziendobry, #greeneyes, #wroclaw"
+    hashtags: "#oboereedmaking, #dailymusicians, #practicemakesbetter, #cyprusphotographer"
+  - username: "my_little_moments___"
+    fullname: >-
+      Magdalena Borowska
+    bio: >-
+      Happy Mommy 🧘‍♀️ 🥀mum of two girls 🥀 👭 #girls Michalina & Lena👭 Współpraca mail: my_little_moments_of_life@op.pl
+    location: "Poland"
+    followers: 18337
+    engagement: 312
+    commentsToLikes: 0.025488
+    id: ck6udqvnrmmom0j71u092lv18
+    verified: false
+    hashtags: "#materialreklamowy, #instadziecko, #rodzew, #pokojdziecka"
   - username: "kuberaadam"
     fullname: >-
       Adam Kubera
@@ -55,42 +103,6 @@ profiles:
     id: ck15sfmoqcrvt0i199br3ujmp
     verified: false
     hashtags: "#summervibes, #sunnyday, #kuberaadam, #car"
-  - username: "adriannagrotkowska"
-    fullname: >-
-      Adrianna Grotkowska
-    bio: >-
-      🦄 Make-up artist & music lover🎸 🏡 Warsaw, Poland 📩 aduchapoducha@gmail.com
-    location: "Poland"
-    followers: 158985
-    engagement: 869
-    commentsToLikes: 0.030837
-    id: ck5c5oaye3umk0i11a839lxnu
-    verified: false
-    hashtags: "#summertime, #rarebeauty, #wakeupandmakeup, #zapozno"
-  - username: "roksanastefanek"
-    fullname: >-
-      roksanastefanek
-    bio: >-
-      Mama Majuszki 👧 Bawię się moda 🧥 Lubię ładne wnętrza ✨ Budujemy dom 🏠 Wrocław 📧roksanaborach@gmail.com
-    location: "Poland"
-    followers: 18455
-    engagement: 253
-    commentsToLikes: 0.112911
-    id: ck6udqoodmlj20j71rio44cci
-    verified: false
-    hashtags: "#sukienka, #wnetrzarskieinspiracje, #coreczka, #wiosna"
-  - username: "vlogcasha"
-    fullname: >-
-      Cash
-    bio: >-
-      🗺 travel vlogger from 🇵🇱 My YouTube channel ⤵️
-    location: "Poland"
-    followers: 21299
-    engagement: 734
-    commentsToLikes: 0.024506
-    id: ck5zjo204hxv10i14grbqwcoe
-    verified: false
-    hashtags: "#travel, #turcja, #turkey, #podrozecasha"
   - username: "sandrarugala"
     fullname: >-
       Sandra Rugała
@@ -115,16 +127,4 @@ profiles:
     id: ck9ha2xbkax0e0j78k3r9sf37
     verified: false
     hashtags: "#photography, #photoshoot, #bathroom, #session"
-  - username: "oliwka_kopiec"
-    fullname: >-
-      O L I W I A   K O P I E C
-    bio: >-
-      📩współpraca/kontakt- oliwiakopiec-contact@wp.pl acting,singer,dancer..🤪 TVK 1 ✌🏻
-    location: "Poland"
-    followers: 15941
-    engagement: 944
-    commentsToLikes: 0.015429
-    id: ck9hbzuyaj5k80j78m6l2whah
-    verified: false
-    hashtags: "#holiday, #poland, #polska, #model"
 ---

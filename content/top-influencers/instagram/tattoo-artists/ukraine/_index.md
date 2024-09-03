@@ -1,36 +1,36 @@
 ---
-title: Top 10 Tattoo-Artists Instagram Influencers In Ukraine In 2023
+title: Top 10 Tattoo-Artists Instagram Influencers In Ukraine In 2024
 description: >-
-  Find top tattoo-artists Instagram influencers in Ukraine in 2023. Most popular hashtags: #tattooartist #tattoo #tattoos #tattoodesign.
+  Find top tattoo-artists Instagram influencers in Ukraine in 2024. Most popular hashtags: #tattoo #tattooartist #tattoos #tattoodesign.
 platform: Instagram
 hits: 9
-text_top: Analyze the most popular Instagram profiles on inBeat.
-text_bottom: Our search engine holds 9 Instagram influencers like this in Ukraine for you to work with.
+text_top: Discover the top-rated Instagram accounts on inBeat.
+text_bottom: Our database aggregates 9 Instagram influencers like this in Ukraine for you to contact.
 profiles:
-  - username: "dmitriy.tkach"
-    fullname: >-
-      Dmitriy Tkach
-    bio: >-
-      Tattoo Artist Ukraine, Kyiv BOOKINGS CLOSED
-    location: "Ukraine"
-    followers: 181781
-    engagement: 524
-    commentsToLikes: 0.006700
-    id: ck6tk4wps40h20j71b80wbwe6
-    verified: false
-    hashtags: "#blackink, #darkartists, #tattooideas, #blacktattoo"
   - username: "lilinetkor"
     fullname: >-
       Roman Kor       Tattoo Lviv
     bio: >-
-      🎨 тату майстер/tattoo artist Працюю в студії @hard_art_tattoo Telegram/Viber +380637486327 Особиста сторінка @life_lilinetkor Хобі @dirty_artboss
+      🎨 тату майстер/tattoo artist 🇺🇦 Працюю в студії @hard_art_tattoo Telegram +380637486327 Team @emalla.official Pharm @vesper_tat Partner @ambition_ua
     location: "Ukraine"
-    followers: 20800
-    engagement: 438
-    commentsToLikes: 0.018827
+    followers: 50819
+    engagement: 469
+    commentsToLikes: 0.014999
     id: ck14lq2jevx4t0i19pm98ff60
     verified: false
-    hashtags: ""
+    hashtags: "#lilinetkor, #cheyenne, #eternalinktattoo, #tattoo"
+  - username: "dmitriy.tkach"
+    fullname: >-
+      DMITRIY TKACH
+    bio: >-
+      🩸Tattoo artist Bookings open only in Ukraine ⁣⁣
+    location: "Ukraine"
+    followers: 175406
+    engagement: 304
+    commentsToLikes: 0.010783
+    id: ck6tk4wps40h20j71b80wbwe6
+    verified: false
+    hashtags: "#blxckink, #sleevetattoo, #dotwork, #tattooideas"
   - username: "lebedeva_netli23"
     fullname: >-
       😈Natalia Lebedeva😈

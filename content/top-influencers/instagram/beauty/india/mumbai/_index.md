@@ -1,48 +1,24 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Mumbai In 2023
+title: Top 10 Beauty Instagram Influencers In Mumbai In 2024
 description: >-
-  Find top beauty Instagram influencers in Mumbai in 2023. Most popular hashtags: #beauty #instagram #reels #instagood.
+  Find top beauty Instagram influencers in Mumbai in 2024. Most popular hashtags: #explore #instagood #instagram #reels.
 platform: Instagram
-hits: 500
-text_top: Discover the most popular Instagram accounts on inBeat.
-text_bottom: Our database aggregates 500 Instagram influencers like this in Mumbai, India for you to connect with.
+hits: 702
+text_top: Analyze the most popular Instagram profiles on inBeat.
+text_bottom: Our platform aggregates 702 Instagram influencers like this in Mumbai, India for you to collaborate.
 profiles:
-  - username: "lovinanayak15"
+  - username: "real.huma"
     fullname: >-
-      LOVINA NAYAK
+      Huma
     bio: >-
-      DM For Collab |Digital Creator The One who brought the trend of blogging to Odisha|First blogger🦄 Working for @instagram Entrepreneur @tummy_trucker
+      📍Bombay
     location: "India"
-    followers: 133887
-    engagement: 239
-    commentsToLikes: 0.020102
-    id: ck6tmx0i98oxx0j71l6x5fusj
+    followers: 26609
+    engagement: 383
+    commentsToLikes: 0.016340
+    id: ck13ayj6ost9r0i19n738ejhl
     verified: false
-    hashtags: "#reelsinstagram, #hot, #shootdiaries, #reelitfeelit"
-  - username: "dimpisanghvi_ws"
-    fullname: >-
-      Dimpi Sanghvi
-    bio: >-
-      travel • fashion • beauty • lifestyle mumbai, india New YouTube Video 💓
-    location: "India"
-    followers: 1022694
-    engagement: 157
-    commentsToLikes: 0.012071
-    id: ck13771uwa40g0i192apzk4wa
-    verified: true
-    hashtags: "#kerala, #ad, #makeup, #mumbaibloggers"
-  - username: "salonikamthan_official"
-    fullname: >-
-      Saloni Kamthan🧿
-    bio: >-
-      A Working Woman who loves to do Makeup and DIYs Makeup|DIYs|Reviews|Lifestyle DM for Collaborations 💌saloni.kamthan@gmail.com
-    location: "India"
-    followers: 22376
-    engagement: 203
-    commentsToLikes: 0.041909
-    id: ck8t6mtn6e5vw0j7897qefvon
-    verified: false
-    hashtags: "#reelsindia, #bornoninstagram, #influencer, #fashionblogger"
+    hashtags: "#explorepage, #imranrider46, #reels, #reelinstagram"
   - username: "itz_s_h_u_b_h_a_m"
     fullname: >-
       ՏℍႮℬℍᗅℳ REDDY🔵
@@ -55,30 +31,6 @@ profiles:
     id: ck9wh9nvnwwvd0j78v1b95dpb
     verified: false
     hashtags: "#photooftheday, #shoutouter, #fambruh, #family"
-  - username: "lilboxoffashion"
-    fullname: >-
-      𝐓𝐚𝐧𝐲𝐚 𝐍𝐚𝐫𝐚𝐧𝐠 | Influencer
-    bio: >-
-      Creating life of my dreams 🎀 All about fashion, lifestyle and everything that comes in between 👅 For collaboration- mail/DM 📍Delhi 🇮🇳
-    location: "India"
-    followers: 41117
-    engagement: 160
-    commentsToLikes: 0.115586
-    id: ckf5uoy5nlq0w0j23n14lpie7
-    verified: false
-    hashtags: "#reelitfeelit, #tanyanarang, #ethnicwear, #reels"
-  - username: "delhiicious"
-    fullname: >-
-      VAISHNAVI|Delhi Food Blog
-    bio: >-
-      Delhi 🏠 Because the camera eats first 📸 DM/Email for Collabs.📩 #delhiicious
-    location: "India"
-    followers: 22644
-    engagement: 167
-    commentsToLikes: 0.088559
-    id: ckaoqumcukh6j0i785t5x27cx
-    verified: false
-    hashtags: "#reels, #delhistreetfood, #mumbai, #delhifoodie"
   - username: "artographyphotos"
     fullname: >-
       Sagar S Mindhe | Photographer
@@ -103,6 +55,66 @@ profiles:
     id: ck6u25wh0pwjq0j71pbvdp6e6
     verified: false
     hashtags: "#ig, #photography, #architecturephotography, #mypixeldiary"
+  - username: "sarashan_"
+    fullname: >-
+      Sarahana Shanker
+    bio: >-
+      creative 📸 and parts of life unfiltered beauty & fashion 🪐 mumbai | pune | qatar 📩 : saraxhana@gmail.com
+    location: "India"
+    followers: 76080
+    engagement: 1447
+    commentsToLikes: 0.017355
+    id: ckysiii7ewfp70j23twpszry4
+    verified: false
+    hashtags: "#fyp, #explore, #india, #trending"
+  - username: "mg.megha"
+    fullname: >-
+      Megha
+    bio: >-
+      Fashion • Lifestyle • Beauty • Travel Mumbai 📍 Creator @myntra @myntrafwd 📩 - megha.mg088@gmail.com For all Outfit Links 👇 👇
+    location: "India"
+    followers: 23554
+    engagement: 300
+    commentsToLikes: 0.088743
+    id: clq3s0905wq430k08trp3pnku
+    verified: false
+    hashtags: "#comfylook, #winterootd, #explore, #winterlook"
+  - username: "aalimhakim"
+    fullname: >-
+      Aalim Hakim
+    bio: >-
+      Director:Hakim's Aalim hair n' beauty lounge Mumbai | Pune | Bangalore | Jaipur | Raipur | Surat | Ahemdabad
+    location: "India"
+    followers: 8808854
+    engagement: 148
+    commentsToLikes: 0.007925
+    id: ck0udcrpwirgv0i19k8a7yaax
+    verified: true
+    hashtags: "#ipl, #legend, #dhoni, #2024"
+  - username: "through.my_eyes"
+    fullname: >-
+      Poorvi patel
+    bio: >-
+      FASHION / MAKE UP / BEAUTY / LIFESTYLE Mumbai-India(n)🇮🇳
+    location: "India"
+    followers: 43764
+    engagement: 56
+    commentsToLikes: 0.270434
+    id: ckaoxw8rvf0uq0i78th6cva5q
+    verified: false
+    hashtags: "#reelsofinstagram, #viralreels, #whatstrending, #mididress"
+  - username: "musku_agarwal"
+    fullname: >-
+      Muskaan Agarwal
+    bio: >-
+      Actor | Influencer | Fashion Model DM or Email For Brand Collaborations & Paid Partnership. Mumbai.
+    location: "India"
+    followers: 668914
+    engagement: 69
+    commentsToLikes: 0.021078
+    id: ckto9uh1sewvd0j23ierdsf56
+    verified: false
+    hashtags: "#cricket, #photography, #muskuagarwal, #reelsinstagram"
   - username: "aakash_gavit12"
     fullname: >-
       ᴇʏᴇ ᴄᴀᴛᴄʜᴇʀ ᴀᴋᴋɪ 💕
@@ -115,16 +127,4 @@ profiles:
     id: ckf5sjxgufo7t0j23lplgs2py
     verified: false
     hashtags: "#maza, #om, #hindi, #bappamorya"
-  - username: "prachi_nirala"
-    fullname: >-
-      Prachi | Fashion | Blogger |🇮🇳
-    bio: >-
-      19 | Raipur | Bhilai 🌈 FASHION ENTHUSIASTIC • DANCE • FITNESS Sketch - @charcoal_strokes_ 📍INDIA .....Dm 📥for Shoots & collab 💌
-    location: "India"
-    followers: 5171
-    engagement: 1180
-    commentsToLikes: 0.080545
-    id: ck9wh9hd4wvvc0j78h45ei0vz
-    verified: false
-    hashtags: "#fashionista, #photography, #fashionphotography, #mumbaifashionbloggers"
 ---

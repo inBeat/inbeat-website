@@ -1,24 +1,48 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Peru In 2023
+title: Top 10 Fitness Instagram Influencers In Peru In 2024
 description: >-
-  Find top fitness Instagram influencers in Peru in 2023. Most popular hashtags: #fitness #workout #peru #love.
+  Find top fitness Instagram influencers in Peru in 2024. Most popular hashtags: #fitness #workout #peru #love.
 platform: Instagram
-hits: 72
-text_top: Discover the best Instagram profiles on inBeat.
-text_bottom: Our platform aggregates 72 Instagram influencers like this in Peru for you to contact.
+hits: 74
+text_top: See the best Instagram profiles on inBeat.
+text_bottom: Our database has 74 Instagram influencers like this in Peru for you to contact.
 profiles:
+  - username: "alessandrabonellig"
+    fullname: >-
+      ALE BONELLI
+    bio: >-
+      Que se ponga de moda cuidar el planeta 🌍🌱 Fitness & Wellness 📍 Perú •ғᴜɴᴅᴀᴅᴏʀᴀ @sintoniza_la_naturaleza PRIMER EPISODIO-CENTRO DE RESCATE👇 🌱🌎
+    location: "Peru"
+    followers: 187376
+    engagement: 75
+    commentsToLikes: 0.012025
+    id: ck5hll9kkkezf0i11q10y5q39
+    verified: true
+    hashtags: "#8marchwomensday, #grwm, #gym, #publicidad"
   - username: "sebaslizar"
     fullname: >-
       Sebastian Lizarzaburu
     bio: >-
-      Deportista, Atleta, Empresario 🇵🇪 🔥 Co-owner de @inmortal.fitness . 🏅 Online Coach ONLY FANS 👇👇
+      Deportista, Empresario, Trader 📈🇵🇪 🏅 Online Fitness Coach 📩 Info: contacto@toptalent.pe 🌎 Atleta @mutantnation @mutantlatino 🥤Team @pronutritionperu
     location: "Peru"
-    followers: 795949
-    engagement: 110
-    commentsToLikes: 0.021508
+    followers: 961302
+    engagement: 69
+    commentsToLikes: 0.029840
     id: ck5zrcj62wbzb0i14n5zwo4x6
     verified: true
-    hashtags: "#saludable, #peru, #workout, #fitlife"
+    hashtags: "#fitmotivation, #motivation, #family, #papaehija"
+  - username: "duceliaechevarria"
+    fullname: >-
+      Ducelia Echevarría
+    bio: >-
+      La única Dueña de mi ♥️ @claire_anelisse 👸 Adm. Hotelera / Chica GUESS Owner 🤵🏼‍♀️ 🏃‍♀️ 🚗 ⛰️ @viajamospe / @dutours_pozuzo / @ducelia.fitness
+    location: "Peru"
+    followers: 1118149
+    engagement: 29
+    commentsToLikes: 0.045492
+    id: ck6u8zw0auo2h0j710dxavnrs
+    verified: true
+    hashtags: "#peruvsparaguay, #guess, #ondacero, #viral"
   - username: "kattakastano"
     fullname: >-
       ⭐️.      KATTA KASTAÑO     .⭐️
@@ -79,30 +103,6 @@ profiles:
     id: ck6uc7ymie0p50j71wjq30v37
     verified: false
     hashtags: "#vikinga, #teamvikinga, #unavikinganoabandona, #viking"
-  - username: "inmabas"
-    fullname: >-
-      Inma Bas
-    bio: >-
-      👩🏽‍🍳 | Recetas saludables y deliciosas 🏋🏽‍♀️ | Fitness |🎙| Desarrollo Personal 🌿 | Te animo a cuidarte por SALUD 🌻 . 👇🏼Descuentos, Youtube y MÁS
-    location: "Peru"
-    followers: 63710
-    engagement: 271
-    commentsToLikes: 0.110013
-    id: ck14jvp8umfa00i19tex7mjza
-    verified: false
-    hashtags: "#emprendimiento, #fitnesscouple, #saludable, #fitnessrecipe"
-  - username: "athleticcontrast"
-    fullname: >-
-      𝗠𝗔𝗥𝗖𝗘𝗟𝗔 𝗣𝗔𝗗𝗜𝗟𝗟𝗔 | Lima, Perú
-    bio: >-
-      🇵🇪Peruvian Athlete - Long Jumper ⚡️Certified Fitness Coach 📩@athleticcontrast.club 👩🏽‍💻Content Creator
-    location: "Peru"
-    followers: 19366
-    engagement: 130
-    commentsToLikes: 0.040844
-    id: ck6uc7vb2e04i0j71mwpxeim7
-    verified: false
-    hashtags: "#asicsfrontrunner, #runner, #runners, #tbt"
   - username: "patriciaalquintaoficial"
     fullname: >-
       patricia alquinta
@@ -115,16 +115,16 @@ profiles:
     id: ck5zq38yotur90i14ce7gtd89
     verified: false
     hashtags: "#arms, #love, #fitnessmotivation, #healthylifestyle"
-  - username: "jennvelasquezfit"
+  - username: "antonellaamasse"
     fullname: >-
-      ᴊᴇɴɴʏ ꜰɪᴛɴᴇꜱꜱ  | ᴄᴏᴀᴄʜ 💜💪🏻
+      Antonella Massé
     bio: >-
-      Todo lo que hagas hazlo con amor 💜🥰 ᴊᴇɴɴʏ ꜰɪᴛɴᴇꜱꜱ ᴄᴏᴀᴄʜ 🏋️‍♀️/ 📸/ 🌄 ÚNETE A MI RETO DE TRANSFORMACIÓN!💪🏻🔥 Escríbeme #RETO9SEMANAS 📲 👇🏻👇🏻👇🏻
+      | 𝙼𝚎𝚍𝚒𝚌𝚒𝚗𝚊 𝚑𝚞𝚖𝚊𝚗𝚊 ⚕️👩🏽‍⚕️ | 𝘐𝘚𝘚𝘈 𝘤𝘦𝘳𝘵𝘪𝘧𝘪𝘦𝘥-𝘱𝘦𝘳𝘴𝘰𝘯𝘢𝘭 𝘵𝘳𝘢𝘪𝘯𝘦𝘳-𝘯𝘶𝘵𝘳𝘪𝘤𝘪𝘰𝘯 | 𝘔𝘪𝘴𝘴 𝘛𝘦𝘦𝘯 𝘚𝘶𝘥. 𝘐𝘯𝘵 👑 | 𝘚𝘢𝘭𝘶𝘥 𝘮𝘦𝘯𝘵𝘢𝘭 𝘺 𝘦𝘴𝘵𝘪𝘭𝘰 𝘥𝘦 𝘷𝘪𝘥𝘢 🏋🏻‍♀️🧠 | 𝘛𝘪𝘬 𝘵𝘰𝘬+700𝘬
     location: "Peru"
-    followers: 24174
-    engagement: 199
-    commentsToLikes: 0.017487
-    id: ckap4ks7w7qhh0i785ilwzrvs
+    followers: 26587
+    engagement: 437
+    commentsToLikes: 0.021268
+    id: ck5q3ih2vkw4r0i118c32t6ll
     verified: false
-    hashtags: "#goals, #gymmotivation, #goodvibes, #youcandoit"
+    hashtags: "#gimnasio, #postre, #workout, #entrenar"
 ---

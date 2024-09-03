@@ -1,11 +1,11 @@
 ---
-title: Top 10 Dancers TikTok Influencers In Thailand In 2023
+title: Top 10 Dancers TikTok Influencers In Thailand In 2024
 description: >-
-  Find top dancers TikTok influencers in Thailand in 2023. Most popular hashtags: #fyp #dancer #dance.
+  Find top dancers TikTok influencers in Thailand in 2024. Most popular hashtags: #fyp #dancer #dance.
 platform: TikTok
 hits: 14
-text_top: See the best TikTok profiles on inBeat.
-text_bottom: Our database aggregates 14 TikTok influencers like this in Thailand for you to contact.
+text_top: Identify the best TikTok profiles on inBeat.
+text_bottom: Our platform holds 14 TikTok influencers like this in Thailand for you to pitch.
 profiles:
   - username: "pond.ktp"
     fullname: >-

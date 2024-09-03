@@ -1,11 +1,11 @@
 ---
-title: Top 10 Skincare TikTok Influencers In Austria In 2023
+title: Top 10 Skincare TikTok Influencers In Austria In 2024
 description: >-
-  Find top skincare TikTok influencers in Austria in 2023. Most popular hashtags: #skincare #fyp #viral #foryou.
+  Find top skincare TikTok influencers in Austria in 2024. Most popular hashtags: #skincare #fyp #viral #foryou.
 platform: TikTok
 hits: 10
-text_top: Discover the best TikTok influencers on inBeat.
-text_bottom: Our database has 10 TikTok influencers like this in Austria for you to contact.
+text_top: Analyze the best TikTok profiles on inBeat.
+text_bottom: Our database holds 10 TikTok influencers like this in Austria for you to work with.
 profiles:
   - username: "vggdfhhbvfghbbcg"
     fullname: >-

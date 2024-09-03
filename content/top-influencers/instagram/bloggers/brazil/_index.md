@@ -1,130 +1,130 @@
 ---
-title: Top 10 Bloggers Instagram Influencers In Brazil In 2023
+title: Top 10 Bloggers Instagram Influencers In Brazil In 2024
 description: >-
-  Find top bloggers Instagram influencers in Brazil in 2023. Most popular hashtags: #ootd #lookdodia #makeup.
+  Find top bloggers Instagram influencers in Brazil in 2024. Most popular hashtags: #tbt #modafeminina #modaparameninas.
 platform: Instagram
-hits: 1320
-text_top: Analyze the most popular Instagram accounts on inBeat.
-text_bottom: Our platform aggregates 1320 Instagram influencers like this in Brazil for you to collaborate.
+hits: 1273
+text_top: Discover the most popular Instagram influencers on inBeat.
+text_bottom: Our database aggregates 1273 Instagram influencers like this in Brazil for you to collaborate.
 profiles:
-  - username: "thaislamarques"
+  - username: "yaratche"
     fullname: >-
-      Thaísla Marques
+      Yara Tchê
     bio: >-
-      Maquiadora - blogger - influencers Since 1994 - ♑️ Sonhadora - Romântica - Do Bem ❤
+      Me abraça, eu adoro! ✨ 🎙 • Cantora @desejodemenina 💻 • Empresária | Blogger 📩 • Assessoria / Publicidades e mais 🔻
     location: "Brazil"
-    followers: 12230
-    engagement: 1574
-    commentsToLikes: 1.643376
-    id: ck8t22azsxygc0j78wg11s2im
-    verified: false
-    hashtags: "#momentos, #jericoacoara, #colecionandomomentos, #semanasanta"
-  - username: "martaflores.pt"
-    fullname: >-
-      MARTA FLORES MAKEUP & BELEZA
-    bio: >-
-      🌺 MARTA FLORES 🌺 Maquilhadora • Formadora Blogger • TV Host • YouTuber 💌 info.martaflores@gmail.com #maquilhaatuavida #bafonica #juntasnabeleza
-    location: "Brazil"
-    followers: 58548
-    engagement: 405
-    commentsToLikes: 0.054981
-    id: ck6twyl4puua70j712rdf0msy
-    verified: false
-    hashtags: "#bafonica, #ficaemcasa, #glowingskin, #makeup"
-  - username: "almeida.iasmin"
-    fullname: >-
-      IASMIN 🧿
-    bio: >-
-      Engenheira com ascendente em blogger 💗 Amo moda e beleza! ✨ •Squad @zz.mall + @schutzoficial👠 •Embaixadora @mdmcreme 💞 RJ 📍 @descontinhosdaiasmin 👇🏻
-    location: "Brazil"
-    followers: 22577
-    engagement: 521
-    commentsToLikes: 0.343713
-    id: ckaotuv6txmj50i78xt7krzrf
-    verified: false
-    hashtags: "#tonoadorofarm, #schutzlovers, #moda, #challengelook"
-  - username: "lyviaroberta_"
-    fullname: >-
-      Lyvia Roberta 💕
-    bio: >-
-      💍| Lucas ✨| 18 anos 🌳| Arapiraca-AL 🙌🏼| Daughter of God 📌| Dailylife-blogger-beauty-food 🦋| Vivendo em constante metamorfose.
-    location: "Brazil"
-    followers: 8775
-    engagement: 884
-    commentsToLikes: 0.153379
-    id: ck8tauhayt3yc0j78f10meouk
-    verified: false
-    hashtags: "#tumblrgirl, #fotografia, #newpost, #mensagens"
-  - username: "anthoniathomazinisovete"
-    fullname: >-
-      Anthônia Tommasini
-    bio: >-
-      Mini Fashion Blogger ✨ • Miss Espírito Santo Beleza Facial 2020 👑 • Team @esfashionkids A magia da infância registrada em fotos🌷
-    location: "Brazil"
-    followers: 5642
-    engagement: 1449
-    commentsToLikes: 0.340207
-    id: ck8tbdv0lv9ne0j78ml8boe3n
-    verified: false
-    hashtags: "#fashion, #revistacrescer, #bloggerstyle, #fashionstyle"
-  - username: "celinaporai"
-    fullname: >-
-      Celina
-    bio: >-
-      ✳️ Blogger & Youtuber 📩 Parcerias/Partnerships ➡ Direct/Email
-    location: "Brazil"
-    followers: 13515
-    engagement: 666
-    commentsToLikes: 0.092849
-    id: ck5zn4pd9ns650i148prnwr95
-    verified: false
-    hashtags: "#di"
-  - username: "silvinhaguirra"
-    fullname: >-
-      S I L V I N H A  G U I R R A✨🧿
-    bio: >-
-      ✨ Digital Inspirer 👩‍💻Advogada com ascendente em Blogger 📌 O melhor se passa nos stories 📩 Parcerias via direct • 📆💄💼📷📚♎💎✈🌅
-    location: "Brazil"
-    followers: 15546
-    engagement: 1702
-    commentsToLikes: 0.025424
-    id: ck8t1fiiovkka0j78vcoo4l6g
-    verified: false
-    hashtags: "#fotografia, #tbt, #reelsinstagram, #mulheresquetreinampesado"
-  - username: "biancadacias"
-    fullname: >-
-      bianca dacia
-    bio: >-
-      advogada com ascendente em blogger 📍Fortaleza | CE. Contato assessoria ⤵️
-    location: "Brazil"
-    followers: 91750
-    engagement: 515
-    commentsToLikes: 0.032357
-    id: ck8sz0bmwmpg20j78hfoy1oob
-    verified: false
-    hashtags: ""
-  - username: "joanaccanteiro"
-    fullname: >-
-      𝖩𝖮𝖠𝖭𝖠 𝖢𝖠𝖭𝖳𝖤𝖨𝖱𝖮
-    bio: >-
-      22, Porto📍 › ISMAI • Mestrado em Psicologia Clínica e da Saúde Ψ › I'm that blogger who talks about mental health and fashion ⤷ NEW VIDEO
-    location: "Brazil"
-    followers: 7709
-    engagement: 671
-    commentsToLikes: 0.187999
-    id: ckf5msw7hv8im0j2323el4m4x
-    verified: false
-    hashtags: "#zaraoutfit, #neutralstyle, #ootdinspiration, #ootd"
-  - username: "miarelogio"
-    fullname: >-
-      Mia Relógio
-    bio: >-
-      🖥 O Blog da Mia | Blogger & Consultant 📩maryrelogio@gmail.com
-    location: "Brazil"
-    followers: 43595
-    engagement: 238
-    commentsToLikes: 0.083310
-    id: ck5chcld0qimg0i119t73u9jh
+    followers: 1305804
+    engagement: 444
+    commentsToLikes: 0.020024
+    id: ck134qkt3xpqz0i19n39rff0q
     verified: true
-    hashtags: "#miarelogio, #ootd, #home, #staysafe"
+    hashtags: "#meabracaeuadoro, #teresina, #desejodemenina, #caxias"
+  - username: "maarianaf_"
+    fullname: >-
+      Mariana Ferreira
+    bio: >-
+      Lifestyle Fitness • Fashion Blogger • Makeup owner: @lechic_mf ✨| @makeupmarianaf 💄 Parcerias | Contato ⤵️ Maarianaf.contato@gmail.com
+    location: "Brazil"
+    followers: 36121
+    engagement: 1029
+    commentsToLikes: 2.350361
+    id: ck9haclsqc1b80j78qy4itshk
+    verified: false
+    hashtags: "#blogueira, #reels, #looks, #lookinspira"
+  - username: "steffany_borges"
+    fullname: >-
+      Steffany Borges 🇧🇷
+    bio: >-
+      25y • Youtuber • Blogger steffanyborges@sideco.com.br cx postal 49330 cep 03806970 | SP
+    location: "Brazil"
+    followers: 1310123
+    engagement: 247
+    commentsToLikes: 0.011749
+    id: ck0u198ebw4xr0i19kixs6r69
+    verified: false
+    hashtags: "#publisl, #cachos, #salonline, #hotelemcampos"
+  - username: "camilanunes"
+    fullname: >-
+      Camila Nunes
+    bio: >-
+      Ser Coquette é ver a vida com olhos da beleza e do amor! 🎤Cantora 👩🏻‍💻Psicóloga 😂Louca do Pão 📱Blogger 🏋🏻‍♀️Crossfiteira 🎀 Coquette
+    location: "Brazil"
+    followers: 61596
+    engagement: 192
+    commentsToLikes: 0.032366
+    id: ck6ubrmfrbaud0j71391aeoxx
+    verified: false
+    hashtags: "#tbt, #ful, #2024nextchapter, #salvador"
+  - username: "ricardoalrodrigues"
+    fullname: >-
+      🐧 O PINGUIM SEM ASAS ®️
+    bio: >-
+      👉 Ricardo Rodrigues | 🇵🇹 📚 Farmacêutico | Blogger 👨‍🔬 Consultor em Dermocosmética 👇 Queres ter uma Pele e Cabelo Bonitos?
+    location: "Brazil"
+    followers: 8297
+    engagement: 182
+    commentsToLikes: 0.231657
+    id: ckaosdt0ir7qe0i78ud2hht4n
+    verified: false
+    hashtags: "#igersportugal, #opinguimsemasas, #belezareal, #peleluminosa"
+  - username: "annaflaviacruz"
+    fullname: >-
+      ANNA CRUZ ★
+    bio: >-
+      | fashion, lifestyle & business Da moda para o universo imobiliário de alto padrão. bacharela em Direito c ascendente em blogger GOOD GIRL ⚡️
+    location: "Brazil"
+    followers: 20615
+    engagement: 152
+    commentsToLikes: 0.030603
+    id: ckaowc56889se0i78kj4rs5hm
+    verified: false
+    hashtags: "#photooftheday, #lookdodia, #lookoftheday, #modafeminina"
+  - username: "samaracastro_1"
+    fullname: >-
+      SAMARA CASTRO
+    bio: >-
+      Desde 2014 • Formada em Jornalismo • Fluente em Espanhol 🎭 Blogger/Atriz 📍 De Belém do Pará 💍 @adrianofonseca_1 👩🏼‍💻 @bazarbocadetracaja 💜
+    location: "Brazil"
+    followers: 294729
+    engagement: 107
+    commentsToLikes: 0.029830
+    id: ck14hqp3wbnej0i199zdzr86a
+    verified: false
+    hashtags: "#dicasbel, #dicasdecomida, #raiorastreadores, #tbt"
+  - username: "ckrusch"
+    fullname: >-
+      Claudia Krusch
+    bio: >-
+      Lifestyle Blogger, Trendy Brazilian Brand Ambassador Girl Boss Living A Busy Life in NY-NJ-PA claudia@trendylatina.com #Cars #Travel #Tech 🌱
+    location: "Brazil"
+    followers: 56126
+    engagement: 80
+    commentsToLikes: 0.094186
+    id: ckf5ozz784gy40j23zxz9dl25
+    verified: false
+    hashtags: "#ketolifestyle, #weightlossjourney, #keto, #ad"
+  - username: "diana"
+    fullname: >-
+      Diana Santana
+    bio: >-
+      YHWH 🏹💫 Modelo🇧🇷 Blogger🌍34 countries Ex Assistente de palco DOMINGO LEGAL📺 Tiktok:Dianaofc0 Job📲(11)3151-5868 📧diana@mmestrategiadeimagem.com.br
+    location: "Brazil"
+    followers: 1388024
+    engagement: 73
+    commentsToLikes: 0.042122
+    id: ck0vy64kw2eod0i19dzr7x3yk
+    verified: true
+    hashtags: "#brown, #surreal, #felizdiadasmulheres, #tbt"
+  - username: "luisabnava"
+    fullname: >-
+      LUISA NAVA 🇧🇷
+    bio: >-
+      Blogger • Fashion • LifeStyle ✉️ luisabastosnava@gmail.com Caixa Postal 91 • CEP 95270-000 RS📍
+    location: "Brazil"
+    followers: 99343
+    engagement: 75
+    commentsToLikes: 0.102123
+    id: ck15qwx3r51hx0i190i83gy5c
+    verified: false
+    hashtags: "#summerisdin, #aerolook, #grwm, #zzmall"
 ---

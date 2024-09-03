@@ -1,11 +1,11 @@
 ---
-title: Top 10 Rappers TikTok Influencers In Germany In 2023
+title: Top 10 Rappers TikTok Influencers In Germany In 2024
 description: >-
-  Find top rappers TikTok influencers in Germany in 2023. Most popular hashtags: #foryou #love #fy #viral.
+  Find top rappers TikTok influencers in Germany in 2024. Most popular hashtags: #foryou #love #rap #fy.
 platform: TikTok
 hits: 42
-text_top: Identify the most popular TikTok influencers on inBeat.
-text_bottom: inBeat aggregates 42 TikTok influencers like this in Germany for you to pitch.
+text_top: Analyze the most popular TikTok profiles on inBeat.
+text_bottom: Our database has 42 TikTok influencers like this in Germany for you to collaborate.
 profiles:
   - username: "fero47"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.018538
     id: cka86wwro4ftk0i78s8gcaom4
     verified: true
-    hashtags: "#schaumichan, #dubistanders, #fero47, #challange"
+    hashtags: "#fero47, #dubistanders, #challange, #schaumichan"
   - username: "kayefofficial"
     fullname: >-
       kayefofficial
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.017040
     id: ck9m4hrrkkc8v0j78put74nmu
     verified: true
-    hashtags: "#nono, #seitduwegbist, #2uhrnachts, #kayef"
+    hashtags: "#kayef, #nono, #seitduwegbist, #2uhrnachts"
   - username: "shilabankii"
     fullname: >-
       S H I L A 

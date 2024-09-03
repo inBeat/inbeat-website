@@ -1,11 +1,11 @@
 ---
-title: Top 10 Lifestyle TikTok Influencers In Brazil In 2023
+title: Top 10 Lifestyle TikTok Influencers In Brazil In 2024
 description: >-
-  Find top lifestyle TikTok influencers in Brazil in 2023. Most popular hashtags: #foryou #fyp #lifestyle #viral.
+  Find top lifestyle TikTok influencers in Brazil in 2024. Most popular hashtags: #foryou #fyp #tiktokfashion #lifestyle.
 platform: TikTok
 hits: 74
-text_top: Discover the best TikTok influencers on inBeat.
-text_bottom: Our search engine aggregates 74 TikTok influencers like this in Brazil for you to pitch.
+text_top: Discover the top-rated TikTok profiles on inBeat.
+text_bottom: Our search engine has 74 TikTok influencers like this in Brazil for you to pitch.
 profiles:
   - username: "teacherosanna"
     fullname: >-

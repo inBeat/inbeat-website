@@ -1,11 +1,11 @@
 ---
-title: Top 10 Bloggers TikTok Influencers In Chicago In 2023
+title: Top 10 Bloggers TikTok Influencers In Chicago In 2024
 description: >-
-  Find top bloggers TikTok influencers in Chicago in 2023. Most popular hashtags: #chicago #fyp #foryoupage #millennial.
+  Find top bloggers TikTok influencers in Chicago in 2024. Most popular hashtags: #fyp #chicago #foryoupage #funny.
 platform: TikTok
-hits: 7
-text_top: Identify the most popular TikTok accounts on inBeat.
-text_bottom: Our database has 7 TikTok influencers like this in Chicago, United States for you to connect with.
+hits: 6
+text_top: Discover the top-rated TikTok influencers on inBeat.
+text_bottom: Our platform holds 6 TikTok influencers like this in Chicago, United States for you to collaborate.
 profiles:
   - username: "312food"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.034561
     id: cka0ke8zem4dn0i78w54doz9r
     verified: false
-    hashtags: "#chicago, #chicagofood, #chicagotok, #cheese"
+    hashtags: "#coffee, #cheese, #chicago, #chicagotok"
   - username: "abbyontheblock"
     fullname: >-
       abbyontheblock
@@ -37,12 +37,12 @@ profiles:
     bio: >-
       my tiktoks are random CPA From Texas Live in Chicago
     location: "United States"
-    followers: 24500
-    engagement: 1451
-    commentsToLikes: 0.024428
+    followers: 24200
+    engagement: 1644
+    commentsToLikes: 0.020463
     id: ckb9dh1v90t2j0j236uboevgm
     verified: false
-    hashtags: "#beautyreview, #fyp, #dog, #accounting"
+    hashtags: "#fyp, #snoozzzapalooza, #dog, #xyzbca"
   - username: "houseofhipsters"
     fullname: >-
       Kyla  |  Home Decor Blogger
@@ -79,18 +79,6 @@ profiles:
     id: ck7zoyy65mjqn0j78k7xxnv62
     verified: false
     hashtags: "#weddingguestdress, #hellospring, #springoutfit, #denim"
-  - username: "bethereinfive"
-    fullname: >-
-      bethereinfive
-    bio: >-
-      Pop culture commentator, entrepreneur, author & host of Be There in Five Podcast
-    location: "United States"
-    followers: 18400
-    engagement: 889
-    commentsToLikes: 0.018425
-    id: ckal65xji9gvn0i78u2z0ji6b
-    verified: false
-    hashtags: "#dolls, #election2020, #millennial, #nostalgia"
   - username: "joeynjasmin"
     fullname: >-
       JoeyNJasmin
@@ -114,7 +102,7 @@ profiles:
     commentsToLikes: 0.107278
     id: ckb9l759odil60j23jr58e09v
     verified: false
-    hashtags: "#blackmenwithstyle, #over40tiktok, #fitover40, #weightlossjourney"
+    hashtags: "#fitover40, #weightlossjourney, #tiktokover40, #over40tiktok"
   - username: "roseybeeme"
     fullname: >-
       roseybeeme
@@ -126,5 +114,17 @@ profiles:
     commentsToLikes: 0.018203
     id: ckbkt9b67o7b90j2365lztfrp
     verified: false
-    hashtags: "#plussize, #freefreedance, #plussizeedition, #plussizestyle"
+    hashtags: "#plussizestyle, #freefreedance, #plussize, #plussizeedition"
+  - username: "espressofied"
+    fullname: >-
+      espressofied
+    bio: >-
+      Caffeinated Blogger • Double Organ Transplant Warrior • Modern Exec • Ambassador
+    location: "United States"
+    followers: 10100
+    engagement: 2518
+    commentsToLikes: 0.039776
+    id: ckd0r71roig8x0j2337p9n4et
+    verified: false
+    hashtags: "#fyp, #isthisavailable, #trulyglowingselfielove, #americanlife"
 ---

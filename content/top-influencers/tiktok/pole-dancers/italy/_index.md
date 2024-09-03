@@ -1,11 +1,11 @@
 ---
-title: Top 10 Pole Dancers TikTok Influencers In Italy In 2023
+title: Top 10 Pole Dancers TikTok Influencers In Italy In 2024
 description: >-
-  Find top pole dancers TikTok influencers in Italy in 2023. Most popular hashtags: #poledancing #poledance #poledancer #dance.
+  Find top pole dancers TikTok influencers in Italy in 2024. Most popular hashtags: #poledancing #poledance #poledancer #perte.
 platform: TikTok
 hits: 9
-text_top: Identify the best TikTok accounts on inBeat.
-text_bottom: Our search engine holds 9 TikTok influencers like this in Italy for you to pitch.
+text_top: Analyze the most popular TikTok accounts on inBeat.
+text_bottom: Our database holds 9 TikTok influencers like this in Italy for you to pitch.
 profiles:
   - username: "namypro"
     fullname: >-

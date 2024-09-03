@@ -1,11 +1,11 @@
 ---
-title: Top 10 Architecture Instagram Influencers In Austria In 2023
+title: Top 10 Architecture Instagram Influencers In Austria In 2024
 description: >-
-  Find top architecture Instagram influencers in Austria in 2023. Most popular hashtags: #wien #austria #vienna #igersvienna.
+  Find top architecture Instagram influencers in Austria in 2024. Most popular hashtags: #architecture #igersvienna #wien #vienna.
 platform: Instagram
-hits: 26
-text_top: Analyze the most popular Instagram profiles on inBeat.
-text_bottom: Our database holds 26 Instagram influencers like this in Austria for you to collaborate.
+hits: 35
+text_top: Identify the top-rated Instagram profiles on inBeat.
+text_bottom: Our database holds 35 Instagram influencers like this in Austria for you to connect with.
 profiles:
   - username: "robz_shotz"
     fullname: >-
@@ -13,12 +13,12 @@ profiles:
     bio: >-
       I love photography and coffee! • Vienna📍🇦🇹 •Dad🎈🎈 •2nd @robz_carz •📷 Canon Eos R5/Leica •Architecture•Street•Urbex•Nature •DM for collaboration!
     location: "Austria"
-    followers: 10675
-    engagement: 1124
-    commentsToLikes: 0.106697
+    followers: 13615
+    engagement: 503
+    commentsToLikes: 0.091846
     id: ck15ub7wqmbn90i19kclm2lef
     verified: false
-    hashtags: "#supremeshutter, #leicacameraaustria, #ig, #bokehobsessed"
+    hashtags: "#electic, #leica, #fujilovers, #toneception"
   - username: "landscapes_nd_more"
     fullname: >-
       Christian Freiwald
@@ -37,12 +37,12 @@ profiles:
     bio: >-
       📍“Don’t shoot what it looks like. Shoot what it feels like.” 📍Passion for photos, cars, architecture, travel, coffee, rum & the good things in life.
     location: "Austria"
-    followers: 4592
-    engagement: 616
-    commentsToLikes: 0.028976
+    followers: 4327
+    engagement: 476
+    commentsToLikes: 0.038985
     id: ck6tn9uwj9f540j71fwib2oo3
     verified: false
-    hashtags: "#blackandwhite, #visitvienna, #m43movement, #micro43photography"
+    hashtags: "#franken, #daylight, #cloudysky, #sunshine"
   - username: "austrianpixelstory"
     fullname: >-
       Mike
@@ -55,6 +55,18 @@ profiles:
     id: ck6ttjz5bb1dz0j7164xtfyem
     verified: false
     hashtags: "#portraitoftheday, #static, #sonyalphasclub, #doports"
+  - username: "missangievilla"
+    fullname: >-
+      Angie Villa
+    bio: >-
+      Luxury Travel, Lifestyle & Experiences Inspo for your next vacation ✈️ My Photo Filters @jeremyandangiepresets Learn from me @thecreatorretreat
+    location: "Austria"
+    followers: 552699
+    engagement: 60
+    commentsToLikes: 0.007112
+    id: ck0tux8ya92uo0i19npih7dwy
+    verified: false
+    hashtags: "#soelden, #austria, #ski, #italianalps"
   - username: "danimelanzani"
     fullname: >-
       D A N I E L A  🌸
@@ -66,7 +78,7 @@ profiles:
     commentsToLikes: 0.122261
     id: ckf5m3dcys37j0j23rsbejmjp
     verified: false
-    hashtags: "#architectureanddesign, #smilegirl, #architecture, #xmasdecorations"
+    hashtags: "#srbijaslike, #smilegirl, #winteroutfit, #winterstyle"
   - username: "twenty.three.pictures"
     fullname: >-
       MłКΞ • 23 PłϾ • VłΞ
@@ -78,7 +90,7 @@ profiles:
     commentsToLikes: 0.078925
     id: ck6trl90pzmvz0j714kd3ypmx
     verified: false
-    hashtags: "#wienerlinien, #symmetryphotography, #clickcity, #skyscraping"
+    hashtags: "#wienmalanders, #raw, #vienna, #sky"
   - username: "lightreflections_vienna"
     fullname: >-
       Ulrike 📸 Vienna, Austria 🇦🇹
@@ -97,34 +109,22 @@ profiles:
     bio: >-
       📸 photographer | landscapes | city | people | portrait 🏠 austria 🇦🇹 | vienna 🎡| styria 💚
     location: "Austria"
-    followers: 6624
-    engagement: 1224
-    commentsToLikes: 0.057623
+    followers: 6694
+    engagement: 968
+    commentsToLikes: 0.052847
     id: ck8tb9ru3uuhd0j78r6me2r0v
     verified: false
-    hashtags: "#weloveaustria, #naturephoto, #meinniedero, #bluehour"
+    hashtags: "#architecturephotography, #sunsetphotography, #landschaftsfotografie, #sunsetvision"
   - username: "piapi.a"
     fullname: >-
       Pia Pi.
     bio: >-
-      ✖️Perceptualist ✖️Minimalist ✖️Philosopher 💌 for collaborations and prints 🌐 piapivec.com
+      👩🏻‍🎨Creative Director ✖️Perceptualist ✖️Minimalist ✖️Philosopher 💌 for collaborations and prints
     location: "Austria"
-    followers: 4120
-    engagement: 1487
-    commentsToLikes: 0.093803
+    followers: 4055
+    engagement: 1544
+    commentsToLikes: 0.082889
     id: ck8t9e4qunraq0j78joz9rbxy
     verified: false
-    hashtags: "#minimalist, #digitalart, #rsa, #minimalobsession"
-  - username: "aesthetical_symphonies"
-    fullname: >-
-      AESTHETICAL SYMPHONIES
-    bio: >-
-      Dedicated to the Celebration of Europe's Otherworldly Artistic and Architectural Magnificence and Majesty as seen through my photography. ⚜🎼 Vienna
-    location: "Austria"
-    followers: 19331
-    engagement: 381
-    commentsToLikes: 0.015627
-    id: ck14j2fuiiaic0i19ssz3xr2l
-    verified: false
-    hashtags: "#victorian, #paintings, #khm, #ancientrome"
+    hashtags: "#curated, #lightzine, #minimalist, #digitalcollage"
 ---

@@ -1,24 +1,36 @@
 ---
-title: Top 10 Skincare Instagram Influencers In Venezuela In 2023
+title: Top 10 Skincare Instagram Influencers In Venezuela In 2024
 description: >-
-  Find top skincare Instagram influencers in Venezuela in 2023. Most popular hashtags: #venezuela #skincare #caracas #makeup.
+  Find top skincare Instagram influencers in Venezuela in 2024. Most popular hashtags: #skincare #makeup #beauty #maquillaje.
 platform: Instagram
-hits: 22
-text_top: Identify the most popular Instagram profiles on inBeat.
-text_bottom: inBeat has 22 Instagram influencers like this in Venezuela for you to connect with.
+hits: 30
+text_top: Identify the best Instagram profiles on inBeat.
+text_bottom: Our database aggregates 30 Instagram influencers like this in Venezuela for you to contact.
 profiles:
   - username: "cuidartesamarte"
     fullname: >-
       Andria Viloria Lubo
     bio: >-
-      Holistic Health coach ✨🌈🦋🧖🏽‍♀️🥰 Inspirando Bienestar a través del amor Shop @nyotaskin lifestyle, skincare, wellness, travel, self-care
+      ✨creadora @nyotaskin 🌈holistic health coach 🦋lifestyle, skincare, travel, self-care
     location: "Venezuela"
-    followers: 110367
-    engagement: 410
-    commentsToLikes: 0.139324
+    followers: 190846
+    engagement: 564
+    commentsToLikes: 0.016536
     id: ck5c6oaaa5ur00i11e4weo1ma
     verified: false
-    hashtags: "#cuidartesamarte, #makeup, #skincare, #24"
+    hashtags: "#perfumes, #scentoftheday, #makeup, #consejodehermanamayor"
+  - username: "cromanticstore"
+    fullname: >-
+      𝗖𝗥𝗢𝗠𝗔𝗡𝗧𝗜𝗖®
+    bio: >-
+      🩵 TOP 1 de Makeup 🩷 Marcas 100% originales 💛Cuidado capilar 🧡SkinCare 💚 WhatsApp: 3175730288 ❤️ Envíos a todo Colombia
+    location: "Venezuela"
+    followers: 271737
+    engagement: 4
+    commentsToLikes: 0.055017
+    id: ck14k065in1zv0i1921tu0prs
+    verified: false
+    hashtags: "#beautyfestivalcromantic, #cu, #cabello, #cuidadocapilar"
   - username: "itsgardeniia"
     fullname: >-
       𝐶𝑜𝑚𝑜 𝐿𝑎 𝐹𝑙𝑜𝑟 🌸
@@ -31,6 +43,30 @@ profiles:
     id: ck6031hw7kh1o0i14cw6m7kxa
     verified: false
     hashtags: "#latina, #puertoordaz, #workhard, #ciudadguayana"
+  - username: "cottyconcha"
+    fullname: >-
+      Constanza Concha
+    bio: >-
+      ✨️AMOR PROPIO Y BODY CONFIDENCE 💌Contact: cottyconcha@gmail.com COME AND TRAVEL WITH ME! 🩷📣👇
+    location: "Venezuela"
+    followers: 82346
+    engagement: 5962
+    commentsToLikes: 0.018236
+    id: ck14hkb1taqql0i19bjkj6wyd
+    verified: false
+    hashtags: "#feminism, #positivity, #selfcare, #makeup"
+  - username: "carelquezada"
+    fullname: >-
+      C a r e l  Q u e z a d a💕
+    bio: >-
+      🤍Let all that you do be done in love• 1Co16:14 💄Makeup | FAITH ✨TIK TOK +3.6M ➕@eresvirtuosaonline 💌carelquezada@gmail.com
+    location: "Venezuela"
+    followers: 266062
+    engagement: 211
+    commentsToLikes: 0.016328
+    id: ck6ud9ysljw7u0j71roknow1s
+    verified: false
+    hashtags: "#maquillaje, #skincare, #makeup, #publicidad"
   - username: "paolabrigli"
     fullname: >-
       Paola Brigli
@@ -67,64 +103,28 @@ profiles:
     id: ck5zwzsqt72g80i14t1ce2kfk
     verified: false
     hashtags: "#skincare, #caracascity, #cuarentenaradical, #covid19venezuela"
-  - username: "claurondon1"
+  - username: "beautybymarthap"
     fullname: >-
-      Claudia Rondón 👑
+      Martha Patricia | Makeup Artist & Content Creator
     bio: >-
-      Aquí ves lo que te quiero mostrar 👀 📚| Est. Ing. Industrial 🐶| @meghanpug @elresuelvee 📲| Publicidad RRSS (¡Aquí es!) 🇻🇪| Monagas
+      Makeup | Beauty | Lifestyle 🦋🌸🌈 Trujillo - Florida AD/PR: beautybymarthap@gmail.com CEO: @elsalon_studio @marthapshop 💕
     location: "Venezuela"
-    followers: 10454
-    engagement: 307
-    commentsToLikes: 0.027087
-    id: ck6ufiu00xb620j71mkcvi27h
+    followers: 4516
+    engagement: 856
+    commentsToLikes: 0.064605
+    id: ck6tibv6z0fa70j710p3egnhz
     verified: false
-    hashtags: "#vzla, #anzoategui, #cabellos, #salondebelleza"
-  - username: "dianavasquezve"
+    hashtags: "#makeupinspo, #physiciansformula, #beautybymarthap, #todaysmakeup"
+  - username: "valvieitez"
     fullname: >-
-      DIANA VASQUEZ (ÚNICA CUENTA)
+      VALVI | Fitness Lifestyle
     bio: >-
-      📺 Reportera @noticierovenevision 🎧 Locutora UCV 💪🏼 Fitness Girl 👩🏻‍💻 Redacto Notas de Salud ⤵️
+      #NoEsSudorEsBrillo 🏅ISSA Certified Personal Trainer ✨FOUNDER @noessudoresbrillo_box ⬇️CONOCE MI RETO VIRTUAL #teamjamones #jumprope
     location: "Venezuela"
-    followers: 31557
-    engagement: 658
-    commentsToLikes: 0.096774
-    id: ck8tdsjan4m2c0j78m724dumc
+    followers: 54009
+    engagement: 276
+    commentsToLikes: 0.031143
+    id: ck6tlreim6i3j0j711uy2dof3
     verified: false
-    hashtags: "#instagood, #journalist, #workoutmotivation, #cuarentenacreativa"
-  - username: "guerrerodaniela27"
-    fullname: >-
-      Daniela Guerrero 💕
-    bio: >-
-      Caracas-Venezuela 🇻🇪.
-    location: "Venezuela"
-    followers: 3101
-    engagement: 1171
-    commentsToLikes: 0.083451
-    id: ck9hcafg6ki3d0j78b2uaua1k
-    verified: false
-    hashtags: "#photoshoot, #caracasvnzla, #lasdosciudades, #guarenas"
-  - username: "ceciliamendez"
-    fullname: >-
-      𝐜𝐞𝐜𝐢
-    bio: >-
-      19┊using my face as a sketchbook
-    location: "Venezuela"
-    followers: 4871
-    engagement: 1634
-    commentsToLikes: 0.164764
-    id: ck5hennw8tv4f0i117lsmxxop
-    verified: false
-    hashtags: "#avantgardemakeup, #macromakeup, #aestheticmakeup, #tiktokmakeup"
-  - username: "rossmonasterios"
-    fullname: >-
-      ♥Lifestyle+SelfCare♥
-    bio: >-
-      🤸🏽‍♀️ejercicios💪🏼motivación💕Amor propio🧿Cuidado de la piel🧖🏽‍♀️ 🎬TvHost @espectaculos_gv Embajadora⚡️ @tripleplusve
-    location: "Venezuela"
-    followers: 68757
-    engagement: 188
-    commentsToLikes: 0.072197
-    id: ck5zzon1qc4tq0i14lez1q6u9
-    verified: false
-    hashtags: "#rossmonasterios, #valentineday, #saturday, #suplementos"
+    hashtags: "#wellness, #workout, #farmatodo, #healthy"
 ---

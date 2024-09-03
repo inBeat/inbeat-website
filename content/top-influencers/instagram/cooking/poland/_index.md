@@ -1,12 +1,48 @@
 ---
-title: Top 10 Cooking Instagram Influencers In Poland In 2023
+title: Top 10 Cooking Instagram Influencers In Poland In 2024
 description: >-
-  Find top cooking Instagram influencers in Poland in 2023. Most popular hashtags: #instagood #makeup #instaphoto #fashion.
+  Find top cooking Instagram influencers in Poland in 2024. Most popular hashtags: #polishgirl #instagood #food #smile.
 platform: Instagram
-hits: 242
-text_top: Identify the top-rated Instagram accounts on inBeat.
-text_bottom: Our search engine aggregates 242 Instagram influencers like this in Poland for you to contact.
+hits: 254
+text_top: See the best Instagram profiles on inBeat.
+text_bottom: Our search engine holds 254 Instagram influencers like this in Poland for you to connect with.
 profiles:
+  - username: "alisatsitseronova"
+    fullname: >-
+      Alisa Tsitseronova
+    bio: >-
+      Dancer, Choreographer | Vegan for the animals🌱 📍Tallinn, Estonia Booking&collabs: alisatsitseronova@gmail.com @vegaliciousfoods cooking account👩🏻‍🍳
+    location: "Poland"
+    followers: 122619
+    engagement: 337
+    commentsToLikes: 0.012918
+    id: ck0vvexfoou220i19st6jqnry
+    verified: false
+    hashtags: "#alisaandjoseph, #choreography, #alisatsitseronova, #jlo"
+  - username: "paulaa_fitness"
+    fullname: >-
+      Paulaa - Paulina Śmietanka
+    bio: >-
+      🤸🏼‍♀️ fit lover & 👩🏼‍🍳 cooking lover @sklep.sfd ambasador ➡️ -10% PAULAA_FITNESS 📍Warszawa
+    location: "Poland"
+    followers: 35010
+    engagement: 262
+    commentsToLikes: 0.029148
+    id: ck0udjrolj9670i191a6spd0s
+    verified: false
+    hashtags: "#smile, #foodie, #polishgirl, #jednoporcjowe"
+  - username: "agabrady"
+    fullname: >-
+      ᴀ ɢ ᴀ | ʙ ʀ ᴀ ᴅ ʏ
+    bio: >-
+      Certified Personal Trainer 📖 Passionate about nutrition 🍇 Plant-based cooking and recipes🥕🍓🍏🥑 Flexible dieting 🥗🍕🥑 Redhead from IRE🇮🇪 + PL🇵🇱 Married💍
+    location: "Poland"
+    followers: 9861
+    engagement: 196
+    commentsToLikes: 0.042422
+    id: ckapa1wrfudvp0i78bn14aqmo
+    verified: false
+    hashtags: "#notanadd, #gingers, #polskamodelka, #dublingirl"
   - username: "monika_mielnicka_official"
     fullname: >-
       Monika Mielnicka
@@ -19,18 +55,6 @@ profiles:
     id: ck8t2rspu0h6u0j78h9lr11fn
     verified: false
     hashtags: "#soon, #christmas, #memories, #mjakmi"
-  - username: "thirtyfashionblog"
-    fullname: >-
-      Magdalena Antosiewicz
-    bio: >-
-      Moj najnowszy 👍 Fashionbloger , Youtuber Thirtyfashionvlog, Travel, Cooking - follow me: 📩 kontakt mag.antosiewicz@gmail.comt
-    location: "Poland"
-    followers: 70408
-    engagement: 188
-    commentsToLikes: 0.098754
-    id: ck0w5hvwa3q600i19ybr20do6
-    verified: false
-    hashtags: "#smile, #me, #fashion, #lovemylife"
   - username: "_kaarolllinaaa_"
     fullname: >-
       Karolina
@@ -103,28 +127,4 @@ profiles:
     id: ck5zx1wl176s60i14htfc812u
     verified: false
     hashtags: "#summer, #love, #lanzarote, #jagoda"
-  - username: "aga_i_dom"
-    fullname: >-
-      
-    bio: >-
-      *pieczenie *gotowanie *dom *ogród *cooking *baking *home *gardening *England in my ❤️🇬🇧. Don’t copy my pics. Agnieszka, Poland📩 redmore@poczta.onet.pl
-    location: "Poland"
-    followers: 28009
-    engagement: 247
-    commentsToLikes: 0.041138
-    id: ckf5oqo9j3ech0j233us8cf4p
-    verified: false
-    hashtags: "#obiad, #delicious, #goodfood, #cook"
-  - username: "karolinafig"
-    fullname: >-
-      Karolina ❤
-    bio: >-
-      Podlasie/PL LIFESTYLE 😊 nails 💅coffee☕ books📚 Cosmetics💄ukulele 🪕🎶 handmade 🧶🧵cooking 🍳🧁 socialworker👥🦸 Współpraca: karolinafig1@op.pl lub DM 📩
-    location: "Poland"
-    followers: 8326
-    engagement: 895
-    commentsToLikes: 0.030911
-    id: ckf5pfbtt5w3s0j23m7b3g3h0
-    verified: false
-    hashtags: "#naturalbeauty, #bookstagrampl, #czytaniejestfajne, #nails"
 ---

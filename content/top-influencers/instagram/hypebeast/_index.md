@@ -1,36 +1,72 @@
 ---
-title: Top 10 Hypebeast Instagram Influencers In 2023
+title: Top 10 Hypebeast Instagram Influencers In 2024
 description: >-
-  Find top hypebeast Instagram influencers in 2023. Most popular hashtags: #bukuphoto #airjordan #fashioninspo.
+  Find top hypebeast Instagram influencers in 2024. Most popular hashtags: #homedecor #luxury #luxuryhomes.
 platform: Instagram
 hits: 2156
-text_top: See the most popular Instagram accounts on inBeat.
-text_bottom: inBeat holds 2156 Instagram influencers like this for you to contact.
+text_top: See the most popular Instagram profiles on inBeat.
+text_bottom: inBeat holds 2156 Instagram influencers like this for you to connect with.
 profiles:
   - username: "mohamedalsafar"
     fullname: >-
       Mohamed Al Safar
     bio: >-
       Just Your Friendly Neighborhood Hypebeast 📍Dubai | Los Angeles | Bahrain ▶️ YouTube: Mohamed Al Safar TikTok: Mohamed.AlSafar Blessed 👨‍👩‍👧‍👦 🇧🇭
-    location: "United Arab Emirates"
-    followers: 59550
-    engagement: 1169
-    commentsToLikes: 0.063302
+    location: "United States"
+    followers: 61344
+    engagement: 990
+    commentsToLikes: 0.021547
     id: ckap23xcrx9g10i78h9qs7t75
     verified: false
-    hashtags: "#selectshopframe, #framerelease, #nikesbdxb, #frameskate"
-  - username: "sultanofficial"
+    hashtags: "#sneakerhead, #hypebeast, #virgilabloh, #sneakers"
+  - username: "iamisabellajohnson"
     fullname: >-
-      Vikrant Negi
+      Bella Johnson
     bio: >-
-      A&R @universalmusicindia 💽 Hip Hop Influencer By Proficiency ♟ Hypebeast By Preference 👟 Youtuber By Passion 📷
-    location: "United States"
-    followers: 17622
-    engagement: 737
-    commentsToLikes: 0.069272
-    id: ck602n0lli2tk0i14bj8qhwsx
+      📍MCR Your online bestie 🌸🧞‍♀️🌈 Mental health advocate, Dancer & Host 💘 My Hypebeast home @bellahomeedit 🛋 💌: Olivia.francis@thefifthagency.com
+    location: "United Kingdom"
+    followers: 33240
+    engagement: 313
+    commentsToLikes: 0.032905
+    id: clllt8lligy0h0j08s1uzuysz
     verified: false
-    hashtags: "#hiphopmusic, #knowhype, #knowhiphop, #fashioninfulencer"
+    hashtags: "#ad, #mentalhealth, #explorepage, #ootd"
+  - username: "naviahluwalia"
+    fullname: >-
+      N A V I     A H L U W A L I A
+    bio: >-
+      editor @hypebae @hypebeast writer, speaker + trend reporter 📧 navi.ahluwalia@hypebae.com
+    location: ""
+    followers: 6395
+    engagement: 300
+    commentsToLikes: 0.044533
+    id: clt7g5b4uleyd0k087k2lprjq
+    verified: false
+    hashtags: "#parishilton, #parisfashionweek, #balenciaga"
+  - username: "peachyden"
+    fullname: >-
+      PEACHY
+    bio: >-
+      LONDON 📍Hypebeast Flea @ Truman Brewery, Shoreditch, September 9th - 10th
+    location: "United Kingdom"
+    followers: 128536
+    engagement: 154
+    commentsToLikes: 0.012372
+    id: cl4co15gxosbc0i23rmolq1rr
+    verified: false
+    hashtags: ""
+  - username: "gmjinterior"
+    fullname: >-
+      GMJ | INTERIOR + ARCHITECTURE
+    bio: >-
+      #BORNTOBEDETAIL #LUXURYMODERNDESIGN #NOLIGHTNOBEAUTY #HYPEBEASTINTERIOR 🟣Worldwide Service 🟣Design & Build 🟣Residence / Office / Commercial
+    location: "Indonesia"
+    followers: 365424
+    engagement: 99
+    commentsToLikes: 0.007480
+    id: ckaozrrwan4bj0i78g4f6a2r0
+    verified: false
+    hashtags: "#bedroom, #homedecor, #decor, #modernelegance"
   - username: "thesupreme_connect"
     fullname: >-
       Marino
@@ -91,40 +127,4 @@ profiles:
     id: ck55p8fz5a10n0i119qii9mbl
     verified: false
     hashtags: "#streetstyle, #gshock, #absolutetoughness, #ga900"
-  - username: "munich_style"
-    fullname: >-
-      Max
-    bio: >-
-      Hypebeast ✉️ munich_style@gmx.de
-    location: "Germany"
-    followers: 79396
-    engagement: 236
-    commentsToLikes: 0.015614
-    id: ck0w431iqwk3a0i19gn455851
-    verified: false
-    hashtags: "#clubmasongarments, #nintendo, #nintendode, #masongarments"
-  - username: "bukunmigrace"
-    fullname: >-
-      B U K U N M I
-    bio: >-
-      🕊 Artist | Clients Incld | Adobe.Amex.Complex.Everlane.Highsnobiety.Hypebeast Instagram.Lululemon.Maserati.Martell.Nike.Puma.Vogue etc.
-    location: "United States"
-    followers: 90947
-    engagement: 161
-    commentsToLikes: 0.077064
-    id: ck5bznzrhris40i114nqueagf
-    verified: true
-    hashtags: "#instadaily, #work, #stylist, #photography"
-  - username: "itscolinmiller"
-    fullname: >-
-      colin miller
-    bio: >-
-      los angeles photographer / film maker featured on @rollingstone, @highsnobiety, @hypebeast + more. booking: colinmillermedia@gmail.com
-    location: "United States"
-    followers: 12600
-    engagement: 445
-    commentsToLikes: 0.017936
-    id: ck0u7aweg46hj0i191jf8hrpq
-    verified: false
-    hashtags: ""
 ---

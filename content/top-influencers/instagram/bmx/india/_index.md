@@ -1,12 +1,24 @@
 ---
-title: Top 10 Bmx Instagram Influencers In India In 2023
+title: Top 10 Bmx Instagram Influencers In India In 2024
 description: >-
-  Find top bmx Instagram influencers in India in 2023. Most popular hashtags: #bmx #bikes #reels #gopro.
+  Find top bmx Instagram influencers in India in 2024. Most popular hashtags: #bmx #bikes #reels #viral.
 platform: Instagram
-hits: 15
-text_top: See the top-rated Instagram profiles on inBeat.
-text_bottom: Our search engine aggregates 15 Instagram influencers like this in India for you to collaborate.
+hits: 14
+text_top: Analyze the most popular Instagram influencers on inBeat.
+text_bottom: inBeat holds 14 Instagram influencers like this in India for you to work with.
 profiles:
+  - username: "yusufbmx"
+    fullname: >-
+      Yusuf Shaikh
+    bio: >-
+      Pro Bmx rider (India’s Gold Medalist )🥇🏆 Team : @teamd17 📧 email for promotion and collaboration
+    location: "India"
+    followers: 5043035
+    engagement: 135
+    commentsToLikes: 0.003177
+    id: ck13ayi15st440i19yr7gproq
+    verified: false
+    hashtags: "#vibes, #trendingreels, #practice, #healthy"
   - username: "jaspalbmx_8e"
     fullname: >-
       JASPAL BMX 🚴‍♂️
@@ -19,6 +31,18 @@ profiles:
     id: ck8wcxownd50d0j78c4eyyjqn
     verified: false
     hashtags: "#tiki, #bestoftheday, #like, #bmxpark"
+  - username: "wazid_mtbfreestyle"
+    fullname: >-
+      Sheikh Wazid Ali
+    bio: >-
+      Pro MTB freestyle athlete 🚴 YouTuber 🇮🇳 1.7 MILLION Best in the game 🔝 @teaminfinityriderzz @gopro @redbull @hyperice Paid collabs 📩 Subscribe👇
+    location: "India"
+    followers: 99481
+    engagement: 2222
+    commentsToLikes: 0.009078
+    id: ck5zm5wjslykp0i14893sgkii
+    verified: false
+    hashtags: "#bikes, #cyclinglife, #viral, #reels"
   - username: "sebin_madz"
     fullname: >-
       SEBIN MADZ
@@ -31,30 +55,6 @@ profiles:
     id: ck9wilr6z2ugv0j78mcqh4k4l
     verified: false
     hashtags: "#insane, #wheelie, #reelsinstagram, #trending"
-  - username: "wazid_mtbfreestyle"
-    fullname: >-
-      Sheikh Wazid Ali
-    bio: >-
-      Pro MTB freestyle athlete 🚴‍♂️ Best in the game 🔝 @teaminfinityriderzz @gopro @redbull @hyperice DM for paid collabs 📩 YouTuber 🇮🇳 200K Subscribe 👇🏻
-    location: "India"
-    followers: 105164
-    engagement: 512
-    commentsToLikes: 0.017832
-    id: ck5zm5wjslykp0i14893sgkii
-    verified: false
-    hashtags: "#gopro, #fixedgear, #explore, #rain"
-  - username: "neelstunts"
-    fullname: >-
-      Neel Patel 🇮🇳
-    bio: >-
-      🚲 MTB FREESTYLE 🏅 Individual Athlete Supported By Redbull, Gujarat ✨ AR Creator 📍 SURAT 📩 neelpatel655@gmail.com
-    location: "India"
-    followers: 43134
-    engagement: 524
-    commentsToLikes: 0.044301
-    id: ck14luu2nwln40i198xbfc2u7
-    verified: false
-    hashtags: "#influencer, #dirtjump, #reelitfeelit, #reeitfeelit"
   - username: "abhishek_freestyle_01"
     fullname: >-
       Abhishek singh️️️🇮🇳
@@ -115,16 +115,16 @@ profiles:
     id: ck0w3gzadtcut0i197i0yuwsz
     verified: false
     hashtags: "#keralaart, #superbikes, #ktmworldwide, #instariders"
-  - username: "moses_siya"
+  - username: "sibi_leonidos"
     fullname: >-
-      Moses Siya
+      S I B I  G A N E S H A N
     bio: >-
-      BBOY MJ🤸‍♂️🏍🇮🇳Pilot girl 🇬🇧✈️ Today’s struggle is tomorrow’s strength🤟 Email for collab 📩 Gods plan❤ 🛠 @mjs_venture_
+      RIDER| MECHANICAL ENGINEER | HERO MOTO CORP | DADDY KEDI | COIMBATORIAN | PETS LOVE | FITNESSFREAK | MUSIC LOVE| STAG |☠️🏍️🐩🐾🐦🐠🌏🛸⚽🎭
     location: "India"
-    followers: 161105
-    engagement: 480
-    commentsToLikes: 0.042745
-    id: ck5hozvffqinr0i11n1tfrg5r
+    followers: 9983
+    engagement: 826
+    commentsToLikes: 0.006043
+    id: ck8tb1b9xtxwd0j78idgyrwy3
     verified: false
-    hashtags: "#allkeralaride, #uk, #travel, #rr310"
+    hashtags: "#stayimmune, #motivated, #bikersofinstagram, #expulse200"
 ---

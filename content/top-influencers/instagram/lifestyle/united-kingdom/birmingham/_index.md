@@ -1,24 +1,36 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Birmingham In 2023
+title: Top 10 Lifestyle Instagram Influencers In Birmingham In 2024
 description: >-
-  Find top lifestyle Instagram influencers in Birmingham in 2023. Most popular hashtags: #fashion #fashionblogger #ad #happy.
+  Find top lifestyle Instagram influencers in Birmingham in 2024. Most popular hashtags: #birmingham #birminghamblogger #ad #mumlife.
 platform: Instagram
-hits: 16
-text_top: See the most popular Instagram accounts on inBeat.
-text_bottom: Our platform holds 16 Instagram influencers like this in Birmingham, United Kingdom for you to collaborate.
+hits: 40
+text_top: See the best Instagram profiles on inBeat.
+text_bottom: Our search engine aggregates 40 Instagram influencers like this in Birmingham, United Kingdom for you to collaborate.
 profiles:
-  - username: "vegangirlboss"
+  - username: "bethanygraceshawx"
     fullname: >-
-      Adina / vegan influencer
+      Bethany Grace Shaw
     bio: >-
-      ambitious vegan gal looking to change the world one meal at a time ✌🏼 made in Kazakhstan! >> vegan food and lifestyle 📍 Birmingham, UK
+      Outfits | Beauty | Food | Lifestyle ✨ •📍Birmingham, UK • 🪴content creator • 💌 bethanygraceshaw@outlook.com
     location: "United Kingdom"
-    followers: 18572
-    engagement: 428
-    commentsToLikes: 0.331851
-    id: ck55jt4dyxorw0i11bzuauype
+    followers: 5502
+    engagement: 341
+    commentsToLikes: 0.056337
+    id: clple2c29x4sv0k08hjadulq1
     verified: false
-    hashtags: "#veganrecipe, #mallowworld, #veganfood, #veganuk"
+    hashtags: "#selfie, #me, #birminghaminfluencer, #alternative"
+  - username: "sian.victoria"
+    fullname: >-
+      🇬🇧 Birmingham UK Lifestyle Blogger (for 13yrs!✌)
+    bio: >-
+      🌿 #Hotels #Food #Beauty #Birmingham #UK ✈ #Lifestyle #Travel @sian.victoria.travels 🎓 Masters in PR, Marketing, Ads
+    location: "United Kingdom"
+    followers: 14253
+    engagement: 196
+    commentsToLikes: 0.053577
+    id: ck0w5zaqn65jh0i19e5drq2us
+    verified: false
+    hashtags: "#birmingham, #visitbirmingham, #birminghamblogger, #greece"
   - username: "sarahlaublogs"
     fullname: >-
       Sarah Lauren ✨
@@ -30,7 +42,7 @@ profiles:
     commentsToLikes: 0.152379
     id: ck9h9vynea6650j78sqzumdxn
     verified: false
-    hashtags: "#effortlesschic, #stylelookbook, #colourfulstyle, #mentalhealthcheckin"
+    hashtags: "#simplebeyond, #pinterestaesthetic, #styleinspiration, #thisdelightfullife"
   - username: "gerrijphillips"
     fullname: >-
       Gerri J. Phillips
@@ -43,88 +55,76 @@ profiles:
     id: ck5zsrtaxz2ju0i14h3wm0jv2
     verified: false
     hashtags: "#cookingwithcomfort, #datenight, #onebypoise, #ad"
-  - username: "juannafitness.2"
+  - username: "stacey_and_three"
     fullname: >-
-      Juju 🤍
+      Stacey Sumner - UK Content Creator
     bio: >-
-      📚Student 📍Birmingham ✨nothing fancy
+      Realities of Motherhood Managing Three Under Five I’m that reel Mum 👋🏻 📍Birmingham
     location: "United Kingdom"
-    followers: 5712
-    engagement: 1691
-    commentsToLikes: 0.125138
-    id: ckap0okftr6tw0i78m4w9nmto
+    followers: 71280
+    engagement: 89
+    commentsToLikes: 0.115757
+    id: cl4kz425asvh00i23grw4ev2k
     verified: false
-    hashtags: "#womenwholift, #gymshark, #lift, #gym"
-  - username: "nadoosh.xo"
+    hashtags: "#momof3, #anxiousmoms, #twinmomlife, #scrunchymom"
+  - username: "hannahchelsiehudson"
     fullname: >-
-      NADOOSH
+      Hannah Hudson | Neutral outfits
     bio: >-
-      Beauty•Motherhood•Lifestyle•Real Talk 🌱Founder @malikaatofficial 🌱Makeup bookings @makeupbynadoosh 🌱Email: makeupbynadoosh@gmail.com Birmingham UK 🇬🇧
+      Outfit inspo, beauty, lifestyle & 🐶 Enquiries ~ hannahchelsiehudson@live.com 📍 Birmingham/London Home-@hannahchelsiehudsonhome Shop my outfits below↓
     location: "United Kingdom"
-    followers: 88300
-    engagement: 196
-    commentsToLikes: 0.034789
-    id: ck6u5v58cbxrl0j71ckk2hnak
+    followers: 129602
+    engagement: 11
+    commentsToLikes: 0.008719
+    id: ckaow4mmi7emu0i78pbsgj7pp
     verified: false
-    hashtags: "#rimmellondon, #tescofood, #eidinspo, #realtalks"
-  - username: "youraverageguystyle"
+    hashtags: "#springstyle, #girlsnightaesthetic, #livespectacularly, #primark"
+  - username: "vegangirlboss"
     fullname: >-
-      Adam York
+      Adina Akhmetova
     bio: >-
-      • Fashion Blogger UK 🇬🇧 • Birmingham / London / Scotland ⬆️ Check out my stories!
+      → FEEL GOOD VEGAN FOOD + lifestyle vegan recipes, health & wellness, daily routines 📍 Birmingham, UK ✉️ vegangirlboss@gmail.com
     location: "United Kingdom"
-    followers: 62702
-    engagement: 84
-    commentsToLikes: 0.087495
-    id: ck15sohpoe15c0i19fu5td510
+    followers: 203651
+    engagement: 963
+    commentsToLikes: 0.073660
+    id: ck55jt4dyxorw0i11bzuauype
     verified: false
-    hashtags: "#fashionmens, #coupleslove, #details, #mensstyles"
-  - username: "sian.victoria"
+    hashtags: "#habits, #motivation, #recipes, #toast"
+  - username: "our_little_family_x"
     fullname: >-
-      Blogger | Birmingham, UK |  ©
+      Kirstie Andrews
     bio: >-
-      🌿 Lifestyle 》Travel @sian.victoria.travels ⭐ 10 Years Self-Employed Blogging Full-Time 🎓 MA in PR & BA Marketing & Advertising
+      Mom of 2 🫶🏼 Family | Lifestyle | Travel 📍 Midlands, UK 💌 PR: our_little_family_x@outlook.com
     location: "United Kingdom"
-    followers: 14083
-    engagement: 491
-    commentsToLikes: 0.028936
-    id: ck0w5zaqn65jh0i19e5drq2us
+    followers: 35565
+    engagement: 506
+    commentsToLikes: 0.049861
+    id: cl4kz42eysvmz0i23i6p254jb
     verified: false
-    hashtags: "#betarealdogs, #rossanoferretti"
-  - username: "liveuptohername"
+    hashtags: "#makeyousmilestyle, #emosh, #mumlife, #realparenting"
+  - username: "_harman.ramgarhia_"
     fullname: >-
-      Lexi 🎀
+      🔱ਹਰਮਨ ਰਾਮਗੜ੍ਹੀਆ🔱
     bio: >-
-      💃🏽 Latina 📍 Birmingham 🇬🇧 👸🏼- Founder of @lfhairofficial
+      LIFESTYLE VLOGGER 🇬🇧 / INFLUENCER ✨ Sc 👻 :- harmanxr England 🇬🇧 YouTube Subs.👇🏻 :- 3 Lakh +
     location: "United Kingdom"
-    followers: 31707
-    engagement: 689
-    commentsToLikes: 0.006258
-    id: ck5cik16gsslf0i11w5ovnhua
+    followers: 121144
+    engagement: 444
+    commentsToLikes: 0.007902
+    id: ck9wg59ghryfr0j78ooylp8hk
     verified: false
-    hashtags: "#happy, #instadaily, #style, #beauty"
-  - username: "evaella_beauty"
+    hashtags: "#reels, #happydiwali, #slowmotion, #editing"
+  - username: "gabbiearmstrong"
     fullname: >-
-      hijab
+      Gabbie Armstrong
     bio: >-
-      Mom of two girls👩‍👧‍👧 Lifestyle, fashion, beauty, cosmetics 📍Halifax West Yorkshire 🇬🇧
+      • West Midlands UK • Fashion/Lifestyle/Comedy👱🏼‍♀️💖🥂💅🏼🫧 • gabbiearmstrong2195@gmail.com TikTok >>>
     location: "United Kingdom"
-    followers: 123467
-    engagement: 114
-    commentsToLikes: 0.047060
-    id: ckaou7w9bz70l0i780y123mjt
+    followers: 26253
+    engagement: 358
+    commentsToLikes: 0.026661
+    id: cliu011zuzzxr0j08vqbzs4ax
     verified: false
-    hashtags: "#morocco, #instagram, #momoftwo, #hijab"
-  - username: "imancipated1"
-    fullname: >-
-      Iman
-    bio: >-
-      sudania servin’ u lifestyle + fashion quontentt Aspiring Cosmetic Chemist 👩🏽‍🔬 NYC ✈️ Birmingham 🇬🇧 📬DM/email for any inquiries
-    location: "United Kingdom"
-    followers: 13940
-    engagement: 864
-    commentsToLikes: 0.026143
-    id: ck5zzk839bw0e0i14m9dxju9r
-    verified: false
-    hashtags: "#londoninfluencer, #diptyquecandle, #sudanesefamily, #sudaneseblogger"
+    hashtags: "#prettylittlething, #boohoo, #girlmemes, #grwm"
 ---

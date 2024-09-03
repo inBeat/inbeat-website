@@ -1,11 +1,11 @@
 ---
-title: Top 10 Nutrition TikTok Influencers In 2023
+title: Top 10 Nutrition TikTok Influencers In 2024
 description: >-
-  Find top nutrition TikTok influencers in 2023. Most popular hashtags: #learnontiktok #nutritiontips #fyp #foryou.
+  Find top nutrition TikTok influencers in 2024. Most popular hashtags: #foryou #nutritiontips #learnontiktok #fyp.
 platform: TikTok
-hits: 546
-text_top: Analyze the best TikTok accounts on inBeat.
-text_bottom: Our platform has 546 TikTok influencers like this for you to work with.
+hits: 548
+text_top: See the best TikTok accounts on inBeat.
+text_bottom: Our search engine has 548 TikTok influencers like this for you to work with.
 profiles:
   - username: "askdebbieabouthair"
     fullname: >-
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.051868
     id: ckbfj8sqafg5j0j23q057jchq
     verified: false
-    hashtags: "#foryou, #garden, #lit, #fy"
+    hashtags: "#vegan, #tiktokpartner, #fyp, #wellness"
   - username: "the.muscle"
     fullname: >-
       The Muscle 
@@ -78,7 +78,7 @@ profiles:
     commentsToLikes: 0.056191
     id: ckd0pgkkchql00j23ohhqaop5
     verified: false
-    hashtags: "#foryou, #xyzbca, #funny, #fitnesschallenge"
+    hashtags: "#teamstronglife, #fit, #1stphorm, #overshareinyourunderwear"
   - username: "lukehannanutrition"
     fullname: >-
       Luke Hanna
@@ -90,7 +90,7 @@ profiles:
     commentsToLikes: 0.052968
     id: ckb9bfyekxkc80j23fqp1zi8u
     verified: false
-    hashtags: "#nutritionfacts, #nutritiontips, #howtolosefat, #fitnessfacts"
+    hashtags: "#fitnessfacts, #nutritionist, #stitch, #nutritiontips"
   - username: "barebyevelyn"
     fullname: >-
       Evelyn Braczko
@@ -102,7 +102,7 @@ profiles:
     commentsToLikes: 0.056591
     id: ckcekhkt0tvox0j235vwuzpyf
     verified: false
-    hashtags: "#hormoneimbalance, #parasitecleanse, #guthealth, #guttok"
+    hashtags: "#parasites, #wormdetox, #healyourgut, #frequencies"
   - username: "thrivingwithclaudia"
     fullname: >-
       Claudia Stepan
@@ -126,5 +126,5 @@ profiles:
     commentsToLikes: 0.090367
     id: ckbfenvuj8wsd0j23uq16f55o
     verified: false
-    hashtags: "#biggerisbetter, #comedy, #getcrocd, #aeriereal"
+    hashtags: "#fyp, #jokes, #dontsweatit, #viral"
 ---

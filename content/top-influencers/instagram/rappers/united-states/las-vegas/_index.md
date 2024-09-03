@@ -1,24 +1,12 @@
 ---
-title: Top 10 Rappers Instagram Influencers In Las Vegas In 2023
+title: Top 10 Rappers Instagram Influencers In Las Vegas In 2024
 description: >-
-  Find top rappers Instagram influencers in Las Vegas in 2023. Most popular hashtags: #lasvegas #rapper #hiphop #music.
+  Find top rappers Instagram influencers in Las Vegas in 2024. Most popular hashtags: #lasvegas #rapper #hiphop #music.
 platform: Instagram
-hits: 39
-text_top: Analyze the top-rated Instagram influencers on inBeat.
-text_bottom: Our search engine has 39 Instagram influencers like this in Las Vegas, United States for you to work with.
+hits: 43
+text_top: Discover the top-rated Instagram accounts on inBeat.
+text_bottom: Our platform aggregates 43 Instagram influencers like this in Las Vegas, United States for you to connect with.
 profiles:
-  - username: "cspmusicgroup"
-    fullname: >-
-      CSP MUSIC GROUP
-    bio: >-
-      Artist Development | Artist Management | Logistics | ATLANTA | MINNEAPOLIS, LAS VEGAS
-    location: "United States"
-    followers: 126328
-    engagement: 162
-    commentsToLikes: 0.122467
-    id: ck5zvy1u854j90i14gvtnmvxl
-    verified: false
-    hashtags: "#independentartist, #promotion, #christopherstarr, #cspmusicgroup"
   - username: "thebest_2pac"
     fullname: >-
       Tupac Shakur  📰
@@ -31,6 +19,42 @@ profiles:
     id: ck8tc4u5kyah60j7898att257
     verified: false
     hashtags: "#tupac, #thebest, #thuglife, #legend"
+  - username: "gianniblu"
+    fullname: >-
+      Gianni Blu
+    bio: >-
+      🌎DJ | Producer | Songwriter | 🇮🇹/🇻🇪/🇭🇹 📧 MGMT: Scott@GianniBlu.com 📬 BOOKINGS: Jeremy@royalesociety.com / Management@GianniBlu.com
+    location: "United States"
+    followers: 107914
+    engagement: 46
+    commentsToLikes: 0.031345
+    id: ck15rzt7baiv60i19rbn6ef56
+    verified: true
+    hashtags: "#e11evenmiami, #djlife, #gianniblu, #techhouse"
+  - username: "donwelchmusic"
+    fullname: >-
+      𝕯𝖔𝖓 𝖂𝖊𝖑𝖈𝖍
+    bio: >-
+      ◾American Recording Artist ◾DIRT⚡ROCK ◾Pre-save/ pre order my new single (Guyg) https://cmdshft.ffm.to/GUYG
+    location: "United States"
+    followers: 43106
+    engagement: 259
+    commentsToLikes: 0.274878
+    id: ck0vux70lmkm00i19kjcq7ohf
+    verified: false
+    hashtags: "#billboard, #sendraboots, #bolotie, #westernwear"
+  - username: "cspmusicgroup"
+    fullname: >-
+      CSP MUSIC GROUP
+    bio: >-
+      Artist Development | Artist Management | Logistics | ATLANTA | MINNEAPOLIS, LAS VEGAS, AB: @flydreamflights
+    location: "United States"
+    followers: 121276
+    engagement: 91
+    commentsToLikes: 0.160426
+    id: ck5zvy1u854j90i14gvtnmvxl
+    verified: false
+    hashtags: "#photography, #atlanta, #musicindustry, #artistmanagement"
   - username: "carlitosway78"
     fullname: >-
       Las Vegas Photographer
@@ -43,6 +67,18 @@ profiles:
     id: ck5buc7qrhipj0i112u6pwzor
     verified: false
     hashtags: "#naturelovers, #hike, #travelbug, #travelgram"
+  - username: "natethedonn"
+    fullname: >-
+      Nathan Delva
+    bio: >-
+      MIA | LA📍🇭🇹| mgmt: @cgemtalent | @NovaMEN Ambassador|God 1st| NUPE ♦️|CEO of @envisionapparel_ LONG LIVE OTIS ANDERSON🕊
+    location: "United States"
+    followers: 57915
+    engagement: 384
+    commentsToLikes: 0.029653
+    id: ckxlenbox87x50j23kzcwmx57
+    verified: false
+    hashtags: "#atlanta, #socal, #newmusic, #producer"
   - username: "_cashcali_"
     fullname: >-
       Ca$hcali aKa Ca$hRoDmAn 🤮🧑🏿‍🎤🔺
@@ -55,6 +91,18 @@ profiles:
     id: ck5hq4rnvshw00i11qpaodjiy
     verified: false
     hashtags: "#aroundtheworld, #explorepage, #arizona, #instagram"
+  - username: "lukegawne"
+    fullname: >-
+      GAWNE
+    bio: >-
+      ⬇️ “KINFOLK” out NOW 👊🏼🔥
+    location: "United States"
+    followers: 286653
+    engagement: 356
+    commentsToLikes: 0.045466
+    id: ck5zqczr9udhi0i14ok1f19fj
+    verified: false
+    hashtags: "#rapper, #music, #kinfolk, #newmusic"
   - username: "arikittee"
     fullname: >-
       Arzu🧿 (Ari Kittee)
@@ -67,18 +115,6 @@ profiles:
     id: ckap9xyj5u04p0i78t77v73ps
     verified: false
     hashtags: "#curves, #thicc, #miamibeach, #persian"
-  - username: "skullygodd"
-    fullname: >-
-      Skully God
-    bio: >-
-      ⛈ THE VEGAS DRIP GOD💧#SKULLYGANG 🏴‍☠️🪐 🎵 Artist | Fashion Model | Drip Scientist ⚛️♿️ 🛸 Business/Collabs/Promo/Beats: 📧: Music@skullygod.com
-    location: "United States"
-    followers: 310443
-    engagement: 437
-    commentsToLikes: 0.018282
-    id: ckap6dtn5fh430i78anskz1i6
-    verified: true
-    hashtags: "#hiphop, #dababy, #juicewrld, #xxxtentacion"
   - username: "iamthaprettygangsta"
     fullname: >-
       🥰 Prettyme.05 👄
@@ -91,40 +127,4 @@ profiles:
     id: ck6u2kqvrsder0j71n4ivqugl
     verified: false
     hashtags: "#rap, #losangeles, #worldstarhiphop, #boss"
-  - username: "_paullyg"
-    fullname: >-
-      ᴘᴀᴜʟ ɢᴀʀᴢᴀ ⚡️
-    bio: >-
-      Session Guitarist / Producer 🎼🎸 @creativemindshtx 🎥 Click link 👇🏼 for beats + music 🌊
-    location: "United States"
-    followers: 2142
-    engagement: 642
-    commentsToLikes: 0.140084
-    id: ck14htvt5c44b0i19yrvk07oa
-    verified: false
-    hashtags: "#guitarist, #spanish, #unsignedartist, #jam"
-  - username: "atrainlanier"
-    fullname: >-
-      ᴀᴜsᴛɪɴ ʟᴀɴɪᴇʀ
-    bio: >-
-      757 ✈️🌎
-    location: "United States"
-    followers: 37070
-    engagement: 602
-    commentsToLikes: 0.051115
-    id: ck0tzmo84qx8s0i19agjmhhlw
-    verified: false
-    hashtags: "#schoolspeaker, #god, #crowdsurfing, #hope"
-  - username: "scottychickens"
-    fullname: >-
-      T.R.A.P Supervillian  🦹🏾‍♂️
-    bio: >-
-      THE SIXTH ECLIPSE: S T A R E A T E R 💫🦈IS COMING
-    location: "United States"
-    followers: 44029
-    engagement: 452
-    commentsToLikes: 0.047471
-    id: ck6ugt34e50b90j714ala4sk9
-    verified: false
-    hashtags: "#florida, #music, #scottychickens, #vegas"
 ---

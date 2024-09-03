@@ -1,12 +1,24 @@
 ---
-title: Top 10 Photographers Instagram Influencers In New Delhi In 2023
+title: Top 10 Photographers Instagram Influencers In New Delhi In 2024
 description: >-
-  Find top photographers Instagram influencers in New Delhi in 2023. Most popular hashtags: #india #portraitphotography #photooftheday #portrait.
+  Find top photographers Instagram influencers in New Delhi in 2024. Most popular hashtags: #photooftheday #portraitphotography #portrait #photographers.
 platform: Instagram
-hits: 58
-text_top: Analyze the top-rated Instagram accounts on inBeat.
-text_bottom: Our platform aggregates 58 Instagram influencers like this in New Delhi, India for you to connect with.
+hits: 60
+text_top: See the top-rated Instagram influencers on inBeat.
+text_bottom: Our platform has 60 Instagram influencers like this in New Delhi, India for you to collaborate.
 profiles:
+  - username: "shipraamitphoto"
+    fullname: >-
+      Shipra & Amit Photography
+    bio: >-
+      Maternity & Child Photographer 🇮🇳 New Delhi 📞 9999 00 1808 🫶 Creating Memories that last a Lifetime
+    location: "India"
+    followers: 63224
+    engagement: 51
+    commentsToLikes: 0.010647
+    id: ck9whwlkxzt3h0j781ick758l
+    verified: false
+    hashtags: "#shipraamit, #delhiphotographer, #delhifamilyphotographer, #shipra"
   - username: "the.dream_chaser"
     fullname: >-
       Jatin Garg
@@ -31,6 +43,30 @@ profiles:
     id: ck600ehoidgee0i14tonulrn5
     verified: false
     hashtags: "#fashion, #explore, #blackandwhitephotography, #closeup"
+  - username: "rj_vartika"
+    fullname: >-
+      RJ VARTIKA 🧿
+    bio: >-
+      Regional Podcast Producer 📍Gurgaon Radio Jockey|Show host| Actor| Writer| Audio content creator| Producer
+    location: "India"
+    followers: 16654
+    engagement: 208
+    commentsToLikes: 0.054971
+    id: ck6uhfkjo8tv30j71pauhovhx
+    verified: false
+    hashtags: "#entrepreneur, #radiojockey, #instacool, #rjvartika"
+  - username: "exploringwithroy"
+    fullname: >-
+      Bobby Roy || 🇮🇳|| INDIA
+    bio: >-
+      New Delhi - Photographer - YouTuber - Independent Content Creator - Specializing in #Automotive, #Travel, #Tech - Coffee Aficionado
+    location: "India"
+    followers: 34369
+    engagement: 58
+    commentsToLikes: 0.060621
+    id: ck13a3591oedx0i196zb478dw
+    verified: false
+    hashtags: "#googleindia, #reelsinstagram, #himachalpradesh, #reelindia"
   - username: "photowalkerofficial"
     fullname: >-
       Photo Walker
@@ -90,41 +126,5 @@ profiles:
     commentsToLikes: 0.009577
     id: ck0w3blsaskmt0i19uru52uab
     verified: false
-    hashtags: "#nofilter, #nofilterneha, #nofilternehaseason4"
-  - username: "thecanonfanboy"
-    fullname: >-
-      Bobby Roy || 🇮🇳|| INDIA
-    bio: >-
-      New Delhi 📷 Automotive & travel photographer 📽️ YouTuber ✍️ Writer 🗻 Himalayas are Love ☕ #COFFEE is my drug #theCanonFanboy
-    location: "India"
-    followers: 33406
-    engagement: 101
-    commentsToLikes: 0.037605
-    id: ck13a3591oedx0i196zb478dw
-    verified: false
-    hashtags: "#wanderlust, #instagram, #delhincr, #instagramreels"
-  - username: "rail_lust"
-    fullname: >-
-      The rail lust
-    bio: >-
-      Rail Love🚂 A Traveller 🇮🇳 🇵🇱 |🇨🇿 |🇩🇪 🇫🇷 |🇧🇪 🇱🇺 Influencer/Blogger/Vlogger All pics/videos are self clicked 📸 Travelling since 2 decades Use #rail_lust
-    location: "India"
-    followers: 14455
-    engagement: 2362
-    commentsToLikes: 0.011206
-    id: ckaoy2s1efthe0i78v9mjrxe4
-    verified: false
-    hashtags: "#reelsofinstagram, #indianreels, #travel, #itz"
-  - username: "gunjguglani"
-    fullname: >-
-      Gunj Guglani
-    bio: >-
-      📷 Photographer 🎥 Filmmaker FPV Drone Pilot 🇮🇳 From New Delhi, India *Hit Email for Business Enquiries* . ⬇️ Latest fpv video
-    location: "India"
-    followers: 9194
-    engagement: 684
-    commentsToLikes: 0.084108
-    id: ck13anl86r9j60i19qgrvnsak
-    verified: false
-    hashtags: "#manali, #dji, #ridewithstyle, #spreadlove"
+    hashtags: "#nofilternehaseason4, #nofilter, #nofilterneha"
 ---

@@ -1,132 +1,132 @@
 ---
-title: Top 10 Instagram Influencers In Italy In 2023
+title: Top 10 Instagram Influencers In Italy In 2024
 description: >-
-  Find top Instagram influencers in Italy in 2023. Most popular hashtags: #love #summermakeup #christmasmakeup.
+  Find top Instagram influencers in Italy in 2024. Most popular hashtags: #travel #italy #travelblogger.
 platform: Instagram
-hits: 19595
-text_top: Discover the most popular Instagram accounts on inBeat.
-text_bottom: Our database aggregates 19595 Instagram influencers like this in Italy for you to pitch.
+hits: 21849
+text_top: Identify the top-rated Instagram influencers on inBeat.
+text_bottom: Our platform has 21849 Instagram influencers like this in Italy for you to collaborate.
 profiles:
-  - username: "mollymae"
+  - username: "stassischroeder"
     fullname: >-
-      Molly-Mae Hague
+      Stassi Schroeder Clark
     bio: >-
-      Contact: Fran@FB-commercial.co.uk CREATIVE DIRECTOR @prettylittlething CEO @filterbymollymae Home @mollymaison
+      2x NYT Bestselling author 📘 Podcaster 🎤 @stassipodcast & @thegoodthebadthebaby 🐻
     location: "Italy"
-    followers: 6860239
-    engagement: 671
-    commentsToLikes: 0.001550
-    id: cl088goccaiwf0i231i9w2kd1
-    verified: false
-    hashtags: ""
-  - username: "itstheskinyourein"
-    fullname: >-
-      Serena✨beauty content creator - UGC
-    bio: >-
-      YOUR skin, YOUR rules ✨ Beauty enthusiast • health • lifestyle TikTok, Pinterest, discount codes and links below✨
-    location: "Italy"
-    followers: 36489
-    engagement: 1556
-    commentsToLikes: 0.159760
-    id: ck8tdo5fr44kc0j78ws6cotly
-    verified: false
-    hashtags: "#drugstoremakeup, #christmasmakeup, #selfcaresunday, #glowymakeup"
-  - username: "emilydianephilpott"
-    fullname: >-
-      E M
-    bio: >-
-      YOUTUBE 160k 💌 PR - em@sharptalent.co.uk
-    location: "Italy"
-    followers: 102299
-    engagement: 575
-    commentsToLikes: 0.007776
-    id: ck0w70btbb4fh0i19qntjyphs
-    verified: false
-    hashtags: "#ad, #wakeupwithemma, #emmamattress, #drinkresponibly"
-  - username: "alexiascheetz_"
-    fullname: >-
-      alexia w🖤
-    bio: >-
-      -Momma & Wife ✨ -Pregnancy | Motherhood | Lifestyle -Youtube: Alexia Scheetz
-    location: "Italy"
-    followers: 70836
-    engagement: 687
-    commentsToLikes: 0.008739
-    id: cky723vpvjk5a0j23ic37gih0
-    verified: false
-    hashtags: "#pregnancyjourney, #birth, #39weekspregnant, #laboranddelivery"
-  - username: "therealauroragram"
-    fullname: >-
-      Aurora Ramazzotti
-    bio: >-
-      “colei che ha inventato quel fatto che nn si fischia alla donna” cit. tizio su fb Commercial: info@notorialab.net Events: booking@notorialab.net
-    location: "Italy"
-    followers: 2502063
-    engagement: 651
-    commentsToLikes: 1.805034
-    id: ck0u82hvv6c580i19f3ez3qqx
+    followers: 3445970
+    engagement: 502
+    commentsToLikes: 0.007281
+    id: ck0vyf1v23nqh0i19f5bsbusw
     verified: true
-    hashtags: "#gliss, #tbt"
-  - username: "mirimeo"
+    hashtags: "#sppartner, #spzeroexcuses, #vanderpumpvilla, #36"
+  - username: "khadeeniam"
     fullname: >-
-      miriam leone
+      Khadeen Ellis
     bio: >-
-      contact 🌟 Upgradeartist@gmail.com @do_production
+      Actress + TV Host🎬 Star of The Ellises sitcom on YouTube Co-Host of @deadassthepodcast 🎧🎤✨ 💍 @iamDevale J💙K💙K💙D💙🇯🇲🇻🇨
     location: "Italy"
-    followers: 1647846
-    engagement: 418
-    commentsToLikes: 0.006095
-    id: ck14jt2n8m1ie0i19i0ozq220
+    followers: 1310071
+    engagement: 681
+    commentsToLikes: 0.010771
+    id: ck5c1o997vl840i11ukx9b4d1
     verified: true
-    hashtags: "#accuss, #gratitude, #adv, #ileonidisicilia"
-  - username: "virgimih"
+    hashtags: "#alldaykay, #weovermebook, #theellises, #devalestruth"
+  - username: "amandaasad"
     fullname: >-
-      Virginia Mihajlović
+      Amanda
     bio: >-
-      (Quasi) moglie e mamma di Violante 🤍 Founder of @lemihaofficial Represented by @goodvibration_mgmt
+      Arab American Muslim living in Texas Modest looks, curly hair, sharing my life 🫶
     location: "Italy"
-    followers: 188760
-    engagement: 1056
-    commentsToLikes: 0.006705
-    id: ck55mn4034bdl0i11t3df6stn
-    verified: true
-    hashtags: "#homesweethome"
-  - username: "rebidragomir"
-    fullname: >-
-      Rebeca Dragomir | Parisian aesthetic
-    bio: >-
-      🥐 living in Romania but my heart is in Paris ✉️ : rebiidragomir@yahoo.com University of Medicine #paris #outfitinspo #travel #lifestyle
-    location: "Italy"
-    followers: 76244
-    engagement: 1621
-    commentsToLikes: 0.022376
-    id: ckxr7wq4nba550j234pt4txe7
+    followers: 440188
+    engagement: 453
+    commentsToLikes: 0.010430
+    id: ck0w2ja9nonem0i19wfbjef70
     verified: false
-    hashtags: "#parisianvibes, #explorepage, #parisianlifestyle, #minimalfashion"
-  - username: "carlottafiasella"
+    hashtags: "#loccitanepartner, #curlyhairstyles, #curlyhair, #maxidress"
+  - username: "corrado_firera"
     fullname: >-
-      Carlotta Fiasella Garbarino
+      CORRADO FIRERA
     bio: >-
-      •sii gentile e abbi coraggio 🤍 Tik Tok 1.9M 📩: management@carlottafiasella.com Link per gruppo DCA🔽
+      ▪️Based in Italy 🇮🇹 ▪️Web developer, copywriter ▪️4 Languages 🇮🇹 🇪🇦 🇬🇧 🇫🇷 Info@fireracorrado.com
     location: "Italy"
-    followers: 655375
-    engagement: 751
-    commentsToLikes: 0.001974
-    id: ck6tzzqkrcsze0j713s7sjp3u
+    followers: 130957
+    engagement: 634
+    commentsToLikes: 0.020010
+    id: ck15skv8gdiqi0i19jthlragi
     verified: false
-    hashtags: "#love, #italiangirl, #bikini, #mare"
-  - username: "_andreacimatti"
+    hashtags: "#voopooargusg, #voopooargus, #vapersitalia, #mensfashion"
+  - username: "liciafertz"
     fullname: >-
-      A N D R E A  C I M A T T I
+      Buongiorno Nonna
     bio: >-
-      21, Milan Pro Make-Up Artist Beauty Content Creator 𝘽𝙐𝙎𝙄𝙉𝙀𝙎𝙎: andreacimatti01@gmail.com or DM
+      🦖Accidentally Aged Model & Influencer 👵🏼Mula triestina dal 1930 ⏳NO TIME TO BE SAD 👩‍👦My incredible life with my grandson @elousai ⬇️ Leggi il blog!
     location: "Italy"
-    followers: 39030
-    engagement: 783
-    commentsToLikes: 0.032357
-    id: ck5zzrcpgca7b0i14bzggkci5
+    followers: 231869
+    engagement: 635
+    commentsToLikes: 0.035174
+    id: ck0udckjriqkd0i194s5mm8ad
     verified: false
-    hashtags: "#summermakeup, #pridemonth, #prideseries, #christmasmakeup"
+    hashtags: "#93yearsyoung, #liciafertz, #92yearsyoung, #family"
+  - username: "simoneberlini"
+    fullname: >-
+      SIMONE BERLINI
+    bio: >-
+      ✨Be the light 👼🏻Member of @defhouse 📬simone.berlini@wscgroup.it
+    location: "Italy"
+    followers: 705676
+    engagement: 469
+    commentsToLikes: 0.015445
+    id: ck55jz8wry4530i11j59882oa
+    verified: false
+    hashtags: "#beyourownboss, #tezenisxmaschallenge, #home, #defhouse"
+  - username: "remibader"
+    fullname: >-
+      Remi Jo
+    bio: >-
+      NYC Forbes 30 Under 30 RemiBaderTeam@unitedtalent.com
+    location: "Italy"
+    followers: 714301
+    engagement: 497
+    commentsToLikes: 0.008299
+    id: ckppr651g6dqk0j23sql9tgsy
+    verified: false
+    hashtags: "#funny, #midsizestyle, #realistic, #plussizefashion"
+  - username: "tramnble"
+    fullname: >-
+      Tram Le | Luxury Travel • Photography
+    bio: >-
+      Wandering the globe while helping you level up your content 👩🏻‍💻Become a creator @tramacademy 👇🏻 Get your video/photo filters @trampresets
+    location: "Italy"
+    followers: 380937
+    engagement: 768
+    commentsToLikes: 0.005057
+    id: ck134rcl5xtkt0i19domdhsge
+    verified: false
+    hashtags: "#cameratricks, #expectationvsreality, #europetravel, #italy"
+  - username: "sallytrubella"
+    fullname: >-
+      Sally Nguyen
+    bio: >-
+      TRAVEL & LIFESTYLE 🌎Travel Advisor • Content Creator • Travel Tips 🏡Boston 📍43 Countries 🛩️TikTok270K 🐣 @theadventuresofmilajo @sallytrubella_oceanblu
+    location: "Italy"
+    followers: 179633
+    engagement: 712
+    commentsToLikes: 0.020968
+    id: ck5cdncb3jfxn0i11r5zusqjp
+    verified: false
+    hashtags: "#feelnewsydney, #feelnsw, #ad, #sponsored"
+  - username: "alix_earle"
+    fullname: >-
+      Alix Ashley Earle
+    bio: >-
+      ❣︎ host of @hotmess miami alixearleteam@unitedtalent.com
+    location: "Italy"
+    followers: 3801241
+    engagement: 1114
+    commentsToLikes: 0.001458
+    id: cl7ffp5vjr4b70i23x2xwdzip
+    verified: false
+    hashtags: "#neutrogenapartner"
 cities:
   - name: Rome
     link: /instagram/italy/rome

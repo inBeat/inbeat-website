@@ -1,24 +1,12 @@
 ---
-title: Top 10 Tattoo-Artists Instagram Influencers In Miami In 2023
+title: Top 10 Tattoo-Artists Instagram Influencers In Miami In 2024
 description: >-
-  Find top tattoo-artists Instagram influencers in Miami in 2023. Most popular hashtags: #tattooartist #tattoo #miami #miamitattoos.
+  Find top tattoo-artists Instagram influencers in Miami in 2024. Most popular hashtags: #tattooartist #miami #tattoo #tattoos.
 platform: Instagram
-hits: 59
-text_top: Discover the top-rated Instagram influencers on inBeat.
-text_bottom: Our database has 59 Instagram influencers like this in Miami, United States for you to collaborate.
+hits: 71
+text_top: Identify the most popular Instagram influencers on inBeat.
+text_bottom: inBeat aggregates 71 Instagram influencers like this in Miami, United States for you to work with.
 profiles:
-  - username: "lulutattooart"
-    fullname: >-
-      Lulu • Miami Tattoo Artist •
-    bio: >-
-      Tattoo Artist ❖ @thegoldenneedle_tattoos ❖ — booking@lulutattoo.art | +17868654194 — ProTeam @fytsupplies Sponsor @balmtattoousa
-    location: "United States"
-    followers: 43430
-    engagement: 178
-    commentsToLikes: 0.064810
-    id: ck6u738uyj7ss0j71buu8lb7o
-    verified: false
-    hashtags: "#wynwood, #lgbt, #art, #colortattoo"
   - username: "borisbianchi"
     fullname: >-
       tattoosbyboris@gmail.com
@@ -31,18 +19,18 @@ profiles:
     id: ckaoun0de0zg60i786g8n9fdo
     verified: false
     hashtags: "#blackwork, #studioxiii, #lettering, #tattoos"
-  - username: "tatubaby"
+  - username: "bartkuykens"
     fullname: >-
-      Tatu Baby
+      Bart Kuykens
     bio: >-
-      ONLY other IG @TatuBabyTattoos Bookings ❌ email TatuBabyTattoo@gmail.com 🇨🇴 Owner of @TillTheEndTattoos Vh1 Cartel Crew 🎥 Proud Mom 👶🏽 YO REINARE👑
+      Analog black and white photographer Founder @aflat6loveaffair book series Founder @streetcasting casting agency
     location: "United States"
-    followers: 1616849
-    engagement: 159
-    commentsToLikes: 0.007152
-    id: ck5bu7aiyha2s0i11zvlkgitr
-    verified: true
-    hashtags: "#spektrahalo, #fusioninks, #tatubabytattoos, #getinked"
+    followers: 56161
+    engagement: 123
+    commentsToLikes: 0.049092
+    id: ck0twqj05gflt0i19jasdslnk
+    verified: false
+    hashtags: "#analogphotography, #analog, #classicporsche, #grainisgood"
   - username: "spthelow"
     fullname: >-
       The Real Don🦍
@@ -55,66 +43,78 @@ profiles:
     id: ck6tjyfen3ndq0j71jw92hth9
     verified: false
     hashtags: "#guadeloupe, #sniperbiker, #motorcycle, #motivation"
+  - username: "leonalifts"
+    fullname: >-
+      Erika Avendano
+    bio: >-
+      🦁🇨🇴La Leona CPT Aggressively Supporting Strong Humans @ehplabs | @wolfpak.official | @greenbitesgo Code: LEONA
+    location: "United States"
+    followers: 281661
+    engagement: 290
+    commentsToLikes: 0.019016
+    id: cl2fbw6s3n3xj0i23pgrid54z
+    verified: false
+    hashtags: "#leona, #usa, #explorepage, #tattoolife"
   - username: "waz.art"
     fullname: >-
-      WAZ
+      WAZ | Fine Line Tattoo Artist
     bio: >-
-      MIAMI TATTOO ARTIST @Equilattera 📩 appt@equilattera.com ❌ NO DM for tattoo inquiries 🔻YouTube🔻
+      Appointments: appt@equilattera.com @equilattera —————————————- Sponsor by @pepax.official
     location: "United States"
-    followers: 66254
-    engagement: 184
-    commentsToLikes: 0.024821
+    followers: 70945
+    engagement: 110
+    commentsToLikes: 0.021652
     id: ck6tp4kp7hss80j71i58vmhps
     verified: false
-    hashtags: "#equilattera, #miamitattoos, #miamitattoo, #finelinetattoos"
-  - username: "kevin.deuso.artist"
+    hashtags: "#tattoomiami, #tattooinspiration, #tatuajes, #tatuador"
+  - username: "juan_salgado"
     fullname: >-
-      💮PAINT|TATTOO|FOTO💮
+      Juan Salgado
     bio: >-
-      REPRESENTED BY @corridorcontemporary @grovefineart @inkedlifemiami
+      Artist Founder of @salgadoartcompany Stay tuned… juansalgadoart@gmail.com
     location: "United States"
-    followers: 38160
-    engagement: 440
-    commentsToLikes: 0.013758
-    id: ck8t5cphv9nug0j789mv7s3xw
-    verified: false
-    hashtags: "#flowertattoo, #miamiink, #sketch, #oilpainting"
-  - username: "boloarttattoo"
+    followers: 391510
+    engagement: 217
+    commentsToLikes: 0.018868
+    id: ck0vz44di77h20i19ne7774bj
+    verified: true
+    hashtags: "#inprogress, #art, #juansalgado, #tattoo"
+  - username: "lulutattooart"
     fullname: >-
-      ᏴOᏞO
+      Lulu • Miami Tattoo Artist •
     bio: >-
-      вoιoтaттoos@yaнoo.coм 📩 Studio•@thegoldenneedle_tattoos
+      Tattoo Artist ❖ @thegoldenneedle_tattoos ❖ — booking@lulutattoo.art | +17868654194 — ProTeam @fytsupplies Sponsor @balmtattoousa
     location: "United States"
-    followers: 233978
-    engagement: 296
-    commentsToLikes: 0.022828
-    id: ck0w1fxvrj5cq0i198e4vmoj1
+    followers: 45231
+    engagement: 171
+    commentsToLikes: 0.065875
+    id: ck6u738uyj7ss0j71buu8lb7o
     verified: false
-    hashtags: "#instapic, #tattoo, #artwork, #fusionink"
-  - username: "bartkuykens"
+    hashtags: "#florida, #newyorktattoo, #miami, #miamitattoo"
+  - username: "raphbarrostattoos"
     fullname: >-
-      BART KUYKENS
+      Raphael Barros
     bio: >-
-      Exhibitions: May 27-29 Marbella, ES June 24-27 Hereford, UK Sept 2-5 Vejle, DK Sept 23-26 Limassol, CY Okt 1 - 3 Athens, GR Okt 21-24 Brussels, BE
+      🇺🇸🇧🇷 📍BOSTON Tattoo Artist @inkmaster8 Sponsored @intenzetattooink @intenzebrazil @fytsupplies @hustlebutterdeluxe @inkmapstattooapp App 👇🏼
     location: "United States"
-    followers: 56160
-    engagement: 232
-    commentsToLikes: 0.059232
-    id: ck0twqj05gflt0i19jasdslnk
+    followers: 54103
+    engagement: 91
+    commentsToLikes: 0.110333
+    id: ck0w62twl6mpo0i19uywjx7bn
     verified: false
-    hashtags: "#aflat6loveaffair, #bartkuykens, #porschemoment, #analogphotography"
-  - username: "ivanatattooart"
+    hashtags: "#blessed, #newyorktattooartist, #raphaelbarrostattoo, #miamiinked"
+  - username: "tatubaby"
     fullname: >-
-      Ivana Belakova
+      Tatu Baby
     bio: >-
-      THE ONLY FEMALE IN THE WORLD WHOSE TATTOOS ARE CERTIFIED AS CONTEMPORARY FINE ART (LA-MIAMI) 👑 CELEBRITY TATTOO ARTIST 👑
+      ONLY other IG @TatuBabyTattoos Bookings ❌ email TatuBabyTattoo@gmail.com 🇨🇴 Owner of @TillTheEndTattoos Proud Mom in Love YO REINARE👑 God Fearing ✝️
     location: "United States"
-    followers: 205199
-    engagement: 17
-    commentsToLikes: 0.019263
-    id: ck5zs4xgtxu1o0i1417ymapkx
-    verified: false
-    hashtags: "#hushcares, #colortattoo, #nonstoplaughter, #birdsalwaysshitonmycar"
+    followers: 1860121
+    engagement: 75
+    commentsToLikes: 0.010228
+    id: ck5bu7aiyha2s0i11zvlkgitr
+    verified: true
+    hashtags: "#exo, #miamitattooshop, #miamitattoos, #miamitattooartist"
   - username: "tierra_amira"
     fullname: >-
       Tierra Amira Jones

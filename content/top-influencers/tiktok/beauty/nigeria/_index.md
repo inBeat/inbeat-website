@@ -1,11 +1,11 @@
 ---
-title: Top 10 Beauty TikTok Influencers In Nigeria In 2023
+title: Top 10 Beauty TikTok Influencers In Nigeria In 2024
 description: >-
-  Find top beauty TikTok influencers in Nigeria in 2023. Most popular hashtags: #fyp #viral #foryou #foryoupage.
+  Find top beauty TikTok influencers in Nigeria in 2024. Most popular hashtags: #fyp #foryou #viral #foryoupage.
 platform: TikTok
 hits: 16
-text_top: See the best TikTok accounts on inBeat.
-text_bottom: Our search engine aggregates 16 TikTok influencers like this in Nigeria for you to contact.
+text_top: Discover the most popular TikTok influencers on inBeat.
+text_bottom: Our platform aggregates 16 TikTok influencers like this in Nigeria for you to contact.
 profiles:
   - username: "obiekweretta"
     fullname: >-
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.084275
     id: ck90z7dakcup00j782nf3in88
     verified: false
-    hashtags: "#xyzbca, #nails, #fyp, #viral"
+    hashtags: "#makeuptutorial, #beauty, #nails, #foryoupage"
   - username: "danchizi_"
     fullname: >-
       Chris Daniel

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Crossfit Instagram Influencers In Switzerland In 2023
+title: Top 10 Crossfit Instagram Influencers In Switzerland In 2024
 description: >-
-  Find top crossfit Instagram influencers in Switzerland in 2023. Most popular hashtags: #crossfit #fitness #workout #training.
+  Find top crossfit Instagram influencers in Switzerland in 2024. Most popular hashtags: #crossfit #fitnessmotivation #summer #fitness.
 platform: Instagram
-hits: 16
-text_top: See the top-rated Instagram accounts on inBeat.
-text_bottom: inBeat holds 16 Instagram influencers like this in Switzerland for you to connect with.
+hits: 18
+text_top: Identify the most popular Instagram influencers on inBeat.
+text_bottom: Our search engine has 18 Instagram influencers like this in Switzerland for you to connect with.
 profiles:
   - username: "rabina17"
     fullname: >-
@@ -31,6 +31,18 @@ profiles:
     id: ck5bw01nikqj10i11l9tfv5hu
     verified: true
     hashtags: "#niketraining, #games2019, #neweraiscomingup, #blackfridayweekend"
+  - username: "hellomanuela"
+    fullname: >-
+      Manuela | 👘
+    bio: >-
+      ❥ Daily life, travel + outfits. Founder @monpetitsouk.ch . Suisse | Marrakech | Portugal.
+    location: "Switzerland"
+    followers: 19341
+    engagement: 25
+    commentsToLikes: 0.000833
+    id: ck5q3n7wtljmh0i11117mztht
+    verified: false
+    hashtags: "#quoteoftheday, #eatclean, #healthtips, #smile"
   - username: "nicolas_arnoux"
     fullname: >-
       Nicolas Arnoux
@@ -59,14 +71,14 @@ profiles:
     fullname: >-
       Fabio Hayoz
     bio: >-
-      🥇SNBF 2018 Swiss-Champion 📍CH🇨🇭 🏢 @hf.werbetechnik 💪 @coach__bruno ❤️ @jasmine.gsell ‼️SPONSORED BY‼️ @extrifitschweiz - Fabio10 @autocenterhalten
+      🚨 Team Extrifit 🚨 🏢 Owner of @extrifitschweiz 🥇 2018 SNBF Swiss Champ 📍 Switzerland ❤️ @jasmine.gsell
     location: "Switzerland"
-    followers: 10459
-    engagement: 290
-    commentsToLikes: 0.029399
+    followers: 10269
+    engagement: 264
+    commentsToLikes: 0.038793
     id: ck8svr3moce3r0j78a3lf79cp
     verified: false
-    hashtags: "#yoga, #photooftheday, #fitnessathlete, #fitfam"
+    hashtags: "#workout, #poollife, #summertime, #muscle"
   - username: "kevinxtm"
     fullname: >-
       Kevin Crupi  xtm
@@ -78,53 +90,41 @@ profiles:
     commentsToLikes: 0.057486
     id: ck5hctkuyjwis0i118o9g71zy
     verified: false
-    hashtags: "#legday, #climbing, #switzerland, #frontflip"
-  - username: "tarajeanpopowich"
+    hashtags: "#stuntman, #switzerland, #breakdance, #fail"
+  - username: "climbing_hafu"
     fullname: >-
-      Tara Jean Popowich
+      Johanna 🇩🇪🇯🇵
     bio: >-
-      Creator- @human1dancer2🌎 “So you think you can dance”🇨🇦Winner “Dancing with the stars” 🇮🇳Top 6 “SYTYCD” Guest 🇺🇦 Pura Vida. x
+      In love with climbing since 2016 🏔💕 Bouldering and Deep water solo climbing 🧗🏻‍♀️🌊 M. Sc. at Technical University of Munich 👩🏻‍🎓⚡️
     location: "Switzerland"
-    followers: 53367
-    engagement: 369
-    commentsToLikes: 0.053244
-    id: ck55nxluk77dn0i11v844f5tk
-    verified: true
-    hashtags: "#alexwong, #bakerbleu, #70s, #superbowl"
-  - username: "lalacla_"
-    fullname: >-
-      Claudia
-    bio: >-
-      Simplicity is the ultimate sophistication✨ Made in Italy📍Zurich 📚curious |🎢crazy | 🌍empatic |🧘🏻mindfull |🎭Arts |💫Aquarius
-    location: "Switzerland"
-    followers: 5442
-    engagement: 2545
-    commentsToLikes: 0.034823
-    id: ck8t6drijd8il0j78i9zqzkcn
+    followers: 28964
+    engagement: 605
+    commentsToLikes: 0.015180
+    id: ck0u8yynm8n7d0i19vwfucpt1
     verified: false
-    hashtags: "#lago, #swissalps, #lake, #clouds"
-  - username: "marie__sw"
+    hashtags: "#pullups, #womenwhoexplore, #brione, #boulderinglife"
+  - username: "leo.moves"
     fullname: >-
-      Marie Pons🌚
+      Leandro Fornito (LeoMoves)
     bio: >-
-      21🌚Frenchgirl🇫🇷 🇨🇭LSN Street Workout🔥Calisthenics ☕️Coffee☕️ @gornation ATHLETE ❤️ MARIE10 🛍 Check this out ⤵️
+      🇨🇭Athlete and movement coach 💪🏼 My students reach the best version of their body! ⬇️ MY TRAINING APP (7 day free trial included)⬇️
     location: "Switzerland"
-    followers: 4983
-    engagement: 1518
-    commentsToLikes: 0.036176
-    id: ck55lgh8q1ic70i11kzf61k4z
+    followers: 1397171
+    engagement: 141
+    commentsToLikes: 0.017532
+    id: ck6tyyjzr6lla0j71pset3l6w
     verified: false
-    hashtags: "#pullups, #sw, #skate, #stayhome"
-  - username: "fannysmith"
+    hashtags: "#leomoves, #functionaltraining, #bodyawareness, #gymnastics"
+  - username: "robert.gawantka"
     fullname: >-
-      Fanny Smith
+      Robert Gawantka
     bio: >-
-      🇨🇭Pro Skier Olympic🥉 World Champion🥇🥈🥈🥉 27x🥇World Cup 2x WorldCup overall🏆 Red Bull⭐Villars⭐Hôtel VIU⭐Schöffel⭐Stöckli⭐Schmutz opticiens
+      FITNESS | CAR | TRAVEL | LIFESTYLE CEO @gama_photovoltaik 📍Germany • Dresden 📍Swiss • St. Gallen ✖️est.1991 ✖️„a picture is worth a thousand words.“
     location: "Switzerland"
-    followers: 37191
-    engagement: 872
-    commentsToLikes: 0.013877
-    id: ck55pjrrrapki0i11cldr2meu
+    followers: 329788
+    engagement: 100
+    commentsToLikes: 0.005342
+    id: ck0vzzdj9bmk50i19wi9ifjpk
     verified: false
-    hashtags: "#race, #winteriscoming, #mountain, #switzerland"
+    hashtags: "#me, #happy, #photo, #fotografie"
 ---

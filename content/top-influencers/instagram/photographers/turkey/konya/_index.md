@@ -1,11 +1,11 @@
 ---
-title: Top 10 Photographers Instagram Influencers In Konya In 2023
+title: Top 10 Photographers Instagram Influencers In Konya In 2024
 description: >-
-  Find top photographers Instagram influencers in Konya in 2023. Most popular hashtags: #photographer #photography #nature #photo.
+  Find top photographers Instagram influencers in Konya in 2024. Most popular hashtags: #nature #konya #turkey #photographer.
 platform: Instagram
-hits: 19
-text_top: Analyze the top-rated Instagram accounts on inBeat.
-text_bottom: Our database aggregates 19 Instagram influencers like this in Konya, Turkey for you to pitch.
+hits: 22
+text_top: Identify the best Instagram influencers on inBeat.
+text_bottom: Our platform has 22 Instagram influencers like this in Konya, Turkey for you to collaborate.
 profiles:
   - username: "alyagram_2017"
     fullname: >-
@@ -43,6 +43,30 @@ profiles:
     id: ck5zmndyzmvet0i145krfdj18
     verified: false
     hashtags: "#adrasan, #kampvedogahayati, #trawel, #geyikbay"
+  - username: "emreevegi"
+    fullname: >-
+      Emre EVEGİ
+    bio: >-
+      Travel - Photographer Content creator 📩 emreevegi@gmail.com
+    location: "Turkey"
+    followers: 137494
+    engagement: 1039
+    commentsToLikes: 0.011478
+    id: ck0txqqenk6o40i19b4jtwati
+    verified: false
+    hashtags: "#antalya, #ke, #travel, #mu"
+  - username: "ahmet.erdem"
+    fullname: >-
+      Ahmet Erdem
+    bio: >-
+      📸 Photographer 🎞 Videographer Content Creator Istanbul/Türkiye
+    location: "Turkey"
+    followers: 793546
+    engagement: 1
+    commentsToLikes: 0.002134
+    id: ck0ttn4do3fs30i19r3bgkhlq
+    verified: true
+    hashtags: "#turkey, #beautifuldestinations, #dronevideography, #lake"
   - username: "ftmylmzzz"
     fullname: >-
       🚺Ben kısaca F.Y.🎼
@@ -67,6 +91,18 @@ profiles:
     id: ckap17e9ptdef0i78ftd5kpo2
     verified: false
     hashtags: "#igers, #igdaily, #day, #photography"
+  - username: "onderkoca"
+    fullname: >-
+      Önder Koca
+    bio: >-
+      Antalya ↔ istanbul Social media photographer Türkiye tanıtım elçisi ✈Travel Writer 📸Photographer 📩onderkoca@gmail.com
+    location: "Turkey"
+    followers: 493438
+    engagement: 166
+    commentsToLikes: 0.028731
+    id: ck13bwgdpxgvi0i19jfe2stab
+    verified: false
+    hashtags: "#eski, #returkey, #antalya, #gozo"
   - username: "dszgn"
     fullname: >-
       Deniz SEZGİN
@@ -79,18 +115,6 @@ profiles:
     id: ck9hbt3usibwo0j78r1etvy9n
     verified: false
     hashtags: "#turkey, #friends, #traveleurope, #rize"
-  - username: "gezennayy"
-    fullname: >-
-      GezennAyy 🌙
-    bio: >-
-      #turistrehberi🏃🏻‍♀️ #touristquide💃🏻 #traveller🌍 #travelpics🚗 #blogger 📚 #seyyah✈️ #gününkaresi📸 #seyahatyazarı ✍️
-    location: "Turkey"
-    followers: 13256
-    engagement: 1175
-    commentsToLikes: 0.014840
-    id: ckaovb0lw3skh0i78xstjijwm
-    verified: false
-    hashtags: "#naturephotography, #photo, #tbt, #kad"
   - username: "_ozi_can_"
     fullname: >-
       Ozi Can  📸Fotoğraf Sayfası
@@ -103,28 +127,4 @@ profiles:
     id: ck8t82dpfiv0m0j78n6i7c3tr
     verified: false
     hashtags: "#flowerstagram, #fotog, #siir, #foto"
-  - username: "photocameramans"
-    fullname: >-
-      Kişisel Blok
-    bio: >-
-      Her fotoğraf aynı zamanda fotoğrafçının hayatına dair bir kayıttır. Özcan YURDALAN
-    location: "Turkey"
-    followers: 13572
-    engagement: 1148
-    commentsToLikes: 0.022387
-    id: ck9hb2352f1yg0j78pq4xkwj7
-    verified: false
-    hashtags: "#instagood, #love, #flowerpower, #green"
-  - username: "zynphotograpyy"
-    fullname: >-
-      🌾zynphotograpyy🌾
-    bio: >-
-      FOTOĞRAFLAR BANA AİTTİR! Huawei P30 lite 📷 👉DİĞER HESAP @_sizin_kadrajiniz_ 📸📣Fotolarınızı bize gönderin paylaşalım👍🏻
-    location: "Turkey"
-    followers: 7487
-    engagement: 1637
-    commentsToLikes: 0.023118
-    id: ckaowa5yf810p0i7886127a9r
-    verified: false
-    hashtags: "#photooftheday, #photography, #longexpolife, #big"
 ---

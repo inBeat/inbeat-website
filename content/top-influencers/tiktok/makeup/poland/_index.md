@@ -1,11 +1,11 @@
 ---
-title: Top 10 Makeup TikTok Influencers In Poland In 2023
+title: Top 10 Makeup TikTok Influencers In Poland In 2024
 description: >-
-  Find top makeup TikTok influencers in Poland in 2023. Most popular hashtags: #fyp #makeup #dc #foryou.
+  Find top makeup TikTok influencers in Poland in 2024. Most popular hashtags: #fyp #makeup #dc #foryou.
 platform: TikTok
 hits: 170
-text_top: See the top-rated TikTok accounts on inBeat.
-text_bottom: Our platform has 170 TikTok influencers like this in Poland for you to pitch.
+text_top: Analyze the most popular TikTok profiles on inBeat.
+text_bottom: Our search engine holds 170 TikTok influencers like this in Poland for you to contact.
 profiles:
   - username: "skrzaciatapeta"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.017140
     id: ck83k47nb979l0j780uws8p3h
     verified: false
-    hashtags: "#makeup, #amongus, #impostor, #transition"
+    hashtags: "#impostor, #makeup, #amongus, #atla"
   - username: "aighty.aphrodite"
     fullname: >-
       aighty.aphrodite

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fitness TikTok Influencers In Chicago In 2023
+title: Top 10 Fitness TikTok Influencers In Chicago In 2024
 description: >-
-  Find top fitness TikTok influencers in Chicago in 2023. Most popular hashtags: #fyp #fitness #chicago #foryou.
+  Find top fitness TikTok influencers in Chicago in 2024. Most popular hashtags: #fyp #fitness #chicago #foryou.
 platform: TikTok
 hits: 39
-text_top: See the most popular TikTok accounts on inBeat.
-text_bottom: inBeat has 39 TikTok influencers like this in Chicago, United States for you to collaborate.
+text_top: See the most popular TikTok influencers on inBeat.
+text_bottom: Our platform holds 39 TikTok influencers like this in Chicago, United States for you to collaborate.
 profiles:
   - username: "dr_kyleross"
     fullname: >-
@@ -67,6 +67,18 @@ profiles:
     id: ckbwin9bk3asl0j239p5xm56q
     verified: false
     hashtags: "#foryou, #foryoupage, #chicago, #fyp"
+  - username: "joeunderwood33"
+    fullname: >-
+      Joe Underwood
+    bio: >-
+      You can laugh. I made the joke ☺️ Instagram: @junderwood33 Watch my standup⬇️
+    location: "United States"
+    followers: 155800
+    engagement: 1244
+    commentsToLikes: 0.046948
+    id: ckdtlqqz203iq0j23pwl22kwp
+    verified: false
+    hashtags: "#comedy, #stitch, #funny, #duet"
   - username: "haroldisfasting"
     fullname: >-
       Harold DeFrieze 🍔
@@ -115,16 +127,4 @@ profiles:
     id: ck83yu58ivr930j78odxgb6fq
     verified: false
     hashtags: "#navy, #585, #dayandnight, #lifestyle"
-  - username: "halfcultureddesi"
-    fullname: >-
-      nurayn 
-    bio: >-
-      chicago snap: nuraynawesome11 shop my non profit 🪐
-    location: "United States"
-    followers: 13200
-    engagement: 1838
-    commentsToLikes: 0.045786
-    id: ckc34l34xtwzh0j23ohkrcjbq
-    verified: false
-    hashtags: "#fitness, #colorcustomizer, #homeworkout, #weightlifting"
 ---

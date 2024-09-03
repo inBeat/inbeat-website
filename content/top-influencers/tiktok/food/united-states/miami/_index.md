@@ -1,11 +1,11 @@
 ---
-title: Top 10 Food TikTok Influencers In Miami In 2023
+title: Top 10 Food TikTok Influencers In Miami In 2024
 description: >-
-  Find top food TikTok influencers in Miami in 2023. Most popular hashtags: #fyp #food #foryou #miami.
+  Find top food TikTok influencers in Miami in 2024. Most popular hashtags: #fyp #foryoupage #foryou #food.
 platform: TikTok
-hits: 114
-text_top: Analyze the most popular TikTok accounts on inBeat.
-text_bottom: Our search engine aggregates 114 TikTok influencers like this in Miami, United States for you to collaborate.
+hits: 117
+text_top: Identify the top-rated TikTok profiles on inBeat.
+text_bottom: Our platform holds 117 TikTok influencers like this in Miami, United States for you to connect with.
 profiles:
   - username: "_makayla149"
     fullname: >-
@@ -43,6 +43,30 @@ profiles:
     id: ckbkop7lwiwam0j23jp84apsd
     verified: false
     hashtags: "#xyzbca, #miamifood, #food, #miami"
+  - username: "_lemme_see"
+    fullname: >-
+      Don Luis 🧿
+    bio: >-
+      🇨🇴🇺🇸 stuffing my face on a Daily, Travel then repeat Afro Latino #BLM ✊🏾
+    location: "United States"
+    followers: 4643
+    engagement: 2989
+    commentsToLikes: 0.005871
+    id: ckd611x7j1d720j23w2pdfhzn
+    verified: false
+    hashtags: "#cloudbread, #fyp, #tiktokfood, #foodie"
+  - username: "ericdamier"
+    fullname: >-
+      ericdamier
+    bio: >-
+      CEO of living my dream life - follow me on Instagram
+    location: "United States"
+    followers: 1100000
+    engagement: 978
+    commentsToLikes: 0.009647
+    id: ck9c7b3vorrcw0j78rq9qhvv4
+    verified: true
+    hashtags: "#maldives, #hotel, #luxury, #foryou"
   - username: "pyrexkidd"
     fullname: >-
       HOODBABBY
@@ -55,18 +79,18 @@ profiles:
     id: ck8j6cwfm95h80j78ht3af71t
     verified: false
     hashtags: "#foryou, #jamaica, #jamaican, #westindian"
-  - username: "0401swizz"
+  - username: "chrissanz_"
     fullname: >-
-      0401 Swizz
+      Chrissanzz
     bio: >-
-      Click my IG & Check out my videos on YouTube‼️ Music on all Platforms🔥💫🎥
+      Chris Sanz I’m famous y’all I swear 😔🥺 CEO OF LATIN COMMUNITY 🥸
     location: "United States"
-    followers: 49400
-    engagement: 546
-    commentsToLikes: 0.063938
-    id: ck9r543a1xzz10j7812prc41c
+    followers: 320700
+    engagement: 1966
+    commentsToLikes: 0.016229
+    id: ckd6it3n4bokn0j23majp5hvt
     verified: false
-    hashtags: "#foryoupage, #4u, #goviral, #swizz"
+    hashtags: "#funny, #mami, #novia, #fyp"
   - username: "nadiasingh_31"
     fullname: >-
       nadiasingh_31
@@ -103,28 +127,4 @@ profiles:
     id: cka61zz53xn1i0i780djar4go
     verified: false
     hashtags: "#repost, #nba, #bachelorready, #funny"
-  - username: "itskiraxo"
-    fullname: >-
-      Kira Skolnick
-    bio: >-
-      Probably over dressed. IG itskiraxo ✨
-    location: "United States"
-    followers: 3778
-    engagement: 723
-    commentsToLikes: 0.055515
-    id: ckd0t5hshj7c50j23y6oc22k9
-    verified: false
-    hashtags: "#fashion, #fyp, #travel, #pokeitout"
-  - username: "mr.eats305"
-    fullname: >-
-      George | Mr.Eats305
-    bio: >-
-      📸 IG = 77K 🍔 📍 Miami ☀️ | Food, Hats, Sports, Cards 📩 George@MrEats305.com
-    location: "United States"
-    followers: 62100
-    engagement: 892
-    commentsToLikes: 0.063560
-    id: ckac9y4iwgjif0i78p9r5l1l5
-    verified: false
-    hashtags: "#miamifood, #foodies, #yum, #keylimepie"
 ---

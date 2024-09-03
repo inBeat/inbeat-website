@@ -1,12 +1,24 @@
 ---
-title: Top 10 Chefs Instagram Influencers In Poland In 2023
+title: Top 10 Chefs Instagram Influencers In Poland In 2024
 description: >-
-  Find top chefs Instagram influencers in Poland in 2023. Most popular hashtags: #warszawa #masterchef #love #food.
+  Find top chefs Instagram influencers in Poland in 2024. Most popular hashtags: #chef #foodlover #foodporn #love.
 platform: Instagram
-hits: 35
-text_top: Analyze the top-rated Instagram accounts on inBeat.
-text_bottom: Our platform holds 35 Instagram influencers like this in Poland for you to connect with.
+hits: 37
+text_top: Analyze the best Instagram accounts on inBeat.
+text_bottom: inBeat has 37 Instagram influencers like this in Poland for you to contact.
 profiles:
+  - username: "kosssia"
+    fullname: >-
+      𝐊 𝐀 𝐑 𝐎 𝐋 𝐈 𝐍 𝐀♡
+    bio: >-
+      💌 Kosssia.management@onet.pl 💅🏼@kosssia_nails 💍@chef_mr.beard
+    location: "Poland"
+    followers: 58744
+    engagement: 431
+    commentsToLikes: 0.021185
+    id: ck14laktutokf0i199vxdqeer
+    verified: false
+    hashtags: "#style, #summer, #wakacje, #kobieta"
   - username: "afrykanskifoodblog"
     fullname: >-
       ꧁Zuza Afrykañska꧂ || 𝙼𝚘𝚍𝚎𝚕𝚔𝚊
@@ -55,6 +67,42 @@ profiles:
     id: ck0w6ua7gabtx0i19znw7m6i2
     verified: false
     hashtags: ""
+  - username: "tomasz_jakubiak"
+    fullname: >-
+      Tomasz Jakubiak
+    bio: >-
+      Gotujący tata ! https://youtu.be/xJ3HIOaGay4 @masterchefjuniortvn @kuchniaplusdomo #jakubiakgotuje #tomaszjakubiak
+    location: "Poland"
+    followers: 58644
+    engagement: 76
+    commentsToLikes: 0.029906
+    id: ck6tpvpxunh910j713z5p3u0m
+    verified: false
+    hashtags: "#jakubiakgotuje, #kuchniaplusdomo, #cheese, #masterchef"
+  - username: "nathallae"
+    fullname: >-
+      Natalia Maszkowska Food & Travel
+    bio: >-
+      🏆 @masterchef_tvn 7 👩‍🍳TikTok: nathallae (+945.000) 🫶FB (+1 mln ) #39 🌍 🎥YT (+65.000) ✉️ e-mail: kontakt@nathallae.pl autorka książki i e-booków ⤵️
+    location: "Poland"
+    followers: 328404
+    engagement: 54
+    commentsToLikes: 0.007966
+    id: ck15sfaj2cq2t0i19q8jvfsfc
+    verified: false
+    hashtags: "#wenecja, #szybkieprzepisy, #prosteprzepisy, #chef"
+  - username: "headcheff_artystasmaku"
+    fullname: >-
+      Arkadiusz Płoński
+    bio: >-
+      🍦Owner @bellagio_warsaw 🔪PRYWATNE KOLACJE 🔪WARSZTATY KULINARNE 🔪AUTOR PRZEPISÓW KULINARNYCH 🔪STWORZĘ MENU DO TWOJEJ RESTAURACJI - >📩 💍 @_diankkav_
+    location: "Poland"
+    followers: 83959
+    engagement: 17
+    commentsToLikes: 0.057975
+    id: ck6ues6ttss630j71o1vg34hg
+    verified: false
+    hashtags: "#warszawa, #goodmorning, #picoftheday, #today"
   - username: "tomekwrosole"
     fullname: >-
       Tomasz Borecki
@@ -79,52 +127,4 @@ profiles:
     id: ck5hij7xxdsm60i11z0giv4n6
     verified: false
     hashtags: "#gourmet, #foodie, #cheflife, #culinaryarts"
-  - username: "pastry_hard"
-    fullname: >-
-      Michał
-    bio: >-
-      ⓅⒶⓈⓉⓇⓎ ⒽⒶⓇⒹ pastry freak🐷🐷🐷🐷 Warsaw, Poland 🇵🇱 pastryhard@gmail.com ⬇️⬇️⬇️
-    location: "Poland"
-    followers: 21521
-    engagement: 392
-    commentsToLikes: 0.016044
-    id: ck14lierruu2i0i19p2lyugbt
-    verified: false
-    hashtags: "#warszawa, #polska, #foodart, #pastrylove"
-  - username: "majastrojek"
-    fullname: >-
-      Maja Strojek Model Actress
-    bio: >-
-      📍 Warsaw TikTok: majastrojek_ 📸 photoshoot 🎥 video 🎬 movies, series ❤️ Food Love music, dance, video games, memes and more 📩 majastrojek@gmail.com
-    location: "Poland"
-    followers: 576756
-    engagement: 192
-    commentsToLikes: 12.465804
-    id: ck5bxb0kwndin0i119qbbxato
-    verified: false
-    hashtags: "#photoshoot, #photooftheday, #women, #naturallight"
-  - username: "martyna.chomacka"
-    fullname: >-
-      Martyna Chomacka MasterChef
-    bio: >-
-      ✧ | FINALIST MASTERCHEF POLAND 7 ✈︎ | TRAVELER ♡ | FOODLOVER ➵ | ADVENTURE SEEKER ⇣ | MAIL: martyna.chomacka@gmail.com
-    location: "Poland"
-    followers: 27320
-    engagement: 386
-    commentsToLikes: 0.034022
-    id: ck0u642yd10ed0i19u6j5yys1
-    verified: false
-    hashtags: "#winterwonderland, #italy, #bohochic, #bieszczady"
-  - username: "nikol_koszek"
-    fullname: >-
-      Nikoletta Koszek
-    bio: >-
-      •🔝10 MasterChef Polska 6 edycja •#koszekgotuje •#koszektestuje •Food&Book Lover •współpraca: nikol.koszek@gmail.com
-    location: "Poland"
-    followers: 17411
-    engagement: 822
-    commentsToLikes: 0.012774
-    id: ckap7e52kjoi30i7837fh1qn0
-    verified: false
-    hashtags: "#koszektestuje, #perfect, #cookinggirl, #purehappiness"
 ---

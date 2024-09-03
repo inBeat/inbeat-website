@@ -1,130 +1,130 @@
 ---
-title: Top 10 Cinema Instagram Influencers In Portugal In 2023
+title: Top 10 Cinema Instagram Influencers In Portugal In 2024
 description: >-
-  Find top cinema Instagram influencers in Portugal in 2023. Most popular hashtags: #portugal #instagood #summer #photooftheday.
+  Find top cinema Instagram influencers in Portugal in 2024. Most popular hashtags: #cinema #italy #cinematography #travel.
 platform: Instagram
-hits: 14
-text_top: See the best Instagram accounts on inBeat.
-text_bottom: Our search engine holds 14 Instagram influencers like this in Portugal for you to contact.
+hits: 18
+text_top: Discover the most popular Instagram influencers on inBeat.
+text_bottom: Our database has 18 Instagram influencers like this in Portugal for you to pitch.
 profiles:
-  - username: "iljakochan"
+  - username: "tom_webster5"
     fullname: >-
-      ILJA KOCHAN
+      T Ø M  W E B S T E R
     bio: >-
-      𝗥𝗜𝗦𝗘 𝗔𝗡𝗗 𝗦𝗛𝗜𝗡𝗘. Fɪʟᴍᴍᴀᴋᴇʀ I Dɪʀᴇᴄᴛᴏʀ @weareriseandshine Cʀᴇᴀᴛɪᴠᴇ ᴘʀᴏᴅᴜᴄᴛɪᴏɴ ᴄᴏᴍᴘᴀɴʏ ᴡɪᴛʜ ʟᴏᴠᴇ ғᴏʀ ʜɪɢʜ﹣ϙᴜᴀʟɪᴛʏ ᴠɪᴅᴇᴏ ᴄᴏɴᴛᴇɴᴛ Wᴇʙsɪᴛᴇ ↴
+      🎥 | Filmmaker X Photographer 📍 | Bali 📫 | tomwebster301@gmail.com
     location: "Portugal"
-    followers: 33765
-    engagement: 96
-    commentsToLikes: 0.023924
-    id: ck139fca4l0mb0i19qa33nakm
+    followers: 155549
+    engagement: 432
+    commentsToLikes: 0.036115
+    id: ck0uao2ccclcx0i191heptcxm
     verified: false
-    hashtags: "#mood, #director, #moodoftheday, #photography"
-  - username: "itsanahilima"
+    hashtags: "#artofvisuals, #italy, #europeansummer, #komodo"
+  - username: "masimmo"
     fullname: >-
-      Anahí Lima
+      Márcia Simões
     bio: >-
-      @analucosmetics #sejanalu Email: itsanahilima@gmail.com Lisboa, PT | Angolana
+      Photographer Based in Lisbon, Portugal Contact: marciasimoes@mail.com
     location: "Portugal"
-    followers: 27814
-    engagement: 1282
-    commentsToLikes: 0.026455
-    id: ck9wdx0obhnf90j78h8mughsz
+    followers: 17201
+    engagement: 187
+    commentsToLikes: 0.036440
+    id: ck5zjwj0nie070i140pj0pjfj
     verified: false
-    hashtags: "#cuidadoscomapele, #lookdodia, #bioextratus, #skincareroutine"
-  - username: "charliecfm"
+    hashtags: "#portrait, #venice, #cinema, #travel"
+  - username: "unyolo_movies_blog"
     fullname: >-
-      CHΛRLIΞ • Carlos Frota Melo
+      unyolo: lives through movies
     bio: >-
-      you think you know me ... but you have no idea X ninja media coordinator @havas X marketing | content | social media X made in PT LOADING ...
+      A father (44y/o) 🇵🇹 & daughter’s (19y/o) 🇬🇧 shared love for movies turned into a Blog 🧔🏻👧🏼 Follow for reviews, lists and fun stuff about films.
     location: "Portugal"
-    followers: 7262
-    engagement: 1053
-    commentsToLikes: 0.370331
-    id: ckap4i5927hd50i782o8gpnof
+    followers: 43171
+    engagement: 4
+    commentsToLikes: 0.006283
+    id: ckaoubaejzm4z0i78vgxhyha1
     verified: false
-    hashtags: "#emcasa, #iloveoeiras, #socialisolation, #giveaway"
-  - username: "ricardo.carrico_oficial"
-    fullname: >-
-      Ricardo Carriço
-    bio: >-
-      Fui Manequim, sou Actor, tenho uma paixão pela Pintura e adoro estar em cima do palco a cantar. PR, Digital&Brands susana@centralmodels.pt
-    location: "Portugal"
-    followers: 54477
-    engagement: 365
-    commentsToLikes: 0.034211
-    id: ck6tq15hdotkf0j71bdcr7a3o
-    verified: true
-    hashtags: "#atoresportugueses, #portugal, #atores, #vida"
-  - username: "sofianicholson"
-    fullname: >-
-      sofia nicholson
-    bio: >-
-      Actress🌻🌻🌻 Agent : Sofia Rosendo @sr.actor sr.actor@outlook.pt
-    location: "Portugal"
-    followers: 25308
-    engagement: 316
-    commentsToLikes: 0.042325
-    id: ck5q4f6gpouku0i11bokllrmo
-    verified: false
-    hashtags: "#semfiltro, #maebabada, #momentodivertido, #actor"
-  - username: "michal_officiel"
-    fullname: >-
-      Michal Kwiatkowski
-    bio: >-
-      #music #food #love #sport
-    location: "Portugal"
-    followers: 59510
-    engagement: 218
-    commentsToLikes: 0.021899
-    id: ck8t99lrjnbb50j78rrtu4t2i
-    verified: true
-    hashtags: "#bixentesimonet, #vacances, #throwbackthursday, #menstyle"
+    hashtags: "#moviereview, #unyolo, #movies2023, #cinematography"
   - username: "antonio_camelier"
     fullname: >-
       António Camelier
     bio: >-
       🎭Actor • 👨‍🎓Sports Sciences Degree at Faculty of Human Kinetics
     location: "Portugal"
-    followers: 25356
-    engagement: 354
-    commentsToLikes: 0.015954
+    followers: 39164
+    engagement: 698
+    commentsToLikes: 0.013917
     id: ck0w1554lhlv50i196uowy7ao
     verified: true
-    hashtags: "#48hourfilmproject, #shortfilm, #48hfplisboa, #actorslife"
-  - username: "fit_with_lia"
+    hashtags: "#aserra, #cinema, #shortfilm, #48hfp"
+  - username: "gabrielalrbarros"
     fullname: >-
-      🇱​🇮​🇦
+      Gabriela Barros
     bio: >-
-      💉𝗡𝘂𝗿𝘀𝗲 💙𝗕𝗼𝗱𝘆𝗯𝘂𝗶𝗹𝗱𝗶𝗻𝗴 👖𝗔𝗺𝗯𝗮𝘀𝘀𝗮𝗱𝗼𝗿 @catslegs.fitnesswear 🔹𝗖𝘂𝗽𝗮𝗼: 𝗘𝗟𝗜𝗔𝗡𝗔𝟭𝟬 @zumub.pt #fitnessgirl #gym #fitness
+      @leonorbaboactores🇵🇹 @am_company 🇧🇷 @notable.pt 💌
     location: "Portugal"
-    followers: 12020
-    engagement: 940
-    commentsToLikes: 0.045804
-    id: ckap3nmgb3rj60i78yk8si2rv
+    followers: 176472
+    engagement: 243
+    commentsToLikes: 0.013268
+    id: ck0vzd9fp8j300i19807p3qm2
     verified: false
-    hashtags: "#academia, #fitnessmodel, #happy, #gym"
-  - username: "filipal"
+    hashtags: "#coleccao, #cursoprenatal, #euestouaqui, #erawooquefaltava"
+  - username: "travelinspirept"
     fullname: >-
-      Filipa Lobo
+      Travel Inspire | Van Life 🚐💨
     bio: >-
-      raging against the dying of the light ▲▼▲▼▲ ambassador @huaweimobilept mod @15aoburro mbr @raw_community_member @tv_doorsandwindows @jj_cheers_walls
+      🇵🇹 Andreia, Luís & Nacho 🐕 Living in a Van since 2019 🎬 Weekly videos on Youtube 📍 Switzerland 🇨🇭 ⬇Links
     location: "Portugal"
-    followers: 7774
-    engagement: 606
-    commentsToLikes: 0.053701
-    id: ck0vv99ewo40r0i19utsnxl7v
+    followers: 17147
+    engagement: 197
+    commentsToLikes: 0.055151
+    id: ck5cg04z9nwxb0i11s19b27pn
     verified: false
-    hashtags: "#photocinematica, #odtakeovers, #sublimestreet, #raw"
-  - username: "catarinafurtadooficial"
+    hashtags: "#toscana, #nomadict, #netherlands, #italy"
+  - username: "catarinamiranda_oficial"
     fullname: >-
-      Catarina Furtado
+      𝐂𝐀𝐓𝐀𝐑𝐈𝐍𝐀 𝐌𝐈𝐑𝐀𝐍𝐃𝐀 | LIFESTYLE | RÁDIO | TV
     bio: >-
-      @unfpa Goodwill Ambassador, President of the NGO @coracoescomcoroa, actress, TV host, author of 3 books and mother of 2. ❤️👑
+      📺 Ponto Sem Nó @sic.caras 📻 Rádio 🎥 Everyday Style 📩 ana.patricia@talents.pt
     location: "Portugal"
-    followers: 622400
-    engagement: 190
-    commentsToLikes: 0.025685
-    id: ck5c830bf8o6b0i11brmltd9o
+    followers: 122815
+    engagement: 112
+    commentsToLikes: 0.212313
+    id: clogkxx71rqn30j08rlbscvoc
+    verified: false
+    hashtags: "#sesilletes, #look, #makeup, #siccaras"
+  - username: "mariajoao.bastos"
+    fullname: >-
+      Maria João Bastos
+    bio: >-
+      ACTOR 🇬🇧 @scott_marshall_partners 🇵🇹 @artistglobalmanagement 🇧🇷 @damascenomarcio Digital & Brands ➡️ tiago.froufe@thisisluvin.com
+    location: "Portugal"
+    followers: 266242
+    engagement: 78
+    commentsToLikes: 0.031698
+    id: ck0vzdekn8jwz0i19jvxktiap
     verified: true
-    hashtags: "#thevoicekids, #teatro, #pandemia, #na"
+    hashtags: "#filmes, #ficaadica, #fic, #madalena"
+  - username: "iljakochan"
+    fullname: >-
+      RAS
+    bio: >-
+      Pᴏᴇᴛɪᴄ ᴘʟᴀʏ ᴏғ ʟɪɢʜᴛ @weareriseandshine ʙᴀsᴇᴅ ɪɴ Dᴜ̈ssᴇʟᴅᴏʀғ
+    location: "Portugal"
+    followers: 30165
+    engagement: 64
+    commentsToLikes: 0.018789
+    id: ck139fca4l0mb0i19qa33nakm
+    verified: false
+    hashtags: "#menstyles, #streetstyleforhim, #travelblogger, #iljakochan"
+  - username: "kim.ou"
+    fullname: >-
+      Kim Leuenberger
+    bio: >-
+      Head in the clouds, I fall down a lot and giggle all the time. Lucerne 🇨🇭
+    location: "Portugal"
+    followers: 100736
+    engagement: 58
+    commentsToLikes: 0.018770
+    id: ck0vyezv63nfg0i19uq6nljla
+    verified: false
+    hashtags: "#spitzbergen, #leicasl2, #mittnorge, #leica"
 ---

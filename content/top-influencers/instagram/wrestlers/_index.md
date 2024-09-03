@@ -1,130 +1,130 @@
 ---
-title: Top 10 Wrestlers Instagram Influencers In 2023
+title: Top 10 Wrestlers Instagram Influencers In 2024
 description: >-
-  Find top wrestlers Instagram influencers in 2023. Most popular hashtags: #aew #wrestling #workout.
+  Find top wrestlers Instagram influencers in 2024. Most popular hashtags: #wrestling #aewdynamite #aew.
 platform: Instagram
-hits: 568
-text_top: See the top-rated Instagram accounts on inBeat.
-text_bottom: inBeat has 568 Instagram influencers like this for you to collaborate.
+hits: 636
+text_top: Identify the most popular Instagram profiles on inBeat.
+text_bottom: inBeat has 636 Instagram influencers like this for you to collaborate.
 profiles:
-  - username: "thegreatkhali"
+  - username: "mariahmayx"
     fullname: >-
-      The Great Khali
+      Mariah May ♡ マライア・メイ
     bio: >-
-      Actor | Wrestler Founder of - @cwewrestlingacademy For business and promotional enquiries contact- Thegreatkhali25@gmail.com
+      AEW Wrestler | The Glamour …it’s all about Mariah 👸🏼💫💘
     location: "United Kingdom"
-    followers: 5135239
-    engagement: 52
-    commentsToLikes: 0.012323
-    id: ck5q0x1pa86k30i11t1ufsdg0
-    verified: true
-    hashtags: "#merrychristmas, #happyholidays, #12ladke, #tonykakkar"
-  - username: "amiraliakbari60"
+    followers: 193157
+    engagement: 502
+    commentsToLikes: 0.019941
+    id: ck8tbydsoxo1i0j789naz2l65
+    verified: false
+    hashtags: "#stardom, #mariahmay, #aewrevolution, #bff2"
+  - username: "jamiehayter"
     fullname: >-
-      Amirali Akbari
+      JAMIE HAYTER
     bio: >-
-      World Champion Wrestler 10-1 @onechampionship Heavyweight Fighting out of Tehran🇮🇷 For all business inquiries, email: mis@pridelandmanagement.com
+      British professional wrestler 🌸🌼🌻🌞☀️🌺🧡 @aew
     location: "United States"
-    followers: 2234961
-    engagement: 1614
-    commentsToLikes: 0.023533
-    id: ck5zl0z2gkj3b0i14qqq4kvp9
-    verified: true
-    hashtags: "#fight, #mma, #onechampionship, #knockout"
-  - username: "yones_emamii"
-    fullname: >-
-      Younes Emamichoghaei
-    bio: >-
-      Iranian wrestler
-    location: "Iran"
-    followers: 41246
-    engagement: 2777
-    commentsToLikes: 0.047153
-    id: ck9wi2o8w0jt10j78zntw8g1n
+    followers: 210683
+    engagement: 1325
+    commentsToLikes: 0.016249
+    id: cl430bp5ah36q0i23oape26tv
     verified: false
-    hashtags: ""
-  - username: "hamedbali60"
+    hashtags: "#aewdynamite, #aew, #aewrampage, #hayterhitshard"
+  - username: "mandrewsjunior"
     fullname: >-
-      hamed
+      Mark Andrews
     bio: >-
-      👑الله👑 💪Wrestler💪 Nur&newshar Allameh mohaddes nouri university 3 shahrivar👑 ❤📸❤ Recovered by: @mohammadreza_salehnezhad1
-    location: "Iran"
-    followers: 4251
-    engagement: 2893
-    commentsToLikes: 0.097019
-    id: ck6u00e7ecx340j7193huun96
-    verified: false
-    hashtags: "#studiodani"
-  - username: "majiziya_bhanu"
-    fullname: >-
-      Dr. Majiziya Bhanu
-    bio: >-
-      Powerlifting World Champion 🇮🇳 Fitness Model And Physique🧕 International Arm Wrestler💪 For Enquiries/Collaborations 📩 DM @hafeezahammed
-    location: "United Kingdom"
-    followers: 169439
-    engagement: 883
-    commentsToLikes: 0.023043
-    id: ck8wgdxerh6820j781r1t3c41
-    verified: true
-    hashtags: "#safarishopping, #mysafari, #safarihypermarketuae, #safarifurniturestore"
-  - username: "rushlemania"
-    fullname: >-
-      Courtney Rush
-    bio: >-
-      Hi! Nerdy Canadian pro-wrestler from Winnipeg and human host of 1/7 of @wearerosemary’s soul! I play video games, watch anime and identify as Gohan 😅
+      Pro Wrestler Podcast on @bbcsounds Owner of @attackwrestling Making noise with @musicofjunior Bookings : markandrewsprowrestling@gmail.com 🏴󠁧󠁢󠁷󠁬󠁳󠁿
     location: "United States"
-    followers: 5826
-    engagement: 1518
-    commentsToLikes: 0.054163
-    id: ckapcmqow4dqn0i78r7agm1uu
-    verified: false
-    hashtags: "#rushlemania, #catsofinstagram, #justsaiyan, #myapocalypseoutfit"
-  - username: "hadi.vahedi03"
-    fullname: >-
-      𝙷𝚊𝚍𝚒𝚟𝚊𝚑𝚎𝚍𝚒🤴🏻
-    bio: >-
-      🥀amirm🥀97.5.20🥀 @hadi.vahedii03 🏅wrestler🤼‍♂ ☄️🦍☄️ @spursofficial ⚽️👑 رَ‌ه‌ا♥️
-    location: "Iran"
-    followers: 12165
-    engagement: 1971
-    commentsToLikes: 0.034090
-    id: ckaoz569okeyc0i78kcg326rr
-    verified: false
-    hashtags: "#happybirthdaymybrother, #happybirthdaymyboy, #ddshm, #kiriface"
-  - username: "jordandevlin1"
-    fullname: >-
-      Jordan Devlin
-    bio: >-
-      Professional Wrestler, WWE. The Irish Ace. 🇮🇪♠️ Twitter: @jordan_devlin1
-    location: "United States"
-    followers: 57420
-    engagement: 653
-    commentsToLikes: 0.020719
-    id: ck55pmn5haw8a0i114yt59636
+    followers: 81270
+    engagement: 2643
+    commentsToLikes: 0.009804
+    id: ckap8sr0tppr80i78ixbcud2e
     verified: true
-    hashtags: "#nxttakeover, #standanddeliver, #cruiserweightchampionship, #ironmanmatch"
-  - username: "shidahikaru"
+    hashtags: "#attackprowrestling, #wwe, #nxt, #wrestling"
+  - username: "starkybaby"
     fullname: >-
-      Hikaru Shida
+      Ricky Starks
     bio: >-
-      Pro-wrestler, actor from Japan MAKAI project🇯🇵/All Elite Wrestling🇺🇸 Contact: shidatube@gmail.com ※Business only
+      💪| Professional Wrestler ⚜️| New Orleans native Man of many talents Austin, TX
+    location: "United States"
+    followers: 104644
+    engagement: 537
+    commentsToLikes: 0.016569
+    id: cl45xxveojk6s0i23siujy0l0
+    verified: false
+    hashtags: "#ootd, #absolute, #don, #megafitmeals"
+  - username: "jordynnegrace"
+    fullname: >-
+      Jordynne Grace
+    bio: >-
+      ⚡️ Wrestler/Powerlifter/Bodybuilder 📍 Atlanta, GA 🔥 @5percentnutrition athlete ⬇️ Chat with me!
+    location: "United States"
+    followers: 395046
+    engagement: 621
+    commentsToLikes: 0.012807
+    id: ck0w5is013u220i194oyp4vah
+    verified: true
+    hashtags: "#c467, #be25andalive, #sponsored, #royalrumble"
+  - username: "joehendry"
+    fullname: >-
+      Joe Hendry
+    bio: >-
+      The Singing Pro Wrestler. Pre-Order / Download my song: IBelieveInJoeHendry.com Contact: bookjoehendry@gmail.com
     location: ""
-    followers: 191566
-    engagement: 743
-    commentsToLikes: 0.014151
-    id: ck5bta50xflkq0i11cg8igcth
+    followers: 240282
+    engagement: 1093
+    commentsToLikes: 0.026135
+    id: ck6twr4zttmcq0j71k2w7euzv
     verified: false
-    hashtags: "#lifewithcats, #holyshida, #hikarushida, #prowrestler"
-  - username: "emilywrestling"
+    hashtags: "#wrestling, #gym, #joehendry, #gymmotivation"
+  - username: "nelson_brands"
     fullname: >-
-      emily jaye
+      Nelson Brands
     bio: >-
-      ⇾ pro wrestler in training ⇾ email/dm for interviews, collabs, sponsorships and more !! ⇾ collarxelbow: EMILYJAYE
-    location: ""
-    followers: 9444
-    engagement: 1224
-    commentsToLikes: 0.030869
-    id: ckf5msdu4v6c70j239iwz31i4
+      Iowa Hawkeye Wrestler P IV•XIII #RGOD
+    location: "United States"
+    followers: 11629
+    engagement: 1724
+    commentsToLikes: 0.017390
+    id: ckwn4ex5wqt5u0j231wk5qy8z
     verified: false
-    hashtags: "#wweshopshots, #indywrestling, #impact, #yaonlylivvonce"
+    hashtags: "#nopainnogain, #midaspartner, #ncaawrestling, #tulsatime"
+  - username: "rizakayaalp"
+    fullname: >-
+      Rıza Kayaalp
+    bio: >-
+      🇹🇷Turkish Wrestler🇹🇷 •European C.🥇🥈🥇🥇🥇🥇🥇🥇🥇🥇🥇🥇 🥇 •World C.🥉🥉🥇🥈🥈🥇🥇🥇🥇 •London Olympic🥉 •Rio Olympic 🥈 •Tokyo olympic 🥉 Yozgat-Ankara
+    location: "Turkey"
+    followers: 237399
+    engagement: 1186
+    commentsToLikes: 0.012231
+    id: ck0w41108w97n0i19bpat78y4
+    verified: true
+    hashtags: "#uww, #wrestlezagreb, #thehomeofwrestling, #ma"
+  - username: "realbrittbaker"
+    fullname: >-
+      Britt Baker
+    bio: >-
+      Professional Wrestler @aew Dentist Actor
+    location: "Canada"
+    followers: 522495
+    engagement: 446
+    commentsToLikes: 0.014467
+    id: ck0w57tha2bof0i19ss0jdqlv
+    verified: true
+    hashtags: "#aewdynamite, #aew, #aewallin, #prowrestlingtees"
+  - username: "sarhilde"
+    fullname: >-
+      Sarah Hildebrandt
+    bio: >-
+      Olympic Wrestler for Team USA🇺🇸 Olympic 🥉 World 🥈🥈🥉 @the_rudis Athlete 🦊
+    location: "United States"
+    followers: 63472
+    engagement: 796
+    commentsToLikes: 0.008359
+    id: ck0w415q3w9xw0i19z15vp9q7
+    verified: false
+    hashtags: "#wrestling, #teamusa, #wrestlebuenosaires, #womenswrestling"
 ---

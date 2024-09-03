@@ -1,11 +1,11 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Ankara In 2023
+title: Top 10 Beauty Instagram Influencers In Ankara In 2024
 description: >-
-  Find top beauty Instagram influencers in Ankara in 2023. Most popular hashtags: #ankara #beauty #istanbul #makeup.
+  Find top beauty Instagram influencers in Ankara in 2024. Most popular hashtags: #ankara #istanbul #beauty #ciltbak.
 platform: Instagram
-hits: 44
-text_top: Analyze the top-rated Instagram influencers on inBeat.
-text_bottom: Our database aggregates 44 Instagram influencers like this in Ankara, Turkey for you to pitch.
+hits: 49
+text_top: Discover the best Instagram profiles on inBeat.
+text_bottom: Our search engine has 49 Instagram influencers like this in Ankara, Turkey for you to work with.
 profiles:
   - username: "songulayhasan"
     fullname: >-
@@ -31,30 +31,30 @@ profiles:
     id: ckaoyf67vh9lr0i78tbgynksx
     verified: false
     hashtags: "#hijjab, #homedecor, #likesforlike, #liketime"
-  - username: "drozgurkoldas"
+  - username: "figenyilmazwellness"
     fullname: >-
-      Dr. A. Özgür Koldaş
+      Figen Yılmaz
     bio: >-
-      Allergan/Türkiye Eğitimci Grubu üyesi #Tv8Sunucusu🎬 #çookyaşaprogramı 🎥 #medicalaesthetics #aestheticinjector CallCenter ☎️ 0 850 215 16 16
+      @figenyilmazacademy 🍀Mutlu Kadınlar,Mutlu Yarınlar 👩🏻‍🎓Akademisyen 🏃🏻‍♀️Spor Bil. ve Egz.Uzmanı 🏅Başkent Üniv. Yaşam Koçu ⚕️Tıbbi Beslenme Danışmanı
     location: "Turkey"
-    followers: 74324
-    engagement: 23
-    commentsToLikes: 0.024440
-    id: ck6ug7pvl1ejk0j71ali6inom
+    followers: 592505
+    engagement: 58
+    commentsToLikes: 0.047177
+    id: ck9hbc8ndg8tn0j786fyvhnqt
     verified: false
-    hashtags: "#skinrenewal, #tv8, #medicalaesthetic, #drozgurkoldas"
-  - username: "ankaraetkinlik"
+    hashtags: "#incir, #antiaging, #istanbul, #kiloverme"
+  - username: "betuulle"
     fullname: >-
-      Ankara Etkinlik ®™
+      Betül 💫💫
     bio: >-
-      Tescilli Marka ®™ 🌟 Influencer (2013) 🌟 Blogger (2004)
+      ✨✨Lifestyle Blogger | İnfluencer ✨✨Cilt Bakımı | Makyaj | Kombin | Mekan Önerileri💜 👇🏻Tiktok 👇🏻
     location: "Turkey"
-    followers: 77080
-    engagement: 181
-    commentsToLikes: 0.035345
-    id: ck0u6kgjj25gl0i1933eqbbi0
+    followers: 24880
+    engagement: 102
+    commentsToLikes: 0.032269
+    id: ck8tagdvzrn200j78yifuxvzl
     verified: false
-    hashtags: "#14s, #hediye, #sevgililergu, #ankara"
+    hashtags: "#ciltbak, #evdekorasyonu, #ni, #hmootd"
   - username: "jansulubirblog"
     fullname: >-
       Cansu🌟
@@ -67,18 +67,6 @@ profiles:
     id: ck14gilzr5eq20i19jxsrt25i
     verified: false
     hashtags: "#avontim, #makyaj, #uzatuzatabildig, #bimaktuel"
-  - username: "sesversus"
-    fullname: >-
-      SesVerSus
-    bio: >-
-      SesVerSus A Capella 📞0850 888 0 787 (SVS) 📩info@sesversus.com.tr
-    location: "Turkey"
-    followers: 41125
-    engagement: 183
-    commentsToLikes: 0.010903
-    id: ck14i68ljduhg0i19f1ys04le
-    verified: true
-    hashtags: "#cool, #evdekal, #hayateves, #colorful"
   - username: "dyt_pelinyuksel"
     fullname: >-
       Diyetisyen Pelin YÜKSEL
@@ -91,6 +79,42 @@ profiles:
     id: ck6ue7ax1p8h10j71pw5gzdg6
     verified: false
     hashtags: "#canl, #ankaradiyet, #yemektarifleri, #yum"
+  - username: "nazlisk"
+    fullname: >-
+      Nazlı Işık
+    bio: >-
+      Beauty | Lifestyle | Content Creator 💌nazliisik@istalkin.com
+    location: "Turkey"
+    followers: 101166
+    engagement: 120
+    commentsToLikes: 0.005381
+    id: ckap4175v5e3w0i78fsiawnpv
+    verified: false
+    hashtags: "#travelphotography, #instagram, #yaz, #summer"
+  - username: "ertugrulgazisener"
+    fullname: >-
+      Ertuğrul Gazi Şener
+    bio: >-
+      Founder of EGS Beauty Cosmetics 💄 @ertugrulgazisener1
+    location: "Turkey"
+    followers: 1003085
+    engagement: 112
+    commentsToLikes: 0.012081
+    id: ckapadupgvplg0i78cu15cst7
+    verified: false
+    hashtags: "#fyp, #bodybuilding, #fitness, #motivasyon"
+  - username: "tugcedemiraallll"
+    fullname: >-
+      Tugce DEMİRAL
+    bio: >-
+      Güzellik | Moda | Lifestyle ✉️tuqce21@hotmail.com Bitlis | Ankara
+    location: "Turkey"
+    followers: 105737
+    engagement: 45
+    commentsToLikes: 0.018473
+    id: ck8tbm7r0w7iy0j783rvzy3g2
+    verified: false
+    hashtags: "#istanbul, #instagram, #instagood, #nature"
   - username: "handekaptan"
     fullname: >-
       hande kaptan
@@ -103,28 +127,4 @@ profiles:
     id: ck5cgc922ojtk0i117ld62s85
     verified: true
     hashtags: "#istanbul, #benimad, #isis, #giveaway"
-  - username: "serpillbozkurt"
-    fullname: >-
-      Serpil
-    bio: >-
-      İnfluencer I Turkey ✨Fashion I beauty ✨Marka iş birliği için:DM serpilbozkurt0822@gmail.com
-    location: "Turkey"
-    followers: 50909
-    engagement: 247
-    commentsToLikes: 0.133831
-    id: ck8t4upel7zex0j78clkcijws
-    verified: false
-    hashtags: "#snow, #photography, #avon, #instagood"
-  - username: "sinemlemakyaj"
-    fullname: >-
-      Sinem Dinler
-    bio: >-
-      💄 Beauty | Makeup 💌Pr ve iş birlikleri için MAİL Diğer hesabım @sinemdazdarevicc Bosnia and Herzegovina 🇧🇦 🇹🇷
-    location: "Turkey"
-    followers: 149861
-    engagement: 706
-    commentsToLikes: 2.108848
-    id: ck6ui1ou6cjgq0j71xrbngkqz
-    verified: false
-    hashtags: "#cekilisvar, #cekilis, #makeup, #tablet"
 ---

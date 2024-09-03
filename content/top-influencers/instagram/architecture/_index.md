@@ -1,11 +1,11 @@
 ---
-title: Top 10 Architecture Instagram Influencers In 2023
+title: Top 10 Architecture Instagram Influencers In 2024
 description: >-
-  Find top architecture Instagram influencers in 2023. Most popular hashtags: #interiordesign #decoaddict #summertime.
+  Find top architecture Instagram influencers in 2024. Most popular hashtags: #travel #architecture #aesthetic.
 platform: Instagram
-hits: 8917
-text_top: Analyze the top-rated Instagram profiles on inBeat.
-text_bottom: inBeat has 8917 Instagram influencers like this for you to collaborate.
+hits: 9227
+text_top: Discover the top-rated Instagram influencers on inBeat.
+text_bottom: Our platform holds 9227 Instagram influencers like this for you to pitch.
 profiles:
   - username: "archepidemic26"
     fullname: >-
@@ -13,9 +13,9 @@ profiles:
     bio: >-
       architecture!
     location: "Italy"
-    followers: 3825
-    engagement: 1000
-    commentsToLikes: 0.015077
+    followers: 3004
+    engagement: 1319
+    commentsToLikes: 0.015537
     id: ck138m60agwxj0i19q6pqokxd
     verified: false
     hashtags: ""
@@ -43,88 +43,88 @@ profiles:
     id: ck13brx0cwvm30i19loxezf50
     verified: false
     hashtags: "#axonometric, #art, #amazingarchitecture, #fashion"
-  - username: "alexanderpaar"
+  - username: "raphaelmetivet"
     fullname: >-
-      Alexander Paar
+      Raphael Metivet
     bio: >-
-      Creative mind w/ a passion for #interior #design #architecture #travel 🤍 Feel free to explore my world 🌍 ✉️ via DM📍based in Germany Impressum
-    location: "Germany"
-    followers: 137602
-    engagement: 125
-    commentsToLikes: 0.110677
-    id: ck5c4ju3v1i7n0i11jfbj42lc
-    verified: false
-    hashtags: "#homedecoration, #nordiskdesign, #monochromehome, #altbauliebe"
-  - username: "atelierdevergne"
-    fullname: >-
-      Atelier Devergne par Audrey
-    bio: >-
-      Architecture et décoration intérieure | Fondatrice de l’Atelier et la @maisondevergne | Art de vivre | Mum 👧🏼👦🏻👶🏼| Pour en savoir plus ⬇️
+      Capturing the beauty of Paris✨ 📸 Architecture & Luxury lifestyle photographer 📚 Discover my book ‘Amazing Paris’ ⬇️
     location: "France"
-    followers: 100595
-    engagement: 176
-    commentsToLikes: 0.039849
-    id: ck5hgotob3xxm0i11y5xog1ot
+    followers: 323917
+    engagement: 668
+    commentsToLikes: 0.013739
+    id: ck6trgq9uyw0z0j71114dx668
     verified: false
-    hashtags: "#maisondefamille, #carreauxdeciment, #maisonbourgeoise, #atelierdevergne"
-  - username: "architectanddesign"
+    hashtags: "#vieparisienne, #parishotel, #igersparis, #hello"
+  - username: "acaciadiana"
     fullname: >-
-      Architecture & Design
+      Acacia
     bio: >-
-      🌍 The best Architecture & Design platform. 📩 Contact: info@architectanddesign.net
+      Canon Master | Travel, Architecture & Lifestyle Sorry I don’t know nama sayur
+    location: "United Kingdom"
+    followers: 43878
+    engagement: 429
+    commentsToLikes: 0.010555
+    id: ck5ce8txvkkii0i119s6pvvj0
+    verified: false
+    hashtags: "#canonphotography, #travel, #hydepark, #canoneosr"
+  - username: "chelseadinen"
+    fullname: >-
+      Chelsea Dinen
+    bio: >-
+      memoirs of a girl who’s had many homes 🇳🇱🇬🇧🇩🇪🇺🇸 ▸ amsterdam ▸ certified mindset coach ▸ adventures in architecture, coffee and culture
+    location: "United Kingdom"
+    followers: 10906
+    engagement: 574
+    commentsToLikes: 0.032900
+    id: ck6uhi29498js0j71sl7taggh
+    verified: false
+    hashtags: "#tallinn, #theprettycities, #europe, #iamsterdam"
+  - username: "styledbyhusna"
+    fullname: >-
+      Husna 🥀
+    bio: >-
+      Interior Architecture Graduate 👩🏽‍🎓 London 24 🇧🇩 Tiktok: @styledbyhusna DM/ email for enquiries/ promotions
+    location: "United Kingdom"
+    followers: 17149
+    engagement: 398
+    commentsToLikes: 0.036648
+    id: clumg0rhpbsae0k088bpexnpt
+    verified: false
+    hashtags: "#modestfashion, #abayalovers, #hijabiblogger, #abayaarab"
+  - username: "andrewrafaelkim"
+    fullname: >-
+      Andrew Kim
+    bio: >-
+      김현준 • NYC & TX • architecture student • ✞ 📧: akim108@gmail.com new arch vlog out now ⬇️
     location: "United States"
-    followers: 3804521
-    engagement: 142
-    commentsToLikes: 0.005211
-    id: ck0w3iuwvtmzr0i19zpfq46dp
-    verified: true
-    hashtags: "#newyork, #promenadedesanglais, #polignanoamare, #greece"
-  - username: "asha"
-    fullname: >-
-      ASHA
-    bio: >-
-      Bold | Fresh | Classic. Jewelry, accessories & dresses designed by Ashley McCormick. Inspired by art, architecture and world travels.
-    location: "United States"
-    followers: 50340
-    engagement: 92
-    commentsToLikes: 0.026200
-    id: ckqvvszgh2mcj0j23u21pm4n9
+    followers: 149673
+    engagement: 1552
+    commentsToLikes: 0.004444
+    id: cloec8krzlg650j08c0n4akyt
     verified: false
-    hashtags: "#whatsnew, #ashleymccormickfine, #athome, #happilyeverasha"
-  - username: "mariasamano"
+    hashtags: "#architect, #architecturestudent, #hitcny, #jblpartner"
+  - username: "manonurpileonardi"
     fullname: >-
-      MARIA SAMANO
+      Manon Urpi Léonardi
     bio: >-
-      Architecture @gatiathelabel I design things 🧚🏼‍♀️
-    location: "United States"
-    followers: 3246
-    engagement: 2495
-    commentsToLikes: 0.122103
-    id: ck8wghhy5hdiu0j785udxrddi
+      manger, prier, aimer everything with love and passion @aqui.architecture
+    location: "France"
+    followers: 26588
+    engagement: 596
+    commentsToLikes: 0.016821
+    id: ckwzuvjllymi20j23le8iv9t9
     verified: false
-    hashtags: "#stemwomen"
-  - username: "beata_walczynska"
+    hashtags: "#pullandbear, #pullandbearcommunity"
+  - username: "luke_through_my_lens"
     fullname: >-
-      
+      Luke Raggett
     bio: >-
-      #poznań #poland 🇵🇱 architect📐#art #architecture #traveling 📷 #music 🎶 #impressions🌅 #travel➡️ =all photos & copyright are mine, don't copy=
-    location: "United States"
-    followers: 10788
-    engagement: 1752
-    commentsToLikes: 0.065752
-    id: ck13azgmrsy100i19khq0qwde
+      🔜 🇱🇰 🌎 Luxury Hotels, Florals and Architecture, Cityscapes and Photographer of Seasonal Beauty 📧 PR and Press Enquires: lando_ldn@icloud.com
+    location: "United Kingdom"
+    followers: 68125
+    engagement: 2604
+    commentsToLikes: 0.024755
+    id: clpck1u6kd5is0k08f748tg8d
     verified: false
-    hashtags: "#springvibes, #cats, #poland, #rabowice"
-  - username: "laracvic"
-    fullname: >-
-      𝐋.𝐂.
-    bio: >-
-      germany | hrvatska architecture student 𝐸𝒱
-    location: "Germany"
-    followers: 3870
-    engagement: 1938
-    commentsToLikes: 0.088203
-    id: ck0tt8l061m780i199mz7v2cc
-    verified: false
-    hashtags: ""
+    hashtags: "#christmasinlondon, #christmasinspiration, #festiveseason, #christmastime"
 ---

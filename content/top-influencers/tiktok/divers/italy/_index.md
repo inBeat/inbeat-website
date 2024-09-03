@@ -1,11 +1,11 @@
 ---
-title: Top 10 Divers TikTok Influencers In Italy In 2023
+title: Top 10 Divers TikTok Influencers In Italy In 2024
 description: >-
-  Find top divers TikTok influencers in Italy in 2023. Most popular hashtags: #perte #neiperte #foryou #viral.
+  Find top divers TikTok influencers in Italy in 2024. Most popular hashtags: #perte #neiperte #foryou #viral.
 platform: TikTok
-hits: 232
-text_top: Analyze the best TikTok influencers on inBeat.
-text_bottom: Our search engine holds 232 TikTok influencers like this in Italy for you to pitch.
+hits: 231
+text_top: Analyze the top-rated TikTok influencers on inBeat.
+text_bottom: Our platform holds 231 TikTok influencers like this in Italy for you to collaborate.
 profiles:
   - username: "salvatorevella72"
     fullname: >-
@@ -66,7 +66,7 @@ profiles:
     commentsToLikes: 0.019527
     id: ckbr8hozhnf7b0j23rigdmhvd
     verified: false
-    hashtags: "#ironia, #perte, #covid, #crisbrave"
+    hashtags: "#diversit, #covid, #disabili, #crisbrave"
   - username: "elenaanthony_bd"
     fullname: >-
       Elena Travaini

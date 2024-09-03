@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fitness TikTok Influencers In Toronto In 2023
+title: Top 10 Fitness TikTok Influencers In Toronto In 2024
 description: >-
-  Find top fitness TikTok influencers in Toronto in 2023. Most popular hashtags: #fitness #toronto #fyp #foryou.
+  Find top fitness TikTok influencers in Toronto in 2024. Most popular hashtags: #fitness #toronto #foryou #fyp.
 platform: TikTok
 hits: 52
-text_top: Discover the most popular TikTok profiles on inBeat.
-text_bottom: Our search engine holds 52 TikTok influencers like this in Toronto, Canada for you to connect with.
+text_top: See the top-rated TikTok accounts on inBeat.
+text_bottom: inBeat has 52 TikTok influencers like this in Toronto, Canada for you to collaborate.
 profiles:
   - username: "tylersarry"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.198070
     id: ckcem2lh5w6mr0j23et3wm83r
     verified: false
-    hashtags: "#fittoker, #fitnessismylife, #torontofitness, #over35club"
+    hashtags: "#fitnessismylife, #torontofitness, #fittoker, #fitnessismypassion"
   - username: "geoffbryanfit"
     fullname: >-
       Geoff Bryan 🤙🏼🔥
@@ -90,7 +90,7 @@ profiles:
     commentsToLikes: 0.088157
     id: ckace9kecltqt0i78fzu4m3f9
     verified: false
-    hashtags: "#tiktokdiy, #catsoftiktok, #xyzabc, #homediy"
+    hashtags: "#xyzabc, #tiktokdiy, #homedecor, #catsoftiktok"
   - username: "nandosirianni"
     fullname: >-
       Nando Sirianni

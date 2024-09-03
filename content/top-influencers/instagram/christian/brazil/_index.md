@@ -1,36 +1,36 @@
 ---
-title: Top 10 Christian Instagram Influencers In Brazil In 2023
+title: Top 10 Christian Instagram Influencers In Brazil In 2024
 description: >-
-  Find top christian Instagram influencers in Brazil in 2023. Most popular hashtags: #make #makeuptutorial #tbt.
+  Find top christian Instagram influencers in Brazil in 2024. Most popular hashtags: #make #challenge #makeuptutorial.
 platform: Instagram
-hits: 544
-text_top: See the most popular Instagram profiles on inBeat.
-text_bottom: inBeat aggregates 544 Instagram influencers like this in Brazil for you to connect with.
+hits: 539
+text_top: Discover the top-rated Instagram profiles on inBeat.
+text_bottom: inBeat aggregates 539 Instagram influencers like this in Brazil for you to work with.
 profiles:
   - username: "julianapriscilaofc"
     fullname: >-
-      PRINCESA DA FAVELA
+      Juliana Priscila
     bio: >-
-      Jesus te ama💛 #youtuber 🎥 #Modelo 📸 #Dançarina 💃🏼 #tecemenfermagem💉💊 📥 Parcerias via Direct 📩 julypinkgod@gmail.com @christianjosephofc 🤱🏻
+      Só o amor constrói pontes Indestrutíveis! 👩‍👦Mãe do Christian 👼🏻Mãe do Sebastian 👩‍🎓 Tec. Enfermagem 🩺 ⚜️Nutrição 2/8 ⚖️🐍🌾
     location: "Brazil"
-    followers: 691656
-    engagement: 1565
-    commentsToLikes: 2.148656
+    followers: 1620565
+    engagement: 432
+    commentsToLikes: 0.018561
     id: ck9wh2n51vywv0j78zp24ep8k
     verified: false
-    hashtags: "#tbt"
-  - username: "gabibrandt"
+    hashtags: ""
+  - username: "zoofficial"
     fullname: >-
-      GABI BRANDT
+      ZOO
     bio: >-
-      influencer, mom, wife, christian, lover. cx postal 55877 cep 22793-074 // publicidade: contato@gabibrandt.com.br
+      ✨ é ZOO (ZU). não Zo, nem Zoe, muito menos Zoey 🧸 mãe do @gael e do @igdonikki ⚠️ @pripanki 🖤 @christian_fig
     location: "Brazil"
-    followers: 6462580
-    engagement: 543
-    commentsToLikes: 0.004113
-    id: ck0uaxbmgddgz0i19d5aw7gqx
+    followers: 4338299
+    engagement: 287
+    commentsToLikes: 0.006051
+    id: ck14iho38fg7i0i19hxpu1xjw
     verified: true
-    hashtags: "#publi"
+    hashtags: "#diadof, #felizdiadof"
   - username: "danieldantas_ofc"
     fullname: >-
       Daniel Dantas 

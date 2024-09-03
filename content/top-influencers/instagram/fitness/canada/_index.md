@@ -1,130 +1,130 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Canada In 2023
+title: Top 10 Fitness Instagram Influencers In Canada In 2024
 description: >-
-  Find top fitness Instagram influencers in Canada in 2023. Most popular hashtags: #fitnessgirl #fitnessjourney #strong #fitness.
+  Find top fitness Instagram influencers in Canada in 2024. Most popular hashtags: #wedding #toronto #model #vancouver.
 platform: Instagram
-hits: 281
-text_top: Analyze the best Instagram influencers on inBeat.
-text_bottom: Our search engine holds 281 Instagram influencers like this in Canada for you to contact.
+hits: 522
+text_top: See the most popular Instagram accounts on inBeat.
+text_bottom: Our platform aggregates 522 Instagram influencers like this in Canada for you to pitch.
 profiles:
-  - username: "bodmonzaid"
+  - username: "shalini_matt"
     fullname: >-
-      Laiba 🇵🇰🇨🇦
+      Shalini
     bio: >-
-      @bodmonfit | @laibazaid 💌Contact@BodmonZaid.com I’ve helped over 50,000 people hit their fitness goals🥹 $20 HOME WORKOUT COURSE 👇🏼
+      Fashion • Fitness• Beauty 📩: shalini.matt@hotmail.com 📍Toronto, Canada
     location: "Canada"
-    followers: 1300963
-    engagement: 128
-    commentsToLikes: 0.028649
-    id: ck1399w8yk8zt0i1987wt6qzs
-    verified: true
-    hashtags: "#hairtutorial, #makeuptutorial, #pakistani, #monakattan"
-  - username: "louisegreen_bigfitgirl"
-    fullname: >-
-      Louise Green
-    bio: >-
-      Author, Big Fit Girl & Fitness for Everyone Size Inclusive Coach & Educator CEO,@sizeinclusivetraining JAN TRAINING CAMPS 💪🏽👇🏽
-    location: "Canada"
-    followers: 62990
-    engagement: 126
-    commentsToLikes: 0.028914
-    id: ckqs85b9yz5g70j23acy7wpiw
+    followers: 37013
+    engagement: 6730
+    commentsToLikes: 0.001572
+    id: ck6uernicsp5o0j71ntftvyov
     verified: false
-    hashtags: "#fitnessforall, #plussizefitness, #representationmatters, #bigfitgirl"
+    hashtags: "#trending, #barbiemovie, #dailyfashion, #fashioninspo"
+  - username: "danieladibfitness"
+    fullname: >-
+      Daniela Dib- DibFit ®
+    bio: >-
+      🚴🏽 Founder @dibfitcycle - 806 Homer Street, Vancouver- Fitness instructor ⏰ Book your bikes MONDAY at NOON 💪🏼 DibFit apparel available in the studio
+    location: "Canada"
+    followers: 30471
+    engagement: 488
+    commentsToLikes: 0.208540
+    id: ck5zns6e5p1xk0i14t0t4wygf
+    verified: false
+    hashtags: "#glow, #photography, #styled, #bride"
+  - username: "antcfitness"
+    fullname: >-
+      Anthony Cushion
+    bio: >-
+      A blend of Fitness, Home & Life as Husbands 🇨🇦 🇬🇧 🏠 @studiototeda | Fixing Our Victorian Home ⚡️ @proudfitteam 🌎nickandant@outreachagency.co.uk
+    location: "Canada"
+    followers: 239353
+    engagement: 716
+    commentsToLikes: 0.006052
+    id: ck15uwv50ow3a0i194aygt56b
+    verified: false
+    hashtags: "#couplegoals, #relationshipgoals, #gayman, #travel"
+  - username: "sarnicoledavis"
+    fullname: >-
+      Sarah Nicole Davis
+    bio: >-
+      📺 Anchor / Reporter on @tsn_official 🏒 Former rinkside reporter for @nhlbruins 🤸‍♀️ Fitness Enthusiast 👧🏼 👶🏻 Mama TikTok @thesarahnicoledavis 🇨🇦
+    location: "Canada"
+    followers: 17845
+    engagement: 597
+    commentsToLikes: 0.054436
+    id: cks1lypj2ng9w0j23nttfp8xg
+    verified: false
+    hashtags: "#tsn, #suburbansarah, #sportscentre, #worklife"
   - username: "loganmedeiros"
     fullname: >-
       Logan Medeiros
     bio: >-
-      fashion, fitness & lifestyle ✉️ loganmedeiros44@gmail.com
+      fashion, fitness, beauty & lifestyle 📍montréal 💌 loganmedeiros44@gmail.com tiktok (270k), links & more:
     location: "Canada"
-    followers: 9368
-    engagement: 1162
-    commentsToLikes: 0.333939
+    followers: 33499
+    engagement: 6576
+    commentsToLikes: 0.051953
     id: ckf5n0rnmw99f0j238jo8l9i0
     verified: false
-    hashtags: "#f21can, #f21in21, #foreverfaves, #soulmiapartner"
-  - username: "sabr_22"
+    hashtags: "#apartmentlife, #highrise, #aesthetic, #apartmentliving"
+  - username: "super_singh1313"
     fullname: >-
-      Sabrina Ianniciello
+      SUPER SINGH WNBF PRO | TRANSFORMATION COACH
     bio: >-
-      Model/ Travel / Fitness 🤍 @believesupplements - SAB20 20% DM/Email for collaboration
+      👉🏻Natural Athlete💪🏽 👉🏻WNBF Canada PRO 🥇 👉🏻APU,Canada🇨🇦-Grand lift open champion74kg🥇 👉🏻 15 years of experience in Fitness 💪🏽 👉🏻Certified Trainer
     location: "Canada"
-    followers: 168235
-    engagement: 374
-    commentsToLikes: 0.039933
-    id: ck5c6boxy540s0i114b27ovck
+    followers: 67078
+    engagement: 1223
+    commentsToLikes: 0.016981
+    id: ck8wfmbvrfxo90j78i0xupp5v
     verified: false
-    hashtags: "#missygirl, #missyempire, #missygirls, #cybermonday"
-  - username: "rhi_rhi_fit"
+    hashtags: "#gymtime, #bodybuilder, #healthylifestyle, #ufitcrossfit"
+  - username: "ambers.paradox"
     fullname: >-
-      Rhi Rhi
+      Amber | Motorcycle Influencer
     bio: >-
-      Fitness|workouts|body+|hoopdance I just want to inspire others to take care of mind, body and spirit☮️
+      ▫️Motorcycles ~ Fitness 📍Vancouver, BC
     location: "Canada"
-    followers: 10154
-    engagement: 858
-    commentsToLikes: 0.104976
-    id: ck9wemebkkwm30j78a49z604p
+    followers: 48711
+    engagement: 983
+    commentsToLikes: 0.027081
+    id: ck14jdirnjssx0i1969ablqz4
     verified: false
-    hashtags: "#fitredhead, #fitnessfashion, #murves, #fitnessjourney"
-  - username: "sarahlfts"
+    hashtags: "#damonmotorcycles, #s1000rr, #instamotogallery, #ducatipeople"
+  - username: "aka_naach"
     fullname: >-
-      Sarah
+      Akanksha | Bollywood Dance
     bio: >-
-      24 | Fitness | YEG + Vibes only
+      💃🏻Dance is my drug 🙋🏻‍♀️Founder: @naachandco 🎥 Bollywood dance, Wedding Choreo, Funny skits 📍Toronto 💌 aka.naach@gmail.com Jan Bolly Fitness👇
     location: "Canada"
-    followers: 8097
-    engagement: 1261
-    commentsToLikes: 0.044841
-    id: ck8tcsoiy0iw30j78si8wfewi
+    followers: 43366
+    engagement: 950
+    commentsToLikes: 0.112096
+    id: ckap0hg5aqayq0i78ibe70cxk
     verified: false
-    hashtags: "#fitspo, #gymmotivation, #gymwear, #workout"
-  - username: "erenlegendifbbpro"
+    hashtags: "#body, #friends, #garba, #bollywood"
+  - username: "deannawoo"
     fullname: >-
-      🔥Mr World IFBB Pro Eren Legend
+      Deanna Woo
     bio: >-
-      🙏🏽God 🏆World Champion • Olympian • IFBB Pro 🇨🇦CAN Gold Medalist 💪🏽Celebrity Fitness Coach 🎬Actor/Speaker/Model/Writer/Designer ✘Creative Disruptor✘
+      vancouver • food • fitness • travel etc. 💌: dcwoo9293@gmail.com 🎥: join my tiktok fam (69K+)
     location: "Canada"
-    followers: 33490
-    engagement: 242
-    commentsToLikes: 0.212656
-    id: ckaouqb531clz0i78uniarc7y
+    followers: 108706
+    engagement: 515
+    commentsToLikes: 0.201508
+    id: ck0vv5ehynmlc0i19v5dv41dt
     verified: false
-    hashtags: "#letgoliveandgrow, #exceptthatonetime, #calculatedrisks, #lifeisone"
-  - username: "nate.k.weir"
+    hashtags: "#vancouver, #vancouverfood, #dessert, #kimbap"
+  - username: "fairygramz"
     fullname: >-
-      Nathan - Disney - Fitness
+      Ferdaous Ben Abderrahmen
     bio: >-
-      🏰 - Disney 💪 - Fitness 🎡 - Theme Park Design 🇨🇦 - Toronto, Ontario ✈️ - Orlando, Florida 💙 - @charitycorkins
+      Lifestyle, beauty and fitness 📧 ferdaws.bn@gmail.com 📍 Montreal 🇨🇦 YouTube and social links ⬇️
     location: "Canada"
-    followers: 53005
-    engagement: 916
-    commentsToLikes: 0.017206
-    id: ck6uftiuzz1jk0j71jpc273ki
+    followers: 117064
+    engagement: 788
+    commentsToLikes: 0.014006
+    id: cksh9xngfvq8e0j2327l3eptw
     verified: false
-    hashtags: "#peterpan, #cosplay, #hufflepuff, #yyz"
-  - username: "pilinemer"
-    fullname: >-
-      Pili Nemer
-    bio: >-
-      💍 @kevinrobmartin 💪🏼ONLINE group fitness | Coach 📧 pilinemer@gmail.com 🔗LINKS TO MY PROGRAMS & CODES👇🏼
-    location: "Canada"
-    followers: 25311
-    engagement: 260
-    commentsToLikes: 0.035259
-    id: ck5zxcy527s3h0i14urigew6v
-    verified: false
-    hashtags: "#summer, #fitnessgirl, #coaching, #personaltrainer"
-  - username: "kellynimens"
-    fullname: >-
-      KELLY NIMENS
-    bio: >-
-      DANCE & FITNESS Dancer| @mtaagency Co-Founder and Director of|@runwaydanceconnection
-    location: "Canada"
-    followers: 7421
-    engagement: 649
-    commentsToLikes: 0.066217
-    id: ck5zw3sd95fd40i14tity3vkl
-    verified: false
-    hashtags: "#auntlife"
+    hashtags: "#momlife, #commense, #canadianinfluencer, #sheinforall"
 ---

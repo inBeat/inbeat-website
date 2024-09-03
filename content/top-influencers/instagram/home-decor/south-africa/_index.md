@@ -1,130 +1,130 @@
 ---
-title: Top 10 Home Decor Instagram Influencers In South Africa in 2023
+title: Top 10 Home Decor Instagram Influencers In South Africa In 2024
 description: >-
-  Find top home decor Instagram influencers in South Africa in 2023. Most popular hashtags: #homedecor #travel #home #interiordesign.
+  Find top home decor Instagram influencers in South Africa in 2024. Most popular hashtags: #homedecor #interiordecor #interiorstyling #decor.
 platform: Instagram
-hits: 10
-text_top: Discover the top-rated Instagram profiles on inBeat.
-text_bottom: inBeat has 10 Instagram influencers like this in South Africa for you to contact.
+hits: 16
+text_top: Identify the top-rated Instagram influencers on inBeat.
+text_bottom: Our search engine has 16 Instagram influencers like this in South Africa for you to work with.
 profiles:
-  - username: "theculturedcow"
+  - username: "tanjasovulj"
     fullname: >-
-      Shiro Gaitho
+      Tanja Sovulj
     bio: >-
-      African | Storyteller | Lover of nice things Twitter: @shirogaitho YouTube: The Cultured Cow
+      Naš porodični dom u Novom Sadu •Home decor, Diy & Lifestyle Zdrav dom sa eteričnim uljima @everyday_tanja
     location: "South Africa"
-    followers: 21262
-    engagement: 607
-    commentsToLikes: 0.014029
-    id: ck5c0pmkptlmg0i11whqhf7rp
+    followers: 14840
+    engagement: 248
+    commentsToLikes: 0.084611
+    id: ck135xuc13s9l0i19k3nywjof
     verified: false
-    hashtags: "#supportlocal, #interiorstyle, #interiordecor, #homedecoration"
-  - username: "crochet.love.happy"
+    hashtags: "#creatingmemories, #myktchn, #kidsroomdecor, #familyhome"
+  - username: "mrkyleclark"
     fullname: >-
-      Tamara
+      Kyle Clark
     bio: >-
-      Sharing my designs & projects! Published in @crochetnowmag, @happilyhookedmagazine & @crochetzine 💕 @nurturingfibres brand rep🌸 Jhb, South Africa
+      • Dr Sudesh Reddy on @real7delaan 🩺 • @the_g_list_za on @outtv Owner: @_clarkmedia @_theclarkcollection 📧: bookings@clarkmedia.co.za
     location: "South Africa"
-    followers: 2847
-    engagement: 852
-    commentsToLikes: 0.128537
-    id: ck6tmnvty86ub0j71pva7lkeh
+    followers: 33868
+    engagement: 20
+    commentsToLikes: 0.001429
+    id: ck5caa6tad0ni0i1194226uxl
     verified: false
-    hashtags: "#grannysquaretherapy, #crochetflowers, #ilovecrochet, #ganchillocreativo"
-  - username: "interiors_of_south_africa"
+    hashtags: "#interiordesign, #theharvesttable, #homedesign, #homestyling"
+  - username: "yonies_home"
     fullname: >-
-      Interiors of South Africa 🇿🇦
+      Yonela Nako
     bio: >-
-      #interiorsofsa shares local content from designers, suppliers, and architects to inspire our followers.#proudlysa DM or tag us for a mention (T&C)
+      Design | Decor | Lifestyle 📧: okuhlenako8@gmail.com 📤 : @yonies_projects_
     location: "South Africa"
-    followers: 58811
-    engagement: 152
-    commentsToLikes: 0.041258
-    id: ck6u42ggz1atn0j716w5c71cr
+    followers: 73820
+    engagement: 34
+    commentsToLikes: 0.008058
+    id: cloxoe6lszbkx0j0803bj2jz1
     verified: false
-    hashtags: "#interiordesign, #decobellatiles, #decor, #interior123"
-  - username: "caley.jack"
-    fullname: >-
-      Caley Jäck
-    bio: >-
-      @lesmills ✖️ @Reebok - Global Brand Ambassador s o u t h • a f r i c a n | fitness . travel . Wife . Mumma🤰🏼to Ella + 🐶🐶| ✝️ FREE 🏠WORKOUTS👇🏼
-    location: "South Africa"
-    followers: 58673
-    engagement: 944
-    commentsToLikes: 0.021700
-    id: ck14khpvkpjs00i19y064z4ey
-    verified: false
-    hashtags: "#newborn, #exercisemotivation, #babygirl, #grateful"
-  - username: "_across.the.atlantic"
-    fullname: >-
-      MORGAN + PIERRE
-    bio: >-
-      🌍USA ↹ SOUTH AFRICA 📍Long Distance Couple / 8,609 miles ✈️T R A V E L 🇺🇸👱🏼‍♀️♡ 🇿🇦👱🏼‍♂️ 📷 Documenting living WORLDS APART ✘ 📱NEW WEBSITE ↡
-    location: "South Africa"
-    followers: 3283
-    engagement: 1497
-    commentsToLikes: 0.132735
-    id: ck6ts0b5k23ob0j717mwj730g
-    verified: false
-    hashtags: "#travelcouple, #surfphotography, #travel, #travelblogger"
-  - username: "beccapretorius"
-    fullname: >-
-      Bec
-    bio: >-
-      Painter , Yoga teacher | student , runner. Have courage and be kind 🦋
-    location: "South Africa"
-    followers: 6772
-    engagement: 645
-    commentsToLikes: 0.025661
-    id: ck14h1yzy85510i19unrt1yp7
-    verified: false
-    hashtags: "#21daysofartsa, #bikinilife, #girlboss, #artist"
-  - username: "justamamma"
-    fullname: >-
-      Mari-Louise Candiotes
-    bio: >-
-      Mom of 👧🏻👧🏻👧🏻 Wife to my Mr.Perfect Proudly🇿🇦 Learning to be #mindful Spreading joy like confetti and creating a life, well-lived🌻 More on our blog👇🏻
-    location: "South Africa"
-    followers: 15286
-    engagement: 386
-    commentsToLikes: 0.163469
-    id: ckaoqsv71k8300i786etsopwd
-    verified: false
-    hashtags: "#madeinsouthafrica, #justamamma, #motherhoodthroughinstagram, #motherofdaughters"
-  - username: "lesleyannemurphy"
-    fullname: >-
-      Lesley • The Road Les Traveled
-    bio: >-
-      Traveler | BRCA Previvor | Yoga Teacher Live yoga classes every Monday @ 9am PST! Creator of @limitlestravel
-    location: "South Africa"
-    followers: 403004
-    engagement: 179
-    commentsToLikes: 0.022213
-    id: ck0ttr9ne3z5f0i190y6ttsvj
-    verified: true
-    hashtags: "#yoga, #stayhome, #home, #yogaeverydamnday"
+    hashtags: "#kramervillecorner, #homedecor, #kramerville, #exclusivedesigns"
   - username: "michelethrossellinteriors"
     fullname: >-
       Michele Throssell
     bio: >-
       Interior Design Studio based in Ballito, South Africa.
     location: "South Africa"
-    followers: 7200
-    engagement: 558
-    commentsToLikes: 0.035111
+    followers: 8967
+    engagement: 427
+    commentsToLikes: 0.035994
     id: ckaoxo31pe2pz0i78gkm739v4
     verified: false
-    hashtags: "#design, #designdaily, #archdaily, #interiordesigner"
-  - username: "extraordinary.arch"
+    hashtags: "#inspiration, #designer, #interiorstyling, #interiorporn"
+  - username: "rolenestrauss"
     fullname: >-
-      ARCHITECTURE & DESIGN
+      Rolene Strauss
     bio: >-
-      Minimalism | Brutalism | Contemporary 🏡 Admin | B. Arch @maricc.n
+      Mom and Wife ❤️ Entrepreneur 🙏🏼 Speaker 🎙 Author 🖊 Miss World 2014 🌎 🇿🇦 🕶️ Founder @rssunglasses.official
     location: "South Africa"
-    followers: 8966
-    engagement: 509
-    commentsToLikes: 0.021592
-    id: ck8t3qt3w456f0j78fc8t5i3i
+    followers: 323915
+    engagement: 111
+    commentsToLikes: 0.014359
+    id: ck55j24gmw2r10i11fu9r70ze
+    verified: true
+    hashtags: "#skincare, #rolenestrauss, #biomedicalemporium, #athomewithrolene"
+  - username: "tshego_chale"
+    fullname: >-
+      Tshego Chale
+    bio: >-
+      20k on TikTok 🎥 Home care - Lifestyle - Beauty 📩 tshegochale@gmail.com
+    location: "South Africa"
+    followers: 189814
+    engagement: 96
+    commentsToLikes: 0.008740
+    id: ck6ts54wn2tjb0j71c8dxmopp
     verified: false
-    hashtags: "#architektur, #modernarchitecture, #socialistmodernism, #deathmetal"
+    hashtags: "#homecare, #aestetichome, #morningroutine, #headboard"
+  - username: "victoriapaigey"
+    fullname: >-
+      Victoria Paige
+    bio: >-
+      Luxury travel | Photography | Marketing @whitecollar.m.house @beautifulplaces.photo.v viccipaige@gmail.com
+    location: "South Africa"
+    followers: 111084
+    engagement: 66
+    commentsToLikes: 0.000194
+    id: ck0tvyzfzdeiy0i19itwq6mus
+    verified: false
+    hashtags: "#wildlife, #islandlife, #beautifuldestinations, #travel"
+  - username: "zee.mbambo"
+    fullname: >-
+      Zee Mbambo 🇿🇦
+    bio: >-
+      Fashion, Beauty & Lifestyle Girl Mom 🎀
+    location: "South Africa"
+    followers: 102412
+    engagement: 59
+    commentsToLikes: 0.010095
+    id: ck15tm7xcirse0i199c4ic4od
+    verified: false
+    hashtags: "#diorforever, #diorbeauty, #ootd, #diorlipmaximizer"
+  - username: "theculturedcow"
+    fullname: >-
+      Shiro | Wairimu’s Daughter
+    bio: >-
+      African | Introvert | Lover of words and other nice things Email: theculturedcow@gmail.com
+    location: "South Africa"
+    followers: 41202
+    engagement: 56
+    commentsToLikes: 0.002753
+    id: ck5c0pmkptlmg0i11whqhf7rp
+    verified: false
+    hashtags: "#homestyle, #foryourshadeofbeautiful, #home, #theculturedcow"
+  - username: "miss_luckypony"
+    fullname: >-
+      Angie Batis Durrant
+    bio: >-
+      JHB based photographer 🖤 Content creator 🖤 Blogger🖤 Mail/DM to collaborate angie@luckypony.co.za
+    location: "South Africa"
+    followers: 46657
+    engagement: 51
+    commentsToLikes: 0.013498
+    id: ck138oy1tha770i1924a66pqw
+    verified: false
+    hashtags: "#kidsfashion, #cottononkids, #lucky, #lpmademebakeit"
 ---

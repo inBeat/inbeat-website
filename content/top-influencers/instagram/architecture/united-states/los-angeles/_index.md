@@ -1,48 +1,36 @@
 ---
-title: Top 10 Architecture Instagram Influencers In Los Angeles In 2023
+title: Top 10 Architecture Instagram Influencers In Los Angeles In 2024
 description: >-
-  Find top architecture Instagram influencers in Los Angeles in 2023. Most popular hashtags: #architecture #losangeles #design #luxurylifestyle.
+  Find top architecture Instagram influencers in Los Angeles in 2024. Most popular hashtags: #architecture #losangeles #interiordesign #design.
 platform: Instagram
-hits: 185
-text_top: Discover the most popular Instagram influencers on inBeat.
-text_bottom: Our platform aggregates 185 Instagram influencers like this in Los Angeles, United States for you to connect with.
+hits: 200
+text_top: See the top-rated Instagram influencers on inBeat.
+text_bottom: Our platform aggregates 200 Instagram influencers like this in Los Angeles, United States for you to work with.
 profiles:
-  - username: "sarahkjelleren"
+  - username: "chernovteam"
     fullname: >-
-      Sarah Lake Kjelleren
+      Chernov Team
     bio: >-
-      Social entrepreneur and multimedia artist. 🌱🌳🌊 Do what you can, with what you have, where you are. Think global, act local! 🌻 Founder of GARDEN Studio
+      Luxury Real Estate #1 Top Selling Team in San Fernando Valley #6 out of 1.25 million agents in Los Angeles @dennischernov Lic. # 01850113
     location: "United States"
-    followers: 17720
-    engagement: 237
-    commentsToLikes: 0.095201
-    id: ck6tjo5je33hz0j71d3lt3011
+    followers: 41752
+    engagement: 137
+    commentsToLikes: 0.013649
+    id: ck14hroocbshd0i194ieo1btq
     verified: false
-    hashtags: "#vermont, #photography, #paris, #earth"
-  - username: "thecontaineryard"
+    hashtags: "#lalistings, #losangeles, #realestateexperts, #homesforsale"
+  - username: "velvetandlinen"
     fullname: >-
-      THE CONTAINER YARD
+      Brooke Giannetti
     bio: >-
-      Gallery, event space, urbanspace, workspace, retail, design… wip
+      Creating Patina Meadow with @stevegiannetti @leilarosegiannetti Store: @patinahomeandgarden Books: Patina: Style, Farm, Living, Homes
     location: "United States"
-    followers: 45881
-    engagement: 82
-    commentsToLikes: 0.027040
-    id: ck5cfa9htmk8e0i1196h26vja
-    verified: false
-    hashtags: "#murals, #publicart, #littletokyo, #urbanart"
-  - username: "romandurta"
-    fullname: >-
-      Roman Durta 🇸🇰
-    bio: >-
-      Travel Photography infused with colors 🏠 San Diego 📧 roman.durta@gmail.com ⬇️ Prints | Portfolio | Contact ⬇️
-    location: "United States"
-    followers: 9685
-    engagement: 714
-    commentsToLikes: 0.070610
-    id: ckaosri4vsrzz0i78g9hmd1ii
-    verified: false
-    hashtags: "#earthpix, #visitcalifornia, #sayulita, #agameoftones"
+    followers: 178824
+    engagement: 206
+    commentsToLikes: 0.044145
+    id: ck0vy8bdq2pq80i19jmgja9wb
+    verified: true
+    hashtags: "#ojai, #patinafarm, #farmliving, #intentionaldesign"
   - username: "karamanndesign"
     fullname: >-
       Kara Mann
@@ -67,6 +55,30 @@ profiles:
     id: ck5c7qg6380bn0i11pyzwmix2
     verified: false
     hashtags: "#traditionalarchitecture, #renovation, #johnumberger, #architecture"
+  - username: "sarahkjelleren"
+    fullname: >-
+      Sarah Lake Kjelleren
+    bio: >-
+      Social entrepreneur and multimedia artist. 🌱🌳🌊 Do what you can, with what you have, where you are. Think global, act local! 🌻 Founder of GARDEN Studio
+    location: "United States"
+    followers: 17720
+    engagement: 237
+    commentsToLikes: 0.095201
+    id: ck6tjo5je33hz0j71d3lt3011
+    verified: false
+    hashtags: "#paris, #vermont, #earth, #architecture"
+  - username: "kate_tova"
+    fullname: >-
+      Artist • San Francisco
+    bio: >-
+      Kate Tova 💖 Full-time Artist🎨 📍🌺San Francisco For inquiries, please email 💌ArtistKateTova@gmail.com
+    location: "United States"
+    followers: 61076
+    engagement: 475
+    commentsToLikes: 0.051901
+    id: ck5bzhxl0r6h10i11dz9o885l
+    verified: false
+    hashtags: "#siliconvalley, #sanfranciscoartist, #artistsoninstagram, #art"
   - username: "landrydesigngroup"
     fullname: >-
       Landry Design Group
@@ -103,28 +115,16 @@ profiles:
     id: ck0u70aer3isf0i19dsau5nao
     verified: false
     hashtags: "#modernarchitecture, #luxuryrealestate, #milliondollarlisting, #realestate"
-  - username: "lewildexplorer"
+  - username: "rick_ontherun"
     fullname: >-
-      Jeanine | Adventure Travel
+      Rick Southers
     bio: >-
-      ⋆LA based ⋆outdoor adventures ⋆roadtrips ⋆podcast host @ohmytravelpodcast ⋆helping you plan your next off-the-beaten-path adventure travel tips ⤵️
+      ✈️: Adventure Travel 📧: contact@rickontherun.com 📍: Pittsburgh ⚡️ΩΨΦ 📸: @ontherun_images
     location: "United States"
-    followers: 23809
-    engagement: 284
-    commentsToLikes: 0.159102
-    id: ck9wf8qk0nppg0j7864t75duu
+    followers: 9550
+    engagement: 492
+    commentsToLikes: 0.063166
+    id: ckap1sofbvyoe0i78len879so
     verified: false
-    hashtags: "#californialife, #californialiving, #californiablogger, #explorecalifornia"
-  - username: "anagavlak"
-    fullname: >-
-      Ana Flávia Gavlak
-    bio: >-
-      Founder of @thegavlaks 🇧🇷 @fordmodelssc 🇺🇸 Mavrick Artists
-    location: "United States"
-    followers: 53930
-    engagement: 147
-    commentsToLikes: 0.029968
-    id: ck0vvytnxrdnb0i19nmp74c8j
-    verified: false
-    hashtags: "#batizadomenina, #view, #latergram, #batizadomariavictoriagr"
+    hashtags: "#loretobcstourism, #visitmexico, #wegotoo, #visitutah"
 ---

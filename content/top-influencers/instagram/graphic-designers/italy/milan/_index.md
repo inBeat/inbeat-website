@@ -1,24 +1,24 @@
 ---
-title: Top 10 Graphic-Designers Instagram Influencers In Milan In 2023
+title: Top 10 Graphic-Designers Instagram Influencers In Milan In 2024
 description: >-
-  Find top graphic-designers Instagram influencers in Milan in 2023. Most popular hashtags: #beauty #italy #graphicdesign #fashion.
+  Find top graphic-designers Instagram influencers in Milan in 2024. Most popular hashtags: #beauty #love #makeup.
 platform: Instagram
-hits: 26
-text_top: Identify the top-rated Instagram profiles on inBeat.
-text_bottom: Our database aggregates 26 Instagram influencers like this in Milan, Italy for you to work with.
+hits: 30
+text_top: Analyze the best Instagram accounts on inBeat.
+text_bottom: Our platform has 30 Instagram influencers like this in Milan, Italy for you to collaborate.
 profiles:
   - username: "davehumphrey"
     fullname: >-
       Davide Mugnieco
     bio: >-
-      *complaining in pisces* he/him — INTJ-T digital art director + smm milano
+      Art Director & Graphic Designer Milano
     location: "Italy"
-    followers: 9267
-    engagement: 371
-    commentsToLikes: 0.015272
+    followers: 9419
+    engagement: 364
+    commentsToLikes: 0.009494
     id: ckf5mprkouxke0j23hy7z7fwd
     verified: false
-    hashtags: "#doodle, #graphicdesign, #posterdesign, #illustrator"
+    hashtags: "#illustrator, #doodle, #illustration, #leaves"
   - username: "carment93"
     fullname: >-
       Carmen 🌸 Fashion - Travel
@@ -79,6 +79,18 @@ profiles:
     id: ck8szj7u1onm60j78s0krfemc
     verified: false
     hashtags: "#shein, #sheinstyle, #eyeliner, #beauty"
+  - username: "annickvaesken"
+    fullname: >-
+      Annick Vaesken Valentino
+    bio: >-
+      Hey. How you doing? 📍Asunción Graphic Designer / Fashion Business & Mkt - Marangoni Milano / Content creator Paraguaya 🇵🇾
+    location: "Italy"
+    followers: 54290
+    engagement: 258
+    commentsToLikes: 0.009448
+    id: ck5zy5ddm99cw0i14kmsbvgx6
+    verified: false
+    hashtags: ""
   - username: "arianna_angelini"
     fullname: >-
       A r i a n n a
@@ -91,18 +103,18 @@ profiles:
     id: ck13a9di5p9sg0i19fmwqikge
     verified: false
     hashtags: ""
-  - username: "tiziana_cosso"
+  - username: "c1superstar"
     fullname: >-
-      Tiziana Cosso
+      C1superstar 🇮🇹
     bio: >-
-      Founder @dellaclasse luxury webmagazine @grazia_it Contributor Represented by @ftlmoda New York City
+      Eletto Prodotto dell'Anno dal 1989 🎨 Graphic Designer & Photographer 💻 Social Media Manager 📍 Milan
     location: "Italy"
-    followers: 70862
-    engagement: 179
-    commentsToLikes: 0.038462
-    id: ck5hn802tndgv0i11u7haiomz
+    followers: 38160
+    engagement: 651
+    commentsToLikes: 0.112076
+    id: ck138mc2dgxly0i19lfob5jbc
     verified: false
-    hashtags: "#sunsetlovers, #bellaitalia, #positivevibes, #blackandwhite"
+    hashtags: "#photomanipulation, #vivolombardia, #estate, #travelphotography"
   - username: "onpackaging"
     fullname: >-
       On Packaging
@@ -115,16 +127,4 @@ profiles:
     id: ck14grnaf6ohv0i190ir1b9p5
     verified: false
     hashtags: "#coffeetime, #branding, #beerlover, #drinks"
-  - username: "jay_t_world"
-    fullname: >-
-      Jay T
-    bio: >-
-      Graphic Designer/Content creator Play with everything DM or jay.t.world88@gmail.com 📍Milano (from Sicily)
-    location: "Italy"
-    followers: 9644
-    engagement: 512
-    commentsToLikes: 0.009450
-    id: ck0vv2jicn8uz0i19jrvefsda
-    verified: false
-    hashtags: "#graphicdesigner, #corona, #basketball, #manipulation"
 ---

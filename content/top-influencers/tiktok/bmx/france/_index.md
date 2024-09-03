@@ -1,11 +1,11 @@
 ---
-title: Top 10 Bmx TikTok Influencers In France In 2023
+title: Top 10 Bmx TikTok Influencers In France In 2024
 description: >-
-  Find top bmx TikTok influencers in France in 2023. Most popular hashtags: #bmx #pourtoi #foryou #fyp.
+  Find top bmx TikTok influencers in France in 2024. Most popular hashtags: #bmx #foryou #pourtoi #fyp.
 platform: TikTok
 hits: 11
-text_top: Analyze the top-rated TikTok profiles on inBeat.
-text_bottom: Our platform aggregates 11 TikTok influencers like this in France for you to work with.
+text_top: Identify the most popular TikTok influencers on inBeat.
+text_bottom: Our platform has 11 TikTok influencers like this in France for you to connect with.
 profiles:
   - username: "matthiasdandois"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.010689
     id: ck9fcsg5xlb9n0j78petwgqc4
     verified: true
-    hashtags: "#foryou, #uganda, #bmx, #lookatme"
+    hashtags: "#foryou, #uganda, #bmx, #elephant"
   - username: "kikaybmx"
     fullname: >-
       KikayBmx 

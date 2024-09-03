@@ -1,130 +1,130 @@
 ---
-title: Top 10 Music Instagram Influencers In Indonesia In 2023
+title: Top 10 Music Instagram Influencers In Indonesia In 2024
 description: >-
-  Find top music Instagram influencers in Indonesia in 2023. Most popular hashtags: #sukapuraproject #ciamis #menwithstyle.
+  Find top music Instagram influencers in Indonesia in 2024. Most popular hashtags: #dirumahaja #instrumental #tiktokindonesia.
 platform: Instagram
-hits: 1356
-text_top: Analyze the best Instagram profiles on inBeat.
-text_bottom: Our search engine has 1356 Instagram influencers like this in Indonesia for you to work with.
+hits: 1391
+text_top: Identify the best Instagram influencers on inBeat.
+text_bottom: Our database aggregates 1391 Instagram influencers like this in Indonesia for you to connect with.
 profiles:
-  - username: "punipun7"
+  - username: "rezadarmawangsa"
     fullname: >-
-      Clarissa Punipun, BSc(Hons), S.Kom.
+      RZD
     bio: >-
-      BA: @asusrog.id & @duniagames.co.id 🏆TOP10 NHK Kawaii🏆#IGA19 🎖️Japan Kurate Gakuen Ambassador Cosplay 06・Games・Music・IT 👇 Contact/Endorse/Business
+      👀@rzd.goods👀 3x no.1 YouTube Music 🎖 Business 📧 kaka.rezvolution@gmail.com CP Band +6282127234249 (Envici) CP Endorsement 085881516778 (Feru) IDN🇲🇨
     location: "Indonesia"
-    followers: 592752
-    engagement: 166
-    commentsToLikes: 0.020711
-    id: ck0vxovjhzzm80i19s72htfj8
-    verified: false
-    hashtags: "#aeruseni, #freefire, #flashsale, #punipuncosplay"
-  - username: "tasiksociety"
-    fullname: >-
-      TASIK SOCIETY - TASIKMALAYA
-    bio: >-
-      Komunitas Generasi Muda Tasikmalaya 📷 | Travel | Culture | Creator | Music | Film 📩 Iklan/Endorse/PP (Direct message) #tasiksociety @kanaka.pictures
-    location: "Indonesia"
-    followers: 139208
-    engagement: 68
-    commentsToLikes: 0.022157
-    id: ck15qkd0839q40i19ffncgr28
-    verified: false
-    hashtags: "#sukapuraproject, #shortfilm, #pmk, #kopi"
-  - username: "nadilawantari23"
-    fullname: >-
-      Nadila Wantari
-    bio: >-
-      a nice cat. @wantawares - Music business & Activity: 08118893212 ( @ilham_ndowe) - Social Media Endorsement only: 082116350934 (Santi)
-    location: "Indonesia"
-    followers: 107751
-    engagement: 541
-    commentsToLikes: 0.020590
-    id: ck14gslp36thw0i19a5spjov1
+    followers: 940651
+    engagement: 790
+    commentsToLikes: 0.006089
+    id: ck0w0lrc0eug60i19brj7bv59
     verified: true
-    hashtags: "#tanamanhias, #jandabolong, #suar, #aglonema"
-  - username: "keikofabianisa_"
+    hashtags: "#jungkook, #hybe, #3d, #korea"
+  - username: "ghani_s"
     fullname: >-
-      Keiko Fabianisa
+      Ghani Sanjaya
     bio: >-
-      CP : @rani_momkeiko Komunikasi, IPB 56 Penyanyi Terpilih AMSB 2018 “Mau Denganmu” (Official Music Video) ⬇️
+      Music & Traveling 📝 Songwriter 🎸 @nidera_music
     location: "Indonesia"
-    followers: 9750
-    engagement: 1925
-    commentsToLikes: 0.052872
-    id: ck5bzd1ncqwix0i11ru27wg1l
+    followers: 73347
+    engagement: 418
+    commentsToLikes: 0.011665
+    id: ck8sz9yt1nmqb0j78tnk70zlu
     verified: false
-    hashtags: "#kasihjangankaupergi, #cloudmusikgram, #bahasakalbucover, #throwback"
-  - username: "dilanaryildizofficial"
+    hashtags: "#ifgc, #reels, #indomusikgram, #guitar"
+  - username: "keryastina"
     fullname: >-
-      Dilanar Yildiz
+      Kery Astina
     bio: >-
-      Musical artist Pera Güzel Sanatlar Mezunu dilanaryildizsinger@yahoo.com 🎤🎧🧿
+      CEO, Enterpreneur, Content Creator & Musician adalah isi bio instagram orang lain | 👕: @ztt_storage | 🎤: @anarcuteofficial | CP: +6281818881995
     location: "Indonesia"
-    followers: 198078
-    engagement: 441
-    commentsToLikes: 0.023733
-    id: ck8tb5jeiudct0j78hlb0k5ht
-    verified: false
-    hashtags: ""
-  - username: "ganggaksm"
-    fullname: >-
-      GANGGA
-    bio: >-
-      @ksm.records @ateam.superior Music : 0816 343 241 (Fijar) Endorsement: 0812 9288 4652 (Silvy)
-    location: "Indonesia"
-    followers: 568620
-    engagement: 770
-    commentsToLikes: 0.010120
-    id: ck8t0fg7orw0d0j78xbyx05rs
+    followers: 385393
+    engagement: 671
+    commentsToLikes: 0.014469
+    id: ck0uekt81liqk0i19mdr82d0y
     verified: true
-    hashtags: "#bosman, #smartlyyours, #smarthome, #journeyonsemptember"
-  - username: "daraayu___"
+    hashtags: "#ai, #google, #coldplay, #mobilelegendsbangbang"
+  - username: "cakecaine"
     fullname: >-
-      Dara ayu
+      Nadin Amizah
     bio: >-
-      Youtube channel 🔴 Musik Proaktif 🔴 Bajol Ndanu Management 🔴 TA PRO Music & Publishing 🔴 27 Musik Indonesia CP : 0889-9001-6085 VIDEO TERBARU 👇👇
+      sesuatu yang kecil, berharap bisa menggerakan semua hati yang besar. cp +62 812 9292 6505 Anya 'Di Akhir Perang' Music Video 🏹⬇️
     location: "Indonesia"
-    followers: 73181
-    engagement: 771
-    commentsToLikes: 0.011830
-    id: ckaow4jnc7ebh0i78dfatx5fi
+    followers: 2324539
+    engagement: 607
+    commentsToLikes: 0.004869
+    id: ck0tuw8ut8ydf0i19grl4wf2r
     verified: false
-    hashtags: "#dangdutkentrung, #daraayu, #dangdutkoplo"
-  - username: "dan_foong"
+    hashtags: "#leminerale, #lemin, #mineralesensial, #kebaikanmineralterlindungi"
+  - username: "rachangela"
     fullname: >-
-      Dan Foong
+      Rachel Angela
     bio: >-
-      Travel | Lifestyle | Music 🌏 Malaysia 🇲🇾 📮 danielfoong@hotmail.com 🔻 New YouTube Vid! 🎙
+      🤍 @notetosoul.id @prelovedbyrachangela 🕊️ Ministry/Music Inq: (+62) 8159998813 ✉️ Business Inq: (+62) 8192440707 “CaraMu Memandang” is out everywhere!
     location: "Indonesia"
-    followers: 11579
-    engagement: 1003
-    commentsToLikes: 0.046360
-    id: ck8t2cdxdyy6z0j78ryr36cbm
+    followers: 214658
+    engagement: 398
+    commentsToLikes: 0.019900
+    id: ck0vzwrneb9ri0i191fcfvzl1
     verified: false
-    hashtags: "#mensfashion, #traveltheworld, #outfitoftheday, #asianboy"
-  - username: "winkywiryawan912"
+    hashtags: "#togodbetheglory, #sempurnabydermaster, #charis, #selfreminder"
+  - username: "nadine_abigail_"
     fullname: >-
-      Winky Wiryawan
+      Nadine Abigail
     bio: >-
-      @morsh.music / @funonaweekend.id / @rahasiaintelijen.id
+      Brand Ambassador of @bigetronesports @starion.id @btr7.official CP: 082123046080 (Oliv) Music & Business: 081381132816 (Rep62) - no call
     location: "Indonesia"
-    followers: 164789
-    engagement: 124
-    commentsToLikes: 0.042333
-    id: ckaor4o5blppl0i783ck4r9u3
-    verified: true
-    hashtags: "#throwback, #frechhouse, #citypop, #homesweethome"
+    followers: 273273
+    engagement: 1157
+    commentsToLikes: 0.007646
+    id: ck9we4l4eikaz0j78t8c9ue1t
+    verified: false
+    hashtags: "#indomiexpopmietorimisoramen, #gunjou, #btr7, #goldendiscawards2024"
+  - username: "ezramandira"
+    fullname: >-
+      𝗘𝘇𝗿𝗮 𝗠𝗮𝗻𝗱𝗶𝗿𝗮
+    bio: >-
+      Simplify anything~ Musician | Industrial Engineering Grads✌🏻 @mazeinradar @biggbuss.id Part-time lecturer at @saejakarta @tin_bakrie
+    location: "Indonesia"
+    followers: 56020
+    engagement: 585
+    commentsToLikes: 0.016817
+    id: ck5zj7hoxh30c0i145fwm5sq6
+    verified: false
+    hashtags: "#haribukunasional, #bicarabukuhivi, #dirumahaja, #hore"
   - username: "melmusiq"
     fullname: >-
       Melisa Putri
     bio: >-
-      Full time singer x @thegentlemenjkt Music : +6281290103000 (Zaid) Brand : +628151646708 (Vivian) 📍 Jakarta, ID
+      Full time singer Music : +6281290103000 (Zaid) 📍 Jakarta, ID
     location: "Indonesia"
-    followers: 12768
-    engagement: 962
-    commentsToLikes: 0.027326
+    followers: 15514
+    engagement: 655
+    commentsToLikes: 0.026268
     id: ck5zvuiet4xnw0i14rwdjm9mr
     verified: false
-    hashtags: "#halloween2020, #selflovewithkleveru, #kleveru, #selflove"
+    hashtags: "#istyle, #beranibaru, #istyleid, #cantiktanpabatas"
+  - username: "redshift_id"
+    fullname: >-
+      REDSHiFT
+    bio: >-
+      Anisong DJ Performer & Electronic Music Producer Bringing the best anime tunes to big stages since 2013. PIC: +6281281806111 (Wenny)
+    location: "Indonesia"
+    followers: 3560
+    engagement: 614
+    commentsToLikes: 0.020871
+    id: ck15tyyvlklhg0i19lu2vvoxl
+    verified: false
+    hashtags: "#dirumahaja, #weebfromhome, #orutaku, #redshiftvocaloid"
+  - username: "dide_hijaudaun"
+    fullname: >-
+      Dide Hijaudaun
+    bio: >-
+      Vox & producer @hijaudaunmusik @kembangtulip_music CP band : cek Bio @hijaudaunmusik BA @oxy_queenaglow.beautycare
+    location: "Indonesia"
+    followers: 115216
+    engagement: 713
+    commentsToLikes: 0.082126
+    id: ck14he6yc9vi20i19x2300vgx
+    verified: false
+    hashtags: "#tiktokindonesia, #tiktokers, #instagood, #instgram"
 ---

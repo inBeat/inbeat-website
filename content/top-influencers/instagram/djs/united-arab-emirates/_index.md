@@ -1,11 +1,11 @@
 ---
-title: Top 10 Djs Instagram Influencers In United Arab Emirates In 2023
+title: Top 10 Djs Instagram Influencers In United Arab Emirates In 2024
 description: >-
-  Find top djs Instagram influencers in United Arab Emirates in 2023. Most popular hashtags: #music #travel #dubai.
+  Find top djs Instagram influencers in United Arab Emirates in 2024. Most popular hashtags: #djset #music #dubai.
 platform: Instagram
-hits: 9
-text_top: Analyze the top-rated Instagram accounts on inBeat.
-text_bottom: Our search engine has 9 Instagram influencers like this in United Arab Emirates for you to collaborate.
+hits: 13
+text_top: Discover the most popular Instagram profiles on inBeat.
+text_bottom: Our search engine has 13 Instagram influencers like this in United Arab Emirates for you to work with.
 profiles:
   - username: "djkidy_"
     fullname: >-
@@ -19,18 +19,66 @@ profiles:
     id: ck5hmufk4mn670i118lbcxn8u
     verified: false
     hashtags: ""
-  - username: "djshadowdubai"
+  - username: "anrey_"
     fullname: >-
-      DJ Shadow Dubai
+      ANREY
     bio: >-
-      📌Master of Global Music Collaborations 📌Producer👇 #SlowlySlowly @pitbull❌@gururandhawa #MoveYourBody @duttypaul❌@badboyshah #AajaNiAaja @iambohemia
+      Creating encounters where music is the protagonist to connect to a harmonic mix 💫 📍Dubai based - German raised 🏠 @playapachadubai @thepenthousedubai
     location: "United Arab Emirates"
-    followers: 451085
-    engagement: 135
-    commentsToLikes: 0.033381
-    id: ck5hcadpxh0cd0i11kc3r4k2b
+    followers: 11334
+    engagement: 223
+    commentsToLikes: 0.090002
+    id: ck5hg451e0trj0i11k7h6p7ut
+    verified: false
+    hashtags: "#housemusic, #newmusic, #afrohouse, #afrohousedj"
+  - username: "ulael_"
+    fullname: >-
+      YOUNA
+    bio: >-
+      Booking: johannes@dlp-asia.com Promo: younadj.ofc@gmail.com "Melting" Out Now
+    location: "United Arab Emirates"
+    followers: 627851
+    engagement: 21
+    commentsToLikes: 0.022847
+    id: ck9wfbu9to5wj0j78vku0rs3k
     verified: true
-    hashtags: "#diljitdosanjh, #flashbackfriday, #yoyohoneysingh"
+    hashtags: "#dubainightlife, #sohogardendxb, #melodichouse, #codedxb"
+  - username: "djblissdubai"
+    fullname: >-
+      DJ BLISS
+    bio: >-
+      @karakinc @beatsandcuts “No Stopping It” OUT NOW Dubai Bling Netflix ‎مروان العوضي Collaborations: djbliss@nyta.ae Performance: bookings@djbliss.com
+    location: "United Arab Emirates"
+    followers: 1255278
+    engagement: 392
+    commentsToLikes: 0.011968
+    id: ck5c4j7751gux0i11qsyl39dp
+    verified: true
+    hashtags: "#dubaibling, #dubaiblingnetflix, #netflix, #dubai"
+  - username: "s.o.n.y.a.official"
+    fullname: >-
+      DJ SONYA
+    bio: >-
+      Official Account "DJ SONYA DXB" DJ | Musician
+    location: "United Arab Emirates"
+    followers: 23288
+    engagement: 163
+    commentsToLikes: 0.034779
+    id: ck0vv6tbrnstj0i1936fx52xq
+    verified: false
+    hashtags: "#sonya, #airmaxpulse, #betclicstudios, #teamnike"
+  - username: "maroua_issa"
+    fullname: >-
+      Maroua Issa
+    bio: >-
+      Tunisian singer 🎤 For booking & collaboration : +21658834735
+    location: "United Arab Emirates"
+    followers: 1580936
+    engagement: 23
+    commentsToLikes: 0.004198
+    id: ck5q9a00ea3jk0i11w5nmqknl
+    verified: false
+    hashtags: "#musiquelive, #hammamet, #tunisie, #culture"
   - username: "peacelovenegin"
     fullname: >-
       Negin
@@ -67,52 +115,16 @@ profiles:
     id: ck5hp98ziqyr60i11t687k2uc
     verified: false
     hashtags: "#dxb, #dubai, #emirates, #burjkhalifa"
-  - username: "danyneville"
+  - username: "sedeeg"
     fullname: >-
-      Dany Neville
+      ꜱᴇɪᴅᴏꜱɪᴍʙᴀ
     bio: >-
-      🇦🇪 🇱🇧
+      📍🇸🇦 ‎ربي إرحم ابراهيم المقدم Management: Yousif@marsimba.net
     location: "United Arab Emirates"
-    followers: 2016949
-    engagement: 92
-    commentsToLikes: 0.017142
-    id: ck0vv6t2dnssa0i19ihh5mxcf
-    verified: true
-    hashtags: "#chevy, #c10, #store17, #itspossible"
-  - username: "djr_wan"
-    fullname: >-
-      R-Wan
-    bio: >-
-      Dubai Live Mix is online NOW ⬇️
-    location: "United Arab Emirates"
-    followers: 282672
-    engagement: 118
-    commentsToLikes: 0.038776
-    id: ck6tn7wc59b700j714p8ru9ae
-    verified: true
-    hashtags: "#covid, #livemix, #coronavirus, #covid19"
-  - username: "iamdjmichelle"
-    fullname: >-
-      DJ MICHELLE
-    bio: >-
-      9 ʏᴇᴀʀs ᴏʟᴅ 📍 ᴅᴜʙᴀɪ ᴛʜᴇ ʏᴏᴜɴɢᴇsᴛ ɢɪʀʟ ᴅᴊ ɪɴ ᴛʜᴇ ᴡᴏʀʟᴅ 🌍 @nike ᴀᴍʙᴀssᴀᴅᴏʀ @ranedj ᴀʀᴛɪsᴛ ᴀᴄᴄ ʀᴜɴ ʙʏ ᴅᴀᴅ @iamdjshock ʙᴏᴏᴋɪɴɢs - ɪᴀᴍᴅᴊᴍɪᴄʜᴇʟʟᴇ@ɢᴍᴀɪʟ.ᴄᴏᴍ
-    location: "United Arab Emirates"
-    followers: 129396
-    engagement: 276
-    commentsToLikes: 0.033225
-    id: ck13cxy872pop0i19w0c0q3rl
+    followers: 217816
+    engagement: 167
+    commentsToLikes: 0.022530
+    id: ck5qb9n8zkic50i11q0on70xf
     verified: false
-    hashtags: "#birthdayboy, #bestdadever, #nikecosmiccourt, #myschoolmyway"
-  - username: "ticketmasterme"
-    fullname: >-
-      Ticketmaster Middle East
-    bio: >-
-      Tickets for #music #sports #art #theatre #family #festival #UAE #KSA #MiddleEast. ➡️ participate in the survey here:
-    location: "United Arab Emirates"
-    followers: 10897
-    engagement: 44
-    commentsToLikes: 0.103413
-    id: ck14kxe4yrsrn0i19q5j6eedf
-    verified: true
-    hashtags: "#ticketmasterme, #togetherapart, #abudhabimusicweek, #stayhome"
+    hashtags: "#seddo, #seidosimba, #wakanda, #mazmars"
 ---

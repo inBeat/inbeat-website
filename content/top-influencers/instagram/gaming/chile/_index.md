@@ -1,24 +1,48 @@
 ---
-title: Top 10 Gaming Instagram Influencers In Chile In 2023
+title: Top 10 Gaming Instagram Influencers In Chile In 2024
 description: >-
-  Find top gaming Instagram influencers in Chile in 2023. Most popular hashtags: #gaming #gamer #twitch #chile.
+  Find top gaming Instagram influencers in Chile in 2024. Most popular hashtags: #gaming #gamer #twitch #streamer.
 platform: Instagram
-hits: 17
-text_top: Discover the top-rated Instagram accounts on inBeat.
-text_bottom: Our database has 17 Instagram influencers like this in Chile for you to pitch.
+hits: 19
+text_top: Analyze the top-rated Instagram influencers on inBeat.
+text_bottom: Our platform aggregates 19 Instagram influencers like this in Chile for you to pitch.
 profiles:
-  - username: "shinipan_"
+  - username: "justvannia"
     fullname: >-
-      Shini シン ☀️
+      Tía Mimi ✨
     bio: >-
-      🌸 #lifestyle #gaming #doglover 🕹 Twitch Partner 💌 Contacto: hyang@live.cl 🧸 Integrante de @streaminghousecl
+      Diplomada en Periodismo y Redes Sociales 🔸Content creator / Gamer 🔸Médico Veterinaria Contacto: vannia.bn@gmail.com
     location: "Chile"
-    followers: 23383
-    engagement: 1771
-    commentsToLikes: 0.012856
-    id: ck8taiatprvk40j781ny1cyf3
+    followers: 20751
+    engagement: 2773
+    commentsToLikes: 0.139947
+    id: ckaovu3jy66ao0i7856sj7zyp
     verified: false
-    hashtags: "#vsco, #streamer, #pinkhair, #twitchgirls"
+    hashtags: "#santiago, #gamergirl, #kawaii, #pcgaming"
+  - username: "natipls"
+    fullname: >-
+      Natalia Fridericksen
+    bio: >-
+      •Ing en informática | desarrollé un juegito •Host en @festigame 🎤 •Overwatch player @cosmicpirates.cp 🎮 •Streamer | 📩nat.fridericksen@gmail.com 𝕲𝖔𝖙𝖍
+    location: "Chile"
+    followers: 16259
+    engagement: 1511
+    commentsToLikes: 0.038208
+    id: ckaovux76670h0i78hd4iop32
+    verified: false
+    hashtags: "#streamer, #gothgirl, #darkgirl, #goth"
+  - username: "carowiza"
+    fullname: >-
+      🌸Ｃａｒｏｗｉｚａ🌸
+    bio: >-
+      🇨🇱Chilenita 📍UNICA CUENTA 💮 Cosplayer & Cosmaker @carowizacosplay 🎮 Gamer 🖱Streamer Ocasional ✨️ 💌 carowiza.carowis@gmail.com Redes
+    location: "Chile"
+    followers: 15166
+    engagement: 266
+    commentsToLikes: 0.025998
+    id: ckaovu41c66bx0i78ifq3swts
+    verified: false
+    hashtags: "#auroracollection, #movistar, #cosmaker, #makeup"
   - username: "conejiwii"
     fullname: >-
       𝐶𝑜𝑛𝑒𝑗𝑖𝑤𝑖 ♡
@@ -30,31 +54,7 @@ profiles:
     commentsToLikes: 0.066271
     id: ckap7kxpjkimg0i78921npdd1
     verified: false
-    hashtags: "#smile, #inkedgirls, #goodvibes, #cute"
-  - username: "elvallowon"
-    fullname: >-
-      ElVallo
-    bio: >-
-      CODIGO CREADOR 👉 ELVALLO ❤Youtuber /Twitch Partner 💜 🎉🎉🎉 +500.000 Youtube! 🎉🎉🎉 #youtube #twitch twitch.tv/elvallowon
-    location: "Chile"
-    followers: 84569
-    engagement: 1755
-    commentsToLikes: 0.030185
-    id: ck8syz6daml2i0j78ak9jaxdn
-    verified: false
-    hashtags: "#chile, #youtube, #twitch, #gaming"
-  - username: "justvannia"
-    fullname: >-
-      Tía Mimi 🐰
-    bio: >-
-      🔸Gamer / Anime / Geek 🔸25%dcto @gunnar.cl código JUSTVANNIA 🔸Sponsor @redragoncl @mousepad.chile 🔥 🔸TEAM SP @spdigital_chile 📧 vannia.bn@gmail.com
-    location: "Chile"
-    followers: 18977
-    engagement: 750
-    commentsToLikes: 0.186358
-    id: ckaovu3jy66ao0i7856sj7zyp
-    verified: false
-    hashtags: "#gaming, #picoftheday, #anime, #cute"
+    hashtags: "#smile, #inked, #streamer, #cute"
   - username: "brawlstarsmundial"
     fullname: >-
       Brawl Stars Mundial
@@ -79,6 +79,30 @@ profiles:
     id: ck8t8z7o3mda90j78cwkyhrqh
     verified: false
     hashtags: ""
+  - username: "tabathapacer"
+    fullname: >-
+      Tabatha⭐️Pacer | Nerd Lifestyle 👾
+    bio: >-
+      𝗛𝗼𝘀𝘁/𝗖𝗼𝗻𝘁𝗲𝗻𝘁 𝗖𝗿𝗲𝗮𝘁𝗼𝗿🔥 𝗢𝘂𝘁𝗳𝗶𝘁-𝗠𝗮𝗸𝗲𝗨𝗽 | 𝗚𝗲𝗲𝗸 𝗱𝗲 💖 CEO @awaburu 🫧 @ac_managementcl ✨
+    location: "Chile"
+    followers: 186504
+    engagement: 445
+    commentsToLikes: 0.012735
+    id: ck13aly84r0w70i19ad4v1m1f
+    verified: false
+    hashtags: "#tooelreel, #fyp, #streamer, #delargephoto"
+  - username: "elvallowon"
+    fullname: >-
+      ElVallo
+    bio: >-
+      🔥 Embajador @tcl.cl ❤Youtuber /Twitch Partner 💜 👀 Correo comercial: elvallocontacto@gmail.com
+    location: "Chile"
+    followers: 94994
+    engagement: 1175
+    commentsToLikes: 0.021185
+    id: ck8syz6daml2i0j78ak9jaxdn
+    verified: false
+    hashtags: "#elvallo, #twich, #youtube, #twitch"
   - username: "fiseacosplay"
     fullname: >-
       Tammy
@@ -90,7 +114,7 @@ profiles:
     commentsToLikes: 0.029387
     id: ckaovu0df65t10i78ibmb5q8a
     verified: false
-    hashtags: "#cosplay, #santiago, #tombraider, #playstation"
+    hashtags: "#laracroft, #instagood, #cosplay, #santiago"
   - username: "caprimint"
     fullname: >-
       Javiera Paz
@@ -102,29 +126,5 @@ profiles:
     commentsToLikes: 0.005670
     id: ck5q5ju04t86g0i11cu7ayepc
     verified: false
-    hashtags: "#gamer, #gamergirl, #outdoor, #tattoo"
-  - username: "valadiel"
-    fullname: >-
-      Vαʅαԃιҽʅ Cσʂρʅαყҽɾ
-    bio: >-
-      Cosplayer & Streamer 🦄 Personal acc: @vala.loli 🌸 Panelista en @imperial_reviews ✨ LINKS👇
-    location: "Chile"
-    followers: 14598
-    engagement: 739
-    commentsToLikes: 0.028806
-    id: ck0u2jjwkzzvs0i198hqquasx
-    verified: false
-    hashtags: "#waifu, #girlcosplayer, #kimetsunoyaiba, #dccosplay"
-  - username: "carowiza"
-    fullname: >-
-      ❄️ Ｃａｒｏｗｉｚａ❄️
-    bio: >-
-      -Chile- 💮Partner @gunnar.cl @vgamerscl @mapachedelmal.store 💮Streamer @rebirth_esports @nexoplay.tv ✨ Tiktok: 37k✨ RRSS
-    location: "Chile"
-    followers: 12283
-    engagement: 734
-    commentsToLikes: 0.064067
-    id: ckaovu41c66bx0i78ifq3swts
-    verified: false
-    hashtags: "#bluehair, #streaming, #pink, #cosplay"
+    hashtags: "#streamer, #girl, #orangehair, #blondehair"
 ---

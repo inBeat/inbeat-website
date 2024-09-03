@@ -1,11 +1,11 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Capetown In 2023
+title: Top 10 Beauty Instagram Influencers In Capetown In 2024
 description: >-
-  Find top beauty Instagram influencers in Capetown in 2023. Most popular hashtags: #capetown #southafrica #fashion #beauty.
+  Find top beauty Instagram influencers in Capetown in 2024. Most popular hashtags: #capetown #southafrica #fashion #beauty.
 platform: Instagram
-hits: 22
-text_top: Discover the top-rated Instagram accounts on inBeat.
-text_bottom: Our search engine holds 22 Instagram influencers like this in Capetown, South Africa for you to pitch.
+hits: 27
+text_top: Analyze the top-rated Instagram accounts on inBeat.
+text_bottom: Our database aggregates 27 Instagram influencers like this in Capetown, South Africa for you to contact.
 profiles:
   - username: "daniella_thibault"
     fullname: >-
@@ -19,18 +19,6 @@ profiles:
     id: ck5zm4eyblvn20i149l5nh9oa
     verified: false
     hashtags: "#beauty, #capetown, #2021, #virgo"
-  - username: "marcbermanphotography"
-    fullname: >-
-      Marc Berman | Photographer
-    bio: >-
-      #photographer #model #fashion #lifestyle 📍#capetown 👨🏻Personal Acc - @king_fool For bookings DM or Email : info@marcberman.co.za
-    location: "South Africa"
-    followers: 16600
-    engagement: 187
-    commentsToLikes: 0.023634
-    id: ck5cdtxbzjrsk0i114cjcvvst
-    verified: false
-    hashtags: "#instadaily, #blueeyes, #brunette, #portraitvision"
   - username: "annettaprimadonna"
     fullname: >-
       𝓐𝓷𝓷𝓮𝓽𝓽𝓮 𝓚𝓮𝓶𝓹
@@ -43,6 +31,30 @@ profiles:
     id: ck15qfb7i2kdy0i196rs1xs3l
     verified: false
     hashtags: "#leestafford, #redhair, #hairtutorial, #haircare"
+  - username: "marcbermanphotography"
+    fullname: >-
+      Marc Berman | Photographer
+    bio: >-
+      #photographer #model #fashion #lifestyle #NFTcommunity #nft #NFTart 📍#capetown 👨🏻Personal Acc - @king_fool 📧 info@marcberman.co.za to book
+    location: "South Africa"
+    followers: 16539
+    engagement: 170
+    commentsToLikes: 0.020955
+    id: ck5cdtxbzjrsk0i114cjcvvst
+    verified: false
+    hashtags: "#marcbermanphotography, #instadaily, #southafrica, #photography"
+  - username: "shawnee_reid"
+    fullname: >-
+      Shawnee Reid
+    bio: >-
+      Model & business women Lifestyle | Quirky | Travel |Beauty & modelling tips 📍JHB 🇿🇦 | God✝️ 📧 shawnee@sreid.co.za Longer vlogs on my YouTube ⬇️⬇️
+    location: "South Africa"
+    followers: 136695
+    engagement: 103
+    commentsToLikes: 0.044548
+    id: ck15tn2y6iwd90i198x1nvvko
+    verified: false
+    hashtags: "#capetown, #southafrica, #barbie, #barbiethemovie"
   - username: "frema.mensah"
     fullname: >-
       🇬🇭Frema Mensah🇬🇭
@@ -66,7 +78,7 @@ profiles:
     commentsToLikes: 0.060128
     id: ck14jt8lsm2g50i19yzhj6fmg
     verified: false
-    hashtags: "#positiveaging, #womenwithstyle, #agelessstyle, #50plusstyle"
+    hashtags: "#styleoverfifty, #fabulousover50, #styleblogger, #50pluswomen"
   - username: "amber_brits"
     fullname: >-
       A M B E R. BRITS. OFFICIAL 💥
@@ -91,40 +103,28 @@ profiles:
     id: ck0vyfw7i3s6h0i19nle0iqxc
     verified: false
     hashtags: "#southafrica, #athlete, #abn, #aubreyngoma"
-  - username: "magaramirezz"
+  - username: "ciara_tay_kruger"
     fullname: >-
-      Maria Gabriela Ramirez ⚓️
+      Ciara Taylor Kruger
     bio: >-
-      Venezuelan model 🇻🇪 Currently in 🌍 📍🇿🇦 Cape Town, South Africa.
+      •Cape Town, South Africa •Twenty Three• Aries •Social Media & Digital Marketer • @ctk_exclusive_events ——————————————————————
     location: "South Africa"
-    followers: 6782
-    engagement: 1415
-    commentsToLikes: 0.065761
-    id: ckap0qc7qrepz0i78yrvmaxt0
+    followers: 5531
+    engagement: 485
+    commentsToLikes: 0.067807
+    id: ckapbizlf021z0i78vsf48vsh
     verified: false
-    hashtags: "#losangeles, #beach, #milan, #shooting"
-  - username: "tracymcgregor"
+    hashtags: "#capetownliving, #beach, #goodvibesonly, #igfashionista"
+  - username: "kunene_ayanda"
     fullname: >-
-      Tracy McGregor
+      Ayanda Kunene
     bio: >-
-      *DM for collabs* Certified Specialist in Fitness Nutrition 🍏 South African ~ Model ~ Blogger ~ Entrepreneur ~ BLOG @bornthree
+      South African 🇿🇦 Twin: @amanda_Kunene 📍 CPT: @20modelmanagement 📍 DBN: @bossmodelsdbn
     location: "South Africa"
-    followers: 29622
-    engagement: 301
-    commentsToLikes: 0.218129
-    id: ck6ue97chpjuk0j71p6xoc0mx
+    followers: 5804
+    engagement: 252
+    commentsToLikes: 0.067949
+    id: ck138fd3bfyxf0i199d208qt8
     verified: false
-    hashtags: "#blogger, #photographer, #mom, #picoftheday"
-  - username: "chanellesoncini"
-    fullname: >-
-      ⚡️CHANELLE SONCINI⚡️
-    bio: >-
-      SA Model 📍PTA/JHB🇿🇦 ▪️JHB: @bossmodelsjhb ▫️CPT: @thecirclemodels 📚BBA & BPhil Honours
-    location: "South Africa"
-    followers: 32003
-    engagement: 433
-    commentsToLikes: 0.232299
-    id: ck6u1whp5ob1o0j71gdgns6sx
-    verified: false
-    hashtags: "#happyfriday, #model, #style, #chanellesoncini"
+    hashtags: "#fashion, #southafrica, #likeforlikes, #safari"
 ---

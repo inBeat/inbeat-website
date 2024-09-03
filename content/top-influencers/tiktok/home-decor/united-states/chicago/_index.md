@@ -1,11 +1,11 @@
 ---
-title: Top 10 Home Decor TikTok Influencers In Chicago In 2023
+title: Top 10 Home Decor TikTok Influencers In Chicago In 2024
 description: >-
-  Find top home decor TikTok influencers in Chicago in 2023. Most popular hashtags: #fyp #homedecor #chicago #foryou.
+  Find top home decor TikTok influencers in Chicago in 2024. Most popular hashtags: #fyp #chicago #homedecor #foryou.
 platform: TikTok
 hits: 7
-text_top: Identify the best TikTok influencers on inBeat.
-text_bottom: inBeat holds 7 TikTok influencers like this in Chicago, United States for you to pitch.
+text_top: Analyze the top-rated TikTok accounts on inBeat.
+text_bottom: Our search engine aggregates 7 TikTok influencers like this in Chicago, United States for you to collaborate.
 profiles:
   - username: "livewithmoi"
     fullname: >-
@@ -115,16 +115,16 @@ profiles:
     id: ckd0fri5ydugq0j23pak1935n
     verified: false
     hashtags: "#crafty, #yarn, #summerdiy, #learnontiktok"
-  - username: "summerx._.cloudy"
+  - username: "katherinandreas"
     fullname: >-
-      25k Loading.........
+      Katherin Andreas
     bio: >-
-      Z liked 1x ibf Nina Tysm for 14k followers💕💕 Z FOLLOWED 🥺🥺❤❤❤ goal 25k
+      DIY•Lifestyle•Home Decor 8K by August? 📍MD 🦀 Katherinandreashop@gmail.com
     location: "United States"
-    followers: 14100
-    engagement: 3144
-    commentsToLikes: 0.419208
-    id: ckbqkkx6y5n990j23hw4tlvs5
+    followers: 8054
+    engagement: 293
+    commentsToLikes: 0.033588
+    id: ckbqgzag229rq0j232a37dnv3
     verified: false
-    hashtags: "#xyzbca, #fyp, #zoe, #healthyliving"
+    hashtags: "#minivlog, #crafts, #maryland, #dogmom"
 ---

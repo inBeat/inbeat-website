@@ -1,11 +1,11 @@
 ---
-title: Top 10 Lingerie Instagram Influencers In Canada In 2023
+title: Top 10 Lingerie Instagram Influencers In Canada In 2024
 description: >-
-  Find top lingerie Instagram influencers in Canada in 2023. Most popular hashtags: #lingerie #model #love #makeup.
+  Find top lingerie Instagram influencers in Canada in 2024. Most popular hashtags: #lingerie #model #fashion #makeup.
 platform: Instagram
-hits: 29
-text_top: Analyze the best Instagram accounts on inBeat.
-text_bottom: Our database holds 29 Instagram influencers like this in Canada for you to connect with.
+hits: 43
+text_top: See the top-rated Instagram profiles on inBeat.
+text_bottom: Our database holds 43 Instagram influencers like this in Canada for you to contact.
 profiles:
   - username: "amandafudgy"
     fullname: >-
@@ -18,7 +18,31 @@ profiles:
     commentsToLikes: 0.030184
     id: ck5hgt27c4lwg0i11ck6bgpi4
     verified: false
-    hashtags: "#makeup, #blonde, #vegas, #glam"
+    hashtags: "#blonde, #vegas, #lingerie, #glam"
+  - username: "itsbasicallyamanda"
+    fullname: >-
+      Amanda Garvin
+    bio: >-
+      🍁 Canadian ♥ 𝖫𝗈𝗈𝗄𝗂𝗇𝗀 𝗍𝗈 𝖼𝗈𝗅𝗅𝖺𝖻𝗈𝗋𝖺𝗍𝖾? 𝖤𝗆𝖺𝗂𝗅 𝗆𝗒 𝗆𝖺𝗇𝖺𝗀𝖾𝗋. ⤷ 𝖾𝗆𝗆𝖺𝗒𝗈𝗎𝗇𝗀@𝗌𝗎𝗉𝗋𝖾𝗆𝖾𝗂𝗇𝖿𝗅𝗎𝖾𝗇𝖼𝖾𝗋𝗌.𝖼𝗈𝗆
+    location: "Canada"
+    followers: 34146
+    engagement: 254
+    commentsToLikes: 0.047453
+    id: ckaorgli3n4h00i781gp4adrp
+    verified: false
+    hashtags: "#normalizenormalbodies, #selfcare, #doglovvverss, #mumbod"
+  - username: "kendramcgowan_"
+    fullname: >-
+      Kendra McGowan 🇨🇦
+    bio: >-
+      🦋 Join HER community $33.33 🌎 @supplementworldwhiterock Owner 🖋️ @herfoodiebeauty 🎙️ @toxicconfidence Host 👑 @theposinginstitute
+    location: "Canada"
+    followers: 41600
+    engagement: 67
+    commentsToLikes: 0.019012
+    id: cksiade7zbqeb0j23qz8nus3g
+    verified: false
+    hashtags: "#photoshoot, #fitnessgurls, #lingerie, #aquariusseason"
   - username: "sofiacretaro"
     fullname: >-
       𝖘 🍓 𝖋 𝖎 𝖆
@@ -42,19 +66,7 @@ profiles:
     commentsToLikes: 0.092972
     id: ck6u79l19k99p0j71iocmk6jg
     verified: false
-    hashtags: "#quoteoftheday, #model, #family, #teamwork"
-  - username: "laurele_monique"
-    fullname: >-
-      Laurele Monique 💋
-    bio: >-
-      {Vancouver,WA} {BMW M6 comp} Taken❤️
-    location: "Canada"
-    followers: 41196
-    engagement: 629
-    commentsToLikes: 0.011719
-    id: ck6u6t8yphl8v0j71vcdjviqt
-    verified: false
-    hashtags: ""
+    hashtags: "#hustlers, #bossbabes, #glam, #fitlife"
   - username: "martinegauthier1"
     fullname: >-
       martine gauthier
@@ -67,64 +79,52 @@ profiles:
     id: ck15r8yx46qwl0i19lss1eo0i
     verified: false
     hashtags: "#lingeriemodel, #valentinephotoshoot, #gothgirlsofinstagram, #fitnessgirldoitbetter"
-  - username: "maddison.noel"
+  - username: "pastelantoinelle"
     fullname: >-
-      Maddison | Travel & Adventure
+      𝒜𝘯𝘵𝘰𝘯𝘦𝘭𝘭𝘢 • 𝐜𝐮𝐫𝐯𝐲 𝐯𝐢𝐧𝐭𝐚𝐠𝐞 𝐁𝐚𝐫𝐛𝐢𝐞™️
     bio: >-
-      HAVE THE BEST DAY EVER ▾ Encouraging you - because you’re worth it ↟ CPT + Health Coach ⋙ owner @_mylesfitness
+      ❣️ Serving pinup fashion inspo and vintage Barbie glamour (way before it was trendy) sprinkled with a dash of hourglass⁣ ✨
     location: "Canada"
-    followers: 117368
-    engagement: 327
-    commentsToLikes: 0.011174
-    id: ck15pveawztko0i19qnk287xo
+    followers: 17176
+    engagement: 323
+    commentsToLikes: 0.133142
+    id: cks6l1gqi7gfx0j23rlpp0t9o
     verified: false
-    hashtags: "#travelalberta, #explorealberta, #travelnevada, #travelusa"
-  - username: "brittneecblair"
+    hashtags: "#retrogirl, #1950sstyle, #1950s, #vintagestyling"
+  - username: "kae_finesse"
     fullname: >-
-      Brittnee Blair
+      Ꮶѧє
     bio: >-
-      💥Miss Curvy B💥 A Big Cup of Self Love ☕️ Wilhelmina Model | B&M Models | Canadian | TV Personality | Fembot | she/her |• #curves
+      🇨🇦WBFF Pro👙| Cook | Mom | Fitness Trainer ❤️‍🔥 Entrepreneur ♌️Some girls are just born with glitter in their veins ✨ Master Coach @af_fabreville
     location: "Canada"
-    followers: 51555
-    engagement: 92
-    commentsToLikes: 0.093353
-    id: ck6uerm1xsovm0j71zsf7o4ub
-    verified: true
-    hashtags: "#vday, #shoplocal, #giveaway, #love"
-  - username: "virtualbrunette"
-    fullname: >-
-      your alien
-    bio: >-
-      Cosplay Artist 🏆 Best Alien Award 🛸 Business: itsvirtualbrunette@gmail.com 🌍 Hang out w/me in my world 🛰 Support your Alien ↙️
-    location: "Canada"
-    followers: 24025
-    engagement: 377
-    commentsToLikes: 0.063985
-    id: ckap2u31o0bu10i7830qbfqcb
+    followers: 49858
+    engagement: 484
+    commentsToLikes: 0.007675
+    id: cksh9xnoovqd50j23l1likboo
     verified: false
-    hashtags: "#cosplayer, #outofcosplay, #cosplaycomparison, #cosplayersofig"
-  - username: "inked.barbie"
+    hashtags: "#growth, #workout, #mindset, #selfcare"
+  - username: "theredbomb_model"
     fullname: >-
-      𝐈𝐧𝐤𝐞𝐝 𝐁𝐚𝐫𝐛𝐢𝐞
+      Dane Halo • FreelanceArtModel
     bio: >-
-      Owner of @agsupply_ DJ / MODEL / ACTRESS Barmaids TV reality show season 2 @summummagazine DreamTeam 2021
+      5’11 freelance model & purveyor of overzealous tomfoolery 📍SanFrancisco & Toronto🗺🏳️‍🌈🔮 Rescue-dog mama🐕 My📸 @roseglassphoto 👁more & book me to shoot👇
     location: "Canada"
-    followers: 70580
-    engagement: 254
-    commentsToLikes: 0.024005
-    id: ck601sohkg3p00i14so4muyla
+    followers: 62331
+    engagement: 266
+    commentsToLikes: 0.043741
+    id: ck15tpqqjjafb0i19vbn58gk5
     verified: false
-    hashtags: "#poisonivy, #diy, #ad, #montreal"
-  - username: "krisyeo"
+    hashtags: "#ginger, #torontomodel, #art, #chivette"
+  - username: "constance.angel"
     fullname: >-
-      K R I S  YEO
+      ANGEL CONSTANCE
     bio: >-
-      Canadian Grown 👸🏼Keeping it real Toronto: brandon.hall@sutherlandmodels Manager: Chantalenadeau@rogers.com Mental Health Activist: @_effthestigma_
+      📍Toronto Model Mgmt: @citizen.agency
     location: "Canada"
-    followers: 111630
-    engagement: 107
-    commentsToLikes: 0.026679
-    id: ck8sxojoui3gw0j786om4x4os
+    followers: 57744
+    engagement: 233
+    commentsToLikes: 0.018732
+    id: ck13c8xfiz64d0i19t6udft1x
     verified: false
-    hashtags: "#thick, #krisyeo, #bodypositivity, #bts"
+    hashtags: "#coolgirlsummer, #ootd, #styleinspo, #zara"
 ---

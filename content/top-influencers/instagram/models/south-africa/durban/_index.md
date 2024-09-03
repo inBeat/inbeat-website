@@ -1,36 +1,24 @@
 ---
-title: Top 10 Models Instagram Influencers In Durban In 2023
+title: Top 10 Models Instagram Influencers In Durban In 2024
 description: >-
-  Find top models Instagram influencers in Durban in 2023. Most popular hashtags: #model #fashion #photoshoot #southafrica.
+  Find top models Instagram influencers in Durban in 2024. Most popular hashtags: #fashion #beauty #model #southafrica.
 platform: Instagram
-hits: 8
-text_top: See the best Instagram profiles on inBeat.
-text_bottom: Our search engine holds 8 Instagram influencers like this in Durban, South Africa for you to pitch.
+hits: 7
+text_top: Analyze the best Instagram accounts on inBeat.
+text_bottom: Our search engine has 7 Instagram influencers like this in Durban, South Africa for you to pitch.
 profiles:
   - username: "kunene_ayanda"
     fullname: >-
       Ayanda Kunene
     bio: >-
-      South African 🇿🇦 Twin: @amanda_Kunene 📍DBN: @imodelmngt 📍CPT: @20modelmanagement
+      South African 🇿🇦 Twin: @amanda_Kunene 📍 CPT: @20modelmanagement 📍 DBN: @bossmodelsdbn
     location: "South Africa"
-    followers: 4206
-    engagement: 738
-    commentsToLikes: 0.064269
+    followers: 5804
+    engagement: 252
+    commentsToLikes: 0.067949
     id: ck138fd3bfyxf0i199d208qt8
     verified: false
-    hashtags: "#explorepage, #reels, #milkmodelsearch, #editorial"
-  - username: "ciara_tay_kruger"
-    fullname: >-
-      Ciara Taylor Kruger💋
-    bio: >-
-      •Cape Town, South Africa •Bcom student • Twenty • Aries •Model @covermodelscpt ——————————————
-    location: "South Africa"
-    followers: 5624
-    engagement: 1387
-    commentsToLikes: 0.111456
-    id: ckapbizlf021z0i78vsf48vsh
-    verified: false
-    hashtags: "#modeling, #tanning, #swimsuit, #vacation"
+    hashtags: "#fashion, #southafrica, #likeforlikes, #safari"
   - username: "dainogulu"
     fullname: >-
       Dainamiaro
@@ -54,7 +42,7 @@ profiles:
     commentsToLikes: 0.233658
     id: ckap1ye6ywlqv0i782kg54cz7
     verified: false
-    hashtags: "#newmusic, #soviet, #travel, #thelegacyyard"
+    hashtags: "#insta, #yourself, #loveyourself, #lifestyle"
   - username: "neothestunna"
     fullname: >-
       Neo | Model
@@ -103,28 +91,40 @@ profiles:
     id: ckaorsug2olq90i78z4ihj2f2
     verified: false
     hashtags: "#love, #africa, #theafricancreative, #african"
-  - username: "ciara_tay_kruger"
+  - username: "nikitajoshua"
     fullname: >-
-      Ciara Taylor Kruger💋
+      NIKITA JOSHUA
     bio: >-
-      •Cape Town, South Africa •Bcom student • Twenty • Aries •Model @covermodelscpt ——————————————
+      Momma | digital content creator | model | pro makeup artist beauty | fashion | lifestyle owner @prettybishbeauty co-founder @shopcalnik Cape Town
     location: "South Africa"
-    followers: 5624
-    engagement: 1387
-    commentsToLikes: 0.111456
-    id: ckapbizlf021z0i78vsf48vsh
+    followers: 34639
+    engagement: 610
+    commentsToLikes: 0.025989
+    id: ck5q1k1wmbddf0i113a465475
     verified: false
-    hashtags: "#modeling, #tanning, #swimsuit, #vacation"
-  - username: "magaramirezz"
+    hashtags: "#gifted, #parentstobe, #colorstay, #vanityline"
+  - username: "lukegoliath"
     fullname: >-
-      Maria Gabriela Ramirez ⚓️
+      @Lukegoliath
     bio: >-
-      Venezuelan model 🇻🇪 Currently in 🌍 📍🇿🇦 Cape Town, South Africa.
+      💿 Multi-platinum/diamond Dj/Producer. 🏆 SAMA Winner. 🚫 I Ain’t no Role Model.
     location: "South Africa"
-    followers: 6782
-    engagement: 1415
-    commentsToLikes: 0.065761
-    id: ckap0qc7qrepz0i78yrvmaxt0
+    followers: 21449
+    engagement: 629
+    commentsToLikes: 0.463259
+    id: ckf5rj6vlcv0p0j236h85nyyv
     verified: false
-    hashtags: "#losangeles, #beach, #milan, #shooting"
+    hashtags: "#guitar, #music, #musician, #bhfyp"
+  - username: "kgothiiman"
+    fullname: >-
+      Kgothatso Dithebe
+    bio: >-
+      Supermodel signed with Ice Model JHB/CPT #modelwithamark . Beauty || Home content || Lifestyle Law👩🏽‍🎓. Mom to @kagi_iman 💙. KD Foundation.
+    location: "South Africa"
+    followers: 82672
+    engagement: 538
+    commentsToLikes: 0.013278
+    id: ck14hvzjacemg0i19n7itts8h
+    verified: false
+    hashtags: "#modelwithamark, #embraceyourfuture, #misssa2021, #babyk"
 ---

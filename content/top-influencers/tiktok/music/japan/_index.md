@@ -1,11 +1,11 @@
 ---
-title: Top 10 Music TikTok Influencers In Japan In 2023
+title: Top 10 Music TikTok Influencers In Japan In 2024
 description: >-
-  Find top music TikTok influencers in Japan in 2023. Most popular hashtags: #tiktok #lipsync #music.
+  Find top music TikTok influencers in Japan in 2024. Most popular hashtags: #lipsync #music #tiktok.
 platform: TikTok
 hits: 43
-text_top: Discover the most popular TikTok profiles on inBeat.
-text_bottom: Our database aggregates 43 TikTok influencers like this in Japan for you to contact.
+text_top: Analyze the most popular TikTok profiles on inBeat.
+text_bottom: Our search engine has 43 TikTok influencers like this in Japan for you to pitch.
 profiles:
   - username: "beatboxeryuki"
     fullname: >-
@@ -109,12 +109,12 @@ profiles:
     bio: >-
       saxplayer 永井香織です！演奏動画載せます！！ 東京でプロの演奏家として活動しています。 pocochaで毎日配信中！YouTubeもチェックしてね
     location: "Japan"
-    followers: 45500
-    engagement: 1460
-    commentsToLikes: 0.047980
+    followers: 50400
+    engagement: 1649
+    commentsToLikes: 0.039114
     id: ckberlf2r9xoh0j23tttum0ba
     verified: false
-    hashtags: "#anime, #musicians, #ashmusicschool, #sax"
+    hashtags: "#anime, #ashmusicschool, #kaorinagai, #musicians"
   - username: "tomari_sonosaki"
     fullname: >-
       ソノサキトマリ (其ノ先)

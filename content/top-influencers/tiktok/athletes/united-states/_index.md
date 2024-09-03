@@ -1,11 +1,11 @@
 ---
-title: Top 10 Athletes TikTok Influencers In United States In 2023
+title: Top 10 Athletes TikTok Influencers In United States In 2024
 description: >-
-  Find top athletes TikTok influencers in United States in 2023. Most popular hashtags: #fyp #viral #duet #workout.
+  Find top athletes TikTok influencers in United States in 2024. Most popular hashtags: #fyp #viral #duet #workout.
 platform: TikTok
-hits: 862
-text_top: Analyze the most popular TikTok accounts on inBeat.
-text_bottom: Our search engine aggregates 862 TikTok influencers like this in United States for you to work with.
+hits: 871
+text_top: Identify the most popular TikTok influencers on inBeat.
+text_bottom: inBeat aggregates 871 TikTok influencers like this in United States for you to collaborate.
 profiles:
   - username: "sadik_hadzovic"
     fullname: >-
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.014502
     id: ck94l48tmxpge0j7838if7uw2
     verified: true
-    hashtags: "#foryoupage, #foryou, #viral, #fyp"
+    hashtags: "#foryoupage, #fyp, #foryou, #viral"
   - username: "dylan_lambert"
     fullname: >-
       Dylanlambert
@@ -102,7 +102,7 @@ profiles:
     commentsToLikes: 0.142829
     id: ckbw82wpoz1r90j23yost3ai2
     verified: false
-    hashtags: "#homeimprovement, #fyp, #greenscreensticker, #greenscreen"
+    hashtags: "#fyp, #greenscreensticker, #greenscreen, #seashanty"
   - username: "kevooo44"
     fullname: >-
       Kevin Ray

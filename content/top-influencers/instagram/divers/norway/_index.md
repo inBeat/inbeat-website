@@ -1,24 +1,12 @@
 ---
-title: Top 10 Divers Instagram Influencers In Norway In 2023
+title: Top 10 Divers Instagram Influencers In Norway In 2024
 description: >-
-  Find top divers Instagram influencers in Norway in 2023. Most popular hashtags: #norway #christmas #oslo #nature.
+  Find top divers Instagram influencers in Norway in 2024. Most popular hashtags: #norway #nature #ig #oslo.
 platform: Instagram
-hits: 12
-text_top: Analyze the top-rated Instagram accounts on inBeat.
-text_bottom: Our search engine has 12 Instagram influencers like this in Norway for you to contact.
+hits: 9
+text_top: Analyze the most popular Instagram influencers on inBeat.
+text_bottom: inBeat holds 9 Instagram influencers like this in Norway for you to pitch.
 profiles:
-  - username: "unececilie"
-    fullname: >-
-      UNE CECILIE
-    bio: >-
-      Friluftsfersking ⛺️ Dumpster diver🥦 Åpenhet rundt mental helse🧘🏼‍♀️ Håper på å inspirere til å ta vare på deg selv, miljøet og naturen💚 Team Bergans🌿
-    location: "Norway"
-    followers: 27684
-    engagement: 603
-    commentsToLikes: 0.034946
-    id: ck15t0hl2fq8o0i190y1r4v6k
-    verified: false
-    hashtags: "#norsknatur, #surnadal, #friluftsferskinger, #motivasjon"
   - username: "imanmeskini"
     fullname: >-
       Iman Meskini
@@ -43,30 +31,18 @@ profiles:
     id: ck6u27xl5q92l0j7128jevvoq
     verified: false
     hashtags: "#underwater, #norway, #sunnm, #aalesund"
-  - username: "martine_roenning"
+  - username: "mittlillehjerte"
     fullname: >-
-      Martine Rønning
+      Janne Iversen | Norway
     bio: >-
-      Artist/model - Norway🇧🇻 Singer at @playagencyofficial🎤 Model at @ebmodels📷 Booking DM/email ❣️
+      ◼️Vinner av Gullfjæren interior awards årets stue 2020 🏆 ◽️Finalist Gullfjæren 2019 ◾️Scandinavian interiorstyler ◽️Photo 📧 janne.iversen78@gmail.com
     location: "Norway"
-    followers: 13218
-    engagement: 1402
-    commentsToLikes: 0.268635
-    id: ck55k7pvwyokz0i110g2y9sgs
+    followers: 135821
+    engagement: 31
+    commentsToLikes: 0.149650
+    id: ck138p1gnhapa0i19j4rzi3g5
     verified: false
-    hashtags: "#christmas, #photoshoot, #instacover, #cover"
-  - username: "730no"
-    fullname: >-
-      730.no
-    bio: >-
-      Norges største frittstående nettsted for popkultur siden 2008 🇳🇴 post@730.no Gå til nettstedet her:
-    location: "Norway"
-    followers: 139039
-    engagement: 124
-    commentsToLikes: 0.008843
-    id: ck5pw1b0jkm8x0i11wicpwrja
-    verified: false
-    hashtags: "#intotheblue, #nrkmgp, #eurovision, #hannahmontana"
+    hashtags: "#fermliving, #obellolamp, #myneutralhomer, #shabbyyhomes"
   - username: "jamiiina"
     fullname: >-
       JAMINA BLIPP
@@ -79,18 +55,6 @@ profiles:
     id: ck5zrwmujxe3p0i14pnwhaidl
     verified: false
     hashtags: "#softcreamdeo, #thenightwhispererrug, #cosmica, #cosmicagang"
-  - username: "mittlillehjerte"
-    fullname: >-
-      Janne Iversen | Norway
-    bio: >-
-      ◼️Vinner av Gullfjæren interior awards årets stue 2020 🏆 ◽️Finalist Gullfjæren 2019 ◾️Scandinavian interiorstyler ◽️Photo 📧 janne.iversen78@gmail.com
-    location: "Norway"
-    followers: 146361
-    engagement: 84
-    commentsToLikes: 0.046836
-    id: ck138p1gnhapa0i19j4rzi3g5
-    verified: false
-    hashtags: "#interiorstyled, #interior4you1, #homeinterior4you, #charminghouses"
   - username: "fotovegard"
     fullname: >-
       Vegard Eggen
@@ -127,4 +91,28 @@ profiles:
     id: ck8tdq83g4dgi0j785bhzordm
     verified: false
     hashtags: "#collie, #doginfluencer, #dogfluencer, #forestgreen"
+  - username: "teloch.mayhem"
+    fullname: >-
+      Morten Bergeton Iversen
+    bio: >-
+      Norwegian metal guitarist/composer. I’m on YouTube, doing my own clothing brand and also do some untz untzing. 👇🏻 - Links to everything I’m doing
+    location: "Norway"
+    followers: 78580
+    engagement: 347
+    commentsToLikes: 0.031428
+    id: ck5zj95unh65i0i142d852jh8
+    verified: true
+    hashtags: "#telochmayhem, #teloch, #repost, #blackmetal"
+  - username: "perunoiversen"
+    fullname: >-
+      Per-Uno Iversen 🇳🇴
+    bio: >-
+      Takk til alle som følger meg, for alle "likes" og hyggelige kommentarer. Dette er mitt liv. Nyter naturen hele året. Ha en fin dag! ☺
+    location: "Norway"
+    followers: 5405
+    engagement: 765
+    commentsToLikes: 0.035584
+    id: ckap43smo5puf0i780yumniz6
+    verified: false
+    hashtags: "#history, #eating, #snow, #february"
 ---

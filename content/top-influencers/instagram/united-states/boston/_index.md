@@ -1,12 +1,36 @@
 ---
-title: Top 10 Instagram Influencers In Boston In 2023
+title: Top 10 Instagram Influencers In Boston In 2024
 description: >-
-  Find top Instagram influencers in Boston in 2023. Most popular hashtags: #ad #sponsored #massachusetts.
+  Find top Instagram influencers in Boston in 2024. Most popular hashtags: #boston #dessert #summer.
 platform: Instagram
-hits: 2166
-text_top: Identify the most popular Instagram profiles on inBeat.
-text_bottom: inBeat holds 2166 Instagram influencers like this in Boston, United States for you to pitch.
+hits: 2447
+text_top: Discover the most popular Instagram accounts on inBeat.
+text_bottom: Our database has 2447 Instagram influencers like this in Boston, United States for you to collaborate.
 profiles:
+  - username: "colleen.333"
+    fullname: >-
+      Colleen
+    bio: >-
+      Boston
+    location: "United States"
+    followers: 494123
+    engagement: 443
+    commentsToLikes: 0.006765
+    id: clexf03phkvig0j08vk5rrq1y
+    verified: false
+    hashtags: "#explore"
+  - username: "boston"
+    fullname: >-
+      Boston.com
+    bio: >-
+      New England news, sports, and entertainment. Photographers: Want to be featured? Use #BostonDotCom to share your local shots with our community. 📸
+    location: "United States"
+    followers: 449030
+    engagement: 52
+    commentsToLikes: 0.016165
+    id: ck0vzq4xhacl00i19eaf52et9
+    verified: true
+    hashtags: "#gillettestadium, #massachusetts, #spring, #bostondotcom"
   - username: "jillianxshepherd"
     fullname: >-
       j i l l i a n s h e p h e r d
@@ -19,18 +43,6 @@ profiles:
     id: ckf5mkaxau7g40j23ko4ssrz2
     verified: false
     hashtags: ""
-  - username: "boston"
-    fullname: >-
-      Boston.com
-    bio: >-
-      Share your great shots of Boston using #bostondotcom and #HowToBoston and you could be featured.
-    location: "United States"
-    followers: 400311
-    engagement: 158
-    commentsToLikes: 0.023074
-    id: ck0vzq4xhacl00i19eaf52et9
-    verified: true
-    hashtags: "#beantown, #bostonphoto, #bostonphotography, #igboston"
   - username: "tsavvv"
     fullname: >-
       Tim Savage
@@ -43,88 +55,76 @@ profiles:
     id: ck5hglnyy3fot0i11jcpnumal
     verified: false
     hashtags: "#rossnorman"
-  - username: "eatingallofny"
+  - username: "foodooboos"
     fullname: >-
-      EATING ALL OF NYC | NYC Food
+      Judy | DMV Foodie | Photographer📸
     bio: >-
-      Yes I’m the foodie friend 👩🏻‍💻 @kat.irene 📍NYC (and sometimes Boston) 🎉DM or email for collabs 📩 eatingallofny@gmail.com
+      📍DC • MD • VA x 🚗Boston! 11.22-25 @jpanphotographyx | Yelp Elite19’-🎁🍔 I see it I want it I eat it🍓#fujixseries 📷 DM for collabs 📬 いただきます!
     location: "United States"
-    followers: 33531
-    engagement: 619
-    commentsToLikes: 0.049642
-    id: cl6oixfuslgs80i23l95idj22
+    followers: 45896
+    engagement: 492
+    commentsToLikes: 0.111768
+    id: ck5hqu203tq2k0i11plgxseab
     verified: false
-    hashtags: "#westvillage, #uppereastside, #nycfood, #manhattan"
-  - username: "blakeswanson"
+    hashtags: "#instafood, #dcfoodie, #dmvfoodiecrew, #dessert"
+  - username: "maggiemacdonald"
     fullname: >-
-      BLAKE SWANSON
+      Maggie MacDonald
     bio: >-
-      hi! 🫶🏼 boston gal routines, recipes, tips, travel.. a bit of everything 🤍 📩 helloblakeswanson@gmail.com links ↓
+      boston inquiries: maggie@kellymediagroup.co youtube & all other links ↓
     location: "United States"
-    followers: 108712
-    engagement: 226
-    commentsToLikes: 0.005097
-    id: ckw1cd1s5gls90j23xu0f44qj
+    followers: 201997
+    engagement: 620
+    commentsToLikes: 0.089014
+    id: ck5zt6mnrzu670i14y1jc91xm
     verified: false
-    hashtags: "#newhorizonsatsea, #mscseascape, #ad, #sponsored"
-  - username: "runmeb"
+    hashtags: "#freepeoplepartner, #ad, #beispartner, #smpartner"
+  - username: "polyana_ra"
     fullname: >-
-      Meb Keflezighi
+      Polyana
     bio: >-
-      Boston Marathon Champion NYC Marathon Champion Olympic Silver Medalist Runner
+      📍#Boston
     location: "United States"
-    followers: 121595
-    engagement: 110
-    commentsToLikes: 0.014903
-    id: ck135pf092kqw0i19i7ellh3i
-    verified: true
-    hashtags: "#worldsfastest5k, #medalmonday, #carlsbad5000, #runtowin"
-  - username: "domestikateblog"
-    fullname: >-
-      Kate Bowler
-    bio: >-
-      Blogger at Domestikatedlife.com 🏆 @saveurmag Best Entertaining Blog 📚 Author of #NewEnglandInvite 👯‍♀️ @bosbloggers 📍Boston South Shore
-    location: "United States"
-    followers: 31242
-    engagement: 46
-    commentsToLikes: 0.096293
-    id: ck55msxfm4pez0i11w6anski4
+    followers: 14422
+    engagement: 419
+    commentsToLikes: 0.028917
+    id: ckap28wvtxw6p0i78udto1pwm
     verified: false
-    hashtags: "#traderjoesthanksgiving, #traderjoesrecipes, #traderjoes, #domestikateholiday"
-  - username: "laanuhh"
+    hashtags: "#shoesaddict, #hbtpress, #shoedazzlepartner, #ad"
+  - username: "momcomnyc"
     fullname: >-
-      Lana Nguyen ❥ Travel
+      Alyce Chan | Mom Comedy
     bio: >-
-      📍Boston Explore↟Yoga↟Create ≫ ≫ Roam the roads Wander the world ≪ ≪ Travel Ambassador➳@contiki $100 off code CONTIKILANA100
+      🎙️ Stand Up/Sketch/Content Creator 🔈 Speaker | Power of Humor 🏆 Finalist @BostonComedyFestival 🎫 Shows/Collabs👇🏼
     location: "United States"
-    followers: 22950
-    engagement: 1064
-    commentsToLikes: 0.098516
-    id: ck5hfws99zqsf0i11x1vcfr75
+    followers: 152981
+    engagement: 1024
+    commentsToLikes: 0.031047
+    id: ck0vyh6yb3z9s0i1905fkz1im
     verified: false
-    hashtags: "#kohls, #ad, #sponsored, #imafan"
-  - username: "sissiwang12"
+    hashtags: "#momlife, #momcomedians, #asiancomedian, #momcomedy"
+  - username: "stillhungry4more"
     fullname: >-
-      SISSI WANG🕊
+      Still Hungry 4 More
     bio: >-
-      ✰ bellevue, washington ✰ boston university ‘24 ✰ @musemanagement
+      easy baking recipes | restaurant recs @lindsaydemunno 💌 stillhungry4more@gmail.com 📍Boston
     location: "United States"
-    followers: 4537
-    engagement: 2547
-    commentsToLikes: 0.117563
-    id: ckap68nk7ev020i78zbmw3sn2
+    followers: 98887
+    engagement: 1495
+    commentsToLikes: 0.028607
+    id: ck13c1czvy54z0i19ataiaevy
     verified: false
-    hashtags: "#18"
-  - username: "lilywunders"
+    hashtags: "#brownies, #chocolate, #christmascookies, #stillhungry4more"
+  - username: "taylasnts"
     fullname: >-
-      Lily | Lily Wunders
+      Tayla Santos | Casual Street Style
     bio: >-
-      📍Hong Kong 香港🇭🇰 - based | Boston native 🇺🇸 ✨Traveler✨Content Creator DM or lilywunders@gmail.com Read my latest on traveling during COVID!
+      📍BOSTON •Lifestyle driven by faith •casual street & neutral outfit inspo tayla@taylascloset.com
     location: "United States"
-    followers: 6274
-    engagement: 1197
-    commentsToLikes: 0.096055
-    id: ck8t9p6z8ou1f0j789mkksvxh
+    followers: 159744
+    engagement: 400
+    commentsToLikes: 0.019160
+    id: ckaors7d3oiij0i78n27itc02
     verified: false
-    hashtags: "#traveldames, #journeysofgirls, #hongkongbloggers, #hongkongig"
+    hashtags: "#revolveme, #anthropartner, #lexuspartner, #experienceamazing"
 ---

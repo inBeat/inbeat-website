@@ -1,11 +1,11 @@
 ---
-title: Top 10 Cooking TikTok Influencers In Spain In 2023
+title: Top 10 Cooking TikTok Influencers In Spain In 2024
 description: >-
-  Find top cooking TikTok influencers in Spain in 2023. Most popular hashtags: #fyp #cooking #foryoupage #foryou.
+  Find top cooking TikTok influencers in Spain in 2024. Most popular hashtags: #fyp #cooking #foryoupage #parati.
 platform: TikTok
 hits: 16
-text_top: Identify the most popular TikTok profiles on inBeat.
-text_bottom: Our database has 16 TikTok influencers like this in Spain for you to pitch.
+text_top: Discover the top-rated TikTok profiles on inBeat.
+text_bottom: Our search engine aggregates 16 TikTok influencers like this in Spain for you to work with.
 profiles:
   - username: "saynacho"
     fullname: >-
@@ -90,7 +90,7 @@ profiles:
     commentsToLikes: 0.023362
     id: ckb97tiz6qud50j235k7dc5gf
     verified: true
-    hashtags: "#libro, #poemas, #voluntaria, #poes"
+    hashtags: "#goyavisavis, #vacuna, #humor, #vaccine"
   - username: "moon.grwmm"
     fullname: >-
       𝙶𝚊𝚕𝚊✰
@@ -114,7 +114,7 @@ profiles:
     commentsToLikes: 0.047243
     id: ck9uxs9rq1dmr0j78z8c8i9z5
     verified: false
-    hashtags: "#trend, #fyp, #uae, #viral"
+    hashtags: "#goviral, #trend, #style, #funny"
   - username: "tv3cat"
     fullname: >-
       TV3

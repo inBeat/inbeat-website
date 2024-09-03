@@ -1,11 +1,11 @@
 ---
-title: Top 10 Boxers Instagram Influencers In Poland In 2023
+title: Top 10 Boxers Instagram Influencers In Poland In 2024
 description: >-
-  Find top boxers Instagram influencers in Poland in 2023. Most popular hashtags: #poland #tatuazepolska #gdynia.
+  Find top boxers Instagram influencers in Poland in 2024. Most popular hashtags: #makeup #kosmetyki #makija.
 platform: Instagram
-hits: 10
-text_top: Analyze the best Instagram accounts on inBeat.
-text_bottom: inBeat holds 10 Instagram influencers like this in Poland for you to pitch.
+hits: 11
+text_top: Discover the top-rated Instagram accounts on inBeat.
+text_bottom: inBeat aggregates 11 Instagram influencers like this in Poland for you to contact.
 profiles:
   - username: "maciej.sulecki"
     fullname: >-
@@ -79,18 +79,6 @@ profiles:
     id: ck6tm6tz77a8d0j71kbbywka0
     verified: false
     hashtags: "#nago, #warriors, #valetudo, #kickboxer"
-  - username: "polandtattoos"
-    fullname: >-
-      
-    bio: >-
-      Cześć :) Tu znajdziesz tatuaże wykonane przez artystów pracujących w Polsce. . ᴘᴏʟɪsʜ ᴛᴀᴛᴛᴏᴏ ᴀʀᴛɪsᴛs ᴀɴᴅ ᴀʀᴛɪsᴛs ᴡʜᴏ ᴡᴏʀᴋ ɪɴ ᴘᴏʟᴀɴᴅ #polandtattoos
-    location: "Poland"
-    followers: 61748
-    engagement: 134
-    commentsToLikes: 0.005709
-    id: ck15qvdca4tmh0i19owbccij9
-    verified: false
-    hashtags: "#sketchtattoo, #neotraditionaltattoos, #colortattoo, #artwork"
   - username: "agatakolodzinska"
     fullname: >-
       ✨ Agata ✨Kołodzińska
@@ -102,29 +90,41 @@ profiles:
     commentsToLikes: 0.011630
     id: ckaosy73rtjok0i78es2p2k5m
     verified: false
-    hashtags: "#trojmiasto, #kr, #plussizebeauties, #plussizes"
-  - username: "kasiatuchorska"
+    hashtags: "#plussizefitness, #plussizeoutfit, #makeup, #fashionblogger"
+  - username: "paulinakurowska"
     fullname: >-
-      Kasia Tuchorska
+      𝒫𝒶𝓊𝓁𝒾𝓃𝒶
     bio: >-
-      Wizażystka Dzierżoniów 👩🏻‍🎨 Uczę makijażu po mojemu 🥰 Testuję, sprawdzam, polecam (lub nie🤪) 💗Zapisy⬇️💗
+      𝓹𝓪𝓻𝓮𝓷𝓽𝓲𝓷𝓰🌸𝓵𝓲𝓯𝓮𝓼𝓽𝔂𝓵𝓮🌸𝓫𝓮𝓪𝓾𝓽𝔂 ♡ 𝓜𝓪𝓶𝓪 𝓐𝓶𝓮𝓵𝓲𝓲 𝓲 𝓕𝓲𝓵𝓲𝓹𝓪  ♡     ℂ𝕠𝕝𝕝𝕒𝕓𝕠𝕣𝕒𝕥𝕚𝕠𝕟 💌 pkurowska88@gmail.com
     location: "Poland"
-    followers: 3132
-    engagement: 864
-    commentsToLikes: 0.059659
-    id: ckap9nmpzsw6u0i783ro7rstd
+    followers: 34014
+    engagement: 238
+    commentsToLikes: 0.029609
+    id: ck9wdxm5uhq9y0j78v6cn8lyu
     verified: false
-    hashtags: "#brunette, #brunettegirl, #wizazystka, #beautyunionpl"
-  - username: "martapalucka"
+    hashtags: "#aesthetic, #decoinspiration, #flowerstherapy, #fashionstyles4love"
+  - username: "jakubroskosz"
     fullname: >-
-      Miss World 2015 Top 15
+      Jakub Roskosz
     bio: >-
-      Sharing with you my life full of horses, travels and adventures ✌️ Former #beautyqueen 👑 & #model 📍#Sopot, Poland #wośp ❤️👇🏽
+      Business • Watches • Travels Forbes 30 Under 30 5 brands ↴ @mosquitopl | @ecadeocom | @marlehomecom | @duzerabaty | @mvpmagazyn
     location: "Poland"
-    followers: 19868
-    engagement: 258
-    commentsToLikes: 0.019990
-    id: ck135hutw1i4f0i19b0u2q5yz
+    followers: 134520
+    engagement: 120
+    commentsToLikes: 0.148512
+    id: ck5bx7u0tn69n0i11kdibntfe
     verified: false
-    hashtags: "#november, #portrait, #helloautumn, #tropiki"
+    hashtags: "#biznes, #car, #watchcollector, #patek"
+  - username: "justyna.cz"
+    fullname: >-
+      Justyna Czorniak - Leszko
+    bio: >-
+      📩 justyna.cz93@o2.pl ● Rzeszów 🏠 ● #fashion & #beautylover ● #lifestyle ● #sportlover ● marketingowiec w gastro ● żona💍
+    location: "Poland"
+    followers: 40952
+    engagement: 40
+    commentsToLikes: 0.012491
+    id: ck5zrfos5whsw0i14ethzlpll
+    verified: false
+    hashtags: "#swimwearfashion, #makeup, #selfie, #bohostyle"
 ---

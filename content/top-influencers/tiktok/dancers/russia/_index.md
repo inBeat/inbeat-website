@@ -1,11 +1,11 @@
 ---
-title: Top 10 Dancers TikTok Influencers In Russia In 2023
+title: Top 10 Dancers TikTok Influencers In Russia In 2024
 description: >-
-  Find top dancers TikTok influencers in Russia in 2023. Most popular hashtags: #bts #kpop #korea.
+  Find top dancers TikTok influencers in Russia in 2024. Most popular hashtags: #bts #kpop #korea.
 platform: TikTok
 hits: 36
-text_top: Discover the most popular TikTok influencers on inBeat.
-text_bottom: Our search engine holds 36 TikTok influencers like this in Russia for you to contact.
+text_top: Identify the most popular TikTok accounts on inBeat.
+text_bottom: Our search engine holds 36 TikTok influencers like this in Russia for you to pitch.
 profiles:
   - username: "mc.vishenkadance"
     fullname: >-

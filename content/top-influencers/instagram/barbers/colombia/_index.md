@@ -1,11 +1,11 @@
 ---
-title: Top 10 Barbers Instagram Influencers In Colombia In 2023
+title: Top 10 Barbers Instagram Influencers In Colombia In 2024
 description: >-
-  Find top barbers Instagram influencers in Colombia in 2023. Most popular hashtags: #barber #style #barbershop #men.
+  Find top barbers Instagram influencers in Colombia in 2024. Most popular hashtags: #barber #style #barbershop #haircut.
 platform: Instagram
-hits: 26
-text_top: Identify the best Instagram profiles on inBeat.
-text_bottom: Our platform holds 26 Instagram influencers like this in Colombia for you to contact.
+hits: 27
+text_top: Analyze the best Instagram influencers on inBeat.
+text_bottom: Our search engine holds 27 Instagram influencers like this in Colombia for you to contact.
 profiles:
   - username: "barberjuantattoo"
     fullname: >-
@@ -55,6 +55,18 @@ profiles:
     id: ck5zwg95d62o00i14ekcc64ry
     verified: false
     hashtags: "#nyc, #ootd, #giveaway, #happy"
+  - username: "evanamariaa"
+    fullname: >-
+      evana maria
+    bio: >-
+      24 | Colombian @fashionnova 📍 los angeles, ca
+    location: "Colombia"
+    followers: 1126014
+    engagement: 397
+    commentsToLikes: 0.012705
+    id: clexf01zpkub60j08gpsrjvbk
+    verified: false
+    hashtags: "#reels, #explorepage, #femalebarber, #explore"
   - username: "yolani_leiva"
     fullname: >-
       Yolany Leiva🇭🇳
@@ -115,16 +127,4 @@ profiles:
     id: ck5zknws0jtp40i14gindr8sv
     verified: false
     hashtags: "#otronivel, #cali, #69, #barbershop"
-  - username: "mitorincon"
-    fullname: >-
-      • M I T O ° R I N C Ó N️️️️️ •
-    bio: >-
-      Coreográfo - Bailarín Profesional 🕺🏻 Influencer y Modelo 🚶🏻‍♂️ Bogotá, Colombia Collab - IG: @mitorincon ⬇️ TikTok ⬇️
-    location: "Colombia"
-    followers: 28657
-    engagement: 320
-    commentsToLikes: 0.027110
-    id: ck8t7nexmhfbp0j78ts3efqwb
-    verified: false
-    hashtags: "#fitness, #dancers, #men, #smile"
 ---

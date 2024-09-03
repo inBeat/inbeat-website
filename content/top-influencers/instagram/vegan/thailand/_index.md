@@ -1,11 +1,11 @@
 ---
-title: Top 10 Vegan Instagram Influencers In Thailand In 2023
+title: Top 10 Vegan Instagram Influencers In Thailand In 2024
 description: >-
-  Find top vegan Instagram influencers in Thailand in 2023. Most popular hashtags: #vegan #plantbased #cafe.
+  Find top vegan Instagram influencers in Thailand in 2024. Most popular hashtags: #vegan #plantbased #organic.
 platform: Instagram
-hits: 22
-text_top: See the best Instagram accounts on inBeat.
-text_bottom: Our platform has 22 Instagram influencers like this in Thailand for you to collaborate.
+hits: 18
+text_top: See the top-rated Instagram influencers on inBeat.
+text_bottom: Our platform aggregates 18 Instagram influencers like this in Thailand for you to connect with.
 profiles:
   - username: "takiatto"
     fullname: >-
@@ -31,30 +31,6 @@ profiles:
     id: ck0w354ygrnn10i19fp5atqqa
     verified: false
     hashtags: "#corgistagram, #myfavcorgi, #noojeemakemerit, #lovecorgi"
-  - username: "aannett"
-    fullname: >-
-      ANNETT A.🐥💚🌴
-    bio: >-
-      Contact Line : @aannett YouTube : Annett A. @veganett.th @dress.matters @heartloomstudio
-    location: "Thailand"
-    followers: 73371
-    engagement: 146
-    commentsToLikes: 0.005760
-    id: ck14ig3gdf87g0i191gqrw5sx
-    verified: false
-    hashtags: "#burberrythailand, #thegiftcreatorsspace, #loverlution, #sangsom"
-  - username: "warutthaim"
-    fullname: >-
-      Butter Waruttha karchai
-    bio: >-
-      @wsugarfree I’m #plantbased #vegan
-    location: "Thailand"
-    followers: 925331
-    engagement: 50
-    commentsToLikes: 0.002744
-    id: ckaoqpuvcjsz00i78860tdc6y
-    verified: false
-    hashtags: "#vegan, #plantbased, #buttertiajourney, #chalalahalloween"
   - username: "mymeatlessmeals"
     fullname: >-
       Vegan Food Tales by a Thai 🌱🇹🇭
@@ -67,30 +43,54 @@ profiles:
     id: ck5hoog7npxh10i11n5zv2zpg
     verified: false
     hashtags: "#sriracha, #vegans, #easyrecipes, #veganeating"
-  - username: "pang.edener"
+  - username: "naphat_nine"
     fullname: >-
-      Pang HealthyRoutine
+      Naphat Siangsomboon นาย ณภัทร
     bio: >-
-      God’s favorite❣️ 🍎 Founder of @edenerjuice Organic ColdpressedJuice & Almond milk 💕 Essential Oil 📚 Integrative Health Coach IIN New Video👇🏻
+      Actor Designer Photographer Golfer Mahidol International College @naphat_nine_film Work Contact Miss Mhoo Line@: @naphat_nine (with@)
     location: "Thailand"
-    followers: 33733
-    engagement: 82
-    commentsToLikes: 0.038938
+    followers: 4166119
+    engagement: 304
+    commentsToLikes: 0.003912
+    id: ck5pxaic9qv600i11vxp4dbng
+    verified: true
+    hashtags: "#islandescape, #coconutisland, #burasarigroup, #poolvilla"
+  - username: "healthy.dolls"
+    fullname: >-
+      Pang Saifon
+    bio: >-
+      Do everything in Love 🤍 1 Corinthians 16:14 🥬 Founder @edenerjuice 🌹 Unique, Authentic and irreplaceable . Juice fast, almondmilk 👇🏻
+    location: "Thailand"
+    followers: 55650
+    engagement: 258
+    commentsToLikes: 0.026350
     id: ck5zkbfezj64g0i14gtq5brqw
     verified: false
-    hashtags: "#youngliving, #panghealthyroutine, #phuketthailand, #vegan"
-  - username: "frennicha"
+    hashtags: "#khaoyai, #thailand, #panghealthyroutine, #movenpickkhaoyai"
+  - username: "sara_hohler"
     fullname: >-
-      FRIEND NICHAKORN P. (เฟรนด์)
+      SARA | นลิน 🌷
     bio: >-
-      @aunties.coffee Frennicha@gmail.com For work DM , K.Fah Line : noofah3
+      Work📞 (+66)81-841-6131 คุณรัตน์
     location: "Thailand"
-    followers: 145484
-    engagement: 378
-    commentsToLikes: 0.002364
-    id: ck55mzw2756l50i118kptnkia
+    followers: 891015
+    engagement: 198
+    commentsToLikes: 0.005176
+    id: ck8sy6mq8jw430j78xf8bq7ub
     verified: false
-    hashtags: "#lancomelovesmom, #sunsilknaturalperfumeblossom, #nutriplenish, #vegan"
+    hashtags: "#jsl, #sarababy, #pptvhd36, #wetv"
+  - username: "healthydiarywithme"
+    fullname: >-
+      ms.self-love, hdwm ✨
+    bio: >-
+      👩🏻‍⚕️Physiotherapist 🌈Heathy(physical&mental health)diary ✨Self-improvement, Healthy Lifestyle 🤍@plamilland 💌for work: DM or click
+    location: "Thailand"
+    followers: 108868
+    engagement: 14
+    commentsToLikes: 0.021293
+    id: ck6u78urfk4u80j71j3hadb2i
+    verified: false
+    hashtags: "#asics, #gourmetmarketthailand, #asicsth, #themallgroup"
   - username: "r_nattaphol"
     fullname: >-
       Arnuttaphol Sirichumsaeng
@@ -103,18 +103,18 @@ profiles:
     id: ck8sw3gz5dmsq0j78yl40bc48
     verified: false
     hashtags: "#capedara, #anantarasiambangkok, #anantarasiam, #2021"
-  - username: "purepuree"
+  - username: "happynancyfranky"
     fullname: >-
-      PUREE ◟̆◞̆ 🍑
+      Nancy
     bio: >-
-      contact : direct message 📩
+      Thailand🤙🏾 Owner of @gluckhappyswimwear @pakarang.oil @saifah.society นักท่องเที่ยวเชิงนักอนุรักษ์🏝DIVEMASTER, SURFER, RockClimber, Food, Coffee.☀️🦜🐕
     location: "Thailand"
-    followers: 23043
-    engagement: 148
-    commentsToLikes: 0.005439
-    id: ck15qavxl1yfv0i19qf06pmv1
+    followers: 66105
+    engagement: 185
+    commentsToLikes: 0.012917
+    id: ck14h490c8h2w0i19ze498dl2
     verified: false
-    hashtags: "#allnewhavalh6, #subwaythailand, #subwaymeatcombo, #woodyc"
+    hashtags: "#organic, #dog, #dogsofinstagram, #gl"
   - username: "aberonx"
     fullname: >-
       Anurag Baruah

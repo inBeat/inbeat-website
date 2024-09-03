@@ -1,11 +1,11 @@
 ---
-title: Top 10 Motivational Speakers TikTok Influencers In India In 2023
+title: Top 10 Motivational Speakers TikTok Influencers In India In 2024
 description: >-
-  Find top motivational speakers TikTok influencers in India in 2023. Most popular hashtags: #foryou #fyp #edutok #foryoupage.
+  Find top motivational speakers TikTok influencers in India in 2024. Most popular hashtags: #fyp #edutok #foryou #tiktok.
 platform: TikTok
 hits: 52
-text_top: See the best TikTok accounts on inBeat.
-text_bottom: Our platform aggregates 52 TikTok influencers like this in India for you to connect with.
+text_top: Identify the most popular TikTok profiles on inBeat.
+text_bottom: Our search engine holds 52 TikTok influencers like this in India for you to pitch.
 profiles:
   - username: "minisusan12"
     fullname: >-
@@ -49,12 +49,12 @@ profiles:
     bio: >-
       Actor 🎬 | Motivational Speaker | Zindagi Dosst www.avidminer.com
     location: "India"
-    followers: 287000
-    engagement: 1340
-    commentsToLikes: 0.015804
+    followers: 286500
+    engagement: 1411
+    commentsToLikes: 0.018883
     id: ckan56p6wdiyn0i786g6yi9nw
     verified: false
-    hashtags: "#ashishvidyarthi, #voiceeffects, #avidminer, #inspirational"
+    hashtags: "#ashishvidyarthi, #voiceeffects, #avidminer, #alive"
   - username: "oneleggger"
     fullname: >-
       Deepak Saini

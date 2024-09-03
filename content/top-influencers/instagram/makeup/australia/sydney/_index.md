@@ -1,24 +1,36 @@
 ---
-title: Top 10 Makeup Instagram Influencers In Sydney In 2023
+title: Top 10 Makeup Instagram Influencers In Sydney In 2024
 description: >-
-  Find top makeup Instagram influencers in Sydney in 2023. Most popular hashtags: #makeup #makeupartist #mua #sydneymakeupartist.
+  Find top makeup Instagram influencers in Sydney in 2024. Most popular hashtags: #makeup #makeupartist #sydneymua #sydneymakeupartist.
 platform: Instagram
-hits: 72
-text_top: Discover the best Instagram influencers on inBeat.
-text_bottom: Our search engine holds 72 Instagram influencers like this in Sydney, Australia for you to work with.
+hits: 122
+text_top: Discover the most popular Instagram profiles on inBeat.
+text_bottom: Our search engine holds 122 Instagram influencers like this in Sydney, Australia for you to contact.
 profiles:
-  - username: "iamshimakhosravi"
+  - username: "jessicawong_wt"
     fullname: >-
-      shima khosravi
+      JESSICA WONG
     bio: >-
-      Model, Actress, Stylist, Makeup artist,📍SYDNEY.🇭🇲 @shimakhosravimua @stylebyshima
+      📍 Noosa A U S / H O N G K O N G Enquiries: jessicawongwt@gmail.com
     location: "Australia"
-    followers: 16116
-    engagement: 230
-    commentsToLikes: 0.134970
-    id: ck6tq2ll0p2040j71ojmm7o19
+    followers: 49152
+    engagement: 41
+    commentsToLikes: 0.028734
+    id: ck5c4aa0j0xi40i111va08v4x
     verified: false
-    hashtags: "#makeuplook, #beauty, #photoshoot, #beautiful"
+    hashtags: "#foodie, #nz, #travel, #fyp"
+  - username: "makeupartistanastasia"
+    fullname: >-
+      Makeup Melbourne & Online sales Expert
+    bio: >-
+      💵🤑$700 000 in makeup business Msg me for my MAKEUP COURSE and MAKEUP BOOKINGS More clients photos @makeupartistanastasia1 👈🏼 it's my second page
+    location: "Australia"
+    followers: 115475
+    engagement: 10
+    commentsToLikes: 0.088812
+    id: ck6uai3283oc50j7185q6vh94
+    verified: false
+    hashtags: "#melbourne, #geelongmakeup, #melbournemakeup, #geeelong"
   - username: "linda_mua"
     fullname: >-
       Linda Tran
@@ -31,18 +43,18 @@ profiles:
     id: ck5q0a40t4zyi0i11byerc21r
     verified: false
     hashtags: "#beforeandafter, #makeup, #sydneymua, #meccabeautyjunkie"
-  - username: "lyndlkean"
+  - username: "thanhtheman"
     fullname: >-
-      Lyndl Kean
+      THANH VO | Hair & Makeup
     bio: >-
-      Are you crazy? Me too🤗 📍Sydney Content creator 👉🏼 Reels + TikToks Socials - IMG Engage TikTok - LyndlKean Model Agency - Wink Models Miss Earth🇦🇺2016
+      Represented by @precisionmgmt • email. thanh-vo@hotmail.com
     location: "Australia"
-    followers: 61379
-    engagement: 112
-    commentsToLikes: 0.044397
-    id: ck5cfcpcimp5o0i1126g1yq8u
-    verified: true
-    hashtags: "#gifted, #asos, #reels, #dailyfashion"
+    followers: 31522
+    engagement: 123
+    commentsToLikes: 0.050636
+    id: ck0u83aiv6frs0i19a1k8pd3z
+    verified: false
+    hashtags: "#makeupforever, #ausmakeup, #glowingskin, #sydneymakeup"
   - username: "madeleinegoss_mua"
     fullname: >-
       MADELEINE GOSS
@@ -54,7 +66,19 @@ profiles:
     commentsToLikes: 0.184086
     id: ckaoqw3v3kodv0i78qn6b33uc
     verified: false
-    hashtags: "#makeupstorage, #makeupartistsworldwide, #tiktok, #heavyglam"
+    hashtags: "#browgoals, #makeupartistsworldwide, #instamua, #morphe"
+  - username: "fatoscelikaesthetics"
+    fullname: >-
+      Fatos Celik Aesthetics
+    bio: >-
+      SYDNEY MAKEUP | SKIN | LASHES • 📧info@fatoscelikaesthetics.com • 📍 Bass Hill
+    location: "Australia"
+    followers: 43267
+    engagement: 98
+    commentsToLikes: 0.012675
+    id: ck5cl1hcry24x0i11zbbk193m
+    verified: false
+    hashtags: "#skinprofessional, #browartist, #makyaj, #bestskinclinic"
   - username: "sabbykmua"
     fullname: >-
       SABBY ✨
@@ -79,52 +103,28 @@ profiles:
     id: ck1343rw3uk2y0i193c3po37l
     verified: false
     hashtags: "#ohbebe, #bebetaleb, #florals, #repost"
-  - username: "fatoscelikmakeup"
+  - username: "leilasmakeupstudio"
     fullname: >-
-      FC | SYDNEY MAKEUP & BEAUTY
+      SYDNEY MAKEUP ARTIST
     bio: >-
-      ▪️MAKEUP | BRIDAL & EVENTS ▪️KERATIN LASH LIFTS ▪️HD BROWS ▪️BROW LAMINATION ▪️LASH EXTENSIONS ▪️TEETH WHITENING 📍Bass Hill, Sydney
+      Bridal & Event Makeup Artist All Bookings | BOOK NOW ↴ OR 0493 106 721 Punchbowl, Sydney Australia Mobile Services Available (4+)
     location: "Australia"
-    followers: 47610
-    engagement: 151
-    commentsToLikes: 0.021277
-    id: ck5cl1hcry24x0i11zbbk193m
+    followers: 21639
+    engagement: 1125
+    commentsToLikes: 0.060314
+    id: clp0onqrk8i350j08if54jz3m
     verified: false
-    hashtags: "#mua, #bride, #makyaj, #wakeupandmakeup"
-  - username: "annhassarati"
+    hashtags: ""
+  - username: "staceycastanha"
     fullname: >-
-      ANN HASSARATI MAKEUP
+      Stacey Castanha
     bio: >-
-      Makeup Artist & Educator Owner of @_ahcosmetics Creative Team: @ah_creativeteam EMAIL: PR / Inquiries / Bookings HILLS DISTRICT NSW SHOP 👇🏼
+      #Makeup #Fashion #Travel 🇮🇳🇦🇺 YouTube: Stacey Castanha Business Enquiries:- staceycastanha.business@gmail.com
     location: "Australia"
-    followers: 45671
-    engagement: 157
-    commentsToLikes: 0.035900
-    id: ck0w6l5w993li0i19gm680pqw
+    followers: 17696
+    engagement: 350
+    commentsToLikes: 0.046819
+    id: ckapbquhm0zg10i78o3crd52n
     verified: false
-    hashtags: "#tools, #makeuplook, #naturalbeauty, #sydneymua"
-  - username: "graffitiface_mua"
-    fullname: >-
-      NATALIE THOMAS 🇦🇺🇦🇲
-    bio: >-
-      Makeup Artistry, Hair Styling & Beauty Bookings | Natalie@graffitiface.com.au 1:1 MUA Education Available
-    location: "Australia"
-    followers: 21060
-    engagement: 127
-    commentsToLikes: 0.233982
-    id: ck0ubxxjjfjwq0i19c6pybbu1
-    verified: false
-    hashtags: "#makeupclips, #quarantinelife, #alldressedupwithnowheretogo, #thearias"
-  - username: "aaliyahchloemakeup"
-    fullname: >-
-      Sydney Makeup Artist
-    bio: >-
-      Bridal | Glam | Editorial | Educator 🤓10+ YRS experience 📚Cert 3 Makeup 🚘 mobile 3+ 💵 @bperfectcosmetics aaliyahchloe20 💰 @morphebrushes GLAMFAM1475
-    location: "Australia"
-    followers: 21803
-    engagement: 207
-    commentsToLikes: 0.127326
-    id: ckaorlamznqdw0i785py40cgc
-    verified: false
-    hashtags: "#hijab, #waves, #lashes, #upstyle"
+    hashtags: "#eyeliner, #youtube, #newsouthwales, #bbloggerau"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Gymnasts Instagram Influencers In Greece In 2023
+title: Top 10 Gymnasts Instagram Influencers In Greece In 2024
 description: >-
-  Find top gymnasts Instagram influencers in Greece in 2023. Most popular hashtags: #training #greece #athens #love.
+  Find top gymnasts Instagram influencers in Greece in 2024. Most popular hashtags: #gymnastics #love #summer #fitnessmotivation.
 platform: Instagram
 hits: 9
-text_top: Discover the top-rated Instagram accounts on inBeat.
-text_bottom: Our platform has 9 Instagram influencers like this in Greece for you to pitch.
+text_top: Discover the most popular Instagram profiles on inBeat.
+text_bottom: Our platform holds 9 Instagram influencers like this in Greece for you to pitch.
 profiles:
   - username: "vasilikimillousi"
     fullname: >-
@@ -18,31 +18,19 @@ profiles:
     commentsToLikes: 0.004369
     id: ck5hmbeatlnhe0i11t2v7d5zg
     verified: false
-    hashtags: "#petrouniasfamily, #gymnasticsstars, #gymnastics, #weekend"
-  - username: "ioanna_samara"
-    fullname: >-
-      IOANNA SAMARA OLY Coach
-    bio: >-
-      #TRAINWITHOLYMPIAN - Olympian in rhythmic gymnastics Beijing 2008. Founder of @trainwitholympian_
-    location: "Greece"
-    followers: 35266
-    engagement: 492
-    commentsToLikes: 0.177083
-    id: ck0w2lwhmp0yy0i19s1219dwl
-    verified: false
-    hashtags: "#biotherm, #biothermgreece, #lifeplankton"
+    hashtags: "#petrouniasfamily, #gymnastics, #gymnasticsstars, #weekend"
   - username: "annie_pantazi"
     fullname: >-
       Annie Pantazi
     bio: >-
-      • Olympic Champion in Rhythmic Gymnastics-Athens 2004 🇬🇷 • Special Olympics Global Ambassador RG • Mother 👩‍👧 • @filathlitikos_kallitheas 🤸🏼‍♀️
+      • Olympic Champion in Rhythmic Gymnastics-Athens 2004 🇬🇷 • Special Olympics Global Ambassador RG • Mother 👩‍👧‍👦 • @filathlitikos_kallitheas 🤸🏼‍♀️
     location: "Greece"
-    followers: 26531
-    engagement: 1351
-    commentsToLikes: 0.082056
+    followers: 30886
+    engagement: 416
+    commentsToLikes: 0.005492
     id: ck0w1f88lj1jm0i196qqrcmuk
     verified: false
-    hashtags: "#mygirl, #greece, #happymoments, #tartibeach"
+    hashtags: "#mysunshine, #venice, #myeverything, #mygirl"
   - username: "tzenistef"
     fullname: >-
       Jenny Stefanidou🧿
@@ -55,18 +43,30 @@ profiles:
     id: ckapbru9z13qu0i78euzr57zl
     verified: false
     hashtags: "#love, #madawards2021, #legs, #dancing"
-  - username: "pavlos_terzopoulos"
+  - username: "eleftherios_petrounias"
     fullname: >-
-      Pavlos Terzopoulos
+      Eleftherios Petrounias
     bio: >-
-      ▪️Fitness Presenter 🇬🇷 🇵🇱 🇮🇹 ▪️Strength & Conditioning Coach🏋️‍♂️🏃‍♂️ ▪️Model @new_model_agency ▪️Fitness Model
+      🥇 Olympic Champion 2016 🥉 Olympic Medalist 2020 Paris 2024 soon ⭐@stoiximan @mercedesbenzgr @underarmour @alterlifegr @samsunggreece @myelements.gr
     location: "Greece"
-    followers: 65682
-    engagement: 426
-    commentsToLikes: 0.079607
-    id: ck5zkgdvzjfmw0i14dir6zotg
+    followers: 319805
+    engagement: 557
+    commentsToLikes: 0.004305
+    id: ck0u0jhr0tyx70i19u2adiiva
+    verified: true
+    hashtags: "#crete, #petrounias, #roadtoparis2024, #familyholidays"
+  - username: "marilenaschizodimou"
+    fullname: >-
+      Marilena Schizodimou
+    bio: >-
+      ᴰᵃⁿᵃⁱ'ˢᵐᵒᵐ✨ᶜᵃˡⁱˢᵗʰᵉⁿⁱᶜˢ🤸🏻‍♀️ᵃⁿⁱᵐᵃˡᵐᵒᵛᵉᵐᵉⁿᵗᶜᵒᵃᶜʰ🐆ᵃʳᵗⁱˢᵗ 🎨ᶜʰⁱʳᵒᵖʳᵃᶜᵗᵒʳ 🌐ᵒʷⁿᵉʳᵒᶠ @mst.workout @chromataneochori @hobo_donkey @cadillac_records_bar ˡᵒᵛᵉʳ
+    location: "Greece"
+    followers: 10338
+    engagement: 533
+    commentsToLikes: 0.021057
+    id: ckf5o70de15w00j238ln8ha5b
     verified: false
-    hashtags: "#tattoosleeve, #blackandwhite, #styleinspo, #lfl"
+    hashtags: "#msttraining, #chromataneochori, #art, #bohostyle"
   - username: "evdoxia_dm"
     fullname: >-
       Evdoxia Dima Xalatsi

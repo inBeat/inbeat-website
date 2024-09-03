@@ -1,130 +1,130 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Durban in 2023
+title: Top 10 Fitness Instagram Influencers In Durban In 2024
 description: >-
-  Find top fitness Instagram influencers in Durban in 2023. Most popular hashtags: #love #fitness #southafrica #lockdown.
+  Find top fitness Instagram influencers in Durban in 2024. Most popular hashtags: #ootd #fashion #southafrica.
 platform: Instagram
-hits: 5
-text_top: Identify the best Instagram accounts on inBeat.
-text_bottom: Our platform holds 5 Instagram influencers like this in Durban, South Africa for you to work with.
+hits: 4
+text_top: Analyze the top-rated Instagram profiles on inBeat.
+text_bottom: Our database aggregates 4 Instagram influencers like this in Durban, South Africa for you to work with.
 profiles:
+  - username: "roxyamas"
+    fullname: >-
+      Roxy Barker
+    bio: >-
+      ℕ𝕠𝕥 𝕪𝕠𝕦𝕣 𝕒𝕧𝕖𝕣𝕒𝕘𝕖 𝕚𝕟𝕤𝕥𝕒𝕘𝕣𝕒𝕞 𝕞𝕠𝕕𝕖𝕝 Pro makeup artist @makeup_by_roxy_ Stylist & Creator @__raidmycloset WBFF Bikini Pro
+    location: "South Africa"
+    followers: 43617
+    engagement: 138
+    commentsToLikes: 0.014172
+    id: ck0w49eacxfyk0i195a1n2l0w
+    verified: false
+    hashtags: "#womenstyle, #streetstyle, #instagood, #instafashion"
+  - username: "kunene_ayanda"
+    fullname: >-
+      Ayanda Kunene
+    bio: >-
+      South African 🇿🇦 Twin: @amanda_Kunene 📍 CPT: @20modelmanagement 📍 DBN: @bossmodelsdbn
+    location: "South Africa"
+    followers: 5804
+    engagement: 252
+    commentsToLikes: 0.067949
+    id: ck138fd3bfyxf0i199d208qt8
+    verified: false
+    hashtags: "#fashion, #southafrica, #likeforlikes, #safari"
   - username: "dainogulu"
     fullname: >-
       Dainamiaro
     bio: >-
-      A SEXY CHOCOLATE SLAB 🍫 🇳🇬 A NIGERIAN LOST IN SA🇿🇦 💪🏾 personal trainer 💪🏾 🥇agency: @bossmodelsdbn 📩Email:do1115131@gmail.com
+      African prince 👑 A SEXY CHOCOLATE SLAB 🍫 🇳🇬 A NIGERIAN LOST IN SA🇿🇦 🥇agency: @bossmodelsdbn 📩Email:do1115131@gmail.com Shop @thedrop.co.za ⬇️
     location: "South Africa"
-    followers: 13031
-    engagement: 564
-    commentsToLikes: 0.018923
+    followers: 12813
+    engagement: 413
+    commentsToLikes: 0.013873
     id: ckaor925xm8r70i78qr61uy1y
     verified: false
-    hashtags: "#durban, #gymlife, #fashion, #foryoupage"
-  - username: "davidmillersa12"
+    hashtags: "#fashion, #ekasi, #ootdmens, #ootdfashion"
+  - username: "dj_sabby"
     fullname: >-
-      Dave Miller
+      The Best Thing Ever
     bio: >-
-      Cricketer- @davemiller_photography is my hobby.
+      2 X Drive Time Award Nominated Radio DJ @Yfm 3-7pm/ @bbcworldservice #ThisIsAfrica Correspondent /TV Presenter /Club DJ /MC/ 📧: bookings@djsabby.com
     location: "South Africa"
-    followers: 943742
-    engagement: 329
-    commentsToLikes: 0.004012
-    id: ck5q35o49jc1n0i118sa9coua
+    followers: 50987
+    engagement: 102
+    commentsToLikes: 0.029602
+    id: ck5hlmendkh0l0i11l2g54l9j
     verified: true
-    hashtags: "#cricket, #instadaily, #dubai, #wildlife"
-  - username: "mrsroxyamas_"
+    hashtags: "#thebestdrive, #4hourdj, #summer, #golf"
+  - username: "marcbuckner"
     fullname: >-
-      Roxy Wbff Pro
+      Marc Buckner
     bio: >-
-      🇿🇦 MUA💋 @makeup_by_roxy_ @__raidmycloset Athlete @rishapeangels @magicbikinis @ryderwear Roxy10 WBFF Bikini Pro 6th 🌎
+      Email for collaborations, diet + training tips & one on one fitness programs. father to @lusiluludog 🐺
     location: "South Africa"
-    followers: 39174
-    engagement: 231
-    commentsToLikes: 0.013658
-    id: ck0w49eacxfyk0i195a1n2l0w
-    verified: false
-    hashtags: "#raidmycloset, #magicbikinis, #makeupbyroxy, #contentcreation"
-  - username: "kelly_ifbb.bikini.fit"
+    followers: 798499
+    engagement: 555
+    commentsToLikes: 0.012218
+    id: ck5qeisvd0p580i11yvigwyqx
+    verified: true
+    hashtags: "#dog, #huaweiwatchgt4, #capetown, #sunset"
+  - username: "darkprince_david"
     fullname: >-
-      KellyAinsworth_Trainer
+      Didi | Mobolaji🇳🇬
     bio: >-
-      🇿🇦SA Protea Athlete 👊🏻Trainer at Pavilion Virgin Active 🌐 Online Coach ❤Happily @nicholasrodrigues67 babygirl 🥰 🙌🏻@medisportmassage Sponsored
+      Let love lead. @fanjam_management 🇿🇦 Fitness acc: @dave__trainer Cape Town
     location: "South Africa"
-    followers: 17393
-    engagement: 369
-    commentsToLikes: 0.034796
-    id: ck5hf942lwdyb0i11oj3g0t9o
+    followers: 11753
+    engagement: 1051
+    commentsToLikes: 0.057025
+    id: ckaorxq4lp8oe0i78qob8mdk5
     verified: false
-    hashtags: "#fitnessgirls, #personaltrainer, #girlswholift, #girlthings"
-  - username: "tamzinthomas_"
+    hashtags: ""
+  - username: "nikuslourens"
     fullname: >-
-      Tamzin Thomas
+      SN Lourens
     bio: >-
-      📍JHB/ POTCH & CPT Curly Girl | Natural hair enthusiast 🌀 Nike sponsored athlete 💌 Email for business inquires
+      ✝️God > Your problems Natural Fitness influencer and motivator💪🏻 💍 @chanelle_maritz
     location: "South Africa"
-    followers: 8270
-    engagement: 917
-    commentsToLikes: 0.029674
-    id: ck15tn1u1iw700i199ksotvfd
+    followers: 40160
+    engagement: 688
+    commentsToLikes: 0.002641
+    id: ck9wd7wkneh360j78b9u4fahf
     verified: false
-    hashtags: "#naturalchics, #fast, #athletics, #loveyourcurls"
-  - username: "zeenatkh_"
+    hashtags: "#photoideas, #naturephotograpy, #african, #southafrica"
+  - username: "demiknoetze"
     fullname: >-
-      Zeenat Khan
+      DEMI KNOETZE
     bio: >-
-      • Email : info@curativeconcepts.com • Stylist @rogue_styling •@damodelmanagement •Fashion|Fitness|Food •UCT Bcom graduate
+      Photography | Fitness | Beauty 🦋 South African @carltonhairsa club @bydemiknoetze @adorn_dresshire @seconds_to_go_ @mu_bydemi
     location: "South Africa"
-    followers: 9452
-    engagement: 1046
-    commentsToLikes: 0.202621
-    id: ck5zt80vuzwqc0i140ooagtz6
+    followers: 20855
+    engagement: 844
+    commentsToLikes: 0.003155
+    id: ck5znbw1do5yg0i14gugnllnk
     verified: false
-    hashtags: "#rocolove, #rocofamous, #strangerthings, #iconixza"
-  - username: "ashley_rothman"
+    hashtags: "#superbme, #varsityvibesa"
+  - username: "aneekasulaiman"
     fullname: >-
-      Ashley Rothman
+      Aneeka Sulaiman
     bio: >-
-      ✈️ travel addict 🌱 adventure lover 🍉 health + fitness enthusiast I want to make memories all over the world 🌍
+      content creator | digital & sm marketing certified fashion | fitness | beauty south africa | pretoria youtube channel 👇🏼
     location: "South Africa"
-    followers: 24156
-    engagement: 453
-    commentsToLikes: 0.063608
-    id: ckaowktx19d380i78yhvj56zi
+    followers: 78639
+    engagement: 262
+    commentsToLikes: 0.013242
+    id: ck6u865zspnrl0j717b9fq862
     verified: false
-    hashtags: "#blowwave, #happysunday, #quarantinelife, #takemeback"
-  - username: "tracymcgregor"
+    hashtags: "#factoriefam, #edgarsbeauty, #edgars, #mycottonon"
+  - username: "sbdapparel"
     fullname: >-
-      Tracy McGregor
+      SBD Apparel
     bio: >-
-      * DM for collabs * Certified Specialist in Fitness Nutrition 🍏 South African ~ Model ~ Blogger ~ Entrepreneur ~ BLOG @
+      The market leader in supports, clothing and accessories for strength and fitness.
     location: "South Africa"
-    followers: 27278
-    engagement: 355
-    commentsToLikes: 0.162121
-    id: ck6ue97chpjuk0j71p6xoc0mx
+    followers: 177229
+    engagement: 345
+    commentsToLikes: 0.013189
+    id: cl6m47wleklj70i23k3vheb7w
     verified: false
-    hashtags: "#capetown, #mom, #bornthree, #lifeisgood"
-  - username: "mrkyleclark"
-    fullname: >-
-      K Y L E   C L A R K
-    bio: >-
-      •CEO: @_clarkmedia •Managing Partner: @international_fitness_academy •TV/Radio Presenter •Bookings: angela@clarkmedia.co.za 📍: 🇿🇦
-    location: "South Africa"
-    followers: 29000
-    engagement: 199
-    commentsToLikes: 0.220575
-    id: ck5caa6tad0ni0i1194226uxl
-    verified: false
-    hashtags: "#mensfashion, #fashionblogger, #makleledesigns, #mensstyle"
-  - username: "caley.jack"
-    fullname: >-
-      Caley Jäck
-    bio: >-
-      @lesmills ✖️ @Reebok - Global Brand Ambassador s o u t h • a f r i c a n | fitness . travel . Wife . Mumma🤰🏼to Ella + 🐶🐶| ✝️ FREE 🏠WORKOUTS👇🏼
-    location: "South Africa"
-    followers: 58673
-    engagement: 944
-    commentsToLikes: 0.021700
-    id: ck14khpvkpjs00i19y064z4ey
-    verified: false
-    hashtags: "#newborn, #exercisemotivation, #babygirl, #grateful"
+    hashtags: "#sbdapparel, #sbd, #respectthebelt, #momentum"
 ---

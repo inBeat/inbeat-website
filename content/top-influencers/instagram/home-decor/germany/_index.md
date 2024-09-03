@@ -1,24 +1,48 @@
 ---
-title: Top 10 Home Decor Instagram Influencers In Germany In 2023
+title: Top 10 Home Decor Instagram Influencers In Germany In 2024
 description: >-
-  Find top home decor Instagram influencers in Germany in 2023. Most popular hashtags: #homedecor #interiordesign #interior #livingroom.
+  Find top home decor Instagram influencers in Germany in 2024. Most popular hashtags: #solebich #homedecor #interior #cozyhome.
 platform: Instagram
-hits: 503
-text_top: Analyze the best Instagram accounts on inBeat.
-text_bottom: Our search engine aggregates 503 Instagram influencers like this in Germany for you to contact.
+hits: 608
+text_top: Identify the best Instagram profiles on inBeat.
+text_bottom: Our platform has 608 Instagram influencers like this in Germany for you to connect with.
 profiles:
   - username: "selinata"
     fullname: >-
       SELINA
     bio: >-
-      🌼Lifestyle🌼 DIY🌼 Creative mind🌼 ❤ @jonas3_3 👫 Own homedecor shop 🛍️ makrameebyselina
+      ❃ VANLIFE ❃INTERIOR LOVE ❃DIY ❥ @jonas3_3 Own homedecor shop ❃makrameebyselina❃
     location: "Germany"
-    followers: 5563
-    engagement: 620
-    commentsToLikes: 0.072358
+    followers: 4563
+    engagement: 511
+    commentsToLikes: 0.044632
     id: ck6u9q2hxyz2z0j71qhogv49j
     verified: false
-    hashtags: "#anajohnson, #wintervibes, #explorersauruspresets, #winterwonderland"
+    hashtags: "#vanlife, #springvibes, #winterwonderland, #benakd"
+  - username: "casa.loggia"
+    fullname: >-
+      Giusy
+    bio: >-
+      ◌ HOMEDECORATION ◌ NORDIC HOME ◌ LIFESTYLE ◌ INTERIOR PHOTOGRAPHY #casa_loggia ∇ Impressum | Datenschutz ∇
+    location: "Germany"
+    followers: 32600
+    engagement: 133
+    commentsToLikes: 0.109498
+    id: ck8t97px8n5ly0j78ltgtxyfy
+    verified: false
+    hashtags: "#modern, #wohnzimmer, #flurdeko, #roominspiration"
+  - username: "interiorlover_"
+    fullname: >-
+      Vula Tsakiri
+    bio: >-
+      Brand Ambassador @westwingde #westwinghomies #interiorlover #homedecor
+    location: "Germany"
+    followers: 25992
+    engagement: 42
+    commentsToLikes: 0.000000
+    id: ckapb3ohmygjx0i782an5vr8l
+    verified: false
+    hashtags: "#interior4all, #wohnideen, #westwing, #christmasdecor"
   - username: "my.flower.cottage"
     fullname: >-
       ~M~M~
@@ -30,101 +54,77 @@ profiles:
     commentsToLikes: 0.043259
     id: ck8t8mhkbkzt90j78ewjp91av
     verified: false
-    hashtags: "#kranz, #blumenliebe, #flowersmakesmehappy, #flowerstagram"
-  - username: "sabrinafelizitas"
+    hashtags: "#sommerblumen, #bauerngarten, #wreathsofinstagram, #mygarden"
+  - username: "hamburgdaniahoi"
     fullname: >-
-      Sabrina | Lifestyle & Interior
+      Hi, ich bin Dani und lebe mit Mann & Pudel in Hamburg
     bio: >-
-      content creator & decor enthusiast 📷sharing beautiful moments in squares 📍Northern Germany #momentsofmine #mybeigelife #homedecor
+      💌 hamburgdaniahoi@googlemail.com Wohnen🛋️Pflanzen🪴Diy🧶Pudel🐶Hund🪽Boho UGC All Pics are mine
     location: "Germany"
-    followers: 57807
-    engagement: 636
-    commentsToLikes: 0.030764
-    id: ck0vxr0yn09xl0i195n9uodg4
+    followers: 169640
+    engagement: 1577
+    commentsToLikes: 0.026365
+    id: ck8tb41ipu6f70j78oashq5it
     verified: false
-    hashtags: "#fromabove, #capturequite, #cottagecoreaesthetic, #hyggedecor"
-  - username: "casa.loggia"
+    hashtags: "#altbauwohnung, #weihnachtsdekoration, #easypeasy, #clayflowers"
+  - username: "puerilismus"
     fullname: >-
-      Giusy
+      🌻 Susi
     bio: >-
-      ◌ HOMEDECORATION ◌ ARCHITECT-DESIGNED HOUSE ◌ INTERIORDESIGN ◌ LIFESTYLE interiorBﾚ⊕ggεr | #casa_loggia ∇ Impressum | Datenschutz ∇
+      • twenty-four | social worker at a home for mentally ill people • in love with interior 🏠 plants 🌿 & the sun 🌞
     location: "Germany"
-    followers: 23167
-    engagement: 294
-    commentsToLikes: 0.178563
-    id: ck8t97px8n5ly0j78ltgtxyfy
+    followers: 102023
+    engagement: 2343
+    commentsToLikes: 0.005526
+    id: ck0u610lp0mqa0i195pvpnsm0
     verified: false
-    hashtags: "#nordichome, #homedesign, #myhome, #hallwaydecor"
-  - username: "_ninamarisa_"
+    hashtags: "#boholiving, #badezimmerideen, #interiordesigner, #homeinspo"
+  - username: "cozytownhouse"
     fullname: >-
-      𝒩𝒾𝓃𝒶
+      Daniela Iorio
     bio: >-
-      ♡
+      Architect Home 🌿 Garden 🌿 Interior 🌿 Deko 🌿Farmhouseliving 🌿 Landhausstil 🌿 Cozy living 🌿 Pets 🌿 Lifestyle Contact: dani.iorio.4@gmail.com
     location: "Germany"
-    followers: 30917
-    engagement: 206
-    commentsToLikes: 0.043046
-    id: ckapauqgmxjmn0i78ksxfvz1k
+    followers: 31761
+    engagement: 647
+    commentsToLikes: 0.138365
+    id: ckapbx44h1mdy0i78dwiy331v
     verified: false
-    hashtags: "#dogsofinstagram, #poetry, #homedecor, #shoulderflexibility"
-  - username: "home.inspiratixn"
+    hashtags: "#diningroomdecor, #landhausdeko, #cozyweihnachtsideen, #landhausliving"
+  - username: "mimameise"
     fullname: >-
-      Inspiration🌸
+      MiMaMeise 🌑
     bio: >-
-      Alles rund um Inspiration 💓 Kooperation? DM oder E-Mail Follow @mumofyua -> meine privat Seite
+      • Tom & Sandra Maria & 3 Cats • Our Home at the German Northsea 🌊 ☛ Handmade Jewelry & Vintage Finds Shop ✉️ mimameise@web.de
     location: "Germany"
-    followers: 132412
-    engagement: 196
-    commentsToLikes: 0.012418
-    id: ck0tzym1ws0op0i19bu1vf0yo
+    followers: 115290
+    engagement: 691
+    commentsToLikes: 0.024441
+    id: ck5c6mhk35qvs0i11hn7sx248
     verified: false
-    hashtags: ""
-  - username: "eigenheimliebe"
+    hashtags: "#bedroom, #interiordesign, #home, #altbauliebe"
+  - username: "pauline_no_17"
     fullname: >-
-      INTERIOR | LIFESTYLE | INSPO
+      Hanna
     bio: >-
-      Leonie 🏡 Hausbau 2018/19 | Einzug 09/2019 💍 Wifey 📍 Franken ⚪️🔴 ✉️: eigenheimliebe@web.de
+      Wohnkonzepte | Renovierungsberatung
     location: "Germany"
-    followers: 87641
-    engagement: 189
-    commentsToLikes: 0.080241
-    id: ck0u2nmez0hxb0i19fwoeh069
+    followers: 16537
+    engagement: 502
+    commentsToLikes: 0.036932
+    id: ck5c44mev0lsz0i111c7l9m7k
     verified: false
-    hashtags: "#newhome, #sylvester, #blonde, #bathroomdesign"
-  - username: "interior_by_kati"
+    hashtags: "#food, #followforfollow, #flowerstagram, #bedroom"
+  - username: "67quadrat"
     fullname: >-
-      Kati | Interior Inspiration
+      67quadrat | Interior & Living
     bio: >-
-      𝐈𝐧𝐭𝐞𝐫𝐢𝐨𝐫 & 𝐎𝐮𝐭𝐝𝐨𝐨𝐫 | 𝐃𝐈𝐘 | 𝐓𝐫𝐚𝐯𝐞𝐥 | 𝐅𝐨𝐨𝐝 ✉️interiorbykati@t-online.de #interiorbykati für reposts 👇🏼Impressum&Datenschutz
+      Sabina Welcome to my camera roll 🌸 🏠 My 67sqm playful home in Berlin
     location: "Germany"
-    followers: 154402
-    engagement: 188
-    commentsToLikes: 0.016516
-    id: ck13bqej8wof00i19txtir3s6
+    followers: 163304
+    engagement: 1041
+    commentsToLikes: 0.007661
+    id: ckf5rumu0dxd60j2384mau3oa
     verified: false
-    hashtags: "#inspohome, #instainterior, #whenthesungoesdo, #urlaubsfotos"
-  - username: "uls_andthekids"
-    fullname: >-
-      Ulli | Interior • Fashion • Lifestyle
-    bio: >-
-      Hello: uls.andthekids@gmail.com Interior | Lifestyle | Fashion Impressum:
-    location: "Germany"
-    followers: 65856
-    engagement: 187
-    commentsToLikes: 0.076438
-    id: ck55nuals6zoy0i11ocwl0j65
-    verified: false
-    hashtags: "#decohome, #fuchsegg, #plantsofinstagram, #interior"
-  - username: "alexanderpaar"
-    fullname: >-
-      Alexander Paar
-    bio: >-
-      Creative mind w/ a passion for #interior #design #architecture #travel 🤍 Feel free to explore my world 🌍 ✉️ via DM📍based in Germany Impressum
-    location: "Germany"
-    followers: 137602
-    engagement: 125
-    commentsToLikes: 0.110677
-    id: ck5c4ju3v1i7n0i11jfbj42lc
-    verified: false
-    hashtags: "#homedecoration, #nordiskdesign, #monochromehome, #altbauliebe"
+    hashtags: "#dopaminedecor, #myhomevibe, #interiordecor, #livingroomstyle"
 ---

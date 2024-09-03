@@ -1,24 +1,60 @@
 ---
-title: Top 10 Dancers Instagram Influencers In Switzerland In 2023
+title: Top 10 Dancers Instagram Influencers In Switzerland In 2024
 description: >-
-  Find top dancers Instagram influencers in Switzerland in 2023. Most popular hashtags: #switzerland #dance #dancer.
+  Find top dancers Instagram influencers in Switzerland in 2024. Most popular hashtags: #switzerland #dance #dancer.
 platform: Instagram
-hits: 21
-text_top: Discover the most popular Instagram accounts on inBeat.
-text_bottom: Our database aggregates 21 Instagram influencers like this in Switzerland for you to work with.
+hits: 29
+text_top: Discover the top-rated Instagram accounts on inBeat.
+text_bottom: Our platform has 29 Instagram influencers like this in Switzerland for you to work with.
 profiles:
+  - username: "valentinaoir"
+    fullname: >-
+      VALENTINA OGB
+    bio: >-
+      official dancer @tayc • @og.wifeys 📨 valentinaoirbusiness@gmail.com founder of @veviogb
+    location: "Switzerland"
+    followers: 28706
+    engagement: 405
+    commentsToLikes: 0.050243
+    id: ck5zqeaakug600i14uxz1ybze
+    verified: false
+    hashtags: "#veviogbworkshop, #valentinaoir, #veviogb, #braidsmaid"
   - username: "stylouz_cosplay"
     fullname: >-
       Stylouz
     bio: >-
       🇨🇭 Swiss Cosplayer ✨ Dancer 🏆 ECG 2012 & 2015 Paris 🤓 International Cosplay Judge ⭐️ Guests & Events Manager 📧 Official Pages - PM for Booking ⬇️
     location: "Switzerland"
-    followers: 43056
-    engagement: 1165
-    commentsToLikes: 0.042009
+    followers: 71899
+    engagement: 1151
+    commentsToLikes: 0.038786
     id: ck0w4uulj0ilv0i19y5r8uetg
     verified: false
-    hashtags: "#naruto, #cyberpunk2077, #narutocosplay, #narutoshippuden"
+    hashtags: "#narutocosplay, #thewitcher, #witchernetflix, #narutoshippuden"
+  - username: "dave_ryding"
+    fullname: >-
+      Dave Ryding
+    bio: >-
+      Disco Dancer! @fischerski | @gurgl.official | @fusalp | @quinn_estates |@zaniergloves | @yniqeyewear
+    location: "Switzerland"
+    followers: 53514
+    engagement: 835
+    commentsToLikes: 0.009158
+    id: ck5q0r0re7c3o0i11gnt97jbz
+    verified: true
+    hashtags: "#merlincycles, #snowrental, #hochgurgl, #fischerski"
+  - username: "arinaluisa"
+    fullname: >-
+      ARINA⚡️
+    bio: >-
+      🪩 singer | dancer 👩🏼‍💻 co-founder | creative director @we.trst 📍 based in switzerland CHECK MY LINKTREE👇🏽
+    location: "Switzerland"
+    followers: 217613
+    engagement: 31
+    commentsToLikes: 0.088686
+    id: ck5hk4xhmhsnr0i11nhzpws2l
+    verified: false
+    hashtags: "#cuttingshapes, #shuffletutorial, #learnhowtoshuffle, #cuttinshapesbasics"
   - username: "alina.victoria06"
     fullname: >-
       𝑨𝒍𝒊𝒏𝒂 𝑪𝒂𝒓𝒃𝒐𝒏𝒊 🅾︎🅵🅵🅸🅲🅸🅰︎🅻
@@ -43,18 +79,6 @@ profiles:
     id: ck8t1syxbwwl80j78601m2jik
     verified: false
     hashtags: "#lebanon, #mea, #middleeastairlines, #beirut"
-  - username: "dave_ryding"
-    fullname: >-
-      Dave Ryding
-    bio: >-
-      British Disco Dancer! @fischerski / @obergurgl.official @goldwin_official / @zaniergloves / @yniqeyewear / 'Rocket' Merchandise
-    location: "Switzerland"
-    followers: 33723
-    engagement: 1193
-    commentsToLikes: 0.016003
-    id: ck5q0r0re7c3o0i11gnt97jbz
-    verified: true
-    hashtags: "#fischerski, #thediamondofthealps, #ctec, #fischerracefamily"
   - username: "crimermusic"
     fullname: >-
       CRIMER
@@ -78,53 +102,29 @@ profiles:
     commentsToLikes: 0.176300
     id: ck6topt5ofey20j71ziy6j8h1
     verified: false
-    hashtags: "#igerszurich, #capshop, #sonyvideo, #videoschweiz"
+    hashtags: "#igerszurich, #swissvideos, #videoproducer, #videograms"
   - username: "msbettystyle"
     fullname: >-
       Betty Style
     bio: >-
       The distance between your dreams and reality is called action. 🤘🏼😎 Pro Hip Hop Dancer 👽 Alternative & Athlete 🎥StreetDance2 💎 DM 4 collabo
     location: "Switzerland"
-    followers: 28133
-    engagement: 418
-    commentsToLikes: 0.043405
+    followers: 27960
+    engagement: 371
+    commentsToLikes: 0.037462
     id: ck6tu3az8e2ex0j71b6roqb4q
     verified: false
-    hashtags: ""
+    hashtags: "#oscarwilde"
   - username: "paulineschopfer"
     fullname: >-
       Pauline Schopfer 💃
     bio: >-
       💃 Professional dancer 🇨🇭Swiss 📸 Model
     location: "Switzerland"
-    followers: 9358
-    engagement: 407
-    commentsToLikes: 0.051733
+    followers: 9114
+    engagement: 397
+    commentsToLikes: 0.048694
     id: ck15urtqloae70i19p53c3dy0
     verified: false
-    hashtags: "#dancer, #fashion, #winter, #photography"
-  - username: "arinaluisa"
-    fullname: >-
-      A R I N A🧚🏼‍♀️
-    bio: >-
-      23 year old groovin through life👟 🇨🇭 swiss 💃🏻 shuffle / cutting shapes dancer + instructor SHUFFLE CLASS IN ZÜRI💙👇🏼
-    location: "Switzerland"
-    followers: 79034
-    engagement: 546
-    commentsToLikes: 0.017641
-    id: ck5hk4xhmhsnr0i11nhzpws2l
-    verified: false
-    hashtags: "#vacay, #sea, #streetwalk, #thatview"
-  - username: "marce_hl"
-    fullname: >-
-      Marcelo Letra
-    bio: >-
-      💁🏽‍♂️ Dancer|Teacher|Choreographer 📍 Zurich, Switzerland 🎟 @choreographersnight 👥 @mnmchoreography ✉️ marcelo.letra@gmail.com ⬇️TRASH VIDEO⬇️
-    location: "Switzerland"
-    followers: 3352
-    engagement: 1547
-    commentsToLikes: 0.059176
-    id: ck5cimgtrsxct0i11mzs5d3jw
-    verified: false
-    hashtags: "#vintage, #shooting, #jazzfunk, #class"
+    hashtags: "#shooting, #life, #blackandwhite, #beautiful"
 ---

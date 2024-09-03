@@ -1,11 +1,11 @@
 ---
-title: Top 10 Music TikTok Influencers In Greece In 2023
+title: Top 10 Music TikTok Influencers In Greece In 2024
 description: >-
-  Find top music TikTok influencers in Greece in 2023. Most popular hashtags: #foryou #greece #fyp #foryoupage.
+  Find top music TikTok influencers in Greece in 2024. Most popular hashtags: #foryou #greece #fyp #foryoupage.
 platform: TikTok
-hits: 23
-text_top: Identify the top-rated TikTok accounts on inBeat.
-text_bottom: Our platform holds 23 TikTok influencers like this in Greece for you to collaborate.
+hits: 24
+text_top: Identify the most popular TikTok accounts on inBeat.
+text_bottom: inBeat aggregates 24 TikTok influencers like this in Greece for you to collaborate.
 profiles:
   - username: "marthanimiti"
     fullname: >-
@@ -95,14 +95,14 @@ profiles:
     fullname: >-
       TUS
     bio: >-
-      Singer 🎤 Musician 🎵 Songwriter OUT NOW ON YOUTUBE <YOU & I> 👇🏻
+      Singer 🎤 Musician 🎵 Songwriter OUT NOW <Τα Παιδιά Στη Γειτονιά> 👇🏻
     location: "Greece"
-    followers: 220400
-    engagement: 1035
-    commentsToLikes: 0.009278
+    followers: 226200
+    engagement: 1009
+    commentsToLikes: 0.009995
     id: ck9euj0iedtm20j78g8mskv0s
-    verified: false
-    hashtags: "#ink, #singer, #kid, #song"
+    verified: true
+    hashtags: "#livestream, #blackjack, #lol, #tattoo"
   - username: "alex.reber5567"
     fullname: >-
       damenek

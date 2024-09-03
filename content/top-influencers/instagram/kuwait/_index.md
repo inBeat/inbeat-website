@@ -1,12 +1,24 @@
 ---
-title: Top 10 Instagram Influencers In Kuwait In 2023
+title: Top 10 Instagram Influencers In Kuwait In 2024
 description: >-
-  Find top Instagram influencers in Kuwait in 2023. Most popular hashtags: #creative #beautiful #artist.
+  Find top Instagram influencers in Kuwait in 2024. Most popular hashtags: #creative #beautiful #artist.
 platform: Instagram
 hits: 14
-text_top: See the top-rated Instagram accounts on inBeat.
-text_bottom: Our database holds 14 Instagram influencers like this in Kuwait for you to work with.
+text_top: Discover the best Instagram profiles on inBeat.
+text_bottom: Our database holds 14 Instagram influencers like this in Kuwait for you to contact.
 profiles:
+  - username: "ahmad_alnufais"
+    fullname: >-
+      AHMAD ALNUFAIS | أحمد النفيس
+    bio: >-
+      أحمد عبدالعزيز النفيس Quran Reciter 🇰🇼 يتعافى المرء ... بالقرآن 🩵 إدارة الأعمال والإعلان : K7MEDIA +96565043014
+    location: "Kuwait"
+    followers: 2585428
+    engagement: 213
+    commentsToLikes: 0.019448
+    id: ck0w3umxevd6c0i19gt6d09um
+    verified: false
+    hashtags: "#adornquran, #friday, #quran, #suraharrahman"
   - username: "mohamad1hadi"
     fullname: >-
       محمد هادي | Mohamad Hadi
@@ -67,18 +79,6 @@ profiles:
     id: ck0udxol1k70t0i19xvw4lsbb
     verified: false
     hashtags: "#kuwait, #uae, #oman, #pancakes"
-  - username: "ahmad_alnufais"
-    fullname: >-
-      AHMAD ALNUFAIS | أحمد النفيس
-    bio: >-
-      أحمد بن عبدالعزيز النفيس Quran Reciter From Kuwait 🇰🇼‬ For business: Tareq Muhammad Whatsapp ‪+96565043014‬ قناة اليوتيوب
-    location: "Kuwait"
-    followers: 926218
-    engagement: 258
-    commentsToLikes: 0.027516
-    id: ck0w3umxevd6c0i19gt6d09um
-    verified: false
-    hashtags: "#islam, #quran, #nasheed, #duaa"
   - username: "copyrghtviolations"
     fullname: >-
       

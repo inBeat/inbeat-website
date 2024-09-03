@@ -1,11 +1,11 @@
 ---
-title: Top 10 Basketball Players TikTok Influencers In 2023
+title: Top 10 Basketball Players TikTok Influencers In 2024
 description: >-
-  Find top basketball players TikTok influencers in 2023. Most popular hashtags: #fyp #foryou #basketball #foryoupage.
+  Find top basketball players TikTok influencers in 2024. Most popular hashtags: #foryou #fyp #foryoupage #basketball.
 platform: TikTok
-hits: 103
-text_top: Identify the top-rated TikTok profiles on inBeat.
-text_bottom: inBeat holds 103 TikTok influencers like this for you to collaborate.
+hits: 101
+text_top: Identify the most popular TikTok accounts on inBeat.
+text_bottom: Our search engine has 101 TikTok influencers like this for you to pitch.
 profiles:
   - username: "facio._"
     fullname: >-
@@ -67,18 +67,6 @@ profiles:
     id: ckc7eqogznri20j23zal9c8oz
     verified: false
     hashtags: "#basketball, #fyp, #foryoupage, #ballaholic"
-  - username: "ayeeandayee23"
-    fullname: >-
-      A&A
-    bio: >-
-      I’m Alexa & he’s Alec 💛 Flight attendant & Basketball player IG: ayeelexa23 🤪
-    location: "United States"
-    followers: 7989
-    engagement: 723
-    commentsToLikes: 0.021798
-    id: ckcj8yr9h7mac0j23a750zx5t
-    verified: false
-    hashtags: "#fypchallenge, #europe, #duo, #fyp"
   - username: "jbtuch"
     fullname: >-
       Jean-baptiste Cazaub
@@ -127,4 +115,16 @@ profiles:
     id: ck9epfznvsew10j78xc0csqfq
     verified: true
     hashtags: "#retochallenge, #foryou, #challenge, #reto"
+  - username: "ingridvasconcelos"
+    fullname: >-
+      Ingrid Vasconcelos
+    bio: >-
+      Ingrid 🇧🇷 Model💁🏼‍♀️ Personal trainer💪🏼 Basketball player⛹🏼‍♀️ Mom👩‍👦
+    location: "Brazil"
+    followers: 323500
+    engagement: 809
+    commentsToLikes: 0.011522
+    id: ck9rnrhkx8y290j783v6lrdki
+    verified: false
+    hashtags: "#bigbrotherbrasil, #parati, #fyp, #fy"
 ---

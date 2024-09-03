@@ -1,24 +1,36 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Medellín In 2023
+title: Top 10 Fashion Instagram Influencers In Medellín In 2024
 description: >-
-  Find top fashion Instagram influencers in Medellín in 2023. Most popular hashtags: #colombia #fashion #medellin #photography.
+  Find top fashion Instagram influencers in Medellín in 2024. Most popular hashtags: #colombia #fashion #medellin #photography.
 platform: Instagram
-hits: 40
-text_top: Identify the top-rated Instagram profiles on inBeat.
-text_bottom: Our platform holds 40 Instagram influencers like this in Medellín, Colombia for you to work with.
+hits: 41
+text_top: Discover the top-rated Instagram profiles on inBeat.
+text_bottom: Our database has 41 Instagram influencers like this in Medellín, Colombia for you to contact.
 profiles:
-  - username: "isabelvesga"
+  - username: "thepennyrobin"
     fullname: >-
-      Isa • Designer | Styling
+      PENELOPE ROBIN | Official
     bio: >-
-      Colombian babe 🌈 Lifestyle | Travel | Outfits ⚡️ Founder @itsmariavesga @elementumdesign Links 👇🏽✨
+      Singer-Songwriter | Model🖤 Mgmt & Contrataciones: patricia@wystermedia.com TikTok: @thepennyrobin 🎶 Te invito a ver el video de Dios Se Apiade ❤️
     location: "Colombia"
-    followers: 9917
-    engagement: 453
-    commentsToLikes: 0.042405
-    id: ck8tcsh2n0i9l0j78rd38d8tm
+    followers: 254160
+    engagement: 26
+    commentsToLikes: 0.034619
+    id: ck13c1ufny7mf0i19456n1ia1
     verified: false
-    hashtags: "#blondebalayage, #sheingals, #travel, #makeuplooks"
+    hashtags: "#peneloperobin, #offwhitechemistry, #newmusic, #commentswelcome"
+  - username: "camineyvamonos"
+    fullname: >-
+      Jeniffer 👱🏼‍♀️ | recetas y recomendaciones
+    bio: >-
+      🟥Hago recetas y recomendaciones que me gustan💕 🟧Medellín 🟨Revisa mis HISTORIAS DESTACADAS 👇🏻
+    location: "Colombia"
+    followers: 263263
+    engagement: 278
+    commentsToLikes: 0.110259
+    id: ck6u6szdmhjkh0j719jkstyce
+    verified: false
+    hashtags: "#airfryer, #foodblog, #foodlover, #recetassaludables"
   - username: "claudiaariasoficial"
     fullname: >-
       Claudia Arias
@@ -31,18 +43,6 @@ profiles:
     id: ck9wey9bymeeq0j78xcue3ftv
     verified: false
     hashtags: "#productora, #chile, #love, #photo"
-  - username: "vane_eslava"
-    fullname: >-
-      Vane Eslava
-    bio: >-
-      #model from🇨🇴 #artista •Amor,tolerancia y respeto por los animales🐾 🍭🎈 Publicidad,contratación al DM📩
-    location: "Colombia"
-    followers: 43834
-    engagement: 236
-    commentsToLikes: 0.026712
-    id: ckf5su7thg7ru0j23e5gwo5dq
-    verified: false
-    hashtags: "#model, #portrait, #love, #instagram"
   - username: "giannimichielin"
     fullname: >-
       Giannina Michielin Roa
@@ -91,18 +91,6 @@ profiles:
     id: ck0w71qr2bbvc0i19gyj7q3os
     verified: false
     hashtags: "#sexy, #portraits, #colombia, #portrait"
-  - username: "tatianaariasnaranjo"
-    fullname: >-
-      Tatiana Arias Naranjo
-    bio: >-
-      🤍YouTube, tiktok :Tatianaariasnaranjo 🤍 fitness🏋️‍♀️ y estilo de vida🛫 📍Medellín,Colombia Contacto publicidad: 💌contactotatianaarias@gmail.com
-    location: "Colombia"
-    followers: 225470
-    engagement: 255
-    commentsToLikes: 0.028319
-    id: ckapbnkd80l5z0i78x8y2gh2j
-    verified: false
-    hashtags: "#commingsoon, #desiertodelatatacoa, #colombia, #amigasparasiempre"
   - username: "photography_jed"
     fullname: >-
       Juan Esteban Echeverri
@@ -127,4 +115,16 @@ profiles:
     id: ckaouqr3u1epv0i789ux5731w
     verified: false
     hashtags: "#model, #hechoenturquia, #productodeldiahet, #hechoamano"
+  - username: "sstyledco"
+    fullname: >-
+      Santiago || Dancer
+    bio: >-
+      Vamos aprender a bailar con toda #Dandolotodo 🇨🇴🇯🇲 📍 Medellín, Colombia
+    location: "Colombia"
+    followers: 11196
+    engagement: 357
+    commentsToLikes: 0.077510
+    id: ck0w2mmesp4zh0i19bxee8skm
+    verified: false
+    hashtags: "#lifestyle, #dance, #dancehall, #danceclass"
 ---

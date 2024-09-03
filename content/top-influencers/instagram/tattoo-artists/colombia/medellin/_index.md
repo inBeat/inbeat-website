@@ -1,11 +1,11 @@
 ---
-title: Top 10 Tattoo-Artists Instagram Influencers In Medellín In 2023
+title: Top 10 Tattoo-Artists Instagram Influencers In Medellín In 2024
 description: >-
-  Find top tattoo-artists Instagram influencers in Medellín in 2023. Most popular hashtags: #tattoo #medellin #liontattoo #tattoos.
+  Find top tattoo-artists Instagram influencers in Medellín in 2024. Most popular hashtags: #tattoo #tattoos #medellin #tattooartist.
 platform: Instagram
 hits: 15
-text_top: Discover the best Instagram influencers on inBeat.
-text_bottom: Our search engine aggregates 15 Instagram influencers like this in Medellín, Colombia for you to collaborate.
+text_top: Analyze the best Instagram accounts on inBeat.
+text_bottom: Our search engine has 15 Instagram influencers like this in Medellín, Colombia for you to contact.
 profiles:
   - username: "cesarcardenas93"
     fullname: >-
@@ -19,18 +19,6 @@ profiles:
     id: ck5q2xarqi8ej0i11mt65w05w
     verified: false
     hashtags: "#tattoo, #sabaneta, #home, #inkedplus"
-  - username: "hernanyepes_art"
-    fullname: >-
-      ⭕Hernan Yepes
-    bio: >-
-      Tattoo artist #blackandgrey Medellín colombia 🇨🇴 Cotizaciones solo por whatsapp +573234135952
-    location: "Colombia"
-    followers: 99140
-    engagement: 429
-    commentsToLikes: 0.028309
-    id: ck5ho6cflp0o90i11ihe5z39i
-    verified: false
-    hashtags: "#blancoynegro, #tatuajes, #tattoo, #colombiatattoo"
   - username: "juanpajo"
     fullname: >-
       pajo
@@ -115,16 +103,28 @@ profiles:
     id: ck5ho6bnjp0n00i11h5l7r69c
     verified: false
     hashtags: "#soyrealismo, #medellin, #colombiaink, #tattoorealismo"
-  - username: "carloxangaritaart"
+  - username: "naviatattoo"
     fullname: >-
-      Carlox Angarita Tattoo
+      Tulio Navia
     bio: >-
-      appointment citas @carloxangaritagallery 📬 carloxangarita@gmail.com Carrera 14 a # 83-11 Bogota colombia 🇨🇴
+      👺 @altoescrachotattoo 📍 Buenos Aires - Argentina 🇦🇷 • Agenda Abierta • 💥DARKBRUSH & WILDSTYLETATTOO💥
     location: "Colombia"
-    followers: 272777
-    engagement: 129
-    commentsToLikes: 0.061982
-    id: ck5bywshtq06p0i11lxzz0b2z
+    followers: 28348
+    engagement: 278
+    commentsToLikes: 0.023397
+    id: ck139b723kfqj0i19d8kh671r
     verified: false
-    hashtags: "#carloxangaritarealismset, #radiantcolorsink, #rockybalboa, #carloxangarita"
+    hashtags: "#tattooed, #tulionavia, #wildstyle, #free"
+  - username: "loboartt"
+    fullname: >-
+      Stives Contreras
+    bio: >-
+      Arte y escultura @artbylobo__ Micro & fine line @finelinebyloboartt Cuenta personal @soyloboart Mi tienda @lobotattoostudio
+    location: "Colombia"
+    followers: 124099
+    engagement: 42
+    commentsToLikes: 0.093558
+    id: ck5caah71d18g0i11lbq1tlx3
+    verified: false
+    hashtags: "#besttattoos, #lifestyletattoo, #besttattooartist, #realistic"
 ---

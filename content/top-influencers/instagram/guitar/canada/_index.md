@@ -1,12 +1,24 @@
 ---
-title: Top 10 Guitar Instagram Influencers In Canada In 2023
+title: Top 10 Guitar Instagram Influencers In Canada In 2024
 description: >-
-  Find top guitar Instagram influencers in Canada in 2023. Most popular hashtags: #guitar #rock #guitarsdaily #country.
+  Find top guitar Instagram influencers in Canada in 2024. Most popular hashtags: #guitar #joeylandreth #thebroslandreth.
 platform: Instagram
-hits: 37
-text_top: Identify the top-rated Instagram accounts on inBeat.
-text_bottom: inBeat aggregates 37 Instagram influencers like this in Canada for you to contact.
+hits: 55
+text_top: Discover the top-rated Instagram accounts on inBeat.
+text_bottom: Our platform holds 55 Instagram influencers like this in Canada for you to pitch.
 profiles:
+  - username: "babakaminiofficial"
+    fullname: >-
+      Babak Amini
+    bio: >-
+      Composer, Band leader, Guitar player, I have my Guitar line: Babak Amini Signature Guitar by master luthier Felipe Conde. Yamaha Artist.⚛️
+    location: "Canada"
+    followers: 369624
+    engagement: 423
+    commentsToLikes: 0.023511
+    id: ck0txailiihj90i19nqnlozxf
+    verified: true
+    hashtags: "#event, #persian, #downtownottawa, #jazzfm"
   - username: "iamcinde"
     fullname: >-
       𝖈 𝖎 𝖓 𝖉 ë
@@ -18,7 +30,7 @@ profiles:
     commentsToLikes: 0.122868
     id: ck8szv464ptqr0j78m0kgfjkw
     verified: false
-    hashtags: "#femaleproducer, #fyp, #coversong, #internationalwomensday"
+    hashtags: "#coversong, #fyp, #femaleproducer, #ltmof"
   - username: "izzynobre"
     fullname: >-
       izzynobre
@@ -90,7 +102,7 @@ profiles:
     commentsToLikes: 0.032205
     id: ck15rccqr77uz0i1922nmfdv0
     verified: false
-    hashtags: "#falconfriday, #live, #billyduffy, #marshallamps"
+    hashtags: "#thecult, #guitar, #billyduffyofficial, #whitefalcon"
   - username: "brentfitz"
     fullname: >-
       𝔹𝕣𝕖𝕟𝕥 𝔽𝕚𝕥𝕫
@@ -115,16 +127,4 @@ profiles:
     id: ck5q3ho6oksna0i11shcknkqq
     verified: false
     hashtags: "#guitar, #coryhenryandthefunkapostles, #thefunkapostles, #liveinlovetour2019"
-  - username: "thatsmehaileyb"
-    fullname: >-
-      Hailey Benedict
-    bio: >-
-      ✶ Singer/Songwriter 🎸 ✶ Sang original song for @keithurban at @rogersplace ! ✶ 2019 EMA Rising Star 💫 ✶ Over 200K on TikTok! ✶ New Spotify Playlist!👇
-    location: "Canada"
-    followers: 9561
-    engagement: 1175
-    commentsToLikes: 0.099254
-    id: ck5zyqpi0acrp0i146dghhswg
-    verified: false
-    hashtags: "#rock, #acdc, #countrymusic, #musician"
 ---

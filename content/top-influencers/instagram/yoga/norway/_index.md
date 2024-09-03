@@ -1,12 +1,36 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Norway In 2023
+title: Top 10 Yoga Instagram Influencers In Norway In 2024
 description: >-
-  Find top yoga Instagram influencers in Norway in 2023. Most popular hashtags: #yoga #love #norge #yoganorge.
+  Find top yoga Instagram influencers in Norway in 2024. Most popular hashtags: #yoga #handstand #yoganorge #love.
 platform: Instagram
-hits: 16
-text_top: Analyze the most popular Instagram accounts on inBeat.
-text_bottom: Our search engine holds 16 Instagram influencers like this in Norway for you to work with.
+hits: 21
+text_top: Identify the best Instagram influencers on inBeat.
+text_bottom: inBeat has 21 Instagram influencers like this in Norway for you to pitch.
 profiles:
+  - username: "alexandrapizzoni"
+    fullname: >-
+      Alexandra Pizzoni 🍕
+    bio: >-
+      PT • Yogalärare • Löpcoach • Vinälskare Driver studio @patrop.se Föreläser, bloggar och håller klasser i 🧘🏼‍♀️🏋🏼‍♀️🥊🏃🏼‍♀️ 📖 Self Care 2019
+    location: "Norway"
+    followers: 12146
+    engagement: 534
+    commentsToLikes: 0.067883
+    id: ck5pvh6fjhv330i11rmwmefir
+    verified: false
+    hashtags: "#dehydratedskin, #naturli, #tabata, #plyo"
+  - username: "vibekeklemetsen"
+    fullname: >-
+      VIBEKE KLEMETSEN
+    bio: >-
+      YOGAVIBES 🤍 Online yogaprogram. Lær yoga og finn indre ro. Meld deg på min email-liste for å få beskjed når programmet er klart. Klikk på linken her👇🏼
+    location: "Norway"
+    followers: 42003
+    engagement: 189
+    commentsToLikes: 0.090947
+    id: ck0vxex6eykap0i19j3qdkous
+    verified: true
+    hashtags: "#yoga, #yogalove, #californiaraisinsscandinavia, #californiaraisisns"
   - username: "yogakristine"
     fullname: >-
       Kristine Mikkelsen
@@ -55,6 +79,30 @@ profiles:
     id: ck5q5p6gmtwn10i11p93ag10i
     verified: false
     hashtags: "#movement, #yogaeverydamnday, #inversion, #hiyoga"
+  - username: "solfure"
+    fullname: >-
+      Ingeborg Sol Fure
+    bio: >-
+      ❤️ West Norway Travel Guide! 📸 Fulltime storyteller, photographer. 📱Content creator | ambassador @renaultnorge @alfasko @skogstadsport
+    location: "Norway"
+    followers: 35803
+    engagement: 311
+    commentsToLikes: 0.028979
+    id: ck13c377xyegy0i19amf3rz4m
+    verified: false
+    hashtags: "#fjordnorway, #besttravel, #visitsognefjord, #norway"
+  - username: "sondre_berg"
+    fullname: >-
+      Sondre Berg (Berg Movement)
+    bio: >-
+      🎥 Educational & Inspirational Content 🔥 Equipment & apparel @movement_made ⬇️ Coaching App & Programs 🌐 #Movement #Handstand #Calisthenics
+    location: "Norway"
+    followers: 613208
+    engagement: 212
+    commentsToLikes: 0.017322
+    id: ck0w25zl2mrv40i19q0cudmf3
+    verified: false
+    hashtags: "#crossfit, #hspu, #movementculture, #gymnastics"
   - username: "teamstronger"
     fullname: >-
       Kristine & Simen | Acroyoga
@@ -67,18 +115,6 @@ profiles:
     id: ck0tzxg1iruzp0i19okfvo4oc
     verified: false
     hashtags: "#partneryoga, #snowga, #acroyoga, #reklame"
-  - username: "sondre_berg"
-    fullname: >-
-      Sondre J.K  Berg
-    bio: >-
-      🌐 #MovementMade community 👋 Norwegian mover ⬇️ courses, classes and offers⬇️
-    location: "Norway"
-    followers: 109701
-    engagement: 600
-    commentsToLikes: 0.020471
-    id: ck0w25zl2mrv40i19q0cudmf3
-    verified: false
-    hashtags: "#gymnastics, #trening, #hspu, #circus"
   - username: "odinmkalvo"
     fullname: >-
       Odin Kalvø
@@ -91,40 +127,4 @@ profiles:
     id: ck55q98pbcdqw0i1160x4w9gl
     verified: false
     hashtags: "#calisthenics, #yoga, #hustle, #core"
-  - username: "_giadamassara_"
-    fullname: >-
-      Giada Massara
-    bio: >-
-      My work: Casting Director #mediaset 📺🎥🎬 @forummediaset My sport: Weightlifting/Crossfit ➡️per info e collab.➡️DM/📩giadina.massara@icloud.com
-    location: "Norway"
-    followers: 45472
-    engagement: 997
-    commentsToLikes: 0.071150
-    id: ck5hr9419uhac0i116ngq4l7x
-    verified: false
-    hashtags: "#studimediaset, #tacco12, #perledisaggezza, #mylife"
-  - username: "jeababe"
-    fullname: >-
-      Jeanett H Johnsen
-    bio: >-
-      🤍 @fredrikharaldseen 🇳🇴 👻 Jeanetthjohnsen
-    location: "Norway"
-    followers: 28249
-    engagement: 272
-    commentsToLikes: 0.035306
-    id: ckaozwi45npud0i78ucb0dedn
-    verified: false
-    hashtags: "#icaniwill, #instagood, #smile, #norwegiangirl"
-  - username: "anneinparadise"
-    fullname: >-
-      Anne in paradise🌴
-    bio: >-
-      ♡ A Norwegian sharing her favorite spots ☾ Plant based, nature & animal lover ☼Bruk «anneinparadise-20» for -20% på alle produkter fra Famme:
-    location: "Norway"
-    followers: 3265
-    engagement: 820
-    commentsToLikes: 0.049638
-    id: ck9h9ngdu96qn0j78vultgvm1
-    verified: false
-    hashtags: "#norsknatur, #beachbum, #sponsored, #paradise"
 ---

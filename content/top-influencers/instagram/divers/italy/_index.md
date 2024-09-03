@@ -1,12 +1,84 @@
 ---
-title: Top 10 Divers Instagram Influencers In Italy In 2023
+title: Top 10 Divers Instagram Influencers In Italy In 2024
 description: >-
-  Find top divers Instagram influencers in Italy in 2023. Most popular hashtags: #diving #sunday #sport.
+  Find top divers Instagram influencers in Italy in 2024. Most popular hashtags: #italy #diving #adv #lagodigarda.
 platform: Instagram
-hits: 391
-text_top: Analyze the top-rated Instagram influencers on inBeat.
-text_bottom: Our platform has 391 Instagram influencers like this in Italy for you to collaborate.
+hits: 437
+text_top: Identify the best Instagram influencers on inBeat.
+text_bottom: Our search engine holds 437 Instagram influencers like this in Italy for you to pitch.
 profiles:
+  - username: "chiarapellacanii"
+    fullname: >-
+      Chiara Pellacani
+    bio: >-
+      📍Miami Italian national diver🇮🇹 2020🇯🇵Olympian @canesswimdive 🙌🏻 European medalist 7x🥇 5x🥈 4x🥉 World medalist 🥈🥈🥉🥉🥉 Dao athlete @dao_sport
+    location: "Italy"
+    followers: 39496
+    engagement: 986
+    commentsToLikes: 0.019894
+    id: ck55lpqsi24fk0i11k68tfz45
+    verified: false
+    hashtags: "#water, #competition, #italy, #diving"
+  - username: "trulynomadly"
+    fullname: >-
+      Sharanya Iyer 🇮🇳| Travel
+    bio: >-
+      🌎 Unraveling the world beyond the usual 🤿 Master Scuba Diver | Freediver | Fear Fighter 📸 @gopro & @paditv Ambassador 🏆 Forbes Top 100 ‘22 & ‘23 📍BOM
+    location: "Italy"
+    followers: 508219
+    engagement: 230
+    commentsToLikes: 0.024786
+    id: ck14jvwk9mgf70i194x2pus3k
+    verified: false
+    hashtags: "#iloveswitzerland, #andamans, #incredibleindia, #ineedswitzerland"
+  - username: "paola_torrentereal"
+    fullname: >-
+      Paola Torrente
+    bio: >-
+      @lesbeauxcoins ✨ Nella diversità c’è la bellezza più pura ✨ paola.torrente@artisti.show-reel.it 📩 Milan 📍🇮🇹
+    location: "Italy"
+    followers: 797405
+    engagement: 195
+    commentsToLikes: 0.005371
+    id: ck14jv7ngmcrw0i19qqkn2cus
+    verified: true
+    hashtags: "#travelling, #fw23, #skii, #italy"
+  - username: "cagnottotania"
+    fullname: >-
+      Tania Cagnotto
+    bio: >-
+      Mom💕•5x Olympic Diver •World Champion 2015 •2x medalist in Rio2016 •Public Speaker #travellove ✈️🌍contact: info@daospa.eu
+    location: "Italy"
+    followers: 392493
+    engagement: 154
+    commentsToLikes: 0.009387
+    id: ck0w45d4hww980i19r93jmzpg
+    verified: true
+    hashtags: "#benesserebotanico, #tuffi, #azzurri, #ad"
+  - username: "frankgallucci"
+    fullname: >-
+      Frank
+    bio: >-
+      • Menswear & Lifestyle • Style & Digital Advisor ___ 🎙️ @h3roespodcast Un ospite diverso a settimana per ispirare la tua storia. —— @3sixty_mgmt
+    location: "Italy"
+    followers: 155555
+    engagement: 83
+    commentsToLikes: 0.010431
+    id: ck0ttx8yw4poc0i19r8osqh5x
+    verified: false
+    hashtags: "#frankgallucci, #proudtobeitalian, #masseriamarzalossa, #h3roespodcast"
+  - username: "lioniellosalvatore"
+    fullname: >-
+      Salvatore Lioniello
+    bio: >-
+      Founder @dalioniello Succivo @dalioniellomilano #diversamentenapoletana Info e collab⬇️ 📩ilpizzaioloconilcappello@gmail.com Aiutiamo Thomas🙏🏻👇🏻
+    location: "Italy"
+    followers: 173493
+    engagement: 42
+    commentsToLikes: 0.033629
+    id: ck6tp9guoikak0j7124ef3rlu
+    verified: true
+    hashtags: "#pizzeria, #salvatorelioniello, #diversamentenapoletana, #pizza"
   - username: "maryamcheriff"
     fullname: >-
       Maryam 🦋
@@ -43,30 +115,6 @@ profiles:
     id: ck13aa85ppe630i19qo2ii29y
     verified: false
     hashtags: "#maltalife, #liketime, #maltagram, #smmitalia"
-  - username: "paola_torrentereal"
-    fullname: >-
-      Paola Torrente
-    bio: >-
-      Nella diversità c’è la bellezza più pura ✨ Founder @spillin_bypaolatorrente 🫖 Co-founder @fermento.natural.house 🌱 info@paolatorrente.it 📩
-    location: "Italy"
-    followers: 474387
-    engagement: 345
-    commentsToLikes: 0.007246
-    id: ck14jv7ngmcrw0i19qqkn2cus
-    verified: true
-    hashtags: "#fiorellarubino, #amichedifiorella, #adv, #estateitaliana"
-  - username: "chiarapellacanii"
-    fullname: >-
-      Chiara
-    bio: >-
-      Italian national diver🇮🇹 European junior gold medalist2017 2xEuropean gold medalist🥇 Dreaming #Tokyo2020 Sponsored by @adidasita
-    location: "Italy"
-    followers: 7511
-    engagement: 963
-    commentsToLikes: 0.019951
-    id: ck55lpqsi24fk0i11k68tfz45
-    verified: false
-    hashtags: "#adidas, #diving, #sunday, #home"
   - username: "stefanopech"
     fullname: >-
       Stefano Pedretti
@@ -79,52 +127,4 @@ profiles:
     id: ck0u0gxiwtmqv0i19p5qxmqp3
     verified: false
     hashtags: "#neve, #livigno, #valtellina, #mottolino"
-  - username: "emidiving"
-    fullname: >-
-      Noemi Batki
-    bio: >-
-      3 x Olympic diver, qualified for Tokyo2020 9 x European Medallist Esercito/USTN #teamlgs facebook: Noemi Batki Fan Page
-    location: "Italy"
-    followers: 8603
-    engagement: 461
-    commentsToLikes: 0.033697
-    id: ck0vv4ayvnhez0i190yo2ufn5
-    verified: true
-    hashtags: "#platform, #tbt, #mondaymood, #mondaymotivation"
-  - username: "sarella_1981"
-    fullname: >-
-      Sara Nastro
-    bio: >-
-      Modella in diversi concorsi nazionali categoria #curvy Autrice di una delle 33 raccolte di antologie del libro #dilloacurvypride #curvymodels #formosa
-    location: "Italy"
-    followers: 6039
-    engagement: 679
-    commentsToLikes: 0.099629
-    id: ck9hcff8fl4m30j78u3ddze2u
-    verified: false
-    hashtags: "#fun, #swag, #instacurvy, #likelike"
-  - username: "pesceincucina"
-    fullname: >-
-      La cucina di pesce online
-    bio: >-
-      Crediamo che ogni piatto racconti una storia e che i diversi ingredienti abbiano un enorme impatto sul modo in cui la storia si evolve Fidati di noi⬇️
-    location: "Italy"
-    followers: 15248
-    engagement: 589
-    commentsToLikes: 0.169988
-    id: ck5hpck3hr4r80i11hrpl915t
-    verified: false
-    hashtags: "#pesce, #ricetta, #ildoof, #cucinieri"
-  - username: "bevoperricordare_"
-    fullname: >-
-      Bevo per ricordare
-    bio: >-
-      🔥Stesso founder, stessa pagina, ma genere diverso🔥ex mamme_chescrivono_messaggi @piaxjourney
-    location: "Italy"
-    followers: 44725
-    engagement: 1248
-    commentsToLikes: 0.003187
-    id: ck15s5r4jbczk0i1918tdr0nu
-    verified: false
-    hashtags: "#mamme, #discoteca, #coprifuoco, #dj"
 ---

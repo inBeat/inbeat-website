@@ -1,11 +1,11 @@
 ---
-title: Top 10 Health TikTok Influencers In London In 2023
+title: Top 10 Health TikTok Influencers In London In 2024
 description: >-
-  Find top health TikTok influencers in London in 2023. Most popular hashtags: #fyp #london #health #foryou.
+  Find top health TikTok influencers in London in 2024. Most popular hashtags: #fyp #london #health #foryou.
 platform: TikTok
-hits: 21
-text_top: Discover the top-rated TikTok accounts on inBeat.
-text_bottom: Our search engine aggregates 21 TikTok influencers like this in London, United Kingdom for you to connect with.
+hits: 22
+text_top: Analyze the best TikTok profiles on inBeat.
+text_bottom: inBeat aggregates 22 TikTok influencers like this in London, United Kingdom for you to work with.
 profiles:
   - username: "embodyhealthldn"
     fullname: >-

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Food TikTok Influencers In Austin In 2023
+title: Top 10 Food TikTok Influencers In Austin In 2024
 description: >-
-  Find top food TikTok influencers in Austin in 2023. Most popular hashtags: #fyp #texas #austin #foryou.
+  Find top food TikTok influencers in Austin in 2024. Most popular hashtags: #fyp #texas #austin #food.
 platform: TikTok
-hits: 123
-text_top: See the most popular TikTok profiles on inBeat.
-text_bottom: Our search engine has 123 TikTok influencers like this in Austin, United States for you to connect with.
+hits: 122
+text_top: See the top-rated TikTok profiles on inBeat.
+text_bottom: Our search engine has 122 TikTok influencers like this in Austin, United States for you to contact.
 profiles:
   - username: "fiftyshadesofgruyere"
     fullname: >-
@@ -19,6 +19,18 @@ profiles:
     id: ckd60xe081bmc0j23i9nv8r1u
     verified: false
     hashtags: "#wrappinggifts, #fyp, #charcuterie, #cooking"
+  - username: "francescabourdier"
+    fullname: >-
+      Francesca Bourdier
+    bio: >-
+      CEO of BOURDIER (bore•gee•ay) Follow IG: bourdierfashion for updates! 💞
+    location: "United States"
+    followers: 3617
+    engagement: 588
+    commentsToLikes: 0.035982
+    id: ck9jw79ovv8fq0j7899vzrqc2
+    verified: false
+    hashtags: "#cooking, #homemade, #foryourpage, #howto"
   - username: "thatoneguyginger"
     fullname: >-
       That One Guy Ginger
@@ -42,7 +54,7 @@ profiles:
     commentsToLikes: 0.022060
     id: ckb13n3gyrnij0j234wj5d1bz
     verified: false
-    hashtags: "#lovefood, #texas, #houstoncheck, #atx"
+    hashtags: "#austineats, #sushi, #austintexas, #austintx"
   - username: "juan_and_nicks_life"
     fullname: >-
       juan and nick
@@ -79,18 +91,6 @@ profiles:
     id: ckd6iv544bs5j0j230dabvdj5
     verified: false
     hashtags: "#texas, #austin, #couple, #fyp"
-  - username: "francescabourdier"
-    fullname: >-
-      Francesca Bourdier
-    bio: >-
-      CEO of BOURDIER (bore•gee•ay) Follow IG: bourdierfashion for updates! 💞
-    location: "United States"
-    followers: 3617
-    engagement: 588
-    commentsToLikes: 0.035982
-    id: ck9jw79ovv8fq0j7899vzrqc2
-    verified: false
-    hashtags: "#artistsoftiktok, #xyzbca, #diy, #viral"
   - username: "staarlite"
     fullname: >-
       Staarlite
@@ -110,21 +110,21 @@ profiles:
       Austin Tx based Pitmaster building smokers and cooking meats
     location: "United States"
     followers: 34100
-    engagement: 1152
-    commentsToLikes: 0.010694
+    engagement: 1132
+    commentsToLikes: 0.010833
     id: ckce0ooazhvft0j234qjnwtaw
     verified: false
-    hashtags: "#fyp, #foryourpage, #barbecue, #bbq"
-  - username: "sebastian_arellano_"
+    hashtags: "#foryourpage, #fyp, #bbq, #smoke"
+  - username: "thechelseajohnson"
     fullname: >-
-      Sebas✨
+      thechelseajohnson
     bio: >-
-      El Paso TX 18🥂
+      R E V I E W S • H U M O R • D E S I G N
     location: "United States"
-    followers: 42400
-    engagement: 1661
-    commentsToLikes: 0.111455
-    id: ck963njatvmmo0j78oje2oajb
+    followers: 10900
+    engagement: 702
+    commentsToLikes: 0.035412
+    id: ckb9ky81nd3li0j23t2z30wz8
     verified: false
-    hashtags: "#elpaso, #foryoupage, #frenchie, #texas"
+    hashtags: "#dog, #fail, #duet, #naturallight"
 ---

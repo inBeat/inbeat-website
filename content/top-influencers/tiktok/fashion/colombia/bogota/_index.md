@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fashion TikTok Influencers In Bogotá In 2023
+title: Top 10 Fashion TikTok Influencers In Bogotá In 2024
 description: >-
-  Find top fashion TikTok influencers in Bogotá in 2023. Most popular hashtags: #colombia #parati #foryou #fashion.
+  Find top fashion TikTok influencers in Bogotá in 2024. Most popular hashtags: #parati #colombia #foryou #fashion.
 platform: TikTok
 hits: 5
-text_top: Identify the most popular TikTok profiles on inBeat.
-text_bottom: Our search engine has 5 TikTok influencers like this in Bogotá, Colombia for you to contact.
+text_top: Discover the top-rated TikTok influencers on inBeat.
+text_bottom: Our search engine holds 5 TikTok influencers like this in Bogotá, Colombia for you to connect with.
 profiles:
   - username: "dreamerdave__"
     fullname: >-

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Fashion Instagram Influencers In South Africa In 2023
+title: Top 10 Fashion Instagram Influencers In South Africa In 2024
 description: >-
-  Find top fashion Instagram influencers in South Africa in 2023. Most popular hashtags: #fashion #mrpmystyle #reels.
+  Find top fashion Instagram influencers in South Africa in 2024. Most popular hashtags: #ad #worthit #lorealparissa.
 platform: Instagram
-hits: 170
-text_top: Analyze the most popular Instagram influencers on inBeat.
-text_bottom: Our database holds 170 Instagram influencers like this in South Africa for you to contact.
+hits: 202
+text_top: See the best Instagram influencers on inBeat.
+text_bottom: Our search engine has 202 Instagram influencers like this in South Africa for you to contact.
 profiles:
-  - username: "katlego_tefu"
+  - username: "dimmaumeh"
     fullname: >-
-      Katlego Tefu
+      DIMMA UMEH
     bio: >-
-      Fashion, Beauty, Hair & Everything Else! Collabos : kt@mansamusabrands.co.za Styling : ktefu@yahoo.com New videos weekly 👇🏽
+      Beauty | Fashion | Lifestyle dimmaumeh@bossmgmtgrp.com (Global) info@dimmaumeh.com (Nigeria)
     location: "South Africa"
-    followers: 16874
-    engagement: 394
-    commentsToLikes: 0.033650
-    id: ck6u4o0ti4tlh0j716qfc7snm
-    verified: false
-    hashtags: "#thespot, #styleinspiration, #brunchoutfit, #rotd"
-  - username: "fashionbreed"
-    fullname: >-
-      Aqeelah Harron Ally
-    bio: >-
-      Co-Founder of @WorthyCo_ | Ziya’s Mom For brand bookings, email info@fashionbreed.co.za
-    location: "South Africa"
-    followers: 75080
-    engagement: 288
-    commentsToLikes: 0.029926
-    id: ck6u4nqzg4s110j713ik5e211
+    followers: 220355
+    engagement: 778
+    commentsToLikes: 0.017173
+    id: ck15pef3mxh7o0i19us74nj99
     verified: true
-    hashtags: "#sunglasshutsa, #bealpha, #fbstyletip, #multitaskerconcealer"
-  - username: "keneilwe_mothoa"
+    hashtags: "#streamingforafrica, #esteelauderdreamdusk, #perfumecollection, #ashowforeveryshowmaxer"
+  - username: "nikitajoshua"
     fullname: >-
-      Keneilwe Nei
+      NIKITA JOSHUA
     bio: >-
-      Fashion | interiors | textiles 📍🇿🇦
+      Momma | digital content creator | model | pro makeup artist beauty | fashion | lifestyle owner @prettybishbeauty co-founder @shopcalnik Cape Town
     location: "South Africa"
-    followers: 35324
-    engagement: 109
-    commentsToLikes: 0.016327
-    id: ck14ln0wbvhes0i19dfhc7b05
+    followers: 34639
+    engagement: 610
+    commentsToLikes: 0.025989
+    id: ck5q1k1wmbddf0i113a465475
     verified: false
-    hashtags: "#woolworthschristmas, #woolworthsfashion, #ad, #tedbaker"
-  - username: "diariesofanislandergirl"
+    hashtags: "#gifted, #parentstobe, #colorstay, #vanityline"
+  - username: "chane_grobler18"
     fullname: >-
-      ZAINAH | LIFESTYLE BLOGGER
+      Chané Grobler
     bio: >-
-      📍 Mauritian 🇲🇺 ♡ owner @_mocouture_ ♡ bookworm @diariesofabooknerd ♡ beauty - skincare - food - fashion ♡ Join my group ‘Lady Loves’ on Facebook!👇
+      Lifestyle, beauty, fashion🤍 Pretoria, ZA📍 PR & Business: info@starburstmusic.co.za @starburst_promotions @johanstroh 🩷 Jewelry: @gracethebrand.co.za 💛
     location: "South Africa"
-    followers: 10575
-    engagement: 612
-    commentsToLikes: 0.018917
-    id: ck5hqose9tghk0i11u4gxah0n
+    followers: 104675
+    engagement: 2091
+    commentsToLikes: 0.005903
+    id: ck5q1k6eabdxq0i1196otdgno
     verified: false
-    hashtags: "#mauritianblogger, #maurice, #mauritius, #lifestyleblogger"
-  - username: "txshriq"
+    hashtags: "#centrum7daychallenge, #vodacomworldcollectibles, #sponsored, #ad"
+  - username: "sizandlovu_"
     fullname: >-
-      tashriq 🧿
+      S I Z A   N D L O V U
     bio: >-
-      he/him fashion student 18 | durban, south africa dm/email for promos/collabs
+      📧•SIZAMKIZE@GMAIL.COM 🙏🏾•GOD 💍•MRS @mzwandilendlovu_ 💋•TRAVEL| FASHION| SELFCARE| BEAUTY 🎓•MARKETING 💉•PHARMACEUTICAL INDUSTRY 👫🏾•US @mzwandileandsiza
     location: "South Africa"
-    followers: 7242
-    engagement: 3287
-    commentsToLikes: 0.201601
-    id: ckap8rm6spkdg0i78v6ljb65s
+    followers: 68654
+    engagement: 645
+    commentsToLikes: 0.023519
+    id: ckz60hdgo8i090j23ea1bc26f
     verified: false
-    hashtags: "#lockdown, #18, #diwali2020, #explore"
+    hashtags: "#gentlegiants, #classof2023, #ownyournaturalrichness, #youtubeblackvoices"
+  - username: "buli_makhubo"
+    fullname: >-
+      Buli Makhubo
+    bio: >-
+      Beauty, Lifestyle, Health, Fashion |YouTuber | Speaker Zech 4:6 Intentional about Living A Life Well Built🤍 Founder: @refiine_
+    location: "South Africa"
+    followers: 72446
+    engagement: 771
+    commentsToLikes: 0.021014
+    id: cloxohr0e0anb0j08m2a0rh1g
+    verified: false
+    hashtags: "#vichysa, #liftactivvitaminc, #cottononkids, #lorealparissa"
   - username: "ismaeelbagus"
     fullname: >-
       Ismaeel Bagus
     bio: >-
-      Fashion | Photography | Lifestyle 📍Cape Town, South Africa 📨 ismaeelbagus@gmail.com 👫🏽 @pastthebag Shop the look & more ⤵️
+      Fashion | Photography | Lifestyle 📍Cape Town, South Africa 📨 ismaeelbagus@gmail.com 📸 @flashmeishi Tiktok: ismaeel.bagus
     location: "South Africa"
-    followers: 4451
-    engagement: 1441
-    commentsToLikes: 0.098271
+    followers: 4814
+    engagement: 822
+    commentsToLikes: 0.077386
     id: ck136233x4dks0i19e0kr7qsm
     verified: false
-    hashtags: "#hmxme, #hm, #letspush, #mrpmystyle"
-  - username: "jadezammitstevens"
+    hashtags: "#hindash, #mycottonon, #nofearxhm, #ad"
+  - username: "hlubihadebe_"
     fullname: >-
-      As told by Jade
+      Nomahlubi Hadebe
     bio: >-
-      𝐹𝑎𝑠ℎ𝑖𝑜𝑛 & 𝐵𝑒𝑎𝑢𝑡𝑦 🥰 Maltese 🇲🇹 Handmade Hair Accessories : @jadewithlove_x 💕 Award Winning Fashion Blogger 2017 💖 AI Graduate 🎓 Full Stack Developer 🤓
+      •Sports, Fashion & Lifestyle. •Jeremiah 29:11 📍Cape Town, South Africa
     location: "South Africa"
-    followers: 25728
-    engagement: 570
-    commentsToLikes: 0.008004
-    id: ck6tm66s8790d0j71tnq2jwhr
+    followers: 23572
+    engagement: 415
+    commentsToLikes: 0.034921
+    id: ck8svw51zcxa10j782xsxohbe
     verified: false
-    hashtags: "#malta, #style, #blonde, #summer"
-  - username: "majestic_mey"
+    hashtags: "#myeplafricaxi, #africaxi, #tasteofsunshine, #liptoniceteaxdaisies"
+  - username: "zeexonline"
     fullname: >-
-      Razaan Meyer-Khan 🖤
+      ZeeXOnline🦋
     bio: >-
-      Fashion, Beauty & Lifestyle Content Creator Promos & PR: info@majesticza.co.za | NO DMs ↘️ shop @majesticza_
+      Beauty | Lifestyle | Fashion Johannesburg, South Africa 💌 info.zeexonline@gmail.com Watch my latest YT video! 👇🏾
     location: "South Africa"
-    followers: 232492
-    engagement: 893
-    commentsToLikes: 0.149581
-    id: ck6u4o8l84uvj0j71pe28pxwj
+    followers: 104510
+    engagement: 910
+    commentsToLikes: 0.013490
+    id: ck5zr2ru4vsdy0i146kk4l1g8
     verified: false
-    hashtags: "#beautyathomewithu, #forgirlsbygirls, #youdosummer"
-  - username: "frema.mensah"
+    hashtags: "#makeup, #makeupforwoc, #yslbeauty, #blackopium"
+  - username: "txshriq"
     fullname: >-
-      🇬🇭Frema Mensah🇬🇭
+      tashriq 🧿 fashion | styling | lifestyle
     bio: >-
-      Model | Fashion | Beauty | lifestyle 📧 fremamensah95@gmail.com @topcomodels cpt 🇿🇦 @fabulousdotcom_models Jhb 🇿🇦 Cape Town 📍
+      👨🏽‍🎓 fashion student @tashriq.sa 📩 txshriq@gmail.com 🌍 durban, south africa SHOP MY CLOSET ⬇️
     location: "South Africa"
-    followers: 7981
-    engagement: 721
-    commentsToLikes: 0.085715
-    id: ck55mwkjc4zg40i11b4gc4y7d
+    followers: 9772
+    engagement: 2390
+    commentsToLikes: 0.182737
+    id: ckap8rm6spkdg0i78v6ljb65s
     verified: false
-    hashtags: "#bluesky, #blackgirl, #melaninqueen, #afrohairstyles"
-  - username: "michelle_vanessaa_"
+    hashtags: "#thefixdrip, #tfgrewards, #swipeandsave, #superbme"
+  - username: "carternajarr"
     fullname: >-
-      Michelle Vanessa
+      Carter Najar 💎
     bio: >-
-      Miami🏝TV Host🎤Food & Travel Critic🍴✈️ Nicaraguan 🇳🇮 German 🇩🇪 African American 🇺🇸Meme Addict 😆 Dog Lover 🐾 Old Fashion with a Modern Twist
+      Vocalist 🎙 📍South Africa 🇿🇦 @fashionnova TIKTOK: therealdopest 🖤
     location: "South Africa"
-    followers: 30778
-    engagement: 465
-    commentsToLikes: 0.120945
-    id: ck6tqe91vqy2q0j71tv5jm53n
+    followers: 102043
+    engagement: 574
+    commentsToLikes: 0.010746
+    id: ck14j628vitaz0i19rig3amea
     verified: false
-    hashtags: "#miami, #heels, #travel, #wanderlust"
+    hashtags: "#lancome, #jointheidoles, #amapianoisalifestyle, #amapiano"
 ---

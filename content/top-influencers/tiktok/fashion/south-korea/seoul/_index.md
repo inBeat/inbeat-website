@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fashion TikTok Influencers In Seoul In 2023
+title: Top 10 Fashion TikTok Influencers In Seoul In 2024
 description: >-
-  Find top fashion TikTok influencers in Seoul in 2023. Most popular hashtags: #fashion #fyp #korea #seoul.
+  Find top fashion TikTok influencers in Seoul in 2024. Most popular hashtags: #fashion #fyp #korea #seoul.
 platform: TikTok
 hits: 6
-text_top: See the most popular TikTok profiles on inBeat.
-text_bottom: Our search engine has 6 TikTok influencers like this in Seoul, South Korea for you to work with.
+text_top: Analyze the most popular TikTok accounts on inBeat.
+text_bottom: Our platform has 6 TikTok influencers like this in Seoul, South Korea for you to pitch.
 profiles:
   - username: "miya0520"
     fullname: >-
@@ -78,7 +78,7 @@ profiles:
     commentsToLikes: 0.017845
     id: ckb9qgaxgm9680j23bazbl0u1
     verified: false
-    hashtags: "#seoul, #germany, #kpop, #seoulkorea"
+    hashtags: "#koreanfashion, #seoullife, #spring, #koreaseoul"
   - username: "kaqueen97"
     fullname: >-
       Ka Queen👑🇰🇭🇰🇷

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Cyclists Instagram Influencers In Brazil In 2023
+title: Top 10 Cyclists Instagram Influencers In Brazil In 2024
 description: >-
-  Find top cyclists Instagram influencers in Brazil in 2023. Most popular hashtags: #tbt #cycling #cyclinglife #mtblife.
+  Find top cyclists Instagram influencers in Brazil in 2024. Most popular hashtags: #tbt #cycling #cyclinglife #mtblife.
 platform: Instagram
-hits: 44
-text_top: Analyze the top-rated Instagram accounts on inBeat.
-text_bottom: Our database holds 44 Instagram influencers like this in Brazil for you to collaborate.
+hits: 45
+text_top: Analyze the most popular Instagram influencers on inBeat.
+text_bottom: Our search engine has 45 Instagram influencers like this in Brazil for you to contact.
 profiles:
   - username: "sueabreu"
     fullname: >-

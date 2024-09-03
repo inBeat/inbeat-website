@@ -1,11 +1,11 @@
 ---
-title: Top 10 Food TikTok Influencers In Turkey In 2023
+title: Top 10 Food TikTok Influencers In Turkey In 2024
 description: >-
-  Find top food TikTok influencers in Turkey in 2023. Most popular hashtags: #food #yemek #fyp #foodgod.
+  Find top food TikTok influencers in Turkey in 2024. Most popular hashtags: #food #yemek #fyp #foodgod.
 platform: TikTok
 hits: 53
-text_top: Analyze the top-rated TikTok influencers on inBeat.
-text_bottom: Our platform holds 53 TikTok influencers like this in Turkey for you to work with.
+text_top: Identify the most popular TikTok influencers on inBeat.
+text_bottom: Our database aggregates 53 TikTok influencers like this in Turkey for you to work with.
 profiles:
   - username: "bryan.minaj"
     fullname: >-

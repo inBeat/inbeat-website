@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fitness TikTok Influencers In Manchester In 2023
+title: Top 10 Fitness TikTok Influencers In Manchester In 2024
 description: >-
-  Find top fitness TikTok influencers in Manchester in 2023. Most popular hashtags: #fyp #fitness #foryou #viral.
+  Find top fitness TikTok influencers in Manchester in 2024. Most popular hashtags: #fyp #fitness #foryou #viral.
 platform: TikTok
 hits: 9
-text_top: Discover the top-rated TikTok accounts on inBeat.
-text_bottom: inBeat holds 9 TikTok influencers like this in Manchester, United Kingdom for you to contact.
+text_top: Identify the top-rated TikTok profiles on inBeat.
+text_bottom: Our database holds 9 TikTok influencers like this in Manchester, United Kingdom for you to pitch.
 profiles:
   - username: "badgirlaesthetics_"
     fullname: >-
@@ -114,7 +114,7 @@ profiles:
     commentsToLikes: 0.053152
     id: cka9m4v343vu60i78uaajwfd8
     verified: false
-    hashtags: "#penaltygame, #football, #goal, #ucl"
+    hashtags: "#bossupyourgame, #nxgn, #follow, #433"
   - username: "natewareing"
     fullname: >-
       Nate

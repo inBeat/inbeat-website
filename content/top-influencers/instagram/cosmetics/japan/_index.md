@@ -1,11 +1,11 @@
 ---
-title: Top 10 Cosmetics Instagram Influencers In Japan In 2023
+title: Top 10 Cosmetics Instagram Influencers In Japan In 2024
 description: >-
-  Find top cosmetics Instagram influencers in Japan in 2023. Most popular hashtags: #pr #fashion #mac.
+  Find top cosmetics Instagram influencers in Japan in 2024. Most popular hashtags: #pr #mac #celvoke.
 platform: Instagram
 hits: 148
-text_top: Analyze the best Instagram profiles on inBeat.
-text_bottom: Our database aggregates 148 Instagram influencers like this in Japan for you to connect with.
+text_top: See the top-rated Instagram profiles on inBeat.
+text_bottom: inBeat holds 148 Instagram influencers like this in Japan for you to connect with.
 profiles:
   - username: "mai_inoue"
     fullname: >-
@@ -31,18 +31,6 @@ profiles:
     id: ck14h82cf907a0i19pba9c0m9
     verified: true
     hashtags: "#lightvelvetair, #so, #brown, #newhair"
-  - username: "chemiiiii"
-    fullname: >-
-      大口智恵美
-    bio: >-
-      CHIEMI☺︎Japanese🇯🇵 @centence_official Producer 講談社VOCEST・model・trip・cosmetics・fashion お仕事のご依頼は📧にお願いします♡
-    location: "Japan"
-    followers: 172092
-    engagement: 140
-    commentsToLikes: 0.009643
-    id: ck6ttt5wrcghn0j71orqw1dto
-    verified: true
-    hashtags: "#centence, #instagood, #fashion, #pr"
   - username: "who3_"
     fullname: >-
       Who
@@ -127,4 +115,16 @@ profiles:
     id: ck55nehey61es0i11m6zqeb32
     verified: true
     hashtags: "#mac, #maccosmeticsjapan, #maccosmetics, #macglowplayblush"
+  - username: "ainer_ceo"
+    fullname: >-
+      Takuma Abe
+    bio: >-
+      🗼Ainer Inc. CEO +81 / 1992 📍work 🇯🇵🇰🇷🇹🇼🇨🇳🇸🇬🇲🇾🇭🇰 🌍国内外で複数の事業を展開 @randeboo_official @cherize_cosmetics #愛する彼女へ毎日ささやかなプレゼント 💐
+    location: "Japan"
+    followers: 29769
+    engagement: 152
+    commentsToLikes: 0.007282
+    id: ck6u2rrl6tjui0j71t99dowlq
+    verified: false
+    hashtags: "#sapporo, #everymorning, #day168, #randeboo"
 ---

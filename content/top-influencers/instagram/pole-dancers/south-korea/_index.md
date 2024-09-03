@@ -1,11 +1,11 @@
 ---
-title: Top 10 Pole Dancers Instagram Influencers In South Korea In 2023
+title: Top 10 Pole Dancers Instagram Influencers In South Korea In 2024
 description: >-
-  Find top pole dancers Instagram influencers in South Korea in 2023. Most popular hashtags: #poledance #poletrick #ootd #pole.
+  Find top pole dancers Instagram influencers in South Korea in 2024. Most popular hashtags: #poledance #poletrick #pole #ootd.
 platform: Instagram
-hits: 8
-text_top: Identify the best Instagram accounts on inBeat.
-text_bottom: Our platform has 8 Instagram influencers like this in South Korea for you to pitch.
+hits: 9
+text_top: See the best Instagram accounts on inBeat.
+text_bottom: Our platform has 9 Instagram influencers like this in South Korea for you to work with.
 profiles:
   - username: "jy._.swag"
     fullname: >-
@@ -91,6 +91,18 @@ profiles:
     id: ck6udjdv3lfy00j71zy5u3z5d
     verified: false
     hashtags: "#seoul, #handstand, #miss, #poletrick"
+  - username: "minakorea"
+    fullname: >-
+      Mina Shim
+    bio: >-
+      Mina(51) Kpop singer(Answer the Phone) 🎬유튜브도 팔로우해주세요😍👇🏻
+    location: "South Korea"
+    followers: 601225
+    engagement: 30
+    commentsToLikes: 0.057456
+    id: ck6toa18bcxoi0j71new7r6fa
+    verified: false
+    hashtags: "#aespa, #kpop, #dance, #selfie"
   - username: "bibisister_j"
     fullname: >-
       전지영 쇼호스트  | 비비언니

@@ -1,24 +1,24 @@
 ---
-title: Top 10 Lingerie Instagram Influencers In Switzerland In 2023
+title: Top 10 Lingerie Instagram Influencers In Switzerland In 2024
 description: >-
-  Find top lingerie Instagram influencers in Switzerland in 2023. Most popular hashtags: #lingerie #portrait #fashion #blackandwhite.
+  Find top lingerie Instagram influencers in Switzerland in 2024. Most popular hashtags: #lingerie #portrait #photography #switzerland.
 platform: Instagram
-hits: 10
-text_top: Discover the top-rated Instagram influencers on inBeat.
-text_bottom: inBeat holds 10 Instagram influencers like this in Switzerland for you to connect with.
+hits: 13
+text_top: Discover the most popular Instagram accounts on inBeat.
+text_bottom: Our database has 13 Instagram influencers like this in Switzerland for you to connect with.
 profiles:
   - username: "model_dg_"
     fullname: >-
-      FASHION | BEAUTY | PORTRAIT
+      Daniela Graf
     bio: >-
-      📸 @facesmodels_ ©️ @bali_brunchsuisse 📍 St. Gallen | Zürich | München 💻 daniela.graf.model@gmail.com
+      🌎 TRAVEL & PHOTOGRAPHY 📸 ♥️ @puravidamanuel 📍 Tansania 🇹🇿 🔜 South Africa 🇿🇦 & Namibia 🇳🇦
     location: "Switzerland"
-    followers: 19338
-    engagement: 389
-    commentsToLikes: 0.145294
+    followers: 19127
+    engagement: 790
+    commentsToLikes: 0.117377
     id: ck13c1wyky7zh0i190aek2hfv
     verified: false
-    hashtags: "#urbex, #swissmodel, #munichgermany, #sensual"
+    hashtags: "#passion, #portraitphotography, #sensual, #switzerland"
   - username: "kate.happens"
     fullname: >-
       Kate
@@ -31,18 +31,6 @@ profiles:
     id: ck9h9o4ll99qa0j78faj1lbd5
     verified: false
     hashtags: "#carchicks, #fitbody, #lingerie, #tshirt"
-  - username: "l.gorgeous"
-    fullname: >-
-      🔥Prof Model
-    bio: >-
-      I SEDUCE YOUR MIND WITH MY PHOTO ART 🌹Muse with Ukrainian roots 🌎Travel & dance addicted Split is my new superpower😏 💫Blog @olesia_dreams 📍Zürich
-    location: "Switzerland"
-    followers: 154963
-    engagement: 440
-    commentsToLikes: 0.019358
-    id: ckap4l5fi7s440i78vwwv8xce
-    verified: false
-    hashtags: "#photo, #travel, #girl, #milanmodel"
   - username: "officialbiljana"
     fullname: >-
       | B I L J A N A |
@@ -67,6 +55,54 @@ profiles:
     id: ck5hn3fmmn4sn0i1192nlcal1
     verified: false
     hashtags: "#lingerie, #studio, #blackandwhite, #giveaway"
+  - username: "tinamenzerath"
+    fullname: >-
+      Tina Menzerath
+    bio: >-
+      Kontakt| tina_menzerath@hotmail.com Lucerne, Switzerland
+    location: "Switzerland"
+    followers: 15747
+    engagement: 338
+    commentsToLikes: 0.104321
+    id: clonw547i8l970j0810m7w5kg
+    verified: false
+    hashtags: "#summer, #zurich, #roma, #ootd"
+  - username: "marica_rotunno"
+    fullname: >-
+      𝓜𝓪𝓻𝓲𝓴𝓮𝔂 ♥︎❥︎❣︎
+    bio: >-
+      ♥️ "Mamma esaurita🇮🇹🇨🇭
+    location: "Switzerland"
+    followers: 46611
+    engagement: 240
+    commentsToLikes: 0.004494
+    id: ckxr7wrfcbbf90j23338kzghe
+    verified: false
+    hashtags: "#domodossola, #smile, #photography, #verbania"
+  - username: "karenfleischmann"
+    fullname: >-
+      Karen Fleischmann
+    bio: >-
+      #ethicalfashion since’15 | #sustainability ambassador | #conscious being | founder @let_go_flow
+    location: "Switzerland"
+    followers: 101264
+    engagement: 55
+    commentsToLikes: 0.005411
+    id: ck5hpbrowr3hy0i11m6y37v4p
+    verified: false
+    hashtags: "#naturelovers, #photography, #wisdom, #sustainable"
+  - username: "dddomini"
+    fullname: >-
+      DDDomini
+    bio: >-
+      29.8-1.9 intense relaxed boho event 📸 📸𝐩𝐡𝐨𝐭𝐨 𝐞𝐯𝐞𝐧𝐭 𝐨𝐫𝐠𝐚𝐧𝐢𝐳𝐞𝐫/𝐚𝐥𝐥 𝐢𝐧𝐜𝐥𝐮𝐬𝐢𝐯𝐞 𝐩𝐡𝐨𝐭𝐨 𝐝𝐚𝐲𝐬 at my photo location 🇨🇿@dddominis_photolocation
+    location: "Switzerland"
+    followers: 109186
+    engagement: 18
+    commentsToLikes: 0.004967
+    id: ck5zsg7w5yfrk0i14s2wbk0xf
+    verified: false
+    hashtags: "#dddoministravels, #vienna, #breathtaking, #hormonalbalance"
   - username: "shunsukecos"
     fullname: >-
       Shunsuke
@@ -78,7 +114,7 @@ profiles:
     commentsToLikes: 0.004861
     id: ck6twj3c2sa8p0j71w4rrad8q
     verified: false
-    hashtags: "#naruto, #toxic, #sasuke, #britneyspears"
+    hashtags: "#toxic, #sasuke, #britneyspears, #aesthetic"
   - username: "francesca_dmodel"
     fullname: >-
       Francesca
@@ -90,41 +126,5 @@ profiles:
     commentsToLikes: 0.029447
     id: ckf5lxc6lrejq0j23fklw7sao
     verified: false
-    hashtags: "#photography, #portrait, #model, #photoshoot"
-  - username: "zurichurbanphoto"
-    fullname: >-
-      Portrait & Event Photographer
-    bio: >-
-      🏆Swiss Photo Club Award Winner 2019🥇 😎Powerful Portraits 😍 📧DM for Shoots📷 👰Wedding portrait 🌹 🕺Club photo 📸 💃Model portfolio ❤ 😎All pics are Mine 🙏
-    location: "Switzerland"
-    followers: 3968
-    engagement: 369
-    commentsToLikes: 0.022107
-    id: ck5bzf7vir0tr0i11do63smdu
-    verified: false
-    hashtags: "#candlelight, #beautifuleyes, #modelphotography, #photoshoot"
-  - username: "michellkaylee"
-    fullname: >-
-      Michell Kaylee 🇨🇭
-    bio: >-
-      Personaltrainer & Nutritionist 🥑 - The change begins in your mind! . Feel free to contact me ⇩
-    location: "Switzerland"
-    followers: 243537
-    engagement: 326
-    commentsToLikes: 0.029765
-    id: ckaovf9ax4cxk0i78yt3my5b4
-    verified: false
-    hashtags: "#peace, #love, #health, #life"
-  - username: "angelina__petrova"
-    fullname: >-
-      International glamour model
-    bio: >-
-      💜professional model 📍Zp/Kiev, UA🇺🇦 Catch me if you can 🌍
-    location: "Switzerland"
-    followers: 105452
-    engagement: 131
-    commentsToLikes: 0.018395
-    id: ck6tzd16i8zki0j7130z3kcoh
-    verified: true
-    hashtags: ""
+    hashtags: "#model, #photography, #art, #portrait"
 ---

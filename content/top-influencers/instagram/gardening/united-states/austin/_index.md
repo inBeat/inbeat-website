@@ -1,12 +1,24 @@
 ---
-title: Top 10 Gardening Instagram Influencers In Austin In 2023
+title: Top 10 Gardening Instagram Influencers In Austin In 2024
 description: >-
-  Find top gardening Instagram influencers in Austin in 2023. Most popular hashtags: #gardening #garden #flowersmakemehappy #gardeninspiration.
+  Find top gardening Instagram influencers in Austin in 2024. Most popular hashtags: #gardening #garden #gardeninspiration #nature.
 platform: Instagram
-hits: 13
+hits: 20
 text_top: Analyze the most popular Instagram accounts on inBeat.
-text_bottom: inBeat has 13 Instagram influencers like this in Austin, United States for you to work with.
+text_bottom: Our database holds 20 Instagram influencers like this in Austin, United States for you to collaborate.
 profiles:
+  - username: "ravenelyse"
+    fullname: >-
+      RAVEN ELYSE
+    bio: >-
+      Yes, I’m a Virgo ✨ [Austin, TX] ☆ 1.9M on YouTube | 1.8M on TikTok ☆ Podcast | @ravenelysepodcast
+    location: "United States"
+    followers: 418061
+    engagement: 461
+    commentsToLikes: 0.010541
+    id: ck6u2y1nwukue0j71a2d4zkgp
+    verified: false
+    hashtags: "#diybirthdaydecor, #giantflowers, #gardenparty, #paperflowers"
   - username: "atxdadjay"
     fullname: >-
       Jay Lee
@@ -30,7 +42,7 @@ profiles:
     commentsToLikes: 0.031875
     id: ck0w3g5ndt8cr0i19kepkrloi
     verified: false
-    hashtags: "#spilledink, #plantphotography, #plantporn, #tropicalplants"
+    hashtags: "#plantlove, #anthuriumveitchii, #philodendronhederaceum, #plantenabler"
   - username: "millpoolbythesea"
     fullname: >-
       Millpool Home & Garden 🏡🌸
@@ -43,30 +55,42 @@ profiles:
     id: ck138sw70hurs0i19fy6qo5bc
     verified: false
     hashtags: "#springgarden, #summergarden, #hydrangeas, #gardenersofinstagram"
-  - username: "lexymonty"
+  - username: "bulletproofgenetics"
     fullname: >-
-      Lexy Monty
+      Bulletproof Genetics
     bio: >-
-      Orlando FL 🌴 Beauty | Fashion | Lifestyle 💐 Don't be sad, because sad backwards is das, and das not good. 😁 🥘 Food Page: @foodielexyy
+      Integrity, Dignity, Reliability, Durability, Strength, Loyalty. True meaning of BULLETPROOF MMMP licensed Nothing for sale
     location: "United States"
-    followers: 73632
-    engagement: 53
-    commentsToLikes: 0.219454
-    id: ckqgndniap1d00j23nro4wha1
+    followers: 18079
+    engagement: 163
+    commentsToLikes: 0.050580
+    id: ck5q177is9low0i11g1q191mu
     verified: false
-    hashtags: "#orlandoevents, #reelsinstagram, #funnyreels, #orlandofashionblogger"
-  - username: "ourlittlechurchcottage"
+    hashtags: "#regenerativefarming, #mmmp, #organic, #organicaf"
+  - username: "mombossinaustin"
     fullname: >-
-      Clare - Church Cottage
+      Brianna DeMike
     bio: >-
-      🏡 A look inside our English country cottage, with Dexter and Harry the Dalmatians! 📍 Worcestershire, UK 💌 ourlittlechurchcottage@gmail.com
+      💁🏻‍♀️ | Mom of 👦🏼👧🏼👧🏼👶🏼 💍 | @huntdunbar 👩🏻‍💻 | Entrepreneur x 3 🎙 | Host @badassbasicbitch 2M+ downloads 📍 | NY ➡️ CA ➡️ ATX
     location: "United States"
-    followers: 46514
-    engagement: 400
-    commentsToLikes: 0.152082
-    id: ck0w2gdjdo8a30i19bo9uyafl
+    followers: 71961
+    engagement: 197
+    commentsToLikes: 0.046059
+    id: cks10oyt22bp10j234pwwqei2
     verified: false
-    hashtags: "#adorable, #dogoftheday, #cornerofmyhome, #persuepretty"
+    hashtags: "#atx, #furniture, #atxkids, #disney"
+  - username: "texasbeeworks"
+    fullname: >-
+      ERIKA THOMPSON | BEEKEEPER
+    bio: >-
+      Saving bees across Texas and sharing my love of bees with the world.
+    location: "United States"
+    followers: 1085104
+    engagement: 713
+    commentsToLikes: 0.013570
+    id: ck8t4w1vz82h50j78oqjt3djd
+    verified: false
+    hashtags: "#nature, #texas, #savetheplanet, #savethebees"
   - username: "paulapryke"
     fullname: >-
       P A U L A   P R Y K E  OBE
@@ -78,7 +102,7 @@ profiles:
     commentsToLikes: 0.004550
     id: ck8t6vkjqeu6f0j78hzizy1o6
     verified: false
-    hashtags: "#floralarrangements, #love, #gardeninspiration, #floral"
+    hashtags: "#clevergrowers, #rosesofinstagram, #flowers, #londonflorist"
   - username: "theatomicranch"
     fullname: >-
       Atomic Ranch
@@ -91,40 +115,16 @@ profiles:
     id: ck137c0dxasdr0i1977z432yb
     verified: false
     hashtags: "#design, #midcenturymodern, #homedecor, #building"
-  - username: "shelbizleee"
+  - username: "michellereed"
     fullname: >-
-      SHELBI ⟜Sustainability Vlogger
+      Michelle Reed Gauthier
     bio: >-
-      ≋ Zero Waste ⋒ LGBT | Plant Based ✎ BS EnvSci “You cannot do all the good that the world needs, but the world needs all the good that you can do”©
+      🌼 lover of small joys 💫 philippians 4:8 🌞 dallas, tx 👼🏼 on the way! ✉️ thisissmileyandshell@gmail.com
     location: "United States"
-    followers: 60751
-    engagement: 1112
-    commentsToLikes: 0.049847
-    id: ck0vwvqrivtjc0i191nbf8pkf
+    followers: 110255
+    engagement: 1142
+    commentsToLikes: 0.018639
+    id: ck0uavat8d4ed0i19w54g3wap
     verified: false
-    hashtags: "#goingzerowaste, #ecoliving, #sustainability, #waronwaste"
-  - username: "storybookstyle"
-    fullname: >-
-      Jen
-    bio: >-
-      believer † | reader of classics | vintage book collector & occasional seller | country farmhouse living | whimsical tea parties
-    location: "United States"
-    followers: 39983
-    engagement: 487
-    commentsToLikes: 0.052568
-    id: ck135ww583nd00i19jft5nadz
-    verified: false
-    hashtags: "#cottagecoreaesthetic, #vintageinspired, #mycountryliving, #afternoontea"
-  - username: "justinejenkins"
-    fullname: >-
-      Justine Jenkins
-    bio: >-
-      Pro Ethical Make Up Artist Certified CBD expert #CrueltyFree#Vegan #SustainableBeauty Humane Society Ambassador #cbd
-    location: "United States"
-    followers: 30422
-    engagement: 200
-    commentsToLikes: 0.116585
-    id: ck0txqjvck5vd0i19tt5qt3gc
-    verified: true
-    hashtags: "#glowingskin, #cbdeducation, #vegan, #veganbeauty"
+    hashtags: "#pregnancydiary, #cozyvibes, #whatieatinaday, #pregnancynutrition"
 ---

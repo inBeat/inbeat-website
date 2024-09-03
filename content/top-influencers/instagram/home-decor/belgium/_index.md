@@ -1,130 +1,130 @@
 ---
-title: Top 10 Home Decor Instagram Influencers In Belgium in 2023
+title: Top 10 Home Decor Instagram Influencers In Belgium In 2024
 description: >-
-  Find top home decor Instagram influencers in Belgium in 2023. Most popular hashtags: #homedecor #interiordesign #belgium #design.
+  Find top home decor Instagram influencers in Belgium in 2024. Most popular hashtags: #homedecor #interiordesign #interior #ad.
 platform: Instagram
-hits: 21
-text_top: Identify the most popular Instagram profiles on inBeat.
-text_bottom: Our platform has 21 Instagram influencers like this in Belgium for you to connect with.
+hits: 12
+text_top: See the best Instagram profiles on inBeat.
+text_bottom: inBeat holds 12 Instagram influencers like this in Belgium for you to collaborate.
 profiles:
-  - username: "p.vangele"
+  - username: "idoitmyself.be"
     fullname: >-
-      p. Van Gele
+      Céline Thiteux ✨DIY & DECO
     bio: >-
-      Gent, Belgium
+      ✨️ DIY DÉCO & RÉCUP 🐈 GOOD VIBES 💌 hello@idoitmyself.be 📁BE0802551175
     location: "Belgium"
-    followers: 5486
-    engagement: 785
-    commentsToLikes: 0.071774
-    id: ck1358que09gf0i19kkeyqfvc
+    followers: 143456
+    engagement: 198
+    commentsToLikes: 0.050825
+    id: ck6tylwjm4i810j71a9qlxden
     verified: false
-    hashtags: "#art, #studioview, #abstraction, #sainttropez"
-  - username: "ayseshome"
+    hashtags: "#decomaison, #apartmenttherapy, #idoitmyself, #diymirror"
+  - username: "ellendevylderart"
     fullname: >-
-      Ayşegül🍃
+      Ellen De Vylder | Abstract artist | Figurative artist
     bio: >-
-      Interior•Plants•Food & Lifestyle Wife & Mom of 3 📍Antwerp | Belgium 📧 Collab: aysegul.aslan85@hotmail.com / dm
+      🎨 Bespoke abstract mixed media art 🌎 Worldwide shipping 💬 DM for custom pieces new releases👇🏻
     location: "Belgium"
-    followers: 68508
-    engagement: 179
-    commentsToLikes: 0.039481
-    id: ckaoufcgs012s0i78xondh6ly
+    followers: 92054
+    engagement: 152
+    commentsToLikes: 0.085899
+    id: ck5q5wy58uxx20i11bdljc6gg
     verified: false
-    hashtags: "#kitchendecor, #du, #easyinterieur, #kitchendesign"
-  - username: "panianiani"
+    hashtags: ""
+  - username: "min__lor"
     fullname: >-
-      Pani Ani Ani
+      Lore Mingels
     bio: >-
-      Anna Grunwald. Art Director at @magdabutrym. Self portraits. Triptychs.
+      Lots of plants | Photography | Interior | Ghent, Belgium. All photos are mine. Want to work together? Or have any questions? You can always DM me.
     location: "Belgium"
-    followers: 41285
-    engagement: 368
-    commentsToLikes: 0.019046
-    id: ck5c96aa8aupm0i11s2rk0nn4
+    followers: 29387
+    engagement: 236
+    commentsToLikes: 0.105583
+    id: ck8t2elo3z6u40j78g2ermuqq
     verified: false
-    hashtags: "#powiedzkomus, #strajkkobiet, #artwork, #roses"
+    hashtags: "#planthoarder, #plantlady, #houseofplantlovers, #junglehome"
   - username: "helene_rebelo"
     fullname: >-
       Hélène  Rebelo
     bio: >-
-      Brussels based founder, art/design curator @coolmachinestore Freelance set designer/interior stylist hellohelenerebelo@gmail.com Also @objetomoderno
+      Curator designers+artists+furniture. Set Designer. Founder @coolmachinestore @objetomoderno hellohelenerebelo@gmail.com
     location: "Belgium"
-    followers: 38361
-    engagement: 331
-    commentsToLikes: 0.014208
+    followers: 40236
+    engagement: 233
+    commentsToLikes: 0.024964
     id: ck137aeplakr60i196dq19g64
     verified: false
-    hashtags: "#ceramicart, #interiorstyling, #kartell, #objects"
-  - username: "min__lor"
+    hashtags: "#furnituredesign, #inspiration, #livingroom, #homedecor"
+  - username: "katinkakempeneers"
     fullname: >-
-      Lore
+      Model | Katinka Kempeneers🌺
     bio: >-
-      Plants | Photography | Interior | Ghent, Belgium. All photos are mine. Questions? You can always DM me. Use #minlorplants for a story feature.
+      ♡Content Creator|Freelance Model 📩 Inspo ♡ Lifestyle x Travel x Fashion x Animals 🌸TIKTOK 11K @leolive Katinka10 Portfolio📸👇🏻
     location: "Belgium"
-    followers: 21146
-    engagement: 357
-    commentsToLikes: 0.022084
-    id: ck8t2elo3z6u40j78g2ermuqq
+    followers: 18024
+    engagement: 293
+    commentsToLikes: 0.205117
+    id: ck8t42efv59gc0j78s8ent8a2
     verified: false
-    hashtags: "#greenthumb, #planthoarder, #monsteravariegata, #plantlife"
-  - username: "openhousemagazine"
+    hashtags: "#magazine, #city, #christmas, #photo"
+  - username: "a_m_a_d_e_u_s"
     fullname: >-
-      Openhouse Magazine
+      Amadeus Hz Gz
     bio: >-
-      “The life we share”. A magazine that meets creative people around the world who open their homes and private spaces to the public.
+      X Brussels X Architect / Photographer X amadeus.hzgz@gmail.com @save_as_photography X @save_as_studio
     location: "Belgium"
-    followers: 94077
-    engagement: 206
-    commentsToLikes: 0.006105
-    id: ck13aaxhgphv60i191fvbhqzf
+    followers: 66866
+    engagement: 252
+    commentsToLikes: 0.016972
+    id: ck15u6l9ylnva0i194vx1f6fc
     verified: false
-    hashtags: "#gardening, #pocoapoco, #style, #homedecor"
-  - username: "gaelle_vp"
+    hashtags: "#brussels, #ad, #lesud, #summer"
+  - username: "lenka.vanhemelryck"
     fullname: >-
-      Gaëlle
+      Hi, I’m Lenka ✨
     bio: >-
-      Content Creator Mom to be ♥︎ ︎🕊positive vibes only inquiries@gaellevp.com Instagram husband @migcalvo
+      Lil’ diary about my life 🪩 Fashion | Life | Beauty ☁️ UGC and Content Creator ✉️ Collabs : lvhemelryck@live.be 🌫️ BE 0797.786.495 🤍 Yenthe
     location: "Belgium"
-    followers: 152393
-    engagement: 377
-    commentsToLikes: 0.037009
-    id: ck0u1je0cx59x0i191g484ks8
+    followers: 6278
+    engagement: 126
+    commentsToLikes: 0.029509
+    id: ck8t4caho69690j787wb0aiwz
     verified: false
-    hashtags: "#winterbaby, #pregnancylook, #momtobe, #zalandostyle"
-  - username: "angie.staron"
+    hashtags: "#girlsgoneloavies, #fashionootd, #nakdfashion, #belgischeblogger"
+  - username: "thanksalatteblog"
     fullname: >-
-      ♡ Angelika Julia ♡
+      Marlene ♡
     bio: >-
-      Polish 🇵🇱 | Living in Belgium 🇧🇪 ♡ Mommy of Lena ♡ 💌 angelikastaron@gmail.com
+      Beauty , interior , aesthetics and cats 🐈‍⬛ 📍Brussels 🇧🇪
     location: "Belgium"
-    followers: 36590
-    engagement: 375
-    commentsToLikes: 0.040160
-    id: ck13cx17i2kyg0i19e14welea
+    followers: 123618
+    engagement: 43
+    commentsToLikes: 0.023830
+    id: ck14hw4yncffh0i19au491knl
     verified: false
-    hashtags: "#love, #design, #halloweenmakeup, #momlife"
-  - username: "valentinbruneau"
+    hashtags: "#christmasdecor, #wohnzimmerinspiration, #halloween, #croissant"
+  - username: "tellementlui"
     fullname: >-
-      Valentin bruneau
+      Tellementlui
     bio: >-
-      🌍 Fashion for men | Lifestyle 📍 Brussels, Belgium 👻 valentin_brn2 📬 valentin_bruneau@hotmail.com 📸 @vbrupictures
+      (LUI)GI,Men's Fashion blogger Since 2012 🇧🇪> #belgianinfluencer 🖋> collaboration mistertellementlui@gmail.com #FOREVERYOUNG
     location: "Belgium"
-    followers: 42586
-    engagement: 362
-    commentsToLikes: 0.099721
-    id: ck0w6zn3mb0xk0i1935o5l4v1
+    followers: 60033
+    engagement: 112
+    commentsToLikes: 0.009290
+    id: ck0tt0plz0niw0i19ophwkvva
     verified: false
-    hashtags: "#streetwear, #outfitoftheday, #belgiumblogger, #ootdmens"
-  - username: "ruxandraioana"
+    hashtags: "#menstyle, #belgique, #blogger, #gayboy"
+  - username: "the.radical.project"
     fullname: >-
-      ♥ RUX ♥ 🦂
+      The [Radical] Project
     bio: >-
-      Full time professional blogger& content creator🖋blog launched in 2011 fashion👗 lifestyle 🍸 beauty💄 food🍱 travel✈️ 📍🇧🇪Ｂｒｕｓｓｅｌｓ,Ｂｅｌｇｉｕｍ
+      An online platform showcasing inspiring images and texts in the disciplines of Art and Architecture. Submissions: submit@theradicalproject.com
     location: "Belgium"
-    followers: 47261
-    engagement: 310
-    commentsToLikes: 0.055722
-    id: ck0w5g7i43hq00i19uzu7oqse
+    followers: 153599
+    engagement: 103
+    commentsToLikes: 0.002420
+    id: ckap7dj2hjlqh0i784wh2plso
     verified: false
-    hashtags: "#ootdshare, #belgianblogger, #blogueusebelge, #belgischeblogger"
+    hashtags: "#moderninteriordesign, #exteriordesign, #housedesigner, #architecturelife"
 ---

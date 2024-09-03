@@ -1,12 +1,60 @@
 ---
-title: Top 10 Mothers Instagram Influencers In South Africa In 2023
+title: Top 10 Mothers Instagram Influencers In South Africa In 2024
 description: >-
-  Find top mothers Instagram influencers in South Africa in 2023. Most popular hashtags: #southafrica #ad #interracialcouple.
+  Find top mothers Instagram influencers in South Africa in 2024. Most popular hashtags: #blessed #skincare #proudlysouthafrican.
 platform: Instagram
-hits: 61
-text_top: See the most popular Instagram influencers on inBeat.
-text_bottom: Our platform holds 61 Instagram influencers like this in South Africa for you to contact.
+hits: 83
+text_top: Identify the top-rated Instagram profiles on inBeat.
+text_bottom: inBeat aggregates 83 Instagram influencers like this in South Africa for you to work with.
 profiles:
+  - username: "mattejacobs"
+    fullname: >-
+      Matte Jacobs
+    bio: >-
+      Cape Town @20modelmanagement Johannesburg @syncmodels_ Mother of @thehouseoflecap 🇿🇦 ✊🏽✊🏿✊🏾🏳️‍🌈⠀
+    location: "South Africa"
+    followers: 10781
+    engagement: 545
+    commentsToLikes: 0.112981
+    id: ck5zy5rny9a3r0i14dbfi53e1
+    verified: false
+    hashtags: "#avon, #watchmenow, #nextfacesofponds, #myhairisme"
+  - username: "sanemahlase"
+    fullname: >-
+      Sane Mahlase (née Mathe) 🇿🇦
+    bio: >-
+      Kiano and Imani’s Mother @shawtysgotwood’s Wife 🐶: @king_kash_of_the_north Owner: @names_by_daudi
+    location: "South Africa"
+    followers: 89537
+    engagement: 188
+    commentsToLikes: 0.012274
+    id: ck8szyv2dq8xd0j78s60a0o73
+    verified: false
+    hashtags: "#baddiebumpfit, #genderreveal, #hotmomclub, #saneis30ish"
+  - username: "melindabam"
+    fullname: >-
+      melindabam
+    bio: >-
+      • TV Presenter • Miss South Africa 2011 • Motivational Speaker & MC • Entrepreneur @shenation_ • Loving wife, mother & daughter of the King
+    location: "South Africa"
+    followers: 169361
+    engagement: 166
+    commentsToLikes: 0.023794
+    id: ck5c8efkt9aya0i116qf9owuh
+    verified: true
+    hashtags: "#inspiretolive, #gifted, #thestoryofmarriage, #bababergh"
+  - username: "minkivanderwesthuizen"
+    fullname: >-
+      Minki van der Westhuizen
+    bio: >-
+      God First Wife Mother Media Personality Proudly South African
+    location: "South Africa"
+    followers: 208307
+    engagement: 82
+    commentsToLikes: 0.023080
+    id: ck0w3owizuijk0i193iz31el7
+    verified: true
+    hashtags: "#gesinsvakansie, #skincare, #dischem, #minki10"
   - username: "elizabethjackrich"
     fullname: >-
       ElizabethJack-Rich💯
@@ -55,18 +103,6 @@ profiles:
     id: ck5qcilpoqrc50i11wvugt7po
     verified: true
     hashtags: "#afrikasocial, #supportkebusinesses, #cashmoney, #35000"
-  - username: "chantelle_pretorius"
-    fullname: >-
-      CHANTELLE PRETORIUS
-    bio: >-
-      International Model • Miss SA 2020 Top 10 Finalist • Nutritionist • BCom Business Management Mother Agency - @bossmodelsa -Romans 8:18
-    location: "South Africa"
-    followers: 22026
-    engagement: 413
-    commentsToLikes: 0.012713
-    id: ckap8c1vmnqht0i78x2i5s2fy
-    verified: false
-    hashtags: "#health, #southafrica, #weekendaway, #thatview"
   - username: "joannereyneke"
     fullname: >-
       Jo-Anne Reyneke
@@ -91,40 +127,4 @@ profiles:
     id: ckf5o4dds0v7i0j236qeg2f0b
     verified: false
     hashtags: "#fearless, #indonifashionhouse, #valentinesspecial, #durban"
-  - username: "float_apparel"
-    fullname: >-
-      Float Apparel
-    bio: >-
-      Made in the Mother City, Cape Town Original Lifestyle Apparel Worldwide Shipping
-    location: "South Africa"
-    followers: 18325
-    engagement: 281
-    commentsToLikes: 0.007874
-    id: ckaoqpy3ujthb0i78wrg7vj4j
-    verified: false
-    hashtags: ""
-  - username: "minkivanderwesthuizen"
-    fullname: >-
-      MINKI
-    bio: >-
-      God First • Wife to @ernstjoubert • Mother to three little girls #dogtertjiefees • Media Personality
-    location: "South Africa"
-    followers: 181006
-    engagement: 143
-    commentsToLikes: 0.015612
-    id: ck0w3owizuijk0i193iz31el7
-    verified: true
-    hashtags: "#bts, #minki, #dogtertjiefees, #selfie"
-  - username: "shopcatface"
-    fullname: >-
-      CATFACE
-    bio: >-
-      BRITISH AFRICAN CHILD OF GOD 🇳🇬 🇬🇧 Ship Worldwide 🌎🌙 Custom create any style 👑 Created by @motherearth_ohuimumwen | @studiocatface
-    location: "South Africa"
-    followers: 26242
-    engagement: 25
-    commentsToLikes: 0.022607
-    id: ckaovnsna5dlh0i78dm5ominj
-    verified: false
-    hashtags: "#styleinspiration, #mermaidhair, #lacefrontwigs, #rainbowbraids"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Travel TikTok Influencers In India In 2023
+title: Top 10 Travel TikTok Influencers In India In 2024
 description: >-
-  Find top travel TikTok influencers in India in 2023. Most popular hashtags: #duet #foryoupage #trending #mallu.
+  Find top travel TikTok influencers in India in 2024. Most popular hashtags: #duet #foryoupage #nellikka #mallu.
 platform: TikTok
 hits: 676
-text_top: Analyze the most popular TikTok accounts on inBeat.
-text_bottom: Our database has 676 TikTok influencers like this in India for you to collaborate.
+text_top: Analyze the best TikTok profiles on inBeat.
+text_bottom: Our search engine holds 676 TikTok influencers like this in India for you to contact.
 profiles:
   - username: "malik_sahiba45"
     fullname: >-

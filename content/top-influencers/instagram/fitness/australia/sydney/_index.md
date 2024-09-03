@@ -1,12 +1,36 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Sydney In 2023
+title: Top 10 Fitness Instagram Influencers In Sydney In 2024
 description: >-
-  Find top fitness Instagram influencers in Sydney in 2023. Most popular hashtags: #fitness #sydney #australia #fashion.
+  Find top fitness Instagram influencers in Sydney in 2024. Most popular hashtags: #fitness #sydney #reels #fashion.
 platform: Instagram
-hits: 55
-text_top: See the best Instagram accounts on inBeat.
-text_bottom: inBeat holds 55 Instagram influencers like this in Sydney, Australia for you to connect with.
+hits: 97
+text_top: See the top-rated Instagram profiles on inBeat.
+text_bottom: inBeat aggregates 97 Instagram influencers like this in Sydney, Australia for you to pitch.
 profiles:
+  - username: "tazandalessia"
+    fullname: >-
+      Taz & Alessia
+    bio: >-
+      LGBTQIA+ // Live-streamers // Creators ✨TikTok: 780k 🎉 ✨Creators of @teamtandaapp ✨Managed by @bornbredtalent 💌 collabs@tazandalessia.com
+    location: "Australia"
+    followers: 12146
+    engagement: 270
+    commentsToLikes: 0.024206
+    id: clb9x8t0t7p2j0i23cc337z2v
+    verified: false
+    hashtags: "#ranking, #funny, #reels, #lgbtpride"
+  - username: "teagankayee"
+    fullname: >-
+      Teagan Kaye
+    bio: >-
+      Aussie 🌴 TikTok - @itsteagankaye
+    location: "Australia"
+    followers: 60571
+    engagement: 216
+    commentsToLikes: 0.073461
+    id: ck6uesj3zsu780j71pdj883a8
+    verified: false
+    hashtags: "#photoshoot, #fitness, #sydneymodel, #modelling"
   - username: "l_lewy"
     fullname: >-
       Luke Lewis
@@ -19,18 +43,66 @@ profiles:
     id: ck5q0g4jj5u0l0i11k3z7zog2
     verified: true
     hashtags: "#sydneyfitness, #fitnesssydney, #sydneyfitnessblogger, #sydneylocal"
-  - username: "ali.baxter"
+  - username: "fit.hanna"
     fullname: >-
-      
+      💖 HANNA/SIS 💖 - Syd 🇦🇺
     bio: >-
-      
+      👩🏽‍❤️‍💋‍👨🏽🔐 ✖️ED awareness💛 Balanced lifestyle👇🏽25kgs ✖️I keep it 𝙧𝙚𝙖𝙡 & 𝙧𝙖𝙬 💯 ✖️💪🏼 @emily_kingbodies ambassador 𝗖𝗢𝗗𝗘: 𝗛𝗔𝗡𝗡𝗔 ✖️Dance instructor
     location: "Australia"
-    followers: 5
-    engagement: 4843333
-    commentsToLikes: 0.071596
-    id: ck55p98zta30w0i1149zym1du
+    followers: 10526
+    engagement: 531
+    commentsToLikes: 0.105179
+    id: ckqquvyiny2m20j23iyf4su5b
     verified: false
-    hashtags: "#ryderwearwomen, #thatssofetch, #ryderwear, #teamryderwear"
+    hashtags: "#fitness, #weightlosstransformation, #sydneyfitness, #fitnessgirl"
+  - username: "blondeasian_"
+    fullname: >-
+      Julia | Food / Lifestyle / Travel /Fitness
+    bio: >-
+      🇦🇺 Sydney DM or juliatruong00@gmail.com
+    location: "Australia"
+    followers: 19685
+    engagement: 102
+    commentsToLikes: 0.498853
+    id: ckqas7zuukxzy0j23781jqe1c
+    verified: false
+    hashtags: "#gifted, #frenchrestaurant, #sydneyrestaurant, #ausgoodfood"
+  - username: "martinaliang"
+    fullname: >-
+      Martina Liang
+    bio: >-
+      Lifestyle | Travel | Fitness 🏠 Sydney📍Bali ✨ @ehplabs MARTINA10 🤳 @martinaliang on Tiktok & YT
+    location: "Australia"
+    followers: 103658
+    engagement: 77
+    commentsToLikes: 0.008991
+    id: ckap5fbpcbf550i780qfwh9ml
+    verified: false
+    hashtags: "#livinginbali, #lifelately, #ootd, #grateful"
+  - username: "jesscbee"
+    fullname: >-
+      Jessie 🎀
+    bio: >-
+      Fitness & lifestyle Sydney 🇦🇺 @riverpointretreat Check out my Airbnb @doyoueven DC: JESSCBEE Jesscbeee@gmail.com
+    location: "Australia"
+    followers: 107158
+    engagement: 22
+    commentsToLikes: 0.045564
+    id: cloqu0oehgsqt0j086foqj7x7
+    verified: false
+    hashtags: "#ribbedrevolution, #doyoueven"
+  - username: "acountydownunder"
+    fullname: >-
+      Caroline Mc Kenna
+    bio: >-
+      Irish/Aussie☘️🇦🇺 Owner: @nurturingmindseducation Ebook to move to Australia ⬇️ Fashion/Lifestyle Influencer of the Year🏆 Founder: Sunrise Social©
+    location: "Australia"
+    followers: 168714
+    engagement: 1
+    commentsToLikes: 0.000221
+    id: cl9ktuxbejehu0i230q8gysrm
+    verified: false
+    hashtags: "#motivation, #australia, #movinghome, #mindset"
   - username: "sma.au"
     fullname: >-
       Striking Models Agency 🇦🇺
@@ -43,88 +115,16 @@ profiles:
     id: ckaoxw09eezxz0i78z14ggye0
     verified: false
     hashtags: ""
-  - username: "ateaspoonofstyle"
+  - username: "prestige_hire_australia"
     fullname: >-
-      Tanaka Tarou
+      PRESTIGE HIRE ™️
     bio: >-
-      👦 Short Asian trying to be stylish but really just eating away his feelings 📷 Lifestyle/Fashion/Food/Content Creation 📍 SYD,🇦🇺 ✉️DM or Email to collab
+      Luxury Chauffeured Services.
     location: "Australia"
-    followers: 30201
-    engagement: 175
-    commentsToLikes: 0.218128
-    id: ck15seuspcnp30i19ut0843ge
+    followers: 390134
+    engagement: 92
+    commentsToLikes: 0.000505
+    id: ck5qdthczx99t0i11v1blm9h8
     verified: false
-    hashtags: "#doughnuts, #flatlays, #smashedavo, #beautifulcuisines"
-  - username: "krystalhipwell"
-    fullname: >-
-      Krystal
-    bio: >-
-      SUNNY• NAKODA • HUSKY | Blogger | Fitness Trainer | living in Sydney| Christian | For collabs ✉️ grace@22.com.au
-    location: "Australia"
-    followers: 178011
-    engagement: 276
-    commentsToLikes: 0.038745
-    id: ck0u7ht4d4qv70i197bu3aypa
-    verified: true
-    hashtags: "#explantjourney, #mygirl, #ad, #huskyboy"
-  - username: "flt_girls"
-    fullname: >-
-      💥 Amazing Hot Babes 💥
-    bio: >-
-      😍 Beautiful girls & professional models 😍 #model #girls #girl #fitness #fitnessmodel #fit #fitnessgirl #sydney #aussie 👇FOLLOW OUR TELEGRAM CHANNEL👇
-    location: "Australia"
-    followers: 20952
-    engagement: 123
-    commentsToLikes: 0.056245
-    id: ckap162y5t7gp0i78rlzrsesk
-    verified: false
-    hashtags: ""
-  - username: "taizetaylor"
-    fullname: >-
-      Taize Taylor
-    bio: >-
-      🍆 OnlyFans top 1% & TikTok (48.7k) 📍 Sydney, Aus 🛩 Pilot in training Owner of @plc_kawana @plc_baringa 👨🏽‍✈️👨🏽‍⚕️ @petersnick TAIZE10 @sculptr_
-    location: "Australia"
-    followers: 17419
-    engagement: 818
-    commentsToLikes: 0.031501
-    id: ck8tcl5xfzsg40j78fl21o903
-    verified: false
-    hashtags: "#gym, #muscle, #gaysydney, #summer"
-  - username: "teagankayee"
-    fullname: >-
-      Teagan Kaye
-    bio: >-
-      Aussie 🌴 TikTok - @itsteagankaye
-    location: "Australia"
-    followers: 60571
-    engagement: 216
-    commentsToLikes: 0.073461
-    id: ck6uesj3zsu780j71pdj883a8
-    verified: false
-    hashtags: "#kookai, #sydneymodel, #photoshoot, #fashion"
-  - username: "shaunwood"
-    fullname: >-
-      Shaun Wood
-    bio: >-
-      The World is Open for Play 📍Newcastle, Australia 🇦🇺 Hollywood on @ultimatetagau Co-Founder of @teamfarang
-    location: "Australia"
-    followers: 47718
-    engagement: 272
-    commentsToLikes: 0.028115
-    id: ck14gnzgr66c80i19792gxzw2
-    verified: false
-    hashtags: "#newy, #coffsharbour, #parkour, #channel7"
-  - username: "stef747"
-    fullname: >-
-      Stefan Drury
-    bio: >-
-      YouTuber / Traveller / Pilot Tech Entrepreneur / Animal Lover ↓ Watch the latest adventure ⤵
-    location: "Australia"
-    followers: 14312
-    engagement: 750
-    commentsToLikes: 0.014779
-    id: ck5zr69wmvzfc0i140zk72qgg
-    verified: false
-    hashtags: "#generalaviation, #pilots, #nightflying, #cirruslife"
+    hashtags: "#groomsmen, #explorepage, #lambohurac, #groom"
 ---

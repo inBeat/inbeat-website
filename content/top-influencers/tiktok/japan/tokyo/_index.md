@@ -1,11 +1,11 @@
 ---
-title: Top 10 TikTok Influencers In Tokyo In 2023
+title: Top 10 TikTok Influencers In Tokyo In 2024
 description: >-
-  Find top TikTok influencers in Tokyo in 2023. Most popular hashtags: #fyp #foryou #tokyo.
+  Find top TikTok influencers in Tokyo in 2024. Most popular hashtags: #fyp #foryou #tokyo.
 platform: TikTok
 hits: 63
-text_top: See the best TikTok influencers on inBeat.
-text_bottom: inBeat holds 63 TikTok influencers like this in Tokyo, Japan for you to collaborate.
+text_top: Identify the top-rated TikTok influencers on inBeat.
+text_bottom: Our platform aggregates 63 TikTok influencers like this in Tokyo, Japan for you to pitch.
 profiles:
   - username: "ryuryu12345"
     fullname: >-

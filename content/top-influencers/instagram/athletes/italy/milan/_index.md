@@ -1,24 +1,12 @@
 ---
-title: Top 10 Athletes Instagram Influencers In Milan In 2023
+title: Top 10 Athletes Instagram Influencers In Milan In 2024
 description: >-
-  Find top athletes Instagram influencers in Milan in 2023. Most popular hashtags: #milano #sport #milan #family.
+  Find top athletes Instagram influencers in Milan in 2024. Most popular hashtags: #milano #italy #milan #sport.
 platform: Instagram
-hits: 30
-text_top: See the best Instagram influencers on inBeat.
-text_bottom: Our search engine holds 30 Instagram influencers like this in Milan, Italy for you to connect with.
+hits: 34
+text_top: Analyze the best Instagram accounts on inBeat.
+text_bottom: Our database aggregates 34 Instagram influencers like this in Milan, Italy for you to pitch.
 profiles:
-  - username: "nikmelli"
-    fullname: >-
-      Nicolò Melli
-    bio: >-
-      Made and raised in 🇮🇹 Played in 🇮🇹🇩🇪🇹🇷🇺🇸 Currently in Milano @adidasita athlete 🏀 Proud Girl Dad 🦩
-    location: "Italy"
-    followers: 156985
-    engagement: 1173
-    commentsToLikes: 0.008667
-    id: ck5cikboist7r0i11acdhwbjk
-    verified: true
-    hashtags: "#tokyo2020, #family, #mffl, #olympics"
   - username: "sofia_aloja"
     fullname: >-
       Sofia Aloja tennis ❤️
@@ -79,6 +67,30 @@ profiles:
     id: ckaoy3t3vfxsb0i78wwuhy0k8
     verified: false
     hashtags: "#foodblogger, #atleticaitaliana, #fidal, #picoftheday"
+  - username: "di__palma"
+    fullname: >-
+      Joseph Naklé
+    bio: >-
+      La mia Dolce Vita Instagrammata 🌎 🇱🇧 🇮🇹 Proud Athlete 🏳️‍🌈🏀 Founder & President of : 🏀 @peacox_basket_milano 🧳 Luxury 📍Milano
+    location: "Italy"
+    followers: 10343
+    engagement: 2124
+    commentsToLikes: 0.034312
+    id: ckf5pwoy77he10j23zcxldaho
+    verified: false
+    hashtags: "#pride, #muscles, #milano, #cute"
+  - username: "valeriaaltobelli"
+    fullname: >-
+      Valeria Altobelli
+    bio: >-
+      ARTIVIST CEO @mission.org_official Law/Int.Relat.📚👩🏽‍🎓 Intern.CyberLaw 👩🏾‍🏫 Mum👩‍👦 Singer&composer🎼 Host🎤 Actress🎬 Model📸 Athlete🏃🏾‍♀
+    location: "Italy"
+    followers: 527682
+    engagement: 16
+    commentsToLikes: 0.051887
+    id: ck15rq2oa94jh0i1961m8cit9
+    verified: false
+    hashtags: "#carousel, #italy, #italiangirl, #family"
   - username: "manuel_caruso_calisthenics"
     fullname: >-
       Manuel Caruso
@@ -103,28 +115,16 @@ profiles:
     id: ck5bzndglrhgc0i11aayz9ziz
     verified: true
     hashtags: "#acmilan, #snow, #seriea, #fiorentinamilan"
-  - username: "valentinagiacinti"
+  - username: "barla81"
     fullname: >-
-      Valentina Giacinti
+      Marco Barla
     bio: >-
-      Milano📍 Football player @acmilan 🔴⚫️ National team @azzurrefigc 🇮🇹 Atlhete @adidas 👟👕 Athlete @4plusnutrition 🏋🏼‍♂️🔋 Athlete @lierac_italia ☀️
+      Dad 👨‍👩‍👧 Physiotherapist 👨‍⚕️ Climber 🧗‍♀️ ✊🏽 Runner 🏃🏻 🇮🇹 📩DM FOR COLLAB #boulder#climb#run#vaibenete https://www.strava.com/athletes/barla_marco
     location: "Italy"
-    followers: 191435
-    engagement: 1040
-    commentsToLikes: 0.020188
-    id: ck55jxhu8xzwh0i11ilzxgqqx
-    verified: true
-    hashtags: "#acmilan, #predator, #vivoazzurro, #danimarcaitalia"
-  - username: "giusy_versace_official"
-    fullname: >-
-      GiusyV.
-    bio: >-
-      Paralympic Athlete🇮🇹 European Champ.2016 🥈200m 🥉400m; Fondatrice della onlus www.disabilinolimits.org; Segni particolari:Tremenda voglia di vivere
-    location: "Italy"
-    followers: 60591
-    engagement: 272
-    commentsToLikes: 0.044259
-    id: ck5bx0ssemsd90i11o7m3vo2x
-    verified: true
-    hashtags: "#solocosebelle, #iofortunata, #bepositive, #thankgod"
+    followers: 38968
+    engagement: 94
+    commentsToLikes: 0.033545
+    id: ck9wfwlt5qtqk0j78u3es08wc
+    verified: false
+    hashtags: "#running, #runningman, #performance, #mountaineering"
 ---

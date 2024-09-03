@@ -1,11 +1,11 @@
 ---
-title: Top 10 Photographers Instagram Influencers In Busan In 2023
+title: Top 10 Photographers Instagram Influencers In Busan In 2024
 description: >-
-  Find top photographers Instagram influencers in Busan in 2023. Most popular hashtags: #ig #sunrise #korealandscape.
+  Find top photographers Instagram influencers in Busan in 2024. Most popular hashtags: #ig #sunrise #somewheremagazine.
 platform: Instagram
-hits: 5
-text_top: Identify the most popular Instagram accounts on inBeat.
-text_bottom: inBeat holds 5 Instagram influencers like this in Busan, South Korea for you to collaborate.
+hits: 6
+text_top: See the top-rated Instagram accounts on inBeat.
+text_bottom: inBeat holds 6 Instagram influencers like this in Busan, South Korea for you to collaborate.
 profiles:
   - username: "bleu_the_k"
     fullname: >-
@@ -55,6 +55,18 @@ profiles:
     id: ck15s90iwbu5n0i196uhryk1k
     verified: false
     hashtags: "#parismarch"
+  - username: "kimyk10"
+    fullname: >-
+      김연경 Yeon Koung Kim
+    bio: >-
+      Professional Volleyball Player 🔟 @kyk_foundation Chairman 3x KOREA Olympian 🇰🇷🏐 Team- @underarmourkr @activia_kr.official @juvisdiet
+    location: "South Korea"
+    followers: 1645101
+    engagement: 732
+    commentsToLikes: 0.012021
+    id: ck0tu8on7634r0i19wgs5v4lm
+    verified: true
+    hashtags: "#studiokalopsia, #portre, #reuterssport, #strongwomen"
   - username: "woosra"
     fullname: >-
       Kyeongwoo Kim
@@ -91,40 +103,28 @@ profiles:
     id: ck5q54tsfrdxv0i117yflwmud
     verified: false
     hashtags: "#seoul, #repost, #la"
-  - username: "gurum.soda"
+  - username: "w3rsip"
     fullname: >-
-      구름소다
+      이경호(Kyung-Ho Lee)🇰🇷
     bio: >-
-      - 빈티지한, 때로는 영화같은 순간 Photographer (Female) 촬영,협찬,기타문의 DM
+      • Cinematographer || Photographer • Fine-art photography || Digital art || Collage Philippians 4:13
     location: "South Korea"
-    followers: 12085
-    engagement: 859
-    commentsToLikes: 0.046195
-    id: ckaoxo7ite37e0i78a734xelb
+    followers: 70837
+    engagement: 610
+    commentsToLikes: 0.018776
+    id: ck8tdgred38qs0j78bfywgfo7
     verified: false
-    hashtags: ""
-  - username: "s.napdog"
+    hashtags: "#cinegrams, #thecreativers, #bealpha, #35mm"
+  - username: "by_malgm"
     fullname: >-
-      냅독
+      🇰🇷MALGM [맑음]
     bio: >-
-      문의✉️cberry5@naver.com Photographer based in korea🇰🇷 Studio @raichee_kitsch
+      🎞Film photographer. 아름다운 날들의 기록. . 📌Don't use all the pictures. If you use it without permission, I'll report it and block it. contact : DM📩
     location: "South Korea"
-    followers: 39883
-    engagement: 775
-    commentsToLikes: 0.011660
-    id: ck0tufuu46z0e0i19iffwlvpo
+    followers: 87947
+    engagement: 1138
+    commentsToLikes: 0.009613
+    id: ck8t1annnv1eb0j78v0erroro
     verified: false
-    hashtags: ""
-  - username: "stefaniemichova"
-    fullname: >-
-      Stefanie Michova
-    bio: >-
-      스테파니 미초바 | 🇩🇪 in Seoul | 꽃신 🇰🇷 • @speeker_official • photographer @michovasfilm • wanna be foodie @wurstmodelever •
-    location: "South Korea"
-    followers: 291674
-    engagement: 753
-    commentsToLikes: 0.007061
-    id: ck14jcse3jov30i19dw556jcs
-    verified: true
-    hashtags: "#dwgiftsoflove, #dwinkorea, #lvparfums, #ck"
+    hashtags: "#leicaminiluxzoom, #fujicolorc200, #kodakgold200, #malgm"
 ---

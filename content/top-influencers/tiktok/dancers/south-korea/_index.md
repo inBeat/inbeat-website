@@ -1,11 +1,11 @@
 ---
-title: Top 10 Dancers TikTok Influencers In South Korea In 2023
+title: Top 10 Dancers TikTok Influencers In South Korea In 2024
 description: >-
-  Find top dancers TikTok influencers in South Korea in 2023. Most popular hashtags: #fyp #dance #dancer #foryou.
+  Find top dancers TikTok influencers in South Korea in 2024. Most popular hashtags: #fyp #dance #dancer #foryou.
 platform: TikTok
-hits: 29
-text_top: Identify the most popular TikTok influencers on inBeat.
-text_bottom: Our search engine has 29 TikTok influencers like this in South Korea for you to work with.
+hits: 30
+text_top: Identify the best TikTok profiles on inBeat.
+text_bottom: Our search engine has 30 TikTok influencers like this in South Korea for you to work with.
 profiles:
   - username: "maroon456"
     fullname: >-

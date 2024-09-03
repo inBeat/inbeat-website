@@ -1,12 +1,96 @@
 ---
-title: Top 10 Bakers Instagram Influencers In Canada In 2023
+title: Top 10 Bakers Instagram Influencers In Canada In 2024
 description: >-
-  Find top bakers Instagram influencers in Canada in 2023. Most popular hashtags: #bakersofinstagram #feedfeed #bakersgonnabake #foodblogfeed.
+  Find top bakers Instagram influencers in Canada in 2024. Most popular hashtags: #bakersofinstagram #cakedecorating #cakestagram.
 platform: Instagram
-hits: 120
-text_top: Discover the best Instagram accounts on inBeat.
-text_bottom: Our search engine aggregates 120 Instagram influencers like this in Canada for you to collaborate.
+hits: 187
+text_top: Analyze the top-rated Instagram accounts on inBeat.
+text_bottom: Our search engine has 187 Instagram influencers like this in Canada for you to work with.
 profiles:
+  - username: "karen.t.ology"
+    fullname: >-
+      Karen T. Gordon | The Prettiest Cookie Packaging
+    bio: >-
+      Baker | Food Writer•Columnist | Cookie Box Designer Home of the Prettiest Packaging Sharing tips to Making Pretty Easy Shop, VIP List ⤵️
+    location: "Canada"
+    followers: 27233
+    engagement: 481
+    commentsToLikes: 0.238425
+    id: ck55jmox7xbz30i11crp0ko33
+    verified: false
+    hashtags: "#smallbusinessowner, #pizzadough, #housebox, #bakersofinstagram"
+  - username: "kara.wagland"
+    fullname: >-
+      Kara Wagland
+    bio: >-
+      • TSN Sportscentre Anchor 🇨🇦 • Host NFL on CTV 🏈 • Mom to Jake👦🏼 & Casey🧒🏻 • Amateur baker w/ semi-pro aspirations🧁 • Likely somewhere golfing 🏌🏼‍♀️
+    location: "Canada"
+    followers: 24275
+    engagement: 369
+    commentsToLikes: 0.054783
+    id: ck8t0k0yxsbkp0j78t67he4fo
+    verified: true
+    hashtags: "#fromscratch, #thisis4, #homebaker, #momlife"
+  - username: "paperain"
+    fullname: >-
+      Dasa Severova
+    bio: >-
+      origami explorer, teacher, jewelry maker, baker, knitter... and a big dreamer!
+    location: "Canada"
+    followers: 15135
+    engagement: 350
+    commentsToLikes: 0.032622
+    id: ckqg5v9udnrhg0j23vsuygl4z
+    verified: false
+    hashtags: "#dasaseverova, #tessellation, #paperain, #paper"
+  - username: "tatummonod"
+    fullname: >-
+      Tatum Monod
+    bio: >-
+      Professional skier, baker of pies, fishing obsessed, wanna be cowgirl
+    location: "Canada"
+    followers: 100119
+    engagement: 281
+    commentsToLikes: 0.011147
+    id: ck0u7cnl24eqj0i19s7o9x13e
+    verified: true
+    hashtags: "#sierraat4, #gmcpartner, #nowasteddays, #canadiantuxedo"
+  - username: "cremedelacombe"
+    fullname: >-
+      Kelsey Lacombe
+    bio: >-
+      🙋🏼‍♀️ Actor, Baker, Grad student 🧁 Cake, Cupcake & Cookie Recipes - GF friendly! 📍Hamilton, ON, Canada ✉️ cremedelacombe@gmail.com
+    location: "Canada"
+    followers: 13206
+    engagement: 167
+    commentsToLikes: 0.132710
+    id: ck5cf9786mi650i11hcafzhax
+    verified: false
+    hashtags: "#cupcakesdecorados, #fnceats, #nobakedessert, #bakeyourworldhappy"
+  - username: "jotiwall"
+    fullname: >-
+      Joti Wall
+    bio: >-
+      ਜੋਤੀ wife, mum to 3, fibre artist, sourdough baker
+    location: "Canada"
+    followers: 71604
+    engagement: 154
+    commentsToLikes: 0.166821
+    id: ckt8qv597693u0j239enx1alo
+    verified: false
+    hashtags: "#sourdough, #postpartumfitness, #sourjo, #fibreartist"
+  - username: "natspencer"
+    fullname: >-
+      Nat | content creator |
+    bio: >-
+      Retired Wedding Photographer. Content Creator, mom, baker, styling + home decor obsessed. Lover of travel, sunshine and dance parties. 🇨🇦 Ottawa
+    location: "Canada"
+    followers: 20488
+    engagement: 110
+    commentsToLikes: 0.134972
+    id: ck14jdmwwjte60i19p4padzew
+    verified: false
+    hashtags: "#coffeelover, #delonghi, #williamssonoma, #paidpartnership"
   - username: "alliegreator"
     fullname: >-
       Allie 🧜🏻‍♀️
@@ -19,30 +103,6 @@ profiles:
     id: ckaou3h2mymq80i78c68gbjsy
     verified: false
     hashtags: ""
-  - username: "cremedelacombe"
-    fullname: >-
-      Kelsey Lacombe
-    bio: >-
-      🙋🏼‍♀️ Toronto based Actor & Baker 🧁 Cake, Cupcake & Cookie Recipes - regular l gf 📍Toronto, ON, Canada ✉️ cremedelacombe@gmail.com
-    location: "Canada"
-    followers: 8863
-    engagement: 356
-    commentsToLikes: 0.129039
-    id: ck5cf9786mi650i11hcafzhax
-    verified: false
-    hashtags: "#pipingflowers, #bakeyourworldhappy, #cremedelacombe, #fnceats"
-  - username: "kara.wagland"
-    fullname: >-
-      Kara Wagland
-    bio: >-
-      • TSN Sportscentre Anchor • Host NFL on CTV • Mom to Jake👦🏼 & Casey👶🏻 • Amateur baker w/ semi-pro aspirations🧁 • Lover of all things HGTV 🏡
-    location: "Canada"
-    followers: 19418
-    engagement: 328
-    commentsToLikes: 0.054725
-    id: ck8t0k0yxsbkp0j78t67he4fo
-    verified: true
-    hashtags: "#fromscratch, #homebaker, #boymom, #thisis4"
   - username: "letterpressbakery"
     fullname: >-
       Kylie Mangles
@@ -66,65 +126,5 @@ profiles:
     commentsToLikes: 0.077002
     id: ckaowqhme9zy80i78r4vv7m2d
     verified: false
-    hashtags: "#wiltoncakes, #cakedecorating, #birthdaycake, #yyclove"
-  - username: "cococakeland"
-    fullname: >-
-      Lyndsay
-    bio: >-
-      🎂Baker, 👵blogger + author of #cococakelandbook! 🌈💕✨ 📍Vancouver, Canada
-    location: "Canada"
-    followers: 98222
-    engagement: 151
-    commentsToLikes: 0.038231
-    id: ck5zvxmin53p10i146b3gyu1h
-    verified: false
-    hashtags: "#vegancake, #plantbasedcake, #cococakelandbook, #plantbased"
-  - username: "smileey.lucy"
-    fullname: >-
-      Lucy📍Toronto Foodie Mommy
-    bio: >-
-      ✨Foodie mom explores & makes deliciousness 👩‍🍳Restaurant | Recipe | Beverage &Drink 🥰DM/Email Collabs 合作🇨🇦GTA Toronto Markham 📧smileey.lucy@gmail.com
-    location: "Canada"
-    followers: 17338
-    engagement: 213
-    commentsToLikes: 0.358781
-    id: ckrvnl3i3ktft0j23oqa3s2mu
-    verified: false
-    hashtags: "#canadianbloggers, #ottawafoodies, #foodto, #homemade"
-  - username: "teakandthyme"
-    fullname: >-
-      gail ✨ baking & desserts
-    bio: >-
-      🍰 making sweet things on the internet 📍vancouver, bc 👇 recipes
-    location: "Canada"
-    followers: 11323
-    engagement: 644
-    commentsToLikes: 0.107061
-    id: ck5zlvdeklg8b0i14rrrf6d2r
-    verified: false
-    hashtags: "#feedfeedbaking, #forkfeed, #bakedfromscratch, #imsomartha"
-  - username: "food.duchess"
-    fullname: >-
-      Food Duchess
-    bio: >-
-      Food Blogger + Recipe Developer + Food Photographer Amie 👑 For business enquires feel free to Email or DM
-    location: "Canada"
-    followers: 86420
-    engagement: 371
-    commentsToLikes: 0.024360
-    id: ck0vzhfkq94a70i19skvy9shk
-    verified: false
-    hashtags: "#cheesecake, #foodphotographer, #imsomartha, #foodfluffer"
-  - username: "herbsandflour"
-    fullname: >-
-      Herbs and Flour | Cathy
-    bio: >-
-      Recipe Developer & Food Photographer 🍴 Made from scratch, simple, & approachable recipes 📩 DM or email for partnership inquiries 📍 Toronto, Ontario
-    location: "Canada"
-    followers: 6032
-    engagement: 407
-    commentsToLikes: 0.450420
-    id: ckaowmjfl9ihh0i78k2y0rxd6
-    verified: false
-    hashtags: "#canadianfoodblogger, #healthyeating, #sidedish, #gardenvegetables"
+    hashtags: "#cakestagram, #buttercream, #cakesofinsta, #simplecake"
 ---

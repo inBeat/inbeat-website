@@ -1,11 +1,11 @@
 ---
-title: Top 10 Travel TikTok Influencers In Finland In 2023
+title: Top 10 Travel TikTok Influencers In Finland In 2024
 description: >-
-  Find top travel TikTok influencers in Finland in 2023. Most popular hashtags: #finland #fyp #suomi #travel.
+  Find top travel TikTok influencers in Finland in 2024. Most popular hashtags: #finland #fyp #suomi #travel.
 platform: TikTok
 hits: 12
-text_top: See the best TikTok accounts on inBeat.
-text_bottom: Our platform holds 12 TikTok influencers like this in Finland for you to contact.
+text_top: Discover the top-rated TikTok accounts on inBeat.
+text_bottom: Our search engine has 12 TikTok influencers like this in Finland for you to connect with.
 profiles:
   - username: "alexandertrivedi"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.040133
     id: cka0ols6h4dn00i78j5a25k9w
     verified: false
-    hashtags: "#diy, #ttsuomi, #tiktoksuomi, #ruokatiktok"
+    hashtags: "#diy, #suomifry, #suomi, #ruokavinkki"
   - username: "visualsofjulius"
     fullname: >-
       Visualsofjulius

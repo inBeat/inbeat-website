@@ -1,11 +1,11 @@
 ---
-title: Top 10 Models TikTok Influencers In Turkey In 2023
+title: Top 10 Models TikTok Influencers In Turkey In 2024
 description: >-
-  Find top models TikTok influencers in Turkey in 2023. Most popular hashtags: #ke #fyp #kesfet.
+  Find top models TikTok influencers in Turkey in 2024. Most popular hashtags: #ke #kesfet #fyp.
 platform: TikTok
 hits: 37
-text_top: Discover the most popular TikTok profiles on inBeat.
-text_bottom: Our database aggregates 37 TikTok influencers like this in Turkey for you to contact.
+text_top: Discover the best TikTok accounts on inBeat.
+text_bottom: Our search engine has 37 TikTok influencers like this in Turkey for you to contact.
 profiles:
   - username: "delimavi_official"
     fullname: >-

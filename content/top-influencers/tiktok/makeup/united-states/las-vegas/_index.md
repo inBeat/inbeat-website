@@ -1,11 +1,11 @@
 ---
-title: Top 10 Makeup TikTok Influencers In Las Vegas In 2023
+title: Top 10 Makeup TikTok Influencers In Las Vegas In 2024
 description: >-
-  Find top makeup TikTok influencers in Las Vegas in 2023. Most popular hashtags: #makeup #fyp #foryou #foryoupage.
+  Find top makeup TikTok influencers in Las Vegas in 2024. Most popular hashtags: #makeup #fyp #foryou #vegas.
 platform: TikTok
-hits: 43
-text_top: Identify the most popular TikTok profiles on inBeat.
-text_bottom: Our database aggregates 43 TikTok influencers like this in Las Vegas, United States for you to contact.
+hits: 44
+text_top: Discover the top-rated TikTok accounts on inBeat.
+text_bottom: Our search engine aggregates 44 TikTok influencers like this in Las Vegas, United States for you to contact.
 profiles:
   - username: "hunnybunsmakeup"
     fullname: >-
@@ -19,18 +19,18 @@ profiles:
     id: ckbkgu99b8bku0j23oseewr38
     verified: false
     hashtags: "#pajamajam, #strikeaposay, #fyp, #zoo"
-  - username: "yuriko.ky"
+  - username: "explore_sd"
     fullname: >-
-      Yuriko KY
+      user7751984492931
     bio: >-
-      Thai living in Cali 🌴 🤍 Follow me on Insta 🤟🏻
+      Sharing my passion for Food 🍱 Beauty💄Fashion 👗 Lifestyle, single mom 👩‍👦‍👦
     location: "United States"
-    followers: 14600
-    engagement: 822
-    commentsToLikes: 0.030226
-    id: ckcelqst3vp4i0j23i1uw9x1x
+    followers: 21300
+    engagement: 560
+    commentsToLikes: 0.077486
+    id: ckcpd8p1mfwz40j233wdcyqu9
     verified: false
-    hashtags: "#asian, #foryou, #foryoupage, #fyp"
+    hashtags: "#sandiegoadventures, #sandiegoblogger, #foodie, #lasvegas"
   - username: "makeupxsteff"
     fullname: >-
       Estef 🦋
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.140217
     id: ckb9forsq4ap30j23r7q5d4by
     verified: false
-    hashtags: "#contentcreator, #makeup, #igtips, #instagramtips"
+    hashtags: "#beauty, #igtips, #makeup, #makeuptutorial"
   - username: "faithtrias"
     fullname: >-
       Faith Anne Trias
@@ -66,7 +66,7 @@ profiles:
     commentsToLikes: 0.089105
     id: ck9vdfprzupy50j7820ula9a3
     verified: false
-    hashtags: "#sayquaynotkway, #foryou, #makemomepic, #maquillaje"
+    hashtags: "#foryou, #makemomepic, #maquillaje, #sayquaynotkway"
   - username: "skeletonkiids"
     fullname: >-
       Jenny
@@ -102,7 +102,7 @@ profiles:
     commentsToLikes: 0.010057
     id: ck9fmallys3810j78tozkgj3a
     verified: false
-    hashtags: "#foryou, #makeup, #fyp, #foru"
+    hashtags: "#fyp, #foru, #makeup, #foryou"
   - username: "flash_production2"
     fullname: >-
       flash_production2
@@ -114,7 +114,7 @@ profiles:
     commentsToLikes: 0.015411
     id: ck90xysxy8kau0j78gwwflawx
     verified: false
-    hashtags: "#vegas, #nyc, #model, #lips"
+    hashtags: "#photoshoot, #lips, #model, #vegas"
   - username: "andreipawluk"
     fullname: >-
       Andrei Pawluk

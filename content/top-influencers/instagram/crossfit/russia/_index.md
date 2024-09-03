@@ -1,11 +1,11 @@
 ---
-title: Top 10 Crossfit Instagram Influencers In Russia In 2023
+title: Top 10 Crossfit Instagram Influencers In Russia In 2024
 description: >-
-  Find top crossfit Instagram influencers in Russia in 2023. Most popular hashtags: #crossfit #reebokrussia #reebok.
+  Find top crossfit Instagram influencers in Russia in 2024. Most popular hashtags: #reebokrussia #crossfit #reebok.
 platform: Instagram
-hits: 77
-text_top: Identify the top-rated Instagram accounts on inBeat.
-text_bottom: inBeat holds 77 Instagram influencers like this in Russia for you to work with.
+hits: 78
+text_top: Analyze the best Instagram influencers on inBeat.
+text_bottom: inBeat aggregates 78 Instagram influencers like this in Russia for you to pitch.
 profiles:
   - username: "stavnicha_dasha"
     fullname: >-

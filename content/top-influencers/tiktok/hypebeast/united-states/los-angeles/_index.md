@@ -1,24 +1,24 @@
 ---
-title: Top 10 Hypebeast TikTok Influencers In Los Angeles In 2023
+title: Top 10 Hypebeast TikTok Influencers In Los Angeles In 2024
 description: >-
-  Find top hypebeast TikTok influencers in Los Angeles in 2023. Most popular hashtags: #fyp #foryou #losangeles #hypebeast.
+  Find top hypebeast TikTok influencers in Los Angeles in 2024. Most popular hashtags: #fyp #foryou #losangeles #hypebeast.
 platform: TikTok
 hits: 9
-text_top: See the most popular TikTok accounts on inBeat.
-text_bottom: Our platform has 9 TikTok influencers like this in Los Angeles, United States for you to work with.
+text_top: Discover the top-rated TikTok influencers on inBeat.
+text_bottom: inBeat aggregates 9 TikTok influencers like this in Los Angeles, United States for you to work with.
 profiles:
   - username: "nohoesyorsh"
     fullname: >-
-      abovetherimhoops
+      yorsh
     bio: >-
       professional failure
     location: "United States"
-    followers: 6017
-    engagement: 1609
-    commentsToLikes: 0.091755
+    followers: 5958
+    engagement: 1081
+    commentsToLikes: 0.045068
     id: ckbf7fig4xba20j23d29435oq
     verified: false
-    hashtags: "#sneakers, #kicks, #lakers, #basketball"
+    hashtags: "#shoes, #basketball, #sneakerhead, #nba"
   - username: "ithinkmylifeisadream"
     fullname: >-
       mim1018
@@ -85,12 +85,12 @@ profiles:
     bio: >-
       MIAMI insta: @mikaylallen
     location: "United States"
-    followers: 4608
-    engagement: 662
-    commentsToLikes: 0.027874
+    followers: 5021
+    engagement: 686
+    commentsToLikes: 0.029306
     id: ckbkrb0xxlze80j23emo76khk
     verified: false
-    hashtags: "#newportbeach, #foryou, #miami, #fyp"
+    hashtags: "#miami, #disneyworld, #foryou, #fyp"
   - username: "shugzaddy"
     fullname: >-
       Edgar Rodriguez
@@ -102,7 +102,7 @@ profiles:
     commentsToLikes: 0.044171
     id: ckahyja4czksg0i788ckn9t3p
     verified: false
-    hashtags: "#viral, #sunday, #money, #bored"
+    hashtags: "#california, #follow, #rap, #funny"
   - username: "streetgoderic"
     fullname: >-
       Eric Ortega

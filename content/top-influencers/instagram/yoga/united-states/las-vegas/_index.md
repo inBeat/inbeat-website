@@ -1,11 +1,11 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Las Vegas In 2023
+title: Top 10 Yoga Instagram Influencers In Las Vegas In 2024
 description: >-
-  Find top yoga Instagram influencers in Las Vegas in 2023. Most popular hashtags: #yoga #lasvegas #photography #flexibility.
+  Find top yoga Instagram influencers in Las Vegas in 2024. Most popular hashtags: #yoga #lasvegas #flexibility #photography.
 platform: Instagram
-hits: 45
-text_top: Identify the top-rated Instagram accounts on inBeat.
-text_bottom: Our database aggregates 45 Instagram influencers like this in Las Vegas, United States for you to connect with.
+hits: 58
+text_top: Identify the top-rated Instagram profiles on inBeat.
+text_bottom: Our search engine aggregates 58 Instagram influencers like this in Las Vegas, United States for you to collaborate.
 profiles:
   - username: "deilgin"
     fullname: >-
@@ -43,6 +43,30 @@ profiles:
     id: ck6uh92im7qky0j71kc1hk8jc
     verified: false
     hashtags: "#fit, #redhead, #fitness, #yoga"
+  - username: "reneechoiphotography"
+    fullname: >-
+      Renee Choi
+    bio: >-
+      NYC based movement photographer for everyone. #yogaphotography #contortion #dancephotography #nycphotographer 200 hr YTT & I practice yoga ❤️
+    location: "United States"
+    followers: 66399
+    engagement: 108
+    commentsToLikes: 0.031659
+    id: ck0txbv6jiniy0i195xr15fvo
+    verified: false
+    hashtags: "#circuseverydamnday, #strengthandflexibility, #contortion, #contortionist"
+  - username: "andrii_bondarenko"
+    fullname: >-
+      Andrii Bondarenko
+    bio: >-
+      📍Currently in Las Vegas at @absinthe_vegas For handstand lessons📩 STOP WAR IN UKRAINE 🇺🇦 #stoprussianaggression #славаукраїні
+    location: "United States"
+    followers: 174793
+    engagement: 136
+    commentsToLikes: 0.014566
+    id: ck139ozy5meya0i19hegq2vhn
+    verified: false
+    hashtags: "#gymnastics, #gymnasticsshoutouts, #calisthenics, #handstandonline"
   - username: "contoulzii"
     fullname: >-
       Ulziibayar Chimed-Sahagun
@@ -67,18 +91,6 @@ profiles:
     id: ckap3j5ko37pl0i78h7pg4w53
     verified: false
     hashtags: "#texas, #ifbbpro, #texans, #love"
-  - username: "jeffprovenzano"
-    fullname: >-
-      Jeff Provenzano
-    bio: >-
-      🐒🪂@redbull 🌎Traveler 🙏Fitness/Health
-    location: "United States"
-    followers: 77501
-    engagement: 155
-    commentsToLikes: 0.019313
-    id: ck13asumts0hb0i19uc0jaod7
-    verified: true
-    hashtags: "#skydiving, #adventure, #outdoors, #skydive"
   - username: "thereal_jessicarabbit"
     fullname: >-
       
@@ -102,19 +114,7 @@ profiles:
     commentsToLikes: 0.078600
     id: ck8t80mraio780j78bz4dw8no
     verified: false
-    hashtags: "#csectionmama, #doseofwellness, #flowwithshreya, #throwbackthursday"
-  - username: "overthemoonmom"
-    fullname: >-
-      C H R I S T I A N
-    bio: >-
-      ↠mommy to hudson & hayes ↠i’m a cool boy mom ✌🏼 ↠ traveler↠teacher ↠dreamer☼ ↠desert dweller 🌵 ↠las vegas☼
-    location: "United States"
-    followers: 21878
-    engagement: 285
-    commentsToLikes: 0.112190
-    id: ck0tvcidhau3e0i19897z480f
-    verified: false
-    hashtags: "#ad, #letthembelittle, #boymom, #vegasmom"
+    hashtags: "#doseofwellness, #vbac, #throwbackthursday, #csectionmama"
   - username: "duotranscend"
     fullname: >-
       Mary And Tyce
@@ -126,5 +126,5 @@ profiles:
     commentsToLikes: 0.162240
     id: ck5cc3vjigo3m0i11hlq1dine
     verified: true
-    hashtags: "#aerialist, #swolemates, #momstyle, #mobility"
+    hashtags: "#mobility, #gymshark, #marriedlife, #fitmomsofig"
 ---

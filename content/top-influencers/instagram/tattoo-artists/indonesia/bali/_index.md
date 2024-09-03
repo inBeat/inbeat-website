@@ -1,11 +1,11 @@
 ---
-title: Top 10 Tattoo-Artists Instagram Influencers In Bali In 2023
+title: Top 10 Tattoo-Artists Instagram Influencers In Bali In 2024
 description: >-
-  Find top tattoo-artists Instagram influencers in Bali in 2023. Most popular hashtags: #bali #tattoo #tattoos #indonesia.
+  Find top tattoo-artists Instagram influencers in Bali in 2024. Most popular hashtags: #bali #tattoo #indonesia #tattoos.
 platform: Instagram
-hits: 10
-text_top: Identify the most popular Instagram profiles on inBeat.
-text_bottom: Our search engine has 10 Instagram influencers like this in Bali, Indonesia for you to work with.
+hits: 12
+text_top: See the best Instagram profiles on inBeat.
+text_bottom: inBeat holds 12 Instagram influencers like this in Bali, Indonesia for you to pitch.
 profiles:
   - username: "magicinkmagz"
     fullname: >-
@@ -19,18 +19,18 @@ profiles:
     id: ck5zyuv2rakn90i14tmbgjhrq
     verified: false
     hashtags: "#blackworkerssubmission, #magicinkmagz, #jogjatattoo, #tattoo"
-  - username: "hendricshinigami"
+  - username: "bali_kreatif"
     fullname: >-
-      Hendric Shinigami
+      BALI KREATIF
     bio: >-
-      @wijasoju Consultation & Reservation : @hendricshinigamibali @hendricshinigamijakarta 🔴 My Official Video Channel
+      Follow&Tag : @bali_kreatif Hastag : #balikreatif #bali_kreatif IKLAN? / Free Media Partner DM Since 2017
     location: "Indonesia"
-    followers: 286695
-    engagement: 147
-    commentsToLikes: 0.011289
-    id: ckap4ioyx7jv00i787fc6a2tg
-    verified: true
-    hashtags: "#tattooed, #hendricshinigami, #eternalink, #prophetsandpoets"
+    followers: 55480
+    engagement: 64
+    commentsToLikes: 0.005994
+    id: ck14i0vkpd3vd0i19rzsc3ne9
+    verified: false
+    hashtags: "#bali, #taksualit, #arttaksu, #sketch"
   - username: "bubulsadi_"
     fullname: >-
       ⛥BSOFFICIAL⛥
@@ -79,6 +79,18 @@ profiles:
     id: ck5q8722o4qtm0i11stmpty6f
     verified: false
     hashtags: "#keepitreal, #indonesianrap, #bali, #goldvoice"
+  - username: "hendricshinigami"
+    fullname: >-
+      Hendric Shinigami
+    bio: >-
+      Consultation & Reservation: @hendricshinigamibali @hendricshinigamijakarta BA @wijasoju Business Inquiries / Promotes 📩 🔴 Official Video Channel
+    location: "Indonesia"
+    followers: 310213
+    engagement: 145
+    commentsToLikes: 0.007737
+    id: ckap4ioyx7jv00i787fc6a2tg
+    verified: true
+    hashtags: "#inkjunkeyz, #tattooistartmagazine, #evolvedmag, #tattoolifemagazine"
   - username: "bohemien.chic"
     fullname: >-
       BohoChic
@@ -103,28 +115,16 @@ profiles:
     id: ck1392fb5j6hr0i19hv5tejaw
     verified: false
     hashtags: "#filmmaking, #baltistan, #birmingham, #skardu"
-  - username: "rarindra_prakarsa"
+  - username: "ink_pray_love"
     fullname: >-
-      Rarindra Prakarsa
+      Aren Jeet Singh Bahia
     bio: >-
-      Hi from INDONESIA. Currently conduct tutorial with Zoom. Check my web rarindraprakarsa.com PRINTS: yellowkorner.com/id-en/artists/rarindraprakarsa
+      Coach | Speaker | Podcaster @karmahousebali @consciousartstattoos @lighthouse.studios.bali @chai.bar.ubud @karmahousedance @the_yogi_lab 📍Bali
     location: "Indonesia"
-    followers: 70101
-    engagement: 660
-    commentsToLikes: 0.037273
-    id: ck14gkqod5p8a0i19wo7e793c
+    followers: 58156
+    engagement: 48
+    commentsToLikes: 0.097196
+    id: ck5q8t0fn7umz0i116brxd5ce
     verified: false
-    hashtags: "#portrait, #childhood, #portraitphotography, #bali"
-  - username: "titik.balik"
-    fullname: >-
-      Titik Balik
-    bio: >-
-      Artwork for sale | Stippling art by @gelarprakosa 📍Based in Indonesia
-    location: "Indonesia"
-    followers: 71
-    engagement: 455856
-    commentsToLikes: 0.019016
-    id: ck5q9zkkhdsyc0i11aluwy8aj
-    verified: false
-    hashtags: ""
+    hashtags: "#infographic, #personaldevelopment, #mindset, #bali"
 ---

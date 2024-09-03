@@ -1,12 +1,72 @@
 ---
-title: Top 10 Photographers Instagram Influencers In Colombia In 2023
+title: Top 10 Photographers Instagram Influencers In Colombia In 2024
 description: >-
-  Find top photographers Instagram influencers in Colombia in 2023. Most popular hashtags: #publicidad #love #photoshoot.
+  Find top photographers Instagram influencers in Colombia in 2024. Most popular hashtags: #photography #photooftheday #publicidad.
 platform: Instagram
-hits: 98
-text_top: Analyze the most popular Instagram influencers on inBeat.
-text_bottom: Our search engine aggregates 98 Instagram influencers like this in Colombia for you to connect with.
+hits: 100
+text_top: Discover the best Instagram accounts on inBeat.
+text_bottom: Our search engine aggregates 100 Instagram influencers like this in Colombia for you to pitch.
 profiles:
+  - username: "sebassorera"
+    fullname: >-
+      Sebastian Sorera
+    bio: >-
+      Wildlife Photographer and Visual Storyteller Director of Photography at @barracofilmspy Asuncion, Paraguay
+    location: "Colombia"
+    followers: 15378
+    engagement: 459
+    commentsToLikes: 0.046864
+    id: ckap5qsu7crrw0i78i3ayet4m
+    verified: false
+    hashtags: "#natgeo, #bbcwildlifepotd, #nature, #wildlife"
+  - username: "luisaeloisa_"
+    fullname: >-
+      Luisa Castellanos Ramírez
+    bio: >-
+      Creative director @eloisastudio 🏹💘 Fashion and textile illustrator 🔭 amateur photographer and comedian 📷🤹‍♀️
+    location: "Colombia"
+    followers: 30134
+    engagement: 391
+    commentsToLikes: 0.020521
+    id: ck5q43j9anlkq0i11ewe45obm
+    verified: false
+    hashtags: "#fashionillustration, #illustrateddoris, #fashion, #fashiondrawing"
+  - username: "emmanuelsmonsalve"
+    fullname: >-
+      Emmanuel Sanchez Monsalve
+    bio: >-
+      Photographer | NY | Colombian-American
+    location: "Colombia"
+    followers: 48346
+    engagement: 274
+    commentsToLikes: 0.039155
+    id: ck13d0ffm31or0i19usl87u4o
+    verified: false
+    hashtags: "#rupaulsdragrace"
+  - username: "juanmoore"
+    fullname: >-
+      Juan Moore
+    bio: >-
+      The person behind @elojodejuan Fashion photographer & visual storyteller @adidasoriginals Ambassador @diageo & @sonos advocate currently in BOG📍
+    location: "Colombia"
+    followers: 57062
+    engagement: 164
+    commentsToLikes: 0.025548
+    id: ck0tvdgamayqw0i19yruu8548
+    verified: false
+    hashtags: "#elojodejuan, #creadoconadidas, #adicolor, #vistetedecolombia"
+  - username: "paulabaset"
+    fullname: >-
+      Paula Baset
+    bio: >-
+      Paula Fernández 📩 pausfdez@hotmail.com Art work @paulabasetart Freelance Photographer @paulabasetfoto Stylist, Art Director 🫶 👩🏼‍🍳 Amateur -
+    location: "Colombia"
+    followers: 51339
+    engagement: 22
+    commentsToLikes: 0.004982
+    id: ck55nwejy74sj0i11f9rkmvfb
+    verified: false
+    hashtags: "#outfitpost, #sundayvibes, #lookcasual, #haul"
   - username: "davidvisuals_ph"
     fullname: >-
       David Pinilla
@@ -21,16 +81,16 @@ profiles:
     hashtags: "#tips, #tipsfoto, #vivov20, #ma"
   - username: "svaleroph"
     fullname: >-
-      Sebastián Valero 📸
+      Sebas Valero 📸
     bio: >-
       1996 🇨🇴 Bucaramanga📍 Photographer | Filmmaker | Travel 🌵 Collabs | Business: svaleroph@gmail.com 📩
     location: "Colombia"
-    followers: 93147
-    engagement: 229
-    commentsToLikes: 0.173254
+    followers: 86427
+    engagement: 121
+    commentsToLikes: 0.185442
     id: ck0w0jepsehxe0i19k4z4vl9c
     verified: false
-    hashtags: "#realmeserie7, #publicidad, #realme7pro, #ad"
+    hashtags: "#realmeserie7, #realme7pro, #publicidad, #apagaelruido"
   - username: "hqpola"
     fullname: >-
       ✖️•🌻 ραυℓα αndreα αrιαѕ 🌻•✖️
@@ -55,18 +115,6 @@ profiles:
     id: ck13brezzwt8e0i19e96zobx1
     verified: false
     hashtags: "#twitchargentina, #twitchlatam, #mardelplata, #lachilena"
-  - username: "juanmoore"
-    fullname: >-
-      Juan Moore
-    bio: >-
-      Fashion photographer & mobile storyteller @adidasoriginals Ambassador Inf. Mixologist at @diageo Currently in MDE📍 @elojodejuan x @thecolabproject
-    location: "Colombia"
-    followers: 41829
-    engagement: 262
-    commentsToLikes: 0.017734
-    id: ck0tvdgamayqw0i19yruu8548
-    verified: false
-    hashtags: "#patrocinadoporvivo, #publicidad, #elojodejuan, #conmoderaci"
   - username: "davidsuarezph"
     fullname: >-
       David  Suárez
@@ -79,52 +127,4 @@ profiles:
     id: ck0tzalmvprou0i198dkxko9w
     verified: false
     hashtags: "#28"
-  - username: "fabianarenare"
-    fullname: >-
-      Fabiana Arenare
-    bio: >-
-      high spirit // creative soul // art & fashion junkie dummy photographer @fabianarenareph
-    location: "Colombia"
-    followers: 10277
-    engagement: 550
-    commentsToLikes: 0.054221
-    id: ck6tnsws2aic60j717tws3fj3
-    verified: false
-    hashtags: "#cloudiastuff"
-  - username: "daniel.nef"
-    fullname: >-
-      Daniel Mena
-    bio: >-
-      Lifestyle Photographer 👨🏽‍💻 For song submits go to @menasaurio22
-    location: "Colombia"
-    followers: 8866
-    engagement: 793
-    commentsToLikes: 0.020981
-    id: ck0w4snf207ra0i19pngg6q0w
-    verified: false
-    hashtags: "#pursuitofportraits, #moodygrams, #marcosalberca, #moodygram"
-  - username: "juanmabanqueth"
-    fullname: >-
-      Juan Manuel Banqueth Avila
-    bio: >-
-      Colombian photographer and video producer based in NYC 📷: @banqueth_photo 📍 New York City
-    location: "Colombia"
-    followers: 6639
-    engagement: 796
-    commentsToLikes: 0.062667
-    id: ck5hrlbknv1yv0i112rmqbf4x
-    verified: false
-    hashtags: "#happiness, #beard, #beach, #bear"
-  - username: "emmanuelsmonsalve"
-    fullname: >-
-      Emmanuel Sanchez Monsalve
-    bio: >-
-      Photographer | NY | Colombian-American
-    location: "Colombia"
-    followers: 27361
-    engagement: 233
-    commentsToLikes: 0.023972
-    id: ck13d0ffm31or0i19usl87u4o
-    verified: false
-    hashtags: ""
 ---

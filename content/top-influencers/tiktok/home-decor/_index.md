@@ -1,11 +1,11 @@
 ---
-title: Top 10 Home Decor TikTok Influencers In 2023
+title: Top 10 Home Decor TikTok Influencers In 2024
 description: >-
-  Find top home decor TikTok influencers in 2023. Most popular hashtags: #homedecor #fyp #diy #tiktokartists.
+  Find top home decor TikTok influencers in 2024. Most popular hashtags: #homedecor #diy #fyp #keepingitcute.
 platform: TikTok
-hits: 1398
-text_top: See the top-rated TikTok influencers on inBeat.
-text_bottom: Our platform has 1398 TikTok influencers like this for you to work with.
+hits: 1400
+text_top: Analyze the most popular TikTok profiles on inBeat.
+text_bottom: Our search engine has 1400 TikTok influencers like this for you to contact.
 profiles:
   - username: "jessiethomasdesigns"
     fullname: >-
@@ -55,6 +55,18 @@ profiles:
     id: ck9jx7z8izm9z0j78gjwscigi
     verified: false
     hashtags: "#creative, #handmadewithlove, #crafts, #bohodecor"
+  - username: "katherinandreas"
+    fullname: >-
+      Katherin Andreas
+    bio: >-
+      DIY•Lifestyle•Home Decor 8K by August? 📍MD 🦀 Katherinandreashop@gmail.com
+    location: "United States"
+    followers: 8054
+    engagement: 293
+    commentsToLikes: 0.033588
+    id: ckbqgzag229rq0j232a37dnv3
+    verified: false
+    hashtags: "#minivlog, #crafts, #maryland, #dogmom"
   - username: "homeluxury.no1"
     fullname: >-
       Home Design & Decor
@@ -78,7 +90,7 @@ profiles:
     commentsToLikes: 0.419208
     id: ckbqkkx6y5n990j23hw4tlvs5
     verified: false
-    hashtags: "#xyzbca, #fyp, #zoe, #healthyliving"
+    hashtags: "#curlscheck, #canthisgetonthefyp, #hiddentalents, #heartbreak"
   - username: "noes.palace"
     fullname: >-
       Noe Kane
@@ -115,16 +127,4 @@ profiles:
     id: ckdc8vpuki8id0j23bu3m3zkb
     verified: false
     hashtags: "#selfcareroutine, #oc, #duets, #cat"
-  - username: "recyclingrandy"
-    fullname: >-
-      Randy James
-    bio: >-
-      Guess who’s back!? Account was hacked/banned for 3 weeks! Back with more content
-    location: "United States"
-    followers: 79200
-    engagement: 1784
-    commentsToLikes: 0.078674
-    id: ck81qyg6fky730j78kx9ipiqh
-    verified: false
-    hashtags: "#dapper, #teacher, #bowtie, #recycle"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Gaming TikTok Influencers In Colombia In 2023
+title: Top 10 Gaming TikTok Influencers In Colombia In 2024
 description: >-
-  Find top gaming TikTok influencers in Colombia in 2023. Most popular hashtags: #parati #fyp #foryou #gaming.
+  Find top gaming TikTok influencers in Colombia in 2024. Most popular hashtags: #parati #fyp #foryou #viral.
 platform: TikTok
 hits: 15
-text_top: Analyze the top-rated TikTok profiles on inBeat.
-text_bottom: Our database aggregates 15 TikTok influencers like this in Colombia for you to contact.
+text_top: Analyze the top-rated TikTok accounts on inBeat.
+text_bottom: Our database aggregates 15 TikTok influencers like this in Colombia for you to pitch.
 profiles:
   - username: "juanitogamesff"
     fullname: >-

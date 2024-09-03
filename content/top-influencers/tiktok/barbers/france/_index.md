@@ -1,11 +1,11 @@
 ---
-title: Top 10 Barbers TikTok Influencers In France In 2023
+title: Top 10 Barbers TikTok Influencers In France In 2024
 description: >-
-  Find top barbers TikTok influencers in France in 2023. Most popular hashtags: #barber #pourtoi #foryou #paris.
+  Find top barbers TikTok influencers in France in 2024. Most popular hashtags: #barber #pourtoi #foryou #paris.
 platform: TikTok
 hits: 30
-text_top: Identify the top-rated TikTok profiles on inBeat.
-text_bottom: Our search engine aggregates 30 TikTok influencers like this in France for you to contact.
+text_top: Discover the best TikTok accounts on inBeat.
+text_bottom: inBeat aggregates 30 TikTok influencers like this in France for you to work with.
 profiles:
   - username: "jordan_0fficiel"
     fullname: >-
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.005759
     id: ck81s0q56p6c10j78evtm8nwn
     verified: false
-    hashtags: "#transformation, #barber, #pourtoi, #coiffure"
+    hashtags: "#humour, #barberlife, #inoxtag, #barber"
   - username: "mieldur"
     fullname: >-
       Mich Mich

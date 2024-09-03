@@ -1,11 +1,11 @@
 ---
-title: Top 10 Painters TikTok Influencers In 2023
+title: Top 10 Painters TikTok Influencers In 2024
 description: >-
-  Find top painters TikTok influencers in 2023. Most popular hashtags: #fyp #painting #arttiktok #art.
+  Find top painters TikTok influencers in 2024. Most popular hashtags: #fyp #arttiktok #painting #art.
 platform: TikTok
-hits: 1934
-text_top: Discover the most popular TikTok accounts on inBeat.
-text_bottom: Our database holds 1934 TikTok influencers like this for you to collaborate.
+hits: 1932
+text_top: Analyze the best TikTok profiles on inBeat.
+text_bottom: inBeat holds 1932 TikTok influencers like this for you to connect with.
 profiles:
   - username: "ibisprocreatestar"
     fullname: >-
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.065396
     id: ck7zoz8hjmma80j78y8qws3x7
     verified: false
-    hashtags: "#danganronpa, #toko, #anime, #cosplay"
+    hashtags: "#cosplayartist, #genicidersyo, #tokofuwaka, #toko"
   - username: "vanessahorabuena"
     fullname: >-
       Vanessa Horabuena
@@ -102,7 +102,7 @@ profiles:
     commentsToLikes: 0.046729
     id: ckcekqws1u9180j231anphsw7
     verified: false
-    hashtags: "#skypainting, #paintmixing, #oilpaintingsoftiktok, #oilpainter"
+    hashtags: "#oilpaintingsoftiktok, #oilpainting, #oilpainters, #oilpaintingtechniques"
   - username: "basicpainter01"
     fullname: >-
       ℙ𝕒𝕚𝕟𝕥𝕖𝕣--•☾

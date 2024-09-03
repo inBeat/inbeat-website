@@ -1,130 +1,130 @@
 ---
-title: Top 10 Athletes Instagram Influencers In India In 2023
+title: Top 10 Athletes Instagram Influencers In India In 2024
 description: >-
-  Find top athletes Instagram influencers in India in 2023. Most popular hashtags: #reels #reelsinstagram #feelkaroreelkaro.
+  Find top athletes Instagram influencers in India in 2024. Most popular hashtags: #fitness #workout #instagram #fitnessmotivation.
 platform: Instagram
-hits: 217
-text_top: Analyze the best Instagram accounts on inBeat.
-text_bottom: Our platform holds 217 Instagram influencers like this in India for you to contact.
+hits: 276
+text_top: Identify the top-rated Instagram accounts on inBeat.
+text_bottom: Our database aggregates 276 Instagram influencers like this in India for you to collaborate.
 profiles:
-  - username: "scoutop"
+  - username: "erikbarsi_sw"
     fullname: >-
-      sc0ut
+      Erik Barsi
     bio: >-
-      Tanmay Singh Its not the destination its the journey ❤️ Athlete @monsterenergy Managed by - @8bit_thug @8bit_creatives @getloconow
+      #barsimode Professional Athlete | Trainer | W.R holder Coaching Online🇮🇹|🇬🇧 send Dm📩 Join the Barsimode Workouts⬇️
     location: "India"
-    followers: 3601096
-    engagement: 640
-    commentsToLikes: 0.003872
-    id: ck8t6r3z4egug0j782pt4fk9m
-    verified: true
-    hashtags: "#scoutop, #bgmi, #esports, #valorant"
-  - username: "ujjwalgamer"
-    fullname: >-
-      Ujjwal Chaurasia-Techno Gamerz
-    bio: >-
-      ➤ Gamer, Streamer & Entertainer ➤ @redbull Athlete ➤ Twitter: @UjjwalGamer
-    location: "India"
-    followers: 2416704
-    engagement: 730
-    commentsToLikes: 0.009607
-    id: cl4f69d5iq73g0i23w0huha6b
+    followers: 272542
+    engagement: 831
+    commentsToLikes: 0.009459
+    id: ck9hboq1lhsda0j78ipung0d0
     verified: false
-    hashtags: "#technogamerz, #ujjwalgamer, #singapore, #collab"
-  - username: "hamidbarkzi07"
+    hashtags: "#mystyle, #pushup, #fitness, #pushups"
+  - username: "vashu_jain_"
     fullname: >-
-      Hamid Barkzi
+      Vashu Jain
     bio: >-
-      25 Model & Athlete Winner- @mtvroadies Roadies Revolution 🏆 They call me the strongest underdog💪🏻 For queries- Kriti@chtrbox.com 📍- Delhi, Mumbai
+      MTV Roadies KARM YA KAAND WINNER MULTI TALENT COMBAT🚩 ATHLETE|Fighter|CrazyMinded⚠️ Actor🎬 NOT JUST A COMMON GUY 🌟
     location: "India"
-    followers: 280677
-    engagement: 1415
-    commentsToLikes: 0.004434
-    id: ck8t8sn2wlne60j78piejd277
+    followers: 105878
+    engagement: 1532
+    commentsToLikes: 0.015187
+    id: ck5pwbll3m1x00i11njswt9mz
     verified: false
-    hashtags: "#roadiesrevolution, #reels, #reelitfeelit, #pyaarsamundarpaar"
-  - username: "ashiquekuruniyan22"
+    hashtags: "#workout, #fitnessmotivation, #workoutmotivation, #instagood"
+  - username: "rubaldhankar"
     fullname: >-
-      Ashique Kuruniyan
+      Rubal Dhankar
     bio: >-
-      Professional footballer @bengalurufc Indian football team 🇮🇳 Keralite- @Nike athlete Managed by @quantumsportss
+      Proud Founder @officialaestheticindians Roadies X4 | YouTuber| Content Creator | Athlete 🥤Fuelled by @avvatarindia
     location: "India"
-    followers: 163426
-    engagement: 1910
-    commentsToLikes: 0.013533
-    id: ck6tmmwy985070j71nd5h7bhp
-    verified: true
-    hashtags: "#bfchfc, #fcgbfc, #backonourfeet, #wearebfc"
-  - username: "ranirampal4"
-    fullname: >-
-      Rani Rampal
-    bio: >-
-      Captain, Indian Women Hockey Team |Dhyanchand Khel Ratna Award | Arjuna Award | World Games Athlete of the Year 2020 Email- rani.rampal94@gmail.com
-    location: "India"
-    followers: 95151
-    engagement: 929
-    commentsToLikes: 0.010277
-    id: ck6udl0wflp4h0j71dtdwv316
-    verified: true
-    hashtags: "#proud, #blessed, #repost, #tokyoolympics"
-  - username: "arpinder_"
-    fullname: >-
-      Arpinder Singh
-    bio: >-
-      🇮🇳 Indian athlete 🏃 Triple jumper PB 17.17mts 🥉 CWG2014 Bronze Medalist 🥇Asian games 2018 gold medalist 👻 Snapchat : ArpinderSingh1
-    location: "India"
-    followers: 41803
-    engagement: 1321
-    commentsToLikes: 0.013241
-    id: ck6tyzeh46qzv0j71bqgfu7u5
-    verified: true
-    hashtags: "#trainingdiaries, #proudmoment, #varkalacliff, #india"
-  - username: "wasimkhanjk"
-    fullname: >-
-      Wasim Khan peoples champ
-    bio: >-
-      ALLAH IS GREATEST OF ALL 🎗️Brand Athlete @internationalprotein.in 🏆M.R KASHMIR no 2017 🥇Mr Gore Classic From Delhi 🥇Mr North Indian gold Chandigarh
-    location: "India"
-    followers: 9392
-    engagement: 894
-    commentsToLikes: 0.042031
-    id: ckap4c9m46p2f0i78jyutrnj9
+    followers: 1167393
+    engagement: 674
+    commentsToLikes: 0.008027
+    id: ck5bwccf2lf0z0i11gvfm7lfw
     verified: false
-    hashtags: ""
-  - username: "neeraj____chopra"
+    hashtags: "#fitnessmodel, #gymlife, #quotes, #love"
+  - username: "_mr.lift_"
     fullname: >-
-      Neeraj Chopra
+      BAJIO MJ | _ MR LIFT_ 🧿
     bio: >-
-      Indian Athlete 🇮🇳 Track & Field. Javelin thrower
+      🇮🇳🇦🇪🇴🇲 Fitness athlete 🏅 Reps Level 4 certified trainer 📚 DM for coaching enquiries GYM |ONLINE COACHING FITNESS, NUTRITION, MINDSET Carpediem!
     location: "India"
-    followers: 68252
-    engagement: 1661
-    commentsToLikes: 0.010337
-    id: ck6tyzc9z6qla0j71nvjss368
-    verified: true
-    hashtags: "#oldmemories, #inspiredbypassion, #proudlyindian, #olympicday"
-  - username: "shabeer_gild"
-    fullname: >-
-      Shabeer.gild
-    bio: >-
-      Professional freestyle sportbike stunt athlete @z__bikes @team_rdx_mangalore
-    location: "India"
-    followers: 6842
-    engagement: 1097
-    commentsToLikes: 0.016598
-    id: ck8t79yydg2p30j78q2k8n3td
+    followers: 29193
+    engagement: 788
+    commentsToLikes: 0.045108
+    id: ck5bxozj1o4yt0i11db31niyo
     verified: false
-    hashtags: "#instagramreels, #ktm, #motocross, #reels"
-  - username: "tanvishah91"
+    hashtags: "#workout, #bodybuilding, #instagram, #mrliftthings"
+  - username: "aadi.nagar"
     fullname: >-
-      Tanvi Shah
+      AADI NAGAR
     bio: >-
-      Ex Pro 🎾 athlete turned lifestyle & sports presenter, sports agent. You’ll find me where the food is. 📧 for partnerships/work
+      Youtuber | Influencer | Fitness Athlete - @myproteinin USE CODE : AADI Collaboration: Adeshnagar56@gmail.com Myprotein Discount Upto 60%
     location: "India"
-    followers: 61096
-    engagement: 247
-    commentsToLikes: 0.041192
-    id: ck6uawsu564kz0j71qpu7aak1
+    followers: 752812
+    engagement: 600
+    commentsToLikes: 0.005291
+    id: ck9hczyhknlys0j7828988160
+    verified: false
+    hashtags: "#gujjar, #aadinagar, #attitude, #fitness"
+  - username: "joravar_singh1"
+    fullname: >-
+      JORAVAR SINGH KALSI
+    bio: >-
+      385k Subscribes on YouTube Email AT Joravarkalsi01@gmail.com Athlete @bigmuscles_nutrition MGMT @sparkupreach
+    location: "India"
+    followers: 347136
+    engagement: 1433
+    commentsToLikes: 0.008289
+    id: ck0ud1v95i7ud0i197cz03exe
+    verified: false
+    hashtags: "#trendingreels, #motivation, #joravarsinghkalsi, #fitness"
+  - username: "wazid_mtbfreestyle"
+    fullname: >-
+      Sheikh Wazid Ali
+    bio: >-
+      Pro MTB freestyle athlete 🚴 YouTuber 🇮🇳 1.7 MILLION Best in the game 🔝 @teaminfinityriderzz @gopro @redbull @hyperice Paid collabs 📩 Subscribe👇
+    location: "India"
+    followers: 99481
+    engagement: 2222
+    commentsToLikes: 0.009078
+    id: ck5zm5wjslykp0i14893sgkii
+    verified: false
+    hashtags: "#bikes, #cyclinglife, #viral, #reels"
+  - username: "tejasyadavv"
+    fullname: >-
+      Tejas Yadav
+    bio: >-
+      📚 ECONOMIST Youtube : 650K 📩 Business: tejascr7@live.com Athlete @bigmuscles_nutrition | Use Code : BMTEJAS
+    location: "India"
+    followers: 395251
+    engagement: 1782
+    commentsToLikes: 0.011929
+    id: ckxz7611ydos30j23kv396lua
+    verified: false
+    hashtags: "#explore, #transformation, #fitness, #supplements"
+  - username: "sunitjadhavofficial"
+    fullname: >-
+      IFBB Pro Sunit Jadhav
+    bio: >-
+      My Coach :- @hanyrambod Athlete 💪🏽 @evogennutrition @gorillawearindia @intowellness_india @beanutpeanutbutter
+    location: "India"
+    followers: 858580
+    engagement: 424
+    commentsToLikes: 0.003817
+    id: ck5cbpx24fy4t0i1183tfq7se
     verified: true
-    hashtags: "#hypervolt, #feelitreelit, #eatwitht, #feelkaroreelkaro"
+    hashtags: "#dedication, #workout, #intowellness, #hardwork"
+  - username: "ericssonsamuel"
+    fullname: >-
+      ERICSSONSAMUEL 🇰🇷
+    bio: >-
+      @Karatecombat PRO Fighter (LW 2-0)(WW 0-1) @asrv Athlete | Powered by @iamfuckedupenergy 🤛🏼 NEXT FIGHT: @misfitsboxing 🥊 (date & opponent TBA)
+    location: "India"
+    followers: 727047
+    engagement: 575
+    commentsToLikes: 0.030878
+    id: ck1399dznk6a70i19307bo625
+    verified: true
+    hashtags: "#comeback, #karatecombat, #asrv, #athlete"
 ---

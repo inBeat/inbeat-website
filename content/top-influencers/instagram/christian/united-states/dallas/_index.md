@@ -1,11 +1,11 @@
 ---
-title: Top 10 Christian Instagram Influencers In Dallas In 2023
+title: Top 10 Christian Instagram Influencers In Dallas In 2024
 description: >-
-  Find top christian Instagram influencers in Dallas in 2023. Most popular hashtags: #jesus #cowboysnation #christian.
+  Find top christian Instagram influencers in Dallas in 2024. Most popular hashtags: #christian #dallas #morningroutine #ootd.
 platform: Instagram
-hits: 21
-text_top: See the top-rated Instagram influencers on inBeat.
-text_bottom: Our database holds 21 Instagram influencers like this in Dallas, United States for you to collaborate.
+hits: 34
+text_top: See the best Instagram profiles on inBeat.
+text_bottom: Our database has 34 Instagram influencers like this in Dallas, United States for you to work with.
 profiles:
   - username: "sweetandpetitemama"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.455560
     id: ck8t2wo9a0z5n0j78l8kf1gvi
     verified: false
-    hashtags: "#summeroutfits, #ltkunder50, #styleoftheday, #amazonfashion"
+    hashtags: "#founditonamazon, #sponsored, #amazonfinds, #ltktravel"
   - username: "inspiredbyhimart"
     fullname: >-
       S t e p h a n i e  L.
@@ -31,6 +31,90 @@ profiles:
     id: ck6to6c8tccp80j71ys41f3eo
     verified: false
     hashtags: "#wildlifeart, #godslittlepaintbrushes, #revealed, #fingerpainting"
+  - username: "thaliamleblanc"
+    fullname: >-
+      Thalia M LeBlanc
+    bio: >-
+      ✝️| 🇩🇴| #afrolatina | DTX | 🦂| Lifestyle Gworl @pcosbaddieclub Founder @tellingonmyself 🎙️ with @k.409 💍 500k+ Tiktok Baddies
+    location: "United States"
+    followers: 33062
+    engagement: 97
+    commentsToLikes: 0.084940
+    id: cljx9itnk71340j08mewqdu8c
+    verified: false
+    hashtags: "#style, #afrolatina, #fashion, #podcast"
+  - username: "dallasdentalbabe"
+    fullname: >-
+      Angely Almazan, DDB
+    bio: >-
+      Latina Dental Professional Owned @thewhitepearlco 📍Dallas, TX Book here ⬇️ 🎹 @officialrickyray 407 W 10th St Suite 130 Dallas TX 75208
+    location: "United States"
+    followers: 23371
+    engagement: 104
+    commentsToLikes: 0.180326
+    id: cknycl20ra5b40j23zh6s1r73
+    verified: false
+    hashtags: "#dallasdentalbabe, #dallasteethwhitening, #teethwhiteningkit, #dallas"
+  - username: "abbyg.garcia"
+    fullname: >-
+      Abigail Garcia
+    bio: >-
+      Here to make His name known🕊️ 20 | wifey |📍dallas, tx || mgmt: @jexyagency
+    location: "United States"
+    followers: 151690
+    engagement: 84
+    commentsToLikes: 0.010903
+    id: cle5fqsglhsqx0j08l3399nsp
+    verified: false
+    hashtags: "#morningroutine, #husbandwife, #husband, #dallascontentcreator"
+  - username: "kianagaona"
+    fullname: >-
+      Kiana Gaona Guerrero
+    bio: >-
+      loving Jesus & his people in ATX founder @socialbykiana model @nealhamilagency social @ninaberenatobraceletbar @ninaberenato
+    location: "United States"
+    followers: 7922
+    engagement: 482
+    commentsToLikes: 0.050172
+    id: ckf5un2a9lj2s0j23digy7o7q
+    verified: false
+    hashtags: "#haircare, #dualipa, #aebrandrep, #christiangirl"
+  - username: "itsnadialouise"
+    fullname: >-
+      nadia louise
+    bio: >-
+      faith | fashion | lifestyle | beauty dallas, tx 🤍🫶🏻 ✉️: itsnadialouise@gmail.com fave products & outfits ↓
+    location: "United States"
+    followers: 66412
+    engagement: 3246
+    commentsToLikes: 0.034354
+    id: cky15p7c1f0to0j23d9bk4zha
+    verified: false
+    hashtags: "#morningroutine, #amazonfashion, #versedskincare, #amazonfashionfinds"
+  - username: "lovechanellenje"
+    fullname: >-
+      Chanell Sykes|Mom|Wife|Influencer
+    bio: >-
+      Dallas📍 Scrolling on my page will have you late to work lovechanellenje@gmail.com YouTube ⬇️
+    location: "United States"
+    followers: 79572
+    engagement: 2130
+    commentsToLikes: 0.059579
+    id: clbi52jc347xa0j08haot8i5h
+    verified: false
+    hashtags: "#marriage, #couples, #mom, #blacklove"
+  - username: "abfromtx"
+    fullname: >-
+      Adrion Butler
+    bio: >-
+      Christian Rapper @seaqmanagement Graphic Designer Sneakerhead Brand Owner @ongoduniversity Godmade Muzic
+    location: "United States"
+    followers: 15711
+    engagement: 185
+    commentsToLikes: 0.148174
+    id: ckmw1fo0z7gc00j23hd1d3y0b
+    verified: false
+    hashtags: "#dallasdance, #newmusic, #freestyle, #dallas"
   - username: "ginaa_mariaaa"
     fullname: >-
       Gina Maria
@@ -43,88 +127,4 @@ profiles:
     id: ck5zv40ip3jwk0i14mixt0vkh
     verified: false
     hashtags: "#wasvsdal, #cowboysnation, #buechelweddingbells, #whenlifegivesyouleonards"
-  - username: "nicoleweider"
-    fullname: >-
-      Nicole Weider
-    bio: >-
-      ❤️Woman of God 💍Wife & Mom of 2 📍Dallas 🎬Speaker, Actress & Producer ✨@projectinspired @switchedthefilm Email👇🏼 Nicolemweider@gmail.com
-    location: "United States"
-    followers: 35615
-    engagement: 1098
-    commentsToLikes: 0.039217
-    id: ck0u6ye0u3a3q0i19vrm92phh
-    verified: false
-    hashtags: "#jesuslovesyou, #godisfaithful, #scripture, #pray"
-  - username: "erin__margaret"
-    fullname: >-
-      Erin Margaret
-    bio: >-
-      Proverbs 1:7 • Dallas Cowboys Cheerleader ⭐️ • Twitter: @DCC_ErinS
-    location: "United States"
-    followers: 18423
-    engagement: 728
-    commentsToLikes: 0.024839
-    id: ckap2f2t4yk200i78o02zvojc
-    verified: false
-    hashtags: "#sunday, #nflsunday, #dcc, #dancer"
-  - username: "kirbyisaboss"
-    fullname: >-
-      Kirby Kelly ✨🌿
-    bio: >-
-      love to create ✞ love my creator ⇢ speaker, youtuber, traveler, podcaster ⇢ dallas ✈ ⇢ po box ⬎ 4145 belt line rd. ste 212-394 addison, tx 75001
-    location: "United States"
-    followers: 69727
-    engagement: 493
-    commentsToLikes: 0.032921
-    id: ck6u2165ap3om0j71r8i8ecqm
-    verified: false
-    hashtags: "#god, #christian, #christ, #jesus"
-  - username: "skipheitzig"
-    fullname: >-
-      Skip Heitzig
-    bio: >-
-      Christian, husband, dad, papa, Pastor, Ukulele player @calvaryabq
-    location: "United States"
-    followers: 25050
-    engagement: 223
-    commentsToLikes: 0.024219
-    id: ckap8zvvrqm7i0i78878awaxn
-    verified: false
-    hashtags: "#rootcanal, #allthings, #tbt, #givepeaceachance"
-  - username: "imjordyncruz"
-    fullname: >-
-      Jordyn Cruz
-    bio: >-
-      📍 Dallas 💻 I Take Risks For A Living 👟 @SoleClubTX 👇 Not OnlyFans
-    location: "United States"
-    followers: 22264
-    engagement: 200
-    commentsToLikes: 0.051618
-    id: ck6tpn8xvku8l0j711drgwkzq
-    verified: false
-    hashtags: ""
-  - username: "tboneoutdoors"
-    fullname: >-
-      Travis T-Bone Turner
-    bio: >-
-      Bone Collector,Realtree Roadtrip co-host. WTU spokesman, Archery Guru, Christian, Hunter, Family, Outdoorsman 🔴TURN ON NOTIFICATIONS🔴 #tboneoutdoors
-    location: "United States"
-    followers: 155357
-    engagement: 181
-    commentsToLikes: 0.025068
-    id: ck5bze34iqyoj0i11actspk2w
-    verified: false
-    hashtags: "#gamoswarm, #huntsquirrels, #4springs, #gamooutdoorusa"
-  - username: "thechrisjanson"
-    fullname: >-
-      Chris Janson
-    bio: >-
-      Husband, Dad, Christian. Multi Platinum & Gold selling singer & songwriter. Hunter, Opry Member , Bass Pro Ambassador, ACM and iHeart Award Winner.
-    location: "United States"
-    followers: 446764
-    engagement: 82
-    commentsToLikes: 0.012682
-    id: ck5c2suhoxwxa0i11pjgc73cz
-    verified: true
-    hashtags: "#classof2020, #song, #countymusic, #star"
 ---

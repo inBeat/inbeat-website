@@ -1,11 +1,11 @@
 ---
-title: Top 10 Graphic-Designers Instagram Influencers In Dallas In 2023
+title: Top 10 Graphic-Designers Instagram Influencers In Dallas In 2024
 description: >-
-  Find top graphic-designers Instagram influencers in Dallas in 2023. Most popular hashtags: #graphicdesigner #graphicdesign #dallas #art.
+  Find top graphic-designers Instagram influencers in Dallas in 2024. Most popular hashtags: #dallas #graphicdesign #graphicdesigner #art.
 platform: Instagram
-hits: 22
-text_top: Analyze the best Instagram influencers on inBeat.
-text_bottom: Our platform has 22 Instagram influencers like this in Dallas, United States for you to pitch.
+hits: 21
+text_top: Identify the best Instagram profiles on inBeat.
+text_bottom: Our database holds 21 Instagram influencers like this in Dallas, United States for you to work with.
 profiles:
   - username: "aldocrusher"
     fullname: >-
@@ -18,7 +18,31 @@ profiles:
     commentsToLikes: 0.042368
     id: ck6u2p770t4ei0j716r6frt55
     verified: false
-    hashtags: "#digitalillustration, #designboom, #dribbble, #behance"
+    hashtags: "#illustrationage, #digitalillustration, #huffpostarts, #designboom"
+  - username: "sicerow"
+    fullname: >-
+      Siciliani Texel
+    bio: >-
+      📸 Photographer 🖥 Graphic Designer ⚠️ Shoots 21+ only 🎙 Vocal Coach 💈 Barber Since ‘86 📷 Other work 👇🏾 @sicerowphotography
+    location: "United States"
+    followers: 18690
+    engagement: 296
+    commentsToLikes: 0.037531
+    id: ck5q70ojozir30i11j6ldgc33
+    verified: false
+    hashtags: "#body, #edit, #photooftheday, #lady"
+  - username: "abfromtx"
+    fullname: >-
+      Adrion Butler
+    bio: >-
+      Christian Rapper @seaqmanagement Graphic Designer Sneakerhead Brand Owner @ongoduniversity Godmade Muzic
+    location: "United States"
+    followers: 15711
+    engagement: 185
+    commentsToLikes: 0.148174
+    id: ckmw1fo0z7gc00j23hd1d3y0b
+    verified: false
+    hashtags: "#dallasdance, #newmusic, #freestyle, #dallas"
   - username: "paigeforrest"
     fullname: >-
       Paige Martindell
@@ -30,7 +54,7 @@ profiles:
     commentsToLikes: 0.144166
     id: ck0ucamt0gcsl0i199uow2uol
     verified: false
-    hashtags: "#psadventuring, #hatcollection, #supportlocal, #dallasgiveaway"
+    hashtags: "#supportlocal, #hatcollection, #giveaway, #psadventuring"
   - username: "lacerrrr"
     fullname: >-
       Lacy Lace 🦄
@@ -78,7 +102,7 @@ profiles:
     commentsToLikes: 0.071267
     id: ckrws3l9w2zqp0j237z692tee
     verified: false
-    hashtags: "#faithbased, #charlottenc, #livestream, #nasville"
+    hashtags: "#cookitupkym, #losangeles, #durhamnc, #lasvegas"
   - username: "che1ique"
     fullname: >-
       Che1ique
@@ -90,7 +114,7 @@ profiles:
     commentsToLikes: 0.065934
     id: ck5qb4i8qjroe0i11wubzm7lu
     verified: false
-    hashtags: "#lebron, #miamiheat, #graphicdesigner, #nbaart"
+    hashtags: "#lakers, #suns, #miamiheat, #artists"
   - username: "gillie_edits"
     fullname: >-
       GillieEdits
@@ -102,29 +126,5 @@ profiles:
     commentsToLikes: 0.016394
     id: ck13d16o8357m0i19vxn12x2y
     verified: false
-    hashtags: "#lakers, #nike, #art, #buffalo"
-  - username: "static.mov"
-    fullname: >-
-      𝗦𝘁𝗮𝘁𝗶𝗰 𝗠𝗼𝘃⚡️𝗚𝗿𝗮𝗽𝗵𝗶𝗰𝘀
-    bio: >-
-      💿 Cover Artwork, Motion Covers, Lyric Videos, Beats & More 📥Commissions are open, DM us for Prices ⏳1-5 day turnaround 👇Pre-Made Covers & Beat Store
-    location: "United States"
-    followers: 20262
-    engagement: 142
-    commentsToLikes: 0.021290
-    id: ck13dbkqc4miv0i19pg5tkzjh
-    verified: false
-    hashtags: "#dedication, #typebeat, #recordlabel, #unsignedhype"
-  - username: "madelynbrene"
-    fullname: >-
-      Madelyn Brene
-    bio: >-
-      Living the FAB Lifestyle of an Artist Trap-Opera Singer | Songwriter | Fashion+ Lifestyle 🎵 Grammy Recording Academy 📩 management@madelynbrene.com
-    location: "United States"
-    followers: 101153
-    engagement: 218
-    commentsToLikes: 0.058626
-    id: ck135om662ge20i19lwd49xpw
-    verified: false
-    hashtags: "#trapopera, #curvystyle, #unsignedhype, #curvyinfluencer"
+    hashtags: "#nfl, #graphicdesign, #graphicdesigner, #goat"
 ---

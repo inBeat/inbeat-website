@@ -1,11 +1,11 @@
 ---
-title: Top 10 Crossfit TikTok Influencers In Brazil In 2023
+title: Top 10 Crossfit TikTok Influencers In Brazil In 2024
 description: >-
-  Find top crossfit TikTok influencers in Brazil in 2023. Most popular hashtags: #crossfit #foryou #fyp #fitness.
+  Find top crossfit TikTok influencers in Brazil in 2024. Most popular hashtags: #crossfit #foryou #fyp #fitness.
 platform: TikTok
 hits: 29
-text_top: Identify the top-rated TikTok influencers on inBeat.
-text_bottom: inBeat holds 29 TikTok influencers like this in Brazil for you to collaborate.
+text_top: Discover the best TikTok influencers on inBeat.
+text_bottom: Our platform aggregates 29 TikTok influencers like this in Brazil for you to contact.
 profiles:
   - username: "faria_maikon"
     fullname: >-

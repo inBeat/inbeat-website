@@ -1,36 +1,108 @@
 ---
-title: Top 10 Photographers Instagram Influencers In Belgium In 2023
+title: Top 10 Photographers Instagram Influencers In Belgium In 2024
 description: >-
-  Find top photographers Instagram influencers in Belgium in 2023. Most popular hashtags: #photography #blackandwhite #photooftheday.
+  Find top photographers Instagram influencers in Belgium in 2024. Most popular hashtags: #portrait #photography #moodygrams.
 platform: Instagram
-hits: 34
-text_top: See the best Instagram influencers on inBeat.
-text_bottom: Our database holds 34 Instagram influencers like this in Belgium for you to pitch.
+hits: 45
+text_top: See the best Instagram profiles on inBeat.
+text_bottom: Our database has 45 Instagram influencers like this in Belgium for you to connect with.
 profiles:
-  - username: "maartenvda"
+  - username: "davidolkarny"
     fullname: >-
-      Maarten Van der Auwera
+      DAVID OLKARNY
     bio: >-
-      📍Antwerp, Belgium 🏔Belgian (travel) photographer 📸 Photographing my way through life ✏️Collab/shoot: DM or Mail 📚UAntwerp Master of Physiotherapy
+      ⚡︎ Photographer 𖤥 Brussels ⚐ Hello@david-olkarny.com
     location: "Belgium"
-    followers: 9412
-    engagement: 1235
-    commentsToLikes: 0.150845
-    id: ck55ll4yg1tsz0i113p90q0ik
-    verified: false
-    hashtags: "#sonyphotography, #sunsetlover, #travelblogging, #dronephotography"
+    followers: 197746
+    engagement: 409
+    commentsToLikes: 0.023051
+    id: ck0w73odkblfl0i195gzzmpse
+    verified: true
+    hashtags: "#backstage, #creativephotography, #reels, #behindthescenes"
   - username: "dschft"
     fullname: >-
-      Photographe Bruxelles | Denys
+      Denys Schelfhaut
     bio: >-
-      Belgian Photographer & Designer Fashion | Editorial | Commercial Photography w/ @clairelaffut ✉️ info@dschft.com
+      Photographer & Art Director @mcarnolds Fashion | Lifestyle | Commercial Contact — info@dschft.com Brussels / Paris
     location: "Belgium"
-    followers: 18731
-    engagement: 962
-    commentsToLikes: 0.022413
+    followers: 17699
+    engagement: 648
+    commentsToLikes: 0.015040
     id: ck0uco24jha2r0i19vy95gw57
     verified: false
-    hashtags: "#findx3pro, #awakencolour, #findx3series, #ad"
+    hashtags: "#pacorabanne, #findx3pro, #awakencolour, #findx3series"
+  - username: "frederikopdeweegh"
+    fullname: >-
+      Frederik Opdeweegh
+    bio: >-
+      Photographer | Musician Prints available.
+    location: "Belgium"
+    followers: 16314
+    engagement: 9823
+    commentsToLikes: 0.025057
+    id: ck0udpt9xjm680i19xo0v180j
+    verified: false
+    hashtags: "#iceland, #bavaria"
+  - username: "jvn.photo"
+    fullname: >-
+      Jeroen | Photography & Iceland
+    bio: >-
+      📷 Landscape, aerial & wildlife photographer 📍 Reykjavík, Iceland 🇮🇸 🎒 @fstopgear ambassador ⬇ VOLCANO BOOK & FINE ART PRINTS ⬇
+    location: "Belgium"
+    followers: 157533
+    engagement: 1261
+    commentsToLikes: 0.033487
+    id: ck136a6ao5iaz0i19qwddpsdl
+    verified: false
+    hashtags: "#dronepilot, #earthoutdoors, #naturegramy, #atlantic"
+  - username: "denahuys"
+    fullname: >-
+      DENA HUYS • Huysmade
+    bio: >-
+      🫧Photographer @huysmade 🧃Mom of Cas 🌦 Life as it is 🫶🏼
+    location: "Belgium"
+    followers: 9697
+    engagement: 175
+    commentsToLikes: 0.044305
+    id: ck6tqtr7qu71y0j71cqrp8n5w
+    verified: false
+    hashtags: "#selfportrait, #bts, #chanelbeauty, #artoftheday"
+  - username: "ronpaologilman"
+    fullname: >-
+      Ron Paolo Gilman
+    bio: >-
+      The right muse will inspire truths over imagination❣️ Art beauty photographer Be respectful to the muses Canon Belgium Explorer 📸
+    location: "Belgium"
+    followers: 57131
+    engagement: 169
+    commentsToLikes: 0.020278
+    id: ck5zwln7e6c940i14ea8speou
+    verified: false
+    hashtags: "#bnwphotography, #belgianbeauty, #love, #muse"
+  - username: "a_m_a_d_e_u_s"
+    fullname: >-
+      Amadeus Hz Gz
+    bio: >-
+      X Brussels X Architect / Photographer X amadeus.hzgz@gmail.com @save_as_photography X @save_as_studio
+    location: "Belgium"
+    followers: 66866
+    engagement: 252
+    commentsToLikes: 0.016972
+    id: ck15u6l9ylnva0i194vx1f6fc
+    verified: false
+    hashtags: "#brussels, #ad, #lesud, #summer"
+  - username: "by.celiadb"
+    fullname: >-
+      Célia de Bruyker
+    bio: >-
+      social media manager & photographer skincare account @thevisualregister Tall girl & mum of @sam_thecockerspaniell . . . . BE0761977857
+    location: "Belgium"
+    followers: 27535
+    engagement: 32
+    commentsToLikes: 0.035794
+    id: ckaoypkujiie90i78hfigdh1p
+    verified: false
+    hashtags: "#belgianinfluencer, #creativegalgang, #connectingcreativecuties, #belgianblogger"
   - username: "jirkobruyninckxphotography"
     fullname: >-
       Belgian Model Photographer
@@ -55,76 +127,4 @@ profiles:
     id: ck0w1wu3slj450i19puxiyts0
     verified: false
     hashtags: "#letsfeeliran, #hypebeast, #irantourism, #spicollective"
-  - username: "douniaaerts"
-    fullname: >-
-      Dounia Aerts
-    bio: >-
-      Mixed Moroccan-Belgian 🇲🇦🇧🇪 Creator & creative photographer @dounia.aerts Designer, makeup enthousiast, spiritual being dounia_aerts@hotmail.com
-    location: "Belgium"
-    followers: 34228
-    engagement: 94
-    commentsToLikes: 0.109018
-    id: ck13anxtfrbc60i19phgtw5bq
-    verified: false
-    hashtags: "#gifted, #zebfashion, #zebsquad, #paidsponsorship"
-  - username: "briesoldo"
-    fullname: >-
-      Brigita Soldo 👒
-    bio: >-
-      Photographer · Creative Content Creator · Vintage & Sustainable Fashion Advocate 🧵 Croatian girl in the Belgian countryside 🌿 #capturingourdays
-    location: "Belgium"
-    followers: 55870
-    engagement: 643
-    commentsToLikes: 0.016459
-    id: ck14h3d3s8cdv0i19qj4bbal5
-    verified: false
-    hashtags: ""
-  - username: "quentindebriey"
-    fullname: >-
-      Quentin De Briey
-    bio: >-
-      Belgian photographer represented by Cadence
-    location: "Belgium"
-    followers: 60595
-    engagement: 538
-    commentsToLikes: 0.010581
-    id: ck0u6lbu529ei0i19jcilbssi
-    verified: true
-    hashtags: ""
-  - username: "dwarven_cosplay"
-    fullname: >-
-      Bruní - Bruno
-    bio: >-
-      Belgian 🇧🇪 Cosplayer | artist | prop maker | photographer Next cosplay: Star Wars OC Next con:
-    location: "Belgium"
-    followers: 2549
-    engagement: 2328
-    commentsToLikes: 0.052002
-    id: ck5cl3koqy6hp0i11ujbfwn63
-    verified: false
-    hashtags: "#photography, #bard, #cateyes, #locationshoot"
-  - username: "ahmed44photography"
-    fullname: >-
-      Ahmed Al Maawali
-    bio: >-
-      #Equestrian & #lifestyle #Photographer 📸 🌎 👻 : alm3wali.44 Rider 🐎 Personal account : @ahmed44phy
-    location: "Belgium"
-    followers: 14486
-    engagement: 1117
-    commentsToLikes: 0.008247
-    id: ck5bt6xcyffwv0i11vpp6fauw
-    verified: false
-    hashtags: "#showjumpingphotography, #trot, #gallop, #showjumpingedit"
-  - username: "ronpaologilman"
-    fullname: >-
-      Ron Gilman
-    bio: >-
-      Published male Photographer/Antwerp based🇧🇪Canon Explorer. Hope you enjoy my work and passion for beauty. Please be respectful to the muses.
-    location: "Belgium"
-    followers: 29273
-    engagement: 268
-    commentsToLikes: 0.021728
-    id: ck5zwln7e6c940i14ea8speou
-    verified: false
-    hashtags: "#muse, #blackandwhitephotography, #friendshipgoals, #liveforthestory"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fashion Instagram Influencers In New York In 2023
+title: Top 10 Fashion Instagram Influencers In New York In 2024
 description: >-
-  Find top fashion Instagram influencers in New York in 2023. Most popular hashtags: #fashion #newyork #style #ootd.
+  Find top fashion Instagram influencers in New York in 2024. Most popular hashtags: #fashion #newyork #nyc #photography.
 platform: Instagram
-hits: 1369
-text_top: See the best Instagram profiles on inBeat.
-text_bottom: Our search engine holds 1369 Instagram influencers like this in New York, United States for you to pitch.
+hits: 1765
+text_top: Identify the best Instagram influencers on inBeat.
+text_bottom: Our search engine has 1765 Instagram influencers like this in New York, United States for you to pitch.
 profiles:
   - username: "cyberkay"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.067612
     id: ck6tk5amb419x0j712onrcbne
     verified: false
-    hashtags: "#underratedmuas, #makeupforblackwomen, #cyberkay, #giftedbymaybelline"
+    hashtags: "#underratedmuas, #makeupforblackwomen, #hairbeautydirectory, #giftedbymaybelline"
   - username: "susanbowlusphoto"
     fullname: >-
       Susan Bowlus
@@ -31,100 +31,100 @@ profiles:
     id: ck5zoicypqmqb0i14bwkgcjyh
     verified: false
     hashtags: "#actor, #photography, #makeup, #editorialphotography"
-  - username: "m.brewko"
+  - username: "duranetemadi"
     fullname: >-
-      michelle ❁
+      DURANETEMADI
     bio: >-
-      24 ྾ 🦜 ✘ #brewko ⚘ enjoying my life w/ @frederickkost ♥ ➳ let‘s explore this world together ✈ next: home
+      🎶 official artist Instagram 🎶 🇦🇫🇩🇪🇺🇸 • Recording Artist • Vocalist • Performer | Entertainer • Producer NEW SONG "AFGHANISTAN"👇🏼
     location: "United States"
-    followers: 31450
-    engagement: 913
-    commentsToLikes: 0.072580
-    id: ck14gja2i5iat0i1911kiuobb
+    followers: 11924
+    engagement: 466
+    commentsToLikes: 0.043748
+    id: ck5q8cf7m5hah0i11e0rk5xga
     verified: false
-    hashtags: "#streetstyle, #blogger, #americanstyle, #outfitidea"
-  - username: "oxananiki"
+    hashtags: "#life, #travel, #goodvibes, #follower"
+  - username: "extra.emily"
     fullname: >-
-      FASHION | INSPO | TRAVEL
+      emily 😀
     bio: >-
-      Oxana Niki 📍 Miami, FL 💌 oxananiki00@gmail.com 💫 Owner of @alyssakidsfashion
+      professional hooligan 💕 @otknetwork 💌: extraemily@mythictalent.com ↓ i’m live on twitch! ✨
     location: "United States"
-    followers: 115489
-    engagement: 162
-    commentsToLikes: 0.041312
-    id: ck0tu7xi45zkt0i19qcl5v02i
+    followers: 58980
+    engagement: 871
+    commentsToLikes: 0.020871
+    id: cla07l0dcotv30i23rpa0np9q
     verified: false
-    hashtags: "#miami, #sexy, #cute, #travel"
-  - username: "solais2"
+    hashtags: "#twitchtv, #twitchgirls, #livestream, #nyc"
+  - username: "iamtatygeneste"
     fullname: >-
-      Jeniffer Solais Ávila López
+      Taty Geneste
     bio: >-
-      📍dallas Tx ☕️ lifestyle, fitness, coffee ✉️ solaisavila@gmail.com 🙌🏼 Faith. Grace.
+      Fashion | Lifestyle | Beauty | Hair✨ 4|20 friendly Creator 💨🍃🌬️ Co-CEO of @pinkdream.agency 💕
     location: "United States"
-    followers: 18714
-    engagement: 272
-    commentsToLikes: 0.022565
-    id: ck6ty3xnf1jbg0j71g89ji833
+    followers: 57292
+    engagement: 314
+    commentsToLikes: 0.018634
+    id: ckywz2xtt04z00j2310b2iyyf
     verified: false
-    hashtags: "#f45, #cowprint, #london, #marriedlife"
-  - username: "gabufords"
+    hashtags: "#plussizewomen, #plussizebeauties, #tatygeneste, #melaningoddess"
+  - username: "thatssopam"
     fullname: >-
-      Gabu Fords
+      Pamela Roman
     bio: >-
-      I Will Do What I Can With Everything I Got @20modelmanagement 🇿🇦 | @damanmgmt 🇹🇷
+      
     location: "United States"
-    followers: 10387
-    engagement: 614
-    commentsToLikes: 0.034676
-    id: ck0u6z3v13dfq0i19pon6k4h0
+    followers: 2944
+    engagement: 1804
+    commentsToLikes: 0.061591
+    id: ckaouu3lp1tvd0i78hbolns6h
     verified: false
-    hashtags: "#fashion, #newyork, #newyear, #model"
-  - username: "frazier_19"
+    hashtags: "#tennessee, #travelgram, #blogger, #snow"
+  - username: "victormweu"
     fullname: >-
-      Henry Frazier I I
+      Victor Mweu ♛
     bio: >-
-      Black American 🇺🇸 Mens Fashion, Lifestyle & Styleblogger frazierhenry@ymail.com 📍 Houston, Tx
+      MERRILL LYNCH FINANCIAL ADVISOR
     location: "United States"
-    followers: 63575
-    engagement: 374
-    commentsToLikes: 0.011405
-    id: ck55j4wchw9t30i11ker074wy
+    followers: 8509
+    engagement: 795
+    commentsToLikes: 0.030368
+    id: ckap1rebevsq80i785uokdyhf
     verified: false
-    hashtags: "#houston, #menfashion, #tedbakerwatch, #mensfashionstyle"
-  - username: "mariagjieli"
+    hashtags: "#fashion, #newyorkmodel, #gymfit, #motivation"
+  - username: "iamgenesisgp"
     fullname: >-
-      ᴍᴀʀɪᴀ ɢᴊɪᴇʟɪ
+      Génesis N. González P.
     bio: >-
-      🇦🇱 🔺23 | NYC | Miami 📍 🔺Model | Foodie 🔺Other: @walkswithmaria 🔻
+      𝗩 𝗘 𝗡 𝗘 𝗭 𝗨 𝗘 𝗟 𝗔 𝗡 𝘛𝘩𝘦 𝘞𝘰𝘳𝘭𝘥 𝘪𝘴 𝘮𝘺 𝘙𝘶𝘯𝘸𝘢𝘺. • 𝕍𝕚𝕤𝕦𝕒𝕝 𝔻𝕖𝕤𝕚𝕘𝕟 | @genesis.dsgn •
     location: "United States"
-    followers: 1604825
-    engagement: 527
-    commentsToLikes: 0.018189
-    id: ckap4oi4a864k0i78h9xfuq4y
+    followers: 2924
+    engagement: 1144
+    commentsToLikes: 0.069388
+    id: ck0w2qcoypnso0i19d475uazf
     verified: false
-    hashtags: "#beaches, #miami, #curves, #mariagjieli"
-  - username: "lastnightatthemet"
+    hashtags: "#nyc, #photoshoot, #city, #fashion"
+  - username: "csmartfx"
     fullname: >-
-      Last Night at the Met
+      Chris Smart
     bio: >-
-      Fabulous fashions from the Metropolitan Opera—where the opera is grand, and so is the style. #LastNightAtTheMet @metopera
+      Toronto 🇨🇦 Internationally Published
     location: "United States"
-    followers: 16588
-    engagement: 453
-    commentsToLikes: 0.008657
-    id: ck5hfvesvzjg20i113bsxygf8
+    followers: 54088
+    engagement: 178
+    commentsToLikes: 0.010019
+    id: ck0ttosyx3ndn0i19sgb6w4gy
     verified: false
-    hashtags: "#stylegram, #opera, #newyorkcity, #metropolitanopera"
-  - username: "itneverblindsme"
+    hashtags: "#fashionlook, #chic, #ss20, #womensfashion"
+  - username: "agemosevr"
     fullname: >-
-      Neon Lights
+      okkie agemo
     bio: >-
-      LIMITED TIME PROMO 👇 🙌$99 (ALL SIGNS) 🌍FREE Shipping Worldwide 📬 DM To Place An Order 🎊 Yes We Do Customized Neon Signs
+      🇮🇩 graffiti artist • illustration • sticker addict 📩 agemosevr@gmail.com #agemosevr #sketch #graffiti
     location: "United States"
-    followers: 28366
-    engagement: 482
-    commentsToLikes: 0.013018
-    id: ck8t1gua6vptg0j78u56zcfv0
+    followers: 5043
+    engagement: 394
+    commentsToLikes: 0.023174
+    id: ck6u1bt43ksw00j71qf8wgvx8
     verified: false
-    hashtags: "#neon, #fashion, #newyork, #followme"
+    hashtags: "#procreate, #nyfw, #urbanart, #design"
 ---

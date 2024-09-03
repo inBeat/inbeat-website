@@ -1,11 +1,11 @@
 ---
-title: Top 10 Cooking Instagram Influencers In Spain In 2023
+title: Top 10 Cooking Instagram Influencers In Spain In 2024
 description: >-
-  Find top cooking Instagram influencers in Spain in 2023. Most popular hashtags: #healthyfood #batchcooking #foodporn #recetasfaciles.
+  Find top cooking Instagram influencers in Spain in 2024. Most popular hashtags: #recetasfaciles #healthyfood #realfood #cocina.
 platform: Instagram
-hits: 232
-text_top: Discover the most popular Instagram profiles on inBeat.
-text_bottom: Our platform has 232 Instagram influencers like this in Spain for you to contact.
+hits: 268
+text_top: Discover the best Instagram influencers on inBeat.
+text_bottom: Our search engine holds 268 Instagram influencers like this in Spain for you to work with.
 profiles:
   - username: "alexboisset"
     fullname: >-
@@ -13,24 +13,48 @@ profiles:
     bio: >-
       🌍🌱 cooking at @b3tterfoods 👨🏻‍🍳 hey@alexboisset.com
     location: "Spain"
-    followers: 171070
-    engagement: 1612
-    commentsToLikes: 0.004443
+    followers: 195292
+    engagement: 1300
+    commentsToLikes: 0.004500
     id: ck0vvj7sqpdr20i19f7y48s7h
     verified: false
-    hashtags: "#conduceelcambio, #cargadodeemociones, #visitsaudi, #acquadigio"
-  - username: "lagloriavegana"
+    hashtags: "#pepejeanslondon, #kenzohomme, #alphafly3, #aerogami"
+  - username: "_claravm_"
     fullname: >-
-      Gloria Carrión▫️Recetas Veg
+      C L A R A 💛🌿🌾
     bio: >-
-      🥦🍩Cocina Veggie fácil y deliciosa 🍛🍲BATCH COOKING ✉💌gestion@lagloriavegana.com ÚNETE AL CLUB DE GLORIA ⬇️
+      •Raising 👧🏻👧🏼👦🏼 /📍Girona •Marketeer👩🏻‍💻 •Family plans 🚐⛰🌊 •Lifestyle, cooking👩🏼‍🍳, deco🏡 & books📚 #elcontedelmoment Colabs📩
     location: "Spain"
-    followers: 370517
-    engagement: 298
-    commentsToLikes: 0.122885
-    id: ck13508gtz2co0i19mbx2f1mo
-    verified: true
-    hashtags: "#ad, #veganfood, #veganrecipes, #plantbased"
+    followers: 28068
+    engagement: 370
+    commentsToLikes: 0.826282
+    id: clnc00sn85ykj0j08tc7xi0vj
+    verified: false
+    hashtags: "#literatura, #librosparani, #educaci, #maternidad"
+  - username: "me_gusta_comer_sano"
+    fullname: >-
+      Rosa Arnau | Cocina saludable
+    bio: >-
+      🍽Recetas sanas y fáciles para el día a día 🌿Batch cooking y orden en la cocina 📄Menú semanal para comer sano ⬇️MIS ENLACES Y DTOS⬇️
+    location: "Spain"
+    followers: 212191
+    engagement: 167
+    commentsToLikes: 0.084624
+    id: ck5ch5o3eq5m70i11af5w7ojp
+    verified: false
+    hashtags: "#comesano, #overnightoats, #detox, #recetassaludables"
+  - username: "jacquiemarquez"
+    fullname: >-
+      Jacquie Marquez
+    bio: >-
+      Building beautiful lives and helping others achieve prosperity ✨ 👧🏻 Mamá de @moetsworld 👩🏻‍🍳 Cooking and Wellness Ebook “Cómetelo sin culpa” GRATIS 👇🏻
+    location: "Spain"
+    followers: 195386
+    engagement: 67
+    commentsToLikes: 0.040612
+    id: ck5q7mvj42aee0i11r70vjmgg
+    verified: false
+    hashtags: "#oiltreatment, #jacquiemarquez, #espa, #chef"
   - username: "ingrid.deidad"
     fullname: >-
       Ingrid Deidad 🦋
@@ -49,24 +73,24 @@ profiles:
     bio: >-
       Cocinando Contenidos Cooking for brand Home Economist 🌎SEVILLA-SPAIN
     location: "Spain"
-    followers: 18174
-    engagement: 283
-    commentsToLikes: 0.362751
+    followers: 19592
+    engagement: 216
+    commentsToLikes: 0.420820
     id: ckf5oldhf2qou0j232juk51yw
     verified: false
-    hashtags: "#kidsandchic, #receta, #recetadeld, #instareceta"
-  - username: "portimismo"
+    hashtags: "#receta, #foodphotography, #recetasfaciles, #kidsandchic"
+  - username: "chupchupchup.recetas"
     fullname: >-
-      Portimismo (Jen) 👩🏻♻️
+      ChupChupChup | Recetas
     bio: >-
-      ❤Recetas fáciles #fit 🍴Los JUEVES te Reto Cooking (destacado RETOS) 📌Lugares y productos de moda ✈️VIAJES diferentes! 👪Mamá #japanlover 💌Colab
+      🍽 Cocina sin complicaciones 🥖 Aprendiz y apasionada panarra🥖 🏠 Cooking at home with love💗 📝 www.chupchupchup.com ↓
     location: "Spain"
-    followers: 9370
-    engagement: 827
-    commentsToLikes: 0.521784
-    id: ckapcpw254q4w0i78s6ozn6k6
+    followers: 29426
+    engagement: 285
+    commentsToLikes: 0.456960
+    id: ck0w392pfs7760i199scwjqti
     verified: false
-    hashtags: "#recetassaludables, #premio, #desayunosaludable, #snacksaludable"
+    hashtags: "#aove, #recetafacil, #comidareal, #hogazasdeverano"
   - username: "sergiarola"
     fullname: >-
       Sergi Arola
@@ -79,52 +103,28 @@ profiles:
     id: ck139e7y9kvkj0i19317wt14h
     verified: true
     hashtags: "#oyealchefchv, #amomitrabajo, #sabingochv, #creatividadtranquila"
-  - username: "me_gusta_comer_sano"
-    fullname: >-
-      Rosa Arnau | Cocina saludable
-    bio: >-
-      🍽Recetas sanas y fáciles para el día a día 🌿Batch cooking y orden en la cocina 📩rosayangfuhe@gmail.com 💻MIS ENLACES👇
-    location: "Spain"
-    followers: 145412
-    engagement: 224
-    commentsToLikes: 0.075200
-    id: ck5ch5o3eq5m70i11af5w7ojp
-    verified: false
-    hashtags: "#especias, #comidareal, #recetafacil, #comesano"
   - username: "cristinaferrer"
     fullname: >-
-      Cristina Ferrer| Cocina Fácil
+      Cristina Ferrer| Cocina Fácil
     bio: >-
       Organización en la cocina 🍎 Batch cooking y menú semanal Cocina fácil, rápida y deliciosa Escucha mi nuevo podcast 🎤 hola@cristinaferrer.es
     location: "Spain"
-    followers: 80365
-    engagement: 201
-    commentsToLikes: 0.205212
+    followers: 91425
+    engagement: 213
+    commentsToLikes: 0.029975
     id: ck14i1alhd62g0i19nnmrnym8
     verified: false
-    hashtags: "#menuprimavera, #menusemanal, #comebientodoslosdias, #menusemanalcristinaferrer"
-  - username: "sofiamchef6"
+    hashtags: "#comebientodoslosdias, #reelscristinaferrer, #recetascristinaferrer, #loquesecomeenmicasa"
+  - username: "cellercanroca"
     fullname: >-
-      Sofia MasterChef
+      El Celler de Can Roca
     bio: >-
-      Cuenta oficial de Sofia Janer: Food🍳, Reviews📍& Lifestyle📸 Estudiando en @latelierbarcelona✨ Curso online en @theplaycook🍰 Pastelera en @ladramerie❣️
+      Una cocina que habla de cultura y herencia, pero también de naturaleza y de personas #ElCellerDeCanRoca
     location: "Spain"
-    followers: 63017
-    engagement: 509
-    commentsToLikes: 0.114771
-    id: ck5cgf7rxopv50i11kd9l8f5f
+    followers: 643351
+    engagement: 119
+    commentsToLikes: 0.014210
+    id: ck0udkfcnjcc70i19isfv3ggj
     verified: true
-    hashtags: "#recetasfaciles, #sweet, #ad, #chocolate"
-  - username: "guiaramonin"
-    fullname: >-
-      🥘Guia Ramonin By Ramon Portet
-    bio: >-
-      🌍Based In #catalunya 🔸Guía de arroces 🧐+ Recetas📝 🔸Todos me los he comido yo🥄😋 🔸Any suggestions and/or collaboration?📩or DM 🌍👇Interactive map🥘🚶‍♀️
-    location: "Spain"
-    followers: 35590
-    engagement: 256
-    commentsToLikes: 0.146956
-    id: ck15q5k7h17jf0i19dje9p44n
-    verified: false
-    hashtags: "#bentrobats, #riceagainsthemachine, #arroscat, #barcelona"
+    hashtags: "#restaurante, #rocabros, #restaurant, #jordiroca"
 ---

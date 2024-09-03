@@ -1,36 +1,12 @@
 ---
-title: Top 10 Barbers Instagram Influencers In Miami In 2023
+title: Top 10 Barbers Instagram Influencers In Miami In 2024
 description: >-
-  Find top barbers Instagram influencers in Miami in 2023. Most popular hashtags: #barbershop #miami #barber #barbershopconnect.
+  Find top barbers Instagram influencers in Miami in 2024. Most popular hashtags: #barber #barbershopconnect #miami #california.
 platform: Instagram
-hits: 63
-text_top: Analyze the top-rated Instagram accounts on inBeat.
-text_bottom: Our search engine aggregates 63 Instagram influencers like this in Miami, United States for you to contact.
+hits: 78
+text_top: See the most popular Instagram profiles on inBeat.
+text_bottom: Our search engine has 78 Instagram influencers like this in Miami, United States for you to pitch.
 profiles:
-  - username: "hairkingzceo"
-    fullname: >-
-      𝐇𝐀𝐈𝐑 𝐊𝐈𝐍𝐆𝐙
-    bio: >-
-      👑 ᶠᴼᵁᴺᴰᴱᴿ / ᶜᴱᴼ ᴼᶠ 𝐇𝐀𝐈𝐑 𝐊𝐈𝐍𝐆𝐙 👑 @hairkingznation 👑 ★★★★★
-    location: "United States"
-    followers: 58554
-    engagement: 165
-    commentsToLikes: 0.018057
-    id: ck602dt8gh7610i14mujf6pze
-    verified: false
-    hashtags: "#sharpfade, #barbersinctv, #barbers, #miamibarber"
-  - username: "angelluuhhh_"
-    fullname: >-
-      Angela Nguyen ✪
-    bio: >-
-      Instructor @californiabarberbeautycollege Owner of Big Boy's Barbershop 🏆39x Award Winning Barber
-    location: "United States"
-    followers: 20288
-    engagement: 306
-    commentsToLikes: 0.024636
-    id: ck13bxd39xlig0i19kxr3v8xt
-    verified: false
-    hashtags: "#ladybarber, #haircut, #bigboysbarbershop, #sandiegobarbershop"
   - username: "noelblends"
     fullname: >-
       
@@ -43,18 +19,6 @@ profiles:
     id: ck5q8qfy77hre0i11nvzefunp
     verified: false
     hashtags: ""
-  - username: "yobarberrileyy"
-    fullname: >-
-      Bay area barber - R I L E Y Y
-    bio: >-
-      🔴 Manager of Refreshed barbershop Vallejo, Ca ⚪️ Adult haircut $60 Kids $40 🔵 Click book now to book appointments ⚠️ Read details before you book ⚠️
-    location: "United States"
-    followers: 29215
-    engagement: 98
-    commentsToLikes: 0.046537
-    id: ck5c6epra5aaz0i11qu3ojlxl
-    verified: false
-    hashtags: "#360, #wavyhair, #wavetakeover, #elitewavers"
   - username: "juiceheadzup"
     fullname: >-
       ♠️JUICE♠️
@@ -79,6 +43,18 @@ profiles:
     id: ck5bw3omwkxs60i11zr4u154a
     verified: false
     hashtags: ""
+  - username: "guerdydesign"
+    fullname: >-
+      Guerdy Abraira #GUERDYFY
+    bio: >-
+      I “guerdyfied” Breast Cancer Personal Messages @Cameo PR: Robyn@illuminationpr.com Named Top Planner by @vogue @harpersbazaarus Motivational Speaker
+    location: "United States"
+    followers: 227703
+    engagement: 413
+    commentsToLikes: 0.052414
+    id: ck5c3clp0z1ip0i11i9o2p3xj
+    verified: false
+    hashtags: "#rhom, #guerdyabraira, #akira, #guerdyfied"
   - username: "junior1228"
     fullname: >-
       Fernando
@@ -91,6 +67,18 @@ profiles:
     id: ckap4g1uv77yy0i78qfrtqccf
     verified: false
     hashtags: "#instagay, #outfitoftheday, #healthyfood, #fashionweek"
+  - username: "_johnfernandes"
+    fullname: >-
+      CT Barber • John
+    bio: >-
+      BELLOS BARBER STUDIO 💈 Shelton Connecticut📍 Connecticut Master Barber Johndabarber23@gmail.com
+    location: "United States"
+    followers: 2678
+    engagement: 834
+    commentsToLikes: 0.124154
+    id: ck6ui2qyjcpuv0j71708ubuem
+    verified: false
+    hashtags: "#derbybarber, #porkyscafe, #newhavenbarber, #bridgeportbarber"
   - username: "omithebarber_"
     fullname: >-
       Omar Peña  🌴🇵🇷
@@ -103,6 +91,18 @@ profiles:
     id: ck5c7xtd28eet0i118ygwvruf
     verified: false
     hashtags: ""
+  - username: "ivancutzsharp"
+    fullname: >-
+      Founder XIPHOSRAZORBRAND 🌐🔱
+    bio: >-
+      Founder of @xiphosrazorbrand 🌐🔱 XIPHOS RAZOR PRE ORDERS NOW AVAILABLE ⚔️ 🔽
+    location: "United States"
+    followers: 26342
+    engagement: 526
+    commentsToLikes: 0.014365
+    id: ck5hoo1fmpwqg0i11vfd3ggvn
+    verified: false
+    hashtags: "#whocuts, #atlantabarber, #babylisspro, #calibarber"
   - username: "trizzytrack"
     fullname: >-
       Tr!zzy
@@ -115,16 +115,16 @@ profiles:
     id: ck5hoz21tqhhl0i119oozno47
     verified: true
     hashtags: "#instagood, #explorepage, #musicproducer, #trizzytrack"
-  - username: "willperez82"
+  - username: "jairostylemasterbarber"
     fullname: >-
-      Will Perez
+      Jairo Maldonado🇵🇷 ☆
     bio: >-
-      Barber / Owner @elitestylesbarbershop YouTube Channel 👇🏼
+      Industry Educador Rolda Professional Ambassador" #teamrolda 15% Off code (JAIRO15) 🅾🆆🅽🅴🆁 @elegancebarbers 15%off @gammaplusna code ( jairo911
     location: "United States"
-    followers: 34053
-    engagement: 105
-    commentsToLikes: 0.040768
-    id: ck14h0lv17y0w0i19qzb5tyrg
+    followers: 69107
+    engagement: 341
+    commentsToLikes: 0.017598
+    id: ck8swrn64f04l0j78pzlcxelj
     verified: false
-    hashtags: "#hairstyles, #blurry, #healthiswealth, #barberlife"
+    hashtags: "#booksybiz, #orlando, #greenvillesc, #wahlselectbarber"
 ---

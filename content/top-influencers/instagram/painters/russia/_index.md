@@ -1,12 +1,24 @@
 ---
-title: Top 10 Painters Instagram Influencers In Russia In 2023
+title: Top 10 Painters Instagram Influencers In Russia In 2024
 description: >-
-  Find top painters Instagram influencers in Russia in 2023. Most popular hashtags: #art #instaart #painting.
+  Find top painters Instagram influencers in Russia in 2024. Most popular hashtags: #art #instaart #painting.
 platform: Instagram
-hits: 148
-text_top: Discover the top-rated Instagram profiles on inBeat.
-text_bottom: Our search engine holds 148 Instagram influencers like this in Russia for you to connect with.
+hits: 154
+text_top: Identify the best Instagram profiles on inBeat.
+text_bottom: inBeat has 154 Instagram influencers like this in Russia for you to connect with.
 profiles:
+  - username: "lara_lepp"
+    fullname: >-
+      Larisa Goncharova
+    bio: >-
+      Model & Painter & Blogger lepplara@gmail.com
+    location: "Russia"
+    followers: 473019
+    engagement: 83
+    commentsToLikes: 0.026150
+    id: ckaoyxnj3jhgz0i78l6zofx8z
+    verified: false
+    hashtags: "#tomford, #tomfordbeauty, #mgm, #monaco"
   - username: "_________yanchik_________"
     fullname: >-
       Yana Shevchenko
@@ -115,16 +127,4 @@ profiles:
     id: ck0u8a1p36xkj0i19s191hkqc
     verified: false
     hashtags: "#reels"
-  - username: "mari.agarkova"
-    fullname: >-
-      AcrylicArtist▪️Mari Agarkova
-    bio: >-
-      ⬛️ Contemporary artist ⚫️ Royal Talens Ambassador ⬛️Buy my art 👇🏻 https://artisgallery.ru/painter/m.agarkova/ Онлайн-школа
-    location: "Russia"
-    followers: 19325
-    engagement: 268
-    commentsToLikes: 0.061667
-    id: ckaovenfm4abm0i78dqadqw5x
-    verified: false
-    hashtags: ""
 ---

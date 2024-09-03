@@ -1,11 +1,11 @@
 ---
-title: Top 10 Tattoo-Artists TikTok Influencers In Toronto In 2023
+title: Top 10 Tattoo-Artists TikTok Influencers In Toronto In 2024
 description: >-
-  Find top tattoo-artists TikTok influencers in Toronto in 2023. Most popular hashtags: #fyp #tattoo #foryou #tattoos.
+  Find top tattoo-artists TikTok influencers in Toronto in 2024. Most popular hashtags: #tattoo #fyp #foryou #torontotattoo.
 platform: TikTok
 hits: 5
-text_top: Discover the top-rated TikTok profiles on inBeat.
-text_bottom: inBeat has 5 TikTok influencers like this in Toronto, Canada for you to contact.
+text_top: Analyze the top-rated TikTok accounts on inBeat.
+text_bottom: inBeat holds 5 TikTok influencers like this in Toronto, Canada for you to pitch.
 profiles:
   - username: "mr.koo"
     fullname: >-
@@ -13,12 +13,12 @@ profiles:
     bio: >-
       MR.KOO TORONTO TATTOO ARTIST IG: @release852
     location: "Canada"
-    followers: 5375
-    engagement: 1325
-    commentsToLikes: 0.193304
+    followers: 5364
+    engagement: 1314
+    commentsToLikes: 0.186678
     id: cka0l394npdzo0i78e23fbh2z
     verified: false
-    hashtags: "#tattoolover, #money, #hustle, #handtattoo"
+    hashtags: "#hustle, #tattoochick, #money, #tattooed"
   - username: "handpushed"
     fullname: >-
       melina
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.023819
     id: ckb8zmqjpf0rq0j23dr0i5x7z
     verified: false
-    hashtags: "#singlelife, #couples, #afterparty, #dating"
+    hashtags: "#coupleschallenge, #single, #persiantok, #dating"
   - username: "chromatic_entropy"
     fullname: >-
       CRF
@@ -73,36 +73,36 @@ profiles:
     bio: >-
       🇨🇦 tattoo artist / Atheist / 🏳️‍🌈 Ally / BLM - link to buy shirts below vvvv
     location: "Canada"
-    followers: 23800
-    engagement: 1458
-    commentsToLikes: 0.162153
+    followers: 24800
+    engagement: 1438
+    commentsToLikes: 0.124065
     id: ck9skix0v8z0r0j788n9r3406
     verified: false
-    hashtags: "#duet, #greenscreen, #tattoos, #stitch"
+    hashtags: "#stitch, #cult45, #duet, #photographytricks"
   - username: "mr.koo"
     fullname: >-
       Mr.koo
     bio: >-
       MR.KOO TORONTO TATTOO ARTIST IG: @release852
     location: "Canada"
-    followers: 5375
-    engagement: 1325
-    commentsToLikes: 0.193304
+    followers: 5364
+    engagement: 1314
+    commentsToLikes: 0.186678
     id: cka0l394npdzo0i78e23fbh2z
     verified: false
-    hashtags: "#tattoolover, #money, #hustle, #handtattoo"
+    hashtags: "#hustle, #tattoochick, #money, #tattooed"
   - username: "betty_byford_22"
     fullname: >-
       BettyByford22
     bio: >-
-      Mom of 3🥓Cook🥓Tattoo Artist 🖤😈🖤 #qlms🧩🇨🇦🥓🖤📲 🇨🇦#LegendaryOutsiders🥓
+      Ontario, Canada Mom of 3🥓Cook🥓Tattoo Artist 🇨🇦#LegendaryOutsiders🥓
     location: "Canada"
-    followers: 16900
-    engagement: 1033
-    commentsToLikes: 0.036184
+    followers: 17300
+    engagement: 806
+    commentsToLikes: 0.129598
     id: ck9gpbtry4e1m0j78slw8ygwe
     verified: false
-    hashtags: "#foryou, #fyp, #duet, #foryoupage"
+    hashtags: "#duet, #inverted, #foryou, #removal"
   - username: "branime.co"
     fullname: >-
       Branden Burness

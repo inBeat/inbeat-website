@@ -1,11 +1,11 @@
 ---
-title: Top 10 TikTok Influencers In Konya In 2023
+title: Top 10 TikTok Influencers In Konya In 2024
 description: >-
-  Find top TikTok influencers in Konya in 2023. Most popular hashtags: #ke #konya #beni.
+  Find top TikTok influencers in Konya in 2024. Most popular hashtags: #ke #konya #beni.
 platform: TikTok
 hits: 186
-text_top: Analyze the best TikTok accounts on inBeat.
-text_bottom: Our database aggregates 186 TikTok influencers like this in Konya, Turkey for you to pitch.
+text_top: Discover the most popular TikTok influencers on inBeat.
+text_bottom: Our database aggregates 186 TikTok influencers like this in Konya, Turkey for you to collaborate.
 profiles:
   - username: "enessr"
     fullname: >-

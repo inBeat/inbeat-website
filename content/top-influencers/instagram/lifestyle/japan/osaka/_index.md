@@ -1,11 +1,11 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Osaka In 2023
+title: Top 10 Lifestyle Instagram Influencers In Osaka In 2024
 description: >-
-  Find top lifestyle Instagram influencers in Osaka in 2023. Most popular hashtags: #lifestyle #ootd #photography #birthday.
+  Find top lifestyle Instagram influencers in Osaka in 2024. Most popular hashtags: #japan #lifestyle #tokyo #japanese.
 platform: Instagram
-hits: 6
-text_top: Analyze the top-rated Instagram profiles on inBeat.
-text_bottom: Our search engine aggregates 6 Instagram influencers like this in Osaka, Japan for you to pitch.
+hits: 10
+text_top: Analyze the top-rated Instagram influencers on inBeat.
+text_bottom: Our database aggregates 10 Instagram influencers like this in Osaka, Japan for you to pitch.
 profiles:
   - username: "ldhkitchen_official"
     fullname: >-
@@ -19,6 +19,18 @@ profiles:
     id: ck0tuyfj1983o0i19ropyfsyo
     verified: true
     hashtags: "#ameco, #lifestyle, #tokyonakameguro, #osakasouthside"
+  - username: "alaninfinity"
+    fullname: >-
+      Alan Wong 📸
+    bio: >-
+      Be the change you wish to see in the 🌎 🇭🇰 HK 📷 Sony Xperia 5 II/ Sony A7 IV/ Mavic Pro 📩 DM/ alanwhla@gmail.com
+    location: "Japan"
+    followers: 28277
+    engagement: 685
+    commentsToLikes: 0.025512
+    id: ckap1upmlw8bs0i78fgjr4qrs
+    verified: false
+    hashtags: "#kyoto, #hkparents, #foodphotography, #familyfriendly"
   - username: "nyanchutagram9"
     fullname: >-
       Mizuki‪(*˙˘˙*)❥❥
@@ -31,6 +43,18 @@ profiles:
     id: ck9hbj2r6h1z70j78bl77lnk7
     verified: false
     hashtags: "#instapic, #nightout, #nightphotography, #cartier"
+  - username: "anshindoyle"
+    fullname: >-
+      Anshin Doyle 💗 M a r i a  G
+    bio: >-
+      📍Tokyo, Japan 🇯🇵 YouTube [+233K] 🍡 Pop culture, lifestyle and travel 🍣 🌸 Podcast “Dramas y Sakuras” 💌 hello@anshindoyle.jp
+    location: "Japan"
+    followers: 68589
+    engagement: 279
+    commentsToLikes: 0.028468
+    id: ckap1l7qov0r00i78pimzwh0n
+    verified: false
+    hashtags: "#kawaii, #makeup, #comidajaponesa, #tokio"
   - username: "machicoco"
     fullname: >-
       machicoco
@@ -55,6 +79,30 @@ profiles:
     id: ck0u21i0kykzm0i19480kckcs
     verified: false
     hashtags: "#fyve, #photo, #fixbinding, #snowman"
+  - username: "whatthepato"
+    fullname: >-
+      PATRICIA in Tokyo
+    bio: >-
+      📍Tokyo, Japan TikTok & YouTube: @whatthepato Business/案件: whatthepato@gmail.com MORE FROM ME👇🏼
+    location: "Japan"
+    followers: 260872
+    engagement: 207
+    commentsToLikes: 0.013836
+    id: cloxogaa0zohg0j0852kr4afd
+    verified: false
+    hashtags: "#tokyo, #pr, #japanesefood, #japan"
+  - username: "dear.yc"
+    fullname: >-
+      Yau Ching
+    bio: >-
+      ♡ ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴍʏ ʟɪғᴇ ᴅᴍ ғᴏʀ ᴊᴏʙ :) ~𝑀𝑦 𝑌𝑜𝑢𝑇𝑢𝑏𝑒~ ✿
+    location: "Japan"
+    followers: 54515
+    engagement: 205
+    commentsToLikes: 0.015516
+    id: ck5pzv1h12w0f0i11j4gis8if
+    verified: false
+    hashtags: "#love, #japan, #food, #hongkong"
   - username: "reiko_katsuyama"
     fullname: >-
       REIKO_KATSUYAMA
@@ -79,52 +127,4 @@ profiles:
     id: ck5zm7leqm1yc0i14ulzh8lv3
     verified: false
     hashtags: "#videographer, #teru, #jazz, #repost"
-  - username: "lara_vns"
-    fullname: >-
-      𝐖𝐨𝐦𝐚𝐧𝐟𝐚𝐬𝐡𝐢𝐨𝐧 | 𝐌𝐨𝐝𝐞𝐥 | 𝐁𝐥𝐨𝐠𝐠𝐞𝐫
-    bio: >-
-      ———————————————— » Fashion » Fitness » Lifestyle ———————————————— 21 y/o | German | P🌹
-    location: "Japan"
-    followers: 12770
-    engagement: 786
-    commentsToLikes: 0.136789
-    id: ckap8nya3p6kk0i78tp4nb40s
-    verified: false
-    hashtags: "#saturdayoutfit, #weareallinthistogether, #versacebag, #workingonme"
-  - username: "hollykstyles"
-    fullname: >-
-      Holly
-    bio: >-
-      • dallas tx • future mrs 💍 • home | fashion | lifestyle • @shopjustusthree • realtor @hollywrealestate link below to shop my posts
-    location: "Japan"
-    followers: 2479
-    engagement: 799
-    commentsToLikes: 0.208682
-    id: ckaowm7if9gug0i78mtyycrlx
-    verified: false
-    hashtags: "#2020, #ootd, #tistheseason, #colorado"
-  - username: "maidmaymay"
-    fullname: >-
-      Maymay
-    bio: >-
-      20'9 '2000 ♀ Thai cosplayer based in the Netherlands non cosplay ig : @maybecrazey travel & lifestyle 😈 Twitch : maidMAYMAY 💜
-    location: "Japan"
-    followers: 60612
-    engagement: 391
-    commentsToLikes: 0.008534
-    id: ckaovc85p3ye20i78o7i9y0uo
-    verified: false
-    hashtags: "#alternative, #killingstalking, #killingstalkingcosplay, #cosplay"
-  - username: "kuuu.kumiko"
-    fullname: >-
-      Kumiko Suzuki  鈴木久美子
-    bio: >-
-      #beauty #fashion #health #foods #lifestyle #猫のいる暮らし 🎂1976 ♎︎ 164cm 🇯🇵 ・Freelance model ・経歴…第8回国民的美魔女コンテストfinalist ※仕事以外のDMへは返信していません 。
-    location: "Japan"
-    followers: 41897
-    engagement: 316
-    commentsToLikes: 0.032118
-    id: ckap4ky277r6y0i78yzmchql7
-    verified: false
-    hashtags: "#lifestyle, #fashion, #beautiful, #health"
 ---

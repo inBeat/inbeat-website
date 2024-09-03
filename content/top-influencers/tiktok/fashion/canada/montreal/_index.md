@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fashion TikTok Influencers In Montreal In 2023
+title: Top 10 Fashion TikTok Influencers In Montreal In 2024
 description: >-
-  Find top fashion TikTok influencers in Montreal in 2023. Most popular hashtags: #fyp #fashion #foryoupage #montreal.
+  Find top fashion TikTok influencers in Montreal in 2024. Most popular hashtags: #fyp #fashion #style #foryoupage.
 platform: TikTok
-hits: 31
-text_top: Analyze the most popular TikTok accounts on inBeat.
-text_bottom: Our platform aggregates 31 TikTok influencers like this in Montreal, Canada for you to work with.
+hits: 30
+text_top: See the top-rated TikTok influencers on inBeat.
+text_bottom: Our database aggregates 30 TikTok influencers like this in Montreal, Canada for you to contact.
 profiles:
   - username: "craftcupid"
     fullname: >-
@@ -43,6 +43,18 @@ profiles:
     id: ckc7iyc8mqnj30j23hsqxiysr
     verified: false
     hashtags: "#thriftstore, #shoplocal, #mtl, #thrifted"
+  - username: "thefitfatale"
+    fullname: >-
+      Samantha Cutler
+    bio: >-
+      What I eat, wear & do to chill TFO😏 Founder, Pro-Creator & Meditation Guide
+    location: "Canada"
+    followers: 19100
+    engagement: 463
+    commentsToLikes: 0.035877
+    id: ckbeym7goj4a40j238zex4lon
+    verified: false
+    hashtags: "#activewear, #spring, #selflove, #ootd"
   - username: "butchbutch37"
     fullname: >-
       Matthieu Bouchard
@@ -55,30 +67,6 @@ profiles:
     id: ck8qixmd3azvc0j78zue0jdkt
     verified: false
     hashtags: "#trickshot, #fyp, #foryou, #pourtoi"
-  - username: "baeisoutlandish"
-    fullname: >-
-      MOMO & JESS
-    bio: >-
-      Momo & Jess 🌿 🔥 💨 😈 FOLLOW US ON INSTAGRAM 😈
-    location: "Canada"
-    followers: 4078
-    engagement: 439
-    commentsToLikes: 0.059817
-    id: ck806wu6gmo1p0j789594k9ew
-    verified: false
-    hashtags: "#nationalpark, #foryoupage, #deer, #canadianwildlife"
-  - username: "anneso_classy"
-    fullname: >-
-      annesoclassy
-    bio: >-
-      Being late to every trend is my brand ✌🏼
-    location: "Canada"
-    followers: 11600
-    engagement: 976
-    commentsToLikes: 0.014289
-    id: ckavtao9n62na0j23cr0lihyb
-    verified: false
-    hashtags: "#pourtoi, #fy, #foryourpage, #foryoupage"
   - username: "craig_major"
     fullname: >-
       craigmajor
@@ -90,7 +78,7 @@ profiles:
     commentsToLikes: 0.025861
     id: cka67s8pnm5nm0i78cboyvn7n
     verified: false
-    hashtags: "#fashion, #muscle, #boy, #menstyle"
+    hashtags: "#style, #muscle, #men, #bf"
   - username: "hjerando"
     fullname: >-
       hjerando
@@ -114,7 +102,7 @@ profiles:
     commentsToLikes: 0.041706
     id: ck806vqz3me7r0j78bxtikj1s
     verified: false
-    hashtags: "#greenscreenvideo, #blackcat, #kitten, #model"
+    hashtags: "#greenscreenvideo, #kitten, #model, #blackcat"
   - username: "maximestjules"
     fullname: >-
       Maxime St-Jules
@@ -127,4 +115,16 @@ profiles:
     id: ckdcm0419o85w0j23ne2dxcfw
     verified: false
     hashtags: "#danceteacher, #dance, #danceclasses, #dancers"
+  - username: "donnasaker"
+    fullname: >-
+      Donna Saker Radio
+    bio: >-
+      #1 Radio show in Montreal Canada, Dog Mom, martini lover Imperfect Perfect 🤩
+    location: "Canada"
+    followers: 22200
+    engagement: 959
+    commentsToLikes: 0.076113
+    id: ckbfba7cc35fl0j23vbw0prk0
+    verified: false
+    hashtags: "#love, #over50, #comedy, #friendlyfuture"
 ---

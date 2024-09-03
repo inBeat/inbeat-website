@@ -1,130 +1,130 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Canada In 2023
+title: Top 10 Fashion Instagram Influencers In Canada In 2024
 description: >-
-  Find top fashion Instagram influencers in Canada in 2023. Most popular hashtags: #explorepage #explore #ootd.
+  Find top fashion Instagram influencers in Canada in 2024. Most popular hashtags: #ootd #explore #streetstyle.
 platform: Instagram
-hits: 555
-text_top: Discover the most popular Instagram influencers on inBeat.
-text_bottom: Our database holds 555 Instagram influencers like this in Canada for you to work with.
+hits: 1245
+text_top: Analyze the most popular Instagram accounts on inBeat.
+text_bottom: Our search engine holds 1245 Instagram influencers like this in Canada for you to pitch.
 profiles:
-  - username: "virginiepilotte"
+  - username: "toyomuyiwa"
     fullname: >-
-      VIRGINIE
+      Toyo.
     bio: >-
-      mama de Thomas 🤍 ( & Mico 🐶 ) lifestyle, fashion, home decor québec, canada ✉️ viirg03@hotmail.ca ♡ partenaire @charlotteetcharlie
+      For the fashion forward girlies🫶🏾 📍 Toronto 📧 toyomuyiwa@647agency.com @tarsseefashion
     location: "Canada"
-    followers: 32541
-    engagement: 593
-    commentsToLikes: 0.059708
-    id: ck55ppopob3mx0i11k0dp0cdv
+    followers: 24187
+    engagement: 1037
+    commentsToLikes: 0.018127
+    id: ck8szqkknpcjt0j78wo6e49bk
     verified: false
-    hashtags: "#sunsets, #sunset, #bikinis, #bikinigirl"
-  - username: "mommas_gang"
+    hashtags: "#ootd, #outfitinspo, #explore, #newfashion"
+  - username: "shalini_matt"
     fullname: >-
-      SAMMY
+      Shalini
     bio: >-
-      Momma x5 Motherhood | Autism Mom x2 | Lifestyle | Fashion Inquiries: sammybarcelos@icloud.com
+      Fashion • Fitness• Beauty 📩: shalini.matt@hotmail.com 📍Toronto, Canada
     location: "Canada"
-    followers: 30491
-    engagement: 1265
-    commentsToLikes: 0.020403
-    id: ck5zijlgfftz90i14vjkufxsl
+    followers: 37013
+    engagement: 6730
+    commentsToLikes: 0.001572
+    id: ck6uernicsp5o0j71ntftvyov
     verified: false
-    hashtags: "#shoppingdate, #catlover, #familyof7, #twinning"
-  - username: "ariloufournier"
+    hashtags: "#trending, #barbiemovie, #dailyfashion, #fashioninspo"
+  - username: "wooitsmelody"
     fullname: >-
-      Ari Fournier
+      MELODY 🐙
     bio: >-
-      🦋🧚🏼‍♀️ @imgmodels @premiermodels Lorraine.Osp-Antonetti@img.com founder @fashion4humanity
+      toronto | soon: nyc 🗽✨ —— fashion, wellness, and travel ✉️ wooitsmelody@gmail.com
     location: "Canada"
-    followers: 260457
-    engagement: 1114
-    commentsToLikes: 0.016794
-    id: ck0w16da2hrqn0i19cq2bt5i4
+    followers: 6540
+    engagement: 473
+    commentsToLikes: 0.193713
+    id: cktdxnzz18n8z0j234wse30mt
     verified: false
-    hashtags: "#rlcaliforniadreaming"
-  - username: "hh.hager"
+    hashtags: "#barbiecore, #diycandle, #couplegoals, #barbie"
+  - username: "therivercitysisters"
     fullname: >-
-      Hager Hanawy | Toronto creator
+      Richelle + MacKenzie
     bio: >-
-      Fashion / Makeup & lifestyle 💌 hagerhanawy@outlook.com 💌 hager@levenagency.co Tiktok: hagerhanawy (155k+)
+      • Two 🇨🇦 Sisters 👯• • Food, Fashion, Family • • Progress > Perfection • rivercitysisters@gmail.com
     location: "Canada"
-    followers: 37108
-    engagement: 777
-    commentsToLikes: 0.008507
-    id: cl13ex4h0z55j0i23b9m02d4x
+    followers: 69072
+    engagement: 1078
+    commentsToLikes: 0.005430
+    id: ck5hnz6dqonae0i11pkv6e282
     verified: false
-    hashtags: "#fashionblogger, #explorepage, #pinterest, #torontoblogger"
-  - username: "taliana.noronha"
+    hashtags: "#iamcanadian, #momlife101, #canadianmommyblogger, #hautecuisines"
+  - username: "vivianwong_"
     fullname: >-
-      𝔗𝔞𝔩𝔦𝔞𝔫𝔞 💿
+      V
     bio: >-
-      🇧🇷 fashion&dance @flip.officiall @dmnation_official @cirquedusoleil @agt @revolutiontva @nbcworldofdance
+      Lifestyle, fashion, travel… It’s just my life 🥀 @yegcycle ambassador 🚲 @socialties.ca 🌙 ✉️ hello@vivian-wong.ca
     location: "Canada"
-    followers: 9760
-    engagement: 373
-    commentsToLikes: 0.016531
-    id: cl12gwcjay62r0i23q6p8h0pp
+    followers: 50406
+    engagement: 670
+    commentsToLikes: 0.014720
+    id: ck0vww6iuvvt90i19rap5fjx1
     verified: false
-    hashtags: "#quebec, #quebeccity, #dancevideo, #reels"
-  - username: "william_iwokiri"
+    hashtags: "#travelgram, #workoutwithme, #style, #ootd"
+  - username: "shaunawaye"
     fullname: >-
-      GW
+      shauna waye
     bio: >-
-      🇳🇬 ♡ Illustrator • Bioengineer ♡ Aspiring fashion designer ♡ Commissions: OPEN ✉ giw.inquiries@gmail.com Shop Wallpapers ↓
+      fashion + lifestyle 🦋🌸 toronto 🤍 Email: shaunawaye1@gmail.com TikTok: shaunawaye Pinterest: shaunawaye_
     location: "Canada"
-    followers: 8588
-    engagement: 3722
-    commentsToLikes: 0.047553
-    id: ck5zr3nixvu2g0i14a0qnegdy
+    followers: 21842
+    engagement: 6226
+    commentsToLikes: 0.045524
+    id: ckwu9i0gbuu3o0j23041guztl
     verified: false
-    hashtags: "#swipeleft, #illustration, #blackownedbusiness, #fashionillustration"
-  - username: "saralevs"
+    hashtags: "#ardenelove, #ardenebabe"
+  - username: "sabmoldenhauer"
     fullname: >-
-      SARA LEVITT
+      Sabrina
     bio: >-
-      montreal fashion | lifestyle | home eCommerce manager @noizeoriginal
+      toronto ✰ creative ✰ lifestyle ✰ fashion sabmoldenhauer3@gmail.com
     location: "Canada"
-    followers: 5963
-    engagement: 295
-    commentsToLikes: 0.075173
-    id: ckaoszed3towd0i78ukl5z3y1
+    followers: 39783
+    engagement: 619
+    commentsToLikes: 0.041400
+    id: cl0ir9uodk8rf0i233tizoqy6
     verified: false
-    hashtags: "#lacucina"
-  - username: "choudhurydib"
+    hashtags: "#pandorapartner, #belove, #chattershairsalon, #hairhack"
+  - username: "sinkthesun"
     fullname: >-
-      Dibya | Fashion && Lifestyle
+      Brian Morr
     bio: >-
-      Fashion && Mamma Lifestyle 📍Toronto, CA 🇨🇦 🇺🇸 🇮🇳 Collab: choudhurydibya@gmail.com Shoedazzle👇
+      📍NYC Fashion & Lifestyle Creator☀️Photographer Photography: @morrofyou Twitter & TikTok @sinkthesun Talk to me: be19morr@gmail.com
     location: "Canada"
-    followers: 23419
-    engagement: 287
-    commentsToLikes: 0.415016
-    id: ck8tbjidovy1i0j78zwxaohqd
+    followers: 73245
+    engagement: 471
+    commentsToLikes: 0.089114
+    id: ck5hij3a7drv20i11fops7uye
     verified: false
-    hashtags: "#exploretoronto, #ad, #shoedazzlesquad, #sponsored"
-  - username: "mel77wa"
+    hashtags: "#ltkmens, #liketkit, #ltkseasonal, #ollypartner"
+  - username: "_ktinaaa"
     fullname: >-
-      Melanie Roy
+      Tina Rogers
     bio: >-
-      Part-time wanderer | full-time mommy<3 Mel77wa@gmail.com • Made in *•🇨🇦•* • Family Travel | clean beauty | ethical + sustainable living | slow fashion
+      healthy hair girly | affordable fashion | outfit & home inspo 📍yyc STUDIO: @hausofhair.yyc
     location: "Canada"
-    followers: 20412
-    engagement: 284
-    commentsToLikes: 0.235919
-    id: cksa05djdjbis0j23qso5olea
+    followers: 16027
+    engagement: 1322
+    commentsToLikes: 0.174642
+    id: clb9x522j7o1t0i23gon0yvb3
     verified: false
-    hashtags: "#jackandjillkids, #loveverybaby, #receiptjar, #trainingpants"
-  - username: "emmaleger"
+    hashtags: "#yychair, #yychairstylist, #yycfashion, #momfashion"
+  - username: "sippystackz"
     fullname: >-
-      Emma Rose
+      ♡ SIPPY ♡
     bio: >-
-      lifestyle, fashion & beauty co-founder @justscoutit 🎙 @thatssosabotage shop + youtube:
+      beauty, travel, fashion & married life 🧸 💌 sippystackz@gmail.com tiktok: sippystackz muslim + kurdish + canadian 🇨🇦
     location: "Canada"
-    followers: 616423
-    engagement: 230
-    commentsToLikes: 0.007082
-    id: ck0u9okoraduk0i19air3hp4u
+    followers: 22024
+    engagement: 516
+    commentsToLikes: 0.033954
+    id: ck138rkudho3k0i19689iz4oy
     verified: false
-    hashtags: "#doubles, #mkxellesse, #mkpartner, #tiffanypartner"
+    hashtags: "#microinfluencer, #outfitreel, #streetwear, #longhair"
 ---

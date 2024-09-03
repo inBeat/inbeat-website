@@ -1,12 +1,24 @@
 ---
-title: Top 10 Health TikTok Influencers In Seattle In 2023
+title: Top 10 Health TikTok Influencers In Seattle In 2024
 description: >-
-  Find top health TikTok influencers in Seattle in 2023. Most popular hashtags: #fyp #seattle #health #food.
+  Find top health TikTok influencers in Seattle in 2024. Most popular hashtags: #fyp #health #seattle #foryoupage.
 platform: TikTok
-hits: 14
-text_top: Analyze the best TikTok influencers on inBeat.
-text_bottom: Our database aggregates 14 TikTok influencers like this in Seattle, United States for you to collaborate.
+hits: 15
+text_top: Identify the most popular TikTok profiles on inBeat.
+text_bottom: Our platform holds 15 TikTok influencers like this in Seattle, United States for you to contact.
 profiles:
+  - username: "prozac.pimp"
+    fullname: >-
+      Hannah
+    bio: >-
+      they/she eating disorder recovery ☀️cap 🌙sag ⬆️sag 📍Seattle WA sc: aquajaden
+    location: "United States"
+    followers: 23100
+    engagement: 1912
+    commentsToLikes: 0.048812
+    id: ckfo56dud1pv40j23ox7i05ca
+    verified: false
+    hashtags: "#bodypositivity, #ed, #greenscreen, #edrecocery"
   - username: "seattle.rob"
     fullname: >-
       Seattle Rob
@@ -42,7 +54,7 @@ profiles:
     commentsToLikes: 0.006360
     id: ck932idajjn7l0j78nk9obu71
     verified: false
-    hashtags: "#latina, #comida, #fyp, #dessert"
+    hashtags: "#comida, #seafood, #latino, #food"
   - username: "annabannerz"
     fullname: >-
       annersz
@@ -66,7 +78,7 @@ profiles:
     commentsToLikes: 0.124485
     id: ckbf22k4copvq0j23v4gj31dy
     verified: false
-    hashtags: "#recipe, #life, #doctor, #nurse"
+    hashtags: "#entrepreneur, #nurse, #doctor, #life"
   - username: "letspiritbeyourguide"
     fullname: >-
       Kat Heart
@@ -115,16 +127,4 @@ profiles:
     id: cka9kzgm1194y0i780mqhun9n
     verified: false
     hashtags: "#omg, #foryou, #animals, #like"
-  - username: "zeekabi"
-    fullname: >-
-      zeekabi
-    bio: >-
-      I dont know what I’m doing here 🇮🇶
-    location: "United States"
-    followers: 17700
-    engagement: 879
-    commentsToLikes: 0.063749
-    id: ckbqpil5habgg0j23fpwf0nhr
-    verified: false
-    hashtags: "#bridgerton, #fyp, #photographer, #food"
 ---

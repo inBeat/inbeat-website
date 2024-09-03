@@ -1,12 +1,72 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Colombia In 2023
+title: Top 10 Yoga Instagram Influencers In Colombia In 2024
 description: >-
-  Find top yoga Instagram influencers in Colombia in 2023. Most popular hashtags: #yoga #meditacion #bienestar #salud.
+  Find top yoga Instagram influencers in Colombia in 2024. Most popular hashtags: #yoga #love #yogacolombia #vida.
 platform: Instagram
-hits: 34
+hits: 36
 text_top: Analyze the top-rated Instagram accounts on inBeat.
-text_bottom: Our database has 34 Instagram influencers like this in Colombia for you to pitch.
+text_bottom: Our database aggregates 36 Instagram influencers like this in Colombia for you to connect with.
 profiles:
+  - username: "zuzana_klingrova"
+    fullname: >-
+      Zuzana Klingrova
+    bio: >-
+      Yoga therapist, Ayurveda specialist Knihy:Jóga po celý rok,Jóga proti úzkosti a strach,Jóga pro hubnutí a očistu, Ájurvéda a jóga pro ženy 11/2023
+    location: "Colombia"
+    followers: 38030
+    engagement: 319
+    commentsToLikes: 0.024259
+    id: ck14ilv5yg22q0i19wu5yhqi6
+    verified: false
+    hashtags: "#studiumjogy, #prirodnipeceoplet, #ajurvedskamedicina, #czechyoga"
+  - username: "adrisilvac"
+    fullname: >-
+      ADRIANA SILVA
+    bio: >-
+      Actriz 🇨🇴🎭 Amante del Yoga🕉️ Con alma sin límites y Dios en mi💖 FB:Adriana Silva Actriz #adrisilvac @akka.health.bienestar @vivealamar
+    location: "Colombia"
+    followers: 144035
+    engagement: 69
+    commentsToLikes: 0.030270
+    id: ck6tvbw7tlchz0j71eoccuwmz
+    verified: true
+    hashtags: "#exploradoradeconsciencia, #happyadri, #respeto, #homemade"
+  - username: "medicenmila11"
+    fullname: >-
+      Camila, me dicen Mila 🔮🪐🦋
+    bio: >-
+      Maestra de yoga, experta en movimiento y meditación ✨ Te enseño a reducir estrés a través del movimiento, el sonido y la respiración…
+    location: "Colombia"
+    followers: 35683
+    engagement: 66
+    commentsToLikes: 0.041447
+    id: ck8sxy0ocj2sk0j78yxgw8q8z
+    verified: false
+    hashtags: "#milabowl, #conectandoconunafoto, #tb"
+  - username: "carolinaecovida"
+    fullname: >-
+      𝐂𝐚𝐫𝐨𝐥𝐢𝐧𝐚 𝐆𝐨𝐧𝐳𝐚𝐥𝐞𝐳 𝐖.
+    bio: >-
+      Vida Saludable y Sostenible Prana Vinyasa Yoga 200hrs RYT Kundalini Yoga 200hrs PNL Master Practitioner Sacral Sound Healing and Sound Bath
+    location: "Colombia"
+    followers: 32107
+    engagement: 45
+    commentsToLikes: 0.007629
+    id: ck6u1n4gimqbd0j71hqhpbbv5
+    verified: false
+    hashtags: "#crecimientopersonal, #yogacolombia, #yogacarolinaecovida, #carolinaecovida"
+  - username: "santosalexandra"
+    fullname: >-
+      Alexa Santos
+    bio: >-
+      ❤️Amor, Relaciones ☀️♥️ 👦🏻Mamá de Mateo 🎥Journalist | TV Host 🍎Health Coach 🏋🏻🧘‍♀️ Sports & yoga 🍓Food lover 💚Naturaleza 📍Colombia
+    location: "Colombia"
+    followers: 156672
+    engagement: 38
+    commentsToLikes: 0.137227
+    id: ck6uem1snrqe20j71e0aouth1
+    verified: true
+    hashtags: "#hazloreal, #publicidad, #hyundaikona, #amor"
   - username: "ania17art"
     fullname: >-
       ania17art.yoga
@@ -19,18 +79,6 @@ profiles:
     id: ckaoyhmybhke40i78yljrwual
     verified: false
     hashtags: "#sol, #instagood, #instapanama, #delicious"
-  - username: "zuzana_klingrova"
-    fullname: >-
-      Zuzana Klingrova
-    bio: >-
-      Yoga teacher & therapist 💛Yoga&travel Autor 📚Jóga po celý rok, Jóga proti úzkosti a strachu Podcast: Povídání nejen o józe
-    location: "Colombia"
-    followers: 33658
-    engagement: 699
-    commentsToLikes: 0.033855
-    id: ck14ilv5yg22q0i19wu5yhqi6
-    verified: false
-    hashtags: "#jogadnes, #joga, #darek, #mixtee"
   - username: "deluzsemilla"
     fullname: >-
       cyan 🌙ॐ ~ yoga & bienestar
@@ -79,52 +127,4 @@ profiles:
     id: ck8t1veuhx6sp0j7825w41la7
     verified: false
     hashtags: "#shredded, #colombianwomen, #fitnessmotivation, #physique"
-  - username: "silvanatorresc"
-    fullname: >-
-      Silvana Torres
-    bio: >-
-      ᴍᴇ ɪɴꜱᴘɪʀᴀ ʟᴀ ᴠɪᴅᴀ✨ 🌱 acción(ando) un mundo mejor 🧘🏻 cuerpo, alma y bien-estar 🌙 lugares con magia ⛅️ pedacitos de cielo CEO @blinkcol ⚡️
-    location: "Colombia"
-    followers: 75239
-    engagement: 258
-    commentsToLikes: 0.009633
-    id: ck8szkkltosyz0j78zgihygnz
-    verified: false
-    hashtags: "#yoga, #travel, #ejecafetero, #colombia"
-  - username: "vero__ospina"
-    fullname: >-
-      Vero Ospina
-    bio: >-
-      Respira, respira, respira 🍃🌬 Guía de bienestar📖 @atmavillas
-    location: "Colombia"
-    followers: 47735
-    engagement: 262
-    commentsToLikes: 0.042843
-    id: ck136gciz6d2g0i19pezkgsqq
-    verified: false
-    hashtags: "#pranayama, #bienestar, #justbreathe, #meditar"
-  - username: "natygaravitoa"
-    fullname: >-
-      Natalia Garavito ✨
-    bio: >-
-      Abogada | PUJ ✨@nataliaangel33 💕
-    location: "Colombia"
-    followers: 716
-    engagement: 4304
-    commentsToLikes: 0.092587
-    id: ckaoznu8fmlt30i781vylujhi
-    verified: false
-    hashtags: "#concienciaplena, #mujerholistica, #motivacion, #bienestar"
-  - username: "endocrinorosero"
-    fullname: >-
-      Endocrino Rosero
-    bio: >-
-      👉🏻Comida real para personas reales| ✍️Autor : Meta Alimentación | Médico Endocrinólogo Experto en metabolismo🧬|🇨🇴| Información sobre EndocrinoRosero👇
-    location: "Colombia"
-    followers: 504079
-    engagement: 268
-    commentsToLikes: 0.039558
-    id: ck8sz2e86mwzd0j788xvt7vyr
-    verified: false
-    hashtags: "#dieta, #keto, #nutricion, #saludable"
 ---

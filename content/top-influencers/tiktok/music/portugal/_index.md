@@ -1,11 +1,11 @@
 ---
-title: Top 10 Music TikTok Influencers In Portugal In 2023
+title: Top 10 Music TikTok Influencers In Portugal In 2024
 description: >-
-  Find top music TikTok influencers in Portugal in 2023. Most popular hashtags: #fyp #portugal #foryou.
+  Find top music TikTok influencers in Portugal in 2024. Most popular hashtags: #fyp #foryou #music.
 platform: TikTok
 hits: 52
-text_top: See the most popular TikTok profiles on inBeat.
-text_bottom: inBeat holds 52 TikTok influencers like this in Portugal for you to collaborate.
+text_top: Identify the top-rated TikTok influencers on inBeat.
+text_bottom: inBeat aggregates 52 TikTok influencers like this in Portugal for you to pitch.
 profiles:
   - username: "stankoofficial"
     fullname: >-
@@ -97,12 +97,12 @@ profiles:
     bio: >-
       Just be nice and kind :) 17 PT📍
     location: "Portugal"
-    followers: 30900
-    engagement: 2016
-    commentsToLikes: 0.039534
+    followers: 31000
+    engagement: 1829
+    commentsToLikes: 0.034606
     id: ckcpse08nmmj40j23oveh3e7m
     verified: false
-    hashtags: "#outfit, #foryou, #fy, #dueto"
+    hashtags: "#outfit, #fy, #portugal, #fyp"
   - username: "p.t__"
     fullname: >-
       Portugal aesthetic

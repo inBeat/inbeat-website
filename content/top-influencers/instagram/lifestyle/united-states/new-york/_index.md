@@ -1,60 +1,72 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In New York In 2023
+title: Top 10 Lifestyle Instagram Influencers In New York In 2024
 description: >-
-  Find top lifestyle Instagram influencers in New York in 2023. Most popular hashtags: #fashion #newyork #love #lifestyle.
+  Find top lifestyle Instagram influencers in New York in 2024. Most popular hashtags: #lifestyle #ootd #fashion #photography.
 platform: Instagram
-hits: 712
-text_top: Discover the best Instagram profiles on inBeat.
-text_bottom: inBeat aggregates 712 Instagram influencers like this in New York, United States for you to contact.
+hits: 979
+text_top: Analyze the best Instagram profiles on inBeat.
+text_bottom: Our database holds 979 Instagram influencers like this in New York, United States for you to pitch.
 profiles:
-  - username: "daisyprofile"
+  - username: "sstephkoutss"
     fullname: >-
-      Daisy
+      stephanie koutsoukos
     bio: >-
-      Anterior cuenta de modelo más de 100k💣💥 Y mi cuenta que NO es de modelaje: @daisydaixy TODO LO QUE DESEAMOS NOS DESEA 🔥😎
+      fashion • beauty • lifestyle new york, ny ✉️ steph@aceinfluencers.com
     location: "United States"
-    followers: 28406
-    engagement: 382
-    commentsToLikes: 0.024715
-    id: ck55lwsaj2mjz0i11h4sdv43d
+    followers: 32774
+    engagement: 159
+    commentsToLikes: 0.117647
+    id: ck8t7drhmgfn40j786ilzpkal
     verified: false
-    hashtags: "#healthy, #vegan, #fitness, #fitspo"
-  - username: "ruben_stouth"
+    hashtags: "#falltransition, #autumnoutfit, #pinterestoutfit, #blazeroutfit"
+  - username: "wendystarland"
     fullname: >-
-      IFBB PRO Ruben Stouth 🇵🇷
+      Wendy Starland
     bio: >-
-      🙏Son of God 🏆Overall Classic Physique -Team U 📍 NYC 🏋🏾‍♂️Certified PT 💎Inquiries: stouthfitness@gmail.com 👇🏾 Train With Me
+      Honored by the Songwriter's Hall Of Fame Discovered & Developed Lady Gaga Awarded VH1's Best Emerging Artist Opened for Jack White & Sheryl Crow
     location: "United States"
-    followers: 29965
-    engagement: 169
-    commentsToLikes: 0.044182
-    id: ckaoy2tunftri0i78gxn66z8d
+    followers: 395168
+    engagement: 951
+    commentsToLikes: 0.013321
+    id: ckq6vnh83j9850j239z36h8eg
     verified: false
-    hashtags: "#powerlifting, #fit, #ifbb, #ifbbpro"
-  - username: "69.views"
+    hashtags: "#milan, #thenegotiator, #artellsmagazine, #fashionnova"
+  - username: "ana.pessack"
     fullname: >-
-      Folajimi
+      Ana Pessack, Ph.D.
     bio: >-
-      Photographer | Content Creator | Retouching Enthusiast 📍New York 🗽 Click the link to 📖
+      This instagram is dedicated to my hair 💇🏻‍♀️
     location: "United States"
-    followers: 26865
-    engagement: 519
-    commentsToLikes: 0.046476
-    id: ck0ueaokul08u0i19tsuxn5gz
+    followers: 2859181
+    engagement: 134
+    commentsToLikes: 0.028053
+    id: ckraa52mdal9a0j230d0rkp5z
     verified: false
-    hashtags: "#nycmodel, #newjerseyphotographer, #beautyphotography, #maternityphotography"
-  - username: "everything_ravish"
+    hashtags: "#lifestyle, #newyorkcity, #ootd, #grwm"
+  - username: "sir.optimistic"
     fullname: >-
-      Ravishing.ravish
+      S.O✍🏽🎤
     bio: >-
-      Mrs.Pakistan World 2020 🌎 Pakistani-American lifestyle influencer. For all inquiries kindly DM me or email me 💌 ravishzahidthomas@gmail.com
+      NewYorkMade🗽💯 #SPAZZWORLD🕊 #RIPGRANDPA💔
     location: "United States"
-    followers: 87236
-    engagement: 413
-    commentsToLikes: 0.098707
-    id: ck13cieil0i200i19qxnhzinu
+    followers: 4645
+    engagement: 593
+    commentsToLikes: 0.124411
+    id: ck14hll9aaxio0i190xqqr28j
     verified: false
-    hashtags: "#mrspakistanuniverse, #misspakistanocean, #pageantlife, #bloggers"
+    hashtags: "#lifestyle, #newyorkcity, #ootd, #makeup"
+  - username: "vendomepress"
+    fullname: >-
+      Vendome Press
+    bio: >-
+      The Official Instagram of Vendome Press | Publisher of Art and Illustrated Books
+    location: "United States"
+    followers: 63702
+    engagement: 106
+    commentsToLikes: 0.010794
+    id: ck0vv2fgtn8bk0i19qzhlxsdk
+    verified: false
+    hashtags: "#mainephotographers, #themainehouse, #thameshudsonsales, #bigvendomefamily"
   - username: "_patrician__"
     fullname: >-
       PATRICIAN
@@ -67,6 +79,18 @@ profiles:
     id: ck6ttovv4bsrw0j71p2q5bpa2
     verified: false
     hashtags: "#guitar, #art, #rapper, #vocals"
+  - username: "althafyaseen_photography"
+    fullname: >-
+      #💟Althaf yaseen
+    bio: >-
+      Personal account @althaf_yaseen__ DM me for collabs📸 8606942235📞 Nov 30🎂 Idukki-kumily🌴 Arafa_clg_of_artz_n_science🏬
+    location: "United States"
+    followers: 9125
+    engagement: 347
+    commentsToLikes: 0.021765
+    id: ck8t74n6tfmrs0j78hhym6nm0
+    verified: false
+    hashtags: "#alappuzha, #kozhikoden, #keralabride, #godsowncountry"
   - username: "barbiemintmaoo"
     fullname: >-
       Barbiemintmaoo (Aashika)
@@ -79,52 +103,28 @@ profiles:
     id: ck9wdcvb0f2y40j78ue40f3aw
     verified: false
     hashtags: "#likeforlikes, #followforfollowback, #fashion, #like"
-  - username: "edenyoungstein"
+  - username: "kolinmendez"
     fullname: >-
-      Eden Youngstein
+      NYC Headshot Photographer
     bio: >-
-      🍂 Style | Motherhood | Travel | Lifestyle 🍃 New York City 🚕
+      NYC Headshot & Portrait Photographer: @kolinmendezphoto • #kolinmendezphotography More Than A Headshot, Book Your Session Today!
     location: "United States"
-    followers: 34185
-    engagement: 396
-    commentsToLikes: 0.060798
-    id: ck5c6wegs6c820i11b8g1v4mh
+    followers: 7343
+    engagement: 359
+    commentsToLikes: 0.026091
+    id: ck5c3ewaiz6tc0i11w3pd0cxi
     verified: false
-    hashtags: "#fashionblogger, #falloutfits, #barbie, #fashion"
-  - username: "joladys_art"
+    hashtags: "#digitalphotography, #blackempowerment, #activism, #blackbusiness"
+  - username: "wigglebuttmochi"
     fullname: >-
-      Jolady Nunez
+      MOCHI & JASS ◡̈
     bio: >-
-      Makeup Artist • Content Creator Fashion | Hair | Lifestyle | Art New York City
+      ‣ a silly auss w/ her silly mom ‣ adventures and dog friendly lifestyle ‣ brooklyn / new york city ✉︎ wigglebuttmochi@gmail.com
     location: "United States"
-    followers: 5273
-    engagement: 1067
-    commentsToLikes: 0.061209
-    id: ck0vz5qct7fw50i1932j5he86
+    followers: 35795
+    engagement: 373
+    commentsToLikes: -1.310586
+    id: cl8g9ap144nw20i23ex0jaglx
     verified: false
-    hashtags: "#curlyhair, #fashion, #makeup, #like"
-  - username: "oleynikdmitri"
-    fullname: >-
-      NEW YORK PHOTOGRAPHER
-    bio: >-
-      Photographer for Content Creators portrait | lifestyle | commercial New York + travel ✨portfolio @photographydmitri
-    location: "United States"
-    followers: 18327
-    engagement: 398
-    commentsToLikes: 0.026053
-    id: ck5hmzcromwyj0i11mmfcvwv0
-    verified: false
-    hashtags: "#topnewyorkphoto, #nikonz5, #nycphotographer, #nycphotography"
-  - username: "setias11"
-    fullname: >-
-      Ronan Setias
-    bio: >-
-      I ❤️ NY | lifestyle + travel New York
-    location: "United States"
-    followers: 21382
-    engagement: 344
-    commentsToLikes: 0.020638
-    id: ck13c8k8lz47i0i19j1tmcxyj
-    verified: false
-    hashtags: "#brooklynheights, #nyc, #friday"
+    hashtags: "#dogsofinsta, #puppylove, #funnyvideo, #dogreels"
 ---

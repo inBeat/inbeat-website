@@ -1,11 +1,11 @@
 ---
-title: Top 10 Gardening TikTok Influencers In Canada In 2023
+title: Top 10 Gardening TikTok Influencers In Canada In 2024
 description: >-
-  Find top gardening TikTok influencers in Canada in 2023. Most popular hashtags: #fyp #duet #foryou #foryoupage.
+  Find top gardening TikTok influencers in Canada in 2024. Most popular hashtags: #fyp #foryou #duet #foryoupage.
 platform: TikTok
 hits: 63
-text_top: See the most popular TikTok accounts on inBeat.
-text_bottom: Our search engine has 63 TikTok influencers like this in Canada for you to connect with.
+text_top: Analyze the most popular TikTok accounts on inBeat.
+text_bottom: Our database holds 63 TikTok influencers like this in Canada for you to pitch.
 profiles:
   - username: "theplantladyk"
     fullname: >-
@@ -55,6 +55,18 @@ profiles:
     id: ckb9sqf99qanm0j23ev868xjm
     verified: false
     hashtags: "#morningboost, #foryou, #foru, #greenscreen"
+  - username: "catherine_adams_"
+    fullname: >-
+      Catherine
+    bio: >-
+      Wife, mom, stepmom 🇨🇦 Fun, silliness and positive vibes! 😀
+    location: "Canada"
+    followers: 29000
+    engagement: 1369
+    commentsToLikes: 0.333408
+    id: cka0tgj8epw1d0i78z5jadthc
+    verified: false
+    hashtags: "#duet, #momlife, #wellness, #tiktokwildlifeday"
   - username: "weeb.ies"
     fullname: >-
       🌵g a b s🧃&💧h a n b a⭐️
@@ -90,7 +102,7 @@ profiles:
     commentsToLikes: 0.064361
     id: ckb0wub4qm09h0j23or08i2xl
     verified: false
-    hashtags: "#duet, #lol, #stitch, #lmao"
+    hashtags: "#lol, #duet, #lmao, #stitch"
   - username: "forbidden.jam"
     fullname: >-
       My body my choice
@@ -115,16 +127,4 @@ profiles:
     id: ckb165ukctmhm0j236qk369n5
     verified: false
     hashtags: "#happyathome, #pourtoi, #forupage, #4u"
-  - username: "queer_coupon"
-    fullname: >-
-      Coup
-    bio: >-
-      24, he/they, Queer, 🇨🇦 Twitter @Qdazed (18+ content) for commission info
-    location: "Canada"
-    followers: 23500
-    engagement: 2286
-    commentsToLikes: 0.052243
-    id: ckblpbnlwh09l0j23agvl17pc
-    verified: false
-    hashtags: "#nonbinary, #trans, #cosplay, #autism"
 ---

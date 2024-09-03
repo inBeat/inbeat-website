@@ -1,11 +1,11 @@
 ---
-title: Top 10 Pole Dancers Instagram Influencers In Spain In 2023
+title: Top 10 Pole Dancers Instagram Influencers In Spain In 2024
 description: >-
-  Find top pole dancers Instagram influencers in Spain in 2023. Most popular hashtags: #poledance #poledancer #polefitness #flexibility.
+  Find top pole dancers Instagram influencers in Spain in 2024. Most popular hashtags: #poledance #flexibility #poledancer #polesport.
 platform: Instagram
 hits: 16
-text_top: Identify the top-rated Instagram profiles on inBeat.
-text_bottom: Our database has 16 Instagram influencers like this in Spain for you to work with.
+text_top: Identify the top-rated Instagram influencers on inBeat.
+text_bottom: Our platform has 16 Instagram influencers like this in Spain for you to contact.
 profiles:
   - username: "lili_sgn"
     fullname: >-
@@ -23,14 +23,14 @@ profiles:
     fullname: >-
       N R
     bio: >-
-      Mi casa es @circoraluy Legacy✨ Circus girl🎪 #poledancer #skater Finalist: ⛸Got Talent 👁GH16 Coach en Eso lo hago! Sometimes YouTuber⬇️
+      Mi casa es @circoraluy Legacy✨ 🎪Circus girl PoleDancer/ skater/ equilibrist 10dto @nutritionstorebarcelona Finalist: GH16 & Got Talent
     location: "Spain"
-    followers: 134078
-    engagement: 247
-    commentsToLikes: 0.036819
+    followers: 133542
+    engagement: 243
+    commentsToLikes: 0.158977
     id: ck5q0peqd73uq0i11j4pk82hc
     verified: true
-    hashtags: "#polecombo, #split, #poledancers, #poletricks"
+    hashtags: "#bcn, #flexibility, #fit, #fitnesslife"
   - username: "brendibighetto"
     fullname: >-
       Brendi Bighetto
@@ -55,18 +55,6 @@ profiles:
     id: ck0vw9dh0sowc0i197yvknfy7
     verified: false
     hashtags: "#poledance, #polefitness, #pole, #workout"
-  - username: "elenareinar"
-    fullname: >-
-      Elena Reina
-    bio: >-
-      Sevilla. 📧 Elenarramon00@gmail.com
-    location: "Spain"
-    followers: 2110
-    engagement: 1484
-    commentsToLikes: 0.056142
-    id: ck8szo7w7p47q0j78gxrf7hx1
-    verified: false
-    hashtags: "#polefitness, #polesport, #photography, #poledancer"
   - username: "quecasarita"
     fullname: >-
       Sara de Dios Ruiz
@@ -90,19 +78,19 @@ profiles:
     commentsToLikes: 0.059972
     id: ck5qc10xsocbl0i11x0y3wkbd
     verified: false
-    hashtags: "#tiktok, #canarias, #speedoboy, #summervibes"
+    hashtags: "#tiktok, #summervibes, #thebathsvirgingorda, #ban"
   - username: "elimiralles"
     fullname: >-
       
     bio: >-
-      Barcelona 🖤🛩
+      ✈︎ [ Barcelona ] ✈︎ [ Red Bull Wing ] ✈︎ [ Aeronautical Management ]
     location: "Spain"
-    followers: 2254
-    engagement: 1063
-    commentsToLikes: 0.056263
+    followers: 2401
+    engagement: 1002
+    commentsToLikes: 0.066855
     id: ck5zyxaklaoz00i14wmsl6ocw
     verified: false
-    hashtags: "#february, #2020, #poledance, #2019"
+    hashtags: "#anane, #august, #september, #poledance"
   - username: "polefiction"
     fullname: >-
       Teresa Rodríguez
@@ -115,6 +103,18 @@ profiles:
     id: ck6031jickh9x0i14wqd3qdq6
     verified: false
     hashtags: "#polechoreo, #exoticpole, #polefictionpoleography, #polefiction"
+  - username: "lydiafairen"
+    fullname: >-
+      LYDIA FAIRÉN
+    bio: >-
+      🗽NYC / Spain 🇪🇸 . ☮️"MARTA" en 🏙 @companyelmusical (Spain 🇪🇸) . 👩‍🏫🗣 Vocal Coach . 🕷️"Miércoles" @la_familiaddams 🇨🇵"Eponine" #LesMiserables
+    location: "Spain"
+    followers: 12609
+    engagement: 753
+    commentsToLikes: 0.133914
+    id: ck5qeilze0oa40i11mrgkfyqo
+    verified: false
+    hashtags: "#espa, #teatrolara, #lallamadaelmusical, #actriz"
   - username: "mertun"
     fullname: >-
       ᴍᴇʀᴄᴇᴅᴇs ⚡️ᴇʀᴀᴅᴇs
@@ -126,5 +126,5 @@ profiles:
     commentsToLikes: 0.019060
     id: ck134adrmvh6s0i19kecd4ixd
     verified: false
-    hashtags: "#outfitselfie, #inspofashion, #sheinx, #inspostyle"
+    hashtags: "#revolveme, #outfits, #sheinx, #photoshoot"
 ---

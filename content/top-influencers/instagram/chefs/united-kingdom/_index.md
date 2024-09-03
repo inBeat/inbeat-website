@@ -1,130 +1,130 @@
 ---
-title: Top 10 Chefs Instagram Influencers In United Kingdom In 2023
+title: Top 10 Chefs Instagram Influencers In United Kingdom In 2024
 description: >-
-  Find top chefs Instagram influencers in United Kingdom in 2023. Most popular hashtags: #travelgram #wanderlust #instatravel.
+  Find top chefs Instagram influencers in United Kingdom in 2024. Most popular hashtags: #london #foodie #food #breakfast.
 platform: Instagram
-hits: 173
-text_top: See the most popular Instagram influencers on inBeat.
-text_bottom: Our platform holds 173 Instagram influencers like this in United Kingdom for you to contact.
+hits: 251
+text_top: Discover the best Instagram influencers on inBeat.
+text_bottom: Our search engine aggregates 251 Instagram influencers like this in United Kingdom for you to contact.
 profiles:
-  - username: "hollieevelyn"
+  - username: "zonfrillo"
     fullname: >-
-      Hollie-Evelyn ✨
+      Jock Zonfrillo
     bio: >-
-      Mum Life & Professional Chef Archie & Ariella ❤️ Biz: Sustainable & stylish tableware for little foodies 🌎✨@bamboosaidthebear Recipes & Activities 🎨
+      Chef
     location: "United Kingdom"
-    followers: 33772
-    engagement: 657
-    commentsToLikes: 0.121105
-    id: ck0tul6g47nu10i19fyd7zvdl
+    followers: 337753
+    engagement: 200
+    commentsToLikes: 0.025587
+    id: ck0u1fevywnw80i19po9e4pmq
     verified: false
-    hashtags: "#realisation137, #ad"
-  - username: "katie_anna21"
+    hashtags: "#ad, #alwaysfresh, #ambassador, #proudlyworking"
+  - username: "jskot"
     fullname: >-
-      Katie Anna
+      John Skotidas
     bio: >-
-      Chef/Model/Miss Dolittle 🐕🐕🐕🐕🦜 My business @katies_kitchfix👩🏼‍🍳 Law of attraction ~ good energy is everything💫 The best things In life aren’t things 🌻
+      Executive Chef | Culinary Director @abraovata @hovarda_london
     location: "United Kingdom"
-    followers: 85658
-    engagement: 103
-    commentsToLikes: 0.043302
-    id: ck8t0tsoxtach0j781drw2g3p
+    followers: 20441
+    engagement: 474
+    commentsToLikes: 0.043764
+    id: ckaozeedzlibv0i78dmkru1sl
     verified: false
-    hashtags: "#dogslife, #rainbowlorikeets, #petsofinstagram, #hairgoals"
-  - username: "followingthethorpes"
+    hashtags: "#nottinghill, #greek, #gastronomy, #lakevouliagmeni"
+  - username: "tastycurls"
     fullname: >-
-      DT 💚
+      Rachel
     bio: >-
-      🌱Vegan family 🍔 Food Blogger 👩‍🍳 Proud mummy of Chef DeeDee 📩 DM or Email for collaborations
+      🌿 Nourishing Plant-Based Recipes 👩🏽‍🍳 Founder @sankofa_suppers 🍲 Private Chef | Content Creator 📧 PR/Collabs - hello@tastycurls.co.uk
     location: "United Kingdom"
-    followers: 6620
-    engagement: 610
-    commentsToLikes: 0.020512
-    id: ckap32qqz1ayy0i78m4jld57m
+    followers: 24229
+    engagement: 675
+    commentsToLikes: 0.093213
+    id: clabntjp5sgl30i23z8e3da6h
     verified: false
-    hashtags: "#ad, #pocketmoney, #freekidscard, #hyperjar"
-  - username: "aehglory"
+    hashtags: "#veganchef, #warmsaladrecipe, #ad, #soupseason"
+  - username: "byrosielouise"
     fullname: >-
-      Aeh Pannasorn^^
+      rosie 📍 bath and london
     bio: >-
-      😇Team Angel Cycling 🚴Ceepo Bicycle Ambassador Chef: Morning Glory The Bakery House Blog FB: EatPlayRide 📞For Work:0825709998
+      Chef living in a cottage • London & Bath • @rosieatthecottage • cooking, eating, travelling represented @shinetalentgroup 📧: byrosielouise@gmail.com
     location: "United Kingdom"
-    followers: 101730
-    engagement: 114
-    commentsToLikes: 0.023569
-    id: ck5zqr26pv4mg0i147foxsy93
+    followers: 39551
+    engagement: 581
+    commentsToLikes: 0.035819
+    id: ck139lf4wlwe30i19pgzb36e3
     verified: false
-    hashtags: "#cyclingapparel, #cyclingselfie, #cyclingaddict, #runningmotivation"
-  - username: "toniabuxton"
+    hashtags: "#beautifulengland, #londoncityworld, #countryside, #countryinterior"
+  - username: "mariacph"
     fullname: >-
-      Tonia Buxton
+      Maria Lulu Ramirez
     bio: >-
-      Mum 50+, Pro-aging advisor, Fashion, Travel, TV Presenter, Author, Celebrity Chef & Consultant at The Real Greek Restaurants. @vickiewhitemgmnt
+      📍🌏 © Chef & CCD · April Fool’s by birth • Pop-Ups · Traveler • Lives to eat, eats to live, lives to love, loves to live✖️Never Sponsored • #0waste
     location: "United Kingdom"
-    followers: 23294
-    engagement: 201
-    commentsToLikes: 0.034379
-    id: ck6tot19ufy480j718iv4kad4
-    verified: true
-    hashtags: "#pampersession, #throwbackthursday, #therealgreek, #toniasstyle"
-  - username: "1ogidigirl"
-    fullname: >-
-      Ijeoma
-    bio: >-
-      🇳🇬Just a Simple Girl No Stress 💯 📍London U.K 🇺🇸🧑🏼‍🎓BBA 🏥💉Health Sector 🧑🏼‍🍳 Cook Addict @chef.ijeoma 📖 Romans 8:28
-    location: "United Kingdom"
-    followers: 3615
-    engagement: 907
-    commentsToLikes: 0.070361
-    id: ckapchek33tbq0i78c0e8a9y6
+    followers: 22224
+    engagement: 414
+    commentsToLikes: 0.009406
+    id: ck55k1nj0y97a0i11701cmtfr
     verified: false
-    hashtags: "#blessed, #abuja, #vacationvibes, #strongereveryday"
-  - username: "laurabradymua"
-    fullname: >-
-      Laura
-    bio: >-
-      Award winning actress, chef, pathological liar. Makeup Artist/ Queen/ Cat Lady 💖🏳️‍🌈💄 (she/her) ⬇️ NEWEST YOUTUBE VIDEO! ⬇️
-    location: "United Kingdom"
-    followers: 58482
-    engagement: 85
-    commentsToLikes: 0.056645
-    id: ck5hiusf6fhqn0i11uqurtddi
-    verified: false
-    hashtags: "#amazingmakeupart, #makeupideas, #lcxme, #100daysofmakeup"
-  - username: "laylaypowell"
-    fullname: >-
-      Layla Powell
-    bio: >-
-      What or who I am is still evolving It's not yet written LawGrad, Business owner, Model, Private chef, @laylayskitchen,Art Advisory
-    location: "United Kingdom"
-    followers: 29344
-    engagement: 131
-    commentsToLikes: 0.025526
-    id: ck5pwizatn1ax0i1144lie6ys
-    verified: false
-    hashtags: "#cooking, #shoot, #chooselove, #work"
-  - username: "healthyvoyager"
-    fullname: >-
-      Carolyn Scott-Hamilton
-    bio: >-
-      World Traveler | TV Host | Latina | Vegan Chef | Nutritionist | Author | Eco Adventure Junkie | HealthyVoyager.com
-    location: "United Kingdom"
-    followers: 43770
-    engagement: 283
-    commentsToLikes: 0.026625
-    id: ck5zvy47x54o90i14p1d8k29a
-    verified: true
-    hashtags: "#thediscoverer, #topdeck, #gltlove, #luxuryworldtraveler"
-  - username: "georgie_kid"
+    hashtags: "#eat, #gourmande, #london, #breakfast"
+  - username: "georgie.kid"
     fullname: >-
       ⚡️GEORGIE⚡️
     bio: >-
-      • LGBTQ+ 🌈 •Travel & Lifestyle blogger✈️🥂 •47 => 🌎 Next stop =>🇲🇽😍 • Head Chef & Foodie 🍽 • Made in Hackney- London UK • DM for collabs 📥
+      • LGBTQ+ 🌈 •Head Chef & foodie 🧑🏻‍🍳 •For ever curious 🌎✈️ • Made in Hackney- London UK • DM for collabs 📥
     location: "United Kingdom"
-    followers: 25940
-    engagement: 806
-    commentsToLikes: 0.059323
+    followers: 27054
+    engagement: 778
+    commentsToLikes: 0.059340
     id: ck8td3oee1qgm0j78m2o2topo
     verified: false
-    hashtags: "#travelgram, #wanderlust, #lovewins, #instatravel"
+    hashtags: "#lovewins, #instatravel, #loveislove, #halloween"
+  - username: "macaron_gal"
+    fullname: >-
+      Keerthy Venugopal
+    bio: >-
+      👩🏻‍💻Engineer-->Chef👩🏻‍🍳 Traditionally Modern Malayali🇬🇧 Snippets of My Everyday Life📸 Mom to @bailey_d_bossdog 🐶 Naturegram @walk_on_a_nature_trail 🌿
+    location: "United Kingdom"
+    followers: 323788
+    engagement: 386
+    commentsToLikes: 0.021464
+    id: ck138mibygyf10i19ughmkb2l
+    verified: false
+    hashtags: "#picoftheday, #onamcelebration, #southindianfood, #onasdhya"
+  - username: "beefyboysfoodtour"
+    fullname: >-
+      James - BeefyBoysFood
+    bio: >-
+      Eating My Way Through Life. Full time wannabe chef. 📍London Beefyboysfoodtour@gmail.com
+    location: "United Kingdom"
+    followers: 8558
+    engagement: 362
+    commentsToLikes: 0.146138
+    id: clid5ngrczmcr0j08dxz8xu7g
+    verified: false
+    hashtags: "#foodies, #favglobalfoodies, #travel, #invite"
+  - username: "danilocortellini"
+    fullname: >-
+      Danilo Cortellini
+    bio: >-
+      Michelin trained chef & Pasta lover 🍝 🎥 Content creator 📚 Author & Event host 🧑‍💻 Brand & hospitality consultant 📧 info@danilocortellini.com
+    location: "United Kingdom"
+    followers: 445583
+    engagement: 349
+    commentsToLikes: 0.029685
+    id: clqxropyi8mwx0k08kh5i89st
+    verified: false
+    hashtags: "#spaghetti, #comfortfood, #cheflife, #pasta"
+  - username: "chefsantoshshah"
+    fullname: >-
+      Santosh Shah
+    bio: >-
+      @mithilathali #masterchefrematchwinner #Nepalese #promotenepalifood #chefsantoshshah #author #aylacookbook #ambassador #presidentawardnepal #london
+    location: "United Kingdom"
+    followers: 99079
+    engagement: 319
+    commentsToLikes: 0.015952
+    id: ck8t479fw5qpt0j783m0lapyc
+    verified: false
+    hashtags: "#mithilathalinepal, #nepalicuisine, #nepalifood, #softopeningevent"
 ---

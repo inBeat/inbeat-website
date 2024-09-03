@@ -1,11 +1,11 @@
 ---
-title: Top 10 TikTok Influencers In New York In 2023
+title: Top 10 TikTok Influencers In New York In 2024
 description: >-
-  Find top TikTok influencers in New York in 2023. Most popular hashtags: #fyp #duet #foryoupage #foryou.
+  Find top TikTok influencers in New York in 2024. Most popular hashtags: #fyp #duet #foryoupage #foryou.
 platform: TikTok
-hits: 1767
-text_top: Discover the best TikTok accounts on inBeat.
-text_bottom: Our platform has 1767 TikTok influencers like this in New York, United States for you to contact.
+hits: 1760
+text_top: Discover the most popular TikTok profiles on inBeat.
+text_bottom: Our search engine holds 1760 TikTok influencers like this in New York, United States for you to collaborate.
 profiles:
   - username: "nuzzi.cristiana"
     fullname: >-
@@ -78,7 +78,7 @@ profiles:
     commentsToLikes: 0.336072
     id: ckae15ou3n7bd0i787ly904md
     verified: false
-    hashtags: "#newyork, #tiktoklover, #fashionista, #comm"
+    hashtags: "#viralvideo, #likecommentshare, #duet, #actingwars"
   - username: "ali.hossain01"
     fullname: >-
       ali.hossain01

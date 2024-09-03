@@ -1,12 +1,36 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Montreal In 2023
+title: Top 10 Lifestyle Instagram Influencers In Montreal In 2024
 description: >-
-  Find top lifestyle Instagram influencers in Montreal in 2023. Most popular hashtags: #montreal #canada #aesthetic #canadianblogger.
+  Find top lifestyle Instagram influencers in Montreal in 2024. Most popular hashtags: #montreal #contentcreator #aesthetic.
 platform: Instagram
-hits: 23
-text_top: Identify the most popular Instagram influencers on inBeat.
-text_bottom: Our platform aggregates 23 Instagram influencers like this in Montreal, Canada for you to connect with.
+hits: 91
+text_top: Identify the top-rated Instagram profiles on inBeat.
+text_bottom: Our database holds 91 Instagram influencers like this in Montreal, Canada for you to work with.
 profiles:
+  - username: "moew.ka"
+    fullname: >-
+      Laurence + Moka 🐈‍⬛
+    bio: >-
+      coffee-loving girl 🫶 coffee-named cat life with an adopted cat home • travel • cat-friendly lifestyle Montréal, QC 🇨🇦 📧 hello@athomewithmoka.com
+    location: "Canada"
+    followers: 53126
+    engagement: 643
+    commentsToLikes: 0.019894
+    id: clrrkshq1d3450k080bylgcwj
+    verified: false
+    hashtags: "#cutecat, #adoptdontshop, #rescuedcat, #catlover"
+  - username: "cassidyneves"
+    fullname: >-
+      Cassidy Neves
+    bio: >-
+      fashion & lifestyle montreal e-commerce @lorealgroupe tiktok @ cassidyneves 🪐
+    location: "Canada"
+    followers: 21088
+    engagement: 289
+    commentsToLikes: 0.110050
+    id: cl0cxzu71glrb0i2301fsw40g
+    verified: false
+    hashtags: "#junos, #excelgum, #dowhatfeelsfresh, #ubykotex"
   - username: "fadikod"
     fullname: >-
       fadikod
@@ -19,112 +43,88 @@ profiles:
     id: ck14ix6xjhkh70i19v32mx63u
     verified: false
     hashtags: "#singer, #lifestyle, #montreal, #lalahvirus"
-  - username: "saralevs"
+  - username: "loganmedeiros"
     fullname: >-
-      SARA LEVITT
+      Logan Medeiros
     bio: >-
-      montreal fashion | lifestyle | home eCommerce manager @noizeoriginal
+      fashion, fitness, beauty & lifestyle 📍montréal 💌 loganmedeiros44@gmail.com tiktok (270k), links & more:
     location: "Canada"
-    followers: 5963
-    engagement: 295
-    commentsToLikes: 0.075173
-    id: ckaoszed3towd0i78ukl5z3y1
+    followers: 33499
+    engagement: 6576
+    commentsToLikes: 0.051953
+    id: ckf5n0rnmw99f0j238jo8l9i0
     verified: false
-    hashtags: "#lacucina"
-  - username: "anacruz"
+    hashtags: "#apartmentlife, #highrise, #aesthetic, #apartmentliving"
+  - username: "wiem.benalya"
     fullname: >-
-      Ana Cruz🌶
+      WE aime 🦋
     bio: >-
-      Colombiana 🇨🇴 Based in Montreal Fashion + lifestyle • contactanacruz@gmail.com
+      ✈️ Travel & Lifestyle 📍 Montréal
     location: "Canada"
-    followers: 21900
-    engagement: 202
-    commentsToLikes: 0.108976
-    id: ck0u9oei7ad2e0i198tdo1bex
+    followers: 28019
+    engagement: 175
+    commentsToLikes: 0.039917
+    id: cksh9xnf6vq780j23i1fqq5rx
     verified: false
-    hashtags: "#makeup, #ad, #makeuptutorial, #foodie"
-  - username: "aliciawaid"
+    hashtags: "#travelling, #travel, #peru, #montreal"
+  - username: "ellakatzz"
     fullname: >-
-      Alicia Waid
+      Mariela Katz
     bio: >-
-      Montréal. Content Creator. Owner of @nvizionmedia. Lifestyle | Travel | Interior & Fashion ✉️ alicia.waid8@gmail.com
+      Co-founder @itsnutterie 🥜 We’re making nuts fun again! 〰️ Food. Well-being. Lifestyle. 📍 Montreal
     location: "Canada"
-    followers: 34577
-    engagement: 19
-    commentsToLikes: 0.013499
-    id: ck6ucsdfrh9qx0j71lrgn6qdg
+    followers: 32936
+    engagement: 92
+    commentsToLikes: 0.151470
+    id: ck0u8f22y77c60i19wfqahz08
     verified: false
-    hashtags: "#loveandwildhearts, #goldaccents, #thousandislands, #authenticlovemag"
-  - username: "mommy_and_mira"
+    hashtags: "#istuesdaymotivationathing, #bts, #quotestoliveby, #mommyandme"
+  - username: "jugiguere"
     fullname: >-
-      Tahani.H 🇨🇦🇮🇶✨Ottawa♡Canada
+      Justine | Montreal Blogger
     bio: >-
-      Fashion& Beauty|Lifestyle|Travel| Mum to #mommyyandmira 📍Ottawa•Montreal Beauty account: @withstyyle | 📧 For Business inquiries |
+      Fashion, lifestyle & beauty Montreal 💌 justinegiguere@gmail.com
     location: "Canada"
-    followers: 52973
-    engagement: 122
-    commentsToLikes: 1.225108
-    id: ck6u7w19snz1x0j71cpu5wk7j
+    followers: 14676
+    engagement: 67
+    commentsToLikes: 0.047983
+    id: cktdxo0zv8o620j23e4cf2fyk
     verified: false
-    hashtags: "#15daysofgiving, #ad, #shein, #sheingals"
-  - username: "twourism"
+    hashtags: "#reelsphoto, #trendysong, #reelsinstagram, #torontoblogger"
+  - username: "jadanahas"
     fullname: >-
-      A & M - Toronto Foodies
+      Jada Nahas
     bio: >-
-      Eats 🍔| Travels ✈️| Lifestyle👫🏽l Newly weds💍 🚨Sharing the best deals 🎥 Tiktok: 9.2k 💌 DM/Email to collab or to say hi! #torontofoodie #toronto #halal
+      montreal lifestyle | travel | f1 @ooocreators @jpgbyjada
     location: "Canada"
-    followers: 12221
-    engagement: 724
-    commentsToLikes: 0.226612
-    id: ck6ubkqqma5jw0j718b18nc2f
+    followers: 37912
+    engagement: 7
+    commentsToLikes: 0.000000
+    id: ck6tqjbakrs9o0j71ndd86r2c
     verified: false
-    hashtags: "#torontoeats, #mississaugafood, #pakistanifashion, #torontobride"
-  - username: "meligatorr"
+    hashtags: "#charcoalclothing, #gigipipstraw"
+  - username: "tychonxcarter"
     fullname: >-
-      Melisa | Montreal
+      TYCHON | Mental Wellness Ambassador
     bio: >-
-      〰️contactmeligatorr@gmail.com 📩 〰️Co-founder @lemonseedmedia 🍋 〰️Lifestyle, self care and little fragments of life🌿
+      Lifestyle 🌴 • Wellness 💪🏾 • Mindset 🧠 | Creator | Speaker | Community Builder | Coach | 🤴🏾 Winner of @bigbrotherca 9
     location: "Canada"
-    followers: 28302
-    engagement: 274
-    commentsToLikes: 0.320554
-    id: ck5bz30vkqch20i11r2q74r5z
+    followers: 30449
+    engagement: 155
+    commentsToLikes: 0.013641
+    id: ckprir2jf95640j231irkedpt
     verified: false
-    hashtags: "#frenchvibes, #decor, #aestheticreels, #neutralstyle"
-  - username: "sidafz"
+    hashtags: "#bbcan9, #torontoinfluencer, #funny, #comedy"
+  - username: "sandrinesanterre"
     fullname: >-
-      Sidrah | Toronto Blogger
+      Sandrine Santerre
     bio: >-
-      Lifestyle & Travel blogger📍Toronto Sharing my child's autism journey Follow for kids inclusive activities Work with me: DM / 📧 siddyusman@gmail.com
+      Content Creator | lifestyle, travel, fashion. Montréal , Canada. Photographer 📸 @muse.agencecreative sandrinesanterre@outlook.com
     location: "Canada"
-    followers: 13878
-    engagement: 115
-    commentsToLikes: 0.669998
-    id: cks8aqhhiupz50j23q90dq3w1
+    followers: 6226
+    engagement: 523
+    commentsToLikes: 0.085424
+    id: cktdxnz268mgi0j234zhlutff
     verified: false
-    hashtags: "#love, #torontocontentcreator, #muslimblogger, #canadianblogger"
-  - username: "officialsarahwithanh"
-    fullname: >-
-      S A R A H 🖤 S A N A N E S
-    bio: >-
-      📍workin in Drayton(a) Valley, AB 🍁Montreal, QC 💌 mhmanagementca@gmail.com 🌻🌼 a lil mix between nature and lifestyle 🌸🍄 📷@esjayshoots IX XVII🎀
-    location: "Canada"
-    followers: 2963
-    engagement: 790
-    commentsToLikes: 0.127056
-    id: ckf5msybav8w60j23q5rlkye4
-    verified: false
-    hashtags: "#lightroommobile, #officialsarahwithanh, #esjayshoots, #discoverunder5k"
-  - username: "joaohguedes"
-    fullname: >-
-      Joao Guedes
-    bio: >-
-      Intimate Portrait Photographer Photography Educator Ottawa | Montreal | Vancouver Booking April 2021
-    location: "Canada"
-    followers: 59921
-    engagement: 323
-    commentsToLikes: 0.021439
-    id: ck5q6dcmywy5a0i11ddpbgnxw
-    verified: false
-    hashtags: "#lifestyle, #chasinglight, #model, #vancouver"
+    hashtags: "#invitation, #iweargarage, #osheaga2022, #creatricedecontenu"
 ---

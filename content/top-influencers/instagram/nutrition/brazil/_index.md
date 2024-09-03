@@ -1,12 +1,48 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In Brazil In 2023
+title: Top 10 Nutrition Instagram Influencers In Brazil In 2024
 description: >-
-  Find top nutrition Instagram influencers in Brazil in 2023. Most popular hashtags: #lifestyle #love #gym #summer.
+  Find top nutrition Instagram influencers in Brazil in 2024. Most popular hashtags: #lifestyle #love #summer #gym.
 platform: Instagram
-hits: 405
-text_top: Discover the top-rated Instagram accounts on inBeat.
-text_bottom: Our database has 405 Instagram influencers like this in Brazil for you to contact.
+hits: 418
+text_top: Analyze the best Instagram influencers on inBeat.
+text_bottom: Our database holds 418 Instagram influencers like this in Brazil for you to contact.
 profiles:
+  - username: "dra.andreiacp"
+    fullname: >-
+      Andréia Camargo Pinheiro
+    bio: >-
+      🇧🇷 40 👩‍🔬 PhD Nanoscience 📚 Nutrition/Coach/Personal 🥈 Fittest in the world, CrossfitGames 2023 "A idade é só um número"
+    location: "Brazil"
+    followers: 138894
+    engagement: 169
+    commentsToLikes: 0.014877
+    id: ck5c98nqkazdk0i112m3d7qkx
+    verified: false
+    hashtags: "#crossfit, #calistenia, #muscleup, #tbt"
+  - username: "suygonzales.fit"
+    fullname: >-
+      Suy Gonzales| Fitness⚡️
+    bio: >-
+      🧘🏼‍♀️Treino •Receitas•Lifestyle 🌱Nutrition coach 🍎Ser fitness é fazer boas escolhas ! Caffeinearmyusa 🏷️SUYGONZALES 📍Califórnia
+    location: "Brazil"
+    followers: 14557
+    engagement: 110
+    commentsToLikes: 0.050012
+    id: cl430i700h9s70i23km0ts7hl
+    verified: false
+    hashtags: "#fitnessmotivation, #treinoemcasa, #lifestyle, #rellsinstagram"
+  - username: "anagomesliving"
+    fullname: >-
+      Ana Gomes
+    bio: >-
+      🎓 Naturopatia, Kinesiologia, Auriculoterapia 🕊 @pazholisticstudio @anagomeslivingshop 💓 HealthCoach @nutritionschool 🌱PlantBased 💻 @whataboutagency
+    location: "Brazil"
+    followers: 66962
+    engagement: 22
+    commentsToLikes: 0.034866
+    id: ck15tf08whr950i190acqlg1f
+    verified: false
+    hashtags: "#festivaldacomidacontinente, #vegan, #continente, #festivaldacomida"
   - username: "fabianoguigas"
     fullname: >-
       Fabiano Dantas Guigas
@@ -91,40 +127,4 @@ profiles:
     id: ckaov5sbo36ie0i784hkzihmm
     verified: false
     hashtags: "#repost, #pilates, #tbt, #fluidez"
-  - username: "luanabhering"
-    fullname: >-
-      Luana Bhering
-    bio: >-
-      Rio de Janeiro ☀️ + Vários destinos ✈️ 👙 @corgoiaba 🏋🏻‍♀️ @teamcarolvaz 💪🏼 @mundomarombabr |cód: LUANA10 (10% off) 💊 @dcx.nutrition
-    location: "Brazil"
-    followers: 18164
-    engagement: 246
-    commentsToLikes: 0.097857
-    id: ckaov5r7736c50i781ut0en3h
-    verified: false
-    hashtags: "#fitnessmotivation, #biquinisrj, #modapraialuxo, #beachwear"
-  - username: "thaicaval_oficial"
-    fullname: >-
-      Thaiane Cavalcante
-    bio: >-
-      🎯| CRISTO 🌐| #marketingdigital 🍎| Nutritio’n student 6/8 🔥 Assista meus destaques e instories🔥 Comece por aqui 👇🏻📲
-    location: "Brazil"
-    followers: 7091
-    engagement: 493
-    commentsToLikes: 0.587937
-    id: ckf5om98e2uhl0j2327vq05wy
-    verified: false
-    hashtags: "#empreendedorismo, #mmnbrasil, #sa, #marketingdigital"
-  - username: "jotta.mike"
-    fullname: >-
-      Jônatas Guimarães
-    bio: >-
-      Jesus muda tudo!🙏🏼 PMERJ 👮🏻‍♂️ Cristão ✝️ Viajante🌎 🇧🇷🇧🇴🇵🇾 @mundomarombabr @dcx.nutrition 💪🏼 Membro da Realeza 🤴🏻
-    location: "Brazil"
-    followers: 121099
-    engagement: 454
-    commentsToLikes: 0.016813
-    id: ckap7pai3kz2h0i78g6sgo95d
-    verified: false
-    hashtags: ""
 ---

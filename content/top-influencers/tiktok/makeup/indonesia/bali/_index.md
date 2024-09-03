@@ -1,11 +1,11 @@
 ---
-title: Top 10 Makeup TikTok Influencers In Bali In 2023
+title: Top 10 Makeup TikTok Influencers In Bali In 2024
 description: >-
-  Find top makeup TikTok influencers in Bali in 2023. Most popular hashtags: #fyp #makeup #viral #xyzbca.
+  Find top makeup TikTok influencers in Bali in 2024. Most popular hashtags: #fyp #makeup #viral #xyzbca.
 platform: TikTok
 hits: 6
-text_top: Identify the best TikTok profiles on inBeat.
-text_bottom: Our platform aggregates 6 TikTok influencers like this in Bali, Indonesia for you to contact.
+text_top: Analyze the top-rated TikTok influencers on inBeat.
+text_bottom: Our platform has 6 TikTok influencers like this in Bali, Indonesia for you to collaborate.
 profiles:
   - username: "sayblebaby"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.159415
     id: ck8khxt17opqi0j78jxqe9m2f
     verified: false
-    hashtags: "#beauty, #lashes, #learnwithme, #hair"
+    hashtags: "#learnwithme, #hair, #skincareroutine, #lashes"
   - username: "fausisalon"
     fullname: >-
       FausiSalon
@@ -90,7 +90,7 @@ profiles:
     commentsToLikes: 0.009756
     id: ckdbxu0awego80j23yk32vzjf
     verified: false
-    hashtags: "#cottagecore, #fairy, #transition, #anime"
+    hashtags: "#makeup, #elf, #dance, #fairy"
   - username: "dianaquinn_"
     fullname: >-
       DianaQuinn

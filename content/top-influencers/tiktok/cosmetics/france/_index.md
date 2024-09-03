@@ -1,11 +1,11 @@
 ---
-title: Top 10 Cosmetics TikTok Influencers In France In 2023
+title: Top 10 Cosmetics TikTok Influencers In France In 2024
 description: >-
-  Find top cosmetics TikTok influencers in France in 2023. Most popular hashtags: #pourtoi #fyp #humour #foryou.
+  Find top cosmetics TikTok influencers in France in 2024. Most popular hashtags: #pourtoi #fyp #humour #foryou.
 platform: TikTok
 hits: 11
-text_top: Identify the most popular TikTok profiles on inBeat.
-text_bottom: Our search engine holds 11 TikTok influencers like this in France for you to contact.
+text_top: Analyze the top-rated TikTok influencers on inBeat.
+text_bottom: Our search engine has 11 TikTok influencers like this in France for you to work with.
 profiles:
   - username: "ye_.zi"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.021423
     id: ck904vg1nelvj0j784mnwr4sk
     verified: false
-    hashtags: "#tuto, #coreedusud, #kpop, #humour"
+    hashtags: "#tuto, #pourtoi, #makeup, #coreedusud"
   - username: "jennajjlb8"
     fullname: >-
       jennajjlb

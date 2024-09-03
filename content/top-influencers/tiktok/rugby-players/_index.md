@@ -1,12 +1,24 @@
 ---
-title: Top 10 Rugby Players TikTok Influencers In 2023
+title: Top 10 Rugby Players TikTok Influencers In 2024
 description: >-
-  Find top rugby players TikTok influencers in 2023. Most popular hashtags: #rugby #fyp #foryou #duet.
+  Find top rugby players TikTok influencers in 2024. Most popular hashtags: #rugby #fyp #foryou #viral.
 platform: TikTok
 hits: 17
-text_top: See the best TikTok accounts on inBeat.
-text_bottom: Our database holds 17 TikTok influencers like this for you to contact.
+text_top: Analyze the most popular TikTok influencers on inBeat.
+text_bottom: Our search engine holds 17 TikTok influencers like this for you to work with.
 profiles:
+  - username: "keithlukemason"
+    fullname: >-
+      Keith Mason
+    bio: >-
+      Retired Rugby player. Athlete/Actor/Producer Spreading positivity Daily
+    location: "United Kingdom"
+    followers: 807300
+    engagement: 909
+    commentsToLikes: 0.024480
+    id: ckb9i4tid88f70j23rjw7mmj3
+    verified: false
+    hashtags: "#nailedit, #nevergiveup, #viral, #positivity"
   - username: "rojamalayam007"
     fullname: >-
       ROJIN Gk
@@ -115,16 +127,4 @@ profiles:
     id: ck9ekbus15ulf0j78skop8g58
     verified: false
     hashtags: "#codclipsdaily, #warzonebestclips, #newmeta, #foryoupage"
-  - username: "ballcarrier"
-    fullname: >-
-      BALLCARRIER RUGBY
-    bio: >-
-      The home of RUGBY on the TOK 🏉
-    location: "United Kingdom"
-    followers: 90100
-    engagement: 1401
-    commentsToLikes: 0.013255
-    id: cka0ve9wby8550i78qufkkw2a
-    verified: false
-    hashtags: "#rugbymayhem, #skill, #rugbylads, #sixnations"
 ---

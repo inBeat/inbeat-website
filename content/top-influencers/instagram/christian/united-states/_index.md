@@ -1,12 +1,36 @@
 ---
-title: Top 10 Christian Instagram Influencers In United States In 2023
+title: Top 10 Christian Instagram Influencers In United States In 2024
 description: >-
-  Find top christian Instagram influencers in United States in 2023. Most popular hashtags: #quarantine #photography #love.
+  Find top christian Instagram influencers in United States in 2024. Most popular hashtags: #loft #luxuryhomes #modern.
 platform: Instagram
-hits: 4598
-text_top: Identify the best Instagram accounts on inBeat.
-text_bottom: Our search engine aggregates 4598 Instagram influencers like this in United States for you to contact.
+hits: 5095
+text_top: Identify the most popular Instagram accounts on inBeat.
+text_bottom: Our search engine holds 5095 Instagram influencers like this in United States for you to collaborate.
 profiles:
+  - username: "christianvierling"
+    fullname: >-
+      Christian
+    bio: >-
+      Shop @mela bb♥️ Add me on snap:) christianvierli
+    location: "United States"
+    followers: 102597
+    engagement: 2197
+    commentsToLikes: 0.009713
+    id: ck9wh635swfg70j788r3eci1s
+    verified: false
+    hashtags: "#bumblepartner"
+  - username: "christian"
+    fullname: >-
+      christian delgrosso
+    bio: >-
+      @willyswonderlandmov now streaming on @hulu 📧 christiandmanagement@gmail.com 🎭 @xtrachristian 👓 founder @vanta
+    location: "United States"
+    followers: 4164079
+    engagement: 278
+    commentsToLikes: 0.004659
+    id: ck13bj5krvnr50i198vt55fsf
+    verified: true
+    hashtags: "#gamenight, #ad, #uno"
   - username: "christianaaron"
     fullname: >-
       christian
@@ -31,100 +55,76 @@ profiles:
     id: ck601qypfg0d90i14hhy2r8m0
     verified: false
     hashtags: "#cargirl, #baggedcars, #lowandslow, #photography"
-  - username: "cmpulisic"
+  - username: "emilyboazman"
     fullname: >-
-      Christian
+      Emily Boazman (Aulson)
     bio: >-
-      Hershey, PA 🇺🇸 Twitter: cpulisic_10 Facebook: cmpulisic Tik Tok: christianmpulisic
+      | Born again Christian || Wife to Jake || Homeschooling mom || PUFA free || Trying to be Non Toxic || L&D Nurse || I make goofy videos ||
     location: "United States"
-    followers: 3509389
-    engagement: 748
-    commentsToLikes: 0.006012
-    id: ck0tuohdw80cw0i19xi6r6lqt
+    followers: 36385
+    engagement: 475
+    commentsToLikes: 0.144997
+    id: ck5zs5qwfxvls0i14l2mob4z7
+    verified: false
+    hashtags: "#christianreels, #christianhumor, #cleanreels, #relatablereels"
+  - username: "christianmccaffrey"
+    fullname: >-
+      Christian McCaffrey
+    bio: >-
+      San Francisco 49ers Running Back BBTB🙏🏼 Stanford University @christianmccaffreyfoundation
+    location: "United States"
+    followers: 1995529
+    engagement: 677
+    commentsToLikes: 0.004780
+    id: ck0w6lq0k96i20i19h4lix6kk
     verified: true
-    hashtags: "#scoremorewithxbox, #traineatrepeat, #sponsored"
-  - username: "wavesandlilacs"
+    hashtags: "#madeinitaly, #mk1, #mk1partner, #dgaltamoda"
+  - username: "christianburwell"
     fullname: >-
-      Bethany Rose | Christian marriage & motherhood
+      Christian Burwell | Realtor
     bio: >-
-      Podcaster | Content Creator 🎙@whateveristrueco Wife and mother to 5 Christian motherhood + marriage + current events 👋 Catch me in my stories!
+      Christian Burwell & Associates Real Estate Atlanta Realtor Join @burwelluniversity Looking to buy, sell, or lease real estate? Direct message me
     location: "United States"
-    followers: 41992
-    engagement: 557
-    commentsToLikes: 0.066097
-    id: ck5hn7vhjnd9d0i11bcxwi4bx
+    followers: 55155
+    engagement: 475
+    commentsToLikes: 0.028344
+    id: clbi52l13496e0j085w3gkuku
     verified: false
-    hashtags: "#jesussaves, #bumpdated, #whattoexpect, #beating50percent"
-  - username: "_kendalljones_"
+    hashtags: "#atlantarealtor, #realty, #realtor, #atlantaloft"
+  - username: "talithaajane"
     fullname: >-
-      Kendall Jones
+      𝗧 𝗔 𝗟 𝗜 𝗧 𝗛 𝗔  𝗝 𝗔 𝗡 𝗘
     bio: >-
-      ✨Hunter | Christian | Outdoors | Family | Texan✨ TPUSA Contributor🇺🇸 Support kids getting outdoors with my “Pass It On” Campaign ⬇️
+      A Christian woman with impeccable outfits† 📍Houston | 🎙️Host of @biblicalbaddie.pod Videos every Sunday on YouTube↓
     location: "United States"
-    followers: 261549
-    engagement: 56
-    commentsToLikes: 0.007273
-    id: ck14hiki7ahky0i192jmx225f
-    verified: true
-    hashtags: "#tpusa, #findahunt, #whatgetsyououtdoors, #openingday"
-  - username: "wantingw"
-    fullname: >-
-      W A N T I N G
-    bio: >-
-      Dreamer, Banker, Wife, Mum, Ambassador @chucollagen @ceradan311 Mum to @christianlim.fk @julianlimfj
-    location: "United States"
-    followers: 28448
-    engagement: 153
-    commentsToLikes: 0.016727
-    id: ck55vgf3vetlg0i11xuq2f9zj
+    followers: 309236
+    engagement: 987
+    commentsToLikes: 0.009991
+    id: ckxp82ikvafgu0j23ojm4zvj9
     verified: false
-    hashtags: "#haircurl, #haircut, #ndwtcj, #wt35th"
-  - username: "chrix.riot"
+    hashtags: "#goodmoleculespartner, #blackfridaydeals, #blackfriday2023, #dkpartner"
+  - username: "_gabbycarlin"
     fullname: >-
-      Christian Colorado
+      Gabby Carlin | The Carlin Family
     bio: >-
-      Living La Vida Lohan owner at @Christiancolorado.co
+      Family lifestyle Wife to @_christiancarlin Mama X 3 Tiktok: Thecarlinfamily 3.7M YT: 1.5M 📧: chrisandgabss@gmail.com
     location: "United States"
-    followers: 8182
-    engagement: 1316
-    commentsToLikes: 0.062463
-    id: ck5hjmj8sgvxp0i11pvsrwaek
+    followers: 141028
+    engagement: 665
+    commentsToLikes: 0.008241
+    id: cl7i0lr55tr6n0i23uc2zabwq
     verified: false
-    hashtags: "#voguechallenge, #f21xme, #tbt, #pride"
-  - username: "thatjeepsc"
+    hashtags: "#reelsinstagram, #explorepage, #thecarlins, #toddler"
+  - username: "thompsonwoodworks"
     fullname: >-
-      🅙🅞🅛🅔🅝🅔
+      Matt Thompson Woodworks
     bio: >-
-      Stay Sweet! 🤙🏼 B/A @valkyrie.4x4 & @christianramirezdesigns ‘18 JLU Rubicon •📍SC
+      Christian. Creator of mostly ridiculous and unnecessary things. DM for business
     location: "United States"
-    followers: 52243
-    engagement: 1184
-    commentsToLikes: 0.042031
-    id: ck9hawvr6ehef0j78wo1f56zj
+    followers: 231063
+    engagement: 1359
+    commentsToLikes: 0.014386
+    id: ck6ti783u064t0j71djqfmhg2
     verified: false
-    hashtags: "#offroad, #modified, #jeepstagram, #4x4offroad"
-  - username: "mishamakeupartist"
-    fullname: >-
-      M I S H A 👑
-    bio: >-
-      ☆ Winner of Best Makeup Artist in Guatemala #anastasiabeverlyhills ☆ Professional Makeup Artist ☆ Christian ☆ Beauty blogger
-    location: "United States"
-    followers: 41582
-    engagement: 262
-    commentsToLikes: 0.031660
-    id: ck5c7951972ma0i1191bxm7uj
-    verified: false
-    hashtags: "#makeupartist, #makeuplover, #viral, #mishamakeup"
-  - username: "nataliebennettvlogs"
-    fullname: >-
-      Natalie Bennett 🪴
-    bio: >-
-      ➕Minimalist Mama of 3 who enjoys sharing the coziness in the chaos. 🖤 #christian #youtuber #minimalmom #hygge #minimalism #twinmom links are affiliate
-    location: "United States"
-    followers: 46948
-    engagement: 360
-    commentsToLikes: 0.055935
-    id: ck6tvt60uo4wi0j71mvd8zkjy
-    verified: false
-    hashtags: "#shopsmall, #jesuslovesyou, #ad, #joytotheworld"
+    hashtags: "#ad, #invention, #woodworkingideas, #dalespaleale"
 ---

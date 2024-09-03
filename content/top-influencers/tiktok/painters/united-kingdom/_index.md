@@ -1,11 +1,11 @@
 ---
-title: Top 10 Painters TikTok Influencers In United Kingdom In 2023
+title: Top 10 Painters TikTok Influencers In United Kingdom In 2024
 description: >-
-  Find top painters TikTok influencers in United Kingdom in 2023. Most popular hashtags: #fyp #foryou #foryoupage #art.
+  Find top painters TikTok influencers in United Kingdom in 2024. Most popular hashtags: #fyp #foryou #foryoupage #art.
 platform: TikTok
-hits: 144
+hits: 143
 text_top: Analyze the most popular TikTok accounts on inBeat.
-text_bottom: inBeat holds 144 TikTok influencers like this in United Kingdom for you to contact.
+text_bottom: Our search engine holds 143 TikTok influencers like this in United Kingdom for you to collaborate.
 profiles:
   - username: "jjennamakeup"
     fullname: >-
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.094567
     id: ck92x2t7wwwmm0j782avfaj8l
     verified: false
-    hashtags: "#painting, #omg, #antiviral, #bodypaint"
+    hashtags: "#art, #animals, #wow, #makeup"
   - username: "artcemg"
     fullname: >-
       artcemg
@@ -54,7 +54,7 @@ profiles:
     commentsToLikes: 0.023156
     id: ckbfat6272evm0j23k69v4r49
     verified: false
-    hashtags: "#paintingtutorial, #art, #hyperrealism, #fyp"
+    hashtags: "#hyperrealism, #realism, #painting, #hyperrealistic"
   - username: "paintwithasif"
     fullname: >-
       Paint with Asif

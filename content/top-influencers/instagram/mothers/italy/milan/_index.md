@@ -1,24 +1,24 @@
 ---
-title: Top 10 Mothers Instagram Influencers In Milan In 2023
+title: Top 10 Mothers Instagram Influencers In Milan In 2024
 description: >-
-  Find top mothers Instagram influencers in Milan in 2023. Most popular hashtags: #love #family #picoftheday #amazing.
+  Find top mothers Instagram influencers in Milan in 2024. Most popular hashtags: #love #fashion #art.
 platform: Instagram
-hits: 10
-text_top: Identify the most popular Instagram accounts on inBeat.
-text_bottom: inBeat aggregates 10 Instagram influencers like this in Milan, Italy for you to work with.
+hits: 20
+text_top: Discover the best Instagram influencers on inBeat.
+text_bottom: Our search engine aggregates 20 Instagram influencers like this in Milan, Italy for you to pitch.
 profiles:
-  - username: "lauracaldarola"
+  - username: "labfujiko"
     fullname: >-
-      Laura Caldarola
+      L A   B.   F U J I K O
     bio: >-
-      Mother of two • Italian in Spain • Author of “En Marzo se peinan las brujas” • Elle España blogger “Mamma Mía” • TV host • Stylist 📍Madrid - Milán
+      ..call me B. 💫 Creative&Movement Director | EventOrganizer Founder @unagency_ @bballroomscene Legendary Pioneer Mother @iconichouseofninja Milan 🪐
     location: "Italy"
-    followers: 35225
-    engagement: 313
-    commentsToLikes: 0.053639
-    id: ck134yeqiysmw0i19gecpq6p1
+    followers: 23300
+    engagement: 533
+    commentsToLikes: 0.055676
+    id: ck55mezej3syw0i117wim3x0u
     verified: false
-    hashtags: "#ad, #cuidarteestuplacer, #vitalidadzespri, #enmarzosepeinanlasbrujas"
+    hashtags: "#runway, #harness, #ballroomscene, #houseofninja"
   - username: "giusepperagazzini"
     fullname: >-
       Giuseppe Ragazzini
@@ -33,16 +33,52 @@ profiles:
     hashtags: "#love, #dipingere, #collageanimation, #improvisation"
   - username: "la_snika"
     fullname: >-
-      Federica Ricci
+      FEDERICA RICCI
     bio: >-
-      Vita di una Makeup Artist e Content Creator Faccio i Lipsync nei Reels però sono stonata. Mother Of #biccizfam 𝑻𝑼𝑻𝑶𝑹𝑰𝑨𝑳 - 𝑪𝑶𝑵𝑺𝑰𝑮𝑳𝑰 - 𝑻𝑬𝑵𝑫𝑬𝑵𝒁𝑬
+      ✨FIDATY✨ Vita di una Content Creator | Beauty & Lifestyle | Faccio i Lipsync nei Reels però sono stonata TikTok: la_snika 200k Mother Of #biccizfam
     location: "Italy"
-    followers: 31384
-    engagement: 2184
-    commentsToLikes: 0.091969
+    followers: 53911
+    engagement: 1286
+    commentsToLikes: 0.066297
     id: ck5c3to4l01ea0i11kixjuxq7
     verified: false
-    hashtags: "#lasnika, #vacanzeitaliane, #biccizfam, #foreo"
+    hashtags: "#biccizfam, #lasnika, #vacanzeitaliane, #eastereggs"
+  - username: "ellabottomrouge"
+    fullname: >-
+      Ella Bottom Rouge - Burlesque
+    bio: >-
+      Mi spoglio sì, ma ho anche un cervello Mother @therougeacademy 🏳️‍🌈🏳️‍⚧️ Agency @wontymedia Art @its_bitchbox @wet.theshow 🏆 @ilmariomieliateatro
+    location: "Italy"
+    followers: 21652
+    engagement: 431
+    commentsToLikes: 0.026695
+    id: ckaorx6r3p5yx0i78m4ctto3m
+    verified: false
+    hashtags: "#salentodaamare, #queer, #burlesquemilano, #caramelskin"
+  - username: "mariannemirage"
+    fullname: >-
+      Marianne Mirage 🦋
+    bio: >-
+      Songwriter, Singer🎙 Mother of @casamirage___ 🛖 Yoga teacher to Stay Calm @yoga_mirage 🧘🏻‍♀️
+    location: "Italy"
+    followers: 38809
+    engagement: 277
+    commentsToLikes: 0.032850
+    id: ck15tfrqphv3u0i19l7ehb1ee
+    verified: true
+    hashtags: "#backtothecityfestival, #free, #festivalgb, #sostenibilit"
+  - username: "stella.manente.official"
+    fullname: >-
+      S T E L L A   M A N E N T E 🇮🇹
+    bio: >-
+      Mother of Levon Odaka Yoga Teacher Owner of @levhome_mi ✉️ stella.mfdesign@icloud.com Book your stay ⤵️
+    location: "Italy"
+    followers: 788773
+    engagement: 141
+    commentsToLikes: 0.024360
+    id: ck5q9jbjdbe9n0i11b6ir1sl8
+    verified: false
+    hashtags: "#yogalife, #yogapractice, #rixos, #yogainspiration"
   - username: "roksana_m7"
     fullname: >-
       Roksana_m7
@@ -55,76 +91,40 @@ profiles:
     id: ck15srkckegx20i19g3lk9kvt
     verified: false
     hashtags: "#10mesi"
-  - username: "lifegate"
+  - username: "justineelizabethmattera"
     fullname: >-
-      LifeGate
+      Justine Mattera
     bio: >-
-      Lo stile di vita dove le persone, il pianeta e il profitto vivono in armonia • The lifestyle in which people, the Planet and profit coexist in harmony
+      A Showgirl with a Stanford Degree. 🏃🏼‍♀️ @brooksrunningit 🏊‍♀️ @aquasphere 🚴🏼‍♀️ @trekbikes_italia justinemattera@gmail.com
     location: "Italy"
-    followers: 91439
-    engagement: 121
-    commentsToLikes: 0.008760
-    id: ck0vv4cj6nhl80i190k14klpu
+    followers: 648340
+    engagement: 196
+    commentsToLikes: 0.005336
+    id: ck0vxgjpuysbn0i19jgbvzjvk
     verified: true
-    hashtags: "#nature, #streetart, #conservation, #covid19"
+    hashtags: "#instaphotography, #workout, #bnw, #photoartist"
   - username: "annaritamommy"
     fullname: >-
-      Annarita Fontana
+      Annarita Fontana ricette sane e fit🤍
     bio: >-
-      Il mio diario alimentare.🍳🍴 La mia casa, la mia famiglia e le storie di una mamma felice e tanto ROMPI...🙄
+      🌟Diario alimentare, i miei pasti🍲 🌟Ricette sane e veloci 🍽️🍜 🌟 La mia casina e la vita da mamma💖
     location: "Italy"
-    followers: 23012
-    engagement: 214
-    commentsToLikes: 0.078905
+    followers: 28310
+    engagement: 109
+    commentsToLikes: 0.146911
     id: ck6ualkde48hw0j713s9idrsu
     verified: false
-    hashtags: "#fashion, #ischia, #womanclothes, #famiglia"
-  - username: "simo_veggie_fit"
+    hashtags: "#mamma, #love, #mamme, #dieta"
+  - username: "federicomilaan"
     fullname: >-
-      𝓢𝓲𝓶𝓸𝓷𝓮 𝓣𝓪𝓿𝓪𝓻𝓪𝓷𝓲
+      Federico Milan 🔹
     bio: >-
-      𝘝𝘦𝘨𝘢𝘯 𝘭𝘪𝘧𝘦𝘴𝘵𝘺𝘭𝘦 𝘛𝘦𝘴𝘵𝘪𝘮𝘰𝘯𝘪𝘢𝘭 @vitamincompany 𝘤𝘰𝘥. ”𝘚𝘐𝘔𝘖𝘕𝘌10” 𝘗𝘦𝘳𝘴𝘰𝘯𝘢𝘭 𝘛𝘳𝘢𝘪𝘯𝘦𝘳 𝘍𝘰𝘶𝘯𝘥𝘦𝘳 @veraque_official
+      I Dance, I Choreograph & I learn from life... ROTATE FUORI ORA! ⬇️✨
     location: "Italy"
-    followers: 8432
-    engagement: 389
-    commentsToLikes: 0.057352
-    id: ck13a0nhuo1940i190960azr4
+    followers: 26979
+    engagement: 786
+    commentsToLikes: 0.025190
+    id: ck13a5e6nopwd0i19h62ofzuw
     verified: false
-    hashtags: "#crueltyfree, #chocolate, #happy, #instagood"
-  - username: "lauramakenainkenya"
-    fullname: >-
-      Laura Mariani 🐘 expat blogger
-    bio: >-
-      Da Lecco 🇮🇹 al🇰🇪 Infermiera multipotenziale💃🌍✒ Vivo il @_kenya_ontheroad e lo racconto a modo mio❤ Vita semplice e avventure🦁 conosciamoci qui ⬇️
-    location: "Italy"
-    followers: 3735
-    engagement: 1702
-    commentsToLikes: 0.076993
-    id: ck8sxncnbhz4m0j78sk7n65k7
-    verified: false
-    hashtags: "#whyilovekenya, #igafrica, #expat, #kenyaontheroad"
-  - username: "leonardo.greco"
-    fullname: >-
-      𝓛𝓮𝓸𝓷𝓪𝓻𝓭𝓸 𝓖𝓻𝓮𝓬𝓸
-    bio: >-
-      🔥𝙊𝙁𝙁𝙄𝘾𝙄𝘼𝙇 𝙋𝙍𝙊𝙁𝙄𝙇𝙀🔥 𝑩𝒐𝒐𝒌𝒊𝒏𝒈&𝑺𝒐𝒄𝒊𝒂𝒍 𝒄𝒐𝒍𝒍𝒂𝒃𝒔: 𝐋𝐞𝐨𝐧𝐚𝐫𝐝𝐨_𝐠𝐫𝐞𝐜𝐨@𝐥𝐢𝐯𝐞.𝐢𝐭 𝗶𝗺𝗽𝗿𝗲𝗻𝗱𝗶𝘁𝗼𝗿𝗲 📍𝗠𝗶𝗹𝗮𝗻𝗼 𝗦𝗼𝗻𝗼 𝘀𝗲𝗺𝗽𝗿𝗲 𝗶 𝘀𝗼𝗴𝗻𝗶 𝗮 𝗱𝗮𝗿𝗲 𝗳𝗼𝗿𝗺𝗮 𝗮𝗹 𝗺𝗼𝗻𝗱𝗼
-    location: "Italy"
-    followers: 106975
-    engagement: 343
-    commentsToLikes: 0.023990
-    id: ck8t50a9e8fbl0j78paix8tvv
-    verified: true
-    hashtags: "#vita, #dad, #family, #goodmorning"
-  - username: "evagrimaldireal"
-    fullname: >-
-      Eva Grimaldi
-    bio: >-
-      Sempre io! 🏳️‍🌈❤️ L’amore vince sempre! @immacolata.battaglia Press: @ufficiostampafabisavona 📩 evagrimaldi01@gmail.com
-    location: "Italy"
-    followers: 151876
-    engagement: 113
-    commentsToLikes: 0.050522
-    id: ck5qda4b6ukbk0i11p4nlji2d
-    verified: true
-    hashtags: "#instagood, #life, #immabattaglia, #smile"
+    hashtags: "#mykonos2021, #ad, #life, #mykonos"
 ---

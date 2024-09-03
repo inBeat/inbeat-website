@@ -1,11 +1,11 @@
 ---
-title: Top 10 Cosmetics Instagram Influencers In Las Vegas In 2023
+title: Top 10 Cosmetics Instagram Influencers In Las Vegas In 2024
 description: >-
-  Find top cosmetics Instagram influencers in Las Vegas in 2023. Most popular hashtags: #lasvegas #lasvegasmakeupartist #mua #undiscoveredmuas.
+  Find top cosmetics Instagram influencers in Las Vegas in 2024. Most popular hashtags: #ootd #lasvegas #beauty.
 platform: Instagram
-hits: 24
-text_top: Analyze the best Instagram influencers on inBeat.
-text_bottom: Our platform holds 24 Instagram influencers like this in Las Vegas, United States for you to collaborate.
+hits: 32
+text_top: Discover the best Instagram profiles on inBeat.
+text_bottom: Our database holds 32 Instagram influencers like this in Las Vegas, United States for you to contact.
 profiles:
   - username: "chelseymac_"
     fullname: >-
@@ -19,18 +19,66 @@ profiles:
     id: ck5hkldrbimt20i11e8sielul
     verified: false
     hashtags: "#inkedmag, #girlswithtattoos, #lasvegasmodels, #chelseymac"
+  - username: "jo2therubio"
+    fullname: >-
+      Johanna Rubio-Rubio
+    bio: >-
+      Lifestyle•Beauty•Fashion 📍Las Vegas • Jalisco 💌jo2therubio@gmail.com Have Courage & Be Kind ♐️
+    location: "United States"
+    followers: 10661
+    engagement: 97
+    commentsToLikes: 0.222426
+    id: cks11wp7h3wfl0j23q8c3qopw
+    verified: false
+    hashtags: "#beauty, #reelitfeelit, #makeup, #vegasinfluencer"
   - username: "hollywoodsmilelv"
     fullname: >-
-      HOLLYWOOD SMILE DENTAL
+      Steve kim
     bio: >-
-      Dr. Steve Kim 🔹 Implant & Cosmetic Dentist 🎓 Tufts School of Dental Medicine #lasvegasdentist #lasvegasdentistry #MMA #MMADOC
+      Dr. Steve Kim 🔹 Implant & Cosmetic Dentist 🎓 Tufts School of Dental Medicine #lasvegasdentist #lasvegasdentistry #MMA #MMADOC #mmadentist
     location: "United States"
-    followers: 144688
-    engagement: 378
-    commentsToLikes: 0.002130
+    followers: 204688
+    engagement: 206
+    commentsToLikes: 0.004177
     id: ck15sh283cyod0i19gfb47r8j
     verified: false
-    hashtags: "#implant, #mmadoc, #implantsurgery, #pflmma"
+    hashtags: "#dentist, #lasvegas, #korean, #stevekimdental"
+  - username: "va__nessa.g"
+    fullname: >-
+      Vanessa G• Beauty Model• Los Angeles
+    bio: >-
+      🦋LA/MA: @ntamodels @ntatalent 🦋OC: @brand_models 🦋NYC: @thebtwn 🦋CHI: @10mgmt jaclyn@10mgmt.com 🧩Content Creator
+    location: "United States"
+    followers: 35894
+    engagement: 770
+    commentsToLikes: 0.043118
+    id: ckap4e6ym6ypl0i78vmdunsa0
+    verified: false
+    hashtags: "#notevenfrizzcontrol, #makeupartist, #makeupidea, #happysunday"
+  - username: "blissbrie"
+    fullname: >-
+      Bridget
+    bio: >-
+      hola amiga 🎀 daily outfits | beauty | lifestyle mexicana | bride-to-be 📍las vegas ✉️contact: blissbrie@gmail.com
+    location: "United States"
+    followers: 113179
+    engagement: 530
+    commentsToLikes: 0.042884
+    id: ck6u0h4g8fnyl0j71fs5fugge
+    verified: false
+    hashtags: "#styleinspo, #casualstyle, #ootd, #fashionreels"
+  - username: "ayanda_zebe"
+    fullname: >-
+      Ayanda Vesi Zebe
+    bio: >-
+      🇺🇸🇿🇦 Johannesburg / Las Vegas 📧: TC@fourpromotionsinternational.com
+    location: "United States"
+    followers: 101932
+    engagement: 391
+    commentsToLikes: 0.013827
+    id: ck0u8yfbl8kj30i19tu7yigih
+    verified: false
+    hashtags: "#36, #chanelbeauty, #refybeauty, #narsbeauty"
   - username: "andrewsaintandrew"
     fullname: >-
       Andrew Saint Andrew 👑
@@ -54,19 +102,7 @@ profiles:
     commentsToLikes: 0.057766
     id: ck0twhpc6ffic0i198bl6rih8
     verified: false
-    hashtags: "#colorfulmakeup, #cutcrease, #benefitclubpink, #underratedmuas"
-  - username: "genbthegem"
-    fullname: >-
-      Genesis 🤍
-    bio: >-
-      las vegas, nv | beauty + style + life ⚡️ makeup bookings: @makeupbygenb 💄⚡️ tiktok: genbthegem (145k+) ☁️🪐🍵✨ 𝐩𝐫 & 𝐜𝐨𝐥𝐥𝐚𝐛𝐬 ⭢ genesisbherrera@gmail.com
-    location: "United States"
-    followers: 40056
-    engagement: 1066
-    commentsToLikes: 0.011824
-    id: ck5bxkiimnwnn0i11inatjn9z
-    verified: false
-    hashtags: "#blazin, #vegaslocal, #bretmanvanity, #lasvegasmua"
+    hashtags: "#colorfulmakeup, #cutcrease, #graphicliner, #blazin"
   - username: "lakleo21"
     fullname: >-
       Elizabeth
@@ -78,7 +114,7 @@ profiles:
     commentsToLikes: 0.048657
     id: ck8szotucp6g30j781b1ua5mr
     verified: false
-    hashtags: "#muamexicana, #undiscoveredmuas, #makeupfollowpage, #muasupport"
+    hashtags: "#muaunderdogs, #undertheradar, #mualatina, #mua"
   - username: "aflbeautybar"
     fullname: >-
       Aflbeautybar™️
@@ -90,41 +126,5 @@ profiles:
     commentsToLikes: 0.090769
     id: ck0vw39qqrwnw0i19l08gnst8
     verified: false
-    hashtags: "#beauty, #dermalfillers, #botox, #sculptra"
-  - username: "glowinriss"
-    fullname: >-
-      Marissa
-    bio: >-
-      ✨Glowinriss Makeup & Things Las Vegas 💌Email only for collaboration
-    location: "United States"
-    followers: 50723
-    engagement: 198
-    commentsToLikes: 0.031843
-    id: ck0u8nfi17wpa0i19jcib3vhx
-    verified: false
-    hashtags: "#lasvegas, #benefit, #ultabeauty, #ulta"
-  - username: "kafloxbeauty"
-    fullname: >-
-      Las Vegas Makeup Artist
-    bio: >-
-      Professional Mobile Makeup Artist 💄 Las Vegas 📍 Enhancing natural beauty is my passion ✨ Business Page - @glamnglowy Dm for booking & availability 💕
-    location: "United States"
-    followers: 5235
-    engagement: 296
-    commentsToLikes: 0.157513
-    id: ck6twgmcwrvhe0j71cofkrdh7
-    verified: false
-    hashtags: "#vegasmodels, #photography, #lasvegasphotographer, #explore"
-  - username: "makeupbyetari"
-    fullname: >-
-      Ana Etari
-    bio: >-
-      Ｂｕｔ ｆｉｒｓｔ 𝙈𝙖𝙠𝙚𝙪𝙥 💄 🤎Licensed Cosmetologist 🤎Makeup Artist #BEAUTY | #LIFESTYLE. DM for Booking 💋
-    location: "United States"
-    followers: 15938
-    engagement: 29
-    commentsToLikes: 0.179179
-    id: ck14hcaet9lkz0i193n0y8ej1
-    verified: false
-    hashtags: "#beautyblogger, #instamakeup, #makeupbyetari, #pencil"
+    hashtags: "#fillers, #jawlinefillers, #lipenhancement, #lipaugmentation"
 ---

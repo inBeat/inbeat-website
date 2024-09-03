@@ -1,36 +1,36 @@
 ---
-title: Top 10 Food Instagram Influencers In Boston In 2023
+title: Top 10 Food Instagram Influencers In Boston In 2024
 description: >-
-  Find top food Instagram influencers in Boston in 2023. Most popular hashtags: #boston #food #eatlocal.
+  Find top food Instagram influencers in Boston in 2024. Most popular hashtags: #bostonfoodies #boston #foodiesofinstagram #food.
 platform: Instagram
-hits: 134
-text_top: Identify the top-rated Instagram influencers on inBeat.
-text_bottom: Our platform holds 134 Instagram influencers like this in Boston, United States for you to connect with.
+hits: 175
+text_top: Discover the top-rated Instagram influencers on inBeat.
+text_bottom: inBeat holds 175 Instagram influencers like this in Boston, United States for you to contact.
 profiles:
-  - username: "mrplay"
+  - username: "vegan_kween"
     fullname: >-
-      MR PLAY 💎
+      Erica | Vegan Kween
     bio: >-
-      🇬🇧🇯🇲🇸🇱 • The Connect • DJ/Producer/Promoter • Manager [@TonyDouglasVIP] @rnbxlondon @thedayfeast @theblackcabaret @dauniondjs @playent Click link⤵️
+      👑 Your top guide to vegan food in Boston ✨ As seen in Boston Magazine 🍔 I just took a DNA test & turns out I’m 100% hungry 💌 thevegankween@gmail.com
     location: "United States"
-    followers: 26755
-    engagement: 63
-    commentsToLikes: 0.074656
-    id: ck5zuqpnq2vgf0i14aa8099j7
+    followers: 15759
+    engagement: 298
+    commentsToLikes: 0.130050
+    id: ck6ug7zo01g5c0j714xfmgqto
     verified: false
-    hashtags: "#cocktails, #rnbx, #whatstheplay, #music"
-  - username: "cityofboston"
+    hashtags: "#sponsored, #goodcatchfoods, #hotgrillsummer, #ridiculouslygood"
+  - username: "the_roamingfoodie"
     fullname: >-
-      City of Boston
+      Joseph Calcavecchia
     bio: >-
-      Welcome to the City of Boston's official Instagram account. For COVID-19 resources and links for our latest posts, visit:
+      📷: Content creation 📍New Hampshire/ Boston Food/ Travel Photography Website ⬇️
     location: "United States"
-    followers: 95653
-    engagement: 54
-    commentsToLikes: 0.014769
-    id: ck0uesib3m3ji0i19vt9xnvvz
-    verified: true
-    hashtags: "#photooftheday, #picoftheday, #covid, #covid19"
+    followers: 131422
+    engagement: 246
+    commentsToLikes: 0.035958
+    id: ck6tpx8u5nz1k0j718ic7wzwt
+    verified: false
+    hashtags: "#likesforlike, #miami, #feedfeed, #dessert"
   - username: "beantownbitez"
     fullname: >-
       Boston Food
@@ -54,7 +54,7 @@ profiles:
     commentsToLikes: 0.077387
     id: ck13bhjbrvfic0i19wc641alo
     verified: false
-    hashtags: "#blw, #cookingwithtoddlers, #kidsfood, #kidslunchbox"
+    hashtags: "#lunchboxideas, #lunchideas, #funfoodforkids, #kidsfood"
   - username: "thecravingscurator"
     fullname: >-
       Travel Photography & Content
@@ -66,65 +66,65 @@ profiles:
     commentsToLikes: 0.038973
     id: ck14hla8aavvi0i192ff9ymm1
     verified: false
-    hashtags: "#nycfood, #nyceats, #nycfoodies, #nyc"
-  - username: "chefchriscoombs"
+    hashtags: "#nycfoodies, #nyceats, #nyc, #nycfood"
+  - username: "discover.boston"
     fullname: >-
-      Chris Coombs
+      Discover Boston ✨ Taylor
     bio: >-
-      Chef • Owner @deuxave • @bostonchops • @bostonchopsdowntown • @dbarboston • Advocate For The Survival Of Restaurants, Small Business, & It’s Employees
+      🥂Sharing the city’s best spots and hidden gems 🤳 Me ☞ @taylorscooper 📸 TikTok: taylorscooper
     location: "United States"
-    followers: 27036
-    engagement: 313
-    commentsToLikes: 0.064155
-    id: ck15uswbjoeox0i19if947w64
+    followers: 43557
+    engagement: 507
+    commentsToLikes: 0.064480
+    id: cl9u3cqh6n1kt0i239xpgpto3
     verified: false
-    hashtags: "#chefsofinstagram, #foodgasm, #food, #f52grams"
-  - username: "andrewmolen"
+    hashtags: "#eats, #thingstodoinboston, #bostonma, #food"
+  - username: "mydietistrash"
     fullname: >-
-      Andrew Molen
+      NICOLE
     bio: >-
-      🍴🍷#Food & #Beverage 🏠NewYork,NY|Boston,MA
+      📍Boston, MA | Providence, RI 💌mydietistrash@gmail.com 🍴Your hub for food & vibes
     location: "United States"
-    followers: 40835
-    engagement: 377
-    commentsToLikes: 0.032136
-    id: ck5cfy6fsnt5r0i1132qbzjea
+    followers: 109817
+    engagement: 274
+    commentsToLikes: 0.274380
+    id: cl9u3cowgn0my0i232v4ar3gg
     verified: false
-    hashtags: "#covid19, #chefsofinstagram, #lol, #fun"
-  - username: "caught.in.a.taste"
+    hashtags: "#goodfood, #thingstodoboston, #eastcoastfoodies, #foodreel"
+  - username: "whatsniceating"
     fullname: >-
-      Sandi | Boston Food + Travel📌
+      Nicolette Pope
     bio: >-
-      Food 🍝 | Travel 🌏 | Behind The Scenes 🎥 Greatest sin: Ex-gluten free monster 😈 now eating it all #caughtinataste
+      Chicago girl living + eating in Boston 💌 𝘞𝘩𝘢𝘵𝘴𝘕𝘪𝘤𝘌𝘢𝘵𝘪𝘯𝘨@𝘨𝘮𝘢𝘪𝘭.𝘤𝘰𝘮
     location: "United States"
-    followers: 21348
-    engagement: 614
-    commentsToLikes: 0.052342
-    id: ck5zq9x3wu7lz0i14c1b094n5
+    followers: 27527
+    engagement: 49
+    commentsToLikes: 0.086004
+    id: ckrtzunl9jxm60j23f6t5g4ev
     verified: false
-    hashtags: "#ad, #caughtinataste, #bostoneats, #eggfast"
-  - username: "toomanybites"
+    hashtags: "#yum, #foodpics, #love, #foodlover"
+  - username: "charlesrosamma"
     fullname: >-
-      boston food | brianna
+      CharlesRosa
     bio: >-
-      💌 toomanybites@gmail.com dm or email for partnership inquiries
+      Fighter @UFC Culinary Chef 👨🏻‍🍳 @AmericanCombatGym Jiujitsu🥋BlackBelt JWU🎓 Peabody, MA ➡️ Boca Raton, FL📍BostonStrong 💪
     location: "United States"
-    followers: 6622
-    engagement: 410
-    commentsToLikes: 0.185140
-    id: ck13cdjdyztsg0i19096hwmcs
-    verified: false
-    hashtags: "#ad, #summerwithebeggwhites, #sponsored, #invite"
-  - username: "bostonfoodgram"
+    followers: 100007
+    engagement: 437
+    commentsToLikes: 0.031603
+    id: ck5zobcm0q6jf0i146se5b8n3
+    verified: true
+    hashtags: "#bostonstrong, #mma, #muaythai, #hardwork"
+  - username: "food.with.sass"
     fullname: >-
-      Boston Food & Travel | Emily
+      Alissa • Donut Model
     bio: >-
-      Good food, good mood ✨ 💁🏻‍♀️ @emmchan_ is me 💫 Share your pics #bostonfoodgram 📧 bostonfoodgram@gmail.com 🐶 @lacymaltese — DD Perks ⤵️
+      🍝 Boston Foodie 👩🏼‍⚕️ Resident Physician 🍽 @zipkick @bestfoodfeed 🍕 @slice: use FOODWITHSASS for $7 off
     location: "United States"
-    followers: 60495
-    engagement: 172
-    commentsToLikes: 0.155538
-    id: ck0u06chpsru20i19okndfh03
+    followers: 3207
+    engagement: 567
+    commentsToLikes: 0.189854
+    id: ck5hsf5pjwhvh0i1139abgc3e
     verified: false
-    hashtags: "#partner, #grassfedbeef, #uruguayanbeef, #90pluscellars"
+    hashtags: "#newforkcity, #lovefood, #eatingfortheinsta, #supportlocalbusiness"
 ---

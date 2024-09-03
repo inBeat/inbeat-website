@@ -1,11 +1,11 @@
 ---
-title: Top 10 Skincare TikTok Influencers In Colombia In 2023
+title: Top 10 Skincare TikTok Influencers In Colombia In 2024
 description: >-
-  Find top skincare TikTok influencers in Colombia in 2023. Most popular hashtags: #skincare #fyp #foryou #makeup.
+  Find top skincare TikTok influencers in Colombia in 2024. Most popular hashtags: #skincare #fyp #foryou #beauty.
 platform: TikTok
 hits: 13
-text_top: Discover the top-rated TikTok accounts on inBeat.
-text_bottom: inBeat aggregates 13 TikTok influencers like this in Colombia for you to collaborate.
+text_top: Discover the most popular TikTok influencers on inBeat.
+text_bottom: Our platform has 13 TikTok influencers like this in Colombia for you to connect with.
 profiles:
   - username: "marremusicoficial"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.043841
     id: ckbfflvvbadwu0j23snqwup8w
     verified: true
-    hashtags: "#foryou, #skincare, #fyp, #beauty"
+    hashtags: "#marrebeauty, #fyp, #skincare, #beauty"
   - username: "sophiegiraldo.of"
     fullname: >-
       Sophie Giraldo 
@@ -66,7 +66,7 @@ profiles:
     commentsToLikes: 0.009556
     id: ckdbqmwljbvyh0j23ofnygcbg
     verified: false
-    hashtags: "#comediaenespa, #oreo, #colombiano, #ni"
+    hashtags: "#perritico, #colombia, #comediaenespa, #parati"
   - username: "susana_tunes"
     fullname: >-
       susana_tunes

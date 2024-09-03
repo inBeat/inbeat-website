@@ -1,11 +1,11 @@
 ---
-title: Top 10 Gaming TikTok Influencers In Italy In 2023
+title: Top 10 Gaming TikTok Influencers In Italy In 2024
 description: >-
-  Find top gaming TikTok influencers in Italy in 2023. Most popular hashtags: #gaming #gamer #twitch #anime.
+  Find top gaming TikTok influencers in Italy in 2024. Most popular hashtags: #gaming #gamer #twitch #anime.
 platform: TikTok
-hits: 61
-text_top: See the top-rated TikTok accounts on inBeat.
-text_bottom: inBeat has 61 TikTok influencers like this in Italy for you to pitch.
+hits: 62
+text_top: Analyze the best TikTok influencers on inBeat.
+text_bottom: inBeat has 62 TikTok influencers like this in Italy for you to pitch.
 profiles:
   - username: "ludovicov92"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.119599
     id: ckc36b1rfv8rc0j23nnbnttzn
     verified: false
-    hashtags: "#provaci, #emptyworld, #duetto, #truestory"
+    hashtags: "#duetto, #emptyworld, #provaci, #reaction"
   - username: "pczero"
     fullname: >-
       Dario di PCZERO

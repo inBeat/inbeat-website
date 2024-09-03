@@ -1,11 +1,11 @@
 ---
-title: Top 10 Skincare TikTok Influencers In India In 2023
+title: Top 10 Skincare TikTok Influencers In India In 2024
 description: >-
-  Find top skincare TikTok influencers in India in 2023. Most popular hashtags: #skincare #foryou #foryoupage #edutok.
+  Find top skincare TikTok influencers in India in 2024. Most popular hashtags: #skincare #foryou #foryoupage #edutok.
 platform: TikTok
 hits: 105
 text_top: Discover the top-rated TikTok profiles on inBeat.
-text_bottom: Our database aggregates 105 TikTok influencers like this in India for you to pitch.
+text_bottom: Our database aggregates 105 TikTok influencers like this in India for you to connect with.
 profiles:
   - username: "officialdivya1"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.026359
     id: ck9c7bkdqrui60j78fqs2g292
     verified: true
-    hashtags: "#makeuptutorial, #sugarcosmetics, #purplle, #foryou"
+    hashtags: "#skincaretips, #purplle, #gharbaithoindia, #foryou"
   - username: "that_lifestyle_guy"
     fullname: >-
       that lifestyle guy

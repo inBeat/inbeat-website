@@ -1,11 +1,11 @@
 ---
-title: Top 10 Architecture Instagram Influencers In United Arab Emirates In 2023
+title: Top 10 Architecture Instagram Influencers In United Arab Emirates In 2024
 description: >-
-  Find top architecture Instagram influencers in United Arab Emirates in 2023. Most popular hashtags: #architecture #dubai #mydubai #dubailife.
+  Find top architecture Instagram influencers in United Arab Emirates in 2024. Most popular hashtags: #architecture #dubai #mydubai #landscape.
 platform: Instagram
-hits: 39
-text_top: See the top-rated Instagram profiles on inBeat.
-text_bottom: inBeat aggregates 39 Instagram influencers like this in United Arab Emirates for you to contact.
+hits: 45
+text_top: See the best Instagram influencers on inBeat.
+text_bottom: Our database holds 45 Instagram influencers like this in United Arab Emirates for you to connect with.
 profiles:
   - username: "pk.prakashphotography"
     fullname: >-
@@ -91,18 +91,6 @@ profiles:
     id: ck6uidmn7egv80j71bqjpqh21
     verified: false
     hashtags: "#mydubai, #chicago, #beiruting, #interiordesigner"
-  - username: "arturdainese"
-    fullname: >-
-      ARTÙR DAINESE
-    bio: >-
-      🌍Live to travel, travel to live 🦂 📍Dubai 🇦🇪 ⚜️Brand founder ⬇️ 🐍@arturdainese_python 👘@arturdainese_kimono 📩DM for collab 🗣🇮🇹🇷🇺🇺🇸🇪🇸
-    location: "United Arab Emirates"
-    followers: 44991
-    engagement: 114
-    commentsToLikes: 0.055049
-    id: ck6u8or55st5w0j71j727iufv
-    verified: false
-    hashtags: "#dubaimarina, #sharjah, #instagram, #like"
   - username: "1sk1alketbi"
     fullname: >-
       © Salem Alketbi سالم الكتبي
@@ -127,4 +115,16 @@ profiles:
     id: ckap20ei5wu9t0i78nwnk9vb6
     verified: false
     hashtags: "#beautifuldestinations, #dubaiinstagram, #middleeast, #dubaimarina"
+  - username: "omarzoer"
+    fullname: >-
+      Omar Zoer | عمر زعير
+    bio: >-
+      ▫️Capture a feeling 🧡⁣⁣ ▫️Based in Abu Dhabi ⁣🌇⁣ ▫️Photography & Videography 📸 ⁣⁣⁣⁣ ▫️YouTube/Facebook/Twitter - omarzoer⁣ 📳⁣⁣⁣
+    location: "United Arab Emirates"
+    followers: 11290
+    engagement: 449
+    commentsToLikes: 0.102328
+    id: ck6trl7y8zmp30j71zc9e16ak
+    verified: false
+    hashtags: "#architectural, #arc, #architecturedaily, #architectanddesign"
 ---

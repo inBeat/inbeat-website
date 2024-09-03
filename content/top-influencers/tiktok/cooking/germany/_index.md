@@ -1,11 +1,11 @@
 ---
-title: Top 10 Cooking TikTok Influencers In Germany In 2023
+title: Top 10 Cooking TikTok Influencers In Germany In 2024
 description: >-
-  Find top cooking TikTok influencers in Germany in 2023. Most popular hashtags: #foryou #lecker #cooking #food.
+  Find top cooking TikTok influencers in Germany in 2024. Most popular hashtags: #foryou #lecker #cooking #food.
 platform: TikTok
-hits: 66
-text_top: Analyze the most popular TikTok accounts on inBeat.
-text_bottom: Our platform holds 66 TikTok influencers like this in Germany for you to contact.
+hits: 65
+text_top: Analyze the top-rated TikTok profiles on inBeat.
+text_bottom: Our platform holds 65 TikTok influencers like this in Germany for you to pitch.
 profiles:
   - username: "umihito"
     fullname: >-

@@ -1,24 +1,24 @@
 ---
-title: Top 10 Tattoo-Artists Instagram Influencers In Chile In 2023
+title: Top 10 Tattoo-Artists Instagram Influencers In Chile In 2024
 description: >-
-  Find top tattoo-artists Instagram influencers in Chile in 2023. Most popular hashtags: #tattoo #tattooartist #tatuajes #tattoos.
+  Find top tattoo-artists Instagram influencers in Chile in 2024. Most popular hashtags: #tattoo #tattooartist #tattoos #tatuaje.
 platform: Instagram
-hits: 19
-text_top: Analyze the top-rated Instagram influencers on inBeat.
-text_bottom: Our platform aggregates 19 Instagram influencers like this in Chile for you to connect with.
+hits: 22
+text_top: Discover the top-rated Instagram accounts on inBeat.
+text_bottom: Our database has 22 Instagram influencers like this in Chile for you to pitch.
 profiles:
   - username: "lorenzodotline"
     fullname: >-
-      DotlineTattoo•Exclusive Studio
+      • Art • Tattoos • Music • Love
     bio: >-
-      •Loyalty, Love - 1994 •Ama, persevera, sé fuerte. •Haz click en el link para asesorías personalizadas •
+      DrAKeN • Agenda Cerrada • Consultar solo por sobrecupos 🟢 Presiona el link de WhatsApp para asesorías
     location: "Chile"
-    followers: 14863
-    engagement: 183
-    commentsToLikes: 0.281174
+    followers: 77282
+    engagement: 127
+    commentsToLikes: 0.200098
     id: ck5q11vfa8v7h0i11urgfastt
     verified: false
-    hashtags: "#inkgirls, #girltattoo, #girlswithink, #tattooart"
+    hashtags: "#tats, #tatuaje, #fineline, #minitattoo"
   - username: "sergiovisor_ph"
     fullname: >-
       Sergio Carabajal 📸
@@ -59,26 +59,38 @@ profiles:
     fullname: >-
       Carla Urrejola
     bio: >-
-      * Tatuajes | Ilustración * No DM * Agenda Abierta MARZO 2021 * Cotizar a través del formulario 👇🏻
+      * Tatuajes | Ilustración * No DM * Agenda Abierta OCTUBRE 2021 * Cotizar a través del formulario 👇🏻
     location: "Chile"
-    followers: 20582
-    engagement: 275
-    commentsToLikes: 0.020049
+    followers: 20996
+    engagement: 409
+    commentsToLikes: 0.018980
     id: ck8syyxngmk2r0j783unbmxze
     verified: false
-    hashtags: "#petsofinstagram, #chile, #dotwork, #blackworkers"
+    hashtags: "#artwork, #blackwork, #tatuaje, #chile"
   - username: "estudiotatuajesboutique"
     fullname: >-
       
     bio: >-
       
     location: "Chile"
-    followers: 42270
-    engagement: 124
+    followers: 37113
+    engagement: 141
     commentsToLikes: 0.009028
     id: ck5qcyj0psybs0i11df7yy8ab
     verified: false
-    hashtags: "#tatuajes, #tattoodo, #tattooed, #tattoo"
+    hashtags: "#ink, #chiletattoo, #blackworktattoo, #dotstattoo"
+  - username: "leon.fco"
+    fullname: >-
+      León Francisco 🦁
+    bio: >-
+      🎨Artista - Tatuador en @blackzen_tattoo 🌟ANIME-CÓMIC-FULL COLOR 🎨NEO TRADI - NEW SCHOOL 📝 Cotizaciones x DM 📝AGENDA ABIERTA AGOSTO 🌟Rancagua, Chile 🇨🇱
+    location: "Chile"
+    followers: 4583
+    engagement: 508
+    commentsToLikes: 0.059727
+    id: ck5qamvrqh82t0i118y4dm2ua
+    verified: false
+    hashtags: "#demonslayer, #otakuworld, #animedraw, #animeartassistant"
   - username: "___evilcat"
     fullname: >-
       Evil SSSS 🐍
@@ -90,7 +102,19 @@ profiles:
     commentsToLikes: 0.016702
     id: ck6uch6lsfl360j71t8h2kwd9
     verified: false
-    hashtags: "#satanlovesme, #greenhair, #darkgirl, #girlswhitink"
+    hashtags: "#satanismysugardaddy, #tbt, #greenhair, #onlyfans"
+  - username: "polillatattoo"
+    fullname: >-
+      Polilla
+    bio: >-
+      💌 AGENDA CERRADA Santiago,Chile Sobre mi en @soypolilla_ ✨@cheyenne_tattooequipment
+    location: "Chile"
+    followers: 268886
+    engagement: 274
+    commentsToLikes: 0.008866
+    id: ck55m74463dhr0i119icym5wk
+    verified: false
+    hashtags: "#animetattoo, #characterdesign, #tattoo, #cheyenne"
   - username: "steph.vtattoo"
     fullname: >-
       ▫        S t e p h💉T a t t o o
@@ -103,28 +127,4 @@ profiles:
     id: ck8sxq133i8jz0j78jfx9frkd
     verified: false
     hashtags: "#dotworktattoo, #chile, #tatuajes, #minimaltattoo"
-  - username: "mieeel2020"
-    fullname: >-
-      Cecilia Fuentes
-    bio: >-
-      #makeupmiel🐝🌻 #megamafu ✨ @sesionesdelcorte ⭐ La vida es hermosa y la música... La música lo es todo ✨ Arte, danza, música #pride🌈
-    location: "Chile"
-    followers: 5791
-    engagement: 325
-    commentsToLikes: 0.056866
-    id: ck14guerz72v70i195ufsmf8l
-    verified: false
-    hashtags: "#hacemosloquenosgusta, #colores, #comunidad, #pride"
-  - username: "patiineta.tattoo"
-    fullname: >-
-      ANIME & MANGA TATTOO ⛩️
-    bio: >-
-      • CUPOS DISPONIBLES ABRIL 2021✨ •CARTOON & ANIME TATTOOS🍥 •CONSULTAS SOLO POR DIRECT🌸 •AGENDA CERRADA MARZO 2021 🗓 • @studio.kitsune
-    location: "Chile"
-    followers: 14415
-    engagement: 455
-    commentsToLikes: 0.010703
-    id: ck8tb2y60u4580j78puqksezd
-    verified: false
-    hashtags: "#hxh, #lovely, #dragonball, #hxhedit"
 ---

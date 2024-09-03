@@ -1,12 +1,24 @@
 ---
-title: Top 10 Crossfit Instagram Influencers In Poland In 2023
+title: Top 10 Crossfit Instagram Influencers In Poland In 2024
 description: >-
-  Find top crossfit Instagram influencers in Poland in 2023. Most popular hashtags: #crossfit #trening #workout #fitness.
+  Find top crossfit Instagram influencers in Poland in 2024. Most popular hashtags: #crossfit #sport #trening #workout.
 platform: Instagram
-hits: 26
-text_top: Discover the most popular Instagram profiles on inBeat.
-text_bottom: inBeat has 26 Instagram influencers like this in Poland for you to pitch.
+hits: 24
+text_top: See the most popular Instagram profiles on inBeat.
+text_bottom: Our database has 24 Instagram influencers like this in Poland for you to pitch.
 profiles:
+  - username: "bronislawolenkowicz"
+    fullname: >-
+      Bronisław Olenkowicz
+    bio: >-
+      Crossfit Athlete _________ @diversesystem | @thornfit | @goprimal.eu | @reignbodyfuel | @repeatpolska | @collibrelife | @underdogsathletics
+    location: "Poland"
+    followers: 58022
+    engagement: 235
+    commentsToLikes: 0.022657
+    id: ck15sicydd5kw0i199fxohluh
+    verified: false
+    hashtags: "#forevergettingstronger, #crossfit, #crossfitgames, #strongforlife"
   - username: "n.wolniewicz"
     fullname: >-
       Natalia Wolniewicz
@@ -31,18 +43,6 @@ profiles:
     id: ck8tc7582yj3a0j78n79luftx
     verified: false
     hashtags: "#gymgirl, #fitness, #trojmiasto, #girlmotivation"
-  - username: "bronislawolenkowicz"
-    fullname: >-
-      Bronisław Olenkowicz
-    bio: >-
-      🇵🇱|Crossfit Games 19|Owner @strongforlife.pl |Powered by @jackedgymnastics @reebokeurope @thornfit ⬇️ONLINE COACHING⬇️
-    location: "Poland"
-    followers: 43153
-    engagement: 336
-    commentsToLikes: 0.015412
-    id: ck15sicydd5kw0i199fxohluh
-    verified: false
-    hashtags: "#christmasstime, #kettlebells, #tb, #4fun"
   - username: "pobiegana"
     fullname: >-
       Karolina Lato-Książek
@@ -55,6 +55,18 @@ profiles:
     id: ck9wcz21cdan80j78osodmjii
     verified: false
     hashtags: "#biegambolubi, #kolarstwo, #loverunning, #cyklinggirl"
+  - username: "gecaangelika"
+    fullname: >-
+      Angelika Gęca
+    bio: >-
+      🤰🏽107,5kg➡️63,3kg 🏃🏽‍♀️5km-24:02 🏃🏽‍♀️10km-52:48 🏃🏽‍♀️21,1km-1:59:03 🏃🏽‍♀️3 x 42,2km-3:58:24 🏃🏽‍♀️RMG ULTRA KOCIERZ🏆3rd OPEN/ HARRACHOV🏆6th OPEN
+    location: "Poland"
+    followers: 13088
+    engagement: 355
+    commentsToLikes: 0.038820
+    id: ck0w02leic2p30i19uamr01gw
+    verified: false
+    hashtags: "#biegambolubie, #running, #sportowapolska, #crossfitpolska"
   - username: "magda_biala"
     fullname: >-
       MAGDALENA BIAŁACHOWSKA🏋️‍♀️
@@ -67,18 +79,6 @@ profiles:
     id: ck8t60bm1bt1y0j78ybqk23ci
     verified: false
     hashtags: "#las, #crossfit, #shape, #inked"
-  - username: "edyta_litwiniuk"
-    fullname: >-
-      Fit Mama Edyta Litwiniuk
-    bio: >-
-      ᴛʀᴇɴɪɴɢ ɪ ᴅɪᴇᴛᴀ ᴋᴏʙɪᴇᴛ ᴡ ᴄɪᴀ̨ᴢ̇ʏ ɪ ᴘᴏ ᴘᴏʀᴏᴅᴢɪᴇ 🧘🏻‍♀️𝘁𝗿𝗲𝗻𝗶𝗻𝗴𝗶 𝗼𝗻𝗹𝗶𝗻𝗲 👉🏻@trainingpoint.pl 👉🏻@sklep.edytalitwiniuk.pl 👧👧👧 #trimama 🏊🏼‍♀️🚴🏻‍♀️🏃🏻‍♀️
-    location: "Poland"
-    followers: 87383
-    engagement: 110
-    commentsToLikes: 0.038755
-    id: ckaoyfz4ehd2h0i78ens1ff0k
-    verified: true
-    hashtags: "#fitbodychallenge, #triathlete, #mamawformie, #dieta"
   - username: "asiawrzos"
     fullname: >-
       TRENERKA PERSONALNA WARSZAWA

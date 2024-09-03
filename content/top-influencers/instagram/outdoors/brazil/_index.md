@@ -1,12 +1,24 @@
 ---
-title: Top 10 Outdoors Instagram Influencers In Brazil In 2023
+title: Top 10 Outdoors Instagram Influencers In Brazil In 2024
 description: >-
-  Find top outdoors Instagram influencers in Brazil in 2023. Most popular hashtags: #outdoors #nature #adventure #travelblogger.
+  Find top outdoors Instagram influencers in Brazil in 2024. Most popular hashtags: #outdoors #nature #hiking #travel.
 platform: Instagram
-hits: 240
-text_top: Identify the best Instagram profiles on inBeat.
-text_bottom: inBeat aggregates 240 Instagram influencers like this in Brazil for you to collaborate.
+hits: 246
+text_top: Discover the best Instagram influencers on inBeat.
+text_bottom: Our search engine holds 246 Instagram influencers like this in Brazil for you to pitch.
 profiles:
+  - username: "tinybigadventure"
+    fullname: >-
+      Tiny Big Adventure Magazine
+    bio: >-
+      Ordinary Families doing extraordinary things in the outdoors! Explore/ Inspirer “Extraordinary” Tag #tinybigadventure. Contact us for inquiries 📩
+    location: "Brazil"
+    followers: 24520
+    engagement: 74
+    commentsToLikes: 0.091612
+    id: ckqu7swu5174w0j233rjgiztb
+    verified: false
+    hashtags: "#mountainlife, #tinybigadventure, #hikingwithkids, #1000hoursoutside"
   - username: "villmarks_siv"
     fullname: >-
       Siv Karin Ravndal 🌲🐾
@@ -43,30 +55,54 @@ profiles:
     id: ckaoxea8kcvyz0i78uevh1gn0
     verified: false
     hashtags: "#korimako"
+  - username: "armandomaalouf"
+    fullname: >-
+      Armando Maalouf
+    bio: >-
+      🇱🇧Leb-Bra🇧🇷 ⛰Adventurer🌎Explorer✈Traveler🇨🇾🇳🇱🇸🇰🇦🇹🇩🇪🇸🇦 Book your private hike📞 Co-founder @the.campers Guide @lebaneseexplorers 📍Zahlé☩Azara Courageux
+    location: "Brazil"
+    followers: 10360
+    engagement: 636
+    commentsToLikes: 0.176884
+    id: ck6u69467e85s0j71avp73vi8
+    verified: false
+    hashtags: "#travelblogger, #winter, #instagood, #camp"
   - username: "charlysinewan"
     fullname: >-
-      Sinewan
+      Charly Sinewan
     bio: >-
-      Llevo once años dando la vuelta al mundo en moto, por etapas. ¿Me acompañas? #viajar #motos #aventura #outdoors #nomadas
+      Llevo 14 años dando la vuelta al mundo en moto, por etapas. ¿Me acompañas? Para temas profesionales, contacta en info@charlysinewan.com
     location: "Brazil"
-    followers: 164381
-    engagement: 505
-    commentsToLikes: 0.016053
+    followers: 569426
+    engagement: 267
+    commentsToLikes: 0.019970
     id: ck5zpumrptdna0i148b3z3wz1
     verified: false
-    hashtags: "#aventura, #viajarenmoto, #larssonespan, #charlysinewan"
-  - username: "explorandoocanada"
+    hashtags: "#vidan, #viajar, #sinewan, #serlibre"
+  - username: "mundociclismo"
     fullname: >-
-      Explorando o Canadá
+      Mundo Ciclismo
     bio: >-
-      Cintia Aquino 🏔Outdoors | Adventure | Travel 📍Brazilian living in Calgary 🇨🇦 📸Taking photos & chasing adventure
+      🇧🇷 Bem-vindo(a) a um dos maiores instagrans de ciclismo Siga-nos para dicas, habilidades, manutenção e aventuras de ciclismo Confira … 👇
     location: "Brazil"
-    followers: 3906
-    engagement: 1132
-    commentsToLikes: 0.062912
-    id: ckap7t6j0lg6x0i78bic87ujh
+    followers: 371382
+    engagement: 218
+    commentsToLikes: 0.034226
+    id: ck15q5vbt19650i19qki69iri
     verified: false
-    hashtags: "#canadianrockies, #turismonocanada, #travelgram, #alberta"
+    hashtags: "#mtbgram, #mtb, #pedalno, #mundodebike"
+  - username: "maya"
+    fullname: >-
+      Maya Gabeira
+    bio: >-
+      2 World Records @oceana @unesco Champion of the Ocean and Youth
+    location: "Brazil"
+    followers: 590758
+    engagement: 72
+    commentsToLikes: 0.023445
+    id: ck0vvgem6p0ut0i192fqg9zpv
+    verified: true
+    hashtags: "#100footwave, #nature, #blueaya, #nazar"
   - username: "travelakcja"
     fullname: >-
       Monika
@@ -91,40 +127,4 @@ profiles:
     id: ck0w10cn5gxfk0i19iietk0x0
     verified: false
     hashtags: "#photographer, #algerianphotographer, #postthepeople, #street"
-  - username: "pv_radical"
-    fullname: >-
-      lifestyle . gopro . canon dji
-    bio: >-
-      🖥⌨️🖱 Empresário 🚲 Piloto offroad (@shercobrasil ) 📸fotógrafo 🎥🎞 vídeomaker ♻️Founder @salvamar.rj 🚤🌴Passeios de lancha no Rio de janeiro🌴🚤 @naproa_rio
-    location: "Brazil"
-    followers: 27800
-    engagement: 164
-    commentsToLikes: 0.122006
-    id: ck5q26g96ehp60i11intbthgz
-    verified: false
-    hashtags: "#honda, #turismo, #travelblogger, #offroad"
-  - username: "karineeabrahim"
-    fullname: >-
-      Karinee Abrahim
-    bio: >-
-      Pós graduando - Metabolismo e Emagrecimento 🇧🇷 Team @crnvrnutrition @monsterenergy @reignbodyfuel 🥋Gracie Barra - Black Belt🔺 🔉Deejay
-    location: "Brazil"
-    followers: 28070
-    engagement: 232
-    commentsToLikes: 0.049290
-    id: ck8t1u96sx22x0j78iag9d7hw
-    verified: false
-    hashtags: "#tattoo, #beachhair, #surf, #girl"
-  - username: "josimenegazzi"
-    fullname: >-
-      Josiele Menegazzi ॐ
-    bio: >-
-      Não é aqui que a vida acontece.
-    location: "Brazil"
-    followers: 8691
-    engagement: 955
-    commentsToLikes: 0.021720
-    id: ck0tvtpftcqqf0i19ekz2fxim
-    verified: false
-    hashtags: "#trilheirosdobrasil, #trekkingestilodevida, #trekkingdelas, #trilheirasdobrasil"
 ---

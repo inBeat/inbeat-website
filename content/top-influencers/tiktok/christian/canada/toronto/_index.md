@@ -1,11 +1,11 @@
 ---
-title: Top 10 Christian TikTok Influencers In Toronto In 2023
+title: Top 10 Christian TikTok Influencers In Toronto In 2024
 description: >-
-  Find top christian TikTok influencers in Toronto in 2023. Most popular hashtags: #fyp #duet #toronto #foryou.
+  Find top christian TikTok influencers in Toronto in 2024. Most popular hashtags: #fyp #duet #toronto #foryou.
 platform: TikTok
 hits: 9
-text_top: Analyze the best TikTok accounts on inBeat.
-text_bottom: Our search engine has 9 TikTok influencers like this in Toronto, Canada for you to contact.
+text_top: Discover the top-rated TikTok accounts on inBeat.
+text_bottom: Our platform has 9 TikTok influencers like this in Toronto, Canada for you to connect with.
 profiles:
   - username: "anutbus"
     fullname: >-
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.046310
     id: ck9rl6qvswhma0j78ia50vd4a
     verified: false
-    hashtags: "#jesus, #church, #christian, #fyp"
+    hashtags: "#church, #jesus, #christian, #duet"
   - username: "shadorachambers"
     fullname: >-
       chi 
@@ -102,7 +102,7 @@ profiles:
     commentsToLikes: 0.015331
     id: ck92uxyz3o3o00j78lok6wo66
     verified: false
-    hashtags: "#prank, #fyp, #share, #laugh"
+    hashtags: "#meme, #share, #muslim, #laugh"
   - username: "crazy.plant.guy"
     fullname: >-
       Christian

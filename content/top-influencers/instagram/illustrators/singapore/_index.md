@@ -1,96 +1,72 @@
 ---
-title: Top 10 Illustrators Instagram Influencers In Singapore in 2023
+title: Top 10 Illustrators Instagram Influencers In Singapore In 2024
 description: >-
-  Find top illustrators Instagram influencers in Singapore in 2023. Most popular hashtags: #illustration #sketch #digitalart #animation.
+  Find top illustrators Instagram influencers in Singapore in 2024. Most popular hashtags: #illustration #digitalart #drawing.
 platform: Instagram
-hits: 11
-text_top: Identify the most popular Instagram profiles on inBeat.
-text_bottom: Our database holds 11 Instagram influencers like this in Singapore for you to connect with.
+hits: 9
+text_top: Analyze the top-rated Instagram profiles on inBeat.
+text_bottom: inBeat holds 9 Instagram influencers like this in Singapore for you to contact.
 profiles:
-  - username: "kzgabriella"
+  - username: "sadshrimps"
     fullname: >-
-      Kezia Gabriella
+      Natasha-Elle
     bio: >-
-      SG • Art Director / Illustrator / Maker 1/2 of @helloantinormal Business Enquiry: kezia@antinormal.co
+      🦐 illustrator 🦐 ー singapore / tokyo I make videos, apparel and cute things ☆彡
     location: "Singapore"
-    followers: 25863
-    engagement: 966
-    commentsToLikes: 0.007254
-    id: ckap97yadrj970i78xzgqwtqo
+    followers: 71629
+    engagement: 450
+    commentsToLikes: 0.006415
+    id: cl51wcahp0doe0i23m3d19xcq
     verified: false
-    hashtags: "#illustration, #sketchbook, #sketch, #editorialillustration"
+    hashtags: "#sustainability, #marinabaysands, #artsciencecinema, #schooloftomorrowsg"
+  - username: "merchantofhappiness"
+    fullname: >-
+      william sim
+    bio: >-
+      Singapore based artist + book illustrator Bringing real happiness through art All works for sale. DM or william@amphibioscreative.sg
+    location: "Singapore"
+    followers: 95577
+    engagement: 259
+    commentsToLikes: 0.012974
+    id: cl56a8olq1uce0i23wl2lq1yr
+    verified: false
+    hashtags: "#miniturepainting, #fun, #toyfishes, #bockingfordpaper"
   - username: "davdaf"
     fullname: >-
       
     bio: >-
-      Mr D.Disney 🇸🇬✨🏰✨ 🎪: The Avid DisneyFan °o° 🙋🏻‍♂️: I'm an illustrator 🚂: Disney Collector’s 🎠: Share Disney Magic
+      Dave Disney 🇸🇬✨🏰✨ 🎪: The Avid DisneyFan °o° 🙋🏻‍♂️: I'm an illustrator 🚂: Disney Collector’s 🎠: Share Disney Magic
     location: "Singapore"
-    followers: 38603
-    engagement: 368
-    commentsToLikes: 0.012828
+    followers: 40167
+    engagement: 152
+    commentsToLikes: 0.021549
     id: ck9wf8jncnoo20j78qxlpvs9q
     verified: false
-    hashtags: "#waltdisneyworld, #disneyanimation, #disneybeautyandthebeasthometheme, #disneymagic"
+    hashtags: "#sharedisneymagicasia, #disneyhotels, #disneypic, #fairygodmother"
+  - username: "kzgabriella"
+    fullname: >-
+      Kezia Gabriella
+    bio: >-
+      Art Director / Illustrator 1/2 of @helloantinormal UK & US Representation: @jsragency kezia@antinormal.co
+    location: "Singapore"
+    followers: 26181
+    engagement: 332
+    commentsToLikes: 0.005845
+    id: ckap97yadrj970i78xzgqwtqo
+    verified: false
+    hashtags: "#allianzmomentoftruth, #abstract, #mixedmedia, #editorialillustration"
   - username: "leorenart"
     fullname: >-
       ⭕️ Leoren ⭕️
     bio: >-
       [[ Illustrator + pin maker ]] ⚠️ Repost with credit OK 🌟 COMMISSION CLOSED 📮 ONLINE STORE OPEN
     location: "Singapore"
-    followers: 10257
-    engagement: 475
-    commentsToLikes: 0.030664
+    followers: 12577
+    engagement: 431
+    commentsToLikes: 0.031338
     id: ckap1racnvs790i7861byeshw
     verified: false
-    hashtags: "#digitalpainting, #tifalockhart, #barret, #aang"
-  - username: "goldfishkang"
-    fullname: >-
-      🍑🌷☁️ gloria ☁️🌷🍑
-    bio: >-
-      💒 illustrator 💫 cute creature enthusiast 🌷 shop update: sep 2020 🌸 please do not copy/trace/repost
-    location: "Singapore"
-    followers: 90138
-    engagement: 265
-    commentsToLikes: 0.022452
-    id: ck13d9yhk4eif0i19moqore21
-    verified: false
-    hashtags: "#stationeryaddict, #illustration, #illustrationgram, #pingame"
-  - username: "chantalwindley"
-    fullname: >-
-      Chantal ♡
-    bio: >-
-      Rhythm Cycle @absolutecyclesingapore • Founder @mrsdeco_ • Swim with meeee 🏊🏼‍♀️ • Illustrator @c.llustrations
-    location: "Singapore"
-    followers: 6351
-    engagement: 492
-    commentsToLikes: 0.036458
-    id: ckap3zuhm58030i78fkxxq97n
-    verified: false
-    hashtags: "#tiktok, #singapore, #tiktoksingapore, #spininstructor"
-  - username: "sakyru"
-    fullname: >-
-      𝑺𝑨𝑲𝒀𝑹𝑼 🍭
-    bio: >-
-      💊 megan ♡ sg illustrator/animator 🌈 𝖘𝖚𝖒𝖒𝖔𝖓𝖊𝖉 @isthatapixel 𝖜/ @benmatchap 🔫 • 🔪 @sakydraws • sketches 🔪 @hyperempathy • makeup 🔪 @duckmeg_ • twitter
-    location: "Singapore"
-    followers: 6642
-    engagement: 1830
-    commentsToLikes: 0.020023
-    id: ck8t4uzqm7zu50j78qfko3bmb
-    verified: false
-    hashtags: "#bokunohero, #bnha, #atla, #jshk"
-  - username: "redbeanporridge"
-    fullname: >-
-      Johan (Joe-han)
-    bio: >-
-      Illustrator & 2D Animator He/him 21 Student@Lasalle College of The Arts Singapore. Malaysian 🇸🇬🇲🇾 Commissions Closed!
-    location: "Singapore"
-    followers: 24764
-    engagement: 679
-    commentsToLikes: 0.009651
-    id: ck0w54yh61x9z0i196gqqj479
-    verified: false
-    hashtags: "#comic, #graphicnovel, #anxietydisorders, #mentalhealthawareness"
+    hashtags: "#pincollecting, #poogie, #velkhana, #aang"
   - username: "friedricebucket"
     fullname: >-
       Ong Yi Teck | Animator
@@ -102,29 +78,41 @@ profiles:
     commentsToLikes: 0.015937
     id: ck14l6lgrt47r0i197ra1jrtu
     verified: false
-    hashtags: "#illustration, #inktober2019, #fanart, #animation"
-  - username: "irenekohstudio"
+    hashtags: "#loopcycle, #sketch, #doodle, #gif"
+  - username: "redbeanporridge"
     fullname: >-
-      Irene Koh Studio | Kawaii Art
+      Johan (Joe-han)
     bio: >-
-      💖 Kawaii art that bring happiness to the child at heart 💖 Everyone is fighting their own battles. Sometimes all we need is something to make us smile
+      Sir, this is a Wendy’s. Illustrator & Animator. Twitch Streamer. He/him. Malaysian 🇲🇾 Lasalle College of The Arts Singapore Alum 2020.
     location: "Singapore"
-    followers: 6882
-    engagement: 769
-    commentsToLikes: 0.083770
-    id: ck137q1mtcsrx0i19vkvfhdij
+    followers: 33888
+    engagement: 917
+    commentsToLikes: 0.012324
+    id: ck0w54yh61x9z0i196gqqj479
     verified: false
-    hashtags: "#catart, #nursesofinstagram, #digitaldraw, #kawaiistuff"
-  - username: "joanne__lopes"
+    hashtags: "#foodart, #sketch, #art, #illustration"
+  - username: "lovage"
     fullname: >-
-      𝒥𝑜𝒜𝓃𝓃𝑒 𝐿𝑜𝓅𝑒𝓈
+      Tiffany Lovage
     bio: >-
-      📍Amsterdam 👑 Tiktok: JoanneLopes 440K 🏆Genomineerd voor beste tiktok’er🤩
+      Hodgepodge of illustration, movement and life 〰️ say hi/ for commissions: hello@tiffanylovage.com (More works in story highlights) #lovageillustrates
     location: "Singapore"
-    followers: 14844
-    engagement: 876
-    commentsToLikes: 0.028811
-    id: ck8weljgre8im0j78a3640mk1
+    followers: 42406
+    engagement: 76
+    commentsToLikes: 0.029644
+    id: ck6tzavhc8mmb0j71nd9chy9s
     verified: false
-    hashtags: "#tiktokapp, #netherlands, #letsgoviral, #crazyhumor"
+    hashtags: "#puppy, #rescue, #lovageillustrates, #mural"
+  - username: "nadisukova"
+    fullname: >-
+      Fashion | Sketch | Singapore
+    bio: >-
+      ❗️Life in SG🇸🇬 vs HK🇭🇰 ❗️I discover and write about HK and SG fashion💃 ❗️Jewellery business💍 ❗️Illustrator @sketchbynadi ❗️Model💃
+    location: "Singapore"
+    followers: 7147
+    engagement: 394
+    commentsToLikes: 0.099478
+    id: ckf5vanb6nwcg0j23izf9elhe
+    verified: false
+    hashtags: ""
 ---

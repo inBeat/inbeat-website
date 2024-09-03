@@ -1,11 +1,11 @@
 ---
-title: Top 10 Djs TikTok Influencers In France In 2023
+title: Top 10 Djs TikTok Influencers In France In 2024
 description: >-
-  Find top djs TikTok influencers in France in 2023. Most popular hashtags: #foryou #pourtoi #paris #fyp.
+  Find top djs TikTok influencers in France in 2024. Most popular hashtags: #foryou #pourtoi #fyp #paris.
 platform: TikTok
 hits: 10
-text_top: Discover the top-rated TikTok profiles on inBeat.
-text_bottom: Our database has 10 TikTok influencers like this in France for you to contact.
+text_top: See the top-rated TikTok profiles on inBeat.
+text_bottom: inBeat aggregates 10 TikTok influencers like this in France for you to connect with.
 profiles:
   - username: "faulandwad"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.041774
     id: ck904u9l1ehp50j7816u2gar7
     verified: false
-    hashtags: "#housemusic, #music, #newmusic, #fyp"
+    hashtags: "#music, #fyp, #newmusic, #foryou"
   - username: "elliott_officiel"
     fullname: >-
       elliott_officiel
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.008750
     id: ck8ozl1d2cj790j78sps2dz69
     verified: false
-    hashtags: "#chant, #cover, #dualipa, #friends"
+    hashtags: "#cover, #chant, #dualipa, #2020"
   - username: "charlotteyelena"
     fullname: >-
       Charlotte Yelena
@@ -114,7 +114,7 @@ profiles:
     commentsToLikes: 0.040042
     id: ckc82o34j3dd30j23jnv2bnxz
     verified: false
-    hashtags: "#talent, #fitnessweek, #dancers, #mode"
+    hashtags: "#pourtoi, #fitnessweek, #danettefamilyshow, #fila"
   - username: "myajazzi"
     fullname: >-
       Mya Jazzi 🇩🇿🇫🇷
@@ -126,5 +126,5 @@ profiles:
     commentsToLikes: 0.013430
     id: ck81q401jfqss0j78liq3zop7
     verified: false
-    hashtags: "#lesmarseillais, #chanteuse, #chant, #myajazzi"
+    hashtags: "#chanteuse, #dz, #myajazzi, #lesmarseillais"
 ---

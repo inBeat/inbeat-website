@@ -1,130 +1,130 @@
 ---
-title: Top 10 Music Instagram Influencers In Poland In 2023
+title: Top 10 Music Instagram Influencers In Poland In 2024
 description: >-
-  Find top music Instagram influencers in Poland in 2023. Most popular hashtags: #warszawa #ootd #love.
+  Find top music Instagram influencers in Poland in 2024. Most popular hashtags: #wsp #christmas #tenorsax.
 platform: Instagram
-hits: 330
+hits: 376
 text_top: Identify the most popular Instagram profiles on inBeat.
-text_bottom: inBeat holds 330 Instagram influencers like this in Poland for you to connect with.
+text_bottom: Our search engine aggregates 376 Instagram influencers like this in Poland for you to contact.
 profiles:
-  - username: "majastrojek"
+  - username: "hiphoplunch"
     fullname: >-
-      Maja Strojek Model Actress
+      Hip Hop Lunch
     bio: >-
-      📍 Warsaw TikTok: majastrojek_ 📸 photoshoot 🎥 video 🎬 movies, series ❤️ Food Love music, dance, video games, memes and more 📩 majastrojek@gmail.com
+      🌎 Hip Hop Music & News 💾backup page for @hiphopnowtv 📞contact @jaykidproductions for promo
     location: "Poland"
-    followers: 576756
-    engagement: 192
-    commentsToLikes: 12.465804
-    id: ck5bxb0kwndin0i119qbbxato
+    followers: 66893
+    engagement: 1326
+    commentsToLikes: 0.076517
+    id: ck0vx1ljowop90i199r28dhic
     verified: false
-    hashtags: "#photoshoot, #photooftheday, #women, #naturallight"
-  - username: "kuberaadam"
+    hashtags: "#ombpeezy, #trapboyfreddy, #youngthug, #ynwmelly"
+  - username: "ras_rsmt"
     fullname: >-
-      Adam Kubera
+      AREK RAS SITARZ
     bio: >-
-      📀: Universal Music Polska ✉️ mail: t.turek@magicrecords.pl 🎙 booking: d.kosinska@kmevents.pl ⬇️ SPOTIFY
+      A&R W SONY MUSIC RIP W @rasmentalism; PISZĘ PIOSENKI, CAŁKIEM FAJNE HOST W RED BULL RAP&MAT HOST W FUTBOL I CAŁA RESZTA W @kanalsportowy_official
     location: "Poland"
-    followers: 54201
-    engagement: 735
-    commentsToLikes: 0.016253
-    id: ck15sfmoqcrvt0i199br3ujmp
-    verified: false
-    hashtags: "#summervibes, #sunnyday, #kuberaadam, #car"
-  - username: "julia_binczyk"
-    fullname: >-
-      Julka Bińczyk
-    bio: >-
-      Dzieeeeń dobry moi cudni🌞 My music | YS Fajniejsza ja- @julia_binczyk_mess • juliabinczyk@mymusic.pl SCHOWAM SIĘ W TOBIE
-    location: "Poland"
-    followers: 20939
-    engagement: 1607
-    commentsToLikes: 0.045773
-    id: ckap6k9lgg7b90i78yj8shl5w
-    verified: false
-    hashtags: "#samuel, #lato, #hasztag"
-  - username: "adriannagrotkowska"
-    fullname: >-
-      Adrianna Grotkowska
-    bio: >-
-      🦄 Make-up artist & music lover🎸 🏡 Warsaw, Poland 📩 aduchapoducha@gmail.com
-    location: "Poland"
-    followers: 158985
-    engagement: 869
-    commentsToLikes: 0.030837
-    id: ck5c5oaye3umk0i11a839lxnu
-    verified: false
-    hashtags: "#summertime, #rarebeauty, #wakeupandmakeup, #zapozno"
-  - username: "aniakarwan"
-    fullname: >-
-      Ania Karwan
-    bio: >-
-      RAJ MANAGEMENT Music&Entertainment PR Katarzyna Rajtar management@aniakarwan.com k.rajtar@rajmanagement.pl
-    location: "Poland"
-    followers: 108062
-    engagement: 370
-    commentsToLikes: 0.022057
-    id: ck0ueam4ukzxl0i19qsxzknlr
-    verified: true
-    hashtags: "#latko, #koncert, #aniakarwan, #warszawa"
-  - username: "bymartawisniewska"
-    fullname: >-
-      Marta Wiśniewska
-    bio: >-
-      Tworzę modę 👗 owner @cherrystore.pl ❤️ • fashion • travels • books • rock music • mtb • yoga
-    location: "Poland"
-    followers: 43710
-    engagement: 215
-    commentsToLikes: 0.133794
-    id: ck15sj1xnd9bd0i1902n87op0
-    verified: false
-    hashtags: "#polskajestpiekna, #love, #mi, #coreczka"
-  - username: "romaastemberg"
-    fullname: >-
-      Roma Astemberg 🌸
-    bio: >-
-      🌍📍 Warsaw/Gdansk 🎤🎶 in love with music
-    location: "Poland"
-    followers: 9328
-    engagement: 762
-    commentsToLikes: 0.065013
-    id: ck0tupct5847b0i19515uurot
-    verified: false
-    hashtags: "#brunettegirl, #longhair, #tbt, #topmodels"
-  - username: "dropkillx"
-    fullname: >-
-      𝖉𝖗𝖔𝖕𝖐𝖎𝖑𝖑𝖝
-    bio: >-
-      • spiritual awakening • • music producer • • FashionNovaMen ambassador • • collab • dropkillx@gmail.com •
-    location: "Poland"
-    followers: 71537
-    engagement: 162
-    commentsToLikes: 0.055387
-    id: ck8tbrxrbww3s0j785wjsj0qj
-    verified: false
-    hashtags: "#cybergrzesznik, #goodvibesonly, #sonyxb33, #ubezpieczeniesamochodu"
-  - username: "sandrvczuraj"
-    fullname: >-
-      sandra czuraj
-    bio: >-
-      ☾𓄀✿𓆈𓁿♪ 04’ 📍my music twitter&tiktok- sandrvczuraj 📩sandraczuraj@mymusic.pl moja nowa piosenka „halucynacje”
-    location: "Poland"
-    followers: 26281
-    engagement: 1189
-    commentsToLikes: 0.015514
-    id: ck8t1sohiwvar0j782d6xdu8b
+    followers: 36790
+    engagement: 462
+    commentsToLikes: 0.009962
+    id: ck0ucbz0hgjac0i19f364u3kf
     verified: false
     hashtags: ""
-  - username: "alicjaruchala"
+  - username: "blawan_ternesc"
     fullname: >-
-      Alice Wonderland
+      Blawan
     bio: >-
-      International Polish Model 🇵🇱 \ Singer 🎧Sony Music Poland📀 📍Tulum
+      Dog Dad, Music Producer, Persher Vocalist // @xlrecordings //Ternesc // @voam_ // Persher @persher_4eva @thrilljockey
     location: "Poland"
-    followers: 550783
-    engagement: 128
-    commentsToLikes: 0.044343
-    id: ck55p0yne9kri0i11ohukaw2f
+    followers: 63648
+    engagement: 435
+    commentsToLikes: 0.026541
+    id: ck0ttpe8y3q1w0i197npm2k2y
     verified: true
-    hashtags: "#miamilife, #tulum, #mexico, #miami"
+    hashtags: "#karenn, #pedermannerfelt, #voam, #grapefruitregret"
+  - username: "piotr_rubik"
+    fullname: >-
+      Piotr Rubik
+    bio: >-
+      #music #family #love #travel Piotr Rubik official profile Composer, Musician, Conductor Miami 🇺🇸 Warsaw 🇵🇱
+    location: "Poland"
+    followers: 109019
+    engagement: 420
+    commentsToLikes: 0.018593
+    id: ck13bm9llw3qu0i19c59wpngr
+    verified: true
+    hashtags: "#miami, #kariera, #przemysleniazdoswiadczenia, #showbiz"
+  - username: "joaquinsosa89"
+    fullname: >-
+      Joaquin Sosa
+    bio: >-
+      Cuban musician, clarinetist & saxophonist. III winner in the International Jazz Clarinet Competition, @pmauriatmusic @theowanne @zacligature endorser.
+    location: "Poland"
+    followers: 11526
+    engagement: 379
+    commentsToLikes: 0.095652
+    id: ckwnjkq7trfws0j23zdtpuxa2
+    verified: false
+    hashtags: "#tenorsax, #flute, #clarinet, #pmauriat"
+  - username: "kajazdonek"
+    fullname: >-
+      KAJA ZDONEK
+    bio: >-
+      📍Warsaw •model, pianist, hostess, business analyst •fashion, lifestyle, music •management, SGH lashes: @wereckabeautystudio
+    location: "Poland"
+    followers: 57963
+    engagement: 370
+    commentsToLikes: 0.011630
+    id: ck0w1x5hzlkr90i19nsft8s4q
+    verified: false
+    hashtags: "#outfit, #photooftheday, #fashionstyle, #instagood"
+  - username: "iammajewski"
+    fullname: >-
+      The M
+    bio: >-
+      business.djthem@gmail.com 🔊 MY MUSIC AND DJ SETS ON YOUTUBE 👇🏻
+    location: "Poland"
+    followers: 904978
+    engagement: 350
+    commentsToLikes: 0.006755
+    id: clnnwi7p82kdu0j08k3c8xe2i
+    verified: false
+    hashtags: "#29, #majewscyfitclub, #rome, #italy"
+  - username: "daawidrakowski"
+    fullname: >-
+      Dawid Rakowski
+    bio: >-
+      ✈️ Travel | Fashion | Lifestyle | Music 📩contact.rakowski@gmail.com 🏙️Warsaw Podróże, koncertowe wojaże i nie tylko 🫶🏽
+    location: "Poland"
+    followers: 199827
+    engagement: 343
+    commentsToLikes: 0.009857
+    id: ck8wgjv0nhhpv0j781vbxmzmj
+    verified: false
+    hashtags: "#muzykana, #modam, #visitmalta, #abudhabiinstagram"
+  - username: "missbrodka"
+    fullname: >-
+      Brodka Official
+    bio: >-
+      Booking music 👉@kayax_music Booking film 👉@papaya_films
+    location: "Poland"
+    followers: 195621
+    engagement: 255
+    commentsToLikes: 0.011718
+    id: ck13boqsowfl20i19uiwb27qc
+    verified: true
+    hashtags: "#wspolpraca, #szadza, #brodka, #delux"
+  - username: "c_bool"
+    fullname: >-
+      C-BooL
+    bio: >-
+      & Music Producer from 🇵🇱 475 million YouTube views, 469k YT subscribers, 6 x Top 3 Radio AirPlay, Booking: interactions.booking@gmail.com New Video:
+    location: "Poland"
+    followers: 50314
+    engagement: 239
+    commentsToLikes: 0.024253
+    id: ck5cjtt31vhos0i11ysl1u68n
+    verified: true
+    hashtags: ""
 ---

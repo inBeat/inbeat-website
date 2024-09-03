@@ -1,130 +1,130 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Turkey In 2023
+title: Top 10 Fashion Instagram Influencers In Turkey In 2024
 description: >-
-  Find top fashion Instagram influencers in Turkey in 2023. Most popular hashtags: #reelsinstagram #helpturkey #reels.
+  Find top fashion Instagram influencers in Turkey in 2024. Most popular hashtags: #fashionstyle #fashionblogger #fashion.
 platform: Instagram
-hits: 897
-text_top: See the best Instagram influencers on inBeat.
-text_bottom: inBeat has 897 Instagram influencers like this in Turkey for you to collaborate.
+hits: 902
+text_top: Discover the most popular Instagram influencers on inBeat.
+text_bottom: Our platform has 902 Instagram influencers like this in Turkey for you to pitch.
 profiles:
-  - username: "ojebeni"
+  - username: "gurkankacmazz"
     fullname: >-
-      Beste Ç. - Oje İkonu
+      Gürkan Kaçmaz
     bio: >-
-      #oje 💅, saç💁‍♀️, moda👠 #nailart , hair&fashion🎀 E-mail: ojebeni@gmail.com #ojebeni Kişisel hesap @nbestec
+      91119919111✨ Influencer | Marketing&Pr Travel | LifeStyle | Fashion Reklam ve İş birlikleri için 📩 gurkan@thepeggi.co @eventmag Private Club
     location: "Turkey"
-    followers: 110684
-    engagement: 952
-    commentsToLikes: 0.447978
-    id: ck15rybfkabcp0i19hof0c69n
+    followers: 107673
+    engagement: 416
+    commentsToLikes: 0.038907
+    id: ckf5ttxg6irk50j237na50dj0
     verified: false
-    hashtags: "#organizer, #lacquer, #oje, #frenchmanicure"
-  - username: "tubagun"
+    hashtags: "#reklam, #kesfet, #fashionstyle, #dubai"
+  - username: "saba"
     fullname: >-
-      Tüba Gün
+      Saba
     bio: >-
-      Sewing•Fashion•Style•Diy Founder of @stilakademisi
+      Fashion | Beauty | lifestyle
     location: "Turkey"
-    followers: 38220
-    engagement: 1412
-    commentsToLikes: 0.556270
-    id: ckap4h0pr7c0t0i786pg16f34
+    followers: 477908
+    engagement: 717
+    commentsToLikes: 0.013948
+    id: ck5q60o0vvee60i11vu8hh70y
     verified: false
-    hashtags: "#dikis, #stilakademisi, #pratikdikis, #dikisworkshop"
-  - username: "busrayurtgul"
+    hashtags: "#nophotoshop, #blackandwhite, #beautiful, #1990"
+  - username: "kubrakoccc_"
     fullname: >-
-      Büşra Yurtgül Neziroğluları
+      KÜBRA ÇELİK
     bio: >-
-      Lifestyle, Fashion, Beauty Contact: busrayurtgul@gmail.com Based in Istanbul, TR🖤
+      Modest fashion | life&style info@tdiletisim.com.tr
     location: "Turkey"
-    followers: 261837
-    engagement: 345
-    commentsToLikes: 0.010551
-    id: ck139k5xplpjy0i19x6soai4b
+    followers: 1046086
+    engagement: 471
+    commentsToLikes: 0.004657
+    id: clnrbf57ocsrx0j08trjp6b7e
     verified: false
-    hashtags: "#morewithless, #zentamtur, #zenp, #modernkad"
-  - username: "saman_lotfi"
+    hashtags: "#ootdfashion, #baby, #family, #babyshower"
+  - username: "ezgilkyaz"
     fullname: >-
-      SAMAN LOTFI (SAM)
+      İlkyaz Ezgi U.
     bio: >-
-      Fashion Photographer/ Fashion Director 🌟🎥 BASED NYC 📍 Model/CYRUS MODELS - AUSTRIA 🇦🇹 (@cyrusmodels) Contact:saman.lotfi.model@gmail.com
+      İstanbul, Türkiye ✉️ ezgilkyaz@hotmail.com Fashion | Interior | Lifestyle | Aesthetic
     location: "Turkey"
-    followers: 27204
-    engagement: 1347
-    commentsToLikes: 0.031035
-    id: ck0tumfts7r2w0i1952xft7a6
+    followers: 60127
+    engagement: 438
+    commentsToLikes: 0.016952
+    id: ckapbh5kizu6y0i78b0rea6ic
     verified: false
-    hashtags: "#fashionphotographer, #director, #samanlotfisam, #comingsoon"
-  - username: "orit_shoam_raived"
+    hashtags: "#whatiwear, #outfitoftheday, #outfitinspiration, #ootd"
+  - username: "elonaresyli"
     fullname: >-
-      OᖇIT ᔕᕼOᗩᗰ
+      ELONA RESYLI
     bio: >-
-      מובילת דעה חרדית ומשוגעת🥳🤪👑 בעלת המותג @blush__fashion_ מכורה לאופנה ואיפור-בעלת קבוצה ״טרנדתית״ בפייסבוק,קומיקאית, ברוכים הבאים לחיים השמנמנים שלי🤣
+      ◽ Blogger ◽ Legal Advisor ⚖ ◽ Fashion is my passion 🦄 ◽ elonaresyli@gmail.com 📧
     location: "Turkey"
-    followers: 40222
-    engagement: 452
-    commentsToLikes: 0.163520
-    id: ck5zjdgnehe1r0i14r8j1itfe
+    followers: 58711
+    engagement: 504
+    commentsToLikes: 0.010080
+    id: ck134o790xdrw0i19jskjjt7b
     verified: false
-    hashtags: "#diorbackstage"
-  - username: "songullka"
+    hashtags: "#matchymatchy, #fashionblogger, #bellabarnett, #matching"
+  - username: "ecrenlepsikoloji"
     fullname: >-
-      Songül Kaçmaz
+      Ecren | 𝚿
     bio: >-
-      Fashion designer & Influencer @rocistanbul
+      • sbü psikoloji 3/4 👩🏽‍🎓 • iü çocuk gelişimi 2/4 🎓 • psychology - lifestyle - fashion - selfcare • reklam, pr ve iş birliği için dm&mail📩
     location: "Turkey"
-    followers: 237280
-    engagement: 366
-    commentsToLikes: 0.038261
-    id: ck5c8d35h98ae0i119f8xkp4z
+    followers: 19472
+    engagement: 451
+    commentsToLikes: 2.246775
+    id: ck6tnxjjsaxxi0j71mvog5a79
     verified: false
-    hashtags: "#mood4, #motivation, #10ocak, #poligon"
-  - username: "damlakalaycik"
+    hashtags: "#fyp, #psikologhan, #yks2024, #yks2025tayfa"
+  - username: "be.brkn"
     fullname: >-
-      Damla Kalaycık Dedeoğlu
+      Betül Barkın Yıldız
     bio: >-
-      Hamburg | İstanbul ITU Physics Engineering 👩🏼‍🎓 Fashion | Beauty | Lifestyle | Travel Business Inquiry: damlakalaycik@hotmail.com
+      Music | Fashion | Beauty | Lifestyle Founder: @etoile.abendmode 🎵 Menajerlik S. Karadeniz: +49 173 8804762
     location: "Turkey"
-    followers: 375132
-    engagement: 347
-    commentsToLikes: 0.065799
-    id: ck55oh3n78c8l0i11a5it2m81
+    followers: 54725
+    engagement: 642
+    commentsToLikes: 0.018079
+    id: ck14ltl6twf0a0i19ja2wth78
     verified: false
-    hashtags: "#winterwonderland, #matchalatte"
-  - username: "aybukenurdemirci"
+    hashtags: "#halay, #ootdfashion, #mazlumdevrim, #fy"
+  - username: "ivanamrsiic"
     fullname: >-
-      AYBÜKE NUR ÖZKUL
+      Mršić Ivana
     bio: >-
-      #Hayallerimizgerçekolmayıhakediyor. Modest Fashion | life&style • YOUTUBE’DA 👇🏻 -NASIL EVLENDİK-
+      lifestyle | fashion | beauty • @_bloomboutique__
     location: "Turkey"
-    followers: 489645
-    engagement: 327
-    commentsToLikes: 0.070582
-    id: ck0tvj0a8bkke0i19okd185wd
+    followers: 30611
+    engagement: 379
+    commentsToLikes: 0.058095
+    id: ckap6x4elhpx10i78f183yajm
     verified: false
-    hashtags: "#modanisa"
-  - username: "byervayigit"
+    hashtags: "#turkey, #summer, #giveaway, #raftingtara"
+  - username: "lisanyongo"
     fullname: >-
-      Erva Yiğit
+      Kwanele Lisa Nyongo
     bio: >-
-      Founder of @evaprive.tr Photographer | Fashion-Styling 📩 egfotograf@gmail.com
+      📷: Fashion | Beauty | Lifestyle 📍: Durban, KwaZulu-Natal
     location: "Turkey"
-    followers: 28423
-    engagement: 385
-    commentsToLikes: 0.294595
-    id: ckaowelxz8lh90i78nb7cptx0
+    followers: 53158
+    engagement: 353
+    commentsToLikes: 0.019625
+    id: ck5zy5pxf9a190i14gzphevw7
     verified: false
-    hashtags: "#dog, #annebebek, #tesettu, #babiesofinstagram"
-  - username: "gizemuzel_"
+    hashtags: "#mycottonon, #mycottononafrica"
+  - username: "nisayora"
     fullname: >-
-      Gizem Üzel
+      Sayora Ni | سايورا ني
     bio: >-
-      Beauty • Fashion • Lifestyle info@gizemuzel.com
+      fashion | travel | beauty | triathlon Insdr.pr: Aruzhan
     location: "Turkey"
-    followers: 405474
-    engagement: 534
-    commentsToLikes: 0.010390
-    id: ck15r5qwm69ma0i197i2vtfss
+    followers: 110183
+    engagement: 309
+    commentsToLikes: 0.012751
+    id: ck5c6l5fx5o0w0i11rglwb1vl
     verified: false
-    hashtags: "#foreo, #helpturkey, #luna3, #foreoufo"
+    hashtags: "#guerlain, #abeilleroyalecream, #diorbeauty, #diorskincare"
 ---

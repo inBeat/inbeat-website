@@ -1,12 +1,24 @@
 ---
-title: Top 10 Athletes Instagram Influencers In 2023
+title: Top 10 Athletes Instagram Influencers In 2024
 description: >-
-  Find top athletes Instagram influencers in 2023. Most popular hashtags: #gym #fitness #gymmotivation.
+  Find top athletes Instagram influencers in 2024. Most popular hashtags: #gym #fitness #explorepage.
 platform: Instagram
-hits: 7970
-text_top: Identify the most popular Instagram profiles on inBeat.
-text_bottom: inBeat has 7970 Instagram influencers like this for you to work with.
+hits: 8452
+text_top: Discover the best Instagram accounts on inBeat.
+text_bottom: Our platform holds 8452 Instagram influencers like this for you to work with.
 profiles:
+  - username: "royalnavghan"
+    fullname: >-
+      Ravindrasinh jadeja
+    bio: >-
+      Athlete
+    location: "United States"
+    followers: 9441454
+    engagement: 889
+    commentsToLikes: 0.003369
+    id: ck0u9cji09mc30i19vqawvfjl
+    verified: true
+    hashtags: "#ad, #yehsabkadreamhai, #collab, #dream11"
   - username: "kuhubhosle"
     fullname: >-
       Kuhu Bhosle
@@ -31,18 +43,6 @@ profiles:
     id: ck5bvb2sbjbbg0i11lw6hqka1
     verified: true
     hashtags: "#halloffame, #franklinfamily, #onlyone, #world"
-  - username: "kedarjadhavofficial"
-    fullname: >-
-      Kedar Mahadev Jadhav
-    bio: >-
-      Athlete
-    location: "United States"
-    followers: 1517756
-    engagement: 627
-    commentsToLikes: 0.005191
-    id: ckf5tu0psirrz0j23ffljsbbh
-    verified: true
-    hashtags: "#positivevibes, #srh, #wakefit, #biobubble"
   - username: "viharigh"
     fullname: >-
       Hanuma vihari
@@ -67,18 +67,6 @@ profiles:
     id: ck5znz0o6pfe20i14elkfn2e6
     verified: false
     hashtags: "#hydroflask, #onya, #onyamodel, #tbt"
-  - username: "sayayassine"
-    fullname: >-
-      SAYA YASSINE
-    bio: >-
-      Athlète
-    location: "France"
-    followers: 332717
-    engagement: 101
-    commentsToLikes: 0.013847
-    id: ck0w2kw6lovib0i1910dseoih
-    verified: false
-    hashtags: "#withlove, #babyfashion, #princess, #anytimeanywhere"
   - username: "michicampa93"
     fullname: >-
       Michele Campagnaro
@@ -102,29 +90,41 @@ profiles:
     commentsToLikes: 0.012208
     id: ck5q33lorj2160i11tlfrq9s1
     verified: false
-    hashtags: "#fitnessmotivation, #fitness, #bulkingseason, #fitfam"
-  - username: "leanadeebb"
+    hashtags: "#legdayworkout, #bodybuilding, #fitgirls, #bulkingseason"
+  - username: "fitness.by.nikki"
     fullname: >-
-      Leana Deeb
+      N I K K I  R A Y
     bio: >-
-      SWEAT WITH ME 🇵🇸 🇺🇾 all praise is due to the most high @liftwleana fitness app @gymshark athlete Leana@genflow.com
-    location: "United Kingdom"
-    followers: 4076888
-    engagement: 994
-    commentsToLikes: 0.001935
-    id: cl07ix7bj9frt0i23lvf896ab
-    verified: false
-    hashtags: "#airuppartner"
-  - username: "alex_eubank15"
-    fullname: >-
-      Alex Eubank
-    bio: >-
-      🔱 Jesus 🙏 🔱 @rawgear | @alpha.lion Code Alex 🔱 @celsiusofficial Athlete 🔱 @fusionnutra @elysium.athletic 🔱 Youtube / App / Merch ⬇️
+      ⭐️ CPT & Nutrition Coach 🥇 NPC Figure & Bikini NQ | Sponsored Athlete ⚡️ @cellucor @c4energy NIKKI 👙 @angelcompetitionbikinis NIKKI 👭 Mom 📚 Attorney
     location: "United States"
-    followers: 1687055
-    engagement: 1143
-    commentsToLikes: 0.003245
-    id: cknh9ia36t0n00j23tp7k6w1b
+    followers: 22168
+    engagement: 603
+    commentsToLikes: 0.035846
+    id: ck8t4t1j67vk00j78nzc491rw
     verified: false
-    hashtags: "#arnold, #gym, #motivating, #couplegoals"
+    hashtags: "#noexcuses, #neverskiplegday"
+  - username: "kateglavan"
+    fullname: >-
+      kate glavan
+    bio: >-
+      HOKA Global Athlete Ambassador @hoka 🏃‍♀️ @seamossgirlies 🦠 katherine.glavan@gmail.com 💓
+    location: "United States"
+    followers: 37770
+    engagement: 402
+    commentsToLikes: 0.011146
+    id: ck5zign85fo0i0i14kffp3jfs
+    verified: false
+    hashtags: "#hokapartner, #ag1partner, #running, #stories"
+  - username: "elenachristine_s"
+    fullname: >-
+      elena stavinoha
+    bio: >-
+      in Christ alone | htx -> miami 🇵🇪🇲🇽🇨🇿 @gymshark athlete code ELENA @movewithus 📧: elenachristine@dulcedo.com
+    location: "United States"
+    followers: 484928
+    engagement: 616
+    commentsToLikes: 0.003986
+    id: ck8wfql25g3wg0j78kidwroq5
+    verified: false
+    hashtags: "#mcobeauty, #mcobeautypartner, #ad, #bloompartners"
 ---

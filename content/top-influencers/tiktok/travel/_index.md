@@ -1,11 +1,11 @@
 ---
-title: Top 10 Travel TikTok Influencers In 2023
+title: Top 10 Travel TikTok Influencers In 2024
 description: >-
-  Find top travel TikTok influencers in 2023. Most popular hashtags: #travel #switzerland #dubai #travelbucketlist.
+  Find top travel TikTok influencers in 2024. Most popular hashtags: #travel #dubai #travelbucketlist #switzerland.
 platform: TikTok
-hits: 9464
+hits: 9485
 text_top: Identify the most popular TikTok accounts on inBeat.
-text_bottom: Our database has 9464 TikTok influencers like this for you to contact.
+text_bottom: Our platform holds 9485 TikTok influencers like this for you to collaborate.
 profiles:
   - username: "thetravelexperience"
     fullname: >-
@@ -25,12 +25,12 @@ profiles:
     bio: >-
       🌍 Group Travel Made Easy
     location: "Canada"
-    followers: 58100
-    engagement: 722
-    commentsToLikes: 0.019269
+    followers: 58400
+    engagement: 653
+    commentsToLikes: 0.021745
     id: ck8fa2mmb3yew0j78bc5lx09t
     verified: false
-    hashtags: "#beachvibes, #borabora, #switzerland, #travel"
+    hashtags: "#tiktokmaldives, #switzerland, #borabora, #travel"
   - username: "travels"
     fullname: >-
       Travels ✈️🚢
@@ -126,5 +126,5 @@ profiles:
     commentsToLikes: 0.139119
     id: ck9e318obheej0j78fmkjb0jr
     verified: false
-    hashtags: "#colic, #horsesoftiktok, #smileforward, #pathetic"
+    hashtags: "#horsesoftiktok, #smileforward, #pathetic, #notcool"
 ---

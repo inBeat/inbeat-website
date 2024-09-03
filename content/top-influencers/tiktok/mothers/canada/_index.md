@@ -1,11 +1,11 @@
 ---
-title: Top 10 Mothers TikTok Influencers In Canada In 2023
+title: Top 10 Mothers TikTok Influencers In Canada In 2024
 description: >-
-  Find top mothers TikTok influencers in Canada in 2023. Most popular hashtags: #fyp #duet #love #valentinesday.
+  Find top mothers TikTok influencers in Canada in 2024. Most popular hashtags: #fyp #duet #momsoftiktok #foryoupage.
 platform: TikTok
-hits: 394
-text_top: Discover the top-rated TikTok influencers on inBeat.
-text_bottom: Our database has 394 TikTok influencers like this in Canada for you to pitch.
+hits: 430
+text_top: Analyze the top-rated TikTok profiles on inBeat.
+text_bottom: inBeat aggregates 430 TikTok influencers like this in Canada for you to collaborate.
 profiles:
   - username: "formativefox"
     fullname: >-
@@ -19,18 +19,30 @@ profiles:
     id: ck80716kcnt950j78iael4jo6
     verified: false
     hashtags: "#valentinesday, #glowverse, #jellyfishchan, #universechan"
+  - username: "thebadassmom.420"
+    fullname: >-
+      The Badass Mom 💚
+    bio: >-
+      THE coolest 420 mom according to me! 🌱connoisseur mother nurse wife adult only
+    location: "Canada"
+    followers: 33200
+    engagement: 2148
+    commentsToLikes: 0.138155
+    id: ckdtkfeify5170j23ruwxrcuo
+    verified: false
+    hashtags: "#thebadassmom, #maryjaneforever, #comedy, #duet"
   - username: "packmentality"
     fullname: >-
-      Nik
+      Magnum The Boxer And Friends
     bio: >-
-      @glitterandgore vet assistant, bathbomb maker, mother of dawgs. And cat. 🙄
+      Veterinary assistant, mother of dawgs. And that f*cking cat. 🙄
     location: "Canada"
-    followers: 69700
-    engagement: 2257
-    commentsToLikes: 0.091450
+    followers: 104500
+    engagement: 1905
+    commentsToLikes: 0.073067
     id: ck9ndea2fcrcw0j78rm7en8pu
     verified: false
-    hashtags: "#valentinesday, #fyp, #horrormovie, #colddays"
+    hashtags: "#lilratchetkitty, #boxer, #magnumtheboxer, #fyp"
   - username: "barefootsue"
     fullname: >-
       Barefoot Sue
@@ -43,18 +55,30 @@ profiles:
     id: cka0p26lt6fbj0i78074e5ntm
     verified: false
     hashtags: "#spring, #love, #barefootsue, #isolation"
-  - username: "truckingmomma_tarot"
+  - username: "elusive.prince"
     fullname: >-
-      Melissa Galvin
+      Elusive.prince
     bio: >-
-      ®️🔞🇨🇦 wife, mother N’ longhaul trucker #tmcrazytrain #TMCrazyTrain
+      MTL(514) HAPPY MOTHERS DAY 👸 beauty in the struggle live 10:00 pm
     location: "Canada"
-    followers: 16400
-    engagement: 1497
-    commentsToLikes: 0.081665
+    followers: 50500
+    engagement: 1177
+    commentsToLikes: 0.064725
+    id: ckai3104vi24e0i786jtr7ze3
+    verified: false
+    hashtags: "#holdon, #class, #momandson, #rollercoaster"
+  - username: "ice_queen_truckingmomma"
+    fullname: >-
+      Truckingmomma (Melissa)
+    bio: >-
+      ®️🔞🇨🇦 wife, mother N’ OTR trucker #tmcrazytrain #christliketruckers #TGY6
+    location: "Canada"
+    followers: 18700
+    engagement: 1043
+    commentsToLikes: 0.145926
     id: ckamuye141alt0i784eocxkxl
     verified: false
-    hashtags: "#otrdriver, #duet, #christliketruckers, #tmcrazytrain"
+    hashtags: "#fyp, #otrdriver, #tmcrazytrain, #truckersoftiktok"
   - username: "sarahfitmama"
     fullname: >-
       Hotmess Xennial Mom Content
@@ -66,31 +90,31 @@ profiles:
     commentsToLikes: 0.056334
     id: ckdcjz6x9lz3e0j233k9bncn6
     verified: false
-    hashtags: "#mixedfamily, #momhumor, #canadianmom, #parentinghumor"
+    hashtags: "#canadianmom, #mixedfamily, #canadianmama, #parentinghumor"
   - username: "sherisseds"
     fullname: >-
       Mr. Smith's Wife
     bio: >-
       Daughter, sister, wife, mother to 3, grandmother to 2. #over50 God first.
     location: "Canada"
-    followers: 10300
-    engagement: 1040
-    commentsToLikes: 0.125135
+    followers: 10800
+    engagement: 986
+    commentsToLikes: 0.117364
     id: ckbqpaxooa55h0j23nih7qwiv
     verified: false
-    hashtags: "#over50club, #genx, #duet, #couples"
+    hashtags: "#myfuturethanksme, #over50, #momsoftiktok, #duet"
   - username: "pinkladypitbull1990"
     fullname: >-
       Carey 
     bio: >-
       🇨🇦🇵🇹💍Fun loving mother of 3 little monsters Thick 🍑 Bi sexual...😊Be Nice
     location: "Canada"
-    followers: 16400
-    engagement: 1122
-    commentsToLikes: 0.059851
+    followers: 16500
+    engagement: 1211
+    commentsToLikes: 0.096625
     id: ck9fdr5f8pu7y0j78yuojoexh
     verified: false
-    hashtags: "#tatted, #foryoupage, #fyp, #duet"
+    hashtags: "#tatted, #bodypositive, #portuguesegirl, #duetwithme"
   - username: "caitlinfladager"
     fullname: >-
       Caitlin Fladager
@@ -103,28 +127,4 @@ profiles:
     id: ckdhoscty136d0j23qlmzpldu
     verified: false
     hashtags: "#kidsmentalhealth, #foryoupage, #repost, #fyp"
-  - username: "j_a_s_s_y_m"
-    fullname: >-
-      J@ssy M
-    bio: >-
-      I'am a bitch, I'm a lover, I'm a child, I'm a mother 😜
-    location: "Canada"
-    followers: 11500
-    engagement: 630
-    commentsToLikes: 0.086358
-    id: ckcpc8pz4fik80j23p8mcfcz8
-    verified: false
-    hashtags: "#noteam, #nohate, #spirit, #dog"
-  - username: "the_robbinsnest"
-    fullname: >-
-      Ashley 🎀
-    bio: >-
-      +the ‘insta ⬆️ Helping you laugh through motherhood🎀the.robbinsnest@hotmail.com
-    location: "Canada"
-    followers: 54300
-    engagement: 608
-    commentsToLikes: 0.076209
-    id: ck8kg0q0fgf260j787cvugeq0
-    verified: false
-    hashtags: "#ttct3, #sahmlife, #ttcbabynumber2, #ttcollabz"
 ---

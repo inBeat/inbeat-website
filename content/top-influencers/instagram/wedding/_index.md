@@ -1,130 +1,130 @@
 ---
-title: Top 10 Wedding Instagram Influencers In 2023
+title: Top 10 Wedding Instagram Influencers In 2024
 description: >-
-  Find top wedding Instagram influencers in 2023. Most popular hashtags: #couplegoals #weddinginspiration #weddingdress.
+  Find top wedding Instagram influencers in 2024. Most popular hashtags: #love #travel #bollywood.
 platform: Instagram
-hits: 18369
-text_top: Analyze the most popular Instagram influencers on inBeat.
-text_bottom: inBeat aggregates 18369 Instagram influencers like this for you to collaborate.
+hits: 29531
+text_top: See the best Instagram accounts on inBeat.
+text_bottom: Our platform has 29531 Instagram influencers like this for you to work with.
 profiles:
-  - username: "chelseastratso"
+  - username: "macyfrances"
     fullname: >-
-      Hawaii Photog + Business Coach
+      Macy Frances Jimmerson
     bio: >-
-      ♡Traveling photographer ☼ Colorful, fun photos for weddings/adventures ≫ Helping photogs stand out & market online JOIN THE GAME CHANGER ACADEMY ⤵
+      my heart exists to populate Heaven wedding photographer ❤️ life, faith, fashion + home finds ⚡️ isaiah 61 SKD 🌹 @morningswithmj
     location: "United States"
-    followers: 5392
-    engagement: 896
-    commentsToLikes: 0.065731
-    id: ckaorzzhrpj1z0i78leic56zf
+    followers: 19728
+    engagement: 864
+    commentsToLikes: 0.042865
+    id: ck0w5p1rq4qvq0i19g5pjh9cb
     verified: false
-    hashtags: "#wedding"
-  - username: "planwithlaur"
+    hashtags: ""
+  - username: "lloydevansphoto"
     fullname: >-
-      PlanWithLaur
+      Lloyd ▲ UK Commercial and Travel
     bio: >-
-      📍NYC Bridal/Wedding & Lifestyle Creator 📸 Your Favorite Wedding & Event Content Creator ⬇️ Let’s Chat- planwithlaur@gmail.com
+      Half of @wearefound.uk - Weddings Next📍: 🏴󠁧󠁢󠁷󠁬󠁳󠁿🇪🇸🇵🇹 Commercial photographer based in Bath, UK Community ↠ @igersBath ↡let’s work together
+    location: "United Kingdom"
+    followers: 26265
+    engagement: 516
+    commentsToLikes: 0.061403
+    id: ck5hgt5rc4mfi0i11gb2xtoe9
+    verified: false
+    hashtags: "#takemoreadventures, #landscapelovers, #fromwhereidrone, #naturephotography"
+  - username: "carolinecrawfordpatterson"
+    fullname: >-
+      Caroline Crawford Patterson 🍓
+    bio: >-
+      The Wedding Wardrobe Home Content Creator, Fashion Commentator and Designer TikTok (196K) inquiries: ariel@ozlaneagency.com
     location: "United States"
-    followers: 12923
-    engagement: 495
-    commentsToLikes: 0.098905
-    id: ckqg5v0tpnj8i0j23o2ymhu4y
+    followers: 38494
+    engagement: 549
+    commentsToLikes: 0.016358
+    id: cl95nmbb9e6dd0i23l7n6d488
     verified: false
-    hashtags: "#eventcontentcreator, #erincondrenlifeplanner, #weddingcontent, #erincondren"
-  - username: "yaonlylivvonce"
+    hashtags: "#winesofprovence, #provencewines, #nyfw, #weddingwardrobe"
+  - username: "dhruvii_s"
     fullname: >-
-      Gionna Daddio
+      Dhruvi~ MPH | Content Creator & Lifestyle Blogger
     bio: >-
-      I wrestle once a week on live TV Once crashed a wedding Farm life @thewonderlandranch Sometimes soap maker @theshoplivemore Covered in bruises
+      🤎 Fashion | Culture | Lifestyle | Wedding Planning #Engaged💍 #Bridetobe @dhruviandvybav Featured model on @fox29philly 🏠: Philly
     location: "United States"
-    followers: 1998998
-    engagement: 418
-    commentsToLikes: 0.011563
-    id: ck5hfh0m0xfnm0i11kngx83b2
-    verified: true
-    hashtags: "#motherlover, #jaketucker, #summerslam, #thecallistoprotocol"
-  - username: "brigittefoysi"
-    fullname: >-
-      Brigitte Foysi Fotografie
-    bio: >-
-      🏆WEDDING AWARD GERMANY TRIPLE WINNER🥇 Married #weddingphotographercouple ✧epic photos for modern couples ✫Workshops | Mentoring | Maternity Pictures
-    location: "Germany"
-    followers: 60596
-    engagement: 640
-    commentsToLikes: 0.040742
-    id: ck5hi6h56bw7f0i11qvwku25l
+    followers: 7566
+    engagement: 398
+    commentsToLikes: 0.153197
+    id: ckqtnjzjr0l9v0j23ppno1zvr
     verified: false
-    hashtags: "#voguewedding, #loveandwildhearts, #francewedding, #weddingphotography"
-  - username: "cassidy.maysonet"
+    hashtags: "#engagementshoot, #discoverphl, #philly, #engagedcouple"
+  - username: "stanlophotography"
     fullname: >-
-      Cassidy Maysonet
+      Stanlo Photography
     bio: >-
-      •NYC• 🇩🇴🇵🇷 Engaged & planning a wedding!💍 👩🏻‍💻Cassidy@adonainyc.com SUBSCRIBE TO MY YOUTUBE
+      Stanley Babb Top Wedding Photographers in the World @harpersbazaarus Weddings | Lifestyle | Commercial | World Travel 🇧🇸 stanlophotography@gmail.com
     location: "United States"
-    followers: 19011
-    engagement: 344
-    commentsToLikes: 0.037324
-    id: ck6tnp9abaaop0j71aejrq16i
+    followers: 248290
+    engagement: 430
+    commentsToLikes: 0.009538
+    id: ck13845hoeeuu0i19cb5ip0x7
     verified: false
-    hashtags: "#holidayglam, #eyshadowtutorial, #easyeyeshadow, #holidayhairstyle"
-  - username: "jbivphotography"
+    hashtags: "#weddingdress, #eseosa, #porshawilliams, #ourlovestory"
+  - username: "travellikeaprince"
     fullname: >-
-      John Branch IV Photography
+      Jennifer ~ freelance writer
     bio: >-
-      Raleigh, NC Wedding Photographer YouTube Content Creator, Speaker, + Educator Official @fujifilmx_us X-Photographer
+      ✍️ travel • weddings • lifestyle 📫 travellikeaprince@gmail.com 📝 Bylines I’m proud of.👇🏼
     location: "United States"
-    followers: 33217
-    engagement: 289
-    commentsToLikes: 0.021582
-    id: ck8t0m60dsj8d0j78rghndflv
+    followers: 4229
+    engagement: 631
+    commentsToLikes: 0.085666
+    id: ck5hl71m6joqv0i11ekz2vsft
     verified: false
-    hashtags: "#photoediting, #lightroom, #aiphotoeditor, #photographybusiness"
-  - username: "melendephotography"
+    hashtags: "#elizabethcity, #hollandamerica150, #cdmx, #travelwriters"
+  - username: "missjovannarose"
     fullname: >-
-      ⫸ Mel Ende Photography
+      Jovanna Del Plato
     bio: >-
-      Hippietraum im Reihenhaus WEDDING | FAMILY | MAGICAL&EPIC BOHOPORTRÄT ↞ based in #Cologne Germany ☾ @melendemygown @friendsandinspirationworkshop
-    location: "Germany"
-    followers: 17937
-    engagement: 365
-    commentsToLikes: 0.029456
-    id: ck13antxzraqx0i19zanop3vw
+      💄Profesional MUA💄 TV Film Print Fashion Weddings @jovanna_mua 💃🏼🍾@m2_miami 🥃🥃@doubleshotatlove 🇮🇹🌶🧿🪬
+    location: "United States"
+    followers: 40122
+    engagement: 549
+    commentsToLikes: 0.021932
+    id: ckv3bq3ouy9i00j23vsxxw5bg
     verified: false
-    hashtags: "#mommytobe, #photobugcommunity, #bridalhair, #couplegoals"
-  - username: "mirchi_rj_mit"
+    hashtags: "#october, #travel, #girl, #blonde"
+  - username: "aka_naach"
     fullname: >-
-      Mirchi RJ Meet Mit
+      Akanksha | Bollywood Dance
     bio: >-
-      Mirchi RJ Meet નહીં, Mit Trivedi Radio Mirchi, Ahmedabad Whatsapp : 📞 9512 983 983 for 🎤 Wedding, Corporate Hosting, Promotions Mit Trivedi
-    location: "India"
-    followers: 453735
-    engagement: 340
-    commentsToLikes: 0.004555
-    id: ck8t6tvieeo2u0j78fezmkors
+      💃🏻Dance is my drug 🙋🏻‍♀️Founder: @naachandco 🎥 Bollywood dance, Wedding Choreo, Funny skits 📍Toronto 💌 aka.naach@gmail.com Jan Bolly Fitness👇
+    location: "Canada"
+    followers: 43366
+    engagement: 950
+    commentsToLikes: 0.112096
+    id: ckap0hg5aqayq0i78ibe70cxk
     verified: false
-    hashtags: "#gujju, #reels, #funnyvideos, #prank"
-  - username: "optimeye"
+    hashtags: "#body, #friends, #garba, #bollywood"
+  - username: "rohitgijare"
     fullname: >-
-      Optimeye
+      ROHIT GIJARE
     bio: >-
-      Wedding Storytellers| #optimeye Based in Switzerland 🇨🇭 For enquires and jobs, visit our website. Bern | Paris | Chennai
-    location: "Switzerland"
-    followers: 20866
-    engagement: 208
-    commentsToLikes: 0.023462
-    id: ck5zii2iufqyl0i143stfgzj9
+      Choreographer • Actor 🎭 Come Fall in Love: DDLJ Musical • Monsoon Wedding 📍 NYC | 🕺🏽@rohitgijaretv 👇🏽: LAST classes of 2023:
+    location: "United States"
+    followers: 84061
+    engagement: 656
+    commentsToLikes: 0.014702
+    id: ck5zquetuvb8i0i142698deas
     verified: false
-    hashtags: "#bride, #weddinginspiration, #tamilwedding, #tamilweddingphotographer"
-  - username: "oriaazran_"
+    hashtags: "#dancers, #nyc, #bollywooddance, #rohitgijare"
+  - username: "inavphoto"
     fullname: >-
-      Oria azran
+      iNav
     bio: >-
-      Wedding & Evening Dress 📞 +972-542896567 Email:studiooriaazran@gmail.com// ORIA AZRAN @oriaazran_online
-    location: "France"
-    followers: 236073
-    engagement: 188
-    commentsToLikes: 0.012291
-    id: ck0tzd1i6pvdw0i19x401uz78
+      Wedding Photography (available worldwide)
+    location: "Canada"
+    followers: 29706
+    engagement: 452
+    commentsToLikes: 0.021923
+    id: ck6tuuqv2ijf50j71ydgw63r2
     verified: false
-    hashtags: "#oriaazranevningdresses, #oriaazraneveningdress, #oriaazranbridal"
+    hashtags: "#wildelyinlove, #inavphoto, #vancouverweddingphotographer, #engaged"
 ---

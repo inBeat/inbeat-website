@@ -1,36 +1,48 @@
 ---
-title: Top 10 Home Decor Instagram Influencers In Poland In 2023
+title: Top 10 Home Decor Instagram Influencers In Poland In 2024
 description: >-
-  Find top home decor Instagram influencers in Poland in 2023. Most popular hashtags: #homesweethome #kuchnia #domoweinspiracje #homeinspiration.
+  Find top home decor Instagram influencers in Poland in 2024. Most popular hashtags: #interior #wn #homedecor #homedesign.
 platform: Instagram
-hits: 450
-text_top: See the best Instagram influencers on inBeat.
-text_bottom: inBeat aggregates 450 Instagram influencers like this in Poland for you to collaborate.
+hits: 446
+text_top: Discover the most popular Instagram profiles on inBeat.
+text_bottom: Our database holds 446 Instagram influencers like this in Poland for you to connect with.
 profiles:
-  - username: "inesbeautypl"
+  - username: "aga327"
     fullname: >-
-      𝙞𝙣𝙚𝙨𝙗𝙚𝙖𝙪𝙩𝙮 -Aga Wroclaw 🌷🎀💝🇵🇱
+      Aga🌹
     bio: >-
-      𝓐𝓰𝓮42|Dentist|Beautyblogger |A lover of life |Beauty|Lifestyle|Fashion|Homedecor|Yoga| Olympus 𝓙𝓾𝓼𝓽 𝓱𝓪𝓿𝓮 𝓪 𝓵𝓲𝓽𝓽𝓵𝓮 𝓕𝓪𝓲𝓽𝓱 Contact : ines@inesbeauty.pl
+      Sztuka życia-cieszyć się małym szczęściem🍀 Mój dom 🏠Moje codzienne chwile #coffeetime #flowers #homedecor Współpraca 📥 aga327@op.pl
     location: "Poland"
-    followers: 48228
-    engagement: 344
-    commentsToLikes: 0.110260
-    id: ck8tdgwnv399r0j78scov01sy
+    followers: 56358
+    engagement: 211
+    commentsToLikes: 0.068936
+    id: ck8t9s6chp5kg0j785xu8hlee
     verified: false
-    hashtags: "#niechsiedziejenajlepiej, #storiediseta, #kobietylancome, #skincare"
-  - username: "kemczi"
+    hashtags: "#homedetails, #homegoods, #homesweethome, #whitekitchen"
+  - username: "scandi_uk"
     fullname: >-
-      Kamila Prasek
+      Sylwia
     bio: >-
-      #fashion, #lifestyle ,#homedecor ,#travel, #food | Poland contact 📩surifashion4@gmail.com
+      Interior lover from scandi home UK. Travel~Lifestyle~Homedecor Collaboration: sylwiawasik@yahoo.com
     location: "Poland"
-    followers: 50093
-    engagement: 284
-    commentsToLikes: 0.086568
-    id: ck5c1b3kcutf50i11srl7uef5
+    followers: 152230
+    engagement: 8
+    commentsToLikes: 0.000000
+    id: ck14hdybd9u860i19enz9zcac
     verified: false
-    hashtags: "#beautyaddicted, #styleblogger, #polishgirl, #kosmetyk"
+    hashtags: "#livingthedream, #myhome, #whiteinterior, #nowoczesnewn"
+  - username: "candy.life_pl"
+    fullname: >-
+      Aesthetic | coffee | interior
+    bio: >-
+      Hej,tu Aga! Urządzam nowy dom! Szykuje dla Was dawkę inspiracji! But first coffee ☕️ Homedecor • Slowlife • Ecolifestyle 🛍Candy10-10%@belhom.pl
+    location: "Poland"
+    followers: 29704
+    engagement: 38
+    commentsToLikes: 0.070451
+    id: ckf5x7ukjupb00j23lq6hg45d
+    verified: false
+    hashtags: "#breakfastporn, #flatlaypoland, #valentinesgift, #myinterior"
   - username: "what_makes_me_enjoy"
     fullname: >-
       Hej! Tu Marzena 🤎
@@ -43,18 +55,6 @@ profiles:
     id: ck6todmoidhj10j719yzizxi5
     verified: false
     hashtags: "#interior123, #hyggehome, #xmasiscoming, #christmasflatlay"
-  - username: "domek_na_krotkiej"
-    fullname: >-
-      Cześć jestem Daria😊
-    bio: >-
-      Zapraszam do mojego domu 🏠 #domeknakrotkiej #scandinavianstyle #homedecor 🏘 Projekty koncepcyjne @daria_projektuje 📩Współpraca domeknakrotkiej@wp.pl
-    location: "Poland"
-    followers: 23434
-    engagement: 589
-    commentsToLikes: 0.089283
-    id: ck8t5ddf29qoh0j7843rvzt2w
-    verified: false
-    hashtags: "#livingroom, #home, #livingroomdecor, #domparterowy"
   - username: "ml.mala"
     fullname: >-
       🌿Marta🌿
@@ -79,42 +79,6 @@ profiles:
     id: ck8t2wyhd10dr0j787007gi34
     verified: false
     hashtags: "#interiordesigner, #christmasdecor, #tulipany, #kitchen"
-  - username: "aga327"
-    fullname: >-
-      Aga🌹
-    bio: >-
-      Sztuka życia-cieszyć się małym szczęściem🍀 Mój dom 🏠Moje codzienne chwile #coffeetime #flowers #homedecor Współpraca 📥 aga327@op.pl
-    location: "Poland"
-    followers: 21418
-    engagement: 358
-    commentsToLikes: 0.057678
-    id: ck8t9s6chp5kg0j785xu8hlee
-    verified: false
-    hashtags: "#dekoracjedomu, #dodatkidodomu, #dekoracje, #livingroomdecor"
-  - username: "wzorcowa_szorcowa"
-    fullname: >-
-      A N I A
-    bio: >-
-      🏠 #homedecor #organizacjadomu Mój #️⃣ #wzorowydom 🇵🇱 tworzę świece sojowe 100% handmade 100% vegan 📥współpraca
-    location: "Poland"
-    followers: 7024
-    engagement: 452
-    commentsToLikes: 0.130419
-    id: ck8t1etxvvhqv0j78hzk6lvyc
-    verified: false
-    hashtags: "#hyggehome, #dekoracjedomu, #kuchnia, #takmieszka"
-  - username: "scandi_uk"
-    fullname: >-
-      Sylwia
-    bio: >-
-      Interior lover from scandi home UK. Travel~Lifestyle~Homedecor #scandi_uk Collaboration: sylwiawasik@yahoo.com
-    location: "Poland"
-    followers: 99990
-    engagement: 367
-    commentsToLikes: 0.043919
-    id: ck14hdybd9u860i19enz9zcac
-    verified: false
-    hashtags: "#bohostyle, #hygee, #bedroomdesign, #cozyplace"
   - username: "nziarko_"
     fullname: >-
       Natalia Ziarkowska
@@ -127,4 +91,40 @@ profiles:
     id: ckaoui5mc0dkl0i78fbvmqi2s
     verified: false
     hashtags: "#bohodecoration, #bohointerior, #bialakuchnia, #scandiboho"
+  - username: "magda1266"
+    fullname: >-
+      Magdalena
+    bio: >-
+      32 m2 szczęścia Lifestyle • Coffee lover • Homedecor • Flatlay • Books #insulinooporność #insulinresistance #niskiig Poznań, Poland Współpraca DM 📥
+    location: "Poland"
+    followers: 2098
+    engagement: 1157
+    commentsToLikes: 0.089626
+    id: ck8t44d6a5gy40j78oolbjzwf
+    verified: false
+    hashtags: "#eveningmood, #xmasdecor, #december2020, #readingbooks"
+  - username: "primesbeauty"
+    fullname: >-
+      Primes Product Photography
+    bio: >-
+      #productphotographer 📸 Instablogger: #beauty #travel #homedecor
+    location: "Poland"
+    followers: 5738
+    engagement: 333
+    commentsToLikes: 0.070256
+    id: ckf5vfee1oe6x0j234zdiobk4
+    verified: false
+    hashtags: "#polishgirl, #kawa, #flatlaypoland, #kosmetyki"
+  - username: "paulawuczko"
+    fullname: >-
+      Paulina Wuczko
+    bio: >-
+      ▪️paulaxd50@wp.pl /DM ✉ 📍 Lubelskie
+    location: "Poland"
+    followers: 17622
+    engagement: 771
+    commentsToLikes: 0.034377
+    id: ck0ubm7frew3k0i19tzsc1mr6
+    verified: false
+    hashtags: "#flatlay, #recenzja, #naturally, #fashionblogger"
 ---

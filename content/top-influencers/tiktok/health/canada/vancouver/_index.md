@@ -1,11 +1,11 @@
 ---
-title: Top 10 Health TikTok Influencers In Vancouver In 2023
+title: Top 10 Health TikTok Influencers In Vancouver In 2024
 description: >-
-  Find top health TikTok influencers in Vancouver in 2023. Most popular hashtags: #vancouver #fyp #canada #foryoupage.
+  Find top health TikTok influencers in Vancouver in 2024. Most popular hashtags: #vancouver #fyp #canada #foryoupage.
 platform: TikTok
 hits: 9
-text_top: Analyze the most popular TikTok accounts on inBeat.
-text_bottom: Our search engine holds 9 TikTok influencers like this in Vancouver, Canada for you to pitch.
+text_top: Analyze the most popular TikTok influencers on inBeat.
+text_bottom: Our platform holds 9 TikTok influencers like this in Vancouver, Canada for you to pitch.
 profiles:
   - username: "chris_brake"
     fullname: >-
@@ -54,7 +54,7 @@ profiles:
     commentsToLikes: 0.024906
     id: ck90ykhleamun0j78tul0awbw
     verified: false
-    hashtags: "#vancouver, #lgbt, #imobsessed, #greenscreen"
+    hashtags: "#lgbt, #gay, #imobsessed, #greenscreen"
   - username: "georgina.stokes"
     fullname: >-
       Georgina Stokes
@@ -91,6 +91,18 @@ profiles:
     id: ckdbrvq5jcanq0j2314xqg1ub
     verified: false
     hashtags: "#vaccine, #healthclass, #learnontiktok, #anatomy"
+  - username: "renaecathleen"
+    fullname: >-
+      R3NBOT
+    bio: >-
+      Check out the link in my bio for ✨ Cash Giveaways ✨
+    location: "Canada"
+    followers: 7473
+    engagement: 889
+    commentsToLikes: 0.094504
+    id: ckammxkrj2gvr0i786to5obe1
+    verified: false
+    hashtags: "#makemoney, #usa, #vancouver, #healthy"
   - username: "isabella.bucchiotti"
     fullname: >-
       isabella.bucchiotti
@@ -103,18 +115,6 @@ profiles:
     id: ckbf4ec9dsrjs0j2312sf3yo3
     verified: false
     hashtags: "#amazon, #howto, #vegan, #favoriterecipe"
-  - username: "renaecathleen"
-    fullname: >-
-      R3NBOT
-    bio: >-
-      Check out the link in my bio for ✨ Cash Giveaways ✨
-    location: "Canada"
-    followers: 7473
-    engagement: 889
-    commentsToLikes: 0.094504
-    id: ckammxkrj2gvr0i786to5obe1
-    verified: false
-    hashtags: "#global, #vancouver, #spring2021, #weightloss"
   - username: "dr.naheedd"
     fullname: >-
       Dr Naheed Dosani🇨🇦
@@ -126,5 +126,5 @@ profiles:
     commentsToLikes: 0.109245
     id: ckbf228pqoo3a0j23yvlu4av3
     verified: false
-    hashtags: "#canada, #toronto, #tiktokdoc, #blacklivesmatter"
+    hashtags: "#toronto, #fyp, #learnontiktok, #doctor"
 ---

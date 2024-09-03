@@ -1,12 +1,96 @@
 ---
-title: Top 10 Rappers Instagram Influencers In Germany In 2023
+title: Top 10 Rappers Instagram Influencers In Germany In 2024
 description: >-
-  Find top rappers Instagram influencers in Germany in 2023. Most popular hashtags: #deutschrap #rap #rapper.
+  Find top rappers Instagram influencers in Germany in 2024. Most popular hashtags: #music #liebe #musik.
 platform: Instagram
-hits: 86
-text_top: See the most popular Instagram profiles on inBeat.
-text_bottom: Our search engine holds 86 Instagram influencers like this in Germany for you to collaborate.
+hits: 120
+text_top: Analyze the most popular Instagram profiles on inBeat.
+text_bottom: Our platform holds 120 Instagram influencers like this in Germany for you to contact.
 profiles:
+  - username: "krime114"
+    fullname: >-
+      KRIME
+    bio: >-
+      Rapper , Songwriter ! @385i 🎰 "600 PS" x @josifromdablock 🏎️💨 👇 OᑌT ᑎOᗯ #KrimeIstDie1
+    location: "Germany"
+    followers: 44891
+    engagement: 756
+    commentsToLikes: 0.040957
+    id: ck14hwrivcixb0i19mhzvzu2z
+    verified: false
+    hashtags: "#krimearmy, #eywa, #1000mal, #600ps"
+  - username: "fero47"
+    fullname: >-
+      FERO47
+    bio: >-
+      Germany 🇩🇪 • Rapper 📀 • 🔜 VOYAGE🥷 📩: Kontakt@Fero-47.com
+    location: "Germany"
+    followers: 760724
+    engagement: 394
+    commentsToLikes: 0.012209
+    id: ck13auzw9sbny0i19bn7oe7jb
+    verified: true
+    hashtags: "#werbung, #47, #sonnenuntergang, #sunset"
+  - username: "thelifeofcurly"
+    fullname: >-
+      Curly
+    bio: >-
+      RAPPER,💿📀 Songwriter, SPIEGEL-Bestseller-Autor 📚 & 1 Podcast @terroirundadiletten 🍷 🍇 Post: hi@thelifeofcurly.de HIER UNSER NEUES BUCH BESTELLEN ➡️
+    location: "Germany"
+    followers: 28357
+    engagement: 328
+    commentsToLikes: 0.025115
+    id: ck6trmri1zvxv0j71ty7scqto
+    verified: true
+    hashtags: "#foodie, #dancebrandneu, #timraue, #dogsofinstagram"
+  - username: "zatekrank"
+    fullname: >-
+      Zate Musik
+    bio: >-
+      Rapper / Songwriter Zitat des Tages Alle Infos findest du hier.
+    location: "Germany"
+    followers: 77499
+    engagement: 306
+    commentsToLikes: 0.016370
+    id: ck13d0kbq326d0i19emvvb7tp
+    verified: false
+    hashtags: "#zatekrank, #fd, #7komma7, #zatearmy"
+  - username: "tozee_official"
+    fullname: >-
+      Toni Zimmermann
+    bio: >-
+      Tozee, positivster Rapper Deutschlands, aus Berlin ! Musik für Kinder und Erwachsene ! Booking: Toni.zimmermann@gmx.net @vanessareich__ ❤️
+    location: "Germany"
+    followers: 19444
+    engagement: 307
+    commentsToLikes: 0.052049
+    id: clq9hyhna6r1j0k08ai5okh3d
+    verified: false
+    hashtags: "#ostern, #rap, #beautiful, #kinder"
+  - username: "modouzi"
+    fullname: >-
+      Mo Douzi
+    bio: >-
+      Rapper/Entertainer
+    location: "Germany"
+    followers: 169581
+    engagement: 132
+    commentsToLikes: 0.045432
+    id: ck5hrn6mrv5dq0i11psvlhxfb
+    verified: false
+    hashtags: "#mma, #boxing, #rap, #tiktok"
+  - username: "lillightzkin"
+    fullname: >-
+      Lil Lightzkin | T-L-L 🗣️
+    bio: >-
+      Best Rapper & MC DE (für echt für echt) @asappatrice @rockstarandbabes cooperations+bookings :𝘭𝘪𝘭𝘭𝘪𝘨𝘩𝘵𝘻𝘬𝘪𝘯.𝘣𝘶𝘴𝘪𝘯𝘦𝘴𝘴@𝘨𝘮𝘢𝘪𝘭.𝘤𝘰𝘮
+    location: "Germany"
+    followers: 181636
+    engagement: 5
+    commentsToLikes: 0.000000
+    id: ckxz764rpdrz50j23ri2vcnhe
+    verified: false
+    hashtags: "#outfitinspo, #fashion, #boohooman, #supportlillightzkin"
   - username: "primakova_papi"
     fullname: >-
       LCone // Livio Carlin
@@ -18,19 +102,7 @@ profiles:
     commentsToLikes: 0.009918
     id: ck14lhcq5uoef0i19qj3yq732
     verified: true
-    hashtags: "#cool, #fresh"
-  - username: "toonypolak"
-    fullname: >-
-      Toony
-    bio: >-
-      Twitch.tv/Toonypolak 🇵🇱—RAPPER— 🩺🏋🏻‍♀️—PHYSICAL THERAPIST- 🥋BJJ BLUE BELT-
-    location: "Germany"
-    followers: 16138
-    engagement: 227
-    commentsToLikes: 0.067157
-    id: ck6tujdmpgo9d0j71o9mr9ksc
-    verified: false
-    hashtags: "#allin, #synek, #polska, #polak"
+    hashtags: "#fresh, #cool"
   - username: "motrip"
     fullname: >-
       MoTrip
@@ -43,88 +115,16 @@ profiles:
     id: ck0tvogr4c5dl0i1949ak4n4v
     verified: true
     hashtags: "#talkshow, #mellowcompany, #melloandfriends, #deepunddeutlich"
-  - username: "fatoniyo"
+  - username: "oliverpocher"
     fullname: >-
-      Fatoni
+      Oliver Pocher
     bio: >-
-      Bester deutscher Rapper der Welt! Okayer Schauspieler! „Delirium“ mit @edgarwasser kommt!
+      LIEBESKASPER, BILDSCHIRMKONTROLLEUR, RAPPER, TÄNZER, PODCASTER, DAD OF 5 Impressum: OliverPocher.de/Impressum Tickets für die Tour:
     location: "Germany"
-    followers: 46486
-    engagement: 435
-    commentsToLikes: 0.017133
-    id: ck134bf67vmc00i19mbt8mldn
+    followers: 1704918
+    engagement: 44
+    commentsToLikes: 0.044985
+    id: ck55jc4cewqcv0i11jx2ptnei
     verified: true
-    hashtags: ""
-  - username: "diggidexter"
-    fullname: >-
-      Dexter™
-    bio: >-
-      Producer, Rapper & DJ from Stuttgart/ Germany. Initiative 19. Februar Hanau:
-    location: "Germany"
-    followers: 21864
-    engagement: 485
-    commentsToLikes: 0.050500
-    id: ck6tz55sv7ogh0j71qqjp3pek
-    verified: false
-    hashtags: "#saytheirnames"
-  - username: "kartoucha_official"
-    fullname: >-
-      K-rtoucha 🇹🇳Tunis 🇨🇭Zürich
-    bio: >-
-      Rapper • Songwriter Booking & Business : Kartouchabooking@gmail.com Kartoucha - ” Ya 7ouma ياحومة ” clip video out now!
-    location: "Germany"
-    followers: 45626
-    engagement: 66
-    commentsToLikes: 0.047296
-    id: ck5hef8kwslhn0i114rfvfc7n
-    verified: false
-    hashtags: "#algerie, #kartouchagang, #gucci, #raptunisien"
-  - username: "drobdynamic"
-    fullname: >-
-      Drob Dynamic
-    bio: >-
-      GOD FIRST✝️(JESUS FOLLOWER)✝️ Rapper & Freestyler 🎤 Songwriter & Rap-Coach 🎵
-    location: "Germany"
-    followers: 5963
-    engagement: 799
-    commentsToLikes: 0.051765
-    id: ck5ce7iykkhla0i11yoegqsb7
-    verified: false
-    hashtags: "#hollywood, #ajdebre, #gipsyking, #vegas"
-  - username: "derasiate"
-    fullname: >-
-      Der Asiate 🇩🇪🇻🇳
-    bio: >-
-      🎤Rapper/Bademeister/Asiate BESTE MODE ➡️ @fidschimarkt 📞 Promoter 💸 Künstler Management 📱 FACEBOOK/DerAsiate Booking⬇️ Derasiate88@yahoo.com
-    location: "Germany"
-    followers: 35378
-    engagement: 316
-    commentsToLikes: 0.032773
-    id: ck6tuj482gmrc0j71komsjxx0
-    verified: true
-    hashtags: "#mima, #fidschimarkt, #asien, #bademeister"
-  - username: "rica_shay"
-    fullname: >-
-      Rica Shay
-    bio: >-
-      Weirdo, rapper, drag thing performer and a big old hoe. 🇺🇸 in 🇦🇺 I‘M RAISING MONEY TO MOVE TO GERMANY. Gofundme link in bio. ⬇️
-    location: "Germany"
-    followers: 22633
-    engagement: 378
-    commentsToLikes: 0.031282
-    id: ck6tq8hmrpzm50j7176aoytdz
-    verified: true
-    hashtags: "#booty, #britneyspears, #ricashay, #queer"
-  - username: "sido_shawnstein"
-    fullname: >-
-      Sido
-    bio: >-
-      Sido Sigi HipHop Rapper Deutschrap Rap King Berlin Aggroberlin Fan Seite von @shawnstein
-    location: "Germany"
-    followers: 27133
-    engagement: 340
-    commentsToLikes: 0.021316
-    id: ckap4jdr07mqx0i78xg7wx3o6
-    verified: false
-    hashtags: "#fanseite, #hiphop, #rap, #maske"
+    hashtags: "#dbcd, #standupcomedy, #comedy, #diebestencomediansdeutschlands"
 ---

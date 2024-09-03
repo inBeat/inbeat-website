@@ -1,130 +1,130 @@
 ---
-title: Top 10 Athletes Instagram Influencers In Indonesia In 2023
+title: Top 10 Athletes Instagram Influencers In Indonesia In 2024
 description: >-
-  Find top athletes Instagram influencers in Indonesia in 2023. Most popular hashtags: #skincare #workout #ukmkeputrianundiksha.
+  Find top athletes Instagram influencers in Indonesia in 2024. Most popular hashtags: #indonesia #oakleyid #bewhoyouare.
 platform: Instagram
-hits: 72
-text_top: Identify the top-rated Instagram accounts on inBeat.
-text_bottom: Our platform aggregates 72 Instagram influencers like this in Indonesia for you to collaborate.
+hits: 70
+text_top: Discover the top-rated Instagram influencers on inBeat.
+text_bottom: Our search engine holds 70 Instagram influencers like this in Indonesia for you to contact.
 profiles:
-  - username: "emquee"
+  - username: "ezrawalian"
     fullname: >-
-      Michelle Quan
+      Ezra Walian
     bio: >-
-      Cledepeau Beaute UnderArmour Athlete Friend of DIOR Bvlgari @fitwithrealfoodid @ecovacs.indonesia
+      Player of @persib 🇮🇩 @nike Athlete ⚽️ Co-owner @junglepadel 🎾 Business inquiries: business@ezrawalian.com
     location: "Indonesia"
-    followers: 70446
-    engagement: 243
-    commentsToLikes: 0.022050
-    id: ck15rxjxha7af0i19ds8ubzmx
-    verified: false
-    hashtags: "#bulgari, #bulgarihighjewelry, #serpenti, #edenthegardenofwonders"
-  - username: "bayusaptaji"
-    fullname: >-
-      Bambang Bayu Saptaji
-    bio: >-
-      Part of team @ortuseight athlete @pocarisportid Ambassador @topscoresport & @djsportapparel Kawan @ayo.indonesia 📞+82114211788 @ismipricilla
-    location: "Indonesia"
-    followers: 841697
-    engagement: 566
-    commentsToLikes: 0.029455
-    id: ck13683gv57ff0i19bxdoynws
+    followers: 1190330
+    engagement: 503
+    commentsToLikes: 0.012763
+    id: ck6u1f2aqlchk0j71vwcj9our
     verified: true
-    hashtags: "#aplikasibola, #ayoindonesia, #avoiceforamateurs, #aplikasiayo"
-  - username: "asnawi_bhr"
+    hashtags: "#junglepadel, #padelindonesia, #e30wanian, #legendamade"
+  - username: "agusprayogo21"
     fullname: >-
-      ASNAWI MANGKUALAM
+      Agus Prayogo
     bio: >-
-      Football Player🇮🇩 • Specs Athlete
+      🇮🇩 Athlete 🇮🇩 Army 2108 7 x 🥇 Seagames 5000m 14:04 (NR) 10000m 29:25 (NR) HM 1:06:26 (PB) FM 2:20:53 (PB)
     location: "Indonesia"
-    followers: 185053
-    engagement: 797
-    commentsToLikes: 0.006427
-    id: ckap8h4igo9ze0i78da3giwz3
-    verified: false
-    hashtags: "#mitsubishi, #psmmakassar, #ewako, #tetapaktif"
-  - username: "syahmisafari20"
-    fullname: >-
-      Syahmi Safari
-    bio: >-
-      Selangor FA💊🔥 @pumafootball athlete [Usaha.Doa.Tawakal] —— @twenty20wrap 🚗 @eses20fries 🍟
-    location: "Indonesia"
-    followers: 109509
-    engagement: 978
-    commentsToLikes: 0.007066
-    id: ckapbrt7113ox0i78k1rpnvqz
+    followers: 173337
+    engagement: 729
+    commentsToLikes: 0.012547
+    id: ck13bomi9wf0y0i19jmpba5fb
     verified: true
-    hashtags: "#yoodofifa20challenge, #wrap, #fasxhipsterpomade, #pumafootball"
-  - username: "riskymuhammads22"
+    hashtags: "#teamaspro, #westrive, #striveforward, #lari"
+  - username: "wildanurfadhilahh"
     fullname: >-
-      Risky Muhammad Sudirman
+      Wilda Siti Nurfadhilah Sugandi
     bio: >-
-      • Young athlete🇲🇨 • @persija player🐯
+      ATHLETE🇲🇨 💍 BA: @asicsid , @speed_jersey owner: @fadhilahijab17 Partof @bebascedera.id 📲ContactPerson:+62 812-8399-8234(WB) 📩jspjakarta09@gmail.com
     location: "Indonesia"
-    followers: 28730
-    engagement: 938
-    commentsToLikes: 0.009681
-    id: ck5zxup398p6k0i14laxpbf39
-    verified: false
-    hashtags: "#fiersabesari, #garisterdepan"
-  - username: "ayub.antoh27"
-    fullname: >-
-      ayubantoh
-    bio: >-
-      Endorse >>> DM📩 Athlete ⚽ Professional Football Player @martapurafc Filipi 4:13 😇 My YouTube Channel 👇Below
-    location: "Indonesia"
-    followers: 22126
-    engagement: 665
-    commentsToLikes: 0.022667
-    id: ck138tamchwmh0i19mnnylqdb
-    verified: false
-    hashtags: "#sadboy, #martapurafc, #paijopapuaisojowo, #sadgirl"
-  - username: "riismanita"
-    fullname: >-
-      Virgo♍️
-    bio: >-
-      Kristiadi❤️ •Dancer •Latin Dancesport Athlete •Choreografer Dance •Make up @makeup_rismanita
-    location: "Indonesia"
-    followers: 5639
-    engagement: 1189
-    commentsToLikes: 0.029934
-    id: ckap2m2yszfj20i787zhl15zt
-    verified: false
-    hashtags: "#ukmkeputrianundiksha, #sosimplesobeautiful, #indobeauty, #makeuptransitionrizal"
-  - username: "rivannurmulki"
-    fullname: >-
-      Rivannurmulki12
-    bio: >-
-      🏐Professional Volleyball Player🇮🇩 -ASICS ATHLETE -2018 super league🇹🇭 -2020-2021 V-league🇯🇵 inquiries🔽 📩jspjakarta09@gmail.com 📱+6281283998234 (WB) ⬇️
-    location: "Indonesia"
-    followers: 611087
-    engagement: 890
-    commentsToLikes: 0.003192
-    id: ckap53imra1h30i78a8fv2hy6
+    followers: 1132072
+    engagement: 734
+    commentsToLikes: 0.004889
+    id: ck1381aoie0nb0i19oj3zcf0a
     verified: true
-    hashtags: "#myhistory, #asicsid, #bebetter, #happynewyear"
-  - username: "hijrah_bara"
+    hashtags: "#stayactive, #minumanfavorit, #speedmovementstore, #speedjerseycatalogue"
+  - username: "arlenws"
     fullname: >-
-      hijrah bara
+      Arie Febrian Hutajulu
     bio: >-
-      - BA Of @beningsclinic_jakarta @bening__skincare -team @suplemenfitnesid & @sfidnfits Sponsored Athlete
+      @fortis.calisthenics Athlete @reebokindonesia Philippians 4 : 13 Calisthenics
     location: "Indonesia"
-    followers: 144963
-    engagement: 217
-    commentsToLikes: 0.019418
-    id: ckaounl5d11yo0i78ozdy9amh
+    followers: 10881
+    engagement: 809
+    commentsToLikes: 0.040693
+    id: ck5hks2bkiyms0i11jpehatcy
     verified: false
-    hashtags: "#sahabatbening, #beningsekarang, #skintreatment, #oaseindonesia1212"
-  - username: "x.t.i.n_m.i.l.a.n"
+    hashtags: "#fortiscalisthenics, #teammass, #teammuscletech, #teammuscletechindonesia"
+  - username: "emilianovanv"
+    fullname: >-
+      Emilia Nova
+    bio: >-
+      🥇🥈🥈Sea Games 🥈Asian Games 2018 National🇮🇩Athlete Nike Athlete|Team @oakley |Team @garminid @usanaathletes
+    location: "Indonesia"
+    followers: 30277
+    engagement: 405
+    commentsToLikes: 0.012035
+    id: ck6u36au3vz3j0j711okry650
+    verified: false
+    hashtags: "#hurdles, #usanaathletes, #beatyesterday, #oakleyid"
+  - username: "simi.kowalski"
+    fullname: >-
+      SIMIKOWALSKI
+    bio: >-
+      🌈🦋🦁 EQUALITY #keepshining Model |Artist | Actor | Former Athlete | TV- Face | Yoga-Teacher 🔥 collab: 📧simikowalski44@gmail.com
+    location: "Indonesia"
+    followers: 176756
+    engagement: 370
+    commentsToLikes: 0.011450
+    id: ck5c3vy9l05s70i11m4z99p4e
+    verified: true
+    hashtags: "#movement, #moveyourbody, #awareness, #si90dayschallenge"
+  - username: "aries_susanti"
+    fullname: >-
+      Aries Susanti Rahayu
+    bio: >-
+      •Former Climbing Athlete🇮🇩 Whatsapp ONLY 📲 +6282308236418 @teleperformance_group @prudentialdobrasil
+    location: "Indonesia"
+    followers: 52145
+    engagement: 257
+    commentsToLikes: 0.011614
+    id: ck13cwjr62ihp0i1952zo3yax
+    verified: true
+    hashtags: "#tokyo2020, #ariessusanti, #eigerindonesia, #fpti"
+  - username: "jejelogy"
+    fullname: >-
+      Julian Johan
+    bio: >-
+      Indonesia Motorsport Athlete. Rally & 4x4 Enthusiast. Brand Ambassador of @bfgoodrichindonesia & @motulindonesia.
+    location: "Indonesia"
+    followers: 170291
+    engagement: 180
+    commentsToLikes: 0.007840
+    id: ckap9as2krvrq0i788quy2l6q
+    verified: true
+    hashtags: "#landcruiserindonesia, #rallyraid, #landcruiser, #jeepindonesia"
+  - username: "bobbyida"
+    fullname: >-
+      ⏩2Ninefit Indonesia⏪
+    bio: >-
+      Youtube 🇮🇩 2NINEFIT INDONESIA 🇮🇩 Model / Athlete / Content Creator ANS Performance Athlete Bali | Indonesia Inspire 🔥 | Motivate 🚀 | Transform 🔁
+    location: "Indonesia"
+    followers: 562616
+    engagement: 168
+    commentsToLikes: 0.040239
+    id: ck5zkkpwyjno50i14s7rwxzhi
+    verified: true
+    hashtags: "#beratbadanideal, #tipsfitness, #turunbb, #makanandiet"
+  - username: "xtinmilan"
     fullname: >-
       Christin Wijaya
     bio: >-
-      Triathlete | Ultra Endurance Athlete Mom of Milan #xtinmilan BA of @cannondale.id @wahoofitness.id @proactionbikes @oakley
+      Triathlete | Ultra Endurance Athlete l i 🖤 sports (lg suka gunung) Mom of Milan & 5 of 🐱#xtinmilan @cannondale.id @wahoofitness.id @ @oakley
     location: "Indonesia"
-    followers: 12990
-    engagement: 294
-    commentsToLikes: 0.115628
+    followers: 20879
+    engagement: 166
+    commentsToLikes: 0.097473
     id: ck5q87wwv4v2i0i11xfedvjy3
     verified: false
-    hashtags: "#xtinmilan, #gakrecehgakasik, #gowes, #jumpropeworkout"
+    hashtags: "#elevaterope, #mommystrong, #momlife, #mom"
 ---

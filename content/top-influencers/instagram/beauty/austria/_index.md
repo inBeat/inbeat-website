@@ -1,48 +1,108 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Austria In 2023
+title: Top 10 Beauty Instagram Influencers In Austria In 2024
 description: >-
-  Find top beauty Instagram influencers in Austria in 2023. Most popular hashtags: #vienna #reels #fashion #outfitoftheday.
+  Find top beauty Instagram influencers in Austria in 2024. Most popular hashtags: #makeup #ootd #mamaalltag.
 platform: Instagram
-hits: 179
-text_top: Identify the top-rated Instagram influencers on inBeat.
-text_bottom: Our database aggregates 179 Instagram influencers like this in Austria for you to collaborate.
+hits: 223
+text_top: Analyze the top-rated Instagram influencers on inBeat.
+text_bottom: Our search engine has 223 Instagram influencers like this in Austria for you to connect with.
 profiles:
-  - username: "ebruerkut"
+  - username: "die_kollands"
     fullname: >-
-      Ebru Erkut, MA
+      Karina kolland .29 🇦🇹
     bio: >-
-      — based in vienna, heart in nyc. fashion, beauty & interior tips. consultancy @ebruerkutcom founder @raysofmarch
+      ⋙ LIFESTYLE | FITNESS | BEAUTY | #realtalk 🎥 📍 Österreich - In der schönen Steiermark 📩 Karina-kolland@gmx.at 📺 Dauerwerbesendung
     location: "Austria"
-    followers: 233806
-    engagement: 62
-    commentsToLikes: 0.014323
-    id: ck0u9i99p9yss0i19bwl9mf7s
+    followers: 15801
+    engagement: 345
+    commentsToLikes: 0.084452
+    id: ck5c60n5n4hin0i11h13uw7iz
     verified: false
-    hashtags: "#vienna, #neutralstyle, #reels, #winteroutfit"
-  - username: "sheri_show"
+    hashtags: "#einbisschengl, #momof3, #cutie, #contentcreator"
+  - username: "violetfleur_com"
     fullname: >-
-      Shqlawa
+      Nadja | Mamablog
     bio: >-
-      📍 Vienna •Certified MUA •Makeup• Hair •Beauty • Lifestyle •For appointment: +43 681 10884281 •10/192
+      FAMILY • BEAUTY • LIFESTYLE Mom of ✌🏻👨‍👩‍👧‍👦 🐰 12/20 🐭 10/23 ✉️ info@violetfleur.com 📍Vienna, Austria 🇦🇹
     location: "Austria"
-    followers: 61326
-    engagement: 244
-    commentsToLikes: 0.055980
-    id: ck8ta6eejqlzf0j78zskkwc4n
+    followers: 10081
+    engagement: 318
+    commentsToLikes: 0.018670
+    id: ckf5vrh77pnmv0j23mtcw56ov
     verified: false
-    hashtags: "#vienna, #fashion, #styleblogger, #shein"
-  - username: "descude.simona"
+    hashtags: "#bubenmama, #instamamas, #geplanterkaiserschnitt, #mamaleben"
+  - username: "missesclementi"
     fullname: >-
-      Simona Nemțanu
+      MRS CLEMENTI | Content Creator
     bio: >-
-      🌿Fashion & Beauty Blogger since 2011 👧🏻Mommy to #babyOlivia 🇷🇴România • Iași 🖌Contact: simonanemtanu@yahoo.com 🔎Blog:
+      fashion | beauty | interior | lifestyle | kidsinspo | momlife ✉️ inquiries | clementi@ikbnet.at 🏳️ based in AUSTRIA | I n n s b r u c k
     location: "Austria"
-    followers: 18018
-    engagement: 219
-    commentsToLikes: 0.050255
-    id: ck6u11bmniyx70j71i4rahh33
+    followers: 50204
+    engagement: 215
+    commentsToLikes: 0.082990
+    id: ck0ty4gydll9x0i198nmr9vg8
     verified: false
-    hashtags: "#bonprixbloggers, #inspiratiepepco, #bonprix, #bonprixitsme"
+    hashtags: "#babyroomideas, #babyroomdecoration, #babyzimmerinspiration, #mamaleben"
+  - username: "luiseperwein"
+    fullname: >-
+      LUISE PERWEIN  Fashion/ Interior/ Rezepte
+    bio: >-
+      Mom of 3 👦🏽👧🏽👦🏽 Realtalk 📢 Humor 😂 Beauty💄 Wöchentliche Essenpläne 🍝 📍Salzburg/ AUT Podcast Herzlich & Echt
+    location: "Austria"
+    followers: 138989
+    engagement: 197
+    commentsToLikes: 0.041455
+    id: cl5l339xx9b7n0i23o67g2423
+    verified: false
+    hashtags: "#husbandandwife, #gartengestaltung, #friends, #pool"
+  - username: "ters_bosanka"
+    fullname: >-
+      Merjem Nuhić
+    bio: >-
+      Since 2015,30k+clients & 1k+ students @tersbosanka.beautycentar @tersbosanka.shop @tersbosanka.ormar CEO @adna.hajdarevic 063095943 FOUNDER Merjem N.
+    location: "Austria"
+    followers: 112672
+    engagement: 99
+    commentsToLikes: 0.110455
+    id: ck0tuu0j78nsa0i193rmuzgpv
+    verified: false
+    hashtags: "#tersbosankateam, #makeupideas, #beautybox, #makeuplooks"
+  - username: "lakatyfox"
+    fullname: >-
+      KATRIN 🖤 Graz
+    bio: >-
+      FASHION & BEAUTY 📫contact@lakatyfox.com 🔜 🇮🇹🍕🍝 📍#graz, Austria
+    location: "Austria"
+    followers: 16551
+    engagement: 91
+    commentsToLikes: 0.127872
+    id: clq9hxsh95y130k088reoui60
+    verified: false
+    hashtags: "#blogger, #yummy, #winterlook, #germanblogger"
+  - username: "giveherglitter"
+    fullname: >-
+      Ursula Reiter
+    bio: >-
+      makeup | everything beauty | life vienna • linz
+    location: "Austria"
+    followers: 17667
+    engagement: 84
+    commentsToLikes: 0.064395
+    id: ck0w3kb2hturt0i19kopndlop
+    verified: false
+    hashtags: "#drogerie, #skincare, #naturalmakeup, #hair"
+  - username: "kovacs_dora_hivatalos"
+    fullname: >-
+      Kovács Dóra
+    bio: >-
+      Woman | Beautician | PMU artist | TV presenter Owner @beautyandart_by_kovacsdora
+    location: "Austria"
+    followers: 208636
+    engagement: 23
+    commentsToLikes: 0.000962
+    id: ck6txkjvlycc70j71cuui38sk
+    verified: false
+    hashtags: "#reklam, #csodahet, #infinitecare, #cellulitekezel"
   - username: "paladess"
     fullname: >-
       manuela 💎
@@ -54,7 +114,7 @@ profiles:
     commentsToLikes: 0.060710
     id: ck5hh87xs6w9t0i113jggh3wg
     verified: false
-    hashtags: "#footlocker, #pregnancy, #parentstobe, #snipesclique"
+    hashtags: "#melodyehsani, #newadventures, #snipes, #expecting"
   - username: "kirschundkern"
     fullname: >-
       Tinty • Makeup Artist • Vienna
@@ -66,65 +126,5 @@ profiles:
     commentsToLikes: 0.108175
     id: ck14i34ogdein0i1997fsx2oq
     verified: false
-    hashtags: "#viennaart, #creativefactory, #leftmyheartthere, #march2021"
-  - username: "gernot_und_seref"
-    fullname: >-
-      Gernot & Seref 👨🏽‍🤝‍👨🏻
-    bio: >-
-      life | skin | beauty | food | travel 📍Vienna ❤️🌈 🔜 🇪🇸 BE KIND 𝗔𝗯𝗼𝘂𝘁 𝘂𝘀
-    location: "Austria"
-    followers: 7728
-    engagement: 468
-    commentsToLikes: 0.083522
-    id: ckap1267lssqm0i78anhwk37w
-    verified: false
-    hashtags: "#travellife, #beachday, #mallorca, #gaytraveler"
-  - username: "lucas_tiefenthaler"
-    fullname: >-
-      Lucas Tiefenthaler
-    bio: >-
-      I'm just a guy from Austria with a big passion for skiing, traveling the world and capturing the beauty of our earth.
-    location: "Austria"
-    followers: 6940
-    engagement: 1224
-    commentsToLikes: 0.059903
-    id: ck0twazzzep380i19n41miv44
-    verified: false
-    hashtags: "#skiingislife, #austria, #alps, #powhub"
-  - username: "felicitassawires"
-    fullname: >-
-      Skincoach
-    bio: >-
-      • twentytwo • Vlbg/Vienna • beauty expert - Hautpflegeberaterin • E 🔐
-    location: "Austria"
-    followers: 16257
-    engagement: 357
-    commentsToLikes: 0.072522
-    id: ck0vxx9aw17290i19r7o0b7b0
-    verified: false
-    hashtags: "#f4f, #calm, #spirituality, #fashion"
-  - username: "irinahp"
-    fullname: >-
-      Irina
-    bio: >-
-      a little bit of fashion, beauty & interior Vienna based 👫 @me_and_mango 😜
-    location: "Austria"
-    followers: 382680
-    engagement: 280
-    commentsToLikes: 0.020885
-    id: ck0tvcuf9avq50i191pj6zcgz
-    verified: false
-    hashtags: "#minivlog, #zoelugirls, #onebagmanylooks, #zoelu"
-  - username: "gohar.beauty"
-    fullname: >-
-      Gohar - Beauty | Fashion | Mom
-    bio: >-
-      🏆Award Winning Blogger 2018 ▪️Social Media Manager ▪️Content Creator ▪️mail: gohar@followaustria.management ▪️based in Vienna
-    location: "Austria"
-    followers: 39835
-    engagement: 117
-    commentsToLikes: 0.020536
-    id: ck15rsxyu9jjl0i19zaep5f62
-    verified: false
-    hashtags: "#discoverunder100k, #sealife, #viennablogger, #antalya"
+    hashtags: "#sweaterweather, #happyholidays, #christmasornaments, #ethicalbrand"
 ---

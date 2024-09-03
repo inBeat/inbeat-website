@@ -1,12 +1,72 @@
 ---
-title: Top 10 Painters Instagram Influencers In India In 2023
+title: Top 10 Painters Instagram Influencers In India In 2024
 description: >-
-  Find top painters Instagram influencers in India in 2023. Most popular hashtags: #model #actor #painting #blogger.
+  Find top painters Instagram influencers in India in 2024. Most popular hashtags: #actor #indian #fashion #traditional.
 platform: Instagram
-hits: 291
-text_top: Analyze the best Instagram influencers on inBeat.
-text_bottom: Our platform aggregates 291 Instagram influencers like this in India for you to contact.
+hits: 417
+text_top: Identify the top-rated Instagram influencers on inBeat.
+text_bottom: Our search engine has 417 Instagram influencers like this in India for you to connect with.
 profiles:
+  - username: "varunpainter"
+    fullname: >-
+      Varun
+    bio: >-
+      - Automotive Journalist - Eat, sleep, MOTORCYCLE, repeat - Editor (2W Content) at @powerdrift - Mail - varun.painter@gmail.com - BELIEVE
+    location: "India"
+    followers: 45551
+    engagement: 1572
+    commentsToLikes: 0.032375
+    id: ckap60vaudzfb0i78apchw9fy
+    verified: false
+    hashtags: "#share, #trending, #ktm, #varun"
+  - username: "beingsalmankhan0"
+    fullname: >-
+      Salman Khan 🔵
+    bio: >-
+      Fan Account Actor, artist, painter, humanitarian Upcoming Movies: Tiger3 Kabhi Eid Kabhi Deewali Dm For Paid Promotion
+    location: "India"
+    followers: 206052
+    engagement: 814
+    commentsToLikes: 0.009547
+    id: ckaov303m2wqi0i78my89qroa
+    verified: false
+    hashtags: "#salmansir, #bhfyp, #beingsalmankhan0, #fashion"
+  - username: "arka_patra"
+    fullname: >-
+      Arka Patra
+    bio: >-
+      Visual artist/fashion photographer/painter/sculptor. Based in India.
+    location: "India"
+    followers: 11967
+    engagement: 479
+    commentsToLikes: 0.033146
+    id: ck14gyfo17mwb0i199zf1p2tl
+    verified: false
+    hashtags: "#photography, #genderfluid, #photgraphy, #freespirit"
+  - username: "vaibhavi.merchant"
+    fullname: >-
+      Vaibhavi Merchant
+    bio: >-
+      Director Of Choreography-Indian Film Industry Also- Classical Dancer, Music Lover, Bathroom Singer, Watercolor Painter, Aspiring Farmer, Home Lover!
+    location: "India"
+    followers: 177433
+    engagement: 119
+    commentsToLikes: 0.017682
+    id: ck0vzyi0fbi5d0i195cuz8d4n
+    verified: true
+    hashtags: "#rockyaurranikiipremkahaani, #rrkpk, #jayabachchan, #everyday"
+  - username: "rexintal"
+    fullname: >-
+      Rex Intal
+    bio: >-
+      🇵🇭 Volleyball National Team 🎨 Painter • @rexintalart 📩 ask@vmgasia.co • @vmgasia
+    location: "India"
+    followers: 240074
+    engagement: 87
+    commentsToLikes: 0.002373
+    id: ck0vxom2ozy2z0i19l7qb3gpp
+    verified: false
+    hashtags: "#honorx7a, #baefreshandcool, #middleblockers, #sikretongmgagwapo"
   - username: "shivrajwaichal"
     fullname: >-
       Shivraj Waichal
@@ -19,30 +79,6 @@ profiles:
     id: ck5pwh0s5mrbo0i114tdrqfi5
     verified: true
     hashtags: "#arjun, #madhubanfilms, #trunk, #theatronentertainment"
-  - username: "yash__shrivastava"
-    fullname: >-
-      YASH SHRIVASTAVA© | BLOGGER 🇮🇳
-    bio: >-
-      •MODEL • BLOGGER • ACTOR • PAINTER • MBA• Fashion | Lifestyle |Food |Travel 💢 Featured - @myfmindia @dainikbhaskar_ 📧Dm/Mail for Work Related Queries
-    location: "India"
-    followers: 131597
-    engagement: 93
-    commentsToLikes: 0.022240
-    id: ck8t73qbwfjnn0j78ys8zt1ms
-    verified: false
-    hashtags: "#mumbaiinfluencer, #delhiblogger, #reelsindia, #explorepage"
-  - username: "raqeshbapat"
-    fullname: >-
-      Raqesh Bapat
-    bio: >-
-      Actor | Painter | Sculptor | Animal lover | Producer | Account Handled By #TeamRaq . . Vote for Raqesh here 👇🏻
-    location: "India"
-    followers: 1035517
-    engagement: 63
-    commentsToLikes: 0.017535
-    id: ck137p0brcncg0i19y8qds7g5
-    verified: true
-    hashtags: "#teamraqeshbapat, #biggboss15, #brothersister, #rakhee"
   - username: "nitinchauhanofficial"
     fullname: >-
       𝐍𝐈𝐓𝐈𝐍 𝐂𝐇𝐀𝐔𝐇𝐀𝐍
@@ -54,7 +90,7 @@ profiles:
     commentsToLikes: 0.013032
     id: ck0w3h3bmtdhr0i19b7x7bkxw
     verified: false
-    hashtags: "#nitinchauhan, #model, #manbun, #grateful"
+    hashtags: "#nitinchauhan, #manbun, #longhair, #grateful"
   - username: "artpoorna"
     fullname: >-
       Annapurna Jha | Watercolor Art
@@ -91,40 +127,4 @@ profiles:
     id: ck135394zzh9n0i19cuejcu0r
     verified: true
     hashtags: "#kavihunmain, #trends, #thatduskywoman, #blackandwhite"
-  - username: "arka_patra"
-    fullname: >-
-      Arka Patra
-    bio: >-
-      Visual artist/fashion photographer/painter/sculptor. Based in India.
-    location: "India"
-    followers: 10539
-    engagement: 636
-    commentsToLikes: 0.024188
-    id: ck14gyfo17mwb0i199zf1p2tl
-    verified: false
-    hashtags: "#fashion, #painting, #theindiaphotoproject, #queerart"
-  - username: "riddhikumar_"
-    fullname: >-
-      Riddhi Kumar
-    bio: >-
-      I like food and films Amateur writer, painter and cook Professional over thinker Experimenting @riddhiculousart
-    location: "India"
-    followers: 98450
-    engagement: 743
-    commentsToLikes: 0.010425
-    id: ck15tihmei8v00i19m3fcaait
-    verified: false
-    hashtags: "#nainital, #bollywood, #shoot, #indianactress"
-  - username: "thatbindigirl"
-    fullname: >-
-      Mittali arora
-    bio: >-
-      ੴ •A girl known for her SMILE ⭐️ Positive Vibes 🌈 •MODEL| Actor | Influencer | Painter •DM for Collaboration •SC: Mittsarora •@artbrushcanvases
-    location: "India"
-    followers: 81417
-    engagement: 247
-    commentsToLikes: 0.032436
-    id: ck8t7jmwoh20x0j78anyaf5pu
-    verified: false
-    hashtags: "#punjabimodel, #reelitfeelit, #actorslife, #explorepage"
 ---

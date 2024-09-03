@@ -1,11 +1,11 @@
 ---
-title: Top 10 Music TikTok Influencers In France In 2023
+title: Top 10 Music TikTok Influencers In France In 2024
 description: >-
-  Find top music TikTok influencers in France in 2023. Most popular hashtags: #pourtoi #humour #foryou #fyp.
+  Find top music TikTok influencers in France in 2024. Most popular hashtags: #pourtoi #humour #fyp #foryou.
 platform: TikTok
-hits: 305
-text_top: See the most popular TikTok influencers on inBeat.
-text_bottom: inBeat has 305 TikTok influencers like this in France for you to work with.
+hits: 304
+text_top: Analyze the best TikTok profiles on inBeat.
+text_bottom: Our search engine holds 304 TikTok influencers like this in France for you to collaborate.
 profiles:
   - username: "mrdeadpo_sz1"
     fullname: >-
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.007534
     id: ck8p0fmj2gkrh0j78mw3mwv0l
     verified: true
-    hashtags: "#routine, #coffee, #ootd, #falloutfit"
+    hashtags: "#morningroutine, #routine, #coffee, #squeaky"
   - username: "im.amelle"
     fullname: >-
       Im.amelle
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.009497
     id: ck90tqtabto3k0j781z83w1gl
     verified: false
-    hashtags: "#fail, #horse, #horsejumping, #equestrianlife"
+    hashtags: "#horse, #fun, #love, #fyp"
   - username: "dylan_le_blanc"
     fullname: >-
       Dylan Le Blanc
@@ -54,7 +54,7 @@ profiles:
     commentsToLikes: 0.006078
     id: cka7p1jg75cwm0i78rlqznnl5
     verified: false
-    hashtags: "#drole, #foryou, #pourtoi, #humour"
+    hashtags: "#foryou, #humour, #pourtoi, #drole"
   - username: "lea_cosplay14"
     fullname: >-
       🌈Léa❤️
@@ -67,18 +67,6 @@ profiles:
     id: ckb19ysqhy8p50j23314ul0p7
     verified: false
     hashtags: "#forupage, #foryou, #sing, #pourtoii"
-  - username: "elfamosoflafla"
-    fullname: >-
-      Flavie
-    bio: >-
-      sois le changement que tu veux voir dans le monde musicienne🕊
-    location: "France"
-    followers: 5242
-    engagement: 1202
-    commentsToLikes: 0.036553
-    id: ckb9ed97z1wp40j23kcfbm7qw
-    verified: false
-    hashtags: "#pourtoi, #sadquotes, #blackhair, #lgbt"
   - username: "giannivicari"
     fullname: >-
       Gianni Vicari
@@ -114,7 +102,7 @@ profiles:
     commentsToLikes: 0.009787
     id: ck900p678alb40j78m2yf9rb7
     verified: true
-    hashtags: "#humour, #amour, #pourtoi, #best"
+    hashtags: "#pourtoi, #amour, #humour, #chat"
   - username: "pratima._.gurung"
     fullname: >-
       Paris preety grg 🖤
@@ -127,4 +115,16 @@ profiles:
     id: ckc2yri77ptbj0j23cprvpsdr
     verified: false
     hashtags: "#pourtoi, #tiktoknepal, #foryoupage, #feelingcold"
+  - username: "pokerfacetictoc"
+    fullname: >-
+      Poker Face 🎃
+    bio: >-
+      — >>> dress ideas. / musically / Astuces <<< ——- get my new Instagram 😊
+    location: "France"
+    followers: 67600
+    engagement: 757
+    commentsToLikes: 0.054672
+    id: ckcp6veyvd9jb0j23x8g89c8u
+    verified: false
+    hashtags: "#seconddegres, #argent, #shcool, #abibas"
 ---

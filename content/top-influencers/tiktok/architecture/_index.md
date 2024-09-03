@@ -1,11 +1,11 @@
 ---
-title: Top 10 Architecture TikTok Influencers In 2023
+title: Top 10 Architecture TikTok Influencers In 2024
 description: >-
-  Find top architecture TikTok influencers in 2023. Most popular hashtags: #art #architect #duet #architecture.
+  Find top architecture TikTok influencers in 2024. Most popular hashtags: #art #architect #duet #design.
 platform: TikTok
 hits: 232
-text_top: Discover the most popular TikTok profiles on inBeat.
-text_bottom: Our search engine holds 232 TikTok influencers like this for you to work with.
+text_top: Identify the best TikTok profiles on inBeat.
+text_bottom: Our platform has 232 TikTok influencers like this for you to connect with.
 profiles:
   - username: "shoonya_8007"
     fullname: >-

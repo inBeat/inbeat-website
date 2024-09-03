@@ -1,11 +1,11 @@
 ---
-title: Top 10 Health TikTok Influencers In Milan In 2023
+title: Top 10 Health TikTok Influencers In Milan In 2024
 description: >-
-  Find top health TikTok influencers in Milan in 2023. Most popular hashtags: #healthy #italy #food #fyp.
+  Find top health TikTok influencers in Milan in 2024. Most popular hashtags: #italy #healthy #food #fyp.
 platform: TikTok
 hits: 5
-text_top: Analyze the best TikTok accounts on inBeat.
-text_bottom: inBeat aggregates 5 TikTok influencers like this in Milan, Italy for you to contact.
+text_top: See the most popular TikTok accounts on inBeat.
+text_bottom: inBeat has 5 TikTok influencers like this in Milan, Italy for you to collaborate.
 profiles:
   - username: "cataldihealth"
     fullname: >-
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.007445
     id: ck8f8vjo63mkk0j78jjed68rf
     verified: false
-    hashtags: "#macro, #flattummyapp, #summer, #homeworkout"
+    hashtags: "#macro, #ad, #homeworkout, #eyes"
   - username: "eddy_kood"
     fullname: >-
       eddy 

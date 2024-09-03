@@ -1,11 +1,11 @@
 ---
-title: Top 10 Vegan TikTok Influencers In San Diego In 2023
+title: Top 10 Vegan TikTok Influencers In San Diego In 2024
 description: >-
-  Find top vegan TikTok influencers in San Diego in 2023. Most popular hashtags: #vegan #sandiego #losangeles #california.
+  Find top vegan TikTok influencers in San Diego in 2024. Most popular hashtags: #vegan #sandiego #losangeles #california.
 platform: TikTok
 hits: 11
-text_top: Discover the top-rated TikTok influencers on inBeat.
-text_bottom: inBeat has 11 TikTok influencers like this in San Diego, United States for you to connect with.
+text_top: Analyze the most popular TikTok accounts on inBeat.
+text_bottom: Our search engine has 11 TikTok influencers like this in San Diego, United States for you to pitch.
 profiles:
   - username: "itshuyennguyen"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.045216
     id: ckdbspcxxclpo0j2348ud9z0c
     verified: false
-    hashtags: "#fashion, #nyc, #greenscreen, #greenscreenvideo"
+    hashtags: "#nyc, #greenscreenvideo, #greenscreen, #fashion"
   - username: "caricatureparty"
     fullname: >-
       caricatureparty
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.006235
     id: ckcdn063oaicy0j23cknmeils
     verified: false
-    hashtags: "#glutenfree, #cleaneating, #cocktail, #vegan"
+    hashtags: "#recipe, #vegan, #traderjoes, #recipes"
   - username: "inklinedbynature"
     fullname: >-
       Marianne Barrientez
@@ -66,7 +66,7 @@ profiles:
     commentsToLikes: 0.062348
     id: ck8hk5rm6cjeo0j78s2q7szjd
     verified: true
-    hashtags: "#fyp, #relatablecontent, #nature, #naturevibes"
+    hashtags: "#la, #rawvegan, #relatablecontent, #californiahiddengems"
   - username: "plantbasedvision"
     fullname: >-
       PlantBasedVision
@@ -90,7 +90,7 @@ profiles:
     commentsToLikes: 0.041110
     id: ckahyjbzzzl5a0i784zaopujn
     verified: false
-    hashtags: "#fatherson, #handstands, #skiptherinse, #lovememode"
+    hashtags: "#skatestylelife, #chipsgottalent, #lovememode, #coronado"
   - username: "chelseyexplores"
     fullname: >-
       ChelseyExplores
@@ -102,7 +102,7 @@ profiles:
     commentsToLikes: 0.040089
     id: ckbezszhdl6g10j237qflbudj
     verified: false
-    hashtags: "#hiking, #losangeles, #sandiego, #california"
+    hashtags: "#socal, #california, #la, #joshuatree"
   - username: "onobowls"
     fullname: >-
       Ono Bowls
@@ -126,5 +126,5 @@ profiles:
     commentsToLikes: 0.144044
     id: ck83z4le6xnga0j78ks8aakqp
     verified: false
-    hashtags: "#vaxxedandrelaxed, #ken, #70s, #envisiongreatness"
+    hashtags: "#wonderwoman, #holidaytreats, #dccomics, #70s"
 ---

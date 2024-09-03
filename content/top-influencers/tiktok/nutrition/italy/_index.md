@@ -1,11 +1,11 @@
 ---
-title: Top 10 Nutrition TikTok Influencers In Italy In 2023
+title: Top 10 Nutrition TikTok Influencers In Italy In 2024
 description: >-
-  Find top nutrition TikTok influencers in Italy in 2023. Most popular hashtags: #dieta #perte #imparacontiktok #duetto.
+  Find top nutrition TikTok influencers in Italy in 2024. Most popular hashtags: #perte #imparacontiktok #dieta #proteine.
 platform: TikTok
-hits: 13
-text_top: See the best TikTok influencers on inBeat.
-text_bottom: Our search engine aggregates 13 TikTok influencers like this in Italy for you to connect with.
+hits: 14
+text_top: Analyze the top-rated TikTok profiles on inBeat.
+text_bottom: Our database aggregates 14 TikTok influencers like this in Italy for you to work with.
 profiles:
   - username: "cataldihealth"
     fullname: >-
@@ -71,26 +71,26 @@ profiles:
     fullname: >-
       _aledge_
     bio: >-
-      📍Roma Studio Dietistica 🥦 Parlo di palestra e nutrizione 💪🏼 IG:_aledge_
+      Roma Studio Dietistica Parlo di palestra e nutrizione COACHING ED ALTRO👇🏼
     location: "Italy"
-    followers: 41000
-    engagement: 611
-    commentsToLikes: 0.017789
+    followers: 52600
+    engagement: 842
+    commentsToLikes: 0.013025
     id: ck8qh53eo3ku40j78n96fdjyq
     verified: false
-    hashtags: "#proecontro, #duetto, #corda, #massa"
+    hashtags: "#duetto"
   - username: "silenepretto"
     fullname: >-
       Nutrizionista Silene
     bio: >-
       Nutrizionista 🌸 Seria per professione👩🏽‍⚕️ Scema nella vita 🤪 Seguimi Ig👇🏽
     location: "Italy"
-    followers: 104200
-    engagement: 519
-    commentsToLikes: 0.016770
+    followers: 146100
+    engagement: 742
+    commentsToLikes: 0.011072
     id: ckcuyukiymj6z0j23mfkvrjgt
     verified: false
-    hashtags: "#imparacontiktok, #tiktokfoodie, #tiktokita, #buongiorno"
+    hashtags: "#dieta, #imparacontiktok, #colazionefit, #comedy"
   - username: "sissifacose"
     fullname: >-
       Sissi Fa Cose

@@ -1,24 +1,12 @@
 ---
-title: Top 10 Skincare Instagram Influencers In Tokyo In 2023
+title: Top 10 Skincare Instagram Influencers In Tokyo In 2024
 description: >-
-  Find top skincare Instagram influencers in Tokyo in 2023. Most popular hashtags: #pr #skincare #ootd #fashion.
+  Find top skincare Instagram influencers in Tokyo in 2024. Most popular hashtags: #pr #skincare #fashion #ootd.
 platform: Instagram
-hits: 49
-text_top: Analyze the best Instagram accounts on inBeat.
-text_bottom: Our platform aggregates 49 Instagram influencers like this in Tokyo, Japan for you to pitch.
+hits: 57
+text_top: Discover the most popular Instagram accounts on inBeat.
+text_bottom: inBeat aggregates 57 Instagram influencers like this in Tokyo, Japan for you to connect with.
 profiles:
-  - username: "kalani_tokyo"
-    fullname: >-
-      Kalani Ah Sing 【カラ二】
-    bio: >-
-      🔹日本にフラを伝える先生《クムフラ》 🔹ライフスタイルに活かせば ▫️Positive＝積極的な人に ▫️Thankful＝感謝を言える人に ▫️Humble＝謙虚な人に ▫️Happy ＝幸せを与える人に
-    location: "Japan"
-    followers: 16416
-    engagement: 720
-    commentsToLikes: 0.015652
-    id: ck0u87pmv6n1m0i1924puhrji
-    verified: false
-    hashtags: "#kinaandkalani, #hawaii, #hulame, #hula"
   - username: "bisuhada"
     fullname: >-
       Etsuyo Imoto
@@ -67,6 +55,42 @@ profiles:
     id: ck0ttpt123rzw0i197qfuh1oe
     verified: false
     hashtags: "#bpump, #men, #women, #aimori"
+  - username: "anshindoyle"
+    fullname: >-
+      Anshin Doyle 💗 M a r i a  G
+    bio: >-
+      📍Tokyo, Japan 🇯🇵 YouTube [+233K] 🍡 Pop culture, lifestyle and travel 🍣 🌸 Podcast “Dramas y Sakuras” 💌 hello@anshindoyle.jp
+    location: "Japan"
+    followers: 68589
+    engagement: 279
+    commentsToLikes: 0.028468
+    id: ckap1l7qov0r00i78pimzwh0n
+    verified: false
+    hashtags: "#kawaii, #makeup, #comidajaponesa, #tokio"
+  - username: "ayumihills"
+    fullname: >-
+      AYUMI
+    bio: >-
+      📍Tokyo ▫️Mix girl ▫️Trilingual 日中英 ▫️Total follower 1.6M l SNS総合フォロワー160万
+    location: "Japan"
+    followers: 44339
+    engagement: 139
+    commentsToLikes: 0.034909
+    id: ckf5u6bnojptt0j235jm0021u
+    verified: false
+    hashtags: "#flowers, #bmw, #exhibition, #gobeyond40th"
+  - username: "minaninamiji"
+    fullname: >-
+      👑丹遥 (ニナ)💋上海出身モデル、カメラマン & インフルエンサー👑
+    bio: >-
+      🍭モデル 通販・商品・広告・動画・被写体 🍭カメラマン CanonR6 @minaninamiji_photos 企業商品撮影 & PR写真2次利用要相談 🍭ファッションデザイン出身 🍭丹遥ラインスタンプ @ninalinestamp 🇨🇳Shanghai➡️🇯🇵Tokyo
+    location: "Japan"
+    followers: 38958
+    engagement: 51
+    commentsToLikes: 0.046497
+    id: ck15un8tunzw50i19aauzaaun
+    verified: false
+    hashtags: "#ad, #sheinforall, #besheinmodels, #uv"
   - username: "haruka_takahashi0127"
     fullname: >-
       高橋晴香
@@ -103,28 +127,4 @@ profiles:
     id: ckaouzcim2giu0i78vu0osj57
     verified: false
     hashtags: "#afternoontea, #natsu, #sweets, #travel"
-  - username: "kaori_sekimoto_"
-    fullname: >-
-      KAORI SEKIMOTO
-    bio: >-
-      TOKYO.JAPAN ㅤㅤㅤ
-    location: "Japan"
-    followers: 51799
-    engagement: 158
-    commentsToLikes: 0.005487
-    id: ck14ge1ps4qxl0i19pctg2nby
-    verified: false
-    hashtags: "#meeco, #make, #murua, #jewelry"
-  - username: "adubaby_519"
-    fullname: >-
-      大口あづ記 Azuki Oguchi
-    bio: >-
-      Tokyo / model /NMT inc./ 169cm
-    location: "Japan"
-    followers: 5555
-    engagement: 1026
-    commentsToLikes: 0.022518
-    id: ck6tkkwol4wpk0j71ea5wytvi
-    verified: false
-    hashtags: "#japanesemodel, #pr, #portrait, #jillstuart"
 ---

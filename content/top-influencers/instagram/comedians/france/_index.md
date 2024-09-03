@@ -1,12 +1,48 @@
 ---
-title: Top 10 Comedians Instagram Influencers In France In 2023
+title: Top 10 Comedians Instagram Influencers In France In 2024
 description: >-
-  Find top comedians Instagram influencers in France in 2023. Most popular hashtags: #love #comedian #comedy.
+  Find top comedians Instagram influencers in France in 2024. Most popular hashtags: #comedy #love #cinema.
 platform: Instagram
-hits: 250
-text_top: Discover the best Instagram influencers on inBeat.
-text_bottom: Our search engine holds 250 Instagram influencers like this in France for you to connect with.
+hits: 240
+text_top: Analyze the top-rated Instagram influencers on inBeat.
+text_bottom: Our search engine holds 240 Instagram influencers like this in France for you to pitch.
 profiles:
+  - username: "nidhal.saadi.officiel"
+    fullname: >-
+      Nidhal Saadi
+    bio: >-
+      ▪️Agent : @elise_fecamp : Adequat ▪️Actor-Comedian
+    location: "France"
+    followers: 3316548
+    engagement: 182
+    commentsToLikes: 0.005893
+    id: ck8t3w7po4pti0j78e0su3vc2
+    verified: true
+    hashtags: "#honeymoon, #seychelles, #love, #carshaw"
+  - username: "realangefreddy"
+    fullname: >-
+      Ange Freddy
+    bio: >-
+      Dad, Husband, Comedian. @lesstudiosaf
+    location: "France"
+    followers: 1389049
+    engagement: 78
+    commentsToLikes: 0.036115
+    id: ck5hjzly8hj2v0i11f81h6szg
+    verified: false
+    hashtags: "#geh2024, #lagarce, #108mp, #itels24108mp"
+  - username: "hodgetwins"
+    fullname: >-
+      Hodgetwins
+    bio: >-
+      🇺🇸 Political Comedians 🇺🇸 NEW PODCAST: @thetwinspod 👇Enter our giveaways
+    location: "France"
+    followers: 2578634
+    engagement: 43
+    commentsToLikes: 0.044913
+    id: ck139u5jdn4nm0i191quymlqd
+    verified: false
+    hashtags: "#icespice, #hiphop, #race, #blm"
   - username: "sukhojla"
     fullname: >-
       Sukh Ojla
@@ -19,30 +55,6 @@ profiles:
     id: ckaotxnqfxyn60i78uo371mb7
     verified: false
     hashtags: "#comedy, #love, #comedian, #punjabi"
-  - username: "sebmellia"
-    fullname: >-
-      Seb Mellia
-    bio: >-
-      - Stand up comedian - 🎭🎙🇫🇷
-    location: "France"
-    followers: 125940
-    engagement: 341
-    commentsToLikes: 0.016826
-    id: ck55ku3fa03lw0i114yokhdf5
-    verified: true
-    hashtags: "#geneve, #ducati, #panigale"
-  - username: "merouane_guerouabi_"
-    fullname: >-
-      Merouane Guerouabi
-    bio: >-
-      Comedian 📩 contact.merouaneguerouabi@gmail.com
-    location: "France"
-    followers: 2614202
-    engagement: 371
-    commentsToLikes: 0.052741
-    id: ck6ufvwb2zfu30j717gw61xy0
-    verified: false
-    hashtags: ""
   - username: "doneljacksman"
     fullname: >-
       doneljacksman
@@ -55,54 +67,6 @@ profiles:
     id: ck14lei5cua280i19qf3v1eh6
     verified: true
     hashtags: "#standup, #ensemble, #arretezca, #television"
-  - username: "sayfou_dn"
-    fullname: >-
-      Saif Eddinne🇹🇳🇸🇦
-    bio: >-
-      ⚛Tunisiane 🇹🇳 ⚛ Comedian ⚛compte officiel ⚛ I live Saudia Arabia 🇸🇦
-    location: "France"
-    followers: 31509
-    engagement: 9
-    commentsToLikes: 0.016666
-    id: ck0w10nrzgz230i19bygz6vni
-    verified: false
-    hashtags: ""
-  - username: "sagalove_officiel"
-    fullname: >-
-      Saga Love
-    bio: >-
-      🌍❤️ 🤳🏾🍿Votre talk show tous les Vendredi 22h 🏆#Best African Comedian hired for Africa 2020 📩 Niamke_chris@hotmail.fr
-    location: "France"
-    followers: 184445
-    engagement: 444
-    commentsToLikes: 0.025617
-    id: ck5byb3x4othn0i11sssn6xww
-    verified: false
-    hashtags: "#bienjouer, #nonstoppeople, #free, #liguedeschampions"
-  - username: "chloelafricaine"
-    fullname: >-
-      Chloelafricaine
-    bio: >-
-      Actrice / Comedian/Model/👸🏽 8ans/years | Love to express myself in Lingala #ezayakoyinda 🌍 🇨🇩🇳🇱 📧chloelafricaine@gmail.com Abonnez vous 😉 ⬇️
-    location: "France"
-    followers: 38168
-    engagement: 449
-    commentsToLikes: 0.012398
-    id: ck14jtv4ym5pe0i19gsekr8cv
-    verified: false
-    hashtags: "#banacongo, #congiyabiso, #mwanamboka, #kidsmodel"
-  - username: "nidhal.saadi.officiel"
-    fullname: >-
-      Nidhal Saadi
-    bio: >-
-      ▪️www.nidhalsaadi.com ▪️Actor - Comedian - Tv host
-    location: "France"
-    followers: 2408940
-    engagement: 207
-    commentsToLikes: 0.009496
-    id: ck8t3w7po4pti0j78e0su3vc2
-    verified: true
-    hashtags: "#calvinklein, #dowhatyoucant, #samsung, #sayeb"
   - username: "gadelmalehmania"
     fullname: >-
       Gad Elmaleh
@@ -115,16 +79,52 @@ profiles:
     id: ck5c4gxyc1c080i11nw77zam5
     verified: false
     hashtags: "#dailleurs, #jazz, #deccarecords, #jazzmusic"
-  - username: "cedricdoumbe"
+  - username: "johaus"
     fullname: >-
-      The Best🥇الحمد لله
+      Joanna "Rants" Hausmann
     bio: >-
-      🏆|Current Kick Boxing World Champion (11x) 🎥|Actor, Comedian ⚔️|Defender of women #BeAMan 🥑|@nutrimuscle and @seazon Athlete (get your-30% off)
+      Comedian. TV Writer. Actor. Venezuelan. #JoannaRants on YouTube. On @netflix & @comedycentral. Monsters & Aliens on @pixar /@disney. Your weird cousin
     location: "France"
-    followers: 231612
-    engagement: 276
-    commentsToLikes: 0.013571
-    id: ck6tqcy8sqqfd0j712b70xkpc
+    followers: 195598
+    engagement: 485
+    commentsToLikes: 0.024280
+    id: ck55lie3b1n6e0i11qic8p36f
     verified: true
-    hashtags: "#instagram, #instagood, #bodybuilding, #mma"
+    hashtags: "#forddrivingdreams, #hyphenatedpodcast, #ad, #fordgivesback"
+  - username: "smarxmarx"
+    fullname: >-
+      Sebastian Marx
+    bio: >-
+      American comedian living in France. Spectacle en français en rodage en tournée et à Paris à partir de septembre.
+    location: "France"
+    followers: 27775
+    engagement: 652
+    commentsToLikes: 0.020791
+    id: ck5hogu7upjfe0i1178sxbqvi
+    verified: false
+    hashtags: ""
+  - username: "ditteoglouise"
+    fullname: >-
+      Ditte og Louise
+    bio: >-
+      Writers/actresses/comedians. Vores bog Gode kasser kan købes her 👇🏼
+    location: "France"
+    followers: 20076
+    engagement: 499
+    commentsToLikes: 0.026315
+    id: ck6tj3ig81xrd0j71qcpy8jg5
+    verified: false
+    hashtags: "#powerofwomenfestival, #blackouttuesday, #mandelgave, #fuckthepatriarchy"
+  - username: "bernard.casey.comedy"
+    fullname: >-
+      Bernard Casey
+    bio: >-
+      Comedian - Actor - Drama Teacher Local Gossip, Polish Barman, Irish Listening Test, French Oral. If you'd like to support, become a PATREON ⬇️
+    location: "France"
+    followers: 22446
+    engagement: 315
+    commentsToLikes: 0.026116
+    id: ck6twbko8r2ff0j71kk8w3q6b
+    verified: false
+    hashtags: "#createdontcontaminate, #irishcomedy, #bernardcaseycomedy, #coronavirus"
 ---

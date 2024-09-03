@@ -1,11 +1,11 @@
 ---
-title: Top 10 Cyclists Instagram Influencers In 2023
+title: Top 10 Cyclists Instagram Influencers In 2024
 description: >-
-  Find top cyclists Instagram influencers in 2023. Most popular hashtags: #cycling #cyclinglife #ciclismo.
+  Find top cyclists Instagram influencers in 2024. Most popular hashtags: #cycling #roadbike #ciclismo #bikelife.
 platform: Instagram
-hits: 987
-text_top: Discover the most popular Instagram influencers on inBeat.
-text_bottom: Our database has 987 Instagram influencers like this for you to work with.
+hits: 1026
+text_top: See the top-rated Instagram profiles on inBeat.
+text_bottom: Our database holds 1026 Instagram influencers like this for you to work with.
 profiles:
   - username: "tommeeusen"
     fullname: >-
@@ -19,112 +19,112 @@ profiles:
     id: ck5byx1v7q0p90i11b7qsnen5
     verified: false
     hashtags: ""
-  - username: "carolinafrancov"
+  - username: "jannik_steimle"
     fullname: >-
-      Carolina Franco Villegas
+      Jannik Steimle
     bio: >-
-      ●•Social Media Communicator ●•Singer ●•Model ●•Cyclist 》From Medellín, Colombia 》carolina.franco.villegas@gmail.com
-    location: "Colombia"
-    followers: 64316
-    engagement: 540
-    commentsToLikes: 0.058125
-    id: ck5bwvxkemiqi0i11a3j02jli
-    verified: false
-    hashtags: "#cyclinglife, #ciclismo, #gorigogooficial, #cycling"
-  - username: "gloriavanmechelen"
-    fullname: >-
-      Gloria Van Mechelen
-    bio: >-
-      🇱🇹🇧🇪 Cyclist for @cannibalteam tiktok: fruitybae
-    location: "United States"
-    followers: 2406
-    engagement: 2045
-    commentsToLikes: 0.170805
-    id: ckapckyky48w60i786b5rzcvn
-    verified: false
-    hashtags: "#nationalgeographic, #nature, #unreap, #fuckerfits"
-  - username: "king_iz"
-    fullname: >-
-      Isabel King
-    bio: >-
-      D1 soccer-> trading floor-> MBA-> pro triathlete-> cyclist? Sure. Why not try? Wear orange. Be fast and friendly. 🧡⚡️🚲 for @canyon_na
-    location: "United States"
-    followers: 11906
-    engagement: 1378
-    commentsToLikes: 0.042581
-    id: ckaownu5i9nre0i78jt33ckl0
-    verified: false
-    hashtags: "#climbmountains, #yikes, #selfinducedshortnessofbreath, #whosideawasthis"
-  - username: "_sicht_weise"
-    fullname: >-
-      Kathrin | 📍 Augsburg
-    bio: >-
-      Meine (nicht immer so weise) Sicht der Dinge 🏊‍♀️ #bleiente 🚴🏼‍♀️ #cyclist 🏃‍♀️ #runner 42k ♥️ empathische Wortakrobatin 🍑 schenkt & sucht #motivation
+      |Lara💍| |German Pro Cyclist 🇩🇪| |@soudalquickstepteam 🇧🇪| |@wassermancycling 🇧🇪|
     location: "Germany"
-    followers: 13987
-    engagement: 1344
-    commentsToLikes: 0.046314
-    id: ck0tvvcizcy860i193wvocbnr
+    followers: 15447
+    engagement: 807
+    commentsToLikes: 0.013537
+    id: ck14kv70zrgz50i19orzeaij4
     verified: false
-    hashtags: "#correr, #rennradm, #runningmom, #instafriends"
-  - username: "woutvanaert"
+    hashtags: "#mood, #herewego, #deceuninckquickstepteam, #picoftheday"
+  - username: "rubywisaac"
     fullname: >-
-      Wout van Aert
+      Ruby Isaac
     bio: >-
-      🤍 Georges 👶🏼 & Sarah 💍 🚴‍♂️ Cyclist @jumbovisma_road & @RedBullBE athlete ✌🏼 Godfather @towalkagain 🗣 'Stilstaan is achteruitgaan' #all4goolie
-    location: "United States"
-    followers: 423441
-    engagement: 1470
-    commentsToLikes: 0.014928
-    id: ck0tw2nspdr8w0i192v7k3gis
-    verified: true
-    hashtags: "#covid, #newkitday, #staysafetogether, #nationals"
-  - username: "jasperphilipsen"
-    fullname: >-
-      Jasper Philipsen
-    bio: >-
-      - Professional cyclist for @alpecinfenix - Represented by @squadrasportsmanagement
+      Dreaming of being a professional cyclist.🚴🏻‍♀️ 15 yrs old from UK Proud @lidltrek advocate #TeamRuby Skipping on rollers 👇🏻👇🏻
     location: "United Kingdom"
-    followers: 17544
-    engagement: 1548
-    commentsToLikes: 0.030622
-    id: ck5qe0jr7y5a20i11miq9mp2f
+    followers: 32847
+    engagement: 669
+    commentsToLikes: 0.018731
+    id: ck15tsccmjna10i19tilk1zu9
     verified: false
-    hashtags: "#uaeteamemirates, #ridetogether, #cycling, #limburgforlife"
-  - username: "sarah_allthingsoutdoors"
+    hashtags: "#cx, #roadracing, #sram, #mtb"
+  - username: "trail_scouts"
     fullname: >-
-      SARAH️️ | Cycling Adventures
+      Hugh Brown
     bio: >-
-      plant-based cyclist & outdoors lover exploring the world on two wheels 🚲 @iamspecialized | 🗺 @garmincycling 📩 sarah@outdoorsaffair.com 📍Los Angeles
+      23 year old mountain cyclist 🚲 Trail Builder ⛏️ Golden, BC 🇨🇦 180k on TikTok
+    location: "Canada"
+    followers: 22215
+    engagement: 1339
+    commentsToLikes: 0.018242
+    id: ckap5d68cb55z0i789503xbw5
+    verified: false
+    hashtags: "#bike, #mtbgods, #mtblife, #ride"
+  - username: "pusateriandrea"
+    fullname: >-
+      Andrea Pusateri
+    bio: >-
+      LIMITLESS GUY 🇮🇹 TEAM @adidasita 🚴🏻‍♂️ PRO cyclist MC1 🎖️ Pedalo oltre le sfide e ispiro altri a fare lo stesso
+    location: "Italy"
+    followers: 143017
+    engagement: 878
+    commentsToLikes: 0.043665
+    id: ck0vwajjlsu100i194hnx1y0i
+    verified: true
+    hashtags: "#paracycling, #cycling, #paralympics, #paracyclist"
+  - username: "kam.cycling"
+    fullname: >-
+      Kamila Panasiuk
+    bio: >-
+      Female cyclist. Currently dealing with cancer 🦀. Photographer @kamilapanasiuk.photostory ⬇️Check my books 📕
+    location: "Poland"
+    followers: 27293
+    engagement: 407
+    commentsToLikes: 0.037448
+    id: ck15q64s51aj50i19qkmzr63o
+    verified: false
+    hashtags: "#photographer, #cyclingadventures, #cyclingfashion, #cyclinglifestyle"
+  - username: "natalinka_87"
+    fullname: >-
+      Natalie
+    bio: >-
+      🇵🇱🇩🇪 • Dog Mum 🐶 • Travel addicted 🏝️ • Cyclist 🚴‍♀️ • 🌱
+    location: "Germany"
+    followers: 7611
+    engagement: 501
+    commentsToLikes: 0.021161
+    id: ckap37aky1uoh0i78ws532vgx
+    verified: false
+    hashtags: "#strava, #bestrong, #instagood, #woman"
+  - username: "shawnneer"
+    fullname: >-
+      Shawn Neer
+    bio: >-
+      Professional Cyclist + MTB Coach @yeticycles | @hunt.mountain | @smithoptics | @wildernesstrailbikes Co-Owner of @espressoforge
     location: "United States"
-    followers: 98046
-    engagement: 227
-    commentsToLikes: 0.043344
-    id: ck0vvwfj1r2lr0i19i5dtm7ug
+    followers: 22851
+    engagement: 605
+    commentsToLikes: 0.033880
+    id: ck0tz2chyow5d0i19vvcilr85
     verified: false
-    hashtags: "#specializedbikes, #maapapparel, #garmincycling, #maapinthefield"
-  - username: "_____laetitia"
+    hashtags: "#sb150, #ourbmxclips, #yeticycles, #ridedriven"
+  - username: "marco_brnr"
     fullname: >-
-      outdoor sports enthusiast🐒
+      Marco Brenner
     bio: >-
-      •⛷|Skier 🚴‍♀️|Cyclist 🤿|Diver 🥾|Hiker 🤸‍♀️|Gymnast 🎾|TennisPlayer •UOB-PE🏃‍♀️
-    location: ""
-    followers: 7100
-    engagement: 720
-    commentsToLikes: 0.083291
-    id: ckap3n17n3ozo0i78hgdkz1gr
+      Professional cyclist 🇩🇪 || @teamdsm_ 📨 @corsosports 📌Augsburg / Andorra 🇦🇩 👨🏽‍💼 @team_marcobrenner #MuschZiege🐐 ⤵️
+    location: "Germany"
+    followers: 10819
+    engagement: 1150
+    commentsToLikes: 0.007064
+    id: ckqm6wnzju0hk0j23zeu00o20
     verified: false
-    hashtags: "#photooftheday, #wildlife, #snow, #roadbike"
-  - username: "clarahonsinger"
+    hashtags: "#keepchalle, #keepchal, #blueprecision, #noshortcuts"
+  - username: "jasonosbornerowing"
     fullname: >-
-      Clara Honsinger
+      Jason Osborne
     bio: >-
-      Cyclist of Various Types
-    location: "United States"
-    followers: 7421
-    engagement: 1548
-    commentsToLikes: 0.031901
-    id: ck5c4x1pc2ane0i11akfszhtg
+      Pro Cyclist @alpecindeceuninck Former Rower 🚣 Olympic Silver Medalist 🥈🇯🇵 Esports World Champion 🌈🥇🥈🥉
+    location: "Germany"
+    followers: 17064
+    engagement: 1423
+    commentsToLikes: 0.008708
+    id: ck5znivmnojyz0i14resqaj9p
     verified: false
-    hashtags: "#cyclocross, #ucicyclocrossworldcup, #cannondalewomen, #etap"
+    hashtags: "#hot, #pain, #bicycle, #sexy"
 ---

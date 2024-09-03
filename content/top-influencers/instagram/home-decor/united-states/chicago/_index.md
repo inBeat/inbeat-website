@@ -1,12 +1,24 @@
 ---
-title: Top 10 Home Decor Instagram Influencers In Chicago In 2023
+title: Top 10 Home Decor Instagram Influencers In Chicago In 2024
 description: >-
-  Find top home decor Instagram influencers in Chicago in 2023. Most popular hashtags: #chicago #homedecor #love #art.
+  Find top home decor Instagram influencers in Chicago in 2024. Most popular hashtags: #chicago #homedecor #ootd #chicagogram.
 platform: Instagram
-hits: 58
-text_top: Discover the top-rated Instagram accounts on inBeat.
-text_bottom: inBeat aggregates 58 Instagram influencers like this in Chicago, United States for you to work with.
+hits: 83
+text_top: Identify the best Instagram profiles on inBeat.
+text_bottom: inBeat has 83 Instagram influencers like this in Chicago, United States for you to work with.
 profiles:
+  - username: "heidiorrr"
+    fullname: >-
+      Heidi Ordillas | Chicago Creator & Lifestyle
+    bio: >-
+      Stylish Storytelling | UGC & SMM: @kosmo.creative ❉ Experiences • Travel • Food • Culture ♡ @chicagobucketlist Creator ✐ heidixordillas@gmail.com
+    location: "United States"
+    followers: 18248
+    engagement: 943
+    commentsToLikes: 0.003967
+    id: ck5zv5j4c3mib0i14ogoebqm7
+    verified: false
+    hashtags: "#chicagocontentcreators, #chicago, #chicagorestaurants, #chicagocontentcreator"
   - username: "nikolina.with.k"
     fullname: >-
       
@@ -19,42 +31,18 @@ profiles:
     id: ckapahvrgw6hi0i78rz8uiew0
     verified: false
     hashtags: "#blogger, #blogging, #ootdmagazine, #fashiongram"
-  - username: "sarashakeel"
+  - username: "maria.koche"
     fullname: >-
-      Sara Shakeel
+      Maria Koché
     bio: >-
-      I was a Dentist - Now an ARTrepreneur Award Winning Artist Each picture heals a part of me & i hope it heals a part of you too info@sarashakeel.com
+      ⭕️IFPA Certified Flexibility Specialist @aspis_chicago ⭕️Dancer @columbiachi @insomniacevents ⭕️Model @moorecreativetalent 📍#chicago
     location: "United States"
-    followers: 1030581
-    engagement: 271
-    commentsToLikes: 0.007357
-    id: ck0tx8yy7ian90i19iftgqpbm
-    verified: true
-    hashtags: "#artist, #happy, #prayer, #digital"
-  - username: "emmystarbrown"
-    fullname: >-
-      Emmy Star Brown
-    bio: >-
-      Playing in color ✨ Chicago Murals, Paintings, Design, Lettering New work & inquiries:
-    location: "United States"
-    followers: 11799
-    engagement: 799
-    commentsToLikes: 0.045794
-    id: ck5cep5eplfi90i11m8i3iyjt
+    followers: 14933
+    engagement: 361
+    commentsToLikes: 0.072883
+    id: ck15qs12r4ct40i190sexxn5p
     verified: false
-    hashtags: "#abstract, #publicart, #art, #balance"
-  - username: "emmasthing"
-    fullname: >-
-      emma golden
-    bio: >-
-      ✨the blog about everything (est. 2010)✨ not a fashion blog but I have style. not a fitness blog but I workout. not a food blog but I love to cook.
-    location: "United States"
-    followers: 11925
-    engagement: 445
-    commentsToLikes: 0.054027
-    id: ck0w2l6faowz20i19hs0fabhc
-    verified: false
-    hashtags: "#funny, #fyp, #foryoupage, #texassummer"
+    hashtags: "#chicagofitness, #chicago, #flexibility, #chicagofit"
   - username: "wilderpoetry"
     fullname: >-
       W I L D E R
@@ -79,52 +67,64 @@ profiles:
     id: ckaoqrxz0k3gu0i7807hbcefm
     verified: false
     hashtags: "#elledecor, #dominomagazine, #modernliving, #masterbedroomdecor"
-  - username: "laurynlately"
+  - username: "chicagoishmama"
     fullname: >-
-      Lauryn Henry Maynard
+      Chicagoish Mama
     bio: >-
-      PETITE FASHION | TRAVEL | LIFESTYLE | MOM TO BE 🤰🏼 📍DALLAS 📩: lauryn@laurynlately.com
+      Lifestyle Blogger that Embraces the Chaos of Motherhood one post at a time Mom to Emma & Dylan & Carson Based in Chicago suburbs
     location: "United States"
-    followers: 18878
-    engagement: 90
-    commentsToLikes: 0.134624
-    id: ck5zxuutd8pgk0i14b89ayddp
+    followers: 40403
+    engagement: 456
+    commentsToLikes: 0.021858
+    id: cl78lbioqpyqm0i23y1js89u6
     verified: false
-    hashtags: "#expresspartner, #outfitideas, #momblogger, #bloggerstyle"
-  - username: "maria.koche"
+    hashtags: "#napervillemoms, #giftideas, #ad, #makemorememories"
+  - username: "natalieminalee"
     fullname: >-
-      Maria Koché
+      Natalie Lee
     bio: >-
-      ⭕️IFPA Certified Flexibility Specialist @aspis_chicago ⭕️Dancer @columbiachi @insomniacevents ⭕️Model @moorecreativetalent 📍#chicago
+      chicago | @outofthepods host
     location: "United States"
-    followers: 14933
-    engagement: 361
-    commentsToLikes: 0.072883
-    id: ck15qs12r4ct40i190sexxn5p
+    followers: 689759
+    engagement: 441
+    commentsToLikes: 0.018936
+    id: cl1vb285bd79t0i2310dbirc9
     verified: false
-    hashtags: "#chicagoyoga, #activeflexibility, #flexible, #chicago"
-  - username: "maynev9"
+    hashtags: "#realitytvpodcast, #loveisblindseason6, #podcastclips, #outofthepods"
+  - username: "sri.jee13"
     fullname: >-
-      Mayra
+      Srijita M.🌻 Fashion & Travel
     bio: >-
-      She/Her we limit ourselves by defining ourselves.
+      Experiencing the world in style ✨ 📍Florida🇺🇸 🌎Travel blogs | Outfit ideas | Affordable fashion 🐶 @imbeaudude 👩🏻‍🍳@insideafoodiemind Check my outfits👇
     location: "United States"
-    followers: 9284
-    engagement: 578
-    commentsToLikes: 0.017236
-    id: ck1368ynv5bzi0i19m4ugfyod
+    followers: 16080
+    engagement: 388
+    commentsToLikes: 0.268871
+    id: cl7zclminziwd0i23brt77kww
     verified: false
-    hashtags: "#life, #androgynousmodel, #model, #ftm"
-  - username: "sdamiani"
+    hashtags: "#travelgram, #chicagotrip, #chicagoblog, #reelsinstagram"
+  - username: "stylinbrunette"
     fullname: >-
-      Sveta 🌿 Chicago, IL
+      Kristel Powell
     bio: >-
-      • travel + lifestyle • content creation • sveta.damiani@gmail.com
+      💖Lifestyle Blogger 💖 Mahjong Instructor @troopmahjong 💖Designing Magnets for your Stanley & Yeti cups 💖Grandmillennial, Home Decor, & Outfits
     location: "United States"
-    followers: 120387
-    engagement: 239
-    commentsToLikes: 0.036041
-    id: ck0ucguuugr200i19u7r0o8pr
+    followers: 69909
+    engagement: 40
+    commentsToLikes: 0.082158
+    id: ckqq5z58jwrh80j234udpf9qe
     verified: false
-    hashtags: "#mydomainetravels, #cornersofmyhome, #hyggehome, #theotherdc"
+    hashtags: "#stylinbrunettemagnets, #mahjongg, #galentinesparty, #mahjong"
+  - username: "emmystarbrown"
+    fullname: >-
+      Emmy Star Brown
+    bio: >-
+      Playing in color ✨ Chicago Murals, Paintings, Design, Lettering New work & inquiries:
+    location: "United States"
+    followers: 11799
+    engagement: 799
+    commentsToLikes: 0.045794
+    id: ck5cep5eplfi90i11m8i3iyjt
+    verified: false
+    hashtags: "#muralist, #abstractart, #artstudio, #wip"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Yoga TikTok Influencers In Indonesia In 2023
+title: Top 10 Yoga TikTok Influencers In Indonesia In 2024
 description: >-
-  Find top yoga TikTok influencers in Indonesia in 2023. Most popular hashtags: #fyp #fypage #duet.
+  Find top yoga TikTok influencers in Indonesia in 2024. Most popular hashtags: #fyp #fypage #fypindonesia.
 platform: TikTok
 hits: 8
-text_top: See the best TikTok accounts on inBeat.
-text_bottom: Our platform holds 8 TikTok influencers like this in Indonesia for you to connect with.
+text_top: Analyze the most popular TikTok influencers on inBeat.
+text_bottom: Our search engine holds 8 TikTok influencers like this in Indonesia for you to connect with.
 profiles:
   - username: "yogayogitwins"
     fullname: >-
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.050169
     id: ck9fme94ft2n40j78bx0jig2x
     verified: false
-    hashtags: "#fyp, #sunset, #bali, #tiktoktravel"
+    hashtags: "#sunset, #tiktoktravel, #bali, #fyp"
   - username: "melisachandraaa"
     fullname: >-
       Melisa Chandra

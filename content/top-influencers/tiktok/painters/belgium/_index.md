@@ -1,11 +1,11 @@
 ---
-title: Top 10 Painters TikTok Influencers In Belgium In 2023
+title: Top 10 Painters TikTok Influencers In Belgium In 2024
 description: >-
-  Find top painters TikTok influencers in Belgium in 2023. Most popular hashtags: #foryou #fyp #fashion #aesthetic.
+  Find top painters TikTok influencers in Belgium in 2024. Most popular hashtags: #foryou #fyp #fashion #aesthetic.
 platform: TikTok
 hits: 9
-text_top: Discover the top-rated TikTok profiles on inBeat.
-text_bottom: inBeat has 9 TikTok influencers like this in Belgium for you to contact.
+text_top: See the best TikTok profiles on inBeat.
+text_bottom: Our database holds 9 TikTok influencers like this in Belgium for you to pitch.
 profiles:
   - username: "redbullbe"
     fullname: >-
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.012326
     id: ckcuz6tobmnq90j23ocbdaiad
     verified: false
-    hashtags: "#foruyou, #outfits, #viral, #closet"
+    hashtags: "#outfits, #fits, #foryou, #fashion"
   - username: "keansuspensions"
     fullname: >-
       keansuspensions
@@ -54,7 +54,7 @@ profiles:
     commentsToLikes: 0.014260
     id: ckb91uvw8hs360j23mkoltz3w
     verified: false
-    hashtags: "#keansuspensions, #ferrari, #pourtoi, #fyp"
+    hashtags: "#supercar, #pantera, #pourtoi, #foryou"
   - username: "sandrine_lb"
     fullname: >-
       Sandrine Libert

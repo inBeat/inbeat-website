@@ -1,12 +1,60 @@
 ---
-title: Top 10 Gymnasts Instagram Influencers In France In 2023
+title: Top 10 Gymnasts Instagram Influencers In France In 2024
 description: >-
-  Find top gymnasts Instagram influencers in France in 2023. Most popular hashtags: #flexible #model #hairstyle.
+  Find top gymnasts Instagram influencers in France in 2024. Most popular hashtags: #gymnast #photography #model.
 platform: Instagram
-hits: 132
-text_top: See the top-rated Instagram influencers on inBeat.
-text_bottom: inBeat has 132 Instagram influencers like this in France for you to connect with.
+hits: 152
+text_top: See the best Instagram accounts on inBeat.
+text_bottom: Our search engine aggregates 152 Instagram influencers like this in France for you to pitch.
 profiles:
+  - username: "linoy_ashram"
+    fullname: >-
+      Linoy Ashram
+    bio: >-
+      Israel 🇮🇱 Olympic champion in rhythmic gymnastics #tokyo2020 o 2020🥇
+    location: "France"
+    followers: 180831
+    engagement: 450
+    commentsToLikes: 0.017724
+    id: ck0vz4h9v79fb0i19463hposd
+    verified: true
+    hashtags: "#createdwithadidas, #baku2023, #ultraboost21, #imposibleisnothing"
+  - username: "jim_zona"
+    fullname: >-
+      Jim Zona
+    bio: >-
+      🇫🇷 International Gymnast - Insep PARIS ⚡️ Road to Paris 2024 Olympics 🖥 Full stack designer
+    location: "France"
+    followers: 7681
+    engagement: 732
+    commentsToLikes: 0.016373
+    id: ck6ui32dicruh0j71tol46j4w
+    verified: false
+    hashtags: "#backinthelab, #eltrio, #vanlife, #basel2021"
+  - username: "mathilde_wahl"
+    fullname: >-
+      Mathilde Wahl
+    bio: >-
+      french gymnast / 18yo INSEP /📍Haguenau Ambassadrice @quatrofrance / @quatrogymnastics série « Champion(s) » France TV 🔥
+    location: "France"
+    followers: 4986
+    engagement: 1195
+    commentsToLikes: 0.021886
+    id: ck5zkfea4jdsk0i14xktwyx6d
+    verified: false
+    hashtags: "#mondaymotivation, #gohags, #bestteam, #top12"
+  - username: "insidegym"
+    fullname: >-
+      Inside Gymnastics Magazine
+    bio: >-
+      🤸🏻‍♂️Your Go-To Magazine for All Things Gymnastics! ⬇️Digital & Print Subscriptions Available!
+    location: "France"
+    followers: 313136
+    engagement: 56
+    commentsToLikes: 0.005320
+    id: ck0u83fot6gi10i19jahmplho
+    verified: false
+    hashtags: "#gymnast, #ozoneleos, #gymnastics, #gymnasticsvideos"
   - username: "olimpia_noa"
     fullname: >-
       Olimpia Noa Pietras
@@ -79,52 +127,4 @@ profiles:
     id: ckaoucfk7zoqg0i78p9yc5d9f
     verified: false
     hashtags: ""
-  - username: "alizee_letrange"
-    fullname: >-
-      Alizée Letrange
-    bio: >-
-      -french gymnast🇫🇷 -Sainté📍|| Strasbourg -@quatrofrance/@quatrogymnastics ambassador
-    location: "France"
-    followers: 6807
-    engagement: 2283
-    commentsToLikes: 0.023147
-    id: ck5bzv9tdrwl80i112fgr30ov
-    verified: false
-    hashtags: "#stayathome, #16"
-  - username: "oreaneelechenault83"
-    fullname: >-
-      Oréane Lechenault Officiel 😁
-    bio: >-
-      • Ex french gymnast 🇫🇷 • Jeux Olympique Rio 2016 🇧🇷 • Championnat d’Europe 🥉 • 20 yo • Formation Éducatrice Spécialisée • @odamemh_ 😎
-    location: "France"
-    followers: 27770
-    engagement: 1896
-    commentsToLikes: 0.012842
-    id: ck5pvfqhshnvx0i111cvzv75y
-    verified: false
-    hashtags: "#24hourschallenge"
-  - username: "robyn_contortion"
-    fullname: >-
-      𝗥𝗼𝗯𝘆𝗻 𝗕𝗲𝘁𝘁𝗲𝗿𝗶𝗱𝗴𝗲 🇬🇧 📸 🎬
-    bio: >-
-      ⚠️ Parent Run Account ⚠️ 🧘‍♀️#contortionist 🤸‍♂️#gymnastics 🩰#ballet 🎪 #circus 📸 @robyn.uk -#actress #model @kidslondon 🎞 🎥 👇Web 𝘓𝘪𝘯𝘬👇
-    location: "France"
-    followers: 48092
-    engagement: 339
-    commentsToLikes: 0.055625
-    id: ck15rajou6z3g0i19w7c0w8lm
-    verified: false
-    hashtags: "#kidsyoga, #contortiontraining, #bendybody, #contortion"
-  - username: "mathilde_wahl"
-    fullname: >-
-      Mathilde Wahl
-    bio: >-
-      ~ French gymnast 🤸🏼‍♀️🇫🇷 / 16yo ~ INSEP /📍Haguenau ~ Ambassadrice @quatrofrance / @quatrogymnastics 🤍
-    location: "France"
-    followers: 4038
-    engagement: 2243
-    commentsToLikes: 0.029062
-    id: ck5zkfea4jdsk0i14xktwyx6d
-    verified: false
-    hashtags: "#mondaymotivation, #hags, #bestteam, #haguenau"
 ---

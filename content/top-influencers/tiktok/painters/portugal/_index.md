@@ -1,11 +1,11 @@
 ---
-title: Top 10 Painters TikTok Influencers In Portugal In 2023
+title: Top 10 Painters TikTok Influencers In Portugal In 2024
 description: >-
-  Find top painters TikTok influencers in Portugal in 2023. Most popular hashtags: #fyp #foryoupage #foryou #viral.
+  Find top painters TikTok influencers in Portugal in 2024. Most popular hashtags: #fyp #foryoupage #foryou #viral.
 platform: TikTok
 hits: 9
-text_top: Discover the best TikTok profiles on inBeat.
-text_bottom: inBeat holds 9 TikTok influencers like this in Portugal for you to pitch.
+text_top: Identify the best TikTok accounts on inBeat.
+text_bottom: Our database has 9 TikTok influencers like this in Portugal for you to contact.
 profiles:
   - username: "brunorangelnaves"
     fullname: >-
@@ -66,7 +66,7 @@ profiles:
     commentsToLikes: 0.031471
     id: cka6nib7tbj7u0i78vifxhcic
     verified: false
-    hashtags: "#aesthetic, #foryou, #outfitinspo, #fashioninspo"
+    hashtags: "#outfitideas, #outfitinspiration, #mingalondon, #foryou"
   - username: "sestay"
     fullname: >-
       Maria Inês

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Christian TikTok Influencers In Italy In 2023
+title: Top 10 Christian TikTok Influencers In Italy In 2024
 description: >-
-  Find top christian TikTok influencers in Italy in 2023. Most popular hashtags: #perte #fyp #foryou #duetto.
+  Find top christian TikTok influencers in Italy in 2024. Most popular hashtags: #perte #fyp #foryou #duetto.
 platform: TikTok
-hits: 79
-text_top: Identify the top-rated TikTok accounts on inBeat.
-text_bottom: Our database has 79 TikTok influencers like this in Italy for you to pitch.
+hits: 76
+text_top: Discover the most popular TikTok accounts on inBeat.
+text_bottom: Our search engine aggregates 76 TikTok influencers like this in Italy for you to contact.
 profiles:
   - username: "damn.tee"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.009175
     id: ck9du4o2cewjt0j786a1u6xgw
     verified: false
-    hashtags: "#foryoupage, #makeup, #foryou, #fy"
+    hashtags: "#foryoupage, #makeup, #fyp, #foryou"
   - username: "baby_jonn"
     fullname: >-
       Jonathan
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.109749
     id: ck9e1ulg0cfew0j78gvmjg7s2
     verified: false
-    hashtags: "#alessandropacifici, #twins, #desica, #duetto"
+    hashtags: "#pintus, #desica, #duetto, #alessandropacifici"
   - username: "madaria"
     fullname: >-
       Arianna Madonna
@@ -54,7 +54,7 @@ profiles:
     commentsToLikes: 0.011019
     id: ckbf3ymb4s5r40j23k3605b8n
     verified: false
-    hashtags: "#charlidamelio, #greenscreen, #madslewis, #kyliejenner"
+    hashtags: "#madslewis, #greenscreen, #charlidamelio, #elliezeiler"
   - username: "bogdansolomenco"
     fullname: >-
       Bogdan Solomenco
@@ -90,7 +90,7 @@ profiles:
     commentsToLikes: 0.006379
     id: ck900atgbaaad0j78cfatneoc
     verified: true
-    hashtags: "#coronavirus, #iorestoacasa, #couplecomedy, #tiktokchallenge"
+    hashtags: "#iorestoacasa, #tiktokchallenge, #couplecomedy, #coronavirus"
   - username: "christianpaparini"
     fullname: >-
       il PAPA🌵
@@ -126,5 +126,5 @@ profiles:
     commentsToLikes: 0.033522
     id: ckdmqu8us9n060j2383zuehbp
     verified: false
-    hashtags: "#foru, #fyp, #duetto, #perte"
+    hashtags: "#perte, #foru, #duetto, #viral"
 ---

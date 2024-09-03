@@ -1,24 +1,72 @@
 ---
-title: Top 10 Home Decor Instagram Influencers In Austin In 2023
+title: Top 10 Home Decor Instagram Influencers In Austin In 2024
 description: >-
-  Find top home decor Instagram influencers in Austin in 2023. Most popular hashtags: #homedecor #austintexas #austin #interiordesign.
+  Find top home decor Instagram influencers in Austin in 2024. Most popular hashtags: #homedecor #atx #interiordesign #texas.
 platform: Instagram
-hits: 61
-text_top: See the best Instagram accounts on inBeat.
-text_bottom: Our search engine has 61 Instagram influencers like this in Austin, United States for you to collaborate.
+hits: 98
+text_top: Identify the best Instagram influencers on inBeat.
+text_bottom: inBeat holds 98 Instagram influencers like this in Austin, United States for you to contact.
 profiles:
-  - username: "josieortegon"
+  - username: "thesmittencollective"
     fullname: >-
-      Josie Ortegon
+      Krystal Smit
     bio: >-
-      Storyteller | Content Creator 🎥🎬📱 📍 Austin, Texas 📩 josieortegon09@gmail.com
+      HOME | STYLE | DESIGN Inspired ideas & elevated looks for less Daily finds, DIY, Fashion & everyday life in stories! Tap the link to SHOP my POSTS ⤵️
     location: "United States"
-    followers: 2673
-    engagement: 965
-    commentsToLikes: 0.060599
-    id: ckaozpgsamtqz0i784mnqnbfo
+    followers: 246147
+    engagement: 131
+    commentsToLikes: 0.127456
+    id: ckzrwy92n0yyl0i23ilvd6sdk
     verified: false
-    hashtags: "#austin, #elpaso, #atx, #austintexas"
+    hashtags: "#homedesign, #ltksalealert, #shopltk, #falldecor"
+  - username: "michellereed"
+    fullname: >-
+      Michelle Reed Gauthier
+    bio: >-
+      🌼 lover of small joys 💫 philippians 4:8 🌞 dallas, tx 👼🏼 on the way! ✉️ thisissmileyandshell@gmail.com
+    location: "United States"
+    followers: 110255
+    engagement: 1142
+    commentsToLikes: 0.018639
+    id: ck0uavat8d4ed0i19w54g3wap
+    verified: false
+    hashtags: "#pregnancydiary, #cozyvibes, #whatieatinaday, #pregnancynutrition"
+  - username: "taylorsometimes"
+    fullname: >-
+      Taylor
+    bio: >-
+      just trying to survive on queso and margs. based in Austin. not a cool girl. (also help me distract myself into infinity by joining my cult)
+    location: "United States"
+    followers: 14843
+    engagement: 78
+    commentsToLikes: 0.042793
+    id: cknhj9zkxt91z0j23hxs3u01m
+    verified: false
+    hashtags: "#atxlife, #selflove, #atx, #fashioninfluencers"
+  - username: "twelveriversrealty"
+    fullname: >-
+      Twelve Rivers Realty
+    bio: >-
+      ✨ More than just ATX real estate ✨ 🏆 Voted Best Place to Work 2020 👋 Agent to Follow: @tattednspatted 👉 #TwelveRiversRealty 🕊 #TRRGivesBack
+    location: "United States"
+    followers: 13590
+    engagement: 54
+    commentsToLikes: 0.192322
+    id: ck14ii4p2find0i19har6h8fb
+    verified: false
+    hashtags: "#luxeathome, #idcoathome, #exploreaustin, #loveyourhabitat"
+  - username: "livvylandblog"
+    fullname: >-
+      Olivia • LivvyLand
+    bio: >-
+      📍austin, tx | real life outfits ✨| sometimes interiors 🏠 | proud boy mama x 3👦👦🤰| 💌: olivia@livvyland.com
+    location: "United States"
+    followers: 264627
+    engagement: 48
+    commentsToLikes: 0.016409
+    id: ck0w6pkli9p8l0i19nterddgx
+    verified: false
+    hashtags: "#freepeople, #ootd, #austintx, #boymom"
   - username: "realestate"
     fullname: >-
       @RealEstate
@@ -31,100 +79,52 @@ profiles:
     id: ck13b75i4u0ju0i19q6edh4b0
     verified: false
     hashtags: "#listed, #modernhome, #design, #mansion"
-  - username: "theblondespaniard"
+  - username: "etinosajogbevoen"
     fullname: >-
-      𝗖𝗵𝗲𝗹𝘀𝗲𝗮 H
+      Etinosa Ogbevoen
     bio: >-
-      Lifestyle | ✈️ Travel | 🏠 Home Decor | 🔨 DIY 📍Spokane WA Collab 💌: TheBlondeSpaniardCo@gmail.com
+      Bride to Be ✨ Lifestyle | Beauty | UGC Creator SMM for @offlineaustin #targetpartner Let’s work together 📧
     location: "United States"
-    followers: 28508
-    engagement: 325
-    commentsToLikes: 0.062926
-    id: ck5zwkrby6an30i14dkd6unst
+    followers: 10789
+    engagement: 585
+    commentsToLikes: 0.088588
+    id: cl0wpekaau14e0i233fhlm4up
     verified: false
-    hashtags: "#ruggable, #ls080321dreamingdad, #dienstagsaugust, #happyaugustauo"
-  - username: "livvylandblog"
+    hashtags: "#austincontentcreator, #atxlife, #austinliving, #austinlifestyle"
+  - username: "samckoehler"
     fullname: >-
-      Olivia • LivvyLand
+      sam koehler
     bio: >-
-      📍austin, tx | down to 🌏 style | mama of two boys🥰 Contact💌👉🏼olivia@livvyland.com
+      austin, tx 🍸 111 👩🏽‍💻 talent manager @pauldesistotalentmgmt
     location: "United States"
-    followers: 286278
-    engagement: 48
-    commentsToLikes: 0.015035
-    id: ck0w6pkli9p8l0i19nterddgx
+    followers: 8921
+    engagement: 60
+    commentsToLikes: 0.027229
+    id: cksuaikhe7dty0j23mzm51s49
     verified: false
-    hashtags: "#liketkit, #sponsored, #flatlay, #madewell"
-  - username: "natedanielward"
+    hashtags: "#explore, #trending, #atx, #explorepage"
+  - username: "josieortegon"
     fullname: >-
-      NATE WARD 🇺🇸🏳️‍🌈
+      Josie Ortegon
     bio: >-
-      Your guide to Austin real estate - Devora Realty Fashion/Design/Fitness/Real Estate
+      Storyteller | Content Creator 🎥🎬📱 📍 Austin, Texas 📩 josieortegon09@gmail.com
     location: "United States"
-    followers: 41421
-    engagement: 486
-    commentsToLikes: 0.028002
-    id: ckap181wmtg4u0i783d9z07b5
+    followers: 2673
+    engagement: 965
+    commentsToLikes: 0.060599
+    id: ckaozpgsamtqz0i784mnqnbfo
     verified: false
-    hashtags: "#realestate, #austintexas, #movetoaustin, #mensstyle"
-  - username: "amandakwaltman"
+    hashtags: "#elpaso, #austin, #atx, #texas"
+  - username: "flashesofstyle"
     fullname: >-
-      Amanda | TX Blogger
+      Bonnie Barton
     bio: >-
-      Austin, TX Mom Life + Home, Lifestyle & Travel Boy mom x2 Making #thewaltmanfam home our own 🔨🏠 💌 amandakwaltman@gmail.com
+      🏡 AUSTIN, TX cozy home decor + DIY + easy recipes finding beauty in every season 🍂📖🎃☕️ 💌 bonnie@godandbeauty.com
     location: "United States"
-    followers: 64496
-    engagement: 61
-    commentsToLikes: 0.024650
-    id: ck0vyzy346lys0i19xrj9uif8
+    followers: 550359
+    engagement: 1206
+    commentsToLikes: 0.019186
+    id: ckne3kiqfqpy90j23nmoz5f3i
     verified: false
-    hashtags: "#boymom, #sponsored, #texasblogger, #austinblogger"
-  - username: "creatinghomewithwhit"
-    fullname: >-
-      Whitney
-    bio: >-
-      Momma to ✌🏻, Married to my BFF,Home Reno and DIY is my passion. Featured in apartmenttherapy & austinwoman. POCEOW
-    location: "United States"
-    followers: 33409
-    engagement: 274
-    commentsToLikes: 0.137042
-    id: ck14kqs1aqug70i19rdi0fjme
-    verified: false
-    hashtags: "#heyhomehey, #showmeyourstyled, #brightspaceswelove, #currenthomeview"
-  - username: "casskendell"
-    fullname: >-
-      Cassidee Wengert Kendell
-    bio: >-
-      wife to austin small town living🤘🏼 seint artist beauty account: @casskendell.beauty
-    location: "United States"
-    followers: 1978
-    engagement: 1462
-    commentsToLikes: 0.093397
-    id: ckap7e2i8jo330i78yqj8qzfn
-    verified: false
-    hashtags: "#tinyliving, #homeiswhereyouparkit, #homeonwheels, #rvreno"
-  - username: "nvzion"
-    fullname: >-
-      ᴍᴀᴛᴛ
-    bio: >-
-      📍 austin 📸 tech lifestyle 📧 nvzionn@gmail.com
-    location: "United States"
-    followers: 68348
-    engagement: 226
-    commentsToLikes: 0.051898
-    id: ck5cifa9dsjlv0i119pyvtxmb
-    verified: false
-    hashtags: "#gridstudio, #applewatch, #appleaccessories, #macrophotography"
-  - username: "ink.and.alma"
-    fullname: >-
-      aline forastieri | ink + alma
-    bio: >-
-      Passionate #mandala #artist living a bright life in #Austin, TX! Life, love & photography: @alineforastieri Shop: ⬇️
-    location: "United States"
-    followers: 29947
-    engagement: 111
-    commentsToLikes: 0.017360
-    id: ckf5ufssnkqv10j23xp0eretl
-    verified: false
-    hashtags: "#handmade, #giftideas, #mandalaartist, #acrylicpainting"
+    hashtags: "#cozyaesthetic, #cozyvibes, #pumpkinseason, #autumnaesthetic"
 ---

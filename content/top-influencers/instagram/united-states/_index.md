@@ -1,132 +1,132 @@
 ---
-title: Top 10 Instagram Influencers In United States In 2023
+title: Top 10 Instagram Influencers In United States In 2024
 description: >-
-  Find top Instagram influencers in United States in 2023. Most popular hashtags: #outfitinspo #outfitideas #pregnancy.
+  Find top Instagram influencers in United States in 2024. Most popular hashtags: #streetstyle #winteroutfitideas #springoutfits.
 platform: Instagram
-hits: 247306
-text_top: See the best Instagram accounts on inBeat.
-text_bottom: inBeat holds 247306 Instagram influencers like this in United States for you to connect with.
+hits: 288321
+text_top: Analyze the most popular Instagram influencers on inBeat.
+text_bottom: Our search engine holds 288321 Instagram influencers like this in United States for you to contact.
 profiles:
-  - username: "amberdowty_"
+  - username: "cheridan.taylor"
     fullname: >-
-      Amber Nicole ♡
+      Cheridan | elevated basics + everyday OOTD’s
     bio: >-
-      Long Island-NY📍 Daily Outfit Inspo🫶 💌 amberdowty@insanityhq.com Shop my Presets below ↓
+      the girl who always matches her Converse to her outfits style + life + travel🤍 💍 2024 bride 🌴 SD | OC | LA 💌 cheridantaylor@gmail.com
     location: "United States"
-    followers: 51096
-    engagement: 419
-    commentsToLikes: 0.052067
-    id: ckt2ndyak3i400j23hglzx8of
+    followers: 39286
+    engagement: 437
+    commentsToLikes: 0.130505
+    id: ck55kyupg0e6t0i111v06k77j
     verified: false
-    hashtags: "#falloutfits, #fallfashion, #outfitinspo, #outfitideas"
-  - username: "thehalliescene"
+    hashtags: "#hairhowto, #sunepartner, #fallactivities, #fallaesthetic"
+  - username: "mrsmarionms"
     fullname: >-
-      Hallie | Nashville Blogger
+      Marion | Fashion & Lifestyle
     bio: >-
-      hi, i’m Hallie, like Halle Berry! everyday style + home reno | new mom 💕 normalizing life + mental health 🤍🌿 hannaht@shinetalentgroup.com
+      Parisian fashion lover living the lifestyle of her dream! Wife💍 Mom 👶🏻 💌 hello@marionms.com
     location: "United States"
-    followers: 52689
-    engagement: 414
-    commentsToLikes: 0.115509
-    id: ckn9ayfvumbl20j23lt41y6yv
-    verified: false
-    hashtags: "#nursery, #expectingmom, #firsttimemom, #girlnursery"
-  - username: "baileysarian"
-    fullname: >-
-      Bailey Sarian  🥀
-    bio: >-
-      Ms. Murder, Mystery, & Makeup • Dark History • 👇🏼 * New Video * & My Social Links :
-    location: "United States"
-    followers: 2984315
-    engagement: 663
-    commentsToLikes: 0.007988
-    id: ck0tu62zw5sxv0i19qevjyufa
+    followers: 12252
+    engagement: 630
+    commentsToLikes: 0.148094
+    id: ck15papi2wxr60i19jci3aikt
     verified: false
     hashtags: ""
-  - username: "jess"
+  - username: "nomastayinkc"
     fullname: >-
-      Jess Conte
+      Amanda | KC Blogger
     bio: >-
-      ✞ ☻ jess@scalemanagement.co ⤥ my guided journal
+      Yoga teacher 🧘‍♀️| Lover of food & drink 🥂| 🐶 Mom | Deal finder & sharer 🤌 | Kindness always 🙌 | Balanced living 🍪🥗🍷| @lululemon Ambassador 🫶
     location: "United States"
-    followers: 2262141
-    engagement: 1362
-    commentsToLikes: 0.002894
-    id: ck0vw0aemrj6l0i194vjeeex9
-    verified: true
-    hashtags: ""
-  - username: "savannah_joyyy"
-    fullname: >-
-      Savannah Joy
-    bio: >-
-      | 1:1 Online Health/Lifestyle | @thetrainingbarracks Apply for Coaching Below ⬇️ @revive_md @getrawnutrition | Athlete Code: SAVJOY ⤴️
-    location: "United States"
-    followers: 132122
-    engagement: 417
-    commentsToLikes: 0.012208
-    id: ck5q33lorj2160i11tlfrq9s1
+    followers: 34311
+    engagement: 1989
+    commentsToLikes: 0.199792
+    id: ck5c36n4typ390i11aaijrjdd
     verified: false
-    hashtags: "#fitnessmotivation, #fitness, #bulkingseason, #fitfam"
-  - username: "behamin"
+    hashtags: "#yogainspiration, #momanddad, #gifted, #firsttimeparents"
+  - username: "tokyotolagirl"
     fullname: >-
-      Behamin • بهامين
+      Shiyoko Nataniya
     bio: >-
-      Fashion | Beauty | Lifestyle | Design 🇺🇸 💚🕊❤️ 📍California Architect @home.by.bb 🐈 @benjibanubilu 📩 behamin.archi@gmail.com
+      🙋🏻‍♀️ | Pinterest gal 📍 | LA ✨ | Aesthetic fashion, lifestyle & beauty inspo 🤳 | UGC 💌 | tokyotolagirl@gmail.com SHOP MY FEED⬇️
     location: "United States"
-    followers: 487738
-    engagement: 571
-    commentsToLikes: 0.033819
-    id: ck0u741343nni0i1969xnaly0
+    followers: 36454
+    engagement: 1538
+    commentsToLikes: 0.049032
+    id: ck5zypsduaawo0i14e5m3m57k
     verified: false
-    hashtags: "#iranrevolution, #mahsaamini, #womanlifefreedom, #luluspartner"
-  - username: "maggiemacdonald"
+    hashtags: "#coquettegirl, #pinkaesthetic, #grwmreel, #jcpfam"
+  - username: "peytonjohnsonnn"
     fullname: >-
-      MM
+      peyton johnson
     bio: >-
-      raelyn@raelynmgmt.com
+      simple + chic outfit inspo 🦋🤍✨ washington, dc peytonjohnsonblog@gmail.com all the links👇🏼
     location: "United States"
-    followers: 200926
-    engagement: 832
-    commentsToLikes: 0.009191
-    id: ck5zt6mnrzu670i14y1jc91xm
+    followers: 30454
+    engagement: 680
+    commentsToLikes: 0.111517
+    id: ckaot25cqu19m0i78qqoapkbl
     verified: false
-    hashtags: "#ad, #revolvegallery"
-  - username: "rachelearls"
+    hashtags: "#winteroutfitideas, #winteroutfits, #nyfw2023, #ad"
+  - username: "maddiestoltzfusxo"
     fullname: >-
-      Rachel Wynn Earls
+      Maddie Stoltzfus | UGC | Content creator
     bio: >-
-      Mom of boys 🤰with baby #4 ✞ = ♡ on earth as it is in heaven Earls Family Vlogs 🎥 Author: A Higher Calling earlsfamilypartnerships@gmail.com
+      —— Fashion, beauty, lifestyle —— Pennsylvania engaged 💍 ✉️ stoltzfusmaddie@gmail.com
     location: "United States"
-    followers: 152801
-    engagement: 468
-    commentsToLikes: 0.011996
-    id: ck8wf8p4rfblz0j783su7u5b7
+    followers: 14605
+    engagement: 509
+    commentsToLikes: 0.422949
+    id: ckqas80x2kz1w0j2311gad6a1
     verified: false
-    hashtags: "#genderreveal, #boymom, #pregnancy, #duracelloptimum"
-  - username: "annaheid"
+    hashtags: "#streetstyle, #ootd, #pov, #coffee"
+  - username: "daniellee_esther"
     fullname: >-
-      Anna Heid
+      Danielle Esther
     bio: >-
-      atl → nyc usc cheer alum peds nurse🩺 💌contact@tablerock.com
+      los angeles 💌 danielle@mvetalent.com
     location: "United States"
-    followers: 181976
-    engagement: 799
-    commentsToLikes: 0.005085
-    id: ck9hcwuvvnasn0j78v6h43kbm
+    followers: 181544
+    engagement: 814
+    commentsToLikes: 0.060045
+    id: ck137gy8ubhjd0i19krhqrk4n
     verified: false
-    hashtags: "#emptyapartmenttour, #pppartner, #nyc, #nycapartments"
-  - username: "lucyraemcfadin"
+    hashtags: "#ad, #seethescience, #nexxuslevelholiday, #mondaypartner"
+  - username: "jessicalaure_l"
     fullname: >-
-      ༻Lucy Rae McFadin༺
+      Jessica L Hall
     bio: >-
-      lucymcfadin@gmail.com
+      Lifestyle Creator, Mommy, Fashionista. Seen in @forbes @essence 📧 Hello@JessicaLHall.com 📍 #Raleigh #Durham #Charlotte #NC 👩🏾‍🏫 Mental Health
     location: "United States"
-    followers: 75205
-    engagement: 503
-    commentsToLikes: 0.006589
-    id: ck0tz18e8or5p0i19jkpkuya2
+    followers: 49582
+    engagement: 630
+    commentsToLikes: 0.111742
+    id: ck8t0odv7sp360j7874plcisd
     verified: false
-    hashtags: "#abundance, #guccibeloved, #ggmarmont, #ad"
+    hashtags: "#raleighinfluencers, #charlottefashion, #nccreatives, #liketkit"
+  - username: "farnazjavdankherad"
+    fullname: >-
+      Farnaz
+    bio: >-
+      businesswoman owner and founder of @f.jcollection fashion 📧farnaz.javdan@gmail.com
+    location: "United States"
+    followers: 46916
+    engagement: 1066
+    commentsToLikes: 0.053044
+    id: ck6u4x2da6a4m0j71adqdys8y
+    verified: false
+    hashtags: "#photography, #style, #couplegoals, #goodvibes"
+  - username: "lindaminjukim"
+    fullname: >-
+      Linda Kim
+    bio: >-
+      Los Angeles📍 Lifestyle | Beauty | Fashion → lindaminjukim@gmail.com
+    location: "United States"
+    followers: 10337
+    engagement: 534
+    commentsToLikes: 0.379834
+    id: ckq0ivezidd9i0j23dx5v7it4
+    verified: false
+    hashtags: "#brunchideas, #lovelulus, #summeroutfits, #eatstagram"
 cities:
   - name: New York
     link: /instagram/united-states/new-york

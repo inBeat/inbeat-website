@@ -1,24 +1,48 @@
 ---
-title: Top 10 Gaming Instagram Influencers In Malaysia In 2023
+title: Top 10 Gaming Instagram Influencers In Malaysia In 2024
 description: >-
-  Find top gaming Instagram influencers in Malaysia in 2023. Most popular hashtags: #mobilelegends #pubgmobile #lawakhangit #lawakstudent.
+  Find top gaming Instagram influencers in Malaysia in 2024. Most popular hashtags: #gaming #lawakhambar #lawakterkini #lawakhangit.
 platform: Instagram
-hits: 8
-text_top: Identify the best Instagram accounts on inBeat.
-text_bottom: Our search engine aggregates 8 Instagram influencers like this in Malaysia for you to contact.
+hits: 12
+text_top: See the most popular Instagram profiles on inBeat.
+text_bottom: Our platform holds 12 Instagram influencers like this in Malaysia for you to work with.
 profiles:
-  - username: "yingtze"
+  - username: "celak_46"
     fullname: >-
-      YingTze 🇲🇾
+      Muhammad azrul aidiel
     bio: >-
-      Brand Ambassador of @asusrogmalaysia 8 Cats IG @babyg2610 Gaming | Cosplay | Cats | Travels _
+      ʜᴀᴍʙᴀ الله ꜱᴇᴍᴏɢᴀ ᴅɪᴍᴜʀᴀʜᴋᴀɴ ʀᴇᴢᴇᴋɪ ᴅɪᴅᴜɴɪᴀ ᴅᴀɴ ᴀᴋʜɪʀᴀᴛ ᴀᴍɪɴ 🦅 🩵WINBOX❤️ATAS💙KK8-best gaming playform We1winofficial- no.1 sports betting platform
     location: "Malaysia"
-    followers: 281058
-    engagement: 269
-    commentsToLikes: 0.011080
-    id: ck5c8kvjj9p9x0i11jeygnyzn
-    verified: true
-    hashtags: "#genshinimpact, #genshinimpactcosplay, #kemonomimi, #nekomimi"
+    followers: 36668
+    engagement: 1796
+    commentsToLikes: 0.002929
+    id: ck6u2gbnfrnml0j71i0zidhsf
+    verified: false
+    hashtags: "#rxz, #halimmotorkualakedah, #sanggaptrottle, #malamrayapkp2021"
+  - username: "kimie_lan"
+    fullname: >-
+      𝙈𝙤𝙝𝙙 𝙃𝙖𝙠𝙞𝙢𝙞
+    bio: >-
+      𝙥𝙖𝙞𝙙 𝙧𝙚𝙫𝙚𝙞𝙬 & 𝙜𝙞𝙛𝙩 𝙧𝙚𝙫𝙚𝙞𝙬 🥰 KK8-Atas-WinBox-Best Gaming 𝒮𝑒𝒸𝑜𝓃𝒹 𝒶𝒸𝒸 @_kimielan❤️ We1Win — No.1 Sports Betting Platfom
+    location: "Malaysia"
+    followers: 213424
+    engagement: 395
+    commentsToLikes: 0.018074
+    id: ck8t70mubf9al0j781nl8k3br
+    verified: false
+    hashtags: "#lawak, #lawakmalaysia, #videolawak, #lawakkeder"
+  - username: "sereneecsf"
+    fullname: >-
+      Serene Cheng
+    bio: >-
+      live @twitch @facebook Gaming chair @prodigychairs
+    location: "Malaysia"
+    followers: 58293
+    engagement: 181
+    commentsToLikes: 0.009783
+    id: ck5pxegb4rdxx0i118pg4jlik
+    verified: false
+    hashtags: "#bbzzthebest, #vchallengeu, #discoverthelioninyou, #gamingchair"
   - username: "alifmusic_"
     fullname: >-
       ALIF | 光
@@ -49,24 +73,24 @@ profiles:
     bio: >-
       Mobile Legend | PUBG | PES | FIFA | etc Halalkan admin ambil video korang Nak share content? DM / send di telegram PAID REVIEW 👇
     location: "Malaysia"
-    followers: 55456
-    engagement: 492
-    commentsToLikes: 0.025207
+    followers: 38520
+    engagement: 272
+    commentsToLikes: 0.017408
     id: ck8t6r5gbegzg0j780vpqp39p
     verified: false
-    hashtags: "#lawakhangit, #lawakstudent, #gamemalaysia, #mobilelegendsindonesia"
+    hashtags: "#lawakhangit, #lawakstudent, #mobilelegendsmalaysia, #lawakterkini"
   - username: "farydcupid"
     fullname: >-
       FarydCupid™
     bio: >-
       Based in Kuantan, MY 🇲🇾 Youtube: FarydCupid ❤️ FOLLOW for more new video every week ↓ youtube link dibawah ↓
     location: "Malaysia"
-    followers: 20570
-    engagement: 1358
-    commentsToLikes: 0.026206
+    followers: 23416
+    engagement: 1477
+    commentsToLikes: 0.030357
     id: ck136lppk73vq0i19b3qc2u67
     verified: false
-    hashtags: "#lawakjiwang, #himpunanbahanlawak, #gaming, #horrorgame"
+    hashtags: "#tiktokchallenge, #memes, #lawakhambar, #gamingindonesia"
   - username: "_dawih"
     fullname: >-
       ☆                ☆
@@ -91,16 +115,16 @@ profiles:
     id: ck8t4y3ah88630j78pnzd3l86
     verified: false
     hashtags: "#kakibola, #demimalaysia, #negaraku, #bazarmalaysia"
-  - username: "techphonez"
+  - username: "cherishlingj"
     fullname: >-
-      Smartphone Gadgets Tech
+      车厘子Cherish Lau
     bio: >-
-      📍Tech 📱| Gadgets 🎧 | Unboxing 🖥️ | Review 📍DM for Business enquiry 💰 📍Dm for credit/removal 📧contact.techphonez@gmail.com
+      A Fitness Mom DM for Collabs Job🇲🇾 XHS📕车厘子Cherish｜13K粉丝329K赞收藏 Mom & Kid | Travel blog @gotravellah_cherish Motherhood Supermom KOL Awards 22&23
     location: "Malaysia"
-    followers: 56728
-    engagement: 345
-    commentsToLikes: 0.006920
-    id: ckaoss1tfsue60i782rzcpqf6
+    followers: 26918
+    engagement: 333
+    commentsToLikes: 0.054683
+    id: clm70au45gntv0j08ptiu2im1
     verified: false
-    hashtags: "#galaxyfold2, #iphone12, #huaweimate, #oneplus7pro"
+    hashtags: "#reelexplore, #traveltheworld, #lifestyle, #travelblogger"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Skincare TikTok Influencers In Poland In 2023
+title: Top 10 Skincare TikTok Influencers In Poland In 2024
 description: >-
-  Find top skincare TikTok influencers in Poland in 2023. Most popular hashtags: #skincare #fyp #dlaciebie #foryou.
+  Find top skincare TikTok influencers in Poland in 2024. Most popular hashtags: #skincare #fyp #dlaciebie #foryou.
 platform: TikTok
 hits: 16
-text_top: Identify the top-rated TikTok accounts on inBeat.
-text_bottom: Our search engine aggregates 16 TikTok influencers like this in Poland for you to work with.
+text_top: Analyze the best TikTok accounts on inBeat.
+text_bottom: Our platform holds 16 TikTok influencers like this in Poland for you to collaborate.
 profiles:
   - username: "julinia.ch"
     fullname: >-
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.010085
     id: ck8z1iqah1rru0j78ijeg26gn
     verified: false
-    hashtags: "#asmrmakeup, #pielegnacja, #makeup, #skincarecheck"
+    hashtags: "#viral, #makeuptutorial, #skincarecheck, #skincareroutine"
   - username: "samosiaa_yt"
     fullname: >-
       ♡tosia♡

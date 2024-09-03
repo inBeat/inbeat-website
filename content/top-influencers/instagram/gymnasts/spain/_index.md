@@ -1,12 +1,24 @@
 ---
-title: Top 10 Gymnasts Instagram Influencers In Spain In 2023
+title: Top 10 Gymnasts Instagram Influencers In Spain In 2024
 description: >-
-  Find top gymnasts Instagram influencers in Spain in 2023. Most popular hashtags: #gymnastics #strong #instagram.
+  Find top gymnasts Instagram influencers in Spain in 2024. Most popular hashtags: #gymnast #gymnastics #strong.
 platform: Instagram
-hits: 54
-text_top: Discover the top-rated Instagram influencers on inBeat.
-text_bottom: Our search engine has 54 Instagram influencers like this in Spain for you to connect with.
+hits: 59
+text_top: Discover the top-rated Instagram profiles on inBeat.
+text_bottom: Our database holds 59 Instagram influencers like this in Spain for you to collaborate.
 profiles:
+  - username: "rachel.luba"
+    fullname: >-
+      RACHEL LUBA (レイチェル・ルーバ)
+    bio: >-
+      ⚾️MLB Player-Agent /Attorney⚖️ ⋯former UCLA Gymnast/competitive boxer ✧Forbes 30Under30 ➟ceo: @luba_sports ➟twitter: @agentrachelluba ◉⃤ @the.lubanati
+    location: "Spain"
+    followers: 121226
+    engagement: 257
+    commentsToLikes: 0.009978
+    id: ckap6f3ugfmue0i781re9wnzd
+    verified: false
+    hashtags: "#npb, #kingofjuco, #trevorbauer, #baueroutage"
   - username: "rosnoamabel"
     fullname: >-
       Noa Ros
@@ -30,7 +42,7 @@ profiles:
     commentsToLikes: 0.016658
     id: ck5py5wd2ugsk0i11wlm1jny7
     verified: false
-    hashtags: "#therabody, #ibiza, #encuentratufitness, #ringana"
+    hashtags: "#skincare, #vegan, #freshskincare, #therabody"
   - username: "polinaberezina"
     fullname: >-
       Polina Berezina
@@ -42,7 +54,7 @@ profiles:
     commentsToLikes: 0.011334
     id: ck5zlmzppl1e80i14tea6hwzt
     verified: false
-    hashtags: "#luchandoporunsue, #polipotter, #wcsofia2021, #crazygirls"
+    hashtags: "#luchandoporunsue, #wcsofia2021, #polipotter, #luchandoporunsuen"
   - username: "heyrocco"
     fullname: >-
       Rocco Parra
@@ -115,16 +127,4 @@ profiles:
     id: ck138np92h4hx0i19iq9i4okn
     verified: false
     hashtags: "#baile, #goodvibes, #reelsvideo, #dance"
-  - username: "mistercalisthenics"
-    fullname: >-
-      🌍ᎷᎥᏕᏖᏋᏒ🖤
-    bio: >-
-      🔥 𝐅𝐮𝐧𝐝𝐚𝐝𝐨𝐫 𝐝𝐞 @barbrothersvlc 💉 𝐓𝐚𝐭𝐮𝐚𝐝𝐨𝐫 @mistertattooskull 💪🏽 𝐏𝐨𝐧𝐭𝐞 𝐞𝐧 𝐟𝐨𝐫𝐦𝐚 𝐜𝐨𝐧𝐦𝐢𝐠𝐨! 𝐏𝐚𝐫𝐚 𝐫𝐮𝐭𝐢𝐧𝐚𝐬 𝐲 𝐜𝐥𝐚𝐬𝐞𝐬 𝐨𝐧-𝐥𝐢𝐧𝐞, 𝐞𝐬𝐜𝐫í𝐛𝐞𝐦𝐞! 📍 𝐕𝐚𝐥𝐞𝐧𝐜𝐢𝐚.
-    location: "Spain"
-    followers: 16554
-    engagement: 374
-    commentsToLikes: 0.080335
-    id: ck135fir915vb0i19e5e9pjg0
-    verified: false
-    hashtags: "#weightloss, #gym, #strong, #lifestyle"
 ---

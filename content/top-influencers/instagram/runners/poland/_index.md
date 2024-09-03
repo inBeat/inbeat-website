@@ -1,12 +1,84 @@
 ---
-title: Top 10 Runners Instagram Influencers In Poland In 2023
+title: Top 10 Runners Instagram Influencers In Poland In 2024
 description: >-
-  Find top runners Instagram influencers in Poland in 2023. Most popular hashtags: #run #bieganie #polishgirl #weekend.
+  Find top runners Instagram influencers in Poland in 2024. Most popular hashtags: #bieganie #run #polishgirl #runner.
 platform: Instagram
 hits: 72
-text_top: See the top-rated Instagram profiles on inBeat.
-text_bottom: inBeat holds 72 Instagram influencers like this in Poland for you to contact.
+text_top: Identify the top-rated Instagram influencers on inBeat.
+text_bottom: Our search engine aggregates 72 Instagram influencers like this in Poland for you to work with.
 profiles:
+  - username: "more_everyday_susan"
+    fullname: >-
+      Susan | ASICS FrontRunner 🇵🇱
+    bio: >-
+      💯 @asicsfrontrunner PL Captain 🍫 @maurten_official Ambassador ♾ (ultra)runner 📍 Warsaw ▪️21K 1:32:25 ▪️42K 3:26:14 ▪️105K 18:22:00
+    location: "Poland"
+    followers: 9647
+    engagement: 426
+    commentsToLikes: 0.048998
+    id: ck0u8ya5z8jvd0i196pebmj3r
+    verified: false
+    hashtags: "#fenix7ssolar, #runhappy, #polishmountains, #sport"
+  - username: "joanna.jozwik"
+    fullname: >-
+      Joanna Jóźwik
+    bio: >-
+      800m runner 🏃🏻‍♀️ Olympian PR Manager, współpraca: 📩 krystian@serwusagencja.pl 📞 783-798-040
+    location: "Poland"
+    followers: 111002
+    engagement: 664
+    commentsToLikes: 0.010208
+    id: ckap88e3una2n0i78k8j810i3
+    verified: true
+    hashtags: "#olympics, #teampolska, #jjruncamp, #jjrun"
+  - username: "biegam_i_pije"
+    fullname: >-
+      Marcin Szczurkiewicz
+    bio: >-
+      Comedy actor 🎭 TV host 📺 Runner 🏃‍♂️ Sport freak🥇 Travelholic 🗺 Lifelover 🥳 Premium spirits enthusiast 🥃 biegam.i.pije.official@gmail.com 📩
+    location: "Poland"
+    followers: 196959
+    engagement: 351
+    commentsToLikes: 0.023578
+    id: ck13aawtfphso0i1909irsi9j
+    verified: false
+    hashtags: "#piwko, #przystojniak, #42lata, #fun"
+  - username: "misscharm.tv"
+    fullname: >-
+      Miss Charm
+    bio: >-
+      Official IG Miss Charm Organization Miss Charm 2023 @russoluma 1st Runner-up @annabelle.mcdonnell 2nd Runner-up @iam_oliviatan
+    location: "Poland"
+    followers: 391919
+    engagement: 259
+    commentsToLikes: 0.022095
+    id: ck5howswpqdkg0i11vpvddu0n
+    verified: false
+    hashtags: "#metaverse, #vietnam, #mrat, #beautyofcharm"
+  - username: "marcelamargerita"
+    fullname: >-
+      Marcela Margerita Koterska
+    bio: >-
+      📩 marcelamargerita@gmail.com 📍Warsaw Fryderyk’s mom🤍 🥈 2nd runner-up of Poland’s Next Top Model 3 Die with memories, not dreams 🍋
+    location: "Poland"
+    followers: 211976
+    engagement: 182
+    commentsToLikes: 0.013460
+    id: ck5zpie8qsq870i14ih29s059
+    verified: true
+    hashtags: "#cetaphil, #superpharmpoland, #wsp, #suchaskora"
+  - username: "catarinaapolonia"
+    fullname: >-
+      KATARZYNA WOLSKA
+    bio: >-
+      call me Summer 💪🏻 Strength & Conditioning #wolskatrenuje ⚡️ #Girlboss @sweatandglowstudio 🏃🏼‍♀️ Runner @swordsathletics ☝🏻 Ass Kicker
+    location: "Poland"
+    followers: 68578
+    engagement: 90
+    commentsToLikes: 0.006697
+    id: ck6udrydqmssy0j71kovfm6qg
+    verified: true
+    hashtags: "#fullbodyworkout, #trening, #mobilitytraining, #mobilno"
   - username: "weroviko"
     fullname: >-
       Viko
@@ -55,76 +127,4 @@ profiles:
     id: ck6tzwdcec9j30j71qb7fow0p
     verified: false
     hashtags: "#dubai, #fashionblogger, #instatravel, #islandlife"
-  - username: "biegam_i_pije"
-    fullname: >-
-      Marcin Szczurkiewicz
-    bio: >-
-      Comedy actor 🎭 TV host 📺 Runner 🏃‍♂️ Sport freak🥇 Travelholic 🗺 Lifelover 🥳 Premium spirits enthusiast 🥃 biegam.i.pije.official@gmail.com 📩
-    location: "Poland"
-    followers: 32595
-    engagement: 301
-    commentsToLikes: 0.025731
-    id: ck13aawtfphso0i1909irsi9j
-    verified: false
-    hashtags: "#40, #wtorek, #tv, #biegamipije"
-  - username: "bojarmeow"
-    fullname: >-
-      Karolina Bojar-Stefańska
-    bio: >-
-      ⚽️ Football referee 🏆 Runner 🎓 Law student ⚖️ Sports & Intellectual Property Law 🇵🇱 Kraków/Warszawa, Poland 📧 marketing@karolinabojar.pl
-    location: "Poland"
-    followers: 161685
-    engagement: 529
-    commentsToLikes: 0.007241
-    id: ck0vvd9n3om4v0i19z6s4r4s9
-    verified: true
-    hashtags: "#tanzania, #referee, #football, #beach"
-  - username: "marta__kaczmarczyk"
-    fullname: >-
-      Marta Kaczmarczyk
-    bio: >-
-      Model Master of Nursing & Bioesthetic Cosmetology 4th Runner Up MISS POLAND 2018 👑
-    location: "Poland"
-    followers: 15157
-    engagement: 952
-    commentsToLikes: 0.008099
-    id: ck15ty363kgxc0i199acf0tyt
-    verified: false
-    hashtags: "#xanacollection, #polishinfluencer, #polishwoman, #outfitinspiration"
-  - username: "more_everyday_susan"
-    fullname: >-
-      ASICS FrontRunner Poland 🇵🇱
-    bio: >-
-      S u s a n 🔹️Runner 🔹️Interior Designer 🔹️Warsaw 📍 🔸️5k 20:10 🔸️10k 43:08 🔸️HM 1:36:51 🔸️M 03:58:05
-    location: "Poland"
-    followers: 9066
-    engagement: 531
-    commentsToLikes: 0.037528
-    id: ck0u8ya5z8jvd0i196pebmj3r
-    verified: false
-    hashtags: "#garminpolska, #runforlife, #instarunners, #runtofeel"
-  - username: "jakub.pursa"
-    fullname: >-
-      Jakub Pursa
-    bio: >-
-      🇵🇱26 y.o. / 183 tall @misterpolski - semi-finalist💪🏼 @czarnonabialym.art ◼️◽️▪️ SYTYCD PL - 🔝8 / Got to Dance - first runner up! 👉🏼TikTok: jakub.pursa
-    location: "Poland"
-    followers: 10301
-    engagement: 395
-    commentsToLikes: 0.015067
-    id: ck8t5yo1sboma0j78rorrwdel
-    verified: false
-    hashtags: "#szareoczy, #misterpolski, #chlopak, #czarnobia"
-  - username: "dr_spraweczka"
-    fullname: >-
-      Marta Sprawka
-    bio: >-
-      👩🏼‍⚕️ doctor 🏥 resident of orthopedic surgery 💪 personal trainer 🏃🏼‍♀️ runner 👯‍♀️ @smmash_xwear Girl 🥰 10% SPRAWECZKA
-    location: "Poland"
-    followers: 17801
-    engagement: 502
-    commentsToLikes: 0.016219
-    id: ck14ky1b4rw7i0i19jtn0ptso
-    verified: false
-    hashtags: "#doc, #abs, #zima2021, #staysafe"
 ---

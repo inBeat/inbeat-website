@@ -1,11 +1,11 @@
 ---
-title: Top 10 Cooking TikTok Influencers In Chile In 2023
+title: Top 10 Cooking TikTok Influencers In Chile In 2024
 description: >-
-  Find top cooking TikTok influencers in Chile in 2023. Most popular hashtags: #chile #fyp #cooking #parati.
+  Find top cooking TikTok influencers in Chile in 2024. Most popular hashtags: #chile #cooking #fyp #foryou.
 platform: TikTok
 hits: 9
-text_top: Identify the best TikTok influencers on inBeat.
-text_bottom: Our database has 9 TikTok influencers like this in Chile for you to pitch.
+text_top: Identify the most popular TikTok profiles on inBeat.
+text_bottom: inBeat holds 9 TikTok influencers like this in Chile for you to work with.
 profiles:
   - username: "vegana_con_castanas"
     fullname: >-

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Christian TikTok Influencers In United States In 2023
+title: Top 10 Christian TikTok Influencers In United States In 2024
 description: >-
-  Find top christian TikTok influencers in United States in 2023. Most popular hashtags: #duet #fyp #foryou #christian.
+  Find top christian TikTok influencers in United States in 2024. Most popular hashtags: #duet #fyp #foryou #xyzbca.
 platform: TikTok
-hits: 2771
-text_top: Identify the most popular TikTok influencers on inBeat.
-text_bottom: Our search engine has 2771 TikTok influencers like this in United States for you to work with.
+hits: 2772
+text_top: Analyze the most popular TikTok accounts on inBeat.
+text_bottom: inBeat has 2772 TikTok influencers like this in United States for you to connect with.
 profiles:
   - username: "christianmelloo"
     fullname: >-
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.008596
     id: ck83wr5h9lmey0j788n2etpge
     verified: true
-    hashtags: "#ad, #duet, #foryou, #afterpay"
+    hashtags: "#foryou, #ad, #duet, #afterpay"
   - username: "christiannvegaa"
     fullname: >-
       CHRISTIAN
@@ -54,7 +54,7 @@ profiles:
     commentsToLikes: 0.093657
     id: ck977b7im3hfs0j78upfn9rcl
     verified: false
-    hashtags: "#fyp, #foryou, #foryoupage, #xyzbca"
+    hashtags: "#love, #foryoupage, #fyp, #foryou"
   - username: "hoe_ny"
     fullname: >-
       Honey
@@ -78,7 +78,7 @@ profiles:
     commentsToLikes: 0.303006
     id: ckdn9jrq1fsu80j23ofgdlxk5
     verified: false
-    hashtags: "#jesustok, #prayforme, #christianmom, #jesusistheway"
+    hashtags: "#bibleversedaily, #wise, #godlyadvice, #bornagain"
   - username: "vqueenof3"
     fullname: >-
       Vanessa
@@ -103,18 +103,6 @@ profiles:
     id: ckanm6ah4bwi90i789z4dejz5
     verified: false
     hashtags: "#kindnessmatters, #beekind, #blessed, #smile"
-  - username: "that_1_quiet_girl"
-    fullname: >-
-      Julia Robinson
-    bio: >-
-      ꧁ Mark 2:17 ꧂ 🌺Christian. Farmer. Musician. INFP. 18🌺 👻 @jayemare27 Just me
-    location: "United States"
-    followers: 72500
-    engagement: 2358
-    commentsToLikes: 0.066952
-    id: ckaftryhk6mm00i78nmetv6iv
-    verified: false
-    hashtags: "#duet, #yerp, #anesthesia, #wisdomteeth"
   - username: "liv.pearsall"
     fullname: >-
       Liv Pearsall
@@ -127,4 +115,16 @@ profiles:
     id: ckc9164g2r0pr0j236xa2vei8
     verified: true
     hashtags: "#livsopinions, #bibleexplainedwithliv, #womeninstem, #oliviarodrigo"
+  - username: "dylan_layfield92"
+    fullname: >-
+      Dylan Layfield
+    bio: >-
+      #TheFamilyofGod #Christianhypehouse #Lovingfalconfam #christianstrongfam #TBF
+    location: "United States"
+    followers: 4438
+    engagement: 2290
+    commentsToLikes: 0.212003
+    id: ckcps5pdsm9ft0j23xsjj4e72
+    verified: false
+    hashtags: "#duet, #greenscreen, #react"
 ---

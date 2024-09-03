@@ -1,11 +1,11 @@
 ---
-title: Top 10 Gymnasts Instagram Influencers In Russia In 2023
+title: Top 10 Gymnasts Instagram Influencers In Russia In 2024
 description: >-
-  Find top gymnasts Instagram influencers in Russia in 2023. Most popular hashtags: #rhythmicgymnastics #artisticswimming #roadtotokyo.
+  Find top gymnasts Instagram influencers in Russia in 2024. Most popular hashtags: #rhythmicgymnastics #doha #training.
 platform: Instagram
-hits: 141
-text_top: Discover the top-rated Instagram accounts on inBeat.
-text_bottom: Our platform aggregates 141 Instagram influencers like this in Russia for you to pitch.
+hits: 139
+text_top: Identify the best Instagram influencers on inBeat.
+text_bottom: inBeat holds 139 Instagram influencers like this in Russia for you to pitch.
 profiles:
   - username: "kate_sinika"
     fullname: >-

@@ -1,10 +1,10 @@
 ---
-title: Top 10 Skincare TikTok Influencers In Ireland In 2023
+title: Top 10 Skincare TikTok Influencers In Ireland In 2024
 description: >-
-  Find top skincare TikTok influencers in Ireland in 2023. Most popular hashtags: #fyp #foryoupage #foryou #skincare.
+  Find top skincare TikTok influencers in Ireland in 2024. Most popular hashtags: #fyp #foryoupage #foryou #skincare.
 platform: TikTok
 hits: 8
-text_top: Discover the most popular TikTok accounts on inBeat.
+text_top: See the top-rated TikTok influencers on inBeat.
 text_bottom: Our platform has 8 TikTok influencers like this in Ireland for you to work with.
 profiles:
   - username: "thelukeroe"
@@ -78,7 +78,7 @@ profiles:
     commentsToLikes: 0.022690
     id: cka6kh1xgyylt0i78qgxp1tlt
     verified: false
-    hashtags: "#foryou, #fyp, #foryoupage, #mcnugget"
+    hashtags: "#fyp, #foryou, #foryoupage, #naturelover"
   - username: "kindseypentecost"
     fullname: >-
       Kindsey Pentecost

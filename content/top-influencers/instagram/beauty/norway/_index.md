@@ -1,24 +1,84 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Norway In 2023
+title: Top 10 Beauty Instagram Influencers In Norway In 2024
 description: >-
-  Find top beauty Instagram influencers in Norway in 2023. Most popular hashtags: #beautycultxinglot #hudabeauty #reels.
+  Find top beauty Instagram influencers in Norway in 2024. Most popular hashtags: #hudpleie #igtopshelfie #365inskincare.
 platform: Instagram
-hits: 156
-text_top: See the top-rated Instagram profiles on inBeat.
-text_bottom: Our platform aggregates 156 Instagram influencers like this in Norway for you to work with.
+hits: 169
+text_top: Analyze the most popular Instagram profiles on inBeat.
+text_bottom: Our platform has 169 Instagram influencers like this in Norway for you to connect with.
 profiles:
-  - username: "maritaystevik"
+  - username: "theskincarebimbo"
     fullname: >-
-      Marita Ystevik
+      Julie | Skincare + K-beauty
     bio: >-
-      Location, Oslo Digital content creator ♡ k Health account: @workoutwithystevik Fashion, beauty, lifestyle, coffee, travel, fun.
+      📍Oslo, Norway 🧸Skincare and K-Beauty 🧸Oily/combo skin, dehydrated and reactive DISCOUNT CODES&SHOPLIST
     location: "Norway"
-    followers: 18258
-    engagement: 185
-    commentsToLikes: 0.118382
-    id: ck5c2uz4by1ib0i11zquptmde
+    followers: 19278
+    engagement: 705
+    commentsToLikes: 0.057325
+    id: cl48q8cp5lloz0i23pkul1hth
     verified: false
-    hashtags: "#norgesferie, #reels, #minmote, #sommerkjole"
+    hashtags: "#skincareforeveryone, #skincarecommunity, #skincare, #skincarereview"
+  - username: "elena.ingemannsen"
+    fullname: >-
+      Elena Ingemannsen | твоя віртуальна подруга ☕️
+    bio: >-
+      📍🇳🇴 NORWAY beauty addict 🇺🇦 TikTok elena.ingemannsen Новий канал ⬇️
+    location: "Norway"
+    followers: 161453
+    engagement: 762
+    commentsToLikes: 0.017140
+    id: ck15tsnmbjoy10i19a5kmp9h7
+    verified: false
+    hashtags: "#anex, #myanex, #drceurclespf, #40weekspregnant"
+  - username: "marenplatou"
+    fullname: >-
+      Maren Platou
+    bio: >-
+      Beauty | Fashion | Lifestyle | Interior ✉️ mar.platou@gmail.com
+    location: "Norway"
+    followers: 58663
+    engagement: 369
+    commentsToLikes: 0.013841
+    id: ck0w5gc5v3ib40i19pf4o6tq6
+    verified: true
+    hashtags: ""
+  - username: "evelinekarlsen"
+    fullname: >-
+      Eveline Karlsen
+    bio: >-
+      I love makeup, beauty and life
+    location: "Norway"
+    followers: 132890
+    engagement: 203
+    commentsToLikes: 0.013717
+    id: ck13c53ufynrz0i19n7mrbo8q
+    verified: false
+    hashtags: "#selfcare, #sminketips, #lifehack, #interior"
+  - username: "petrucionytee"
+    fullname: >-
+      Angelė Petručionytė
+    bio: >-
+      PLAUKŲ PRIEŽIŪRA Top plaukų priežiūros produktai Angel Beauty Shop el. parduotuvėje🤍 @angelstudio_official
+    location: "Norway"
+    followers: 60822
+    engagement: 143
+    commentsToLikes: 0.004738
+    id: ckap5ucetd79e0i78hy9vaj2t
+    verified: false
+    hashtags: "#family, #haircare, #girl, #inlove"
+  - username: "thereseaanonli"
+    fullname: >-
+      THERESE AANONLI
+    bio: >-
+      Makeupartist. Beauty, fashion, life🌈🫦🧴🫧👩‍👧 Add meg på snap:thereseaanonli Oslo,Norway #makeup #beauty #fashion #skincare
+    location: "Norway"
+    followers: 68862
+    engagement: 77
+    commentsToLikes: 0.067950
+    id: ck5bxebwynk6k0i11jin1uzyh
+    verified: false
+    hashtags: "#itcosmeticsnordics, #alwaysarden, #momanddaughter, #makeup"
   - username: "janthomasofficial"
     fullname: >-
       Jan Thomas
@@ -55,18 +115,6 @@ profiles:
     id: ck15th6bci2070i19tguriay0
     verified: false
     hashtags: "#beautycultxinglot"
-  - username: "amalieolsengjersoe"
-    fullname: >-
-      A M A L I E  O L S E N
-    bio: >-
-      22 y/o Oslo 💘🌸 Icon Beauty By Amalie Olsen 💄 I’m just here living life tihi YOLO ✌🏽✨🐸🍄 📩 contact/spons: amalieolsen.business@splay.tv
-    location: "Norway"
-    followers: 168677
-    engagement: 946
-    commentsToLikes: 0.003740
-    id: ck5zwv6v66tr00i14tb19x9v4
-    verified: true
-    hashtags: "#followforfollow, #tv2sumo, #likeforlike"
   - username: "anneliaaland"
     fullname: >-
       ANNELI AALAND
@@ -79,52 +127,4 @@ profiles:
     id: ck15r51nm66qx0i19agkwr2l9
     verified: false
     hashtags: "#annonse, #getthelook, #zalando, #essiebucketlist"
-  - username: "bybebjo"
-    fullname: >-
-      Beatrice Bjørnerud🏳️‍🌈
-    bio: >-
-      Ufiltrert: beautybybebjo på Snapchat 😗✌🏼
-    location: "Norway"
-    followers: 13552
-    engagement: 753
-    commentsToLikes: 0.034804
-    id: ckap4wjvy97b20i78v0lbnlkc
-    verified: false
-    hashtags: "#intimitet"
-  - username: "ritaermin"
-    fullname: >-
-      Rita Synnøve Sharma ☾
-    bio: >-
-      curry scented creature that loves makeup ॐ norway - welcome to the alien family 👽@beautycultnorway
-    location: "Norway"
-    followers: 94997
-    engagement: 425
-    commentsToLikes: 0.009847
-    id: ck8t0f2v6ruqx0j78y1vqquhm
-    verified: false
-    hashtags: "#anastasiabeverlyhills, #nyxcosmetics, #abhbrows, #makeup"
-  - username: "helenehemera"
-    fullname: >-
-      Helene Heméra
-    bio: >-
-      Din favorittoldemor på YouTube 👵🏼 ▫️Oslo, Norway ✉️ helenehemera@gmail.com 💄 Fast vlogger @beautycultnorway 🎥 YouTube
-    location: "Norway"
-    followers: 72845
-    engagement: 104
-    commentsToLikes: 0.030106
-    id: ck5chmyqjr2u60i114kmfnzy1
-    verified: false
-    hashtags: "#edgeofreality, #atelierrouge, #dysoncorrale, #shineloud"
-  - username: "marenplatou"
-    fullname: >-
-      Maren Platou
-    bio: >-
-      Norwegian | Oslo & Bergen • Fashion • Beauty • Lifestyle • Interior ✉️ mar.platou@gmail.com
-    location: "Norway"
-    followers: 56221
-    engagement: 248
-    commentsToLikes: 0.017731
-    id: ck0w5gc5v3ib40i19pf4o6tq6
-    verified: true
-    hashtags: ""
 ---

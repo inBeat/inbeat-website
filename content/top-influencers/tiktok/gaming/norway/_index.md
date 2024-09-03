@@ -1,11 +1,11 @@
 ---
-title: Top 10 Gaming TikTok Influencers In Norway In 2023
+title: Top 10 Gaming TikTok Influencers In Norway In 2024
 description: >-
-  Find top gaming TikTok influencers in Norway in 2023. Most popular hashtags: #fyp #foryou #gaming #foryoupage.
+  Find top gaming TikTok influencers in Norway in 2024. Most popular hashtags: #fyp #foryou #gaming #foryoupage.
 platform: TikTok
 hits: 17
-text_top: Discover the best TikTok accounts on inBeat.
-text_bottom: Our platform aggregates 17 TikTok influencers like this in Norway for you to contact.
+text_top: Analyze the best TikTok profiles on inBeat.
+text_bottom: inBeat has 17 TikTok influencers like this in Norway for you to contact.
 profiles:
   - username: "20k_freeze"
     fullname: >-
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.225310
     id: ckbki92vqakbq0j23g29lg9bb
     verified: false
-    hashtags: "#fyp, #adoptme, #makethisviral, #foryou"
+    hashtags: "#viral, #giftofgame, #blowthisup, #adoptme"
   - username: "nerdforge"
     fullname: >-
       Nerdforge

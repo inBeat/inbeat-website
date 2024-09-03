@@ -1,11 +1,11 @@
 ---
-title: Top 10 Home Decor TikTok Influencers In Miami In 2023
+title: Top 10 Home Decor TikTok Influencers In Miami In 2024
 description: >-
-  Find top home decor TikTok influencers in Miami in 2023. Most popular hashtags: #fyp #homedecor #miami #foryou.
+  Find top home decor TikTok influencers in Miami in 2024. Most popular hashtags: #fyp #miami #homedecor #diy.
 platform: TikTok
-hits: 18
-text_top: Identify the most popular TikTok accounts on inBeat.
-text_bottom: Our search engine has 18 TikTok influencers like this in Miami, United States for you to connect with.
+hits: 19
+text_top: See the best TikTok influencers on inBeat.
+text_bottom: Our platform holds 19 TikTok influencers like this in Miami, United States for you to collaborate.
 profiles:
   - username: "itsagracebigworld"
     fullname: >-
@@ -18,19 +18,7 @@ profiles:
     commentsToLikes: 0.028533
     id: ckbfgr4luc1ja0j23rdvi34bs
     verified: false
-    hashtags: "#travel, #destinationdepop, #millionactsoflove, #diy"
-  - username: "marina.b.style"
-    fullname: >-
-      Marina B. Style
-    bio: >-
-      Interior Stylist | E-Design Life + Style + Home + Decor IG @marina.b.style
-    location: "United States"
-    followers: 226300
-    engagement: 402
-    commentsToLikes: 0.008237
-    id: ck90tz3ogunla0j78gnla1iov
-    verified: false
-    hashtags: "#christmas, #decorating, #interiordesign, #decoration"
+    hashtags: "#bucketlist, #miami, #traveltiktok, #hotels"
   - username: "juliaaramirezz"
     fullname: >-
       juliaaramirezz
@@ -42,7 +30,7 @@ profiles:
     commentsToLikes: 0.035790
     id: ck9r4h5o4uvrb0j781ov6o3rh
     verified: false
-    hashtags: "#musthaves, #thingstodoinatlanta, #amazon, #amazonchallenge"
+    hashtags: "#fyp, #amazonfinds, #amazonchallenge, #thingstodoinatlanta"
   - username: "itsmarianaus"
     fullname: >-
       Mariana Umaña
@@ -55,18 +43,6 @@ profiles:
     id: ck9f1trira0gn0j78314j6q15
     verified: false
     hashtags: "#funny, #momlife, #latinas, #momsoftiktok"
-  - username: "courtshauls"
-    fullname: >-
-      COURT✰
-    bio: >-
-      
-    location: "United States"
-    followers: 4392
-    engagement: 2289
-    commentsToLikes: 0.178493
-    id: ckbb1e7f7rqk10j23484orqjp
-    verified: false
-    hashtags: "#influencer, #notonething, #gifted, #aesthetic"
   - username: "darlapowell"
     fullname: >-
       Darla Powell
@@ -114,7 +90,7 @@ profiles:
     commentsToLikes: 0.041831
     id: ckbkt2ma7o3sv0j23z5y7w93l
     verified: false
-    hashtags: "#dogsoftiktok, #springdress, #hometour, #miami"
+    hashtags: "#trend, #funny, #miami, #springdress"
   - username: "kendallhuibregtse"
     fullname: >-
       Kendall Huibregtse
@@ -127,4 +103,28 @@ profiles:
     id: ckcit2ofvzasb0j23714qd9qu
     verified: false
     hashtags: "#miami, #weddingdress, #bridalstylist, #fyp"
+  - username: "poshestyle"
+    fullname: >-
+      POSHESTYLE
+    bio: >-
+      Cami • NYC • be the CEO of your Life 👑 Fashion, Travel, Home, Self-Love
+    location: "United States"
+    followers: 6696
+    engagement: 363
+    commentsToLikes: 0.065405
+    id: ckaceug0uobi40i78a24qbjnv
+    verified: false
+    hashtags: "#dior, #miami, #girlstrip, #nycapartment"
+  - username: "gabriellaa_x18"
+    fullname: >-
+      Gabby
+    bio: >-
+      Home Organization/Decor, DIY, & random! Products linked below 👇🏼
+    location: "United States"
+    followers: 17700
+    engagement: 506
+    commentsToLikes: 0.018674
+    id: ck8vs3hizcnwz0j781ua1lzzh
+    verified: false
+    hashtags: "#diyproject, #foryou, #missyou, #amazonfinds"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fashion TikTok Influencers In Greece In 2023
+title: Top 10 Fashion TikTok Influencers In Greece In 2024
 description: >-
-  Find top fashion TikTok influencers in Greece in 2023. Most popular hashtags: #foryou #foryoupage #fyp #tiktok.
+  Find top fashion TikTok influencers in Greece in 2024. Most popular hashtags: #foryou #foryoupage #fyp #fashion.
 platform: TikTok
-hits: 15
-text_top: See the top-rated TikTok influencers on inBeat.
-text_bottom: Our database holds 15 TikTok influencers like this in Greece for you to contact.
+hits: 16
+text_top: Identify the most popular TikTok profiles on inBeat.
+text_bottom: Our search engine has 16 TikTok influencers like this in Greece for you to pitch.
 profiles:
   - username: "evasavagiou"
     fullname: >-
@@ -37,12 +37,12 @@ profiles:
     bio: >-
       • Modeling since forever • Lifestyle/travel/fashion blog @queengr • Traveling
     location: "Greece"
-    followers: 19800
-    engagement: 571
-    commentsToLikes: 0.012971
+    followers: 20500
+    engagement: 577
+    commentsToLikes: 0.013986
     id: ckbkqu2yyl80g0j23cw87olwr
     verified: true
-    hashtags: "#foryoupage, #foruyou, #foryou, #savage"
+    hashtags: "#foryou, #foryoupage, #foruyou, #fy"
   - username: "annaantwniadou"
     fullname: >-
       Anna Antwniadou
@@ -54,7 +54,19 @@ profiles:
     commentsToLikes: 0.019077
     id: ckcptn27wofvj0j23dpib9w97
     verified: false
-    hashtags: "#foryoupage, #decor, #viral, #annatony"
+    hashtags: "#greekgirl, #decor, #recipes, #foryou"
+  - username: "flymanolofly"
+    fullname: >-
+      Emmanuel Karalis
+    bio: >-
+      Professional 🇬🇷 Pole Vaulter Fine Greek Streetwear #FlyManoloFly 👕⬇️
+    location: "Greece"
+    followers: 1100000
+    engagement: 920
+    commentsToLikes: 0.013270
+    id: ck97wwes9swi20j78ae4e9idm
+    verified: true
+    hashtags: "#fmfbrand, #clothingbrand, #streetwearfashion, #greekstreetwear"
   - username: "themillerme"
     fullname: >-
       themillerme
@@ -115,16 +127,4 @@ profiles:
     id: ckbasy4gpjmlu0j23nj196e09
     verified: false
     hashtags: "#foryou, #friends, #brother, #friendship"
-  - username: "smariocustoms"
-    fullname: >-
-      Smariocustoms
-    bio: >-
-      SMARIO
-    location: "Greece"
-    followers: 2833
-    engagement: 1071
-    commentsToLikes: 0.008471
-    id: cka0k77ltlc2p0i78gwe6sl7s
-    verified: false
-    hashtags: "#foryou, #nike, #angelusdirect, #like"
 ---

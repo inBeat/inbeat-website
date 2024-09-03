@@ -1,12 +1,24 @@
 ---
-title: Top 10 Golfers Instagram Influencers In France In 2023
+title: Top 10 Golfers Instagram Influencers In France In 2024
 description: >-
-  Find top golfers Instagram influencers in France in 2023. Most popular hashtags: #france #provence #nature #hello.
+  Find top golfers Instagram influencers in France in 2024. Most popular hashtags: #golf #france #golfswing #hello.
 platform: Instagram
-hits: 12
-text_top: Analyze the best Instagram profiles on inBeat.
-text_bottom: inBeat aggregates 12 Instagram influencers like this in France for you to collaborate.
+hits: 16
+text_top: Analyze the best Instagram accounts on inBeat.
+text_bottom: inBeat aggregates 16 Instagram influencers like this in France for you to collaborate.
 profiles:
+  - username: "arnaudseriegolf"
+    fullname: >-
+      Arnaud Serie
+    bio: >-
+      Dad, Husband, Golfer & Shooter @titleist | @footjoy | @bushnellgolfeurope |@jucad_international | @swishgolf_uk |
+    location: "France"
+    followers: 64248
+    engagement: 324
+    commentsToLikes: 0.151771
+    id: ck5q654opvzlr0i11z7gxo72k
+    verified: false
+    hashtags: "#rosenshinglecreek, #golfshot, #golfing, #meribel"
   - username: "carlyabooth"
     fullname: >-
       Carly Booth
@@ -31,6 +43,30 @@ profiles:
     id: ck5caattpd22j0i11btyz2we6
     verified: true
     hashtags: "#heretocreate, #themasters, #hometeam, #usa"
+  - username: "morpheus_neo"
+    fullname: >-
+      Morpheus
+    bio: >-
+      - Journaliste / CEO @morpheuscom 📍Paris - Ex: @radiofrance @delabel - Founder : @morpheusgolfclub - Expert @nfl @mlb - Radio Host Hip Hop since 1989
+    location: "France"
+    followers: 47467
+    engagement: 310
+    commentsToLikes: 0.057170
+    id: ck0w18zt6i5930i19ic0j735x
+    verified: false
+    hashtags: "#vintage, #instagolf, #radio, #rapfrancais"
+  - username: "kimy_fit"
+    fullname: >-
+      KIMY 🇫🇷 Fit your Golf
+    bio: >-
+      ▪️Coach sportive diplômée Fit your swing for a better golf🏌🏼‍♀️💪🏻 🔝Let’s play golf with fun ⛳️My golf journey as an amateur, started 2 years ago.
+    location: "France"
+    followers: 70679
+    engagement: 76
+    commentsToLikes: 0.013426
+    id: ck5qaaq81fevt0i1191pfbh1v
+    verified: false
+    hashtags: "#goodvibesonly, #womengolf, #blondie, #teamshape"
   - username: "valentin.antonucci"
     fullname: >-
       Valentin Antonucci
@@ -91,40 +127,4 @@ profiles:
     id: ck6tibje70emf0j71se5nncdt
     verified: false
     hashtags: "#nice, #rh, #visitfrance, #artdevivre"
-  - username: "azur.isa"
-    fullname: >-
-      Isabelle
-    bio: >-
-      Mes photos, mes textes. Vous perdez votre temps à vous abonner pour vous désabonner après, je le vois 🧐. Mon deuxième compte @isa_et_son_monde
-    location: "France"
-    followers: 5376
-    engagement: 1801
-    commentsToLikes: 0.127191
-    id: ck6u0zguainos0j71niei5znc
-    verified: false
-    hashtags: "#bluesea, #regionsudpaca, #provenceoccitanie, #antibes"
-  - username: "ren_travels_from_paris"
-    fullname: >-
-      FRANCE TRAVEL PARIS VOYAGE
-    bio: >-
-      🇫🇷Basé à Paris🗼 🗺Passionné de voyage✈ ✏La vie est trop courte pour ne pas vivre ses rêves🏝 Autre compte @my_endless_travel
-    location: "France"
-    followers: 9964
-    engagement: 545
-    commentsToLikes: 0.070872
-    id: ck8sy2j4ijiag0j78vxux9pzg
-    verified: false
-    hashtags: "#confinement, #yachts, #suddelafrance, #holydays"
-  - username: "aurelienferriere"
-    fullname: >-
-      Aurelien Ferriere
-    bio: >-
-      Côte d’Azur Collab et shooting : a.ferrierephotographie@outlook.com @aurelien_ferriere_wildlife
-    location: "France"
-    followers: 2739
-    engagement: 1581
-    commentsToLikes: 0.117322
-    id: ck0vvbyfvogho0i19x3yhx6u5
-    verified: false
-    hashtags: "#ilovegolfedesainttropez, #mountain, #canonstories, #sud"
 ---

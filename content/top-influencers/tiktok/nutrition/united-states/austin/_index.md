@@ -1,10 +1,10 @@
 ---
-title: Top 10 Nutrition TikTok Influencers In Austin In 2023
+title: Top 10 Nutrition TikTok Influencers In Austin In 2024
 description: >-
-  Find top nutrition TikTok influencers in Austin in 2023. Most popular hashtags: #fyp #health #foryou #fitness.
+  Find top nutrition TikTok influencers in Austin in 2024. Most popular hashtags: #fyp #health #nutrition #foryou.
 platform: TikTok
 hits: 6
-text_top: See the most popular TikTok influencers on inBeat.
+text_top: Analyze the best TikTok accounts on inBeat.
 text_bottom: inBeat holds 6 TikTok influencers like this in Austin, United States for you to contact.
 profiles:
   - username: "jeffseidmanfitness"
@@ -66,7 +66,7 @@ profiles:
     commentsToLikes: 0.409885
     id: ckavqhcbg22an0j23494k81m7
     verified: false
-    hashtags: "#mood, #lifeathome, #singer, #cover"
+    hashtags: "#cover, #greenscreen, #lifeathome, #acousticcovers"
   - username: "brandonbatestv"
     fullname: >-
       Brandon Bates
@@ -102,7 +102,7 @@ profiles:
     commentsToLikes: 0.051868
     id: ckbfj8sqafg5j0j23q057jchq
     verified: false
-    hashtags: "#foryou, #garden, #lit, #fy"
+    hashtags: "#vegan, #tiktokpartner, #fyp, #wellness"
   - username: "the.muscle"
     fullname: >-
       The Muscle 
@@ -126,5 +126,5 @@ profiles:
     commentsToLikes: 0.056191
     id: ckd0pgkkchql00j23ohhqaop5
     verified: false
-    hashtags: "#foryou, #xyzbca, #funny, #fitnesschallenge"
+    hashtags: "#teamstronglife, #fit, #1stphorm, #overshareinyourunderwear"
 ---

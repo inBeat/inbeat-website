@@ -1,11 +1,11 @@
 ---
-title: Top 10 Barbers TikTok Influencers In Miami In 2023
+title: Top 10 Barbers TikTok Influencers In Miami In 2024
 description: >-
-  Find top barbers TikTok influencers in Miami in 2023. Most popular hashtags: #fyp #miami #barber #funny.
+  Find top barbers TikTok influencers in Miami in 2024. Most popular hashtags: #fyp #miami #barber #foryou.
 platform: TikTok
 hits: 12
-text_top: Discover the most popular TikTok profiles on inBeat.
-text_bottom: Our platform aggregates 12 TikTok influencers like this in Miami, United States for you to work with.
+text_top: Analyze the best TikTok accounts on inBeat.
+text_bottom: Our search engine has 12 TikTok influencers like this in Miami, United States for you to work with.
 profiles:
   - username: "errod_"
     fullname: >-
@@ -67,6 +67,18 @@ profiles:
     id: ckb99ib20tql20j23tdgcx8xl
     verified: false
     hashtags: "#selfcut, #rollsroyce, #nyc, #gucci"
+  - username: "randyiscomedy"
+    fullname: >-
+      Randyy
+    bio: >-
+      NY🗽 I 🖤 To Make People Laugh IG:@randyiscomedy 👻:randy-boogie
+    location: "United States"
+    followers: 531400
+    engagement: 2293
+    commentsToLikes: 0.011614
+    id: cka608ljmq51u0i785bd1l70f
+    verified: false
+    hashtags: "#viral, #lmao, #facts, #comedy"
   - username: "pjabreu"
     fullname: >-
       PEDRO ABREU 💈
@@ -114,17 +126,5 @@ profiles:
     commentsToLikes: 0.055505
     id: ck8vw2e8hn6790j786frrxyj4
     verified: false
-    hashtags: "#foryoupage, #dominican, #atlanta, #playwithlife"
-  - username: "randyiscomedy"
-    fullname: >-
-      Randyy
-    bio: >-
-      NY🗽 I 🖤 To Make People Laugh IG:@randyiscomedy 👻:randy-boogie
-    location: "United States"
-    followers: 531400
-    engagement: 2293
-    commentsToLikes: 0.011614
-    id: cka608ljmq51u0i785bd1l70f
-    verified: false
-    hashtags: "#facts, #viral, #comedy, #fyp"
+    hashtags: "#foryoupage, #cuarentena, #funny, #boredathome"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Photographers TikTok Influencers In Russia In 2023
+title: Top 10 Photographers TikTok Influencers In Russia In 2024
 description: >-
-  Find top photographers TikTok influencers in Russia in 2023. Most popular hashtags: #backstage #photographer #christmas.
+  Find top photographers TikTok influencers in Russia in 2024. Most popular hashtags: #backstage #christmas #photographer.
 platform: TikTok
 hits: 9
-text_top: Analyze the top-rated TikTok profiles on inBeat.
-text_bottom: Our search engine has 9 TikTok influencers like this in Russia for you to pitch.
+text_top: Discover the most popular TikTok profiles on inBeat.
+text_bottom: Our search engine holds 9 TikTok influencers like this in Russia for you to collaborate.
 profiles:
   - username: "daennii"
     fullname: >-

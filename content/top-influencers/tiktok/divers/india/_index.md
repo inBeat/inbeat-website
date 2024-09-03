@@ -1,11 +1,11 @@
 ---
-title: Top 10 Divers TikTok Influencers In India In 2023
+title: Top 10 Divers TikTok Influencers In India In 2024
 description: >-
-  Find top divers TikTok influencers in India in 2023. Most popular hashtags: #foryou #kerala #drivers #tiktokindia.
+  Find top divers TikTok influencers in India in 2024. Most popular hashtags: #foryou #drivers #tiktokindia #kerala.
 platform: TikTok
 hits: 30
-text_top: Discover the most popular TikTok influencers on inBeat.
-text_bottom: Our search engine aggregates 30 TikTok influencers like this in India for you to connect with.
+text_top: Analyze the top-rated TikTok profiles on inBeat.
+text_bottom: Our search engine holds 30 TikTok influencers like this in India for you to pitch.
 profiles:
   - username: "gaurav_r_1995"
     fullname: >-

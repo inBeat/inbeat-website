@@ -1,130 +1,130 @@
 ---
-title: Top 10 Food Instagram Influencers In Lisbon In 2023
+title: Top 10 Food Instagram Influencers In Lisbon In 2024
 description: >-
-  Find top food Instagram influencers in Lisbon in 2023. Most popular hashtags: #lisbon #portugal #food #instagood.
+  Find top food Instagram influencers in Lisbon in 2024. Most popular hashtags: #lisbon #summer #portugal #food.
 platform: Instagram
-hits: 9
-text_top: Analyze the top-rated Instagram influencers on inBeat.
-text_bottom: Our platform holds 9 Instagram influencers like this in Lisbon, Portugal for you to work with.
+hits: 25
+text_top: Discover the most popular Instagram influencers on inBeat.
+text_bottom: inBeat holds 25 Instagram influencers like this in Lisbon, Portugal for you to collaborate.
 profiles:
-  - username: "jmigsimoes"
+  - username: "chefkikomartins"
     fullname: >-
-      João Miguel Simões
+      Chef Kiko Martins
     bio: >-
-      Creative Consultant & Content Creator (social media) | Based in Lisbon | Founder #addressbookbyjms | travel • food • design • menswear • arch
+      👨‍🍳 Sharing World Cuisine 🍽️ Influencing about Sustainability and Food Waste ✈️ Traveller hunting for food experiences Follow me to get connected 👇
     location: "Portugal"
-    followers: 116612
-    engagement: 197
-    commentsToLikes: 0.090400
-    id: ck5zzn4bvc1rj0i1453awqb62
+    followers: 141140
+    engagement: 74
+    commentsToLikes: 0.027274
+    id: ck0ubk81femq80i19gad1g9mx
     verified: false
-    hashtags: "#bonparfumeur, #colourblock, #uniqloxjilsander, #christmas"
-  - username: "rafaelaalexandra0"
+    hashtags: "#chefkiko, #acevicheria, #cafenacarta, #nespresso"
+  - username: "ritasdcarvalho"
     fullname: >-
-      Rafaela Duarte | Healthy 💫
+      Rita Carvalho
     bio: >-
-      🌱 wellness | food | lifestyle 📖 Marketing e Publicidade 📍 Lisboa, Portugal 😋 PROZIS: RAFAELADUARTE 💻 @ellephant.pt 💫YouTube
+      📍Lisbon, Portugal ✈️ Travel & 🥂 Food Enthusiast
     location: "Portugal"
-    followers: 55768
-    engagement: 522
-    commentsToLikes: 0.029931
-    id: ckapbzw1a1xic0i78r1nx98i6
+    followers: 8537
+    engagement: 145
+    commentsToLikes: 0.022296
+    id: ckaosdu6er7ve0i782g0milzt
     verified: false
-    hashtags: "#healthychoices, #veganfood, #eathealthy, #healthylifestyle"
-  - username: "weekendlovers_pt"
+    hashtags: "#turismo, #natureza, #viajare, #mochilando"
+  - username: "uvzuben"
     fullname: >-
-      Weekend Lovers
+      Ursula von Zuben
     bio: >-
-      An instablog about our family enjoying life! 👨‍👩‍👧 Family • Love • Travel & Food Lovers 📍Lisboa 🇵🇹 📩 weekendlovers.pt@gmail.com
+      📍Lisbon, Portugal @nxt.management Digital and Brands filipe@next.pt
     location: "Portugal"
-    followers: 30538
-    engagement: 400
-    commentsToLikes: 0.084625
-    id: ck5zlo196l2x60i143zwvhqic
+    followers: 14315
+    engagement: 29
+    commentsToLikes: 0.001512
+    id: ck5hspe0pwz9n0i1172t674f8
     verified: false
-    hashtags: "#staysafe, #travel, #portugal, #river"
-  - username: "michal_officiel"
+    hashtags: "#reels, #reelsinstagram, #ootd, #fashion"
+  - username: "caatarinavieira"
     fullname: >-
-      Michal Kwiatkowski
+      Catarina Vieira | Travel
     bio: >-
-      #music #food #love #sport
+      ✈ Travel & Experiences 📷 Follow for daily travel content, unique stays and good food 🎓 Materials Engineer, based in Lisbon 🇵🇹
     location: "Portugal"
-    followers: 59510
-    engagement: 218
-    commentsToLikes: 0.021899
-    id: ck8t99lrjnbb50j78rrtu4t2i
-    verified: true
-    hashtags: "#bixentesimonet, #vacances, #throwbackthursday, #menstyle"
+    followers: 22726
+    engagement: 346
+    commentsToLikes: 0.104730
+    id: ck8t0zgd2twjt0j78n5wk5dts
+    verified: false
+    hashtags: "#visitcinqueterre, #florence, #firenze, #cinqueterre"
+  - username: "diogorcarrilho"
+    fullname: >-
+      DIOGO CARRILHO
+    bio: >-
+      💻Designer, photographer and traveler!🌴 📍lisbon, Portugal
+    location: "Portugal"
+    followers: 13373
+    engagement: 590
+    commentsToLikes: 0.014130
+    id: ck8t6cxj8d5870j78q2eg4tc7
+    verified: false
+    hashtags: "#food, #digsaroundtheworld, #costaalentejana, #colors"
   - username: "ruimotaa"
     fullname: >-
       RUI MOTA
     bio: >-
-      👨‍🍳 Chef, Teacher & Food Designer 👨‍🎓 MSc in Gastronomic Sciences | ISA UL 📍 Based in Lisbon | 25 yrs
+      👨‍🍳 Chef, Teacher & Food Designer 👨‍🎓 MSc in Gastronomic Sciences | ISA UL 📍 Based in Lisbon | 28 yrs
     location: "Portugal"
-    followers: 10911
-    engagement: 874
-    commentsToLikes: 0.467190
+    followers: 11025
+    engagement: 866
+    commentsToLikes: 0.232358
     id: ck0u6ea241oge0i19f8i1ndi1
     verified: false
-    hashtags: "#chefsofinstagram, #gastroart, #smartwhip, #chefsplating"
-  - username: "coach_saraserol"
+    hashtags: "#chefsofinstagram, #smartwhip, #gourmazing, #gastroart"
+  - username: "szilagyinora"
     fullname: >-
-      Sara Serol
+      Szilágyi Nóra
     bio: >-
-      📍Lisbon, 24 ⚡ Personal Trainer- presencial & online 📩 @eunutrition_pt : SARASEROL15 💥
+      Photographer ⚫ Confectioner ⚫ Food stylist ⚫ Traveller ⚫ Kettlebell lover ⚫ Work: StreetKitchen 📷👩‍🍳🎂
     location: "Portugal"
-    followers: 3663
-    engagement: 1196
-    commentsToLikes: 0.014761
-    id: ckf5n8h9ix5j30j23bhiyg8gx
+    followers: 18044
+    engagement: 370
+    commentsToLikes: 0.008473
+    id: ck55o86en7tr90i11xwrzbala
     verified: false
-    hashtags: "#fitgirl, #ootd, #summer, #water"
-  - username: "adriano.fy"
+    hashtags: "#foodie, #cake, #lisbon, #portugal"
+  - username: "tudoatoa"
     fullname: >-
-      Adriano Batista
+      Wazowski ✨
     bio: >-
-      Editor-in-chief of @fuuuckingyoung magazine & Fashion Editor of @veinmagazine. 🙈 📍Barcelona
+      Lifestyle | Food Vlogs Gestão Turística 🎓
     location: "Portugal"
-    followers: 15380
-    engagement: 544
-    commentsToLikes: 0.017924
-    id: ck14jovlzlg6k0i193682yx0b
+    followers: 8809
+    engagement: 368
+    commentsToLikes: 0.017469
+    id: ckap2mgiczhe70i78cz4zr69j
     verified: false
-    hashtags: "#canaryislands, #marlosaalmink, #richbrian, #lisbon"
-  - username: "ricardofmlopes"
+    hashtags: "#outfitideas, #brownskinbeauty, #orangedress, #fashion"
+  - username: "claudiadecastroferreira"
     fullname: >-
-      Ricardo Lopes
+      Cláudia | Travel, Food & Mum Life
     bio: >-
-      25 || lisboa, pt | from abrantes Digital Content | Lifestyle | Travel 📩 ricardofmlopes@gmail.com
+      📮thepinkbookofstyle@gmail.com 📍Lisbon, Portugal 🌍 31 countries and counting
     location: "Portugal"
-    followers: 11607
-    engagement: 1144
-    commentsToLikes: 0.014149
-    id: ck8t9l12mohhi0j78sqhari9c
+    followers: 11873
+    engagement: 372
+    commentsToLikes: 0.024722
+    id: ck5q4x3j3qkxn0i11gfm17qd0
     verified: false
-    hashtags: "#travelgram, #boystyle, #visitportugal, #staypositive"
-  - username: "lavieenrose321"
+    hashtags: "#toulouse, #carcassonnecastle, #visiteztoulouse, #francetourisme"
+  - username: "belle_azzure"
     fullname: >-
-      Raquel Teixeira
+      B E L L E    A Z Z U R E
     bio: >-
-      • 32’ | Food&Quality Engineer |📍Lisboa | PT • LifeStyle | Good Vibes • 🐕@shivafriends • Código 10% @cascarija “RAQUEL10”
+      By Dearbhla ✨Fitness | Wellbeing | Lifestyle ✨PT🏋🏽‍♀️Pre&Postnatal| Easy Food Recipes🥑⬇️ ✨Digital Marketer @Google | Wife & Mama 💙
     location: "Portugal"
-    followers: 14965
-    engagement: 490
-    commentsToLikes: 0.036156
-    id: ck8t5vcpebdge0j78309pvu8w
+    followers: 99125
+    engagement: 315
+    commentsToLikes: 0.149320
+    id: ckap5mij9cbxe0i78crp87bo9
     verified: false
-    hashtags: "#lavieenrose, #zaracardigan, #cascarija, #consciousthelabel"
-  - username: "tothepointenutrition"
-    fullname: >-
-      Dance Nutritionist Rachel Fine
-    bio: >-
-      Nutrition for dancers🩰 🙋🏻‍♀️ Dietitian & dancer 🍎Food + Body confidence @dance_masterclass Q+A @pointemagazineofficial 👇🏼Become The Healthy Dancer®
-    location: "Portugal"
-    followers: 37160
-    engagement: 204
-    commentsToLikes: 0.012168
-    id: ck6tkfn344lx00j714kteow87
-    verified: false
-    hashtags: "#balletdancers, #nutritionfordancers, #dancecompetition, #yagp"
+    hashtags: "#quickrecipes, #portugal, #glutenfree, #vhiwmm"
 ---

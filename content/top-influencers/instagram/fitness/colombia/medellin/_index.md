@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Medellín In 2023
+title: Top 10 Fitness Instagram Influencers In Medellín In 2024
 description: >-
-  Find top fitness Instagram influencers in Medellín in 2023. Most popular hashtags: #fitness #medellin #colombia #photography.
+  Find top fitness Instagram influencers in Medellín in 2024. Most popular hashtags: #fitness #medellin #colombia #workout.
 platform: Instagram
-hits: 38
-text_top: Analyze the top-rated Instagram profiles on inBeat.
-text_bottom: Our platform has 38 Instagram influencers like this in Medellín, Colombia for you to work with.
+hits: 39
+text_top: Identify the best Instagram influencers on inBeat.
+text_bottom: Our search engine holds 39 Instagram influencers like this in Medellín, Colombia for you to work with.
 profiles:
   - username: "dr.tonni"
     fullname: >-
@@ -19,6 +19,18 @@ profiles:
     id: ck8wg6z05gu3j0j78mcrw9qau
     verified: false
     hashtags: "#toditos, #muscle, #playa, #cartagena"
+  - username: "rolando_posada"
+    fullname: >-
+      Rolando Posada, MD, PhD.
+    bio: >-
+      Specialist Physician Internal Medicine/ICU Pharmacology/Physiology Co-Founder @connect.humans Medical Counselor @theheavyunit_ Married 💍 @sindy_mena
+    location: "Colombia"
+    followers: 55150
+    engagement: 147
+    commentsToLikes: 0.049382
+    id: ck5c102oqu6nm0i11nt7jqqw1
+    verified: false
+    hashtags: "#eaa, #health, #salud, #medellin"
   - username: "pabon.art"
     fullname: >-
       Jhonatan Pabon
@@ -31,18 +43,18 @@ profiles:
     id: ck55osusa927v0i11ix4c50ni
     verified: false
     hashtags: "#nature, #bodyart, #cheyennetattooequipment, #boudoir"
-  - username: "tati.barrera"
+  - username: "cristianarangoo"
     fullname: >-
-      TATI BARRERA 🎮💜🦝
+      Cristian Arango
     bio: >-
-      𝔾𝕒𝕞𝕖𝕣 𝔸𝕡𝕒𝕤𝕚𝕠𝕟𝕒𝕕𝕒🎮 IᑎᖴᒪᑌEᑎᑕEᖇ🚨 𝗔𝗺𝗮𝗻𝘁𝗲 𝗱𝗲 𝗹𝗮𝘀 𝘀𝗼𝗻𝗿𝗶𝘀𝗮𝘀 𝗮𝗷𝗲𝗻𝗮𝘀♡ 𝑺𝒕𝒓𝒆𝒂𝒎𝒆𝒓 🎧💻 Ú𝗻𝗶𝗰𝗮 𝗰𝘂𝗲𝗻𝘁𝗮 🟣
+      Colombia 🇨🇴 Contador Público 🎓 Especialista en finanzas 🎓
     location: "Colombia"
-    followers: 9716
-    engagement: 818
-    commentsToLikes: 0.734872
-    id: ck9wdny3wgge00j78nkvz1ly6
+    followers: 59431
+    engagement: 320
+    commentsToLikes: 0.023131
+    id: ck8tc6vqoyhzc0j78e599429f
     verified: false
-    hashtags: "#colombiangirl, #gamerlife, #gamers, #streamergirls"
+    hashtags: "#cuteboys, #fitnesscolombia, #latino, #calico"
   - username: "jhulianaorozcog"
     fullname: >-
       Jhuliana Orozco💟
@@ -55,18 +67,6 @@ profiles:
     id: ckf5mh82wtsk40j23oph0ln3h
     verified: false
     hashtags: "#happy, #pic, #instagram, #febrero"
-  - username: "rolando_posada"
-    fullname: >-
-      Rolando A. Posada F.
-    bio: >-
-      Medicina Interna. Nutrición/Farmacología/Fisiología rolandoposada2004@gmail.com @sindy_mena 👰🏻💍
-    location: "Colombia"
-    followers: 31588
-    engagement: 247
-    commentsToLikes: 0.054658
-    id: ck5c102oqu6nm0i11nt7jqqw1
-    verified: false
-    hashtags: "#anabolicdoc, #medellin, #healthylifestyle, #salud"
   - username: "herreradesafio"
     fullname: >-
       Alejo Herrera 🇨🇴
@@ -79,6 +79,18 @@ profiles:
     id: ck600trs4e98r0i14sy0vyb34
     verified: false
     hashtags: "#siemprefirme, #it, #living, #colombia"
+  - username: "tatianaariasnaranjo"
+    fullname: >-
+      Tatiana Arias Naranjo
+    bio: >-
+      🤍 fitness Certificado deportivo para mujeres Coaching online Owner @woarsportwear Ambassador @prosciencesupps
+    location: "Colombia"
+    followers: 283346
+    engagement: 189
+    commentsToLikes: 0.020820
+    id: ckapbnkd80l5z0i78x8y2gh2j
+    verified: false
+    hashtags: "#rutina, #gym, #gluteos, #workout"
   - username: "davidcardenass230"
     fullname: >-
       David Cárdenas
@@ -91,40 +103,28 @@ profiles:
     id: ck8t8swuwlom10j78zd0k6o6d
     verified: false
     hashtags: "#model, #latino, #fitness, #pereira"
-  - username: "camiloroanutricionista"
+  - username: "valeriaduqueh"
     fullname: >-
-      Dr. Camilo Roa® 👨🏻‍⚕️👱🏻‍♀️✍🏻
+      VALERIA DUQUE 🔱
     bio: >-
-      🇨🇴🥇Nutricionista Dietista Coach 💻 Online 🌎 📞+573044713952 🇪🇸Esp.N.Deportiva y Fitness🏃🏻 🇪🇸Esp.Sobrepeso Obesidad🍴 🥗Recomposición Corporal⚙️ 🍔 Hábitos
+      📩 valeriaduquehcontacto@gmail.com Desafío Súper Humanos XV Comunicadora Social, periodista Fitness lifestyle✨ Modelo ✨Content creator
     location: "Colombia"
-    followers: 121517
-    engagement: 102
-    commentsToLikes: 0.027509
-    id: ck8sz2favmx340j78unmqz99n
+    followers: 1702864
+    engagement: 314
+    commentsToLikes: 0.017060
+    id: ck0w71qvgbbwr0i19etl210f3
     verified: false
-    hashtags: "#fitness, #nutri, #bajardepesorapido, #tonificar"
-  - username: "marianelamodel"
+    hashtags: "#fitness, #fitnesslifestyle, #barbiegirl, #fitnessmodel"
+  - username: "angelitahera"
     fullname: >-
-      MARIANELA | PRESENTADORA
+      Angelica Hernandez
     bio: >-
-      🇨🇴 Miss sudamerica 2020 🏋🏽‍♀️ fitness 👩🏼‍💼Creadora de @malena_stylee
+      @angelita.music CEO/Founder @anhera.oficial Be a Queen 👸🏻👉🏻 @angelita.tips 📍 Medellín 🇨🇴
     location: "Colombia"
-    followers: 70301
-    engagement: 217
-    commentsToLikes: 0.023285
-    id: ck5q3ihpokw7e0i11gl42nznm
-    verified: false
-    hashtags: "#instagood, #instafashion, #photography, #mexico"
-  - username: "andeezeta"
-    fullname: >-
-      Andee Zeta
-    bio: >-
-      Artist ⚡️ Producer ⚡️Song Writer 2 x Grammy winner Medellín📍 Welcome to my life 🎶🐶😸🍺🎵 Escucha: LO BONITO ES SIMPLE👇👇👇
-    location: "Colombia"
-    followers: 44605
-    engagement: 172
-    commentsToLikes: 0.091510
-    id: ck5he8j3yrlyk0i11jqo3ndsu
+    followers: 1844829
+    engagement: 92
+    commentsToLikes: 0.011546
+    id: ck6tlx5dt6sr20j71a8nv2ekz
     verified: true
-    hashtags: "#bogota, #newmusic, #newsingalert, #fashionphotography"
+    hashtags: "#embajadora, #recordando, #fitmom, #fitness"
 ---

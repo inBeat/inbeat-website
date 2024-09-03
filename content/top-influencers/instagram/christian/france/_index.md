@@ -1,24 +1,12 @@
 ---
-title: Top 10 Christian Instagram Influencers In France In 2023
+title: Top 10 Christian Instagram Influencers In France In 2024
 description: >-
-  Find top christian Instagram influencers in France in 2023. Most popular hashtags: #instagood #photography #photooftheday.
+  Find top christian Instagram influencers in France in 2024. Most popular hashtags: #photooftheday #instagood #photography.
 platform: Instagram
-hits: 368
-text_top: Identify the top-rated Instagram accounts on inBeat.
-text_bottom: Our search engine has 368 Instagram influencers like this in France for you to pitch.
+hits: 410
+text_top: See the most popular Instagram influencers on inBeat.
+text_bottom: Our search engine aggregates 410 Instagram influencers like this in France for you to work with.
 profiles:
-  - username: "laurengadoury"
-    fullname: >-
-      Lauren👑Gadoury
-    bio: >-
-      •USF🐮 •Waylon the Jeep Wrangler🤠 •FL🌴 •BA: @valkyrie.4x4 @christianramirezdesigns 🤘🏽 PM💖: @dirtnglam🦌 @4x4bombshells🇺🇸 @countrybelleshoutouts 🤠
-    location: "France"
-    followers: 21562
-    engagement: 700
-    commentsToLikes: 0.135074
-    id: ckap8xyomqdgc0i78wplqeuau
-    verified: false
-    hashtags: "#republican, #explore, #jeepgirl, #countrylife"
   - username: "luyindama"
     fullname: >-
       Christian Luyindama
@@ -31,30 +19,6 @@ profiles:
     id: ck15rfgkh7o7m0i19tnki7ga7
     verified: true
     hashtags: ""
-  - username: "m1shamiller"
-    fullname: >-
-      M I S H A    M I L L E R 🥀
-    bio: >-
-      “Up all Night“ x @its.christian.eberhard out now . #19 Billboard Dance Chart #scorpio #13🦂🖤
-    location: "France"
-    followers: 25913
-    engagement: 573
-    commentsToLikes: 0.032321
-    id: ck5c0xnelu1rs0i11heds2061
-    verified: false
-    hashtags: "#giveaway, #makeupgiveaway, #beautygiveaway, #cosmeticsgiveaway"
-  - username: "dorothy_______"
-    fullname: >-
-      Dorothy Tamuno
-    bio: >-
-      Christian • Wife • Yummy Mummy • Photographer @dorothytamuno 🤎 founder of @virgin_ology
-    location: "France"
-    followers: 9283
-    engagement: 1161
-    commentsToLikes: 0.032040
-    id: ck0u12eo7vjux0i199uxt5h48
-    verified: false
-    hashtags: "#goodfriday, #gifted, #iwd2021"
   - username: "melanie_djds972"
     fullname: >-
       Melanie De Jesus Dos Santos
@@ -103,18 +67,6 @@ profiles:
     id: ckapcr88e4vi70i78gyluqc4w
     verified: false
     hashtags: "#christmasbakeoffcollab, #smoothiepsalm"
-  - username: "marie_cc23"
-    fullname: >-
-      Crystal✨
-    bio: >-
-      Mommy to Christian Carter❤️ Personal Trainer & Instructor💪🏼 @a_dfitness Hairstylist💇🏻‍♀️
-    location: "France"
-    followers: 5369
-    engagement: 627
-    commentsToLikes: 0.072922
-    id: ck5qa69dqerdc0i11kwewmdk1
-    verified: false
-    hashtags: "#freemanbuttlift10crew, #nh2020, #womenempowerment, #happybirthday"
   - username: "chris7413"
     fullname: >-
       
@@ -127,4 +79,52 @@ profiles:
     id: ck0vz358s72120i19ylppt7n0
     verified: false
     hashtags: "#hello, #cheznousmarseille, #beautiful, #marseilleworld"
+  - username: "sterck_tamara"
+    fullname: >-
+      🔱Tamara Sterck🔱
+    bio: >-
+      • 25 ʏᴏ 🇹🇩 • 📷 Shooting Model • 👗Founder: @fashionboutiquetams • 💍@christian_houbben
+    location: "France"
+    followers: 15224
+    engagement: 252
+    commentsToLikes: 0.028578
+    id: ckap1wvfwwf9y0i78cj7tg8hd
+    verified: false
+    hashtags: "#bijoux, #spafrancorchamps, #liege, #instagood"
+  - username: "aufilduperigord"
+    fullname: >-
+      Au Fil du Perigord 🌳 ღ
+    bio: >-
+      📍France ❣️ 🇫🇷 #perigord #dordogne 🌿 ღ 🌸 Partagez vos plus belles photos du Périgord 🕍🥖🌎 #aufilduperigord Le Périgord Autrement ❤️#christianbobin
+    location: "France"
+    followers: 10735
+    engagement: 941
+    commentsToLikes: 0.012231
+    id: ck0w1i185jg6l0i196b8jh417
+    verified: false
+    hashtags: "#perigordpourpre, #perigordnoir, #french, #fall"
+  - username: "officielledesbodins"
+    fullname: >-
+      Les Bodin's
+    bio: >-
+      Maria (Vincent Dubois) et Christian Bodin (Jean-Christian Fraiscinet), en tournée dans toute la France avec #GrandeurNature jusqu’en décembre 2021 !
+    location: "France"
+    followers: 55164
+    engagement: 566
+    commentsToLikes: 0.021251
+    id: ck5hgrt7q4eu90i11g8lt62on
+    verified: false
+    hashtags: "#tours, #lesbodins, #spectacle, #grandeurnature"
+  - username: "christian_ahlmann_fan_page"
+    fullname: >-
+      Christian Ahlmann Fan Page
+    bio: >-
+      💛💙 Fan page! follow me if you are a Christian Ahlmann fan 😁 my idol forever 🇩🇪 Facebook : Christian Ahlmann - fan © @_cp.photographie
+    location: "France"
+    followers: 22613
+    engagement: 311
+    commentsToLikes: 0.003590
+    id: ckaort6p4on150i786cvfu7g1
+    verified: false
+    hashtags: "#gpa, #animo, #horses, #memories"
 ---

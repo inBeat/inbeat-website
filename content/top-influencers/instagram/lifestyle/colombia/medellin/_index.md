@@ -1,12 +1,24 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Medellín In 2023
+title: Top 10 Lifestyle Instagram Influencers In Medellín In 2024
 description: >-
-  Find top lifestyle Instagram influencers in Medellín in 2023. Most popular hashtags: #medellin #lifestyle #colombia #love.
+  Find top lifestyle Instagram influencers in Medellín in 2024. Most popular hashtags: #lifestyle #medellin #colombia #photooftheday.
 platform: Instagram
-hits: 44
-text_top: See the top-rated Instagram influencers on inBeat.
-text_bottom: inBeat aggregates 44 Instagram influencers like this in Medellín, Colombia for you to collaborate.
+hits: 45
+text_top: See the best Instagram influencers on inBeat.
+text_bottom: inBeat holds 45 Instagram influencers like this in Medellín, Colombia for you to pitch.
 profiles:
+  - username: "dianahoyosmusic"
+    fullname: >-
+      Diana Hoyos
+    bio: >-
+      Actriz de colombia para el mundo 🇨🇴 🌍 Cantante 🎤 Escucha aquí mi nuevo sencillo👇🏼
+    location: "Colombia"
+    followers: 1541889
+    engagement: 175
+    commentsToLikes: 0.035162
+    id: ck5c0zpveu5uv0i11ekx4327i
+    verified: true
+    hashtags: "#decolorvivo, #vivetucolor, #concierto, #mujeresalaplancha"
   - username: "jh_vahos"
     fullname: >-
       ⓙⓗⓞⓝ  ⓥⓐⓗⓞⓢ 🔥
@@ -67,18 +79,6 @@ profiles:
     id: ckaor9cn1m9x40i786hridnkf
     verified: false
     hashtags: "#night, #covid, #techno, #techhouse"
-  - username: "vane_eslava"
-    fullname: >-
-      Vane Eslava
-    bio: >-
-      #model from🇨🇴 #artista •Amor,tolerancia y respeto por los animales🐾 🍭🎈 Publicidad,contratación al DM📩
-    location: "Colombia"
-    followers: 43834
-    engagement: 236
-    commentsToLikes: 0.026712
-    id: ckf5su7thg7ru0j23e5gwo5dq
-    verified: false
-    hashtags: "#model, #portrait, #love, #instagram"
   - username: "lucius.ph"
     fullname: >-
       ・ＬＵＣＩＵＳ •
@@ -91,18 +91,6 @@ profiles:
     id: ck5zknppsjtci0i149c4cckq6
     verified: false
     hashtags: "#swag, #lifestyle, #bogota, #the35mmdiary"
-  - username: "danielrestrepogarcia"
-    fullname: >-
-      𝑫𝒂𝒏𝒊𝒆𝒍 𝑹𝒆𝒔𝒕𝒓𝒆𝒑𝒐 I Clavados
-    bio: >-
-      Nos vemos en Francia 🇫🇷 @paris2024 acompáñame a vivir un ciclo olímpico Campeón Panamericano Lima 2019 Campeón olímpico de la juventud 2018
-    location: "Colombia"
-    followers: 19827
-    engagement: 1020
-    commentsToLikes: 0.025376
-    id: ck8sxy4w6j33z0j78bo5e1iqo
-    verified: false
-    hashtags: "#me, #fit, #covid, #workout"
   - username: "alejalopezmusic"
     fullname: >-
       ALEJA
@@ -127,4 +115,16 @@ profiles:
     id: ckf5uc22akc360j23mvemqqlo
     verified: false
     hashtags: "#workout, #bucaramanga, #model, #crossfit"
+  - username: "angulosaul"
+    fullname: >-
+      Saul Angulo
+    bio: >-
+      PR & Influencer MKT Foodie || LifeStyle Industrial Enginner 📍México City || (Made in Sinaloa).
+    location: "Colombia"
+    followers: 41914
+    engagement: 308
+    commentsToLikes: 0.041209
+    id: ck15pzooq0fdj0i19f9p9wznt
+    verified: false
+    hashtags: "#mensstyle, #vacation, #menstyle, #travel"
 ---

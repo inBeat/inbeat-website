@@ -1,11 +1,11 @@
 ---
-title: Top 10 Travel TikTok Influencers In Indonesia In 2023
+title: Top 10 Travel TikTok Influencers In Indonesia In 2024
 description: >-
-  Find top travel TikTok influencers in Indonesia in 2023. Most popular hashtags: #fyp #tiktoktravel #bali #travel.
+  Find top travel TikTok influencers in Indonesia in 2024. Most popular hashtags: #fyp #tiktoktravel #bali #foryoupage.
 platform: TikTok
 hits: 60
-text_top: Discover the best TikTok accounts on inBeat.
-text_bottom: inBeat holds 60 TikTok influencers like this in Indonesia for you to work with.
+text_top: Analyze the top-rated TikTok profiles on inBeat.
+text_bottom: Our search engine aggregates 60 TikTok influencers like this in Indonesia for you to connect with.
 profiles:
   - username: "agatillano"
     fullname: >-
@@ -66,7 +66,7 @@ profiles:
     commentsToLikes: 0.025671
     id: ckd0a3fombsyw0j238z83ns0f
     verified: false
-    hashtags: "#rajaampat, #adatiketnya, #tiktoktravel, #papua"
+    hashtags: "#papua, #ditiketin, #rajaampat, #tiktoktravel"
   - username: "andrebinarto"
     fullname: >-
       Andre Binarto
@@ -78,7 +78,7 @@ profiles:
     commentsToLikes: 0.062622
     id: ckd5xz3og0bjg0j23fjngfvg3
     verified: false
-    hashtags: "#tiktokindonesia, #inspirasiramadan, #belumtaudia, #taugaksih"
+    hashtags: "#taugaksih, #holiday, #voiceeffects, #traveling"
   - username: "jejakbayuubay69"
     fullname: >-
       Jejakbayuubay 
@@ -126,5 +126,5 @@ profiles:
     commentsToLikes: 0.020852
     id: ck9rgytjjd5fs0j78u4ifngrb
     verified: false
-    hashtags: "#nature, #travel, #wildones, #cute"
+    hashtags: "#bali, #indonesian, #indonesia, #viral"
 ---

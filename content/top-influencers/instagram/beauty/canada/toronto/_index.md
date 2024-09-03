@@ -1,130 +1,130 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Toronto In 2023
+title: Top 10 Beauty Instagram Influencers In Toronto In 2024
 description: >-
-  Find top beauty Instagram influencers in Toronto in 2023. Most popular hashtags: #beauty #toronto #wakeupandmakeup #fashion.
+  Find top beauty Instagram influencers in Toronto in 2024. Most popular hashtags: #toronto #beauty #makeup #makeuptutorial.
 platform: Instagram
-hits: 91
-text_top: Analyze the top-rated Instagram influencers on inBeat.
-text_bottom: Our database has 91 Instagram influencers like this in Toronto, Canada for you to work with.
+hits: 257
+text_top: Discover the top-rated Instagram profiles on inBeat.
+text_bottom: Our search engine holds 257 Instagram influencers like this in Toronto, Canada for you to contact.
 profiles:
-  - username: "victoriasabovitch"
+  - username: "patriciaberenzon"
     fullname: >-
-      𝕍𝕚𝕔𝕥𝕠𝕣𝕚𝕒 𝕊𝕒𝕓𝕠𝕧𝕚𝕥𝕔𝕙
+      Patricia Berenzon
     bio: >-
-      Toronto♡ | 23 Tiktok: @victoriasabovitch (700k+) Business📩: Victoria@dulcedo.com
+      wellness• lifestyle • fashion • beauty Toronto + Dubai 💌patriciabere37@gmail.com ⬇️book a call with me + links
     location: "Canada"
-    followers: 52191
-    engagement: 655
-    commentsToLikes: 0.014631
-    id: ck5c4d7j613s70i11r2i54o1u
+    followers: 79852
+    engagement: 471
+    commentsToLikes: 0.028530
+    id: cksqx09jnbn5y0j23kexelk4q
     verified: false
-    hashtags: "#canada, #instagram, #reels, #reelsinstagram"
-  - username: "guneetbenipal"
+    hashtags: "#ad, #noughtyhaircare, #canadagetsnoughty, #sogooditsnoughty"
+  - username: "reena.dhillonn"
     fullname: >-
-      Gunu 🌸
+      Reena Dhillon
     bio: >-
-      📍TORONTO 💄 Makeup • Skincare • Fashion 💌 Email for Collabs, Shoots & PR Inquiries 🎵 Tiktok: gunuu07
+      A touch of fashion mixed with a sprinkle of life🧿 Everyday outfits, Decor & Beauty Toronto🇨🇦
     location: "Canada"
-    followers: 4700
-    engagement: 716
-    commentsToLikes: 0.201164
-    id: ckap7d7injk6w0i78ee3qs4iu
+    followers: 102683
+    engagement: 31
+    commentsToLikes: 0.207041
+    id: cks8aqh31upnk0j2323qrx0p7
     verified: false
-    hashtags: "#makeupaddict, #torontomakeupartist, #fullglam, #lifestyle"
+    hashtags: "#homedesign, #ootd, #coffeetable, #homedecor"
+  - username: "remedie_brar"
+    fullname: >-
+      Remedie Brar
+    bio: >-
+      @perfposals @tourmalinejewels_ New video #hatinguncles2
+    location: "Canada"
+    followers: 31169
+    engagement: 394
+    commentsToLikes: 0.070799
+    id: ck5zqj80jup230i14uhqryg5t
+    verified: false
+    hashtags: "#toronto, #bramptonmakeupartist, #dhaliwalia, #beauty"
+  - username: "amplifiedsoul"
+    fullname: >-
+      Shobana Lakkavally
+    bio: >-
+      Empowering every skin tone + age through beauty National TV Beauty Expert @cityline @breakfasttelevision @ctv Global PRO MUAH& Educator MOM 👧🏾👶🏽🐶 #40
+    location: "Canada"
+    followers: 45006
+    engagement: 132
+    commentsToLikes: 0.098545
+    id: ck600kqubdsc00i14llbna7yz
+    verified: false
+    hashtags: "#beauty, #torontolife, #beautyexpert, #torontomoms"
+  - username: "christinechobeauty"
+    fullname: >-
+      Christine Cho
+    bio: >-
+      👩🏻‍🎨 I paint faces and talk about it on TV 🇨🇦 Kimchi-flavoured Canadian living in 🏝🇧🇧 Latest show: French Pharmacy 👩🏻‍⚕️ ⤵️
+    location: "Canada"
+    followers: 15016
+    engagement: 122
+    commentsToLikes: 0.115668
+    id: ckrxec7p7piig0j23evqg3vfy
+    verified: false
+    hashtags: "#onair, #islandlife, #caribbean, #tv"
+  - username: "mibroadshow"
+    fullname: >-
+      MIB Roadshow
+    bio: >-
+      MUSIC TUNED FOR THE WORLD GLOBAL RADIO ■ MIXTAPES ■ DJ SERVICES A boutique outfit of talents extraordinaire music. magic. memories.
+    location: "Canada"
+    followers: 13360
+    engagement: 637
+    commentsToLikes: 0.002686
+    id: ck6ub605f7obf0j718gf1j0gl
+    verified: false
+    hashtags: "#events, #party, #weddings, #marriage"
+  - username: "ajthetechnologist"
+    fullname: >-
+      AJ
+    bio: >-
+      Lifestyle~Beauty~Foodie Toronto Content Creator Digital Marketing Strategist PR/Collabs💌: technologist.aj@gmail.com
+    location: "Canada"
+    followers: 8709
+    engagement: 482
+    commentsToLikes: 0.198115
+    id: ck55mbg5r3lh60i11t01c2jsx
+    verified: false
+    hashtags: "#torontolife, #toronto, #torontobeauty, #torontoblogger"
+  - username: "minahilaliwattoo"
+    fullname: >-
+      Minahil Ali Wattoo
+    bio: >-
+      📍 Toronto Beauty • Fashion • Culture Foodie @torontohalalcertified CEO @wearmilaan 🌸
+    location: "Canada"
+    followers: 276470
+    engagement: 269
+    commentsToLikes: 0.007315
+    id: ck8t1oz6vwhny0j783i9k2rq4
+    verified: false
+    hashtags: "#pakistanstreetstyle, #torontoblogger, #explore, #pakistaniincanada"
+  - username: "mahakhan__"
+    fullname: >-
+      MAHA KHAN
+    bio: >-
+      📍Toronto beauty, fashion & lifestyle 💌 mahakhan.info@gmail.com tiktok & youtube ↓
+    location: "Canada"
+    followers: 20633
+    engagement: 227
+    commentsToLikes: 0.347063
+    id: ck8t2bbvaytuv0j78cogyr3kf
+    verified: false
+    hashtags: "#beautyhacks, #makeuptutorial, #makeup, #beautytips"
   - username: "winnspiration"
     fullname: >-
-      Winnie 〰️
+      Winnie 〰️ 维尼
     bio: >-
       lifestyle, fashion & beauty 📍 toronto / vancouver ✉️ winnspiration@gmail.com
     location: "Canada"
-    followers: 39057
-    engagement: 138
-    commentsToLikes: 0.081859
+    followers: 38736
+    engagement: 52
+    commentsToLikes: 0.093475
     id: ck0u7we575wk90i19jj9lkasq
     verified: false
-    hashtags: "#detoxmode, #wearitwithpandora, #expressie, #pandorasignature"
-  - username: "iitheneaii"
-    fullname: >-
-      ☾ ᴛʜᴇɴᴇᴀ
-    bio: >-
-      Fashion · Lifestyle · Beauty —————————————— ◼️ Toronto ◼️ Thenea98@gmail.com
-    location: "Canada"
-    followers: 19521
-    engagement: 98
-    commentsToLikes: 0.076397
-    id: ck0u2jjvzzzv50i191h6ifmdf
-    verified: false
-    hashtags: "#vlog, #eyecream, #picnic, #sekkisei"
-  - username: "lauravandervoort"
-    fullname: >-
-      LAURA VANDERVOORT [11:11]
-    bio: >-
-      Actor+Producer+Director+Writer Toronto, 🇨🇦 DogMom @frankie_blueeyes @WorldVisionCan Ambassador Directorial Debut @mysoultotakefilm
-    location: "Canada"
-    followers: 272987
-    engagement: 130
-    commentsToLikes: 0.029993
-    id: ck0vwmzr9ulm80i19uriw8mu5
-    verified: true
-    hashtags: "#buildahome, #martianmanhunter, #supergirl, #newhome"
-  - username: "nilaharan"
-    fullname: >-
-      Nila Haran
-    bio: >-
-      @bridesbynila 🇨🇦 philocalist (n.) Makeup-Artist Entrepreneur Mom Wife of @divinemethodphoto #bridesbynila Shop: @shopnilaharan 🚧🏗️
-    location: "Canada"
-    followers: 48300
-    engagement: 248
-    commentsToLikes: 0.041110
-    id: ck5hp2bnyqmu60i11cq7pd6xf
-    verified: false
-    hashtags: "#tamilbeauty, #bridesbynila, #tamilbride, #torontomakeupartist"
-  - username: "golsis_makeup"
-    fullname: >-
-      Golsis makeup artist🌸
-    bio: >-
-      -Welcome to my page -Wedding-special occasions💍 -Fashion and beauty makeup 📍Toronto,Ontario 📍Iran,Tehran
-    location: "Canada"
-    followers: 39201
-    engagement: 65
-    commentsToLikes: 0.031151
-    id: ck5q1nin3bul70i11tgoclzee
-    verified: false
-    hashtags: "#hudabeauty, #nofilter, #wakeupandmakeup, #lookexpensive"
-  - username: "nikescanvas"
-    fullname: >-
-      Adenike Akinpelu | Beauty Enthusiast
-    bio: >-
-      #sephorasquad alum 🇨🇦 📧: management@nikescanvas.com
-    location: "Canada"
-    followers: 264800
-    engagement: 538
-    commentsToLikes: 0.025920
-    id: ck0w723uzbdw80i19or5xl2y2
-    verified: false
-    hashtags: "#fashion, #reelsinstagram, #makeup, #juviasplace"
-  - username: "makeupbylirazstudio"
-    fullname: >-
-      Makeup By Liraz Studio
-    bio: >-
-      Canada’s 1st influencer centric beauty studio. Influencer Atelier Main page @makeupbyliraz
-    location: "Canada"
-    followers: 27302
-    engagement: 316
-    commentsToLikes: 0.841553
-    id: ck6ub6q477szg0j71mrcm0vf2
-    verified: false
-    hashtags: "#makeupbylirazgiveaway, #beautygiveaway, #skingiveaway, #gifted"
-  - username: "harleens3khon"
-    fullname: >-
-      Harleen Sekhon
-    bio: >-
-      Toronto | @designbyharleen fashion • beauty • art Collab/PR 📧 harleensekhonofficial@gmail.com
-    location: "Canada"
-    followers: 3271
-    engagement: 966
-    commentsToLikes: 0.169015
-    id: ckf5o291c0m3d0j232y4q9oxq
-    verified: false
-    hashtags: "#aesthetic, #zarawoman, #longhairgoals, #neutralfashion"
+    hashtags: "#healthyscalp, #ad, #ootdsimons, #canoncanada"
 ---

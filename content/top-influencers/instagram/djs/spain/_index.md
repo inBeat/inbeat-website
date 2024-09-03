@@ -1,12 +1,24 @@
 ---
-title: Top 10 Djs Instagram Influencers In Spain In 2023
+title: Top 10 Djs Instagram Influencers In Spain In 2024
 description: >-
-  Find top djs Instagram influencers in Spain in 2023. Most popular hashtags: #dj #party #djlife #housemusic.
+  Find top djs Instagram influencers in Spain in 2024. Most popular hashtags: #housemusic #djlife #dj.
 platform: Instagram
-hits: 57
-text_top: See the best Instagram accounts on inBeat.
-text_bottom: Our search engine has 57 Instagram influencers like this in Spain for you to pitch.
+hits: 64
+text_top: Identify the best Instagram influencers on inBeat.
+text_bottom: inBeat holds 64 Instagram influencers like this in Spain for you to connect with.
 profiles:
+  - username: "whoisaraujo"
+    fullname: >-
+      Sara de Araújo
+    bio: >-
+      • @mamboibiza Resident DJ 🧡 • @ten_ibiza • @hola_djs • Mgmt & Bookings: carlos@tenibiza.com • Ibiza📍
+    location: "Spain"
+    followers: 37457
+    engagement: 267
+    commentsToLikes: 0.036244
+    id: ck15slryqdnl10i197or5m7u1
+    verified: false
+    hashtags: "#musiclovers, #ibiza2023, #ibiza, #ibiza2021"
   - username: "adrianfyrla"
     fullname: >-
       FYRLA
@@ -30,7 +42,7 @@ profiles:
     commentsToLikes: 0.045138
     id: ck6tyef3l390q0j71v732qrcf
     verified: false
-    hashtags: "#reggaeton, #greeneyes, #redhead, #femaledj"
+    hashtags: "#girldj, #pioneerwoman, #womenintech, #club"
   - username: "eduuelizondo"
     fullname: >-
       ⚡️ EDU ELIZONDO ⚡️
@@ -43,18 +55,6 @@ profiles:
     id: ck6tp1r16hcml0j71utr29p61
     verified: false
     hashtags: "#techno, #enduro, #nightlife"
-  - username: "whoisaraujo"
-    fullname: >-
-      Sara de Araújo
-    bio: >-
-      ▪️HOLA DJ! @hola_djs ▪️TEN IBIZA AGENCY @ten_ibiza ▪️📧 bookings@tenibiza.com ▪️From 🇵🇹 📍Ibiza
-    location: "Spain"
-    followers: 24490
-    engagement: 461
-    commentsToLikes: 0.039404
-    id: ck15slryqdnl10i197or5m7u1
-    verified: false
-    hashtags: "#musiclovers, #ibiza, #ibiza2020, #2021"
   - username: "rosananundj"
     fullname: >-
       Rosana Nun 🎧
@@ -66,7 +66,7 @@ profiles:
     commentsToLikes: 0.065783
     id: ck15rolo38xq00i19jwdqmhm5
     verified: false
-    hashtags: "#femaledj, #techno, #radiostation, #djane"
+    hashtags: "#housemusiclovers, #summervibes, #dj, #femaledj"
   - username: "faulandwad"
     fullname: >-
       Faul & Wad
@@ -102,19 +102,7 @@ profiles:
     commentsToLikes: 0.130094
     id: ck13c9mh4z9ue0i19emiwj599
     verified: false
-    hashtags: "#covidtimes, #madrid, #opiumbarcelona, #barcelona"
-  - username: "sergialesdj"
-    fullname: >-
-      𝙎𝙀𝙍𝙂𝙄 𝘼𝙇𝙀𝙎
-    bio: >-
-      • Open Format Dj • Mallorca (Spain)📍 • Booking: djsergiales@hotmail.com 📲 • Twitch ⤵️
-    location: "Spain"
-    followers: 11904
-    engagement: 710
-    commentsToLikes: 0.154561
-    id: ck6ufsfe9yvbu0j71fmx5z03y
-    verified: false
-    hashtags: "#streaming, #seratodj, #scratch, #playwithmusic"
+    hashtags: "#bonamara, #madrid, #notecreas, #dj"
   - username: "djsurimusic"
     fullname: >-
       DJ Suri 🏳️‍🌈
@@ -127,4 +115,16 @@ profiles:
     id: ck5q3lz5pldl60i11ur3ia3e9
     verified: true
     hashtags: "#tbt, #valencia, #djsuri, #survivor"
+  - username: "djsustancia_"
+    fullname: >-
+      DJ.$ustancia
+    bio: >-
+      DJ / 🎤$tripclab TATTOO: @flaviaparavisitattoo ROPA: @albanezoficial También hago ilustraciones y pinturas 🖌
+    location: "Spain"
+    followers: 25653
+    engagement: 505
+    commentsToLikes: 0.022008
+    id: ck0uconijhcti0i19oi1f8lan
+    verified: false
+    hashtags: "#quesealey"
 ---

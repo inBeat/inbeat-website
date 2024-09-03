@@ -1,11 +1,11 @@
 ---
-title: Top 10 Music TikTok Influencers In 2023
+title: Top 10 Music TikTok Influencers In 2024
 description: >-
-  Find top music TikTok influencers in 2023. Most popular hashtags: #duet #stitch #fyp #music.
+  Find top music TikTok influencers in 2024. Most popular hashtags: #duet #stitch #fyp #music.
 platform: TikTok
-hits: 18169
-text_top: Discover the best TikTok accounts on inBeat.
-text_bottom: inBeat holds 18169 TikTok influencers like this for you to contact.
+hits: 18097
+text_top: See the most popular TikTok profiles on inBeat.
+text_bottom: inBeat aggregates 18097 TikTok influencers like this for you to pitch.
 profiles:
   - username: "sergaint.archi"
     fullname: >-
@@ -13,12 +13,12 @@ profiles:
     bio: >-
       MUSIC
     location: "Ukraine"
-    followers: 7290
-    engagement: 2047
-    commentsToLikes: 0.050596
+    followers: 7731
+    engagement: 1793
+    commentsToLikes: 0.068094
     id: cka0hzwnsbizf0i78i8fmrkyn
     verified: false
-    hashtags: "#aesthetic, #rock, #fyp, #art"
+    hashtags: "#guitar, #car, #rally, #music"
   - username: "indistar"
     fullname: >-
       Indi Star 💫
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.023083
     id: ck9fq4egsaivw0j786gaawup6
     verified: true
-    hashtags: "#ultaskintok, #thesuicidesquadmovie, #fyp, #paris"
+    hashtags: "#ultaskintok, #thesuicidesquadmovie, #fyp, #cleargenius"
   - username: "lukasjamesmusic"
     fullname: >-
       lukasjamesmusic
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.139452
     id: ck9grq1yff00v0j78fuxz5oql
     verified: false
-    hashtags: "#fyp, #singer, #cover, #song"
+    hashtags: "#cover, #fyp, #singer, #postmalone"
   - username: "meredithbellpb"
     fullname: >-
       palaceburn.
@@ -54,7 +54,7 @@ profiles:
     commentsToLikes: 0.084831
     id: ckcelwh8jvx590j23u6cnc1bx
     verified: false
-    hashtags: "#duet, #wweannouncercontest, #altblackgirl, #stitch"
+    hashtags: "#duet, #altblackgirl, #wweannouncercontest, #stitch"
   - username: "carteracemusic"
     fullname: >-
       carter ace
@@ -66,7 +66,7 @@ profiles:
     commentsToLikes: 0.029677
     id: ck83k202k8pkh0j78tyceo24g
     verified: false
-    hashtags: "#duet, #cat, #songofthesummer, #cats"
+    hashtags: "#ootd, #birthday, #stitch, #cat"
   - username: "maudelstatus"
     fullname: >-
       Maude latour 
@@ -78,7 +78,7 @@ profiles:
     commentsToLikes: 0.069383
     id: ckan3ltwt5xmo0i7889uhzjg6
     verified: true
-    hashtags: "#cleaningtiktok, #music, #clean, #chilidogyumplz"
+    hashtags: "#clean, #cleaningtiktok, #music, #hydratedgirlsummer"
   - username: "apollofresh"
     fullname: >-
       Apollo Fresh 
@@ -90,7 +90,7 @@ profiles:
     commentsToLikes: 0.055600
     id: ck8sftpl0psxt0j78tpr5uytd
     verified: false
-    hashtags: "#onepiece, #yugioh, #demonslayerchallenge, #naruto"
+    hashtags: "#naruto, #demonslayer, #yugioh, #onepiece"
   - username: "redangel777"
     fullname: >-
       ♥️red angel ♥️

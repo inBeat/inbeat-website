@@ -1,11 +1,11 @@
 ---
-title: Top 10 Home Decor Instagram Influencers In Russia In 2023
+title: Top 10 Home Decor Instagram Influencers In Russia In 2024
 description: >-
-  Find top home decor Instagram influencers in Russia in 2023. Most popular hashtags: #homedecor #decor #home #cozyhome.
+  Find top home decor Instagram influencers in Russia in 2024. Most popular hashtags: #homedecor #cozyhome #decor #cozy.
 platform: Instagram
-hits: 78
-text_top: Discover the most popular Instagram influencers on inBeat.
-text_bottom: Our search engine holds 78 Instagram influencers like this in Russia for you to collaborate.
+hits: 80
+text_top: See the most popular Instagram influencers on inBeat.
+text_bottom: inBeat has 80 Instagram influencers like this in Russia for you to contact.
 profiles:
   - username: "zhilezkovaanna"
     fullname: >-
@@ -19,6 +19,30 @@ profiles:
     id: ck55nle076gcz0i114ubzc9b5
     verified: false
     hashtags: "#vintageclothing, #vintagedecor, #interior, #villagelife"
+  - username: "asthetique.atelier"
+    fullname: >-
+      Asthetique Atelíer
+    bio: >-
+      PNSBHp
+    location: "Russia"
+    followers: 19280
+    engagement: 239
+    commentsToLikes: 0.019747
+    id: ck6u53f5f7del0j71p84a4smp
+    verified: false
+    hashtags: "#branding, #minimalist, #architecturedesign, #brandingmob"
+  - username: "studia_54"
+    fullname: >-
+      DESIGN | ART | ARCHITECTURE
+    bio: >-
+      - Interior Design - Architecture - Construction work office in St. Petersburg - Dubai
+    location: "Russia"
+    followers: 1723281
+    engagement: 52
+    commentsToLikes: 0.007341
+    id: ck0tz6ce4p7f80i19n9c0zuwy
+    verified: false
+    hashtags: "#designideas, #interiordesign, #homedesign, #worldwidedesign"
   - username: "ann_selygina"
     fullname: >-
       with love, Ann✨
@@ -103,28 +127,4 @@ profiles:
     id: ck0u8qnj37yes0i19pe259jc9
     verified: false
     hashtags: "#handmade, #handembroidery, #embroidery, #homedecor"
-  - username: "cathy_perletta"
-    fullname: >-
-      Екатерина Черняева
-    bio: >-
-      Керамика ручной работы Catherine Chernyaeva Handmade ceramics Moscow По всем вопросам пишите в Директ DM me please if you're interested in my art
-    location: "Russia"
-    followers: 33246
-    engagement: 362
-    commentsToLikes: 0.024582
-    id: ck14jdhgbjsly0i190seqjkgc
-    verified: false
-    hashtags: "#veggies, #pottery, #poterie, #ceramic"
-  - username: "dom___mechti"
-    fullname: >-
-      ЛУЧШИЕ ИДЕИ ДЛЯ ДОМА🏡
-    bio: >-
-      🛋ИНТЕРЬЕР 🏡ДЕКОР 🔥УЮТ 💡ПОЛЕЗНЫЕ ИДЕИ 👩‍⚖️По поводу рекламы - в Direkt
-    location: "Russia"
-    followers: 68698
-    engagement: 311
-    commentsToLikes: 0.015353
-    id: ckap1lk21v2ev0i78sfxhcqr2
-    verified: false
-    hashtags: ""
 ---

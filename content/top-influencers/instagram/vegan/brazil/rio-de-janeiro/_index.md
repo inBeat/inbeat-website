@@ -1,11 +1,11 @@
 ---
-title: Top 10 Vegan Instagram Influencers In Rio De Janeiro In 2023
+title: Top 10 Vegan Instagram Influencers In Rio De Janeiro In 2024
 description: >-
-  Find top vegan Instagram influencers in Rio De Janeiro in 2023. Most popular hashtags: #vegan #rj #tbt.
+  Find top vegan Instagram influencers in Rio De Janeiro in 2024. Most popular hashtags: #vegan #govegan #veganismo.
 platform: Instagram
 hits: 6
-text_top: Identify the most popular Instagram influencers on inBeat.
-text_bottom: Our database aggregates 6 Instagram influencers like this in Rio de Janeiro, Brazil for you to pitch.
+text_top: Identify the most popular Instagram accounts on inBeat.
+text_bottom: Our database holds 6 Instagram influencers like this in Rio de Janeiro, Brazil for you to pitch.
 profiles:
   - username: "bernardovillasboas"
     fullname: >-
@@ -79,52 +79,52 @@ profiles:
     id: ck134t2uxy28w0i19g8ks3k5c
     verified: false
     hashtags: "#pratienlouquecer, #juntalocal, #govegan, #quartasemcarne"
-  - username: "nubiafelipeti"
+  - username: "caroldestro"
     fullname: >-
-      Núbia Felipeti
+      Carol Destro
     bio: >-
-      📍Vinhedo/Botucatu - SP | 25 🐾 Médica Veterinária - UNESP Botucatu 🌱 Vegan Dicas | Cabelos | Edição de Fotos | Dia a Dia
+      Compartilhando a vida real, entre e aproveite!⠀ 💚Vegana ⠀ 💫Thetahealing ⠀ 🫶Mãe, yogi e outras tretas
     location: "Brazil"
-    followers: 61492
-    engagement: 708
-    commentsToLikes: 0.089601
-    id: ck13cgkeu08f10i19xnckkiv0
+    followers: 91425
+    engagement: 695
+    commentsToLikes: 0.044533
+    id: ck5cdzihak27t0i11zwg8696g
     verified: false
-    hashtags: "#redhead, #ruivasradiantes, #ruivas, #ruiva"
-  - username: "renatoshippee"
+    hashtags: "#veganosbrasil, #vegetarianos, #veganismobrasil, #vegana"
+  - username: "thee_burger_dude"
     fullname: >-
-      Renato Shippee
+      Thee Burger Dude
     bio: >-
-      🇧🇷 Criador da @karenkardasha📍Los Angeles🇺🇸 🌱 Vegan - Actor / 🎶 writer 🎬 Filmmaker 📩 renato.solipe@hotmail.com Ouça minhas músicas👇🏼
+      Watson - Vegan Home Cook Author of “VEGAN FAST FOOD” YouTube, Blog & Book ⤵️
     location: "Brazil"
-    followers: 1284588
-    engagement: 741
-    commentsToLikes: 0.011950
-    id: ck8t3ure44kk30j78co17t0w8
+    followers: 207424
+    engagement: 480
+    commentsToLikes: 0.020866
+    id: ck15rhv7t80gz0i19624o2mab
     verified: false
-    hashtags: "#vam, #brasil, #fashioneditorial, #renatoshippe"
-  - username: "lurygrabovski"
+    hashtags: "#ad, #followyourheartpartner"
+  - username: "vegetarirango"
     fullname: >-
-      Lury Grabovski
+      Flavio Giusti
     bio: >-
-      VEGAN 🌱 • Beauty & lifestyle • Cook • Horror fan Collabs/Business: Direct or e-mail. 💌 New collab vídeo:
+      🎥 1º youtuber de culinária vegana do Brasil 🧀 Aprenda a fazer QUEIJO BRIE e GORGONZOLA ⤵️ Inscreva-se no Curso Presencial aqui
     location: "Brazil"
-    followers: 19249
-    engagement: 632
-    commentsToLikes: 0.165473
-    id: ck14hmvtub4ce0i19sb5oo7sg
-    verified: false
-    hashtags: "#tbt, #bussitchallenge"
-  - username: "triveganas"
+    followers: 178844
+    engagement: 905
+    commentsToLikes: 0.065030
+    id: ck5pzwzji35kj0i11cv9m24cw
+    verified: true
+    hashtags: "#posedequebrada, #petesperan, #amparanimal, #rs"
+  - username: "rotaveg"
     fullname: >-
-      Laís Palma Elsing
+      Victor Sanches
     bio: >-
-      Um casal vegano, duas cachorras e trigêmeas surpresa! São Paulo triveganas@gmail.com
+      O RotaVEG é onde compartilho minhas veganices por aí! 🌱 📦 ROTAVEG BOX: box mensal surpresa de produtos veganos 🤝 Parcerias: rotaveg@gmail.com
     location: "Brazil"
-    followers: 35782
-    engagement: 954
-    commentsToLikes: 0.033279
-    id: ck14l5s0aszwd0i19128yrh80
+    followers: 81611
+    engagement: 584
+    commentsToLikes: 0.078482
+    id: ck602bgiqh2li0i14kbsilqek
     verified: false
-    hashtags: "#paralisiacerebral, #trigemeas, #oftalmologia, #trigemeos"
+    hashtags: "#pizzavegana, #vegan, #sejavegano, #vegano"
 ---

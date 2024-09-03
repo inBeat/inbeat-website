@@ -1,11 +1,11 @@
 ---
-title: Top 10 Skincare TikTok Influencers In Switzerland In 2023
+title: Top 10 Skincare TikTok Influencers In Switzerland In 2024
 description: >-
-  Find top skincare TikTok influencers in Switzerland in 2023. Most popular hashtags: #switzerland #fyp #foryou #fy.
+  Find top skincare TikTok influencers in Switzerland in 2024. Most popular hashtags: #switzerland #fyp #foryou #skincare.
 platform: TikTok
 hits: 9
-text_top: Discover the best TikTok influencers on inBeat.
-text_bottom: Our database has 9 TikTok influencers like this in Switzerland for you to work with.
+text_top: See the best TikTok influencers on inBeat.
+text_bottom: Our platform holds 9 TikTok influencers like this in Switzerland for you to pitch.
 profiles:
   - username: "just_temperamental"
     fullname: >-
@@ -90,7 +90,7 @@ profiles:
     commentsToLikes: 0.022787
     id: cka0xt8jk8i9q0i78pux52mry
     verified: false
-    hashtags: "#fy, #dubaimarina, #fyp, #viral"
+    hashtags: "#fy, #fyp, #viral, #dubaimarina"
   - username: "the.mdj"
     fullname: >-
       Mathieu Dias Jardon
@@ -114,5 +114,5 @@ profiles:
     commentsToLikes: 0.007936
     id: ck8ncuyz3g31x0j787jalc10r
     verified: false
-    hashtags: "#goviral, #forupage, #foryourpage, #4u"
+    hashtags: "#forupage, #viral, #geneva, #zurich"
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Graphic-Designers Instagram Influencers In 2023
+title: Top 10 Graphic-Designers Instagram Influencers In 2024
 description: >-
-  Find top graphic-designers Instagram influencers in 2023. Most popular hashtags: #photoshoot #streetstyle #love.
+  Find top graphic-designers Instagram influencers in 2024. Most popular hashtags: #india #kerala #instagood.
 platform: Instagram
-hits: 1333
-text_top: See the top-rated Instagram accounts on inBeat.
-text_bottom: inBeat has 1333 Instagram influencers like this for you to pitch.
+hits: 1395
+text_top: Discover the best Instagram influencers on inBeat.
+text_bottom: inBeat aggregates 1395 Instagram influencers like this for you to work with.
 profiles:
-  - username: "lucypug"
+  - username: "fushionwith.yu"
     fullname: >-
-      Lucy
+      Yu ｜Fashion Diary
     bio: >-
-      🦋 be creARTive 🤍graphic designer & owner @ohmydogsk @petitelucyworld @liliminipug 📧 thelucypug@gmail.com
-    location: ""
-    followers: 782582
-    engagement: 297
-    commentsToLikes: 0.024281
-    id: ck5q9n590bykp0i11emns4aki
-    verified: false
-    hashtags: "#barter, #outfitofthenight, #sunsetlover, #lorealparis"
-  - username: "intedismind"
-    fullname: >-
-      Tedi 🪐 | FREELANCER
-    bio: >-
-      Workaholic. Graphic Designer. Marketer. 20 years. 🌿Vegetarian | Plantaholic |📚|🌙| ♻️ Naturally introverted, selectively extroverted 📍Bucharest, RO
+      A graphic designer who loves to share her fashion daily and fun reels. Lifestyle & Inspo, follow for more! DM / 💌 TO COLLAB
     location: "United States"
-    followers: 10317
-    engagement: 1166
-    commentsToLikes: 0.097137
-    id: ck0vva2xmo7qv0i19ht4k55sn
+    followers: 6099
+    engagement: 620
+    commentsToLikes: 0.226568
+    id: cl7ffqwwgr7hk0i23wlvrd6g2
     verified: false
-    hashtags: "#giveawaytime, #instagood, #selfdevelopment, #bucharest"
-  - username: "marinallorca"
+    hashtags: "#blazerstyle, #newyorkfashionblogger, #reeltransition, #reelsfashion"
+  - username: "homsweethom"
     fullname: >-
-      Marina Llorca
+      Lauren Hom
     bio: >-
-      📍Marbella • Madrid 🙋🏻‍♀️ Graphic Designer • Fashion 💌 marinallorcablog@gmail.com • @blvrd22agency ⇩MORE⇩
-    location: "Spain"
-    followers: 214757
-    engagement: 979
-    commentsToLikes: 0.105493
-    id: ck5btzgp9gw5u0i11qknwznfe
+      👩🏻‍🍳 Graphic designer attending culinary school ✏️ Let’s work together! 💌 ryan@co-loop.co 🍊 Join the 8/19 dinner party waitlist👇🏽
+    location: "United States"
+    followers: 293502
+    engagement: 424
+    commentsToLikes: 0.012057
+    id: ck0w616ra6f2h0i19tdk7ucrk
     verified: true
-    hashtags: "#villanasdisneyurbanas, #hm, #hmxme, #8demarzo"
-  - username: "mrezababaei_photography"
+    hashtags: "#theoriginalwellnessdrink, #clarecollective, #shareyourclare, #ad"
+  - username: "leafhug"
     fullname: >-
-      ▪️Mohammad Reza Babaei
+      Leaf
     bio: >-
-      📍Portrait ○○○ Fashion ○○○ Beauty ●●●●●●●●●●●●●●●●●●●●●●●●● Photograoher / Graphic Designer 📥 Dc For Work 📸 Tehran 📍
-    location: "Italy"
-    followers: 16075
-    engagement: 809
-    commentsToLikes: 0.110676
-    id: ck9wh0p3gvprk0j78ozld95x7
+      ♡ graphic designer based in canada ♡ cute illustrations made with love
+    location: "United States"
+    followers: 10741
+    engagement: 1859
+    commentsToLikes: 0.023501
+    id: ck137ef9nb4rz0i199o88lhfn
+    verified: false
+    hashtags: "#kawaii, #illo, #illustration, #procreate"
+  - username: "mouseketeerjoseph"
+    fullname: >-
+      joseph ☻
+    bio: >-
+      🪩 disney style ⚡️ disneyland cm 🖥 graphic designer
+    location: "United States"
+    followers: 10209
+    engagement: 811
+    commentsToLikes: 0.131460
+    id: ckap4qxno8h110i78ra4qxwgl
     verified: false
     hashtags: ""
-  - username: "jasminecjonas"
+  - username: "vagy_photography"
     fullname: >-
-      Jasmine Cecilia Jonas
+      Vivek R Pillai
     bio: >-
-      👋🏽✨ Blogger • Social Media Consultant • Graphic Designer hello@jasminececiliajonas.com
+      Founder @wedvo | Automotive Photographer | Graphic designer | Fashion | Cyber security based | Private @vagy_priv Taken | @his_frame Dm fr paid shoots
+    location: "France"
+    followers: 11980
+    engagement: 2248
+    commentsToLikes: 0.022277
+    id: ck6tzif179w270j712gvx0j14
+    verified: false
+    hashtags: "#dainese, #moodygramkerala, #ns200, #keralatourism"
+  - username: "dwebstar"
+    fullname: >-
+      Danny Webster
+    bio: >-
+      Gamer | Graphic Designer | Manchester, UK
+    location: "United Kingdom"
+    followers: 20597
+    engagement: 1200
+    commentsToLikes: 0.016141
+    id: cloovbwp1bfqo0j08ipgd9p5v
+    verified: false
+    hashtags: "#gayfootball, #gayadidas, #guysingear, #gaymanchester"
+  - username: "emmamiskew"
+    fullname: >-
+      Emma Miskew
+    bio: >-
+      🇨🇦 | Canadian Olympian 🏆 | 2x World Champ 🥌 | Second on @team_homan 👩🏼‍💻 | Graphic Designer @emmamiskewdesign 🪵 | Owner of @shimmerandoak
+    location: "Canada"
+    followers: 27439
+    engagement: 615
+    commentsToLikes: 0.026796
+    id: ck5zqxpvyvi3i0i14jn3qdloo
+    verified: true
+    hashtags: "#stoh2024, #sportyourperiod, #15, #tula"
+  - username: "thrissurkaranphotography"
+    fullname: >-
+      Krishnaprasad
+    bio: >-
+      📍Kerala | bangalore | mumbai Founder- @tkweddingstories Wedding | Fashion| commercial Graphic designer |viscom 🧑‍🎓
+    location: "India"
+    followers: 37041
+    engagement: 1287
+    commentsToLikes: 0.021051
+    id: ck8t5req4az860j78zzn2l9wy
+    verified: false
+    hashtags: "#instagood, #keralagodsowncountry, #kochi, #mollywood"
+  - username: "irfan_khann"
+    fullname: >-
+      IRFAN KHAN | DUBAI BLOGGER 🇦🇪
+    bio: >-
+      📍DUBAI CONTENT CREATOR Travel | Fashion | Lifestyle | Webdeveloper |Digital Marketing Manager | Graphic Designer | Interior Designer
+    location: "United Arab Emirates"
+    followers: 115939
+    engagement: 4764
+    commentsToLikes: 0.024561
+    id: ck5ceao3xkocb0i11f90b7u08
+    verified: false
+    hashtags: "#forsale, #dubai, #dubaibloggers, #sharjah"
+  - username: "artdikaya"
+    fullname: >-
+      ✨Anastasia Berthier✨
+    bio: >-
+      💌 Curvy model ▪️Artist and graphic designer ❗️Natural ⭐️ 34KK Life page @ana_ber_life Backup page: @anastasiaberthier_ linktr.ee/artdikaya
     location: "United States"
-    followers: 27558
-    engagement: 708
-    commentsToLikes: 0.081322
-    id: ck0vyitz747lf0i19jw08pqwr
-    verified: false
-    hashtags: "#topshopgirls, #imwearingri, #topshopstyle"
-  - username: "orhandoganer.artstudio"
-    fullname: >-
-      Orhan Doganer
-    bio: >-
-      Graphic designer - Photographer - Painter - Instructor Karate Istanbul/ Turkey
-    location: "Turkey"
-    followers: 2608
-    engagement: 3967
-    commentsToLikes: 0.107388
-    id: ckaovg7y44hru0i78e3u55rit
-    verified: false
-    hashtags: "#pencils, #artgallery, #drawing, #blackpencil"
-  - username: "amberbjel"
-    fullname: >-
-      Amber Bjel
-    bio: >-
-      🇵🇭+🇸🇰 🖥 Graphic Designer 💃🏻 My closet is 99% thrifted 🏠 Code AMBERB for $250 off @avantstay
-    location: "United States"
-    followers: 7678
-    engagement: 1140
-    commentsToLikes: 0.153603
-    id: ckf5wbm3criul0j23jaz58ilg
-    verified: false
-    hashtags: "#supportblackownedbusinesses, #nojusticenopeace, #ripsummer2020, #feeling22"
-  - username: "keyvanfeizi"
-    fullname: >-
-      Keyvan Feizi  |  کیوان فیضی
-    bio: >-
-      نیمْ‌چه/کارگَـــردانْ•بـازیگَــر•‌‌گِرافیســتْ Director•Actor•Graphicdesigner اَز‌قَبیله‌ی‌نَجیبِ‌لُرْ•بِهشْ‌میگنْ‌عآموکِیْوان
-    location: "Iran"
-    followers: 2636
-    engagement: 2045
-    commentsToLikes: 0.133935
-    id: ck5zw2qeo5d5x0i140h7ixy4p
-    verified: false
-    hashtags: "#keyvanfeizi, #k1feizi, #keyvan, #crow"
-  - username: "samaneh_golkar"
-    fullname: >-
-      samanehgolkar
-    bio: >-
-      Graphic designer Musician Percussionist ✨🥁✨ #samaneh_golkar #سمانه_گلکار
-    location: "Iran"
-    followers: 37288
-    engagement: 1217
-    commentsToLikes: 0.039890
-    id: ck6u4vmii61rz0j71b3cts0t8
-    verified: false
-    hashtags: "#percussion, #handpan, #tonbak, #hangdrum"
-  - username: "lenavanguk"
-    fullname: >-
-      
-    bio: >-
-      Saint-Petersburg Blogger & graphic designer Barter, advertising / сотрудничество, реклама - direct 📩
-    location: "Russia"
-    followers: 11331
-    engagement: 1261
-    commentsToLikes: 0.059139
-    id: ck8tajr2rs23n0j78yiyk79lt
+    followers: 770148
+    engagement: 467
+    commentsToLikes: 0.017313
+    id: ckapc1xe325k60i7895uzum6b
     verified: false
     hashtags: ""
 ---

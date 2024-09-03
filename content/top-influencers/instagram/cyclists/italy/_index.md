@@ -1,36 +1,120 @@
 ---
-title: Top 10 Cyclists Instagram Influencers In Italy In 2023
+title: Top 10 Cyclists Instagram Influencers In Italy In 2024
 description: >-
-  Find top cyclists Instagram influencers in Italy in 2023. Most popular hashtags: #bike #bikegirl #cycling.
+  Find top cyclists Instagram influencers in Italy in 2024. Most popular hashtags: #cycling #ciclismo #cyclist.
 platform: Instagram
-hits: 72
-text_top: Discover the most popular Instagram influencers on inBeat.
-text_bottom: Our search engine aggregates 72 Instagram influencers like this in Italy for you to pitch.
+hits: 82
+text_top: See the most popular Instagram accounts on inBeat.
+text_bottom: Our search engine has 82 Instagram influencers like this in Italy for you to work with.
 profiles:
+  - username: "pusateriandrea"
+    fullname: >-
+      Andrea Pusateri
+    bio: >-
+      LIMITLESS GUY 🇮🇹 TEAM @adidasita 🚴🏻‍♂️ PRO cyclist MC1 🎖️ Pedalo oltre le sfide e ispiro altri a fare lo stesso
+    location: "Italy"
+    followers: 143017
+    engagement: 878
+    commentsToLikes: 0.043665
+    id: ck0vwajjlsu100i194hnx1y0i
+    verified: true
+    hashtags: "#paracycling, #cycling, #paralympics, #paracyclist"
+  - username: "_pascal_ackermann_"
+    fullname: >-
+      Pascal Ackermann 🇩🇪
+    bio: >-
+      Pro Cyclist for @uae_team_emirates German Champion 2018 Stage wins @giroditalia ❌❌❌ Stage wins @lavuelta ❌❌
+    location: "Italy"
+    followers: 67059
+    engagement: 495
+    commentsToLikes: 0.005154
+    id: ck0tvgfhlb8px0i192fmv1bdf
+    verified: true
+    hashtags: "#finishline, #cyclist, #poland, #sportphotography"
+  - username: "chantalvandenbroekblaak"
+    fullname: >-
+      Chantal van den Broek - Blaak
+    bio: >-
+      🚴‍♀️ Professional Cyclist 👨‍👩‍👧 Mum 🌈 Former World Champion 🥇Racing for @teamsdworx 📩 contact @koers_is_koers
+    location: "Italy"
+    followers: 45204
+    engagement: 477
+    commentsToLikes: 0.011233
+    id: ck8sy6skrjwqe0j7853ruutue
+    verified: false
+    hashtags: "#actosgroep, #hudigveder, #yoga, #bmwi3"
+  - username: "patrick__konrad"
+    fullname: >-
+      Patrick Konrad
+    bio: >-
+      Pro cyclist 🚴🏻‍♂️ @borahansgrohe @aej_allsports
+    location: "Italy"
+    followers: 19912
+    engagement: 1337
+    commentsToLikes: 0.009225
+    id: ck6tsj06p51740j71mdjol48x
+    verified: false
+    hashtags: "#letourdefrance, #letour, #bandofbrothers, #cycling"
   - username: "maximilian_schachmann"
     fullname: >-
       Maximilian Schachmann
     bio: >-
-      Pro cyclist for Team Bora Hansgrohe 🟡 Paris-Nice 2020 🇩🇪 Former German national champion 🇮🇹 Giro d'Italia stage winner Ambassador for RightToPlay
+      Pro cyclist for Team Bora Hansgrohe 🟡 Paris-Nice 2020 2021 Ambassador @righttoplaydeutschland @Breitling ambassador
     location: "Italy"
-    followers: 42846
-    engagement: 1246
-    commentsToLikes: 0.048020
+    followers: 70156
+    engagement: 1074
+    commentsToLikes: 0.006486
     id: ck5hnfi02noze0i11s5zit6me
     verified: false
-    hashtags: "#letour, #tdf, #bandofbrothers, #tdf2020"
-  - username: "cyclingmagic"
+    hashtags: "#teamdeutschland, #stuttgart, #roadtotokyo, #itzulia"
+  - username: "virginiacancellieri"
     fullname: >-
-      Kamila Panasiuk Cycling Photo
+      Virginia Cancellieri
     bio: >-
-      Photographer | Marketing spec | 🧠HSP 📍Warsaw 🇵🇱🚴#Cyclist showing women can #ridesolo @thule @voidcycling ambassador 👉Książka Bikefitting ZRÓB TO SAM👇
+      Cyclist • Content Creator • Surfer 🌊🙏🏽 Finale Ligure 🇮🇹 𝙍𝙞𝙙𝙞𝙣𝙜 𝙛𝙤𝙧 @orbea | @albaoptics | @garminitaly
     location: "Italy"
-    followers: 21804
-    engagement: 484
-    commentsToLikes: 0.030269
-    id: ck15q64s51aj50i19qkmzr63o
+    followers: 91748
+    engagement: 267
+    commentsToLikes: 0.006079
+    id: ck6txd02lx55g0j71vxgukn6k
     verified: false
-    hashtags: "#photographerlife, #instacycle, #instacycling, #outsideisfree"
+    hashtags: "#surferlife, #surfen, #salty, #finaleligure"
+  - username: "federicoscavo"
+    fullname: >-
+      Federico Scavo
+    bio: >-
+      🇮🇹 International DJ/Producer & Cyclist 🚴🏻‍♂️ 🌍 @solid_booking ceo @studio1music.it @area94records #swmpublishing BMW Ambassador @birindelliauto
+    location: "Italy"
+    followers: 51612
+    engagement: 102
+    commentsToLikes: 0.014967
+    id: ck0w5mwzb4fti0i195vemg08x
+    verified: false
+    hashtags: "#summertour, #versilia, #federicoscavo, #djset"
+  - username: "alessandrovillarifishing"
+    fullname: >-
+      Alessandro Villari
+    bio: >-
+      Professional Angler @bassfishingworkshop Chief Head @bassbrigadeeurope Iconic Dj with skills Harley Davidson Cyclist FTW ⚡️
+    location: "Italy"
+    followers: 29012
+    engagement: 98
+    commentsToLikes: 0.018377
+    id: ck55pxxa3bmiu0i11nagyn6lv
+    verified: false
+    hashtags: "#pma, #abugarciafishing, #abugarciaitaly, #bassfishing"
+  - username: "sandralovisco"
+    fullname: >-
+      Sandra Lovisco
+    bio: >-
+      Content Creator&Digital Communication Founder @womcommunication | Digital Support Moleskine PGW The Queen #sportinfluencer #runner #cyclist
+    location: "Italy"
+    followers: 84607
+    engagement: 71
+    commentsToLikes: 0.183814
+    id: ckf5x2y0eu5o40j235ldwm8w0
+    verified: false
+    hashtags: "#cyclist, #mtb, #mtbitalia, #skincare"
   - username: "t.dumoulin"
     fullname: >-
       Tom Dumoulin
@@ -43,88 +127,4 @@ profiles:
     id: ck6ue4eeforr90j71cmpvau96
     verified: false
     hashtags: "#contintuetheride, #samenwinnen, #tourdekans, #tdf2020"
-  - username: "sandralovisco"
-    fullname: >-
-      Sandra Lovisco Kildevæld
-    bio: >-
-      Beauty✦Sport Content Creator Digital Influencer Ride for 🚲 @trekbikes_italia Ambassador @naliniciclo @garminitaly #cyclist #triathlete #trail
-    location: "Italy"
-    followers: 85331
-    engagement: 148
-    commentsToLikes: 0.153521
-    id: ckf5x2y0eu5o40j235ldwm8w0
-    verified: false
-    hashtags: "#trekbikes, #bikelife, #trekmadone, #cyclinglife"
-  - username: "nicole_dagostin99"
-    fullname: >-
-      Nicole D’Agostin 🇮🇹 VENETO 💥
-    bio: >-
-      Collaboration ▶️ management@martinifantisport.com Cyclist 🚴🏼‍♀️ Tiktok : dagostinnicole 🔥
-    location: "Italy"
-    followers: 21799
-    engagement: 947
-    commentsToLikes: 0.012324
-    id: ckap49xey6ew50i786y2q0azc
-    verified: false
-    hashtags: "#view, #champoluc, #valledaosta, #mountainview"
-  - username: "chiara_consonnii"
-    fullname: >-
-      ⭐️Chiara Consonni⭐️
-    bio: >-
-      Contact me⤵️ 📬@chiaraconsonni99@gmail.com 🌈3x World Champion 🇪🇺6x European Champion 🚴‍♀️Pro cyclist by @valcar_ts 🇮🇹Italy 📍BG #CC #veryverysuper
-    location: "Italy"
-    followers: 28379
-    engagement: 1208
-    commentsToLikes: 0.006478
-    id: ck6tynrs24t5j0j71v0ybolqe
-    verified: false
-    hashtags: "#cc, #veryverysuper, #bored, #sundaylunch"
-  - username: "jarnoiotti"
-    fullname: >-
-      Jarno Iotti
-    bio: >-
-      Fotografo e Factotum di @ligabue_official dal 1999 Music lover 🎵 Motocyclist 🏍 Cyclist 🚴🏻 Nature lover 🏕 Based in Italy/Correggio
-    location: "Italy"
-    followers: 7659
-    engagement: 1202
-    commentsToLikes: 0.024583
-    id: ck0vxf9ccylyr0i19z86pfbkg
-    verified: false
-    hashtags: "#mondadori, #backstage, #liga, #ligabue"
-  - username: "fabioaru1"
-    fullname: >-
-      Fabio Aru
-    bio: >-
-      Cyclist at Team Qhubeka Assos🇿🇦 👶 Born in San Gavino Monreale 👦 Grown up in Villacidro 🏡 Living in Lugano Passions: sports 🚴 nature 🏔 travel ✈️
-    location: "Italy"
-    followers: 172087
-    engagement: 575
-    commentsToLikes: 0.011889
-    id: ck5qa82gzf15a0i11a7oa11bg
-    verified: true
-    hashtags: "#qhubeka, #ubuntu, #ginevra, #lamiavita"
-  - username: "virginiacancellieri"
-    fullname: >-
-      Virginia Cancellieri
-    bio: >-
-      Cyclist • Finale Ligure 🇮🇹 Riding for @orbeafactoryteam • @orbea Media&Business: virginiacancellieri@dmtc.it 👇🏼
-    location: "Italy"
-    followers: 46087
-    engagement: 653
-    commentsToLikes: 0.012553
-    id: ck6txd02lx55g0j71vxgukn6k
-    verified: false
-    hashtags: "#orbearise, #mtb, #smithoptics, #raawmadonna"
-  - username: "rebigariboldi"
-    fullname: >-
-      Rebecca Gariboldi
-    bio: >-
-      Happiness & family first 🇮🇹 Cyclist for Team Cingolani @iamspecialized | @oakleybike Marketing student | Unimib, Milano Davide ♡
-    location: "Italy"
-    followers: 16848
-    engagement: 1015
-    commentsToLikes: 0.023664
-    id: ck0w4tng30d1p0i1994iksuks
-    verified: false
-    hashtags: "#bestteam, #gozwift, #cxlover, #norainnorainbow"
 ---

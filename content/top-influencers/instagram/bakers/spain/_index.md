@@ -1,24 +1,24 @@
 ---
-title: Top 10 Bakers Instagram Influencers In Spain In 2023
+title: Top 10 Bakers Instagram Influencers In Spain In 2024
 description: >-
-  Find top bakers Instagram influencers in Spain in 2023. Most popular hashtags: #navidad #foodphotographer #panaderia #chocolate.
+  Find top bakers Instagram influencers in Spain in 2024. Most popular hashtags: #bakery #panaderia #chocolate #foodphotography.
 platform: Instagram
 hits: 129
-text_top: Identify the top-rated Instagram accounts on inBeat.
-text_bottom: inBeat has 129 Instagram influencers like this in Spain for you to connect with.
+text_top: See the most popular Instagram influencers on inBeat.
+text_bottom: Our database aggregates 129 Instagram influencers like this in Spain for you to collaborate.
 profiles:
   - username: "j_morera"
     fullname: >-
       Jordi Morera
     bio: >-
-      WORLD BAKER 2017 Inconformista 📍L'Espiga d'Or @lespigadorvilanova - Vilanova i la Geltrú 📍Espícula @espicula_andorra - Andorra 📍Mercat d'Autors - BCN
+      WORLD BAKER 2017 Inconformista 📖 #LaRevolucionDelPan 📍 @lespigadorvilanova - Vilanova i la Geltrú 📍 @espicula_andorra - Andorra
     location: "Spain"
-    followers: 61976
-    engagement: 363
-    commentsToLikes: 0.037521
+    followers: 138096
+    engagement: 104
+    commentsToLikes: 0.034302
     id: ck15uzjykp7wk0i19njc70w8c
     verified: false
-    hashtags: "#panettone, #pastry, #sourdough, #foodporn"
+    hashtags: "#onlypans, #panaderia, #panaderiaartesanal, #breadmaking"
   - username: "hilmar0210"
     fullname: >-
       MRF by H i l m a r
@@ -67,18 +67,18 @@ profiles:
     id: ck15r8i736oeq0i19431ioz7g
     verified: false
     hashtags: "#healthyfoods, #storyofmytable, #recipeoftheday, #bbcgoodfood"
-  - username: "ayose_vp"
+  - username: "balazsenzsol"
     fullname: >-
-      Ayose Valiente | Bread artisan
+      Enzsöl Balázs
     bio: >-
-      📷 Food stylist | 🥖 Bread maker 🛒 CEO @sensaciondulceshop 👨🏻‍🍳 Asesorías panarras #EmbajadorIkea
+      Private Pastry Chef International Consulting Services🌏🌎🌍 Founder @damazomolds Jury @mestercukrasz 🍰
     location: "Spain"
-    followers: 16985
-    engagement: 486
-    commentsToLikes: 0.225302
-    id: ck6trvbdu1alu0j718vjyryni
+    followers: 202437
+    engagement: 240
+    commentsToLikes: 0.013773
+    id: ck0w56u4w26l20i19br57fqla
     verified: false
-    hashtags: "#panaderocasero, #sourdoughbread, #panadero, #bread"
+    hashtags: "#desserts, #gourmetzfood, #instalike, #recipes"
   - username: "naiara_m_"
     fullname: >-
       Nai
@@ -90,7 +90,7 @@ profiles:
     commentsToLikes: 0.041183
     id: ck15q3fge0wn60i19yijxd01i
     verified: false
-    hashtags: "#nyeoutfit, #partyoutfitideas, #fashioninspo, #outfitdaily"
+    hashtags: "#outfitdaily, #outfitgoals, #fashioninspo, #outfitnavidad"
   - username: "mafergri4"
     fullname: >-
       Maria
@@ -103,18 +103,6 @@ profiles:
     id: ck5zt59d0zrde0i14xgk6fxzf
     verified: false
     hashtags: "#instamoment, #milookdelooks, #ostomiaesvida, #inspooutfitsideas"
-  - username: "foodsaludable8"
-    fullname: >-
-      Lourdes
-    bio: >-
-      📍Rincon de la Victoria-Malaga. 💚15% descuento @nectina_original 🔥foodsaludable8 ☘️10% descuento @vita33shop 💥Foodsaludable Recetas saludables
-    location: "Spain"
-    followers: 5016
-    engagement: 1325
-    commentsToLikes: 0.771287
-    id: ck5q7h4501jd00i11vprie8on
-    verified: false
-    hashtags: "#instaphoto, #cocinasaludable, #saludables, #realfood"
   - username: "tonocorralfotos"
     fullname: >-
       𝚃𝚘ñ𝚘 𝙲𝚘𝚛𝚛𝚊𝚕 🌱 𝙵𝚘𝚝𝚘𝚐𝚛𝚊𝚏í𝚊
@@ -127,4 +115,16 @@ profiles:
     id: ck6todj18dgvx0j71mbv1q3vf
     verified: false
     hashtags: "#myquietbeauty, #tefaltatefal, #foodphotographers, #bonappetitmag"
+  - username: "ayose_vp"
+    fullname: >-
+      Ayose Valiente | Bread artisan
+    bio: >-
+      📷 Food stylist | 🥖 Bread maker 🛒 @sensaciondulceshop 👨🏻‍🍳 Talleres panarras #EmbajadorIkea
+    location: "Spain"
+    followers: 16698
+    engagement: 496
+    commentsToLikes: 0.214122
+    id: ck6trvbdu1alu0j718vjyryni
+    verified: false
+    hashtags: "#sourdough, #amapola, #bakery, #breadbosses"
 ---

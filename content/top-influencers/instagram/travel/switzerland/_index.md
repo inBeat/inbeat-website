@@ -1,130 +1,130 @@
 ---
-title: Top 10 Travel Instagram Influencers In Switzerland In 2023
+title: Top 10 Travel Instagram Influencers In Switzerland In 2024
 description: >-
-  Find top travel Instagram influencers in Switzerland in 2023. Most popular hashtags: #switzerland #valentinesday #vacation.
+  Find top travel Instagram influencers in Switzerland in 2024. Most popular hashtags: #switzerland #zermatt #swissalps #travel.
 platform: Instagram
-hits: 316
-text_top: Discover the best Instagram profiles on inBeat.
-text_bottom: Our search engine has 316 Instagram influencers like this in Switzerland for you to work with.
+hits: 427
+text_top: Analyze the best Instagram profiles on inBeat.
+text_bottom: Our platform holds 427 Instagram influencers like this in Switzerland for you to pitch.
 profiles:
-  - username: "qqq"
+  - username: "mrandmrsheigl"
     fullname: >-
-      A. AlGhafri 🇶🇦 عبدالله الغافري
+      Caro & Sascha Heigl | travel & lifestyle blog
     bio: >-
-      Love All, Trust Few 🖤 —— 🎭 Lifestyle 🎓 Business&Mgmt. 👔 Entrepreneur 🎙 Host ✈️ Travel —— ⭐️ Snapchat&TikTok : QQQ 🎥 YouTube +2M👇🏽
+      🌎 sharing travel adventures 📍 austrian creator🇦🇹 🏅 golden pen media award winner 2024 ↓ find your next travel destination here:
     location: "Switzerland"
-    followers: 1309739
-    engagement: 479
-    commentsToLikes: 0.227558
-    id: ck5qb9m7gki5k0i11k7fvnlqv
+    followers: 10183
+    engagement: 534
+    commentsToLikes: 0.151482
+    id: ck5zolh6fqtd30i14bop186i3
     verified: false
-    hashtags: "#worldcup, #qatar2022, #youtube, #qqq"
-  - username: "irina_cerutti"
+    hashtags: "#reiseblogger, #croatiafulloflife, #austria, #etrusco"
+  - username: "slavia_karlen"
     fullname: >-
-      Irina Cerutti
+      Slavia Karlen | Blogger and Content Creator
     bio: >-
-      📌 ||Based in Zurich 🌍 || Travel Journalist 🏙 || Lifestyle, Food & Fashion 📩 || Contact: Direct Messagel
+      Lifestyle-Blogger womentalk.ch Content Creator Inspiration Testing products Fun & travel & health ü40 🇨🇭 📧 for collaboration: slavia@event-creator.ch
     location: "Switzerland"
-    followers: 1101853
-    engagement: 217
-    commentsToLikes: 0.006566
-    id: ck15tlswdipln0i19jly1nbbc
+    followers: 39333
+    engagement: 525
+    commentsToLikes: 0.020551
+    id: ck15u6q7alol00i19zder1ye4
     verified: false
-    hashtags: ""
-  - username: "dedalnok"
+    hashtags: "#zff, #gown, #stadtgefl, #hotelrecap"
+  - username: "theworldpursuit"
     fullname: >-
-      MICHEL DE DÁLNOK 🇭🇺
+      Cam & Natasha
     bio: >-
-      ADVENTURE • TRAVEL • LIFESTYLE ⍋ Overland & Outdoors enthusiast ⚑ Zürich, Switzerland / Black Forest, Germany
+      🌎 95 Countries 🏂 Travel, Snowboard, Bike, Hike 🏔 Travel Blog Audience 7M/Month 👋 More on TikTok 🇨🇦 Canmore, Alberta
     location: "Switzerland"
-    followers: 5254
-    engagement: 1986
-    commentsToLikes: 0.124511
-    id: ck14jdnyljtj60i19p5r0cuvv
+    followers: 127900
+    engagement: 439
+    commentsToLikes: 0.018235
+    id: ck134m2itx3cu0i19m7onbtg3
     verified: false
-    hashtags: "#alsace, #dolomiti, #southtyrol, #inlovewithswitzerland"
-  - username: "ana_carugati"
+    hashtags: "#greekislands, #icelandtrip, #switzerland, #greece"
+  - username: "glamthug"
     fullname: >-
-      ◻️◽️▫️Ana Carugati ▫️◽️◻️
+      Cerasela📍: Zurich, Switzerland Creator 🇨🇭
     bio: >-
-      Serbian & Swiss married Sotl 🔸 Posts about cigars, food & beverage, travels, luxury and cars 🔸 English🇬🇧🇺🇸, Français🇫🇷🇨🇭, Srpski🇷🇸 🔸 #AnaCarugati
+      Expat from 🇷🇴-📍: Switzerland 🇨🇭 Travel | Fashion | Lifestyle | glamthug.com since 2012 📜Online Business & Marketing
     location: "Switzerland"
-    followers: 9028
-    engagement: 1508
-    commentsToLikes: 0.082277
-    id: ck9hanl2rd92o0j781ai90s05
+    followers: 9601
+    engagement: 729
+    commentsToLikes: 0.161217
+    id: ck9hamoc3d4kp0j787qbcnjp2
     verified: false
-    hashtags: "#cigarlady, #anacarugati, #tb, #tbt"
-  - username: "wanderlust_lauraaa"
+    hashtags: "#phuket, #thailand, #visitthailand, #mahanakhon"
+  - username: "nadircaribb"
     fullname: >-
-      Laura ✨
+      Nadir 🌲🇨🇭
     bio: >-
-      🤍 Travel Girl & Fashion lover 📍 France based
+      📍Zh/ Lugano 📷 My travel photography around the 🌏 Clandestine profile🕵🏻
     location: "Switzerland"
-    followers: 15281
-    engagement: 831
-    commentsToLikes: 0.117691
-    id: ck8t1jmdrw0vo0j78r0y4opbn
+    followers: 11027
+    engagement: 400
+    commentsToLikes: 0.042380
+    id: ck14gxv047jwt0i19znlo9xoi
     verified: false
-    hashtags: "#summerbody, #spain, #summermood, #landscapephotography"
-  - username: "delaine_mazenauer"
+    hashtags: "#inlovewithswitzerland, #awesome, #switzerland, #earthoutdoors"
+  - username: "harrysding"
     fullname: >-
-      ⚜️D E L A I N E⚜️
+      Harry Meier | Zürich & Switzerland
     bio: >-
-      Swiss🇨🇭🇵🇭 Filipina ▪️Travel & Fashion ▪️Proud Mom👦🏻❤️M 📍Switzerland | St.Gallen Travel around the world✈️🌍
+      ♢ Harry & Carrie 🇨🇭🇸🇬 ♢ insider tips to places in zurich and Switzerland ♢ Zurich based lifestyle & travel
     location: "Switzerland"
-    followers: 16317
-    engagement: 683
-    commentsToLikes: 0.076446
-    id: ck13aiqtfqldv0i19kk4vm3c1
+    followers: 161943
+    engagement: 3751
+    commentsToLikes: 0.007924
+    id: ck0ty3mnelhg60i196dac6cxx
     verified: false
-    hashtags: "#kays, #idealofsweden, #mrc"
-  - username: "hildawestin"
+    hashtags: "#switzerland, #summerinswitzerland, #christmasinzurich, #swissalps"
+  - username: "model_dg_"
     fullname: >-
-      HILDA | SWEDE IN SWITZERLAND
+      Daniela Graf
     bio: >-
-      TRAVEL | LIFESTYLE | FASHION 📍Zürich 🇸🇪 → 🇺🇸→🇨🇭
+      🌎 TRAVEL & PHOTOGRAPHY 📸 ♥️ @puravidamanuel 📍 Tansania 🇹🇿 🔜 South Africa 🇿🇦 & Namibia 🇳🇦
     location: "Switzerland"
-    followers: 3479
-    engagement: 2801
-    commentsToLikes: 0.080411
-    id: ckf5tdn15hjvk0j23ufl1q9z3
+    followers: 19127
+    engagement: 790
+    commentsToLikes: 0.117377
+    id: ck13c1wyky7zh0i190aek2hfv
     verified: false
-    hashtags: "#nakdfashion, #iammightysolo, #stsworldwide, #stsjourney"
-  - username: "massixda"
+    hashtags: "#passion, #portraitphotography, #sensual, #switzerland"
+  - username: "dennisboeer"
     fullname: >-
-      Massimo
+      Dennis Boeer
     bio: >-
-      Fashion I Lifestyle I Travel I Beauty I Health 📍Located Zürich 🇨🇭
+      Fitness | Travel | Lifestyle Social Media: @sesamyagency Modeling: @kultmodels 📸 Master of Eng. 🎓 📍Düsseldorf 🇩🇪
     location: "Switzerland"
-    followers: 34356
-    engagement: 350
-    commentsToLikes: 0.075341
-    id: ck6u3kk6tybjm0j71mr7mpp06
+    followers: 406280
+    engagement: 493
+    commentsToLikes: 0.008380
+    id: ck8szbxtwntyp0j78zaiaba4u
     verified: false
-    hashtags: ""
-  - username: "witho_swizz"
+    hashtags: "#boy, #sea, #fun, #travel"
+  - username: "frederic.huber"
     fullname: >-
-      Tom
+      Frederic Huber |Photography🇨🇭
     bio: >-
-      🇨🇭 Made in Switzerland 📍Based in Zurich ✈️Next stop: #portugal #lisboa #porto 📩 witho_swizz@outlook.com #travel 🌍🏖️🏞️ #gym #tennis 🎾
+      Traveler, Landscape Photographer⛰ 📍Based in Valais/Wallis 🇨🇭🏔 📩Contact | info@frederichuber.com
     location: "Switzerland"
-    followers: 193163
-    engagement: 798
-    commentsToLikes: 0.016221
-    id: ck8t1v7i0x5x40j7897do8kxp
+    followers: 9852
+    engagement: 2671
+    commentsToLikes: 0.037874
+    id: ck5c12kkruc4u0i11u9w6joe1
     verified: false
-    hashtags: "#instagood, #handmade, #mensfashion, #swiss"
-  - username: "thechicadvocate"
+    hashtags: "#visitswitzerland, #autumn, #blickheimat, #ig"
+  - username: "swissdiscover"
     fullname: >-
-      Priscilla 🖤 INSPO • FASHION
+      Anaïs ❁
     bio: >-
-      TRAVEL & BEAUTY LOVER 🌎 Boss Babe✨ Lawyer⚖️ Free mind🌞 🤍 @the.swiss.gentleman based 📍Lucerne 🇨🇭 ⬇️ Blog ⬇️
+      📍 Swiss traveller from #lausanne 🇨🇭 Diary about exploring Switzerland 🏔 Hiking lover 📸 IPhone 12pro
     location: "Switzerland"
-    followers: 30733
-    engagement: 277
-    commentsToLikes: 0.223753
-    id: ck55oajp27yxh0i11xgvnl6ut
+    followers: 59844
+    engagement: 607
+    commentsToLikes: 0.016044
+    id: ckap0b5mrpk840i78fa0ncghr
     verified: false
-    hashtags: "#pixi, #tallygang, #valentinesday, #maccosmetics"
+    hashtags: "#glacier3000, #zermatt, #postcard, #rando"
 ---

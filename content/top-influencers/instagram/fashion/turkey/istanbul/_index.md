@@ -1,36 +1,24 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Istanbul In 2023
+title: Top 10 Fashion Instagram Influencers In Istanbul In 2024
 description: >-
-  Find top fashion Instagram influencers in Istanbul in 2023. Most popular hashtags: #fashion #istanbul #tbt #photo.
+  Find top fashion Instagram influencers in Istanbul in 2024. Most popular hashtags: #fashion #istanbul #love #turkey.
 platform: Instagram
-hits: 323
-text_top: See the best Instagram influencers on inBeat.
-text_bottom: Our platform holds 323 Instagram influencers like this in Istanbul, Turkey for you to collaborate.
+hits: 318
+text_top: Identify the most popular Instagram accounts on inBeat.
+text_bottom: Our database has 318 Instagram influencers like this in Istanbul, Turkey for you to collaborate.
 profiles:
-  - username: "fulya_olmez"
+  - username: "andjelijaraicevic"
     fullname: >-
-      Fulya Ölmez
+      Andjelija Raičević
     bio: >-
-      #psychology @odatiyatrosu #Deruni Romanı📚 #kafkaokur Dergi #edebiyatist Dergi 👉 📩 ffulyaolmez@gmail.com Deruni Romanı 👇
+      Founder of @girlstrip.rs @gardenpartyy.rs & @angellheels Personal guide | Travel blogger ❤️ in Istanbul 🏡 in Belgrade
     location: "Turkey"
-    followers: 23477
-    engagement: 759
-    commentsToLikes: 0.059305
-    id: ckaoz4cbdkb7a0i7894nkw7fo
+    followers: 50269
+    engagement: 254
+    commentsToLikes: 0.015029
+    id: ck5c2hk6gx9yq0i11xa9rpvyh
     verified: false
-    hashtags: "#gu, #dog, #picoftheday, #ag"
-  - username: "fg_diaries_"
-    fullname: >-
-      🇭🇺🇹🇷
-    bio: >-
-      📍Budapest Hungarian girl living in Istanbul 🕌 📷 @flora_photographs 💎 @chezamor_com ✉️ gfloraphotographs@gmail.com Muszlim férfi felesége leszek👇🏼
-    location: "Turkey"
-    followers: 35906
-    engagement: 97
-    commentsToLikes: 0.098049
-    id: ck0w362a0rrmz0i19x63553h0
-    verified: false
-    hashtags: "#rekla, #vo, #fashion, #istanbul"
+    hashtags: "#amalfi, #love, #italy, #fashion"
   - username: "laura.charlie.elise"
     fullname: >-
       Laura Charlie from Holland
@@ -67,6 +55,18 @@ profiles:
     id: ck5q9xpbhdj9b0i115adijzhl
     verified: false
     hashtags: "#gelindamat, #dugunmekani, #dugunsalonu, #pinaraltug"
+  - username: "recepdemirayy"
+    fullname: >-
+      Recep Demiray
+    bio: >-
+      Fashion Designer / İstanbul / Londra PR & İnfluencer Marketing Founder @fashionlondonpr
+    location: "Turkey"
+    followers: 444446
+    engagement: 175
+    commentsToLikes: 0.042293
+    id: ck13be9hgv07e0i19skb2topd
+    verified: false
+    hashtags: "#recepdemiraycoture, #2024, #stil, #newcollection"
   - username: "ezgiozdemirr"
     fullname: >-
       Begüm Ezgi Özdemir
@@ -79,18 +79,6 @@ profiles:
     id: ck14lna73vipa0i19pdspm9rd
     verified: false
     hashtags: "#throwback, #sunset, #sky, #reflection"
-  - username: "kate.xeeva"
-    fullname: >-
-      Kate Alexeeva
-    bio: >-
-      Follow ▶️ @glamboxtr 👑 Miss Latvia 🇱🇻 📸 Fashion Model 🇹🇷 Istanbul ✈️ 55 Countries
-    location: "Turkey"
-    followers: 230999
-    engagement: 211
-    commentsToLikes: 0.028011
-    id: ck5hskkqhwqs90i11zzuejemu
-    verified: true
-    hashtags: "#katexeeva, #glambox, #misslatvia, #ad"
   - username: "whasani"
     fullname: >-
       Hasan Telatar
@@ -103,28 +91,40 @@ profiles:
     id: ck6u8r00pt5tv0j71o8v5wkm3
     verified: false
     hashtags: "#hastasiyiz"
-  - username: "dszgn"
+  - username: "halahzaher"
     fullname: >-
-      Deniz SEZGİN
+      HaLaH ZaHeR ||  هالَة زاهِر
     bio: >-
-      🏕 | Kendine has numunelik biri 🌎 |👣 🚙 🥗 |founder of @gezegendiyeti 📸 |Gezi fotoğraflarınızı etiketlemeyi unutmayın 👉🏻@dszgn 📥deniz1sezgin@gmail.com
+      Computer engineer 👾 Co-founder of @the.sis.list 💛 Master from BAU💛 Business WApp ‪+90 505 943 86 75‬ للأعلان 📩Eng.halahzf@gmail.com
     location: "Turkey"
-    followers: 7673
-    engagement: 1059
-    commentsToLikes: 0.121106
-    id: ck9hbt3usibwo0j78r1etvy9n
+    followers: 358498
+    engagement: 228
+    commentsToLikes: 0.025498
+    id: ck5cc0koighya0i119lr73fad
     verified: false
-    hashtags: "#turkey, #friends, #traveleurope, #rize"
-  - username: "feryalgulman"
+    hashtags: "#following, #fashion, #thesislist, #istanbul"
+  - username: "dua.molla"
     fullname: >-
-      Feryal Gulman 🇹🇷🍀
+      Dua Molla Alrayess | دعاء منلا
     bio: >-
-      #mimar (itü)🐝 #architect #gulmangroup @popvizyon
+      في كل شر يكمن الخير 🤍 ☏ duamolla.a@gmail.com ❤︎ @saadalreis ✈︎ #istanbul @dua.boutique.tr Life Style Beauty Hijab
     location: "Turkey"
-    followers: 234728
-    engagement: 113
-    commentsToLikes: 0.050536
-    id: ck5bvimnhjppc0i111a3mbx0e
+    followers: 121293
+    engagement: 177
+    commentsToLikes: 0.140811
+    id: ckapaz0bay07a0i782q8gesvd
     verified: false
-    hashtags: "#turkey, #tbt, #istanbul, #fashion"
+    hashtags: "#fashionista, #hijabfashion, #hijab, #turkey"
+  - username: "sinanguleryuzofficial"
+    fullname: >-
+      Sinan Guleryuz
+    bio: >-
+      KıZBaBaSı👶🏼 Menajer: @ilsmusicmanagement Organizasyonlar: @exenexclusivegroup Dijital: alevaktas@kronosiletisim.com.tr
+    location: "Turkey"
+    followers: 295370
+    engagement: 69
+    commentsToLikes: 0.033446
+    id: ck55jkribx83m0i119ok3gd20
+    verified: true
+    hashtags: "#sinanguleryuz, #fashionmodel, #livemusic, #love"
 ---

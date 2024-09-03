@@ -1,130 +1,130 @@
 ---
-title: Top 10 Chefs Instagram Influencers In Spain In 2023
+title: Top 10 Chefs Instagram Influencers In Spain In 2024
 description: >-
-  Find top chefs Instagram influencers in Spain in 2023. Most popular hashtags: #chocolate #food #recetassaludables #receta.
+  Find top chefs Instagram influencers in Spain in 2024. Most popular hashtags: #chocolate #food #receta #recetas.
 platform: Instagram
-hits: 93
-text_top: Identify the most popular Instagram accounts on inBeat.
-text_bottom: Our database has 93 Instagram influencers like this in Spain for you to collaborate.
+hits: 110
+text_top: Discover the best Instagram profiles on inBeat.
+text_bottom: Our database holds 110 Instagram influencers like this in Spain for you to connect with.
 profiles:
-  - username: "alma_cupcakes"
+  - username: "herrlich.dining"
     fullname: >-
-      Alma
+      Hannah Kleeberg
     bio: >-
-      Chef pastelera y mamá @almascupcakestiendaytaller 16maratones 6-star majors finisher colab.alma@gmail.com
+      life and work as a female chef & founder 🌀 culinary studio @herrlich.studio 🫂 collabs: lea@raducommunications.com 📧 events: hello@herrlichdining.com
     location: "Spain"
-    followers: 317154
-    engagement: 255
-    commentsToLikes: 0.036516
-    id: ck55j5tg3wc7b0i11wuxctpaq
-    verified: true
-    hashtags: "#bolaconpatas, #ad, #hacerlacompracon, #haribo100"
-  - username: "dianavalentinarch"
-    fullname: >-
-      Diana Valentina
-    bio: >-
-      💃🏼Hobby model Chef internacional👩🏼‍🍳 📈Uni student 🎥 Tik Tok: @dianavalentinarch
-    location: "Spain"
-    followers: 15229
-    engagement: 1336
-    commentsToLikes: 0.009450
-    id: ck9hbo11fhoxf0j78ehdgm62q
+    followers: 116632
+    engagement: 527
+    commentsToLikes: 0.009683
+    id: clo6b7klvwkfj0j080pogy5gv
     verified: false
-    hashtags: "#baby, #elvigiamerida, #familia, #merida"
-  - username: "piedad_crespin"
-    fullname: >-
-      Piedad Crespín
-    bio: >-
-      Fashionista👗 Chef amateur 👩‍🍳 Cats lovers 😻 Felicidad como estilo de vida✨
-    location: "Spain"
-    followers: 22276
-    engagement: 264
-    commentsToLikes: 0.059572
-    id: ck8t9mi7romgd0j784xxs1abl
-    verified: false
-    hashtags: "#lunes, #cordoba, #rosa, #recetas"
-  - username: "pepebara"
-    fullname: >-
-      José Barahona Rais
-    bio: >-
-      TV Host. Locutor de @exaelsalvador Chef. Trip Lover. 🇸🇻🇨🇭
-    location: "Spain"
-    followers: 112082
-    engagement: 281
-    commentsToLikes: 0.018758
-    id: ck5hihtasdkkx0i11bet64ktd
-    verified: false
-    hashtags: "#y7a, #tb, #credisiman, #elsalvador"
-  - username: "goutdhestia"
-    fullname: >-
-      María Gálvez Enseñat
-    bio: >-
-      Recomiendo lo que me gusta. Recetas, restaurantes, producto, casa y viajes. Chef & Chef Pâtissier 👩‍🍳 Le Cordon Bleu
-    location: "Spain"
-    followers: 52030
-    engagement: 293
-    commentsToLikes: 0.142747
-    id: ck6ui5y30d9kh0j71e2f93ege
-    verified: false
-    hashtags: "#madrid, #aperitivo, #receta, #foodie"
+    hashtags: "#homebarista, #jedentageinmalig, #womeninfood, #wmf"
   - username: "chefbosquet"
     fullname: >-
       Roberto ChefBosquet
     bio: >-
-      CHEF de @nakedandsated & @illicit_cafe ⭐️THE BEST FOODIE 2018⭐️ 🔪CONSEJERO MCHEF VI🔪
+      CHEF @nakedandsated Recetas fáciles y saludables Best Foodie ‘18/ FORBES 22/23’ 3 LIBROS📕 🍽 📜🧑‍🍳 LeCordon Bleu 🔪CONSEJERO MCHEF VI🔪 @miwirealdrinks
     location: "Spain"
-    followers: 514548
-    engagement: 253
-    commentsToLikes: 0.036756
+    followers: 1663635
+    engagement: 475
+    commentsToLikes: 0.016431
     id: ck14i3pdtdhkm0i1905h2uszc
     verified: true
-    hashtags: "#chocolate, #realfood, #recetassaludables, #dulcedeleche"
-  - username: "jacksflavours"
+    hashtags: "#reelsfoodie, #recetacasera, #chocolate, #videoreceta"
+  - username: "miquelguarro"
     fullname: >-
-      Jack
+      Miquel Guarro
     bio: >-
-      🌕Health Chef 👨‍🍳 🌘Coach transpersonal 🌔Youtuber 📩 jacksflavours@gmail.com #jacksflavours Canal en Youtube 👇
+      👨🏻‍🍳🍰 Pastry Chef 👨🏻‍🚀🌍 Pastry Consulting 🌇📍 Barcelona
     location: "Spain"
-    followers: 23029
-    engagement: 284
-    commentsToLikes: 0.210856
-    id: ck6ty9fa22evr0j71kliadtre
+    followers: 173348
+    engagement: 319
+    commentsToLikes: 0.027052
+    id: ck15r35ho5wp60i196orbk9u2
     verified: false
-    hashtags: "#panellets, #chef, #recetassaludables, #gourmet"
-  - username: "rocsuri"
+    hashtags: "#artofplating, #chefsgossips, #handmade, #gateau"
+  - username: "fran_ciaro"
     fullname: >-
-      Roc Suñé Rius
+      Fran Ciaro
     bio: >-
-      Pastry chef Restaurant Massana 1 estrella michelin Girona
+      👨🏻‍🍳 Chef ~ Subo recetas para hacerte feliz 🥰 📍Viviendo en South Florida 🇺🇸 🌿 Founder @thewisoul 👨‍👩‍👧‍👦 Papi de @Familiacarameluchi 👇 Más sobre mí
     location: "Spain"
-    followers: 9416
-    engagement: 537
-    commentsToLikes: 0.084996
-    id: ck6tuuellihb60j71lstnma3x
+    followers: 238198
+    engagement: 249
+    commentsToLikes: 0.014706
+    id: ck14ig6ghf8k30i19z8fwynr9
     verified: false
-    hashtags: "#igerscostabrava, #foodphotography, #cuina, #gastronomia"
-  - username: "paulinabascal"
+    hashtags: "#familia, #chef, #recipe, #receta"
+  - username: "pepebara"
     fullname: >-
-      Paulina Abascal
+      Pepe Barahona Rais
     bio: >-
-      Pastry Chef 📞Eventos: +52 (55)80300595 🍫@thewishcakes 💌Colaboraciones: dulcesbesos@paulinabascal.com ⬇️COMPRA MIS PASTELES EN LÍNEA⬇️
+      Host. Locutor de @exaelsalvador Chef. Trip Lover. 🇸🇻🇨🇭
     location: "Spain"
-    followers: 416691
-    engagement: 154
-    commentsToLikes: 0.053309
-    id: ck0vz6jln7jzu0i19ac4y6k9s
-    verified: true
-    hashtags: "#food, #recetasfaciles, #chef, #hagamospai"
-  - username: "miquelantoja"
+    followers: 124671
+    engagement: 246
+    commentsToLikes: 0.006278
+    id: ck5hihtasdkkx0i11bet64ktd
+    verified: false
+    hashtags: "#elsalvador, #tbt, #jeep, #agosto"
+  - username: "balazsenzsol"
     fullname: >-
-      MIQUEL ANTOJA
+      Enzsöl Balázs
     bio: >-
-      👨🏻‍🍳 Chef Asesor en @foodlona 📚 My Book #101RecetasParaTriunfar 📩 esteesmicorreo@miquelantoja.com 📍 Badalona💚
+      Private Pastry Chef International Consulting Services🌏🌎🌍 Founder @damazomolds Jury @mestercukrasz 🍰
     location: "Spain"
-    followers: 371268
-    engagement: 232
-    commentsToLikes: 0.021311
-    id: ck0u8a0mo6xev0i19b0y18gg3
+    followers: 202437
+    engagement: 240
+    commentsToLikes: 0.013773
+    id: ck0w56u4w26l20i19br57fqla
+    verified: false
+    hashtags: "#desserts, #gourmetzfood, #instalike, #recipes"
+  - username: "goutdhestia"
+    fullname: >-
+      María Gálvez Enseñat
+    bio: >-
+      Recetas y todo lo que gira en torno a la buena comida. Chef&Chef Pâtissier👩‍🍳 Le Cordon Bleu Mi libro: Yo Cocino, Tú El Vino. 📖 hola@goutdhestia.com
+    location: "Spain"
+    followers: 86304
+    engagement: 204
+    commentsToLikes: 0.100784
+    id: ck6ui5y30d9kh0j71e2f93ege
+    verified: false
+    hashtags: "#verano, #recetas, #receta, #restaurant"
+  - username: "marcialexperience"
+    fullname: >-
+      Marcial “El Texturas” Masterchef Ecuador
+    bio: >-
+      📍Quito🇪🇨/Coc.Creativo🎨👨🏻‍🍳 🎬Top 4 MasterchefEC 1era Temp 🏘Chef en Casa INFO📧 📚Publicista-Comunicador Org- Mag.Mkt ⭐ @l_texturas 📺 Link YouTube⬇️
+    location: "Spain"
+    followers: 50378
+    engagement: 144
+    commentsToLikes: 0.046417
+    id: ckaowfk2h8pzq0i78d8w5f8gz
+    verified: false
+    hashtags: "#today, #juditharboledadevuelvememidinero, #gratitud, #fashionstyle"
+  - username: "juanllorca"
+    fullname: >-
+      Juan Llorca|Chef
+    bio: >-
+      🔪Chef @valencia_montessori 🔥OWNER/CEO & CHEF @disidentevlc 🥑Sin Dientes y a Bocados 📨contrataciones@juanllorca.com
+    location: "Spain"
+    followers: 449226
+    engagement: 113
+    commentsToLikes: 0.051782
+    id: ck13bj0iivn1i0i19o1o9flfw
     verified: true
-    hashtags: "#brioche, #foodlonabymiquelantoja, #bdn, #desserts"
+    hashtags: "#recetafacil, #ideaderecetas, #recetasdulces, #alimentacioncomplementaria"
+  - username: "miriperezc"
+    fullname: >-
+      Miri Pérez-Cabrero 🦋
+    bio: >-
+      @papayacomunicacion Healthy Chef Actriz Mi libro:
+    location: "Spain"
+    followers: 321949
+    engagement: 112
+    commentsToLikes: 0.033041
+    id: closq3un4ndne0j08wstj1kz4
+    verified: false
+    hashtags: "#recetas, #receta, #recetassanas, #chocolate"
 ---

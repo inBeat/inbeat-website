@@ -1,11 +1,11 @@
 ---
-title: Top 10 Food TikTok Influencers In Sao Paulo In 2023
+title: Top 10 Food TikTok Influencers In Sao Paulo In 2024
 description: >-
-  Find top food TikTok influencers in Sao Paulo in 2023. Most popular hashtags: #fyp #food #saopaulo #viral.
+  Find top food TikTok influencers in Sao Paulo in 2024. Most popular hashtags: #food #fyp #viral #saopaulo.
 platform: TikTok
 hits: 10
-text_top: Discover the top-rated TikTok profiles on inBeat.
-text_bottom: inBeat aggregates 10 TikTok influencers like this in Sao Paulo, Brazil for you to collaborate.
+text_top: Discover the most popular TikTok accounts on inBeat.
+text_bottom: Our platform has 10 TikTok influencers like this in Sao Paulo, Brazil for you to connect with.
 profiles:
   - username: "leonardorosselli3"
     fullname: >-

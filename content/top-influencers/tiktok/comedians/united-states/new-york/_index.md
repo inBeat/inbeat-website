@@ -1,11 +1,11 @@
 ---
-title: Top 10 Comedians TikTok Influencers In New York In 2023
+title: Top 10 Comedians TikTok Influencers In New York In 2024
 description: >-
-  Find top comedians TikTok influencers in New York in 2023. Most popular hashtags: #comedy #comedian #fyp #stitch.
+  Find top comedians TikTok influencers in New York in 2024. Most popular hashtags: #comedy #comedian #fyp #stitch.
 platform: TikTok
-hits: 36
-text_top: See the top-rated TikTok influencers on inBeat.
-text_bottom: Our search engine holds 36 TikTok influencers like this in New York, United States for you to work with.
+hits: 37
+text_top: Discover the top-rated TikTok profiles on inBeat.
+text_bottom: inBeat holds 37 TikTok influencers like this in New York, United States for you to pitch.
 profiles:
   - username: "constantlygus"
     fullname: >-
@@ -78,7 +78,7 @@ profiles:
     commentsToLikes: 0.023801
     id: ckbf5bqviu5vm0j23gowe8grh
     verified: false
-    hashtags: "#lgbt, #song, #pride, #livemusic"
+    hashtags: "#livemusic, #musicalcomedy, #bigirl, #graffiti"
   - username: "thatdaneshguy"
     fullname: >-
       Danesh
@@ -102,7 +102,7 @@ profiles:
     commentsToLikes: 0.049765
     id: ckc3dxr4iz6sf0j23fal0zfog
     verified: true
-    hashtags: "#comedy, #babyboy, #mom, #ginabrillon"
+    hashtags: "#mom, #ginabrillon, #comedy, #babyboy"
   - username: "jennyzigrino"
     fullname: >-
       JennyZigrino
@@ -114,7 +114,7 @@ profiles:
     commentsToLikes: 0.025902
     id: ck8zazs7s3m670j78b28a88u7
     verified: false
-    hashtags: "#comedians, #comedian, #standupcomedy, #comedy"
+    hashtags: "#funny, #standupcomedian, #standupcomedy, #jokes"
   - username: "alingonmitra"
     fullname: >-
       comic Alingon Mitra

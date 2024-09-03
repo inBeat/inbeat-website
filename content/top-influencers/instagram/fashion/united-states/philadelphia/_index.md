@@ -1,24 +1,24 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Philadelphia In 2023
+title: Top 10 Fashion Instagram Influencers In Philadelphia In 2024
 description: >-
-  Find top fashion Instagram influencers in Philadelphia in 2023. Most popular hashtags: #fashion #mensfashion #explore #philadelphia.
+  Find top fashion Instagram influencers in Philadelphia in 2024. Most popular hashtags: #fashion #philadelphia #philly #bikini.
 platform: Instagram
-hits: 58
-text_top: Identify the best Instagram influencers on inBeat.
-text_bottom: Our database holds 58 Instagram influencers like this in Philadelphia, United States for you to pitch.
+hits: 77
+text_top: Identify the most popular Instagram accounts on inBeat.
+text_bottom: Our platform has 77 Instagram influencers like this in Philadelphia, United States for you to contact.
 profiles:
-  - username: "215shooter"
+  - username: "lattesandlabcoats"
     fullname: >-
-      Jerome Whitfield Jr
+      Dani D
     bio: >-
-      📍 Philly/NY/NJ 📸 Content Creator 🗣 Brand Influencer ✍️ Social Media // Lifestyle Photographer @DTLRVILLA
+      philadelphia | fashion | coffee | shop my looks 💌: lattesandlabcoats@gmail.com
     location: "United States"
-    followers: 29682
-    engagement: 339
-    commentsToLikes: 0.069249
-    id: ck0txtkhdkd5z0i19etpy384z
+    followers: 7497
+    engagement: 1715
+    commentsToLikes: 0.044363
+    id: ckaou5lv0ywhz0i78kb5rv5l4
     verified: false
-    hashtags: "#canoneosr5, #fashion, #philadelphia, #comedy"
+    hashtags: "#ltkholidayathome, #ltkholidaygiftguide, #neutrogenapartner, #neutrogenamakeup"
   - username: "_tashbanks"
     fullname: >-
       TashBanks!
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.041692
     id: ck6ueu2oft3oc0j71j6zhyfjs
     verified: false
-    hashtags: "#youtube, #zara, #forever21, #hm"
+    hashtags: "#hm, #youtube, #zara, #forever21"
   - username: "maddispor"
     fullname: >-
       Madison Spor
@@ -43,18 +43,6 @@ profiles:
     id: ck8tcy3f514i10j78witm0jo5
     verified: false
     hashtags: "#aesthetic, #blonde, #foodblog, #styleblogger"
-  - username: "lattesandlabcoats"
-    fullname: >-
-      Dani D
-    bio: >-
-      pharmD | philadelphia | fashion | coffee | shop my looks 💌: lattesandlabcoats@gmail.com
-    location: "United States"
-    followers: 7142
-    engagement: 2119
-    commentsToLikes: 0.035026
-    id: ckaou5lv0ywhz0i78kb5rv5l4
-    verified: false
-    hashtags: "#ltkholidaygiftguide, #neutrogenapartner, #neutrogenamakeup, #cvsbeauty"
   - username: "kaylinmarie.fit"
     fullname: >-
       KAYLIN MARIE
@@ -79,30 +67,42 @@ profiles:
     id: ck8szfoa2o9bp0j78ueimo4p2
     verified: true
     hashtags: "#harrystyles, #artistofthesummer, #bennettonair, #dog"
-  - username: "theurbangentrychannel"
+  - username: "phillychitchat"
     fullname: >-
-      The Urban Gentry
+      Philly ChitChat
     bio: >-
-      World’s 1st independent watch/lifestyle YouTube channel. Unsponsored real reviews. NOT A WATCH DEALER! No DMs please. #wristwatchcheck #seikosaturday
+      Hugh J. Dillon 📸Social Chronicler 💲Hired/Earned Media Placements 🗞️Media Platform 😃Public Interest ❤️Love Your Life Hughe@phillychitchat.com
     location: "United States"
-    followers: 108846
-    engagement: 324
-    commentsToLikes: 0.022983
-    id: ckaov1bex2oyg0i781ducqvbb
+    followers: 54938
+    engagement: 71
+    commentsToLikes: 0.039396
+    id: ckqjjlli1rm5i0j23c3yit3kl
     verified: false
-    hashtags: "#theurbangentry, #mensaccessories, #luxury, #rolex"
-  - username: "stylesofman"
+    hashtags: "#phillyretail, #taylorswift, #traviskelce, #repost"
+  - username: "ukrainianbella"
     fullname: >-
-      Frank Tkachenko
+      Diana Razumow | Philly Lifestyle Blogger
     bio: >-
-      👞 | Fashion is bought. Style is built. 📍 | Philadelphia, USA ✉️ | Contact@stylesofman.com 🔑 | Watch my everyday carry YouTube video ⤵
+      📍Philadelphia / South NJ Travel • Fashion • Food Helping you live your best life✨ Shop my recommendations👇🏼
     location: "United States"
-    followers: 259209
-    engagement: 127
-    commentsToLikes: 0.016227
-    id: ck135ifx81l160i19nhbxyndo
+    followers: 13186
+    engagement: 142
+    commentsToLikes: 0.034990
+    id: ckv7c9up1122r0j233utv0zuz
     verified: false
-    hashtags: "#flatlaystyle, #leatherboots, #thursdayboots, #menswear"
+    hashtags: "#phillyblogger, #philly, #philadelphia, #fashiondiaries"
+  - username: "jdavismoranti"
+    fullname: >-
+      Jacqui Moranti -Content Creator
+    bio: >-
+      -Certified Fitness Professional💪 -Fashion in color 🎨 -Se habla español 🇻🇪🇩🇴 -Philadelphia, PA 📍
+    location: "United States"
+    followers: 53635
+    engagement: 69
+    commentsToLikes: 0.055107
+    id: ck9hbm2yuhfxa0j78v8u8k8ez
+    verified: false
+    hashtags: "#phlbloggers, #afrolatina, #phillystyle, #skincare"
   - username: "amandavalentine"
     fullname: >-
       Amanda Valentine
@@ -115,16 +115,16 @@ profiles:
     id: ck0w1mrwnk3t20i19tnazvi14
     verified: false
     hashtags: "#redrumcollaboration, #flashbackfriday, #staygold, #invocationart"
-  - username: "gabesco"
+  - username: "ann.le.do"
     fullname: >-
-      Gabe Escobar
+      Ann Le Do
     bio: >-
-      temple ‘24 🍒 tiktok: gabesco (2.8 million) snapchat: gabesco Venmo/PO box👇🏼 💜 Venmo: gabesco42 P.O Box: 1717 N12th Street #829, Philadelphia,PA,19122
+      Lifestyle • Fashion • Travel • Family Motherhood + marriage humor 🎥 TikTok (220k+) @ann.le.do annledo@dulcedo.com 📍Philadelphia, PA
     location: "United States"
-    followers: 124179
-    engagement: 2511
-    commentsToLikes: 0.031710
-    id: ck8t6brgnd0fu0j782kg2l8z3
+    followers: 331352
+    engagement: 1529
+    commentsToLikes: 0.083301
+    id: ck6ue4t9dotrb0j71dzwta7fo
     verified: false
-    hashtags: "#collegelife, #imgmodels, #instamodel, #softboy"
+    hashtags: "#sponsored, #toyota, #letsgoplaces, #hybrid"
 ---

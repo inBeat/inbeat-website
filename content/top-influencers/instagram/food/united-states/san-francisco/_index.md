@@ -1,84 +1,84 @@
 ---
-title: Top 10 Food Instagram Influencers In San Francisco In 2023
+title: Top 10 Food Instagram Influencers In San Francisco In 2024
 description: >-
-  Find top food Instagram influencers in San Francisco in 2023. Most popular hashtags: #sanfrancisco #love #california.
+  Find top food Instagram influencers in San Francisco in 2024. Most popular hashtags: #sanfrancisco #bayareaeats #bayarea #bayareafoodie.
 platform: Instagram
-hits: 114
-text_top: Identify the most popular Instagram profiles on inBeat.
-text_bottom: Our database has 114 Instagram influencers like this in San Francisco, United States for you to work with.
+hits: 197
+text_top: Analyze the most popular Instagram influencers on inBeat.
+text_bottom: Our database holds 197 Instagram influencers like this in San Francisco, United States for you to connect with.
 profiles:
+  - username: "kelmeleats"
+    fullname: >-
+      Kel & Mel | SF Bay Area Food + Travel
+    bio: >-
+      📸 Bay Area Creators | 🇹🇭 Thai & 🇲🇾 Malaysian 📩 kelmeleats@gmail.com | Disney Creators ‘23 🎉 Your guide for the best things to do and eat
+    location: "United States"
+    followers: 27060
+    engagement: 228
+    commentsToLikes: 0.077317
+    id: clerz2zlwdakf0j08bortre0t
+    verified: false
+    hashtags: "#cheap, #chinesefood, #newrestaurant, #frenchfries"
   - username: "nick_muncy"
     fullname: >-
       Nick Muncy
     bio: >-
       Pastry Chef of @drool.sf. Creator of Toothache Magazine @toothache_mag. Food Photographer. San Francisco, CA
     location: "United States"
-    followers: 16233
-    engagement: 268
-    commentsToLikes: 0.037122
+    followers: 16428
+    engagement: 230
+    commentsToLikes: 0.029550
     id: ck139xxmvno6e0i194nbmpxfc
     verified: false
-    hashtags: "#covid19, #saverestaurants, #togetherwecan, #drooloverdrool"
-  - username: "the_happyepicurean"
+    hashtags: "#drooloverdrool"
+  - username: "eatwith_ange"
     fullname: >-
-      🇬🇺🏳️‍🌈Tim Delgado M.🏳️‍🌈🇬🇺
+      Angela | 📍San Francisco | Food & Travel
     bio: >-
-      📍San Francisco, CA. 👨🏽‍💻 Content Creator ❗️DM for COLLABORATIONS ❗️
+      •𝕊𝕒𝕧𝕧𝕪 𝕡𝕠𝕚𝕟𝕥𝕤 𝕥𝕣𝕒𝕧𝕖𝕝𝕖𝕣 𝕤𝕙𝕒𝕣𝕚𝕟𝕘 𝕖𝕩𝕡𝕖𝕣𝕚𝕖𝕟𝕔𝕖𝕤 & 𝕘𝕠𝕠𝕕 𝕖𝕒𝕥𝕤 •SF Native ✈️31 countries #jetsetange •Posting SF, parts of🇨🇦 & Hawaii •📩DM/Email for collab
     location: "United States"
-    followers: 20626
-    engagement: 211
-    commentsToLikes: 0.553819
-    id: ck14i4kmedm3p0i19a6a4gntb
+    followers: 4892
+    engagement: 419
+    commentsToLikes: 0.169929
+    id: clhdzrdptre140j08m5vy3elo
     verified: false
-    hashtags: "#spanishfoods, #eatinginsf, #sanfranciscodining, #the"
-  - username: "allie.eats"
-    fullname: >-
-      Allie Tong | Food + Recipes
-    bio: >-
-      the best kinds of people are those who like to eat🍴 📸 sm consultant + food photographer 📍san francisco 🎥tiktok @allie.eats 💌 contact@allieeats.com
-    location: "United States"
-    followers: 50223
-    engagement: 252
-    commentsToLikes: 0.081984
-    id: ck0u0hjaztpnv0i194lniunog
-    verified: false
-    hashtags: "#ad, #phillycrumble, #signatureselect, #chasepartner"
-  - username: "iamrochelleheatly"
-    fullname: >-
-      Rochelle Heatly
-    bio: >-
-      Building wealth in your local community Financial Literacy Coach To earn additional income Text Business or Text Credit to 858-925-8876
-    location: "United States"
-    followers: 15850
-    engagement: 236
-    commentsToLikes: 0.012734
-    id: ck14iaz5qeicq0i19pv6z40wn
-    verified: false
-    hashtags: "#creditrepair, #inspirationalquotes, #blacksandiego, #positivity"
+    hashtags: "#sffood, #newyorkfoodie, #sffoodie, #eatwithange"
   - username: "asideofsweet"
     fullname: >-
-      San Francisco Food + Travel
+      Kelly Huibregtse - San Francisco Food + Travel 💁🏼‍♀️
     bio: >-
-      Kelly from A Side of Sweet 💁🏼‍♀️ Discovering San Francisco ‘s hidden gems 🌈 Remodeling our 1st home! 🏡 Also a NICU doctor 👩🏼‍⚕️ kelly@asideofsweet.com
+      💎 Bringing you the BEST of San Francisco 🏠 Tour SF’s most unique homes and hidden gems 🚧 Remodeling our 1st home 👩🏼‍⚕️ Full-time NICU doctor
     location: "United States"
-    followers: 35681
-    engagement: 243
-    commentsToLikes: 0.062479
+    followers: 90108
+    engagement: 191
+    commentsToLikes: 0.094060
     id: ck0tvwfxpd3350i19hnphbesd
     verified: false
-    hashtags: "#healdsburg, #jordanwinery, #talentipartner, #howsfseessf"
-  - username: "bigcabbiggerhair"
+    hashtags: "#asideofhome, #sanfranciscotravel, #onlyinsf, #ilovesf"
+  - username: "millielai"
     fullname: >-
-      K A C E Y🍷
+      Millie Lai
     bio: >-
-      Wine & food enthusiast 📍Napa & San Francisco | 👩🏻‍⚕️PhD
+      San Francisco, CA Food, Travel, Events🍸 TikTok (72k) ➛ 𝙢𝙞𝙡𝙡𝙞𝙚.𝙡𝙖𝙞
     location: "United States"
-    followers: 21101
-    engagement: 554
-    commentsToLikes: 0.071958
-    id: ck15ugppkn3oz0i19ywzkpt62
+    followers: 24524
+    engagement: 246
+    commentsToLikes: 0.039913
+    id: clg13v36u5hrz0j08nlb4vvm9
     verified: false
-    hashtags: "#nationalicecreamday, #sourceofjoy, #myjordanvalentinemiami, #myjordanhouston"
+    hashtags: "#sponsored, #sfmodel, #millieinsf, #california"
+  - username: "itsatlasthegolden"
+    fullname: >-
+      Anu Marika + Atlas & Aura | life with goofy goldens
+    bio: >-
+      inspiration to get active with your dog dog-friendly hikes • raw & fresh food • healthy life 📍 San Francisco Bay Area 📧 itsatlasthegolden@gmail.com
+    location: "United States"
+    followers: 55463
+    engagement: 160
+    commentsToLikes: 0.145204
+    id: ckxk2xv2f78g00j23r01f6ncy
+    verified: false
+    hashtags: "#goldenretrievers, #dogtraining, #newpuppy, #puppy"
   - username: "peachonomics"
     fullname: >-
       P E A C H O N O M I C S
@@ -91,6 +91,30 @@ profiles:
     id: ck0uapkypcskl0i19pfl0mapw
     verified: false
     hashtags: "#eatpretty, #nycfoodies, #noodles, #quarantinecooking"
+  - username: "oli_be_eatin"
+    fullname: >-
+      OLI BE EATIN’ 🔪
+    bio: >-
+      FOOD + GADGET RECS & RECIPES | TRAVEL 🍽️ | Chef & Food Enthusiast 📍 | Bay Area | HI 🤙🏾 👨🏾‍🍳 | @islandbaycocina_bbq
+    location: "United States"
+    followers: 18756
+    engagement: 53
+    commentsToLikes: 0.050970
+    id: clivw7y9s3v7t0j08355z2ivh
+    verified: false
+    hashtags: "#bbq, #sanfrancisco, #sanjose, #food"
+  - username: "the_happyepicurean"
+    fullname: >-
+      Timothy Macalino (Tim)🇬🇺🏳️‍🌈
+    bio: >-
+      ✰𝐒𝐡𝐚𝐫𝐢𝐧𝐠 𝐜𝐮𝐥𝐭𝐮𝐫𝐞 𝐭𝐡𝐫𝐨𝐮𝐠𝐡 𝐟𝐨𝐨𝐝 𝐚𝐧𝐝 𝐬𝐮𝐩𝐩𝐨𝐫𝐭𝐢𝐧𝐠 𝐁𝐚𝐲 𝐀𝐫𝐞𝐚 𝐫𝐞𝐬𝐭𝐚𝐮𝐫𝐚𝐧𝐭𝐬 𝐚𝐧𝐝 𝐛𝐮𝐬𝐢𝐧𝐞𝐬𝐬𝐞𝐬 𝐨𝐧𝐞 𝐛𝐢𝐭𝐞 𝐚𝐭 𝐚 𝐭𝐢𝐦𝐞! ✰ @ahostin_sf
+    location: "United States"
+    followers: 22209
+    engagement: 113
+    commentsToLikes: 0.388320
+    id: ck14i4kmedm3p0i19a6a4gntb
+    verified: false
+    hashtags: "#bestfoodfeed, #warwickhotels, #eatingsanfrancisco, #cassavasf"
   - username: "louisraphael"
     fullname: >-
       L o u i s R A P H A E L
@@ -103,28 +127,4 @@ profiles:
     id: ck5c5v27l47d40i11dqp43rwm
     verified: false
     hashtags: "#california, #wildcalifornia, #igescaype, #sanfrancitizens"
-  - username: "psychic_sima"
-    fullname: >-
-      Psychic spiritual healer
-    bio: >-
-      Top rated love ❤️ expert 🔮 licensed for over 39 master spell 💫caster Chakra balancing DM WhatsApp 929 264-1601 for info psychic/empath
-    location: "United States"
-    followers: 47932
-    engagement: 1079
-    commentsToLikes: 0.004292
-    id: ck8tdf4mo34830j78f9u44lwx
-    verified: false
-    hashtags: "#newyorkcity, #twinflame, #1111, #soulmate"
-  - username: "nantuck3t"
-    fullname: >-
-      nanette
-    bio: >-
-      Eating my feelings + they taste delicious. Adweek Creative 100 📍San Francisco @fentybeauty 🍩 food + #travel ✈️ + interiors All opinions are my own.
-    location: "United States"
-    followers: 45724
-    engagement: 96
-    commentsToLikes: 0.126556
-    id: ck6u3vh8i04e70j71t7moub0j
-    verified: false
-    hashtags: "#stopaapihate, #sanfrancisco, #vanleeuwenicecream, #vanleeuwenpartner"
 ---

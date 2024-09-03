@@ -1,11 +1,11 @@
 ---
-title: Top 10 Photographers TikTok Influencers In Sydney In 2023
+title: Top 10 Photographers TikTok Influencers In Sydney In 2024
 description: >-
-  Find top photographers TikTok influencers in Sydney in 2023. Most popular hashtags: #photography #sydney #photographer #fyp.
+  Find top photographers TikTok influencers in Sydney in 2024. Most popular hashtags: #photographer #sydney #photography #australia.
 platform: TikTok
 hits: 15
-text_top: Analyze the best TikTok influencers on inBeat.
-text_bottom: Our platform has 15 TikTok influencers like this in Sydney, Australia for you to connect with.
+text_top: See the best TikTok influencers on inBeat.
+text_bottom: Our platform has 15 TikTok influencers like this in Sydney, Australia for you to contact.
 profiles:
   - username: "felipevillegasmunera"
     fullname: >-

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Food TikTok Influencers In Russia In 2023
+title: Top 10 Food TikTok Influencers In Russia In 2024
 description: >-
-  Find top food TikTok influencers in Russia in 2023. Most popular hashtags: #food #cooking #eat #recipe.
+  Find top food TikTok influencers in Russia in 2024. Most popular hashtags: #food #recipe #eat #cooking.
 platform: TikTok
 hits: 53
-text_top: See the most popular TikTok influencers on inBeat.
-text_bottom: inBeat has 53 TikTok influencers like this in Russia for you to connect with.
+text_top: Discover the best TikTok influencers on inBeat.
+text_bottom: Our platform holds 53 TikTok influencers like this in Russia for you to connect with.
 profiles:
   - username: "ah_nadin_"
     fullname: >-

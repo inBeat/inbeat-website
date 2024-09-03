@@ -1,130 +1,130 @@
 ---
-title: Top 10 Beauty Instagram Influencers In New Delhi In 2023
+title: Top 10 Beauty Instagram Influencers In New Delhi In 2024
 description: >-
-  Find top beauty Instagram influencers in New Delhi in 2023. Most popular hashtags: #beauty #reelsinstagram #reelitfeelit #fashionblogger.
+  Find top beauty Instagram influencers in New Delhi in 2024. Most popular hashtags: #reelsinstagram #trending #reelsindia #trendingreels.
 platform: Instagram
-hits: 66
-text_top: Identify the best Instagram profiles on inBeat.
-text_bottom: inBeat aggregates 66 Instagram influencers like this in New Delhi, India for you to collaborate.
+hits: 75
+text_top: Identify the most popular Instagram accounts on inBeat.
+text_bottom: inBeat holds 75 Instagram influencers like this in New Delhi, India for you to work with.
 profiles:
-  - username: "theurbanelog"
+  - username: "surbhirathore3_"
     fullname: >-
-      Vishakha Vij
+      Surbhi Rathore
     bio: >-
-      💻@theurbanelog 📸Love•Beauty•Luxury•Well-being• 💌Theurbanelog@gmail.com 🎬Content Creator 📍New Delhi, India
+      ✨Fashion | Beauty | Lifestyle✨ 📍 New Delhi
     location: "India"
-    followers: 46936
-    engagement: 136
-    commentsToLikes: 0.118188
-    id: ckap4vm0j92yc0i78tr91a7xt
+    followers: 3764611
+    engagement: 347
+    commentsToLikes: 0.004818
+    id: cl48q8lp0lskz0i23rtmaqe43
     verified: false
-    hashtags: "#makeup, #sidharthshukla, #contentcreator, #lifestyle"
-  - username: "pragyasachdev"
+    hashtags: "#grwm, #travelwithsuru, #outfitideas, #rajasthan"
+  - username: "anishka_khantwaal18"
     fullname: >-
-      Pragya
+      Anishka Khantwaal
     bio: >-
-      • پرگیہ • FASHION | BEAUTY | LIFESTYLE NIFT New Delhi🎓 Delhi📍
+      🚩Mahadev 🚩 📍 New Delhi Beauty • Lifestyle • Fashion 📩 For business - Doozyanishka@gmail.com YouTube channel 👇🏻 1.28Million
     location: "India"
-    followers: 10082
-    engagement: 159
-    commentsToLikes: 0.083300
-    id: ckf5vglixoizy0j23l988q2mq
+    followers: 313634
+    engagement: 269
+    commentsToLikes: 0.019631
+    id: ck8td3sio1r050j78cei9m1hi
     verified: false
-    hashtags: "#hairismyhappy, #myglammxo, #birthdayootd, #myglammxobeautycreator"
-  - username: "officialanjalidixit"
+    hashtags: "#reels, #feed, #trending, #anishkasquad"
+  - username: "ishhasharma17"
     fullname: >-
-      ᴀɴᴊᴀʟɪ ᴅɪxɪᴛ
+      ईशा शर्मा
     bio: >-
-      Fashiongoodtimes #Fashion #Lifestyle #Beauty #Travel 📍New Delhi 💌 Collaboration/Business -contact@fashiongoodtimes.com
+      🎞 Beauty - Lifestyle 📍New Delhi, India 📩business.ishhasharma@gmail.com ⬇️ youtube
     location: "India"
-    followers: 101879
-    engagement: 214
-    commentsToLikes: 0.026342
-    id: ck9wfls40pf4f0j78avreguv9
+    followers: 34958
+    engagement: 229
+    commentsToLikes: 0.008523
+    id: ckmw1d7lj6ju00j23feq33k3p
     verified: false
-    hashtags: "#fashionblogger, #reelkarofeelkaro, #fashioninfluencer, #fashiongoodtimes"
+    hashtags: "#glyclarify, #ishhaturns22, #ishamily, #ad"
+  - username: "aanchalmehra_"
+    fullname: >-
+      Anchal Mehra
+    bio: >-
+      Fashion • Lifestyle • Travel • Beauty 📍New York 🇺🇸 / New Delhi 🇮🇳 💌 team.aanchalmehra@gmail.com 💄@anchalmehra_mua
+    location: "India"
+    followers: 158496
+    engagement: 171
+    commentsToLikes: 0.009857
+    id: ckaowj2qu95et0i78c92i3bqg
+    verified: false
+    hashtags: "#carribeanbeach, #valentinesdaylook, #valentinesdayoutfit, #vdayoutfit"
   - username: "shopaholicadventures"
     fullname: >-
-      Shopaholic adventures
+      Shopaholicadventures
     bio: >-
-      Praghti & Mallika 🧜🏼 Fashion | Beauty | Travel | Lifestyle 📍New Delhi 💌 For collaboration DM/Mail Check out our new video 🔻
+      Praghti & Mallika 🧜🏼 Fashion | Beauty | Travel | Lifestyle 📍New Delhi | Noida 💌 For collaboration DM
     location: "India"
-    followers: 18824
-    engagement: 195
-    commentsToLikes: 0.284934
+    followers: 18739
+    engagement: 130
+    commentsToLikes: 0.287716
     id: ck8t7ayqng5vn0j78ra3rygfk
     verified: false
-    hashtags: "#reelpose, #valentine, #valentineday, #birthday"
-  - username: "shewon_alyosius"
+    hashtags: "#fashionista, #instamua, #reelitfeelit, #indianyoutuber"
+  - username: "caffeine_and_more"
     fullname: >-
-      Shewon Alyosius
+      Neha Sherawat
     bio: >-
-      Never give up on your dreams. Digital Marketer | Fashion Stylist | Fashion Model Fashion • Beauty • Lifestyle • Portraits 📍New Delhi
+      📍New delhi Fashion | Lifestyle | Beauty | Travel For collab: 💌Nehasherawat10@gmail.com #galaxycreator @samsungindia
     location: "India"
-    followers: 75093
-    engagement: 134
-    commentsToLikes: 0.058256
-    id: ck15sp6r1e4k90i19kx2hi3on
+    followers: 67012
+    engagement: 142
+    commentsToLikes: 0.026070
+    id: ckto9u9x1epci0j232lw2w9zj
     verified: false
-    hashtags: "#happyvibes, #rakhi, #rakhshabandhan, #positivevibes"
+    hashtags: "#nehasherawat, #reels, #slay, #ootd"
+  - username: "gunjankohlii"
+    fullname: >-
+      Gunjan Kohli Nagpal
+    bio: >-
+      Beauty and Fashion Influencer💞 📍New Delhi, India Snap - gunjankohlii For Collab - Dm/ 💌gunjan.kohli1996@gmail.com
+    location: "India"
+    followers: 20024
+    engagement: 13944
+    commentsToLikes: 0.180693
+    id: ckto9uhroexof0j23g6wirchv
+    verified: false
+    hashtags: "#italy, #gvmadeit, #honeymoondiaries, #gunjankohli"
   - username: "aakriti17_tis"
     fullname: >-
-      Aakriti - The Iconic Soul 🧿
+      Aakriti Singh
     bio: >-
-      Fashion/Beauty/Lifestyle Engineer 👩‍🎓 MBA 📍 New Delhi 🔹DM for Business Enquiries: 📩 Soultheiconic@gmail.com contact.aakriti2@gmail.com
+      Fashion/Beauty/Lifestyle Engineer 👩‍🎓 MBA 📍 New Delhi 🔹DM for Business Enquiries: 📩 Soultheiconic@gmail.com
     location: "India"
-    followers: 705655
-    engagement: 146
-    commentsToLikes: 0.016155
+    followers: 869104
+    engagement: 329
+    commentsToLikes: 0.012923
     id: ck8sxb8r1grdd0j78jffpp943
     verified: false
-    hashtags: "#amazonbeauty, #theiconicsoul, #aakritisingh, #tis"
-  - username: "tusharikasethi"
+    hashtags: "#aakritisingh, #theiconicsoul, #fashionpost, #dubai"
+  - username: "kashyap_deepshikha"
     fullname: >-
-      Tusharika Sethi
+      Deepshikha Kashyap
     bio: >-
-      Travel | Food | Lifestyle 📍New Delhi Conquering the world ✈️ 💌 hellotusharika@gmail.com
+      New Delhi 📍 Engineer / Consultant 🇮🇳 Fashion .Beauty .Travel 🇦🇪🇨🇭🇫🇮 🇸🇪 🇪🇪🇳🇴
     location: "India"
-    followers: 5776
-    engagement: 664
-    commentsToLikes: 0.082820
-    id: ckap02xjhohdn0i78bqctyjt1
+    followers: 119475
+    engagement: 128
+    commentsToLikes: 0.039432
+    id: ck9wdpvrvgpzb0j787ubx5dg4
     verified: false
-    hashtags: "#poser, #sea, #traveldiaries, #hiking"
-  - username: "simrankalra__"
+    hashtags: "#meghalaya, #waterfalls, #meghalayadiaries, #trendingreels"
+  - username: "arshibharti"
     fullname: >-
-      𝓢𝓲𝓶𝓻𝓪𝓷  𝓚𝓪𝓵𝓻𝓪 🦋
+      Arshi Bharti Shandilya
     bio: >-
-      Eunoia ✨ 🎓 NIFT’22 •📍New Delhi | Lucknow📚 💌 DM/mail for collab & promo 👻 princess_simmyy
+      🧿Brand Ambassador : @vlhleather @abhik_bhanu Managed By - @celeb_connect Contact : contact@celebconnect.co.in
     location: "India"
-    followers: 28848
-    engagement: 654
-    commentsToLikes: 0.047141
-    id: ck0u8tawc8arx0i19gm85tdl3
+    followers: 106520
+    engagement: 556
+    commentsToLikes: 0.035240
+    id: ckap4vguy928w0i78ch568nuz
     verified: false
-    hashtags: "#explore, #explorepage, #reelitfeelit, #exploremore"
-  - username: "sugandhrastogiofficial"
-    fullname: >-
-      Sugandh Rastogi
-    bio: >-
-      A believer ✨ Aspire to inspire 🦋 I practice what I post✨ 📧 - thehandsdownfashion@gmail.com 📍New Delhi
-    location: "India"
-    followers: 165672
-    engagement: 94
-    commentsToLikes: 0.071725
-    id: ck139vsklnd5f0i190a9fjl3w
-    verified: false
-    hashtags: "#sugandhrastogiofficial, #mondayblues, #sugandhrastogi, #selfiestagram"
-  - username: "samriddhigautam_"
-    fullname: >-
-      𝐒𝐚𝐦𝐫𝐢𝐝𝐝𝐡𝐢 𝐠𝐚𝐮𝐭𝐚𝐦
-    bio: >-
-      Fashion|Beauty|Lifestyle|Travel 𝐡𝐮𝐦𝐭𝐚 𝐡𝐮𝐤𝐡𝐭𝐚 𝐡𝐮𝐯𝐚𝐫𝐬𝐭𝐚 📨 gautam.samriddhi0@gmail.com 👻 gautam.samriddh 📍 Jaipur / New Delhi 𝐃𝐦 - shoot /collaboration
-    location: "India"
-    followers: 53001
-    engagement: 129
-    commentsToLikes: 0.026569
-    id: ck14h8k6v92rd0i19jwmz7lhg
-    verified: false
-    hashtags: "#reels, #reelitfeelit, #instadaily, #instagood"
+    hashtags: "#positivity, #red, #happiness, #lavender"
 ---

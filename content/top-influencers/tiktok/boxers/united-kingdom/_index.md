@@ -1,11 +1,11 @@
 ---
-title: Top 10 Boxers TikTok Influencers In United Kingdom In 2023
+title: Top 10 Boxers TikTok Influencers In United Kingdom In 2024
 description: >-
-  Find top boxers TikTok influencers in United Kingdom in 2023. Most popular hashtags: #boxing #boxer #foryoupage #fyp.
+  Find top boxers TikTok influencers in United Kingdom in 2024. Most popular hashtags: #boxing #boxer #foryoupage #fyp.
 platform: TikTok
 hits: 38
-text_top: Identify the best TikTok accounts on inBeat.
-text_bottom: Our database has 38 TikTok influencers like this in United Kingdom for you to contact.
+text_top: Identify the most popular TikTok accounts on inBeat.
+text_bottom: Our platform holds 38 TikTok influencers like this in United Kingdom for you to contact.
 profiles:
   - username: "willosbornefights"
     fullname: >-
@@ -103,18 +103,18 @@ profiles:
     id: ck97wwk7fsxt00j78t1qoq0d3
     verified: false
     hashtags: "#foryoupage, #foryou, #bestofboxing, #boxing"
-  - username: "rmfisky"
+  - username: "papz14"
     fullname: >-
-      🧿 Richard Fisk
+      Papz__
     bio: >-
-      ❤️ @una_fisky ❤️ ❤️ My queen una fisky ❤️ #teamfisky
+      get me to 40k on insta @papz__. Sub to my Y0UTUBE👇🏽 500k?🥺 🇳🇬
     location: "United Kingdom"
-    followers: 13600
-    engagement: 2013
-    commentsToLikes: 0.219660
-    id: cka6o4pa5e3np0i78z7w506vf
+    followers: 480800
+    engagement: 2339
+    commentsToLikes: 0.026469
+    id: ckcdlzkk39xml0j23r4zg4d20
     verified: false
-    hashtags: "#comingsoon, #love, #tiktoklove, #meaning"
+    hashtags: "#foryoupage, #british, #funny, #snapchat"
   - username: "george.png"
     fullname: >-
       George

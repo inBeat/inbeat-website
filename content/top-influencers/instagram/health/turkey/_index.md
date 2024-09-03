@@ -1,24 +1,96 @@
 ---
-title: Top 10 Health Instagram Influencers In Turkey In 2023
+title: Top 10 Health Instagram Influencers In Turkey In 2024
 description: >-
-  Find top health Instagram influencers in Turkey in 2023. Most popular hashtags: #healthyfood #healthyrecipes #me.
+  Find top health Instagram influencers in Turkey in 2024. Most popular hashtags: #reklam #istanbul #reels.
 platform: Instagram
-hits: 332
-text_top: Identify the most popular Instagram influencers on inBeat.
-text_bottom: Our search engine aggregates 332 Instagram influencers like this in Turkey for you to collaborate.
+hits: 341
+text_top: Discover the best Instagram influencers on inBeat.
+text_bottom: Our search engine has 341 Instagram influencers like this in Turkey for you to connect with.
 profiles:
+  - username: "doctorhakantufekci"
+    fullname: >-
+      Hakan Tüfekçi
+    bio: >-
+      Inspired from your beauty. International Health Tourism Authorization Certificated Clinic 📲 +905550387869 📍Bursa
+    location: "Turkey"
+    followers: 63167
+    engagement: 339
+    commentsToLikes: 0.030209
+    id: ckap5e1wcb98b0i78r99ato5u
+    verified: false
+    hashtags: "#medikal, #aesthetic, #smile, #fit"
+  - username: "mlkcuvk"
+    fullname: >-
+      Melike Çuvak
+    bio: >-
+      👩‍💻#businessanalyst & #healthcoach & #influencer 👩‍🎓Nutrition & Dietetic MASTER STUDENT 📍istanbul🇹🇷 Birlikte Çalışalım⬇️
+    location: "Turkey"
+    followers: 37731
+    engagement: 259
+    commentsToLikes: 0.025602
+    id: ck14j3zcaiin60i19en7aoaf2
+    verified: false
+    hashtags: "#bug, #iyihisset, #zurich, #lifestyle"
+  - username: "fit_busra"
+    fullname: >-
+      Büşra Önver
+    bio: >-
+      Lifestyle, Travel, Beauty Healthy Eating&Fitness Diary 🌎🛍💄🍏🏃🏼‍♀️ 📩busraonver@diepdigital.com
+    location: "Turkey"
+    followers: 228322
+    engagement: 98
+    commentsToLikes: 0.019313
+    id: ck8tafzvnrlnm0j78jv18up83
+    verified: false
+    hashtags: "#viyana, #bal, #budape, #vienna"
   - username: "elvin"
     fullname: >-
       Elvin Levinler 🌈
     bio: >-
-      ◛ elvin@thedigitalnomads.co ➵ London┆Istanbul┆Datça ♡ motivation • yoga • healthy • food • reels #travel #lifestyle #storyteller #reels ✩ new video
+      Co-founder — @eighth.color ◛ elvin@thedigitalnomads.co ➵ London┆Istanbul┆Datça ♡ self love • yoga • healthy • food #faceyoga #motivation #reels
     location: "Turkey"
-    followers: 1185764
-    engagement: 120
-    commentsToLikes: 0.016211
+    followers: 1279779
+    engagement: 78
+    commentsToLikes: 0.019074
     id: ck15uwgu4ou830i19ej5guzkx
     verified: true
-    hashtags: "#relatable, #yogapractice, #trendingreels, #mymarks"
+    hashtags: "#elviniminparis, #elviniminmadrid, #elviniminformentera, #paris2024"
+  - username: "hamilelikkocu"
+    fullname: >-
+      Seyhan Molla
+    bio: >-
+      @altinsatococukuniversitesi Kurucusu health•education Canım Yavrum İyi Ki Doğurmuşum✍🏻Yazarı Acıbadem Üni.YüksekLisans Uzm.Cerrahi Hemşiresi/Ebe👩🏼‍⚕️
+    location: "Turkey"
+    followers: 306146
+    engagement: 71
+    commentsToLikes: 0.113424
+    id: ck5zsafwey4g40i14klrlwk4e
+    verified: false
+    hashtags: "#aile, #reklam, #anne, #viador"
+  - username: "drfahrettinkoca"
+    fullname: >-
+      Dr. Fahrettin Koca
+    bio: >-
+      Türkiye Cumhuriyeti Sağlık Bakanı - Minister of Health of the Republic of Türkiye
+    location: "Turkey"
+    followers: 10787475
+    engagement: 45
+    commentsToLikes: 0.018235
+    id: ck0vymjda4ql70i19jqgxhuck
+    verified: true
+    hashtags: ""
+  - username: "eceetuncel"
+    fullname: >-
+      Ece Tuncel
+    bio: >-
+      Fashion & Healthy Lifestyle 📩 hello@ecetuncel.com
+    location: "Turkey"
+    followers: 324372
+    engagement: 30
+    commentsToLikes: 0.004593
+    id: ck5ca19fwcin50i11te28n4nr
+    verified: false
+    hashtags: "#kombin, #reklam, #golf, #outfit"
   - username: "about_minoo"
     fullname: >-
       ▽ 𝓶𝓲𝓷𝓸𝓸 🐋
@@ -31,30 +103,18 @@ profiles:
     id: ck6u4yqrh6ki40j714o0b6qsq
     verified: false
     hashtags: "#me, #happy, #life, #ben"
-  - username: "aysegul.demirsoy"
+  - username: "esinlendinizz"
     fullname: >-
-      Aysegul Demirsoy
+      ESİN ENCİ
     bio: >-
-      ⭐Fitness & healthy life style mentor ⭐Zumba presenter 🌟www.ayseguldemirsoy.com 🌟 info@ayseguldemirsoy.com ⭐ My YouTube 👉@fitness.partnerim
+      ⚜️ Automotive Engineer ⚜️ Co-Founder @pinkquartz.tr @barukozmetik @esinleiletisim ⚜️ Nutrition and Health Coach
     location: "Turkey"
-    followers: 159240
-    engagement: 174
-    commentsToLikes: 0.066565
-    id: ck5q297dqevcq0i110yr2n5dm
+    followers: 44876
+    engagement: 261
+    commentsToLikes: 1.989626
+    id: ck8t099imr9ln0j78h7sn0qe8
     verified: false
-    hashtags: "#ayseguldemirsoy, #zumba, #sa, #omega3"
-  - username: "eceetuncel"
-    fullname: >-
-      Ece Tuncel
-    bio: >-
-      • Fashion & Healthy Lifestyle🥑 📩 hello@ecetuncel.com Son video-Taşınıyoruz, Boş Ev Turu⬇️
-    location: "Turkey"
-    followers: 228409
-    engagement: 431
-    commentsToLikes: 0.019112
-    id: ck5ca19fwcin50i11te28n4nr
-    verified: false
-    hashtags: "#harikakarelerinpe, #today, #sunday, #dysonhair"
+    hashtags: "#sac, #tarak, #makyajvideolar, #sa"
   - username: "agnesahadergjonaj"
     fullname: >-
       Agnesa Hadergjonaj
@@ -67,64 +127,4 @@ profiles:
     id: ck5q9jhwebf6m0i11r2via3ov
     verified: true
     hashtags: ""
-  - username: "aysecakar"
-    fullname: >-
-      Ayşe Çakar
-    bio: >-
-      Beauty•Lifestyle•Health•Vlogger 💌 aysecakar.pr@gmail.com ⏬4 adımda kusursuz cildin sırrı⏬
-    location: "Turkey"
-    followers: 45756
-    engagement: 164
-    commentsToLikes: 0.028465
-    id: ckap3bsep2e7x0i78e8nr1qrl
-    verified: false
-    hashtags: "#sunrise, #yenivideo, #ciltbak, #capetown"
-  - username: "bismoothie"
-    fullname: >-
-      Sibel Hoş
-    bio: >-
-      Founder at Mıknatıs Content Agency Smoothie 🥤Smoothie Bowl 🍒🥝🍉 Ice cream (Non sugar) 🍦🍦Şekersiz Dondurma Healthy Recipes🍜 Sağlıklı Tarifler
-    location: "Turkey"
-    followers: 38660
-    engagement: 442
-    commentsToLikes: 0.081579
-    id: ck1354piczp020i191jqc1zox
-    verified: false
-    hashtags: "#f52grams, #plantbasedfood, #vanilliaicecream, #strawberrysmoothiebowl"
-  - username: "drhandeyagmurkaya"
-    fullname: >-
-      Hande Yağmur Kaya
-    bio: >-
-      İntörn Doktor 👩🏻‍⚕️ Sağlıklı beslenme hesabım 👉🏻 @healthyumi İşbirlikleri için👉🏻 e-posta YOUTUBE KANALIM 😍👇🏻
-    location: "Turkey"
-    followers: 116336
-    engagement: 798
-    commentsToLikes: 0.301738
-    id: ck135amm10jgc0i19meac7df1
-    verified: false
-    hashtags: "#motivasyon, #yeniy, #reels, #doktor"
-  - username: "dytiremsilaunal"
-    fullname: >-
-      Diyetisyen İrem Sıla Ünal
-    bio: >-
-      Beslenme Uzmanı @diyetisyeniremsilaunal Dr. Figen Health & Beauty Clinic @dr.figensayin 📩dytiremsilaunal@gmail.com
-    location: "Turkey"
-    followers: 106800
-    engagement: 157
-    commentsToLikes: 0.007533
-    id: ckaozm0qomges0i78c8xrjual
-    verified: false
-    hashtags: "#diyetisyen, #iremsilaunal, #kiloverme, #zay"
-  - username: "fit_busra"
-    fullname: >-
-      Fit Büşra 💁🏼‍♀️
-    bio: >-
-      English Teacher Healthy Eating&Fitness Diary 🍏🍉🍌🍳🏃🏼‍♀️
-    location: "Turkey"
-    followers: 250277
-    engagement: 198
-    commentsToLikes: 0.427340
-    id: ck8tafzvnrlnm0j78jv18up83
-    verified: false
-    hashtags: "#kahvalt, #fittarifler, #healthyrecipes, #kahvec"
 ---

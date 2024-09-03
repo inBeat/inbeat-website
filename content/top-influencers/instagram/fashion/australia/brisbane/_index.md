@@ -1,36 +1,60 @@
 ---
-title: Top 10 Fashion Instagram Influencers In Brisbane In 2023
+title: Top 10 Fashion Instagram Influencers In Brisbane In 2024
 description: >-
-  Find top fashion Instagram influencers in Brisbane in 2023. Most popular hashtags: #fashion #brisbane #ootd #love.
+  Find top fashion Instagram influencers in Brisbane in 2024. Most popular hashtags: #fashion #fashionblogger #instagood #fitness.
 platform: Instagram
-hits: 50
-text_top: Identify the most popular Instagram profiles on inBeat.
-text_bottom: Our database has 50 Instagram influencers like this in Brisbane, Australia for you to contact.
+hits: 99
+text_top: Identify the best Instagram influencers on inBeat.
+text_bottom: Our platform aggregates 99 Instagram influencers like this in Brisbane, Australia for you to collaborate.
 profiles:
-  - username: "thefashionheist"
+  - username: "petrakonyit"
     fullname: >-
-      aichark
+      Petra Könyit
     bio: >-
-      @ aichark on TikTok 100k+ 😏 Fashunn & maybe a movie 🎥 🌿My Label @wearethegreatbeyond 🍃 ✉️thefashionheist@gmail.com ✨ 📍Brisbane, Aus
+      🇭🇷🇦🇺 On holiday in Croatia until Jan 2024 Co-founder @twoevolve Co-founder @ambitionthelabel Founder @streetboxzagreb
     location: "Australia"
-    followers: 52251
-    engagement: 124
-    commentsToLikes: 0.124312
-    id: ck0ubzdmzfqob0i1940c66576
+    followers: 53043
+    engagement: 518
+    commentsToLikes: 0.011652
+    id: ck9hbm7aehglm0j78ypg3x14b
     verified: false
-    hashtags: "#reelsinstagram, #brisbanefashionblogger, #ad, #denimdress"
-  - username: "liz.amaya.style"
+    hashtags: "#fashion, #brisbanefashionblogger, #melbournefashion, #melbournefashionblogger"
+  - username: "jadeleighh__"
     fullname: >-
-      L I Z  A M A Y A
+      J A D E  M A C D O N A L D
     bio: >-
-      • Stylist • Renos + Home Inspiration + Tips & Tricks For media and collaboration enquiries: bianca@purposecollective.com.au
+      Brisbane ~ Fashion | Fitness | lifestyle 💌 jade.macdonald966@gmail.com 🤍 @echt_apparel “JADELEIGH” 🤍 @lovingtanofficial “Jadeleighh”
     location: "Australia"
-    followers: 98681
-    engagement: 74
-    commentsToLikes: 0.254312
-    id: ck0vxe68myght0i19j3z1lyj9
+    followers: 20191
+    engagement: 266
+    commentsToLikes: 0.138669
+    id: ck0vwfow8tgsi0i19mgjq4zve
     verified: false
-    hashtags: "#brisbane, #cleaningtips, #housetour, #homesweethome"
+    hashtags: "#echt, #explore, #reelsinstagram, #viral"
+  - username: "masphoto.official"
+    fullname: >-
+      Masterpiece Art Studio 📸🌴👙
+    bio: >-
+      #photographer Bookings DM
+    location: "Australia"
+    followers: 4970
+    engagement: 591
+    commentsToLikes: 0.013522
+    id: ck6u339dyvfx90j71bhrei5ev
+    verified: false
+    hashtags: "#lights, #boudoirbrisbane, #couple, #gym"
+  - username: "shaynebrooksimpson"
+    fullname: >-
+      S H A Y N E | B R O O K
+    bio: >-
+      @zinkhair_unley ambassador Interior architecture
+    location: "Australia"
+    followers: 36333
+    engagement: 41
+    commentsToLikes: 0.002394
+    id: ck5c09seispm70i11vh21hzut
+    verified: false
+    hashtags: "#womensaccessories, #adelaide, #adelaidestyleblogger, #adelaidefashionblogger"
   - username: "erika.dwyer"
     fullname: >-
       Erika Dwyer
@@ -55,6 +79,30 @@ profiles:
     id: ck0vxrdmp0bx80i19dd0rhzq7
     verified: false
     hashtags: "#igsuits, #streetstyle, #styleblogger, #bespoke"
+  - username: "sma.au"
+    fullname: >-
+      Striking Models Agency 🇦🇺
+    bio: >-
+      We help talented models achieve their dreams scouting, developing, managing, and connecting them with first-class brands 📧 Info@strikingmodels.com.au
+    location: "Australia"
+    followers: 87897
+    engagement: 10
+    commentsToLikes: 0.023061
+    id: ckaoxw09eezxz0i78z14ggye0
+    verified: false
+    hashtags: ""
+  - username: "dr.louisa.parkinson"
+    fullname: >-
+      Louisa Parkinson
+    bio: >-
+      Brisbane Lifestyle & Entertainment Fashion, food, beauty & must-do things in QLD 🇵🇭🇦🇺 Co-founder @mestizafilipina.co 🏠 @beans.castle
+    location: "Australia"
+    followers: 6524
+    engagement: 124
+    commentsToLikes: 0.111761
+    id: closmj57cmy8o0j088kdvvcxr
+    verified: false
+    hashtags: "#brisbaneinfluencer, #brisbaneinsider, #brisbanecontentcreator, #brisbanenightlife"
   - username: "sabinamx"
     fullname: >-
       Sabina Mx
@@ -67,64 +115,16 @@ profiles:
     id: ck8tbmepew8f40j78dxmxkt9r
     verified: false
     hashtags: "#mejuri, #mejuripartner"
-  - username: "masphoto.official"
+  - username: "nicola.crisa"
     fullname: >-
-      Masterpiece Art Studio 📸🌴👙
+      Nicola Crisa
     bio: >-
-      #photographer Bookings DM
+      Business 💌 info@nicolacrisa.com IMDb ⬇️
     location: "Australia"
-    followers: 5061
-    engagement: 651
-    commentsToLikes: 0.014645
-    id: ck6u339dyvfx90j71bhrei5ev
+    followers: 314478
+    engagement: 17
+    commentsToLikes: 0.011136
+    id: ck0vw7sizshir0i19f5zzfy9f
     verified: false
-    hashtags: "#bodypositive, #photographer, #fashionshoot, #lights"
-  - username: "dani_byrnes"
-    fullname: >-
-      Dani
-    bio: >-
-      Mum to Jordy & Max 👶🏼🐶 Content Creator for brands Daily life in Stories | work with me 👇 📧 info@daniellebyrnes.com.au
-    location: "Australia"
-    followers: 22980
-    engagement: 136
-    commentsToLikes: 0.094239
-    id: ck8wggdjghb370j78993mys1i
-    verified: false
-    hashtags: "#airliebeach, #queensland, #northqueensland, #brisbane"
-  - username: "matthewgianoulis"
-    fullname: >-
-      Matthew Gianoulis Photography
-    bio: >-
-      🏆 2019 Aust Portrait Photographer of the Year Finalist 🇦🇺 Aust Photographer - 📍Brisbane 📸 Commercial, fitness, fashion, beauty 👨🏻‍🎨 @musclenation
-    location: "Australia"
-    followers: 18144
-    engagement: 209
-    commentsToLikes: 0.043998
-    id: ck5q1mqwzbql50i1156vfh89o
-    verified: false
-    hashtags: ""
-  - username: "what_brooke_wore"
-    fullname: >-
-      Brooke Falvey
-    bio: >-
-      WRITER | STYLIST | OUTFIT REELS | WORKSHOPS Lover of colour & cocktails || #DopamineDressing @australianstyleinstitute 2020 Stylist of the Year.
-    location: "Australia"
-    followers: 41727
-    engagement: 145
-    commentsToLikes: 0.089938
-    id: ck5cgl5owp2a50i11j6s9mo5j
-    verified: false
-    hashtags: "#howtostyle, #colourpop, #over30style, #bopo"
-  - username: "curvysam"
-    fullname: >-
-      CurvySam ~ Your Virtual BFF
-    bio: >-
-      📍Brisbane 🇦🇺 📝Blogger + YouTuber 👗+Size Fashion + Body Love 💗Keeping Things Real + Raw since 2010 👑Founder of @curvyau 💁🏼‍♀️Admin @nonairbrushedme
-    location: "Australia"
-    followers: 31827
-    engagement: 154
-    commentsToLikes: 0.064049
-    id: ck14gj7xo5hzk0i19h5v4t52t
-    verified: false
-    hashtags: "#stylediaries, #bodypositive, #size18, #plussizefashion"
+    hashtags: "#photography, #fashion, #fit, #style"
 ---

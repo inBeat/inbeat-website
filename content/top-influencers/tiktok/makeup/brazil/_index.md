@@ -1,11 +1,11 @@
 ---
-title: Top 10 Makeup TikTok Influencers In Brazil In 2023
+title: Top 10 Makeup TikTok Influencers In Brazil In 2024
 description: >-
-  Find top makeup TikTok influencers in Brazil in 2023. Most popular hashtags: #makeup #fyp #dueto.
+  Find top makeup TikTok influencers in Brazil in 2024. Most popular hashtags: #makeup #fyp #dueto.
 platform: TikTok
 hits: 383
-text_top: Analyze the most popular TikTok accounts on inBeat.
-text_bottom: inBeat aggregates 383 TikTok influencers like this in Brazil for you to connect with.
+text_top: Analyze the top-rated TikTok accounts on inBeat.
+text_bottom: Our database holds 383 TikTok influencers like this in Brazil for you to pitch.
 profiles:
   - username: "laura_satake"
     fullname: >-

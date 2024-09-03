@@ -1,130 +1,130 @@
 ---
-title: Top 10 Tennis Players Instagram Influencers In 2023
+title: Top 10 Tennis Players Instagram Influencers In 2024
 description: >-
-  Find top tennis players Instagram influencers in 2023. Most popular hashtags: #2021 #love #tennis.
+  Find top tennis players Instagram influencers in 2024. Most popular hashtags: #tennis #babolat #wimbledon.
 platform: Instagram
-hits: 507
-text_top: Discover the top-rated Instagram accounts on inBeat.
-text_bottom: Our platform holds 507 Instagram influencers like this for you to work with.
+hits: 557
+text_top: Analyze the best Instagram profiles on inBeat.
+text_bottom: Our search engine aggregates 557 Instagram influencers like this for you to collaborate.
 profiles:
-  - username: "carlitosalcarazz"
+  - username: "ivan_dodig"
     fullname: >-
-      Carlos Alcaraz Garfia
+      Ivan Dodig
     bio: >-
-      Tennis player🇪🇸 Always💯
-    location: "Spain"
-    followers: 2132474
-    engagement: 433
-    commentsToLikes: 0.005274
-    id: ck5hrkeiuv0go0i116kyn21v6
-    verified: true
-    hashtags: "#equelite, #isdinambassador, #makingof, #luxtennis"
-  - username: "domicibulkova"
-    fullname: >-
-      Dominika Cibulkova
-    bio: >-
-      Retired tennis player,former world n.4🎾 Right now just enjoying life with @miso.navara ✨ -BioTechUSA sponsored ambasador👊🏻 -Hairburst ambasador-domi20
+      Official instagram account of Ivan Dodig. Tennis player, proud father and husband. Davis Cup Winner🏆 Olympics games 🥈 7 Times Grand Slam Champion 🏆
     location: "United States"
-    followers: 482963
-    engagement: 93
-    commentsToLikes: 0.006401
-    id: ck5bx8a41n7770i11m2u8ohb8
+    followers: 26477
+    engagement: 556
+    commentsToLikes: 0.025650
+    id: ck0tsyw4u0i8m0i19qg1r6n5s
     verified: true
-    hashtags: "#december, #healthyplanet, #home, #healthylifestyle"
-  - username: "annaliafraser"
+    hashtags: "#medjugorje, #stillalottocome, #peace, #love"
+  - username: "hubihurkacz"
     fullname: >-
-      Annalia Fraser
+      Hubert Hurkacz
     bio: >-
-      Tennis Player, Actress, Model Snapchat: annaliafraser 🎾
+      🎾 #7 ATP Tennis Player 🌍 Yonex Ambassador @waterdrop 🚀 Cars, tech & travel fan.
+    location: "Germany"
+    followers: 273161
+    engagement: 612
+    commentsToLikes: 0.010802
+    id: ck0w5xvt65z020i19mv7j8k9b
+    verified: true
+    hashtags: "#viaf1, #suitup, #mclaren, #ibi24"
+  - username: "karenkhachanov"
+    fullname: >-
+      Karen Khachanov |Карен Хачанов
+    bio: >-
+      Professional tennis player 🎾 📩Реклама/commercial skurtser@starwingsports.com
     location: "Canada"
-    followers: 24536
-    engagement: 1427
-    commentsToLikes: 0.087217
-    id: ck5hsohlvwxoi0i110y2vgapz
-    verified: false
-    hashtags: "#happyhalloween, #birthdaygirl, #2021"
-  - username: "vishnya.alina"
+    followers: 305635
+    engagement: 554
+    commentsToLikes: 0.011480
+    id: ck0u2fs86ztxg0i19syndt2jj
+    verified: true
+    hashtags: "#newyork, #usopenseries, #rolandgarros, #ausopen"
+  - username: "janniksin"
     fullname: >-
-      ALINA 🎾🇷🇺 🇺🇸
+      Jannik Sinner
     bio: >-
-      🏆Pro Tennis Player 🏆 Houston, Texas , USA G14 USTA Player (14 y.o.) @usta_texas 🎾 sc:vishnia6340 Tik tok: vishnia.alina Private account: vish_linaa
+      Tennis player 🇮🇹
+    location: "United Kingdom"
+    followers: 2787503
+    engagement: 743
+    commentsToLikes: 0.008159
+    id: ck135diz40ww50i19ndre6j1o
+    verified: true
+    hashtags: "#lavazza, #pif, #wimbledon, #atprankings"
+  - username: "jerridgainesjr"
+    fullname: >-
+      Jerrid Gaines Jr.   “JJ”
+    bio: >-
+      🇺🇸Tennis Player Born June 2009 @imgtennis @babolat
     location: "United States"
-    followers: 5588
-    engagement: 1532
-    commentsToLikes: 0.082268
-    id: ck8t3siyw4bqm0j78m92vpl3t
+    followers: 8690
+    engagement: 416
+    commentsToLikes: 0.040596
+    id: ck8t7as3xg57w0j7851pzzn37
     verified: false
-    hashtags: "#holidays, #usta, #teamwilson, #tennisfun"
-  - username: "tay_taytownsend"
+    hashtags: "#usta, #babolatteam, #juniordevelopment, #babolat"
+  - username: "ottovirtanen_"
     fullname: >-
-      Taylor Townsend
+      Otto Virtanen
     bio: >-
-      Pro tennis player🎾 Adyn’s Mom For media inquiries click the contact!
+      Professional tennis player from Finland. Business inquiries: loic.martin@img.com
     location: "United States"
-    followers: 30865
-    engagement: 686
-    commentsToLikes: 0.043561
-    id: ck14i83s5e44c0i19fvyivfei
-    verified: true
-    hashtags: "#ttontc, #tennischannel, #cincytennis, #nutrition"
-  - username: "thiagomonteiro94"
-    fullname: >-
-      Thiago Monteiro
-    bio: >-
-      Professional Tennis Player from Brazil 🇧🇷 Management: marcio@linkinfirm.com Press: diana@gabanyis.com 📹
-    location: "Brazil"
-    followers: 31740
-    engagement: 894
-    commentsToLikes: 0.040098
-    id: ck0ud64cuiclh0i19b36wo96f
-    verified: true
-    hashtags: "#ausopen, #rg2020, #vamos, #atpchallenger"
-  - username: "delpotrojuan"
-    fullname: >-
-      Juan Martin del Potro
-    bio: >-
-      Tennis Player 🇦🇷
-    location: "Argentina"
-    followers: 1883875
-    engagement: 676
-    commentsToLikes: 0.016076
-    id: ck0w4ilabyqt40i195lqz4nuc
-    verified: true
-    hashtags: "#jujuy, #purmamarca, #inspiration, #sunset"
-  - username: "camila_giorgi_official"
-    fullname: >-
-      🎀 Camila Giorgi 🎀
-    bio: >-
-      Pro Tennis Player 🇮🇹
-    location: "Italy"
-    followers: 351422
-    engagement: 841
-    commentsToLikes: 0.019814
-    id: ck5cji0omurcj0i11yb52wybi
-    verified: true
-    hashtags: "#2021, #florence, #portrait, #music"
-  - username: "05.march"
-    fullname: >-
-      🎾 DARIA  TENNIS 🎾
-    bio: >-
-      🎾 junior tennis player 🎾 🇷🇺 🎾страничку ведёт мама
-    location: "Russia"
-    followers: 10081
-    engagement: 1094
-    commentsToLikes: 0.077979
-    id: ck9we60f5irgx0j78tpk7usn3
+    followers: 8702
+    engagement: 1097
+    commentsToLikes: 0.029752
+    id: ck0u00lplsai50i19ocakhl16
     verified: false
-    hashtags: "#may2019, #backoncourt, #summer2020, #padel"
-  - username: "aguarachi"
+    hashtags: "#wilsontennis, #tennis, #daviscup, #asicstennis"
+  - username: "chrissieevert"
     fullname: >-
-      Alexa Guarachi
+      Chris Evert
     bio: >-
-      Pro Tennis player 🇨🇱 BAMA 13’ 💪🏻 @johnskillerprotein promo code: ALEXA10
-    location: "France"
-    followers: 25641
-    engagement: 1082
-    commentsToLikes: 0.031320
-    id: ck138hy0bgbss0i1959pekal5
+      *OFFICIAL INSTAGRAM* Proud mother of 3 boys. Former World #1 Tennis Player. Broadcaster. Facebook: chrissieevert Twitter: chrissieevert
+    location: "United States"
+    followers: 61520
+    engagement: 561
+    commentsToLikes: 0.051256
+    id: ck14i83fce40l0i19n0w1ag1u
+    verified: false
+    hashtags: "#tennis, #optometrist, #regenereyes, #regener"
+  - username: "paulabadosa"
+    fullname: >-
+      Paula Badosa
+    bio: >-
+      Professional Tennis Player
+    location: "Canada"
+    followers: 999875
+    engagement: 606
+    commentsToLikes: 0.008113
+    id: ck6tpfl21jl3w0j7171spv20y
     verified: true
-    hashtags: "#foundabrunerhalf, #ilovesandalsresorts, #wtaforthegame, #thankful"
+    hashtags: "#teamaccelerator, #youdarewecare, #ad, #quarterfinals"
+  - username: "clijsterskim"
+    fullname: >-
+      Kim Clijsters
+    bio: >-
+      Former @wta nr1 tennis player🎾 3x🇺🇸/1x🇦🇺champ Doubles champ🇫🇷🇬🇧 Honorary president @tennishallofame Co-owner @lv.nightowls 📧: info@pine-agency.com
+    location: "United States"
+    followers: 136926
+    engagement: 402
+    commentsToLikes: 0.018594
+    id: ck0uae8z0c49f0i197fj8f6z2
+    verified: true
+    hashtags: "#fortheloveofthegame, #australianopen, #innerme, #huaweiwatchgt3"
+  - username: "emilruusuvuori"
+    fullname: >-
+      Emil Ruusuvuori
+    bio: >-
+      Professional tennis player from 🇫🇮 *** Contact Sport 🎾 federico.ricci@nsm.fi Commercial 🔗 david.tosas@theagencysport.com
+    location: "United States"
+    followers: 33582
+    engagement: 772
+    commentsToLikes: 0.009549
+    id: ck5zwtw706rcp0i14754xyi69
+    verified: true
+    hashtags: "#tennisparadise, #soundmindsoundbody, #behindthescenes, #theagencyteam"
 ---

@@ -1,24 +1,60 @@
 ---
-title: Top 10 Models Instagram Influencers In Miami In 2023
+title: Top 10 Models Instagram Influencers In Miami In 2024
 description: >-
-  Find top models Instagram influencers in Miami in 2023. Most popular hashtags: #girlswithpiercings #mensstyleguide #streetfashion.
+  Find top models Instagram influencers in Miami in 2024. Most popular hashtags: #explorepage #ootd #model.
 platform: Instagram
-hits: 840
-text_top: Discover the best Instagram influencers on inBeat.
-text_bottom: Our platform has 840 Instagram influencers like this in Miami, United States for you to work with.
+hits: 994
+text_top: See the top-rated Instagram accounts on inBeat.
+text_bottom: Our platform holds 994 Instagram influencers like this in Miami, United States for you to pitch.
 profiles:
-  - username: "goonza_costa"
+  - username: "vanessabed"
     fullname: >-
-      Gonzalo Costa
+      Vanessa Bedoya
     bio: >-
-      NO SABES QUE PONERTE? Yo te ayudo, sígueme 🤝 . • Fashion model/Brands model • Miami 🇺🇸 • Collaboration/ Work : goonzacostaokk@gmail.com
+      Model 🇨🇴 Miami, Fl 📍 @baesciences 🌱
     location: "United States"
-    followers: 124927
-    engagement: 192
-    commentsToLikes: 0.083372
-    id: ck0tvs52icmwn0i19otnqmb05
+    followers: 261736
+    engagement: 342
+    commentsToLikes: 0.028683
+    id: ck6u5a0xx8f9t0j71j5w94yqf
     verified: false
-    hashtags: "#instafashion, #streetphotography, #fashionblogger, #menslook"
+    hashtags: ""
+  - username: "savannahriveraaa"
+    fullname: >-
+      SAVANNAH RIVERA PALLAZOLA
+    bio: >-
+      Milanas mommy 🤍 Lifestyle|Fashion|Model Miami, FL
+    location: "United States"
+    followers: 111131
+    engagement: 124
+    commentsToLikes: 0.015966
+    id: ck15qksha3c310i1971jm5ycc
+    verified: false
+    hashtags: "#amazon, #sunday, #explorepage, #travel"
+  - username: "ingridschneider"
+    fullname: >-
+      INGRID SCHNEIDER
+    bio: >-
+      made in Brazil 🇧🇷🇩🇪 Select Model Miami/LA/ATL | Ford Rio | MZ Mexico
+    location: "United States"
+    followers: 96602
+    engagement: 117
+    commentsToLikes: 0.000591
+    id: ck5qdr02zwws00i11aueezeik
+    verified: false
+    hashtags: "#ootd, #wiw, #fashionreels, #goldenretriever"
+  - username: "priricart"
+    fullname: >-
+      Priscilla Ricart
+    bio: >-
+      🇧🇷♍️ Miami✈️LA 💕"Every great dream begins with a dreamer." Select Model Miami/Los Angeles @selectmodellosangeles
+    location: "United States"
+    followers: 830584
+    engagement: 109
+    commentsToLikes: 0.019843
+    id: ck0tvs8micne50i19fkllmyk1
+    verified: false
+    hashtags: "#workout, #detoxmassage, #lymphaticdrainage, #modellife"
   - username: "nicole.langer"
     fullname: >-
       Nicole Langer
@@ -42,7 +78,7 @@ profiles:
     commentsToLikes: 0.053799
     id: ckap66qi6emys0i78poypqzty
     verified: false
-    hashtags: "#ootd, #brandambassador, #curlykillas, #mixedbeauties"
+    hashtags: "#luxurylifestyle, #southfloridamodels, #southbeachmiami, #commercialmodel"
   - username: "yesyn13"
     fullname: >-
       Yesy Naya 💀💋
@@ -67,18 +103,6 @@ profiles:
     id: ck9ha3sflb0sq0j78p2f91noc
     verified: false
     hashtags: "#imback"
-  - username: "chanelmargaux"
-    fullname: >-
-      Chanel Margaux Postrel
-    bio: >-
-      👼🏻 la / mia Wilhelmina Models LA - The Source Models Miami - Salt Models MA Atlanta inquiries: Andrew@thesourcemodels.com
-    location: "United States"
-    followers: 181231
-    engagement: 119
-    commentsToLikes: 0.016977
-    id: ck0ubds9oe8sa0i19axfoe0fi
-    verified: false
-    hashtags: "#wokeuplikethis"
   - username: "raynessworld"
     fullname: >-
       MISS RAYNE ☔️
@@ -103,28 +127,4 @@ profiles:
     id: ck5qe62s4yw7q0i112zhszucy
     verified: false
     hashtags: "#tattoomodels, #inkedmodels, #inked, #longhairdontcare"
-  - username: "yana_dubnik"
-    fullname: >-
-      Yana Dubnik
-    bio: >-
-      The Source Models Miami 2nd runner up miss Russia
-    location: "United States"
-    followers: 90859
-    engagement: 345
-    commentsToLikes: 0.032040
-    id: ck5cg1vtjo0t00i115u5uwk9t
-    verified: false
-    hashtags: ""
-  - username: "mannycurb"
-    fullname: >-
-      Manny Curbelo
-    bio: >-
-      ▫️ Realtor || Miami Realty Solution ▫️ NEXT Models || Miami
-    location: "United States"
-    followers: 5816
-    engagement: 579
-    commentsToLikes: 0.107851
-    id: ck55nkxbi6f830i117wz5jos0
-    verified: false
-    hashtags: "#305, #perolike, #whyyoumadbro, #someoneneedssomeazucar"
 ---

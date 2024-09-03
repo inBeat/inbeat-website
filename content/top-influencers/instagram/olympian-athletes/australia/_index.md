@@ -1,24 +1,48 @@
 ---
-title: Top 10 Olympian Athletes Instagram Influencers In Australia In 2023
+title: Top 10 Olympian Athletes Instagram Influencers In Australia In 2024
 description: >-
-  Find top olympian athletes Instagram influencers in Australia in 2023. Most popular hashtags: #olympics #athlete #tokyo2020.
+  Find top olympian athletes Instagram influencers in Australia in 2024. Most popular hashtags: #olympics #athlete #repost.
 platform: Instagram
-hits: 13
-text_top: Discover the best Instagram accounts on inBeat.
-text_bottom: Our search engine holds 13 Instagram influencers like this in Australia for you to contact.
+hits: 17
+text_top: Discover the most popular Instagram accounts on inBeat.
+text_bottom: Our platform holds 17 Instagram influencers like this in Australia for you to connect with.
 profiles:
+  - username: "cfrannykg"
+    fullname: >-
+      CAYLA GEORGE
+    bio: >-
+      🇦🇺 • Australian Opal #104 • ✌🏽x Olympian @underarmourau Athlete
+    location: "Australia"
+    followers: 29321
+    engagement: 460
+    commentsToLikes: 0.018458
+    id: ck6trvn311cmb0j7169fwxz46
+    verified: true
+    hashtags: "#lashtastic, #sportiscalling, #usuallyilookatthefloorbeforeishoot, #maybeididalready"
   - username: "madiwilson"
     fullname: >-
       Madi Wilson OAM
     bio: >-
-      Australian Swimmer | 755 | Adidas Athlete | Olympian
+      Swimmer | Olympian 🇧🇷 🇯🇵 | Adidas Athlete | 📍 🇮🇹 (home is South Australia) | @iswimleague | Athlete of @lacurrent
     location: "Australia"
-    followers: 26498
-    engagement: 493
-    commentsToLikes: 0.004883
+    followers: 36910
+    engagement: 968
+    commentsToLikes: 0.005780
     id: ck5hpi43trehb0i117u3mqsfk
     verified: true
     hashtags: ""
+  - username: "morganmitch"
+    fullname: >-
+      Morgan Mitchell
+    bio: >-
+      2x olympian 🪩🌈 @f45_training aus athlete @teamjaggad @mizunoaustralia @imgtalent
+    location: "Australia"
+    followers: 111084
+    engagement: 10
+    commentsToLikes: 0.001778
+    id: ck0w0c3u8dfuc0i19qhpnyps2
+    verified: true
+    hashtags: "#f45, #f45training, #f45partner, #stanleyquencher"
   - username: "daniellescottski"
     fullname: >-
       Danielle Scott
@@ -30,31 +54,7 @@ profiles:
     commentsToLikes: 0.018907
     id: ck0txpgpjk0rd0i19qi6c9kak
     verified: true
-    hashtags: "#femaleathlete, #goprohero9, #underarmour, #aerialskiing"
-  - username: "welsonsim"
-    fullname: >-
-      Welson Sim
-    bio: >-
-      National swimmer 🏊🏼‍♂️🇲🇾 2 x Olympian 🇧🇷🇯🇵 Milo, Under Armour, Usana Athlete 🏆 @chnge.club
-    location: "Australia"
-    followers: 319131
-    engagement: 755
-    commentsToLikes: 0.004688
-    id: ck5cj3p8ztwz30i110n9ce7dw
-    verified: true
-    hashtags: "#guessmy, #srpe05k1, #universaltraveller, #throughthistogether"
-  - username: "m_finners"
-    fullname: >-
-      Michelle Finn
-    bio: >-
-      Irish Athlete 🍀| Rio 2016 Olympian 🏃| Brand Ambassador @ocallaghantoyota 🚗| Múinteoir Corpoideachas & Gaeilge🤓📚
-    location: "Australia"
-    followers: 3239
-    engagement: 1897
-    commentsToLikes: 0.035712
-    id: ck5zsqc3zyzuo0i14tftpc3lj
-    verified: false
-    hashtags: "#teamworkmakesthedreamwork, #werun, #tokyo2021"
+    hashtags: "#daniellescottski, #femaleathlete, #goprohero9, #aerialskiing"
   - username: "kurtismarschall"
     fullname: >-
       Kurtis Marschall
@@ -91,40 +91,40 @@ profiles:
     id: ck5q8jen36h9g0i113zi671ow
     verified: false
     hashtags: "#ausequestrianteam, #repost, #horsesofinstagram, #eventing"
+  - username: "rosie.malone"
+    fullname: >-
+      Ambrosia Malone
+    bio: >-
+      Hockeyroo • Olympian World Cup & Comm Games medalist✨ @mazonhockey @mizunoaustralia @canningvaletoyota
+    location: "Australia"
+    followers: 21227
+    engagement: 1783
+    commentsToLikes: 0.011760
+    id: ck6u105noirpy0j71ovlowm2w
+    verified: false
+    hashtags: "#hockey, #fieldhockey, #athlete, #sport"
+  - username: "melissapaigewu"
+    fullname: >-
+      Melissa Wu OLY
+    bio: >-
+      4x Olympian 🇨🇳🇬🇧🇧🇷🇯🇵 Olympic 🥈🥉CWG 🥇🥇🥇🥈🥈 @pbphysio @funkitaswimwear @fitandhealthychef MEL30 Co-owner @hrdkawstrength Owner @havokathletic 📺 SAS #6
+    location: "Australia"
+    followers: 103380
+    engagement: 300
+    commentsToLikes: 0.011921
+    id: ck0ue8bwjkp4e0i19xhsy05k9
+    verified: true
+    hashtags: "#gym, #olympics, #teamaus, #tokyo2020"
   - username: "cbuchanan68"
     fullname: >-
-      Caroline Buchanan Athlete
+      CAROLINE  BUCHANAN • ATHLETE
     bio: >-
-      | 8 x BMX & Mountainbike World Champion | 2 x Australian Olympian | @krave.frenchies | @twopalmsmedia ea@carolinebuchanan.com
+      • 8 x BMX & Mountainbike World Champion • 2 x Australian Olympian • @krave.frenchies • @twopalmsmedia ea@carolinebuchanan.com
     location: "Australia"
-    followers: 171019
-    engagement: 291
-    commentsToLikes: 0.013072
+    followers: 171348
+    engagement: 259
+    commentsToLikes: 0.011260
     id: ck0u0p1uyuf3k0i194jn4hrjk
     verified: true
-    hashtags: "#squishyface, #ride, #frenchie, #cbr"
-  - username: "oliviavivian"
-    fullname: >-
-      Olivia Vivian
-    bio: >-
-      🥷🏻Ninja 🏅Olympian 🌏 Guinness World Record Holder 📩 info@limeagency.com.au 👚@twotags & 🐒@funkymonkeybars Ambassador 💥 Team @grenade.au
-    location: "Australia"
-    followers: 159179
-    engagement: 717
-    commentsToLikes: 0.019766
-    id: ck0u0dq0sth130i191oaolklu
-    verified: true
-    hashtags: "#ninja, #ninjawarrior, #twotags, #modibodi"
-  - username: "jessfox94"
-    fullname: >-
-      Jessica Fox
-    bio: >-
-      🦊🇦🇺🇫🇷🇬🇧 💦Canoe Slalom 🥈🥉Aussie Olympian 🌏7xWorld Champ @redbullau @toyota_aus @adidasau @yoproau @southlands_sc Contact: jwhiteasst@lampoon.com.au
-    location: "Australia"
-    followers: 35674
-    engagement: 526
-    commentsToLikes: 0.009510
-    id: ck0ucnuxoh92i0i19j4vdrpgi
-    verified: true
-    hashtags: "#fuelyourjourney, #givesyouwings, #quarantine, #teamyopro"
+    hashtags: "#fordranger, #pbwmn, #freeride, #pruttiville"
 ---

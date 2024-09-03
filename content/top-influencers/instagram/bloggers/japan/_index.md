@@ -1,12 +1,36 @@
 ---
-title: Top 10 Bloggers Instagram Influencers In Japan In 2023
+title: Top 10 Bloggers Instagram Influencers In Japan In 2024
 description: >-
-  Find top bloggers Instagram influencers in Japan in 2023. Most popular hashtags: #pr #ootdfashion #156cm #makeup.
+  Find top bloggers Instagram influencers in Japan in 2024. Most popular hashtags: #pr #156cm #instagood #makeup.
 platform: Instagram
-hits: 34
-text_top: See the top-rated Instagram accounts on inBeat.
-text_bottom: Our database holds 34 Instagram influencers like this in Japan for you to contact.
+hits: 36
+text_top: Analyze the most popular Instagram profiles on inBeat.
+text_bottom: Our platform has 36 Instagram influencers like this in Japan for you to connect with.
 profiles:
+  - username: "nao_70koro"
+    fullname: >-
+      NAOKO TAKAYAMA
+    bio: >-
+      155cm Fashion👱🏻‍♀️ eyelash&eyebrow salon owner🪄 un CALiN @uncalin_gakudai dogs🐶@koroponta 2020/08👧🏻babygirl #なおコロ食堂 🍚 楽天ROOM🏠 LINE official blogger↓
+    location: "Japan"
+    followers: 156528
+    engagement: 139
+    commentsToLikes: 0.002614
+    id: ck5hodc0lpd4f0i11djlft20s
+    verified: false
+    hashtags: "#zenplace, #pr, #12, #udon"
+  - username: "hosanna1992"
+    fullname: >-
+      ليليLily
+    bio: >-
+      •Beauty Blogger #alhubbeauty •FOHR Verified 💜 •Featured in @buzzfeed 📍CN&CHICAGO 🇺🇸🇨🇳 #Blessed ❤️ DM For PR Inquiry
+    location: "Japan"
+    followers: 114453
+    engagement: 16
+    commentsToLikes: 0.034740
+    id: ck0w5ubcx5h700i19yycf0k43
+    verified: false
+    hashtags: "#beautyblogger, #wildobsessions, #ilovemakeup, #thankful"
   - username: "ktm_lover_vijjuda"
     fullname: >-
       ďüḳệ ŀöṿệŕ ṿŀjjüďä
@@ -43,18 +67,30 @@ profiles:
     id: ckap7ubt7lli80i78eoih8e02
     verified: false
     hashtags: "#mummyinfluencer, #melbournemums, #mummyblogger, #instakids"
+  - username: "hawaiianna913"
+    fullname: >-
+      Anna Haneishi 羽石杏奈
+    bio: >-
+      World traveler🌎✈︎✈︎57countries living with aloha spirit✴︎ travel blogger - content creator - model
+    location: "Japan"
+    followers: 95588
+    engagement: 298
+    commentsToLikes: 0.006312
+    id: ck13c7i0eyzjy0i193guyaef4
+    verified: false
+    hashtags: "#oahu, #waikiki, #waikikibeachcomber, #808"
   - username: "nakajima_ayano"
     fullname: >-
-      中島絢乃
+      nakajima ayano
     bio: >-
-      Japanese blogger,model💘﻿ ⚠️仕事以外のDM直接お返事しません🙅‍♀️﻿ コメントへ✏️﻿ ．﻿ DisneyParks🇭🇰🇨🇳🇺🇸🇯🇵﻿ 中島姉妹👭#disneysisters_jp ﻿ ．﻿ travel/beauty/makeup movie/fashion/anime
+      Japanese blogger,model💘 ⚠️仕事以外のDM直接お返事しません🙅‍♀️ コメントへ✏️ ． DisneyParks🇭🇰🇨🇳🇺🇸🇯🇵 中島姉妹👭 #disneysisters_jp travel/beauty/makeup movie/fashion/anime
     location: "Japan"
-    followers: 47486
-    engagement: 206
-    commentsToLikes: 0.011695
+    followers: 55773
+    engagement: 257
+    commentsToLikes: 0.008301
     id: ckap1ua7ew6ht0i780qid86re
     verified: false
-    hashtags: "#ohmycafe, #inmyroombyayanon, #156cm, #mignondebijoux"
+    hashtags: "#pr, #disneysisters, #156cm, #disney"
   - username: "muratasaki"
     fullname: >-
       muratasaki／©︎ むらたさき
@@ -83,48 +119,12 @@ profiles:
     fullname: >-
       加藤いさお(Isao kato)
     bio: >-
-      Cento trenta代表 183cm / 60kg ◼️大阪で服屋を 3店舗経営してます。 ◼️Cento trenta CEO ◼️Mens fashion style Blogger ◼️I have three Men's Shop in Osaka Japan
+      Cento trenta代表 183cm / 60kg ◼️大阪で服屋を 3店舗　靴屋を1店舗 経営してます。 ◼️Cento trenta CEO ◼️Mens fashion style Blogger ◼️I have three Men's Shop in Osaka Japan
     location: "Japan"
-    followers: 14698
-    engagement: 267
-    commentsToLikes: 0.034206
+    followers: 17683
+    engagement: 280
+    commentsToLikes: 0.048415
     id: ck55owhxh99ms0i11h2j37myz
     verified: false
-    hashtags: "#fashionsnap, #dapperlook, #britishstyle, #mensfashionblog"
-  - username: "hitton28"
-    fullname: >-
-      Hitomi Fukui ◉ 福井仁美
-    bio: >-
-      TV character/Model/王様のブランチ/サウナー 🌍Travel blogger / Business owner 🔷Japan:Tokyo 📧TWIN PLANET inc 📷GᴏPʀᴏ Official family member
-    location: "Japan"
-    followers: 50879
-    engagement: 104
-    commentsToLikes: 0.007766
-    id: ck6tqrz5uto5i0j71sb165qjp
-    verified: true
-    hashtags: "#hair, #paris, #lv, #ootd"
-  - username: "mario_dozono"
-    fullname: >-
-      まりお
-    bio: >-
-      Japan / 162㎝. ファッション&コスメLOVEな2歳の男の子のママ。 💄宝島社『& ROSY』ロージーグラマー 📝【PRESS】official blogger 💌お仕事のご相談はメールかDMまで
-    location: "Japan"
-    followers: 85663
-    engagement: 86
-    commentsToLikes: 0.005228
-    id: ck0w6rd089xlx0i19gto95iki
-    verified: false
-    hashtags: "#30, #loewe, #beautytime, #haircare"
-  - username: "hosanna1992"
-    fullname: >-
-      ليليLily
-    bio: >-
-      •Beauty Blogger #alhubbeauty •FOHR Verified 💜 •Featured in @buzzfeed 📍CN&CHICAGO 🇺🇸🇨🇳 #Blessed ❤️ 📧 For PR Inquiry
-    location: "Japan"
-    followers: 123434
-    engagement: 87
-    commentsToLikes: 0.026885
-    id: ck0w5ubcx5h700i19yycf0k43
-    verified: false
-    hashtags: "#hosanna1992, #sephora, #beautyblog, #bblogger"
+    hashtags: "#menssuit, #dapperoutfits, #mensfashionstyle, #preppystyle"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Beauty TikTok Influencers In Ukraine In 2023
+title: Top 10 Beauty TikTok Influencers In Ukraine In 2024
 description: >-
-  Find top beauty TikTok influencers in Ukraine in 2023. Most popular hashtags: #beauty #love #shooting #travel.
+  Find top beauty TikTok influencers in Ukraine in 2024. Most popular hashtags: #beauty #love #shooting #beautiful.
 platform: TikTok
 hits: 18
-text_top: Identify the top-rated TikTok accounts on inBeat.
-text_bottom: Our platform holds 18 TikTok influencers like this in Ukraine for you to collaborate.
+text_top: Analyze the most popular TikTok accounts on inBeat.
+text_bottom: Our database has 18 TikTok influencers like this in Ukraine for you to collaborate.
 profiles:
   - username: "makeuptime.ig"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.003810
     id: ck9ev8iqoh78n0j787bxxk1ef
     verified: false
-    hashtags: "#hairstylest, #hairstyle, #makeuptutoria, #makeupgoal"
+    hashtags: "#makeupgoal, #beautyblogging, #beautyfullgirl, #makeuptutoria"
   - username: "kotova75"
     fullname: >-
       Аннета

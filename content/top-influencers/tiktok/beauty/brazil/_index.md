@@ -1,11 +1,11 @@
 ---
-title: Top 10 Beauty TikTok Influencers In Brazil In 2023
+title: Top 10 Beauty TikTok Influencers In Brazil In 2024
 description: >-
-  Find top beauty TikTok influencers in Brazil in 2023. Most popular hashtags: #fyp #fy #viral #foryou.
+  Find top beauty TikTok influencers in Brazil in 2024. Most popular hashtags: #fyp #fy #viral #foryou.
 platform: TikTok
-hits: 122
-text_top: Analyze the best TikTok profiles on inBeat.
-text_bottom: Our database holds 122 TikTok influencers like this in Brazil for you to collaborate.
+hits: 123
+text_top: Discover the top-rated TikTok influencers on inBeat.
+text_bottom: Our database holds 123 TikTok influencers like this in Brazil for you to work with.
 profiles:
   - username: "janataffarel"
     fullname: >-
@@ -126,5 +126,5 @@ profiles:
     commentsToLikes: 0.014144
     id: ckb931fdojhx70j234cm48np9
     verified: false
-    hashtags: "#hair, #vaiprofy, #acne, #foryou"
+    hashtags: "#acne, #skincare, #acneskin, #selfcare"
 ---

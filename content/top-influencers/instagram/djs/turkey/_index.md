@@ -1,11 +1,11 @@
 ---
-title: Top 10 Djs Instagram Influencers In Turkey In 2023
+title: Top 10 Djs Instagram Influencers In Turkey In 2024
 description: >-
-  Find top djs Instagram influencers in Turkey in 2023. Most popular hashtags: #dj #housemusic #istanbul #deephouse.
+  Find top djs Instagram influencers in Turkey in 2024. Most popular hashtags: #dj #housemusic #istanbul #djset.
 platform: Instagram
-hits: 10
-text_top: Analyze the most popular Instagram profiles on inBeat.
-text_bottom: Our platform aggregates 10 Instagram influencers like this in Turkey for you to work with.
+hits: 13
+text_top: Analyze the top-rated Instagram accounts on inBeat.
+text_bottom: Our platform holds 13 Instagram influencers like this in Turkey for you to collaborate.
 profiles:
   - username: "djsafirofficial"
     fullname: >-
@@ -13,12 +13,12 @@ profiles:
     bio: >-
       KINA GECESİ, NİŞAN VE TÜM EĞLENCELERİNİZ İÇİN PROFESYONEL DJ 🎧 ve ORGANİZASYON HİZMETİ. 🇹🇷TR ☎️ +90532 4060034 - 🇪🇺EU ☎️+49 176 72692669 #djsafirvideo
     location: "Turkey"
-    followers: 48999
-    engagement: 314
-    commentsToLikes: 0.025962
+    followers: 49178
+    engagement: 136
+    commentsToLikes: 0.010149
     id: ck139ikuzlhh00i19595hy544
     verified: false
-    hashtags: "#demre, #ladysparty, #nis, #kinagecesi"
+    hashtags: "#organizasyon, #bride, #ankara, #izmit"
   - username: "djserkankar"
     fullname: >-
       djserkankar
@@ -31,6 +31,18 @@ profiles:
     id: ck14l8x3ftfme0i19pit8yg8s
     verified: false
     hashtags: "#technoconnectingpeople, #snowtunesmusic, #ibiza, #berlintechno"
+  - username: "gretatedeschiofficial"
+    fullname: >-
+      GRETΛ TEDESCHI
+    bio: >-
+      🇮🇹 Turin, Italy. 🎶 Booking: gretatedeschi@boomerangteam.it 🫀 LOVE ME AGAIN 👇🏻 fuori ora
+    location: "Turkey"
+    followers: 377512
+    engagement: 22
+    commentsToLikes: 0.024958
+    id: ckap2tkds09ek0i78jw4rd6hr
+    verified: true
+    hashtags: "#livedjset, #dj, #turchia, #djset"
   - username: "burgacali"
     fullname: >-
       Ali Burgaç
@@ -43,18 +55,6 @@ profiles:
     id: ck6u8r7kht73s0j71y6i1cqed
     verified: false
     hashtags: "#aliburgac, #djset, #soundcloud, #istanbul"
-  - username: "roamy"
-    fullname: >-
-      Roamy
-    bio: >-
-      𝐒𝐚𝐧 𝐃𝐢𝐞𝐠𝐨, 𝐂𝐀 @zerolatencycollective 𝑺𝒑𝒐𝒏𝒔𝒐𝒓𝒔: @basnheadphone | @usamaskmarket 𝐍𝐞𝐰 𝐬𝐢𝐧𝐠𝐥𝐞 “ʟᴇᴛ ɪᴛ ɢᴏ” (𝒐𝒖𝒕 𝒏𝒐𝒘)
-    location: "Turkey"
-    followers: 32774
-    engagement: 184
-    commentsToLikes: 0.159368
-    id: ck8t2obry06di0j7874yoj1o6
-    verified: false
-    hashtags: "#soundcloud, #beat, #musician, #rap"
   - username: "tuba_luleci_alacam"
     fullname: >-
       Tuba Luleci Alacam - TLA
@@ -67,18 +67,30 @@ profiles:
     id: ckaosjf2trqyl0i78jq4xaam1
     verified: false
     hashtags: "#tekne, #djane, #djlife, #dancemusic"
+  - username: "suatatesdagli"
+    fullname: >-
+      Suat Atesdagli
+    bio: >-
+      🇹🇷 DJ & Producer 🇹🇷 Yeni projemiz Suat Ateşdağlı feat Kirpi “#Sevme” sizlerle ..Hemen izlemek için 👇🏻
+    location: "Turkey"
+    followers: 24828
+    engagement: 908
+    commentsToLikes: 0.027477
+    id: ck14jyvg1mv2d0i199nq5o5fk
+    verified: false
+    hashtags: "#music, #sound, #dance, #gala"
   - username: "kaanabimiz"
     fullname: >-
       Kaan Çelik
     bio: >-
-      pr@kaancelik.net
+      Kaan Çelik PR🎗 pr@kaancelik.net
     location: "Turkey"
-    followers: 108539
-    engagement: 358
-    commentsToLikes: 0.421039
+    followers: 140020
+    engagement: 289
+    commentsToLikes: 0.422359
     id: ck139l3uclup90i19gqq71a3q
     verified: false
-    hashtags: "#kaan, #kekeler, #youtube, #cznburak"
+    hashtags: "#kaan, #youtube, #cznburak, #2021"
   - username: "chota_singga_official"
     fullname: >-
       chota singga
@@ -115,16 +127,4 @@ profiles:
     id: ckap56h6lae340i789box7do4
     verified: false
     hashtags: "#nudenails, #nailart, #avonparf, #nailenamel"
-  - username: "kanca.ozgur"
-    fullname: >-
-      RADYO  BANKO 99.1   PROGRAMCI
-    bio: >-
-      Ankara Radyo Oyun Havasi Radyo BANKO 99.1 🎧 Hafta İçi 15.00 & 17.00 🎙🎙 🎙Kanca Özgür🎙 #Ankara 94.8 #izmir 103.1 FULL FM TURKİYE 07.00 & 09.00
-    location: "Turkey"
-    followers: 51456
-    engagement: 148
-    commentsToLikes: 0.005321
-    id: ck5hsj4adwof20i11a7o3rubo
-    verified: false
-    hashtags: "#arslan, #parcalari, #koyalim, #radyo"
 ---

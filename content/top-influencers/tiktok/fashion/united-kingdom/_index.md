@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fashion TikTok Influencers In United Kingdom In 2023
+title: Top 10 Fashion TikTok Influencers In United Kingdom In 2024
 description: >-
-  Find top fashion TikTok influencers in United Kingdom in 2023. Most popular hashtags: #fyp #fashion #foryoupage #duet.
+  Find top fashion TikTok influencers in United Kingdom in 2024. Most popular hashtags: #fyp #fashion #foryoupage #foryou.
 platform: TikTok
-hits: 737
-text_top: Identify the best TikTok profiles on inBeat.
-text_bottom: inBeat holds 737 TikTok influencers like this in United Kingdom for you to collaborate.
+hits: 741
+text_top: Analyze the most popular TikTok accounts on inBeat.
+text_bottom: Our platform has 741 TikTok influencers like this in United Kingdom for you to connect with.
 profiles:
   - username: "fashionwithmae"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.143809
     id: ckc7nj76mtnxg0j23kaz9owb2
     verified: false
-    hashtags: "#aesthetic, #calming, #bookclub, #beach"
+    hashtags: "#foryoupage, #lifestyle, #beach, #fyp"
   - username: "pop_sausage"
     fullname: >-
       pop the saus. 
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.176973
     id: ckav2ei0f8i2v0j23dknz44pf
     verified: true
-    hashtags: "#sausagedog, #dogsoftiktok, #wienerdog, #topdog"
+    hashtags: "#dog, #dogs, #feelgoodfactor, #topdog"
   - username: "halle.isobel.art"
     fullname: >-
       halle isobel
@@ -67,6 +67,18 @@ profiles:
     id: ckbfh6wwpckuy0j235i65ovg5
     verified: false
     hashtags: "#upcycledfashion, #tiktokuk, #upcycle, #learnontiktok"
+  - username: "sadusagi"
+    fullname: >-
+      Addy senpai
+    bio: >-
+      Ig: addychansenpai harajuku fashion & kawaii lifestyle ⬇️wishlist & links⬇️
+    location: "United Kingdom"
+    followers: 488400
+    engagement: 2319
+    commentsToLikes: 0.018877
+    id: ck9euzbkofw110j78xprvxc9e
+    verified: false
+    hashtags: "#taskmasterpiece, #gamergirl, #ourhouse2021, #weeb"
   - username: "lavenderstages"
     fullname: >-
       Rosie Harte
@@ -79,18 +91,6 @@ profiles:
     id: ckcj9l4t97ynk0j23ro17s2bj
     verified: false
     hashtags: "#art, #bridgerton, #royalcore, #marieantoinette"
-  - username: "sadusagi"
-    fullname: >-
-      Addy senpai
-    bio: >-
-      Ig: addychansenpai harajuku fashion & kawaii lifestyle ⬇️wishlist & links⬇️
-    location: "United Kingdom"
-    followers: 481100
-    engagement: 2074
-    commentsToLikes: 0.015708
-    id: ck9euzbkofw110j78xprvxc9e
-    verified: false
-    hashtags: "#sanrio, #tiktokfashionmonth, #mymelody, #sanriogirl"
   - username: "vijaya0609"
     fullname: >-
       Vijjjj
@@ -114,7 +114,7 @@ profiles:
     commentsToLikes: 0.054629
     id: ckbf5d98bueoy0j23hdnmrgd3
     verified: false
-    hashtags: "#girlymakeup, #isawitfirst, #iworeitfirst, #petitefashionfinds"
+    hashtags: "#isawicons, #petitefashionfinds, #girlymakeup, #petitefashion"
   - username: "claudiagreiner"
     fullname: >-
        Claudia Greiner
@@ -126,5 +126,5 @@ profiles:
     commentsToLikes: 0.031487
     id: ckbfevlq295zw0j23x5j11jjg
     verified: false
-    hashtags: "#primarkuk, #primarkhaul, #brandcollabs, #style"
+    hashtags: "#insta, #haul, #primark, #fashion"
 ---

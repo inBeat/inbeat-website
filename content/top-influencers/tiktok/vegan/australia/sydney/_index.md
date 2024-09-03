@@ -1,11 +1,11 @@
 ---
-title: Top 10 Vegan TikTok Influencers In Sydney In 2023
+title: Top 10 Vegan TikTok Influencers In Sydney In 2024
 description: >-
-  Find top vegan TikTok influencers in Sydney in 2023. Most popular hashtags: #fyp #vegan #foryou #sydney.
+  Find top vegan TikTok influencers in Sydney in 2024. Most popular hashtags: #fyp #vegan #foryou #sydney.
 platform: TikTok
 hits: 5
-text_top: Identify the top-rated TikTok influencers on inBeat.
-text_bottom: Our search engine aggregates 5 TikTok influencers like this in Sydney, Australia for you to collaborate.
+text_top: See the top-rated TikTok accounts on inBeat.
+text_bottom: Our platform aggregates 5 TikTok influencers like this in Sydney, Australia for you to work with.
 profiles:
   - username: "pepsimaxbby"
     fullname: >-
@@ -19,6 +19,18 @@ profiles:
     id: ck8fayw124pa30j78remolpo2
     verified: false
     hashtags: "#whatieatinaday, #weightloss, #alttiktok, #veganweightloss"
+  - username: "_kim_lawless_"
+    fullname: >-
+      Kim
+    bio: >-
+      •Fitness•health lifestyle• Instagram- kimlawless_fitness
+    location: "Australia"
+    followers: 49000
+    engagement: 1060
+    commentsToLikes: 0.048493
+    id: cka7o7mp10qyp0i78xk1mluw6
+    verified: false
+    hashtags: "#dance, #fun, #mood, #earphones"
   - username: "thepicnicburwood"
     fullname: >-
       The Picnic Burwood
@@ -43,18 +55,6 @@ profiles:
     id: ckcv5l1gcpaqe0j23vnvva4vs
     verified: false
     hashtags: "#foryou, #fyp, #ytb, #ftb"
-  - username: "_kim_lawless_"
-    fullname: >-
-      Kim
-    bio: >-
-      •Fitness•health lifestyle• Instagram- kimlawless_fitness
-    location: "Australia"
-    followers: 49000
-    engagement: 1060
-    commentsToLikes: 0.048493
-    id: cka7o7mp10qyp0i78xk1mluw6
-    verified: false
-    hashtags: "#dance, #tune, #tiktok, #foryou"
   - username: "chelsrandall"
     fullname: >-
       Chels Randall
@@ -114,7 +114,7 @@ profiles:
     commentsToLikes: 0.022172
     id: ck9eljnpvawgh0j78xraao218
     verified: false
-    hashtags: "#zodiac, #smallbusiness, #soapclay, #soap"
+    hashtags: "#soapclay, #zodiac, #astrology, #soap"
   - username: "littlemissbec"
     fullname: >-
       💗 Bec 💗

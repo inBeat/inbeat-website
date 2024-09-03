@@ -1,12 +1,60 @@
 ---
-title: Top 10 Health Instagram Influencers In Seattle In 2023
+title: Top 10 Health Instagram Influencers In Seattle In 2024
 description: >-
-  Find top health Instagram influencers in Seattle in 2023. Most popular hashtags: #health #love #fitness.
+  Find top health Instagram influencers in Seattle in 2024. Most popular hashtags: #health #fitness #seattle #fitnessmotivation.
 platform: Instagram
-hits: 43
-text_top: Analyze the top-rated Instagram accounts on inBeat.
-text_bottom: Our search engine holds 43 Instagram influencers like this in Seattle, United States for you to collaborate.
+hits: 56
+text_top: Identify the most popular Instagram influencers on inBeat.
+text_bottom: Our platform aggregates 56 Instagram influencers like this in Seattle, United States for you to pitch.
 profiles:
+  - username: "monybseattle"
+    fullname: >-
+      Monica | Seattle Food + More
+    bio: >-
+      ➡️ Sharing everything I love about Seattle 💪🏽 Crushing Type 2 diabetes 📩 monica@monybseattle.com
+    location: "United States"
+    followers: 11163
+    engagement: 244
+    commentsToLikes: 0.329710
+    id: ck5c66xbj4uma0i11of9h6k3i
+    verified: false
+    hashtags: "#seattlefood, #seattleeats, #edmondswa, #pnwlife"
+  - username: "growingngrowing"
+    fullname: >-
+      ariel phoebe
+    bio: >-
+      houseplants, growth, & mental health 💕 seattle, wa | keep going, keep growing 🌿 growingngrowing@gmail.com 💌
+    location: "United States"
+    followers: 35031
+    engagement: 2
+    commentsToLikes: 0.000000
+    id: ckf5m0ui5rt0w0j23g1ie8oo0
+    verified: false
+    hashtags: "#plantsofinstagram, #plantshop, #philodendron, #monsteramonday"
+  - username: "lukahocevar"
+    fullname: >-
+      Luka Hocevar
+    bio: >-
+      🏀 Ex Pro Player 🎯 Owner @vigorgroundfitness 🛠️ Work w/ NFL, MLB, NBA, Exec. 🏃🏽‍♂️ Athlete For Life Method 📱 @vagaropro Partner Ways to work w/ me👇🏼
+    location: "United States"
+    followers: 120868
+    engagement: 136
+    commentsToLikes: 0.031967
+    id: ck5hdqqv5ovir0i11cdqskgh4
+    verified: false
+    hashtags: "#womenwholift, #singleleg, #sportsperformance, #strength"
+  - username: "lessthandomesticgoddess"
+    fullname: >-
+      Carly Hamaguchi
+    bio: >-
+      Honest Parenting ❤️| Wellness Tips | Family Fun | Seattle area | 📧 : thelessthandomesticgoddess@gmail.com | Links ⬇️
+    location: "United States"
+    followers: 157815
+    engagement: 223
+    commentsToLikes: 0.014422
+    id: cksvjmkp09wnk0j2359zx4zs5
+    verified: false
+    hashtags: "#dentekpartner, #ad, #upyourmouthgame, #momlife"
   - username: "senpaitiff"
     fullname: >-
       Tiffany Liu BSN, RN
@@ -31,18 +79,18 @@ profiles:
     id: ck0twtzxdgq9y0i192da6s3af
     verified: true
     hashtags: "#squad, #fitness, #exercise, #family"
-  - username: "kuhleeuh"
+  - username: "hopefullylifting"
     fullname: >-
-      Kalia
+      HOPE🤸‍♀️🫶🏼🤳✨
     bio: >-
-      Black & Filipina| 900k+ on TikTok SMG Models #pnw #model #singer
+      SEATTLE 📍| just a girl having fun FITNESS | FASHION | ART 🎨 @aoxjox | HOPE10 💌 | hopefullylifting@gmail.com
     location: "United States"
-    followers: 9674
-    engagement: 228
-    commentsToLikes: 0.095257
-    id: ck8wen94weba60j78qkf09nm3
+    followers: 14775
+    engagement: 191
+    commentsToLikes: 0.066118
+    id: clbew5ect0wdw0j08wsiskl5b
     verified: false
-    hashtags: "#reels, #seattlesinger, #freestyle, #justwannabe"
+    hashtags: "#gymgirl, #gymrat, #motivation, #fit"
   - username: "briannamariefitness"
     fullname: >-
       Brianna Marie
@@ -67,64 +115,16 @@ profiles:
     id: ckaot3192u5tm0i781yzo7257
     verified: false
     hashtags: "#music, #metallica, #universityofrock, #gunsnroses"
-  - username: "recreatingnicole"
+  - username: "kuhleeuh"
     fullname: >-
-      Nicole
+      Kalia
     bio: >-
-      welcome 2 the shit show🔮✨⁣⁣⁣⁣ ⁣⁣⁣Seattle || 24 || Esthetician ⁣⁣⁣⁣ Lost 180lbs|| Mental Health Awareness 🌿 ⁣Owner of @enchanted.empress.aesthetics
+      Black & Filipina| 900k+ on TikTok SMG Models #pnw #model #singer
     location: "United States"
-    followers: 89806
-    engagement: 143
-    commentsToLikes: 0.015830
-    id: ckap3ow453x1f0i78wb9p6654
+    followers: 9674
+    engagement: 228
+    commentsToLikes: 0.095257
+    id: ck8wen94weba60j78qkf09nm3
     verified: false
-    hashtags: "#transformationtuesday, #bodybytacos"
-  - username: "shaunt"
-    fullname: >-
-      Shaun T
-    bio: >-
-      💪🏽 Creator of INSANITY, T25, Let’s Get Up 🔥 Helping you transform your life 🙏🏽 Mental Health Advocate 🎧 Podcast Host
-    location: "United States"
-    followers: 1187580
-    engagement: 77
-    commentsToLikes: 0.028452
-    id: ck0vyxkz569zu0i19digqivaq
-    verified: true
-    hashtags: "#dadlife, #justdance, #birthday, #love"
-  - username: "lauravong"
-    fullname: >-
-      LauraSmiles | Dental Student
-    bio: >-
-      🌲 Seattle // Khmer 🇰🇭⁣⁣⁣ 🦷 UWSOD ‘21 📹 LauraSmiles on YouTube⁣⁣⁣ ➕ @wearfigs “FIGSxLauraSmiles”⁣ 🌺 @getcocofloss “LAURASMILES20”⁣ 👇🏽 links and more!
-    location: "United States"
-    followers: 16919
-    engagement: 1472
-    commentsToLikes: 0.132394
-    id: ckaowt6kpacch0i78fy6fc030
-    verified: false
-    hashtags: "#awesomehumans, #dentist, #health, #medicalstudent"
-  - username: "romejohns"
-    fullname: >-
-      Rome Johnson | Dad Swag
-    bio: >-
-      📍|Seattle, WA 🥊|Father to a #pfeiffersyndrome fighter 👖|Using fashion to push health 🗣|Lifestyle Creator 🏀|Sports fan & traveler 👇🏿How to support👇🏿
-    location: "United States"
-    followers: 55796
-    engagement: 909
-    commentsToLikes: 0.041861
-    id: ck8t1v9nix65e0j78gkeeieo6
-    verified: false
-    hashtags: "#blackfather, #blacklove, #pfeiffersyndrome, #girldad"
-  - username: "tina.m.dominguez"
-    fullname: >-
-      San Diego Brand Photographer
-    bio: >-
-      In just one day I help Health & Fitness Coaches make more money from their content, without sacrificing a countless amount of hours. 📸 Get more info👇🏼
-    location: "United States"
-    followers: 5388
-    engagement: 357
-    commentsToLikes: 0.142586
-    id: ck9hcsihimsjj0j78xr62784s
-    verified: false
-    hashtags: "#socal, #inspirechange, #strongher, #notaninfluencer"
+    hashtags: "#reels, #seattlesinger, #justwannabe, #pnwsinger"
 ---

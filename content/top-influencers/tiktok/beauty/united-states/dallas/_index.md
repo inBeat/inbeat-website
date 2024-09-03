@@ -1,11 +1,11 @@
 ---
-title: Top 10 Beauty TikTok Influencers In Dallas In 2023
+title: Top 10 Beauty TikTok Influencers In Dallas In 2024
 description: >-
-  Find top beauty TikTok influencers in Dallas in 2023. Most popular hashtags: #fyp #dallas #beauty #texas.
+  Find top beauty TikTok influencers in Dallas in 2024. Most popular hashtags: #fyp #dallas #beauty #texas.
 platform: TikTok
-hits: 18
-text_top: Analyze the top-rated TikTok influencers on inBeat.
-text_bottom: Our platform holds 18 TikTok influencers like this in Dallas, United States for you to contact.
+hits: 19
+text_top: See the best TikTok profiles on inBeat.
+text_bottom: Our platform has 19 TikTok influencers like this in Dallas, United States for you to contact.
 profiles:
   - username: "statickiss"
     fullname: >-
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.086827
     id: ckbl1yai3yt2m0j23bm0gfgbt
     verified: false
-    hashtags: "#dog, #doritosflatlife, #realtor, #comedy"
+    hashtags: "#dallas, #funny, #dog, #realestate"
   - username: "jaychenart"
     fullname: >-
       jaychenart
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.012746
     id: ck8sefnwnjih40j783bfh2cmu
     verified: false
-    hashtags: "#paint, #digitalpainting, #art, #draw"
+    hashtags: "#fyp, #comic, #illustration, #digitalpainting"
   - username: "majiikkk3"
     fullname: >-
       Majik🚀

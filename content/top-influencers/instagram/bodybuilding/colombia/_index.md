@@ -1,11 +1,11 @@
 ---
-title: Top 10 Bodybuilding Instagram Influencers In Colombia In 2023
+title: Top 10 Bodybuilding Instagram Influencers In Colombia In 2024
 description: >-
-  Find top bodybuilding Instagram influencers in Colombia in 2023. Most popular hashtags: #bodybuilding #fitnessmotivation #fitness #workout.
+  Find top bodybuilding Instagram influencers in Colombia in 2024. Most popular hashtags: #bodybuilding #fitness #fitnessmotivation #workout.
 platform: Instagram
 hits: 37
-text_top: Discover the best Instagram influencers on inBeat.
-text_bottom: inBeat aggregates 37 Instagram influencers like this in Colombia for you to work with.
+text_top: Identify the best Instagram accounts on inBeat.
+text_bottom: Our platform has 37 Instagram influencers like this in Colombia for you to work with.
 profiles:
   - username: "lachinafit"
     fullname: >-
@@ -21,16 +21,16 @@ profiles:
     hashtags: "#vacationmode, #beforeandafter, #naturalbodybuilding, #drlife"
   - username: "rubenchoviajero"
     fullname: >-
-      Rubencho Viajero
+      RUBEN MORALES | Viajero | Travel Videos
     bio: >-
-      Viajero compartiendo contenido☝✈🌎 🇨🇴 Colombiano 💪🏽 🔘Acompáñame a vivir ésta historia 📍Emprendedor👉🏼 @rubencho.art @coordenadas476
+      Recomiendo los mejores destinos 🌎 Aquí encuentras presupuestos y recomendaciones 📥 rubenchoviajero@gmail.com Owner 👉🏼 @rubencho.art
     location: "Colombia"
-    followers: 35174
-    engagement: 680
-    commentsToLikes: 0.216719
+    followers: 96646
+    engagement: 289
+    commentsToLikes: 0.042605
     id: ck8t6lnt1e1is0j78358yiop2
     verified: false
-    hashtags: "#traveling, #lifestyle, #test, #instagood"
+    hashtags: "#abs, #viajerosporelmundo, #fitness, #muscleup"
   - username: "loingrid.rivero"
     fullname: >-
       yaxu 😍
@@ -91,18 +91,6 @@ profiles:
     id: ckap19d0rtlwd0i78j2da9aoi
     verified: false
     hashtags: "#fashionstyle, #gymlover, #healthy, #beach"
-  - username: "lunasolmart"
-    fullname: >-
-      LUNASOL
-    bio: >-
-      @lunemare Colombiana + Venezolana Powerlifter | Weightlifter | Part Creative B.S Biological sciences
-    location: "Colombia"
-    followers: 3541
-    engagement: 1184
-    commentsToLikes: 0.065087
-    id: ck5zzvqjxci5y0i140uu08cp6
-    verified: false
-    hashtags: "#fitness, #fitnessmotivation, #bodybuilding, #powerlifting"
   - username: "edwardvargas_17"
     fullname: >-
       E D W A R D  V A R G A S +++
@@ -127,4 +115,16 @@ profiles:
     id: ck5hryp1avpgq0i11k77ehskm
     verified: false
     hashtags: "#bodybuildingmotivation, #mhpstrong, #workout, #nuncaparamos"
+  - username: "instaboysvip"
+    fullname: >-
+      🔰 INSTA BOYS VIP OFICIAL🔥
+    bio: >-
+      ⠀⠀⠀⠀⠀⠀⠀⠀ 📍 SFS S4S Parecerías al privado 🔥 Los mejores cuerpos 🔴 Official Account 📩 Photos Videos 📷 📹 ⠀⠀⠀⠀⠀⠀⠀ 👇
+    location: "Colombia"
+    followers: 17178
+    engagement: 439
+    commentsToLikes: 0.010684
+    id: ck8swdl0odu270j78ivskqboj
+    verified: false
+    hashtags: ""
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In Bali In 2023
+title: Top 10 Nutrition Instagram Influencers In Bali In 2024
 description: >-
-  Find top nutrition Instagram influencers in Bali in 2023. Most popular hashtags: #jakarta #herbalife #bali #bandung.
+  Find top nutrition Instagram influencers in Bali in 2024. Most popular hashtags: #jakarta #bali #diet #nutrition.
 platform: Instagram
 hits: 30
-text_top: Discover the top-rated Instagram profiles on inBeat.
-text_bottom: Our platform has 30 Instagram influencers like this in Bali, Indonesia for you to collaborate.
+text_top: Analyze the most popular Instagram influencers on inBeat.
+text_bottom: Our platform has 30 Instagram influencers like this in Bali, Indonesia for you to connect with.
 profiles:
   - username: "infopintar.id"
     fullname: >-
@@ -43,18 +43,42 @@ profiles:
     id: ck8tbdfwtv82k0j7851wjiiqd
     verified: false
     hashtags: "#cerminvanitymirror, #vanitymirrorindonesia, #hollywoodmirror, #promovanitymirror"
-  - username: "axelschura"
+  - username: "yuliabaltschun"
     fullname: >-
-      Axel Schurawlow 🥑
+      Yulia Baltschun
     bio: >-
-      Mindset | Health | Nutrition 🌱@vivolife Athlete CODE “SHMONKEY“ 🎶 JOIN 340 000 ON TIKTOK! 📸 Youtube/axelschura 🎙 Podcast 📍 Bali - All my channels👇
+      2,4M ON YOUTUBE Healthy Skin with @npureofficial 📍Bali Business WA : 081 299 899 102 Certified FITNESS & DIET Educator Mom of 2
     location: "Indonesia"
-    followers: 28434
-    engagement: 370
-    commentsToLikes: 0.041371
-    id: ck0ttg7i12ksr0i195fpjvruy
+    followers: 929427
+    engagement: 131
+    commentsToLikes: 0.048626
+    id: ck135lvz9222w0i19ujfq8zkp
+    verified: true
+    hashtags: "#dietsehat, #diet, #fatloss, #resolusi2024"
+  - username: "katenotcate"
+    fullname: >-
+      Kate Hendley, NBC-HWC, INHC
+    bio: >-
+      : national board certified health & wellness coach : founder @wellspringbykate 🌿 : a ~realistic~ pov on nutrition, health, ed recovery & lifestyle 💕
+    location: "Indonesia"
+    followers: 2925
+    engagement: 1041
+    commentsToLikes: 0.047237
+    id: clnno1oxn21bz0j08pz5ao4xx
     verified: false
-    hashtags: "#dairy, #vegansofig, #vegangains, #fitfam"
+    hashtags: "#mindbodyspirit, #fitnessjourney, #wellness, #balanceiskey"
+  - username: "yusufhendratnoo"
+    fullname: >-
+      Yusuf Hendratno | Aspire To Inspire
+    bio: >-
+      🏆| BA @mutant.idn 💼| Model - Content Creator - Digital Preneur 🎓| Fitness & Nutrition Coach @fitnwell.101 📧 Email for job & inquiries
+    location: "Indonesia"
+    followers: 298013
+    engagement: 161
+    commentsToLikes: 0.017797
+    id: ck13cwlks2iqg0i19ybxtc9v4
+    verified: false
+    hashtags: "#fitness, #workout, #trip, #lifestyle"
   - username: "mrsveronicatan"
     fullname: >-
       VeronicaTan
@@ -103,28 +127,4 @@ profiles:
     id: ck0u8y1d38isd0i193p2u1ptc
     verified: false
     hashtags: "#janethes, #cucujokowi, #kaesangpangarep, #presidenjokowi"
-  - username: "maiaestianty80"
-    fullname: >-
-      Maia Estianty
-    bio: >-
-      Fans Bunda Maia ❤️ Terima kasih sudah follow Skincare terbaik follow ->> @megabeauty_official Mixberry original follow ->> @berryhouse_id
-    location: "Indonesia"
-    followers: 76191
-    engagement: 52
-    commentsToLikes: 0.018474
-    id: ck8tbd63ov7300j78o0j8scd6
-    verified: false
-    hashtags: "#kalimantan, #malaysia, #cintakarnacinta, #ammarzoni"
-  - username: "mikhaell.moeis"
-    fullname: >-
-      Mikhael Moeis
-    bio: >-
-      Fanbase of #sandradewi family 👦:@hmoeis 👧:@sandradewi88 ❤:@raphaelmoeiss . By admin PP MURAH DM
-    location: "Indonesia"
-    followers: 52673
-    engagement: 176
-    commentsToLikes: 0.007293
-    id: ck0w10h4fgy6p0i19k7akxwvz
-    verified: false
-    hashtags: "#jakarta, #tkwmalaysia, #tkwdubai, #shakeherbalife"
 ---

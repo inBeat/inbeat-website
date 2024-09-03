@@ -1,12 +1,24 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In United Kingdom In 2023
+title: Top 10 Nutrition Instagram Influencers In United Kingdom In 2024
 description: >-
-  Find top nutrition Instagram influencers in United Kingdom in 2023. Most popular hashtags: #weighttraining #zara #fitness.
+  Find top nutrition Instagram influencers in United Kingdom in 2024. Most popular hashtags: #nutrition #healthyrecipes #nutritionist.
 platform: Instagram
-hits: 199
-text_top: Discover the top-rated Instagram accounts on inBeat.
-text_bottom: Our platform has 199 Instagram influencers like this in United Kingdom for you to pitch.
+hits: 285
+text_top: Identify the top-rated Instagram accounts on inBeat.
+text_bottom: inBeat aggregates 285 Instagram influencers like this in United Kingdom for you to connect with.
 profiles:
+  - username: "isafitlife"
+    fullname: >-
+      ISABEL l  ONLINE EXERCISE & NUTRITION
+    bio: >-
+      COACHING PAGE @aimhigherforyou BSc (Hons) Nutrition and Exercise currently MSc in Sports Nutrition @ljmu
+    location: "United Kingdom"
+    followers: 104908
+    engagement: 446
+    commentsToLikes: 0.018065
+    id: ck8t7zjt0ijrw0j78q2sp5ehu
+    verified: false
+    hashtags: "#gymreels, #gym, #glutesworkout, #backworkout"
   - username: "amanda_strachan"
     fullname: >-
       AMANDA STRACHAN
@@ -18,113 +30,101 @@ profiles:
     commentsToLikes: 0.014126
     id: ck0vv2h8dn8kb0i199rg3n3qx
     verified: false
-    hashtags: "#simplerecipes, #healthyrecipes, #nutrition, #mindfulness"
-  - username: "jacobcollier"
+    hashtags: "#healthyrecipes, #mindfulness, #easyrecipes, #nutrition"
+  - username: "_emilysworld"
     fullname: >-
-      Jacob Collier
+      Emily Solman
     bio: >-
-      Quester of delicion and nutrition ☃️
+      Registered Nutritionist specialising in disordered eating Let’s discover the happiest, healthiest version of YOU!! 🎧🎙️ @navigatingwomanhoodpod
     location: "United Kingdom"
-    followers: 1971478
-    engagement: 783
-    commentsToLikes: 0.006086
-    id: ck0vy477k25qn0i19tjgji8cx
-    verified: true
-    hashtags: "#15, #19, #23"
-  - username: "roarfitnessgirl"
+    followers: 209349
+    engagement: 1449
+    commentsToLikes: 0.007202
+    id: ck0vzcw488h390i19jaaxce21
+    verified: false
+    hashtags: "#mealprep, #highfibre, #breakfastinspo, #selfcare"
+  - username: "kimgfit_"
     fullname: >-
-      Sarah Lindsay
+      KIMIA GHANIAN
     bio: >-
-      •3x Olympian •Owner @roarfitnessldn gyms 🇬🇧 🇦🇪 •Founder @roarclasses •Sports Pundit @bbc •Personal Trainer •Nutrition coach •Public Speaker
+      all for Gods glory BSc (Hons) Nutritionist🍎 📩 simon@wmgmt.co.uk ONLINE COACHING LINK 🔽
     location: "United Kingdom"
-    followers: 90402
-    engagement: 117
-    commentsToLikes: 0.083805
-    id: ck5px3kjrpxhe0i11y2wwn406
-    verified: true
-    hashtags: "#positivemindset, #personaltrainer, #fitness, #dubai"
-  - username: "ciaralondon"
-    fullname: >-
-      BODY BY CIARA
-    bio: >-
-      London 📍 @bodybyciaraapp Online Training & Nutrition📱 @bodybyciarahq Gym & Real Life Training🏠 ⬇️LINKS TO EVERYTHING⬇️
-    location: "United Kingdom"
-    followers: 132382
-    engagement: 127
-    commentsToLikes: 0.435709
-    id: ck6tnvx80aokp0j71yfzhdj21
+    followers: 97392
+    engagement: 643
+    commentsToLikes: 0.004993
+    id: clfw1dugyylhy0j08ufty6msl
     verified: false
     hashtags: ""
-  - username: "jodiewood_"
+  - username: "aggie"
     fullname: >-
-      Jodie Matthews (Lawson-Wood)
+      AGGIE ✨ your biohacking bestie
     bio: >-
-      Fashion, Beauty & Lifestyle MSc Nutrition Work enquiries ~ influencers@andrea.ie Shop my jewelry line
+      🥑 Certified Nutrition Coach 🧬Top US Biohacker DM me FIT to start biohacking My supplements @biohackingbestie My book 📚 #BiohackLikeaWoman @jaggievilla
     location: "United Kingdom"
-    followers: 72179
-    engagement: 457
-    commentsToLikes: 0.035153
-    id: ck5c301niybu70i11uia8230y
+    followers: 1118136
+    engagement: 687
+    commentsToLikes: 0.014034
+    id: ck0u0xabmv61e0i19uujf5wp1
     verified: true
-    hashtags: "#puenteromano, #marbella, #couple, #outfitinspiration"
-  - username: "flexingphoebs"
+    hashtags: "#biohacking, #honeymoon, #santorini, #sleep"
+  - username: "thefoodmedic"
     fullname: >-
-      Phoebe Davis
+      Dr Hazel Wallace BSc MSc MBBCh
     bio: >-
-      Flexing the Mind, Body & Soul 📸 Model @fordrba 🏆 NQ NPC Bikini 🌐 CMO @bowmar_nutrition PHOEBE @ryderwear PHOEBS10 SHOP RYDER SALE ⬇️
+      Medical Doctor & nutritionist 🫀 women’s health advocate ✨ Best selling author x 3 ✍🏼 Host of The Food Medic podcast🎙️
     location: "United Kingdom"
-    followers: 19344
-    engagement: 595
-    commentsToLikes: 0.059943
-    id: ck5hf94ruwe260i11tp16qd5o
-    verified: false
-    hashtags: "#portraitphotography, #globe, #ig, #arizonamodel"
-  - username: "karen_bonmati"
+    followers: 798515
+    engagement: 321
+    commentsToLikes: 0.015182
+    id: ck0vxlb9hzgs30i19o9xan1q9
+    verified: true
+    hashtags: "#goals, #running, #healthyrecipes, #protein"
+  - username: "drjoshuawolrich"
     fullname: >-
-      🅚🅐🅡🅔🅝 🅑🅞🅝🅜🅐🅣🅘®
+      Dr Joshua Wolrich MBBS MRCS
     bio: >-
-      🙋🏼‍♀️MumFirst.#seisencasa 👩🏼‍🎓Lda.Nutrition&FoodTech.[Obesity-Psich-TCA] 👩🏼‍💻 Welcome 2D 🅺🅰🆆🅰🅸🆅🅸🅿🅲🅻🆄🅱®️ [IfYouDon'tLike🚷Don't Disturb]👋🏻😉 📍🌍
+      🩺NHS doctor (HAES®️) & nutritionist (MSc ANutr) 📖bestselling author: ‘Food Isn’t Medicine’ 🥨founder of Weight-Neutral Nutrition max@matchstickgroup.co
     location: "United Kingdom"
-    followers: 104650
-    engagement: 134
-    commentsToLikes: 0.080075
-    id: ck5hd7jxwlxop0i117ukkkau7
-    verified: false
-    hashtags: "#lookoftheday, #ootd, #inspo, #newcollection"
-  - username: "ltrfitness"
+    followers: 388569
+    engagement: 311
+    commentsToLikes: 0.020987
+    id: ck0tvpefdc9u20i19eftmvr5y
+    verified: true
+    hashtags: "#unlockyourself, #myhappyplace, #ad, #bendtheknee"
+  - username: "breakingnutritionist"
     fullname: >-
-      Lauren
+      Mira
     bio: >-
-      Qualified Personal Trainer 🏋🏻‍♀️ L4 Nutrition Student 🍏 Deficit, Round 2 🐎 Fuelled by Green Tea and KitKats 🍵
+      MSc. Performance Nutrition BSc. Sport & Exercise Science 🎬Breaker & SPACT Performer 📈Improve your Heath & Performance in less than 4 minutes a week.👇🏻
     location: "United Kingdom"
-    followers: 3064
-    engagement: 1348
-    commentsToLikes: 0.362984
-    id: ckf5qx566ap310j23wnnmplta
+    followers: 1202
+    engagement: 281
+    commentsToLikes: 0.116149
+    id: cl10kq0r6vzcv0i23d9dz54z6
     verified: false
-    hashtags: "#gymsharktrain, #gymsharkwomen, #bulking, #motivationmonday"
-  - username: "sweatwithsana"
+    hashtags: "#transition, #bboy, #nutritionist, #fun"
+  - username: "kieliszkowskimateusz"
     fullname: >-
-      Sana Shirvani
+      Mateusz Kieliszkowski
     bio: >-
-      🎬 Film & TV Cast Personal Trainer 🏋🏽‍♀️ Private PT / S&C Coach 🍎 Nutrition Coach 👶🏽 Pre/post Natal 🇮🇷 Blood 🇬🇧 Born & Raised
+      Professional strongman @roguefitness @sbdapparel @real_pharm_nutrition @reignbodyfuel Athlete
     location: "United Kingdom"
-    followers: 11659
-    engagement: 466
-    commentsToLikes: 0.142573
-    id: ck5hpc4l2r4450i118yhp08q3
+    followers: 165638
+    engagement: 267
+    commentsToLikes: 0.010901
+    id: ck0w0glhoe39c0i199f2yofj1
     verified: false
-    hashtags: "#strengthandconditioning, #homeworkout, #mindsetmatters, #sweatwithsana"
-  - username: "georgidance"
+    hashtags: "#gym, #training, #strongman, #rogueinvitational"
+  - username: "bsiddlife"
     fullname: >-
-      G
+      Bushra Siddique
     bio: >-
-      Personal trainer / online coach 🍑 @quicknutrition_ - meal prep/nutrition @gluteywear georgid J 🤍
+      🌱 Nutrition & Wellness Coach @wellbeingbybushra 👩🏽‍🎨 Designer @bsiddloves | available online/ASOS 📧 bsidd1234@gmail.com
     location: "United Kingdom"
-    followers: 21942
-    engagement: 407
-    commentsToLikes: 0.053002
-    id: ck5cbzel9gft20i11jj2b0spa
+    followers: 67842
+    engagement: 251
+    commentsToLikes: 0.014735
+    id: ck139d91pkqjb0i19vds0sud7
     verified: false
-    hashtags: "#smeartest, #smearcampaign, #smearforsmear, #jocervicalcancertrust"
+    hashtags: "#momlife, #bloomingintospring, #londonlife, #mommyandme"
 ---

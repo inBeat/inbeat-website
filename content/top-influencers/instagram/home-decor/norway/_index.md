@@ -1,12 +1,72 @@
 ---
-title: Top 10 Home Decor Instagram Influencers In Norway In 2023
+title: Top 10 Home Decor Instagram Influencers In Norway In 2024
 description: >-
-  Find top home decor Instagram influencers in Norway in 2023. Most popular hashtags: #interior #interiordesign #homedecor #interi.
+  Find top home decor Instagram influencers in Norway in 2024. Most popular hashtags: #interi #homedecor #interior #interiordesign.
 platform: Instagram
-hits: 42
-text_top: Analyze the most popular Instagram profiles on inBeat.
-text_bottom: Our database aggregates 42 Instagram influencers like this in Norway for you to work with.
+hits: 49
+text_top: Analyze the best Instagram influencers on inBeat.
+text_bottom: Our search engine has 49 Instagram influencers like this in Norway for you to collaborate.
 profiles:
+  - username: "elinhjemli"
+    fullname: >-
+      ELIN HJEMLI 🌱
+    bio: >-
+      🛠️ Totalrenoverer det nye huset vårt! ✨ Finalist Gullfjæren 22 ✨ Semifinalist Vixen 22 🌱 Planter, DIY, oppskrifter, oppussing 📧 Samarbeid• mail/dm
+    location: "Norway"
+    followers: 64155
+    engagement: 227
+    commentsToLikes: 0.123093
+    id: ck55of7hc88ib0i11ve4e8ogj
+    verified: false
+    hashtags: "#savingtips, #vougeinteriors, #livingroom, #rom123"
+  - username: "katarinapetrovic"
+    fullname: >-
+      Katarina Petrovic
+    bio: >-
+      Founder @studiothemodest Renovation project @villafellingfors Oslo, Norway For inquires: katarinapetrovic@hotmail.com
+    location: "Norway"
+    followers: 36346
+    engagement: 97
+    commentsToLikes: 0.011392
+    id: ck0tw6ln8e8xf0i19dd0ma0o8
+    verified: false
+    hashtags: "#dailystyle, #babygirl, #livingroom, #lookoftheday"
+  - username: "anettevs"
+    fullname: >-
+      Anette Veronica 🇳🇴 Homedecor | Travelling| Lifes moments
+    bio: >-
+      Just a girl capturing her home and life in squares💗 Lover of home & garden, animals, God, travelling and all things pink🌸
+    location: "Norway"
+    followers: 11934
+    engagement: 133
+    commentsToLikes: 0.377402
+    id: ck0ty9wkwm3230i19mrwfkgyc
+    verified: false
+    hashtags: "#finehjem, #julepynt, #juletr, #interior"
+  - username: "mittlillehjerte"
+    fullname: >-
+      Janne Iversen | Norway
+    bio: >-
+      ◼️Vinner av Gullfjæren interior awards årets stue 2020 🏆 ◽️Finalist Gullfjæren 2019 ◾️Scandinavian interiorstyler ◽️Photo 📧 janne.iversen78@gmail.com
+    location: "Norway"
+    followers: 135821
+    engagement: 31
+    commentsToLikes: 0.149650
+    id: ck138p1gnhapa0i19j4rzi3g5
+    verified: false
+    hashtags: "#fermliving, #obellolamp, #myneutralhomer, #shabbyyhomes"
+  - username: "rorkjop"
+    fullname: >-
+      Baderom | Våtrom | Kjøkken
+    bio: >-
+      Det beste valget!🛠️ Vi er mer enn 440 rørleggerbedrifter, tilbyr uforpliktende befaring og har nettbutikk💦💙 Bruk #rørkjøp for repost
+    location: "Norway"
+    followers: 148990
+    engagement: 32
+    commentsToLikes: 0.017007
+    id: ck0u6gy1m20ur0i19fur0bmun
+    verified: false
+    hashtags: "#mynordicroom, #bonytt, #interiordesign, #modernhome"
   - username: "helenegjessing"
     fullname: >-
       H E L E N E 🌙
@@ -19,18 +79,6 @@ profiles:
     id: ck5c1mhpwvh9d0i11tvplniaa
     verified: false
     hashtags: "#popofgreen, #beachy, #beach, #beauty"
-  - username: "elinhjemli"
-    fullname: >-
-      ELIN HJEMLI 🌱
-    bio: >-
-      ➳ Planter ❀ Prematurmamma ♡ Gillis 260619 ❀ Collab • ᴰᴹ
-    location: "Norway"
-    followers: 21709
-    engagement: 651
-    commentsToLikes: 0.471748
-    id: ck55of7hc88ib0i11ve4e8ogj
-    verified: false
-    hashtags: "#ourluxuryhome, #interior12follow, #interior4inspo, #mynordicroom"
   - username: "byphiamarie"
     fullname: >-
       Phia Andersson~Interiør Hage
@@ -55,18 +103,6 @@ profiles:
     id: ck5hlp5acklj70i11argwskt8
     verified: false
     hashtags: "#decor, #casapedersen, #delmitthjem, #nordichomes"
-  - username: "casa_pedersen"
-    fullname: >-
-      Sandra Pedersen
-    bio: >-
-      🤍 26 år, forlovet med Marius 💭Deler alt fra interiør til sminke og klær ✉️caasapedersen@gmail.com
-    location: "Norway"
-    followers: 79590
-    engagement: 336
-    commentsToLikes: 0.048163
-    id: ck8t5qp4bawp30j78m8ivln8n
-    verified: false
-    hashtags: "#nordichome, #homedecor, #scandinaviandesign, #outdoorliving"
   - username: "skavangergaard"
     fullname: >-
       Interiør • Styling • Bolig
@@ -91,40 +127,4 @@ profiles:
     id: ck8sw06uqdcmm0j78ge7bkrj6
     verified: false
     hashtags: "#monochromehome, #luxuryinteriorsonabudget, #myaastyle, #stuami"
-  - username: "lauvhaug"
-    fullname: >-
-      Anne Liv F. Lauvhaug✌🏽
-    bio: >-
-      27 | Occupational Therapist | Interior enthusiast | Renovating our new apartment from 1919 in Oslo, Norway
-    location: "Norway"
-    followers: 92439
-    engagement: 147
-    commentsToLikes: 0.089511
-    id: ck0udp0t8jikz0i19lcrwy8ns
-    verified: false
-    hashtags: "#hem, #homedecor, #home, #interior123"
-  - username: "osloleiligheten"
-    fullname: >-
-      Siv Runi Gammelsæter
-    bio: >-
-      ✉️ osloleiligheten.sivg@gmail.com 🖤Interiorlove 🔑New apartment 2020 🛋 Sharing from #torsdagshjemmet and #minplantefavoritt
-    location: "Norway"
-    followers: 6446
-    engagement: 483
-    commentsToLikes: 0.204508
-    id: ck5hsm7qzwtgh0i118j2rod0t
-    verified: false
-    hashtags: "#nordichomes, #interior4all, #currentdesignsituation, #livingroominspo"
-  - username: "mariaf1212"
-    fullname: >-
-      M A R I A  P E D E R S E N
-    bio: >-
-      Trondheim/Norway🇳🇴 -Passion for interior and details🤎 Contact:kepedersen2009@gmail.com or DM Credit my photos©️
-    location: "Norway"
-    followers: 14970
-    engagement: 164
-    commentsToLikes: 0.134379
-    id: ck601axy0f5sd0i14w7ew1pgo
-    verified: false
-    hashtags: "#livingroomideas, #hygge, #your, #decor"
 ---

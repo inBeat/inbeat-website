@@ -1,11 +1,11 @@
 ---
-title: Top 10 Beauty TikTok Influencers In Morocco In 2023
+title: Top 10 Beauty TikTok Influencers In Morocco In 2024
 description: >-
-  Find top beauty TikTok influencers in Morocco in 2023. Most popular hashtags: #fyp #morocco #foryou #makeup.
+  Find top beauty TikTok influencers in Morocco in 2024. Most popular hashtags: #fyp #morocco #foryou #makeup.
 platform: TikTok
 hits: 20
-text_top: Analyze the best TikTok influencers on inBeat.
-text_bottom: inBeat aggregates 20 TikTok influencers like this in Morocco for you to connect with.
+text_top: Analyze the top-rated TikTok accounts on inBeat.
+text_bottom: Our platform holds 20 TikTok influencers like this in Morocco for you to pitch.
 profiles:
   - username: "isleym.b"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.012573
     id: ck7zoyuuwmj0f0j789labv47u
     verified: false
-    hashtags: "#fyp, #isleymnails, #nailtech, #smallbusiness"
+    hashtags: "#foryoupage, #fyp, #nailtech, #smallbusiness"
   - username: "kids.board.maroc"
     fullname: >-
       kids.board.maroc

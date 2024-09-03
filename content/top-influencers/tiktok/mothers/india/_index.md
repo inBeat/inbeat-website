@@ -1,11 +1,11 @@
 ---
-title: Top 10 Mothers TikTok Influencers In India In 2023
+title: Top 10 Mothers TikTok Influencers In India In 2024
 description: >-
-  Find top mothers TikTok influencers in India in 2023. Most popular hashtags: #foryou #tiktok #foryoupage #sharethecare.
+  Find top mothers TikTok influencers in India in 2024. Most popular hashtags: #foryou #tiktok #foryoupage #sharethecare.
 platform: TikTok
 hits: 815
-text_top: See the top-rated TikTok accounts on inBeat.
-text_bottom: Our database aggregates 815 TikTok influencers like this in India for you to pitch.
+text_top: Analyze the most popular TikTok accounts on inBeat.
+text_bottom: Our platform aggregates 815 TikTok influencers like this in India for you to connect with.
 profiles:
   - username: "nagamanupapa"
     fullname: >-

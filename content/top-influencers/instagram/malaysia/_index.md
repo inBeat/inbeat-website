@@ -1,130 +1,130 @@
 ---
-title: Top 10 Instagram Influencers In Malaysia In 2023
+title: Top 10 Instagram Influencers In Malaysia In 2024
 description: >-
-  Find top Instagram influencers in Malaysia in 2023. Most popular hashtags: #supportlocal #duducoffeeart #talents.
+  Find top Instagram influencers in Malaysia in 2024. Most popular hashtags: #malaysia #photography #throwback #love.
 platform: Instagram
-hits: 1179
-text_top: Analyze the best Instagram influencers on inBeat.
-text_bottom: Our database holds 1179 Instagram influencers like this in Malaysia for you to contact.
+hits: 1385
+text_top: Analyze the top-rated Instagram influencers on inBeat.
+text_bottom: Our search engine holds 1385 Instagram influencers like this in Malaysia for you to connect with.
 profiles:
-  - username: "winmetawin"
+  - username: "gladishchan"
     fullname: >-
-      Win Metawin O.
+      Gladish Chan祤琹😄
     bio: >-
-      For work contact 02-669-9079 (GMMTV) 091-915-5464 (P’Eed) GMMTVARTISTS@GMAIL.COM
+      🇲🇾Influencer |Youtuber| Lifestyle 💼For job enquiry : gladishofficial@gmail.com My Girl @tara.tara0309 @gladishwahaha 🐶：@potatopoodle @steadydotdot
     location: "Malaysia"
-    followers: 14209976
+    followers: 450784
+    engagement: 413
+    commentsToLikes: 0.004183
+    id: ck6twwl8duijd0j71yu53142i
+    verified: false
+    hashtags: "#ulike, #malaysiaairlines, #guardianmy, #myguardianchoice"
+  - username: "izzataramis"
+    fullname: >-
+      izzataramis®
+    bio: >-
+      ANGS | Malaysian 🇲🇾 Hustlin' for @shawlistaofficial
+    location: "Malaysia"
+    followers: 20847
+    engagement: 460
+    commentsToLikes: 0.034945
+    id: ck8t9kz2zoh8r0j78jyyxb6oh
+    verified: false
+    hashtags: "#love, #eidmubarak, #fitness, #cycling"
+  - username: "kcccc__c"
+    fullname: >-
+      Kar chun____🐧｜奋斗企鹅
+    bio: >-
+      🇲🇾 ◆Food Hunter🍔🍜🍕🍣🍰🧋 💼 ◆Sponsorship ◆Content Creater◆ 🕊️ ◆Jack0510lkc@gmail.com 🐧 ◆唯一小号:@mr.penguin72 📕小红书 ⤵️
+    location: "Malaysia"
+    followers: 32374
+    engagement: 1635
+    commentsToLikes: 0.012988
+    id: ck5pv2mfjftfv0i11geyx79er
+    verified: false
+    hashtags: "#shampoo, #sorethroat, #dancechallenge, #photo"
+  - username: "colleenaugustinmma"
+    fullname: >-
+      Colleen Augustin | MMA Fighter
+    bio: >-
+      Kasun J. Botheju 💍❤️ @belifmalaysia “BELIFCOLL” @myprotein “COLLEEN” @samsungmalaysia “CAUGW5”
+    location: "Malaysia"
+    followers: 11479
+    engagement: 470
+    commentsToLikes: 0.021778
+    id: ck0u22cyoyooh0i19ffdyivtt
+    verified: false
+    hashtags: "#gym, #throwback, #fitness, #girlswhofight"
+  - username: "markodea8"
+    fullname: >-
+      Mark O’dea (ALAMARK!)
+    bio: >-
+      📺 TV Host 🎬 Actor 🕺Content Creator Astro SuperSport 📺🇲🇾 mkod.enquiries@gmail.com
+    location: "Malaysia"
+    followers: 251122
+    engagement: 562
+    commentsToLikes: 0.011510
+    id: ck6u0ddpjf1al0j71m5sawp2a
+    verified: true
+    hashtags: "#selamathariraya, #monthofgood, #playwithoreopok, #raya2024"
+  - username: "sweatlee"
+    fullname: >-
+      Suet Li
+    bio: >-
+      👩‍🏫 Passionate Malaysian and advocate for educational excellence and equity 💉 @sweatlee_ivf for updates on my IVF journey 💌 suetliliew@gmail.com
+    location: "Malaysia"
+    followers: 28121
     engagement: 483
-    commentsToLikes: 0.010647
-    id: ck8tay3ahtjxa0j78v20rkn96
-    verified: true
-    hashtags: "#ais5g, #winonemorechance, #pradaholiday22, #sosxwin"
-  - username: "leeyufen"
-    fullname: >-
-      Tia Lee 李毓芬
-    bio: >-
-      TIA LEE 李毓芬 x NERVO Remix 【GOODBYE PRINCESS 再見公主】 YouTube Link ⬇️
-    location: "Malaysia"
-    followers: 4646665
-    engagement: 272
-    commentsToLikes: 0.003589
-    id: ck15s8k74brs50i19qlc0f3t0
-    verified: true
-    hashtags: "#temptationapple, #thevoice, #thebeginning, #empowerherdance"
-  - username: "elecherlee"
-    fullname: >-
-      Elecher 一粒車
-    bio: >-
-      @minielemu @oni.maltese @muziahau 🧝🏻‍♀️ @chers_co 👸🏻 @chevin_global 🥘 @shudaxiahotpot_klangvalley 💌 elecher_0606@hotmail.com FB/YouTube: Elecher一粒車
-    location: "Malaysia"
-    followers: 426716
-    engagement: 238
-    commentsToLikes: 0.004078
-    id: ck5chxpvzrn9t0i118pgw7g81
+    commentsToLikes: 0.015588
+    id: ck8t44cur5gwv0j78svwzrlez
     verified: false
-    hashtags: "#travelwithireneso, #amm, #hoshinoresorts, #fun"
-  - username: "kivi0223"
+    hashtags: "#blw, #kidsrecipes, #12monthsold, #babyrecipes"
+  - username: "siulim"
     fullname: >-
-      KIᐯI🔅李芸
+      Siu Lim
     bio: >-
-      🤍工作請洽《曹哥》 ssicco1@gmail.com 0938-697-071 0973-867-373 ：：：：：：： 🐈 @modaxmiu 🎥 YT🔍KIVI李芸
+      Cert Pilates Instructor @theflowstudio | Content Creator | Cert Nutritionist | fitness | lifestyle | Mother of 4 l hisiulim@gmail.com
     location: "Malaysia"
-    followers: 67497
-    engagement: 224
-    commentsToLikes: 0.011947
-    id: ck5q40vizn8pk0i1158harxr6
+    followers: 67181
+    engagement: 1441
+    commentsToLikes: 0.029992
+    id: ck5q1rlptcfmz0i11mepegscy
     verified: false
-    hashtags: "#kivi, #20210726, #boi, #rodeodrive"
-  - username: "iam_hafizihamizi"
+    hashtags: "#100peratusmantap, #larocheposaymy, #nodandruff, #pasticlear"
+  - username: "yunarahim"
     fullname: >-
-      𝗛𝗔𝗙𝗜𝗭𝗜 🔸Malaysia
+      Yuna Rahim
     bio: >-
-      👨🏻‍🏫offical account 🌾Kuala Lumpur Only account No second account, No litmatch account-all fake
+      Job enquiries: +60198844004 (ACTING) Liza- Manager ✉️ yuna@xeno.asia @xenorocks
     location: "Malaysia"
-    followers: 86372
-    engagement: 214
-    commentsToLikes: 0.014914
-    id: ck14jm3owl19i0i19ckop85ne
+    followers: 240364
+    engagement: 405
+    commentsToLikes: 0.005296
+    id: ck0tug95a70rd0i19vex6v4ga
     verified: false
-    hashtags: "#crinkleisbetter, #sonnomattress, #xmascampaign, #hotel"
-  - username: "dennisyin"
+    hashtags: "#astroprima, #dry, #nicolabeauty, #niveahokkaidorose"
+  - username: "ahcat.c"
     fullname: >-
-      Dennis Yin
+      CATHERINE CHAI
     bio: >-
-      LIVE.LOVE.LIFE @catx.global Chief Brand Officer 🚀 @malayaapeclub 🦧 @houseofchampionsmy Owner 🏋🏻‍♂️ @adidas Creator 👟 @myproteinmy Athlete 💪🏼
+      #經濟獨立最美麗 💛 ——— 激發女性的創造力 The 100 MOST INFLUENTIAL ENTREPRENEURS 2019 #CATPOWERMONDAY 世界上有100種方法, 但我們只需要一種逆向思維。
     location: "Malaysia"
-    followers: 102777
-    engagement: 184
-    commentsToLikes: 0.012610
-    id: ck5hnu5uvoec30i117cztpcwm
-    verified: true
-    hashtags: "#tastethegoodtimes, #celebrateresponsibly, #connorsmy, #newstartahead"
-  - username: "ayieelhamf88"
-    fullname: >-
-      Tuan Nicky
-    bio: >-
-      -TNCKY- Husbaby @tashaawie 💍 Daddy to @aetajunior 👨🏻‍🍼 Founder: @aeta.perfume.officialhq IG review(DM ME)
-    location: "Malaysia"
-    followers: 460180
-    engagement: 163
-    commentsToLikes: 0.005658
-    id: ck136lt2c74dg0i19lq50eba8
+    followers: 64557
+    engagement: 418
+    commentsToLikes: 0.005886
+    id: ck8sy846rk1xp0j78aprkt9ka
     verified: false
-    hashtags: "#artismalaysia, #comedylife, #comedy, #socialmedia"
-  - username: "josephgermani"
+    hashtags: "#bardoxfriends, #bardox, #catsongroup, #bhealthybhappy"
+  - username: "loojialeeeee"
     fullname: >-
-      Joseph Germani
+      Daniel Loo 大牛
     bio: >-
-      📍Currently in Kuala Lumpur, Malaysia 🇲🇾 ✨ Content Creator | YouTuber | Gamer | Mini NFT Collector | Home Cook 👨‍🍳 ⬇️ My Socials ✨
+      🇲🇾Malaysia特别biè用词！ 📺TikTok(200k)｜Youtube(160k) . . For work: Manager +60189478597 Email: mnbstudiosmanagement@gmail.com
     location: "Malaysia"
-    followers: 66435
-    engagement: 159
-    commentsToLikes: 0.025965
-    id: ck6twvn9rucve0j711m30hrvj
+    followers: 99226
+    engagement: 811
+    commentsToLikes: 0.006706
+    id: ck5chwiurrlc70i117viql1sq
     verified: false
-    hashtags: "#homecook, #homecooking, #josephgotalicia, #diptyque"
-  - username: "dududedoodle"
-    fullname: >-
-      DuDu Kent
-    bio: >-
-      Art, Coffee, Food and Travel #DuDuXplores #DuDuCoffeeArt ✉️dududedoodle@gmail.com
-    location: "Malaysia"
-    followers: 60959
-    engagement: 153
-    commentsToLikes: 0.005005
-    id: ck136puxd7ocb0i19eu71b4fl
-    verified: false
-    hashtags: "#dududedoodle, #igfeedsmenarik, #coffeepainting, #my"
-  - username: "marklee4444"
-    fullname: >-
-      marklee 本土天王 李国煌
-    bio: >-
-      Join My Telegram https://t.m/markleemarkoftreasure DM for Collaborations Follow me about my NFT learning journey at my twitter account 👇🏻
-    location: "Malaysia"
-    followers: 149019
-    engagement: 126
-    commentsToLikes: 0.015551
-    id: ck55n9yfl5rkl0i11o2hu9ni1
-    verified: true
-    hashtags: "#kingkongmediaproduction, #meiziya, #kingkongcreativemedia, #chinesenewyear"
+    hashtags: "#insta360, #miloboostup, #hotelmalaysia, #hoteljohor"
 ---

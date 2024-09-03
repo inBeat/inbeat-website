@@ -1,11 +1,11 @@
 ---
-title: Top 10 Cooking TikTok Influencers In Malaysia In 2023
+title: Top 10 Cooking TikTok Influencers In Malaysia In 2024
 description: >-
-  Find top cooking TikTok influencers in Malaysia in 2023. Most popular hashtags: #fyp #tiktokmalaysia #malaysia #cooking.
+  Find top cooking TikTok influencers in Malaysia in 2024. Most popular hashtags: #fyp #cooking #tiktokmalaysia #malaysia.
 platform: TikTok
 hits: 12
-text_top: Analyze the top-rated TikTok profiles on inBeat.
-text_bottom: Our search engine has 12 TikTok influencers like this in Malaysia for you to pitch.
+text_top: Identify the most popular TikTok influencers on inBeat.
+text_bottom: Our platform holds 12 TikTok influencers like this in Malaysia for you to connect with.
 profiles:
   - username: "hemahmanimaran"
     fullname: >-
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.016975
     id: ck8vyikg3u7wh0j78uuq3zc9f
     verified: false
-    hashtags: "#learnontiktok, #mjrecipes, #syawal2021, #ramadanmubarak"
+    hashtags: "#easyrecipes, #laparketuw, #cookingwithmj, #syawal2021"
   - username: "johnsom.eattravel"
     fullname: >-
       Johnsom阿勇-旅游美食TV

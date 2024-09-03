@@ -1,24 +1,36 @@
 ---
-title: Top 10 Djs Instagram Influencers In Russia In 2023
+title: Top 10 Djs Instagram Influencers In Russia In 2024
 description: >-
-  Find top djs Instagram influencers in Russia in 2023. Most popular hashtags: #music #moscow #twins.
+  Find top djs Instagram influencers in Russia in 2024. Most popular hashtags: #techno #music #sound.
 platform: Instagram
 hits: 51
-text_top: Identify the best Instagram influencers on inBeat.
-text_bottom: inBeat holds 51 Instagram influencers like this in Russia for you to contact.
+text_top: Analyze the top-rated Instagram influencers on inBeat.
+text_bottom: Our search engine holds 51 Instagram influencers like this in Russia for you to work with.
 profiles:
+  - username: "djtwins_official"
+    fullname: >-
+      Anna Grushina
+    bio: >-
+      Official AC of Twins DJ's ⚫️Bkgs Ru/UAE/TR: +79185998526 ~ Mila ⚫️Bkgs Worldwide: sz@lgm.live ~Lana ⚫️PR: @djtwins_pr
+    location: "Russia"
+    followers: 1480980
+    engagement: 379
+    commentsToLikes: 0.009375
+    id: ck5zo291pplqp0i146yob1vxk
+    verified: false
+    hashtags: "#laladance"
   - username: "dj_litchi"
     fullname: >-
-      Litchi 🎵
+      LITCHI
     bio: >-
-      💿 TOP 100 FEMALE DJS IN THE WORLD BY DJANETOP. COM 17/18, AsiaEdm 🌍 Travels, 🌿 💜 Collab: djlichi@inbox.ru 📩 Moscow🇷🇺booking: asxat@yourbooking.agency
+      🌏Top100 female DJs World 🎵afro/ Melodic / progressive /techno 📀 Beat Freak, Sirup, Perspectives Digital Booking : emma@undermoon.it
     location: "Russia"
-    followers: 79472
-    engagement: 204
-    commentsToLikes: 0.090189
+    followers: 78756
+    engagement: 139
+    commentsToLikes: 0.040675
     id: ck15q86eq1k2h0i19wwo4q5v9
     verified: false
-    hashtags: ""
+    hashtags: "#bangalore, #technotour, #techno, #peacktimetechno"
   - username: "n_joy_djs"
     fullname: >-
       Наумов Сергей Андрей
@@ -31,18 +43,6 @@ profiles:
     id: ck8t9aotunf4a0j78mxii0h0i
     verified: false
     hashtags: "#djs, #show, #sound, #moscowlife"
-  - username: "djtwins_official"
-    fullname: >-
-      Twins Project Dj's👯
-    bio: >-
-      Moscow🇷🇺Аня,Крис TikTok 1,2🍋+ Celebrity Djs🌟🎧👯‍♀️🎧 •МУЗ-ТВ •ЖАРА ⚫Booking +79688294780 Sergei +79185998526 Mila ⚫PR,реклама @contentclan_pr
-    location: "Russia"
-    followers: 450072
-    engagement: 161
-    commentsToLikes: 0.015233
-    id: ck5zo291pplqp0i146yob1vxk
-    verified: false
-    hashtags: "#world, #djtwins, #concertdirector, #djset"
   - username: "djportnov"
     fullname: >-
       Павел Портнов радио Шоколад

@@ -1,60 +1,96 @@
 ---
-title: Top 10 Djs Instagram Influencers In Australia In 2023
+title: Top 10 Djs Instagram Influencers In Australia In 2024
 description: >-
-  Find top djs Instagram influencers in Australia in 2023. Most popular hashtags: #dj #music #livemusic #melbourne.
+  Find top djs Instagram influencers in Australia in 2024. Most popular hashtags: #reels #literacyisfreedom #instagram.
 platform: Instagram
-hits: 25
-text_top: See the best Instagram influencers on inBeat.
-text_bottom: inBeat has 25 Instagram influencers like this in Australia for you to contact.
+hits: 28
+text_top: See the best Instagram accounts on inBeat.
+text_bottom: Our database has 28 Instagram influencers like this in Australia for you to work with.
 profiles:
   - username: "thefadersdjs"
     fullname: >-
       
     bio: >-
-      DJs, Universal Music Agent, IMG Global Comms, Oakley jo@jwtp.com.au kg@samebutdifferent.agency #thefadersdjs
+      DJs, Universal Music kailei@samebutdifferent.agency #thefadersdjs
     location: "Australia"
-    followers: 26990
-    engagement: 154
-    commentsToLikes: 0.052597
+    followers: 28394
+    engagement: 133
+    commentsToLikes: 0.070363
     id: ck0w2etixo00w0i19sfpn8gts
     verified: false
-    hashtags: "#monetandfriends"
+    hashtags: "#dracomalfoy, #bentay"
+  - username: "tydi"
+    fullname: >-
+      TYDI
+    bio: >-
+      Music Composer, Songwriter, Film Score, Sound Designer, Software Consultant, Engineer, Autopilot, Producer, Artist (3X top 100 DJ's of the world).
+    location: "Australia"
+    followers: 178255
+    engagement: 38
+    commentsToLikes: 0.241134
+    id: ck5c1tdtfvw0w0i119j6hrlvo
+    verified: true
+    hashtags: "#tbt, #agenda2030, #freespeech, #vibes"
+  - username: "mitchell.wick"
+    fullname: >-
+      Mitchell Wick
+    bio: >-
+      A bit of everything! 📸🎧🧑🏽‍💻 @onehitagency 🎧 @in2am.djs 🎧
+    location: "Australia"
+    followers: 337772
+    engagement: 32
+    commentsToLikes: 5.481205
+    id: ck137qwf7cxi00i19rmvbyqgp
+    verified: false
+    hashtags: "#greatkeppelisland"
   - username: "djsyrahofficial"
     fullname: >-
       Dj Syrah
     bio: >-
       #djsyrah DJ/Producer From Indore 🎧🎹🎶 For Bookings Email ➡️ djsyrahofficial@gmail.com www.facebook.com/djsyrahofficial
     location: "Australia"
-    followers: 52773
-    engagement: 317
-    commentsToLikes: 0.019850
+    followers: 54602
+    engagement: 241
+    commentsToLikes: 0.020212
     id: ck0vz2cxb6xu30i19730s8zzo
     verified: false
-    hashtags: "#album, #gig, #femaledj, #dj"
-  - username: "_blackloops_"
+    hashtags: "#retro, #reelkarofeelkaro, #bachpankapyar, #djsyrah"
+  - username: "adamroy37"
     fullname: >-
-      Black Loops
+      Adam Goodes
     bio: >-
-      Bookings: booking@ninkasi.co
+      Ambassador-@davidjonesstore @qantas @toyota_aus @woolworths_au Director-@alnf_ @gofoundationau @idic.au Activist- @wanderlustausnz
     location: "Australia"
-    followers: 16733
-    engagement: 511
-    commentsToLikes: 0.045529
-    id: ck136hojb6jz00i19ath9vwhb
+    followers: 71314
+    engagement: 684
+    commentsToLikes: 0.024638
+    id: ck5hi7l1sc28f0i11xx1iokqi
     verified: false
-    hashtags: "#newep, #shallnotfade, #blackloops, #vineyards"
-  - username: "mavournee"
+    hashtags: "#literacyisfreedom, #mentalhealth, #experience, #voice"
+  - username: "tomderickx"
     fullname: >-
-      MAVOURNEE
+      Tom Derickx
     bio: >-
-      🌶 WICKED SWEET 🌶 Melbourne, Australia represented by Sue Barnett
+      @studioderickx @KAYEXLIFE @ruokday alex@ak-collective.com
     location: "Australia"
-    followers: 91733
-    engagement: 166
-    commentsToLikes: 0.016191
-    id: ck5q1m82ubo0a0i1185jn543y
+    followers: 30979
+    engagement: 130
+    commentsToLikes: 0.059384
+    id: ck0u6t8qm2y5v0i195d7xy6v2
     verified: true
-    hashtags: "#thebeautycut, #ad, #djsbeauty"
+    hashtags: "#ad, #thefinalsentence, #davidjones, #tamworthnsw"
+  - username: "roberto_surace"
+    fullname: >-
+      Roberto Surace
+    bio: >-
+      DJ & Producer @suramusiclabel MGMT & Bookings: luca@orbeat.com / salvatore@orbeat.com 👇🏻MY NEW SINGLE MAKE ME WANNA OUT NOW🏖
+    location: "Australia"
+    followers: 48414
+    engagement: 295
+    commentsToLikes: 0.139972
+    id: ck0w2gvt2ob5u0i190d7gtdxj
+    verified: true
+    hashtags: "#party, #newmusic, #partyagain, #robertosurace"
   - username: "dj_ninobrown"
     fullname: >-
       𝘿𝙅 𝙉𝙞𝙣𝙤 𝘽𝙧𝙤𝙬𝙣
@@ -67,54 +103,6 @@ profiles:
     id: ck13acd6tpols0i19lon3m8bk
     verified: false
     hashtags: "#gorosmaryst, #goros, #chiefrockersound, #linkinbio"
-  - username: "shaynetino"
-    fullname: >-
-      SHAYNE TINO
-    bio: >-
-      Creative Director.... @rimagind @catalyst_and @sneaky_studio MGMT: lily@lmbmanagement.com.au
-    location: "Australia"
-    followers: 48898
-    engagement: 263
-    commentsToLikes: 0.015901
-    id: ck5cigy0hsmnr0i11h4clg3dr
-    verified: false
-    hashtags: "#artdirection, #mycottonon, #cottononmen, #galaxywatch3"
-  - username: "brendancphoto"
-    fullname: >-
-      Brendan | Perth Photographer
-    bio: >-
-      Australian Music & Portrait Photographer Available for Gigs, Tour, Events Director @highplacesau Images are not to be reproduced without consent
-    location: "Australia"
-    followers: 14989
-    engagement: 432
-    commentsToLikes: 0.061376
-    id: ck5zv6xfp3p240i14bk7wj4m5
-    verified: false
-    hashtags: "#photography, #perth, #hiphop, #canon"
-  - username: "travispriceillustration"
-    fullname: >-
-      travispriceillustration
-    bio: >-
-      Australian Freelance illustrator/designer working in the advertising and apparel industry. Info@travisprice.com.au Art directors only.
-    location: "Australia"
-    followers: 57180
-    engagement: 270
-    commentsToLikes: 0.019842
-    id: ck15s8ilybrje0i19uatbs3px
-    verified: false
-    hashtags: "#tgif, #hardknox, #friday, #travisprice"
-  - username: "sharonjohal"
-    fullname: >-
-      SHARON JOHAL
-    bio: >-
-      🎬Actor @morrisseymanagement 💁🏽‍♀️IMG @imgtalent 🎙Pod @we_are_the_real_ones 🐾Pup @bosco_the_blue 👩🏽‍🎓Lawyer BComLLB •Human Rights•Art•Fashion•Culture•
-    location: "Australia"
-    followers: 61874
-    engagement: 219
-    commentsToLikes: 0.048380
-    id: ck0tvnxf4c3140i1908x3na5h
-    verified: true
-    hashtags: "#pride, #bekind, #livemusic, #sharonjohal"
   - username: "jarradlees.sax"
     fullname: >-
       J A R R A D   L E E S  🎷
@@ -127,4 +115,16 @@ profiles:
     id: ck5qaz64ej0o20i11j6985f51
     verified: false
     hashtags: "#saxophone, #dj, #fun, #melbourne"
+  - username: "brookehogan1"
+    fullname: >-
+      
+    bio: >-
+      
+    location: "Australia"
+    followers: 34
+    engagement: 2225796
+    commentsToLikes: 0.007829
+    id: ck0w1jy7ajpyt0i19dmrbels7
+    verified: true
+    hashtags: "#djslikenoother, #fitnessfirstfam, #bridgethegap, #chadstonecaters"
 ---

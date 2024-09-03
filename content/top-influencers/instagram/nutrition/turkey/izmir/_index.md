@@ -1,24 +1,24 @@
 ---
-title: Top 10 Nutrition Instagram Influencers In Izmir In 2023
+title: Top 10 Nutrition Instagram Influencers In Izmir In 2024
 description: >-
-  Find top nutrition Instagram influencers in Izmir in 2023. Most popular hashtags: #izmir #challenge #istanbul.
+  Find top nutrition Instagram influencers in Izmir in 2024. Most popular hashtags: #istanbul #izmir #ankara #repost.
 platform: Instagram
 hits: 4
-text_top: Identify the most popular Instagram accounts on inBeat.
-text_bottom: Our database aggregates 4 Instagram influencers like this in Izmir, Turkey for you to collaborate.
+text_top: Discover the top-rated Instagram profiles on inBeat.
+text_bottom: Our search engine holds 4 Instagram influencers like this in Izmir, Turkey for you to collaborate.
 profiles:
   - username: "chefaydinoglu__official"
     fullname: >-
-      Aydın Aydınoğlu
+      Aydın Aydınoğlu
     bio: >-
       Eğitim ve danışmanlık için DM den ulaşabilirsiniz.🎂🇹🇷 AU PROCHAİN...AUX SOUVAİN... FIRST NEVER FOLLOW
     location: "Turkey"
-    followers: 20382
-    engagement: 472
-    commentsToLikes: 0.026478
+    followers: 20349
+    engagement: 473
+    commentsToLikes: 0.026537
     id: ck14irx7ngww40i19ka7fo192
     verified: false
-    hashtags: "#vegansofinstagram, #sweetfood, #sweetdreams, #instachocolate"
+    hashtags: "#vizyonumuzbelli, #toptags, #sweettooth, #foodie"
   - username: "dytcerennurturan"
     fullname: >-
       Diyetisyen Cerennur Turan 🥑
@@ -55,76 +55,76 @@ profiles:
     id: ckaowosn79s3z0i78wvn0s8fs
     verified: false
     hashtags: "#paramedik, #indirim, #att, #cerrah"
-  - username: "birkanpolatcom"
+  - username: "edasubarlk"
     fullname: >-
-      Birkan Polat
+      Edasu Barlık
     bio: >-
-      👑 2x Turkey Stunt CHAMPION 🏆 📩 @unite_d.co Sponsors: Spormoto KTM, Hardline Nutrition, Mitas Tires
+      • Yeditepe|Nutrition&Dietetics • edasu@flickturkiye.com
     location: "Turkey"
-    followers: 113302
-    engagement: 391
-    commentsToLikes: 0.026939
-    id: ck6u6dyuvf1k70j710q9peoma
-    verified: true
-    hashtags: "#dertedition"
-  - username: "gulsahgorgulu"
-    fullname: >-
-      Gülşah Görgülü
-    bio: >-
-      @biogain.nutrition @organiksatinal “gulsah10” @lezizdiyet “gulsah10” @lactonelife “GÜLSAH10” 💥Bikini Atlethe🏆 👑ONLINE COACHING👑
-    location: "Turkey"
-    followers: 32338
-    engagement: 583
-    commentsToLikes: 0.016662
-    id: ck6u8r2ijt6ak0j71fmnzmfxb
+    followers: 84785
+    engagement: 995
+    commentsToLikes: 0.023163
+    id: ck15tp2bbj6vl0i19fgflzcig
     verified: false
-    hashtags: "#bikinifitnes, #loveyou, #sundaymornings, #reelsinstagram"
-  - username: "nazlimevsimler"
+    hashtags: "#markael"
+  - username: "sami_jafary"
     fullname: >-
-      𝑵 𝑨 𝒁 𝑳 𝑰
+      MOBIN RAEIS JAFARI
     bio: >-
-      Cyprus🏝 Live Laugh Love "Nutrition & Dietetics" 4/4🍍
+      📍Istanbul Certified PERSONAL TRAINER 🇹🇷🇦🇪🇮🇷 🔖advanced nutrition coach sponsor @alo.fitt 💵
     location: "Turkey"
-    followers: 7795
-    engagement: 812
-    commentsToLikes: 0.004868
-    id: ckap0igspqfmt0i78wbjgnxx8
+    followers: 656145
+    engagement: 597
+    commentsToLikes: 0.032638
+    id: ck9why8p8004l0j78d975usoc
     verified: false
-    hashtags: "#october, #nofilter, #rainbow, #happysunday"
-  - username: "neyranguneli"
+    hashtags: "#sami, #gym, #istanbul, #fitnessmotivation"
+  - username: "aysekoroglu"
     fullname: >-
-      Neyran Güneli
+      Ayşe Köroğlu
     bio: >-
-      Personal Trainer CF Games 2018/19 Fittest in Turkey🇹🇷 Crossfit Games'19 Athlete Nutritionist of Myself Psychologist @gnltraining @athletetrainingtr
+      Plantlab 1-2 Raw Cuisine& Culinary Nutrition Dylan Werner YOGA 200 HTT Functional Medicine Coach / IFM İsbirlikleri icin ayseozgurkoroglu@gmail.com
     location: "Turkey"
-    followers: 6189
-    engagement: 489
-    commentsToLikes: 0.021327
-    id: ck15tu56ojwxf0i199rpmpg1n
+    followers: 136999
+    engagement: 353
+    commentsToLikes: 0.012335
+    id: ck15u5hd0li6f0i198cccjdpk
     verified: false
-    hashtags: "#gnltraining, #athletetrainingtr, #ladiesfirst, #throwdownthursday"
-  - username: "m.y.hulk_"
+    hashtags: "#lisboa, #reels, #lisbon, #portugal"
+  - username: "zdilarakilavuz"
     fullname: >-
-      MUSTAFA YILDIZ
+      Zeynep Dilara KILAVUZ
     bio: >-
-      📲@begreen_app 👕@begreenwear 🛒@organiksatinal🔻HULK10 💊@biogain.nutrition 🏃‍♂️Benimle birlikte Çalışmak İçin Linke tıkla👇🏻
+      UZMAN DİYETİSYEN & YAŞAM KOÇU Yeditepe University BSc & MSc Nutrition and Dietetics International Business and Trade Ofis:
     location: "Turkey"
-    followers: 394298
-    engagement: 206
-    commentsToLikes: 0.278376
-    id: ck6u8r01nt5ul0j71nvz6k9hz
+    followers: 15021
+    engagement: 324
+    commentsToLikes: 0.022575
+    id: ck9hbvqx7inun0j78xh68fvdv
     verified: false
-    hashtags: "#bodybuilding, #motivation, #challenge, #superheavyweight"
-  - username: "dr.aysegulcoruhlu"
+    hashtags: "#office, #diyetyemekleri, #diyet, #diyetisyen"
+  - username: "mlkcuvk"
     fullname: >-
-      AYSEGUL CORUHLU
+      Melike Çuvak
     bio: >-
-      Dr. CELL-BEING Cellular Well-being, Circadian Health Anti- Aging Longevity Alkaline Nutrition Upgrade Your Cells 💉💊 0212-2360898/0542-8366798
+      👩‍💻#businessanalyst & #healthcoach & #influencer 👩‍🎓Nutrition & Dietetic MASTER STUDENT 📍istanbul🇹🇷 Birlikte Çalışalım⬇️
     location: "Turkey"
-    followers: 491429
-    engagement: 195
-    commentsToLikes: 0.030960
-    id: ckf5n28lswfgl0j23itdkni5s
-    verified: true
-    hashtags: ""
+    followers: 37731
+    engagement: 259
+    commentsToLikes: 0.025602
+    id: ck14j3zcaiin60i19en7aoaf2
+    verified: false
+    hashtags: "#bug, #iyihisset, #zurich, #lifestyle"
+  - username: "elvan_odabasi"
+    fullname: >-
+      Elvan Odabaşı
+    bio: >-
+      “Futuristic food and nutrition designer” Diyetisyen Girişimci Konuşmacı Yazar @formeo.com.tr @hitox.co İş birliği 📧 bilgi@formeo.com.tr
+    location: "Turkey"
+    followers: 144547
+    engagement: 86
+    commentsToLikes: 0.012230
+    id: ck5q0wp2e84tx0i11oginny1s
+    verified: false
+    hashtags: "#ankara, #reklam, #doyadoyahafifle, #doyadoyaya"
 ---

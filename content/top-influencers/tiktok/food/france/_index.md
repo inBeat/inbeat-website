@@ -1,11 +1,11 @@
 ---
-title: Top 10 Food TikTok Influencers In France In 2023
+title: Top 10 Food TikTok Influencers In France In 2024
 description: >-
-  Find top food TikTok influencers in France in 2023. Most popular hashtags: #food #pourtoi #paris #chocolate.
+  Find top food TikTok influencers in France in 2024. Most popular hashtags: #food #pourtoi #foryou #paris.
 platform: TikTok
-hits: 262
-text_top: Discover the top-rated TikTok influencers on inBeat.
-text_bottom: inBeat has 262 TikTok influencers like this in France for you to collaborate.
+hits: 263
+text_top: Discover the most popular TikTok accounts on inBeat.
+text_bottom: inBeat aggregates 263 TikTok influencers like this in France for you to connect with.
 profiles:
   - username: "sanae_cc"
     fullname: >-
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.066589
     id: ck9dwvka0qqt90j78po69an1j
     verified: false
-    hashtags: "#parisphotographer, #cherryblossoms, #parisphotospots, #wisteria"
+    hashtags: "#cherryblossoms, #tiktokparis, #parisphotospots, #sakura"
   - username: "fooodd_"
     fullname: >-
       𝐹𝑜𝑜𝑑
@@ -54,7 +54,7 @@ profiles:
     commentsToLikes: 0.009246
     id: ck90tqwrntop40j78mspqtthv
     verified: true
-    hashtags: "#food, #paris, #drole, #humour"
+    hashtags: "#tiktokacademie, #voyage, #comedie, #degustation"
   - username: "helenask_"
     fullname: >-
       🦋 Veri On Tiktok 🦋
@@ -90,7 +90,7 @@ profiles:
     commentsToLikes: 0.018128
     id: ck9a9mau2gqy90j78wd8o5hlq
     verified: false
-    hashtags: "#2021, #collage, #makeup, #love"
+    hashtags: "#love, #2021, #collage, #makeup"
   - username: "inlack_of_food"
     fullname: >-
       K❤️

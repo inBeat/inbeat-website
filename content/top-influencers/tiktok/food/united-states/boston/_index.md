@@ -1,11 +1,11 @@
 ---
-title: Top 10 Food TikTok Influencers In Boston In 2023
+title: Top 10 Food TikTok Influencers In Boston In 2024
 description: >-
-  Find top food TikTok influencers in Boston in 2023. Most popular hashtags: #fyp #foryoupage #boston #food.
+  Find top food TikTok influencers in Boston in 2024. Most popular hashtags: #fyp #food #boston #foryoupage.
 platform: TikTok
 hits: 54
-text_top: Identify the most popular TikTok influencers on inBeat.
-text_bottom: inBeat holds 54 TikTok influencers like this in Boston, United States for you to collaborate.
+text_top: Identify the top-rated TikTok accounts on inBeat.
+text_bottom: Our platform has 54 TikTok influencers like this in Boston, United States for you to work with.
 profiles:
   - username: "danagoeswest"
     fullname: >-
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.009595
     id: ckb9r6n1enfdk0j23vugfzoe0
     verified: true
-    hashtags: "#baseball, #fail, #fyp, #foryoupage"
+    hashtags: "#baseball, #fyp, #sports, #fail"
   - username: "ilikethatsweater"
     fullname: >-
       ilikethatsweater
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.053991
     id: ck8vxdwtgqtjn0j78pqm9i7ak
     verified: false
-    hashtags: "#happyathome, #baking, #reallifeathome, #chefsoftiktok"
+    hashtags: "#petparent, #distancedance, #happyeaster, #reallifeathome"
   - username: "rletto"
     fullname: >-
       RLETTO
@@ -55,18 +55,6 @@ profiles:
     id: ck8nc9ak7di0d0j78i9frg6fv
     verified: false
     hashtags: "#challenge, #fyp, #food, #funny"
-  - username: "twotastebuddiez"
-    fullname: >-
-      twotastebuddiez
-    bio: >-
-      Maddie & Rachel follow our IG! @twotastebuddiez (27K+) twotastebuddiez@gmail.com
-    location: "United States"
-    followers: 54700
-    engagement: 740
-    commentsToLikes: 0.023662
-    id: ckc8iuk5dcdkk0j23706jahtf
-    verified: false
-    hashtags: "#bostonfoodies, #boston, #worththewait, #eatwithme"
   - username: "kathandevaraj1"
     fullname: >-
       kathandevaraj
@@ -127,4 +115,16 @@ profiles:
     id: ckb9he83h72dr0j231oad3gw8
     verified: false
     hashtags: "#boston, #genx, #music, #fyp"
+  - username: "dustintoddrennells"
+    fullname: >-
+      Dustin Todd Rennells
+    bio: >-
+      Boston, teacher, nerd, ginger, 🏳️‍🌈 Insta: madyago | Classroom wishlist below
+    location: "United States"
+    followers: 82500
+    engagement: 1822
+    commentsToLikes: 0.053539
+    id: ckacdunspk08w0i78kigjrti4
+    verified: false
+    hashtags: "#ribbon, #lifehack, #teacher, #teachersoftiktok"
 ---

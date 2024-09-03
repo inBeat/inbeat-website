@@ -1,24 +1,12 @@
 ---
-title: Top 10 Vegan Instagram Influencers In Istanbul In 2023
+title: Top 10 Vegan Instagram Influencers In Istanbul In 2024
 description: >-
-  Find top vegan Instagram influencers in Istanbul in 2023. Most popular hashtags: #istanbul #vegan #sa #chocolate.
+  Find top vegan Instagram influencers in Istanbul in 2024. Most popular hashtags: #vegan #istanbul #love #foodlover.
 platform: Instagram
-hits: 25
-text_top: Discover the top-rated Instagram accounts on inBeat.
-text_bottom: Our search engine has 25 Instagram influencers like this in Istanbul, Turkey for you to collaborate.
+hits: 30
+text_top: Analyze the top-rated Instagram accounts on inBeat.
+text_bottom: Our database aggregates 30 Instagram influencers like this in Istanbul, Turkey for you to pitch.
 profiles:
-  - username: "aysegunduzgunes"
-    fullname: >-
-      Ayşe Gündüz Güneş
-    bio: >-
-      🥑 Dengeli Yaşam | Motivasyon | Sağlıklı Tarifler 💫 Mühendis | Yaşam Koçu | Spor Eğitmeni 📩 Reklam ve iş birlikleri için aysegunduzgunes@gmail.com
-    location: "Turkey"
-    followers: 45865
-    engagement: 214
-    commentsToLikes: 0.563812
-    id: ckap7qotgl5380i78mpjbap8t
-    verified: false
-    hashtags: "#ramazantatl, #reelsindia, #sekersiztarifler, #ingilizceo"
   - username: "mervefitdaily"
     fullname: >-
       Merve Sarıgül
@@ -31,18 +19,30 @@ profiles:
     id: ckaowt3ywac090i78f9ru391d
     verified: false
     hashtags: "#tarif, #tatl, #sa, #fit"
-  - username: "chefaydinoglu__official"
+  - username: "lemansamm"
     fullname: >-
-      Aydın Aydınoğlu
+      Leman Sam
     bio: >-
-      Eğitim ve danışmanlık için DM den ulaşabilirsiniz.🎂🇹🇷 AU PROCHAİN...AUX SOUVAİN... FIRST NEVER FOLLOW
+      İletişim: lemansamofficial@gmail.com Menajer: 0(532)3822602
     location: "Turkey"
-    followers: 20382
-    engagement: 472
-    commentsToLikes: 0.026478
-    id: ck14irx7ngww40i19ka7fo192
-    verified: false
-    hashtags: "#vegansofinstagram, #sweetfood, #sweetdreams, #instachocolate"
+    followers: 60889
+    engagement: 364
+    commentsToLikes: 0.025515
+    id: ck5hsdy4hwfqc0i11v7gb57xw
+    verified: true
+    hashtags: "#als, #repost, #konser, #hayalkahvesibahcesehir"
+  - username: "somersivrioglu"
+    fullname: >-
+      Somer Sivrioglu
+    bio: >-
+      🎓THM ‘93 Bilkent Uni🎓MBA ‘97 UTS 👨🏻‍🍳@masterchefturkiye judge /MD @efendy_istanbul @anasonmezebar @maydanoz.sydney iletişim: renginatik@gmail.com
+    location: "Turkey"
+    followers: 1349851
+    engagement: 96
+    commentsToLikes: 0.014330
+    id: ck0txk5nojhhc0i19ugvrwwby
+    verified: true
+    hashtags: "#a101, #sofran, #somer, #kristalya"
   - username: "matt_najm"
     fullname: >-
       Matt 🇹🇲
@@ -67,18 +67,18 @@ profiles:
     id: ck9wdpikcgo6x0j78881flsgn
     verified: false
     hashtags: "#geyikli, #travelovic, #gezi, #istanbuldakar"
-  - username: "cemrekiralioglu"
+  - username: "fg_diaries_"
     fullname: >-
-      Cemre Kıralioğlu
+      FL0RA 👩🏻
     bio: >-
-      Entrepreneur | Musician 🌱 #vegan #cemreniniçsesi #belkidesensin ✉️ cemrekiralioglu@gmail.com SAR BENİ Spotify👇🏼
+      Hungarian girl living in Istanbul 🇭🇺🇹🇷 📷 @flora_photographs 👩🏻‍💻 @chezamor_com 📹 Youtube - Flora’s Diaries
     location: "Turkey"
-    followers: 30320
-    engagement: 574
-    commentsToLikes: 0.046879
-    id: ck5zsqv6qz0y30i140m8dnuvm
+    followers: 34780
+    engagement: 49
+    commentsToLikes: 0.051858
+    id: ck0w362a0rrmz0i19x63553h0
     verified: false
-    hashtags: "#womanstyle, #love, #selfie, #ootd"
+    hashtags: "#rekl, #istanbul, #cvitaminnal, #influenszer"
   - username: "ozguncoban"
     fullname: >-
       Özgün Çoban
@@ -103,18 +103,6 @@ profiles:
     id: ckapaswisxcdy0i78o39tw8n7
     verified: false
     hashtags: "#lezzetli, #diyet, #oliveoil, #vegetarian"
-  - username: "cupcakepembe"
-    fullname: >-
-      Canan || Blog Yazarı 🍰🍪🥐😋
-    bio: >-
-      Bal Ada’nın Annesi 😇🥰🍯 Videolu Tarifler, Glutensiz Tarifler 👩‍🍳 İletişim İçin 📨 DM Mail: canan-48@hotmail.com 📍İstanbul
-    location: "Turkey"
-    followers: 331856
-    engagement: 204
-    commentsToLikes: 0.061868
-    id: ck8t6ddj9d70m0j78wxt3rb9p
-    verified: false
-    hashtags: "#istanbul, #lezzet, #chocolate, #tatl"
   - username: "yesene_catering"
     fullname: >-
       Dilek Pfeiffer
@@ -127,4 +115,16 @@ profiles:
     id: ck5q4ijthp56n0i114o1hsbcv
     verified: false
     hashtags: "#besinalerjisi, #yapyepaylas, #veganfood, #foodstyling"
+  - username: "nuhunkaramelasi"
+    fullname: >-
+      F A D H I LA
+    bio: >-
+      🍲🍛- Easy Food #yemektarifleri #recipes 📍🌍- Istanbul 🇹🇷 Cameroon 🇨🇲 🤵‍♂️🤱🏾- Mix Family 🌺 @withlove.fadhila
+    location: "Turkey"
+    followers: 3109
+    engagement: 739
+    commentsToLikes: 0.043129
+    id: ckap305q612jd0i78zqn41mrj
+    verified: false
+    hashtags: "#mixedbabies, #motherhoodzone, #blackmoms, #mixbaby"
 ---

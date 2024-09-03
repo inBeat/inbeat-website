@@ -1,11 +1,11 @@
 ---
-title: Top 10 Athletes Instagram Influencers In Bangkok In 2023
+title: Top 10 Athletes Instagram Influencers In Bangkok In 2024
 description: >-
-  Find top athletes Instagram influencers in Bangkok in 2023. Most popular hashtags: #hardwork #thailand #dedication #bangkok.
+  Find top athletes Instagram influencers in Bangkok in 2024. Most popular hashtags: #thailand #hardwork #fighter #kickboxing.
 platform: Instagram
 hits: 5
-text_top: Analyze the best Instagram profiles on inBeat.
-text_bottom: Our platform holds 5 Instagram influencers like this in Bangkok, Thailand for you to work with.
+text_top: See the best Instagram accounts on inBeat.
+text_bottom: inBeat has 5 Instagram influencers like this in Bangkok, Thailand for you to contact.
 profiles:
   - username: "tristando19"
     fullname: >-
@@ -25,12 +25,12 @@ profiles:
     bio: >-
       Athlete🇹🇭 Line:@gainmadeline2 FB Page:TrainWithGain 🏆2nd-ShawnRho2019 🏆2nd-BenWCSpain2018 🏆2nd-OAAsiaHK2016 🥇Mr.THAILAND2016 Owner:@tammachaat.drink
     location: "Thailand"
-    followers: 8382
-    engagement: 326
-    commentsToLikes: 0.020372
+    followers: 8410
+    engagement: 291
+    commentsToLikes: 0.018402
     id: ck55ox92q9bfr0i11nn8p3w63
     verified: false
-    hashtags: "#muscle, #personaltraining, #gym, #transformation"
+    hashtags: "#diet, #gymlife, #teamgain, #athlete"
   - username: "k_one_muaythai_gym"
     fullname: >-
       K.ONE MUAY THAI GYM
@@ -67,6 +67,18 @@ profiles:
     id: ck8szf9cko7v90j78l50b3dhe
     verified: false
     hashtags: "#thailand, #familytime, #phuket, #teamschroth"
+  - username: "javad_bigdeli.official"
+    fullname: >-
+      Javad Bigdeli | جوادترک
+    bio: >-
+      Professional MuayThai Fighter اهل|زنجان @onechampionship athlete Record: 41_11 Gym:@tigermuaythai From: Earth🌍 we are all one I live in phuket
+    location: "Thailand"
+    followers: 30360
+    engagement: 289
+    commentsToLikes: 0.103624
+    id: ck6u02wx7dbym0j71guomo8d5
+    verified: false
+    hashtags: "#champ, #ufc, #training, #mma"
   - username: "maratgrigorian"
     fullname: >-
       Marat Grigorian
@@ -83,26 +95,26 @@ profiles:
     fullname: >-
       Jada Ketley
     bio: >-
-      • 26 Years On Planet Earth • Muay Thai & Mma Athlete • @tigermuaythai • 📍Phuket, Thailand • Finding Peace In Educated Violence
+      • Muay Thai & Mma Athlete • @hickmanbrothers • 📍Phuket, Thailand
     location: "Thailand"
-    followers: 6944
-    engagement: 629
-    commentsToLikes: 0.024044
+    followers: 7245
+    engagement: 504
+    commentsToLikes: 0.032386
     id: ck15s5ixfbbt20i195kagx8on
     verified: false
-    hashtags: "#iwantmoretattoos"
+    hashtags: "#internationalwomensday, #pleasedontremovemyvideo"
   - username: "saharat_k"
     fullname: >-
-      ▪️SAHARAT KLUABMAS▪️
+      SAHARAT KLUABMAS
     bio: >-
-      🇹🇭 DYMATIZE ATHLETE🇹🇭 . 🏆4×WBPF Men's Sport Physique Champion* 🏆2015 Mr.Thailand Champion* . 🏋🏻‍♂️Owner : Saharat Fitness/ The Best Fitness
+      🇹🇭 DYMATIZE ATHLETE . 🏆4×WBPF Men's Sport Physique Champion* 🏆2015 Mr.Thailand Champion* . 🏋🏻‍♂️ Saharat Fitness / The Best Fitness
     location: "Thailand"
-    followers: 32223
-    engagement: 306
-    commentsToLikes: 0.006515
+    followers: 34012
+    engagement: 351
+    commentsToLikes: 0.008298
     id: ck55oxajl9blz0i11cg8s1hfr
     verified: false
-    hashtags: "#saharatfitness, #thebestfitness, #musclefood, #mensphysique"
+    hashtags: ""
   - username: "tristando19"
     fullname: >-
       Tristan Do
@@ -115,16 +127,4 @@ profiles:
     id: ck55ox98i9bh00i11kuhhihif
     verified: true
     hashtags: "#nike, #wearethailand, #td19, #bufc"
-  - username: "jay_mystyle"
-    fullname: >-
-      ﷽
-    bio: >-
-      God First 🤲 Si om Freelance Model , Personal Trainer , S/E For work contact via DM Itsmystyle FB page Muscle Food Shop Athlete
-    location: "Thailand"
-    followers: 23460
-    engagement: 192
-    commentsToLikes: 0.004756
-    id: ck55oxb0a9bn90i11mftmmw0r
-    verified: false
-    hashtags: "#musclefoodshop, #team, #dymatizethailand, #dymatize"
 ---

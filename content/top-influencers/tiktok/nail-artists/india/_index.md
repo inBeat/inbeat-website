@@ -1,11 +1,11 @@
 ---
-title: Top 10 Nail Artists TikTok Influencers In India In 2023
+title: Top 10 Nail Artists TikTok Influencers In India In 2024
 description: >-
-  Find top nail artists TikTok influencers in India in 2023. Most popular hashtags: #trending #foryou #nailart #foryoupage.
+  Find top nail artists TikTok influencers in India in 2024. Most popular hashtags: #trending #foryou #nailart #tiktokindia.
 platform: TikTok
 hits: 12
-text_top: See the top-rated TikTok profiles on inBeat.
-text_bottom: Our platform holds 12 TikTok influencers like this in India for you to contact.
+text_top: Analyze the top-rated TikTok influencers on inBeat.
+text_bottom: Our platform aggregates 12 TikTok influencers like this in India for you to connect with.
 profiles:
   - username: "shivani0812"
     fullname: >-
@@ -114,7 +114,7 @@ profiles:
     commentsToLikes: 0.028244
     id: ckb9t7rcnr2c50j23z3qammqv
     verified: false
-    hashtags: "#purplehack, #hargharyoga, #prettysush24, #prettysush"
+    hashtags: "#theyolook, #foryou, #purplehack, #prettysush"
   - username: "kpoornima"
     fullname: >-
       poornima poo

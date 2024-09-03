@@ -1,24 +1,84 @@
 ---
-title: Top 10 Music Instagram Influencers In Morocco In 2023
+title: Top 10 Music Instagram Influencers In Morocco In 2024
 description: >-
-  Find top music Instagram influencers in Morocco in 2023. Most popular hashtags: #peaceful #smile #music.
+  Find top music Instagram influencers in Morocco in 2024. Most popular hashtags: #music #photo #maroc.
 platform: Instagram
-hits: 60
-text_top: Identify the best Instagram influencers on inBeat.
-text_bottom: Our search engine holds 60 Instagram influencers like this in Morocco for you to work with.
+hits: 79
+text_top: Analyze the top-rated Instagram accounts on inBeat.
+text_bottom: Our search engine aggregates 79 Instagram influencers like this in Morocco for you to connect with.
 profiles:
-  - username: "hindziadi"
+  - username: "tyriquehyde"
     fullname: >-
-      Hind ziadi - هند زيادي
+      TYRIQUE HYDE
     bio: >-
-      • Moroccan singer 🇲🇦 • XFactor finalist • Booking / Manager : amineahar@gmail.com Check out my last Music Video 👇🏻
+      Tyrique@offlimitsentertainment.com If it’s about music ask @outskrts
     location: "Morocco"
-    followers: 920325
-    engagement: 313
-    commentsToLikes: 0.010869
-    id: ck55jf5okwwkf0i11m9z6qiil
+    followers: 1060264
+    engagement: 255
+    commentsToLikes: 0.007537
+    id: clrmo5tejzsiz0k0808mzabz2
     verified: false
-    hashtags: "#morocco, #smile, #picture, #artist"
+    hashtags: "#smirnoffxcooplive, #engvpak, #inabudhabi, #ad"
+  - username: "omaralkilaniofficial"
+    fullname: >-
+      Omar Alkilani
+    bio: >-
+      Artist 🎸🎤 📍🇹🇷 Music Production 📚 Composer - Music Producer from Syria 🎶 For business: @omar.guitarist 📩
+    location: "Morocco"
+    followers: 60312
+    engagement: 196
+    commentsToLikes: 0.037239
+    id: ck8szge58ocdw0j78xjpht0oh
+    verified: false
+    hashtags: "#hairstyle, #instamusic, #fyp, #tattoo"
+  - username: "pause_officiel"
+    fullname: >-
+      Jawad Asradi
+    bio: >-
+      MGMT :@ayoubbelbsir Business or collaboration:📥 atlentismanagement@gmail.com @atlantis_music_ 📍
+    location: "Morocco"
+    followers: 577398
+    engagement: 1304
+    commentsToLikes: 0.018190
+    id: ckaot9iiluwtu0i78dj1fuc9n
+    verified: false
+    hashtags: "#pauseflow, #pauseflowteam, #extrait, #album"
+  - username: "frenchmontana"
+    fullname: >-
+      French Montana
+    bio: >-
+      ‎مونتانا الفرنسي @cokeboys.music
+    location: "Morocco"
+    followers: 40405316
+    engagement: 90
+    commentsToLikes: 0.006990
+    id: ck5buwxqoikqp0i11pjaw34x5
+    verified: true
+    hashtags: "#nyvsny, #gottaseeittobelieveittour, #tothemoon, #freemaxb"
+  - username: "ihabamirofficiell"
+    fullname: >-
+      Ihab Amir
+    bio: >-
+      ▫️ Moroccan artist 🇲🇦 ▫️ Singer Songwriter | Composer | Musician 🎼 Acteur Booking : y.ihabamir@gmail.com
+    location: "Morocco"
+    followers: 3237157
+    engagement: 31
+    commentsToLikes: 0.041585
+    id: ck0u8y92c8jqd0i19qyhg3vu7
+    verified: true
+    hashtags: "#ihabamir, #basta, #ihab, #tw7chtak"
+  - username: "mrt.portail"
+    fullname: >-
+      MRT
+    bio: >-
+      Mena Rap Trend Rap,Music,Interviews.. Advertising services 👨🏻‍💼 @menaraptrend
+    location: "Morocco"
+    followers: 557746
+    engagement: 52
+    commentsToLikes: 0.022594
+    id: ck0vv0tgbn0ky0i19fu614kg5
+    verified: false
+    hashtags: "#rapmarocain, #maroc, #moroccanrap, #elgrandetoto"
   - username: "mimibitton"
     fullname: >-
       Myriam Bitton
@@ -67,64 +127,4 @@ profiles:
     id: ck6u55vt87rrn0j71l0cxye9k
     verified: false
     hashtags: "#algerie, #algeria, #bara3im, #music"
-  - username: "ihabamirofficiell"
-    fullname: >-
-      Ihab Amir
-    bio: >-
-      ▫️ Moroccan artist 🇲🇦 ▫️ Singer Songwriter | Composer | Musician 🎼 Booking : y.ihabamir@gmail.com
-    location: "Morocco"
-    followers: 2792232
-    engagement: 92
-    commentsToLikes: 0.022474
-    id: ck0u8y92c8jqd0i19qyhg3vu7
-    verified: true
-    hashtags: "#2021, #chebba, #ihabamir, #chabba"
-  - username: "d33psoul.official"
-    fullname: >-
-      D33pSoul
-    bio: >-
-      Born to satisfy the human needs of emotions, passion and feelings. DJ/Producer/Multi instrumentalist. @soundcloud.com/deepsoul_music
-    location: "Morocco"
-    followers: 92152
-    engagement: 108
-    commentsToLikes: 0.036096
-    id: ck5ztwqa919dq0i14ediv5exb
-    verified: true
-    hashtags: ""
-  - username: "zouhairbahaoui"
-    fullname: >-
-      Zouhair Bahaoui
-    bio: >-
-      Management & Booking : 📞 Reda El Bradi 00 212 6 61 66 48 75 📤 Contact@omyprod.ma 👻 Snapchat : zouhairbahaoui 👇 New Music Vidéo 👇
-    location: "Morocco"
-    followers: 8284595
-    engagement: 139
-    commentsToLikes: 0.012165
-    id: ck0ub9a0we32j0i194b33lfmj
-    verified: true
-    hashtags: "#houceima, #relax, #weekend, #soon"
-  - username: "oussama_fadel_officiel"
-    fullname: >-
-      oussama fadel
-    bio: >-
-      🔹️Singer / Composer / Musician / Actor 🔹️contact : oussamafadel1985@gmail.com 🔹️ news in officiel page Facebook 👇👇👇
-    location: "Morocco"
-    followers: 258331
-    engagement: 55
-    commentsToLikes: 0.024571
-    id: ck5pym0vrwo360i112fdmk47a
-    verified: false
-    hashtags: ""
-  - username: "alaawardi"
-    fullname: >-
-      Alaa Wardi
-    bio: >-
-      Musician | Youtuber | A Cappella Artist Singer | Songwriter | Member of @hayajanband Email: alaawardi@gmail.com 👇🏼 link in bio👇🏼
-    location: "Morocco"
-    followers: 188653
-    engagement: 138
-    commentsToLikes: 0.017628
-    id: ck14kh5ilphuk0i19gfjx6lse
-    verified: false
-    hashtags: ""
 ---

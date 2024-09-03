@@ -1,11 +1,11 @@
 ---
-title: Top 10 Architecture Instagram Influencers In Norway In 2023
+title: Top 10 Architecture Instagram Influencers In Norway In 2024
 description: >-
-  Find top architecture Instagram influencers in Norway in 2023. Most popular hashtags: #architecture #arkitektur #norway #sunset.
+  Find top architecture Instagram influencers in Norway in 2024. Most popular hashtags: #architecture #arkitektur #scandinavianarchitecture #norwegianarchitecture.
 platform: Instagram
-hits: 27
-text_top: Identify the best Instagram accounts on inBeat.
-text_bottom: Our database has 27 Instagram influencers like this in Norway for you to pitch.
+hits: 32
+text_top: See the most popular Instagram influencers on inBeat.
+text_bottom: Our search engine aggregates 32 Instagram influencers like this in Norway for you to contact.
 profiles:
   - username: "jasmin88k"
     fullname: >-
@@ -57,16 +57,40 @@ profiles:
     hashtags: "#architecture, #norwegianarchitecture, #aftermodernism, #espensurnevik"
   - username: "morten.clicks"
     fullname: >-
-      Morten | Street Photographer
+      Morten Andresen
     bio: >-
-      📍Oslo, Norway 📸 Capturing the colours of the streets. 👤 Founder: @streetianity Member: @oslo.spc 🌇 Limited edition prints available:
+      ▪️Norwegian street photograper based in Oslo. ▪️Founder: @streetianity Member: @oslo.spc ▪️Limited edition prints available:
     location: "Norway"
-    followers: 7883
-    engagement: 1518
-    commentsToLikes: 0.140383
+    followers: 29291
+    engagement: 559
+    commentsToLikes: 0.109374
     id: ck9weu64slulx0j78ahoeome3
     verified: false
-    hashtags: "#fromstreetswithlove, #oslobilder, #urbanstreetphotogallery, #buildinglovers"
+    hashtags: "#streetclassics, #photoroom, #eyephotomagazine, #thepictoriallist"
+  - username: "lundhagem"
+    fullname: >-
+      Lundhagem
+    bio: >-
+      Award winning architectural and urban design practice based in Oslo, Norway. Spaces for living; created for nature and humanity.
+    location: "Norway"
+    followers: 20728
+    engagement: 260
+    commentsToLikes: 0.009062
+    id: ck5q3agtvk02p0i11l2rlsv9n
+    verified: false
+    hashtags: "#climatehouse, #scandinavianarchitecture, #norwegianarchitects, #wintercabin"
+  - username: "vardehaugen_arkitekter"
+    fullname: >-
+      Vardehaugen
+    bio: >-
+      is an architectural studio located in Oslo / Norway
+    location: "Norway"
+    followers: 54099
+    engagement: 252
+    commentsToLikes: 0.008842
+    id: ck5hd03dskt0b0i11gz23c6eu
+    verified: false
+    hashtags: "#cabinporn, #architecturalmodel, #scandinavianarchitecture, #cabin"
   - username: "skoglyveien"
     fullname: >-
       Skoglyveien tilbygg
@@ -103,28 +127,4 @@ profiles:
     id: ck6tp7dl3i8ik0j71edl35sm0
     verified: false
     hashtags: "#gardeninspiration, #hagedesign, #archilovers, #architecture"
-  - username: "glenntonic"
-    fullname: >-
-      Glenn Walmann
-    bio: >-
-      I take pictures when I walk around. Mostly from Oslo, Norway. iPhone, Sony RX100II and Canon 6D. @glenntonic
-    location: "Norway"
-    followers: 10575
-    engagement: 428
-    commentsToLikes: 0.014742
-    id: ckap2os5jzodv0i78l3dsebjk
-    verified: false
-    hashtags: "#reflection, #light, #visitnorway, #city"
-  - username: "cruiseguyofnorway"
-    fullname: >-
-      Frode
-    bio: >-
-      Thank you for following. Norwegian who loves travels, and RCCL Cruises. 45 Cruises and 61 countries visited and counting
-    location: "Norway"
-    followers: 22196
-    engagement: 489
-    commentsToLikes: 0.002599
-    id: ck14li695ussv0i19o45ll3rl
-    verified: false
-    hashtags: "#lifestyle, #life, #jeweloftheseas, #traveltheworld"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Painters TikTok Influencers In Poland In 2023
+title: Top 10 Painters TikTok Influencers In Poland In 2024
 description: >-
-  Find top painters TikTok influencers in Poland in 2023. Most popular hashtags: #dlaciebie #dc #foryou #trend.
+  Find top painters TikTok influencers in Poland in 2024. Most popular hashtags: #dlaciebie #dc #foryou #fyp.
 platform: TikTok
 hits: 15
-text_top: Analyze the top-rated TikTok accounts on inBeat.
-text_bottom: Our search engine aggregates 15 TikTok influencers like this in Poland for you to work with.
+text_top: Discover the best TikTok influencers on inBeat.
+text_bottom: inBeat holds 15 TikTok influencers like this in Poland for you to work with.
 profiles:
   - username: "robertlec7"
     fullname: >-

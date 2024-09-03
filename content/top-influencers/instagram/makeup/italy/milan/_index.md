@@ -1,11 +1,11 @@
 ---
-title: Top 10 Makeup Instagram Influencers In Milan In 2023
+title: Top 10 Makeup Instagram Influencers In Milan In 2024
 description: >-
-  Find top makeup Instagram influencers in Milan in 2023. Most popular hashtags: #makeup #milano #beauty #love.
+  Find top makeup Instagram influencers in Milan in 2024. Most popular hashtags: #makeup #model #photography #travel.
 platform: Instagram
-hits: 298
-text_top: Discover the top-rated Instagram accounts on inBeat.
-text_bottom: Our search engine has 298 Instagram influencers like this in Milan, Italy for you to pitch.
+hits: 305
+text_top: Analyze the best Instagram accounts on inBeat.
+text_bottom: inBeat has 305 Instagram influencers like this in Milan, Italy for you to pitch.
 profiles:
   - username: "iamantoniogallo"
     fullname: >-
@@ -43,54 +43,30 @@ profiles:
     id: ckf5szt8kgk2k0j23mrxf180a
     verified: false
     hashtags: "#styleinspiration, #fashion, #vogueitalia, #stilist"
+  - username: "celine_bernaerts"
+    fullname: >-
+      CELINE BERNAERTS
+    bio: >-
+      A chameleon making her way through life with make-up! Challenging online beauty standards for your entertainment Global Makeup Expert D&G Beauty
+    location: "Italy"
+    followers: 573060
+    engagement: 128
+    commentsToLikes: 0.016587
+    id: ck0tyh6ycmt1p0i19a7n8pial
+    verified: true
+    hashtags: "#red, #foryoupage, #foryou, #fyp"
   - username: "mamrezabbasi"
     fullname: >-
-      Mamrez Abbasi
+      Mamrez Abbasi       من خود ،جهان هستى ام
     bio: >-
-      
+      Hair 🇮🇹 Make up on request Prince of Persia 🤴🏻
     location: "Italy"
-    followers: 36915
-    engagement: 349
-    commentsToLikes: 0.144922
+    followers: 37362
+    engagement: 226
+    commentsToLikes: 0.076263
     id: ck5q8vcwo84lg0i11bbc8ia9h
     verified: false
-    hashtags: "#persian, #venice, #peace, #makeup"
-  - username: "mariangela__delucia"
-    fullname: >-
-      Mariangela.dlc 🤍 BodyPositive🌈
-    bio: >-
-      💃Bodypositive activist 👩‍⚕️ Nurse 💉🩺 📍Milano 🧚#Thyca Survivor 🎀Bold • Brilliant • Beautiful 🌸@bodypositivecatwalk member
-    location: "Italy"
-    followers: 3416
-    engagement: 664
-    commentsToLikes: 0.064486
-    id: ck5cfgfajmwg60i11sl330vx0
-    verified: false
-    hashtags: "#selflove, #plussizefashion, #italia, #outfit"
-  - username: "nicolemazzocato"
-    fullname: >-
-      Nicole
-    bio: >-
-      
-    location: "Italy"
-    followers: 1422945
-    engagement: 203
-    commentsToLikes: 0.007744
-    id: ck5bzbx68quf00i11tnofrb5a
-    verified: true
-    hashtags: "#suppliedby, #blackandwhite, #ootd, #blondie"
-  - username: "carmen__corona"
-    fullname: >-
-      Carmen
-    bio: >-
-      Italy_Sardinia Beauty&Fashion Singer
-    location: "Italy"
-    followers: 32463
-    engagement: 345
-    commentsToLikes: 0.030185
-    id: ckaox4a00bpys0i789hergnso
-    verified: false
-    hashtags: "#pink, #2021, #red, #ginger"
+    hashtags: "#persian, #cover, #mamrezabbasi, #flowers"
   - username: "unicornoveronika"
     fullname: >-
       Veronika||Вероніка🦄
@@ -103,28 +79,52 @@ profiles:
     id: ckap2bpk6y5xq0i78mdc3vkjs
     verified: false
     hashtags: "#fitnessmotivation, #beautifulplaces, #night, #photographylovers"
-  - username: "biancapanzironi"
+  - username: "fardinkasbkar"
     fullname: >-
-      Bianca Panzironi
+      Fardin Kasbkar
     bio: >-
-      PRO Make-up Artist in Milan • mi esprimo attraverso i 𝘎𝘦𝘵 𝘙𝘦𝘢𝘥𝘺 𝘞𝘪𝘵𝘩 𝘔𝘦 • 𝗚𝗹𝗮𝗺 | 𝗖𝗼𝗹𝗼𝗿𝗳𝘂𝗹 • e-mail for business enquires
+      🎬 🄷🄴🅂🅂 🅂🅃🅄🄳🄸🄾 📍Türkiye | Cyprus | Iran | Dubai 💍Married Wedding Studio & Planer Fashion Photography Advertising Teaser
     location: "Italy"
-    followers: 30441
-    engagement: 767
-    commentsToLikes: 0.040373
-    id: ck5ztzutv1f640i14i9uuxzs6
+    followers: 35390
+    engagement: 356
+    commentsToLikes: 0.026607
+    id: ck9ha9c2ibnmk0j789sa6a0xx
     verified: false
-    hashtags: "#halloweenmakeup, #allmodernmakeup, #redlips, #halloweenglamour"
-  - username: "mrdanielmakeup"
+    hashtags: "#atoliye, #2021, #fardinkasbkar, #fardinkasbkarstudio"
+  - username: "giuliagentile.93"
     fullname: >-
-      M R D A N I E L
+      Giulia Gentile
     bio: >-
-      Celebrity Makeup Artist 📍Milan Art Director of @nablacosmetics. ✉️info@danielelorusso.com NEW YT VIDEO:
+      Fotomodella Freelance Makeup Artist 📍Milano TikTok @giuliagentile.93 (+75k) 🍕 Ambassador @beatotemilano 🍔@mamma_milano Contenuti esclusivi ⬇️❤️
     location: "Italy"
-    followers: 646528
-    engagement: 458
-    commentsToLikes: 0.003653
-    id: ck0vw23r3rrd50i19tglhziwm
-    verified: true
-    hashtags: "#ghdmax, #birthdayboy, #mrdanielmakeup"
+    followers: 39020
+    engagement: 423
+    commentsToLikes: 0.014788
+    id: ckap7ryn3latq0i78g2l2u24p
+    verified: false
+    hashtags: "#portrait, #milano, #redhair, #zonarossa"
+  - username: "ameliemakeup88"
+    fullname: >-
+      ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀🌹•A M A L I A•🌹
+    bio: >-
+      📍Milano 💄Makeup Lover ✍🏻Apprendista tatuatrice/Apprentice tattoo artist 💌Collab:Ameliemakeup88@yahoo.it
+    location: "Italy"
+    followers: 2982
+    engagement: 1114
+    commentsToLikes: 0.278891
+    id: ck138cxltfmp50i19em8fgq27
+    verified: false
+    hashtags: "#avon, #mualinksearch, #kryolanitaly, #kryolanmakeup"
+  - username: "piangoarcobaleni"
+    fullname: >-
+      Mattia Attorre
+    bio: >-
+      Ostuni 22🦄 Based in Milan👑 Fashion Photographer📷 Makeup addicted💋 In questo profilo potreste trovare residui di Photoshop⚠️ VersACE🤷🏻‍♂️
+    location: "Italy"
+    followers: 9010
+    engagement: 1138
+    commentsToLikes: 0.056269
+    id: ck6tr176mw7zs0j71m6jmcpyq
+    verified: false
+    hashtags: "#coldmakeup, #malemakeup, #nyxcosmeticsdollhouse, #nyxcosmeticsitaly"
 ---

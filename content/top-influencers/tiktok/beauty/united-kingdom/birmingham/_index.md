@@ -1,11 +1,11 @@
 ---
-title: Top 10 Beauty TikTok Influencers In Birmingham In 2023
+title: Top 10 Beauty TikTok Influencers In Birmingham In 2024
 description: >-
-  Find top beauty TikTok influencers in Birmingham in 2023. Most popular hashtags: #fyp #foryou #duet #birmingham.
+  Find top beauty TikTok influencers in Birmingham in 2024. Most popular hashtags: #fyp #foryou #beauty #duet.
 platform: TikTok
 hits: 4
-text_top: Identify the most popular TikTok profiles on inBeat.
-text_bottom: Our platform has 4 TikTok influencers like this in Birmingham, United Kingdom for you to work with.
+text_top: Identify the top-rated TikTok influencers on inBeat.
+text_bottom: Our search engine aggregates 4 TikTok influencers like this in Birmingham, United Kingdom for you to pitch.
 profiles:
   - username: "pilotaadikhan"
     fullname: >-

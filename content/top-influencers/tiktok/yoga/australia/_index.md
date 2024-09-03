@@ -1,11 +1,11 @@
 ---
-title: Top 10 Yoga TikTok Influencers In Australia In 2023
+title: Top 10 Yoga TikTok Influencers In Australia In 2024
 description: >-
-  Find top yoga TikTok influencers in Australia in 2023. Most popular hashtags: #fyp #foryoupage #foryou #yogaflow.
+  Find top yoga TikTok influencers in Australia in 2024. Most popular hashtags: #fyp #foryoupage #foryou #yogaflow.
 platform: TikTok
-hits: 42
-text_top: Discover the top-rated TikTok accounts on inBeat.
-text_bottom: Our platform has 42 TikTok influencers like this in Australia for you to pitch.
+hits: 41
+text_top: Discover the most popular TikTok profiles on inBeat.
+text_bottom: Our database holds 41 TikTok influencers like this in Australia for you to contact.
 profiles:
   - username: "yogibaker"
     fullname: >-

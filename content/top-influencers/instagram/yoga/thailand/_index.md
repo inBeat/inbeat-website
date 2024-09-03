@@ -1,11 +1,11 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Thailand In 2023
+title: Top 10 Yoga Instagram Influencers In Thailand In 2024
 description: >-
-  Find top yoga Instagram influencers in Thailand in 2023. Most popular hashtags: #yoga #love #fitness.
+  Find top yoga Instagram influencers in Thailand in 2024. Most popular hashtags: #yoga #love #fitness.
 platform: Instagram
-hits: 11
-text_top: Discover the most popular Instagram influencers on inBeat.
-text_bottom: Our search engine holds 11 Instagram influencers like this in Thailand for you to contact.
+hits: 13
+text_top: See the top-rated Instagram accounts on inBeat.
+text_bottom: Our search engine aggregates 13 Instagram influencers like this in Thailand for you to work with.
 profiles:
   - username: "danschaubdesigns"
     fullname: >-
@@ -19,6 +19,30 @@ profiles:
     id: ck13ci2l70gf80i19y9b9pais
     verified: false
     hashtags: "#festivalart, #wearableart, #sacred, #hypnosis"
+  - username: "happiipony"
+    fullname: >-
+      Chanatda (P O N Y)™🦄✨
+    bio: >-
+      ʜᴇᴀʟᴛʜ ᴀɴᴅ ᴡᴇʟʟɴᴇꜱꜱ @diet.tips.leanfat เทรนลดน้ำหนัก ลีนหุ่น ทั่วโลก 💍𝓜𝓪𝓻𝓻𝓲𝓮𝓭 𝓽𝓸 @maxphira 🤰🏻𝓜𝓸𝓽𝓱𝓮𝓻 𝓸𝓯 @tanntaro @ponywantstosell DM / Line 👇
+    location: "Thailand"
+    followers: 10492
+    engagement: 939
+    commentsToLikes: 0.009910
+    id: ck5hle7s5k26z0i11mntjg7jw
+    verified: false
+    hashtags: "#enhexabeyond12, #sydney, #familytrip, #sydneyoperahouse"
+  - username: "idahui_"
+    fullname: >-
+      Ida  ▸ coffee & yoga balance ◂
+    bio: >-
+      ✧ Farfetch Promo Code : SECC-P93H72 ✧ Senior Editor ╷ RYT500╷ ✧ Founder @luxdaily_hk ✧ Ambassador @sweatybetty_hk 🛫 3 Paris 🛫 4 Seoul Job Enquiry ⬇️
+    location: "Thailand"
+    followers: 24016
+    engagement: 41
+    commentsToLikes: 0.002757
+    id: ckf5vlwpjp1rc0j2323oyfmqe
+    verified: false
+    hashtags: "#keepwatering, #worldoffrozen, #letitgolikeneverbefore, #forthefirsttimeinnovember"
   - username: "antoninagatsuli"
     fullname: >-
       Fb: Antonina Gatsuli
@@ -55,18 +79,6 @@ profiles:
     id: ckap7egt5jq3e0i7885smdc0g
     verified: false
     hashtags: "#fahtravel, #fahaerial, #fahyoga, #covid19yoga"
-  - username: "chipupu"
-    fullname: >-
-      Chi Pu
-    bio: >-
-      Singer/Actress 🇻🇳 Founder of @gom.entertainment 📸 @filmbychipu Dreams Don't Work Unless You Do.
-    location: "Thailand"
-    followers: 5293819
-    engagement: 155
-    commentsToLikes: 0.004317
-    id: ck0u82zrp6eds0i1994lagwsh
-    verified: true
-    hashtags: "#yoga, #yogapose, #dancepractice, #mynewswag"
   - username: "newwy_official"
     fullname: >-
       Be Humble🌸💓
@@ -97,34 +109,22 @@ profiles:
     bio: >-
       I’m here to make your day better 🦄 🐶 I’m Dolce! 📍 Bangkok, Thailand🇹🇭🇮🇳 🐽 10/10 will sniff your butt 🎂 11.10.18 🎾 Beagle boy #grumpybeaglesunited
     location: "Thailand"
-    followers: 7321
-    engagement: 358
-    commentsToLikes: 0.015326
+    followers: 7610
+    engagement: 1867
+    commentsToLikes: 0.013928
     id: ck15pumohzpkx0i19ujtxhgch
     verified: false
-    hashtags: "#carride, #noears, #ilovemymom, #newyears2021"
-  - username: "nattietrainhard"
+    hashtags: "#beagle, #beaglethailand, #beaglesofinstagram, #beaglelovers"
+  - username: "ann.manas"
     fullname: >-
-      Nattie Suraphayanon
+      Anna Manussanan Naklada
     bio: >-
-      Certified Personal Trainer (ACE) โค้ชนัทตี้ ข.ขยับ Thai PBS adidas TH workout/eat/travel work line id : nattie.trainhard #รู้ไว้ก็ดีแค่1นาทีกับนัทตี้
+      Work Line id : @ann.manas Co Founder @meganwellcare Training Online @annex.active Home Gym Kit @ava.addict Ceremonial @goodcha.bkk
     location: "Thailand"
-    followers: 165412
-    engagement: 265
-    commentsToLikes: 0.011426
-    id: ck6tjlfi52xyt0j71iybmf8fr
+    followers: 999620
+    engagement: 311
+    commentsToLikes: 0.004398
+    id: ck9h9tpvd9xnz0j78jws17198
     verified: false
-    hashtags: ""
-  - username: "victorchou8"
-    fullname: >-
-      Victor Chou Hsieh 周子軒
-    bio: >-
-      A happy soul made by a Taiwanese couple, born in Madrid, living in Bangkok 🤟🏻 Actor / Model 🎬📸 ⚽️🏌🏻⛹🏻‍♂️🧘🏻🎾 vchou8@gmail.com
-    location: "Thailand"
-    followers: 33804
-    engagement: 396
-    commentsToLikes: 0.008413
-    id: ckaozbk77l52k0i780yl4vxgg
-    verified: false
-    hashtags: "#rookiemistakes, #namaste, #behindthescenes, #golfislife"
+    hashtags: "#tomford, #amazingthailand, #merzaesthetics, #gracexfilmxbeloterorevive"
 ---

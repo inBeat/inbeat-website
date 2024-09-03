@@ -1,11 +1,11 @@
 ---
-title: Top 10 Gardening TikTok Influencers In Los Angeles In 2023
+title: Top 10 Gardening TikTok Influencers In Los Angeles In 2024
 description: >-
-  Find top gardening TikTok influencers in Los Angeles in 2023. Most popular hashtags: #gardening #plants #losangeles #fyp.
+  Find top gardening TikTok influencers in Los Angeles in 2024. Most popular hashtags: #gardening #plants #losangeles #fyp.
 platform: TikTok
 hits: 6
-text_top: See the top-rated TikTok influencers on inBeat.
-text_bottom: Our search engine aggregates 6 TikTok influencers like this in Los Angeles, United States for you to work with.
+text_top: See the best TikTok accounts on inBeat.
+text_bottom: inBeat has 6 TikTok influencers like this in Los Angeles, United States for you to work with.
 profiles:
   - username: "bekawiththegoodplants"
     fullname: >-
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.040575
     id: ckd0hydeaeq7l0j23bvjlqrt7
     verified: false
-    hashtags: "#fyp, #chef, #anthonybourdain, #destinationdepop"
+    hashtags: "#chef, #anthonybourdain, #cottagecore, #travel"
   - username: "farmernicknyc"
     fullname: >-
       Farmer Nick
@@ -90,7 +90,7 @@ profiles:
     commentsToLikes: 0.309111
     id: ckc8xfm28lcen0j23p1lup6zq
     verified: false
-    hashtags: "#gardening, #garden, #summer, #growfoodnow"
+    hashtags: "#growfoodnow, #gardening, #vacation, #garden"
   - username: "wholesomeroots"
     fullname: >-
       WholesomeRoots
@@ -109,12 +109,12 @@ profiles:
     bio: >-
       🪴Steph🪴 cottagecore gardening and travel ‼️Taxidermist‼️ Insta: nirian_vigora
     location: "United States"
-    followers: 3683
-    engagement: 2029
-    commentsToLikes: 0.034276
+    followers: 3804
+    engagement: 2044
+    commentsToLikes: 0.029445
     id: ckb10ql6ep92k0j2385rk4qy2
     verified: false
-    hashtags: "#frogtiktok, #plants, #frog, #lgbt"
+    hashtags: "#cottagecore, #lgbt, #frog, #frogtiktok"
   - username: "levelupirl"
     fullname: >-
       levelupirl

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Bakers Instagram Influencers In Argentina In 2023
+title: Top 10 Bakers Instagram Influencers In Argentina In 2024
 description: >-
-  Find top bakers Instagram influencers in Argentina in 2023. Most popular hashtags: #pan #tarta #cake #bread.
+  Find top bakers Instagram influencers in Argentina in 2024. Most popular hashtags: #cake #torta #pan #panaderia.
 platform: Instagram
-hits: 44
-text_top: Discover the best Instagram influencers on inBeat.
-text_bottom: inBeat has 44 Instagram influencers like this in Argentina for you to collaborate.
+hits: 41
+text_top: Identify the top-rated Instagram influencers on inBeat.
+text_bottom: Our database holds 41 Instagram influencers like this in Argentina for you to pitch.
 profiles:
   - username: "paz_baker"
     fullname: >-
@@ -31,6 +31,18 @@ profiles:
     id: ck0uadxg8c2vf0i19hykd9n23
     verified: false
     hashtags: ""
+  - username: "amasa.madre"
+    fullname: >-
+      Maria Claudia Romero
+    bio: >-
+      🙋🏼 panadera, pastelera y diseñadora de interiores 🏡 Recetas realizables y súper chequeadas. 😎 #tesacopanadera ❤️🍞🇦🇷TikTok
+    location: "Argentina"
+    followers: 540135
+    engagement: 284
+    commentsToLikes: 0.031336
+    id: ck15pt14fzi9f0i19857jydag
+    verified: false
+    hashtags: "#veggiefood, #pasteleria, #pan, #tortas"
   - username: "olga_vila"
     fullname: >-
       Olga Vila | Food Stylist
@@ -43,18 +55,6 @@ profiles:
     id: ck5zu96tf1x310i14wlra1gbu
     verified: false
     hashtags: "#pepitagreens, #foodfluffer, #foodstyling, #cookmagazine"
-  - username: "amasa.madre"
-    fullname: >-
-      Claudia Romero 🥖🇦🇷
-    bio: >-
-      🙋🏼Madre, panadera, diseñadora de interiores 🏡 recetas 🍞amasa madre 💆🏼estas en el horno💁🏼el horno no muerde 🙍🏼#tesacopanadera 😎 La Plata ❤️🍞🇦🇷
-    location: "Argentina"
-    followers: 241822
-    engagement: 100
-    commentsToLikes: 0.047332
-    id: ck15pt14fzi9f0i19857jydag
-    verified: false
-    hashtags: "#pancasero, #foodporn, #amasamadre, #tarta"
   - username: "daro_1801"
     fullname: >-
       Daro Rodriguez

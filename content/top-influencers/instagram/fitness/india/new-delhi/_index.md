@@ -1,36 +1,24 @@
 ---
-title: Top 10 Fitness Instagram Influencers In New Delhi In 2023
+title: Top 10 Fitness Instagram Influencers In New Delhi In 2024
 description: >-
-  Find top fitness Instagram influencers in New Delhi in 2023. Most popular hashtags: #fitness #fashion #motivation #photography.
+  Find top fitness Instagram influencers in New Delhi in 2024. Most popular hashtags: #love #fitness #ootd #reels.
 platform: Instagram
-hits: 42
-text_top: Identify the most popular Instagram influencers on inBeat.
-text_bottom: Our platform has 42 Instagram influencers like this in New Delhi, India for you to pitch.
+hits: 39
+text_top: Analyze the best Instagram influencers on inBeat.
+text_bottom: Our database holds 39 Instagram influencers like this in New Delhi, India for you to connect with.
 profiles:
-  - username: "styleawhileofficial"
+  - username: "i_am_sharik_"
     fullname: >-
-      Shreya Jain
+      S H A R I K - P O P 🌚
     bio: >-
-      #shreyajain 👠 Fashion and Lifestyle Blogger 👗 Costume Stylist 🧘🏼‍♀️ Fitness Influencer 🐶 Dog Lover 📍 New Delhi / Punjab 🇮🇳
+      🌙ٱلْحَمْدُ لِلَّٰهِ 23👨🏻‍🎤 Managed by :- @gm_talents_ 2.8M on Moj 🎭 1.3M on Mx Takatak ♥️ Fitness Icon 💪 Etawah - New Delhi 📍
     location: "India"
-    followers: 163065
-    engagement: 244
-    commentsToLikes: 0.058658
-    id: ck9wgrkyfuokp0j78wjzd69ae
-    verified: true
-    hashtags: "#fashioninfluencer, #turnup, #turnitup, #carlaunch"
-  - username: "arjunkapoor"
-    fullname: >-
-      Arjun Kapoor
-    bio: >-
-      Son, Brother, Friend & Actor (All 4 work in progress)
-    location: "India"
-    followers: 14424889
-    engagement: 51
-    commentsToLikes: 0.008603
-    id: ck0txnc8kjqqy0i19ekizyv5u
-    verified: true
-    hashtags: "#kuttey, #fifaworldcup2022, #bhushankumar, #luvranjan"
+    followers: 750089
+    engagement: 56
+    commentsToLikes: 0.005483
+    id: ck8wf3bo9f2790j783h7f2svb
+    verified: false
+    hashtags: "#islam, #keepgoing, #muslim, #sharikpoplover"
   - username: "itz.manish.choudhary"
     fullname: >-
       ★𝐌𝐚𝐧𝐢𝐬𝐡 𝐌𝐮𝐧𝐝𝐞𝐥★
@@ -43,6 +31,90 @@ profiles:
     id: ckap1tyhow4uv0i78owey45r1
     verified: false
     hashtags: "#jattlife, #fashionblogger, #happy, #choudhary"
+  - username: "aditya_rana"
+    fullname: >-
+      Aditya rana
+    bio: >-
+      New Delhi📍 Airline Pilot | Airbus 320 ✈️ Travel | Lifestyle Snapchat - aditya_rana25 📧adityaranainfo@gmail.com
+    location: "India"
+    followers: 63547
+    engagement: 1699
+    commentsToLikes: 0.010389
+    id: ck8t46xld5pl60j78q8a8q24r
+    verified: false
+    hashtags: "#pet, #ootd, #menswear, #dubai"
+  - username: "kiara.fulara"
+    fullname: >-
+      Kiara 👰🏻
+    bio: >-
+      👗|| FASHION 👜|| LIFESTYLE 🛵|| TRAVEL 🇮🇳|| NEW DELHI ( INDIA ) 📬|| DM or Mail Queries/Collabs 🔻SUBSCRIBE🔻
+    location: "India"
+    followers: 193642
+    engagement: 2875
+    commentsToLikes: 0.007709
+    id: ck8werlb1ei8t0j789nw8tukn
+    verified: false
+    hashtags: "#styleblogger, #ootd, #lifestyle, #trending"
+  - username: "mohit_bisht"
+    fullname: >-
+      Mohit Bisht
+    bio: >-
+      📍New Delhi 🙅🏻‍♂️ Partner @moyo_apparels 🖥 Streamer @mobeast_official 👕 @nexstepapparel (code - MOHIT) 💪🏻 @muscleblaze (code - MOHIT30) 🎥Youtube 👇
+    location: "India"
+    followers: 26944
+    engagement: 2916
+    commentsToLikes: 0.012626
+    id: ck6u0w3dyi2uh0j71qgl9sdkw
+    verified: false
+    hashtags: "#explore, #funny, #gymmemes, #reels"
+  - username: "sktphotos"
+    fullname: >-
+      Shashank Tyagi
+    bio: >-
+      Freelance Photographer Our Fortes:- Fashion . Jewellery . Products 📍 New Delhi . 📩tyagishashank@sktphotos.com
+    location: "India"
+    followers: 21549
+    engagement: 345
+    commentsToLikes: 0.002648
+    id: ck5hrfrg8usyw0i11oymtiaxr
+    verified: false
+    hashtags: "#male, #productshoot, #productphotographer, #editorial"
+  - username: "masoomshankarofficial"
+    fullname: >-
+      Maasoom Shankar
+    bio: >-
+      Metamorphosing 🦋🤍🧿 📍Mumbai | Chennai | New Delhi | Hyderabad
+    location: "India"
+    followers: 606008
+    engagement: 188
+    commentsToLikes: 0.011484
+    id: ck14jt439m1r50i19809dnhvt
+    verified: false
+    hashtags: "#live, #potraitphotography, #blogger, #bollywoodmovies"
+  - username: "iamsukhmanibedi"
+    fullname: >-
+      Sukhmani Kaur Bedi
+    bio: >-
+      #SKBLIVE New Delhi - Shillong For show bookings - +91 98916 12000
+    location: "India"
+    followers: 36290
+    engagement: 62
+    commentsToLikes: 0.110310
+    id: ckaoz9k0akyno0i78qowdg5ug
+    verified: true
+    hashtags: "#trending, #fitnessmotivation, #love, #video"
+  - username: "styleawhileofficial"
+    fullname: >-
+      Shreya Jain
+    bio: >-
+      Fashion | Lifestyle | Fitness | Dance | Beauty ✨ 👗 Costume Stylist 🐶 Dog Lover 📍 New Delhi / Punjab ☎️ Managed by One Club
+    location: "India"
+    followers: 277225
+    engagement: 30
+    commentsToLikes: 0.069050
+    id: ck9wgrkyfuokp0j78wjzd69ae
+    verified: true
+    hashtags: "#ayurvedichealingvillage, #fashion, #healingretreat, #fyp"
   - username: "muufatt_"
     fullname: >-
       Swarnima
@@ -55,76 +127,4 @@ profiles:
     id: ck8wg7hblguy00j785tcnx2hy
     verified: false
     hashtags: "#canada, #weightloss, #workout, #fallvibes"
-  - username: "pragya.acp"
-    fullname: >-
-      Pragya Anand
-    bio: >-
-      ACP Chanakyapuri, New Delhi district, Delhi Police DANIPS officer, UPSC CSE 2014 JNU, DU Notre Dame Academy, Patna For emergency Dial 112
-    location: "India"
-    followers: 50877
-    engagement: 1898
-    commentsToLikes: 0.015081
-    id: ck9wefuddk2pw0j782k6rh44k
-    verified: false
-    hashtags: "#danips, #upscmotivation, #safetyfirst, #coronatimes"
-  - username: "tusharikasethi"
-    fullname: >-
-      Tusharika Sethi
-    bio: >-
-      Travel | Food | Lifestyle 📍New Delhi Conquering the world ✈️ 💌 hellotusharika@gmail.com
-    location: "India"
-    followers: 5776
-    engagement: 664
-    commentsToLikes: 0.082820
-    id: ckap02xjhohdn0i78bqctyjt1
-    verified: false
-    hashtags: "#poser, #sea, #traveldiaries, #hiking"
-  - username: "sugandhrastogiofficial"
-    fullname: >-
-      Sugandh Rastogi
-    bio: >-
-      A believer ✨ Aspire to inspire 🦋 I practice what I post✨ 📧 - thehandsdownfashion@gmail.com 📍New Delhi
-    location: "India"
-    followers: 165672
-    engagement: 94
-    commentsToLikes: 0.071725
-    id: ck139vsklnd5f0i190a9fjl3w
-    verified: false
-    hashtags: "#sugandhrastogiofficial, #mondayblues, #sugandhrastogi, #selfiestagram"
-  - username: "ankur.dua"
-    fullname: >-
-      Ankur Dua
-    bio: >-
-      22 || 📍New Delhi DM/Mail for paid promotion & collaboration Email- ankur.dua999@gmail.com Snapchat👻- ankurdua99
-    location: "India"
-    followers: 171758
-    engagement: 257
-    commentsToLikes: 0.018824
-    id: ck9wg37jxrp3u0j78v3medvr0
-    verified: false
-    hashtags: "#viralreels, #explorepage, #punjabi, #viralpost"
-  - username: "nikhilsharmaa._"
-    fullname: >-
-      N I K H I L
-    bio: >-
-      📍 New Delhi , IN Snapchat : niikhiil1 DM or email for business or collaboration 📥
-    location: "India"
-    followers: 24639
-    engagement: 806
-    commentsToLikes: 0.018837
-    id: ck9wp305l7l0t0j783xjn34fr
-    verified: false
-    hashtags: "#twins, #fitness, #bhfyp, #fashion"
-  - username: "abhishek_berwal_"
-    fullname: >-
-      अभिषेक बेरवाल
-    bio: >-
-      DTU’22 | KV’18 | New Delhi 📩 berwal69@gmail.com
-    location: "India"
-    followers: 11691
-    engagement: 1139
-    commentsToLikes: 0.032052
-    id: ckapav5r4xl800i7816ehskzo
-    verified: false
-    hashtags: "#pose, #hairstyle, #fitness, #gym"
 ---

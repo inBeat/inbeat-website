@@ -1,12 +1,36 @@
 ---
-title: Top 10 Dancers Instagram Influencers In United Arab Emirates In 2023
+title: Top 10 Dancers Instagram Influencers In United Arab Emirates In 2024
 description: >-
-  Find top dancers Instagram influencers in United Arab Emirates in 2023. Most popular hashtags: #dance #dancer #dubai.
+  Find top dancers Instagram influencers in United Arab Emirates in 2024. Most popular hashtags: #dancer #dubai #dance.
 platform: Instagram
-hits: 21
-text_top: Analyze the top-rated Instagram influencers on inBeat.
-text_bottom: Our platform has 21 Instagram influencers like this in United Arab Emirates for you to pitch.
+hits: 23
+text_top: Analyze the most popular Instagram profiles on inBeat.
+text_bottom: Our platform aggregates 23 Instagram influencers like this in United Arab Emirates for you to contact.
 profiles:
+  - username: "karinapalma"
+    fullname: >-
+      Karina Palmira
+    bio: >-
+      Based in DUBAI 🇦🇪 Dance with me online➡️ @karinapalma_afrodance 🔺 @moto_dancers_afrobeats 📥 motodancers@gmail.com
+    location: "United Arab Emirates"
+    followers: 369381
+    engagement: 235
+    commentsToLikes: 0.016233
+    id: ck0u0k9vtu2tz0i1942nthmoa
+    verified: false
+    hashtags: "#karinapalma, #xtracool, #onlinedanceclass, #uganda"
+  - username: "iamalexandreossey"
+    fullname: >-
+      Alexandre Ossey |CQNS
+    bio: >-
+      📍Dubai . Paris Model |Dancer |Consultant |Dj @Novamen Ambassador Founder @chicbougieandco Instagram commun : @cequenousommes
+    location: "United Arab Emirates"
+    followers: 217709
+    engagement: 76
+    commentsToLikes: 0.015596
+    id: ck5pyee49vm1r0i11xb4s1cmw
+    verified: false
+    hashtags: "#dubailife, #streestyle, #dubaimodels, #streetwear"
   - username: "madhuri.chavan7"
     fullname: >-
       Madhuri Chavan
@@ -43,30 +67,6 @@ profiles:
     id: ck5qe4io1yolj0i116hx57kbv
     verified: false
     hashtags: "#dancevideos, #dancelove, #baking, #bakingvideo"
-  - username: "yasvocals"
-    fullname: >-
-      YAS ~ Dubai ♪
-    bio: >-
-      ⁣ ⁣founder @yasmusicdance ⁣@scandalousheels⁣ Singer | Dancer | Choreographer 🇦🇺🇸🇰🇲🇦⁣⠀⁣⁣ Dubai📍| LA⁣ ⁣⁣ TikTok @yasvocals⁣ ONLY ONE music video 👇🏼
-    location: "United Arab Emirates"
-    followers: 227522
-    engagement: 586
-    commentsToLikes: 0.037054
-    id: ck5pzjrqv1bhs0i11w66uod6y
-    verified: false
-    hashtags: "#heelsdance, #dubaidancers, #prettylittlething, #yaskleopatra"
-  - username: "karinapalma"
-    fullname: >-
-      Karina Palmira
-    bio: >-
-      🔺 @moto_dancers_afrobeats 🔺 @dhfworldwide 📥 motodancers@gmail.com Online dance course⤴️
-    location: "United Arab Emirates"
-    followers: 358118
-    engagement: 195
-    commentsToLikes: 0.016835
-    id: ck0u0k9vtu2tz0i1942nthmoa
-    verified: false
-    hashtags: "#amapiano, #mbol, #dancefusionnow, #ndombolo"
   - username: "gracielapischner"
     fullname: >-
       Graciela Pischner 🧿جراسيلا
@@ -83,14 +83,14 @@ profiles:
     fullname: >-
       Carmen Fragoso
     bio: >-
-      I’m a Mexican choreographer & Dancing Coach specialized in Belly/Khaleeji Dancing. Based in Dubai Bookings: carmenfragosob1@gmail.com
+      🔹Professional Bellydancer 🔹Content creator (644k YouTube) 🔹Dubai 📍 🔹Book my show 📞 ⬇️
     location: "United Arab Emirates"
-    followers: 311864
-    engagement: 286
-    commentsToLikes: 0.024868
+    followers: 339463
+    engagement: 234
+    commentsToLikes: 0.023663
     id: ck0w5lxmx4aol0i19k32i036t
     verified: false
-    hashtags: "#iraq, #iraqidance, #carmenfragoso, #carmenfragosodance"
+    hashtags: "#selfie, #carmenfragoso, #carmenfragosodancer, #carmenfragosodance"
   - username: "flexifarah"
     fullname: >-
       Farah
@@ -115,16 +115,16 @@ profiles:
     id: ckaowb1il84rt0i785i2003qi
     verified: false
     hashtags: "#dubaidancer, #dancerlife, #tiktokarabia, #hiphopdancer"
-  - username: "jeremyfragrance"
+  - username: "dalidakhalilofficial"
     fullname: >-
-      Jeremy Fragrance
+      𝑫𝒂𝒍𝒊𝒅𝒂  𝑲𝒉𝒂𝒍𝒊𝒍
     bio: >-
-      ◾️Hashtag: #jeremyfragrance ◾️My Brand @fragrance.one ◾️My Youtube:
+      🔹Artist at Heart ♥️ 👻| DalidaKhalil Twitter| DalidaKhalil New Release #Moody_Aaly ⬇️
     location: "United Arab Emirates"
-    followers: 745199
-    engagement: 183
-    commentsToLikes: 0.011596
-    id: ck55jpd4txhwe0i114kvhgmvy
+    followers: 2689671
+    engagement: 227
+    commentsToLikes: 0.013151
+    id: ck5bxjl9pnull0i11qxwafbvs
     verified: true
-    hashtags: "#party, #fans, #fan, #fragrances"
+    hashtags: "#art, #naturegetaway, #tranquilretreat, #paradisefound"
 ---

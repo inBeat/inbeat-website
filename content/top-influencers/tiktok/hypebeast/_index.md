@@ -1,11 +1,11 @@
 ---
-title: Top 10 Hypebeast TikTok Influencers In 2023
+title: Top 10 Hypebeast TikTok Influencers In 2024
 description: >-
-  Find top hypebeast TikTok influencers in 2023. Most popular hashtags: #fyp #hypebeast #sneakerhead #sneakers.
+  Find top hypebeast TikTok influencers in 2024. Most popular hashtags: #hypebeast #fyp #sneakerhead #sneakers.
 platform: TikTok
-hits: 314
-text_top: See the most popular TikTok accounts on inBeat.
-text_bottom: inBeat holds 314 TikTok influencers like this for you to work with.
+hits: 315
+text_top: Identify the best TikTok influencers on inBeat.
+text_bottom: Our search engine holds 315 TikTok influencers like this for you to contact.
 profiles:
   - username: "yvngrice"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.009234
     id: ck8f7ukwk37gt0j7865h6i8pw
     verified: false
-    hashtags: "#learnontiktok, #fyp, #yyc, #hypebeastcheck"
+    hashtags: "#yyc, #hypebeastcheck, #notfyp, #sponsored"
   - username: "ashdiamond"
     fullname: >-
       ash
@@ -78,19 +78,19 @@ profiles:
     commentsToLikes: 0.046338
     id: ck9glclqknlpf0j786olklmgw
     verified: false
-    hashtags: "#sneaker, #sneakerhead, #shoetok, #hypebeast"
+    hashtags: "#sneakerhead, #fyp, #sneaker, #hypebeast"
   - username: "nohoesyorsh"
     fullname: >-
-      abovetherimhoops
+      yorsh
     bio: >-
       professional failure
     location: "United States"
-    followers: 6017
-    engagement: 1609
-    commentsToLikes: 0.091755
+    followers: 5958
+    engagement: 1081
+    commentsToLikes: 0.045068
     id: ckbf7fig4xba20j23d29435oq
     verified: false
-    hashtags: "#sneakers, #kicks, #lakers, #basketball"
+    hashtags: "#shoes, #basketball, #sneakerhead, #nba"
   - username: "tommytrillions"
     fullname: >-
       IG: @tommytrillions

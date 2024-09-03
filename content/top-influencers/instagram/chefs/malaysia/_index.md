@@ -1,12 +1,60 @@
 ---
-title: Top 10 Chefs Instagram Influencers In Malaysia In 2023
+title: Top 10 Chefs Instagram Influencers In Malaysia In 2024
 description: >-
-  Find top chefs Instagram influencers in Malaysia in 2023. Most popular hashtags: #foodporn #foodie #delhifoodie #indianfood.
+  Find top chefs Instagram influencers in Malaysia in 2024. Most popular hashtags: #food #delicious #foodporn #foodie.
 platform: Instagram
-hits: 11
-text_top: See the top-rated Instagram profiles on inBeat.
-text_bottom: Our database aggregates 11 Instagram influencers like this in Malaysia for you to pitch.
+hits: 17
+text_top: See the most popular Instagram profiles on inBeat.
+text_bottom: Our platform aggregates 17 Instagram influencers like this in Malaysia for you to pitch.
 profiles:
+  - username: "daphnecharice"
+    fullname: >-
+      DAPHNE D調
+    bio: >-
+      #deaftune music + pastry chef 💼For work | daphnecharicetan@gmail.com My songs 聽我的歌「死心塌地」& 「CLOSE TO 9」on kkbox & spotify
+    location: "Malaysia"
+    followers: 177963
+    engagement: 179
+    commentsToLikes: 0.004194
+    id: ck0vy22nw1v300i19q7ofwubg
+    verified: false
+    hashtags: "#daphinitelykuns, #diptyqueparis, #diptyque, #diptyquemy"
+  - username: "shersonlian"
+    fullname: >-
+      Sherson Lian
+    bio: >-
+      Asia-based, Worldwide Taste TV Host, Chef & Entrepreneur #5R5R #FamilyKitchenwithSherson @makhanbykitchenmafia ☎+6012 235 1567 📧sofy@svltan.com
+    location: "Malaysia"
+    followers: 143331
+    engagement: 62
+    commentsToLikes: 0.021943
+    id: ck6udgxojl1fg0j716gcbzp51
+    verified: true
+    hashtags: "#malaysianfood, #svltan, #masakan, #reel"
+  - username: "thecookwife"
+    fullname: >-
+      The Cook Wife 🧕🏻
+    bio: >-
+      📍Malaysia 🇲🇾 🧕🏻Definitely not a Chef 📩DM for collaboration/review
+    location: "Malaysia"
+    followers: 288789
+    engagement: 56
+    commentsToLikes: 0.051393
+    id: ck9h9ogum9bd50j78on8wbfql
+    verified: false
+    hashtags: "#asianfood, #sayamasak, #foodism, #instafood"
+  - username: "alvinseeck"
+    fullname: >-
+      Alvin • 徐金强 💎
+    bio: >-
+      🌟 Content Creator | Photographer 🔗 I talk about Tech & Gadgets & Beauty on TikTok ™️ TikTok (7k+) 🌊 Skincare is chef kiss 🫶🏻 📨 alvinseeck@gmail.com
+    location: "Malaysia"
+    followers: 46532
+    engagement: 13
+    commentsToLikes: 0.006149
+    id: ck0u7q7tu5h3t0i19u7kym7xn
+    verified: false
+    hashtags: "#techreview, #skincare, #photography, #foryou"
   - username: "wannaeat16"
     fullname: >-
       Shifa Shiwangi|Food&Lifestyle
@@ -19,18 +67,6 @@ profiles:
     id: ck8tdq10m4cn00j7852e2zfhs
     verified: false
     hashtags: "#deliciousplatter, #foodphotographyworkshop, #foodmaniacindia, #goodfoodindia"
-  - username: "shersonlian"
-    fullname: >-
-      Sherson Lian
-    bio: >-
-      Asia-based, Worldwide Taste TV Host, Chef & Entrepreneur #5R5R #FamilyKitchenwithSherson @makhanbykitchenmafia ☎ Sarah +60164439194 📧 sarah@svltan.com
-    location: "Malaysia"
-    followers: 69140
-    engagement: 127
-    commentsToLikes: 0.036221
-    id: ck6udgxojl1fg0j716gcbzp51
-    verified: true
-    hashtags: "#rm10plates, #rencahbysherson, #perangperiuk, #airasiafresh"
   - username: "therealtamikascott"
     fullname: >-
       Tamika Scott
@@ -43,18 +79,6 @@ profiles:
     id: ck14gscac6s3s0i19cwhowt79
     verified: true
     hashtags: "#kandi, #cookingwithtamikascott, #singer, #trinabraxton"
-  - username: "blogbywafa"
-    fullname: >-
-      Wafa Rehman
-    bio: >-
-      Content Creator 👩‍💼 Home Chef 👩‍🍳 Beauty/Fashion/Lifestyle/Food Blogger DM me for Product Review & Collaboration Twitter @wafarehman12
-    location: "Malaysia"
-    followers: 34099
-    engagement: 307
-    commentsToLikes: 0.104983
-    id: ck5bxs0deob9m0i11awzcsyo0
-    verified: false
-    hashtags: "#blogbywafa, #sale, #blogbywafaxpaidpartnership, #boring"
   - username: "wangpix"
     fullname: >-
       Phil Wang
@@ -67,6 +91,30 @@ profiles:
     id: ck0tyafsom5ml0i199gnn0mtk
     verified: true
     hashtags: "#rosietriestohelp, #kevinsroughguidetothefuture, #datingtwitter, #ad"
+  - username: "ridhwaniqbal98"
+    fullname: >-
+      Mohamed Ridhwan
+    bio: >-
+      Part-time “ shef “ 👨‍🍳 | 📍 Kuching, Malaysia 🇲🇾
+    location: "Malaysia"
+    followers: 12288
+    engagement: 1161
+    commentsToLikes: 0.009454
+    id: ck9wf45zin4lk0j78aafmaahm
+    verified: false
+    hashtags: "#sweet, #foodies, #drinks, #foodblogger"
+  - username: "soheila_ghezelbash"
+    fullname: >-
+      Soheila Ghezelbash
+    bio: >-
+      ‎ فارغ التحصیل آشپزی ملل 👩🏻‍🎓 ‎مشاوره و آموزش منو کافه و رستوران شرایط همکاری👇🏻 @soheilaghezelbash.ads
+    location: "Malaysia"
+    followers: 167724
+    engagement: 424
+    commentsToLikes: 0.033403
+    id: ck139oowtmda60i19drmjnwbr
+    verified: false
+    hashtags: "#dessert, #delish, #cook, #yummy"
   - username: "flyingfoodie.ff"
     fullname: >-
       Flying Foodie | FF
@@ -79,52 +127,4 @@ profiles:
     id: ckaoxs8qyeigv0i78mst3s7rn
     verified: false
     hashtags: "#hkisland, #hkfood, #causewaybay, #foodporn"
-  - username: "bhukkadboyz"
-    fullname: >-
-      Odisha Foodie || Tapan Sethi
-    bio: >-
-      📍BHUBANESWAR "अच्छा खाये स्वस्थ रहे" 🔸FOOD REVIEW🍔 🔸TRAVEL 🏍️🚴🚕✈️ 🔸 BRAND INFLUENCER DM 📩 Collabs/Invites/Promotion Use #bhukkadboyz to get featured
-    location: "Malaysia"
-    followers: 6994
-    engagement: 535
-    commentsToLikes: 0.186160
-    id: ckaowdrdw8hmf0i78mmon3c0x
-    verified: false
-    hashtags: "#foodtalkindia, #foodporn, #kolkatablogger, #foodbuzz"
-  - username: "ranjitharprabhu"
-    fullname: >-
-      Ranjitha R Prabhu
-    bio: >-
-      ❤️Keralite with Dilli wala dil 👩🏻‍🍳Desi 🇮🇳 homecook in Videsh 🇺🇸 📍Seattle, Washington 🤝DM for #collaboration/#product review
-    location: "Malaysia"
-    followers: 3372
-    engagement: 904
-    commentsToLikes: 0.172949
-    id: ck8t7sfh7hu7a0j78536q0igm
-    verified: false
-    hashtags: "#dessertlover, #desi, #foodiesofinstagram, #malayali"
-  - username: "mariajjcm"
-    fullname: >-
-      Maria Tunku Sabri
-    bio: >-
-      TV Presenter,Professional Emcee,Professional Speaker,Actress, VO Talent email for enquiries mariajjcm@yahoo.com or watsapp 019-2177267 IG got hacked
-    location: "Malaysia"
-    followers: 133966
-    engagement: 89
-    commentsToLikes: 0.076727
-    id: ck0w5s3c7560q0i19k034o5l1
-    verified: false
-    hashtags: "#mariajjcmcooks, #letscatchhackers, #ratulatepost, #ihatehackers"
-  - username: "ginyuudai"
-    fullname: >-
-      GINYUUDAI - กินอยู่ได้
-    bio: >-
-      🔻CONTACT US🔻 📥 : DM 📲 : faeiii (LINE) 📩 : ginyuudai@gmail.com . EAT🍴| COOK 🍳 | REVIEW📝 | INSPIRE💡 🍔🍟🍕🌯🥟🍣🍜🍡🧁🍧🍰🍫🍵🍹🍾 🙏 : Share Your Food with #GINYUUDAI
-    location: "Malaysia"
-    followers: 343474
-    engagement: 74
-    commentsToLikes: 0.003194
-    id: ck0u891bq6t1y0i19y8w76oh4
-    verified: false
-    hashtags: "#ginyuudaixsukhumvit, #ginyuudai, #ginyuudaixomakase, #ginyuudaixprompong"
 ---

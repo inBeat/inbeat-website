@@ -1,130 +1,130 @@
 ---
-title: Top 10 Lifestyle Instagram Influencers In Australia In 2023
+title: Top 10 Lifestyle Instagram Influencers In Australia In 2024
 description: >-
-  Find top lifestyle Instagram influencers in Australia in 2023. Most popular hashtags: #sydneylocal #australia #sydney.
+  Find top lifestyle Instagram influencers in Australia in 2024. Most popular hashtags: #sydney #australia #travel #goldcoast.
 platform: Instagram
-hits: 307
-text_top: Discover the best Instagram influencers on inBeat.
-text_bottom: Our database has 307 Instagram influencers like this in Australia for you to work with.
+hits: 569
+text_top: Identify the top-rated Instagram influencers on inBeat.
+text_bottom: Our search engine has 569 Instagram influencers like this in Australia for you to connect with.
 profiles:
-  - username: "postcards_from_maria"
+  - username: "franmagiera"
     fullname: >-
-      Maria Francesca Reynolds ❀
+      Fran Magiera | Travel & Lifestyle
     bio: >-
-      From #UK 🇬🇧 Living in #Queensland 🇦🇺 Travel & Lifestyle Content Creator Founder of @planmytravels2020 -Providing bespoke itineraries within #Australia
+      ✨ aussie travel & lifestyle blogger ⚡️ sharing solo travel travel & hidden gems 📍 currently in: Sydney 🇦🇺 👇🏼 presets & blog
     location: "Australia"
-    followers: 9207
-    engagement: 819
-    commentsToLikes: 0.150459
-    id: ckap3yn6x52i80i78gi5tpuwo
+    followers: 11447
+    engagement: 470
+    commentsToLikes: 0.179572
+    id: ck5hsq2i4x01e0i11zn9uqpjl
     verified: false
-    hashtags: "#townsville, #queenslandlife, #visitaustralia, #explorequeensland"
-  - username: "jolyslife"
+    hashtags: "#sydneyaustralia, #sydney, #bangkok, #thailandtrip"
+  - username: "doitforicecream"
     fullname: >-
-      ↞ JOLYSLIFE • SYDNEY BLOGGER ↠
+      Gracie Lim
     bio: >-
-      Jolyslife, the life never stops creating ❝ be ambitious, be adventurous, be Jolyslife ❞ ↞ Follow for Joly’s lifestyle and travel content ↠
+      💫: Travel Asia, lifestyle, Inspiration 🌸. 💫: Filipino in Sydney 🇦🇺🌸 Email for inquiries📧
     location: "Australia"
-    followers: 27248
-    engagement: 495
-    commentsToLikes: 0.682990
-    id: ck9hbrzaqi6iw0j78cuznesd4
+    followers: 50588
+    engagement: 418
+    commentsToLikes: 0.126104
+    id: ck0vv6mqcnry20i19mounwtg9
     verified: false
-    hashtags: "#nsw, #northernbeaches, #sydneyaustralia, #portrait"
-  - username: "sammyxkay"
+    hashtags: "#bangkokspirit, #thailandtravel, #deckthehalls, #sydneylife"
+  - username: "gabidibbs"
     fullname: >-
-      Sammyboo - Livestreamer
+      • GABRIELLA DIBBS •
     bio: >-
-      📍Sydney girl 🇦🇺 💕Lifestyle 🙆🏼‍♀️ Travel ✈️ Streamer🎥 💄 @sammyxglam 🐹 Living a double life 📩collab@sammyxkay.com (business/collab/PR) 🍯☀️🌈
+      📍Australia 📸 Travel & Lifestyle Content Creator 🌏 Owner of 1.7M+ Travel Network: @amazingdestination.s | @amazingadventure.s | @amazinghotel.s
     location: "Australia"
-    followers: 51062
-    engagement: 451
-    commentsToLikes: 0.110260
-    id: ck15qncmd3p2w0i19k4twt0s4
+    followers: 8586
+    engagement: 423
+    commentsToLikes: 0.039395
+    id: ck6u6jbxofx630j71w4cskf49
     verified: false
-    hashtags: "#newzealandfinds, #ootdstyle, #sydneygirl, #sydneyfoodblogger"
-  - username: "love.christina.xo"
+    hashtags: "#sunsets, #model, #goldcoastliving, #sunshine"
+  - username: "leonormacedo"
     fullname: >-
-      ✨Christina✨
+      Leonor Macedo | Model & UGC Creator | GC, Aus
     bio: >-
-      🌟Digital creator & photographer 💫Travel, fashion, beauty, health & lifestyle ✨WINK model: info@winkmodels.com.au or hello@lovechristinaxo.com
+      Healthy Lifestyle ☼ Beach ☼ Travel Portuguese in Gold Coast, Australia Creating the life of my dreams☼@hey_sunseekers
     location: "Australia"
-    followers: 280068
-    engagement: 382
-    commentsToLikes: 0.080138
-    id: ck13c84lqz1y50i192xk9bkvq
+    followers: 35413
+    engagement: 529
+    commentsToLikes: 0.022059
+    id: ck13day304jhn0i19lvnzv5ac
     verified: false
-    hashtags: "#wearingtoday, #macquariepassnationalpark, #outfitshot, #editorialfashion"
-  - username: "laurahwclx"
+    hashtags: "#islandlife, #travel, #australia, #movinghome"
+  - username: "kara_aus"
     fullname: >-
-      Laurah
+      KARA | Import Model • Cars • Sydney Australia
     bio: >-
-      ✨Fashion / Lifestyle 🇦🇺Based in Perth, Western Australia @yesstyle discount code “LAURAHWCLX21” 💌 For business enquiries, DM or email me
+      Australian model in Sydney Australia passionate about cars, automotive events & fashion Sharing her lifestyle as an import model at car events
     location: "Australia"
-    followers: 40744
-    engagement: 508
-    commentsToLikes: 0.045919
-    id: ck0w4ezrey97h0i19kv1o4rg2
+    followers: 16882
+    engagement: 593
+    commentsToLikes: 0.020696
+    id: ck14lmkqfvf4m0i19logfnzgc
     verified: false
-    hashtags: "#petitecherry, #yesstyleclub"
-  - username: "ateaspoonofstyle"
+    hashtags: "#australiangirl, #babesofinsta, #australianinfluencer, #schassisloyalty"
+  - username: "itsjennifertang"
     fullname: >-
-      Tanaka Tarou
+      Jennifer Tang
     bio: >-
-      👦 Short Asian trying to be stylish but really just eating away his feelings 📷 Lifestyle/Fashion/Food/Content Creation 📍 SYD,🇦🇺 ✉️DM or Email to collab
+      🤳Sydney Lifestyle & UGC Creator 🧚 Curious Mind, Open Heart, Joyful Soul 💌 itsjennifertang@gmail.com
     location: "Australia"
-    followers: 30201
-    engagement: 175
-    commentsToLikes: 0.218128
-    id: ck15seuspcnp30i19ut0843ge
+    followers: 15952
+    engagement: 1020
+    commentsToLikes: 0.448608
+    id: clb3f6pdy38wn0i237plpttrn
     verified: false
-    hashtags: "#doughnuts, #flatlays, #smashedavo, #beautifulcuisines"
-  - username: "erika.dwyer"
+    hashtags: "#sydneyfoodblogger, #sydneylifestyle, #sydneyrestaurant, #sydneyfood"
+  - username: "fit.hanna"
     fullname: >-
-      Erika Dwyer
+      💖 HANNA/SIS 💖 - Syd 🇦🇺
     bio: >-
-      📍Brisbane, Australia | Fashion & Lifestyle ✨ Training at @plc_albion 🏋️‍♀️ TikTok 🎥: erika.dwyer Watch my latest YouTube video ⬇️
+      👩🏽‍❤️‍💋‍👨🏽🔐 ✖️ED awareness💛 Balanced lifestyle👇🏽25kgs ✖️I keep it 𝙧𝙚𝙖𝙡 & 𝙧𝙖𝙬 💯 ✖️💪🏼 @emily_kingbodies ambassador 𝗖𝗢𝗗𝗘: 𝗛𝗔𝗡𝗡𝗔 ✖️Dance instructor
     location: "Australia"
-    followers: 30909
-    engagement: 1239
-    commentsToLikes: 0.021223
-    id: ck0w136qehc490i193p3vskwx
+    followers: 10526
+    engagement: 531
+    commentsToLikes: 0.105179
+    id: ckqquvyiny2m20j23iyf4su5b
     verified: false
-    hashtags: "#tiktokfashion, #instagramreels, #styletips, #fashionreels"
-  - username: "yukilicious_sydney"
+    hashtags: "#fitness, #weightlosstransformation, #sydneyfitness, #fitnessgirl"
+  - username: "ughsy"
     fullname: >-
-      🌸Sydney Foodie🌸 Yuki
+      siew yong 🤍
     bio: >-
-      🥘Content Creator | Food Photos | Lifestyle Shot 📮DM or email for Invites and Collab 💌Email: gelaine1128@hotmail.com 📍Syd 🇦🇺HK🇭🇰
+      Singapore 🇸🇬 | Fashion, Beauty & Lifestyle 👩🏻‍🎓NTU Banking & Finance 💌: ughsy00@gmail.com 🎥 TikTok: ughsy (38K)
     location: "Australia"
-    followers: 36853
-    engagement: 170
-    commentsToLikes: 0.195789
-    id: ckap54g7fa5ol0i78ovr5lgfm
+    followers: 56769
+    engagement: 2619
+    commentsToLikes: 0.009842
+    id: clmumxct6l79p0j08uxk8chi7
     verified: false
-    hashtags: "#sydneyfood, #australia, #sydneyfoodbloggers, #foodstagram"
-  - username: "eliseknowles"
+    hashtags: "#sg, #sgig, #trending, #trendingreels"
+  - username: "pippuveendran"
     fullname: >-
-      ELISE
+      Pip Puveendran
     bio: >-
-      #mymirroredmemories • Musings of a mother ♕ • Fitness, lifestyle & self-care ♡ • Encouraging conversation ❁ • Perth, AUS
+      look & feel your best 💪🏾 👨🏽‍🦱 fashion | hair | lifestyle 📩 pippuveendran@gmail.com 👇🏽 to learn more about UP Express
     location: "Australia"
-    followers: 26416
-    engagement: 289
-    commentsToLikes: 0.121451
-    id: ck5c2h2kdx8z60i11l52xyxsw
+    followers: 15028
+    engagement: 443
+    commentsToLikes: 0.087433
+    id: cl0ir9uf1k8ks0i23is6885tr
     verified: false
-    hashtags: "#myhappydays, #honestmothering, #mypostpartum, #birthbumpandbeyond"
-  - username: "_courtneystubbs"
+    hashtags: "#menscurlyhair, #menshair, #toronto, #fallfashion"
+  - username: "lynn.melbfood"
     fullname: >-
-      COURTNEY STUBBS
+      Lynn ✿ Melbourne Foodie
     bio: >-
-      Be your own kind of beautiful 🤍 lifestyle content creator • aus ✉️courtneystubbs@outlook.com
+      (๑•᎑•๑) 🍵 🇦🇺 Food & Lifestyle 💌 lynn.melbfood@gmail.com
     location: "Australia"
-    followers: 37627
-    engagement: 148
-    commentsToLikes: 0.238576
-    id: ckaosowsysfds0i78yakf041i
+    followers: 11613
+    engagement: 409
+    commentsToLikes: 0.045074
+    id: clm70ay0fgrav0j085vdnzejy
     verified: false
-    hashtags: "#microinfluencer, #haul, #explorereels, #instagramreels"
+    hashtags: "#melbournebrunch, #melbournerestaurant, #melbournefoodie, #melbournecoffee"
 ---

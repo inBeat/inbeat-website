@@ -1,36 +1,84 @@
 ---
-title: Top 10 Food Instagram Influencers In Peru In 2023
+title: Top 10 Food Instagram Influencers In Peru In 2024
 description: >-
-  Find top food Instagram influencers in Peru in 2023. Most popular hashtags: #peru #lima #igersperu.
+  Find top food Instagram influencers in Peru in 2024. Most popular hashtags: #peru #igersperu #instafoodperu #foodie.
 platform: Instagram
-hits: 55
-text_top: Discover the most popular Instagram influencers on inBeat.
-text_bottom: Our search engine aggregates 55 Instagram influencers like this in Peru for you to contact.
+hits: 63
+text_top: Analyze the best Instagram accounts on inBeat.
+text_bottom: Our search engine aggregates 63 Instagram influencers like this in Peru for you to connect with.
 profiles:
+  - username: "gianelladesouza"
+    fullname: >-
+      Gianella de Souza
+    bio: >-
+      Conocí los 24 departamentos del 🇵🇪 ✈️| Traveler 🍝| Foodie 🍹| Planes 📩| contacto@followme.pe
+    location: "Peru"
+    followers: 145322
+    engagement: 283
+    commentsToLikes: 0.029472
+    id: ckap7gb5fjy5e0i78jpt77eqi
+    verified: false
+    hashtags: "#limaperu, #madrededios, #restaurantes, #travelperu"
   - username: "placeresculpososblog"
     fullname: >-
       Magda Pérez
     bio: >-
-      Old-school foodie 🎓 Reseñas de 📍Lima y 📍Trujillo +82K en TikTok ⬆️
+      Old-school foodie 🎓 Reseñas de 📍Lima y 📍Trujillo +87K en TikTok ⬆️
     location: "Peru"
-    followers: 41463
-    engagement: 151
-    commentsToLikes: 0.047085
+    followers: 48183
+    engagement: 150
+    commentsToLikes: 0.044349
     id: ck9haxy7nejmw0j788nvfr17v
     verified: false
-    hashtags: "#peru, #comidaperu, #igersperu, #placeresculposos"
-  - username: "veggienazi"
+    hashtags: "#lima, #peru, #perufood, #reelreview"
+  - username: "instafoodperu"
     fullname: >-
-      NAZARENA GARCÍA-RADA
+      Instafood Perú
     bio: >-
-      • Real food has mud not blood •   Me dicen Nazi por Nazarena 🌼 Vegan | Sportaholic
+      👉🏻Comunidad de FOODLOVERS 👈🏻 🌏¿Quieres ser parte de la comunidad? 💌 Etiquétanos en tus 📸 y sigue a #instafoodperu 📌@hiromi_kudo @chichasour
     location: "Peru"
-    followers: 46265
-    engagement: 1723
-    commentsToLikes: 0.107976
-    id: ck6u7eyral4910j71g3r37h1k
+    followers: 130486
+    engagement: 97
+    commentsToLikes: 0.015382
+    id: ck15qse6e4end0i19vdt5b7b6
     verified: false
-    hashtags: ""
+    hashtags: "#instafoodperu, #salchipapasincremas, #salchipapafullcremas"
+  - username: "thatsmellsdelicious"
+    fullname: >-
+      Rossy Trajtman
+    bio: >-
+      ✨ Foodie | Planes | Lifestyle 🍴 Te recomiendo lugares para comer rico en Lima 🇵🇪 🤩 Probando y compartiendo sólo lo que me gusta 🤳🏻Desde el 2017
+    location: "Peru"
+    followers: 114996
+    engagement: 54
+    commentsToLikes: 0.023221
+    id: ck0vvete6otjb0i197qdf2a4l
+    verified: false
+    hashtags: "#hamburguesa, #igersperu, #hamburguesas, #burger"
+  - username: "cineocultooficial"
+    fullname: >-
+      Cine O'culto [Luis Zuñiga]
+    bio: >-
+      🎬 Cine Independiente y Cine de Culto 🇵🇪 ⚠️ Sección Tech 🎮📱/ Foodie 🍜🥃 📩 Collab: Luis@cineoculto.com 🎙️ @crossover_podcast.pe 📢 TikTok 185K
+    location: "Peru"
+    followers: 229807
+    engagement: 49
+    commentsToLikes: 0.034342
+    id: ck14k01ztn1dm0i19fgkpqqbs
+    verified: false
+    hashtags: "#claun, #padrenohaymasqueuno, #und, #pataclaun"
+  - username: "papeaperu"
+    fullname: >-
+      Luis Martin Alzamora
+    bio: >-
+      Sharing some food, drinks and a bit of everything. Learning to write 📝 From Perú. 🔪🥩🍷✈️🪐
+    location: "Peru"
+    followers: 55363
+    engagement: 45
+    commentsToLikes: 0.021391
+    id: ck0u0nxd1ua5n0i1903zispf1
+    verified: false
+    hashtags: "#elsabororiginal, #publicidad"
   - username: "viajarparavivir"
     fullname: >-
       Analú | Travel Blogger 🇵🇪🇪🇸
@@ -79,52 +127,4 @@ profiles:
     id: ck0udwdf5k1050i193xrt2z71
     verified: false
     hashtags: "#cuarentena, #tbt, #food, #healthyfood"
-  - username: "healthy_pleasure"
-    fullname: >-
-      𝗦𝘆𝗹𝘃𝗶𝗮 𝗥𝗼𝗱𝗿𝗶𝗴𝘂𝗲𝘇 𝗩𝗲𝗹𝗲𝘇
-    bio: >-
-      Nutricionista, Raw food chef Plant based diet & Healthy lifestyle🌱 y ✈️ 🇵🇪 Consultas online w e b ￬
-    location: "Peru"
-    followers: 58358
-    engagement: 137
-    commentsToLikes: 0.113241
-    id: ck5zlrnnbl9gc0i14k1khb4zx
-    verified: true
-    hashtags: "#dieta, #foodfight, #healthy, #peru"
-  - username: "pechufree_glutenfree"
-    fullname: >-
-      PechuFree | Glutenfree Blog 🌿
-    bio: >-
-      👩🏻 @anikaweinstein1 📍Lima, Perú 🍪Foodie ¿Para qué romper la dieta si tienes a Pechufree?
-    location: "Peru"
-    followers: 45234
-    engagement: 70
-    commentsToLikes: 0.112385
-    id: ck0vz0aet6nki0i19p280n3c3
-    verified: false
-    hashtags: ""
-  - username: "foodandtravel.pe"
-    fullname: >-
-      Foodandtravel.pe
-    bio: >-
-      👨🏽‍🎓Administrador Hotelero 🕵🏽‍♂️Restaurantero ✈️Viajero 🌎 👨🏽‍💻Asesor Gastronómico 👨🏽‍🏫Docente A&B 📍Lima - Peru 🇵🇪
-    location: "Peru"
-    followers: 10521
-    engagement: 426
-    commentsToLikes: 0.118521
-    id: ckaovhi7k4kem0i78t4cval7u
-    verified: false
-    hashtags: "#travelblogger, #comida, #picoftheday, #igers"
-  - username: "adrianajch"
-    fullname: >-
-      •Adriana Jimenez Chiang•
-    bio: >-
-      🍃 Estilo de vida saludable 💪🏻 Fitness girl 💫 Modelo publicitaria 👑 Miss Teen Sudamérica Internacional 2E 👑 MTS Perú 2017 ✨ Tik tok(25k+)
-    location: "Peru"
-    followers: 6121
-    engagement: 575
-    commentsToLikes: 0.050870
-    id: ckaorjxlbnkhy0i78esgx0q6w
-    verified: false
-    hashtags: "#mindset, #marcosalbercaencasa, #tweegram, #follow4follow"
 ---

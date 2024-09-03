@@ -1,11 +1,11 @@
 ---
-title: Top 10 Nail Artists Instagram Influencers In France In 2023
+title: Top 10 Nail Artists Instagram Influencers In France In 2024
 description: >-
-  Find top nail artists Instagram influencers in France in 2023. Most popular hashtags: #nails #nailsonfleek #nailporn #nailstagram.
+  Find top nail artists Instagram influencers in France in 2024. Most popular hashtags: #nails #nailart #nailstagram #nailsonfleek.
 platform: Instagram
-hits: 46
-text_top: Identify the most popular Instagram accounts on inBeat.
-text_bottom: Our database holds 46 Instagram influencers like this in France for you to collaborate.
+hits: 49
+text_top: Analyze the top-rated Instagram accounts on inBeat.
+text_bottom: Our platform has 49 Instagram influencers like this in France for you to collaborate.
 profiles:
   - username: "vanessa.nailart"
     fullname: >-
@@ -21,28 +21,52 @@ profiles:
     hashtags: "#artnails, #nailjunkie, #nailswag, #nailart"
   - username: "alexandrasnobl"
     fullname: >-
-      Alexandra Snóbl
+      Alexandra Snóbl
     bio: >-
       European Champion Nail Designer, International Trainer #naildesigner #nailartist Contact: snobl.a@gmail.com Contact languages: Hungarian, English
     location: "France"
-    followers: 26654
-    engagement: 113
-    commentsToLikes: 0.013229
+    followers: 25432
+    engagement: 64
+    commentsToLikes: 0.023383
     id: ck13ac2b8pnwn0i19g9952unc
     verified: false
-    hashtags: "#dollypartonchallenge, #frenchnails, #lovestamping, #moyrastamping"
+    hashtags: "#nailart, #nailstamping, #moyrastamping, #neonnails"
+  - username: "lana.kiramonamour"
+    fullname: >-
+      || Audrey, Lana & Kira ||
+    bio: >-
+      Mumpreneur • ongles • @lk.nailartist_spa Strasbourg 📍 #viedemaman ♡ Lana 08/14 ♡ Kira 04/21
+    location: "France"
+    followers: 19396
+    engagement: 124
+    commentsToLikes: 0.835832
+    id: ck6ubxm42c9vv0j71p91zyngi
+    verified: false
+    hashtags: "#matchymatchywithmommy, #mumlife, #motherdaughter, #matchymatchy"
+  - username: "naildbyk"
+    fullname: >-
+      NAILED BY K 🇫🇷
+    bio: >-
+      Une nouvelle ère pour l’onglerie Vegan. Innovant. Formules avancées Collection été 2024 disponible le 31 mai à 18:00
+    location: "France"
+    followers: 112108
+    engagement: 264
+    commentsToLikes: 0.010128
+    id: ck5cie6ryshpi0i11o4p9imog
+    verified: false
+    hashtags: "#gelnail, #onglesengel, #shiningclaws, #paznokcie"
   - username: "corasunsetarts"
     fullname: >-
-      π Nail Artist ϕ
+      🌜π Nail 𓋹 Artist ϕ 🌞
     bio: >-
-      𓂀 NAIL ART 💅🏼 PAINTING 🎨 MODE ✨ ❌NO STICKERS❌ (All Handpainted ✍🏼)
+      NAIL ART 💅🏼 MODE ✨MAKE UP 🖌 ❌NO STICKERS❌ (All Handpainted 🎨) ✍🏼 𝔽𝕆ℝ𝕄𝔸𝕋ℝ𝕀ℂ𝔼 ✍🏼 🌻👶🏽𝕄𝕖𝕟𝕒 🤍𓂀 Ambassadrice @thegelbottlefrance 💫
     location: "France"
-    followers: 33406
-    engagement: 207
-    commentsToLikes: 0.086377
+    followers: 31268
+    engagement: 144
+    commentsToLikes: 0.050658
     id: ck15r07jz5hhu0i19fvoxbkuc
     verified: false
-    hashtags: "#fashionaddict, #firehair, #boohoo, #styleinspiration"
+    hashtags: "#nailaddict, #boohoo, #outfitinspiration, #nailart"
   - username: "matuszewsk.a"
     fullname: >-
       NAILS DESIGNER 🔝️#nail
@@ -67,64 +91,40 @@ profiles:
     id: ckapamjo0wpfb0i78qouilw6x
     verified: false
     hashtags: "#nailsmagazine, #swarovskinails, #ombrenails, #nailtech"
-  - username: "naildbyk"
-    fullname: >-
-      KATIA KATALINA
-    bio: >-
-      𝙰𝙼𝙱𝙰𝚂𝚂𝙰𝙳𝚁𝙸𝙲𝙴 @justnails_official ♡ prise de rdv sur le site uniquement
-    location: "France"
-    followers: 27198
-    engagement: 269
-    commentsToLikes: 0.016697
-    id: ck5cie6ryshpi0i11o4p9imog
-    verified: false
-    hashtags: ""
   - username: "nailsartparis_"
     fullname: >-
       Nails Art Paris 💅🏻
     bio: >-
-      💅 Nail spécialiste 📍Noisy Le Grand Pour les rdv en DM
+      🗓 Prise de RDV en dm 💅🏻 Acompte demandé 📍 Maison Médicale Esthétique Layon 7 rue du Layon Noisy-le-Grand 93160 TikTok @nailsartparis_
     location: "France"
-    followers: 46531
-    engagement: 441
-    commentsToLikes: 0.009220
+    followers: 54860
+    engagement: 152
+    commentsToLikes: 0.008380
     id: ck5cb2wabemjg0i119z8zebyc
     verified: false
-    hashtags: "#nailsartwow, #nailsonfleek, #marbrenailseffect, #nailsviolet"
-  - username: "bri_bbs"
+    hashtags: "#orangenails, #nails2inspire, #nailspink, #nailsblue"
+  - username: "mamanavanttoutet"
     fullname: >-
-      𝙱𝚛𝚒 𝚖𝚊𝚍𝚎 𝚒𝚗 𝚏𝚛𝚊𝚗𝚌𝚎 📍Toulouse
+      🩷🩷Laetitia Co.🩷🩷
     bio: >-
-      DÉCORATION D’INTÉRIEUR & FOOD ♡ 🍂 27 | 𝚂𝚌𝚊𝚗𝚍𝚒 𝚑𝚘𝚖𝚎 📷 Think outside the box ! #toulouse Le parcours qui m’a permit d’être à mon compte :
+      Maman de 3 petits monstres 🧑👦👧 2009/2012/2013 💋Page FB 26k ⚠️⚠️Attention je n'ai qu'un compte ⚠️⚠️ Pour une collab DM ou mail
     location: "France"
-    followers: 14228
-    engagement: 774
-    commentsToLikes: 0.185857
-    id: ck5c8lo3s9r0n0i114o74wkaz
+    followers: 29204
+    engagement: 358
+    commentsToLikes: 0.189134
+    id: cl9k31resiwy20i23r4g4mzie
     verified: false
-    hashtags: "#interiorinspo, #whiteinterior, #natural, #bohostyle"
-  - username: "bellali.fella"
+    hashtags: "#beaute, #rouge, #calendrierdelavent, #cadeau"
+  - username: "iamfionaoslo"
     fullname: >-
-      🧿fella bellali🧿
+      FIONA OSLO 🌒
     bio: >-
-      Chanteuse 🎤;doubleuse de voix; animatrice Radio CH2 ;maison de la cultureT.O;théâtreKatebYacine; Makeup art addict Modèle photo Partenariats en DM📩
+      singer - content creator 🇫🇷 /🇷🇺 🎙podcast @tesnewbesties ✉️ fionaoslove@gmail.com
     location: "France"
-    followers: 48853
-    engagement: 121
-    commentsToLikes: 0.021226
-    id: ck14jx5khmmvr0i199pdtrcki
+    followers: 100320
+    engagement: 6
+    commentsToLikes: 0.000000
+    id: ck55l9q38134f0i11itw9k0u5
     verified: false
-    hashtags: "#kabylie, #photooftheday, #tiziouzou, #kabyle"
-  - username: "celinealmlinee"
-    fullname: >-
-      Celine Alm Linee
-    bio: >-
-      👩🏻‍🎓Trade Communication & Management 💓Animal enthusiast ✈️Travel Lover 💌 Celinealmlinee@gmail.com 👻Celinealmlinee
-    location: "France"
-    followers: 47539
-    engagement: 392
-    commentsToLikes: 0.012382
-    id: ck6tyrm1o5g7z0j7198vbsprd
-    verified: false
-    hashtags: "#outfitinspiration, #classy, #clothing, #outfittoday"
+    hashtags: "#makeup, #bordeaux, #parisian, #singer"
 ---

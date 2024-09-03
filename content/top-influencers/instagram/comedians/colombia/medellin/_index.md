@@ -1,11 +1,11 @@
 ---
-title: Top 10 Comedians Instagram Influencers In Medellín In 2023
+title: Top 10 Comedians Instagram Influencers In Medellín In 2024
 description: >-
-  Find top comedians Instagram influencers in Medellín in 2023. Most popular hashtags: #medellin #humor #comedia #cali.
+  Find top comedians Instagram influencers in Medellín in 2024. Most popular hashtags: #medellin #humor #comedia #cali.
 platform: Instagram
-hits: 30
-text_top: See the most popular Instagram profiles on inBeat.
-text_bottom: Our database has 30 Instagram influencers like this in Medellín, Colombia for you to contact.
+hits: 32
+text_top: Identify the most popular Instagram profiles on inBeat.
+text_bottom: Our platform aggregates 32 Instagram influencers like this in Medellín, Colombia for you to contact.
 profiles:
   - username: "jhulian_oficial"
     fullname: >-
@@ -103,6 +103,18 @@ profiles:
     id: ck8t0zby6tw3f0j78aor5xt3u
     verified: false
     hashtags: "#guaracha, #cuarentena, #bogot, #risas"
+  - username: "erick_pabon"
+    fullname: >-
+      Erick Pabon
+    bio: >-
+      Embajador @pumacolombia CUCUTEÑO 📌MEDELLÍN Info👇🏻
+    location: "Colombia"
+    followers: 851413
+    engagement: 166
+    commentsToLikes: 0.235451
+    id: ck5pw3lw5kxhe0i11mupw1842
+    verified: false
+    hashtags: "#tbt, #comedia, #reno5lite, #eloutfitdeerick"
   - username: "crispasquel"
     fullname: >-
       Cristian Pasquel
@@ -115,16 +127,4 @@ profiles:
     id: ck8sxy3mqj3070j78aoa9xlk5
     verified: false
     hashtags: "#cali, #medellin, #colombia, #humor"
-  - username: "gendri_portillo"
-    fullname: >-
-      gendri portillo🔵
-    bio: >-
-      SIGUEME misión hacerte REIR 🎥😬/CREADOR DE VIDEOS🎥 (Locutor) 🤣HUMOR VENEZOLANO PARA EL MUNDO🇨🇴MEDELLÍN 😎/ COMUNICADOR🇻🇪 publicidad aqui 🌍 / telegram👇
-    location: "Colombia"
-    followers: 23498
-    engagement: 109
-    commentsToLikes: 0.107392
-    id: ck6u9mxndygdq0j71zb5chvu4
-    verified: false
-    hashtags: "#tbt, #venzolanosensantiago, #pty, #venezolanosporelmundo"
 ---

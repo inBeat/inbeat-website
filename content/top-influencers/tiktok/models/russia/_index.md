@@ -1,11 +1,11 @@
 ---
-title: Top 10 Models TikTok Influencers In Russia In 2023
+title: Top 10 Models TikTok Influencers In Russia In 2024
 description: >-
-  Find top models TikTok influencers in Russia in 2023. Most popular hashtags: #model #fyp #modeling.
+  Find top models TikTok influencers in Russia in 2024. Most popular hashtags: #fyp #model #modeling.
 platform: TikTok
 hits: 34
-text_top: Identify the best TikTok profiles on inBeat.
-text_bottom: Our search engine holds 34 TikTok influencers like this in Russia for you to pitch.
+text_top: Analyze the top-rated TikTok profiles on inBeat.
+text_bottom: Our platform holds 34 TikTok influencers like this in Russia for you to connect with.
 profiles:
   - username: "katrinhot"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.084907
     id: ckbkvy7opriol0j23gn3hcqw9
     verified: false
-    hashtags: "#desertcraft, #kissme, #model, #kiss"
+    hashtags: "#desertcraft, #model, #sexymodel, #kiss"
   - username: "helen_yushkova"
     fullname: >-
       helen_yushkova

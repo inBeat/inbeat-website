@@ -1,11 +1,11 @@
 ---
-title: Top 10 Photographers Instagram Influencers In Jakarta In 2023
+title: Top 10 Photographers Instagram Influencers In Jakarta In 2024
 description: >-
-  Find top photographers Instagram influencers in Jakarta in 2023. Most popular hashtags: #sonyalpha #weddingphotographer #sonyindonesia #photographer.
+  Find top photographers Instagram influencers in Jakarta in 2024. Most popular hashtags: #photography #sonyalpha #jakarta #photographer.
 platform: Instagram
-hits: 68
-text_top: Analyze the most popular Instagram accounts on inBeat.
-text_bottom: Our platform aggregates 68 Instagram influencers like this in Jakarta, Indonesia for you to work with.
+hits: 63
+text_top: See the top-rated Instagram influencers on inBeat.
+text_bottom: inBeat holds 63 Instagram influencers like this in Jakarta, Indonesia for you to connect with.
 profiles:
   - username: "esther.asher"
     fullname: >-
@@ -42,19 +42,7 @@ profiles:
     commentsToLikes: 0.075937
     id: ck9wd3q77dxrw0j78icagwh30
     verified: false
-    hashtags: "#photographycheatsheet, #productphotographyjakarta, #creativeportraits, #budayaindonesia"
-  - username: "jakarta"
-    fullname: >-
-      Jakarta
-    bio: >-
-      Fb: infojakarta.net Twitter: InfoJakarta Contact by DM
-    location: "Indonesia"
-    followers: 66717
-    engagement: 247
-    commentsToLikes: 0.023884
-    id: ck6txln6dyiej0j71z1orgy6x
-    verified: false
-    hashtags: "#corona, #jakartaspot, #stayhome, #dirumahaja"
+    hashtags: "#human, #photographytutorial, #fotografiindonesia, #humanpotrait"
   - username: "rezki.drg"
     fullname: >-
       Drg. Rezki
@@ -67,6 +55,18 @@ profiles:
     id: ck13a4hkwol3u0i19h1ahyxo7
     verified: false
     hashtags: "#dentistry, #doktergigijakarta, #odontologia, #natural"
+  - username: "gathoe18"
+    fullname: >-
+      Gathot Subroto
+    bio: >-
+      FUJIFILM X-Photographer Part-time Photo Traveler Base in Jakarta #myanmarbeyondurban #sanurkutaproject #6524project @athabasca_indonesia
+    location: "Indonesia"
+    followers: 26375
+    engagement: 150
+    commentsToLikes: 0.032362
+    id: ck0vy6kyb2h720i19m2xkwp0o
+    verified: false
+    hashtags: "#landscape, #photography, #instagram, #streetphotography"
   - username: "bonjoabadi"
     fullname: >-
       Bonjo Abadi
@@ -79,18 +79,6 @@ profiles:
     id: ck0tts74o43ie0i191v8xjh06
     verified: false
     hashtags: "#terralogical, #fujifilm, #destinationwedding, #terrabon"
-  - username: "luminousdreamsphotoworks"
-    fullname: >-
-      Luminousdreamsphotoworks
-    bio: >-
-      Potrait . Beauty . Commercial Photographer, Traveller, Food Lover Jakarta Indonesia
-    location: "Indonesia"
-    followers: 20622
-    engagement: 326
-    commentsToLikes: 0.049679
-    id: ck5zj65d4h0hy0i148ptafesh
-    verified: false
-    hashtags: "#fashionstylist, #swagger, #followme, #beautymakeup"
   - username: "hengkyirawan"
     fullname: >-
       Hengky Irawan
@@ -103,6 +91,18 @@ profiles:
     id: ck134fh7aw6gz0i1958vsywjv
     verified: false
     hashtags: "#hengkyirawan, #water, #12shadesofzodiac, #sonyalpha"
+  - username: "aqilavviv"
+    fullname: >-
+      Aqil muhamad affif
+    bio: >-
+      Photographer, Videographer & Content Creator 📍 Jakarta, Indonesia 🇮🇩 Business WA chat only +6285161164441 __ #ProsaDanRasa
+    location: "Indonesia"
+    followers: 147737
+    engagement: 825
+    commentsToLikes: 0.043327
+    id: ck0w6l2c193670i1994d0b3yu
+    verified: false
+    hashtags: "#orabeach, #sunset, #rinjani, #nowayhome"
   - username: "ssjesicajeanette"
     fullname: >-
       Jesica Jeanette
@@ -115,16 +115,16 @@ profiles:
     id: ck13aglgaqagt0i19tuvguwrp
     verified: false
     hashtags: "#summerstoryjesica, #summerstoryeurope, #summerstoryphotography, #summerstorybali"
-  - username: "synthiatjipto"
+  - username: "kang_adamcf"
     fullname: >-
-      Synthia ☀️ Jkt Food Travel
+      Adam Nugraha
     bio: >-
-      📍Jakarta, ID Food Stylist & Photographer 📸 by @syndrunomy with Canon EOS R DM for enquiry #syndru
+      Explore, Enjoy Traveler, Random Photos. Kang Poto Pemula. 🏡 Majalengka, Jawa Barat. - 🏢 Jakarta.
     location: "Indonesia"
-    followers: 45074
-    engagement: 111
-    commentsToLikes: 0.207820
-    id: ck9wd2udwdtlo0j78b6cch4zo
+    followers: 12754
+    engagement: 416
+    commentsToLikes: 0.035161
+    id: ck8sz9jsonl5m0j78ihixc1lt
     verified: false
-    hashtags: "#asmr, #buzzfeedfood, #f52grams, #syndrufairmont"
+    hashtags: "#canonindonesia, #streetphotographer, #exploremajalengka, #photography"
 ---

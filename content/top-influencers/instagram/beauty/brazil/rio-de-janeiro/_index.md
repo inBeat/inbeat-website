@@ -1,24 +1,24 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Rio De Janeiro In 2023
+title: Top 10 Beauty Instagram Influencers In Rio De Janeiro In 2024
 description: >-
-  Find top beauty Instagram influencers in Rio De Janeiro in 2023. Most popular hashtags: #beauty #riodejaneiro #reels.
+  Find top beauty Instagram influencers in Rio De Janeiro in 2024. Most popular hashtags: #riodejaneiro #beauty #reels #praia.
 platform: Instagram
-hits: 33
-text_top: Discover the top-rated Instagram influencers on inBeat.
-text_bottom: Our database has 33 Instagram influencers like this in Rio de Janeiro, Brazil for you to work with.
+hits: 30
+text_top: See the most popular Instagram profiles on inBeat.
+text_bottom: inBeat has 30 Instagram influencers like this in Rio de Janeiro, Brazil for you to work with.
 profiles:
-  - username: "josyramos"
+  - username: "yasmimfreitt"
     fullname: >-
-      Josy Ramos
+      𝔶𝔞𝔰𝔪𝔦𝔪 𝔣𝔯𝔢𝔦𝔱𝔱
     bio: >-
-      FASHION • TRAVEL • BLACKGRL PWR • BEAUTY • Rio de Janeiro - Brasil 👗 #styledajosy 🗺 @ninaejosyporai 💻 contato@josyramos.com.br
+      | curls | beauty 🤎 rio de janeiro.
     location: "Brazil"
-    followers: 194024
-    engagement: 472
-    commentsToLikes: 0.031959
-    id: ck0vzlkq59p720i196owg99cb
+    followers: 61993
+    engagement: 777
+    commentsToLikes: 0.026508
+    id: ck8tcrlv00epf0j784xjuvifm
     verified: false
-    hashtags: "#publidajosy, #styledajosy, #fashion, #blackgirlmagic"
+    hashtags: "#cachosbra, #follow4followback, #likeforlikes, #prettygirls"
   - username: "luadcm"
     fullname: >-
       LUIZE MARTINS 🌙
@@ -31,18 +31,6 @@ profiles:
     id: ckap7t1yylfld0i7824t0v8en
     verified: false
     hashtags: "#reels, #mds"
-  - username: "nayararattacasso"
-    fullname: >-
-      Nayara Rattacasso
-    bio: >-
-      rio de janeiro, 25 lifestyle, beauty, travel 🎓 quaaase biomédica @biomednay 🌟 1.9m de Inscritos no Youtube
-    location: "Brazil"
-    followers: 581969
-    engagement: 121
-    commentsToLikes: 0.021271
-    id: ck0vwe37hta0e0i19poanpmbk
-    verified: true
-    hashtags: "#crescimentocapilar, #horadoshow, #bbb21, #gingerhair"
   - username: "thamyres__"
     fullname: >-
       THAMYRES ROCHA
@@ -55,6 +43,18 @@ profiles:
     id: ck8tamr1xsc2i0j78h35muqtz
     verified: false
     hashtags: "#beauty, #thamyresrochamakeup, #reels, #maquiagemcriativa"
+  - username: "laisgoomes"
+    fullname: >-
+      Laís Gomes
+    bio: >-
+      🍏 Healthy life ☀️ Praiana Paraty - Rio de Janeiro Brasil 🇧🇷🌊 💌 Parcerias via direct
+    location: "Brazil"
+    followers: 10567
+    engagement: 322
+    commentsToLikes: 0.049300
+    id: ck6u9fvpwxbku0j71mwv0gdqj
+    verified: false
+    hashtags: "#paraty, #go, #photography, #praia"
   - username: "_barbosavii"
     fullname: >-
       VITÓRIA BARBOSA
@@ -91,18 +91,6 @@ profiles:
     id: ck8t4xuk987fi0j78s3e9dujp
     verified: false
     hashtags: "#natureza, #vassouras, #errejota, #cariocando"
-  - username: "jessiicavelasco"
-    fullname: >-
-      Ｊｅｓｓｉｃａ
-    bio: >-
-      My outfits and beauty tips ✨ 💌 jessicavnasc@gmail.com 🌎From Rio de Janeiro 🇧🇷 📍Living in Montreal 🇨🇦
-    location: "Brazil"
-    followers: 17089
-    engagement: 529
-    commentsToLikes: 0.060323
-    id: ckap5vxsvdeas0i782jhieif9
-    verified: false
-    hashtags: "#lookoftheday, #outfitoftheday, #lookdodia, #zaraoutfit"
   - username: "lalavalerio"
     fullname: >-
       Larissa Valério
@@ -127,4 +115,16 @@ profiles:
     id: ck5hiic1bdnh30i1121fdq4ve
     verified: false
     hashtags: "#farmaceutica, #farmaciademanipulacao, #siliciumax, #riodejaneiro"
+  - username: "milafsn"
+    fullname: >-
+      Camila Fernandes
+    bio: >-
+      Rio de Janeiro, RJ ☀️ “Seja a mudança que você quer ver no mundo.” 🌏
+    location: "Brazil"
+    followers: 2999
+    engagement: 1819
+    commentsToLikes: 0.130502
+    id: ckap2mg3tzhac0i78txy0z411
+    verified: false
+    hashtags: "#verao, #praiana, #riodejaneiro, #sunset"
 ---

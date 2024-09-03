@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fitness TikTok Influencers In Austria In 2023
+title: Top 10 Fitness TikTok Influencers In Austria In 2024
 description: >-
-  Find top fitness TikTok influencers in Austria in 2023. Most popular hashtags: #fitness #fyp #viral #foryou.
+  Find top fitness TikTok influencers in Austria in 2024. Most popular hashtags: #fitness #fyp #viral #foryou.
 platform: TikTok
 hits: 26
-text_top: Identify the best TikTok profiles on inBeat.
-text_bottom: Our database holds 26 TikTok influencers like this in Austria for you to work with.
+text_top: Discover the best TikTok influencers on inBeat.
+text_bottom: inBeat aggregates 26 TikTok influencers like this in Austria for you to contact.
 profiles:
   - username: "lukashaselberger"
     fullname: >-
@@ -102,7 +102,7 @@ profiles:
     commentsToLikes: 0.013061
     id: ckbfcqsd95rbx0j23gocqgjxq
     verified: false
-    hashtags: "#friends, #motivation, #idol, #coach"
+    hashtags: "#workout, #dailylife, #coach, #motivation"
   - username: "mindhack2go"
     fullname: >-
       Daniel Celeschi

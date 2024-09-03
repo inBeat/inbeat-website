@@ -1,11 +1,11 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Bogotá In 2023
+title: Top 10 Beauty Instagram Influencers In Bogotá In 2024
 description: >-
-  Find top beauty Instagram influencers in Bogotá in 2023. Most popular hashtags: #colombia #beauty #bogota #love.
+  Find top beauty Instagram influencers in Bogotá in 2024. Most popular hashtags: #colombia #beauty #love.
 platform: Instagram
-hits: 33
-text_top: Analyze the most popular Instagram influencers on inBeat.
-text_bottom: Our database aggregates 33 Instagram influencers like this in Bogotá, Colombia for you to collaborate.
+hits: 38
+text_top: Identify the best Instagram accounts on inBeat.
+text_bottom: inBeat has 38 Instagram influencers like this in Bogotá, Colombia for you to pitch.
 profiles:
   - username: "rafaellamusik"
     fullname: >-
@@ -31,18 +31,6 @@ profiles:
     id: ck0vxhyamyzcu0i193iw9yy2g
     verified: false
     hashtags: "#makeup, #instagramreels, #colombia, #reels"
-  - username: "marialejamirandap"
-    fullname: >-
-      -M A R I A  A L E J A N D R A-
-    bio: >-
-      📍Cali |Co •ℂ𝕣𝕖𝕒𝕟𝕕𝕠 𝕝𝕒 𝕧𝕚𝕕𝕒 𝕢𝕦𝕖 𝕒𝕞𝕠 • •MIP•|Icesi Creadora de 🧁:@factorycakebymale
-    location: "Colombia"
-    followers: 8470
-    engagement: 510
-    commentsToLikes: 0.041288
-    id: ckaouqrjw1esd0i78decx4wuk
-    verified: false
-    hashtags: "#playa, #picoftheday, #ootd, #repostdolookdodia"
   - username: "luisariosbaez"
     fullname: >-
       Luisa Rios 🔥
@@ -55,18 +43,6 @@ profiles:
     id: ck15s1pl6asml0i1970oppfl3
     verified: false
     hashtags: "#amor, #feliz, #mom, #superbikes"
-  - username: "luciaaldana"
-    fullname: >-
-      Lucia Aldana
-    bio: >-
-      Yo soy quien DIOS dice que soy Jesús🔥 Eternidad🌌 Fundadora @despensaelpandecadadia MissColombia12-Model-Journalist-TvHost Manager: @deisymarroquin
-    location: "Colombia"
-    followers: 135201
-    engagement: 65
-    commentsToLikes: 0.036838
-    id: ck0w38gnus3y70i193z32pse6
-    verified: true
-    hashtags: "#h7, #hair, #h7shop, #h7lovers"
   - username: "vivik84"
     fullname: >-
       Vivi V.V.
@@ -103,6 +79,30 @@ profiles:
     id: ck5zqddiaueb70i14tbaau6vr
     verified: false
     hashtags: "#bestie, #colombia, #bestfriends, #love"
+  - username: "valelizcano"
+    fullname: >-
+      VALENTINA LIZCANO
+    bio: >-
+      ACTRIZ,LOCUTORA,😎COACH 💪🏽❤️SPEAKER EXMA — CERO-ESTEREOTIPOS ,SANADORA. MI LIBRO - SanaLocura/Retratos de mi Alma 📖❤️🙏🏻 PRODUCTOS BEAUTY MADNESS 🪷💜
+    location: "Colombia"
+    followers: 1660012
+    engagement: 16
+    commentsToLikes: 0.017310
+    id: ck5qbaf6wkmac0i11sgjcsq8u
+    verified: true
+    hashtags: "#sanalocura, #realfitness, #style, #look"
+  - username: "mariamanugomez"
+    fullname: >-
+      MARIA MANU | actriz
+    bio: >-
+      📍bogotá lifestyle content creator • actress manager:@itmjoserivera 28y
+    location: "Colombia"
+    followers: 252158
+    engagement: 5
+    commentsToLikes: 0.000413
+    id: ck6ub4hbn7ert0j716ukoso9s
+    verified: false
+    hashtags: "#relationships, #instarelatable, #adayinthelife, #relatable"
   - username: "paokatan"
     fullname: >-
       Paola Katan

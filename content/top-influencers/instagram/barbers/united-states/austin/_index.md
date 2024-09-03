@@ -1,11 +1,11 @@
 ---
-title: Top 10 Barbers Instagram Influencers In Austin In 2023
+title: Top 10 Barbers Instagram Influencers In Austin In 2024
 description: >-
-  Find top barbers Instagram influencers in Austin in 2023. Most popular hashtags: #hair #barber #haircut #barbershop.
+  Find top barbers Instagram influencers in Austin in 2024. Most popular hashtags: #barber #hair #haircut #barbershopconnect.
 platform: Instagram
-hits: 11
-text_top: Identify the top-rated Instagram influencers on inBeat.
-text_bottom: Our platform holds 11 Instagram influencers like this in Austin, United States for you to work with.
+hits: 20
+text_top: Discover the best Instagram influencers on inBeat.
+text_bottom: Our database has 20 Instagram influencers like this in Austin, United States for you to contact.
 profiles:
   - username: "queenofthesouth512"
     fullname: >-
@@ -30,19 +30,7 @@ profiles:
     commentsToLikes: 0.077408
     id: ck9wgnocdu6580j78u4jq3thd
     verified: false
-    hashtags: "#shoot, #contentcreator, #videooftheday, #prosoccer"
-  - username: "detroitbarberco"
-    fullname: >-
-      Detroit Barbers 💈
-    bio: >-
-      ᴮᴬᴿᴮᴱᴿˢᴴᴼᴾ & ᴮᴿᴬᴺᴰ 🅵🅴🆁🅽🅳🅰🅻🅴 ↠ 248.439.0979 🅲🅾🆁🅺🆃🅾🆆🅽 ↠ 313.284.4100 ʙᴏᴏᴋ ᴏɴʟɪɴᴇ ☟☟☟☟☟☟☟☟☟☟ Voted #1 Barber Shops Hour Magazine
-    location: "United States"
-    followers: 45752
-    engagement: 151
-    commentsToLikes: 0.031299
-    id: ck6tiy70l1no80j71ke57w10m
-    verified: false
-    hashtags: "#tipmybarber, #englishbulldog, #besafe, #michigan"
+    hashtags: "#collegesummerball, #collegebaseball, #kick, #instareel"
   - username: "elitebarberslounge"
     fullname: >-
       Joliet, Chicago
@@ -57,16 +45,28 @@ profiles:
     hashtags: "#barberhustle, #skinfade, #famousbarber, #ohiobarber"
   - username: "byrdmena"
     fullname: >-
-      SharpFade 🇻🇪
+      SharpFade
     bio: >-
-      🚀Founder @Sharpfade | Retired 💈 💈Co-Founder @Riseofhair | 🌎 25+ Countries 🧠Global Creative Consultant @wahlpro 📱@BooksyBIZ Partner 🎙 INTL Host
+      🔌Founder @Trim | @Corte | @riseofhair | @cutz | @zyist 🧠Global Creative Consultant @wahlpro | ⚡️Partner @booksybiz 🔮Founder @sharpfadepartners
     location: "United States"
-    followers: 71554
-    engagement: 200
-    commentsToLikes: 0.080107
+    followers: 98051
+    engagement: 99
+    commentsToLikes: 0.037086
     id: ck0w55fgj1zih0i19h3iwjsra
     verified: false
-    hashtags: "#moda, #style, #barber, #wahl"
+    hashtags: "#barbering, #hair, #wahl, #wahlclippers"
+  - username: "bhonstylez"
+    fullname: >-
+      Dallas Barber •  Angel
+    bio: >-
+      • Licensed Professional • Dallas, TX • APPOINTMENTS- Click the link below 👇🏽
+    location: "United States"
+    followers: 34244
+    engagement: 539
+    commentsToLikes: 0.016865
+    id: ckaoshlqwrjvm0i785cw6bruk
+    verified: false
+    hashtags: "#addisonbarber, #dentonbarber, #sanantoniobarber, #irvingbarber"
   - username: "tailorfade"
     fullname: >-
       Trevor Moots ✪
@@ -78,7 +78,7 @@ profiles:
     commentsToLikes: 0.091129
     id: ck5q1yu0cdg400i11wej4vfov
     verified: false
-    hashtags: "#iheartpm, #paulmitchellus, #barbergang, #barberinspirations"
+    hashtags: "#iheartpm, #paulmitchell, #barbersince98, #popularnobody"
   - username: "hairkingzceo"
     fullname: >-
       𝐇𝐀𝐈𝐑 𝐊𝐈𝐍𝐆𝐙
@@ -90,7 +90,7 @@ profiles:
     commentsToLikes: 0.018057
     id: ck602dt8gh7610i14mujf6pze
     verified: false
-    hashtags: "#sharpfade, #barbersinctv, #barbers, #miamibarber"
+    hashtags: "#losangelesbarber, #california, #showcasebarbers, #cutjunkies"
   - username: "worldclassbarbering"
     fullname: >-
       ♛WorldClassBarbering♛
@@ -102,29 +102,29 @@ profiles:
     commentsToLikes: 0.042969
     id: ck5c6es9e5afb0i117ca8hb6w
     verified: false
-    hashtags: "#fadeuy, #blurryfade, #denverbarber, #wahl"
-  - username: "jessglazasaloncentric"
+    hashtags: "#lineup, #menhairstyles, #bluehair, #babylisspro"
+  - username: "jasonfacey1"
     fullname: >-
-      Jessica Glaza Saloncentric
+      I'm so Facey 🇯🇲
     bio: >-
-      Saloncentric Sales Consultant #ittakesapro @saloncentric Salon Success Partner✨ Cosmetologist✂️ Beauty Insider💄 @jessglaza 💋 ✌️Tag me to be Featured
+      God/Jesus ⏰ Tiktok 300k+ Dancer, Actor, Host, Author| @blocla |Chris Brown|Alicia keys|Gwen Stefani @imsofaceydancehallfit @jasonfaceyproduction
     location: "United States"
-    followers: 32313
-    engagement: 58
-    commentsToLikes: 0.024764
-    id: ck0uetranm9ar0i19srvzo24b
+    followers: 72897
+    engagement: 59
+    commentsToLikes: 0.102378
+    id: ck5c6s1iu62pn0i11122v4vjk
     verified: false
-    hashtags: "#modernsalon, #hairlove, #beautifulhair, #warmblonde"
-  - username: "taystyles707"
+    hashtags: "#mondaymotivation, #dancehall, #reels, #jamaican"
+  - username: "captsteezy"
     fullname: >-
-      Braid/Stylist Directory
+      Jonathan Riff
     bio: >-
-      👉🏽❗I DO NOT BRAID ANYMORE🙅🏽‍♀️❗👈🏽 👑 RECOMMENDED BRAIDERS, LOCTICIANS & STYLISTS 💘 Stylists: follow @hair_sleeve
+      Brand Architect || Shopify Expert Digital Agency || @CaptainsandCowboys Contributing Author || @Entrepreneur @SaltyDogSupplements || @The.Summer.Club
     location: "United States"
-    followers: 21311
-    engagement: 46
-    commentsToLikes: 0.025723
-    id: ck0vz9b7t7yiq0i197b8da0cb
+    followers: 238547
+    engagement: 303
+    commentsToLikes: 0.009427
+    id: ck14gfruh50310i19hgocmk0e
     verified: false
-    hashtags: "#instantlocsbayarea, #loctician, #sports, #braidart"
+    hashtags: "#luxurytravel, #travelcroatia, #travelinspiration, #luxuryvacation"
 ---

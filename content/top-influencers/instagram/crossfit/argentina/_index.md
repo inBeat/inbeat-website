@@ -1,12 +1,36 @@
 ---
-title: Top 10 Crossfit Instagram Influencers In Argentina In 2023
+title: Top 10 Crossfit Instagram Influencers In Argentina In 2024
 description: >-
-  Find top crossfit Instagram influencers in Argentina in 2023. Most popular hashtags: #crossfit #fitness #fitnessgirl.
+  Find top crossfit Instagram influencers in Argentina in 2024. Most popular hashtags: #crossfit #fitness #fitnessmotivation.
 platform: Instagram
-hits: 54
-text_top: Identify the best Instagram accounts on inBeat.
-text_bottom: Our platform aggregates 54 Instagram influencers like this in Argentina for you to connect with.
+hits: 53
+text_top: Identify the best Instagram influencers on inBeat.
+text_bottom: Our platform has 53 Instagram influencers like this in Argentina for you to collaborate.
 profiles:
+  - username: "gonzaduro"
+    fullname: >-
+      Gonza Duro
+    bio: >-
+      •Crossfit Athlete 🇦🇷 CF L-1 CrossFit Games ‘17-‘23 🏋🏻‍♂️ @hardy.arg | @mmeddfit | @dropset.sn | @brothersathletics
+    location: "Argentina"
+    followers: 14336
+    engagement: 436
+    commentsToLikes: 0.014899
+    id: ck5btkuyfg57r0i11b2jzmian
+    verified: false
+    hashtags: "#jgs, #lfg, #brotherscompete, #cuartosdefinal"
+  - username: "santicomba"
+    fullname: >-
+      Santi Comba
+    bio: >-
+      @sensefit Hokage Fittest in🇺🇾 19'21'22'🏆 @mayhemathlete . Crossfit Games athlete 19’ Regional 18’ . @renaultuy|@monsterenergy|@urcomsoft|@dojo.uy 📍Mvd
+    location: "Argentina"
+    followers: 115652
+    engagement: 413
+    commentsToLikes: 0.012657
+    id: ck0w0rccdfnhr0i190oipfwbf
+    verified: false
+    hashtags: "#crossfitespa, #strongfitgames, #desaf, #mayhemcompete"
   - username: "felixgomezactor"
     fullname: >-
       Félix Gómez
@@ -103,28 +127,4 @@ profiles:
     id: ck5zpqod9t5ts0i14usrh3aji
     verified: false
     hashtags: "#hardworkpaysoff, #crossfit, #fitnessgirl, #fitness"
-  - username: "chinnireyes"
-    fullname: >-
-      Jenni Reyes
-    bio: >-
-      Crossfit Games athlete 17' Regional athlete 15'16'17'18' --Reebok Athlete--👑 Fittest en 🇦🇷 16'17' @bloodandheart_ 💪 ⚡Personal trainer⚡ •Be different•
-    location: "Argentina"
-    followers: 17014
-    engagement: 208
-    commentsToLikes: 0.023267
-    id: ck5btksz1g53b0i11cbgf096h
-    verified: false
-    hashtags: "#training, #reebokathelete, #kbflow, #crossfit"
-  - username: "delfiortuno"
-    fullname: >-
-      Delfi Ortuño
-    bio: >-
-      🇦🇷 ARG 🏋🏽‍♀️ 2 x CrossFit Games Athlete 🤸🏽‍♀️ Ex Gimnasta Selección Nacional 💫 ᴅᴇᴛᴇʀᴍɪɴᴀᴄɪᴏ́ɴ, ᴘᴇʀsᴇᴠᴇʀᴀɴᴄɪᴀ & ᴄᴏʀᴀᴊᴇ✨
-    location: "Argentina"
-    followers: 27452
-    engagement: 630
-    commentsToLikes: 0.024419
-    id: ck0w5o10j4ldf0i19todat4e4
-    verified: false
-    hashtags: "#ad, #tbt"
 ---

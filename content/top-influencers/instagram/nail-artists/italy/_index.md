@@ -1,11 +1,11 @@
 ---
-title: Top 10 Nail Artists Instagram Influencers In Italy In 2023
+title: Top 10 Nail Artists Instagram Influencers In Italy In 2024
 description: >-
-  Find top nail artists Instagram influencers in Italy in 2023. Most popular hashtags: #nailart #nails #nail #nailsofinstagram.
+  Find top nail artists Instagram influencers in Italy in 2024. Most popular hashtags: #nailart #nail #nails #nailsofinstagram.
 platform: Instagram
-hits: 32
-text_top: Discover the best Instagram profiles on inBeat.
-text_bottom: Our search engine holds 32 Instagram influencers like this in Italy for you to collaborate.
+hits: 38
+text_top: Discover the most popular Instagram profiles on inBeat.
+text_bottom: Our search engine holds 38 Instagram influencers like this in Italy for you to pitch.
 profiles:
   - username: "angelicaceci95"
     fullname: >-
@@ -55,6 +55,42 @@ profiles:
     id: ck5hfoas1ygmv0i118ayokdl8
     verified: false
     hashtags: "#outfit, #chilena, #latina, #concon"
+  - username: "desy_forato"
+    fullname: >-
+      Desy Forato | Nail Educator
+    bio: >-
+      ⚜️ @nailartextreme_academy 𝗙𝗼𝘂𝗻𝗱𝗲𝗿 ‼️ 𝗣𝗮𝗹𝗮𝗱𝗶𝗻𝗮 dei 𝗟𝗔𝗧𝗘𝗥𝗔𝗟𝗜 ⚔️ 𝗚𝘂𝗲𝗿𝗿𝗶𝗲𝗿𝗮 dei 𝗙𝗘𝗥𝗥𝗜 𝗗𝗔 𝗦𝗧𝗜𝗥𝗢 👇🏻 I miei corsi in AULA e ONLINE qui 👇🏻
+    location: "Italy"
+    followers: 110708
+    engagement: 706
+    commentsToLikes: 0.051875
+    id: ck5zrz74fxizo0i14e30wrsom
+    verified: false
+    hashtags: "#corsiunghie, #unghiesanvalentino, #unghieestive, #nailinfluencers"
+  - username: "diln_"
+    fullname: >-
+      dîlan but you can call me dilo 🧿
+    bio: >-
+      jin jîyan azadî 💌 dilan@sesamyagency.com
+    location: "Italy"
+    followers: 98587
+    engagement: 285
+    commentsToLikes: 0.003332
+    id: ck55ovx2k98ho0i11apkzbz8t
+    verified: false
+    hashtags: "#vvb, #nailart, #vintagechanel, #chanelski"
+  - username: "annalisadeluca__"
+    fullname: >-
+      Dott.ssa Annalisa De Luca
+    bio: >-
+      𝐷𝑒𝑙𝑖𝑐𝑎𝑡𝑎 🧿🪬🦋 @dott.ssaannalisadeluca 𝐴𝑛𝑛𝑎𝑙𝑖𝑠𝑎𝑑𝑒𝑙𝑢𝑐𝑎18@h𝑜𝑡𝑚𝑎𝑖𝑙.𝑖𝑡
+    location: "Italy"
+    followers: 32118
+    engagement: 25
+    commentsToLikes: 0.032015
+    id: ck6tila4a0xmd0j71go6cq6ny
+    verified: false
+    hashtags: "#sheincode, #pixibeauty, #asmrcommunity, #collaboration"
   - username: "ericabarca_"
     fullname: >-
       Erica Barca
@@ -79,42 +115,6 @@ profiles:
     id: ck5buom5ri5e00i11f5z4onwl
     verified: false
     hashtags: "#fitnessmotivation, #bodytransformation, #inkedgirl, #fitnessgirl"
-  - username: "battleborn96"
-    fullname: >-
-      𝓔𝓻𝓲𝓬𝓪🌼
-    bio: >-
-      𝓜𝓸𝓷𝓸𝓹𝓸𝓵𝓲 (𝓑𝓪) @derezzed94 ♥️
-    location: "Italy"
-    followers: 21283
-    engagement: 369
-    commentsToLikes: 0.149393
-    id: ckaov9ius3m6n0i78g80w6d6h
-    verified: false
-    hashtags: "#giftedby, #skincareblogger, #ideabellezza, #octolyfamily"
-  - username: "desy_forato"
-    fullname: >-
-      Desy Forato
-    bio: >-
-      ⚜️ @nailartextreme_academy Founder 🇮🇹 @opaonicotecnici Ambassador ‼️Paladina dei LATERALI ⚔️Guerriera dei FERRI DA STIRO ⏱13 anni nel settore
-    location: "Italy"
-    followers: 41894
-    engagement: 334
-    commentsToLikes: 0.096639
-    id: ck5zrz74fxizo0i14e30wrsom
-    verified: false
-    hashtags: "#academy, #nailsofinstagram, #nailartextremeacademy, #corsinails"
-  - username: "carlambra"
-    fullname: >-
-      C A R L A  C A R N I C E L L A
-    bio: >-
-      BASED ON A TRUE STORY 🛍 𝒀𝑶𝑼𝑻𝑼𝑩𝑬𝑹 - 𝑴𝒊𝒔𝒔𝑪𝒂𝒓𝒍𝒂 💄 𝕊𝕙𝕠𝕡𝕡𝕚𝕟𝕘 𝕒𝕕𝕕𝕚𝕔𝕥𝕖𝕕 & 𝕓𝕖𝕒𝕦𝕥𝕪 𝕝𝕠𝕧𝕖𝕣 📚 Giurispridenza 👩🏼‍⚖️ ᴛᴏʀɪɴᴏ 🇮🇹 🎬 𝐈𝐥 𝐦𝐢𝐨 𝐮𝐥𝐭𝐢𝐦𝐨 𝐯𝐢𝐝𝐞𝐨:
-    location: "Italy"
-    followers: 43424
-    engagement: 357
-    commentsToLikes: 0.034512
-    id: ck0u1izgkx3ey0i19dvur64ot
-    verified: false
-    hashtags: "#autumnoutfit, #exploremore, #myaestheticroutine, #effortlessstyle"
   - username: "louis__escape"
     fullname: >-
       Louis Luu

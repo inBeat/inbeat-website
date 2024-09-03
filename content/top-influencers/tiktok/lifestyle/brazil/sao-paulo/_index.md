@@ -1,11 +1,11 @@
 ---
-title: Top 10 Lifestyle TikTok Influencers In Sao Paulo In 2023
+title: Top 10 Lifestyle TikTok Influencers In Sao Paulo In 2024
 description: >-
-  Find top lifestyle TikTok influencers in Sao Paulo in 2023. Most popular hashtags: #lifestyle #foryou #nature #fyp.
+  Find top lifestyle TikTok influencers in Sao Paulo in 2024. Most popular hashtags: #lifestyle #foryou #saopaulo #fyp.
 platform: TikTok
 hits: 4
 text_top: Analyze the most popular TikTok influencers on inBeat.
-text_bottom: Our search engine has 4 TikTok influencers like this in Sao Paulo, Brazil for you to contact.
+text_bottom: Our database has 4 TikTok influencers like this in Sao Paulo, Brazil for you to pitch.
 profiles:
   - username: "gabrieltuoto"
     fullname: >-

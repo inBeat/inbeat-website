@@ -1,24 +1,48 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Ukraine In 2023
+title: Top 10 Yoga Instagram Influencers In Ukraine In 2024
 description: >-
-  Find top yoga Instagram influencers in Ukraine in 2023. Most popular hashtags: #yoga #flexible #style.
+  Find top yoga Instagram influencers in Ukraine in 2024. Most popular hashtags: #yoga #fashion #style.
 platform: Instagram
-hits: 8
-text_top: See the best Instagram accounts on inBeat.
-text_bottom: Our platform has 8 Instagram influencers like this in Ukraine for you to work with.
+hits: 10
+text_top: Analyze the best Instagram profiles on inBeat.
+text_bottom: Our database has 10 Instagram influencers like this in Ukraine for you to collaborate.
 profiles:
   - username: "ilonkis___"
     fullname: >-
-      ☾ Ilonа
+      Іlona
     bio: >-
-      Yoga ↠ Travel ↠ Art ↠ Aesthetics Telegram 👇🏼
+      ⥉ ︎Yoga ⟿ ⥉ Travel ⟿ ⥉ Art ⠀ 📍Live in the mountains ⛰
     location: "Ukraine"
-    followers: 84906
-    engagement: 710
-    commentsToLikes: 0.021767
+    followers: 83142
+    engagement: 754
+    commentsToLikes: 0.015509
     id: ck5zphkiksoj20i1489crdq6p
     verified: false
-    hashtags: ""
+    hashtags: "#silan, #silannaturals"
+  - username: "shantipeople"
+    fullname: >-
+      Shanti People
+    bio: >-
+      Project that mix PsyTrance | Techno with Mantras. #shantipeople #vedicedm #vocalyoga #pianagi Booking 👇
+    location: "Ukraine"
+    followers: 135090
+    engagement: 1649
+    commentsToLikes: 0.017174
+    id: ck5zpq5mct4rl0i14f8i86m1g
+    verified: false
+    hashtags: "#shantipeopleontour, #prog, #nowplaying, #musicvideo"
+  - username: "marydenysiuk"
+    fullname: >-
+      𝗠𝗔𝗥𝗜𝗔 𝗗𝗘𝗡𝗬𝗦𝗜𝗨𝗞
+    bio: >-
+      From Netherlands to Dubai📍 Real estate, wellness, fine dining, fashion, motherhood. 10 million+ Reels views Dm/email for collaboration🤝
+    location: "Ukraine"
+    followers: 267103
+    engagement: 1396
+    commentsToLikes: 0.031828
+    id: ck6udxlqtnp4g0j71mqfpeeiw
+    verified: false
+    hashtags: "#gcse, #alevels, #britishschoolsindubai, #internationalbaccalaureate"
   - username: "mila_kucherenko"
     fullname: >-
       

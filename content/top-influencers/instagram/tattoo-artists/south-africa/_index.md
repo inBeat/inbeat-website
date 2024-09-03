@@ -1,11 +1,11 @@
 ---
-title: Top 10 Tattoo-Artists Instagram Influencers In South Africa In 2023
+title: Top 10 Tattoo-Artists Instagram Influencers In South Africa In 2024
 description: >-
-  Find top tattoo-artists Instagram influencers in South Africa in 2023. Most popular hashtags: #southafrica #love #illustration #photography.
+  Find top tattoo-artists Instagram influencers in South Africa in 2024. Most popular hashtags: #love #southafrica #instagood #photography.
 platform: Instagram
-hits: 8
-text_top: Identify the best Instagram profiles on inBeat.
-text_bottom: Our search engine holds 8 Instagram influencers like this in South Africa for you to contact.
+hits: 9
+text_top: Analyze the most popular Instagram accounts on inBeat.
+text_bottom: Our platform holds 9 Instagram influencers like this in South Africa for you to work with.
 profiles:
   - username: "grelysian"
     fullname: >-
@@ -31,18 +31,6 @@ profiles:
     id: ck15pebdjxgob0i190hdw0c6q
     verified: false
     hashtags: "#model, #potd, #freefallin, #you"
-  - username: "marcbermanphotography"
-    fullname: >-
-      Marc Berman | Photographer
-    bio: >-
-      #photographer #model #fashion #lifestyle 📍#capetown 👨🏻Personal Acc - @king_fool For bookings DM or Email : info@marcberman.co.za
-    location: "South Africa"
-    followers: 16600
-    engagement: 187
-    commentsToLikes: 0.023634
-    id: ck5cdtxbzjrsk0i114cjcvvst
-    verified: false
-    hashtags: "#instadaily, #blueeyes, #brunette, #portraitvision"
   - username: "karabo_poppy"
     fullname: >-
       Karabo Poppy Moletsane
@@ -79,6 +67,18 @@ profiles:
     id: ck5heoh9vtzda0i11c8tuull3
     verified: false
     hashtags: "#love, #puppy, #germanshepherd, #tagsforlikes"
+  - username: "ifathindes"
+    fullname: >-
+      Ifat Hindes
+    bio: >-
+      𝘈ward Winning Entrepreneur⁣ 🌟⁣ Photographer 📸⁣ @ikhphotography Epilepsy & Health Awareness 💜⁣ 💌 DM for COLLABS ⁣ Nourish Your Soul 🥰
+    location: "South Africa"
+    followers: 28471
+    engagement: 135
+    commentsToLikes: 0.021284
+    id: ck0vv12s4n1uv0i19sjhh4v8i
+    verified: false
+    hashtags: "#hair, #instagood, #cute, #hongkong"
   - username: "black_tree_designs"
     fullname: >-
       Johanna | Paper Flower Artist
@@ -91,16 +91,28 @@ profiles:
     id: ck9h9sr409tj80j78qdvj88sf
     verified: false
     hashtags: "#floralfriday, #mood, #paperfloweracademy, #flowerstagram"
+  - username: "marcbermanphotography"
+    fullname: >-
+      Marc Berman | Photographer
+    bio: >-
+      #photographer #model #fashion #lifestyle #NFTcommunity #nft #NFTart 📍#capetown 👨🏻Personal Acc - @king_fool 📧 info@marcberman.co.za to book
+    location: "South Africa"
+    followers: 16539
+    engagement: 170
+    commentsToLikes: 0.020955
+    id: ck5cdtxbzjrsk0i114cjcvvst
+    verified: false
+    hashtags: "#marcbermanphotography, #instadaily, #southafrica, #photography"
   - username: "sashaleelaurel"
     fullname: >-
       S A S H A   L A U R E L
     bio: >-
-      Miss South Africa 2019 Mjr. Marketing & Psych (Wits) Download Application Form For Student Funding Here ⬇️
+      Miss South Africa 2019 Mjr. Marketing & Psych (Wits) Ambassador @brandsouthafrica BOSS 🇿🇦 | CORE 🇩🇪
     location: "South Africa"
-    followers: 46132
-    engagement: 861
-    commentsToLikes: 0.022941
+    followers: 45178
+    engagement: 637
+    commentsToLikes: 0.028333
     id: ck55j1xkuw2720i11j9nuitxw
     verified: false
-    hashtags: "#misssouthafrica2019, #mood, #braveheartbears, #loreal"
+    hashtags: "#braveheartbears, #bts, #playyourpart, #mood"
 ---

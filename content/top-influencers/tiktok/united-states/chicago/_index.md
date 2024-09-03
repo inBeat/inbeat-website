@@ -1,11 +1,11 @@
 ---
-title: Top 10 TikTok Influencers In Chicago In 2023
+title: Top 10 TikTok Influencers In Chicago In 2024
 description: >-
-  Find top TikTok influencers in Chicago in 2023. Most popular hashtags: #foryou #duet #stitch #fyp.
+  Find top TikTok influencers in Chicago in 2024. Most popular hashtags: #foryou #duet #fyp #stitch.
 platform: TikTok
-hits: 1194
-text_top: See the most popular TikTok influencers on inBeat.
-text_bottom: inBeat aggregates 1194 TikTok influencers like this in Chicago, United States for you to work with.
+hits: 1196
+text_top: Identify the top-rated TikTok accounts on inBeat.
+text_bottom: inBeat has 1196 TikTok influencers like this in Chicago, United States for you to work with.
 profiles:
   - username: "blonded10"
     fullname: >-
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.016065
     id: ckbbtgb2mgx0l0j235ek7pwxs
     verified: false
-    hashtags: "#weddingrules, #modeling, #photoshootideas, #miami"
+    hashtags: "#fairyhair, #fyp, #astrology, #weddingrules"
   - username: "rbella_23"
     fullname: >-
       kuroken's love child 😎
@@ -119,12 +119,12 @@ profiles:
     fullname: >-
       Balake
     bio: >-
-      22. Chicago. Human Wojak. Death Grips. Soy guy. Been in compilations & Pewdiepie
+      22. Chicago. ✝️ Wojak guy. Death Grips. Was on PewDiePie. New videos everyday
     location: "United States"
-    followers: 53100
-    engagement: 1982
-    commentsToLikes: 0.061803
+    followers: 72300
+    engagement: 1895
+    commentsToLikes: 0.047602
     id: ck8p07wjkfj270j78crj6n3jk
     verified: false
-    hashtags: "#comedy, #stitch, #funny, #foryou"
+    hashtags: "#funny, #ironic, #satire, #xyzbca"
 ---

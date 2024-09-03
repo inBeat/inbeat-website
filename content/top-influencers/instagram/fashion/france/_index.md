@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fashion Instagram Influencers In France In 2023
+title: Top 10 Fashion Instagram Influencers In France In 2024
 description: >-
-  Find top fashion Instagram influencers in France in 2023. Most popular hashtags: #fashion #ootd #outfits.
+  Find top fashion Instagram influencers in France in 2024. Most popular hashtags: #ootd #fashion #outfitinspo #giveaway.
 platform: Instagram
-hits: 3375
-text_top: See the best Instagram influencers on inBeat.
-text_bottom: Our platform aggregates 3375 Instagram influencers like this in France for you to pitch.
+hits: 3634
+text_top: Identify the most popular Instagram accounts on inBeat.
+text_bottom: Our platform aggregates 3634 Instagram influencers like this in France for you to pitch.
 profiles:
   - username: "fashions.school"
     fullname: >-
@@ -19,112 +19,112 @@ profiles:
     id: ck15qdonc2cy30i19riskzt3j
     verified: false
     hashtags: ""
-  - username: "ellieekellyy"
+  - username: "brixana"
     fullname: >-
-      ELLIEKELLY
+      B R I A N A
     bio: >-
-      fashion • makeup • lifestyle @iconmanagement.ie co-host of hold my drink podcast🎙✨ Shop EK Eyewear below⬇️
+      Fashion | Beauty | Lifestyle • Creator of @fleshnudebeauty • Youtube: Briana Monique’ • NEW VIDEO IN LINK BELOW
     location: "France"
-    followers: 293521
-    engagement: 431
-    commentsToLikes: 0.030517
-    id: ck0w2y0dpqoho0i19uyvmvrcc
+    followers: 445480
+    engagement: 688
+    commentsToLikes: 0.010521
+    id: ck6tu7n4aersv0j71tpztu043
     verified: false
-    hashtags: "#ad, #ba, #makeupartist, #elliekelly"
-  - username: "sosazerafa"
+    hashtags: "#keyssoulcarepartner, #keyssoulcare, #ad, #ultabeautypartner"
+  - username: "kaykaybrown"
     fullname: >-
-      Sarah Zerafa - Fashion Inspo
+      ashley kaylen brown👼🏾
     bio: >-
-      #fashion - #malta - #lifestyle ✨ *Award Winning Fashion Influencer 🇲🇹 🏆SMA Best Overall Content Creator 2021 💌sarahzerafa23@gmail.com
+      🕊 los angeles based 💌 ashleybrown@mvetalent.com 🎀 romantic fashion and aesthetics @ashley.kaylen
     location: "France"
-    followers: 272565
-    engagement: 473
-    commentsToLikes: 0.039730
-    id: ck0tyvc8co7qb0i19cv0cph9x
+    followers: 33291
+    engagement: 452
+    commentsToLikes: 0.020169
+    id: ckr1nl430612y0j23gk6ppnce
     verified: false
-    hashtags: "#outfitinspo, #editorial, #styleinspo, #explore"
-  - username: "capucinerqllrt"
+    hashtags: "#pinkfashion, #girlyfashion, #coquetteaesthetic, #feminineaesthetic"
+  - username: "diana_eneje"
     fullname: >-
-      Capucine 🌞
+      Diana Eneje
     bio: >-
-      Lille-Paris Passionate about fashion and travel ☁️ capucinerqllrtpro@gmail.com
+      •Model|Influencer •Most Influential & Fashionable 🥇 💕 Shop @theshinecartel 📧management@dianaeneje.com
     location: "France"
-    followers: 128371
-    engagement: 497
-    commentsToLikes: 0.046909
-    id: ckwzuvdikyf7h0j235yuyayod
+    followers: 1061699
+    engagement: 541
+    commentsToLikes: 0.008732
+    id: ck8syqlu2lmpq0j78qrada67j
     verified: false
-    hashtags: "#browniegirls, #feelscollection, #primark, #workwithprimark"
-  - username: "itsbenbelkacem"
+    hashtags: "#paris, #reels, #lancome, #idolehouse"
+  - username: "inchargeofoutfits"
     fullname: >-
-      روفيدة & اسراء
+      Marina | NYC STYLE BLOGGER
     bio: >-
-      Sister blogging ✨ Fashion • lifestyle •baking • & More ~ . 📧 itsbenbelkacem@gmail.com
+      lifestyle, beauty & fashion NYC TikTok: inchargeofoutfits ✉️ roughing.m@gmail.com
     location: "France"
-    followers: 114078
-    engagement: 551
-    commentsToLikes: 0.023929
-    id: ck6ufvr6tzexz0j71e78h9cir
+    followers: 36184
+    engagement: 927
+    commentsToLikes: 0.001098
+    id: cl0bg34fjehne0i23gvpc68wm
     verified: false
-    hashtags: "#outfits, #algeria, #hijab, #ootd"
-  - username: "peterpapapetrou1"
+    hashtags: "#ootd, #aestheticedits, #fashion, #pinterestoutfit"
+  - username: "dressingleeloo"
     fullname: >-
-      Peter Papapetrou
+      Leeloo
     bio: >-
-      Fashion Stylist,Style Expert 🧿 🇨🇦& 🇳🇱 Inquires: Roseanna@plutinogroup.com
+      Stylist/DA & Parisian Fashion/lifestyle Influencer ❤️ Mum of Maé & Ana 💌 ricoleeloo@gmail.com 📸 @romain_guintard
     location: "France"
-    followers: 21950
-    engagement: 365
-    commentsToLikes: 0.126038
-    id: ck0vv40mnnfx80i194j6o0pew
+    followers: 203497
+    engagement: 572
+    commentsToLikes: 0.060522
+    id: ck0ttqc593uke0i19mknlunnf
     verified: false
-    hashtags: "#family, #stylist, #runway, #fashion"
-  - username: "romy"
+    hashtags: "#era100, #familyfirst, #leelooana, #sonos"
+  - username: "ginab.xo"
     fullname: >-
-      Romane, pour les intimes*
+      GINA B. 💖
     bio: >-
-      + fashion, animals, skincare and icetea lover + Founder @glace.studio <3 + Tiktok 1,1M + Collab: romy@foll-ow.com
+      Faith | fashion | beauty | travel | 🇬🇭 💌: ginab@kensingtongrey.co Become an Influencer in 2024👇🏾 📸 tips: @herinfluence.co
     location: "France"
-    followers: 1579517
-    engagement: 298
-    commentsToLikes: 0.039484
-    id: ck137hymebn330i19kosyybke
-    verified: true
-    hashtags: "#clubglace, #gifting, #fashion, #giftmagic"
-  - username: "clea_lacy"
-    fullname: >-
-      𝒞𝓁𝑒𝒶-𝐿𝒶𝒸𝓎
-    bio: >-
-      Lifestyle ☼ Beauty ☼ Fashion ☼ Happiness Podcast: „It‘s a Matchday“ 🎤 ✉️ management@clealacy.de
-    location: "France"
-    followers: 408733
-    engagement: 180
-    commentsToLikes: 0.030109
-    id: ck0vx3rptwzsu0i19a14tnm1f
-    verified: true
-    hashtags: "#travel, #december, #nyc, #fashion"
-  - username: "angirechberger"
-    fullname: >-
-      Angelina • Graz, Austria
-    bio: >-
-      Fashion • daily lifestyle • business Founder @thecasual.studio Photographer @angigraphy In love with M🤍
-    location: "France"
-    followers: 21219
-    engagement: 171
-    commentsToLikes: 0.004917
-    id: ckap03g36ojxp0i781qjie13h
+    followers: 100902
+    engagement: 1063
+    commentsToLikes: 0.014935
+    id: ck9whg2uvxovq0j785r2hjvta
     verified: false
-    hashtags: "#happy, #photoshoot, #desenio, #love"
-  - username: "cynthiamadridx"
+    hashtags: "#grwmoutfit, #outfitinspo, #outfitideas, #outfitinspiration"
+  - username: "annamariasoupioni"
     fullname: >-
-      Cynthia Madrid
+      ANNAMARIASOUPIONI
     bio: >-
-      @FashionNova ambassador PR/ collabs 💌 Cynthiamadridx@gmail.com Wifey 💍 David M. Madrid
+      8/10🎂Animal lover ❤️ Content creator :fashion /Beauty/travel 💌For Collaborations:annamaria.soup@gmail.com
     location: "France"
-    followers: 50219
-    engagement: 147
-    commentsToLikes: 0.129734
-    id: ck14lv0i9wmm80i19w1l7vnvz
+    followers: 69470
+    engagement: 494
+    commentsToLikes: 0.563909
+    id: ck6tsp0sm60ea0j713qf2c3e6
     verified: false
-    hashtags: "#hermosa, #summeraesthetic, #fashionstyle, #bhfyp"
+    hashtags: "#win, #girl, #annamariasgiveaway, #ootdfashion"
+  - username: "die.reuters"
+    fullname: >-
+      Nadine Reuter
+    bio: >-
+      ¨̮ 🇩🇪| Mädchenmama #mom of 3 girls 👱🏼‍♀️👧🏼🧒🏼 and 🐾 #motherhood #travel #fashion #dogmom
+    location: "France"
+    followers: 81630
+    engagement: 532
+    commentsToLikes: 0.048021
+    id: ck0u8dql770u20i19qjo6wguc
+    verified: false
+    hashtags: "#liebe, #loveyou, #partydeco, #maternity"
+  - username: "mirella_bouteiller"
+    fullname: >-
+      Una mexicana en París 🇲🇽🇫🇷
+    bio: >-
+      Multicultural Family Travel. Fashion. lifestyle. interior design
+    location: "France"
+    followers: 110876
+    engagement: 683
+    commentsToLikes: 0.033734
+    id: ckf5qoboja1a70j23dsmfyqmk
+    verified: false
+    hashtags: "#france, #parisjetaime, #drees, #reels"
 ---

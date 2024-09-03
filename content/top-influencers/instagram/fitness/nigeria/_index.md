@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Nigeria In 2023
+title: Top 10 Fitness Instagram Influencers In Nigeria In 2024
 description: >-
-  Find top fitness Instagram influencers in Nigeria in 2023. Most popular hashtags: #explore #reels #model #explorepage.
+  Find top fitness Instagram influencers in Nigeria in 2024. Most popular hashtags: #reels #explore #model #love.
 platform: Instagram
-hits: 16
-text_top: Analyze the top-rated Instagram profiles on inBeat.
-text_bottom: Our search engine has 16 Instagram influencers like this in Nigeria for you to work with.
+hits: 20
+text_top: See the best Instagram profiles on inBeat.
+text_bottom: Our database has 20 Instagram influencers like this in Nigeria for you to pitch.
 profiles:
   - username: "_sunkissedcurls"
     fullname: >-
@@ -67,6 +67,54 @@ profiles:
     id: ck13avsjmsfpc0i19s7pwt5bs
     verified: false
     hashtags: "#thefrenchman, #model, #fashion, #fitnessmodel"
+  - username: "precious_eniayekan"
+    fullname: >-
+      Precious Eniayekan
+    bio: >-
+      Marketing/PR💰|Humanity|Tech|Fashion|| Public Servant|| Building @rivilconsult @thestellar_academy @thetemponetwork @revneyco @thestellar_initiative_
+    location: "Nigeria"
+    followers: 14562
+    engagement: 828
+    commentsToLikes: 0.176915
+    id: ck6tu8rxfeyar0j71ru43fkvi
+    verified: false
+    hashtags: "#iwd2024, #community, #love, #exploremore"
+  - username: "itiayo"
+    fullname: >-
+      Itiayo O
+    bio: >-
+      Still no niche 🤷🏾‍♀️ Photographer at @bojstudios @soundsnsights 📍Lagos, Nigeria ✉️ itiayo@gmail.com
+    location: "Nigeria"
+    followers: 127142
+    engagement: 1731
+    commentsToLikes: 0.037581
+    id: clple1sqows6s0k08puzifdhb
+    verified: false
+    hashtags: "#cinematography, #wfh, #productivity, #sharescribe"
+  - username: "deanna_achelle"
+    fullname: >-
+      Deanna Achelle
+    bio: >-
+      🙏🏽God 1st✨Model | Dancer | Actress 💃🏽Owner: @iconheeling 🎓NCAT Alum💛 | ΔΦΔ 🐾🩸 💎Inspiring Others To Be #NothingLessThanICONIC
+    location: "Nigeria"
+    followers: 13395
+    engagement: 256
+    commentsToLikes: 0.204585
+    id: ckq6b01k7icq60j23ma2pltvn
+    verified: false
+    hashtags: "#heelschoreography, #softlife, #selfcare, #linkinthebio"
+  - username: "ozeembadiwe"
+    fullname: >-
+      Ozumba Mbadiwe
+    bio: >-
+      STAY CLEAN NO REASON Disruptor Award winning PR/Partnerships Brand Ambassador Strategist Actor @245lagos 1/2 @mbadiwetwins @playmanagementafr
+    location: "Nigeria"
+    followers: 21983
+    engagement: 67
+    commentsToLikes: 0.046610
+    id: ck6ug8z261m7c0j71b8tqjbqm
+    verified: false
+    hashtags: "#staycleannoreason, #mbadiwetwins, #remymartinng, #tbt"
   - username: "thesashagomez"
     fullname: >-
       🦋𝐓 𝐇 𝐄   𝐁 𝐔 𝐓 𝐓 𝐄 𝐑 𝐅 𝐋 𝐘🦋
@@ -79,52 +127,4 @@ profiles:
     id: ck6u4inn63y230j7156ejasgn
     verified: false
     hashtags: "#explorepage, #singer, #explore, #valentines"
-  - username: "savedby_drbell"
-    fullname: >-
-      Dr. Akeadra Bell
-    bio: >-
-      God is Dope. 🙏🏽 Jeremiah 29:11 Saving Smiles, one tooth at a time! 👩🏽‍⚕️✨ AEGD Resident | 📍ATL 1908 💕| HBCU Alum
-    location: "Nigeria"
-    followers: 5056
-    engagement: 1619
-    commentsToLikes: 0.071135
-    id: ck15prw2czcdt0i19jzcjhjb5
-    verified: false
-    hashtags: "#whitecoatsblackdoctors, #leoseason, #whitecoats4blacklives, #inspiration"
-  - username: "lhidhiastanley"
-    fullname: >-
-      LYDIA STANLEY 🦋
-    bio: >-
-      BEAUTY INFLUENCER | DIGITAL CONTENT CREATOR | CIVIL ENGINEER 📩 LHIDHIASTANLEY@GMAIL.COM 📍NIGERIA 🇳🇬 GET YOUR MAKEUP DONE @lhidhiastanley_studio
-    location: "Nigeria"
-    followers: 68463
-    engagement: 575
-    commentsToLikes: 0.051065
-    id: ck15ptj6rzjut0i19mt8joqe2
-    verified: false
-    hashtags: "#nigerian, #wakeupandmakeup, #lhidhiastanley, #bellanaijaweddings"
-  - username: "oladapoofficial"
-    fullname: >-
-      𝐨𝐥𝐚 𝐰𝐢𝐭𝐡 𝐭𝐡𝐞 𝐦𝐨𝐬𝐭
-    bio: >-
-      Intimacy births music PROUD OUT NOW🤍
-    location: "Nigeria"
-    followers: 7452
-    engagement: 1276
-    commentsToLikes: 0.114107
-    id: ck5ho9i5dp6cu0i11av0i5c8o
-    verified: false
-    hashtags: "#fitnesswithola, #02challenge, #silhouette, #olawiththemost"
-  - username: "uzodinma_g"
-    fullname: >-
-      Uzodinma Gift🌺🌺
-    bio: >-
-      Welcome to my page✨✨ Personal gallery✨ Virgo♍️
-    location: "Nigeria"
-    followers: 3763
-    engagement: 660
-    commentsToLikes: 0.115014
-    id: ckaowcbz88au40i78te9hv4ip
-    verified: false
-    hashtags: "#gaintrick, #gaintrain, #beauty, #gains"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Nutrition TikTok Influencers In United States In 2023
+title: Top 10 Nutrition TikTok Influencers In United States In 2024
 description: >-
-  Find top nutrition TikTok influencers in United States in 2023. Most popular hashtags: #fyp #foryou #health #fitness.
+  Find top nutrition TikTok influencers in United States in 2024. Most popular hashtags: #fyp #foryou #health #fitness.
 platform: TikTok
-hits: 269
-text_top: Discover the most popular TikTok influencers on inBeat.
-text_bottom: Our search engine has 269 TikTok influencers like this in United States for you to connect with.
+hits: 271
+text_top: Identify the top-rated TikTok profiles on inBeat.
+text_bottom: inBeat aggregates 271 TikTok influencers like this in United States for you to collaborate.
 profiles:
   - username: "askdebbieabouthair"
     fullname: >-
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.051868
     id: ckbfj8sqafg5j0j23q057jchq
     verified: false
-    hashtags: "#foryou, #garden, #lit, #fy"
+    hashtags: "#vegan, #tiktokpartner, #fyp, #wellness"
   - username: "the.muscle"
     fullname: >-
       The Muscle 
@@ -54,7 +54,7 @@ profiles:
     commentsToLikes: 0.056191
     id: ckd0pgkkchql00j23ohhqaop5
     verified: false
-    hashtags: "#foryou, #xyzbca, #funny, #fitnesschallenge"
+    hashtags: "#teamstronglife, #fit, #1stphorm, #overshareinyourunderwear"
   - username: "barebyevelyn"
     fullname: >-
       Evelyn Braczko
@@ -66,7 +66,7 @@ profiles:
     commentsToLikes: 0.056591
     id: ckcekhkt0tvox0j235vwuzpyf
     verified: false
-    hashtags: "#hormoneimbalance, #parasitecleanse, #guthealth, #guttok"
+    hashtags: "#parasites, #wormdetox, #healyourgut, #frequencies"
   - username: "thrivingwithclaudia"
     fullname: >-
       Claudia Stepan
@@ -90,7 +90,7 @@ profiles:
     commentsToLikes: 0.090367
     id: ckbfenvuj8wsd0j23uq16f55o
     verified: false
-    hashtags: "#biggerisbetter, #comedy, #getcrocd, #aeriereal"
+    hashtags: "#fyp, #jokes, #dontsweatit, #viral"
   - username: "lifefuels"
     fullname: >-
       LifeFuels
@@ -114,7 +114,7 @@ profiles:
     commentsToLikes: 0.036591
     id: ck8ql5v6bkaub0j78nrljdj7u
     verified: false
-    hashtags: "#stitch, #imnotgay, #sixpackabs, #abchallenge"
+    hashtags: "#fyp, #imnotgay, #stitch, #sixpackabs"
   - username: "jeffseidmanfitness"
     fullname: >-
       Jeff Seidman

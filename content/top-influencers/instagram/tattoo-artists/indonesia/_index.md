@@ -1,11 +1,11 @@
 ---
-title: Top 10 Tattoo-Artists Instagram Influencers In Indonesia In 2023
+title: Top 10 Tattoo-Artists Instagram Influencers In Indonesia In 2024
 description: >-
-  Find top tattoo-artists Instagram influencers in Indonesia in 2023. Most popular hashtags: #tattoo #tattooartist #inked #tattoos.
+  Find top tattoo-artists Instagram influencers in Indonesia in 2024. Most popular hashtags: #tattoo #tattooartist #indonesia #drawing.
 platform: Instagram
-hits: 21
-text_top: Discover the best Instagram influencers on inBeat.
-text_bottom: inBeat aggregates 21 Instagram influencers like this in Indonesia for you to collaborate.
+hits: 28
+text_top: See the top-rated Instagram profiles on inBeat.
+text_bottom: Our platform holds 28 Instagram influencers like this in Indonesia for you to contact.
 profiles:
   - username: "anne.tattoo"
     fullname: >-
@@ -55,18 +55,6 @@ profiles:
     id: ckf5u9emhk1x40j23qyxpfwh5
     verified: false
     hashtags: "#bubulsadi, #layangan, #bali, #hiduphappymatidibali"
-  - username: "isnardbarbosa"
-    fullname: >-
-      ISNARD BARBOSA
-    bio: >-
-      . .tattoo artist &digital artist Working in Ireland-Dublin And One day, I hope to become a grown up. Backup*isnardbarbosas . legendarytattoostudio
-    location: "Indonesia"
-    followers: 353532
-    engagement: 291
-    commentsToLikes: 0.059158
-    id: ckaox6z5cc23k0i78211j94eu
-    verified: false
-    hashtags: "#radiantcolorsink, #dermalizepro, #dublintattoo, #neotradeu"
   - username: "madeardhaneraka"
     fullname: >-
       madeardha
@@ -79,6 +67,18 @@ profiles:
     id: ckf5uzhnhmug10j235omefnzg
     verified: false
     hashtags: "#singademaksudsok, #malesuyut, #suarakeadilan, #musicvideo"
+  - username: "angga.tetsuya"
+    fullname: >-
+      Angga Tetsuya Wibisana | 鉄也 | Rome 8:28
+    bio: >-
+      MUSIC | ART | DESIGN | SKATEBOARDING | #enemaink tattoo | #killingMEMEinside
+    location: "Indonesia"
+    followers: 41780
+    engagement: 110
+    commentsToLikes: 0.023989
+    id: ck0vvvftdqxyi0i19vx3z9kpl
+    verified: false
+    hashtags: "#gorufootwear, #digitalart, #musician, #tetsuya"
   - username: "biosipc"
     fullname: >-
       𝐑𝐈𝐂𝐀𝐑𝐃𝐎 𝐁𝐈𝐎𝐒
@@ -95,14 +95,14 @@ profiles:
     fullname: >-
       Hendric Shinigami
     bio: >-
-      @wijasoju Consultation & Reservation : @hendricshinigamibali @hendricshinigamijakarta 🔴 My Official Video Channel
+      Consultation & Reservation: @hendricshinigamibali @hendricshinigamijakarta BA @wijasoju Business Inquiries / Promotes 📩 🔴 Official Video Channel
     location: "Indonesia"
-    followers: 286695
-    engagement: 147
-    commentsToLikes: 0.011289
+    followers: 310213
+    engagement: 145
+    commentsToLikes: 0.007737
     id: ckap4ioyx7jv00i787fc6a2tg
     verified: true
-    hashtags: "#tattooed, #hendricshinigami, #eternalink, #prophetsandpoets"
+    hashtags: "#inkjunkeyz, #tattooistartmagazine, #evolvedmag, #tattoolifemagazine"
   - username: "sakyant_arjarn_fluke"
     fullname: >-
       I'm Arjarn Fluke
@@ -115,16 +115,16 @@ profiles:
     id: ck8t8ybalmab80j789eclywmc
     verified: false
     hashtags: ""
-  - username: "sham_shal_photography"
+  - username: "bali_kreatif"
     fullname: >-
-      SHAMIL
+      BALI KREATIF
     bio: >-
-      PHOTOGRAPHER I EDITOR KERALIYAN MALAPPURAM Fam😍:@teamshutterlust THRIKKANNAN📷
+      Follow&Tag : @bali_kreatif Hastag : #balikreatif #bali_kreatif IKLAN? / Free Media Partner DM Since 2017
     location: "Indonesia"
-    followers: 6146
-    engagement: 2136
-    commentsToLikes: 0.037218
-    id: ck9wew96pm4a10j78cr0n6f4f
+    followers: 55480
+    engagement: 64
+    commentsToLikes: 0.005994
+    id: ck14i0vkpd3vd0i19rzsc3ne9
     verified: false
-    hashtags: "#pubg, #sky, #keralatourism, #moodygrams"
+    hashtags: "#bali, #taksualit, #arttaksu, #sketch"
 ---

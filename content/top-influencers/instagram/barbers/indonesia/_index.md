@@ -1,24 +1,108 @@
 ---
-title: Top 10 Barbers Instagram Influencers In Indonesia In 2023
+title: Top 10 Barbers Instagram Influencers In Indonesia In 2024
 description: >-
-  Find top barbers Instagram influencers in Indonesia in 2023. Most popular hashtags: #love #keepitcutthroat #ptnitratuahndkaro.
+  Find top barbers Instagram influencers in Indonesia in 2024. Most popular hashtags: #barberlife #barbershopconnect #babershop.
 platform: Instagram
-hits: 85
-text_top: Analyze the top-rated Instagram profiles on inBeat.
-text_bottom: Our database has 85 Instagram influencers like this in Indonesia for you to pitch.
+hits: 92
+text_top: See the top-rated Instagram profiles on inBeat.
+text_bottom: Our platform aggregates 92 Instagram influencers like this in Indonesia for you to pitch.
 profiles:
+  - username: "beckham_put7"
+    fullname: >-
+      Beckham Putra
+    bio: >-
+      @statuspro_id Professional Football Player | @persib 🔵 | Owner of @7.11_barbershop part of team @ortuseight #ToInfinityAndBeyond
+    location: "Indonesia"
+    followers: 1039901
+    engagement: 725
+    commentsToLikes: 0.023837
+    id: ck8tbttugx4660j78aqy1m7xn
+    verified: false
+    hashtags: "#mygiveltalistory, #teamortuseight, #giveltall, #giveitall"
   - username: "tatangwibowo_"
     fullname: >-
-      ᴛᴀᴛᴀɴɢ ᴡɪʙᴏᴡᴏ
+      Tatang Wibowo
     bio: >-
-      🇮🇩 • Jakarta - Medan • Part of @sclatercut • 1st Barber Battle Indonesia 2019
+      🇲🇨 • @hairbeyonded @medanbarberacademy • 1st Barber Battle Bellagio 2018🏆 • 1st Barber Battle Indonesia 2019🏆
     location: "Indonesia"
-    followers: 14139
-    engagement: 641
-    commentsToLikes: 0.019601
+    followers: 21312
+    engagement: 320
+    commentsToLikes: 0.023218
     id: ck5zxvmq08qwh0i14dote6cj8
     verified: false
-    hashtags: "#spartan, #falsenine"
+    hashtags: "#ciptakanpeluangwujudkanharapan, #pebisnismuda, #bisnissukses, #barbersumut"
+  - username: "doyokjarot"
+    fullname: >-
+      𝗦𝘂𝗽𝗲𝗿𝗗𝗝_𝗺𝗸𝘀
+    bio: >-
+      🎬 #tarungsarung BA : @bosowasemen @suracoyamahaofficial @glowdermhouseofbeauty @finleys_barbershop
+    location: "Indonesia"
+    followers: 54650
+    engagement: 306
+    commentsToLikes: 0.018078
+    id: ck6ud4s2qj51s0j71ost30n3r
+    verified: false
+    hashtags: "#dagelanvideo, #minangkocak, #yamaha, #gambarlucu"
+  - username: "habibrmadhan"
+    fullname: >-
+      hamba allah
+    bio: >-
+      BA: @rab_barbershopbkn 📩Iklan/PP/endors 082385816237 Youtube Klik link 👇
+    location: "Indonesia"
+    followers: 74088
+    engagement: 193
+    commentsToLikes: 0.009953
+    id: ck9whz50c03we0j78eejbmy4d
+    verified: false
+    hashtags: "#savepakangpekanbaru, #minanglipp, #doasuamiistri"
+  - username: "mchell.adriaansz"
+    fullname: >-
+      𝙼𝚌𝚑𝚎𝚕𝚕.𝙰𝚍𝚛𝚒𝚊𝚊𝚗𝚜𝚣
+    bio: >-
+      ♥️ : husband and father ♠️: Man behind the chair @seecut_hairstylizh & @seecuthairstylizh_jkt ♦️: barber life ♣️: love your self . -NOWHERE BOREDOM-
+    location: "Indonesia"
+    followers: 19835
+    engagement: 275
+    commentsToLikes: 0.025223
+    id: ck5hen0fvtrez0i11c3toxvff
+    verified: false
+    hashtags: "#grooming, #fadehaircut, #barbershopjakarta, #infojakarta"
+  - username: "cindy_marenta"
+    fullname: >-
+      Cindy Marenta Real II
+    bio: >-
+      📍 Sidoarjo (Indonesia) @storeku_parfum @cne_barbershop @cne_coffe @panorama_residence_
+    location: "Indonesia"
+    followers: 134988
+    engagement: 63
+    commentsToLikes: 0.021441
+    id: ck5pzgnfm0w3t0i110o67jhb5
+    verified: false
+    hashtags: "#psi"
+  - username: "hairnerdsstudio"
+    fullname: >-
+      Hairnerds Studio
+    bio: >-
+      Barbershop & Hair Salon 📍Kby Baru 📍PIK 📍BDG 📍G.Serpong (Monday-Sunday) 10.00-21.00 (Friday) 13.00-21.00 Collab@hairnerds.id 👇🏻APPOINTMENT👇🏻
+    location: "Indonesia"
+    followers: 295607
+    engagement: 108
+    commentsToLikes: 0.013113
+    id: ck5bwy8w1mnci0i110flon2jx
+    verified: false
+    hashtags: "#haircut, #explorepage, #haircolor, #fyp"
+  - username: "sosmedmakassar"
+    fullname: >-
+      Sosmed Makassar
+    bio: >-
+      🤝 - @irsaf_computer | @finleys_barbershop | @glowdermhouseofbeauty 🫂 - Part of GASS x AMSINDO ☎️ - More info? Whatsapp (NO CALL)👇👇👇
+    location: "Indonesia"
+    followers: 223463
+    engagement: 26
+    commentsToLikes: 0.025254
+    id: ck5q2dj3afh030i1191gd19l4
+    verified: false
+    hashtags: "#bengkelacmobil, #pawai, #urbanrepublic, #polri"
   - username: "planecm"
     fullname: >-
       Claudio Martella
@@ -43,88 +127,4 @@ profiles:
     id: ckf5v81ncnm3a0j23yf1wub2w
     verified: false
     hashtags: ""
-  - username: "mensministry.barbershop"
-    fullname: >-
-      HAIRSTYLIST & HAIRCUT EXPERT
-    bio: >-
-      MEN’S MINISTRY BARBERSHOP 🇲🇾 Based in Seremban, Negeri Sembilan 🏢 Located in UTC, Seremban 📆 Book your appoinment :
-    location: "Indonesia"
-    followers: 29569
-    engagement: 14
-    commentsToLikes: 0.006224
-    id: ck14hc7459l3h0i19asr6mo8m
-    verified: false
-    hashtags: "#stayathome, #kitajagakita, #mensministrybarbershopacademy, #menterigunting"
-  - username: "willgoh_"
-    fullname: >-
-      Willgoh
-    bio: >-
-      Eat beans not beings 🌱 @VEGANSQUAD.MEDAN @VEGANDRIVETHRU @AMIGO.BARBER @BANG.COFFEE My travel vlog here 👇
-    location: "Indonesia"
-    followers: 18617
-    engagement: 131
-    commentsToLikes: 0.086267
-    id: ck6ud2oepis230j71u0zu41fy
-    verified: false
-    hashtags: "#style, #govegan, #fashiongram, #vegan"
-  - username: "ramadan_ivo"
-    fullname: >-
-      Ramadhan Ivo sinaga #85
-    bio: >-
-      Papa alvino Barber 👉 @ajitbarbershop_official Cuci sepatu Medan & Binjai 👉@cantik_shoescare 🌏~Medan indonesia 🏁 85 Youtube 👇
-    location: "Indonesia"
-    followers: 29844
-    engagement: 603
-    commentsToLikes: 0.007012
-    id: ck6u2iaqlrzqf0j71zgas8l34
-    verified: false
-    hashtags: "#ptnitratuahndkaro, #sport855, #putrajayahasilsawitkaret, #kompashoki"
-  - username: "cindy_marenta"
-    fullname: >-
-      Cindy Marenta Real
-    bio: >-
-      Traveling & mbadok 🏦business :@cne_barbershop ,@panoramaresidencesidoarjo ,@cne_gold
-    location: "Indonesia"
-    followers: 122791
-    engagement: 196
-    commentsToLikes: 0.030966
-    id: ck5pzgnfm0w3t0i110o67jhb5
-    verified: false
-    hashtags: "#gongxifacai"
-  - username: "sriastutti"
-    fullname: >-
-      TUTUY
-    bio: >-
-      💍Bharata's Wife 💈Founder of @olskool_barber13 🔗Brand Ambassador of @barbersupply_indo 📱 PP / Endorse (Aulia) : +62 812-8072-7334
-    location: "Indonesia"
-    followers: 179539
-    engagement: 204
-    commentsToLikes: 0.008608
-    id: ck138ezncfwz70i19eg3lfhyu
-    verified: false
-    hashtags: "#contaxt2, #reebokxcardib, #reebokindonesia"
-  - username: "fadelaustyn"
-    fullname: >-
-      A U S T Y N
-    bio: >-
-      Founder @thisis.vibez @vibezstore.id @delicatesociety_ @tropicalvibez.id 🤝 @gallery.phone @taichanunclekatsu @megahmie @barbershox 💍@wayanindahhh
-    location: "Indonesia"
-    followers: 38699
-    engagement: 554
-    commentsToLikes: 0.007929
-    id: ck5zis9y5ga5d0i14c7sp0p1n
-    verified: false
-    hashtags: "#ngegrabfood, #tropicalvibez, #divespot, #delicatexvibez"
-  - username: "chefnaem"
-    fullname: >-
-      Naem Ramli
-    bio: >-
-      JUARA HEROOVEN 2016 🏆 TV host | Chef | Foodie naemlee@yahoo.com / DM Owner @ngamcafe Ambassador for : 💇🏼 @barbersturf.gbk 👟 @gosyokshoespa
-    location: "Indonesia"
-    followers: 33596
-    engagement: 136
-    commentsToLikes: 0.048004
-    id: ck9wdu1dhh9fr0j78jhcbexe4
-    verified: false
-    hashtags: "#blessed, #foody, #food, #foodporn"
 ---

@@ -1,24 +1,24 @@
 ---
-title: Top 10 Illustrators Instagram Influencers In South Africa In 2023
+title: Top 10 Illustrators Instagram Influencers In South Africa In 2024
 description: >-
-  Find top illustrators Instagram influencers in South Africa in 2023. Most popular hashtags: #illustration #illustrator #design #music.
+  Find top illustrators Instagram influencers in South Africa in 2024. Most popular hashtags: #illustration #illustrator #art #design.
 platform: Instagram
-hits: 8
-text_top: Identify the most popular Instagram accounts on inBeat.
-text_bottom: Our search engine aggregates 8 Instagram influencers like this in South Africa for you to collaborate.
+hits: 9
+text_top: Identify the best Instagram accounts on inBeat.
+text_bottom: Our database aggregates 9 Instagram influencers like this in South Africa for you to contact.
 profiles:
-  - username: "court_blogger99"
+  - username: "yay_abe"
     fullname: >-
-      C O U R T N E Y
+      YAY ABE • ILLUSTRATION
     bio: >-
-      Fashion and Beauty 🤍 South African living in the UK.🇿🇦🇬🇧✝️ Computer Programmer and Illustrator. Creative outlet @papaya_paradise00 My only account.
+      ⭐️ Illustrator & Artist making beautiful things in Cape Town. ⭐️ 5/5 avocados, would recommend. ⭐️ Out of SA Representation - @thedifferentfolk
     location: "South Africa"
-    followers: 26244
-    engagement: 962
-    commentsToLikes: 0.040928
-    id: ckaowkp5s9cld0i78xxrcu537
+    followers: 35470
+    engagement: 480
+    commentsToLikes: 0.036330
+    id: ck6u2e0shr9xe0j71halyje4b
     verified: false
-    hashtags: "#beautymakeup, #fashionbloggers, #beautyphotography, #womenentrepreneurs"
+    hashtags: "#bicxyayabe, #illustration, #illustrationdaily, #doodle"
   - username: "karabo_poppy"
     fullname: >-
       Karabo Poppy Moletsane
@@ -55,18 +55,6 @@ profiles:
     id: ck8svw1i4cwto0j785pmqao89
     verified: false
     hashtags: "#shaunoakley, #design, #mural, #durban"
-  - username: "franlabuschagne"
-    fullname: >-
-      FRAN LABUSCHAGNE
-    bio: >-
-      South African Illustrator & Animator. Represented worldwide by @mp_illustration . Founder of @_fijnbosch_
-    location: "South Africa"
-    followers: 8757
-    engagement: 571
-    commentsToLikes: 0.012966
-    id: ck0vvsj6zqkfl0i19n2jqozv6
-    verified: false
-    hashtags: "#designspiration, #characterillustration, #gfxmob, #animation"
   - username: "ishimwemanoa"
     fullname: >-
       Ishimwe Manoa🔆 🇨🇩
@@ -103,4 +91,28 @@ profiles:
     id: ck5zrlyg3wtqw0i14h1cnk7tw
     verified: false
     hashtags: "#flowertattoo, #illustration, #tattooideas, #dsrupttt"
+  - username: "tasneemxpatel"
+    fullname: >-
+      Tesnem Patel
+    bio: >-
+      ™️ Behind Kitchen Doors 👩🏻‍🍳 A Glimpse Into My Kitchen, Life & Style 📍South Africa
+    location: "South Africa"
+    followers: 101882
+    engagement: 238
+    commentsToLikes: 0.022795
+    id: ck5pw4081kzke0i11doydbmsd
+    verified: false
+    hashtags: "#recipe, #chicken, #tasneemxpatel, #easyrecipes"
+  - username: "rochewoodworthillustration"
+    fullname: >-
+      roché woodworth ~ freelance illustrator
+    bio: >-
+      🇿🇦south african based in portugal🇵🇹 wife👩‍❤️‍💋‍👨 & mom of 3 boys👦🏼🧒🏼👶🏼✨ ↘️tutorials, youtube, brushes, printables↙️
+    location: "South Africa"
+    followers: 138065
+    engagement: 203
+    commentsToLikes: 0.015749
+    id: cl0hjtg51iiv50i238i16ohd7
+    verified: false
+    hashtags: "#illustrationprocess, #digitaldrawing, #portraitdrawing, #surfacepro8"
 ---

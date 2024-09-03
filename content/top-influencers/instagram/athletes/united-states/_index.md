@@ -1,12 +1,24 @@
 ---
-title: Top 10 Athletes Instagram Influencers In United States In 2023
+title: Top 10 Athletes Instagram Influencers In United States In 2024
 description: >-
-  Find top athletes Instagram influencers in United States in 2023. Most popular hashtags: #fitness #gym #bodybuilding.
+  Find top athletes Instagram influencers in United States in 2024. Most popular hashtags: #fitness #gym #workout.
 platform: Instagram
-hits: 4214
-text_top: Discover the most popular Instagram accounts on inBeat.
-text_bottom: Our platform holds 4214 Instagram influencers like this in United States for you to contact.
+hits: 4373
+text_top: See the top-rated Instagram influencers on inBeat.
+text_bottom: Our database has 4373 Instagram influencers like this in United States for you to collaborate.
 profiles:
+  - username: "royalnavghan"
+    fullname: >-
+      Ravindrasinh jadeja
+    bio: >-
+      Athlete
+    location: "United States"
+    followers: 9441454
+    engagement: 889
+    commentsToLikes: 0.003369
+    id: ck0u9cji09mc30i19vqawvfjl
+    verified: true
+    hashtags: "#ad, #yehsabkadreamhai, #collab, #dream11"
   - username: "kuhubhosle"
     fullname: >-
       Kuhu Bhosle
@@ -31,18 +43,6 @@ profiles:
     id: ck5bvb2sbjbbg0i11lw6hqka1
     verified: true
     hashtags: "#halloffame, #franklinfamily, #onlyone, #world"
-  - username: "kedarjadhavofficial"
-    fullname: >-
-      Kedar Mahadev Jadhav
-    bio: >-
-      Athlete
-    location: "United States"
-    followers: 1517756
-    engagement: 627
-    commentsToLikes: 0.005191
-    id: ckf5tu0psirrz0j23ffljsbbh
-    verified: true
-    hashtags: "#positivevibes, #srh, #wakefit, #biobubble"
   - username: "viharigh"
     fullname: >-
       Hanuma vihari
@@ -90,41 +90,41 @@ profiles:
     commentsToLikes: 0.012208
     id: ck5q33lorj2160i11tlfrq9s1
     verified: false
-    hashtags: "#fitnessmotivation, #fitness, #bulkingseason, #fitfam"
-  - username: "alex_eubank15"
+    hashtags: "#legdayworkout, #bodybuilding, #fitgirls, #bulkingseason"
+  - username: "fitness.by.nikki"
     fullname: >-
-      Alex Eubank
+      N I K K I  R A Y
     bio: >-
-      🔱 Jesus 🙏 🔱 @rawgear | @alpha.lion Code Alex 🔱 @celsiusofficial Athlete 🔱 @fusionnutra @elysium.athletic 🔱 Youtube / App / Merch ⬇️
+      ⭐️ CPT & Nutrition Coach 🥇 NPC Figure & Bikini NQ | Sponsored Athlete ⚡️ @cellucor @c4energy NIKKI 👙 @angelcompetitionbikinis NIKKI 👭 Mom 📚 Attorney
     location: "United States"
-    followers: 1687055
-    engagement: 1143
-    commentsToLikes: 0.003245
-    id: cknh9ia36t0n00j23tp7k6w1b
+    followers: 22168
+    engagement: 603
+    commentsToLikes: 0.035846
+    id: ck8t4t1j67vk00j78nzc491rw
     verified: false
-    hashtags: "#arnold, #gym, #motivating, #couplegoals"
-  - username: "jesssims"
+    hashtags: "#noexcuses, #neverskiplegday"
+  - username: "kateglavan"
     fullname: >-
-      JESS SIMS
+      kate glavan
     bio: >-
-      @onepeloton 🏋🏽‍♀️🚴🏽‍♀️🏃🏽‍♀️ @jumpman23 athlete @collegegameday @espn @nyliberty you don’t HAVE to. you GET to. 📧 teamsims@excelsm.com
+      HOKA Global Athlete Ambassador @hoka 🏃‍♀️ @seamossgirlies 🦠 katherine.glavan@gmail.com 💓
     location: "United States"
-    followers: 467162
-    engagement: 479
-    commentsToLikes: 0.020603
-    id: cl7kdxk7wv88d0i23i2mhr2lx
+    followers: 37770
+    engagement: 402
+    commentsToLikes: 0.011146
+    id: ck5zign85fo0i0i14kffp3jfs
     verified: false
-    hashtags: "#saturday60, #peloton, #linkinbio, #startedfromdaytonohionowwehere"
-  - username: "6ourt"
+    hashtags: "#hokapartner, #ag1partner, #running, #stories"
+  - username: "elenachristine_s"
     fullname: >-
-      Courtney
+      elena stavinoha
     bio: >-
-      sweating… @gymshark athlete @ehplabs code: 6ourt10 tiktok @6ourt2.0
+      in Christ alone | htx -> miami 🇵🇪🇲🇽🇨🇿 @gymshark athlete code ELENA @movewithus 📧: elenachristine@dulcedo.com
     location: "United States"
-    followers: 104992
-    engagement: 1274
-    commentsToLikes: 0.010903
-    id: cl7exgtg0qy0u0i2364nsa6lv
+    followers: 484928
+    engagement: 616
+    commentsToLikes: 0.003986
+    id: ck8wfql25g3wg0j78kidwroq5
     verified: false
-    hashtags: "#inpaidpartnership, #gymshark, #gymsharkwomen, #lgstanbyme"
+    hashtags: "#mcobeauty, #mcobeautypartner, #ad, #bloompartners"
 ---

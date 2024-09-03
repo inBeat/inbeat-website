@@ -1,11 +1,11 @@
 ---
-title: Top 10 Barbers TikTok Influencers In Germany In 2023
+title: Top 10 Barbers TikTok Influencers In Germany In 2024
 description: >-
-  Find top barbers TikTok influencers in Germany in 2023. Most popular hashtags: #barber #fyp #viral #tiktok.
+  Find top barbers TikTok influencers in Germany in 2024. Most popular hashtags: #barber #fyp #viral #tiktok.
 platform: TikTok
 hits: 22
-text_top: Identify the best TikTok influencers on inBeat.
-text_bottom: Our database holds 22 TikTok influencers like this in Germany for you to work with.
+text_top: See the best TikTok accounts on inBeat.
+text_bottom: Our platform aggregates 22 TikTok influencers like this in Germany for you to work with.
 profiles:
   - username: "alithebarber__"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.017011
     id: cka0igb6ydl690i781ckeuvaj
     verified: false
-    hashtags: "#coronavirus, #bleibtstark, #barbershop, #barberstyle"
+    hashtags: "#barbershop, #coronavirus, #bleibtstark, #barberlife"
   - username: "yusufdelalbarber"
     fullname: >-
       YusufDelal

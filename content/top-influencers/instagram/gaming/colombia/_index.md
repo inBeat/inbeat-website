@@ -1,130 +1,118 @@
 ---
-title: Top 10 Gaming Instagram Influencers In Colombia in 2023
+title: Top 10 Gaming Instagram Influencers In Colombia In 2024
 description: >-
-  Find top gaming Instagram influencers in Colombia in 2023. Most popular hashtags: #gaming #gamer #playstation #gamergirl.
+  Find top gaming Instagram influencers in Colombia in 2024. Most popular hashtags: #colombia #gamer #gaming #streamer.
 platform: Instagram
-hits: 11
-text_top: Discover the top-rated Instagram influencers on inBeat.
-text_bottom: inBeat has 11 Instagram influencers like this in Colombia for you to connect with.
+hits: 9
+text_top: Discover the top-rated Instagram profiles on inBeat.
+text_bottom: Our platform aggregates 9 Instagram influencers like this in Colombia for you to pitch.
 profiles:
-  - username: "jbala55"
+  - username: "paudazzle"
     fullname: >-
-      Juan Balaguera
+      Paula Daza (PauDazzle)
     bio: >-
-      Facebook Gaming. (Soy tiktoker hasta comprarme un nuevo pc) Me hace muy feliz que te pases por aquí, eres una delicia de persona. 💙
+      Hablo de Gaming/Esports🎮 Geek/Tech 💻 Moda/Viajes👾 y de todo 🪄 Mgmt: @lageekweb👾 Ambass: @speedlogiccomputadores @betplayco @samsungcolombia
     location: "Colombia"
-    followers: 3905
-    engagement: 598
-    commentsToLikes: 0.046806
-    id: ck5ch3sd7q23b0i11pwveoqqn
+    followers: 54534
+    engagement: 58
+    commentsToLikes: 0.038277
+    id: ck8t93d4smtm30j785mznfiht
     verified: false
-    hashtags: "#piano, #picoftheday, #love, #dosquebradas"
+    hashtags: "#mujeres, #chicagamer, #paudazzle, #bogota"
   - username: "trustgaminglatam"
     fullname: >-
       Trust Gaming Latin America
     bio: >-
       Cuenta oficial de Trust Gaming Latinoamérica El equipo adecuado para cualquier jugador con cualquier presupuesto. Link para comprar ↓↓↓
     location: "Colombia"
-    followers: 96300
-    engagement: 403
-    commentsToLikes: 0.070155
+    followers: 98117
+    engagement: 140
+    commentsToLikes: 0.036233
     id: ck5c48f5u0tcs0i11501oub35
     verified: false
-    hashtags: "#buildingchampions, #insidertip, #trustgaming, #momentotrust"
-  - username: "paudazzle"
-    fullname: >-
-      🇵 🇦 🇺 🇩 🇦 🇿 🇿 🇱 🇪
-    bio: >-
-      👩🏼‍💻ʟɪғᴇsᴛʏʟᴇ/ᴛᴇᴄʜ & ᴠɪᴅᴇᴏɢᴀᴍᴇs 🎮 ɢᴀᴍᴇʀ ᴘʀᴏғᴇsɪᴏɴᴀʟ 👾 ʜᴏsᴛ ᴇɴ @lageekweb 🎙️sᴛʀᴇᴀᴍᴇʀ FB.GG/PauDazzle 🚀sᴘᴏɴsᴏʀ: @speedlogiccomputadores 💚ᴘᴜʙʟɪᴄɪᴅᴀᴅ/ᴅᴍ
-    location: "Colombia"
-    followers: 53857
-    engagement: 114
-    commentsToLikes: 0.094028
-    id: ck8t93d4smtm30j785mznfiht
-    verified: false
-    hashtags: "#paudazzle, #cartagena, #photo, #fitness"
-  - username: "mariielelarge"
-    fullname: >-
-      MariiaLalarga
-    bio: >-
-      °Is dangerous to stalk alone take this 🍿 🎮Retro Nintendo Gamer ☆ 90's Waifu ☆ 🌸Cosplayer plana. 🧡: @andrewbernalph 🍹Tsundere FlairBartender
-    location: "Colombia"
-    followers: 4489
-    engagement: 1388
-    commentsToLikes: 0.030889
-    id: ckaoy7if6gbpn0i78gi3ucahl
-    verified: false
-    hashtags: "#dragonballz, #zelda, #kawaii, #retro"
-  - username: "laabuelagamer"
-    fullname: >-
-      Abuela Gamer <- SÍGUEME
-    bio: >-
-      De todo un poco para hacerte reír 😎👌 📩Promociones al correo
-    location: "Colombia"
-    followers: 49999
-    engagement: 1745
-    commentsToLikes: 0.014927
-    id: ckaowcc6h8awm0i78s4xnmjod
-    verified: false
-    hashtags: "#twitch, #victory, #pc, #duos"
-  - username: "gamer_de_nacimiento"
-    fullname: >-
-      Gamer de nacimiento
-    bio: >-
-      🎮 Bienvenido Gamer 🎮 🇨🇴🇵🇦🇨🇱🇦🇷🇪🇸🇺🇸🇧🇷🇪🇨🇩🇴🇨🇺🇵🇪🇻🇪🇲🇽🇳🇮🇺🇾🇵🇾🇧🇴 Para publicidad mandar mensaje. ==> Siguenos: @darkblazzerd @theslayerzerk
-    location: "Colombia"
-    followers: 128338
-    engagement: 435
-    commentsToLikes: 0.011656
-    id: ck15pnipqyqun0i197icbstga
-    verified: false
-    hashtags: "#ps4, #memesdegamer, #xbox, #game"
+    hashtags: "#playyourgame, #felizsanvalentin, #ps5, #trustgaming"
   - username: "tati.barrera"
     fullname: >-
-      TATI BARRERA 🎮💜🦝
+      𝑻𝒂𝒕𝒊 𝑩𝒂𝒓𝒓𝒆𝒓𝒂  🎮💜🦝
     bio: >-
-      𝔾𝕒𝕞𝕖𝕣 𝔸𝕡𝕒𝕤𝕚𝕠𝕟𝕒𝕕𝕒🎮 IᑎᖴᒪᑌEᑎᑕEᖇ🚨 𝗔𝗺𝗮𝗻𝘁𝗲 𝗱𝗲 𝗹𝗮𝘀 𝘀𝗼𝗻𝗿𝗶𝘀𝗮𝘀 𝗮𝗷𝗲𝗻𝗮𝘀♡ 𝑺𝒕𝒓𝒆𝒂𝒎𝒆𝒓 🎧💻
+      𝔾𝕒𝕞𝕖𝕣 𝔸𝕡𝕒𝕤𝕚𝕠𝕟𝕒𝕕𝕒🎮 𝕃𝕒 𝕞𝕒𝕡𝕒𝕔𝕙𝕖 🦝 𝐌𝐞𝐣𝐨𝐫 𝐒𝐭𝐫𝐞𝐚𝐦𝐞𝐫 𝟐𝟎𝟐𝟐 🎧 🏆 𝗧𝗶𝗸𝘁𝗼𝗸 𝟳𝟬𝗸✨🔝 IᑎᖴᒪᑌEᑎᑕEᖇ🚨 𝑪𝒐𝒔𝒑𝒍𝒂𝒚𝒆𝒓 🧝🏻‍♀️ 𝗔𝗺𝗮𝗻𝘁𝗲 𝗱𝗲 𝗹𝗮𝘀 𝘀𝗼𝗻𝗿𝗶𝘀𝗮𝘀 𝗮𝗷𝗲𝗻𝗮𝘀♡ 𝗣𝘂𝗯𝗹𝗶𝗰𝗶𝗱𝗮𝗱 𝗮𝗹 𝗗𝗠 📩
     location: "Colombia"
-    followers: 6989
-    engagement: 907
-    commentsToLikes: 0.358571
+    followers: 19501
+    engagement: 1736
+    commentsToLikes: 0.045642
     id: ck9wdny3wgge00j78nkvz1ly6
     verified: false
-    hashtags: "#cosplaygirls, #gamergirls, #influencergamer, #streamergirl"
+    hashtags: "#playstation, #gaming, #playstation5, #gamer"
+  - username: "gamer_de_nacimiento"
+    fullname: >-
+      
+    bio: >-
+      ¿Cuál es el juego ideal para ti según tu signo del zodiaco? Descúbrelo aquí:
+    location: "Colombia"
+    followers: 198644
+    engagement: 287
+    commentsToLikes: 0.013312
+    id: ck15pnipqyqun0i197icbstga
+    verified: false
+    hashtags: "#gaming, #gamerdenacimiento, #gamer, #videojuegos"
+  - username: "bonnyvargas"
+    fullname: >-
+      🌺 Lady Valentina Vargas 🌺
+    bio: >-
+      🌺 Streamer WoW, LoL y Valorant 🌸 @logitechg 💌 bonnyvargasuwu@gmail.com
+    location: "Colombia"
+    followers: 16373
+    engagement: 824
+    commentsToLikes: 0.013120
+    id: ck8t936rnmsvu0j78mudqom9r
+    verified: false
+    hashtags: "#stream, #cute, #cosplay, #egirl"
+  - username: "chutyvk"
+    fullname: >-
+      Chuty
+    bio: >-
+      Contratación : Jhoneproducciones@gmail.com 🥤 @redbullesp 📺 @ubeat_tv 📍Madrid 🇪🇸
+    location: "Colombia"
+    followers: 1544127
+    engagement: 226
+    commentsToLikes: 0.009895
+    id: ck14ix6pehkfy0i194ap4rmfw
+    verified: true
+    hashtags: "#playstation, #redbullbatalla, #chuty, #ps5"
+  - username: "keffplay"
+    fullname: >-
+      Keff Guzman
+    bio: >-
+      • 🇨🇴 • Gamer/Streamer/YouTuber 🎮 • DJ💿 • Actor 🎭 • • Negocios: 📱WhatsApp (+57) 3152003646 ✉️ contacto.keffplay@gmail.com
+    location: "Colombia"
+    followers: 96092
+    engagement: 205
+    commentsToLikes: 0.016049
+    id: ck5cd457fii5o0i11vvwycnli
+    verified: false
+    hashtags: "#streamer, #ats, #gtaroleplay, #gamer"
   - username: "tornall"
     fullname: >-
       TORNALL 🇨🇴
     bio: >-
-      #Dj #RealDjing #Turntables Medellín - Colombia 🇨🇴🔝
+      @574studio / @4eskuela #Dj #RealDjing #Turntables Medellín - Colombia 🇨🇴🔝 Canal de Youtube ⬇️⬇️⬇️
     location: "Colombia"
-    followers: 38435
-    engagement: 842
-    commentsToLikes: 0.020439
+    followers: 38245
+    engagement: 777
+    commentsToLikes: 0.019639
     id: ck6ubuheybs9x0j713u43xdkg
     verified: false
-    hashtags: "#colombia, #latino, #technics, #tornall"
-  - username: "cieloemyli"
+    hashtags: "#music, #lifedj, #rap, #latino"
+  - username: "hablamedurito"
     fullname: >-
-      Cielo Emyli
+      EL OREJAS 👂🏼
     bio: >-
-      🌸Actriz 🌸Bailarina urbana 🌸Modelo 🌸#eradigital Mi canal de Youtube junto a @lil.brucelee
+      • @los_incompletos_ 🤪 Empresas interesadas 📲 +57 323 321 39 18
     location: "Colombia"
-    followers: 16485
-    engagement: 312
-    commentsToLikes: 0.051953
-    id: ck5hempy0tpnd0i111miiyufz
+    followers: 317244
+    engagement: 295
+    commentsToLikes: 0.008768
+    id: ck5pw1pukkodm0i11thsawljj
     verified: false
-    hashtags: "#entrepreneur, #cieloemyli, #actress, #medellin"
-  - username: "keffplay"
-    fullname: >-
-      Keff 🐺
-    bio: >-
-      • 🇨🇴 • Gamer 🎮 • DJ/Producer 💿 • Actor 🎭 • CONTACTO: Keffplay@gmail.com ✉️
-    location: "Colombia"
-    followers: 120090
-    engagement: 131
-    commentsToLikes: 0.267561
-    id: ck5cd457fii5o0i11vvwycnli
-    verified: false
-    hashtags: "#logifest, #setupgamer, #keffplay, #gamer"
+    hashtags: "#risas, #humor, #motos, #medellin"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Photographers TikTok Influencers In Belgium In 2023
+title: Top 10 Photographers TikTok Influencers In Belgium In 2024
 description: >-
-  Find top photographers TikTok influencers in Belgium in 2023. Most popular hashtags: #belgium #fyp #foryou #photography.
+  Find top photographers TikTok influencers in Belgium in 2024. Most popular hashtags: #belgium #fyp #foryou #photography.
 platform: TikTok
 hits: 8
-text_top: Identify the best TikTok influencers on inBeat.
-text_bottom: Our search engine has 8 TikTok influencers like this in Belgium for you to contact.
+text_top: Analyze the top-rated TikTok profiles on inBeat.
+text_bottom: Our search engine has 8 TikTok influencers like this in Belgium for you to work with.
 profiles:
   - username: "thib_sel"
     fullname: >-
@@ -54,7 +54,7 @@ profiles:
     commentsToLikes: 0.032687
     id: ck9fws2qm2t7y0j78lhpbjcy2
     verified: false
-    hashtags: "#photography, #fyp, #belgium, #belgique"
+    hashtags: "#belgium, #belgique, #fyp, #photography"
   - username: "richkidthickk"
     fullname: >-
       Rich kid thickk

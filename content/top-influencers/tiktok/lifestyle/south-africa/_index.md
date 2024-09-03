@@ -1,11 +1,11 @@
 ---
-title: Top 10 Lifestyle TikTok Influencers In South Africa In 2023
+title: Top 10 Lifestyle TikTok Influencers In South Africa In 2024
 description: >-
-  Find top lifestyle TikTok influencers in South Africa in 2023. Most popular hashtags: #foryoupage #fyp #foryou #tiktoksa.
+  Find top lifestyle TikTok influencers in South Africa in 2024. Most popular hashtags: #foryoupage #fyp #foryou #tiktoksa.
 platform: TikTok
 hits: 11
-text_top: Discover the top-rated TikTok accounts on inBeat.
-text_bottom: Our database holds 11 TikTok influencers like this in South Africa for you to connect with.
+text_top: Identify the top-rated TikTok influencers on inBeat.
+text_bottom: Our database aggregates 11 TikTok influencers like this in South Africa for you to work with.
 profiles:
   - username: "sandycorn_101"
     fullname: >-

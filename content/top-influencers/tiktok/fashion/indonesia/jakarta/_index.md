@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fashion TikTok Influencers In Jakarta In 2023
+title: Top 10 Fashion TikTok Influencers In Jakarta In 2024
 description: >-
-  Find top fashion TikTok influencers in Jakarta in 2023. Most popular hashtags: #fyp #foryoupage #fashion #foryou.
+  Find top fashion TikTok influencers in Jakarta in 2024. Most popular hashtags: #fyp #foryoupage #fashion #foryou.
 platform: TikTok
 hits: 6
-text_top: Discover the best TikTok profiles on inBeat.
-text_bottom: inBeat has 6 TikTok influencers like this in Jakarta, Indonesia for you to collaborate.
+text_top: See the top-rated TikTok influencers on inBeat.
+text_bottom: Our platform has 6 TikTok influencers like this in Jakarta, Indonesia for you to work with.
 profiles:
   - username: "rian.adrians"
     fullname: >-
@@ -102,7 +102,7 @@ profiles:
     commentsToLikes: 0.016690
     id: ckcusnenvk6ut0j23kg9zt8dp
     verified: true
-    hashtags: "#fashion, #fashiontransition, #outfitinspiration, #ventelashoes"
+    hashtags: "#ventelashoes, #outfitinspiration, #fashion, #fashiontransition"
   - username: "jejakbayuubay69"
     fullname: >-
       Jejakbayuubay 

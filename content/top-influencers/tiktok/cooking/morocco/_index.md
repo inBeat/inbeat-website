@@ -1,11 +1,11 @@
 ---
-title: Top 10 Cooking TikTok Influencers In Morocco In 2023
+title: Top 10 Cooking TikTok Influencers In Morocco In 2024
 description: >-
-  Find top cooking TikTok influencers in Morocco in 2023. Most popular hashtags: #foryou #cooking #fyp #tiktok.
+  Find top cooking TikTok influencers in Morocco in 2024. Most popular hashtags: #foryou #cooking #fyp #foryoupage.
 platform: TikTok
 hits: 11
-text_top: Identify the most popular TikTok accounts on inBeat.
-text_bottom: Our platform aggregates 11 TikTok influencers like this in Morocco for you to contact.
+text_top: Identify the top-rated TikTok accounts on inBeat.
+text_bottom: Our platform holds 11 TikTok influencers like this in Morocco for you to work with.
 profiles:
   - username: "yofte"
     fullname: >-

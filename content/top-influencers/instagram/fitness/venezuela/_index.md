@@ -1,12 +1,36 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Venezuela In 2023
+title: Top 10 Fitness Instagram Influencers In Venezuela In 2024
 description: >-
-  Find top fitness Instagram influencers in Venezuela in 2023. Most popular hashtags: #venezuela #healthylifestyle #beachlife.
+  Find top fitness Instagram influencers in Venezuela in 2024. Most popular hashtags: #venezuela #fitnessmotivation #fitness.
 platform: Instagram
 hits: 63
-text_top: Analyze the top-rated Instagram profiles on inBeat.
-text_bottom: inBeat aggregates 63 Instagram influencers like this in Venezuela for you to collaborate.
+text_top: Analyze the top-rated Instagram influencers on inBeat.
+text_bottom: Our search engine holds 63 Instagram influencers like this in Venezuela for you to contact.
 profiles:
+  - username: "victoriavalentinaf"
+    fullname: >-
+      Victoria Valentina Acosta Farias
+    bio: >-
+      @calypsoshopve | cuenta de respaldo @victoriavalentinafa Model - Gym Girl - Content Creator Lifestyle, Fashion, Beauty, Workouts & Fitness
+    location: "Venezuela"
+    followers: 524339
+    engagement: 234
+    commentsToLikes: 0.010737
+    id: ck0vw12u3rmlz0i191ajm5tmc
+    verified: false
+    hashtags: "#workout, #fitnessmotivation, #fitness, #gym"
+  - username: "arymachadofit"
+    fullname: >-
+      ARYFIT
+    bio: >-
+      venezolana | fitness Coach 🦋 me apasiona motivar 🌿 healthy lifestyle workout w me ↓
+    location: "Venezuela"
+    followers: 190936
+    engagement: 136
+    commentsToLikes: 0.016279
+    id: ck15s3gdcb11n0i19dg70fdvh
+    verified: false
+    hashtags: "#motivate, #teamaryfit, #teamdelasbellas, #conamor"
   - username: "solimarpalencia"
     fullname: >-
       solymar palencia
@@ -103,28 +127,4 @@ profiles:
     id: ck6031kbdkhe50i1406ppoi2n
     verified: false
     hashtags: "#energiaspositivas, #gatavani, #gata, #legsday"
-  - username: "lorenaulopez"
-    fullname: >-
-      🇲🇽 Lorena lopez
-    bio: >-
-      💍 @jeckcoach 💼 Empresaria 🍎Fitness lover 🥇 Miss bikini latina
-    location: "Venezuela"
-    followers: 23540
-    engagement: 223
-    commentsToLikes: 0.016012
-    id: ck5cg99uqodrw0i11m03dhjob
-    verified: false
-    hashtags: "#happy, #bikinigirl, #fitnesspo, #bikinishape"
-  - username: "moveyourash.fit"
-    fullname: >-
-      Ashly Prieto Healthy Lifestyle
-    bio: >-
-      🍏 ISSA Fitness nutrition 🏃🏼‍♀️ ISSA Personal Trainer 👩🏼‍💼 CEO @moveyourashstore 👩🏼‍🍳 Recetas 💪🏼 DM para colaboraciones 📧 Asesorías 🔽 Página Web
-    location: "Venezuela"
-    followers: 45808
-    engagement: 300
-    commentsToLikes: 0.031904
-    id: ck5cfpjwwnemm0i11bg26a6ow
-    verified: false
-    hashtags: "#recetamya, #consumoresponsable, #rutinamya"
 ---

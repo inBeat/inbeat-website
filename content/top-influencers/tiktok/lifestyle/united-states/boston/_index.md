@@ -1,11 +1,11 @@
 ---
-title: Top 10 Lifestyle TikTok Influencers In Boston In 2023
+title: Top 10 Lifestyle TikTok Influencers In Boston In 2024
 description: >-
-  Find top lifestyle TikTok influencers in Boston in 2023. Most popular hashtags: #fyp #lifestyle #boston #greenscreen.
+  Find top lifestyle TikTok influencers in Boston in 2024. Most popular hashtags: #fyp #lifestyle #boston #greenscreen.
 platform: TikTok
 hits: 10
-text_top: Identify the most popular TikTok profiles on inBeat.
-text_bottom: Our database holds 10 TikTok influencers like this in Boston, United States for you to work with.
+text_top: Identify the top-rated TikTok influencers on inBeat.
+text_bottom: Our search engine holds 10 TikTok influencers like this in Boston, United States for you to collaborate.
 profiles:
   - username: "itschelseamarrs"
     fullname: >-
@@ -18,19 +18,7 @@ profiles:
     commentsToLikes: 0.175316
     id: ck8saa27p16nt0j78monb9kq1
     verified: false
-    hashtags: "#bostonrestaurant, #stlucia, #fyp, #tiktokfood"
-  - username: "bicyclefilmfestival"
-    fullname: >-
-      Bicycle Film Festival
-    bio: >-
-      FREE virtual worldwide screening of the feature film EMPIRE BEGINS. Tickets ⬇️
-    location: "United States"
-    followers: 79800
-    engagement: 633
-    commentsToLikes: 0.038530
-    id: ck9k6pqfe1q040j78yfcivzxe
-    verified: false
-    hashtags: "#champion, #velo, #bicyclefilmfestival, #cycling"
+    hashtags: "#travelblogger, #tiktokfood, #bostonrestaurant, #boston"
   - username: "marvmore"
     fullname: >-
       Marv
@@ -90,7 +78,19 @@ profiles:
     commentsToLikes: 0.081508
     id: ckc859uyt4xkc0j23hzvzaz2p
     verified: false
-    hashtags: "#nyc, #bucketlist, #ny, #miami"
+    hashtags: "#nyc, #brooklyn, #ny, #manhattan"
+  - username: "bicyclefilmfestival"
+    fullname: >-
+      Bicycle Film Festival
+    bio: >-
+      FREE virtual worldwide screening of the feature film EMPIRE BEGINS. Tickets ⬇️
+    location: "United States"
+    followers: 79800
+    engagement: 633
+    commentsToLikes: 0.038530
+    id: ck9k6pqfe1q040j78yfcivzxe
+    verified: false
+    hashtags: "#bicycle, #fixedgear, #champion, #bicyclefilmfestival"
   - username: "freshprinceofjs"
     fullname: >-
       Prince

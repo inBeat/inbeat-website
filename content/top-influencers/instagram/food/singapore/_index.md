@@ -1,130 +1,130 @@
 ---
-title: Top 10 Food Instagram Influencers In Singapore In 2023
+title: Top 10 Food Instagram Influencers In Singapore In 2024
 description: >-
-  Find top food Instagram influencers in Singapore in 2023. Most popular hashtags: #sp #partipost #singapore.
+  Find top food Instagram influencers in Singapore in 2024. Most popular hashtags: #sp #sgfood #singapore #sgfoodie.
 platform: Instagram
-hits: 59
-text_top: Discover the most popular Instagram profiles on inBeat.
-text_bottom: Our database has 59 Instagram influencers like this in Singapore for you to work with.
+hits: 147
+text_top: See the most popular Instagram profiles on inBeat.
+text_bottom: Our search engine holds 147 Instagram influencers like this in Singapore for you to pitch.
 profiles:
-  - username: "lennardy"
+  - username: "christps"
     fullname: >-
-      Lennard Yeong
+      Christps
     bio: >-
-      Once an engineer, now on a journey to learn about food In-house chef at Miele Singapore
+      🇲🇾🇸🇬 Travelling|Wonderluster|Foodies|Cooking|Gym Foodies: @chrisfoodies #ctpslog #christps #chrisfoodies
     location: "Singapore"
-    followers: 171893
-    engagement: 327
-    commentsToLikes: 0.014721
-    id: ck6tm39k773pc0j71b2kzsii9
+    followers: 5228
+    engagement: 1115
+    commentsToLikes: 0.078763
+    id: ckaoz66itkjqb0i784spydjr4
     verified: false
-    hashtags: "#authenticteahouse, #recipeideas, #omelette, #easyrecipes"
-  - username: "thesmartlocalsg"
+    hashtags: "#instadaily, #lightroom, #shotoniphone11promax, #exploresg"
+  - username: "peroro_"
     fullname: >-
-      thesmartlocal.com
+      ⋆·˚ ༘ * Persie Y  ੈ✩‧₊˚
     bio: >-
-      Use our hashtags and you may be featured! #tslbojio- places to explore #tslfeatures- artistic shots #tslmakan- food Enquiries👇 hello@thesmartlocal.com
+      ♡ Lifestyle, Health,Motherhood,Food,Beauty,Fashion ҉ therealpersie@gmail.com ＊*✩˚ interior designer ✩ boy mum @bbbhung_ ☽ SG ˚｡⋆
     location: "Singapore"
-    followers: 188724
-    engagement: 62
-    commentsToLikes: 0.062449
-    id: ck5hivpmcfjql0i1129jlk73k
+    followers: 19155
+    engagement: 441
+    commentsToLikes: 0.072755
+    id: clm70aj3igdys0j08urosqknx
     verified: false
-    hashtags: "#singapore, #reelssg, #tslfeatures, #citylife"
-  - username: "lihuijapanlove"
+    hashtags: "#newborn, #thingstodo, #baby, #sp"
+  - username: "jessluvzs"
     fullname: >-
-      Lihui利慧| Singapore新加坡🇸🇬
+      𝒥𝑒𝓈𝓈𝒾𝒸𝒶 𝐿𝑒𝑒
     bio: >-
-      Food | Fashion | Beauty | Lifestyle 🏅Top 100 SG Lifestyle Blogger Founder of @creativeinfluencermedia 📩Collab/工作/代言: lihuijapanlove@gmail.com
+      SG Lifestyle | Food | Fashion | Travel ✈️🇹🇭🇹🇷🇨🇳 💜YouTrip Ambassador <JESSL5> 💗Bioderma Creator 💙#joashloon #jonasloon Skaterboys
     location: "Singapore"
-    followers: 41454
-    engagement: 208
-    commentsToLikes: 0.075530
-    id: ckaotr1v0x4230i78w5diw0tm
+    followers: 11350
+    engagement: 587
+    commentsToLikes: 0.229463
+    id: clm70ak0kgeu50j08pov34h6m
     verified: false
-    hashtags: "#kbeauty, #koreanbeauty, #atomekittens, #tmgmgroup"
-  - username: "zippyzipeng"
-    fullname: >-
-      李枳燊
-    bio: >-
-      +65/+60 🚹 In search of good food & exploring unique spaces Food acc : @zippyfoodtrail zipeng.lee@hotmail.com
-    location: "Singapore"
-    followers: 82376
-    engagement: 128
-    commentsToLikes: 0.059396
-    id: ck0twgrbefb200i197vu7r3eu
-    verified: false
-    hashtags: "#aesthetictones, #singaporeworld, #earthfocus, #singaporecafe"
-  - username: "jeaneboomz"
-    fullname: >-
-      Jeane Natalia ✨
-    bio: >-
-      🇮🇩 Chi-Indo | 📍 SG ❤️ Food, gaming, shopping and cats 🐈 📧: jeaneboomz@gmail.com
-    location: "Singapore"
-    followers: 8410
-    engagement: 650
-    commentsToLikes: 0.052102
-    id: ckap52x5s9yg70i78e835a5fr
-    verified: false
-    hashtags: "#contactlens, #1212, #2021, #simpleskincaresg"
-  - username: "awansauce"
-    fullname: >-
-      Alan Wan 溫家偉
-    bio: >-
-      Lifestyle | Food lover | Coffee enthusiast. ￼ 📍SG / HK Represented by @flyentertains
-    location: "Singapore"
-    followers: 81692
-    engagement: 255
-    commentsToLikes: 0.020902
-    id: ck5zveeg642tb0i14awwh1v4r
-    verified: true
-    hashtags: "#burgerlover, #mcgriddle, #airdancer, #ndp2021"
-  - username: "wheresjalex"
-    fullname: >-
-      Alex & Jasper
-    bio: >-
-      🥝 A couple of kiwis with a camera 📸 🍔 Did we tell you we like food? 📍 New Zealand 🇳🇿
-    location: "Singapore"
-    followers: 3480
-    engagement: 1172
-    commentsToLikes: 0.067551
-    id: ck0vxg9qryqux0i19qvos0xs5
-    verified: false
-    hashtags: "#backpackerstory, #visitegypt, #singapore, #amazingegypt"
-  - username: "lisarosetea"
-    fullname: >-
-      *Alyssa 🌸
-    bio: >-
-      Food is priority (🌶) Pianist 🎹🎶 Also @lisafantasies UK/SG/HK 🇬🇧🇸🇬🇭🇰 💌 myrainbowsymphony@gmail.com
-    location: "Singapore"
-    followers: 29605
-    engagement: 152
-    commentsToLikes: 0.110438
-    id: ck15uixu0neh30i1937zngwse
-    verified: false
-    hashtags: "#pringlespassportflavours, #haagendazsg, #togetherisbetter, #sayitwithaheart"
-  - username: "makanwarrior"
-    fullname: >-
-      
-    bio: >-
-      MAKANCNY @foodline.sg ($15 off ) GPQJA0F @pickupp.sg ($3 off)
-    location: "Singapore"
-    followers: 10705
-    engagement: 274
-    commentsToLikes: 0.127604
-    id: ckaoquebkkg3k0i78d1wce91n
-    verified: false
-    hashtags: "#instasg, #makanwarrior, #halalsg, #sgunited"
+    hashtags: "#whati8todaysg, #sgfood, #jessicaloon, #sglifestyle"
   - username: "jul1anler"
     fullname: >-
       𝙹𝚞𝚕𝚒𝚊𝚗 𝙻𝚎𝚛
     bio: >-
-      🇸🇬👦🏻5YO All things FAMILY, FOOD AND FUN! 🍽#FoodBlogger #whatlittlejulianeats ✈️#lerstravelogue 🇭🇰🇦🇺🇮🇩🇲🇾🇹🇼🇹🇭 📸 By Mommy @jilliemoler 💌DM for collabs
+      🇸🇬👦🏻8YO All things FAMILY, FOOD AND FUN! 👨‍👩‍👦🏡Building @ourhumblerabode 🍽#FoodBlogger #whatlittlejulianeats ✈️#lerstravelogue 🇭🇰🇦🇺🇮🇩🇲🇾🇹🇼🇹🇭
     location: "Singapore"
-    followers: 4403
-    engagement: 540
-    commentsToLikes: 0.378255
+    followers: 6111
+    engagement: 442
+    commentsToLikes: 0.125181
     id: ckaorpt7coaf10i7849j2ex4l
     verified: false
-    hashtags: "#whatlittlejulianeats, #sp, #partipost, #imperfectmoments"
+    hashtags: "#01, #partipost, #whatlittlejulianeats, #sp"
+  - username: "leslie.koh"
+    fullname: >-
+      Leslie Koh | Food & Travel
+    bio: >-
+      📍 Currently Singapore | Japan in May 🛫 Exploring Singapore, Japan & Beyond 🌏 🍜 Food Reviews | 🧳 Travel Guides 📩 DMs Open for Collabs | PR依頼はDMまで
+    location: "Singapore"
+    followers: 18001
+    engagement: 531
+    commentsToLikes: 0.235401
+    id: clmumxheblb5v0j08ktrkgdhg
+    verified: false
+    hashtags: "#kintoone, #carleasing, #foodieadventure, #japaneseseafood"
+  - username: "pegzohpegz"
+    fullname: >-
+      Peggy 🇸🇬 Content / UGC.sg Creator
+    bio: >-
+      ✨ Lifestyle | Parenting | Food | Beauty | Home 📍 Singapore
+    location: "Singapore"
+    followers: 9049
+    engagement: 554
+    commentsToLikes: 0.051523
+    id: clmumxih3lc3k0j0879lm2o6u
+    verified: false
+    hashtags: "#sgfaves, #sp, #partipost, #mazesoba"
+  - username: "foodtravelbabe"
+    fullname: >-
+      FOODTRAVELBABE by Eunice Lim
+    bio: >-
+      top restaurants + hotels + travel guides 🗺️ world traveler & food lover 🥂 savor & share my best experiences + tips 💌 hello@foodtravelbabe.com
+    location: "Singapore"
+    followers: 37691
+    engagement: 3031
+    commentsToLikes: 0.066994
+    id: cloxoi27d0fc30j08eq20abnn
+    verified: false
+    hashtags: "#jaanbykirkwestaway, #sp, #bali, #michelinguide"
+  - username: "chefbob.sg"
+    fullname: >-
+      Chef Bob
+    bio: >-
+      📍🇸🇬 Family|Faith|Fitness|Food Co-Founder: @9yards.cafe @krush.sg Manager: norlina.norbaidin@gmail.com @thelandmarksingapore @royalpalmocc
+    location: "Singapore"
+    followers: 81367
+    engagement: 4953
+    commentsToLikes: 0.038101
+    id: ck0w5dki634ak0i19n7edoqxr
+    verified: false
+    hashtags: "#jantankeberet, #genx, #geriatricmillennials, #jantanjoget"
+  - username: "hello.jklm"
+    fullname: >-
+      Karen Ng  SG Mom. Play. Cook.
+    bio: >-
+      Mom of 11Y 👧🏻 & 6Y 👧🏻 Parenting | Food | Lifestyle | Travel
+    location: "Singapore"
+    followers: 12169
+    engagement: 385
+    commentsToLikes: 0.039279
+    id: ckaoxf9rvd0gw0i78m54s1jqx
+    verified: false
+    hashtags: "#sgfoodtrend, #sgigfood, #sgfoodlover, #sp"
+  - username: "domesticassie"
+    fullname: >-
+      Cassie Lee
+    bio: >-
+      💁🏻‍♀️Your go-to girl for honest passionate food reviews🍝 fun dates 👫🏻and travels 🚀
+    location: "Singapore"
+    followers: 14684
+    engagement: 379
+    commentsToLikes: 0.342043
+    id: clmumxi08lbpi0j08ve4e9xr7
+    verified: false
+    hashtags: "#wheretoeatinsingapore, #sgfoodies, #wheretoeatinsg, #wheretoeatsg"
 ---

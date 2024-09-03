@@ -1,11 +1,11 @@
 ---
-title: Top 10 Dancers Instagram Influencers In Spain In 2023
+title: Top 10 Dancers Instagram Influencers In Spain In 2024
 description: >-
-  Find top dancers Instagram influencers in Spain in 2023. Most popular hashtags: #dancer #dance #picoftheday.
+  Find top dancers Instagram influencers in Spain in 2024. Most popular hashtags: #dancer #dancers #dance #bachata.
 platform: Instagram
-hits: 298
-text_top: Analyze the best Instagram influencers on inBeat.
-text_bottom: inBeat has 298 Instagram influencers like this in Spain for you to collaborate.
+hits: 297
+text_top: Identify the top-rated Instagram profiles on inBeat.
+text_bottom: Our database holds 297 Instagram influencers like this in Spain for you to contact.
 profiles:
   - username: "brjpalacios"
     fullname: >-
@@ -19,112 +19,112 @@ profiles:
     id: ckap015sxo97r0i78r1q16suf
     verified: false
     hashtags: "#operaciontriunfo, #ot2020, #brjpalacioschoreography, #physical"
-  - username: "sifercypher"
+  - username: "juulsperi"
     fullname: >-
-      SIFER
+      Júlia Pericas Anton
     bio: >-
-      • Popping Dancer | Dance Teacher | Music ❤️ • Calima Team | Men Of Steel👤 • Canarias | Madrid | Spain📍 @sifercypherformacion 📚
+      Dancer/ Teacher/Choreographer 🌍 Karol G🌸 @cleartalentgroup Spanish living in 🇺🇸
     location: "Spain"
-    followers: 4200
-    engagement: 2034
-    commentsToLikes: 0.139572
-    id: ck55l71fk0wq70i11s77bh8cx
+    followers: 249496
+    engagement: 514
+    commentsToLikes: 0.006794
+    id: ck15qu0yv4n1v0i1967skhxhv
     verified: false
-    hashtags: "#winner, #popping, #event, #canaryislands"
-  - username: "judahvivancos"
+    hashtags: "#revlonprofessionalequave, #publi, #karolgdancers, #sigueturitmoenbarna"
+  - username: "victoria_pln"
     fullname: >-
-      Judah Vivancos
+      Nugget
     bio: >-
-      📸 • @judahphoto 👨‍🎤 • @los_vivancos 🎸 • #musico 🕺🏻 • #dancer
+      Dancer, content creator, model 📧 contact.victoriapln@gmail.com
     location: "Spain"
-    followers: 15823
-    engagement: 1554
-    commentsToLikes: 0.120667
-    id: ck6uamuz44g2n0j71z3vom2tv
+    followers: 7085
+    engagement: 1201
+    commentsToLikes: 0.009918
+    id: ck5qcjb6rquy70i117acc8dn9
     verified: false
-    hashtags: "#summer2020, #beardman, #greeneyes, #fitness"
-  - username: "paulaetxeberriaofficial"
+    hashtags: "#outfit, #comingsoonshop, #shooting, #brand"
+  - username: "aliciaaroca_"
     fullname: >-
-      P A U L A  E T X E B E R R I A
+      Alicia Aroca
     bio: >-
-      God First💙 🔺Paula @twin_melody 🟢Colaboradora en @elhormiguero 💞Student,Singer,Actress,Dancer,tiktoker,YT 🔸Deuteronomy 31:8 📍PV,Spain @paulaetxe
+      art🫀 professional dancer choreographer☁️☁️ 🌎now in Madrid
     location: "Spain"
-    followers: 386691
-    engagement: 1004
-    commentsToLikes: 0.033994
-    id: ck14i3rm2dhvv0i19xalmbo0n
-    verified: true
-    hashtags: "#happy, #sunday, #happysunday, #yay"
+    followers: 35621
+    engagement: 913
+    commentsToLikes: 0.040015
+    id: ck8syxdpumdvg0j78joahs09c
+    verified: false
+    hashtags: "#los40musicawards, #grateful, #iceland, #travel"
+  - username: "gero_dance"
+    fullname: >-
+      Gero Rangel Ruiz
+    bio: >-
+      International Dancer @geroymigleoficial Social Dance Lover Online classes here ⬇️
+    location: "Spain"
+    followers: 28580
+    engagement: 481
+    commentsToLikes: 0.031617
+    id: ck5q975mu9pm70i11xt67hcoc
+    verified: false
+    hashtags: "#bachata, #bachatafeeling, #bachatalove, #bachatalovers"
+  - username: "oscarfloresofficial"
+    fullname: >-
+      Oscar Flores
+    bio: >-
+      🇦🇷➡️🇪🇸Dancer&Director @odmfestival @campeonatonacional.do @oscar.flores.school @alkimiahtroupe ⚜️CID Unesco Member
+    location: "Spain"
+    followers: 71955
+    engagement: 489
+    commentsToLikes: 0.056274
+    id: ck5zy35du957e0i14caqjndz2
+    verified: false
+    hashtags: "#oriental, #bellydancer, #dancer, #danza"
+  - username: "sergiopovedaa"
+    fullname: >-
+      Sergio Poveda™️🚀
+    bio: >-
+      Dancer & choreographer 🌍| Valencia, Spain 📨| sergiopoveda@bushidotalent.com Tiktok(+3M)
+    location: "Spain"
+    followers: 407824
+    engagement: 514
+    commentsToLikes: 0.051625
+    id: ck5znfkzzodak0i14tyxluq63
+    verified: false
+    hashtags: "#rauwalejandro, #lunay, #dance, #dancer"
+  - username: "vansecoo"
+    fullname: >-
+      VANESA SECO 🦋
+    bio: >-
+      here to express shuffle dancer | singer | visionary 🇨🇴🇻🇪 📍LA Check out my brand-> @diosabyseco Tiktok: 2.4M
+    location: "Spain"
+    followers: 1169808
+    engagement: 389
+    commentsToLikes: 0.019304
+    id: ck0ttb3kq1xtn0i19rsfdupl7
+    verified: false
+    hashtags: "#cuttingshapes, #coachella, #footwork, #coachella2024"
   - username: "lauramullorhernandez"
     fullname: >-
       LAURA MULLOR
     bio: >-
-      Barcelona📍 lauramullor.info@gmail.com Autora de “Lo mejor de la vida es ser tú mismo” 📖 TikTok: laura.mullor (1,3M) Dancer in IDC
+      Barcelona📍 Dancer & Model & Lifestyle lauramullor@streikmanagement.com TikTok: laura.mullor (1,3M)
     location: "Spain"
-    followers: 576604
-    engagement: 388
-    commentsToLikes: 0.079639
+    followers: 501188
+    engagement: 282
+    commentsToLikes: 0.025946
     id: ck5cdgi53j55b0i11obavaxzi
     verified: false
-    hashtags: "#aboutyoues, #iphone12, #sorteo, #internationalgiveaway"
-  - username: "joseramvar_"
+    hashtags: "#luvlette, #luvlettepartner, #giftofluv, #cacharelparfums"
+  - username: "kike.utrera"
     fullname: >-
-      Jose Ramirez 💎
+      Kike Utrera
     bio: >-
-      🎬Actress| #soloelamor #justlove 🔛@netflix 🎧Dancer|Choreographer 🎤Singer|Covers&Comp 🔥𝗔𝘆𝗺𝗮𝗻 𝗖𝗿𝗲𝘄🔥 💌joseramirezbooking@gmail.com 🅲🆄🆁🅰🅼🅴👇🏼
+      International Dancer&Singer from Spain!🇪🇸 🕺💃 @kikeynahir_official 📩 KikeUtrera88@gmail.com ❤️ @myrtomisyri 🟢 Spotify “Kike Utrera”
     location: "Spain"
-    followers: 434728
-    engagement: 520
-    commentsToLikes: 0.008509
-    id: ck8t74qpgfn4a0j78kin2wmr3
+    followers: 203304
+    engagement: 257
+    commentsToLikes: 0.023989
+    id: ck5c2qhjmxrwd0i11xcifwjpu
     verified: false
-    hashtags: "#manhattan, #reggaeton, #hmuruguay, #newyork"
-  - username: "micholivera"
-    fullname: >-
-      Michael Olivera
-    bio: >-
-      ◾ Dancer I Choreographer I Teacher ◾ Filmmaker I Photographer @mo.audiovisuales From 🇺🇾 📍BARCELONA
-    location: "Spain"
-    followers: 6158
-    engagement: 1438
-    commentsToLikes: 0.059980
-    id: ckf5oaop91kbz0j23a7kcqmg4
-    verified: false
-    hashtags: "#summer2020, #gottalent, #barcelona, #catalunya"
-  - username: "itslaiafidalgo"
-    fullname: >-
-      LAIA FIDALGO
-    bio: >-
-      📍 Dancer,Choreographer & model of Barcelona 👸🏽 TikTok; itslaiafidalgo (+970k) 📥 Contact: laia@bushidotalent.com
-    location: "Spain"
-    followers: 151998
-    engagement: 771
-    commentsToLikes: 0.036418
-    id: ck5cdgjzrj56o0i118eon8b58
-    verified: false
-    hashtags: "#mariabecerra, #jbalvin, #dancevideo, #dance"
-  - username: "franciniamaral"
-    fullname: >-
-      Francini
-    bio: >-
-      Lifestyle | Dancer | Mom 🐶🐶🐶🐶🐶 🎤Axe Bahia 🗣Coach y Master en PNL 📍🇨🇱 🇧🇷🇵🇹 Contrataciones: franciniamaral@gmail.com
-    location: "Spain"
-    followers: 586524
-    engagement: 233
-    commentsToLikes: 0.029603
-    id: ck5zn40sgnqq70i14ix4lvq94
-    verified: true
-    hashtags: "#frasedeldia, #quotes, #diadepiscina, #cuarentena"
-  - username: "meryrivers"
-    fullname: >-
-      maría rios 🧚🏼‍♀️
-    bio: >-
-      professional dancer living in Bcn, Spain
-    location: "Spain"
-    followers: 18928
-    engagement: 643
-    commentsToLikes: 0.052321
-    id: ck55l7wbn0ylw0i11yep62hek
-    verified: false
-    hashtags: "#laluz, #lomalo, #youlikethat, #qdschallenge"
+    hashtags: "#worldofdance, #myrtomisyri, #nahirromanodancer, #dancers"
 ---

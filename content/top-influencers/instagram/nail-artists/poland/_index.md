@@ -1,11 +1,11 @@
 ---
-title: Top 10 Nail Artists Instagram Influencers In Poland In 2023
+title: Top 10 Nail Artists Instagram Influencers In Poland In 2024
 description: >-
-  Find top nail artists Instagram influencers in Poland in 2023. Most popular hashtags: #nails #nails2inspire #nailartist #nailart.
+  Find top nail artists Instagram influencers in Poland in 2024. Most popular hashtags: #nails #nailartist #nailart #nails2inspire.
 platform: Instagram
-hits: 76
-text_top: Identify the most popular Instagram accounts on inBeat.
-text_bottom: inBeat holds 76 Instagram influencers like this in Poland for you to collaborate.
+hits: 74
+text_top: Analyze the best Instagram accounts on inBeat.
+text_bottom: Our database holds 74 Instagram influencers like this in Poland for you to work with.
 profiles:
   - username: "barbrafeszyn"
     fullname: >-
@@ -31,6 +31,30 @@ profiles:
     id: ck14iglzsfats0i19g23uuuww
     verified: false
     hashtags: "#lipgloss, #bodypiercings, #bodypiercer, #piercing"
+  - username: "pegi_nails"
+    fullname: >-
+      INDIGO DESIGNER❣️
+    bio: >-
+      🌸 Patrycja 📩g.patrycja96@icloud.com 📍🏠 Warsaw, Poland
+    location: "Poland"
+    followers: 224401
+    engagement: 256
+    commentsToLikes: 0.007873
+    id: ck9we331jidb40j78t4jxf1e3
+    verified: false
+    hashtags: "#nailaddict, #pieknepaznokcie, #dlugiepaznokcie, #mattenails"
+  - username: "lightslacquer"
+    fullname: >-
+      Lights Lacquer
+    bio: >-
+      Vegan & Cruelty-Free Lacquers Nail Polish, Jelly Balms & Press Ons Create your color story #athomeartist
+    location: "Poland"
+    followers: 309301
+    engagement: 86
+    commentsToLikes: 0.041710
+    id: ck5c9dm42b8og0i11cupgektf
+    verified: false
+    hashtags: "#veganpolish, #nailvids, #nailartist, #trendynails"
   - username: "pomalowanki_iwona_wilk"
     fullname: >-
       𝐈𝐰𝐨𝐧𝐚 𝐖𝐢𝐥𝐤
@@ -67,18 +91,6 @@ profiles:
     id: ck15radqz6ya10i19k4cz1btz
     verified: false
     hashtags: "#complex, #nailsmagazine, #instanails, #nailpro"
-  - username: "puro.nails"
-    fullname: >-
-      NAILS DESIGNER 🔝
-    bio: >-
-      The power of color 🇵🇱 🇫🇮 📸 photos 🎥 videos -10% : puronails ➡️www.cuccio.pl ✉️puronails1@gmail.com
-    location: "Poland"
-    followers: 118992
-    engagement: 221
-    commentsToLikes: 0.018889
-    id: ck0u00ydnsc6e0i19kidkg4u6
-    verified: false
-    hashtags: "#nailsinspiration, #nailartvideos, #nailartheaven, #xmas"
   - username: "ewuleeek"
     fullname: >-
       ewuleeek
@@ -115,16 +127,4 @@ profiles:
     id: ck55p193t9ljg0i110c34ps08
     verified: false
     hashtags: "#nailsdone, #nailstyle, #nailpolish, #indigonails"
-  - username: "paznokcie_hybrydowe_katarzyny"
-    fullname: >-
-      Salon kosmetyczny | Szkolenia
-    bio: >-
-      Oferujemy: 🅜🅐🅝🅘🅒🅤🅡🅔ⓅⒺⒹⒾⒸⓊⓇⒺ 𝕣𝕫𝕖𝕤𝕪 | 𝕓𝕣𝕨𝕚 | 𝕞𝕒𝕜𝕚𝕛𝕒𝕫𝕖 📞517147149 𝚂̲𝚣̲𝚔̲𝚘̲𝚕̲𝚎̲𝚗̲𝚒̲𝚊̲ 𝚔̲𝚘̲𝚜̲𝚖̲𝚎̲𝚝̲𝚢̲𝚌̲𝚣̲𝚗̲𝚎̲ Katarzyna Kłósek 📞796147141
-    location: "Poland"
-    followers: 35283
-    engagement: 85
-    commentsToLikes: 0.024765
-    id: ck8t288v8yi4d0j78qld9tb15
-    verified: false
-    hashtags: "#makear, #paznokciezelowe, #nailartlover, #przemysl"
 ---

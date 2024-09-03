@@ -1,11 +1,11 @@
 ---
-title: Top 10 Models TikTok Influencers In Chicago In 2023
+title: Top 10 Models TikTok Influencers In Chicago In 2024
 description: >-
-  Find top models TikTok influencers in Chicago in 2023. Most popular hashtags: #fyp #chicago #foryou #model.
+  Find top models TikTok influencers in Chicago in 2024. Most popular hashtags: #fyp #chicago #foryou #model.
 platform: TikTok
-hits: 38
-text_top: Identify the best TikTok accounts on inBeat.
-text_bottom: Our search engine holds 38 TikTok influencers like this in Chicago, United States for you to collaborate.
+hits: 39
+text_top: See the most popular TikTok accounts on inBeat.
+text_bottom: Our search engine aggregates 39 TikTok influencers like this in Chicago, United States for you to pitch.
 profiles:
   - username: "midwestdreamcars"
     fullname: >-
@@ -54,7 +54,19 @@ profiles:
     commentsToLikes: 0.020641
     id: ckc8ero2m9yzd0j23te6bjoah
     verified: false
-    hashtags: "#babesoftiktok, #duet, #stayupallnight, #newcontent"
+    hashtags: "#fyp, #duet, #youshouldknow, #newcontent"
+  - username: "jeffersongoldie"
+    fullname: >-
+      Jefferson Goldie
+    bio: >-
+      Chicago | TV Host | Second City | Worstcooks Imgoldiemocks@gmail
+    location: "United States"
+    followers: 273000
+    engagement: 776
+    commentsToLikes: 0.067434
+    id: ck9sioalaztp30j784zue26tj
+    verified: false
+    hashtags: "#fyp, #itsourhome, #foryoupage, #confident"
   - username: "nhl_com"
     fullname: >-
       NHL.com
@@ -78,7 +90,7 @@ profiles:
     commentsToLikes: 0.050195
     id: ck9nhf644fz3g0j78osemjvf2
     verified: false
-    hashtags: "#blushmarksquad, #chicago, #tiktokdance, #foxyeyes"
+    hashtags: "#chicago, #transformation, #taylorswift, #transition"
   - username: "malortluvr"
     fullname: >-
       malortluvr
@@ -115,16 +127,4 @@ profiles:
     id: ckczvofxu61jz0j23yg9pp5n9
     verified: false
     hashtags: "#parati, #foryou, #viral, #fyp"
-  - username: "capfem"
-    fullname: >-
-      nutella
-    bio: >-
-      i am an enigma any pronouns chicago 📍 email on insta
-    location: "United States"
-    followers: 40500
-    engagement: 2137
-    commentsToLikes: 0.043598
-    id: ck95z2fc2cmkq0j78i4s5jr29
-    verified: false
-    hashtags: "#foryou, #pets, #cat, #dance"
 ---

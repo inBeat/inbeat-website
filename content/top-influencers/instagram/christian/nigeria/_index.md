@@ -1,11 +1,11 @@
 ---
-title: Top 10 Christian Instagram Influencers In Nigeria In 2023
+title: Top 10 Christian Instagram Influencers In Nigeria In 2024
 description: >-
-  Find top christian Instagram influencers in Nigeria in 2023. Most popular hashtags: #endsars #natural #explorepage.
+  Find top christian Instagram influencers in Nigeria in 2024. Most popular hashtags: #endsars #repost #contemporaryart.
 platform: Instagram
-hits: 8
-text_top: See the most popular Instagram influencers on inBeat.
-text_bottom: Our database has 8 Instagram influencers like this in Nigeria for you to work with.
+hits: 11
+text_top: Analyze the best Instagram profiles on inBeat.
+text_bottom: inBeat holds 11 Instagram influencers like this in Nigeria for you to contact.
 profiles:
   - username: "hafizayahayabello"
     fullname: >-
@@ -43,6 +43,30 @@ profiles:
     id: ck5chi9apqu050i11ajwebpkj
     verified: false
     hashtags: "#coffeetalk, #endsars, #birthdaygirl, #thankgoditsfriyayyyy"
+  - username: "akinoladaviesjr"
+    fullname: >-
+      Akinola
+    bio: >-
+      Storyteller 🎥 📻 Narrative + Documentary + Commercial
+    location: "Nigeria"
+    followers: 22198
+    engagement: 357
+    commentsToLikes: 0.045656
+    id: ck55kd56bz1al0i11lfwxvirx
+    verified: false
+    hashtags: "#linkinbio, #ad, #adidasxgucci, #christophersimmonds"
+  - username: "stevechuks_"
+    fullname: >-
+      Steve Chuks
+    bio: >-
+      🇳🇬 God is good Actor • Host • Content creator • Lifestyle Prod/Dir - @ibemantheplay #CleopatraLiveNight Bookings :Email below👇🏽 #AMVCA9 Nominee
+    location: "Nigeria"
+    followers: 523244
+    engagement: 248
+    commentsToLikes: 0.029368
+    id: ck0tvv246cwxx0i19slro2syw
+    verified: false
+    hashtags: "#lightscameranaija, #netflixnaija"
   - username: "nikitasgram"
     fullname: >-
       NiKITA | K I T A
@@ -91,16 +115,16 @@ profiles:
     id: ckf5rsjssdrp90j23akjap8pr
     verified: false
     hashtags: "#adaakokwa, #repost, #happygirlsaretheprettiest, #ingodwetrust"
-  - username: "uzodinma_g"
+  - username: "mayor_artz"
     fullname: >-
-      Uzodinma Gift🌺🌺
+      Mayor Olajide
     bio: >-
-      Welcome to my page✨✨ Personal gallery✨ Virgo♍️
+      📨 mayorolajidearts@gmail.com
     location: "Nigeria"
-    followers: 3763
+    followers: 196430
     engagement: 660
-    commentsToLikes: 0.115014
-    id: ckaowcbz88au40i78te9hv4ip
+    commentsToLikes: 0.032519
+    id: ckaouz9bu2g2h0i78lyg1wo71
     verified: false
-    hashtags: "#gaintrick, #gaintrain, #beauty, #gains"
+    hashtags: "#design, #contemporaryart, #collectingart, #mayor"
 ---

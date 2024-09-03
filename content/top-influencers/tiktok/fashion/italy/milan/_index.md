@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fashion TikTok Influencers In Milan In 2023
+title: Top 10 Fashion TikTok Influencers In Milan In 2024
 description: >-
-  Find top fashion TikTok influencers in Milan in 2023. Most popular hashtags: #perte #fashion #foryou #fyp.
+  Find top fashion TikTok influencers in Milan in 2024. Most popular hashtags: #perte #fashion #fyp #foryou.
 platform: TikTok
 hits: 21
-text_top: Identify the top-rated TikTok profiles on inBeat.
-text_bottom: inBeat holds 21 TikTok influencers like this in Milan, Italy for you to connect with.
+text_top: Analyze the best TikTok profiles on inBeat.
+text_bottom: Our platform has 21 TikTok influencers like this in Milan, Italy for you to pitch.
 profiles:
   - username: "davinzgarcia"
     fullname: >-
@@ -18,19 +18,19 @@ profiles:
     commentsToLikes: 0.018919
     id: cka0t7id5omma0i78d75oryiv
     verified: false
-    hashtags: "#fashion, #furdich, #milano, #fashion101"
-  - username: "nssmagazine"
+    hashtags: "#asian, #filipino, #style, #foryou"
+  - username: "simox00"
     fullname: >-
-      nss magazine
+      Simona Balzamo
     bio: >-
-      Streetwear, lifestyle, fashion, musica
+      
     location: "Italy"
-    followers: 44600
-    engagement: 1061
-    commentsToLikes: 0.010682
-    id: ck9eq9cwyw7e50j78px66yb8y
-    verified: true
-    hashtags: "#fyp, #streetwear, #fashion, #sneakers"
+    followers: 15800
+    engagement: 1650
+    commentsToLikes: 0.004925
+    id: ckc1xj6xs1h4o0j23rhrib5kn
+    verified: false
+    hashtags: "#handmade, #woodworking, #nonvolevodiventarefamosa, #garden"
   - username: "dj_eva_fiesta"
     fullname: >-
       Dj_eva_fiesta
@@ -43,18 +43,6 @@ profiles:
     id: ck9du4xezeyo80j7845ilgxyo
     verified: false
     hashtags: "#italianfoodporn, #tiktokmilano, #milanomoda, #russiinitalia"
-  - username: "simox00"
-    fullname: >-
-      Simona Balzamo
-    bio: >-
-      
-    location: "Italy"
-    followers: 15800
-    engagement: 1650
-    commentsToLikes: 0.004925
-    id: ckc1xj6xs1h4o0j23rhrib5kn
-    verified: false
-    hashtags: "#garden, #handmade, #woodworking, #nonvolevodiventarefamosa"
   - username: "francis.privitera"
     fullname: >-
       Francesco Privitera
@@ -90,7 +78,7 @@ profiles:
     commentsToLikes: 0.033171
     id: cka6bswc91kwu0i7863fhkaav
     verified: false
-    hashtags: "#fashion, #viral, #perte, #trend"
+    hashtags: "#fy, #zodiactiktok, #outfit, #astrology"
   - username: "jonnycloud_"
     fullname: >-
       Jonny!!... 👁‍🗨
@@ -114,7 +102,7 @@ profiles:
     commentsToLikes: 0.023930
     id: ckcdu4lk7ebez0j23ixth6xyi
     verified: false
-    hashtags: "#models, #modellife, #greenscreen, #foryou"
+    hashtags: "#viral, #models, #modelle, #casting"
   - username: "dedofiore"
     fullname: >-
       Edoardofioretti
@@ -127,4 +115,16 @@ profiles:
     id: ckb0oriq9et2p0j23q46uisno
     verified: false
     hashtags: "#fyp, #oroscopo, #fy, #perte"
+  - username: "nssmagazine"
+    fullname: >-
+      nss magazine
+    bio: >-
+      Streetwear, lifestyle, fashion, musica
+    location: "Italy"
+    followers: 44600
+    engagement: 1061
+    commentsToLikes: 0.010682
+    id: ck9eq9cwyw7e50j78px66yb8y
+    verified: true
+    hashtags: "#milano, #virgilabloh, #ootd, #fyp"
 ---

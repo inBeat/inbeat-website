@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Seattle In 2023
+title: Top 10 Fitness Instagram Influencers In Seattle In 2024
 description: >-
-  Find top fitness Instagram influencers in Seattle in 2023. Most popular hashtags: #fitness #seattle #love #motivation.
+  Find top fitness Instagram influencers in Seattle in 2024. Most popular hashtags: #seattle #fitness #travel #motivation.
 platform: Instagram
-hits: 64
-text_top: See the top-rated Instagram accounts on inBeat.
-text_bottom: Our platform aggregates 64 Instagram influencers like this in Seattle, United States for you to pitch.
+hits: 89
+text_top: Analyze the most popular Instagram influencers on inBeat.
+text_bottom: inBeat has 89 Instagram influencers like this in Seattle, United States for you to work with.
 profiles:
   - username: "campbellboydre"
     fullname: >-
@@ -19,30 +19,90 @@ profiles:
     id: ck6023a0qgnpf0i14rjdvjj3p
     verified: true
     hashtags: "#fitness, #seattle, #training, #healthyfood"
+  - username: "deddehhoward"
+    fullname: >-
+      Deddeh Howard
+    bio: >-
+      Lifestyle | Beauty | Wellness Family Is everything | Mom | 💍 @kollbi 📍LA | African Gal 🇱🇷 📩 contactdeddeh@gmail.com
+    location: "United States"
+    followers: 332270
+    engagement: 393
+    commentsToLikes: 0.027953
+    id: ck0uctn7ehl580i19jmw2nr21
+    verified: true
+    hashtags: "#momlife, #ad, #mom, #fiji"
+  - username: "leanna_carr"
+    fullname: >-
+      Leanna Carr
+    bio: >-
+      Seattle, WA 📍🌈🇵🇭 @raincityfit @rcfbarbellclub @rcfsodo @rcfpowerbottom 💪🏽 Director @pridedeadliftparty 🏳️‍⚧️ Strength & equity for all 🫶🏽
+    location: "United States"
+    followers: 109688
+    engagement: 222
+    commentsToLikes: 0.037248
+    id: ck5znv9ybp7q60i145cgx7cy9
+    verified: false
+    hashtags: "#rehab, #explorewashington, #aclrecovery, #powerlifter"
+  - username: "munchwithmojo"
+    fullname: >-
+      Molly Jones
+    bio: >-
+      Food freedom, body acceptance, & self-love⁣ ACE Group Fitness certified⁣ 📍Seattle 💌munchwithmojo@gmail.com
+    location: "United States"
+    followers: 7056
+    engagement: 566
+    commentsToLikes: 0.046792
+    id: ckqm6wokwu10p0j23s9by84qt
+    verified: false
+    hashtags: "#munchwithmojo, #bodyacceptance, #edrecovery, #recoveryispossible"
   - username: "iamsamanthaelizabeth"
     fullname: >-
       Samantha Elizabeth
     bio: >-
-      Model | Content Creator | Red Carpet Host Management ✨ mgmt@thejse.net ✞ Daughter of The King 🍇 Founder @blushedlemons Shop my store👇🏽
+      ✞ living after the Cross | Fashion • Interior Decor • Travel Mom of two 🤍 Wifey 💍 @iamtylerburke habló español 🇩🇴🇨🇦 @kingdomkribs book your stay ⬇️
     location: "United States"
-    followers: 24693
-    engagement: 105
-    commentsToLikes: 0.091625
+    followers: 23749
+    engagement: 236
+    commentsToLikes: 0.066570
     id: ckf5ljig5pt5s0j237mqgp3u3
     verified: false
-    hashtags: "#miami, #canadian, #baseball, #christian"
-  - username: "lukahocevar"
+    hashtags: "#explore, #ootd, #explorepage, #fitness"
+  - username: "aubernutter"
     fullname: >-
-      Luka Hocevar - Coach
+      Life | Fitness | Adventure
     bio: >-
-      🏀 Ex Pro Player 🎯 Body Transformation & Fit Biz Coach DM me “coach” to apply 4 personal Coaching Vigor Ground Summit is LIVE👇🏼
+      Aubrey California 📍 auberenolan@gmail.com 💌 Bad Days Build Better Days 💕
     location: "United States"
-    followers: 58987
-    engagement: 100
-    commentsToLikes: 0.040155
-    id: ck5hdqqv5ovir0i11cdqskgh4
+    followers: 190578
+    engagement: 308
+    commentsToLikes: 0.012449
+    id: ck8swju1pec0j0j783rb88mok
     verified: false
-    hashtags: "#sportsperformance, #fitnesstips, #fatloss, #fitnessmotivation"
+    hashtags: "#moped, #health, #fyp, #segway"
+  - username: "azkaay"
+    fullname: >-
+      Azka Mistry | Seattle📍
+    bio: >-
+      🇵🇰🇦🇪🇺🇸 Sharing all things life - motherhood, career & fitness🦋✨ Founder of @faloodaandco 🍧 Photographer @tasveerbyazkaay 📸 💌 azkamistry@gmail.com
+    location: "United States"
+    followers: 15223
+    engagement: 160
+    commentsToLikes: 0.062129
+    id: ck8t2kqgtzsxg0j787tdil891
+    verified: false
+    hashtags: "#toddlermom, #zarakids, #toddlerfashion, #seattle"
+  - username: "highfitnessemily"
+    fullname: >-
+      Emily Nelson | HIGH fitness
+    bio: >-
+      CEO/Co-owner/creator of @high.fitness Aerobics is BACK! Fitness expert @studio5ksl In person and virtual classes available FITNESS SHOULD BE FUN!!
+    location: "United States"
+    followers: 45931
+    engagement: 94
+    commentsToLikes: 0.077791
+    id: cks10wobb2h1s0j233tqhr6c9
+    verified: false
+    hashtags: "#groupfitness, #fitnessinfluencer, #ilovehighfitness, #fitnessinstructor"
   - username: "palmvisuals"
     fullname: >-
       Palm Visuals ™️
@@ -55,76 +115,16 @@ profiles:
     id: ck5zvnkh34kna0i14d7njvut6
     verified: false
     hashtags: "#realtors, #realtor, #house, #homesforsale"
-  - username: "norrisfrederick"
+  - username: "_kellinickole"
     fullname: >-
-      Norris Frederick
+      Kelli ♡
     bio: >-
-      Professional Long Jumper 11x NCAA All American 5x Conference Champion 3x Indoor U.S Bronze Medal Member of Team USA JOIN THE TEAM Team Frederick
+      🖋: @runnergrams 🌱: @plantbasedmarathoner 💫: @runlocalevents x @procompression x @rungoodr
     location: "United States"
-    followers: 230909
-    engagement: 1261
-    commentsToLikes: 0.038762
-    id: ck60239dxgno60i14r9wo1shv
-    verified: true
-    hashtags: "#lasvegas, #togetherwefly, #love, #family"
-  - username: "briannamariefitness"
-    fullname: >-
-      Brianna Marie
-    bio: >-
-      💪🏻 health & fitness 🐕 husky mom 📍seattle
-    location: "United States"
-    followers: 143122
-    engagement: 227
-    commentsToLikes: 0.078708
-    id: ck8tdds6s2yjf0j782ilctxbp
+    followers: 4468
+    engagement: 876
+    commentsToLikes: 0.037935
+    id: ckaor5ffhlt3d0i78da1z7y3v
     verified: false
-    hashtags: "#legday, #gluteworkout, #homeworkout, #legworkout"
-  - username: "jennasoul"
-    fullname: >-
-      Jenna Fields
-    bio: >-
-      NYC-SF-WA ♠ 28 🌛 ♉️ Bud tender / @soulcycle / @indoorphins.fit #blacklivesmatter #lgbtqia
-    location: "United States"
-    followers: 2627
-    engagement: 1224
-    commentsToLikes: 0.085774
-    id: ck15siadyd55g0i19q81u6cbf
-    verified: false
-    hashtags: "#soulcycle, #girlswithtattoos, #inked, #fitness"
-  - username: "annakobzar"
-    fullname: >-
-      Anna Kobzar 💋
-    bio: >-
-      ⚜️Beauty Is My Game 📍Seattle WA ☔️ 💭Influencer•Beauty•Fashion•Travel 🗣Patriot 🇺🇸
-    location: "United States"
-    followers: 438450
-    engagement: 329
-    commentsToLikes: 0.017123
-    id: ck15pkpxoycyt0i19hqdzaqji
-    verified: false
-    hashtags: "#motivation, #fitness, #workout, #workoutwithfirmabs"
-  - username: "deshawnshead"
-    fullname: >-
-      DeShawn Shead
-    bio: >-
-      NFL CB | SB48 Champ | Husband to @mrs_jshead | Proud Father of 2 | 2X NFC Champ | From Palmdale, CA | PSU Grad | TW: @dshead24
-    location: "United States"
-    followers: 117474
-    engagement: 312
-    commentsToLikes: 0.023182
-    id: ck0twtzxdgq9y0i192da6s3af
-    verified: true
-    hashtags: "#squad, #fitness, #exercise, #family"
-  - username: "justin_moves"
-    fullname: >-
-      Justin Sweeney
-    bio: >-
-      Parkour Athlete Stuntman Physical Therapist - PT, DPT, OMT
-    location: "United States"
-    followers: 18732
-    engagement: 883
-    commentsToLikes: 0.021595
-    id: ck5cgm80vp4e30i118h20mwjf
-    verified: false
-    hashtags: "#jump, #plyometrics, #movement, #speedclimbing"
+    hashtags: "#marathontraining, #rungoodr, #runlocal, #oisellevolee"
 ---

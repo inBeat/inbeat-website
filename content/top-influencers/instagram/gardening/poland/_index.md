@@ -1,11 +1,11 @@
 ---
-title: Top 10 Gardening Instagram Influencers In Poland In 2023
+title: Top 10 Gardening Instagram Influencers In Poland In 2024
 description: >-
-  Find top gardening Instagram influencers in Poland in 2023. Most popular hashtags: #garden #ogrod #gardeninspiration #gardening.
+  Find top gardening Instagram influencers in Poland in 2024. Most popular hashtags: #gardeninspiration #ogr #garden #gardening.
 platform: Instagram
-hits: 60
-text_top: Analyze the best Instagram profiles on inBeat.
-text_bottom: Our platform has 60 Instagram influencers like this in Poland for you to pitch.
+hits: 81
+text_top: Identify the best Instagram influencers on inBeat.
+text_bottom: inBeat aggregates 81 Instagram influencers like this in Poland for you to work with.
 profiles:
   - username: "aga_i_dom"
     fullname: >-
@@ -19,18 +19,54 @@ profiles:
     id: ckf5oqo9j3ech0j233us8cf4p
     verified: false
     hashtags: "#obiad, #delicious, #goodfood, #cook"
-  - username: "grembosiowo"
+  - username: "niezabudkowo"
     fullname: >-
-      Marlena 🙋🏼‍♀️
+      Ma Lena
     bio: >-
-      Dom, ogród... i cegła 🥀🏚🍂 . 📩marlena.grembowska@onet.pl
+      Jaki jesteś, tak widzisz świat. Mój drugi profil to @niezabudkowo_crochet
     location: "Poland"
-    followers: 35572
-    engagement: 670
-    commentsToLikes: 0.031444
-    id: ck14i6w9mdxzp0i19pq76v1ne
+    followers: 13087
+    engagement: 354
+    commentsToLikes: 0.049465
+    id: ck9hbgx5bgslu0j7800mmf0b2
     verified: false
-    hashtags: "#dekoracje, #homeinspirations, #gardening, #jardines"
+    hashtags: "#gardentherapy, #ogr, #dodatki, #wiejskieinspiracje"
+  - username: "zuzannka_home"
+    fullname: >-
+      𝐙𝐮𝐳𝐚𝐧𝐧𝐚 | 𝐈𝐧𝐭𝐞𝐫𝐢𝐨𝐫 & 𝐥𝐢𝐟𝐞𝐬𝐭𝐲𝐥𝐞
+    bio: >-
+      Home Lifestyle 🐶 Olaf #cavapoo Kupisz u mnie Hizero Absynth kod 15% Kuvings ambasador zuza10 Collab: zuzannka.home@gmail.com
+    location: "Poland"
+    followers: 21425
+    engagement: 216
+    commentsToLikes: -1.882759
+    id: cl6chifupi2so0i234fw39qaf
+    verified: false
+    hashtags: "#newhouses, #dom, #meblekuchenne, #kamiennaturalny"
+  - username: "mojdommojemiejsce"
+    fullname: >-
+      Kasia Stefaniak, inspiracje, dom, ogrod, farmhouse
+    bio: >-
+      Dom, pasja, codzienność. DIY porady, inspiracje. Urządzam dom i buduje nowy w stylu amerykańskiej farmy. Kontakt, współpraca📪kstefaniak@op.pl
+    location: "Poland"
+    followers: 370536
+    engagement: 91
+    commentsToLikes: 0.049255
+    id: ck5c0h4s6t4oo0i112g8czroj
+    verified: false
+    hashtags: "#myinteriorstyle, #livingroom, #homedesign, #gardenlove"
+  - username: "homewithbluedoor"
+    fullname: >-
+      Ania
+    bio: >-
+      Wykonuje sesje produktowe Wspomagam marki Zapraszam Was do naszego domku Polska , woj. Łódzkie kontakt: homewithbluedoor@op.pl
+    location: "Poland"
+    followers: 117510
+    engagement: 39
+    commentsToLikes: 0.184042
+    id: cl6chiayni03s0i23dsf62jus
+    verified: false
+    hashtags: "#gardeninspiration, #kolorowedrzwi, #garden, #gardendesign"
   - username: "jeanne_kokeshi"
     fullname: >-
       Jeanneちゃん
@@ -79,18 +115,6 @@ profiles:
     id: ck8tbe1movacm0j78e7g99m3l
     verified: false
     hashtags: "#gardendesign, #ornamentalgrasses, #trawyozdobne, #kochammojegopsa"
-  - username: "kingadupla"
-    fullname: >-
-      Kinga Dupla
-    bio: >-
-      🌲Sztuka patrzenia Naturelover Dreamer Witch 🌲"Wierzę gorąco, że są rzeczy, których nikt by nie dostrzegł, gdybym ich nie sfotografowała."
-    location: "Poland"
-    followers: 7841
-    engagement: 878
-    commentsToLikes: 0.026641
-    id: ck9weuw13ly6y0j78sfs9rrwc
-    verified: false
-    hashtags: "#collectmomentsnotthings, #inspiremyinstagram, #momentsofmine, #kobiecafotoszko"
   - username: "mk3ania"
     fullname: >-
       Ania Walczak
@@ -103,28 +127,4 @@ profiles:
     id: ck0tzx8rartwy0i19y9ev9e2g
     verified: false
     hashtags: "#ogrod, #garden, #hydrangeas, #zima"
-  - username: "simci.a"
-    fullname: >-
-      Cozy christmas winter xmass 🎅🏼❄️🎄
-    bio: >-
-      Zakręcona #Włoszka 🇵🇱🇮🇹 #fotografia moja pasja 📸 Zostań ze mną na dłużej 📩Collab.DM /simona979@o2.pl 🥰
-    location: "Poland"
-    followers: 10305
-    engagement: 1507
-    commentsToLikes: 0.055238
-    id: ckap528vu9v0o0i78xjvwhocs
-    verified: false
-    hashtags: "#skin, #xmas, #vegan, #body"
-  - username: "natalisia237"
-    fullname: >-
-      𝓝𝓪𝓽𝓲 ❤️
-    bio: >-
-      📍Polska , Toruń🇵🇱 Poland🇵🇱 Zniżka: @sklep.sfd - Natalisia10 ❤️ @xfiltry.pl - NATI15 📥 współpraca: natalisia237@gmail.com 📥
-    location: "Poland"
-    followers: 13644
-    engagement: 1105
-    commentsToLikes: 0.035343
-    id: ckaorg8t5n2q10i78658n5h1c
-    verified: false
-    hashtags: "#nature, #photooftheday, #fashion, #polskadziewczyna"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Vegan TikTok Influencers In Hamburg In 2023
+title: Top 10 Vegan TikTok Influencers In Hamburg In 2024
 description: >-
-  Find top vegan TikTok influencers in Hamburg in 2023. Most popular hashtags: #fyp #foryou #fy #vegan.
+  Find top vegan TikTok influencers in Hamburg in 2024. Most popular hashtags: #fyp #foryou #fy #vegan.
 platform: TikTok
 hits: 4
-text_top: Identify the top-rated TikTok influencers on inBeat.
-text_bottom: Our database holds 4 TikTok influencers like this in Hamburg, Germany for you to collaborate.
+text_top: Discover the best TikTok profiles on inBeat.
+text_bottom: Our database holds 4 TikTok influencers like this in Hamburg, Germany for you to connect with.
 profiles:
   - username: "ich"
     fullname: >-
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.030347
     id: ckbqhu5ly33lq0j23zlztuxpd
     verified: false
-    hashtags: "#lernenmittiktok, #fyfyfyfyfyfy, #dialekt, #schw"
+    hashtags: "#fy, #badenw, #teiledeinwissen, #viral"
   - username: "pinkishoney"
     fullname: >-
       🤍
@@ -114,7 +114,7 @@ profiles:
     commentsToLikes: 0.008030
     id: ck9gpc41v4gva0j78fbfmb6yg
     verified: false
-    hashtags: "#foryou, #comedy, #fy, #funny"
+    hashtags: "#fyp, #sketch, #mariaclaragroppler, #schule"
   - username: "plantbasedcouple"
     fullname: >-
       Johanna & Lenni 🌻
@@ -126,5 +126,5 @@ profiles:
     commentsToLikes: 0.013254
     id: ck7zog9knjrxw0j78gaxosdbh
     verified: false
-    hashtags: "#foodnewsgermany, #weekendvlog, #plantbasedcouplevlog, #couple"
+    hashtags: "#couple, #foodnewsgermany, #veganeneuheiten, #plantbasedcouplevlog"
 ---

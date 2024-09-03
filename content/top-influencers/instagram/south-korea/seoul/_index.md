@@ -1,11 +1,11 @@
 ---
-title: Top 10 Instagram Influencers In Seoul In 2023
+title: Top 10 Instagram Influencers In Seoul In 2024
 description: >-
-  Find top Instagram influencers in Seoul in 2023. Most popular hashtags: #seoul #korea #model.
+  Find top Instagram influencers in Seoul in 2024. Most popular hashtags: #seoul #korea #lifeinkorea.
 platform: Instagram
-hits: 528
-text_top: Identify the most popular Instagram profiles on inBeat.
-text_bottom: Our search engine has 528 Instagram influencers like this in Seoul, South Korea for you to work with.
+hits: 574
+text_top: See the top-rated Instagram accounts on inBeat.
+text_bottom: Our database has 574 Instagram influencers like this in Seoul, South Korea for you to contact.
 profiles:
   - username: "seungjin_yang_"
     fullname: >-
@@ -43,88 +43,88 @@ profiles:
     id: ck5hj7y56g6540i11a463lnc1
     verified: false
     hashtags: ""
-  - username: "d2nasoaring"
+  - username: "kimbabfamily.official"
     fullname: >-
-      Dina 디나 Mujanović
+      Kimbab Family
     bio: >-
-      🇧🇦 🇺🇸 Bosnian-American in Seoul 🌜@dina11mujanovic <-- 촬영 🐙 dancer, yogi, voice actress, actress 🦖 Youtuber
+      Official Account Korean appa 🇰🇷 Indonesian mama 🇮🇩 👧🏻🧒🏻👦🏻 💝 우리 가족 화이팅!💪 📍Seoul, South Korea 2,7M+ subscribers on YouTube ❣️ More about us ⤵️
     location: "South Korea"
-    followers: 6790
-    engagement: 1103
-    commentsToLikes: 0.079772
-    id: ck6tvpzpwnm7r0j718srk9qrl
+    followers: 853238
+    engagement: 596
+    commentsToLikes: 0.005523
+    id: ck8td4qlj1v5l0j78mygts8xy
     verified: false
-    hashtags: "#selfie, #skincare, #koreanbeauty, #koreanskincare"
-  - username: "hannacoreana"
+    hashtags: "#tokyotrip, #kimbabfamily, #klkf2023, #schoollife"
+  - username: "priscillakwon"
     fullname: >-
-      Hanna Coreana 한나
+      priscillakwon
     bio: >-
-      𝙏𝙪 𝘾𝙤𝙧𝙚𝙖𝙣𝙖 𝙁𝙖𝙫𝙤𝙧𝙞𝙩𝙖❤️ 📍Seoul, Korea 서울🇰🇷 Beauty l Lifestyle l Korean culture ✉️ hannacoreana99@gmail.com
+      📨reachpriscillakwon@gmail.com TikTok (900k+) YouTube (200k+) 📍washington dc&seoul
     location: "South Korea"
-    followers: 73663
-    engagement: 1430
-    commentsToLikes: 0.017638
-    id: ck139lh76lwpc0i19g78af5pm
+    followers: 191169
+    engagement: 1307
+    commentsToLikes: 0.014609
+    id: cl4f68ci5piri0i23yioq88h4
     verified: false
-    hashtags: "#maquillajecoreano, #modacoreana, #sheinhaul, #sheinofficial"
+    hashtags: "#lisa, #seoul, #bornpinkworldtour, #explorekorea"
   - username: "sandra_ssong"
     fullname: >-
-      Sasha Song (모델 사샤)
+      Sasha Song 모델|유튜버🇰🇷
     bio: >-
-      Seoul / 서울 🇰🇷 Model / 인플루언서 모델 📸💃🏻 광고,촬영문의 / Business- DM 📩
+      서울/Seoul 🇰🇷📍 290만명 유튜버 ,모델 📸 광고,촬영문의 / Business ⬇️ sasha_song@naver.com
     location: "South Korea"
-    followers: 692345
-    engagement: 3617
-    commentsToLikes: 0.011403
+    followers: 686415
+    engagement: 599
+    commentsToLikes: 0.008739
     id: ck8t8gcnikdal0j7833hnrq5k
     verified: false
-    hashtags: "#korea, #lifeinkorea, #russianmodel, #internationalcouple"
-  - username: "camoz"
+    hashtags: "#koreanstyle, #koreanmodel, #model, #osaka"
+  - username: "2hearts1seoul"
     fullname: >-
-      camoz
+      Kyuho & Sarah | Life in Korea
     bio: >-
-      _________________________ 📩⭕️ camoworld00@gmail.com Seoul, KOR 👇⭕️ @dermalizepro @stencilforte _________________________
+      Korean / Canadian 🇰🇷/🇨🇦 200k on YouTube 🎥 Business 📩 2hearts1seoul@gmail.com 📍Seoul
     location: "South Korea"
-    followers: 49800
-    engagement: 831
-    commentsToLikes: 0.018177
-    id: ck5hjscruh64e0i11of9ayj8s
+    followers: 36779
+    engagement: 417
+    commentsToLikes: 0.013889
+    id: ck9ha6ugcbee70j78drjstf1r
     verified: false
-    hashtags: "#blackandgrey, #davinci, #radtattoos, #tattoos"
-  - username: "monetbabazadeh"
+    hashtags: "#cherryblossoms, #korea, #lifeinkorea, #seoul"
+  - username: "biancakartika"
     fullname: >-
-      Monet Babazadeh
+      Bianca Kartika | 비앙카 🇮🇩
     bio: >-
-      I am a fierce and passionate woman. AOJ/ATOS Jiu-Jitsu purple belt. 🇮🇷 SC 👻monetnb 📍 Seoul, Korea 🎥 My NEW VIDEO IS UP!!!👇
+      📍 Seoul 🇰🇷 🎓 Korean Government Scholarship Awardee 💌 Inquiries +6282124209617 (Brand) | +6285694112355 (UMKM)
     location: "South Korea"
-    followers: 38919
-    engagement: 259
-    commentsToLikes: 0.055884
-    id: ckap8dxbonwmx0i787fym253r
+    followers: 940182
+    engagement: 928
+    commentsToLikes: 0.009035
+    id: clnjmt5dso4xc0j08en543fbn
     verified: false
-    hashtags: "#sailormoonvibes, #otakugirl, #sweettoothformickey, #happybirthdaytome"
-  - username: "xxmelodi"
+    hashtags: "#shebeautyglobal, #bajulebaran, #kronikelxbiancakartika, #ramadhan"
+  - username: "niko_seoul"
     fullname: >-
-      멜로디
+      니코
     bio: >-
-      _(┐「ε:)_ 📍 seoul ⚗️ korean german swedish british • • proud of this video ⬇️🥰
+      FREELANCER living in Seoul 🇰🇷 #모델문의 DM ✍🏼 #프리랜서모델니코
     location: "South Korea"
-    followers: 130377
-    engagement: 773
-    commentsToLikes: 0.014142
-    id: ck0w3caygsog00i19pxi3i6ia
+    followers: 5372
+    engagement: 501
+    commentsToLikes: 0.027126
+    id: ckap57qwfajx70i78ox45r9x5
     verified: false
-    hashtags: ""
-  - username: "travelwormwithabook"
+    hashtags: "#fashion, #barbie, #roadcycling, #namsantower"
+  - username: "ridwanibrahim_"
     fullname: >-
-      Doodoshi | 두도시
+      R I D W A N 🌏
     bio: >-
-      ✈︎ Who travels the world with a book ⚐ Currently based in Seoul & Tehran ♢ Tale of two cities + travelling ♢ 두 도시 이야기 + 세계여행 이야기
+      🇸🇴 Seoul📍 MA @sintesemgt @elitenyc @selectmodellondon @selectmodelparis @modelwerk @sightmanagement @shsenter
     location: "South Korea"
-    followers: 2637
-    engagement: 2347
-    commentsToLikes: 0.055547
-    id: ck5ztewq709yp0i14mc71o9l0
+    followers: 18791
+    engagement: 742
+    commentsToLikes: 0.010488
+    id: ck1373afb9jy90i19likt68ss
     verified: false
-    hashtags: "#travelworm, #biei, #turkeytrip, #japantrip"
+    hashtags: "#tb"
 ---

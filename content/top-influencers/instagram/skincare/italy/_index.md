@@ -1,130 +1,130 @@
 ---
-title: Top 10 Skincare Instagram Influencers In Italy In 2023
+title: Top 10 Skincare Instagram Influencers In Italy In 2024
 description: >-
-  Find top skincare Instagram influencers in Italy in 2023. Most popular hashtags: #makeup #makeuptutorial #ad.
+  Find top skincare Instagram influencers in Italy in 2024. Most popular hashtags: #skincare #skincareroutine #makeuptutorial.
 platform: Instagram
-hits: 420
-text_top: Analyze the top-rated Instagram profiles on inBeat.
-text_bottom: inBeat holds 420 Instagram influencers like this in Italy for you to contact.
+hits: 562
+text_top: Analyze the best Instagram influencers on inBeat.
+text_bottom: Our database has 562 Instagram influencers like this in Italy for you to connect with.
 profiles:
-  - username: "giuliacova87"
+  - username: "chesiabenedettalamodablogit"
     fullname: >-
-      Giulia Cova
+      Francesca Maria Matteucci
     bio: >-
-      ° Makeup Artist ° Skincare Specialist °Youtube:Giulia Cova Il mio canale Youtube ⬇️⬇️⬇️ #giuliacova #beauty
+      📍 ROMA Fashion Skincare➕altre tips✖️50 enni✨⁣ ➡️ Minimalista➕1 pizzico di street style ➡️ Decor lover ➡️ Pro ♻️ e gentilezza 👇 INIZIA DA QUI 👇
     location: "Italy"
-    followers: 65800
-    engagement: 162
-    commentsToLikes: 0.090539
-    id: ck5q94s459e2k0i11fj2s3xfw
+    followers: 41372
+    engagement: 519
+    commentsToLikes: 0.072155
+    id: ck9wea7j4jd1z0j78w4e5bs6z
     verified: false
-    hashtags: "#makeup, #unboxing, #nablacosmetics, #estate2021"
-  - username: "almirantifira"
+    hashtags: "#curadellapersona, #stylelover, #bloggeritaliane, #italianfashionblogger"
+  - username: "snu.chi"
     fullname: >-
-      FIRA
+      Francesca 🌩 beauty content creator
     bio: >-
-      yes to skincare & makeup @aelunabeauty | @aoratorie @arkanarafamily | @catatansidumbz
+      skincare, dogs 🐶 & design; Italy 🇮🇹; @yesstyle @yesstyle_it SNUUCHI @remiliahair snuchi20
     location: "Italy"
-    followers: 171240
-    engagement: 131
-    commentsToLikes: 0.035815
-    id: ck55lcvux1aen0i11gqvejugu
+    followers: 8906
+    engagement: 627
+    commentsToLikes: 0.241888
+    id: ck9haoudodf7w0j78jpi132ln
     verified: false
-    hashtags: "#pondstripleglowserum, #hadalabo, #sadarstunting, #dariibuuntuksikeci"
-  - username: "porziacarlone"
+    hashtags: "#glowgang, #skincarejunkiesunite, #skincareaddict, #skincaretips"
+  - username: "martapareccini"
     fullname: >-
-      Porzia Carlone
+      Marta Pareccini
     bio: >-
-      ❤️ Porzia | Content Creator 💋 💄 Make up / Skincare 💆‍♀️ @sheinofficial 15% 👉🏻 Q2Porzia For collab or pr ➡️ porziacarl1988@gmail.com
+      Sto ristrutturando casa. Ho tempo solo per la skincare 📍Brescia marta.pareccini@gmail.com Vi aspetto su TikTok per parlare di beauty
     location: "Italy"
-    followers: 7631
-    engagement: 820
-    commentsToLikes: 0.168139
-    id: ckaouniqt11nt0i78ywy1zyl9
+    followers: 98487
+    engagement: 694
+    commentsToLikes: 0.022004
+    id: ck15qgx7r2s8r0i19vrxsl3aw
     verified: false
-    hashtags: "#catrice, #gifted, #reels, #glammakeuplook"
-  - username: "martinarodini"
+    hashtags: "#ideeregalo, #kitchenideas, #bathroominspo, #christmastime"
+  - username: "gloriamariacorso"
     fullname: >-
-      MARTINA RODINI
+      Gloria Maria Corso | La Retrò ☀️
     bio: >-
-      🍃Founder @orobionaturalcosmetics 💕Organic Skincare 🤍Mamma ✨Breast Cancer Survivor
+      🫧 Quella del “sorridi e futtitinni” ✨ Skincare, make-up e outfit da Signora 💌 @zerozero.mgmt
     location: "Italy"
-    followers: 206701
-    engagement: 305
-    commentsToLikes: 0.026591
-    id: ck8t1ji1ew0gk0j789ze2or9v
+    followers: 49981
+    engagement: 936
+    commentsToLikes: 0.014440
+    id: ck5zkoqlmjviw0i14bpvud5uu
     verified: false
-    hashtags: "#curadellapelle, #mammaefiglio, #prevenzione, #riflessione"
-  - username: "ilariatrudu"
+    hashtags: "#universit, #ad, #fuoricorso, #skincare"
+  - username: "oannax"
     fullname: >-
-      𝘽𝙀𝘼𝙐𝙏𝙔 💄~ 𝙇𝙄𝙁𝙀𝙎𝙏𝙔𝙇𝙀 👗
+      𝔬𝔞𝔫𝔞 𝔡𝔬𝔤𝔞𝔯𝔲
     bio: >-
-      🧖🏻‍♀️ #skincare , #makeup e #fashion 👠 👩🏻 ’𝟿𝟺 🏠 𝙲𝚊𝚐𝚕𝚒𝚊𝚛𝚒, 𝚂𝚊𝚛𝚍𝚎𝚐𝚗𝚊 🎓 @univca 📚 𝚂𝚝𝚘𝚛𝚒𝚊 𝚍𝚎𝚕𝚕’𝚊𝚛𝚝𝚎 💌 𝙲𝚘𝚕𝚕𝚊𝚋 𝙼𝚊𝚒𝚕/ 𝙳𝙼. ⬇️ 𝙲𝚘𝚍𝚒𝚌𝚒 𝚜𝚌𝚘𝚗𝚝𝚘
+      📍 Bucharest, Romania 🤍 passionate about make-up, skincare and fashion TIKTOK ACCOUNT⤵️
     location: "Italy"
-    followers: 16810
-    engagement: 502
-    commentsToLikes: 0.096376
-    id: ck15r011m5giu0i19mr2v5tsh
+    followers: 16040
+    engagement: 1709
+    commentsToLikes: 0.008294
+    id: ck6u8px8xsz3e0j718bhyr86t
     verified: false
-    hashtags: "#lovebegreen, #giftedby, #volgocagliari, #sardegnaofficial"
-  - username: "cocochristina_"
+    hashtags: ""
+  - username: "ariannarinaldii"
     fullname: >-
-      Sijia Chen Christina👉🏻Actress
+      Musa
     bio: >-
-      • Actress • Model • Travel • Skincare Addicted • Based in #Milan #Brescia #Holland • I’m @donnavventuralive🌏 • 𝑳𝒊𝒇𝒆 𝒊𝒔 𝒂 𝒃𝒆𝒂𝒖𝒕𝒊𝒇𝒖𝒍 𝒊𝒎𝒑𝒆𝒓𝒇𝒆𝒄𝒕𝒊𝒐𝒏 🥰
+      🌷 fashion + make-up + skincare + music 🌙 158cm di pazzia sono ♑️ e mi piace ✈️
     location: "Italy"
-    followers: 24942
-    engagement: 532
-    commentsToLikes: 0.050013
-    id: ck5q63msrvtmn0i11co8bpmbp
+    followers: 34922
+    engagement: 1030
+    commentsToLikes: 0.002560
+    id: ck9wg46pvrtl50j78rpd94xha
     verified: false
-    hashtags: "#staystrong, #grateful, #donnavventuraitalia, #pigiama"
-  - username: "chantal.ciaffardini"
+    hashtags: ""
+  - username: "angelonennapintor"
     fullname: >-
-      𝕮𝖍𝖆𝖓𝖙𝖆𝖑
+      Angelo Nenna Pintor | Beauty Pro
     bio: >-
-      Pro Make-up Artist & Skincare Addict
+      #Celebrity #wedding #makeup #hair ⭐️GURU delle #lezioneditrucco online 💄Pietà per i vostri pori 😜story e moda 🧴 #skincare GLAMINAR 📍#Tuscany📍#Canary
     location: "Italy"
-    followers: 50490
-    engagement: 433
-    commentsToLikes: 0.039050
-    id: ck5zz4yjsb38s0i14ubzuuir6
+    followers: 42354
+    engagement: 324
+    commentsToLikes: 0.012125
+    id: ck5cfcgqlmoqz0i11lmtmx2aw
     verified: false
-    hashtags: "#makeupinspo, #eyeliner, #makeup, #makeuptutorial"
-  - username: "zahr4"
+    hashtags: "#makeupartist, #makeupfirenze, #tuscanywedding, #makeuptutorial"
+  - username: "leonciino"
     fullname: >-
-      ♡ zahra ♡
+      Lea Cuccaroni
     bio: >-
-      hi im zahra new york • 🇦🇫 | muslimthicc on tiktok - 2.9 million followers | skincare, beauty, fashion & life
+      parlo un sacco, studio, ascolto la musica e faccio sempre skincare 📍Paris 💌 lea@sparkleagency.it
     location: "Italy"
-    followers: 483901
-    engagement: 1054
-    commentsToLikes: 0.005878
-    id: ck8wfl5jcfvu70j78q9oa3aex
+    followers: 393353
+    engagement: 318
+    commentsToLikes: 0.002179
+    id: ck135pv1c2n6m0i19aziigxmp
     verified: true
-    hashtags: "#americaneagle, #aepartner, #glowwithstives, #ad"
-  - username: "micololivieri_"
+    hashtags: "#unobravo, #psicologiaonline, #adv, #regalo"
+  - username: "greta_lachimica"
     fullname: >-
-      Micol Olivieri
+      Greta Bertarini | Chimica Cosmetologa
     bio: >-
-      DONNA che ama le DONNE❤️#loveyourself marketing@micololivieri.it Il mio brand di skincare ➡️ @sosbeauty_italia 💄🌹
+      Parliamo di Chimica e Cosmetologia 👩🏻‍🔬🌸✨ 🧪 Mi potete trovare anche su @focus_ita 👇🏻 Creiamo insieme la tua SkinCare Routine 💕
     location: "Italy"
-    followers: 864784
-    engagement: 256
-    commentsToLikes: 0.008512
-    id: ck5pw5bskl6aq0i117ootsxz7
+    followers: 28563
+    engagement: 314
+    commentsToLikes: 0.050733
+    id: ck6totizmg11e0j71psl8qp8b
     verified: false
-    hashtags: "#fitviafamily, #healthyliving, #natural, #life"
-  - username: "misstrawberryfields"
+    hashtags: "#autoabbronzante, #retinol, #gattini, #acne"
+  - username: "rithink_skin"
     fullname: >-
-      Lolla | Skincare expert
+      Ria Biyani
     bio: >-
-      Paladina della skincare 🧪 CEO of SPF Ti spiego come curare la pelle, ti racconto i prodotti e la mia vita La mia linea skin @hey__cutie___
+      Skincare 🤓 Real, Honest, no BS Tips 💯 Consistency + SPF = 🔑 Rooting for #happyskindays
     location: "Italy"
-    followers: 110150
-    engagement: 379
-    commentsToLikes: 0.022215
-    id: ckap6p7ptgugv0i78kly89c1z
+    followers: 24747
+    engagement: 315
+    commentsToLikes: 0.028817
+    id: ckwaq33grknqo0j2379qyygz7
     verified: false
-    hashtags: "#hair, #vitalenta, #italia, #sea"
+    hashtags: "#skincareroutine, #intothegloss, #glowingskin, #loveyourskin"
 ---

@@ -1,130 +1,130 @@
 ---
-title: Top 10 Fitness Instagram Influencers In Indonesia In 2023
+title: Top 10 Fitness Instagram Influencers In Indonesia In 2024
 description: >-
-  Find top fitness Instagram influencers in Indonesia in 2023. Most popular hashtags: #style #fashionstyle #fashion.
+  Find top fitness Instagram influencers in Indonesia in 2024. Most popular hashtags: #gym #fitness #gymmotivation #muscle.
 platform: Instagram
-hits: 223
-text_top: See the best Instagram profiles on inBeat.
-text_bottom: Our platform has 223 Instagram influencers like this in Indonesia for you to collaborate.
+hits: 264
+text_top: See the top-rated Instagram influencers on inBeat.
+text_bottom: inBeat aggregates 264 Instagram influencers like this in Indonesia for you to work with.
 profiles:
-  - username: "brendapantja"
+  - username: "alfonzheng"
     fullname: >-
-      Brenda
+      Alfon Zheng アルフォン
     bio: >-
-      Fashion, fitness, lifestyle, and everything in between 🇹🇷 Turkey 24/01 ⠀⠀ team @go_fitlife ⠀ #weshootatmono @monoshoot.id @monospace_gs
+      💪🏻 Certified Fitness Trainer 📷 🎥 @alfonphotographie & @kalyanastudio 🐹 @boyoon_caviary 🐾 @sachishiba_jakarta Business inquiries : @ricoomodels
     location: "Indonesia"
-    followers: 32020
-    engagement: 116
-    commentsToLikes: 0.053240
-    id: ck6u8z1gluj0h0j71qhgi7v52
+    followers: 16147
+    engagement: 1204
+    commentsToLikes: 0.040048
+    id: ck9whb0ajx3m10j78zg0ij2qr
     verified: false
-    hashtags: "#brensbalidiary, #localbrand, #fitwithbrenzi, #weshootatmono"
-  - username: "ikasanz"
+    hashtags: "#tricep, #hot, #vacation, #swimmingpool"
+  - username: "freshnam219"
     fullname: >-
-      Ikasanz Yoe ♠️
+      Park Nam
     bio: >-
-      ●》INFLUENCER《● [ Fitness Enthusiast , Beauty & Healthy Lifestyle ] ENDORSE // COLLABS DM 💌 https://affiliate.shopee.co.id/ 📍 BALI 🥥🌴
+      Fly Your World 🇰🇷🇮🇩 ICN Fitness Model World Champion🏆 @mysuperpowerindonesia @studio47id
     location: "Indonesia"
-    followers: 53312
-    engagement: 224
-    commentsToLikes: 0.142564
-    id: ck9wgk1f5trp10j78o2ldtyun
+    followers: 179637
+    engagement: 1865
+    commentsToLikes: 0.026960
+    id: ck5zytax5ahs90i14d7smo8is
     verified: false
-    hashtags: "#balivibes, #fitnessmom, #styleblogger, #balibible"
-  - username: "mirzaali.official"
+    hashtags: "#bodyprofile, #gym, #gymmotivation, #physique"
+  - username: "mluhukay"
     fullname: >-
-      Mirza Ali 👑
+      Michael Luhukay
     bio: >-
-      • FASHION • LIFESTYLE • FITNESS COACH • YOUTUBE - Vlogs By Mirza • ₿ #CryptoBoy 💰 DM for Promotion & Business 📩
+      Cars | Fitness | Travel 🇮🇩 CP: 081281266597 (Imel) 🚘#DoraeM5 #Elephanttro #HeiRRloom 💻@LuxeBug @SpeedCreed @Jiwafit @RaizInvest.id ✈️#FlipsideJourney
     location: "Indonesia"
-    followers: 22169
-    engagement: 564
-    commentsToLikes: 0.075455
-    id: ckap05aaqot3g0i78bx28fftu
+    followers: 25653
+    engagement: 1271
+    commentsToLikes: 0.024398
+    id: ck6uetq8kt1hd0j71hcqq9u19
     verified: false
-    hashtags: "#fashionblogger, #fashionphotography, #staysafe, #mirzaali"
-  - username: "aemillin"
+    hashtags: "#bmwi7, #speedcreed, #carlovers, #speedertalks"
+  - username: "glennvictor"
     fullname: >-
-      Amalia
+      Glenn Victor Sutanto
     bio: >-
-      Health&fitness coach with medical education MS of synchronised swimming Take care of u with me @am.healthyclub Life @krohotnaya 📸 @am.pmood No TFP
+      Olympian 🏊🏼‍♂️ Grand finalist #TNLOTY2024 Certified international swimming coach CPT & CES by @nasm_fitness Part of @caldaremgt
     location: "Indonesia"
-    followers: 281772
-    engagement: 707
-    commentsToLikes: 0.008193
-    id: ck5zpi25rsply0i14fklhuoee
+    followers: 69804
+    engagement: 481
+    commentsToLikes: 0.018725
+    id: ckaouwqbs25ai0i78qo75mm5q
     verified: false
-    hashtags: ""
-  - username: "maria_vaniaa"
+    hashtags: "#medal, #swimmingpool, #indonesia, #gym"
+  - username: "miska_kanuscakova"
     fullname: >-
-      Maria Vania
+      Fitness Coach & IFBB Bikini
     bio: >-
-      🇮🇩Presenter | MC | Fitness Lover @totaltools.indonesia @musclefirstofficial
+      👶FitMom, 🍏💪🏼Fitnesscoach #mishelfitteam #profitacademy @scitecnutrition @timme.shop 🥈🥉2x European 2x Slovak 🥇& 2x Word 4th 🏆Champ SLUŽBY, CENNÍK 📩👉
     location: "Indonesia"
-    followers: 3539684
-    engagement: 366
-    commentsToLikes: 0.010758
-    id: ck14h0snc7yzc0i19mksznpm0
-    verified: true
-    hashtags: "#goyangtingtingalague, #snackvideo, #snackvideoindonesia, #snackvideoapp"
-  - username: "yuliabaltschun"
-    fullname: >-
-      Yulia Baltschun
-    bio: >-
-      🍍BUSSINES CONTACT WA : 081 299 899 102 . 📍Bali Mom Of 2 Happy Boys Certified FITNESS & DIET Specialist TOP 3 Masterchef-Indo 4 . YOUTUBE :
-    location: "Indonesia"
-    followers: 629375
-    engagement: 264
-    commentsToLikes: 0.014239
-    id: ck135lvz9222w0i19ujfq8zkp
-    verified: true
-    hashtags: "#dietyulia, #tipsdiet, #ihatediet, #motivasihidup"
-  - username: "dino.azizie"
-    fullname: >-
-      EAGLE 93’s
-    bio: >-
-      👑 Young King W Big Dreams 👑 @sis.aestheticcentre ambassador FITNESS TRAINER/MODEL COWAY HQ (CS TEAM)
-    location: "Indonesia"
-    followers: 29986
-    engagement: 320
-    commentsToLikes: 0.030129
-    id: ck9wou9bp6mde0j78rw3lpyle
+    followers: 39675
+    engagement: 356
+    commentsToLikes: 0.010760
+    id: ck0vx5ksfx8zw0i19vhqju03o
     verified: false
-    hashtags: "#syaza4iman, #akuyangpanic, #hunterestd2019, #brand"
-  - username: "wachclaude"
-    fullname: >-
-      
-    bio: >-
-      TEAM 🅂🄲🄸🅃🄴🄲 ɴᴜᴛʀɪᴛɪᴏɴ F͟I͟T͟N͟E͟S͟S͟G͟I͟R͟L͟, C͟O͟M͟M͟U͟N͟I͟T͟Y͟ M͟A͟N͟A͟G͟E͟R͟, B͟L͟O͟G͟G͟E͟U͟S͟E͟
-    location: "Indonesia"
-    followers: 27195
-    engagement: 220
-    commentsToLikes: 0.041622
-    id: ck5zyadrm9ioa0i14sj2vp53m
-    verified: false
-    hashtags: "#fit, #motivation, #wachclaude, #tattoo"
-  - username: "pavel_tl"
-    fullname: >-
-      👑 PAVEL 👑
-    bio: >-
-      PAVEL TLUSTOŠ 📍#CZECH / #PRAGUE ▪️#Fitness 💪🏻 / #Travel 🌍/ #Fashion 📸 ▪️ DM 📩 paveltl@centrum.cz
-    location: "Indonesia"
-    followers: 63401
-    engagement: 414
-    commentsToLikes: 0.014890
-    id: ck0u9stviajqr0i19editvkyy
-    verified: false
-    hashtags: "#trip, #malemodel, #gay, #greece"
+    hashtags: "#muscle, #fitnessmom, #onlinecoaching, #nutritioncoach"
   - username: "bodybuilder.id"
     fullname: >-
       Bodybuilder.id
     bio: >-
-      Indonesian bodybuilder 🇮🇩 capturing the best moment Fitness Photography Photoshoot and Endorsement/Paid Promote..DM📞 ⏬watch & subscribe our channel
+      Indonesian bodybuilder 🇮🇩 capturing the best moment Fitness Photography Photoshoot and Endorsement/Paid Promote..DM📞
     location: "Indonesia"
-    followers: 30273
-    engagement: 174
-    commentsToLikes: 0.016412
+    followers: 37568
+    engagement: 197
+    commentsToLikes: 0.009269
     id: ck5pvuhiajp310i11wdji6qsm
     verified: false
-    hashtags: "#bodygoal, #menshealth, #fitnessmania, #gymmotivation"
+    hashtags: "#fitnessmotivation, #muscle, #bodybuilding, #fitness"
+  - username: "yusufhendratnoo"
+    fullname: >-
+      Yusuf Hendratno | Aspire To Inspire
+    bio: >-
+      🏆| BA @mutant.idn 💼| Model - Content Creator - Digital Preneur 🎓| Fitness & Nutrition Coach @fitnwell.101 📧 Email for job & inquiries
+    location: "Indonesia"
+    followers: 298013
+    engagement: 161
+    commentsToLikes: 0.017797
+    id: ck13cwlks2iqg0i19ybxtc9v4
+    verified: false
+    hashtags: "#fitness, #workout, #trip, #lifestyle"
+  - username: "paul_cassidy_real"
+    fullname: >-
+      Nikolas Levicky
+    bio: >-
+      My other name is blondiepaul 😜 Traveling, fitness, health 🦁
+    location: "Indonesia"
+    followers: 766935
+    engagement: 161
+    commentsToLikes: 0.014345
+    id: ck6uihgm3f40i0j71dq3kknlt
+    verified: false
+    hashtags: "#collabweek"
+  - username: "claritanancy"
+    fullname: >-
+      Nancy Margaretha Rumahorbo
+    bio: >-
+      Fitness | lifestyle 📍Bandung based #generasikulitsehat with @npureofficial BA : @brandor.stock for business inquiries DM/Email
+    location: "Indonesia"
+    followers: 13586
+    engagement: 147
+    commentsToLikes: 0.051445
+    id: ck6u7qbv9n1lj0j71o7dl632t
+    verified: false
+    hashtags: "#gymlifestyle, #instajam, #cover, #gymgirl"
+  - username: "yuliabaltschun"
+    fullname: >-
+      Yulia Baltschun
+    bio: >-
+      2,4M ON YOUTUBE Healthy Skin with @npureofficial 📍Bali Business WA : 081 299 899 102 Certified FITNESS & DIET Educator Mom of 2
+    location: "Indonesia"
+    followers: 929427
+    engagement: 131
+    commentsToLikes: 0.048626
+    id: ck135lvz9222w0i19ujfq8zkp
+    verified: true
+    hashtags: "#dietsehat, #diet, #fatloss, #resolusi2024"
 ---

@@ -1,12 +1,24 @@
 ---
-title: Top 10 Instagram Influencers In Milan In 2023
+title: Top 10 Instagram Influencers In Milan In 2024
 description: >-
-  Find top Instagram influencers in Milan in 2023. Most popular hashtags: #makeup #pridemonth #eyeliner.
+  Find top Instagram influencers in Milan in 2024. Most popular hashtags: #adv #compleanno #reels.
 platform: Instagram
-hits: 2574
-text_top: See the most popular Instagram profiles on inBeat.
-text_bottom: Our platform aggregates 2574 Instagram influencers like this in Milan, Italy for you to contact.
+hits: 2821
+text_top: See the best Instagram influencers on inBeat.
+text_bottom: Our database holds 2821 Instagram influencers like this in Milan, Italy for you to collaborate.
 profiles:
+  - username: "noemidelp"
+    fullname: >-
+      Noemi Del Prete
+    bio: >-
+      Milan
+    location: "Italy"
+    followers: 172408
+    engagement: 78
+    commentsToLikes: 0.013353
+    id: ck5ho1zgiose60i11eqr08c5w
+    verified: false
+    hashtags: "#centroilcentro, #ilcentrodiarese, #adv"
   - username: "angel.mcqueen"
     fullname: >-
       Angel McQueen
@@ -19,112 +31,100 @@ profiles:
     id: ckap1dgm1u4aa0i78c2mfpwxd
     verified: false
     hashtags: "#makeup, #eyeliner, #pokemon, #pokemonmakeup"
-  - username: "_andreacimatti"
+  - username: "glowyale"
     fullname: >-
-      A N D R E A  C I M A T T I
+      alessia 💐 beauty content creator
     bio: >-
-      21, Milan Pro Make-Up Artist Beauty Content Creator 𝘽𝙐𝙎𝙄𝙉𝙀𝙎𝙎: andreacimatti01@gmail.com or DM
+      🥛 always trying a new milky toner 🎀 all things beauty and self love 🌿 based in milan, italy ✉️ glowyale@gmail.com
     location: "Italy"
-    followers: 39030
-    engagement: 783
-    commentsToLikes: 0.032357
-    id: ck5zzrcpgca7b0i14bzggkci5
+    followers: 8479
+    engagement: 1298
+    commentsToLikes: 0.312602
+    id: cl3w8ysxbcea60i230asfwnan
     verified: false
-    hashtags: "#summermakeup, #pridemonth, #prideseries, #christmasmakeup"
-  - username: "conamoreesquallore"
+    hashtags: "#beautyofjoseonsunscreen, #reliefsun, #medicubeambassdor, #medicube"
+  - username: "mickel_bura"
     fullname: >-
-      Ilenia
+      Mickel Buratin
     bio: >-
-      Racconto #librini📚(ora #mattoninglesi) Scrivo e parlo al microfono di #Malalingua Vivo a Milano, vado al mare a Catania Tutti i link ⤵️
+      Professional Photographer 📸 / Videomaker 🎥 - Content Creator / Social Media Manager 💻 Represented by: @beyondoceansagency - Tiktok: +710K 📍Milan 🇮🇹
     location: "Italy"
-    followers: 60955
-    engagement: 584
-    commentsToLikes: 0.004159
-    id: ckaoytfkmizyj0i78tcy4kjtx
+    followers: 72902
+    engagement: 1285
+    commentsToLikes: 0.013921
+    id: ck8szsxfupldt0j78vvjkvw7z
     verified: false
-    hashtags: "#aroundsicily, #paris, #zelfie, #cicilia"
-  - username: "alessandroorati"
+    hashtags: "#fotografo, #bali, #evitalefotodaboomer, #posesbiker"
+  - username: "tommycassi"
     fullname: >-
-      Alessandro Orati
+      Tommaso Cassissa
     bio: >-
-      Milano • 🌐Content Creator •💄Makeup Artist Youtube/TikTok: Alessandro Orati Collab: ale.orati@outlook.it Makeup / Hair (on request) ↓ ALL MY INFO ↓
+      Ligure laureato attore e creator professionINSTA. Aspirante power ranger. tommaso.cassissa@newco-mgmt.com👨🏻‍💻 #ForbesUnder30 🇮🇹 @milanocortina2026
     location: "Italy"
-    followers: 23240
-    engagement: 309
-    commentsToLikes: 0.011805
-    id: ck5hga6ly1q5e0i116idud8kh
-    verified: false
-    hashtags: "#gaypride, #ootd, #gay, #pridemonth"
-  - username: "camihawke"
-    fullname: >-
-      Camihawke
-    bio: >-
-      La pasta al forno è il mio unico credo. Info&tavoli: Camihawke/Show-Reel Media Group Via G.Candiani 127 Milano Cose varie mostrate qui su istagra⬇️
-    location: "Italy"
-    followers: 1380856
-    engagement: 457
-    commentsToLikes: 0.005365
-    id: ck0tvdqo9b02e0i19e5ti3m7e
+    followers: 1441297
+    engagement: 530
+    commentsToLikes: 0.003424
+    id: ck8wekwp3e7j00j78h7humxz7
     verified: true
-    hashtags: "#herewithme, #esselunga, #adv, #untouchable"
-  - username: "libriamociblog"
+    hashtags: "#reels, #adv, #divertente, #portafoglio"
+  - username: "paulferrari89"
     fullname: >-
-      Chiara Boniardi & Matteo Taino
+      Paul Ferrari
     bio: >-
-      📚 Leggiamo libri 📸 Fotografiamo libri 👫 Scriviamo sul blog 🧳 Intanto programmiamo viaggi 📌 Milano 🔎#readchristie2022 📚#alfalibro #maggiodautore
+      📌Milan “Molto desidera l’uomo, eppur sol di poco ha bisogno.”
     location: "Italy"
-    followers: 67628
-    engagement: 188
-    commentsToLikes: 0.047642
-    id: ck0vw5eqvs6n40i190750ejgl
+    followers: 55563
+    engagement: 562
+    commentsToLikes: 0.028176
+    id: ckaouqaft1chk0i78r2xgte9x
     verified: false
-    hashtags: "#romance, #ticonsigliounlibro, #book, #bookstagramitalia"
-  - username: "mirko1704"
+    hashtags: "#artnouveau, #montmartre, #mybirthday, #29yearsofnima"
+  - username: "colorlampone"
     fullname: >-
-      Mirko Salvetti
+      👩🏻‍🍳 Federica | Il mio blog di pasticceria moderna
     bio: >-
-      🙋🏽‍♂️ DETAILS MAKE THE DIFFERENCE 🇮🇹 CEO of @watchmdiamond ⌚️Ⓜ️💎 📍W M D² MILANO 📍W M D COMING SOON 📍. . . Copy me if you can 🙋🏽‍♂️
+      📍Milano🇮🇹 👷🏻‍♀️dal lunedì al venerdì;👩🏻‍🍳 nel weekend! 🍰Ricette di pasticceria moderna e non solo! 👇🏼Blog, altri social, canale YouTube e Amazon Shop:
     location: "Italy"
-    followers: 243603
-    engagement: 153
-    commentsToLikes: 0.022630
-    id: ck13bp11iwh2x0i1923huenrj
+    followers: 83389
+    engagement: 1003
+    commentsToLikes: 0.021298
+    id: clqsheawe07cy0k08gijjrm0s
     verified: false
-    hashtags: "#ilovemyjob"
-  - username: "selvaggialucarelli"
+    hashtags: "#dessert, #ricetta, #pasticceria, #dolce"
+  - username: "lucasalvadoriofficial"
     fullname: >-
-      Selvaggia Lucarelli
+      Luca Salvadori
     bio: >-
-      Italian journalist and gattara. Books. Tv. Podcast. Travels. I take pictures. J'aime la querelle. Milan. selvaggialucarelli@gmail.com
+      Pro rider living in Milan🇮🇹 4x🥈1x🥇National Champ Sometimes i make good videos 480K+YT📹 I miei social⬇️
     location: "Italy"
-    followers: 1260383
-    engagement: 149
-    commentsToLikes: 0.063002
-    id: ck55mn9554brk0i11mq1t83rm
-    verified: true
-    hashtags: "#nepal, #seoul, #palermo, #corea"
-  - username: "tamara"
-    fullname: >-
-      Tamara Kalinic
-    bio: >-
-      <<TIMES Top 100 Influencers>> 📍London - Paris - Milano TikTok @tamara 💌 Tamara@theglamandglitter.com
-    location: "Italy"
-    followers: 1390692
-    engagement: 134
-    commentsToLikes: 0.006621
-    id: ck0vykqbt4him0i19kocwjjpf
-    verified: true
-    hashtags: "#lvxyayoikusama, #jimmychoosnow, #openthewonder, #swarovski"
-  - username: "vincenzocornacchione"
-    fullname: >-
-      Vincenzo_Cornacchione 🇮🇹
-    bio: >-
-      PR & Communication Director @byryber Digital Manager @vmc.project Vincenzo@byryber.com Milan
-    location: "Italy"
-    followers: 34038
-    engagement: 110
-    commentsToLikes: 0.010808
-    id: ck0w55e0g1z9g0i19dg619hiv
+    followers: 394587
+    engagement: 2260
+    commentsToLikes: 0.005116
+    id: ck5qaguf7gbvu0i11nh1c3dm1
     verified: false
-    hashtags: "#vibes, #summervibes, #sunset, #greece"
+    hashtags: "#malossiracing, #eicma, #broncosracing, #ducativ4s"
+  - username: "stefanomaiolica"
+    fullname: >-
+      Stefano Maiolica
+    bio: >-
+      ☀️Un terrone a Milano 🧳Vi racconto la Generazione Fuorisede 🥃 CEO of @chupitoagency 📩collab: stefano@chimeragency.it
+    location: "Italy"
+    followers: 277713
+    engagement: 445
+    commentsToLikes: 0.023673
+    id: ck55ooteq8sw20i11wm954sai
+    verified: false
+    hashtags: "#fuorisede, #30anni, #milano, #galatina"
+  - username: "novakkk"
+    fullname: >-
+      Alex Molina
+    bio: >-
+      Italian 🦂 Berlin + Milan
+    location: "Italy"
+    followers: 79617
+    engagement: 784
+    commentsToLikes: 0.009674
+    id: ck55q32x0bz730i116kjfrkdd
+    verified: false
+    hashtags: "#louisgabrielnouchi"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Athletes TikTok Influencers In Dallas In 2023
+title: Top 10 Athletes TikTok Influencers In Dallas In 2024
 description: >-
-  Find top athletes TikTok influencers in Dallas in 2023. Most popular hashtags: #fyp #viral #greenscreen #foryou.
+  Find top athletes TikTok influencers in Dallas in 2024. Most popular hashtags: #fyp #viral #greenscreen #funny.
 platform: TikTok
 hits: 10
-text_top: See the best TikTok influencers on inBeat.
-text_bottom: Our database has 10 TikTok influencers like this in Dallas, United States for you to connect with.
+text_top: Analyze the best TikTok profiles on inBeat.
+text_bottom: Our platform holds 10 TikTok influencers like this in Dallas, United States for you to work with.
 profiles:
   - username: "itscap10morgan"
     fullname: >-

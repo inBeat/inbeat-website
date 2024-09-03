@@ -1,11 +1,11 @@
 ---
-title: Top 10 Fashion TikTok Influencers In Medellín In 2023
+title: Top 10 Fashion TikTok Influencers In Medellín In 2024
 description: >-
-  Find top fashion TikTok influencers in Medellín in 2023. Most popular hashtags: #foryou #fashion #parati #fyp.
+  Find top fashion TikTok influencers in Medellín in 2024. Most popular hashtags: #foryou #fashion #parati #colombia.
 platform: TikTok
 hits: 4
-text_top: Identify the best TikTok influencers on inBeat.
-text_bottom: inBeat aggregates 4 TikTok influencers like this in Medellín, Colombia for you to pitch.
+text_top: Discover the best TikTok accounts on inBeat.
+text_bottom: Our database aggregates 4 TikTok influencers like this in Medellín, Colombia for you to contact.
 profiles:
   - username: "soykatte"
     fullname: >-
@@ -126,5 +126,5 @@ profiles:
     commentsToLikes: 0.043841
     id: ckbfflvvbadwu0j23snqwup8w
     verified: true
-    hashtags: "#foryou, #skincare, #fyp, #beauty"
+    hashtags: "#marrebeauty, #fyp, #skincare, #beauty"
 ---

@@ -1,12 +1,36 @@
 ---
-title: Top 10 Mothers Instagram Influencers In Barcelona In 2023
+title: Top 10 Mothers Instagram Influencers In Barcelona In 2024
 description: >-
-  Find top mothers Instagram influencers in Barcelona in 2023. Most popular hashtags: #art #makeup #barcelona.
+  Find top mothers Instagram influencers in Barcelona in 2024. Most popular hashtags: #barcelona #makeup #love.
 platform: Instagram
-hits: 6
-text_top: See the top-rated Instagram accounts on inBeat.
-text_bottom: Our database aggregates 6 Instagram influencers like this in Barcelona, Spain for you to contact.
+hits: 8
+text_top: Analyze the top-rated Instagram influencers on inBeat.
+text_bottom: Our platform holds 8 Instagram influencers like this in Barcelona, Spain for you to connect with.
 profiles:
+  - username: "justinagafaro"
+    fullname: >-
+      JUSTINA GAFARO
+    bio: >-
+      founder of @gafaro.beautyhouse creator of @bygafaro cosmetics made in EU www.gafaro.com
+    location: "Spain"
+    followers: 56909
+    engagement: 24
+    commentsToLikes: 0.034546
+    id: ck5zkmuzhjrmh0i14f7ynu3cl
+    verified: false
+    hashtags: "#loveofmylife, #sister, #dubai, #thelanadubai"
+  - username: "tatianakisiel"
+    fullname: >-
+      TATIANA KISIEL
+    bio: >-
+      mother agency @unomodels tiktok +120k | barcelona tatianakisiel@unomodels.com
+    location: "Spain"
+    followers: 46587
+    engagement: 96
+    commentsToLikes: 0.014074
+    id: ck6ufk5shxjfc0j71qtttf1ed
+    verified: false
+    hashtags: "#restaurantesbarcelona, #crueltyfree, #babylights, #balayage"
   - username: "juandresvera_dmt"
     fullname: >-
       Juandres Vera DMT
@@ -18,7 +42,7 @@ profiles:
     commentsToLikes: 0.075992
     id: ck15sj3imd9iv0i19m3wq0p1t
     verified: false
-    hashtags: "#mural, #3dart, #painting, #streetart"
+    hashtags: "#art, #artist, #3d, #brush"
   - username: "kiwibravo"
     fullname: >-
       🥝 Kiwi Bravo 🥝
@@ -31,6 +55,18 @@ profiles:
     id: ck15q4hmf121q0i19bji7er5q
     verified: false
     hashtags: "#artdirection, #graphicdesign, #princess, #premislaus2020"
+  - username: "the.brown.gypsy"
+    fullname: >-
+      Mousam Jigar🌸
+    bio: >-
+      फिर से उड़ चला🦋 | 🧿 Surat / Ahmedabad, India📍
+    location: "Spain"
+    followers: 21828
+    engagement: 604
+    commentsToLikes: 0.011793
+    id: cldob9ot0xiff0j08jqptage5
+    verified: false
+    hashtags: "#model, #outfitinspo, #italy, #tradition"
   - username: "donmashelen"
     fullname: >-
       Don+Helen Photographers
@@ -42,7 +78,7 @@ profiles:
     commentsToLikes: 0.045413
     id: ck5cj6e0ou2n90i1125cqhptb
     verified: false
-    hashtags: "#beachwedding, #stylemepretty, #theknot, #engagementphotos"
+    hashtags: "#forevermagazine, #groom, #destinationweddingphotographer, #photography"
   - username: "marmonart_"
     fullname: >-
       María Rueda ✨
@@ -54,19 +90,7 @@ profiles:
     commentsToLikes: 0.043786
     id: ck6u5wygmc8en0j71p7twgk9t
     verified: false
-    hashtags: "#art, #painting, #fyp, #makeupartist"
-  - username: "sr_zeta"
-    fullname: >-
-      Carlos Marín - Señor Zeta️️
-    bio: >-
-      Half human, half photographer. Look, feel, shoot 👽 📍· Barcelona / Marte 🤷🏻‍♂️· Other profile: @zetita_raw 📷· Último vídeo de YOUTUBE 👇🏻
-    location: "Spain"
-    followers: 526943
-    engagement: 431
-    commentsToLikes: 0.017789
-    id: ck0u9bku59hok0i199t8l7s1r
-    verified: false
-    hashtags: "#analogphotography, #35mmfilm, #analog, #brindoporello"
+    hashtags: "#painting, #makeup, #colombia, #vacation"
   - username: "sofiazbv"
     fullname: >-
       Sofia Zuluaga
@@ -79,52 +103,28 @@ profiles:
     id: ck8t0c71xrki70j78tkrkuc6g
     verified: false
     hashtags: "#latinamericanart, #artelatinoamericano, #sofiazbv, #2020artpiece"
-  - username: "lacasitademara"
+  - username: "lorenalopezdo"
     fullname: >-
-      
+      L o r e n a  L ó p e z
     bio: >-
-      Mother❣️ África 👧🏻 & Emily 👧🏻 ☕️ Slow breakfast ✨ 🌿DIY ✉️ info lacasitademara@gmail.com 🎶Playlist Spotify 👉🏻 Lacasitademara
+      mother of two 🐥🐣 👰🏻‍♀️ @juanmi9395 Forever young 💗 Malaga | Sevilla | Spain
     location: "Spain"
-    followers: 66005
-    engagement: 222
-    commentsToLikes: 0.051372
-    id: ck13d06sv30ja0i194vwvcfoa
+    followers: 9365
+    engagement: 887
+    commentsToLikes: 0.024081
+    id: ckw51fnt8ifnb0j23wyrp0plm
     verified: false
-    hashtags: "#instadesign, #bohemianinterior, #interior4you, #sharemystyle"
-  - username: "misschloe.and.i"
+    hashtags: "#weekendesk, #dailytravel, #halloween2021, #nohabiasubidofotos"
+  - username: "leannemoorefitness"
     fullname: >-
-      s i m o n a 🌻
+      Leanne Moore Behan
     bio: >-
-      wife • mother living in Madrid, Spain contact | misschloe.business@yahoo.com
+      Motherhood 👸🏼👸🏼/ Fitness / Wellness / Food! Co-owner @gogymfitness_ie Online Classes @liftbyleanne
     location: "Spain"
-    followers: 17394
-    engagement: 168
-    commentsToLikes: 0.067435
-    id: ck0u6969e1bwf0i19ugkf5oma
-    verified: false
-    hashtags: "#4monthsold, #madeinspain, #shoes, #camposdelavanda"
-  - username: "faith__johnson"
-    fullname: >-
-      Faith Johnson
-    bio: >-
-      Mother Agency: @bossmodelsjhb 🇿🇦 Capetown: @bossmodelsa @studio_paris_mgmt 🇫🇷 @placemodels @generation.models 🇪🇸
-    location: "Spain"
-    followers: 3897
-    engagement: 1335
-    commentsToLikes: 0.061105
-    id: ckf5ln8xzq61g0j23sf4cz6gj
-    verified: false
-    hashtags: "#endpolicebrutality, #endsarsbrutality, #repost, #reformnigeria"
-  - username: "marianoont"
-    fullname: >-
-      Mariano Ontañon
-    bio: >-
-      Argentinian model Ultra trail runner ⛰🏃🏻‍♂️ Técnico deportivo en montaña ⛰ Mother agency @nextmodels 📍🇪🇸 Madrid @unomodels
-    location: "Spain"
-    followers: 69415
-    engagement: 465
-    commentsToLikes: 0.007923
-    id: ck13axqz0spde0i198ogdt3bt
+    followers: 54311
+    engagement: 200
+    commentsToLikes: 0.021158
+    id: ck15spkfge6jm0i193e73q8o4
     verified: true
-    hashtags: "#onlyoldpeoplesaythis, #cappadocia, #mountainguide, #adventuretravel"
+    hashtags: "#fullbodyworkout, #liftteam, #workoutidea, #liftbyleanne"
 ---

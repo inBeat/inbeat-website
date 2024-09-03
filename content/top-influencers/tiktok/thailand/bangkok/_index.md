@@ -1,11 +1,11 @@
 ---
-title: Top 10 TikTok Influencers In Bangkok In 2023
+title: Top 10 TikTok Influencers In Bangkok In 2024
 description: >-
-  Find top TikTok influencers in Bangkok in 2023. Most popular hashtags: #thailand #fyp #bangkok #tiktokthailand.
+  Find top TikTok influencers in Bangkok in 2024. Most popular hashtags: #thailand #fyp #bangkok #tiktokthailand.
 platform: TikTok
-hits: 51
-text_top: See the top-rated TikTok profiles on inBeat.
-text_bottom: Our database holds 51 TikTok influencers like this in Bangkok, Thailand for you to contact.
+hits: 50
+text_top: Discover the best TikTok accounts on inBeat.
+text_bottom: Our search engine has 50 TikTok influencers like this in Bangkok, Thailand for you to pitch.
 profiles:
   - username: "martinbravobkk"
     fullname: >-
@@ -66,7 +66,7 @@ profiles:
     commentsToLikes: 0.040158
     id: cka5z8kq6lljr0i78himqxnof
     verified: false
-    hashtags: "#duet, #phuket, #foryou, #thailand"
+    hashtags: "#tiktokthailand, #tiktok, #viral, #foryou"
   - username: "kanonzel_"
     fullname: >-
       Kanon🤍🦩🧃
@@ -114,7 +114,7 @@ profiles:
     commentsToLikes: 0.068001
     id: ck8qncm2du17e0j786xa1vfzn
     verified: false
-    hashtags: "#luxury, #phuket, #tiktokthailand, #foryoupage"
+    hashtags: "#chiangmai, #foryoupage, #thailand, #fyp"
   - username: "teppenbkk"
     fullname: >-
       Teppenbangkok 🇹🇭

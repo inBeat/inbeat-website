@@ -1,130 +1,130 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Italy In 2023
+title: Top 10 Beauty Instagram Influencers In Italy In 2024
 description: >-
-  Find top beauty Instagram influencers in Italy in 2023. Most popular hashtags: #makeup #nablacosmetics #makeuptutorial #summermakeup.
+  Find top beauty Instagram influencers in Italy in 2024. Most popular hashtags: #makeup #adv #outfitinspiration.
 platform: Instagram
-hits: 3072
-text_top: See the top-rated Instagram profiles on inBeat.
-text_bottom: Our database has 3072 Instagram influencers like this in Italy for you to connect with.
+hits: 3352
+text_top: See the best Instagram accounts on inBeat.
+text_bottom: inBeat holds 3352 Instagram influencers like this in Italy for you to connect with.
 profiles:
-  - username: "itstheskinyourein"
+  - username: "glowyale"
     fullname: >-
-      Serena✨beauty content creator - UGC
+      alessia 💐 beauty content creator
     bio: >-
-      YOUR skin, YOUR rules ✨ Beauty enthusiast • health • lifestyle TikTok, Pinterest, discount codes and links below✨
+      🥛 always trying a new milky toner 🎀 all things beauty and self love 🌿 based in milan, italy ✉️ glowyale@gmail.com
     location: "Italy"
-    followers: 36489
-    engagement: 1556
-    commentsToLikes: 0.159760
-    id: ck8tdo5fr44kc0j78ws6cotly
+    followers: 8479
+    engagement: 1298
+    commentsToLikes: 0.312602
+    id: cl3w8ysxbcea60i230asfwnan
     verified: false
-    hashtags: "#drugstoremakeup, #christmasmakeup, #selfcaresunday, #glowymakeup"
-  - username: "_andreacimatti"
+    hashtags: "#beautyofjoseonsunscreen, #reliefsun, #medicubeambassdor, #medicube"
+  - username: "lorenasad"
     fullname: >-
-      A N D R E A  C I M A T T I
+      Loren Asad
     bio: >-
-      21, Milan Pro Make-Up Artist Beauty Content Creator 𝘽𝙐𝙎𝙄𝙉𝙀𝙎𝙎: andreacimatti01@gmail.com or DM
+      Muslim girl sharing beauty & my everyday life lorenasadbiz@gmail.com Youtube channel + links below!
     location: "Italy"
-    followers: 39030
-    engagement: 783
-    commentsToLikes: 0.032357
-    id: ck5zzrcpgca7b0i14bzggkci5
+    followers: 314077
+    engagement: 510
+    commentsToLikes: 0.008943
+    id: ckysifrgxwdmn0j233vzcqu95
     verified: false
-    hashtags: "#summermakeup, #pridemonth, #prideseries, #christmasmakeup"
-  - username: "rita.cap"
+    hashtags: "#sephorasquad, #ad, #innisfree, #olaplexroutine"
+  - username: "thewhitemelanin"
     fullname: >-
-      Rita Capparelli
+      SANCHAN | CONTENT CREATOR
     bio: >-
-      Italian based in Turin 🥀deeply in love with aesthetics beauty inquiries: rita@sparkleagency.it @thewom contributor my wardrobe ↴
+      Fashion | beauty | lifestyle | travel Having fun @huniwrld 🇳🇬 🇯🇵
     location: "Italy"
-    followers: 101850
-    engagement: 425
-    commentsToLikes: 0.006343
-    id: ck138l6upgrut0i19o4hxktfz
+    followers: 66772
+    engagement: 923
+    commentsToLikes: 0.036826
+    id: ck5hdnqz3oezp0i11osjbukbz
     verified: false
-    hashtags: "#thursday, #parisianstyle, #saturday, #friday"
-  - username: "giuliacova87"
+    hashtags: "#opporeno8t, #internationalwomensday, #darlingnigeria, #empressbraids"
+  - username: "ju1ees"
     fullname: >-
-      Giulia Cova
+      JULIA MARKIN
     bio: >-
-      ° Makeup Artist ° Skincare Specialist °Youtube:Giulia Cova Il mio canale Youtube ⬇️⬇️⬇️ #giuliacova #beauty
+      Beauty & Outfits Artist @juliamarkinbeauty 📧 ju1ees.collab@gmail.com
     location: "Italy"
-    followers: 65800
-    engagement: 162
-    commentsToLikes: 0.090539
-    id: ck5q94s459e2k0i11fj2s3xfw
+    followers: 15139
+    engagement: 610
+    commentsToLikes: 0.017483
+    id: ckap12lvqsuq00i78qg9x2o3n
     verified: false
-    hashtags: "#makeup, #unboxing, #nablacosmetics, #estate2021"
-  - username: "iamtinacriss"
+    hashtags: "#sicily, #italy, #sicilia, #taormina"
+  - username: "la_snika"
     fullname: >-
-      Cristina
+      FEDERICA RICCI
     bio: >-
-      Certified MUA @cristinamuabacau Fitness🌸fashion🌸beauty Email/DM me for collabs cristina.teacu@yahoo.co.uk 📍Romania
+      ✨FIDATY✨ Vita di una Content Creator | Beauty & Lifestyle | Faccio i Lipsync nei Reels però sono stonata TikTok: la_snika 200k Mother Of #biccizfam
     location: "Italy"
-    followers: 34113
-    engagement: 418
-    commentsToLikes: 0.103305
-    id: ckap4kvfl7qu40i787gjcc4m0
+    followers: 53911
+    engagement: 1286
+    commentsToLikes: 0.066297
+    id: ck5c3to4l01ea0i11kixjuxq7
     verified: false
-    hashtags: ""
-  - username: "evinalepotilnica"
+    hashtags: "#biccizfam, #lasnika, #vacanzeitaliane, #eastereggs"
+  - username: "carlottafiasella"
     fullname: >-
-      EVA CENTRIH | evinalepotilnica
+      Carlotta Fiasella Garbarino
     bio: >-
-      Dancing in the mall 👠 | Dancing on the Globus ✈ 📸 - Fashion | Travel | Beauty 🎬 - YouTuber 💌 - info@evinalepotilnica.si 📍SLO Founder of @lepotica.si
+      •Beauty and fashion lover! •#adayinmylife everyday🌱 •economics student in Cattolica📚 📩: management@carlottafiasella.com
     location: "Italy"
-    followers: 29291
-    engagement: 859
-    commentsToLikes: 0.014540
-    id: ck5bxmk27o02v0i112p4c2cqi
+    followers: 792057
+    engagement: 403
+    commentsToLikes: 0.001339
+    id: ck6tzzqkrcsze0j713s7sjp3u
     verified: false
-    hashtags: "#bemarrakech, #morocco, #bestpresent, #marrakech"
-  - username: "mrezababaei_photography"
+    hashtags: "#ad, #invitedby, #aniyeby, #adv"
+  - username: "biankarumanova"
     fullname: >-
-      ▪️Mohammad Reza Babaei
+      Bianka Rumanová
     bio: >-
-      📍Portrait ○○○ Fashion ○○○ Beauty ●●●●●●●●●●●●●●●●●●●●●●●●● Photograoher / Graphic Designer 📥 Dc For Work 📸 Tehran 📍
+      collab.ruman@gmail.com 🌸All about: traveling, fashion, beauty, business 🔥Founder @namurstore_sk ✨Body products >dbcosmetics.eu VLOG👇🏼 🏠 @ruman_house
     location: "Italy"
-    followers: 16075
-    engagement: 809
-    commentsToLikes: 0.110676
-    id: ck9wh0p3gvprk0j78ozld95x7
+    followers: 249939
+    engagement: 431
+    commentsToLikes: 0.003737
+    id: ck0vwacrsst4i0i19dtjhkh5p
     verified: false
-    hashtags: ""
-  - username: "mehdiabazari.picto"
+    hashtags: "#outfit, #hotsprings, #italy, #dovolenka"
+  - username: "ranhelwa"
     fullname: >-
-      © MEHDI ABAZARI
+      RANHELWA
     bio: >-
-      " Your look is valuable " Portrait and Beauty Photogragher Retoucher • Contact Via Direct
+      ▸ by Ranim Helwani | رنيم ☾ ━━━━━━━━━━━━ ▸ UGC Creator for beauty, hair & fashion ▸ Based in Berlin
     location: "Italy"
-    followers: 17504
-    engagement: 1608
-    commentsToLikes: 0.073387
-    id: ck0vzw7owb6r10i19n4b0rmqo
+    followers: 25982
+    engagement: 2237
+    commentsToLikes: 0.050123
+    id: ck0vwu37mvlsw0i19ri3534wp
     verified: false
-    hashtags: "#retouch, #retoucher, #makeup, #promotiongroup2028"
-  - username: "liquorsbeauty"
+    hashtags: "#siciliabedda, #sicilia, #ortigia, #ortigiaisland"
+  - username: "theladyxoxo"
     fullname: >-
-      Luca 🐆🇮🇹
+      Eleonora Tani
     bio: >-
-      Beauty Lover👨🏼‍🎨 Milan LIQUORSLF 25% OFF @lookfantastic.it 📩 lux.essposito90@gmail.com 👇🏼new YouTube video👇🏼
+      la tua amiga virtuale 🧸 beauty, travel, lifestyle 🪄 ✎ thelady@artisti.show-reel.it
     location: "Italy"
-    followers: 38316
-    engagement: 1139
-    commentsToLikes: 0.079511
-    id: ck138czq8fn0e0i19kkek2r3r
+    followers: 206427
+    engagement: 629
+    commentsToLikes: 0.005420
+    id: ck8t6wugkey4w0j78sh4maqw4
     verified: false
-    hashtags: "#makeupreels, #lookfantastic, #nablacosmetics, #makeupvideo"
-  - username: "sophieshohet"
+    hashtags: "#nails, #nailinspo, #nails2024, #adv"
+  - username: "bettyalecsa"
     fullname: >-
-      Sophie | Fashion, Cars, Beauty
+      Betty
     bio: >-
-      Luxury YouTuber: Fashion, Supercars, Beauty 300k on YouTube ☺️ Cars 🚘Lamborghini, Porsche, Bentley, McLaren 600LT 👇🏽MY OUTFITS
+      Beauty | Fashion | Lifestyle Daily outfits Share my outfits for your inspiration For collab email me /
     location: "Italy"
-    followers: 77467
-    engagement: 885
-    commentsToLikes: 0.204987
-    id: ck136j8w76rf50i19kmsywg59
+    followers: 24715
+    engagement: 437
+    commentsToLikes: 0.011428
+    id: cl9k31s8nixiw0i23vji8x4y3
     verified: false
-    hashtags: "#luisaviaroma, #sophieshohet, #fashion, #liketkit"
+    hashtags: "#streetstyle, #giftedby, #discoverunder20k, #explorepage"
 ---

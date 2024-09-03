@@ -1,11 +1,11 @@
 ---
-title: Top 10 TikTok Influencers In Belarus In 2023
+title: Top 10 TikTok Influencers In Belarus In 2024
 description: >-
-  Find top TikTok influencers in Belarus in 2023. Most popular hashtags: #ff #freefire #freefirethofficial.
+  Find top TikTok influencers in Belarus in 2024. Most popular hashtags: #freefire #ff #freefirethofficial.
 platform: TikTok
 hits: 160
-text_top: Analyze the best TikTok accounts on inBeat.
-text_bottom: Our search engine aggregates 160 TikTok influencers like this in Belarus for you to collaborate.
+text_top: Identify the best TikTok influencers on inBeat.
+text_bottom: Our database holds 160 TikTok influencers like this in Belarus for you to work with.
 profiles:
   - username: "loksikoksi"
     fullname: >-

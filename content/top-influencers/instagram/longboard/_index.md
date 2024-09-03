@@ -1,11 +1,11 @@
 ---
-title: Top 10 Longboard Instagram Influencers In 2023
+title: Top 10 Longboard Instagram Influencers In 2024
 description: >-
-  Find top longboard Instagram influencers in 2023. Most popular hashtags: #longboard #longboardsurf #longboarding.
+  Find top longboard Instagram influencers in 2024. Most popular hashtags: #longboard #longboarding #longboarddancing.
 platform: Instagram
-hits: 747
-text_top: Discover the top-rated Instagram accounts on inBeat.
-text_bottom: Our search engine holds 747 Instagram influencers like this for you to work with.
+hits: 786
+text_top: Identify the top-rated Instagram influencers on inBeat.
+text_bottom: Our search engine has 786 Instagram influencers like this for you to contact.
 profiles:
   - username: "longboard_universe_"
     fullname: >-
@@ -19,112 +19,112 @@ profiles:
     id: ck5q5hc0vsvm60i11g6pf5skd
     verified: false
     hashtags: "#pics, #summer, #longboarder, #fun"
-  - username: "sarawfc"
+  - username: "grospiron_zoe"
     fullname: >-
-      Sara Watanabe 🌵🌻
+      Zoé Grospiron
     bio: >-
-      Atleta de Longboard Dancing e Balance Board✨ Esportes, Humor e Lifestyle🌈 Meus videos na tag #playSaraWatanabe 📩 sarawfc@gmail.com
-    location: "Brazil"
-    followers: 20799
-    engagement: 562
-    commentsToLikes: 0.047666
-    id: ck6txd3ahx5ol0j71sbb675k9
+      French longboarder @roxy team rider Business&Management student @emlyonbschool 👩🏼‍🎓 ocean lover 🌊 happy & healthy dream 💫 believe 💫 create 💫 achieve
+    location: "France"
+    followers: 30552
+    engagement: 442
+    commentsToLikes: 0.024838
+    id: ck55p9sj0a4750i118l54612b
     verified: false
-    hashtags: ""
-  - username: "katevoynova"
+    hashtags: "#surfing, #surfer, #surfingphotography, #aquatech"
+  - username: "valeriya_gogunskaya"
     fullname: >-
-      Катя Войнова / Kate Voynova ✨
+      Valeriya Gogunskaya
     bio: >-
-      PRO LONGBOARDER | TikTok 1.4М ☀️ ⠀ ⠀ Здесь катание, любовь, творчество и позитивные сториз ⠀ Skating, fun and inspiration 🧡 ⠀ Школа: @flipnflow
-    location: "United States"
-    followers: 126902
-    engagement: 665
-    commentsToLikes: 0.012713
-    id: ck0vx2akxwsf70i19ci3xcct4
+      Woman🫀 Entrepreneur @the_longboard_camp Co-founder @the_longboard_course Longboard Camp in the south of Portugal 👇🏻
+    location: "France"
+    followers: 598728
+    engagement: 573
+    commentsToLikes: 0.011343
+    id: ck15px9k003bc0i19uch4mmhr
     verified: false
-    hashtags: "#onlinesycld2020, #nike, #lamoda"
-  - username: "heber.garcia.p"
+    hashtags: "#paris, #longboarder, #portugal, #cariuma"
+  - username: "jeff__corsi"
     fullname: >-
-      
+      Jeff Longboard
     bio: >-
-      📷 Me gusta hacer fotos 🗣Trabajador Social 👊🏻 Longboard 💻 Adobe Lightroom Classic CC
-    location: "Chile"
-    followers: 7884
-    engagement: 1241
-    commentsToLikes: 0.113078
-    id: ck6tuupkdij5e0j71wisodnt3
+      🏄‍♂️Surfing the streets 🥈World Vice Champ 2021 🥇French championship 2022 🥇 LOZ 2023 📥 Collab : jeff.longboarding@gmail.com Further / YouTube video ⬇️
+    location: "France"
+    followers: 215476
+    engagement: 4058
+    commentsToLikes: 0.016782
+    id: ck5zraxxmw8rh0i14aehlxv7u
     verified: false
-    hashtags: "#fotografoslatinos, #portraitsvisuals, #discoveryportrait, #portsworldwide"
-  - username: "blackperla18"
+    hashtags: "#parismaville, #longboarding, #longboarddancing, #sunset"
+  - username: "annsheetal"
     fullname: >-
-      fufoblackperla
+      Ann Sheetal
     bio: >-
-      FUFO, aka "Black Perla", 3 times champ Surf Longboard, silver medallist in central America pre Olympic games. LOCAL BOY, Certified SURF Instructor
-    location: "United States"
-    followers: 3399
-    engagement: 1633
-    commentsToLikes: 0.100640
-    id: ck13brbzqwsse0i19mzfofczg
-    verified: false
-    hashtags: "#surfing, #playavenao, #pedasi, #playa"
-  - username: "martinlongboard"
-    fullname: >-
-      Martin Perez
-    bio: >-
-      🏄‍♂️ ARG 💙 Longboarder Campeón Argentino 🏆X9 Latino 🏆X6 " A través de los tiempos "
-    location: "Argentina"
-    followers: 3262
-    engagement: 1180
-    commentsToLikes: 0.115135
-    id: ck0ucunu3hpql0i190ggbv356
-    verified: false
-    hashtags: "#surfcityelsalvador, #elsalvadorsurfcity, #surf, #surfing"
-  - username: "lina_ruess"
-    fullname: >-
-      Алина Рюсс
-    bio: >-
-      🌐 Moscow ▫️ Longboard prorider ▫️Tik Tok 1,2M🍋 ▫️Лонгборд школа @skate_and_chill Sponsors: Nike | Levi's | Moonshine Bear T. | Hawgs W. | SkatePro
-    location: "Russia"
-    followers: 185801
-    engagement: 475
-    commentsToLikes: 0.014892
-    id: ck5bx50lun0pm0i113fyvzwif
-    verified: false
-    hashtags: "#adobepartner, #timetouniteddreams, #benettonperfumes"
-  - username: "tulliodalpiaz"
-    fullname: >-
-      Tullio Dalpiaz
-    bio: >-
-      Atleta longboard . @bypastor.oficial @chillstrong_inc @carvasurf @boardlife.br @bullwax @suntech_gripsystem @litoral_55
-    location: "Brazil"
-    followers: 3441
-    engagement: 1380
-    commentsToLikes: 0.086454
-    id: ck5bub7d6hh510i11pp372u7c
-    verified: false
-    hashtags: "#loggers, #bullwaxfamily, #longboardclassic, #longboard4life"
-  - username: "rickydangos"
-    fullname: >-
-      Dangos
-    bio: >-
-      Skateboarder Longboarder coach @bandungskateschool Chef at @rm.pondokkapau
-    location: "Indonesia"
-    followers: 5495
-    engagement: 534
-    commentsToLikes: 0.092122
-    id: ck5zj7bqbh2nu0i14ymwhzpm5
-    verified: false
-    hashtags: "#sempatkanberkeringat, #alhamdullilah, #skateboardingisfun, #endurolife"
-  - username: "rachaeltilly"
-    fullname: >-
-      Rachael Tilly
-    bio: >-
-      Welcome to my personal online scrapbook🙂 WSL Women's Longboard World Champion Co-host of The Double-Up Podcast | @womensurf_
-    location: "United States"
-    followers: 17357
-    engagement: 435
-    commentsToLikes: 0.020469
-    id: ck0tv2msn9o7b0i195g0ykfia
+      Psalms . 23 God's child| Droner | Longboarder | Artist | Life enthusiast For queries email - alphanomegapictures@gmail.com
+    location: "India"
+    followers: 597293
+    engagement: 1100
+    commentsToLikes: 0.011473
+    id: ck0vvibl3p9ng0i19oxng7kma
     verified: true
-    hashtags: "#35mm, #jucyworld"
+    hashtags: "#travel, #mynext, #explorepage, #music"
+  - username: "roxanelds"
+    fullname: >-
+      Roxane
+    bio: >-
+      Dancing on a longboard or running the streets 🌞 Paris @paristruckco • @loadedboards
+    location: "France"
+    followers: 8577
+    engagement: 861
+    commentsToLikes: 0.040303
+    id: ck5py99hmuwti0i11ur4vqdva
+    verified: false
+    hashtags: "#orangatangwheels, #girlscanride, #riding, #running"
+  - username: "florachristin"
+    fullname: >-
+      Flora Christin Butarbutar
+    bio: >-
+      1st Indo female competitive longboard surfer Running @floraretreats to empower women 🌸 @roxy
+    location: "Indonesia"
+    followers: 42509
+    engagement: 318
+    commentsToLikes: 0.028083
+    id: ck0uacy5ybycu0i19boqmv7jv
+    verified: false
+    hashtags: "#surf, #indonesia, #roxy, #roxygirl"
+  - username: "hwamok_mermaid"
+    fullname: >-
+      화목🐠 프리다이빙•여행•위스키•롱보드•킥복싱•스팅어
+    bio: >-
+      Seoul, Korea 다이빙 14년째. 알콜 마니아와 중독 사이. 위스키와 장난감, 롱보드와 바다를 사랑하는 아가미녀(gillgirl) Scuba diving, whisky, Toys, Travel, Longboard 👇🏻유튜브에 이것저것 올리는 중
+    location: "South Korea"
+    followers: 13225
+    engagement: 310
+    commentsToLikes: 0.038738
+    id: ck6u3uewnzxwb0j71wsitb6h0
+    verified: false
+    hashtags: "#chevrolet, #royalsalute, #jeju, #trailblazer"
+  - username: "paulduvignau"
+    fullname: >-
+      𝑷𝑨𝑼𝑳 𝑫𝑼𝑽𝑰𝑮𝑵𝑨𝑼
+    bio: >-
+      Surfboards Shaper & Longboard Coach 🇫🇷 Hossegor • France 🇫🇷 @visslasurf Ambassador
+    location: "France"
+    followers: 18159
+    engagement: 449
+    commentsToLikes: 0.015698
+    id: ck5q4wj62qhz60i11504ja6pk
+    verified: false
+    hashtags: "#defender110, #overland, #overlanding, #overlandlife"
+  - username: "piccoloclemente_oficial"
+    fullname: >-
+      Piccolo Clemente Rothfuss
+    bio: >-
+      Pro Surfer–Longboard 🇵🇪 Diners Club | Reebok | Maxus | Repalsa | Sunkella | ION | @inyogo 🏆C. Mundial x3 🏆C. Sudamericano x5 🥇JJ.PP. Lima19 🗣️Speaker
+    location: "Peru"
+    followers: 54880
+    engagement: 286
+    commentsToLikes: 0.031087
+    id: ck6u90x1yuu960j71hgok62es
+    verified: true
+    hashtags: "#modosostenible, #togetherbelong, #modoper, #vamospormas"
 ---

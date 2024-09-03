@@ -1,11 +1,11 @@
 ---
-title: Top 10 Bloggers TikTok Influencers In United States In 2023
+title: Top 10 Bloggers TikTok Influencers In United States In 2024
 description: >-
-  Find top bloggers TikTok influencers in United States in 2023. Most popular hashtags: #fyp #foryou #duet #fashion.
+  Find top bloggers TikTok influencers in United States in 2024. Most popular hashtags: #fyp #foryou #duet #foryoupage.
 platform: TikTok
-hits: 196
-text_top: Identify the most popular TikTok influencers on inBeat.
-text_bottom: inBeat has 196 TikTok influencers like this in United States for you to pitch.
+hits: 194
+text_top: See the best TikTok accounts on inBeat.
+text_bottom: inBeat holds 194 TikTok influencers like this in United States for you to collaborate.
 profiles:
   - username: "joeynjasmin"
     fullname: >-
@@ -30,7 +30,7 @@ profiles:
     commentsToLikes: 0.107278
     id: ckb9l759odil60j23jr58e09v
     verified: false
-    hashtags: "#blackmenwithstyle, #over40tiktok, #fitover40, #weightlossjourney"
+    hashtags: "#fitover40, #weightlossjourney, #tiktokover40, #over40tiktok"
   - username: "roseybeeme"
     fullname: >-
       roseybeeme
@@ -42,7 +42,7 @@ profiles:
     commentsToLikes: 0.018203
     id: ckbkt9b67o7b90j2365lztfrp
     verified: false
-    hashtags: "#plussize, #freefreedance, #plussizeedition, #plussizestyle"
+    hashtags: "#plussizestyle, #freefreedance, #plussize, #plussizeedition"
   - username: "espressofied"
     fullname: >-
       espressofied
@@ -114,7 +114,7 @@ profiles:
     commentsToLikes: 0.041986
     id: ck8j6d4ub980r0j78wkbrd817
     verified: false
-    hashtags: "#nyc, #model, #newyork, #fyp"
+    hashtags: "#tbt, #fashion, #fyp, #nyc"
   - username: "carissa.stephens"
     fullname: >-
       Carissa Stephens

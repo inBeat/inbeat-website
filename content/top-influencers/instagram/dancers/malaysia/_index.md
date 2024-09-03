@@ -1,12 +1,48 @@
 ---
-title: Top 10 Dancers Instagram Influencers In Malaysia In 2023
+title: Top 10 Dancers Instagram Influencers In Malaysia In 2024
 description: >-
-  Find top dancers Instagram influencers in Malaysia in 2023. Most popular hashtags: #selfie #love #music #2021.
+  Find top dancers Instagram influencers in Malaysia in 2024. Most popular hashtags: #dance #throwback #taipei #ootd.
 platform: Instagram
-hits: 10
-text_top: Identify the top-rated Instagram profiles on inBeat.
-text_bottom: Our search engine holds 10 Instagram influencers like this in Malaysia for you to pitch.
+hits: 13
+text_top: See the top-rated Instagram profiles on inBeat.
+text_bottom: Our platform holds 13 Instagram influencers like this in Malaysia for you to connect with.
 profiles:
+  - username: "krystonyang"
+    fullname: >-
+      Kryston 温杨
+    bio: >-
+      📍KL 00’s @goxuan Radio Announcer🎤 【GOXUAN三局三连冠】10am-1pm Host｜Dancer｜Singer｜Actor｜Athlete @te3n.official @pumasportstyle 📮: jacee.dreamax@gmail.com
+    location: "Malaysia"
+    followers: 35766
+    engagement: 877
+    commentsToLikes: 0.023744
+    id: clm70amw1ghd30j08ew9f2r4h
+    verified: false
+    hashtags: "#guy, #goxuan, #challenge, #drama"
+  - username: "joycebii"
+    fullname: >-
+      yangyang
+    bio: >-
+      #YouTuber #Actress #beauty #Dancer Sponsorship / collaboration kindly DM insta 🎬 YouTube - - joycebii
+    location: "Malaysia"
+    followers: 42802
+    engagement: 153
+    commentsToLikes: 0.006657
+    id: ck5zvth3p4vn00i14uxdu939n
+    verified: false
+    hashtags: "#girl, #shortpants, #sixpack, #satuday"
+  - username: "mabel_goo"
+    fullname: >-
+      💓MabeL。
+    bio: >-
+      Flight Attendant 🛫 ∥ Dancer 💃🏻 ∥ BA (Hons) Business Ad. 🎓 For work : 📧 mabelgoo@caysmediagroup.com @cays_media
+    location: "Malaysia"
+    followers: 270868
+    engagement: 143
+    commentsToLikes: 0.006248
+    id: ck5c8ka579o5n0i110szvm3hw
+    verified: false
+    hashtags: "#cosasunited, #cabincrew, #hokkaido, #layover"
   - username: "mariannnela"
     fullname: >-
       MARIANNELA CATAÑO
@@ -19,42 +55,6 @@ profiles:
     id: ck5pvnw09isl90i11eydxy2uh
     verified: false
     hashtags: "#deliberatecreator, #mariannelacatan, #myyogajourney, #campechemexico"
-  - username: "joycebii"
-    fullname: >-
-      yangyang
-    bio: >-
-      #YouTuber #Actress #beauty #Dancer Sponsorship / collaboration kindly DM insta 🎬 YouTube - - joycebii My Latest video
-    location: "Malaysia"
-    followers: 40687
-    engagement: 396
-    commentsToLikes: 0.007106
-    id: ck5zvth3p4vn00i14uxdu939n
-    verified: false
-    hashtags: "#dwinmy, #danielwellington, #dwmalaysia, #lijinghere"
-  - username: "kyufy"
-    fullname: >-
-      Emma Lia
-    bio: >-
-      No Game No Life ~ Gamer 🎮 | Youtuber 💻 | Caster 🎧 | Dancer 💃 Email : arctic.kyufy@gmail.com Link Youtube🔽
-    location: "Malaysia"
-    followers: 7486
-    engagement: 1679
-    commentsToLikes: 0.101692
-    id: ckap5jrnrbzxn0i78babthv9s
-    verified: false
-    hashtags: "#cewekgamer, #mlbb, #nekomimi, #ff"
-  - username: "mabel_goo"
-    fullname: >-
-      💓MabeL。
-    bio: >-
-      Flight Attendant 🛫 ∥ Dancer 💃🏻 ∥ BA (Hons) Business Ad. 🎓 Chinese - Christian ✞ For work : ✉ mabelgoo24@gmail.com
-    location: "Malaysia"
-    followers: 232298
-    engagement: 324
-    commentsToLikes: 0.010924
-    id: ck5c8ka579o5n0i110szvm3hw
-    verified: false
-    hashtags: "#shopee22cnysale, #shopeemy1212, #shopeebirthdaysale, #stayhome"
   - username: "porschacoleman"
     fullname: >-
       Porscha Coleman
@@ -91,6 +91,18 @@ profiles:
     id: ck5zpqestt59i0i14kk46afcx
     verified: false
     hashtags: "#stayathome, #kowacheexjdsportsmy, #kitamestimenang, #withme"
+  - username: "hi.lmi"
+    fullname: >-
+      ℌ𝖎𝖑𝖒𝖎 🇲🇾
+    bio: >-
+      @zeppoyoungsterz |📍🇲🇾 KUL 👨🏻‍🎓: Diploma in Dance (2022) Bachelors in Dance (performance) 🔜 Any business inquiries 📩: hilmibs116@gmail.com
+    location: "Malaysia"
+    followers: 15581
+    engagement: 133
+    commentsToLikes: 0.035388
+    id: ck9wd4oume1ti0j78eycnf0ec
+    verified: false
+    hashtags: "#calpismy, #333, #calpisdancetofame, #sp"
   - username: "abaotw"
     fullname: >-
       ABAO_阿爆(阿仍仍)
@@ -115,16 +127,4 @@ profiles:
     id: ck6tzovzaazi00j71dakm8h5m
     verified: false
     hashtags: "#funk, #friday, #phddancecrew, #iplockers"
-  - username: "jozeyjane"
-    fullname: >-
-      🎶JozeyJane 🎤
-    bio: >-
-      Singer/ Songwriter #Texas Tv Co-Host “The Most Wanted List” Actress 🎬 @pageparkescorp & @uaagency ALBUM AVAILABLE NOW! “Dead End Road” ✨
-    location: "Malaysia"
-    followers: 7723
-    engagement: 395
-    commentsToLikes: 0.039890
-    id: ck5q3dxr9kcjk0i11dle0o2ij
-    verified: false
-    hashtags: "#toddler, #peace, #gonetoosoon, #joy"
 ---

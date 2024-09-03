@@ -1,11 +1,11 @@
 ---
-title: Top 10 Yoga Instagram Influencers In Berlin In 2023
+title: Top 10 Yoga Instagram Influencers In Berlin In 2024
 description: >-
-  Find top yoga Instagram influencers in Berlin in 2023. Most popular hashtags: #yogateacher #berlin #yoga #achtsamkeit.
+  Find top yoga Instagram influencers in Berlin in 2024. Most popular hashtags: #yogateacher #yogaberlin #yoga #berlin.
 platform: Instagram
-hits: 49
-text_top: See the top-rated Instagram influencers on inBeat.
-text_bottom: inBeat holds 49 Instagram influencers like this in Berlin, Germany for you to pitch.
+hits: 78
+text_top: See the most popular Instagram accounts on inBeat.
+text_bottom: Our platform has 78 Instagram influencers like this in Berlin, Germany for you to pitch.
 profiles:
   - username: "kasiaaa_ko"
     fullname: >-
@@ -31,6 +31,18 @@ profiles:
     id: ck8t7xvt4icue0j78mhz1ju36
     verified: false
     hashtags: "#achtsamkeits, #spiritualit, #selbstf, #cabininthewoods"
+  - username: "francescamyer"
+    fullname: >-
+      Franzi 🐛 Yoga Teacher, Functional Training & stupid Jokes.
+    bio: >-
+      @schoenetding | Berlin a little bit zen & a little bit hood girl ☯️ 💌 francescamyer@gmail.com
+    location: "Germany"
+    followers: 30875
+    engagement: 118
+    commentsToLikes: 0.011938
+    id: ck55n4j7o5gpe0i11jajzqhav
+    verified: false
+    hashtags: "#neverstopexploring, #yogateacherberlin, #backpainexercises, #zalandostyle"
   - username: "fvckluckygohappy"
     fullname: >-
       Fuck Lucky Go Happy
@@ -42,7 +54,7 @@ profiles:
     commentsToLikes: 0.049408
     id: ck6tyn2bd4phs0j71muts47cn
     verified: false
-    hashtags: "#spirituell, #yoga, #quotesofinstagram, #motivationalquote"
+    hashtags: "#monatsmantra, #yogaquote, #spirtual, #homeoffice"
   - username: "weronika.salach"
     fullname: >-
       Weronika Salach
@@ -55,18 +67,42 @@ profiles:
     id: ck6u3xe030fmw0j71jqi7sdst
     verified: false
     hashtags: "#childrensbookillustration, #procreatedrawing, #whimsicalillustration, #mysticsunweek2021"
-  - username: "mrs.beatricemaria"
+  - username: "doitbutdoitnow"
     fullname: >-
-      BEATRICE MARIA
+      Claudi
     bio: >-
-      Berlin born&raised Food, yoga, sustainability Beatricemaria@mail.de
+      photographer | interior design | travel 📍Berlin Blogazine ⬇️
     location: "Germany"
-    followers: 42241
-    engagement: 111
-    commentsToLikes: 0.018169
-    id: ck6tu2ze5e0f70j71n6kyhbpe
+    followers: 61060
+    engagement: 57
+    commentsToLikes: 0.035049
+    id: ck0vuw97zmg6e0i19ugiovazb
     verified: false
-    hashtags: "#vacation, #beatricemaria, #france, #wedding"
+    hashtags: "#jlm, #jerusalem, #10, #bedroom"
+  - username: "joana_health"
+    fullname: >-
+      Joana Link
+    bio: >-
+      🥔 B E R L I N 💫 Mental Health, Food & Fitness 🌻 #balance Mail: joana_health@foryouagency.de
+    location: "Germany"
+    followers: 79421
+    engagement: 327
+    commentsToLikes: 0.017476
+    id: clmizkry1ircb0j08yft5ktma
+    verified: false
+    hashtags: "#curacao, #balance, #berlin, #goldie"
+  - username: "chantinity"
+    fullname: >-
+      Chanty
+    bio: >-
+      Founder of @jointhecurlsclub based in Berlin 🇩🇪🇪🇨 ✉️contact@chantinity.com
+    location: "Germany"
+    followers: 29357
+    engagement: 151
+    commentsToLikes: 0.006646
+    id: ckapbqnj40yll0i78hb6xlkwk
+    verified: false
+    hashtags: "#ootd, #ad, #thatgirl, #thatgirlaesthetic"
   - username: "plantastybites"
     fullname: >-
       Jacky ✨
@@ -79,52 +115,16 @@ profiles:
     id: ck14i1h79d7070i19zqnfp7tl
     verified: false
     hashtags: "#feelyourjoy, #helloscorpio"
-  - username: "fitbydamian"
+  - username: "liz.kova"
     fullname: >-
-      I am D A M I A N
+      Elizaveta Kovalenko
     bio: >-
-      #Berlin - #Germany | #entertainer 1,74 klein 89,7 kg leicht ☲☲☲☲☲ Kontakt: 📧 DM me My Facebook 👇👇👇👇
+      Mom of 4 ❤️ Travel ✈️ Lifestyle🌸 Alternative medicine🌿 Construction🏗️ 📍Berlin
     location: "Germany"
-    followers: 24541
-    engagement: 191
-    commentsToLikes: 0.283284
-    id: ckaoviojq4psz0i78sdsf8s3x
+    followers: 215080
+    engagement: 309
+    commentsToLikes: 0.022679
+    id: ckap4bn7e6ma40i78gduz5xhq
     verified: false
-    hashtags: "#myprotein, #gymnastics, #mcfit, #fitnessforlife"
-  - username: "christophkoestlin"
-    fullname: >-
-      Christoph
-    bio: >-
-      Christoph Köstlin photographer / based in Berlin (send memes)
-    location: "Germany"
-    followers: 15190
-    engagement: 764
-    commentsToLikes: 0.030670
-    id: ck0txxcp0kuzj0i19zq7qros6
-    verified: false
-    hashtags: "#bigfm, #powerwoman, #fritzkalkbrenner, #clueso"
-  - username: "aannkathrinn"
-    fullname: >-
-      Ann-Kathrin 🇪🇺
-    bio: >-
-      ➽ model 🇩🇪 🇩🇰 🇿🇦 ➽ civilengineer👷‍♀️ for💧 💩 ∼ crossfit . fitness . running . yoga ∼ kitesurfing . wakeboarding . sup . surf
-    location: "Germany"
-    followers: 20300
-    engagement: 507
-    commentsToLikes: 0.019513
-    id: ck0tvqa2ycdyh0i19uq6al46j
-    verified: false
-    hashtags: "#water, #fabletics, #berlin, #fableticseu"
-  - username: "danielgoihl"
-    fullname: >-
-      Dan Goihl
-    bio: >-
-      📍 Cologne & Berlin / GER 🧑‍💻 Founder @tacsyagency, @ikarusyoga & @einstiftundpapier 🎤 #Moderator 👇 Contact 📧
-    location: "Germany"
-    followers: 17432
-    engagement: 879
-    commentsToLikes: 0.032484
-    id: ck139ie3xlgki0i19k4fw95z6
-    verified: false
-    hashtags: "#stressmanagement, #shapingnewtomorrow, #cologne, #menshair"
+    hashtags: "#reisen, #jungle, #alternativemedicine, #wildlife"
 ---

@@ -1,11 +1,11 @@
 ---
-title: Top 10 Tattoo-Artists Instagram Influencers In Spain In 2023
+title: Top 10 Tattoo-Artists Instagram Influencers In Spain In 2024
 description: >-
-  Find top tattoo-artists Instagram influencers in Spain in 2023. Most popular hashtags: #tattoo #ink #tatuaje #tattoos.
+  Find top tattoo-artists Instagram influencers in Spain in 2024. Most popular hashtags: #tattoo #ink #tatuaje #tattoos.
 platform: Instagram
-hits: 133
-text_top: See the most popular Instagram profiles on inBeat.
-text_bottom: Our search engine has 133 Instagram influencers like this in Spain for you to pitch.
+hits: 136
+text_top: Discover the most popular Instagram profiles on inBeat.
+text_bottom: Our database has 136 Instagram influencers like this in Spain for you to pitch.
 profiles:
   - username: "ireneuncalart"
     fullname: >-
@@ -18,7 +18,7 @@ profiles:
     commentsToLikes: 0.160202
     id: ckapaags1vdu40i78gmowsy1t
     verified: false
-    hashtags: "#clasicosterror, #escaperoom, #gore, #maquillalia"
+    hashtags: "#nyxcosmetics, #halloween, #escaperoom, #pasajeterror"
   - username: "albaprietotattooart"
     fullname: >-
       Alba Prieto
@@ -30,19 +30,7 @@ profiles:
     commentsToLikes: 0.030509
     id: ck55pki3tar1b0i11xr12j3a6
     verified: false
-    hashtags: "#tattoos, #skinart, #art, #artistasdeltatuaje"
-  - username: "daniluz21"
-    fullname: >-
-      Daniel luzardo 👽
-    bio: >-
-      TATTOO ARTIST 🔜 📍LA-CA🇺🇸 WS: +34653667275 @inkdustrybcn @gangatattoostudio_la @tattoodo Ambassador @tattooproton @fkirons @radiantcolorsink
-    location: "Spain"
-    followers: 139519
-    engagement: 333
-    commentsToLikes: 0.024687
-    id: ck0tyio2zmzls0i190sz5elqw
-    verified: false
-    hashtags: "#realistictattoo, #tattoodoambassador, #tattoo, #inprogress"
+    hashtags: "#barcelonatattoo, #tattoo, #art, #thebesttattooartists"
   - username: "claudiagilabert"
     fullname: >-
       Claudia Gilabert Dolz ♀
@@ -59,14 +47,26 @@ profiles:
     fullname: >-
       𝓐𝓶𝓪𝔂𝓻𝓪
     bio: >-
-      Tattoo artist from Tenerife🇮🇨 👇🏾Shop👇🏾
+      Tattoo artist from Tenerife🇮🇨 @gotamartattoo
     location: "Spain"
-    followers: 69884
-    engagement: 596
-    commentsToLikes: 0.027092
+    followers: 75842
+    engagement: 681
+    commentsToLikes: 0.027645
     id: ck6tobotld5yd0j717hnxact0
     verified: false
-    hashtags: "#tbsta, #neotraditional, #neotradeu, #neotraditionaltattoo"
+    hashtags: "#wolftattoo, #irezunicollective, #neotraditionaltattoo, #neotradeu"
+  - username: "guidoicardi"
+    fullname: >-
+      𝕲𝖚𝖎𝖉𝖔 𝕴𝖈𝖆𝖗𝖉𝖎
+    bio: >-
+      TATTOO ARTIST ⚖️ARGENTINA - GRAN CANARIA⚖️ 🇦🇷🇮🇨
+    location: "Spain"
+    followers: 51305
+    engagement: 48
+    commentsToLikes: 0.020154
+    id: ckaozbh87l4td0i78o436fiby
+    verified: true
+    hashtags: "#tattoolife, #elbonditattoo, #tatuajes, #tattoo"
   - username: "_brahox"
     fullname: >-
       Braho

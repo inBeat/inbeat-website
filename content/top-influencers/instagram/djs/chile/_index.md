@@ -1,12 +1,24 @@
 ---
-title: Top 10 Djs Instagram Influencers In Chile In 2023
+title: Top 10 Djs Instagram Influencers In Chile In 2024
 description: >-
-  Find top djs Instagram influencers in Chile in 2023. Most popular hashtags: #chile #dj #love #music.
+  Find top djs Instagram influencers in Chile in 2024. Most popular hashtags: #music #chile #djs.
 platform: Instagram
-hits: 15
-text_top: Discover the most popular Instagram accounts on inBeat.
-text_bottom: Our search engine aggregates 15 Instagram influencers like this in Chile for you to contact.
+hits: 17
+text_top: Analyze the best Instagram profiles on inBeat.
+text_bottom: Our database has 17 Instagram influencers like this in Chile for you to collaborate.
 profiles:
+  - username: "titahuman"
+    fullname: >-
+      Natalia M. Frezzani
+    bio: >-
+      Hablo de sneakers, carteras, outfits y + 💫 @frezzzzzzani 💿 @tm.djs ⠀⠀⠀⠀⠀⠀
+    location: "Chile"
+    followers: 73986
+    engagement: 237
+    commentsToLikes: 0.017750
+    id: ck5qbggpili0p0i11z5mikzv8
+    verified: false
+    hashtags: "#sneakercorner, #hmxme, #adidasforum, #creadoconadidas"
   - username: "phantooom_"
     fullname: >-
       Gabriel Fuentes U.
@@ -25,12 +37,12 @@ profiles:
     bio: >-
       DJ♥️ Resident: @clubambar Djane🇨🇱 Top 100 🌎 2019 y 2020 @djanemag @djanemag.latam Music & Groove New podcast! Escúchalo🔊 Listen to me ↙️🐆
     location: "Chile"
-    followers: 19691
-    engagement: 460
+    followers: 19818
+    engagement: 457
     commentsToLikes: 0.023377
     id: ck5ztvqfy17ft0i14sfdl8xxy
     verified: false
-    hashtags: "#bikini, #verano, #tuesday, #vibes"
+    hashtags: "#girl, #playa, #pickoftheday, #love"
   - username: "ploxmusic"
     fullname: >-
       DJ PLOX LA BESTIA 🤠
@@ -43,88 +55,76 @@ profiles:
     id: ck6tibgax0eg60j7167uztbo2
     verified: false
     hashtags: "#chile, #chilegram, #champion, #dance"
-  - username: "isisdjmusic"
+  - username: "foreromusic"
     fullname: >-
-      isi cañas
+      Forero 💀
     bio: >-
-      ▪️Dj electrónica 🎶 Techno- Tech house -deep house - minimal deep ▪️ Videos en IGTV ▪️Aventura ✈️🌏, ▪️I was a drummer 🥁❣️ 𝓢𝓪𝓰𝓲𝓽𝓪𝓻𝓲𝓸 𝐌𝐫. 𝐖𝐢𝐥𝐥 🐈 😇
+      • I make music & play games 👾 • fckgenres 🧔🏻‍♂️/💀 • Monsterbeats x Twitch/ Miercoles 21:00 ❇️ • The One Piece is real 🏴‍☠️ ——————————————
     location: "Chile"
-    followers: 8238
-    engagement: 610
-    commentsToLikes: 0.022876
-    id: ck5zync5sa6p10i14g70wokn4
+    followers: 14185
+    engagement: 417
+    commentsToLikes: 0.059103
+    id: ck5zjfozehi7d0i14ippd1duv
     verified: false
-    hashtags: "#music, #smile, #dj, #love"
+    hashtags: "#planthouse, #breakbeat, #nomedejaetiquetararakun, #nsync"
+  - username: "javicolina"
+    fullname: >-
+      Javi Colina
+    bio: >-
+      * Owner by @f.ckingsoundinside ⬅️ Send your demos * Stereo | Nervous | ToolRoom | Material | HappyTechno 📥PROMOS; promos@javicolina.com
+    location: "Chile"
+    followers: 37561
+    engagement: 457
+    commentsToLikes: 0.125848
+    id: ck5bz26peqav50i11y88e54m2
+    verified: false
+    hashtags: "#madrid, #playthemusic, #ugaondo, #javicolina"
+  - username: "nicocastrog"
+    fullname: >-
+      Nico Castro
+    bio: >-
+      Periodista/DJ/Productor 🎧 1/2 @aerobicamusic 🏠 @paraiso.stgo 📻 @horizonte.cl / @play_fm 💻 @nnmpuntocl 🎵 👇
+    location: "Chile"
+    followers: 16286
+    engagement: 486
+    commentsToLikes: 0.037249
+    id: ck0vyw6cz62y10i19jje02mxi
+    verified: false
+    hashtags: "#sevienencositas"
+  - username: "bayronfire"
+    fullname: >-
+      🔥Bayron Fire Oficial🔥
+    bio: >-
+      En Busca De Una Bandida 👇
+    location: "Chile"
+    followers: 1058091
+    engagement: 221
+    commentsToLikes: 0.058476
+    id: ck0w2czgynqiq0i19j8uubtis
+    verified: false
+    hashtags: ""
   - username: "theklanchile"
     fullname: >-
-      TheKlan
+      TheKlan | Events & Music
     bio: >-
-      Events, Music & More. #follow us #QuedateEnCasa
+      🔥Events 🎧Music 💡TikTok @theklanchile ⚡VIP MESA > assistant@theklan.cl Todos nuestros eventos aquí 👇🏻
     location: "Chile"
-    followers: 50713
-    engagement: 303
-    commentsToLikes: 0.147175
+    followers: 85218
+    engagement: 276
+    commentsToLikes: 0.133852
     id: ck14gu9f2724y0i19qnoaxiom
     verified: false
-    hashtags: "#liveset, #dj, #chile, #musicaeletronica"
-  - username: "_catabenitez_"
+    hashtags: "#comenta, #etiqueta, #comparte"
+  - username: "djcrisocana"
     fullname: >-
-      Catalina Benitez ☾
+      Cristopher Ocana Pedraza
     bio: >-
-      When the sun shines, we’ll shine together ... Santiago, Chile📍 ⋯
+      📍🇨🇱💯𝔼𝕟 𝔹ℂℕ🇪🇸 𝕆𝕣𝕚𝕘𝕚𝕟𝕤/𝔼𝕝𝕣𝕠𝕨/𝕊𝕥𝕖𝕣𝕖𝕠/𝕎𝕙𝕠𝕪𝕠𝕤𝕥𝕣𝕠/ ℝ𝕒𝕨𝕤𝕠𝕞𝕖/ℕ𝕖𝕣𝕧𝕠𝕦𝕤 ℝ𝕖𝕤𝕚𝕕𝕖𝕟𝕥:ℂ𝕝𝕦𝕓ℝ𝕠𝕠𝕞 ℂ𝔼𝕆:@coxmusicgroup 𝔽𝕠𝕦𝕟𝕕𝕖𝕣 @twoandthreerecords @losbvstar2 𝓝𝓮𝔀 𝓜𝓾𝓼𝓲𝓬👇
     location: "Chile"
-    followers: 73834
-    engagement: 631
-    commentsToLikes: 0.022925
-    id: ck134pfofxk8z0i19e8wc7td1
+    followers: 67772
+    engagement: 131
+    commentsToLikes: 0.052194
+    id: ck0vy8la92r4j0i195as4quh1
     verified: false
-    hashtags: "#todomoda, #xtreme, #stompchallenge, #nuskin"
-  - username: "fonsecafotografia"
-    fullname: >-
-      Leonardo Fonseca - Fotografia
-    bio: >-
-      Fotógrafo de Bodas y Eventos Sociales “Porque cada imagen tiene una historia que contar” Venezuela /Panama /Colombia /Aruba 📞+58 424 6359842
-    location: "Chile"
-    followers: 45312
-    engagement: 100
-    commentsToLikes: 0.035290
-    id: ck5cjidr3us630i11nj7ml15i
-    verified: false
-    hashtags: "#girl, #bride, #amazing, #panama"
-  - username: "danianeko"
-    fullname: >-
-      Dania Neko
-    bio: >-
-      🗻canto existencial 🗻 rap/fusión Sello @tomatemusica. 📍Valparaíso 🎞 Nuevo Video 🎞 Prosa Callejera
-    location: "Chile"
-    followers: 11296
-    engagement: 276
-    commentsToLikes: 0.050073
-    id: ck5zzsxrrcda80i14a0js1p0h
-    verified: false
-    hashtags: "#encuentroplurinacionaldelasqueluchan, #musicachilena, #rimasrebeldes, #raperaschilenas"
-  - username: "binimelisjota"
-    fullname: >-
-      Juan Claudio Binimelis (Bini)
-    bio: >-
-      Soñador por excelencia 🌈✨ viajero de vocación 🌎✈️ Profesor de educación física 🏊🏀 Personal trainer 🏋🏼‍♂️ 已訂婚的
-    location: "Chile"
-    followers: 11854
-    engagement: 739
-    commentsToLikes: 0.011169
-    id: ck6u06s7pdxo50j7107ochp64
-    verified: false
-    hashtags: "#gaylife, #sexygay, #instagay, #followforfollow"
-  - username: "camilo_alejandro.official"
-    fullname: >-
-      🎶👺🎤𝕰𝖑 𝕮𝖆𝖇𝖗𝖔 𝕮𝖍𝖎𝖈𝖔🎤👺🎶
-    bio: >-
-      🎙𝐂𝐚𝐧𝐭𝐚𝐧𝐭𝐞 / 𝐂𝐨𝐦𝐩𝐨𝐬𝐢𝐭𝐨𝐫 🖊 #ElCabroChico ❤️ 𝗣𝗮𝘁𝗿𝗼𝗰𝗶𝗻𝗮𝗱𝗼𝗿 @efecea.sneakers ⬇️𝙈𝙞 𝙐𝙡𝙩𝙞𝙢𝙖 𝘾𝙖𝙣𝙘𝙞𝙤𝙣⬇️
-    location: "Chile"
-    followers: 14617
-    engagement: 1525
-    commentsToLikes: 0.037266
-    id: ck6uhu3l1b9bk0j71gs5enut3
-    verified: false
-    hashtags: "#elcabrochico, #elnenedepiante, #trap, #losmafia"
+    hashtags: "#music, #electronicmusic, #lagunamusiclabel, #epicentrorecords"
 ---

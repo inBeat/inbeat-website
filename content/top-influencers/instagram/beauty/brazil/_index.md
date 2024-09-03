@@ -1,11 +1,11 @@
 ---
-title: Top 10 Beauty Instagram Influencers In Brazil In 2023
+title: Top 10 Beauty Instagram Influencers In Brazil In 2024
 description: >-
-  Find top beauty Instagram influencers in Brazil in 2023. Most popular hashtags: #ootd #makeup #moda.
+  Find top beauty Instagram influencers in Brazil in 2024. Most popular hashtags: #fashion #publicidade #inspira.
 platform: Instagram
-hits: 3433
-text_top: Analyze the most popular Instagram accounts on inBeat.
-text_bottom: inBeat has 3433 Instagram influencers like this in Brazil for you to collaborate.
+hits: 3491
+text_top: Identify the top-rated Instagram profiles on inBeat.
+text_bottom: Our search engine aggregates 3491 Instagram influencers like this in Brazil for you to pitch.
 profiles:
   - username: "markitocosta"
     fullname: >-
@@ -19,112 +19,112 @@ profiles:
     id: ck15pizpuy4hq0i193ogzz27i
     verified: false
     hashtags: "#markitocostamakeup"
-  - username: "sydsugoi.cosplay"
+  - username: "sadaf_beauty_diary"
     fullname: >-
-      S Y D S U G O I
+      Sadaf Masaeli
     bio: >-
-      Cosplayer • Digital Creator • ⁣Nostalgia Queen 📰Feat: DC Comics, Adult Swim, Rare Beauty If Sydsugoi posts it, she produced it.
+      📍San Francisco Travel ✈️ Lifestyle 🏕 Fashion 👒 Follow my Beauty Page👉🏼 @sadaf_beauty 💄 Contact@sadafbeauty.net
     location: "Brazil"
-    followers: 8176
-    engagement: 709
-    commentsToLikes: 0.040517
-    id: cl34yk06l0kwi0i23j89oie1b
+    followers: 1816276
+    engagement: 935
+    commentsToLikes: 0.010492
+    id: ckaoxog5pe49p0i78efq8o9lq
     verified: false
-    hashtags: "#blackcosplayersrock, #blackwomenincostume, #sidebysidecosplay, #blackgirlcosplay"
-  - username: "beautydaduda"
+    hashtags: "#goizmir, #izmir, #goturkey, #homerenovation"
+  - username: "cashmeretart"
     fullname: >-
-      Duda
+      Micheline du Toit
     bio: >-
-      +19M curtidas +546K seguidores no TikTok Contato: beautydaduda@imgx.expert Owner: @beautyprati 👇🏻CLICA NO LINK E GARANTE A TUA ARGILA👇🏻
+      🦑Pro MUA, Fabricator & Professional shapeshifter 🎮Twitch Affiliate | Cosplay | Beauty 🇿🇦CT/ZA PR/Collabs: Cashmeretart@gmail.com 💍 @5chalk
     location: "Brazil"
-    followers: 103412
-    engagement: 614
-    commentsToLikes: 0.018485
-    id: ckf5n4dyfwoyx0j23ai7wt0ie
+    followers: 8528
+    engagement: 423
+    commentsToLikes: 0.041727
+    id: ckaordotmmr3u0i78hescnkzt
     verified: false
-    hashtags: "#pele, #bffgarnier, #publi, #solarexpertiseantioleosidade"
-  - username: "petit_sophia"
+    hashtags: "#southafrica, #halloween, #motd, #kitana"
+  - username: "gabzuski"
     fullname: >-
-      sophia d’avila 💋
+      Gabriela Zambrozuski
     bio: >-
-      🇧🇷| RS fashion content • beauty • lifestyle• trips • assista os stories ✨| focused on me
+      gaming, arts & beauty 27 anos, SP 🌈 contato@gabzuski.com
     location: "Brazil"
-    followers: 54430
-    engagement: 252
-    commentsToLikes: 0.145205
-    id: ck15qxf2i546v0i19rlo9iv32
+    followers: 1044871
+    engagement: 451
+    commentsToLikes: 0.024582
+    id: ck5znxwsdpczi0i146infft1w
     verified: false
-    hashtags: "#maquiagem, #lookinspira, #outfitoftheday, #look"
-  - username: "larissatomasia"
+    hashtags: "#reels, #explore, #jackryan, #publicidade"
+  - username: "brunamurtaa"
     fullname: >-
-      Larissa Tomásia
+      BM
     bio: >-
-      BBB22 🍋 | Model | Beauty | Lifestyle 📫 Cx postal 37 CEP: 55700-000 Assessoria: 📧 larissatomasia@vox.plus 📲 (11) 96615-4180
+      fashion | beauty | lifestyle 💌 bruna.murta@popcommunication.com.br
     location: "Brazil"
-    followers: 1058112
-    engagement: 110
-    commentsToLikes: 0.011703
-    id: ckap7r7kml7hk0i7833sy38oq
+    followers: 14431
+    engagement: 741
+    commentsToLikes: 0.067673
+    id: ck5c27sqowpng0i119hdf4of5
     verified: false
-    hashtags: "#modera, #jeans, #mood, #publi"
-  - username: "_feamorim"
+    hashtags: "#bailedavogue, #bailedavogue2023"
+  - username: "ana.passaretti"
     fullname: >-
-      Fernanda Amorim
+      Ana Clara Passaretti
     bio: >-
-      26, Beauty and fashion 👗💄 •Moda, Beleza, Makes, Lifestyle• Batalha de looks 👚👙👠 Contato: Fernanda.amorim96@yahoo.com.br 📩📬
+      🖤 beauty & lifestyle. ⛓️ São Paulo, Brasil. ✉️ anapassaretti@agenciabae.com 🤓 @anaheartbooks
     location: "Brazil"
-    followers: 61073
-    engagement: 106
-    commentsToLikes: 0.201346
-    id: ck9ha92efbmg50j78iuttzoo5
+    followers: 139070
+    engagement: 453
+    commentsToLikes: 0.012943
+    id: cl4f68x31pw850i23cjzss9iy
     verified: false
-    hashtags: "#ootd, #littleblackdress, #saopaulo, #lookjantar"
-  - username: "sofsenisi"
+    hashtags: "#ttdeye, #ttd"
+  - username: "hillarymedeiross"
     fullname: >-
-      SOF | FASHION INSPO + IG TIPS
+      Hillary Medeiros
     bio: >-
-      📚 UofGH | Business ✨Diary of my life: Fashion, Beauty, Eats & Coffee 💌Collab: sofiasenisi@gmail.com 📍Canada ￼Ossesso Brand Ambassador: SOFIA10
+      fashion l beauty SP • Brasil ✉️ contato@hillarymedeiros.com
     location: "Brazil"
-    followers: 6147
-    engagement: 1291
-    commentsToLikes: 0.199967
-    id: ckap0fxu8q3qd0i781qxasrxq
+    followers: 827530
+    engagement: 501
+    commentsToLikes: 0.008737
+    id: ck9wdogh0givp0j78prjctzeb
     verified: false
-    hashtags: "#microinfluencer, #andsave, #fashionblogger, #detailsoftheday"
-  - username: "olaju_"
+    hashtags: "#revolveme, #sheinbrasil, #sheinforall, #nasheintem"
+  - username: "caiorevela"
     fullname: >-
-      julia gimenez
+      Caio Revela
     bio: >-
-      🔗 22 | SP alternative style content, beauty and lifestyle ✉ julia99gimenez@gmail.com or dm #olajulook
+      beauty | fashion | inspo Publi: caiorevela@gaiah.ag
     location: "Brazil"
-    followers: 32111
-    engagement: 438
-    commentsToLikes: 0.077611
-    id: ck9hcj61flnwb0j7834ibf8bg
+    followers: 123123
+    engagement: 468
+    commentsToLikes: 0.054680
+    id: ck5hiwh52fl3s0i11rh4p0a1k
     verified: false
-    hashtags: "#sheingals, #alternativegirl, #shein, #alternativefashion"
-  - username: "euosol"
+    hashtags: "#look, #corpolivre, #men, #estilo"
+  - username: "maxiane"
     fullname: >-
-      ⠀⠀⠀S O L ☀️
+      Maxiane Rodrigues
     bio: >-
-      🔅FASHION • BEAUTY • LIFESTYLE • PHOTOGRAPHY  📍SF | Salvador, BA 💌junioormatarazzo@gmail.com 👇🏾 PACK COM 5 FILTROS
+      Fashion, beauty, lifestyle e comunicação. Especialista em Hist. do Nordeste do Brasil pela Unicap. ☎️Contato profissional↓
     location: "Brazil"
-    followers: 22711
-    engagement: 838
-    commentsToLikes: 0.148992
-    id: ck8t5ckqu9ngl0j7824nwj8lj
+    followers: 30560
+    engagement: 429
+    commentsToLikes: 0.036197
+    id: ck8t2rhlo0g040j78hdsuxqzh
     verified: false
-    hashtags: "#comvcnoenem, #ad, #publicidade, #uigafas"
-  - username: "giovannasilk"
+    hashtags: "#carpina, #mamaedeprimeiraviagem, #recife, #influencer"
+  - username: "gessicaoliveiramuniz"
     fullname: >-
-      Giovanna Silk
+      GESSICA OLIVEIRA
     bio: >-
-      fashion. lifestyle. beauty ✨ 📬contato: giovanna.silk@my.com Store: @silksbrand Brasília | Brazil
+      • SEJA LUZ ✨ • CEO @amory.bygessicaoliveira • Fashion, beauty and life style 💕 • Mamãe da princesa @luamariamv 🌙
     location: "Brazil"
-    followers: 22431
-    engagement: 972
-    commentsToLikes: 1.116961
-    id: ckaoui3im0d7z0i78pj3iqhrp
+    followers: 204262
+    engagement: 433
+    commentsToLikes: 0.023135
+    id: ck5q27njzenwt0i11zayhl4en
     verified: false
-    hashtags: "#reels, #reelsinstagram, #makeup, #explorepage"
+    hashtags: "#tiktok, #grwm, #bandidozefelipe, #reels"
 ---

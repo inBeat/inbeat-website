@@ -1,11 +1,11 @@
 ---
-title: Top 10 Graffiti Instagram Influencers In 2023
+title: Top 10 Graffiti Instagram Influencers In 2024
 description: >-
-  Find top graffiti Instagram influencers in 2023. Most popular hashtags: #graffiti #streetart #graffitiart.
+  Find top graffiti Instagram influencers in 2024. Most popular hashtags: #graffiti #graffitiart #streetart #mural.
 platform: Instagram
-hits: 2909
-text_top: See the most popular Instagram profiles on inBeat.
-text_bottom: Our platform aggregates 2909 Instagram influencers like this for you to pitch.
+hits: 2936
+text_top: Discover the top-rated Instagram influencers on inBeat.
+text_bottom: inBeat holds 2936 Instagram influencers like this for you to collaborate.
 profiles:
   - username: "_only_graffiti_"
     fullname: >-
@@ -19,112 +19,112 @@ profiles:
     id: ckaowo4r99p6j0i787ahuoy4r
     verified: false
     hashtags: "#fatcap, #ultrawide, #handstyle, #calligraphylove"
-  - username: "feyk_johny"
+  - username: "mooz.one"
     fullname: >-
-      Johny Carlos
+      MOOZ GRAFFITI
     bio: >-
-      Humano / nordestino Cristão ( em reforma ) writter ( escritor de graffiti) Crews: @sne.crew @poluicaoatomicacrew Orçamentos via direct
-    location: "Brazil"
-    followers: 38016
-    engagement: 366
-    commentsToLikes: 0.079408
-    id: ck5q9h7uib49f0i11x3qdmonv
+      Graffiti Artist , illustrator & Cosplayer from Mumbai📍 Co-founder @graffitigeckos.in Represented 🇮🇳 Internationally 🇧🇷🇹🇭 Mail for Inquiries & Collab
+    location: "India"
+    followers: 17860
+    engagement: 5792
+    commentsToLikes: 0.039297
+    id: ck0ud0arii01a0i19g01vfw8b
     verified: false
-    hashtags: "#lowriders, #carlinhosmaiaoficial, #culturachicana, #tschelovek"
-  - username: "pierfrancesco.eight"
+    hashtags: "#moozgrafitti, #graffitiart, #moozgraffiti, #graffiti"
+  - username: "muralgraffitis"
     fullname: >-
-      𝕰𝖎𝖌𝖍𝖙
+      Mural Graffitis
     bio: >-
-      Macko Tattoo Shops Tattoo n Graffiti Artist •100 Stencils Ebook• on sale
-    location: ""
-    followers: 22661
-    engagement: 501
-    commentsToLikes: 0.059059
-    id: ck6tqrpbmtlk50j71zvksa7si
+      🎨 Your favorite graffiti & street art page ✉️ DM for paid promo ⬇️ Shop @b.different_clothing
+    location: "Germany"
+    followers: 433378
+    engagement: 815
+    commentsToLikes: 0.018015
+    id: ckf5nicjrye0k0j23r1vgwtzy
     verified: false
-    hashtags: "#blackwidow, #calligraphy, #byeight, #blackngrey"
-  - username: "majeed.g.h"
+    hashtags: "#graffitiart, #art, #graffiti, #spraypaint"
+  - username: "ferino_daniel"
     fullname: >-
-      مجيد
+      Daniel Ferino
     bio: >-
-      Graffiti Harmool 🇴🇲
-    location: ""
-    followers: 19157
-    engagement: 1515
-    commentsToLikes: 0.086256
-    id: ckap8q5xipds00i786d2569ke
+      german graffitiartist | Anfragen bitte nur per Mail❗️
+    location: "Germany"
+    followers: 14348
+    engagement: 852
+    commentsToLikes: 0.033362
+    id: ckapc9eop2xa20i783ubwtwx7
     verified: false
-    hashtags: "#oman, #street, #graffiti, #harmool"
-  - username: "xxbay"
+    hashtags: "#graffitiartist, #canvasart, #instaart, #lovemyjob"
+  - username: "geser3a"
     fullname: >-
-      BAYANN | NY + NJ Blogger
+      
     bio: >-
-      ♥Pronounced(Bae-Anne) ❖ NY/NJ Based Lifestyle Blogger Mrs.Shaarawy💍 Founder of @graffiti_gold 💌: baysstylediary@gmail.com My Links👇🏻
+      U.S.based graffiti artist (since 1993)
     location: "United States"
-    followers: 53736
-    engagement: 311
-    commentsToLikes: 0.086113
-    id: ck5c1mbflvh1d0i11h2ee8dgh
+    followers: 155411
+    engagement: 437
+    commentsToLikes: 0.016005
+    id: ck5c1uba4vxve0i119sit30ed
     verified: false
-    hashtags: "#beattheheatbbxx, #halomoment, #superfeet, #haskbeauty"
-  - username: "lala_luz"
+    hashtags: "#geserosteo, #molotow, #art, #geserblackred"
+  - username: "rozaliusz"
     fullname: >-
-      luz, grafiteira
+      Rose
     bio: >-
-      Osmo crew 🇧🇷 Graffiti, artista, modelo @squadbrazil , Curitiba 🇧🇷 Contato: luzurbanagrafite@gmail.com
-    location: "Brazil"
-    followers: 18861
-    engagement: 545
-    commentsToLikes: 0.022835
-    id: ck5zu5ic41ptr0i14whv2inej
+      Graffiti Girl 🍭 Tattoos—> @rose.marytattoo 🐽 DM for collab✏️
+    location: "Germany"
+    followers: 13078
+    engagement: 619
+    commentsToLikes: 0.035903
+    id: ck0u965pj96zb0i19vuqd4lv8
     verified: false
-    hashtags: ""
-  - username: "sef.01"
+    hashtags: "#characterdesign, #goodvibes, #graffiti, #backpiecetattoo"
+  - username: "nofal.one"
     fullname: >-
-      Sef
+      Nofal O-one Graff
     bio: >-
-      Peruvian Graffiti artist 🇵🇪 TDK - ZNC - ODV
-    location: "Chile"
-    followers: 23587
-    engagement: 454
-    commentsToLikes: 0.056778
-    id: ck5q6zhhrzenr0i11j93hmvt1
-    verified: false
-    hashtags: "#spraypaint, #republicadominicana, #graffiti, #santodomingo"
-  - username: "tylerwallachstudio"
-    fullname: >-
-      Tyler Wallach Studio
-    bio: >-
-      NYC📍”The 1988 lovechild of Keith Haring and Lisa Frank" Inspired by 90s cartoons, 80s music, 70s graffiti & 60s psychedelia 👽❤️🌈✨#TylerWallachStudio
+      Artist -Graffiti/Streetart, Murals- Drawings/CharactersDesign and sketches made in Egypt 🇪🇬
     location: "United States"
-    followers: 26220
-    engagement: 128
-    commentsToLikes: 0.049782
-    id: ck6txvj3h03in0j71ow3hhz2m
+    followers: 9438
+    engagement: 323
+    commentsToLikes: 0.023278
+    id: ck8szd18fny7p0j78gwtldpqx
     verified: false
-    hashtags: "#bespoke, #paintedpurse, #louisvuitton, #painting"
-  - username: "nomen_graffiti"
+    hashtags: "#urban, #mural, #muralart, #streetart"
+  - username: "bradythecorgi"
     fullname: >-
-      Nomen
+      Brady & Graffiti the Corgis
     bio: >-
-      Graffiti Artist Pioneer from Portugal. Since 89
+      💁‍♂️ 9 yrs young w/ a BIG personality 🐶 Uncle & brofur to @graffitithecorgi 🏆 Corgi of the Year ‘24 🥩 Raw Fed
     location: "United States"
-    followers: 17196
-    engagement: 233
-    commentsToLikes: 0.047538
-    id: ck15qw0cu4wxc0i19ckkeconz
+    followers: 436136
+    engagement: 1263
+    commentsToLikes: 0.007311
+    id: ck15u6wtllphu0i19zsutzc8l
     verified: false
-    hashtags: "#graffitiart, #spraypaintart, #nomen, #vianadocastelo"
-  - username: "z_mahoozi"
+    hashtags: "#corgilove, #corgilover, #corgination, #corgis"
+  - username: "meturkmen"
     fullname: >-
-      Zeinab Al-Mahoozi  ♒
+      MET
     bio: >-
-      Graffiti Artist From KSA🇸🇦Qatif bless me Alla wherever I go💙
-    location: ""
-    followers: 27047
-    engagement: 260
-    commentsToLikes: 0.024848
-    id: ck6tn6yn799ao0j71sseubizq
+      MUHAMMED EMIN TURKMEN - Graffiti Artist Istanbul 🇹🇷 Türkiye ✉ info @ meturkmen.com 🌏 meturkmen.com
+    location: "Turkey"
+    followers: 30356
+    engagement: 518
+    commentsToLikes: 0.043758
+    id: ck5buyomqio180i11454mgii5
+    verified: true
+    hashtags: "#turkiye, #met, #mural, #meturkmen"
+  - username: "zake_india"
+    fullname: >-
+      Z A K E ©️
+    bio: >-
+      Contemporary Art Designer, Indian Graffiti Pioneer, Illustrator, and 3D Toy Designer 🌊🍄Representing India Worldwide 👑 Tat @33_tats
+    location: "India"
+    followers: 19704
+    engagement: 273
+    commentsToLikes: 0.031049
+    id: ck0ud09k8hzxj0i196391an8n
     verified: false
-    hashtags: "#dubaistreetmuseum, #dubai, #branddubai, #dubaimunicipality"
+    hashtags: "#graffitiwall, #spray, #graffitiporn, #graffitistyle"
 ---

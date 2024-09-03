@@ -1,24 +1,48 @@
 ---
-title: Top 10 Stylists Instagram Influencers In Greece In 2023
+title: Top 10 Stylists Instagram Influencers In Greece In 2024
 description: >-
-  Find top stylists Instagram influencers in Greece in 2023. Most popular hashtags: #fashion #makeup #hair #hairstyles.
+  Find top stylists Instagram influencers in Greece in 2024. Most popular hashtags: #happy #hairstyles #fashion.
 platform: Instagram
-hits: 65
-text_top: Identify the best Instagram accounts on inBeat.
-text_bottom: Our platform aggregates 65 Instagram influencers like this in Greece for you to collaborate.
+hits: 79
+text_top: Analyze the top-rated Instagram accounts on inBeat.
+text_bottom: Our platform holds 79 Instagram influencers like this in Greece for you to collaborate.
 profiles:
-  - username: "super.foteini"
+  - username: "deborakellovska"
     fullname: >-
-      Foteini Traka
+      Debora Kellovska
     bio: >-
-      Fashion Designer~Fashion Illustrator~Vintage Curator/Seller~Image Maker~Stylist~Muse Master of all trades🤘🏻@intothelightclothing @foteinitrakadesigns
+      ~ stylist ~ part of @kwcreative.idea & @elleczech & @elledecorationczech ~ student @iksz_fsv_uk
     location: "Greece"
-    followers: 38309
-    engagement: 381
-    commentsToLikes: 0.025126
-    id: ck13bonkdwf4p0i19c4zx613n
+    followers: 8447
+    engagement: 497
+    commentsToLikes: 0.008343
+    id: ck5cj8wq2u8bv0i11k5pb35gs
     verified: false
-    hashtags: "#zaraaccessories, #calzedonia, #rienbypennyvomva, #fashioninspo"
+    hashtags: "#fallishere, #vintage, #mohitowomen, #reservedforme"
+  - username: "franciskasvakreverden"
+    fullname: >-
+      Franciska Munck-Johansen
+    bio: >-
+      Interiør, mat og livsstil.😊🪴 Fotograf • Stylist • Innholdsskaper Vinner av Vixen Awards og Kakekrigen. Arrangør og eier av @gullfjaeren.
+    location: "Greece"
+    followers: 132202
+    engagement: 41
+    commentsToLikes: 0.068332
+    id: ck137zpi1dswc0i195hlhf58z
+    verified: false
+    hashtags: "#vakreverden"
+  - username: "florriet"
+    fullname: >-
+      Florrie Thomas
+    bio: >-
+      Stylist and brand consultant • Interiors lover •previously @condenasttraveller and @bazaaruk
+    location: "Greece"
+    followers: 20727
+    engagement: 14
+    commentsToLikes: 0.008151
+    id: ckwzuvf1aygzw0j23hgcv0c5g
+    verified: false
+    hashtags: "#gifts, #gift, #havianagang, #iconicsrosenebula"
   - username: "konstantinosavgerinos"
     fullname: >-
       kostas Avgerinos
@@ -103,28 +127,4 @@ profiles:
     id: ck5py1hrptvez0i1108adonz2
     verified: false
     hashtags: "#lovemyjob, #segredakis, #costumes, #premiere"
-  - username: "nikolbartzoka"
-    fullname: >-
-      Nikol Bartzoka
-    bio: >-
-      Fashion photographer
-    location: "Greece"
-    followers: 8205
-    engagement: 572
-    commentsToLikes: 0.013032
-    id: ck0u7qu175k4h0i19z11w80gv
-    verified: false
-    hashtags: "#styling, #xmascollection, #campaign, #location"
-  - username: "georgiougabriel"
-    fullname: >-
-      Gabriel Georgiou
-    bio: >-
-      Celebrity Hairstylist - Mumbai 🇮🇳@animacreatives - LA 🇺🇸@soloartists - Athens 🇬🇷@dtales_creativeagency Creative Director @tasteoflifemagazinegr
-    location: "Greece"
-    followers: 68009
-    engagement: 63
-    commentsToLikes: 0.027070
-    id: ck0w516ye1eqn0i19m991zsi2
-    verified: false
-    hashtags: "#makeup, #hairstylist, #model, #hair"
 ---

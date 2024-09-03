@@ -1,130 +1,130 @@
 ---
-title: Top 10 Architecture Instagram Influencers In France In 2023
+title: Top 10 Architecture Instagram Influencers In France In 2024
 description: >-
-  Find top architecture Instagram influencers in France in 2023. Most popular hashtags: #frenchvisuals #architecture #portrait #moodygrams.
+  Find top architecture Instagram influencers in France in 2024. Most popular hashtags: #interiordesign #homedesign #design.
 platform: Instagram
-hits: 674
-text_top: See the most popular Instagram influencers on inBeat.
-text_bottom: Our database holds 674 Instagram influencers like this in France for you to work with.
+hits: 716
+text_top: Identify the top-rated Instagram influencers on inBeat.
+text_bottom: inBeat has 716 Instagram influencers like this in France for you to collaborate.
 profiles:
+  - username: "raphaelmetivet"
+    fullname: >-
+      Raphael Metivet
+    bio: >-
+      Capturing the beauty of Paris✨ 📸 Architecture & Luxury lifestyle photographer 📚 Discover my book ‘Amazing Paris’ ⬇️
+    location: "France"
+    followers: 323917
+    engagement: 668
+    commentsToLikes: 0.013739
+    id: ck6trgq9uyw0z0j71114dx668
+    verified: false
+    hashtags: "#vieparisienne, #parishotel, #igersparis, #hello"
+  - username: "manonurpileonardi"
+    fullname: >-
+      Manon Urpi Léonardi
+    bio: >-
+      manger, prier, aimer everything with love and passion @aqui.architecture
+    location: "France"
+    followers: 26588
+    engagement: 596
+    commentsToLikes: 0.016821
+    id: ckwzuvjllymi20j23le8iv9t9
+    verified: false
+    hashtags: "#pullandbear, #pullandbearcommunity"
+  - username: "balzersara"
+    fullname: >-
+      Sara BALZER
+    bio: >-
+      World n°1 🪐 Olympic 🥈🥈 @dior ambassador @adidas athlete Image architecture @lamdeparis
+    location: "France"
+    followers: 159591
+    engagement: 1388
+    commentsToLikes: 0.008314
+    id: ck8t3gqte38ex0j78gfqlotk5
+    verified: false
+    hashtags: "#roadtoparis2024, #fencing, #parisolympics, #olympics"
+  - username: "ferrisrafauli"
+    fullname: >-
+      Ferris Rafauli
+    bio: >-
+      “FR” Architecture, Interior design,Luxury Products…♋️
+    location: "France"
+    followers: 434096
+    engagement: 364
+    commentsToLikes: 0.009614
+    id: ck1365i594udt0i19za8trlkl
+    verified: true
+    hashtags: "#hyperluxury, #indiancreekvillagemiami, #99, #artandscience"
+  - username: "beataheuman"
+    fullname: >-
+      Beata Heuman
+    bio: >-
+      Interior Architecture & Product Design, AD100 US, H&G100, AD100 FR, AD100 DE
+    location: "France"
+    followers: 279544
+    engagement: 241
+    commentsToLikes: 0.014118
+    id: ck136dx2060gy0i19xmjnrfpd
+    verified: false
+    hashtags: "#inspiration, #interiordesign, #beataheumaninteriors, #188hammersmithroad"
+  - username: "frmwrkstudio"
+    fullname: >-
+      Framework Studio
+    bio: >-
+      Interior Architecture and Design studio.
+    location: "France"
+    followers: 77720
+    engagement: 131
+    commentsToLikes: 0.008543
+    id: ck6ubrxjcbctu0j71p2ow1v3o
+    verified: false
+    hashtags: "#interiorstyle, #marble, #chairs, #frameworkstudio"
+  - username: "sissyinparis"
+    fullname: >-
+      Sylvaine ✵
+    bio: >-
+      Spécialisée en Architecture et Gastronomie Portfolio : @sissystudio_ Paris 📍 Ps : j’étais là avant emily
+    location: "France"
+    followers: 16835
+    engagement: 67
+    commentsToLikes: 0.025106
+    id: ck5zsx6luzcos0i140l48sar7
+    verified: false
+    hashtags: ""
   - username: "atelierdevergne"
     fullname: >-
       Atelier Devergne par Audrey
     bio: >-
       Architecture et décoration intérieure | Fondatrice de l’Atelier et la @maisondevergne | Art de vivre | Mum 👧🏼👦🏻👶🏼| Pour en savoir plus ⬇️
     location: "France"
-    followers: 100595
-    engagement: 176
-    commentsToLikes: 0.039849
+    followers: 104259
+    engagement: 148
+    commentsToLikes: 0.042651
     id: ck5hgotob3xxm0i11y5xog1ot
     verified: false
-    hashtags: "#maisondefamille, #carreauxdeciment, #maisonbourgeoise, #atelierdevergne"
-  - username: "khosrowart"
+    hashtags: "#ameublement, #decoratricedinterieur, #agencementinterieur, #agencement"
+  - username: "atelierdaaa"
     fullname: >-
-      👑 KHOSRO PHOTOGRAPHY
+      A T E L I E R D A A A
     bio: >-
-      📸 Photographer & Graphic Designer 🎭 Art School of Broadcasting Cinema & Animation 🏡 Faculty of Art & Architecture 🛠 Industrial Designer 📬 DM For Work
+      Agence d'Architecture Intérieure - Paris Julien Ensarguet - Richard Guilbault - Pierre Petit
     location: "France"
-    followers: 12241
-    engagement: 769
-    commentsToLikes: 0.035758
-    id: ck5zjpqupi0t70i14487e84xh
+    followers: 46722
+    engagement: 151
+    commentsToLikes: 0.016004
+    id: ck9wd1981dlvr0j78lna4r0pv
     verified: false
-    hashtags: "#retouch, #tehrantimes, #vatani, #retouching"
-  - username: "yves_parisian"
+    hashtags: "#interiordesign, #colour, #marbel, #apartment"
+  - username: "archgist"
     fullname: >-
-      Y V E S     S A B R O U
+      architecture gist
     bio: >-
-      Paris based photographer Dance💃architecture🗼streetphotography🚶‍♂️ 📩contact@yvessabrou.com
+      ▪️ Daily architecture posts.🌎
     location: "France"
-    followers: 10100
-    engagement: 798
-    commentsToLikes: 0.035621
-    id: ck0w6bugd7u5j0i1981ribkij
+    followers: 283515
+    engagement: 30
+    commentsToLikes: 0.011641
+    id: ckaoxulhaetmi0i788rx77b72
     verified: false
-    hashtags: "#bnwmood, #bboying, #dancersandballet, #worldofballet"
-  - username: "les_compagnons_explorateurs"
-    fullname: >-
-      Elsa & Lucien | Blog voyage
-    bio: >-
-      👫 | Elsa & Lucien 📍 | #auvergne 🇫🇷 ⛰🍃📐| Amoureux de la nature et passionnés d’architecture 🌎 | Blog voyage 📩 lescompagnonsexplorateurs@gmail.com
-    location: "France"
-    followers: 19898
-    engagement: 860
-    commentsToLikes: 0.073206
-    id: ck13bm1prw2nz0i19mca4euac
-    verified: false
-    hashtags: "#igersfrance, #francemontagnes, #auvergnevolcansancy, #rodez"
-  - username: "imzefyr"
-    fullname: >-
-      Zefyr - Photographe Paris 📸
-    bio: >-
-      📍Paris 📸 Street photo, Architecture, Football & lifestyle portraits 🤝Photo Prints / Shooting tarifs contacte moi 🌐 Founder @french.visuals
-    location: "France"
-    followers: 8110
-    engagement: 890
-    commentsToLikes: 0.118082
-    id: ck13bn42lw84w0i19g0b3kkl5
-    verified: false
-    hashtags: "#worldviewmag, #visitlondon, #nightphotography, #streetphotographyparis"
-  - username: "perchek.industrie"
-    fullname: >-
-      Clément Percheron
-    bio: >-
-      Art | Photographe | Architecture | Design ✖️ Basé à Bordeaux | Fr ✉️ perchek.industrie@gmail.com 🎞 #perchekindustrie
-    location: "France"
-    followers: 23078
-    engagement: 136
-    commentsToLikes: 0.033106
-    id: ck0uer8f5lxpx0i19nnxiln1f
-    verified: false
-    hashtags: "#artofportrait, #frenchvisuals, #portraitgames, #fatalframes"
-  - username: "laurent_clement_photographe"
-    fullname: >-
-      Laurent Clément
-    bio: >-
-      PHOTOGRAPHE / DIRECTOR @freyjabeautymagazine @laurent_clement_studio @laurent_clement_architecture
-    location: "France"
-    followers: 16522
-    engagement: 117
-    commentsToLikes: 0.033436
-    id: ck0u8a7j76yct0i199v71cvsh
-    verified: false
-    hashtags: "#portrait, #noiretblanc, #nikonphotography, #chapeau"
-  - username: "_sev_happysty"
-    fullname: >-
-      S E V .
-    bio: >-
-      Architecture from my point of view. All pictures are taken by me and are mine 🌍📍Paris 🔹Member of #1_unlimited🔹
-    location: "France"
-    followers: 8040
-    engagement: 1503
-    commentsToLikes: 0.172608
-    id: ck5zntlbpp4o30i14nytbror7
-    verified: false
-    hashtags: "#thehub, #jj, #harmonyoflight, #bnw"
-  - username: "baldbarbu"
-    fullname: >-
-      A X E L 🇫🇷
-    bio: >-
-      🧔🏻 Just a bald man 📷 Architecture | Portraits | Lifestyle 📍 Lyon, France
-    location: "France"
-    followers: 2174
-    engagement: 2636
-    commentsToLikes: 0.076062
-    id: ckap1qqyivpnh0i78gdf07fnt
-    verified: false
-    hashtags: "#lyonfrance, #lesbarbusdeparis, #beardedmen, #beardedgay"
-  - username: "marceau.antoine"
-    fullname: >-
-      A.MARCEAU | Photographe Paris
-    bio: >-
-      Sony A7III | Sony A6600 | Mavic pro Architecture | Voyage | Vidéo Rejoins #leclubmarceau Clic sur le lien pour découvrir ma boutique photo
-    location: "France"
-    followers: 4433
-    engagement: 2249
-    commentsToLikes: 0.081220
-    id: ck8t55n9d8uxe0j78c4xhb6n1
-    verified: false
-    hashtags: "#dronefly, #nomadict, #reflection, #lesinspideju"
+    hashtags: "#homedesign, #maquete, #maket, #architorture"
 ---

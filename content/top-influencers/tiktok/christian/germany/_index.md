@@ -1,11 +1,11 @@
 ---
-title: Top 10 Christian TikTok Influencers In Germany In 2023
+title: Top 10 Christian TikTok Influencers In Germany In 2024
 description: >-
-  Find top christian TikTok influencers in Germany in 2023. Most popular hashtags: #foryou #fy #foryoupage #viral.
+  Find top christian TikTok influencers in Germany in 2024. Most popular hashtags: #foryou #foryoupage #fy #viral.
 platform: TikTok
-hits: 43
-text_top: Discover the best TikTok influencers on inBeat.
-text_bottom: Our database aggregates 43 TikTok influencers like this in Germany for you to connect with.
+hits: 44
+text_top: Discover the top-rated TikTok accounts on inBeat.
+text_bottom: Our database has 44 TikTok influencers like this in Germany for you to contact.
 profiles:
   - username: "lisbeth_lissi_chris"
     fullname: >-

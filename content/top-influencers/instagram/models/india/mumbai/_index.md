@@ -1,12 +1,60 @@
 ---
-title: Top 10 Models Instagram Influencers In Mumbai In 2023
+title: Top 10 Models Instagram Influencers In Mumbai In 2024
 description: >-
-  Find top models Instagram influencers in Mumbai in 2023. Most popular hashtags: #instagood #model #mumbai #instagram.
+  Find top models Instagram influencers in Mumbai in 2024. Most popular hashtags: #model #mumbai #instagood #photoshoot.
 platform: Instagram
-hits: 698
-text_top: Analyze the top-rated Instagram influencers on inBeat.
-text_bottom: inBeat has 698 Instagram influencers like this in Mumbai, India for you to collaborate.
+hits: 834
+text_top: Identify the most popular Instagram influencers on inBeat.
+text_bottom: Our platform holds 834 Instagram influencers like this in Mumbai, India for you to pitch.
 profiles:
+  - username: "tanveer_zayn"
+    fullname: >-
+      Tanveer Qureshi - تنویر زین
+    bio: >-
+      22 | model Mumbai 📍 Managed by @gm_talents_ Inquiries & collaborations 📩 zayntanveer99@gamil.com
+    location: "India"
+    followers: 710120
+    engagement: 320
+    commentsToLikes: 0.007770
+    id: ck0tu81zo607b0i19wc9eumnb
+    verified: false
+    hashtags: "#tiki, #explore, #reels, #reelkarofeelkaro"
+  - username: "richajha26"
+    fullname: >-
+      Richa Jha • Writer • Model
+    bio: >-
+      📍Mumbai | Surat 🇮🇳 #richajha @richajhawriter✍️ ✨ Seasoned Writer 🏂Skater ✨ Model #ambivert Work with me 💌: jharicha480@gmail.com DM for paid collabs
+    location: "India"
+    followers: 3676
+    engagement: 501
+    commentsToLikes: 0.185527
+    id: ckaoqxmdgkvj80i78pcqxz0oi
+    verified: false
+    hashtags: "#reels, #reelsexplore, #photooftheday, #mumbai"
+  - username: "am_limitted_edition"
+    fullname: >-
+      R_E_V_A_T_H_Y
+    bio: >-
+      MODEL/ ACTRESS 🏆🥇Beach Body 1st Prize winner @fashion_streakz_2023 Dm for paid works only #trivandrum
+    location: "India"
+    followers: 27429
+    engagement: 1449
+    commentsToLikes: 0.116240
+    id: ck8wf9qnrfdm30j78g3vmk6m9
+    verified: false
+    hashtags: "#modeling, #naturephotography, #likeforlikes, #selfie"
+  - username: "dolandas77"
+    fullname: >-
+      Dolan Das
+    bio: >-
+      ☞ aaJ RaaT TikH ( 8:30-pm ) Dp Trick Begin 📍 ☞ Following Me Jo Hai Unko Follow KarLo😍🙏 ➠ #gabbarfamily
+    location: "India"
+    followers: 283284
+    engagement: 1647
+    commentsToLikes: 0.397167
+    id: ck9whelurxift0j78x3ty6rvz
+    verified: false
+    hashtags: "#view, #photoshoot, #jharkhand, #model"
   - username: "_._nehhaaa"
     fullname: >-
       ﷲ🤲🏻
@@ -55,18 +103,18 @@ profiles:
     id: ck14jhpmxkekg0i199tx9zy8m
     verified: false
     hashtags: "#pictures, #moodygrams, #surat, #photographys"
-  - username: "thrissurkaranphotography"
+  - username: "sanakhan00"
     fullname: >-
-      krishnaprasad
+      SANA SULTAN超级巨星 🔱👑
     bio: >-
-      Dm for shoot Irinjalakuda | thrissur | kerala commercial photographer Prewedding @tk._stories #thrissurkaranphotography
+      SANA SULTAN👑 Bigboss Ott 3 3🏡 God-in-Me is able & enough🙏🏻 Your Aala Girl❤️ Infinite Aura Evil eyes away🪬 💵👩‍❤️‍👨✈️🌏🏡 24..33..55.1
     location: "India"
-    followers: 11807
-    engagement: 934
-    commentsToLikes: 0.024879
-    id: ck8t5req4az860j78zzn2l9wy
-    verified: false
-    hashtags: "#thrissurkaran, #fashion, #clickstogallery, #photography"
+    followers: 6964654
+    engagement: 201
+    commentsToLikes: 0.009812
+    id: ck8wer3khehcb0j78gr2eeab5
+    verified: true
+    hashtags: "#biggbossott, #bbott3, #biggboss, #sanakhan"
   - username: "indiasmisstgpc"
     fullname: >-
       India's Miss TGPC ™
@@ -79,52 +127,4 @@ profiles:
     id: ck5pwdq0imce40i11580zyi1p
     verified: false
     hashtags: "#tgpckibetiyaan, #cocoaberry, #misstgpc, #missdiva"
-  - username: "_ijjuuzz_khan_"
-    fullname: >-
-      αρρเˢʰ
-    bio: >-
-      ❖ ▃▅▆█ᴍʏ¤ⁱⁿˢᵗᵃ█▆▅ ❂✿❂ ✿❂ ▪ҒᎪՏᎻᏆϴΝ✿мο∂єʟ ▪мγ_ՏԵՎʅє ❖ʍՎ_ѕмιℓє ▪🅚🅐🅢🅡🅞🅓🅘🅐🅝_ᵛⁱᵇᵉ ✧∭✧∰✧∭✧ [ ❖ ▪ˢᴍɪʟᴇ ⁱˢ ʙᴇˢᴛ ᴍᴇᴅɪᴄɪɴᴇ
-    location: "India"
-    followers: 8037
-    engagement: 821
-    commentsToLikes: 0.097822
-    id: ck8t6iwimdt170j784pwuxyij
-    verified: false
-    hashtags: "#chennai, #polikk, #gainwitheepluto, #followforfollowback"
-  - username: "rahul_king_photography_editing"
-    fullname: >-
-      ʀᴀʜᴜʟ ᴋɪɴɢ👑 ᴠᴀsᴜɴɪʏᴀ"
-    bio: >-
-      Owner @rahul_king88 Editor💥/Photographer📸/Photoshoper🖱 ♦Manipulation ♦Poster ♦Retouching Dm/mail for paid work💸/Collabs Khalghat'Indore (India)🇮🇳
-    location: "India"
-    followers: 36155
-    engagement: 268
-    commentsToLikes: 0.051695
-    id: ck0u1t07yxt7v0i193684gx0b
-    verified: false
-    hashtags: "#discoverportrait, #street, #conceptart, #artist"
-  - username: "renuca_singh_thakuri"
-    fullname: >-
-      Renuca Singh Thakuri 🦋
-    bio: >-
-      Model / Actor Mumbai 🇮🇳 / Nepal 🇳🇵 Queries : renucasingh7@gmail.com Join My App For Exclusive Content & Promotion
-    location: "India"
-    followers: 131117
-    engagement: 222
-    commentsToLikes: 0.022993
-    id: ck6ud8g2ijn950j71tydg62qf
-    verified: false
-    hashtags: "#bikini, #model, #modeling, #renucasinghthakuri"
-  - username: "milonijhonsa"
-    fullname: >-
-      Miloni Jhonsa
-    bio: >-
-      Dentist | Actor | Model 📍Mumbai Rendering my million different interests in life🌈
-    location: "India"
-    followers: 50509
-    engagement: 139
-    commentsToLikes: 0.015617
-    id: ck0twjmyifojy0i19gzxasfp5
-    verified: false
-    hashtags: "#mood, #reelitfeelit, #life, #workout"
 ---

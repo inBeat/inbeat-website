@@ -1,11 +1,11 @@
 ---
-title: Top 10 TikTok Influencers In Rio De Janeiro In 2023
+title: Top 10 TikTok Influencers In Rio De Janeiro In 2024
 description: >-
-  Find top TikTok influencers in Rio De Janeiro in 2023. Most popular hashtags: #foryou #fyp #dueto.
+  Find top TikTok influencers in Rio De Janeiro in 2024. Most popular hashtags: #foryou #fyp #dueto.
 platform: TikTok
-hits: 192
-text_top: See the most popular TikTok influencers on inBeat.
-text_bottom: inBeat has 192 TikTok influencers like this in Rio de Janeiro, Brazil for you to contact.
+hits: 193
+text_top: Identify the top-rated TikTok influencers on inBeat.
+text_bottom: Our search engine holds 193 TikTok influencers like this in Rio de Janeiro, Brazil for you to pitch.
 profiles:
   - username: "clarinha3marcelo"
     fullname: >-

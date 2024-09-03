@@ -1,11 +1,11 @@
 ---
-title: Top 10 Guitar TikTok Influencers In Russia In 2023
+title: Top 10 Guitar TikTok Influencers In Russia In 2024
 description: >-
-  Find top guitar TikTok influencers in Russia in 2023. Most popular hashtags: #guitar #cover #music.
+  Find top guitar TikTok influencers in Russia in 2024. Most popular hashtags: #guitar #cover #music.
 platform: TikTok
 hits: 13
-text_top: Identify the best TikTok accounts on inBeat.
-text_bottom: Our platform has 13 TikTok influencers like this in Russia for you to collaborate.
+text_top: See the best TikTok profiles on inBeat.
+text_bottom: Our database has 13 TikTok influencers like this in Russia for you to work with.
 profiles:
   - username: "_alexander_s_"
     fullname: >-
@@ -23,26 +23,26 @@ profiles:
     fullname: >-
       userlooser
     bio: >-
-      Даты стримов будут здесь 🤟😈🔥🎸
+      🤟😈🔥🎸
     location: "Russia"
     followers: 13600
-    engagement: 1722
-    commentsToLikes: 0.086774
+    engagement: 1728
+    commentsToLikes: 0.086909
     id: ckc7wizlmzni50j232i1tpkiv
     verified: false
-    hashtags: "#whereismymind, #pixies, #asmr, #guitar"
+    hashtags: "#guitarist, #guitartok, #stitch, #guitar"
   - username: "queerbeer"
     fullname: >-
       queer beer
     bio: >-
       "Karina McLeen" on all platforms 🎸🔥 covers & my songs👇
     location: "Russia"
-    followers: 23900
-    engagement: 1051
-    commentsToLikes: 0.027635
+    followers: 24900
+    engagement: 1094
+    commentsToLikes: 0.029894
     id: ck9tv73k2p9ka0j78wg7dx5k3
     verified: false
-    hashtags: "#fyp, #solo, #wlw, #guitar"
+    hashtags: "#rock, #fyp, #postpunk, #acoustic"
   - username: "artur_zolotov"
     fullname: >-
       Artur Zolotov
