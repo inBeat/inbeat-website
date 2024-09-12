@@ -249,7 +249,7 @@
             .then((token) => {
               if (this.isBusinessEmail(this.formData.email)) {
                 const { firstName, lastName, email, companyName } = this.formData;
-                const calendlyUrl = "https://calendly.com/inbeat-co/meeting-inbeat-agency"
+                const calendlyUrl = "https://calendly.com/inbeatco/30min"
                   + "?name=" + encodeURIComponent(firstName + " " + lastName)
                   + "&email=" + encodeURIComponent(email)
                 window.location.href = calendlyUrl;
