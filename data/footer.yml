@@ -29,9 +29,9 @@
     - anchor: Growthnotes Newsletter
       link: 'https://www.growthnotes.news/'
       external: true
-    # - anchor: The Pulse Podcast
-    #   link: categories/podcasts
-    #   external: false
+    - anchor: Influencer Directory
+      link: top-influencers
+      external: false
     - anchor: The Toolkit
       link: free-toolkit
       external: false
