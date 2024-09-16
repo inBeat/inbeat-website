@@ -3,7 +3,7 @@
 	<div class="container">
 		<div class="row middle-xs between-xs" id="header">
 			<div class="col-xs-6 col-sm-1 col-md-1">
-				<a href="{{- $.Site.BaseURL -}}" title="inBeat" class="logo">
+				<a href="{{ .Site.BaseURL | absURL }}" title="inBeat" class="logo">
 					<div class="slide">{{- partial "icons/inbeat-logo.html" -}}</div>
 				</a>
 			</div>
@@ -34,7 +34,7 @@
 											<div class="pages">
 												{{- range .pages -}}
 												<li class="page">
-													<a href="{{ .link }}" target="{{ .target }}" class="inner --no-flex" title="{{ .name }}">
+													<a href="{{ .link | absURL }}" target="{{ .target }}" class="inner --no-flex" title="{{ .name }}">
 														<h4>
 															{{ .name }} {{ if .tag}}
 															<span class="tag">{{ .tag }}</span>
@@ -46,7 +46,7 @@
 													</a>
 												</li>
 												{{- end -}} {{ if eq .hasMorePage true }}
-												<a href="/free-toolkit" class="more-link">
+												<a href="{{ "free-toolkit" | absURL }}" class="more-link">
 													See all tools
 													<span>→</span>
 												</a>
@@ -65,7 +65,7 @@
 							</div>
 						</div>
 					</li>
-					<li><a href="/pricing" title="Pricing">Pricing</a></li>
+					<li><a href="{{ "pricing" | absURL }}" title="Pricing">Pricing</a></li>
 					<li class="has-submenu mobile-adjusted menu-parent">
 						<a href="javascript:void(0)" title="Resources">
 							Resources
@@ -91,7 +91,7 @@
 											<div class="pages">
 												{{- range .pages -}}
 												<li class="page">
-													<a href="{{ .link }}" target="{{ .target }}" class="inner --no-flex --no-wrap" title="{{ .name }}">
+													<a href="{{ .link | absURL }}" target="{{ .target }}" class="inner --no-flex --no-wrap" title="{{ .name }}">
 														<h4>
 															{{ .name }} {{ if .tag}}
 															<span class="tag">{{ .tag }}</span>
@@ -126,7 +126,7 @@
 						<a href="https://inbeat.agency/" target="_blank" title="Inbeat Agency">The Agency</a>
 					</li>
 					<li class="creator-studio">
-						<a href="{{- $.Site.BaseURL -}}ugc-marketplace" title="UGC Marketplace">UGC Marketplace</a>
+						<a href="{{ "ugc-marketplace" | absURL }}" title="UGC Marketplace">UGC Marketplace</a>
 						<span class="new-badge">NEW</span>
 					</li>
 				</ul>
@@ -138,7 +138,7 @@
               <a href="https://app.showca.se/users/sign_up?as=client" title="Sign up" class="btn btn-sm btn-crazy-hover no-border" target="_blank">Sign up - on Showcase</a>
             {{ else }}
               <a class="btn btn-lg no-background" href="https://app.inbeat.co"><span>Sign in</span></a>
-              <a href="/book-a-demo" title="Book a demo" class="btn btn-sm btn-crazy-hover no-border" target="_blank">Book a demo</a>
+              <a href="{{ "book-a-demo" | absURL }}" title="Book a demo" class="btn btn-sm btn-crazy-hover no-border" target="_blank">Book a demo</a>
             {{ end }}
 					</li>
 				</ul>
@@ -181,7 +181,7 @@
 							</li>
 							{{- range .pages -}}
 							<li>
-								<a href="{{- .link -}}">{{ .name }}</a>
+								<a href="{{ .link | absURL }}">{{ .name }}</a>
 								<p>{{ .description }}</p>
 							</li>
 							{{ end }}
@@ -189,7 +189,7 @@
 						{{- end -}}
 					</div>
 				</li>
-				<li><a href="{{- $.Site.BaseURL -}}pricing" title="Pricing">Pricing</a></li>
+				<li><a href="{{ "pricing" | absURL }}" title="Pricing">Pricing</a></li>
 				<li class="dropdown-item">
 					<div class="dropdown">
 						<a>Resources</a>
@@ -208,7 +208,7 @@
 							</li>
 							{{- range .pages -}}
 							<li>
-								<a href="{{- .link -}}">{{ .name }}</a>
+								<a href="{{ .link | absURL }}">{{ .name }}</a>
 								<p>{{ .description }}</p>
 							</li>
 							{{ end }}
