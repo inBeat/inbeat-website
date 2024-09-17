@@ -106,11 +106,11 @@ toolkits:
       text: Get an influencer’s audience audit & identify fake, dormant or suspect followers.
       icon: freetoolkit-pulsepodcast
       url: fake-follower-checker
-    - title: Top Instagram <br> Influencers 2023
+    - title: Top Instagram <br> Influencers 2024
       text: Find the top influencers in any niche, country & city with our Top Lists.
       icon: freetoolkit-ig-topinfluencers
       url: top-influencers/instagram
-    - title: Top TikTok <br> Influencers 2023
+    - title: Top TikTok <br> Influencers 2024
       text: Find the top influencers in any niche, country & city with our Top Lists.
       icon: freetoolkit-tiktok-topinfluencers
       url: top-influencers/tiktok
