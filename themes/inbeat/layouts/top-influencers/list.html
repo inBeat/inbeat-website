@@ -14,64 +14,65 @@
 </section>
 
 <section class="container mobile-adjusted" id="top-profiles-list">
-    {{- $forTiktok := eq .Params.platform "TikTok" -}}
-    {{- range $i, $e := .Params.profiles -}}
-    <div class="row ctn">
-        <div class="col-1">
-            <span>{{- add $i 1 -}}</span>
+  {{- $forTiktok := eq .Params.platform "TikTok" -}}
+  {{- range $i, $e := .Params.profiles -}}
+  <div class="profile-card">
+      <div class="image-container">
+          <span class="profile-number">{{- add $i 1 -}}</span>
+          {{- if $forTiktok -}}
+          <imgs rc="https://d3ohwuhzxp1dp0.cloudfront.net/tiktok/{{- $e.id -}}.jpeg" alt="{{- $e.username -}}">
+          {{- else -}}
+          <img src="https://d3ohwuhzxp1dp0.cloudfront.net/instagram/{{- $e.id -}}.jpeg" alt="{{- $e.username -}}">
+          {{- end -}}
+      </div>
+      <div class="content">
+        <div class="info">
+          <h4 class="handle">@{{- $e.username -}}</h4>
+          <span class="fullname">{{- $e.fullname -}}</span>
+          {{- if not (eq $e.location "") -}}
+          <p class="location">
+            {{- partial "icons/location.html" -}}
+            {{- $e.location -}}
+          </p>
+          {{- end -}}
+          <div class="cta">
+            <a href="https://app.inbeat.co/get-started">Collaborate</a>
+          </div>
         </div>
-        <div class="col-2">
-            {{- if $forTiktok -}}
-            <img src="https://d3ohwuhzxp1dp0.cloudfront.net/tiktok/{{- $e.id -}}.jpeg" alt="{{- $e.username -}}">
+        <div class="stats">
+          <div class="stat-item followers">
+            {{- $followers := $e.followers -}}
+            {{- if ge $followers 1000000 -}}
+            <p class="stat-value">{{- div (float (div $followers 100000)) 10 -}}M</p>
+            {{- else if ge $followers 1000 -}}
+            <p class="stat-value">{{- div (float (div $followers 100)) 10 -}}K</p>
             {{- else -}}
-            <img src="https://d3ohwuhzxp1dp0.cloudfront.net/instagram/{{- $e.id -}}.jpeg" alt="{{- $e.username -}}">
+            <p class="stat-value">{{- $followers -}}</p>
             {{- end -}}
+            <span class="stat-label">followers</span>
+          </div>
+          <div class="stat-item engagement">
+            <p class="stat-value">{{- div (float (div $e.engagement 10)) 10 -}}%</p>
+            <span class="stat-label">engagement</span>
+          </div>
+          <div class="stat-item comments-per-like">
+            <p class="stat-value">{{- div (float (int (mul $e.commentsToLikes 10000))) 10 -}}</p>
+            <span class="stat-label">comments per 1000 likes</span>
+          </div>
         </div>
-        <div class="col-3">
-            <div class="row">
-                <div class="col-4">
-                    <h4>@{{- $e.username -}}</h4>
-                    <span class="name">{{- $e.fullname -}}</span>
-                    {{- if not (eq $e.location "") -}}
-                    <p>
-                        {{- partial "icons/location.html" -}}
-                        {{- $e.location -}}
-                    </p>
-                    {{- end -}}
-                </div>
-                <div class="col-5 stats">
-                    {{- $followers := $e.followers -}}
-                    {{- if ge $followers 1000000 -}}
-                    <p>{{- div (float (div $followers 100000)) 10 -}}M</p>
-                    {{- else if ge $followers 1000 -}}
-                    <p>{{- div (float (div $followers 100)) 10 -}}K</p>
-                    {{- else -}}
-                    <p>{{- $followers -}}</p>
-                    {{- end -}}
-                    <span>followers</span>
-                </div>
-                <div class="col-5 stats">
-                    <p>{{- div (float (div $e.engagement 10)) 10 -}} %</p>
-                    <span>engagement</span>
-                </div>
-                <div class="col-5 stats">
-                    <p>{{- div (float (int (mul $e.commentsToLikes 10000))) 10 -}}</p>
-                    <span>comments per 1000 likes</span>
-                </div>
-                {{- if not (eq $e.bio "") -}}
-                <div class="col-xs-12">
-                    <p class="bio">{{- $e.bio -}}</p>
-                </div>
-                {{- end -}}
-                {{- if not (eq $e.hashtags "") -}}
-                <div class="col-xs-12">
-                    <p class="small"><strong>Most used hashtags:</strong>{{- $e.hashtags -}}</p>
-                </div>
-                {{- end -}}
-            </div>
+        {{- if not (eq $e.bio "") -}}
+        <div class="bio">
+          <p>{{- $e.bio -}}</p>
         </div>
-    </div>
-    {{- end -}}
+        {{- end -}}
+        {{- if not (eq $e.hashtags "") -}}
+        <div class="hashtags">
+          <p><strong>Most used hashtags:</strong> {{- $e.hashtags -}}</p>
+        </div>
+        {{- end -}}
+      </div>
+  </div>
+  {{- end -}}
 </section>
 
 {{- if isset .Params "countries" -}}

@@ -97,142 +97,64 @@
 }
 
 #top-profiles-list {
-    padding-bottom: 60px;
-    .row {
-        & > div {
-            position: relative;
-            width: 100%;
-            padding-right: 15px;
-            padding-left: 15px;
-            box-sizing: border-box;
-        }
-        &.ctn {
-            border-bottom: 1px solid #ebebeb;
-            padding-top: 20px;
-            padding-bottom: 20px;
-            &:last-of-type {
-                border: none;
-            }
-        }
+  .profile-card {
+    display: flex;
+    gap: 3.25rem;
+
+    .image-container {
+      display: flex;
+      gap: 1rem;
+
+      .number {
+        font-size: 1rem;
+      }
+
+      img {
+        width: 112px;
+        height: 112px;
+        border-radius: 100%;
+      }
     }
-    .col-1 {
-        flex: 0 0 10%;
-        max-width: 10%;
-        @include breakpoint(sm) {
-            flex: 0 0 8.33333%;
-            max-width: 8.33333%;
+
+    .content {
+      display: flex;
+
+      .info {
+        .handle {
+          margin: 0;
+          font-size: 1.25rem;
+          font-weight: 400;
+          line-height: 2.25rem;
+          /* 180% */
+          letter-spacing: -0.0187rem;
         }
-        span {
-            font-size: 20px;
-            line-height: 24px;
-            font-weight: 700;
+
+        .fullname {
+          font-size: 1rem;
+          font-weight: 400;
+          letter-spacing: -0.0125rem;
+          opacity: 0.75;
         }
+
+        .location {
+          margin: 10px 0;
+          font-size: 1rem;
+        }
+
+        .cta {
+          margin-top: 18px;
+
+          a {
+            background-color: black;
+            color: white;
+            padding: 12px 14px;
+            border-radius: 2px;
+            font-size: 0.875rem;
+          }
+        }
+      }
     }
-    .col-2 {
-        flex: 0 0 90%;
-        max-width: 90%;
-        @include breakpoint(sm) {
-            flex: 0 0 20%;
-            max-width: 20%;
-        }
-        img {
-            width: 100px;
-            height: auto;
-            border-radius: 50%;
-            margin-left: calc(40% - 35px);
-            padding-bottom: 20px;
-            @include breakpoint(sm) {
-                margin-left: 0;
-                padding-bottom: 0;
-            }
-        }
-    }
-    .col-3 {
-        flex: 0 0 100%;
-        max-width: 100%;
-        text-align: center;
-        @include breakpoint(sm) {
-            flex: 0 0 71.66667%;
-            max-width: 71.66667%;
-            text-align: left;
-        }
-        h4 {
-            font-weight: bold;
-            white-space: nowrap;
-            overflow: hidden;
-            text-overflow: ellipsis;
-            max-width: 100%;
-            margin-top: 0;
-            margin-bottom: 0.5rem;
-            font-size: 1.3rem;
-            line-height: 1.1;
-        }
-        span {
-            color: $dark_sub;
-            &.name {
-                white-space: nowrap;
-                overflow: hidden;
-                text-overflow: ellipsis;
-                max-width: 100%;
-                display: block;
-            }
-        }
-        p {
-            margin-top: 0.5rem;
-            text-align: center;
-            svg {
-                margin-right: 0.5rem;
-            }
-            @include breakpoint(sm) {
-                text-align: left;
-            }
-        }
-    }
-    .col-4 {
-        flex: 0 0 100%;
-        max-width: 100%;
-        padding-bottom: 20px;
-        @include breakpoint(sm) {
-            flex: 0 0 34%;
-            max-width: 34%;
-            padding-bottom: 0;
-        }
-    }
-    .col-5 {
-        flex: 0 0 33.333333%;
-        max-width: 33.333333%;
-        @include breakpoint(sm) {
-            flex: 0 0 22%;
-            max-width: 22%;
-        }
-        &.stats {
-            margin-top: 0.1rem;
-            @include breakpoint(xs-down) {
-                line-height: 1.2;
-            }
-            p {
-                font-size: 1.25rem;
-                font-weight: bold;
-                margin: 0;
-            }
-            span {
-                @include breakpoint(xs-down) {
-                    font-size: 0.75rem;
-                }
-            }
-        }
-    }
-    .col-xs-12 {
-        p {
-            color: $dark_sub;
-            font-size: 0.9rem;
-            line-height: 1.2;
-            margin: 10px 0;
-        }
-        strong {
-            margin-right: 5px;
-        }
-    }
+  }
 }
 
 .container.top-link-list,
