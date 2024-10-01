@@ -1,11 +1,13 @@
 {{- define "main" -}}
 <section class="container mobile-adjusted page-top" id="top-profiles-header">
-    <h1>{{ .Params.Title }}</h1>
+    <div class="header">
+      <h1>{{ .Params.Title }}</h1>
     {{- if isset .Params "text_top" -}}
     <p>{{ .Params.text_top }}</p>
     {{- else -}}
     <p>Identify the most popular {{ .Params.platform }} accounts on inBeat.</p>
     {{- end -}}
+    </div>
     <a href="{{ $.Site.BaseURL -}}features/deepsearch" class="btn btn-md btn-crazy" target="_blank">
         Find more influencers
     </a>
