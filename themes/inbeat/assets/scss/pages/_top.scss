@@ -99,7 +99,9 @@
 #top-profiles-list {
   .profile-card {
     display: flex;
-    gap: 3.25rem;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.10);
+    gap: 32px;
+    padding: 52px 0;
 
     .image-container {
       display: flex;
@@ -110,46 +112,137 @@
       }
 
       img {
-        width: 112px;
-        height: 112px;
+        width: 132px;
+        height: 132px;
         border-radius: 100%;
+        border: 1px solid #72727209;
+        overflow: hidden;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-size: 12px;
+        background-color: rgba(184, 184, 184, 0.1);
       }
     }
 
     .content {
-      display: flex;
+      display: grid;
+      gap: 60px;
+      height: fit-content;
+      grid-template-columns: 1fr 2fr 1fr;
+
 
       .info {
-        .handle {
-          margin: 0;
-          font-size: 1.25rem;
-          font-weight: 400;
-          line-height: 2.25rem;
-          /* 180% */
-          letter-spacing: -0.0187rem;
-        }
+        display: flex;
+        flex-direction: column;
+        gap: 24px;
 
-        .fullname {
-          font-size: 1rem;
-          font-weight: 400;
-          letter-spacing: -0.0125rem;
-          opacity: 0.75;
-        }
+        .display {
+          display: flex;
+          flex-direction: column;
+          gap: 6px;
 
-        .location {
-          margin: 10px 0;
-          font-size: 1rem;
+          .handle {
+            margin: 0;
+            font-size: 1rem;
+            font-weight: 400;
+            line-height: normal;
+            letter-spacing: -0.0187rem;
+          }
+
+          .fullname {
+            font-size: 0.875rem;
+            font-weight: 400;
+            line-height: 1.2rem;
+            opacity: 0.75;
+          }
+
+          .location {
+            margin: 10px 0 0;
+            font-size: 0.875rem;
+          }
         }
 
         .cta {
-          margin-top: 18px;
-
           a {
+            font-size: 0.8125rem;
+            font-weight: 400;
+            line-height: 1.25rem;
             background-color: black;
             color: white;
-            padding: 12px 14px;
-            border-radius: 2px;
-            font-size: 0.875rem;
+            padding: 10px 12px
+          }
+        }
+      }
+
+      .bio-info {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        gap: 8px;
+
+        .hashtags {
+          display: flex;
+          flex-direction: column;
+          gap: 6px;
+
+          h5,
+          p {
+            font-size: 0.75rem;
+            font-weight: 400;
+            font-style: normal;
+            letter-spacing: -0.0125rem;
+            line-height: normal;
+            margin: 0;
+          }
+
+          p {
+            opacity: 0.75;
+          }
+        }
+
+        .description {
+          p {
+            font-size: 0.8125rem;
+            font-weight: 400;
+            line-height: 1.25rem;
+            opacity: 0.50;
+            margin: 0;
+          }
+        }
+      }
+
+      .stats-wrapper {
+        display: flex;
+        align-items: center;
+        height: 100%;
+
+        .stats {
+          background-color: #F9F7F7;
+          display: flex;
+          padding: 40px;
+          gap: 40px;
+          height: fit-content;
+          align-items: center;
+          justify-content: space-evenly;
+          border-radius: 2px;
+
+          .stat-item {
+            display: flex;
+            flex-direction: column;
+            gap: 0px;
+            align-items: center;
+
+            .value {
+              font-size: 1rem;
+              letter-spacing: -0.01875rem;
+              margin: 0;
+            }
+
+            .label {
+              font-size: 0.75rem;
+              font-weight: 400;
+            }
           }
         }
       }
@@ -160,7 +253,7 @@
 .container.top-link-list,
 .container#top-profiles-list,
 .container#top-profiles-header {
-    max-width: 960px;
+    max-width: 1024px;
     @include breakpoint(tablet) {
         max-width: 720px;
     }
@@ -193,7 +286,7 @@
         color: white;
     }
     span {
-        font-weight: bold;;
+        font-weight: bold;
     }
     .col-xs-12 {
         padding: 1.5rem 1.5rem 2.5rem;
