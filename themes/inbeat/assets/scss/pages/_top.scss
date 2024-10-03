@@ -114,17 +114,17 @@
 
       @include breakpoint(sm) {
         grid-template-columns: 1fr auto;
-        gap: 12px;
+        gap: 16px;
       }
 
       .info {
-        display: flex;
+        display: grid;
         gap: 24px;
-        flex-direction: row;
+        grid-template-columns: 1fr 1fr;
 
         @include breakpoint(xs-down) {
-          flex-direction: column;
           align-items: center;
+          grid-template-columns: 1fr;
           gap: 16px;
         }
 
@@ -153,6 +153,7 @@
             @include breakpoint(xs-down) {
               gap: 24px;
               flex-direction: column;
+              align-items: center;
             }
 
             .image-container {
@@ -252,14 +253,13 @@
 
           @include breakpoint(xs) {
             justify-content: start;
+            gap: 16px
           }
 
-          .hashtags,
-          .description {
-            @include breakpoint(xs-down) {
-              align-items: center;
-              text-align: center;
-            }
+          .hashtags {
+            display: flex;
+            flex-direction: column;
+            gap: 4px;
 
             h5,
             p {
@@ -273,13 +273,14 @@
             p {
               opacity: 0.75;
             }
+
+            @include breakpoint(xs-down) {
+              align-items: center;
+              text-align: center;
+            }
           }
 
           .description {
-            @include breakpoint(xs-down) {
-              margin-top: 10px;
-            }
-
             p {
               font-size: 0.8125rem;
               line-height: 1.25rem;
@@ -287,7 +288,7 @@
               margin: 10px 0 0;
 
               @include breakpoint(xs-down) {
-                margin: 8px auto 0;
+                text-align: center;
                 max-width: 100%;
               }
             }
@@ -378,7 +379,6 @@
     }
   }
 }
-
 
 #top-bottom-cta {
     text-align: center;

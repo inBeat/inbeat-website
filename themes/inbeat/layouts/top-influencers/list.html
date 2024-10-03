@@ -48,10 +48,10 @@
             <h5>Most used hashtags:</h5>
             <p>{{- if ne $e.hashtags "" -}}{{- $e.hashtags -}}{{- else -}}No hashtags{{- end -}}</p>
           </div>
-          {{- if ne $e.bio "" -}}
-          <div class="description">
-            <p>{{- $e.bio -}}</p>
-          </div>
+          {{- if ne $e.description "" -}}
+            <div class="description">
+              <p>{{- $e.description -}}</p>
+            </div>
           {{- end -}}
         </div>
       </div>
