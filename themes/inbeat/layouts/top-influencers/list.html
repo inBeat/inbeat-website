@@ -13,68 +13,70 @@
     </a>
 </section>
 
-<section class="container mobile-adjusted" id="top-profiles-list">
+<section class="container" id="top-profiles-list">
   {{- $forTiktok := eq .Params.platform "TikTok" -}}
   {{- range $i, $e := .Params.profiles -}}
   <div class="profile-card">
-      <div class="image-container">
-          <span class="profile-number">{{- add $i 1 -}}</span>
-          {{- if $forTiktok -}}
-          <imgs rc="https://d3ohwuhzxp1dp0.cloudfront.net/tiktok/{{- $e.id -}}.jpeg" alt="{{- $e.username -}}">
-          {{- else -}}
-          <img src="https://d3ohwuhzxp1dp0.cloudfront.net/instagram/{{- $e.id -}}.jpeg" alt="{{- $e.username -}}">
-          {{- end -}}
-      </div>
-      <div class="content">
-        <div class="info">
+    <div class="content">
+      <div class="info">
+        <div class="profile-display-wrapper">
           <div class="display">
-            <h4 class="handle">@{{- $e.username -}}</h4>
-            <span class="fullname">{{- $e.fullname -}}</span> 
-            {{- if not (eq $e.location "") -}}
-            <p class="location">
-              {{- partial "icons/location.html" -}}
-              {{- $e.location -}}
-            </p>
-          {{- end -}}
+            <div class="image-container">
+              <span class="number">{{- add $i 1 -}}</span>
+              <img src="https://d3ohwuhzxp1dp0.cloudfront.net/{{- if $forTiktok -}}tiktok{{- else -}}instagram{{- end -}}/{{- $e.id -}}.jpeg" alt="{{- $e.username -}}">
+            </div>
+            <div class="display-handle">
+              <h4 class="handle">@{{- $e.username -}}</h4>
+              <span class="fullname">{{- $e.fullname -}}</span>
+              {{- if ne $e.location "" -}}
+              <p class="location">
+                {{- partial "icons/location.html" -}}
+                {{- $e.location -}}
+              </p>
+              {{- end -}}
+              <div class="cta">
+                <a href="https://app.inbeat.co/get-started">Work with this creator</a>
+              </div>
+            </div>
           </div>
-          <div class="cta">
+          <div class="cta mobile">
             <a href="https://app.inbeat.co/get-started">Work with this creator</a>
           </div>
         </div>
         <div class="bio-info">
-          {{- if not (eq $e.hashtags "") -}}
           <div class="hashtags">
             <h5>Most used hashtags:</h5>
-            <p>{{- $e.hashtags -}}</p>
+            <p>{{- if ne $e.hashtags "" -}}{{- $e.hashtags -}}{{- else -}}No hashtags{{- end -}}</p>
           </div>
-          {{- end -}}
-          {{- if not (eq $e.bio "") -}}
+          {{- if ne $e.bio "" -}}
           <div class="description">
-            <p>Fahad is a content creator based in the United States, focusing on gaming and sharing insights about animal care and wildlife.</p>
+            <p>{{- $e.bio -}}</p>
           </div>
           {{- end -}}
-        </div>
-        <div class="stats-wrapper">
-          <div class="stats">
-            <div class="stat-item followers">
-              {{- $followers := $e.followers -}}
-              {{- if ge $followers 1000000 -}}
-              <p class="value">{{- div (float (div $followers 100000)) 10 -}}M</p>
-              {{- else if ge $followers 1000 -}}
-              <p class="value">{{- div (float (div $followers 100)) 10 -}}K</p>
-              {{- else -}}
-              <p class="value">{{- $followers -}}</p>
-              {{- end -}}
-              <span class="label">followers</span>
-            </div>
-            <div class="stat-item engagement">
-              <p class="value">{{- div (float (div $e.engagement 10)) 10 -}}%</p>
-              <span class="label">engagement</span>
-            </div>
-          </div>
-
         </div>
       </div>
+      <div class="stats-wrapper">
+        <div class="stats">
+          <div class="stat-item followers">
+            {{- $followers := $e.followers -}}
+            <p class="value">
+              {{- if ge $followers 1000000 -}}
+                {{- div (float (div $followers 100000)) 10 -}}M
+              {{- else if ge $followers 1000 -}}
+                {{- div (float (div $followers 100)) 10 -}}K
+              {{- else -}}
+                {{- $followers -}}
+              {{- end -}}
+            </p>
+            <span class="label">followers</span>
+          </div>
+          <div class="stat-item engagement">
+            <p class="value">{{- div (float (div $e.engagement 10)) 10 -}}%</p>
+            <span class="label">engagement</span>
+          </div>
+        </div>
+      </div>
+    </div>
   </div>
   {{- end -}}
 </section>

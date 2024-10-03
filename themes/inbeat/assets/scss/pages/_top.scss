@@ -97,117 +97,200 @@
 }
 
 #top-profiles-list {
+  padding: 0 16px;
+
   .profile-card {
     display: flex;
-    border-bottom: 1px solid rgba(0, 0, 0, 0.10);
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
     gap: 32px;
     padding: 52px 0;
 
-    .image-container {
-      display: flex;
-      gap: 1rem;
-
-      .number {
-        font-size: 1rem;
-      }
-
-      img {
-        width: 132px;
-        height: 132px;
-        border-radius: 100%;
-        border: 1px solid #72727209;
-        overflow: hidden;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        font-size: 12px;
-        background-color: rgba(184, 184, 184, 0.1);
-      }
-    }
-
     .content {
       display: grid;
-      gap: 60px;
+      gap: 32px;
       height: fit-content;
-      grid-template-columns: 1fr 2fr 1fr;
+      justify-content: space-evenly;
+      grid-template-columns: 1fr;
 
+      @include breakpoint(sm) {
+        grid-template-columns: 1fr auto;
+        gap: 12px;
+      }
 
       .info {
         display: flex;
-        flex-direction: column;
         gap: 24px;
+        flex-direction: row;
 
-        .display {
+        @include breakpoint(xs-down) {
+          flex-direction: column;
+          align-items: center;
+          gap: 16px;
+        }
+
+        .profile-display-wrapper {
+          display: flex;
+          gap: 12px;
+          width: 100%;
+          flex-direction: column;
+
+          @include breakpoint(sm-down) {
+            width: 100%;
+            justify-content: space-evenly;
+          }
+
+          @include breakpoint(xs-down) {
+            align-items: center;
+            width: 100%;
+            gap: 16px;
+          }
+
+          .display {
+            display: flex;
+            gap: 16px;
+            justify-content: space-evenly;
+
+            @include breakpoint(xs-down) {
+              gap: 24px;
+              flex-direction: column;
+            }
+
+            .image-container {
+              display: flex;
+              gap: 1rem;
+              position: relative;
+
+              @include breakpoint(sm-down) {
+                gap: 0;
+              }
+
+              .number {
+                font-size: 0.8rem;
+                position: absolute;
+                background-color: white;
+                border: 1px solid rgba(114, 114, 114, 0.035);
+                width: 24px;
+                height: 24px;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                z-index: 10;
+                border-radius: 100%;
+              }
+
+              img {
+                width: 90px;
+                height: 90px;
+                border-radius: 100%;
+                border: 1px solid rgba(114, 114, 114, 0.035);
+                overflow: hidden;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                font-size: 12px;
+                background-color: rgba(184, 184, 184, 0.1);
+
+                @include breakpoint(xs-down) {
+                  width: 110px;
+                  height: 110px;
+                }
+
+                @include breakpoint(sm) {
+                  width: 132px;
+                  height: 132px;
+                }
+              }
+            }
+
+            .display-handle {
+              display: flex;
+              flex-direction: column;
+              gap: 8px;
+              width: fit-content;
+              max-width: 160px;
+              min-width: 120px;
+
+              @include breakpoint(xs-down) {
+                flex-direction: column;
+                align-items: center;
+              }
+
+              .handle,
+              .fullname,
+              .location {
+                margin: 0;
+                font-size: 0.875rem;
+                font-weight: 400;
+                line-height: normal;
+              }
+
+              .handle {
+                font-size: 1rem;
+                letter-spacing: -0.0187rem;
+              }
+
+              .fullname {
+                opacity: 0.75;
+              }
+
+              @include breakpoint(xs-down) {
+
+                .fullname,
+                .location {
+                  text-align: center;
+                }
+              }
+            }
+          }
+        }
+
+        .bio-info {
           display: flex;
           flex-direction: column;
-          gap: 6px;
+          justify-content: space-around;
+          width: fit-content;
 
-          .handle {
-            margin: 0;
-            font-size: 1rem;
-            font-weight: 400;
-            line-height: normal;
-            letter-spacing: -0.0187rem;
+          @include breakpoint(xs) {
+            justify-content: start;
           }
 
-          .fullname {
-            font-size: 0.875rem;
-            font-weight: 400;
-            line-height: 1.2rem;
-            opacity: 0.75;
+          .hashtags,
+          .description {
+            @include breakpoint(xs-down) {
+              align-items: center;
+              text-align: center;
+            }
+
+            h5,
+            p {
+              font-size: 0.75rem;
+              font-weight: 400;
+              letter-spacing: -0.0125rem;
+              line-height: normal;
+              margin: 0;
+            }
+
+            p {
+              opacity: 0.75;
+            }
           }
 
-          .location {
-            margin: 10px 0 0;
-            font-size: 0.875rem;
-          }
-        }
+          .description {
+            @include breakpoint(xs-down) {
+              margin-top: 10px;
+            }
 
-        .cta {
-          a {
-            font-size: 0.8125rem;
-            font-weight: 400;
-            line-height: 1.25rem;
-            background-color: black;
-            color: white;
-            padding: 10px 12px
-          }
-        }
-      }
+            p {
+              font-size: 0.8125rem;
+              line-height: 1.25rem;
+              opacity: 0.5;
+              margin: 10px 0 0;
 
-      .bio-info {
-        display: flex;
-        flex-direction: column;
-        justify-content: space-around;
-        gap: 8px;
-
-        .hashtags {
-          display: flex;
-          flex-direction: column;
-          gap: 6px;
-
-          h5,
-          p {
-            font-size: 0.75rem;
-            font-weight: 400;
-            font-style: normal;
-            letter-spacing: -0.0125rem;
-            line-height: normal;
-            margin: 0;
-          }
-
-          p {
-            opacity: 0.75;
-          }
-        }
-
-        .description {
-          p {
-            font-size: 0.8125rem;
-            font-weight: 400;
-            line-height: 1.25rem;
-            opacity: 0.50;
-            margin: 0;
+              @include breakpoint(xs-down) {
+                margin: 8px auto 0;
+                max-width: 100%;
+              }
+            }
           }
         }
       }
@@ -216,16 +299,30 @@
         display: flex;
         align-items: center;
         height: 100%;
+        width: 100%;
 
         .stats {
           background-color: #F9F7F7;
           display: flex;
-          padding: 40px;
-          gap: 40px;
+          padding: 32px;
+          gap: 32px;
           height: fit-content;
           align-items: center;
+          flex-direction: column;
           justify-content: space-evenly;
           border-radius: 2px;
+          width: 100%;
+
+          @include breakpoint(md) {
+            padding: 32px 52px;
+            flex-direction: row;
+            gap: 60px;
+          }
+
+          @include breakpoint(sm-down) {
+            padding: 24px;
+            flex-direction: row;
+          }
 
           .stat-item {
             display: flex;
@@ -248,19 +345,40 @@
       }
     }
   }
+
+  .cta {
+    display: none;
+
+    @include breakpoint(xs) {
+      margin-top: 10px;
+      width: 100%;
+      display: flex;
+    }
+
+    &.mobile {
+      display: flex;
+      margin-top: 0;
+      width: fit-content;
+      text-align: center;
+
+      @include breakpoint(xs) {
+        display: none;
+      }
+    }
+
+    a {
+      font-size: 0.8rem;
+      font-weight: 400;
+      line-height: 1.25rem;
+      background-color: black;
+      color: white;
+      padding: 10px;
+      width: 100%;
+      text-align: center;
+    }
+  }
 }
 
-.container.top-link-list,
-.container#top-profiles-list,
-.container#top-profiles-header {
-    max-width: 1024px;
-    @include breakpoint(tablet) {
-        max-width: 720px;
-    }
-    @include breakpoint(phone) {
-        max-width: 540px;
-    }
-}
 
 #top-bottom-cta {
     text-align: center;
