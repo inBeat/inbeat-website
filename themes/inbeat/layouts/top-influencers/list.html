@@ -1,4 +1,8 @@
 {{- define "main" -}}
+
+<div id="top-influencers">
+  {{ partial "site/unlock_calculator_popup.html" }}
+
 <section class="container mobile-adjusted page-top" id="top-profiles-header">
     <div class="header">
       <h1>{{ .Params.Title }}</h1>
@@ -15,69 +19,96 @@
 
 <section class="container" id="top-profiles-list">
   {{- $forTiktok := eq .Params.platform "TikTok" -}}
-  {{- range $i, $e := .Params.profiles -}}
-  <div class="profile-card">
-    <div class="content">
-      <div class="info">
-        <div class="profile-display-wrapper">
-          <div class="display">
-            <div class="image-container">
-              <span class="number">{{- add $i 1 -}}</span>
-              <img src="https://d3ohwuhzxp1dp0.cloudfront.net/{{- if $forTiktok -}}tiktok{{- else -}}instagram{{- end -}}/{{- $e.id -}}.jpeg" alt="{{- $e.username -}}">
-            </div>
-            <div class="display-handle">
-              <h4 class="handle">@{{- $e.username -}}</h4>
-              <span class="fullname">{{- $e.fullname -}}</span>
-              {{- if ne $e.location "" -}}
-              <p class="location">
-                {{- partial "icons/location.html" -}}
-                {{- $e.location -}}
-              </p>
-              {{- end -}}
-              <div class="cta">
+  {{- $profiles := .Params.profiles | default slice -}}
+  {{- $totalProfiles := len $profiles -}}
+  {{- if gt $totalProfiles 0 -}}
+
+    {{- range $i, $e := $profiles -}}
+      <!-- Open wrapper for last five profiles -->
+      {{- if eq $i (sub $totalProfiles 5) -}}
+        <div class="last-five-wrapper">
+      {{- end -}}
+
+      <!-- Profile Card -->
+      <div class="profile-card">
+        <div class="content">
+          <div class="info">
+            <div class="profile-display-wrapper">
+              <div class="display">
+                <div class="image-container">
+                  <span class="number">{{ add $i 1 }}</span>
+                  <img loading="lazy" src="https://d3ohwuhzxp1dp0.cloudfront.net/{{ if $forTiktok }}tiktok{{ else }}instagram{{ end }}/{{ $e.id }}.jpeg" alt="{{ $e.username }}">
+                </div>
+                <div class="display-handle">
+                  <h4 class="handle">@{{ $e.username }}</h4>
+                  <span class="fullname">{{ $e.fullname }}</span>
+                  {{- with $e.location -}}
+                    <p class="location">
+                      {{ partial "icons/location.html" }}
+                      {{ . }}
+                    </p>
+                  {{- end -}}
+                  <div class="cta">
+                    <a href="https://app.inbeat.co/get-started">Work with this creator</a>
+                  </div>
+                </div>
+              </div>
+              <div class="cta mobile">
                 <a href="https://app.inbeat.co/get-started">Work with this creator</a>
               </div>
             </div>
-          </div>
-          <div class="cta mobile">
-            <a href="https://app.inbeat.co/get-started">Work with this creator</a>
-          </div>
-        </div>
-        <div class="bio-info">
-          <div class="hashtags">
-            <h5>Most used hashtags:</h5>
-            <p>{{- if ne $e.hashtags "" -}}{{- $e.hashtags -}}{{- else -}}No hashtags{{- end -}}</p>
-          </div>
-          {{- if ne $e.description "" -}}
-            <div class="description">
-              <p>{{- $e.description -}}</p>
-            </div>
-          {{- end -}}
-        </div>
-      </div>
-      <div class="stats-wrapper">
-        <div class="stats">
-          <div class="stat-item followers">
-            {{- $followers := $e.followers -}}
-            <p class="value">
-              {{- if ge $followers 1000000 -}}
-                {{- div (float (div $followers 100000)) 10 -}}M
-              {{- else if ge $followers 1000 -}}
-                {{- div (float (div $followers 100)) 10 -}}K
-              {{- else -}}
-                {{- $followers -}}
+            <div class="bio-info">
+              <div class="hashtags">
+                <h5>Most used hashtags:</h5>
+                <p>{{ with $e.hashtags }}{{ . }}{{ else }}No hashtags{{ end }}</p>
+              </div>
+              {{- with $e.description -}}
+                <div class="description">
+                  <p>{{ . }}</p>
+                </div>
               {{- end -}}
-            </p>
-            <span class="label">followers</span>
+            </div>
           </div>
-          <div class="stat-item engagement">
-            <p class="value">{{- div (float (div $e.engagement 10)) 10 -}}%</p>
-            <span class="label">engagement</span>
+          <div class="stats-wrapper">
+            <div class="stats">
+              <div class="stat-item followers">
+                <p class="value">
+                  {{- $followers := $e.followers -}}
+                  {{- if ge $followers 1000000 -}}
+                    {{ div (float (div $followers 100000)) 10 }}M
+                  {{- else if ge $followers 1000 -}}
+                    {{ div (float (div $followers 100)) 10 }}K
+                  {{- else -}}
+                    {{ $followers }}
+                  {{- end -}}
+                </p>
+                <span class="label">followers</span>
+              </div>
+              <div class="stat-item engagement">
+                <p class="value">{{ div (float (div $e.engagement 10)) 10 }}%</p>
+                <span class="label">engagement</span>
+              </div>
+            </div>
           </div>
         </div>
+        
+        <!-- Overlay for last profile -->
+        {{- if eq $i (sub $totalProfiles 1) -}}
+          <div class="overlay" v-if="showOverlay">
+            <div class="overlay-content">
+              <h3>See all Top Influencers</h3>
+              <a href="#" class="btn btn-lg btn-crazy-hover no-border" @click.prevent="triggerUnlock">Unlock</a>
+            </div>
+          </div>
+        {{- end -}}
       </div>
-    </div>
-  </div>
+
+      <!-- Close wrapper for last five profiles -->
+      {{- if eq $i (sub $totalProfiles 1) -}}
+        </div>
+      {{- end -}}
+    {{- end -}}
+
   {{- end -}}
 </section>
 
@@ -112,4 +143,40 @@
         </a>
     </div>
 </div>
+</div>
+{{- partial "site/mixin/unlockCalculator.html" -}}
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    var app = new Vue({
+      el: '#top-influencers',
+      mixins: [unlockCalculator],
+      data() {
+        return {
+          showOverlay: true,
+          cookieName: 'Unlock / Top Influencers'
+        };
+      },
+      mounted() {
+        this.checkOverlay();
+      },
+      methods: {
+        checkOverlay() {
+          if (getCookie(this.cookieName) === "true"){
+            this.showOverlay = false;
+          }
+        },
+        triggerUnlock() {
+          this.showUnlockPopup()
+        }
+      },
+      watch: {
+        popupClass(newValue) {
+          if (newValue === '') {
+            this.showOverlay = false;
+          }
+        }
+      }
+    });
+  });
+</script>
 {{- end -}}

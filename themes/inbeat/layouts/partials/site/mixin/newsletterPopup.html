@@ -7,6 +7,7 @@
       subscriptionError: null,
       subscribed: false,
       beehiivLoading: false,
+      cookieName: 'Unlock / GlobalPopup'
     }),
     mounted() {
       setTimeout(() => {
@@ -38,7 +39,7 @@
           if (!this.isValidEmail(this.email)) {
             throw new Error("Invalid email address.");
           }
-          const result = await beehiivAPI.subscribe(this.email, "Global Popup");
+          const result = await beehiivAPI.subscribe(this.email, this.cookieName);
           if (result.error) throw new Error(result.error);
           this.subscribed = true;
         } catch (error) {

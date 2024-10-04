@@ -99,6 +99,36 @@
 #top-profiles-list {
   padding: 0 16px;
 
+  .last-five-wrapper {
+    position: relative;
+
+    .overlay {
+      position: absolute;
+      backdrop-filter: blur(6px);
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      background-color: rgba(248, 248, 248, 0.5);
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      z-index: 10;
+    }
+
+    .overlay-content {
+      text-align: center;
+      color: white;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      h3 {
+        color: #141514;
+      }
+    }
+  }
+
   .profile-card {
     display: flex;
     border-bottom: 1px solid rgba(0, 0, 0, 0.1);
@@ -382,7 +412,7 @@
 
 #top-bottom-cta {
     text-align: center;
-    margin-bottom: 1rem;
+    margin: 2rem auto;
     @include breakpoint(sm) {
         margin-bottom: 2rem;
     }
