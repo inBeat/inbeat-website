@@ -19,17 +19,12 @@
         this.toggleScroll(true);
         return true;
       },
-      async hideUnlockPopup() {
-        await setCookie(this.cookieName, "true", 90);
-        this.popupClass = "";
-        this.toggleScroll(false);
-      },
       toggleScroll(disable) {
         document.body.style.overflow = disable ? "hidden" : "";
       },
       outsideClick(event) {
         if (event.target.classList.contains('popupOverlay') && this.profileType === "creator") {
-          this.hideUnlockPopup();
+          this.hidePopup();
         }
       },
       setProfileType(type) {
@@ -53,7 +48,8 @@
           this.beehiivLoading = false;
         }
       },
-      hidePopup() {
+      async hidePopup() {
+        await setCookie(this.cookieName, "true", 90);
         this.popupClass = "";
         this.toggleScroll(false);
       },
