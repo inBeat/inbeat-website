@@ -8,19 +8,19 @@
         subscriptionError: null,
         subscribed: false,
         beehiivLoading: false,
+        cookieName: 'Unlock / Calculator'
       };
     },
     methods: {
       showUnlockPopup() {
-        if (getCookie("calculator") === "true") return false;
-        
+        if (getCookie(this.cookieName) === "true") return false;
         this.setProfileType("");
         this.popupClass = "show";
         this.toggleScroll(true);
         return true;
       },
       async hideUnlockPopup() {
-        await setCookie("calculator", "true", 90);
+        await setCookie(this.cookieName, "true", 90);
         this.popupClass = "";
         this.toggleScroll(false);
       },
@@ -44,7 +44,7 @@
           if (!this.isValidEmail(this.email)) {
             throw new Error("Invalid email address.");
           }
-          const result = await beehiivAPI.subscribe(this.email, "Unlock Calculator");
+          const result = await beehiivAPI.subscribe(this.email, this.cookieName);
           if (result.error) throw new Error(result.error);
           this.subscribed = true;
         } catch (error) {

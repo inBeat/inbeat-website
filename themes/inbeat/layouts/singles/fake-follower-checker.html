@@ -421,7 +421,6 @@
                       }, 500);
                   };
                   request.onerror = function () {
-                    console.log(request.response);
                     _this.error = 'An error occured. Try 3 times, if it doesn\'t work, Instagram might blocking this';
                     _this.loading = false;
                   }
