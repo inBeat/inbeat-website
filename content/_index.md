@@ -6,59 +6,14 @@ description: >-
 banner:
   show: true
 hero:
-  badgeText : Paid Resource  
-  title: TikTok & Instagram<br>Influencer Database
+  badgeText: Paid Resource
+  title: Free marketing toolkit
   subtitle: >-
-    A search engine to find Micro-Nano influencers in seconds
-  image: /images/features-quicksearch.png
+    A series of free tools for creator marketing, paid social, organic social and many other things.
+  image: /images/home-hero.png
   cta:
-    text: >-
-      <span>Book a demo</span>
-    link: "/book-a-demo"
-features:
-  - id: search
-    # class: popupTrigger
-    title: Search with flexibility
-    text: >-
-      Explore our <span>spam-checked database</span> of influencers using metrics and
-      keywords to find the profiles you need.
-    link:
-      text: Book a demo &#8594;
-      link: "/book-a-demo"
-      external: true
-    question:
-      text: How do you spam-check your influencers?
-      link: '#home-faq'
-      tooltip: We use several spam checking metrics and identify fake followers to vet the influencers we add to our database. 
-    video: search-with-flexibility
-  - id: pick
-    # class: popupTrigger
-    title: Pick out the bestest
-    text: >-
-      <span>Quickly</span> go through results and add the fitting influencers to your list. 
-    link:
-      text: Book a demo &#8594;
-      link: "/book-a-demo"
-      external: true
-    question:
-      text: Database vs marketplace?
-      link: '#home-faq'
-      tooltip: Our platform features influencers to whom we have no relationship to. We are a database of automatically added creators not a talent agency. 
-    video: pick-out-the-bestest
-  - id: export
-    # class: popupTrigger
-    title: Export for outreach
-    text: >-
-      Once your list is ready, you can export all <span>contact information</span> in a click. 
-    link:
-      text: Book a demo &#8594;
-      link: "/book-a-demo"
-      external: true
-    question:
-      text: What can I do with the exports?
-      link: '#home-faq'
-      tooltip: With a CSV export, you can run mass-contact outreach campaigns with other tools to contact influencers in bulk.
-    video: export-for-outreach
+    link: /free-toolkit
+    text: Explore tools — it's free
 extras:
   - title: Unlimited Searches
     text: Search as much as you want, using our powerful search filters.
@@ -70,40 +25,40 @@ extras:
     text: Keepin' it simple. We offer transparent fluffless pricing.
     icon: affordable-pricing
 whatwedo:
-    title: Creator Studio
-    text: Collaborate with the best micro-influencers, without doing all the work. Save hundres of hours. No more endless discovery, email pitches and influencer ghosting. Inbeat handles it all for you
-    newBadge: true 
-    video: CreatorStudio_Snippet 
-    cta:
-      link: https://www.inbeat.co/ugc-platform/
-      text: Learn More
+  title: Creator Studio
+  text: Collaborate with the best micro-influencers, without doing all the work. Save hundres of hours. No more endless discovery, email pitches and influencer ghosting. Inbeat handles it all for you
+  newBadge: true
+  video: CreatorStudio_Snippet
+  cta:
+    link: https://www.inbeat.co/ugc-platform/
+    text: Learn More
 toolkits:
-  id: 'influencer-database-tools'
+  id: "influencer-database-tools"
   tools:
-    - title: Instagram Engagement <br>  Rate Calculator
-      text: Gain insights on influencers with our rapid Instagram engagement checker.
-      icon: freetoolkit-ig-engagement
-      url: engagement-rate-calculator-instagram
-    - title: Instagram Money <br> Calculator
-      text: Evaluate the potential cost for different types of influencer collaborations.
-      icon: freetoolkit-ig-money
-      url: collaboration-cost-calculator-instagram
-    - title: TikTok Engagement <br> Rate Calculator
-      text: Gain insights on influencers with our rapid TikTok engagement checker.
-      icon: freetoolkit-tiktok-engagement
-      url: engagement-rate-calculator-tiktok
-    - title: Instagram Fake <br> Follower Checker
-      text: Get an influencer’s audience audit & identify fake, dormant or suspect followers.
-      icon: freetoolkit-pulsepodcast
-      url: fake-follower-checker
-    - title: Top Instagram <br> Influencers 2024
-      text: Find the top influencers in any niche, country & city with our Top Lists.
-      icon: freetoolkit-ig-topinfluencers
-      url: top-influencers/instagram
-    - title: Top TikTok <br> Influencers 2024
-      text: Find the top influencers in any niche, country & city with our Top Lists.
-      icon: freetoolkit-tiktok-topinfluencers
-      url: top-influencers/tiktok
+    - title: ROAS Calculator
+      text: Calculate or estimate your return on ad spend to give you an overview on the effectiveness & return on investment of paid campaigns.
+      icon: roas-calculator
+      url: return-on-ad-spend-calculator
+    - title: TikTok Ad Mockup <br> Generator
+      text: Design your own TikTok ad & preview all the in-app overlays before it goes live on the platform. 
+      icon: tiktok-ad-mockup
+      url: ad-mockup-generator/tiktok
+    - title: Snapchat Ad Mockup <br> Generator
+      text: This Ad Mockup generator allows you to fully customize all fields on a Snapchat ad, and upload your own media!
+      icon: snapchat-ad-mockup
+      url: ad-mockup-generator/snapchat
+    - title: CPM Calculator
+      text: Calculate the cost per thousand impressions for your influencer marketing campaigns.
+      icon: cpm-calculator
+      url: cpm-calculator
+    - title: CPA Calculator
+      text: Calculate your CPA (Cost Per Aquisition or Cost Per Action) across different channels.
+      icon: cpa-calculator
+      url: cpa-calculator
+    - title: Bounce rate calculator
+      text: Calculate the bouncing rate for your influencer marketing campaigns.
+      icon: bounce-rate-calculator
+      url: bounce-rate-calculator
 ---
 
 ---

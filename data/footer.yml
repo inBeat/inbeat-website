@@ -2,25 +2,6 @@
     - anchor: Learn More
       link: ugc-platform
       external: false
-    - anchor: Book a demo
-      link: /book-a-demo
-      external: true
-  col1_database:
-    - anchor: Sign in
-      link: https://app.inbeat.co/get-started#login
-      external: true
-    - anchor: Quick Search
-      link: features/quicksearch
-      external: false
-    - anchor: Deep Search
-      link: features/deepsearch
-      external: false
-    - anchor: Contact Exports
-      link: features/export-contacts
-      external: false
-    - anchor: Pricing
-      link: pricing
-      external: false
   col2:
     - anchor: Articles
       link: articles
@@ -29,9 +10,6 @@
     - anchor: Growthnotes Newsletter
       link: 'https://www.growthnotes.news/'
       external: true
-    - anchor: Influencer Directory
-      link: top-influencers
-      external: false
     - anchor: The Toolkit
       link: free-toolkit
       external: false
@@ -40,18 +18,6 @@
       external: true
 
   col3:
-    # - anchor: Instagram & TikTok influencer database
-    #   link: influencer-database
-    - anchor: Instagram Engagement Rate Calculator
-      link: engagement-rate-calculator-instagram
-    - anchor: TikTok Engagement Rate Calculator
-      link: engagement-rate-calculator-tiktok
-    - anchor: Influencer Money Calculator
-      link: collaboration-cost-calculator-instagram
-    - anchor: Top TikTok Influencers 2024
-      link: top-influencers/tiktok/
-    - anchor: Top Instagram Influencers 2024
-      link: top-influencers/instagram
     - anchor: CPM Calculator
       link: cpm-calculator
     - anchor: CTR Calculator
@@ -60,16 +26,5 @@
       link: cpa-calculator
     - anchor: Bounce Rate Calculator
       link: bounce-rate-calculator
-    - anchor: Instagram Fake Follower checker
-      link: fake-follower-checker
     - anchor: Ad Mockup Generator
       link: ad-mockup-generator
-  # col4:
-  #   - anchor: Quick Search
-  #     link: features/quicksearch
-  #   - anchor: Deep Search
-  #     link: features/deepsearch
-  #   - anchor: Contact Export
-  #     link: features/export-contacts/
-  #   - anchor: Influencer Tracking
-  #     link: influencer-tracking-software
