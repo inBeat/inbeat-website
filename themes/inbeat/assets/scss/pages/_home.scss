@@ -1,153 +1,60 @@
-#hero-influencer-database {
-  padding-top: 40px;
+#hero {
+  padding-top: 12rem;
+  padding-bottom: 8rem;
+  text-align: left;
 
-  .features-top-aside {
+  .grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    align-items: center;
+    gap: 100px;
+    
+    
     @include breakpoint(md-down) {
-      display: flex;
-      flex-direction: column;
-      align-items: center;
+      gap: 50px;
+      h1 {
+        font-size: 3rem;
+        line-height: 1.2;
+      }
+      p {
+        font-size: 1rem;
+        line-height: 1.2;
+      }
     }
-  }
-
-  .badge {
-    padding: 0px 12px 2px;
-    width: max-content;
-    background: #f9f7f7;
-    border-radius: 360px;
-    margin-bottom: 2rem;
 
     @include breakpoint(sm-down) {
-      margin-bottom: 24px;
-    }
-
-    .badge-text {
-      font-style: normal;
-      font-weight: 400;
-      font-size: 18px;
-      line-height: 28px;
+      grid-template-columns: 1fr;
+      gap: 0px;
+      img {
+        display: none;
+      }
       text-align: center;
-      margin: 0;
     }
   }
 
-  img {
-    width: 100%;
-    margin: 25px 0;
-  }
-
-  @include breakpoint(md-down) {
-    padding-top: 50px;
-    margin-bottom: 48px;
-
-    img {
-      transform: translateY(200px);
-      margin-top: -150px !important;
-      margin: 0 auto;
-      width: 80%;
-    }
-  }
-
-  @include breakpoint(sm-down) {
-    img {
-      transform: translateY(0px);
-      margin-top: 0px !important;
-      margin: 0 auto;
-      width: 100% !important;
-    }
-
-    .p-tb-80 {
-      padding-bottom: 0px;
-    }
-
-    .col-xs-12 {
-      padding: 0;
-    }
-  }
-
-  .row {
-    display: flex;
-    align-items: center;
-    text-align: center;
-    flex-direction: row-reverse;
-
-    @include breakpoint(md) {
-      text-align: left;
-      flex-direction: row;
-    }
-
-    .influencer-database-title {
-      line-height: 4rem;
-      font-size: 4rem;
-      font-weight: 700;
-      letter-spacing: -1px;
-      margin-bottom: 2rem;
-
-      @include breakpoint(sm-down) {
-        font-size: 2.1875rem;
-        line-height: 2.625rem;
-        letter-spacing: -1.4px;
-        margin-bottom: 24px;
+    .hero-image {
+      display: flex;
+      justify-content: flex-end;
+      img {
+        width: 90%;
       }
     }
 
-    .influencer-database-sub-title {
-      font-weight: 400;
-      font-size: 1.125rem;
-      line-height: 1.625rem;
-      opacity: 0.75;
-      margin: 0;
-
-      @include breakpoint(sm-down) {
-        opacity: 1;
-      }
-    }
-
-    .cta {
-      a {
-        display: block;
-        margin-top: 2rem;
-        width: max-content;
-
-        @include breakpoint(sm-down) {
-          margin: 24px 0px 48px 0px;
-        }
-      }
-
-      .btn:nth-child(2) {
-        margin-left: 15px;
-        padding-left: 10px;
-
-        span {
-          padding-left: 20px;
-          padding-right: 30px;
-        }
-      }
-
-      .btn:nth-child(1) {
-        border: none;
-      }
-    }
-  }
-}
-
-#hero {
-  padding-top: 10rem;
-  padding-bottom: 5rem;
-  text-align: center;
-
-  &.has-banner {
-    // Add the banner height size
-    transform: translateY(36.5px);
+  h1 {
+    color: #141514;
+    font-size: 4rem;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 4rem;
+    letter-spacing: -0.0625rem;
   }
 
-  h4 {
-    width: 100%;
-    margin-bottom: 4rem;
-
-    @include breakpoint(sm) {
-      margin: auto;
-      margin-bottom: 5rem;
-    }
+  p {
+    font-weight: 300;
+    font-size: 1.125rem;
+    line-height: 1.625rem;
+    opacity: 0.75;
+    margin-bottom: 2rem;
   }
 
   .cta {
@@ -190,6 +97,20 @@
         padding-right: 20px;
       }
     }
+
+    .btn:nth-child(2) {
+      margin-left: 15px;
+      padding-left: 10px;
+      span {
+        padding-left: 20px;
+        padding-right: 30px;
+      }
+    }
+
+    .btn:nth-child(1) {
+      border: none;
+    }
+
   }
 }
 

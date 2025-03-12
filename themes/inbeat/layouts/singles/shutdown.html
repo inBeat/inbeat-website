@@ -1,0 +1,105 @@
+{{- define "main" -}}
+<section class="shutdown-page">
+  <div class="shutdown-content">
+    <div class="shutdown-grid">
+      <div class="shutdown-grid-col">
+        <h4>Important update to our services</h4>
+        <h2>The database & some free tools are discontinued.</h2>
+      </div>
+      <div class="shutdown-grid-col shutdown-grid-col-text">
+        <p>Certain features of our platform were not in compliance with third-party Terms & Conditions. As a result,
+          we’ve decided to <b>immediately shut down the tools and database portions of inBeat that utilize or index data
+            from those sources.</b></p>
+        <p>This was not an easy decision, but it’s necessary to ensure we remain fully compliant. We apologize for any
+          inconvenience this may cause and appreciate your understanding during this transition. We’ll continue
+          providing our free toolkit for agencies and focusing on resources that don’t rely on those external data
+          sources.</p>
+        <p>For all platform users, we have issued a refund for the month of March, and all future invoices are
+          cancelled. </p>
+        <p>If you have any questions or need more information, please reach out to our team at <a
+            href="mailto:help@inbeat.co">help@inbeat.co</a></p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<style>
+  .shutdown-page {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: #F9F7F7;
+  }
+
+  .shutdown-page h4,
+  .shutdown-page p {
+    font-size: 1rem;
+    font-style: normal;
+    font-weight: lighter;
+    line-height: 1.75rem;
+    margin: 0;
+  }
+
+  .shutdown-grid {
+    max-width: 1240px;
+    padding: 10rem 1rem 10rem;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 2rem;
+  }
+  
+  .shutdown-grid-col h2 {
+    color: #141514;
+    font-size: 2.5rem;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 1rem;
+    letter-spacing: -0.0625rem;
+    margin-top: 1.5rem;
+  }
+
+  .shutdown-grid-col h4 {
+    color: rgba(0, 0, 0, 0.5);
+  }
+
+  .shutdown-grid-col p {
+    color: rgba(0, 0, 0, 0.75);
+  }
+
+  .shutdown-grid-col a {
+    color: #000;
+    text-decoration: underline;
+  }
+
+  .shutdown-grid-col-text {
+    display: flex;
+    flex-direction: column;
+    gap: 1.150rem;
+  }
+
+  @media (min-width: 768px) {
+    .shutdown-grid {
+      padding: 15rem 1rem 18rem;
+      grid-template-columns: 1fr 1fr;
+      gap: 4rem;
+    }
+
+    .shutdown-page h2,
+    .shutdown-page p {
+      font-size: 1.125rem;
+      line-height: 1.75rem;
+    }
+
+    .shutdown-grid-col h2 {
+      font-size: 4rem;
+      line-height: 4rem;
+    }
+
+    .shutdown-grid-col h4 {
+      font-size: 1.125rem;
+      line-height: 1.75rem;
+    }
+  }
+</style>
+{{- end -}}

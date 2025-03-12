@@ -10,38 +10,10 @@ toolkits:
   - influencerMarketingTools:
     subtitle: Influencer Marketing Tools
     tools:
-    - title: Instagram Engagement <br>  Rate Calculator
-      text: Gain insights on influencers with our rapid Instagram engagement checker.
-      icon: freetoolkit-ig-engagement
-      url: engagement-rate-calculator-instagram
-    - title: Instagram Money <br> Calculator
-      text: Evaluate the potential cost for different types of influencer collaborations.
-      icon: freetoolkit-ig-money
-      url: collaboration-cost-calculator-instagram
-    - title: TikTok Engagement <br> Rate Calculator
-      text: Gain insights on influencers with our rapid TikTok engagement checker.
-      icon: freetoolkit-tiktok-engagement
-      url: engagement-rate-calculator-tiktok
-    - title: Instagram Fake <br> Follower Checker
-      text: Get an influencer’s audience audit & identify fake, dormant or suspect followers.
-      icon: freetoolkit-pulsepodcast
-      url: fake-follower-checker
-    - title: Top Instagram <br> Influencers 2024
-      text: Find the top influencers in any niche, country & city with our Top Lists.
-      icon: freetoolkit-ig-topinfluencers
-      url: top-influencers/instagram
-    - title: Top TikTok <br> Influencers 2024
-      text: Find the top influencers in any niche, country & city with our Top Lists.
-      icon: freetoolkit-tiktok-topinfluencers
-      url: top-influencers/tiktok
     - title: Influencer Marketing <br> ROI Calculator
       text: Calculate campaign spend for an influencer marketing campaign & estimate it’s results
       icon: freetoolkit-spend-calculator
       url: influencer-marketing-roi-calculator
-    - title: Engagement Rate <br> Chrome Extension
-      text: Calculate Engagement Rate directly on Instagram, add profiles to a list & export it to a csv file!
-      icon: freetoolkit-engagement-calculator-chrome-extension
-      url: engagement-rate-chrome-extension
     - title: iMessage <br> ad template
       text: Create engaging, personalized ads with our easy-to-use 'iMessage' style Figma template.
       icon: freetoolkit-imessage-ad

@@ -54,3 +54,25 @@
 /articles/the-ultimate-guide-to-tiktok-music-marketing/ /articles/tiktok-music-marketing/ 301
 /articles/top-15-user-acquisition-agencies-finding-the-perfect-partner-to-boost-your-apps-growth/ /articles/user-acquisition-agencies/ 301
 /articles/top-20-influencer-marketing-agencies-2022/ /articles/top-influencer-marketing-agencies/ 301
+
+# Database redirects
+/features/quicksearch /shutdown 301
+/features/deepsearch /shutdown 301
+/features/export-contacts /shutdown 301
+
+/top-influencers/* /shutdown 301
+
+# Misc redirects
+/micro-influencer-platform /shutdown 301
+/influencer-tracking-software /shutdown 301
+/influencer-marketing /shutdown 301
+/influencer-database /shutdown 301
+/pricing /shutdown 301
+/book-a-demo /shutdown 301
+/industries /shutdown 301
+
+# Toolkits redirects
+/engagement-rate-calculator-instagram /shutdown 301
+/engagement-rate-calculator-tiktok /shutdown 301
+/fake-follower-checker /shutdown 301
+/collaboration-cost-calculator-instagram /shutdown 301

@@ -1,86 +1,28 @@
 home:
-  - question: How do you select your creators?
+  - question: Is inBeat an influencer marketing agency or a platform?
     answer: >-
-      We vet the top 3% of creators for every niche to make sure your brand will collaborate with
-      influencers that fit your industry and create top-notch content. Our discovery process is based
-      on the different criteria you define as a good fit (location, gender, lifestyle, niche, etc).
-  - question: What kind of content can I create?
+      We are an agency, and decided to make the resources we developed for internal use available for anyone!
+  - question: What happened to the influencer database?
     answer: >-
-      Our UGC Creator Studio helps you create sny kind of content promoting your product or service
-      (unboxing, testimonials, mobile app showcase, product demo, lifestyle shots…). While most of
-      our creators work on Instagram or TikTok, any piece of content created is easily repurposable
-      on your website or any other social media platform (Facebook, Snapchat, Reddit, Twitter,
-      Pinterest…).
-  - question: Where is your old database platform?
+      We removed our database to focus on a free toolkit for influencer marketing and paid social. This lets us stay within guidelines and deliver easy-to-use tools for everyone.
+  - question: Why switch from a platform to a toolkit?
     answer: >-
-      You can still log in to our [influencer database platform](https://inbeat.co/influencer-database/) with your username and password.
-  - question: What are the benefits of using a UGC Platform?
+      We wanted to provide marketers with quick, free solutions that don't require subscriptions or databases. The toolkit approach is more nimble and accessible for all.
+  - question: Can you still export contacts with inBeat Platform?
     answer: >-
-      A UGC Platform helps you collaborate with influencers to create UGC at scale, without having to
-      put in any effort. The platform handles it all for you. You end up with high quality content from
-      influencers that know your audience and your niche, hassle-free.
-  - question: How much control on the creative direction do I have when using inBeat?
+      We no longer offer direct influencer discovery or outreach tools. Instead, we provide resources to help you evaluate and measure campaigns on your own.
+  - question: Is the inBeat Toolkit really free?
     answer: >-
-      This is entirely up to you. You can decide if you want your creative brief to be very specific or if
-      you want to let the professional creators have more freedom when endorsing your product or
-      service.
-  - question: Will I have copyright on all the content created for my brand through inBeat?
+      Yes! All of our tools are entirely free to use. No subscriptions, no hidden fees.
+  - question: Do I need an account to access the tools?
     answer: >-
-      Every piece of content created through our user-generated content platform belongs to your
-      company and you a free to use it for you business as many times as you desire to.
-influencerDatabase:
-  - question: How does the influencer database work?
+      Nope. You can use our calculators and ad generators right away without creating an account.
+  - question: What kind of tools do you offer?
     answer: >-
-      You will receive access to our full database of influencers with their contact information.
-      We do not have preexisting relationships with these Instagram or TikTok influencers,
-      which means you can find the ideal influencer for your marketing campaigns. You own
-      the influencer relationship, allowing you to negotiate the deals you want.
-  - question: Can I cancel my subscription whenever I want?
+      We provide a range of utilities for influencer marketing (like our ROI calculator) and paid social (such as ad mockup generators and CPM calculators).
+  - question: How accurate are your calculators and tools?
     answer: >-
-      Yes, you can change or cancel your plan at any time in your settings.
-      Once you have canceled your plan, you will retain access to your premium
-      plan until the end of your subscription cycle. At this point, you will be
-      moved to our free plan.
-  - question: Which search filters are you offering?
-    answer: >-
-      Using inBeat, you can filter your search by: Followers, Location, Language,
-      Engagement, Is Verified, Has Email, Has Website. Both the location and the
-      language filters are not available on the Teaser Plan.
-  - question: What is a campaign?
-    answer: >-
-      An influencer marketing campaign usually represents a specific outreach effort.
-      For example, you want to outreach 100 potential influencers for a back-to-school campaign.
-      It is an easy way to manage the lifecycle of your influencer marketing.
-  - question: What do I get when I export my campaign?
-    answer: >-
-      You will receive the following information, if available: Handle, Email, Profile URL, Language,
-      Followers, Engagement, Topics, Website.
-  - question: How do I contact influencers when I am done searching?
-    answer: >-
-      When you export your campaign, you will receive a CSV file, which you can add to your favorite
-      CRM tool. We propose using Mailshake or Gmass, but you can use any tool you wish. These tools
-      make pitching influencers much easier to manage.
-  - question: Should I hire an influencer marketing agency?
-    answer: >-
-      It’s a question we get a lot, and the answer is **it depends**. Because a lot of our clients were looking
-      for an [influencer marketing agency](https://inbeat.agency/), we created one that focuses strictly on
-      micro-influencer marketing. You should consider factors such as internal resources, budget, complexity
-      and scale when choosing between using a tool in-house or hiring an agency.
-  - question: How do you spam-check your influencers?
-    answer: >-
-      We pre-vet all of our profiles by checking content authenticity, engagement metrics, and fraudulent behaviors.
-  - question: We are a charity, do you have any special discounts?
-    answer: >-
-      Absolutely. Contact us and we will unlock our charity plan for you.
-  - question: Do you have a partnership with the influencers on your platform?
-    answer: >-
-      We don't have any relationship with the influencers displayed on inBeat. They were chosen and added
-      to our platform based on their content authenticity and their metrics.
-  - question: I don't want my profile listed on inBeat! Can you remove it?
-    answer: >-
-      Of course! Just contact us by email and we'll take care of it right away.
-  - question: What is inBeat UGC platform
-    answer: The [UGC Platform](https://inbeat.co/ugc-platform/) (User Generated Content) is a platform that allows brands & agencies to work with a highly vetted network of Top Social Media creators that generate high quality user generated content. 
+      They're designed to give you quick, reliable estimates based on standard industry metrics. Of course, results can vary depending on real-world factors.
 tiktok:
   - question: How do I find TikTok influencers?
     answer: >-
@@ -104,11 +46,6 @@ tiktok:
       always consider your target audience. This is a principle that’s true across any influencer marketing campaign.
       So, you should take into consideration the following: Audience alignment, Engagement rate, Location, Other
       social media profiles
-  - question: Who are the top influencers on TikTok?
-    answer: >-
-      We have an entire section to the [top TikTok influencers](https://www.inbeat.co/top-influencers/tiktok/). Feel
-      free to use our tool or navigate this section to help you find the best influencers by region, country, and
-      niche.
   - question: Should I work with TikTok influencers?
     answer: >-
       TikTok is built around short-form video content, and their audience is Gen-Z, female biased. If you’re a
@@ -429,9 +366,6 @@ campaignSpend_calculator:
       engagement rate, and type of content. For example, a micro - influencer’s Instagram post can
       cost $100-$500 and $1,500 on TikTok.<br>
       To assess the correct influencer fees, use some of our other free tools:<br>
-      &#x25CF; [Instagram engagement rate calculator](https://www.inbeat.co/engagement-rate-calculator-instagram/)<br>
-      &#x25CF; [TikTok engagement rate calculator](https://www.inbeat.co/engagement-rate-calculator-tiktok/)<br>
-      &#x25CF; [Instagram money calculator](https://www.inbeat.co/collaboration-cost-calculator-instagram/)<br>
   - question: How do you calculate ROI on an influencer campaign?
     answer: >-
       To calculate the ROI from an influencer campaign, divide the revenue your content creators

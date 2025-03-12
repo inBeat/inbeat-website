@@ -1,15 +1,21 @@
 {{- define "main" -}}
 {{- with .Params.hero -}}
 <section class="container mobile-adjusted" id="hero">
-    <h1>{{- .title | markdownify -}}</h1>
-    <h4>{{- .subtitle | markdownify -}}</h4>
-    <div class="cta">
-        <a href="{{- .cta.link -}}" target="_blank" class="btn btn-lg btn-crazy-hover" title="Book a demo" id="hero-cta">
-            {{- htmlUnescape .cta.text | markdownify -}}
-        </a>
-        <a href="javascript:void(0)" title="Watch Video" target="_blank" class="btn btn-lg btn-white popupTrigger" data-popup-id="videoPopup">
-            <span>{{- partial (printf "icons/%s.html" "arrow-left") -}}</span> Watch Video
-        </a>
+    <div class="grid">
+        <div class="col-1">
+            <h1>{{- .title | markdownify -}}</h1>
+            <p>{{- .subtitle | markdownify -}}</p>
+            <div class="cta">
+                <a href="{{- .cta.link -}}" target="_blank" class="btn btn-lg btn-crazy-hover" title="Book a demo" id="hero-cta">
+                    {{- htmlUnescape .cta.text | markdownify -}}
+                </a>
+            </div>
+        </div>
+        <div class="col-2">
+            <div class="hero-image">
+                <img src="{{- .image -}}" alt="{{- .title -}}">
+            </div>
+        </div>
     </div>
 </section>
 {{- end -}}
@@ -54,47 +60,10 @@
 </section>
 {{- end -}}
 
-
-
-<section class="container m-tb-160 mobile-adjusted" id="extras">
-    <div class="row large-gutter">
-        {{- range .Params.extras -}}
-        <div class="col-xs-12 col-lg-4 ">
-            <div class="icon-ctn" id="{{- .icon -}}"></div>
-            <h3>{{- .title -}}</h3>
-            <p>{{- .text -}}</p>
-        </div>
-        {{- end -}}
-    </div>
-</section>
-
-{{- partial "site/whatwedo.html" . -}}
-
-{{- with .Params.startnow -}}
-<section class="container m-tb-160 mobile-adjusted" id="start-now">
-    <div class="row large-gutter">
-        <div class="col-xs-12 col-md-4 col1">
-            <h2>{{- .title -}}</h2>
-            <h4>{{- .description -}}</h4>
-            <a href="/book-a-demo" title="Book a demo" class="btn btn-crazy btn-md" target="_blank">
-                <span>Book a demo</span> &#8212 it's free
-            </a>
-            <p class="signin">
-                Already in the family?
-                <a href="https://app.inbeat.co" title="Sign in">Sign in</a>.
-            </p>
-        </div>
-        <div class="col-xs-12 col-md-8 hide-md">
-            <div class="icon-ctn"></div>
-        </div>
-    </div>
-</section>
-{{- end -}}
-<!-- {{- partial "site/tools-section.html" -}} -->
 <div id="freetoolkit" class="mt-120 freetoolkit-sec">
   <section class="toolkits container">
     <a href="{{- $.Site.BaseURL -}}free-toolkit" title="Free Toolkit" class="toolkit-title">
-        <h3>Explore our free tools</h3>
+        <h3>Most popular</h3>
         <svg viewBox="0 0 32 32" style="width: 30px; height: 30px;" viewBox="0 0 32 32" aria-hidden="true"><path d="M18.629 15.997l-7.083-7.081L13.462 7l8.997 8.997L13.457 25l-1.916-1.916z"/></svg>     
     </a>
       <div class="row">
@@ -117,6 +86,20 @@
   </section>
 </div>
 
-{{- partial "site/faq.html" (dict "context" . "faq" .Site.Data.faq.influencerDatabase "id" "home-faq") -}}
+<section class="container m-tb-160 mobile-adjusted" id="extras">
+    <div class="row large-gutter">
+        {{- range .Params.extras -}}
+        <div class="col-xs-12 col-lg-4 ">
+            <div class="icon-ctn" id="{{- .icon -}}"></div>
+            <h3>{{- .title -}}</h3>
+            <p>{{- .text -}}</p>
+        </div>
+        {{- end -}}
+    </div>
+</section>
+
+{{- partial "site/whatwedo.html" . -}}
+
+{{- partial "site/faq.html" (dict "context" . "faq" .Site.Data.faq.home "id" "home-faq") -}}
 
 {{- end -}}

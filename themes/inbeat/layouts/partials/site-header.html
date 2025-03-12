@@ -10,12 +10,6 @@
 			<div class="col-xs-7 col-md-8 hide-sm">
 				<ul class="navigation-parent">
 					<li class="menu-parent has-submenu">
-						<a href="javascript:void(0)" title="Features">
-							Features
-							<svg width="11" height="6" viewBox="0 0 11 6" fill="none" xmlns="http://www.w3.org/2000/svg">
-								<path d="M1 1L5.4698 5L10 1" stroke="black" />
-							</svg>
-						</a>
 						<div id="navigation">
 							<div class="submenu container auto-width">
 								<div class="row">
@@ -65,7 +59,6 @@
 							</div>
 						</div>
 					</li>
-					<li><a href="{{ "pricing" | absURL }}" title="Pricing">Pricing</a></li>
 					<li class="has-submenu mobile-adjusted menu-parent">
 						<a href="javascript:void(0)" title="Resources">
 							Resources
@@ -122,9 +115,6 @@
 							</div>
 						</div>
 					</li>
-					<li class="hide-md">
-						<a href="https://inbeat.agency/" target="_blank" title="Inbeat Agency">The Agency</a>
-					</li>
 					<li class="creator-studio">
 						<a href="{{ "ugc-marketplace" | absURL }}" title="UGC Marketplace">UGC Marketplace</a>
 						<span class="new-badge">NEW</span>
@@ -137,8 +127,7 @@
             {{ if eq .RelPermalink "/ugc-marketplace/" }}
               <a href="https://app.showca.se/users/sign_up?as=client" title="Sign up" class="btn btn-sm btn-crazy-hover no-border" target="_blank">Sign up - on Showcase</a>
             {{ else }}
-              <a class="btn btn-lg no-background" href="https://app.inbeat.co"><span>Sign in</span></a>
-              <a href="{{ "book-a-demo" | absURL }}" title="Book a demo" class="btn btn-sm btn-crazy-hover no-border" target="_blank">Book a demo</a>
+              <a href="/shutdown" title="Important Update" class="btn btn-sm btn-crazy-hover no-border">Important Update</a>
             {{ end }}
 					</li>
 				</ul>
@@ -152,44 +141,20 @@
 			</div>
 		</div>
 	</div>
-  {{$url := print "/articles/" .File.BaseFileName "/"}} {{ if and (eq .Page.RelPermalink $url) }}
-	<div class="progress-bar--container">
-		<div class="progress-bar"></div>
-	</div>
-	{{ end }}
+  {{ $url := "" }}
+  {{ with .File }}
+    {{ $url = print "/articles/" .BaseFileName "/" }}
+  {{ end }}
+  {{ if and (ne $url "") (eq .Page.RelPermalink $url) }}
+    <div class="progress-bar--container">
+      <div class="progress-bar"></div>
+    </div>
+  {{ end }}
 </section>
 <div id="menu-overlay">
 	<div class="container">
 		<div class="row">
 			<ul class="dropdown-wrapper">
-				<li class="dropdown-item">
-					<div class="dropdown">
-						<a>Features</a>
-						<svg class="arrow-ico" width="20" height="11" viewBox="0 0 20 11" fill="none" xmlns="http://www.w3.org/2000/svg">
-							<path d="M1 0.803223L10 9.80322L19 0.803223" stroke="black" />
-						</svg>
-					</div>
-
-					<div class="content">
-						{{- range .Site.Data.navigation.features -}}
-						<ul>
-							<li class="content-title title--black">
-								<svg width="10" height="11" viewBox="0 0 10 11" fill="none" xmlns="http://www.w3.org/2000/svg">
-									<ellipse fill="black" rx="5" ry="5" transform="matrix(1 0 0 1 5 5)" />
-								</svg>
-								{{ .title }}
-							</li>
-							{{- range .pages -}}
-							<li>
-								<a href="{{ .link | absURL }}">{{ .name }}</a>
-								<p>{{ .description }}</p>
-							</li>
-							{{ end }}
-						</ul>
-						{{- end -}}
-					</div>
-				</li>
-				<li><a href="{{ "pricing" | absURL }}" title="Pricing">Pricing</a></li>
 				<li class="dropdown-item">
 					<div class="dropdown">
 						<a>Resources</a>
@@ -216,7 +181,6 @@
 						{{- end -}}
 					</div>
 				</li>
-				<li><a href="https://inbeat.agency/" target="_blank" title="Inbeat Agency">The Agency</a></li>
 				<li><a href="{{- $.Site.BaseURL -}}ugc-platform" title="UGC Platform">UGC Platform</a></li>
 			</ul>
 
@@ -224,8 +188,7 @@
         {{ if eq .RelPermalink "/ugc-platform/" }}
           <a href="https://app.showca.se/users/sign_up?as=client" title="Sign up" class="btn btn-sm btn-crazy-hover no-border" target="_blank">Sign up - on Showcase</a>
         {{ else }}
-          <a class="btn btn-lg" href="/book-a-demo" target="_blank"><span>Book a demo</span></a>
-          <a class="btn btn-lg no-background" href="https://app.inbeat.co"><span>Sign in</span></a>
+          <a class="btn btn-lg" href="/shutdown" target="_blank"><span>Important Update</span></a>
         {{ end }}
 			</div>
 		</div>

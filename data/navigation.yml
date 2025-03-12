@@ -36,46 +36,6 @@ solutions:
       - name: Micro Influencers
       - name: Macro Influencers
 
-features:
-  # - color: grey
-  #   title: Learn
-  #   pages:
-  #     - name: Articles
-  #       description: Read about influencer marketing
-  #       link: '/articles'
-  #       target: '_self'
-  #     - name: Growthnotes - Newsletter
-  #       description: Insights for the modern marketer
-  #       link: 'https://www.growthnotes.news/'
-  #       target: '_blank'
-  #     # - name: The Pulse Podcast
-  #     #   description: Listen to influencer marketing experts
-  #     #   link: '/categories/podcasts/'
-  #     #   target: '_self'
-  - color: grey
-    title: The Database
-    # tag: Free
-    # hasMorePage: true
-    announcement:
-      color: 303545
-      title: Create UGC that converts with a fully managed platform.
-      topText: UGC Platform
-      cta:
-        text: Learn more
-        color: EBFDE6
-        title: UGC Platform
-        link: '/ugc-platform'
-    pages:
-      - name: Influencer search engine
-        link: '/features/quicksearch'
-        target: '_self'
-      - name: Automated similar profile searches
-        link: '/features/deepsearch'
-        target: '_self'
-      - name: Bulk contact exports
-        link: '/features/export-contacts'
-        target: '_self'
-
 resources:
   - color: grey
     title: Learn
@@ -102,30 +62,26 @@ resources:
         title: Visit AdCollection
         link: 'https://www.showca.se/'
     pages:
-      - name: Engagement rate calculator
-        link: '/engagement-rate-calculator-instagram/'
-        target: '_self'
-      - name: Fake follower checker
-        link: '/fake-follower-checker/'
-        target: '_self'
-      - name: Collaboration cost calculator
-        link: '/collaboration-cost-calculator-instagram/'
-        target: '_self'
       - name: Ad Mockup Generator
         link: '/ad-mockup-generator'
         target: '_self'
         tag: 'New'
-      # - name: TikTok & Instagram influencer Database
-      #   link: '/influencer-database'
-      #   target: '_self'
-      #   tag: 'Pro'
+      - name: CPM Calculator
+        link: '/cpm-calculator/'
+        target: '_self'
+      - name: CTR Calculator
+        link: '/ctr-calculator/'
+        target: '_self'
+      - name: CPA Calculator
+        link: '/cpa-calculator/'
+        target: '_self'
+      - name: Bounce Rate Calculator
+        link: '/bounce-rate-calculator/'
+        target: '_self'
 
 footer:
   toolkits:
-    - name: Instagram Engagement Rate Calculator
     - name: TikTok Engagement Rate Calculator
-    - name: Influencer Money Calculator
-    - name: Instagram Fake Follower checker
     - name: Top Instagram Influencers
     - name: Top TikTok Influencers
   social:
@@ -137,6 +93,3 @@ footer:
       link: 'https://ca.linkedin.com/company/plll'
     - name: Facebook
       link: 'https://www.facebook.com/inBeat.co/'
-  support:
-    - name: Book a demo
-      link: '/book-a-demo'
