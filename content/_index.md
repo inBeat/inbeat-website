@@ -15,14 +15,14 @@ hero:
     link: /free-toolkit
     text: Explore tools — it's free
 extras:
-  - title: Unlimited Searches
-    text: Search as much as you want, using our powerful search filters.
+  - title: Find what you need
+    text: If you’re looking for it, we’ve got it! Use our free tools, and request more.
     icon: unlimited-searches
   - title: Blazingly Fast
-    text: You might not care, but we do. Our search engine returns results in milliseconds. We take pride in that.
+    text: All our tools are designed to look great and work seamlessly fast!
     icon: blazingly-fast
-  - title: Affordable pricing
-    text: Keepin' it simple. We offer transparent fluffless pricing.
+  - title: Free, forever
+    text: Our tools we’re designed to be free, and will remain so! We’re looking to create a great resource for everyone!
     icon: affordable-pricing
 whatwedo:
   title: Creator Studio
