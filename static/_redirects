@@ -64,7 +64,8 @@
 # Misc redirects
 /micro-influencer-platform* /shutdown 301
 /influencer-tracking-software* /shutdown 301
-/influencer-marketing* /shutdown 301
+/influencer-marketing/ /shutdown 301
+/influencer-marketing /shutdown 301
 /influencer-database* /shutdown 301
 /pricing* /shutdown 301
 /book-a-demo* /shutdown 301
