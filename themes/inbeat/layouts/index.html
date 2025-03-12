@@ -100,25 +100,6 @@
 
 {{- partial "site/whatwedo.html" . -}}
 
-{{- with .Params.startnow -}}
-<section class="container m-tb-160 mobile-adjusted" id="start-now">
-    <div class="row large-gutter">
-        <div class="col-xs-12 col-md-4 col1">
-            <h2>{{- .title -}}</h2>
-            <h4>{{- .description -}}</h4>
-            <a href="/book-a-demo" title="Book a demo" class="btn btn-crazy btn-md" target="_blank">
-                <span>Book a demo</span> &#8212 it's free
-            </a>
-        </div>
-        <div class="col-xs-12 col-md-8 hide-md">
-            <div class="icon-ctn"></div>
-        </div>
-    </div>
-</section>
-{{- end -}}
-<!-- {{- partial "site/tools-section.html" -}} -->
-
-
 {{- partial "site/faq.html" (dict "context" . "faq" .Site.Data.faq.home "id" "home-faq") -}}
 
 {{- end -}}
