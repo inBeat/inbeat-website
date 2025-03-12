@@ -69,6 +69,7 @@
 /influencer-database /shutdown 301
 /pricing /shutdown 301
 /book-a-demo /shutdown 301
+/industries /shutdown 301
 
 # Toolkits redirects
 /engagement-rate-calculator-instagram /shutdown 301
