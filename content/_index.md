@@ -1,8 +1,8 @@
 ---
-title: inBeat Influencer Database | Search TikTok and Instagram Influencers
+title: inBeat | Free Marketing Toolkit for Creator Marketing
 description: >-
-  Search and find TikTok and Instagram influencers in our spam-checked influencer
-  database. Use our tools to search, vet and track your influencer marketing campaigns.
+  Access our free toolkit for creator marketing, paid social, and organic social campaigns.
+  Explore tools designed to help you optimize your marketing strategies and campaigns.
 banner:
   show: true
 hero:

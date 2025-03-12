@@ -1,8 +1,8 @@
-email: "david@inbeat.co"
-bookcall: "https://calendly.com/inbeat-co/inbeat-co-demo"
-ugcBookDemo: "/book-a-demo"
+email: "help@inbeat.co"
+bookcall: "/shutdown"
+ugcBookDemo: "/shutdown"
 signupLink: "https://app.inbeat.co/get-started"
-sitedescription: "Search and find TikTok and Instagram influencers in our spam-checked influencer database. Use our tools to search, vet and track your influencer marketing campaigns."
-sitetitle: "inBeat Influencer Database | Search TikTok and Instagram Influencers"
+sitedescription: "Access our free toolkit for creator marketing, paid social, and organic social campaigns. Explore tools designed to help you optimize your marketing strategies and campaigns."
+sitetitle: "inBeat | Free Marketing Toolkit for Creator Marketing"
 defaultsocialimage: "https://www.inbeat.co/images/default-share-image.png"
 removefromexternalsearch: false
