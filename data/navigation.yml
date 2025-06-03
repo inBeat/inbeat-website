@@ -54,13 +54,13 @@ resources:
     hasMorePage: true
     announcement:
       color: 393045
-      title: Create high quality UGC ads.
-      topText: New Platform - Showcase
+      title: Scale your brand with a creative growth agency
+      topText: inBeat Agency
       cta:
-        text: Sign up - For free
+        text: Get started
         color: FDE7E6
-        title: Visit AdCollection
-        link: 'https://www.showca.se/'
+        title: Visit inBeat Agency
+        link: 'https://www.inbeat.agency/'
     pages:
       - name: Ad Mockup Generator
         link: '/ad-mockup-generator'

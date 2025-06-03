@@ -1,5 +1,5 @@
 <section id="header-container">
-	{{- partial "site/banner.html" (dict "context" . "text" "Create high quality UGC - Try Showcase for free" "url" "https://www.showca.se/") -}}
+	{{- partial "site/banner.html" -}}
 	<div class="container">
 		<div class="row middle-xs between-xs" id="header">
 			<div class="col-xs-6 col-sm-1 col-md-1">
@@ -115,20 +115,13 @@
 							</div>
 						</div>
 					</li>
-					<li class="creator-studio">
-						<a href="{{ "ugc-marketplace" | absURL }}" title="UGC Marketplace">UGC Marketplace</a>
-						<span class="new-badge">NEW</span>
-					</li>
+					<li><a href="https://www.inbeat.agency/" title="UGC Marketing" target="_blank">UGC Marketing</a></li>
 				</ul>
 			</div>
 			<div class="col-xs-4 col-md-3 hide-sm">
 				<ul class="right">
 					<li class="cta">
-            {{ if eq .RelPermalink "/ugc-marketplace/" }}
-              <a href="https://app.showca.se/users/sign_up?as=client" title="Sign up" class="btn btn-sm btn-crazy-hover no-border" target="_blank">Sign up - on Showcase</a>
-            {{ else }}
-              <a href="/shutdown" title="Important Update" class="btn btn-sm btn-crazy-hover no-border">Important Update</a>
-            {{ end }}
+            <a href="/shutdown" title="Important Update" class="btn btn-sm btn-crazy-hover no-border">Important Update</a>
 					</li>
 				</ul>
 			</div>
@@ -181,15 +174,11 @@
 						{{- end -}}
 					</div>
 				</li>
-				<li><a href="{{- $.Site.BaseURL -}}ugc-platform" title="UGC Platform">UGC Platform</a></li>
+				<li><a href="https://www.inbeat.agency/" title="UGC Marketing" target="_blank">UGC Marketing</a></li>
 			</ul>
 
 			<div class="cta">
-        {{ if eq .RelPermalink "/ugc-platform/" }}
-          <a href="https://app.showca.se/users/sign_up?as=client" title="Sign up" class="btn btn-sm btn-crazy-hover no-border" target="_blank">Sign up - on Showcase</a>
-        {{ else }}
-          <a class="btn btn-lg" href="/shutdown" target="_blank"><span>Important Update</span></a>
-        {{ end }}
+        <a class="btn btn-lg" href="/shutdown"><span>Important Update</span></a>
 			</div>
 		</div>
 	</div>
