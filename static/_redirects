@@ -71,6 +71,8 @@
 /book-a-demo* /shutdown 301
 /industries* /shutdown 301
 
+/ugc-marketplace* https://www.inbeat.agency/ 301
+
 # Toolkits redirects
 /engagement-rate-calculator-instagram* /shutdown 301
 /engagement-rate-calculator-tiktok* /shutdown 301
