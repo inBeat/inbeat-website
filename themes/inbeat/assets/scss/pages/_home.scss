@@ -197,15 +197,19 @@
   }
 
   a.learn-more {
-    font-weight: bold;
-    display: block;
-    padding-bottom: 1.5rem;
-    border-bottom: 1px solid $dark;
-    margin-bottom: 2.5rem;
+    font-weight: 500;
+    padding-top: 40px;
 
-    @include breakpoint(md) {
-      margin-bottom: 4rem;
+    @include breakpoint(sm-down) {
+      &.hide-md-up {
+        padding-top: 20px;
+      }
     }
+  }
+
+  hr {
+    border: none;
+    border-top: 1px solid rgba(0, 0, 0, 0.2) !important;
   }
 
   a.question {
