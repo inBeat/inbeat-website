@@ -9,7 +9,7 @@ hero:
   badgeText: Paid Resource
   title: Free marketing toolkit
   subtitle: >-
-    A series of free tools for creator marketing, paid social, organic social and many other things.
+    A series of free tools for creator marketing, paid social, organic social, created by inBeat Agency.
   image: /images/home-hero.png
   cta:
     link: /free-toolkit
@@ -24,6 +24,17 @@ extras:
   - title: Free, forever
     text: Our tools we’re designed to be free, and will remain so! We’re looking to create a great resource for everyone!
     icon: affordable-pricing
+features:
+  - id: pick
+    # class: popupTrigger
+    title: Why did we create the toolkit?
+    text: >-
+      Our free tools were initially created for internal use but we decided to make them available to everyone!
+    link:
+      text: Learn more about the agency →
+      link: "https://inbeat.agency/"
+      external: true
+    video: pick-out-the-bestest
 whatwedo:
   title: Creator Studio
   text: Collaborate with the best micro-influencers, without doing all the work. Save hundres of hours. No more endless discovery, email pitches and influencer ghosting. Inbeat handles it all for you
