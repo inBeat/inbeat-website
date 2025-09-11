@@ -344,7 +344,7 @@
   font-weight: 600;
   font-size: 16px;
   line-height: 26px;
-  letter-spacing: --0.3px;
+  letter-spacing: -0.3px;
   color: #535562;
   .mockup__description{
     margin-bottom: 8px !important;
@@ -616,11 +616,11 @@
     margin-top: 0px;
     background: #F9F7F7;
     margin-top: 24px;
+    @include breakpoint(md-down) {
+      width: 100%;
+      padding-bottom: 24px;
+    }
   }
-}
-  @include breakpoint(md-down) {
-    width: 100%;
-    padding-bottom: 24px;
 }
 
 
