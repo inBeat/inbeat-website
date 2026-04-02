@@ -2,7 +2,32 @@ const GhostContentAPI = require("@tryghost/content-api");
 const yaml = require("js-yaml");
 const fs = require("fs-extra");
 const path = require("path");
-const pretty = require('pretty');
+
+/**
+ * Sanitize raw HTML embed blocks from Ghost.
+ * Ghost sometimes truncates long embeds (e.g. Instagram/TikTok with inline SVGs),
+ * leaving unclosed tags that break the rest of the page.
+ * This function removes any kg-card HTML block whose tags are not properly balanced.
+ */
+function sanitizeHtmlEmbeds(html) {
+  return html.replace(
+    /<!--kg-card-begin: html-->([\s\S]*?)<!--kg-card-end: html-->/g,
+    (match, inner) => {
+      // Count key container tags that must be balanced
+      const tags = ["blockquote", "iframe", "div", "script", "section"];
+      for (const tag of tags) {
+        const openCount = (inner.match(new RegExp(`<${tag}[\\s>]`, "gi")) || []).length;
+        const closeCount = (inner.match(new RegExp(`</${tag}>`, "gi")) || []).length;
+        if (openCount !== closeCount) {
+          console.warn(`  ⚠ Removed broken HTML embed (unclosed <${tag}>: ${openCount} open, ${closeCount} close)`);
+          return "";
+        }
+      }
+      return match;
+    }
+  );
+}
+
 
 if (process.env.NODE_ENV !== "production") {
   require("dotenv").config();
@@ -45,9 +70,9 @@ const createMdFilesFromGhost = async () => {
           /https:\/\/ghost.inbeat.co\/content\/images/gi,
           "https://ghost.inbeat.co/content/images/size/w1000"
         );
-        // content = content.replace(/<p>{{% protip title=&quot;/gi, '{{% protip title="');
-        // content = content.replace(/&quot; %}}<\/p>/gi, '" %}}');
-        // content = content.replace('<p>{{% /protip %}}</p>', '{{% /protip %}}');
+
+        // Remove broken/truncated HTML embeds (e.g. Instagram/TikTok with cut-off SVGs)
+        content = sanitizeHtmlEmbeds(content);
 
         const frontmatter = {
           title: post.meta_title || post.title,
@@ -139,7 +164,7 @@ const createMdFilesFromGhost = async () => {
         const yamlPost = await yaml.dump(frontmatter);
 
         // Super simple concatenating of the frontmatter and our content
-        const fileString = `---\n${yamlPost}\n---\n${pretty(content)}\n`;
+        const fileString = `---\n${yamlPost}\n---\n${content}\n`;
 
         // Save the final string of our file as a Markdown file
         await fs.writeFile(

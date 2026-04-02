@@ -1,10 +1,9 @@
 ---
-title: inBeat
+title: Influencer Marketing ROI Calculator
 description: >-
   Inbeat
 slug: influencer-marketing-roi-calculator
 layout: influencer-marketing-roi-calculator
-title: Influencer Marketing ROI Calculator
 subtitle: "Influencer Marketing ROI Calculator"
 hero:
   title: Influencer Marketing ROI Calculator

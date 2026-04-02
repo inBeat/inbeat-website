@@ -1,10 +1,9 @@
 ---
-title: inBeat
+title: CTR Calculator
 description: >-
   Inbeat
 slug: ctr-calculator
 layout: ctr-calculator
-title: CTR Calculator
 subtitle: "CTR Calculator"
 hero:
   title: Click-Through Rate (CTR) Calculator

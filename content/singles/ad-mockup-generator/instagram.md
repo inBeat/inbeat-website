@@ -1,11 +1,10 @@
 ---
-title: inBeat
+title: Instagram Ad Mockup
 description: >-
   Inbeat
 slug: ad-mockup-generator/instagram
 name: instagram
 layout: ad-mockup-generator
-title: Instagram Ad Mockup
 subtitle: "Instagram mockup"
 og_image: >- 
     https://www.inbeat.co/images/ad-mockup-banner.png

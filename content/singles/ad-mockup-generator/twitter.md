@@ -1,11 +1,10 @@
 ---
-title: inBeat
+title: Twitter Ad Mockup
 description: >-
   Inbeat
 slug: ad-mockup-generator/twitter
 name: twitter
 layout: ad-mockup-generator
-title: Twitter Ad Mockup
 subtitle: "Twitter mockup"
 og_image: >- 
     https://www.inbeat.co/images/ad-mockup-banner.png
