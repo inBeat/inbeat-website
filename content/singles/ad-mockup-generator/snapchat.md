@@ -1,11 +1,10 @@
 ---
-title: inBeat
+title: Snapchat Ad Mockup
 description: >-
   Inbeat
 slug: ad-mockup-generator/snapchat
 name: snapchat
 layout: ad-mockup-generator
-title: Snapchat Ad Mockup
 subtitle: "Snapchat mockup"
 og_image: >- 
     https://www.inbeat.co/images/ad-mockup-banner.png

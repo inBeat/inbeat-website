@@ -1,10 +1,9 @@
 ---
-title: inBeat
+title: CPM Calculator
 description: >-
   Inbeat
 slug: cpm-calculator
 layout: cpm-calculator
-title: CPM Calculator
 subtitle: "CPM Calculator"
 hero:
   title: Free CPM Calculator

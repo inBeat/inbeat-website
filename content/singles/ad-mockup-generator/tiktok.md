@@ -1,11 +1,10 @@
 ---
-title: inBeat
+title: TikTok Ad Mockup
 description: >-
   Inbeat
 slug: ad-mockup-generator/tiktok
 name: tiktok
 layout: ad-mockup-generator
-title: TikTok Ad Mockup
 subtitle: "TikTok mockup"
 og_image: >- 
     https://www.inbeat.co/images/ad-mockup-banner.png

@@ -1,10 +1,9 @@
 ---
-title: inBeat
+title: Return On Ad Spend Calculator
 description: >-
   Inbeat
 slug: return-on-ad-spend-calculator
 layout: roas-calculator
-title: Return On Ad Spend Calculator
 subtitle: "Return On Ad Spend Calculator"
 hero:
   title: ROAS Calculator</br>(Return on ad spend)

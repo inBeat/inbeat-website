@@ -1,11 +1,10 @@
 ---
-title: inBeat
+title: Facebook Ad Mockup
 description: >-
   Inbeat
 slug: ad-mockup-generator/facebook
 name: facebook
 layout: ad-mockup-generator
-title: Facebook Ad Mockup
 subtitle: "Facebook mockup"
 og_image: >- 
     https://www.inbeat.co/images/ad-mockup-banner.png

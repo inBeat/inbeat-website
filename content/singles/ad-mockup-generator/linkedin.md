@@ -1,11 +1,10 @@
 ---
-title: inBeat
+title: Linkedin Ad Mockup
 description: >-
   Inbeat
 slug: ad-mockup-generator/linkedin
 name: linkedin
 layout: ad-mockup-generator
-title: Linkedin Ad Mockup
 subtitle: "Linkedin mockup"
 og_image: >- 
     https://www.inbeat.co/images/ad-mockup-banner.png

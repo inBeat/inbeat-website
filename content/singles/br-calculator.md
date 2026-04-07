@@ -1,10 +1,9 @@
 ---
-title: inBeat
+title: Bounce Rate Calculator
 description: >-
   Inbeat
 slug: bounce-rate-calculator
 layout: br-calculator
-title: Bounce Rate Calculator
 subtitle: "Bounce Rate Calculator"
 hero:
   title: Free Bounce Rate Calculator

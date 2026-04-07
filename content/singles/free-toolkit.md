@@ -1,10 +1,9 @@
 ---
-title: Free Toolkit | inBeat
+title: The Toolkit
 description: >-
   Everything you need to assist you in influencer marketing
 slug: free-toolkit
 layout: free-toolkit
-title: The Toolkit
 subtitle: "Everything you need to assist you in influencer marketing"
 toolkits:
   - influencerMarketingTools:

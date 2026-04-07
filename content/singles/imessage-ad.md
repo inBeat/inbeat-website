@@ -1,9 +1,8 @@
 ---
-title: iMessage Ad | inBeat
+title: "Free Customizable 'iMessage Ad' Template"
 description: Create engaging, personalized ads with our easy-to-use 'iMessage' style Figma template.
 slug: imessage-ad
 layout: imessage-ad
-title: Free Customizable 'iMessage Ad' Template
 subtitle:  Create engaging, personalized ads with our easy-to-use <br> 'iMessage' style Figma template.
 ctalink: https://www.figma.com/community/file/1319066857995331091/imessage-ads-template-inbeat
 relatedTools:

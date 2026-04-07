@@ -1,10 +1,9 @@
 ---
-title: inBeat
+title: CPA Calculator
 description: >-
   Inbeat
 slug: cpa-calculator
 layout: cpa-calculator
-title: CPA Calculator
 subtitle: "CPA Calculator"
 hero:
   title: CPA Calculator (Cost Per Acquisition or Cost Per Action)
