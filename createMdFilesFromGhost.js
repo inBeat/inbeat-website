@@ -28,6 +28,74 @@ function sanitizeHtmlEmbeds(html) {
   );
 }
 
+/**
+ * Force external links to open in a new tab.
+ *
+ * Ghost (v3 API) does not expose a per-link "open in new tab" toggle to editors,
+ * so we apply the standard convention site-wide: any link pointing to a host
+ * that is NOT inbeat.co / www.inbeat.co opens in a new tab with a safe `rel`.
+ *
+ * Rules:
+ *  - Internal hosts (untouched): inbeat.co, www.inbeat.co, relative paths, anchors, mailto:, tel:.
+ *  - External: add target="_blank" + rel="noopener noreferrer".
+ *  - If the <a> already has an explicit `target` attribute, we respect it and skip.
+ *  - If the <a> already has a `rel`, we merge (no duplicates) instead of overwriting.
+ */
+function openExternalLinksInNewTab(html) {
+  const INTERNAL_HOSTS = new Set(["inbeat.co", "www.inbeat.co"]);
+
+  function isExternalHref(href) {
+    if (!href) return false;
+    const trimmed = href.trim();
+    // Skip relative paths, anchors, and non-http(s) schemes (mailto:, tel:, etc.)
+    if (!/^https?:\/\//i.test(trimmed)) return false;
+    try {
+      const url = new URL(trimmed);
+      return !INTERNAL_HOSTS.has(url.host.toLowerCase());
+    } catch (e) {
+      return false;
+    }
+  }
+
+  function mergeRel(existingRel) {
+    const required = ["noopener", "noreferrer"];
+    const tokens = (existingRel || "")
+      .split(/\s+/)
+      .map((t) => t.trim())
+      .filter(Boolean);
+    for (const r of required) {
+      if (!tokens.includes(r)) tokens.push(r);
+    }
+    return tokens.join(" ");
+  }
+
+  // Match opening <a ...> tags. Capture the inner attributes string.
+  return html.replace(/<a\b([^>]*)>/gi, (fullMatch, attrs) => {
+    const hrefMatch = attrs.match(/\shref\s*=\s*("([^"]*)"|'([^']*)')/i);
+    if (!hrefMatch) return fullMatch;
+    const href = hrefMatch[2] !== undefined ? hrefMatch[2] : hrefMatch[3];
+
+    if (!isExternalHref(href)) return fullMatch;
+
+    // Respect explicit target — don't override editor/author intent.
+    if (/\starget\s*=\s*("[^"]*"|'[^']*')/i.test(attrs)) return fullMatch;
+
+    let newAttrs = attrs + ` target="_blank"`;
+
+    // Merge or add rel
+    const relMatch = newAttrs.match(/\srel\s*=\s*("([^"]*)"|'([^']*)')/i);
+    if (relMatch) {
+      const existing = relMatch[2] !== undefined ? relMatch[2] : relMatch[3];
+      const merged = mergeRel(existing);
+      newAttrs = newAttrs.replace(relMatch[0], ` rel="${merged}"`);
+    } else {
+      newAttrs += ` rel="noopener noreferrer"`;
+    }
+
+    return `<a${newAttrs}>`;
+  });
+}
+
 
 if (process.env.NODE_ENV !== "production") {
   require("dotenv").config();
@@ -73,6 +141,9 @@ const createMdFilesFromGhost = async () => {
 
         // Remove broken/truncated HTML embeds (e.g. Instagram/TikTok with cut-off SVGs)
         content = sanitizeHtmlEmbeds(content);
+
+        // Force external links to open in a new tab (Ghost v3 has no per-link toggle)
+        content = openExternalLinksInNewTab(content);
 
         const frontmatter = {
           title: post.meta_title || post.title,
