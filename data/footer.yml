@@ -8,7 +8,7 @@
       target: '_self'
       external: false
     - anchor: Growthnotes Newsletter
-      link: 'https://www.growthnotes.news/'
+      link: 'https://www.growthnotes.net/'
       external: true
     - anchor: The Toolkit
       link: free-toolkit
