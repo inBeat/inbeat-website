@@ -46,7 +46,7 @@ resources:
         target: '_self'
       - name: Growthnotes - Newsletter
         description: Insights for the modern marketer
-        link: 'https://www.growthnotes.news/'
+        link: 'https://www.growthnotes.net/'
         target: '_blank'
   - color: grey
     title: The Toolkit
