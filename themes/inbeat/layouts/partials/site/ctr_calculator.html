@@ -113,15 +113,18 @@
         calculateOtherField(fieldName) {
             switch(fieldName){
                 case 'ctr': 
-                this.ctrValue = (( this.impressionsValue / this.totalClickValue) * 100).toFixed(2);
+                // CTR = (clicks / impressions) * 100
+                this.ctrValue = (( this.totalClickValue / this.impressionsValue) * 100).toFixed(2);
                 this.updateValue()
                 break;
                 case 'impressions':
+                    // impressions = clicks / (CTR / 100)
                     this.impressionsValue = ((this.totalClickValue/this.ctrValue) * 100 ).toFixed(0);
                     this.updateValue()
                     break;
                 case 'totalClick':
-                    this.totalClickValue = ((this.impressionsValue /this.ctrValue) * 100).toFixed(0);
+                    // clicks = impressions * (CTR / 100)
+                    this.totalClickValue = ((this.impressionsValue * this.ctrValue) / 100).toFixed(0);
                     this.updateValue()
                     break;
             }
